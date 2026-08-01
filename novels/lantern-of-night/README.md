@@ -4,6 +4,7 @@ slug: "lantern-of-night"
 genre: "Urban Fantasy / Mystery"
 tone: "Moody, atmospheric, subtle supernatural"
 protagonist: "Mila, seorang penjaga lentera malam"
+description: "Di kota yang tak pernah tidur, Mila merawat lentera malam dan menemui rahasia bayangan yang membahayakan keseimbangan malam."
 status: "Draft"
 started: "2026-08-01"
 ---

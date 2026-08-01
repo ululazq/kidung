@@ -24,11 +24,24 @@ export interface Chapter {
   wordCount: number
 }
 
+function extractSynopsis(markdown: string): string | undefined {
+  const match = markdown.match(/##\s*Sinopsis\s*\n([\s\S]*?)(?:\n##\s|\n#\s|$)/i)
+  if (!match) return undefined
+  return match[1]
+    .trim()
+    .split(/\n+/)
+    .map((line) => line.trim())
+    .filter(Boolean)
+    .join(' ')
+}
+
 export function getNovels(): Novel[] {
   const readmes = fg.sync('*/README.md', { cwd: NOVELS_DIR, onlyFiles: true })
   return readmes.map((rel) => {
     const slug = rel.split(/[\\/]/)[0]
-    const { data } = matter(fs.readFileSync(path.join(NOVELS_DIR, rel), 'utf-8'))
+    const file = path.join(NOVELS_DIR, rel)
+    const source = fs.readFileSync(file, 'utf-8')
+    const { data, content } = matter(source)
     return {
       slug,
       title: data.title || slug,
@@ -36,7 +49,7 @@ export function getNovels(): Novel[] {
       tone: data.tone,
       protagonist: data.protagonist,
       status: data.status,
-      description: data.description,
+      description: data.description || extractSynopsis(content),
     }
   })
 }
