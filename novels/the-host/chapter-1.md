@@ -1,3 +1,8 @@
+---
+title: "Awakening"
+chapter: 1
+---
+
 # Chapter 1: Awakening
 
 _Coming soon._

@@ -1,0 +1,71 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getNovels, getChapters } from '../lib/novels';
+
+const novels = getNovels();
+const novelData = novels.map((novel) => ({
+  ...novel,
+  chapterCount: getChapters(novel.slug).length,
+}));
+---
+
+<BaseLayout title="Kidung � Rumah Baca Novel" description="Platform baca novel gelap dan kontemporer.">
+  <main class="page">
+    <header class="site-header">
+      <a href="/" class="brand">
+        <span>Kidung</span>
+        <span class="brand-subtitle">Rumah baca novel</span>
+      </a>
+    </header>
+
+    <section class="section">
+      <h2 class="section-title">Judul yang tersedia</h2>
+      <p class="section-text">Pilih novel, buka chapter pertama, dan lanjutkan saat kamu siap.</p>
+
+      {novelData.length === 0 ? (
+        <p class="meta">Belum ada novel tersedia.</p>
+      ) : (
+        <div class="cards">
+          {novelData.map((novel) => (
+            <a href={`/novel/${novel.slug}`} class="card">
+              <div class="card-title">{novel.title}</div>
+              <p class="card-text">{novel.description || 'Sinopsis belum tersedia.'}</p>
+              <div class="pill">{novel.chapterCount} chapter</div>
+              <div class="novel-history" data-slug={novel.slug}>Belum ada riwayat baca.</div>
+            </a>
+          ))}
+        </div>
+      )}
+    </section>
+
+    <section class="section section-grid">
+      <div class="card">
+        <div class="card-title">Fokus membaca</div>
+        <p class="card-text">Desain gelap dan sederhana membantu menjaga konsentrasi saat membaca cerita panjang.</p>
+      </div>
+      <div class="card">
+        <div class="card-title">Navigasi lancar</div>
+        <p class="card-text">Daftar chapter tersusun rapi agar kamu bisa langsung lompat ke bagian selanjutnya.</p>
+      </div>
+    </section>
+
+    <footer class="footer">
+      <p>� {new Date().getFullYear()} Kidung � Desain sederhana untuk pembaca novel.</p>
+    </footer>
+    <script>
+      document.addEventListener('DOMContentLoaded', () => {
+        document.querySelectorAll('.novel-history').forEach((node) => {
+          const slug = node.dataset.slug;
+          const saved = localStorage.getItem('kidung-reading-history-' + slug);
+          if (!saved) return;
+          try {
+            const history = JSON.parse(saved);
+            node.textContent = `Terakhir: ${history.chapterTitle} — ${history.sectionTitle}`;
+          } catch (error) {
+            // ignore invalid local storage
+          }
+        });
+      });
+    </script>
+  </main>
+</BaseLayout>

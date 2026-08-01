@@ -1,0 +1,166 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getChapters, getNovel } from '../../lib/novels';
+import { marked } from 'marked';
+
+export function getStaticPaths() {
+  return getChapters().map((chapter) => ({ params: { slug: chapter.slug } }));
+}
+
+const { slug } = Astro.params;
+const chapters = getChapters();
+const chapter = chapters.find((c) => c.slug === slug);
+if (!chapter) return Astro.redirect('/404');
+
+const novel = getNovel(chapter.novelSlug);
+const novelChapters = getChapters(chapter.novelSlug);
+const currentIndex = novelChapters.findIndex((c) => c.slug === slug);
+const prevChapter = currentIndex > 0 ? novelChapters[currentIndex - 1] : null;
+const nextChapter = currentIndex < novelChapters.length - 1 ? novelChapters[currentIndex + 1] : null;
+const readingTime = Math.ceil(chapter.wordCount / 200);
+const html = marked(chapter.content);
+---
+
+<BaseLayout title={`Chapter ${chapter.number}: ${chapter.title} � ${novel?.title || 'Kidung'}`} description={`Membaca chapter ${chapter.title} dari ${novel?.title || 'Kidung'}.`}>
+  <main class="page">
+    <header class="site-header">
+      <a href={`/novel/${chapter.novelSlug}`} class="brand">{novel?.title || 'Kidung'}</a>
+      <nav class="site-nav">
+        <a href={`/novel/${chapter.novelSlug}`} class="button button-ghost">Daftar Chapter</a>
+        <a href="/" class="button button-ghost">Home</a>
+      </nav>
+    </header>
+    <div class="chapter-floater">
+      {prevChapter ? <a href={`/chapter/${prevChapter.slug}`} class="button button-ghost">Prev</a> : <span />}
+      <span class="chapter-floating-title">{chapter.title}</span>
+      {nextChapter ? <a href={`/chapter/${nextChapter.slug}`} class="button button-ghost">Next</a> : <span />}
+    </div>
+
+    <section class="section">
+      <span class="hero-label">Chapter {chapter.number} � {readingTime} menit baca</span>
+      <h1 class="article-title">{chapter.title}</h1>
+      <div class="bookmark-banner" id="bookmarkBanner">Bookmark: belum ada posisi tersimpan.</div>
+      <div class="width-controls">
+        <span>Lebar teks:</span>
+        <button type="button" data-width="narrow">Narrow</button>
+        <button type="button" data-width="medium">Medium</button>
+        <button type="button" data-width="wide">Wide</button>
+      </div>
+      <div id="readerCanvas" class="article-content" data-width="medium" set:html={html} />
+      <div id="readerMeta" data-novel-history-key={`kidung-reading-history-${chapter.novelSlug}`} data-chapter-slug={chapter.slug} data-chapter-title={chapter.title} hidden></div>
+    </section>
+    <script>
+      const widthStorageKey = 'kidung-reader-width';
+      const bookmarkStorageKey = 'kidung-bookmark-' + window.location.pathname;
+      const readerMeta = document.getElementById('readerMeta');
+      const novelHistoryKey = readerMeta?.dataset?.novelHistoryKey || '';
+      const chapterSlug = readerMeta?.dataset?.chapterSlug || '';
+      const chapterTitle = readerMeta?.dataset?.chapterTitle || '';
+      const contentContainers = () => Array.from(document.querySelectorAll('.article-content'));
+      const buttons = Array.from(document.querySelectorAll('[data-width]'));
+      const bookmarkBanner = document.getElementById('bookmarkBanner');
+      let manualSectionBookmark = false;
+
+      function setWidth(width) {
+        contentContainers().forEach((container) => {
+          container.dataset.width = width;
+        });
+        buttons.forEach((btn) => btn.classList.toggle('active', btn.dataset.width === width));
+        localStorage.setItem(widthStorageKey, width);
+      }
+
+      function getCurrentParagraphIndex() {
+        const paragraphs = Array.from(document.querySelectorAll('#readerCanvas p, #readerCanvas h1, #readerCanvas h2, #readerCanvas h3, #readerCanvas li'));
+        const threshold = window.scrollY + window.innerHeight / 3;
+        return paragraphs.findIndex((node) => node.offsetTop + node.offsetHeight > threshold);
+      }
+
+      function updateBookmarkStatus() {
+        if (manualSectionBookmark) {
+          return;
+        }
+        const idx = getCurrentParagraphIndex();
+        if (idx === -1) {
+          bookmarkBanner.textContent = 'Bookmark: terakhir dibaca berada di halaman ini.';
+        } else {
+          bookmarkBanner.textContent = `Bookmark: paragraf ke-${idx + 1} terakhir dibaca.`;
+        }
+      }
+
+      function saveBookmark() {
+        window.requestAnimationFrame(() => {
+          localStorage.setItem(bookmarkStorageKey, window.scrollY.toString());
+          if (!manualSectionBookmark) {
+            updateBookmarkStatus();
+          }
+        });
+      }
+
+      function restoreBookmark() {
+        const saved = localStorage.getItem(bookmarkStorageKey);
+        if (!saved) return;
+        const position = parseInt(saved, 10);
+        if (!Number.isNaN(position)) {
+          window.scrollTo(0, position);
+          bookmarkBanner.textContent = 'Bookmark: posisi terakhir dipulihkan.';
+        }
+      }
+
+      function saveReadingHistory(sectionTitle, offsetTop) {
+        const history = {
+          chapterSlug,
+          chapterTitle,
+          sectionTitle,
+          offsetTop,
+          updatedAt: Date.now(),
+        };
+        localStorage.setItem(novelHistoryKey, JSON.stringify(history));
+        manualSectionBookmark = true;
+        bookmarkBanner.textContent = `Bookmark: posisi terakhir dibaca pada "${sectionTitle}".`;
+      }
+
+      function createSectionBookmarkButtons() {
+        const headings = Array.from(document.querySelectorAll('#readerCanvas h1, #readerCanvas h2, #readerCanvas h3, #readerCanvas h4'));
+        headings.forEach((heading) => {
+          if (heading.dataset.bookmarkInit) return;
+          heading.dataset.bookmarkInit = 'true';
+          const sectionTitle = heading.textContent.trim();
+          const button = document.createElement('button');
+          button.type = 'button';
+          button.className = 'section-bookmark-button';
+          button.textContent = 'Bookmark';
+          button.addEventListener('click', (event) => {
+            event.stopPropagation();
+            saveReadingHistory(sectionTitle, heading.offsetTop);
+          });
+          heading.appendChild(button);
+        });
+      }
+
+      document.addEventListener('DOMContentLoaded', () => {
+        const savedWidth = localStorage.getItem(widthStorageKey);
+        setWidth(savedWidth === 'narrow' || savedWidth === 'wide' ? savedWidth : 'medium');
+        restoreBookmark();
+        updateBookmarkStatus();
+        createSectionBookmarkButtons();
+
+        buttons.forEach((button) => {
+          button.addEventListener('click', () => setWidth(button.dataset.width));
+        });
+
+        window.addEventListener('scroll', () => {
+          saveBookmark();
+        }, { passive: true });
+      });
+    </script>
+
+    <section class="section chapter-nav">
+      {prevChapter ? (
+        <a href={`/chapter/${prevChapter.slug}`} class="nav-card">? {prevChapter.title}</a>
+      ) : null}
+      {nextChapter ? (
+        <a href={`/chapter/${nextChapter.slug}`} class="nav-card">{nextChapter.title} ?</a>
+      ) : null}
+    </section>
+  </main>
+</BaseLayout>

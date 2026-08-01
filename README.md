@@ -8,9 +8,7 @@ Rumah cerita. Rumah novel. Rumah imajinasi.
 novels/
 └── <nama-novel>/
     ├── README.md        # metadata: judul, sinopsis, genre, status
-    ├── chapter-1.md     # isi chapter
-    ├── chapter-2.md
-    └── ...
+    └── chapter-1.md     # isi chapter
 ```
 
 ## Cara Menambah Novel
@@ -27,4 +25,11 @@ git push origin main
 
 ## Novel
 
-- [The Host](./novels/the-host/) — Dark fantasy wayang reincarnation
+- [The Host](/novel/the-host) — Dark fantasy wayang reincarnation
+
+## Tech
+
+- **Framework:** Astro 4.12
+- **Styling:** Tailwind CSS (custom)
+- **Content:** Markdown
+- **Deploy:** Vercel
