@@ -1,6 +1,6 @@
 ---
 name: novel-writing-pro
-description: "Novel writing intelligence for dark fantasy, contemporary urban, and broader genre fiction. Provides structure, character patterns, worldbuilding anchors, pacing rules, scene templates, quality gates, and a plot-hole prevention system based on blueprint-driven approach. Proven on The Host (15 chapters, urban wayang fantasy) and Lantern of Night (urban fantasy mystery)."
+description: "Novel writing intelligence for dark fantasy, contemporary urban, action fantasy, and broader genre fiction. Provides structure, character patterns, worldbuilding anchors, pacing rules, scene templates, quality gates, and a plot-hole prevention system based on blueprint-driven approach. Proven on The Host (urban wayang fantasy), Lantern of Night (urban fantasy mystery), and Gods in Jars (dark-cozy urban fantasy)."
 ---
 
 # Novel Writing Pro — Blueprint-Based Storycraft
@@ -47,7 +47,7 @@ Reusable writing skill. Use when: outlining, expanding story ideas into chapter 
 
 ## Quality Gates (per chapter)
 
-- **Length:** 2,000–3,000 kata (chapter minimum 1,800; pivotal scenes up to 5,500).
+- **Length:** ~5,000 kata per chapter (minimum 4,800; blueprint target 4,500-5,500). This is the platform standard for Kidung novels — not optional.
 - **Sensory anchors:** minimum 3 concrete sensory details (smell, sound, texture, temperature) per chapter.
 - **Scene beats:** each chapter = 2-4 scenes with clear cause→effect.
 - **Dual voice:** if dual consciousness, alternate internal monologue; if atmospheric POV, keep the register consistent.
@@ -94,6 +94,44 @@ After every 3 chapters, verify:
 
 - **The Host:** dark, gritty, philosophical; dual POV (Arif/Rahwana); skills in English (Mind Palace, Karma Sense, Shadow Step, Soul Whisper); cost = biological aging; antagonist = fusion of consciousness (Agung/Brahma shard); resolution = shared sacrifice.
 - **Lantern of Night:** moody, atmospheric, literary; sensory-heavy; single POV (Mila); supernatural terms in Indonesian (Nyala, bayangan, nama); cost = memory fragments per name housed; antagonist = The Collector (Luruh) who harvests names; twist = protagonist is a living vessel (half-name). Resolution = giving the antagonist a home instead of destroying her.
+- **Gods in Jars:** warm, dry-humored, dark-cozy; single POV (Nadia, Altar-Keeper); Indonesian supernatural terms (guci, sigil, Altar-Keeper, domain, fading stages Radiant→Faint→Dim→Ghost→Gone); cost = memory loss per ritual (escalating: name → face → identity → city-wide); antagonist = Lupa Corp / Tuan Lupa (moral grey: forgetting is healing); twist = the antagonist is not defeated but given a home (the empty jar Rukmini kept for 30 years). Scene headers `**Scene N: Title**` allowed as structure. Chapters use CRLF-safe plain text, no edit-summary junk blocks.
+
+## README Frontmatter Template (Kidung platform standard)
+
+Every novel README must open with this exact frontmatter shape (see existing novels for reference):
+
+```yaml
+---
+title: "<Title>"
+slug: "<slug>"
+genre: "<Genre, e.g. Urban Fantasy / Action Fantasy>"
+tone: "<2-4 word mood description>"
+protagonist: "<Name, role, one-line hook>"
+description: "<1-2 sentence sinopsis>"
+status: "In Progress"   # flip to "Complete" + add completed: <date> before final push
+started: "<YYYY-MM-DD>"
+completed: "<YYYY-MM-DD>"  # only when Complete
+language: "Indonesian"
+---
+```
+
+Allowed genres: dark-cozy, urban fantasy, metaphysical, action-fantasy, action, dark fantasy, mystery.
+
+## Platform Checklist (before push)
+
+- [ ] All 15 chapters ≥4,800 kata (target ~5,000).
+- [ ] Frontmatter valid YAML in every file — run `npm run build` before commit; build catches corrupted frontmatter.
+- [ ] No meta/junk blocks in chapter tails (no "Ringkasan perubahan", "End Hook", scene-plan notes).
+- [ ] README status flipped to "Complete" + `completed` date added.
+- [ ] No stray temp scripts (debug*.py, trim*.ps1, etc.) committed to repo.
+- [ ] `npm run build` succeeds, then `git add . && git commit && git push`.
+
+## Lessons Learned (from Gods in Jars)
+
+- **Never append prose via scripts that can collide with frontmatter.** After any insertion, verify first 5 lines + run build before commit.
+- **Word count must be verified with real prose count**, not bytes: PowerShell `((Get-Content $f -Raw) -split '\s+' | Where-Object {$_}).Count`.
+- **CRLF vs LF:** files written on Windows may use CRLF; exact-match edits fail against LF strings. Read file first, confirm line endings, then edit.
+- **Sub-agents are unreliable for long prose** — expansion to ~5k/chapter was done manually, in-place, with verified counts after each pass.
 
 ## How to Adapt
 
