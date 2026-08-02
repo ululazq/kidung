@@ -166,17 +166,17 @@ const html = marked(chapter.content);
     <section class="section chapter-nav">
       <div class="chapter-nav-inner">
         {prevChapter ? (
-          <a href={`/chapter/${prevChapter.slug}`} class="nav-card">
+          <a href={`/chapter/${prevChapter.slug}`} class="nav-card nav-prev">
             <span class="nav-label">? Chapter Sebelumnya</span>
             <span class="nav-title">{prevChapter.title}</span>
           </a>
-        ) : <span />}
+        ) : null}
         {nextChapter ? (
-          <a href={`/chapter/${nextChapter.slug}`} class="nav-card">
+          <a href={`/chapter/${nextChapter.slug}`} class="nav-card nav-next">
             <span class="nav-label">Chapter Selanjutnya ?</span>
             <span class="nav-title">{nextChapter.title}</span>
           </a>
-        ) : <span />}
+        ) : null}
       </div>
     </section>
   </main>
