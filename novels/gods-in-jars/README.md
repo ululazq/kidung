@@ -1,10 +1,14 @@
 ---
 title: "Gods in Jars"
 slug: "gods-in-jars"
-status: "In Progress"
-started: "2026-08-02"
-target: "15 chapters"
 genre: "Urban Fantasy (dark-cozy)"
+tone: "Hangat, kering, gelap bertahap; humor kering + kehangatan + kegelapan"
+protagonist: "Nadia, Altar-Keeper toko guci, mantan developer aplikasi"
+description: "Nadia mewarisi toko guci berisi dewa-dewa kecil yang dilupakan manusia. Di tengah kota modern yang memilih melupakan, ia harus menyelamatkan mereka dari Lupa Corp — korporasi yang menjual kebahagiaan dengan harga melupakan."
+status: "Complete"
+started: "2026-08-02"
+completed: "2026-08-02"
+target: "15 chapters"
 language: "Indonesian"
 ---
 
