@@ -50,14 +50,6 @@ const html = marked(chapter.content);
       <div id="readerMeta" data-novel-history-key={`kidung-reading-history-${chapter.novelSlug}`} data-chapter-slug={chapter.slug} data-chapter-title={chapter.title} hidden></div>
     </section>
 
-    <section class="section chapter-nav">
-      {prevChapter ? (
-        <a href={`/chapter/${prevChapter.slug}`} class="nav-card">? {prevChapter.title}</a>
-      ) : null}
-      {nextChapter ? (
-        <a href={`/chapter/${nextChapter.slug}`} class="nav-card">{nextChapter.title} ?</a>
-      ) : null}
-    </section>
     <script>
       const widthStorageKey = 'kidung-reader-width';
       const bookmarkStorageKey = 'kidung-bookmark-' + window.location.pathname;
