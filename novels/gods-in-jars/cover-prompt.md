@@ -40,4 +40,4 @@ A dark, atmospheric book cover illustration. A young Indonesian woman (late 20s,
 - Guci yang dipegang harus terlihat tanah liat — bukan kaca, bukan logam
 
 ## Lokasi File Cover
-Setelah generate, simpan sebagai `public/covers/gods-in-jars.jpg` (atau `.png`).
+Setelah generate, simpan sebagai `public/covers/gods-in-jars.webp` (atau `.png`).

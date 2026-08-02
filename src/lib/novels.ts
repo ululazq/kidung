@@ -51,7 +51,7 @@ export function getNovels(): Novel[] {
       protagonist: data.protagonist,
       status: data.status,
       description: data.description || extractSynopsis(content),
-      cover: `/covers/${slug}.png`,
+      cover: `/covers/${slug}.webp`,
     }
   })
 }

@@ -40,4 +40,4 @@ A moody, atmospheric book cover illustration. A young woman (late 20s, dark hair
 - Lentera harus terlihat hidup — berdenyut, bersinar
 
 ## Lokasi File Cover
-Setelah generate, simpan sebagai `public/covers/lantern-of-night.jpg` (atau `.png`).
+Setelah generate, simpan sebagai `public/covers/lantern-of-night.webp` (atau `.png`).

@@ -40,4 +40,4 @@ A dark, gritty book cover illustration. A young Indonesian man (late 20s, short 
 - Rahwana harus terlihat agung dan kuno, bukan menakutkan secara kartun
 
 ## Lokasi File Cover
-Setelah generate, simpan sebagai `public/covers/the-host.jpg` (atau `.png`).
+Setelah generate, simpan sebagai `public/covers/the-host.webp` (atau `.png`).
