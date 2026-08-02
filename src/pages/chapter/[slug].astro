@@ -19,12 +19,6 @@ const prevChapter = currentIndex > 0 ? novelChapters[currentIndex - 1] : null;
 const nextChapter = currentIndex < novelChapters.length - 1 ? novelChapters[currentIndex + 1] : null;
 const readingTime = Math.ceil(chapter.wordCount / 200);
 const html = marked(chapter.content);
-// Webnovel-style continuous reading: render this chapter + all following chapters below.
-const chaptersFromHere = novelChapters.slice(currentIndex);
-const renderedChapters = chaptersFromHere.map((c) => ({
-  ...c,
-  html: marked(c.content),
-}));
 ---
 
 <BaseLayout title={`Chapter ${chapter.number}: ${chapter.title} � ${novel?.title || 'Kidung'}`} description={`Membaca chapter ${chapter.title} dari ${novel?.title || 'Kidung'}.`}>
@@ -56,15 +50,14 @@ const renderedChapters = chaptersFromHere.map((c) => ({
       <div id="readerMeta" data-novel-history-key={`kidung-reading-history-${chapter.novelSlug}`} data-chapter-slug={chapter.slug} data-chapter-title={chapter.title} hidden></div>
     </section>
 
-    {renderedChapters.slice(1).map((c) => (
-      <section class="section chapter-continue">
-        <div class="chapter-divider">
-          <span class="hero-label">Chapter {c.number}</span>
-          <h2 class="article-title">{c.title}</h2>
-        </div>
-        <div class="article-content" data-width="medium" set:html={c.html} />
-      </section>
-    ))}
+    <section class="section chapter-nav">
+      {prevChapter ? (
+        <a href={`/chapter/${prevChapter.slug}`} class="nav-card">? {prevChapter.title}</a>
+      ) : null}
+      {nextChapter ? (
+        <a href={`/chapter/${nextChapter.slug}`} class="nav-card">{nextChapter.title} ?</a>
+      ) : null}
+    </section>
     <script>
       const widthStorageKey = 'kidung-reader-width';
       const bookmarkStorageKey = 'kidung-bookmark-' + window.location.pathname;
@@ -171,12 +164,20 @@ const renderedChapters = chaptersFromHere.map((c) => ({
     </script>
 
     <section class="section chapter-nav">
-      {prevChapter ? (
-        <a href={`/chapter/${prevChapter.slug}`} class="nav-card">? {prevChapter.title}</a>
-      ) : null}
-      {nextChapter ? (
-        <a href={`/chapter/${nextChapter.slug}`} class="nav-card">{nextChapter.title} ?</a>
-      ) : null}
+      <div class="chapter-nav-inner">
+        {prevChapter ? (
+          <a href={`/chapter/${prevChapter.slug}`} class="nav-card">
+            <span class="nav-label">? Chapter Sebelumnya</span>
+            <span class="nav-title">{prevChapter.title}</span>
+          </a>
+        ) : <span />}
+        {nextChapter ? (
+          <a href={`/chapter/${nextChapter.slug}`} class="nav-card">
+            <span class="nav-label">Chapter Selanjutnya ?</span>
+            <span class="nav-title">{nextChapter.title}</span>
+          </a>
+        ) : <span />}
+      </div>
     </section>
   </main>
 </BaseLayout>
