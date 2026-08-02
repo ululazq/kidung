@@ -362,7 +362,7 @@ Di rak, guci Wasesa bergetar pelan — seperti jantung yang setuju.
 
 Nadia kembali ke meja kerjanya, mengambil guci yang setengah jadi, dan melanjutkan mengukir sigilnya. Tangannya tidak gemetar lagi.
 
-ewa-dewa kecil yang menemukan cara untuk tinggal di dunia baru. Toko Guci Malam tidak lagi berjuang untuk mengembalikan dunia seperti dulu. Ia belajar bagaimana menyiapkan rumah baru, bagaimana memberi tempat bagi pengingatan yang selektif, dan bagaimana membiarkan lembutnya manusia hidup dengan kesalahan mereka.
+Dewa-dewa kecil yang menemukan cara untuk tinggal di dunia baru. Toko Guci Malam tidak lagi berjuang untuk mengembalikan dunia seperti dulu. Ia belajar bagaimana menyiapkan rumah baru, bagaimana memberi tempat bagi pengingatan yang selektif, dan bagaimana membiarkan lembutnya manusia hidup dengan kesalahan mereka.
 
 Di akhir bab ini, Nadia menulis di halaman kosong Catatan Altar: "Kami tidak merampas lupa. Kami hanya menyediakan tempat-tempat kecil untuk yang ingin diingat." Ia menutup buku itu, menaruhnya di laci, dan menyalakan lilin kecil. Cahaya di toko itu berputar, lembut, seperti janji.
 
