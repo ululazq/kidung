@@ -1,6 +1,7 @@
 ---
 title: "The Host"
 slug: "the-host"
+universe: "Kidungverse"
 genre: "Dark Fantasy / Contemporary Urban"
 tone: "Dark & gritty dengan philosophical undertones"
 protagonist: "Rahwana (ancient) + Arif (modern host)"
