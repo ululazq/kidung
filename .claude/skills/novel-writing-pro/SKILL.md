@@ -117,6 +117,11 @@ language: "Indonesian"
 
 Allowed genres: dark-cozy, urban fantasy, metaphysical, action-fantasy, action, dark fantasy, mystery.
 
+## Setting & Shared Universe
+
+- **Location is free:** Indonesia, full imaginary world (Middle Earth-style), or mixed — whatever makes the setting alive and consistent.
+- **Shared universe encouraged:** a new novel may live in the same world as an existing one. Read existing novel READMEs first; if the concept fits, place it in the shared universe with cross-references (locations, characters, myths, easter eggs). Name the universe in the blueprint (`universe: "<name>"` in README frontmatter). If the concept is stronger standalone, keep it standalone.
+
 ## Platform Checklist (before push)
 
 - [ ] All 15 chapters ≥4,800 kata (target ~5,000).
