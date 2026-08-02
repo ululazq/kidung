@@ -130,6 +130,7 @@ Allowed genres: dark-cozy, urban fantasy, metaphysical, action-fantasy, action, 
 - [ ] README status flipped to "Complete" + `completed` date added.
 - [ ] No stray temp scripts (debug*.py, trim*.ps1, etc.) committed to repo.
 - [ ] `npm run build` succeeds, then `git add . && git commit && git push`.
+- [ ] `cover-prompt.md` created in novel folder with AI image generation prompt (see Cover Prompt Template below).
 
 ## Lessons Learned (from Gods in Jars)
 
@@ -145,3 +146,27 @@ Replace setting, power mechanism, cost, factions, endgame. Keep: disturbance →
 ## Notes on Reuse
 
 This skill is a guide, not a formula. The best novels follow the core rules, then surprise the reader with specific details.
+
+## Cover Prompt Template (mandatory per novel)
+
+Every novel folder must contain a `cover-prompt.md` file with the following structure. This prompt is used to generate cover art via text-to-image AI (Gemini, ChatGPT, etc.).
+
+### Required Sections
+
+1. **Concept** — 1-2 sentences describing the visual concept of the cover.
+2. **Prompt** — A ready-to-paste AI image generation prompt in a code block. Include:
+   - Subject (protagonist, key visual element)
+   - Setting/background
+   - Mood and atmosphere
+   - Art style (digital painting, semi-realistic, etc.)
+   - Aspect ratio (3:4 portrait)
+   - Explicit instruction: "No text on the image"
+3. **Style** — Genre, mood, art style, lighting notes.
+4. **Color Palette** — Table with role, hex code, description.
+5. **Negative Prompt** — What to avoid (text, watermark, chibi, neon, etc.).
+6. **Aspect Ratio** — 3:4 (portrait), or 2:3.
+7. **Catatan untuk Iterasi** — Notes for refining the prompt on subsequent attempts.
+
+### Example
+
+See `novels/gods-in-jars/cover-prompt.md` for a complete example.
