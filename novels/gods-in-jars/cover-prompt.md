@@ -38,3 +38,6 @@ A dark, atmospheric book cover illustration. A young Indonesian woman (late 20s,
 - Jika hasil terlalu gelap: tambah sedikit rim light biru dari jendela
 - Jika Nadia terlihat terlalu Western: tambahkan detail wajah Asia Tenggara, kulit sawo matang, rambut hitam
 - Guci yang dipegang harus terlihat tanah liat — bukan kaca, bukan logam
+
+## Lokasi File Cover
+Setelah generate, simpan sebagai `public/covers/gods-in-jars.jpg` (atau `.png`).

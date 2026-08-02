@@ -29,10 +29,14 @@ const readingTime = Math.ceil(totalWords / 200);
       <span class="hero-label">{novel.genre || 'Novel'}</span>
       <div class="novel-detail">
         <div class="novel-detail-cover">
-          <div class="novel-cover-placeholder">
-            <span class="cover-glyph">📚</span>
-            <span>Cover akan menyusul</span>
-          </div>
+          {novel.cover ? (
+            <img src={novel.cover} alt={`Cover ${novel.title}`} />
+          ) : (
+            <div class="novel-cover-placeholder">
+              <span class="cover-glyph">📚</span>
+              <span>Cover akan menyusul</span>
+            </div>
+          )}
         </div>
         <div class="novel-detail-info">
           <h1 class="novel-detail-title">{novel.title}</h1>

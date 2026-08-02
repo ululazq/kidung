@@ -13,6 +13,7 @@ export interface Novel {
   protagonist?: string
   status?: string
   description?: string
+  cover?: string
 }
 
 export interface Chapter {
@@ -50,6 +51,7 @@ export function getNovels(): Novel[] {
       protagonist: data.protagonist,
       status: data.status,
       description: data.description || extractSynopsis(content),
+      cover: `/covers/${slug}.jpg`,
     }
   })
 }

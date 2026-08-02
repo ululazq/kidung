@@ -44,10 +44,14 @@ const novelData = novels.map((novel) => ({
           {novelData.map((novel) => (
             <a href={`/novel/${novel.slug}`} class="novel-card">
               <div class="novel-cover">
-                <div class="novel-cover-placeholder">
-                  <span class="cover-glyph">📚</span>
-                  <span>Cover akan menyusul</span>
-                </div>
+                {novel.cover ? (
+                  <img src={novel.cover} alt={`Cover ${novel.title}`} loading="lazy" />
+                ) : (
+                  <div class="novel-cover-placeholder">
+                    <span class="cover-glyph">📚</span>
+                    <span>Cover akan menyusul</span>
+                  </div>
+                )}
               </div>
               <div class="novel-card-body">
                 <div class="card-title">{novel.title}</div>

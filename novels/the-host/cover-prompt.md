@@ -38,3 +38,6 @@ A dark, gritty book cover illustration. A young Indonesian man (late 20s, short 
 - Jika hasil terlalu gelap: tambah sedikit cahaya ambient dari lampu kota
 - Jika Arif terlihat terlalu Western: tambahkan detail wajah Asia Tenggara
 - Rahwana harus terlihat agung dan kuno, bukan menakutkan secara kartun
+
+## Lokasi File Cover
+Setelah generate, simpan sebagai `public/covers/the-host.jpg` (atau `.png`).

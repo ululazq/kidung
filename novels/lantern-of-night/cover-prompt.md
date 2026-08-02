@@ -38,3 +38,6 @@ A moody, atmospheric book cover illustration. A young woman (late 20s, dark hair
 - Jika hasil terlalu gelap: tambah sedikit cahaya ambient dari lampu jalan
 - Jika Mila terlihat terlalu Western: tambahkan detail wajah Asia Tenggara
 - Lentera harus terlihat hidup — berdenyut, bersinar
+
+## Lokasi File Cover
+Setelah generate, simpan sebagai `public/covers/lantern-of-night.jpg` (atau `.png`).
