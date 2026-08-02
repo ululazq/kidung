@@ -16,22 +16,47 @@ const novelData = novels.map((novel) => ({
         <span>Kidung</span>
         <span class="brand-subtitle">Rumah baca novel</span>
       </a>
+      <nav class="site-nav">
+        <a href="/" class="button button-ghost">Home</a>
+      </nav>
     </header>
 
-    <section class="section">
-      <h2 class="section-title">Judul yang tersedia</h2>
+    <section class="hero">
+      <div class="hero-inner">
+        <span class="hero-label">Kidung</span>
+        <h1 class="hero-title">Rumah Cerita &amp; Novel</h1>
+        <p class="hero-text">Baca novel gelap, urban fantasy, dan cerita kontemporer. Desain sederhana, fokus membaca.</p>
+        <div class="hero-actions">
+          <a href="#novels" class="button button-primary">Mulai Baca</a>
+          <a href="/novel/gods-in-jars" class="button button-ghost">Baca Gratis</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="novels">
+      <h2 class="section-title">Novel Tersedia</h2>
       <p class="section-text">Pilih novel, buka chapter pertama, dan lanjutkan saat kamu siap.</p>
 
       {novelData.length === 0 ? (
         <p class="meta">Belum ada novel tersedia.</p>
       ) : (
-        <div class="cards">
+        <div class="novel-grid">
           {novelData.map((novel) => (
-            <a href={`/novel/${novel.slug}`} class="card">
-              <div class="card-title">{novel.title}</div>
-              <p class="card-text">{novel.description || 'Sinopsis belum tersedia.'}</p>
-              <div class="pill">{novel.chapterCount} chapter</div>
-              <div class="novel-history" data-slug={novel.slug}>Belum ada riwayat baca.</div>
+            <a href={`/novel/${novel.slug}`} class="novel-card">
+              <div class="novel-cover">
+                <div class="novel-cover-placeholder">
+                  <span class="cover-glyph">📚</span>
+                  <span>Cover akan menyusul</span>
+                </div>
+              </div>
+              <div class="novel-card-body">
+                <div class="card-title">{novel.title}</div>
+                <div class="novel-card-meta">
+                  <span class="pill">{novel.chapterCount} chapter</span>
+                  <span class="meta">{novel.genre || 'Novel'}</span>
+                </div>
+                <p class="novel-card-desc">{novel.description || 'Sinopsis belum tersedia.'}</p>
+              </div>
             </a>
           ))}
         </div>
@@ -50,7 +75,7 @@ const novelData = novels.map((novel) => ({
     </section>
 
     <footer class="footer">
-      <p>� {new Date().getFullYear()} Kidung � Desain sederhana untuk pembaca novel.</p>
+      <p>© {new Date().getFullYear()} Kidung — Desain sederhana untuk pembaca novel.</p>
     </footer>
     <script>
       document.addEventListener('DOMContentLoaded', () => {

@@ -52,9 +52,9 @@ const { title, description = 'Kidung � Rumah Cerita & Novel' } = Astro.props;
   }
 
   .page {
-    width: min(100%, 980px);
+    width: min(100%, 1200px);
     margin: 0 auto;
-    padding: 28px 20px;
+    padding: 0 20px 28px;
   }
 
   .site-header {
@@ -63,18 +63,18 @@ const { title, description = 'Kidung � Rumah Cerita & Novel' } = Astro.props;
     align-items: center;
     flex-wrap: wrap;
     gap: 16px;
-    padding-bottom: 22px;
-    margin-bottom: 28px;
-    border-bottom: 1px solid #22252a;
+    padding: 20px 0;
+    margin-bottom: 8px;
   }
 
   .brand {
     display: inline-flex;
     flex-direction: column;
     gap: 0.15rem;
-    font-weight: 700;
-    font-size: 1.35rem;
+    font-weight: 800;
+    font-size: 1.5rem;
     line-height: 1.1;
+    letter-spacing: -0.02em;
   }
 
   .brand-subtitle {
@@ -87,6 +87,162 @@ const { title, description = 'Kidung � Rumah Cerita & Novel' } = Astro.props;
     display: flex;
     flex-wrap: wrap;
     gap: 10px;
+  }
+
+  /* ---- Hero (Gooddreamer-style) ---- */
+  .hero {
+    position: relative;
+    overflow: hidden;
+    border-radius: 24px;
+    padding: 48px 40px;
+    margin: 8px 0 32px;
+    background:
+      radial-gradient(circle at 85% 20%, rgba(16, 163, 127, 0.35), transparent 45%),
+      radial-gradient(circle at 10% 90%, rgba(168, 103, 255, 0.3), transparent 45%),
+      linear-gradient(135deg, #0d1b2a 0%, #1b263b 100%);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+  }
+
+  .hero-inner {
+    max-width: 640px;
+  }
+
+  .hero-label {
+    display: inline-block;
+    padding: 6px 14px;
+    border-radius: 999px;
+    background: rgba(16, 163, 127, 0.15);
+    color: #34d399;
+    font-size: 0.85rem;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    margin-bottom: 18px;
+  }
+
+  .hero-title {
+    margin: 0 0 16px;
+    font-size: clamp(2rem, 5vw, 3.2rem);
+    line-height: 1.05;
+    letter-spacing: -0.03em;
+  }
+
+  .hero-text {
+    margin: 0 0 28px;
+    color: #cbd5e1;
+    font-size: 1.1rem;
+    max-width: 560px;
+  }
+
+  .hero-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+
+  /* ---- Novel grid (Webnovel-style) ---- */
+  .novel-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 20px;
+  }
+
+  .novel-card {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    padding: 16px;
+    border: 1px solid #22252a;
+    border-radius: 18px;
+    background: rgba(17, 21, 28, 0.95);
+    transition: transform 0.18s ease, border-color 0.18s ease, box-shadow 0.18s ease;
+  }
+
+  .novel-card:hover {
+    transform: translateY(-3px);
+    border-color: #10a37f;
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.35);
+  }
+
+  .novel-cover {
+    position: relative;
+    aspect-ratio: 3 / 4;
+    border-radius: 12px;
+    overflow: hidden;
+    background: linear-gradient(160deg, #1f2937, #11151c);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .novel-cover img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+
+  .novel-cover-placeholder {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    width: 100%;
+    height: 100%;
+    padding: 16px;
+    text-align: center;
+    color: #9ca3af;
+    font-size: 0.9rem;
+  }
+
+  .novel-cover-placeholder .cover-glyph {
+    font-size: 2.4rem;
+    opacity: 0.5;
+  }
+
+  .novel-card-body {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    flex: 1;
+  }
+
+  .novel-card-title {
+    margin: 0;
+    font-size: 1.15rem;
+    font-weight: 700;
+    line-height: 1.25;
+  }
+
+  .novel-card-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    align-items: center;
+    font-size: 0.85rem;
+    color: #9ca3af;
+  }
+
+  .novel-card-desc {
+    margin: 0;
+    color: #cbd5e1;
+    font-size: 0.95rem;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .pill {
+    display: inline-flex;
+    align-items: center;
+    padding: 4px 10px;
+    border-radius: 999px;
+    background: rgba(16, 163, 127, 0.12);
+    color: #34d399;
+    font-size: 0.8rem;
+    font-weight: 600;
   }
 
   .button {
@@ -207,6 +363,84 @@ const { title, description = 'Kidung � Rumah Cerita & Novel' } = Astro.props;
   .card-text {
     margin: 0;
     color: #cbd5e1;
+  }
+
+  /* ---- Novel detail page (Webnovel-style) ---- */
+  .novel-detail {
+    display: grid;
+    grid-template-columns: 240px 1fr;
+    gap: 32px;
+    align-items: start;
+    padding: 32px 0;
+  }
+
+  .novel-detail-cover {
+    position: sticky;
+    top: 24px;
+    aspect-ratio: 3 / 4;
+    border-radius: 16px;
+    overflow: hidden;
+    background: linear-gradient(160deg, #1f2937, #11151c);
+    border: 1px solid #22252a;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .novel-detail-cover img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+
+  .novel-detail-cover .novel-cover-placeholder {
+    font-size: 1rem;
+  }
+
+  .novel-detail-info {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+
+  .novel-detail-title {
+    margin: 0;
+    font-size: clamp(1.8rem, 4vw, 2.6rem);
+    line-height: 1.1;
+    letter-spacing: -0.02em;
+  }
+
+  .novel-detail-desc {
+    margin: 0;
+    color: #cbd5e1;
+    font-size: 1.05rem;
+    line-height: 1.7;
+  }
+
+  .novel-detail-stats {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+
+  .stat {
+    padding: 8px 14px;
+    border-radius: 12px;
+    background: #11151c;
+    border: 1px solid #22252a;
+    font-size: 0.9rem;
+    color: #cbd5e1;
+  }
+
+  .stat strong {
+    color: #f8fafc;
+  }
+
+  .novel-detail-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
   }
 
   .width-controls {
@@ -381,6 +615,19 @@ const { title, description = 'Kidung � Rumah Cerita & Novel' } = Astro.props;
     .site-header {
       flex-direction: column;
       align-items: flex-start;
+    }
+
+    .hero {
+      padding: 32px 24px;
+    }
+
+    .novel-detail {
+      grid-template-columns: 1fr;
+    }
+
+    .novel-detail-cover {
+      position: static;
+      max-width: 220px;
     }
   }
 </style>

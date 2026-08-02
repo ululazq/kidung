@@ -12,6 +12,7 @@ if (!novel) return Astro.redirect('/404');
 
 const chapters = getChapters(slug);
 const totalWords = chapters.reduce((sum, chapter) => sum + chapter.wordCount, 0);
+const readingTime = Math.ceil(totalWords / 200);
 ---
 
 <BaseLayout title={`${novel.title} � Kidung`} description={novel.description || 'Halaman novel di Kidung.'}>
@@ -26,26 +27,30 @@ const totalWords = chapters.reduce((sum, chapter) => sum + chapter.wordCount, 0)
 
     <section class="section">
       <span class="hero-label">{novel.genre || 'Novel'}</span>
-      <h1 class="section-title">{novel.title}</h1>
-      <p class="section-text">{novel.description || 'Belum ada sinopsis untuk novel ini.'}</p>
-    </section>
-
-    <div class="history-banner" id="novelHistory">
-      Memuat riwayat baca novel...
-    </div>
-
-    <section class="section cards">
-      <div class="card">
-        <div class="card-title">Detail</div>
-        <p class="card-text">{chapters.length} chapter � {totalWords.toLocaleString()} kata</p>
-      </div>
-      <div class="card">
-        <div class="card-title">Mulai</div>
-        {chapters.length > 0 ? (
-          <a href={`/chapter/${chapters[0].slug}`} class="button button-primary">Chapter pertama</a>
-        ) : (
-          <p class="card-text">Belum ada chapter tersedia.</p>
-        )}
+      <div class="novel-detail">
+        <div class="novel-detail-cover">
+          <div class="novel-cover-placeholder">
+            <span class="cover-glyph">📚</span>
+            <span>Cover akan menyusul</span>
+          </div>
+        </div>
+        <div class="novel-detail-info">
+          <h1 class="novel-detail-title">{novel.title}</h1>
+          <p class="novel-detail-desc">{novel.description || 'Belum ada sinopsis untuk novel ini.'}</p>
+          <div class="novel-detail-stats">
+            <span class="stat">📖 {chapters.length} chapter</span>
+            <span class="stat">📝 {totalWords.toLocaleString()} kata</span>
+            <span class="stat">🕐 {readingTime} menit baca</span>
+          </div>
+          <div class="novel-detail-actions">
+            {chapters.length > 0 ? (
+              <a href={`/chapter/${chapters[0].slug}`} class="button button-primary">Baca Sekarang</a>
+            ) : (
+              <p class="card-text">Belum ada chapter tersedia.</p>
+            )}
+            <a href="#chapters" class="button button-ghost">Daftar Chapter</a>
+          </div>
+        </div>
       </div>
     </section>
 
