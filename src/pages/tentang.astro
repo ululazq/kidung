@@ -1,0 +1,150 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro'
+---
+
+<BaseLayout title="Tentang Kidung" description="Tentang Kidung - koleksi novel dark fantasy dan urban fantasy">
+  <div class="container about-page">
+    <article class="prose-page">
+      <h1>Tentang Kidung</h1>
+
+      <p class="lead">
+        Kidung adalah rumah bagi cerita-cerita yang mengeksplorasi batas antara yang nyata dan yang gaib,
+        antara tradisi dan modernitas, dalam lanskap urban fantasy Indonesia.
+      </p>
+
+      <h2>Apa itu Kidung?</h2>
+      <p>
+        Kidung adalah koleksi novel yang berfokus pada genre dark fantasy, urban fantasy, dan steampunk
+        dengan setting Indonesia kontemporer. Setiap cerita menghadirkan protagonis yang harus menavigasi
+        kekuatan kuno, politik faksi, dan dilema moral di tengah hiruk-pikuk kota modern.
+      </p>
+
+      <h2>Genre & Tone</h2>
+      <p>
+        Novel-novel di Kidung memiliki ciri khas:
+      </p>
+      <ul>
+        <li><strong>Dark & Gritty</strong> — Konsekuensi nyata, harga kekuatan, ambiguitas moral</li>
+        <li><strong>Urban Contemporary</strong> — Jakarta, Bandung, dan kota-kota Indonesia sebagai latar</li>
+        <li><strong>Wayang Reincarnation</strong> — Tokoh pewayangan navigate kontemporer dengan beban karmic</li>
+        <li><strong>Atmospheric</strong> — Detail sensori kuat, mood mencekam, dunia yang terasa hidup</li>
+      </ul>
+
+      <h2>Cara Baca</h2>
+      <p>
+        Semua novel di Kidung dapat dibaca <strong>gratis</strong> langsung dari browser. Fitur yang tersedia:
+      </p>
+      <ul>
+        <li>Dark/light mode toggle untuk kenyamanan baca siang dan malam</li>
+        <li>Pengatur ukuran font untuk sesi baca panjang</li>
+        <li>Progress bar baca untuk chapter panjang</li>
+        <li>Pencarian & filter genre di halaman beranda</li>
+      </ul>
+
+      <h2>Kontak & Kontribusi</h2>
+      <p>
+        Kidung adalah project open-source. Source code tersedia di
+        <a href="https://github.com/ululazq/kidung" target="_blank" rel="noopener">GitHub</a>.
+      </p>
+      <p>
+        Untuk pertanyaan, saran, atau feedback, silakan buka issue di repository GitHub.
+      </p>
+
+      <div class="cta-box">
+        <h3>Siap Mulai Baca?</h3>
+        <p>Jelajahi koleksi novel kami dan temukan cerita favorit Anda.</p>
+        <a href="/" class="btn btn-primary">Lihat Semua Novel</a>
+      </div>
+    </article>
+  </div>
+
+  <style>
+    .about-page {
+      max-width: 46rem;
+      margin-inline: auto;
+      padding-block: 2rem;
+    }
+
+    .prose-page {
+      font-family: var(--font-body);
+      font-size: 1.0625rem;
+      line-height: 1.7;
+      color: var(--text);
+    }
+
+    .prose-page h1 {
+      font-size: clamp(2rem, 4vw, 3rem);
+      margin-bottom: 1.5rem;
+      color: var(--accent);
+    }
+
+    .prose-page h2 {
+      font-size: 1.75rem;
+      margin-top: 3rem;
+      margin-bottom: 1rem;
+      color: var(--text);
+    }
+
+    .prose-page h3 {
+      font-size: 1.4rem;
+      margin-top: 2rem;
+      margin-bottom: 0.75rem;
+      color: var(--text);
+    }
+
+    .prose-page p {
+      margin-bottom: 1.5rem;
+    }
+
+    .lead {
+      font-size: 1.25rem;
+      line-height: 1.65;
+      color: var(--text-muted);
+      margin-bottom: 3rem;
+    }
+
+    .prose-page ul {
+      margin: 1.5rem 0;
+      padding-left: 1.75rem;
+    }
+
+    .prose-page li {
+      margin-bottom: 0.75rem;
+    }
+
+    .prose-page a {
+      color: var(--accent);
+      text-decoration: underline;
+      text-underline-offset: 3px;
+      transition: opacity 200ms ease;
+    }
+
+    .prose-page a:hover {
+      opacity: 0.8;
+    }
+
+    .cta-box {
+      margin-top: 4rem;
+      padding: 2.5rem;
+      background: var(--bg-elev);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg);
+      text-align: center;
+    }
+
+    .cta-box h3 {
+      margin-top: 0;
+      margin-bottom: 0.75rem;
+      color: var(--accent);
+    }
+
+    .cta-box p {
+      margin-bottom: 1.75rem;
+      color: var(--text-muted);
+    }
+
+    .cta-box .btn {
+      display: inline-flex;
+    }
+  </style>
+</BaseLayout>

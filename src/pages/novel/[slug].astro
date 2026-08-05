@@ -1,0 +1,323 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro'
+import { getNovels, getNovel, readingMinutes } from '../../lib/novels'
+
+export async function getStaticPaths() {
+  const novels = await getNovels()
+  return novels.map((novel) => ({
+    params: { slug: novel.slug },
+  }))
+}
+
+const { slug } = Astro.params
+
+const novel = await getNovel(slug!)
+if (!novel) return Astro.redirect('/404')
+
+const coverUrl = novel.cover ? `/covers/${novel.cover}.webp` : null
+const totalMinutes = readingMinutes(novel.totalWords)
+const avgPerChapter = Math.round(novel.totalWords / novel.chapterCount)
+---
+
+<BaseLayout title={novel.title} description={novel.description}>
+  <div class="container">
+    <nav aria-label="Breadcrumb" class="breadcrumb">
+      <a href="/">Beranda</a>
+      <span aria-hidden="true">/</span>
+      <span aria-current="page">{novel.title}</span>
+    </nav>
+
+    <div class="novel-header">
+      <div class="cover-col">
+        {coverUrl ? (
+          <img
+            src={coverUrl}
+            alt={`Cover ${novel.title}`}
+            class="cover-large"
+          />
+        ) : (
+          <div class="cover-large cover-placeholder">
+            <svg
+              width="64"
+              height="64"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.5"
+              aria-hidden="true"
+            >
+              <path d="M12 6.042A8.967 8.967 0 006 3.75c-1.052 0-2.062.18-3 .512v14.25A8.987 8.987 0 016 18c2.305 0 4.408.867 6 2.292m0-14.25a8.966 8.966 0 016-2.292c1.052 0 2.062.18 3 .512v14.25A8.987 8.987 0 0018 18a8.967 8.967 0 00-6 2.292m0-14.25v14.25" />
+            </svg>
+          </div>
+        )}
+      </div>
+
+      <div class="meta-col">
+        <h1>{novel.title}</h1>
+
+        <div class="badges">
+          <span class={`badge ${novel.status === 'Complete' ? 'badge-complete' : 'badge-progress'}`}>
+            <span class="badge-dot" aria-hidden="true"></span>
+            {novel.status}
+          </span>
+          {novel.genreTags.map((tag) => (
+            <span class="badge">{tag}</span>
+          ))}
+        </div>
+
+        <p class="description">{novel.description}</p>
+
+        <dl class="stats">
+          <div>
+            <dt>Protagonis</dt>
+            <dd>{novel.protagonist}</dd>
+          </div>
+          <div>
+            <dt>Tone</dt>
+            <dd>{novel.tone}</dd>
+          </div>
+          <div>
+            <dt>Jumlah Bab</dt>
+            <dd>{novel.chapterCount} bab</dd>
+          </div>
+          <div>
+            <dt>Total Kata</dt>
+            <dd>{novel.totalWords.toLocaleString('id-ID')} kata</dd>
+          </div>
+          <div>
+            <dt>Waktu Baca</dt>
+            <dd>~{totalMinutes} menit</dd>
+          </div>
+          <div>
+            <dt>Rata-rata/Bab</dt>
+            <dd>~{avgPerChapter.toLocaleString('id-ID')} kata</dd>
+          </div>
+        </dl>
+
+        <a href={`/chapter/${novel.slug}/chapter-1`} class="btn btn-primary cta">
+          <svg width="20" height="20" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+            <path d="M10.75 4.75a.75.75 0 00-1.5 0v4.5h-4.5a.75.75 0 000 1.5h4.5v4.5a.75.75 0 001.5 0v-4.5h4.5a.75.75 0 000-1.5h-4.5v-4.5z" />
+          </svg>
+          Mulai Baca
+        </a>
+      </div>
+    </div>
+
+    <section class="chapters-section">
+      <h2>Daftar Bab</h2>
+
+      <ul class="chapter-list">
+        {novel.chapters.map((ch) => {
+          const chapterMinutes = readingMinutes(ch.words)
+          return (
+            <li>
+              <a href={`/chapter/${novel.slug}/${ch.slug}`} class="chapter-link">
+                <div class="chapter-main">
+                  <span class="chapter-num">{ch.number}</span>
+                  <span class="chapter-title">{ch.title}</span>
+                </div>
+                <span class="chapter-meta muted">
+                  {ch.words.toLocaleString('id-ID')} kata · ~{chapterMinutes} menit
+                </span>
+              </a>
+            </li>
+          )
+        })}
+      </ul>
+    </section>
+  </div>
+
+  <style>
+    .breadcrumb {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      font-size: 0.875rem;
+      margin-bottom: 2rem;
+      color: var(--text-muted);
+    }
+
+    .breadcrumb a {
+      color: var(--accent);
+      transition: opacity 200ms ease;
+    }
+
+    .breadcrumb a:hover {
+      opacity: 0.8;
+    }
+
+    .novel-header {
+      display: grid;
+      grid-template-columns: 280px 1fr;
+      gap: 3rem;
+      margin-bottom: 4rem;
+    }
+
+    .cover-large {
+      width: 100%;
+      aspect-ratio: 2 / 3;
+      object-fit: cover;
+      border-radius: var(--radius-lg);
+      background: var(--bg-elev-2);
+      border: 1px solid var(--border);
+      box-shadow: var(--shadow);
+    }
+
+    .cover-placeholder {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: var(--text-dim);
+    }
+
+    h1 {
+      font-size: clamp(2rem, 4vw, 3rem);
+      margin-bottom: 1rem;
+      line-height: 1.2;
+    }
+
+    .badges {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .description {
+      font-size: 1.125rem;
+      line-height: 1.7;
+      color: var(--text-muted);
+      margin-bottom: 2rem;
+    }
+
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+      gap: 1.25rem;
+      padding: 1.75rem;
+      background: var(--bg-elev);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg);
+      margin-bottom: 2rem;
+    }
+
+    .stats div {
+      display: flex;
+      flex-direction: column;
+      gap: 0.35rem;
+    }
+
+    .stats dt {
+      font-size: 0.8125rem;
+      font-weight: 500;
+      text-transform: uppercase;
+      letter-spacing: 0.03em;
+      color: var(--text-dim);
+    }
+
+    .stats dd {
+      font-size: 1rem;
+      font-weight: 600;
+      color: var(--text);
+    }
+
+    .cta {
+      width: 100%;
+      max-width: 20rem;
+      font-size: 1.0625rem;
+      padding: 0.85rem 1.5rem;
+    }
+
+    .chapters-section {
+      margin-top: 4rem;
+    }
+
+    .chapters-section h2 {
+      font-size: 1.75rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .chapter-list {
+      list-style: none;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+    }
+
+    .chapter-link {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1rem;
+      padding: 1rem 1.25rem;
+      background: var(--bg-elev);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      transition: all 200ms ease;
+      cursor: pointer;
+    }
+
+    .chapter-link:hover {
+      background: var(--bg-elev-2);
+      border-color: var(--accent);
+      transform: translateX(4px);
+    }
+
+    .chapter-main {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+    }
+
+    .chapter-num {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-width: 2.5rem;
+      height: 2.5rem;
+      border-radius: 50%;
+      background: color-mix(in srgb, var(--accent) 15%, transparent);
+      color: var(--accent);
+      font-size: 0.875rem;
+      font-weight: 700;
+      flex-shrink: 0;
+    }
+
+    .chapter-title {
+      font-weight: 600;
+      color: var(--text);
+    }
+
+    .chapter-meta {
+      font-size: 0.8125rem;
+      white-space: nowrap;
+    }
+
+    @media (max-width: 768px) {
+      .novel-header {
+        grid-template-columns: 1fr;
+        gap: 2rem;
+      }
+
+      .cover-large {
+        max-width: 280px;
+        margin-inline: auto;
+      }
+
+      .stats {
+        grid-template-columns: repeat(2, 1fr);
+      }
+
+      .chapter-link {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 0.75rem;
+      }
+
+      .chapter-meta {
+        font-size: 0.75rem;
+      }
+    }
+  </style>
+</BaseLayout>

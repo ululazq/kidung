@@ -1,0 +1,319 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro'
+import { getNovels, getAllGenres, readingMinutes } from '../lib/novels'
+
+const novels = await getNovels()
+const genres = await getAllGenres()
+---
+
+<BaseLayout>
+  <div class="container">
+    <header class="hero">
+      <h1>Kidung</h1>
+      <p class="tagline">Rumah cerita, rumah novel, rumah imajinasi</p>
+
+      <div class="search-filter">
+        <input
+          type="search"
+          id="search"
+          placeholder="Cari judul atau protagonis..."
+          aria-label="Cari novel"
+        />
+
+        <div class="genre-chips" role="group" aria-label="Filter genre">
+          <button class="chip active" data-genre="all">Semua</button>
+          {genres.map((g) => (
+            <button class="chip" data-genre={g}>{g}</button>
+          ))}
+        </div>
+      </div>
+    </header>
+
+    <div class="novel-grid" id="novel-grid">
+      {novels.map((novel) => {
+        const coverUrl = novel.cover
+          ? `/covers/${novel.cover}.webp`
+          : null
+        const minutes = readingMinutes(novel.totalWords)
+
+        return (
+          <article class="novel-card" data-tags={novel.genreTags.join(',')}>
+            <a href={`/novel/${novel.slug}`} class="card-link">
+              {coverUrl ? (
+                <img
+                  src={coverUrl}
+                  alt={`Cover ${novel.title}`}
+                  class="cover"
+                  loading="lazy"
+                />
+              ) : (
+                <div class="cover-placeholder">
+                  <svg
+                    width="48"
+                    height="48"
+                    viewBox="0 0 24 24"
+                    fill="none"
+                    stroke="currentColor"
+                    stroke-width="1.5"
+                    aria-hidden="true"
+                  >
+                    <path d="M12 6.042A8.967 8.967 0 006 3.75c-1.052 0-2.062.18-3 .512v14.25A8.987 8.987 0 016 18c2.305 0 4.408.867 6 2.292m0-14.25a8.966 8.966 0 016-2.292c1.052 0 2.062.18 3 .512v14.25A8.987 8.987 0 0018 18a8.967 8.967 0 00-6 2.292m0-14.25v14.25" />
+                  </svg>
+                </div>
+              )}
+
+              <div class="card-body">
+                <h2 class="card-title">{novel.title}</h2>
+                <p class="card-genre muted">{novel.genre}</p>
+                <p class="card-desc dim">{novel.description}</p>
+
+                <div class="card-meta">
+                  <span class={`badge ${novel.status === 'Complete' ? 'badge-complete' : 'badge-progress'}`}>
+                    <span class="badge-dot" aria-hidden="true"></span>
+                    {novel.status}
+                  </span>
+                  <span class="dim">
+                    {novel.chapterCount} bab · ~{minutes} menit
+                  </span>
+                </div>
+              </div>
+            </a>
+          </article>
+        )
+      })}
+    </div>
+
+    <p class="no-results" id="no-results" hidden>
+      Tidak ada novel yang cocok dengan pencarian Anda.
+    </p>
+  </div>
+
+  <style>
+    .hero {
+      text-align: center;
+      margin-bottom: 4rem;
+    }
+
+    h1 {
+      font-size: clamp(2.5rem, 5vw, 4rem);
+      font-weight: 700;
+      color: var(--accent);
+      margin-bottom: 0.75rem;
+    }
+
+    .tagline {
+      font-size: 1.15rem;
+      color: var(--text-muted);
+      margin-bottom: 3rem;
+    }
+
+    .search-filter {
+      max-width: 48rem;
+      margin-inline: auto;
+    }
+
+    #search {
+      width: 100%;
+      min-height: 50px;
+      padding: 0.85rem 1.25rem;
+      border: 2px solid var(--border);
+      border-radius: var(--radius-lg);
+      background: var(--bg-elev);
+      color: var(--text);
+      font-size: 1rem;
+      transition: border-color 220ms ease;
+    }
+
+    #search:focus {
+      border-color: var(--accent);
+      outline: none;
+    }
+
+    #search::placeholder {
+      color: var(--text-dim);
+    }
+
+    .genre-chips {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.65rem;
+      margin-top: 1.5rem;
+      justify-content: center;
+    }
+
+    .chip {
+      padding: 0.5rem 1rem;
+      border: 1px solid var(--border-strong);
+      border-radius: 999px;
+      background: var(--bg-elev);
+      color: var(--text-muted);
+      font-size: 0.875rem;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all 200ms ease;
+      white-space: nowrap;
+    }
+
+    .chip:hover {
+      background: var(--bg-elev-2);
+      border-color: var(--accent);
+      color: var(--text);
+    }
+
+    .chip.active {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: var(--accent-contrast);
+      font-weight: 600;
+    }
+
+    .novel-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 2rem;
+    }
+
+    .novel-card {
+      background: var(--bg-elev);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg);
+      overflow: hidden;
+      transition: all 220ms ease;
+    }
+
+    .novel-card:hover {
+      border-color: var(--accent);
+      box-shadow: var(--shadow);
+      transform: translateY(-2px);
+    }
+
+    .card-link {
+      display: block;
+      text-decoration: none;
+      color: inherit;
+      cursor: pointer;
+    }
+
+    .cover,
+    .cover-placeholder {
+      width: 100%;
+      aspect-ratio: 2 / 3;
+      object-fit: cover;
+      background: var(--bg-elev-2);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: var(--text-dim);
+    }
+
+    .card-body {
+      padding: 1.25rem;
+    }
+
+    .card-title {
+      font-size: 1.25rem;
+      font-weight: 700;
+      margin-bottom: 0.4rem;
+      line-height: 1.3;
+      color: var(--text);
+    }
+
+    .card-genre {
+      font-size: 0.8125rem;
+      margin-bottom: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.03em;
+      font-weight: 500;
+    }
+
+    .card-desc {
+      font-size: 0.9375rem;
+      line-height: 1.55;
+      margin-bottom: 1rem;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .card-meta {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 0.75rem;
+      font-size: 0.8125rem;
+      flex-wrap: wrap;
+    }
+
+    .no-results {
+      text-align: center;
+      padding: 3rem 1rem;
+      color: var(--text-muted);
+      font-size: 1.125rem;
+    }
+
+    @media (max-width: 640px) {
+      .hero {
+        margin-bottom: 3rem;
+      }
+
+      h1 {
+        font-size: 2.5rem;
+      }
+
+      .tagline {
+        font-size: 1rem;
+        margin-bottom: 2rem;
+      }
+
+      .novel-grid {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+      }
+    }
+  </style>
+
+  <script>
+    const search = document.getElementById('search') as HTMLInputElement
+    const chips = document.querySelectorAll<HTMLButtonElement>('.chip')
+    const cards = document.querySelectorAll<HTMLElement>('.novel-card')
+    const noResults = document.getElementById('no-results') as HTMLElement
+
+    let activeGenre = 'all'
+
+    function filter() {
+      const query = search.value.toLowerCase().trim()
+      let visibleCount = 0
+
+      cards.forEach((card) => {
+        const link = card.querySelector('a')
+        const title = card.querySelector('.card-title')?.textContent?.toLowerCase() || ''
+        const desc = card.querySelector('.card-desc')?.textContent?.toLowerCase() || ''
+        const tags = card.dataset.tags?.split(',') || []
+
+        const matchesSearch = !query || title.includes(query) || desc.includes(query)
+        const matchesGenre = activeGenre === 'all' || tags.includes(activeGenre)
+
+        if (matchesSearch && matchesGenre) {
+          card.hidden = false
+          visibleCount++
+        } else {
+          card.hidden = true
+        }
+      })
+
+      noResults.hidden = visibleCount > 0
+    }
+
+    search.addEventListener('input', filter)
+
+    chips.forEach((chip) => {
+      chip.addEventListener('click', () => {
+        chips.forEach((c) => c.classList.remove('active'))
+        chip.classList.add('active')
+        activeGenre = chip.dataset.genre || 'all'
+        filter()
+      })
+    })
+  </script>
+</BaseLayout>

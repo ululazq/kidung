@@ -1,0 +1,403 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro'
+import { getNovels, getChapter, readingMinutes } from '../../../lib/novels'
+import { marked } from 'marked'
+
+export async function getStaticPaths() {
+  const novels = await getNovels()
+  return novels.flatMap((novel) =>
+    novel.chapters.map((chapter) => ({
+      params: { novelSlug: novel.slug, chapterSlug: chapter.slug },
+    })),
+  )
+}
+
+const { novelSlug, chapterSlug } = Astro.params
+
+const chapter = await getChapter(novelSlug!, chapterSlug!)
+if (!chapter) return Astro.redirect('/404')
+
+const html = marked.parse(chapter.body)
+const minutes = readingMinutes(chapter.words)
+---
+
+<BaseLayout
+  title={`${chapter.title} · ${chapter.novel.title}`}
+  description={`Baca ${chapter.title} dari ${chapter.novel.title}`}
+>
+  <!-- Reading progress bar -->
+  <div id="progress-bar" aria-hidden="true"></div>
+
+  <div class="container">
+    <nav aria-label="Breadcrumb" class="breadcrumb">
+      <a href="/">Beranda</a>
+      <span aria-hidden="true">/</span>
+      <a href={`/novel/${chapter.novel.slug}`}>{chapter.novel.title}</a>
+      <span aria-hidden="true">/</span>
+      <span aria-current="page">Bab {chapter.number}</span>
+    </nav>
+
+    <article class="chapter-reader">
+      <header class="chapter-header">
+        <div class="chapter-meta">
+          <span class="chapter-label">Bab {chapter.number}</span>
+          <span class="muted">
+            {chapter.words.toLocaleString('id-ID')} kata · ~{minutes} menit
+          </span>
+        </div>
+        <h1>{chapter.title}</h1>
+      </header>
+
+      <!-- Font size controls -->
+      <div class="reader-controls">
+        <div class="font-control">
+          <button
+            id="font-decrease"
+            class="icon-btn"
+            aria-label="Perkecil teks"
+            title="Perkecil teks"
+          >
+            <svg width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2">
+              <text x="10" y="15" font-size="14" text-anchor="middle" stroke="none" fill="currentColor">A</text>
+            </svg>
+          </button>
+          <span class="font-size-label" id="font-size-display">19px</span>
+          <button
+            id="font-increase"
+            class="icon-btn"
+            aria-label="Perbesar teks"
+            title="Perbesar teks"
+          >
+            <svg width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2">
+              <text x="10" y="16" font-size="18" text-anchor="middle" stroke="none" fill="currentColor">A</text>
+            </svg>
+          </button>
+        </div>
+      </div>
+
+      <div class="prose" set:html={html} />
+
+      <!-- Chapter navigation -->
+      <nav class="chapter-nav" aria-label="Navigasi bab">
+        {chapter.prev ? (
+          <a href={`/chapter/${chapter.novel.slug}/${chapter.prev.slug}`} class="nav-btn prev">
+            <svg width="20" height="20" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+              <path fill-rule="evenodd" d="M12.79 5.23a.75.75 0 01-.02 1.06L8.832 10l3.938 3.71a.75.75 0 11-1.04 1.08l-4.5-4.25a.75.75 0 010-1.08l4.5-4.25a.75.75 0 011.06.02z" clip-rule="evenodd" />
+            </svg>
+            <div class="nav-text">
+              <span class="nav-label">Sebelumnya</span>
+              <span class="nav-title">{chapter.prev.title}</span>
+            </div>
+          </a>
+        ) : (
+          <div></div>
+        )}
+
+        <a href={`/novel/${chapter.novel.slug}`} class="btn">
+          Daftar Bab
+        </a>
+
+        {chapter.next ? (
+          <a href={`/chapter/${chapter.novel.slug}/${chapter.next.slug}`} class="nav-btn next">
+            <div class="nav-text">
+              <span class="nav-label">Selanjutnya</span>
+              <span class="nav-title">{chapter.next.title}</span>
+            </div>
+            <svg width="20" height="20" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+              <path fill-rule="evenodd" d="M7.21 14.77a.75.75 0 01.02-1.06L11.168 10 7.23 6.29a.75.75 0 111.04-1.08l4.5 4.25a.75.75 0 010 1.08l-4.5 4.25a.75.75 0 01-1.06-.02z" clip-rule="evenodd" />
+            </svg>
+          </a>
+        ) : (
+          <div></div>
+        )}
+      </nav>
+    </article>
+  </div>
+
+  <style>
+    #progress-bar {
+      position: fixed;
+      top: 0;
+      left: 0;
+      height: 4px;
+      background: var(--accent);
+      width: 0%;
+      z-index: var(--z-progress);
+      transition: width 120ms ease;
+    }
+
+    .breadcrumb {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      font-size: 0.875rem;
+      margin-bottom: 2.5rem;
+      color: var(--text-muted);
+    }
+
+    .breadcrumb a {
+      color: var(--accent);
+      transition: opacity 200ms ease;
+    }
+
+    .breadcrumb a:hover {
+      opacity: 0.8;
+    }
+
+    .chapter-reader {
+      max-width: 46rem;
+      margin-inline: auto;
+    }
+
+    .chapter-header {
+      margin-bottom: 3rem;
+      text-align: center;
+    }
+
+    .chapter-meta {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 1rem;
+      margin-bottom: 1rem;
+      font-size: 0.875rem;
+    }
+
+    .chapter-label {
+      padding: 0.35rem 0.9rem;
+      border-radius: 999px;
+      background: color-mix(in srgb, var(--accent) 15%, transparent);
+      color: var(--accent);
+      font-weight: 600;
+      letter-spacing: 0.02em;
+      text-transform: uppercase;
+    }
+
+    .chapter-header h1 {
+      font-size: clamp(1.75rem, 4vw, 2.5rem);
+      line-height: 1.25;
+    }
+
+    .reader-controls {
+      display: flex;
+      justify-content: flex-end;
+      margin-bottom: 2rem;
+      padding-bottom: 1.5rem;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .font-control {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+    }
+
+    .font-size-label {
+      min-width: 3rem;
+      text-align: center;
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      font-weight: 500;
+    }
+
+    .prose {
+      font-family: var(--font-reading);
+      font-size: var(--reader-size);
+      line-height: 1.75;
+      color: var(--text);
+    }
+
+    .prose :global(p) {
+      margin-bottom: 1.5em;
+    }
+
+    .prose :global(h2),
+    .prose :global(h3) {
+      font-family: var(--font-display);
+      margin-top: 2.5em;
+      margin-bottom: 1em;
+      color: var(--accent);
+    }
+
+    .prose :global(h2) {
+      font-size: 1.6em;
+    }
+
+    .prose :global(h3) {
+      font-size: 1.3em;
+    }
+
+    .prose :global(em) {
+      font-style: italic;
+      color: var(--text-muted);
+    }
+
+    .prose :global(strong) {
+      font-weight: 600;
+      color: var(--text);
+    }
+
+    .prose :global(blockquote) {
+      margin: 2em 0;
+      padding-left: 1.5em;
+      border-left: 4px solid var(--accent);
+      color: var(--text-muted);
+      font-style: italic;
+    }
+
+    .prose :global(ul),
+    .prose :global(ol) {
+      margin: 1.5em 0;
+      padding-left: 1.75em;
+    }
+
+    .prose :global(li) {
+      margin-bottom: 0.5em;
+    }
+
+    .prose :global(hr) {
+      margin: 3em 0;
+      border: none;
+      border-top: 1px solid var(--border);
+    }
+
+    .chapter-nav {
+      display: grid;
+      grid-template-columns: 1fr auto 1fr;
+      gap: 1rem;
+      align-items: center;
+      margin-top: 4rem;
+      padding-top: 3rem;
+      border-top: 1px solid var(--border);
+    }
+
+    .nav-btn {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      padding: 1rem 1.25rem;
+      background: var(--bg-elev);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg);
+      transition: all 200ms ease;
+      cursor: pointer;
+      min-height: 44px;
+    }
+
+    .nav-btn:hover {
+      background: var(--bg-elev-2);
+      border-color: var(--accent);
+    }
+
+    .nav-btn.prev {
+      grid-column: 1;
+    }
+
+    .nav-btn.next {
+      grid-column: 3;
+      justify-content: flex-end;
+    }
+
+    .nav-text {
+      display: flex;
+      flex-direction: column;
+      gap: 0.25rem;
+    }
+
+    .nav-label {
+      font-size: 0.75rem;
+      color: var(--text-dim);
+      text-transform: uppercase;
+      letter-spacing: 0.03em;
+      font-weight: 500;
+    }
+
+    .nav-title {
+      font-size: 0.9375rem;
+      font-weight: 600;
+      color: var(--text);
+    }
+
+    .nav-btn svg {
+      flex-shrink: 0;
+      color: var(--accent);
+    }
+
+    @media (max-width: 640px) {
+      .chapter-meta {
+        flex-direction: column;
+        gap: 0.5rem;
+      }
+
+      .chapter-nav {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+      }
+
+      .nav-btn {
+        grid-column: auto !important;
+      }
+
+      .nav-btn.next {
+        flex-direction: row-reverse;
+      }
+
+      .nav-btn .nav-text {
+        flex: 1;
+      }
+    }
+  </style>
+
+  <script>
+    // Reading progress bar
+    const progressBar = document.getElementById('progress-bar') as HTMLElement
+    let ticking = false
+
+    function updateProgress() {
+      const winScroll = document.documentElement.scrollTop || document.body.scrollTop
+      const height =
+        document.documentElement.scrollHeight - document.documentElement.clientHeight
+      const scrolled = (winScroll / height) * 100
+      progressBar.style.width = scrolled + '%'
+      ticking = false
+    }
+
+    window.addEventListener('scroll', () => {
+      if (!ticking) {
+        window.requestAnimationFrame(updateProgress)
+        ticking = true
+      }
+    })
+
+    // Font size controls
+    const MIN_SIZE = 16
+    const MAX_SIZE = 26
+    const STEP = 2
+
+    const decrease = document.getElementById('font-decrease') as HTMLButtonElement
+    const increase = document.getElementById('font-increase') as HTMLButtonElement
+    const display = document.getElementById('font-size-display') as HTMLElement
+    const root = document.documentElement
+
+    function getSize(): number {
+      const stored = localStorage.getItem('reader-size')
+      return stored ? Number(stored) : 19
+    }
+
+    function setSize(size: number) {
+      const clamped = Math.max(MIN_SIZE, Math.min(MAX_SIZE, size))
+      root.style.setProperty('--reader-size', clamped + 'px')
+      localStorage.setItem('reader-size', String(clamped))
+      display.textContent = clamped + 'px'
+
+      decrease.disabled = clamped <= MIN_SIZE
+      increase.disabled = clamped >= MAX_SIZE
+    }
+
+    // Apply persisted size immediately
+    setSize(getSize())
+
+    decrease.addEventListener('click', () => setSize(getSize() - STEP))
+    increase.addEventListener('click', () => setSize(getSize() + STEP))
+  </script>
+</BaseLayout>

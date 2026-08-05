@@ -1,0 +1,60 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro'
+---
+
+<BaseLayout title="404 · Halaman Tidak Ditemukan">
+  <div class="container error-page">
+    <div class="error-content">
+      <h1>404</h1>
+      <p class="error-message">Halaman yang Anda cari tidak ditemukan</p>
+      <p class="error-desc">
+        Mungkin novel atau bab yang Anda cari telah dipindahkan atau belum tersedia.
+      </p>
+      <div class="error-actions">
+        <a href="/" class="btn btn-primary">Kembali ke Beranda</a>
+      </div>
+    </div>
+  </div>
+
+  <style>
+    .error-page {
+      min-height: 60vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+    }
+
+    .error-content {
+      max-width: 32rem;
+    }
+
+    h1 {
+      font-size: clamp(4rem, 12vw, 8rem);
+      font-weight: 700;
+      color: var(--accent);
+      margin-bottom: 1rem;
+      line-height: 1;
+    }
+
+    .error-message {
+      font-size: 1.5rem;
+      font-weight: 600;
+      color: var(--text);
+      margin-bottom: 1rem;
+    }
+
+    .error-desc {
+      font-size: 1.0625rem;
+      color: var(--text-muted);
+      line-height: 1.6;
+      margin-bottom: 2.5rem;
+    }
+
+    .error-actions {
+      display: flex;
+      justify-content: center;
+      gap: 1rem;
+    }
+  </style>
+</BaseLayout>

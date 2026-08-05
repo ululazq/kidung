@@ -1,0 +1,216 @@
+---
+import '../styles/global.css'
+
+interface Props {
+  title?: string
+  description?: string
+}
+
+const { title = 'Kidung', description = 'Koleksi novel dark fantasy dan urban fantasy' } = Astro.props
+
+const fullTitle = title === 'Kidung' ? title : `${title} · Kidung`
+---
+
+<!doctype html>
+<html lang="id" data-theme="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content={description} />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600;700&family=Inter:wght@400;500;600&family=Literata:ital,wght@0,400;0,600;1,400&display=swap"
+      rel="stylesheet"
+    />
+    <title>{fullTitle}</title>
+
+    <!-- Runs before first paint: without it the dark default flashes
+         for light-mode readers on every navigation. -->
+    <script is:inline>
+      ;(function () {
+        try {
+          var stored = localStorage.getItem('theme')
+          var theme =
+            stored === 'light' || stored === 'dark'
+              ? stored
+              : window.matchMedia('(prefers-color-scheme: light)').matches
+                ? 'light'
+                : 'dark'
+          document.documentElement.setAttribute('data-theme', theme)
+
+          var size = localStorage.getItem('reader-size')
+          if (size) document.documentElement.style.setProperty('--reader-size', size + 'px')
+        } catch (e) {}
+      })()
+    </script>
+  </head>
+  <body>
+    <a href="#main" class="skip-link">Skip to content</a>
+
+    <nav aria-label="Main navigation">
+      <div class="container nav-inner">
+        <a href="/" class="logo">Kidung</a>
+
+        <div class="nav-actions">
+          <button
+            id="theme-toggle"
+            class="icon-btn"
+            aria-label="Toggle dark/light theme"
+            title="Toggle theme"
+          >
+            <svg
+              class="sun-icon"
+              width="20"
+              height="20"
+              viewBox="0 0 20 20"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              aria-hidden="true"
+            >
+              <circle cx="10" cy="10" r="4"></circle>
+              <path d="M10 1v2m0 14v2M3.93 3.93l1.41 1.41m9.9 9.9l1.41 1.41M1 10h2m14 0h2M3.93 16.07l1.41-1.41m9.9-9.9l1.41-1.41"></path>
+            </svg>
+            <svg
+              class="moon-icon"
+              width="20"
+              height="20"
+              viewBox="0 0 20 20"
+              fill="currentColor"
+              aria-hidden="true"
+            >
+              <path d="M17.293 13.293A8 8 0 016.707 2.707a8.001 8.001 0 1010.586 10.586z"></path>
+            </svg>
+          </button>
+
+          <a href="/tentang" class="btn">Tentang</a>
+        </div>
+      </div>
+    </nav>
+
+    <main id="main">
+      <slot />
+    </main>
+
+    <footer>
+      <div class="container footer-inner">
+        <p class="muted">
+          Kidung — Rumah cerita, rumah novel, rumah imajinasi
+        </p>
+        <p class="dim" style="font-size: 0.875rem; margin-top: 0.5rem;">
+          © {new Date().getFullYear()} · Dibuat dengan
+          <a href="https://astro.build" target="_blank" rel="noopener" style="color: var(--accent)">Astro</a>
+        </p>
+      </div>
+    </footer>
+
+    <style>
+      nav {
+        position: sticky;
+        top: 0;
+        z-index: var(--z-nav);
+        background: color-mix(in srgb, var(--bg) 90%, transparent);
+        backdrop-filter: blur(10px);
+        border-bottom: 1px solid var(--border);
+      }
+
+      .nav-inner {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        min-height: 4rem;
+        gap: 1rem;
+      }
+
+      .logo {
+        font-family: var(--font-display);
+        font-size: 1.5rem;
+        font-weight: 700;
+        letter-spacing: -0.02em;
+        color: var(--accent);
+        text-decoration: none;
+        transition: opacity 200ms ease;
+      }
+
+      .logo:hover {
+        opacity: 0.8;
+      }
+
+      .nav-actions {
+        display: flex;
+        align-items: center;
+        gap: 0.75rem;
+      }
+
+      .sun-icon {
+        display: none;
+      }
+
+      .moon-icon {
+        display: block;
+      }
+
+      :global([data-theme='light']) .sun-icon {
+        display: block;
+      }
+
+      :global([data-theme='light']) .moon-icon {
+        display: none;
+      }
+
+      main {
+        min-height: calc(100vh - 15rem);
+        padding-block: 3rem;
+      }
+
+      footer {
+        border-top: 1px solid var(--border);
+        padding-block: 2.5rem;
+        margin-top: 4rem;
+      }
+
+      .footer-inner {
+        text-align: center;
+      }
+
+      @media (max-width: 640px) {
+        .logo {
+          font-size: 1.25rem;
+        }
+
+        .nav-actions .btn {
+          display: none;
+        }
+      }
+    </style>
+
+    <script>
+      // Theme toggle — persisted to localStorage
+      const toggle = document.getElementById('theme-toggle')
+      const html = document.documentElement
+
+      function getTheme(): 'light' | 'dark' {
+        const stored = localStorage.getItem('theme')
+        if (stored === 'light' || stored === 'dark') return stored
+        return window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark'
+      }
+
+      function setTheme(theme: 'light' | 'dark') {
+        html.setAttribute('data-theme', theme)
+        localStorage.setItem('theme', theme)
+      }
+
+      // Apply persisted theme immediately to avoid flash
+      setTheme(getTheme())
+
+      toggle?.addEventListener('click', () => {
+        const current = html.getAttribute('data-theme')
+        setTheme(current === 'dark' ? 'light' : 'dark')
+      })
+    </script>
+  </body>
+</html>
