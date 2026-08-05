@@ -1,8 +1,4 @@
 ---
-title: "The Keeper's Awakening"
-chapter: 13
----
-
 Tiga hari setelah aku menyelesaikan halaman kedua buku penjaga pertama, pasar malam terasa berubah. Bukan secara fisik — rak-rak masih di tempat yang sama, bohlam masih kuning, lantai masih berderit. Tapi ada sesuatu yang berubah di udara. Seperti tekanan yang turun sebelum badai. Seperti beban yang menumpuk di satu tempat, menunggu untuk didistribusikan.
 
 Aku tahu apa itu. Aku sudah merasakannya selama lima minggu menjadi penjaga. Beban yang menumpuk bukan milikku — tapi ada di lorong ini. Di antara benang-benang. Di bawah lantai. Di akar-akar yang sudah berhenti tumbuh.

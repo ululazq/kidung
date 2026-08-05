@@ -1,4 +1,5 @@
 ---
+---
 title: "The Inherited Shop"
 chapter: 1
 ---
