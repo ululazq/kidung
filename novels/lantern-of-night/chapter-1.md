@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Ember in the Alley"
 chapter: 1
 ---

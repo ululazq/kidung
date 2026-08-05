@@ -1,17 +1,18 @@
-# Kidung Bayang Batavia
-
-**Slug**: `kidung-bayang-batavia`  
-**Universe**: Kidungverse / Urban Dark Fantasy  
-**Genre**: Dark Urban Fantasy / Action Fantasy  
-**Tone**: Atmospheric, Gritty, Mysterious, High-Stakes  
-**Language**: Indonesian  
-**Protagonist**: Arya Pratama  
-**Status**: Complete  
-**Start Date**: 2026-08-03  
-**Completion Date**: 2026-08-03  
-**Total Chapters**: 70  
-
 ---
+title: "Kidung Bayang Batavia"
+slug: "kidung-bayang-batavia"
+universe: "Kidungverse / Urban Dark Fantasy"
+genre: "Dark Urban Fantasy / Action Fantasy"
+tone: "Atmospheric, Gritty, Mysterious, High-Stakes"
+language: "Indonesian"
+protagonist: "Arya Pratama"
+description: "Arsiparis muda Museum Nasional mengaktifkan Gamelan Resonansi Tununggu, terseret ke perang tersembunyi antara Garda Bayang Nusantara dan sindikat okultis era VOC di labirin bawah tanah Batavia."
+status: "Complete"
+started: "2026-08-03"
+completed: "2026-08-03"
+---
+
+# Kidung Bayang Batavia
 
 ## Synopsis
 Di bawah hiruk-pikuk megapolitan Jakarta modern, tersembunyi jaringan labirin kuno Batavia abad ke-17 yang dihuni oleh entitas-entitas gaib dan sindikat okultisme rahasia. Arya Pratama, seorang arsiparis muda di Museum Nasional Jakarta, tanpa sengaja mengaktifkan Gamelan Resonansi Tununggu—sebuah artefak perunggu kramat yang mampu menganyam dan memotong benang ingatan serta takdir manusia.
