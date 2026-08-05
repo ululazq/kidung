@@ -447,5 +447,3 @@ Rani menutup mata. Angin malam membawa aroma rendang dan kopi tubruk dari warung
 Dan di lorong pasar malam — di belakang toko benang tua — akar-akar bercahaya merah. Mereka tumbuh pelan. Seperti jantung yang berdetak di bawah tanah.
 
 Rani tidur. Untuk pertama kalinya dalam tiga minggu — dia tidur tanpa mimpi buruk. Tidur seperti orang yang akhirnya menemukan tempat yang benar untuk menaruh beban yang terlalu berat untuk dipegang sendiri.
----
-Kata kunci: Benang Merah, hilang, akar merah, beban mengambang, Pak Tua, Siti, belajar menjahit, penjaga dan akar, kontrakan Rani, warisan nenek.

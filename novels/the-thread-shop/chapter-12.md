@@ -683,4 +683,4 @@ Aku menatap benang Hitam Malam di jariku. Tebal. Hangat. Seperti lengan baru yan
 
 Pak Tua tersenyum. Senyum pertama yang kulihat dari dia sejak aku mulai menjahit — bukan senyum lebar, tapi senyum yang sampai ke matanya. Senyum yang mengatakan: *kau sudah sampai di sana.*
 
-"Lorong ini akan tenang," katanya. "Dan penjaga baru... akan punya ruang untuk bernapas."Kata kunci: halaman kedua, 1951, warna gelap, cahaya, penjaga pertama, laci terkunci, kelanjutan.*
+"Lorong ini akan tenang," katanya. "Dan penjaga baru... akan punya ruang untuk bernapas."

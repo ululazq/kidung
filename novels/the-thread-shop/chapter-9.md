@@ -584,13 +584,3 @@ Benang berpendar itu meleleh. Menyatu dengan Hitam Malam. Dan di ujung jariku �
 Di lorong belakang — akar-akar yang sudah berhenti tumbuh — mereka mekar. Bunga kecil. Putih. Seperti benang yang belum pernah dipintal. Seperti awal dari sesuatu yang baru.
 
 Dan di jari manisku — benang Hitam Malam yang kini bercampur dengan cahaya akar — berkilau lembut. Seperti menunggu.
-
----
-
-Kata kunci: benang berpendar, rak ketiga kosong, cahaya akar, benang Hitam Malam bercampur cahaya hijau, akar-akar mekar, penjaga menemukan benang baru, toko menyimpan rahasia, ringan, belajar melepaskan.Kata kunci: benang Hitam Malam, akar-akar hijau, penjaga yang tumbuh dari akar, toko adalah makhluk hidup, Hanafi kehilangan keluarga, benang Tanah Subur, Pak Tua berbagi beban, Siti melepaskan, benang hitam tua dari tanah, penjaga yang mulai, ringan, belajar melepaskan, toko adalah rumah.*
-'@
-
-$newContent = $append
-[System.IO.File]::WriteAllText($path, $newContent, (New-Object System.Text.UTF8Encoding($false)))
-$wc = (($newContent -split '\s+' | Where-Object { $_ -ne '' }).Count)
-Write-Output "ch9 rewritten: $wc"

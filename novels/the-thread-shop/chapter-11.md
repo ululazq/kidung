@@ -594,10 +594,4 @@ Aku menatap benang Hitam Malam di jariku. Tebal. Hangat. Seperti lengan baru yan
 
 Pak Tua tersenyum. Senyum pertama yang kulihat dari dia sejak aku mulai menjahit — bukan senyum lebar, tapi senyum yang sampai ke matanya. Senyum yang mengatakan: *kau sudah sampai di sana.*
 
-"Lorong ini akan tenang," katanya. "Dan penjaga baru... akan punya ruang untuk bernapas."Kata kunci: Budi kembali, benang putih, tanah pemakaman ibu Budi, Abu-Abu Bersih, awal baru, tanpa beban, Bu Ratna, benang titipan, mempercayai orang, toko adalah rumah.*
-'@
-
-$newContent = $append
-[System.IO.File]::WriteAllText($path, $newContent, (New-Object System.Text.UTF8Encoding($false)))
-$wc = (($newContent -split '\s+' | Where-Object { $_ -ne '' }).Count)
-Write-Output "ch11 rewritten: $wc"
+"Lorong ini akan tenang," katanya. "Dan penjaga baru... akan punya ruang untuk bernapas."

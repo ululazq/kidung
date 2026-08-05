@@ -429,5 +429,3 @@ Aku menatap kegelapan itu, merasakan jantungku berdebar. "Kenapa aku?"
 "Karena kau sudah siap," jawab Pak Tua. "Karena kau sudah menemukan kunci, dan kau sudah menemukan lemari. Sekarang, kau harus menemukan dirimu sendiri."
 
 Aku menarik napas dalam, melangkah maju, dan masuk ke dalam kegelapan.
----
-Kata kunci: kunci, lemari, catatan penjaga, aturan penjaga, pintu tersembunyi, kegelapan, bintang, penjaga yang siap, Pak Tua, Siti, lorong belakang, rahasia toko, lingkaran tanpa ujung, takdir.

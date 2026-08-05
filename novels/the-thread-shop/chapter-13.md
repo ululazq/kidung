@@ -474,4 +474,4 @@ Aku menutup buku. Menatap benang Hitam Malam di jariku. Berkilau lembut — sepe
 
 Besok, aku akan datang lagi. Jam tujuh pagi. Toko akan menunggu. Benang akan menunggu.
 
-Dan aku — aku akan menunggu bersama mereka.Kata kunci: benang hitam tua, akar-akar berhenti tumbuh, penyembuhan, penjaga yang mulai, ringan, Pak Tua berbagi beban, Siti melepaskan, toko adalah rumah, belajar melepaskan, cahaya putih, laci terkunci, kelanjutan.
+Dan aku — aku akan menunggu bersama mereka

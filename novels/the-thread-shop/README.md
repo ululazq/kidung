@@ -6,7 +6,7 @@ genre: "Contemporary Urban Fantasy"
 tone: "Warm, mysterious, with subtle supernatural undercurrents"
 protagonist: "Rani, penjaga toko benang tua yang bisa menenun realitas"
 description: "Rani mewarisi sebuah toko benang tua di pasar malam, tempat di mana benang yang terjual bisa menjahit realitas. Ketika sebuah benang menghilang, ia menemukan bahwa beberapa benang memiliki kekuatan hidup sendiri."
-status: "In Progress"
+status: "Complete"
 started: "2026-08-02"
 language: "Indonesian"
 ---

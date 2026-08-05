@@ -527,5 +527,3 @@ Aku menutup buku. Melihat ke lorong belakang. Akar-akar tidur. Benang Hitam Mala
 Dan untuk pertama kalinya — dalam empat minggu menjadi penjaga — aku merasa... ringan.
 
 Bukan karena beban berkurang. Tapi karena aku belajar bahwa menanggung beban tidak harus berarti menanggungnya sendiri.
----
-Kata kunci: menjahit penjaga, akar-akar bercahaya, benang hitam tua, Pak Tua berbagi beban, Siti melepaskan, toko penyembuhan, penjaga yang mulai, ringan.*

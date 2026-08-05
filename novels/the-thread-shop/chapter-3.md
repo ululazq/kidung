@@ -400,5 +400,3 @@ Rani menatap benang Hitam Malam di jarinya. Kilauannya sedikit lebih terang dari
 Besok malam. Jam sembilan. Pak Tua mengajarku lebih banyak.
 
 Dan benang-benang itu — semua benang itu — menunggu untuk dijual.
----
-Kata kunci: Pak Tua, akar benang, tanah, beban, penjaga pertama, Abu Kelabu, Budi, Siti, kontrakan, pasar malam, kehijauan.

@@ -412,5 +412,3 @@ Motor melaju lagi. Angin malam menghantam wajah.
 Di lorong pasar malam — toko benang tertutup. Tapi Rani tahu — di dalam, ribuan benang bernapas. Menunggu pembeli berikutnya. Menunggu beban berikutnya. Menunggu... esok malam.
 
 *Esok malam. Jam sembilan. Kita belajar menjahit.*
----
-Kata kunci: Benang Merah Budi, hilang dan ditemukan kembali, Abu Kelabu, Budi memaafkan ayah, Pak Tua ajarkan beban pindah, Siti jaga toko, transaksi Abu Kelabu selesai.

@@ -543,10 +543,4 @@ Itulah artinya menjadi penjaga. Bukan tentang kekuatan. Bukan tentang keberanian
 
 Itu tentang hadir. Setiap hari. Jam tujuh pagi. Membuka pintu toko. Menuangkan teh ke cangkir Pak Tua. Menyapa Siti yang datang dengan kue lapis. Dan menunggu — menunggu siapa pun yang datang dengan beban di pundak mereka.
 
-Menunggu — dan bersedia untuk menjahit.Kata kunci: Nenek Sari, penjaga sebelum Pak Tua, bawah tanah, rantai penjaga, Benang Hitam Malam memilih penjaga, toko tumbuh dari tanah.*
-'@
-
-$newContent = $append
-[System.IO.File]::WriteAllText($path, $newContent, (New-Object System.Text.UTF8Encoding($false)))
-$wc = (($newContent -split '\s+' | Where-Object { $_ -ne '' }).Count)
-Write-Output "ch10 rewritten: $wc"
+Menunggu — dan bersedia untuk menjahit.

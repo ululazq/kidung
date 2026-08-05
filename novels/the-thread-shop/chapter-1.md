@@ -494,5 +494,3 @@ Aku merobek kertas itu. Membawanya pulang. Menyimpannya di antara halaman buku c
 Malam ini, aku tidak punya jawaban. Tapi aku tahu — besok, jam tujuh pagi, aku akan kembali ke toko. Bukan karena warisan. Bukan karena benang di jariku.
 
 Karena penasaran. Dan karena sesuatu yang lebih tua dariku sudah memilihku, jauh sebelum aku tahu cara menjahit.
----
-Kata kunci: pesan misterius, jam 9 malam, pintu depan, pintu belakang, jam 12 lewat akar-akar, penjaga pertama, penasaran, dipilih, benang Hitam Malam, lorong pasar malam.*

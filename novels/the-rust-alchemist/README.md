@@ -2,31 +2,31 @@
 title: "The Rust Alchemist"  
 slug: "the-rust-alchemist"  
 universe: "Kidungverse"  
-genre: "Dark Fantasy / Action Urban Fantasy"  
-tone: "Atmospheric, gritty, high-stakes kinetic action, urban dark fantasy"  
-protagonist: "Bagas Seno, mekanik zirah & ahli alkimia karat"  
-description: "Bagas Seno memegang relik terkutuk Ferrum-Soli—sirkuit alkimia karat Kuno yang mampu mendekomposisi dan merestrukturisasi paduan logam berat secara instan, namun menyedot hemoglobin darah dan ketajaman penglihatannya setiap kali digunakan."  
+genre: "Steampunk / Action Urban Fantasy"  
+tone: "Dark, kinetic, atmospheric steampunk urban fantasy"  
+protagonist: "Kael Vance, mekanik galangan kapal & pengendali sirkuit dekomposisi karat"  
+description: "Kael Vance menemukan relik Ferrox-Transmutatio—sirkuit dekomposisi karat Kuno buatan Master Ironwood yang memungkinkannya mengendalikan gelombang disintegrasi besi dan melunakkan struktur logam keras, namun menurunkan suhu tubuhnya secara drastis setiap kali digunakan."  
 status: "Complete"  
 started: "2026-08-04"  
-completed: "2026-08-04"  
+completed: "2026-08-06"  
 language: "Indonesian"  
 ---  
 
 # The Rust Alchemist  
 
-**Karatan besi tua Tanjung Priok, rahasia sirkuit Ferrum-Soli, dan harga darah mengering di bawah ancaman Sanhedrin.**  
+**Sirkuit dekomposisi karat Galangan Kapal Bawah-Batavia dan pertaruhan daya fisik melawan Iron Syndicate.**  
 
 ## Sinopsis  
 
-Bagas Seno (25), seorang mantan pengrajin zirah dan mekanik besi tua di kawasan galangan kapal Tanjung Priok, menemukan sebilah plat besi berkarat Kuno berukir simbol tiga roda gigi di dalam lambung kapal kargo terbengkalai. Saat tersentuh, plat besi tersebut melebur menjadi cairan karat membara yang merasuki jaringan pembuluh darah lengan kanannya, membangkitkan tato rahasia **Ferrum-Soli**—relik alkimia karat warisan Ordo Alkimia Kuno.  
+Kael Vance (26), seorang mekanik galangan kapal tua di pelabuhan Bawah-Batavia, menemukan ukiran sirkuit tembaga berkarat di dalam peti perkakas kuno peninggalan kakeknya. Ukiran tersebut adalah **Ferrox-Transmutatio**—relik alkimia kuno buatan Master Ironwood yang merakit dirinya secara otomatis mengelilingi pergelangan tangan kanan Kael.  
 
-Dengan kekuatan Ferrum-Soli, Bagas mampu mengendalikan korosi dan dekomposisi molekuler logam, membelah baja pelindung musuh, dan melepaskan gelombang kejut transmutasi karat (**Rust Transmutation**). Namun imbalannya sangat berat: setiap kali alkimia karat tersebut dipicu, relik itu menyedot pasokan sel darah merah dan mengurangi ketajaman penglihatan Bagas secara bertahap.  
+Dengan kekuatan Ferrox-Transmutatio, Kael mampu melepaskan gelombang dekomposisi karat yang sanggup meremukkan struktur baja keras musuh, mengurai amunisi logam, dan meretas mekanisme mesin uap dari jarak jauh (**Rust Transmutation**). Namun harganya sangat berat: setiap kali kekuatan karat dipicu dalam skala besar, suhu tubuh Kael menurun drastis hingga membekukan sirkulasi darahnya.  
 
-Di tengah perburuan militer rahasia **The Steel Sanhedrin** yang dipimpin oleh **Komandan Malakor**, Bagas harus bertarung menembus kegelapan pelabuhan Tanjung Priok untuk membongkar konspirasi besar yang mengancam kehidupan seluruh warga pesisir.  
+Di tengah perburuan agresif pasukan **The Iron Syndicate** yang dipimpin oleh **Ironmaster**, Kael bersama peretas frekuensi **Sarah Kirana** harus menembus lorong bawah tanah galangan kapal untuk menyegel Reaktor Besi Raksasa sebelum seluruh energi logam kota dieksploitasi musuh.  
 
 ## Characters  
 
-- **Bagas Seno (25)**: Protagonist. Mekanik besi tua & pemegang relik Ferrum-Soli.  
-- **Dara Kirana (23)**: Peneliti metalurgi kuno & kriptografer Ordo Alkimia.  
-- **Komandan Malakor**: Pemimpin Steel Sanhedrin berzirah Heavy-Godframe.  
-- **Empu Seno**: Mantan penempa besi Kuno di pesisir Tanjung Priok.  
+- **Kael Vance (26)**: Protagonist. Mekanik galangan kapal & pemegang relik Ferrox-Transmutatio.  
+- **Sarah Kirana (24)**: Peretas frekuensi & peneliti sejarah logam alkimia.  
+- **Ironmaster**: Komandan Iron Syndicate berzirah Rust-Godframe.  
+- **Master Ironwood**: Pakar alkimia kuno pencipta sirkuit Ferrox-Transmutatio.  
