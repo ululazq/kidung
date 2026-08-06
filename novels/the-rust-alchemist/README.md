@@ -6,9 +6,9 @@ genre: "Steampunk / Action Urban Fantasy"
 tone: "Dark, kinetic, atmospheric steampunk urban fantasy"  
 protagonist: "Kael Vance, mekanik galangan kapal & pengendali sirkuit dekomposisi karat"  
 description: "Kael Vance menemukan relik Ferrox-Transmutatio—sirkuit dekomposisi karat Kuno buatan Master Ironwood yang memungkinkannya mengendalikan gelombang disintegrasi besi dan melunakkan struktur logam keras, namun menurunkan suhu tubuhnya secara drastis setiap kali digunakan."  
-status: "Complete"  
+status: "In Progress"  
 started: "2026-08-04"  
-completed: "2026-08-06"  
+completed: ""  
 language: "Indonesian"  
 ---  
 

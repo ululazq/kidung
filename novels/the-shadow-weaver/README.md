@@ -6,9 +6,9 @@ genre: "Dark Fantasy / Action Urban Fantasy"
 tone: "Atmospheric, moody, high-stakes kinetic action, urban dark fantasy"  
 protagonist: "Rama Aksara, pengrajin tenun & penjahit benang bayangan"  
 description: "Rama Aksara memegang relik terkutuk Umbra-Filum—sirkuit tenun bayangan Kuno yang mampu memanipulasi kerapatan materi kegelapan dan menjahit luka waktu, namun menyedot suhu tubuh dan fragmen kenangan terdekatnya setiap kali digunakan."  
-status: "Complete"  
+status: "In Progress"  
 started: "2026-08-04"  
-completed: "2026-08-04"  
+completed: ""  
 language: "Indonesian"  
 ---  
 

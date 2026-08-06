@@ -6,9 +6,9 @@ genre: "Steampunk / Action Urban Fantasy"
 tone: "High-octane, atmospheric, kinetic, dark steampunk urban fantasy"  
 protagonist: "Elian Vance, peretas perisai energi & mekanik zirah tempa"  
 description: "Elian Vance menemukan Aegis Aether—relik perisai gravitasi hampa Kuno buatan Empu Aether yang memungkinkannya menangkis ledakan kinetik masif dan membalikkan arus medan listrik, namun menyedot stamina fisik dan membuat pendengarannya berdengung setiap kali digunakan."  
-status: "Complete"  
+status: "In Progress"  
 started: "2026-08-04"  
-completed: "2026-08-04"  
+completed: ""  
 language: "Indonesian"  
 ---  
 
