@@ -23,7 +23,7 @@ Arif berjalan ke luar apartemen, menuju mobil yang dipinjam Maya. Maya duduk di 
 
 "Sari tidak pernah mengajak tanpa alasan."
 
-*Benar. Dan alasan它往往 lebih besar dari yang kita pikirkan.*
+*Benar. Dan alasannya sering kali lebih besar dari yang kita pikirkan.*
 
 ---
 
