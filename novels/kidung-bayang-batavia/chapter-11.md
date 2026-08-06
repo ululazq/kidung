@@ -1,20 +1,28 @@
 ---
-title: "Bab 11: Topeng Pangeran Jayakarta"
-chapter: 11
+title: "Bab 67: Pengorbanan Sang Arsiparis"
+chapter: 67
 ---
 
-Hujan deras mengguyur kawasan Kota Tua Jakarta ketika malam beranjak semakin larut. Di dalam kompleks bangunan kuno yang dipenuhi aroma kayu jati tua dan kertas menguning, Arya Pratama mengusap peluh di dahinya. Langkah kakinya berdetak pelan di atas ubin marmer tua yang dingin. Sebagai seorang arsiparis muda di Museum Nasional Jakarta, Arya terbiasa dengan keheningan malam dan deretan artefak yang membisu. Namun malam ini, atmosfer terasa begitu menekan, seolah ada sepasang mata tak kasat mata yang mengawasi setiap gerakannya dari kegelapan lorong preservasi.
+Hujan deras mengguyur kawasan Kota Tua Jakarta ketika gejolak energi dari hancurnya Sembilan Kerayangan berhasil diredam oleh Arya. Namun, saluran energi bumi yang dialirkan melalui Keris Kyai Sengkelat ternyata terlalu besar untuk ditampung oleh satu pancer bumi saja. Retakan tanah di pusat simpang lima mulai melebar kembali, mengancam akan meledakkan keris pusaka dan membunuh Arya yang masih memegang hulunya.
 
-Di hadapannya terbaring artefak misterius yang baru saja dipindahkan dari ruang penyimpanan bawah tanah: Gamelan Resonansi Tununggu. Permukaan perunggunya yang berwarna hijau kehitaman dipenuhi ukiran ukiran aksara Jawa kuno yang rumit. Saat Arya mendekatkan jemarinya untuk membersihkan debu tipis di permukaannya, getaran halus menjalar melalui udara. Suara dentang lembut perunggu bergema pelan tanpa ada pemukul yang menyentuhnya, memancarkan aura cahaya hijau zamrud yang menyelimuti telapak tangannya.
+Di saat-saat paling kritis tersebut, dari dalam kegelapan gedung Museum Fatahillah, muncul sosok pria tua berjanggut putih yang mengenakan jubah arsiparis kuno. Dialah Pak Raden Suprapto, sang penjaga arsip keramat Batavia yang selama puluhan tahun menyembunyikan identitas aslinya sebagai salah satu anggota tersisa dari Dewan Tujuh Pusaka.
 
-"Apakah kau merasakannya juga, Arya?" suara tegas bernada khawatir memecah keheningan. Sita, seorang peneliti senior dari Garda Bayang Nusantara yang mengenakan jaket kulit hitam, melangkah keluar dari balik pilar batu. Matanya menatap penuh waspada pada piringan perunggu yang kini bergetar semakin kuat. "Artefak ini tidak sekadar objek bersejarah. Ini adalah kunci pemicu benang takdir Batavia. Sembilan Kerayangan telah mencium keberadaannya dan mereka tidak akan berhenti sampai menemukan wadah utamanya."
+Pak Raden memegang sebuah kitab tua berlapis kulit kerbau yang bercahaya keemasan—Kitab Catatan Jagad Batavia.
 
-Arya menelan ludah, mengencangkan pegangannya pada Artefak Resonansi saat kilatan ingatan asing berkelebat tiba-tiba di dalam benaknya. Gambar-gambar tentang benteng kompeni abad ke-17, kapal-kapal kayu yang terbakar di Teluk Jakarta, dan ritual darah di bawah lorong air Kota Tua berputar cepat menghantam kesadarannya. Rasa dingin membakar menjalari pembuluh darah di lengannya, meninggalkan pola naga hijau berpendar di bawah kulitnya.
+"Arya! Lepaskan genggamanmu pada keris itu!" teriak Pak Raden seraya berlari menembus kobaran api gaib yang melingkupi jalanan.
 
-"Sita, apa yang sebenarnya terjadi pada tubuhku?" tanya Arya dengan suara tercekat, napasnya tersengal akibat dorongan energi yang kian meluap.
+"Tidak bisa, Pak Raden!" balas Arya seraya bertahan mati-matian menahan guncangan energi yang membakar telapak tangannya. "Jika aku melepaskannya sekarang, energi ini akan meledak dan menghancurkan seluruh kota!"
 
-"Kau adalah Vessel—Wadah Utama yang ditakdirkan untuk menampung atau menghentikan kebangkitan kekuatan Penguasa Laut Selatan," jawab Sita dengan nada berat, sorot matanya memperlihatkan simpati sekaligus ketegangan yang mendalam. "Raden Mas Surowijo membutuhkan darah dan jiwamu untuk menyempurnakan ritual Gerhana Segara. Jika dia berhasil, seluruh kota Jakarta akan ditarik masuk ke dalam realm kegelapan abad pertengahan."
+Pak Raden tersenyum penuh kedamaian dan penyesalan. "Tugasmu masih panjang untuk menjaga tanah ini, Anak Muda. Biarlah seorang tua yang sudah waktunya kembali ini yang mengunci aliran energi terakhir ini."
 
-Tiba-tiba, kaca jendela di sepanjang lorong pecah berkeping-keping dihantam gelombang udara dingin yang membekukan. Bayangan-bayangan hitam jangkung bersenjata pedang kompeni merayap keluar dari sudut-sudut dinding, mata merah mereka menyala penuh kebencian. Bau busuk air raksa dan lumpur Kali Ciliwung menguar memenuhi ruangan. Arya mengepalkan tangannya, membiarkan energi gamelan mengalir penuh ke dalam tubuhnya, siap menghadapi ancaman yang kian nyata di depan mata.
+Tanpa menghiraukan bahaya, Pak Raden melompat ke dalam retakan tanah pancer bumi tepat di samping Arya. Ia mendorong tubuh Arya hingga terlempar keluar dari lingkaran energi beracun, lalu menggantikan posisi Arya menahan hulu Keris Kyai Sengkelat.
 
-Apakah Arya mampu menguasai kekuatan resonansi gaib ini sebelum Sembilan Kerayangan merenggut jiwanya sepenuhnya?
+Pak Raden membuka Kitab Catatan Jagad Batavia dan meletakkannya di atas retakan batu. Ia mulai melantunkan mantra pengorbanan jiwa—sebuah ritual terlarang yang menukar nyawa sang penyihir untuk menyegel keabadian aliran energi gaib.
+
+"Pak Raden! Jangan!" jerit Arya histeris seraya berusaha merayap mendekat, namun ditahan kuat oleh Nyi Sembrani yang baru tiba di lokasi.
+
+"Biarkan dia, Arya," bisik Nyi Sembrani dengan air mata menetes di pipinya. "Ini adalah keputusan dan kehormatan tertinggi bagi seorang Arsiparis Jagad."
+
+Tubuh Pak Raden perlahan-lahan berubah menjadi butiran-butiran cahaya emas yang menyatu dengan Kitab Catatan Jagad dan Keris Kyai Sengkelat. Garis-garis energi liar yang bergejolak di seluruh tanah Batavia perlahan-lahan menjadi tenang dan meredup sempurna.
+
+Sebelum sosoknya benar-benar lenyap ditelan cahaya, Pak Raden menatap Arya untuk terakhir kalinya. "Jagalah tanah Batavia... jagalah kedamaian manusia dan gaib..." bisiknya lembut sebelum akhirnya lenyap secara abadi, menyisakan keris pusaka yang kini tertancap tenang di atas kitab tanah yang tersisa.

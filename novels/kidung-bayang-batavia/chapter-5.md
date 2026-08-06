@@ -1,20 +1,26 @@
 ---
-title: "Bab 5: Sandi Serikat VOC"
-chapter: 5
+title: "Bab 61: Pemutihan Ingatan"
+chapter: 61
 ---
 
-Hujan deras mengguyur kawasan Kota Tua Jakarta ketika malam beranjak semakin larut. Di dalam kompleks bangunan kuno yang dipenuhi aroma kayu jati tua dan kertas menguning, Arya Pratama mengusap peluh di dahinya. Langkah kakinya berdetak pelan di atas ubin marmer tua yang dingin. Sebagai seorang arsiparis muda di Museum Nasional Jakarta, Arya terbiasa dengan keheningan malam dan deretan artefak yang membisu. Namun malam ini, atmosfer terasa begitu menekan, seolah ada sepasang mata tak kasat mata yang mengawasi setiap gerakannya dari kegelapan lorong preservasi.
+Hujan deras mengguyur kawasan Kota Tua Jakarta, menyisakan kesunyian yang mencekam setelah ledakan energi mistis di dasar laut Sunda Kelapa berhasil dihentikan. Arya merayap naik ke dermaga kayu dengan tubuh yang sangat lemah dan bersimbah air laut. Di sampingnya, Nyi Sembrani berlutut, dengan cepat menyalurkan energi penyembuhan alami melalui telapak tangannya untuk memulihkan luka-luka bakar di kulit Arya.
 
-Di hadapannya terbaring artefak misterius yang baru saja dipindahkan dari ruang penyimpanan bawah tanah: Gamelan Resonansi Tununggu. Permukaan perunggunya yang berwarna hijau kehitaman dipenuhi ukiran ukiran aksara Jawa kuno yang rumit. Saat Arya mendekatkan jemarinya untuk membersihkan debu tipis di permukaannya, getaran halus menjalar melalui udara. Suara dentang lembut perunggu bergema pelan tanpa ada pemukul yang menyentuhnya, memancarkan aura cahaya hijau zamrud yang menyelimuti telapak tangannya.
+Namun, ancaman belum sepenuhnya usai. Ledakan cahaya keemasan dari Keris Kyai Sengkelat sebelumnya telah disaksikan oleh belasan warga lokal dan penjaga malam pelabuhan yang bersembunyi di balik bangunan tua. Mereka keluar dengan wajah pucat pasi dan mata terbelalak, menyaksikan fenomena gaib yang tidak mampu dicerna oleh akal sehat manusia modern.
 
-"Apakah kau merasakannya juga, Arya?" suara tegas bernada khawatir memecah keheningan. Sita, seorang peneliti senior dari Garda Bayang Nusantara yang mengenakan jaket kulit hitam, melangkah keluar dari balik pilar batu. Matanya menatap penuh waspada pada piringan perunggu yang kini bergetar semakin kuat. "Artefak ini tidak sekadar objek bersejarah. Ini adalah kunci pemicu benang takdir Batavia. Sembilan Kerayangan telah mencium keberadaannya dan mereka tidak akan berhenti sampai menemukan wadah utamanya."
+"Mereka melihat semuanya..." bisik Arya seraya bersusah payah untuk duduk. "Jika rahasia tentang keberadaan dunia gaib dan pusaka kuno ini tersebar ke masyarakat luas, kekacauan massal akan terjadi di seluruh kota."
 
-Arya menelan ludah, mengencangkan pegangannya pada Artefak Resonansi saat kilatan ingatan asing berkelebat tiba-tiba di dalam benaknya. Gambar-gambar tentang benteng kompeni abad ke-17, kapal-kapal kayu yang terbakar di Teluk Jakarta, dan ritual darah di bawah lorong air Kota Tua berputar cepat menghantam kesadarannya. Rasa dingin membakar menjalari pembuluh darah di lengannya, meninggalkan pola naga hijau berpendar di bawah kulitnya.
+Nyi Sembrani menghela napas panjang. Ia berdiri seraya mengambil sebuah mangkuk kuningan kecil dari dalam tas kainnya. Di dalamnya terdapat serbuk perak bersinar yang merupakan bahan utama untuk Ajian Sirep Pemutih Ingatan—sebuah mantra tingkat tinggi yang sangat langka dan berbahaya.
 
-"Sita, apa yang sebenarnya terjadi pada tubuhku?" tanya Arya dengan suara tercekat, napasnya tersengal akibat dorongan energi yang kian meluap.
+"Kita tidak punya pilihan lain, Arya," kata Nyi Sembrani dengan nada berat. "Dunia manusia dan dunia gaib harus tetap terpisah oleh batas yang jelas. Menghapus ingatan mereka adalah satu-satunya cara untuk melindungi mereka dari buruan pengikut Ki Demang Brata yang tersisa."
 
-"Kau adalah Vessel—Wadah Utama yang ditakdirkan untuk menampung atau menghentikan kebangkitan kekuatan Penguasa Laut Selatan," jawab Sita dengan nada berat, sorot matanya memperlihatkan simpati sekaligus ketegangan yang mendalam. "Raden Mas Surowijo membutuhkan darah dan jiwamu untuk menyempurnakan ritual Gerhana Segara. Jika dia berhasil, seluruh kota Jakarta akan ditarik masuk ke dalam realm kegelapan abad pertengahan."
+Arya menatap para warga yang berdiri terpaku tak jauh dari mereka. Di antara mereka terdapat seorang pemuda penjaga malam yang tadi sempat membantunya menunjukkan jalan menuju pelabuhan. Ada rasa bersalah yang mengganjal di hati Arya karena harus menghapus kenangan perjuangan mereka bersama malam ini.
 
-Tiba-tiba, kaca jendela di sepanjang lorong pecah berkeping-keping dihantam gelombang udara dingin yang membekukan. Bayangan-bayangan hitam jangkung bersenjata pedang kompeni merayap keluar dari sudut-sudut dinding, mata merah mereka menyala penuh kebencian. Bau busuk air raksa dan lumpur Kali Ciliwung menguar memenuhi ruangan. Arya mengepalkan tangannya, membiarkan energi gamelan mengalir penuh ke dalam tubuhnya, siap menghadapi ancaman yang kian nyata di depan mata.
+Nyi Sembrani mulai melantunkan tembang Jawa kuno yang bernada merdu namun sarat akan pengaruh hipnotis ghaib. Ia melempar serbuk perak ke udara, yang serta merta tertiup angin malam dan menyebar membentuk kabut berkilauan yang melingkupi seluruh area Sunda Kelapa.
 
-Apakah Arya mampu menguasai kekuatan resonansi gaib ini sebelum Sembilan Kerayangan merenggut jiwanya sepenuhnya?
+Satu per satu warga yang terpapar kabut perak tersebut mulai memejamkan mata dan tertidur lelap di tempat mereka berdiri. Bayangan-bayangan pertempuran dahsyat, monster jiwa kelam, dan hujan asam beracun perlahan-lahan dihapus dari benak mereka, digantikan oleh ingatan ilusi bahwa mereka hanya tertidur akibat kelelahan menanti hujan deras mereda.
+
+Arya menyaksikan proses tersebut dengan hati yang luluh. Ia sadar bahwa menjadi pahlawan di balik bayang-bayang berarti siap untuk dilupakan dan tidak pernah diakui atas segala pengorbanan yang telah dilakukan.
+
+"Ingatan mereka tentang malam ini telah bersih, Arya," ujar Nyi Sembrani seraya menghembuskan napas lega setelah menyelesaikan mantranya. "Besok pagi saat mereka terbangun, mereka hanya akan mengingat malam ini sebagai malam musim hujan yang tenang di Batavia."
+
+Arya bangkit berdiri, menatap langit malam yang kini mulai dihiasi oleh titik-titik bintang di antara celah awan. Ia mengencangkan ikatan keris di pinggangnya dan melangkah pergi bersama Nyi Sembrani, meninggalkan pelabuhan tua menuju takdir berikutnya yang telah menanti di kegelapan malam.

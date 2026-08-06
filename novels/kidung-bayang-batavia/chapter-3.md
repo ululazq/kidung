@@ -1,20 +1,30 @@
 ---
-title: "Bab 3: Garis Merah Kota Tua"
-chapter: 3
+title: "Bab 59: Pasukan Jiwa Kelam"
+chapter: 59
 ---
 
-Hujan deras mengguyur kawasan Kota Tua Jakarta ketika malam beranjak semakin larut. Di dalam kompleks bangunan kuno yang dipenuhi aroma kayu jati tua dan kertas menguning, Arya Pratama mengusap peluh di dahinya. Langkah kakinya berdetak pelan di atas ubin marmer tua yang dingin. Sebagai seorang arsiparis muda di Museum Nasional Jakarta, Arya terbiasa dengan keheningan malam dan deretan artefak yang membisu. Namun malam ini, atmosfer terasa begitu menekan, seolah ada sepasang mata tak kasat mata yang mengawasi setiap gerakannya dari kegelapan lorong preservasi.
+Hujan deras mengguyur kawasan Kota Tua Jakarta, membasahi benteng-benteng tua sisa peninggalan zaman kolonial. Kabut tebal yang membawa aroma belerang dan amis darah membumbung tinggi dari arah Sunda Kelapa. Malam itu, ketenangan Batavia terganggu oleh suara derap langkah ribuan prajurit tanpa wujud yang bergerak serentak menembus kegelapan malam.
 
-Di hadapannya terbaring artefak misterius yang baru saja dipindahkan dari ruang penyimpanan bawah tanah: Gamelan Resonansi Tununggu. Permukaan perunggunya yang berwarna hijau kehitaman dipenuhi ukiran ukiran aksara Jawa kuno yang rumit. Saat Arya mendekatkan jemarinya untuk membersihkan debu tipis di permukaannya, getaran halus menjalar melalui udara. Suara dentang lembut perunggu bergema pelan tanpa ada pemukul yang menyentuhnya, memancarkan aura cahaya hijau zamrud yang menyelimuti telapak tangannya.
+Dari puncak menara pengawas Pelabuhan Tua, Arya dan Nyi Sembrani menyaksikan pemandangan yang mengerikan. Ratusan prajurit jiwa kelam—korban pertempuran laut abad ke-17 yang terikat oleh mantra hitam Ki Demang Brata—bangkit dari dasar samudera. Tubuh mereka berupa benang-benang hitam kebal peluru dengan mata menyala hijau fosfor, menggenggam tombak dan senapan tua yang telah berkarat.
 
-"Apakah kau merasakannya juga, Arya?" suara tegas bernada khawatir memecah keheningan. Sita, seorang peneliti senior dari Garda Bayang Nusantara yang mengenakan jaket kulit hitam, melangkah keluar dari balik pilar batu. Matanya menatap penuh waspada pada piringan perunggu yang kini bergetar semakin kuat. "Artefak ini tidak sekadar objek bersejarah. Ini adalah kunci pemicu benang takdir Batavia. Sembilan Kerayangan telah mencium keberadaannya dan mereka tidak akan berhenti sampai menemukan wadah utamanya."
+"Pasukan Jiwa Kelam telah dikerahkan seluruhnya," ujar Nyi Sembrani seraya mengencangkan ikatan selendang mistisnya. "Ki Demang benar-benar ingin meratakan kota ini menjadi lautan darah sebelum fajar menyingsing."
 
-Arya menelan ludah, mengencangkan pegangannya pada Artefak Resonansi saat kilatan ingatan asing berkelebat tiba-tiba di dalam benaknya. Gambar-gambar tentang benteng kompeni abad ke-17, kapal-kapal kayu yang terbakar di Teluk Jakarta, dan ritual darah di bawah lorong air Kota Tua berputar cepat menghantam kesadarannya. Rasa dingin membakar menjalari pembuluh darah di lengannya, meninggalkan pola naga hijau berpendar di bawah kulitnya.
+Arya memegang hulu kerisnya dengan mantap. Meski tubuhnya masih terasa lemah akibat ritual pembersihan jiwa sebelumnya, ia tahu tidak ada waktu untuk beristirahat. Jika Pasukan Jiwa Kelam berhasil menembus pemukiman penduduk di luar benteng, ribuan nyawa tak berdosa akan menjadi korban persembahan gaib.
 
-"Sita, apa yang sebenarnya terjadi pada tubuhku?" tanya Arya dengan suara tercekat, napasnya tersengal akibat dorongan energi yang kian meluap.
+"Kita harus menahan mereka di gerbang pelabuhan," tegas Arya. "Nyi, gunakan Selendang Mayang untuk membuat barikade angin di sebelah barat. Aku akan memancing pimpinan mereka ke tengah lapangan."
 
-"Kau adalah Vessel—Wadah Utama yang ditakdirkan untuk menampung atau menghentikan kebangkitan kekuatan Penguasa Laut Selatan," jawab Sita dengan nada berat, sorot matanya memperlihatkan simpati sekaligus ketegangan yang mendalam. "Raden Mas Surowijo membutuhkan darah dan jiwamu untuk menyempurnakan ritual Gerhana Segara. Jika dia berhasil, seluruh kota Jakarta akan ditarik masuk ke dalam realm kegelapan abad pertengahan."
+Seketika itu juga, Arya melompat turun dari menara setinggi belasan meter dengan lincah. Ia mendarat tepat di hadapan barisan terdepan Pasukan Jiwa Kelam. Dengan ayunan Keris Kyai Sengkelat, Arya melepaskan tebasan gelombang cahaya emas yang langsung memusnahkan puluhan prajurit ghaib di barisan depan. Suara jeritan melengking memecah kesunyian malam saat jiwa-jiwa terlarang itu terurai menjadi abu hitam.
 
-Tiba-tiba, kaca jendela di sepanjang lorong pecah berkeping-keping dihantam gelombang udara dingin yang membekukan. Bayangan-bayangan hitam jangkung bersenjata pedang kompeni merayap keluar dari sudut-sudut dinding, mata merah mereka menyala penuh kebencian. Bau busuk air raksa dan lumpur Kali Ciliwung menguar memenuhi ruangan. Arya mengepalkan tangannya, membiarkan energi gamelan mengalir penuh ke dalam tubuhnya, siap menghadapi ancaman yang kian nyata di depan mata.
+Namun, jumlah mereka seolah tidak ada habisnya. Dari dalam air laut yang bergulung keras, ratusan jiwa kelam baru terus bermunculan, merayap naik ke dermaga kayu dan mengepung Arya dari segala penjuru.
 
-Apakah Arya mampu menguasai kekuatan resonansi gaib ini sebelum Sembilan Kerayangan merenggut jiwanya sepenuhnya?
+Di saat yang bersamaan, Nyi Sembrani menari di atas atap gudang tua. Selendang merahnya memanjang secara gaib, berputar membentuk lingkaran api mistis yang menahan laju pasukan kegelapan dari arah barat. Mantra-mantra jawa kuno mengalir deras dari bibirnya, menciptakan dinding pertahanan yang sangat kokoh meski terus digempur oleh serangan tombak gaib.
+
+"Arya! Carilah Panji Hitam yang dipegang oleh Panglima Jiwa!" teriak Nyi Sembrani dari kejauhan. "Selama panji itu belum dihancurkan, pasukan ini tidak akan pernah berhenti bangkit!"
+
+Arya mempertajam pandangannya. Di tengah riuh rendah pertempuran, ia melihat sosok tinggi besar menunggangi kuda gaib berbalut api hijau. Sosok itu menggenggam sebuah bendera hitam berukirkan rajah iblis—Panglima Jiwa Kelam.
+
+Tanpa membuang waktu, Arya memusatkan seluruh energi kanurnya ke kaki. Ia melesat menerobos kerumunan musuh bagai kilat. Prajurit jiwa kelam yang mencoba menghalanginya hancur berkeping-keping diterjang pendar aura keemasan dari tubuh Arya.
+
+Sang Panglima Jiwa menyadari kehadiran Arya dan menyabetkan pedang raksasanya dengan kekuatan yang sanggup meruntuhkan dinding batu. Arya melompat ke udara, menghindari sabetan membunuh tersebut, lalu mengarahkan Keris Kyai Sengkelat tepat ke jantung sang Panglima dan menancapkannya menembus Panji Hitam.
+
+Ledakan energi gaib yang sangat dahsyat meletus di tengah lapangan Sunda Kelapa. Sinar putih menyilaukan memancar dari titik kehancuran Panji Hitam, membakar seluruh Pasukan Jiwa Kelam hingga tak tersisa. Jeritan raungan gaib bergema untuk terakhir kalinya sebelum suasana pelabuhan kembali sunyi, menyisakan suara deru ombak dan gemericik air hujan.

@@ -1,20 +1,26 @@
 ---
-title: "Bab 1: Gema Perunggu Tua"
-chapter: 1
+title: "Bab 57: Pintu Misteri Segara"
+chapter: 57
 ---
 
-Hujan deras mengguyur kawasan Kota Tua Jakarta ketika malam beranjak semakin larut. Di dalam kompleks bangunan kuno yang dipenuhi aroma kayu jati tua dan kertas menguning, Arya Pratama mengusap peluh di dahinya. Langkah kakinya berdetak pelan di atas ubin marmer tua yang dingin. Sebagai seorang arsiparis muda di Museum Nasional Jakarta, Arya terbiasa dengan keheningan malam dan deretan artefak yang membisu. Namun malam ini, atmosfer terasa begitu menekan, seolah ada sepasang mata tak kasat mata yang mengawasi setiap gerakannya dari kegelapan lorong preservasi.
+Hujan deras mengguyur kawasan Kota Tua Jakarta saat malam semakin larut. Di tengah kehampaan lorong-lorong tua yang dipenuhi aura magis, Raden Mas Arya berjalan perlahan. Langkah kakinya gontai, menahan rasa sakit luar biasa dari luka sabetan pedang pusaka yang ia terima saat bertarung melawan cikal bakal kegelapan di dalam gudang pelabuhan. Di sampingnya, Nyi Sembrani berjalan legap, matanya yang tajam bagai mata elang menyapu setiap sudut ruangan yang remang-remang.
 
-Di hadapannya terbaring artefak misterius yang baru saja dipindahkan dari ruang penyimpanan bawah tanah: Gamelan Resonansi Tununggu. Permukaan perunggunya yang berwarna hijau kehitaman dipenuhi ukiran ukiran aksara Jawa kuno yang rumit. Saat Arya mendekatkan jemarinya untuk membersihkan debu tipis di permukaannya, getaran halus menjalar melalui udara. Suara dentang lembut perunggu bergema pelan tanpa ada pemukul yang menyentuhnya, memancarkan aura cahaya hijau zamrud yang menyelimuti telapak tangannya.
+"Kita sudah hampir sampai, Arya," bisik Nyi Sembrani dengan suara serak namun penuh wibawa. "Pintu Misteri Segara tidak akan terbuka lama. Jika gerhana laut berlalu sebelum kita menyeberang, jiwa-jiwa yang terperangkap di Alam Kelam akan selamanya menjadi budak Sang Penguasa Ombak."
 
-"Apakah kau merasakannya juga, Arya?" suara tegas bernada khawatir memecah keheningan. Sita, seorang peneliti senior dari Garda Bayang Nusantara yang mengenakan jaket kulit hitam, melangkah keluar dari balik pilar batu. Matanya menatap penuh waspada pada piringan perunggu yang kini bergetar semakin kuat. "Artefak ini tidak sekadar objek bersejarah. Ini adalah kunci pemicu benang takdir Batavia. Sembilan Kerayangan telah mencium keberadaannya dan mereka tidak akan berhenti sampai menemukan wadah utamanya."
+Arya mengangguk perlahan. Tangan kanannya memegang erat Keris Kyai Sengkelat yang memancarkan pendar cahaya keemasan. Pendaran itu menjadi satu-satunya penerang di dalam lorong bawah tanah Batavia yang dingin dan lembap. Suara gemericik air laut yang bocor dari sela-sela dinding batu bata kuno terdengar kian memburu, seolah menyanyikan simfoni kematian bagi siapa saja yang berani melangkah lebih jauh.
 
-Arya menelan ludah, mengencangkan pegangannya pada Artefak Resonansi saat kilatan ingatan asing berkelebat tiba-tiba di dalam benaknya. Gambar-gambar tentang benteng kompeni abad ke-17, kapal-kapal kayu yang terbakar di Teluk Jakarta, dan ritual darah di bawah lorong air Kota Tua berputar cepat menghantam kesadarannya. Rasa dingin membakar menjalari pembuluh darah di lengannya, meninggalkan pola naga hijau berpendar di bawah kulitnya.
+Ketika mereka sampai di sebuah ruangan melingkar bertiangkan delapan pilar batu hitam, langkah Arya terhenti. Di hadapan mereka berdiri sebuah gerbang raksasa dari kayu jati tua yang dilapisi ukiran naga laut. Gerbang itu memancarkan hawa dingin yang sanggup membekukan darah. Inilah Pintu Misteri Segara, tempat batas antara alam manusia dan samudera gaib melebur menjadi satu.
 
-"Sita, apa yang sebenarnya terjadi pada tubuhku?" tanya Arya dengan suara tercekat, napasnya tersengal akibat dorongan energi yang kian meluap.
+Namun, ruangan itu tidak kosong. Di depan gerbang, berdiri sesosok bayangan jangkung berjanggut perak yang mengenakan jubah kelam berlapis sutra Batavia. Dialah Ki Demang Brata, mantan senopati yang telah menjual jiwanya demi keabadian.
 
-"Kau adalah Vessel—Wadah Utama yang ditakdirkan untuk menampung atau menghentikan kebangkitan kekuatan Penguasa Laut Selatan," jawab Sita dengan nada berat, sorot matanya memperlihatkan simpati sekaligus ketegangan yang mendalam. "Raden Mas Surowijo membutuhkan darah dan jiwamu untuk menyempurnakan ritual Gerhana Segara. Jika dia berhasil, seluruh kota Jakarta akan ditarik masuk ke dalam realm kegelapan abad pertengahan."
+"Rupanya sang pewaris darah luhur masih memiliki keberanian untuk melangkah ke sini," kekeh Ki Demang Brata. Suaranya bergema memenuhi dinding batu, menciptakan getaran ghaib yang menusuk gendang telinga. "Tapi langkahmu berakhir di sini, Arya. Keris pusaka itu milik penguasa sejati, bukan bocah kemarin sore yang masih menangisi kematian gurunya!"
 
-Tiba-tiba, kaca jendela di sepanjang lorong pecah berkeping-keping dihantam gelombang udara dingin yang membekukan. Bayangan-bayangan hitam jangkung bersenjata pedang kompeni merayap keluar dari sudut-sudut dinding, mata merah mereka menyala penuh kebencian. Bau busuk air raksa dan lumpur Kali Ciliwung menguar memenuhi ruangan. Arya mengepalkan tangannya, membiarkan energi gamelan mengalir penuh ke dalam tubuhnya, siap menghadapi ancaman yang kian nyata di depan mata.
+"Ki Demang!" teriak Nyi Sembrani seraya melangkah ke depan. "Pengkhianatanmu pada Kerajaan Mataram telah membawa kutukan bagi tanah Jawa! Malam ini, giliranmu yang akan membayar setiap tetes darah para prajurit yang kau korbankan di Laut Selatan!"
 
-Apakah Arya mampu menguasai kekuatan resonansi gaib ini sebelum Sembilan Kerayangan merenggut jiwanya sepenuhnya?
+Tanpa menunggu balasan, Nyi Sembrani menghentakkan tongkat kayunya ke lantai batu. Seketika itu juga, gelombang angin berhembus kencang, membawa ratusan dedaunan gaib berkilau yang meluncur deras bagai anak panah menuju Ki Demang Brata. Pertempuran sengit di depan Pintu Misteri Segara pun meletus dengan dahsyat.
+
+Ki Demang Brata mengibaskan jubahnya, menciptakan benteng kegelapan yang memantulkan serangan Nyi Sembrani. Sementara itu, Arya mengambil kesempatan untuk mendekati gerbang utama. Ia tahu bahwa tugas utamanya bukanlah bertarung melawan Ki Demang, melainkan memasukkan pusaka Keris Kyai Sengkelat ke dalam celah ukiran di tengah Pintu Misteri Segara sebelum Bulan Merah mencapai puncaknya.
+
+"Arya, cepat!" seru Nyi Sembrani yang kini sedang bertarung jarak dekat melawan Ki Demang Brata. Percikan cahaya merah dan kuning memenuhi udara saat kekuatan mistis mereka beradu.
+
+Dengan sisa kekuatan yang ada, Arya melompat melewati kobaran api gaib yang melingkupi lantai. Ia menancapkan ujung Keris Kyai Sengkelat tepat ke pusat ukiran naga laut. Seketika itu juga, terdengar suara gemuruh dahsyat dari balik pintu kayu raksasa. Ukiran naga laut bergetar hebat, memancarkan sinar biru samudera yang sangat terang, menyapu seluruh kegelapan yang menyelimuti tempat itu.

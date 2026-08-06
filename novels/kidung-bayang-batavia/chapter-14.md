@@ -1,20 +1,25 @@
 ---
-title: "Bab 14: Pedang Besi Kuning"
-chapter: 14
+title: "Bab 70: Kidung Abadi Batavia"
+chapter: 70
 ---
 
-Hujan deras mengguyur kawasan Kota Tua Jakarta ketika malam beranjak semakin larut. Di dalam kompleks bangunan kuno yang dipenuhi aroma kayu jati tua dan kertas menguning, Arya Pratama mengusap peluh di dahinya. Langkah kakinya berdetak pelan di atas ubin marmer tua yang dingin. Sebagai seorang arsiparis muda di Museum Nasional Jakarta, Arya terbiasa dengan keheningan malam dan deretan artefak yang membisu. Namun malam ini, atmosfer terasa begitu menekan, seolah ada sepasang mata tak kasat mata yang mengawasi setiap gerakannya dari kegelapan lorong preservasi.
+Hujan deras mengguyur kawasan Kota Tua Jakarta saat malam puncak peringatan kelahiran kota tersebut tiba. Suara dentang lonceng Museum Fatahillah beradu merdu dengan gemericik air hujan yang membasahi pelataran batu tua. Di tengah suasana hangat perayaan rakyat yang diwarnai oleh tarian Ondel-Ondel dan alunan musik Gambang Kromong, Arya berdiri diam di atas atap tertinggi benteng kuno.
 
-Di hadapannya terbaring artefak misterius yang baru saja dipindahkan dari ruang penyimpanan bawah tanah: Gamelan Resonansi Tununggu. Permukaan perunggunya yang berwarna hijau kehitaman dipenuhi ukiran ukiran aksara Jawa kuno yang rumit. Saat Arya mendekatkan jemarinya untuk membersihkan debu tipis di permukaannya, getaran halus menjalar melalui udara. Suara dentang lembut perunggu bergema pelan tanpa ada pemukul yang menyentuhnya, memancarkan aura cahaya hijau zamrud yang menyelimuti telapak tangannya.
+Dari tempat ketinggian ini, Arya menatap seluruh panorama Batavia yang bercahaya indah di malam hari. Di pinggangnya terikat rapi Keris Kyai Sengkelat yang kini tertidur tenang, menjaga aliran energi ghaib bumi tetap stabil dan harmonis. Di sampingnya, Nyi Sembrani melipat kedua tangannya di dalam selendang, menikmati hembusan angin malam yang membawa aroma harum bunga melati ghaib.
 
-"Apakah kau merasakannya juga, Arya?" suara tegas bernada khawatir memecah keheningan. Sita, seorang peneliti senior dari Garda Bayang Nusantara yang mengenakan jaket kulit hitam, melangkah keluar dari balik pilar batu. Matanya menatap penuh waspada pada piringan perunggu yang kini bergetar semakin kuat. "Artefak ini tidak sekadar objek bersejarah. Ini adalah kunci pemicu benang takdir Batavia. Sembilan Kerayangan telah mencium keberadaannya dan mereka tidak akan berhenti sampai menemukan wadah utamanya."
+"Dengarlah musik itu, Arya," bisik Nyi Sembrani lembut. "Suara tawa rakyat, ketukan gendang, dan nyanyian anak-anak di bawah sana... itulah Kidung Abadi Batavia."
 
-Arya menelan ludah, mengencangkan pegangannya pada Artefak Resonansi saat kilatan ingatan asing berkelebat tiba-tiba di dalam benaknya. Gambar-gambar tentang benteng kompeni abad ke-17, kapal-kapal kayu yang terbakar di Teluk Jakarta, dan ritual darah di bawah lorong air Kota Tua berputar cepat menghantam kesadarannya. Rasa dingin membakar menjalari pembuluh darah di lengannya, meninggalkan pola naga hijau berpendar di bawah kulitnya.
+Arya tersenyum haru. Segalanya—setiap tetes darah yang tumpah, setiap luka terbakar, dan pengorbanan jiwa orang-orang tercinta—terasa sangat setimpal saat melihat kedamaian dan kebahagiaan yang dinikmati oleh warga kota malam ini. Mereka mungkin tidak akan pernah mengetahui nama pahlawan yang telah menyelamatkan nyawa mereka dari kegelapan Gerhana Segara, namun ketenangan hidup mereka adalah penghargaan tertinggi bagi seorang Arya.
 
-"Sita, apa yang sebenarnya terjadi pada tubuhku?" tanya Arya dengan suara tercekat, napasnya tersengal akibat dorongan energi yang kian meluap.
+Tiba-tiba, sebuah titik cahaya perak kecil terbang mendekati Arya, hinggap dengan ringan di ujung jarinya. Cahaya itu bertransformasi menjadi burung merpati ghaib yang membawa pesan singkat dari roh Pak Raden Suprapto dan Kyai Ageng Wiraguna. Pesan itu berupa satu bait tembang Jawa kuno yang bercahaya keemasan:
 
-"Kau adalah Vessel—Wadah Utama yang ditakdirkan untuk menampung atau menghentikan kebangkitan kekuatan Penguasa Laut Selatan," jawab Sita dengan nada berat, sorot matanya memperlihatkan simpati sekaligus ketegangan yang mendalam. "Raden Mas Surowijo membutuhkan darah dan jiwamu untuk menyempurnakan ritual Gerhana Segara. Jika dia berhasil, seluruh kota Jakarta akan ditarik masuk ke dalam realm kegelapan abad pertengahan."
+*"Ngluruk Tanpa Bala, Menang Tanpa Ngasorake, Sekti Tanpa Aji, Sugih Tanpa Bleketepe."*
+*(Berjuang tanpa pasukan, menang tanpa merendahkan, sakti tanpa azimat, kaya tanpa kemewahan).*
 
-Tiba-tiba, kaca jendela di sepanjang lorong pecah berkeping-keping dihantam gelombang udara dingin yang membekukan. Bayangan-bayangan hitam jangkung bersenjata pedang kompeni merayap keluar dari sudut-sudut dinding, mata merah mereka menyala penuh kebencian. Bau busuk air raksa dan lumpur Kali Ciliwung menguar memenuhi ruangan. Arya mengepalkan tangannya, membiarkan energi gamelan mengalir penuh ke dalam tubuhnya, siap menghadapi ancaman yang kian nyata di depan mata.
+Arya menghembuskan napas lega seraya melepaskan burung merpati cahaya itu kembali terbang membumbung tinggi ke angkasa malam. Ia tahu bahwa perjuangannya telah mendapatkan restu abadi dari para leluhur tanah Jawa.
 
-Apakah Arya mampu menguasai kekuatan resonansi gaib ini sebelum Sembilan Kerayangan merenggut jiwanya sepenuhnya?
+"Tugas kita di malam ini telah usai, Nyi," ujar Arya dengan suara penuh wibawa dan kedamaian.
+
+"Ya, Arya. Namun Kidung Abadi ini akan terus bergema sepanjang zaman, selama masih ada ksatria bayangan yang bersedia menjaga kesucian tanah ini," jawab Nyi Sembrani seraya tersenyum manis.
+
+Dengan satu lompatan ringan, Arya dan Nyi Sembrani menyatu dengan kegelapan malam, menghilang di antara bayang-bayang bangunan tua Batavia. Mereka pergi meninggalkan pelabuhan dan kota kebanggaan mereka, namun jiwa dan perlindungan mereka akan tetap berada di sana selamanya, mengawal Kidung Abadi Batavia hingga akhir masa.

@@ -1,20 +1,26 @@
 ---
-title: "Bab 8: Tiga Tetes Darah Pertama"
-chapter: 8
+title: "Bab 64: Pertempuran Akhir Dua Wadah"
+chapter: 64
 ---
 
-Hujan deras mengguyur kawasan Kota Tua Jakarta ketika malam beranjak semakin larut. Di dalam kompleks bangunan kuno yang dipenuhi aroma kayu jati tua dan kertas menguning, Arya Pratama mengusap peluh di dahinya. Langkah kakinya berdetak pelan di atas ubin marmer tua yang dingin. Sebagai seorang arsiparis muda di Museum Nasional Jakarta, Arya terbiasa dengan keheningan malam dan deretan artefak yang membisu. Namun malam ini, atmosfer terasa begitu menekan, seolah ada sepasang mata tak kasat mata yang mengawasi setiap gerakannya dari kegelapan lorong preservasi.
+Hujan deras mengguyur kawasan Kota Tua Jakarta saat Arya tergeletak lemah di atas tanah pelabuhan yang dingin. Darah segar mengalir dari mulutnya, membasahi bilah Keris Kyai Sengkelat yang kini kehilangan pendar keemasannya. Ki Demang Brata melangkah mendekat dengan senyum kemenangan yang mengerikan. Suara derap langkahnya bagai dentang bel kematian bagi sang pemuda pewaris pusaka.
 
-Di hadapannya terbaring artefak misterius yang baru saja dipindahkan dari ruang penyimpanan bawah tanah: Gamelan Resonansi Tununggu. Permukaan perunggunya yang berwarna hijau kehitaman dipenuhi ukiran ukiran aksara Jawa kuno yang rumit. Saat Arya mendekatkan jemarinya untuk membersihkan debu tipis di permukaannya, getaran halus menjalar melalui udara. Suara dentang lembut perunggu bergema pelan tanpa ada pemukul yang menyentuhnya, memancarkan aura cahaya hijau zamrud yang menyelimuti telapak tangannya.
+"Kini kau paham, Arya," ucap Ki Demang dengan suara berat bertingkat. "Kau dan aku hanyalah dua wadah yang diciptakan oleh takdir untuk menampung kekuatan besar. Bedanya, aku menerima kegelapan dengan tangan terbuka, sementara kau berpura-pura menjadi pahlawan dengan kebaikan palsumu!"
 
-"Apakah kau merasakannya juga, Arya?" suara tegas bernada khawatir memecah keheningan. Sita, seorang peneliti senior dari Garda Bayang Nusantara yang mengenakan jaket kulit hitam, melangkah keluar dari balik pilar batu. Matanya menatap penuh waspada pada piringan perunggu yang kini bergetar semakin kuat. "Artefak ini tidak sekadar objek bersejarah. Ini adalah kunci pemicu benang takdir Batavia. Sembilan Kerayangan telah mencium keberadaannya dan mereka tidak akan berhenti sampai menemukan wadah utamanya."
+Ki Demang mengangkat cambuk tulang naganya tinggi-tinggi, siap menghujamkan serangan mematikan untuk mengakhiri hidup Arya. Namun, sebelum cambuk itu mendarat, sebuah ledakan sinar merah merekah dari arah samping. Nyi Sembrani mengerahkan seluruh sisa umur dan energinya untuk menahan serangan Ki Demang menggunakan Selendang Mayang Pusaka.
 
-Arya menelan ludah, mengencangkan pegangannya pada Artefak Resonansi saat kilatan ingatan asing berkelebat tiba-tiba di dalam benaknya. Gambar-gambar tentang benteng kompeni abad ke-17, kapal-kapal kayu yang terbakar di Teluk Jakarta, dan ritual darah di bawah lorong air Kota Tua berputar cepat menghantam kesadarannya. Rasa dingin membakar menjalari pembuluh darah di lengannya, meninggalkan pola naga hijau berpendar di bawah kulitnya.
+"Lari, Arya! Cari keseimbangan jiwamu!" teriak Nyi Sembrani seraya menahan gempuran dahsyat Ki Demang. Tubuh wanita tua itu bergetar hebat, dan rambut peraknya mulai rontok akibat terkikis oleh aura racun iblis Ki Demang.
 
-"Sita, apa yang sebenarnya terjadi pada tubuhku?" tanya Arya dengan suara tercekat, napasnya tersengal akibat dorongan energi yang kian meluap.
+Arya memejamkan mata di tengah rasa sakit yang luar biasa. Di dalam kegelapan pikirannya, ia kembali mendengar bisikan lembut dari sang Guru, Kyai Ageng Wiraguna: *"Kekuatan sejati seorang ksatria bukan terletak pada ketiadaan rasa takut atau kemarahan, melainkan pada kemampuannya untuk mengendalikan kedua hal tersebut di bawah naungan kasih sayang dan keadilan."*
 
-"Kau adalah Vessel—Wadah Utama yang ditakdirkan untuk menampung atau menghentikan kebangkitan kekuatan Penguasa Laut Selatan," jawab Sita dengan nada berat, sorot matanya memperlihatkan simpati sekaligus ketegangan yang mendalam. "Raden Mas Surowijo membutuhkan darah dan jiwamu untuk menyempurnakan ritual Gerhana Segara. Jika dia berhasil, seluruh kota Jakarta akan ditarik masuk ke dalam realm kegelapan abad pertengahan."
+Seketika itu juga, kesadaran baru merekah di dalam jiwa Arya. Ia tidak lagi menolak kegelapan di dalam dirinya, dan tidak pula membiarkan amarah menguasai pikirannya. Arya menerima seluruh rasa sakit, kehilangan, dan tanggung jawabnya dengan tekad yang murni.
 
-Tiba-tiba, kaca jendela di sepanjang lorong pecah berkeping-keping dihantam gelombang udara dingin yang membekukan. Bayangan-bayangan hitam jangkung bersenjata pedang kompeni merayap keluar dari sudut-sudut dinding, mata merah mereka menyala penuh kebencian. Bau busuk air raksa dan lumpur Kali Ciliwung menguar memenuhi ruangan. Arya mengepalkan tangannya, membiarkan energi gamelan mengalir penuh ke dalam tubuhnya, siap menghadapi ancaman yang kian nyata di depan mata.
+Ketika Arya kembali membuka mata, pendaran cahaya baru muncul dari tubuhnya. Bukan lagi emas murni atau merah membara, melainkan kombinasi cahaya putih perak yang sangat berkilauan dan menenangkan. Keris Kyai Sengkelat bergetar dahsyat, mentransformasi wujudnya menjadi bilah pedang cahaya suci yang sanggup membelah dimensi.
 
-Apakah Arya mampu menguasai kekuatan resonansi gaib ini sebelum Sembilan Kerayangan merenggut jiwanya sepenuhnya?
+Arya bangkit berdiri dengan anggun. Dengan satu gerakan cepat, ia melesat menyelamatkan Nyi Sembrani tepat sebelum benteng selendang wanita tua itu hancur.
+
+"Terima kasih, Nyi. Kini giliranku untuk menyelesaikan pertempuran dua wadah ini," bisik Arya tenang.
+
+Ki Demang Brata meraung murka melihat perubahan energi Arya. Ia mengerahkan seluruh kekuatan iblis samudera, mengubah tubuh raksasanya menjadi monster aura kehitaman yang siap menelan apa saja di hadapannya. Dua wadah kekuatan—satu terisi oleh kegelapan mutlak, dan satu lagi terisi oleh cahaya keseimbangan jiwa—terbang saling menerjang di atas langit Batavia yang mencekam.
+
+Sabetan pedang cahaya Arya beradu hebat dengan cakar raksasa Ki Demang. Pertempuran udara terhebat sepanjang sejarah Batavia itu memicu ledakan gelombang kejutan yang meruntuhkan sisa-sisa bangunan pelabuhan tua. Namun kali ini, Arya bertarung dengan ketenangan sempurna. Setiap tebasannya presisi, memotong satu per satu sumber kekuatan iblis di tubuh Ki Demang hingga sang monster menjerit kehilang pertahanan.

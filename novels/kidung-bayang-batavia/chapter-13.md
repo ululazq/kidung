@@ -1,20 +1,24 @@
 ---
-title: "Bab 13: Dendam Seorang Kurator"
-chapter: 13
+title: "Bab 69: Warisan Bayang-Bayang"
+chapter: 69
 ---
 
-Hujan deras mengguyur kawasan Kota Tua Jakarta ketika malam beranjak semakin larut. Di dalam kompleks bangunan kuno yang dipenuhi aroma kayu jati tua dan kertas menguning, Arya Pratama mengusap peluh di dahinya. Langkah kakinya berdetak pelan di atas ubin marmer tua yang dingin. Sebagai seorang arsiparis muda di Museum Nasional Jakarta, Arya terbiasa dengan keheningan malam dan deretan artefak yang membisu. Namun malam ini, atmosfer terasa begitu menekan, seolah ada sepasang mata tak kasat mata yang mengawasi setiap gerakannya dari kegelapan lorong preservasi.
+Hujan deras mengguyur kawasan Kota Tua Jakarta beberapa minggu setelah peristiwa Gerhana Segara berlalu. Kehidupan di ibu kota telah kembali normal seperti sediakala. Keramaian lalu lintas, pedagang kaki lima, dan lalu lalang wisatawan mengisi sudut-sudut jalanan bersejarah yang kini tampak damai di bawah naungan awan sore.
 
-Di hadapannya terbaring artefak misterius yang baru saja dipindahkan dari ruang penyimpanan bawah tanah: Gamelan Resonansi Tununggu. Permukaan perunggunya yang berwarna hijau kehitaman dipenuhi ukiran ukiran aksara Jawa kuno yang rumit. Saat Arya mendekatkan jemarinya untuk membersihkan debu tipis di permukaannya, getaran halus menjalar melalui udara. Suara dentang lembut perunggu bergema pelan tanpa ada pemukul yang menyentuhnya, memancarkan aura cahaya hijau zamrud yang menyelimuti telapak tangannya.
+Namun, di dalam sebuah kedai kopi tua yang terletak di lorong tersembunyi dekat dermaga, Arya duduk sendirian di sudut ruangan. Di hadapannya terhidang secangkir kopi hitam panas dan sebuah pundi-pundi kain berisi pusaka-pusaka peninggalan Pak Raden Suprapto dan Kyai Ageng Wiraguna.
 
-"Apakah kau merasakannya juga, Arya?" suara tegas bernada khawatir memecah keheningan. Sita, seorang peneliti senior dari Garda Bayang Nusantara yang mengenakan jaket kulit hitam, melangkah keluar dari balik pilar batu. Matanya menatap penuh waspada pada piringan perunggu yang kini bergetar semakin kuat. "Artefak ini tidak sekadar objek bersejarah. Ini adalah kunci pemicu benang takdir Batavia. Sembilan Kerayangan telah mencium keberadaannya dan mereka tidak akan berhenti sampai menemukan wadah utamanya."
+Meskipun pertempuran besar telah berakhir, Arya paham betul akan filosofi tua tanah Jawa: *Warisan Bayang-Bayang*. Setiap kali cahaya besar ditegakkan, bayangan yang dihasilkannya pun akan semakin panjang. Kehancuran Ki Demang Brata telah membuka ruang hampa kekuatan di dunia ghaib Nusantara, memancing perhatian entitas-entitas kuno lainnya dari luar Batavia yang mulai bergerak mengincar posisi penguasa baru.
 
-Arya menelan ludah, mengencangkan pegangannya pada Artefak Resonansi saat kilatan ingatan asing berkelebat tiba-tiba di dalam benaknya. Gambar-gambar tentang benteng kompeni abad ke-17, kapal-kapal kayu yang terbakar di Teluk Jakarta, dan ritual darah di bawah lorong air Kota Tua berputar cepat menghantam kesadarannya. Rasa dingin membakar menjalari pembuluh darah di lengannya, meninggalkan pola naga hijau berpendar di bawah kulitnya.
+Nyi Sembrani masuk ke dalam kedai kopi, mengibaskan air hujan dari selendangnya sebelum duduk di hadapan Arya.
 
-"Sita, apa yang sebenarnya terjadi pada tubuhku?" tanya Arya dengan suara tercekat, napasnya tersengal akibat dorongan energi yang kian meluap.
+"Ada kabar baru dari utara, Arya," ujar Nyi Sembrani dengan suara berbisik yang sangat serius. "Utusan dari Kerajaan Gaib Pantai Utara telah terlihat di sekitar pelabuhan Cirebon. Mereka mencari keberadaan Keris Kyai Sengkelat."
 
-"Kau adalah Vessel—Wadah Utama yang ditakdirkan untuk menampung atau menghentikan kebangkitan kekuatan Penguasa Laut Selatan," jawab Sita dengan nada berat, sorot matanya memperlihatkan simpati sekaligus ketegangan yang mendalam. "Raden Mas Surowijo membutuhkan darah dan jiwamu untuk menyempurnakan ritual Gerhana Segara. Jika dia berhasil, seluruh kota Jakarta akan ditarik masuk ke dalam realm kegelapan abad pertengahan."
+Arya menyesap kopinya perlahan. Wajahnya yang semakin matang kini mencerminkan ketenangan seorang pahlawan sejati yang telah menembus asam garam kehidupan. "Biarkan mereka mencari, Nyi. Keris ini bukan lagi pusaka yang bisa diperebutkan dengan keserakahan. Senjata ini telah menyatu dengan takdir pelindung tanah ini."
 
-Tiba-tiba, kaca jendela di sepanjang lorong pecah berkeping-keping dihantam gelombang udara dingin yang membekukan. Bayangan-bayangan hitam jangkung bersenjata pedang kompeni merayap keluar dari sudut-sudut dinding, mata merah mereka menyala penuh kebencian. Bau busuk air raksa dan lumpur Kali Ciliwung menguar memenuhi ruangan. Arya mengepalkan tangannya, membiarkan energi gamelan mengalir penuh ke dalam tubuhnya, siap menghadapi ancaman yang kian nyata di depan mata.
+Nyi Sembrani tersenyum puas melihat kedewasaan Arya. Ia merogoh sesuatu dari balik selendangnya dan meletakkannya di atas meja—sebuah gulungan kertas kulit tua berstempel naga mas.
 
-Apakah Arya mampu menguasai kekuatan resonansi gaib ini sebelum Sembilan Kerayangan merenggut jiwanya sepenuhnya?
+"Ini adalah peta lokasi Padepokan Bayang Jagad yang baru," jelas Nyi Sembrani. "Tempat di mana kau akan melatih lima pemuda pilihan yang memiliki bakat kanuragan untuk menjadi benteng pertahanan Batavia di masa depan."
+
+Arya mengambil gulungan peta tersebut dan mengangguk pelan. Ia menyadari bahwa warisan sejati yang ditinggalkan oleh para gurunya bukanlah senjata pusaka atau kekuatan sihir yang tiada tanding, melainkan semangat pengabdian dan keberanian untuk berdiri melindungi sesama di dalam kegelapan.
+
+Arya bangkit dari duduknya, mengencangkan ikatan jubah hitamnya, dan melangkah keluar dari kedai kopi menuju hujan sore yang menyejukkan. Bayangan tubuhnya membentang panjang di atas jalanan batu Kota Tua, menjadi lambang warisan bayang-bayang yang siap menjaga kedamaian Batavia selamanya.

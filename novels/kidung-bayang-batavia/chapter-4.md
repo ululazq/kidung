@@ -1,20 +1,28 @@
 ---
-title: "Bab 4: Bayangan di Sunda Kelapa"
-chapter: 4
+title: "Bab 60: Hujan Asam Di Sunda Kelapa"
+chapter: 60
 ---
 
-Hujan deras mengguyur kawasan Kota Tua Jakarta ketika malam beranjak semakin larut. Di dalam kompleks bangunan kuno yang dipenuhi aroma kayu jati tua dan kertas menguning, Arya Pratama mengusap peluh di dahinya. Langkah kakinya berdetak pelan di atas ubin marmer tua yang dingin. Sebagai seorang arsiparis muda di Museum Nasional Jakarta, Arya terbiasa dengan keheningan malam dan deretan artefak yang membisu. Namun malam ini, atmosfer terasa begitu menekan, seolah ada sepasang mata tak kasat mata yang mengawasi setiap gerakannya dari kegelapan lorong preservasi.
+Hujan deras mengguyur kawasan Kota Tua Jakarta, namun hujan yang turun di sekitar Sunda Kelapa malam itu sangat tidak biasa. Tetesan airnya berwarna kehitaman dan mengeluarkan aroma menyengat yang membakar kulit. Hujan asam ghaib yang dipanggil oleh mantra jahat Ki Demang Brata mulai mengikis kayu-kayu kapal tua dan meruntuhkan atap-atap bangunan bersejarah di sepanjang pelabuhan.
 
-Di hadapannya terbaring artefak misterius yang baru saja dipindahkan dari ruang penyimpanan bawah tanah: Gamelan Resonansi Tununggu. Permukaan perunggunya yang berwarna hijau kehitaman dipenuhi ukiran ukiran aksara Jawa kuno yang rumit. Saat Arya mendekatkan jemarinya untuk membersihkan debu tipis di permukaannya, getaran halus menjalar melalui udara. Suara dentang lembut perunggu bergema pelan tanpa ada pemukul yang menyentuhnya, memancarkan aura cahaya hijau zamrud yang menyelimuti telapak tangannya.
+Arya mengusap darah yang mengalir dari pelipisnya. Pertempuran melawan Panglima Jiwa Kelam telah menguras separuh energinya, dan kini ia harus menghadapi ancaman lingkungan gaib yang diciptakan musuhnya. Di sekelilingnya, tanah batu mulai melepuh dan mengeluarkan kabut beracun yang sangat berbahaya jika terhirup oleh manusia biasa.
 
-"Apakah kau merasakannya juga, Arya?" suara tegas bernada khawatir memecah keheningan. Sita, seorang peneliti senior dari Garda Bayang Nusantara yang mengenakan jaket kulit hitam, melangkah keluar dari balik pilar batu. Matanya menatap penuh waspada pada piringan perunggu yang kini bergetar semakin kuat. "Artefak ini tidak sekadar objek bersejarah. Ini adalah kunci pemicu benang takdir Batavia. Sembilan Kerayangan telah mencium keberadaannya dan mereka tidak akan berhenti sampai menemukan wadah utamanya."
+"Nyi! Kita harus mencari perlindungan!" seru Arya seraya melindungi kepalanya menggunakan jubahnya yang telah terlapisi energi kanuragan.
 
-Arya menelan ludah, mengencangkan pegangannya pada Artefak Resonansi saat kilatan ingatan asing berkelebat tiba-tiba di dalam benaknya. Gambar-gambar tentang benteng kompeni abad ke-17, kapal-kapal kayu yang terbakar di Teluk Jakarta, dan ritual darah di bawah lorong air Kota Tua berputar cepat menghantam kesadarannya. Rasa dingin membakar menjalari pembuluh darah di lengannya, meninggalkan pola naga hijau berpendar di bawah kulitnya.
+Nyi Sembrani melompat turun dari atap gudang, hinggap dengan ringan di samping Arya. Wajahnya dipenuhi kecemasan saat melihat tetesan hujan asam mulai menembus benteng pertahanan gaib yang ia ciptakan. "Hujan ini bukan hujan biasa, Arya. Ini adalah Darah Segara yang telah tercemar oleh racun iblis. Jika terus dibiarkan, seluruh muara Ciliwung akan beracun dan membunuh semua makhluk hidup di sekitarnya!"
 
-"Sita, apa yang sebenarnya terjadi pada tubuhku?" tanya Arya dengan suara tercekat, napasnya tersengal akibat dorongan energi yang kian meluap.
+Ki Demang Brata muncul di atas salah satu tiang layar kapal tua yang karam di tepi pantai. Tertawanya menggema kencang di antara deru angin kencang dan gemuruh petir. "Saksikanlah kehancuran kota kebanggaan kalian! Tidak ada racun yang bisa ditangkal oleh pusaka lapukmu itu, Arya! Batavia akan tenggelam dalam lautan asam dan keputusasaan!"
 
-"Kau adalah Vessel—Wadah Utama yang ditakdirkan untuk menampung atau menghentikan kebangkitan kekuatan Penguasa Laut Selatan," jawab Sita dengan nada berat, sorot matanya memperlihatkan simpati sekaligus ketegangan yang mendalam. "Raden Mas Surowijo membutuhkan darah dan jiwamu untuk menyempurnakan ritual Gerhana Segara. Jika dia berhasil, seluruh kota Jakarta akan ditarik masuk ke dalam realm kegelapan abad pertengahan."
+Arya menatap ke arah laut lepas. Ia tahu bahwa satu-satunya cara untuk menghentikan hujan beracun ini adalah dengan menetralisir sumber kutukan yang tertanam di dasar laut pelabuhan. Namun, melompat ke dalam air laut yang telah tercemar hujan asam adalah tindakan bunuh diri bagi siapapun.
 
-Tiba-tiba, kaca jendela di sepanjang lorong pecah berkeping-keping dihantam gelombang udara dingin yang membekukan. Bayangan-bayangan hitam jangkung bersenjata pedang kompeni merayap keluar dari sudut-sudut dinding, mata merah mereka menyala penuh kebencian. Bau busuk air raksa dan lumpur Kali Ciliwung menguar memenuhi ruangan. Arya mengepalkan tangannya, membiarkan energi gamelan mengalir penuh to dalam tubuhnya, siap menghadapi ancaman yang kian nyata di depan mata.
+"Aku harus turun ke dasar laut," kata Arya mantap.
 
-Apakah Arya mampu menguasai kekuatan resonansi gaib ini sebelum Sembilan Kerayangan merenggut jiwanya sepenuhnya?
+"Jangan gila, Arya!" sela Nyi Sembrani seraya memegang lengan Arya. "Kulit dan dagingmu akan hancur begitu kau menyentuh air itu! Kau belum sepenuhnya menguasai Ajian Gelap Ngampar untuk menahan racun tingkat tinggi!"
+
+"Tidak ada pilihan lain, Nyi," jawab Arya seraya menatap mata wanita tua itu dengan penuh keyakinan. "Keris Kyai Sengkelat diciptakan untuk melindungi rakyat dari bencana. Jika aku harus gugur di dasar laut ini demi keselamatan Batavia, maka itulah takdirku sebagai seorang prajurit."
+
+Tanpa menunggu jawaban lebih lanjut, Arya memusatkan seluruh ingatan dan cintanya pada tanah kelahirannya. Ia membaca mantra perlindungan kuno yang pernah diajarkan sang Guru, membiarkan aura emas Keris Kyai Sengkelat membungkus rapat seluruh tubuhnya bagai baju zirah cahaya.
+
+Dengan satu lompatan tinggi, Arya menerjunkan dirinya ke dalam gulungan ombak hitam Sunda Kelapa yang bergolak panas. Rasa sakit yang luar biasa langsung menyerang tubuhnya saat air beracun mencoba mengikis perlindungan cahayanya. Di dasar laut yang gelap gulita, Arya melihat sebuah batu mustika hitam berkilau merah—sumber utama dari racun dan hujan asam tersebut.
+
+Mengabaikan rasa terbakar di sekujur tubuhnya, Arya berenang mendekati batu mustika itu dan menancapkan Keris Kyai Sengkelat tepat di tengahnya. Sinar keemasan meledak di dalam air, menetralisir racun seketika dan mengubah air laut hitam kembali menjadi jernih. Di atas permukaan, awan hitam pekat membubar perlahan, menghentikan hujan asam dan mengembalikan kesucian malam di pelabuhan Sunda Kelapa.

@@ -1,20 +1,22 @@
 ---
-title: "Bab 12: Lorong Air Mataram"
-chapter: 12
+title: "Bab 68: Fajar Di Atas Ciliwung"
+chapter: 68
 ---
 
-Hujan deras mengguyur kawasan Kota Tua Jakarta ketika malam beranjak semakin larut. Di dalam kompleks bangunan kuno yang dipenuhi aroma kayu jati tua dan kertas menguning, Arya Pratama mengusap peluh di dahinya. Langkah kakinya berdetak pelan di atas ubin marmer tua yang dingin. Sebagai seorang arsiparis muda di Museum Nasional Jakarta, Arya terbiasa dengan keheningan malam dan deretan artefak yang membisu. Namun malam ini, atmosfer terasa begitu menekan, seolah ada sepasang mata tak kasat mata yang mengawasi setiap gerakannya dari kegelapan lorong preservasi.
+Hujan deras mengguyur kawasan Kota Tua Jakarta perlahan-lahan mulai mereda saat awan pekat di langit sebelah timur mulai menyibak. Garis-garis cahaya perak keemasan dari fajar pertama mulai merekah di atas permukaan Sungai Ciliwung, membawa kehangatan yang mengusir malam terkelam dalam sejarah Batavia.
 
-Di hadapannya terbaring artefak misterius yang baru saja dipindahkan dari ruang penyimpanan bawah tanah: Gamelan Resonansi Tununggu. Permukaan perunggunya yang berwarna hijau kehitaman dipenuhi ukiran ukiran aksara Jawa kuno yang rumit. Saat Arya mendekatkan jemarinya untuk membersihkan debu tipis di permukaannya, getaran halus menjalar melalui udara. Suara dentang lembut perunggu bergema pelan tanpa ada pemukul yang menyentuhnya, memancarkan aura cahaya hijau zamrud yang menyelimuti telapak tangannya.
+Arya berlutut di tanah yang telah tenang di tengah simpang lima Kota Tua. Di hadapannya, Kitab Catatan Jagad Batavia yang telah mengkristal menjadi batu abadi tersimpan rapi di bawah tumpukan Keris Kyai Sengkelat. Pengorbanan Pak Raden Suprapto telah berhasil mengunci seluruh sisa-sisa energi ghaib musuh dan mengembalikan keseimbangan alam tanah Jawa.
 
-"Apakah kau merasakannya juga, Arya?" suara tegas bernada khawatir memecah keheningan. Sita, seorang peneliti senior dari Garda Bayang Nusantara yang mengenakan jaket kulit hitam, melangkah keluar dari balik pilar batu. Matanya menatap penuh waspada pada piringan perunggu yang kini bergetar semakin kuat. "Artefak ini tidak sekadar objek bersejarah. Ini adalah kunci pemicu benang takdir Batavia. Sembilan Kerayangan telah mencium keberadaannya dan mereka tidak akan berhenti sampai menemukan wadah utamanya."
+Nyi Sembrani melangkah mendekati Arya seraya memegang bahu pemuda itu dengan penuh rasa bangga dan haru. "Malam terpanjang telah berlalu, Arya. Fajar telah tiba, dan Batavia masih berdiri tegak berkat perjuangan dan pengorbananmu."
 
-Arya menelan ludah, mengencangkan pegangannya pada Artefak Resonansi saat kilatan ingatan asing berkelebat tiba-tiba di dalam benaknya. Gambar-gambar tentang benteng kompeni abad ke-17, kapal-kapal kayu yang terbakar di Teluk Jakarta, dan ritual darah di bawah lorong air Kota Tua berputar cepat menghantam kesadarannya. Rasa dingin membakar menjalari pembuluh darah di lengannya, meninggalkan pola naga hijau berpendar di bawah kulitnya.
+Arya mengambil Keris Kyai Sengkelat dari atas batu kristal. Bilah keris pusaka itu kini memancarkan pendaran cahaya yang sangat lembut dan tenang, tidak lagi bergejolak seperti sebelumnya. Senjata itu seolah telah menyatu secara sempurna dengan jiwa Arya, menjadi bagian tak terpisahkan dari sang pahlawan muda.
 
-"Sita, apa yang sebenarnya terjadi pada tubuhku?" tanya Arya dengan suara tercekat, napasnya tersengal akibat dorongan energi yang kian meluap.
+Di sepanjang tepi Sungai Ciliwung, burung-burung pagi mulai berkicau riang. Air sungai yang tadinya keruh beracun akibat hujan asam gaib kini mengalir jernih memantulkan sinar matahari pagi yang menyegarkan. Warga Kota Tua satu per satu mulai terbangun dari tidur lelap mereka, keluar dari rumah dengan wajah segar tanpa sedikit pun mengingat petaka gaib yang hampir memusnahkan nyawa mereka beberapa jam lalu.
 
-"Kau adalah Vessel—Wadah Utama yang ditakdirkan untuk menampung atau menghentikan kebangkitan kekuatan Penguasa Laut Selatan," jawab Sita dengan nada berat, sorot matanya memperlihatkan simpati sekaligus ketegangan yang mendalam. "Raden Mas Surowijo membutuhkan darah dan jiwamu untuk menyempurnakan ritual Gerhana Segara. Jika dia berhasil, seluruh kota Jakarta akan ditarik masuk ke dalam realm kegelapan abad pertengahan."
+Arya berdiri menatap alur Sungai Ciliwung yang membentang luas hingga ke laut lepas. Ia menyadari bahwa meski ancaman Ki Demang Brata telah berakhir, tugasnya sebagai pelindung tanah ini tidak akan pernah selesai. Kegelapan selalu mencari cara untuk kembali, namun selama masih ada jiwa-jiwa murni yang siap berkorban, cahaya harapan tidak akan pernah padam.
 
-Tiba-tiba, kaca jendela di sepanjang lorong pecah berkeping-keping dihantam gelombang udara dingin yang membekukan. Bayangan-bayangan hitam jangkung bersenjata pedang kompeni merayap keluar dari sudut-sudut dinding, mata merah mereka menyala penuh kebencian. Bau busuk air raksa dan lumpur Kali Ciliwung menguar memenuhi ruangan. Arya mengepalkan tangannya, membiarkan energi gamelan mengalir penuh ke dalam tubuhnya, siap menghadapi ancaman yang kian nyata di depan mata.
+"Apa rencana selanjutnya, Nyi?" tanya Arya seraya menyarungkan keris pusakanya ke dalam simpanan kayu jati tua.
 
-Apakah Arya mampu menguasai kekuatan resonansi gaib ini sebelum Sembilan Kerayangan merenggut jiwanya sepenuhnya?
+"Kita harus mengembalikan Kitab Jagad ini ke tempat penyimpanan rahasia di dalam benteng rahasia gurumu," jawab Nyi Sembrani. "Lalu, kau harus mulai melatih generasi baru untuk meneruskan tugas agung ini."
+
+Arya tersenyum tipis. Ia mengangguk setuju seraya mengangkat Kitab Jagad yang telah mengkristal. Bersama Nyi Sembrani, Arya melangkah meninggalkan simpang lima Kota Tua, menyongsong fajar baru di atas Ciliwung dengan tekad dan harapan yang tak tergoyahkan.

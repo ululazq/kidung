@@ -1,20 +1,26 @@
 ---
-title: "Bab 9: Utusan dari Sembilan Kerayangan"
-chapter: 9
+title: "Bab 65: Pedang Dan Resonansi"
+chapter: 65
 ---
 
-Hujan deras mengguyur kawasan Kota Tua Jakarta ketika malam beranjak semakin larut. Di dalam kompleks bangunan kuno yang dipenuhi aroma kayu jati tua dan kertas menguning, Arya Pratama mengusap peluh di dahinya. Langkah kakinya berdetak pelan di atas ubin marmer tua yang dingin. Sebagai seorang arsiparis muda di Museum Nasional Jakarta, Arya terbiasa dengan keheningan malam dan deretan artefak yang membisu. Namun malam ini, atmosfer terasa begitu menekan, seolah ada sepasang mata tak kasat mata yang mengawasi setiap gerakannya dari kegelapan lorong preservasi.
+Hujan deras mengguyur kawasan Kota Tua Jakarta, menyertai puncak pertempuran sengit di atas udara Pelabuhan Sunda Kelapa. Arya yang kini berselimutkan aura cahaya keseimbangan jiwa melayang anggun di udara, menggenggam Keris Kyai Sengkelat yang telah bertransformasi menjadi Pedang Resonansi Suci.
 
-Di hadapannya terbaring artefak misterius yang baru saja dipindahkan dari ruang penyimpanan bawah tanah: Gamelan Resonansi Tununggu. Permukaan perunggunya yang berwarna hijau kehitaman dipenuhi ukiran ukiran aksara Jawa kuno yang rumit. Saat Arya mendekatkan jemarinya untuk membersihkan debu tipis di permukaannya, getaran halus menjalar melalui udara. Suara dentang lembut perunggu bergema pelan tanpa ada pemukul yang menyentuhnya, memancarkan aura cahaya hijau zamrud yang menyelimuti telapak tangannya.
+Ki Demang Brata yang telah terluka parah akibat sabetan presisi Arya meraung kesakitan. Tubuh raksasa bersisik hitamnya mulai retak, memancarkan garis-garis sinar keemasan dari dalam luka-lukanya. Namun, sang pengkhianat Mataram itu menolak untuk menyerah begitu saja. Dengan sisa-sisa energi hitamnya, Ki Demang memanggil pusaka kuno terakhir yang ia sembunyikan di dalam jantungnya: Pedang Bayang Segara.
 
-"Apakah kau merasakannya juga, Arya?" suara tegas bernada khawatir memecah keheningan. Sita, seorang peneliti senior dari Garda Bayang Nusantara yang mengenakan jaket kulit hitam, melangkah keluar dari balik pilar batu. Matanya menatap penuh waspada pada piringan perunggu yang kini bergetar semakin kuat. "Artefak ini tidak sekadar objek bersejarah. Ini adalah kunci pemicu benang takdir Batavia. Sembilan Kerayangan telah mencium keberadaannya dan mereka tidak akan berhenti sampai menemukan wadah utamanya."
+Sebuah pedang legam panjang berukirkan simbol-simbol kematian muncul di genggaman Ki Demang. Ketika kedua pedang pusaka itu berada di dalam satu arena, fenomena langka yang sangat berbahaya terjadi: Resonansi Pusaka Tingkat Tinggi.
 
-Arya menelan ludah, mengencangkan pegangannya pada Artefak Resonansi saat kilatan ingatan asing berkelebat tiba-tiba di dalam benaknya. Gambar-gambar tentang benteng kompeni abad ke-17, kapal-kapal kayu yang terbakar di Teluk Jakarta, dan ritual darah di bawah lorong air Kota Tua berputar cepat menghantam kesadarannya. Rasa dingin membakar menjalari pembuluh darah di lengannya, meninggalkan pola naga hijau berpendar di bawah kulitnya.
+Udara di sekitar pelabuhan bergetar begitu hebat hingga menciptakan gelombang getaran ghaib yang sanggup memecahkan seluruh kaca bangunan di radius lima kilometer. Dinding-dinding benteng tua roboh seketika, dan air laut naik membentuk dinding gelombang raksasa di sekeliling mereka.
 
-"Sita, apa yang sebenarnya terjadi pada tubuhku?" tanya Arya dengan suara tercekat, napasnya tersengal akibat dorongan energi yang kian meluap.
+"Kau melihat ini, Arya?!" teriak Ki Demang dengan suara parau yang menyedihkan. "Dua pedang legendaris ini saling menolak dan saling menarik! Resonansi ini akan menghancurkan seluruh Batavia menjadi abu jika kita tidak menghentikannya!"
 
-"Kau adalah Vessel—Wadah Utama yang ditakdirkan untuk menampung atau menghentikan kebangkitan kekuatan Penguasa Laut Selatan," jawab Sita dengan nada berat, sorot matanya memperlihatkan simpati sekaligus ketegangan yang mendalam. "Raden Mas Surowijo membutuhkan darah dan jiwamu untuk menyempurnakan ritual Gerhana Segara. Jika dia berhasil, seluruh kota Jakarta akan ditarik masuk ke dalam realm kegelapan abad pertengahan."
+"Resonansi ini terjadi karena pedangmu terbuat dari kebencian!" balas Arya seraya mensejajarkan Pedang Resonansi Suci di hadapan dadanya. "Pedangku tidak diciptakan untuk menghancurkan, melainkan untuk menyelaraskan kembali energi alam yang telah kau rusak!"
 
-Tiba-tiba, kaca jendela di sepanjang lorong pecah berkeping-keping dihantam gelombang udara dingin yang membekukan. Bayangan-bayangan hitam jangkung bersenjata pedang kompeni merayap keluar dari sudut-sudut dinding, mata merah mereka menyala penuh kebencian. Bau busuk air raksa dan lumpur Kali Ciliwung menguar memenuhi ruangan. Arya mengepalkan tangannya, membiarkan energi gamelan mengalir penuh ke dalam tubuhnya, siap menghadapi ancaman yang kian nyata di depan mata.
+Arya memejamkan mata, memfokuskan frekuensi jiwanya agar menyatu sempurna dengan Keris Kyai Sengkelat. Ia mulai melantunkan bait-bait Kidung Wahyu Kolosebo—sebuah tembang suci penyelarashati yang diciptakan oleh para wali di tanah Jawa.
 
-Apakah Arya mampu menguasai kekuatan resonansi gaib ini sebelum Sembilan Kerayangan merenggut jiwanya sepenuhnya?
+Suara lantunan lagu suci Arya mengalun merdu menembus deru gemuruh angin dan petir. Pendaran cahaya perak dari Pedang Resonansi Suci mulai memancar dalam gelombang frekuensi yang sangat halus. Gelombang itu merambat menembus udara, menyentuh Pedang Bayang Segara di genggaman Ki Demang.
+
+Seketika itu juga, aura hitam pekat pada Pedang Bayang Segara mulai bergetar tidak stabil. Kebencian dan kutukan iblis yang tersimpan di dalam senjata gelap tersebut terurai perlahan-lahan saat terkena resonansi tembang suci Arya.
+
+"Tidak! Senjataku! Kekuatanku!" jerit Ki Demang histeris saat menyaksikan pedang kegelapannya mulai melumer menjadi cairan hitam yang tidak berbahaya.
+
+Tanpa membuang kesempatan emas tersebut, Arya meluncur deras bagai sinar meteor. Ia menancapkan Pedang Resonansi Suci tepat di tengah dada Ki Demang Brata, menyalurkan seluruh energi penyelarasan jiwa ke dalam tubuh sang musuh. Ledakan cahaya putih raksasa membumbung tinggi ke angkasa, memusnahkan seluruh energi kegelapan dan mengakhiri resonansi berbahaya yang mengancam Batavia.

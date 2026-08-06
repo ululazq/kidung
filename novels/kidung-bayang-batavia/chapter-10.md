@@ -1,20 +1,28 @@
 ---
-title: "Bab 10: Kebenaran tentang Wadah"
-chapter: 10
+title: "Bab 66: Hancurnya Sembilan Kerayangan"
+chapter: 66
 ---
 
-Hujan deras mengguyur kawasan Kota Tua Jakarta ketika malam beranjak semakin larut. Di dalam kompleks bangunan kuno yang dipenuhi aroma kayu jati tua dan kertas menguning, Arya Pratama mengusap peluh di dahinya. Langkah kakinya berdetak pelan di atas ubin marmer tua yang dingin. Sebagai seorang arsiparis muda di Museum Nasional Jakarta, Arya terbiasa dengan keheningan malam dan deretan artefak yang membisu. Namun malam ini, atmosfer terasa begitu menekan, seolah ada sepasang mata tak kasat mata yang mengawasi setiap gerakannya dari kegelapan lorong preservasi.
+Hujan deras mengguyur kawasan Kota Tua Jakarta saat ledakan cahaya dari Pedang Resonansi Suci memusnahkan wujud iblis Ki Demang Brata. Namun, kehancuran sang senopati pengkhianat memicu reaksi berantai yang sangat mengerikan pada benteng pertahanan ghaib musuh: hancurnya Sembilan Kerayangan.
 
-Di hadapannya terbaring artefak misterius yang baru saja dipindahkan dari ruang penyimpanan bawah tanah: Gamelan Resonansi Tununggu. Permukaan perunggunya yang berwarna hijau kehitaman dipenuhi ukiran ukiran aksara Jawa kuno yang rumit. Saat Arya mendekatkan jemarinya untuk membersihkan debu tipis di permukaannya, getaran halus menjalar melalui udara. Suara dentang lembut perunggu bergema pelan tanpa ada pemukul yang menyentuhnya, memancarkan aura cahaya hijau zamrud yang menyelimuti telapak tangannya.
+Sembilan Kerayangan adalah sembilan pilar punden berundak gaib yang ditanam oleh Ki Demang di sembilan sudut strategis kota Batavia untuk mengunci aliran energi bumi dan menyerap jiwa penduduk kota. Dengan tewasnya pimpinan mereka, sembilan punden tersebut mulai meledak satu per satu secara beruntun.
 
-"Apakah kau merasakannya juga, Arya?" suara tegas bernada khawatir memecah keheningan. Sita, seorang peneliti senior dari Garda Bayang Nusantara yang mengenakan jaket kulit hitam, melangkah keluar dari balik pilar batu. Matanya menatap penuh waspada pada piringan perunggu yang kini bergetar semakin kuat. "Artefak ini tidak sekadar objek bersejarah. Ini adalah kunci pemicu benang takdir Batavia. Sembilan Kerayangan telah mencium keberadaannya dan mereka tidak akan berhenti sampai menemukan wadah utamanya."
+Dari tanah di sekitar Pelabuhan Sunda Kelapa hingga ke ujung Pasar Baru, guncangan gempa bumi gaib terjadi secara hebat. Retakan-retakan tanah menyalakan api merah ghaib yang membumbung tinggi ke angkasa, meruntuhkan struktur punden raksasa yang berada di dalam dimensi gaib.
 
-Arya menelan ludah, mengencangkan pegangannya pada Artefak Resonansi saat kilatan ingatan asing berkelebat tiba-tiba di dalam benaknya. Gambar-gambar tentang benteng kompeni abad ke-17, kapal-kapal kayu yang terbakar di Teluk Jakarta, dan ritual darah di bawah lorong air Kota Tua berputar cepat menghantam kesadarannya. Rasa dingin membakar menjalari pembuluh darah di lengannya, meninggalkan pola naga hijau berpendar di bawah kulitnya.
+Arya mendarat di tanah dengan napas terengah-engah. Di sampingnya, Nyi Sembrani menyaksikan hancurnya punden-punden tersebut dengan raut wajah yang penuh ketakutan.
 
-"Sita, apa yang sebenarnya terjadi pada tubuhku?" tanya Arya dengan suara tercekat, napasnya tersengal akibat dorongan energi yang kian meluap.
+"Arya! Hancurnya Sembilan Kerayangan melepaskan seluruh energi bumi yang terendam selama ratusan tahun!" seru Nyi Sembrani seraya berusaha menjaga keseimbangannya di atas tanah yang terus bergetar. "Jika aliran energi bumi ini tidak segera diarahkan kembali ke muara laut, seluruh tanah Batavia akan ambles ke dalam perut bumi!"
 
-"Kau adalah Vessel—Wadah Utama yang ditakdirkan untuk menampung atau menghentikan kebangkitan kekuatan Penguasa Laut Selatan," jawab Sita dengan nada berat, sorot matanya memperlihatkan simpati sekaligus ketegangan yang mendalam. "Raden Mas Surowijo membutuhkan darah dan jiwamu untuk menyempurnakan ritual Gerhana Segara. Jika dia berhasil, seluruh kota Jakarta akan ditarik masuk ke dalam realm kegelapan abad pertengahan."
+Arya melihat ke arah sembilan pilar cahaya merah yang meledak bergantian di kejauhan. Setiap kali satu punden hancur, gelombang energi mentah dalam jumlah luar biasa liar menyembur keluar, mengancam merusak jalinan ruang dan waktu kota.
 
-Tiba-tiba, kaca jendela di sepanjang lorong pecah berkeping-keping dihantam gelombang udara dingin yang membekukan. Bayangan-bayangan hitam jangkung bersenjata pedang kompeni merayap keluar dari sudut-sudut dinding, mata merah mereka menyala penuh kebencian. Bau busuk air raksa dan lumpur Kali Ciliwung menguar memenuhi ruangan. Arya mengepalkan tangannya, membiarkan energi gamelan mengalir penuh ke dalam tubuhnya, siap menghadapi ancaman yang kian nyata di depan mata.
+"Bagaimana cara mengarahkannya, Nyi?" tanya Arya panik.
 
-Apakah Arya mampu menguasai kekuatan resonansi gaib ini sebelum Sembilan Kerayangan merenggut jiwanya sepenuhnya?
+"Kau harus menggunakan Keris Kyai Sengkelat sebagai penangkal petir energi!" jawab Nyi Sembrani tegas. "Kau harus berlari menuju pusat simpang lima Kota Tua dan menancapkan keris itu di titik pancer bumi sebelum punden kesembilan hancur!"
+
+Tanpa membuang waktu satu detik pun, Arya mengumpulkan sisa-sisa tenaga di dalam tubuhnya. Ia berlari secepat kilat menembus jalanan Kota Tua yang mulai terbelah oleh retakan-retakan api gaib. Di sekelilingnya, bayangan-bayangan punden raksasa runtuh satu per satu, menjatuhkan bebatuan energi mistis yang membakar bangunan di sekitarnya.
+
+Punden pertama, kedua, hingga kedelapan meledak dengan guncangan yang semakin dahsyat. Udara terasa panas bagai di dalam tungku leburan emas.
+
+Arya berhasil mencapai titik pusat simpang lima Kota Tua tepat saat punden kesembilan—punden utama yang berada di bawah gedung museum—mulai retak dan siap meledak dengan daya hancur yang sanggup meratakan setengah kota.
+
+Dengan raungan penuh tekad, Arya melompat ke tengah jalan dan menancapkan Keris Kyai Sengkelat dalam-dalam ke dalam retakan tanah pancer bumi. Ia menyalurkan seluruh jiwanya untuk menjadi jembatan pengalih energi. Gelombang energi mentah dari sembilan punden yang hancur tersedot masuk ke dalam Keris Kyai Sengkelat dan dialirkan secara aman menuju dasar laut lepas, menyelamatkan tanah Batavia dari ancaman kehancuran total.
