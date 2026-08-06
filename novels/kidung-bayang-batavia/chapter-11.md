@@ -1,9 +1,9 @@
 ---
-title: "Bab 67: Pengorbanan Sang Arsiparis"
-chapter: 67
+title: "Bab 11: Pengorbanan Sang Arsiparis"
+chapter: 11
 ---
 
-Hujan deras mengguyur kawasan Kota Tua Jakarta ketika gejolak energi dari hancurnya Sembilan Kerayangan berhasil diredam oleh Arya. Namun, saluran energi bumi yang dialirkan melalui Keris Kyai Sengkelat ternyata terlalu besar untuk ditampung oleh satu pancer bumi saja. Retakan tanah di pusat simpang lima mulai melebar kembali, mengancam akan meledakkan keris pusaka dan membunuh Arya yang masih memegang hulunya.
+Gejolak energi dari hancurnya Sembilan Kerayangan berhasil diredam oleh Arya. Namun, saluran energi bumi yang dialirkan melalui Keris Kyai Sengkelat ternyata terlalu besar untuk ditampung oleh satu pancer bumi saja. Retakan tanah di pusat simpang lima mulai melebar kembali, mengancam akan meledakkan keris pusaka dan membunuh Arya yang masih memegang hulunya.
 
 Di saat-saat paling kritis tersebut, dari dalam kegelapan gedung Museum Fatahillah, muncul sosok pria tua berjanggut putih yang mengenakan jubah arsiparis kuno. Dialah Pak Raden Suprapto, sang penjaga arsip keramat Batavia yang selama puluhan tahun menyembunyikan identitas aslinya sebagai salah satu anggota tersisa dari Dewan Tujuh Pusaka.
 

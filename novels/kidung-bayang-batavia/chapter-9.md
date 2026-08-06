@@ -1,9 +1,9 @@
 ---
-title: "Bab 65: Pedang Dan Resonansi"
-chapter: 65
+title: "Bab 9: Pedang Dan Resonansi"
+chapter: 9
 ---
 
-Hujan deras mengguyur kawasan Kota Tua Jakarta, menyertai puncak pertempuran sengit di atas udara Pelabuhan Sunda Kelapa. Arya yang kini berselimutkan aura cahaya keseimbangan jiwa melayang anggun di udara, menggenggam Keris Kyai Sengkelat yang telah bertransformasi menjadi Pedang Resonansi Suci.
+Di atas udara Pelabuhan Sunda Kelapa, hujan tidak lagi jatuh lurus — ia berputar, terseret pusaran energi dua pusaka yang saling menolak. Arya yang kini berselimutkan aura cahaya keseimbangan jiwa melayang anggun di udara, menggenggam Keris Kyai Sengkelat yang telah bertransformasi menjadi Pedang Resonansi Suci.
 
 Ki Demang Brata yang telah terluka parah akibat sabetan presisi Arya meraung kesakitan. Tubuh raksasa bersisik hitamnya mulai retak, memancarkan garis-garis sinar keemasan dari dalam luka-lukanya. Namun, sang pengkhianat Mataram itu menolak untuk menyerah begitu saja. Dengan sisa-sisa energi hitamnya, Ki Demang memanggil pusaka kuno terakhir yang ia sembunyikan di dalam jantungnya: Pedang Bayang Segara.
 

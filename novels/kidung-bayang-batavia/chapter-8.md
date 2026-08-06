@@ -1,9 +1,9 @@
 ---
-title: "Bab 64: Pertempuran Akhir Dua Wadah"
-chapter: 64
+title: "Bab 8: Pertempuran Akhir Dua Wadah"
+chapter: 8
 ---
 
-Hujan deras mengguyur kawasan Kota Tua Jakarta saat Arya tergeletak lemah di atas tanah pelabuhan yang dingin. Darah segar mengalir dari mulutnya, membasahi bilah Keris Kyai Sengkelat yang kini kehilangan pendar keemasannya. Ki Demang Brata melangkah mendekat dengan senyum kemenangan yang mengerikan. Suara derap langkahnya bagai dentang bel kematian bagi sang pemuda pewaris pusaka.
+Arya tergeletak lemah di atas tanah pelabuhan yang dingin, pipinya menempel di genangan air hujan bercampur darahnya sendiri. Darah segar mengalir dari mulutnya, membasahi bilah Keris Kyai Sengkelat yang kini kehilangan pendar keemasannya. Ki Demang Brata melangkah mendekat dengan senyum kemenangan yang mengerikan. Suara derap langkahnya bagai dentang bel kematian bagi sang pemuda pewaris pusaka.
 
 "Kini kau paham, Arya," ucap Ki Demang dengan suara berat bertingkat. "Kau dan aku hanyalah dua wadah yang diciptakan oleh takdir untuk menampung kekuatan besar. Bedanya, aku menerima kegelapan dengan tangan terbuka, sementara kau berpura-pura menjadi pahlawan dengan kebaikan palsumu!"
 

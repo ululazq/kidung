@@ -1,9 +1,9 @@
 ---
-title: "Bab 66: Hancurnya Sembilan Kerayangan"
-chapter: 66
+title: "Bab 10: Hancurnya Sembilan Kerayangan"
+chapter: 10
 ---
 
-Hujan deras mengguyur kawasan Kota Tua Jakarta saat ledakan cahaya dari Pedang Resonansi Suci memusnahkan wujud iblis Ki Demang Brata. Namun, kehancuran sang senopati pengkhianat memicu reaksi berantai yang sangat mengerikan pada benteng pertahanan ghaib musuh: hancurnya Sembilan Kerayangan.
+Ledakan cahaya dari Pedang Resonansi Suci memusnahkan wujud iblis Ki Demang Brata. Namun, kehancuran sang senopati pengkhianat memicu reaksi berantai yang sangat mengerikan pada benteng pertahanan ghaib musuh: hancurnya Sembilan Kerayangan.
 
 Sembilan Kerayangan adalah sembilan pilar punden berundak gaib yang ditanam oleh Ki Demang di sembilan sudut strategis kota Batavia untuk mengunci aliran energi bumi dan menyerap jiwa penduduk kota. Dengan tewasnya pimpinan mereka, sembilan punden tersebut mulai meledak satu per satu secara beruntun.
 

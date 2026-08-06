@@ -1,9 +1,9 @@
 ---
-title: "Bab 70: Kidung Abadi Batavia"
-chapter: 70
+title: "Bab 14: Kidung Abadi Batavia"
+chapter: 14
 ---
 
-Hujan deras mengguyur kawasan Kota Tua Jakarta saat malam puncak peringatan kelahiran kota tersebut tiba. Suara dentang lonceng Museum Fatahillah beradu merdu dengan gemericik air hujan yang membasahi pelataran batu tua. Di tengah suasana hangat perayaan rakyat yang diwarnai oleh tarian Ondel-Ondel dan alunan musik Gambang Kromong, Arya berdiri diam di atas atap tertinggi benteng kuno.
+Malam puncak peringatan kelahiran Kota Tua Jakarta akhirnya tiba. Suara dentang lonceng Museum Fatahillah beradu merdu dengan gemericik air hujan yang membasahi pelataran batu tua. Di tengah suasana hangat perayaan rakyat yang diwarnai oleh tarian Ondel-Ondel dan alunan musik Gambang Kromong, Arya berdiri diam di atas atap tertinggi benteng kuno.
 
 Dari tempat ketinggian ini, Arya menatap seluruh panorama Batavia yang bercahaya indah di malam hari. Di pinggangnya terikat rapi Keris Kyai Sengkelat yang kini tertidur tenang, menjaga aliran energi ghaib bumi tetap stabil dan harmonis. Di sampingnya, Nyi Sembrani melipat kedua tangannya di dalam selendang, menikmati hembusan angin malam yang membawa aroma harum bunga melati ghaib.
 

@@ -1,7 +1,14 @@
 ---
-title: "Bab 1: Midnight Delivery"
-chapter: 1
+title: "Draft: materi ending"
+draft: true
 ---
+
+> **Bukan bab.** File ini sengaja dinamai di luar pola `chapter-N.md` supaya situs
+> tidak merendernya. Isinya adalah satu-satunya teks asli yang pernah ada di novel
+> ini — dulu disalin identik menjadi `chapter-1.md` sampai `chapter-15.md`, dan
+> teksnya memuat **resolusi cerita**, bukan pembukaan. Simpan sebagai bahan mentah
+> untuk bab akhir saat novel ini ditulis ulang dari bab 1. Judul aslinya
+> "Bab 1: Midnight Delivery" tidak cocok dengan isinya dan sudah dibuang.
 
 # Bab 1: Midnight Delivery
 

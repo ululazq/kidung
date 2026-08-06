@@ -1,9 +1,9 @@
 ---
-title: "Bab 63: Jeritan Di Pelabuhan Tua"
-chapter: 63
+title: "Bab 7: Jeritan Di Pelabuhan Tua"
+chapter: 7
 ---
 
-Hujan deras mengguyur kawasan Kota Tua Jakarta ketika perahu naga perak yang ditumpangi Arya dan Nyi Sembrani melesat menembus lorong dimensi Gerhana Segara. Namun, bukannya mendarat di dasar samudera gaib, sebuah pusaran angin kencang justru melempar mereka kembali dan menghempaskan perahu mereka hingga hancur berkeping-keping di dermaga kayu Pelabuhan Tua Sunda Kelapa.
+Perahu Naga Perak yang ditumpangi Arya dan Nyi Sembrani melesat menembus lorong dimensi Gerhana Segara. Namun, bukannya mendarat di dasar samudera gaib, sebuah pusaran angin kencang justru melempar mereka kembali dan menghempaskan perahu mereka hingga hancur berkeping-keping di dermaga kayu Pelabuhan Tua Sunda Kelapa.
 
 Arya bangkit bersusah payah dari reruntuhan kayu. Suasana pelabuhan kini telah berubah menjadi pemandangan neraka dunia. Langit malam berwarna merah pekat, dan udara dipenuhi oleh jeritan histeris yang memilukan hati. Jeritan itu bukan berasal dari manusia biasa, melainkan dari ribuan arwah penasaran yang terhisap keluar dari dalam celah-celah tanah pelabuhan akibat gravitasi gaib Gerhana Segara.
 

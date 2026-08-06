@@ -6,9 +6,8 @@ genre: "Action Fantasy / Contemporary Urban"
 tone: "Fast-paced, high-voltage, martial, gritty urban combat"
 protagonist: "Bagas, kurir pengantar paket kilat malam hari & mantan atlet wushu/parkour"
 description: "Bagas menemukan Astra Besi—sarung lengan besi kuno yang membelah peluru dan memancarkan petir karma, namun mengikis jaringan fisiknya setiap kali digunakan. Ketika Faksi JagadBumi mengejarnya, Bagas harus bertarung melintasi Jakarta malam untuk bertahan hidup."
-status: "Complete"
+status: "Planned"
 started: "2026-08-03"
-completed: "2026-08-03"
 target: "15 chapters"
 language: "Indonesian"
 ---
@@ -16,6 +15,24 @@ language: "Indonesian"
 # The Iron Karma
 
 **Lengan besi kuno, kecepatan parkour malam hari, dan harga karma yang membakar tubuh.**
+
+> ## Kondisi naskah: belum ada satu bab pun
+>
+> Folder ini dulu berisi 15 file bab. Setelah diperiksa, **ke-15 file itu adalah satu
+> teks yang sama** — identik kata per kata, hanya berbeda di baris judul dan satu
+> baris penanda `[PENGIRIMAN DARURAT: KODE D3 - BAB N]`. Sisa generasi massal.
+>
+> Lebih jauh lagi, teks itu bukan bab pembuka melainkan **materi ending**: di dalamnya
+> Pak Seno sudah gugur, aset Faksi JagadBumi sudah dibekukan pemerintah, dan Bagas
+> sudah menguasai harmoni Astra Besi. Jadi `chapter-1.md` sampai `chapter-15.md`
+> semuanya epilog.
+>
+> Ke-14 salinan sudah dihapus. Satu-satunya teks asli dipertahankan sebagai
+> [`draft-ending.md`](./draft-ending.md) — sengaja di luar pola `chapter-N.md` supaya
+> situs tidak merendernya. Pakai sebagai bahan mentah untuk bab akhir.
+>
+> **Yang di bawah ini adalah rencana, bukan laporan.** Semua tautan bab belum ada
+> filenya. Novel ini perlu ditulis dari bab 1.
 
 ## Sinopsis
 
@@ -70,22 +87,22 @@ Di tengah kejaran **Faksi JagadBumi**—organisasi tentara bayaran elit yang did
 
 ## Chapters
 
-1. [Midnight Delivery](./chapter-1.md) — Bagas menerima paket peti besi misterius di tengah hujan deras Kota Tua.
-2. [The Iron Clad](./chapter-2.md) — Serangan Faksi JagadBumi; Astra Besi aktif dan menyatu dengan lengan Bagas.
-3. [The Price of Lightning](./chapter-3.md) — Pukulan pertama yang menghancurkan musuh, diikuti rasa sakit penuaan saraf pertama.
-4. [Safehouse on the Tracks](./chapter-4.md) — Pelarian ke bengkel Pak Seno & penjelasan asal-usul Astra Besi.
-5. [Ambush at Stasiun 13](./chapter-5.md) — Pertempuran sengit melawan squad exoskeleton JagadBumi di stasiun terbengkalai.
-6. [Unlikely Ally](./chapter-6.md) — Pertemuan dengan Laras; pertukaran data intelijen tentang Lupa Corp & JagadBumi.
-7. [The Karma Spark](./chapter-7.md) — Latihan mengendalikan ritme pernapasan wushu untuk memperlambat kerusakan saraf.
-8. [Infiltration at Port Area](./chapter-8.md) — Menyusup ke gudang kontainer JagadBumi untuk merebut komponen penawar karma.
-9. [Midpoint Reversal: The True Vessel](./chapter-9.md) — Terungkap bahwa Astra Besi dirancang untuk menyerap jiwa penunggangnya; Komandan Taufan adalah mantan vessel yang gagal.
-10. [Broken Alloy](./chapter-10.md) — Lengan kanan Bagas lumpuh sementara akibat *cost escalation*; pelarian paling krisis.
-11. [The Forge's Secret](./chapter-11.md) — Pak Seno merakit penyeimbang elektro-mekanis untuk membantu lengan Bagas menahan kejutan petir.
-12. [Siege on the Citadel](./chapter-12.md) — Penyerangan JagadBumi ke bengkel; pengorbanan Pak Seno demi Bagas & Laras.
-13. [Rally in the Rain](./chapter-13.md) — Bagas menerima takdirnya sebagai penempa karma sejati; persiapan pertempuran akhir.
-14. [Clash of Steel & Thunder](./chapter-14.md) — Pertarungan puncak melawan Komandan Taufan di atap menara JagadBumi.
-15. [The Unbroken Spark](./chapter-15.md) — Resolusi konflik; Bagas menguasai harmoni Astra Besi & siap menjaga malam Jakarta.
+1. **Midnight Delivery** — Bagas menerima paket peti besi misterius di tengah hujan deras Kota Tua.
+2. **The Iron Clad** — Serangan Faksi JagadBumi; Astra Besi aktif dan menyatu dengan lengan Bagas.
+3. **The Price of Lightning** — Pukulan pertama yang menghancurkan musuh, diikuti rasa sakit penuaan saraf pertama.
+4. **Safehouse on the Tracks** — Pelarian ke bengkel Pak Seno & penjelasan asal-usul Astra Besi.
+5. **Ambush at Stasiun 13** — Pertempuran sengit melawan squad exoskeleton JagadBumi di stasiun terbengkalai.
+6. **Unlikely Ally** — Pertemuan dengan Laras; pertukaran data intelijen tentang Lupa Corp & JagadBumi.
+7. **The Karma Spark** — Latihan mengendalikan ritme pernapasan wushu untuk memperlambat kerusakan saraf.
+8. **Infiltration at Port Area** — Menyusup ke gudang kontainer JagadBumi untuk merebut komponen penawar karma.
+9. **Midpoint Reversal: The True Vessel** — Terungkap bahwa Astra Besi dirancang untuk menyerap jiwa penunggangnya; Komandan Taufan adalah mantan vessel yang gagal.
+10. **Broken Alloy** — Lengan kanan Bagas lumpuh sementara akibat *cost escalation*; pelarian paling krisis.
+11. **The Forge's Secret** — Pak Seno merakit penyeimbang elektro-mekanis untuk membantu lengan Bagas menahan kejutan petir.
+12. **Siege on the Citadel** — Penyerangan JagadBumi ke bengkel; pengorbanan Pak Seno demi Bagas & Laras.
+13. **Rally in the Rain** — Bagas menerima takdirnya sebagai penempa karma sejati; persiapan pertempuran akhir.
+14. **Clash of Steel & Thunder** — Pertarungan puncak melawan Komandan Taufan di atap menara JagadBumi.
+15. **The Unbroken Spark** — Resolusi konflik; Bagas menguasai harmoni Astra Besi & siap menjaga malam Jakarta.
 
 ---
 
-**Total:** ~75,000 kata | **Status:** Complete | **Bahasa:** Indonesia (istilah pewayangan & taktis)
+**Target:** 15 bab × 1.500–2.500 kata | **Status:** Planned — belum ada bab | **Bahasa:** Indonesia (istilah pewayangan & taktis)

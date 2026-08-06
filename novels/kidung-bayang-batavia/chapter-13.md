@@ -1,9 +1,9 @@
 ---
-title: "Bab 69: Warisan Bayang-Bayang"
-chapter: 69
+title: "Bab 13: Warisan Bayang-Bayang"
+chapter: 13
 ---
 
-Hujan deras mengguyur kawasan Kota Tua Jakarta beberapa minggu setelah peristiwa Gerhana Segara berlalu. Kehidupan di ibu kota telah kembali normal seperti sediakala. Keramaian lalu lintas, pedagang kaki lima, dan lalu lalang wisatawan mengisi sudut-sudut jalanan bersejarah yang kini tampak damai di bawah naungan awan sore.
+Beberapa minggu berlalu sejak peristiwa Gerhana Segara. Kehidupan di ibu kota telah kembali normal seperti sediakala. Keramaian lalu lintas, pedagang kaki lima, dan lalu lalang wisatawan mengisi sudut-sudut jalanan bersejarah yang kini tampak damai di bawah naungan awan sore.
 
 Namun, di dalam sebuah kedai kopi tua yang terletak di lorong tersembunyi dekat dermaga, Arya duduk sendirian di sudut ruangan. Di hadapannya terhidang secangkir kopi hitam panas dan sebuah pundi-pundi kain berisi pusaka-pusaka peninggalan Pak Raden Suprapto dan Kyai Ageng Wiraguna.
 

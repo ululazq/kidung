@@ -1,9 +1,9 @@
 ---
-title: "Bab 59: Pasukan Jiwa Kelam"
-chapter: 59
+title: "Bab 3: Pasukan Jiwa Kelam"
+chapter: 3
 ---
 
-Hujan deras mengguyur kawasan Kota Tua Jakarta, membasahi benteng-benteng tua sisa peninggalan zaman kolonial. Kabut tebal yang membawa aroma belerang dan amis darah membumbung tinggi dari arah Sunda Kelapa. Malam itu, ketenangan Batavia terganggu oleh suara derap langkah ribuan prajurit tanpa wujud yang bergerak serentak menembus kegelapan malam.
+Kabut tebal beraroma belerang dan amis darah membumbung dari arah Sunda Kelapa, menelan benteng-benteng tua peninggalan kolonial satu per satu. Malam itu, ketenangan Batavia terganggu oleh suara derap langkah ribuan prajurit tanpa wujud yang bergerak serentak menembus kegelapan malam.
 
 Dari puncak menara pengawas Pelabuhan Tua, Arya dan Nyi Sembrani menyaksikan pemandangan yang mengerikan. Ratusan prajurit jiwa kelam—korban pertempuran laut abad ke-17 yang terikat oleh mantra hitam Ki Demang Brata—bangkit dari dasar samudera. Tubuh mereka berupa benang-benang hitam kebal peluru dengan mata menyala hijau fosfor, menggenggam tombak dan senapan tua yang telah berkarat.
 

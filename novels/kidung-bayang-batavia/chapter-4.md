@@ -1,9 +1,9 @@
 ---
-title: "Bab 60: Hujan Asam Di Sunda Kelapa"
-chapter: 60
+title: "Bab 4: Hujan Asam Di Sunda Kelapa"
+chapter: 4
 ---
 
-Hujan deras mengguyur kawasan Kota Tua Jakarta, namun hujan yang turun di sekitar Sunda Kelapa malam itu sangat tidak biasa. Tetesan airnya berwarna kehitaman dan mengeluarkan aroma menyengat yang membakar kulit. Hujan asam ghaib yang dipanggil oleh mantra jahat Ki Demang Brata mulai mengikis kayu-kayu kapal tua dan meruntuhkan atap-atap bangunan bersejarah di sepanjang pelabuhan.
+Hujan yang turun di Sunda Kelapa malam itu tidak seperti hujan mana pun yang pernah dilihat Arya. Tetesan airnya berwarna kehitaman dan mengeluarkan aroma menyengat yang membakar kulit. Hujan asam ghaib yang dipanggil oleh mantra jahat Ki Demang Brata mulai mengikis kayu-kayu kapal tua dan meruntuhkan atap-atap bangunan bersejarah di sepanjang pelabuhan.
 
 Arya mengusap darah yang mengalir dari pelipisnya. Pertempuran melawan Panglima Jiwa Kelam telah menguras separuh energinya, dan kini ia harus menghadapi ancaman lingkungan gaib yang diciptakan musuhnya. Di sekelilingnya, tanah batu mulai melepuh dan mengeluarkan kabut beracun yang sangat berbahaya jika terhirup oleh manusia biasa.
 

@@ -1,9 +1,9 @@
 ---
-title: "Bab 61: Pemutihan Ingatan"
-chapter: 61
+title: "Bab 5: Pemutihan Ingatan"
+chapter: 5
 ---
 
-Hujan deras mengguyur kawasan Kota Tua Jakarta, menyisakan kesunyian yang mencekam setelah ledakan energi mistis di dasar laut Sunda Kelapa berhasil dihentikan. Arya merayap naik ke dermaga kayu dengan tubuh yang sangat lemah dan bersimbah air laut. Di sampingnya, Nyi Sembrani berlutut, dengan cepat menyalurkan energi penyembuhan alami melalui telapak tangannya untuk memulihkan luka-luka bakar di kulit Arya.
+Setelah ledakan energi di dasar laut Sunda Kelapa berhenti, yang tersisa hanya suara hujan menghantam papan dermaga — dan kesunyian di bawahnya yang jauh lebih mencekam. Arya merayap naik ke dermaga kayu dengan tubuh yang sangat lemah dan bersimbah air laut. Di sampingnya, Nyi Sembrani berlutut, dengan cepat menyalurkan energi penyembuhan alami melalui telapak tangannya untuk memulihkan luka-luka bakar di kulit Arya.
 
 Namun, ancaman belum sepenuhnya usai. Ledakan cahaya keemasan dari Keris Kyai Sengkelat sebelumnya telah disaksikan oleh belasan warga lokal dan penjaga malam pelabuhan yang bersembunyi di balik bangunan tua. Mereka keluar dengan wajah pucat pasi dan mata terbelalak, menyaksikan fenomena gaib yang tidak mampu dicerna oleh akal sehat manusia modern.
 

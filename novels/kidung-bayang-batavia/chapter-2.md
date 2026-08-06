@@ -1,9 +1,9 @@
 ---
-title: "Bab 58: Bayangan Dalam Cermin"
-chapter: 58
+title: "Bab 2: Bayangan Dalam Cermin"
+chapter: 2
 ---
 
-Hujan deras mengguyur kawasan Kota Tua Jakarta, menyisakan hawa dingin yang merasuk hingga ke tulang. Di dalam ruang arsip kuno Museum Fatahillah, Arya berdiri terpaku di hadapan sebuah cermin tinggi berbingkai jati ukir yang telah berusia ratusan tahun. Cahaya rembulan yang menerobos dari sela-sela jendela kayu tua memantulkan bayangan Arya di permukaan kaca yang berdebu. Namun, bayangan yang terpantul di sana tidak bergerak sesuai dengan gerakan tubuhnya.
+Bau kertas lapuk dan kapur barus memenuhi ruang arsip kuno Museum Fatahillah. Hawa dingin merasuk sampai ke tulang. Arya berdiri terpaku di hadapan sebuah cermin tinggi berbingkai jati ukir yang telah berusia ratusan tahun. Cahaya rembulan yang menerobos dari sela-sela jendela kayu tua memantulkan bayangan Arya di permukaan kaca yang berdebu. Namun, bayangan yang terpantul di sana tidak bergerak sesuai dengan gerakan tubuhnya.
 
 Bayangan itu tersenyum dingin. Matanya menyalakan pendar merah membara—tanda keberadaan sang iblis kuno yang selama ini bersemayam di dalam darah keturunannya.
 

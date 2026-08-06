@@ -1,15 +1,15 @@
 ---
-title: "Bab 62: Gerhana Segara Dimulai"
-chapter: 62
+title: "Bab 6: Gerhana Segara Dimulai"
+chapter: 6
 ---
 
-Hujan deras mengguyur kawasan Kota Tua Jakarta saat jam raksasa di menara Museum Fatahillah berdentang dua belas kali. Suara dentangan itu terdengar begitu berat dan bergema jauh melampaui batas kota, menandakan tibanya puncak fenomena astronomi ghaib yang sangat ditakuti: Gerhana Segara.
+Jam raksasa di menara Museum Fatahillah berdentang dua belas kali menembus tirai hujan. Suara dentangan itu terdengar begitu berat dan bergema jauh melampaui batas kota, menandakan tibanya puncak fenomena astronomi ghaib yang sangat ditakuti: Gerhana Segara.
 
 Di atas langit Batavia, bulan sabit yang tadinya memancarkan cahaya perak perlahan-lahan tertutup oleh bayangan hitam melingkar yang melingkupi permukaannya. Tepi bulan memancarkan sinar merah darah yang memantul sempurna di atas permukaan air laut pelabuhan, menciptakan garis cahaya mistis yang menghubungkan daratan dengan samudera gaib.
 
 Arya dan Nyi Sembrani kini berada di puncak bukit buatan di kawasan Ancol. Dari tempat yang tinggi ini, mereka dapat melihat dengan jelas bagaimana aura kegelapan menyelimuti seluruh garis pantai Jakarta. Gelombang ombak besar mulai bergulung tinggi, membawa hawa dingin ekstrem yang membekukan rumput dan pepohonan di sekitar mereka.
 
-"Gerhana Segara telah dimulai," pangkas Nyi Sembrani dengan raut wajah sangat serius. "Portal utama menuju Singgasana Laut Selatan telah terbuka lebar. Ki Demang Brata pasti sudah berada di dalam lorong dimensi untuk membangkitkan Sang Ratu Kegelapan."
+"Gerhana Segara telah dimulai," pangkas Nyi Sembrani dengan raut wajah sangat serius. "Portal utama menuju Singgasana Laut Selatan telah terbuka lebar. Ki Demang Brata pasti sudah berada di dalam lorong dimensi untuk membangkitkan Sang Penguasa Ombak."
 
 Arya meraba Keris Kyai Sengkelat. Senjata pusaka itu bergetar hebat di dalam sarungnya, seolah merespons gejolak energi gaib yang sangat besar dari arah laut. Pendaran cahaya emasnya meredup, terdesak oleh dominasi energi merah darah dari sang gerhana.
 

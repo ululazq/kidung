@@ -1,9 +1,9 @@
 ---
-title: "Bab 68: Fajar Di Atas Ciliwung"
-chapter: 68
+title: "Bab 12: Fajar Di Atas Ciliwung"
+chapter: 12
 ---
 
-Hujan deras mengguyur kawasan Kota Tua Jakarta perlahan-lahan mulai mereda saat awan pekat di langit sebelah timur mulai menyibak. Garis-garis cahaya perak keemasan dari fajar pertama mulai merekah di atas permukaan Sungai Ciliwung, membawa kehangatan yang mengusir malam terkelam dalam sejarah Batavia.
+Hujan yang mengguyur Kota Tua Jakarta sepanjang malam perlahan-lahan mereda saat awan pekat di langit sebelah timur mulai menyibak. Garis-garis cahaya perak keemasan dari fajar pertama mulai merekah di atas permukaan Sungai Ciliwung, membawa kehangatan yang mengusir malam terkelam dalam sejarah Batavia.
 
 Arya berlutut di tanah yang telah tenang di tengah simpang lima Kota Tua. Di hadapannya, Kitab Catatan Jagad Batavia yang telah mengkristal menjadi batu abadi tersimpan rapi di bawah tumpukan Keris Kyai Sengkelat. Pengorbanan Pak Raden Suprapto telah berhasil mengunci seluruh sisa-sisa energi ghaib musuh dan mengembalikan keseimbangan alam tanah Jawa.
 

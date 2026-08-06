@@ -1,9 +1,9 @@
 ---
-title: "Bab 57: Pintu Misteri Segara"
-chapter: 57
+title: "Bab 1: Pintu Misteri Segara"
+chapter: 1
 ---
 
-Hujan deras mengguyur kawasan Kota Tua Jakarta saat malam semakin larut. Di tengah kehampaan lorong-lorong tua yang dipenuhi aura magis, Raden Mas Arya berjalan perlahan. Langkah kakinya gontai, menahan rasa sakit luar biasa dari luka sabetan pedang pusaka yang ia terima saat bertarung melawan cikal bakal kegelapan di dalam gudang pelabuhan. Di sampingnya, Nyi Sembrani berjalan legap, matanya yang tajam bagai mata elang menyapu setiap sudut ruangan yang remang-remang.
+Air hujan merembes dari sela-sela bata Batavia dan menetes ke tengkuk Arya, satu-satu, seperti hitungan mundur. Di lorong bawah tanah ini suara kota di atas sudah hilang sama sekali. Arya berjalan perlahan. Langkah kakinya gontai, menahan rasa sakit luar biasa dari luka sabetan pedang pusaka yang ia terima saat bertarung melawan cikal bakal kegelapan di dalam gudang pelabuhan. Di sampingnya, Nyi Sembrani berjalan legap, matanya yang tajam bagai mata elang menyapu setiap sudut ruangan yang remang-remang.
 
 "Kita sudah hampir sampai, Arya," bisik Nyi Sembrani dengan suara serak namun penuh wibawa. "Pintu Misteri Segara tidak akan terbuka lama. Jika gerhana laut berlalu sebelum kita menyeberang, jiwa-jiwa yang terperangkap di Alam Kelam akan selamanya menjadi budak Sang Penguasa Ombak."
 
