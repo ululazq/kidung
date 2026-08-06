@@ -34,7 +34,7 @@ Apa yang dia capai, andaikan protagonis tidak menghalangi.
 | Bab | Yang dia capai |
 |---|---|
 | 3 | Memastikan Serat Kidung Pasang berpindah ke Sekar, bukan ikut terkubur |
-| 6 | Memastikan notasi Kidung Pamungkas masih lengkap di halaman 41 |
+| 6 | Memastikan notasi Kidung Pamungkas masih lengkap di halaman 41 — **tercapai sebagian di bab 6**: dia tahu Sekar sudah membacanya dan tahu ada halaman sesudah 41, tapi belum melihat naskahnya. Merekrut tiga korban jebolnya tanggul: 11 mulut jadi 14 |
 | 9 | Membubarkan tenda Lupa Corp — kampung harus tetap ingat supaya bisa diangkat |
 | 13 | Mengumpulkan cukup mulut: tujuh belas orang yang mau menyanyi berbarengan |
 | 17 | Mengambil Serat dari Langgar Kandas |
@@ -59,9 +59,9 @@ Satu baris per bab. Format: perubahan status → status lama jadi status baru.
 | 1 | Sekar | 2 (GCD, RDD) | Sekar menyanyi supaya neneknya mati kering → gadis yang menolak warisan jadi Juru Kidung dengan sisa sebelas | selesai |
 | 2 | Sekar | 2 (RDD, GCD) | Ayu menawar tembangnya dengan uang → warisan jadi barang yang ada harganya | selesai |
 | 3 | Sekar | 2 (GCD, GCD) | Ki Danu datang ke pemakaman menawar, bukan berbelasungkawa → orang asing jadi orang yang tahu isi Serat | selesai |
-| 4 | Sekar | 2 (GCD, RDD) | Sekar mendengar nyanyian pada tarikan napas di Segara Sepi → duka jadi curiga | |
-| 5 | Sekar | 2 (GCD, GCD) | Tanggul retak, Sekar menolak menyanyi lalu terlambat menyanyi → sebelas jadi sepuluh, dan penolakan jadi kewajiban | |
-| 6 | Sekar | 2 (GCD, RDD) | Ki Danu menunjukkan Kidung Pamungkas dan menawarkan Wulansih → mau kabur jadi memilih tinggal untuk menghalangi | |
+| 4 | Sekar | 2 (GCD, RDD) | Sekar mendengar nyanyian pada tarikan napas di Segara Sepi → duka jadi curiga | selesai |
+| 5 | Sekar | 2 (GCD, GCD) | Tanggul retak, Sekar menolak menyanyi lalu terlambat menyanyi → sebelas jadi sepuluh, dan penolakan jadi kewajiban | selesai |
+| 6 | Sekar | 2 (GCD, RDD) | Ki Danu menunjukkan Kidung Pamungkas dan menawarkan Wulansih → mau kabur jadi memilih tinggal untuk menghalangi | selesai |
 | 7 | Sekar | 2 (RDD, GCD) | Sekar membaca Serat sampai halaman 41 dan halaman tanpa notasi → pewaris jadi pewaris yang tahu warisannya bolong | |
 | 8 | Sekar | 2 (GCD, RDD) | Kidung Uwur Wengi mati di mulutnya setelah direkam → sepuluh jadi sembilan tanpa pernah dipakai | |
 | 9 | Sekar | 3 (GCD, GCD, RDD) | Orang Ki Danu membakar tenda Lupa Corp; Marno berdiri di antrean → ancaman satu arah jadi tiga arah | |
@@ -86,3 +86,4 @@ Satu baris per bab. Format: perubahan status → status lama jadi status baru.
 - Bab 5 dan 9 keduanya bertekanan tinggi; bab 7 diselipkan sebagai RDD panjang supaya tidak tiga GCD berturut.
 - Eskalasi jenis taruhan: fisik (1–6) → sosial (7–13) → moral (14–18) → identitas (19–24).
 - Hitungan kidung wajib turun secara monoton dan tercatat di bible: 12 → 11 (b1) → 10 (b5) → 9 (b8) → 8 (b10) → 7 (b17) → 1 (b22). Tidak boleh ada kidung yang muncul kembali setelah habis.
+- Yang habis sejauh ini: Randhu Sumurup (b1), Talun Garing (b5). **Kidung Iber Toya harus tetap utuh sampai bab 18** — titik terendah bergantung pada Wulansih menyanyikan kidung yang masih dipegang Sekar.
