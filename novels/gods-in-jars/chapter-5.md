@@ -3,8 +3,6 @@ title: "Forgetting Therapy"
 chapter: 5
 ---
 
-# Chapter 5: Forgetting Therapy
-
 Klinik Lupa Corp cabang Kota Tua berdiri di Jalan Casablanca — sebuah bangunan empat lantai dengan fasad kaca biru yang memantulkan langit dan pohon-pohon mahoni di sepanjang trotoar. Di atas pintunya, sebuah logo sederhana: lingkaran utuh dengan garis tipis di tengahnya, seperti tanda bagi. Di bawah logo itu, sebuah slogan yang tercetak dalam huruf-huruf tipis:
 
 *Biarkan kami mengingatmu untukmu.*

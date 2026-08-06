@@ -3,8 +3,6 @@ title: "The Silk Weaver"
 chapter: 4
 ---
 
-# Chapter 4: The Silk Weaver
-
 Gang Tukang Sutra tidak ada di peta mana pun. Mila menemukannya bukan lewat arah, tapi lewat aroma: campuran lilin lebah, kayu cendana, dan sesuatu yang basah seperti sutra yang baru dicuci. Gang itu menyempit di antara dua dinding yang saling berbisik, ditutup kain-kain tua yang berkibar tanpa angin.
 
 Di ujung gang, sebuah pintu tanpa gagang. Hanya sehelai benang perak yang melintang di ambangnya, bergetar pelan seperti senar yang menunggu dipetik.

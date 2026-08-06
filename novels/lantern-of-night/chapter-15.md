@@ -3,8 +3,6 @@ title: "The Lantern Keeper"
 chapter: 15
 ---
 
-# Chapter 15: The Lantern Keeper
-
 Enam bulan kemudian, Kota Senja tidak berubah.
 
 Hujan masih turun di malam hari. Lampu neon masih berkedip di gang-gang sempit. Aroma kopi dan kemenyan masih bercampur di udara. Dan di bawah permukaan, nama-nama masih bergerak—mencari rumah, mencari pengakuan, mencari tempat untuk bernapas.

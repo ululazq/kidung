@@ -3,8 +3,6 @@ title: "Agung's Plan"
 chapter: 12
 ---
 
-# Chapter 12: Agung's Plan
-
 Tiga hari sejak aliansi di reruntuhan Candi Prambanan.
 
 Arif duduk di ruang bawah tanah markas TechNovus, SCBD. Dinding kaca menampilkan Jakarta yang berkilauan di bawah, tapi matanya tidak melihat kota. Matanya melihat layar holografik yang menampilkan data demi data—angka, grafik, pola energi.

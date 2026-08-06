@@ -3,8 +3,6 @@ title: "The Price of Being Remembered"
 chapter: 10
 ---
 
-# Chapter 10: The Price of Being Remembered
-
 Tiga malam setelah Dewa Kaus Kaki Hilang membisikkan rahasia itu, Nadia masih belum bisa tidur.
 
 Rahasianya sederhana — dan justru karena sederhana, ia menyeramkan: Tuan Lupa tidak memakan dewa-dewa untuk energi. Ia memakan *domain*. Setiap domain yang mati, setiap ruang keyakinan yang ditinggalkan manusia, ia serap — seperti orang yang membeli rumah-rumah kosong di lingkungan yang sedang sekarat, satu per satu, sampai seluruh blok jadi miliknya. Bukan untuk ditinggali. Untuk memastikan tidak ada yang bisa kembali.

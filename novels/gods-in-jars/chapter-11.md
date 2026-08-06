@@ -3,8 +3,6 @@ title: "Lupa"
 chapter: 11
 ---
 
-# Chapter 11: Lupa
-
 Menara Lupa Corp berdiri di jantung Kota Tua seperti sebilah kaca yang ditegakkan di atas tanah perawan — tidak menunduk, tidak menekuk, tidak peduli apa pun yang tumbuh di sekitarnya. Empat puluh lantai. Permukaan kaca yang memantulkan langit tanpa pernah memantulkan sesuatu yang pribadi. Tidak ada bunga. Tidak ada patung. Tidak ada foto. Hanya putih, putih, putih — seperti ruangan yang sudah disanitasi dari semua kenangan.
 
 Nadia berdiri di depan pintu masuknya, sendirian.

@@ -3,8 +3,6 @@ title: "Sangha Network"
 chapter: 6
 ---
 
-# Chapter 6: Sangha Network
-
 Tiga minggu sejak Arif pertama kali bertemu Sari. Dua minggu sejak pertemuan dengan Hendra. Satu minggu sejak malam di toko antik Maya.
 
 Dan sekarang, Arif berdiri di depan sebuah rumah mewah di kawasan Menteng, diundang ke pertemuan pertama Sangha Network.

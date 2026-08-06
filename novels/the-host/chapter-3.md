@@ -3,8 +3,6 @@ title: "Mentor Found"
 chapter: 3
 ---
 
-# Chapter 3: Mentor Found
-
 Seminggu sejak Mind Palace terbuka.
 
 Arif berdiri di depan gedung Fakultas Psikologi Universitas Indonesia, Depok. Hujan pagi baru saja reda, meninggalkan bau tanah basah dan aspal dingin. Di tangannya, secarik kertas dengan alamat yang ditulis tangan.

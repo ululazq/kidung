@@ -3,8 +3,6 @@ title: "The Night Jar Shop"
 chapter: 1
 ---
 
-# Chapter 1: The Night Jar Shop
-
 Kota Tua tidak pernah benar-benar tidur. Ia hanya menurunkan volumenya — seperti radio tua yang diputar pelan di kamar sebelah. Di siang hari, Kota Tua berteriak: pedagang kaki lima, klakson becak, musik dari toko ponsel yang memutar dangdut dengan volume maksimal. Tapi malam hari, setelah pukul sebelas, Kota Tua berbisik. Dan di dalam bisikan itu, Nadia bisa mendengar sesuatu yang tidak bisa didengar orang lain.
 
 Sayangnya, Nadia tidak tahu itu. Belum.

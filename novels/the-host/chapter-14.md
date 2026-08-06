@@ -3,8 +3,6 @@ title: "Final Battle"
 chapter: 14
 ---
 
-# Chapter 14: Final Battle
-
 Malam ketiga. Pulau Semut.
 
 Perahu motor Maya menepi di pantai utara pulau yang gelap. Tidak ada lampu, tidak ada suara selain deburan ombak dan desisan angin di antara pohon kelapa.

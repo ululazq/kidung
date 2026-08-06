@@ -3,8 +3,6 @@ title: "The Vanishing Night Market"
 chapter: 6
 ---
 
-# Chapter 6: The Vanishing Night Market
-
 Pasar malam di Kota Tua tidak pernah benar-benar mati. Ia hanya tidur — seperti hewan besar yang bersembunyi di balik bangunan tua, menunggu malam untuk bangkit. Setiap Jumat malam, ketika lampu neon warung makan menyala dan asap dari gorengan naik membaurkan langit, pasar ini hidup: ratusan stan, suara tepuk tangan pedagang, tawa pembeli yang lewat, dan bau yang tidak pernah bisa dideskripsikan dengan kata-kata biasa — terlalu asin, terlalu manis, terlalu hangat untuk jadi satu hal.
 
 Nadia tahu pasar ini. Bukan karena ia pengunjung tetap — ia lebih sering melewatinya di siang hari, saat stan sudah dilipat dan jalan kembali jadi jalan — tapi karena Kecil pernah menceritakannya.

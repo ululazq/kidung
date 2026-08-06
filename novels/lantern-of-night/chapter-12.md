@@ -3,8 +3,6 @@ title: "The Room of Names"
 chapter: 12
 ---
 
-# Chapter 12: The Room of Names
-
 Tiga malam sejak Milakara menyatu kembali.
 
 Aula Kenangan tidak lagi sunyi. Luruh—pria tua yang dulunya Kolektor—menjaga pintu, menyapu lantai, menyalakan lentera. Ia tidak banyak bicara, tapi kehadirannya membuat aula terasa lebih hidup.

@@ -3,8 +3,6 @@ title: "Resolution"
 chapter: 15
 ---
 
-# Chapter 15: Resolution
-
 Dua hari setelah Pulau Semut.
 
 Arif duduk di kursi roda di teras rumah sakit Siloam, Jakarta. Tubuhnya hampir tidak bisa bergerak—tulang rapuh, kulit mengelupas, napas tersengal. Dokter mengatakan ia hanya punya beberapa jam lagi.

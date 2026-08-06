@@ -3,8 +3,6 @@ title: "The Midnight Parlor"
 chapter: 3
 ---
 
-# Chapter 3: The Midnight Parlor
-
 Hujan masih membasahi Kota Senja ketika Mila akhirnya mencapai gang kecil yang mengarah ke Midnight Parlor. Pintu kayunya telah direparasi berkali-kali, tetapi setiap lapisan cat yang menempel menambah tekstur pada permukaan usang. Di atasnya, tulisan *Midnight Parlor* berkelap-kelip, seolah sedang menahan napas.
 
 Di saat yang sama, udara di luar terlalu jenuh dengan bau kemenyan, kopi, dan halaman buku tua. Suasana tersebut seperti menyambut orang yang datang untuk mendengarkan. Midnight Parlor bukan hanya tempat minum kopi. Ia adalah persimpangan antara ruang yang lupa dan ruangan yang ingin kembali diberi nama.

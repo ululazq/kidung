@@ -3,8 +3,6 @@ title: "The Jar"
 chapter: 10
 ---
 
-# Chapter 10: The Jar
-
 Mila terbangun di lantai Aula Kenangan dengan rasa dingin yang menusuk tulang. Lentera-lentera sudah padam satu per satu. Hanya Nyala di pergelangan tangannya yang masih menyala—redup, seperti lilin yang hampir habis.
 
 Ia mencoba mengingat apa yang terjadi semalam. Kolektor. Pelukan. Kata-kata tentang rumah.

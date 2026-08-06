@@ -3,8 +3,6 @@ title: "Cost Escalation"
 chapter: 8
 ---
 
-# Chapter 8: Cost Escalation
-
 Satu minggu setelah pertemuan Sangha Network.
 
 Arif duduk di meja kerjanya, menatam layar kosong. Deadline laporan analitik mingguan sudah lewat tiga hari. Atasannya tidak mengajukan pertanyaan—hanya diam, yang lebih buruk.

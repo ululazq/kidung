@@ -3,8 +3,6 @@ title: "Aula Kenangan"
 chapter: 6
 ---
 
-# Chapter 6: Aula Kenangan
-
 Tiga hari sejak serangan Kolektor di Aula Kenangan.
 
 Mila tidak kembali ke kamarnya. Ia tidur di sudut aula, di antara rak-rak buku yang tersisa, dengan Nyala yang mati di pergelangan tangannya. Lentera itu belum menyala sejak malam itu—seperti kehilangan harapan, atau mungkin terlalu takut untuk bersinar.

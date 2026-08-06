@@ -3,8 +3,6 @@ title: "Betrayal"
 chapter: 9
 ---
 
-# Chapter 9: Betrayal
-
 Tiga hari sejak Shadow Step pertama. Lima belas hari total sejak Rahwana terjaga.
 
 Arif menatap cermin kamar mandi. Rambutnya sudah mulai beruban di pelipis. Garis-garis halus di dahi lebih dalam dari sebelumnya. Lingkaran hitam di bawah matanya permanen, tidak lagi hilang setelah tidur.

@@ -3,8 +3,6 @@ title: "The Forgetting Festival"
 chapter: 8
 ---
 
-# Chapter 8: The Forgetting Festival
-
 Kota Tua bangun dengan warna yang berbeda pagi itu.
 
 Nadia menyadarinya pertama kali ketika ia membuka pintu toko — pukul tujuh pagi, lebih awal dari biasanya, karena semalaman ia tidak bisa tidur setelah guci tanpa label itu retak — dan mencium sesuatu yang tidak biasa di udara. Bukan bau kopi. Bukan bau asap gorengan dari warung sebelah. Tapi bau bersih — bersih dengan cara yang tidak alami, seperti ruangan yang baru disemprot pengharum ruangan, seperti bau plastik baru yang belum dibuka. Bau yang menolak keberadaan segala sesuatu yang pernah hidup di dalamnya.

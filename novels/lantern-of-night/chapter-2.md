@@ -3,8 +3,6 @@ title: "Whisper of Shadows"
 chapter: 2
 ---
 
-# Chapter 2: Whisper of Shadows
-
 Kota Senja tampak sama, tetapi suaranya berubah. Langit-langit lampu neon yang dipantulkan oleh genangan air tidak lagi hanya membentuk warna; mereka menjadi garis halus yang melukiskan jari-jari bayangan. Setiap kali Mila melangkah, lantai membalas dengan gema kecil yang bergetar di sela-sela kakunya.
 
 Ia masih membawa amplop merah itu di dalam tasnya. Kertasnya lembap di sisi-sisinya karena hujan semalam dan karena napasnya sendiri yang sering jatuh dalam ketika ia berhenti. Tulisan Kara berputar kembali dalam kepalanya seperti mantra. *Jalan yang benar adalah jalan yang kau tinggalkan. Aku menunggu di persimpangan antara cahaya dan bayang.*

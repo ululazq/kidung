@@ -3,8 +3,6 @@ title: "The Great Fading"
 chapter: 12
 ---
 
-# Chapter 12: The Great Fading
-
 Hari itu dimulai seperti hari-hari lain di Kota Tua: dengan klakson, dengan pedagang kaki lima yang membuka kios, dengan bau kopi tubruk dan gorengan yang bercampur di udara pagi. Nadia berdiri di ambang toko guci, menatap jalan yang sibuk, dan merasakan sesuatu yang aneh di udara.
 
 Bukan bau. Bukan suara. Tapi... kekosongan.

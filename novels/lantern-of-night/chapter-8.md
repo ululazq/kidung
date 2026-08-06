@@ -3,8 +3,6 @@ title: "The Price of Light"
 chapter: 8
 ---
 
-# Chapter 8: The Price of Light
-
 Mila tidak tidur malam itu. Ia duduk di tangga Aula Kenangan, memeluk lututnya, menunggu fajar—atau Kolektor, mana yang datang lebih dulu.
 
 Nyala di pergelangan tangannya menyala redup, seperti lentera yang mulai kehabisan minyak. Dan untuk pertama kalinya sejak ia menjadi penjaga, Mila merasakan sesuatu yang asing: ketakutan yang dalam, bukan untuk dirinya sendiri, tapi untuk nama-nama yang ia tampung.

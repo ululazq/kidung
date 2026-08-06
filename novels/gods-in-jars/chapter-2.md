@@ -3,8 +3,6 @@ title: "The God of Broken Umbrellas"
 chapter: 2
 ---
 
-# Chapter 2: The God of Broken Umbrellas
-
 Nadia membaca buku catatan neneknya sampai halaman terakhir. Itu memakan waktu dua jam, satu gelas kopi yang tidak pernah ia ingat membuatnya, dan seluruh sisa malam yang seharusnya ia pakai untuk tidur.
 
 Buku itu tebal — lebih tebal dari yang terlihat. Sampul kulitnya lusuh, jahitannya lepas di beberapa tempat, dan halaman-halamannya menguning seperti daun yang gugur terlalu cepat. Setiap kali Nadia membalik halaman, terdengar bunyi kertas yang kering seperti sayap capung tua. Ia bisa mencium bau buku itu dari jarak dekat: debu, tinta lama, kayu manis yang sudah sangat tua. Bau tangan yang sering membalik halamannya.

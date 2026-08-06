@@ -3,8 +3,6 @@ title: "First Skill"
 chapter: 2
 ---
 
-# Chapter 2: First Skill
-
 Tiga hari sejak suara itu muncul.
 
 Arif duduk di kasur kecil apartemennya, menatap laptop yang menyala. Layar menampilkan berita tentang kemacetan di Jakarta, tapi matanya tidak benar-benar membaca. Di dalam kepalanya, Rahwana—ia sudah mulai menyebutnya itu—tenang seperti danau beku.

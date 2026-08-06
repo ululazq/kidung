@@ -3,8 +3,6 @@ title: "Memory Dive"
 chapter: 7
 ---
 
-# Chapter 7: Memory Dive
-
 Empat hari sejak pertemuan Sangha Network. Tiga hari sejak Arif kembali ke Maya's safe house. Dua hari sejak ponselnya menerima pesan dari nomor yang tidak dikenal: **"Purists sudah tahu kamu ada di sana."**
 
 Arif dudat di sofa tua di ruang bawah tanah Maya. Lampu kecil di atas meja menyorot buku-buku tebal, lukisan-lukisan kuno, dan peta yang penuh dengan tanda-tanda. Di tangannya, secangkir teh yang sudah dingin.

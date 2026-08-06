@@ -3,8 +3,6 @@ title: "Ember in the Alley"
 chapter: 1
 ---
 
-# Chapter 1: Ember in the Alley
-
 Kota Senja tidak pernah tidur dengan tenang. Ia selalu bergerak, bahkan ketika angin dingin malam mengusap kelopak-lampu neon dan menyapu percikan uap dari teko kopi di pojok jalan. Di antara suara derap kaki, denting sepeda motor, dan dentang besi kereta tua, ada ruang yang hanya bisa didengar oleh mereka yang akrab dengan denyut di bawah permukaan.
 
 Mila mengenal denyut itu sebaik dia mengenal ritme jantungnya sendiri. Setiap malam ia berjalan di antara lorong-lorong yang tak banyak diperhatikan oleh warga kota, menyalakan lentera kuning kecil di tangan kirinya, mengeraskan mantel hitamnya, dan membiarkan Nyala—cahaya halus di dalam gelang peraknya—bergetar.

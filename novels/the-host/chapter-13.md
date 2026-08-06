@@ -3,8 +3,6 @@ title: "Sacrifice"
 chapter: 13
 ---
 
-# Chapter 13: Sacrifice
-
 Dua hari sejak pengungkapan Rahwana tentang wadah Brahma.
 
 Arif belum tidur. Setiap kali ia menutup mata, ia melihat dua titik cahaya merah itu. Setiap kali ia bernapas, ia merasakan beratnya pilihan yang menggantung di lehernya.

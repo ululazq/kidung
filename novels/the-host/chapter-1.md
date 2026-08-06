@@ -3,8 +3,6 @@ title: "Awakening"
 chapter: 1
 ---
 
-# Chapter 1: Awakening
-
 Rahwana membuka mata.
 
 Bukan di Lanka. Bukan di istana. Ini... Jakarta. Abad ke-21.

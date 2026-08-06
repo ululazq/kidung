@@ -3,8 +3,6 @@ title: "Stasiun 13"
 chapter: 11
 ---
 
-# Chapter 11: Stasiun 13
-
 Hujan tidak pernah berhenti di Kota Senja.
 
 Mila berdiri di depan pintu masuk Stasiun 13, lampu neon yang berkedip pelan menerangi wajahnya. Di tangannya, lentera Nyala menyala redup—seperti tahu bahwa perjalanan ini akan menjadi yang terakhir.

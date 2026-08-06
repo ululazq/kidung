@@ -3,8 +3,6 @@ title: "Midpoint Reversal"
 chapter: 10
 ---
 
-# Chapter 10: Midpoint Reversal
-
 Hari yang ditunggu datang.
 
 Arif berdiri di lorong gelap Candi Prambanan, hujan rendang mengguyur candi-candi kuno. Di sisinya, Maya dan Sari bersiap. Di dalam tas Maya, alat-alat ritual—batu Karma Stone, kain putih, minyak wangi kuno.

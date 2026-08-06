@@ -3,8 +3,6 @@ title: "The God of Lost Socks"
 chapter: 9
 ---
 
-# Chapter 9: The God of Lost Socks
-
 Tiga malam setelah festival Hari Melupakan, Nadia duduk di lantai toko guci dengan sebatang jarum dan sehelai benang di tangannya.
 
 Bukan ritual. Bukan doa. Hanya... kegiatan. Sesuatu yang ia pelajari dari neneknya bertahun-tahun lalu: ketika pikiran terlalu penuh, biarkan tangan yang bekerja. Jarum itu menusuk kain biru — kain yang tadi pagi ia temukan tersangkut di celah rak ketiga, baris kedua dari bawah, tepat di depan guci milik Dewa Kaus Kaki Hilang.

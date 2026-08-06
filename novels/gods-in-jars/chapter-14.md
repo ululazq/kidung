@@ -3,8 +3,6 @@ title: "The God of Letting Go"
 chapter: 14
 ---
 
-# Chapter 14: The God of Letting Go
-
 Menara Lupa Corp berdiri di jantung Kota Tua — empat puluh lantai kaca yang memantulkan langit kelabu, seperti cermin raksasa yang tidak ingin mengingat apa pun. Di lobinya, tidak ada satu pun foto. Tidak ada satu pun nama di dinding. Semua permukaan putih bersih, disanitasi, seperti ruangan operasi untuk ingatan.
 
 Nadia berdiri di depan pintu kaca itu, sendirian, dengan guci tanah liat di kedua tangannya.

@@ -3,8 +3,6 @@ title: "The Re-weaving"
 chapter: 14
 ---
 
-# Chapter 14: The Re-weaving
-
 Tiga hari sejak ruang bawah terbuka. Tiga hari sejak Milakara memeluk kegelapan itu dan mengubahnya menjadi sesuatu yang tidak lagi menakutkan.
 
 Bentuk kecil itu—bekas rumah pertama—sekarang tinggal di sudut Aula Kenangan. Ia belum punya nama. Ia belum punya rumah yang layak. Tapi ia tidak lagi mencoba mengambil alih apa pun. Ia hanya... duduk. Menunggu. Belajar.

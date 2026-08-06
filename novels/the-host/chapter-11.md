@@ -3,8 +3,6 @@ title: "Escape & Alliance"
 chapter: 11
 ---
 
-# Chapter 11: Escape & Alliance
-
 Hujan turun seperti tirai perak ketika Arif dan Maya keluar dari reruntuhan ruangan Agung. Udara masih berbau sulfur dan batu terbakar, dan beberapa struktur candi runtuh dalam kepulan asap kelabu.
 
 Arif masih belum sepenuhnya pulih—ia berjalan dengan pincang ringan, tangannya yang sebelumnya gemetar kini bergetar lebih pelan. Di sampingnya, Maya mengarahkan lentera kecil di antara reruntuhan, menerangi batu-batu yang berserakan seperti tulang raksasa.

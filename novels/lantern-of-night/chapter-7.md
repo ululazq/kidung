@@ -3,8 +3,6 @@ title: "Threads of Kara"
 chapter: 7
 ---
 
-# Chapter 7: Threads of Kara
-
 Pagi datang tanpa Mila sadari. Ia tertidur di lantai Aula Kenangan, dikelilingi buku-buku arsip, dengan amplop merah di dadanya. Ketika ia terbangun, Nyala sudah menyala terang—lebih terang dari biasanya—seperti merayakan sesuatu.
 
 *Kau sudah ingat,* bisik Nyala. *Kau sudah tahu.*

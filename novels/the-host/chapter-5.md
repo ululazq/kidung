@@ -3,8 +3,6 @@ title: "First Conflict"
 chapter: 5
 ---
 
-# Chapter 5: First Conflict
-
 Dua hari sejak pertemuan dengan Hendra.
 
 Arif duduk di meja kerjanya, menatap layar laptop. Kode berjalan di terminal, angka-angka bergerak. Tapi pikirannya tidak di sana.

@@ -3,8 +3,6 @@ title: "The Shop That Glows"
 chapter: 15
 ---
 
-# Chapter 15: The Shop That Glows
-
 Malam itu, Toko Guci Malam berbeda. Bukan karena lampu neon atau pelanggan, tetapi karena ada cahaya halus yang berputar di antara rak—seperti butiran debu yang menari, tetapi hangat dan penuh suara. Nadia berdiri di depan etalase, tangannya masih lengket dari adonan tanah liat yang baru dia cetak untuk guci baru. Kecil menempel di bahunya, matanya membesar, mendengarkan segala sesuatu yang bergerak.
 
 Di meja kerjanya, tiga guci baru mengering — guci yang dibentuk sore tadi, masih kasar, belum dibakar, dengan sigil yang digores oleh tangan Nadia sendiri. Sigil lingkaran utuh untuk yang pertama, lingkaran putus untuk yang kedua, dan untuk yang ketiga... Nadia belum selesai. Ia menatap guci ketiga itu, dengan ujung jarinya yang masih lengket, dan mencoba mengingat sigil apa yang ingin ia buat.

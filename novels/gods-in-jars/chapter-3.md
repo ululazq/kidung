@@ -3,8 +3,6 @@ title: "A Fading Lesson"
 chapter: 3
 ---
 
-# Chapter 3: A Fading Lesson
-
 Kota Tua tidak pernah benar-benar sepi. Ia hanya berpura-pura tidur di pagi hari, ketika cahaya matahari masuk lewat celah-celah etalase dan membuat debu berenang seperti plankton di dalam toples. Nadia berdiri di depan etalase Toko Guci Malam, dengan gelas kopi yang sudah dingin di tangan, dan menonton orang-orang lewat di trotoar basah.
 
 Toko tertutup. Pintu kayu lapuk dengan ukiran yang tak lagi terbaca. Di kaca, debu bertumpuk setebal jari. Tapi di balik kaca itu, guci-guci tua berjajar rapat, dan di antara barisan itu, satu terdengar seperti berdetak.

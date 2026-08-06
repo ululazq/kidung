@@ -3,8 +3,6 @@ title: "Half a Name"
 chapter: 9
 ---
 
-# Chapter 9: Half a Name
-
 Malam itu, di dalam Aula Kenangan yang bersinar dengan lentera, Mila berdiri di hadapan Kolektor—bayangan tinggi dengan banyak tangan dan topeng yang terdiam.
 
 Ia mengulurkan tangan, menyentuh dadanya sendiri.

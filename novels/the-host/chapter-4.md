@@ -3,8 +3,6 @@ title: "Rival Revealed"
 chapter: 4
 ---
 
-# Chapter 4: Rival Revealed
-
 Dua minggu sejak pertemuan dengan Dr. Sari.
 
 Arif kembali ke rutinitasnya. Pagi: kerja di kantor Senayan, menatap spreadsheet dan kode. Siang: makan di warung tepi jalan, nasi goreng dengan telur ceplok. Malam: apartemen kecil, laptop, dan percakapan panjang dengan Rahwana.

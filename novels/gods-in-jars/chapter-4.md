@@ -3,8 +3,6 @@ title: "The Journalist Who Remembers Everything"
 chapter: 4
 ---
 
-# Chapter 4: The Journalist Who Remembers Everything
-
 Genta pertama kali melihat Toko Guci Malam tiga hari setelah jam-jam di Kota Tua berhenti.
 
 Ia bukan orang yang percaya kebetulan. Jurnalis investigasi dengan memori fotografis tidak punya kemewahan itu — karena ia mengingat semua kebetulan yang ternyata bukan kebetulan. Pola. Itu yang ia cari. Pola di balik kekacauan. Ia pernah membaca sebuah artikel yang bilang otak manusia dirancang untuk melupakan — melupakan adalah fitur, bukan bug. Genta menutup artikel itu dan tertawa pahit. Fitur. Bug. Ia tidak tahu lagi mana yang mana. Ia hanya tahu bahwa di kepalanya, tidak ada tombol yang bekerja.

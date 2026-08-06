@@ -3,8 +3,6 @@ title: "The Vanishing"
 chapter: 5
 ---
 
-# Chapter 5: The Vanishing
-
 Mila tidak tidur malam itu. Ia berbaring di kasur kecilnya, menatap langit-langit yang retak, mendengar hujan yang tidak pernah berhenti. Di tangannya, amplop merah terasa hangat—bukan panas, tapi seperti ada sesuatu yang hidup di dalamnya.
 
 *Kau adalah nama yang diberi tubuh.*

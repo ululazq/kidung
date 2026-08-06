@@ -3,8 +3,6 @@ title: "The Altar-Keeper's Record"
 chapter: 7
 ---
 
-# Chapter 7: The Altar-Keeper's Record
-
 Hujan turun di Kota Tua malam itu — bukan hujan lebat, tapi hujan yang pelit, yang jatuh setetes-dua-tetes seperti orang yang ragu mau berkomitmen. Nadia duduk di lantai toko guci dengan punggung bersandar pada rak kayu jati yang berbau lembap, dan di pangkuannya ada buku yang sudah ia hindari selama seminggu terakhir.
 
 Catatan Altar.

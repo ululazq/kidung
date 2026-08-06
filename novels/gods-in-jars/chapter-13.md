@@ -3,8 +3,6 @@ title: "The Panen Room"
 chapter: 13
 ---
 
-# Chapter 13: The Panen Room
-
 Gudang di bawah tanah menara Lupa Corp berbau seperti ruang penyimpanan yang sudah lama tidak dibuka — udara kering, debu yang tebal, dan bau logam dingin yang menempel di setiap permukaan. Nadia berdiri di depan pintu besi yang sudah setengah terbuka, dengan Genta di sampingnya dan Kecil di belakang.
 
 "Kau yakin ini jalan yang benar?" bisik Genta. Cahaya senter ponselnya bergetar di dinding batu yang basah.

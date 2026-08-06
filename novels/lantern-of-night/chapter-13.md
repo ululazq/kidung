@@ -3,8 +3,6 @@ title: "The Unmaking"
 chapter: 13
 ---
 
-# Chapter 13: The Unmaking
-
 Milakara membuka tutup guci itu.
 
 Kegelapan keluar—bukan asap, bukan bayangan, tapi sesuatu yang lebih tua. Sesuatu yang terasa seperti ruang kosong yang berbicara. Ia menyebar ke seluruh ruangan, menyentuh dinding, menyentuh lantai, menyentuh langit-langit—dan di setiap tempat yang ia sentuh, cahaya mati.
