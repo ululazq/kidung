@@ -1,7 +1,7 @@
 # Bible: Kidung Tanah Karam
 
-Terakhir diperbarui: bab 9
-Sudah diungkap ke pembaca sampai: bab 9
+Terakhir diperbarui: bab 10
+Sudah diungkap ke pembaca sampai: bab 10
 
 ## Kanon Nama
 
@@ -82,14 +82,14 @@ Ini amunisinya. Perbarui kolom status setiap bab.
 | 4 | Kidung Iber Toya | membelah air jadi jalan setapak | utuh — **jangan dibelanjakan sebelum bab 18**; titik terendah bergantung pada kidung ini masih di mulut Sekar |
 | 5 | Kidung Talun Garing | mengeringkan tanah sepetak, sebentar | **habis — bab 5** |
 | 6 | Kidung Rara Tanjung | menidurkan mati yang belum dikidungkan | utuh — satu-satunya yang belum dimiliki Kutha Teleng |
-| 7 | Kidung Kandhang Angin | menahan angin dan atap | utuh |
+| 7 | Kidung Kandhang Angin | menahan angin dan atap | **habis — bab 10** (lima bait; berbicara ke kayu/kasau, bukan ke angin — bukan ke air, satu dari dua di seluruh naskah bersama Kidung Pamungkas). Dibelanjakan untuk atap seng deret ketiga Pasar Uwur pada angin barat, atas dugaan Sekar yang keliru: bunyi seng dua kali itu bunyi biasa angin barat, dan Bu Rukmi sudah memaku empat paku per lembar sejak Februari. Kidung yang sama ini yang hilang dari mulut Mbah Warsiti tahun 1978 — **sekarang tidak ada satu mulut pun di pesisir yang bisa menahan atap.** |
 | 8 | Kidung Uwur Wengi | memanggil orang pulang dalam gelap | **habis — bab 8** (dinyanyikan untuk perekam Ayu; Le Parjo naik ke penginapan) |
 | 9 | Kidung Segara Wuta | membuat laut tidak melihat perahu | utuh |
 | 10 | Kidung Bandhung Lumpur | mengangkat benda dari lumpur | utuh |
 | 11 | Kidung Panjang Ilang | menunda sesuatu yang sedang hilang | utuh |
 | 12 | Kidung Weling Biyung | menyampaikan pesan ke yang sudah mati | utuh |
 
-Hitungan Sekar di akhir bab 8: **sembilan**.
+Hitungan Sekar di akhir bab 10: **delapan**.
 
 ### Kidung yang tidak pernah diajarkan (dua puluh sembilan sisa)
 
@@ -126,7 +126,7 @@ Isi surat Nyai Larasati (bab 8) memecah empat puluh satu itu jadi: **11 sudah di
 
 | Nama | Tujuan sendiri | Penanda suara | Ciri fisik/kebiasaan |
 |---|---|---|---|
-| Bu Rukmi | memindahkan izin kios sebelum pasar habis | peribahasa, tidak pernah menjawab langsung | sirih, gigi merah, meludah sebelum bicara serius |
+| Bu Rukmi | memindahkan izin kios sebelum pasar habis | peribahasa, tidak pernah menjawab langsung — **kecuali bab 10**, di mana dia bicara lurus dan panjang untuk pertama kalinya; simpan mode ini untuk momen yang mahal saja | sirih, gigi merah, meludah sebelum bicara serius; meludah meleset dari kaleng saat benar-benar terguncang. 63 tahun di Pasar Uwur, naik ke atap kiosnya sendiri tiap bulan dengan tangga, memaku empat paku per lembar seng sejak Februari. Membiarkan satu bocor karena di atasnya kaleng sirihnya dan dia suka melihat langit |
 | Tegar | menjual perahu, ikut ke Neo-Batavia — **sejak bab 9 juga: menyiapkan kampung untuk saat Sekar tidak ada** | potongan kalimat, melawak saat takut, "Bos". Berhenti melawak saat membela diri: "Kamu bilang *belum*. Belum itu bukan jangan." | garis belang matahari di dahi. Duduk waktu dimarahi, berdiri hanya kalau disuruh |
 | Ayu Prameswari | menuntaskan koleksi lapangan demi dananya | `saya/Anda`, lengkap dan sopan, mengulang pertanyaan sebelum menjawab | sepatu selalu kering, perekam kuningan di tali leher |
 | Marno | menemukan kuburan Sapari | sepatah-sepatah, mengulang kata terakhir orang | tiket antrean Lupa Corp di saku dada |
@@ -172,6 +172,7 @@ Isi surat Nyai Larasati (bab 8) memecah empat puluh satu itu jadi: **11 sudah di
 | 7 | Hari 5 malam sampai Hari 6 pukul 13.00 | Langgar Kandas, para-para lalu lantai langgar | Sekar, lalu Tegar |
 | 8 | Hari 7 pagi sampai pukul 11 lewat (adegan 1); Hari 11 sore, rob naik (adegan 2) | penginapan di atas warung Pasar Uwur; lalu para-para Langgar Kandas | Sekar, Ayu Prameswari, Le Parjo (di balik pintu), Bu Rukmi (suara dari bawah); lalu Sekar dan Tegar |
 | 9 | Hari 12, pukul 11 sampai sore | perahu pulang dari Kamp Pindah Wetan | Sekar, Marno, petugas Lupa Corp berpolo biru, Tegar, Ngatiyem + 3 murid, 3 pembakar orang Ki Danu, Ayu Prameswari, 19 orang antrean |
+| 10 | Hari 13, subuh sampai sore (angin barat; perahu tidak jalan sepanjang hari) | Langgar Kandas | Sekar, tukang perahu, Bu Rukmi, ~4 warga deret ketiga. Tegar, Ngatiyem, dan Marno **tidak muncul** — Sekar terkurung di sisi Tambaklarang |
 
 **Bulan:** bab 1–8 jatuh di bulan Juli. Surat Nyai Larasati ke Sangha Network ditulis bulan Maret, dijawab bulan Juli, dan Ayu sampai lima hari sesudah kematiannya.
 
@@ -192,7 +193,8 @@ Jarak tempuh: Langgar Kandas → Pasar Uwur 20 menit jalan saat surut, 40 menit 
 | 2 | Perekam kuningan Ayu Prameswari | **sebagian — bab 8**; sisa bab 11, 20 |
 | 2 | Cerita Mbah Warsiti 1978 — kidung yang direkam mati empat hari kemudian | **sudah — bab 8** (katalog Sangha Network: sesi tanggal 10, penyanyi menolak sesi lanjutan tanggal 14; di katalog dia tidak punya nama, cuma *pesindèn, perempuan, ±50*) |
 | 2 | Petak Nisan; Wulansih tidak ada di antara yang seratus | belum — bab 18, 24 |
-| 2 | Bu Rukmi menolak diajari kidung selama 60 tahun; "kalau dua orang bisa nyanyi, dua orang bisa boros" | belum — bab 16 |
+| 2 | Bu Rukmi menolak diajari kidung selama 60 tahun; "kalau dua orang bisa nyanyi, dua orang bisa boros" | **sebagian — bab 10**: dia mengaku marah sampai umur empat puluh, lalu mengerti Nyai Larasati benar dan membencinya karena benar. Angkanya sendiri jadi 63 tahun di pasar. Sisa bab 16 |
+| 2 | Cerita Mbah Warsiti: Kandhang Angin hilang dari mulutnya empat hari sesudah direkam | **ditembakkan penuh — bab 10**: kidung yang sama dibelanjakan Sekar, dan Bu Rukmi yang umur dua belas memegangi ember tahun 1978 berdiri di sebelahnya waktu itu terjadi |
 | 3 | Tangan kanan Ki Danu berhenti 20 derajat sebelum lurus | belum — bab 21 |
 | 3 | Tiket antrean Lupa Corp kuning di saku Marno | **sebagian — bab 9**: nomornya 31, diambil bulan Mei, dan yang mau dia lupakan bukan kampung melainkan satu hal — di mana kuburan Sapari. Dia tidak melangkah menyelamatkannya waktu antrean terbakar. Sisa bab 19 |
 | 3 | Segara Sepi tidak punya gema | belum — bab 4, 15 |
@@ -207,7 +209,9 @@ Jarak tempuh: Langgar Kandas → Pasar Uwur 20 menit jalan saat surut, 40 menit 
 | 7 | Kidung Wangsul Balung, halaman 27: *Jangan ini*. Untuk memulangkan tulang dari air — dan Sekar tidak bisa menyanyikannya | **sebagian — bab 9**: Sekar menawarkannya ke Marno sebagai barang yang *ada*, lalu harus mengaku tidak bisa menyanyikannya. Marno menyamakannya dengan Sapari: ada, di mana tidak tahu. Sisa bab 19, 23 |
 | 9 | Suara kelima di Kamp Pindah Wetan: empat murid di terpal, Tegar bermulut tertutup, tapi yang bernyanyi lima — masuk seperempat ketukan lambat, naik saat semua orang menarik napas | belum — bab 12, 15 |
 | 9 | Marno berhenti bekerja untuk Ki Danu **sesudah** menyerahkan kabar terakhirnya, bukan sebelum: "Saya sudah terlanjur ngomong sebelum saya berhenti mau." | belum — bab 17, 19 |
-| 9 | Dua lembar lima ribu basah yang disisihkan Sekar di saku dalam tas, supaya besok dia tidak perlu memutuskan apa pun selain naik | belum — bab 10 |
+| 9 | Dua lembar lima ribu basah yang disisihkan Sekar di saku dalam tas, supaya besok dia tidak perlu memutuskan apa pun selain naik | **belum tertembak — bab 10 justru menahannya**: angin barat membatalkan perahu, uangnya dikembalikan ke saku yang sama, keputusannya tertunda satu hari. Tembakkan bab 11 |
+| 10 | Seng lepas milik Yatmi (pindah ke Wetan tiga minggu lalu, kios kosong) disandarkan Sekar ke tiang supaya tidak terinjak saat air naik | belum — bab 13 |
+| 10 | Kalimat untuk Ngatiyem yang disusun ulang enam kali sepanjang jalan papan, belum pernah diucapkan | belum — bab 11 |
 | 7 | Rak beras tertinggi di Langgar Kandas, 1,80 m; Serat disimpan di situ. Sekar menghitung air punya 22 tahun untuk sampai ke sana | belum — bab 17 |
 | 7 | "Perahuku nganggur mulai minggu depan. Solar mahal." — Tegar berbicara ke air, bukan ke Sekar | belum — bab 14 |
 | 8 | Take pertama Sekar: jarum bergerak, pita kosong, kursinya terekam di detik dua belas. Larasnya salah | belum — bab 20, 22 |
@@ -246,6 +250,9 @@ Aturan: apa pun yang diberi penekanan tak biasa harus terpakai dalam 10 bab.
 | Ada kidung untuk memulangkan tulang dari air, dan Sekar tidak bisa menyanyikannya | + Marno | 9 |
 | Wong Teleng bisa ikut menyanyi di darat, di siang hari, di tengah kerumunan | belum ada yang tahu — Sekar baru menghitung suaranya | 9 |
 | Perekam Ayu menangkap nyanyian dari 40 meter di belakangnya, yang tidak bisa dijelaskan akustika | Sekar, Ayu | 9 |
+| Tidak ada lagi satu mulut pun di pesisir yang bisa menahan atap | Sekar, Bu Rukmi | 10 |
+| Empat orang di Kamp Pindah Wetan bisa menyanyi, dan bukan Sekar yang mengajari | + Bu Rukmi (dari kabar pasar) | 10 |
+| Sekar membelanjakan kidung dari hitungan, bukan dari bertanya — dan hitungannya bisa salah | Sekar, Bu Rukmi | 10 |
 
 ## Aturan gaya novel ini
 

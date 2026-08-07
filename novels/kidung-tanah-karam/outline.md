@@ -65,7 +65,7 @@ Satu baris per bab. Format: perubahan status → status lama jadi status baru.
 | 7 | Sekar | 2 (RDD, GCD) | Sekar membaca Serat sampai halaman 41 dan halaman tanpa notasi → pewaris jadi pewaris yang tahu warisannya bolong | selesai |
 | 8 | Sekar | 3 (GCD, RDD, GCD) | Kidung Uwur Wengi mati di mulutnya setelah direkam → sepuluh jadi sembilan tanpa pernah dipakai | selesai |
 | 9 | Sekar | 3 (GCD, GCD, RDD) | Orang Ki Danu membakar tenda Lupa Corp; Marno berdiri di antrean → ancaman satu arah jadi tiga arah | selesai |
-| 10 | Sekar | 2 (GCD, RDD) | Sekar menyelamatkan kios Bu Rukmi dan dimarahi, bukan disyukuri → sembilan jadi delapan, dan menolong jadi memboroskan | |
+| 10 | Sekar | 2 (GCD, RDD) | Sekar menyelamatkan kios Bu Rukmi dan dimarahi, bukan disyukuri → sembilan jadi delapan, dan menolong jadi memboroskan | selesai |
 | 11 | Sekar | 2 (GCD, GCD) | Seluruh isi rekaman Ayu mati di mulut sekampung → arsip jadi kuburan | |
 | 12 | Sekar | 2 (GCD, RDD) | Pasang purnama: sebelas kidung Nyai Larasati dinyanyikan balik dari bawah lantai → penjaga jadi pengumpan | |
 | 13 | Sekar | 2 (RDD, GCD) | Sekar menahan diri tidak menyanyi dan satu perahu tidak sampai → berhemat jadi ikut membunuh | |
@@ -86,7 +86,8 @@ Satu baris per bab. Format: perubahan status → status lama jadi status baru.
 - Bab 5 dan 9 keduanya bertekanan tinggi; bab 7 diselipkan sebagai RDD panjang supaya tidak tiga GCD berturut.
 - Eskalasi jenis taruhan: fisik (1–6) → sosial (7–13) → moral (14–18) → identitas (19–24).
 - Hitungan kidung wajib turun secara monoton dan tercatat di bible: 12 → 11 (b1) → 10 (b5) → 9 (b8) → 8 (b10) → 7 (b17) → 1 (b22). Tidak boleh ada kidung yang muncul kembali setelah habis.
-- Yang habis sejauh ini: Randhu Sumurup (b1), Talun Garing (b5), Uwur Wengi (b8). **Kidung Iber Toya harus tetap utuh sampai bab 18** — titik terendah bergantung pada Wulansih menyanyikan kidung yang masih dipegang Sekar.
+- Yang habis sejauh ini: Randhu Sumurup (b1), Talun Garing (b5), Uwur Wengi (b8), Kandhang Angin (b10). **Kidung Iber Toya harus tetap utuh sampai bab 18** — titik terendah bergantung pada Wulansih menyanyikan kidung yang masih dipegang Sekar.
+- Bab 10 memakai angin barat untuk mengurung Sekar di sisi Tambaklarang: perahu ke Wetan batal, jadi enam mulut tetap enam sampai bab 11 dan kalimatnya untuk Ngatiyem belum terucap. Jangan biarkan Sekar menyeberang ke kamp sebelum bab 11 dibuka.
 - Bab 7 ditutup dengan Tegar memegang Lampor Wengi. Mulai bab 9, Tegar adalah aset yang bisa direbut Ki Danu, bukan lagi sekutu netral — perhitungkan itu di tiap adegan yang memuatnya. **Sejak bab 9 asetnya bukan satu orang lagi tapi enam mulut**, dan Ki Danu sudah tahu jalannya lewat Marno.
 - **Hitungan mulut Ki Danu tidak monoton naik.** 11 (b3) → 14 (b6) → **13 (b9, Marno lepas)** → 17 (b13). Setiap kenaikan harus punya nama atau peristiwa; setiap penurunan juga.
 - Bab 9 menaruh dua hitungan yang bersaing di kepala Sekar: enam mulut miliknya versus tiga belas milik Ki Danu. Sejak sini angka di kepala Sekar bukan cuma sisa kidung — jaga dua-duanya tetap terlacak.
