@@ -7,9 +7,9 @@ tone: "Lembap, hemat kata, ekonomis, getir"
 language: "Indonesian"
 protagonist: "Melati Kusuma, penaksir barang gadai yang menilai dengan penciuman"
 description: "Di Jalan Kembang Jepun, Surabaya, berdiri Pegadaian Bunga — toko yang buka setelah jam sembilan dan tutup tepat tengah malam. Di sini orang menggadaikan benda, padahal yang benar-benar digadaikan adalah yang dibawa benda itu: ingatan, wajah, tahun-tahun. Bunganya berbunga tiap malam, dibayar pemilik tanpa sadar. Melati Kusuma, penaksir berusia dua puluh tiga tahun yang menilai setiap barang dari baunya, menemukan satu boneka porselen yang berbau melati — nama bunganya sendiri — dan foto di dinding toko yang wajahnya selalu buram."
-status: "In Progress"
+status: "Complete"
 started: "2026-08-07"
-completed: ""
+completed: "2026-08-07"
 ---
 
 # Pegadaian Bunga
