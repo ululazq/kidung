@@ -75,16 +75,16 @@ function chapterNumber(filename: string): number {
   return match ? Number(match[1]) : Number.MAX_SAFE_INTEGER
 }
 
-async function readCoverSet(): Promise<Set<string>> {
+async function readCoverSet(): Promise<Map<string, string>> {
   try {
     const files = await fs.readdir(COVERS_DIR)
-    return new Set(
+    return new Map(
       files
         .filter((f) => /\.(webp|jpg|jpeg|png|avif)$/i.test(f))
-        .map((f) => f.replace(/\.[^.]+$/, '')),
+        .map((f) => [f.replace(/\.[^.]+$/, ''), f]),
     )
   } catch {
-    return new Set()
+    return new Map()
   }
 }
 
@@ -155,7 +155,7 @@ export async function getNovels(): Promise<Novel[]> {
         chapters,
         chapterCount: chapters.length,
         totalWords: chapters.reduce((sum, c) => sum + c.words, 0),
-        cover: covers.has(slug) ? slug : null,
+        cover: covers.get(slug) ?? null,
       } satisfies Novel
     }),
   )

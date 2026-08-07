@@ -14,7 +14,7 @@ const { slug } = Astro.params
 const novel = await getNovel(slug!)
 if (!novel) return Astro.redirect('/404')
 
-const coverUrl = novel.cover ? `/covers/${novel.cover}.webp` : null
+const coverUrl = novel.cover ? `/covers/${novel.cover}` : null
 const totalMinutes = readingMinutes(novel.totalWords)
 const avgPerChapter = Math.round(novel.totalWords / novel.chapterCount)
 ---

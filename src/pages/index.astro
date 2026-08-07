@@ -32,7 +32,7 @@ const genres = await getAllGenres()
     <div class="novel-grid" id="novel-grid">
       {novels.map((novel) => {
         const coverUrl = novel.cover
-          ? `/covers/${novel.cover}.webp`
+          ? `/covers/${novel.cover}`
           : null
         const minutes = readingMinutes(novel.totalWords)
 
