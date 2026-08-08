@@ -177,7 +177,7 @@ Tidak ada jawaban.
 
 "Ibu!"
 
-"Ya, ya, ada apa?" Istrinya muncul dengan tangan masih basah. "Kau teriak-teriak, aku kira ada—" Ia berhenti. Menatap semua jam yang diam. "Ya Allah. Jam semua mati?"
+"Ya, ya, ada apa?" Istrinya muncul dengan tangan masih basah. "Kau teriak-teriak, aku kira ada—" Ia berhenti. Menatap semua jam yang diam. "Astaga! Jam semua mati?"
 
 "Bukan mati," kata Pak Karno, menatap jam yang ia pegang. "Berhenti. Semuanya berhenti di jam yang sama."
 

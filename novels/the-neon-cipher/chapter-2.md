@@ -1,68 +1,122 @@
 ---
-title: "Bab 2: The Aether Binding"
+title: "Bab 2: Segel yang Menyala"
 chapter: 2
 ---
 
-# Bab 2: The Aether Binding
+Ren membuka drive itu pada malam yang sama, di gudang sewaannya, dengan pintu dikunci dari dalam.
 
-Gudang beton mangkrak di Sektor 4 Shinjuku terasa dingin, lembap, dan dipenuhi aroma uap seng nitrat bercampur oli mesin terbakar. Di tengah ruangan yang diterangi oleh pancaran lampu gantung cembung yang bergetar tertiup angin malam, sebuah peti baja hitam berukir sigil hologram melayang sepuluh sentimeter di atas meja kerja berbahan titanium.
+Ia tidak tahu mengapa ia memutuskan malam itu. Ia hanya tahu bahwa setelah tangga rumah susun itu — setelah goresan mawar di dinding, setelah inisial yang pudar itu — ia tidak bisa lagi menaruh drive itu di saku dan berpura-pura bahwa ia tidak peduli. Sesuatu telah bergeser di dalam dirinya, sesuatu yang lebih tua dari ingatannya, dan ia ingin tahu apa itu.
 
-Ren melangkah perlahan di atas lantai semen basah, matanya memindai setiap sudut gelap gudang dengan kewaspadaan penuh. Di belakangnya, pintu baja gudang telah ia kunci dengan dekoder nirkabel. Namun naluri taktisnya berteriak bahwa tempat ini tidak sesepi yang terlihat.
+Gudang itu gelap kecuali satu bohlam. Ren duduk di tikarnya, drive di satu tangan, dan menatapnya — titanium, seukuran jari, dengan mawar yang digambar tangan di permukaannya. Ia tidak punya alat untuk membuka drive enkripsi; kurir tidak pernah punya. Tetapi ketika ia memegang drive itu, ia merasakan sesuatu yang tidak ia rasakan dengan drive lain: denyut. Pelan, teratur, seperti jantung.
 
-Di atas meja titanium, peti baja hitam itu mendadak bergetar halus. Cahaya biru keemasan memancar keluar dari celah-celah ukiran sigilnya, melepaskan gelombang medan elektromagnetik tipis yang membuat bulu kuduk Ren berdiri tegak. Ren mendekati meja, mengeluarkan sarung tangan isolasi untuk mengangkat drive titanium yang berada di dalam peti.
+Ren menekan mawar itu dengan ibu jarinya.
 
-BANG!
+Drive itu terbuka.
 
-Dinding samping gudang beton didobrak hingga hancur berhamburan oleh tembakan pelontar granat pneumatik dari luar! Serpihan semen panas dan debu abu-abu membumbung tebal memenuhi udara gudang. Empat prajurit berzirah komposit hitam dari Faksi Syndicate Vane menerobos masuk menembus kepulan asap, exoskeleton pneumatik mereka menghembuskan uap tekanan tinggi setiap kali mereka melangkah.
+Tidak ada klik, tidak ada suara. Drive itu terbuka dari dalam, membelah dirinya sendiri di sepanjang garis yang tidak terlihat, dan di dalamnya — bukan chip, bukan kabel — ada sebuah cairan. Logam cair, gelap, berkilau seperti merkuri yang telah disimpan terlalu lama, dan ketika drive itu terbuka, logam cair itu mulai bergerak.
 
-"Target kunci terkunci!" teriak prajurit terdepan lewat speaker internal helmnya. "Ambil modul Aether Cipher dan eliminasi kurir!"
+Ren menjatuhkan drive itu. Logam cair itu jatuh bersama, mendarat di lantai gudang tanpa suara, dan mulai merayap — bukan mengalir, merayap, dengan tujuan — melintasi lantai beton yang basah, melewati tumpukan kardus, menuju arahnya.
 
-Rentetan tembakan berperedam meletus mendahului perintah musuh!
+Ren berdiri. Logam itu berhenti. Ren melangkah ke kiri; logam itu berputar, mengikuti. Ren melangkah ke kanan; logam itu berputar, mengikuti — dan Ren menyadari, dengan dingin yang merambat di punggungnya, bahwa logam itu sedang mencarinya. Bahwa ia telah mencarinya sejak drive itu tiba. Bahwa mawar itu bukan penanda pengirim. Mawar itu adalah tanda kepemilikan — dan logam cair itu tahu pemiliknya.
 
-Ren melompat guling di atas lantai semen, berlindung di balik tumpukan palet kayu basah. Peluru-peluru kinetik musuh menghantam palet kayu tempat Ren berdiri sepetik lalu, menyemburkan serpihan kayu dan bunga api panas.
+Ia tidak sempat lari.
 
-Namun guncangan dari ledakan granat pneumatik membuat peti baja di atas meja titanium terlempar jatuh. Drive titanium di dalamnya pecah terbelah dua saat menghantam lantai!
+---
 
-BZZZZZZZZT!
+Dinding gudang itu meledak dari sisi barat.
 
-Cairan logam cair berwarna keemasan bercahaya terang menyembur keluar dari dalam drive titanium yang hancur. Seperti cairan raksa yang memiliki kesadaran sendiri, logam cair itu meluncur cepat di atas lantai semen basah, menerobos tumpukan palet kayu, dan merakit dirinya secara otomatis membalut pergelangan tangan kanan Ren!
+Bukan ledakan — lebih dari itu: dinding beton itu pecah ke dalam seperti kertas yang diremas, dan melalui lubang itu, empat sosok masuk — pasukan berzirah komposit hitam, exoskeleton pneumatik di punggung mereka mengembuskan uap tekanan tinggi setiap kali mereka melangkah, helm penuh dengan visor gelap yang tidak memperlihatkan wajah. Di dada masing-masing, dicat abu-abu, sebuah logo: segitiga di dalam lingkaran — lambang yang tidak pernah Ren lihat di depan mata, hanya di layar berita yang dengan cepat ia tutup.
 
-"ARGGGHHHHH!"
+Syndicate Vane.
 
-Jeritan kesakitan Ren pecah memecah keheningan gudang. Sensasi yang dirasakannya luar biasa dahsyat—seolah-olah ratusan jarum tembaga mendidih ditusukkan bersamaan menembus pori-pori kulit, jaringan otot, dan pembuluh darah di lengan kanannya. Pelat-pelat besi hitam berukir garis-garis tembaga bercahaya biru mengunci pergelangan tangannya hingga ke siku secara permanen.
+Ren mengenal nama itu seperti semua orang Shinjuku Bawah mengenal nama itu: sebagai nama yang tidak diucapkan, nama yang ditulis di komentar yang lalu dihapus, nama yang menjadi alasan kurir-kurir tertentu berhenti muncul di aplikasi Cipher Run tanpa kabar. Syndicate Vane adalah tangan panjang Apex Corporation, kata orang; Syndicate adalah pasal yang tidak tertulis, kata yang lain; Syndicate adalah alasan ada drive yang tidak pernah sampai, kata kurir-kurir yang paling berani. Ren tidak pernah mengira Syndicate akan datang ke gudangnya. Ia tidak pernah mengira ia adalah orang yang cukup penting untuk itu.
 
-Di balik dinding-dinding tinggi Sektor B, aliran energi jaringan listrik publik berdesing konstan, menyalurkan jutaan megawatt daya ke menara-menara pencakar langit Apex Corporation. Setiap kabel serat optik yang melintas di bawah beton jalanan menyimpan ribuan transaksi data rahasia, rekaman pemindaian emosi warga kota, dan dokumen eksekusi proyek-proyek militer independen. Ren Kaelen menatap pendaran indikator HUD di visorkanannya, mengkalkulasi selisih waktu antara patroli drone inframerah dan pergerakan penjaga lapangan. Dalam pertempuran di dunia bawah tanah Neo-Tokyo, sepersekian detik kelewatan bisa berarti perbedaan antara lolos tanpa terdeteksi atau terkunci di dalam perangkap laser otomatis.
+"Target terkonfirmasi," kata pasukan terdepan, suaranya keluar dari kisi-kisi helmnya seperti suara yang telah dipakai orang lain lebih dulu. "Ambil modulnya. Amankan kurirnya."
 
-Ia mengingat masa-masa ketika ia masih berlatih di akademi parkour Sektor 9, di mana pelatihnya selalu menekankan bahwa momentum bukan sekadar kecepatan fisik, melainkan penyelarasan antara gerakan tubuh, pernapasan, dan kesadaran terhadap lingkungan sekitar. Prinsip wushu dan parkour yang ia pelajari di masa muda menjadi perisai utama yang menopangnya saat ini. Ketika teknologi paramiliter berisiko merenggut kebebasan manusia, pemahaman mendalam tentang tatanan fisik dan aliran energi qi menjadi kunci tunggal untuk melampaui batas-batas mekanis exoskeleton musuh.
+Mereka menembak lebih dulu sebelum perintah itu selesai.
 
-Setiap desisan uap amonia dari saluran pendingin luar, setiap guncangan halus dari kereta melayang yang melintas di atas rel, dan setiap pantulan cahaya neon di atas permukaan genangan air hujan diproses oleh otak Ren sebagai peta taktis yang hidup. Ia bergerak tanpa keraguan, melompati celah-celah balok baja dan merayap di sepanjang dinding beton kusam. Bagi warga biasa, Shinjuku Bawah adalah labirin kelam yang dipenuhi kejahatan dan polusi industri; namun bagi Ren Kaelen, lorong-lorong bayangan ini adalah rumah, ruang pertempuran, dan tempat di mana ia berdiri menjaga harapan orang-orang yang terpinggirkan oleh raksasa korporasi.
+Peluru kinetik — proyektil berat yang dilontarkan dengan dorongan magnetik — menghantam dinding di belakang Ren dan merobek tumpukan kardus seperti kertas. Ren berguling ke belakang rak logam yang menyelamatkannya, merasakan sakit yang tajam di pergelangan kakinya ketika ia mendarat, dan meraih helmnya — helm taktis yang selalu ia simpan di samping tikarnya, siap dipakai, karena kurir di Shinjuku Bawah selalu siap.
 
-Perjalanan menelusuri jaringan lorong bawah tanah Neo-Tokyo membawa Ren berhadapan dengan kenyataan pahit tentang bagaimana teknologi canggih kerap disalahgunakan oleh pihak berkuasa. Di balik kedok perusahaan penyedia layanan kesehatan dan integrasi cybernetic yang megah, Apex Corporation memanen energi biologis dan memori manusia secara paksa demi melengkapi proyek Aetheric Godframe. Korban-korban dari proyek ini bukan sekadar angka statistik di dalam dokumen terenkripsi, melainkan individu-individu yang kehilangan identitas, nama, dan kenangan tentang keluarga mereka.
+Di lantai, di antara serpihan beton, logam cair itu masih bergerak. Ia merayap di antara puing-puing, menghindari pijakan pasukan yang berzirah, dan meluncur menuju Ren dengan tujuan yang tidak berubah.
 
-Master Kenzo dan Kira telah menghabiskan waktu bertahun-tahun mengumpulkan bukti kejahatan tersebut dari balik basemen tua yang remang-remang. Dengan bantuan alat-alat solder tradisional, modul sirkuit bekas, dan perangkat lunak peretas buatan sendiri, mereka membangun perlawanan independen yang tak terlihat di radar keamanan utama. Kehadiran Ren dan menyatunya modul Astra Cipher dengan tubuhnya menjadi titik balik dalam perjuangan panjang ini. Astra Cipher bukan lagi sekadar relik kuno yang dicari oleh pemburu artefak, melainkan simbol perlawanan terhadap hegemoni korporasi gaib.
+"Aku tidak punya modul apa pun," teriak Ren, sambil merangkak mundur. "Kalian salah orang. Aku cuma kurir."
 
-Saat Ren memfokuskan aliran pernapasannya, ia merasakan kehangatan teratur menjalar dari pangkal bahunya menuju ujung jemari tangan besinya. Pendaran garis tembaga pada pelat Astra Cipher merespons keteguhan hatinya, memancarkan cahaya biru keemasan yang stabil dan tidak lagi membakar sel-sel saraf fisiknya. Pengalaman bertarung bersama Pak Seno dan Laras di masa lalu di Jakarta serta bimbingan Master Kenzo di Neo-Tokyo membuktikan bahwa harga kekuatan yang sesungguhnya hanya bisa ditanggung oleh seseorang yang bertarung bukan untuk kepentingan diri sendiri, melainkan untuk melindungi kehidupan orang lain.
+"Kau membawa modul itu ke sini," kata pasukan itu. "Kau membukanya. Ia sudah memilihmu. Dan sekarang ia milik Syndicate."
 
-Di puncak pertempuran di helipad Menara Apex, gesekan antara energi Aetherik kuno dan teknologi plasma modern melepaskan gelombang kejut yang menghempaskan awan badai di atas Shinjuku. Kilatan petir keemasan dari tinju Astra Cipher membelah kegelapan malam, memancarkan kejelasan fokus jiwa yang tak tergoyahkan. Kehancuran kerangka Aetheric Godframe milik Director Vane menandai berakhirnya era ketakutan bagi warga kota yang selama ini menjadi target eksperimen paksa.
+Ren menatap logam cair yang sedang merayap mendekat. Ia tidak tahu apa itu — modul, kata mereka; ia tidak tahu apa artinya — tetapi ia tahu satu hal: logam itu telah mengejarnya sejak ia membuka drive, dan pasukan itu datang untuk mengambilnya, dan di antara keduanya, Ren berada di tengah.
 
-Penyebaran berkas rahasia oleh Kira ke konsorsium media internasional memicu reaksi berantai yang tidak bisa dihentikan oleh otoritas korporasi mana pun. Garis-garis data yang merinci skandal penyerapan memori dan penindasan paramiliter terbongkar luas di ruang publik, memaksa lembaga penegak hukum untuk turun tangan menyegel seluruh fasilitas rahasia Apex Corporation. Bagi Ren, kemenangan ini bukan sekadar kekalahan bagi Syndicate Vane, melainkan pemulihan atas martabat manusia yang telah diinjak-injak oleh keserakahan teknologi.
+Dan logam cair itu mencapai kakinya.
 
-Ketika matahari fajar menyingsing di atas cakrawala Neo-Tokyo, menyinari jalanan aspal yang basah dan papan reklame neon yang perlahan padam, kota itu terasa bernapas kembali dengan kedamaian yang baru. Di bekas kedai ramen tua yang kini menjadi stasiun perlindungan kurir data bawah tanah, Ren Kaelen berdiri menatap langit pagi dengan senyum tenang. Lengan besinya yang terbungkus sarung tangan kargo hitam berdenyut halus—sebuah pengingat abadi bahwa ia adalah penempa karma, pelindung malam yang akan selalu siap menembus kegelapan demi menjaga harapan dan kebenaran.
+Ren merasakan sentuhan itu — dingin, lalu panas, lalu dingin lagi — dan sebelum ia sempat melompat mundur, logam itu membalut pergelangan tangannya. Tidak — merakit. Logam itu membelah menjadi segmen-segmen kecil yang berputar mengikuti kontur kulitnya, mengunci sendi demi sendi dari buku jari sampai siku dengan bunyi klik yang presisi dan tidak tergesa-gesa. Ketika selesai, modul itu terasa seperti bagian dari tubuhnya — hangat, bernapas, dan hidup dengan denyut yang tidak ia miliki sebelumnya.
 
-Perjalanan menelusuri jaringan lorong bawah tanah Neo-Tokyo membawa Ren berhadapan dengan kenyataan pahit tentang bagaimana teknologi canggih kerap disalahgunakan oleh pihak berkuasa. Di balik kedok perusahaan penyedia layanan kesehatan dan integrasi cybernetic yang megah, Apex Corporation memanen energi biologis dan memori manusia secara paksa demi melengkapi proyek Aetheric Godframe. Korban-korban dari proyek ini bukan sekadar angka statistik di dalam dokumen terenkripsi, melainkan individu-individu yang kehilangan identitas, nama, dan kenangan tentang keluarga mereka.
+Ren mengepalkan tangan kanannya, dan garis-garis tembaga di modul itu menyala biru.
 
-Master Kenzo dan Kira telah menghabiskan waktu bertahun-tahun mengumpulkan bukti kejahatan tersebut dari balik basemen tua yang remang-remang. Dengan bantuan alat-alat solder tradisional, modul sirkuit bekas, dan perangkat lunak peretas buatan sendiri, mereka membangun perlawanan independen yang tak terlihat di radar keamanan utama. Kehadiran Ren dan menyatunya modul Astra Cipher dengan tubuhnya menjadi titik balik dalam perjuangan panjang ini. Astra Cipher bukan lagi sekadar relik kuno yang dicari oleh pemburu artefak, melainkan simbol perlawanan terhadap hegemoni korporasi gaib.
+Dan pada saat itulah pasukan Syndicate Vane menembak lagi.
 
-Saat Ren memfokuskan aliran pernapasannya, ia merasakan kehangatan teratur menjalar dari pangkal bahunya menuju ujung jemari tangan besinya. Pendaran garis tembaga pada pelat Astra Cipher merespons keteguhan hatinya, memancarkan cahaya biru keemasan yang stabil dan tidak lagi membakar sel-sel saraf fisiknya. Pengalaman bertarung bersama Pak Seno dan Laras di masa lalu di Jakarta serta bimbingan Master Kenzo di Neo-Tokyo membuktikan bahwa harga kekuatan yang sesungguhnya hanya bisa ditanggung oleh seseorang yang bertarung bukan untuk kepentingan diri sendiri, melainkan untuk melindungi kehidupan orang lain.
+---
 
-Di balik dinding-dinding tinggi Sektor B, aliran energi jaringan listrik publik berdesing konstan, menyalurkan jutaan megawatt daya ke menara-menara pencakar langit Apex Corporation. Setiap kabel serat optik yang melintas di bawah beton jalanan menyimpan ribuan transaksi data rahasia, rekaman pemindaian emosi warga kota, dan dokumen eksekusi proyek-proyek militer independen. Ren Kaelen menatap pendaran indikator HUD di visorkanannya, mengkalkulasi selisih waktu antara patroli drone inframerah dan pergerakan penjaga lapangan. Dalam pertempuran di dunia bawah tanah Neo-Tokyo, sepersekian detik kelewatan bisa berarti perbedaan antara lolos tanpa terdeteksi atau terkunci di dalam perangkap laser otomatis.
+Ren tidak ingat kapan ia mulai menyerang.
 
-Ia mengingat masa-masa ketika ia masih berlatih di akademi parkour Sektor 9, di mana pelatihnya selalu menekankan bahwa momentum bukan sekadar kecepatan fisik, melainkan penyelarasan antara gerakan tubuh, pernapasan, dan kesadaran terhadap lingkungan sekitar. Prinsip wushu dan parkour yang ia pelajari di masa muda menjadi perisai utama yang menopangnya saat ini. Ketika teknologi paramiliter berisiko merenggut kebebasan manusia, pemahaman mendalam tentang tatanan fisik dan aliran energi qi menjadi kunci tunggal untuk melampaui batas-batas mekanis exoskeleton musuh.
+Ia ingat proyektil-proyektil itu datang — tiga, empat, lima — dan ia ingat modul di lengannya menyala penuh dengan sendirinya, dan dunia di sekelilingnya menjadi aneh: bukan lambat seperti di film, tetapi *terputus*, seperti seseorang telah memotong kabel-kabel yang menghubungkan dunia ke dirinya. Suara meredup. Cahaya membias. Dan di antara proyektil yang melayang dan dirinya, ada sesuatu yang tidak seharusnya ada: garis-garis cahaya, tipis seperti benang, yang menghubungkan setiap proyektil ke sesuatu yang tidak terlihat.
 
-Setiap desisan uap amonia dari saluran pendingin luar, setiap guncangan halus dari kereta melayang yang melintas di atas rel, dan setiap pantulan cahaya neon di atas permukaan genangan air hujan diproses oleh otak Ren sebagai peta taktis yang hidup. Ia bergerak tanpa keraguan, melompati celah-celah balok baja dan merayap di sepanjang dinding beton kusam. Bagi warga biasa, Shinjuku Bawah adalah labirin kelam yang dipenuhi kejahatan dan polusi industri; namun bagi Ren Kaelen, lorong-lorong bayangan ini adalah rumah, ruang pertempuran, dan tempat di mana ia berdiri menjaga harapan orang-orang yang terpinggirkan oleh raksasa korporasi.
+Ren mengenal garis-garis itu. Ia tidak tahu dari mana ia mengenalnya — sama seperti mawar itu, sama seperti goresan di dinding tangga itu — tetapi ia mengenalnya: garis-garis yang menghubungkan benda ke niat, data ke sumber, efek ke sebab. Selama tiga tahun ia membawa paket-paket tanpa pernah membukanya, ia telah belajar membaca kota ini dari permukaannya: siapa yang bergerak, ke mana, dengan kecepatan berapa. Tetapi ia tidak pernah melihat permukaan di bawah permukaan — lapisan di mana semua gerakan itu terhubung, seperti benang pada wayang yang tidak pernah ia tahu ada.
 
-Di balik dinding-dinding tinggi Sektor B, aliran energi jaringan listrik publik berdesing konstan, menyalurkan jutaan megawatt daya ke menara-menara pencakar langit Apex Corporation. Setiap kabel serat optik yang melintas di bawah beton jalanan menyimpan ribuan transaksi data rahasia, rekaman pemindaian emosi warga kota, dan dokumen eksekusi proyek-proyek militer independen. Ren Kaelen menatap pendaran indikator HUD di visorkanannya, mengkalkulasi selisih waktu antara patroli drone inframerah dan pergerakan penjaga lapangan. Dalam pertempuran di dunia bawah tanah Neo-Tokyo, sepersekian detik kelewatan bisa berarti perbedaan antara lolos tanpa terdeteksi atau terkunci di dalam perangkap laser otomatis.
+Malam itu, di gudang yang hancur itu, Ren Kaelen melihat benang-benang itu untuk pertama kalinya — dan ia mengerti, dengan kejelasan yang datang dari tempat yang tidak bisa ia jelaskan, bahwa modul di lengannya tidak diciptakan untuk membunuh. Ia diciptakan untuk memotong. Dan bahwa di kota yang hidup dari koneksi, orang yang bisa memotong koneksi adalah orang yang paling berbahaya.
 
-Ia mengingat masa-masa ketika ia masih berlatih di akademi parkour Sektor 9, di mana pelatihnya selalu menekankan bahwa momentum bukan sekadar kecepatan fisik, melainkan penyelarasan antara gerakan tubuh, pernapasan, dan kesadaran terhadap lingkungan sekitar. Prinsip wushu dan parkour yang ia pelajari di masa muda menjadi perisai utama yang menopangnya saat ini. Ketika teknologi paramiliter berisiko merenggut kebebasan manusia, pemahaman mendalam tentang tatanan fisik dan aliran energi qi menjadi kunci tunggal untuk melampaui batas-batas mekanis exoskeleton musuh.
+Ren tidak mengerti apa yang ia lihat. Tetapi tubuhnya mengerti.
 
-Setiap desisan uap amonia dari saluran pendingin luar, setiap guncangan halus dari kereta melayang yang melintas di atas rel, dan setiap pantulan cahaya neon di atas permukaan genangan air hujan diproses oleh otak Ren sebagai peta taktis yang hidup. Ia bergerak tanpa keraguan, melompati celah-celah balok baja dan merayap di sepanjang dinding beton kusam. Bagi warga biasa, Shinjuku Bawah adalah labirin kelam yang dipenuhi kejahatan dan polusi industri; namun bagi Ren Kaelen, lorong-lorong bayangan ini adalah rumah, ruang pertempuran, dan tempat di mana ia berdiri menjaga harapan orang-orang yang terpinggirkan oleh raksasa korporasi.
+Ia mengangkat tangan kanannya, dan modul itu menjawab — tidak, modul itu *memimpin* — dan Aether Spark meledak keluar dari telapak tangannya: petir biru yang tidak membakar, tetapi memotong. Ia memotong garis-garis cahaya itu, satu per satu, dan setiap garis yang terpotong membuat proyektil itu jatuh ke lantai seperti boneka yang kehilangan talinya.
+
+Empat proyektil jatuh. Yang kelima — yang sudah terlalu dekat — tidak sempat.
+
+Ren tidak ingat apa yang terjadi pada proyektil kelima. Ia hanya ingat ledakan itu, dan tubuhnya yang terlempar ke dinding, dan rasa sakit di tulang rusuknya, dan modul di lengannya yang menyala lebih terang dari sebelumnya, seperti jantung yang baru saja dipukul dan memutuskan untuk melawan balik.
+
+Pasukan Syndicate itu tidak menyerang lagi. Mereka berdiri, menatap modul itu — menatap Ren — dan pasukan terdepan itu berkata, dengan suara yang tiba-tiba berbeda, suara yang lebih rendah, lebih manusiawi:
+
+"Modul sudah aktif. Spark pertama." Ia menatap Ren dengan visor yang gelap. "Kau tahu apa yang barusan kau lakukan, kurir? Kau baru saja memberi tahu seluruh kota bahwa kau ada."
+
+"Bagus," kata Ren, sambil bangkit dengan tulang rusuk yang terasa retak. "Sekarang mereka tahu aku ada. Pergilah."
+
+"Kita belum selesai."
+
+"Kita sudah selesai." Ren mengangkat tangan kanannya, dan modul itu menyala biru sekali lagi. "Kecuali kau ingin melihat Spark kedua."
+
+Pasukan itu tidak menjawab. Mereka saling memandang — empat helm gelap yang tidak memperlihatkan apa pun — lalu pasukan terdepan itu mengangkat tangannya, dan mereka mundur, satu per satu, melalui lubang di dinding itu, meninggalkan gudang yang hancur dan Ren yang berdiri di tengahnya dengan tangan kanan yang menyala.
+
+Ren menunggu sampai suara exoskeleton mereka hilang dalam hujan. Lalu ia jatuh berlutut, merasakan rasa sakit di tulang rusuknya dan sesuatu yang lain — sesuatu yang lebih pelan, lebih dalam, seperti sebuah ruangan di dalam kepalanya yang baru saja menjadi kosong.
+
+Ia tidak ingat mengapa ia sedang menangis.
+
+Tidak — ia tidak ingat *apa yang ia lupa*. Itu yang lebih aneh. Ia tahu bahwa ada sesuatu yang hilang, tetapi ia tidak tahu apa — seperti kehilangan sebuah kata yang ada di ujung lidah, tetapi untuk sesuatu yang jauh lebih besar daripada kata.
+
+Ia menatap modul di lengannya. Garis-garis tembaga itu masih menyala, pelan, seperti pernapasan.
+
+"Kau," kata Ren kepada modul itu, dengan suara yang tidak ia kenali, "baru saja mengambil sesuatu dariku."
+
+Modul itu tidak menjawab. Tetapi di dalam kepalanya, di ruangan yang baru saja menjadi kosong, ada sisa — bukan ingatan, tetapi jejak ingatan, seperti bekas yang ditinggalkan foto yang telah dipindahkan: kucing. Seekor kucing berwarna oranye, dengan satu telinga yang robek, yang tidur di pangkuannya, yang mengeong dengan suara yang serak, yang — yang —
+
+Ren berhenti. Jejak itu tidak lengkap. Ia bisa merasakan bentuknya, tetapi tidak isinya: ia tahu bahwa ia pernah memiliki seekor kucing, tetapi ia tidak bisa mengingat wajahnya, tidak bisa mengingat namanya, tidak bisa mengingat kapan ia kehilangannya. Semua yang tersisa adalah ruang kosong yang berbentuk kucing.
+
+Ia duduk di lantai gudang yang hancur itu cukup lama, dengan hujan masuk melalui lubang di dinding, dan menatap modul di lengannya, dan mencoba — dengan seluruh kekuatannya — untuk mengingat nama kucing itu.
+
+Ia tidak bisa.
+
+Dan untuk pertama kalinya dalam tiga tahun, Ren Kaelen merasa takut — bukan takut pada Syndicate, bukan takut pada pasukan yang akan kembali, tetapi takut pada dirinya sendiri: takut bahwa ia sedang kehilangan sesuatu, dan bahwa ia bahkan tidak tahu apa yang ia miliki untuk hilang.
+
+Ia mengambil buku kecil dari sakunya — buku yang selalu ia bawa, buku yang ia gunakan untuk mencatat rute paket — dan membukanya di halaman yang masih kosong. Di halaman itu, ia menulis, dengan tangan yang masih gemetar:
+
+*1. Kucing. Oranye. Telinga robek. Namanya — tidak ingat. Hilang setelah Spark pertama.*
+
+Ia menatap tulisan itu lama. Lalu ia menutup buku itu, menyimpannya kembali di saku, dan berdiri — dengan tulang rusuk yang terasa seperti patah di dua tempat, dengan pergelangan kaki yang berdenyut, dengan modul di lengannya yang berdenyut seperti jantung yang tidak pernah tidur — dan mulai mengemas apa yang tersisa dari gudang itu.
+
+Karena satu hal yang ia tahu, setelah malam ini: Syndicate akan kembali. Modul itu akan meminta harga lagi. Dan Ren Kaelen — kurir yang tidak tahu apa-apa, yang telah menjalani tiga tahun tanpa bertanya — tidak bisa lagi berpura-pura bahwa ia tidak tahu apa-apa.
+
+Ia tahu apa yang ia lupa. Dan ia tahu bahwa ia tidak akan berhenti sampai ia mengingatnya.
+
+Sebelum meninggalkan gudang itu, Ren mengambil dua hal: helmnya, yang telah menyelamatkan kepalanya, dan kotak sepatu berisi foto-foto itu, yang tidak rusak karena ia menaruhnya di rak yang tidak kena ledakan. Ia menatap foto yang gelap itu sekali lagi — foto dengan titik cahaya di tengahnya — dan ia menyadari sesuatu yang tidak pernah ia sadari sebelumnya: titik cahaya itu bukan lampu jalan. Titik itu adalah mata.
+
+Foto itu tidak menunjukkan sebuah tempat. Foto itu menunjukkan seseorang — seseorang yang berdiri membelakangi cahaya, yang wajahnya gelap, yang sedang menatap orang yang mengambil foto itu.
+
+Ren menutup kotak itu, memasukkannya ke dalam tas, dan keluar dari gudang itu melalui lubang di dinding, ke dalam hujan yang tidak pernah berhenti. Di belakangnya, modul di lengannya berdenyut pelan, mengikuti ritme jantungnya, dan di suatu tempat di kota Atas, di dalam gedung tanpa jendela, pria setengah-logam itu menatap layar dengan titik yang kini menyala terang.
+
+"Spark pertama," katanya, dan ada kepuasan di suaranya, seperti orang yang mendengar mesin yang ia rakit akhirnya menyala. "Biarkan ia mengenal rasanya. Kurir yang takut kehilangan ingatannya sendiri adalah kurir yang paling mudah dipanen."

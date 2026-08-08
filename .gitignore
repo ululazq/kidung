@@ -6,6 +6,9 @@ dist/
 .env.production
 *.log
 .DS_Store
-Thumbs.db
-.claude/
+Thumbs.db.claude/
 .scratch/
+
+# Local app state & temp downloads
+.freebuff/
+novels/.tmp.drivedownload/

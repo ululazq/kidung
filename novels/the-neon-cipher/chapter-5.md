@@ -1,70 +1,128 @@
 ---
-title: "Bab 5: Infiltration at Apex Tower"
+title: "Bab 5: Cloud Memori"
 chapter: 5
 ---
 
-# Bab 5: Infiltration at Apex Tower
+Malam Sabtu, Neo-Tokyo terasa lebih sepi dari biasanya.
 
-Angin badai malam berhembus kencang melintasi fasad kaca Menara Apex di pusat kota Sektor 1. Gedung pencakar langit delapan puluh lantai itu berdiri megah seperti menara perak raksasa, dibungkus oleh panel-panel kaca reflektif dan sorotan lampu laser pemindai keamanan.
+Tidak ada yang mengumumkannya. Tidak ada sirene, tidak ada pemberitahuan. Tetapi menjelang jam delapan, lampu-lampu di Shinjuku Bawah padam satu per satu, papan reklame holografik berkedip lebih redup, dan orang-orang menutup pintu mereka lebih awal, tanpa bisa menjelaskan mengapa. Mereka hanya merasa, dengan naluri yang sama yang membuat mereka tahu kapan harus menyimpan payung, bahwa malam ini bukan malam yang baik untuk berada di jalan.
 
-Di atas balok baja struktur pendingin luar lantai lima puluh, Ren bergerak merayap dengan kelincahan kucing malam. Setiap pijakan kakinya di atas permukaan baja licin dilakukan dengan ritme pernapasan qi gong yang teratur ketat. Lengan besi kanannya dibungkus rapat oleh kain kargo hitam tebal untuk menutup pendaran sigil Astra Cipher.
+Ren merasakan hal yang sama. Ia berdiri di atap gedung parkir di Sektor 1, memandang Menara Apex yang menjulang di kejauhan — bukan sebagai landmark, tetapi sebagai sesuatu yang hidup, sesuatu yang bernapas dengan lambat di balik lampu-lampu kota. Modul di lengannya berdenyut mengikuti ritme jantungnya; di bahunya, Regulator itu berdenyut dengan ritme yang berbeda, seperti dua jam yang tidak sinkron.
 
-Melalui earphone taktis di telinga kirinya, suara Kira terdengar jernih berbisik: "Ren, kamu mendekati jendela ventilasi Sektor B. Dua turret laser otomatis berada lima meter di atasmu. Sudut pemindaian mereka berulang setiap delapan detik."
+"Jam sembilan," kata Kira di sampingnya. Ia mengenakan jaket hitam yang menutupi laptop yang menempel di punggungnya, dan di tangannya, sebuah alat kecil yang tidak pernah Ren lihat sebelumnya. "Pergeseran jaga dalam dua puluh menit. Kita punya satu jam sebelum mereka menyadari ada yang hilang."
 
-"Diterima," jawab Ren pelan tanpa menghentikan gerakannya.
+"Kalau kita beruntung," kata Ren.
 
-Ia menanti hingga sorot laser merah berputar membelakangi jalur pipa, lalu meluncur turun menggunakan teknik wall-run merayap di sepanjang panel kaca. Mendarat tanpa suara di peron perawatan luar lantai lima puluh.
+"Kita tidak pernah beruntung." Kira menatapnya. "Itulah sebabnya kita sudah di sini."
 
-Ren mengepalkan tinju Astra Cipher-nya, mengetuk panel kaca ganda dengan sentuhan frekuensi magnetik Iron Reflection.
+Mereka menyeberangi atap-atap yang menghubungkan blok Sektor 1 ke menara itu — poros ventilasi yang belum selesai, kata Kira; lorong antara lantai 51 dan 55, yang tidak pernah diperiksa siapa pun selama dua puluh tahun. Ren memimpin, karena di atap, ia adalah yang terbaik; Kira mengikuti, dengan langkah yang pasti seperti orang yang telah menghafal rute ini dalam pikirannya selama dua tahun, menunggu alasan untuk menggunakannya.
 
-KRAK!
+Poros ventilasi itu terbuka seperti pintu yang telah lama menunggu: panel besi yang longgar, ruang sempit di baliknya yang berbau debu dan logam yang tidak pernah dibersihkan. Ren masuk lebih dulu, dengan helm taktisnya — helm dengan HUD hijau yang menyala redup, dan dengan satu sisi yang mati: kamera di sisi kiri helm itu telah rusak tiga tahun lalu, dan Ren tidak pernah memperbaikinya, karena ia telah belajar melihat dunia dengan satu mata dan mengingat bahwa apa yang tidak terlihat bisa saja ada.
 
-Panel kaca tebal itu retak halus tanpa mengeluarkan suara ledakan. Ren mendorong panel kaca yang retak itu masuk, melompat mulus ke dalam koridor internal laboratorium Sektor B Menara Apex.
+"Mati di sisi kiri," bisik Kira, menatap helmnya. "Itu yang menyelamatkanmu."
 
-Udara di dalam laboratorium itu luar biasa dingin—mencapai minus sepuluh derajat Celsius. Uap es tebal melayang di sekitar rak-rak kaca tempat puluhan tabung reaksi dan komponen cybernetic Aetheric Godframe tertata rapi.
+"Kamera mati," kata Ren. "Bukan telinga mati."
 
-Di tengah laboratorium, di dalam sebuah tabung silinder kaca tebal bertekanan tinggi, diletakkan sebuah modul kristal kuarsa murni bercahaya keemasan terang bersama wadah Serum Aether-Anti.
+"Bukan itu maksudku." Kira menunjuk ke arah poros itu, ke arah sensor-sensor yang menggantung di langit-langit koridor di bawah mereka. "Sensor denyut nadi membaca panas tubuh. Tapi sensor itu juga membaca gerakan mata — HUD helm yang menyala di sisi kanan membuat mereka mengira ada dua sumber panas. Sisi matimu — sisi kiri yang gelap — tidak terbaca. Mereka melihat setengah dari dirimu. Itu membuatmu lebih mudah dilewatkan."
 
-"Gue ketemu kristal kuarsanya, Kira," kata Ren pelan sambil mendekati tabung titanium tersebut.
+Ren menatap helmnya. "Aku tidak pernah tahu itu."
 
-"Ambil kristal dan serum itu sekarang, Ren!" ujar Kira lewat earphone, suarasa dipenuhi ketegangan. "Gue sedang meretas berkas cetak biru Godframe lewat enkripsi jarak jauh!"
+"Tidak ada yang tahu," kata Kira. "Itulah gunanya rahasia."
 
-Ren memasukkan kode pelepasan mekanis yang diberikan Kira ke panel tabung titanium.
+---
 
-PWOOOOSH!
+Cloud Memori berada di lantai lima puluh, di balik dua lapis pintu baja dengan pemindai biometrik. Kira bekerja pada panel kunci itu selama lima menit — menempelkan alatnya, mengetik kode, mengganti frekuensi — dan ketika pintu pertama terbuka, ia mengusap keringat di dahinya dan berkata, tanpa menoleh: "Kalau ada yang menangkap kita, jangan bilang aku yang membuka pintunya."
 
-Uap nitrogen dingin menyembur keluar saat tabung titanium terlepas. Ren merenggut kristal kuarsa murni dan Serum Aether-Anti, mengamankannya ke dalam saku dalam jaket kargonya.
+"Kalau ada yang menangkap kita," kata Ren, "aku tidak akan sempat bilang apa-apa."
 
-Namun tepat ketika Kira menyelesaikan sembilan puluh sembilan persen proses pengunduhan data, layar monitor laboratorium mendadak berkedip merah terang!
+Pintu kedua terbuka dengan desis yang dingin, dan mereka masuk.
 
-ALARM! ALARM! AKSES OTORISASI DIBATALKAN OLEH DIRECTOR VANE!
+Cloud Memori bukanlah ruangan. Ia adalah sebuah katedral — katedral yang dibangun bukan untuk Tuhan, tetapi untuk ingatan. Ruangan itu gelap, diterangi hanya oleh cahaya pucat dari ribuan modul penyimpanan yang menggantung dari langit-langit seperti stalaktit, masing-masing berdenyut dengan cahaya yang berbeda — biru, hijau, emas — seperti bintang-bintang yang sedang tidur. Di tengah ruangan, sebuah inti server raksasa menjulang, dengan kabel-kabel yang turun ke lantai dan menyebar ke segala arah seperti akar.
 
-Sirene darurat berdaya tinggi meledak meraung-raung di seluruh lantai lima puluh Menara Apex! Lampu-lampu merah berputar liar di langit-langit laboratorium.
+Ren berdiri di ambang pintu, dan merasakan sesuatu yang tidak bisa ia jelaskan: bukan takut, bukan kagum. Sesuatu yang lebih pelan. Sesuatu yang lebih seperti mengenali — seperti berdiri di dalam kepalanya sendiri, di dalam ruangan yang telah lama ia hindari.
 
-BANG!
+Kira berjalan di antara modul-modul itu dengan alatnya, menempelkan sensor ke beberapa modul dan membaca hasilnya di layar pergelangan tangannya. "Kau tahu apa yang membuat tempat ini lebih buruk daripada yang terlihat?" katanya, tanpa menoleh. "Modul-modul ini tidak menyimpan ingatan utuh. Mereka menyimpan fragmen — potongan-potongan yang sudah dipotong, dikatalogkan, dan diberi harga. Apex tidak menyimpan ingatan orang seperti menyimpan buku. Mereka menyimpannya seperti menyimpan daging di pasar: dipotong, ditimbang, dijual per gram."
 
-Pintu baja laboratorium didobrak hingga terlepas dari engselnya oleh hantaman pukulan pneumatik raksasa dari luar!
+"Dan orang-orang yang kehilangannya?" tanya Ren.
 
-Sebuah sosok berarmor zirah tebal berlapis pelat titanium hitam dengan kerangka Aetheric Godframe bercahaya merah membara melangkah masuk menembus uap es.
+"Mereka tidak tahu," kata Kira. "Itulah bagian yang paling buruk. Mereka minum Serelium, mereka merasa lebih tenang, mereka lupa bahwa mereka lupa — dan mereka tidak pernah tahu bahwa sebagian dari diri mereka sedang menggantung di ruangan ini, dijual kepada orang yang tidak mereka kenal."
 
-Director Vane berdiri di ambang pintu.
+Ren berdiri di antara modul-modul itu, dan untuk sesaat, ia membayangkan — membayangkan ingatannya sendiri tergantung di sini, dipotong-potong, diberi harga, menunggu pembeli. Ia membayangkan seluruh hidupnya diubah menjadi katalog.
 
-"Selamat datang di jebakanmu sendiri, Kurir Ren Kaelen," ujar Director Vane dengan suara dingin yang dipenuhi dentuman mesin.
+"Kalau begitu," katanya, "kita ambil kembali."
 
-Di balik dinding-dinding tinggi Sektor B, aliran energi jaringan listrik publik berdesing konstan, menyalurkan jutaan megawatt daya ke menara-menara pencakar langit Apex Corporation. Setiap kabel serat optik yang melintas di bawah beton jalanan menyimpan ribuan transaksi data rahasia, rekaman pemindaian emosi warga kota, dan dokumen eksekusi proyek-proyek militer independen. Ren Kaelen menatap pendaran indikator HUD di visorkanannya, mengkalkulasi selisih waktu antara patroli drone inframerah dan pergerakan penjaga lapangan. Dalam pertempuran di dunia bawah tanah Neo-Tokyo, sepersekian detik kelewatan bisa berarti perbedaan antara lolos tanpa terdeteksi atau terkunci di dalam perangkap laser otomatis.
+"Ini," katanya, tanpa sadar. "Ini yang mereka ambil dari kurir-kurir itu."
 
-Ia mengingat masa-masa ketika ia masih berlatih di akademi parkour Sektor 9, di mana pelatihnya selalu menekankan bahwa momentum bukan sekadar kecepatan fisik, melainkan penyelarasan antara gerakan tubuh, pernapasan, dan kesadaran terhadap lingkungan sekitar. Prinsip wushu dan parkour yang ia pelajari di masa muda menjadi perisai utama yang menopangnya saat ini. Ketika teknologi paramiliter berisiko merenggut kebebasan manusia, pemahaman mendalam tentang tatanan fisik dan aliran energi qi menjadi kunci tunggal untuk melampaui batas-batas mekanis exoskeleton musuh.
+"Dan dari ribuan orang lain," kata Kira. "Orang-orang yang membeli Serelium, yang menandatangani perjanjian Cloud Memori, yang tidak pernah membaca syaratnya. Semua ingatan mereka disimpan di sini — dikatalogkan, dipanen, dijual kembali. Apex tidak menjual obat, Ren. Apex menjual orang-orang yang minum obatnya."
 
-Setiap desisan uap amonia dari saluran pendingin luar, setiap guncangan halus dari kereta melayang yang melintas di atas rel, dan setiap pantulan cahaya neon di atas permukaan genangan air hujan diproses oleh otak Ren sebagai peta taktis yang hidup. Ia bergerak tanpa keraguan, melompati celah-celah balok baja dan merayap di sepanjang dinding beton kusam. Bagi warga biasa, Shinjuku Bawah adalah labirin kelam yang dipenuhi kejahatan dan polusi industri; namun bagi Ren Kaelen, lorong-lorong bayangan ini adalah rumah, ruang pertempuran, dan tempat di mana ia berdiri menjaga harapan orang-orang yang terpinggirkan oleh raksasa korporasi.
+Ren berjalan ke tengah ruangan, di antara modul-modul yang menggantung, dan setiap modul yang ia lewati terasa seperti sedang memanggil — tidak dengan suara, tetapi dengan denyut, seperti jantung yang sedang menunggu. Ia berhenti di depan salah satu modul — modul dengan cahaya emas yang berdenyut pelan — dan tanpa berpikir, ia mengulurkan tangan dan menyentuhnya.
 
-Perjalanan menelusuri jaringan lorong bawah tanah Neo-Tokyo membawa Ren berhadapan dengan kenyataan pahit tentang bagaimana teknologi canggih kerap disalahgunakan oleh pihak berkuasa. Di balik kedok perusahaan penyedia layanan kesehatan dan integrasi cybernetic yang megah, Apex Corporation memanen energi biologis dan memori manusia secara paksa demi melengkapi proyek Aetheric Godframe. Korban-korban dari proyek ini bukan sekadar angka statistik di dalam dokumen terenkripsi, melainkan individu-individu yang kehilangan identitas, nama, dan kenangan tentang keluarga mereka.
+Modul itu menjawab.
 
-Master Kenzo dan Kira telah menghabiskan waktu bertahun-tahun mengumpulkan bukti kejahatan tersebut dari balik basemen tua yang remang-remang. Dengan bantuan alat-alat solder tradisional, modul sirkuit bekas, dan perangkat lunak peretas buatan sendiri, mereka membangun perlawanan independen yang tak terlihat di radar keamanan utama. Kehadiran Ren dan menyatunya modul Astra Cipher dengan tubuhnya menjadi titik balik dalam perjuangan panjang ini. Astra Cipher bukan lagi sekadar relik kuno yang dicari oleh pemburu artefak, melainkan simbol perlawanan terhadap hegemoni korporasi gaib.
+Ren tidak bisa menjelaskan apa yang terjadi. Ia hanya tahu bahwa untuk sesaat — hanya sesaat — ia melihat: bukan gambar, bukan suara, tetapi *rasa* — rasa duduk di pangkuan seseorang, rasa tangan yang mengusap rambutnya, rasa suara yang menyanyikan sesuatu tanpa kata-kata, dan bau — bau mawar, bau yang sama dengan drive di sakunya, bau yang sama dengan mawar yang ia tidak ingat dari mana ia mengenalnya.
 
-Saat Ren memfokuskan aliran pernapasannya, ia merasakan kehangatan teratur menjalar dari pangkal bahunya menuju ujung jemari tangan besinya. Pendaran garis tembaga pada pelat Astra Cipher merespons keteguhan hatinya, memancarkan cahaya biru keemasan yang stabil dan tidak lagi membakar sel-sel saraf fisiknya. Pengalaman bertarung bersama Pak Seno dan Laras di masa lalu di Jakarta serta bimbingan Master Kenzo di Neo-Tokyo membuktikan bahwa harga kekuatan yang sesungguhnya hanya bisa ditanggung oleh seseorang yang bertarung bukan untuk kepentingan diri sendiri, melainkan untuk melindungi kehidupan orang lain.
+Lalu sesaat itu berlalu, dan Ren berdiri di tengah Cloud Memori dengan tangan gemetar, dan ia menyadari bahwa ia sedang menangis.
 
-Di puncak pertempuran di helipad Menara Apex, gesekan antara energi Aetherik kuno dan teknologi plasma modern melepaskan gelombang kejut yang menghempaskan awan badai di atas Shinjuku. Kilatan petir keemasan dari tinju Astra Cipher membelah kegelapan malam, memancarkan kejelasan fokus jiwa yang tak tergoyahkan. Kehancuran kerangka Aetheric Godframe milik Director Vane menandai berakhirnya era ketakutan bagi warga kota yang selama ini menjadi target eksperimen paksa.
+"Ren." Kira datang, menatapnya. "Kau baik-baik saja?"
 
-Penyebaran berkas rahasia oleh Kira ke konsorsium media internasional memicu reaksi berantai yang tidak bisa dihentikan oleh otoritas korporasi mana pun. Garis-garis data yang merinci skandal penyerapan memori dan penindasan paramiliter terbongkar luas di ruang publik, memaksa lembaga penegak hukum untuk turun tangan menyegel seluruh fasilitas rahasia Apex Corporation. Bagi Ren, kemenangan ini bukan sekadar kekalahan bagi Syndicate Vane, melainkan pemulihan atas martabat manusia yang telah diinjak-injak oleh keserakahan teknologi.
+"Ini bukan ingatan orang lain," kata Ren, dan suaranya tidak seperti suaranya. "Ini — ini milikku. Aku tahu rasanya. Aku tahu baunya. Tapi aku tidak bisa — " ia berhenti, dan mencoba mengingat, dan menemukan ruang kosong yang berbentuk mawar, " — aku tidak bisa mengingatnya."
 
-Ketika matahari fajar menyingsing di atas cakrawala Neo-Tokyo, menyinari jalanan aspal yang basah dan papan reklame neon yang perlahan padam, kota itu terasa bernapas kembali dengan kedamaian yang baru. Di bekas kedai ramen tua yang kini menjadi stasiun perlindungan kurir data bawah tanah, Ren Kaelen berdiri menatap langit pagi dengan senyum tenang. Lengan besinya yang terbungkus sarung tangan kargo hitam berdenyut halus—sebuah pengingat abadi bahwa ia adalah penempa karma, pelindung malam yang akan selalu siap menembus kegelapan demi menjaga harapan dan kebenaran.
+Kira menatap modul itu, lalu menatap layar di pergelangan tangannya — layar yang telah ia sambungkan ke jaringan Cloud — dan berkata, dengan suara yang tiba-tiba hati-hati: "Modul itu tidak berlabel. Tidak ada nama pemilik, tidak ada tanggal panen. Tapi ada satu baris yang tidak seharusnya ada di dalam sistem: *Ditandai untuk panen ulang — wadah aktif.*"
+
+"Wadah?" tanya Ren.
+
+"Aku tidak tahu apa artinya," kata Kira. "Tapi aku tahu satu hal: kalau modul ini milikmu, dan modul ini ditandai untuk panen ulang, maka seseorang sedang menunggu kau kembali — bukan untuk menyelamatkanmu, tetapi untuk — " ia tidak menyelesaikan kalimatnya.
+
+Di kejauhan, di dasar menara, sebuah server yang lebih tua dari seluruh gedung mulai berputar — pelan, berat, seperti raksasa yang bergeser dalam tidurnya. Ren merasakannya melalui lantai, melalui kakinya yang sakit, melalui modul di lengannya yang berdenyut mengikuti ritme yang sama. Ia menatap Kira, dan Kira menatapnya, dan tanpa berkata apa-apa, mereka berdua memahami bahwa sesuatu di menara ini telah bangun.
+
+"Ambil apa yang kita butuhkan," kata Kira. "Kita pergi."
+
+---
+
+Mereka tidak pergi.
+
+Di layar monitor di seberang ruangan, sebuah teks muncul dalam huruf merah, tanpa suara, seperti tulisan yang telah menunggu mereka: *AKSES OTORISASI DIBATALKAN.*
+
+Dan di belakang mereka, pintu baja itu — pintu yang telah mereka buka dengan hati-hati — tertutup dengan bunyi yang tidak bisa disalahartikan: bunyi kunci yang dikunci dari luar.
+
+Lampu-lampu Cloud Memori tidak padam. Sebaliknya, lampu-lampu itu berubah — dari biru dan hijau dan emas menjadi satu warna: merah, denyut demi denyut, seperti ribuan jantung yang tiba-tiba berdetak bersamaan. Dan di dalam keheningan yang tiba-tiba itu, sebuah suara datang dari pengeras suara di langit-langit — suara yang rendah, tenang, dan sangat tua, seperti orang yang telah lama menunggu kesempatan untuk berbicara.
+
+"Ren Kaelen."
+
+Ren membeku. Ia belum pernah mendengar suara itu sebelumnya — dan tetap saja, seperti drive itu, seperti mawar itu, seperti bau di modul yang ia sentuh — suara itu terasa seperti sesuatu yang telah menunggunya.
+
+"Sudah tiga tahun," kata suara itu. "Aku mengira kau akan datang lebih cepat. Setelah drive itu sampai, aku mengira kau akan membukanya malam itu juga, dan kau akan datang ke sini dengan marah, dan aku akan — " suara itu berhenti, dan untuk sesaat, terdengar seperti sedang mencari kata, " — dan aku akan akhirnya bisa berbicara kepadamu, muka ke muka."
+
+"Siapa kau?" tanya Ren ke arah langit-langit. "Kenapa kau mengirim drive itu kepadaku? Kenapa kau menandai ingatanku untuk panen ulang?"
+
+"Kau tahu jawabannya," kata suara itu. "Kau tahu sejak kau menyentuh modul itu. Kau tahu bahwa ada sesuatu di ruangan ini yang milikmu — sesuatu yang lebih tua dari tiga tahun, lebih tua dari amnesia-mu, lebih tua dari semua yang kau ingat tentang dirimu sendiri."
+
+Di ujung Cloud Memori, di balik inti server, sebuah pintu yang tidak pernah Ren lihat sebelumnya terbuka — pintu yang tersembunyi di balik panel dinding — dan dari dalam kegelapan, dengan langkah yang berat dan teratur seperti mesin, sebuah sosok berjalan masuk.
+
+Tinggi, jauh lebih tinggi dari manusia biasa. Setengah tubuhnya adalah logam: lengan kanan yang bersendi, kaki yang berdetak seperti piston, dan wajah — setengah wajahnya masih manusia, dengan mata yang lelah dan garis-garis tua, dan setengah lainnya adalah kerangka logam dengan mata yang menyala merah.
+
+Director Vane berhenti di depan mereka, dan menatap Ren dengan mata manusia yang tersisa — mata yang, Ren menyadari dengan dingin yang merambat dari modul di lengannya, terlihat seperti mata yang telah lama mengenalnya.
+
+"Kau tidak mengenaliku," kata Director Vane. Bukan pertanyaan. "Tentu saja. Tiga tahun. Jatuh itu mengubahmu, Ren — dan kau tidak mengubahku."
+
+Ren menatap setengah wajah yang masih manusia itu. Dan kemudian, seperti roda gigi yang akhirnya menemukan posisinya, sesuatu yang telah lama terkubur di dalam dirinya berputar — dan ia mengenalinya.
+
+"Aku tidak mengenalimu," kata Ren, dan suaranya bergetar, tetapi tidak patah. "Tapi aku mengenali bau mawar itu."
+
+"Kau ingat baunya?" Director Vane menatapnya, dan untuk sesaat, ada sesuatu di matanya — bukan kejutan, tetapi sesuatu yang lebih pelan, seperti orang yang baru menyadari bahwa sesuatu yang ia kira sudah mati ternyata masih hidup. "Kau tidak ingat wajahnya, tidak ingat namanya, tidak ingat tiga tahun hidupmu — tetapi kau ingat baunya."
+
+"Aku tidak tahu kenapa," kata Ren. "Aku tidak tahu mengapa bau itu yang tersisa."
+
+"Karena bau adalah hal pertama yang tersimpan dan hal terakhir yang hilang," kata Director Vane. "Ia melewati bagian otak yang paling tua, bagian yang tidak bisa dihapus modul mana pun. Ibumu tahu itu. Ia menyimpan mawarnya di tempat yang tidak bisa kau lupakan — bukan untuk dikenang, tetapi untuk ditemukan kembali, suatu hari nanti, ketika kau siap."
+
+Ren menatapnya, dan di balik semua logam dan semua kebohongan, satu hal terasa benar — satu hal yang tidak bisa ia jelaskan, tetapi ia tahu: bahwa mawar itu memang ditinggalkan untuknya. Bahwa seseorang telah menanam sesuatu di dalam dirinya, jauh di dalam, yang tidak bisa dihapus oleh apa pun — dan bahwa ia baru saja menemukannya kembali, di tempat yang paling tidak ia duga.
+
+Director Vane tersenyum — setengah wajah yang tersisa itu tersenyum, dan senyum itu membuat Ren lebih takut daripada semua logam di tubuhnya.
+
+"Kau mengenalinya," kata Director Vane. "Karena mawar itu adalah tanda tangan ibumu, Ren. Dan aku — " ia mengangkat tangan logamnya, dan di dada zirahnya, di tempat yang telah lama pudar, sebuah bekas mawar tergores, " — adalah orang yang mengukirnya untuknya, dua puluh tahun yang lalu."
+
+Ruangan itu menjadi sunyi. Ren berdiri di tengah Cloud Memori, dengan modul-modul yang berdenyut merah di sekelilingnya, dan merasakan dunia terasa lebih kecil lagi — seperti seluruh kota ini, seluruh hidupnya, seluruh tiga tahun amnesia-nya, adalah bagian dari sesuatu yang lebih besar yang sedang berputar di sekelilingnya, dan ia baru saja melihat potong roda gigi yang paling penting.
+
+"Kau mengenal ibuku," bisik Ren.
+
+"Aku lebih dari mengenalnya," kata Director Vane, dan di matanya — di mata manusia yang tersisa itu — ada sesuatu yang tidak pernah Ren lihat sebelumnya, di mata siapa pun: penyesalan, sangat tua, seperti orang yang telah berdiri di depan pintu yang sama terlalu lama. "Aku membunuhnya."

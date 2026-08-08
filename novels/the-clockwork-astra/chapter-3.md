@@ -1,46 +1,122 @@
 ---
-title: "Bab 3: Escape Through Fog"
+title: "Bab 3: Terowongan Uap"
 chapter: 3
 ---
 
-# Bab 3: Escape Through Fog
+Edward berjalan selama empat puluh menit sebelum ia menyadari bahwa ia diikuti.
 
-Rintik hujan malam menyapu permukaan jalanan batu dan pipa-pipa uap melayang di sepanjang jalur utama Aether-London Bawah. Edward melompati pagar pembatas kayu dengan satu gerakan meluncur rendah, mendarat mulus di atas jalanan basah di dekat kereta dorongnya.
+Ia tidak berbalik. Di dermaga Thames Bawah, orang tidak berbalik ketika mereka merasa diikuti; mereka berbelok, berhenti di depan jendela yang mengilap, dan membaca pantulan. Edward berbelok di tikungan gudang garam, berhenti di depan jendela agen pengiriman yang tutup, dan di kaca yang gelap itu ia melihat sosok mantel hujan yang terlalu besar, yang berhenti juga, yang berpura-pura memeriksa tali sepatunya dengan cara yang terlalu sengaja.
 
-Lengan kuningan kanannya—Astra Horologium—terasa luar biasa berat, seolah-olah ia memikul batangan tembaga seberat tiga puluh kilogram di pergelangan tangannya. Pendaran garis-garis roda gigi pada pelat kuningan itu menyala redup dalam warna keemasan tua.
+Bukan prajurit Ministry — langkahnya terlalu ringan, dan tidak ada uap. Satu orang, perempuan, dengan tas kulit yang ia peluk. Edward menunggu tiga detik, lalu berbelok ke gang sempit di antara dua gudang — gang yang buntu, yang ia tahu buntu — dan berdiri di ujungnya, menghadap pintu masuk, dengan tongkatnya siap.
 
-Dari balik lorong bengkel yang hancur, dua kendaraan lapis baja uap milik Obsidian Ministry meluncur keluar dengan raungan mesin berdaya tinggi. Sorot lampu sorot merah membias menembus kabut hujan, mengunci posisi Edward di tengah jalan.
+Lima detik kemudian, mantel hujan itu muncul di mulut gang, melihat Edward berdiri menunggunya, dan mengangkat kedua tangannya dengan ekspresi orang yang baru saja tertangkap melakukan sesuatu yang tidak terlalu ia sesali.
 
-"Subjek berada di jalur utama!" jerit pengeras suara taktis kendaraan musuh. "Lumpuhkan roda kendaraannya!"
+"Oke," kata perempuan itu. "Kau lebih pintar dari yang kelihatan."
 
-Edward melompat ke atas kereta dorongnya, memutar tuas pendorong uap darurat dan menekan katup gas penuh!
+"Kau mengikutiku sejak gudang garam," kata Edward.
 
-BZZZZZZT!
+"Kau tahu?" Perempuan itu menurunkan tangannya, tidak tampak malu. "Aku hampir tidak percaya. Kakimu — maksudku, tidak ada yang bilang pengerajin jam bisa —"
 
-Kereta dorongnya melesat naik di sepanjang jalanan melayang dengan kecepatan tinggi! Ban besinya melepaskan cipratan air hujan tinggi saat Edward memotong jalur lalu lintas pelabuhan yang sepi.
+"Aku tidak bisa." Edward menatapnya. "Aku berhenti. Kau yang berhenti juga. Itu yang membuatmu ketahuan."
 
-Di belakangnya, dua kendaraan taktis musuh mengejar dengan kecepatan penuh. Tembakan meriam uap berkaliber berat meletus dari atap kendaraan musuh!
+Perempuan itu tersenyum — senyum yang cepat, seperti orang yang terbiasa memulihkan suasana lebih cepat daripada orang lain bisa marah. "Clara Ravenscroft. Jurnalis. Kantor pers independen di Sektor 9. Dan sebelum kau bertanya — ya, aku yang menulis tentang Depo Material dua tahun lalu, dan tidak, aku tidak pernah berhenti menulis. Aku cuma berhenti menerbitkan."
 
-Pfft-pfft-pfft-pfft!
+Edward tidak menjawab. Ia menatapnya, lalu menatap lengan kanannya yang terbungkus mantelnya, lalu menatap Clara lagi.
 
-Peluru-peluru berat menghantam dinding bata pembatas jalan dan tiang-tiang lampu gas di sekeliling Edward, menyemburkan bunga api dan serpihan kaca yang beterbangan di udara.
+"Kau tahu apa yang terjadi di bengkelku tadi malam?" tanyanya.
 
-Melalui perangkat komunikasi di telinganya, suara Clara Ravenscroft terdengar panik bercampur ketegangan: "Edward! Dua menara pemindai Obsidian Ministry di persimpangan pelabuhan telah mengunci sinyal energi Astra Horologium! Jalur keluar Sektor 4 ditutup total!"
+"Aku tahu Ministry keluar tengah malam," kata Clara. "Itu tidak pernah terjadi. Ministry tidak keluar untuk orang biasa. Jadi aku bertanya-tanya: siapa yang cukup penting? Dan jawabannya muncul di dermaga, membawa sarung lengan yang membuatnya — " ia menunjuk lengan Edward dengan dagunya, " — bersembunyi di balik mantel, padahal kota sedang hujan dan tidak ada yang melihat apa-apa."
 
-"Gue nggak bakal lewat jalur keluar standar, Clara!" jawab Edward tegas. "Matikan saluran uap publik di terowongan Chuo Line dalam lima detik!"
+"Kau tidak tahu apa-apa tentang sarung ini."
 
-Seketika itu juga, Clara meretas jaringan katup uap lokal! Seluruh uap panas menyembur tebal menyelimuti lorong tinggi itu dalam kegelapan dan uap putih pekat!
+"Aku tahu satu hal." Clara melangkah mendekat, suaranya turun. "Tadi malam, di Depo Material, ada dua truk yang keluar jam sebelas malam — lebih awal dari jadwal biasanya. Orang-orang dermaga yang terdaftar untuk relokasi minggu ini dibawa lebih awal. Aku tidak percaya itu kebetulan."
 
-Kendaraan taktis Obsidian Ministry kehilangan fokus pandangan, pengereman mendadak mereka membuat roda baja kendaraan tergelincir menabrak dinding bata.
+Edward berdiri diam. Ia ingin bertanya bagaimana Clara tahu semua ini, tetapi ia lebih ingin bertanya sesuatu yang lain, sesuatu yang telah ia tanyakan kepada dirinya sendiri sepanjang malam — dan untuk pertama kalinya, ada seseorang yang mungkin bisa menjawabnya.
 
-Di balik dinding-dinding bata merah tua kawasan pemukiman industri Aether-London, debu batu bara dan jelutong uap pneumatik membumbung konstan menembus kabut malam yang pekat. Suara gemuruh roda gigi raksasa dari pabrik-pabrik tekstil Kerajaan beradu dengan dentang lonceng gereja di kejauhan, menciptakan irama mekanis yang tak pernah berhenti. Edward Vance menatap pendaran indikator tembaga pada pergelangan tangannya, mengkalkulasi selisih waktu antara pergerakan pendoronguap musuh dan ritme pernapasan otaknya. Dalam dunia pertempuran bawah tanah yang dipenuhi konspirasi korporasi gaib, sepersekian detik keterlambatan bisa berarti perbedaan antara bertahan hidup atau terjerat di dalam perangkap besi Obsidian Ministry.
+"Di mana orang-orang itu dibawa?" tanyanya.
 
-Ia mengingat kembali tahun-tahun ketika ia masih bekerja di laboratorium penelitian sirkuit Kerajaan, di mana gurunya selalu menekankan bahwa mekanisme roda gigi bukan sekadar rakitan logam biasa, melainkan penyelarasan antara energi kinetik, suhu tubuh, dan kehendak murni penggunanya. Prinsip penempaan kuno yang ia pelajari di masa lalu menjadi benteng utama yang menopangnya saat ini. Ketika teknologi paramiliter berisiko merenggut kebebasan warga kota, pemahaman mendalam tentang tatanan fisik dan aliran energi qi menjadi kunci tunggal untuk melampaui batas-batas mekanis zirah uap musuh.
+"Ke Menara Big Ben," kata Clara. "Dan tidak ada yang pernah melihat mereka keluar."
 
-Setiap desisan uap panas dari pipa pelindung jalan, setiap guncangan halus dari kereta uap melayang yang melintas di atas jembatan rel, dan setiap pantulan cahaya lampu gas di atas permukaan genangan air hujan diproses oleh otak Edward sebagai peta taktis yang hidup. Ia bergerak tanpa keraguan, melompati celah-celah balok besi dan merayap di sepanjang dinding bata basah. Bagi warga biasa, lorong-lorong Aether-London adalah labirin kelam yang dipenuhi jelutong dan bahaya; namun bagi Edward Vance, tempat ini adalah ruang pertempuran tempat ia berdiri membela harapan orang-orang yang tertindas.
+---
 
-Perjalanan menelusuri jaringan bawah tanah mempertemukan Edward dengan kenyataan pahit tentang bagaimana ilmu pengetahuan canggih disalahgunakan oleh pimpinan Obsidian Ministry. Di balik kedok penyedia energi uap dan fasilitas kesehatan Kerajaan, Lord Malakor secara rahasia mengekstrak energi vitalitas dan memori manusia untuk melengkapi zirah Steam-Godframe. Korban-korban dari proyek tersebut bukan sekadar angka di dalam manifes rahasia, melainkan jiwa-jiwa manusia yang kehilangan hak atas ingatan dan kebebasan mereka.
+Mereka berjalan bersama menuju ujung dermaga, tempat terowongan uap yang lebih besar membelah kota Bawah dari kota Atas. Edward tidak bertanya mengapa Clara ikut; Clara tidak menawarkan penjelasan. Mereka hanya berjalan, dua orang yang telah belajar bahwa di Aether-London, kesunyian adalah bahasa yang paling sering digunakan orang yang tahu terlalu banyak.
 
-Master Alistair dan Clara Ravenscroft telah menghabiskan waktu bertahun-tahun mengumpulkan bukti kejahatan tersebut dari balik bengkel tua di pinggiran dermaga Thames. Dengan bantuan alat-alat tempa tradisional, sirkuit tembaga bekas, dan mesin sandi buatan sendiri, mereka membangun perlawanan independen yang tak terlihat di radar keamanan utama. Kehadiran Edward dan menyatunya Astra Horologium dengan tubuhnya menjadi titik balik dalam perjuangan ini. Astra Horologium bukan lagi sekadar relik kuno yang dicari oleh pemburu artefak, melainkan simbol perlawanan terhadap hegemoni korporasi gaib.
+Terowongan itu gelap dan hangat, dan berbau minyak yang dipanaskan. Di sepanjang dindingnya, pipa-pipa uap berdengung seperti organ yang tidak pernah berhenti memainkan satu nada. Edward berjalan dengan tongkatnya di satu tangan, lengan kanan dibungkus mantelnya, dan setiap beberapa menit ia merasakan denyut dari sarung itu — pelan, teratur, seperti jam yang sedang mengatur ulang dirinya sendiri.
 
-Saat Edward memfokuskan aliran pernapasannya, ia merasakan kehangatan teratur menjalar dari pangkal bahunya menuju ujung jemari tangan besinya. Pendaran garis tembaga pada pelat Astra Horologium merespons keteguhan hatinya, memancarkan cahaya keemasan jernih yang stabil dan tidak lagi membekukan pembuluh darah fisiknya. Pengalaman bertarung di masa lalu serta bimbingan para teknisi tua membuktikan bahwa harga kekuatan yang sesungguhnya hanya bisa ditanggung oleh seseorang yang bertarung bukan untuk kepentingan diri sendiri, melainkan untuk melindungi kehidupan orang lain.
+"Mau kuceritakan sesuatu yang tidak akan kau percaya?" kata Clara di tengah jalan.
+
+"Kau bisa coba."
+
+"Tiga hari lalu, aku mencatat waktu lonceng Big Ben." Clara mengeluarkan buku catatannya, membukanya di halaman yang penuh angka. "Empat belas hari berturut-turut. Awalnya akurat. Lalu, mulai tiga hari yang lalu, lonceng itu mulai berbunyi lebih cepat — bukan lebih awal, lebih cepat, seolah jam di dalam menara itu berdetak lebih kencang. Hari pertama, sebelas menit. Hari kedua, delapan belas. Hari ini — " ia menunjuk sebuah angka. " — dua puluh enam menit lebih cepat dari waktu sebenarnya. Dan seluruh kota menyesuaikan diri, Edward. Orang-orang dermaga bangun lebih pagi tanpa tahu kenapa, pabrik-pabrik mengubah jadwal, dan tidak ada yang menyadarinya kecuali kita berdua."
+
+Edward berhenti. Ia menatap Clara, lalu menatap langit-langit terowongan, lalu menatap lengan kanannya sendiri — dan untuk pertama kalinya, ia menyadari bahwa ia telah merasakan denyut sarung itu mengikuti ritme tertentu sepanjang malam. Ritme yang sama dengan lonceng yang tidak pernah berhenti.
+
+"Jam Besar," katanya pelan. "Itu namanya di buku-buku lama. Mesin di dasar Menara Big Ben. Seluruh kota disinkronkan padanya — pabrik, kereta, jadwal kerja. Kalau ia berdetak lebih cepat, seluruh kota ikut."
+
+"Kau tahu tentang Jam Besar?" Clara menatapnya. "Kebanyakan orang dermaga mengira Big Ben cuma menara jam."
+
+"Kebanyakan orang dermaga tidak pernah bekerja di kota Atas." Edward melanjutkan langkahnya. "Dan yang bekerja di sana belajar untuk tidak membicarakan Jam Besar dengan suara keras."
+
+Mereka berjalan lagi dalam keheningan. Di belakang mereka, di ujung terowongan yang jauh, sebuah bayangan berhenti di mulut terowongan — bukan prajurit, bukan mantel hujan. Sesuatu yang lebih rendah, yang bergerak dengan langkah yang teratur seperti mesin, yang menatap ke arah mereka dan kemudian menghilang kembali ke dalam uap.
+
+---
+
+Bengkel Master Alistair berada di ujung terowongan, di bawah jembatan rel yang tidak lagi dilewati kereta. Pintunya adalah papan besi yang tertutup karat, tanpa papan nama, tanpa jendela — dan ketika Edward mengetuknya dengan pola tertentu — tiga kali, jeda, dua kali — papan itu terbuka dari dalam dengan desis uap.
+
+Master Alistair berusia lima puluh delapan tahun, tetapi ia tampak lebih tua, dan kursi roda mekanisnya tampak lebih baru darinya. Rambutnya putih dan jarang, tangannya gemetar dengan getaran halus yang tidak pernah berhenti — getaran orang yang telah memegang alat penyolder terlalu lama dan terlalu sering. Ia melihat Edward berdiri di ambang pintu, lalu melihat lengan yang terbungkus mantel, dan wajahnya berubah — bukan kaget, bukan marah. Sesuatu yang lebih tua dari keduanya: pengakuan, seperti orang yang melihat sebuah mimpi buruk yang telah ia tunggu-tunggu kedatangannya.
+
+"Masuk," kata Master Alistair. "Dan tutup pintunya. Ada yang menyusul kalian — tidak, jangan menoleh, sudah lewat. Masuk."
+
+Di dalam, bengkel itu adalah kebalikan dari bengkel Edward: hangat, teratur, dan penuh dengan hal-hal yang tidak pernah dipajang orang di etalase. Di rak-rak, di antara alat tempa dan tabung kuarsa, tergantung cetak biru yang digulung rapat — cetak biru yang Edward tahu, dari satu garis yang terlihat di ujung gulungan, adalah cetak biru untuk sesuatu yang tidak boleh ada.
+
+"Kau tahu apa yang kau bawa pulang," kata Master Alistair, bukan pertanyaan. Ia mendorong kursi rodanya mendekati Edward. "Buka mantelmu. Biar kulihat."
+
+Edward membuka mantelnya. Sarung lengan kuningan itu menyala redup dalam cahaya bengkel, kuarsa di ukirannya berdenyut pelan, dan biru pucat di ujung jari Edward terlihat jelas sekarang — biru yang telah naik dari ujung jari ke buku jari pertama, seperti air pasang yang sabar.
+
+Master Alistair menatap sarung itu lama. Lalu ia menatap Edward, dan ada sesuatu di matanya yang tidak pernah Edward lihat di mata orang dewasa sebelum itu: rasa takut yang sangat tua, yang telah lama tinggal dan tidak berniat pergi.
+
+"Astra Horologium," katanya, menyebut nama itu dengan suara yang pelan dan hati-hati, seperti orang menyebut nama orang mati. "Roda yang Tidak Berhenti. Relik terakhir Sangha Network — dan aku tidak pernah mengira aku akan melihatnya dipakai lagi dalam hidupku."
+
+"Kau mengenalnya?" tanya Edward.
+
+"Setengah hidupku mencarinya," kata Master Alistair. "Setengah lagi — " ia menatap lengan Edward, " — mencoba melupakannya. Duduklah, Edward Vance. Kita punya banyak hal untuk dibicarakan, dan tidak banyak waktu. Jam Besar semakin lapar — dan aku bisa mendengarnya dari sini, sama seperti kau."
+
+Edward duduk. Clara duduk di sebelahnya, buku catatan sudah terbuka, pensil sudah siap — dan untuk pertama kalinya malam itu, di dalam bengkel yang hangat di bawah jembatan rel yang mati, tiga orang yang masing-masing tahu terlalu banyak duduk mengelilingi sebuah sarung lengan kuningan yang berdenyut seperti jantung, dan mulai membicarakan harga yang harus dibayar untuk kekuatan yang tidak diminta siapa pun.
+
+Master Alistair tidak langsung bicara. Ia mendorong kursi rodanya mengelilingi Edward, mengamati sarung itu dari setiap sudut, kadang berhenti untuk menggerakkan jarinya — jari yang gemetar, tetapi ketika menyentuh kuningan itu menjadi tenang dengan cara yang tidak wajar — di sepanjang ukiran roda gigi, seperti orang membaca huruf Braille.
+
+"Kapan Strike pertamamu?" tanyanya tanpa menoleh.
+
+"Tadi malam," kata Edward. "Aku tidak sengaja mengaktifkannya."
+
+"Tidak ada yang tidak sengaja dengan Horologium." Alistair menekan satu titik di dekat siku sarung itu, dan kuarsa itu berdenyut lebih terang sepersekian detik. "Ia tidak menunggu kau menekan tombol. Ia menunggu kau berhenti ragu. Setiap kali kau benar-benar yakin, kau mengaktifkannya — apakah kau menginginkannya atau tidak. Itu yang membuatnya berbahaya, dan itu yang membuatnya berguna."
+
+"Dan itu yang membuatnya menghabisiku." Edward mengangkat tangan kanannya. "Tadi malam, hanya satu kali, dan jari-jariku sudah membiru. Kalau aku terus memakainya —"
+
+"Kau akan membeku dari ujung jari sampai jantung," kata Alistair datar. "Bukan perlahan. Terhitung. Setiap Strike menarik panas dari dadamu untuk mendinginkan inti sigilnya — itulah cara ia bekerja, sama seperti mesin uap bekerja karena ada yang membakar. Beda cuma satu: mesin uap membakar batu bara. Horologium membakar kau."
+
+Clara menulis cepat, lalu mengangkat kepala. "Kalau begitu, bukankah jawabannya sederhana? Jangan dipakai."
+
+"Kalau tidak dipakai, ia tetap lapar," kata Alistair. "Relik Sangha tidak pernah berhenti berdenyut. Ia menyedot pelan — bukan dari pemakainya, kalau tidak dipakai, tapi dari sekelilingnya: dari orang-orang di dekatnya, dari waktu itu sendiri. Kau perhatikan jam-jam di sekitarmu berdetak lebih cepat?"
+
+Edward teringat lonceng Big Ben, jam saku ayahnya, seluruh kota yang berdetak dua kali lebih cepat. "Kau bilang itu ulahku?"
+
+"Ulahnya," Alistair menunjuk sarung itu. "Dan kalau ia terus lapar tanpa dipakai, kota ini akan semakin cepat — sampai semua jam berdetak sia-sia dan orang-orang tua bangun di tengah malam tanpa tahu kenapa. Itu sebabnya Ministry mencarinya. Mereka tidak ingin menghentikannya, Edward. Mereka ingin mengendalikannya. Dan kau — kau adalah cara mereka."
+
+"Aku?"
+
+"Kau pemakainya." Alistair menatapnya dengan mata yang tenang dan tua. "Kalau mereka bisa mengendalikan pemakainya, mereka bisa mengendalikan reliknya. Dan kalau mereka bisa mengendalikan reliknya, mereka bisa memberi daya pada apa pun — termasuk Jam Besar yang semakin lapar itu."
+
+Edward diam lama. Di luar, di bawah jembatan rel yang mati, hujan mulai turun lagi, dan suaranya di atap bengkel terdengar seperti jari-jari yang mengetuk meja dengan tidak sabar.
+
+"Ada satu hal lagi," kata Alistair pelan. "Yang paling penting. Dan aku tidak tahu apakah kau siap mendengarnya."
+
+"Bicaralah."
+
+"Horologium tidak bisa dilepas selama pemakainya hidup." Alistair menatap lengan Edward. "Ia sudah memilihmu. Satu-satunya cara ia melepaskanmu adalah dengan mengisimu sampai habis — atau kau menemuinya di puncak kelaparannya, saat ia terlalu sibuk makan untuk memegangmu. Tapi itu cerita lain, untuk waktu yang lain."
+
+"Kalau begitu," kata Edward, "kita punya waktu sampai ia mulai benar-benar makan."
+
+"Kita punya waktu sampai jam Besar berhenti bermain-main," kata Alistair. "Dan dari bunyinya — " ia menoleh ke arah dinding, ke arah kota Atas yang tidak terlihat, " — ia sudah hampir selesai bermain."
+
+Di luar, di dalam uap yang turun, bayangan rendah yang telah mengikuti mereka sejak mulut terowongan berdiri diam di bawah jembatan rel, menatap bengkel itu dengan mata yang tidak berkedip, mendengarkan — dan kemudian, dengan langkah yang teratur seperti mesin, ia berbalik dan berjalan kembali ke arah kota Atas, untuk melaporkan apa yang telah ia dengar.

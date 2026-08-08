@@ -1,15 +1,17 @@
-# Cover Prompt — The Clockwork Astra
+# Cover Prompt: The Clockwork Astra
 
-### Concept
-A dark fantasy steampunk book cover showing a young athletic male craftsman in Victorian industrial London at night, wearing a glowing ancient brass-and-copper clockwork gauntlet on his right arm emitting golden aetheric sparks and floating gear sigils.
+Format: webp 3:4 (publikasi web, daftar novel).
 
-### Prompt
-```
-Action fantasy book cover featuring a young athletic male Victorian craftsman in a foggy rain-slicked cobble-paved London alley at night, wearing an intricate ancient brass and copper clockwork gauntlet on his right arm emitting glowing golden aetheric sparks and floating holographic gear runes, gas lamps and Big Ben clocktower in foggy background, cinematic dramatic lighting, dark fantasy atmosphere, semi-realistic digital painting, 3:4 aspect ratio, no text on the image.
-```
+## Adegan
 
-### Style
-- Genre: Dark Fantasy / Steampunk Urban
-- Mood: Atmospheric, gritty, Victorian, high-voltage
-- Color Palette: Brass Gold (#D4AF37), Victorian Copper (#B87333), Midnight Fog (#1A2129)
-- Aspect Ratio: 3:4 (Portrait)
+Malam berkabut di dermaga Thames Aether-London. Sebuah bengkel jam kecil di deretan gudang bata merah — satu-satunya jendela yang menyala kuning. Di ambang pintu kayu, seorang pemuda (26, rambut cokelat, kacamata pelindung kerja digantung di leher, mantel wol cokelat tua) berdiri memegang sebuah **peti tembaga** berukir sigil roda gigi yang menyala emas tipis. Lengan kanannya terbungkus sarung lengan **kuningan** dari pergelangan sampai siku — ukiran roda gigi halus, menyala redup, ujung jari sampai buku jari mulai membeku kebiruan, seperti es yang merambat di bawah kulit.
+
+Di latar belakang: Menara Big Ben yang menjulang di atas kabut, lampu gas oranye, pipa-pipa uap, lonceng jam raksasa samar.
+
+## Mood
+
+Dark steampunk Victorian Indonesia: gothic tapi hangat-ekonomis, bukan gotik Eropa berhias. Kabut, kuningan, uap, jam. Horornya tenang: kekuatan yang perlahan membekukan pemiliknya. Warna dominan: kuningan emas, kuning lampu gas, biru malam, es pucat di lengan. Tidak ada darah, tidak ada tengkorak.
+
+## Gaya
+
+Ilustrasi semi-realistis dengan tekstur cetak lama (sampul novel sastra populer Indonesia), cahaya jendela hangat vs kabut malam, detail mesin halus (roda gigi, pipa, sekrup). Tipografi judul di bawah: "THE CLOCKWORK ASTRA" huruf besar tebal warna krem di atas pita kuningan gelap, subjudul kecil "setiap tik terlalu cepat membekukan sesuatu".
