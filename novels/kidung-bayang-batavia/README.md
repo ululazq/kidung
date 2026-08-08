@@ -1,7 +1,7 @@
 ---
 title: "Kidung Bayang Batavia"
 slug: "kidung-bayang-batavia"
-universe: "Kidungverse / Urban Dark Fantasy"
+universe: "Kidungverse"
 genre: "Dark Urban Fantasy / Action Fantasy"
 tone: "Atmospheric, Gritty, Mysterious, High-Stakes"
 language: "Indonesian"

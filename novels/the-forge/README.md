@@ -2,6 +2,7 @@
 title: "The Forge"
 slug: "the-forge"
 universe: "Auren"
+order: 4
 genre: "Action Fantasy / LitRPG"
 tone: "High fantasy, kerja vs takdir, sistem sebagai mesin, Stonesinger Durn"
 protagonist: "Gren, Stonesinger Durn Silver 23 yang mendengar keretakan sistem"

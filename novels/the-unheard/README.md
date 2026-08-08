@@ -2,6 +2,7 @@
 title: "The Unheard"
 slug: "the-unheard"
 universe: "Auren"
+order: 8
 genre: "Action Fantasy / LitRPG"
 tone: "High fantasy, ketertiban vs kebebasan, yang dibuang, dual POV, lagu sistem"
 protagonist: "Iris — lahir dari celah lagu, level tak pernah stabil; dan Vox — nada sumbang yang dibuang Vael, yang akhirnya pulang"

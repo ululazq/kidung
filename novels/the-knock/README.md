@@ -2,6 +2,7 @@
 title: "The Knock"
 slug: "the-knock"
 universe: "Auren"
+order: 5
 genre: "Action Fantasy / LitRPG"
 tone: "High fantasy, kebebasan vs identitas, Hearthkin, pintu ke luar sistem"
 protagonist: "Wren, Hearthkin Windrunner Silver 25 yang mendengar ketukan dari luar sistem"

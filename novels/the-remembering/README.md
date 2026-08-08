@@ -2,6 +2,7 @@
 title: "The Remembering"
 slug: "the-remembering"
 universe: "Auren"
+order: 0
 genre: "Action Fantasy / LitRPG"
 tone: "High fantasy, prequel, penciptaan, menulis dan melepaskan, era sebelum sistem"
 protagonist: "Thael — Vael generasi pertama, arsitek aturan yang menuliskan lagu pertama menjadi sistem"

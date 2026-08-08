@@ -2,6 +2,7 @@
 title: "The Duet"
 slug: "the-duet"
 universe: "Auren"
+order: 10
 genre: "Action Fantasy / LitRPG"
 tone: "High fantasy, mendengar dan didengar, benda yang terbangun, duet, penutup hook terakhir, lagu sistem"
 protagonist: "Sera — Scepter of the Dawn yang terbangun, catatan yang menjadi orang, satu-satunya yang bisa mendengar ketukan itu dengan benar"

@@ -2,6 +2,7 @@
 title: "The Unwritten"
 slug: "the-unwritten"
 universe: "Auren"
+order: 7
 genre: "Action Fantasy / LitRPG"
 tone: "High fantasy, keheningan vs kebisingan, yang tidak tercatat, lagu sistem"
 protagonist: "Kiran — lahir tanpa Hearth, tidak tercatat di sistem, satu-satunya yang bisa mendengar seluruh lagu dunia"

@@ -1,9 +1,10 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro'
-import { getNovels, getAllGenres, readingMinutes } from '../lib/novels'
+import { getNovels, getAllGenres, getAllUniverses, readingMinutes } from '../lib/novels'
 
 const novels = await getNovels()
 const genres = await getAllGenres()
+const universes = await getAllUniverses()
 ---
 
 <BaseLayout>
@@ -21,11 +22,20 @@ const genres = await getAllGenres()
         />
 
         <div class="genre-chips" role="group" aria-label="Filter genre">
-          <button class="chip active" data-genre="all">Semua</button>
+          <button class="chip active" data-genre="all">Semua Genre</button>
           {genres.map((g) => (
             <button class="chip" data-genre={g}>{g}</button>
           ))}
         </div>
+
+        {universes.length > 0 && (
+          <div class="genre-chips" role="group" aria-label="Filter universe">
+            <button class="chip active" data-universe="all">Semua Universe</button>
+            {universes.map((u) => (
+              <button class="chip" data-universe={u}>{u}</button>
+            ))}
+          </div>
+        )}
       </div>
     </header>
 
@@ -37,7 +47,7 @@ const genres = await getAllGenres()
         const minutes = readingMinutes(novel.totalWords)
 
         return (
-          <article class="novel-card" data-tags={novel.genreTags.join(',')}>
+          <article class="novel-card" data-tags={novel.genreTags.join(',')} data-universe={novel.universe ?? ''}>
             <a href={`/novel/${novel.slug}`} class="card-link">
               {coverUrl ? (
                 <img
@@ -64,7 +74,10 @@ const genres = await getAllGenres()
 
               <div class="card-body">
                 <h2 class="card-title">{novel.title}</h2>
-                <p class="card-genre muted">{novel.genre}</p>
+                <p class="card-genre muted">
+                  {novel.genre}
+                  {novel.universe && <span class="universe-mark"> · {novel.universe}</span>}
+                </p>
                 <p class="card-desc dim">{novel.description}</p>
 
                 <div class="card-meta">
@@ -226,6 +239,11 @@ const genres = await getAllGenres()
       font-weight: 500;
     }
 
+    .universe-mark {
+      color: var(--accent);
+      font-weight: 600;
+    }
+
     .card-desc {
       font-size: 0.9375rem;
       line-height: 1.55;
@@ -275,11 +293,13 @@ const genres = await getAllGenres()
 
   <script>
     const search = document.getElementById('search') as HTMLInputElement
-    const chips = document.querySelectorAll<HTMLButtonElement>('.chip')
+    const chips = document.querySelectorAll<HTMLButtonElement>('.chip[data-genre]')
+    const universeChips = document.querySelectorAll<HTMLButtonElement>('.chip[data-universe]')
     const cards = document.querySelectorAll<HTMLElement>('.novel-card')
     const noResults = document.getElementById('no-results') as HTMLElement
 
     let activeGenre = 'all'
+    let activeUniverse = 'all'
 
     function filter() {
       const query = search.value.toLowerCase().trim()
@@ -293,8 +313,9 @@ const genres = await getAllGenres()
 
         const matchesSearch = !query || title.includes(query) || desc.includes(query)
         const matchesGenre = activeGenre === 'all' || tags.includes(activeGenre)
+        const matchesUniverse = activeUniverse === 'all' || (card.dataset.universe || '') === activeUniverse
 
-        if (matchesSearch && matchesGenre) {
+        if (matchesSearch && matchesGenre && matchesUniverse) {
           card.hidden = false
           visibleCount++
         } else {
@@ -312,6 +333,15 @@ const genres = await getAllGenres()
         chips.forEach((c) => c.classList.remove('active'))
         chip.classList.add('active')
         activeGenre = chip.dataset.genre || 'all'
+        filter()
+      })
+    })
+
+    universeChips.forEach((chip) => {
+      chip.addEventListener('click', () => {
+        universeChips.forEach((c) => c.classList.remove('active'))
+        chip.classList.add('active')
+        activeUniverse = chip.dataset.universe || 'all'
         filter()
       })
     })

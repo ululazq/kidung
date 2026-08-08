@@ -1,6 +1,6 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro'
-import { getNovels, getNovel, readingMinutes } from '../../lib/novels'
+import { getNovels, getNovel, getUniverseSeries, readingMinutes } from '../../lib/novels'
 
 export async function getStaticPaths() {
   const novels = await getNovels()
@@ -17,6 +17,12 @@ if (!novel) return Astro.redirect('/404')
 const coverUrl = novel.cover ? `/covers/${novel.cover}` : null
 const totalMinutes = readingMinutes(novel.totalWords)
 const avgPerChapter = Math.round(novel.totalWords / novel.chapterCount)
+
+const series = novel.universe ? await getUniverseSeries(novel.universe) : []
+const seriesIndex = series.findIndex((n) => n.slug === novel.slug)
+const prequel = seriesIndex > 0 ? series[seriesIndex - 1]! : null
+const sequel =
+  seriesIndex >= 0 && seriesIndex < series.length - 1 ? series[seriesIndex + 1]! : null
 ---
 
 <BaseLayout title={novel.title} description={novel.description}>
@@ -60,6 +66,9 @@ const avgPerChapter = Math.round(novel.totalWords / novel.chapterCount)
             <span class="badge-dot" aria-hidden="true"></span>
             {novel.status}
           </span>
+          {novel.universe && (
+            <span class="badge badge-universe">{novel.universe}</span>
+          )}
           {novel.genreTags.map((tag) => (
             <span class="badge">{tag}</span>
           ))}
@@ -100,6 +109,27 @@ const avgPerChapter = Math.round(novel.totalWords / novel.chapterCount)
           </svg>
           Mulai Baca
         </a>
+
+        {(prequel || sequel) && (
+          <nav class="series-nav" aria-label="Navigasi urutan universe">
+            {prequel ? (
+              <a href={`/novel/${prequel.slug}`} class="series-link">
+                <span class="series-dir">← Prequel</span>
+                <span class="series-title">{prequel.title}</span>
+              </a>
+            ) : (
+              <span class="series-link series-link-empty" aria-hidden="true"></span>
+            )}
+            {sequel ? (
+              <a href={`/novel/${sequel.slug}`} class="series-link series-link-next">
+                <span class="series-dir">Sequel →</span>
+                <span class="series-title">{sequel.title}</span>
+              </a>
+            ) : (
+              <span class="series-link series-link-empty" aria-hidden="true"></span>
+            )}
+          </nav>
+        )}
       </div>
     </div>
 
@@ -183,6 +213,13 @@ const avgPerChapter = Math.round(novel.totalWords / novel.chapterCount)
       margin-bottom: 1.5rem;
     }
 
+    .badge-universe {
+      border-color: color-mix(in srgb, var(--accent) 55%, transparent);
+      background: color-mix(in srgb, var(--accent) 14%, transparent);
+      color: var(--accent);
+      font-weight: 600;
+    }
+
     .description {
       font-size: 1.125rem;
       line-height: 1.7;
@@ -226,6 +263,54 @@ const avgPerChapter = Math.round(novel.totalWords / novel.chapterCount)
       max-width: 20rem;
       font-size: 1.0625rem;
       padding: 0.85rem 1.5rem;
+    }
+
+    .series-nav {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0.75rem;
+      margin-top: 1.25rem;
+      max-width: 28rem;
+    }
+
+    .series-link {
+      display: flex;
+      flex-direction: column;
+      gap: 0.2rem;
+      padding: 0.8rem 1rem;
+      background: var(--bg-elev);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      text-decoration: none;
+      transition: all 200ms ease;
+    }
+
+    .series-link:hover {
+      border-color: var(--accent);
+      background: var(--bg-elev-2);
+    }
+
+    .series-link-next {
+      text-align: right;
+    }
+
+    .series-link-empty {
+      visibility: hidden;
+    }
+
+    .series-dir {
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      color: var(--accent);
+      font-weight: 600;
+    }
+
+    .series-title {
+      font-weight: 600;
+      color: var(--text);
+      font-size: 0.9375rem;
+      line-height: 1.35;
     }
 
     .chapters-section {

@@ -2,6 +2,7 @@
 title: "The Scribes"
 slug: "the-scribes"
 universe: "Auren"
+order: 9
 genre: "Action Fantasy / LitRPG"
 tone: "High fantasy, penulis dan ciptaan, melepaskan, penutup busur utama, lagu sistem"
 protagonist: "Aria — Vael muda yang lahir di sisi luar, penulis yang belum pernah melihat tulisannya"

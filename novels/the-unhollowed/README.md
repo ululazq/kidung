@@ -2,6 +2,7 @@
 title: "The Unhollowed"
 slug: "the-unhollowed"
 universe: "Auren"
+order: 6
 genre: "Action Fantasy / LitRPG"
 tone: "High fantasy, villain protagonis, POV first person, pencuri menjadi pemberi"
 protagonist: "Eryx Valmor — Hollow King, First King of Humans, yang keluar dari segel untuk mengembalikan seribu tahun Hearth curian"

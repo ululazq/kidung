@@ -2,6 +2,7 @@
 title: "The Unstolen"
 slug: "the-unstolen"
 universe: "Auren"
+order: 3
 genre: "Action Fantasy / LitRPG"
 tone: "High fantasy, warisan vs pilihan, Wraithborn, panggilan Hollow King"
 protagonist: "Rook, Wraithborn Shadowstep Silver 26 yang tak bisa dicuri"

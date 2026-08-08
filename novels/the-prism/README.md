@@ -2,6 +2,7 @@
 title: "The Prism"
 slug: "the-prism"
 universe: "Auren"
+order: 1
 genre: "Action Fantasy / LitRPG"
 tone: "High fantasy, power level RPG diegetik, Hearth curian, kelas satu-per-generasi"
 protagonist: "Arden Ash, Iron level 1 yang diam-diam adalah Prism"

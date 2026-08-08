@@ -16,6 +16,7 @@ export interface NovelMeta {
   started: string
   completed?: string
   universe?: string
+  order?: number
   language?: string
 }
 
@@ -151,6 +152,7 @@ export async function getNovels(): Promise<Novel[]> {
         started: clean(data.started),
         completed: clean(data.completed) || undefined,
         universe: clean(data.universe) || undefined,
+        order: typeof data.order === 'number' ? data.order : undefined,
         language: clean(data.language) || undefined,
         chapters,
         chapterCount: chapters.length,
@@ -231,4 +233,24 @@ export async function getAllGenres(): Promise<string[]> {
     for (const tag of novel.genreTags) set.add(tag)
   }
   return [...set].sort()
+}
+
+export async function getAllUniverses(): Promise<string[]> {
+  const novels = await getNovels()
+  const set = new Set<string>()
+  for (const novel of novels) {
+    if (novel.universe) set.add(novel.universe)
+  }
+  return [...set].sort((a, b) => a.localeCompare(b))
+}
+
+/**
+ * Novels of a universe that carry an explicit `order`, sorted by it.
+ * Novels without an `order` are left out so they do not break the sequence.
+ */
+export async function getUniverseSeries(universe: string): Promise<Novel[]> {
+  const novels = await getNovels()
+  return novels
+    .filter((n) => n.universe === universe && typeof n.order === 'number')
+    .sort((a, b) => (a.order ?? 0) - (b.order ?? 0))
 }

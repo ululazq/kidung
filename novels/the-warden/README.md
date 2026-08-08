@@ -2,6 +2,7 @@
 title: "The Warden"
 slug: "the-warden"
 universe: "Auren"
+order: 2
 genre: "Action Fantasy / LitRPG"
 tone: "High fantasy, vigil 400 tahun, kutukan ras lambat, Warden vs Hollow Cult"
 protagonist: "Elira, Sil'vael Warden Gold 38, Keeper Scepter of the Deep"
