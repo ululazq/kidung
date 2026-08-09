@@ -53,7 +53,7 @@ Keluarga Kidungverse yang lebih luas mencakup 28 novel (per 2026-08-09) yang iku
 24. **Serat Penempa Hampa** — Complete — Serat Penempa Hampa, Arya Pradipta, Bawah-Batavia.
 25. **The Copper Relic** — Complete — Regulator Kuningan Sejati, montir Wira di Dermaga Sektor 6.
 26. **The Resonance Blade** — Complete — Bilah Resonansi, Rian Vance, Empu Aether.
-27. **The Shadow Forger** — In Progress — Astra Tempa Bayangan, Galang Pradipta, Bawah-Batavia.
+27. **The Shadow Forger** — Complete — Astra Tempa Bayangan, Galang Pradipta, Bawah-Batavia.
 28. **The Iron Karma** — Complete — Astra Besi, Bagas, Faksi JagadBumi & Lupa Corp di Kota Tua Jakarta.
 
 ## Dokumen Kanon

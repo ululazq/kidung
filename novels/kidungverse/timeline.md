@@ -52,7 +52,7 @@ Di semesta yang sama, di pesisir dan kota-kota Indonesia, mitologi Nusantara hid
 | 24 | Serat Penempa Hampa | Complete |
 | 25 | The Copper Relic | Complete |
 | 26 | The Resonance Blade | Complete |
-| 27 | The Shadow Forger | In Progress |
+| 27 | The Shadow Forger | Complete |
 | 28 | The Iron Karma | Complete |
 
 > Catatan: `order` di halaman universe ditampilkan sebagai "Buku N" — untuk Kidungverse artinya urutan serial (inti dulu, lalu urutan penulisan), bukan urutan naratif wajib. Tiap novel dapat dibaca berdiri sendiri; bacaan ganda yang paling dalam dimulai dari serial inti 1–3. The Iron Karma (order 28) ditambahkan belakangan: mulai ditulis 2026-08-03, ditulis ulang penuh dan diselesaikan 2026-08-09, sehingga ditaruh di akhir agar order yang sudah ada tidak bergeser.

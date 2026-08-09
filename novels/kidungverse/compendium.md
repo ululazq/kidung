@@ -39,6 +39,7 @@ Ciri khas atmosfer: hujan gerimis, uap bertekanan tinggi, bau oli/karat tembaga/
 | **Astra Besi** | Relik sarung lengan besi gaib Bagas (Karma Trace, membelah peluru, petir karma) | Unik (iron-karma) |
 | **Regulator Tembaga Sejati** | Modul tembaga peredam kinetik Bagas di bahu kanan (penyalur energi ke Astra Besi) | Unik (iron-karma; gema nama dengan Regulator Kuningan Sejati copper-relic) |
 | **Bilah Resonansi** | Relik pedang kuningan Rian Vance (pemotongan + Circuit Pulse); kunci menara perisai Bawah-Batavia | Unik (resonance-blade) |
+| **Astra Tempa Bayangan** | Relik sarung tangan perunggu Galang Pradipta (Shadow Blade + Shadow Shield + Shadow Pulse); tiga lapisan sirkuit | Unik (shadow-forger) |
 | **Awalan "Aether-" lain** | Aether-Horologium, Aether-D3, Aether-London | Bersama sebagai pola penamaan (clockwork-astra, iron-karma) |
 
 **Kaidah:** kata **Aether** dan nama **Empu Aether** adalah warisan bersama — boleh muncul di novel mana pun. Relik spesifik (Vow, Cinder, Aegis, Sirkuit Bayangan) adalah milik masing-masing novel dan tidak boleh berpindah.
