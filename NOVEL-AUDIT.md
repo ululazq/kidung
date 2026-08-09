@@ -1,193 +1,110 @@
 # Novel Audit
 
-Kondisi `novels/` per 2026-08-06, dihitung ulang setelah pemilik repo menghapus 91 bab sampah. **Tidak ada file di `novels/` yang diubah oleh audit ini.** Ini daftar kerja untuk perbaikan berikutnya.
+Kondisi `novels/` per **2026-08-10**, setelah seluruh repositori ditulis ulang dan dituntaskan (audit sebelumnya 2026-08-06 menggambarkan 230 bab di 10 novel yang sudah tidak relevan). Angka di sini dihitung ulang langsung dari file.
 
-Cara memperbaiki: `.claude/skills/novel-factory-v4-pro-plus/workflows/revise-chapter.md`.
-
-> **Angka di sini cepat basi.** Gemini Spark menulis ke `novels/the-void-alchemist/` secara otomatis (~1,6 bab/jam saat tidak kena rate limit) dan tidak membaca skill ini. Hitung ulang dengan script di bagian akhir sebelum memakai angka mana pun. Lihat §8 sebelum menyalahkan Spark atas isi tabel di bawah — mayoritas kerusakan bukan dari dia.
+**Metode:** hitung bab & kata per novel; band standar repo = **1.500–2.500 kata/bab**; wajib ada `bible.md`, `outline.md`, cover (`public/covers/<slug>.webp`), dan — sejak audit 2026-08-09 — `continuity-report.md`.
 
 ---
 
 ## Ringkasan
 
-230 bab di 10 novel. Empat folder lain (`the-aegis-of-aether`, `the-chrono-engine`, `the-rust-alchemist`, `the-shadow-weaver`) tinggal `README.md` + `cover-prompt.md` — babnya sudah dihapus, dan folder tanpa bab memang tidak muncul di indeks situs (`src/lib/novels.ts:165`).
+| Metrik | Nilai |
+|---|---|
+| Novel dengan bab | **43** |
+| Total bab | **652** |
+| Total kata | **±1.151.000** |
+| Novel ber-status `Complete` | 43/43 |
+| Novel dengan `bible.md` | 43/43 ✅ |
+| Novel dengan `outline.md` | 43/43 ✅ |
+| Novel dengan cover | 43/43 ✅ |
+| Bab di bawah band (<1.500) | **18** (di 5 novel) |
+| Bab di atas band (>2.500) | 19 (gods-in-jars 15 = pengecualian terdokumentasi; lantern-of-night 3 = disengaja; the-warden 1) |
+| Novel dengan `continuity-report.md` | **14/43** |
+| Novel tanpa tanggal `completed:` | 3 (bloodfall, the-deep-vow, the-rejoining) |
+| Placeholder/lorem/TODO di bab | **0** ✅ |
+| Folder tanpa bab | auren, skyroot (konsep), kidungverse (indeks universe) |
 
-| Masalah | Bab terdampak | Dari 230 |
+---
+
+## 1. Bab di bawah band — satu-satunya kekurangan isi yang tersisa
+
+**18 bab** di bawah 1.500 kata. Inilah daftar kerja utama.
+
+| Novel | Bab terdampak | Kata | Prioritas |
+|---|---|---|---|
+| **the-host** | 8: ch7 (1.384), ch8 (886), ch9 (954), ch10 (847), ch12 (938), ch13 (783), ch14 (963), ch15 (791) | 8.546 → butuh ~3.500 kata lagi | **1** — separuh pad sudah selesai (ch1–6), lanjutkan |
+| **the-aetherium-vow** | 6: ch3 (1.490), ch4 (1.487), ch5 (1.462), ch10 (1.484), ch13 (1.472), ch15 (1.471) | semuanya 1.460–1.490, butuh ~100 kata/bab | **2** — selisih tipis, pad cepat |
+| **the-cinder-relic** | 2: ch3 (1.467), ch10 (1.499) | selisih ~15–35 kata/bab | 3 |
+| **the-duet** | 1: ch13 (1.496) | selisih 4 kata | 3 |
+| **the-remembering** | 1: ch5 (1.498) | selisih 2 kata | 3 |
+
+Perhatian: batas 1.500 kata **termasuk frontmatter** (4 baris `---`). Enam bab aetherium dan empat bab kecil lainnya berada dalam 2–40 kata dari batas — cukup tambahan beberapa kalimat, bukan adegan baru.
+
+## 2. Bab di atas band
+
+| Novel | Bab | Catatan |
 |---|---|---|
-| Di bawah 1.200 kata (batas gagal keras F6) | **175** | 76% |
-| `# Bab N:` (H1) di body — judul dobel di situs | **160** | 70% |
-| Tanpa dialog sama sekali | **71** | 31% |
-| Pembuka berupa ringkasan beat ber-`...` | **69** | 30% |
-| Di atas 3.000 kata | 46 | 20% |
-| Kalimat/paragraf diulang verbatim | 42 | 18% |
-| Novel tanpa `bible.md` | **14 dari 14** | 100% |
-| Novel tanpa `outline.md` | **14 dari 14** | 100% |
-| Novel tanpa `cover-prompt.md` | 0 dari 14 | 0% |
+| gods-in-jars | 15/15 (rata-rata ±4.900) | **Pengecualian terdokumentasi** — novel format panjang, dibiarkan |
+| lantern-of-night | 3 (ch1 4.847, ch2 3.505, ch3 3.907) | Disengaja: pembukaan atmosferik; dicatat di bible & continuity-report |
+| the-warden | 1 | Satu bab di atas 2.500 — belum diaudit |
 
-Satu bab bisa kena beberapa masalah sekaligus.
+## 3. Outline: status "selesai" tidak konsisten
 
-Yang berubah sejak hitungan sebelumnya: penghapusan 91 bab membuang hampir semua novel dengan duplikasi berat, jadi **padding turun dari 45% ke 18%**. Sebagai gantinya masalah dominan sekarang adalah **bab terlalu pendek** — 76%, naik dari 54%. Dua penyakit yang berlawanan arah; yang tersisa condong ke arah tipis, bukan gemuk.
+16 novel tidak memuat penanda `selesai` di outline-nya sama sekali: sang-pemangku-fajar, sang-pembawa-angin, sang-penyimpan-bilah, the-astral-sovereign, the-clockwork-astra, the-forge, the-godherd, the-knock, the-neon-cipher, the-prism, the-unhollowed, the-unstolen, the-warden, bloodfall (3/16), the-deep-vow (1/16), the-rejoining (2/16), the-duet (2/16), the-remembering (2/16), the-unbound (1/16), the-unwritten (2/16), the-last-teacher (1/16), the-scribes (4/16), the-unheard (4/16), pasar-subuh (2/10), pegadaian-bunga (4/12), sang-garuda (5/10), tangan-guntur (8/12).
 
----
+Sebagian besar outline 16-bab tidak punya kolom status sama sekali (formatnya ringkasan bab, bukan tabel status) — ini bukan salah, tapi membuat status "Complete" di README tidak bisa diverifikasi dari outline. Rekomendasi: seragamkan kolom status, atau tandai README dengan jumlah bab terverifikasi.
 
-## Per novel
+## 4. Continuity report: 29 dari 43 belum ada
 
-| Novel | Bab | Duplikat | H1 | Tanpa dialog | <1.200 | >3.000 | Prioritas |
-|---|---|---|---|---|---|---|---|
-| `the-iron-karma` | 15 | 15 | 15 | 0 | 0 | 15 | **1 — rewrite penuh** |
-| `the-thread-shop` | 13 | 12 | 13 | 0 | 0 | 13 | **1 — rewrite penuh** |
-| `gods-in-jars` | 15 | 11 | 15 | 0 | 0 | 15 | **1 — rewrite penuh** |
-| `the-astral-sovereign` | 70 | 0 | 70 | 69 | 70 | 0 | **2 — hapus H1, tambah dialog, perpanjang** |
-| `the-host` | 15 | 1 | 15 | 0 | 12 | 0 | 3 — perbaikan bertarget |
-| `lantern-of-night` | 15 | 2 | 15 | 0 | 8 | 3 | 3 — perbaikan bertarget |
-| `the-neon-cipher` | 8 | 1 | 8 | 1 | 6 | 0 | 3 — perbaikan bertarget |
-| `the-clockwork-astra` | 6 | 0 | 6 | 1 | 6 | 0 | 3 — perbaikan bertarget |
-| `the-void-alchemist` | 4 | 0 | 4 | 0 | 4 | 0 | 4 — aktif ditulis Spark, lihat §8 |
-| `kidung-bayang-batavia` | 70 | 0 | 0 | 0 | 70 | 0 | 4 — perpanjang saja |
+Sudah ada (14): kidung-bayang-batavia, lantern-of-night, pustaka-kabut-senja, sang-pembawa-pelita, serat-penempa-hampa, the-aegis-of-aether, the-aetherium-vow, the-astral-sovereign, the-cinder-relic, the-copper-relic, the-iron-karma, the-resonance-blade, the-shadow-compiler, the-shadow-forger.
 
-`kidung-bayang-batavia` masih satu-satunya novel yang bersih di ketiga pemeriksaan mekanis (duplikat, H1, dialog), dan `chapter-3.md`-nya tetap layak dikutip sebagai contoh prosa "baik" di `reference/prose-craft.md`.
+Belum ada (29) — mayoritas novel 12–24 bab yang dirilis awal (bloodfall, gods-in-jars, kidung-tanah-karam, pasar-subuh, pegadaian-bunga, sang-garuda, sang-pemangku-fajar, sang-pembawa-angin, sang-penyimpan-bilah, tangan-guntur, the-clockwork-astra, the-deep-vow, the-duet, the-forge, the-godherd, the-host, the-knock, the-last-teacher, the-neon-cipher, the-prism, the-rejoining, the-remembering, the-scribes, the-unbound, the-unheard, the-unhollowed, the-unstolen, the-unwritten, the-warden).
 
-**Tapi ia bukan acuan panjang.** Ke-70 babnya berkisar 367–578 kata — median 428, jauh di bawah batas gagal keras 1.200. Pakai dia sebagai contoh kalimat dan adegan, bukan sebagai target ukuran bab.
+## 5. Hal kecil
+
+- **`completed:` kosong** di frontmatter: bloodfall, the-deep-vow, the-rejoining (3 novel selesai tanpa tanggal rilis).
+- **Folder konsep tanpa bab:** `auren/` dan `skyroot/` (README + bible + compendium + timeline, tanpa chapter-1) — tidak muncul di situs, tidak ber-status. Putuskan: tulis babnya atau pindah ke arsip.
+- **Cover:** semua 43 novel punya cover webp ✅ (6 terakhir ditambahkan 2026-08-10).
 
 ---
 
-## 1. Bab terlalu pendek — masalah terbesar sekarang
+## Prioritas perbaikan
 
-175 bab di bawah 1.200 kata. Terkonsentrasi di dua novel besar yang masing-masing 70 bab: `kidung-bayang-batavia` (367–578 kata) dan `the-astral-sovereign` (semuanya <1.200).
-
-Ini bukan sekadar angka kurang. Bab 400–800 kata umumnya hanya memuat satu suasana dan satu potongan percakapan — tidak cukup ruang untuk perubahan status yang bisa dirumuskan dalam satu kalimat. Memperbaikinya berarti menambah adegan, bukan menambah kalimat ke adegan yang sudah ada.
-
-Jangan pernah menutup selisih dengan mengulang kalimat. Itulah yang menghasilkan masalah §5.
-
-## 2. H1 di body — judul dobel
-
-160 bab diawali `# Bab N: Judul` di body. Situs sudah merender judul lewat `<h1>{chapter.title}</h1>` (`src/pages/chapter/[novelSlug]/[chapterSlug].astro:48`), jadi pembaca melihat judul dua kali.
-
-Ini satu-satunya masalah di daftar ini yang bisa diperbaiki secara mekanis: hapus baris H1 pertama dan baris kosong sesudahnya. Tidak mengubah isi cerita.
-
-Deteksi:
-
-```bash
-for f in novels/*/chapter-*.md; do sed '1,4d' "$f" | grep -q '^# ' && echo "$f"; done
-```
-
-## 3. Tanpa dialog
-
-71 bab tidak punya satu pun baris dialog — hampir seluruhnya `the-astral-sovereign` (69 dari 70). Bab-bab ini rangkaian narasi suasana: pembaca diberi tahu bahwa sesuatu terjadi, bukan diperlihatkan.
-
-## 4. Pembuka berupa ringkasan beat
-
-69 bab dibuka dengan paragraf yang merangkum isi bab dalam potongan ber-`...`. Ini outline yang bocor ke prosa. Sekarang seluruhnya di `the-astral-sovereign`.
-
-Contoh, paragraf pertama `the-astral-sovereign/chapter-1.md`:
-
-> Hujan asam mengguyur lorong-lorong sempit Jakarta Sub-5... Malam di Jakarta Sub-5 selalu berbau tembaga cair, oli mesin tua, dan uap air beracun yang membubung dari saluran limbah bawah tanah.
-
-Kalimat pertama adalah label beat, bukan prosa. Kalimat kedua sudah mengerjakan tugasnya dengan benar. Perbaikannya sering cukup dengan membuang kalimat pertama.
-
-## 5. Padding: paragraf diulang verbatim
-
-42 bab, turun dari 144 setelah penghapusan. Penyebabnya target 5.000–6.000 kata di `CONFIG.md` lama tanpa materi cerita yang cukup — model mengejar angka dengan menyalin-tempel.
-
-Sisa kasusnya terkonsentrasi di tiga novel yang semuanya juga >3.000 kata — korelasi yang bukan kebetulan:
-
-| Novel | Bab duplikat | Kasus terparah |
-|---|---|---|
-| `the-iron-karma` | 15 dari 15 | ~70 kalimat berulang tiap bab |
-| `the-thread-shop` | 12 dari 13 | `chapter-9.md` — 276 kalimat berulang |
-| `gods-in-jars` | 11 dari 15 | `chapter-15.md` — 68 kalimat berulang |
-
-Bab semacam ini tidak bisa ditambal dengan menghapus duplikatnya — sisanya sekitar 400 kata tanpa adegan. Harus ditulis ulang.
-
-Deteksi:
-
-```bash
-sed '1,4d' novels/<slug>/chapter-N.md | grep -oE '[^.!?]{25,}[.!?]' | sed 's/^ *//' | sort | uniq -d
-```
-
-## 6. Tidak ada `bible.md` atau `outline.md` di satu novel pun
-
-14 dari 14 novel tidak punya file kanon maupun file beat. Inilah akar drift nama, dan alasan skill mewajibkan keduanya sebelum bab mana pun ditulis. Template: `.claude/skills/novel-factory-v4-pro-plus/templates/`.
-
-Sebaliknya, `cover-prompt.md` ada di **14 dari 14** — satu-satunya konvensi repo yang dipatuhi 100%, dan sebabnya ia sekarang jadi langkah wajib di `workflows/new-novel.md`.
-
-## 7. Drift nama — pelajaran dari `the-chrono-engine`
-
-Novel ini sudah tidak punya bab lagi (dihapus), tapi kasusnya layak dicatat karena inilah alasan `bible.md` diwajibkan.
-
-README menyebut protagonis **Kaelen Sora** dan pendamping **Lyra Vance**. `chapter-1.md` memakai nama itu. Mulai `chapter-2.md` dan seterusnya, nama berganti jadi **Leo Vance** dan **Maya Kirana** — dan tidak pernah kembali. Antagonis ikut bergeser: Baron Vane / Obsidian Ministry di README menjadi Master Chronos / Chrono Syndicate di bab.
-
-Tidak ada satu file pun yang memegang daftar nama baku, jadi tidak ada yang bisa mendeteksi pergeseran itu selain membaca ulang 14 bab.
-
-Kalau novel ini ditulis ulang: `README.md` dan `cover-prompt.md`-nya masih ada dan jadi acuan. Tulis `bible.md` lebih dulu.
-
-## 8. Bab yang dihasilkan Gemini Spark
-
-Spark menulis otomatis dan **tidak membaca skill `novel-factory-v4-pro-plus`** — tapi ia membaca `README.md` novelnya. Saat ini satu-satunya novel yang ditulis Spark adalah `the-void-alchemist`.
-
-Novel lain **bukan** karya Spark. Timestamp-nya membongkar itu: `kidung-bayang-batavia` dan `the-astral-sovereign` masing-masing 70 bab yang lahir dalam rentang **3–4 menit** (3 Agustus 21:16–21:21). Itu script yang menumpahkan hasil generasi massal, bukan penulisan bertahap. Pola yang sama di `the-iron-karma` (15 bab / 6 menit), `the-thread-shop` (13 bab / 4 menit), `gods-in-jars`, `the-neon-cipher`, `the-clockwork-astra`. Semua penyakit di §1–§5 berasal dari cara kerja itu, bukan dari Spark.
-
-Spark bekerja jauh lebih lambat: 4 bab dalam 2,5 jam (6 Agustus 08:16–10:43), jadi **~1,6 bab/jam** dan sering tertahan rate limit.
-
-| File | Kata | H1 | Baris dialog | Duplikat |
-|---|---|---|---|---|
-| `chapter-1.md` | 821 | ya | 2 | 0 |
-| `chapter-2.md` | 799 | ya | 7 | 0 |
-| `chapter-3.md` | 457 | ya | 3 | 0 |
-| `chapter-4.md` | 433 | ya | 2 | 0 |
-
-**Yang sudah benar** — dan ini bagian yang mahal untuk diperbaiki kalau salah:
-
-- Frontmatter valid. 4 baris, `title` dan `chapter` terkutip rapi.
-- Nol duplikasi di keempat bab.
-- **Kanon terjaga.** Protagonis `Renjiro Aksara` di README muncul konsisten di bab; tidak ada drift seperti `the-chrono-engine`. Nama pendukung (`Empu Sorogo`, `Ordo Alkimia`, `Obsidian Sanhedrin`, `Alya Kirana`) stabil lintas bab.
-
-**Yang salah** — keduanya level prompt, bukan level kemampuan:
-
-- **Selalu `# Bab N:` di body.** 4 dari 4. Melanggar aturan keras 3; judul dobel di situs.
-- **Selalu di bawah 1.200 kata, dan makin memendek:** 821 → 799 → 457 → 433. Tren turun, bukan fluktuasi. Kalau dibiarkan, bab 10 akan di kisaran 200 kata.
-
-Dua baris tambahan di prompt Spark menutup keduanya:
-
-1. Jangan tulis heading `#` apa pun di body; judul sudah ada di frontmatter.
-2. Panjang tiap bab 1.500–2.500 kata. Jangan pernah memenuhinya dengan mengulang kalimat.
-
-Baris ketiga yang layak ditambahkan begitu filenya ada: baca `bible.md` dan `outline.md` sebelum menulis. Sekarang Spark menjaga kanon hanya dari README, yang tidak memuat aturan sistem kekuatan maupun beat per bab — cukup untuk 4 bab, tidak cukup untuk 40.
+1. **Tuntaskan the-host** (8 bab, ~3.500 kata) — bab 1–6 sudah di band, tinggal 7–15.
+2. **Pad selisih tipis** aetherium (6 bab), cinder (2), duet (1), remembering (1) — total ~700 kata.
+3. **Isi `completed:`** di 3 novel (bloodfall, deep-vow, rejoining).
+4. **Tulis continuity-report** untuk 29 novel yang belum (prioritas: yang baru dirilis/ber-relik unik).
+5. **Putuskan nasib auren & skyroot** — konsep yang tidak pernah ditulis.
+6. **Seragamkan status outline** atau verifikasi ulang klaim Complete via jumlah bab.
 
 ---
 
-## Urutan kerja yang disarankan
+## Saran fitur website
 
-1. **Setel prompt Spark** (§8) — dua baris, menutup satu-satunya sumber kerusakan yang masih bertambah. Jangan hentikan Spark; kanonnya sudah terjaga.
-2. **Hapus H1 di 160 bab.** Mekanis, aman, langsung memperbaiki tampilan situs.
-3. **Buat `bible.md` + `outline.md` untuk tiap novel** dengan merekonstruksi kanon dari README + bab yang ada. Tanpa ini, revisi apa pun menciptakan drift baru.
-4. **Rewrite prioritas 1** (43 bab: `the-iron-karma`, `the-thread-shop`, `gods-in-jars`) — bab per bab, dari bab 1 maju, perbarui bible setelah tiap bab.
-5. **`the-astral-sovereign`** (70 bab): hapus H1, buang kalimat pembuka ringkasan, tambah adegan berdialog, perpanjang ke target.
-6. **Perpanjang `kidung-bayang-batavia`** (70 bab) tanpa merusak prosanya — satu-satunya novel yang gayanya sudah benar.
+Situs saat ini: beranda (search + filter genre/universe + kartu novel + cover), halaman novel (daftar bab), halaman bab, halaman universe, halaman tentang. Fitur yang layak ditambah, diurutkan dari yang paling berdampak:
 
-Coret entri di sini setiap kali sebuah bab lulus `reference/quality-gate.md`.
+1. **Mode baca (reader mode)** — halaman bab kini satu halaman penuh; tambah navigasi "Bab Sebelumnya / Berikutnya" di bawah konten + progress bar posisi baca. Ini fitur paling murah dan paling sering dipakai.
+2. **Peta universe interaktif** — halaman `/universe/[name]` sudah ada; tambah grafik relasi antar novel (relik unik, karakter gema, istilah bersama dari compendium) supaya pembaca bisa menelusuri "alur paralel Bawah-Batavia" dari satu novel ke novel lain.
+3. **Kontinuitas otomatis di halaman novel** — tampilkan "terakhir diaudit" + jumlah bab dalam band; novel dengan bab di bawah band (the-host, aetherium) diberi badge "sedang direvisi".
+4. **Pencarian lintas konten** — search sekarang hanya judul/protagonis; perluas ke sinopsis, karakter pendukung, dan istilah (mis. cari "Konsorsium Kunci" → semua novel yang menyebutnya).
+5. **Kutipan favorit / highlight** — setiap bab punya banyak kalimat kuat; tombol "salin kutipan" + daftar kutipan populer per novel menambah keterlibatan pembaca.
+6. **Estimasi baca per bab** — `readingMinutes` sudah ada untuk novel; turunkan ke level bab (kata/bab ÷ 200) agar pembaca tahu komitmen waktunya.
+7. **RSS/Atom feed** — repo terus menerima novel baru; feed "bab baru" membuat pengunjung tetap kembali tanpa harus cek manual.
+8. **Dark mode & tipografi baca panjang** — bab 1.500–2.500 kata × 43 novel = konten panjang; pengaturan ukuran teks dan lebar kolom yang nyaman untuk baca panjang adalah investasi kecil dengan dampak besar.
 
 ---
 
-## Cara membuat ulang laporan ini
+## Cara membuat ulang angka di dokumen ini
 
 ```bash
 cd novels
-printf '%-26s %5s %5s %5s %6s %6s %6s\n' NOVEL BAB DUP H1 NODLG "<1200" ">3000"
-for d in */; do
-  d=${d%/}; n=0; dup=0; h1=0; nod=0; sh=0; lg=0
-  for f in "$d"/chapter-*.md; do
-    [ -e "$f" ] || continue
-    n=$((n+1))
-    body=$(sed '1,4d' "$f")
-    [ -n "$(printf '%s' "$body" | grep -oE '[^.!?]{25,}[.!?]' | sed 's/^ *//' | sort | uniq -d)" ] && dup=$((dup+1))
-    printf '%s' "$body" | grep -q '^# ' && h1=$((h1+1))
-    [ "$(printf '%s' "$body" | grep -c '"')" -eq 0 ] && nod=$((nod+1))
-    w=$(printf '%s' "$body" | wc -w)
-    [ "$w" -lt 1200 ] && sh=$((sh+1))
-    [ "$w" -gt 3000 ] && lg=$((lg+1))
-  done
-  [ "$n" -eq 0 ] && continue
-  printf '%-26s %5s %5s %5s %6s %6s %6s\n' "$d" $n $dup $h1 $nod $sh $lg
-done
+# bab di bawah band per novel
+for d in */; do d="${d%/}"; [ -f "$d/chapter-1.md" ] || continue
+  n=$(ls "$d"/chapter-*.md | wc -l); for i in $(seq 1 $n); do
+    c=$(wc -w < "$d/chapter-$i.md" 2>/dev/null); [ "$c" -lt 1500 ] && echo "$d ch$i: $c"
+  done; done
+# ringkasan
+echo "novel: $(for d in */; do [ -f "$d/chapter-1.md" ] && echo x; done | wc -l)"
+echo "bab: $(ls */chapter-*.md | wc -l)  kata: $(wc -w */chapter-*.md | tail -1)"
+echo "continuity-report: $(ls */continuity-report.md | wc -l)"
 ```
