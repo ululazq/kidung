@@ -69,7 +69,7 @@ Ilka menatapnya, dan untuk sesaat, wajahnya — wajah yang selalu blak-blakan, y
 
 Malam itu, di kamar yang diberikan the Ember Fane kepadanya — kamar batu dengan lentera yang tidak pernah padam — Sorin duduk di tepi tempat tidur, batu the First Reach di telapaknya.
 
-Batu itu dingin. Selalu dingin, sejak ia menerimanya dari peziarah pucat di Skyreach. Dingin seperti batu, tua seperti dunia, dengan satu garis Mark yang mati di permukaannya — Mark pertama, kata peziarah itu, yang ditulis sebelum dunia terbagi.
+Batu itu dingin. Selalu dingin — sampai hari ini, sejak ia menerimanya dari peziarah pucat di Skyreach. Dingin seperti batu, tua seperti dunia, dengan satu garis Mark yang mati di permukaannya — Mark pertama, kata peziarah itu, yang ditulis sebelum dunia terbagi.
 
 Di dekat pohon-pohon mati di glow-grove, Sorin merasakan sesuatu yang aneh: batu itu terasa sedikit lebih hangat. Hanya sedikit — seperti sisa dari api yang sudah lama padam — tapi hangat, dan itu tidak pernah terjadi sebelumnya.
 

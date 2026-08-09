@@ -85,6 +85,6 @@ Ossian menatapnya lama. "Maka apa yang ada di baliknya akan keluar," katanya. "D
 
 Di dalam gua itu, di depan the First Seal, keheningan itu kembali — keheningan yang lebih dalam dari apa pun yang pernah Sorin rasakan.
 
-Dua Unbound. Satu pintu. Dan di balik pintu itu, sesuatu yang sangat tua, yang tidak berbicara, yang hanya ada — menunggu untuk melihat apa yang akan mereka putuskan.
+Dua Unbound. Satu pintu. Dan di balik pintu itu, sesuatu yang sangat tua, yang tidak berbicara, yang hanya ada — seperti keheningan yang mengurai apa pun yang mendekat, tanpa meminta, tanpa memilih.
 
 Sorin tidak tahu berapa lama ia akan tinggal di sini. Mungkin sehari. Mungkin seminggu. Mungkin lebih lama — waktu bergerak aneh di tempat yang tidak pernah melihat matahari, dan ia sudah tidak lagi menghitung lilin. Yang ia tahu: di depan pintu ini, dengan lelaki ini, ia harus memutuskan sesuatu yang lebih besar dari dirinya — dan ia tidak akan memutuskannya dengan tergesa-gesa. Tapi di dalam dirinya, sesuatu sudah mulai bergerak — pelan, seperti jarum kompas yang mulai berputar. Dan di dadanya, tiga garis itu berdenyut — seperti sedang mendengarkan, seperti sedang menunggu.

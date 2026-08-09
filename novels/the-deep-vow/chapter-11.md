@@ -37,7 +37,7 @@ Sorin menatap batu itu. Mark yang mati itu masih menyala di permukaannya — ter
 
 Ossian menatapnya lama. "Puing," katanya. "Dari the Worldspine. Dari gunung yang dirobek the Sundering — tempat pertama Marks ditulis, tempat pertama pintu ini dikunci." Ia menatap Sorin. "Ia adalah bagian dari kunci yang sama denganmu, anak. Hanya saja — ia sudah menunggu lebih lama."
 
-Sorin menatap batu itu — batu yang telah ia bawa dari Skyreach, yang telah dingin di telapaknya selama berbulan-bulan, yang kini panas seperti sesuatu yang hidup. Ia tidak pernah tahu apa itu. Ia tidak pernah bertanya — ia hanya membawanya, karena peziarah itu berkata ia akan butuh. Sekarang, di depan pintu yang ditulis oleh tiga tangan, ia mulai mengerti: peziarah itu tidak memberinya jimat. Peziarah itu memberinya bagian dari pintu ini — dan ia telah membawanya pulang tanpa tahu.
+Sorin menatap batu itu — batu yang telah ia bawa dari Skyreach, yang telah dingin di telapaknya selama berminggu-minggu, yang kini panas seperti sesuatu yang hidup. Ia tidak pernah tahu apa itu. Ia tidak pernah bertanya — ia hanya membawanya, karena peziarah itu berkata ia akan butuh. Sekarang, di depan pintu yang ditulis oleh tiga tangan, ia mulai mengerti: peziarah itu tidak memberinya jimat. Peziarah itu memberinya bagian dari pintu ini — dan ia telah membawanya pulang tanpa tahu.
 
 ---
 

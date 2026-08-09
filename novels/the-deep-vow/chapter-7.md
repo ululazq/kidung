@@ -53,7 +53,7 @@ Dan untuk sesaat — hanya sesaat — Sorin merasakan sesuatu yang aneh: seolah-
 
 Lalu kedipan itu berhenti. Batu itu kembali dingin. Dan Sorin berdiri di tengah Quiet Zone, lilin di tangannya, batu di telapaknya, dan ia tidak tahu apa yang baru saja terjadi.
 
-Ia menggenggam batu itu, mencoba merasakan kehangatan itu lagi. Tidak ada — hanya dingin, tua, dan diam, seperti biasa. Tapi kejadian itu meninggalkan sesuatu di belakangnya: pertanyaan. Batu ini — batu dengan Mark pertama yang mati, yang diberikan oleh peziarah pucat di Skyreach — telah bereaksi terhadap tempat di mana tulisan diurai. Ia telah berkedip di dekat glow-grove yang mati. Ia telah menyala di dekat pintu ini. Seolah-olah ia tahu di mana ia berada. Seolah-olah ia sedang mencari sesuatu.
+Ia menggenggam batu itu, mencoba merasakan kehangatan itu lagi. Tidak ada — hanya dingin, tua, dan diam, seperti biasa. Tapi kejadian itu meninggalkan sesuatu di belakangnya: pertanyaan. Batu ini — batu dengan Mark pertama yang mati, yang diberikan oleh peziarah pucat di Skyreach — telah bereaksi terhadap tempat di mana tulisan diurai. Ia menghangat di dekat glow-grove yang mati. Dan di sini, di tempat yang mengurai, ia berkedip. Seolah-olah ia tahu di mana ia berada. Seolah-olah ia sedang mencari sesuatu.
 
 ---
 

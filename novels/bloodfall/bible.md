@@ -26,13 +26,13 @@ Kepala House Thornmarch, trah militer. Clanmark: duri. Percaya the Sealmark haru
 ### Brother Oren
 Anggota the Silent Choir di Heartland; penyamar sebagai pengelana. Membawa pesan dari Idrith (Skyreach) ke Sorin di bab 8 — termasuk kabar Tove (bebas, kembali ke Windwrights). Menjaga jalur choir di Heartland.
 
-### Cameo Pale Vow (bab 14)
-Pengkhotbah the Pale Vow muncul di tanah perang, mengajarkan the Rejoining — "dunia adalah tubuh yang dirobek". Tidak bernama; pembaca tahu ini antek Ossian. Menawarkan jalan "ke bawah" ke Sorin.
+### Cameo Ossian (bab 14)
+Pengkhotbah di tanah perang, mengajarkan the Rejoining — "dunia adalah tubuh yang dirobek". Tidak bernama di teks, tapi tanda-tandanya jelas Ossian sendiri: mata "kosong karena terbuka" / "tidak terikat" (gema peziarah pucat Book 1 bab 14) dan the Compass Sorin menanggapinya ("sesuatu yang sama") — reaksi yang tidak muncul untuk Pale Vow lain (bandingkan Dain di Book 3 bab 4). Menawarkan jalan "ke bawah" ke Sorin. Diungkap penuh di Book 3 (the Deep Vow bab 11).
 
 ### Karakter rujukan (off-stage)
 - **Idrith** — the Silent Choir (Skyreach); pesan via Oren.
 - **Tove** — bebas, di Highport; tidak bisa menyeberang the Seam (terikat Craft). Pesan via Oren; reunian di Book 4 (konvergensi).
-- **Ossian** — tidak muncul di Book 2; hanya bayangan lewat Pale Vow.
+- **Ossian** — muncul singkat menyamar sebagai pengkhotbah Pale Vow (bab 14, tidak bernama); penampilan penuh di Book 3.
 
 ---
 

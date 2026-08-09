@@ -71,7 +71,7 @@ Dain berhenti di tepi bayangan, dan untuk sesaat, wajahnya — wajah yang selalu
 
 "Ia orang yang pernah memilih jalan yang sama denganmu," kata Dain. "Dan ia berharap, suatu hari, kau tidak menyesalinya seperti ia." Ia menatap Sorin. "Turunlah, anak. Di dasar tangga ini, semua jalan bertemu. Dan di sana, kau akan menemukan jawaban yang tidak bisa kau cari di atas."
 
-Kata-kata itu. Kata-kata yang sama. Sorin merasakan sesuatu yang dingin di punggungnya — bukan karena takut, tapi karena pengakuan. *Orang yang pernah memilih jalan yang sama denganmu. Ia berharap, suatu hari, kau tidak menyesalinya seperti ia.* Kata-kata yang sama yang diucapkan peziarah pucat di Skyreach, ketika ia memberinya batu the First Reach. Kata-kata yang telah ia bawa selama berbulan-bulan, tanpa tahu siapa yang mengucapkannya.
+Kata-kata itu. Kata-kata yang sama. Sorin merasakan sesuatu yang dingin di punggungnya — bukan karena takut, tapi karena pengakuan. *Orang yang pernah memilih jalan yang sama denganmu. Ia berharap, suatu hari, kau tidak menyesalinya seperti ia.* Kata-kata yang sama yang diucapkan peziarah pucat di Skyreach, ketika ia memberinya batu the First Reach. Kata-kata yang telah ia bawa selama berminggu-minggu, tanpa tahu siapa yang mengucapkannya.
 
 *Sampai jumpa di bawah, Sorin Veyr. Kita akan bertemu lagi — di tempat di mana semua jalan bertemu.*
 
@@ -83,11 +83,11 @@ Tangannya masih gemetar — bukan karena takut, tapi karena sisa kehangatan the 
 
 Ia menatap telapaknya, tempat the Sealmark baru saja bangkit dan padam. Kekuatan yang tidak bisa ia kendalikan. Kekuatan yang membuat orang mundur, yang mengurai tulisan, yang membuat bahkan Vowmaster the Pale Vow mengakui bahwa ia nyata. Ia tidak ingin menjadi kekuatan itu. Tapi ia juga tidak bisa membuangnya — ia adalah bagian dari dirinya, seperti darah, seperti napas, seperti nama yang telah ia bawa sejak lahir.
 
-Kata-kata yang sama. Kata-kata yang diucapkan peziarah pucat di Skyreach, ketika ia memberinya batu the First Reach. Kata-kata yang telah ia bawa selama berbulan-bulan, tanpa tahu siapa yang mengucapkannya.
+Kata-kata yang sama. Kata-kata yang diucapkan peziarah pucat di Skyreach, ketika ia memberinya batu the First Reach. Kata-kata yang telah ia bawa selama berminggu-minggu, tanpa tahu siapa yang mengucapkannya.
 
 *Kita akan bertemu lagi — di tempat di mana semua jalan bertemu.*
 
-Sekarang, di tangga yang sunyi ini, kata-kata itu kembali — dan Sorin tahu bahwa ia sedang berjalan menuju ujung dari janji yang telah dibuat di Skyreach, berbulan-bulan yang lalu. Ia tidak tahu apakah yang menunggunya di bawah adalah teman atau musuh. Yang ia tahu: janji itu nyata, dan ia tidak bisa berhenti sebelum memenuhinya.
+Sekarang, di tangga yang sunyi ini, kata-kata itu kembali — dan Sorin tahu bahwa ia sedang berjalan menuju ujung dari janji yang telah dibuat di Skyreach, berminggu-minggu yang lalu. Ia tidak tahu apakah yang menunggunya di bawah adalah teman atau musuh. Yang ia tahu: janji itu nyata, dan ia tidak bisa berhenti sebelum memenuhinya.
 
 Sorin menatap ke bawah. Tangga itu masih turun, ke dalam kegelapan yang semakin dalam — dan di suatu tempat di bawah sana, di tempat di mana semua jalan bertemu, sesuatu menunggu.
 

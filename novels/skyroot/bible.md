@@ -117,10 +117,10 @@ Aturan kanon: the Stillness tidak pernah "berbicara" dan tidak punya kehendak da
 ## 5. Tokoh kunci
 
 ### Sorin (Sorin Veyr)
-Protagonis universe — satu-satunya POV utama di semua novel. Unbound, lahir di Skyreach, yatim; nama asli disembunyikan karena trahnya dihapus. Tumbuh sebagai rigger "kosong" di Highport. **The Compass** — Guildmark navigator yang "menetap" di tangannya saat Old Nahmi wafat — adalah Mark pertamanya; tidak stabil di tangan Unbound, dan menunjuk bukan ke utara, melainkan ke bawah. Sifat: keras kepala, jujur sampai naif, benci dikasihani, pelan belajar mempercayai orang.
+Protagonis universe — satu-satunya POV utama di semua novel. Unbound, lahir di Skyreach, yatim; nama asli disembunyikan karena trahnya dihapus. Tumbuh sebagai rigger "kosong" di Highport. **The Compass** — Guildmark navigator yang "menetap" di tangannya saat Old Nahmi wafat — adalah Mark pertamanya; tidak stabil di tangan Unbound, dan menunjuk bukan ke utara, melainkan ke arah segel: ke bawah (Book 1–3), lalu ke atas dan akhirnya bebas (Book 4). Sifat: keras kepala, jujur sampai naif, benci dikasihani, pelan belajar mempercayai orang.
 
 ### Ossian
-Antagonis utama universe. Vowmaster the Pale Vow, Unbound tertua yang diketahui (beberapa generasi di atas Sorin) — satu-satunya Unbound lain. Memegang Marks dari ketiga discipline. Percaya the Sundering adalah luka yang harus disembuhkan: the Stillness bocor, segel melemah, dan satu-satunya obat adalah **the Rejoining** — menyatukan kembali lapis dengan kekuatan the Pillars agar segel bisa ditulis ulang. Tulus, tenang, dan berbahaya justru karena ia benar soal kebocoran — tapi salah soal obatnya.
+Antagonis utama universe. Vowmaster the Pale Vow, Unbound tertua yang diketahui (beberapa generasi di atas Sorin) — satu-satunya Unbound lain. Memegang Marks dari ketiga discipline. Percaya the Sundering adalah luka yang harus disembuhkan: the Stillness bocor, segel melemah, dan satu-satunya obat adalah **the Rejoining** — menyatukan kembali lapis dengan kekuatan the Pillars agar segel bisa ditulis ulang. Tulus, tenang, dan berbahaya justru karena ia benar soal kebocoran — tapi salah soal obatnya. Muncul menyamar sebelum penampilan penuh: sebagai **peziarah pucat** di Aerie (Book 1 bab 14) dan sebagai **pengkhotbah Pale Vow** di tanah perang Heartland (Book 2 bab 14) — keduanya tidak bernama, ditandai mata yang tidak terikat dan the Compass yang menanggapinya.
 
 ### Pendukung berulang
 - **Tove** — windwright muda di Highport; yang pertama percaya Sorin bukan "kosong".
@@ -131,12 +131,12 @@ Antagonis utama universe. Vowmaster the Pale Vow, Unbound tertua yang diketahui 
 
 ## 6. Alur seri (roadmap)
 
-Empat novel inti, satu MC, satu lapis per novel, tiap akhir novel turun ke lapis berikutnya. Bisa diperluas: tiap lapis bisa menampung novel politik/sampingan, tapi POV utama tetap Sorin.
+Empat novel inti, satu MC, satu lapis per novel; tiap akhir novel turun ke lapis berikutnya, sampai Book 4 menyatukan ketiganya di the First Seal. Bisa diperluas: tiap lapis bisa menampung novel politik/sampingan, tapi POV utama tetap Sorin.
 
 1. **The Unbound** (order 1) — Skyreach. Sorin menemukan Mark pertamanya, diburu Guilds' Council, menerima pesan the Silent Choir, dan memulai turunan Sunpillar.
 2. **Bloodfall** (order 2) — Heartland. Menyeberang the Seam, tiba di Hearthhold, rahasia House Veyr dan the Sealmark terbuka, perang trah memperebutkannya.
 3. **The Deep Vow** (order 3) — Underreach. Deeppillar, Fane of Embers, the Long Stair, Ossian, the First Seal.
-4. **The Rejoining** (order 4) — konvergensi: kebocoran the Stillness, faksi tiga lapis, dan pilihan terakhir Sorin.
+4. **The Rejoining** (order 4) — konvergensi: kebocoran the Stillness memuncak, tiga tangan dari tiga lapis menulis ulang segel, Ossian membayar harga sendiri, dan pilihan terakhir Sorin. Penutup tetralogi.
 
 ---
 
@@ -149,4 +149,4 @@ Empat novel inti, satu MC, satu lapis per novel, tiap akhir novel turun ke lapis
 5. **the First-Marked tidak pernah tampil langsung**; hanya gema, prasasti, dan warisan.
 6. **House Veyr dihapus dari catatan resmi** — karakter yang "tahu" tentangnya harus punya alasan (Silent Choir, atau sisa catatan).
 7. **Istilah sistem selalu bahasa Inggris**; nama orang dan tempat bebas, tapi ejaan yang sudah ada di bible wajib dipakai.
-8. **The Compass menunjuk ke bawah**, bukan ke utara — simbolis: panggilan Sorin selalu turun, ke arah segel, ke arah asalnya.
+8. **The Compass menunjuk ke arah segel, bukan ke utara** — simbolis: panggilan Sorin. Book 1–3: menunjuk ke bawah (ke arah segel, ke arah asalnya); Book 4: menunjuk ke atas setelah Sorin meninggalkan segel, berbalik ke bawah saat ia memutuskan kembali, lalu — setelah segel ditulis ulang dan the Sealmark terpakai — **bebas**: tidak menunjuk ke arah mana pun kecuali yang ia pilih (Book 4 bab 16).

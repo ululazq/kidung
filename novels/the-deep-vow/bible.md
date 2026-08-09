@@ -30,7 +30,7 @@ Penjaga gerbang the Order of the Deep Vow di kepala the Long Stair (bab 5–6). 
 Penjaga terdalam the Order of the Deep Vow, satu-satunya yang berjaga di depan the First Seal (bab 10–15). Sumpah diam total — menulis di abu/batu untuk bicara. Yang terakhir dari generasi tua yang menyaksikan segel ditulis (lewat warisan lisan ordo, bukan saksi langsung). Menyaksikan pertemuan Sorin–Ossian tanpa memihak; memberi satu nasihat: "Kunci tidak pernah dimaksudkan untuk menulis ulang — hanya untuk menjaga."
 
 ### Ossian (antagonis)
-Vowmaster the Pale Vow; **peziarah pucat** yang memberi Sorin batu the First Reach di Skyreach (Book 1 bab 14) — diungkap di bab 11. Unbound tertua yang diketahui; memegang Marks dari ketiga discipline (Clanmark, Guildmark, Vowmark — bukti Unbound). Tenang, tulus, berbahaya justru karena benar soal kebocoran: segel melemah, the Stillness mengurai dunia, Quiet Zones tumbuh. Tapi obatnya — the Rejoining, menyatukan kembali lapis untuk menulis ulang segel — adalah taruhan yang bisa melepaskan the Stillness. Pernah menjadi penjaga; "memilih jalan yang sama" dengan Sorin, dan kehilangan segalanya. Meninggalkan Sorin di bab 14 dengan janji: Rejoining akan datang; "kita akan bertemu lagi."
+Vowmaster the Pale Vow; **peziarah pucat** yang memberi Sorin batu the First Reach di Skyreach (Book 1 bab 14) — dan sebelumnya menyamar sebagai **pengkhotbah Pale Vow** di tanah perang Heartland (Book 2 bab 14) — diungkap di bab 11. Unbound tertua yang diketahui; memegang Marks dari ketiga discipline (Clanmark, Guildmark, Vowmark — bukti Unbound). Tenang, tulus, berbahaya justru karena benar soal kebocoran: segel melemah, the Stillness mengurai dunia, Quiet Zones tumbuh. Tapi obatnya — the Rejoining, menyatukan kembali lapis untuk menulis ulang segel — adalah taruhan yang bisa melepaskan the Stillness. Pernah menjadi penjaga; "memilih jalan yang sama" dengan Sorin, dan kehilangan segalanya. Meninggalkan Sorin di bab 14 dengan janji: Rejoining akan datang; "kita akan bertemu lagi."
 
 ### Karakter rujukan (off-stage)
 - **Idrith / Oren** — the Silent Choir; jalur kabar.
@@ -77,7 +77,7 @@ Berlangsung ±3 minggu, dari Fane of Embers sampai the First Seal dan kembali.
 
 | Item | Tanam | Tembak | Catatan |
 |---|---|---|---|
-| Batu the First Reach | Book 1 bab 14 | bab 15 (memperkuat segel), bab 16 (dibawa naik) | "Menghangat" mulai bab 8 |
+| Batu the First Reach | Book 1 bab 14 | bab 15 (memperkuat segel), bab 16 (dibawa naik) | Hangat samar bab 3 (glow-grove), berkedip bab 7 (Quiet Zone), menyala penuh bab 10–15 (segel) |
 | Peziarah pucat = Ossian | Book 1 bab 14 | bab 11 (ungkap), bab 12 (kisah) | Nama Ossian pertama disebut teks (bab 4) |
 | "Kita akan bertemu lagi — di tempat di mana semua jalan bertemu" | Book 1 bab 14 | bab 10 (tiba di seal), bab 12 (Ossian) | Pay-off penuh |
 | the Sealmark (kunci) | Book 2 | bab 2 (ujian api), bab 11 (resonansi), bab 15 (perkuat segel) | Dipakai untuk pertama kalinya |
