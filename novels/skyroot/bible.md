@@ -123,9 +123,14 @@ Protagonis universe — satu-satunya POV utama di semua novel. Unbound, lahir di
 Antagonis utama universe. Vowmaster the Pale Vow, Unbound tertua yang diketahui (beberapa generasi di atas Sorin) — satu-satunya Unbound lain. Memegang Marks dari ketiga discipline. Percaya the Sundering adalah luka yang harus disembuhkan: the Stillness bocor, segel melemah, dan satu-satunya obat adalah **the Rejoining** — menyatukan kembali lapis dengan kekuatan the Pillars agar segel bisa ditulis ulang. Tulus, tenang, dan berbahaya justru karena ia benar soal kebocoran — tapi salah soal obatnya. Muncul menyamar sebelum penampilan penuh: sebagai **peziarah pucat** di Aerie (Book 1 bab 14) dan sebagai **pengkhotbah Pale Vow** di tanah perang Heartland (Book 2 bab 14) — keduanya tidak bernama, ditandai mata yang tidak terikat dan the Compass yang menanggapinya.
 
 ### Pendukung berulang
-- **Tove** — windwright muda di Highport; yang pertama percaya Sorin bukan "kosong".
+- **Tove** — windwright muda di Highport; yang pertama percaya Sorin bukan "kosong". Tangan Craft yang ikut menulis ulang segel (Book 2; Book 4).
 - **Sister Idrith** — anggota the Silent Choir; kurir rahasia yang membawa kebenaran ke Sorin.
 - **Master Voss** — kepala Navigators' Guild; antagonis Book 1; ingin menggunakan (atau membedah) Sorin.
+- **Old Nahmi** — navigator tua Highport; satu-satunya yang memperlakukan Sorin sebagai anak, bukan "yang kosong". Mark-nya, the Compass, "menetap" di tangan Sorin saat ia wafat (Book 1 bab 1–5; dikenang Book 4 bab 6–8).
+- **Maren** — "pengasuh" House Veyr di Hearthhold; satu-satunya yang tersisa yang tahu lorong rahasia Veyr menuju Bloodpillar; penjaga jalan ke segel dari sisi Heartland (Book 2 bab 10; disebut Book 4 bab 2).
+- **Seren (Seren Ashvale)** — pewaris House Ashvale, anak Theron; satu-satunya dari Houses yang memilih percaya Sorin. Tangan Bloodline yang ikut menulis ulang segel (Book 2 bab 13+; Book 4).
+- **the Silence Keeper** — penjaga terdalam Order of the Deep Vow di dasar the Long Stair; tidak berbicara, menulis di papan batu; telah berjaga di depan pintu selama bertahun-tahun. Tangan Vow yang ikut menulis ulang segel (Book 3 bab 10; Book 4 bab 11–12).
+- **Keeper Verra** — pemimpin the Ember Fane di Fane of Embers; menguji Sorin dan mengizinkannya turun ke the Long Stair; memfasilitasi kembalinya Sorin ke the First Seal (Book 3 bab 1; Book 4 bab 11).
 
 ---
 
