@@ -31,17 +31,17 @@ Pak Seno merogoh leher bajunya, mengeluarkan sebuah kalung kunci kuningan beruki
 
 Di dalam ceruk dinding yang berdebu, tergeletak sebuah peti kayu jati berukir berlapis pelat tembaga tua. Udara di dalam ceruk itu berbau dupa harum dan tembaga murni yang diaawetkan.
 
-Pak Seno mengangkat penutup peti itu secara perlahan, memperlihatkan sebuah pelindung bahu bertatahkan ukiran sigil perunggu murni yang memancarkan pendaran keemasan lembut dan hangat—*Regulator Tembaga Sejati* peninggalan era *Sangha Network*.
+Pak Seno mengangkat penutup peti itu secara perlahan, memperlihatkan sebuah pelindung bahu bertatahkan ukiran sigil perunggu murni yang memancarkan pendaran keemasan lembut dan hangat—*Regulator Tembaga Sejati* peninggalan era *Penempa Sangha*.
 
 "Ini bukan modul rakitan biasa," bisik Pak Seno, matanya tua memancarkan kerinduan dan kepedihan masa lalu saat meraba permukaan pelindung tembaga tersebut. "Ini adalah Regulator Sejati buatan Empu Aether, dibuat khusus untuk mendampingi Astra Besi. Tiga puluh tahun lalu, guru penempaku mengenakannya di bahu kanan saat menahan serangan pertama Lupa Corp di pelabuhan tua."
 
-Pak Seno menceritakan bagaimana faksi *Sangha Network* pernah berdiri kukuh di tanah Batavia, menjaga harmoni antara teknologi dan energi alam sebelum korporasi *Lupa Corp* menggunakan kekuatan militer swasta untuk membubarkan para penempa dan menyita relik-relik suci.
+Pak Seno menceritakan bagaimana faksi *Penempa Sangha* pernah berdiri kukuh di tanah Batavia, menjaga harmoni antara teknologi dan energi alam sebelum korporasi *Lupa Corp* menggunakan kekuatan militer swasta untuk membubarkan para penempa dan menyita relik-relik suci.
 
 Bagas menatap pelindung tembaga itu dengan takjub. Pendaran hangat dari sigil perunggu di atasnya bergetar halus, seolah-olah menyapa pendaran redup di pelat *Astra Besi* di lengannya.
 
 "Kenapa Pak Seno tidak memasangkan ini dari awal semalam?" tanya Bagas, memandangi wajah tua mentornya.
 
-"Karena Regulator Sejati ini tidak pernah diberikan kepada sembarang pengguna," kata Pak Seno, menatap lurus ke dalam mata Bagas dengan kesungguhan yang menggetarkan dada. "Relik ini hanya diserahkan kepada seseorang yang siap mengikatkan jiwanya sebagai penerus garis penempa Sangha Network. Dulu aku ragu apakah kau sanggup menahan beban ini."
+"Karena Regulator Sejati ini tidak pernah diberikan kepada sembarang pengguna," kata Pak Seno, menatap lurus ke dalam mata Bagas dengan kesungguhan yang menggetarkan dada. "Relik ini hanya diserahkan kepada seseorang yang siap mengikatkan jiwanya sebagai penerus garis penempa Sangha. Dulu aku ragu apakah kau sanggup menahan beban ini."
 
 Pak Seno mengangkat pelindung tembaga itu dari dalam peti dengan kedua tangannya yang gemetar.
 
@@ -67,7 +67,7 @@ Bagas menyambut peta kulit itu dengan tangan besinya, menyadari bahwa perjalanan
 
 Di dalam ruang tempa bawah tanah yang diterangi pendaran keemasan *Regulator Tembaga*, Bagas memegang gulungan peta kulit tua tersebut dengan jemari besinya. Garis-garis cetak biru di dalam peta menampilkan struktur tiga lantai basemen di bawah Markas Utama Faksi JagadBumi, termasuk lokasi laboratorium reaktor *Godframe* dan ruang kontrol utama Komandan Vane.
 
-"Skema ini dibuat oleh para penempa Sangha Network sebelum markas itu diambil alih oleh Lupa Corp," kata Pak Seno seraya menunjuk jalur pipa uap di peta. "Jalur suplai energi reaktor mereka terhubung langsung ke kanal bawah tanah. Kalau kau bisa menembus Sektor Tiga dan menggunakan *Karma Trace* pada saluran transmisi utama mereka, seluruh sistem pertahanan exoskeleton mereka akan lumpuh."
+"Skema ini dibuat oleh para penempa Sangha sebelum markas itu diambil alih oleh Lupa Corp," kata Pak Seno seraya menunjuk jalur pipa uap di peta. "Jalur suplai energi reaktor mereka terhubung langsung ke kanal bawah tanah. Kalau kau bisa menembus Sektor Tiga dan menggunakan *Karma Trace* pada saluran transmisi utama mereka, seluruh sistem pertahanan exoskeleton mereka akan lumpuh."
 
 Dimas melangkah mendekati mereka dari tangga palka, matanya memandangi modul tembaga di bahu Bagas dengan takjub. "Gue nggak pernah liat teknologi kaya gini, Pak Seno. Lengan besinya kelihatan seperti bersatu utuh sama bahu Bagas tanpa ada celah sama sekali. Pendaran sinarnya halus banget."
 

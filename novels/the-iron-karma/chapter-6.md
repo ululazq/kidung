@@ -21,7 +21,7 @@ Di telinga kirinya, earphone taktis kabel kecil yang terhubung ke perangkat radi
 
 "Diterima, Pak Seno," kata Bagas pelan. "Aku paham taruhannya."
 
-"Penempa Sangha Network zaman dulu tidak pernah bertarung secara buta di jalanan," tambah Pak Seno melalui sambungan radio, nadanya terdengar seperti seorang guru yang membimbing murid utamanya. "Mereka membaca alur pergerakan musuh sebelum musuh menyadari bahwa mereka sedang diincar. Gunakan intuisi *Karma Trace* yang kau pelajari tadi pagi di ruang tempa bawah tanah. Jangan gunakan otot kasarmu kalau kau tidak ingin lenganmu membusuk oleh *cellular necrosis*."
+"Penempa Sangha zaman dulu tidak pernah bertarung secara buta di jalanan," tambah Pak Seno melalui sambungan radio, nadanya terdengar seperti seorang guru yang membimbing murid utamanya. "Mereka membaca alur pergerakan musuh sebelum musuh menyadari bahwa mereka sedang diincar. Gunakan intuisi *Karma Trace* yang kau pelajari tadi pagi di ruang tempa bawah tanah. Jangan gunakan otot kasarmu kalau kau tidak ingin lenganmu membusuk oleh *cellular necrosis*."
 
 Bagas menarik sarung tangan taktis serat karbon tebal di tangan kirinya, memastikan jemari besinya di tangan kanan bebas hambatan mekanis.
 

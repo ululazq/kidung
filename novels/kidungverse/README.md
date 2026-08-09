@@ -21,7 +21,7 @@ Tiga novel yang menyelesaikan audit lintas novel penuh dan memakai kosakata mult
 2. **The Aetherium Vow** — Aetherium Vow dan Konsorsium Kunci di galangan kapal Bawah-Batavia.
 3. **The Cinder Relic** — Cinder Relic dan Penempa Sangha di Pesisir Kuno Neo-Batavia.
 
-Keluarga Kidungverse yang lebih luas mencakup 27 novel (per 2026-08-09) yang ikut memakai kosakata bersama.
+Keluarga Kidungverse yang lebih luas mencakup 28 novel (per 2026-08-09) yang ikut memakai kosakata bersama.
 
 ## Serial (urutan baca)
 
@@ -37,7 +37,7 @@ Keluarga Kidungverse yang lebih luas mencakup 27 novel (per 2026-08-09) yang iku
 8. **The Astral Sovereign** — Complete — cincin Astrakan dan segel Empu Kuno di Jakarta Sub-5.
 9. **The Clockwork Astra** — Complete — sarung lengan kuningan di Aether-London Bawah.
 10. **The Neon Cipher** — Complete — modul segel aetheric di Shinjuku Bawah.
-11. **The Aegis of Aether** — In Progress — Aegis Aether, relik perisai gravitasi hampa Elian Vance.
+11. **The Aegis of Aether** — Complete — Aegis Aether, relik perisai gravitasi hampa Elian Vance.
 12. **Kidung Tanah Karam** — Complete — Sekar Ratri, 12 kidung penahan laut, Ki Danu Sasangka.
 13. **Pegadaian Bunga** — Complete — Melati Kusuma dan toko gadai yang menggadaikan ingatan.
 14. **Pasar Subuh** — Complete — pasar arwah di Rel Karang dan Wulan yang menolak menjual penutup.
@@ -48,12 +48,13 @@ Keluarga Kidungverse yang lebih luas mencakup 27 novel (per 2026-08-09) yang iku
 19. **Tangan Guntur** — Complete — Arka dan Tangan Guntur di Tanjung Guntur.
 20. **The Godherd** — Complete — dewa sebagai bahan bakar di Kekaisaran Tianyun.
 21. **The Last Teacher** — Complete — jiwa Kelas Bawah di Kekaisaran Daluo.
-22. **Pustaka Kabut Senja** — In Progress — Baskara Aji, Tinta Aetheric, dan Pustaka Kabut Kotatua.
-23. **Sang Pembawa Pelita** — In Progress — Pelita Jiwa dan Gandra di Bawah-Batavia.
-24. **Serat Penempa Hampa** — In Progress — Serat Penempa Hampa, Arya Pradipta, Bawah-Batavia.
-25. **The Copper Relic** — In Progress — Regulator Kuningan Sejati, lanjutan Raka.
-26. **The Resonance Blade** — In Progress — Bilah Resonansi, Rian Vance, Empu Aether.
-27. **The Shadow Forger** — In Progress — Astra Tempa Bayangan, Arya Pradipta, Bawah-Batavia.
+22. **Pustaka Kabut Senja** — Complete — Baskara Aji, Tinta Aetheric, dan Pustaka Kabut Kotatua.
+23. **Sang Pembawa Pelita** — Complete — Pelita Jiwa dan Gandra di Bawah-Batavia.
+24. **Serat Penempa Hampa** — Complete — Serat Penempa Hampa, Arya Pradipta, Bawah-Batavia.
+25. **The Copper Relic** — Complete — Regulator Kuningan Sejati, montir Wira di Dermaga Sektor 6.
+26. **The Resonance Blade** — Complete — Bilah Resonansi, Rian Vance, Empu Aether.
+27. **The Shadow Forger** — In Progress — Astra Tempa Bayangan, Galang Pradipta, Bawah-Batavia.
+28. **The Iron Karma** — Complete — Astra Besi, Bagas, Faksi JagadBumi & Lupa Corp di Kota Tua Jakarta.
 
 ## Dokumen Kanon
 

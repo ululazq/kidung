@@ -9,7 +9,7 @@ Di dalam aula laboratorium raksasa bawah tanah Sektor 1 yang seluas lapangan sep
 
 Di atas podium konsol utama reaktor, Komandan Vane berdiri tegak dengan zirah Exoskeleton Berat hitamnya yang membara merah dalam mode Overdrive.
 
-"Kurir nekat..." desis Komandan Vane, suaranya bertingkat dan menggelegar dari pengeras suara sintetisnya. "Kau berhasil menembus terowongan tua peninggalan Sangha Network, tapi kau terlambat! Reaktor Godframe sudah mencapai kapasitas seratus persen. Dalam tiga menit, seluruh memori warga Kota Tua akan diserap permanen menjadi bahan bakar reaktor korporasi kami! Kami menciptakan ketertiban baru di atas puing-puing ingatan mereka! Warga kecil tidak butuh sejarah, mereka cuma butuh bekerja untuk Lupa Corp! Korporasi kami adalah pemilik masa depan kota ini!"
+"Kurir nekat..." desis Komandan Vane, suaranya bertingkat dan menggelegar dari pengeras suara sintetisnya. "Kau berhasil menembus terowongan tua peninggalan Penempa Sangha, tapi kau terlambat! Reaktor Godframe sudah mencapai kapasitas seratus persen. Dalam tiga menit, seluruh memori warga Kota Tua akan diserap permanen menjadi bahan bakar reaktor korporasi kami! Kami menciptakan ketertiban baru di atas puing-puing ingatan mereka! Warga kecil tidak butuh sejarah, mereka cuma butuh bekerja untuk Lupa Corp! Korporasi kami adalah pemilik masa depan kota ini!"
 
 Melalui earphone taktisnya, suara Dimas berteriak kencang di antara desisan frekuensi radio dari lorong kanal bawah.
 
@@ -93,7 +93,7 @@ Dimas melangkah mendekat ke samping Bagas, menatap cangkang zirah Komandan Vane 
 
 Bagas mengurut tempurung lutut kanannya yang kini terasa tenang tanpa rasa sakit sedikit pun. Pendaran keemasan dari modul *Regulator Tembaga Sejati* dan pelat *Astra Besi* mereda perlahan, menyatu rapi di bawah kulit tangannya bagaikan rajatan kuningan tua yang bersemayam harmonis.
 
-"Kemenangan ini bukan cuma milik kita, Dimas," kata Bagas pelan seraya menatap tabung detonator di inti reaktor. "Ini milik Pak Seno, para penempa Sangha Network, dan seluruh warga Kota Tua yang tidak pernah menyerah pada ketakutan. Perjuangan ini telah membuktikan bahwa cahaya tidak bisa dipadamkan oleh kegelapan. Kita telah menjaga tanah kelahiran ini bersama-sama dengan penuh keberanian."
+"Kemenangan ini bukan cuma milik kita, Dimas," kata Bagas pelan seraya menatap tabung detonator di inti reaktor. "Ini milik Pak Seno, para penempa Sangha, dan seluruh warga Kota Tua yang tidak pernah menyerah pada ketakutan. Perjuangan ini telah membuktikan bahwa cahaya tidak bisa dipadamkan oleh kegelapan. Kita telah menjaga tanah kelahiran ini bersama-sama dengan penuh keberanian."
 
 "Selanjutnya kita mau ke mana, Gas?" tanya Dimas. "Bengkel Stasiun 13 udah hancur. Tapi jaringan kurir Midnight Runner di luar sana nunggu arahan dari lu. Semua orang butuh pimpinan baru untuk menata kembali stasiun perlawanan kita."
 

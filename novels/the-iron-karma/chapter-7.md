@@ -15,7 +15,7 @@ Dimas berdiri bersandar pada rak perkakas mekanik dengan bahu dan dadanya yang m
 
 "Gue lihat sendiri di kamp Pindah Wetan," tambah Dimas dengan suara merendah. "Orang-orang yang ikutan *Forgetting Therapy* Lupa Corp... mereka memang nggak nangis lagi mikirin rumah mereka yang tenggelam. Tapi mata mereka kosong, Gas. Mereka nggak kenal lagi tetangga lama mereka dan cuma duduk diam nunggu pembagian jatah. Lupa Corp bikin mereka jadi orang asing di tanah sendiri."
 
-"Korporasi raksasa tidak pernah menghitung uang saat mengejar kekuatan," jawab Pak Seno datar. Dengan ketelitian dan kesabaran seorang penempa tua veteran, jemarinya yang tebal dan bernoda oli hitam memindahkan chip kristal memori dari peti perak tersebut ke dalam port dekoder biometrik kuno buatan Sangha Network yang terpasang di samping monitor cembung.
+"Korporasi raksasa tidak pernah menghitung uang saat mengejar kekuatan," jawab Pak Seno datar. Dengan ketelitian dan kesabaran seorang penempa tua veteran, jemarinya yang tebal dan bernoda oli hitam memindahkan chip kristal memori dari peti perak tersebut ke dalam port dekoder biometrik kuno buatan Penempa Sangha yang terpasang di samping monitor cembung.
 
 Pak Seno memutar knop dekoder, menyelaraskan frekuensi gelombang dengan deretan angka aljabar di layar.
 
@@ -43,7 +43,7 @@ Di dalam berkas *Proyek Ekstraksi Karma*, terlampir skema arsitektur menara komu
 
 Bagas mengernyitkan alisnya yang tebal, merasakan denyutan hangat di lengan besinya. "Reaktor *Godframe*?"
 
-"Puncak eksperimen Lupa Corp," jawab Pak Seno, nada bicaranya penuh kengerian yang terendam dan mendalam. "Sebuah mesin penyerap energi karma murni buatan manusia. Puluhan tahun lalu, Sangha Network bertarung untuk menghentikan cikal bakal reaktor ini. Tapi sekarang mereka membangunnya kembali di bawah tanah Kota Tua. Dan untuk mengaktifkan reaktor itu dalam skala penuh, mereka membutuhkan energi kinetik berdaya lecut tinggi—energi murni yang hanya bisa dihasilkan oleh relik-relik tua *Sangha Network*, termasuk *Astra Besi* yang mengunci di lengan kananmu."
+"Puncak eksperimen Lupa Corp," jawab Pak Seno, nada bicaranya penuh kengerian yang terendam dan mendalam. "Sebuah mesin penyerap energi karma murni buatan manusia. Puluhan tahun lalu, Penempa Sangha bertarung untuk menghentikan cikal bakal reaktor ini. Tapi sekarang mereka membangunnya kembali di bawah tanah Kota Tua. Dan untuk mengaktifkan reaktor itu dalam skala penuh, mereka membutuhkan energi kinetik berdaya lecut tinggi—energi murni yang hanya bisa dihasilkan oleh relik-relik tua *Penempa Sangha*, termasuk *Astra Besi* yang mengunci di lengan kananmu."
 
 Pak Seno memiringkan layar monitor, memperlihatkan skema pemancar menara Stasiun 13.
 
@@ -87,7 +87,7 @@ Dimas melangkah mendekati meja, meletakkan tangannya di bahu kiri Bagas. "Gue ik
 
 Bagas berjalan ke arah jendela kecil di sudut ruang belakang, memandangi bayangan siluet menara komunikasi Stasiun 13 yang menjulang tinggi di kejauhan di balik rel kereta. Menara itu berdiri kaku bagaikan monumen raksasa dari besi yang siap memangsa ingatan kota.
 
-Bagas menyentuh pelat *Astra Besi* di lengannya, merasakan getaran hangat yang merambat penuh keberanian. Refleks wushu dan ilmu penempaan *Sangha Network* yang dipelajarinya kini siap disatukan demi satu tujuan tunggal.
+Bagas menyentuh pelat *Astra Besi* di lengannya, merasakan getaran hangat yang merambat penuh keberanian. Refleks wushu dan ilmu penempaan *Penempa Sangha* yang dipelajarinya kini siap disatukan demi satu tujuan tunggal.
 
 Sore itu, di dalam ruang belakang bengkel yang remang-remang, keputusan besar dibuat: pertempuran di Kota Tua bukan lagi tentang melarikan diri dari takdir, melainkan tentang menghancurkan menara yang ingin merenggut ingatan manusia.
 ---

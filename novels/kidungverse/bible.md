@@ -13,7 +13,7 @@ Kidungverse menaungi dua lapisan besar yang hidup berdampingan di semesta yang s
 | Lapisan | Isi | Contoh novel |
 |---|---|---|
 | **Bawah-Batavia / Neo-Batavia** | Kota bawah tanah steampunk di bawah kota permukaan industrial. Kanal, uap, batu bara, lampu merkuri, sektor, dermaga, gang. | the-shadow-compiler, the-aetherium-vow, the-cinder-relic, the-aegis-of-aether, the-copper-relic, the-resonance-blade, the-shadow-forger, sang-pembawa-pelita, serat-penempa-hampa, the-clockwork-astra, the-neon-cipher |
-| **Mitologi Nusantara & urban modern** | Dunia-dunia folk-horror/urban-fantasy Indonesia: kidung, keris, dewa dalam guci, pasar arwah, pegadaian gaib, kota senja. | kidung-tanah-karam, kidung-bayang-batavia, gods-in-jars, lantern-of-night, pasar-subuh, pegadaian-bunga, pustaka-kabut-senja, the-host |
+| **Mitologi Nusantara & urban modern** | Dunia-dunia folk-horror/urban-fantasy Indonesia: kidung, keris, dewa dalam guci, pasar arwah, pegadaian gaib, kota senja. | kidung-tanah-karam, kidung-bayang-batavia, gods-in-jars, lantern-of-night, pasar-subuh, pegadaian-bunga, pustaka-kabut-senja, the-host, the-iron-karma |
 
 Selain itu ada novel-novel bergenre action-fantasy/cultivation di benua imajiner (sang-garuda, sang-pemangku-fajar, sang-pembawa-angin, sang-penyimpan-bilah, tangan-guntur, the-godherd, the-last-teacher, the-astral-sovereign) yang berbagi semesta lewat kosakata bersama (godframe, Lupa Corp, Sangha, motif multiverse) tanpa berbagi setting.
 
@@ -46,6 +46,7 @@ Aturan: novel boleh menambah detail lokal, tetapi tidak boleh melanggar entri di
 | Astra Tempa Bayangan | the-shadow-forger |
 | Pelita Jiwa | sang-pembawa-pelita |
 | Serat Penempa Hampa | serat-penempa-hampa |
+| Astra Besi (Relik Karma) | the-iron-karma |
 | Cincin Astrakan, sarung lengan kuningan, modul segel aetheric | the-astral-sovereign, the-clockwork-astra, the-neon-cipher |
 
 Awalan **"Aether-"** (Aether-Horologium, Aether-D3, Aether-London) adalah pola penamaan bersama.
@@ -61,6 +62,7 @@ Awalan **"Aether-"** (Aether-Horologium, Aether-D3, Aether-London) adalah pola p
 | **Penempa Sangha / Sangha** | Bersama | Ordo penempa sirkuit Kuno. |
 | **Konsorsium Kunci / Benteng Kunci** | Unik | Korporasi pemburu relik aetherium, Komandan Varek (the-aetherium-vow). |
 | **The Obsidian Covenant** | Unik | Organisasi paramiliter Kapten Brata (the-cinder-relic). |
+| **Faksi JagadBumi** | Unik | Milisi berteknologi tinggi Komandan Vane, didanai Lupa Corp (the-iron-karma). |
 
 Riwayat kebocoran yang diperbaiki: Lupa Corp awalnya bocor ke draf the-aetherium-vow; karena Lupa Corp adalah entitas bersama, korporasi aetherium di-rename menjadi **Konsorsium Kunci** (55 titik diperbarui). Jangan memunculkan Lupa Corp sebagai entitas *baru* di novel lain — ia sudah milik bersama, tetapi klaim-klaim spesifiknya (tabung memori, tiket antrean) mengikuti novel asalnya.
 
@@ -69,7 +71,7 @@ Riwayat kebocoran yang diperbaiki: Lupa Corp awalnya bocor ke draf the-aetherium
 ## 5. Godframe & zirah
 
 - **godframe / Godframe** — kategori teknis umum zirah tempur. **Bersama** (generik).
-- **Model spesifik adalah UNIK**: Iron Monarch (the-shadow-compiler), Iron-Godframe (the-cinder-relic), Steam-Colossus (the-aetherium-vow), Heavy-Godframe (the-aegis-of-aether). Jangan dipinjam antar novel.
+- **Model spesifik adalah UNIK**: Iron Monarch (the-shadow-compiler), Iron-Godframe (the-cinder-relic), Steam-Colossus (the-aetherium-vow), Heavy-Godframe (the-aegis-of-aether), Boiler-Godframe (sang-pembawa-pelita), Copper-Godframe (the-copper-relic), Sonic-Godframe (the-resonance-blade), Shadow-Godframe (the-shadow-forger). Jangan dipinjam antar novel.
 
 ---
 
@@ -107,6 +109,6 @@ Motif yang menyambung: **Lupa Corp** muncul di gods-in-jars, kidung-tanah-karam,
 
 ## 9. Serial & status
 
-27 novel ber-`universe: "Kidungverse"` (per 2026-08-09), urut `order` (lihat README untuk daftar lengkap). Tiga serial inti yang menyelesaikan audit lintas novel penuh: **The Shadow Compiler** (1), **The Aetherium Vow** (2), **The Cinder Relic** (3). Sisa novel mengikuti urutan penulisan (tanggal `started`), bukan kronologi in-universe — Kidungverse tidak punya satu garis waktu naratif tunggal.
+28 novel ber-`universe: "Kidungverse"` (per 2026-08-09), urut `order` (lihat README untuk daftar lengkap). Tiga serial inti yang menyelesaikan audit lintas novel penuh: **The Shadow Compiler** (1), **The Aetherium Vow** (2), **The Cinder Relic** (3). Sisa novel mengikuti urutan penulisan (tanggal `started`), bukan kronologi in-universe — Kidungverse tidak punya satu garis waktu naratif tunggal.
 
 Dokumen terkait: `compendium.md` (istilah multiverse, status bersama/unik/gema, kaidah detail), `timeline.md` (garis waktu ringkas).

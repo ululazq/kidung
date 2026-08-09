@@ -19,11 +19,11 @@ Dimas terbatuk-batuk di sudut ruangan, memegangi dadanya yang terbebat kassa ser
 
 Pak Seno berdiri di dekat pintu palka bawah tanah seraya memegang dua tabung gas tempa cair bertekanan tinggi dengan kedua tangannya yang tebal. Wajah tuanya yang bernoda oli hitam tampak luar biasa tenang, namun matanya memancarkan kesungguhan seorang pejuang veteran yang tak tergoyahkan oleh maut.
 
-"JagadBumi tahu ini adalah satu-satunya markas perlawanan dan ruang tempa kita," kata Pak Seno, suaranya dalam, berat, dan bergaung tegap di antara gemuruh api. "Komandan Vane tidak akan pernah berhenti sebelum bengkel ini dan seluruh palka bawah tanah ini rata dengan tanah. Mereka ingin menghancurkan jejak terakhir Sangha Network agar kejahatan Lupa Corp tetap tersembunyi dari warga kota."
+"JagadBumi tahu ini adalah satu-satunya markas perlawanan dan ruang tempa kita," kata Pak Seno, suaranya dalam, berat, dan bergaung tegap di antara gemuruh api. "Komandan Vane tidak akan pernah berhenti sebelum bengkel ini dan seluruh palka bawah tanah ini rata dengan tanah. Mereka ingin menghancurkan jejak terakhir Penempa Sangha agar kejahatan Lupa Corp tetap tersembunyi dari warga kota."
 
 Komandan Vane melangkah masuk menembus kobaran api dinding depan yang hancur, meriam pneumatiknya yang membara diarahkan langsung ke ruang belakang. Pelat zirah Exoskeleton Beratnya menyala merah membara dalam mode Overdrive, pendorong uap di punggungnya meraung-raung melepaskan asap merah pekat.
 
-"Serahkan *Astra Besi* dan *Regulator Tembaga* itu, Seno!" bentak Komandan Vane melalui pengeras suara sintetisnya yang bertingkat. "Kau tidak akan pernah bisa meloloskan dua budak kurirmu dari tempat ini! Hari ini, garis keturunan penempa Sangha Network akan punah!"
+"Serahkan *Astra Besi* dan *Regulator Tembaga* itu, Seno!" bentak Komandan Vane melalui pengeras suara sintetisnya yang bertingkat. "Kau tidak akan pernah bisa meloloskan dua budak kurirmu dari tempat ini! Hari ini, garis keturunan penempa Sangha akan punah!"
 
 ---
 
@@ -39,7 +39,7 @@ Pak Seno menggelengkan kepalanya pelan. Sebuah senyuman tenang dan tulus terkulu
 
 "Tidak, Pak Seno!" jerit Dimas seraya mencoba memanjat tangga semen kembali dari bawah. "Kita bisa bertarung bertiga! Gue nggak bakal tinggalkan Bapak di sini sendirian!"
 
-"Tugas kalian belum selesai, Dimas! Dengarkan aku!" pangkas Pak Seno dengan suara yang menggetarkan seluruh jiwa mereka. Ia menatap Bagas lurus ke dalam matanya. "Bagas... kau bukan lagi kurir pengantar paket yang melarikan diri dari takdir. Kau adalah penempa sejati Sangha Network. Lindungi ingatan, sejarah, dan identitas orang-orang kecil Kota Tua!"
+"Tugas kalian belum selesai, Dimas! Dengarkan aku!" pangkas Pak Seno dengan suara yang menggetarkan seluruh jiwa mereka. Ia menatap Bagas lurus ke dalam matanya. "Bagas... kau bukan lagi kurir pengantar paket yang melarikan diri dari takdir. Kau adalah penempa sejati Sangha. Lindungi ingatan, sejarah, dan identitas orang-orang kecil Kota Tua!"
 
 *KLANG-KREK!*
 
@@ -53,7 +53,7 @@ Ledakan dahsyat gas tempa meledakkan seluruh ruang belakang bengkel dalam seketi
 
 "PAKKK SENOOOOO!" jerit Bagas, tangannya menghantam pintu palka besi yang terkunci mati di atas kepalanya. Bagas mencoba menghantamkan *Astra Besi* untuk membongkar selak palka, tetapi reruntuhan semen tebal dan balok kayu terbakar di atas pintu menahannya kaku.
 
-Namun di luar kisi-kisi besi, hanya ada kobaran api raksasa dan reruntuhan kayu terbakar yang menimbun palka dari atas. Pak Seno telah gugur, mengorbankan nyawanya demi melindungi keselamatan mereka dan warisan *Sangha Network*.
+Namun di luar kisi-kisi besi, hanya ada kobaran api raksasa dan reruntuhan kayu terbakar yang menimbun palka dari atas. Pak Seno telah gugur, mengorbankan nyawanya demi melindungi keselamatan mereka dan warisan *Penempa Sangha*.
 
 Dimas terduduk di tangga semen yang dingin, menangis sesenggukan memegangi dadanya yang memar di kegelapan.
 
@@ -75,7 +75,7 @@ Bagas merogoh gulungan peta kertas kulit tua yang diberikan Pak Seno sebelum pen
 
 "Maksud lu... kita bakal serbu markas utama JagadBumi di Sektor Satu?" tanya Dimas, suaranya bergetar antara cemas dan tekad yang menyala.
 
-"Ya," jawab Bagas tegas seraya mengepalkan jemari lengan besinya *Astra Besi*. "Reaktor *Godframe* di bawah tanah Sektor Satu harus dihancurkan sebelum purnama berakhir. Kita akan menyelesaikan apa yang telah dimulai oleh Pak Seno dan para penempa Sangha Network. Tidak ada lagi jalan mundur bagi kita. Kita akan meruntuhkan Lupa Corp dan JagadBumi sampai akar-akarnya."
+"Ya," jawab Bagas tegas seraya mengepalkan jemari lengan besinya *Astra Besi*. "Reaktor *Godframe* di bawah tanah Sektor Satu harus dihancurkan sebelum purnama berakhir. Kita akan menyelesaikan apa yang telah dimulai oleh Pak Seno dan para penempa Sangha. Tidak ada lagi jalan mundur bagi kita. Kita akan meruntuhkan Lupa Corp dan JagadBumi sampai akar-akarnya."
 
 "Gue percaya sama lu, Gas," kata Dimas seraya berdiri dari tangga semen, membasuh wajahnya dengan lengan baju. "Seno tua udah mempertaruhkan semuanya buat kita. Gue bakal ikuti lu sampai ke laboratorium utama mereka. Api yang mereka nyalakan hari ini bakal membakar balik markas mereka sendiri."
 
@@ -83,5 +83,5 @@ Dimas berdiri tegak dari tangga semen, menyeka mukanya, lalu mengangguk penuh te
 
 Bagas memandangi pintu palka atas yang tertimbun reruntuhan kayu terbakar untuk terakhir kalinya. Di dalam hatinya, ia mengikrarkan janji suci: pengorbanan Pak Seno tidak akan pernah sia-sia. Bayangan senyum Pak Seno dan pesan terakhirnya akan terus membimbing setiap tebasan tangannya di medan laga.
 
-Langkah kaki Bagas dan Dimas bergaung tegas menyusuri lorong rel bawah tanah, menuju jalur kanal Sektor Satu. Duka paling kelam telah melahirkan tekad paling keras di dalam jiwa Bagas. Seorang kurir malam yang dulu meratapi nasibnya kini telah melangkah sepenuhnya sebagai penempa pelindung yang siap menerjang markas musuh demi kebebasan Kota Tua. Seluruh jiwa dan raganya kini menyatu utuh bersama warisan Sangha Network untuk menyambut pertarungan akhir di bawah tanah Jakarta. Tak ada ketakutan lagi, hanya ada kepastian untuk menang dan menumpas kejahatan Lupa Corp sampai kebangkitan fajar yang baru. Cahaya perlawanan akan tetap menyala terang di Kota Tua selamanya tanpa pernah padam demi keadilan dan kebebasan bersama.
+Langkah kaki Bagas dan Dimas bergaung tegas menyusuri lorong rel bawah tanah, menuju jalur kanal Sektor Satu. Duka paling kelam telah melahirkan tekad paling keras di dalam jiwa Bagas. Seorang kurir malam yang dulu meratapi nasibnya kini telah melangkah sepenuhnya sebagai penempa pelindung yang siap menerjang markas musuh demi kebebasan Kota Tua. Seluruh jiwa dan raganya kini menyatu utuh bersama warisan Penempa Sangha untuk menyambut pertarungan akhir di bawah tanah Jakarta. Tak ada ketakutan lagi, hanya ada kepastian untuk menang dan menumpas kejahatan Lupa Corp sampai kebangkitan fajar yang baru. Cahaya perlawanan akan tetap menyala terang di Kota Tua selamanya tanpa pernah padam demi keadilan dan kebebasan bersama.
 ---

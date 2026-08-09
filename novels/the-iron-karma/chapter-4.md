@@ -27,7 +27,7 @@ Pria itu mengenakan zirah Exoskeleton Berat buatan *Lupa Corp* yang menutupi leh
 
 Dimas meludah ke tanah lumpur di bawah kursinya, ludahnya bercampur darah kental. "Gue... udah bilang dari tadi... Bagas nggak bakal bodoh... datang menyerahkan diri ke sini... Dia bukan orang gila yang mau menyerahkan nyawanya demi barang besi tua."
 
-"Dia akan tetap datang," kata Komandan Vane datar tanpa emosi. "Setiap manusia yang memegang relik peninggalan *Sangha Network* selalu memiliki rasa tanggung jawab palsu yang menjadi kelemahan terbesar dalam perhitungan mereka. Mereka berpikir bisa menyelamatkan semua orang tanpa menyadari bahwa mereka sendiri yang mengundang kebinasaan."
+"Dia akan tetap datang," kata Komandan Vane datar tanpa emosi. "Setiap manusia yang memegang relik peninggalan *Penempa Sangha* selalu memiliki rasa tanggung jawab palsu yang menjadi kelemahan terbesar dalam perhitungan mereka. Mereka berpikir bisa menyelamatkan semua orang tanpa menyadari bahwa mereka sendiri yang mengundang kebinasaan."
 
 Komandan Vane menekan tombol panggil di pinggir alat pemindainya. *BZZZT!* "Tim Dua, perketat penjagaan di sepanjang perlintasan rel luar Stasiun 13. Sinyal magnetik *Astra Besi* terdeteksi merambat mendekati sektor dermaga ini."
 

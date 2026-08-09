@@ -75,9 +75,9 @@ Pak Seno menghela napas panjang—sebuah helaan napas yang penuh dengan kelelaha
 
 Pak Seno duduk kembali di kursi kayu di seberang Bagas, melipat kedua tangannya yang kasar dan penuh kapalan di atas meja kerja jati.
 
-"JagadBumi bukan sekadar milisi bayaran lokal yang menjaga proyek mangkrak Kota Tua," lanjut Pak Seno, suaranya merendah menjadi bisikan tebal yang sarat peringatan. "Mereka adalah sayap militer swasta berteknologi tinggi yang didanai secara rahasia oleh eksperimen *Lupa Corp*. Selama enam bulan terakhir ini, mereka bergerak di bawah tanah memburu seluruh relik peninggalan era *Sangha Network* yang masih tersisa di pulau ini."
+"JagadBumi bukan sekadar milisi bayaran lokal yang menjaga proyek mangkrak Kota Tua," lanjut Pak Seno, suaranya merendah menjadi bisikan tebal yang sarat peringatan. "Mereka adalah sayap militer swasta berteknologi tinggi yang didanai secara rahasia oleh eksperimen *Lupa Corp*. Selama enam bulan terakhir ini, mereka bergerak di bawah tanah memburu seluruh relik peninggalan era *Penempa Sangha* yang masih tersisa di pulau ini."
 
-"Sangha Network?" tanya Bagas, mengernyitkan alisnya yang tebal. "Aku belum pernah mendengar nama faksi itu."
+"Penempa Sangha?" tanya Bagas, mengernyitkan alisnya yang tebal. "Aku belum pernah mendengar nama faksi itu."
 
 "Jaringan tua para penempa dan penjaga relik gaib masa lalu," jawab Pak Seno pendek dan lugas. "Astra Besi yang membalut lenganmu ini adalah salah satu dari tiga relik perisai utama warisan era tersebut. Senjata ini diciptakan khusus untuk membelah proyektil kinetik, menahan guncangan ledakan masif, dan melepaskan kejutan petir karma. Tapi harganya tidak pernah murah atau gratis, Bagas."
 

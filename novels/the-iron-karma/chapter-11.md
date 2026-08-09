@@ -21,11 +21,11 @@ Asap membumbung tinggi, menyisakan Bagas dan Komandan Vane yang berdiri berhadap
 
 Komandan Vane menatap prajuritnya yang tersungkur tidak berdaya, lalu memandangi modul perunggu murni di bahu kanan Bagas dengan mata menyala penuh ketakutan dan kedengkian dari balik visor helmnya.
 
-"Regulator Tembaga Sejati..." desis Komandan Vane, suaranya bertingkat dan berat melalui pengeras suara sintetisnya. "Pantas saja kau bisa menahan lonjakan arus di menara Stasiun 13 semalam tanpa hancur. Seno tua itu telah menyerahkan relik suci Sangha Network padamu."
+"Regulator Tembaga Sejati..." desis Komandan Vane, suaranya bertingkat dan berat melalui pengeras suara sintetisnya. "Pantas saja kau bisa menahan lonjakan arus di menara Stasiun 13 semalam tanpa hancur. Seno tua itu telah menyerahkan relik suci Penempa Sangha padamu."
 
 "Pak Seno menyerahkan ini karena dia tahu aku tidak akan menggunakan kekuatan ini untuk merindas orang kecil," kata Bagas dingin seraya memasang kuda-kuda *pobu* rendah yang kokoh di atas lantai epoksi. "Kekuatan ini diciptakan untuk melindungi, bukan untuk menjajah. Kalian menggunakan relik untuk memperbudak pikiran orang-orang."
 
-Komandan Vane tertawa dingin, suara tawa sintetisnya memantul keras di dinding basemen dua. "Kalau begitu, mari kita lihat apakah relik kuno penempamu sanggup menahan daya lecut penuh teknologi Exoskeleton generasi empat buatan Lupa Corp! Korporasi kami tidak pernah kalah dari kelompok tua berkarat seperti Sangha Network!"
+Komandan Vane tertawa dingin, suara tawa sintetisnya memantul keras di dinding basemen dua. "Kalau begitu, mari kita lihat apakah relik kuno penempamu sanggup menahan daya lecut penuh teknologi Exoskeleton generasi empat buatan Lupa Corp! Korporasi kami tidak pernah kalah dari kelompok tua berkarat seperti Penempa Sangha!"
 
 Komandan Vane menarik tuas kunci merah di tengah pelat dadanya, memicu mode *Overdrive* pada zirah Exoskeleton Beratnya!
 

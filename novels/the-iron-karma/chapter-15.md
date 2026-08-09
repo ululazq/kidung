@@ -9,7 +9,7 @@ Di sepanjang gang-gang pemukiman rel Sektor 1 hingga Sektor 3, kehidupan warga k
 
 Di atas tanah bekas reruntuhan bengkel Pak Seno yang dulu hancur dilalap api, aroma kayu jati baru, cat antikarat, dan pijar las menyengat lembut di udara pagi. Pondasi beton dan tiang-tiang penyangga baru berdiri kokoh di atas lokasi lama, dibangun bersama oleh puluhan relawan warga dan bekas kurir Midnight Runner. Suara dentukan palu dan raungan mesin pemotong besi bergema saling bersahutan, menandai kebangkitan kembali stasiun perlindungan perlawanan mereka. Para warga membawa sumbangan makanan hangat dan teh manis untuk para pekerja yang bergotong royong dengan riang gembira. Gelak tawa dan semangat gotong royong memenuhi seluruh sudut area perlintasan rel.
 
-Bagas berdiri di tengah pilar kayu utama stasiun yang baru dibangun, memegangi tiang penyangga dari kayu jati tua buatan para penempa Sangha Network. Mantel parasut hitamnya berkibar pelan ditiup angin pagi. Lengan kanannya—tempat pelat *Astra Besi* dan modul *Regulator Tembaga Sejati* bersemayam—memancarkan pendaran keemasan yang tenang, tidak lagi bergetar liar atau memicu kejut saraf. Cederanya di lutut kanan kini terawat dengan baik, bergerak luwes mengikuti setiap langkahnya tanpa kepedihan.
+Bagas berdiri di tengah pilar kayu utama stasiun yang baru dibangun, memegangi tiang penyangga dari kayu jati tua buatan para penempa Sangha. Mantel parasut hitamnya berkibar pelan ditiup angin pagi. Lengan kanannya—tempat pelat *Astra Besi* dan modul *Regulator Tembaga Sejati* bersemayam—memancarkan pendaran keemasan yang tenang, tidak lagi bergetar liar atau memicu kejut saraf. Cederanya di lutut kanan kini terawat dengan baik, bergerak luwes mengikuti setiap langkahnya tanpa kepedihan.
 
 "Sedikit lagi geser ke kiri, Dimas!" seru Bagas seraya menunjuk ke arah balok penyangga atap seng. "Pastikan klem baja pengikatnya terkunci rapat agar tidak goyah saat diterpa angin malam!"
 
@@ -57,7 +57,7 @@ Sore harinya, saat rona jingga kemerahan menyelimuti langit Kota Tua, Bagas berd
 
 Dimas melangkah mendekat, menyodorkan dua cangkir kopi hitam panas yang berasap lembut.
 
-"Seratus paket obat-obatan dan logistik bahan pangan pertama buatan Sangha Network udah selesai didistribusikan ke kamp relokasi Pindah Wetan, Gas," kata Dimas seraya menyesap kopinya. "Semua berjalan lancar tanpa ada gangguan sedikit pun dari preman maupun sisa-sisa JagadBumi."
+"Seratus paket obat-obatan dan logistik bahan pangan pertama buatan Penempa Sangha udah selesai didistribusikan ke kamp relokasi Pindah Wetan, Gas," kata Dimas seraya menyesap kopinya. "Semua berjalan lancar tanpa ada gangguan sedikit pun dari preman maupun sisa-sisa JagadBumi."
 
 "Terima kasih, Dimas," jawab Bagas seraya menerima cangkir kopi dari rekannya. "Tanpa bantuanmu dan seluruh kawan-kawan kurir, kita tidak akan sampai di titik ini. Lu adalah pilar stasiun ini."
 

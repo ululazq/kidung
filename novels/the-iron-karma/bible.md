@@ -10,8 +10,8 @@ Ejaan baku. Semua nama proper di bab mana pun harus ada di sini.
 ### Karakter
 | Nama baku | Peran | Catatan |
 |---|---|---|
-| Bagas | protagonis, kurir Midnight Runner | 26 tahun. Mantan atlet wushu/parkour (cedera ACL lutut kanan). Penerus resmi garis penempa Sangha Network. |
-| Pak Seno | mekanik & penempa veteran | 55 tahun. Pemilik bengkel di pinggiran rel Stasiun 13, mantan anggota Sangha Network. |
+| Bagas | protagonis, kurir Midnight Runner | 26 tahun. Mantan atlet wushu/parkour (cedera ACL lutut kanan). Penerus resmi garis penempa Sangha. |
+| Pak Seno | mekanik & penempa veteran | 55 tahun. Pemilik bengkel di pinggiran rel Stasiun 13, mantan anggota Penempa Sangha. |
 | Komandan Vane | antagonis, pimpinan operasional JagadBumi | 40-an tahun. Berzirah exoskeleton berat buatan Lupa Corp. |
 | Dimas | rekan kurir Midnight Runner | 24 tahun. Selalu menggunakan radio komunikasi genggam. |
 
@@ -23,7 +23,7 @@ Ejaan baku. Semua nama proper di bab mana pun harus ada di sini.
 | Bengkel Pak Seno | pinggiran rel, penuh perkakas mekanik dan alat solder |
 | Markas JagadBumi | gedung pencakar langit bernuansa korporasi keamanan swasta |
 | Dermaga 2 | lokasi gudang kontainer, tempat penahanan Dimas oleh JagadBumi |
-| Ruang Tempa Bawah Tanah | ruang tempa rahasia Sangha Network 10 meter di bawah rel Stasiun 13 |
+| Ruang Tempa Bawah Tanah | ruang tempa rahasia Penempa Sangha 10 meter di bawah rel Stasiun 13 |
 | Tiang Pancang Nomor Sembilan | tiang penyangga jalur layang arteri Kota Tua, lokasi pengadangan konvoi |
 | Ruang Simpan Terlarang | ceruk rahasia palka bawah tanah tempat penyimpanan Regulator Tembaga Sejati |
 
@@ -32,7 +32,7 @@ Ejaan baku. Semua nama proper di bab mana pun harus ada di sini.
 |---|---|---|
 | Midnight Runner | layanan pengantar paket ilegal tanpa manifes | Aplikasi ziplock, pembayaran tunai D3 |
 | Faksi JagadBumi | merebut relik gaib untuk Lupa Corp | Exoskeleton hitam, lambang besi lingkaran |
-| Sangha Network | jaringan tua para penjaga relik | Simbol Jawa kuno pada kuningan/besi |
+| Penempa Sangha | ordo penempa tua para penjaga relik | Simbol Jawa kuno pada kuningan/besi |
 
 ### Item & istilah
 | Nama baku | Apa itu |

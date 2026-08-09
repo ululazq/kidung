@@ -22,7 +22,7 @@ Di semesta yang sama, di pesisir dan kota-kota Indonesia, mitologi Nusantara hid
 
 ## Urutan serial (order)
 
-27 novel ber-`universe: "Kidungverse"`. Tiga serial inti (order 1–3) menyelesaikan audit lintas novel penuh dan memakai kosakata multiverse terdalam; sisanya mengikuti urutan penulisan (`started`), bukan kronologi in-universe.
+28 novel ber-`universe: "Kidungverse"`. Tiga serial inti (order 1–3) menyelesaikan audit lintas novel penuh dan memakai kosakata multiverse terdalam; sisanya mengikuti urutan penulisan (`started`), bukan kronologi in-universe.
 
 | Order | Novel | Status |
 |---|---|---|
@@ -36,7 +36,7 @@ Di semesta yang sama, di pesisir dan kota-kota Indonesia, mitologi Nusantara hid
 | 8 | The Astral Sovereign | Complete |
 | 9 | The Clockwork Astra | Complete |
 | 10 | The Neon Cipher | Complete |
-| 11 | The Aegis of Aether | In Progress |
+| 11 | The Aegis of Aether | Complete |
 | 12 | Kidung Tanah Karam | Complete |
 | 13 | Pegadaian Bunga | Complete |
 | 14 | Pasar Subuh | Complete |
@@ -47,14 +47,15 @@ Di semesta yang sama, di pesisir dan kota-kota Indonesia, mitologi Nusantara hid
 | 19 | Tangan Guntur | Complete |
 | 20 | The Godherd | Complete |
 | 21 | The Last Teacher | Complete |
-| 22 | Pustaka Kabut Senja | In Progress |
-| 23 | Sang Pembawa Pelita | In Progress |
-| 24 | Serat Penempa Hampa | In Progress |
-| 25 | The Copper Relic | In Progress |
-| 26 | The Resonance Blade | In Progress |
+| 22 | Pustaka Kabut Senja | Complete |
+| 23 | Sang Pembawa Pelita | Complete |
+| 24 | Serat Penempa Hampa | Complete |
+| 25 | The Copper Relic | Complete |
+| 26 | The Resonance Blade | Complete |
 | 27 | The Shadow Forger | In Progress |
+| 28 | The Iron Karma | Complete |
 
-> Catatan: `order` di halaman universe ditampilkan sebagai "Buku N" — untuk Kidungverse artinya urutan serial (inti dulu, lalu urutan penulisan), bukan urutan naratif wajib. Tiap novel dapat dibaca berdiri sendiri; bacaan ganda yang paling dalam dimulai dari serial inti 1–3.
+> Catatan: `order` di halaman universe ditampilkan sebagai "Buku N" — untuk Kidungverse artinya urutan serial (inti dulu, lalu urutan penulisan), bukan urutan naratif wajib. Tiap novel dapat dibaca berdiri sendiri; bacaan ganda yang paling dalam dimulai dari serial inti 1–3. The Iron Karma (order 28) ditambahkan belakangan: mulai ditulis 2026-08-03, ditulis ulang penuh dan diselesaikan 2026-08-09, sehingga ditaruh di akhir agar order yang sudah ada tidak bergeser.
 
 ---
 

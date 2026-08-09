@@ -31,7 +31,7 @@ Bagas mengikuti langkah Pak Seno menuruni tangga semen yang basah dan berlumut d
 
 Di dasar tangga, terhampar sebuah ruangan aula batu melengkung beratap kubah yang terletak persis di bawah fondasi beton lintasan rel Stasiun 13. Udara di tempat itu terasa luar biasa dingin, lembap, dan berbau tanah liat tua bercampur minyak tempa kuno serta aroma besi terbakar yang sudah mengendap puluhan tahun. Di tengah ruangan, berdiri dua buah anvil besi raksasa yang sudah berkarat di tepinya, diapit oleh tumpukan lempengan baja sasis kereta tua yang dipotong persegi tebal.
 
-Ini adalah ruang tempa rahasia peninggalan era *Sangha Network* yang dibangun bertahun-tahun lalu sebelum korporasi *Lupa Corp* menguasai seluruh proyek bawah tanah Kota Tua.
+Ini adalah ruang tempa rahasia peninggalan era *Penempa Sangha* yang dibangun bertahun-tahun lalu sebelum korporasi *Lupa Corp* menguasai seluruh proyek bawah tanah Kota Tua.
 
 "Di sini suara benturan besi tidak akan pernah terdengar keluar ke jalanan," kata Pak Seno seraya menyalakan dua lampu gantung tembaga di dinding batu dengan pemantik api. "Guncangan dan gemuruh kereta api yang melintas di atas rel akan menyamarkan seluruh gelombang kinetik dan medan magnetik yang kau lepaskan dari lenganmu."
 
@@ -47,7 +47,7 @@ Pak Seno mengambil sebatang palu tempa berat berbahan baja dari atas meja, lalu 
 
 *Ting... ting... ting...*
 
-"Setiap struktur logam di dunia ini—entah itu sasis kereta api, kontainer baja, atau zirah Exoskeleton Berat milik Komandan Vane—selalu memiliki titik tumpu kinetik dan garis retak mikroskopis di dalam molekulnya," kata Pak Seno. "Para penempa dan ksatria *Sangha Network* tidak pernah menghancurkan besi dengan otot kasar. Kami menghancurkannya dengan membaca dan menyelaraskan aliran energinya."
+"Setiap struktur logam di dunia ini—entah itu sasis kereta api, kontainer baja, atau zirah Exoskeleton Berat milik Komandan Vane—selalu memiliki titik tumpu kinetik dan garis retak mikroskopis di dalam molekulnya," kata Pak Seno. "Para penempa dan ksatria *Penempa Sangha* tidak pernah menghancurkan besi dengan otot kasar. Kami menghancurkannya dengan membaca dan menyelaraskan aliran energinya."
 
 "Bagaimana cara membaca garis retak mikroskopis itu?" tanya Bagas, melangkah mendekati anvil.
 
