@@ -97,15 +97,19 @@ Bukan meredup — padam. Untuk pertama kalinya sejak badai itu, telapak Sorin ge
 
 Ia berhenti. Jantungnya berdebar — bukan takut, tapi sesuatu yang lain: kehilangan. The Compass telah menjadi bagian dari dirinya — bagian yang ia tidak tahu ia butuhkan sampai ia kehilangannya. Tanpa cahaya itu, ia hanyalah anak kosong lagi. Anak kosong di dalam kegelapan, di dalam badai yang tidak bisa ditembus siapa pun.
 
+Lalu ia menyadarinya. Kosong bukan berarti kehilangan — kosong berarti tidak ada yang bisa dipadamkan. Orang terikat tidur di tempat ini karena resonance mereka mati; Marks mereka padam karena dunia di sini tidak mengenal mereka. Tapi ia tidak punya resonance untuk dimatikan. Tidak ada yang bisa padam di dalam dirinya, karena tidak ada yang pernah menyala kecuali cahaya yang ia bawa sendiri.
+
+Untuk pertama kalinya sejak badai itu, kekosongannya bukan kehilangan. Kekosongannya adalah kebebasan.
+
 Lalu, di dalam keheningan itu, ia mendengar sesuatu.
 
 Bukan suara — tidak ada suara di tempat ini. Sesuatu yang lebih dalam, yang ia rasakan melalui kakinya, melalui dinding, melalui batu itu sendiri: getaran. Getaran yang pelan, dalam, seperti detak jantung yang sangat tua. Getaran yang datang dari bawah — dari jauh di bawah, dari dasar segalanya.
 
 Sorin menutup matanya. Dan di dalam kegelapan, tanpa the Compass, ia merasakan sesuatu yang lain: batu di sakunya. Batu dari lelaki pucat itu. Batu dari the First Reach, dengan Mark pertama yang mati. Batu itu dingin — tapi di dalam dinginnya, ada sesuatu yang hangat, seperti sisa dari api yang sudah lama padam.
 
-Ia menggenggam batu itu. Dan untuk sesaat — hanya sesaat — ia merasakan gunung itu: satu gunung, utuh, menjulang dari tanah yang tidak pernah terbagi. Dan di bawahnya, sesuatu yang sangat tua, yang sedang menunggu.
+Ia menggenggam batu itu. Dan untuk sesaat — hanya sesaat — ia merasakan gunung itu: satu gunung, utuh, menjulang dari tanah yang tidak pernah terbagi. Dan di bawahnya — di ujung segel, di dasar segalanya — sesuatu yang sangat tua, yang sedang menunggu.
 
-Sesuatu yang menjawab.
+Dan the Compass menjawabnya. Bukan dengan suara — tidak ada suara di tempat ini — tapi dengan tarikan: tarikan dari arah pintu, dari arah yang selama ini selalu ditunjuknya, dari arah bawah.
 
 The Compass menyala kembali — tidak seperti sebelumnya. Bukan emas terang seperti Mark Nahmi. Cahaya yang berbeda: lebih dalam, lebih tua, seperti kompas yang baru saja mengingat sesuatu yang sudah lama ia lupakan. Dan jarumnya — untuk pertama kalinya sejak badai itu — tidak menunjuk ke bawah.
 
@@ -119,4 +123,4 @@ Sorin mulai turun lagi — dan di dalam dirinya, di dalam keheningan yang sudah 
 
 *Ia masih harus turun.*
 
-*Dan di bawah, di dasar segalanya, sesuatu yang sangat tua sedang menunggu — dan untuk pertama kalinya, ia menjawab.*
+*Dan di bawah, di dasar segalanya, segel yang sangat tua sedang menunggu — dan untuk pertama kalinya, jarum itu menjawab panggilannya: bukan suara, tapi tarikan, dari arah pintu.*

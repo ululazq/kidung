@@ -59,11 +59,11 @@ Sorin menatapnya. "Kau yang mengirim surat itu?"
 
 "Kenapa?"
 
-"Karena kami sudah menunggu lama." Idrith menatapnya. "Lebih lama dari yang bisa kau bayangkan, Sorin. Choir menyimpan catatan — itu pekerjaan kami. Dan di catatan kami, ada satu nama yang diulang-ulang selama berabad-abad: nama trah yang menjaga kunci. Trah yang dihapus agar rahasianya mati." Ia berhenti. "Kami pikir mereka sudah punah. Lalu, dua tahun lalu, sesuatu berubah — kompas-kompas di seluruh Skyreach mulai menunjuk ke bawah. Dan kami tahu: ada yang tersisa. Ada yang lahir."
+"Karena kami sudah menunggu lama." Idrith menatapnya. "Lebih lama dari yang bisa kau bayangkan, Sorin. Choir menyimpan catatan — itu pekerjaan kami. Dan di catatan kami, ada satu nama yang diulang-ulang selama berabad-abad: nama trah yang menjaga kunci. Trah yang dihapus agar rahasianya mati." Ia berhenti. "Kami pikir mereka sudah punah. Lalu, dua tahun lalu, sesuatu berubah — kompas-kompas tua di seluruh Skyreach mulai menunjuk ke bawah. Kompas Nahmi salah satunya." Ia menatap Sorin. "Kami tidak tahu apa artinya saat itu. Sekarang kami tahu: segelnya melemah — dan darah penjaganya masih hidup."
 
 Sorin menatap tangannya. "Kompas Nahmi menunjuk ke bawah selama dua tahun."
 
-"Ya. Dan kompas-kompas lain juga. Tapi yang paling penting: kompas di tanganmu." Idrith mencondongkan tubuh ke depan. "Itu bukan Mark biasa, Sorin. Itu Mark navigator — ya, itu Guildmark. Tapi Mark itu tidak memilihmu secara kebetulan. Mark itu memilihmu karena ia bisa merasakan apa yang ada di darahmu."
+"Ya. Dan beberapa kompas tua lainnya juga. Tapi yang paling penting: kompas di tanganmu." Idrith mencondongkan tubuh ke depan. "Itu bukan Mark biasa, Sorin. Itu Mark navigator — ya, itu Guildmark. Tapi Mark itu tidak memilihmu secara kebetulan. Mark itu memilihmu karena ia bisa merasakan apa yang ada di darahmu."
 
 "Darahku?"
 
@@ -71,7 +71,7 @@ Sorin menatap tangannya. "Kompas Nahmi menunjuk ke bawah selama dua tahun."
 
 Sorin duduk di sana, dan untuk pertama kalinya, ia merasa seperti sedang berdiri di tepi sesuatu yang sangat dalam. "Siapa aku?" bisiknya.
 
-Idrith menatapnya lama. Lalu ia berkata: "Besok, setelah putusan, aku akan memberitahumu. Malam ini, kau harus beristirahat — karena apa pun yang terjadi, besok hidupmu akan berubah."
+Idrith menatapnya lama. Lalu ia berkata: "Kau akan tahu semuanya, Sorin — tidak lama lagi. Tapi malam ini, kau harus beristirahat: kau akan butuh kekuatanmu."
 
 Ia berdiri, berjalan ke pintu, lalu berhenti. "Satu hal lagi, Sorin. Kau lihat poros itu?" Ia menunjuk ke jendela. "Poros itu turun ke bawah — ke Heartland, ke Underreach, ke tempat yang belum pernah dilihat siapa pun dari Skyreach. Dan di bawah sana, di dasar segalanya, ada pintu. Pintu yang dijaga oleh trahmu sejak sebelum guild mana pun ada."
 
@@ -81,7 +81,7 @@ Idrith menatapnya. "Pintu yang tidak boleh dibuka. Dan kau, Sorin — kau adalah
 
 "Tapi aku tidak punya kunci," kata Sorin. "Aku tidak punya apa-apa. Aku anak kosong."
 
-"Kau belum mengerti, kan?" Idrith tersenyum — senyum yang lembut, yang tidak mengejek. "Itulah intinya. Kau kosong bukan karena kau tidak punya apa-apa. Kau kosong karena kau ditulis untuk diisi oleh sesuatu yang lebih tua dari guild mana pun. Kau tidak terikat — karena kau harus bisa memegang lebih dari satu cahaya. Kau bukan tidak punya kunci, Sorin. Kau adalah kuncinya."
+"Kau belum mengerti, kan?" Idrith tersenyum — senyum yang lembut, yang tidak mengejek. "Besok kau akan mengerti. Malam ini, cukup kau tahu satu hal: kau bukan kebetulan, Sorin. Kompas Nahmi, badai itu, aku yang datang mencarimu — tidak ada yang kebetulan."
 
 Ia keluar. Pintu tertutup. Dan Sorin duduk di sel itu, menatap poros dari jendela, dan merasakan the Compass menyala pelan di telapaknya — jarumnya miring ke bawah, ke arah pintu itu, ke arah kunci yang tidak pernah ia tahu ia pegang.
 

@@ -108,9 +108,9 @@ Sekte utama:
 
 Entitas di balik the First Seal. Bukan makhluk, bukan dewa — lebih tepat **ketiadaan yang hidup**: apa pun yang menyentuh Marks, mengurainya kembali menjadi "tidak tertulis". Para penulis sejarah (Silent Choir) percaya the Stillness *tua* — lebih tua dari the First Reach, dan the First-Marked menemukannya saat menggali terlalu dalam di bawah the Worldspine.
 
-Gejala kebocoran: badai the Seam yang "mengurai" Marks pengelana, glow-grove yang layu di kedalaman, dan **the Quiet Zones** — kantong di Underreach tempat Marks tidak bisa lahir sama sekali.
+Gejala kebocoran: badai the Seam yang "mengurai" Marks pengelana, glow-grove yang layu di kedalaman, **the Quiet Zones** — kantong di Underreach tempat Marks tidak bisa lahir sama sekali — dan, di Skyreach, **kompas-kompas tua yang mulai menunjuk ke bawah** (ke arah segel, bukan ke utara). Dua tahun sebelum Book 1, gejala ini menyebar luas; the Silent Choir mencatatnya sebagai tanda segel melemah.
 
-Aturan kanon: the Stillness tidak pernah "berbicara" dan tidak punya kehendak dalam arti manusia. Ia hanya mengurai. Semua rencana antagonis tentangnya adalah interpretasi — termasuk milik Ossian.
+Aturan kanon: the Stillness tidak pernah "berbicara" dan tidak punya kehendak dalam arti manusia. Ia hanya mengurai. Semua rencana antagonis tentangnya adalah interpretasi — termasuk milik Ossian. The Compass di tangan Sorin **beresonansi dengan segel** (sesama Marks saling merespons) — bukan dengan the Stillness; the Stillness tidak pernah menjawab apa pun.
 
 ---
 

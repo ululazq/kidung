@@ -77,7 +77,7 @@ Kantong tempat Marks tidak bisa lahir sama sekali — gejala kebocoran the Still
 - **Disciplines** — tiga jalur: **Bloodline** (Clanmark, warisan), **Craft** (Guildmark, karya), **Vow** (Vowmark, pantang). *(bible §2.2)*
 - **The Binding** — momen remaja ketika tubuh memilih jalur; sejak itu hanya Marks satu discipline yang bisa lahir. *(bible §2.3)*
 - **The Unbound** — yang tidak pernah terikat; bisa memegang Marks dari banyak discipline; kebal resonance; gema the First-Marked. *(bible §2.4)*
-- **The Compass** — Guildmark navigator yang menetap di tangan Sorin; tidak stabil; menunjuk ke bawah, bukan ke utara. *(The Unbound)*
+- **The Compass** — Guildmark navigator yang menetap di tangan Sorin; tidak stabil di tangan Unbound; menunjuk ke bawah, bukan ke utara — beresonansi dengan segel (sesama Marks saling merespons), bukan dengan the Stillness. *(The Unbound)*
 - **The Sealmark** — Clanmark House Veyr; kunci the First Seal; ditulis di darah, bukan di batu. *(bible §1.4; Bloodfall)*
 - **The First-Marked** — bangsa sebelum the Sundering; tidak terikat; penulis Marks pertama; tidak pernah tampil langsung. *(bible §1.1, §7.5)*
 - **Stormlock** — jaring Windwrights yang menangkap badai; senjata andalan penegak guild. *(The Unbound)*
