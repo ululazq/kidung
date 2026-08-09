@@ -39,9 +39,9 @@ Lalu suara yang lain.
 
 Suara itu kering.
 
-Sekar sudah mendengarnya sekali, di Segara Sepi, subuh hari ketiga, di antara lima belas suara yang basah — satu suara yang tidak basah, yang saat itu tidak dia sanggup jelaskan dan yang dia simpan di kepalanya tanpa nama karena memberinya nama akan mengubah terlalu banyak hal sekaligus.
+Sekar sudah mendengarnya sekali, di Segara Sepi, subuh hari ketiga, di antara empat belas suara yang basah — satu suara yang tidak basah, yang saat itu tidak dia sanggup jelaskan dan yang dia simpan di kepalanya tanpa nama karena memberinya nama akan mengubah terlalu banyak hal sekaligus.
 
-Sekarang suara itu sendirian, dekat, di bawah papan yang dia tiduri sejak umur enam belas, dan tidak ada lima belas suara lain yang menutupinya.
+Sekarang suara itu sendirian, dekat, di bawah papan yang dia tiduri sejak umur enam belas, dan tidak ada empat belas suara lain yang menutupinya.
 
 "Mbah," kata Sekar ke air.
 
@@ -95,7 +95,7 @@ Tegar datang pukul tujuh dengan perahunya dan berdiri di bawah tangga tanpa naik
 
 Sekar duduk di tangga teratas dengan Serat di pangkuannya, masih dalam kain biru, masih basah di sudutnya.
 
-"Ngatiyem kirim kabar lewat Le Parjo semalam," kata Tegar. "Katanya mereka berempat nggak bisa nyanyi. Bukan lupa liriknya. Bunyinya nggak ada." Dia menelan. "Aku nggak percaya. Terus tadi subuh aku coba sendiri di perahu, di tengah alur, biar nggak ada yang dengar."
+"Ngatiyem kirim kabar lewat Lek Parjo semalam," kata Tegar. "Katanya mereka berempat nggak bisa nyanyi. Bukan lupa liriknya. Bunyinya nggak ada." Dia menelan. "Aku nggak percaya. Terus tadi subuh aku coba sendiri di perahu, di tengah alur, biar nggak ada yang dengar."
 
 "Keluar?"
 
@@ -105,7 +105,7 @@ Sekar duduk di tangga teratas dengan Serat di pangkuannya, masih dalam kain biru
 
 "Apa?"
 
-"Kamu nggak nyanyi di deket api." Sekar menggeser Serat dari pangkuannya ke papan supaya tangannya bebas. "Mereka nyanyi. Perekam mbak Ayu nyala empat puluh meter di belakang mereka dan dia sendiri nggak sadar. Empat hari sesudahnya jatuhnya kemarin, setengah dua belas."
+"Kamu nggak nyanyi di deket api." Sekar menggeser Serat dari pangkuannya ke papan supaya tangannya bebas. "Mereka nyanyi. Perekam Mbak Ayu nyala empat puluh meter di belakang mereka dan dia sendiri nggak sadar. Empat hari sesudahnya jatuhnya kemarin, setengah dua belas."
 
 Tegar berdiri di lumpur cukup lama sampai perahunya bergeser sendiri dan tali tambatnya menegang.
 
@@ -115,7 +115,7 @@ Tegar berdiri di lumpur cukup lama sampai perahunya bergeser sendiri dan tali ta
 
 "Berarti kalau aku ngajarin dua puluh orang lagi—"
 
-"Terus mbak Ayu lewat sekali, atau ada mesin di tiang tambatan yang mereka nggak tahu, dan empat hari kemudian dua puluh mulut kosong." Sekar mendengar suaranya sendiri keluar rata dan itu membuatnya lebih buruk. "Kamu bikin kidungnya banyak biar susah dihabiskan. Yang kamu bikin banyak itu justru gampang dipanen."
+"Terus Mbak Ayu lewat sekali, atau ada mesin di tiang tambatan yang mereka nggak tahu, dan empat hari kemudian dua puluh mulut kosong." Sekar mendengar suaranya sendiri keluar rata dan itu membuatnya lebih buruk. "Kamu bikin kidungnya banyak biar susah dihabiskan. Yang kamu bikin banyak itu justru gampang dipanen."
 
 "Dipanen."
 
@@ -153,7 +153,7 @@ Di bawah, di lumpur, Tegar akhirnya duduk. Bukan di perahunya. Di tangga paling 
 
 Sekar sudah menghitungnya tiga jam dan angkanya tidak berubah walau dia mengulanginya.
 
-"Dari yang aku bisa pastiin: sebelas punya nenekku, empat punyaku, satu di empat mulut kamp. Enam belas." Dia menarik napas. "Dan delapan belas yang nenekku kirim ke Jakarta biar mati di dalam pita."
+"Dari yang aku bisa pastiin: sebelas punya nenekku, empat punyaku, satu di empat mulut kamp. Enam belas." Dia menarik napas. "Dan delapan belas yang permintaan rekamnya dikirim nenekku ke Jakarta biar mati di dalam pita."
 
 "Itu mati beneran, kan?"
 
@@ -171,7 +171,7 @@ Perahu Tegar menabrak tiang tambatan sekali.
 
 Dia turun dua tangga sampai sejajar dengan Tegar dan menyerahkan bungkusan kain biru itu ke tangannya.
 
-"Bawa ini ke kamp. Taruh di terpal Ngatiyem, di bawah karung beras, jangan di tenda siapa pun yang bisa dibongkar orang. Jangan dibuka, jangan dibaca, jangan disebut ke siapa-siapa termasuk Le Parjo."
+"Bawa ini ke kamp. Taruh di terpal Ngatiyem, di bawah karung beras, jangan di tenda siapa pun yang bisa dibongkar orang. Jangan dibuka, jangan dibaca, jangan disebut ke siapa-siapa termasuk Lek Parjo."
 
 Tegar menerimanya dengan dua tangan dan tidak berdiri.
 

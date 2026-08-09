@@ -155,7 +155,7 @@ Di sisi kanan, di antara dua tenda yang lebih kecil, seorang perempuan sedang me
 
 Sekar menahan pandangannya sampai perahu melewati tikungan.
 
-"Jam lima besok, Bos," kata Tegar. "Terminal. Yang berangkat jam tujuh ada tiap hari, karcismu tinggal ditukar di loket, aku sudah tanya sama Le Parjo yang narik ojek."
+"Jam lima besok, Bos," kata Tegar. "Terminal. Yang berangkat jam tujuh ada tiap hari, karcismu tinggal ditukar di loket, aku sudah tanya sama Lek Parjo yang narik ojek."
 
 Sekar tidak menjawab.
 

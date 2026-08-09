@@ -7,9 +7,9 @@ tone: "Lembap, muram, elegis, getir"
 language: "Indonesian"
 protagonist: "Sekar Ratri, penyanyi kampung yang mewarisi jabatan Juru Kidung"
 description: "Sekar Ratri mewarisi dua belas tembang yang bisa menahan laut — masing-masing hanya bisa dinyanyikan sekali seumur hidup — dan seorang dalang yang kehilangan istrinya di banjir rob ingin dia menghabiskan semuanya dalam satu malam untuk mengangkat kota yang karam beserta semua yang mati di dalamnya."
-status: "In Progress"
+status: "Complete"
 started: "2026-08-06"
-completed: ""
+completed: "2026-08-09"
 ---
 
 # Kidung Tanah Karam
@@ -32,6 +32,7 @@ Ki Danu Sasangka sudah menghitung lebih lama. Dalang terakhir di pesisir itu men
 - **Tegar (24)**: tukang perahu yang mau ikut ke mana saja asal bukan di sini.
 - **Ayu Prameswari (30-an)**: arsiparis Sangha Network, datang merekam kidung sebelum habis. Belum tahu perekamnya ikut membunuh.
 - **Ki Danu Sasangka (60-an)**: dalang terakhir pesisir. Tidak ingin menang. Ingin membatalkan.
+- **Lek Parjo**: tukang ojek Tambaklarang, satu-satunya yang mau mengantar ke Segara Sepi dengan tarif biasa. Syaratnya cuma satu: bilang dulu. Yang membawa kabar tanggal delapan belas.
 
 ## Sistem Kidung
 

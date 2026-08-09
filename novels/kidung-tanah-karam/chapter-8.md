@@ -284,7 +284,7 @@ Sekar memandang air yang sedang naik menutupi baris kedua tiang-tiang bekas ruma
 
 Tegar mengambil kantongnya, lalu meletakkannya lagi di papan.
 
-"Ini buat kamu. Dari Le Parjo." Dari bunyinya, isinya ikan. "Dia bilang kemarin dia naik tangga penginapan di Pasar Uwur dan nggak tahu kenapa, dan dia pengin kamu tahu itu. Aku nggak ngerti maksudnya."
+"Ini buat kamu. Dari Lek Parjo." Dari bunyinya, isinya ikan. "Dia bilang kemarin dia naik tangga penginapan di Pasar Uwur dan nggak tahu kenapa, dan dia pengin kamu tahu itu. Aku nggak ngerti maksudnya."
 
 Mesin perahunya menyala di percobaan ketiga, seperti biasa.
 

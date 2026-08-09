@@ -9,19 +9,19 @@ Airnya rata seperti minyak dan hangat di lima sentimeter teratas, dan di bawah l
 
 Semalam, di bawah papan lantainya, dia bisa menghitung sampai enam belas. Pagi ini, tepat di atas tempat asalnya, dia tidak bisa menghitung sampai satu.
 
-"Pasangnya sudah turun, Mbak," kata Le Parjo dari belakang. "Kalau mau dengar yang di bawah, mestinya semalam."
+"Pasangnya sudah turun, Mbak," kata Lek Parjo dari belakang. "Kalau mau dengar yang di bawah, mestinya semalam."
 
 "Semalam aku di lantai langgar."
 
 "Ya sudah cocok." Dia menahan dayung di air, tidak mengayuh. "Nggak usah dua kali kerja."
 
-Le Parjo bertubuh kurus dengan bahu yang lebih lebar daripada semestinya untuk badan sekurus itu, dan dia satu-satunya orang di Tambaklarang yang mau mengantar ke petak ini dengan tarif biasa. Yang lain minta dua kali, bukan karena angker, kata mereka, tapi karena buang-buang solar ke tempat yang tidak ada ikannya.
+Lek Parjo bertubuh kurus dengan bahu yang lebih lebar daripada semestinya untuk badan sekurus itu, dan dia satu-satunya orang di Tambaklarang yang mau mengantar ke petak ini dengan tarif biasa. Yang lain minta dua kali, bukan karena angker, kata mereka, tapi karena buang-buang solar ke tempat yang tidak ada ikannya.
 
 Sekar berteriak sekali, pendek, ke arah tengah petak.
 
 Suaranya keluar dan berhenti. Tidak ada yang balik. Di alur mana pun teriakan sependek itu akan menempel di tanggul dan kembali setengah detik kemudian; di sini teriakannya masuk ke air dan air menerimanya seperti orang menerima uang.
 
-"Jangan," kata Le Parjo.
+"Jangan," kata Lek Parjo.
 
 "Kenapa."
 
@@ -29,7 +29,7 @@ Suaranya keluar dan berhenti. Tidak ada yang balik. Di alur mana pun teriakan se
 
 Perahu bergeser sedikit ke kiri walaupun tidak ada arus dan tidak ada angin. Sekar merasakannya di pantatnya lewat lambung perahu sebelum matanya menangkapnya, dan dia diam saja, dan sesudah beberapa detik geserannya berhenti.
 
-"Le Parjo."
+"Lek Parjo."
 
 "Saya."
 
@@ -41,7 +41,7 @@ Dia meletakkan dayung melintang di lambung, dan itu memakan waktu lebih lama dar
 
 Sekar tidak menjawab. Dia sudah tahu tanggalnya, jamnya, dan berapa harga yang dia terima untuk itu.
 
-"Saya naik tangga jam sebelas siang," kata Le Parjo. "Terang, Mbak. Matahari di atas kepala. Saya nggak ada urusan di atas, nggak ada yang manggil, saya nggak kenal orang kota yang nyewa kamar itu." Dia melihat ke air, bukan ke Sekar. "Saya sudah sampai di undakan keempat baru saya tanya sendiri, mau apa saya di sini. Terus saya turun. Terus saya balik lagi ke atas."
+"Saya naik tangga jam sebelas siang," kata Lek Parjo. "Terang, Mbak. Matahari di atas kepala. Saya nggak ada urusan di atas, nggak ada yang manggil, saya nggak kenal orang kota yang nyewa kamar itu." Dia melihat ke air, bukan ke Sekar. "Saya sudah sampai di undakan keempat baru saya tanya sendiri, mau apa saya di sini. Terus saya turun. Terus saya balik lagi ke atas."
 
 "Kidungnya buat malam," kata Sekar. "Buat manggil orang pulang dalam gelap. Waktu itu siang bolong. Mestinya nggak kena kamu."
 
@@ -55,7 +55,7 @@ Di kepala Sekar berjalan angka yang tidak dia inginkan: bukan sisa kidungnya, bu
 
 "Terus apa."
 
-Le Parjo mengangkat wajahnya, dan wajah itu wajah orang yang sudah menyusun kalimatnya di kepala sepanjang jalan dari tambatan.
+Lek Parjo mengangkat wajahnya, dan wajah itu wajah orang yang sudah menyusun kalimatnya di kepala sepanjang jalan dari tambatan.
 
 "Kalau lain kali Mbak Sekar butuh badan saya jalan," katanya, "bilang dulu. Saya bakal jalan. Saya nggak pernah nolak nganter Mbak ke tempat yang orang lain minta dua kali. Tapi bilang dulu."
 
@@ -149,7 +149,7 @@ Enam belas jadi tujuh belas.
 
 Menunda. Bukan mengangkat, bukan menghentikan. Menunda selama berapa lama — neneknya tidak pernah menyebut angkanya, dan tidak ada di halaman mana pun.
 
-Le Parjo di tambatan selatan, dua ratus meter, dan belum tentu ada di perahunya.
+Lek Parjo di tambatan selatan, dua ratus meter, dan belum tentu ada di perahunya.
 
 Dan di tengah semua itu ada satu kalimat yang dia susun sendiri di atas terpal biru tiga hari yang lalu: tidak ada yang menyanyi sebelum enam-enamnya setuju. Lima orang harus bilang tidak ke orangnya sendiri. Dia membuat aturan itu supaya kata *tidak* punya lima mulut dan bukan satu.
 
@@ -161,9 +161,9 @@ Di antara hitungan keempat dan kelima, perahu itu sudah tidak ada.
 
 Bait pertama masih tersangkut di dadanya, penuh, belum keluar, dan sekarang tidak ada gunanya keluar.
 
-Le Parjo lewat di belakangnya sambil berlari dan menoleh ke arahnya selama satu langkah, dan tidak berhenti, dan turun ke air dari papan tanpa melepas apa pun dari badannya.
+Lek Parjo lewat di belakangnya sambil berlari dan menoleh ke arahnya selama satu langkah, dan tidak berhenti, dan turun ke air dari papan tanpa melepas apa pun dari badannya.
 
-Empat keluar. Dua ditarik Le Parjo dengan tangannya sendiri dan dua lagi sampai ke tiang tambatan dengan cara mereka sendiri. Yatmi tidak. Sarju tidak.
+Empat keluar. Dua ditarik Lek Parjo dengan tangannya sendiri dan dua lagi sampai ke tiang tambatan dengan cara mereka sendiri. Yatmi tidak. Sarju tidak.
 
 Orang deret ketiga membawa galah dan tali dan menyeret arus sampai matahari turun, dan yang mereka dapat cuma gulungan terpal dan tangga kayu itu.
 

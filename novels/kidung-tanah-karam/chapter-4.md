@@ -59,9 +59,9 @@ Dia mulai menghitung, karena tangannya sudah dingin dan menghitung adalah satu-s
 
 Satu. Dua. Empat, karena dua di antaranya bergerak bersamaan. Tujuh. Sebelas.
 
-Lima belas.
+Empat belas.
 
-Dia berhenti di lima belas dan menunggu, dan tidak ada yang keenam belas, dan angka itu duduk di dadanya dengan bobot yang tidak wajar.
+Dia berhenti di empat belas dan menunggu, dan tidak ada yang kelima belas, dan angka itu duduk di dadanya dengan bobot yang tidak wajar.
 
 Lima belas nisan kosong di tanggul Stasiun 13. Rob Besar membawa tiga puluh empat orang keluar dari Tambaklarang dan mengembalikan sembilan belas, dan sisanya dikubur sebagai tanah dan nama saja karena tidak ada apa-apa yang bisa dimasukkan ke lubang. Sekar tahu angka itu sejak umur sebelas. Semua orang di kampung ini tahu angka itu.
 
@@ -85,9 +85,9 @@ Sekar mengangkat kepala terlalu cepat dan pandangannya menghitam sebentar di pin
 
 Dia menempelkan telinganya lagi.
 
-Dan suara keenam belas masuk.
+Dan suara kelima belas masuk.
 
-Suara itu tidak berlapis seperti yang lain. Tidak basah. Yang lima belas itu punya bunyi yang keluar dari tenggorokan yang penuh; yang ini kering, dan tipis, dan pecah di ujung frasa dengan cara yang dikenal Sekar seperti dia mengenal bunyi pintu rumahnya sendiri.
+Suara itu tidak berlapis seperti yang lain. Tidak basah. Yang empat belas itu punya bunyi yang keluar dari tenggorokan yang penuh; yang ini kering, dan tipis, dan pecah di ujung frasa dengan cara yang dikenal Sekar seperti dia mengenal bunyi pintu rumahnya sendiri.
 
 Perempuan tua yang berhenti menyanyi di hajatan sejak tahun sembilan puluhan karena katanya suaranya sudah tidak pantas dibayar orang. Yang membangunkannya jam empat pagi selama sebelas tahun. Yang mati kering, di lantai kering, di ruangan yang airnya ditahan di ambang pintu, dua malam yang lalu, dan dikubur satu meter sepuluh di atas tanggul kereta kemarin sore oleh delapan orang termasuk Sekar sendiri.
 
@@ -147,7 +147,7 @@ Ayu tidak bergerak. "Ini yang bikin saya tidak enak, dan saya akan bilang terus 
 
 Sekar melihat map itu dan menghitung.
 
-Delapan ratus ribu. Salinan surat. Tiga paragraf tulisan tangan perempuan yang suaranya sedang naik dari bawah Segara Sepi pagi ini, kering dan pecah di ujung frasa, di antara lima belas orang yang tidak pernah ditemukan.
+Delapan ratus ribu. Salinan surat. Tiga paragraf tulisan tangan perempuan yang suaranya sedang naik dari bawah Segara Sepi pagi ini, kering dan pecah di ujung frasa — di antara suara-suara orang yang tidak pernah ditemukan, padahal dia sendiri yang dikubur kemarin sore.
 
 Dan di sisi lain neraca, satu tembang dari sebelas.
 

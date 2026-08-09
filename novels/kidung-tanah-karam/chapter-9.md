@@ -13,7 +13,7 @@ Kamp itu berbau seperti kain yang tidak pernah benar-benar kering.
 
 Waktu Sekar lewat sini sepuluh hari lalu, tendanya tiga puluh tiga. Sekarang dia berhenti menghitung di empat puluh dua karena baris paling belakang tidak lagi berbentuk baris. Terpal disambung ke terpal, tali dijemur di antara tiang, dan di bawahnya tanah urukan yang dikeraskan dengan pecahan genting dan tetap becek di jam sebelas pagi karena air tanah di sini naik dari bawah, bukan dari laut.
 
-Dia mencari Le Parjo.
+Dia mencari Lek Parjo.
 
 Itu saja alasannya datang, dan alasan itu terdengar bodoh setiap kali dia mengucapkannya di dalam kepala. Dia ingin melihat apakah laki-laki yang naik ke tangga penginapan hari Selasa masih berjalan seperti orang biasa. Dia ingin tahu apakah ada yang tertinggal di dalam orang itu.
 
@@ -31,7 +31,7 @@ Ada meja lipat di mulut tenda, gulungan tiket antrean kuning di atasnya, dan seo
 
 Antreannya sembilan belas orang.
 
-Le Parjo tidak ada di antaranya. Yang ada, di urutan kedua dari depan, berdiri sendirian dengan jarak setengah meter ke depan dan setengah meter ke belakang, adalah Marno.
+Lek Parjo tidak ada di antaranya. Yang ada, di urutan kedua dari depan, berdiri sendirian dengan jarak setengah meter ke depan dan setengah meter ke belakang, adalah Marno.
 
 Sekar berjalan menyusuri barisan itu dan berhenti di sebelahnya.
 

@@ -15,7 +15,7 @@ Di kaki tanggul, di sisi darat, air merembes keluar dari beton dan membentuk kol
 
 "Jam berapa mulai?" tanya Sekar.
 
-"Kata Le Parjo dari tadi pagi masih setetes-setetes." Bu Rukmi sudah di situ, entah bagaimana, dengan kaleng sirihnya. "Sekarang dia begini."
+"Kata Lek Parjo dari tadi pagi masih setetes-setetes." Bu Rukmi sudah di situ, entah bagaimana, dengan kaleng sirihnya. "Sekarang dia begini."
 
 Sekar berjongkok dan meletakkan telapak tangannya di beton.
 
@@ -23,7 +23,7 @@ Basah. Bukan basah karena rembesan — beton itu basah dari dalam, dan dingin de
 
 "Pasangnya jam berapa?"
 
-"Setengah tujuh," kata Tegar dari bawah. "Purnama minggu depan, jadi tiap hari makin tinggi."
+"Setengah tujuh," kata Tegar dari bawah. "Purnama dua minggu lagi, jadi tiap hari makin tinggi."
 
 Retakannya sendiri tidak dramatis. Garis gelap, selebar dua jari di titik terlebar, memanjang dari dasar ke atas sekitar dua meter lalu berhenti. Sekar sudah melihat retakan seperti ini di tembok rumah orang. Yang membuat perutnya turun adalah panjangnya ke samping — garis rambut yang meneruskan retakan itu ke kiri dan kanan, hampir tidak terlihat, sampai ke tempat yang tidak bisa dia lihat lagi karena tertutup punggung orang.
 
@@ -57,7 +57,7 @@ Ada suara lega yang bergerak melewati kerumunan, dan suara itu membuat Sekar ing
 
 Kerumunan itu menunggu, seperti orang menunggu kalimat kedua yang meralat kalimat pertama.
 
-"Retaknya belum tembus," kata Sekar. "Yang keluar rembesan, bukan pancuran. Tanggulnya masih berdiri. Kalau saya belanjakan hari ini buat retak yang masih dua jari, minggu depan pas purnama saya nggak punya apa-apa."
+"Retaknya belum tembus," kata Sekar. "Yang keluar rembesan, bukan pancuran. Tanggulnya masih berdiri. Kalau saya belanjakan hari ini buat retak yang masih dua jari, dua minggu lagi pas purnama saya nggak punya apa-apa."
 
 "Minggu depan bisa aja nggak jebol," kata laki-laki tadi.
 

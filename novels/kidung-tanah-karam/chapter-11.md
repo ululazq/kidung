@@ -171,11 +171,11 @@ Dia duduk di tepi ranjang.
 
 "Saya tidak pernah menyanyi."
 
-"Bukan mbak. Mesin di tiang tambatan itu jaraknya berapa dari terpal biru di Kamp Pindah Wetan?"
+"Bukan Mbak. Mesin di tiang tambatan itu jaraknya berapa dari terpal biru di Kamp Pindah Wetan?"
 
 "Empat kilometer. Lebih." Ayu mengangkat wajahnya. "Kenapa Kamp Pindah Wetan?"
 
-"Karena yang di kamp direkam sama mesin yang mbak pegang sendiri, hari Rabu, dari empat puluh meter, dan mbak bilang mbak nggak sadar sampai pakai headphone dua menit sesudahnya." Sekar menghitung di kepalanya untuk terakhir kali dan angkanya sudah tidak bisa diubah. "Hari Rabu itu hari kedua belas. Sekarang hari keenam belas."
+"Karena yang di kamp direkam sama mesin yang Mbak pegang sendiri, hari Rabu, dari empat puluh meter, dan Mbak bilang Mbak nggak sadar sampai pakai headphone dua menit sesudahnya." Sekar menghitung di kepalanya untuk terakhir kali dan angkanya sudah tidak bisa diubah. "Hari Rabu itu hari kedua belas. Sekarang hari keenam belas."
 
 Ayu melihat jam di pergelangan tangannya, lalu ke perekam kuningan di meja, lalu tidak ke mana-mana.
 

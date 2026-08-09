@@ -105,7 +105,7 @@ Perahu ke kampung berangkat sore. Sekar tidak menunggu sore.
 
 Dia membayar dua kali untuk pulang sebelum tengah hari, dan itu uang terakhir yang dia punya yang bukan uang makan.
 
-Le Parjo sedang menambal jaring di tambatan selatan waktu Sekar sampai. Dia mengangkat kepala sebelum Sekar mengucapkan apa pun, seperti orang yang sudah menebak siapa yang datang dari bunyi papan.
+Lek Parjo sedang menambal jaring di tambatan selatan waktu Sekar sampai. Dia mengangkat kepala sebelum Sekar mengucapkan apa pun, seperti orang yang sudah menebak siapa yang datang dari bunyi papan.
 
 "Segara Sepi lagi?"
 
@@ -115,13 +115,13 @@ Le Parjo sedang menambal jaring di tambatan selatan waktu Sekar sampai. Dia meng
 
 "Aku nggak mau dengar dari atas."
 
-Le Parjo meletakkan jaringnya.
+Lek Parjo meletakkan jaringnya.
 
 Sekar berdiri di papan dan mengucapkannya seperti orang menyebutkan harga, karena kalau dia menghaluskannya dia akan berhenti di tengah.
 
 "Aku mau turun ke bawah air, dan aku butuh ada yang narik aku naik," katanya. "Bukan badanmu yang aku pakai. Tanganmu yang aku minta, dan aku mintanya ke orangnya, hari ini, sebelum kejadian. Kamu bisa bilang nggak."
 
-Le Parjo melihatnya cukup lama sampai perahunya bergeser sendiri di tambatan.
+Lek Parjo melihatnya cukup lama sampai perahunya bergeser sendiri di tambatan.
 
 "Tiga hari lalu saya narik dua orang naik," katanya. "Dua lagi nggak."
 
@@ -141,7 +141,7 @@ Sekar berhenti.
 
 "Kamu yang hitung."
 
-"Ya siapa lagi." Le Parjo mengikat simpul yang tidak Sekar kenal, dua putaran dan satu dorongan ke dalam. "Mbak nggak bisa hitung di bawah air. Nggak ada orang yang bisa."
+"Ya siapa lagi." Lek Parjo mengikat simpul yang tidak Sekar kenal, dua putaran dan satu dorongan ke dalam. "Mbak nggak bisa hitung di bawah air. Nggak ada orang yang bisa."
 
 Dan di situ Sekar mengerti apa yang dia serahkan.
 
@@ -149,11 +149,11 @@ Seumur hidupnya dia menghitung satu angka setiap kali dadanya naik, dan itu yang
 
 "Sampai berapa," tanyanya.
 
-"Empat puluh," kata Le Parjo. "Lewat empat puluh saya tarik, sudah selesai atau belum."
+"Empat puluh," kata Lek Parjo. "Lewat empat puluh saya tarik, sudah selesai atau belum."
 
-Dua puluh lima menit kemudian perahu itu berhenti di tengah petak dan Le Parjo mengangkat dayungnya keluar dari air tanpa disuruh.
+Dua puluh lima menit kemudian perahu itu berhenti di tengah petak dan Lek Parjo mengangkat dayungnya keluar dari air tanpa disuruh.
 
-Airnya rata dan hangat di lapisan teratas dan tidak ada burung di atasnya. Sekar mengikat ujung tali ke pinggangnya sendiri dan Le Parjo memeriksanya dengan menariknya sekali, keras, tanpa minta izin.
+Airnya rata dan hangat di lapisan teratas dan tidak ada burung di atasnya. Sekar mengikat ujung tali ke pinggangnya sendiri dan Lek Parjo memeriksanya dengan menariknya sekali, keras, tanpa minta izin.
 
 "Satu lagi," katanya. "Kalau di bawah ada yang nyuruh Mbak tinggal, itu bukan Mbak yang mikir."
 
@@ -179,13 +179,13 @@ Sekar mulai menghitung dan dadanya tidak naik, dan angkanya berhenti di satu.
 
 Dia mencoba lagi dan berhenti di satu lagi, dan pada percobaan ketiga dia mengerti bahwa dia sedang menunggu tubuhnya melakukan sesuatu yang tidak akan dilakukan tubuhnya di bawah sini, dan pengertian itu datang bersama panik. Tali di pinggangnya mengencang. Dia keluar ke udara dengan mulut sudah terbuka duluan.
 
-"Tiga puluh sembilan," kata Le Parjo. "Nggak sampai empat puluh."
+"Tiga puluh sembilan," kata Lek Parjo. "Nggak sampai empat puluh."
 
 "Turunin lagi."
 
 "Napas dulu."
 
-"Le Parjo—"
+"Lek Parjo—"
 
 "Napas dulu." Dia tidak mengendurkan talinya. "Nggak usah dua kali kerja. Sekali turun yang benar itu lebih murah daripada empat kali turun yang gagal."
 
@@ -213,7 +213,7 @@ Dia lewat empat puluh dan masih ada.
 
 Lalu dia mencari yang delapan belas.
 
-Delapan belas kidung yang neneknya kirim ke Jakarta Selatan bulan Maret dengan permintaan tertulis supaya direkam, delapan belas yang mati di dalam pita tanpa pernah dipakai untuk apa pun, dan yang selama tiga hari terakhir membuat Sekar bangun tengah malam dengan pertanyaan apakah mereka juga sudah di bawah sini.
+Delapan belas kidung yang permintaan rekamnya dikirim neneknya ke Jakarta Selatan bulan Maret, supaya direkam sebelum Agustus, delapan belas yang mati di lantai langgar pada malam rob, di mulut yang menabungnya, tanpa pernah dipakai untuk apa pun, dan yang selama tiga hari terakhir membuat Sekar bangun tengah malam dengan pertanyaan apakah mereka juga sudah di bawah sini.
 
 Tidak ada.
 
@@ -221,15 +221,15 @@ Bukan tersembunyi di antara yang lain, bukan lebih pelan. Tidak ada, dengan cara
 
 Dan sambil menggantung di air hijau yang tidak punya dasar itu, Sekar akhirnya mendengar neneknya bicara untuk pertama kalinya sejak malam Hari 1.
 
-Sebelas dibelanjakan dan turun ke sini. Dua belas diajarkan lisan ke satu mulut yang bisa dia awasi. Delapan belas dibunuh di dalam pita supaya tidak pernah bisa turun ke mana pun. Sebelas tambah dua belas tambah delapan belas adalah empat puluh satu, dan empat puluh satu adalah jumlah halaman bernotasi di Serat Kidung Pasang, dan tidak ada satu pun yang tersisa tanpa diputuskan.
+Sebelas dibelanjakan dan turun ke sini. Dua belas diajarkan lisan ke satu mulut yang bisa dia awasi. Delapan belas dibunuh supaya tidak pernah bisa turun ke mana pun. Sebelas tambah dua belas tambah delapan belas adalah empat puluh satu, dan empat puluh satu adalah jumlah halaman bernotasi di Serat Kidung Pasang, dan tidak ada satu pun yang tersisa tanpa diputuskan.
 
 Perempuan itu tidak pelit. Perempuan itu sedang melakukan pembukuan, sendirian, selama enam puluh tahun, melawan sesuatu yang tidak pernah dia sebutkan kepada siapa pun.
 
-Dan rekaman bukan kecelakaan yang menimpanya. Rekaman adalah satu-satunya senjata yang pernah dia temukan.
+Dan rekaman bukan kecelakaan yang menimpanya — rekaman adalah satu-satunya senjata yang pernah dia temukan, dan dia mati lima hari sebelum senjata itu sempat ditembakkan. Pita tidak pernah sampai; delapan belas itu mati di lantai langgar, tanpa pita, tanpa izin siapa pun, dan tidak pindah ke mana-mana. Kalau pita itu sampai, mereka justru akan ada di sini — seperti Lampor Wengi yang turun lewat rekaman. Yang menyelamatkan mereka bukan senjata neneknya. Kematian yang datang lima hari lebih dulu.
 
 Sekar memindahkan jempolnya kembali ke ruas pertama dan mendengarkan yang bukan kidung.
 
-Lima belas suara. Bukan lagu, cuma orang. Sama banyak dengan nisan kosong di tanggul Stasiun 13, dan empat belas di antaranya basah dan satu kering.
+Lima belas suara. Bukan lagu, cuma orang. Sama banyak dengan nisan kosong di tanggul Stasiun 13 — tapi angkanya yang sama, isinya bertukar satu: empat belas yang basah, dan yang kering itu neneknya, yang justru dikubur.
 
 Dia mencari satu suara di antara empat belas yang basah. Dia tahu persis bunyinya, cara suara itu memotong kata terakhir sebelum selesai, cara suara itu naik kalau sedang menyuruh. Dia mendengarkan sampai dadanya mulai memukul dari dalam.
 
@@ -245,7 +245,7 @@ Tali di pinggangnya menarik keras dan dia tidak menahan.
 
 ---
 
-"Empat puluh," kata Le Parjo, waktu Sekar sudah di lambung perahu dengan pipinya menempel di kayu. "Saya nggak nunggu."
+"Empat puluh," kata Lek Parjo, waktu Sekar sudah di lambung perahu dengan pipinya menempel di kayu. "Saya nggak nunggu."
 
 Sekar batuk sampai ada yang keluar dan tidak bisa bicara selama hampir satu menit.
 
@@ -253,7 +253,7 @@ Sekar batuk sampai ada yang keluar dan tidak bisa bicara selama hampir satu meni
 
 "Dapat."
 
-Le Parjo mengambil dayungnya dan memutar haluan tanpa ditanya, dan sesudah petak itu tertinggal di belakang mereka dia bicara lagi, ke air, dengan nada orang yang sedang menyampaikan kabar biasa.
+Lek Parjo mengambil dayungnya dan memutar haluan tanpa ditanya, dan sesudah petak itu tertinggal di belakang mereka dia bicara lagi, ke air, dengan nada orang yang sedang menyampaikan kabar biasa.
 
 "Orang deret ketiga masih nyeret di jebolan tiap pagi," katanya. "Kata mereka mau sampai ketemu."
 

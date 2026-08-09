@@ -69,7 +69,7 @@ Tegar melepaskannya, karena ada hal lain yang lebih besar di kepalanya dan dia s
 
 "Iya."
 
-"Le Parjo yang cerita. Katanya sengnya dipasang melintang." Tegar menggeleng ke arah air. "Orang sini nggak pernah mau ditegur soal muatan. Sekali jalan, sekali jalan, lama-lama jadi begitu." Dia berhenti. "Untung kamu lagi nggak di situ."
+"Lek Parjo yang cerita. Katanya sengnya dipasang melintang." Tegar menggeleng ke arah air. "Orang sini nggak pernah mau ditegur soal muatan. Sekali jalan, sekali jalan, lama-lama jadi begitu." Dia berhenti. "Untung kamu lagi nggak di situ."
 
 Sekar bisa membetulkannya dengan enam kata.
 
@@ -85,7 +85,7 @@ Sekar tidak berpaling.
 
 "Sama siapa."
 
-"Orang. Lewat Le Parjo." Tegar menggosok dahinya di garis belang matahari itu. "Tiga juta dua. Dibayar di muka semuanya, hari Senin, dan aku sudah nerima. Diambil subuh, jam empat, sebelum airnya turun."
+"Orang. Lewat Lek Parjo." Tegar menggosok dahinya di garis belang matahari itu. "Tiga juta dua. Dibayar di muka semuanya, hari Senin, dan aku sudah nerima. Diambil subuh, jam empat, sebelum airnya turun."
 
 "Dan busnya jam tujuh."
 
