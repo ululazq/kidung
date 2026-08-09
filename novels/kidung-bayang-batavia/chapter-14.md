@@ -49,11 +49,9 @@ Punden kedelapan meledak di belakang mereka, dan gelombang kejutnya melemparkan 
 
 "Simpang lima? Dari sini?" Arya menoleh ke arah kota yang terbelah oleh retakan-retakan api. "Berapa jauh—"
 
-"Empat punden lagi, Arya!" Nyi Sembrani mencengkeram lengannya. "Empat! Lari!"
+"Punden kesembilan, Arya! Yang terakhir!" Nyi Sembrani mencengkeram lengannya. "Lari!"
 
-Arya berlari.
-
-Ia mengumpulkan sisa-sisa tenaga di dalam tubuhnya — tubuh yang sudah bertarung sepanjang malam, yang sudah menahan racun bayangan dan air hitam di dalam dadanya, yang sudah dipukul, dibakar, dan dilempar. Ia berlari secepat kilat menembus jalanan Kota Tua yang mulai terbelah oleh retakan-retakan api gaib. Di sekelilingnya, bayangan-bayangan punden raksasa runtuh satu per satu, menjatuhkan bebatuan energi mistis yang membakar bangunan di sekitarnya. Udara terasa panas bagai di dalam tungku leburan emas. Arya melompati retakan-retakan yang menganga, melewati gerobak-gerobak yang terbakar, melewati orang-orang yang berteriak — dan di setiap langkah, ia merasakan dadanya, di mana air hitam itu masih terbakar, dan sisi tubuhnya, di mana racun bayangan itu masih menjalar.
+Arya berlari, mengumpulkan sisa-sisa tenaga di dalam tubuhnya — tubuh yang sudah bertarung sepanjang malam, yang sudah menahan racun bayangan dan air hitam di dalam dadanya, yang sudah dipukul, dibakar, dan dilempar. Ia berlari secepat kilat menembus jalanan Kota Tua yang mulai terbelah oleh retakan-retakan api gaib. Di sekelilingnya, bayangan-bayangan punden raksasa runtuh satu per satu, menjatuhkan bebatuan energi mistis yang membakar bangunan di sekitarnya. Udara terasa panas bagai di dalam tungku leburan emas. Arya melompati retakan-retakan yang menganga, melewati gerobak-gerobak yang terbakar, melewati orang-orang yang berteriak — dan di setiap langkah, ia merasakan dadanya, di mana air hitam itu masih terbakar, dan sisi tubuhnya, di mana racun bayangan itu masih menjalar.
 
 Ia tidak berhenti. Ia tidak bisa berhenti. Di belakangnya, Nyi Sembrani menyusul dengan kecepatan yang menipu usianya, selendang merahnya terentang membentuk perisai angin yang menahan bebatuan yang berjatuhan.
 

@@ -39,7 +39,7 @@ Arya memandang alun-alun yang penuh cahaya itu cukup lama sebelum menjawab.
 
 "Dan sekarang aku tahu jawabannya." Arya menoleh. "Orang-orang di bawah sana tidak mengingatku. Tapi mereka mengingat satu sama lain. Mereka mengingat nama anak-anak mereka, nama tetangga mereka, nama jalan tempat mereka tinggal. Dan selama mereka bisa mengingat itu, aku tidak perlu diingat. Aku hanya perlu memastikan bahwa mereka bisa terus mengingat."
 
-Nyi Sembrani menatapnya cukup lama. Lalu ia tersenyum — senyum yang sama dengan senyum yang ia berikan ketika Arya pertama kali berhasil menaklukkan bayangannya di depan cermin, bertahun-tahun yang terasa seperti semalam.
+Nyi Sembrani menatapnya cukup lama. Lalu ia tersenyum — senyum yang sama dengan senyum yang ia berikan ketika Arya pertama kali berhasil menaklukkan bayangannya di depan cermin, beberapa minggu yang terasa seperti semalam.
 
 "Gurumu akan bangga," katanya pelan. "Kyai Ageng Wiraguna. Pak Raden. Mereka berdua akan bangga."
 
@@ -68,7 +68,7 @@ Arya mengenali gambar naga laut itu — gambar yang sama dengan yang ia temukan 
 
 "Dari Pak Raden dan gurumu," bisik Nyi Sembrani.
 
-"Dari mereka." Arya menatap cahaya itu. "Mereka mengirim pesan yang sama seperti yang mereka jalani. Berjuang tanpa pasukan. Menang tanpa merendahkan."
+"Dari mereka." Arya menatap cahaya yang mulai meredup itu. "Mereka mengirim pesan yang sama seperti yang mereka jalani. Berjuang tanpa pasukan. Menang tanpa merendahkan."
 
 "Dan kau sudah menjalaninya," kata Nyi Sembrani. "Tanpa pasukan. Tanpa nama. Tanpa pengakuan. Kau menang, Arya — dan tidak ada satu orang pun di kota ini yang tahu namamu."
 
@@ -92,7 +92,7 @@ Arya tertawa pelan. "Aku akan mengingat itu."
 
 ---
 
-Dengan satu lompatan ringan, Arya dan Nyi Sembrani menyatu dengan kegelapan malam, menghilang di antara bayang-bayang bangunan tua Batavia. Mereka pergi meninggalkan pelabuhan dan kota kebanggaan mereka, namun jiwa dan perlindungan mereka akan tetap berada di sana selamanya, mengawal Kidung Abadi Batavia hingga akhir masa.
+Malam itu, dari atap benteng yang sunyi itu, Arya dan Nyi Sembrani menyaksikan perayaan sampai musik yang terakhir padam. Lalu mereka turun, dan berjalan menuju utara — pulang ke Padepokan Bayang Jagad, ke tempat yang kini mereka sebut rumah.
 
 Di utara kota, di Padepokan Bayang Jagad, Kitab Catatan Jagad yang telah menjadi batu kristal itu berdenyut pelan dalam cahaya dua lilin yang tidak pernah padam — dan di halaman terakhirnya, di bawah kata *Jagad*, perlahan-lahan muncul tulisan-tulisan baru, ditulis oleh tangan yang tidak terlihat:
 
@@ -100,18 +100,18 @@ Di utara kota, di Padepokan Bayang Jagad, Kitab Catatan Jagad yang telah menjadi
 
 *Bab kedua: Masih akan ditulis.*
 
-Di bawah tulisan itu, gambar naga laut dengan mata yang terbuka itu berkedip sekali — seperti mata yang menutup, dan kemudian terbuka kembali, menunggu cerita yang belum dimulai.
+Di bawah tulisan itu, gambar naga laut dengan mata yang terbuka itu berkedip sekali — seperti mata yang menutup, dan kemudian terbuka kembali, menunggu cerita yang belum dimulai. Cerita itu tidak akan lagi ditulis oleh tangan yang tidak terlihat: ia akan ditulis oleh kelima pemuda itu, satu bab demi satu bab, di halaman yang sama.
 
 Di halaman padepokan, di bawah langit malam yang mulai cerah, lima pemuda duduk mengelilingi api unggun kecil. Salah satu dari mereka — pemuda penjaga malam yang dulu bermimpi tentang laut — sedang bercerita, dan yang lain mendengarkan dengan wajah yang penuh tanya. Ia tidak tahu bahwa cerita yang ia ceritakan adalah cerita tentang dirinya sendiri, yang ia dengar dari orang lain dan tidak bisa ia ingat. Ia hanya tahu bahwa ada cerita yang harus diceritakan.
 
-Di kejauhan, di atas atap benteng kuno, Arya dan Nyi Sembrani memandang ke arah api unggun itu.
+Di tepi halaman, di antara bayang-bayang pohon ketapang, Arya dan Nyi Sembrani berdiri, memandang ke arah api unggun itu.
 
 "Ceritanya sudah dimulai," kata Nyi Sembrani.
 
 "Ya." Arya tersenyum. "Dan kali ini, aku tidak akan menghapusnya."
 
-Di bawah, di alun-alun, musik masih mengalir. Di tengah kerumunan, pemuda penjaga malam itu sedang menari, dan di sampingnya, seorang perempuan muda yang bisa mendengar bisikan peta-peta tua sedang tertawa — dan Arya, dari atas atap benteng, menyaksikan mereka semua, dan ia tidak lagi merasa bahwa ia sedang menonton dari luar.
+Arya menyaksikan kelima pemuda itu, dan ia tidak lagi merasa bahwa ia sedang menonton dari luar.
 
 Ia sedang menjaga.
 
-Dan itulah, katanya pada dirinya sendiri, satu-satunya cara untuk berada di dalam sebuah cerita tanpa pernah muncul di dalamnya. Di tangannya, Keris Kyai Sengkelat berdenyut pelan — hangat, seperti sesuatu yang setuju — dan Arya tersenyum, dan untuk sesaat, di atas atap benteng yang sunyi itu, ia merasa bahwa semua orang yang pernah ia kehilangan sedang berdiri di sampingnya.
+Dan itulah, katanya pada dirinya sendiri, satu-satunya cara untuk berada di dalam sebuah cerita tanpa pernah muncul di dalamnya. Di tangannya, Keris Kyai Sengkelat berdenyut pelan — hangat, seperti sesuatu yang setuju — dan Arya tersenyum, dan untuk sesaat, di tepi halaman yang sunyi itu, ia merasa bahwa semua orang yang pernah ia kehilangan sedang berdiri di sampingnya.

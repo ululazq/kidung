@@ -13,7 +13,7 @@ Ia berbohong, dan keduanya tahu.
 
 ---
 
-Malam gerhana datang seperti tamu yang sudah lama ditunggu dan ditakuti.
+Malam gerhana itu datang seperti tamu yang sudah lama ditunggu dan ditakuti.
 
 Lonceng Museum Fatahillah berdentang delapan kali ketika Arya dan Nyi Sembrani keluar dari ruang arsip. Kota Tua tampak tidak seperti dirinya. Toko-toko yang biasanya masih buka sampai larut sudah menurunkan terpal sejak sore. Warung kopi di simpang jalan kosong, cangkir-cangkir masih di atas meja, seolah pemiliknya pergi tanpa sempat membereskannya. Anjing-anjing melolong di kejauhan, dan tidak ada satu pun yang berhenti.
 
@@ -127,7 +127,7 @@ Arya menelan ludah. Sisi tubuhnya berdenyut — bukan lagi sakit, tapi seperti a
 
 "Arya." Suara Nyi Sembrani sangat pelan. "Apa pun yang kau lihat di ruangan ini, apa pun yang kau dengar, jangan percaya semuanya. Gerbang ini sudah menunggu lama. Ia tahu cara berbicara."
 
-Arya mengangguk. Ia melangkah ke ruangan itu, dan di belakangnya, bayangannya di dinding batu bergerak lebih dulu — selangkah, sebelum kaki Arya sendiri menyentuh lantai. Di dalam saku bajunya, surat gurunya — surat yang ia bawa dari padepokan, yang sudah ia baca sampai hafal di luar kepala — terasa hangat, seperti sesuatu yang sedang mengingatkannya bahwa ia tidak berjalan sendirian.
+Arya mengangguk. Ia melangkah ke ruangan itu, dan di belakangnya, bayangannya di dinding batu bergerak lebih dulu — selangkah, sebelum kaki Arya sendiri menyentuh lantai. Ia mengingat surat gurunya — surat yang sudah ia baca sampai hafal di luar kepala selama perjalanan dari padepokan, sebelum ia kehilangannya di pasar — dan kata-kata itu terasa hangat di dalam dadanya, seperti sesuatu yang sedang mengingatkannya bahwa ia tidak berjalan sendirian.
 
 Di dalam ruangan itu, udara terasa lebih berat. Bukan udara yang dingin — udara yang *penuh*, seperti ruangan yang sudah lama tidak dimasuki orang, dan yang menyimpan semua suara yang pernah terjadi di dalamnya. Arya bisa mendengar bisikan-bisikan di tepi pendengarannya, terlalu pelan untuk dimengerti, terlalu banyak untuk dihitung.
 

@@ -123,7 +123,7 @@ Arya mengangkat kepalanya. Seorang perempuan tua berdiri di ujung gang — rambu
 
 "Arya." Perempuan tua itu menghela napas panjang — helaan yang begitu dalam sehingga Arya, yang baru mengenalnya, langsung tahu bahwa ini adalah helaan yang mendahului kabar buruk. "Aku Nyi Sembrani. Gurumu menulis surat kepadaku."
 
-Arya meraba dadanya. Surat itu masih ada, basah oleh keringat dan hujan, di dalam saku bajunya.
+Arya meraba dadanya. Surat itu tidak ada. Ia kehilangannya entah kapan — mungkin di pasar, mungkin di tengah kerumunan — dan ia tidak menyadarinya.
 
 "Aku tahu," kata Nyi Sembrani. "Aku sudah membaca surat itu kemarin — kau kehilangannya di pasar, dan seorang anak kecil mengembalikannya kepadaku. Aku mencari pemuda dengan keris itu sejak sore. Kau membuatku menunggu, Arya."
 

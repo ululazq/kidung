@@ -69,7 +69,7 @@ Sang Panglima Jiwa menyadari kehadiran Arya. Ia menyabetkan pedang raksasanya de
 
 Benturan itu membuat lengannya mati rasa. Ia tergelincir mundur di atas papan dermaga yang basah, dan Sang Panglima menyerang lagi — sabetan kedua, ketiga, keempat — setiap sabetan membawa angin yang membakar. Arya menangkis, mundur, menangkis, dan di setiap benturan ia merasakan racun bayangan di sisi tubuhnya berdenyut seperti jantung kedua yang sedang marah.
 
-"Arya!" teriak Nyi Sembrani dari kejauhan. "Jangan bertarung dengan amarahnya! Ia membaca amarah!"
+"Arya! Jangan bertarung dengan amarahnya! Ia membaca amarah!" teriak Nyi Sembrani.
 
 Arya menghela napas. Ia mengingat ajaran gurunya — *kekuatan sejati bukan pada ketiadaan amarah, melainkan pada kemampuan mengendalikannya* — dan ia berhenti mundur.
 

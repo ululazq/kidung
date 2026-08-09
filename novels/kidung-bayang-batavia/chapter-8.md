@@ -85,17 +85,17 @@ Di dermaga, Nyi Sembrani berlari mendekat.
 
 "Arya!"
 
-Arya merangkak naik ke dermaga, dan sebelum lututnya menyentuh papan kayu, ia merasakan sisi tubuhnya — racun bayangan itu, yang selama tiga malam ia sembunyikan, kini menjalar naik ke dadanya dengan kecepatan yang belum pernah ia rasakan. Garis-garis hitam merambat di bawah kulitnya, dan untuk pertama kalinya, Nyi Sembrani melihatnya.
+Arya merangkak naik ke dermaga, dan sebelum lututnya menyentuh papan kayu, ia merasakan sisi tubuhnya — racun bayangan itu, yang selama tiga malam ia sembunyikan, kini menjalar naik ke dadanya dengan kecepatan yang belum pernah ia rasakan. Garis-garis hitam merambat di bawah kulitnya — dan Nyi Sembrani, yang sudah mengenal luka itu sejak ruang arsip, tahu bahwa ini bukan luka yang sama lagi.
 
 Wanita tua itu berhenti.
 
-"Arya," katanya, dan suaranya tidak lagi datar. "Apa ini?"
+"Arya." Suaranya tidak lagi datar. "Kau meminum airnya."
 
 Arya menekan dadanya, berusaha menahan batuk yang merobek paru-parunya.
 
-"Luka di gudang," bisiknya. "Tiga malam lalu. Aku pikir—"
+"Detik pertama," bisiknya. "Sebelum aku sempat menahan napas. Aku pikir—"
 
-"Kau pikir." Nyi Sembrani berlutut di sampingnya, dan di wajah tua itu, untuk pertama kalinya malam ini, ada kemarahan — kemarahan yang tidak ditujukan kepada Ki Demang. "Kau pikir, Arya. Kau menyimpan ini selama tiga malam, bertarung dengan racun bayangan di dalam tubuhmu, dan kau pikir kau bisa—"
+"Kau pikir." Nyi Sembrani berlutut di sampingnya, dan di wajah tua itu, untuk pertama kalinya malam ini, ada kemarahan — kemarahan yang tidak ditujukan kepada Ki Demang. "Kau pikir, Arya. Kau tahu racun bayangan itu masih di dalam tubuhmu — kau yang menyembunyikannya selama tiga malam — dan kau tetap terjun ke air itu, dan kau pikir kau bisa—"
 
 "Aku bisa." Arya menatapnya. "Aku harus bisa. Nyi, kalau aku bilang, kau akan menahanku. Dan kalau kau menahanku, siapa yang akan menjaga orang-orang di jembatan itu?"
 

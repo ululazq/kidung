@@ -15,7 +15,7 @@ Luka sabetan itu memanjang dari tulang rusuk bawah sampai ke pinggang. Tepinya t
 
 "Ini bukan luka pedang biasa." Suara Nyi Sembrani datar. "Siapa yang menyabetmu di gudang pelabuhan itu, Arya?"
 
-"Saya tidak melihat wajahnya. Gelap." Arya menghindari tatapan wanita tua itu. "Bilahnya hitam. Ia tidak berbicara sama sekali."
+"Saya tidak melihat wajahnya. Gelap." Arya menghindari tatapan wanita tua itu. "Bilahnya hitam. Ia berbicara seperti sesuatu yang belum selesai dilahirkan."
 
 "Dan kau tidak menceritakannya padaku selama tiga hari."
 
@@ -201,7 +201,7 @@ Nyi Sembrani menatap serpihan cermin di lantai. Wajahnya tidak lega sama sekali.
 
 "Kenapa Nyi tidak memberitahu saya?"
 
-"Karena jika aku memberitahumu, kau akan takut. Dan ketakutan itulah yang akan memberinya kekuatan." Nyi Sembrani mengambil tongkatnya dan berjalan menuju pintu. "Tapi sekarang kau sudah menaklukkannya. Kutukan darah Ki Ageng Bayang telah putus. Dan besok malam, saat kita menghadapi Ki Demang di pelabuhan, ia akan menghadapi Arya yang utuh — bukan Arya yang terpecah."
+"Karena jika aku memberitahumu, kau akan takut. Dan ketakutan itulah yang akan memberinya kekuatan." Nyi Sembrani mengambil tongkatnya dan berjalan menuju pintu. "Tapi sekarang kau sudah menaklukkannya. Kutukan darah Ki Ageng Bayang telah putus. Dan nanti malam, saat kita menghadapi Ki Demang di pelabuhan, ia akan menghadapi Arya yang utuh — bukan Arya yang terpecah."
 
 Arya mengikutinya, tapi di ambang pintu ia berhenti dan menoleh ke belakang.
 

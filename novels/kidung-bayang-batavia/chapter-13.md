@@ -35,7 +35,7 @@ Arya merasakan kata-kata itu. Ia merasakannya seperti pisau — bukan di kulit, 
 
 Lalu ia mengingat ajaran gurunya. *Kekuatan sejati seorang ksatria bukan terletak pada ketiadaan rasa takut atau kemarahan, melainkan pada kemampuannya untuk mengendalikan keduanya.*
 
-Ia memejamkan mata.
+Ia menutup matanya.
 
 "Kau benar, Ki Demang," kata Arya pelan. "Aku membawa kebencian itu di dalam darahku. Tapi kau lupa satu hal."
 

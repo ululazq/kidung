@@ -15,7 +15,7 @@ Di balik bangunan-bangunan tua, di balik pilar-pilar dermaga dan tumpukan peti, 
 
 Mereka melihat semuanya.
 
-Di antara mereka, Arya mengenali seorang pemuda penjaga malam — yang kemarin sore sempat menunjukkan jalannya menuju pelabuhan ketika ia tersesat di antara gudang-gudang tua. Pemuda itu berdiri paling depan, obornya hampir jatuh dari tangannya, matanya tidak berkedip menatap sisa-sisa kabut hitam yang masih menggantung di atas air.
+Di antara mereka, Arya mengenali seorang pemuda penjaga malam — yang tiga hari lalu sempat menunjukkan jalannya menuju pelabuhan ketika ia tersesat di antara gudang-gudang tua. Pemuda itu berdiri paling depan, obornya hampir jatuh dari tangannya, matanya tidak berkedip menatap sisa-sisa kabut hitam yang masih menggantung di atas air.
 
 "Kau," kata pemuda itu ketika Arya mendekat. Suaranya bergetar, tapi tidak ketakutan — justru penuh tanya. "Kau yang tadi... kau yang membuat cahaya itu, bukan?"
 
@@ -73,7 +73,7 @@ Nyi Sembrani memandangi mangkuk kuningan itu. Di dalamnya, serbuk perak itu hany
 
 "Dan kalau suatu hari nanti kita butuh lagi?"
 
-"Maka kita harus mencari cara lain." Nyi Sembrani menatapnya. "Atau memastikan tidak ada yang perlu dilupakan lagi. Itulah pekerjaan kita, Arya — menjaga agar dunia gaib tidak pernah bocor cukup jauh sehingga manusia harus dilupakan untuk menyelamatkannya."
+"Maka kita harus mencari cara lain." Nyi Sembrani menatapnya lama. "Atau memastikan tidak ada yang perlu dilupakan lagi. Itulah pekerjaan kita, Arya — menjaga agar dunia gaib tidak pernah bocor cukup jauh sehingga manusia harus dilupakan untuk menyelamatkannya."
 
 ---
 

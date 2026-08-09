@@ -11,7 +11,7 @@ Pak Raden Suprapto.
 
 Selama puluhan tahun, orang-orang mengenalnya hanya sebagai arsiparis tua yang menjaga ruang penyimpanan Museum Fatahillah — lelaki pendiam yang lebih sering berbicara dengan gulungan peta daripada dengan manusia. Tidak ada yang tahu bahwa ia adalah salah satu anggota terakhir dari Dewan Tujuh Pusaka, dewan yang sejak berabad-abad lalu ditugaskan menjaga pusaka-pusaka Nusantara dan batas antara dua dunia.
 
-Arya tidak pernah bertemu dengannya. Tapi ia pernah mendengar namanya — dari Nyi Sembrani, dua hari lalu, ketika ia menjelaskan tentang dewan yang nyaris punah.
+Arya tidak pernah bertemu dengannya. Tapi ia pernah mendengar namanya — dari Nyi Sembrani, tiga hari lalu, ketika ia menjelaskan tentang para penjaga yang nyaris punah.
 
 "Pak Raden?" Arya menatap pria tua itu dengan tidak percaya. "Kau— kau anggota Dewan Tujuh Pusaka?"
 
@@ -57,8 +57,6 @@ Pak Raden membuka Kitab Catatan Jagad Batavia dan meletakkannya di atas retakan 
 
 "Karena halaman ini tidak menunggu untuk ditulis." Pak Raden menatap Arya. "Ia menunggu untuk menjadi penutup. Setiap kitab harus punya penutup — dan penutup sebuah kitab bukanlah kata terakhirnya, melainkan harga yang dibayar agar kata-kata sebelumnya tidak sia-sia."
 
-"Kitab ini," kata Pak Raden, dan suaranya mulai menipis, "mencatat segala sesuatu yang pernah terjadi di tanah ini. Dan halaman terakhir ini... selalu kosong. Aku tidak pernah tahu untuk apa. Sekarang aku tahu."
-
 Ia mulai melantunkan mantra pengorbanan jiwa — sebuah ritual terlarang yang menukar nyawa sang penyihir untuk menyegel keabadian aliran energi gaib.
 
 "Pak Raden! Jangan!" jerit Arya histeris seraya berusaha merayap mendekat, namun ditahan kuat oleh Nyi Sembrani yang baru tiba di lokasi.
@@ -81,13 +79,13 @@ Tapi semua kata itu terasa seperti sesuatu yang datang terlambat, untuk orang ya
 
 Di sampingnya, Nyi Sembrani menyeka air matanya. Ia tidak berlutut. Ia berdiri — berdiri dengan punggung yang lurus, seperti orang yang sedang memberi penghormatan terakhir kepada rekannya — dan ketika ia berbicara, suaranya tidak bergetar sama sekali.
 
-"Dewan Tujuh Pusaka," katanya pelan, "telah menutup bukunya malam ini. Selama empat puluh tahun Pak Raden menunggu seseorang yang pantas memegang keris itu. Malam ini, ia menemukannya — dan ia memilih untuk pergi dengan tenang. Jangan sedihkan itu, Arya. Hormatilah itu."
+"Dewan Tujuh Pusaka," katanya pelan, "telah menutup bukunya malam ini. Selama empat puluh tahun Pak Raden menunggu seseorang yang pantas memegang keris itu. Malam ini, ia menemukannya — dan ia memilih untuk pergi dengan tenang. Jangan sedihkan itu, Arya. Hormatilah itu. Arsiparis yang baik tahu kapan sebuah catatan harus ditutup — dan Pak Raden menutupnya dengan halaman yang terisi, bukan halaman yang kosong."
 
 Yang tersisa di atas retakan yang menutup itu bukan lagi sebuah kitab kulit kerbau — melainkan sebuah batu kristal yang memancarkan cahaya emas pelan, dengan bentuk yang sama persis dengan Kitab Catatan Jagad, terkunci di atas Keris Kyai Sengkelat yang kini tertancap tenang.
 
 Arya berlutut di depan batu kristal itu. Di sekelilingnya, Kota Tua menjadi sunyi — sunyi yang berbeda dari sunyi sebelumnya, sunyi orang yang baru saja selesai berteriak.
 
-"Aku tidak tahu namamu," bisik Arya, kepada batu kristal yang tidak bisa menjawab. "Tapi aku akan menjaganya. Aku janji."
+"Aku tidak tahu namamu," bisik Arya, kepada batu kristal yang tidak bisa menjawab. "Tapi aku akan menjaganya — dan aku akan menceritakannya kepada siapa pun yang mau mendengar, supaya namamu tidak hilang lagi dari halaman mana pun. Aku janji."
 
 Ia mengulurkan tangannya dan menyentuh batu kristal itu. Di bawah telapak tangannya, permukaannya hangat — hangat seperti tangan, bukan seperti batu — dan untuk sesaat, Arya bisa bersumpah ia merasakan denyut di dalamnya, denyut yang menyerupai nadi orang yang baru saja beristirahat.
 

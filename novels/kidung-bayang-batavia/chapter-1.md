@@ -111,8 +111,6 @@ Itu hal pertama yang aneh. Bayangan selalu menatap pemiliknya — bayangan adala
 
 Ia berdiri dan pergi. Ia tidak membasuh wajahnya lagi di air yang tenang sejak hari itu.
 
-Tiga hari kemudian, Arya tiba di Kota Tua Jakarta.
-
 ---
 
 Tiga hari kemudian, Arya tiba di Kota Tua Jakarta.

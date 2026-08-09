@@ -35,7 +35,7 @@ Arya merasakan keris di tangannya berdenyut — denyut yang hangat, seperti peng
 
 "Maka gerbang ini akan terbuka untuk Ki Demang," jawab Nyi Sembrani pelan, "dan tidak akan ada yang bisa menutupnya lagi."
 
-Mereka berjalan dalam diam melewati dua belokan terakhir. Di dinding lorong, coretan naga laut yang sama seperti di bagian atas mulai muncul lagi — semakin besar, semakin hidup, dan kali ini mata-mata mereka terbuka, mengikuti gerakan dua orang yang lewat di bawahnya.
+Mereka berjalan dalam diam. Dua belokan terakhir itu terasa lebih panjang dari sebelumnya — di dinding lorong, coretan naga laut yang sama seperti di bagian atas mulai muncul lagi, semakin besar, semakin hidup, dan kali ini mata-mata mereka terbuka, mengikuti gerakan dua orang yang lewat di bawahnya.
 
 Kemudian lorong itu berakhir.
 
@@ -45,7 +45,7 @@ Mereka berdiri di ambang sebuah ruangan melingkar bertiangkan delapan pilar batu
 
 Di tengah ruangan itu berdiri sebuah gerbang raksasa dari kayu jati tua, dilapisi ukiran naga laut yang saling menjalin dari lantai sampai langit-langit. Setiap sisiknya diukir dengan presisi yang tidak mungkin dibuat oleh tangan manusia biasa, dan di antara sisik-sisik itu, tersembunyi aksara-aksara kuno yang berdenyut pelan dengan cahaya biru samudera — seperti jantung yang menunggu.
 
-Pintu Misteri Segara.
+Itulah Pintu Misteri Segara.
 
 Arya merasakan keris di tangannya bergetar. Bukan getaran takut. Getaran orang yang pulang.
 
@@ -65,9 +65,7 @@ Ki Demang tertawa. Tawanya pelan, dan di dalam ruangan yang sunyi itu, ia terden
 
 "Belum." Ki Demang menatapnya, dan untuk sesaat senyumnya hilang. "Tapi kau membawa sesuatu di dalam darahmu, pewaris darah luhur. Sesuatu yang sudah lama kukenal. Dan malam ini, ia akan memilih sisi yang sama denganku."
 
-Arya merasakan bayangannya di dinding batu bergerak.
-
-Ia tidak menoleh. Ia tidak berani menoleh.
+Arya merasakan bayangannya di dinding batu bergerak. Ia menunduk, memusatkan pandangan pada keris di tangannya, dan tidak membiarkan matanya berpaling ke dinding itu.
 
 ---
 
@@ -94,8 +92,6 @@ Di sudut matanya, ia melihat bayangannya sendiri di pilar batu terdekat. Bayanga
 "Besok," bisik Arya, dan ia tidak tahu kepada siapa ia berbisik. "Besok kita selesaikan ini."
 
 Bayangan itu menurunkan tangannya.
-
-Arya menancapkan ujung Keris Kyai Sengkelat
 
 Arya menancapkan ujung Keris Kyai Sengkelat tepat ke pusat celah ukiran naga laut.
 

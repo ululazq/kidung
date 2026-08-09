@@ -51,7 +51,7 @@ Ia merah. Merah tipis, seperti goresan darah di bawah kuku, tapi nyata — dan s
 
 "Dan Ki Demang?"
 
-"Ki Demang tidak akan membiarkan kita memegang kuncinya." Nyi Sembrani menarik napas. "Itulah sebabnya malam ini kita harus berjalan menuju gerbang itu, dan bukan besok, dan bukan lusa. Sementara gerbangnya masih bisa ditutup."
+"Ki Demang tidak akan membiarkan kita memegang kuncinya." Nyi Sembrani menarik napas. "Itulah sebabnya kita harus segera tiba di gerbang itu — sebelum gerhana memuncak, sementara gerbangnya masih bisa ditutup."
 
 ---
 
@@ -99,7 +99,7 @@ Arya memandangi cermin yang tertutup kain itu. "Kenapa cermin?"
 
 "Apa yang terjadi kalau aku menghadapinya dan kalah?"
 
-Nyi Sembrani diam cukup lama.
+Nyi Sembrani terdiam cukup lama.
 
 "Tubuhmu akan tetap berjalan," katanya akhirnya. "Ia akan berbicara dengan suaramu, memakai wajahmu, memegang kerismu. Dan orang-orang yang mencintaimu tidak akan bisa membedakannya. Itulah yang paling mengerikan dari kutukan darah, Arya — ia tidak membunuhmu. Ia menggantikanmu."
 
@@ -119,4 +119,4 @@ Arya tidak menjawab. Ia memandangi cermin yang tertutup kain itu sampai matanya 
 
 Bayangan itu tidak menjawab. Tapi di sudut matanya, Arya bersumpah ia melihat bayangan itu mengangguk.
 
-Ia menarik napas dalam-dalam, menekan sisi tubuhnya, dan menunggu fajar — sementara di luar, di atas kota yang tidak tahu apa-apa, bulan naik utuh dan pucat, dan dua malam lagi tepinya akan mulai memerah seperti darah.
+Ia menarik napas dalam-dalam, menekan sisi tubuhnya, dan menunggu fajar — sementara di luar, di atas kota yang tidak tahu apa-apa, bulan naik dengan tepi yang mulai memerah seperti darah — dan dua malam lagi ia akan tenggelam penuh dalam warna itu.

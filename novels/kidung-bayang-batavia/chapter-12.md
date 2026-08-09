@@ -3,23 +3,11 @@ title: "Bab 12: Pertempuran Akhir Dua Wadah"
 chapter: 12
 ---
 
-Arya tergeletak di tanah pelabuhan yang dingin. Pipinya menempel di genangan air hujan bercampur darahnya sendiri. Ia bisa merasakan setiap denyut nadi di pelipisnya, setiap retakan tulang di dadanya, setiap napas yang seperti menghisap pecahan kaca.
+Arya tergeletak di tanah pelabuhan yang dingin. Pipinya menempel di genangan air hujan bercampur darahnya sendiri. Keris Kyai Sengkelat tergeletak tiga meter jauhnya — pendar merahnya yang tadinya berkobar kini hanya tinggal samar, nyaris padam, seperti bara yang ditinggalkan hujan.
 
-Keris Kyai Sengkelat tergeletak tiga meter jauhnya. Cahaya merahnya yang tadinya berkobar seperti api kini hanya tinggal pendar samar, nyaris padam, seperti bara yang ditinggalkan hujan.
+Ki Demang Brata berdiri di atasnya. Suaranya berat bertingkat, menggetarkan udara: "Aku sudah mengatakannya, dan aku akan mengatakannya sekali lagi: kita hanya wadah. Takdir memilihku untuk diisi kegelapan, dan memilihmu untuk diisi cahaya. Dan lihatlah — wadahmu bocor. Cahayamu hampir padam, karena kau mengisinya dengan amarah yang kau pikir sudah kau kalahkan. Wadah yang sama, isi yang berbeda. Isimu tidak lebih baik. Isimu hanya lebih rapuh."
 
-Ki Demang Brata melangkah mendekat. Setiap langkahnya membuat papan dermaga retak dan mengeluarkan asap hitam. Ia tertawa pelan, suara itu bergema di antara jeritan arwah-arwah yang masih melayang di udara.
-
-"Arya," ucap Ki Demang, dan suaranya berat bertingkat yang menggetarkan udara. Ia berhenti tepat di samping Arya yang tergeletak lemah, lalu menunduk memandanginya — seperti orang yang memandangi barang yang sudah selesai dipakai. "Aku sudah mengatakannya, dan aku akan mengatakannya sekali lagi: kita hanya wadah. Takdir memilihku untuk diisi kegelapan, dan memilihmu untuk diisi cahaya. Dan lihatlah — wadahmu bocor. Cahayamu hampir padam, karena kau mengisinya dengan amarah yang kau pikir sudah kau kalahkan. Wadah yang sama, isi yang berbeda. Isimu tidak lebih baik. Isimu hanya lebih rapuh."
-
-Ki Demang mengangkat kakinya dan menginjak punggung Arya. Berat tubuh raksasanya menghimpit tulang belikat pemuda itu sampai berderak.
-
-Arya menjerit kesakitan.
-
-"Lihatlah kerismu," bisik Ki Demang dengan nada mengejek. "Cahayanya hampir padam. Pusaka yang kau banggakan itu telah tercemar oleh amarahmu sendiri."
-
-Arya berusaha mengangkat kepalanya. Ia menatap ke arah Keris Kyai Sengkelat. Benar. Cahaya merah di bilahnya kini nyaris tidak terlihat lagi.
-
-Dan di kejauhan, Nyi Sembrani yang masih tergeletak lemah menatap Arya dengan tatapan penuh duka. Bibirnya bergetar tanpa suara.
+Arya tidak bisa menjawab. Yang bisa ia lakukan hanyalah menatap keris yang meredup itu — dan mendengar, di kejauhan, suara Nyi Sembrani yang masih tergeletak lemah, seperti seseorang yang sedang mengumpulkan kekuatan terakhirnya.
 
 Ki Demang mengangkat cambuk tulang naganya tinggi-tinggi, siap menghujamkan serangan mematikan untuk mengakhiri hidup Arya sekali untuk selamanya.
 

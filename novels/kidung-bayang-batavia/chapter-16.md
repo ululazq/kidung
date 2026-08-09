@@ -29,7 +29,7 @@ Wanita tua itu tampak jauh lebih tua daripada kemarin malam. Rambut peraknya, ya
 
 "Yang perlu kau tahu," potong Nyi Sembrani, "adalah bahwa aku masih punya cukup tahun untuk melihatmu melatih generasi berikutnya. Itu sudah lebih dari cukup."
 
-Arya menunduk. Di dadanya, air hitam yang ia telam di dasar laut itu masih terasa — tidak lagi membakar, tapi seperti bara yang padam, yang masih menyisakan panas di tempat yang tidak bisa ia tunjukkan.
+Arya menunduk. Di dadanya, air hitam yang ia telan di dasar laut itu masih terasa — tidak lagi membakar, tapi seperti bara yang padam, yang masih menyisakan panas di tempat yang tidak bisa ia tunjukkan.
 
 ---
 
@@ -67,7 +67,7 @@ Arya merasakan racun itu bergeser di dalam dadanya — menetap di tempat yang ba
 
 "Jangan berterima kasih." Nyi Sembrani berbalik dan melanjutkan langkahnya. "Kau menyelamatkan kota ini dengan dua racun di dalam tubuhmu. Aku hanya memindahkan salah satunya ke tempat yang lebih aman. Itu bukan jasa. Itu utang — dan kau akan membayarnya dengan menjaga kota ini lebih lama dari aku."
 
-Mereka mengangkat batu kristal itu dan membawanya keluar dari simpang lima.
+Mereka mengangkat batu kristal itu dan membawanya keluar dari simpang lima. Di dalam kain pembungkusnya, batu kristal itu terasa hangat — seperti orang yang ikut berjalan, seperti buku yang ikut dibawa pulang.
 
 Di sepanjang tepi Sungai Ciliwung, burung-burung pagi mulai berkicau riang. Air sungai yang tadinya keruh beracun akibat hujan asam gaib kini mengalir jernih memantulkan sinar matahari pagi yang menyegarkan. Warga Kota Tua satu per satu mulai terbangun dari tidur lelap mereka — bangun dengan wajah segar, keluar dari rumah dengan cangkir kopi di tangan, tanpa sedikit pun mengingat petaka gaib yang hampir memusnahkan nyawa mereka beberapa jam lalu.
 
@@ -101,14 +101,10 @@ Arya berhenti. Ia menatap pemuda itu dari seberang jalan.
 
 "Apa kau mengenalnya?" tanya Nyi Sembrani.
 
-"Dia menolongku menemukan jalan ke pelabuhan," kata Arya. "Dua hari sebelum gerhana. Kalau bukan karena dia, aku mungkin masih tersesat di antara gudang-gudang tua itu, dan tidak akan pernah sampai ke gerbang tepat waktu."
+"Dia menolongku menemukan jalan ke pelabuhan," kata Arya. "Tiga hari sebelum gerhana. Kalau bukan karena dia, aku mungkin masih tersesat di antara gudang-gudang tua itu, dan tidak akan pernah sampai ke gerbang tepat waktu."
 
 "Dan dia tidak akan pernah tahu itu."
 
 "Tidak." Arya menatap pemuda itu sebentar lagi. "Tapi aku tahu. Dan selama aku tahu, itu sudah cukup."
 
-Ia berbalik dan melanjutkan langkahnya, meninggalkan pemuda itu di pos jaganya — yang tidak akan pernah tahu bahwa orang asing yang baru saja lewat di seberang jalan adalah orang yang pernah ia tolong, di malam yang tidak bisa ia ingat.
-
-Di belakang mereka, di jembatan kayu itu, pemuda penjaga malam yang kemarin membantu Arya menemukan jalan ke pelabuhan berdiri memandang ke arah mereka pergi. Ia tidak tahu kenapa. Ia tidak tahu siapa mereka. Tapi untuk sesaat, ia merasa ada sesuatu yang penting terjadi di kota ini semalam — sesuatu yang hilang dari ingatannya, seperti mimpi yang memudar sebelum sempat diingat.
-
-Ia menggeleng, mengangkat obornya yang sudah padam, dan berjalan kembali ke pos jaga — dengan perasaan aneh yang tidak bisa ia sebutkan, perasaan orang yang baru saja kehilangan sesuatu yang tidak pernah ia miliki.
+Ia berbalik dan melanjutkan langkahnya, meninggalkan pemuda itu di pos jaganya — yang tidak akan pernah tahu bahwa orang asing yang baru saja lewat di seberang jalan adalah orang yang pernah ia tolong, di malam yang tidak bisa ia ingat, dan yang akan terus bermimpi tentang laut tanpa pernah tahu bahwa mimpi itu bukan mimpi.
