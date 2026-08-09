@@ -33,7 +33,13 @@ Cahaya perak membesar, dan Mila melihat—bukan dengan matanya, tapi dengan jant
 
 Sebuah ruangan gelap. Seorang penjaga tua duduk di lantai, menggambar simbol lingkaran putus di tanah. Di tengahnya, seorang bayi digendong—bukan bayi biasa, tapi bayi yang mengeluarkan cahaya oranye dari dadanya.
 
+Cahaya itu tidak menyala seperti api. Ia bernapas, seperti lentera yang baru saja dinyalakan dan belum tahu apakah ia akan bertahan sampai pagi. Penjaga tua itu menatap bayi di pangkuannya dengan mata yang penuh kasih dan penuh keputusan yang berat—mata orang yang tahu bahwa apa yang akan ia lakukan tidak bisa ditarik kembali.
+
+Di sekeliling ruangan, bayangan-bayangan berdiri diam, menunggu. Mereka tidak datang untuk menonton. Mereka datang untuk menjadi saksi dari satu-satunya hal yang pernah dilakukan penjaga pertama: menciptakan rumah yang tidak pernah ada sebelumnya.
+
 Penjaga itu berbicara: "Namamu akan Milakara. Tapi karena kekuatanmu terlalu besar, kita pecah menjadi dua bagian. Mila untuk tubuh yang hidup. Kara untuk nama yang dilindungi. Dan jika salah satu hilang, yang lain tidak bisa bertahan."
+
+Bayangan-bayangan saksi itu menggerakkan kepalanya bersamaan, seperti gelombang yang disapu angin. Salah satu dari mereka—yang tertua, dengan topeng yang retak—mengangkat tangan dan meletakkannya di dada bayi itu, bukan untuk mengambil, tetapi untuk berjanji. Mila tidak mendengar kata-katanya, tetapi ia merasakannya: sebuah sumpah yang diikat bukan dengan darah, melainkan dengan ingatan. Mereka semua akan mengingat nama ini. Mereka semua akan menjaganya sampai waktunya tiba.
 
 Lalu penjaga itu memotong dada bayi dengan pisau tembaga—bukan darah yang keluar, tapi cahaya oranye yang mengalir.
 
@@ -41,7 +47,7 @@ Lalu penjaga itu memotong dada bayi dengan pisau tembaga—bukan darah yang kelu
 
 Dan dengan gerakan yang sama, penjaga itu memotong bagian lain dari bayi.
 
-"Dan bagian ini untuk Kara. Kau akan dilindungi, dan suatu hari nanti, kamu akan kembali ke Mila."
+"Dan bagian ini untuk Kara. Kau akan dilindungi, dan suatu hari nanti, kau akan kembali ke Mila."
 
 Cahaya oranye mengalir, membentuk dua benang perak—satu masuk ke dada bayi (Mila), satu disimpan dalam guci (Kara).
 
@@ -76,6 +82,10 @@ Sebuah kamar kecil. Seorang bayi duduk di lantai, menangis tanpa suara. Seorang 
 Bayi itu menatapnya—dengan mata yang sudah tua, dengan jiwa yang sudah kehilangan segalanya.
 
 "Aku ingin pulang," bisik bayi itu.
+
+Mila merasakan ingatan itu seperti merasakan luka yang bukan miliknya: dingin, dalam, dan tidak pernah sembuh. Bayi itu tidak menangis karena lapar. Ia tidak menangis karena takut. Ia menangis karena ia adalah satu-satunya makhluk di dunia yang tahu rasanya menjadi ruang kosong tanpa dinding—menjadi sesuatu yang tidak pernah diundang ke mana pun, yang tidak pernah punya pintu untuk diketuk.
+
+Dan Mila mengerti, di dalam ingatan yang dipinjam itu, bahwa Luruh tidak pernah memilih menjadi Kolektor. Ia memilih menjadi Kolektor karena itu adalah satu-satunya cara yang ia tahu untuk membuat kekosongan itu berhenti—dengan mengisinya, dengan apa pun, dengan siapa pun, sampai tidak ada ruang tersisa untuk bertanya kenapa ia sendiri tidak pernah diisi.
 
 Dan Luruh menangis karena ia mengingat itu—ingat bahwa ia pernah menjadi bayi yang ingin pulang, tapi tidak tahu di mana rumahnya.
 
@@ -156,6 +166,10 @@ Ia mengingat wajah pria tua itu. Mengingat bisikannya. Mengingat kata-kata terak
 Mila tersenyum. Meski ia tidak lagi ingat semua nama yang ia selamatkan, satu hal yang pasti:
 
 Ia tidak sendirian.
+
+Di tangannya, amplop merah itu masih ada—surat Kara, kata-kata yang sekarang terasa seperti pesan dari separuh dirinya yang lain: *Jika kau membawa cahaya, biarkan ia menyalakan sesuatu di dalammu, bukan menenggelamkannya.* Mila menekannya ke dadanya. Cahaya tidak pernah menenggelamkannya, pikirnya. Cahaya selalu menyalakan sesuatu. Bahkan ketika yang tersisa tinggal sedikit, ia masih bisa memilih apa yang ingin ia nyalakan.
+
+Di saku mantelnya, Nyala berdenyut—tidak terang, tidak redup, tetapi mantap, seperti detak jantung yang telah menemukan ritmenya. Mila menatapnya lama. Ia tidak ingat warna senja. Ia tidak ingat nama jalan tempat ia dibesarkan. Ia bahkan tidak ingat seperti apa wajah ibunya. Tetapi ia ingat ini: bahwa ada sesuatu di dalam dirinya yang memilih, setiap hari, untuk terus menjadi rumah. Dan selama itu masih ada, ia tidak akan pernah benar-benar kosong.
 
 Karena Luruh—yang dulunya Kolektor, yang dulunya vessel yang kehilangan segalanya—sekarang punya rumah. Dan ia, Mila, tidak lagi hanya vessel.
 

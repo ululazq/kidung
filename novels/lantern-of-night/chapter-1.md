@@ -21,23 +21,23 @@ Mila melambat. Ketika dia melangkah di bawah lampion itu, dinding-dinding tampak
 
 Dia mengangkat lentera sedikit lebih tinggi. Nyala memantul di permukaan kayu pintu dan membuat pola-pola halus di wajah perempuan yang berdiri di balik meja. Wajah itu pucat, matanya hitam seperti sumur, dan rambutnya menetes sedikit air. Ia mengenakan kain gelap yang terlihat seperti kain batik hujan yang masih basah.
 
-"Akhirnya kamu sampai, penjaga dengan nyala oranye," kata perempuan itu tanpa tersenyum. Suaranya lembut tetapi siap menebas.
+"Akhirnya kau sampai, penjaga dengan nyala oranye," kata perempuan itu tanpa tersenyum. Suaranya lembut tetapi siap menebas.
 
 Mila meletakkan lentera di atas meja dan mengamati ruangan kecil itu. Ada rak-rak dengan botol-botol, amplop bercampur dengan buku-buku kulit, dan papan kecil bertuliskan instruksi singkat. Di tengah meja tergeletak kunci tembaga kecil, permukaannya tergores halus, dengan ukiran simbol lingkaran dasi yang sama seperti yang ia lihat di dinding lorong tadi.
 
 "Aku tidak datang untuk mencari jalan biasa," kata Mila. "Aku datang karena Nyala memintaku fokus ke nama. Dan aku tahu bagaimana melihat tampilan ini."
 
-Perempuan itu mengangguk, tetapi matanya masih mengamati gelang perak di pergelangan tangan Mila. Ada semacam tanda pengakuan dalam gerakan itu. "Nyala tidak memanggil sembarangan. Ia memanggil untuk yang bersedia menjadi medium—untuk yang bisa membawa pesan ke luar tanpa menambah kebisingan. Nama yang kamu butuhkan ada dalam pesan yang disimpan di kotak merah. Itu bukan sekadar kata. Ia adalah jejak seseorang yang menolak dilupakan."
+Perempuan itu mengangguk, tetapi matanya masih mengamati gelang perak di pergelangan tangan Mila. Ada semacam tanda pengakuan dalam gerakan itu. "Nyala tidak memanggil sembarangan. Ia memanggil untuk yang bersedia menjadi medium—untuk yang bisa membawa pesan ke luar tanpa menambah kebisingan. Nama yang kau butuhkan ada dalam pesan yang disimpan di kotak merah. Itu bukan sekadar kata. Ia adalah jejak seseorang yang menolak dilupakan."
 
 Mila menyentuh kunci tembaga. Logamnya hangat seperti kulit nenek tua. Ada energi kecil yang berdenyut di permukaannya, berputar dengan ritme lain daripada Nyala. Dalam benaknya, dia melihat kilasan bayangan: sebuah ruang sempit dengan bantal, buku, dan seorang anak perempuan yang duduk sendirian sambil menggambar garis.
 
-"Kara," ucap perempuan itu ketika Mila menatap kotak. "Itulah nama yang menunggu. Tetapi ingat: nama itu akan bertanya kepada kamu terlebih dahulu, bukan sebaliknya. Dia tidak ingin dibawa seperti sebuah barang. Dia ingin diakui."
+"Kara," ucap perempuan itu ketika Mila menatap kotak. "Itulah nama yang menunggu. Tetapi ingat: nama itu akan bertanya kepadamu terlebih dahulu, bukan sebaliknya. Dia tidak ingin dibawa seperti sebuah barang. Dia ingin diakui."
 
 Mila menelan. Kata Kara berputar di pikirannya seperti suara gaung. Ia tidak pernah mengetahui apakah nama di dalam pesan itu adalah siapa pun yang nyata atau hanya wujud simbolis dari bayangan-gelap. Namun malam ini, ia merasakan sesuatu yang lebih nyata. Ada getaran di belakang tempurung kepalanya, seolah rambutnya sendiri berdiri.
 
 "Bagaimana aku menemukannya?" tanyanya.
 
-"Kotak surat merah berada di jalan yang masih menjual roti kayu manis ketika hari masih muda. Hanya sedikit yang melewatinya saat ini. Di dalam kotak, ada pesan. Baca lagu, jangan lompat. Beritahu dia bahwa kamu datang dengan cahaya, bukan dengan nyala yang mencoba menutupinya. Dan ingat: di Kota Senja, nama yang diberikan boleh jadi membawa beban. Tetapi tanpa nama, bayangan itu akan tetap menjadi udara."
+"Kotak surat merah berada di jalan yang masih menjual roti kayu manis ketika hari masih muda. Hanya sedikit yang melewatinya saat ini. Di dalam kotak, ada pesan. Baca lagu, jangan lompat. Beritahu dia bahwa kau datang dengan cahaya, bukan dengan nyala yang mencoba menutupinya. Dan ingat: di Kota Senja, nama yang diberikan boleh jadi membawa beban. Tetapi tanpa nama, bayangan itu akan tetap menjadi udara."
 
 Mila mengangguk. Ia bertanya-tanya tentang bunyi frasa yang terasa seolah telah diukir di dalam tembok kota. Ia merasakan kata-kata itu tidak hanya berpijar di tangannya, tetapi juga menuntut jawaban.
 
@@ -99,7 +99,7 @@ Ketika langkah Mila mendekat, sosok itu mengangkat kepala.
 
 Dia mengeluarkan kertas Kara dari tasnya. Hujan kertas itu masih belum basah sepenuhnya. Mata pria itu melirik kertas tersebut, lalu menatap kembali ke arah lain. Dalam gerakannya, ada sesuatu yang rapuh tetapi tegas.
 
-"Kara memberi tanda," katanya. "Tetapi bayangan yang menunggu di sini tidak selalu jelas. Jika kamu membaca pesan itu, berarti kamu sudah berada di tengah-tengah. Namun kamu harus ingat: di stasiun ini, yang menunggu bisa memilih apakah mereka akan bercakap atau tetap menjadi kabut."
+"Kara memberi tanda," katanya. "Tetapi bayangan yang menunggu di sini tidak selalu jelas. Jika kau membaca pesan itu, berarti kau sudah berada di tengah-tengah. Namun kau harus ingat: di stasiun ini, yang menunggu bisa memilih apakah mereka akan bercakap atau tetap menjadi kabut."
 
 Mila merasakan nuansa lain dalam suara pria itu: bukan hanya peringatan, tetapi juga rasa lega.
 
@@ -227,7 +227,7 @@ Di dalam, ada ruangan kecil dengan cahaya yang memerah pelan. Sebuah cermin kuni
 
 Kara tidak langsung muncul. Sebagai gantinya, ruang itu terisi oleh sebuah udara yang berat, seperti ruang yang berusaha menarik perhatiannya.
 
-"Kau sudah tiba," terdengar suara lembut dari balik cermin. "Langkahmu tidak salah. Namun kau harus mengerti: aku bukan sesuatu yang dapat kamu genggam. Aku adalah lubang dalam sebuah cerita."
+"Kau sudah tiba," terdengar suara lembut dari balik cermin. "Langkahmu tidak salah. Namun kau harus mengerti: aku bukan sesuatu yang dapat kau genggam. Aku adalah lubang dalam sebuah cerita."
 
 Mila menelan. Suara itu benar-benar baru, tetapi juga terasa akrab. "Aku tahu. Aku datang dengan cahaya, tetapi aku tidak ingin mengganggu."
 

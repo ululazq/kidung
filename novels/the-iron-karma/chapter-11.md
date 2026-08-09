@@ -93,7 +93,7 @@ Bagas teringat latihan wushu masa kecilnya di matras kejuaraan. Pelatih tuanya s
 
 melalui sambungan radio terenkripsi, suara Dimas terdengar penuh keheranan.
 
-"Bagas, guncangan hantaman Vane tadi malam kedengaran kencang banget sampai sini," kata Dimas dari jalur kabel mati. "Lu nggak apa-apa di basemen dua?"
+"Bagas, guncangan hantaman Vane barusan kedengaran kencang banget sampai sini," kata Dimas dari jalur kabel mati. "Lu nggak apa-apa di basemen dua?"
 
 "Aku baik-baik saja, Dimas," jawab Bagas pelan seraya memeriksa kerapatan tali mantelnya. "Regulator Tembaga peredamnya bekerja sempurna. Guncangan kinetik Vane tidak membakar saraf lenganku."
 

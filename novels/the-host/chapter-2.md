@@ -171,7 +171,9 @@ Wajahnya masih sama. Tapi di sekitar matanya, di sudut-sudut mulutnya, ada garis
 
 *Ini harga. Kekuatan tanpa batas adalah kebohongan. Semua memiliki biaya.*
 
-Arif memegang pinggang wastafel, napasnya memburu. "Kamu tidak memberitahu aku."
+Arif memegang pinggang wastafel, napasnya memburu. Pikirannya—otak analisnya—mulai bekerja dengan sendirinya. Satu hari. Berapa nilai satu hari? Gaji bulanannya dibagi tiga puluh. Dikali satu. Angkanya kecil. Konyol kecil. Tapi angka itu bukan masalahnya. Masalahnya adalah hari itu tidak bisa dikembalikan. Tidak ada refund. Tidak ada retur. Tidak ada SLA yang bisa ia ajukan ke penjual layanan bernama takdir.
+
+"Kamu tidak memberitahu aku."
 
 *Kamu tidak bertanya.*
 
@@ -217,7 +219,15 @@ Rahwana diam. Lalu:
 
 *Jangan pernah menggunakan skill tanpa pertimbangan. Setiap kali, tanyakan pada dirimu: apakah ini layak? Apakah harga yang kamu bayar sebanding dengan hasil yang kamu dapat?*
 
-Arif menatap cermin sekali lagi. Garis-garis halus di wajahnya. Rambut yang sedikit menipis.
+Arif menatap cermin sekali lagi. Garis-garis halus di wajahnya. Rambut yang sedikit menipis. Ia memalingkan wajah, lalu menoleh kembali, mencoba melihat dirinya seperti orang lain melihatnya. Apakah perubahan itu kentara? Apakah orang-orang di kantor akan bertanya? Apakah ibunya akan menyadari?
+
+*Kamu akan belajar menyembunyikannya,* kata Rahwana, seolah membaca pikirannya. *Manusia pandai menyembunyikan hal-hal yang tidak ingin mereka lihat.*
+
+"Termasuk dari diri sendiri?"
+
+*Terutama dari diri sendiri.*
+
+Arif menarik napas. Ia tidak punya jawaban untuk itu. Ia hanya punya janji yang bisa ia pegang.
 
 "Baik," katanya. "Aku berjanji."
 
@@ -246,6 +256,10 @@ Mind Palace.
 Satu skill. Satu hari penuaan.
 
 Dan masih empat skill lagi yang menunggu.
+
+Arif mematikan laptop, tetapi tetap duduk di tepi kasur, memandang ke luar jendela sambil menggenggam gelas air yang sudah lama kosong. Di bawah, lampu-lampu kota berkelip seperti data yang tidak pernah selesai dimuat. Ia mencoba menghitung—berapa hari lagi ia akan terlihat seperti orang lain jika ia terus mengakses perpustakaan itu. Satu hari per akses. Sepuluh akses, sepuluh hari. Seratus akses, lebih dari tiga bulan.
+
+Angka yang menakutkan, tapi anehnya, ia tidak merasa takut. Yang ia rasakan lebih dekat dengan... lapar. Seperti ada bagian dari dirinya yang baru saja tahu bahwa selama ini ia kelaparan tanpa menyadarinya.
 
 ---
 

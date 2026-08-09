@@ -31,7 +31,7 @@ Tapi yang ia temukan hanya kabut.
 
 "Berapa banyak yang tersisa dariku?" tanyanya.
 
-Tukang Sutra diam lama. Lalu: "Aku tidak tahu. Tapi aku tahu ini: jika kau terus memberi rumah tanpa menjaga dirimu sendiri, suatu hari kau akan bangun dan tidak lagi tahu siapa kamu."
+Tukang Sutra diam lama. Lalu: "Aku tidak tahu. Tapi aku tahu ini: jika kau terus memberi rumah tanpa menjaga dirimu sendiri, suatu hari kau akan bangun dan tidak lagi tahu siapa kau."
 
 ---
 
@@ -200,3 +200,5 @@ Vessel dengan nama yang dipecah dua.
 Rumah bagi nama-nama yang tidak punya rumah.
 
 Dan target Kolektor yang paling berharga.
+
+Di luar, hujan mulai reda untuk pertama kalinya dalam empat hari. Mila berdiri, menyeka wajahnya, dan meletakkan buku arsip itu kembali ke rak—dengan hati-hati, seperti meletakkan sesuatu yang rapuh. Besok, pikirnya, ia akan mencari Kara. Bukan nama yang hilang, tapi nama yang dicuri. Dan kali ini, ia tidak akan berjalan sendiri.

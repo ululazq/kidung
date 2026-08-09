@@ -55,7 +55,7 @@ Tiba-tiba, telepon Arif berbunyi. Lagi nomor tidak dikenal.
 
 "Siapa ini?"
 
-"Sita." Suara itu berbeda dari Sari. Lebih lembut, tapi ada kekuatan yang mendasari.
+"Surpanakha." Suara itu berbeda dari Sari. Lebih lembut, tapi ada kekuatan yang mendasari.
 
 *Dia mengejarku?*
 
@@ -225,9 +225,11 @@ Maya menoleh ke Arif. "Waktumu habis. Kita harus pergi."
 
 Arif berdiri. Ia melihat peta satu kali lagi—tempat-tempat suci, tanda-tanda merah. Satu tempat menarik perhatiannya—**Candi Prambanan**. Tanda merah besar, dengan catatan kecil: *"Karma Nexus: Brahma's Shadow."*
 
+Ia menghafal posisi candi itu di dalam peta—bukan dengan mata, tapi dengan cara analis menyimpan data: garis lintang, garis bujur, jarak dari Jakarta. Seandainya ia harus pergi ke sana suatu hari, ia tidak ingin bergantung pada siapa pun untuk menemukan jalannya.
+
 "Kenapa candi itu spesial?"
 
-Maya menghela napas. "Karena itu bukan hanya candi. Itu adalah portal. Portol Karmic. Tempat di mana ancient consciousness bisa melihat masa lalu mereka—bukan sekadar memori. Tapi... utas-utas karma mereka. Utas yang menghubungkan mereka dengan dunia manusia."
+Maya menghela napas. "Karena itu bukan hanya candi. Itu adalah portal. Portal Karmic. Tempat di mana ancient consciousness bisa melihat masa lalu mereka—bukan sekadar memori. Tapi... utas-utas karma mereka. Utas yang menghubungkan mereka dengan dunia manusia."
 
 Arif mencerna. "Kalau aku pergi ke sana—apa yang akan kulihat?"
 

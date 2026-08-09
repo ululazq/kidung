@@ -15,7 +15,7 @@ Arif menatap layar laptop. Ia baru saja membuka berita: **"Hendra Wijaya, CEO Te
 
 "Hendra Wijaya," ujar Arif. "CEO TechNovus. Kenapa?"
 
-*Rahwana diam sejenak.* Indrajit.
+*Rahwana diam sejenak.* *Indrajit.*
 
 "Apa?"
 
@@ -35,7 +35,7 @@ Arif menatap foto di layar. Wajah Hendra—tajam, mata yang penuh perhitungan. S
 
 *Indrajit tidak pernah memaafkanku.*
 
-Arif menelan ludah. "Memafokan apa?"
+Arif menelan ludah. "Memaafkan apa?"
 
 *Rahwana tidak menjawab langsung. Ada berat di suaranya, sesuatu yang dalam dan kelam.*
 
@@ -83,13 +83,29 @@ Tawa di ujung telepon—tawa yang tidak hangat, tapi tidak juga mengancam.
 
 Telepon mati.
 
-Arif menatap ponselnya. Rahwana diam, tapi kehadirannya berat, seperti gunung yang menekan.
+Arif menatap ponselnya. Layar masih menampilkan nomor yang baru saja memanggil. Ia menyimpan nomor itu, lalu membuka aplikasi catatan dan mengetik: *Hendra Wijaya — TechNovus — Indrajit — tahu tentang kita — mau bertemu.*
+
+Lalu ia menghapusnya. Seandainya ponselnya disadap—seandainya ada orang yang membaca catatannya—nama-nama itu tidak boleh tertinggal.
+
+Rahwana diam, tapi kehadirannya berat, seperti gunung yang menekan.
 
 *Dia tidak datang untuk berbicara. Dia datang untuk menilai.*
 
 "Menilai apa?"
 
 *Apakah kamu ancaman. Atau alat. Atau... sesuatu yang harus dihancurkan.*
+
+---
+
+Malam itu, Arif hampir menelepon Sari. Jarinya sudah di atas tombol panggil, nomor yang sama yang ia simpan sejak pertemuan di kampus. Hendra Wijaya. Indrajit. Fusi total. Semua nama itu terasa terlalu besar untuk disimpan sendiri.
+
+Tapi ia tidak menekan tombol itu. Sari sendiri yang berkata: *jangan percaya siapapun sepenuhnya.* Termasuk dirinya. Termasuk Sangha Network. Dan sebelum ia tahu pihak mana yang harus ia percaya, lebih baik ia datang sendiri, mendengar sendiri, dan memutuskan sendiri.
+
+*Bijak,* kata Rahwana. *Atau bodoh. Waktu yang akan menjawab.*
+
+"Terima kasih atas dukungannya," gumam Arif.
+
+*Tidak perlu. Aku hanya tidak ingin mati karena kesalahanmu.*
 
 ---
 
@@ -100,6 +116,14 @@ Arif duduk di pojok cafe, membelakangi dinding. Posisi strategis—bisa melihat 
 Jam 10:03, Hendra masuk.
 
 Ia berjalan dengan langkah yang terukur, baju kemeja abu-abu yang rapi, tidak ada dasi. Wajahnya sama seperti di foto—tajam, penuh perhitungan. Tapi matanya berbeda. Di balik tatapan modern itu, ada sesuatu yang jauh lebih tua.
+
+Arif memperhatikan cara Hendra bergerak. Bukan cara berjalan orang biasa—tidak tergesa, tidak ragu, tidak menoleh ke kiri dan kanan seperti orang yang mencari sesuatu. Hendra berjalan seperti orang yang tahu persis di mana setiap orang akan berada. Seperti orang yang pernah memimpin pasukan, meskipun tubuh yang ia pakai tidak pernah mengenal pedang.
+
+*Dia menjaga jarak,* kata Rahwana. *Tidak terlalu dekat, tidak terlalu jauh. Posisi yang tidak bisa diserang dari mana pun.*
+
+"Kamu memperhatikan hal seperti itu?" pikir Arif.
+
+*Aku memimpin perang selama empat puluh tahun. Aku memperhatikan segalanya.*
 
 Ia duduk di seberang Arif tanpa menanyakannya.
 
@@ -145,7 +169,9 @@ Arif merinding. "Fusi total?"
 
 "TechNovus sedang mengembangkannya. AI yang bisa menjembatani kesadaran. Neural interface yang bisa menyelaraskan gelombang otak host dan ancient. Projek rahasia. Projek yang membuatku yakin—ada cara baru untuk hidup bersama."
 
-Arif mencerna semua itu. "Dan kamu ingin aku... apa?"
+Arif mencerna semua itu. Di dalam kepalanya, ia mencoba melihat gambaran besarnya—pola yang selama ini ia cari di setiap spreadsheet. TechNovus. AI. Neural interface. Fusi. Hendra tidak hanya ingin aliansi. Hendra ingin Arif menjadi bagian dari eksperimen yang lebih besar. Dan di dunia yang ia kenal, eksperimen selalu punya dua sisi: data dan korban.
+
+"Dan kamu ingin aku... apa?"
 
 "Menjadi bagian dari itu. Test subject. Partner. Atau... alat."
 
@@ -165,6 +191,8 @@ Ia mengulurkan kartu nama premium, dengan nomor pribadi tertulis tangan di belak
 
 Hendra berbalik, berjalan keluar cafe. Arif menatap punggunya sampai menghilang di antara kerumunan.
 
+Ia duduk sendiri di meja itu lebih lama dari yang ia rencanakan. Pelayan datang dua kali, menawarkan menu, dan dua kali ia menggeleng. Di luar kaca, Grand Indonesia bergerak—orang-orang dengan tas belanja, pasangan yang berfoto, anak-anak yang berlari. Dunia yang tidak tahu apa-apa tentang utas karma, kesadaran kuno, atau dua pria yang baru saja berbicara tentang fusi jiwa di atas latte yang sudah dingin.
+
 *Jangan percaya dia.*
 
 "Kamu kenal dia lebih baik dari aku."
@@ -180,6 +208,10 @@ Rahwana diam lama. Lalu:
 Arif menatap kartu di tangannya. Nama. Nomor. Jalan buntu.
 
 Atau mungkin, jalan masuk.
+
+Ia menyimpan kartu itu di saku dalam jaketnya, bukan di dompet—seperti menyimpan sesuatu yang berbahaya di tempat yang tidak akan ditemukan orang. Di luar, hujan mulai turun lagi, dan Jakarta kembali ke ritmenya yang biasa: klakson, banjir di beberapa titik, orang-orang yang berlari mencari perlindungan.
+
+Arif berjalan keluar, membiarkan hujan membasahi bahunya. Ia tidak buru-buru, tidak seperti biasanya. Ia punya banyak hal untuk dipikirkan—tentang Indrajit, tentang fusi, tentang harga yang mungkin harus ia bayar untuk sesuatu yang bahkan belum ia pahami sepenuhnya.
 
 ---
 

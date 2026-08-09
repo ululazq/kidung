@@ -11,7 +11,7 @@ Di bahu kanannya, modul *Regulator Tembaga Sejati* memancarkan denyutan hangat y
 
 Di earphone taktisnya, suara Dimas berbisik melalui sambungan radio terenkripsi dari sudut lorong kabel mati.
 
-"Gue udah berhasil menembus firewall luar pintu kanal Sektor Tiga dari sini, Gas," kata Dimas pelan dengan nada penuh konsentrasi. "Sinyal pemindai perimeter di pintu basemen dua udah gue acak selama dua belas menit. Lu punya jeda waktu sempit sebelum sistem komputer menara menyadari bahwa arus cadangan mereka diputus."
+"Gue udah berhasil menembus firewall luar pintu kanal Sektor 3 dari sini, Gas," kata Dimas pelan dengan nada penuh konsentrasi. "Sinyal pemindai perimeter di pintu basemen dua udah gue acak selama dua belas menit. Lu punya jeda waktu sempit sebelum sistem komputer menara menyadari bahwa arus cadangan mereka diputus."
 
 "Bagus, Dimas," jawab Bagas pelan seraya menyesuaikan posisi kacamata taktisnya. "Berapa jumlah pengawal di lorong server utama saat ini?"
 
@@ -85,7 +85,7 @@ Bagas berdiri tegak di tengah ruang server yang bersinar hijau oleh dokumen-doku
 
 Melalui jalur komunikasi radio yang masih terbuka, suara Pak Seno terdengar kembali dengan nada tegang namun mantap dari ruang kontrol bengkel.
 
-"Bagas, informasi yang kau unggah telah memicu kekacauan di markas pusat Lupa Corp di Sektor Satu," kata Pak Seno melalui penerima sinyal. "Otoritas keamanan pelabuhan dan jaringan perlawanan warga di kamp relokasi mulai mengepung area luar gedung ini. JagadBumi tidak lagi punya tempat untuk bersembunyi di balik hukum."
+"Bagas, informasi yang kau unggah telah memicu kekacauan di markas pusat Lupa Corp di Sektor 1," kata Pak Seno melalui penerima sinyal. "Otoritas keamanan pelabuhan dan jaringan perlawanan warga di kamp relokasi mulai mengepung area luar gedung ini. JagadBumi tidak lagi punya tempat untuk bersembunyi di balik hukum."
 
 "Tapi Komandan Vane belum menyerah, Pak Seno," jawab Bagas, matanya terkunci rapat pada pintu baja lift yang mulai berderak terbuka di ujung lorong. "Dia akan mempertahankan sisa kekuasaannya sampai akhir."
 

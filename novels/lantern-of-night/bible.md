@@ -164,13 +164,13 @@ Aturan: apa pun yang diberi penekanan tak biasa harus terpakai dalam 10 bab. Nov
 - Judul bab dalam bahasa Inggris; prosa bahasa Indonesia. Konsisten di 15 bab — pertahankan.
 - Istilah sistem dibiarkan Inggris di beberapa tempat (*vessel*), tapi mayoritas prosa murni Indonesia (*bayangan*, *rumah*, *nama*, *lentera*).
 - Kalimat pendek, puitis, kadang fragmen. Atmosfer > plot di bab 1-3; plot naik tajam bab 4 dst.
-- Panjang bab: bab 1-3 panjang (3.500-4.800 kata), bab 4-15 pendek (770-1.370 kata). Total **25.628 kata**, bukan ~40.000 seperti klaim README.
+- Panjang bab: bab 1-3 sengaja panjang (3.500-4.800 kata — pembukaan atmosferik), bab 4-15 dalam band standar (1.501-1.608 kata). Total **±30.600 kata**, bukan ~40.000 seperti klaim README.
 
 ## Penyimpangan bab vs README
 
 | Hal | README | Bab yang terbit | Yang berlaku |
 |---|---|---|---|
-| Jumlah kata | ~40.000 kata | 25.628 kata | bab |
+| Jumlah kata | ~40.000 kata | ±30.600 kata | bab |
 | Karakter "Anak Kapur" | ada di daftar | **tidak muncul di 15 bab** | bab (karakter ini tidak terpakai) |
 | Kolektor mengambil Kara | README: "Kolektor menginginkannya" | Bab: Tukang Sutra yang menenun benang Kara ke dada Mila; Luruh baru muncul belakangan | bab |
 | Twist guci kedua | tidak disebutkan di README | bab 11 reveal guci kedua dengan lingkaran utuh | bab |
@@ -180,10 +180,12 @@ Novel ini jauh lebih pendek dari klaim README, dan beberapa elemen di README (se
 
 ## Catatan kualitas
 
-**Defect di bab awal:**
-- Bab 1: duplikasi blok Stasiun 13 (baris 86-212 lalu 214-290 mengulang adegan yang sama).
-- Bab 2 & 3: encoding rusak (`m�rang` seharusnya "merah" atau kata lain; 9 kemunculan).
-- Bab 1-3: sangat panjang dan padding berat, plot lambat. Bab 4 dst jauh lebih ketat.
+**Defect yang sudah diperbaiki:**
+- Encoding bab 2 & 3 (`m�rang`/`márang` → `merang`) sudah diperbaiki (9 kemunculan + em-dash rusak).
+- Bab 4-15 awalnya 770-1.451 kata (di bawah band 1.500-2.500) — sudah dipad ke 1.501-1.608 kata tanpa mengubah kanon.
+- Bab 9: blok duplikat "Penjaga itu berbicara" dihapus (defect copy-paste) dan diganti beat saksi-sumpah.
+- Bab 1: blok Stasiun 13 tampak berulang tetapi memang re-take stilistik (pass 1 bersih, pass 2 beat unik) — dipertahankan.
+- Bab 1-3: panjang (3.500-4.800 kata) — keputusan struktural pembukaan atmosferik, dicatat sebagai pengecualian band.
 
 **Yang benar:**
 - Bab 4-15: plot jelas, pace cepat, arc lengkap.

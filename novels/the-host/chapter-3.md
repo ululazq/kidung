@@ -19,7 +19,15 @@ Apakah ini kebetulan? Arif tidak tahu. Tapi Rahwana bilang tidak ada kebetulan d
 
 *Kamu sudah berdiri di sini lima menit. Masuk atau pulang.*
 
-Arif menghela napas. Ia memasuki gedung, mengikuti petunjuk ke lantai 3. Koridor penuh dengan mahasiswa yang berlarian, membawa buku dan laptop. Poster-poster penelitian menempel di dinding, berbagai topik dari kesehatan mental hingga neurosains.
+Arif menghela napas. Ia memasuki gedung, mengikuti petunjuk ke lantai 3.
+
+Kampus UI terasa seperti dunia yang berbeda dari kantornya di Senayan. Di Senayan, orang bergerak dengan tujuan—mengejar lift, mengejar deadline, mengejar bonus. Di sini, orang bergerak dengan... waktu. Waktu untuk membaca, waktu untuk berdiskusi, waktu untuk sekadar duduk di bangku sambil menatap hujan. Arif tidak ingat kapan terakhir kali ia punya waktu seperti itu.
+
+*Di Alengka, kami memiliki pujangga dan penulis yang menghabiskan hidup mereka untuk satu naskah. Tidak ada yang menganggap itu sia-sia.*
+
+"Dan di sini mereka menyebutnya produktivitas rendah," gumam Arif.
+
+*Produktivitas. Kata yang aneh. Seperti mengukur hujan dengan takaran beras.* Koridor penuh dengan mahasiswa yang berlarian, membawa buku dan laptop. Poster-poster penelitian menempel di dinding, berbagai topik dari kesehatan mental hingga neurosains.
 
 Ruangan 312. Pintu kayu dengan kaca buram, nama "Dr. Sari Wulandari" terpaku di plat logam kecil.
 
@@ -61,7 +69,7 @@ Sari berbalik, menatapnya langsung. "Sita."
 
 Nama itu menggema di dalam kepala Arif. Rahwana bergetar—bukan ketakutan, tapi sesuatu yang lain. Sesuatu yang lebih dalam.
 
-*SIONITA? DI SINI?*
+*SITA? DI SINI?*
 
 "Rahwana," ujar Sari—atau Sita—dengan suara yang berbeda. Lebih lembut, lebih tua. "Aku tidak menyangka kamu masih ada."
 
@@ -99,7 +107,7 @@ Sari tidak menjawab langsung. Ia menatap jendela, ke langit yang masih mendung.
 
 Sari menatapnya tajam. "Sudah?"
 
-"Belum. Tapi... Rahwana bilah ada sesuatu yang datang."
+"Belum. Tapi... Rahwana bilang ada sesuatu yang datang."
 
 *Ada. Aku bisa merasanya. Seperti bayangan di tepi penglihatan.*
 
@@ -115,7 +123,7 @@ Arif menatap ke dalam, ke mana Rahwana bersembunyi di kedalaman kesadarannya.
 
 "Tapi musuh-musuh itu masih ada," kata Sari. "Dan mereka akan mencarimu. Karena kamu sekarang adalah Rahwana. Apapun yang dia lakukan dulu, kamu akan menanggungnya."
 
-Arif memegang pinggang kursi. "Ini tidak adak."
+Arif memegang pinggang kursi. "Ini tidak adil."
 
 "Tidak ada yang adil," ujar Sari. "Hanya konsekuensi. Dan pilihan."
 
@@ -179,9 +187,21 @@ Malam itu, Arif duduk di kasur apartemennya, laptop di pangkuan. Layar menampilk
 
 Mind Palace. Sangha Network. Penuaan. Harga.
 
+Ia menatap tangannya. Garis-garis halus yang muncul setelah hari pertama di perpustakaan itu masih ada. Kecil, nyaris tidak terlihat, tapi ia tahu. Seperti bekas cap yang tidak bisa dihapus. Harga pertama dari sebuah transaksi yang baru saja dimulai.
+
+Arif menutup laptop. Ia berbaring di kasur, menatap langit-langit yang retak. Besok ia akan bangun, mandi, pergi ke kantor, dan berpura-pura menjadi orang yang sama seperti seminggu lalu. Orang yang tidak pernah mendengar nama Sita. Orang yang tidak tahu bahwa di balik wajah-wajah biasa di kereta, ada ratusan jiwa yang berbagi tubuh dengan kesadaran yang lebih tua dari sejarah.
+
 Dunianya sudah tidak sama lagi.
 
 Dan di luar jendela, Jakarta terus bergerak, tidak peduli bahwa seseorang di dalamnya baru saja menemukan bahwa dunia lebih besar dan lebih gelap dari yang pernah ia bayangkan.
+
+Arif menutup mata. Untuk pertama kalinya dalam minggu itu, ia tidak mencoba mencari jawaban. Ia hanya membiarkan malam itu hadir—kebisingan kota, dengung AC, detak jantungnya sendiri—dan di antara semua itu, kehadiran lain yang kini terasa seperti bagian dari tubuhnya sendiri. Besok, ada skill kedua yang menunggu. Besok, ada dunia yang lebih luas untuk dipelajari. Tapi malam ini, ia hanya ingin tidur.
+
+---
+
+Ia membuka Mind Palace untuk pertama kalinya sejak pagi. Di dalam, perpustakaan itu menyambutnya seperti biasa—rak-rak tinggi, buku-buku yang berdebar pelan. Ia mencari buku yang sama, *"Mereka yang Berbagi Tubuh"*, dan membacanya lagi dari awal. Setiap bab, setiap catatan kaki, setiap nama yang disebut. Di halaman terakhir, ia menemukan sesuatu yang belum ia lihat sebelumnya: satu kalimat yang ditulis dengan tinta yang berbeda dari yang lain. *"Kesadaran tidak pernah benar-benar tidur. Ia hanya menunggu pemiliknya siap."*
+
+Arif menutup buku itu, dan untuk pertama kalinya, ia tidak merasa sendirian di dalam perpustakaannya sendiri.
 
 ---
 

@@ -17,11 +17,13 @@ Dan di tengah aula, Mila duduk di lantai, menulis di buku arsip.
 
 Ia menulis dengan tangan yang tidak lagi gemetar. Setiap huruf jatuh dengan tenang, seperti hujan yang turun tanpa tergesa-gesa.
 
-> *Nama: Dimas. Rumah: jendela kafe Awan, menghadap ke timur. Tanggal: 2 Februari.*
+> *Nama: Gati. Rumah: jendela kafe Awan, menghadap ke timur. Tanggal: 2 Februari.*
 > *Nama: Rani. Rumah: cermin kecil di Stasiun 13, dekat platform lama. Tanggal: 14 Maret.*
-> *Nama: Bayu. Rumah: buku puisi di rak ketiga Aula Kenangan. Tanggal: 1 Juni.*
+> *Nama: Cakra. Rumah: buku puisi di rak ketiga Aula Kenangan. Tanggal: 1 Juni.*
 
 Setiap nama, satu rumah. Setiap rumah, satu ingatan yang hilang.
+
+Mila menulis dengan sabar, tanpa tergesa-gesa. Ia tidak lagi menulis seperti orang yang mengejar sesuatu—ia menulis seperti orang yang sedang duduk di beranda rumahnya sendiri, menikmati hujan. Di antara satu nama dan nama berikutnya, ia berhenti sejenak, menatap lentera-lentera di dinding, dan membiarkan keheningan itu hadir tanpa memaksanya pergi.
 
 Tapi Mila tidak takut lagi.
 
@@ -33,7 +35,7 @@ Di dalam dadanya, Kara berbisik: *Kau ingat apa yang hilang hari ini?*
 
 *Maafkan aku.*
 
-*Jangan minta maaf. Senja akan kembali besok. Dan besok lagi. Tapi Dimas... Dimas tidak akan kembali jika aku tidak memberinya rumah.*
+*Jangan minta maaf. Senja akan kembali besok. Dan besok lagi. Tapi Gati... Gati tidak akan kembali jika aku tidak memberinya rumah.*
 
 Kara diam. Lalu: *Kau baik, Mila. Lebih baik dari yang pernah kukenal.*
 
@@ -71,6 +73,24 @@ Mila membaca surat itu tiga kali. Lalu ia melipatnya dengan hati-hati, memasukka
 
 "Dari seseorang yang tidak pernah kukenal," jawab Mila. "Tapi yang selalu menjagaku."
 
+Awan mengangguk, tidak menanyakan lebih lanjut. Ia sudah lama belajar bahwa ada hal-hal di kota ini yang tidak perlu dijelaskan—hanya perlu dihormati. Ia menuangkan kopi lagi ke cangkir Mila, lalu duduk di seberangnya.
+
+"Kau tahu," katanya, "ketika aku kehilangan segalanya, aku berpikir bahwa hidupku sudah selesai. Bahwa yang tersisa hanya kekosongan, dan aku harus belajar hidup dengan itu."
+
+"Dan sekarang?"
+
+"Sekarang aku tahu kekosongan itu bukan akhir." Awan menatap bekas luka di pergelangan tangannya. "Ia hanya... ruang. Ruang untuk hal-hal baru. Kau mengajarkanku itu, Milakara—tanpa kau sadari."
+
+Mila menatapnya lama. "Aku tidak mengajarimu apa-apa."
+
+"Kau mengajariku bahwa memberi rumah tidak pernah membuat kita kehilangan rumah." Awan tersenyum. "Itu pelajaran yang tidak akan kulupakan."
+
+Mila menunduk, menyembunyikan senyum di balik cangkir kopinya. Di dalam dadanya, Kara berbisik: *Lihat? Kau tidak hanya menyelamatkan nama-nama. Kau juga menyelamatkan orang-orang yang menjaganya.*
+
+*Itu bukan aku,* jawab Mila. *Itu kota ini.*
+
+*Kota ini adalah kau juga,* jawab Kara. *Dan kau adalah kota ini.*
+
 ---
 
 Malam itu, Mila berjalan ke Stasiun 13.
@@ -78,6 +98,10 @@ Malam itu, Mila berjalan ke Stasiun 13.
 Bukan untuk mencari nama. Bukan untuk memberi rumah. Tapi untuk satu hal yang sudah lama ia tunda.
 
 Ia menuruni tangga yang familiar, melewati platform yang sepi, sampai ke ruangan kecil dengan pintu kayu dan simbol lingkaran putus.
+
+Di sepanjang perjalanan, Mila melewati gang-gang yang pernah ia susuri di malam-malam pertamanya sebagai penjaga. Gang tempat ia pertama kali melihat bayangan yang menangis. Sudut tempat ia memberi rumah pertama kepada nama asing. Lampu jalan tempat pria bertopi pernah menungguhnya dengan secangkir teh yang selalu hangat.
+
+Ia berhenti sejenak di depan kafe Awan, menatap jendelanya yang hangat. Di dalam, dua bayangan duduk di meja pojok—dua nama yang pernah ia selamatkan, sekarang hidup sebagai manusia biasa, tertawa di atas kopi. Mila tidak mengenal nama mereka lagi. Tetapi ia mengenali kehangatan itu. Dan itu cukup.
 
 Ia mengeluarkan kunci tembaga dari sakunya—kunci yang sama yang ia pegang sejak malam pertama. Ia membuka pintu, melangkah masuk.
 
@@ -112,6 +136,10 @@ Mila menatap langit itu, tersenyum.
 Mila menarik napas dalam. Lalu ia berbalik, berjalan kembali ke Aula Kenangan—ke rumahnya, ke nama-namanya, ke tugasnya.
 
 Di belakangnya, di atas Stasiun 13, lampu neon berkedip pelan—tiga kali, seperti jantung yang berdetak.
+
+Ia berjalan pelan, tidak tergesa-gesa. Kota Senja di malam hari selalu punya iramanya sendiri: suara hujan yang mulai turun lagi, derit papan kayu di bawah langkah, tawa jauh dari kafe yang belum tutup. Mila tidak lagi mendengar suara-suara itu sebagai kebisingan. Ia mendengarnya sebagai denyut—denyut kota yang hidup, kota yang penuh nama, kota yang tidak akan pernah kehilangan rumahnya selama masih ada yang menjaganya.
+
+Dan di dalam dadanya, di antara nama-nama yang tidur, Kara ikut mendengarkan. *Kau tahu,* bisiknya, *untuk pertama kalinya, aku merasa seperti kita benar-benar pulang.*
 
 Dan di suatu tempat di Kota Senja, sebuah kotak surat merah menunggu.
 

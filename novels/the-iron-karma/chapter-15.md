@@ -47,7 +47,7 @@ Bagas melangkah mendekati sekumpulan kurir muda yang sedang memeriksa modul tran
 
 "Bang Bagas..." bisik Jodi ragu-ragu seraya memegang stang motornya. "Apakah kami yang dulu cuma kurir kroco ini benar-benar bisa jadi bagian dari penempa perlindungan kota?"
 
-Bagas tersenum hangat, menepuk bahu Jodi dengan tangan kirinya. "Keberanian tidak diukur dari seberapa canggih alat yang kamu pakai, Jodi. Keberanian diukur dari kesediaanmu pasang badan melindungi kawan dan wargamu. Selama kamu memegang teguh kejujuran dan rasa kemanusiaan, kamu adalah penempa sejati di stasiun ini. Kita semua punya peran menjaga kedamaian kota ini."
+Bagas tersenyum hangat, menepuk bahu Jodi dengan tangan kirinya. "Keberanian tidak diukur dari seberapa canggih alat yang kau pakai, Jodi. Keberanian diukur dari kesediaanmu pasang badan melindungi kawan dan wargamu. Selama kau memegang teguh kejujuran dan rasa kemanusiaan, kau adalah penempa sejati di stasiun ini. Kita semua punya peran menjaga kedamaian kota ini."
 
 Jodi mengangguk mantap dengan mata berbinar bangga. "Siap, Bang Bagas! Kami siap menjaga Kota Tua!"
 
@@ -69,13 +69,13 @@ Penerimaan penuh atas luka dan cederanya telah mengubah *Astra Besi* dari beban 
 
 Ibu Bagas, yang kini telah sembuh dan tinggal di tempat kediaman baru yang aman dekat Stasiun 13, berjalan menghampiri Bagas seraya membawa semangkuk sup hangat. Matanya berbinar dengan rasa bangga saat memeluk putra sulungnya.
 
-"Ibu bangga padamu, Bagas," bisik ibunya lembut seraya mengusap bahu mantel Bagas. "Kamu tidak pernah menyerah pada penderitaanmu, dan sekarang kamu menjadi pelindung bagi begitu banyak orang. Pak Seno memilih orang yang sangat tepat untuk meneruskan perjuangan ini."
+"Ibu bangga padamu, Bagas," bisik ibunya lembut seraya mengusap bahu mantel Bagas. "Kau tidak pernah menyerah pada penderitaanmu, dan sekarang kau menjadi pelindung bagi begitu banyak orang. Pak Seno memilih orang yang sangat tepat untuk meneruskan perjuangan ini."
 
-Bagas tersenum tulus, memeluk ibunya erat. "Semua ini berkat doa Ibu dan petuah Pak Seno. Ibu adalah alasan utama aku bertahan menembus semua kegelapan malam."
+Bagas tersenyum tulus, memeluk ibunya erat. "Semua ini berkat doa Ibu dan petuah Pak Seno. Ibu adalah alasan utama aku bertahan menembus semua kegelapan malam."
 
 Angin malam perlahan berembus menembus celah-celah perlintasan rel Stasiun 13. Sinar lampu keemasan dari bengkel baru memancar hangat ke sepanjang lorong pemukiman warga. Di kejauhan, raungan mesin motor para kurir Midnight Runner terdengar berirama, melintasi malam untuk mengantarkan harapan dan perlindungan bagi setiap sudut Kota Tua Jakarta.
 
-Bagas mengepalkan tangan besinya yang hangat keemasan, tersenum tenang menatap fajar kebebasan yang menyinari stasiun baru mereka. Sebagai penempa pelindung malam Kota Tua, ia siap menjaga kedamaian, ingatan, dan keadilan rakyat kecil untuk selamanya. Di bawah naungan langit sore Jakarta, tak ada lagi kata menyerah dalam kamus hidupnya. Kedamaian sejati telah kembali merangkul bumi kelahiran mereka dengan penuh kehangatan dan kedamaian abadi.
+Bagas mengepalkan tangan besinya yang hangat keemasan, tersenyum tenang menatap fajar kebebasan yang menyinari stasiun baru mereka — stasiun yang dibangun di atas reruntuhan yang tidak pernah ia biarkan menjadi kesedihan, melainkan menjadi awal. Sebagai penempa pelindung malam Kota Tua, ia siap menjaga kedamaian, ingatan, dan keadilan rakyat kecil untuk selamanya. Di bawah naungan langit sore Jakarta, tak ada lagi kata menyerah dalam kamus hidupnya. Kedamaian sejati telah kembali merangkul bumi kelahiran mereka dengan penuh kehangatan dan kedamaian abadi.
 
 Perjalanan seorang kurir terbuang telah usai, dan kisah seorang penempa pelindung abadi baru saja dimulai di tanah perlawanan mereka. Semangat perjuangan ini akan terus menyala abadi di dada setiap manusia yang mencintai keadilan dan kebenaran. Fajar baru telah menyinari Kota Tua untuk selamanya demi kebebasan bersama seluruh rakyat.
 ---

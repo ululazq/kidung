@@ -75,6 +75,20 @@ Mila menggenggam kopi itu, merasakan kehangatan yang menyebar di tangannya. "Tap
 
 "Kau tidak perlu kuat, Mila. Kau hanya perlu... hadir. Itulah yang membuat vessel berbeda dari yang lain. Kita tidak melawan kekosongan dengan kekuatan. Kita mengisinya dengan kehadiran."
 
+Mila diam, menatap kopi di tangannya. "Bagaimana rasanya? Menjadi utuh lagi setelah sekian lama kosong?"
+
+Barista tertawa pelan. "Aku tidak tahu apakah aku sudah utuh. Tapi aku tahu satu hal: setiap pagi, ketika aku membuka kafe dan melihat bayangan-bayangan itu datang, duduk, memesan kopi—aku merasa ada. Aku merasa dibutuhkan. Dan itu... cukup."
+
+"Cukup untuk apa?"
+
+"Cukup untuk terus hidup. Cukup untuk tidak menjadi kosong lagi." Barista berdiri, merapikan celemeknya. "Kau akan mengerti nanti, Mila. Ketika kau menemukan hal yang membuatmu merasa ada. Bukan nama. Bukan kekuatan. Tapi sesuatu yang membuatmu ingin tetap di sini."
+
+Ia berbalik, lalu berhenti. "Dan kalau kau tidak menemukannya malam ini... datanglah ke kafe. Kopi selalu gratis untuk penjaga."
+
+Mila tertawa—tawa pertama yang keluar dari mulutnya dalam berhari-hari. "Terima kasih, Awan."
+
+Barista mengangguk, lalu berjalan pergi, meninggalkan Mila sendirian di tangga Aula Kenangan bersama kopi yang masih hangat.
+
 ---
 
 **Siang hari.**
@@ -101,7 +115,7 @@ Tukang Sutra menggenggam tangan Mila—genggaman yang lemah, tapi hangat. "Ingat
 
 "Bagaimana caranya?"
 
-"Dengan mengingat namamu. Milakara. Nama lengkap. Jangan biarkan kekosongan membuatmu lupa. Karena selama kau ingat siapa kamu, kau tidak akan hilang."
+"Dengan mengingat namamu. Milakara. Nama lengkap. Jangan biarkan kekosongan membuatmu lupa. Karena selama kau ingat siapa kau, kau tidak akan hilang."
 
 Tukang Sutra menutup mata. Napasnya semakin lemah. Dan dalam keheningan gang itu, Mila mendengar bisikan terakhir—bukan dari mulut Tukang Sutra, tapi dari benang-benang yang menggantung di langit-langit:
 

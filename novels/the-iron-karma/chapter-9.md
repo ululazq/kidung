@@ -57,7 +57,7 @@ Sensasi hangat luar biasa mendadak menyembur mengalir dari bahunya menuju pergel
 
 Bagas mengepalkan jemari besi tangan kanannya, merasakan denial dan denyutan kekuatan murni yang mengalir utuh tanpa rasa sakit sedikit pun.
 
-Pak Seno tersenum puas, lalu merogoh laci peti dan mengeluarkan sebuah gulungan peta kertas kulit tua yang memuat skema internal Markas Utama Faksi JagadBumi.
+Pak Seno tersenyum puas, lalu merogoh laci peti dan mengeluarkan sebuah gulungan peta kertas kulit tua yang memuat skema internal Markas Utama Faksi JagadBumi.
 
 "Kau bukan lagi pengguna liar yang berdiri sendirian, Bagas," kata Pak Seno tegas, menepuk modul tembaga di bahu Bagas. "Kau adalah penempa terakhir yang akan merebut kembali kebebasan Kota Tua dari tangan Lupa Corp."
 
@@ -67,7 +67,7 @@ Bagas menyambut peta kulit itu dengan tangan besinya, menyadari bahwa perjalanan
 
 Di dalam ruang tempa bawah tanah yang diterangi pendaran keemasan *Regulator Tembaga*, Bagas memegang gulungan peta kulit tua tersebut dengan jemari besinya. Garis-garis cetak biru di dalam peta menampilkan struktur tiga lantai basemen di bawah Markas Utama Faksi JagadBumi, termasuk lokasi laboratorium reaktor *Godframe* dan ruang kontrol utama Komandan Vane.
 
-"Skema ini dibuat oleh para penempa Sangha sebelum markas itu diambil alih oleh Lupa Corp," kata Pak Seno seraya menunjuk jalur pipa uap di peta. "Jalur suplai energi reaktor mereka terhubung langsung ke kanal bawah tanah. Kalau kau bisa menembus Sektor Tiga dan menggunakan *Karma Trace* pada saluran transmisi utama mereka, seluruh sistem pertahanan exoskeleton mereka akan lumpuh."
+"Skema ini dibuat oleh para penempa Sangha sebelum markas itu diambil alih oleh Lupa Corp," kata Pak Seno seraya menunjuk jalur pipa uap di peta. "Jalur suplai energi reaktor mereka terhubung langsung ke kanal bawah tanah. Kalau kau bisa menembus Sektor 3 dan menggunakan *Karma Trace* pada saluran transmisi utama mereka, seluruh sistem pertahanan exoskeleton mereka akan lumpuh."
 
 Dimas melangkah mendekati mereka dari tangga palka, matanya memandangi modul tembaga di bahu Bagas dengan takjub. "Gue nggak pernah liat teknologi kaya gini, Pak Seno. Lengan besinya kelihatan seperti bersatu utuh sama bahu Bagas tanpa ada celah sama sekali. Pendaran sinarnya halus banget."
 
@@ -79,7 +79,7 @@ Bagas menatap pendaran keemasan yang mengalir di sepanjang pelat *Astra Besi* hi
 
 "Gue bakal bantu menyebarkan info ke seluruh persembunyian kurir *Midnight Runner*," kata Dimas dengan semangat baru yang membara. "Kita bakal acak seluruh jaringan sinyal komunikasi mereka saat lu masuk ke dalam lorong bawah tanah."
 
-"Aku akan menyiapkan modul dekoder tambahan untuk menembus pintu laboratorium utama mereka," tambah Pak Seno seraya mengumpulkan perkakas temponya dari meja. "Kita tidak boleh memberi Komandan Vane kesempatan untuk merekonstruksi menara cadangan di Sektor Dua."
+"Aku akan menyiapkan modul dekoder tambahan untuk menembus pintu laboratorium utama mereka," tambah Pak Seno seraya mengumpulkan perkakas temponya dari meja. "Kita tidak boleh memberi Komandan Vane kesempatan untuk merekonstruksi menara cadangan di Sektor 2."
 
 "Bagus," pangkas Bagas dengan tegas. "Kita selesaikan ancaman Lupa Corp dan JagadBumi malam ini juga sampai tuntas tanpa ada yang tersisa."
 

@@ -73,4 +73,4 @@ Namun ketika nama-nama mulai hilang secara paksa, Mila menemukan bahwa di balik 
 
 ---
 
-**Total:** ~40,000 kata | **Status:** Complete | **Bahasa:** Indonesia (istilah supernatural Indonesia; antagonis English title "The Collector")
+**Total:** ±30.600 kata | **Status:** Complete | **Bahasa:** Indonesia (istilah supernatural Indonesia; antagonis English title "The Collector")

@@ -89,7 +89,7 @@ Di dalam aula reaktor yang kini bercahaya biru hangat, ribuan gelembung memori b
 
 Dimas melangkah mendekat ke samping Bagas, menatap cangkang zirah Komandan Vane yang hancur berjelaga di atas podium konsol.
 
-"Vane dan pasukan JagadBumi udah runtuh total, Gas," kata Dimas seraya memegang bahu Bagas. "Jaringan radio komunikasi mereka di seluruh Sektor Satu lumpuh total. Dokumen yang lu unggah semalam bikin pimpinan Lupa Corp melarikan diri lewat pelabuhan. Kota Tua akhirnya bebas dari cengkeraman mereka. Kebenaran tidak bisa lagi dibendung oleh senjata atau benteng beton mereka. Suara rakyat kecil kini kembali terdengar tajam di seluruh penjuru kota."
+"Vane dan pasukan JagadBumi udah runtuh total, Gas," kata Dimas seraya memegang bahu Bagas. "Jaringan radio komunikasi mereka di seluruh Sektor 1 lumpuh total. Dokumen yang lu unggah semalam bikin pimpinan Lupa Corp melarikan diri lewat pelabuhan. Kota Tua akhirnya bebas dari cengkeraman mereka. Kebenaran tidak bisa lagi dibendung oleh senjata atau benteng beton mereka. Suara rakyat kecil kini kembali terdengar tajam di seluruh penjuru kota."
 
 Bagas mengurut tempurung lutut kanannya yang kini terasa tenang tanpa rasa sakit sedikit pun. Pendaran keemasan dari modul *Regulator Tembaga Sejati* dan pelat *Astra Besi* mereda perlahan, menyatu rapi di bawah kulit tangannya bagaikan rajatan kuningan tua yang bersemayam harmonis.
 
@@ -101,7 +101,7 @@ Bagas memutar badannya, melangkah keluar dari aula reaktor menuju lorong terowon
 
 "Kita akan membangun kembali bengkel di Stasiun 13," jawab Bagas dengan nada suara yang mantap dan tenang. "Bukan cuma sebagai tempat servis kurir, tapi sebagai stasiun perlindungan baru bagi siapa saja yang membutuhkan pertolongan. Kita akan meneruskan warisan Pak Seno. Kota ini butuh pelindung yang tetap berdiri di balik bayang-bayang. Kita tidak akan membiarkan siapa pun menindas orang-orang kecil lagi."
 
-Dimas tersenum lebar, menganggukkan kepalanya dengan bangga.
+Dimas tersenyum lebar, menganggukkan kepalanya dengan bangga.
 
 Di bawah naungan fajar yang baru di atas langit Jakarta, suara sirine Faksi JagadBumi perlahan-lahan lenyap digantikan oleh gemuruh kehidupan warga Kota Tua yang kembali menemukan ingatan dan kebebasan mereka. Seorang kurir malam yang dulu terluka kini telah berdiri tegak sebagai penempa pelindung sejati yang membawa harapan baru bagi kota. Perjuangan panjang ini akhirnya berujung pada fajar kemenangan yang abadi bagi seluruh rakyat Kota Tua. Tak ada lagi duka yang menyelimuti langkah mereka menuju masa depan yang cerah.
 ---

@@ -86,6 +86,7 @@ Ciri khas atmosfer: hujan gerimis, uap bertekanan tinggi, bau oli/karat tembaga/
 **Riwayat kebocoran yang diperbaiki:**
 - "Lupa Corp" awalnya muncul di draf aetherium-vow juga; karena Lupa Corp adalah entitas bersama yang berakar pada novel-novel lain, korporasi aetherium di-rename menjadi **Konsorsium Kunci** ("kunci" = metafora inti novel itu: Reza adalah kunci jaringan perisai). 55 titik diperbarui (12 bab + bible + outline + README + laporan).
 - **sang-pembawa-pelita** (audit 2026-08-09): tiga entitas unik novel lain bocor ke dalamnya dan di-rename — **Master Alistair** (unik aegis-of-aether) → **Empu Bramantyo**; **Pak Marto** (unik pustaka-kabut-senja) → **Pak Raga**; **Heavy-Godframe** (unik aegis-of-aether) → **Boiler-Godframe**. Semua referensi diperbarui di bab + bible + outline.
+- **lantern-of-night** (audit 2026-08-10): register disatukan (13× "kamu" → "kau"); tiga nama satu-baris di buku arsip bentrok dengan karakter novel lain dan di-rename — **Nadia** (protagonis gods-in-jars) → **Salma**; **Dimas** (arwah pasar-subuh) → **Gati**; **Bayu** (murid kedua shadow-forger) → **Cakra**. Encoding bab 2–3 (`m�rang` → `merang`) diperbaiki; 12 bab di bawah band 1.500 dipad ke 1.501–1.608; blok duplikat bab 9 dihapus. Entitas uniknya (Kota Senja, Milakara, Kolektor/Luruh, Aula Kenangan, Nyala, benang nama) ditambahkan ke seksi 8 di atas.
 - **Tiga novel satu-bab** (audit 2026-08-09, sebelum bab 2–15 ditulis): bab 1 ketiganya adalah klon template dengan cast yang memakai entitas unik novel lain — semua di-rename di bab 1 + bible + outline + README:
   - **the-resonance-blade** (klon nyaris penuh cast the-aegis-of-aether): Master Alistair → **Empu Wirama**; Baron Malakor → **Baron Mahesa**; Obsidian Syndicate → **Concord Syndicate**; Heavy-Godframe → **Sonic-Godframe**; Clara Kirana → **Nayla**; Pak Broto → **Pak Gito**; Aether Circuit Pulse → **Circuit Pulse**.
   - **the-shadow-forger**: Arya Pradipta (bentrok persis dengan protagonis serat-penempa-hampa) → **Galang Pradipta**; Pak Marto (unik pustaka-kabut-senja) → **Pak Tarno**; Master Karsa (dekat dengan Pak Karsa, sang-garuda) → **Empu Warso**; Obsidian Forge → **Eclipse Forge**.
@@ -135,6 +136,21 @@ Ciri khas atmosfer: hujan gerimis, uap bertekanan tinggi, bau oli/karat tembaga/
 | Ki Danu Sasangka, terpal biru | kidung-tanah-karam |
 
 Lapisan mitologi Nusantara ini hidup berdampingan dengan lapisan steampunk Bawah-Batavia di semesta yang sama.
+
+---
+
+## 8. Sistem Nama & Rumah (Kota Senja)
+
+| Istilah | Makna | Status |
+|---|---|---|
+| **Kota Senja** | Kota hujan abadi tempat nama-nama kehilangan rumah; setting lantern-of-night (bukan Bawah-Batavia) | Unik (lantern-of-night) |
+| **Nyala** | Cahaya hidup di gelang perak Mila; penunjuk arah penjaga lentera | Unik (lantern-of-night) |
+| **Aula Kenangan** | Gedung arsip tempat penjaga mencatat nama-nama yang diberi rumah | Unik (lantern-of-night) |
+| **Milakara** | Nama vessel pertama, dipecah dua oleh Sari: "Mila" (tubuh hidup) + "Kara" (nama dilindungi) | Unik (lantern-of-night) |
+| **Kolektor / Luruh** | Antagonis: vessel ketiga yang kosong, memanen nama; nama aslinya Luruh | Unik (lantern-of-night) |
+| **Tukang Sutra** | Penenun benang nama, mentor Mila; menenun benang Kara ke dada Mila | Unik (lantern-of-night) |
+| **benang nama / memberi rumah** | Sistem: nama punya benang akar; penjaga vessel memberi "rumah" dengan harga ingatan | Unik (lantern-of-night) |
+| **kunci tembaga berlingkaran putus** | Kunci penjaga Kota Senja; simbol lingkaran putus = tanda nama yang digunting | Unik (lantern-of-night) |
 
 ---
 

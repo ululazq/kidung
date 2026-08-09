@@ -111,6 +111,22 @@ Mila tersentak. "Apa?"
 
 Mila merasakan dadanya berdenyut—bukan sakit, tapi seperti ada sesuatu yang bergerak di dalam sana. Seperti benang yang hidup, bernapas, berdetak bersama jantungnya.
 
+"Kenapa kau tidak pernah bilang?" tanyanya, suaranya bergetar. "Semua waktu itu, setiap kali aku datang ke sini dan kau berbicara tentang nama-nama... kau sudah tahu. Kau sudah menyimpannya di dalam diriku."
+
+"Karena kau belum siap mendengarnya," jawab Tukang Sutra. "Benang adalah hal yang sabar, Mila. Ia menunggu. Ia menunggu sampai jantung yang menampungnya cukup kuat untuk tidak terbelah oleh beratnya."
+
+"Dan sekarang aku siap?"
+
+"Sekarang kau tidak punya pilihan lain." Tukang Sutra tersenyum—senyum yang rapuh, seperti kain yang sudah tua. "Itu selalu cara benang bekerja. Ia tidak pernah datang tepat waktu. Ia datang tepat saat dibutuhkan."
+
+Mila menunduk, menatap dadanya sendiri. Di balik tulang rusuknya, di balik kulit dan kain, di balik nama "Mila" yang selama ini ia anggap utuh, ada sesuatu yang lain. Sebuah nama yang terbelah. Sebuah rumah yang dibangun diam-diam di dalam dirinya tanpa sepengetahuannya.
+
+"Aku akan menjaganya," katanya akhirnya. "Aku tidak tahu caranya. Tapi aku akan menjaganya."
+
+"Kau sudah menjaganya," kata Tukang Sutra. "Selama ini, tanpa sadar. Itulah yang membuatmu berbeda dari vessel-vessel lain, Mila. Mereka menjaga karena takut kehilangan. Kau menjaga karena... karena begitulah caramu mencintai. Tanpa diminta, tanpa disadari, tanpa berharap kembali."
+
+Mila tidak bisa menjawab. Ada sesuatu yang tersangkut di tenggorokannya—sesuatu yang lebih tua dari air mata, lebih dalam dari kesedihan.
+
 "Apa yang harus kulakukan sekarang?"
 
 Tukang Sutra menatapnya dengan mata yang sudah mulai redup. "Temukan Kolektor. Hadapi dia. Dan beri dia pilihan yang sama yang Sari berikan padamu: beri dia rumah, atau biarkan dia hancur."
@@ -146,6 +162,12 @@ Malam itu, Mila kembali ke Aula Kenangan. Ia duduk di lantai, membuka buku arsip
 > *— Milakara*
 
 Mila melipat surat itu, memasukkannya ke dalam amplop merah yang sama yang pernah membawa nama Kara. Lalu ia berjalan keluar, ke jalan yang gelap, dan menempatkan amplop itu di kotak surat merah yang sama—kotak tempat ia pertama kali menemukan surat Kara.
+
+Ia berdiri di sana lebih lama dari yang ia rencanakan. Hujan telah berhenti, dan kota terasa anehnya tenang—seperti sedang menahan napas bersama dirinya. Nyala di pergelangan tangannya berdenyut pelan, dan untuk sesaat Mila membayangkan ia bisa mendengar kota itu bernapas: jutaan nama, jutaan rumah, jutaan orang yang tidak tahu bahwa di tengah-tengah mereka, seorang perempuan sedang menantang sesuatu yang lebih tua dari kota itu sendiri.
+
+"Kau yakin?" bisik Nyala. Bukan suara yang keras—hanya getaran di pergelangannya, seperti pertanyaan yang diajukan oleh denyut nadi.
+
+*Tidak,* jawab Mila dalam hati. *Tapi aku tetap melakukannya.*
 
 Dan ia menunggu.
 

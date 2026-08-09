@@ -159,6 +159,18 @@ Nama pertama yang hilang malam itu.
 
 Dan Mila tahu: ini baru permulaan.
 
+Mila tidak bisa tidur setelah itu. Ia bangkit, menyalakan satu-satunya lentera yang tersisa—bukan Nyala, tapi lentera minyak dari rak—dan berjalan menyusuri aula dengan buku arsip terakhir di tangannya. Ia membuka halaman demi halaman, menghitung. Enam bulan. Enam puluh tiga nama yang ia beri rumah. Di margin, tinta merah Kolektor telah mencoret nama-nama satu per satu, dan Mila baru menyadari bahwa ia tidak ingat wajah sebagian besar dari mereka.
+
+Itu membuatnya lebih takut daripada ancaman apa pun. Bukan karena Kolektor mengambil nama-nama itu—tapi karena Mila tidak bisa mengingat nama-nama itu dengan jelas. Mereka telah menjadi bagian dari dirinya, dan sekarang, saat mereka diambil, yang hilang bukan hanya mereka.
+
+Yang hilang adalah sebagian dari dirinya yang ia tidak pernah tahu ada.
+
+Ia menutup buku itu, menekannya ke dadanya seperti menekan luka. *Satu per satu, aku akan mengambil mereka,* tulis Kolektor. *Dan ketika kau kosong, aku akan mengambilmu.*
+
+Mila menatap tangannya. Garis-garis halus di ujung jarinya—benang yang mulai terurai—tampak lebih panjang dari kemarin.
+
+*Kalau begitu,* pikirnya, *aku harus menemukan cara menampung tanpa kehilangan. Sebelum aku kosong.*
+
 ---
 
 Pagi hari, ketika matahari terbit di Kota Senja, Mila duduk di tangga Aula Kenangan, memeluk lututnya. Di tangannya, amplop merah dengan surat Kara—satu-satunya nama yang masih ia pegang.

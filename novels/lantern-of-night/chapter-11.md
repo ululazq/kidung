@@ -19,11 +19,29 @@ Di dalam dirinya, tiga puluh tujuh nama tidur. Tiga puluh tujuh rumah kecil yang
 
 Mila menarik napas dalam. Lalu ia mendorong pintu Stasiun 13.
 
+Di dalam gelang peraknya, Nyala berdenyut—bukan seperti lentera yang menuntun, tetapi seperti jantung yang ikut berdebar. Selama bertahun-tahun ia mengenal Nyala sebagai penunjuk jalan: hangat ketika nama dekat, redup ketika nama menjauh. Malam ini, untuk pertama kalinya, Nyala tidak menunjuk ke mana pun. Ia hanya menunggu, seperti lentera yang tahu bahwa cahayanya akan segera berubah makna.
+
+Mila menatap tangannya sendiri. Tiga puluh tujuh nama tidur di dalamnya. Tiga puluh tujuh rumah yang ia bangun dari ingatan yang ia serahkan satu per satu. Ia tidak ingat wajah mereka semua—harga dari memberi rumah adalah melupakan pemberinya—tetapi ia ingat bunyinya. Dengung yang berbeda untuk setiap nama, seperti kunci yang berbeda untuk setiap pintu.
+
+*Kau takut,* bisik Kara.
+
+*Ya.*
+
+*Aku juga. Tapi kita takut untuk alasan yang sama, dan itu sebabnya kita harus melakukannya bersama.*
+
+Mila tersenyum tipis. "Bersama."
+
 ---
 
 Di bawah tanah, udara terasa lebih berat. Dinding beton yang penuh coretan menyambutnya: *Jangan katakan semuanya. Dengarkan patahannya. Bawa cahaya, bukan penghakiman.*
 
-Mila menuruni tangga yang familiar, melewati platform yang sepi. Tidak ada bayangan malam ini—hanya keheningan yang tebal, seperti stasiun tahu apa yang akan terjadi.
+Mila menuruni tangga yang familiar, melewati platform yang sepi. Tidak ada bayangan malam ini—hanya keheningan yang tebal, seperti stasiun tahu apa yang akan terjadi. Bahkan lampu neon yang biasanya berkedip redup tampak tenang, memancarkan cahaya yang rata, seperti dunia yang menahan napas.
+
+Di sepanjang dinding, coretan-capita lama yang pernah ia baca berkali-kali kini terasa seperti pesan yang baru: *nama yang dipecah tidak pernah benar-benar hilang—ia hanya menunggu tangga yang sama untuk turun.* Mila berhenti sejenak, menelusuri huruf-huruf itu dengan ujung jarinya. Tiga tahun lalu, tulisan itu hanya coretan. Malam ini, ia tahu siapa yang menulisnya.
+
+*Sari,* bisiknya. *Kau sudah tahu sejak awal, bukan?*
+
+Tidak ada jawaban. Hanya keheningan yang semakin dalam, dan di ujung platform, ruangan kecil dengan pintu kayu dan simbol lingkaran putus. Ruangan tempat ia pertama kali melihat Kara di cermin.
 
 Di ujung platform, ruangan kecil dengan pintu kayu dan simbol lingkaran putus. Ruangan tempat ia pertama kali melihat Kara di cermin.
 
@@ -57,6 +75,20 @@ Dua suara. Satu tubuh. Satu nama.
 
 **Milakara.**
 
+Untuk sesaat, tidak ada yang bisa bernapas.
+
+Di dalam ruang yang baru terbentuk itu, dua setengah nama berdiri saling berhadapan untuk pertama kalinya sejak lama—bukan sebagai dua orang, tetapi sebagai dua bagian yang akhirnya mengingat bahwa mereka pernah menjadi satu. Mila melihat ke dalam dirinya dan melihat Kara, bukan sebagai bayangan di cermin, tetapi sebagai cahaya yang menunggu. Kara melihat ke dalam dirinya dan melihat Mila, bukan sebagai penjaga, tetapi sebagai ruang yang selama ini ia cari.
+
+*Kau ingat sekarang,* kata Kara. *Rumah kita.*
+
+*Aku ingat.*
+
+Dan di sekeliling mereka, tiga puluh tujuh nama bangun. Mereka tidak takut—mereka telah menunggu malam ini lebih lama daripada Mila atau Kara. Satu per satu, mereka melangkah keluar dari rumah-rumah kecil yang dibangun Mila, dan satu per satu, mereka menempati ruang-ruang baru yang lebih luas, seperti penghuni yang akhirnya melihat seluruh rumahnya untuk pertama kalinya. Tidak ada yang pergi. Tidak ada yang hilang. Mereka hanya berpindah ke kamar yang lebih baik.
+
+*Kami di sini,* bisik mereka bersama. *Dan kami tidak akan pernah lagi menjadi setengah.*
+
+Cahaya oranye itu perlahan mereda, tetapi tidak padam. Ia menyebar, memenuhi ruangan, lalu mengalir keluar melalui celah-celah pintu, menyusuri platform, naik tangga—menerangi Stasiun 13 dengan cahaya yang tidak pernah dilihat stasiun itu sebelumnya. Di dinding-dinding, coretan-coretan tua tampak berubah: huruf-huruf yang setengah luntur kini terbaca jelas, seperti nama yang akhirnya diingat.
+
 ---
 
 Ketika Mila—atau Milakara—membuka mata, dunia terasa berbeda.
@@ -79,6 +111,14 @@ Penjaga lentera. Vessel penuh. Rumah bagi nama-nama yang tidak punya rumah.
 
 Malam itu, Milakara berjalan keluar dari Stasiun 13 dengan langkah yang berbeda. Kota Senja terasa lebih terang, lebih hidup—seperti kota itu ikut menyambut kembalinya nama yang hilang.
 
+Di luar, hujan masih turun, tetapi ia tidak lagi terasa dingin. Tetes-tetes itu menyentuh bahunya seperti sapaan, bukan peringatan. Di sepanjang jalan menuju Aula Kenangan, bayangan-bayangan muncul dari balik lampu dan pagar—bukan untuk menghalangi, tetapi untuk melihat. Mereka menunduk pelan ketika Milakara lewat, seperti orang yang memberi hormat kepada nama yang akhirnya utuh.
+
+*Mereka tahu,* bisik Kara. *Seluruh kota tahu.*
+
+*Biarkan mereka tahu,* jawab Mila. *Kita tidak lagi bersembunyi dari nama kita sendiri.*
+
+Di sebuah jendela lantai dua, seorang perempuan tua yang tidak pernah tidur menatap ke bawah dan mengangguk pelan. Di trotoar seberang, seorang anak yang sedang menggambar dengan kapur berhenti sejenak, menatap Milakara, lalu menambahkan satu garis pada gambarnya—garis yang menyambungkan dua lingkaran menjadi satu. Milakara tidak melihatnya, tetapi Nyala berdenyut hangat, seperti lentera yang tahu bahwa ada nama yang baru saja diingatkan tentang rumahnya.
+
 Di Aula Kenangan, Luruh menunggu di pintu. Ketika ia melihat Mila—atau Milakara—matanya melebar.
 
 "Kau... kau menyatu kembali."
@@ -96,6 +136,22 @@ Luruh menatap tangannya sendiri—tangan yang pernah memanen nama, tangan yang p
 Luruh menatapnya lama. Lalu, untuk pertama kalinya, ia tersenyum—senyum yang tulus, seperti seseorang yang akhirnya menemukan tempat untuk berlabuh.
 
 "Terima kasih, Milakara. Aku akan menjaga rumah ini."
+
+Milakara mengangguk. "Mulai malam ini, kau bukan lagi kekosongan yang memanen nama. Kau adalah penjaga yang memberi nama tempat untuk menunggu." Ia berhenti, memilih kata-katanya dengan hati-hati. "Dan kalau suatu hari kau ingin tahu nama apa yang paling pantas untukmu—kau boleh bertanya padaku. Kita bisa mencarinya bersama."
+
+Luruh menunduk, dan untuk sesaat, bahunya bergetar—bukan karena takut, tetapi karena sesuatu yang sudah lama tidak ia rasakan. Ia tidak tahu nama untuk perasaan itu. Mungkin ia akan mencarinya nanti, bersama Milakara, di antara rak-rak nama yang ia jaga.
+
+Milakara berbalik untuk pergi. Di ambang pintu Aula Kenangan, ia menoleh sekali lagi. "Selamat malam, Luruh."
+
+"Selamat malam, Milakara." Luruh menatapnya. "Selamat menjadi utuh."
+
+Di luar, hujan telah berhenti untuk pertama kalinya dalam berminggu-minggu. Milakara berdiri di ambang pintu, menatap langit yang mulai memperlihatkan bintang-bintang—bintang yang selama ini tersembunyi di balik kabut Kota Senja. Ia tidak tahu apakah kota itu ikut berubah karena ia menjadi utuh, atau apakah ia baru bisa melihatnya sekarang, dengan mata yang tidak lagi setengah.
+
+*Aku belum pernah melihat bintang,* bisik Kara, dan suaranya mengandung takjub yang polos, seperti anak yang baru belajar sesuatu. *Selama ini, ketika kau melihat ke langit, aku hanya melihat kegelapan.*
+
+*Sekarang kita melihatnya bersama.*
+
+Dan di dalam dirinya, tiga puluh tujuh nama ikut melihat. Tiga puluh tujuh pasang mata yang selama ini menunggu di dalam rumah-rumah kecil, akhirnya menatap langit yang sama.
 
 ---
 

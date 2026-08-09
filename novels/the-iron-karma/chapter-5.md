@@ -71,7 +71,7 @@ Bagas memajukan kaki kirinya dalam posisi kuda-kuda *pobu* pendek yang kokoh. Ia
 
 *THUMP!*
 
-Bukan bunyi ledakan petir yang membingakkan telinga seperti semalam. Hanya bunyi sentuhan pekat yang rendah dan dalam.
+Bukan bunyi ledakan petir yang membingungkan telinga seperti semalam. Hanya bunyi sentuhan pekat yang rendah dan dalam.
 
 Namun dalam detik berikutnya, retakan halus berwarna keemasan menjalar cepat dari titik sentuhan jari Bagas ke seluruh permukaan lempengan baja tebal lima sentimeter tersebut!
 

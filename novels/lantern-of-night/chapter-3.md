@@ -29,7 +29,7 @@ Wanita tua itu mengangkat alis.
 
 Mila menelusuri meja dengan jarinya. Ujungnya terasa kasar, seperti kenangan yang belum dihaluskan. Nyala di pergelangan tangannya berdenyut. Cahaya oranye kecilnya tidak begitu jelas di atas ruang parlor yang remang, tetapi cukup untuk memberinya kehadiran.
 
-Di sudut ruangan, sebuah cermin bundar tergantung. Di dalamnya, tampak pantulan normal�wajahnya, siluet ruangan, dan bayangan di balik. Namun ketika ia melangkah lebih dekat, cahaya cermin berubah. Di dalamnya, bukan cuma pantulan. Ada juga sebuah ruang lain, sebuah kamar kecil dengan dinding penuh kertas. Di kamar itu, seorang perempuan muda duduk memegang buku catatan, seperti yang pernah ia lihat di platform stasiun.
+Di sudut ruangan, sebuah cermin bundar tergantung. Di dalamnya, tampak pantulan normal — wajahnya, siluet ruangan, dan bayangan di balik. Namun ketika ia melangkah lebih dekat, cahaya cermin berubah. Di dalamnya, bukan cuma pantulan. Ada juga sebuah ruang lain, sebuah kamar kecil dengan dinding penuh kertas. Di kamar itu, seorang perempuan muda duduk memegang buku catatan, seperti yang pernah ia lihat di platform stasiun.
 
 Mila mengusap bibirnya. "Di sana?"
 
@@ -39,7 +39,7 @@ Mila mengangkat tas kecil dan mengeluarkan amplop. Ia meletakkannya di atas meja
 
 "Aku punya pesan ini. Aku tidak tahu apa yang akan terjadi."
 
-Wanita tua itu menatap amplop, lalu menatapnya kembali. "Itu tanda bahwa namanya sudah menemukanmu. Tanda lain adalah bahwa kamu tidak menutup amplop itu. Kau membawa kata, tetapi tidak mengunci kata itu. Itu penting."
+Wanita tua itu menatap amplop, lalu menatapnya kembali. "Itu tanda bahwa namanya sudah menemukanmu. Tanda lain adalah bahwa kau tidak menutup amplop itu. Kau membawa kata, tetapi tidak mengunci kata itu. Itu penting."
 
 Mila menarik napas panjang. Di benaknya, ia merasa seolah ada banyak pintu kecil yang dibuka secara bersamaan. Ada kelegaan, tetapi juga ketegangan. Ia ingin bertanya lebih lanjut, tapi wanita tua itu memotongnya.
 
@@ -93,7 +93,7 @@ Mila menatap. Di dalam cermin, perempuan hitam panjang itu berdiri. Ia berjalan 
 
 "Aku siap," katanya. "Tetapi juga ingat: aku bukan sesuatu yang harus dipaksa siap. Aku siap karena kau memberi aku ruang untuk memilihnya sendiri. Bukan karena kau ingin menutupku dalam kata yang sudah ditentukan."
 
-Mila merasakan getaran hangat di dada. Ia mengingat semua pertemuannya malam itu: kafe, bayangan di antara rak, pria bertopi m�rang, dan cermin sebelumnya. Semua itu menunjukkan satu hal: namanya adalah sesuatu yang hidup di antara pilihan.
+Mila merasakan getaran hangat di dada. Ia mengingat semua pertemuannya malam itu: kafe, bayangan di antara rak, pria bertopi márang, dan cermin sebelumnya. Semua itu menunjukkan satu hal: namanya adalah sesuatu yang hidup di antara pilihan.
 
 Wanita tua menepuk bahunya. "Sekarang datanglah kembali ke ruang utama. Itu belum selesai. Kita akan meminta cermin lain untuk berbicara. Dan setelah itu, aku akan menunjukkan satu hal lagi. Tidak semua ruang ingin diterangi. Beberapa ruang hanya ingin dihormati."
 

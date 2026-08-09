@@ -9,6 +9,10 @@ Bentuk kecil itu—bekas rumah pertama—sekarang tinggal di sudut Aula Kenangan
 
 Luruh duduk di sampingnya setiap malam, berbicara pelan tentang hal-hal kecil: hujan, kopi, nama-nama yang pernah ia panen. Ia tidak meminta maaf—kata maaf tidak cukup untuk ratusan tahun berburu. Tapi ia berusaha. Dan itu sesuatu.
 
+Milakara mengamati mereka dari kejauhan, dan ada kehangatan yang tumbuh di dadanya—hangat yang berbeda dari kehangatan Nyala, berbeda dari kehangatan nama-nama yang ia tampung. Ia tidak bisa menjelaskannya, tetapi ia tidak perlu menjelaskannya. Beberapa hal hanya perlu dirasakan, seperti cahaya yang masuk melalui jendela yang akhirnya dibuka setelah bertahun-tahun tertutup.
+
+Ia juga memperhatikan hal lain: bahwa sejak malam di ruang bawah, ia tidak lagi merasa perlu mengisi setiap keheningan. Keheningan, yang dulu terasa seperti ancaman, kini terasa seperti ruang untuk bernapas. Tiga puluh tujuh nama tidur di dalamnya, rumah pertama menemukan jalannya sendiri, dan Luruh—Luruh mulai belajar bahwa menjadi penjaga tidak berarti memiliki, tetapi menjaga.
+
 Malam ini, Milakara duduk di tengah Aula Kenangan, dikelilingi lentera-lentera yang menyala. Di pangkuannya, tiga puluh tujuh benang perak—tiga puluh tujuh nama yang keluar dari tubuhnya saat kegelapan menyerbu, lalu kembali satu per satu.
 
 Tapi tidak semua kembali.
@@ -97,6 +101,12 @@ Dan di dalam dada Milakara, sebuah ruang baru terbuka—bukan kamar, bukan cermi
 
 Bentuk kecil itu melangkah masuk. Dan ketika ia masuk, Milakara merasakan sesuatu yang aneh: bukan kehilangan, tapi... penyelesaian. Seperti sebuah kalimat yang akhirnya menemukan titiknya.
 
+Ia merasakan ruang itu menutup pelan di sekeliling bentuk kecil itu—bukan seperti pintu yang terkunci, tetapi seperti selimut yang ditarik ke dagu. Di dalam ruang itu, untuk pertama kalinya, tidak ada yang menuntut apa pun dari rumah pertama. Tidak ada yang memintanya menjadi sesuatu. Tidak ada yang memintanya mengingat. Ia hanya diizinkan ada.
+
+Di dalam dirinya, tiga puluh tujuh nama bergeser pelan, memberi ruang—tidak dengan keberatan, tetapi dengan penerimaan, seperti penghuni rumah yang menyambut tetangga baru. Kara berbisik: *Ia aman di sana. Aku bisa merasakannya.*
+
+*Aku juga,* jawab Milakara. *Kita semua bisa.*
+
 Di dalam ruang itu, bentuk kecil itu berputar, menatap sekeliling. "Ini... ini indah. Tidak ada yang pernah memberiku tempat seindah ini."
 
 "Karena tidak ada yang pernah mencoba," kata Milakara. "Sekarang, istirahatlah. Dan ketika kau siap, kau bisa mulai mencari namamu."
@@ -129,6 +139,16 @@ Luruh menatapnya lama. Lalu ia tersenyum—senyum yang rapuh, tapi nyata.
 
 "Mungkin suatu hari nanti. Tapi untuk sekarang, aku cukup senang menjaga rumah ini."
 
+Mereka diam sejenak, mendengarkan hujan yang mulai mengetuk atap. Lalu Luruh berkata, dengan suara yang lebih pelan dari biasanya: "Kau tahu, aku tidak pernah bertanya padamu. Bagaimana rasanya? Kehilangan separuh dirimu untukku?"
+
+Milakara menatap tangannya. "Aneh," katanya jujur. "Seperti mencoba mengingat mimpi setelah bangun. Aku tahu ada sesuatu yang pernah ada di sana, tapi aku tidak bisa lagi meraihnya."
+
+"Kau menyesal?"
+
+"Tidak." Milakara menggeleng, dan ia menyadari bahwa jawaban itu keluar tanpa ragu. "Karena yang hilang dariku, kau temukan untuk dirimu sendiri. Dan itu lebih berharga daripada ingatan yang kuperlukan untuk terus hidup."
+
+Luruh menunduk, dan untuk pertama kalinya Milakara melihat sesuatu seperti rasa malu—atau mungkin rasa haru—di wajah tua itu. "Terima kasih, Milakara. Bukan karena kau menyelamatkanku. Tapi karena kau mengajariku bahwa memberi tidak pernah membuat kita lebih miskin."
+
 Dan di Aula Kenangan, lentera-lentera menyala terang—tiga puluh tujuh lentera untuk tiga puluh tujuh nama, dan satu lentera kecil di sudut untuk rumah pertama yang akhirnya menemukan tempatnya.
 
 ---
@@ -158,9 +178,9 @@ Ia berdiri, berjalan kembali ke dalam aula, mengambil buku arsip yang sudah lama
 > *Nama: Milakara.*
 > *Rumah: Aula Kenangan, Kota Senja.*
 > *Tugas: Menjaga nama-nama yang tidak punya rumah.*
-> *Catatan: Jangan lupa siapa kamu. Karena jika kamu lupa, kamu akan menjadi seperti Kolektor.*
+> *Catatan: Jangan lupa siapa kau. Karena jika kau lupa, kau akan menjadi seperti Kolektor.*
 
-Ia menutup buku itu, meletakkannya di rak.
+Ia menutup buku itu, meletakkannya di rak. Di sampingnya, ia menaruh amplop merah yang dulu membawa surat Kara—bukan lagi sebagai beban, tetapi sebagai pengingat dari mana ia memulai. Sebuah nama yang hilang. Sebuah kotak surat merah. Sebuah kota yang penuh bayangan yang mencari rumah. Dan seorang penjaga yang memilih untuk tinggal.
 
 Dan di luar, hujan mulai turun lagi—irama yang familiar, seperti detak jantung Kota Senja.
 

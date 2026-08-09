@@ -29,7 +29,7 @@ Aroma kopi hitam tua mengisi ruangan. Di atas meja dekat jendela, sebuah kotak k
 
 Barista itu menyerahkan cangkir kepada seorang perempuan muda di meja lain, lalu kembali ke sudut. "Ada sesuatu di sebelah sana, di belakang rak teh," katanya sambil menunjuk. "Bayangan yang tidak ingin dipaksa. Itu menunggu untuk berkata."
 
-Mila menoleh. Di sela rak-rak, sesuatu bergerak perlahan, bukan dari badan, tapi dari udara sendiri. Garis-garis gelap melengkung di antara kemasan kopi dan bungkus roti. Di tengahnya, sepasang mata terbentuk � mata yang tidak terikat oleh bentuk.
+Mila menoleh. Di sela rak-rak, sesuatu bergerak perlahan, bukan dari badan, tapi dari udara sendiri. Garis-garis gelap melengkung di antara kemasan kopi dan bungkus roti. Di tengahnya, sepasang mata terbentuk — mata yang tidak terikat oleh bentuk.
 
 Suara dari gelangnya menghentak lagi. "Jangan terlalu banyak bertanya. Dengarkan sebelum kau mengisi."
 
@@ -81,7 +81,7 @@ Suara Nyala di pergelangan tangannya berubah lagi. Ia tidak lagi berbicara denga
 
 Ketika Mila mencapai landasan, dia melihat banyak orang. Bukan penumpang biasa. Mereka adalah bayangan yang berjalan, duduk, dan menunggu. Seorang perempuan membawa tas belanja, tetapi noda-noda di tasnya memberi kesan bahwa ia baru saja menulis sesuatu. Seorang lelaki muda membaca halaman kosong yang seolah menunggu kata-kata untuk mengisinya. Ada juga seorang musisi yang memetik gitar lama, menghasilkan nada-nada yang sepi.
 
-Di tengah platform ada pria bertopi m�rang itu, seperti janji yang telah datang. Aroma elektrik dan tembaga menyelinap dari bajunya. Wajahnya tidak menunjukkan kejut, hanya pengakuan.
+Di tengah platform ada pria bertopi márang itu, seperti janji yang telah datang. Aroma elektrik dan tembaga menyelinap dari bajunya. Wajahnya tidak menunjukkan kejut, hanya pengakuan.
 
 "Kau datang," katanya.
 
@@ -105,7 +105,7 @@ Mila menutup mata. Ia fokus pada suara-suara itu. Untuk pertama kalinya, ia mera
 
 "Di stasiun, ada nama yang datang dalam pernyataan, dan ada nama yang datang dalam pertanyaan," bisik Nyala saat tidak ada orang lain yang berbicara. "Suara yang kau bawa dari kafe adalah pertanyaan. Ia menunggu jawaban, bukan penjelasan."
 
-Mila merasakan sesuatu naik di dalam dadanya. Bukan ketakutan, tetapi ketegangan yang produktif. Ia membuka mata sedikit. Di depan bangku, sebuah bayangan kecil bergerak � bukan berlari, melainkan mengarahkan dirinya sendiri.
+Mila merasakan sesuatu naik di dalam dadanya. Bukan ketakutan, tetapi ketegangan yang produktif. Ia membuka mata sedikit. Di depan bangku, sebuah bayangan kecil bergerak — bukan berlari, melainkan mengarahkan dirinya sendiri.
 
 Bayangan itu memakai rok panjang yang seolah dibuat dari asap, dengan ujung-ujung seperti melayang. Di kepalanya, ada topeng kecil. Saat ia bergerak, topeng itu memantulkan cahaya oranye Nyala seperti cermin.
 
@@ -123,13 +123,13 @@ Mila memejamkan mata. Ia memikirkan kata-kata barista: *Jangan biarkan aku menja
 
 Dia mengangkat kepala. Di sekelilingnya, beberapa bayangan menoleh, tetapi tidak mengejarnya. Mereka tampak seperti penonton yang mengizinkan sebuah cerita untuk terus bergerak.
 
-Pria bertopi m�rang menatapnya, lalu mengangguk pelan. "Pergilah ke bingkai. Jika kau meletakkan kunci di sana, kau akan tahu apakah kau berada di jalan yang benar. Dan jangan lupa: ketika kau memasuki ruang itu, jangan bawa terlalu banyak kata. Biarkan kata yang sudah ada mengisi dirinya sendiri."
+Pria bertopi márang menatapnya, lalu mengangguk pelan. "Pergilah ke bingkai. Jika kau meletakkan kunci di sana, kau akan tahu apakah kau berada di jalan yang benar. Dan jangan lupa: ketika kau memasuki ruang itu, jangan bawa terlalu banyak kata. Biarkan kata yang sudah ada mengisi dirinya sendiri."
 
 Mila bangkit. Tangannya gemetar sedikit ketika ia mengambil kunci tembaga dari dalam tas. Permukaannya terasa hangat. Bukan karena suhu, tetapi karena daya tarik ruangnya.
 
 Ia melangkah ke area di mana rel tua bertemu dinding beton. Ada bingkai terbuka di sana, setengah tertutupi grafiti. Di tengahnya, ada sebuah lubang, lebih mirip pintu kecil daripada jendela. Simbol lingkaran halus tampak di satu sisi.
 
-Mila mengangkat tangan. Di sekitarnya, bayangan-bayangan seperti menarik napas. Topi pria bertopi m�rang berputar sekali.
+Mila mengangkat tangan. Di sekitarnya, bayangan-bayangan seperti menarik napas. Topi pria bertopi márang berputar sekali.
 
 Ketika kunci tembaga masuk, ia merasa seperti memasukkan sebuah kata ke dalam mulut. Bunyi mekanisme tua berderit, dan dinding di sekitarnya bergetar seperti senar gitar yang dipetik.
 
@@ -139,19 +139,19 @@ Mila melangkah masuk. Segera, ruangan itu merespons. Cahaya hijau menjalin denga
 
 Dalam cermin, bukan hanya wajahnya yang muncul. Ada juga sosok seorang perempuan muda dengan rambut hitam panjang. Mata perempuan itu tidak persis seperti yang pernah ia lihat, tetapi ia merasakan kehadirannya. Ia membawa wajah yang dipahat dari keheningan.
 
-Suara itu datang lagi, lebih lembut dari sebelumnya. "Kau datang dengan kata yang tepat. Sekarang, dengarlah. Aku bukan sekadar nama yang bisa kamu simpan. Aku adalah ruang yang mencari penulis."
+Suara itu datang lagi, lebih lembut dari sebelumnya. "Kau datang dengan kata yang tepat. Sekarang, dengarlah. Aku bukan sekadar nama yang bisa kau simpan. Aku adalah ruang yang mencari penulis."
 
 Mila menatap. "Bagaimana aku bisa membantumu menemukan rumah?"
 
 Perempuan dalam cermin tersenyum tipis. "Bukan aku yang harus menemukan rumah. Kau yang harus menemukan ruang yang siap menerimaku. Surat itu memberitahumu bahwa aku menunggu di persimpangan antara cahaya dan bayang. Sekarang kau sudah di stasiun. Pintu ini adalah pilihan. Jika kau membiarkanku masuk ke dalam terlalu cepat, aku akan menjadi kata tanpa tubuh. Jika kau menahan terlalu lama, aku akan menjadi bayangan yang meninggalkanku sendiri."
 
-Mila menghela napas. Ia merasa seolah berada di hadapan bayangan masa kecilnya � bukan sosok nyata, tetapi perasaan yang pernah ditinggalkan. "Aku tidak mau itu terjadi. Aku ingin memastikan kau punya ruang untuk bernapas."
+Mila menghela napas. Ia merasa seolah berada di hadapan bayangan masa kecilnya — bukan sosok nyata, tetapi perasaan yang pernah ditinggalkan. "Aku tidak mau itu terjadi. Aku ingin memastikan kau punya ruang untuk bernapas."
 
 Perempuan dalam cermin mencondongkan kepala. "Itu sudah merupakan awal. Selanjutnya, aku akan menunjukkan satu hal. Di kota ini, ada nama yang berkekuatan seperti catatan. Mereka muncul ketika ditulis. Mereka mati ketika disingkirkan. Kau harus memilih apakah kau menjadi penulis, atau penjaga dari tulisan itu."
 
 Mila merasakan betapa besarnya artinya. Kata-kata itu tidak hanya menjelaskan. Mereka menantangnya.
 
-Ketika ia berjalan keluar dari ruangan kecil itu, pria bertopi m�rang sudah menunggu di luar. Ia tampak sedikit lebih segar, seolah ada angin baru yang masuk.
+Ketika ia berjalan keluar dari ruangan kecil itu, pria bertopi márang sudah menunggu di luar. Ia tampak sedikit lebih segar, seolah ada angin baru yang masuk.
 
 "Kau telah memasuki ruang yang tepat, tetapi bukan yang terakhir," katanya. "Namanya akan menunggu lagi. Dan jangan lupa: sebagai penjaga, kau tidak hanya memanggil nama. Kau juga membiarkan mereka menemukan dirimu."
 

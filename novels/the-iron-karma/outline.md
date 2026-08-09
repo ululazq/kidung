@@ -40,9 +40,9 @@ Bagas (26), mantan atlet wushu yang cedera, secara tak sengaja menerima relik ga
 | 7 | Bagas | 2 (RDD, GCD) | Rahasia laboratorium Lupa Corp terungkap → konflik lokal jadi ancaman kota | selesai |
 | 8 | Bagas | 3 (GCD, GCD, RDD) | Sabotase Stasiun 13 → menang taktis tapi tubuh mengalami *cellular necrosis* pertama | selesai |
 | 9 | Bagas | 2 (GCD, RDD) | Pak Seno menyerahkan Regulator Tembaga → pengguna tunggal jadi bagian dari garis penempa | selesai |
-| 10 | Bagas | 2 (GCD, GCD) | Penyusupan ke menara komunikasi JagadBumi → informasi terselubung jadi dokumen terbuka | |
-| 11 | Bagas | 2 (GCD, RDD) | Komandan Vane mengaktifkan zirah Exoskeleton Berat → musuh biasa jadi ancaman mesin pembunuh | |
-| 12 | Bagas | 2 (RDD, GCD) | Bengkel Pak Seno diserang; Pak Seno gugur → sekutu terdekat gugur, Bagas sendirian | |
-| 13 | Bagas | 2 (GCD, RDD) | Bagas menerima penderitaan kakinya dan harmoni relik → meratapi luka jadi menerima karma | |
-| 14 | Bagas | 3 (GCD, GCD, RDD) | Penyerbuan Markas JagadBumi & duel Komandan Vane → pertarungan hidup mati | |
-| 15 | Bagas | 2 (RDD, GCD) | Pemulihan kota & peresmian Midnight Runner baru → korban terbuang jadi pelindung malam | |
+| 10 | Bagas | 2 (GCD, GCD) | Penyusupan ke menara komunikasi JagadBumi → informasi terselubung jadi dokumen terbuka | selesai |
+| 11 | Bagas | 2 (GCD, RDD) | Komandan Vane mengaktifkan zirah Exoskeleton Berat → musuh biasa jadi ancaman mesin pembunuh | selesai |
+| 12 | Bagas | 2 (RDD, GCD) | Bengkel Pak Seno diserang; Pak Seno gugur → sekutu terdekat gugur, Bagas sendirian | selesai |
+| 13 | Bagas | 2 (GCD, RDD) | Bagas menerima penderitaan kakinya dan harmoni relik → meratapi luka jadi menerima karma | selesai |
+| 14 | Bagas | 3 (GCD, GCD, RDD) | Penyerbuan Markas JagadBumi & duel Komandan Vane → pertarungan hidup mati | selesai |
+| 15 | Bagas | 2 (RDD, GCD) | Pemulihan kota & peresmian Midnight Runner baru → korban terbuang jadi pelindung malam | selesai |

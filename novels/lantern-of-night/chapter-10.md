@@ -15,7 +15,13 @@ Tapi yang ia temukan hanya kabut.
 
 "Ya. Itu namamu." Awan menatapnya dengan prihatin. "Kau ingat apa saja?"
 
-Mila menutup mata. "Kolektor... Luruh. Aku memberinya setengah namaku." Ia membuka mata. "Apakah dia...?"
+Mila menutup mata. Di balik kelopaknya, yang muncul bukan gambar, melainkan rasa: hangatnya pelukan, kosongnya dada, dan satu kata yang terasa seperti pisau yang baru saja dicabut. "Kolektor... Luruh. Aku memberinya setengah namaku." Ia membuka mata. "Apakah dia...?"
+
+Awan tidak langsung menjawab. Ia memandang Mila dengan cara yang sama seperti ia memandang cermin-cermin tua di kafenya—dengan kesabaran, dengan kelembutan, dengan pengetahuan yang tidak pernah ia ucapkan. Ia adalah vessel tua, yang pernah kehilangan namanya sendiri, yang telah melihat banyak penjaga mengosongkan diri mereka demi nama-nama lain. "Kau tahu," katanya pelan, "ketika aku kehilangan namaku, aku pikir aku kehilangan segalanya. Ternyata aku hanya kehilangan satu hal: cara untuk menyebut diriku sendiri. Selebihnya—semua yang pernah kulakukan, semua yang pernah kujaga—tetap ada. Nama bukan isi. Nama hanya pintu."
+
+Mila menatapnya. "Kalau begitu, apa yang ada di balik pintuku sekarang?"
+
+"Kau." Awan menatapnya. "Masih kau. Hanya saja, sekarang, kau tahu rasanya menjadi setengah."
 
 "Dia ada di ruang belakang. Ia tidak banyak bicara, tapi ia menungguimu bangun."
 
@@ -85,13 +91,25 @@ Mila menutup mata. Ia mengangkat tangan, menyentuh bayangan pertama—seorang pe
 
 "Siapa namamu?" tanyanya.
 
-*...Nadia.*
+*...Salma.*
 
-"Nadia," ulang Mila. "Aku memberimu rumah."
+"Salma," ulang Mila. "Aku memberimu rumah."
 
 Ia merasakan sesuatu bergerak di dalam dirinya—sebuah ruang terbuka, sebuah kamar kecil dengan jendela yang menghadap ke langit malam. Bayangan itu melangkah masuk, dan ketika ia masuk, Mila merasakan sesuatu hilang: warna favoritnya. Hijau.
 
 Satu nama. Satu ingatan.
+
+Di dalam dirinya, Kara ikut merasakannya—setiap ruang yang terbuka, setiap ingatan yang memudar. *Kau tidak harus melakukan semuanya sendiri,* bisiknya. *Aku bisa berbagi harganya.*
+
+*Tidak,* jawab Mila. *Kau sudah berbagi terlalu banyak. Biarkan aku yang menanggung yang ini.*
+
+*Lalu kau akan kehilangan lebih banyak.*
+
+*Maka aku akan kehilangan lebih banyak. Itu artinya aku masih punya cukup untuk kehilangan.*
+
+Bayangan kedua melangkah maju sebelum Mila sempat menyiapkan diri—seorang lelaki tua dengan bahu yang membungkuk, yang tidak ingat nama anaknya. Mila menahan napas, membuka ruang di dalam dirinya, dan ketika ia masuk, ia lupa nama jalan tempat ia dibesarkan.
+
+Bayangan ketiga tidak menunggu giliran. Mereka datang bersama-sama sekarang, seperti air yang mengalir ke tempat yang rendah, seperti nama-nama yang telah lama menunggu dan tidak sabar lagi. Mila membuka pintu demi pintu, ruang demi ruang, dan setiap pintu yang terbuka mengambil sesuatu dari dalam dirinya.
 
 Ia menyentuh bayangan kedua. Ketiga. Keempat.
 
@@ -103,6 +121,12 @@ Nama kelima belas: ia lupa cara tersenyum.
 Nama kedua puluh: ia lupa namanya sendiri—untuk sesaat. Lalu Kara mengingatkannya.
 
 *Mila. Kau masih Mila.*
+
+Nama kedua puluh lima: ia lupa warna langit saat senja.
+Nama ketiga puluh: ia lupa suara hujan di atap—meski hujan masih turun di luar, dan setiap tetesnya kini terdengar asing, seperti bahasa yang ia pernah bisa tetapi sudah lupa.
+Nama ketiga puluh tujuh: yang terakhir. Seorang anak kecil, yang tidak ingat nama ibunya sendiri, yang berdiri di hadapan Mila dengan mata yang penuh pertanyaan yang tidak bisa ia ucapkan. Mila membuka ruang terakhirnya, dan ketika anak itu masuk, ia lupa kapan ia terakhir kali merasa aman.
+
+*Mila.* Suara Kara, sekarang lebih dekat, lebih hangat, seperti tangan yang mencengkeram lengannya. *Kau sudah selesai. Kau bisa berhenti sekarang.*
 
 Tiga puluh tujuh nama. Tiga puluh tujuh rumah. Tiga puluh tujuh ingatan yang hilang.
 
@@ -132,4 +156,22 @@ Mila diam lama. Lalu ia tersenyum—meski ia lupa bagaimana rasanya tersenyum, i
 
 "Kalau begitu, setidaknya aku akan menjadi utuh."
 
+*Utuh,* ulang Kara, dan kata itu terasa seperti sesuatu yang telah lama menunggu di dalam dirinya, seperti kunci yang telah lama mencari lubangnya. *Aku suka bunyinya.*
+
+*Aku juga.* Mila menekan dada, tempat tiga puluh tujuh nama kini tidur, tempat setengah namanya kini menunggu. *Aku juga.*
+
 Dan ia berdiri, berjalan keluar dari Aula Kenangan, menuju Stasiun 13—meninggalkan tiga puluh tujuh nama yang kini aman di dalam dirinya, dan tiga puluh tujuh ingatan yang tidak akan pernah kembali.
+
+Di ambang pintu, ia berhenti sejenak, menoleh ke arah Luruh yang masih duduk di kursinya. "Jaga Aula ini," katanya. "Dan kalau aku tidak kembali—"
+
+"Kau akan kembali." Luruh menatapnya. "Kau tidak bisa tidak kembali. Ada nama yang masih menunggumu."
+
+Mila tersenyum—meski ia sudah lupa bagaimana rasanya tersenyum, ia mencobanya, dan senyum itu datang, aneh dan asing tetapi nyata. "Kalau begitu, aku akan kembali."
+
+Di luar, hujan masih turun, dan Kota Senja menyambutnya seperti biasa: dengan lampu-lampu yang berkedip, dengan bayangan-bayangan yang menunggu di pinggir jalan, dengan suara-suara yang tidak pernah benar-benar sunyi. Mila berjalan menyusuri trotoar yang basah, dan untuk pertama kalinya dalam dua hari, ia tidak merasa seperti orang yang sedang melarikan diri.
+
+Ia sedang berjalan menuju sesuatu.
+
+Di sebuah gang sempit, seorang penjual makanan malam yang menjaga gerobaknya menatapnya lewat dan mengangguk—bukan karena mengenalnya, tetapi karena di Kota Senja, semua orang yang berjalan di tengah hujan larut malam adalah orang yang sedang menuju suatu tempat. Mila mengangguk balas, dan untuk sesaat, ia merasa menjadi bagian dari kota itu dengan cara yang tidak pernah ia rasakan sebelumnya: bukan sebagai penjaga yang berdiri di luar, tetapi sebagai salah satu dari mereka yang berjalan, yang menunggu, yang mencari.
+
+Di dalam tasnya, Nyala berdenyut pelan—hangat, mantap, seperti lentera yang tahu bahwa meskipun pemiliknya kehilangan banyak hal, ia masih tahu ke mana harus pergi.

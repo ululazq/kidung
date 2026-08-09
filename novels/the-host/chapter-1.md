@@ -65,7 +65,9 @@ Arif merasa ada yang bergerak di dalam kepalanya. Bukan fisik, tapi seperti... b
 
 Arif membuka matanya. Ia melihat pantulannya di kaca jendela. Wajahnya biasa—hidung agak pesek, rambut hitam yang mulai rontok di dahi, mata coklat dengan lingkaran hitam di bawahnya. Wajah lelah. Wajah kalah.
 
-Tapi di balik mata itu, ia merasakan sesuatu yang lain. Sesuatu yang tua. Sesuatu yang besar.
+Ia mengenal wajah ini. Ia sudah melihatnya setiap pagi selama dua puluh delapan tahun—saat bercukur, saat menggosok gigi, saat menatapnya di lift sambil menunggu lantai. Wajah yang sama. Wajah yang tidak pernah berubah. Wajah yang ia anggap permanen, seperti kontrak yang tidak pernah bisa diakhiri.
+
+Tapi sekarang, untuk pertama kalinya, wajah itu terasa seperti properti sewaan. Sesuatu yang ia tempati, tapi bukan miliknya. Dan di balik mata itu, ia merasakan sesuatu yang lain. Sesuatu yang tua. Sesuatu yang besar.
 
 "Siapa kamu?" tanyanya lagi, kali ini pelan.
 
@@ -93,6 +95,28 @@ Arif menarik napas panjang. Ia kembali ke meja kerjanya. Laptop masih menyala, m
 
 Arif tersenyum tipis. "Hampir sama."
 
+Ia menatap layar laptopnya. Grafik yang setengah jadi itu—data pengguna, churn rate, proyeksi pendapatan kuartal ketiga—sekarang terasa seperti tulisan asing. Dulu angka-angka itu adalah dunianya. Satu-satunya bahasa yang ia kuasai dengan baik. Sekarang, di sampingnya, ada bahasa lain yang lebih tua, lebih berat, dan ia tidak tahu harus meletakkannya di kolom mana.
+
+*Angka-angka ini... hidup.*
+
+"Apa?"
+
+*Setiap baris. Setiap sel. Aku bisa merasakannya. Seseorang mengisi ini dengan harapan. Dengan ketakutan. Dengan malam-malam tanpa tidur.*
+
+Arif menatap spreadsheet itu. "Itu hanya data."
+
+*Tidak ada yang 'hanya' apa pun. Bahkan di Alengka, setiap catatan pajak adalah nyawa. Setiap gulungan laporan adalah keluarga yang menunggu di rumah.*
+
+"Kamu membaca pajak di Alengka?"
+
+*Raja harus tahu segalanya tentang rakyatnya. Termasuk berapa banyak yang mereka bayar untuk tetap hidup.*
+
+Arif terdiam. Ia tidak tahu harus menjawab apa. Di layar, grafiknya terus bergerak—garis naik, garis turun, titik-titik yang membentuk pola yang ia kenal baik. Pola yang sama setiap kuartal: naik, jatuh, naik lagi. Seperti denyut nadi kota yang tidak pernah tidur.
+
+"Kalau begitu," katanya pelan, "kamu akan banyak melihat hal-hal seperti ini."
+
+*Aku menantikannya.*
+
 Ia menutup laptop. Di luar, hujan mulai reda. Langit masih kelabu, tapi cahaya matahari sore mulai menembus celah-celah awan. Jakarta tidak pernah benar-benar cerah. Hanya variasi kelabu.
 
 "Aku akan pulang," ujarnya. "Kita bicara di tempat yang lebih... pribadi."
@@ -115,9 +139,19 @@ Arif berhenti di depan lift. Jarinya menekan tombol tanpa ia sadari. "Setiap ora
 
 *Tapi tidak semua orang bisa bangkit. Kamu... bangkit. Dari apa?*
 
-Lift tiba. Pintu terbuka. Arif masuk, sendirian.
+Lift tiba. Pintu terbuka. Arif masuk, sendirian. Di dalam lift, ia menatap nomor lantai yang berkedip—23, 22, 21. Angka-angka yang turun seperti hitungan mundur.
 
 "Utang," jawabnya akhirnya. "Ayahku sakit. Biaya rumah sakit. Aku jadi... berhutang. Banyak. Ke banyak tempat."
+
+*Rumah sakit. Tempat orang berjuang melawan kematian dengan uang.*
+
+"Kamu paham rumah sakit?"
+
+*Aku paham kematian. Dan aku paham bahwa manusia selalu mencari cara untuk menundanya. Di zamanku, kami membayar dengan pengorbanan. Di zamanku, kami membayar dengan nyawa. Di zamanku—* Rahwana berhenti. *Di zamanku, kami membayar. Periode. Sepertinya tidak banyak yang berubah.*
+
+Arif tertawa—tawa yang kering, hampir tanpa suara. "Kamu benar. Tidak banyak yang berubah. Hanya metodenya."
+
+*Metode berubah. Harga tetap.*
 
 *Dan kamu membayarnya. Dengan cara ini. Dengan pekerjaan ini.*
 
@@ -131,11 +165,19 @@ Arif menatap pantulannya di pintu lift. Wajahnya biasa. Tapi matanya—matanya s
 
 Suara itu tidak menjawab.
 
-Pintu lift terbuka di lantai dasar. Arif melangkah keluar, ke dalam hujan yang tersisa. Jakarta menunggunya dengan macet, polusi, dan jutaan orang yang berlarian mencari sesuatu yang tidak pernah mereka temukan.
+Pintu lift terbuka di lantai dasar. Arif melangkah keluar, ke dalam hujan yang tersisa. Ia berhenti sejenak di bawah kanopi gedung, membuka ponselnya, dan menatap pesan yang belum dibalas dari ibunya—pertanyaan sederhana tentang kapan ia pulang ke Bogor. Ia mengetik jawaban singkat, lalu mengurunginya. Belum waktunya. Belum sebelum ia tahu apa yang sedang terjadi pada dirinya.
+
+Jakarta menunggunya dengan macet, polusi, dan jutaan orang yang berlarian mencari sesuatu yang tidak pernah mereka temukan.
 
 Tapi kali ini, ia tidak sendirian.
 
 Di dalam kepalanya, sesuatu yang tua mulai terjaga.
+
+Arif berjalan menembus hujan, kerah mantelnya dinaikkan, langkahnya cepat seperti biasa. Di sepanjang jalan, ia melihat orang-orang yang sama seperti dirinya—berpayung, berjalan cepat, mata menatap layar ponsel—dan untuk sesaat ia ingin berteriak. Ingin bertanya pada mereka: pernahkah kalian merasa ada yang lain di dalam dirimu? Pernahkah kalian mendengar suara yang bukan suaramu?
+
+Tapi ia tidak berteriak. Ia tidak bertanya. Karena ia tahu jawabannya: mereka akan menatapnya seperti orang gila, lalu menghindar. Di kota ini, setiap orang punya suara di kepalanya sendiri. Hanya saja, suaranya biasanya bernama stres, kecemasan, atau deadline.
+
+Suaranya bernama Rahwana. Dan suara itu, entah bagaimana, terasa seperti satu-satunya hal yang jujur di hari yang penuh kebohongan.
 
 ---
 
