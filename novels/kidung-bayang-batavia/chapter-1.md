@@ -1,26 +1,144 @@
 ---
-title: "Bab 1: Pintu Misteri Segara"
+title: "Bab 1: Tanah yang Menunggu"
 chapter: 1
 ---
 
-Air hujan merembes dari sela-sela bata Batavia dan menetes ke tengkuk Arya, satu-satu, seperti hitungan mundur. Di lorong bawah tanah ini suara kota di atas sudah hilang sama sekali. Arya berjalan perlahan. Langkah kakinya gontai, menahan rasa sakit luar biasa dari luka sabetan pedang pusaka yang ia terima saat bertarung melawan cikal bakal kegelapan di dalam gudang pelabuhan. Di sampingnya, Nyi Sembrani berjalan legap, matanya yang tajam bagai mata elang menyapu setiap sudut ruangan yang remang-remang.
+Padepokan itu berdiri di lereng yang menghadap laut, di antara pohon beringin tua dan sawah yang mengering di musim kemarau. Dari halamannya, Batavia terlihat seperti deretan lampu kuning yang bergetar di kejauhan, kota yang tidak pernah tahu bahwa di atas bukit ini ada orang-orang yang menjaga batas yang tidak terlihat.
 
-"Kita sudah hampir sampai, Arya," bisik Nyi Sembrani dengan suara serak namun penuh wibawa. "Pintu Misteri Segara tidak akan terbuka lama. Jika gerhana laut berlalu sebelum kita menyeberang, jiwa-jiwa yang terperangkap di Alam Kelam akan selamanya menjadi budak Sang Penguasa Ombak."
+Arya berlatih di bawah pohon beringin itu sejak matahari masih tinggi. Gerakannya belum indah. Setiap jurus yang diajarkan Kyai Ageng Wiraguna ia ulangi sampai lututnya gemetar, sampai keringat membasahi punggungnya, karena sang guru pernah berkata bahwa jurus yang sempurna tidak lahir dari bakat, melainkan dari ingatan otot yang tidak pernah membiarkan dirinya lupa.
 
-Arya mengangguk perlahan. Tangan kanannya memegang erat Keris Kyai Sengkelat yang memancarkan pendar cahaya keemasan. Pendaran itu menjadi satu-satunya penerang di dalam lorong bawah tanah Batavia yang dingin dan lembap. Suara gemericik air laut yang bocor dari sela-sela dinding batu bata kuno terdengar kian memburu, seolah menyanyikan simfoni kematian bagi siapa saja yang berani melangkah lebih jauh.
+"Berhenti."
 
-Ketika mereka sampai di sebuah ruangan melingkar bertiangkan delapan pilar batu hitam, langkah Arya terhenti. Di hadapan mereka berdiri sebuah gerbang raksasa dari kayu jati tua yang dilapisi ukiran naga laut. Gerbang itu memancarkan hawa dingin yang sanggup membekukan darah. Inilah Pintu Misteri Segara, tempat batas antara alam manusia dan samudera gaib melebur menjadi satu.
+Arya menurunkan tangannya. Kyai Ageng Wiraguna duduk di serambi padepokan dengan segelas teh yang sudah dingin, jubah kanuragan cokelat tuanya ditambal di siku. Usianya sudah lanjut — rambut dan janggutnya putih — tapi matanya masih tajam seperti mata elang yang mengawasi sesuatu di kejauhan yang tidak bisa dilihat orang lain.
 
-Namun, ruangan itu tidak kosong. Di depan gerbang, berdiri sesosok bayangan jangkung berjanggut perak yang mengenakan jubah kelam berlapis sutra Batavia. Dialah Ki Demang Brata, mantan senopati yang telah menjual jiwanya demi keabadian.
+"Apa yang kau lihat dari jurus itu, Arya?"
 
-"Rupanya sang pewaris darah luhur masih memiliki keberanian untuk melangkah ke sini," kekeh Ki Demang Brata. Suaranya bergema memenuhi dinding batu, menciptakan getaran ghaib yang menusuk gendang telinga. "Tapi langkahmu berakhir di sini, Arya. Keris pusaka itu milik penguasa sejati, bukan bocah kemarin sore yang masih menangisi kematian gurunya!"
+"Lima sasaran," jawab Arya. "Leher, dua lengan, dua kaki. Tapi kalau lawannya bergerak lebih cepat—"
 
-"Ki Demang!" teriak Nyi Sembrani seraya melangkah ke depan. "Pengkhianatanmu pada Kerajaan Mataram telah membawa kutukan bagi tanah Jawa! Malam ini, giliranmu yang akan membayar setiap tetes darah para prajurit yang kau korbankan di Laut Selatan!"
+"Bukan itu." Sang guru meletakkan gelasnya. "Kau melihat lawan. Aku melihat sesuatu yang lain."
 
-Tanpa menunggu balasan, Nyi Sembrani menghentakkan tongkat kayunya ke lantai batu. Seketika itu juga, gelombang angin berhembus kencang, membawa ratusan dedaunan gaib berkilau yang meluncur deras bagai anak panah menuju Ki Demang Brata. Pertempuran sengit di depan Pintu Misteri Segara pun meletus dengan dahsyat.
+Arya menunggu.
 
-Ki Demang Brata mengibaskan jubahnya, menciptakan benteng kegelapan yang memantulkan serangan Nyi Sembrani. Sementara itu, Arya mengambil kesempatan untuk mendekati gerbang utama. Ia tahu bahwa tugas utamanya bukanlah bertarung melawan Ki Demang, melainkan memasukkan pusaka Keris Kyai Sengkelat ke dalam celah ukiran di tengah Pintu Misteri Segara sebelum Bulan Merah mencapai puncaknya.
+"Di belakangmu, tiga puluh langkah ke arah laut, ada sebatang pohon kelapa yang kemarin masih tegak. Sekarang ia miring." Kyai Ageng menatap Arya dengan serius. "Kau berlatih berjam-jam dan tidak melihatnya. Seorang pendekar harus melihat semuanya — bukan hanya apa yang ingin ia lawan."
 
-"Arya, cepat!" seru Nyi Sembrani yang kini sedang bertarung jarak dekat melawan Ki Demang Brata. Percikan cahaya merah dan kuning memenuhi udara saat kekuatan mistis mereka beradu.
+Arya menoleh. Pohon kelapa itu memang miring, akarnya tercabut dari tanah yang tiba-tiba lembek, padahal kemarin tanah di sana masih kering dan keras.
 
-Dengan sisa kekuatan yang ada, Arya melompat melewati kobaran api gaib yang melingkupi lantai. Ia menancapkan ujung Keris Kyai Sengkelat tepat ke pusat ukiran naga laut. Seketika itu juga, terdengar suara gemuruh dahsyat dari balik pintu kayu raksasa. Ukiran naga laut bergetar hebat, memancarkan sinar biru samudera yang sangat terang, menyapu seluruh kegelapan yang menyelimuti tempat itu.
+"Tanah di lereng ini berubah," kata Kyai Ageng pelan. "Bukan karena musim. Sesuatu di bawahnya sedang bergerak."
+
+---
+
+Malam itu Arya tidak bisa tidur. Ia duduk di ambang jendela kamarnya, memandangi pohon kelapa yang miring itu di bawah cahaya bulan. Sejak kecil ia tinggal di padepokan ini — sejak malam ketika ayahnya berteriak di atas lantai kayu dan ia bersembunyi di bawahnya, sejak ia dibawa pergi oleh orang yang kemudian menjadi gurunya.
+
+Ia tidak pernah menceritakan malam itu kepada siapa pun. Kyai Ageng tidak pernah bertanya. Tapi sang guru tahu. Guru selalu tahu hal-hal yang tidak diucapkan, dan ia menunggu — dengan sabar yang hampir menyakitkan — sampai Arya sendiri yang memutuskan untuk membukanya.
+
+Di bawah sinar bulan, bayangan Arya di dinding kamar bergerak sedikit.
+
+Ia membeku.
+
+Bayangan itu berhenti juga. Tentu saja. Bayangan tidak pernah bergerak sendiri.
+
+Tapi Arya bersumpah ia melihatnya — hanya sepersekian detik — bayangan tangannya terangkat lebih dulu sebelum tangannya sendiri bergerak.
+
+Ia mencengkeram bantalnya dan menunggu fajar.
+
+---
+
+Fajar datang lebih cepat dari yang ia kira, dan bersamanya datang suara yang tidak pernah ia dengar di padepokan ini: derap kaki. Banyak kaki. Serentak.
+
+Arya melompat dari tempat tidurnya dan berlari ke halaman. Di bawah, di lereng bukit, lima wujud hitam sedang naik. Tubuh mereka berupa benang-benang hitam yang menjuntai seperti kain basah, mata mereka menyala hijau fosfor di dalam kegelapan subuh. Mereka tidak berjalan seperti manusia. Mereka meluncur, dan di tangan masing-masing tergenggam senjata karat — tombak dan pedang abad lampau.
+
+Kyai Ageng Wiraguna sudah berdiri di tengah halaman, menghadap ke arah datangnya makhluk-makhluk itu. Keris di pinggangnya — keris yang selama ini ia simpan di dalam peti kayu jati di kamar dalam — kini berada di tangannya, memancarkan cahaya emas yang redup.
+
+"Arya." Suara sang guru tenang, seperti biasa. "Ambil tas yang sudah kusiapkan di serambi. Di dalamnya ada pakaian, uang, dan surat untuk Nyi Sembrani di Kota Tua."
+
+"Guru—"
+
+"Lima makhluk ini bukan pengintai. Mereka pengantar." Kyai Ageng menatap wujud-wujud hitam yang kini berhenti di batas pagar, seolah menunggu izin. "Sesuatu yang jauh lebih besar sedang mengirim pesan. Dan aku ingin kau di luar jangkauan pesan itu."
+
+"Aku tidak akan pergi meninggalkan Guru."
+
+Kyai Ageng menoleh. Untuk pertama kalinya malam itu, ada sesuatu di matanya yang bukan ketenangan — sesuatu yang menyerupai kesedihan.
+
+"Kau ingat apa yang kuajarkan padamu tentang cermin, Arya?"
+
+"Cermin hanya memantulkan ilusi."
+
+"Dan kau ingat apa yang tidak pernah kukatakan padamu?"
+
+Arya menggeleng.
+
+"Bahwa aku takut," kata sang guru pelan. "Bukan pada makhluk-makhluk ini. Tapi pada apa yang akan terjadi padamu jika kau tinggal. Ada kegelapan di dalam darahmu, Arya — warisan dari leluhurmu yang jauh. Aku sudah menahannya selama bertahun-tahun dengan membiarkanmu tumbuh di tanah yang tenang ini. Tapi malam ini tanah itu tidak akan tenang lagi."
+
+Lima wujud hitam itu menyerbu.
+
+Kyai Ageng Wiraguna melompat ke depan dengan kecepatan yang menipu usianya. Cahaya emas kerisnya membelah wujud pertama sebelum sempat menyentuh pagar. Benang-benang hitamnya terurai menjadi abu. Dua wujud lain menyerang dari samping, dan sang guru berputar, menangkis, membalas — gerakan-gerakan yang selama bertahun-tahun ia ajarkan kepada Arya, kini ia peragakan dengan sempurna untuk terakhir kalinya.
+
+Tapi wujud-wujud itu tidak mati seperti makhluk biasa. Setiap kali satu terurai, benang-benangnya merangkak kembali, menyatu, bangkit lagi.
+
+"Arya!" Kyai Ageng melemparkan kerisnya. Keris itu berputar di udara dan tertancap di tanah tepat di kaki Arya, cahaya emasnya berkedip seperti jantung yang berdetak. "Bawa ini ke Kota Tua. Cari Nyi Sembrani di Museum Fatahillah. Jangan berhenti untuk siapa pun."
+
+"Guru, aku bisa—"
+
+"Kau bisa hidup." Sang guru tersenyum — senyum yang sama yang selalu ia berikan ketika Arya melakukan sesuatu dengan benar. "Itu perintah terakhirku."
+
+Wujud-wujud hitam itu mengepung Kyai Ageng Wiraguna di tengah halaman. Arya berdiri membeku, tangan di atas hulu keris, kaki menolak untuk berlari. Ia ingin berbalik. Ia ingin membantu. Tapi tubuhnya — tubuh yang pernah bersembunyi di bawah lantai kayu — tubuh itu sudah tahu cara menolak.
+
+"Arya!" teriak sang guru, bukan marah, tapi memohon. "Berlari bukan berarti kalah! Berlari adalah memilih pertempuran yang bisa kau menangkan!"
+
+Arya berlari.
+
+Ia berlari menembus halaman belakang, menuruni lereng, melompati parit dan pematang sawah. Tas yang dimaksud sang guru tersangkut di bahunya — entah kapan ia mengambilnya. Keris Kyai Sengkelat ia genggam erat, dan di belakangnya, di puncak bukit, padepokan itu terbakar.
+
+Ia tidak menoleh.
+
+Ia tidak berani menoleh.
+
+Tapi di tengah lereng, ketika kakinya hampir tersandung akar pohon, ia menoleh — hanya sekali — dan ia melihatnya.
+
+Di puncak bukit yang terbakar itu, di tengah lingkaran lima wujud hitam, Kyai Ageng Wiraguna masih berdiri. Keris di tangannya masih menyala — cahaya emas kecil di tengah kegelapan, seperti lilin yang menolak padam. Sang guru tidak berteriak lagi. Ia tidak memanggil lagi. Ia hanya berdiri, menghadap lima bayangan itu, dengan punggung yang lurus.
+
+Lalu cahaya emas itu padam.
+
+Arya berlari lagi — lebih cepat dari sebelumnya, secepat yang bisa dilakukan oleh kaki yang gemetar dan dada yang terbakar — dan di belakangnya, di puncak bukit itu, tidak ada lagi yang menyala.
+
+Malam pertama ia tidak tidur sama sekali.
+
+Ia berjalan sepanjang malam, menjauh dari arah api, dan ketika fajar datang ia sudah berada di kota kecil pertama di tepi jalan besar. Ia duduk di tepi sumur, membasuh wajahnya, dan untuk pertama kalinya ia melihat bayangannya di permukaan air.
+
+Bayangan itu tidak menatapnya.
+
+Itu hal pertama yang aneh. Bayangan selalu menatap pemiliknya — bayangan adalah bayangan. Tapi bayangan di permukaan sumur itu menunduk, seperti orang yang sedang membaca sesuatu di dalam air, dan Arya harus menunggu beberapa detik sebelum ia menyadari bahwa bayangan itu menunggunya untuk pergi lebih dulu.
+
+Ia berdiri dan pergi. Ia tidak membasuh wajahnya lagi di air yang tenang sejak hari itu.
+
+Tiga hari kemudian, Arya tiba di Kota Tua Jakarta.
+
+---
+
+Tiga hari kemudian, Arya tiba di Kota Tua Jakarta.
+
+Ia tiba dengan baju kotor, luka lecet di siku dan lutut, dan keris Kyai Sengkelat yang ia bungkus kain di pinggangnya — tersembunyi, karena di sepanjang jalan ia mendengar bisikan yang sama, dari orang-orang yang tidak saling kenal: bahwa di utara, di arah pantai, tanah-tanah mulai miring, pohon-pohon tumbang tanpa angin, dan bayangan-bayangan bergerak tanpa tubuhnya.
+
+Dan setiap malam, di setiap tempat ia berhenti untuk beristirahat, bayangannya sendiri bergerak sedikit lebih dulu dari tubuhnya.
+
+Pagi itu, Arya berdiri di depan gerbang Museum Fatahillah untuk pertama kalinya. Bangunan tua itu menjulang di balik pagar besi, dengan menara jam yang tidak pernah berhenti berdetak, dan di dalamnya, menurut surat gurunya, tinggal seorang perempuan bernama Nyi Sembrani.
+
+Ia tidak masuk.
+
+Ia berdiri di seberang jalan selama setengah jam, memperhatikan pintu masuk, memperhatikan orang-orang yang keluar masuk — turis, penjaga, seorang lelaki tua berjubah arsiparis yang berjalan pelan dengan setumpuk buku di tangannya — dan ia tidak masuk.
+
+Bukan karena takut pada orang-orang di dalamnya.
+
+Karena ia tahu bahwa begitu ia menyerahkan keris ini dan menceritakan apa yang terjadi di padepokan, ia tidak akan pernah bisa berpura-pura lagi bahwa semuanya bisa kembali seperti dulu.
+
+Ia berbalik dan berjalan ke arah pelabuhan.
+
+Arya berdiri di simpang jalan Kota Tua, di antara becak dan pedagang asongan, dan untuk pertama kalinya ia memikirkan kata-kata gurunya: *Ada kegelapan di dalam darahmu.*
+
+Ia menunduk. Di bawah matahari siang, bayangannya pendek dan rapat, menempel patuh pada tubuhnya — untuk sekarang. Ia tahu, dengan cara yang tidak bisa ia jelaskan, bahwa malam nanti bayangan itu akan berbeda.
+
+"Aku tidak takut padamu," bisiknya pada bayangannya sendiri. Dan karena ia belum pernah berbohong seburuk ini, ia mengulanginya — lebih pelan, seperti orang yang sedang berlatih mempercayai kebohongannya sendiri.
+
+Ia tidak tahu apa artinya.
+
+Tapi di dalam sarung kain di pinggangnya, Keris Kyai Sengkelat berdenyut pelan — seperti jantung yang menunggu sesuatu — dan Arya merasa bahwa tanah di bawah kakinya, tanah Batavia yang tidak pernah ia kenal, sedang menunggunya.

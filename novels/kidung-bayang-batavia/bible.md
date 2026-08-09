@@ -1,7 +1,7 @@
 # Bible: Kidung Bayang Batavia
 
-Terakhir diperbarui: bab 14
-Sudah diungkap ke pembaca sampai: bab 14
+Terakhir diperbarui: bab 18
+Sudah diungkap ke pembaca sampai: bab 18
 
 > **Kanon ini diambil dari 14 bab yang benar-benar ada,** bukan dari README lama.
 > README versi sebelumnya menjelaskan cerita yang berbeda sama sekali dan tidak
@@ -12,13 +12,16 @@ Sudah diungkap ke pembaca sampai: bab 14
 ### Karakter
 | Nama baku | Peran | Catatan |
 |---|---|---|
-| Arya | protagonis | Pewaris Keris Kyai Sengkelat. Sekali disebut `Raden Mas Arya` (bab 1); di 13 bab lain selalu `Arya` saja — **pakai `Arya`** |
+| Arya | protagonis | Pewaris Keris Kyai Sengkelat. Selalu `Arya` saja — **jangan tulis `Raden Mas Arya`** |
 | Nyi Sembrani | mentor, pendamping tetap | Pendekar tua, rambut perak, tongkat kayu, Selendang Mayang Pusaka. Hadir di 14 dari 14 bab |
 | Ki Demang Brata | antagonis utama | Mantan senopati Mataram. Berjanggut perak, jubah kelam sutra Batavia. Boleh disingkat `Ki Demang` setelah perkenalan |
 | Kyai Ageng Wiraguna | guru Arya | Sudah gugur sebelum bab 1. Muncul sebagai arwah (bab 7) dan suara batin (bab 8) |
 | Pak Raden Suprapto | arsiparis Museum Fatahillah | Anggota terakhir Dewan Tujuh Pusaka. Berjanggut putih, jubah arsiparis kuno. Gugur bab 11 |
 | Ki Ageng Bayang | iblis leluhur | Bersemayam di darah keturunan Arya. Dikalahkan bab 2 |
-| Panglima Jiwa Kelam | bawahan Ki Demang | Menunggang kuda gaib berapi hijau, memegang Panji Hitam. Tewas bab 3 |
+| Panglima Jiwa Kelam | bawahan Ki Demang | Menunggang kuda gaib berapi hijau, memegang Panji Hitam. Tewas bab 7 |
+| Cikal bakal (benih Ki Demang) | wujud setengah jadi di gudang pelabuhan | Benang hitam, pedang hitam, belum punya nama. Menanam luka sabetan pada Arya (bab 2) sebagai benih agar kutukan bangun bersenjata; terurai tanpa mati. Satu dari tiga yang dihadapi di lorong (bab 4) adalah variannya |
+| Lima wujud hitam (prototipe Jiwa Kelam) | pengantar Ki Demang | Menyerbu padepokan (bab 1), membunuh Kyai Ageng Wiraguna; tidak mati dengan cara biasa — terurai dan bangkit lagi |
+| Pemuda penjaga malam (tanpa nama) | saksi + calon pemuda Padepokan Bayang Jagad | Membantu Arya menemukan pelabuhan (bab 9, disebut retrospektif); ingatannya diputihkan tapi bermimpi tentang laut; salah satu dari lima pemuda (bab 17); di kerumunan perayaan (bab 18). Selalu ditulis "pemuda penjaga malam", tanpa nama |
 
 ### Tempat
 | Nama baku | Catatan |
@@ -57,7 +60,7 @@ Sudah diungkap ke pembaca sampai: bab 14
 | Kidung Wahyu Kolosebo | tembang suci penyelaras. Senjata pemungkas bab 9 |
 | Sang Penguasa Ombak | entitas yang hendak dibangkitkan Ki Demang. **Tidak pernah muncul di panggung** |
 
-Sebutan alternatif yang dipakai bab: `Sang Ratu Kegelapan` (bab 6) dan `Sang Penguasa Ombak` (bab 1, 7) merujuk entitas yang sama. **Pakai `Sang Penguasa Ombak`;** perlakukan yang lain sebagai kekeliruan yang harus dirapikan saat revisi.
+Entitas puncak: **`Sang Penguasa Ombak`** — satu-satunya sebutan yang dipakai (bab 5, 7, 10, dst.). Tidak pernah muncul di panggung; ia yang hendak dibangkitkan Ki Demang.
 
 ## Protagonis — Arya
 
@@ -109,63 +112,74 @@ Sebutan alternatif yang dipakai bab: `Sang Ratu Kegelapan` (bab 6) dan `Sang Pen
 
 ## Timeline
 
-Bab 1–12 terjadi dalam **satu malam** — dari larut malam sampai fajar.
+Bab 1–4 terjadi dalam **seminggu sebelum Gerhana Segara**; bab 5–16 terjadi dalam **satu malam** — dari larut malam sampai fajar; bab 17–18 terjadi beberapa minggu kemudian.
 
 | Bab | Waktu | Lokasi akhir | Siapa hadir |
 |---|---|---|---|
-| 1 | larut malam | lorong bawah tanah, Pintu Misteri Segara | Arya, Nyi Sembrani, Ki Demang |
-| 2 | malam | ruang arsip Museum Fatahillah | Arya, Nyi Sembrani, Ki Ageng Bayang |
-| 3 | malam | lapangan Sunda Kelapa | Arya, Nyi Sembrani, Panglima Jiwa Kelam |
-| 4 | malam | dasar laut Sunda Kelapa | Arya, Nyi Sembrani, Ki Demang |
-| 5 | malam | dermaga Sunda Kelapa | Arya, Nyi Sembrani, para saksi |
-| 6 | tengah malam (lonceng 12×) | bukit Ancol → laut lepas | Arya, Nyi Sembrani |
-| 7 | malam | dermaga Pelabuhan Tua | Arya, Nyi Sembrani, Ki Demang, arwah |
-| 8 | malam | udara di atas pelabuhan | Arya, Nyi Sembrani, Ki Demang |
-| 9 | malam | udara di atas pelabuhan | Arya, Ki Demang |
-| 10 | malam | simpang lima Kota Tua | Arya, Nyi Sembrani |
-| 11 | menjelang fajar | simpang lima Kota Tua | Arya, Nyi Sembrani, Pak Raden |
-| 12 | fajar | simpang lima → Ciliwung | Arya, Nyi Sembrani |
-| 13 | beberapa minggu kemudian, sore | kedai kopi dekat dermaga | Arya, Nyi Sembrani |
-| 14 | malam peringatan hari kota | atap benteng kuno | Arya, Nyi Sembrani |
+| 1 | H-7 siang–malam | padepokan → jalan menuju Kota Tua | Arya, Kyai Ageng Wiraguna, lima wujud hitam |
+| 2 | H-3 malam | gudang pelabuhan → gang di belakang pelabuhan | Arya, cikal bakal (benih Ki Demang), Nyi Sembrani (akhir) |
+| 3 | H-2 siang–malam | ruang arsip Museum Fatahillah | Arya, Nyi Sembrani |
+| 4 | H-0 malam (sebelum larut) | lorong bawah tanah → depan ruang gerbang | Arya, Nyi Sembrani, pengintai benang hitam |
+| 5 | H-0 larut malam | lorong bawah tanah, Pintu Misteri Segara | Arya, Nyi Sembrani, Ki Demang |
+| 6 | H-0 malam | ruang arsip Museum Fatahillah | Arya, Nyi Sembrani, Ki Ageng Bayang |
+| 7 | H-0 malam | lapangan Sunda Kelapa | Arya, Nyi Sembrani, Panglima Jiwa Kelam |
+| 8 | H-0 malam | dasar laut Sunda Kelapa | Arya, Nyi Sembrani, Ki Demang |
+| 9 | H-0 malam | dermaga Sunda Kelapa | Arya, Nyi Sembrani, para saksi |
+| 10 | H-0 tengah malam (lonceng 12×) | bukit Ancol → laut lepas | Arya, Nyi Sembrani |
+| 11 | H-0 malam | dermaga Pelabuhan Tua | Arya, Nyi Sembrani, Ki Demang, arwah |
+| 12 | H-0 malam | udara di atas pelabuhan | Arya, Nyi Sembrani, Ki Demang |
+| 13 | H-0 malam | udara di atas pelabuhan | Arya, Ki Demang |
+| 14 | H-0 malam | simpang lima Kota Tua | Arya, Nyi Sembrani |
+| 15 | H-0 menjelang fajar | simpang lima Kota Tua | Arya, Nyi Sembrani, Pak Raden |
+| 16 | H+1 fajar | simpang lima → Ciliwung | Arya, Nyi Sembrani |
+| 17 | H+beberapa minggu, sore | kedai kopi dekat dermaga + Padepokan Bayang Jagad | Arya, Nyi Sembrani, lima pemuda |
+| 18 | H+beberapa minggu, malam peringatan hari kota | atap benteng kuno | Arya, Nyi Sembrani |
 
 ## Chekhov's Gun
 
 | Ditanam di bab | Apa | Sudah ditembakkan? |
 |---|---|---|
-| 1 | luka sabetan Arya dari pertarungan di gudang pelabuhan | **belum** — tidak pernah dijelaskan asalnya |
-| 1 | kematian guru Arya, disebut Ki Demang sebagai cemoohan | ya — bab 7 (arwahnya jadi umpan), bab 8 (ajarannya jadi kunci) |
-| 2 | ajaran "cermin hanya memantulkan ilusi" | ya — bab 2 langsung |
-| 4 | Arya belum menguasai Ajian Gelap Ngampar | **belum** — ia menembus racun tanpa ajian itu dan tidak ada akibat lanjutan |
-| 6 | peringatan bahwa waktu dan ilusi berbahaya di lorong dimensi | **belum** — mereka dilempar keluar sebelum sempat masuk |
-| 8 | Nyi Sembrani mengerahkan "sisa umur"-nya, rambut rontok | **belum** — kondisinya tidak pernah ditindaklanjuti setelah bab 8 |
-| 11 | Kitab Catatan Jagad mengkristal jadi batu abadi | sebagian — dibawa di bab 12, lalu tidak disebut lagi |
-| 13 | utusan Kerajaan Gaib Pantai Utara di Cirebon | **belum** — kail untuk kelanjutan |
-| 13 | peta Padepokan Bayang Jagad, lima pemuda pilihan | **belum** — kail untuk kelanjutan |
+| 1 | luka sabetan Arya dari pertarungan di gudang pelabuhan | **ya — bab 2 & 6**: asalnya dijelaskan — cikal bakal (benih Ki Demang) menanamkannya di gudang; di alam cermin bayangan datang dengan bilah yang sama; Nyi menyimpulkan itu benih agar kutukan bangun bersenjata. Akibatnya ditutup di bab 16 (dua racun ditahan Nyi) |
+| 1 | kematian guru Arya | **ya penuh — bab 1 (diceritakan langsung)**: padepokan diserbu lima wujud hitam, Kyai Ageng Wiraguna gugur, keris dititipkan; bab 11 (arwahnya jadi umpan), bab 12 (ajarannya jadi kunci) |
+| 2 | ajaran "cermin hanya memantulkan ilusi" | ya — bab 6 langsung (jurus kunci alam cermin) |
+| 4 | Arya belum menguasai Ajian Gelap Ngampar | **ya — bab 8**: ia menembus racun Darah Segara tanpa ajian itu; air hitam yang ditelan menyatu dengan racun bayangan → dua racun. Akibatnya menyerangnya di bab 11–12 dan ditahan Nyi di bab 16 |
+| 10 | peringatan bahwa waktu dan ilusi berbahaya di lorong dimensi | **ya — bab 11**: di dalam pusaran, Arya melihat ilusi padepokan + ayahnya; keris ("tidak bisa dibohongi") membunyikan denyut dingin dan ilusi itu terurai sebelum membunuhnya; lalu mereka dilempar keluar |
+| 12 | Nyi Sembrani mengerahkan "sisa umur"-nya, rambut rontok | **ya — bab 16 & 17**: kondisi terlihat (rambut menipis, langkah pelan), diakui, dan ditutup — "cukup tahun untuk melihat generasi berikut" |
+| 15 | Kitab Catatan Jagad mengkristal jadi batu abadi | **ya — bab 16 & 17**: dibawa ke Padepokan Bayang Jagad, disimpan di altar pendopo (dua lilin tak padam), berbicara lewat getaran; menulis bab baru di akhir bab 18 |
+| 17 | utusan Kerajaan Gaib Pantai Utara di Cirebon | **sengaja terbuka** — kail sekuel (bab 17); tidak ditembakkan dalam novel ini |
+| 17 | peta Padepokan Bayang Jagad, lima pemuda pilihan | **sengaja terbuka** — kail sekuel (bab 17–18); lima pemuda sudah hadir di padepokan |
+| 3 | cermin berbingkai jati di ruang arsip (tempat kutukan dihadapi) | ya — bab 6 (retak seribu setelah kutukan ditaklukkan); bab 3 hanya memperkenalkannya |
+| 9 | pemuda penjaga malam yang menolong Arya menemukan pelabuhan | **ya — bab 9 & 16 & 17 & 18**: saksi yang tidak bisa dilupakan (mimpi laut), jadi salah satu dari lima pemuda; bab 18 di kerumunan perayaan |
 
 ## Siapa tahu apa
 
 | Fakta | Diketahui siapa | Sejak bab |
 |---|---|---|
 | Dunia gaib nyata | Arya, Nyi Sembrani, Pak Raden, Ki Demang | sebelum bab 1 |
-| Arya membawa kutukan darah Ki Ageng Bayang | Arya, Nyi Sembrani | sebelum bab 1 |
-| Arya dan Ki Demang sama-sama "wadah" | Arya | 8 (dari mulut Ki Demang) |
-| Pak Raden anggota Dewan Tujuh Pusaka | Nyi Sembrani | sebelum bab 11 |
-| Ada ancaman baru dari Pantai Utara | Arya, Nyi Sembrani | 13 |
+| Arya membawa kutukan darah Ki Ageng Bayang | Arya (sebagian), Nyi Sembrani | sebelum bab 1; penuh di bab 3 |
+| Luka Arya = benih Ki Demang | Nyi Sembrani | bab 6 (disimpulkan dari bilah yang sama) |
+| Arya menyembunyikan luka selama 3 hari | hanya Arya | bab 2–6; Nyi tahu di bab 6 |
+| Dua racun dalam tubuh Arya (bayangan + Darah Segara) | Arya, Nyi Sembrani | bab 8; akibat penuh di bab 16 |
+| Arya dan Ki Demang sama-sama "wadah" | Arya | 12 (dari mulut Ki Demang) |
+| Pak Raden anggota Dewan Tujuh Pusaka | Nyi Sembrani | sebelum bab 15 |
+| Ada ancaman baru dari Pantai Utara | Arya, Nyi Sembrani | 17 |
 | Apa pun tentang malam itu | warga Kota Tua | **tidak pernah** — ingatan mereka diputihkan |
+| Pemuda penjaga malam adalah saksi yang tersisa (mimpi laut) | Arya, Nyi Sembrani | 9–17 (ia sendiri tidak tahu) |
 
 ## Aturan gaya novel ini
 
 - POV: orang ketiga terbatas, **selalu Arya**.
-- Judul bab bahasa Indonesia dengan pola `Bab N: Judul` di frontmatter. Konsisten 14 bab.
+- Judul bab bahasa Indonesia dengan pola `Bab N: Judul` di frontmatter. Konsisten 18 bab.
 - Register: formal-epik. Istilah kanuragan dan Jawa kuno dipakai apa adanya (*ajian*, *pusaka*, *pancer bumi*, *punden*, *senopati*, *kanuragan*). Kutipan tembang dicetak miring dengan terjemahan dalam tanda kurung.
-- Nyi Sembrani berfungsi sebagai penjelas aturan gaib. **Hati-hati:** di 14 bab ini ia hampir selalu mengumumkan aturan lewat dialog eksposisi. Saat revisi, ganti sebagian dengan demonstrasi.
+- Nyi Sembrani berfungsi sebagai penjelas aturan gaib. Revisi 2026-08-09 sudah mengganti sebagian eksposisi dengan demonstrasi (peta Kerayangan bab 3, denyut keris bab 3, ilusi yang ditolak keris bab 11).
 
-### Yang wajib diperbaiki saat revisi
+### Revisi 2026-08-09 (SELESAI)
 
-1. **Klausa pembuka identik.** Ke-14 bab dibuka "Hujan deras mengguyur kawasan Kota Tua Jakarta". Ganti semuanya.
-2. **Panjang bab.** 367–578 kata. Target 1.500–2.500. Perpanjang dengan adegan, bukan kalimat tambahan.
-3. **Nama entitas puncak** — satukan jadi `Sang Penguasa Ombak`.
-4. **Chekhov yang belum ditembakkan** — lihat tabel di atas; tutup atau buang.
+1. **Klausa pembuka identik** — diganti di semua bab (revisi 14 bab lama + 4 bab baru).
+2. **Panjang bab** — semua 18 bab kini 1.500–2.500 kata (perluasan dengan adegan baru: warga, saksi, sejarah gerbang, ilusi lorong, hitung mundur punden, penutupan luka).
+3. **Nama entitas puncak** — `Sang Ratu Kegelapan` nol tersisa; semua `Sang Penguasa Ombak`.
+4. **Chekhov** — lihat tabel di atas: semua yang bisa ditembakkan sudah ditembakkan; kail sekuel (Pantai Utara, lima pemuda) sengaja dibiarkan terbuka.
+5. **Babak awal** — 4 bab baru (1–4: pewarisan, cikal bakal, persiapan, malam gerhana); novel lengkap 18 bab.
 
 ## Kanon yang dibatalkan
 
