@@ -2,6 +2,7 @@
 title: "Gods in Jars"
 slug: "gods-in-jars"
 universe: "Kidungverse"
+order: 6
 genre: "Urban Fantasy (dark-cozy)"
 tone: "Hangat, kering, gelap bertahap; humor kering + kehangatan + kegelapan"
 protagonist: "Nadia, Altar-Keeper toko guci, mantan developer aplikasi"

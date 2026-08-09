@@ -2,6 +2,7 @@
 title: "The Neon Cipher"
 slug: "the-neon-cipher"
 universe: "Kidungverse"
+order: 10
 genre: "Dark Fantasy / Cyber-Occult Urban"
 tone: "Neon gelap, kota hujan, hemat kata, getir"
 protagonist: "Ren Kaelen (25), kurir data bawah tanah Neo-Tokyo yang kehilangan ingatan"

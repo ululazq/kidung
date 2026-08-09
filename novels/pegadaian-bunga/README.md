@@ -2,6 +2,7 @@
 title: "Pegadaian Bunga"
 slug: "pegadaian-bunga"
 universe: "Kidungverse"
+order: 13
 genre: "Dark Urban Fantasy / Ekonomi Gaib"
 tone: "Lembap, hemat kata, ekonomis, getir"
 language: "Indonesian"

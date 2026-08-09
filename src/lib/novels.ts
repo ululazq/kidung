@@ -1,6 +1,7 @@
 import fs from 'node:fs/promises'
 import path from 'node:path'
 import matter from 'gray-matter'
+import { marked } from 'marked'
 
 const NOVELS_DIR = path.join(process.cwd(), 'novels')
 const COVERS_DIR = path.join(process.cwd(), 'public', 'covers')
@@ -253,4 +254,127 @@ export async function getUniverseSeries(universe: string): Promise<Novel[]> {
   return novels
     .filter((n) => n.universe === universe && typeof n.order === 'number')
     .sort((a, b) => (a.order ?? 0) - (b.order ?? 0))
+}
+
+export interface UniverseDoc {
+  name: string
+  html: string
+}
+
+export interface Universe {
+  slug: string
+  title: string
+  genre: string
+  status: string
+  description: string
+  summaryHtml: string
+  docs: UniverseDoc[]
+  series: Novel[]
+}
+
+export interface UniverseSummary {
+  slug: string
+  title: string
+  genre: string
+  status: string
+  seriesCount: number
+  firstBookSlug: string | null
+}
+
+interface UniverseEntry {
+  dir: string
+  slug: string
+  title: string
+  genre: string
+  status: string
+  description: string
+  summary: string
+}
+
+const DOC_LABELS: Record<string, string> = {
+  bible: 'Bible Kanon',
+  timeline: 'Timeline Resmi',
+  compendium: 'Compendium',
+}
+
+/** Folders whose README declares `type: "universe"` — the canon homes. */
+async function getUniverseEntries(): Promise<UniverseEntry[]> {
+  const entries = await fs.readdir(NOVELS_DIR, { withFileTypes: true })
+  const dirs = entries.filter((e) => e.isDirectory()).map((e) => e.name)
+
+  const universes: UniverseEntry[] = []
+  for (const dirName of dirs) {
+    try {
+      const raw = stripBom(await fs.readFile(path.join(NOVELS_DIR, dirName, 'README.md'), 'utf-8'))
+      const { data, content } = matter(raw)
+      if (clean(data.type).toLowerCase() !== 'universe') continue
+      universes.push({
+        dir: dirName,
+        slug: clean(data.slug, dirName),
+        title: clean(data.title, dirName),
+        genre: clean(data.genre, 'Fiksi'),
+        status: clean(data.status, 'Universe'),
+        description: clean(data.description),
+        summary: content,
+      })
+    } catch {
+      // Not a universe folder (or unreadable README).
+    }
+  }
+  return universes.sort((a, b) => a.title.localeCompare(b.title))
+}
+
+/** Lightweight universe list for index/nav pages. */
+export async function getUniverseSummaries(): Promise<UniverseSummary[]> {
+  const entries = await getUniverseEntries()
+  return Promise.all(
+    entries.map(async (entry) => {
+      const series = await getUniverseSeries(entry.title)
+      return {
+        slug: entry.slug,
+        title: entry.title,
+        genre: entry.genre,
+        status: entry.status,
+        seriesCount: series.length,
+        firstBookSlug: series[0]?.slug ?? null,
+      }
+    }),
+  )
+}
+
+/** Full canon universe: summary, rendered docs, and the ordered series. */
+export async function getUniverse(slug: string): Promise<Universe | undefined> {
+  const entries = await getUniverseEntries()
+  const entry = entries.find((u) => u.slug === slug)
+  if (!entry) return undefined
+
+  const series = await getUniverseSeries(entry.title)
+  const docs: UniverseDoc[] = []
+  for (const fileName of ['bible.md', 'timeline.md', 'compendium.md']) {
+    try {
+      const raw = stripBom(await fs.readFile(path.join(NOVELS_DIR, entry.dir, fileName), 'utf-8'))
+      const base = fileName.replace(/\.md$/, '')
+      docs.push({ name: DOC_LABELS[base] ?? base, html: marked.parse(raw) as string })
+    } catch {
+      // Canon doc is optional.
+    }
+  }
+
+  return {
+    slug: entry.slug,
+    title: entry.title,
+    genre: entry.genre,
+    status: entry.status,
+    description: entry.description,
+    summaryHtml: marked.parse(entry.summary) as string,
+    docs,
+    series,
+  }
+}
+
+/** Map a universe display name (from novel frontmatter) to its folder slug. */
+export async function getUniverseSlug(name: string): Promise<string | null> {
+  const entries = await getUniverseEntries()
+  const entry = entries.find((u) => u.title.toLowerCase() === name.toLowerCase())
+  return entry?.slug ?? null
 }

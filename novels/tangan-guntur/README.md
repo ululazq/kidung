@@ -2,6 +2,7 @@
 title: "Tangan Guntur"
 slug: "tangan-guntur"
 universe: "Kidungverse"
+order: 19
 genre: "Action Fantasy / Romance"
 tone: "Petir, badai, hangat di tengah dingin, kekuatan yang tumbuh dari kepercayaan"
 protagonist: "Arka, penjaga mercusuar Tanjung Guntur, pewaris kekuatan petir yang tumbuh dari ikatan"

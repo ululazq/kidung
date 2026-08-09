@@ -2,6 +2,7 @@
 title: "The Astral Sovereign"
 slug: "the-astral-sovereign"
 universe: "Kidungverse"
+order: 8
 genre: "Dark Urban Fantasy / Action Fantasy"
 tone: "Atmospheric, Gritty, High-Stakes, Cinematic"
 language: "Indonesian"

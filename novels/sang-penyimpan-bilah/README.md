@@ -2,6 +2,7 @@
 title: "Sang Penyimpan Bilah"
 slug: "sang-penyimpan-bilah"
 universe: "Kidungverse"
+order: 18
 genre: "Action Fantasy / Romance"
 tone: "Senja, sarung, disiplin, kelembutan di balik kekuatan"
 protagonist: "Ren Vael, pendekar yang memegang bilah yang hanya tajam ketika tersarung"

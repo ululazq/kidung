@@ -2,6 +2,7 @@
 title: "Pasar Subuh"
 slug: "pasar-subuh"
 universe: "Kidungverse"
+order: 14
 genre: "Folk Fantasy / Drama Mistis"
 tone: "Tenang, berkabut, hemat kata, getir"
 protagonist: "Wulan, penjaga gerai pasar arwah yang menolak menjual penutup"

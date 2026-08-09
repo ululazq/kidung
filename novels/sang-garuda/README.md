@@ -2,6 +2,7 @@
 title: "Sang Garuda"
 slug: "sang-garuda"
 universe: "Kidungverse"
+order: 15
 genre: "Action Fantasy"
 tone: "Besar, berapi, cepat, harga yang mahal"
 protagonist: "Bagas, penerbang terakhir roh Garuda yang setiap terbangnya membakar setahun hidup"

@@ -1,0 +1,141 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro'
+import { getUniverseSummaries } from '../../lib/novels'
+
+const universes = await getUniverseSummaries()
+---
+
+<BaseLayout
+  title="Universe"
+  description="Semua universe cerita di Kidung — dunia, serial, dan kanonnya"
+>
+  <div class="container">
+    <nav aria-label="Breadcrumb" class="breadcrumb">
+      <a href="/">Beranda</a>
+      <span aria-hidden="true">/</span>
+      <span aria-current="page">Universe</span>
+    </nav>
+
+    <header class="page-head">
+      <h1>Universe</h1>
+      <p class="tagline">Dunia-dunia tempat serial Kidung hidup — setiap universe punya kanon, garis waktu, dan urutan baca sendiri.</p>
+    </header>
+
+    {universes.length > 0 ? (
+      <div class="universe-grid">
+        {universes.map((u) => (
+          <a href={`/universe/${u.slug}`} class="universe-card">
+            <div class="universe-card-body">
+              <h2>{u.title}</h2>
+              <p class="card-genre muted">{u.genre}</p>
+              <p class="card-meta">
+                <span class="badge badge-universe">{u.status}</span>
+                <span class="dim">
+                  {u.seriesCount} {u.seriesCount === 1 ? 'novel' : 'novel'} dalam serial
+                </span>
+              </p>
+              <span class="card-cta">Buka Universe →</span>
+            </div>
+          </a>
+        ))}
+      </div>
+    ) : (
+      <p class="empty">Belum ada universe terdaftar.</p>
+    )}
+  </div>
+
+  <style>
+    .breadcrumb {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      font-size: 0.875rem;
+      margin-bottom: 2rem;
+      color: var(--text-muted);
+    }
+
+    .breadcrumb a {
+      color: var(--accent);
+      transition: opacity 200ms ease;
+    }
+
+    .breadcrumb a:hover {
+      opacity: 0.8;
+    }
+
+    .page-head {
+      margin-bottom: 3rem;
+    }
+
+    h1 {
+      font-size: clamp(2.25rem, 5vw, 3.25rem);
+      color: var(--accent);
+      font-family: var(--font-display);
+      margin-bottom: 0.75rem;
+    }
+
+    .tagline {
+      font-size: 1.125rem;
+      color: var(--text-muted);
+      max-width: 56ch;
+      line-height: 1.65;
+    }
+
+    .universe-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 1.5rem;
+    }
+
+    .universe-card {
+      display: block;
+      background: var(--bg-elev);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg);
+      padding: 1.75rem;
+      text-decoration: none;
+      transition: all 220ms ease;
+    }
+
+    .universe-card:hover {
+      border-color: var(--accent);
+      box-shadow: var(--shadow);
+      transform: translateY(-2px);
+    }
+
+    .universe-card h2 {
+      font-family: var(--font-display);
+      font-size: 1.75rem;
+      color: var(--text);
+      margin-bottom: 0.5rem;
+    }
+
+    .card-genre {
+      font-size: 0.8125rem;
+      text-transform: uppercase;
+      letter-spacing: 0.03em;
+      font-weight: 500;
+      margin-bottom: 1.25rem;
+    }
+
+    .card-meta {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      flex-wrap: wrap;
+      font-size: 0.875rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .card-cta {
+      font-weight: 600;
+      color: var(--accent);
+      font-size: 0.9375rem;
+    }
+
+    .empty {
+      color: var(--text-muted);
+      padding: 2rem 0;
+    }
+  </style>
+</BaseLayout>

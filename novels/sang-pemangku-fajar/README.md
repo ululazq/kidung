@@ -2,6 +2,7 @@
 title: "Sang Pemangku Fajar"
 slug: "sang-pemangku-fajar"
 universe: "Kidungverse"
+order: 16
 genre: "Action Fantasy / Romance"
 tone: "Fajar, panteon, harapan, cahaya di tengah kegelapan"
 protagonist: "Caelen Voss, Pemangku Fajar pertama dalam 1.000 tahun"

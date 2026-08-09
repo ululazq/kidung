@@ -2,6 +2,7 @@
 title: "Lantern of Night"
 slug: "lantern-of-night"
 universe: "Kidungverse"
+order: 4
 genre: "Urban Fantasy / Mystery"
 tone: "Moody, atmospheric, subtle supernatural"
 protagonist: "Mila, penjaga lentera malam (vessel ber-nama setengah)"

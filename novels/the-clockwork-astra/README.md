@@ -2,6 +2,7 @@
 title: "The Clockwork Astra"
 slug: "the-clockwork-astra"
 universe: "Kidungverse"
+order: 9
 genre: "Dark Fantasy / Steampunk Urban"
 tone: "Lembap, gothic-industrial, hemat kata, getir"
 protagonist: "Edward Vance, pengerajin jam & mantan insinyur Kerajaan"

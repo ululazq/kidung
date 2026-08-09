@@ -1,6 +1,6 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro'
-import { getNovels, getNovel, getUniverseSeries, readingMinutes } from '../../lib/novels'
+import { getNovels, getNovel, getUniverseSeries, getUniverseSlug, readingMinutes } from '../../lib/novels'
 
 export async function getStaticPaths() {
   const novels = await getNovels()
@@ -19,6 +19,7 @@ const totalMinutes = readingMinutes(novel.totalWords)
 const avgPerChapter = Math.round(novel.totalWords / novel.chapterCount)
 
 const series = novel.universe ? await getUniverseSeries(novel.universe) : []
+const universeSlug = novel.universe ? await getUniverseSlug(novel.universe) : null
 const seriesIndex = series.findIndex((n) => n.slug === novel.slug)
 const prequel = seriesIndex > 0 ? series[seriesIndex - 1]! : null
 const sequel =
@@ -66,9 +67,14 @@ const sequel =
             <span class="badge-dot" aria-hidden="true"></span>
             {novel.status}
           </span>
-          {novel.universe && (
-            <span class="badge badge-universe">{novel.universe}</span>
-          )}
+          {novel.universe &&
+            (universeSlug ? (
+              <a href={`/universe/${universeSlug}`} class="badge badge-universe">
+                {novel.universe}
+              </a>
+            ) : (
+              <span class="badge badge-universe">{novel.universe}</span>
+            ))}
           {novel.genreTags.map((tag) => (
             <span class="badge">{tag}</span>
           ))}

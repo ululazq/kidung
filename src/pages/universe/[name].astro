@@ -1,0 +1,589 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro'
+import { getUniverse, getUniverseSummaries, readingMinutes } from '../../lib/novels'
+
+export async function getStaticPaths() {
+  const universes = await getUniverseSummaries()
+  return universes.map((u) => ({ params: { name: u.slug } }))
+}
+
+const { name } = Astro.params
+
+const universe = await getUniverse(name!)
+if (!universe) return Astro.redirect('/404')
+
+// Per-universe visual flavor for the timeline nodes; falls back to genre/Buku N.
+const LAYER_BY_SLUG: Record<string, string> = {
+  'the-unbound': 'Skyreach',
+  bloodfall: 'Heartland',
+  'the-deep-vow': 'Underreach',
+  'the-rejoining': 'Konvergensi',
+}
+
+const totalChapters = universe.series.reduce((sum, n) => sum + n.chapterCount, 0)
+const totalWords = universe.series.reduce((sum, n) => sum + n.totalWords, 0)
+const startHref = universe.series[0]
+  ? `/chapter/${universe.series[0].slug}/chapter-1`
+  : null
+---
+
+<BaseLayout title={`${universe.title} · Universe`} description={universe.description}>
+  <div class="container">
+    <nav aria-label="Breadcrumb" class="breadcrumb">
+      <a href="/">Beranda</a>
+      <span aria-hidden="true">/</span>
+      <a href="/universe">Universe</a>
+      <span aria-hidden="true">/</span>
+      <span aria-current="page">{universe.title}</span>
+    </nav>
+
+    <header class="universe-hero">
+      <h1>{universe.title}</h1>
+      <div class="badges">
+        <span class="badge badge-universe">{universe.status}</span>
+        <span class="badge">{universe.genre}</span>
+        <span class="badge">
+          {universe.series.length} {universe.series.length === 1 ? 'novel' : 'novel'}
+        </span>
+        <span class="badge">
+          {totalChapters} bab · {totalWords.toLocaleString('id-ID')} kata
+        </span>
+      </div>
+    </header>
+
+    {universe.description && (
+      <p class="universe-desc">{universe.description}</p>
+    )}
+
+    {universe.series.length > 0 ? (
+      <section class="series-section">
+        <div class="section-head">
+          <h2>Serial — Urutan Baca</h2>
+          {startHref && (
+            <a href={startHref} class="btn btn-primary">Mulai dari Awal →</a>
+          )}
+        </div>
+
+        <div class="timeline-track" id="timeline-track" aria-label="Timeline urutan baca serial">
+          {universe.series.map((novel, i) => (
+            <button
+              class="tl-node"
+              data-index={i}
+              aria-pressed={i === 0}
+              aria-label={`Lompat ke ${novel.title}`}
+            >
+              <span class="tl-dot">{novel.order}</span>
+              <span class="tl-title">{novel.title}</span>
+              <span class="tl-tag">
+                {LAYER_BY_SLUG[novel.slug] ?? novel.genreTags[0] ?? `Buku ${novel.order}`}
+              </span>
+            </button>
+          ))}
+        </div>
+
+        <div class="timeline-detail" id="timeline-detail">
+          {universe.series.map((novel, i) => {
+            const minutes = readingMinutes(novel.totalWords)
+            const firstParagraph =
+              novel.description.split(/\n+/)[0]?.trim() || novel.description
+            const coverUrl = novel.cover ? `/covers/${novel.cover}` : null
+            return (
+              <article class="tl-card" id={`tl-card-${i}`} data-index={i} tabindex="-1">
+                <div class="tl-card-grid">
+                  {coverUrl && (
+                    <img
+                      src={coverUrl}
+                      alt={`Cover ${novel.title}`}
+                      class="tl-cover"
+                      loading="lazy"
+                    />
+                  )}
+                  <div class="tl-card-body">
+                    <div class="tl-card-head">
+                      <span class="tl-booknum">Buku {novel.order}</span>
+                      <span
+                        class={`badge ${novel.status === 'Complete' ? 'badge-complete' : 'badge-progress'}`}
+                      >
+                        <span class="badge-dot" aria-hidden="true"></span>
+                        {novel.status}
+                      </span>
+                    </div>
+                    <h3>{novel.title}</h3>
+                    <p class="tl-synopsis">{firstParagraph}</p>
+                    <p class="tl-stats">
+                      {novel.chapterCount} bab · {novel.totalWords.toLocaleString('id-ID')} kata ·
+                      ~{minutes} menit baca
+                    </p>
+                    <div class="tl-actions">
+                      <a href={`/chapter/${novel.slug}/chapter-1`} class="btn btn-primary">
+                        Mulai Baca
+                      </a>
+                      <a href={`/novel/${novel.slug}`} class="btn">Lihat Novel</a>
+                    </div>
+                  </div>
+                </div>
+              </article>
+            )
+          })}
+        </div>
+      </section>
+    ) : (
+      <p class="universe-desc">Belum ada novel terdaftar untuk universe ini.</p>
+    )}
+
+    <section class="canon-section">
+      <h2>Tentang {universe.title}</h2>
+      <div class="prose" set:html={universe.summaryHtml} />
+    </section>
+
+    {universe.docs.length > 0 && (
+      <section class="canon-docs">
+        <h2>Dokumen Kanon</h2>
+        <p class="muted">
+          Referensi resmi universe — kosmologi, sistem kekuatan, faksi, dan garis waktu.
+        </p>
+        {universe.docs.map((doc) => (
+          <details class="doc-accordion">
+            <summary>{doc.name}</summary>
+            <div class="prose" set:html={doc.html} />
+          </details>
+        ))}
+      </section>
+    )}
+  </div>
+
+  <style>
+    .breadcrumb {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      font-size: 0.875rem;
+      margin-bottom: 2rem;
+      color: var(--text-muted);
+    }
+
+    .breadcrumb a {
+      color: var(--accent);
+      transition: opacity 200ms ease;
+    }
+
+    .breadcrumb a:hover {
+      opacity: 0.8;
+    }
+
+    .universe-hero {
+      margin-bottom: 2.5rem;
+    }
+
+    h1 {
+      font-size: clamp(2.25rem, 5vw, 3.5rem);
+      margin-bottom: 1rem;
+      line-height: 1.15;
+      color: var(--accent);
+      font-family: var(--font-display);
+    }
+
+    .badges {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+    }
+
+    .badge-universe {
+      border-color: color-mix(in srgb, var(--accent) 55%, transparent);
+      background: color-mix(in srgb, var(--accent) 14%, transparent);
+      color: var(--accent);
+      font-weight: 600;
+    }
+
+    .universe-desc {
+      font-size: 1.125rem;
+      line-height: 1.7;
+      color: var(--text-muted);
+      margin-bottom: 3rem;
+      max-width: 62ch;
+    }
+
+    .series-section {
+      margin-bottom: 4.5rem;
+    }
+
+    .section-head {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1rem;
+      flex-wrap: wrap;
+      margin-bottom: 2rem;
+    }
+
+    h2 {
+      font-family: var(--font-display);
+      font-size: 1.75rem;
+      color: var(--text);
+    }
+
+    .timeline-track {
+      position: relative;
+      display: flex;
+      gap: 0.25rem;
+      overflow-x: auto;
+      padding: 0.25rem 0.5rem 1.25rem;
+      scrollbar-width: thin;
+    }
+
+    .timeline-track::before {
+      content: '';
+      position: absolute;
+      left: 3.5rem;
+      right: 3.5rem;
+      top: 1.75rem;
+      height: 2px;
+      background: var(--border-strong);
+      z-index: 0;
+    }
+
+    .tl-node {
+      position: relative;
+      z-index: 1;
+      flex: 1 0 auto;
+      min-width: 8rem;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.5rem;
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      cursor: pointer;
+      font: inherit;
+      text-align: center;
+      border-radius: var(--radius);
+    }
+
+    .tl-node:hover {
+      color: var(--text);
+    }
+
+    .tl-dot {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 3.5rem;
+      height: 3.5rem;
+      border-radius: 50%;
+      background: var(--bg);
+      border: 2px solid var(--border-strong);
+      font-family: var(--font-display);
+      font-size: 1.15rem;
+      font-weight: 700;
+      color: var(--text-dim);
+      transition: all 220ms ease;
+    }
+
+    .tl-node:hover .tl-dot,
+    .tl-node[aria-pressed='true'] .tl-dot {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: var(--accent-contrast);
+      box-shadow: 0 0 0 4px color-mix(in srgb, var(--accent) 22%, transparent);
+    }
+
+    .tl-title {
+      font-size: 0.875rem;
+      font-weight: 600;
+      color: var(--text);
+      line-height: 1.3;
+    }
+
+    .tl-tag {
+      font-size: 0.6875rem;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      color: var(--text-dim);
+      background: var(--bg-elev);
+      border: 1px solid var(--border);
+      padding: 0.15rem 0.55rem;
+      border-radius: 999px;
+      white-space: nowrap;
+    }
+
+    .timeline-detail {
+      display: flex;
+      flex-direction: column;
+      gap: 1.25rem;
+      margin-top: 2.5rem;
+    }
+
+    .tl-card {
+      background: var(--bg-elev);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg);
+      padding: 1.75rem;
+      scroll-margin-top: 6rem;
+      transition: border-color 220ms ease, box-shadow 220ms ease;
+    }
+
+    .tl-card.active {
+      border-color: var(--accent);
+      box-shadow:
+        0 0 0 1px color-mix(in srgb, var(--accent) 45%, transparent),
+        var(--shadow);
+    }
+
+    .tl-card-grid {
+      display: grid;
+      grid-template-columns: 120px 1fr;
+      gap: 1.75rem;
+      align-items: start;
+    }
+
+    .tl-cover {
+      width: 120px;
+      aspect-ratio: 2 / 3;
+      object-fit: cover;
+      border-radius: var(--radius);
+      border: 1px solid var(--border);
+      box-shadow: var(--shadow);
+    }
+
+    .tl-card-head {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      flex-wrap: wrap;
+      margin-bottom: 0.5rem;
+    }
+
+    .tl-booknum {
+      font-family: var(--font-display);
+      font-weight: 700;
+      color: var(--accent);
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      font-size: 0.8125rem;
+    }
+
+    .tl-card h3 {
+      font-size: 1.5rem;
+      margin-bottom: 0.75rem;
+    }
+
+    .tl-synopsis {
+      color: var(--text-muted);
+      line-height: 1.65;
+      margin-bottom: 1rem;
+    }
+
+    .tl-stats {
+      font-size: 0.875rem;
+      color: var(--text-dim);
+      margin-bottom: 1.25rem;
+    }
+
+    .tl-actions {
+      display: flex;
+      gap: 0.75rem;
+      flex-wrap: wrap;
+    }
+
+    .canon-section {
+      margin-bottom: 4rem;
+    }
+
+    .canon-section h2 {
+      margin-bottom: 1.5rem;
+    }
+
+    .canon-docs h2 {
+      margin-bottom: 0.5rem;
+    }
+
+    .canon-docs .muted {
+      margin-bottom: 1.5rem;
+    }
+
+    .doc-accordion {
+      background: var(--bg-elev);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      margin-bottom: 0.75rem;
+      overflow: hidden;
+    }
+
+    .doc-accordion summary {
+      padding: 1rem 1.25rem;
+      font-weight: 600;
+      color: var(--text);
+      cursor: pointer;
+      list-style: none;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1rem;
+      transition: background 200ms ease;
+    }
+
+    .doc-accordion summary::-webkit-details-marker {
+      display: none;
+    }
+
+    .doc-accordion summary::after {
+      content: '+';
+      font-size: 1.25rem;
+      color: var(--accent);
+      transition: transform 220ms ease;
+    }
+
+    .doc-accordion[open] summary::after {
+      transform: rotate(45deg);
+    }
+
+    .doc-accordion summary:hover {
+      background: var(--bg-elev-2);
+    }
+
+    .doc-accordion .prose {
+      padding: 0 1.5rem 1.5rem;
+      border-top: 1px solid var(--border);
+      font-family: var(--font-reading);
+      font-size: 1rem;
+      line-height: 1.75;
+      color: var(--text);
+    }
+
+    .prose :global(p) {
+      margin-bottom: 1.5em;
+    }
+
+    .prose :global(h2),
+    .prose :global(h3) {
+      font-family: var(--font-display);
+      margin-top: 2em;
+      margin-bottom: 0.9em;
+      color: var(--accent);
+    }
+
+    .prose :global(h2) {
+      font-size: 1.5em;
+    }
+
+    .prose :global(h3) {
+      font-size: 1.25em;
+    }
+
+    .prose :global(em) {
+      font-style: italic;
+      color: var(--text-muted);
+    }
+
+    .prose :global(strong) {
+      font-weight: 600;
+      color: var(--text);
+    }
+
+    .prose :global(blockquote) {
+      margin: 2em 0;
+      padding-left: 1.5em;
+      border-left: 4px solid var(--accent);
+      color: var(--text-muted);
+      font-style: italic;
+    }
+
+    .prose :global(ul),
+    .prose :global(ol) {
+      margin: 1.5em 0;
+      padding-left: 1.75em;
+    }
+
+    .prose :global(li) {
+      margin-bottom: 0.5em;
+    }
+
+    .prose :global(hr) {
+      margin: 3em 0;
+      border: none;
+      border-top: 1px solid var(--border);
+    }
+
+    .prose :global(table) {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 1.5em 0;
+      font-size: 0.9375rem;
+    }
+
+    .prose :global(th),
+    .prose :global(td) {
+      border: 1px solid var(--border);
+      padding: 0.5rem 0.75rem;
+      text-align: left;
+      vertical-align: top;
+    }
+
+    .prose :global(th) {
+      background: var(--bg-elev-2);
+      color: var(--text);
+      font-weight: 600;
+    }
+
+    .prose :global(a) {
+      color: var(--accent);
+    }
+
+    @media (max-width: 640px) {
+      .tl-card-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .tl-cover {
+        width: 140px;
+      }
+
+      .section-head {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+    }
+  </style>
+
+  <script>
+    const nodes = Array.from(document.querySelectorAll<HTMLButtonElement>('.tl-node'))
+    const cards = Array.from(document.querySelectorAll<HTMLElement>('.tl-card'))
+
+    function activate(index: number) {
+      nodes.forEach((node, i) => {
+        node.setAttribute('aria-pressed', String(i === index))
+      })
+      cards.forEach((card, i) => {
+        card.classList.toggle('active', i === index)
+      })
+      const target = cards[index]
+      if (target) {
+        target.scrollIntoView({ behavior: 'smooth', block: 'nearest' })
+        target.focus({ preventScroll: true })
+      }
+    }
+
+    nodes.forEach((node, index) => {
+      node.addEventListener('click', () => activate(index))
+    })
+
+    // Keep the active card in sync with the reader's position.
+    if ('IntersectionObserver' in window && cards.length > 0) {
+      const observer = new IntersectionObserver(
+        (entries) => {
+          for (const entry of entries) {
+            if (entry.isIntersecting) {
+              const i = Number((entry.target as HTMLElement).dataset.index)
+              if (!Number.isNaN(i)) activate(i)
+            }
+          }
+        },
+        { rootMargin: '-35% 0px -55% 0px' },
+      )
+      cards.forEach((card) => observer.observe(card))
+    }
+  </script>
+</BaseLayout>

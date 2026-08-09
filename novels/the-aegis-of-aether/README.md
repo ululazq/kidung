@@ -1,7 +1,8 @@
 ---  
 title: "The Aegis of Aether"  
 slug: "the-aegis-of-aether"  
-universe: "Kidungverse"  
+universe: "Kidungverse"
+order: 11
 genre: "Steampunk / Action Urban Fantasy"  
 tone: "High-octane, atmospheric, kinetic, dark steampunk urban fantasy"  
 protagonist: "Elian Vance, peretas perisai energi & mekanik zirah tempa"  

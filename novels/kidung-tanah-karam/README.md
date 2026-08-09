@@ -2,6 +2,7 @@
 title: "Kidung Tanah Karam"
 slug: "kidung-tanah-karam"
 universe: "Kidungverse"
+order: 12
 genre: "Folk Horror / Dark Fantasy"
 tone: "Lembap, muram, elegis, getir"
 language: "Indonesian"

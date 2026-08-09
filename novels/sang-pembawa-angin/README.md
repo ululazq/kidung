@@ -2,6 +2,7 @@
 title: "Sang Pembawa Angin"
 slug: "sang-pembawa-angin"
 universe: "Kidungverse"
+order: 17
 genre: "Action Fantasy / Romance"
 tone: "Gurun, angin, janji, hangat di tengah badai"
 protagonist: "Aldric, pembawa Angin Terakhir yang kekuatannya tumbuh dari janji yang ia tepati"
