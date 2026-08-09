@@ -8,7 +8,7 @@ Cover novel pertama universe **Skyroot**. Kanon visual: dunia vertikal tiga lapi
 
 **Format**: potret 880×1184 (rasio 3:4), gaya lukisan digital epik, palet langit — biru senja tua (#0a1830), amber horizon (#c98a52), putih awan, emas kusam, satu aksen oranye menyala (Mark).
 
-**Subjek utama**: **Sorin** (15), kurus, rambut diterpa angin, jubah Lightermen kasar — dilihat dari belakang, berdiri di dek kapal angkut (the Gullsong), tangan kanan terulur ke depan ke arah jurang awan. Telapak tangannya menyala **garis-garis emas membentuk kompas**; jarumnya **miring ke bawah**, bukan ke atas. Ekspresi tidak terlihat (punggung), tapi postur tegang-berani — anak yang sedang memilih untuk turun.
+**Subjek utama**: **Sorin** (15), kurus, rambut diterpa angin, jubah Lightermen kasar — berdiri di dek kapal angkut (the Gullsong), tubuh tiga perempat: punggung sebagian terlihat, badan berputar sehingga sisi kirinya menghadap penonton. **Tangan kiri** terulur ke depan ke arah jurang awan, **telapak menghadap ke arah penonton** — di telapaknya menyala **garis-garis emas membentuk kompas**; jarumnya **miring ke bawah**, bukan ke atas. Ekspresi sebagian terlihat (profil), postur tegang-berani — anak yang sedang memilih untuk turun.
 
 **Latar**: dek kayu kapal angkut di tepi pulau terapung, tali-temali dan layar robek berkibar di angin; di bawah: laut awan terbuka dengan celah yang memperlihatkan **cahaya Heartland jauh di dasar**; di kejauhan: **Sunpillar** — poros gelap vertikal dengan titik-titik lampu — dan satu **pulau pecah jatuh** (the Falls).
 
