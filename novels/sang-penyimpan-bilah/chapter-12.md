@@ -13,7 +13,7 @@ Ren berdiri di halaman itu pada pagi pertama, menatap barisan murid-muridnya: du
 
 "Selamat pagi," kata Ren. "Nama ku Ren Vael. Dan selama sepuluh tahun, aku memegang sebilah bilah yang tidak pernah kucabut. Hari ini, aku akan mengajari kalian mengapa."
 
-Seorang anak — laki-laki kecil dengan rambut acak-acakan, yang menatap Ren dengan mata yang berbinar — mengangkat tangannya. "Bang Ren! Benarkah Bang pernah menang melawan seratus orang tanpa mencabut?"
+Seorang anak — laki-laki kecil dengan rambut acak-acakan, yang menatap Ren dengan mata yang berbinar — mengangkat tangannya. "Kak Ren! Benarkah Kak pernah menang melawan seratus orang tanpa mencabut?"
 
 Ren tersenyum. "Tidak. Aku menang melawan satu orang. Beberapa kali. Dan aku tidak pernah mencabut."
 
@@ -93,7 +93,7 @@ Vorn menatap anak itu — lalu berlutut, sejajar dengan matanya, dan menunjukkan
 
 Anak itu menatap sarung itu dengan mata yang berbinar. "Kalau begitu, aku juga mau punya sarung yang tidur!"
 
-Vorn tertawa — tawa yang hangat, tawa yang tidak akan pernah ia keluarkan dua puluh tahun lalu. "Kalau begitu, kau harus belajar dari Bang Ren. Ia adalah Penjaga Sarung terbaik yang pernah dimiliki Kaelvora."
+Vorn tertawa — tawa yang hangat, tawa yang tidak akan pernah ia keluarkan dua puluh tahun lalu. "Kalau begitu, kau harus belajar dari Kak Ren. Ia adalah Penjaga Sarung terbaik yang pernah dimiliki Kaelvora."
 
 ---
 
@@ -139,19 +139,19 @@ Keesokan paginya, Ren berdiri di halaman akademi, menatap murid-muridnya yang mu
 
 Seorang anak — laki-laki kecil dengan rambut acak-acakan, yang menatap Ren dengan mata yang berbinar — mengangkat tangannya.
 
-"Bang Ren! Kapan Bang akan mencabut?"
+"Kak Ren! Kapan Kak akan mencabut?"
 
 Ren menatap sarung kosong di pinggangnya. Lalu ia tersenyum — senyum yang tenang, senyum yang damai, senyum orang yang akhirnya mengerti.
 
 "Barangkali tidak akan pernah," katanya. "Dan itu bukan hal yang buruk. Karena kau tahu, anak-anak — ada kekuatan yang tidur di dalam sarung, dan ada kekuatan yang lebih besar: kekuatan yang memilih untuk tidak pernah bangun kecuali untuk alasan yang benar."
 
-"Tetapi kalau Bang tidak pernah mencabut," tanya anak lain, "bagaimana Bang bisa mengajari kami bertarung?"
+"Tetapi kalau Kak tidak pernah mencabut," tanya anak lain, "bagaimana Kak bisa mengajari kami bertarung?"
 
 "Aku tidak mengajari kalian bertarung." Ren menatap mereka satu per satu. "Aku mengajari kalian melindungi. Dan untuk melindungi, kalian tidak perlu mencabut. Kalian hanya perlu tahu kapan — dan untuk siapa."
 
 Anak-anak itu terdiam, mencoba memahami. Dan di antara mereka, anak laki-laki kecil dengan rambut acak-acakan itu menatap sarung kosong di pinggang Ren — dan untuk sesaat, di matanya, ada kilau pemahaman yang baru lahir.
 
-"Kalau begitu," katanya pelan, "aku ingin belajar menjadi seperti Bang. Aku ingin belajar menyimpan."
+"Kalau begitu," katanya pelan, "aku ingin belajar menjadi seperti Kak. Aku ingin belajar menyimpan."
 
 Ren tersenyum. "Dan itulah pelajaran pertama kita hari ini, anak-anak."
 

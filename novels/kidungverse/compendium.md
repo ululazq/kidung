@@ -194,6 +194,24 @@ Universe fantasi **terpisah** dari Bawah-Batavia — sistem level RPG diegetik (
 
 ---
 
+## 11. Sapaan & Register Bahasa
+
+Register sapaan mengikuti **setting** novel, bukan dipukul rata per universe — tetapi wajib konsisten di dalam satu novel dan tidak memakai istilah dari setting lain (audit sapaan 2026-08-10).
+
+**Bawah-Batavia / urban modern (Kidungverse):** `Bu`/`Pak` (orang tua & orang lebih tua), `Ayah` (ayah kandung — emosional), `Kak`/`Dik` (kakak-adik), `Guru` (mentor), `Empu` (gelar penempa tinggi — sah dipakai sebagai sapaan vokatif: "Terima kasih, Empu"), `Tuan`/`Nona`/`Nyonya` (formal kolonial, setting Batavia), `Mak` (Betawi — ibu / wanita tua, prefiks nama: `Mak Tini`), `Bos` (urban).
+
+**Vokatif mentor mengikuti gelar karakter:** `Master X` → dipanggil `Master` (the-aegis-of-aether: "Terima kasih, Master" ×6; sang-penyimpan-bilah diseragamkan 2026-08-10 — "Maaf mengganggu, Master"); `Empu X` → dipanggil `Empu` (sang-pembawa-pelita: "Terima kasih, Empu"); mentor tanpa gelar → `Guru` (the-copper-relic, the-resonance-blade, the-astral-sovereign, sang-pembawa-angin, the-last-teacher). Jangan mencampur vokatif di dalam satu novel.
+
+**Fantasi non-Batavia (Kaelvora, xianxia, tiga kerajaan, armada langit):** `Guru` (mentor), `Kak`/`Dik` (kakak-adik), `Ayah`/`Bu`, `Tuan`/`Nona` (formal — the-godherd), `Yang Mulia` (raja — sang-penyimpan-bilah). **Jangan** pakai istilah Betawi/urban (`Bang`) atau Jawa di setting non-Jawa — `Bang` di sang-penyimpan-bilah diseragamkan menjadi `Kak` (2026-08-10).
+
+**Register Jawa (kidung-tanah-karam kanon 2026-08-09; dipakai juga di pasar-subuh, tangan-guntur, gods-in-jars/Mbok Darmi):** vokatif dan prefiks nama selalu kapital — `Mbak`, `Bu`, `Pak`, `Nyai`, `Mbah`, `Nduk`, `Mas`, `Bos`, `Din`. Prefiks + nama selalu kapital bahkan saat referensial: `Mbak Ayu`, `Bu Rukmi`, `Pak Modin`, `Nyai Larasati`, `Mbah Warsiti`, `Lek Parjo`. Kecil hanya kata benda umum tanpa nama: `mbak yang bawa mesin`, `mbah saya` (posesif).
+
+**Auren (fantasi barat):** `Tuan` (sir), `Nyonya` (wanita tua/nyonya), `Ayah` (ayah), `Yang Mulia` (bangsawan). Tidak ada `Kak`/`Bang`/`Dik`/`Mas`.
+
+**Skyroot (nusantara kapal/arsipelago):** `nak` (sapaan akrab), `Bu`/`Pak`, `Ayah`, `Kapten` (kapal), `Mak` (gelar wanita tua: `Mak Darmi`). Tidak ada istilah Jawa/Betawi lain.
+
+---
+
 ## Kaidah Lintas Novel
 
 1. **Kosakata bersama** (Bawah-Batavia, Aether, godframe, ketukan 2-1, Lupa Corp, Sangha, kanal, Gang Kuningan/Tembaga) boleh dipakai bebas di novel mana pun.

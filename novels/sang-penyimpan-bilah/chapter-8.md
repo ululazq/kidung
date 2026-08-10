@@ -153,7 +153,7 @@ Dan di samping Vorn, dengan tangan terikat dan wajah yang pucat, berdiri Halvard
 
 Halvard berdiri tegak di samping Vorn, wajahnya tenang — lebih tenang daripada yang seharusnya. "Ren," katanya, suaranya jernih. "Jangan dengarkan dia. Lakukan apa yang harus kau lakukan."
 
-"Guru, kau di sini—"
+"Master, kau di sini—"
 
 "Ren." Mata Halvard menemukan matanya. "Bilah yang tidur adalah bilah yang paling berbahaya. Kau ingat?"
 
@@ -175,11 +175,11 @@ Dan di dalam dada Ren, sesuatu yang telah tidur selama sepuluh tahun — sesuatu
 
 Ren berlari. Ia berlari melewati para penjaga yang terpana oleh kekejaman tuannya sendiri, melompati tubuh-tubuh yang menghalangi, dan jatuh berlutut di samping Halvard. Darah membasahi jubah cokelat sang guru — tetapi Halvard masih bernapas. Samar, tetapi bernapas.
 
-"Guru." Suara Ren pecah. "Guru, tahan. Aku akan—"
+"Master." Suara Ren pecah. "Master, tahan. Aku akan—"
 
 "Tidak." Tangan Halvard yang bergetar meraih lengan Ren. Matanya — masih tajam, masih melihat segalanya — menemukan wajah Ren di tengah kegelapan malam. "Dengarkan aku, Ren. Hanya sekali. Karena aku tidak punya waktu untuk mengulanginya."
 
-"Guru—"
+"Master—"
 
 "Jangan cabut karena marah." Kata-kata itu keluar pelan, tetapi jelas — jelas seperti sepuluh tahun lalu, ketika ia pertama kali menaruh bilah itu di tangan anak berusia dua belas tahun. "Kau sudah membayar harganya sekali. Jangan bayar lagi. Bukan untukku. Untuk Yara. Untuk Kaelvora. Untuk alasan yang benar."
 

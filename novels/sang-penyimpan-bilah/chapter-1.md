@@ -63,7 +63,7 @@ Bayar terdiam lama. Lalu, perlahan, ia tertawa — tawa kering, getir, dan anehn
 
 Kerumunan masih hening ketika Ren berjalan meninggalkan lapangan. Sesuatu di udara terasa berubah — bukan seperti kemenangan, melainkan seperti awal dari sesuatu yang tidak akan bisa ia kendalikan.
 
-Seorang anak laki-laki kecil berlari mengejarnya, memegang lengan bajunya. "Bang! Bang, benarkah pedangmu tidak pernah dicabut?"
+Seorang anak laki-laki kecil berlari mengejarnya, memegang lengan bajunya. "Kak! Kak, benarkah pedangmu tidak pernah dicabut?"
 
 Ren berlutut sejajar dengan anak itu. "Benar."
 
@@ -109,7 +109,7 @@ Ren menatap Halvard, lalu kembali ke Yara. "Kau... mengenalnya?"
 
 Yara tersenyum — senyum yang tidak sampai ke matanya. "Bilah legendaris yang hanya tajam ketika tersarung? Seluruh kekaisaran mengenalnya. Aku hanya ingin melihatnya." Ia mengulurkan tangan, tetapi tidak menyentuh sarung itu. Jari-jarinya berhenti satu inci di atas kulit tua itu, seperti orang yang berdiri di tepi tebing. "Boleh?"
 
-Ren menoleh ke Halvard, mencari izin. Guru itu diam sejenak, lalu mengangguk pelan.
+Ren menoleh ke Halvard, mencari izin. Master itu diam sejenak, lalu mengangguk pelan.
 
 "Boleh," kata Ren.
 

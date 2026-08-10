@@ -71,7 +71,7 @@ Halvard menunggu di bawah pohon tua di halaman dalam, berpakaian seperti pedagan
 
 "Kulit adalah profesi yang bagus untuk menyembunyikan bilah." Halvard tersenyum tipis. "Dan kau — kau tampak seperti orang yang kehilangan sesuatu."
 
-Ren duduk di sebelahnya di bangku batu. "Aku mencabutnya, Guru."
+Ren duduk di sebelahnya di bangku batu. "Aku mencabutnya, Master."
 
 Halvard tidak terkejut. Ia menatap Ren lama, lalu berkata pelan: "Aku tahu. Aku bisa melihatnya dari caramu berdiri — seperti orang yang baru kehilangan lengan, tetapi masih merasakan sakit di tangan yang tidak ada."
 
@@ -83,7 +83,7 @@ Halvard tidak terkejut. Ia menatap Ren lama, lalu berkata pelan: "Aku tahu. Aku 
 
 "Karena itulah yang selalu terjadi pada orang yang melanggar aturannya sendiri." Halvard menatapnya. "Bilah tidak pernah berbohong, Ren. Ia tidak peduli pada alasanmu. Ia hanya merasakan tangan yang mencabutnya — dan tangan yang mencabut karena marah adalah tangan yang tidak bisa dipercaya."
 
-Ren menunduk. "Aku gagal, Guru. Aku menyimpan kekuatan itu selama sepuluh tahun, dan aku membuangnya dalam satu momen."
+Ren menunduk. "Aku gagal, Master. Aku menyimpan kekuatan itu selama sepuluh tahun, dan aku membuangnya dalam satu momen."
 
 "Kau tidak membuangnya." Halvard meletakkan tangannya di bahu Ren. "Kau belajar. Dan pembelajaran selalu datang dengan harga. Harga yang kau bayar malam itu bukan untuk menghancurkanmu — tetapi untuk mengajarimu sesuatu yang tidak bisa kuajarkan: bahwa bilah yang tidur bukanlah bilah yang aman. Bilah yang tidur adalah bilah yang menunggu. Dan menunggu itu sendiri adalah keputusan."
 
@@ -127,7 +127,7 @@ Ia menoleh ke arah pintu halaman, tempat dua pengawal mulai berjalan mendekat.
 
 "Kau punya tiga puluh detik," katanya. "Dan aku sudah tua, jadi jangan buat aku berlari."
 
-Ren menggenggam gulungan itu. "Terima kasih, Guru."
+Ren menggenggam gulungan itu. "Terima kasih, Master."
 
 "Jangan berterima kasih padaku." Halvard menatapnya sekali terakhir. "Lakukan sesuatu yang membuat sepuluh tahun tidak sia-sia."
 

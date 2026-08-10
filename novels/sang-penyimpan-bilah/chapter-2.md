@@ -11,7 +11,7 @@ Halvard keluar dari bengkel dengan membawa dua batang kayu — bukan bilah, hany
 
 "Hukum pertama," kata Halvard, tanpa pemanasan. "Sebuah bilah tidak pernah ingin dicabut."
 
-Ren menatap batang kayu itu. "Bilah tidak punya keinginan, Guru."
+Ren menatap batang kayu itu. "Bilah tidak punya keinginan, Master."
 
 "Bilah tidak punya. Pemiliknya punya." Halvard mengangkat kayunya ke posisi menyerang. "Dan selama dua puluh tahun aku mengasah bilah di istana, aku melihat ribuan pemilik yang mati karena satu keinginan itu: ingin mencabut. Serang aku."
 
@@ -111,7 +111,7 @@ Yara menahan tatapannya lebih lama dari yang nyaman. Lalu ia tertawa kecil — t
 
 Ia pergi tanpa menoleh. Ren menatap kepergiannya sampai sosoknya hilang di antara bayang-bayang sore.
 
-"Guru," katanya pelan, "siapa sebenarnya Yara?"
+"Master," katanya pelan, "siapa sebenarnya Yara?"
 
 Halvard diam lama. Lalu ia berkata, dengan suara yang sangat pelan: "Dulu, ia adalah pandai besi istana termuda dalam sejarah Kaelvora. Empat tahun lalu, ia menghilang. Kabarnya ia membelot. Tapi itu hanya kabar, Ren. Dan kabar, seperti bilah yang dicabut karena marah, jarang memuat kebenaran."
 
