@@ -103,7 +103,7 @@ Format: beat per bab. Jangan bocorkan beat ini ke prosa bab.
 
 ## Babak IV — Sembilan Lonceng (bab 14–16)
 
-### Bab 14: Sembilan Lonceng
+### Bab 14: Panen Kawanan
 **Status**: selesai
 - Mu Yuan memasuki wilayah rongga timur. Di sana ia menemukan **ratusan dewa kecil** yang kehilangan gembalanya — gerbang desa, jalan setapak, hujan kemarau, kambing... semuanya sekarat, ditinggal.
 - Ia menggembalakan mereka satu per satu (lonceng kelima–kedelapan). Dari kejauhan, **binatang roh akademi** (bab 6/8 pay-off) datang membawa dewa-dewa liar lain.

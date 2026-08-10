@@ -62,7 +62,7 @@ Genre: Action Fantasy. 10 bab. Setiap bab memiliki minimal satu pertarungan atau
 **Status**: belum
 
 **Status**: selesai
-## Bab 9 — Kebakaran Langit
+## Bab 9 — Naga Bumi
 **Beat**: Pertempuran klimaks. Naga Bumi mengamuk menyerang Kota Besi dan Gunung Candramuka. Rara menahan pasukan darat Kekaisaran dengan sisa kekuatannya. Bagas berhadapan dengan Bayangkara di udara. Bagas dipaksa *terbang penuh* ketiga kalinya — memanggil Api Surya terbesar. Bagas menguasai Sabetan Perdana Kakek Wiro, menembus perisai Bayangkara, dan memotong rantai pembendung Naga.
 **Aksi**: pertempuran udara epik menembus kobaran api Naga dan duel klimaks Bagas vs Bayangkara.
 **Tanam**: Sabetan Perdana penuh, pembakaran seluruh hidup Bagas.
@@ -70,7 +70,7 @@ Genre: Action Fantasy. 10 bab. Setiap bab memiliki minimal satu pertarungan atau
 **Status**: belum
 
 **Status**: selesai
-## Bab 10 — Fajar Nusakara
+## Bab 10 — Tanah yang Ditanami
 **Beat**: Setelah pertempuran. Naga Bumi kembali tertidur lelap di dasar bumi. Kekaisaran Tanah Hitam runtuh. Sari dibebaskan dari Menara Air Mata; Tandang selamat meski cacat berat, meminta maaf kepada Bagas dan Sari. Bagas hidup dengan rambut memutih penuh—membayar harga mahal terbang penuh—namun ia berdiri tegak sebagai pelindung langit Nusakara. Rara kembali ke desanya yang kini bebas.
 **Aksi**: peresmian tatanan baru penerbang Nusakara.
 **Tutup**: Bagas berdiri di puncak Gunung Candramuka bersama Sari dan Rara, menatap fajar baru Nusakara dengan senyuman tenang.

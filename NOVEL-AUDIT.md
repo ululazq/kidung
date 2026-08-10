@@ -49,6 +49,8 @@ Seluruh 43 outline kini memverifikasi status Complete dengan penanda per-bab yan
 - **Format bullet** (22 outline) — setiap bab diberi `**Status**: selesai` (langsung setelah header bab; format `## Bab` yang sudah memakai pola sang-garuda/tangan-guntur disisipkan di akhir blok).
 - **Format tabel** (5 outline) — kolom `Status` dengan `| selesai |` per baris: the-astral-sovereign (24), the-clockwork-astra (10, kolom beat-code di-rename `Status` → `Beat` lalu ditambah kolom `Status` selesai), the-neon-cipher (10, sama), pasar-subuh (10, kolom ditambah), pegadaian-bunga (12, sel kosong diisi).
 - Hasil: 322 penanda ditambahkan di format bullet + 64 baris tabel; nol outline tersisa yang belum memverifikasi. Sebelumnya: 13 tanpa penanda sama sekali + 14 parsial (daftar lama sudah usang).
+- **Verifikasi otomatis** (`scripts/check-novels.mjs`, `npm run verify`, pre-commit hook): selain penanda selesai, script memeriksa jumlah bab yang dideklarasikan outline (header `Bab N` / entri bernomor / baris tabel) = file bab di disk, frontmatter `chapter: N` = nama file, header bible `Terakhir diperbarui: bab N` = jumlah bab, band kata, dan continuity-report. Sinkron judul outline ↔ file dicetak sebagai peringatan (tidak menggagalkan).
+- **Sinkronisasi judul outline ↔ file** (`npm run verify`, peringatan): sang-pemangku-fajar bab 8–14 direstrukturisasi 2026-08-10 agar beat per bab selaras dengan bab yang terbit (outline lama terkompresi: file bab 7 = outline bab 7+8 lama, file bab 9 = outline bab 10+awal 11 lama, dst). Sisa peringatan kosmetik: the-godherd bab 8 (urutan kata judul).
 
 ## 4. Continuity report: 43/43 tuntas (2026-08-10)
 

@@ -1,7 +1,7 @@
 # Bible: Kidung Tanah Karam
 
-Terakhir diperbarui: bab 23
-Sudah diungkap ke pembaca sampai: bab 23
+Terakhir diperbarui: bab 24
+Sudah diungkap ke pembaca sampai: bab 24
 
 ## Kanon Nama
 

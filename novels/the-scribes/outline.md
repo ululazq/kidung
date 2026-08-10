@@ -62,14 +62,14 @@ POV third person terbatas — dari Aria (Vael muda). Penutup busur utama univers
 **Status**: selesai
 - Di hadapan semua pahlawan, Aria mengungkap alasan pergi; Thael berguncang — ia ingat, dan ia menangis; konfrontasi emosional; Thael mulai melepaskan.
 
-**Bab 14 — The Scribe Sung (klimaks)**
+**Bab 14 — The Answer**
 **Status**: selesai
 - Di hadapan Sang Penyanyi; Thael hampir menghapus keheningan; Aria bergabung dengan lagu — bukan sebagai penulis, tetapi sebagai bagian; sistem mencatat Vael (Gren); Thael melepaskan klaimnya; lagu tetap utuh; tidak ada yang dikorbankan.
 
-**Bab 15 — The New Verse**
+**Bab 15 — The Scribes**
 **Status**: selesai
 - Setelahnya — Vael tinggal, belajar menjadi bagian dunia; Aria dan Rian — romance selesai; class Aria: Scribe; Verak jembatan penuh.
 
-**Bab 16 — The Whole Song (epilog penutup busur)**
+**Bab 16 — The Story Continues**
 **Status**: selesai
 - Semua pahlawan universe Auren berkumpul (Arden, Elira, Rook, Gren, Wren, Eryx, Kiran, Iris, Vox, Aria, Rian); lagu yang utuh bernyanyi; penutup busur utama. Hook kecil: di luar sistem, sesuatu mendengar lagu yang selesai — pintu ke universe berikutnya terbuka.
