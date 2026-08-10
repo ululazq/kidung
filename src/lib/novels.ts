@@ -19,6 +19,7 @@ export interface NovelMeta {
   universe?: string
   order?: number
   language?: string
+  featured?: boolean
 }
 
 export interface ChapterRef {
@@ -155,6 +156,7 @@ export async function getNovels(): Promise<Novel[]> {
         universe: clean(data.universe) || undefined,
         order: typeof data.order === 'number' ? data.order : undefined,
         language: clean(data.language) || undefined,
+        featured: data.featured === true,
         chapters,
         chapterCount: chapters.length,
         totalWords: chapters.reduce((sum, c) => sum + c.words, 0),

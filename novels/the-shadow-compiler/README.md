@@ -10,6 +10,7 @@ status: "Complete"
 started: "2026-08-08"
 completed: "2026-08-09"
 language: "Indonesian"
+featured: true
 order: 1
 ---
 

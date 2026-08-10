@@ -5,6 +5,36 @@ import { getNovels, getAllGenres, getAllUniverses, readingMinutes } from '../lib
 const novels = await getNovels()
 const genres = await getAllGenres()
 const universes = await getAllUniverses()
+
+// --- Statistik perpustakaan (dihitung live, bukan hardcoded) ---
+const totalChapters = novels.reduce((sum, n) => sum + n.chapterCount, 0)
+const totalWords = novels.reduce((sum, n) => sum + n.totalWords, 0)
+const totalWordsLabel =
+  totalWords >= 1_000_000
+    ? `${(totalWords / 1_000_000).toLocaleString('id-ID', { maximumFractionDigits: 1 })} jt`
+    : `${Math.round(totalWords / 1000)} rb`
+
+// --- Novel sorotan: yang bertanda `featured: true`, fallback ke yang paling baru selesai ---
+const featured =
+  novels.find((n) => n.featured) ??
+  [...novels]
+    .filter((n) => n.completed)
+    .sort((a, b) => (b.completed ?? '').localeCompare(a.completed ?? ''))[0] ??
+  novels[0]
+
+// --- Genre populer untuk chip, sisanya masuk dropdown ---
+const POPULAR_GENRES = 6
+const genreCounts = new Map<string, number>()
+for (const novel of novels) {
+  for (const tag of novel.genreTags) {
+    genreCounts.set(tag, (genreCounts.get(tag) ?? 0) + 1)
+  }
+}
+const popularGenres = [...genreCounts.entries()]
+  .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))
+  .slice(0, POPULAR_GENRES)
+  .map(([tag]) => tag)
+const otherGenres = genres.filter((g) => !popularGenres.includes(g))
 ---
 
 <BaseLayout>
@@ -13,19 +43,48 @@ const universes = await getAllUniverses()
       <h1>Kidung</h1>
       <p class="tagline">Rumah cerita, rumah novel, rumah imajinasi</p>
 
+      <dl class="hero-stats" aria-label="Statistik perpustakaan">
+        <div class="stat">
+          <dt>{novels.length}</dt>
+          <dd>Novel</dd>
+        </div>
+        <div class="stat">
+          <dt>{totalChapters.toLocaleString('id-ID')}</dt>
+          <dd>Bab</dd>
+        </div>
+        <div class="stat">
+          <dt>{totalWordsLabel}</dt>
+          <dd>Kata</dd>
+        </div>
+        <div class="stat">
+          <dt>{universes.length}</dt>
+          <dd>Universe</dd>
+        </div>
+      </dl>
+
       <div class="search-filter">
         <input
           type="search"
           id="search"
-          placeholder="Cari judul atau protagonis..."
+          placeholder="Cari judul, protagonis, atau sinopsis..."
           aria-label="Cari novel"
         />
 
         <div class="genre-chips" role="group" aria-label="Filter genre">
           <button class="chip active" data-genre="all">Semua Genre</button>
-          {genres.map((g) => (
+          {popularGenres.map((g) => (
             <button class="chip" data-genre={g}>{g}</button>
           ))}
+          <select
+            id="genre-more"
+            class="chip-select"
+            aria-label="Genre lainnya"
+          >
+            <option value="all">Genre lainnya…</option>
+            {otherGenres.map((g) => (
+              <option value={g}>{g}</option>
+            ))}
+          </select>
         </div>
 
         {universes.length > 0 && (
@@ -39,12 +98,42 @@ const universes = await getAllUniverses()
       </div>
     </header>
 
+    {featured && (
+      <a href={`/novel/${featured.slug}`} class="featured-card">
+        {featured.cover && (
+          <img
+            src={`/covers/${featured.cover}`}
+            alt={`Cover ${featured.title}`}
+            class="featured-cover"
+          />
+        )}
+        <div class="featured-body">
+          <span class="featured-label">Sorotan</span>
+          <h2 class="featured-title">{featured.title}</h2>
+          <p class="card-genre muted">
+            {featured.genre}
+            {featured.universe && (
+              <span class="universe-mark"> · {featured.universe}</span>
+            )}
+          </p>
+          <p class="featured-desc">{featured.description}</p>
+          <span class="featured-cta">
+            Baca dari Awal
+            <svg width="18" height="18" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+              <path d="M7.21 14.77a.75.75 0 01.02-1.06L11.168 10 7.23 6.29a.75.75 0 111.04-1.08l4.5 4.25a.75.75 0 010 1.08l-4.5 4.25a.75.75 0 01-1.06-.02z" clip-rule="evenodd" />
+            </svg>
+          </span>
+        </div>
+      </a>
+    )}
+
     <div class="novel-grid" id="novel-grid">
       {novels.map((novel) => {
         const coverUrl = novel.cover
           ? `/covers/${novel.cover}`
           : null
-        const minutes = readingMinutes(novel.totalWords)
+        // Dua chapter terakhir, yang terbaru di atas — pola baris chapter ala tracker.
+        const recentChapters = novel.chapters.slice(-2).reverse()
 
         return (
           <article class="novel-card" data-tags={novel.genreTags.join(',')} data-universe={novel.universe ?? ''}>
@@ -73,23 +162,26 @@ const universes = await getAllUniverses()
               )}
 
               <div class="card-body">
-                <h2 class="card-title">{novel.title}</h2>
-                <p class="card-genre muted">
-                  {novel.genre}
-                  {novel.universe && <span class="universe-mark"> · {novel.universe}</span>}
-                </p>
-                <p class="card-desc dim">{novel.description}</p>
-
-                <div class="card-meta">
+                <div class="card-title-row">
                   <span class={`badge ${novel.status === 'Complete' ? 'badge-complete' : 'badge-progress'}`}>
                     <span class="badge-dot" aria-hidden="true"></span>
-                    {novel.status}
+                    {novel.status === 'Complete' ? 'Selesai' : novel.status}
                   </span>
-                  <span class="dim">
-                    {novel.chapterCount} bab · ~{minutes} menit
-                  </span>
+                  <h2 class="card-title">{novel.title}</h2>
+                </div>
+
+                <div class="chapter-rows">
+                  {recentChapters.map((ch) => (
+                    <div class="chapter-row">
+                      <span>Bab {ch.number}</span>
+                      <span class="dim">~{readingMinutes(ch.words)} mnt</span>
+                    </div>
+                  ))}
                 </div>
               </div>
+
+              {/* Tetap di DOM agar pencarian sinopsis tetap berfungsi. */}
+              <p class="card-desc dim" hidden>{novel.description}</p>
             </a>
           </article>
         )
@@ -104,25 +196,161 @@ const universes = await getAllUniverses()
   <style>
     .hero {
       text-align: center;
-      margin-bottom: 4rem;
+      margin-bottom: 3rem;
     }
 
     h1 {
-      font-size: clamp(2.5rem, 5vw, 4rem);
+      font-size: clamp(2.5rem, 6vw, 4.5rem);
       font-weight: 700;
       color: var(--accent);
       margin-bottom: 0.75rem;
+      letter-spacing: -0.02em;
     }
 
     .tagline {
       font-size: 1.15rem;
       color: var(--text-muted);
+      margin-bottom: 2rem;
+    }
+
+    .hero-stats {
+      display: flex;
+      justify-content: center;
+      gap: 2.5rem;
       margin-bottom: 3rem;
+      flex-wrap: wrap;
+    }
+
+    .hero-stats .stat {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0.15rem;
+    }
+
+    .hero-stats dt {
+      font-family: var(--font-display);
+      font-size: 2rem;
+      font-weight: 700;
+      color: var(--accent);
+      line-height: 1.1;
+    }
+
+    .hero-stats dd {
+      font-size: 0.8125rem;
+      color: var(--text-dim);
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      font-weight: 500;
     }
 
     .search-filter {
       max-width: 48rem;
       margin-inline: auto;
+    }
+
+    .chip-select {
+      padding: 0.5rem 1rem;
+      border: 1px solid var(--border-strong);
+      border-radius: 999px;
+      background: var(--bg-elev);
+      color: var(--text-muted);
+      font-size: 0.875rem;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all 200ms ease;
+    }
+
+    .chip-select:hover {
+      border-color: var(--accent);
+      color: var(--text);
+    }
+
+    .chip-select:focus-visible {
+      outline: 2px solid var(--ring);
+      outline-offset: 3px;
+    }
+
+    .featured-card {
+      display: grid;
+      grid-template-columns: 240px 1fr;
+      gap: 2rem;
+      align-items: center;
+      margin-bottom: 3.5rem;
+      padding: 1.5rem;
+      background: linear-gradient(
+        135deg,
+        color-mix(in srgb, var(--accent) 8%, var(--bg-elev)),
+        var(--bg-elev) 55%
+      );
+      border: 1px solid color-mix(in srgb, var(--accent) 35%, var(--border));
+      border-radius: var(--radius-lg);
+      text-decoration: none;
+      transition: all 220ms ease;
+    }
+
+    .featured-card:hover {
+      border-color: var(--accent);
+      box-shadow: var(--shadow);
+      transform: translateY(-2px);
+    }
+
+    .featured-cover {
+      width: 100%;
+      aspect-ratio: 2 / 3;
+      object-fit: cover;
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+    }
+
+    .featured-body {
+      min-width: 0;
+    }
+
+    .featured-label {
+      display: inline-block;
+      padding: 0.25rem 0.75rem;
+      border-radius: 999px;
+      background: var(--accent);
+      color: var(--accent-contrast);
+      font-size: 0.75rem;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      margin-bottom: 0.9rem;
+    }
+
+    .featured-title {
+      font-size: clamp(1.5rem, 3vw, 2.25rem);
+      margin-bottom: 0.4rem;
+    }
+
+    .featured-desc {
+      font-size: 1rem;
+      line-height: 1.6;
+      color: var(--text-muted);
+      margin-bottom: 1.25rem;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .featured-cta {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.7rem 1.3rem;
+      background: var(--accent);
+      color: var(--accent-contrast);
+      border-radius: var(--radius);
+      font-weight: 600;
+      font-size: 0.9375rem;
+      transition: background-color 200ms ease;
+    }
+
+    .featured-card:hover .featured-cta {
+      background: var(--accent-hover);
     }
 
     #search {
@@ -180,10 +408,12 @@ const universes = await getAllUniverses()
       font-weight: 600;
     }
 
+    /* Jumlah kolom dikunci eksplisit per breakpoint — tidak bertambah
+       saat viewport melebar (zoom out), mengikuti pola grid referensi. */
     .novel-grid {
       display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-      gap: 2rem;
+      grid-template-columns: repeat(6, 1fr);
+      gap: 1.25rem;
     }
 
     .novel-card {
@@ -220,17 +450,51 @@ const universes = await getAllUniverses()
     }
 
     .card-body {
-      padding: 1.25rem;
+      padding: 0.9rem;
+      min-width: 0;
+    }
+
+    .card-title-row {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      margin-bottom: 0.65rem;
     }
 
     .card-title {
-      font-size: 1.25rem;
+      font-size: 0.9375rem;
       font-weight: 700;
-      margin-bottom: 0.4rem;
       line-height: 1.3;
       color: var(--text);
+      min-width: 0;
     }
 
+    /* Dua baris chapter terakhir — pola ala tracker (nomor + durasi). */
+    .chapter-rows {
+      display: flex;
+      flex-direction: column;
+      gap: 0.35rem;
+    }
+
+    .chapter-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 0.5rem;
+      padding: 0.35rem 0.6rem;
+      background: var(--bg-elev-2);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      font-size: 0.75rem;
+      color: var(--text-muted);
+    }
+
+    /* Disembunyikan secara visual, tetap di DOM untuk pencarian sinopsis. */
+    .card-desc {
+      display: none;
+    }
+
+    /* Dipakai kartu Sorotan. */
     .card-genre {
       font-size: 0.8125rem;
       margin-bottom: 0.75rem;
@@ -244,25 +508,6 @@ const universes = await getAllUniverses()
       font-weight: 600;
     }
 
-    .card-desc {
-      font-size: 0.9375rem;
-      line-height: 1.55;
-      margin-bottom: 1rem;
-      display: -webkit-box;
-      -webkit-line-clamp: 3;
-      -webkit-box-orient: vertical;
-      overflow: hidden;
-    }
-
-    .card-meta {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      gap: 0.75rem;
-      font-size: 0.8125rem;
-      flex-wrap: wrap;
-    }
-
     .no-results {
       text-align: center;
       padding: 3rem 1rem;
@@ -270,23 +515,134 @@ const universes = await getAllUniverses()
       font-size: 1.125rem;
     }
 
+    @media (max-width: 1024px) {
+      .novel-grid {
+        grid-template-columns: repeat(4, 1fr);
+      }
+    }
+
+    @media (max-width: 768px) {
+      .novel-grid {
+        grid-template-columns: repeat(3, 1fr);
+      }
+
+      .featured-card {
+        grid-template-columns: 1fr;
+        gap: 1.25rem;
+      }
+
+      .featured-cover {
+        max-width: 220px;
+        margin-inline: auto;
+      }
+
+      .hero-stats {
+        gap: 1.75rem;
+      }
+    }
+
     @media (max-width: 640px) {
       .hero {
-        margin-bottom: 3rem;
+        margin-bottom: 2.5rem;
       }
 
       h1 {
-        font-size: 2.5rem;
+        font-size: 2.25rem;
       }
 
       .tagline {
         font-size: 1rem;
+        margin-bottom: 1.75rem;
+      }
+
+      .hero-stats {
+        gap: 1.5rem;
         margin-bottom: 2rem;
       }
 
+      .hero-stats dt {
+        font-size: 1.6rem;
+      }
+
+      /* Kartu Sorotan ikut pola grid: thumbnail kecil di kiri, teks di kanan. */
+      .featured-card {
+        display: flex;
+        align-items: flex-start;
+        gap: 1rem;
+        padding: 1rem;
+        margin-bottom: 2.5rem;
+      }
+
+      .featured-cover {
+        width: 96px;
+        max-width: none;
+        margin-inline: 0;
+        flex-shrink: 0;
+      }
+
+      .featured-body {
+        min-width: 0;
+      }
+
+      .featured-label {
+        font-size: 0.7rem;
+        padding: 0.2rem 0.6rem;
+        margin-bottom: 0.5rem;
+      }
+
+      .featured-title {
+        font-size: 1.125rem;
+        margin-bottom: 0.25rem;
+      }
+
+      .featured-desc {
+        font-size: 0.875rem;
+        -webkit-line-clamp: 2;
+        margin-bottom: 0.6rem;
+      }
+
+      .featured-cta {
+        padding: 0.5rem 1rem;
+        font-size: 0.875rem;
+      }
+
+      /* Daftar novel: grid 2 kolom — cover diberi ruang (padding atas-kiri)
+         sehingga tidak mepet ke pinggiran kartu. */
       .novel-grid {
-        grid-template-columns: 1fr;
-        gap: 1.5rem;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 0.75rem;
+      }
+
+      .novel-card .card-link {
+        display: block;
+        padding: 0.75rem 0.75rem 0;
+      }
+
+      .novel-card .cover,
+      .novel-card .cover-placeholder {
+        border-radius: var(--radius);
+      }
+
+      .novel-card .cover-placeholder svg {
+        width: 32px;
+        height: 32px;
+      }
+
+      .novel-card .card-body {
+        padding: 0.6rem 0.75rem 0.75rem;
+        min-width: 0;
+      }
+
+      .novel-card .card-title {
+        font-size: 0.875rem;
+        margin-bottom: 0;
+      }
+
+      .novel-card .card-title-row {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 0.3rem;
+        margin-bottom: 0.5rem;
       }
     }
   </style>
@@ -295,6 +651,7 @@ const universes = await getAllUniverses()
     const search = document.getElementById('search') as HTMLInputElement
     const chips = document.querySelectorAll<HTMLButtonElement>('.chip[data-genre]')
     const universeChips = document.querySelectorAll<HTMLButtonElement>('.chip[data-universe]')
+    const genreSelect = document.getElementById('genre-more') as HTMLSelectElement
     const cards = document.querySelectorAll<HTMLElement>('.novel-card')
     const noResults = document.getElementById('no-results') as HTMLElement
 
@@ -328,11 +685,19 @@ const universes = await getAllUniverses()
 
     search.addEventListener('input', filter)
 
+    // Memilih genre dari dropdown sama dengan mengklik chip.
+    genreSelect.addEventListener('change', () => {
+      activeGenre = genreSelect.value
+      chips.forEach((c) => c.classList.toggle('active', c.dataset.genre === activeGenre))
+      filter()
+    })
+
     chips.forEach((chip) => {
       chip.addEventListener('click', () => {
         chips.forEach((c) => c.classList.remove('active'))
         chip.classList.add('active')
         activeGenre = chip.dataset.genre || 'all'
+        genreSelect.value = 'all'
         filter()
       })
     })
