@@ -7,9 +7,9 @@ tone: "hening, lembap, penuh teka-teki"
 language: "Indonesian"
 protagonist: "Ayu, penjalin muda dengan ikatan salah jalin yang mendengar ingatan akar"
 description: "Ayu mendengar bisikan dari akar yang mengingat nama yang seharusnya terkubur — dan akar itu mulai layu."
-status: "In Progress"
+status: "Complete"
 started: "2026-08-10"
-completed: ""
+completed: "2026-08-11"
 ---
 
 # Sang Penjalin

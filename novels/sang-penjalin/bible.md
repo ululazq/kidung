@@ -1,7 +1,7 @@
 # Bible: Sang Penjalin
 
-Terakhir diperbarui: bab 1
-Sudah diungkap ke pembaca sampai: bab 1
+Terakhir diperbarui: bab 16
+Sudah diungkap ke pembaca sampai: bab 16
 
 Kanon universe: `novels/lautan-akar/bible.md` — baca dulu. Bible ini hanya mencatat yang spesifik untuk novel ini.
 
@@ -77,21 +77,42 @@ Kanon universe: `novels/lautan-akar/bible.md` — baca dulu. Bible ini hanya men
 - **Harga**: Akar Menjalar — di Ayu menjalar lebih cepat karena jalinnya salah.
 - **Siapa yang bisa memakai**: penjalin (setelah Upacara Jalin).
 - **Tidak bisa**: Ayu tidak bisa menghidupkan akar mati; tidak bisa menyimak tanpa bayaran (tiap simakan dalam "memakan" sebagian dirinya).
-- **Sudah didemonstrasikan di bab**: menyimak dua kali (bab 1), menyulam jembatan (bab 1).
+- **Sudah didemonstrasikan di bab**: menyimak berulang (bab 1–16), menyulam jembatan (bab 1), pemangkasan jembatan oleh Mak Inah (bab 2), simakan denyut (bab 5), simakan massal & nyaris menjadi Pohon Manusia (bab 12), penyambungan akar kedua ke Pangkal (bab 14–15 — lintas novel, dilihat dari sisi Ayu).
 
 ## Timeline
 
 | Bab | Hari/waktu | Lokasi akhir | Siapa hadir |
 |---|---|---|---|
 | 1 | hari 1 pagi → tengah malam | Jembatan Utara → gubuk Ayu | Ayu, Dina, Pak Leman, Mak Inah, 2 Pemangkas |
+| 2 | hari 2 pagi → malam | tunggul Jembatan Utara | Ayu, Mak Inah, penjalin kampung, Pak Leman, Dina |
+| 3 | hari 3 sebelum fajar → pagi | gubuk Leman → jalur Pangkal | Ayu, Pak Leman, Dina, Mak Inah (beranda) |
+| 4 | hari 3–4 | ceruk di jalur → Jembatan Mati → Jalur Tua | Ayu, 2 Penjaga Jembatan (Pemangkas), Kepiting Senja |
+| 5 | hari 4–5 | perkemahan di jalur → kabur ke selatan | Ayu, Juru Potong |
+| 6 | hari 6 | pondok penghubung → Sarang | Ayu, Jaya |
+| 7 | hari 6–7 | ruang Dewan → sel Sarang | Ayu, Widura, Dewan, Penjaga Pangkal |
+| 8 | hari 7–8 | sel Sarang | Ayu, Mak Inah |
+| 9 | hari 8–9 | sel → Jalur Tua → selatan | Ayu, Penjaga Pangkal, Pemangkas |
+| 10 | hari 9 | kaki Pangkal | Ayu, Penjaga Pangkal, 3 Pemangkas (peracun) |
+| 11 | hari 10 | Ranting (dapur umum, Titik) | Ayu, Dina (terluka), Pak Leman |
+| 12 | hari 10–11 | tunggul Jembatan Utara → Titik | Ayu, Juru Potong, Pemangkas, kampung, Pak Leman → Pohon Manusia |
+| 13 | hari 11 pagi–siang | Titik digali | Ayu, Juru Potong, Pemangkas, kampung, Jaya, mayat Rangga |
+| 14 | hari 11 sore | Titik terbuka, Widura tiba | Ayu, Widura, Juru Potong, Penjaga Pangkal, kampung; Jaya di Pangkal |
+| 15 | hari 12–14 | Ranting disambung; Titik baru | Ayu, Dina, Mak Inah (diadili), Widura (dibawa), kampung |
+| 16 | beberapa hari kemudian | Ranting → jalur Pangkal → Pangkal | Ayu, Dina, Jaya, Penjaga Pangkal |
 
 ## Chekhov's Gun
 
 | Ditanam di bab | Apa | Sudah ditembakkan? |
 |---|---|---|
-| 1 | tali serat Upacara Jalin yang belum pernah dipakai Ayu | belum |
-| 1 | pisau penyulam di pinggang Ayu | belum |
-| 1 | "Dua malam" sebelum pemangkas kembali | belum — tenggat bab 3 |
+| 1 | tali serat Upacara Jalin yang belum pernah dipakai Ayu | **ditembakkan bab 16** — diberikan ke Dina untuk upacaranya |
+| 1 | pisau penyulam di pinggang Ayu | **ditembakkan** — Jalur Tua (4), lawan Juru Potong (5), kabur (9), menahan Pemangkas (13) |
+| 1 | "Dua malam" sebelum pemangkas kembali | **ditembakkan bab 3** — Pemangkas datang, Inah membuat perjanjian |
+| 2 | Dina (anak Mak Inah) tahu Ayu bisa menyimak | **ditembakkan** — sentuhan 8 & 11, resolusi 15 |
+| 2 | Mak Inah ke arah gudang serap tiap tengah malam (dilihat Dina) | **ditembakkan bab 8** — Inah mencari tabung Rangga; Dina mengikutinya |
+| 6 | tabung Rangga = suara + pesan untuk Jaya | **ditembakkan** — 7 (Dewan), 9 (dikembalikan Penjaga), 13–14 (bukti di depan kampung & Dewan) |
+| 9 | Penjaga Pangkal yang membebaskan Ayu | **ditembakkan** — 10 (bawa ke Pangkal), 14 (memihak), 16 (membuka jalan) |
+| 10 | racun di kaki Pangkal (ditanam 40 tahun) | **ditembakkan 14–15** — akar kedua disambung, racun dikalahkan denyut sehat |
+| 12 | Pak Leman menjadi Pohon Manusia (jangkar Titik) | **ditembakkan 14** — denyutnya bicara di klimaks; tetap berdenyut sampai bab 16 |
 
 ## Siapa tahu apa
 
@@ -100,6 +121,14 @@ Kanon universe: `novels/lautan-akar/bible.md` — baca dulu. Bible ini hanya men
 | Rangga tenggelam di Jembatan Utara | Pak Leman (selalu), Ayu (bab 1), Mak Inah (pelaku) | bab 1 |
 | Ada akar kedua di bawah Titik | Mak Inah, Dewan | sebelum bab 1 |
 | Pemangkas datang dalam dua malam | Ayu (bab 1) | bab 1 |
+| Dina tahu Ayu bisa menyimak | Dina (bab 2) | bab 2 |
+| Tabung Rangga berisi suara + pesan untuk Jaya | Pak Leman (selalu), Ayu (bab 3), Jaya (bab 6) | bab 6 |
+| Inah yang memotong Jembatan Utara | Mak Inah (pelaku), Ayu (bab 8) | bab 8 |
+| Widura memerintahkan pembunuhan & penguburan Rangga | Mak Inah (bab 8), Ayu (bab 8), Widura | bab 8 |
+| Pak Leman menjadi Pohon Manusia | seluruh kampung | bab 12 |
+| Akar kedua disambung ke Pangkal (racun mulai dikalahkan) | Ayu, Jaya, Penjaga Pangkal | bab 14–15 |
+| Mak Inah diadili di Sarang | kampung, Penjaga Pangkal | bab 15 |
+| Ayu menjadi Penjaga Akar Kedua di Pangkal | Ayu, Jaya, Penjaga Pangkal | bab 16 |
 
 ## Suara & Gaya Novel
 
