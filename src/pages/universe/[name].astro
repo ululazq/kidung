@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro'
 import { getUniverse, getUniverseSummaries, readingMinutes } from '../../lib/novels'
+import { buildUniverseNetwork } from '../../lib/network'
 
 export async function getStaticPaths() {
   const universes = await getUniverseSummaries()
@@ -25,6 +26,28 @@ const totalWords = universe.series.reduce((sum, n) => sum + n.totalWords, 0)
 const startHref = universe.series[0]
   ? `/chapter/${universe.series[0].slug}/chapter-1`
   : null
+
+// --- Peta jaringan: novel sebagai node, istilah bersama sebagai edge ---
+const network = await buildUniverseNetwork(universe.title)
+
+// Layout melingkar: hitung posisi node secara deterministik.
+const NET_W = 760
+const NET_H = 620
+const NET_CX = NET_W / 2
+const NET_CY = NET_H / 2
+const NET_R = Math.min(270, Math.max(150, 90 + network.nodes.length * 4))
+// Radius node proporsional terhadap jumlah koneksi (dipakai juga untuk legenda).
+const nodeRadius = (degree: number) => Math.min(26, 10 + degree * 0.7)
+const netPos = new Map<string, { x: number; y: number }>()
+network.nodes.forEach((node, i) => {
+  const angle = (i / Math.max(1, network.nodes.length)) * Math.PI * 2 - Math.PI / 2
+  netPos.set(node.slug, {
+    x: NET_CX + NET_R * Math.cos(angle),
+    y: NET_CY + NET_R * Math.sin(angle),
+  })
+})
+
+const netTermNotes = new Map(network.terms.map((t) => [t.term, t.note]))
 ---
 
 <BaseLayout title={`${universe.title} · Universe`} description={universe.description}>
@@ -129,6 +152,135 @@ const startHref = universe.series[0]
       </section>
     ) : (
       <p class="universe-desc">Belum ada novel terdaftar untuk universe ini.</p>
+    )}
+
+    {network.nodes.length >= 2 && network.edges.length > 0 && (
+      <section class="network-section" aria-labelledby="network-title">
+        <div class="section-head">
+          <div>
+            <h2 id="network-title">Peta Jaringan Novel</h2>
+            <p class="muted">
+              Novel yang berbagi istilah multiverse terhubung — arahkan ke node
+              untuk melihat koneksinya, klik untuk membuka novel.
+            </p>
+          </div>
+        </div>
+
+        <div class="network-layout">
+          <svg
+            id="network-svg"
+            class="network-svg"
+            viewBox={`0 0 ${NET_W} ${NET_H}`}
+            role="img"
+            aria-label={`Peta jaringan ${universe.title}: ${network.nodes.length} novel dihubungkan oleh istilah multiverse bersama`}
+          >
+            {/* Edge: dua novel yang berbagi istilah */}
+            {network.edges.map((e) => {
+              const pa = netPos.get(e.a)!
+              const pb = netPos.get(e.b)!
+              const shared = e.terms.join(', ')
+              return (
+                <line
+                  class="net-edge"
+                  x1={pa.x}
+                  y1={pa.y}
+                  x2={pb.x}
+                  y2={pb.y}
+                  data-a={e.a}
+                  data-b={e.b}
+                  data-terms={shared}
+                >
+                  <title>{`${e.terms.length} istilah bersama: ${shared}`}</title>
+                </line>
+              )
+            })}
+
+            {/* Node: novel */}
+            {network.nodes.map((node) => {
+              const p = netPos.get(node.slug)!
+              const radius = nodeRadius(node.degree)
+              const label = node.title
+              const labelX = p.x + radius + 8
+              const labelY = p.y + 4
+              // Posisikan label ke kiri bila node di sisi kanan lingkaran
+              const anchor = p.x > NET_CX ? 'start' : 'end'
+              const lx = p.x > NET_CX ? p.x + radius + 8 : p.x - radius - 8
+              return (
+                <g
+                  class="net-node"
+                  data-slug={node.slug}
+                  tabindex="0"
+                  role="link"
+                  aria-label={`${node.title} — ${node.degree} koneksi`}
+                >
+                  <title>{`${node.title} — ${node.terms.length} istilah khas, ${node.degree} koneksi`}</title>
+                  <circle
+                    class="net-node-circle"
+                    cx={p.x}
+                    cy={p.y}
+                    r={radius}
+                  />
+                  <text
+                    class="net-node-label"
+                    x={lx}
+                    y={labelY}
+                    text-anchor={anchor}
+                  >
+                    {label}
+                  </text>
+                </g>
+              )
+            })}
+          </svg>
+
+          <aside class="network-panel" id="network-panel" aria-live="polite">
+            <p class="panel-hint" id="network-panel-default">
+              Arahkan kursor (atau fokus) ke sebuah novel untuk melihat
+              istilah yang dibaginya dengan novel lain.
+            </p>
+          </aside>
+        </div>
+
+        <div class="network-footer">
+          {network.terms.length > 0 && (
+            <div class="term-filter" role="group" aria-label="Filter peta berdasarkan istilah">
+              <span class="term-filter-label">Filter istilah:</span>
+              <button class="term-chip active" data-term="all" aria-pressed="true">
+                Semua
+              </button>
+              {network.terms.map((t) => (
+                <button
+                  class="term-chip"
+                  data-term={t.term}
+                  aria-pressed="false"
+                  title={netTermNotes.get(t.term) ?? t.term}
+                >
+                  {t.term}
+                </button>
+              ))}
+            </div>
+          )}
+
+          <div class="net-legend" aria-label="Legenda peta">
+            <span class="legend-item">
+              <i class="legend-dot" style="--d: 8px" aria-hidden="true"></i>
+              Sedikit koneksi
+            </span>
+            <span class="legend-item">
+              <i class="legend-dot" style="--d: 14px" aria-hidden="true"></i>
+              Sedang
+            </span>
+            <span class="legend-item">
+              <i class="legend-dot" style="--d: 22px" aria-hidden="true"></i>
+              Banyak koneksi
+            </span>
+            <span class="legend-item">
+              <i class="legend-line" aria-hidden="true"></i>
+              Berbagi istilah
+            </span>
+          </div>
+        </div>
+      </section>
     )}
 
     <section class="canon-section">
@@ -532,6 +684,245 @@ const startHref = universe.series[0]
       color: var(--accent);
     }
 
+    /* ---------- Peta jaringan novel ---------- */
+
+    .network-section {
+      margin-bottom: 4.5rem;
+    }
+
+    .network-section .muted {
+      margin-top: 0.4rem;
+      max-width: 62ch;
+    }
+
+    .network-layout {
+      display: grid;
+      grid-template-columns: 1fr 260px;
+      gap: 1.5rem;
+      align-items: stretch;
+      margin-top: 1.5rem;
+    }
+
+    .network-svg {
+      width: 100%;
+      height: auto;
+      background: var(--bg-elev);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg);
+    }
+
+    .net-edge {
+      stroke: color-mix(in srgb, var(--accent) 55%, var(--border));
+      stroke-width: 1.5;
+      opacity: 0.35;
+      transition: opacity 200ms ease, stroke-width 200ms ease;
+    }
+
+    .net-node {
+      cursor: pointer;
+      outline: none;
+    }
+
+    .net-node-circle {
+      fill: var(--accent);
+      stroke: var(--bg);
+      stroke-width: 2;
+      transition: fill 200ms ease, filter 200ms ease;
+    }
+
+    .net-node-label {
+      font-family: var(--font-body);
+      font-size: 11px;
+      fill: var(--text-muted);
+      pointer-events: none;
+      transition: fill 200ms ease;
+    }
+
+    .net-node:hover .net-node-circle,
+    .net-node:focus-visible .net-node-circle {
+      fill: var(--accent-hover);
+      filter: drop-shadow(0 0 6px color-mix(in srgb, var(--accent) 60%, transparent));
+    }
+
+    .net-node:hover .net-node-label,
+    .net-node:focus-visible .net-node-label {
+      fill: var(--text);
+      font-weight: 600;
+    }
+
+    .net-node.dim .net-node-circle {
+      opacity: 0.25;
+    }
+
+    .net-node.dim .net-node-label {
+      opacity: 0.35;
+    }
+
+    .net-edge.dim {
+      opacity: 0.06;
+    }
+
+    .net-edge.hot {
+      opacity: 0.9;
+      stroke-width: 3;
+    }
+
+    .network-panel {
+      background: var(--bg-elev);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg);
+      padding: 1.25rem;
+      font-size: 0.9375rem;
+      line-height: 1.6;
+    }
+
+    .panel-hint {
+      color: var(--text-muted);
+    }
+
+    .panel-title {
+      font-family: var(--font-display);
+      font-size: 1.25rem;
+      color: var(--text);
+      margin-bottom: 0.5rem;
+    }
+
+    .panel-stats {
+      font-size: 0.8125rem;
+      color: var(--text-dim);
+      margin-bottom: 0.75rem;
+    }
+
+    .panel-links {
+      display: flex;
+      flex-direction: column;
+      gap: 0.6rem;
+      margin-top: 0.75rem;
+    }
+
+    .panel-link {
+      display: block;
+      padding: 0.5rem 0.75rem;
+      background: var(--bg-elev-2);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      text-decoration: none;
+      transition: border-color 200ms ease;
+    }
+
+    .panel-link:hover {
+      border-color: var(--accent);
+    }
+
+    .panel-link .l-title {
+      font-weight: 600;
+      color: var(--text);
+      font-size: 0.875rem;
+    }
+
+    .panel-link .l-terms {
+      font-size: 0.75rem;
+      color: var(--text-muted);
+      margin-top: 0.15rem;
+    }
+
+    .network-footer {
+      margin-top: 1.25rem;
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+    }
+
+    .term-filter {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .term-filter-label {
+      font-size: 0.875rem;
+      font-weight: 600;
+      color: var(--text-muted);
+      margin-right: 0.25rem;
+    }
+
+    .term-chip {
+      padding: 0.3rem 0.8rem;
+      border: 1px solid var(--border-strong);
+      border-radius: 999px;
+      background: var(--bg-elev);
+      color: var(--text-muted);
+      font-size: 0.8125rem;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all 200ms ease;
+    }
+
+    .term-chip:hover {
+      border-color: var(--accent);
+      color: var(--text);
+    }
+
+    .term-chip.active {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: var(--accent-contrast);
+      font-weight: 600;
+    }
+
+    .net-legend {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 0.6rem 1.5rem;
+      font-size: 0.8125rem;
+      color: var(--text-muted);
+    }
+
+    .legend-item {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .legend-dot {
+      width: var(--d);
+      height: var(--d);
+      border-radius: 50%;
+      background: var(--accent);
+      border: 2px solid var(--bg);
+      box-shadow: 0 0 0 1px color-mix(in srgb, var(--accent) 40%, transparent);
+      flex-shrink: 0;
+    }
+
+    .legend-line {
+      width: 2rem;
+      height: 2px;
+      background: color-mix(in srgb, var(--accent) 55%, var(--border));
+      border-radius: 999px;
+    }
+
+    /* Filter aktif: redupkan edge/node di luar istilah terpilih.
+       Hover (hot) menimpa filter supaya koneksi node tetap terlihat. */
+    .net-edge.term-dim:not(.hot) {
+      opacity: 0.05;
+    }
+
+    .net-node.term-dim:not(.hot) .net-node-circle {
+      opacity: 0.15;
+    }
+
+    .net-node.term-dim:not(.hot) .net-node-label {
+      opacity: 0.3;
+    }
+
+    @media (max-width: 900px) {
+      .network-layout {
+        grid-template-columns: 1fr;
+      }
+    }
+
     @media (max-width: 640px) {
       .tl-card-grid {
         grid-template-columns: 1fr;
@@ -584,6 +975,139 @@ const startHref = universe.series[0]
         { rootMargin: '-35% 0px -55% 0px' },
       )
       cards.forEach((card) => observer.observe(card))
+    }
+
+    // ---------- Peta jaringan novel ----------
+    const netNodes = Array.from(document.querySelectorAll<SVGGElement>('.net-node'))
+    const netEdges = Array.from(document.querySelectorAll<SVGLineElement>('.net-edge'))
+    const netPanel = document.getElementById('network-panel')
+
+    if (netNodes.length > 0 && netPanel) {
+      // indeks edge per novel untuk highlight cepat
+      const edgeIndex = new Map<string, SVGLineElement[]>()
+      netEdges.forEach((edge) => {
+        for (const slug of [edge.dataset.a, edge.dataset.b]) {
+          if (!slug) continue
+          const list = edgeIndex.get(slug) ?? []
+          list.push(edge)
+          edgeIndex.set(slug, list)
+        }
+      })
+
+      function clearNetwork() {
+        netNodes.forEach((n) => n.classList.remove('dim', 'hot'))
+        netEdges.forEach((e) => e.classList.remove('dim', 'hot'))
+      }
+
+      function highlightNode(slug: string) {
+        clearNetwork()
+        const related = new Set<string>([slug])
+        edgeIndex.get(slug)?.forEach((edge) => {
+          edge.classList.add('hot')
+          related.add(edge.dataset.a!)
+          related.add(edge.dataset.b!)
+        })
+        netNodes.forEach((node) => {
+          if (!related.has(node.dataset.slug!)) node.classList.add('dim')
+          else if (node.dataset.slug !== slug) node.classList.add('hot')
+        })
+        return related
+      }
+
+      function renderPanel(slug: string, related: Set<string>) {
+        const node = netNodes.find((n) => n.dataset.slug === slug)
+        const title = node?.querySelector('.net-node-label')?.textContent?.trim() ?? slug
+        const degree = edgeIndex.get(slug)?.length ?? 0
+        const links = edgeIndex
+          .get(slug)!
+          .map((edge) => {
+            const other = edge.dataset.a === slug ? edge.dataset.b! : edge.dataset.a!
+            const otherTitle =
+              netNodes.find((n) => n.dataset.slug === other)
+                ?.querySelector('.net-node-label')
+                ?.textContent?.trim() ?? other
+            const terms = edge.dataset.terms ?? ''
+            return `<a class="panel-link" href="/novel/${other}">
+              <div class="l-title">${otherTitle}</div>
+              <div class="l-terms">${terms}</div>
+            </a>`
+          })
+          .join('')
+        netPanel.innerHTML = `<div class="panel-title">${title}</div>
+          <div class="panel-stats">${degree} ${degree === 1 ? 'koneksi' : 'koneksi'} · klik untuk membuka novel</div>
+          <div class="panel-links">${links}</div>`
+      }
+
+      // ---------- Filter istilah ----------
+      const termChips = Array.from(document.querySelectorAll<HTMLButtonElement>('.term-chip'))
+      let activeTerm: string | null = null
+
+      function applyTermFilter() {
+        netEdges.forEach((edge) => {
+          const terms = (edge.dataset.terms ?? '').split(',').map((s) => s.trim())
+          const match = !activeTerm || terms.includes(activeTerm)
+          edge.classList.toggle('term-dim', !match)
+        })
+        netNodes.forEach((node) => {
+          const slug = node.dataset.slug!
+          const hasActiveEdge =
+            !activeTerm ||
+            netEdges.some(
+              (e) =>
+                !e.classList.contains('term-dim') &&
+                (e.dataset.a === slug || e.dataset.b === slug),
+            )
+          node.classList.toggle('term-dim', !hasActiveEdge)
+        })
+        termChips.forEach((chip) => {
+          const isActive = chip.dataset.term === (activeTerm ?? 'all')
+          chip.classList.toggle('active', isActive)
+          chip.setAttribute('aria-pressed', String(isActive))
+        })
+      }
+
+      termChips.forEach((chip) => {
+        chip.addEventListener('click', () => {
+          const term = chip.dataset.term!
+          activeTerm = term === 'all' ? null : term
+          applyTermFilter()
+        })
+      })
+
+      function resetPanel() {
+        clearNetwork()
+        applyTermFilter()
+        netPanel.innerHTML =
+          '<p class="panel-hint" id="network-panel-default">Arahkan kursor (atau fokus) ke sebuah novel untuk melihat istilah yang dibaginya dengan novel lain.</p>'
+      }
+
+      // State awal: filter "Semua" aktif secara eksplisit.
+      applyTermFilter()
+
+      netNodes.forEach((node) => {
+        const slug = node.dataset.slug!
+        node.addEventListener('mouseenter', () => {
+          const related = highlightNode(slug)
+          renderPanel(slug, related)
+        })
+        node.addEventListener('focus', () => {
+          const related = highlightNode(slug)
+          renderPanel(slug, related)
+        })
+        node.addEventListener('click', () => {
+          window.location.href = `/novel/${slug}`
+        })
+        node.addEventListener('keydown', (e) => {
+          if (e.key === 'Enter' || e.key === ' ') {
+            e.preventDefault()
+            window.location.href = `/novel/${slug}`
+          }
+        })
+      })
+
+      // Keluar dari area peta → kembalikan tampilan default.
+      const svg = document.getElementById('network-svg')
+      svg?.addEventListener('mouseleave', resetPanel)
     }
   </script>
 </BaseLayout>
