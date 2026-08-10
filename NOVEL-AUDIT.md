@@ -127,6 +127,8 @@ Batas kanon agar aturan tiap universe tidak bocor satu sama lain. Sumber: `auren
 
 **Aturan anti-bocor:** (1) sistem **Auren** = satu-satunya dengan Level/Tier/Sight — jangan bawa ke Skyroot/Kidungverse; (2) **Marks** hanya hidup di Skyroot; (3) relik & godframe **unik per novel Kidungverse** — model spesifik jangan dipinjam; (4) istilah lintas universe yang boleh: motif multiverse sadar (ketukan 2-1, nama gema), bukan mekanik.
 
+**Verifikasi sapu anti-bocor (susulan, 2026-08-10):** nol bocoran nyata di ketiga arah. (a) Istilah Auren (Kindling, Hearth, Scepter, Hollow King/Cult, Chosen, Stone of Sight, Voice of the Hollow, Level N, tier, Sight, deeds) di novel non-Auren: nol — semua hit palsu ("Hearthhold" = ibukota Heartland Skyroot, "chosen-one" = trope generik, "deeds" hanya di novel Auren sendiri). (b) Istilah Skyroot (Clanmark/Guildmark/Vowmark/Sealmark, the Seam, the Stillness, the Binding, the Sundering, the First Seal, Unbound, the Compass, discipline, the Mark) di non-Skyroot: nol. (c) Istilah Kidungverse (godframe, aetherium, Lupa Corp, Empu Aether, Penempa Sangha, nama relik/godframe, Bawah-Batavia, Neo-Batavia, ketukan 2-1) di Auren+Skyroot: nol — "ketukan" di Auren = motif ketukan universe sendiri (alarm the-knock, First Listeners the-duet), bukan kode irama 2-1; "dua ketukan di bahu" the-unbound ch5 = isyarat posisi Lightermen, bukan ritme. (d) "Aether"/"Sangha"/"relik" di Auren+Skyroot: nol.
+
 ---
 
 ## Prioritas perbaikan
