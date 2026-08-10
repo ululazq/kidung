@@ -11,6 +11,8 @@ Tangan Guntur adalah kekuatan memanggil dan mengendalikan petir. Tidak seperti k
 
 Arka (21), penjaga mercusuar yang dibesarkan sendirian oleh Mbah Jaga, adalah pewaris terakhir Tangan Guntur — kakaknya, Danu, dibawa Kanselir Warih dari Kerajaan Tengah lima tahun lalu sebagai jaminan. Ketika Laras, seorang pedagang muda yang terlalu pintar, tiba di tanjung itu, Arka tidak tahu bahwa ia sedang disusupi oleh mata-mata — dan Laras tidak tahu bahwa hatinya akan memilih sisi yang salah menurut rencananya.
 
+**Kanon Nusakara** — nama gugusan ini adalah **nama gema** lintas dunia paralel: sang-garuda (penerbang, Kekaisaran Tanah Hitam) memakai nama yang sama tanpa hubungan kanon. Jangan disilang-referensikan kota, faksi, atau sistem kedua dunia (keputusan 2026-08-10; compendium seksi 6).
+
 ## Tema
 
 Kekuatan sejati bukan yang paling keras, tetapi yang paling terhubung. Melindungi orang lain tidak melemahkanmu — ia mengakarimu. Dan cinta, seperti guntur, tidak bisa diperintah; ia hanya bisa diundang.

@@ -73,6 +73,7 @@ Action Fantasy + sub-plot romance. 12 bab, ~2.000 kata per bab. Setiap bab: satu
 **Romance**: di sel gelap, Laras menahan tangan Arka saat ia hampir menyerang Warih — "jangan. Aku tidak mau kehilanganmu sekarang."
 **Tutup**: Warih tersenyum di tangga istana: "Aku tahu kalian datang. Aku hanya menunggu pintu terbuka."
 
+**Status**: selesai
 ## Bab 10 — Sangkar Petir
 **Beat**: KLIMAKS SETENGAH. Warih menjebak Arka masuk Sangkar Petir raksasa di bawah istana — gunturnya lumpuh, dan Warih mencoba "memanen" kekuatan itu dengan alat penyalur. Arka di dalam sangkar, Laras di luar, Danu dirantai. Laras menyerang Warih dengan Jarum; Danu — yang melepas gunturnya — tidak bisa membantu. Di dalam sangkar, Arka mendengar suara Mbah Jaga dalam ingatannya: "guntur tidak pernah salah, ia hanya menunggu." Ia berhenti melawan sangkar dan justru menenangkan diri — guntur tidak bisa dipanen orang yang menolak memberikannya (rahasia bab 8 bekerja).
 **Aksi**: penyergapan, pertarungan Laras vs penjaga, Warih vs Arka dalam sangkar.
@@ -80,6 +81,7 @@ Action Fantasy + sub-plot romance. 12 bab, ~2.000 kata per bab. Setiap bab: satu
 **Romance**: Laras berdiri di antara Warih dan sangkar: "Kalau kau mau dia, kau lewati aku dulu."
 **Tutup**: Sangkar retak — bukan karena Arka memaksa, tetapi karena guntur memilih keluar. Warih untuk pertama kalinya terlihat tidak tenang.
 
+**Status**: selesai
 ## Bab 11 — Guntur Memilih (KLIMAKS)
 **Beat**: Sangkar hancur. Arka bebas — dan gunturnya lebih besar dari sebelumnya, karena semua akarnya (Mbah Jaga, warga Kota Banyu, Laras) menjangkaunya lewat jalur kepercayaan. Pertarungan besar di bawah istana: Arka & Laras vs Warih dan pasukan. Warih memakai alat penyalur yang mencuri guntur — tetapi guntur yang dicuri itu melawan pemiliknya (tidak bisa diperintah oleh pencuri). Danu bebas; ia menggenggam tangan Arka — tanpa guntur, tetapi dengan kekuatan yang berbeda. Warih tumbang; istana runtuh sebagian. Malam, lampu mercusuar menyala penuh di kejauhan (metafora akar).
 **Aksi**: pertarungan raksasa, tiga front.
@@ -87,8 +89,11 @@ Action Fantasy + sub-plot romance. 12 bab, ~2.000 kata per bab. Setiap bab: satu
 **Romance**: setelah pertarungan, Laras di pelukan Arka — ia tidak bicara, ia hanya memeluk; Arka akhirnya menyebut namanya dengan cara yang berbeda.
 **Tutup**: "Kau tidak kehilangan gunturmu, Arka. Kau baru saja menemukannya."
 
+**Status**: selesai
 ## Bab 12 — Mercusuar Menyala (EPILOG)
 **Beat**: Kerajaan Tengah runtuh, raja muda mengambil alih, Warih dipenjara. Danu kembali ke Tanjung Guntur — ia tidak bisa menggenggam petir lagi, tetapi ia bisa hidup. Tiga kerajaan menandatangani perjanjian damai; Tangan Guntur diakui sebagai penjaga perbatasan, bukan ancaman. Arka & Laras kembali ke mercusuar. Mbah Jaga pensiun ("sudah waktunya aku memancing"). Kalung Laras berpindah tangan — ke Arka. Adegan terakhir: badai datang, dan Arka berdiri di puncak mercusuar dengan Laras di sampingnya — gunturnya tenang, luas, dan tidak sendirian.
 **Aksi**: minimal — satu momen Arka menenangkan badai dengan gunturnya sendiri (bukan melawan, tetapi "menidurkan").
 **Romance**: resolusi penuh — Laras: "Aku tidak akan pergi lagi." Arka: "Kau tidak perlu pergi. Kau sudah di rumah."
 **Tutup**: Bukan pertanyaan retoris — lampu mercusuar menyala, dan untuk pertama kalinya dalam hidupnya, Arka menunggu badai tanpa takut.
+
+**Status**: selesai

@@ -55,16 +55,16 @@ Satu baris per bab. Format: perubahan status → status lama jadi status baru. T
 |---|---|---|---|---|---|
 | 1 | Melati | 2 (GCD, RDD) | 1.600–1.900 (tertulis 1.554) | Bu Lastri menebus cincin yang bunganya hampir habis → penaksir yang tenang menemukan boneka yang berbau namanya sendiri | selesai |
 | 2 | Melati | 2 (RDD, GCD) | 1.600–1.900 (tertulis 1.586) | Melati menyaksikan salinan cermin laku di Pasar Atom, menyentuh boneka dan melihat wajahnya yang berumur sembilan di mata boneka; Hario mengaku menerima barang itu 14 tahun lalu → saksi sistem jadi orang yang mulai dibaca sistem | selesai |
-| 3 | Melati | 2 (GCD, RDD) | 1.900–2.200 | Melati membaca dua entri bersama Mbok Sri: jaminan wajah dan ingatan, bunga melati, jatuh tempo malam ulang tahunnya yang ke-23; Bu Marsini memberi kode → curiga jadi yakin utang itu keluarganya | |
-| 4 | Melati | 2 (RDD, GCD) | 1.900–2.200 | Melati menurunkan foto dinding: yang buram adalah wajah ibunya; Hario mengaku yang menulis kontrak; twist — dialah anak 9 tahun yang menggadaikan ingatan → penaksir jadi penanggung utang | |
-| 5 | Melati | 2 (GCD, RDD) | 2.000–2.300 | Melati ke rumah lama tepi Kalimas; kotak musik berisi tanda terima dan surat ibu → tawar-menawar jadi memegang kunci kontrak | |
-| 6 | Melati | 2 (RDD, GCD) | 2.000–2.300 | Surat ibu terbaca: ibu menggadaikan wajahnya semalam sebelum meninggal; dua entri dalam satu benda → teka-teki jadi dua kontrak terkait | |
-| 7 | Melati | 2 (GCD, RDD) | 1.900–2.200 | Melati ikut Bagas mengantar kiriman; aturan "yang laku menunggu dibeli lagi" → tahu aturan sistem jadi tahu harga pribadinya | |
-| 8 | Melati | 2 (RDD, GCD) | 2.000–2.300 | Mbok Sri membuka entri kedua: bunga entri Melati dibayar dari masa depannya → dua pilihan buruk jadi satu pilihan mustahil | |
-| 9 | Melati | 3 (GCD, GCD, RDD) | 2.200–2.500 | Boneka matang dipajang; salinan wajah ibu terbentuk; Melati menolak menaksir untuk dijual → menolak sistem jadi ditagih sistem lewat tubuhnya | |
-| 10 | Melati | 2 (RDD, GCD) | 1.900–2.200 | Hario bongkar kontrak ibu: syarat "penaksir tidak bisa digadaikan"; Melati sudah menyentuhnya di bab 1 → kontrak terbaca penuh | |
-| 11 | Melati | 3 (GCD, RDD, GCD) | 2.200–2.500 | Melati menaksir boneka untuk ditebus, melanggar peraturan; bunga larut, foto pulih, boneka membuka mata → utang lunas dengan kata-kata yang benar | |
-| 12 | Melati | 2 (GCD, RDD) | 1.800–2.100 | Melati keluar dari pegadaian (kontrak dicoret, tebusan setangkai melati), membuka kios "Menaksir Barang Warisan" di sebelah Bu Marsini; klien pertama → perempuan dengan arloji suami, "simpan satu hal, lepaskan sisanya"; agen Lupa Corp menawar, ditolak; Bagas melepas helm; malam di rumah Kalimas: kotak musik, boneka, pantulan wajah ibu | |
+| 3 | Melati | 2 (GCD, RDD) | 1.900–2.200 | Melati membaca dua entri bersama Mbok Sri: jaminan wajah dan ingatan, bunga melati, jatuh tempo malam ulang tahunnya yang ke-23; Bu Marsini memberi kode → curiga jadi yakin utang itu keluarganya | selesai |
+| 4 | Melati | 2 (RDD, GCD) | 1.900–2.200 | Melati menurunkan foto dinding: yang buram adalah wajah ibunya; Hario mengaku yang menulis kontrak; twist — dialah anak 9 tahun yang menggadaikan ingatan → penaksir jadi penanggung utang | selesai |
+| 5 | Melati | 2 (GCD, RDD) | 2.000–2.300 | Melati ke rumah lama tepi Kalimas; kotak musik berisi tanda terima dan surat ibu → tawar-menawar jadi memegang kunci kontrak | selesai |
+| 6 | Melati | 2 (RDD, GCD) | 2.000–2.300 | Surat ibu terbaca: ibu menggadaikan wajahnya semalam sebelum meninggal; dua entri dalam satu benda → teka-teki jadi dua kontrak terkait | selesai |
+| 7 | Melati | 2 (GCD, RDD) | 1.900–2.200 | Melati ikut Bagas mengantar kiriman; aturan "yang laku menunggu dibeli lagi" → tahu aturan sistem jadi tahu harga pribadinya | selesai |
+| 8 | Melati | 2 (RDD, GCD) | 2.000–2.300 | Mbok Sri membuka entri kedua: bunga entri Melati dibayar dari masa depannya → dua pilihan buruk jadi satu pilihan mustahil | selesai |
+| 9 | Melati | 3 (GCD, GCD, RDD) | 2.200–2.500 | Boneka matang dipajang; salinan wajah ibu terbentuk; Melati menolak menaksir untuk dijual → menolak sistem jadi ditagih sistem lewat tubuhnya | selesai |
+| 10 | Melati | 2 (RDD, GCD) | 1.900–2.200 | Hario bongkar kontrak ibu: syarat "penaksir tidak bisa digadaikan"; Melati sudah menyentuhnya di bab 1 → kontrak terbaca penuh | selesai |
+| 11 | Melati | 3 (GCD, RDD, GCD) | 2.200–2.500 | Melati menaksir boneka untuk ditebus, melanggar peraturan; bunga larut, foto pulih, boneka membuka mata → utang lunas dengan kata-kata yang benar | selesai |
+| 12 | Melati | 2 (GCD, RDD) | 1.800–2.100 | Melati keluar dari pegadaian (kontrak dicoret, tebusan setangkai melati), membuka kios "Menaksir Barang Warisan" di sebelah Bu Marsini; klien pertama → perempuan dengan arloji suami, "simpan satu hal, lepaskan sisanya"; agen Lupa Corp menawar, ditolak; Bagas melepas helm; malam di rumah Kalimas: kotak musik, boneka, pantulan wajah ibu | selesai |
 
 ## Catatan penyusunan
 

@@ -40,15 +40,15 @@ Edward Vance, pengerajin jam di Aether-London Bawah, menerima peti tembaga beris
 
 ## Beat per bab
 
-| Bab | Adegan | Status | Target kata |
-|---|---|---|---|
-| 1 | Malam hujan di dermaga; Edward bekerja di bengkel; kurir mengantar peti; sigil; alarm internal; keputusan membuka peti | ED (NPD, SRD) | 1.800–2.000 |
-| 2 | Peti dibuka di bengkel; serangan Obsidian; logam cair menyatu; Strike pertama; kabur | PD (RDD) | 1.900–2.100 |
-| 3 | Kejaran terowongan; Clara meretas katup; tiba di bengkel Alistair | PD (NPD) | 1.800–2.000 |
-| 4 | Diagnosis Alistair; harga; Regulator darurat; rencana Big Ben; Clara: adikku hilang | ED (GCD) | 1.900–2.100 |
-| 5 | Infiltrasi lantai 50; kristal kuarsa + serum; alarm; Malakor muncul | PD (RDD) | 1.900–2.100 |
-| 6 | Malakor mengungkap: peti dikirimnya; Vessel Principle; Edward = wadah; pertarungan, Edward kalah/terlempar | ED (GCD, TDD) | 2.000–2.200 |
-| 7 | Selamat oleh Clara & Alistair; tangan mati; Regulator penuh dipasang | ED (GCD) | 1.800–2.000 |
-| 8 | Pulih; Alistair: rahasia Melepas di Puncak; jam saku ayah; keputusan | ED (GCD) | 1.900–2.100 |
-| 9 | Foundry: adik Clara ditemukan hidup; konfrontasi Malakor; Edward melepas Astra di puncak | PD (RDD) | 2.000–2.200 |
-| 10 | Fajar; menara disegel; bengkel jadi rumah aman; tanpa relik; pesanan baru | ED (GCD, RDD) | 1.800–2.000 |
+| Bab | Adegan | Beat | Target kata | Status |
+|---|---|---|---|---|
+| 1 | Malam hujan di dermaga; Edward bekerja di bengkel; kurir mengantar peti; sigil; alarm internal; keputusan membuka peti | ED (NPD, SRD) | 1.800–2.000 | selesai |
+| 2 | Peti dibuka di bengkel; serangan Obsidian; logam cair menyatu; Strike pertama; kabur | PD (RDD) | 1.900–2.100 | selesai |
+| 3 | Kejaran terowongan; Clara meretas katup; tiba di bengkel Alistair | PD (NPD) | 1.800–2.000 | selesai |
+| 4 | Diagnosis Alistair; harga; Regulator darurat; rencana Big Ben; Clara: adikku hilang | ED (GCD) | 1.900–2.100 | selesai |
+| 5 | Infiltrasi lantai 50; kristal kuarsa + serum; alarm; Malakor muncul | PD (RDD) | 1.900–2.100 | selesai |
+| 6 | Malakor mengungkap: peti dikirimnya; Vessel Principle; Edward = wadah; pertarungan, Edward kalah/terlempar | ED (GCD, TDD) | 2.000–2.200 | selesai |
+| 7 | Selamat oleh Clara & Alistair; tangan mati; Regulator penuh dipasang | ED (GCD) | 1.800–2.000 | selesai |
+| 8 | Pulih; Alistair: rahasia Melepas di Puncak; jam saku ayah; keputusan | ED (GCD) | 1.900–2.100 | selesai |
+| 9 | Foundry: adik Clara ditemukan hidup; konfrontasi Malakor; Edward melepas Astra di puncak | PD (RDD) | 2.000–2.200 | selesai |
+| 10 | Fajar; menara disegel; bengkel jadi rumah aman; tanpa relik; pesanan baru | ED (GCD, RDD) | 1.800–2.000 | selesai |

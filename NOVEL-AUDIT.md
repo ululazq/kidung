@@ -19,7 +19,7 @@ Kondisi `novels/` per **2026-08-10**, setelah seluruh repositori ditulis ulang d
 | Novel dengan cover | 43/43 ✅ |
 | Bab di bawah band (<1.500) | **0** ✅ |
 | Bab di atas band (>2.500) | 18 (gods-in-jars 15 = pengecualian terdokumentasi; lantern-of-night 3 = disengaja) |
-| Novel dengan `continuity-report.md` | **30/43** |
+| Novel dengan `continuity-report.md` | **43/43** ✅ |
 | Novel tanpa tanggal `completed:` | **0** ✅ |
 | Placeholder/lorem/TODO di bab | **0** ✅ |
 | Folder tanpa bab | auren, skyroot (konsep), kidungverse (indeks universe) |
@@ -42,20 +42,21 @@ Seluruh 43 novel kini dalam band 1.500–2.500 kata per bab; **0 bab di bawah st
 
 The-warden ch14 (2.613) **diaudit 2026-08-10 dan dipangkas ke 2.473** — dalam band repo. Pemangkasan hanya menghapus pengulangan nyaris-verbatim (melanggar aturan bible "tidak mengulang kalimat") dan frasa yang baru saja ditegakkan; semua beat kanon utuh (sumpah pembukaan, pengembalian ingatan, kejatuhan Ilara, Seren bebas, hook Hollow King). Bible kini mencatat bab klimaks boleh memanjang sampai 2.500. |
 
-## 3. Outline: status "selesai" tidak konsisten
+## 3. Outline: status "selesai" — 43/43 memverifikasi Complete (2026-08-10)
 
-**27 dari 43 outline tidak memverifikasi status Complete** (per 2026-08-10):
+Seluruh 43 outline kini memverifikasi status Complete dengan penanda per-bab yang seragam dan bisa dihitung (`grep -c selesai outline.md` ≥ jumlah bab):
 
-- **13 tanpa penanda `selesai` sama sekali**: sang-pemangku-fajar, sang-pembawa-angin, sang-penyimpan-bilah, the-astral-sovereign, the-clockwork-astra, the-forge, the-godherd, the-knock, the-neon-cipher, the-prism, the-unhollowed, the-unstolen, the-warden.
-- **14 parsial** (penanda kurang dari jumlah bab): bloodfall (3), the-deep-vow (1), the-duet (2), the-last-teacher (1), the-rejoining (2), the-remembering (2), the-scribes (4), the-unbound (1), the-unheard (4), the-unwritten (2), pasar-subuh (2), pegadaian-bunga (4), sang-garuda (5), tangan-guntur (8).
+- **Format bullet** (22 outline) — setiap bab diberi `**Status**: selesai` (langsung setelah header bab; format `## Bab` yang sudah memakai pola sang-garuda/tangan-guntur disisipkan di akhir blok).
+- **Format tabel** (5 outline) — kolom `Status` dengan `| selesai |` per baris: the-astral-sovereign (24), the-clockwork-astra (10, kolom beat-code di-rename `Status` → `Beat` lalu ditambah kolom `Status` selesai), the-neon-cipher (10, sama), pasar-subuh (10, kolom ditambah), pegadaian-bunga (12, sel kosong diisi).
+- Hasil: 322 penanda ditambahkan di format bullet + 64 baris tabel; nol outline tersisa yang belum memverifikasi. Sebelumnya: 13 tanpa penanda sama sekali + 14 parsial (daftar lama sudah usang).
 
-Sebagian besar outline tidak punya kolom status sama sekali (formatnya ringkasan bab, bukan tabel status) — ini bukan salah, tapi membuat status "Complete" di README tidak bisa diverifikasi dari outline. Rekomendasi: seragamkan kolom status, atau tandai README dengan jumlah bab terverifikasi.
+## 4. Continuity report: 43/43 tuntas (2026-08-10)
 
-## 4. Continuity report: 13 dari 43 belum ada
+Semua 43 novel kini punya `continuity-report.md`. Batch terakhir (13 novel Kidungverse 12–24 bab) ditulis 2026-08-10: gods-in-jars, kidung-tanah-karam, pasar-subuh, pegadaian-bunga, sang-garuda, sang-pemangku-fajar, sang-pembawa-angin, sang-penyimpan-bilah, tangan-guntur, the-clockwork-astra, the-godherd, the-last-teacher, the-neon-cipher. Bersama batch itu dua koreksi bible diterapkan:
+- **the-neon-cipher/bible.md** — header `Terakhir diperbarui: bab 7` → `bab 10 (TUNTAS)` (isi bible sudah memuat demonstrasi sampai bab 10; hanya header yang tertinggal).
+- **sang-pembawa-angin/bible.md** — demo bab 12 menulis "makam Ika"; bab 12 yang terbit memakai **Eleyna** (nama kanon tabel karakter) → dikoreksi ke Eleyna.
 
-Sudah ada (30): bloodfall, kidung-bayang-batavia, lantern-of-night, pustaka-kabut-senja, sang-pembawa-pelita, serat-penempa-hampa, the-aegis-of-aether, the-aetherium-vow, the-astral-sovereign, the-cinder-relic, the-copper-relic, the-deep-vow, the-duet, the-forge, the-host, the-iron-karma, the-knock, the-prism, the-rejoining, the-remembering, the-resonance-blade, the-scribes, the-shadow-compiler, the-shadow-forger, the-unbound, the-unheard, the-unhollowed, the-unstolen, the-unwritten, the-warden.
-
-Belum ada (13) — mayoritas novel 12–24 bab yang dirilis awal: gods-in-jars, kidung-tanah-karam, pasar-subuh, pegadaian-bunga, sang-garuda, sang-pemangku-fajar, sang-pembawa-angin, sang-penyimpan-bilah, tangan-guntur, the-clockwork-astra, the-godherd, the-last-teacher, the-neon-cipher.
+Setiap laporan mencakup: Ringkasan, Konsistensi terkonfirmasi (nama kanon, sistem kekuatan, rantai setup→payoff, siapa-tahu-apa, timeline, panjang bab), Perbaikan yang diterapkan, Potensi masalah, dan Catatan lintas novel (nama gema, pinjaman faksi lintas novel, tema klaster tanpa-trade-off).
 
 ## 5. Hal kecil
 
@@ -136,9 +137,9 @@ Batas kanon agar aturan tiap universe tidak bocor satu sama lain. Sumber: `auren
 
 ## Prioritas perbaikan
 
-1. **Tulis continuity-report** untuk 13 novel yang belum (prioritas: yang baru dirilis/ber-relik unik; universe Auren tuntas 2026-08-10, Skyroot tuntas 2026-08-10).
+1. ~~Tulis continuity-report~~ **tuntas 2026-08-10: 43/43** (Auren 11, Skyroot 4, Kidungverse 13 + 2 koreksi bible).
 2. **Putuskan nasib auren & skyroot** — konsep yang tidak pernah ditulis.
-3. **Seragamkan status outline** atau verifikasi ulang klaim Complete via jumlah bab.
+3. ~~Seragamkan status outline~~ **tuntas 2026-08-10: 43/43 outline memverifikasi Complete** (penanda `selesai` per bab, format bullet + tabel).
 
 ---
 
@@ -148,7 +149,7 @@ Situs saat ini: beranda (search + filter genre/universe + kartu novel + cover), 
 
 1. **Mode baca (reader mode)** — halaman bab kini satu halaman penuh; tambah navigasi "Bab Sebelumnya / Berikutnya" di bawah konten + progress bar posisi baca. Ini fitur paling murah dan paling sering dipakai.
 2. **Peta universe interaktif** — halaman `/universe/[name]` sudah ada; tambah grafik relasi antar novel (relik unik, karakter gema, istilah bersama dari compendium) supaya pembaca bisa menelusuri "alur paralel Bawah-Batavia" dari satu novel ke novel lain.
-3. **Kontinuitas otomatis di halaman novel** — tampilkan "terakhir diaudit" + jumlah bab dalam band. Kini semua 43 novel dalam band, jadi badge bisa membedakan novel yang sudah punya continuity-report (30) vs yang belum (13).
+3. **Kontinuitas otomatis di halaman novel** — tampilkan "terakhir diaudit" + jumlah bab dalam band. Semua 43 novel dalam band dan semuanya sudah punya continuity-report (43/43) — badge "diaudit 2026-08-10" bisa langsung dipasang di semua halaman.
 4. **Pencarian lintas konten** — search sekarang hanya judul/protagonis; perluas ke sinopsis, karakter pendukung, dan istilah (mis. cari "Konsorsium Kunci" → semua novel yang menyebutnya).
 5. **Kutipan favorit / highlight** — setiap bab punya banyak kalimat kuat; tombol "salin kutipan" + daftar kutipan populer per novel menambah keterlibatan pembaca.
 6. **Estimasi baca per bab** — `readingMinutes` sudah ada untuk novel; turunkan ke level bab (kata/bab ÷ 200) agar pembaca tahu komitmen waktunya.

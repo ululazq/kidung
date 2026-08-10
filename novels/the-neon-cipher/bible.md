@@ -1,8 +1,8 @@
 ---
 # Bible: The Neon Cipher
 
-Terakhir diperbarui: bab 7
-Sudah diungkap ke pembaca sampai: bab 7
+Terakhir diperbarui: bab 10 (TUNTAS)
+Sudah diungkap ke pembaca sampai: bab 10
 
 ## Premis
 

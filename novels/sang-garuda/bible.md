@@ -38,7 +38,7 @@ Kekuatan tidak datang gratis; yang membedakan pahlawan bukan seberapa besar api 
 
 | Nama | Jenis | Detail |
 |---|---|---|
-| Nusakara | Dunia | Gugusan kerajaan di bawah satu langit. Laut di selatan, gunung di utara. |
+| Nusakara | Dunia | Gugusan kerajaan di bawah satu langit. Laut di selatan, gunung di utara. **Nama gema lintas dunia paralel (keputusan 2026-08-10): sang-garuda × tangan-guntur berbagi nama "Nusakara" tanpa hubungan kanon — jangan disilang-referensikan kota, faksi, atau sistem kedua dunia (compendium seksi 6).** |
 | Lembah Angin | Tempat | Desa Bagas, di lereng barat Gunung Candramuka. Dihancurkan sepuluh tahun lalu. Kini hanya abu dan angin. |
 | Gunung Candramuka | Tempat | Gunung tertinggi di utara, tempat Naga Bumi tidur di perutnya. Puncaknya tidak pernah tertutup awan. |
 | Kota Batu | Kota | Kota pelabuhan di selatan, bebas dari Kekaisaran. Tempat Bagas belajar dan bertemu Rara. |

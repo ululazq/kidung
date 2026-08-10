@@ -21,6 +21,8 @@ Seorang pemuda berjiwa "Kelas Bawah" — batu tinta yang tidak bisa berkultivasi
 
 Setiap anak di usia 12 menjalani **Upacara Kebangkitan Jiwa** — wujud jiwa (senjata, binatang, benda) muncul dan ditaksir kelasnya: **Kelas Bawah / Menengah / Atas / Langka**. Kelas menentukan bakat menyerap qi. Gu Yan membangkitkan **Batu Tinta** — ditaksir Kelas Bawah, "jiwa tukang tulis". Di dasar batu itu terukir samar satu aksara tua: **师** (Guru).
 
+**Ritus Suzhi** — kohort ketat **usia 12** (bab 1: "tujuh anak usia dua belas tahun berbaris"; outline bab 1: "seluruh anak usia 12 di atas lingkaran taksir"); Su Ling diuji di usia **15** (bab 1) = pengecualian tertunda. Di benua **Yunhai** (the-godherd) upacara berlangsung **usia 7 ke atas** (upacara tahunan desa; Mu Yuan 14 = tertunda) — **perbedaan regional**, tangga Sembilan Langit tetap kanon bersama kedua benua (keputusan kanon 2026-08-10; compendium Kaidah #7).
+
 ### Kultivasi Umum — Sembilan Langit (realm)
 
 Biji → Tunas → Dahan → Bunga → Buah → Inti → Jiwa Baru → Transformasi → Abadi. (Sama dengan kanon Kidungverse xianxia.)
@@ -51,9 +53,9 @@ Biji → Tunas → Dahan → Bunga → Buah → Inti → Jiwa Baru → Transform
 
 | Nama | Peran | Jiwa / Detail |
 |---|---|---|
-| **Gu Yan** (17 → 20) | Protagonis | Jiwa: **Batu Tinta** (Kelas Bawah). Terakhir Jalur Tinta. Pendiam, sabar, tidak bisa meninggalkan murid yang belum paham. Guru sejati: menolak menyerah pada siapa pun. |
+| **Gu Yan** (12 → 19) | Protagonis | Jiwa: **Batu Tinta** (Kelas Bawah). Terakhir Jalur Tinta. Pendiam, sabar, tidak bisa meninggalkan murid yang belum paham. Guru sejati: menolak menyerah pada siapa pun. Usia kanon (koreksi 2026-08-10): **12** di bab 1 (upacara, kohort usia dua belas tahun) → ±15–16 di bab 8 (tiga tahun di akademi) → ±19 di epilog bab 16 ("tiga tahun kemudian"). Sebelumnya tertulis 17 → 20 — drift, bab yang menang. |
 | **Lao Shu** (sekitar 70) | Guru | Penjaga kuil Desa Moqiao, penjaga **Kitab Lembar Kosong**. Dulu murid terakhir Guru Mo yang gagal lulus — ia lulus memahami "akar", tetapi takut menjadi akar. Namanya berarti "buku tua"; ia memang hidup seperti buku yang menunggu dibuka. |
-| **Su Ling** (15 → 18) | Murid pertama | Jiwa: **Pedang** (Kelas Langka). Genius desa yang platon; Gu Yan mengajarinya "membaca" pedangnya. Direkrut akademi bab 4. Kembali bab 8 sebagai **Pedang Suci** — agen ganda Yin Fu. Adiknya **Su Han** ditahan Ruang Panen. |
+| **Su Ling** (15 → 21) | Murid pertama | Jiwa: **Pedang** (Kelas Langka). Genius desa yang platon; Gu Yan mengajarinya "membaca" pedangnya. Direkrut akademi bab 4. Kembali bab 8 sebagai **Pedang Suci** — agen ganda Yin Fu. Adiknya **Su Han** ditahan Ruang Panen. Usia kanon (koreksi 2026-08-10): **15** di bab 1 → ±18 di bab 8 → ±21 di epilog bab 16 (rantai Su Han 9 → 12 → 15 menetapkan jeda 3 tahun tiap babak). Sebelumnya tertulis 15 → 18 — diperluas ke epilog. |
 | **Xiao Man** (16 → 19) | Heroin | Dari Sekte Lanyun yang dipanen. Jiwanya "lubang" — tidak bisa naik realm. Cerdas, tajam, sinis pada dunia yang memanennya. Gu Yan mengajarnya dari nol. Romance. |
 | **Guru Mo** (mati 300 tahun lalu) | Legenda | Guru Tinta terakhir, Pena Abadi. Murid pertamanya adalah Yin Fu. Meninggal memilih jadi akar — disembunyikan sejarah sebagai "gila". |
 | **Yin Fu** (400 tahun) | Antagonis | Kanselir Agung Daluo, kepala Ruang Panen. Mantan murid Guru Mo yang memanen gurunya sendiri. Tubuhnya retak dari dalam oleh pemahaman curian; mencari Kitab + batu tinta untuk stabil. |

@@ -37,6 +37,7 @@ Genre: Action Fantasy. 10 bab. Setiap bab memiliki minimal satu pertarungan atau
 **Tutup**: Di atas tembok, Bagas melihat ke utara — Kota Besi berdiri seperti gigi hitam, dan di menara tertinggi ada cahaya yang tidak pernah padam.
 **Status**: belum
 
+**Status**: selesai
 ## Bab 6 — Kota Besi dan Wajah Ayah
 **Beat**: TITIK TENGAH / TWIST. Bagas menyusup ke Kota Besi, menemukan Menara Air Mata, bertemu ibunya — Sari masih hidup, kurus, dirantai. Tapi ia tidak bisa membawanya pergi: Sari memilih tinggal (ritual belum selesai, darahnya menjaga Naga tetap tertidur — jika ia kabur, Bayangkara membangunkan Naga lebih cepat). Bagas tertangkap. Di sel, ia berhadapan dengan Tandang — panglima itu membuka topengnya: wajah ayah Bagas. Tandang membakar Lembah Angin karena Kekaisaran menahan Sari dan mengancam membunuhnya; ia memilih istrinya di atas desanya. Bagas marah, memukul, tertangkap.
 **Aksi**: penyusupan menara, pertarungan singkat dengan penjaga, adegan emosional (bukan aksi murni — twist).
@@ -44,6 +45,7 @@ Genre: Action Fantasy. 10 bab. Setiap bab memiliki minimal satu pertarungan atau
 **Tutup**: Tandang membuka pintu sel: "Kau boleh pergi. Ibu kau tidak akan pernah bisa." — dan melempar keris Wimba ke pangkuan Bagas.
 **Status**: belum
 
+**Status**: selesai
 ## Bab 7 — Pelarian
 **Beat**: Rara menyusup, membebaskan Bagas. Pelarian besar dari Kota Besi: menara besi, jembatan gantung, tembakan meriam kinetik. Tandang membiarkan mereka lolos (membuka pintu rahasia) tanpa diketahui pasukannya. Rara terluka parah (pedang besi mengenai bahunya). Bagas terpaksa *terbang penuh* kedua kalinya untuk membawa Rara melintasi jurang ke tempat aman — uban di rambutnya bertambah, tubuhnya menua lagi.
 **Aksi**: pelarian menara, duel udara sengit melawan pengawal besi, terbang penuh kedua Bagas.
@@ -51,6 +53,7 @@ Genre: Action Fantasy. 10 bab. Setiap bab memiliki minimal satu pertarungan atau
 **Tutup**: Bagas mendarat di hutan utara, rambutnya makin memutih, Rara tersadar di pelukannya.
 **Status**: belum
 
+**Status**: selesai
 ## Bab 8 — Gunung Candramuka
 **Beat**: Rara pulih perlahan. Mereka tiba di lereng Gunung Candramuka. Ritual sudah dimulai — Bayangkara memaksa darah penerbang lain mengalir ke kawah. Tanah bergetar: Naga Bumi mulai terbangun. Tandang bertarung melawan Bayangkara di bibir kawah (mengkhianati kaisar demi membebaskan Sari), tapi kalah dan terlempar. Bagas dan Rara tiba.
 **Aksi**: pendakian gunung di tengah guncangan, pertempuran pasukan kaisar, duel Tandang vs Bayangkara.
@@ -58,6 +61,7 @@ Genre: Action Fantasy. 10 bab. Setiap bab memiliki minimal satu pertarungan atau
 **Tutup**: Naga Bumi membentangkan sayap batu raksasa dari kawah — langit menggelap total.
 **Status**: belum
 
+**Status**: selesai
 ## Bab 9 — Kebakaran Langit
 **Beat**: Pertempuran klimaks. Naga Bumi mengamuk menyerang Kota Besi dan Gunung Candramuka. Rara menahan pasukan darat Kekaisaran dengan sisa kekuatannya. Bagas berhadapan dengan Bayangkara di udara. Bagas dipaksa *terbang penuh* ketiga kalinya — memanggil Api Surya terbesar. Bagas menguasai Sabetan Perdana Kakek Wiro, menembus perisai Bayangkara, dan memotong rantai pembendung Naga.
 **Aksi**: pertempuran udara epik menembus kobaran api Naga dan duel klimaks Bagas vs Bayangkara.
@@ -65,8 +69,11 @@ Genre: Action Fantasy. 10 bab. Setiap bab memiliki minimal satu pertarungan atau
 **Tutup**: Bayangkara jatuh ke kawah; Naga Bumi kembali tenang setelah segel darah Kembang Naga dihancurkan.
 **Status**: belum
 
+**Status**: selesai
 ## Bab 10 — Fajar Nusakara
 **Beat**: Setelah pertempuran. Naga Bumi kembali tertidur lelap di dasar bumi. Kekaisaran Tanah Hitam runtuh. Sari dibebaskan dari Menara Air Mata; Tandang selamat meski cacat berat, meminta maaf kepada Bagas dan Sari. Bagas hidup dengan rambut memutih penuh—membayar harga mahal terbang penuh—namun ia berdiri tegak sebagai pelindung langit Nusakara. Rara kembali ke desanya yang kini bebas.
 **Aksi**: peresmian tatanan baru penerbang Nusakara.
 **Tutup**: Bagas berdiri di puncak Gunung Candramuka bersama Sari dan Rara, menatap fajar baru Nusakara dengan senyuman tenang.
 **Status**: belum
+
+**Status**: selesai

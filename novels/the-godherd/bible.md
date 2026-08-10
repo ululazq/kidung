@@ -35,6 +35,8 @@ Setiap realm: Awal / Paruh / Puncak.
 
 Setiap anak di usia 7 menjalani **Upacara Kebangkitan Jiwa** — wujud jiwa (senjata, hewan, benda) muncul dan ditaksir. Kelas jiwa: **Kelas Bawah / Menengah / Atas / Langka**. Kelas menentukan bakat kultivasi diri. Mu Yuan mendapat **Tongkat Gembala** — ditaksir Kelas Bawah, diolok-olok. Tongkat itu sebenarnya **Lonceng Gembala**, pusaka klan Mu yang menyamar.
 
+**Ritus Yunhai** — upacara tahunan desa, anak-anak **berusia 7 ke atas** maju satu per satu (outline bab 1: "anak-anak desa berusia 7 ke atas"); Mu Yuan diuji di usia **14** = pengecualian tertunda, dijelaskan bab 1 ("baru ikut upacara tahun ini" — upacara sebelumnya selalu terlewat). Di benua **Suzhi** (the-last-teacher) upacara berlangsung **usia 12** (kohort ketat) — **perbedaan regional**, tangga Sembilan Langit tetap kanon bersama kedua benua (keputusan kanon 2026-08-10; compendium Kaidah #7).
+
 ### Jalur Gembala (jalur terhapus — realm kesembilan yang sebenarnya)
 
 - Dewa lahir dari **ingatan bersama + tanah** (domain: sungai, gunung, domba, hujan, gerbang desa, jalan setapak...). Dewa tanpa pelindung menjadi liar; dewa yang dipanen menjadi **hampa** atau sekarat.
