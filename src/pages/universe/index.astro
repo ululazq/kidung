@@ -81,13 +81,16 @@ const universes = await getUniverseSummaries()
       line-height: 1.65;
     }
 
+    /* Pola grid dikunci eksplisit per breakpoint (sama dengan beranda):
+       6 kolom di desktop, tiap kartu melebar 2 kolom → 3 universe per baris. */
     .universe-grid {
       display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      grid-template-columns: repeat(6, 1fr);
       gap: 1.5rem;
     }
 
     .universe-card {
+      grid-column: span 2;
       display: block;
       background: var(--bg-elev);
       border: 1px solid var(--border);
@@ -136,6 +139,32 @@ const universes = await getUniverseSummaries()
     .empty {
       color: var(--text-muted);
       padding: 2rem 0;
+    }
+
+    @media (max-width: 1024px) {
+      .universe-grid {
+        grid-template-columns: repeat(4, 1fr);
+      }
+
+      .universe-card {
+        grid-column: span 2;
+      }
+    }
+
+    @media (max-width: 768px) {
+      .universe-grid {
+        grid-template-columns: repeat(3, 1fr);
+      }
+
+      .universe-card {
+        grid-column: span 1;
+      }
+    }
+
+    @media (max-width: 640px) {
+      .universe-grid {
+        grid-template-columns: repeat(2, 1fr);
+      }
     }
   </style>
 </BaseLayout>
