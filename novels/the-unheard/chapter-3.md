@@ -7,7 +7,7 @@ Iris tidak bisa tidur malam itu.
 
 Ia berbaring di kamarnya yang kecil, menatap langit-langit, dan mengulang-ulang kalimat yang diucapkan sosok itu: *Kau bisa melihatku.* Tiga kata. Tiga kata yang tidak berarti apa-apa bagi siapa pun — tetapi bagi Iris, tiga kata itu mengubah segalanya. Selama sembilan belas tahun, ia telah hidup sebagai orang yang tidak stabil, orang yang tidak bisa dikunci, orang yang tidak muat di mana pun. Dan sekarang, untuk pertama kalinya, ada seseorang — ada *sesuatu* — yang bisa melihatnya.
 
-Di atas kepalanya, angkanya bergetar: **Iron 12**, lalu **Silver 30**, lalu tidak ada apa-apa, lalu kembali lagi. Seperti biasa. Seperti selalu.
+Di atas kepalanya, angkanya bergetar: **Bronze 12**, lalu **Silver 30**, lalu tidak ada apa-apa, lalu kembali lagi. Seperti biasa. Seperti selalu.
 
 Tetapi untuk pertama kalinya, Iris tidak merasa takut pada angka itu. Ia merasa seperti angka itu — dan sosok itu — dan sesuatu yang lebih besar dari keduanya — sedang menunggu untuk ditemukan.
 
@@ -15,7 +15,7 @@ Tetapi untuk pertama kalinya, Iris tidak merasa takut pada angka itu. Ia merasa 
 
 Keesokan paginya, seorang Hearthkin datang ke toko buku Toma.
 
-Iris melihatnya dari balik tumpukan buku — seorang perempuan muda, tidak lebih tua dari dirinya, dengan mata yang tajam dan langkah yang pelan. Ia tidak membawa angka di atas kepalanya — tidak, semua orang punya angka — tetapi angkanya berbeda dari angka orang lain: **Amethyst 71**, angka yang tinggi dan tenang, seperti angka orang yang telah lama belajar mendengarkan.
+Iris melihatnya dari balik tumpukan buku — seorang perempuan muda, tidak lebih tua dari dirinya, dengan mata yang tajam dan langkah yang pelan. Ia tidak membawa angka di atas kepalanya — tidak, semua orang punya angka — tetapi angkanya berbeda dari angka orang lain: **Diamond 71**, angka yang tinggi dan tenang, seperti angka orang yang telah lama belajar mendengarkan.
 
 Perempuan itu berhenti di depan toko, menatapnya lama, lalu masuk.
 

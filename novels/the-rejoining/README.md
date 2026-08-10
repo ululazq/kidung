@@ -9,6 +9,7 @@ protagonist: "Sorin (Sorin Veyr) — Unbound, pemegang the Compass, bekas kunci 
 description: "Di ujung Book 3 (*The Deep Vow*), Sorin memperkuat the First Seal — sementara — dan untuk pertama kalinya, the Compass menunjuk ke atas. **The Rejoining** berlanjut dari sana: ia naik ke permukaan untuk memberi tahu dunia bahwa ia bocor, bahwa ia mengurai dari dalam, dan bahwa tiga lapis harus memutuskan bersama. Di Heartland, Seren memegang Hearthhold dan menepati sumpahnya. Di Skyreach, Tove menunggu — dan Guilds' Council, yang pernah ingin membedah Sorin, kini menghadapi kenyataan bahwa semua kompas tua menunjuk ke bawah. Sementara itu, di dasar dunia, **Ossian** memulai the Rejoining sendirian: menyatukan kembali lapis dengan kekuatan the Pillars, taruhan yang bisa melepaskan yang terkunci.\n\nSorin membawa tiga tangan ke the First Seal — satu dari tiap discipline, satu dari tiap lapis — untuk menulis ulang segel dengan cara yang tidak ditawarkan siapa pun: bukan merobek dunia, tapi mengikatnya kembali. Di depan pintu yang bocor, pilihan terakhir diambil: menyembuhkan luka atau menegakkan segel — dan harga yang harus dibayar, akhirnya, bukan hanya milik Sorin.\n\n**The Rejoining** adalah penutup universe Skyroot: kisah tentang beban yang dibagikan, nama yang ditulis sendiri, dan kompas yang akhirnya bebas memilih arah. Berakhir dengan segel yang utuh, tiga lapis yang tetap tiga, dan Sorin Veyr — sang kosong — yang akhirnya penuh."
 status: "Complete"
 started: "2026-08-09"
+completed: "2026-08-09"
 target: "16 chapters"
 ---
 

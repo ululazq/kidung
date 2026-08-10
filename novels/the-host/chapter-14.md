@@ -3,11 +3,15 @@ title: "Final Battle"
 chapter: 14
 ---
 
-Malam ketiga. Pulau Semut.
+Malam yang ditunggu. Pulau Semut.
 
 Perahu motor Maya menepi di pantai utara pulau yang gelap. Tidak ada lampu, tidak ada suara selain deburan ombak dan desisan angin di antara pohon kelapa.
 
+Arif menatap bayangan pulau itu—lebih besar dari yang terlihat di foto satelit. Di suatu tempat di dalamnya, enam puluh tiga orang menunggu. Enam puluh tiga orang yang tidak tahu namanya, yang tidak akan pernah tahu namanya, dan yang tetap akan ia selamatkan.
+
 Arif melompat ke pantai berpasir, diikuti Maya dan Hendra. Sari-Sita tetap di perahu, bertugas menjaga jalur mundur mereka.
+
+Sari menatapnya dari perahu. "Arif." Ia menunggu sampai Arif menoleh. "Kau sudah tahu apa yang harus kau lakukan. Jangan lupa sisanya." Arif mengangguk. Ia tidak bertanya "sisanya" apa. Ia tahu: pulang.
 
 "Sepuluh menit," bisik Hendra, memeriksa jam tangannya. "Sepuluh menit sebelum ritual dimulai."
 
@@ -25,11 +29,15 @@ Arif tidak menjawab. Ia hanya berjalan ke depan, masuk ke dalam hutan.
 
 Mereka berdiri di tepi clearing besar. Di tengahnya, sebuah struktur batu mirip candi—tapi lebih modern, lebih geometris. Dindingnya tertutup simbol-simbol yang bersinar merah, bergerak seperti darah yang mengalir.
 
+Simbol-simbol itu bergerak mengikuti irama yang sama dengan denyut di dadanya. Arif menyadari dengan dingin: wadah itu sudah mulai bernapas. Ia tidak menunggu ritual selesai untuk hidup. Ia hidup sejak ia dibangun.
+
 Dan di depan struktur itu, Agung berdiri dengan jubah putih yang berkibar. Di belakangnya, enam puluh tiga tubuh terbaring dalam formasi lingkaran, semua terhubung dengan kabel-kabel cahaya yang mengarah ke pusat.
 
 Di pusat lingkaran, wadah.
 
 Wadah itu tidak terlihat seperti manusia. Lebih seperti siluet—bayangan yang bergerak, berubah bentuk setiap detik. Satu saat ia terlihat seperti pria tinggi. Lalu ia berubah menjadi wanita. Lalu anak-anak. Lalu sesuatu yang tidak punya bentuk sama sekali.
+
+Arif melihat wajah-wajah itu dan mengenali pola di dalamnya: enam puluh tiga wajah yang berganti-ganti, masing-masing sepersekian detik. Enam puluh tiga jiwa yang belum menyerah, yang masih berusaha keluar. Di antara mereka, untuk sesaat, ia melihat wajah Kumbakarna—dan wajah itu menatapnya.
 
 *Sang Penjaga Akhir,* bisik Rahwana. *Dia hampir lengkap.*
 
@@ -43,9 +51,15 @@ Arif melangkah maju. "Lepaskan mereka. Sebelum terlambat."
 
 "Ini pembunuhan."
 
-"Ini evolusi."
+"Ini evolusi." Agung tersenyum dengan tiga wajah sekaligus. "Kau sudah mengatakan itu sekali, Arif. Di Prambanan. Dan kau lihat hasilnya: aku masih di sini. Sekarang kau datang untuk mengatakannya lagi—tanpa Sari di sisimu, tanpa ritual yang bisa kau rusak."
+
+"Aku tidak datang untuk mengatakannya lagi," kata Arif. "Aku datang untuk mengakhirinya."
 
 Hendra maju, mengaktifkan perangkat di tangannya. Sebuah proyektor holografik menyala, menampilkan pola energi wadah. "Kami sudah menganalisis strukturmu. Kami tahu kelemahanmu."
+
+Di dalam kepala Arif, Rahwana berbisik. *Dia berbohong. Kita tidak tahu kelemahannya. Hendra membeli waktu.*
+
+*Aku tahu,* jawab Arif. *Itu sebabnya kita harus cepat.*
 
 Agung melirik ke arah Hendra. "Indrajit. Putraku. Kau benar-benar berpikir kau bisa menghentikanku dengan teknologi manusia?"
 
@@ -62,6 +76,8 @@ Dunia berputar. Satu detik—dua detik—tiga detik.
 Ia muncul di samping wadah, tepat di pusat lingkaran.
 
 *Satu minggu penuaan. Tapi aku belum selesai.*
+
+Di kejauhan, Hendra berteriak sesuatu—mungkin perintah, mungkin peringatan. Arif tidak mendengarnya. Di hadapannya, wadah itu berhenti berubah bentuk. Untuk pertama kalinya, ia menatap Arif dengan sesuatu yang hampir menyerupai perhatian.
 
 Ia mengulurkan tangannya, menyentuh wadah. Permukaan wadah dingin—lebih dingin dari es. Seperti menyentuh ketiadaan.
 
@@ -89,6 +105,10 @@ Arif menarik napas dalam. Kemudian ia meraih utas hitam itu dengan kedua tangann
 
 Dan menarik.
 
+Pada utas pertama, ia mendengar suara. Bukan suara Agung. Suara seorang perempuan yang tidak ia kenal, yang mengucapkan terima kasih sebelum hilang. Pada utas kedua, suara seorang anak kecil yang tertawa. Arif tidak berhenti untuk menangis. Ia tidak punya waktu. Tapi ia menyimpan suara-suara itu, satu per satu, seperti orang menyimpan koin di saku yang hampir robek, yang tahu ia tidak akan sempat menghabiskannya.
+
+Lalu utas ketiga. Keempat. Ia berhenti menghitung suara-suara itu. Yang ia hitung sekarang hanya satu hal: berapa banyak yang tersisa untuk diselamatkan sebelum tubuh ini berhenti.
+
 ---
 
 Rasa sakit.
@@ -111,7 +131,7 @@ Seratus utas.
 
 Kulitnya mengelupas. Rambutnya rontok. Tulangnya terasa seperti kaca yang pecah.
 
-Dua ratus utas.
+Seratus sepuluh utas.
 
 Ia tidak bisa melihat lagi. Matanya kabur. Tapi ia masih bisa merasakan—utas-utas itu masih ada.
 
@@ -124,6 +144,8 @@ Ia tidak bisa melihat lagi. Matanya kabur. Tapi ia masih bisa merasakan—utas-u
 Dan Arif membiarkan.
 
 Untuk pertama kalinya sejak mereka bertemu, Arif melepaskan kontrol sepenuhnya. Ia mundur ke kedalaman kesadarannya, membiarkan Rahwana mengambil alih tubuhnya.
+
+Di dalam Mind Palace, Arif duduk di lantai perpustakaan, menatap rak-rak yang mulai gelap. Di kejauhan, ia mendengar Rahwana berbicara dengan suara yang tidak pernah ia dengar sebelumnya—bukan perintah, bukan bisikan. Nyanyian.
 
 ---
 
@@ -167,6 +189,10 @@ Rahwana—di tubuh Arif—menatapnya. "Bukan menghancurkan. Membebaskan."
 
 Lalu ia jatuh.
 
+Maya dan Hendra berlari melewati tubuh-tubuh yang mulai bergerak—host-host yang tersadar, yang melihat cahaya untuk pertama kalinya setelah berminggu-minggu. Di antara mereka, Sari berjongkok di samping Arif, tangannya mencari denyut di lehernya.
+
+"Masih hidup," katanya. "Tapi—" Ia tidak menyelesaikan kalimatnya. Tidak ada yang perlu diselesaikan.
+
 ---
 
 **Di dalam kesadaran.**
@@ -187,7 +213,7 @@ Arif menatapnya. "Kita... berhasil?"
 
 Rahwana diam. Lalu:
 
-"Tiga ratus lima puluh tahun."
+"Dua ratus empat puluh empat tahun."
 
 Hening.
 
@@ -209,6 +235,14 @@ Arif menutup mata. "Jadi ini... akhir."
 
 Rahwana tersenyum. "Kau akan lihat."
 
+Arif menatap sosok itu—pria tinggi dengan rambut hitam panjang, yang selama tiga minggu hanya ia kenal sebagai suara. "Kau pernah bilang kau adalah raja iblis."
+
+"Aku memang."
+
+"Tapi raja iblis tidak mengorbankan dirinya untuk orang lain."
+
+Rahwana tertawa pelan. "Maka mungkin aku bukan lagi raja iblis."
+
 ---
 
 Arif membuka mata. Ia berbaring di pasir pantai, Maya dan Hendra di sampingnya. Sari-Sita menatapnya dengan air mata di pipi.
@@ -228,3 +262,13 @@ Arif mencoba tersenyum. Tapi wajahnya terasa berat. Ia menatap tangannya—kerip
 Langit mulai cerah. Matahari terbit di timur, menerangi Pulau Semut dengan cahaya emas.
 
 Dan untuk pertama kalinya dalam sebulan, Arif merasa damai.
+
+---
+
+*Di dalam kesadaranku, aku merasakan tubuh ini—lemah, hampir habis, tapi masih hangat. Di dalamnya, Arif tertidur dengan damai yang belum pernah kulihat di wajah manusia.*
+
+*Aku mengambil separuh harganya. Bukan karena aku ingin. Tapi karena untuk pertama kalinya dalam ribuan tahun, aku ingin seseorang tetap tinggal di dunia ini.*
+
+*Dan aku tahu—besok, atau lusa, tubuh ini akan berhenti. Tapi sebelum itu, aku ingin ia tahu bahwa ia tidak pernah sendirian.*
+
+*Tidak pernah.*

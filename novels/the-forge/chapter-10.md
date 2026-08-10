@@ -29,7 +29,7 @@ Vask menatapnya lama. "Itu yang mereka katakan kepadamu?"
 
 Mereka bertarung di lereng Heart of the World — dua Stonesinger, dua generasi, dua jawaban atas pertanyaan yang sama.
 
-Vask lebih kuat. Itu jelas sejak pukulan pertama. Gold 42 melawan Silver 24 — jarak yang tidak bisa ditutup dengan tekad. Setiap Tremor yang dilancarkan Gren, Vask membalas dengan Stonecrown yang lebih besar. Setiap dinding yang dibangun Gren, Vask menghancurkannya dengan palu yang sama yang ia bawa selama dua puluh tahun.
+Vask lebih kuat. Itu jelas sejak pukulan pertama. Emerald 42 melawan Silver 24 — jarak yang tidak bisa ditutup dengan tekad. Setiap Tremor yang dilancarkan Gren, Vask membalas dengan Stonecrown yang lebih besar. Setiap dinding yang dibangun Gren, Vask menghancurkannya dengan palu yang sama yang ia bawa selama dua puluh tahun.
 
 "Aku bisa merasakan keraguanmu," kata Vask, di antara dua serangan, dengan suara yang tenang. "Kau tidak percaya pada apa yang kau lakukan, Gren. Kau bertaruh pada suara di dalam mesin — suara yang mungkin bohong, yang mungkin menyesatkanmu, yang mungkin hanya ingin menggunakanku. Tapi aku — aku percaya pada apa yang kulihat. Aku percaya pada tembok itu, dan aku percaya bahwa tembok itu harus runtuh."
 

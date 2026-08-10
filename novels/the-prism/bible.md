@@ -25,12 +25,12 @@ Sekarang: **Age of the Ascent** — segel Hollow King melemah, Hollow Cult menju
 
 | Nama | Peran | Level/Tier/Class | Detail |
 |---|---|---|---|
-| **Arden Ash** (16 → 18) | Protagonis | Level 1 Iron → 28 Silver, **Swordarm** (tampak) / **Prism** (nyata) | Anak petani Fallowmere; Seer alami sejak kecil (selalu "melihat" angka). Pendiam, teliti, tidak percaya orang — hanya percaya angka. Arc: belajar percaya pada manusia, bukan statistik. |
-| **Harlan Ash** (48) | Ayah | Level 23 Bronze, Swordarm | Mantan prajurit, kini petani. Di-hollow oleh Vance malam pelarian Arden — jadi alasan Arden berjuang. |
-| **Liora** (17 → 19) | Heroin | Level 17 Bronze → 24 Silver, **Hearthwarden** | Calon Hearthwarden Order of the Seal; murid Sir Corvan. Hearth-nya satu-satunya yang "bersih" di mata Arden. Percaya pada manusia, bukan angka — kebalikan Arden. Romance. |
+| **Arden Ash** (12 → 14) | Protagonis | Level 1 Iron → 28 Silver, **Swordarm** (tampak) / **Prism** (nyata) | Anak petani Fallowmere; Seer alami sejak kecil (selalu "melihat" angka). Pendiam, teliti, tidak percaya orang — hanya percaya angka. Arc: belajar percaya pada manusia, bukan statistik. **Mask (konsisten aturan Sight 3a):** Kindling Stone tak bisa memuat Prism sepenuhnya (bab 16: "terlalu besar untuk dimuat di dalam batu") → sistem mencatat pembacaan parsial "Level 1 Iron, Swordarm"; Sight menampilkan catatan itu, jadi level publiknya tampak Iron — bukan pelanggaran aturan. **Progresi level:** Level 1 Iron (bab 1) → 2 (2) → 3 (5) → 18 Bronze (9) → 22 Silver (12 — per outline, tidak muncul eksplisit di bab) → 25–26 (13) → 28 Silver (14). Semua titik cocok dengan tabel tier kanon (Iron 1–10, Bronze 11–20, Silver 21–30). |
+| **Harlan Ash** (48) | Ayah | Level 23 Silver, Swordarm | Mantan prajurit, kini petani. Di-hollow oleh Vance malam pelarian Arden — jadi alasan Arden berjuang. |
+| **Liora** (13 → 15) | Heroin | Level 17 Bronze → 24 Silver, **Hearthwarden** | Calon Hearthwarden Order of the Seal; murid Sir Corvan — prodigi: setahun setelah Kindling sudah Level 17 (manusia naik cepat; laju Vance di bab 7). Sebaya dengan Arden (setahun lebih tua). Hearth-nya satu-satunya yang "bersih" di mata Arden. Percaya pada manusia, bukan angka — kebalikan Arden. Romance. |
 | **Sir Corvan** (64) | Mentor | Level 63 Amethyst, Warden | Ksatria Order, penjaga rahasia: **Penjaga Eastern Scepter**. Dikorbankan (hollowed) di midpoint; menyerahkan Scepter ke Arden bab 11. |
 | **Old Mara** | Twist villain | Seer desa → **Voice of the Hollow** | Wanita tua baik hati yang mengenali Prism di Arden. Sebenarnya Seer Hollow Cult berusia 400 tahun (Diamond hollow) yang ingin memakai Arden untuk "membuka" Crown of the Hollow. |
-| **Vance Marlowe** (30) | Antagonis publik | Silver 35 → Gold 41 | "Pahlawan" populer yang naik terlalu cepat; champio Hollow Cult; meminum Hearth desa-desa yang ia "selamatkan". Di bab 14 semua level curiannya kembali — ia tersisa level 2. |
+| **Vance Marlowe** (30) | Antagonis publik | Gold 35 → Emerald 41 | "Pahlawan" populer yang naik terlalu cepat; champio Hollow Cult; meminum Hearth desa-desa yang ia "selamatkan". Di bab 14 semua level curiannya kembali — ia tersisa level 2. |
 | **Tobin** (25) | Sahabat | Level 14 Bronze, (Hearthkin) | Pedagang keliling Hearthkin, cerewet, "beruntung"; kuda gerobaknya bernama Nibble. |
 | **Bram** (52) | Sekutu | Level 36 Gold, Stonesinger | Penempa Durn dari Durvahl; satu tangan hilang; membenci Hollow Cult. |
 | **Sera** (22) | Sekutu | Level 28 Silver, Windrunner | Pemburu Sil'vael dari Golden Canopy; pendiam, menembak dulu bertanya kemudian. |
@@ -78,7 +78,7 @@ Sekarang: **Age of the Ascent** — segel Hollow King melemah, Hollow Cult menju
 - Bab 11: penyerbuan benteng Order/Cult; Corvan menyerahkan Scepter; Liora dibebaskan.
 - Bab 12: kembali ke Rimbor; rencana Cult terungkap — Hollow Night (ritual kota).
 - Bab 13: Hollow Night dimulai; kota dikuras; Arden mulai mengembalikan.
-- Bab 14: klimaks — Vance Gold 41 + Mara 400 tahun; Arden menang dengan mengembalikan semua Hearth curian (The Return, jangkar Scepter + Hearth Liora + deeds balasan warga); Arden naik ke Silver 28; Mara hancur; Vance tersisa level 2.
+- Bab 14: klimaks — Vance Emerald 41 + Mara 400 tahun; Arden menang dengan mengembalikan semua Hearth curian (The Return, jangkar Scepter + Hearth Liora + deeds balasan warga); Arden naik ke Silver 28; Mara hancur; Vance tersisa level 2.
 - Bab 15: kebenaran Order diungkap; Hearth Decree; getaran dari Heart of the World.
 - Bab 16: epilog — Arden & Liora menjadi Hearth Returner keliling; satu desa dipulihkan; bisikan Hollow King (hook universe).
 

@@ -33,7 +33,7 @@ Thael tidak mencoba melarikan diri. Thael tidak mencoba menghancurkan. Thael han
 
 Ketika Thael dan para penatua melewati pintu itu, sesuatu berubah di dunia di atas reruntuhan itu.
 
-Di Rimbor, angka-angka yang telah membeku mulai bergerak lagi. Perlahan, satu per satu, seperti es yang mencair di musim semi. Seorang pedagang dengan **Bronze 8** — angkanya mulai berkedip, mulai hidup. Seorang anak dengan **Iron 4** — angkanya mulai bernyanyi. Seorang perempuan dengan **Gold 44** — angkanya mulai berdenyut, seperti jantung yang baru saja bangun.
+Di Rimbor, angka-angka yang telah membeku mulai bergerak lagi. Perlahan, satu per satu, seperti es yang mencair di musim semi. Seorang pedagang dengan **Iron 8** — angkanya mulai berkedip, mulai hidup. Seorang anak dengan **Iron 4** — angkanya mulai bernyanyi. Seorang perempuan dengan **Emerald 44** — angkanya mulai berdenyut, seperti jantung yang baru saja bangun.
 
 Di Heart Garrison, mesin Gren mulai berdetak lagi — tidak lambat, tidak membeku, tetapi utuh, seperti lagu yang telah kehilangan bagian-bagiannya dan menemukannya kembali.
 

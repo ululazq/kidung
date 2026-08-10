@@ -62,12 +62,12 @@ Satu baris per bab. Format: perubahan status → status lama jadi status baru.
 | 2 | Arif | 2 (GCD apartemen, RDD Mind Palace) | Arif membuka Mind Palace → dari tidak punya skill jadi bisa akses pengetahuan kuno, tapi menua 1 hari | selesai |
 | 3 | Arif | 3 (GCD kampus UI, RDD pertemuan Sari-Sita, GCD pulang) | Arif bertemu mentor → dari sendirian jadi tahu Sangha Network dan dapat bimbingan | selesai |
 | 4 | Arif | 2 (GCD cafe, RDD tawaran Hendra) | Hendra menawarkan aliansi → dari tidak ada pilihan jadi punya tawaran fusion total (ditolak sementara) | selesai |
-| 5 | Arif | 3 (GCD toko Maya, RDD pengejaran Purists, GCD safe house) | Purists mengejar Arif → dari aman jadi diburu, pertama kali pakai Shadow Step | selesai |
+| 5 | Arif | 3 (GCD toko Maya, RDD pengejaran Purists, GCD safe house) | Purists mengejar Arif → dari aman jadi diburu, berlindung di safe house Cipete | selesai |
 | 6 | Arif | 2 (GCD pertemuan Sangha, RDD observasi) | Arif datang ke pertemuan Sangha → dari outsider jadi dikenali semua faksi, terdeteksi Agung | selesai |
 | 7 | Arif | 2 (GCD safe house, RDD memory dive Rahwana) | Rahwana ungkap rahasia Brahma → dari tidak tahu musuh jadi paham Agung punya agenda besar | selesai |
 | 8 | Arif | 2 (GCD kantor, RDD apartemen → safe house) | Arif pakai Shadow Step kedua → dari menua 1 hari jadi 8 hari total, tapi selamat dari pemburu | selesai |
 | 9 | Arif | 2 (GCD kampus UI, RDD Sari berkhianat) | Sari mengungkap pengkhianatan → dari percaya Sari jadi tahu dia pernah jadi mata-mata Agung | selesai |
-| 10 | Arif | 3 (GCD perjalanan, RDD ritual Candi Prambanan, GCD mobil pulang) | Arif memutus 12 utas karma → dari relatif muda jadi menua 18 tahun (total 19 hari), menghentikan ritual Agung | selesai |
+| 10 | Arif | 3 (GCD perjalanan, RDD ritual Candi Prambanan, GCD mobil pulang) | Arif memutus 12 utas karma → dari relatif muda jadi menua 12 tahun (hari +20), menghentikan ritual Agung | selesai |
 | 11 | Arif | 4 (RDD escape pulau, GCD dermaga, GCD mobil, GCD TechNovus) | Aliansi dengan Hendra terbentuk → dari musuhan jadi sekutu, dapat markas aman | selesai |
 | 12 | Arif | 3 (GCD markas TechNovus, RDD serangan wadah, GCD apartemen aman) | Agung serang markas, Rahwana ungkap wadah Brahma → dari tidak tahu lokasi jadi tahu Pulau Semut, kabur tepat waktu | selesai |
 | 13 | Arif | 2 (GCD rapat rencana, RDD Arif memutuskan berkorban) | Arif memutuskan infiltrasi Pulau Semut → dari ingin hidup jadi siap mati untuk menyelamatkan 63 host | selesai |
@@ -105,4 +105,4 @@ Semua bab sudah mengikuti aturan keras novel-factory-v4-pro-plus:
 - Artefak copy-paste di bab 9 ("它往往" di tengah teks Indonesia) sudah diperbaiki jadi "alasannya sering kali"
 - Konsistensi bagus: setiap bab ditutup dengan bagian italic refleksi POV Rahwana
 - Harga skill selalu disebutkan eksplisit setelah penggunaan
-- Penuaan kumulatif konsisten: 1 hari → 8 hari → 19 hari → dst sampai 150 tahun biologis di akhir
+- Penuaan kumulatif konsisten: 1 hari (ch2) → 8 hari (ch8) → 15 hari (ch11) → 12 tahun (ch10) → 244 tahun total dibagi separuh (ch14: 122 tahun untuk Arif → 150 tahun biologis di akhir)

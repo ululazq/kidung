@@ -5,7 +5,7 @@ chapter: 7
 
 Untuk pertama kalinya dalam sembilan belas tahun, angka di atas kepala Iris tidak bergetar.
 
-Ia tidak menyadarinya pada awalnya. Ia terbangun di pagi hari, di kamar kecilnya di Heart Garrison, dan ia melakukan hal yang selalu ia lakukan: ia menatap langit-langit, menunggu — menunggu angka di atas kepalanya memutuskan apa yang ingin ia katakan hari ini. **Iron 12**? **Silver 30**? Tidak ada apa-apa? Ia selalu menunggu, karena angka itu adalah bagian dari dirinya, dan ia tidak pernah tahu siapa dirinya sampai angka itu berbicara.
+Ia tidak menyadarinya pada awalnya. Ia terbangun di pagi hari, di kamar kecilnya di Heart Garrison, dan ia melakukan hal yang selalu ia lakukan: ia menatap langit-langit, menunggu — menunggu angka di atas kepalanya memutuskan apa yang ingin ia katakan hari ini. **Bronze 12**? **Silver 30**? Tidak ada apa-apa? Ia selalu menunggu, karena angka itu adalah bagian dari dirinya, dan ia tidak pernah tahu siapa dirinya sampai angka itu berbicara.
 
 Tetapi pagi itu, angka itu tidak berbicara.
 

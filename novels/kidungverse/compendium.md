@@ -6,7 +6,7 @@ Referensi terpusat kosakata yang dipakai lintas novel dalam Kidungverse. Setiap 
 - **Unik** — entitas milik satu novel; dilarang bocor ke novel lain.
 - **Gema** — nama yang mirip/sama lintas novel; sengaja dibiarkan, jangan disatukan.
 
-Diperbarui dari audit lintas novel (The Shadow Compiler × The Aetherium Vow × The Cinder Relic, 2026-08).
+Diperbarui dari audit lintas novel (The Shadow Compiler × The Aetherium Vow × The Cinder Relic, 2026-08; audit The Host 2026-08-10; audit universe Auren 2026-08-10 — tier+level, Voice of the Hollow, aturan Sight).
 
 ---
 
@@ -86,6 +86,7 @@ Ciri khas atmosfer: hujan gerimis, uap bertekanan tinggi, bau oli/karat tembaga/
 **Riwayat kebocoran yang diperbaiki:**
 - "Lupa Corp" awalnya muncul di draf aetherium-vow juga; karena Lupa Corp adalah entitas bersama yang berakar pada novel-novel lain, korporasi aetherium di-rename menjadi **Konsorsium Kunci** ("kunci" = metafora inti novel itu: Reza adalah kunci jaringan perisai). 55 titik diperbarui (12 bab + bible + outline + README + laporan).
 - **sang-pembawa-pelita** (audit 2026-08-09): tiga entitas unik novel lain bocor ke dalamnya dan di-rename — **Master Alistair** (unik aegis-of-aether) → **Empu Bramantyo**; **Pak Marto** (unik pustaka-kabut-senja) → **Pak Raga**; **Heavy-Godframe** (unik aegis-of-aether) → **Boiler-Godframe**. Semua referensi diperbarui di bab + bible + outline.
+- **the-host** (audit 2026-08-10): bab 7–15 dipad ke band 1.500–2.060; timeline ch7–10 disatukan dengan bible (+17 → +20); ledger harga disatukan (Shadow Step debut **ch8**, bukan ch5; 12 utas = 12 tahun; total 244 tahun dibagi separuh Rahwana → 122 tahun untuk Arif = 150 biologis); akhir ch7 tidak lagi berangkat ke Prambanan (bentrok ch8); nol baris verbatim ≥60 char ke novel lain; gema nama **Maya** (host Surpanakha) vs **Maya Kirana** (aegis) dicatat di seksi 6. Entitas uniknya (dual consciousness, host, Ancient Skills, Godframe Project) ditambahkan ke seksi 9.
 - **lantern-of-night** (audit 2026-08-10): register disatukan (13× "kamu" → "kau"); tiga nama satu-baris di buku arsip bentrok dengan karakter novel lain dan di-rename — **Nadia** (protagonis gods-in-jars) → **Salma**; **Dimas** (arwah pasar-subuh) → **Gati**; **Bayu** (murid kedua shadow-forger) → **Cakra**. Encoding bab 2–3 (`m�rang` → `merang`) diperbaiki; 12 bab di bawah band 1.500 dipad ke 1.501–1.608; blok duplikat bab 9 dihapus. Entitas uniknya (Kota Senja, Milakara, Kolektor/Luruh, Aula Kenangan, Nyala, benang nama) ditambahkan ke seksi 8 di atas.
 - **Tiga novel satu-bab** (audit 2026-08-09, sebelum bab 2–15 ditulis): bab 1 ketiganya adalah klon template dengan cast yang memakai entitas unik novel lain — semua di-rename di bab 1 + bible + outline + README:
   - **the-resonance-blade** (klon nyaris penuh cast the-aegis-of-aether): Master Alistair → **Empu Wirama**; Baron Malakor → **Baron Mahesa**; Obsidian Syndicate → **Concord Syndicate**; Heavy-Godframe → **Sonic-Godframe**; Clara Kirana → **Nayla**; Pak Broto → **Pak Gito**; Aether Circuit Pulse → **Circuit Pulse**.
@@ -115,6 +116,7 @@ Ciri khas atmosfer: hujan gerimis, uap bertekanan tinggi, bau oli/karat tembaga/
 | **Vance** (Gubernur Jenderal; Elian Vance; dll.) vs **Vane** (Komandan; neon-cipher) | shadow-compiler, aegis-of-aether, dan lain-lain × iron-karma, neon-cipher | Dua keluarga ejaan terpisah |
 | **Ki Demang Brata** vs **Kapten Brata** | kidung-bayang-batavia × cinder-relic | Nama gema villain; karakter berbeda |
 | **Arisya Sola** (protagonis) vs **Arisya Vael** (pendamping) | shadow-compiler × aetherium-vow | Nama sama di kota yang sama (Bawah-Batavia); pembeda = marga, yang berlabuh diegetik: "anak Sola" (ejekan Vance, shadow bab 8) dan "Arisya Vael" (siaran buronan Varek, aetherium bab 2–3). Bagian dari kolam nama paralel aetherium×shadow — jangan disatukan |
+| **Maya** (host Surpanakha, sekutu utama) vs **Maya Kirana** (kriptografer, pendukung) | the-host × the-aegis-of-aether | Gema nama; pembeda = marga penuh "Maya Kirana" (aegis bab 1–16, dipanggil dengan nama lengkap) vs "Maya" saja (the-host, host Surpanakha). Dua semesta berbeda (Jakarta modern vs Bawah-Batavia) — jangan disatukan |
 | **Master Alistair** (aegis) vs **Empu Bramantyo** (sang-pembawa-pelita) | aegis-of-aether × sang-pembawa-pelita | Master Alistair unik aegis dan gugur di bab 8; sang-pembawa-pelita semula memakai nama itu (kebocoran) dan di-rename menjadi Empu Bramantyo. Bukan gema — nama asli harus tetap unik per novel |
 | **Pak Marto** (pks) vs **Pak Raga** (sang-pembawa-pelita) | pustaka-kabut-senja × sang-pembawa-pelita | Pak Marto unik pks dan gugur di bab 8; sang-pembawa-pelita semula memakai nama itu (kebocoran) dan di-rename menjadi Pak Raga. Bukan gema — nama asli harus tetap unik per novel |
 | **Rendra Kael** vs **Master Kaelen** | shadow-compiler × aetherium-vow | Gema lembut (akar "Kael") dari kolam nama paralel yang sama; karakter beda peran (pengawal vs mentor) |
@@ -122,6 +124,7 @@ Ciri khas atmosfer: hujan gerimis, uap bertekanan tinggi, bau oli/karat tembaga/
 | **Rian Vance** vs **Vance** (Gubernur Jenderal; Elian Vance) | resonance-blade × shadow-compiler/aegis-of-aether | Anggota keluarga gema "Vance" yang sudah terdokumentasi; marga dipertahankan, nama depan unik per novel |
 | **Arya Pradipta** vs **Arya** (protagonis kidung-bayang-batavia) | serat-penempa-hampa × kidung-bayang-batavia | Gema nama depan "Arya" lintas lapisan semesta (steampunk × mitologi Nusantara); marga "Pradipta" membedakan. Nama lengkap "Arya Pradipta" semula juga bocor ke the-shadow-forger — sudah di-rename ke Galang Pradipta |
 | **Regulator Tembaga Sejati** vs **Regulator Kuningan Sejati** | iron-karma × copper-relic | Dua relik regulator dengan pola nama hampir sama; pembeda = logam (Tembaga vs Kuningan) dan fungsi (peredam kinetik Bagas vs regulator termal Wira). Keduanya utuh — gema nama, bukan relik yang sama |
+| **Sangha Network** (jaringan host modern; the-host; jaringan arsip; clockwork-astra) vs **Penempa Sangha** (ordo penempa sirkuit Kuno; aetherium-vow, cinder-relic) | the-host/clockwork-astra × aetherium-vow/cinder-relic | Akar kata "Sangha" sama, entitas beda lapisan semesta (organisasi kontemporer vs ordo Kuno). Nama utuh di kedua sisi — konteks kalimat yang membedakan |
 
 **Kolam nama paralel aetherium×shadow:** the-aetherium-vow sengaja menggema nama shadow-compiler — *Kiran*→*Kirana* (Reza Kirana), *Kael*→*Kaelen*, *Arisya*→*Arisya* — sebagai bagian dari konstruksi paralel saudara. Gema ini dibiarkan; marga/nama lengkap adalah pembeda kanoniknya.
 
@@ -154,6 +157,42 @@ Lapisan mitologi Nusantara ini hidup berdampingan dengan lapisan steampunk Bawah
 
 ---
 
+## 9. The Host — Jakarta Modern & Kesadaran Kuno
+
+| Istilah | Makna | Status |
+|---|---|---|
+| **dual consciousness** | Dua kesadaran dalam satu tubuh: host + ancient consciousness | Unik (the-host) |
+| **host / ancient consciousness** | Manusia yang berbagi tubuh dengan kesadaran kuno Ramayana (Rahwana, Sita, Indrajit, Surpanakha, Brahma shard) | Unik (the-host) |
+| **Ancient Skills** | Mind Palace, Karma Sense, Shadow Step, Soul Whisper, Karma Severing — skill kuno dengan **harga penuaan biologis** (tahun dari hidup host) | Unik (the-host) |
+| **Karma Stone / Karma Nexus** | Batu deteksi niat (hijau = bukan Purist) / portal karmic di Candi Prambanan | Unik (the-host) |
+| **Godframe Project** | Proyek Agung: wadah tunggal (Sang Penjaga Akhir) untuk semua consciousness | Unik (the-host) |
+| **Fusion** | Penggabungan consciousness (total atau sebagian); kebalikan dari koeksistensi | Unik (the-host) |
+| **Purists / Assimilationists / Reclaimers** | Tiga faksi internal Sangha Network: separasi, koeksistensi damai, rekonstruksi kerajaan kuno | Unik (the-host) |
+
+**Catatan:** the-host berlatar **Jakarta modern** (bukan Bawah-Batavia); "Godframe" di sini adalah nama proyek, bukan kategori zirah tempur — jangan dikaitkan dengan godframe steampunk. Istilah skill/faksi ditulis Inggris sesuai kanon novel.
+
+---
+
+## 10. Universe Auren (terpisah dari Kidungverse)
+
+Universe fantasi **terpisah** dari Bawah-Batavia — sistem level RPG diegetik (Hearth, Kindling usia 12, level dari deeds jujur). Dokumen kanon: `novels/auren/bible.md` (tabel tier, cap ras, aturan kanon). 11 novel: the-prism, the-warden, the-unstolen, the-forge, the-knock, the-unhollowed, the-unwritten, the-unheard, the-scribes, the-duet, the-remembering.
+
+**Tabel tier (kanon):** Iron 1–10 · Bronze 11–20 · Silver 21–30 · Gold 31–40 · Emerald 41–50 · Sapphire 51–60 · Amethyst 61–70 · Diamond 71–80 · Starfall 81–90 · Ascent 91–100. **Cap ras:** Humans 80, Sil'vael 90 (lambat), Durn 70, Hearthkin 60, Wraithborn 100. Audit 2026-08-10: nol kombinasi tier+level invalid tersisa di seluruh universe.
+
+**Keputusan kanon (audit 2026-08-10):**
+- **Ilara** — Sil'vael ~350+ (bukan Humans); Amethyst 63 (the-warden) → Sapphire 55 (the-unhollowed) setelah melepas level curian saat menebus diri.
+- **Vesper** — Wraithborn ~55; topeng Gold tier (catatan Order), asli Sapphire 58; Hearth Wraithborn tak terbaca Sight (kanon 5a).
+- **Toren** (the-duet) — Diamond (puncak cap Humans 80), bukan Starfall.
+- **Veylan** (the-unwritten) — pengecualian umur penjaga artefak kunci (~1.500 th).
+- **Eryx Valmor** — Starfall 90 (menembus cap 80 lewat mencuri), bukan "Ascent".
+- **Hierarki Cult:** Hollow King → Hollow Queen (Ilara) → **Voice of the Hollow** (Old Mara → Vesper) → 3 **Voice regional** (Voice of the North = Ilara; 2 belum bernama). Bisikan Heart = Hollow King sendiri, bukan gelar.
+- **Aturan Sight (3a):** Sight membaca catatan sistem; pengecualian keterbacaan — Wraithborn, Unwritten, Liminal, Vael, hollow ekstrem, pembacaan parsial Prism (Arden). Mask hanya Vesper + Arden, keduanya konsisten.
+- **Resolusi Lorin:** level Sil'vael ~800 yang tak terbaca Sight = ujung terdalam "Hearth yang bermimpi" — pemahaman delapan abad membuat sistem tak bisa menuliskannya sebagai angka (cermin Prism: terlalu besar untuk dimuat sistem).
+
+**Nama gema Auren (jangan disatukan):** **Old Mara** (the-prism — Voice of the Hollow, tewas bab 14) vs **Mara** (the-unhollowed — Chosen ~24 th, Gold 32 curian, rekindled pertama). Beda karakter, pembeda = konteks (Old Mara vs Mara muda).
+
+---
+
 ## Kaidah Lintas Novel
 
 1. **Kosakata bersama** (Bawah-Batavia, Aether, godframe, ketukan 2-1, Lupa Corp, Sangha, kanal, Gang Kuningan/Tembaga) boleh dipakai bebas di novel mana pun.
@@ -162,6 +201,7 @@ Lapisan mitologi Nusantara ini hidup berdampingan dengan lapisan steampunk Bawah
 4. **Suara karakter harus terdengar berbeda lintas novel.** Protagonis: Kiran (shadow) = telegrafis/taktis; Reza (aetherium) = reflektif, idiom kunci + menahan-melepas; Raka (cinder) = pendek/panas, idiom tungku + memantulkan-memadamkan. Pendukung: Arisya Vael (aetherium) = arsiparis (tablet/hafalan/dokumen); Sinar (cinder) = pengukur (kompas/denyut/arang/catatan); Kaelen (aetherium) = mentor beridiom tangan/perisai; Empu Danu (cinder) = mentor beridiom tungku/katup (simile tempaan). Jangan saling meminjam frasa khas ("Maka"/"kunci" = Reza; "bara"/"padam" = Raka; "tangan" = Kaelen; "tungku/katup" = Empu Danu).
 5. **Frasa khas novel jangan ditukar:** "menelanmu" (aetherium) vs "menghanguskanmu" (cinder); "bukan panggilan" vs refrain lain — tiap novel punya idiomnya sendiri.
 6. **Nama gema dibiarkan** — jangan "disatukan" dengan mengubah nama salah satu pihak; justru itu yang membuat multiverse terasa hidup.
+7. **Mask kekuatan Kidungverse bersifat naratif, bukan stat** — Kidungverse tidak punya sistem level numerik (berbeda dengan universe Auren yang punya tier/Sight; batas lengkap ketiga universe: lihat tabel perbandingan mekanik kekuatan Auren × Skyroot × Kidungverse di `NOVEL-AUDIT.md` seksi 9). Contoh kanon topeng: Mu Yuan (the-godherd — Tongkat Gembala = Lonceng Gembala menyamar) dan Gu Yan (the-last-teacher — Batu Tinta Kelas Bawah + aksara 师 tersembunyi di dasar batu). Jangan menambahkan sistem level/peringkat yang terbaca publik ke novel Kidungverse tanpa alasan kanon (audit 2026-08-10: nol inkonsistensi). **Sistem "penaksiran publik" non-level hanya ada satu: Jiwa (the-godherd & the-last-teacher).** Semua "Sangha/Guild/peringkat" lain = jaringan penempa (Penempa Sangha), dewan/arsip (Dewan Sangha, Sangha Network), Mark yang terukir terlihat (Skyroot — tanpa seremoni penaksiran), penaksir *barang* gadai (pegadaian-bunga), atau penilaian subjektif sehari-hari (kidung-tanah-karam) — tidak ada yang bisa dimanipulasi seperti Jiwa (verifikasi sapu 2026-08-10).
 
 ---
 

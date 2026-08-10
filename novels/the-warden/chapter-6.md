@@ -61,9 +61,9 @@ Bukan dengan cepat — kota yang telah dikuras selama berminggu-minggu tidak bis
 
 Kota itu mulai bangkit — dan dengan kebangkitannya, sesuatu yang lain mulai terjadi di dalam Elira.
 
-Di dalam dadanya, Hearth-nya berdenyut — bukan sekali, tetapi berulang kali, seperti air yang akhirnya menemukan jalan ke sungai. Gold 42. Melindungi seratus Hearth yang dicuri itu — memberi mereka ruang untuk pulang — adalah deeds yang lebih besar daripada apa pun yang pernah ia lakukan di menara. Empat ratus tahun menjaga satu kunci, dan dalam satu sore, ia melindungi seratus orang.
+Di dalam dadanya, Hearth-nya berdenyut — bukan sekali, tetapi berulang kali, seperti air yang akhirnya menemukan jalan ke sungai. Emerald 42. Melindungi seratus Hearth yang dicuri itu — memberi mereka ruang untuk pulang — adalah deeds yang lebih besar daripada apa pun yang pernah ia lakukan di menara. Empat ratus tahun menjaga satu kunci, dan dalam satu sore, ia melindungi seratus orang.
 
-"Kau naik level lagi," kata Kael, yang berdiri di sampingnya dengan mata yang berbinar. "Gold 42. Itu lebih cepat daripada—"
+"Kau naik level lagi," kata Kael, yang berdiri di sampingnya dengan mata yang berbinar. "Emerald 42. Itu lebih cepat daripada—"
 
 "Daripada sebelumnya?" Elira tersenyum — samar, tetapi ada. "Empat ratus tahun, dan aku naik dua level dalam seminggu. Mungkin itu yang dimaksud Scepter: bukan menunggu di tempat yang aman. Melindungi di tempat yang berbahaya."
 

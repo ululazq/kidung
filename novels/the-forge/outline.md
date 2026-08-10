@@ -33,7 +33,7 @@
 - Harmonize diperkenalkan (rare skill Stonesinger — menyelaraskan denyut).
 
 **Bab 6 — The Other Builder**
-- Vask muncul — Stonesinger Durn legendaris yang "menghilang" 20 tahun lalu; kini Gold 42.
+- Vask muncul — Stonesinger Durn legendaris yang "menghilang" 20 tahun lalu; kini Emerald 42.
 - Tawaran: "Cap 70 adalah penjara yang ditulis Vael untuk menahan rasmu. Aku bisa membebaskanmu."
 - Gren menolak: "Aku tidak butuh dibebaskan dari kerja. Kerja adalah yang membuatku utuh."
 
@@ -63,7 +63,7 @@
 **Bab 11 — The Truth of Luck**
 - Kebenaran keberuntungan Hearthkin: Nira tidak "beruntung" — ia *merasakan bahaya yang belum datang*. Levelnya = persiapan sistem.
 - "Keberuntungan bukan hadiah. Ia adalah peringatan." — Gren memahami, dan Nira akhirnya merasa pantas.
-- Level Nira: Bronze 17 → Silver 31 (lonjakan — sistem menyiapkannya untuk yang akan datang).
+- Level Nira: Bronze 17 → Gold 31 (lonjakan — sistem menyiapkannya untuk yang akan datang).
 
 **Bab 12 — The Harmony**
 - "Suara dari dalam" Rook membantu Gren: gema bukan suara musuh — ia suara sistem yang sedang sekarat, memanggil pembuatnya.

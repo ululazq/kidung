@@ -110,3 +110,5 @@ Reza menatapnya. "Bagaimana?"
 "Dan kalau ia tidak datang?" tanya Arisya.
 
 "Maka kita yang menjemputnya." Kaelen berdiri, mengambil sebatang pipa besi dari dinding — yang sama yang ia pakai menahan tiga zirah di pintu bengkel. "Simpul kedua adalah jantung Gang Tembaga. Selama jantung itu berdetak, kau punya alasan untuk berdiri di sini. Dan selama kau berdiri di sini, Varek punya alasan untuk datang. Malam ini kita perbaiki barikade, kita pasang perangkap, dan kita tunggu." Ia menatap Reza. "Besok, kau akan belajar apa artinya menahan ketika seluruh pasukan datang untukmu — bukan untuk kota."
+
+Reza menurunkan pipa itu. "Aku siap," katanya — dan untuk pertama kalinya, ia tidak perlu meyakinkan dirinya sendiri.

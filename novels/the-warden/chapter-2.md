@@ -79,7 +79,7 @@ Elira berdiri. "Kau bicara terlalu banyak untuk seseorang yang baru datang."
 
 Elira berhenti. Dari semua pertanyaan yang ia duga — tentang segel, tentang kultus, tentang Scepter — pertanyaan ini tidak pernah ia duga.
 
-"Karena kami memahami," katanya, akhirnya. "Kalian bertindak dulu, dan tindakan memberi kalian level. Kami memahami dulu, dan pemahaman datang perlahan. Manusia yang lahir seratus tahun setelahku bisa menyalipku dalam tiga dekade." Ia menatap Kael. "Seperti kau, mungkin. Bronze dua puluh dua — pada usiamu. Berapa lama kau butuh untuk mencapai Bronze?"
+"Karena kami memahami," katanya, akhirnya. "Kalian bertindak dulu, dan tindakan memberi kalian level. Kami memahami dulu, dan pemahaman datang perlahan. Manusia yang lahir seratus tahun setelahku bisa menyalipku dalam tiga dekade." Ia menatap Kael. "Seperti kau, mungkin. Silver dua puluh dua — pada usiamu. Berapa lama kau butuh untuk mencapai Silver?"
 
 "Tiga tahun," kata Kael, dengan nada yang hampir malu.
 

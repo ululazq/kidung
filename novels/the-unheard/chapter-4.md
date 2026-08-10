@@ -15,7 +15,7 @@ Ia tidak pernah mengikuti siapa pun. Ia tidak pernah bisa — di sisi luar, tida
 
 Ia mengikuti perempuan itu dari pasar malam ke toko buku, dari toko buku ke kamarnya yang kecil, dari kamarnya ke pasar malam lagi keesokan harinya. Ia mengikuti dengan jarak yang aman, melewati orang-orang yang tidak melihatnya, melewati angka-angka yang bergetar di dekatnya. Ia belajar banyak hal tentang perempuan itu dalam tiga hari itu — tanpa pernah berbicara, tanpa pernah mendekat.
 
-Ia belajar bahwa namanya Iris. Ia belajar bahwa ia bekerja di toko buku milik lelaki tua bernama Toma, dan bahwa ia membaca buku-buku yang tidak ada yang menginginkannya. Ia belajar bahwa angkanya berubah setiap hari — kadang **Iron 12**, kadang **Silver 30**, kadang tidak ada sama sekali — dan bahwa orang-orang menatapnya dengan curiga ketika itu terjadi. Ia belajar bahwa Iris tidak punya teman, tidak punya guild, tidak punya tempat di dunia ini — dan bahwa ia telah belajar untuk tidak peduli, atau setidaknya untuk berpura-pura tidak peduli.
+Ia belajar bahwa namanya Iris. Ia belajar bahwa ia bekerja di toko buku milik lelaki tua bernama Toma, dan bahwa ia membaca buku-buku yang tidak ada yang menginginkannya. Ia belajar bahwa angkanya berubah setiap hari — kadang **Bronze 12**, kadang **Silver 30**, kadang tidak ada sama sekali — dan bahwa orang-orang menatapnya dengan curiga ketika itu terjadi. Ia belajar bahwa Iris tidak punya teman, tidak punya guild, tidak punya tempat di dunia ini — dan bahwa ia telah belajar untuk tidak peduli, atau setidaknya untuk berpura-pura tidak peduli.
 
 Dan Vox belajar satu hal lagi — hal yang membuatnya berhenti di tengah jalan pada hari kedua, dengan sesuatu yang aneh berdenyut di tempat di mana seharusnya ada Hearth:
 
@@ -25,11 +25,11 @@ Di dekat Iris, angka-angka orang lain tidak bergetar.
 
 Vox mengujinya.
 
-Pada hari kedua, ia berdiri di pasar malam — tidak jauh dari Iris, yang sedang membeli roti — dan ia memperhatikan dengan saksama. Di dekatnya, angka-angka orang-orang bergetar seperti biasa: **Bronze 8** menjadi **Bronze 9**, lalu kembali; **Gold 44** menjadi **Gold 43**, lalu kembali. Kehadirannya membuat lagu itu tersendat, seperti nada yang tidak seharusnya ada.
+Pada hari kedua, ia berdiri di pasar malam — tidak jauh dari Iris, yang sedang membeli roti — dan ia memperhatikan dengan saksama. Di dekatnya, angka-angka orang-orang bergetar seperti biasa: **Iron 8** menjadi **Iron 9**, lalu kembali; **Emerald 44** menjadi **Emerald 43**, lalu kembali. Kehadirannya membuat lagu itu tersendat, seperti nada yang tidak seharusnya ada.
 
 Tetapi di dekat Iris, tidak ada yang bergetar.
 
-Iris berdiri di kios roti, dengan angka yang tidak stabil di atas kepalanya — **Iron 12**, lalu **Silver 30**, lalu tidak ada apa-apa — dan di sekelilingnya, angka-angka orang lain tetap stabil. Tidak ada yang tersendat. Tidak ada yang bergetar. Seolah-olah kehadiran Iris menyerap ketidakharmonisan Vox, seperti air menyerap panas, seperti ruang kosong menyerap kebisingan.
+Iris berdiri di kios roti, dengan angka yang tidak stabil di atas kepalanya — **Bronze 12**, lalu **Silver 30**, lalu tidak ada apa-apa — dan di sekelilingnya, angka-angka orang lain tetap stabil. Tidak ada yang tersendat. Tidak ada yang bergetar. Seolah-olah kehadiran Iris menyerap ketidakharmonisan Vox, seperti air menyerap panas, seperti ruang kosong menyerap kebisingan.
 
 Vox tidak mengerti. Ia tidak pernah mengerti — ia tidak pernah belajar mengerti, ia hanya belajar menunggu. Tetapi ia merasakan sesuatu yang belum pernah ia rasakan: di dekat Iris, ia tidak membuat lagu itu tersendat.
 
@@ -67,7 +67,7 @@ Vox tidak tahu harus berkata apa. Ia tidak pernah belajar berbicara. Ia membuka 
 
 Vox mengangguk — gerakan yang aneh, gerakan yang tidak pernah ia lakukan sebelumnya, tetapi gerakan yang terasa benar.
 
-Iris menatapnya lama. Di atas kepalanya, angkanya bergetar: **Iron 12**, lalu **Silver 30**, lalu tidak ada apa-apa, lalu kembali lagi. Dan di sekeliling mereka, di gang yang sepi itu, tidak ada angka lain yang bergetar — karena hanya ada mereka berdua, dua hal yang tidak stabil, berdiri di ruang yang sama.
+Iris menatapnya lama. Di atas kepalanya, angkanya bergetar: **Bronze 12**, lalu **Silver 30**, lalu tidak ada apa-apa, lalu kembali lagi. Dan di sekeliling mereka, di gang yang sepi itu, tidak ada angka lain yang bergetar — karena hanya ada mereka berdua, dua hal yang tidak stabil, berdiri di ruang yang sama.
 
 "Kau meniru wajahku," kata Iris pelan.
 
@@ -97,7 +97,7 @@ Dan untuk pertama kalinya dalam seribu tahun, ia tidak merasa seperti nada yang 
 
 "Ia tidak punya nama," kata Iris, duduk di tepi air mancur di tengah kota, dengan Vox di sampingnya. "Ia tidak pernah punya nama. Ia tidak pernah punya bentuk. Ia tidak pernah punya apa-apa."
 
-"Dan sekarang ia punya wajahmu," kata Wren, yang duduk di hadapan mereka dengan mata yang tajam dan angka **Amethyst 71** yang stabil di atas kepalanya. "Itu... tidak biasa."
+"Dan sekarang ia punya wajahmu," kata Wren, yang duduk di hadapan mereka dengan mata yang tajam dan angka **Diamond 71** yang stabil di atas kepalanya. "Itu... tidak biasa."
 
 "Aku tahu," kata Iris. "Tetapi ia tidak jahat, Wren. Aku sudah bilang itu. Ia hanya tidak tahu bagaimana menjadi orang."
 

@@ -36,7 +36,7 @@ Vael menulis sistem Ascent dari lagu dunia — tetapi ketika mereka menulis atur
 ## Sistem Kekuatan (ringkas)
 
 - **Hearth** — tungku jiwa. **Kindling** usia 12 → Level + Class. **Deeds jujur** = satu-satunya cara naik level.
-- **Iris — the Liminal**: lahir tepat saat lagu selesai (keheningan dinyanyikan) → "anak dari celah"; levelnya tidak pernah stabil (kadang Iron 12, kadang Silver 30, kadang tidak terlihat); sistem tidak bisa menguncinya. Class (bab 15): **Liminal** — yang berada di ambang, di antara dua sisi. Satu-satunya yang bisa *melihat* Vox (ia lahir dari celah yang sama).
+- **Iris — the Liminal**: lahir tepat saat lagu selesai (keheningan dinyanyikan) → "anak dari celah"; levelnya tidak pernah stabil (kadang Bronze 12, kadang Silver 30, kadang tidak terlihat); sistem tidak bisa menguncinya. Class (bab 15): **Liminal** — yang berada di ambang, di antara dua sisi. Satu-satunya yang bisa *melihat* Vox (ia lahir dari celah yang sama).
 - **Vox — the Unheard**: nada sumbang yang dibuang; tidak bernyanyi, tidak punya Hearth, tidak punya level; tidak bisa didengar sistem; bisa "membuat sumbang" — kehadirannya membuat angka orang bergetar (tidak mencuri seperti Hollow King — ia hanya... tidak cocok). Tidak punya bentuk sendiri — mengambil bentuk dari yang pertama ia lihat (Iris). Belajar bernyanyi di bab 14.
 - **Nada sumbang** — istilah lokal (paralel "nada keheningan"): nada kesebelas lagu; dibuang Vael karena tidak cocok dengan aturan; menyanyikannya kembali = lagu lengkap.
 - **Verak** — Vael; "kunci yang hidup"; tinggal di antara dua sisi; dulu ikut membuang yang tidak cocok; sekarang menjaga pintu.

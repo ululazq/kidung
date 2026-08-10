@@ -9,6 +9,7 @@ protagonist: "Sorin (Sorin Veyr) — Unbound, pemegang the Compass, kunci the Fi
 description: "Setelah menembus the Seam, Sorin turun ke Heartland — lapis Bloodline, tempat tanah adalah kekuasaan dan trah adalah hukum. Di sini, tanpa Clanmark, ia adalah keanehan; dengan darah Veyr, ia adalah ancaman. Ketika the Sealmark — kunci the First Seal — bangkit di dadanya di hadapan seluruh pengadilan House Ashvale, para trah tahu apa yang mereka pegang: kunci yang bisa mengunci segel dunia... atau membukanya. House Ashvale ingin menggunakannya untuk berkuasa, House Thornmarch ingin membunuhnya agar segel tidak pernah terbuka — dan perang trah, Bloodfall, meletus di kaki Bloodpillar. Di tengah perang, Sorin menemukan kebenaran yang disembunyikan para trah: apa yang sebenarnya dijaga segel itu — dan kenapa hanya darahnya yang bisa menutupnya."
 status: "Complete"
 started: "2026-08-09"
+completed: "2026-08-09"
 target: "16 chapters"
 language: "Indonesian"
 ---

@@ -7,7 +7,7 @@
 - Upacara: semua anak 12 di atas lingkaran; Arden terakhir. Batu Kindling menyala — dan mengungkap: **Level 1, Iron. Class: Swordarm.** Tawa.
 - Tapi Arden *melihat*: angka, tier, class — semua orang seperti tulisan. Ia Seer sejak lahir, sudah tahu. Yang aneh: batu Kindling retak halus setelah menyentuhnya, dan di desa, Hearth semua orang tampak lebih redup dari yang seharusnya.
 - Old Mara (Seer desa) menatapnya lama, lalu tersenyum hangat: "Kau melihat lebih banyak dari yang seharusnya, bocah. Jangan bilang siapa-siapa."
-- Kabar: **Vance Marlowe**, pahlawan Silver yang terkenal, akan melewati desa.
+- Kabar: **Vance Marlowe**, pahlawan Gold yang terkenal, akan melewati desa.
 - Penutup: Vance tiba sore itu — ramah, dermawan, semua orang mencintainya. Arden melihat Hearth-nya: **retak. Penuh warna-warna yang tidak seharusnya.** Ia tidak tahu apa artinya. Tapi ia tahu ia baru saja melihat sesuatu yang tidak boleh ia lihat.
 
 **Bab 2 — Retakan**
@@ -49,7 +49,7 @@
 - Penutup: di tribun, seorang pria berjubah mencatat nama Arden — dan pergi ke arah rumah Vance.
 
 **Bab 7 — Bintang yang Naik Terlalu Cepat**
-- Vance tiba di Rimbor sebagai pahlawan Timur; King Aldred memberinya gelar; kota merayakannya. Arden melihat Hearth Vance: **Gold 41, dan bertambah setiap minggu.**
+- Vance tiba di Rimbor sebagai pahlawan Timur; King Aldred memberinya gelar; kota merayakannya. Arden melihat Hearth Vance: **Gold 38, dan bertambah setiap minggu.**
 - Arden + Tobin menyelidiki: setiap "penyelamatan" Vance diikuti hollowing — desa-desa, lalu kini *kelas bawah Rimbor*: pelayan istana "pensiun", kuli hilang, pengemis kosong.
 - Liora (Hearthwarden) merasakan Hearth kota menipis — mulai percaya Arden sepenuhnya. Konflik: Corvan melarang mereka menyentuh Vance ("ia dilindungi istana; Order mengawasinya").
 - Adegan romansa: Liora dan Arden di atap Order — "Kau bilang kau hanya percaya angka." "Aku mulai percaya yang lain." — jembatan.
@@ -94,16 +94,16 @@
 ## Babak IV — Gold (bab 13–16)
 
 **Bab 13 — Pengurasan**
-- Ritual berlangsung: Hearth kota ditarik lewat jarum — orang-orang jatuh di jalan, Hearth meredup. Cult merayakan; Vance (Gold 41) berdiri di puncak menara sebagai "penerima".
+- Ritual berlangsung: Hearth kota ditarik lewat jarum — orang-orang jatuh di jalan, Hearth meredup. Cult merayakan; Vance (Emerald 41) berdiri di puncak menara sebagai "penerima".
 - Arden + rombongan bergerak di bawah kota: Bram menghancurkan jarum satu per satu; setiap jarum hancur = ribuan Hearth berhenti dikuras.
 - Arden menggunakan Prism + Scepter untuk *mengembalikan* sebagian Hearth di tengah ritual — pertarungan dengan para enforcer kultus; level Arden naik ke 25–26 (deeds di tengah bahaya).
 - Liora, di permukaan, memimpin warga sipil (Hearthwarden meminjamkan Hearth untuk menyembuhkan yang jatuh — legal, gratis).
 - Penutup: Arden mencapai pusat ritual — dan di sana, **Mara menunggu**, dan di belakangnya: **Crown of the Hollow** — salinan, bukan yang asli, tapi cukup untuk menguatkan kultus.
 
 **Bab 14 — The Return (klimaks)**
-- Konfrontasi penuh: Mara (Diamond hollow, 400 tahun, wujud asli — wanita tua yang membusuk karena terlalu banyak meminum) + Vance (Gold 41). Arden level 26 tidak bisa menang dengan kekuatan.
+- Konfrontasi penuh: Mara (Diamond hollow, 400 tahun, wujud asli — wanita tua yang membusuk karena terlalu banyak meminum) + Vance (Emerald 41). Arden level 26 tidak bisa menang dengan kekuatan.
 - Arden melakukan yang tak terduga: ia **mengembalikan semua sekaligus**. Dengan Scepter sebagai jangkar + Liora meminjamkan Hearth (tanpa rugi) + ratusan ribu Hearth kota yang mengenali pemiliknya — Arden "membuka" saluran pengembalian masal.
-- Semua Hearth curian kembali ke pemiliknya: Vance menyusut level demi level di depan publik (Gold 41 → Silver → Bronze → **Level 2**) — massa yang tadinya memujanya menyaksikan kebenaran. Mara kehilangan 400 tahun curiannya — ia menua dalam hitungan detik dan hancur.
+- Semua Hearth curian kembali ke pemiliknya: Vance menyusut level demi level di depan publik (Emerald 41 → Gold → Bronze → **Level 2**) — massa yang tadinya memujanya menyaksikan kebenaran. Mara kehilangan 400 tahun curiannya — ia menua dalam hitungan detik dan hancur.
 - Biaya: Arden hampir hollow sendiri (saluran pengembalian menarik Hearth-nya) — tapi Liora + Tobin + Bram + Sera + warga yang dipulihkan "meminjamkan" deeds mereka — sistem mengakui pengembalian itu sendiri sebagai deed: **Arden naik ke Silver 28, utuh.**
 - Penutup: ritual berhenti; kota selamat; di Heart of the World, seribu mil jauhnya, segel itu *bergetar* — dan sesuatu yang sangat tua terbangun sejenak.
 

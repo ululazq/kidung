@@ -89,7 +89,7 @@ Elira menatapnya lama. Di dalam dadanya, sesuatu yang telah diam selama empat ra
 
 "Itu yang dikatakan Ghar." Elira menatap api. "Ghar bilang Ilara mengirim salamnya. Ghar bilang ia akan mengerti. Dan sekarang kau datang, dan kau bilang Ilara adalah Voice of the North — pemimpin Cult di utara."
 
-"Bukan hanya di utara." Lorin menatapnya. "Ilara adalah salah satu dari tiga Voice of the Hollow. Ia memimpin seluruh sayap utara Cult — dan ia telah melakukannya selama seratus tahun, tanpa pernah diketahui oleh siapa pun di Canopy. Kami baru tahu ketika pasukannya mulai bergerak ke selatan."
+"Bukan hanya di utara." Lorin menatapnya. "Ilara adalah salah satu dari tiga Voice regional Cult. Ia memimpin seluruh sayap utara Cult — dan ia telah melakukannya selama seratus tahun, tanpa pernah diketahui oleh siapa pun di Canopy. Kami baru tahu ketika pasukannya mulai bergerak ke selatan."
 
 "Dan sekarang ia bergerak ke Heart of the World," kata Elira. "Dengan tiga bagian mahkota Hollow King. Dan ia butuh kunciku."
 

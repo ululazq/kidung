@@ -114,7 +114,7 @@ Ejaan baku. Semua nama proper di bab mana pun harus ada di sini.
   - Mind Palace pertama: 1 hari
   - Shadow Step: 1 minggu per penggunaan
   - Karma Severing: 1 tahun per utas yang diputus
-  - Total yang dibayar Arif: ~122 tahun (28 → 150 tahun biologis)
+  - Total harga (sebelum dibagi): 244 tahun — Rahwana mengambil separuh, jadi Arif membayar 122 tahun (28 → 150 tahun biologis)
   
 - **Siapa yang bisa memakai**: Hanya host dengan ancient consciousness
   
@@ -127,8 +127,8 @@ Ejaan baku. Semua nama proper di bab mana pun harus ada di sini.
   
 - **Sudah didemonstrasikan di bab**: 
   - Mind Palace: bab 2
-  - Karma Sense: bab 5
-  - Shadow Step: bab 5, 11
+  - Karma Sense: bab 7, 8, 10
+  - Shadow Step: bab 8, 11
   - Karma Severing: bab 10 (12 utas), bab 14 (ribuan utas)
 
 ## Timeline
@@ -143,8 +143,8 @@ Ejaan baku. Semua nama proper di bab mana pun harus ada di sini.
 | 6 | Hari +14 | Markas Sangha (lokasi tidak jelas) | Arif, Sari, elder council |
 | 7 | Hari +17 | Safe house Maya | Arif, Maya |
 | 8 | Hari +18 | Apartemen → rumah sakit | Arif, ibu Arif |
-| 9 | Hari +18 (malam) | Kampus UI | Arif, Sari (berkhianat), Maya |
-| 10 | Hari +19 (tengah malam) | Candi Prambanan | Arif, Sari, Maya, Agung |
+| 9 | Hari +19 (pagi) | Kampus UI | Arif, Sari (berkhianat), Maya |
+| 10 | Hari +20 (tengah malam) | Candi Prambanan | Arif, Sari, Maya, Agung |
 | 11 | Hari +20 | Prambanan → Jakarta (TechNovus) | Arif, Maya, Hendra, Indrajit |
 | 12 | Hari +23 | TechNovus SCBD | Arif, Hendra, Maya, Sari |
 | 13 | Hari +25 | Perjalanan ke Pulau Semut | Arif, Hendra, Maya |

@@ -113,7 +113,7 @@ Arden tidak tahu berapa lama — ia hanya tahu bahwa kakinya terasa seperti batu
 
 "Kau menyelamatkannya — sebagian," kata Liora, dengan suara yang hati-hati. "Kau mengembalikan satu sliver. Itu lebih dari yang bisa dilakukan siapa pun." Ia menatap Arden. "Kau tahu apa artinya itu? Itu artinya pencurian level bukan mitos. Itu artinya Vance Marlowe — dan semua orang yang memujanya — adalah monster. Dan kau — kau satu-satunya orang di dunia ini yang bisa melawannya."
 
-"Level 1 melawan Silver 35?" Arden tertawa — tawa yang pahit, tawa yang tidak lucu. "Aku bukan pelawan. Aku hanya anak petani yang bisa menghitung."
+"Level 1 melawan Gold 35?" Arden tertawa — tawa yang pahit, tawa yang tidak lucu. "Aku bukan pelawan. Aku hanya anak petani yang bisa menghitung."
 
 "Anak petani yang bisa melihat kebenaran," kata Liora, "dan mengembalikan apa yang dicuri. Kau mungkin tidak bisa mengalahkannya dengan pedang. Tapi kau bisa mengalahkannya dengan cara yang lebih penting: kau bisa mengembalikan semua yang ia ambil."
 

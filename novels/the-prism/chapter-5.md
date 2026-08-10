@@ -7,7 +7,7 @@ Rimbor tidak seperti apa pun yang pernah Arden bayangkan.
 
 Ia membayangkan kota besar — dan Rimbor memang besar: sembilan tembok yang masing-masing lebih tinggi dari rumah tertinggi di Fallowmere, gerbang batu berukir singa dan scepter, jalanan selebar sungai yang dipenuhi gerobak dan tandu dan orang-orang yang berjalan seperti mereka punya tujuan penting. Tapi yang membuat Arden tercengang bukan ukurannya. Yang membuatnya tercengang adalah bahwa **semua orang terlihat seperti angka**.
 
-Di Fallowmere, Arden adalah satu-satunya yang melihat. Di Rimbor, setiap gerbang dijaga oleh **Seer** — pria dan wanita dengan mata yang berkilau, yang membaca level setiap orang yang masuk seperti petugas bea cukai membaca manifes. Ia melihat gerbang sembilan menaksir para pendatang: "Level 4, Iron — kuli." "Level 18, Bronze, Stormcaller — pekerja batu." "Level 41, Gold — lewat, Tuan."
+Di Fallowmere, Arden adalah satu-satunya yang melihat. Di Rimbor, setiap gerbang dijaga oleh **Seer** — pria dan wanita dengan mata yang berkilau, yang membaca level setiap orang yang masuk seperti petugas bea cukai membaca manifes. Ia melihat gerbang sembilan menaksir para pendatang: "Level 4, Iron — kuli." "Level 18, Bronze, Stormcaller — pekerja batu." "Level 41, Emerald — lewat, Tuan."
 
 Ketika gilirannya tiba, Seer gerbang itu menatapnya, lalu menatap angka yang ia lihat, lalu menatapnya lagi.
 

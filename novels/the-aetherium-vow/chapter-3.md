@@ -111,4 +111,6 @@ Seorang lelaki tua berdiri di ambangnya, rambutnya abu-abu, tangannya penuh kapa
 
 Reza melangkah melewati ambang pintu itu, dan di belakangnya, Arisya. Di dalam bengkel, udara hangat dan berbau tembaga, dan di dinding, simbol-simbol Sangha berjajar seperti penjaga yang sudah lama tidak tidur. Pintu besi itu tertutup di belakang mereka dengan bunyi yang terasa seperti akhir dari satu malam — dan permulaan dari sesuatu yang belum bernama.
 
-Di lengan Reza, garis-garis kuningan itu menyala sekali lagi, pendek — dan untuk pertama kalinya, ia merasa itu bukan panggilan, melainkan jawaban.
+Di lengan Reza, garis-garis kuningan itu menyala sekali lagi, pendek, seperti ketukan yang akhirnya dijawab — dan untuk pertama kalinya, ia merasa itu bukan panggilan, melainkan jawaban.
+
+Di luar, gang itu sunyi. Di dalam, besi-besi tua menggantung seperti lonceng yang menunggu tangan, dan udara hangat itu berbau tembaga dan fajar. Reza menarik napas dalam-dalam dan melepaskannya — dan untuk pertama kalinya sejak galangan itu terbakar, ia merasa tidak sendirian.

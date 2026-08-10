@@ -27,11 +27,11 @@ Untuk pertama kalinya sejak mereka bertemu, Wren melihat sesuatu yang mirip kekh
 
 Mereka mempercepat langkah — dan pada malam itu, di kemah, Wren naik level lagi.
 
-Ini bukan Silver 28. Ini adalah lompatan — denyut yang keras dan panjang di dalam Hearth-nya, yang membuatnya terhuyung di tengah makan malam: **Gold 30.** Dua tier naik dalam satu denyut, tanpa bahaya, tanpa deeds, tanpa alasan apa pun yang bisa ia lihat.
+Ini bukan Silver 28. Ini adalah lompatan — denyut yang keras dan panjang di dalam Hearth-nya, yang membuatnya terhuyung di tengah makan malam: **Silver 30.** Dua level naik dalam satu denyut, tanpa bahaya, tanpa deeds, tanpa alasan apa pun yang bisa ia lihat.
 
 Wren duduk di tepi kemahnya dengan jantung yang berdebar. Di sampingnya, Corin menatapnya dengan ekspresi yang tidak bisa dibaca.
 
-"Gold 30," kata Wren. "Lompatan. Sistem tidak pernah melakukan ini tanpa alasan."
+"Silver 30," kata Wren. "Lompatan. Sistem tidak pernah melakukan ini tanpa alasan."
 
 "Sistem tidak pernah melakukan apa pun tanpa alasan," kata Corin pelan. "Itulah yang membuatku takut. Sistem tidak pernah melakukan apa pun tanpa alasan — dan ketika ia mulai melakukan hal-hal yang tidak pernah ia lakukan, itu berarti sesuatu sedang berubah. Sesuatu yang besar."
 

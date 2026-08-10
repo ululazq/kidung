@@ -5,7 +5,7 @@ Dual POV: bab ganjil = Iris (di dalam sistem), bab genap = Vox (dari luar sistem
 ## Babak I — The Discarded (bab 1–4)
 
 **Bab 1 — The Child of the Gap (Iris)**
-- Rimbor, tiga bulan setelah lagu selesai. Iris, ~19, lahir tepat saat Kiran menyanyikan nada keheningan. Levelnya tidak stabil — kadang Iron 12, kadang Silver 30, kadang tidak terlihat sama sekali. Sistem tidak bisa menguncinya. Ia hidup dengan rasa "rusak" — sampai suatu malam, di pasar Rimbor, ia melihat sesuatu yang tidak bisa dilihat orang lain: sebuah sosok yang tidak bernyanyi.
+- Rimbor, tiga bulan setelah lagu selesai. Iris, ~19, lahir tepat saat Kiran menyanyikan nada keheningan. Levelnya tidak stabil — kadang Bronze 12, kadang Silver 30, kadang tidak terlihat sama sekali. Sistem tidak bisa menguncinya. Ia hidup dengan rasa "rusak" — sampai suatu malam, di pasar Rimbor, ia melihat sesuatu yang tidak bisa dilihat orang lain: sebuah sosok yang tidak bernyanyi.
 
 **Bab 2 — The Smile (Vox)**
 - Sisi luar lagu. Vox — yang dibuang Vael ketika mereka menulis aturan — menekan pintu selama seribu tahun bersama yang lain. Alarm berbunyi (The Knock). Lalu lagu selesai (The Unwritten), pintu terbuka, dan Vox masuk. Ia adalah yang tersenyum di hook The Unwritten. Di dalam sistem, semuanya bernyanyi — kecuali ia.

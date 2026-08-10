@@ -69,7 +69,7 @@ Gren adalah seorang Durn — besar, bertangan kasar, dengan janggut yang abu-abu
 
 Ia mengangkat mesin itu — mesin yang berdetak pelan dengan jarum-jarum dan roda gigi yang berputar — dan ia mengarahkannya ke arah Iris.
 
-Jarum-jarum itu bergerak. Mereka mencatat: **Silver 30**, lalu **Iron 12**, lalu tidak ada apa-apa, lalu **Silver 30** lagi. Angka yang tidak stabil. Angka yang tidak bisa dikunci. Angka yang bergetar seperti jantung yang gugup.
+Jarum-jarum itu bergerak. Mereka mencatat: **Silver 30**, lalu **Bronze 12**, lalu tidak ada apa-apa, lalu **Silver 30** lagi. Angka yang tidak stabil. Angka yang tidak bisa dikunci. Angka yang bergetar seperti jantung yang gugup.
 
 "Seperti yang kuduga," kata Gren. "Sistem tidak bisa menguncimu. Kau adalah anomali — bukan kegagalan, tetapi sesuatu yang belum pernah dicatat sebelumnya." Ia mengarahkan mesin itu ke arah Vox.
 

@@ -5,27 +5,25 @@ chapter: 14
 
 Elira membuka pintu itu dengan caranya sendiri.
 
-Ia tidak mengangkat Scepter itu seperti kunci. Ia tidak menunggu dua bulan itu sejajar. Ia berdiri di hadapan lingkaran cahaya perak yang retak itu, dengan Scepter of the Deep di tangannya, dan ia *berbicara* — bukan kepada pintu itu, tetapi kepada sistem itu sendiri, kepada sesuatu yang lebih tua dari pintu itu, yang telah mendengarkan selama seribu tahun.
+Ia tidak mengangkat Scepter itu seperti kunci. Ia tidak menunggu dua bulan itu sejajar. Ia berdiri di hadapan lingkaran cahaya perak yang retak itu, dengan Scepter of the Deep di tangannya, dan ia *berbicara* — bukan kepada pintu itu, tetapi kepada sistem itu sendiri, kepada sesuatu yang lebih tua, yang telah mendengarkan selama seribu tahun.
 
 "Aku Keeper of the Deep," katanya, dengan suara yang pelan tetapi jelas. "Empat ratus tahun aku menjaga pintu ini. Empat ratus tahun aku menunggu. Dan sekarang aku tahu: pintu ini tidak perlu dijaga oleh satu orang. Pintu ini tidak perlu dijaga oleh pengorbanan. Pintu ini —" ia menggenggam Scepter itu erat, "— pintu ini perlu dibuka, supaya bisa ditutup dengan benar. Dan aku — aku memilih untuk membukanya."
 
 Scepter of the Deep menyala.
 
-Sembilan sinar peraknya menyala sekaligus — terang, tajam, seperti sembilan mata yang membuka diri — dan di dalam lingkaran cahaya yang retak itu, sesuatu bergerak. Bukan Hollow King. Bukan kegelapan. Sesuatu yang lebih tua, sesuatu yang telah menunggu selama seribu tahun, sesuatu yang mengenali Scepter itu seperti mengenali dirinya sendiri.
+Sembilan sinar peraknya menyala sekaligus — terang, tajam, seperti sembilan mata yang membuka diri — dan di dalam lingkaran cahaya yang retak itu, sesuatu bergerak. Bukan Hollow King, bukan kegelapan: sesuatu yang lebih tua, yang mengenali Scepter itu seperti mengenali dirinya sendiri.
 
-Pintu itu terbuka.
-
-Bukan dengan retakan. Bukan dengan paksaan. Pintu itu terbuka seperti pintu yang sudah lama menunggu untuk dibuka — lingkaran cahaya perak itu melebar, dan di dalamnya, untuk pertama kalinya dalam seribu tahun, terlihat apa yang ada di dalam segel.
+Pintu itu terbuka — bukan dengan retakan, bukan dengan paksaan, melainkan seperti pintu yang sudah lama menunggu. Lingkaran cahaya perak itu melebar, dan di dalamnya, untuk pertama kalinya dalam seribu tahun, terlihat apa yang ada di dalam segel.
 
 Kegelapan.
 
-Kegelapan yang tidak bisa dijelaskan dengan kata-kata — kegelapan yang bergerak, yang bernapas, yang memiliki kedalaman dan berat dan *selera*. Dan di tengah kegelapan itu, dua titik cahaya merah — mata — yang membuka diri.
+Kegelapan yang tidak bisa dijelaskan — yang bergerak, yang bernapas, yang memiliki kedalaman dan berat dan *selera*. Dan di tengah kegelapan itu, dua titik cahaya merah — mata — yang membuka diri.
 
 *"Keeper,"* kata suara itu, dan itu adalah suara yang sama yang telah berbisik kepada Elira di menara, di lembah, di jalan ke selatan — suara yang telah menunggu selama seribu tahun. *"Kau membukanya. Kau membukanya dengan tanganmu sendiri. Aku tahu kau akan melakukannya — karena pintu ini hanya bisa dibuka oleh Keeper yang memilih. Dan kau akhirnya memilih."*
 
 "Aku memilih untuk menutupnya," kata Elira. "Bukan untuk membebaskanmu."
 
-*"Kau tidak bisa menutup pintu yang telah kubuka,"* kata suara itu, dengan nada yang hampir seperti tawa. *"Kau bisa menutupnya sebelum aku keluar — tetapi jangkar itu sudah habis, Keeper. Seren tidak bisa menahanku lagi. Dan kau — kau Gold 47 — kau tidak bisa menahan apa yang telah kumiliki selama seribu tahun."*
+*"Kau tidak bisa menutup pintu yang telah kubuka,"* kata suara itu, dengan nada yang hampir seperti tawa. *"Kau bisa menutupnya sebelum aku keluar — tetapi jangkar itu sudah habis, Keeper. Seren tidak bisa menahanku lagi. Dan kau — kau Emerald 47 — kau tidak bisa menahan apa yang telah kumiliki selama seribu tahun."*
 
 "Kau benar," kata Elira, dengan suara yang tenang. "Aku tidak bisa menahannya sendirian."
 
@@ -33,11 +31,9 @@ Dan ia membuka Sanctuary-nya.
 
 ---
 
-Kubah perak itu menyebar dari telapak kaki Elira — bukan untuk menahan Chosen, tetapi untuk menahan pintu itu sendiri. Ia menyebar ke sekeliling lingkaran cahaya yang terbuka, ke sekeliling kegelapan yang mulai merayap keluar, dan di dalam kubah itu, ia melakukan sesuatu yang belum pernah dilakukan Keeper mana pun:
+Kubah perak itu menyebar dari telapak kaki Elira — bukan untuk menahan Chosen, tetapi untuk menahan pintu itu sendiri: ke sekeliling lingkaran cahaya yang terbuka, ke sekeliling kegelapan yang mulai merayap keluar. Di dalam kubah itu, ia melakukan sesuatu yang belum pernah dilakukan Keeper mana pun — ia menahan pintu itu dengan *pengertian*, bukan dengan paksaan.
 
-Ia membuka pintu itu — dan ia tidak menutupnya dengan paksaan. Ia menutupnya dengan *pengertian*.
-
-"Aku melihatmu," kata Elira, berdiri di hadapan kegelapan itu, dengan Scepter of the Deep di tangannya dan Sanctuary yang menyebar di sekelilingnya. "Aku melihatmu, Eryx Valmor. Aku melihat Hearth yang telah kau minum selama seribu tahun — dan aku melihat Hearth yang pertama, yang asli, yang menjadi bagian dari Scepter ini."
+"Aku melihatmu," kata Elira, berdiri di hadapan kegelapan itu. "Aku melihatmu, Eryx Valmor. Aku melihat Hearth yang telah kau minum selama seribu tahun — dan aku melihat Hearth yang pertama, yang asli, yang menjadi bagian dari Scepter ini."
 
 Kegelapan itu berhenti.
 
@@ -51,19 +47,15 @@ Scepter of the Deep berdenyut — sekali, dua kali, seperti jantung yang menging
 
 Di luar rongga, di kaki gunung, Ilara merasakannya.
 
-Tiga bagian mahkota di tangannya mulai bergetar — bukan dengan kekuatan, tetapi dengan *kelemahan*, seperti sesuatu yang kehilangan daya tariknya. Cahaya merahnya mulai memudar, dan untuk pertama kalinya, sesuatu yang mirip ketakutan muncul di wajah Ilara.
+Tiga bagian mahkota di tangannya mulai bergetar — bukan dengan kekuatan, tetapi dengan *kelemahan*, seperti sesuatu yang kehilangan daya tariknya. Cahaya merahnya mulai memudar, dan untuk pertama kalinya, ketakutan muncul di wajah Ilara.
 
 "Tidak," bisiknya. "Tidak mungkin. Ia tidak bisa—"
 
-"Voice!" teriak Ghar, yang telah berhenti di tengah pertempuran, dengan mata yang kosong dan tangan yang bergetar. "Pintu itu — pintu itu menutup!"
+"Voice!" teriak Ghar, yang berhenti di tengah pertempuran, dengan mata kosong dan tangan bergetar. "Pintu itu — pintu itu menutup!"
 
-Dan di dalam rongga, Elira berdiri di hadapan kegelapan yang berhenti — dengan Scepter of the Deep yang berdenyut di tangannya, dengan Sanctuary yang menyebar di sekelilingnya, dengan Hearth asli Hollow King yang mulai merespons — dan ia melakukan hal yang belum pernah dilakukan siapa pun selama seribu tahun:
+Dan di dalam rongga, Elira berdiri di hadapan kegelapan yang berhenti — dengan Scepter of the Deep yang berdenyut di tangannya, dengan Hearth asli Hollow King yang mulai merespons — dan ia melakukan hal yang belum pernah dilakukan siapa pun selama seribu tahun: ia mulai mengembalikan. Bukan dengan kekuatan, bukan dengan keajaiban — dengan *pengertian*: membuka Scepter itu, membiarkan Hearth asli Eryx Valmor berbicara, dan membiarkan sistem itu sendiri mendengarkan.
 
-Ia mulai mengembalikan.
-
-Bukan dengan kekuatan. Bukan dengan keajaiban. Dengan *pengertian* — dengan membuka Scepter itu, dan membiarkan Hearth asli Eryx Valmor itu berbicara, dan membiarkan sistem itu sendiri mendengarkan.
-
-"Aku tidak akan mengosongkanmu," kata Elira, kepada kegelapan itu. "Aku tidak akan meminum apa yang telah kau minum. Aku hanya akan mengembalikan satu hal: ingatanmu. Ingatan tentang siapa kau sebelum kau menjadi ini. Dan ketika kau mengingat — ketika kau melihat dirimu sendiri dengan jujur — kau akan melihat bahwa bahkan kamu memiliki sesuatu yang layak untuk dijaga."
+"Aku tidak akan mengosongkanmu," kata Elira, kepada kegelapan itu. "Aku tidak akan meminum apa yang telah kau minum. Aku hanya akan mengembalikan satu hal: ingatanmu. Ingatan tentang siapa kau sebelum kau menjadi ini. Dan ketika kau mengingat — ketika kau melihat dirimu sendiri dengan jujur — kau akan melihat bahwa bahkan kau memiliki sesuatu yang layak untuk dijaga."
 
 Kegelapan itu berhenti bergerak.
 
@@ -85,7 +77,7 @@ Elira menatapnya. "Namamu Eryx Valmor. Kau adalah First King of Humans. Kau ingi
 
 Di luar, Ilara berjalan menuju pintu itu.
 
-Ia berjalan melewati pertempuran — melewati Chosen yang jatuh, melewati Warden yang terluka, melewati Mirek yang muncul dari bayangan dengan pisau di tangannya. Mirek tidak menghentikannya. Lorin tidak menghentikannya. Bahkan Kael — yang berdiri di depan pintu batu dengan pedang yang terhunus — tidak menghentikannya, karena Ilara berjalan seperti orang yang tidak bisa lagi dihentikan oleh apa pun di dunia ini.
+Ia berjalan melewati pertempuran — Chosen yang jatuh, Warden yang terluka, Mirek yang muncul dari bayangan dengan pisau di tangannya. Mirek tidak menghentikannya. Lorin tidak menghentikannya. Bahkan Kael — yang berdiri di depan pintu batu dengan pedang terhunus — tidak menghentikannya, karena Ilara berjalan seperti orang yang tidak bisa lagi dihentikan.
 
 "Elira," kata Ilara, berdiri di hadapan pintu batu yang terbuka, dengan tiga bagian mahkota yang berdenyut di tangannya. "Kau membukanya. Kau membukanya tanpa aku. Kau—"
 
@@ -103,9 +95,7 @@ Ilara menatapnya — dan untuk pertama kalinya, Elira melihat sesuatu yang tidak
 
 ---
 
-Dan di dalam rongga itu, Elira menutup pintu itu.
-
-Bukan dengan paksaan. Bukan dengan pengorbanan. Dengan Scepter of the Deep di tangannya, dengan Sanctuary di sekelilingnya, dengan Hearth asli Hollow King yang telah ia kembalikan, dan dengan sistem itu sendiri — sistem yang telah belajar, sistem yang telah berubah, sistem yang telah melihat Prism mengembalikan dua ratus ribu Hearth dan yang sekarang melihat Keeper mengembalikan ingatan seorang raja — yang mulai menutup luka yang telah terbuka selama seribu tahun.
+Dan di dalam rongga itu, Elira menutup pintu itu — bukan dengan paksaan, bukan dengan pengorbanan, melainkan dengan sistem itu sendiri: sistem yang telah belajar, yang telah berubah, yang melihat Prism mengembalikan dua ratus ribu Hearth dan kini melihat Keeper mengembalikan ingatan seorang raja — sistem itulah yang mulai menutup luka yang telah terbuka selama seribu tahun.
 
 Lingkaran cahaya perak itu mulai menyusut. Perlahan — tidak dengan paksaan, tetapi dengan cara yang sama seperti luka yang menutup dengan sendirinya.
 
@@ -127,7 +117,7 @@ Ilara berdiri diam, dengan tiga bagian mahkota yang mulai meredup di tangannya.
 
 Keheningan mengisi rongga itu.
 
-Dan untuk pertama kalinya, Elira melihat sesuatu yang tidak pernah ia lihat di mata muridnya selama dua abad: air mata.
+Dan untuk pertama kalinya dalam dua abad, Elira melihat air mata di mata muridnya.
 
 "Aku membuang dua abad," bisik Ilara, dan suaranya pecah. "Dua abad, aku percaya bahwa ia akan mengingatku. Dua abad, aku percaya bahwa ia akan menulis ulang dunia untuk ras kita. Dan ia — ia bahkan tidak tahu namaku."
 
@@ -135,13 +125,13 @@ Dan untuk pertama kalinya, Elira melihat sesuatu yang tidak pernah ia lihat di m
 
 Ilara menatapnya, dengan air mata yang mengalir di wajahnya.
 
-"Sistem ini tidak adil," kata Elira. "Itu benar. Ia menghadiahi tindakan, bukan pemahaman. Ia membuat Sil'vael lambat, dan manusia cepat. Dan aku tidak bisa bilang bahwa itu adil — karena itu tidak adil. Tetapi sistem ini bisa berubah. Ia telah berubah — aku melihatnya. Ia belajar bahwa pengembalian adalah deeds. Dan jika ia bisa belajar itu, ia bisa belajar hal-hal lain. Ia bisa belajar bahwa waktu juga merupakan deeds. Ia bisa belajar bahwa memahami juga merupakan deeds. Ia hanya butuh waktu — dan waktu, Ilara, adalah satu-satunya hal yang kita punya berlimpah."
+"Sistem ini tidak adil," kata Elira. "Itu benar. Ia menghadiahi tindakan, bukan pemahaman. Ia membuat Sil'vael lambat, dan manusia cepat. Dan aku tidak bisa bilang bahwa itu adil — karena itu tidak adil. Tetapi sistem ini bisa berubah. Ia telah berubah — aku melihatnya. Ia belajar bahwa pengembalian adalah deeds. Dan jika ia bisa belajar itu, ia bisa belajar hal-hal lain — bahwa waktu juga merupakan deeds, bahwa memahami juga merupakan deeds. Ia hanya butuh waktu — dan waktu, Ilara, adalah satu-satunya hal yang kita punya berlimpah."
 
 Ilara menatapnya lama — dan kemudian, untuk pertama kalinya dalam dua abad, ia melepaskan sesuatu.
 
-"Kau benar," bisiknya, dengan suara yang pecah. "Aku lupa. Aku lupa bahwa kita — Sil'vael — adalah ras yang menunggu. Dan aku lupa bahwa menunggu bukanlah kutukan. Menunggu adalah apa yang kita lakukan ketika kita tahu bahwa sesuatu yang berharga sedang datang."
+"Kau benar," bisiknya, dengan suara yang pecah. "Aku lupa. Aku lupa bahwa kita — Sil'vael — adalah ras yang menunggu. Dan bahwa menunggu bukanlah kutukan. Menunggu adalah apa yang kita lakukan ketika kita tahu bahwa sesuatu yang berharga sedang datang."
 
-Ia mengangkat tiga bagian mahkota itu — dan alih-alih mengangkatnya ke udara, ia menurunkannya. Menurunkannya ke tanah, di hadapan pintu yang menyusut itu.
+Ia mengangkat tiga bagian mahkota itu — dan alih-alih mengangkatnya ke udara, ia menurunkannya ke tanah, di hadapan pintu yang menyusut itu.
 
 "Aku tidak bisa membatalkan dua abad," katanya, dengan suara yang pelan. "Tapi aku bisa menghentikan satu malam. Ambil ini, Elira. Ambil mahkota ini — dan tutup pintu itu. Tutup ia dengan cara yang benar. Dan ketika kau menutupnya —" ia menatap Elira, dengan mata yang basah, "— ingatlah aku. Ingatlah bahwa aku pernah menjadi muridmu. Ingatlah bahwa aku pernah percaya pada sesuatu."
 
@@ -151,15 +141,13 @@ Ia mengangkat tiga bagian mahkota itu — dan alih-alih mengangkatnya ke udara, 
 
 ---
 
-Elira menutup pintu itu.
-
-Dengan Scepter of the Deep di tangannya, dengan Sanctuary di sekelilingnya, dengan Hearth asli Hollow King yang telah ia kembalikan, dan dengan tiga bagian mahkota yang tergeletak di tanah di hadapannya — ia menutup lingkaran cahaya perak itu, dan sistem itu sendiri ikut menutup, dan luka yang telah terbuka selama seribu tahun akhirnya menutup dengan sendirinya.
+Elira menutup pintu itu — dengan Scepter of the Deep di tangannya dan tiga bagian mahkota yang tergeletak di tanah di hadapannya. Lingkaran cahaya perak itu menutup, sistem itu sendiri ikut menutup, dan luka yang telah terbuka selama seribu tahun akhirnya menutup dengan sendirinya.
 
 Seren — Keeper pertama, jangkar yang telah menahan pintu itu selama seribu tahun — tersenyum.
 
 "Kau bebas," bisik Elira, berlutut di hadapannya.
 
-"Aku tahu." Seren menatapnya dengan mata yang basah. "Aku bebas. Seribu tahun, dan aku akhirnya bebas — bukan karena seseorang mengorbankan dirinya untukku, tetapi karena kau menemukan cara agar tidak ada yang perlu dikorbankan." Ia mengangkat tangan yang pucat itu, dan menyentuh pipi Elira — sentuhan yang dingin, sentuhan yang lembut. "Kau telah melakukan apa yang tidak bisa kulakukan dalam seribu tahun, Elira. Kau telah menunjukkan bahwa pintu ini bisa dijaga tanpa darah. Kau telah menunjukkan bahwa sistem ini bisa disembuhkan. Dan kau telah menunjukkan bahwa bahkan Keeper yang paling tua pun bisa belajar sesuatu yang baru."
+"Aku tahu." Seren menatapnya dengan mata yang basah. "Aku bebas. Seribu tahun, dan aku akhirnya bebas — bukan karena seseorang mengorbankan dirinya untukku, tetapi karena kau menemukan cara agar tidak ada yang perlu dikorbankan." Ia mengangkat tangan yang pucat itu, dan menyentuh pipi Elira — sentuhan yang dingin, sentuhan yang lembut. "Kau telah melakukan apa yang tidak bisa kulakukan dalam seribu tahun, Elira. Kau telah menunjukkan bahwa pintu ini bisa dijaga tanpa darah, bahwa sistem ini bisa disembuhkan — dan bahwa bahkan Keeper yang paling tua pun bisa belajar sesuatu yang baru."
 
 "Terima kasih," bisik Elira.
 
@@ -181,7 +169,7 @@ Pintu itu menutup dengan suara yang pelan — bukan suara paksaan, tetapi suara 
 
 Di luar, dua bulan mulai bergeser — melewati titik sejajar, mulai menjauh — dan pasukan Ilara mulai bubar, satu per satu, seperti kabut yang larut di bawah matahari terbit.
 
-Ilara berdiri di kaki pintu itu, dengan tiga bagian mahkota yang telah ia letakkan di tanah, dengan air mata yang telah kering di wajahnya. Ia menatap pintu yang tertutup itu lama — dan kemudian ia menoleh kepada Elira, dengan mata yang tua dan tenang.
+Ilara berdiri di kaki pintu itu, dengan air mata yang telah kering di wajahnya. Ia menatap pintu yang tertutup itu lama — lalu menoleh kepada Elira, dengan mata yang tua dan tenang.
 
 "Aku tidak bisa kembali," katanya, dengan suara yang pelan. "Aku tidak bisa kembali ke Golden Canopy. Aku tidak bisa kembali menjadi muridmu. Aku telah melakukan terlalu banyak hal — dan Sil'vael tidak bisa melupakan."
 
@@ -189,7 +177,7 @@ Ilara berdiri di kaki pintu itu, dengan tiga bagian mahkota yang telah ia letakk
 
 "Tapi aku bisa melakukan satu hal." Ilara menatap mahkota yang tergeletak di tanah itu. "Aku bisa membawa ini jauh dari sini — dan memastikan bahwa tidak ada yang akan pernah menemukannya lagi. Bukan untuk Hollow King. Bukan untuk Cult. Untuk —" ia berhenti, dan untuk pertama kalinya, ada sesuatu yang mirip senyum di wajahnya, "— untuk sistem yang telah kupelajari untuk dipercaya kembali."
 
-Elira menatapnya lama. Di dalam dada Ilara, dengan bagian dari dirinya yang melihat Hearth, ia melihat nyala api — nyala yang telah dikelilingi oleh warna-warna asing selama dua abad, tetapi yang sekarang, untuk pertama kalinya, terbakar dengan warna yang bersih.
+Elira menatapnya lama. Dengan bagian dari dirinya yang melihat Hearth, ia melihat nyala api di dada Ilara — nyala yang telah dikelilingi warna-warna asing selama dua abad, tetapi yang sekarang terbakar dengan warna yang bersih.
 
 "Aku akan mengingatmu," kata Elira. "Aku akan mengingat bahwa kau pernah menjadi muridku. Aku akan mengingat bahwa kau pernah percaya pada sesuatu. Dan ketika sistem ini akhirnya belajar bahwa waktu juga merupakan deeds — aku akan mengingat bahwa kau adalah orang yang pertama kali menanyakannya."
 

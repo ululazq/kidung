@@ -109,7 +109,7 @@ Api unggun kecil berderak di antara dua monolit, dan di atas mereka, bintang-bin
 
 "Semua orang mengira begitu." Gren menatap api. "Tapi aku seorang pembuat, Nira. Dan seorang pembuat tahu satu hal yang tidak diketahui orang lain: segala sesuatu yang terlihat seperti aturan sebenarnya adalah mesin. Aturan adalah cara mesin terlihat ketika ia bekerja dengan benar. Dan ketika mesin rusak, aturan itu mulai berbohong — bukan karena ia ingin berbohong, tetapi karena ia tidak lagi bisa membedakan kebenaran dari kerusakannya."
 
-"Seperti Kindling Yara," bisik Nira. "Silver 14 tanpa deeds."
+"Seperti Kindling Yara," bisik Nira. "Bronze 14 tanpa deeds."
 
 "Seperti Kindling Yara." Gren mengangguk. "Sistem tidak berbohong — ia rusak. Dan kerusakan itu tidak berasal dari luar. Ia berasal dari dalam — dari jantung yang dipalu selama bertahun-tahun."
 

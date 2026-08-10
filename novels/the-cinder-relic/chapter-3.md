@@ -93,6 +93,6 @@ Seorang lelaki tua berdiri di ambangnya — rambutnya abu-abu, tangannya penuh k
 
 "Relik itu memilih pemegang yang membawa luka bakar di lehernya," katanya pelan. "Aku menyimpan cetakan Aether Blaze selama dua puluh tahun." Ia menatap lengan Raka sekali lagi. "Dan aku sudah menunggu kunci itu lebih lama dari itu. Masuklah — sebelum api yang mengejarmu belajar mengetuk pintu."
 
-Raka melangkah melewati ambang pintu itu, dan Sinar di belakangnya. Di dalam bengkel, udara panas dan kering dan berbau arang, dan di dinding, simbol-simbol Sangha berjajar di antara palu-palu tua dan cetakan-cetakan tembaga yang menggantung seperti lonceng yang tidak pernah berbunyi. Empu Danu menutup pintu besi itu di belakang mereka, dan bunyinya terasa seperti akhir dari satu malam — dan permulaan dari sesuatu yang belum bernama.
+Raka melangkah melewati ambang pintu itu, dan Sinar di belakangnya. Di dalam bengkel, udara panas dan kering dan berbau arang, dan di dinding, simbol-simbol Sangha berjajar di antara palu-palu tua dan cetakan-cetakan tembaga yang menggantung seperti lonceng yang tidak pernah berbunyi — dan di sudut, api kecil di tungku bernyanyi sendiri, seperti penjaga yang tidak pernah lelah. Empu Danu menutup pintu besi itu di belakang mereka, dan bunyinya mengunci mereka di dalam kehangatan itu seperti sumpah yang belum diucapkan.
 
-Di lengan Raka, sarung tembaga itu menyala sekali lagi, pendek — dan untuk pertama kalinya, ia merasa itu bukan panggilan, melainkan jawaban.
+Di lengan Raka, sarung tembaga itu menyala sekali lagi, pendek — dan untuk pertama kalinya, api itu tidak meminta, tidak menuntut. Ia menunggu. Dan Raka tahu, dengan cara yang tidak bisa ia jelaskan, bahwa ia telah pulang ke tempat api itu seharusnya dilatih.

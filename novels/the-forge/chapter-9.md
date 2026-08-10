@@ -91,7 +91,7 @@ Ia tersenyum — senyum yang kecil, yang lelah, yang bangga.
 
 Malam itu, level Nira naik.
 
-Ia sedang menulis di buku catatannya — catatan tentang perjalanan, tentang gunung, tentang semua hal yang tidak bisa ia jelaskan — ketika sesuatu di dalam dadanya berdenyut, dan ia merasakan perubahan itu: Bronze 18. Lalu Bronze 19. Lalu Silver 20.
+Ia sedang menulis di buku catatannya — catatan tentang perjalanan, tentang gunung, tentang semua hal yang tidak bisa ia jelaskan — ketika sesuatu di dalam dadanya berdenyut, dan ia merasakan perubahan itu: Bronze 18. Lalu Bronze 19. Lalu Bronze 20.
 
 "Gren." Suaranya pecah. "Gren, ada yang salah. Levelku naik — tiga kali, tanpa alasan, tanpa deeds. Aku tidak melakukan apa-apa. Aku hanya duduk di sini."
 

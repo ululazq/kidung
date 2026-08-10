@@ -27,7 +27,7 @@ Talia mencatat semuanya. Ia mencatat karena mencatat adalah apa yang dilakukan S
 
 Ia duduk di ruang makan panjang dengan tumpukan kertas di depannya, dan satu per satu, orang-orang Garrison datang kepadanya: Warden yang menunjukkan lencana mereka, pekerja yang menyebutkan nama mereka, anak-anak yang berlari melewatinya sambil tertawa. Untuk setiap orang, ia membuka Sight-nya — bagian dari dirinya yang melihat level seperti membaca stat — dan mencatat: nama, usia, level, tier, class.
 
-"Ryk, Warden Order, Gold 41, Swordarm," gumamnya, menulis dengan pena yang cepat. "Mirek, Wraithborn, Gold 40, Shadowstep. Lorin, Sil'vael, —" ia berhenti, dan untuk sesaat, matanya menyipit, "— level yang tidak bisa kubaca. Menarik. Sil'vael yang levelnya tidak bisa dibaca jarang sekali."
+"Ryk, Warden Order, Emerald 41, Swordarm," gumamnya, menulis dengan pena yang cepat. "Mirek, Wraithborn, Gold 40, Shadowstep. Lorin, Sil'vael, —" ia berhenti, dan untuk sesaat, matanya menyipit, "— level yang tidak bisa kubaca. Menarik. Sil'vael yang levelnya tidak bisa dibaca jarang sekali."
 
 "Aku sudah sangat tua," kata Lorin, yang duduk di seberangnya dengan teh di tangannya. "Waktu membuat angka menjadi kurang penting."
 

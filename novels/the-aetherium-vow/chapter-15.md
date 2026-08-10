@@ -107,4 +107,6 @@ Di atas mereka, matahari sore menyinari Bawah-Batavia — kota yang telah lama d
 
 Di ambang pintu, anak itu berjalan pulang dengan pipa tembaga di tangannya — dan di gerbang gang, ia berhenti, menoleh, dan mengetuk pipa itu tiga kali ke tiang besi: dua pendek, satu panjang.
 
-Reza menatapnya. Di dalam dadanya, denyut lengan itu berdetak pelan — dan untuk pertama kalinya, ia mendengar bukan panggilan, bukan peringatan, tetapi sesuatu yang lain: jawaban.
+Reza menatapnya — dan untuk sesaat, ia tidak melihat anak itu, melainkan dirinya sendiri, empat tahun lalu, yang baru saja belajar bahwa ketukan bisa menjadi bahasa.
+
+Di dalam dadanya, denyut lengan itu berdetak pelan — dan untuk pertama kalinya, ia mendengar bukan panggilan, bukan peringatan, tetapi sesuatu yang lain: jawaban yang sudah lama ia tunggu dan yang kini tidak perlu diucapkan lagi.

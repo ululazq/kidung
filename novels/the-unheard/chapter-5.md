@@ -103,7 +103,7 @@ Keraguan.
 
 "Kau salah, Verak," kata sebuah suara di belakangnya.
 
-Verak berbalik. Wren berdiri di atap itu, dengan mata yang tajam dan angka **Amethyst 71** yang stabil di atas kepalanya.
+Verak berbalik. Wren berdiri di atap itu, dengan mata yang tajam dan angka **Diamond 71** yang stabil di atas kepalanya.
 
 "Kau pikir aku datang ke sini untuk mengusirnya," kata Wren. "Kau pikir aku akan membantumu menutup pintu itu lagi. Tetapi aku tidak datang ke sini untuk itu."
 

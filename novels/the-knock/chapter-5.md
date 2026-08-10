@@ -73,7 +73,7 @@ Gren tertawa — tawa yang dalam dan bergetar, seperti batu yang bergeser di dal
 
 "Pekerjaan mendengarkan," kata Wren.
 
-"Pekerjaan mendengarkan." Gren mengangguk. "Dan sekarang, untuk pertama kalinya dalam seribu tahun, ada sesuatu yang datang — dan sistem telah menaikkan gaji Hearthkin yang paling tajam sebagai persiapan." Ia menatap Wren. "Kau naik ke Gold 30 semalam, bukan? Lompatan dua tier. Sistem tidak pernah melakukan itu tanpa alasan."
+"Pekerjaan mendengarkan." Gren mengangguk. "Dan sekarang, untuk pertama kalinya dalam seribu tahun, ada sesuatu yang datang — dan sistem telah menaikkan gaji Hearthkin yang paling tajam sebagai persiapan." Ia menatap Wren. "Kau naik ke Silver 30 semalam, bukan? Lompatan dua level. Sistem tidak pernah melakukan itu tanpa alasan."
 
 Wren menatapnya, dan untuk sesaat, ia tidak tahu harus berkata apa. "Kau tahu tentang itu?"
 

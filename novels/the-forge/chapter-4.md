@@ -21,7 +21,7 @@ Gren menatap pegunungan di sekeliling mereka — pegunungan yang telah bernyanyi
 
 Sebelum mereka berangkat, Gren mengunjungi Yara.
 
-Anak itu duduk di ambang jendela rumahnya, dengan mata yang menatap pegunungan dan level yang masih Silver 14 di dadanya — level yang tidak ia minta, yang tidak ia kerjakan, yang membuatnya ditatap dengan campuran takut dan iri oleh seluruh desa.
+Anak itu duduk di ambang jendela rumahnya, dengan mata yang menatap pegunungan dan level yang masih Bronze 14 di dadanya — level yang tidak ia minta, yang tidak ia kerjakan, yang membuatnya ditatap dengan campuran takut dan iri oleh seluruh desa.
 
 "Aku mau pergi ke utara," kata Gren, duduk di sampingnya. "Untuk mencari tahu apa yang terjadi dengan levelmu."
 

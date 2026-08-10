@@ -98,3 +98,5 @@ Malam itu, sebelum tidur di bangku bengkel, Reza duduk sendirian di halaman bela
 Ia tidak pernah menjawabnya. Malam ini, ia tidak bisa menjawabnya juga — tetapi untuk pertama kalinya, ia ingin bisa.
 
 Di kejauhan, di balik deretan cerobong, garis tipis fajar mulai memucat di ujung timur, seperti mata yang terbuka untuk menonton.
+
+Lempengan perunggu itu tetap dingin di pangkuannya, tetapi lengan kanannya hangat — dan untuk sesaat, sebelum fajar benar-benar tiba, Reza membiarkan dirinya percaya bahwa besok, untuk pertama kalinya, akan berjalan dengan caranya sendiri. Besok, lempengan itu akan menjadi perisai; malam ini, cukup menjadi janji.

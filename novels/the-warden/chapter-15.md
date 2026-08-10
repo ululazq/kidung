@@ -79,6 +79,10 @@ Surat dari King Aldred tiba di Heart Garrison — gulungan panjang yang ditandat
 
 Elira berdiri di dekat jendela, mendengarkan, dan di dalam dadanya, sesuatu yang telah diam selama empat ratus tahun bergerak — pelan, hangat, seperti air yang akhirnya menemukan jalan ke sungai.
 
+Level 52. Sapphire.
+
+Empat ratus tahun untuk Gold 38 — dan beberapa pekan untuk empat belas. Melindungi Chosen yang berjalan ke selatan. Melindungi Wraithborn yang akhirnya punya tempat. Melindungi rasnya sendiri — untuk pertama kalinya, tidak seorang diri.
+
 "Kau tahu," katanya, ketika Kael selesai membaca, "ketika aku mulai perjalanan ini, aku berpikir bahwa aku sedang membawa kunci ke pintu. Aku tidak tahu bahwa aku sedang membawa sesuatu yang lain — sesuatu yang akan mengubah dunia."
 
 "Kau mengubah dunia," kata Kael. "Kau mengubahnya dengan cara yang tidak akan pernah kau lihat — karena perubahan yang paling penting selalu terjadi di tempat yang tidak bisa dilihat."

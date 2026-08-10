@@ -23,7 +23,7 @@ Di Rimbor, semua orang diukur oleh satu hal: angka di atas kepala mereka. Level.
 
 Angka Iris berubah setiap hari.
 
-Kadang ia bangun dengan **Iron 12** di atas kepalanya — angka yang kecil, pudar, seperti angka orang yang baru saja gagal. Kadang ia bangun dengan **Silver 30** — angka yang cerah dan berdenyut, seperti angka orang yang telah berjuang keras. Kadang — dan inilah yang paling menakutkan — ia bangun tanpa angka sama sekali, dengan ruang kosong di atas kepalanya, seperti orang yang tidak tercatat.
+Kadang ia bangun dengan **Bronze 12** di atas kepalanya — angka yang kecil, pudar, seperti angka orang yang baru saja gagal. Kadang ia bangun dengan **Silver 30** — angka yang cerah dan berdenyut, seperti angka orang yang telah berjuang keras. Kadang — dan inilah yang paling menakutkan — ia bangun tanpa angka sama sekali, dengan ruang kosong di atas kepalanya, seperti orang yang tidak tercatat.
 
 Orang-orang menatapnya. Para Seer mencatatnya. Ordo Penegak memeriksanya tiga kali — dan setiap kali, hasilnya sama: sistem tidak bisa menguncinya. Bukan gagal. Bukan tidak tercatat. Tetapi *tidak bisa dikunci* — seperti sesuatu yang sedang bergerak di antara dua tempat.
 
@@ -49,7 +49,7 @@ Pasar itu selalu ramai pada malam hari. Lampu-lampu minyak menyala di setiap kio
 
 Ia berhenti di kios buah — jeruk dari Durvahl, harganya tiga koin tembaga — dan saat itulah ia melihatnya.
 
-Di kios itu, penjualnya sedang melayani seorang perempuan dengan angka **Gold 44** di atas kepalanya — angka yang cerah dan stabil seperti matahari kecil. Perempuan itu menawar harga jeruk dengan suara yang tinggi dan percaya diri, dan penjual itu mengalah dengan senyum yang lebar, dan semuanya berjalan seperti biasa — seperti segala sesuatu di Rimbor berjalan seperti biasa: dengan angka-angka yang stabil di atas kepala orang-orang yang stabil.
+Di kios itu, penjualnya sedang melayani seorang perempuan dengan angka **Emerald 44** di atas kepalanya — angka yang cerah dan stabil seperti matahari kecil. Perempuan itu menawar harga jeruk dengan suara yang tinggi dan percaya diri, dan penjual itu mengalah dengan senyum yang lebar, dan semuanya berjalan seperti biasa — seperti segala sesuatu di Rimbor berjalan seperti biasa: dengan angka-angka yang stabil di atas kepala orang-orang yang stabil.
 
 Iris hampir tidak memperhatikan sosok itu. Hampir.
 
@@ -63,7 +63,7 @@ Sosok itu tinggi dan kurus, dengan jubah yang gelap dan wajah yang... berubah. S
 
 Dan di sekeliling sosok itu, angka-angka orang-orang bergetar.
 
-Iris melihatnya dengan jelas: seorang pedagang di dekat sosok itu — yang angkanya baru saja **Bronze 8** — tiba-tiba bergetar menjadi **Bronze 9**, lalu kembali menjadi **Bronze 8**, seperti angka yang tidak bisa memutuskan apa yang ingin ia katakan. Di dekat sosok itu, tidak ada angka yang stabil. Semuanya bergetar.
+Iris melihatnya dengan jelas: seorang pedagang di dekat sosok itu — yang angkanya baru saja **Iron 8** — tiba-tiba bergetar menjadi **Iron 9**, lalu kembali menjadi **Iron 8**, seperti angka yang tidak bisa memutuskan apa yang ingin ia katakan. Di dekat sosok itu, tidak ada angka yang stabil. Semuanya bergetar.
 
 Seperti angka di atas kepalanya sendiri.
 
@@ -93,7 +93,7 @@ Di sekeliling mereka, pasar malam itu terus berjalan — orang-orang menawar, la
 
 Sosok itu menatapnya sekali lagi — lama, seperti sesuatu yang sedang mengingat — lalu berbalik dan berjalan pergi, melewati kerumunan yang tidak melihatnya, melewati kios-kios yang tidak menyadarinya, dan menghilang di antara bayang-bayang pasar malam.
 
-Iris berdiri di sana, sendirian, dengan jantung yang berdebar dan angka yang bergetar di atas kepalanya — **Iron 12**, lalu **Silver 30**, lalu tidak ada apa-apa, lalu kembali lagi — dan untuk pertama kalinya dalam hidupnya, ia tidak merasa takut pada angka yang tidak stabil itu.
+Iris berdiri di sana, sendirian, dengan jantung yang berdebar dan angka yang bergetar di atas kepalanya — **Bronze 12**, lalu **Silver 30**, lalu tidak ada apa-apa, lalu kembali lagi — dan untuk pertama kalinya dalam hidupnya, ia tidak merasa takut pada angka yang tidak stabil itu.
 
 Ia merasa seperti angka itu — dan sosok itu — dan sesuatu yang lebih besar dari keduanya — sedang menunggu untuk ditemukan.
 

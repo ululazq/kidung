@@ -71,7 +71,7 @@ Pagi itu, Rook bangun dengan denyut yang berbeda di dadanya — dan untuk pertam
 
 Ia bukan naik level karena bahaya. Ia naik level karena pemahaman.
 
-Levelnya naik — dari Silver 37 menjadi Bronze 41, lalu Emerald 45 — dalam satu malam, tanpa satu pun pertarungan, tanpa satu pun bahaya. Denyut di dadanya tidak menguat seperti biasanya. Ia justru... berubah. Menjadi lebih tenang, lebih dalam, seperti sungai yang menemukan dasarnya.
+Levelnya naik — dari Gold 37 menjadi Emerald 41, lalu Emerald 45 — dalam satu malam, tanpa satu pun pertarungan, tanpa satu pun bahaya. Denyut di dadanya tidak menguat seperti biasanya. Ia justru... berubah. Menjadi lebih tenang, lebih dalam, seperti sungai yang menemukan dasarnya.
 
 "Itu mungkin terjadi?" Talia menatap angka level yang ia baca — bukan dengan Sight-nya, tetapi dari catatan yang Rook tulis. "Naik level tanpa bahaya?"
 

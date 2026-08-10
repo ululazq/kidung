@@ -99,8 +99,8 @@ Raka menatap lengan kanannya. Di dalam dadanya, denyut itu berdetak pelan. "Beso
 
 Malam itu, Gang Tembaga tidak tidur. Empu Danu memimpin para penempa membalik gerobak-gerobak menjadi barikade; Pak Hasan dan delapan pengemudinya menggulung sekarung batu bara ke setiap ujung gang — untuk membuat asap yang tidak bisa ditembus zirah; dan Sinar duduk di ambang bengkel, menggambar peta Fondasi dari ingatan, dengan tanda-tanya di tempat yang tidak ia ketahui.
 
-Raka duduk di halaman belakang, menatap lengan kanannya yang menyala dua rongga. Di dalam dadanya, denyut itu berdetak pelan — seperti kompas, seperti jantung, seperti sesuatu yang telah menunggu lama untuk dilengkapi.
+Raka duduk di halaman belakang, menatap lengan kanannya yang menyala dua rongga. Di dalam dadanya, denyut itu berdetak pelan — seperti kompas, seperti jantung, seperti sesuatu yang telah menunggu lama untuk dilengkapi — dan yang besok akan tahu jawabannya.
 
-Besok, pikirnya. Besok kita lihat siapa yang bisa berhenti menguras.
+Besok, pikirnya. Besok kita lihat siapa yang bisa berhenti menguras — dan siapa yang tidak akan pernah berhenti.
 
 "Larilah, pemegang kunci!" suara Brata menggema di antara dinding-dinding batu. "Larilah ke Gang Tembaga. Besok, aku datang dengan zirah yang tidak bisa kau hentikan — dan kau akan belajar apa artinya memadamkan sesuatu yang tidak pernah padam!"

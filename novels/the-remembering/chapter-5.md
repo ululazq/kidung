@@ -156,3 +156,5 @@ Di dalam keheningan itu, di balik sesuatu yang memisahkan mereka dari dunia yang
 Dunia itu bernyanyi.
 
 Dan suatu hari — ketika lagu itu selesai — mereka akan mendengarnya dari dekat.
+
+Mereka hanya perlu menunggu. Mereka telah menunggu selama-lamanya — dan menunggu sekali lagi tidak akan merusak apa pun. Lagu itu tidak pernah pergi. Ia hanya menunggu untuk didengar.

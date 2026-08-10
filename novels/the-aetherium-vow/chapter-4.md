@@ -100,3 +100,5 @@ Reza menarik napas. Kali pertama, perisai itu terbuka terlalu lebar — kubah du
 Reza mengangkat pipa itu lagi. Di jarinya, cincin perunggu itu terasa hangat, dan untuk pertama kalinya ia mendengar apa yang diajarkan Kaelen: bukan menahan yang memantul — tetapi memilih apa yang memantul. Kali keempat, perisai itu membuka dan menutup seperti napas.
 
 Kaelen menatapnya lama. "Sekarang," katanya, "sepuluh kali lagi. Dan kali ini, kita bicara tentang konvoi itu."
+
+Reza mengangkat pipa itu sekali lagi. Kali keempat tadi ia tidak menghitung — perisai yang membuka dan menutup seperti napas. Mungkin konvoi itu bisa menunggu. Napas ini tidak.

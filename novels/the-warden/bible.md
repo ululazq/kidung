@@ -25,14 +25,14 @@ Elira, Sil'vael Warden Gold 38, telah menjaga **Scepter of the Deep** di Watchto
 
 | Nama | Peran | Level/Tier/Class | Detail |
 |---|---|---|---|
-| **Elira** (Sil'vael, ~400 th → "tampak 30") | Protagonis | Gold 38 → Emerald 52, **Warden** | Keeper terakhir garis penjaga Scepter of the Deep. Tenang, sunyi, berbicara dengan Scepter; tidak percaya bahwa dirinya layak dicintai lagi setelah 400 tahun menjaga sendirian. Arc: dari penjaga yang menunggu → penjaga yang memilih. |
-| **Kael** (Humans, 24) | Hero/romance | Bronze 22 → Silver 34, **Warden** | Utusan Order of the Seal (reformasi) yang dikirim memeriksa Scepter utara. Jujur, berani, penuh harapan — "manusia yang naik cepat" yang menjadi cermin kutukan Elira. Romance: ia mengajarinya bahwa sekarang lebih penting daripada kenangan. |
-| **Mirek** (Wraithborn, usia tak diketahui) | Sekutu | Silver 31 → Gold 40, **Shadowstep** | Pembuang Wraithborn yang diburu Cult (Wraithborn tak bisa dikuras — musuh alami Cult). Hearth gelap, level naik dari bahaya yang dihadapi. Sinis, sarkastik, setia setelah dikasih alasan. |
-| **Ilara** (Sil'vael, ~350 th) | Antagonis | Amethyst 63, **Warden** (korup) | Mantan murid Elira, kini **Voice of the North** — pemimpin Cult utara. Membenci sistem: Sil'vael dikutuk lambat, manusia menyalip mereka. Ingin menghancurkan sistem dan membiarkan Hollow King menulis ulang dunia. |
+| **Elira** (Sil'vael, ~400 th → "tampak 30") | Protagonis | Gold 38 → Sapphire 52, **Warden** | Keeper terakhir garis penjaga Scepter of the Deep. Tenang, sunyi, berbicara dengan Scepter; tidak percaya bahwa dirinya layak dicintai lagi setelah 400 tahun menjaga sendirian. Arc: dari penjaga yang menunggu → penjaga yang memilih. **Progresi level:** Gold 38 (bab 1) → 39 (3) → 40 (5) → Emerald 42 (6) → 45 (10) → 47 (13–14) → Sapphire 52 (15). |
+| **Kael** (Humans, 24) | Hero/romance | Silver 22 → Gold 34, **Warden** | Utusan Order of the Seal (reformasi) yang dikirim memeriksa Scepter utara. Jujur, berani, penuh harapan — "manusia yang naik cepat" yang menjadi cermin kutukan Elira. Romance: ia mengajarinya bahwa sekarang lebih penting daripada kenangan. **Progresi level:** Silver 22 (bab 2) → 23 (3) → 24 (5) → 26 (6) → 28 (9) → 30 (10) → Gold 32 (13) → 34 (bab 15–16, pasca-perang — endpoint bible). |
+| **Mirek** (Wraithborn, ~40+ th) | Sekutu | Gold 31 → Gold 40, **Shadowstep** | Pembuang Wraithborn yang diburu Cult (Wraithborn tak bisa dikuras — musuh alami Cult). Hearth gelap, level naik dari bahaya yang dihadapi — Gold 31 dari 40 tahun diburu ("empat puluh tahun berlari", bab 5/10/15), jauh di bawah cap Wraithborn 100. Sinis, sarkastik, setia setelah dikasih alasan. **Progresi level:** Gold 31 (bab 5) → 34 (6) → 37 (9) → 39 (10) → 40 (13, sesuai endpoint bible). |
+| **Ilara** (Sil'vael, ~350 th) | Antagonis | Amethyst 63, **Warden** (korup) | Mantan murid Elira, kini **Voice of the North** — pemimpin Cult utara. Membenci sistem: Sil'vael dikutuk lambat, manusia menyalip mereka. Ingin menghancurkan sistem dan membiarkan Hollow King menulis ulang dunia. **Amethyst 63 bukan hasil naik alami** (Sil'vael alami: ±38 level dalam 400 tahun — bandingkan Elira): ia **Chosen yang memilih** (bab 12) — mengosongkan Hearth-nya sendiri dan diisi ulang Hearth curian selama dua abad di pihak Cult (meninggalkan Elira 2 abad lalu, mencari 50 tahun, lalu memimpin sayap utara ~100 tahun — bab 7-8); "warna-warna asing" di Hearth-nya (bab 12, 14) = level curian. |
 | **Seren** (Sil'vael) | Figur misteri | — (Keeper pertama, terikat segel) | Keeper pertama yang mengikat diri ke segel 1.000 tahun lalu — "jangkar" hidup segel. Dibebaskan di klimaks (bab 14) — meninggal damai setelah 1.000 tahun. |
 | **Ghar** (Durn) | Mid-villain | Emerald 44, **Chosen** | Durn yang dihollow dan "diisi ulang" Cult sebagai Chosen — bukti bahwa Cult memakai semua ras. Menyerang Watchtower (bab 3); nyaris sadar kembali (bab 13) tetapi Ilara menahannya. |
-| **Voice of the Hollow** | Figur offscreen | — | Suara Hollow King (Eryx Valmor) yang berbisik dari Heart of the World (hook The Prism bab 16). Di bab 14 ingatannya dikembalikan Elira — ia mulai "mengingat" dan menawarkan pintu dibuka lagi (hook bab 16). |
-| **Lorin** (Sil'vael, ~800 th) | Sekutu | — (level tak disebutkan) | Utusan Canopy Council yang mencari Elira; pendamping delapan abad yang memahami kutukan Sil'vael; tetap di Heart Garrison. |
+| **Eryx Valmor / Hollow King (bisikan)** | Figur offscreen | — (disegel) | Suara Hollow King yang berbisik dari Heart of the World (hook The Prism bab 16). **Bukan gelar Voice of the Hollow** — itu posisi Cult tertinggi (Old Mara, The Prism → Vesper, The Unstolen). Di bab 14 ingatannya dikembalikan Elira — ia mulai "mengingat" dan menawarkan pintu dibuka lagi (hook bab 16). |
+| **Lorin** (Sil'vael, ~800 th) | Sekutu | — (level tak terbaca) | Utusan Canopy Council yang mencari Elira; pendamping delapan abad yang memahami kutukan Sil'vael; tetap di Heart Garrison. Levelnya **tak terbaca Sight** (The Unstolen bab 2: "Sil'vael yang levelnya tidak bisa dibaca jarang sekali") — **resolusi kanon: ujung terdalam 'Hearth yang bermimpi'** — setelah delapan abad memahami, Hearth-nya bermimpi begitu dalam sehingga sistem tidak bisa lagi menuliskannya sebagai angka; Sight membaca catatan sistem, dan catatan itu menjadi 'bekas mimpi' yang tak bisa dipatok. Jarang sekali = hanya Sil'vael yang hidup ~800 tahun dan mencapai kedalaman itu. Cermin Prism: sama seperti Kindling Stone tak bisa memuat Arden (the-prism bab 16), sistem tak bisa memuat pemahaman tersetua. |
 | **Ryk** (Durn tua / Warden tua) | Sekutu | Warden Order | Warden tua yang selamat dari benteng utara; memilih berdiri bersama Keeper (bab 12); mengawasi pembangunan Heart Garrison. |
 | **Alden** (Sil'vael) | Figur latar | — (Keeper sebelumnya) | Keeper sebelum Elira; meninggalkan Sanctuary di desa Durn (bab 9 — utang Durn); meninggal sebelum Elira menjadi Keeper. |
 
@@ -54,7 +54,7 @@ Elira, Sil'vael Warden Gold 38, telah menjaga **Scepter of the Deep** di Watchto
 6. Ilara meninggalkan Elira 200 tahun lalu (bab 2 → Voice of the North bab 8 → pilihan bab 14)
 7. Kutukan lambat Sil'vael (bab 1 → ideologi Ilara bab 8 → resolusi Elira bab 15)
 8. Wraithborn tak bisa dikuras (bab 5 → alasan Cult memburu mereka → Mirek kunci pertahanan bab 13)
-9. Crown pecah menjadi sembilan fragmen (bab 6 → Ilara punya 3 bab 10 → fragmen hancur bab 14)
+9. Crown pecah menjadi sembilan fragmen (bab 6 → Ilara punya 3 bab 10 → cahayanya memudar & mahkota diletakkan Ilara di hadapan pintu, bab 14)
 10. Seren, jangkar segel (bab 11 → dibebaskan bab 14 — tidak ada pengorbanan)
 11. Getaran/bisikan Hollow King (bab 1 → klimaks bab 14 → hook epilog bab 16)
 12. "Keeper adalah satu-satunya yang bisa membuka pintu" (bab 8 → keputusan Elira bab 15 → hook bab 16)
@@ -75,14 +75,14 @@ Elira, Sil'vael Warden Gold 38, telah menjaga **Scepter of the Deep** di Watchto
 - Bab 11: Heart of the World; Seren — jangkar segel; kebenaran: pengorbanan tidak diperlukan.
 - Bab 12: berkumpulnya kekuatan; Mirek & Wraithborn; tentara Ilara tiba; bab 12 ditutup menjelang perang.
 - Bab 13: pertempuran Heart; Sanctuary diuji; Chosen menerobos; Seren gagal — Elira harus memilih.
-- Bab 14: klimaks — Elira menolak pengorbanan; segel ditempa ulang tanpa jangkar hidup; Seren bebas; Ilara memilih (kenangan > kekuasaan) dan memutus ikatannya — tewas membebaskan.
+- Bab 14: klimaks — Elira menolak pengorbanan; segel ditempa ulang tanpa jangkar hidup; Seren bebas; Ilara memilih (kenangan > kekuasaan), menurunkan mahkota di hadapan pintu, lalu berjalan ke selatan — meninggalkan dua abad, bukan mati.
 - Bab 15: setelah perang; Heart Garrison; Kael komandan; Mirek Wraithborn pertama di Order; Elira memilih tetap — bukan pengorbanan, tapi pilihan.
 - Bab 16: epilog — satu tahun kemudian; romansa Kael-Elira terurai; kabar Prism dari selatan; bisikan Hollow King (hook universe novel ketiga).
 
 ## Aturan penulisan
 
 - Bahasa Indonesia; istilah sistem (tier, class, level, Hearth, Kindling, Scepter, Ward, Sanctuary, Chosen, hollow, Voice of the North) persis seperti di bible — dalam bahasa Inggris.
-- Panjang bab 1.800–2.200 kata.
+- Panjang bab 1.800–2.200 kata. Pengecualian terdokumentasi: bab klimaks 14 boleh memanjang sampai batas repo 2.500 (saat ini ±2.473) — audit 2026-08-10 memangkasnya dari 2.613 dengan menghapus pengulangan nyaris-verbatim tanpa menyentuh kanon.
 - Tidak ada H1 di body; frontmatter bab persis tiga baris.
 - Setiap bab minimal dua pertukaran dialog yang mengubah sesuatu.
 - Tidak mengulang kalimat; tidak menutup bab dengan kalimat generik.

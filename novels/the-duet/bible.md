@@ -37,7 +37,7 @@ Setelah lagu dunia selesai — sembilan nada, keheningan, dan sumbang, dan nada 
 | Nama | Peran | Level/Tier/Class | Detail |
 |---|---|---|---|
 | **Sera** (Scepter of the Dawn) | Protagonis | — (Resonance, bab 15) | Scepter Timur yang terbangun setelah lagu selesai; telah mendengarkan lagu dunia selama seribu tahun; tahu ketukan itu jawaban, bukan alarm; belajar menjadi orang dari Mira. Arc: dari "catatan yang mendengarkan" → "suara yang menjawab". |
-| **Toren** (Humans) | Antagonis simpatik | Starfall, class — | Veteran era Hollow King; pernah melihat dunia hampir membeku (Unwritten); membentuk Order of the Final Note; ingin mengunci batas selamanya — dengan mengorbankan Scepter; bukan jahat — ia takut kehilangan. |
+| **Toren** (Humans) | Antagonis simpatik | Diamond, class — | Veteran era Hollow King; pernah melihat dunia hampir membeku (Unwritten); membentuk Order of the Final Note; ingin mengunci batas selamanya — dengan mengorbankan Scepter; bukan jahat — ia takut kehilangan. |
 | **Mira** (Humans) | **Romance** | Silver, class **Custodian** | Penjaga Scepter Hall selama 40 tahun; berbicara kepada Scepter of the Dawn yang "tidur" setiap hari; satu-satunya yang percaya ia hidup. "Kau berbicara kepadaku sebelum aku punya nama. Maka kau yang menamakanku." |
 | **First Listener** | Entitas | — | Ingatan keheningan yang menahan lagu pertama; pendengar pertama lagu itu; pemimpin paduan suara yang mengetuk; bukan musuh — penonton asli yang ingin didengar. |
 | **Wren** (Hearthkin) | Pendukung | Windrunner | Penjaga-pendengar; mendengar ketukan itu dan tahu ia BUKAN alarm — ia jawaban. |

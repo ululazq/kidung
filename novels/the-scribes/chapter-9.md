@@ -19,7 +19,7 @@ Thael tidak berhenti. Ia terus menulis — dan di dunia di atas reruntuhan itu, 
 
 Di Rimbor, angka-angka mulai membeku.
 
-Bukan semua angka. Bukan sekaligus. Tetapi perlahan, satu per satu, seperti air yang mulai membeku di musim dingin. Seorang pedagang dengan **Bronze 8** di atas kepalanya — angkanya berhenti bergetar, berhenti berkedip, berhenti hidup. Ia menjadi patung yang diam. Seorang anak dengan **Iron 4** — angkanya membeku. Seorang perempuan dengan **Gold 44** — angkanya membeku.
+Bukan semua angka. Bukan sekaligus. Tetapi perlahan, satu per satu, seperti air yang mulai membeku di musim dingin. Seorang pedagang dengan **Iron 8** di atas kepalanya — angkanya berhenti bergetar, berhenti berkedip, berhenti hidup. Ia menjadi patung yang diam. Seorang anak dengan **Iron 4** — angkanya membeku. Seorang perempuan dengan **Emerald 44** — angkanya membeku.
 
 Di Heart Garrison, Gren menatap mesinnya — dan untuk pertama kalinya, mesin itu mulai melambat. Jarum-jarumnya bergerak lebih pelan. Roda-rodanya berputar lebih lambat. Mesin itu sedang... membeku.
 

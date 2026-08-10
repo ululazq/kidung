@@ -71,7 +71,7 @@ Kerumunan itu masih berteriak — "Bakar! Bakar!" — dan tidak ada yang mendeng
 
 Kerumunan itu berhenti.
 
-Untuk sesaat, semuanya hening. Lalu Vance Marlowe tertawa — tawa yang hangat, tawa yang ramah, tawa pahlawan yang dimengerti oleh desa yang ia selamatkan. "Anak yang berani," katanya, dengan suara yang penuh kelembutan. "Level 1 yang menuduh Silver 35. Aku menghormati keberanianmu, Nak. Tapi kau masih muda, dan kau salah."
+Untuk sesaat, semuanya hening. Lalu Vance Marlowe tertawa — tawa yang hangat, tawa yang ramah, tawa pahlawan yang dimengerti oleh desa yang ia selamatkan. "Anak yang berani," katanya, dengan suara yang penuh kelembutan. "Level 1 yang menuduh Gold 35. Aku menghormati keberanianmu, Nak. Tapi kau masih muda, dan kau salah."
 
 "Kau yang salah—"
 

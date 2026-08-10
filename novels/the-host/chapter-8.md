@@ -3,9 +3,17 @@ title: "Cost Escalation"
 chapter: 8
 ---
 
-Satu minggu setelah pertemuan Sangha Network.
+Empat hari setelah pertemuan Sangha Network.
 
-Arif duduk di meja kerjanya, menatam layar kosong. Deadline laporan analitik mingguan sudah lewat tiga hari. Atasannya tidak mengajukan pertanyaan—hanya diam, yang lebih buruk.
+Arif duduk di meja kerjanya, menatap layar kosong. Deadline laporan analitik mingguan sudah lewat tiga hari. Atasannya tidak mengajukan pertanyaan—hanya diam, yang lebih buruk.
+
+Di tengah hari, atasan itu berhenti di meja Arif. "Kamu sakit?" tanyanya. "Wajahmu..."
+
+"Aku kurang tidur, Pak."
+
+"Kurang tidur tidak membuat rambutmu rontok, Arif." Atasan itu menatapnya lama, lalu mengangkat bahu. "Ambil cuti kalau perlu. Laporan bisa nunggu. Kesehatan tidak."
+
+Arif mengangguk, tapi di dalam kepalanya, Rahwana tertawa pelan. *Kesehatan. Dia tidak tahu bahwa yang menua bukan hanya tubuhmu—tapi waktumu.*
 
 Di dalam kepalanya, Rahwana tenang seperti biasa.
 
@@ -15,7 +23,17 @@ Di dalam kepalanya, Rahwana tenang seperti biasa.
 
 *Bukan pujian. Ini fakta.*
 
-Arif memeriksa tangannya. Garis-garis halus di ujung jari sudah menyebar ke telapak tangan. Rambutnya—yang sudah mulai tipis di pelipis—kini rontok lebih banyak. Di cermin kantor, ia melihat lingkaran hitam yang lebih dalam di bawah matanya.
+Arif memeriksa tangannya. Garis-garis halus di ujung jari sudah menyebar ke telapak tangan.
+
+"Berapa umurku sekarang?"
+
+*Dua puluh delapan tahun. Tapi tubuhmu mulai berjalan seperti orang yang lebih tua.*
+
+"Kamu menghitung?"
+
+*Aku menghitung semua hal yang kau miliki. Karena kau tidak.* Rambutnya—yang sudah mulai tipis di pelipis—kini rontok lebih banyak. Di cermin kantor, ia melihat lingkaran hitam yang lebih dalam di bawah matanya.
+
+Ia ingat janji temu dengan ibunya di rumah sakit akhir pekan ini. Ibunya tidak tahu apa-apa tentang Rahwana—hanya tahu bahwa anaknya semakin sering tidak menjawab telepon. Arif sudah tiga kali menunda kunjungan itu. Ia tidak tahu bagaimana menjelaskan wajah yang terus menua tanpa penjelasan.
 
 *Aku tahu.*
 
@@ -36,6 +54,14 @@ Arif menelan ludah. Satu minggu. Bukan satu hari seperti Mind Palace. Satu mingg
 "Kalau aku pakai tiga kali?"
 
 *Tiga minggu. Dalam tiga hari.*
+
+"Dan Karma Sense? Berapa harganya?"
+
+*Tidak ada. Ia lahir dari tubuh yang sudah terhubung. Kau sudah membayarnya tanpa sadar—dengan hari-hari yang hilang.*
+
+Arif mengerutkan dahi. "Itu bukan jawaban."
+
+*Itu satu-satunya jawaban yang jujur. Beberapa harga tidak dihitung dengan angka. Mereka dihitung dengan apa yang tidak bisa kau dapatkan kembali.*
 
 Arif memegang kepalanya. "Kenapa kamu tidak bilang ini sejak awal?"
 
@@ -63,6 +89,12 @@ Tiga host. Hilang.
 
 Arif menatap layar. Rahwana tidak bicara. Tapi Arif merasakan sesuatu—tekanan di dada, seperti ada tangan yang memegang jantungnya.
 
+Ia membaca ulang berita itu tiga kali, mencari detail yang tidak ada: nama-nama, lokasi, waktu. Tiga host. Hilang dalam dua minggu terakhir, kata artikel itu. Dua minggu—waktu yang sama dengan sejak ia pertama kali mendengar nama Sangha Network. Dunia ini baru saja mulai, dan ia sudah mulai memakan orang-orangnya.
+
+Arif membuka Mind Palace, membandingkan nama-nama itu dengan data pertemuan Sangha. Laki-laki, tiga puluh empat tahun, manajer restoran di Kemang—host Arjuna. Perempuan, dua puluh sembilan tahun, guru SMA di Depok—host Srikandi. Laki-laki, empat puluh satu tahun, pengusaha properti di Kelapa Gading—host Kumbakarna. Tidak ada kesamaan umur, profesi, atau lokasi. Tapi ada satu pola yang tidak ia lihat sebelumnya: semuanya host dari ancient tingkat tinggi. Bukan sembarang host. Host yang berharga.
+
+*Mereka mengumpulkan,* bisik Rahwana. *Bukan membunuh. Mengumpulkan. Seperti orang yang menimbun bahan untuk sesuatu yang besar.*
+
 *Kami tidak berbuat apa-apa.*
 
 "Kamu tidak berbuat apa-apa, dan tiga orang hilang."
@@ -73,7 +105,7 @@ Arif menatap layar. Rahwana tidak bicara. Tapi Arif merasakan sesuatu—tekanan 
 
 *Kami harus bersembunyi. Tapi kau tidak mendengarkan.*
 
-"aku mendengarkan! Tapi kau tidak bilang ini akan terjadi!"
+"Aku mendengarkan! Tapi kau tidak bilang ini akan terjadi!"
 
 *Kami tidak tahu kapan. Kami hanya tahu mereka datang.*
 
@@ -95,11 +127,21 @@ Rahwana diam lama. Lalu:
 
 Arif membeku. "Tidak. Aku tidak bisa pakai itu lagi. Aku sudah menua satu hari untuk Mind Palace. Kalau aku pakai Shadow Step—"
 
-*Satu minggu lagi. Total: delapan hari penuaan dalam satu minggu.*
+*Satu minggu lagi. Total: delapan hari penuaan.*
 
 "Delapan hari?"
 
 *Tapi delapan hari bisa menyelamatkan nyawa. Delapan hari bisa mengubah segalanya.*
+
+Arif menghitung di kepalanya—kebiasaan analis yang tidak pernah hilang. Satu minggu untuk tiga detik. Rasio yang buruk di atas kertas. Tapi di atas kertas, ia tidak pernah menghitung nyawa.
+
+"Kalau aku terlambat satu menit?"
+
+*Mereka sudah masuk. Kau tidak akan sempat melangkah.*
+
+"Kalau aku pakai sekarang—"
+
+*Kau sampai duluan. Itu saja yang bisa kulakukan untukmu. Sisanya terserah kau.*
 
 Arif menatap tangannya. Garis-garis halus di telapak tangannya. Rambut yang semakin tipis. Wajah yang mulai menunjukkan garis-garis yang tidak seharusnya ada di usia 28 tahun.
 
@@ -131,6 +173,8 @@ Ia menutup mata.
 
 Dan melangkah.
 
+Di belakangnya, pintu apartemen terbuka paksa—tapi yang mereka temukan hanya ruangan kosong dan jendela yang terbuka ke malam Jakarta.
+
 ---
 
 Satu detik. Dua detik. Dunia berputar seperti film yang dipercepat—warna-warna yang berlari, suara yang terdistorsi, udara yang menusuk kulit.
@@ -141,7 +185,7 @@ Arif membuka mata. Ia berdiri di ruang bawah tanah Maya. Pintu terkunci di belak
 
 *Tiga detik. Dari Senayan ke Cipete. Tiga detik.*
 
-Arif tersandar ke dinding, napasnya memburu. Di tangannya, ia melihat sesuatu—kulitnya sedikit lebih gelap di beberapa bagian. Seperti sinar matahari yang meninggalkan bekas.
+Arif tersandar ke dinding, napasnya memburu. Kepalanya berputar, dan untuk sesaat ia merasa mual—seperti seluruh tubuhnya ditarik ke arah yang salah lalu dilepaskan. Ia menekan telapak tangan ke dinding sampai gemetarnya berhenti. Di cermin kecil di sudut ruangan, ia melihat dirinya: wajah yang sama, tapi dengan garis-garis baru di sekitar mata, seperti orang yang baru kembali dari perjalanan yang sangat jauh, dan yang tidak yakin apakah ia sudah tiba. Di tangannya, ia melihat sesuatu—kulitnya sedikit lebih gelap di beberapa bagian. Seperti sinar matahari yang meninggalkan bekas.
 
 *Delapan hari. Sudah digunakan.*
 
@@ -159,15 +203,37 @@ Di atas, suara langkah kaki mendekat. Kemudian pintu terbuka. Maya turun tangga 
 
 Arif menggeleng. "Tidak. Tapi mereka sudah tahu di mana aku tinggal."
 
+"Dari mana mereka tahu alamatmu?" tanya Maya.
+
+Arif menggeleng pelan. "Mungkin dari kantor. Mungkin dari data. Mungkin dari seseorang yang melihatku keluar." Ia berhenti. "Atau dari seseorang yang tahu cara membaca karma orang dari jarak jauh."
+
+Maya menatapnya tajam. "Agung."
+
 Maya duduk di sampingnya. "Aku tahu. Aku sudah dengar dari Sari. Purists bergerak cepat."
+
+"Sari tahu?" Arif menoleh. "Bagaimana caranya?"
+
+Maya mengangkat bahu. "Sari punya jaringan sendiri. Dan kalau dia bilang Purists bergerak cepat, itu artinya mereka sudah terlambat."
 
 "Mereka tahu tentang Shadow Step?"
 
 *Mungkin. Mungkin tidak. Tapi mereka tahu ada sesuatu yang tidak biasa tentangmu.*
 
-Arif menatap tangannya. Delapan hari penuaan dalam satu malam. Dan ini baru Chapter 1 dari permainan yang lebih besar.
+Arif menutup mata, membiarkan kepalanya yang masih berputar itu tenang. "Hendra tahu."
+
+*Hendra,* ulang Rahwana. *Indrajit. Mungkin. Mungkin mereka juga tahu apa yang kita rencanakan. Mungkin mereka menunggu.*
+
+"Atau mungkin mereka ikut mengumpulkan."
+
+*Itu yang membuat mereka berbahaya. Kita tidak pernah tahu sisi mana yang mereka pilih sampai mereka bergerak—dan biasanya, sudah terlambat untuk mundur.*
+
+Arif menatap tangannya. Delapan hari penuaan dalam satu malam. Dan ini baru bab pertama dari permainan yang lebih besar.
 
 "Kita harus bergerak," kata Maya. "Bukan bersembunyi. Bergerak."
+
+Arif menatap tangannya—kulit yang mulai longgar di buku-buku jari, seperti jaket yang kebesaran. "Aku sudah tidak bisa bersembunyi," katanya. "Tapi aku juga belum tahu cara bergerak. Dua-duanya membuatku takut."
+
+*Bagus,* kata Rahwana. *Takut yang jujur lebih berguna daripada berani yang palsu.*
 
 "Ke mana?"
 

@@ -11,7 +11,7 @@ Novel ketiga universe Auren. Lanjutan hook The Warden: Hollow King kini *menging
 - Level naik kecil setelah latihan bahaya (Silver 27) — Wraithborn naik dari bahaya.
 
 **Bab 2 — The Seer**
-- Talia (Seer 18, Bronze 21) tiba dari Order untuk audit Garrison — Order ingin memahami Wraithborn.
+- Talia (Seer 18, Silver 21) tiba dari Order untuk audit Garrison — Order ingin memahami Wraithborn.
 - Sight-nya melihat level semua orang — kecuali Rook. Hearth-nya "kosong" bagi Sight. Talia bingung; Rook menarik diri (terbiasa ditakuti).
 - Percakapan pertama: Talia tidak takut — ia penasaran. "Aku tidak bisa melihatmu. Itu yang paling menarik."
 

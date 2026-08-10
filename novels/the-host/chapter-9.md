@@ -3,23 +3,39 @@ title: "Betrayal"
 chapter: 9
 ---
 
-Tiga hari sejak Shadow Step pertama. Lima belas hari total sejak Rahwana terjaga.
+Sembilan belas hari sejak Rahwana terjaga—sehari setelah malam Shadow Step pertama itu.
 
 Arif menatap cermin kamar mandi. Rambutnya sudah mulai beruban di pelipis. Garis-garis halus di dahi lebih dalam dari sebelumnya. Lingkaran hitam di bawah matanya permanen, tidak lagi hilang setelah tidur.
 
 Ia terlihat seperti berusia 35 tahun.
 
+Tiga puluh lima. Angka yang ia kenal—usia ayahnya ketika penyakit itu mulai. Arif menekan pikiran itu, menutup keran air. Tidak sekarang. Tidak sebelum ia tahu apa yang Sari inginkan.
+
 *Sudah siap?*
 
 "Tidak. Tapi aku tidak punya pilihan."
 
-Arif berjalan ke luar apartemen, menuju mobil yang dipinjam Maya. Maya duduk di kursi pengemudi, ekspresinya tenang tapi matanya waspada.
+Arif berjalan ke luar safe house, menuju mobil yang dipinjam Maya. Maya duduk di kursi pengemudi, ekspresinya tenang tapi matanya waspada.
+
+Jakarta pagi berjalan seperti biasanya—macet di Sudirman, pedagang asongan di lampu merah, orang-orang yang berangkat kerja dengan wajah setengah tidur. Arif menatap mereka dari dalam mobil, dan untuk sesaat ia iri. Mereka tidak tahu bahwa di dalam mobil ini duduk seorang pria yang tubuhnya menua satu tahun setiap kali ia menyentuh utas tak terlihat.
+
+"Kau melamun," kata Maya tanpa menoleh.
+
+"Aku menghitung," jawab Arif. "Usia yang sudah kubayar. Dan usia yang tersisa."
+
+"Itu bukan menghitung. Itu melamun tentang hal yang tidak bisa kau ubah."
 
 "Kemana?" tanya Arif.
 
 "Kampus UI. Sari minta kita datang. Ada yang harus dia tunjukkan."
 
 *Hati-hati. Aku tidak suka ini.*
+
+Arif menyalakan mesin mobil. "Aku juga tidak suka. Tapi kalau Sari punya informasi—aku tidak bisa membiarkannya lewat."
+
+*Dan kalau itu jebakan?*
+
+"Maka kita akan tahu lebih cepat daripada kalau kita tidak datang."
 
 "Sari tidak pernah mengajak tanpa alasan."
 
@@ -55,6 +71,14 @@ Sari memutar video lebih jauh. Di dalam ruangan bawah tanah, tiga tubuh terbarin
 
 "Satu wadah?" tanya Arif. "Wadah apa?"
 
+Di layar, Arif memperhatikan satu detail yang tidak disebut siapa pun: cara ketiga tubuh itu diangkat—hati-hati, seperti barang berharga. Bukan cara orang membuang. Cara orang mengumpulkan.
+
+"Mereka dijaga," gumam Arif. "Dijaga seperti koleksi."
+
+Sari menatapnya. "Kamu melihat itu juga."
+
+"Data analyst," kata Arif. "Kebiasaan."
+
 Sari menutup laptop. Ia berdiri, berjalan ke jendela.
 
 "Sangha Network sudah tahu tentang ini selama dua tahun. Tapi kami tidak bisa berbuat apa-apa. Agung terlalu kuat. Dia punya sebagian Brahma—dewa pencipta. Dan dengan sebagian itu, dia bisa melakukan sesuatu yang tidak bisa dilakukan siapa pun."
@@ -68,6 +92,16 @@ Arif merinding. "Dan kalau dia menggabungkan semuanya?"
 "Maka dia akan menjadi sesuatu yang lebih besar dari Brahma. Lebih besar dari Vishnu. Lebih besar dari Siwa. Dia akan menjadi... Tuhan."
 
 Hening.
+
+Arif menatap layar laptop yang sudah mati, seolah gambar-gambar itu masih menempel di retina. Tiga tubuh di atas meja batu. Tiga tangan transparan yang ditarik keluar. Ia tidak bisa menghapusnya.
+
+"Dan tiga orang itu?" tanyanya pelan. "Mereka masih hidup?"
+
+Sari tidak menjawab segera. "Mereka masih di sana. Dalam wadah itu. Menunggu."
+
+"Menunggu apa?"
+
+"Menunggu Agung selesai."
 
 "Kenapa kau tidak memberitahu aku sebelumnya?" tanya Arif.
 
@@ -94,6 +128,14 @@ Arif membeku. Di dalam kepalanya, Rahwana bergetar.
 *Dia menjual kita?*
 
 Arif berdiri. Kakinya terasa berat. Di dalam kepalanya, Rahwana menggeram—bukan kemarahan, tapi kekecewaan yang mendalam.
+
+"Enam bulan," ulang Arif. "Enam bulan kau mengumpulkan nama-nama. Enam bulan kau memberitahu mereka siapa yang berharga."
+
+"Aku tahu."
+
+"Dan sekarang kau bilang kau berubah pikiran?" Suaranya naik, dan ia tidak peduli. "Karena kau melihat 'kemanusiaan' di mataku?"
+
+Sari menatapnya tanpa berkedip. "Karena aku melihat apa yang terjadi pada orang-orang yang kubisakan. Dan aku tidak mau menjadi bagian dari itu lagi."
 
 "Kenapa sekarang kau memberitahuku?"
 
@@ -149,7 +191,23 @@ Sari diam. Lalu pelan:
 
 "Satu tahun. Setiap utas karma yang kau putus, kau menua satu tahun."
 
-Arif menatap tangannya lagi. Lima belas hari sudah cukup membuatnya terlihat seperti berusia 35. Satu tahun lagi akan membuatnya seperti 45.
+"Satu tahun," ulang Arif. "Per utas."
+
+"Per utas."
+
+"Dan Agung punya berapa utas yang terhubung ke tiga consciousness itu?" tanya Arif, kembali ke mode analis.
+
+"Tidak banyak untuk tiga orang. Mungkin tiga puluh. Mungkin lima puluh."
+
+"Lima puluh tahun."
+
+"Ya." Sari menatapnya. "Dan itu hanya untuk tiga host. Bayangkan kalau dia sudah mengumpulkan lebih banyak."
+
+"Bayangkan," ulang Arif pelan. "Itulah masalahnya. Aku tidak perlu membayangkan. Aku sudah melihat videonya."
+
+Arif menatap tangannya lagi. Sembilan belas hari sudah cukup membuatnya terlihat seperti berusia 35. Satu tahun lagi akan membuatnya seperti 45. Lima tahun lagi—ia tidak berani menyelesaikan hitungan itu.
+
+Tapi ia memikirkan tiga host yang hilang. Tiga nyawa yang terjebak di dalam fusion Agung. Tiga orang yang, seandainya ia tidak melakukan apa-apa, akan menjadi bagian dari Tuhan yang tidak pernah diminta siapa pun.
 
 Tapi ia memikirkan tiga host yang hilang. Tiga nyawa yang terjebak di dalam fusion Agung.
 
@@ -159,7 +217,25 @@ Tapi ia memikirkan tiga host yang hilang. Tiga nyawa yang terjebak di dalam fusi
 
 "Sudah."
 
+Di dalam kepalanya, Rahwana diam. Bukan diam yang menolak—diam yang menghitung, seperti yang selalu ia lakukan. Lalu:
+
+*Kalau kau memutus lima puluh utas, tubuhmu akan berusia delapan puluh lima tahun. Kau akan sampai di candi itu sebagai anak muda, dan pulang sebagai kakek.*
+
+"Aku tahu."
+
+*Dan kau tetap mau?*
+
+"Aku tetap mau."
+
 Sari mengangguk. "Maka kita bersiap. Besok malam, kita akan ke Candi Prambanan. Dan di sana, kita akan menghentikan Agung."
+
+Maya berdiri, mengambil kuncinya. "Aku siapkan kendaraan dan peralatannya. Kalian bicara sisanya di jalan."
+
+"Satu hal lagi," kata Arif. Ia menatap Sari. "Kalau kau masih bermain dua sisi—katakan sekarang. Karena besok, di candi itu, aku tidak punya waktu untuk menebak siapa yang di belakangku."
+
+Sari menatapnya lama. "Aku juga tidak punya waktu untuk berbohong lagi."
+
+Arif tidak tahu apakah itu jawaban. Tapi ia mengangguk, dan itu cukup untuk malam ini.
 
 ---
 
@@ -172,6 +248,8 @@ Sari mengangguk. "Maka kita bersiap. Besok malam, kita akan ke Candi Prambanan. 
 *Batas yang tidak terbatas.*
 
 *Harga yang tidak terhitung.*
+
+*Aku pernah melihat harga seperti ini. Di Alengka, aku membayarnya dengan nyawa putraku. Kali ini, Arif bersedia membayarnya dengan nyawanya sendiri.*
 
 *Aku tidak tahu apa yang akan terjadi besok.*
 

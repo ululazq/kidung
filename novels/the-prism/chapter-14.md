@@ -79,11 +79,11 @@ Seorang anak laki-laki yang berhenti di tengah permainannya mulai tertawa lagi.
 
 Dan di puncak menara, Vance Marlowe berteriak.
 
-Levelnya mulai turun. Gold 41. Silver 39. Silver 35. Ia merasakan setiap level meninggalkannya — setiap level yang ia curi, setiap nyala api yang ia minum, setiap kekuatan yang bukan miliknya — dan ia menjerit, mencengkeram dadanya, mencoba menahannya.
+Levelnya mulai turun. Emerald 41. Gold 39. Gold 35. Ia merasakan setiap level meninggalkannya — setiap level yang ia curi, setiap nyala api yang ia minum, setiap kekuatan yang bukan miliknya — dan ia menjerit, mencengkeram dadanya, mencoba menahannya.
 
 "Tidak! Tidak! Aku membayarnya! Aku menyelamatkan kota-kota! Aku—"
 
-Silver 20. Bronze 15. Bronze 9.
+Bronze 20. Bronze 15. Iron 9.
 
 Di bawah, kerumunan mulai berkumpul di kaki menara. Mereka mendengar jeritan itu. Mereka melihat pahlawan mereka — pahlawan yang membagikan gandum, pahlawan yang tersenyum, pahlawan yang levelnya naik terlalu cepat — menyusut di depan mata mereka, level demi level, warna demi warna.
 
@@ -91,7 +91,7 @@ Di bawah, kerumunan mulai berkumpul di kaki menara. Mereka mendengar jeritan itu
 
 "Aku tidak bisa! Aku tidak bisa!" teriak Vance, dengan suara yang pecah. "Aku butuh—"
 
-Bronze 3. Level 2.
+Iron 3. Level 2.
 
 Vance Marlowe jatuh berlutut di puncak menara, dengan tangan yang kosong, dengan Hearth yang sekarang hanya tinggal nyala kecil yang hampir padam — Hearth yang mungkin pernah menjadi miliknya, atau mungkin tidak. Ia menatap tangannya sendiri, yang tidak lagi memancarkan cahaya, dan mulai menangis.
 

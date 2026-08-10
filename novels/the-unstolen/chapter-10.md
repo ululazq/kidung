@@ -83,7 +83,7 @@ Untuk sesaat, ada sesuatu yang berubah di wajah Vesper — sesuatu yang cepat, y
 
 Konfrontasi itu tidak berlangsung lama.
 
-Vesper menyerang tanpa peringatan — cepat, tepat, dengan kecepatan Gold tier yang tidak bisa Rook ikuti. Rook menangkis dengan tangan kosong, dan rasa sakit meledak di lengannya. Levelnya berdenyut — Emerald 45, Emerald 46, Emerald 47 — dan setiap denyut, kegelapan di dadanya bangkit, menawarkan kekuatan, berbisik: *biarkan aku membantu. Biarkan aku menang. Kau tidak bisa menang sendirian.*
+Vesper menyerang tanpa peringatan — cepat, tepat, dengan kecepatan yang jauh melampaui Gold tier yang ia tampilkan, kecepatan yang tidak bisa Rook ikuti. Rook menangkis dengan tangan kosong, dan rasa sakit meledak di lengannya. Levelnya berdenyut — Emerald 45, Emerald 46, Emerald 47 — dan setiap denyut, kegelapan di dadanya bangkit, menawarkan kekuatan, berbisik: *biarkan aku membantu. Biarkan aku menang. Kau tidak bisa menang sendirian.*
 
 "Jangan!" teriak Talia dari kejauhan. "Rook, jangan beri makan—"
 
@@ -93,7 +93,7 @@ Satu sabetan lagi — dan Rook terlempar ke belakang, punggungnya menghantam ala
 
 Dan untuk sesaat — hanya sesaat — Rook ingin menjawab.
 
-Ia ingin membiarkan kegelapan itu naik. Ia ingin menjadi kuat — cukup kuat untuk mengalahkan Vesper, cukup kuat untuk melindungi Talia, cukup kuat untuk membuat semua Wraithborn yang terpanggil itu memilih. Ia membayangkan level yang akan naik — Emerald 49, Emerald 52, Gold — dan kekuatan yang akan mengalir di tangannya, dan rasa aman yang akan ia rasakan untuk pertama kalinya dalam hidupnya.
+Ia ingin membiarkan kegelapan itu naik. Ia ingin menjadi kuat — cukup kuat untuk mengalahkan Vesper, cukup kuat untuk melindungi Talia, cukup kuat untuk membuat semua Wraithborn yang terpanggil itu memilih. Ia membayangkan level yang akan naik — Emerald 49, Sapphire 52, Amethyst — dan kekuatan yang akan mengalir di tangannya, dan rasa aman yang akan ia rasakan untuk pertama kalinya dalam hidupnya.
 
 Lalu ia melihat Talia.
 

@@ -107,7 +107,7 @@ Mereka bergerak malam itu juga, meninggalkan lembah itu tanpa menyalakan api. Mi
 
 Tidak ada yang berbicara selama satu jam pertama. Kegelapan itu terlalu pekat, dan kata-kata Ilara masih menggantung di udara — *kau dijaga untuk memilih siapa yang membukanya* — seperti asap yang tidak mau hilang.
 
-"Aku tidak percaya padanya," kata Mirek akhirnya, dari depan, tanpa menoleh. "Voice of the Hollow tidak pernah jujur. Tapi aku percaya pada satu hal yang ia katakan: Ghar datang ke menaramu untuk membuatmu pergi. Aku sudah melihat Chosen beroperasi selama dua puluh tahun. Mereka tidak menyerang tempat yang bisa dipertahankan tanpa alasan. Mereka menyerang untuk memindahkan sesuatu — dan apa yang paling ingin dipindahkan Cult adalah Keeper yang menjaga kunci mereka."
+"Aku tidak percaya padanya," kata Mirek akhirnya, dari depan, tanpa menoleh. "Voice of the North tidak pernah jujur. Tapi aku percaya pada satu hal yang ia katakan: Ghar datang ke menaramu untuk membuatmu pergi. Aku sudah melihat Chosen beroperasi selama dua puluh tahun. Mereka tidak menyerang tempat yang bisa dipertahankan tanpa alasan. Mereka menyerang untuk memindahkan sesuatu — dan apa yang paling ingin dipindahkan Cult adalah Keeper yang menjaga kunci mereka."
 
 "Jadi kita sedang melakukan persis apa yang ia inginkan," kata Kael, dengan suara yang gelap.
 

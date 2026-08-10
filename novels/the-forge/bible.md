@@ -33,9 +33,9 @@ Gren, Stonesinger Durn Silver 23, adalah pembuat terbaik di Durvahl — dan ia t
 | Nama | Peran | Level/Tier/Class | Detail |
 |---|---|---|---|
 | **Gren** (Durn, ~35) | Protagonis | Silver 23 → Emerald 45, **Stonesinger** | Pembuat terbaik Durvahl; menempa segalanya dari sepatu sampai jembatan. Tidak percaya keajaiban — percaya kerja. Satu-satunya yang bisa "mendengar" keretakan sistem (Echo). Arc: dari membangun benda → memperbaiki dunia. |
-| **Nira** (Hearthkin, ~22) | Heroin/romance | Bronze 17 → Silver 31, **Windrunner** | Pemandu/pelari lintas-lembah. Hearth-nya "beruntung" — level naik tanpa ia usahakan, dan ia merasa tidak pantas. Bergabung karena ia bisa merasakan "ada yang salah" dengan jalan-jalan ke utara. Romance. |
-| **Vask** (Durn, ~60) | Antagonis | Gold 42, **Stonesinger** | Mantan pembuat legendaris Durvahl yang "menghilang" 20 tahun lalu. Percaya cap 70 Durn adalah penjara yang ditulis Vael untuk menahan rasnya. Membantu Hollow King membongkar sistem dari dalam — bukan karena jahat, tetapi karena ia yakin itu pembebasan. |
-| **Thane Brenwyk** (Durn) | Mentor/figur otoritas | Emerald 55, **Stonesinger** | Kepala Forgehold tertua; guru Gren; percaya batu menyimpan ingatan. |
+| **Nira** (Hearthkin, ~22) | Heroin/romance | Bronze 17 → Gold 31, **Windrunner** | Pemandu/pelari lintas-lembah. Hearth-nya "beruntung" — level naik tanpa ia usahakan, dan ia merasa tidak pantas. Bergabung karena ia bisa merasakan "ada yang salah" dengan jalan-jalan ke utara. Romance. |
+| **Vask** (Durn, ~60) | Antagonis | Emerald 42, **Stonesinger** | Mantan pembuat legendaris Durvahl yang "menghilang" 20 tahun lalu. Percaya cap 70 Durn adalah penjara yang ditulis Vael untuk menahan rasnya. Membantu Hollow King membongkar sistem dari dalam — bukan karena jahat, tetapi karena ia yakin itu pembebasan. |
+| **Thane Brenwyk** (Durn) | Mentor/figur otoritas | Sapphire 55, **Stonesinger** | Kepala Forgehold tertua; guru Gren; percaya batu menyimpan ingatan. |
 | **Elira** (Sil'vael) | Cameo | — | Warden legendaris (The Warden); menjaga Heart Garrison; menyetujui misi Gren. |
 | **Rook** (Wraithborn) | Cameo | — | Pendiri sekolah Wraithborn di Garrison (The Unstolen); membantu Gren memahami "suara dari dalam". |
 | **Eryx Valmor / Hollow King** | Villain sentral | — (disegel) | Kehilangan semua pintu anak-anaknya; beralih menyerang fondasi sistem itu sendiri — dari luar, dengan memalu lewat Vask. |

@@ -45,9 +45,9 @@ Chosen yang terakhir jatuh saat matahari terbenam — jatuh bukan karena dikalah
 
 Benteng Order itu selamat.
 
-Dan di dalam dada Elira, sesuatu berdenyut — pelan, hangat, seperti air yang akhirnya menemukan jalan ke sungai. Level 45. Gold 45 — dua level di tanah mati, di benteng yang nyaris jatuh, di antara orang-orang yang tidak akan pernah tahu bahwa ia ada di sini.
+Dan di dalam dada Elira, sesuatu berdenyut — pelan, hangat, seperti air yang akhirnya menemukan jalan ke sungai. Level 45. Emerald 45 — dua level di tanah mati, di benteng yang nyaris jatuh, di antara orang-orang yang tidak akan pernah tahu bahwa ia ada di sini.
 
-"Kau naik level lagi," kata Lorin, yang berdiri di sampingnya dengan wajah yang pucat tetapi tenang. "Gold 45. Dalam tiga minggu, kau naik tujuh level. Empat ratus tahun untuk Gold 38 — dan tiga minggu untuk Gold 45."
+"Kau naik level lagi," kata Lorin, yang berdiri di sampingnya dengan wajah yang pucat tetapi tenang. "Emerald 45. Dalam tiga minggu, kau naik tujuh level. Empat ratus tahun untuk Gold 38 — dan tiga minggu untuk Emerald 45."
 
 "Karena empat ratus tahun aku menunggu," kata Elira. "Dan tiga minggu ini, aku melindungi."
 

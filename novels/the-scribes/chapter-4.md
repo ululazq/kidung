@@ -47,7 +47,7 @@ Tidak ada yang tahu apa yang terjadi pada awalnya.
 
 Aria berjalan melewati gerbang, melewati para penjaga yang menatapnya dengan heran, melewati kios-kios dan toko-toko dan makhluk-makhluk yang sibuk dengan kehidupan mereka — dan kemudian, perlahan, angka-angka mulai bergetar.
 
-Bukan semua angka. Hanya angka-angka yang dekat dengannya. Seorang pedagang dengan **Bronze 8** di atas kepalanya — angkanya bergetar menjadi **Bronze 9**, lalu kembali. Seorang anak dengan **Iron 4** — angkanya berkedip, seperti lampu yang hampir padam. Seorang perempuan dengan **Gold 44** — angkanya bergetar, seperti lagu yang tersendat.
+Bukan semua angka. Hanya angka-angka yang dekat dengannya. Seorang pedagang dengan **Iron 8** di atas kepalanya — angkanya bergetar menjadi **Iron 9**, lalu kembali. Seorang anak dengan **Iron 4** — angkanya berkedip, seperti lampu yang hampir padam. Seorang perempuan dengan **Emerald 44** — angkanya bergetar, seperti lagu yang tersendat.
 
 Aria berhenti di tengah jalan. Ia melihat angka-angka itu bergetar di sekelilingnya — seperti ia telah melihat angka-angka bergetar di sekeliling Vox, di cerita yang diceritakan Iris — dan untuk pertama kalinya, ia mengerti: kehadirannya mengganggu lagu itu.
 

@@ -11,7 +11,7 @@ Novel kedua universe Auren. Lanjutan hook The Prism: bisikan Hollow King dari He
 - Level: Gold 38. Tiga dekade lalu, Vance Marlowe "menyalip" dia dengan level curian — ironi kutukan Sil'vael.
 
 **Bab 2 — The Visitor**
-- Kael, Warden manusia Bronze 22 dari Order of the Seal (reformasi), tiba dengan surat: Order ingin "memeriksa" Scepter utara (pasca-Hearth Decree). Orang pertama yang berbicara dengan Elira dalam 30 tahun.
+- Kael, Warden manusia Silver 22 dari Order of the Seal (reformasi), tiba dengan surat: Order ingin "memeriksa" Scepter utara (pasca-Hearth Decree). Orang pertama yang berbicara dengan Elira dalam 30 tahun.
 - Elira dingin; Kael bersemangat, penuh harapan — ia percaya pada Order baru. Malam pertama: ia bertanya kenapa Sil'vael begitu lambat naik level. Elira menjawab dengan tenang: "Karena kami memahami dulu. Kalian bertindak dulu."
 - Scepter bernyanyi lebih keras. Elira melihat salju di kejauhan: jejak yang tidak dikenalnya. Bukan binatang. Berjalan dengan tujuan.
 
@@ -19,7 +19,7 @@ Novel kedua universe Auren. Lanjutan hook The Prism: bisikan Hollow King dari He
 - Chosen menyerang Watchtower — dipimpin **Ghar** (Durn Emerald 44, Chosen). Pertempuran: Kael bertarung dengan berani, Elira memakai **Ward** + **Aegis** + **Sanctuary** (zona di mana Hearth tak bisa dikuras).
 - Sanctuary menghentikan Chosen — mereka tidak bisa mencuri di dalamnya. Ghar mundur, tapi sebelum pergi: "Ilara mengirim salamnya. Ia bilang kau akan mengerti."
 - Kael bertanya siapa Ilara. Elira tidak menjawab — tetapi tangannya gemetar memegang Scepter. Level naik: Gold 39 (melindungi menara).
-- Level-up keduanya: Kael Bronze 23.
+- Level-up keduanya: Kael Silver 23.
 
 **Bab 4 — The Vigil Breaks**
 - Scepter of the Deep berbicara untuk pertama kalinya dengan kata-kata: segel gagal; penjagaan menara telah berakhir; ia harus dibawa ke selatan, ke Heart of the World, sebelum Cult memakainya.
@@ -30,16 +30,16 @@ Novel kedua universe Auren. Lanjutan hook The Prism: bisikan Hollow King dari He
 ## Babak II — The Journey (bab 5–8)
 
 **Bab 5 — The Wraithborn**
-- Di padang es, mereka menemukan Wraithborn yang diburu Chosen: **Mirek** (Silver 31, Shadowstep). Sanctuary Elira menyelamatkannya — Chosen tak bisa menguras di dalamnya.
+- Di padang es, mereka menemukan Wraithborn yang diburu Chosen: **Mirek** (Gold 31, Shadowstep). Sanctuary Elira menyelamatkannya — Chosen tak bisa menguras di dalamnya.
 - Mirek: sinis, sarkastik, tidak percaya pada siapa pun. Wraithborn diburu karena tak bisa dikuras — musuh alami Cult. "Kalian manusia takut pada kami karena kami tidak bisa dicuri. Bayangkan hidup seperti itu."
-- Mirek bergabung — ia tahu jalan-jalan rahasia Cult di utara. Level: Elira Gold 40, Kael Bronze 24, Mirek Silver 32 (deeds — melindungi yang lemah).
+- Mirek bergabung — ia tahu jalan-jalan rahasia Cult di utara. Level: Elira Gold 40, Kael Silver 24, Mirek Gold 31 (deeds — melindungi yang lemah).
 - Dialog kunci: Mirek bertanya kenapa Elira menjaga Scepter selama 400 tahun. "Karena ada yang harus. Dan aku yang dipilih."
 
 **Bab 6 — Coldreach**
 - Kota perbatasan **Coldreach** — separuh dikuasai Cult, menjual "level murah". Mereka menyelamatkan desa yang sedang dikuras Chosen.
 - Pertarungan: Mirek menghilang di bayangan; Kael memimpin warga; Elira memperluas Sanctuary mencakup seluruh desa.
 - Kabar dari warga: tentara Cult sedang berkumpul di utara Heart of the World — ribuan, dipimpin Voice of the North. Dan rumor: mahkota Hollow King pecah menjadi sembilan fragmen; Cult sudah mengumpulkan tiga.
-- Level: Elira Gold 42, Kael Bronze 26, Mirek Silver 34.
+- Level: Elira Emerald 42, Kael Silver 26, Mirek Gold 34.
 
 **Bab 7 — The Council**
 - Utusan Golden Canopy — **Sil'vael** dari Canopy Council — menemui mereka: Council kehilangan kontak dengan utara dan khawatir. Ia mengungkap sejarah Elira: 400 tahun lalu, ia dipilih Keeper; muridnya, **Ilara**, pergi dua abad lalu setelah menuduh sistem "menipu Sil'vael".
@@ -60,14 +60,14 @@ Novel kedua universe Auren. Lanjutan hook The Prism: bisikan Hollow King dari He
 - Perlombaan ke selatan menuju Heart of the World. Lanskap berubah: gletser → tanah hangus → pendekatan gunung berapi mati.
 - Korban hollow di sepanjang jalan: desa-desa yang dikuras, orang-orang yang masih hidup tapi kosong. Elira menggunakan Sanctuary untuk menghentikan pengurasan yang masih berjalan.
 - Sekutu kecil: kafilah Durn dari Durvahl (menyediakan persenjataan, "untuk Bram, penempa yang kau tolong — dunia tahu namanya"), pedagang Hearthkin (jalan pintas "beruntung").
-- Level: Elira Gold 45, Kael Bronze 28, Mirek Silver 37.
+- Level: Elira Emerald 43 (naik satu sejak Coldreach), Kael Silver 28, Mirek Gold 37.
 - Dialog kunci: Kael bertanya apakah Elira takut mati. "Aku tidak takut mati, Kael. Aku takut mati sebelum memahami mengapa aku menjaga."
 
 **Bab 10 — The Fort**
 - Outpost Order di utara — benteng yang seharusnya menjaga pendekatan Heart — sedang dikepung Cult. Elira + Kael + Mirek menerobos; Sanctuary menyelamatkan yang tersisa.
 - Kael mengambil komando pertama (garnisun Order mengakui otoritasnya — ia murid reformasi). Ia brilian: menggunakan medan, Ward para Warden, dan logistik Hearthkin.
 - Tahanan Cult mengungkap: Ilara menuju Heart dengan 3 fragmen Crown; dengan Scepter Elira, ia bisa menyatukan mahkota dan membuka pintu saat bulan sejajar (tiga malam lagi).
-- Level: Kael Silver 30, Elira Gold 47, Mirek Silver 39.
+- Level: Elira Emerald 45 (dua level di benteng yang nyaris jatuh — 43 → 45), Kael Silver 30, Mirek Gold 39.
 
 **Bab 11 — The Anchor**
 - Mereka mencapai **Heart of the World** — gunung berapi mati dengan rongga raksasa di dalamnya. Di pusatnya: segel — dan **Seren**, Keeper pertama yang mengikat diri 1.000 tahun lalu sebagai jangkar hidup segel.
@@ -89,7 +89,7 @@ Novel kedua universe Auren. Lanjutan hook The Prism: bisikan Hollow King dari He
 - Pertempuran Heart. Kael memimpin pertahanan rongga; Mirek dan Wraithborn di bayangan; Sanctuary Elira menutupi segel — Chosen tidak bisa mencuri di dalamnya, jadi mereka mencoba menghancurkannya dengan kekuatan kasar.
 - Ghar, Chosen Durn, menerobos — Aegis Elira menyerap hantaman yang ditujukan ke Kael; Ghar jatuh, dan untuk sesaat, ada pengenalan di mata hollow-nya. Elira: "Kau masih di sana, bukan? Aku bisa melihatmu."
 - Seren gagal — segel mulai retak; bulan-bulan hampir sejajar; Ilara menyatukan fragmen Crown di atas rongga. Elira harus memilih: menggantikan Seren (pengorbanan) atau mempercayai cara baru.
-- Level: Elira Gold 49, Kael Silver 32, Mirek Gold 40 (deeds di bahaya).
+- Level: Elira Emerald 47 (deeds di bahaya), Kael Gold 32, Mirek Gold 40.
 
 **Bab 14 — The Choice (klimaks)**
 - Elira menolak pengorbanan. Dengan Scepter of the Deep + Sanctuary + deeds semua yang bertarung (sistem mengenali perlindungan sebagai deeds — pelajaran The Prism), ia men*empa ulang* segel tanpa jangkar hidup.

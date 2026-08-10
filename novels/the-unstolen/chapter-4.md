@@ -73,7 +73,7 @@ Dusk berdiri di belakang Rook, dengan pisau yang masih gemetar di tangannya dan 
 
 "Aku tahu." Rook tidak menoleh. "Aku tidak tahu apa yang baru saja terjadi. Tapi aku tahu satu hal: kalau aku tetap di sini, hal itu akan terjadi lagi — dan lain kali, aku tidak akan bisa menghentikannya."
 
-Levelnya: Silver 34.
+Levelnya: Gold 34.
 
 Enam level dalam satu pertempuran. Enam level dari bahaya — dan dari sesuatu yang lain, sesuatu yang tidak ingin ia pikirkan.
 

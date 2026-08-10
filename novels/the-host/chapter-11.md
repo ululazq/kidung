@@ -81,7 +81,7 @@ Satu detik. Dua detik. Dunia berputar.
 
 Arif dan Maya muncul di antara batu karang, persis di samping perahu motor yang tersamar di balik dedaunan. Arif langsung jatuh berlutut, muntah ke pasir—rasa sakit meledak di setiap sendi.
 
-*Satu minggu lagi,* bisik Rahwana. *Total, kamu sudah membayar sembilan hari dalam dua minggu terakhir.*
+*Satu minggu lagi,* bisik Rahwana. *Total, kamu sudah membayar lima belas hari.*
 
 Maya menopangnya. "Kamu gila," katanya. "Benar-benar gila."
 

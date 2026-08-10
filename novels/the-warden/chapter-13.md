@@ -17,9 +17,9 @@ Di bayangan-bayangan, Mirek dan sepuluh Wraithborn bergerak — pisau yang terba
 
 Dan di tengah semuanya, Elira berdiri dengan Scepter of the Deep di tangannya dan Sanctuary yang menyebar dari telapak kakinya — dan untuk pertama kalinya dalam empat ratus tahun, ia merasakan sesuatu yang belum pernah ia rasakan: bahwa ia tidak sendirian.
 
-Di dalam dadanya, sesuatu berdenyut — pelan, hangat, seperti air yang akhirnya menemukan jalan ke sungai. Level 47. Gold 47. Melindungi orang-orang yang berdiri di sampingnya — di tengah bahaya, di hadapan pintu dunia — adalah deeds yang lebih besar daripada apa pun yang pernah ia lakukan di menara.
+Di dalam dadanya, sesuatu berdenyut — pelan, hangat, seperti air yang akhirnya menemukan jalan ke sungai. Level 47. Emerald 47. Melindungi orang-orang yang berdiri di sampingnya — di tengah bahaya, di hadapan pintu dunia — adalah deeds yang lebih besar daripada apa pun yang pernah ia lakukan di menara.
 
-"Kau naik level di tengah pertempuran," kata Lorin, dari belakangnya, dengan suara yang hampir kagum. "Gold 47. Empat ratus tahun untuk tiga puluh delapan — dan satu bulan untuk sembilan."
+"Kau naik level di tengah pertempuran," kata Lorin, dari belakangnya, dengan suara yang hampir kagum. "Emerald 47. Empat ratus tahun untuk tiga puluh delapan — dan satu bulan untuk sembilan."
 
 "Karena empat ratus tahun aku menjaga pintu," kata Elira, tanpa menoleh. "Dan bulan ini, aku menjaga orang-orang."
 

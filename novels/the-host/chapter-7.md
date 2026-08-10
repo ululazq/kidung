@@ -3,7 +3,7 @@ title: "Memory Dive"
 chapter: 7
 ---
 
-Empat hari sejak pertemuan Sangha Network. Tiga hari sejak Arif kembali ke Maya's safe house. Dua hari sejak ponselnya menerima pesan dari nomor yang tidak dikenal: **"Purists sudah tahu kamu ada di sana."**
+Tiga hari sejak pertemuan Sangha Network. Empat hari sejak Arif kembali ke Maya's safe house. Dua hari sejak ponselnya menerima pesan dari nomor yang tidak dikenal: **"Purists sudah tahu kamu ada di sana."**
 
 Arif duduk di sofa tua di ruang bawah tanah Maya. Lampu kecil di atas meja menyorot buku-buku tebal, lukisan-lukisan kuno, dan peta yang penuh dengan tanda-tanda. Di tangannya, secangkir teh yang sudah dingin.
 
@@ -25,7 +25,7 @@ Apa? tanya Arif.
 
 Apa maksudmu?
 
-*Seperti kamu berpikir, Brahma adalah dewa dengan tiga kepala, empat tangan, dan sepuluh darah. Tapi Brahma sebenarnya lebih sederhana dari itu. Ia adalah...*
+*Seperti kamu berpikir, Brahma adalah dewa dengan tiga kepala dan empat tangan. Tapi Brahma sebenarnya lebih sederhana dari itu. Ia adalah...*
 
 *Creator. Destroyer. Rebuilder.*
 
@@ -39,7 +39,7 @@ Arif tersentak. "Kamu merasa bahwa Agung..."
 
 *Fusion total. Semua ancient consciousness bergabung. Semua host menjadi satu entitas. Dan Agung... tidak pernah meminta kerjasama. Ia hanya mengambil.*
 
-Arif menggulingkan diri. "Itu tidak mungkin. Fusion total itu mitos."
+Arif menggeleng. "Itu tidak mungkin. Fusion total itu mitos."
 
 *Fusi adalah kenyataan, bukan mitos. Aku pernah melakukannya. Dengan Sita. Untuk sesaat. Dan sebelum itu—dengan Indrajit. Dengan Sita. Dengan...*
 
@@ -99,11 +99,19 @@ Arif merasakan sakit itu—bukan sakitnya sendiri, tapi sakit yang dipinjam dari
 
 *Karena kamu harus tahu apa yang sedang kita hadapi. Agung tidak hanya menginginkan kekuatan. Ia menginginkan apa yang pernah kulakukan: kejayaan dengan harga apa pun. Dan aku tidak ingin kamu mengulanginya.*
 
-Arif menarik napas. Api di Alengka membakar lebih tinggi, dan bayangan Indrajit mulai memudar. "Aku bukan kamu."
+Arif menarik napas. Api di Alengka membakar lebih tinggi, dan bayangan Indrajit mulai memudar. "Dia mati?"
+
+*Dia memilih mati. Seperti aku memilih kejayaan. Dan aku tidak pernah memaafkan diriku untuk itu.*
+
+Arif merasakan dadanya sesak. "Kita bisa mengubahnya?"
+
+*Karma tidak berubah karena penyesalan. Ia berubah karena keputusan. Keputusan yang belum kita buat.*
+
+"Aku bukan kamu."
 
 *Aku tahu. Itu sebabnya aku masih di sini.*
 
-Arif menatap jempol dan telunjuk-jarinya. Di ujung keduanya, garis-garis tipis mulai muncul—seperti benang kaca yang membelah kulit.
+Arif menatap jempol dan telunjuknya. Di ujung keduanya, garis-garis tipis mulai muncul—seperti benang kaca yang membelah kulit.
 
 *Penuaan. Efek samping yang belum pernah kuduga. Tapi ini berbeda—ini karena kita terlalu lama bersama.*
 
@@ -147,49 +155,29 @@ Di belakangnya, safe house itu kembali ke diam. Tapi di dalamnya, sebuah buku te
 
 ---
 
-*Di dalam kesadaranku, aku merasakannya. Sesuatu yang besar. Sesuatu yang lama tidur.*
+Maya sudah menunggu di luar, menyandarkan punggungnya ke motor. Ia tidak bertanya kenapa Arif keluar dengan wajah pucat. Ia hanya menatapnya sebentar, lalu mengangguk ke arah selatan.
 
-*Di balik Candi Prambanan, di bawah tanah, sesuatu bangun. Seperti telah direkayasa selama berabad-abad. Seperti menunggu seseorang yang bernama...*
+"Candi Prambanan," katanya. "Kau sudah siap?"
 
-*Arif Rahman.*
+Arif menatap bayangannya di kaca jendela safe house—wajah muda, tapi dengan mata yang baru saja melihat Alengka terbakar. "Besok," katanya. "Aku masih punya laporan yang lewat deadline. Dan ibuku—aku belum bisa pergi tanpa berpamitan."
 
-*Darahku mengalir di tubuh ini. Darah Brahma mengalir di tubuhku.*
+Maya diam sejenak, seperti menimbang sesuatu. Lalu: "Candi itu tidak ke mana-mana, Arif. Tapi Purists bergerak. Semakin lama kita menunggu, semakin banyak yang mereka kumpulkan."
 
-*Dan sekarang, semua jalannya bersinggungan.*
+"Aku tahu. Besok."
 
-*Karma tidak bisa kabur. Karma selalu menemukan jalannya kembali.*
+"Besok," ulang Maya. "Kalau begitu, malam ini kau tidur. Kita butuh kau utuh, bukan cuma hidup."
 
-*Dulu aku mengira Alengka jatuh karena Rama. Karena Sita. Karena peperangan. Sekarang aku tahu: Alengka jatuh karena aku tidak pernah berhenti untuk bertanya—apakah yang aku perjuangkan layak untuk darah yang mengalir.*
+Arif hampir tersenyum. "Sejak kapan kau peduli dengan kesehatanku?"
 
-*Kali ini, aku akan bertanya dulu. Sebelum darah jatuh lagi.*
+"Sejak aku tahu kau satu-satunya yang bisa melihat utas karma itu." Maya menyalakan motor, meninggalkan kalimat itu menggantung. "Bukan karena aku baik. Itu investasi."
 
----
-
-Maya sudah menunggu di luar. Ia tidak bertanya apa-apa. Ia hanya mengangguk, mengarah ke arah selatan—menuju Jalan Prambanan, menuju candi yang berdiri sendirian di tengah kebun yang dulu pernah ramai.
-
-Arif menghampirinya. Di dalam kepalanya, Rahwana mengamati Maya dengan mata yang tidak pernah berhenti menghitung—cara ia berdiri, cara ia memegang kunci motornya, cara ia menatap jalanan sebelum melangkah. *Ia berlatih,* kata Rahwana. *Surpanakha mengajarinya membaca ruangan seperti tentara membaca medan perang.*
-
-"Kamu tahu apa yang menunggu kita di sana?" tanya Arif.
-
-Maya menatapnya sebentar. "Aku tahu apa yang bisa kulakukan. Dan aku tahu apa yang tidak bisa kulakukan. Sisanya—kita lihat di sana."
-
-"Itu bukan jawaban."
-
-"Itu satu-satunya jawaban yang jujur." Maya menyalakan motornya. "Naik. Kita tidak punya waktu untuk basa-basi."
-
-Arif naik ke boncengan. Di belakang mereka, safe house itu tenggelam dalam kegelapan, dan Jakarta terbentang di depan—kota yang tidak pernah tahu bahwa di bawah permukaannya, dewa-dewa sedang berjalan di antara manusia.
-
-"Cepat," bisik Maya. "Kami punya waktu yang terbatas."
-
-Arif mengangguk. Di dalam kepalanya, sebuah warna biru muncul di ujung jempol—biru seperti api. Karma Sense. 
-
-*Ya. Aku bisa merasakannya. Candi Prambanan. Tempat karma kita bertemu.*
-
-*Dan tempat kita menemukan kebenaran.*
-
-Arif menatap tangan kirinya. Di ujung jarinya, warna biru itu berdenyut seperti nadi kedua—Karma Sense yang sudah menyalakan dirinya sendiri tanpa perintah. Ia tidak tahu apakah itu pertanda baik atau peringatan. Di dalam perpustakaannya, buku tentang Candi Prambanan membuka halaman pertamanya dengan sendirinya, dan di halaman itu, hanya ada satu kalimat yang ditulis dengan tinta yang belum kering:
+Arif menatap kepergiannya sampai lampu motor itu hilang di tikungan dan bunyinya tenggelam di antara deru Jakarta. Di ujung jarinya, warna biru itu berdenyut sekali—Karma Sense yang menyala tanpa perintah, seperti penjaga yang tidak sabar menunggu. Di dalam perpustakaannya, buku tentang Candi Prambanan membuka halaman pertamanya dengan sendirinya, dan di halaman itu, hanya ada satu kalimat yang ditulis dengan tinta yang belum kering:
 
 *"Yang datang bukan untuk melihat—datang untuk diingat."*
+
+Arif menarik napas dalam. Besok, ia akan duduk di mejanya seperti manusia normal, mengisi spreadsheet yang tidak tahu apa-apa tentang dewa. Dan lusa, ia akan berdiri di tanah yang menyimpan utas karma jutaan jiwa. Dua dunia yang tidak bisa ia satukan—hanya bisa ia lewati satu per satu.
+
+Di dalam saku jaketnya, ponsel bergetar: pesan dari ibunya. *"Sudah makan?"* Ia menatapnya lama, lalu mengetik balasan singkat—*"belum, nanti"*—dan memasukkan ponselnya kembali. Besok, ia akan memikirkan cara membayar tagihan rumah sakit. Malam ini, ia membiarkan dirinya hanya menjadi anak laki-laki yang ibunya khawatirkan—meskipun hanya untuk beberapa jam.
 
 ---
 
@@ -198,3 +186,23 @@ Arif menatap tangan kirinya. Di ujung jarinya, warna biru itu berdenyut seperti 
 **Sesuatu yang ingin bertemu dengan Rahwana.**
 
 **Dan sesuatu yang tidak bersedia memberi kita kebenaran dengan mudah.**
+
+---
+
+*Di dalam kesadaranku, aku merasakannya. Sesuatu yang besar. Sesuatu yang lama tidur.*
+
+*Di balik Candi Prambanan, di bawah tanah, sesuatu bangun. Seperti telah direkayasa selama berabad-abad. Seperti menunggu seseorang yang bernama...*
+
+*Arif Rahman.*
+
+*Darahku mengalir di tubuh ini. Darah Brahma mengalir di tubuhku.*
+
+*Dan di dalam pemuda itu—Hendra—Indrajit menatapku. Putraku yang mati demi gerbang timur. Ia menyimpan dendam yang sama seperti dulu, tapi di baliknya, kulihat sesuatu yang lain. Sesuatu yang belum berani kupercaya.*
+
+*Dan sekarang, semua jalannya bersinggungan.*
+
+*Karma tidak bisa kabur. Karma selalu menemukan jalannya kembali.*
+
+*Dulu aku mengira Alengka jatuh karena Rama. Karena Sita. Karena peperangan. Sekarang aku tahu: Alengka jatuh karena aku tidak pernah berhenti untuk bertanya—apakah yang aku perjuangkan layak untuk darah yang mengalir.*
+
+*Kali ini, aku akan bertanya dulu. Sebelum darah jatuh lagi.*

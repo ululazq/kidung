@@ -71,7 +71,7 @@ Chosen itu melompat.
 
 Pertempuran itu berlangsung di lorong penginapan yang sempit, dan Rook bertarung dengan cara yang tidak ia kenal.
 
-Ia tidak merencanakan gerakannya. Ia tidak memikirkannya. Tangannya bergerak seperti bayangan — pisau Mirek berputar di antara jari-jarinya, dan Chosen itu mundur selangkah demi selangkah, dengan mata yang kosong dan Hearth yang berisi warna-warna asing. Setiap kali Rook terkena bahaya, levelnya naik — Silver 35, Silver 36, Silver 37 — dan setiap kali levelnya naik, kegelapan di dalam dadanya berdenyut lebih keras, lebih puas, seperti sesuatu yang sedang makan.
+Ia tidak merencanakan gerakannya. Ia tidak memikirkannya. Tangannya bergerak seperti bayangan — pisau Mirek berputar di antara jari-jarinya, dan Chosen itu mundur selangkah demi selangkah, dengan mata yang kosong dan Hearth yang berisi warna-warna asing. Setiap kali Rook terkena bahaya, levelnya naik — Gold 35, Gold 36, Gold 37 — dan setiap kali levelnya naik, kegelapan di dalam dadanya berdenyut lebih keras, lebih puas, seperti sesuatu yang sedang makan.
 
 "Rook!" Talia muncul di ujung lorong, dengan buku catatan di tangannya dan mata yang melebar. "Berhenti! Kau—"
 

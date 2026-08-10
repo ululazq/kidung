@@ -59,11 +59,11 @@ Upacara Kindling: Hearth anak menyala, dan level serta class-nya terungkap. Semu
 
 Kecuali hari ini.
 
-"Levelnya," bisik kepala desa, mendekati Gren dengan wajah yang pucat. "Anak Yara — Kindling-nya menunjukkan Silver 14. Bukan Iron 1. Silver. Empat belas. Dia belum pernah keluar desa, Gren. Dia tidak pernah menghadapi bahaya. Dia belum melakukan deeds apa pun. Tapi sistem menunjukkan Silver 14."
+"Levelnya," bisik kepala desa, mendekati Gren dengan wajah yang pucat. "Anak Yara — Kindling-nya menunjukkan Bronze 14. Bukan Iron 1. Silver. Empat belas. Dia belum pernah keluar desa, Gren. Dia tidak pernah menghadapi bahaya. Dia belum melakukan deeds apa pun. Tapi sistem menunjukkan Bronze 14."
 
 Di sekeliling mereka, para orang tua berbisik-bisik. Seorang lelaki tua menggenggam tongkatnya dengan tangan yang putih. Seorang perempuan muda memeluk anaknya, yang sedang menatap Yara dengan mata yang penuh takut. Kindling Hall — tempat yang biasanya dipenuhi tawa dan harapan — terasa seperti ruang tunggu untuk kabar buruk.
 
-"Silver 14 tanpa deeds," ulang Gren, menguji kata-kata itu. "Itu berarti sistem mencatat sesuatu yang tidak terjadi. Atau tidak mencatat sesuatu yang seharusnya terjadi. Salah satunya, sistem ini sedang berbohong."
+"Bronze 14 tanpa deeds," ulang Gren, menguji kata-kata itu. "Itu berarti sistem mencatat sesuatu yang tidak terjadi. Atau tidak mencatat sesuatu yang seharusnya terjadi. Salah satunya, sistem ini sedang berbohong."
 
 "Sistem tidak bisa berbohong," kata kepala desa, dengan suara yang kaku. "Itu aturan yang paling dasar. Itu yang membuat segalanya masuk akal."
 
@@ -85,7 +85,7 @@ Tidak ada yang menjawab. Tetapi di Kindling Hall yang sunyi itu, dengan anak yan
 
 Kata-kata tidak pernah cukup. Yang cukup hanyalah kerja.
 
-"Sistem tidak bisa dibohongi," kata kepala desa, mengulang aturan yang tertua. "Sistem tidak salah. Kalau sistem menunjukkan Silver 14—"
+"Sistem tidak bisa dibohongi," kata kepala desa, mengulang aturan yang tertua. "Sistem tidak salah. Kalau sistem menunjukkan Bronze 14—"
 
 "Maka ada yang salah dengan sistem." Gren menatap anak itu — dan untuk sesaat, ia mendengar gema itu lagi, lemah, dari jauh: detak yang tidak sinkron, jantung yang tidak ingat cara berdetak. "Bukan dengan anak ini."
 

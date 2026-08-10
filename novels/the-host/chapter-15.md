@@ -9,6 +9,8 @@ Arif duduk di kursi roda di teras rumah sakit Siloam, Jakarta. Tubuhnya hampir t
 
 Tapi ia tersenyum.
 
+Senyum itu membuat perawat yang mendorong kursinya berhenti sejenak. Ia sudah melihat banyak pasien di teras ini. Sebagian menangis. Sebagian marah. Sebagian kosong. Belum pernah ia melihat pasien yang tersenyum seperti orang yang baru memenangkan sesuatu, dan yang tidak keberatan membayar harganya.
+
 Di sebelahnya, ibunya duduk di bangku taman, memegang tangannya yang keriput. Wanita tua itu tidak mengerti apa yang terjadi—hanya tahu bahwa anaknya sekarat, dan tidak ada yang bisa dilakukannya.
 
 "Arif," bisiknya. "Kamu tidak perlu berjuang lagi. Kamu sudah cukup kuat."
@@ -18,6 +20,12 @@ Arif mengangguk pelan. "Ibu... aku minta maaf."
 "Untuk apa?"
 
 "Untuk tidak bisa lebih lama bersamamu."
+
+Ibunya menekan tangannya lebih erat. "Kamu ingat waktu kamu kecil, kamu jatuh dari pohon mangga di belakang rumah?"
+
+"Ingat. Ibu marah."
+
+"Aku marah karena aku takut. Dan aku takut karena aku tahu aku tidak bisa selalu ada di sana untuk menangkapmu." Ia menatap wajah Arif. "Kali ini pun begitu. Aku tidak bisa menangkapmu, sayang. Tapi aku di sini."
 
 Ibunya menangis. "Kamu sudah bersamaku cukup lama, sayang. Kamu sudah memberi aku kebahagiaan yang tidak bisa diukur."
 
@@ -53,11 +61,25 @@ Rahwana tertawa pelan—tawa yang hangat, bukan sarkastik seperti dulu.
 
 *Mungkin kita memang cocok.*
 
+"Rahwana."
+
+*Ya?*
+
+"Besok, kalau aku sudah tidak ada—apa yang terjadi denganmu?"
+
+*Tidak ada yang tahu. Mungkin aku kembali ke tempat aku berasal. Mungkin aku ikut lenyap. Mungkin aku menjadi bagian dari sesuatu yang lebih besar.* Rahwana terdiam sebentar. *Tapi aku tidak takut. Aku pernah takut selama ribuan tahun. Tiga minggu bersamamu sudah cukup untuk mengingatkan aku bagaimana rasanya tidak takut.*
+
 ---
 
 **Jam 16:00.**
 
 Di ruang tunggu rumah sakit, Hendra, Maya, dan Sari berkumpul. Mereka tidak bicara—hanya duduk, menunggu.
+
+Sari memegang buku catatan kecil yang tidak pernah lepas dari sakunya. Di halaman terakhir, tertulis daftar nama—enam puluh tiga nama, ditulis tangan, satu per satu, sejak malam Pulau Semut. Ia menatap daftar itu, lalu menutupnya. Tidak ada nama Arif di sana. Ia tidak akan pernah menaruhnya di sana.
+
+Sesekali, pintu terbuka dan seorang perawat keluar dengan wajah netral—wajah yang terlatih untuk tidak menunjukkan apa-apa. Setiap kali, ketiganya menegakkan tubuh, dan setiap kali, perawat itu hanya berjalan melewati mereka menuju ruang lain.
+
+"Aku benci wajah netral itu," kata Maya pelan. "Selalu menunggu, selalu tidak pernah memberi tahu."
 
 Hendra menatap tangannya. "Aku tidak menyangka dia akan melakukannya. Memutus seluruh utas sendirian."
 
@@ -67,13 +89,29 @@ Hendra menatap tangannya. "Aku tidak menyangka dia akan melakukannya. Memutus se
 
 "Orang—atau dewa—tidak benar-benar berubah," kata Hendra. "Mereka hanya menemukan bagian dari diri mereka yang selama ini tersembunyi."
 
+Maya menatap lantai. "Kadang aku bertanya-tanya, bagian mana dari diriku yang selama ini tersembunyi."
+
+Hendra menatapnya. "Mungkin itu pertanyaan yang tidak perlu dijawab. Selama kau memilih untuk tidak menyembunyikannya lagi."
+
 Di luar jendela, matahari mulai terbenam. Langit Jakarta berubah menjadi oranye kemerahan.
+
+"Kita bisa melakukan sesuatu untuknya?" tanya Maya.
+
+Hendra menggeleng. "Tidak ada yang bisa dilakukan. Rahwana sudah berbagi separuh harga. Sisanya—tidak ada skill, tidak ada ritual, tidak ada teknologi yang bisa mengembalikan."
+
+"Kalau begitu," kata Sari, "kita lakukan satu hal yang bisa kita lakukan. Kita pastikan apa yang ia perjuangkan tidak sia-sia."
 
 ---
 
 **Jam 18:00.**
 
 Arif berbaring di ranjang rumah sakit. Ibunya sudah pulang—ia memintanya pulang, karena ia tidak ingin ibunya melihat saat ia pergi.
+
+"Ibu," katanya waktu itu, "kalau nanti ada yang datang bertanya tentang aku—jangan takut. Mereka bukan orang jahat."
+
+Ibunya menatapnya lama. "Aku tidak pernah takut pada orang-orang itu, Arif. Aku hanya takut kehilanganmu."
+
+"Ibu tidak akan kehilangan aku." Arif menatap langit-langit. "Aku hanya... akan berada di tempat lain."
 
 Di sampingnya, tidak ada siapa-siapa. Hanya Rahwana di dalam kepalanya.
 
@@ -107,11 +145,17 @@ Arif menutup mata. "Rahwana. Kalau ada kehidupan setelah ini... aku harap kita b
 
 *Aku juga.*
 
+Di luar, lampu-lampu Jakarta mulai menyala satu per satu. Arif membayangkan ibunya di rumah—menatap ponsel, menunggu telepon yang tidak akan datang. Ia membayangkan Hendra di menara kaca itu, Maya di toko antiknya, Sari di ruang kerjanya. Enam puluh tiga orang yang namanya tidak pernah ia tahu, yang sekarang sedang makan malam bersama keluarga mereka.
+
+Ia menutup mata dan tersenyum. Itu sudah cukup.
+
 ---
 
 **Jam 19:00.**
 
 Monitor jantung berbunyi panjang. Garis datar.
+
+Untuk sesaat, tidak ada yang bergerak. Lalu perawat masuk, lalu dokter, lalu suara-suara yang menjadi jauh dan tidak penting. Di dalam kepala yang sudah tidak lagi mendengar, di antara buku-buku yang mulai menghilang, dua sosok berjalan berdampingan menuju pintu yang tidak terlihat siapa pun.
 
 Arif Rahman, 28 tahun—atau 150 tahun secara biologis—meninggal di Rumah Sakit Siloam Jakarta.
 
@@ -141,15 +185,23 @@ Tidak ada lagi fusion total. Tidak ada lagi Godframe Project.
 
 Hendra memimpin TechNovus dengan pendekatan baru—mengembangkan teknologi untuk membantu host dan ancient hidup berdampingan, bukan menyatukan mereka dengan paksa.
 
+Indrajit, yang dulu membenci ayahnya, kini menjadi penasihat utama di TechNovus. Pada hari-hari tertentu, orang-orang di lantai 47 mengaku mendengar dua suara tertawa dari ruang rapat yang kosong—satu tua, satu muda, dengan nada yang hampir sama, seperti dua orang yang sudah saling mengenal terlalu lama untuk bertengkar.
+
 Maya membuka akademi kecil di Yogyakarta—tempat host baru bisa belajar tentang skill mereka tanpa ancaman.
 
+Di dinding akademi itu, tergantung satu bingkai sederhana: foto seorang pria muda dengan wajah yang terlalu tua, tersenyum tipis. Di bawahnya, tulisan: "Kamu tidak harus kuat sendirian. Itu bukan kelemahan. Itu kebenaran."
+
 Sari-Sita terus mengajar di UI, menulis jurnal tentang ko-kesadaran, membantu generasi berikutnya memahami fenomena yang mereka alami.
+
+Di halaman terakhir jurnal pertamanya, Sari menulis satu kalimat yang sering dikutip: "Kita menghabiskan waktu bertanya apakah dua kesadaran bisa hidup dalam satu tubuh. Jawabannya sudah ada di depan kita: ia bisa, selama keduanya memilih untuk saling mendengarkan, bahkan ketika yang satu tidak lagi bersuara."
 
 Dan di Menteng, di sebuah taman kecil yang sepi, ada sebuah batu kecil dengan tulisan sederhana:
 
 **"Arif Rahman & Rahwana"**  
 **"Host dan Ancient"**  
 **"Bukan satu. Bukan dua. Tapi keduanya."**
+
+Di bawah batu itu, setiap minggu, ada bunga segar. Tidak ada yang tahu siapa yang meletakkannya. Beberapa orang menduga ibu Arif. Yang lain menduga Maya. Tapi di antara dua kemungkinan itu, tidak ada yang berani bertanya—karena jawaban yang mungkin terasa terlalu menyedihkan, dan jawaban yang lain terasa terlalu indah.
 
 Di bawah batu itu, tidak ada jasad. Hanya abu yang tersebar ke angin.
 
@@ -176,6 +228,8 @@ Tapi bagi mereka yang mendengar, suara itu terasa seperti... kedamaian.
 *"Bersama?"*
 
 *"Bersama."*
+
+*Dua cahaya yang selama tiga minggu berbagi satu tubuh. Dua suara yang selama tiga minggu belajar berbicara tanpa saling memotong. Sekarang, tanpa tubuh, tanpa Mind Palace, tanpa harga—mereka hanya berdua, dan itu sudah lebih dari cukup, karena untuk pertama kalinya, tidak ada yang perlu mereka buktikan.*
 
 *Dan di kegelapan itu, dua cahaya kecil mulai bersinar—satu biru, satu merah.*
 

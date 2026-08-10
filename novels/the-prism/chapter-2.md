@@ -33,7 +33,7 @@ Mereka datang dari arah barat — dari Rimbor — dengan jubah abu-abu gelap dan
 
 Pria itu — **Sir Corvan** — berusia sekitar enam puluh tahun, berjanggut abu-abu, dengan tubuh yang tetap tegak meskipun punggungnya mulai menua. Arden membaca angkanya dari kejauhan dan hampir tersedak: **Level 63. Amethyst. Warden.** Ia belum pernah melihat Amethyst dalam hidupnya. Ia pikir Amethyst hanya ada di kitab.
 
-Gadis itu — **Liora** — berdiri di belakang Sir Corvan seperti bayangan yang tidak bisa diam. Usianya sekitar tujuh belas tahun, rambutnya diikat ke belakang, dan matanya bergerak cepat, memperhatikan semua orang. Arden membaca angkanya: **Level 17. Bronze. Hearthwarden.** Kelas langka — penyembuh. Fallowmere belum pernah kedatangan Hearthwarden sejak... tidak ada yang ingat kapan.
+Gadis itu — **Liora** — berdiri di belakang Sir Corvan seperti bayangan yang tidak bisa diam. Usianya sekitar tiga belas tahun — setahun lebih tua dari Arden, tetapi tingginya nyaris sama — rambutnya diikat ke belakang, dan matanya bergerak cepat, memperhatikan semua orang. Arden membaca angkanya: **Level 17. Bronze. Hearthwarden.** Kelas langka — penyembuh. Fallowmere belum pernah kedatangan Hearthwarden sejak... tidak ada yang ingat kapan.
 
 "Mereka datang karena Vance," bisik Bibi Wren di sebelah Arden. "Ordo tidak suka Silver yang naik terlalu cepat."
 

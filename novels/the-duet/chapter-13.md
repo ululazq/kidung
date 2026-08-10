@@ -153,4 +153,4 @@ Dan di dalam keheningan itu, sesuatu berubah.
 
 Ketukan itu berhenti.
 
-Dan untuk pertama kalinya dalam sejarah segala sesuatu — untuk pertama kalinya sejak keheningan itu menyanyikan lagu pertama, eon yang lalu — keheningan itu mulai menjawab.
+Dan untuk pertama kalinya dalam sejarah segala sesuatu — untuk pertama kalinya sejak keheningan itu menyanyikan lagu pertama, eon yang lalu — keheningan itu mulai menjawab, pelan, hampir tak terdengar, seperti napas pertama yang tidak berani percaya bahwa ia telah lahir.

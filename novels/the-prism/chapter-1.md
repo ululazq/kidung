@@ -13,7 +13,7 @@ Ada satu hal yang tidak diketahui siapa pun tentang Arden.
 
 Ia bisa melihat.
 
-Bukan melihat seperti orang lain. Sejak ia bisa ingat, ketika ia menatap orang lain, ia melihat sesuatu di balik mereka — angka-angka yang menggantung di udara seperti kabut: level mereka, tier mereka, kelas mereka. Petani tetangga: Level 4, Iron. Pendeta desa: Level 9, Iron. Ayahnya: Level 23, Bronze, Swordarm — angka yang lebih tinggi dari siapa pun di desa, warisan masa lalu sebagai prajurit yang tidak pernah ia ceritakan. Arden tidak pernah memberi tahu siapa pun tentang angka-angka itu. Ia pikir semua orang bisa melihatnya. Lalu, suatu hari, ia menyebut level Bibi Wren kepada ibunya — dan wajah ibunya berubah, dan sejak itu ia belajar diam.
+Bukan melihat seperti orang lain. Sejak ia bisa ingat, ketika ia menatap orang lain, ia melihat sesuatu di balik mereka — angka-angka yang menggantung di udara seperti kabut: level mereka, tier mereka, kelas mereka. Petani tetangga: Level 4, Iron. Pendeta desa: Level 9, Iron. Ayahnya: Level 23, Silver, Swordarm — angka yang lebih tinggi dari siapa pun di desa, warisan masa lalu sebagai prajurit yang tidak pernah ia ceritakan. Arden tidak pernah memberi tahu siapa pun tentang angka-angka itu. Ia pikir semua orang bisa melihatnya. Lalu, suatu hari, ia menyebut level Bibi Wren kepada ibunya — dan wajah ibunya berubah, dan sejak itu ia belajar diam.
 
 Ia menyebutnya, dalam hati, *lihatannya*. Ia tidak tahu bahwa dunia punya nama untuk orang seperti dia: **Seer**. Ia tidak tahu bahwa dari seribu orang, hanya satu yang lahir dengan **Sight**.
 
@@ -69,7 +69,7 @@ Malamnya, ketika seluruh desa merayakan Kindling dengan bir dan daging panggang,
 
 Level 4. Level 9. Level 6. Ia menghitung tetangga-tetangganya, satu per satu, dalam hati — angka-angka yang telah ia hafal bertahun-tahun. Tiga puluh tujuh orang di atas Iron. Dua puluh di bawah. Tidak ada satu pun yang Hearth-nya retak.
 
-"Kau tidak ikut makan?" Ayahnya muncul di ambang kandang — **Harlan Ash**, pria besar dengan tangan yang kasar karena kerja dan mata yang tenang karena perang. Level 23, Bronze, Swordarm. Arden selalu tahu bahwa angka itu terlalu tinggi untuk petani, dan ia selalu tahu bahwa pertanyaan itu tidak boleh ia tanyakan.
+"Kau tidak ikut makan?" Ayahnya muncul di ambang kandang — **Harlan Ash**, pria besar dengan tangan yang kasar karena kerja dan mata yang tenang karena perang. Level 23, Silver, Swordarm. Arden selalu tahu bahwa angka itu terlalu tinggi untuk petani, dan ia selalu tahu bahwa pertanyaan itu tidak boleh ia tanyakan.
 
 "Aku menghitung," kata Arden.
 
@@ -87,7 +87,7 @@ Ia pergi. Arden duduk di kandang, menggenggam jerami, dan memikirkan retakan di 
 
 Sore itu, kabar datang: **Vance Marlowe** akan melewati Fallowmere.
 
-Vance Marlowe — Silver, Level 35, Swordarm. Pahlawan yang menyelamatkan tiga kota dari bandit, yang membunuh gerombolan serigala di dataran timur, yang wajahnya digambar di poster-poster yang ditempel di papan pengumuman setiap kota. Ia adalah bukti bahwa sistem Ascent memberi hadiah pada yang berani: naik level demi level, tier demi tier, dengan pedang dan keberanian.
+Vance Marlowe — Gold, Level 35, Swordarm. Pahlawan yang menyelamatkan tiga kota dari bandit, yang membunuh gerombolan serigala di dataran timur, yang wajahnya digambar di poster-poster yang ditempel di papan pengumuman setiap kota. Ia adalah bukti bahwa sistem Ascent memberi hadiah pada yang berani: naik level demi level, tier demi tier, dengan pedang dan keberanian.
 
 Seluruh Fallowmere berkumpul di jalan utama ketika ia tiba — dan Arden, yang berdiri di belakang kerumunan, melihatnya lebih dulu dari yang lain.
 
@@ -101,7 +101,7 @@ Ia memperhatikan bahwa Vance menyebutkan serigala sebelum ada yang menyebutkan s
 
 Bukan diserap. Hanya berkedip. Seperti sesuatu yang sedang menguji.
 
-"Marlowe," bisik seorang petani di sebelah Arden, "naik dari Silver tiga puluh dua ke tiga puluh lima dalam satu musim. Katanya ia menyelamatkan tiga kota. Sepertinya tidak ada yang bisa menghentikannya."
+"Marlowe," bisik seorang petani di sebelah Arden, "naik dari Gold tiga puluh dua ke tiga puluh lima dalam satu musim. Katanya ia menyelamatkan tiga kota. Sepertinya tidak ada yang bisa menghentikannya."
 
 Arden tidak menjawab. Ia melihat Vance Marlowe berjalan ke arah Kindling Stone — berhenti, menatap retakan di permukaannya dengan senyum yang tidak berubah, lalu melanjutkan langkah ke arah balai desa.
 
@@ -109,7 +109,7 @@ Dan untuk sesaat — hanya sesaat — Vance Marlowe menoleh ke arah kerumunan, d
 
 Senyumnya tetap. Tapi untuk sepersekian detik, senyum itu tidak sampai ke matanya.
 
-Ia melihat angka-angkanya, tentu saja. Level 35, Silver, Swordarm — angka yang mengesankan, angka yang membuat semua orang berbisik kagum.
+Ia melihat angka-angkanya, tentu saja. Level 35, Gold, Swordarm — angka yang mengesankan, angka yang membuat semua orang berbisik kagum.
 
 Lalu ia melihat sesuatu yang lain.
 

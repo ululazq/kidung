@@ -108,3 +108,5 @@ Ia melipat peta itu, memasukkannya ke dalam tasnya, dan menatap orang-orang di h
 "Besok," katanya, "kita pergi ke Benteng. Dan kita membawa pulang kota ini."
 
 Untuk pertama kalinya, ketika ia menatap lampu-lampu Benteng Kunci yang menyala di permukaan dari balik atap-atap galangan, Reza tidak merasa takut.
+
+Di sekelilingnya, Arisya menggulung peta, para penempa mengasah alat mereka, dan lampu-lampu itu terus menyala. Besok mereka akan pergi ke Benteng. Malam ini, mereka berdiri — dan untuk pertama kalinya dalam waktu yang lama, itu sudah cukup.

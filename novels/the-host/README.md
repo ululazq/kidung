@@ -54,4 +54,4 @@ Sebuah kisah tentang harga kekuatan, identitas, dan apa artinya menjadi manusia 
 
 ---
 
-**Total:** ~39,600 kata | **Status:** Complete | **Language:** Bahasa Indonesia (skill terms in English)
+**Total:** ~23,154 kata | **Status:** Complete | **Language:** Bahasa Indonesia (skill terms in English)
