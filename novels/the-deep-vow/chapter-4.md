@@ -5,7 +5,7 @@ chapter: 4
 
 Vowmaster Dain menemuinya di pasar, pada sore hari kedua, di antara kios-kios lentera.
 
-Sorin tidak melihatnya datang. Ia sedang menatap lentera yang dijual seorang pedagang tua — lentera dengan ukiran gelombang di permukaannya — ketika sebuah suara di belakangnya berkata, pelan: "Kau memilih lentera yang bagus, anak. Tapi kau tidak butuh lentera. Kau membawa cahaya sendiri."
+Sorin tidak melihatnya datang. Ia sedang menatap lentera yang dijual seorang pedagang tua — lentera dengan ukiran gelombang di permukaannya — ketika sebuah suara di belakangnya berkata, pelan: "Kau memilih lentera yang bagus, nak. Tapi kau tidak butuh lentera. Kau membawa cahaya sendiri."
 
 Sorin berbalik. Seorang lelaki berdiri beberapa langkah darinya — tidak muda, tidak tua; jubah pucat, lusuh, seperti orang yang sudah berjalan jauh; wajah yang tenang dan mata yang tidak pernah berhenti memperhatikan. Di balik kerah jubahnya, Sorin bisa melihat secercah Mark: bukan lingkaran yang tidak pernah selesai seperti punya Ilka, tapi sesuatu yang lain — garis-garis yang saling silang, seperti tiga jalan yang bertemu di satu tempat.
 
@@ -17,25 +17,25 @@ Sorin menegang. Nama itu — nama yang dihapus dari sejarah, nama yang hanya dik
 
 "Bagaimana kau tahu namaku?"
 
-"Kami mendengar hal-hal, anak." Dain berjalan mendekat, berdiri di samping Sorin, menatap kios lentera itu seperti dua orang yang sedang berbelanja. "The Pale Vow mendengar hal-hal yang tidak didengar ordo-ordo lain. Kami mendengar tentang anak tanpa Mark yang lewat di Sunrest. Tentang Blood Trial di Hearthhold. Tentang kunci yang bangkit di hadapan seluruh pengadilan." Ia menoleh. "Dan kami mendengar tentang kompas yang menunjuk ke bawah — ke tempat yang sama yang kami tuju."
+"Kami mendengar hal-hal, nak." Dain berjalan mendekat, berdiri di samping Sorin, menatap kios lentera itu seperti dua orang yang sedang berbelanja. "The Pale Vow mendengar hal-hal yang tidak didengar ordo-ordo lain. Kami mendengar tentang anak tanpa Mark yang lewat di Sunrest. Tentang Blood Trial di Hearthhold. Tentang kunci yang bangkit di hadapan seluruh pengadilan." Ia menoleh. "Dan kami mendengar tentang kompas yang menunjuk ke bawah — ke tempat yang sama yang kami tuju."
 
-Sorin menatapnya. Di pasar yang ramai itu, di antara kios-kios lentera dan orang-orang yang berbisik, lelaki ini berbicara tentang namanya, tentang trahnya, tentang kuncinya — dengan tenang, seperti orang yang sudah tahu segalanya sejak lama. "Kau tahu banyak hal," kata Sorin. "Lebih dari yang seharusnya diketahui orang asing." "Kami bukan orang asing, anak," kata Dain, tanpa tersinggung. "Kami adalah orang-orang yang menunggu. Dan orang yang menunggu selalu belajar banyak hal tentang apa yang ia tunggu."
+Sorin menatapnya. Di pasar yang ramai itu, di antara kios-kios lentera dan orang-orang yang berbisik, lelaki ini berbicara tentang namanya, tentang trahnya, tentang kuncinya — dengan tenang, seperti orang yang sudah tahu segalanya sejak lama. "Kau tahu banyak hal," kata Sorin. "Lebih dari yang seharusnya diketahui orang asing." "Kami bukan orang asing, nak," kata Dain, tanpa tersinggung. "Kami adalah orang-orang yang menunggu. Dan orang yang menunggu selalu belajar banyak hal tentang apa yang ia tunggu."
 
 Sorin menatapnya. "Kalian menuju ke bawah?"
 
-"Kami sudah lama menuju ke bawah, anak. Sebelum kau lahir. Sebelum trahmu dihapus." Dain menatapnya lama. "The Pale Vow dulunya adalah penjaga bawah — sebelum the Order of the Deep Vow, sebelum the Ember Fane, kami yang menjaga tangga itu dan pintu di bawahnya. Dan kami diusir. Diburu. Dibuang ke tempat yang tidak bisa kami sebut." Ia berhenti. "Karena kami menemukan kebenaran yang tidak ingin didengar siapa pun."
+"Kami sudah lama menuju ke bawah, nak. Sebelum kau lahir. Sebelum trahmu dihapus." Dain menatapnya lama. "The Pale Vow dulunya adalah penjaga bawah — sebelum the Order of the Deep Vow, sebelum the Ember Fane, kami yang menjaga tangga itu dan pintu di bawahnya. Dan kami diusir. Diburu. Dibuang ke tempat yang tidak bisa kami sebut." Ia berhenti. "Karena kami menemukan kebenaran yang tidak ingin didengar siapa pun."
 
 "Kebenaran apa?"
 
-Dain menatapnya lama. "Bahwa the Sundering bukan segel, anak. The Sundering adalah luka."
+Dain menatapnya lama. "Bahwa the Sundering bukan segel, nak. The Sundering adalah luka."
 
-Sorin menatapnya lama. Kata-kata itu — kata-kata yang sama yang diucapkan pengkhotbah di Heartland, kata-kata yang ia dengar dari Idrith dalam bentuk yang berbeda — the Sundering sebagai segel, bukan luka. "Aku sudah mendengar dua versi," katanya. "Satu mengatakan segel. Satu mengatakan luka. Bagaimana aku tahu mana yang benar?" Dain menatapnya. "Kau tidak perlu percaya kata-kata kami, anak. Kau sudah melihat sendiri: glow-grove yang mati, Quiet Zones yang tumbuh, Marks yang hilang. Itu bukan kata-kata. Itu gejala. Dan gejala tidak berbohong."
+Sorin menatapnya lama. Kata-kata itu — kata-kata yang sama yang diucapkan pengkhotbah di Heartland, kata-kata yang ia dengar dari Idrith dalam bentuk yang berbeda — the Sundering sebagai segel, bukan luka. "Aku sudah mendengar dua versi," katanya. "Satu mengatakan segel. Satu mengatakan luka. Bagaimana aku tahu mana yang benar?" Dain menatapnya. "Kau tidak perlu percaya kata-kata kami, nak. Kau sudah melihat sendiri: glow-grove yang mati, Quiet Zones yang tumbuh, Marks yang hilang. Itu bukan kata-kata. Itu gejala. Dan gejala tidak berbohong."
 
 ---
 
 Mereka berjalan ke tepi kota, ke tempat yang lebih sepi, dan Dain berbicara — pelan, tenang, seperti orang yang sudah mengucapkan kata-kata ini ribuan kali.
 
-"The dunia ini dulu satu," kata Dain. "Satu daratan, satu langit, satu tanah di bawah kaki. Lalu the Sundering merobeknya menjadi tiga — langit, tanah, dan akar — dan kalian menyebutnya segel. Kalian menyebutnya pengorbanan. Kalian menyebutnya damai." Ia berhenti. "Tapi luka tidak menjadi damai hanya karena kau menamainya damai, anak. Luka tetap luka. Dan luka yang tidak dirawat akan terus berdarah."
+"The dunia ini dulu satu," kata Dain. "Satu daratan, satu langit, satu tanah di bawah kaki. Lalu the Sundering merobeknya menjadi tiga — langit, tanah, dan akar — dan kalian menyebutnya segel. Kalian menyebutnya pengorbanan. Kalian menyebutnya damai." Ia berhenti. "Tapi luka tidak menjadi damai hanya karena kau menamainya damai, nak. Luka tetap luka. Dan luka yang tidak dirawat akan terus berdarah."
 
 "Aku sudah mendengar ini," kata Sorin. "Dari orang-orang yang percaya pada the Rejoining."
 
@@ -55,11 +55,11 @@ Sorin merasakan dingin di punggungnya. "Aku."
 
 "Aku tidak akan menulis ulang apa pun," kata Sorin. "Aku tidak tahu apa-apa tentang menulis ulang. Aku hanya tahu cara menjaga."
 
-"Menjaga," ulang Dain, dan untuk sesaat, kata itu terdengar aneh di mulutnya — seperti kata yang sudah lama tidak ia ucapkan. "Kami juga pernah menjaga, anak. Kami menjaga tangga ini selama berabad-abad — sebelum ordo-ordo lain lahir, sebelum kota ini ada, kami yang berjalan di bawah dan menjaga pintu itu. Dan apa yang kami dapatkan? Dibuang. Diburu. Disebut pengkhianat oleh orang-orang yang tidak pernah melihat apa yang kami lihat." Ia menatap Sorin. "Menjaga itu indah, anak — sampai kau menyadari bahwa yang kau jaga sedang mati di tanganmu."
+"Menjaga," ulang Dain, dan untuk sesaat, kata itu terdengar aneh di mulutnya — seperti kata yang sudah lama tidak ia ucapkan. "Kami juga pernah menjaga, nak. Kami menjaga tangga ini selama berabad-abad — sebelum ordo-ordo lain lahir, sebelum kota ini ada, kami yang berjalan di bawah dan menjaga pintu itu. Dan apa yang kami dapatkan? Dibuang. Diburu. Disebut pengkhianat oleh orang-orang yang tidak pernah melihat apa yang kami lihat." Ia menatap Sorin. "Menjaga itu indah, nak — sampai kau menyadari bahwa yang kau jaga sedang mati di tanganmu."
 
 "Siapa?"
 
-Dain tersenyum — senyum yang penuh dengan hal-hal yang tidak bisa diucapkan. "Kau akan tahu, anak. Kalau kau benar-benar turun." Ia berbalik, mulai berjalan pergi. "Tapi ingat satu hal: the Order of the Deep Vow tidak akan membiarkan kunci turun sendirian. Mereka takut pada apa yang kau bawa — dan orang yang takut selalu membangun tembok." Ia berhenti, tidak menoleh. "Kalau tembok itu menutup di depanmu, cari kami. Kami tahu jalan ke bawah yang tidak mereka jaga."
+Dain tersenyum — senyum yang penuh dengan hal-hal yang tidak bisa diucapkan. "Kau akan tahu, nak. Kalau kau benar-benar turun." Ia berbalik, mulai berjalan pergi. "Tapi ingat satu hal: the Order of the Deep Vow tidak akan membiarkan kunci turun sendirian. Mereka takut pada apa yang kau bawa — dan orang yang takut selalu membangun tembok." Ia berhenti, tidak menoleh. "Kalau tembok itu menutup di depanmu, cari kami. Kami tahu jalan ke bawah yang tidak mereka jaga."
 
 Dain berjalan pergi, bergabung dengan kerumunan pasar, dan sebelum Sorin sempat bertanya lagi, ia sudah hilang — seperti orang yang tidak pernah benar-benar ada.
 

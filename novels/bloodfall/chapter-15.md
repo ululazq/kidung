@@ -13,11 +13,11 @@ Sorin tidak tahu bagaimana ia sampai di sana — wanita tua itu tidak bisa berja
 
 Sorin duduk di sampingnya, di bawah pohon itu, dan untuk beberapa saat mereka tidak berbicara. Di kejauhan, Bloodpillar menjulang di belakang mereka — poros tengah, di kakinya perang masih berkobar, api-api yang tidak bisa mereka lihat tapi bisa mereka rasakan di udara. Di depan mereka, di kejauhan barat, ada sesuatu yang lebih gelap: Deeppillar.
 
-Angin membawa bau asap dari timur — tipis, tapi ada, seperti ingatan yang tidak mau hilang. "Kapan kau tahu?" tanya Sorin akhirnya. "Bahwa aku akan ke barat?" Maren tersenyum. "Malam kau kabur dari istana. Aku mendengar teriakan, lalu keheningan, lalu aku tahu: anak langit itu melompat. Dan anak yang melompat selalu berjalan ke arah yang ditunjuk sesuatu di tangannya." Ia menatap tangan Sorin. "Kompasmu sudah menunjuk ke bawah sejak kau menyentuh tanah, anak. Aku hanya menunggu kau berhenti melawan."
+Angin membawa bau asap dari timur — tipis, tapi ada, seperti ingatan yang tidak mau hilang. "Kapan kau tahu?" tanya Sorin akhirnya. "Bahwa aku akan ke barat?" Maren tersenyum. "Malam kau kabur dari istana. Aku mendengar teriakan, lalu keheningan, lalu aku tahu: anak langit itu melompat. Dan anak yang melompat selalu berjalan ke arah yang ditunjuk sesuatu di tangannya." Ia menatap tangan Sorin. "Kompasmu sudah menunjuk ke bawah sejak kau menyentuh tanah, nak. Aku hanya menunggu kau berhenti melawan."
 
 "Maren," kata Sorin akhirnya. "Aku tidak tahu apa yang menungguku di bawah."
 
-"Aku juga tidak tahu, anak." Maren menatapnya. "Tapi aku tahu satu hal: kau bukan anak yang sama yang turun dari Sunpillar dua minggu lalu. Kau tahu siapa dirimu sekarang. Kau tahu apa yang kau bawa. Dan kau tahu apa yang harus kau lakukan." Ia berhenti. "Itu lebih dari yang bisa dikatakan kebanyakan orang seumur hidup mereka."
+"Aku juga tidak tahu, nak." Maren menatapnya. "Tapi aku tahu satu hal: kau bukan anak yang sama yang turun dari Sunpillar dua minggu lalu. Kau tahu siapa dirimu sekarang. Kau tahu apa yang kau bawa. Dan kau tahu apa yang harus kau lakukan." Ia berhenti. "Itu lebih dari yang bisa dikatakan kebanyakan orang seumur hidup mereka."
 
 "Dan kalau aku tidak kembali?"
 
@@ -25,13 +25,13 @@ Maren diam lama. "Maka aku akan menceritakan kisahmu," katanya akhirnya. "Kisah 
 
 Sorin menatapnya. "Kau yakin kau tidak mau ikut?"
 
-"Aku tidak bisa, anak. Kau tahu itu." Maren mengangkat tangannya — tangan dengan Clanmark tanah liat di lengannya, mark yang redup di bawah resonance yang semakin tipis. "Aku terikat. Lapis ini milikku. Di bawah, di tempat resonance mati, aku akan mati seperti lilin yang kehabisan minyak." Ia tersenyum. "Dan aku sudah hidup cukup lama. Aku lebih suka mati di tanah yang kukenal daripada di tempat yang tidak bisa kulihat."
+"Aku tidak bisa, nak. Kau tahu itu." Maren mengangkat tangannya — tangan dengan Clanmark tanah liat di lengannya, mark yang redup di bawah resonance yang semakin tipis. "Aku terikat. Lapis ini milikku. Di bawah, di tempat resonance mati, aku akan mati seperti lilin yang kehabisan minyak." Ia tersenyum. "Dan aku sudah hidup cukup lama. Aku lebih suka mati di tanah yang kukenal daripada di tempat yang tidak bisa kulihat."
 
 Sorin merasakan sesuatu di dadanya — bukan the Sealmark, tapi sesuatu yang lain: kesedihan yang tenang, seperti melihat kapal berlayar pergi. Ia sudah merasakan ini sekali — di gerbang Aerie, ketika Tove berbalik dan naik ke kapal.
 
 "Terima kasih," katanya. "Atas semuanya. Atas cincin itu. Atas kisah itu. Atas... menyebut namaku."
 
-Maren menatapnya lama. Lalu ia meraih tangan Sorin — tangan dengan the Compass — dan menggenggamnya. "Kau membawa nama itu di dalam darahmu, anak. Aku hanya mengingatkannya." Ia melepaskan tangan Sorin. "Pergilah, Sorin Veyr. Pergilah ke bawah. Dan jaga apa yang kau jaga."
+Maren menatapnya lama. Lalu ia meraih tangan Sorin — tangan dengan the Compass — dan menggenggamnya. "Kau membawa nama itu di dalam darahmu, nak. Aku hanya mengingatkannya." Ia melepaskan tangan Sorin. "Pergilah, Sorin Veyr. Pergilah ke bawah. Dan jaga apa yang kau jaga."
 
 Sorin ingin berkata banyak hal — tentang lorong di bawah istana, tentang mark yang terurai di atap, tentang Seren, tentang surat dari langit yang masih ia bawa. Tapi di depan perpisahan, kata-kata terasa seperti barang bawaan yang terlalu berat untuk dibawa. "Aku akan menjaga pintu itu," katanya. "Aku tahu," kata Maren. "Itu sebabnya aku bisa melepaskanmu pergi."
 
@@ -75,9 +75,9 @@ Bukan pertanyaan.
 
 Penjaga itu menatapnya lama — lebih lama dari sebelumnya. Lalu, perlahan, ia berdiri, dan ia menunduk — penghormatan yang tidak pernah Sorin terima dari siapa pun.
 
-"Kalau begitu," kata penjaga itu, "jalanmu terbuka, anak. Gerbang ini tidak pernah ditutup untuk orang yang membawa kunci."
+"Kalau begitu," kata penjaga itu, "jalanmu terbuka, nak. Gerbang ini tidak pernah ditutup untuk orang yang membawa kunci."
 
-Sorin menatap penjaga itu — orang asing yang tidak pernah ia temui, yang tidak pernah mendengar namanya, yang menunduk di hadapan cincin besi yang ia kenakan. "Kau tidak bertanya siapa aku," kata Sorin. Penjaga itu tersenyum — senyum yang tua. "Orang yang membawa kunci tidak perlu nama, anak. Yang perlu ia tahu: pintu apa yang ia jaga, dan pintu apa yang harus ia biarkan terkunci. Sisanya hanya hiasan." Sorin menatapnya, lalu menunduk — penghormatan yang sama yang baru saja ia terima. "Kalau begitu," katanya, "terima kasih sudah membuka jalan." Penjaga itu mengangguk, duduk kembali di kursi batunya, seperti orang yang sudah melakukan hal yang sama seribu kali — dan akan melakukannya seribu kali lagi.
+Sorin menatap penjaga itu — orang asing yang tidak pernah ia temui, yang tidak pernah mendengar namanya, yang menunduk di hadapan cincin besi yang ia kenakan. "Kau tidak bertanya siapa aku," kata Sorin. Penjaga itu tersenyum — senyum yang tua. "Orang yang membawa kunci tidak perlu nama, nak. Yang perlu ia tahu: pintu apa yang ia jaga, dan pintu apa yang harus ia biarkan terkunci. Sisanya hanya hiasan." Sorin menatapnya, lalu menunduk — penghormatan yang sama yang baru saja ia terima. "Kalau begitu," katanya, "terima kasih sudah membuka jalan." Penjaga itu mengangguk, duduk kembali di kursi batunya, seperti orang yang sudah melakukan hal yang sama seribu kali — dan akan melakukannya seribu kali lagi.
 
 Sorin berdiri di depan pintu batu itu, dan untuk sesaat ia menoleh ke belakang — ke arah Heartland, ke arah Bloodpillar, ke arah Maren yang tertinggal, ke arah Seren yang melawan, ke arah perang yang masih berkobar. Lalu ia menatap ke depan — ke pintu yang terbuka, ke kegelapan yang menurun, ke bawah.
 

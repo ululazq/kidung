@@ -97,7 +97,7 @@ Sorin mencoba bergerak. Tidak bisa. Simpul-simpul itu mengencang setiap kali ia 
 
 Di atasnya, di tepi poros, tiga penegak itu berdiri — dan di belakang mereka, muncul lebih banyak orang: penjaga Aerie, jubah abu-abu, wajah tanpa ekspresi. Salah satu dari mereka mengangkat tangan, dan garis-garis di lengannya menyala, dan jaring itu mengencang — pelan, pasti, seperti sesuatu yang tidak pernah mengenal kegagalan.
 
-"Stormlock tidak pernah gagal, anak," kata penegak tua itu, suaranya tenang dari atas. "Kau lupa: di Aerie of the Sun, bahkan langit pun punya gerbang."
+"Stormlock tidak pernah gagal, nak," kata penegak tua itu, suaranya tenang dari atas. "Kau lupa: di Aerie of the Sun, bahkan langit pun punya gerbang."
 
 Sorin menggantung di jaring itu, terikat, tidak bisa bergerak — dan di telapaknya, tersembunyi di balik jaring yang melilit, the Compass menyala pelan. Jarumnya masih menunjuk ke bawah. Tidak bergetar. Tidak ragu.
 

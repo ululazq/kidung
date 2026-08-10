@@ -87,7 +87,7 @@ Ia kembali ke Maren setengah jam kemudian, terengah-engah, dan wanita tua itu ma
 
 "Saya minta maaf. Tapi mereka akan mengambilnya."
 
-"Tidak akan." Maren menatapnya. "Mereka tidak akan mengambil apa pun dari aku." Ia berjalan mendekat, dan untuk sesaat ia menatap wajah Sorin dengan cara yang aneh — seperti orang yang sedang membaca sesuatu yang sudah lama ia cari. "Kau... kau bukan dari sini, anak."
+"Tidak akan." Maren menatapnya. "Mereka tidak akan mengambil apa pun dari aku." Ia berjalan mendekat, dan untuk sesaat ia menatap wajah Sorin dengan cara yang aneh — seperti orang yang sedang membaca sesuatu yang sudah lama ia cari. "Kau... kau bukan dari sini, nak."
 
 "Aku dari atas," kata Sorin.
 
@@ -101,7 +101,7 @@ Wajah Maren berubah. Bukan takut. Bukan marah. Sesuatu yang lebih dalam, lebih t
 
 Sorin mundur selangkah. "Aku tidak tahu apa yang kau maksud."
 
-"Itu," kata Maren, menunjuk ke dadanya. "Tiga garis. Satu titik. Satu kunci." Ia menatap Sorin dengan mata yang basah. "Aku sudah menunggu dua ratus tahun untuk melihat itu lagi, anak. Dan aku sudah berpikir aku akan mati tanpa pernah melihatnya."
+"Itu," kata Maren, menunjuk ke dadanya. "Tiga garis. Satu titik. Satu kunci." Ia menatap Sorin dengan mata yang basah. "Aku sudah menunggu dua ratus tahun untuk melihat itu lagi, nak. Dan aku sudah berpikir aku akan mati tanpa pernah melihatnya."
 
 "Siapa kau?" tanya Sorin.
 
@@ -109,10 +109,10 @@ Maren tersenyum — senyum yang tua, yang penuh dengan hal-hal yang tidak bisa d
 
 Sorin menatapnya, dan untuk sesaat ia tidak bisa berbicara. "Aku bahkan tidak tahu aku punya trah," katanya akhirnya. "Aku pikir aku hanya... anak kosong. Anak yang tidak punya siapa-siapa."
 
-"Kau pikir kau kosong." Maren menggeleng pelan. "Kosong itu bukan tidak punya apa-apa, anak. Kosong itu tidak tahu apa yang kau bawa." Ia menatap tiga garis itu sekali lagi — garis-garis samar di atas tulang rusuk kirinya. "Kau membawa sesuatu yang lebih tua dari semua trah di tanah ini. Dan sekarang kau tahu. Pertanyaannya: apa yang akan kau lakukan dengan pengetahuan itu?"
+"Kau pikir kau kosong." Maren menggeleng pelan. "Kosong itu bukan tidak punya apa-apa, nak. Kosong itu tidak tahu apa yang kau bawa." Ia menatap tiga garis itu sekali lagi — garis-garis samar di atas tulang rusuk kirinya. "Kau membawa sesuatu yang lebih tua dari semua trah di tanah ini. Dan sekarang kau tahu. Pertanyaannya: apa yang akan kau lakukan dengan pengetahuan itu?"
 
 Sorin menatap tangannya. "Aku tidak tahu. Aku tidak tahu apa-apa."
 
 "Bagus." Maren tersenyum — senyum yang hampir hangat. "Orang yang bilang tahu semuanya biasanya bohong. Kau bilang tidak tahu — itu artinya kau siap belajar." Ia berdiri, menawarkan tangannya. "Mari. Ada rumah yang aman di tepi hutan. Aku akan memberitahumu apa yang kau bawa — dan kau bisa memutuskan apa yang harus kau lakukan dengannya."
 
-Ia menatap Sorin lama. "Kau tahu, anak? Aku pikir aku sudah gila, mengikuti jejak rumor tentang 'yang tak berdarah' yang lewat di Sunrest." Ia menggeleng pelan. "Ternyata bukan aku yang gila. Ternyata darah itu benar-benar masih hidup."
+Ia menatap Sorin lama. "Kau tahu, nak? Aku pikir aku sudah gila, mengikuti jejak rumor tentang 'yang tak berdarah' yang lewat di Sunrest." Ia menggeleng pelan. "Ternyata bukan aku yang gila. Ternyata darah itu benar-benar masih hidup."

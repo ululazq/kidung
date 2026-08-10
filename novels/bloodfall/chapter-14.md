@@ -39,7 +39,7 @@ Mata itu menatap Sorin dari seberang alun-alun — mata yang kosong dengan cara 
 
 Sorin menegang. "Siapa kau?"
 
-"Aku orang yang lewat — seperti kau." Pengkhotbah itu menatapnya — menatap dadanya, di balik jubah, tempat tiga garis itu tersembunyi. "Aku bisa merasakannya, anak. Mark di dadamu. Mark yang lebih tua dari trah mana pun." Ia tersenyum. "Kau pikir kau berjalan sendirian. Kau tidak."
+"Aku orang yang lewat — seperti kau." Pengkhotbah itu menatapnya — menatap dadanya, di balik jubah, tempat tiga garis itu tersembunyi. "Aku bisa merasakannya, nak. Mark di dadamu. Mark yang lebih tua dari trah mana pun." Ia tersenyum. "Kau pikir kau berjalan sendirian. Kau tidak."
 
 "Apa maksudmu?"
 
@@ -47,11 +47,11 @@ Sorin menegang. "Siapa kau?"
 
 Sorin merasakan dingin di punggungnya. Kata-kata yang sama — kata-kata yang diucapkan lelaki pucat di Aerie: *Kita akan bertemu lagi — di tempat di mana semua jalan bertemu.*
 
-Untuk sesaat, Sorin ingin bertanya lebih banyak — siapa dia, dari mana ia tahu, apa artinya semua ini. Tapi ia sudah belajar dari Oren, dari Idrith, dari Maren: orang-orang seperti ini tidak menjawab pertanyaan. Mereka menanam benih dan pergi, dan benih itu tumbuh di dalam dirimu, dan kau tidak tahu apa yang akan tumbuh sampai sudah terlambat. "Kau salah satu dari mereka," kata Sorin pelan. "Salah satu dari Choir?" Pengkhotbah itu tersenyum — senyum yang tidak bisa dibaca. "Choir mencatat. Aku tidak mencatat, anak. Aku mengingatkan."
+Untuk sesaat, Sorin ingin bertanya lebih banyak — siapa dia, dari mana ia tahu, apa artinya semua ini. Tapi ia sudah belajar dari Oren, dari Idrith, dari Maren: orang-orang seperti ini tidak menjawab pertanyaan. Mereka menanam benih dan pergi, dan benih itu tumbuh di dalam dirimu, dan kau tidak tahu apa yang akan tumbuh sampai sudah terlambat. "Kau salah satu dari mereka," kata Sorin pelan. "Salah satu dari Choir?" Pengkhotbah itu tersenyum — senyum yang tidak bisa dibaca. "Choir mencatat. Aku tidak mencatat, nak. Aku mengingatkan."
 
 "Siapa dia?" tanya Sorin.
 
-Pengkhotbah itu tersenyum — senyum yang penuh dengan hal-hal yang tidak bisa diucapkan. "Kau akan tahu, anak. Kalau kau benar-benar turun." Ia berbalik, mulai berjalan pergi. "Tapi ingat satu hal: di bawah, semua orang punya alasan. Dan tidak semua alasan adalah kebohongan — bahkan yang paling berbahaya sekalipun."
+Pengkhotbah itu tersenyum — senyum yang penuh dengan hal-hal yang tidak bisa diucapkan. "Kau akan tahu, nak. Kalau kau benar-benar turun." Ia berbalik, mulai berjalan pergi. "Tapi ingat satu hal: di bawah, semua orang punya alasan. Dan tidak semua alasan adalah kebohongan — bahkan yang paling berbahaya sekalipun."
 
 Ia berjalan pergi, bergabung dengan bayangan-bayangan di antara reruntuhan, dan sebelum Sorin sempat bertanya lagi, ia sudah hilang — seperti orang yang tidak pernah benar-benar ada.
 

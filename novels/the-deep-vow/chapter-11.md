@@ -21,7 +21,7 @@ Sorin menatap Mark-mark itu lama. Di langit, di tanah, di bawah tanah, ia telah 
 
 "Kau Unbound," kata Sorin. "Seperti aku."
 
-"Seperti kau." Ossian tersenyum — senyum yang tua, yang penuh dengan hal-hal yang tidak bisa diucapkan. "Satu-satunya yang lain, anak. Selama berabad-abad, aku mengira aku sendirian di dunia ini — satu-satunya yang tidak terikat, satu-satunya yang bisa berjalan di semua lapis, satu-satunya yang bisa mendengar apa yang tidak bisa didengar orang lain. Dan kemudian, di kota yang tidak pernah kukunjungi, di antara kerumunan yang tidak mengenalku, aku melihat seorang anak yang menatap ke bawah seperti sedang melihat rumah." Ia berhenti. "Dan aku tahu aku tidak sendirian lagi."
+"Seperti kau." Ossian tersenyum — senyum yang tua, yang penuh dengan hal-hal yang tidak bisa diucapkan. "Satu-satunya yang lain, nak. Selama berabad-abad, aku mengira aku sendirian di dunia ini — satu-satunya yang tidak terikat, satu-satunya yang bisa berjalan di semua lapis, satu-satunya yang bisa mendengar apa yang tidak bisa didengar orang lain. Dan kemudian, di kota yang tidak pernah kukunjungi, di antara kerumunan yang tidak mengenalku, aku melihat seorang anak yang menatap ke bawah seperti sedang melihat rumah." Ia berhenti. "Dan aku tahu aku tidak sendirian lagi."
 
 Sorin merasakan sesuatu bergerak di dadanya — bukan the Sealmark, tapi sesuatu yang lebih tua: pengakuan. Ia telah menghabiskan seluruh hidupnya sendirian — anak kosong di antara orang-orang yang terikat, keanehan di antara yang biasa, kunci di antara pintu-pintu yang tidak tahu bahwa ia ada. Dan di sini, di dasar dunia, berdiri orang yang pertama kali bisa benar-benar mengerti — karena ia telah menjadi apa yang Sorin sedang menjadi, selama lebih lama daripada yang bisa Sorin bayangkan.
 
@@ -35,7 +35,7 @@ Sorin menatap batu itu. Mark yang mati itu masih menyala di permukaannya — ter
 
 "Apa ini?" tanya Sorin. "Apa sebenarnya batu ini?"
 
-Ossian menatapnya lama. "Puing," katanya. "Dari the Worldspine. Dari gunung yang dirobek the Sundering — tempat pertama Marks ditulis, tempat pertama pintu ini dikunci." Ia menatap Sorin. "Ia adalah bagian dari kunci yang sama denganmu, anak. Hanya saja — ia sudah menunggu lebih lama."
+Ossian menatapnya lama. "Puing," katanya. "Dari the Worldspine. Dari gunung yang dirobek the Sundering — tempat pertama Marks ditulis, tempat pertama pintu ini dikunci." Ia menatap Sorin. "Ia adalah bagian dari kunci yang sama denganmu, nak. Hanya saja — ia sudah menunggu lebih lama."
 
 Sorin menatap batu itu — batu yang telah ia bawa dari Skyreach, yang telah dingin di telapaknya selama berminggu-minggu, yang kini panas seperti sesuatu yang hidup. Ia tidak pernah tahu apa itu. Ia tidak pernah bertanya — ia hanya membawanya, karena peziarah itu berkata ia akan butuh. Sekarang, di depan pintu yang ditulis oleh tiga tangan, ia mulai mengerti: peziarah itu tidak memberinya jimat. Peziarah itu memberinya bagian dari pintu ini — dan ia telah membawanya pulang tanpa tahu.
 
@@ -51,7 +51,7 @@ Sorin menatap pintu itu. Dari dekat, ia bisa melihat lebih jelas: tulisan-tulisa
 
 "Dan?"
 
-"Dan aku salah." Ossian menoleh, dan untuk sesaat, di matanya, Sorin melihat sesuatu yang tidak ia duga: bukan marah, bukan putus asa. Kesedihan — kesedihan yang tua, yang telah lama menjadi bagian dari dirinya. "Aku salah, anak. Segel ini tidak menahan apa-apa. Ia bocor. Ia bocor sejak aku pertama kali berdiri di sini — dan setiap tahun, kebocoran itu semakin besar. Glow-grove mati. Quiet Zones tumbuh. Marks hilang. Dan suatu hari — mungkin besok, mungkin seratus tahun lagi — pintu ini akan gagal, dan apa yang ada di baliknya akan keluar."
+"Dan aku salah." Ossian menoleh, dan untuk sesaat, di matanya, Sorin melihat sesuatu yang tidak ia duga: bukan marah, bukan putus asa. Kesedihan — kesedihan yang tua, yang telah lama menjadi bagian dari dirinya. "Aku salah, nak. Segel ini tidak menahan apa-apa. Ia bocor. Ia bocor sejak aku pertama kali berdiri di sini — dan setiap tahun, kebocoran itu semakin besar. Glow-grove mati. Quiet Zones tumbuh. Marks hilang. Dan suatu hari — mungkin besok, mungkin seratus tahun lagi — pintu ini akan gagal, dan apa yang ada di baliknya akan keluar."
 
 "Dan kau percaya satu-satunya cara adalah menulis ulang."
 
@@ -59,7 +59,7 @@ Sorin menatap pintu itu. Dari dekat, ia bisa melihat lebih jelas: tulisan-tulisa
 
 Sorin menatapnya. "Dan kalau kau salah? Kalau menulis ulang itu justru membuka pintu yang tidak bisa kau tutup?"
 
-Ossian menatapnya lama. "Aku sudah memikirkan itu," katanya. "Selama seratus tahun, aku sudah memikirkan itu. Dan aku tetap percaya bahwa lebih baik mencoba menyembuhkan luka daripada menontonnya membunuh kita semua." Ia menatap Sorin. "Tapi aku tidak akan melakukan ini sendirian, anak. Itulah sebabnya kau di sini. Itulah sebabnya aku menunggumu."
+Ossian menatapnya lama. "Aku sudah memikirkan itu," katanya. "Selama seratus tahun, aku sudah memikirkan itu. Dan aku tetap percaya bahwa lebih baik mencoba menyembuhkan luka daripada menontonnya membunuh kita semua." Ia menatap Sorin. "Tapi aku tidak akan melakukan ini sendirian, nak. Itulah sebabnya kau di sini. Itulah sebabnya aku menunggumu."
 
 Sorin berdiri di depan the First Seal, batu yang panas di telapaknya, dan di dalam dirinya, sesuatu yang sangat tua sedang mencoba memutuskan sesuatu.
 

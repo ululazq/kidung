@@ -87,7 +87,7 @@ Berlangsung ±4 minggu, dari Fane of Embers sampai the First Seal dan kembali ke
 | Tove ditahan → bebas | Book 1 bab 8/15 | bab 6 (windwright penuh) | |
 | Voss vs the Compass | Book 1 | bab 7, 9 | Mark memilih; Voss mengakui |
 | the Sealed Compass (dari choir) | Book 1 bab 5 | bab 8 (Choir) | Sumber catatan |
-| "Bukan utara, anak. Ke bawah." (Nahmi) | Book 1 bab 1 | bab 10 (gema), bab 16 (kompas bebas) | Motif ditutup: tidak lagi ke bawah |
+| "Bukan utara, nak. Ke bawah." (Nahmi) | Book 1 bab 1 | bab 10 (gema), bab 16 (kompas bebas) | Motif ditutup: tidak lagi ke bawah |
 | Nama Veyr dihapus | Book 1–3 | bab 8, 16 (dipulihkan) | Choir menerbitkan kebenaran |
 | Stormlock (jaring) | Book 1 bab 4/7 | bab 9, 14 (Tove mengikat jaring segel) | Simpul yang tidak pernah lepas |
 | Sumpah diam ordo / Silence Keeper | Book 3 | bab 11, 12, 14 | Tangan Vow |

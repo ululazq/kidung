@@ -33,7 +33,7 @@ Aula itu lebih besar dari yang ia bayangkan. Kolom-kolom batu yang menjulang, la
 
 Lord Theron Ashvale tidak terlihat seperti penguasa yang kejam. Ia terlihat seperti kakek yang ramah — rambut abu-abu yang disisir rapi, wajah yang lembut, mata yang hangat. Ia tersenyum ketika Sorin masuk, dan senyum itu hampir terlihat tulus.
 
-"Jadi," kata Theron, "kau orang yang datang dari atas. Anak yang tidak punya Mark. Anak yang membawa Mark Craft di lapis Bloodline." Ia menatap Sorin dengan mata yang tidak pernah berhenti menghitung. "Kau tahu, anak, di Heartland, hal-hal yang mustahil itu berbahaya. Bukan karena mereka tidak bisa terjadi — tapi karena mereka membuat orang bertanya."
+"Jadi," kata Theron, "kau orang yang datang dari atas. Anak yang tidak punya Mark. Anak yang membawa Mark Craft di lapis Bloodline." Ia menatap Sorin dengan mata yang tidak pernah berhenti menghitung. "Kau tahu, nak, di Heartland, hal-hal yang mustahil itu berbahaya. Bukan karena mereka tidak bisa terjadi — tapi karena mereka membuat orang bertanya."
 
 Sorin berdiri di tengah aula, dikelilingi penjaga dan pengawal, dan ia mencoba mengingat apa yang ia pelajari dari tali: tahu kapan harus tegang, kapan harus longgar, kapan harus diam.
 
@@ -41,7 +41,7 @@ Di tiang-tiang aula itu, Sorin melihat sesuatu yang membuatnya berhenti: ukiran-
 
 "Aku tidak memilih untuk menjadi mustahil," katanya. "Aku hanya... datang."
 
-Theron tertawa — tawa yang hangat, yang membuat Sorin tidak mempercayainya. "Datang. Dari atas. Ke bawah." Ia mencondongkan tubuh ke depan. "Dan apa yang kau cari di bawah, anak?"
+Theron tertawa — tawa yang hangat, yang membuat Sorin tidak mempercayainya. "Datang. Dari atas. Ke bawah." Ia mencondongkan tubuh ke depan. "Dan apa yang kau cari di bawah, nak?"
 
 Sorin tidak bisa menjawab. Tidak dengan jujur. "Aku tidak tahu," katanya. "Kompasku yang tahu."
 
@@ -49,13 +49,13 @@ Sorin tidak bisa menjawab. Tidak dengan jujur. "Aku tidak tahu," katanya. "Kompa
 
 Sorin mengulurkan tangannya. The Compass menyala di telapaknya — emas, terang, hidup — dan untuk sesaat, aula itu hening. Mark Craft. Di lapis Bloodline. Di tangan anak tanpa Mark.
 
-Theron menatapnya lama. Lalu ia berkata, dengan suara yang berbeda — tidak lagi hangat, tidak lagi ramah: "Itu Mark navigator. Guildmark. Dari Skyreach." Ia menatap Sorin. "Kau tahu apa artinya itu, anak? Itu artinya kau sudah menembus the Seam. Itu artinya kau tidak terikat. Itu artinya..." Ia berhenti. "Itu artinya kau adalah salah satu dari mereka — yang tidak pernah terikat. Yang disebut Unbound."
+Theron menatapnya lama. Lalu ia berkata, dengan suara yang berbeda — tidak lagi hangat, tidak lagi ramah: "Itu Mark navigator. Guildmark. Dari Skyreach." Ia menatap Sorin. "Kau tahu apa artinya itu, nak? Itu artinya kau sudah menembus the Seam. Itu artinya kau tidak terikat. Itu artinya..." Ia berhenti. "Itu artinya kau adalah salah satu dari mereka — yang tidak pernah terikat. Yang disebut Unbound."
 
 Aula itu berbisik. Sorin bisa merasakan kata itu menyebar seperti api: Unbound. Unbound. Di kota yang dibangun dari darah, kata itu adalah kutukan — atau lebih buruk, kata itu adalah pertanyaan.
 
 "Dan kau tahu apa yang mereka katakan tentang Unbound?" Theron berdiri, turun dari panggung, berjalan mendekat. "Mereka bilang Unbound bisa memegang lebih dari satu Mark. Mereka bilang Unbound tidak terpengaruh resonance. Mereka bilang..." Ia berhenti di depan Sorin, menatapnya dari dekat. "Mereka bilang Unbound adalah gema dari the First-Marked. Bangsa sebelum the Sundering. Bangsa yang tidak terikat."
 
-"Aku bukan gema apa pun," kata Sorin. "Aku hanya anak yang datang dari atas, seperti yang kau bilang." Theron tersenyum — senyum yang tidak berubah, yang tetap hangat di permukaan. "Tentu saja. Dan aku hanya seorang kakek tua yang menyambut tamu. Kita berdua bisa berpura-pura, anak. Pertanyaannya: berapa lama?" Ia berbalik, berjalan kembali ke kursinya, dan duduk seperti orang yang sedang menikmati sesuatu. "Istirahatlah. Besok kita bicara lagi. Aku ingin mendengar kisah anak yang menembus the Seam — dari awal."
+"Aku bukan gema apa pun," kata Sorin. "Aku hanya anak yang datang dari atas, seperti yang kau bilang." Theron tersenyum — senyum yang tidak berubah, yang tetap hangat di permukaan. "Tentu saja. Dan aku hanya seorang kakek tua yang menyambut tamu. Kita berdua bisa berpura-pura, nak. Pertanyaannya: berapa lama?" Ia berbalik, berjalan kembali ke kursinya, dan duduk seperti orang yang sedang menikmati sesuatu. "Istirahatlah. Besok kita bicara lagi. Aku ingin mendengar kisah anak yang menembus the Seam — dari awal."
 
 Sorin menatapnya. Ia tidak bisa membaca apa yang ada di balik mata hangat itu.
 
@@ -81,7 +81,7 @@ Sorin menatapnya. Ada sesuatu di mata Seren — sesuatu yang tidak bisa ia baca.
 
 Dan kemudian Sorin mengerti. Seren tidak membelanya — Seren sedang menyembunyikannya. Dengan mengatakan bahwa ia "bukan apa yang kau cari", ia mencoba menurunkan nilainya di mata Theron — mencoba membuat ayahnya tidak tertarik. Itu bukan kebencian. Itu perlindungan, yang disamarkan dengan baik. Sorin menatapnya kembali, dan tanpa kata-kata, ia mencoba berkata: aku tahu apa yang kau lakukan. Seren tidak membalas tatapannya. Ia sudah menoleh, kembali ke posisinya di samping panggung, seperti patung yang tidak pernah berbicara.
 
-Theron tersenyum. "Seren selalu waspada. Itu yang membuatnya pewaris yang baik." Ia menepuk bahu Sorin — sentuhan yang hangat, yang membuat kulit Sorin merinding. "Istirahatlah, anak. Besok, kita akan bicara lebih banyak. Aku ingin tahu apa lagi yang kau bawa dari atas."
+Theron tersenyum. "Seren selalu waspada. Itu yang membuatnya pewaris yang baik." Ia menepuk bahu Sorin — sentuhan yang hangat, yang membuat kulit Sorin merinding. "Istirahatlah, nak. Besok, kita akan bicara lebih banyak. Aku ingin tahu apa lagi yang kau bawa dari atas."
 
 Mereka membawanya keluar, ke kamar yang lebih seperti sel yang nyaman — dengan jendela yang menghadap ke Bloodpillar, dan pintu yang terkunci dari luar. Sorin duduk di tepi tempat tidur, menatap poros itu, dan mencoba memahami apa yang baru saja terjadi.
 

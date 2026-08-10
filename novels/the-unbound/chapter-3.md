@@ -39,7 +39,7 @@ Sorin menatap tangannya. Cahaya itu berkedip — dan untuk sesaat, ia merasa jar
 
 "Pertanyaan yang tepat," kata Tove. "Dan pertanyaan yang membuat Voss tidak bisa tidur. Coba tebak — kompas Nahmi sudah menunjuk ke bawah selama dua tahun. Sebelum itu, kompas Nahmi adalah kompas terbaik di Skyreach. Lalu tiba-tiba, dua tahun lalu, ia mulai salah arah. Nahmi tidak pernah bilang ke siapa pun. Ia hanya..." Tove mengerutkan kening. "Ia mulai berlayar lebih dekat ke the Falls. Lebih sering dari yang seharusnya."
 
-Sorin mengingat kata-kata Nahmi di geladak. Bukan utara, anak. Ke bawah.
+Sorin mengingat kata-kata Nahmi di geladak. Bukan utara, nak. Ke bawah.
 
 "Kau pikir Nahmi tahu?" tanya Sorin.
 

@@ -67,7 +67,7 @@ Voss tersenyum — senyum yang pahit, senyum ilmuwan yang telah belajar bahwa ti
 
 Dari bangku belakang, seorang master berdiri — master Windwrights, lelaki tua dengan simpul-simpul di jarinya. "Kau bicara soal tangan Craft," katanya. "Tangan mana yang akan kau bawa?"
 
-Sorin menatapnya — dan untuk sesaat, di matanya, ia melihat bayangan lelaki tua lain yang pernah ia kenal: Nahmi, navigator yang memberikan Mark-nya di saat-saat terakhir, yang berbisik *bukan utara, anak, ke bawah*. "Bukan tangan yang paling kuat," katanya. "Bukan tangan yang paling terlatih. Tangan yang paling tahu cara menahan — tangan yang telah mengikat jaring yang menangkap badai, yang tidak pernah melepaskannya, yang tahu bahwa hal-hal yang paling penting dalam hidup ini adalah hal-hal yang diikat dan dijaga."
+Sorin menatapnya — dan untuk sesaat, di matanya, ia melihat bayangan lelaki tua lain yang pernah ia kenal: Nahmi, navigator yang memberikan Mark-nya di saat-saat terakhir, yang berbisik *bukan utara, nak, ke bawah*. "Bukan tangan yang paling kuat," katanya. "Bukan tangan yang paling terlatih. Tangan yang paling tahu cara menahan — tangan yang telah mengikat jaring yang menangkap badai, yang tidak pernah melepaskannya, yang tahu bahwa hal-hal yang paling penting dalam hidup ini adalah hal-hal yang diikat dan dijaga."
 
 Sorin menatapnya. "Windwright yang mengikat jaring yang tidak pernah lepas," katanya. "Windwright yang mengajarkanku bahwa kosong itu artinya bisa diisi. Windwright yang bersumpah akan turun sendiri untuk menjemputku, dan yang kini akan turun bersamaku."
 

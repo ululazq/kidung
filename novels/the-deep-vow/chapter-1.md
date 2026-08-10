@@ -81,7 +81,7 @@ Sorin berdiri di ambang kuil, dan ia bisa merasakan api itu — bukan panasnya, 
 
 "Aku Sorin," katanya. "Dan aku tidak datang untuk mengganggu. Aku datang untuk turun."
 
-"Turun." Wanita itu — Keeper Verra, pasti — menatapnya lama. "Semua orang di kota ini turun atau naik, anak. Itu bukan alasan untuk datang." Ia melangkah mendekat, dan untuk sesaat, cahaya api menerangi wajahnya: tua, tenang, dan tidak bisa dibaca. "Tapi kau tidak datang untuk turun. Kau datang karena sesuatu di bawah memanggilmu."
+"Turun." Wanita itu — Keeper Verra, pasti — menatapnya lama. "Semua orang di kota ini turun atau naik, nak. Itu bukan alasan untuk datang." Ia melangkah mendekat, dan untuk sesaat, cahaya api menerangi wajahnya: tua, tenang, dan tidak bisa dibaca. "Tapi kau tidak datang untuk turun. Kau datang karena sesuatu di bawah memanggilmu."
 
 Sorin tidak menjawab. Ia tidak bisa — karena wanita itu benar.
 

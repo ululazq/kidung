@@ -9,9 +9,9 @@ Bukan hanya suara trompet dan teriakan — itu hanya permukaan. Perang yang sebe
 
 Sorin belajar mendengarkan suara-suara itu seperti ia mendengarkan angin di langit — membedakan mana yang dekat, mana yang jauh, mana yang menandakan akhir dan mana yang menandakan awal. Tembok yang hancur di kejauhan terdengar seperti guntur yang tertahan di tanah; kayu yang patah di dekatnya terdengar seperti tulang. Dan keheningan — keheningan selalu yang paling sulit. Di langit, keheningan berarti tenang. Di sini, keheningan berarti orang sedang menahan napas, dan orang menahan napas sebelum mereka menyerang.
 
-Maren datang setiap malam, membawa roti dan kabar. "Thornmarch mendorong ke gerbang timur," katanya pada malam pertama. "Ashvale menahan. Untuk sekarang." Pada malam kedua: "Mereka memotong jalur pasokan. Kota mulai kelaparan. Orang-orang mulai bertanya kenapa perang ini terjadi." Pada malam ketiga: "Mereka tahu, anak. Tentang kau. Tentang kunci. Rumor menyebar lebih cepat daripada api."
+Maren datang setiap malam, membawa roti dan kabar. "Thornmarch mendorong ke gerbang timur," katanya pada malam pertama. "Ashvale menahan. Untuk sekarang." Pada malam kedua: "Mereka memotong jalur pasokan. Kota mulai kelaparan. Orang-orang mulai bertanya kenapa perang ini terjadi." Pada malam ketiga: "Mereka tahu, nak. Tentang kau. Tentang kunci. Rumor menyebar lebih cepat daripada api."
 
-Maren tidak pernah tinggal lama — beberapa menit, cukup untuk roti, cukup untuk kabar, cukup untuk memastikan ia masih hidup. Tapi setiap kunjungan meninggalkan sesuatu: pada malam pertama, sepotong roti yang masih hangat; pada malam kedua, sebotol air dan kabar bahwa penjaga yang menjaga pintunya mulai bertanya-tanya mengapa mereka harus menjaga "barang" yang tidak pernah keluar; pada malam ketiga, sebuah pertanyaan yang ia ucapkan sambil menatap api lilin: "Kau sudah memutuskan, anak?" Sorin tidak menjawab saat itu. Tapi di dalam dirinya, jawabannya sudah terbentuk — seperti simpul yang sudah diikat, yang tinggal ditarik.
+Maren tidak pernah tinggal lama — beberapa menit, cukup untuk roti, cukup untuk kabar, cukup untuk memastikan ia masih hidup. Tapi setiap kunjungan meninggalkan sesuatu: pada malam pertama, sepotong roti yang masih hangat; pada malam kedua, sebotol air dan kabar bahwa penjaga yang menjaga pintunya mulai bertanya-tanya mengapa mereka harus menjaga "barang" yang tidak pernah keluar; pada malam ketiga, sebuah pertanyaan yang ia ucapkan sambil menatap api lilin: "Kau sudah memutuskan, nak?" Sorin tidak menjawab saat itu. Tapi di dalam dirinya, jawabannya sudah terbentuk — seperti simpul yang sudah diikat, yang tinggal ditarik.
 
 Pada malam ketiga, setelah Maren pergi, Sorin berdiri di jendela dan menatap api-api di kejauhan — api pasukan Thornmarch yang bergerak seperti sungai di malam hari. "Aku tidak akan menjadi mahkota," bisiknya ke kaca yang dingin. "Aku tidak akan menjadi senjata. Aku akan menjadi pintu." Kata-kata itu terdengar aneh di telinganya sendiri — tapi aneh dengan cara yang benar, seperti sepatu baru yang belum pas, yang akan pas setelah dipakai.
 
@@ -19,7 +19,7 @@ Sorin mendengarkan, dan ia merasakan berat dari setiap kata. Perang ini bukan te
 
 "Aku bisa menghentikan ini," katanya pada malam ketiga. "Kalau aku pergi. Kalau aku turun ke segel dan tidak pernah kembali, tidak ada yang bisa diperebutkan."
 
-"Kau pikir begitu?" Maren menatapnya. "Kalau kau pergi, mereka akan saling menuduh — 'kau biarkan dia pergi', 'kau menyembunyikannya'. Perang ini tidak butuh alasan untuk terus berjalan, anak. Perang ini sudah berjalan dua ratus tahun. Ia akan terus berjalan dengan atau tanpa kau."
+"Kau pikir begitu?" Maren menatapnya. "Kalau kau pergi, mereka akan saling menuduh — 'kau biarkan dia pergi', 'kau menyembunyikannya'. Perang ini tidak butuh alasan untuk terus berjalan, nak. Perang ini sudah berjalan dua ratus tahun. Ia akan terus berjalan dengan atau tanpa kau."
 
 "Lalu apa gunanya aku di sini?"
 
@@ -27,9 +27,9 @@ Maren menatapnya lama. "Kau di sini karena kau bisa mengubah akhirnya," katanya.
 
 "Penjaga."
 
-"Penjaga." Maren mengangguk. "House Veyr tidak pernah memerintah, anak. Kami tidak pernah mengumpulkan tanah. Kami tidak pernah berperang. Kami menjaga. Itu sebabnya kami dihancurkan — karena orang-orang takut pada apa yang kami jaga, dan mereka tidak bisa membedakan antara penjaga dan penguasa." Ia menatap Sorin. "Kau harus belajar membedakannya. Kau harus belajar bahwa menjadi penjaga tidak berarti menjadi penguasa. Ia berarti menjadi pintu — yang berdiri di antara dunia dan apa yang tidak boleh masuk."
+"Penjaga." Maren mengangguk. "House Veyr tidak pernah memerintah, nak. Kami tidak pernah mengumpulkan tanah. Kami tidak pernah berperang. Kami menjaga. Itu sebabnya kami dihancurkan — karena orang-orang takut pada apa yang kami jaga, dan mereka tidak bisa membedakan antara penjaga dan penguasa." Ia menatap Sorin. "Kau harus belajar membedakannya. Kau harus belajar bahwa menjadi penjaga tidak berarti menjadi penguasa. Ia berarti menjadi pintu — yang berdiri di antara dunia dan apa yang tidak boleh masuk."
 
-Sorin menatapnya, dan untuk sesaat ia membayangkan pintu itu: pintu yang tidak pernah ia lihat, di dasar dunia, yang selama dua ratus tahun dijaga oleh orang-orang yang tidak pernah ia kenal. "Dan kalau pintu itu dibuka?" tanyanya. "Kalau seseorang membukanya?" Maren menatapnya lama. "Maka penjaga tidak lagi menjadi pintu. Ia menjadi tembok — dan tembok, anak, adalah sesuatu yang harus dirobohkan atau dilewati. Tidak ada jalan tengah. Itulah sebabnya pintu tidak boleh dibuka."
+Sorin menatapnya, dan untuk sesaat ia membayangkan pintu itu: pintu yang tidak pernah ia lihat, di dasar dunia, yang selama dua ratus tahun dijaga oleh orang-orang yang tidak pernah ia kenal. "Dan kalau pintu itu dibuka?" tanyanya. "Kalau seseorang membukanya?" Maren menatapnya lama. "Maka penjaga tidak lagi menjadi pintu. Ia menjadi tembok — dan tembok, nak, adalah sesuatu yang harus dirobohkan atau dilewati. Tidak ada jalan tengah. Itulah sebabnya pintu tidak boleh dibuka."
 
 Sorin duduk di kamar yang terkunci, dan untuk pertama kalinya, ia merasakan sesuatu yang aneh: bukan beban, tapi kejelasan. Seperti tali yang akhirnya ditegangkan dengan benar — tahu di mana ia harus berada, tahu apa yang ia tahan.
 
@@ -79,7 +79,7 @@ Tapi mereka banyak, dan mereka tahu tanah ini lebih baik darinya.
 
 Di atap keempat, mereka memotongnya — dua prajurit dengan mark duri yang menyala, naik dari dua arah, dan Sorin berhenti di tepi atap, terjebak. Tidak ada jalan ke bawah yang aman. Tidak ada jalan ke atas.
 
-Ia menatap dua prajurit itu — lelaki-lelaki dengan mark duri di lengan, yang berjalan seperti orang yang sudah sering melakukan ini. Mereka tidak terburu-buru. Mereka tidak perlu terburu-buru: mereka tahu ia terjebak. "Serahkan dirimu, anak," kata salah satu. "Duke Ravin tidak akan menyakitimu. Ia hanya ingin bicara." "Bicara dengan pisau di leher?" Sorin mundur selangkah, ke ujung atap. "Itu bukan bicara. Itu panggilan."
+Ia menatap dua prajurit itu — lelaki-lelaki dengan mark duri di lengan, yang berjalan seperti orang yang sudah sering melakukan ini. Mereka tidak terburu-buru. Mereka tidak perlu terburu-buru: mereka tahu ia terjebak. "Serahkan dirimu, nak," kata salah satu. "Duke Ravin tidak akan menyakitimu. Ia hanya ingin bicara." "Bicara dengan pisau di leher?" Sorin mundur selangkah, ke ujung atap. "Itu bukan bicara. Itu panggilan."
 
 Di dadanya, tiga garis itu menyala lebih terang — dan untuk sesaat, Sorin merasakan sesuatu yang aneh: seolah-olah mark itu sedang berbicara, seolah-olah ia sedang mendengarkan sesuatu di bawah, seolah-olah tanah di bawahnya sedang bernapas.
 

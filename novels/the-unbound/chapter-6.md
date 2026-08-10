@@ -21,7 +21,7 @@ Sorin berbalik. Seorang wanita berdiri beberapa langkah darinya — bukan muda, 
 
 "Ya," kata Sorin.
 
-Wanita itu mengangguk, tidak terkejut. "Semua orang ingat pertama kali mereka ke sini. Seperti pertama kali melihat laut, kalau kau lahir di darat." Ia berjalan mendekat, berdiri di samping Sorin, menatap ke bawah. "Kebanyakan orang tidak bisa berhenti menatap. Mereka pikir mereka sedang menatap ke bawah — padahal mereka sedang menatap ke dalam diri mereka sendiri. Ada apa di bawah sana, anak?"
+Wanita itu mengangguk, tidak terkejut. "Semua orang ingat pertama kali mereka ke sini. Seperti pertama kali melihat laut, kalau kau lahir di darat." Ia berjalan mendekat, berdiri di samping Sorin, menatap ke bawah. "Kebanyakan orang tidak bisa berhenti menatap. Mereka pikir mereka sedang menatap ke bawah — padahal mereka sedang menatap ke dalam diri mereka sendiri. Ada apa di bawah sana, nak?"
 
 Sorin menatap celah di awan. "Aku tidak tahu."
 
@@ -89,7 +89,7 @@ Sorin menatap Karta, yang duduk di tepi pulau, wajahnya pucat, tangannya gemetar
 
 Sorin menatap tangannya, tersembunyi di balik kain air garam. Ia tidak merasa sakit. Ia tidak merasa apa-apa kecuali tenang — tenang yang sama seperti yang ia rasakan sejak the Compass menetap di telapaknya. "Dan orang yang tidak terikat?" tanyanya pelan. "Orang kosong?"
 
-Darmi menatapnya lama. "Kau sudah di sini seharian, anak. Kau bekerja di tepi pulau yang sekarat. Kau tidak pucat, kau tidak muntah, kau tidak kehilangan apa-apa." Ia menatap tangan Sorin. "Jadi aku bertanya padamu: orang yang tidak terikat — apakah mereka dimakan tepi?"
+Darmi menatapnya lama. "Kau sudah di sini seharian, nak. Kau bekerja di tepi pulau yang sekarat. Kau tidak pucat, kau tidak muntah, kau tidak kehilangan apa-apa." Ia menatap tangan Sorin. "Jadi aku bertanya padamu: orang yang tidak terikat — apakah mereka dimakan tepi?"
 
 Sorin tidak menjawab. Tapi di dalam dirinya, sesuatu yang baru lahir mulai tumbuh: bukan jawaban, tapi pertanyaan yang lebih besar. Jika orang terikat melemah di tempat resonance menipis — jika the Falls adalah tempat di mana lapis mulai bocor, tempat di mana dunia mulai terurai — lalu apa yang terjadi di bawah? Di tempat yang lebih dalam dari the Falls? Di tempat di mana resonance padam sama sekali?
 
@@ -101,7 +101,7 @@ Malam itu, di rumah Lightermen, Darmi duduk di sampingnya tanpa diundang.
 
 Sorin menatap api unggun. "Apa bedanya?"
 
-"Orang yang berlari punya tujuan. Ia lari ke sesuatu. Orang yang dikejar lari dari sesuatu — dan biasanya, ia membawa masalah yang menempel." Darmi menatapnya. "Kau membawa masalah, anak. Aku bisa melihatnya dari caramu menyembunyikan tangan kirimu."
+"Orang yang berlari punya tujuan. Ia lari ke sesuatu. Orang yang dikejar lari dari sesuatu — dan biasanya, ia membawa masalah yang menempel." Darmi menatapnya. "Kau membawa masalah, nak. Aku bisa melihatnya dari caramu menyembunyikan tangan kirimu."
 
 Sorin menutup tangannya, tanpa sadar. "Aku tidak menyembunyikan apa-apa."
 
@@ -109,7 +109,7 @@ Sorin menutup tangannya, tanpa sadar. "Aku tidak menyembunyikan apa-apa."
 
 Sorin menatapnya. "Kenapa kau memberitahuku?"
 
-Darmi tersenyum — senyum yang tidak bisa ia baca. "Karena kau bisa mendengar batu, anak. Dan orang yang bisa mendengar batu tidak seharusnya mati di tambang yang sekarat." Ia berbalik, berjalan ke arah kasurnya. "Pergilah. Ke arah barat. Ke arah tempat cahaya itu — di bawah."
+Darmi tersenyum — senyum yang tidak bisa ia baca. "Karena kau bisa mendengar batu, nak. Dan orang yang bisa mendengar batu tidak seharusnya mati di tambang yang sekarat." Ia berbalik, berjalan ke arah kasurnya. "Pergilah. Ke arah barat. Ke arah tempat cahaya itu — di bawah."
 
 Sorin duduk di sana lama, setelah Darmi pergi. Di luar, the Falls bernapas — pulau demi pulau jatuh ke dalam kegelapan — dan di telapaknya, the Compass menyala pelan, jarumnya miring ke bawah.
 

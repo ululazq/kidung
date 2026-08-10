@@ -21,7 +21,7 @@ Sorin menatap abu di dalam mangkuk itu. "Apa yang harus kulakukan?"
 
 "Ulangi apa?"
 
-Verra menatapnya. "Apa pun yang kau pegang paling erat, anak. Itulah yang diminta api. Dan itulah yang akan ia bakar."
+Verra menatapnya. "Apa pun yang kau pegang paling erat, nak. Itulah yang diminta api. Dan itulah yang akan ia bakar."
 
 Sorin merasakan sesuatu yang dingin merayap di punggungnya. Ia sudah menghadapi Blood Trial — darah yang dibaca oleh batu — dan itu mengungkap namanya, trahnya, nasibnya. Ujian ini terasa berbeda: bukan membaca apa yang ia bawa, tapi meminta apa yang ia pegang.
 
@@ -59,7 +59,7 @@ Keeper Verra berdiri di seberang lubang, abu di tangannya, dan untuk pertama kal
 
 "Aku tidak tahu apa itu artinya," kata Sorin. "Aku tidak pernah meminta ini."
 
-"Tidak ada yang meminta, anak." Verra menatapnya. "Kunci tidak meminta untuk menjadi kunci. Ia hanya lahir — dan dunia menunggu untuk melihat apa yang akan ia buka, atau apa yang akan ia kunci."
+"Tidak ada yang meminta, nak." Verra menatapnya. "Kunci tidak meminta untuk menjadi kunci. Ia hanya lahir — dan dunia menunggu untuk melihat apa yang akan ia buka, atau apa yang akan ia kunci."
 
 ---
 

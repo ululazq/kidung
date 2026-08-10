@@ -39,7 +39,7 @@ Ia berdiri di depan the First Seal, dan di wajahnya — wajah yang selalu tenang
 
 "Dan sekarang kau ingin mencoba."
 
-"Sekarang aku ingin mencoba." Ossian menatapnya. "Tapi kau — kau menawarkan jalan ketiga. Jalan yang tidak pernah kupikirkan." Ia menatap Sorin lama. "Kau tahu apa yang membuatmu berbeda dariku, anak?"
+"Sekarang aku ingin mencoba." Ossian menatapnya. "Tapi kau — kau menawarkan jalan ketiga. Jalan yang tidak pernah kupikirkan." Ia menatap Sorin lama. "Kau tahu apa yang membuatmu berbeda dariku, nak?"
 
 "Apa?"
 
@@ -53,7 +53,7 @@ Sorin menatapnya. "Dan sekarang?"
 
 "Aku tidak bilang kau salah," kata Sorin. "Aku bilang kau tidak bisa memutuskan untuk semua orang. Kalau the Rejoining benar — kalau itu satu-satunya cara — maka dunia harus memilihnya. Dengan mata terbuka. Dengan tahu apa yang mereka pertaruhkan."
 
-"Dan kalau mereka memilih untuk tidak memilih?" Ossian menatapnya. "Kalau mereka sibuk berperang, sibuk takut, sibuk berpura-pura tidak ada yang terjadi di bawah? Kau akan menunggu selamanya, anak." "Maka aku akan mengingatkan mereka," kata Sorin. "Aku akan naik ke langit, ke tanah, ke akar. Aku akan berdiri di depan setiap trah, setiap guild, setiap sekte, dan aku akan berkata: di bawah, pintu itu bocor. Aku akan mengingatkan mereka sampai mereka tidak bisa lagi berpura-pura."
+"Dan kalau mereka memilih untuk tidak memilih?" Ossian menatapnya. "Kalau mereka sibuk berperang, sibuk takut, sibuk berpura-pura tidak ada yang terjadi di bawah? Kau akan menunggu selamanya, nak." "Maka aku akan mengingatkan mereka," kata Sorin. "Aku akan naik ke langit, ke tanah, ke akar. Aku akan berdiri di depan setiap trah, setiap guild, setiap sekte, dan aku akan berkata: di bawah, pintu itu bocor. Aku akan mengingatkan mereka sampai mereka tidak bisa lagi berpura-pura."
 
 Ossian menatapnya lama. Lalu ia menatap pintu itu — pintu yang tidak mengenalinya, pintu yang telah melupakannya, pintu yang telah ia jaga dan tinggalkan dan ingin perbaiki.
 

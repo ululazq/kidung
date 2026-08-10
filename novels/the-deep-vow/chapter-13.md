@@ -13,7 +13,7 @@ Sorin berlutut di tepi lingkaran itu, dan ia mengulurkan tangan. Untuk sesaat, t
 
 Sorin menarik tangannya. "Dan ini tumbuh?"
 
-"Setiap tahun." Ossian menatap lingkaran gelap itu. "Ketika aku pertama kali berdiri di sini, lingkaran ini seukuran telapak tanganku. Sekarang ia seukuran tubuhku. Dan di bawahnya — jauh di bawah lantai gua ini — ia lebih besar lagi." Ia menatap Sorin. "Kebocoran ini bukan permukaan, anak. Ia adalah akar. Ia tumbuh dari dalam — dari apa yang ada di balik pintu itu — dan ia akan terus tumbuh sampai pintu itu gagal, atau sampai kita menulisnya ulang."
+"Setiap tahun." Ossian menatap lingkaran gelap itu. "Ketika aku pertama kali berdiri di sini, lingkaran ini seukuran telapak tanganku. Sekarang ia seukuran tubuhku. Dan di bawahnya — jauh di bawah lantai gua ini — ia lebih besar lagi." Ia menatap Sorin. "Kebocoran ini bukan permukaan, nak. Ia adalah akar. Ia tumbuh dari dalam — dari apa yang ada di balik pintu itu — dan ia akan terus tumbuh sampai pintu itu gagal, atau sampai kita menulisnya ulang."
 
 Sorin menatap lingkaran gelap itu, dan ia mencoba membayangkan apa yang Ossian katakan: lingkaran yang tumbuh, tahun demi tahun, tanpa suara, tanpa peringatan. Di Skyreach, orang-orang tidak tahu. Di Heartland, orang-orang sibuk berperang. Di Underreach, orang-orang berbisik dan menjaga lentera. Dan di bawah semua itu, lingkaran ini tumbuh — seperti air yang merembes melalui retakan yang tidak terlihat, yang suatu hari akan menjadi banjir.
 
@@ -33,7 +33,7 @@ Sorin menatap pintu itu. Di dalam dirinya, sesuatu yang sangat tua sedang mencob
 
 Ossian menatapnya lama. "Maka kita akan menjadi generasi yang membuka pintu yang tidak bisa ditutup," katanya pelan. "Dan dunia ini akan mengurai — bukan dalam seratus tahun, tapi dalam satu generasi. Itulah harganya." Ia berhenti. "Aku tidak akan berbohong kepadamu, Sorin Veyr. Aku tidak akan berkata bahwa tidak ada risiko. Yang akan kukatakan: risiko menahan juga nyata — hanya saja ia datang perlahan, seperti air yang merembes, dan kau tidak akan melihatnya sampai sudah terlambat."
 
-Sorin menatapnya lama. Dua jalan. Dua harga. Di satu sisi, menahan — yang berarti dunia mengurai perlahan, pelan-pelan, tanpa ada yang melihat sampai sudah terlambat. Di sisi lain, menulis ulang — yang berarti membuka pintu itu, dengan risiko bahwa apa yang ada di baliknya keluar dan mengurai semuanya dalam satu generasi. "Dan tidak ada jalan ketiga?" tanyanya. Ossian menatapnya. "Itulah yang selama seratus tahun kucari, anak. Dan itulah yang tidak pernah kutemukan."
+Sorin menatapnya lama. Dua jalan. Dua harga. Di satu sisi, menahan — yang berarti dunia mengurai perlahan, pelan-pelan, tanpa ada yang melihat sampai sudah terlambat. Di sisi lain, menulis ulang — yang berarti membuka pintu itu, dengan risiko bahwa apa yang ada di baliknya keluar dan mengurai semuanya dalam satu generasi. "Dan tidak ada jalan ketiga?" tanyanya. Ossian menatapnya. "Itulah yang selama seratus tahun kucari, nak. Dan itulah yang tidak pernah kutemukan."
 
 ---
 
@@ -51,7 +51,7 @@ Ossian menatapnya lama. "Aku tahu catatan itu," katanya. "Aku membacanya, seratu
 
 "Kenapa?"
 
-"Karena catatan itu ditulis oleh orang-orang yang takut," kata Ossian. "Orang-orang yang merobek dunia alih-alih menghadapi apa yang mereka temukan. Orang-orang yang memilih menahan alih-alih menyembuhkan. Mereka menulis peringatan itu agar tidak ada yang mencoba apa yang mereka tidak berani lakukan." Ia menatap Sorin. "Tapi peringatan orang yang takut bukan kebenaran, anak. Ia hanya ketakutan yang ditulis."
+"Karena catatan itu ditulis oleh orang-orang yang takut," kata Ossian. "Orang-orang yang merobek dunia alih-alih menghadapi apa yang mereka temukan. Orang-orang yang memilih menahan alih-alih menyembuhkan. Mereka menulis peringatan itu agar tidak ada yang mencoba apa yang mereka tidak berani lakukan." Ia menatap Sorin. "Tapi peringatan orang yang takut bukan kebenaran, nak. Ia hanya ketakutan yang ditulis."
 
 Sorin menatapnya lama. Dan di dalam dirinya, sesuatu yang sangat tua — sesuatu yang telah membaca pintu itu, yang telah menyentuhnya, yang telah diakui olehnya — berbisik.
 
@@ -61,7 +61,7 @@ Kata-kata itu keluar lebih tegas dari yang ia rencanakan — dan untuk sesaat, S
 
 Ossian menatapnya lama. Lalu ia tersenyum — senyum yang aneh, yang tidak bisa dibaca, yang hampir sedih.
 
-"Bagus," katanya. "Itu jawaban yang tepat. Orang yang memutuskan terlalu cepat adalah orang yang menyesal paling lama." Ia menoleh ke arah pintu itu. "Baca, anak. Sentuh. Dengarkan. Pintu ini mengenalimu — ia akan menunjukkan kepadamu apa yang perlu kau lihat. Dan ketika kau sudah siap, aku akan di sini."
+"Bagus," katanya. "Itu jawaban yang tepat. Orang yang memutuskan terlalu cepat adalah orang yang menyesal paling lama." Ia menoleh ke arah pintu itu. "Baca, nak. Sentuh. Dengarkan. Pintu ini mengenalimu — ia akan menunjukkan kepadamu apa yang perlu kau lihat. Dan ketika kau sudah siap, aku akan di sini."
 
 Sorin menatapnya. "Kau akan menunggu?"
 
@@ -87,7 +87,7 @@ Ia membuka matanya. Di depannya, the First Seal menyala samar, tenang, seperti s
 
 Sorin belum siap untuk menjawab. Tapi untuk pertama kalinya, ia tahu pertanyaan apa yang harus ia jawab.
 
-Ia menatap Ossian. "Besok," katanya. "Atau lusa. Aku akan memberitahumu keputusanku ketika aku siap." Ossian mengangguk. "Aku akan di sini, anak. Aku selalu di sini."
+Ia menatap Ossian. "Besok," katanya. "Atau lusa. Aku akan memberitahumu keputusanku ketika aku siap." Ossian mengangguk. "Aku akan di sini, nak. Aku selalu di sini."
 
 Dan di dalam dirinya, pelan, seperti sesuatu yang bangun dari tidur panjang, jawaban itu mulai terbentuk — bukan dari kata-kata, tapi dari semua yang telah ia pelajari: dari the Compass yang menunjuk ke bawah, dari the Sealmark yang bangkit tanpa izin, dari batu yang panas di telapaknya, dari gulungan-gulungan di kamar arsip, dari kata-kata para penulis: *Kunci dimaksudkan untuk menjaga.* Ia belum siap mengucapkannya dengan lantang. Tapi ia tahu ke mana arahnya.
 

@@ -20,7 +20,7 @@ Malam; Sorin nyaris tertangkap penjaga Thornmarch (mencari "pengelana tanpa Mark
 
 ### Bab 4: House Veyr
 **Status**: selesai
-Maren menceritakan House Veyr dari dalam: dulu penjaga perdamaian, bukan penguasa; dihapus ±200 tahun lalu oleh konspirasi trah (Ashvale & Thornmarch bekerja sama saat itu) karena mereka takut kunci segel. Ia menyimpan **cincin segel Veyr** — cincin besi dengan tiga garis menyatu. "Kau bukan kebetulan di sini, anak. Sesuatu memanggilmu." Sorin: "Kompasku menunjuk ke Hearthhold."
+Maren menceritakan House Veyr dari dalam: dulu penjaga perdamaian, bukan penguasa; dihapus ±200 tahun lalu oleh konspirasi trah (Ashvale & Thornmarch bekerja sama saat itu) karena mereka takut kunci segel. Ia menyimpan **cincin segel Veyr** — cincin besi dengan tiga garis menyatu. "Kau bukan kebetulan di sini, nak. Sesuatu memanggilmu." Sorin: "Kompasku menunjuk ke Hearthhold."
 
 ### Bab 5: The Road to Hearthhold
 **Status**: selesai
@@ -68,7 +68,7 @@ Di reruntuhan kota, Sorin bertemu **Seren** — ia melarikan diri dari ayahnya, 
 
 ### Bab 14: The Pale Whisper
 **Status**: selesai
-Di tanah perang, seorang pengkhotbah the Pale Vow — jubah pucat, mata tenang — berkhotbah tentang the Rejoining: "Dunia adalah tubuh yang dirobek." Ia melihat Sorin dan tersenyum: "Kau berjalan ke bawah, anak. Kau tahu jalan." Tidak menawarkan apa-apa kecuali satu kalimat: "Dia menunggumu di bawah — di tempat di mana semua jalan bertemu." (Bayangan Ossian.)
+Di tanah perang, seorang pengkhotbah the Pale Vow — jubah pucat, mata tenang — berkhotbah tentang the Rejoining: "Dunia adalah tubuh yang dirobek." Ia melihat Sorin dan tersenyum: "Kau berjalan ke bawah, nak. Kau tahu jalan." Tidak menawarkan apa-apa kecuali satu kalimat: "Dia menunggumu di bawah — di tempat di mana semua jalan bertemu." (Bayangan Ossian.)
 
 ### Bab 15: The Descent
 **Status**: selesai

@@ -33,7 +33,7 @@ Penjaga itu membaca, lalu menulis: *Maka kau tidak akan melihat pintunya. Dan du
 
 Sorin menatapnya. *Ujian keheningan?*
 
-*Setiap orang yang turun harus membuktikan bahwa ia bisa diam. Karena di depan pintu itu, kata-kata tidak berarti apa-apa — yang berarti hanyalah apa yang kau tulis, dan apa yang kau pegang. Turunlah, anak. Dan jangan berbicara sampai kau melihat pintunya.*
+*Setiap orang yang turun harus membuktikan bahwa ia bisa diam. Karena di depan pintu itu, kata-kata tidak berarti apa-apa — yang berarti hanyalah apa yang kau tulis, dan apa yang kau pegang. Turunlah, nak. Dan jangan berbicara sampai kau melihat pintunya.*
 
 Mereka turun dalam keheningan setelah itu — Sorin di depan, Tove dan Seren di belakang, berjalan menembus tangga yang tidak pernah berakhir, dengan lilin-lilin yang menyala sendiri-sendiri di dinding-dinding. Tidak ada yang berbicara. Tove mengikat simpul-simpul di jaringnya dengan jari-jari yang terbiasa bekerja dalam diam. Seren mengecek Clanmarknya dengan mata, tanpa suara. Dan Sorin berjalan, the Compass menyala di telapaknya, menunjuk ke bawah — ke arah pintu, ke arah akhir.
 
@@ -89,7 +89,7 @@ the Silence Keeper melangkah keluar dari bayangan, berdiri di depan the First Se
 
 *Garis yang berdarah. Garis yang berjanji. Garis yang ditenun. Tiga garis, satu kunci. Di sinilah semuanya bertemu.*
 
-*Tapi pertama — ada satu hal yang harus kau ketahui, anak. Seseorang telah datang sebelum kau.*
+*Tapi pertama — ada satu hal yang harus kau ketahui, nak. Seseorang telah datang sebelum kau.*
 
 Sorin menatapnya. *Ossian.*
 

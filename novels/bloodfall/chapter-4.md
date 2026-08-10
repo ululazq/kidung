@@ -49,17 +49,17 @@ Maren diam lama. "Dua ratus tahun lalu, House Veyr masih hidup. Mereka menjaga s
 
 Sorin merasakan dunia berhenti. "Ke langit."
 
-"Ke langit." Maren menatapnya. "Kau, anak. Kau adalah anak yang diselundupkan itu — atau keturunannya. Darah Veyr yang terakhir, yang tumbuh di antara tali-temali, yang tidak pernah tahu apa yang ia bawa di dalam darahnya."
+"Ke langit." Maren menatapnya. "Kau, nak. Kau adalah anak yang diselundupkan itu — atau keturunannya. Darah Veyr yang terakhir, yang tumbuh di antara tali-temali, yang tidak pernah tahu apa yang ia bawa di dalam darahnya."
 
 Sorin menatap tangannya. The Compass menyala pelan di telapaknya — dan di dadanya, tiga garis itu terasa hangat, seperti sedang mendengarkan.
 
 "Aku tidak merasa seperti penjaga," katanya akhirnya. "Aku merasa seperti anak yang sedang dikejar."
 
-"Itu karena kau belum memilih," kata Maren. "Menjadi Veyr bukan soal darah, anak. Darah hanya membawamu ke pintu. Menjadi Veyr adalah soal pilihan: memilih untuk menjaga, meskipun kau tahu apa yang kau jaga." Ia menatap Sorin. "Pertanyaannya bukan apakah kau Veyr. Pertanyaannya: apakah kau akan memilih untuk menjadi Veyr?"
+"Itu karena kau belum memilih," kata Maren. "Menjadi Veyr bukan soal darah, nak. Darah hanya membawamu ke pintu. Menjadi Veyr adalah soal pilihan: memilih untuk menjaga, meskipun kau tahu apa yang kau jaga." Ia menatap Sorin. "Pertanyaannya bukan apakah kau Veyr. Pertanyaannya: apakah kau akan memilih untuk menjadi Veyr?"
 
 Sorin diam lama. Di langit, tidak ada yang pernah bertanya kepadanya siapa ia ingin menjadi — ia hanya anak kosong yang harus mencari tempatnya sendiri, hari demi hari. Di sini, di rumah tua yang berbau rempah ini, seorang wanita yang sudah hidup dua ratus tahun bertanya kepadanya tentang pilihan — seolah-olah ia punya hak untuk memilih, seolah-olah pilihannya akan berarti. "Aku tidak tahu apakah aku siap," katanya akhirnya. "Tapi aku tahu satu hal: aku tidak akan membiarkan siapa pun membuka pintu yang kau bilang tidak boleh dibuka."
 
-Maren menatapnya lama. "Itu sudah lebih dari cukup untuk malam ini, anak," katanya pelan. "Pilihan tidak datang sekaligus. Ia datang satu langkah pada satu waktu — dan kau sudah mengambil langkah pertama."
+Maren menatapnya lama. "Itu sudah lebih dari cukup untuk malam ini, nak," katanya pelan. "Pilihan tidak datang sekaligus. Ia datang satu langkah pada satu waktu — dan kau sudah mengambil langkah pertama."
 
 ---
 

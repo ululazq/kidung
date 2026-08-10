@@ -13,7 +13,7 @@ Para rigger yang sedang bekerja berhenti ketika ia lewat. Seorang lelaki tua yan
 
 "Aku Sorin," kata Sorin. "Itu saja."
 
-"Itu saja?" Lelaki itu tertawa. "Anak, seluruh dermaga ini membicarakanmu. Katanya kau turun ke bawah dunia dan menemukan pintu yang menjaga semuanya. Katanya kau kembali untuk membawa orang-orang turun bersamamu." Ia berhenti mengikat simpulnya. "Aku sudah tiga puluh tahun di tali-temali ini, dan aku tidak pernah melihat kompas yang menunjuk ke bawah. Sekarang aku melihatnya di mana-mana. Kalau kau bisa memperbaiki itu, anak — kalau kau bisa membuat kompas-kompas itu kembali ke utara — maka seluruh guild ini akan berhutang padamu."
+"Itu saja?" Lelaki itu tertawa. "Nak, seluruh dermaga ini membicarakanmu. Katanya kau turun ke bawah dunia dan menemukan pintu yang menjaga semuanya. Katanya kau kembali untuk membawa orang-orang turun bersamamu." Ia berhenti mengikat simpulnya. "Aku sudah tiga puluh tahun di tali-temali ini, dan aku tidak pernah melihat kompas yang menunjuk ke bawah. Sekarang aku melihatnya di mana-mana. Kalau kau bisa memperbaiki itu, nak — kalau kau bisa membuat kompas-kompas itu kembali ke utara — maka seluruh guild ini akan berhutang padamu."
 
 "Aku tidak mencari utang," kata Sorin. "Aku mencari tangan."
 

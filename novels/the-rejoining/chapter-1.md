@@ -73,7 +73,7 @@ Maren menatap batu itu lama. Lalu ia menatap Sorin. "Dan kau?"
 
 "Aku akan memberi tahu mereka. Semua orang. Tiga lapis. Bahwa pintu ini bocor, dan bahwa kita harus memutuskan bersama."
 
-Maren mengangguk — pelan, seperti orang yang telah menunggu dua ratus tahun untuk mendengar seseorang mengatakan hal itu. "Itu kata-kata yang benar, anak. Tapi kau tahu apa yang tidak pernah diajarkan trahmu?"
+Maren mengangguk — pelan, seperti orang yang telah menunggu dua ratus tahun untuk mendengar seseorang mengatakan hal itu. "Itu kata-kata yang benar, nak. Tapi kau tahu apa yang tidak pernah diajarkan trahmu?"
 
 "Apa?"
 

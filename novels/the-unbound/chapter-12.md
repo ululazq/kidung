@@ -25,11 +25,11 @@ Sorin berdiri di tengah aula, dan untuk pertama kalinya, ia melihat ketakutan di
 
 ---
 
-Setelah sidang ditunda, mereka membawanya kembali ke sel — tetapi dengan cara yang berbeda. Tidak ada tangan yang mencengkeram. Tidak ada kata-kata kasar. Penjaga itu membukakan pintu, dan salah satu dari mereka — yang tadi memperingatkannya tentang jaring — menatapnya sebentar sebelum berkata, pelan: "Kau membuat hari ini menarik, anak."
+Setelah sidang ditunda, mereka membawanya kembali ke sel — tetapi dengan cara yang berbeda. Tidak ada tangan yang mencengkeram. Tidak ada kata-kata kasar. Penjaga itu membukakan pintu, dan salah satu dari mereka — yang tadi memperingatkannya tentang jaring — menatapnya sebentar sebelum berkata, pelan: "Kau membuat hari ini menarik, nak."
 
 Sorin duduk di kasur, dan ia merasakan tubuhnya bergetar — bukan karena takut, tapi karena sesuatu yang lain: kelelahan yang dalam, yang datang dari berdiri di tengah aula selama berjam-jam, dari menahan tujuh pasang mata, dari mengucapkan kata-kata yang tidak pernah ia pikir akan ia ucapkan. *Aku tidak mencurinya. Ia memilihku.* Ia tidak tahu dari mana kata-kata itu datang. Ia hanya tahu bahwa ia tidak bisa berdiri diam sementara mereka menyebutnya pencuri.
 
-Di telapaknya, the Compass menyala pelan — tenang, seperti sedang bernapas. Ia menatapnya, dan untuk sesaat ia membayangkan Nahmi: lelaki tua yang berdiri di haluan dengan kompas yang menunjuk ke bawah, yang membaca angin selama enam puluh tahun, yang di saat-saat terakhirnya memilih untuk memberikan cahayanya kepada anak kosong yang berlari ke arahnya. *Bukan utara, anak. Ke bawah.*
+Di telapaknya, the Compass menyala pelan — tenang, seperti sedang bernapas. Ia menatapnya, dan untuk sesaat ia membayangkan Nahmi: lelaki tua yang berdiri di haluan dengan kompas yang menunjuk ke bawah, yang membaca angin selama enam puluh tahun, yang di saat-saat terakhirnya memilih untuk memberikan cahayanya kepada anak kosong yang berlari ke arahnya. *Bukan utara, nak. Ke bawah.*
 
 Apakah Nahmi tahu? Apakah Nahmi tahu bahwa kompasnya menunjuk ke bawah selama dua tahun — dan apakah ia tahu kenapa?
 

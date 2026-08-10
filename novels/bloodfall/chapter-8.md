@@ -9,11 +9,11 @@ Theron menemuinya keesokan paginya, dan tawarannya lebih aneh dari yang Sorin ba
 
 Sorin menatapnya. "Aku tidak akan menikahi siapa pun."
 
-"Kau akan," kata Theron, dengan nada yang sama tenangnya. "Dengarkan dulu, anak. Kau adalah kunci. Itu sudah jelas — seluruh Hearthhold tahu sekarang. Tapi kunci tanpa mahkota adalah target. Kunci dengan mahkota adalah raja." Ia mencondongkan tubuh ke depan. "Aku menawarkanmu mahkota. Kau menikahi Seren, kau menjadi Ashvale, dan kunci itu — kunci itu akan menyatukan semua trah di bawah satu tangan."
+"Kau akan," kata Theron, dengan nada yang sama tenangnya. "Dengarkan dulu, nak. Kau adalah kunci. Itu sudah jelas — seluruh Hearthhold tahu sekarang. Tapi kunci tanpa mahkota adalah target. Kunci dengan mahkota adalah raja." Ia mencondongkan tubuh ke depan. "Aku menawarkanmu mahkota. Kau menikahi Seren, kau menjadi Ashvale, dan kunci itu — kunci itu akan menyatukan semua trah di bawah satu tangan."
 
 "Satu tanganmu," kata Sorin.
 
-"Satu tangan yang sama." Theron tersenyum. "Kau pikir aku melakukan ini untuk diriku sendiri? Aku sudah tua, anak. Aku tidak butuh mahkota. Tapi aku butuh perdamaian — dan satu-satunya cara untuk menghentikan perang yang tak pernah berakhir ini adalah dengan satu tangan yang memegang semuanya. Kau, kunci, dan Ashvale, kekuatan. Bersama, kita bisa menghentikan dua ratus tahun darah."
+"Satu tangan yang sama." Theron tersenyum. "Kau pikir aku melakukan ini untuk diriku sendiri? Aku sudah tua, nak. Aku tidak butuh mahkota. Tapi aku butuh perdamaian — dan satu-satunya cara untuk menghentikan perang yang tak pernah berakhir ini adalah dengan satu tangan yang memegang semuanya. Kau, kunci, dan Ashvale, kekuatan. Bersama, kita bisa menghentikan dua ratus tahun darah."
 
 Sorin mendengarkan, dan di balik kata-kata itu, ia mendengar hal-hal yang tidak diucapkan: bahwa Seren tidak punya suara dalam perjanjian ini; bahwa "menjadi Ashvale" berarti namanya akan diganti, ditulis ulang, dipakai; bahwa kunci yang ia bawa akan menjadi milik trah yang menghancurkan trahnya. Theron berbicara tentang perdamaian, tapi yang ia tawarkan bukan perdamaian — ia menawarkan penggabungan. Dan Sorin, yang sepanjang hidupnya tidak punya nama, tahu persis berapa harga sebuah nama ketika ia dilepas.
 
@@ -25,7 +25,7 @@ Theron mengerutkan dahi. "Maksudmu?"
 
 "Kunci itu." Sorin menatapnya. "Kau pikir ia mengunci sesuatu yang berharga. Harta. Kekuatan. Sesuatu yang bisa kau rebut." Ia menggeleng. "Aku tidak tahu apa yang ia kunci. Tapi aku tahu satu hal: orang-orang yang memberiku kunci ini — mereka menyebutnya segel. Dan segel tidak dibuat untuk sesuatu yang bisa kau pegang."
 
-Theron menatapnya lama. Lalu ia tersenyum — senyum yang tidak sampai ke matanya. "Kau naif, anak. Itu yang membuatmu berbahaya dan berharga sekaligus." Ia berdiri. "Pikirkan tawaranku. Kau punya waktu sampai malam."
+Theron menatapnya lama. Lalu ia tersenyum — senyum yang tidak sampai ke matanya. "Kau naif, nak. Itu yang membuatmu berbahaya dan berharga sekaligus." Ia berdiri. "Pikirkan tawaranku. Kau punya waktu sampai malam."
 
 Setelah pintu tertutup, Sorin duduk di kursi itu lama, menatap meja yang kosong. Naif. Mungkin Theron benar. Mungkin ia terlalu percaya pada kata-kata seperti "segel" dan "menjaga", terlalu muda untuk melihat bahwa di dunia ini, semua kata bisa dipelintir menjadi senjata. Tapi ada satu hal yang tidak bisa dipelintir: fakta bahwa Theron tidak pernah bertanya apa yang ia jaga. Ia hanya bertanya bagaimana cara memakainya. Dan orang yang hanya melihat kunci sebagai alat tidak pernah mengerti pintu.
 

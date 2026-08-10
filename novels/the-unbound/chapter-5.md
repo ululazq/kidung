@@ -25,7 +25,7 @@ Mereka sedang istirahat — Sorin duduk di dekat tiang utama, punggung ke kayu, 
 
 Lelaki itu tidak muda. Umurnya sulit ditebak — bisa lima puluh, bisa tujuh puluh, dengan wajah yang diukir angin dan mata yang tenang seperti air yang sudah tidak punya alasan untuk bergegas. Ia duduk tanpa suara, seperti bayangan yang memutuskan untuk istirahat, dan untuk beberapa saat mereka hanya duduk bersama, menatap bintang.
 
-"Anak," kata lelaki itu akhirnya. Bukan panggilan — pengakuan.
+"Nak," kata lelaki itu akhirnya. Bukan panggilan — pengakuan.
 
 Sorin menoleh. "Saya?"
 
@@ -43,7 +43,7 @@ Sorin menatap kotak itu. Kayunya tua, dihitamkan usia, dengan satu ukiran di tut
 
 "Apa ini?" tanyanya.
 
-"Pertanyaan," jawab lelaki itu. "Kau anak yang mengambil cahaya. Sekarang kau akan mendapat pertanyaan." Ia berdiri, dan untuk sesaat ia tampak seperti bayangan lagi — sesuatu yang ada di antara dua tempat, tidak sepenuhnya di salah satu. "Satu hal lagi, anak. Orang yang mengirim ini — mereka menyebut diri the Silent Choir. Mereka yang menyimpan catatan yang tidak boleh ada. Kalau kau bertemu mereka, jangan takut. Mereka satu-satunya yang tidak akan berbohong padamu."
+"Pertanyaan," jawab lelaki itu. "Kau anak yang mengambil cahaya. Sekarang kau akan mendapat pertanyaan." Ia berdiri, dan untuk sesaat ia tampak seperti bayangan lagi — sesuatu yang ada di antara dua tempat, tidak sepenuhnya di salah satu. "Satu hal lagi, nak. Orang yang mengirim ini — mereka menyebut diri the Silent Choir. Mereka yang menyimpan catatan yang tidak boleh ada. Kalau kau bertemu mereka, jangan takut. Mereka satu-satunya yang tidak akan berbohong padamu."
 
 "Kenapa mereka menungguku?"
 
@@ -85,7 +85,7 @@ Ia membaliknya. Di bagian belakang, diukir dalam huruf yang nyaris hapus: *Untuk
 
 Yang kedua: selembar kertas, dilipat empat, ditulis dengan tangan yang rapi dan tua.
 
-*Anak,*
+"Nak,"
 
 *Kau tidak mengenal kami, dan kami tidak mengenalmu — tapi kami mengenal darahmu. Kami adalah the Silent Choir, penyimpan catatan yang tidak boleh ada. Selama berabad-abad kami menunggu seseorang seperti kau: yang kosong, yang tidak terikat, yang bisa memegang lebih dari satu cahaya.*
 

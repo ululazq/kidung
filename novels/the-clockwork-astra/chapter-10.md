@@ -21,7 +21,7 @@ Tidak semua dari mereka terbangun sepenuhnya. Beberapa, ketika dibawa keluar, ti
 
 Edward menatapnya. "Apakah aku memperbaikinya?"
 
-"Kau bilang ya." Perempuan itu tersenyum — senyum yang lemah, yang datang dari tempat yang jauh. "Kau tidak pernah berbohong, anak. Aku tahu."
+"Kau bilang ya." Perempuan itu tersenyum — senyum yang lemah, yang datang dari tempat yang jauh. "Kau tidak pernah berbohong, nak. Aku tahu."
 
 Edward mengangguk, dan membantu memapahnya naik tangga, dan ketika mereka mencapai pintu menara — ketika cahaya fajar pertama menyentuh mereka — ia berhenti, dan menatap kota yang sedang bangun, dan untuk sesaat ia tidak bisa berkata apa-apa.
 

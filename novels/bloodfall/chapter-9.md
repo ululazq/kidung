@@ -59,7 +59,7 @@ Maren masuk dengan wajah pucat.
 
 Sorin menatapnya. "Dan kalau Theron menolak?"
 
-"Kalau Theron menolak, Thornmarch akan datang mengambilmu." Maren menatapnya. "Dan Thornmarch tidak pernah datang dengan tangan kosong, anak. Mereka datang dengan pasukan."
+"Kalau Theron menolak, Thornmarch akan datang mengambilmu." Maren menatapnya. "Dan Thornmarch tidak pernah datang dengan tangan kosong, nak. Mereka datang dengan pasukan."
 
 Sorin berdiri, berjalan ke jendela, menatap Bloodpillar yang menjulang. Di kejauhan, di luar tembok kota, ia bisa melihat titik-titik api — ribuan titik, bergerak seperti sungai di malam hari. Pasukan. Thornmarch sudah bergerak sebelum ultimatum itu dibacakan.
 
@@ -67,7 +67,7 @@ Sorin menatap api-api itu, dan ia menghitung: seribu titik api berarti seribu pa
 
 "Aku tidak mau diperebutkan," kata Sorin.
 
-"Kau tidak punya pilihan, anak." Maren berdiri di sampingnya. "Kau adalah kunci. Dan selama ada dua trah yang menginginkan kunci itu, kau akan diperebutkan — sampai salah satu dari mereka menang, atau sampai kau berhenti menjadi kunci."
+"Kau tidak punya pilihan, nak." Maren berdiri di sampingnya. "Kau adalah kunci. Dan selama ada dua trah yang menginginkan kunci itu, kau akan diperebutkan — sampai salah satu dari mereka menang, atau sampai kau berhenti menjadi kunci."
 
 "Bagaimana caranya aku berhenti menjadi kunci?"
 

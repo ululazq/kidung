@@ -41,7 +41,7 @@ Maren menunggunya di lorong bawah tanah, seperti yang ia janjikan.
 
 "Nyaris." Sorin menarik napas. "Mark-ku — the Sealmark. Ia bangkit. Dan ketika ia bangkit..." Ia berhenti. "Mark para prajurit itu mulai terurai. Seperti the Seam. Seperti..."
 
-"Seperti yang dikatakan catatan," kata Maren, dan suaranya tenang, seperti orang yang sudah tahu. "Itu yang dilakukan kunci, anak. Ia adalah gema dari yang menulis. Di dekatnya, tulisan lain kehilangan bentuk."
+"Seperti yang dikatakan catatan," kata Maren, dan suaranya tenang, seperti orang yang sudah tahu. "Itu yang dilakukan kunci, nak. Ia adalah gema dari yang menulis. Di dekatnya, tulisan lain kehilangan bentuk."
 
 "Tapi aku tidak melakukan apa-apa. Aku hanya..."
 
@@ -55,15 +55,15 @@ Ia tidak tahu. Dan tidak ada waktu untuk mencari tahu.
 
 "Aku tidak akan pergi sendirian," kata Sorin.
 
-"Kau harus." Maren menatapnya. "Aku terikat, anak. Bloodline. Lapis ini milikku — dan semakin dalam kau turun, semakin jauh dari lapis ini. Aku tidak bisa menemanimu ke bawah. Aku akan mati di tempat di mana resonance-ku mati."
+"Kau harus." Maren menatapnya. "Aku terikat, nak. Bloodline. Lapis ini milikku — dan semakin dalam kau turun, semakin jauh dari lapis ini. Aku tidak bisa menemanimu ke bawah. Aku akan mati di tempat di mana resonance-ku mati."
 
 Sorin menatapnya. "Tapi kau..."
 
-"Aku sudah melakukan tugasku." Maren tersenyum — senyum yang tua, yang penuh dengan hal-hal yang tidak bisa diucapkan. "Aku menjaga cincin itu selama dua ratus tahun. Aku menunggu darah Veyr kembali ke tanah ini. Dan sekarang kau di sini, dan kau tahu siapa dirimu, dan kau tahu apa yang harus kau lakukan." Ia menggenggam tangan Sorin. "Itu sudah cukup, anak. Lebih dari cukup."
+"Aku sudah melakukan tugasku." Maren tersenyum — senyum yang tua, yang penuh dengan hal-hal yang tidak bisa diucapkan. "Aku menjaga cincin itu selama dua ratus tahun. Aku menunggu darah Veyr kembali ke tanah ini. Dan sekarang kau di sini, dan kau tahu siapa dirimu, dan kau tahu apa yang harus kau lakukan." Ia menggenggam tangan Sorin. "Itu sudah cukup, nak. Lebih dari cukup."
 
 Sorin merasakan sesuatu di dadanya — bukan the Sealmark, tapi sesuatu yang lain, sesuatu yang hangat dan sakit pada saat yang sama. "Terima kasih," katanya. "Atas semuanya."
 
-Maren menatapnya lama, dan untuk sesaat, di cahaya lilin, ia terlihat lebih tua dari yang pernah Sorin lihat — bukan tua karena umur, tapi tua karena dua ratus tahun menunggu. "Kau tidak perlu berterima kasih, anak. Aku tidak melakukan apa-apa selain menunggu." "Menunggu itu bukan tidak melakukan apa-apa," kata Sorin. "Menunggu itu percaya bahwa sesuatu akan datang." Maren tersenyum — senyum yang hampir pecah. "Kau belajar cepat, anak dari langit."
+Maren menatapnya lama, dan untuk sesaat, di cahaya lilin, ia terlihat lebih tua dari yang pernah Sorin lihat — bukan tua karena umur, tapi tua karena dua ratus tahun menunggu. "Kau tidak perlu berterima kasih, nak. Aku tidak melakukan apa-apa selain menunggu." "Menunggu itu bukan tidak melakukan apa-apa," kata Sorin. "Menunggu itu percaya bahwa sesuatu akan datang." Maren tersenyum — senyum yang hampir pecah. "Kau belajar cepat, anak dari langit."
 
 "Jangan berterima kasih dulu." Maren melepaskan tangannya, menunjuk ke lorong yang gelap. "Turunlah, Sorin Veyr. Turunlah ke segel. Dan jaga apa yang kau jaga."
 

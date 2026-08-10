@@ -29,7 +29,7 @@ Ia tidak tahu bagaimana menjelaskannya — tidak kepada Ossian, tidak kepada dir
 
 Sorin menarik tangannya. "Ia mengenali kuncinya. Bukan aku."
 
-"Kau adalah kuncinya, anak." Ossian menatapnya. "Itu bukan hal yang bisa kau pisahkan dari dirimu. Kau bisa menolaknya, kau bisa membencinya, kau bisa lari darinya — tapi selama kau hidup, pintu ini akan mengenalimu, dan kau akan mengenalinya. Itulah yang dimaksud menjadi kunci."
+"Kau adalah kuncinya, nak." Ossian menatapnya. "Itu bukan hal yang bisa kau pisahkan dari dirimu. Kau bisa menolaknya, kau bisa membencinya, kau bisa lari darinya — tapi selama kau hidup, pintu ini akan mengenalimu, dan kau akan mengenalinya. Itulah yang dimaksud menjadi kunci."
 
 Sorin menatap pintu itu. "Dan kau? Apakah pintu itu mengenalimu?"
 
@@ -39,9 +39,9 @@ Tidak terjadi apa-apa.
 
 Pintu itu tetap redup. Tulisan-tulisan itu tidak bergerak. Dan Ossian berdiri di sana, tangannya di permukaan obsidian yang dingin, dan di wajahnya — untuk sesaat — ada sesuatu yang sangat tua, yang sangat kesepian, yang telah lama ia simpan.
 
-"Tidak," katanya akhirnya, menarik tangannya. "Pintu ini tidak mengenaliku. Aku bukan kuncinya — aku hanya orang yang memegangnya sekali, lama sekali, dan melepaskannya." Ia menatap Sorin. "Aku pernah menjadi seperti kau, anak. Aku pernah menjadi kunci. Dan kemudian aku memilih jalan yang berbeda — dan pintu ini melupakanku."
+"Tidak," katanya akhirnya, menarik tangannya. "Pintu ini tidak mengenaliku. Aku bukan kuncinya — aku hanya orang yang memegangnya sekali, lama sekali, dan melepaskannya." Ia menatap Sorin. "Aku pernah menjadi seperti kau, nak. Aku pernah menjadi kunci. Dan kemudian aku memilih jalan yang berbeda — dan pintu ini melupakanku."
 
-Sorin menatapnya lama. Ada sesuatu di wajah Ossian — sesuatu yang telah ia lihat sebelumnya, di cermin, di wajah orang-orang yang telah kehilangan sesuatu yang tidak bisa dikembalikan. "Kalau kau menyesalinya," kata Sorin pelan, "kenapa kau tidak mengambilnya kembali? Kenapa kau tidak kembali menjadi kunci?" Ossian tersenyum — senyum yang pahit, yang tidak sampai ke matanya. "Karena menjadi kunci bukan sesuatu yang bisa kau ambil kembali, anak. Ia adalah sesuatu yang diberikan — oleh pintu, oleh darah, oleh dunia. Ketika aku melepaskannya, aku melepaskannya selamanya. Yang tersisa hanyalah aku — dan keyakinanku bahwa aku melakukan hal yang benar."
+Sorin menatapnya lama. Ada sesuatu di wajah Ossian — sesuatu yang telah ia lihat sebelumnya, di cermin, di wajah orang-orang yang telah kehilangan sesuatu yang tidak bisa dikembalikan. "Kalau kau menyesalinya," kata Sorin pelan, "kenapa kau tidak mengambilnya kembali? Kenapa kau tidak kembali menjadi kunci?" Ossian tersenyum — senyum yang pahit, yang tidak sampai ke matanya. "Karena menjadi kunci bukan sesuatu yang bisa kau ambil kembali, nak. Ia adalah sesuatu yang diberikan — oleh pintu, oleh darah, oleh dunia. Ketika aku melepaskannya, aku melepaskannya selamanya. Yang tersisa hanyalah aku — dan keyakinanku bahwa aku melakukan hal yang benar."
 
 "Kenapa kau melepaskannya?"
 
@@ -57,7 +57,7 @@ Sorin mendengarkan, dan ia belajar hal-hal yang tidak pernah diajarkan siapa pun
 
 "Tapi kau tidak menulis ulang," kata Sorin. "Kau melepaskan kuncinya."
 
-"Aku tidak punya pilihan." Ossian menatap pintu itu. "Kunci tidak bisa menulis ulang, anak. Hanya para penulis yang bisa — dan para penulis telah pergi. Aku mencoba — aku berdiri di tempat ini, dengan kunci di dadaku, dan aku mencoba membuka pintu itu cukup untuk menulis ulang — dan pintu itu menjawab dengan cara yang membuatku tahu: jika aku melanjutkan, aku akan membuka sesuatu yang tidak bisa kututup."
+"Aku tidak punya pilihan." Ossian menatap pintu itu. "Kunci tidak bisa menulis ulang, nak. Hanya para penulis yang bisa — dan para penulis telah pergi. Aku mencoba — aku berdiri di tempat ini, dengan kunci di dadaku, dan aku mencoba membuka pintu itu cukup untuk menulis ulang — dan pintu itu menjawab dengan cara yang membuatku tahu: jika aku melanjutkan, aku akan membuka sesuatu yang tidak bisa kututup."
 
 Sorin menatapnya. "Jadi kau berhenti."
 
@@ -65,7 +65,7 @@ Sorin menatapnya. "Jadi kau berhenti."
 
 "Kenapa kau berhenti?"
 
-"Karena aku memilih untuk tidak melakukan apa-apa," kata Ossian. "Dan tidak melakukan apa-apa, ketika dunia sedang mati, adalah pilihan yang sama nyatanya dengan yang lain — hanya saja kau tidak bisa menyebutnya pilihan, karena kau tidak pernah benar-benar memilih." Ia menatap Sorin. "Aku tidak ingin kau membuat kesalahan yang sama, anak. Aku tidak ingin kau berdiri di sini, seratus tahun dari sekarang, menonton dunia mengurai, dan bertanya-tanya apakah kau seharusnya mencoba."
+"Karena aku memilih untuk tidak melakukan apa-apa," kata Ossian. "Dan tidak melakukan apa-apa, ketika dunia sedang mati, adalah pilihan yang sama nyatanya dengan yang lain — hanya saja kau tidak bisa menyebutnya pilihan, karena kau tidak pernah benar-benar memilih." Ia menatap Sorin. "Aku tidak ingin kau membuat kesalahan yang sama, nak. Aku tidak ingin kau berdiri di sini, seratus tahun dari sekarang, menonton dunia mengurai, dan bertanya-tanya apakah kau seharusnya mencoba."
 
 Sorin menatapnya lama. Di dadanya, tiga garis itu menyala pelan — dan di telapaknya, batu the First Reach masih panas, seperti sedang mendengarkan.
 
@@ -77,7 +77,7 @@ Ossian menatapnya lama. Dan kemudian ia tersenyum — senyum yang tua, yang penu
 
 Ia berdiri, berjalan mendekat ke pintu itu, dan ia menunjuk ke titik di jantung pintu itu — titik di mana tiga tangan, tiga jalur, satu kunci bertemu.
 
-"Para penulis telah pergi," katanya. "Tapi tulisan mereka masih ada. Tiga Pillars — sisa dari gunung yang sama. Tiga lapis — bagian dari dunia yang sama. Dan satu kunci — yang bisa membuka pintu ini cukup untuk menulis ulang garis-garis yang bocor." Ia menoleh ke arah Sorin. "Kita tidak butuh para penulis, anak. Kita butuh tiga lapis yang bekerja sama — langit, tanah, dan akar — dan kita butuh kunci yang memegang pintu ini tetap terbuka sementara tulisan ditulis ulang."
+"Para penulis telah pergi," katanya. "Tapi tulisan mereka masih ada. Tiga Pillars — sisa dari gunung yang sama. Tiga lapis — bagian dari dunia yang sama. Dan satu kunci — yang bisa membuka pintu ini cukup untuk menulis ulang garis-garis yang bocor." Ia menoleh ke arah Sorin. "Kita tidak butuh para penulis, nak. Kita butuh tiga lapis yang bekerja sama — langit, tanah, dan akar — dan kita butuh kunci yang memegang pintu ini tetap terbuka sementara tulisan ditulis ulang."
 
 Sorin menatapnya. "Dan kalau pintu itu terbuka terlalu lama?"
 

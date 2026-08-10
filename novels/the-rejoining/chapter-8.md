@@ -81,7 +81,7 @@ Di gerbang Navigators' Guild, seorang navigator tua berhenti di depannya. "Kau S
 
 "Aku Sorin," kata Sorin.
 
-"Aku mengenal Nahmi," kata navigator itu. "Bertahun-tahun aku bekerja di kapal yang sama dengannya, dan ia selalu berkata bahwa kompasnya rusak — bahwa ia menunjuk ke tempat yang tidak bisa ia jelaskan. Kami menganggapnya gila. Sekarang aku membaca halaman ini, dan aku mengerti: ia tidak gila. Ia hanya satu-satunya yang tahu bahwa ada sesuatu di bawah, dan bahwa kompasnya mencoba menunjuk ke sana." Ia menatap Sorin. "Kalau kau turun, anak — bawa aku. Tidak, kau tidak bisa. Tapi bawalah kata-kata ini: Nahmi tidak pernah berhenti menunjuk ke bawah. Dan ia tidak pernah berhenti percaya bahwa ada alasan untuk itu. Kau membuktikan bahwa ia benar."
+"Aku mengenal Nahmi," kata navigator itu. "Bertahun-tahun aku bekerja di kapal yang sama dengannya, dan ia selalu berkata bahwa kompasnya rusak — bahwa ia menunjuk ke tempat yang tidak bisa ia jelaskan. Kami menganggapnya gila. Sekarang aku membaca halaman ini, dan aku mengerti: ia tidak gila. Ia hanya satu-satunya yang tahu bahwa ada sesuatu di bawah, dan bahwa kompasnya mencoba menunjuk ke sana." Ia menatap Sorin. "Kalau kau turun, nak — bawa aku. Tidak, kau tidak bisa. Tapi bawalah kata-kata ini: Nahmi tidak pernah berhenti menunjuk ke bawah. Dan ia tidak pernah berhenti percaya bahwa ada alasan untuk itu. Kau membuktikan bahwa ia benar."
 
 Sorin menatapnya lama. Ia tidak tahu apa yang harus dikatakan. Lalu ia berkata: "Aku akan membawanya."
 

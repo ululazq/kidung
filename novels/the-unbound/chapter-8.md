@@ -29,25 +29,25 @@ Sorin menoleh. Lelaki tua itu — lelaki yang memberinya kotak kayu di kapal, le
 
 "Dan kau bilang jangan?"
 
-Lelaki itu menatapnya lama. "Kalau kau kembali sekarang, kau akan ditangkap, Tove akan tetap ditahan — dan kau akan mati di menara itu tanpa menjawab satu pertanyaan pun. Itu yang mereka mau, anak. Mereka tidak peduli pada Tove. Mereka peduli padamu — pada apa yang bisa mereka pelajari darimu." Ia mengencangkan genggamannya. "Kau pikir menahan Tove itu hukuman? Itu umpan. Mereka tahu kau akan datang. Mereka menunggu."
+Lelaki itu menatapnya lama. "Kalau kau kembali sekarang, kau akan ditangkap, Tove akan tetap ditahan — dan kau akan mati di menara itu tanpa menjawab satu pertanyaan pun. Itu yang mereka mau, nak. Mereka tidak peduli pada Tove. Mereka peduli padamu — pada apa yang bisa mereka pelajari darimu." Ia mengencangkan genggamannya. "Kau pikir menahan Tove itu hukuman? Itu umpan. Mereka tahu kau akan datang. Mereka menunggu."
 
 Sorin berdiri di sana, tangan terkepal, marah yang tidak tahu harus pergi ke mana. Lelaki tua itu benar — ia tahu lelaki tua itu benar — tapi kebenaran tidak membuat marah itu hilang. Kebenaran hanya membuatnya lebih berat.
 
 "Aku tidak bisa membiarkannya," kata Sorin.
 
-"Kau tidak bisa menyelamatkannya dengan mati." Lelaki tua itu melepaskan lengannya. "Tapi kau bisa menyelamatkannya dengan cara lain. Dengan menjadi sesuatu yang tidak bisa mereka bedah — sesuatu yang terlalu berbahaya untuk mereka sentuh." Ia menatap Sorin. "Kau sisa dari trah yang namanya dihapus, anak. Kau tidak bisa mati di sini. Mereka yang menunggumu tidak akan menunggu lagi."
+"Kau tidak bisa menyelamatkannya dengan mati." Lelaki tua itu melepaskan lengannya. "Tapi kau bisa menyelamatkannya dengan cara lain. Dengan menjadi sesuatu yang tidak bisa mereka bedah — sesuatu yang terlalu berbahaya untuk mereka sentuh." Ia menatap Sorin. "Kau sisa dari trah yang namanya dihapus, nak. Kau tidak bisa mati di sini. Mereka yang menunggumu tidak akan menunggu lagi."
 
 Kata-kata itu. Kata-kata yang sama dari surat itu: *Kau sisa dari sesuatu yang mereka pikir sudah mati.*
 
 "Trah apa?" tanya Sorin. Suaranya serak. "Siapa aku?"
 
-Lelaki tua itu diam lama. Lalu ia berkata, dengan suara yang nyaris tidak terdengar: "Ada nama yang tidak boleh disebut di Highport. Nama yang dihapus dari catatan, dari dinding, dari mulut orang. Trah yang menjaga sesuatu yang lebih tua dari guild mana pun — dan yang dihancurkan agar rahasianya mati bersama mereka." Ia menatap Sorin. "Kau membawa nama itu di darahmu, anak. Kau mungkin tidak tahu — tapi mereka yang menghapusnya tahu. Itu sebabnya mereka menunggumu."
+Lelaki tua itu diam lama. Lalu ia berkata, dengan suara yang nyaris tidak terdengar: "Ada nama yang tidak boleh disebut di Highport. Nama yang dihapus dari catatan, dari dinding, dari mulut orang. Trah yang menjaga sesuatu yang lebih tua dari guild mana pun — dan yang dihancurkan agar rahasianya mati bersama mereka." Ia menatap Sorin. "Kau membawa nama itu di darahmu, nak. Kau mungkin tidak tahu — tapi mereka yang menghapusnya tahu. Itu sebabnya mereka menunggumu."
 
 "Siapa nama itu?"
 
 Lelaki tua itu membuka mulut — lalu menutupnya. Ia menatap ke arah dermaga, ke arah Highport yang jauh, dan untuk sesaat wajahnya melakukan sesuatu yang aneh: seperti sedang menahan sesuatu yang sudah lama ia tahan.
 
-"Belum waktunya," katanya akhirnya. "Kalau aku menyebutnya sekarang, kau akan membawanya seperti beban — dan kau belum siap untuk beban itu. Turunlah dulu, anak. Turun ke tempat kompasmu menunjuk. Di sana, ada orang yang akan menyebutkannya untukmu."
+"Belum waktunya," katanya akhirnya. "Kalau aku menyebutnya sekarang, kau akan membawanya seperti beban — dan kau belum siap untuk beban itu. Turunlah dulu, nak. Turun ke tempat kompasmu menunjuk. Di sana, ada orang yang akan menyebutkannya untukmu."
 
 Ia berbalik dan berjalan pergi — dan sebelum Sorin sempat bertanya lagi, ia sudah hilang di antara bayangan-bayangan rumah Lightermen, seperti orang yang tidak pernah benar-benar ada.
 
@@ -55,7 +55,7 @@ Sorin berdiri di sana lama, di tepi the Falls, menatap ke bawah. The Compass men
 
 Ia merasa seperti sedang memegang sisa dari sesuatu yang hilang.
 
-Sebelum ia pergi, lelaki tua itu berhenti di ambang rumah Lightermen, tanpa menoleh, dan berkata dengan suara yang nyaris tidak terdengar: "Satu hal lagi, anak. Kalau kau bertemu orang yang menyebut namamu — nama yang dihapus itu — jangan takut. Dan jangan percaya begitu saja. Mereka yang tahu namamu bukan berarti mereka memihakmu." Ia berhenti. "Di bawah, semua orang punya alasan. Kau harus belajar membaca alasan, sama seperti kau membaca tali."
+Sebelum ia pergi, lelaki tua itu berhenti di ambang rumah Lightermen, tanpa menoleh, dan berkata dengan suara yang nyaris tidak terdengar: "Satu hal lagi, nak. Kalau kau bertemu orang yang menyebut namamu — nama yang dihapus itu — jangan takut. Dan jangan percaya begitu saja. Mereka yang tahu namamu bukan berarti mereka memihakmu." Ia berhenti. "Di bawah, semua orang punya alasan. Kau harus belajar membaca alasan, sama seperti kau membaca tali."
 
 Lalu ia pergi, dan Sorin tidak melihatnya lagi.
 

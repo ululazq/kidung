@@ -12,7 +12,7 @@ Highport, the Gullsong. Sorin (15) di tali-temali; hari Binding teman-temannya d
 
 ### Bab 2: The Navigator's Mark
 **Status**: selesai
-Badai. Pulau pecah dari the Falls tersedot angin. Old Nahmi di geladak membaca angin — kompasnya bergetar aneh, menunjuk ke bawah. Pulau menghantam; Nahmi tertimpa. Saat wafat, Marks-nya menguap — dan Sorin, yang menyentuhnya untuk menolong, merasa cahaya itu *menetap* di telapaknya. The Compass lahir di tangan si kosong. Bisikan Nahmi: *"Bukan utara, anak. Ke bawah."* Geladak senyap — semua melihat tangan itu menyala.
+Badai. Pulau pecah dari the Falls tersedot angin. Old Nahmi di geladak membaca angin — kompasnya bergetar aneh, menunjuk ke bawah. Pulau menghantam; Nahmi tertimpa. Saat wafat, Marks-nya menguap — dan Sorin, yang menyentuhnya untuk menolong, merasa cahaya itu *menetap* di telapaknya. The Compass lahir di tangan si kosong. Bisikan Nahmi: *"Bukan utara, nak. Ke bawah."* Geladak senyap — semua melihat tangan itu menyala.
 
 ### Bab 3: The Law of the Guild
 **Status**: selesai
@@ -48,7 +48,7 @@ Penyeberangan Skyreach. Kejar-kejaran udara: kapal penegak dengan stormlock vs S
 
 ### Bab 10: The Aerie of the Sun
 **Status**: selesai
-Kota di kepala Sunpillar. Sorin ditangkap di gerbang — bukan oleh penegak, tapi oleh utusan Council yang sudah menunggu. Di sel, ia bertemu Lighterman lain yang "tidak terikat" — tua, tenang: *"Mereka akan mengadilimu, anak. Tapi pengadilan bukan untuk menghukummu. Pengadilan untuk memutuskan milik siapa kau."* Malam: poros Sunpillar terlihat dari jendela sel — lubang ke bawah yang gelap. Kompas senyap — bukan karena tenang, tapi karena *sudah di rumah*.
+Kota di kepala Sunpillar. Sorin ditangkap di gerbang — bukan oleh penegak, tapi oleh utusan Council yang sudah menunggu. Di sel, ia bertemu Lighterman lain yang "tidak terikat" — tua, tenang: *"Mereka akan mengadilimu, nak. Tapi pengadilan bukan untuk menghukummu. Pengadilan untuk memutuskan milik siapa kau."* Malam: poros Sunpillar terlihat dari jendela sel — lubang ke bawah yang gelap. Kompas senyap — bukan karena tenang, tapi karena *sudah di rumah*.
 
 ---
 

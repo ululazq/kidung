@@ -11,7 +11,7 @@ Hari itu adalah hari Binding, dan seluruh dermaga tahu.
 
 Mereka berkumpul di tepi pulau — anak-anak yang baru melewati usia empat belas tahun, berdiri dalam barisan yang tidak pernah diajarkan siapa pun. Di depan mereka, Master Binding dari Navigators' Guild membawa lilin yang tidak padam oleh angin, dan satu per satu, nama dipanggil. Sorin mengenal mereka semua. Ada Leni, anak penjual layar, yang selalu menyembunyikan roti untuknya di musim badai. Ada Bram, anak Cloudminers, yang pernah berkelahi dengannya karena berebut tali dan sekarang berdiri dengan dagu tegak, matanya tertutup, menunggu sesuatu yang akan mengubah segalanya.
 
-"Sorih."
+"Sorin."
 
 Sorin tidak mendengar namanya dipanggil. Ia sedang memperhatikan Leni — bagaimana napasnya berhenti ketika Master Binding menyentuh dahinya, bagaimana kulitnya mulai menyala dari dalam, garis-garis tipis seperti benang layar yang terbentang di sepanjang lengan bawahnya. Guildmark. Mark yang lahir dari karya, dari profesi, dari janji yang diucapkan di depan guild. Leni akan menjadi penjual layar, dan Marks-nya akan tumbuh setiap kali ia bekerja, seperti otot yang berlatih.
 
@@ -35,7 +35,7 @@ Marren mengangguk, dan untuk sesaat wajahnya melakukan sesuatu yang jarang terja
 
 "Badai masih dua hari," kata Sorin.
 
-"Badai tidak baca kalender, anak."
+"Badai tidak baca kalender, nak."
 
 Sorin naik. Itu yang ia tahu caranya — naik. Tangan di tali, kaki di tali, tubuh yang bergerak seperti air yang mengalir ke atas. Di Highport, rigger adalah pekerjaan paling rendah di bawah Lightermen: kerja kosong untuk orang kosong. Tidak ada guild yang mau menerima mereka, karena Marks tidak bisa lahir dari tali-temali — tali tidak punya nama, tidak punya warisan, tidak punya sumpah. Tali hanya punya tegangan.
 
@@ -47,7 +47,7 @@ Sorin melihat semua itu dari atas, dan untuk pertama kalinya dalam tiga tahun, i
 
 Ia menggoyangkan kepala dan mengencangkan simpul. Pertanyaan itu tidak punya jawaban, dan ia sudah belajar bahwa di Highport, pertanyaan tanpa jawaban hanya membuatmu dianggap lebih kosong.
 
-Ia tidak ingat banyak tentang panti Lightermen — hanya bau garam, deretan kasur, dan suara Mak Darmi, perempuan tua yang menjaga mereka, yang selalu berkata: "Kosong itu bukan dosa, anak. Kosong itu cuma belum diisi. Tapi jangan berharap ada yang mengisimu — di Highport, orang sibuk mengisi diri sendiri." Ia ingat hari ia dibawa ke the Gullsong: umur dua belas, tangan terlalu kecil untuk tali, Marren menatapnya lama sebelum berkata, "Kosong, ya?" dan kemudian, tanpa menunggu jawaban, "Bagus. Kosong tidak punya siapa-siapa yang akan mencarimu kalau kau jatuh. Itu membuatmu berhati-hati."
+Ia tidak ingat banyak tentang panti Lightermen — hanya bau garam, deretan kasur, dan suara Mak Darmi, perempuan tua yang menjaga mereka, yang selalu berkata: "Kosong itu bukan dosa, nak. Kosong itu cuma belum diisi. Tapi jangan berharap ada yang mengisimu — di Highport, orang sibuk mengisi diri sendiri." Ia ingat hari ia dibawa ke the Gullsong: umur dua belas, tangan terlalu kecil untuk tali, Marren menatapnya lama sebelum berkata, "Kosong, ya?" dan kemudian, tanpa menunggu jawaban, "Bagus. Kosong tidak punya siapa-siapa yang akan mencarimu kalau kau jatuh. Itu membuatmu berhati-hati."
 
 Sorin tidak pernah yakin apakah itu pujian atau kutukan. Ia hanya tahu bahwa ia belajar berhati-hati — belajar bahwa tali lebih jujur daripada orang, bahwa simpul yang benar tidak pernah berbohong, bahwa jika ia jatuh, tidak ada yang akan menariknya naik. Tiga tahun kemudian, ia masih belum jatuh.
 
@@ -81,13 +81,13 @@ Tidak ada yang bisa menjelaskan apa yang terjadi setelahnya dengan rapi, karena 
 
 Sorin tidak ingat melompat. Ia ingat mendarat. Ia ingat tangan Nahmi yang memegang lengannya dengan kekuatan yang tidak mungkin dimiliki orang sekarat, dan mata tua itu yang membuka, mencari wajahnya.
 
-"Anak," kata Nahmi, dan suaranya lebih tenang daripada badai di sekelilingnya. "Anak kosong."
+"Nak," kata Nahmi, dan suaranya lebih tenang daripada badai di sekelilingnya. "Anak kosong."
 
 Sorin membuka mulut untuk mengatakan sesuatu — ia tidak tahu apa — tapi Nahmi tidak menunggu. Tangan tua itu melepaskan lengannya dan meraih tangannya, telapak ke telapak, dan Sorin merasakannya: panas. Cahaya. Sesuatu yang selama enam puluh tahun tinggal di dalam Nahmi, yang tumbuh bersama setiap pelayaran, setiap angin yang dibacanya, setiap utara yang ia temukan — sesuatu yang mulai menguap dari tubuh tua itu seperti asap dari api yang padam.
 
 Sorin mencoba menarik tangannya. Ia tidak bisa. Bukan karena Nahmi memegangnya kuat — lelaki tua itu nyaris tidak punya kekuatan lagi — tapi karena sesuatu yang lebih dalam sedang terjadi, sesuatu yang tidak bisa dihentikan dengan menarik. Ia merasakan cahaya itu masuk ke telapaknya seperti air yang mengalir ke lembah, mengisi ruang yang selama lima belas tahun ia tidak tahu ada di dalam dirinya — ruang kosong yang selama ini ia kira adalah dirinya sendiri.
 
-"Bukan utara," bisik Nahmi. "Bukan utara, anak. Ke bawah."
+"Bukan utara," bisik Nahmi. "Bukan utara, nak. Ke bawah."
 
 Dan kemudian cahaya itu pindah.
 

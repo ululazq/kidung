@@ -27,7 +27,7 @@ Dain mengangguk — pelan, seperti orang yang menerima kabar yang sudah ia duga.
 
 "Kau tidak mencoba menghentikanku?"
 
-"Untuk apa?" Dain menatapnya. "Kau bukan musuh kami, Sorin Veyr. Kau adalah kunci — satu-satunya yang bisa menulis ulang pintu itu ketika waktunya tiba. Kami tidak ingin kau mati. Kami ingin kau melihat apa yang kami lihat." Ia melangkah ke samping, memberi jalan. "Naiklah, anak. Bawa kabarmu. Bangun aliansimu. Dan ketika dunia sudah tahu — ketika mereka sudah melihat sendiri apa yang terjadi di bawah — kami akan di sini, menunggu."
+"Untuk apa?" Dain menatapnya. "Kau bukan musuh kami, Sorin Veyr. Kau adalah kunci — satu-satunya yang bisa menulis ulang pintu itu ketika waktunya tiba. Kami tidak ingin kau mati. Kami ingin kau melihat apa yang kami lihat." Ia melangkah ke samping, memberi jalan. "Naiklah, nak. Bawa kabarmu. Bangun aliansimu. Dan ketika dunia sudah tahu — ketika mereka sudah melihat sendiri apa yang terjadi di bawah — kami akan di sini, menunggu."
 
 Sorin menatapnya lama. Lalu ia melangkah melewatinya, dan ia terus berjalan naik.
 
@@ -91,7 +91,7 @@ Sorin menatapnya lama. Lalu ia mengangguk, dan ia berbalik.
 
 "Keeper Verra," katanya, tanpa menoleh. "Terima kasih sudah membuka jalan."
 
-"Jalan itu sudah terbuka sebelum kau datang, anak." Verra menatap punggungnya. "Kau hanya orang pertama yang berani melangkah."
+"Jalan itu sudah terbuka sebelum kau datang, nak." Verra menatap punggungnya. "Kau hanya orang pertama yang berani melangkah."
 
 ---
 

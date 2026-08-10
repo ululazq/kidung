@@ -27,7 +27,7 @@ Untuk sesaat, Sorin ingin membuka jubahnya dan melihat garis-garis itu — memas
 
 "Mereka akan melakukan yang lebih buruk," kata Maren. "Mereka akan memperebutkanmu."
 
-Sorin menatap api itu. Ia sudah diburu sebelumnya — di Skyreach, oleh Guilds' Council, oleh orang-orang yang ingin memakai the Compass. Tapi diperebutkan adalah sesuatu yang berbeda. Diburu berarti mereka ingin menangkapmu. Diperebutkan berarti mereka tidak peduli siapa dirimu — mereka hanya peduli apa yang kau bawa, dan mereka akan saling menghancurkan demi itu. "Aku lebih suka diburu," kata Sorin pelan. "Setidaknya itu jujur." Maren menatapnya, dan untuk sesaat ada sesuatu yang hampir seperti iba di matanya. "Semua orang bilang begitu, anak. Sampai mereka belajar bahwa yang berharga di sini bukan siapa kau — tapi apa yang bisa kau berikan."
+Sorin menatap api itu. Ia sudah diburu sebelumnya — di Skyreach, oleh Guilds' Council, oleh orang-orang yang ingin memakai the Compass. Tapi diperebutkan adalah sesuatu yang berbeda. Diburu berarti mereka ingin menangkapmu. Diperebutkan berarti mereka tidak peduli siapa dirimu — mereka hanya peduli apa yang kau bawa, dan mereka akan saling menghancurkan demi itu. "Aku lebih suka diburu," kata Sorin pelan. "Setidaknya itu jujur." Maren menatapnya, dan untuk sesaat ada sesuatu yang hampir seperti iba di matanya. "Semua orang bilang begitu, nak. Sampai mereka belajar bahwa yang berharga di sini bukan siapa kau — tapi apa yang bisa kau berikan."
 
 ---
 
@@ -39,7 +39,7 @@ Sorin menegang. Maren menatapnya dengan peringatan di matanya — jangan bereaks
 
 *Barang berharga yang datang dari atas.* Rumor itu sudah sampai ke telinga trah-trah. The Compass, atau tiga garis di dadanya, atau sesuatu yang lain — seseorang di Sunrest telah berbicara, dan sekarang Thornmarch menggerakkan pasukan ke selatan, dan Ashvale "menyembunyikan" sesuatu yang tidak pernah mereka sembunyikan, dan dua ratus tahun perang akan segera memiliki alasan baru.
 
-Sorin menatap air sumur, mencoba menenangkan detak jantungnya. "Berapa cepat mereka bergerak?" tanyanya pelan, ketika pengelana itu sudah cukup jauh. "Pasukan? Atau kabar?" Maren menatapnya. "Keduanya sama cepatnya, anak. Kabar sudah sampai ke Thornmarch kemarin, kalau tidak lebih awal. Pasukan akan menyusul dalam seminggu — kecuali mereka sudah bergerak lebih dulu." "Dan Ashvale?" "Ashvale akan menyangkal, lalu berbohong, lalu bersiap. Itulah yang mereka lakukan selama dua ratus tahun."
+Sorin menatap air sumur, mencoba menenangkan detak jantungnya. "Berapa cepat mereka bergerak?" tanyanya pelan, ketika pengelana itu sudah cukup jauh. "Pasukan? Atau kabar?" Maren menatapnya. "Keduanya sama cepatnya, nak. Kabar sudah sampai ke Thornmarch kemarin, kalau tidak lebih awal. Pasukan akan menyusul dalam seminggu — kecuali mereka sudah bergerak lebih dulu." "Dan Ashvale?" "Ashvale akan menyangkal, lalu berbohong, lalu bersiap. Itulah yang mereka lakukan selama dua ratus tahun."
 
 Sorin mengangguk, meskipun ia tidak mengerti — belum. Ia masih belajar bahwa di tanah ini, kata-kata seperti "menyangkal" dan "bersiap" adalah bahasa perang, dan bahwa perang punya tata bahasanya sendiri.
 
@@ -61,7 +61,7 @@ The Compass bergetar di telapaknya. Tidak seperti biasanya: bukan getaran yang t
 
 "Di sana," bisik Sorin. "Itu yang ditunjuk kompasku."
 
-Maren menatap kota itu lama. "Hearthhold," katanya. "Kota yang dibangun di kaki poros tengah. Kota tempat para trah berkumpul, berdebat, dan saling membunuh." Ia menatap Sorin. "Kau yakin kau ingin masuk ke sana, anak? Begitu kau masuk, kau tidak akan bisa keluar tanpa diketahui."
+Maren menatap kota itu lama. "Hearthhold," katanya. "Kota yang dibangun di kaki poros tengah. Kota tempat para trah berkumpul, berdebat, dan saling membunuh." Ia menatap Sorin. "Kau yakin kau ingin masuk ke sana, nak? Begitu kau masuk, kau tidak akan bisa keluar tanpa diketahui."
 
 Sorin menatap kota itu. Di dadanya, tiga garis itu terasa hangat — seperti sedang mendengarkan, seperti sedang menunggu.
 
@@ -79,4 +79,4 @@ Para penjaga saling menatap. Salah satu dari mereka — yang paling tua, dengan 
 
 Dan Sorin berdiri di gerbang Hearthhold, di kaki Bloodpillar, dengan the Compass yang menyala di telapaknya dan tiga garis yang hangat di dadanya — dan ia tahu, dengan kepastian yang tidak bisa ia jelaskan, bahwa hidupnya akan berubah di dalam kota ini.
 
-Ia menatap Maren — wanita tua yang berdiri di sampingnya, yang telah berjalan lima hari tanpa mengeluh, yang telah menunggu dua ratus tahun untuk hari ini. "Kau yakin kita harus melakukan ini?" tanyanya. "Kita bisa berbalik. Kita bisa—" "Tidak ada tempat untuk berbalik, anak," kata Maren, tanpa menoleh. "Kompasmu menunjuk ke sini. Dan aku sudah belajar satu hal selama dua ratus tahun: ketika kompas Veyr menunjuk, ia tidak pernah salah."
+Ia menatap Maren — wanita tua yang berdiri di sampingnya, yang telah berjalan lima hari tanpa mengeluh, yang telah menunggu dua ratus tahun untuk hari ini. "Kau yakin kita harus melakukan ini?" tanyanya. "Kita bisa berbalik. Kita bisa—" "Tidak ada tempat untuk berbalik, nak," kata Maren, tanpa menoleh. "Kompasmu menunjuk ke sini. Dan aku sudah belajar satu hal selama dua ratus tahun: ketika kompas Veyr menunjuk, ia tidak pernah salah."

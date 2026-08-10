@@ -91,7 +91,7 @@ Tove menatapnya lama. "Kau berubah," katanya. "Ketika aku terakhir melihatmu, ka
 
 Seren menatapnya lama. "Dan kau — kau adalah kuncinya. Apa yang terjadi pada kunci ketika tiga tangan selesai menulis?"
 
-Sorin menatap telapaknya. The Compass menyala — emas, hidup — dan jarumnya menunjuk ke bawah, ke arah pintu, ke arah akhir dari perjalanan yang telah ia tempuh sejak badai di the Gullsong, sejak lelaki tua itu meletakkan kompas di tangannya dan berbisik: *Bukan utara, anak. Ke bawah.*
+Sorin menatap telapaknya. The Compass menyala — emas, hidup — dan jarumnya menunjuk ke bawah, ke arah pintu, ke arah akhir dari perjalanan yang telah ia tempuh sejak badai di the Gullsong, sejak lelaki tua itu meletakkan kompas di tangannya dan berbisik: *Bukan utara, nak. Ke bawah.*
 
 Ia telah menanyakan pertanyaan yang sama kepada dirinya sendiri, berulang kali, sejak Maren mengatakannya di bawah pohon di perbatasan barat: penjaga tidak pernah memakai kunci, dan kunci yang dipakai sampai habis tidak pernah menjadi apa-apa lagi. Ia telah memikirkannya di kamar-kamar istana, di tangga-tangga Deeppillar, di dermaga-dermaga Highport — dan ia tidak pernah menemukan jawaban yang membuatnya tenang. Mungkin tidak ada jawaban yang membuatnya tenang. Mungkin itulah harga yang harus dibayar untuk menjadi kunci: kau tidak pernah tahu apa yang tersisa setelahnya, dan kau tetap memakainya.
 

@@ -41,7 +41,7 @@ Hutan bercahaya — Sorin belum pernah melihat yang seperti ini. Pohon-pohon den
 
 Ilka diam sejenak. "Mereka bilang glow-grove ini menyusut," katanya akhirnya. "Setiap tahun, sedikit. Setiap tahun, pohon-pohon di tepi mati lebih cepat, dan yang baru tidak tumbuh menggantikannya." Ia menunjuk ke arah tepi hutan, di mana Sorin bisa melihatnya: pohon-pohon yang redup, urat-urat yang tidak lagi menyala, batang yang kering seperti tulang. "Di sini, cahaya adalah kehidupan. Dan cahaya sedang pergi."
 
-Sorin menatap pohon-pohon yang redup itu, dan untuk sesaat ia ingin memberitahu Ilka segalanya — tentang the Stillness, tentang segel, tentang apa yang ia bawa. Tapi ia sudah belajar di Heartland bahwa kebenaran adalah mata uang, dan mata uang tidak dibagikan secara gratis. "Mungkin ia akan kembali," katanya akhirnya. Ilka menatapnya lama. "Orang-orang di kota ini berkata begitu setiap tahun, anak. Dan setiap tahun, pohon-pohon itu tidak kembali."
+Sorin menatap pohon-pohon yang redup itu, dan untuk sesaat ia ingin memberitahu Ilka segalanya — tentang the Stillness, tentang segel, tentang apa yang ia bawa. Tapi ia sudah belajar di Heartland bahwa kebenaran adalah mata uang, dan mata uang tidak dibagikan secara gratis. "Mungkin ia akan kembali," katanya akhirnya. Ilka menatapnya lama. "Orang-orang di kota ini berkata begitu setiap tahun, nak. Dan setiap tahun, pohon-pohon itu tidak kembali."
 
 Sorin menatap pohon-pohon yang mati itu, dan ia merasakan sesuatu yang dingin di dadanya. Ia tahu apa itu — ia sudah mendengarnya dari Idrith, dari Oren, dari catatan House Veyr: gejala kebocoran. the Stillness, yang mengurai Marks, yang mengubah tulisan menjadi tidak tertulis — sedang mengurai dunia ini dari dalam, pelan-pelan, tanpa suara.
 

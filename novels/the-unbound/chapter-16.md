@@ -15,7 +15,7 @@ Sorin tidak menjawab. Wanita itu mengeluarkan sepotong roti dari keranjangnya da
 
 "Ke bawah," kata Sorin. Itu satu-satunya jawaban yang ia punya.
 
-Wanita itu mengangguk, seperti jawaban itu sudah cukup. "Dengar, anak. Di bawah, orang tidak bertanya — sama seperti di atas. Tapi kalau kau bertemu orang yang matanya tidak terikat, dan ia menyebut namamu..." Ia berhenti. "Jangan takut. Dan jangan percaya begitu saja."
+Wanita itu mengangguk, seperti jawaban itu sudah cukup. "Dengar, nak. Di bawah, orang tidak bertanya — sama seperti di atas. Tapi kalau kau bertemu orang yang matanya tidak terikat, dan ia menyebut namamu..." Ia berhenti. "Jangan takut. Dan jangan percaya begitu saja."
 
 Sorin menatapnya. Kata-kata yang sama dengan lelaki tua di the Falls: *Di bawah, semua orang punya alasan.* "Apakah banyak yang turun?" tanyanya.
 

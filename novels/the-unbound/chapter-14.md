@@ -27,7 +27,7 @@ Bukan seperti mata orang biasa — orang biasa punya ikatan, terlihat atau tidak
 
 "Siapa kau?" tanya Sorin.
 
-"Orang yang lewat," kata lelaki itu. "Seperti kau." Ia berjalan mendekat, berdiri di samping Sorin, menatap poros itu. "Kau lihat ke bawah, anak. Aku sudah lama tidak melihat orang yang menatap ke bawah dengan cara itu."
+"Orang yang lewat," kata lelaki itu. "Seperti kau." Ia berjalan mendekat, berdiri di samping Sorin, menatap poros itu. "Kau lihat ke bawah, nak. Aku sudah lama tidak melihat orang yang menatap ke bawah dengan cara itu."
 
 "Cara apa?"
 
@@ -35,7 +35,7 @@ Bukan seperti mata orang biasa — orang biasa punya ikatan, terlihat atau tidak
 
 Sorin merasakan sesuatu bergerak di dadanya. "Aku tidak punya rumah."
 
-"Semua orang punya rumah, anak. Kebanyakan hanya belum tahu di mana." Lelaki itu mengeluarkan sesuatu dari balik jubahnya — benda kecil, yang ia letakkan di telapak Sorin dengan gerakan yang tidak tergesa-gesa. "Ini untukmu. Aku membawanya dari jauh — dari tempat yang lebih tua dari guild mana pun di kota ini."
+"Semua orang punya rumah, nak. Kebanyakan hanya belum tahu di mana." Lelaki itu mengeluarkan sesuatu dari balik jubahnya — benda kecil, yang ia letakkan di telapak Sorin dengan gerakan yang tidak tergesa-gesa. "Ini untukmu. Aku membawanya dari jauh — dari tempat yang lebih tua dari guild mana pun di kota ini."
 
 Sorin menatap benda itu. Sebuah kerikil — tidak, bukan kerikil. Batu tua, abu-abu, dengan satu garis yang terukir di permukaannya: garis Mark. Mark yang sudah mati — tidak menyala, tidak bergerak, hanya garis yang terukir di batu seperti sisa dari sesuatu yang sudah lama pergi.
 
@@ -47,13 +47,13 @@ Sorin menggenggam batu itu. Dingin. Tua. Tapi di dalam dinginnya, ada sesuatu ya
 
 "Apa ini?" tanya Sorin.
 
-"Puing," kata lelaki itu. "Dari the First Reach. Dari gunung yang dirobek the Sundering. Mark yang terukir di atasnya — itu Mark pertama, anak. Mark yang ditulis sebelum dunia terbagi. Mark yang tidak terikat pada discipline mana pun." Ia menatap Sorin. "Sesuatu yang kau butuhkan, kalau kau benar-benar akan turun."
+"Puing," kata lelaki itu. "Dari the First Reach. Dari gunung yang dirobek the Sundering. Mark yang terukir di atasnya — itu Mark pertama, nak. Mark yang ditulis sebelum dunia terbagi. Mark yang tidak terikat pada discipline mana pun." Ia menatap Sorin. "Sesuatu yang kau butuhkan, kalau kau benar-benar akan turun."
 
 Sorin menatap batu itu. Ia bisa merasakan sesuatu dari batu itu — tidak seperti the Compass, yang hangat dan hidup. Ini berbeda. Dingin. Tua. Seperti menyentuh sesuatu yang sudah menunggu lebih lama daripada yang bisa dibayangkan.
 
 "Kenapa kau memberikannya padaku?" tanyanya. "Kau tidak mengenalku."
 
-Lelaki itu tersenyum — senyum yang tidak bisa ia baca, senyum yang seperti air yang dalam. "Aku mengenal matamu, anak. Aku mengenalnya karena aku pernah memilikinya." Ia berbalik, mulai berjalan pergi. "Turunlah, Sorin Veyr. Turunlah ke bawah. Di sana, kau akan menemukan jawaban yang tidak bisa kau cari di atas."
+Lelaki itu tersenyum — senyum yang tidak bisa ia baca, senyum yang seperti air yang dalam. "Aku mengenal matamu, nak. Aku mengenalnya karena aku pernah memilikinya." Ia berbalik, mulai berjalan pergi. "Turunlah, Sorin Veyr. Turunlah ke bawah. Di sana, kau akan menemukan jawaban yang tidak bisa kau cari di atas."
 
 Sorin tersentak. *Sorin Veyr.* Nama yang baru ia dengar beberapa jam lalu — nama yang dihapus dari sejarah, nama yang tidak boleh disebut. Dan lelaki ini menyebutnya dengan tenang, seperti menyebut nama teman lama.
 

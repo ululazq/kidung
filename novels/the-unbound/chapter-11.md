@@ -15,7 +15,7 @@ Sorin berdiri di tengah aula, tangan diikat di belakang punggung, the Compass te
 
 Ia menemukannya di ujung meja: Master Voss. Kepala Navigators' Guild. Wajah yang sama dengan yang ia lihat di geladak the Gullsong — mata ilmuwan, tenang, menghitung. Voss menatapnya tanpa ekspresi, seperti sedang memeriksa spesimen yang sudah ia miliki.
 
-"Anak," kata lelaki di tengah meja — lelaki tua dengan jubah berlapis emas, yang Sorin duga adalah ketua Council. "Kau tahu kenapa kau di sini?"
+"Nak," kata lelaki di tengah meja — lelaki tua dengan jubah berlapis emas, yang Sorin duga adalah ketua Council. "Kau tahu kenapa kau di sini?"
 
 "Karena aku mengambil cahaya," kata Sorin. "Padahal aku tidak mengambilnya."
 
@@ -83,7 +83,7 @@ Aula itu hening lagi. Sorin menatap Marren, dan Marren menatapnya — dan untuk 
 
 "Terima kasih, Kapten," kata ketua itu. "Kau boleh turun."
 
-Marren turun. Sebelum meninggalkan aula, ia berhenti di samping Sorin, dan berbisik, hanya untuknya: "Nahmi bilang padaku, seminggu sebelum badai: 'Kalau sesuatu terjadi padaku, jaga anak kosong itu. Ia bukan yang kalian pikirkan.' Aku tidak mendengarkannya. Maafkan aku, anak."
+Marren turun. Sebelum meninggalkan aula, ia berhenti di samping Sorin, dan berbisik, hanya untuknya: "Nahmi bilang padaku, seminggu sebelum badai: 'Kalau sesuatu terjadi padaku, jaga anak kosong itu. Ia bukan yang kalian pikirkan.' Aku tidak mendengarkannya. Maafkan aku, nak."
 
 Ia pergi. Sorin berdiri di tengah aula, dan untuk pertama kalinya sejak badai itu, ia merasakan sesuatu yang hangat di dadanya — bukan marah, bukan takut. Sesuatu yang menyerupai harapan.
 

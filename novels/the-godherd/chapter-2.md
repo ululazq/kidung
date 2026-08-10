@@ -67,7 +67,7 @@ Mu Yuan menatap lonceng itu. "Dan klan kita?"
 
 Di dalam kepala Mu Yuan, suara itu datang lagi — lebih dekat sekarang:
 
-*"Kau tahu siapa aku, anak?"*
+*"Kau tahu siapa aku, nak?"*
 
 Mu Yuan menggeleng, meskipun dewa itu tidak mungkin melihatnya.
 

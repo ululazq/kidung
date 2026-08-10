@@ -19,7 +19,7 @@ Marren menatapnya lama. "Nahmi memberikannya padamu."
 
 "Saya tidak mengambilnya."
 
-"Aku tahu. Mark tidak bisa diambil." Marren menghela napas, dan untuk sesaat ia tampak seperti orang yang sedang menghitung sesuatu yang tidak ingin dihitung. "Tapi Mark juga tidak bisa berpindah, anak. Itu hukumnya. Kecuali..." Ia berhenti.
+"Aku tahu. Mark tidak bisa diambil." Marren menghela napas, dan untuk sesaat ia tampak seperti orang yang sedang menghitung sesuatu yang tidak ingin dihitung. "Tapi Mark juga tidak bisa berpindah, nak. Itu hukumnya. Kecuali..." Ia berhenti.
 
 "Kecuali apa?"
 
@@ -47,7 +47,7 @@ Mereka tidak perlu menunggu lama. Guilds' Council mengirim orangnya sebelum the 
 
 Sorin tidak mengulurkan tangan. Ia mengepalkannya di belakang punggung, dan untuk sesaat ia berpikir untuk lari — ke tali-temali, ke atap, ke tempat-tempat yang ia kenal lebih baik daripada siapa pun di pulau ini. Tapi tiga orang itu sudah mengepungnya, dan Marren berdiri di samping dengan ekspresi yang tidak bisa dibaca.
 
-"Aku Master Voss," kata lelaki itu, seperti nama itu harusnya menjelaskan segalanya. "Kepala Navigators' Guild. Dan aku tidak bertanya dua kali, anak."
+"Aku Master Voss," kata lelaki itu, seperti nama itu harusnya menjelaskan segalanya. "Kepala Navigators' Guild. Dan aku tidak bertanya dua kali, nak."
 
 Sorin membuka tangannya.
 
@@ -57,7 +57,7 @@ Cahaya itu menyala di telapaknya, dan untuk sesaat, semua orang di geladak berhe
 
 Ia mengulurkan tangan — dan Sorin mundur selangkah, menutup tangannya.
 
-Voss tersenyum. Senyum itu tidak sampai ke matanya. "Kau pikir kau bisa memilih, anak? Di Highport, hal-hal seperti ini tidak pernah jadi pilihan." Ia menoleh ke orang-orangnya. "Bawa dia. Dan bawa kompas Nahmi — kompas yang asli, yang di kabin. Aku ingin tahu kenapa jarumnya tidak pernah menunjuk ke utara selama dua tahun terakhir."
+Voss tersenyum. Senyum itu tidak sampai ke matanya. "Kau pikir kau bisa memilih, nak? Di Highport, hal-hal seperti ini tidak pernah jadi pilihan." Ia menoleh ke orang-orangnya. "Bawa dia. Dan bawa kompas Nahmi — kompas yang asli, yang di kabin. Aku ingin tahu kenapa jarumnya tidak pernah menunjuk ke utara selama dua tahun terakhir."
 
 Sorin melihat Marren. Kapten itu tidak menatapnya — kapten itu menatap lantai, dan Sorin mengerti. Ini bukan urusan kapal kecil. Ini urusan yang lebih besar dari the Gullsong, lebih besar dari Highport, lebih besar dari apa pun yang pernah ia pahami.
 
@@ -75,7 +75,7 @@ Kecuali, mungkin, satu orang. Sorin tidak tahu kenapa wajah Tove yang muncul di 
 
 Ia mencoba memadamkannya. Ia mencoba menutupinya, menyembunyikannya, melupakannya. Tidak ada yang berhasil. Cahaya itu tinggal, berkedip pelan, dan setiap kali ia menatapnya, jarumnya miring ke bawah — ke lantai, ke bawah menara, ke bawah laut awan, ke tempat yang tidak bisa ia lihat.
 
-"Bukan utara, anak. Ke bawah."
+"Bukan utara, nak. Ke bawah."
 
 Kata-kata Nahmi. Orang tua itu tahu. Kompasnya sendiri sudah menunjuk ke bawah selama dua tahun — Marren bilang begitu, dan Voss juga bilang begitu. Nahmi tahu kompasnya salah arah, dan ia tetap berlayar, dan ia tidak pernah bilang ke siapa pun.
 

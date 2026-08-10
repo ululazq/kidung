@@ -17,11 +17,11 @@ Pada hari kedua, ia bertemu seorang petani di tepi ladang — lelaki tua dengan 
 
 Sorin berhenti. "Bagaimana kau tahu?" — tapi sebelum petani itu menjawab, ia sudah tahu: caranya berdiri. Di Heartland, orang-orang berdiri dengan berat di tumit, akar di tanah. Sorin berdiri dengan berat di jari kaki, siap melompat, siap berlari — cara orang yang menghabiskan hidupnya di ketinggian, di tempat di mana keseimbangan adalah soal hidup dan mati.
 
-"Kau berjalan seperti orang yang tidak pernah takut tanah bergerak. Dan kau tidak punya Mark." Petani itu menatap lengannya sendiri — garis-garis cokelat yang membentuk pola seperti akar. "Di sini, anak, Mark itu segalanya. Mark itu yang menentukan kau bisa makan atau tidak, kau bisa menikah atau tidak, kau bisa hidup atau tidak. Tanpa Mark, kau bukan siapa-siapa."
+"Kau berjalan seperti orang yang tidak pernah takut tanah bergerak. Dan kau tidak punya Mark." Petani itu menatap lengannya sendiri — garis-garis cokelat yang membentuk pola seperti akar. "Di sini, nak, Mark itu segalanya. Mark itu yang menentukan kau bisa makan atau tidak, kau bisa menikah atau tidak, kau bisa hidup atau tidak. Tanpa Mark, kau bukan siapa-siapa."
 
 "Aku sudah terbiasa menjadi bukan siapa-siapa," kata Sorin.
 
-Petani itu tertawa — tawa pendek, tanpa humor. "Di langit, 'bukan siapa-siapa' artinya kau diabaikan. Di sini, artinya kau dicurigai. Orang yang tidak punya darah selalu menyembunyikan darah yang lebih berbahaya." Ia menatap Sorin. "Kau menyembunyikan sesuatu, anak. Aku bisa melihatnya dari caramu memegang tangan kirimu."
+Petani itu tertawa — tawa pendek, tanpa humor. "Di langit, 'bukan siapa-siapa' artinya kau diabaikan. Di sini, artinya kau dicurigai. Orang yang tidak punya darah selalu menyembunyikan darah yang lebih berbahaya." Ia menatap Sorin. "Kau menyembunyikan sesuatu, nak. Aku bisa melihatnya dari caramu memegang tangan kirimu."
 
 Sorin menutup tangannya, tanpa sadar. "Aku tidak menyembunyikan apa-apa."
 

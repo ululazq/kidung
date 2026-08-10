@@ -29,7 +29,7 @@ Di kepala Deeppillar, di kota api yang tidak pernah padam, Fane of Embers menyam
 
 "Aku membawa kabar," kata Sorin. "Dan aku butuh tangan ketiga."
 
-Verra menatap api itu lama. "Api ini tidak pernah padam selama seribu tahun," katanya. "Sekarang ia berkedip. Bukan karena ia kehilangan minyak — karena sesuatu di bawah sedang menariknya. The Pillars bergetar, anak. Dunia sedang gemetar, dan ia tidak tahu kenapa."
+Verra menatap api itu lama. "Api ini tidak pernah padam selama seribu tahun," katanya. "Sekarang ia berkedip. Bukan karena ia kehilangan minyak — karena sesuatu di bawah sedang menariknya. The Pillars bergetar, nak. Dunia sedang gemetar, dan ia tidak tahu kenapa."
 
 "Ossian," kata Sorin. "Ia memulai the Rejoining. Ia ingin merobek dunia untuk menyembuhkannya."
 
@@ -49,11 +49,11 @@ Verra menatap api itu lama. Lalu ia berkata: "Ia akan memutuskan sendiri. Aku ti
 
 "Cara yang benar?"
 
-"Cara yang tidak membuka pintu," kata Verra. "Cara yang menulis. Kalau kau datang dengan itu, anak — ia akan menulis."
+"Cara yang tidak membuka pintu," kata Verra. "Cara yang menulis. Kalau kau datang dengan itu, nak — ia akan menulis."
 
 Sorin menatapnya lama. "Kau tidak bertanya tentang Ossian," katanya. "Kau tidak bertanya apakah the Rejoining-nya bisa berhenti, atau apa yang akan terjadi pada dunia jika ia berhasil. Kau hanya berbicara tentang tangan yang akan menulis."
 
-"Karena itulah satu-satunya hal yang penting," kata Verra. "Ossian sudah memutuskan jalannya sejak lama — tidak ada yang bisa mengubah keyakinan orang yang telah hidup selama ia hidup. Tapi kau — kau membawa sesuatu yang belum pernah ia lihat. Kau membawa cara yang berbeda. Dan cara yang berbeda, anak, adalah satu-satunya hal yang bisa mengubah dunia."
+"Karena itulah satu-satunya hal yang penting," kata Verra. "Ossian sudah memutuskan jalannya sejak lama — tidak ada yang bisa mengubah keyakinan orang yang telah hidup selama ia hidup. Tapi kau — kau membawa sesuatu yang belum pernah ia lihat. Kau membawa cara yang berbeda. Dan cara yang berbeda, nak, adalah satu-satunya hal yang bisa mengubah dunia."
 
 Malam itu, di Fane of Embers, Sorin bertemu Ilka lagi.
 

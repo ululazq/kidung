@@ -53,11 +53,11 @@ Lelaki itu mengisi dua gelas, mendorong satu ke arah Sorin. "Nama aku Jaga. Buka
 
 "Stormlock?"
 
-"Bukan. Stormlock bisa dijelaskan — trik, kebetulan, Mark yang aneh. Yang membuat mereka tidak bisa tidur adalah yang pertama: Unbound." Jaga menyesap gelasnya lagi. "Unbound itu langka, anak. Satu atau dua per generasi di seluruh dunia. Kebanyakan mati muda — tubuh mereka bocor resonance, atau mereka diburu, atau mereka dijual ke orang yang ingin membedah mereka. Tapi kau... kau tidak mati. Kau memegang Mark. Kau melepaskan stormlock. Kau membuat hal-hal yang mustahil terlihat biasa."
+"Bukan. Stormlock bisa dijelaskan — trik, kebetulan, Mark yang aneh. Yang membuat mereka tidak bisa tidur adalah yang pertama: Unbound." Jaga menyesap gelasnya lagi. "Unbound itu langka, nak. Satu atau dua per generasi di seluruh dunia. Kebanyakan mati muda — tubuh mereka bocor resonance, atau mereka diburu, atau mereka dijual ke orang yang ingin membedah mereka. Tapi kau... kau tidak mati. Kau memegang Mark. Kau melepaskan stormlock. Kau membuat hal-hal yang mustahil terlihat biasa."
 
 Sorin menatap gelasnya. "Aku tidak melakukan apa-apa. Ia yang melakukannya." Ia mengangguk ke arah tangannya, yang tersembunyi di balik kain.
 
-"Ya. Itu yang mereka takuti." Jaga meletakkan gelasnya. "Besok, mereka akan mengadilimu. Tapi dengar ini baik-baik, anak — pengadilan itu bukan untuk menghukummu. Pengadilan itu untuk memutuskan milik siapa kau."
+"Ya. Itu yang mereka takuti." Jaga meletakkan gelasnya. "Besok, mereka akan mengadilimu. Tapi dengar ini baik-baik, nak — pengadilan itu bukan untuk menghukummu. Pengadilan itu untuk memutuskan milik siapa kau."
 
 Sorin mengerutkan dahi. "Milik siapa?"
 
@@ -65,11 +65,11 @@ Sorin mengerutkan dahi. "Milik siapa?"
 
 "Siapa yang berhak atasku?" Sorin menatapnya. "Tidak ada. Aku bukan milik siapa pun."
 
-Jaga tersenyum — senyum pertama yang Sorin lihat di wajah tua itu, dan senyum itu membuatnya tampak jauh lebih muda. "Itu jawaban yang bagus, anak. Tapi bukan jawaban yang akan kau berikan di pengadilan besok. Karena di pengadilan besok, ada satu orang yang akan berdiri dan berkata bahwa kau miliknya — dan kau harus tahu apakah itu benar."
+Jaga tersenyum — senyum pertama yang Sorin lihat di wajah tua itu, dan senyum itu membuatnya tampak jauh lebih muda. "Itu jawaban yang bagus, nak. Tapi bukan jawaban yang akan kau berikan di pengadilan besok. Karena di pengadilan besok, ada satu orang yang akan berdiri dan berkata bahwa kau miliknya — dan kau harus tahu apakah itu benar."
 
 "Siapa?"
 
-Jaga berjalan ke pintu. "Besok kau akan tahu." Ia berhenti di ambang. "Satu hal lagi. Kau lihat poros itu?" Ia menunjuk ke jendela. "Poros itu turun ke bawah, anak. Ke Heartland. Ke tempat yang tidak pernah dilihat kebanyakan orang Skyreach. Ada orang di bawah sana yang sudah lama menunggumu — lebih lama dari yang bisa kau bayangkan. Kalau pengadilan besok memutuskan kau milik mereka..." Ia menatap Sorin. "Jangan biarkan itu terjadi. Kau bukan milik siapa pun. Kau milik jalanmu sendiri."
+Jaga berjalan ke pintu. "Besok kau akan tahu." Ia berhenti di ambang. "Satu hal lagi. Kau lihat poros itu?" Ia menunjuk ke jendela. "Poros itu turun ke bawah, nak. Ke Heartland. Ke tempat yang tidak pernah dilihat kebanyakan orang Skyreach. Ada orang di bawah sana yang sudah lama menunggumu — lebih lama dari yang bisa kau bayangkan. Kalau pengadilan besok memutuskan kau milik mereka..." Ia menatap Sorin. "Jangan biarkan itu terjadi. Kau bukan milik siapa pun. Kau milik jalanmu sendiri."
 
 Ia keluar, menutup pintu, dan Sorin duduk di sel itu sendirian, menatap poros dari jendela, the Compass menyala pelan di telapaknya.
 

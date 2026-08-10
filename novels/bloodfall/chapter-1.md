@@ -63,11 +63,11 @@ Sorin menerima roti itu — ia tidak tahu kenapa, tapi lelaki tua itu tidak tera
 
 Sorin menegang. "Apa maksudmu?"
 
-"Tenang, anak. Aku bukan penjaga." Lelaki tua itu tersenyum — senyum yang tidak bisa dibaca. "Aku hanya pengelana. Aku sudah berjalan di Heartland selama empat puluh tahun, dan aku sudah belajar satu hal: orang yang menyembunyikan sesuatu selalu menyembunyikannya di tangan yang sama." Ia menatap Sorin. "Di Heartland, anak, orang tanpa Mark adalah mustahil. Tidak ada yang lahir tanpa darah trah. Tidak ada yang hidup tanpa ikatan." Ia berhenti. "Kalau kau memang mustahil, maka kau harus belajar satu hal dengan cepat: jangan biarkan mereka melihatmu lama-lama."
+"Tenang, nak. Aku bukan penjaga." Lelaki tua itu tersenyum — senyum yang tidak bisa dibaca. "Aku hanya pengelana. Aku sudah berjalan di Heartland selama empat puluh tahun, dan aku sudah belajar satu hal: orang yang menyembunyikan sesuatu selalu menyembunyikannya di tangan yang sama." Ia menatap Sorin. "Di Heartland, nak, orang tanpa Mark adalah mustahil. Tidak ada yang lahir tanpa darah trah. Tidak ada yang hidup tanpa ikatan." Ia berhenti. "Kalau kau memang mustahil, maka kau harus belajar satu hal dengan cepat: jangan biarkan mereka melihatmu lama-lama."
 
 Sorin menatap lelaki tua itu. "Siapa kau?"
 
-"Orang yang lewat. Seperti kau." Lelaki tua itu berdiri, mengambil tongkatnya. "Pergilah ke barat laut, anak — ke arah yang ditunjuk sesuatu di tanganmu. Tapi ingat: di Heartland, setiap orang punya darah, dan setiap darah punya harga. Kalau kau tidak punya darah, mereka akan mencarimu untuk mencari tahu darah apa yang kau sembunyikan."
+"Orang yang lewat. Seperti kau." Lelaki tua itu berdiri, mengambil tongkatnya. "Pergilah ke barat laut, nak — ke arah yang ditunjuk sesuatu di tanganmu. Tapi ingat: di Heartland, setiap orang punya darah, dan setiap darah punya harga. Kalau kau tidak punya darah, mereka akan mencarimu untuk mencari tahu darah apa yang kau sembunyikan."
 
 Ia berjalan pergi, dan sebelum Sorin sempat bertanya lagi, lelaki tua itu sudah hilang di antara kios-kios pasar — seperti orang yang tidak pernah benar-benar ada.
 

@@ -12,7 +12,7 @@ Rigger di the Gullsong; **Unbound**. Yatim, dibesarkan di panti Lightermen Highp
 **Perubahan di Book 1:** mendapat **the Compass** (Guildmark) dari Old Nahmi; pertama kali menyentuh Cahaya; akhirnya memilih turun.
 
 ### Old Nahmi (wafat bab 2)
-Navigator the Gullsong, 60-an, anggota Navigators' Guild. Mark-nya the Compass. Wafat saat badai — Mark-nya "menetap" di tangan Sorin. Sebelum wafat sempat berbisik: *"Bukan utara, anak. Ke bawah."* (kail — Nahmi pernah melihat arah aneh kompasnya sendiri).
+Navigator the Gullsong, 60-an, anggota Navigators' Guild. Mark-nya the Compass. Wafat saat badai — Mark-nya "menetap" di tangan Sorin. Sebelum wafat sempat berbisik: *"Bukan utara, nak. Ke bawah."* (kail — Nahmi pernah melihat arah aneh kompasnya sendiri).
 
 ### Captain Marren
 Kapten the Gullsong; pragmatis, tidak kejam, tapi takut pada Council. Setelah badai, ia melaporkan Sorin — bukan karena benci, tapi karena "itu bukan urusan kapal kecil".

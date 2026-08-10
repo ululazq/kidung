@@ -9,21 +9,21 @@ Sorin tidak melihatnya datang — tidak mendengar langkah, tidak melihat bayanga
 
 "Vowmaster Dain," kata Sorin, dan tangannya secara naluriah menutup di sekitar batu the First Reach di balik jubahnya. "Kau berjalan lebih cepat dari yang kuduga."
 
-"Kami tahu jalan di bawah ini, anak." Dain tersenyum — senyum yang sama, yang tidak bisa dibaca. "Kami mengukir sebagian darinya. Kami menjaga tangga ini sebelum ordo-ordo lain lahir — sebelum the Order of the Deep Vow, sebelum the Ember Fane, kami yang berjalan di sini." Ia menatap Sorin. "Dan kami tidak pernah benar-benar pergi. Kami hanya... belajar berjalan tanpa terlihat."
+"Kami tahu jalan di bawah ini, nak." Dain tersenyum — senyum yang sama, yang tidak bisa dibaca. "Kami mengukir sebagian darinya. Kami menjaga tangga ini sebelum ordo-ordo lain lahir — sebelum the Order of the Deep Vow, sebelum the Ember Fane, kami yang berjalan di sini." Ia menatap Sorin. "Dan kami tidak pernah benar-benar pergi. Kami hanya... belajar berjalan tanpa terlihat."
 
 Sorin menatapnya. "Dan sekarang kalian berjalan di tangga ini seperti hantu."
 
-"Hantu." Dain mengucapkan kata itu dengan hati-hati, seperti mengucapkan nama sesuatu yang sudah lama ia kenal. "Itu kata yang bagus, anak. Kami memang hantu — hantu dari ordo yang pernah menjaga dunia ini, yang dibuang oleh orang-orang yang tidak ingin mendengar apa yang kami temukan. Tapi hantu masih bisa melihat, anak. Dan kami telah melihat banyak hal selama kami berjalan tanpa terlihat."
+"Hantu." Dain mengucapkan kata itu dengan hati-hati, seperti mengucapkan nama sesuatu yang sudah lama ia kenal. "Itu kata yang bagus, nak. Kami memang hantu — hantu dari ordo yang pernah menjaga dunia ini, yang dibuang oleh orang-orang yang tidak ingin mendengar apa yang kami temukan. Tapi hantu masih bisa melihat, nak. Dan kami telah melihat banyak hal selama kami berjalan tanpa terlihat."
 
 Sorin berdiri di tangga itu, lilin di satu tangan, dan ia mengukur jarak antara dirinya dan Dain. Tiga anak tangga. Terlalu dekat untuk lari, terlalu jauh untuk diabaikan.
 
 "Apa yang kau mau, Dain?"
 
-"Ossian ingin tahu apakah kau benar-benar kunci," kata Dain, tanpa berkelit. "Kami mendengar tentang Blood Trial. Kami mendengar tentang api yang membungkuk di kuil the Ember Fane. Tapi mendengar bukan melihat, anak. Dan Ossian tidak percaya pada apa yang tidak bisa ia lihat."
+"Ossian ingin tahu apakah kau benar-benar kunci," kata Dain, tanpa berkelit. "Kami mendengar tentang Blood Trial. Kami mendengar tentang api yang membungkuk di kuil the Ember Fane. Tapi mendengar bukan melihat, nak. Dan Ossian tidak percaya pada apa yang tidak bisa ia lihat."
 
 "Kalau begitu, biarkan ia turun dan melihat sendiri."
 
-"Ia tidak bisa turun, anak. Ia sudah di bawah." Dain menatapnya. "Ia menunggu di dasar tangga ini, di depan pintu itu. Dan ia mengirimku ke sini untuk satu hal: untuk melihat apakah kau layak untuk menemuinya."
+"Ia tidak bisa turun, nak. Ia sudah di bawah." Dain menatapnya. "Ia menunggu di dasar tangga ini, di depan pintu itu. Dan ia mengirimku ke sini untuk satu hal: untuk melihat apakah kau layak untuk menemuinya."
 
 Sorin menatapnya. "Dan bagaimana kau akan tahu?"
 
@@ -57,9 +57,9 @@ Dain mundur. Tidak berteriak, tidak marah — mundur, dengan mata yang melebar, 
 
 Mark-mark itu berhenti terurai ketika Sorin menjauh — the Sealmark padam, kembali redup, seperti sedang menarik diri. Dain berdiri di tangga itu, menatap telapaknya, di mana Vowmark-nya masih berkedip — rusak, tapi hidup — dan ia tersenyum.
 
-"Kau melakukan itu," katanya. "Kau mengurai Marks. Seperti yang dikatakan catatan: di dekat penulis, tulisan kehilangan bentuk." Ia menatap Sorin. "Kau adalah gema the First-Marked, anak. Dan Ossian benar — kau adalah kunci."
+"Kau melakukan itu," katanya. "Kau mengurai Marks. Seperti yang dikatakan catatan: di dekat penulis, tulisan kehilangan bentuk." Ia menatap Sorin. "Kau adalah gema the First-Marked, nak. Dan Ossian benar — kau adalah kunci."
 
-Sorin menatap tangannya sendiri — tangan yang sama yang telah mengurai Mark-mark Dain, tangan yang sama yang telah membuat para prajurit mundur di atap Hearthhold. Ia tidak memanggilnya. Ia tidak pernah bisa memanggilnya. Ia hanya bangkit — seperti penjaga yang bangun ketika ada yang mengetuk pintu. "Aku tidak mengendalikannya," katanya. "Aku tidak pernah bisa mengendalikannya." "Tidak ada yang mengendalikan hal-hal yang paling penting, anak," kata Dain. "Kau tidak mengendalikan jantungmu — ia berdetak. Kau tidak mengendalikan napasmu — ia datang dan pergi. Kau hanya bisa memilih apa yang kau lakukan dengannya."
+Sorin menatap tangannya sendiri — tangan yang sama yang telah mengurai Mark-mark Dain, tangan yang sama yang telah membuat para prajurit mundur di atap Hearthhold. Ia tidak memanggilnya. Ia tidak pernah bisa memanggilnya. Ia hanya bangkit — seperti penjaga yang bangun ketika ada yang mengetuk pintu. "Aku tidak mengendalikannya," katanya. "Aku tidak pernah bisa mengendalikannya." "Tidak ada yang mengendalikan hal-hal yang paling penting, nak," kata Dain. "Kau tidak mengendalikan jantungmu — ia berdetak. Kau tidak mengendalikan napasmu — ia datang dan pergi. Kau hanya bisa memilih apa yang kau lakukan dengannya."
 
 "Aku bukan apa-apa," kata Sorin. "Aku hanya anak yang sedang turun."
 
@@ -69,7 +69,7 @@ Sorin menatap tangannya sendiri — tangan yang sama yang telah mengurai Mark-ma
 
 Dain berhenti di tepi bayangan, dan untuk sesaat, wajahnya — wajah yang selalu tenang — menjadi sesuatu yang lain: sesuatu yang lebih tua, lebih lelah, lebih penuh.
 
-"Ia orang yang pernah memilih jalan yang sama denganmu," kata Dain. "Dan ia berharap, suatu hari, kau tidak menyesalinya seperti ia." Ia menatap Sorin. "Turunlah, anak. Di dasar tangga ini, semua jalan bertemu. Dan di sana, kau akan menemukan jawaban yang tidak bisa kau cari di atas."
+"Ia orang yang pernah memilih jalan yang sama denganmu," kata Dain. "Dan ia berharap, suatu hari, kau tidak menyesalinya seperti ia." Ia menatap Sorin. "Turunlah, nak. Di dasar tangga ini, semua jalan bertemu. Dan di sana, kau akan menemukan jawaban yang tidak bisa kau cari di atas."
 
 Kata-kata itu. Kata-kata yang sama. Sorin merasakan sesuatu yang dingin di punggungnya — bukan karena takut, tapi karena pengakuan. *Orang yang pernah memilih jalan yang sama denganmu. Ia berharap, suatu hari, kau tidak menyesalinya seperti ia.* Kata-kata yang sama yang diucapkan peziarah pucat di Skyreach, ketika ia memberinya batu the First Reach. Kata-kata yang telah ia bawa selama berminggu-minggu, tanpa tahu siapa yang mengucapkannya.
 

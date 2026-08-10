@@ -9,7 +9,7 @@ Bukan hanya pengawal — para kepala trah kecil, para tetua, para pengelana yang
 
 Sorin berdiri di antara penjaga yang membawanya, dan ia melihat cara orang-orang masuk: kepala trah kecil dengan pengawal mereka, tetua-tetua dengan tongkat dan wajah yang tidak bisa dibaca, pengelana-pengelana yang berdiri di pinggir seperti burung yang siap terbang. Semua orang datang untuk melihat satu hal: apa yang akan dikatakan darahnya. Di Heartland, orang tidak memercayai kata-kata — kata-kata bisa berbohong, bisa disewa, bisa dipelintir. Darah tidak pernah. Itulah sebabnya Blood Trial jarang diadakan: karena darah tidak pernah memberikan jawaban yang bisa dinegosiasikan.
 
-"Ini Blood Trial," kata Theron, berdiri di tepi lingkaran. "Ritual tertua di Heartland. Sebelum ada hukum, sebelum ada trah, ada darah — dan darah tidak pernah berbohong." Ia menatap Sorin. "Kau bilang kau tidak tahu siapa dirimu, anak. Baik. Darahmu akan memberitahu kita."
+"Ini Blood Trial," kata Theron, berdiri di tepi lingkaran. "Ritual tertua di Heartland. Sebelum ada hukum, sebelum ada trah, ada darah — dan darah tidak pernah berbohong." Ia menatap Sorin. "Kau bilang kau tidak tahu siapa dirimu, nak. Baik. Darahmu akan memberitahu kita."
 
 Sorin berdiri di tepi lingkaran, dan ia bisa merasakan mata-mata di sekelilingnya: penasaran, takut, menghitung. Maren berdiri di sisi aula, wajahnya tegang, dan ia menggeleng pelan — peringatan yang tidak bisa Sorin dengarkan, karena ia sudah berada di dalam lingkaran ini.
 
@@ -71,13 +71,13 @@ Sorin menatapnya dari dalam lingkaran, dan untuk sesaat mereka saling menatap di
 
 Theron melangkah ke dalam lingkaran, mengambil tangan Sorin, dan menutup sayatan itu dengan ibu jarinya. Sentuhan itu hangat, tapi Sorin bisa merasakan apa yang ada di baliknya: perhitungan. Perhitungan yang sudah berubah, yang sedang digambar ulang dengan cepat.
 
-"Kau tahu apa artinya ini, anak?" kata Theron, suaranya rendah, hanya untuk mereka berdua. "Ini artinya kau bukan siapa-siapa — dan kau adalah segalanya. Ini artinya kau adalah kunci yang selama dua ratus tahun dicari semua orang. Dan ini artinya..." Ia menatap Sorin. "Kau milikku sekarang."
+"Kau tahu apa artinya ini, nak?" kata Theron, suaranya rendah, hanya untuk mereka berdua. "Ini artinya kau bukan siapa-siapa — dan kau adalah segalanya. Ini artinya kau adalah kunci yang selama dua ratus tahun dicari semua orang. Dan ini artinya..." Ia menatap Sorin. "Kau milikku sekarang."
 
 "Aku bukan milik siapa pun," kata Sorin.
 
-Theron tertawa — pelan, hangat, dan menakutkan. "Semua orang bilang begitu, anak. Sampai mereka tahu harga dari apa yang mereka bawa." Ia melepaskan tangan Sorin. "Istirahatlah. Besok, kita akan bicara tentang apa artinya menjadi kunci."
+Theron tertawa — pelan, hangat, dan menakutkan. "Semua orang bilang begitu, nak. Sampai mereka tahu harga dari apa yang mereka bawa." Ia melepaskan tangan Sorin. "Istirahatlah. Besok, kita akan bicara tentang apa artinya menjadi kunci."
 
-Sorin berdiri di dalam lingkaran itu, merasakan sayatan di telapak tangannya berdenyut mengikuti detak jantungnya. "Aku tidak butuh istirahat," katanya. "Aku butuh jawaban." Theron tertawa lagi — tawa yang sama, yang membuat Sorin ingin menjauh. "Jawaban datang kepada mereka yang menunggu, anak. Dan kau — kau sudah menunggu lima belas tahun tanpa tahu. Beberapa malam lagi tidak akan mengubah apa pun."
+Sorin berdiri di dalam lingkaran itu, merasakan sayatan di telapak tangannya berdenyut mengikuti detak jantungnya. "Aku tidak butuh istirahat," katanya. "Aku butuh jawaban." Theron tertawa lagi — tawa yang sama, yang membuat Sorin ingin menjauh. "Jawaban datang kepada mereka yang menunggu, nak. Dan kau — kau sudah menunggu lima belas tahun tanpa tahu. Beberapa malam lagi tidak akan mengubah apa pun."
 
 Sorin berdiri di dalam lingkaran, darahnya kering di telapaknya, dan ia bisa merasakan mata-mata di sekelilingnya — ratusan mata, yang sekarang tahu namanya, yang sekarang tahu apa yang ia bawa.
 

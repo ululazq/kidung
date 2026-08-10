@@ -9,11 +9,11 @@ Bukan karena tangga-tangganya lebih mudah — the Long Stair masih the Long Stai
 
 Mereka naik melalui Fane of Embers, dan api yang tidak pernah padam itu — yang telah berkedip ketika mereka turun — kini menyala mantap, seperti jantung yang telah kembali ke iramanya. Verra berdiri di kuil itu, dan ketika ia melihat Sorin, ia tidak berkata apa-apa. Ia hanya menatapnya lama, lalu mengangguk — anggukan orang yang telah melihat banyak hal, yang tahu bahwa ada hal-hal yang tidak perlu diucapkan.
 
-"Api itu tahu," kata Verra akhirnya. "Ia tidak pernah padam selama seribu tahun, dan ia tidak tahu apa itu takut — sampai minggu lalu, ketika ia berkedip untuk pertama kalinya. Sekarang ia menyala lagi, mantap, seperti ia tidak pernah ragu. Apa pun yang kau lakukan di bawah, anak — api itu berterima kasih."
+"Api itu tahu," kata Verra akhirnya. "Ia tidak pernah padam selama seribu tahun, dan ia tidak tahu apa itu takut — sampai minggu lalu, ketika ia berkedip untuk pertama kalinya. Sekarang ia menyala lagi, mantap, seperti ia tidak pernah ragu. Apa pun yang kau lakukan di bawah, nak — api itu berterima kasih."
 
 "Aku tidak melakukannya sendirian," kata Sorin. "Ada tiga tangan di sampingku, dan satu orang yang membayar harga yang seharusnya kubayar sendiri."
 
-"Orang itu," kata Verra, "memilih untuk membayarnya. Itu bukan harga yang diambil darinya — itu pilihan. Dan pilihan, anak, adalah satu-satunya hal yang tidak bisa diambil siapa pun."
+"Orang itu," kata Verra, "memilih untuk membayarnya. Itu bukan harga yang diambil darinya — itu pilihan. Dan pilihan, nak, adalah satu-satunya hal yang tidak bisa diambil siapa pun."
 
 Ilka menemui mereka di pasar. "Kau kembali," katanya. "Dengan tiga tangan dan —" Ia berhenti, menatap Sorin. "Kau berbeda."
 

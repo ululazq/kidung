@@ -33,7 +33,7 @@ Sorin menatap penjaga itu — lelaki dengan ranting-ranting abu di lengannya, ya
 
 Sorin menatap mereka. "Perlindungan?"
 
-"Kau berharga, anak. Dan Lord Theron tidak akan kehilangan apa yang berharga." Penjaga itu menutup pintu, dan Sorin mendengar kunci berputar. Terkunci. Dari luar.
+"Kau berharga, nak. Dan Lord Theron tidak akan kehilangan apa yang berharga." Penjaga itu menutup pintu, dan Sorin mendengar kunci berputar. Terkunci. Dari luar.
 
 Ia berdiri di dekat jendela, menatap kota yang terbakar, dan untuk pertama kalinya dalam hidupnya, ia merasa seperti barang.
 
@@ -55,7 +55,7 @@ Maren datang ke kamarnya di sore hari — penjaga mengizinkannya, karena ia "pen
 
 "Aku sudah melihat," kata Sorin. "Dari jendela."
 
-"Belum. Kau belum melihat apa-apa." Maren menatapnya. "Perang ini — Bloodfall — bukan tentang kau, anak. Kau hanya alasan. Perang ini sudah berlangsung dua ratus tahun, sebelum kau lahir, sebelum ayahmu lahir, sebelum kakekmu lahir. Kau hanya... alasan baru untuk darah yang sudah lama mengalir."
+"Belum. Kau belum melihat apa-apa." Maren menatapnya. "Perang ini — Bloodfall — bukan tentang kau, nak. Kau hanya alasan. Perang ini sudah berlangsung dua ratus tahun, sebelum kau lahir, sebelum ayahmu lahir, sebelum kakekmu lahir. Kau hanya... alasan baru untuk darah yang sudah lama mengalir."
 
 Sorin menatap Maren, dan untuk sesaat kata-kata itu terasa seperti pukulan — bukan karena kejam, tapi karena benar. Ia ingin percaya bahwa ia penting, bahwa perang ini terjadi karena ia tiba, bahwa jika ia pergi, darah akan berhenti. Tapi Maren menatapnya dengan mata yang sudah melihat dua abad, dan Sorin tahu bahwa ia tidak bisa berbohong kepada mata seperti itu. "Kalau begitu," katanya pelan, "kenapa aku harus peduli? Kalau perang ini akan terus berjalan dengan atau tanpa aku—" "Karena kau satu-satunya yang bisa mengubah arahnya," potong Maren. "Bukan menghentikannya. Mengubah arahnya. Itu yang bisa dilakukan satu orang."
 
@@ -67,7 +67,7 @@ Sorin menatap Bloodpillar dari jendela. Di bawah kota, di bawah perang, di bawah
 
 "Bagaimana caranya aku turun?" tanyanya. "Kota ini terkunci. Gerbang dijaga. Perang di mana-mana."
 
-Maren tersenyum — senyum yang tua, yang penuh rahasia. "House Veyr tidak hanya menjaga segel, anak. Kami juga menjaga jalan ke sana." Ia menatap Sorin. "Ada lorong di bawah istana ini — lorong yang tidak diketahui siapa pun, yang dibangun oleh trahmu dua ratus tahun lalu, untuk berjaga-jaga. Kalau kau mau turun, lorong itu akan membawamu ke Bloodpillar."
+Maren tersenyum — senyum yang tua, yang penuh rahasia. "House Veyr tidak hanya menjaga segel, nak. Kami juga menjaga jalan ke sana." Ia menatap Sorin. "Ada lorong di bawah istana ini — lorong yang tidak diketahui siapa pun, yang dibangun oleh trahmu dua ratus tahun lalu, untuk berjaga-jaga. Kalau kau mau turun, lorong itu akan membawamu ke Bloodpillar."
 
 Sorin menatapnya, dan untuk sesaat ia membayangkan lorong itu: gelap, sempit, diukir di batu oleh tangan-tangan yang sudah dua abad mati. "Kenapa trahku membangun lorong?" tanyanya. "Untuk melarikan diri?" Maren menggeleng. "Untuk menjaga. Lorong itu tidak dibangun untuk keluar — ia dibangun untuk turun. Agar penjaga selalu punya jalan menuju segel, apa pun yang terjadi di atas. Agar pintu tidak pernah dibiarkan tanpa penjaga." Ia menatap Sorin. "Trahmu tidak membangun benteng. Mereka membangun jalan."
 

@@ -20,7 +20,7 @@ Hari-hari di kota: Ilka menjelaskan Vowmark — setiap kaul mengukir satu Mark, 
 
 ### Bab 4: The Pale Whisper Returns
 **Status**: selesai
-**Vowmaster Dain** (the Pale Vow) menemui Sorin di kota: "Kau berjalan ke bawah, anak. Kami tahu." Ia menjelaskan **the Rejoining** — the Sundering adalah luka, bukan segel; dunia yang terbagi mengurai; satu-satunya obat adalah menyatukan kembali. Dain menawarkan jalan — dan memperingatkan: the Order of the Deep Vow tidak akan membiarkan kunci turun sendirian. Verra mencium kontak ini; ketegangan.
+**Vowmaster Dain** (the Pale Vow) menemui Sorin di kota: "Kau berjalan ke bawah, nak. Kami tahu." Ia menjelaskan **the Rejoining** — the Sundering adalah luka, bukan segel; dunia yang terbagi mengurai; satu-satunya obat adalah menyatukan kembali. Dain menawarkan jalan — dan memperingatkan: the Order of the Deep Vow tidak akan membiarkan kunci turun sendirian. Verra mencium kontak ini; ketegangan.
 
 ### Bab 5: The Door of the Order
 **Status**: selesai
