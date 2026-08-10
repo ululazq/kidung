@@ -162,10 +162,23 @@ const otherGenres = genres.filter((g) => !popularGenres.includes(g))
                   </div>
                 )}
 
-                {/* Badge status di pojok thumbnail, bukan di samping judul. */}
-                <span class={`badge cover-badge ${novel.status === 'Complete' ? 'badge-complete' : 'badge-progress'}`}>
-                  <span class="badge-dot" aria-hidden="true"></span>
-                  {novel.status === 'Complete' ? 'Selesai' : novel.status}
+                {/* Ikon status di pojok thumbnail: centang = Selesai, jam = In Progress. */}
+                <span
+                  class={`cover-badge ${novel.status === 'Complete' ? 'cover-badge-complete' : 'cover-badge-progress'}`}
+                  role="img"
+                  aria-label={novel.status === 'Complete' ? 'Novel selesai' : 'Novel dalam proses'}
+                  data-tip={novel.status === 'Complete' ? 'Selesai' : 'Dalam proses'}
+                >
+                  {novel.status === 'Complete' ? (
+                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                      <path d="M20 6 9 17l-5-5" />
+                    </svg>
+                  ) : (
+                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                      <circle cx="12" cy="12" r="9" />
+                      <path d="M12 7v5l3 2" />
+                    </svg>
+                  )}
                 </span>
               </div>
 
@@ -457,16 +470,51 @@ const otherGenres = genres.filter((g) => !popularGenres.includes(g))
       color: var(--text-dim);
     }
 
-    /* Badge status menempel di pojok kanan-atas thumbnail. */
+    /* Ikon status di pojok kanan-atas cover: lingkaran kecil, tidak menutupi judul. */
     .cover-badge {
       position: absolute;
-      top: 0.5rem;
-      right: 0.5rem;
+      top: 0.35rem;
+      right: 0.35rem;
       z-index: 1;
-      background: var(--bg);
-      box-shadow: var(--shadow);
+      width: 22px;
+      height: 22px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 50%;
+      background: rgba(13, 17, 23, 0.85);
+      border: 1px solid rgba(255, 255, 255, 0.16);
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.35);
+      color: #c9a227; /* emas tetap di kedua tema */
+    }
+
+    /* Tooltip muncul di bawah ikon saat hover — tidak terpotong oleh overflow kartu. */
+    .cover-badge::after {
+      content: attr(data-tip);
+      position: absolute;
+      top: calc(100% + 6px);
+      right: 0;
+      background: var(--bg-elev);
+      border: 1px solid var(--border);
+      color: var(--text);
       font-size: 0.6875rem;
-      padding: 0.15rem 0.5rem;
+      font-weight: 500;
+      letter-spacing: 0.01em;
+      padding: 0.2rem 0.45rem;
+      border-radius: 6px;
+      white-space: nowrap;
+      opacity: 0;
+      pointer-events: none;
+      transform: translateY(-4px);
+      transition: opacity 150ms ease, transform 150ms ease;
+      z-index: 2;
+      box-shadow: var(--shadow);
+    }
+
+    .cover-badge:hover::after,
+    .cover-badge:focus-within::after {
+      opacity: 1;
+      transform: translateY(0);
     }
 
     .card-body {
