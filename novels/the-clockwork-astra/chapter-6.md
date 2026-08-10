@@ -53,19 +53,19 @@ Ia menyerang lagi, dan kali ini Edward tidak bisa menghindar. Lengan logam itu m
 
 Sebelum ia bisa bangun, Malakor berdiri di atasnya, dan untuk sesaat Edward melihat, di mata manusia yang tersisa itu, kilas sesuatu yang bukan kebencian: sesuatu yang lebih dekat ke kelelahan — kelelahan orang yang telah berdiri di depan pintu yang sama terlalu lama.
 
-"Kau ingin tahu sesuatu, Edward?" kata Malakor, suaranya lebih pelan. "Malam ledakan itu, aku berdiri di tempat yang sama dengan kau sekarang — di lantai, darah di mulut, menatap orang yang telah menghancurkanku. Guru kita. Alistair. Ia yang mengatur ledakan itu — bukan aku. Aku cuma yang menandatangani kertasnya."
+"Kau ingin tahu sesuatu, Edward?" kata Malakor, suaranya lebih pelan. "Malam ledakan itu, aku berdiri di tempat yang sama dengan kau sekarang — di lantai, darah di mulut, menatap orang yang telah menghancurkanku. Guru kita. Whitmore. Ia yang mengatur ledakan itu — bukan aku. Aku cuma yang menandatangani kertasnya."
 
-Edward menatapnya. "Alistair?"
+Edward menatapnya. "Whitmore?"
 
 "Ia tidak memberitahumu, tentu saja." Malakor tertawa pendek. "Ia selalu pandai memilih apa yang ia beritahukan kepada murid-muridnya. Ia mengatur ledakan itu untuk menghentikan proyek yang ia anggap terlalu jauh — proyek yang aku dan kau bangun bersama. Dan ia berhasil. Proyek itu mati. Yang tersisa hanya luka-luka kami."
 
 "Kenapa kau menceritakan ini?" tanya Edward. "Kenapa kau tidak — "
 
-"Karena kau berhak tahu siapa yang kau percayai." Malakor menatapnya. "Kau mengira aku musuhmu, Edward. Dan kau tidak sepenuhnya salah. Tapi Alistair bukan temanmu — ia cuma teman yang lebih pandai memilih waktu untuk mengkhianatimu. Aku pilih mengkhianatimu sejak awal. Ia memilih menunggumu sampai kau terlalu dalam untuk keluar."
+"Karena kau berhak tahu siapa yang kau percayai." Malakor menatapnya. "Kau mengira aku musuhmu, Edward. Dan kau tidak sepenuhnya salah. Tapi Whitmore bukan temanmu — ia cuma teman yang lebih pandai memilih waktu untuk mengkhianatimu. Aku pilih mengkhianatimu sejak awal. Ia memilih menunggumu sampai kau terlalu dalam untuk keluar."
 
 "Kau bohong."
 
-"Aku tidak perlu berbohong," kata Malakor. "Kau akan melihatnya sendiri. Kalau kau selamat malam ini, kau akan kembali ke bengkel itu, dan kau akan bertanya kepada Alistair satu pertanyaan: di mana cetak biru proyek yang meledak tiga tahun lalu? Dan kau akan melihat matanya — dan kau akan tahu bahwa ia tidak pernah berhenti berbohong kepadamu sejak hari pertama."
+"Aku tidak perlu berbohong," kata Malakor. "Kau akan melihatnya sendiri. Kalau kau selamat malam ini, kau akan kembali ke bengkel itu, dan kau akan bertanya kepada Whitmore satu pertanyaan: di mana cetak biru proyek yang meledak tiga tahun lalu? Dan kau akan melihat matanya — dan kau akan tahu bahwa ia tidak pernah berhenti berbohong kepadamu sejak hari pertama."
 
 "Tiga," kata Malakor, menghitung dengan tenang. "Tiga Strike dalam lima menit. Kau sudah kehilangan — " ia menatap tangan Edward yang membiru, " — sekitar seperempat jari-jarimu. Aku tidak perlu melawanmu, Edward. Aku hanya perlu menunggumu memakani dirimu sendiri. Itu yang selalu terjadi pada wadah yang tidak mengerti tempatnya."
 
@@ -101,7 +101,7 @@ Malakor berhenti. Untuk pertama kalinya malam itu, wajahnya — setengah wajah m
 
 Untuk sesaat, keheningan. Lalu Malakor tertawa — dan tawa itu berbeda dari sebelumnya: pendek, pahit, dan sangat manusiawi.
 
-"Kau lebih mirip gurumu daripada yang kau kira, Edward," katanya. "Alistair juga selalu lebih suka menghancurkan daripada menyerah. Itu sebabnya aku membiarkannya hidup — supaya ia bisa melihat apa yang terjadi pada orang yang mencoba melawan tanpa cukup kekuatan."
+"Kau lebih mirip gurumu daripada yang kau kira, Edward," katanya. "Whitmore juga selalu lebih suka menghancurkan daripada menyerah. Itu sebabnya aku membiarkannya hidup — supaya ia bisa melihat apa yang terjadi pada orang yang mencoba melawan tanpa cukup kekuatan."
 
 Ia mengangkat tangan logamnya. Di pergelangannya, kabel-kabel baru tumbuh dari persendian — lebih banyak, lebih tebal — dan di dada zirahnya, inti kuarsa menyala merah, seperti jantung yang baru saja dipukul dan memutuskan untuk melawan balik.
 
@@ -111,15 +111,15 @@ Dia menyerang.
 
 ---
 
-Edward tidak ingat banyak tentang tiga menit berikutnya. Ia ingat kabel-kabel itu melilit lengannya yang membiru, dingin dan ketat seperti tali yang hidup; ia ingat diangkat dari lantai dan dihantamkan ke dinding; ia ingat kata-kata Malakor tentang Alistair — kata-kata yang tidak bisa ia buang dari kepalanya, yang menempel seperti serpihan kaca yang tidak bisa ia cabut; ia ingat Clara berteriak namanya dari arah pintu yang terbuka — pintu yang akhirnya terbuka, mesin sandinya bekerja, cahaya koridor masuk — dan ia ingat keputusan yang ia buat di antara dua detak jantung: menggunakan Strike kelima untuk melepaskan diri dari kabel-kabel itu, atau menggunakan Strike kelima untuk melemparkan Clara keluar dari ruangan ini.
+Edward tidak ingat banyak tentang tiga menit berikutnya. Ia ingat kabel-kabel itu melilit lengannya yang membiru, dingin dan ketat seperti tali yang hidup; ia ingat diangkat dari lantai dan dihantamkan ke dinding; ia ingat kata-kata Malakor tentang Whitmore — kata-kata yang tidak bisa ia buang dari kepalanya, yang menempel seperti serpihan kaca yang tidak bisa ia cabut; ia ingat Clara berteriak namanya dari arah pintu yang terbuka — pintu yang akhirnya terbuka, mesin sandinya bekerja, cahaya koridor masuk — dan ia ingat keputusan yang ia buat di antara dua detak jantung: menggunakan Strike kelima untuk melepaskan diri dari kabel-kabel itu, atau menggunakan Strike kelima untuk melemparkan Clara keluar dari ruangan ini.
 
-Ia tidak ingat apakah ia mempercayai kata-kata Malakor tentang Alistair. Ia ingat bahwa ia tidak bisa memutuskan — dan bahwa di tengah ketidakmampuan memutuskan itu, ia memilih Clara, karena Clara adalah satu-satunya hal yang tidak ambigu di ruangan ini.
+Ia tidak ingat apakah ia mempercayai kata-kata Malakor tentang Whitmore. Ia ingat bahwa ia tidak bisa memutuskan — dan bahwa di tengah ketidakmampuan memutuskan itu, ia memilih Clara, karena Clara adalah satu-satunya hal yang tidak ambigu di ruangan ini.
 
 Ia memilih Clara.
 
 Strike kelima melesat bukan ke Malakor, tetapi ke arah pintu — gelombang kejut yang menyapu Clara dari lantai dan melemparkannya melewati ambang pintu, ke koridor di luar, sementara di belakangnya pintu itu mulai tertutup dengan lambat, seperti orang yang menyesal telah terbuka.
 
-"Lari!" teriak Edward. "Bawa kuarsa itu ke Alistair! Jangan — "
+"Lari!" teriak Edward. "Bawa kuarsa itu ke Whitmore! Jangan — "
 
 Pintu itu tertutup. Dan di dalam laboratorium, dengan kabel-kabel yang melilit lengannya dan darah yang mulai membeku di ujung jari-jarinya, Edward Vance berdiri sendirian menghadapi orang yang telah menghancurkannya tiga tahun lalu — dan untuk pertama kalinya, ia tidak lagi berpikir tentang cara melarikan diri.
 

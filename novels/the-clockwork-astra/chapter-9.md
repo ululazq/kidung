@@ -5,9 +5,9 @@ chapter: 9
 
 Menara Big Ben lebih dalam dari yang Edward bayangkan.
 
-Mereka masuk melalui ruang mesin di lantai dasar, di balik sebuah panel yang hanya bisa dibuka oleh Alistair — panel yang ia kenali dari dua dekade yang lalu, dari masa ketika ia masih dipercaya Ministry untuk memperbaiki mesin-mesinnya. Tangga di balik panel itu menurun, dan menurun, dan menurun, sampai udara menjadi panas dan berbau logam yang dipanaskan, dan suara Jam Besar — yang di lantai atas hanya terdengar sebagai denyut — menjadi sesuatu yang bisa dirasakan, melalui dinding, melalui lantai, melalui tulang.
+Mereka masuk melalui ruang mesin di lantai dasar, di balik sebuah panel yang hanya bisa dibuka oleh Whitmore — panel yang ia kenali dari dua dekade yang lalu, dari masa ketika ia masih dipercaya Ministry untuk memperbaiki mesin-mesinnya. Tangga di balik panel itu menurun, dan menurun, dan menurun, sampai udara menjadi panas dan berbau logam yang dipanaskan, dan suara Jam Besar — yang di lantai atas hanya terdengar sebagai denyut — menjadi sesuatu yang bisa dirasakan, melalui dinding, melalui lantai, melalui tulang.
 
-"Di bawah kita," kata Alistair, dan suaranya terdengar aneh di ruang yang bergema itu, "ada tiga ratus dua puluh orang."
+"Di bawah kita," kata Whitmore, dan suaranya terdengar aneh di ruang yang bergema itu, "ada tiga ratus dua puluh orang."
 
 Mereka turun lebih dalam. Di kedalaman tertentu, lampu-lampu darurat mulai menyala sendiri — bukan listrik, tetapi sesuatu yang lebih tua: tabung kuarsa yang menggantung di dinding, menyala dengan cahaya emas yang sama dengan kuarsa di sarung lengan Edward. Edward menatapnya, dan untuk sesaat ia merasa seolah sedang berjalan di dalam tubuhnya sendiri — di dalam mesin yang telah lama mengenalnya.
 
@@ -75,7 +75,7 @@ Malakor menatapnya lama. Dan kemudian, untuk pertama kalinya, senyum di wajahnya
 
 Edward menatapnya. "Kau mengatur ledakan itu — dan kau menulis surat untukku?"
 
-"Aku tahu Alistair akan mengatur ledakan itu," kata Malakor. "Aku tahu persis kapan dan di mana. Proyek itu akan membunuh ribuan orang — aku tahu itu, sama seperti Alistair tahu itu. Alistair menghancurkan proyek itu dengan ledakannya. Aku — " ia menatap tangan logamnya, " — membiarkannya terjadi. Dan setelahnya, aku yang memastikan proyek itu tidak pernah bisa dibangun lagi." Ia menatap Edward. "Tapi aku juga membutuhkan orang untuk membangun yang lain. Orang yang mengerti harga. Orang yang — " ia menatap Edward, " — yang bisa menanggung beban yang tidak bisa kutanggung sendiri."
+"Aku tahu Whitmore akan mengatur ledakan itu," kata Malakor. "Aku tahu persis kapan dan di mana. Proyek itu akan membunuh ribuan orang — aku tahu itu, sama seperti Whitmore tahu itu. Whitmore menghancurkan proyek itu dengan ledakannya. Aku — " ia menatap tangan logamnya, " — membiarkannya terjadi. Dan setelahnya, aku yang memastikan proyek itu tidak pernah bisa dibangun lagi." Ia menatap Edward. "Tapi aku juga membutuhkan orang untuk membangun yang lain. Orang yang mengerti harga. Orang yang — " ia menatap Edward, " — yang bisa menanggung beban yang tidak bisa kutanggung sendiri."
 
 "Jadi kau menghancurkan kakiku," kata Edward pelan, "untuk membuatku menjadi — apa? Muridmu?"
 
@@ -89,7 +89,7 @@ Edward menatapnya. "Kau mengatur ledakan itu — dan kau menulis surat untukku?"
 
 Edward tidak ingat kapan ia mulai menyerang.
 
-Ia ingat lengan logam Malakor datang dari kiri, dan Horologium menyala, dan waktu melipat di antara mereka; ia ingat Strike — satu, dua, tiga — dan dingin yang naik dari lengannya ke bahunya, melalui Regulator yang berdenyut, sampai ia tidak bisa lagi merasakan jari-jarinya; ia ingat Clara yang berteriak dari balik barisan tempat tidur, dan Alistair yang mendorong kursi rodanya menuju inti kuarsa itu, dengan alat penyolder di tangannya, seperti orang yang telah menunggu dua puluh tahun untuk menghancurkan sesuatu.
+Ia ingat lengan logam Malakor datang dari kiri, dan Horologium menyala, dan waktu melipat di antara mereka; ia ingat Strike — satu, dua, tiga — dan dingin yang naik dari lengannya ke bahunya, melalui Regulator yang berdenyut, sampai ia tidak bisa lagi merasakan jari-jarinya; ia ingat Clara yang berteriak dari balik barisan tempat tidur, dan Whitmore yang mendorong kursi rodanya menuju inti kuarsa itu, dengan alat penyolder di tangannya, seperti orang yang telah menunggu dua puluh tahun untuk menghancurkan sesuatu.
 
 Dan ia ingat momen ketika ia berhenti menyerang.
 

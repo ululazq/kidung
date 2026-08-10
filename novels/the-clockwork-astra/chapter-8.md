@@ -7,7 +7,7 @@ Minggu pagi, Edward membuka bengkelnya untuk pertama kalinya sejak malam seranga
 
 Pintunya masih miring di engselnya, bekas dobrakan prajurit Ministry masih terlihat di lantai, dan kaca-kaca yang pecah telah disapu oleh seseorang — Clara, pasti, yang datang sebelum subuh — tetapi meja kerjanya masih utuh, dan di atasnya, jam-jam yang ia perbaiki untuk para pelanggan dermaga masih berdiri dalam barisan, seperti pasien yang menunggu giliran.
 
-Edward duduk di kursi kerjanya dan menatap jam-jam itu. Ia tidak tahu mengapa ia datang ke sini. Ia seharusnya berada di bengkel Alistair, memikirkan rencana — memikirkan malam Jam Besar paling lapar, memikirkan pilihan yang harus ia buat. Tetapi ketika ia bangun pagi itu, dengan lengan kanan yang mati dan bahu yang berdenyut di tempat pin-pin Regulator menancap, satu-satunya tempat yang ingin ia tuju adalah tempat ini: bengkel tempat ia telah menghabiskan tiga tahun belajar menjadi orang lain.
+Edward duduk di kursi kerjanya dan menatap jam-jam itu. Ia tidak tahu mengapa ia datang ke sini. Ia seharusnya berada di bengkel Whitmore, memikirkan rencana — memikirkan malam Jam Besar paling lapar, memikirkan pilihan yang harus ia buat. Tetapi ketika ia bangun pagi itu, dengan lengan kanan yang mati dan bahu yang berdenyut di tempat pin-pin Regulator menancap, satu-satunya tempat yang ingin ia tuju adalah tempat ini: bengkel tempat ia telah menghabiskan tiga tahun belajar menjadi orang lain.
 
 Ia mengambil arloji juru masak kapal itu — arloji yang retak pegasnya, arloji yang ia perbaiki malam peti tembaga itu datang — dan membukanya. Retakan itu masih di tempat yang sama. Ia belum sempat memperbaikinya.
 
@@ -31,23 +31,23 @@ Ia berdiri di ambang pintu bengkel, mantel hujan digantung di lengannya, mata se
 
 Clara tidak mengejar topik itu. Ia meletakkan sebuah peta di atas meja — peta kota Atas, yang digambar tangan, dengan beberapa titik ditandai tinta merah. Edward mengenali beberapa titik itu: Depo Material, Menara Big Ben, kantor pusat Ministry.
 
-"Alistair sudah bicara dengan kenalannya di kota Atas," kata Clara. "Tiga orang yang pernah bekerja di bawah Malakor dan berhasil keluar. Mereka semua bilang hal yang sama: ada sesuatu di dasar Menara Big Ben — sesuatu yang lebih besar dari Jam Besar. Mereka menyebutnya Foundry."
+"Whitmore sudah bicara dengan kenalannya di kota Atas," kata Clara. "Tiga orang yang pernah bekerja di bawah Malakor dan berhasil keluar. Mereka semua bilang hal yang sama: ada sesuatu di dasar Menara Big Ben — sesuatu yang lebih besar dari Jam Besar. Mereka menyebutnya Foundry."
 
 "Foundry?"
 
-"Tempat penempaan." Clara menunjuk sebuah titik di peta, di dasar menara. "Alistair bilang Jam Besar bukan mesin. Ia adalah — " ia mencari kata, " — ia adalah pengumpul. Ia menarik daya dari orang-orang yang terdaftar, dan mengirimkannya ke bawah, ke Foundry, tempat Ministry merakit Godframe. Setiap Godframe yang mereka bangun, mereka bangun dari sesuatu yang telah mereka ambil dari orang-orang itu."
+"Tempat penempaan." Clara menunjuk sebuah titik di peta, di dasar menara. "Whitmore bilang Jam Besar bukan mesin. Ia adalah — " ia mencari kata, " — ia adalah pengumpul. Ia menarik daya dari orang-orang yang terdaftar, dan mengirimkannya ke bawah, ke Foundry, tempat Ministry merakit Godframe. Setiap Godframe yang mereka bangun, mereka bangun dari sesuatu yang telah mereka ambil dari orang-orang itu."
 
 Edward menatap titik itu. "Tiga ratus dua puluh orang."
 
-"Dan lebih banyak lagi, kalau kita tidak melakukan apa-apa." Clara menutup peta itu. "Malam Jam Besar paling lapar — Alistair bilang itu malam ini."
+"Dan lebih banyak lagi, kalau kita tidak melakukan apa-apa." Clara menutup peta itu. "Malam Jam Besar paling lapar — Whitmore bilang itu malam ini."
 
 "Malam ini?"
 
-"Kau tidak mendengarnya?" Clara menatapnya. "Lonceng Big Ben tidak berbunyi sama sekali sejak subuh. Untuk pertama kalinya dalam dua ratus tahun, lonceng itu diam. Alistair bilang itu tandanya: Jam Besar sedang menarik seluruh dayanya. Ia sedang mempersiapkan diri untuk sesuatu yang besar. Dan malam ini — " ia menatap lengan Edward, " — ia akan paling lapar."
+"Kau tidak mendengarnya?" Clara menatapnya. "Lonceng Big Ben tidak berbunyi sama sekali sejak subuh. Untuk pertama kalinya dalam dua ratus tahun, lonceng itu diam. Whitmore bilang itu tandanya: Jam Besar sedang menarik seluruh dayanya. Ia sedang mempersiapkan diri untuk sesuatu yang besar. Dan malam ini — " ia menatap lengan Edward, " — ia akan paling lapar."
 
 Edward menatap lengan kanannya. Di bawah sarung kuningan itu, es itu masih di sana — diam, menunggu, dengan Regulator yang berdenyut pelan menahannya di tempatnya.
 
-"Alistair bilang aku punya pilihan," kata Edward. "Melepas Horologium malam ini, ketika ia paling lapar — atau memakainya sekali lagi, pada saat ia paling kuat, untuk sesuatu yang lebih besar."
+"Whitmore bilang aku punya pilihan," kata Edward. "Melepas Horologium malam ini, ketika ia paling lapar — atau memakainya sekali lagi, pada saat ia paling kuat, untuk sesuatu yang lebih besar."
 
 "Dan kau sudah memilih?" tanya Clara.
 
@@ -65,7 +65,7 @@ Ia menutup jam itu.
 
 Clara menatapnya lama. "Kau tahu apa artinya itu, kan? Kalau kau memakainya malam ini, pada saat ia paling kuat —"
 
-"Es itu akan naik," kata Edward. "Mungkin sampai bahu. Mungkin sampai dada. Alistair bilang satu Strike penuh pada puncak kelaparannya sama dengan — " ia berhenti, " — sama dengan lima, enam Strike biasa."
+"Es itu akan naik," kata Edward. "Mungkin sampai bahu. Mungkin sampai dada. Whitmore bilang satu Strike penuh pada puncak kelaparannya sama dengan — " ia berhenti, " — sama dengan lima, enam Strike biasa."
 
 "Dan jantungmu?"
 
@@ -111,11 +111,11 @@ Edward menatap inisial itu lama. Lalu ia menutup jam itu, dan berkata, pelan, ke
 
 Ia menyimpan jam itu di saku mantelnya, mengetuknya sekali — seperti orang mengetuk pintu rumah sebelum pergi — dan keluar dari bengkel itu.
 
-Lalu ia menutup pintu bengkelnya, menguncinya, dan berjalan menuju Menara Big Ben — ditemani Clara, dan di belakang mereka, mendorong kursi rodanya sendiri dalam keheningan, Master Alistair.
+Lalu ia menutup pintu bengkelnya, menguncinya, dan berjalan menuju Menara Big Ben — ditemani Clara, dan di belakang mereka, mendorong kursi rodanya sendiri dalam keheningan, Master Whitmore.
 
-"Kau tidak harus ikut," kata Edward kepada Alistair.
+"Kau tidak harus ikut," kata Edward kepada Whitmore.
 
-"Kau benar," kata Alistair. "Aku tidak harus. Tapi aku sudah menghabiskan dua puluh tahun mengatur ledakan, menyembunyikan cetak biru, dan berbohong kepada orang-orang yang kupercaya. Malam ini, aku ingin melakukan satu hal yang benar sampai selesai."
+"Kau benar," kata Whitmore. "Aku tidak harus. Tapi aku sudah menghabiskan dua puluh tahun mengatur ledakan, menyembunyikan cetak biru, dan berbohong kepada orang-orang yang kupercaya. Malam ini, aku ingin melakukan satu hal yang benar sampai selesai."
 
 "Malam ini," kata Edward, "kita semua melakukan satu hal yang benar sampai selesai."
 
@@ -133,4 +133,4 @@ Clara menatapnya lama. Lalu ia berkata, dengan suara yang sangat pelan: "Kalau b
 
 "Kalau kau yang menulisnya," kata Edward, dan untuk pertama kalinya malam itu, ia tersenyum — senyum yang tidak dipaksa, senyum yang datang dari tempat yang tidak ia tahu masih ada di dalam dirinya, "aku yakin ceritanya akan punya akhir yang bagus."
 
-Ia berbalik dan masuk ke dalam menara. Di belakangnya, Clara dan Alistair mengikuti, dan di bawah mereka semua, jauh di dalam dasar menara, Jam Besar berputar — sekali, dua kali, tiga kali — seperti jantung yang telah menunggu sepanjang hidupnya untuk mulai berdetak penuh.
+Ia berbalik dan masuk ke dalam menara. Di belakangnya, Clara dan Whitmore mengikuti, dan di bawah mereka semua, jauh di dalam dasar menara, Jam Besar berputar — sekali, dua kali, tiga kali — seperti jantung yang telah menunggu sepanjang hidupnya untuk mulai berdetak penuh.

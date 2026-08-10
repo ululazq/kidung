@@ -12,7 +12,7 @@ Edward Vance, pengerajin jam di Aether-London Bawah, menerima peti tembaga beris
 |---|---|---|
 | Kejadian pemicu | 1 | Peti tembaga tiba; Edward mengenali sigil yang seharusnya tidak ada di dunia |
 | Ikatan | 2 | Astra menyatu saat serangan Obsidian; Strike pertama; harga pertama |
-| Awal Babak II | 4 | Alistair mendiagnosis; rencana ke Big Ben; Clara mengungkap adiknya hilang |
+| Awal Babak II | 4 | Whitmore mendiagnosis; rencana ke Big Ben; Clara mengungkap adiknya hilang |
 | Titik tengah | 6 | Twist: peti dikirim Malakor; Edward = wadah; ia dulu insinyur proyek Godframe |
 | Titik terendah | 7 | Kalah; tangan mati; Regulator penuh dipasang |
 | Klimaks | 9 | Foundry: Edward memilih melepas Astra di puncak, bukan membunuh |
@@ -44,11 +44,11 @@ Edward Vance, pengerajin jam di Aether-London Bawah, menerima peti tembaga beris
 |---|---|---|---|---|
 | 1 | Malam hujan di dermaga; Edward bekerja di bengkel; kurir mengantar peti; sigil; alarm internal; keputusan membuka peti | ED (NPD, SRD) | 1.800–2.000 | selesai |
 | 2 | Peti dibuka di bengkel; serangan Obsidian; logam cair menyatu; Strike pertama; kabur | PD (RDD) | 1.900–2.100 | selesai |
-| 3 | Kejaran terowongan; Clara meretas katup; tiba di bengkel Alistair | PD (NPD) | 1.800–2.000 | selesai |
-| 4 | Diagnosis Alistair; harga; Regulator darurat; rencana Big Ben; Clara: adikku hilang | ED (GCD) | 1.900–2.100 | selesai |
+| 3 | Kejaran terowongan; Clara meretas katup; tiba di bengkel Whitmore | PD (NPD) | 1.800–2.000 | selesai |
+| 4 | Diagnosis Whitmore; harga; Regulator darurat; rencana Big Ben; Clara: adikku hilang | ED (GCD) | 1.900–2.100 | selesai |
 | 5 | Infiltrasi lantai 50; kristal kuarsa + serum; alarm; Malakor muncul | PD (RDD) | 1.900–2.100 | selesai |
 | 6 | Malakor mengungkap: peti dikirimnya; Vessel Principle; Edward = wadah; pertarungan, Edward kalah/terlempar | ED (GCD, TDD) | 2.000–2.200 | selesai |
-| 7 | Selamat oleh Clara & Alistair; tangan mati; Regulator penuh dipasang | ED (GCD) | 1.800–2.000 | selesai |
-| 8 | Pulih; Alistair: rahasia Melepas di Puncak; jam saku ayah; keputusan | ED (GCD) | 1.900–2.100 | selesai |
+| 7 | Selamat oleh Clara & Whitmore; tangan mati; Regulator penuh dipasang | ED (GCD) | 1.800–2.000 | selesai |
+| 8 | Pulih; Whitmore: rahasia Melepas di Puncak; jam saku ayah; keputusan | ED (GCD) | 1.900–2.100 | selesai |
 | 9 | Foundry: adik Clara ditemukan hidup; konfrontasi Malakor; Edward melepas Astra di puncak | PD (RDD) | 2.000–2.200 | selesai |
 | 10 | Fajar; menara disegel; bengkel jadi rumah aman; tanpa relik; pesanan baru | ED (GCD, RDD) | 1.800–2.000 | selesai |

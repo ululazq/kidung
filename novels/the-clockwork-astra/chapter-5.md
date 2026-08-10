@@ -51,7 +51,7 @@ Edward berdiri lama di depan tabung kosong itu. Clara datang dan berdiri di samp
 
 Edward berjalan mendekat. Di dalam tabung titanium bertekanan, terapung sebuah kristal kuarsa sebesar kepalan tangan, menyala emas dengan cahaya yang sama persis dengan kuarsa di sarung lengannya. Di tabung sebelahnya, sebuah wadah kecil berisi cairan bening yang berkilau seperti merkuri.
 
-"Aether-Anti," kata Clara, membaca label yang terukir di dudukan tabung. "Penstabil untuk pemakai relik. Alistair bilang itu bisa memperlambat pembekuan — bukan menyembuhkannya."
+"Aether-Anti," kata Clara, membaca label yang terukir di dudukan tabung. "Penstabil untuk pemakai relik. Whitmore bilang itu bisa memperlambat pembekuan — bukan menyembuhkannya."
 
 Edward membuka tutup tabung itu dengan kode yang diberikan Clara, dan uap nitrogen dingin menyembur keluar, membasahi wajahnya. Ia mengamankan kristal itu ke dalam kantong kain di mantelnya, lalu mengambil wadah serum itu — dan berhenti.
 
@@ -91,7 +91,7 @@ Edward membeku. Ia belum pernah mendengar suara itu sebelumnya — dan tetap saj
 
 "Aku adalah orang yang mengirim peti itu kepadamu," kata suara itu. "Aku adalah orang yang memilihmu. Dan aku adalah orang yang akan datang menemuimu sekarang, muka ke muka, untuk pertama kalinya dalam tiga tahun."
 
-Di ujung laboratorium, di balik tabung-tabung kaca, sebuah pintu yang tidak pernah Edward lihat sebelumnya terbuka — pintu yang tersembunyi di balik panel dinding, yang tidak ada di cetak biru yang diberikan Alistair — dan dari dalam kegelapan, dengan langkah yang berat dan teratur seperti mesin, sebuah sosok berjalan masuk.
+Di ujung laboratorium, di balik tabung-tabung kaca, sebuah pintu yang tidak pernah Edward lihat sebelumnya terbuka — pintu yang tersembunyi di balik panel dinding, yang tidak ada di cetak biru yang diberikan Whitmore — dan dari dalam kegelapan, dengan langkah yang berat dan teratur seperti mesin, sebuah sosok berjalan masuk.
 
 Tinggi, jauh lebih tinggi dari manusia biasa. Setengah tubuhnya adalah logam: lengan kanan yang bersendi, kaki yang berdetak seperti piston, dan wajah — setengah wajahnya masih manusia, dengan mata yang lelah dan garis-garis tua, dan setengah lainnya adalah kuningan dan kuarsa, dengan mata yang menyala merah.
 
@@ -119,7 +119,7 @@ Clara bergerak — satu langkah ke samping, tangan ke dalam tas selempangnya, ke
 
 Clara membeku. "Di mana dia?"
 
-"Di tempat yang sama dengan semua orang yang pernah kau tulis," kata Lord Malakor. "Di tempat yang membuat kota ini tetap berjalan. Kau akan melihatnya — kalau kau dan Edward bersikap baik." Ia melepaskan pergelangan Clara, dan menatap Edward lagi. "Kau datang ke sini untuk mengambil kuarsa dan serum. Itu berarti Alistair masih hidup — dan masih menyimpan rahasia yang tidak seharusnya ia simpan. Baik. Aku tidak butuh Alistair. Aku butuh kau."
+"Di tempat yang sama dengan semua orang yang pernah kau tulis," kata Lord Malakor. "Di tempat yang membuat kota ini tetap berjalan. Kau akan melihatnya — kalau kau dan Edward bersikap baik." Ia melepaskan pergelangan Clara, dan menatap Edward lagi. "Kau datang ke sini untuk mengambil kuarsa dan serum. Itu berarti Whitmore masih hidup — dan masih menyimpan rahasia yang tidak seharusnya ia simpan. Baik. Aku tidak butuh Whitmore. Aku butuh kau."
 
 "Kenapa kau butuh aku?" tanya Edward. "Kau bilang aku wadah. Untuk apa?"
 

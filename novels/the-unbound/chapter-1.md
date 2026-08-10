@@ -47,7 +47,7 @@ Sorin melihat semua itu dari atas, dan untuk pertama kalinya dalam tiga tahun, i
 
 Ia menggoyangkan kepala dan mengencangkan simpul. Pertanyaan itu tidak punya jawaban, dan ia sudah belajar bahwa di Highport, pertanyaan tanpa jawaban hanya membuatmu dianggap lebih kosong.
 
-Ia tidak ingat banyak tentang panti Lightermen — hanya bau garam, deretan kasur, dan suara Mak Darmi, perempuan tua yang menjaga mereka, yang selalu berkata: "Kosong itu bukan dosa, nak. Kosong itu cuma belum diisi. Tapi jangan berharap ada yang mengisimu — di Highport, orang sibuk mengisi diri sendiri." Ia ingat hari ia dibawa ke the Gullsong: umur dua belas, tangan terlalu kecil untuk tali, Marren menatapnya lama sebelum berkata, "Kosong, ya?" dan kemudian, tanpa menunggu jawaban, "Bagus. Kosong tidak punya siapa-siapa yang akan mencarimu kalau kau jatuh. Itu membuatmu berhati-hati."
+Ia tidak ingat banyak tentang panti Lightermen — hanya bau garam, deretan kasur, dan suara Darmi, perempuan tua yang menjaga mereka, yang selalu berkata: "Kosong itu bukan dosa, nak. Kosong itu cuma belum diisi. Tapi jangan berharap ada yang mengisimu — di Highport, orang sibuk mengisi diri sendiri." Ia ingat hari ia dibawa ke the Gullsong: umur dua belas, tangan terlalu kecil untuk tali, Marren menatapnya lama sebelum berkata, "Kosong, ya?" dan kemudian, tanpa menunggu jawaban, "Bagus. Kosong tidak punya siapa-siapa yang akan mencarimu kalau kau jatuh. Itu membuatmu berhati-hati."
 
 Sorin tidak pernah yakin apakah itu pujian atau kutukan. Ia hanya tahu bahwa ia belajar berhati-hati — belajar bahwa tali lebih jujur daripada orang, bahwa simpul yang benar tidak pernah berbohong, bahwa jika ia jatuh, tidak ada yang akan menariknya naik. Tiga tahun kemudian, ia masih belum jatuh.
 

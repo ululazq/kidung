@@ -23,13 +23,13 @@ Aether-London adalah kota yang hidup di atas roda gigi raksasa. Di dermaga Thame
 
 **Astra Horologium** memberi Edward kendali atas akselerasi kinetik dan waktu lokal — kemampuan membelah peluru uap, melambatkan dunia, dan melepaskan gelombang kejut (**Horologium Strike**). Harganya nyata: setiap kali digunakan, relik itu menyedot panas dari dadanya dan membekukan pembuluh darahnya, sedikit demi sedikit. Relik itu tidak bisa dilepas selama pemakainya hidup.
 
-Di balik kedok perusahaan energi Kerajaan, **Obsidian Ministry** di bawah **Lord Malakor** mengekstraksi vitalitas dan ingatan pekerja terdaftar untuk memberi daya pada **Jam Besar** — mesin raksasa di dasar Menara Big Ben — dan merakit zirah **Steam-Godframe** di Foundry. Bersama jurnalis **Clara Ravenscroft** dan penempa tua **Master Alistair**, Edward harus masuk ke menara itu — sambil membayar harga dari kekuatan yang tidak pernah ia minta, dan memutuskan apakah ia akan menjadi wadah bagi mesin, atau wadah bagi sesuatu yang lain.
+Di balik kedok perusahaan energi Kerajaan, **Obsidian Ministry** di bawah **Lord Malakor** mengekstraksi vitalitas dan ingatan pekerja terdaftar untuk memberi daya pada **Jam Besar** — mesin raksasa di dasar Menara Big Ben — dan merakit zirah **Steam-Godframe** di Foundry. Bersama jurnalis **Clara Ravenscroft** dan penempa tua **Master Whitmore**, Edward harus masuk ke menara itu — sambil membayar harga dari kekuatan yang tidak pernah ia minta, dan memutuskan apakah ia akan menjadi wadah bagi mesin, atau wadah bagi sesuatu yang lain.
 
 ## Karakter
 
 - **Edward Vance (26)**: pengerajin jam & mantan insinyur proyek "pendorong pneumatik" Kerajaan. Kaki kanan hancur dalam ledakan tiga tahun lalu. Memperbaiki jam dengan tangan kiri. Tidak pernah menaikkan harga.
 - **Clara Ravenscroft (24)**: jurnalis investigatif & peretas mesin sandi. Mencari adiknya, Tomas, yang hilang dalam program relokasi pekerja.
-- **Master Alistair**: penempa sirkuit Sangha Network generasi terakhir, kursi roda mekanis. Menyembunyikan cetak biru Aether Regulator dan rahasia yang lebih besar.
+- **Master Whitmore**: penempa sirkuit Sangha Network generasi terakhir, kursi roda mekanis. Menyembunyikan cetak biru Aether Regulator dan rahasia yang lebih besar.
 - **Lord Malakor**: pemimpin Obsidian Ministry, setengah wajah manusia setengah logam. Nama aslinya Dorian Hale — kolega lama Edward yang pernah menandatangani proyek yang meledak.
 - **Tomas**: adik Clara, rekan kerja Edward di laboratorium. Terdaftar relokasi tiga tahun lalu.
 

@@ -61,62 +61,62 @@ Mereka berjalan lagi dalam keheningan. Di belakang mereka, di ujung terowongan y
 
 ---
 
-Bengkel Master Alistair berada di ujung terowongan, di bawah jembatan rel yang tidak lagi dilewati kereta. Pintunya adalah papan besi yang tertutup karat, tanpa papan nama, tanpa jendela — dan ketika Edward mengetuknya dengan pola tertentu — tiga kali, jeda, dua kali — papan itu terbuka dari dalam dengan desis uap.
+Bengkel Master Whitmore berada di ujung terowongan, di bawah jembatan rel yang tidak lagi dilewati kereta. Pintunya adalah papan besi yang tertutup karat, tanpa papan nama, tanpa jendela — dan ketika Edward mengetuknya dengan pola tertentu — tiga kali, jeda, dua kali — papan itu terbuka dari dalam dengan desis uap.
 
-Master Alistair berusia lima puluh delapan tahun, tetapi ia tampak lebih tua, dan kursi roda mekanisnya tampak lebih baru darinya. Rambutnya putih dan jarang, tangannya gemetar dengan getaran halus yang tidak pernah berhenti — getaran orang yang telah memegang alat penyolder terlalu lama dan terlalu sering. Ia melihat Edward berdiri di ambang pintu, lalu melihat lengan yang terbungkus mantel, dan wajahnya berubah — bukan kaget, bukan marah. Sesuatu yang lebih tua dari keduanya: pengakuan, seperti orang yang melihat sebuah mimpi buruk yang telah ia tunggu-tunggu kedatangannya.
+Master Whitmore berusia lima puluh delapan tahun, tetapi ia tampak lebih tua, dan kursi roda mekanisnya tampak lebih baru darinya. Rambutnya putih dan jarang, tangannya gemetar dengan getaran halus yang tidak pernah berhenti — getaran orang yang telah memegang alat penyolder terlalu lama dan terlalu sering. Ia melihat Edward berdiri di ambang pintu, lalu melihat lengan yang terbungkus mantel, dan wajahnya berubah — bukan kaget, bukan marah. Sesuatu yang lebih tua dari keduanya: pengakuan, seperti orang yang melihat sebuah mimpi buruk yang telah ia tunggu-tunggu kedatangannya.
 
-"Masuk," kata Master Alistair. "Dan tutup pintunya. Ada yang menyusul kalian — tidak, jangan menoleh, sudah lewat. Masuk."
+"Masuk," kata Master Whitmore. "Dan tutup pintunya. Ada yang menyusul kalian — tidak, jangan menoleh, sudah lewat. Masuk."
 
 Di dalam, bengkel itu adalah kebalikan dari bengkel Edward: hangat, teratur, dan penuh dengan hal-hal yang tidak pernah dipajang orang di etalase. Di rak-rak, di antara alat tempa dan tabung kuarsa, tergantung cetak biru yang digulung rapat — cetak biru yang Edward tahu, dari satu garis yang terlihat di ujung gulungan, adalah cetak biru untuk sesuatu yang tidak boleh ada.
 
-"Kau tahu apa yang kau bawa pulang," kata Master Alistair, bukan pertanyaan. Ia mendorong kursi rodanya mendekati Edward. "Buka mantelmu. Biar kulihat."
+"Kau tahu apa yang kau bawa pulang," kata Master Whitmore, bukan pertanyaan. Ia mendorong kursi rodanya mendekati Edward. "Buka mantelmu. Biar kulihat."
 
 Edward membuka mantelnya. Sarung lengan kuningan itu menyala redup dalam cahaya bengkel, kuarsa di ukirannya berdenyut pelan, dan biru pucat di ujung jari Edward terlihat jelas sekarang — biru yang telah naik dari ujung jari ke buku jari pertama, seperti air pasang yang sabar.
 
-Master Alistair menatap sarung itu lama. Lalu ia menatap Edward, dan ada sesuatu di matanya yang tidak pernah Edward lihat di mata orang dewasa sebelum itu: rasa takut yang sangat tua, yang telah lama tinggal dan tidak berniat pergi.
+Master Whitmore menatap sarung itu lama. Lalu ia menatap Edward, dan ada sesuatu di matanya yang tidak pernah Edward lihat di mata orang dewasa sebelum itu: rasa takut yang sangat tua, yang telah lama tinggal dan tidak berniat pergi.
 
 "Astra Horologium," katanya, menyebut nama itu dengan suara yang pelan dan hati-hati, seperti orang menyebut nama orang mati. "Roda yang Tidak Berhenti. Relik terakhir Sangha Network — dan aku tidak pernah mengira aku akan melihatnya dipakai lagi dalam hidupku."
 
 "Kau mengenalnya?" tanya Edward.
 
-"Setengah hidupku mencarinya," kata Master Alistair. "Setengah lagi — " ia menatap lengan Edward, " — mencoba melupakannya. Duduklah, Edward Vance. Kita punya banyak hal untuk dibicarakan, dan tidak banyak waktu. Jam Besar semakin lapar — dan aku bisa mendengarnya dari sini, sama seperti kau."
+"Setengah hidupku mencarinya," kata Master Whitmore. "Setengah lagi — " ia menatap lengan Edward, " — mencoba melupakannya. Duduklah, Edward Vance. Kita punya banyak hal untuk dibicarakan, dan tidak banyak waktu. Jam Besar semakin lapar — dan aku bisa mendengarnya dari sini, sama seperti kau."
 
 Edward duduk. Clara duduk di sebelahnya, buku catatan sudah terbuka, pensil sudah siap — dan untuk pertama kalinya malam itu, di dalam bengkel yang hangat di bawah jembatan rel yang mati, tiga orang yang masing-masing tahu terlalu banyak duduk mengelilingi sebuah sarung lengan kuningan yang berdenyut seperti jantung, dan mulai membicarakan harga yang harus dibayar untuk kekuatan yang tidak diminta siapa pun.
 
-Master Alistair tidak langsung bicara. Ia mendorong kursi rodanya mengelilingi Edward, mengamati sarung itu dari setiap sudut, kadang berhenti untuk menggerakkan jarinya — jari yang gemetar, tetapi ketika menyentuh kuningan itu menjadi tenang dengan cara yang tidak wajar — di sepanjang ukiran roda gigi, seperti orang membaca huruf Braille.
+Master Whitmore tidak langsung bicara. Ia mendorong kursi rodanya mengelilingi Edward, mengamati sarung itu dari setiap sudut, kadang berhenti untuk menggerakkan jarinya — jari yang gemetar, tetapi ketika menyentuh kuningan itu menjadi tenang dengan cara yang tidak wajar — di sepanjang ukiran roda gigi, seperti orang membaca huruf Braille.
 
 "Kapan Strike pertamamu?" tanyanya tanpa menoleh.
 
 "Tadi malam," kata Edward. "Aku tidak sengaja mengaktifkannya."
 
-"Tidak ada yang tidak sengaja dengan Horologium." Alistair menekan satu titik di dekat siku sarung itu, dan kuarsa itu berdenyut lebih terang sepersekian detik. "Ia tidak menunggu kau menekan tombol. Ia menunggu kau berhenti ragu. Setiap kali kau benar-benar yakin, kau mengaktifkannya — apakah kau menginginkannya atau tidak. Itu yang membuatnya berbahaya, dan itu yang membuatnya berguna."
+"Tidak ada yang tidak sengaja dengan Horologium." Whitmore menekan satu titik di dekat siku sarung itu, dan kuarsa itu berdenyut lebih terang sepersekian detik. "Ia tidak menunggu kau menekan tombol. Ia menunggu kau berhenti ragu. Setiap kali kau benar-benar yakin, kau mengaktifkannya — apakah kau menginginkannya atau tidak. Itu yang membuatnya berbahaya, dan itu yang membuatnya berguna."
 
 "Dan itu yang membuatnya menghabisiku." Edward mengangkat tangan kanannya. "Tadi malam, hanya satu kali, dan jari-jariku sudah membiru. Kalau aku terus memakainya —"
 
-"Kau akan membeku dari ujung jari sampai jantung," kata Alistair datar. "Bukan perlahan. Terhitung. Setiap Strike menarik panas dari dadamu untuk mendinginkan inti sigilnya — itulah cara ia bekerja, sama seperti mesin uap bekerja karena ada yang membakar. Beda cuma satu: mesin uap membakar batu bara. Horologium membakar kau."
+"Kau akan membeku dari ujung jari sampai jantung," kata Whitmore datar. "Bukan perlahan. Terhitung. Setiap Strike menarik panas dari dadamu untuk mendinginkan inti sigilnya — itulah cara ia bekerja, sama seperti mesin uap bekerja karena ada yang membakar. Beda cuma satu: mesin uap membakar batu bara. Horologium membakar kau."
 
 Clara menulis cepat, lalu mengangkat kepala. "Kalau begitu, bukankah jawabannya sederhana? Jangan dipakai."
 
-"Kalau tidak dipakai, ia tetap lapar," kata Alistair. "Relik Sangha tidak pernah berhenti berdenyut. Ia menyedot pelan — bukan dari pemakainya, kalau tidak dipakai, tapi dari sekelilingnya: dari orang-orang di dekatnya, dari waktu itu sendiri. Kau perhatikan jam-jam di sekitarmu berdetak lebih cepat?"
+"Kalau tidak dipakai, ia tetap lapar," kata Whitmore. "Relik Sangha tidak pernah berhenti berdenyut. Ia menyedot pelan — bukan dari pemakainya, kalau tidak dipakai, tapi dari sekelilingnya: dari orang-orang di dekatnya, dari waktu itu sendiri. Kau perhatikan jam-jam di sekitarmu berdetak lebih cepat?"
 
 Edward teringat lonceng Big Ben, jam saku ayahnya, seluruh kota yang berdetak dua kali lebih cepat. "Kau bilang itu ulahku?"
 
-"Ulahnya," Alistair menunjuk sarung itu. "Dan kalau ia terus lapar tanpa dipakai, kota ini akan semakin cepat — sampai semua jam berdetak sia-sia dan orang-orang tua bangun di tengah malam tanpa tahu kenapa. Itu sebabnya Ministry mencarinya. Mereka tidak ingin menghentikannya, Edward. Mereka ingin mengendalikannya. Dan kau — kau adalah cara mereka."
+"Ulahnya," Whitmore menunjuk sarung itu. "Dan kalau ia terus lapar tanpa dipakai, kota ini akan semakin cepat — sampai semua jam berdetak sia-sia dan orang-orang tua bangun di tengah malam tanpa tahu kenapa. Itu sebabnya Ministry mencarinya. Mereka tidak ingin menghentikannya, Edward. Mereka ingin mengendalikannya. Dan kau — kau adalah cara mereka."
 
 "Aku?"
 
-"Kau pemakainya." Alistair menatapnya dengan mata yang tenang dan tua. "Kalau mereka bisa mengendalikan pemakainya, mereka bisa mengendalikan reliknya. Dan kalau mereka bisa mengendalikan reliknya, mereka bisa memberi daya pada apa pun — termasuk Jam Besar yang semakin lapar itu."
+"Kau pemakainya." Whitmore menatapnya dengan mata yang tenang dan tua. "Kalau mereka bisa mengendalikan pemakainya, mereka bisa mengendalikan reliknya. Dan kalau mereka bisa mengendalikan reliknya, mereka bisa memberi daya pada apa pun — termasuk Jam Besar yang semakin lapar itu."
 
 Edward diam lama. Di luar, di bawah jembatan rel yang mati, hujan mulai turun lagi, dan suaranya di atap bengkel terdengar seperti jari-jari yang mengetuk meja dengan tidak sabar.
 
-"Ada satu hal lagi," kata Alistair pelan. "Yang paling penting. Dan aku tidak tahu apakah kau siap mendengarnya."
+"Ada satu hal lagi," kata Whitmore pelan. "Yang paling penting. Dan aku tidak tahu apakah kau siap mendengarnya."
 
 "Bicaralah."
 
-"Horologium tidak bisa dilepas selama pemakainya hidup." Alistair menatap lengan Edward. "Ia sudah memilihmu. Satu-satunya cara ia melepaskanmu adalah dengan mengisimu sampai habis — atau kau menemuinya di puncak kelaparannya, saat ia terlalu sibuk makan untuk memegangmu. Tapi itu cerita lain, untuk waktu yang lain."
+"Horologium tidak bisa dilepas selama pemakainya hidup." Whitmore menatap lengan Edward. "Ia sudah memilihmu. Satu-satunya cara ia melepaskanmu adalah dengan mengisimu sampai habis — atau kau menemuinya di puncak kelaparannya, saat ia terlalu sibuk makan untuk memegangmu. Tapi itu cerita lain, untuk waktu yang lain."
 
 "Kalau begitu," kata Edward, "kita punya waktu sampai ia mulai benar-benar makan."
 
-"Kita punya waktu sampai jam Besar berhenti bermain-main," kata Alistair. "Dan dari bunyinya — " ia menoleh ke arah dinding, ke arah kota Atas yang tidak terlihat, " — ia sudah hampir selesai bermain."
+"Kita punya waktu sampai jam Besar berhenti bermain-main," kata Whitmore. "Dan dari bunyinya — " ia menoleh ke arah dinding, ke arah kota Atas yang tidak terlihat, " — ia sudah hampir selesai bermain."
 
 Di luar, di dalam uap yang turun, bayangan rendah yang telah mengikuti mereka sejak mulut terowongan berdiri diam di bawah jembatan rel, menatap bengkel itu dengan mata yang tidak berkedip, mendengarkan — dan kemudian, dengan langkah yang teratur seperti mesin, ia berbalik dan berjalan kembali ke arah kota Atas, untuk melaporkan apa yang telah ia dengar.

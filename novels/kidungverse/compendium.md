@@ -117,7 +117,8 @@ Ciri khas atmosfer: hujan gerimis, uap bertekanan tinggi, bau oli/karat tembaga/
 | **Ki Demang Brata** vs **Kapten Brata** | kidung-bayang-batavia × cinder-relic | Nama gema villain; karakter berbeda |
 | **Arisya Sola** (protagonis) vs **Arisya Vael** (pendamping) | shadow-compiler × aetherium-vow | Nama sama di kota yang sama (Bawah-Batavia); pembeda = marga, yang berlabuh diegetik: "anak Sola" (ejekan Vance, shadow bab 8) dan "Arisya Vael" (siaran buronan Varek, aetherium bab 2–3). Bagian dari kolam nama paralel aetherium×shadow — jangan disatukan |
 | **Maya** (host Surpanakha, sekutu utama) vs **Maya Kirana** (kriptografer, pendukung) | the-host × the-aegis-of-aether | Gema nama; pembeda = marga penuh "Maya Kirana" (aegis bab 1–16, dipanggil dengan nama lengkap) vs "Maya" saja (the-host, host Surpanakha). Dua semesta berbeda (Jakarta modern vs Bawah-Batavia) — jangan disatukan |
-| **Master Alistair** (aegis) vs **Empu Bramantyo** (sang-pembawa-pelita) | aegis-of-aether × sang-pembawa-pelita | Master Alistair unik aegis dan gugur di bab 8; sang-pembawa-pelita semula memakai nama itu (kebocoran) dan di-rename menjadi Empu Bramantyo. Bukan gema — nama asli harus tetap unik per novel |
+| **Master Alistair** (aegis) vs **Empu Bramantyo** (sang-pembawa-pelita) vs **Master Whitmore** (the-clockwork-astra) | aegis-of-aether × sang-pembawa-pelita × clockwork-astra | Master Alistair unik aegis dan gugur di bab 8; sang-pembawa-pelita semula memakai nama itu (kebocoran) dan di-rename menjadi Empu Bramantyo; the-clockwork-astra (kembar template Aether-London) juga memakainya dan di-rename menjadi **Master Whitmore** (2026-08-10). Bukan gema — nama asli harus tetap unik per novel |
+| **Lord Malakor** (= Dorian Hale; clockwork-astra) vs **Baron Malakor** (aegis-of-aether) vs **Malcor** (sang-pemangku-fajar) | clockwork-astra × aegis-of-aether × sang-pemangku-fajar | Tiga antagonis Kidungverse bernama hampir sama di dunia paralel berbeda (Aether-London, Bawah-Batavia, tanah sembilan kerajaan) — gema nama, karakter berbeda; gelar (Lord/Baron) dan identitas (Dorian Hale) membedakan. Dicatat, tidak disatukan |
 | **Pak Marto** (pks) vs **Pak Raga** (sang-pembawa-pelita) | pustaka-kabut-senja × sang-pembawa-pelita | Pak Marto unik pks dan gugur di bab 8; sang-pembawa-pelita semula memakai nama itu (kebocoran) dan di-rename menjadi Pak Raga. Bukan gema — nama asli harus tetap unik per novel |
 | **Rendra Kael** vs **Master Kaelen** | shadow-compiler × aetherium-vow | Gema lembut (akar "Kael") dari kolam nama paralel yang sama; karakter beda peran (pengawal vs mentor) |
 | **Reza Kirana** vs **Tara Kirana** | aetherium-vow × sang-pembawa-pelita | Gema marga "Kirana" dari kolam nama paralel; karakter beda (protagonis vs peretas pendukung) |
@@ -208,7 +209,7 @@ Register sapaan mengikuti **setting** novel, bukan dipukul rata per universe —
 
 **Auren (fantasi barat):** `Tuan` (sir), `Nyonya` (wanita tua/nyonya), `Ayah` (ayah), `Yang Mulia` (bangsawan). Tidak ada `Kak`/`Bang`/`Dik`/`Mas`.
 
-**Skyroot (nusantara kapal/arsipelago):** `nak` (sapaan akrab), `Bu`/`Pak`, `Ayah`, `Kapten` (kapal), `Mak` (gelar wanita tua: `Mak Darmi`). Tidak ada istilah Jawa/Betawi lain.
+**Skyroot (nusantara kapal/arsipelago):** `nak` (sapaan akrab), `Bu`/`Pak`, `Ayah`, `Kapten` (kapal), `Mak` (gelar wanita tua: `Mak Rinda` — kapten the Slow Water; catatan: `Darmi` Cloudminers the-unbound **tanpa** Mak, diseragamkan 2026-08-10). Tidak ada istilah Jawa/Betawi lain.
 
 ---
 
