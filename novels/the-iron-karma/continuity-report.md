@@ -12,7 +12,7 @@ Build hijau; semua bab dalam band 1.500–2.500 (1.497–1.956 — dua bab yang 
 
 **1. Sinkron outline:** bab 10–15 ditandai "selesai" (sebelumnya kosong; semua bab sebenarnya sudah ditulis dan dalam band).
 
-**2. Bible diperpanjang ke bab 15:** timeline Hari 1 (ch1–8), Hari 2 (ch9–11), Hari 3 (ch12–14), +3 minggu (ch15); karakter baru (Jodi, Ibu Bagas); tempat baru (Markas Utama JagadBumi Sektor 3, Reaktor Godframe Sektor 1, Stasiun Baru Midnight Runner); demonstrasi relik ch10–14; keputusan kanon.
+**2. Bible diperpanjang ke bab 15:** timeline Hari 1 (ch1–8), Hari 2 (ch9–11), Hari 3 (ch12–14), +3 minggu (ch15); karakter baru (Bimo, Ibu Bagas); tempat baru (Markas Utama JagadBumi Sektor 3, Reaktor Godframe Sektor 1, Stasiun Baru Midnight Runner); demonstrasi relik ch10–14; keputusan kanon.
 
 **3. Audit total bab 1–15 + perbaikan:**
 - **Typo**: "tersenum" → "tersenyum" (5×: ch9, ch14, ch15×3); "membingakkan" → "membingungkan" (ch5).
@@ -21,6 +21,6 @@ Build hijau; semua bab dalam band 1.500–2.500 (1.497–1.956 — dua bab yang 
 - **Timeline**: ch11 "guncangan hantaman Vane tadi malam" → "barusan" (pertarungan ch10–11 berlangsung pada malam yang sama; "tadi malam" keliru). Referensi "semalam" lain (ch5–6, ch11:24, ch13) diverifikasi merujuk kejadian malam yang benar.
 - **Nol baris verbatim (≥40 karakter)** terhadap semua novel lain.
 
-**4. Nama terverifikasi:** Jodi (kurir muda) dan Ibu Bagas tidak bentrok lintas novel; entitas unik iron-karma (Astra Besi, Regulator Tembaga Sejati, JagadBumi, Vane) sudah tercatat di compendium sejak audit sebelumnya.
+**4. Nama terverifikasi:** **Bimo** (kurir muda — semula "Jodi", di-rename 2026-08-10 karena bentrok persis dengan Jodi murid pertama stasiun the-aegis-of-aether, bab 15) dan Ibu Bagas tidak bentrok lintas novel; entitas unik iron-karma (Astra Besi, Regulator Tembaga Sejati, JagadBumi, Vane) sudah tercatat di compendium sejak audit sebelumnya.
 
 **5. Timeline konsisten:** Hari 1 = ch1–8 (satu malam-malam panjang, 01:15–22:30); Hari 2 = ch9 (dini hari) + ch10–11 (malam purnama, infiltrasi & duel basemen); Hari 3 = ch12 (fajar, 2 jam setelah dokumen tersebar) + ch13 (pagi, 2 jam setelah lolos) + ch14 (siang–senja, penyerbuan Reaktor Godframe); +3 minggu = ch15. Rantai "semalam" (ch14:92 → unggah dokumen ch10) konsisten karena ch14 jatuh pada hari yang sama dengan ch13.

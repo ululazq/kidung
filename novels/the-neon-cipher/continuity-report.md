@@ -9,7 +9,7 @@ Sepuluh bab diperiksa: nama kanon, rantai timeline Kamis→Senin, sistem Cipher 
 
 ## Konsistensi terkonfirmasi
 
-- **Nama kanon**: Ren Kaelen, Kira, Master Kenzo, Director Vane (= Daichi Vane), Hana Kaelen (ibu Ren), Apex Corporation, Syndicate Vane, Sangha Network, Neo-Tokyo, Shinjuku Bawah, Menara Apex, Sektor 9, Toko Kenzo, Cloud Memori, Sumber, Astra Cipher, Aether Regulator, Aetheric Godframe, Serelium, Memori Matang, Vessel Principle. Nol drift.
+- **Nama kanon**: Ren Kaelen, Kira, Master Kenzo, Director Vane (= Daichi Vane), Hana Kaelen (ibu Ren), Apex Corporation, Syndicate Vane, Sangha Network, Neo-Tokyo, Shinjuku Bawah, Menara Apex, Sektor 9, Toko Kenzo, Cloud Memori, Sumber, Astra Cipher, Astra Regulator, Aetheric Godframe, Serelium, Memori Matang, Prinsip Matang. Nol drift.
 - **Sistem Cipher**: Spark/Signal Cut/Iron Reflection; harga = satu ingatan per Spark penuh, dimulai dari yang paling lama; erosi permanen (bukan terlupakan — terhapus); tidak bisa dilepas selama hidup; Regulator menyerap ±70%; **Melepas di Puncak** (bab 8, saat modul paling lapar) → bab 9 Ren melepas alih-alih membiarkan modul mengambil. Nol pelanggaran.
 - **Rantai setup→payoff — semua tuntas**: penyangga pergelangan kaki (bab 1 → bab 10, berhenti berjalan dengan cara yang sama); helm HUD sisi mati (bab 1 → bab 5 menyelamatkan dari deteksi); buku kecil daftar ingatan (bab 2 → bab 9 kunci Cloud Memori — "yang tertulis bisa diambil kembali"); file curian Kira (bab 3 → bab 6 daftar kurir); "memori yang tidak boleh mati" (bab 4 → bab 9 memori ibu Kenzo); iklan Serelium (bab 5 → bab 6 penanda pemanenan); motif mawar (bab 7 → bab 8 tanda tangan ibu Ren); gantungan kucing (bab 8 → bab 9–10, ingatan kucing kembali); "modul mengambil hal paling penting" (bab 8 → bab 9, buku kecil = senjata).
 - **Siapa tahu apa**: Ren kurir yang dipilih (Vane bab 6, Kenzo bab 8); drive dikirim Vane (bab 6) — lalu misteri "siapa pengirim drive mawar" (bab 7–8) dijawab konsisten: bukan Kenzo, modul hilang dari persembunyian 3 hari sebelum drive tiba — disisakan sebagai ketegangan, bukan kontradiksi; modul = wadah dipanen (bab 6); cara melepas (Kenzo bab 8).
@@ -29,6 +29,6 @@ Sepuluh bab diperiksa: nama kanon, rantai timeline Kamis→Senin, sistem Cipher 
 
 ## Catatan lintas novel
 
-- **Sister novel the-clockwork-astra**: struktur kembar dengan mekanik berbeda (erosi ingatan vs pembekuan). Nama "Sangha Network", "Vessel Principle", "Melepas di Puncak", "Aether Regulator" dipakai identik — konsisten kanon.
+- **Sister novel the-clockwork-astra**: struktur kembar dengan mekanik berbeda (erosi ingatan vs pembekuan). Nama "Sangha Network", "Prinsip Matang", "Melepas di Puncak", "Astra Regulator" dipakai identik — konsisten kanon.
 - **Nama gema**: Ren **Kaelen** (novel ini) vs Ren **Vael** (sang-penyimpan-bilah) — dua protagonis Kidungverse bernama Ren; dicatat sebagai gema, tidak disatukan. Vane (Director) vs Mira Veyn (sang-pembawa-angin) — gema tambahan.
 - **Serelium/Lupa Corp**: "tiket antrean" Lupa Corp dipinjam gods-in-jars → kidung-tanah-karam; konsisten (Kaidah compendium #7 — pinjaman faksi lintas novel hanya dengan alasan kanon).

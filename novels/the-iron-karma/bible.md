@@ -14,7 +14,7 @@ Ejaan baku. Semua nama proper di bab mana pun harus ada di sini.
 | Pak Seno | mekanik & penempa veteran | 55 tahun. Pemilik bengkel di pinggiran rel Stasiun 13, mantan anggota Penempa Sangha. |
 | Komandan Vane | antagonis, pimpinan operasional JagadBumi | 40-an tahun. Berzirah exoskeleton berat buatan Lupa Corp. |
 | Dimas | rekan kurir Midnight Runner | 24 tahun. Selalu menggunakan radio komunikasi genggam. |
-| Jodi | kurir muda Midnight Runner | 18 tahun. Murid penerus pertama di stasiun baru (bab 15). |
+| Bimo | kurir muda Midnight Runner | 18 tahun. Murid penerus pertama di stasiun baru (bab 15). |
 | Ibu Bagas | ibu protagonis | Sembuh dari sakitnya di bab 15; tinggal dekat Stasiun 13. |
 
 ### Tempat
@@ -94,4 +94,4 @@ Ejaan baku. Semua nama proper di bab mana pun harus ada di sini.
 | 12 | Fajar Hari 3 (2 jam setelah dokumen tersebar) | Bengkel Pak Seno terbakar; Pak Seno gugur | Bagas, Dimas, Pak Seno, Komandan Vane |
 | 13 | Pagi Hari 3 (2 jam setelah lolos) | Terowongan tua Sektor 1 | Bagas, Dimas |
 | 14 | Siang-senja Hari 3 | Reaktor Godframe bawah tanah Sektor 1 | Bagas, Dimas, Komandan Vane, warga |
-| 15 | +3 minggu | Stasiun baru Midnight Runner | Bagas, Dimas, Jodi, Ibu Bagas, warga |
+| 15 | +3 minggu | Stasiun baru Midnight Runner | Bagas, Dimas, Bimo, Ibu Bagas, warga |

@@ -107,7 +107,7 @@ Ren menoleh. Modul di lengannya berdenyut — sekali, dua kali — seperti jantu
 
 Sebelum subuh, Kenzo memasang sebuah alat kecil di bahu kanan Ren — modul kuarsa seukuran kuku jari, dengan tiga pin tembaga yang menembus kulit, yang membuat Ren menggigit bibirnya sendiri ketika dipasang.
 
-"Aether Regulator," kata Kenzo, sambil mengencangkan pin terakhir. "Tidak menyembuhkan. Ia menyerap sebagian erosi sebelum mencapai sinapsis — sekitar tujuh puluh persen. Kau masih akan kehilangan ingatan, tetapi lebih pelan, dan kau akan punya lebih banyak waktu untuk menemukan jawabanmu."
+"Astra Regulator," kata Kenzo, sambil mengencangkan pin terakhir. "Tidak menyembuhkan. Ia menyerap sebagian erosi sebelum mencapai sinapsis — sekitar tujuh puluh persen. Kau masih akan kehilangan ingatan, tetapi lebih pelan, dan kau akan punya lebih banyak waktu untuk menemukan jawabanmu."
 
 "Berapa banyak waktu?" tanya Ren.
 

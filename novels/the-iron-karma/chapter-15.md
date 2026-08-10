@@ -43,13 +43,13 @@ Dimas mengoperasikan tablet taktis di tangannya, memperbarui aplikasi ziplock ku
 
 "Sistem jaringan komunikasi Midnight Runner versi baru resmi aktif, Gas!" seru Dimas seraya mengacungkan jempolnya. "Seluruh kurir di lima sektor Jakarta udah terhubung dalam jaringan aman! Aplikasi ini bakal memantau keselamatan setiap kurir di jalanan!"
 
-Bagas melangkah mendekati sekumpulan kurir muda yang sedang memeriksa modul transmisi motor mereka. Salah satu kurir muda, seorang pemuda delapan belas tahun bernama Jodi, menatap Bagas dengan tatapan kagum dan segan.
+Bagas melangkah mendekati sekumpulan kurir muda yang sedang memeriksa modul transmisi motor mereka. Salah satu kurir muda, seorang pemuda delapan belas tahun bernama Bimo, menatap Bagas dengan tatapan kagum dan segan.
 
-"Bang Bagas..." bisik Jodi ragu-ragu seraya memegang stang motornya. "Apakah kami yang dulu cuma kurir kroco ini benar-benar bisa jadi bagian dari penempa perlindungan kota?"
+"Bang Bagas..." bisik Bimo ragu-ragu seraya memegang stang motornya. "Apakah kami yang dulu cuma kurir kroco ini benar-benar bisa jadi bagian dari penempa perlindungan kota?"
 
-Bagas tersenyum hangat, menepuk bahu Jodi dengan tangan kirinya. "Keberanian tidak diukur dari seberapa canggih alat yang kau pakai, Jodi. Keberanian diukur dari kesediaanmu pasang badan melindungi kawan dan wargamu. Selama kau memegang teguh kejujuran dan rasa kemanusiaan, kau adalah penempa sejati di stasiun ini. Kita semua punya peran menjaga kedamaian kota ini."
+Bagas tersenyum hangat, menepuk bahu Bimo dengan tangan kirinya. "Keberanian tidak diukur dari seberapa canggih alat yang kau pakai, Bimo. Keberanian diukur dari kesediaanmu pasang badan melindungi kawan dan wargamu. Selama kau memegang teguh kejujuran dan rasa kemanusiaan, kau adalah penempa sejati di stasiun ini. Kita semua punya peran menjaga kedamaian kota ini."
 
-Jodi mengangguk mantap dengan mata berbinar bangga. "Siap, Bang Bagas! Kami siap menjaga Kota Tua!"
+Bimo mengangguk mantap dengan mata berbinar bangga. "Siap, Bang Bagas! Kami siap menjaga Kota Tua!"
 
 ---
 

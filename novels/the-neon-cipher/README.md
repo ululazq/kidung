@@ -37,6 +37,6 @@ Bersama Kira, peretas yang mencuri file keluar dari Apex, dan Kenzo, penempa tua
 
 ## Sistem: Astra Cipher
 
-Modul segel Sangha yang "memilih" pemakainya. Setiap Spark penuh mengikis satu ingatan — dimulai dari sinapsis masa kecil yang paling rapuh. Ingatan yang diambil tidak pernah benar-benar hilang: ia dipindahkan ke Cloud Memori Apex, ditimbang, dan dijual per gram. Modul tidak bisa dilepas selama pemakainya hidup; satu-satunya jalan keluar adalah *Melepas di Puncak*, pada malam ketika modul paling lapar dan paling lemah. Aether Regulator (modul kuarsa di bahu) menyerap sebagian erosi — tidak menyembuhkan, hanya memperlambat.
+Modul segel Sangha yang "memilih" pemakainya. Setiap Spark penuh mengikis satu ingatan — dimulai dari sinapsis masa kecil yang paling rapuh. Ingatan yang diambil tidak pernah benar-benar hilang: ia dipindahkan ke Cloud Memori Apex, ditimbang, dan dijual per gram. Modul tidak bisa dilepas selama pemakainya hidup; satu-satunya jalan keluar adalah *Melepas di Puncak*, pada malam ketika modul paling lapar dan paling lemah. Astra Regulator (modul kuarsa di bahu) menyerap sebagian erosi — tidak menyembuhkan, hanya memperlambat.
 
 Versi lengkap beserta batas-batasnya ada di `bible.md`.

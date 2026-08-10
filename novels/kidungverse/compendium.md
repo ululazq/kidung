@@ -40,7 +40,7 @@ Ciri khas atmosfer: hujan gerimis, uap bertekanan tinggi, bau oli/karat tembaga/
 | **Regulator Tembaga Sejati** | Modul tembaga peredam kinetik Bagas di bahu kanan (penyalur energi ke Astra Besi) | Unik (iron-karma; gema nama dengan Regulator Kuningan Sejati copper-relic) |
 | **Bilah Resonansi** | Relik pedang kuningan Rian Vance (pemotongan + Circuit Pulse); kunci menara perisai Bawah-Batavia | Unik (resonance-blade) |
 | **Astra Tempa Bayangan** | Relik sarung tangan perunggu Galang Pradipta (Shadow Blade + Shadow Shield + Shadow Pulse); tiga lapisan sirkuit | Unik (shadow-forger) |
-| **Awalan "Aether-" lain** | Aether-Horologium, Aether-D3, Aether-London | Bersama sebagai pola penamaan (clockwork-astra, iron-karma) |
+| **Awalan "Aether-" lain** | Astra Horologium, Aether-D3, Aether-London | Bersama sebagai pola penamaan (clockwork-astra, iron-karma) |
 
 **Kaidah:** kata **Aether** dan nama **Empu Aether** adalah warisan bersama — boleh muncul di novel mana pun. Relik spesifik (Vow, Cinder, Aegis, Sirkuit Bayangan) adalah milik masing-masing novel dan tidak boleh berpindah.
 
@@ -56,6 +56,8 @@ Ciri khas atmosfer: hujan gerimis, uap bertekanan tinggi, bau oli/karat tembaga/
 | **Iron-Godframe** | Zirah raksasa Kapten Brata | Unik (cinder-relic) |
 | **Steam-Colossus** | Zirah uap prajurit Konsorsium Kunci | Unik (aetherium-vow) |
 | **Heavy-Godframe** | Model reaktor zirah berat | Unik (aegis-of-aether) |
+| **Steam-Godframe** | Zirah raksasa berbahan vitalitas manusia; dipakai Lord Malakor | Unik (clockwork-astra) |
+| **Aetheric Godframe** | Kerangka zirah bertenaga ingatan panen Apex Corporation | Unik (neon-cipher) |
 | **Boiler-Godframe** | Zirah berat bermotor pneumatik Lupa Corp | Unik (sang-pembawa-pelita) |
 | **Copper-Godframe** | Zirah berat Iron Coven | Unik (copper-relic) |
 | **Sonic-Godframe** | Zirah berat Concord Syndicate | Unik (resonance-blade) |
@@ -73,6 +75,9 @@ Ciri khas atmosfer: hujan gerimis, uap bertekanan tinggi, bau oli/karat tembaga/
 |---|---|---|
 | **Konsorsium Lupa Corp / Lupa Corp** | Megakorporasi Bawah-Batavia yang mengklaim dan memperdagangkan memori | Bersama (9 novel: shadow-compiler, gods-in-jars, kidung-tanah-karam, pegadaian-bunga, dan lainnya) |
 | **Konsorsium Kunci / Benteng Kunci** | Korporasi pemburu relik aetherium; dipimpin Komandan Varek | Unik (aetherium-vow) |
+| **Apex Corporation** | Korporasi jaringan saraf Neo-Tokyo; memanen "ingatan matang" untuk Aetheric Godframe | Unik (neon-cipher) |
+| **Syndicate Vane** | Faksi paramiliter Director Vane; memanen kurir pemakai modul | Unik (neon-cipher) |
+| **Sanjaya Syndicate / Sanjaya-Tech** | Korporasi-faksi Vance Sanjaya (Jakarta Sub-5) | Unik (astral-sovereign) |
 | **The Obsidian Covenant** | Organisasi paramiliter Kapten Brata | Unik (cinder-relic) |
 | **The Iron Coven** | Faksi Komandan Vorak; zirah Copper-Godframe | Unik (copper-relic) |
 | **The Concord Syndicate** | Faksi Baron Mahesa; zirah Sonic-Godframe | Unik (resonance-blade) |
@@ -81,9 +86,12 @@ Ciri khas atmosfer: hujan gerimis, uap bertekanan tinggi, bau oli/karat tembaga/
 | **Penempa Sangha / Sangha** | Ordo penempa sirkuit Kuno | Bersama (aetherium-vow, cinder-relic, dan 11 novel lain) |
 | **Komando Besi** | Faksi usang | Unik (tidak dipakai lagi) |
 
-**Catatan keluarga "Obsidian":** sudah ada tiga faksi berawalan Obsidian dari novel lain — Obsidian Covenant (cinder-relic), Obsidian Ministry (clockwork-astra), Obsidian Syndicate (aegis-of-aether), plus Menara Obsidian (sang-pemangku-fajar). Awalan ini tidak lagi tersedia untuk novel baru; novel baru jangan menciptakan faksi/tempat berawalan Obsidian lagi.
+**Catatan keluarga "Obsidian":** sudah ada tiga faksi berawalan Obsidian dari novel lain — Obsidian Covenant (cinder-relic), Obsidian Ministry (clockwork-astra), Obsidian Syndicate (aegis-of-aether), plus Menara Obsidian (sang-pemangku-fajar). Awalan ini tidak lagi tersedia untuk novel baru; novel baru jangan menciptakan faksi/tempat berawalan Obsidian lagi. Pengecualian non-faksi: the-astral-sovereign memakai "Obsidian" sebagai nama protokol (H-3..H-1) dan "Ruang Obsidian" (ruang dalam Menara Sangha) — bukan faksi/tempat mandiri, dibiarkan.
+
+**Keluarga "Syndicate":** empat faksi memakai kata Syndicate — Obsidian Syndicate (aegis-of-aether), Concord Syndicate (resonance-blade), Sanjaya Syndicate (astral-sovereign), Syndicate Vane (neon-cipher). Sufiks generik, nama lengkap masing-masing unik — kombinasi baru tetap boleh selama nama lengkapnya belum dipakai.
 
 **Riwayat kebocoran yang diperbaiki:**
+- **the-neon-cipher** (audit 2026-08-10): kembar template the-clockwork-astra (Aether-London × Neo-Tokyo) — entitas unik yang sama dipinjam dan di-rename agar khas per novel: **Aether Regulator → Astra Regulator**, **Vessel Principle → Prinsip Matang** (konsisten dengan "Memori Matang"-nya). "Aether Regulator"/"Vessel Principle" kini hanya milik the-clockwork-astra.
 - "Lupa Corp" awalnya muncul di draf aetherium-vow juga; karena Lupa Corp adalah entitas bersama yang berakar pada novel-novel lain, korporasi aetherium di-rename menjadi **Konsorsium Kunci** ("kunci" = metafora inti novel itu: Reza adalah kunci jaringan perisai). 55 titik diperbarui (12 bab + bible + outline + README + laporan).
 - **sang-pembawa-pelita** (audit 2026-08-09): tiga entitas unik novel lain bocor ke dalamnya dan di-rename — **Master Alistair** (unik aegis-of-aether) → **Empu Bramantyo**; **Pak Marto** (unik pustaka-kabut-senja) → **Pak Raga**; **Heavy-Godframe** (unik aegis-of-aether) → **Boiler-Godframe**. Semua referensi diperbarui di bab + bible + outline.
 - **the-host** (audit 2026-08-10): bab 7–15 dipad ke band 1.500–2.060; timeline ch7–10 disatukan dengan bible (+17 → +20); ledger harga disatukan (Shadow Step debut **ch8**, bukan ch5; 12 utas = 12 tahun; total 244 tahun dibagi separuh Rahwana → 122 tahun untuk Arif = 150 biologis); akhir ch7 tidak lagi berangkat ke Prambanan (bentrok ch8); nol baris verbatim ≥60 char ke novel lain; gema nama **Maya** (host Surpanakha) vs **Maya Kirana** (aegis) dicatat di seksi 6. Entitas uniknya (dual consciousness, host, Ancient Skills, Godframe Project) ditambahkan ke seksi 9.
@@ -127,6 +135,10 @@ Ciri khas atmosfer: hujan gerimis, uap bertekanan tinggi, bau oli/karat tembaga/
 | **Regulator Tembaga Sejati** vs **Regulator Kuningan Sejati** | iron-karma × copper-relic | Dua relik regulator dengan pola nama hampir sama; pembeda = logam (Tembaga vs Kuningan) dan fungsi (peredam kinetik Bagas vs regulator termal Wira). Keduanya utuh — gema nama, bukan relik yang sama |
 | **Sangha Network** (jaringan host modern; the-host; jaringan arsip; clockwork-astra) vs **Penempa Sangha** (ordo penempa sirkuit Kuno; aetherium-vow, cinder-relic) | the-host/clockwork-astra × aetherium-vow/cinder-relic | Akar kata "Sangha" sama, entitas beda lapisan semesta (organisasi kontemporer vs ordo Kuno). Nama utuh di kedua sisi — konteks kalimat yang membedakan |
 | **Nusakara** (gugusan penerbang + Kekaisaran Tanah Hitam) vs **Nusakara** (gugusan tiga kerajaan + Tangan Guntur) | sang-garuda × tangan-guntur | **Keputusan kanon 2026-08-10: nama gema, bukan setting bersama.** Dua dunia paralel mandiri berbagi nama gugusan (gema dari "Nusantara") tanpa hubungan kanon: nol kosakata semesta bersama, nol tempat/faksi/sistem yang tumpang tindih (satu-satunya kemiripan hanyalah "Kerajaan Selatan" yang generik), nol silang-referensi. Jangan disatukan — jangan menulis novel Kidungverse baru yang menyilang-referensikan kedua dunia ini |
+| **Bagas** (penerbang roh Garuda, 19) vs **Bagas** (kurir Midnight Runner, 26) vs **Bagas** (kurir ojek pegadaian, 27) | sang-garuda × iron-karma × pegadaian-bunga | Tiga protagonis Kidungverse bernama sama di tiga dunia berbeda (Nusakara, Jakarta-modern, Surabaya). Dicatat sebagai klaster nama — jangan menambahkan Bagas keempat |
+| **Komandan Varek** (pimpinan Konsorsium Kunci) vs **Kapten Varian** (komandan Obsidian Syndicate) | aetherium-vow × aegis-of-aether | Gema lembut akar "Var-"; karakter beda peran, beda faksi, di Bawah-Batavia yang sama. Dicatat, tidak disatukan |
+| **Jodi** (teknisi muda, murid pertama stasiun) vs **Bimo** (kurir muda, murid penerus pertama — semula Jodi) | aegis-of-aether × iron-karma | Duplikat persis peran epilog bab 15 (murid pertama stasiun baru, 18 th); iron-karma di-rename ke Bimo (2026-08-10). Jodi kini unik aegis |
+| **Kembar template Aether-London × Neo-Tokyo** — **Astra Horologium** vs **Astra Cipher**; **The Foundry** vs **Foundry-memori**; **Steam-Godframe** vs **Aetheric Godframe**; **Master Whitmore** vs **Master Kenzo**; **Edward Vance** vs **Ren Kaelen**; **Lord Malakor** vs **Director Vane** | clockwork-astra × neon-cipher | Dua novel saudara berstruktur 10 bab sejajar (relik lengan → korporasi panen → mentor berkursi roda → klimaks "melepas"); gema disengaja, nama lengkap dibedakan per novel. Dicatat, tidak disatukan — dan jangan menyalin elemen utuh (Aether Regulator, Vessel Principle) lintas keduanya lagi |
 
 **Kolam nama paralel aetherium×shadow:** the-aetherium-vow sengaja menggema nama shadow-compiler — *Kiran*→*Kirana* (Reza Kirana), *Kael*→*Kaelen*, *Arisya*→*Arisya* — sebagai bagian dari konstruksi paralel saudara. Gema ini dibiarkan; marga/nama lengkap adalah pembeda kanoniknya.
 
