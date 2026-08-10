@@ -22,7 +22,13 @@ Kalau premis sudah utuh (siapa, ingin apa, dihalangi apa, taruhannya apa) dan pe
 ls novels/
 ```
 
-Buat folder `novels/<slug>/`.
+Buat folder `novels/<slug>/`. Cara cepat: skeleton lengkap (README, bible, outline, cover-prompt, continuity-report) dibuat otomatis oleh pipeline:
+
+```bash
+npm run novel:scaffold -- --title "Judul" --genre "Fantasy / Steampunk" --universe "Kidungverse" --chapters 20
+```
+
+Perintah ini memvalidasi slug, menolak folder yang sudah ada, dan mengisi frontmatter README (status `In Progress`, `started` hari ini). Bab ditulis menyusul; novel muncul di situs hanya setelah `chapter-1.md` ada. Sambil menulis, cek tiap tahap dengan `npm run novel:check -- <slug>`.
 
 ## 3. Tulis `bible.md`
 

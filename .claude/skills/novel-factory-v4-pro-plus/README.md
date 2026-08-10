@@ -36,6 +36,23 @@ Yang perlu diketahui:
 - **Bible dan outline tinggal di `novels/<slug>/`,** bukan di folder skill. Satu skill melayani 14 novel.
 - **Konsistensi diperiksa, bukan diharapkan.** `workflows/continuity-check.md` memindai timeline, karakter, worldbuilding, dan "siapa tahu apa" lintas bab, lalu menulis `novels/<slug>/continuity-report.md` berisi pertanyaan — bukan vonis. Jalankan tiap 10 bab dan sebelum novel dinyatakan selesai.
 
+## Pipeline otomatis (`scripts/novel-pipeline.mjs`)
+
+Orkestrasi dari ide sampai terbit, satu perintah:
+
+```bash
+npm run novel:scaffold -- --title "Judul" --genre "Fantasy / Steampunk" --chapters 20
+npm run novel:check -- <slug>            # QC struktural + cek mekanis per bab (peringatan)
+npm run novel:check -- <slug> --strict   # cek mekanis jadi error
+npm run novel:status                     # dasbor semua novel di pipeline
+npm run novel:publish -- <slug>          # gate akhir: QC strict → status Complete → build
+```
+
+- `scaffold` membuat README, bible, outline (N baris), cover-prompt, dan continuity-report — **belum ada bab**, jadi novel belum muncul di situs.
+- Novel **In Progress** boleh outline-nya menyatakan lebih banyak bab dari yang sudah ditulis (target); yang dilarang: bab tanpa barisnya di outline. Novel **Complete** wajib outline = bab di disk (ditegakkan `--complete` saat publish).
+- `publish` = gate terakhir: QC strict + outline persis + band + frontmatter + continuity-report harus lolos, lalu README di-set `status: "Complete"` dan build situs dijalankan. Publikasi publik terjadi lewat push ke main (CI `novel-qc.yml` + Vercel).
+- Cek mekanis (kalimat berulang, heading di body, dialog) dulunya hanya dokumen; kini terotomatisasi. Catatan: ~40 bab lama masih memuat kalimat gema — tidak diblokir di `npm run verify` (hanya peringatan), tapi novel baru yang publish wajib bersih.
+
 ## Kondisi repo
 
 `NOVEL-AUDIT.md` di root berisi laporan 230 bab: mana yang perlu ditulis ulang, mana yang cukup diperbaiki. Acuan gaya prosa adalah `novels/kidung-bayang-batavia/` — tapi bukan acuan panjang, karena semua babnya 367–578 kata.

@@ -30,6 +30,9 @@
  * Cara pakai:
  *   npm run verify
  *   node scripts/check-novels.mjs
+ *   node scripts/check-novels.mjs --novel <slug>                                  # satu novel saja
+ *   node scripts/check-novels.mjs --novel <slug> --mechanical [--strict]         # + cek mekanis per bab
+ *   node scripts/check-novels.mjs --novel <slug> --mechanical --strict --complete # gate akhir publish
  *
  * Exit code 1 bila ada pelanggaran (menahan commit jika dipakai sebagai pre-commit).
  * Lewati paksa di pre-commit: SKIP_NOVEL_CHECK=1 git commit ...
@@ -49,6 +52,23 @@ const EXCEPTIONS = {
 
 const errors = [];
 const warnings = [];
+
+// --- Argumen CLI ---
+// --novel <slug>  hanya periksa satu novel (dipakai pipeline); cek lintas novel
+//                  (entitas unik, vokatif, klaster nama) dilewati dalam mode ini
+// --mechanical    aktifkan cek mekanis per bab: heading di body, kalimat
+//                  berulang, dialog nyaris hilang, penutup generik (peringatan)
+// --strict        cek mekanis yang melanggar jadi error (dipakai novel:publish)
+// --complete      novel wajib memverifikasi Complete: outline menyatakan bab persis
+//                  sama dengan file di disk (dipakai novel:publish sebagai gate akhir)
+const arg = (name) => {
+  const i = process.argv.indexOf(name);
+  return i >= 0 && i + 1 < process.argv.length ? process.argv[i + 1] : null;
+};
+const FILTER_SLUG = arg("--novel");
+const MECHANICAL = process.argv.includes("--mechanical");
+const STRICT = process.argv.includes("--strict");
+const COMPLETE_MODE = process.argv.includes("--complete");
 
 // Entitas unik per novel (dari audit klaster nama/org 2026-08-10 + seksi 3/4
 // compendium): [nama, slug novel pemilik]. Pemakaian di bab novel lain = bocor.
@@ -173,6 +193,56 @@ function readFrontmatter(text) {
   return m ? m[1] : "";
 }
 
+/** Isi bab tanpa frontmatter — tempat cek mekanis dijalankan. */
+function stripFrontmatter(text) {
+  const m = text.match(/^---\r?\n[\s\S]*?\r?\n---\r?\n?/);
+  return m ? text.slice(m[0].length) : text;
+}
+
+// Penutup generik yang dilarang aturan keras 7 (heuristic — selalu peringatan).
+const GENERIC_CLOSING = [
+  /menyongsong (hari|esok|masa depan|pagi)/i,
+  /siap (menghadapi|mengarungi) (ancaman|hari|apa pun|semuanya)/i,
+  /^apakah .*\?$/i,
+];
+
+/**
+ * Cek mekanis per bab (aturan keras 3, 5, 7 + larangan kalimat berulang).
+ * Error hanya dalam mode --strict; tanpa --strict semuanya peringatan.
+ */
+function mechanicalChecks(body) {
+  const out = [];
+  const err = (msg) => out.push({ level: STRICT ? "error" : "warn", msg });
+
+  const headings = [...body.matchAll(/^#{1,6}\s+.+$/gm)].map((m) => m[0].trim());
+  if (headings.length) err(`heading di body (${headings.length}): "${headings[0].slice(0, 60)}"`);
+
+  const quotes = (body.match(/"/g) || []).length;
+  if (quotes < 2) err(`dialog nyaris tidak ada (hanya ${quotes} tanda kutip)`);
+
+  const sentences = (body.match(/[^.!?]{25,}[.!?]/g) || [])
+    .map((s) => s.replace(/\s+/g, " ").trim())
+    .filter(Boolean);
+  const seen = new Set();
+  const reported = new Set();
+  for (const s of sentences) {
+    const k = s.toLowerCase();
+    if (seen.has(k) && !reported.has(k)) {
+      reported.add(k);
+      err(`kalimat berulang: "${s.slice(0, 80)}"`);
+    }
+    seen.add(k);
+  }
+
+  const lines = body.split("\n").map((l) => l.trim()).filter(Boolean);
+  const last = lines[lines.length - 1] || "";
+  if (last && GENERIC_CLOSING.some((re) => re.test(last))) {
+    out.push({ level: "warn", msg: `penutup generik: "${last.slice(0, 80)}"` });
+  }
+
+  return out;
+}
+
 // Nomor bab yang dideklarasikan outline: header "Bab N" di mana pun, entri
 // bernomor "N. **Judul**" (gaya the-duet/the-remembering), dan baris tabel
 // "| N | ... |" (gaya pasar-subuh/the-astral-sovereign).
@@ -211,9 +281,12 @@ const dirs = readdirSync(NOVELS_DIR, { withFileTypes: true })
   .filter((d) => d.isDirectory())
   .map((d) => d.name)
   .filter((name) => existsSync(join(NOVELS_DIR, name, "chapter-1.md")))
+  .filter((name) => !FILTER_SLUG || name === FILTER_SLUG)
   .sort();
 
-console.log(`Memverifikasi ${dirs.length} novel terhadap standar repo...\n`);
+console.log(
+  `Memverifikasi ${FILTER_SLUG ? `novel "${FILTER_SLUG}"` : `${dirs.length} novel`} terhadap standar repo...\n`,
+);
 
 // Kumpulkan semua file bab, lalu hitung kata sekali lewat wc -w.
 const novelsData = [];
@@ -228,6 +301,11 @@ for (const name of dirs) {
 }
 collectCounts(allChapterPaths);
 
+if (FILTER_SLUG && novelsData.length === 0) {
+  console.error(`Novel "${FILTER_SLUG}" tidak ditemukan (atau belum punya chapter-1.md).`);
+  process.exit(1);
+}
+
 for (const { name, base, chapters } of novelsData) {
   const count = chapters.length;
   const problems = [];
@@ -238,6 +316,10 @@ for (const { name, base, chapters } of novelsData) {
   }
 
   // 2) outline: penanda selesai + jumlah bab yang dideklarasikan
+  //    Novel In Progress (status != "Complete") boleh menyatakan target lebih
+  //    banyak dari bab di disk (outline penuh lebih dulu, bab ditulis menyusul);
+  //    yang dilarang: bab tanpa barisnya di outline (maxN < count). Mode
+  //    --complete (dipakai novel:publish) menuntut kecocokan persis.
   const outlinePath = join(base, "outline.md");
   let outlineText = "";
   if (existsSync(outlinePath)) {
@@ -248,8 +330,10 @@ for (const { name, base, chapters } of novelsData) {
     }
     const nums = outlineChapterNumbers(outlineText);
     const maxN = nums.length ? Math.max(...nums) : 0;
-    if (maxN !== count) {
+    if (COMPLETE_MODE && maxN !== count) {
       problems.push(`outline menyatakan bab sampai ${maxN || "?"} vs ${count} file bab di disk`);
+    } else if (!COMPLETE_MODE && maxN < count) {
+      problems.push(`outline menyatakan bab sampai ${maxN || "?"} < ${count} file bab di disk (bab tanpa baris outline)`);
     }
   } else {
     problems.push("outline.md tidak ada");
@@ -265,9 +349,11 @@ for (const { name, base, chapters } of novelsData) {
   }
 
   // 4) frontmatter: chapter: N cocok nama file, title tidak kosong
+  //    + cek mekanis per bab (--mechanical)
   for (const ch of chapters) {
     const n = chapterNumber(ch);
-    const fm = readFrontmatter(readFileSync(join(base, ch), "utf8"));
+    const raw = readFileSync(join(base, ch), "utf8");
+    const fm = readFrontmatter(raw);
     const chM = fm.match(/^chapter:\s*(\d+)\s*$/m);
     if (!chM || parseInt(chM[1], 10) !== n) {
       problems.push(`${ch}: frontmatter chapter=${chM ? chM[1] : "?"} ≠ nama file ${n}`);
@@ -275,6 +361,12 @@ for (const { name, base, chapters } of novelsData) {
     const tiM = fm.match(/^title:\s*"([^"]+)"\s*$/m) || fm.match(/^title:\s*(.+?)\s*$/m);
     if (!tiM || !tiM[1].trim()) {
       problems.push(`${ch}: frontmatter title kosong`);
+    }
+    if (MECHANICAL) {
+      for (const p of mechanicalChecks(stripFrontmatter(raw))) {
+        if (p.level === "error") problems.push(`${ch}: ${p.msg}`);
+        else warnings.push(`${name} ${ch}: ${p.msg}`);
+      }
     }
   }
 
@@ -313,7 +405,8 @@ for (const { name, base, chapters } of novelsData) {
   }
 }
 
-// 7) entitas unik per novel + keluarga "Obsidian" (bab = kanon publik)
+if (!FILTER_SLUG) {
+  // 7) entitas unik per novel + keluarga "Obsidian" (bab = kanon publik)
 const chapterTextByNovel = new Map(
   novelsData.map(({ name, base, chapters }) => [
     name,
@@ -392,6 +485,7 @@ for (const [label, sides] of DOCUMENTED_CLUSTERS) {
     }
   }
 }
+} // akhir if (!FILTER_SLUG) — cek lintas novel dilewati dalam mode --novel
 
 console.log("");
 if (warnings.length) {

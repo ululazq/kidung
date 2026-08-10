@@ -1,0 +1,33 @@
+name: Novel QC
+
+# Gerbang kualitas sebelum publikasi (Vercel deploy dari push ke main):
+# novel apa pun yang gagal QC struktural (check-novels.mjs) atau gagal build
+# situs tidak akan lolos PR / tidak akan memicu deploy yang valid.
+#
+# Struktur (npm run verify): continuity-report wajib, outline memverifikasi
+# Complete, band 1.500–2.500 kata/bab, frontmatter bab, header bible, entitas
+# unik, keluarga Obsidian, vokatif mentor, klaster nama gema.
+#
+# Cek mekanis per bab (kalimat berulang, H1 di body, dialog) dijalankan
+# lokal via `npm run novel:check -- <slug> --strict` saat menulis; repo lama
+# masih mengandung beberapa kalimat gema yang lolos gate struktural.
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  qc:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: QC struktural novel
+        run: npm run verify
+      - name: Build situs (publikasi)
+        run: npm run build

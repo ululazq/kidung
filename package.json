@@ -9,7 +9,12 @@
     "build": "astro build",
     "preview": "astro preview",
     "check": "astro check",
-    "verify": "node scripts/check-novels.mjs"
+    "verify": "node scripts/check-novels.mjs",
+    "novel": "node scripts/novel-pipeline.mjs",
+    "novel:scaffold": "node scripts/novel-pipeline.mjs scaffold",
+    "novel:check": "node scripts/novel-pipeline.mjs check",
+    "novel:publish": "node scripts/novel-pipeline.mjs publish",
+    "novel:status": "node scripts/novel-pipeline.mjs status"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.2.1",
