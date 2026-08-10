@@ -55,7 +55,8 @@ Ciri khas atmosfer: hujan gerimis, uap bertekanan tinggi, bau oli/karat tembaga/
 | **Iron Monarch** | Zirah pribadi Gubernur Jenderal Vance | Unik (shadow-compiler) |
 | **Iron-Godframe** | Zirah raksasa Kapten Brata | Unik (cinder-relic) |
 | **Steam-Colossus** | Zirah uap prajurit Konsorsium Kunci | Unik (aetherium-vow) |
-| **Heavy-Godframe** | Model reaktor zirah berat | Unik (aegis-of-aether) |
+| **Heavy-Godframe** | Model reaktor zirah berat (Heavy-Godframe Prime Malakor) | Unik (aegis-of-aether) |
+| **Silver-Godframe** | Zirah tempur standar prajurit komando Lupa Corp (semula "Heavy-Godframe", di-rename 2026-08-10) | Unik (shadow-compiler) |
 | **Steam-Godframe** | Zirah raksasa berbahan vitalitas manusia; dipakai Lord Malakor | Unik (clockwork-astra) |
 | **Aetheric Godframe** | Kerangka zirah bertenaga ingatan panen Apex Corporation | Unik (neon-cipher) |
 | **Boiler-Godframe** | Zirah berat bermotor pneumatik Lupa Corp | Unik (sang-pembawa-pelita) |
@@ -92,6 +93,7 @@ Ciri khas atmosfer: hujan gerimis, uap bertekanan tinggi, bau oli/karat tembaga/
 
 **Riwayat kebocoran yang diperbaiki:**
 - **the-neon-cipher** (audit 2026-08-10): kembar template the-clockwork-astra (Aether-London × Neo-Tokyo) — entitas unik yang sama dipinjam dan di-rename agar khas per novel: **Aether Regulator → Astra Regulator**, **Vessel Principle → Prinsip Matang** (konsisten dengan "Memori Matang"-nya). "Aether Regulator"/"Vessel Principle" kini hanya milik the-clockwork-astra.
+- **the-shadow-compiler** (audit 2026-08-10): zirah komando Lupa Corp memakai **Heavy-Godframe** (nama milik the-aegis-of-aether) — di-rename menjadi **Silver-Godframe** (selaras deskripsi "zirah tempa perak" bab 1). 5 titik diperbarui (bab 1–2, bible, continuity-report).
 - "Lupa Corp" awalnya muncul di draf aetherium-vow juga; karena Lupa Corp adalah entitas bersama yang berakar pada novel-novel lain, korporasi aetherium di-rename menjadi **Konsorsium Kunci** ("kunci" = metafora inti novel itu: Reza adalah kunci jaringan perisai). 55 titik diperbarui (12 bab + bible + outline + README + laporan).
 - **sang-pembawa-pelita** (audit 2026-08-09): tiga entitas unik novel lain bocor ke dalamnya dan di-rename — **Master Alistair** (unik aegis-of-aether) → **Empu Bramantyo**; **Pak Marto** (unik pustaka-kabut-senja) → **Pak Raga**; **Heavy-Godframe** (unik aegis-of-aether) → **Boiler-Godframe**. Semua referensi diperbarui di bab + bible + outline.
 - **the-host** (audit 2026-08-10): bab 7–15 dipad ke band 1.500–2.060; timeline ch7–10 disatukan dengan bible (+17 → +20); ledger harga disatukan (Shadow Step debut **ch8**, bukan ch5; 12 utas = 12 tahun; total 244 tahun dibagi separuh Rahwana → 122 tahun untuk Arif = 150 biologis); akhir ch7 tidak lagi berangkat ke Prambanan (bentrok ch8); nol baris verbatim ≥60 char ke novel lain; gema nama **Maya** (host Surpanakha) vs **Maya Kirana** (aegis) dicatat di seksi 6. Entitas uniknya (dual consciousness, host, Ancient Skills, Godframe Project) ditambahkan ke seksi 9.

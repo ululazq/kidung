@@ -50,7 +50,7 @@ Ejaan baku. Semua nama proper di bab mana pun harus ada di sini.
 | Sirkuit Bayangan Kuno | modul sirkuit spiritual hampa pemanipulasi arus energi |
 | Shadow Compiler | proses penyatuan sirkuit bayangan dengan jaringan saraf jiwa |
 | Aether Shadow Pulse | gelombang kejut medan listrik bayangan pelumpuh sirkuit mekanis (teknik Sirkuit Bayangan Kuno) |
-| Heavy-Godframe | zirah tempur standar prajurit komando Lupa Corp |
+| Silver-Godframe | zirah tempur standar prajurit komando Lupa Corp |
 | Iron Monarch | zirah raksasa perang berat milik Vance; turun penuh di bab 8. Bab 14: padam permanen (bahan bakar ditarik pemutaran). **Bab 15: kuningannya dilebur menjadi tabung-tabung stasiun memori** ("Ia mengambil selama lima belas tahun. Biarkan ia menyimpan selama seratus"). |
 | Kunci Tembaga Sena | kunci pintu tua di dasar Menara (fondasi Kuno); dibawa Sena sejak jadi kepala sel; dipegang Kiran sejak bab 7; Kiran → Arisya (bab 10); **Arisya → Sena di bab 11** ("kalau jantung berhenti dan aku tidak keluar, kau yang keluar") |
 | Terminal Memori | alat perekam & peretas jejak pikiran warga |

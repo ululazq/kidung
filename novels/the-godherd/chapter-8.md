@@ -1,5 +1,5 @@
 ---
-title: "Bab 8: Final — Puncak Sembilan"
+title: "Bab 8: Ujian Ketiga — Puncak Sembilan (Final)"
 chapter: 8
 ---
 

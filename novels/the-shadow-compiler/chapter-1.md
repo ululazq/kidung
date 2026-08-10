@@ -25,7 +25,7 @@ Namun, sebelum Arisya sempat mengambil tabung memori ayahnya atau menyentuh kota
 
 *BOOOOOOOOOOM!*
 
-Serpihan beton dan pelat baja pintu palka pecah terlempar dihantam ledakan tembakan kinetik berat! Dari balik gulungan asap uap hitam, melangkah masuk enam prajurit komando elit Konsorsium Lupa Corp berzirah tempa perak *Heavy-Godframe* dengan meriam plasma di bahu mereka!
+Serpihan beton dan pelat baja pintu palka pecah terlempar dihantam ledakan tembakan kinetik berat! Dari balik gulungan asap uap hitam, melangkah masuk enam prajurit komando elit Konsorsium Lupa Corp berzirah tempa perak *Silver-Godframe* dengan meriam plasma di bahu mereka!
 
 Di depan pasukan itu, melangkah seorang perwira muda bertubuh tegap dengan mantel perwira Lupa Corp—Rendra Kael, pengawal keamanan brankas yang memegang senjata kejutan kebal sinyal.
 

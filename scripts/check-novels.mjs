@@ -16,6 +16,16 @@
  *   6. Sinkron judul (peringatan, tidak menggagalkan): judul bab di outline vs
  *      judul frontmatter file — perbedaan format (Epilog:, anotasi, urutan kata)
  *      dinormalisasi; selisih yang tersisa dicetak sebagai warning.
+ *   7. Entitas unik per novel (audit klaster nama/org 2026-08-10): setiap entitas
+ *      di UNIQUE_ENTITIES wajib muncul di bab novel pemiliknya SAJA. Bab = kanon
+ *      publik; bible/outline/continuity-report/compendium boleh menyebut nama
+ *      untuk riwayat rename, jadi tidak dihitung. Keluarga "Obsidian"
+ *      (compendium seksi 4) juga dijaga: novel di luar OBSIDIAN_OWNERS tidak
+ *      boleh memakai awalan "Obsidian".
+ *
+ *      Bila novel baru sengaja memakai ulang nama yang sudah ada sebagai gema
+ *      kanon (pola "Nama Gema" compendium seksi 6), hapus entitas itu dari
+ *      UNIQUE_ENTITIES dan catat klasternya di compendium dulu.
  *
  * Cara pakai:
  *   npm run verify
@@ -39,6 +49,96 @@ const EXCEPTIONS = {
 
 const errors = [];
 const warnings = [];
+
+// Entitas unik per novel (dari audit klaster nama/org 2026-08-10 + seksi 3/4
+// compendium): [nama, slug novel pemilik]. Pemakaian di bab novel lain = bocor.
+const UNIQUE_ENTITIES = [
+  // Karakter & mentor
+  ["Master Alistair", "the-aegis-of-aether"],
+  ["Master Whitmore", "the-clockwork-astra"],
+  ["Master Kenzo", "the-neon-cipher"],
+  ["Master Kaelen", "the-aetherium-vow"],
+  ["Kapten Varian", "the-aegis-of-aether"],
+  ["Komandan Varek", "the-aetherium-vow"],
+  ["Jodi", "the-aegis-of-aether"],
+  ["Bimo", "the-iron-karma"],
+  // Relik & konsep unik
+  ["Aether Regulator", "the-clockwork-astra"],
+  ["Vessel Principle", "the-clockwork-astra"],
+  ["Astra Regulator", "the-neon-cipher"],
+  ["Prinsip Matang", "the-neon-cipher"],
+  ["Astra Cipher", "the-neon-cipher"],
+  ["Astra Horologium", "the-clockwork-astra"],
+  ["Konsorsium Kunci", "the-aetherium-vow"],
+  ["Iron Monarch", "the-shadow-compiler"],
+  // Faksi & korporasi
+  ["Obsidian Syndicate", "the-aegis-of-aether"],
+  ["Obsidian Ministry", "the-clockwork-astra"],
+  ["Obsidian Covenant", "the-cinder-relic"],
+  ["Apex Corporation", "the-neon-cipher"],
+  ["Syndicate Vane", "the-neon-cipher"],
+  ["Sanjaya Syndicate", "the-astral-sovereign"],
+  ["Eclipse Forge", "the-shadow-forger"],
+  ["Concord Syndicate", "the-resonance-blade"],
+  ["Iron Coven", "the-copper-relic"],
+  ["JagadBumi", "the-iron-karma"],
+  // Model zirah (seksi 3 compendium)
+  ["Steam-Godframe", "the-clockwork-astra"],
+  ["Aetheric Godframe", "the-neon-cipher"],
+  ["Steam-Colossus", "the-aetherium-vow"],
+  ["Heavy-Godframe", "the-aegis-of-aether"],
+  ["Silver-Godframe", "the-shadow-compiler"],
+  ["Boiler-Godframe", "sang-pembawa-pelita"],
+  ["Copper-Godframe", "the-copper-relic"],
+  ["Sonic-Godframe", "the-resonance-blade"],
+  ["Shadow-Godframe", "the-shadow-forger"],
+  ["Aetherium Exoskeleton", "serat-penempa-hampa"],
+  ["Iron-Godframe", "the-cinder-relic"],
+];
+
+// Novel yang sah memakai awalan "Obsidian" (compendium seksi 4 — keluarga penuh,
+// novel baru jangan menambah faksi/tempat berawalan Obsidian).
+const OBSIDIAN_OWNERS = new Set([
+  "the-aegis-of-aether", // Obsidian Syndicate
+  "the-clockwork-astra", // Obsidian Ministry
+  "the-cinder-relic", // Obsidian Covenant
+  "sang-pemangku-fajar", // Menara Obsidian
+  "the-astral-sovereign", // protokol Obsidian + Ruang Obsidian (non-faksi)
+]);
+
+// Vokatif mentor (compendium seksi 11): vokatif mengikuti gelar karakter
+// (Master X → Master, Empu X → Empu, tanpa gelar → Guru). Mencampur dua
+// vokatif dalam satu novel perlu cek manual — bisa jadi satu karakter
+// dipanggil dua gelar (pelanggaran) atau dua mentor berbeda (sah).
+const MENTOR_VOCATIVES = ["Guru", "Master", "Empu"];
+
+// Kasus sah dengan dua mentor berbeda (vokatif masing-masing benar per
+// compendium seksi 11) — ditinjau 2026-08-10, tidak perlu di-flag lagi:
+//   the-copper-relic    : Empu Tirto → "Empu", Wira (tanpa gelar) → "Guru"
+//   the-resonance-blade : Empu Wirama → "Empu", Rian (tanpa gelar) → "Guru"
+const LEGIT_MENTOR_MIX = new Set(["the-copper-relic", "the-resonance-blade"]);
+
+// Klaster nama gema yang didokumentasikan di compendium seksi 6 — tiap sisi
+// wajib masih ada di novelnya. Bila hilang, catatan compendium basi (nama
+// di-rename tanpa memperbarui compendium). [label, [ [istilah, slug], ... ]]
+const DOCUMENTED_CLUSTERS = [
+  ["klaster Vance", [["Gubernur Jenderal Vance", "the-shadow-compiler"], ["Elian Vance", "the-aegis-of-aether"], ["Rian Vance", "the-resonance-blade"]]],
+  ["klaster Malakor", [["Lord Malakor", "the-clockwork-astra"], ["Baron Malakor", "the-aegis-of-aether"], ["Malcor", "sang-pemangku-fajar"]]],
+  ["klaster Bagas", [["Bagas", "sang-garuda"], ["Bagas", "the-iron-karma"], ["Bagas", "pegadaian-bunga"]]],
+  ["klaster Danu", [["Empu Danu", "the-cinder-relic"], ["Ki Danu", "kidung-tanah-karam"], ["Danu", "tangan-guntur"]]],
+  ["klaster Kirana", [["Reza Kirana", "the-aetherium-vow"], ["Tara Kirana", "sang-pembawa-pelita"]]],
+  ["klaster Arisya", [["Arisya Sola", "the-shadow-compiler"], ["Arisya Vael", "the-aetherium-vow"]]],
+  ["klaster Maya", [["Maya", "the-host"], ["Maya Kirana", "the-aegis-of-aether"]]],
+  ["klaster Kael", [["Rendra Kael", "the-shadow-compiler"], ["Master Kaelen", "the-aetherium-vow"]]],
+  ["klaster Nusakara", [["Nusakara", "sang-garuda"], ["Nusakara", "tangan-guntur"]]],
+  ["klaster Rukmini", [["Rukmini", "gods-in-jars"], ["Rukmini", "pasar-subuh"], ["Bu Rukmi", "kidung-tanah-karam"]]],
+  ["klaster Mara", [["Old Mara", "the-prism"], ["Mara", "the-unhollowed"]]],
+  ["klaster Regulator", [["Regulator Tembaga Sejati", "the-iron-karma"], ["Regulator Kuningan Sejati", "the-copper-relic"]]],
+  ["klaster Iron", [["Iron Monarch", "the-shadow-compiler"], ["Iron-Godframe", "the-cinder-relic"]]],
+  ["klaster Brata", [["Ki Demang Brata", "kidung-bayang-batavia"], ["Kapten Brata", "the-cinder-relic"]]],
+  ["kembar Aether-London × Neo-Tokyo", [["Astra Horologium", "the-clockwork-astra"], ["Astra Cipher", "the-neon-cipher"], ["Master Whitmore", "the-clockwork-astra"], ["Master Kenzo", "the-neon-cipher"]]],
+  ["klaster Varek×Varian", [["Komandan Varek", "the-aetherium-vow"], ["Kapten Varian", "the-aegis-of-aether"]]],
+];
 
 // Hitungan kata kanon repo = `wc -w` (dipakai NOVEL-AUDIT). Git Bash wc
 // memperlakukan token murni tanda baca (mis. "—") sebagai BUKAN kata dan
@@ -210,6 +310,86 @@ for (const { name, base, chapters } of novelsData) {
     for (const p of problems) console.log(`      - ${p}`);
   } else {
     console.log(`  ✓ ${name} (${count} bab, outline ok, continuity-report ada)`);
+  }
+}
+
+// 7) entitas unik per novel + keluarga "Obsidian" (bab = kanon publik)
+const chapterTextByNovel = new Map(
+  novelsData.map(({ name, base, chapters }) => [
+    name,
+    chapters.map((c) => readFileSync(join(base, c), "utf8")).join("\n"),
+  ])
+);
+
+for (const [entity, owner] of UNIQUE_ENTITIES) {
+  const esc = entity.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  const re = new RegExp(`\\b${esc}\\b`);
+  const found = [];
+  for (const [name, text] of chapterTextByNovel) {
+    if (re.test(text)) found.push(name);
+  }
+  if (found.length === 0) {
+    // Entitas bisa sah hidup di bible/outline saja (konsep teknis) — cek dokumen pemilik
+    // sebelum menuduh rename. Warn hanya bila hilang total dari folder pemilik.
+    const ownerDocs = ["bible.md", "outline.md", "continuity-report.md"]
+      .map((f) => join(NOVELS_DIR, owner, f))
+      .filter((p) => existsSync(p))
+      .map((p) => readFileSync(p, "utf8"))
+      .join("\n");
+    if (!ownerDocs.includes(entity)) {
+      warnings.push(`entitas unik "${entity}" hilang total (pemilik ${owner}) — hapus dari UNIQUE_ENTITIES atau cek rename`);
+    }
+  } else if (found.length > 1) {
+    const leak = found.filter((n) => n !== owner).join(", ");
+    errors.push(`entitas unik "${entity}" bocor ke ${leak} (pemilik ${owner})`);
+    console.log(`  ✗ entitas unik: "${entity}" bocor ke ${leak} (pemilik ${owner})`);
+  } else if (found[0] !== owner) {
+    errors.push(`entitas unik "${entity}" hanya ada di ${found[0]}, pemiliknya ${owner}`);
+    console.log(`  ✗ entitas unik: "${entity}" hanya ada di ${found[0]}, pemiliknya ${owner}`);
+  }
+}
+
+for (const [name, text] of chapterTextByNovel) {
+  if (/\bObsidian\b/.test(text) && !OBSIDIAN_OWNERS.has(name)) {
+    errors.push(`novel "${name}" memakai awalan "Obsidian" di bab — keluarga Obsidian penuh (compendium seksi 4)`);
+    console.log(`  ✗ novel "${name}" memakai awalan "Obsidian" di bab — keluarga Obsidian penuh (compendium seksi 4)`);
+  }
+}
+
+// 8a) Vokatif mentor campur per novel (compendium seksi 11)
+for (const { name, base, chapters } of novelsData) {
+  const text = chapters.map((c) => readFileSync(join(base, c), "utf8")).join("\n");
+  const used = MENTOR_VOCATIVES.filter((v) =>
+    new RegExp(`["',]\\s*${v}[.,!?—]`).test(text)
+  );
+  if (used.length >= 2 && !LEGIT_MENTOR_MIX.has(name)) {
+    warnings.push(
+      `${name}: vokatif mentor campur (${used.join(", ")}) — cek apakah satu karakter dipanggil dua gelar (compendium seksi 11)`
+    );
+  }
+}
+
+// 8b) Klaster nama gema compendium seksi 6 — tiap sisi wajib ada di novelnya
+const clusterDocText = new Map();
+function novelFolderText(slug) {
+  if (!clusterDocText.has(slug)) {
+    const base = join(NOVELS_DIR, slug);
+    let t = "";
+    if (existsSync(base)) {
+      t = readdirSync(base)
+        .filter((f) => f.endsWith(".md"))
+        .map((f) => readFileSync(join(base, f), "utf8"))
+        .join("\n");
+    }
+    clusterDocText.set(slug, t);
+  }
+  return clusterDocText.get(slug);
+}
+for (const [label, sides] of DOCUMENTED_CLUSTERS) {
+  for (const [term, slug] of sides) {
+    if (!novelFolderText(slug).includes(term)) {
+      warnings.push(`compendium ${label}: "${term}" hilang dari ${slug} — catatan basi atau nama di-rename?`);
+    }
   }
 }
 

@@ -23,7 +23,7 @@ Mereka berhenti di bawah sebuah palka besi yang separuh terbuka. Rendra mengangk
 
 Di ujung jalan, jauh di kiri, lampu sorot bergerak mendekat.
 
-"Konvoi," bisik Rendra. "Tiga truk. Zirah Heavy-Godframe di tiap sisi. Dan rig di tengah."
+"Konvoi," bisik Rendra. "Tiga truk. Zirah Silver-Godframe di tiap sisi. Dan rig di tengah."
 
 Arisya menekan wajahnya ke sela pelat. Truk pemimpin lewat lebih dulu, ban besinya menggilas genangan. Di belakangnya, rig ekstraksi — kendaraan bertabung-tabung kaca dengan mesin Terminal Memori mencuat dari atapnya, menyala biru. "Rig itu tidak mengangkut tabung kosong," katanya pelan.
 
@@ -43,7 +43,7 @@ Arisya mengangguk, lalu menutup mata. Ia tidak memusatkan pikirannya pada mesin 
 
 Rem hidrolik mengunci. Ban besi truk pemimpin berdecit, dan konvoi itu berhenti bergoyang di tengah jalan.
 
-Untuk sesaat semuanya hening. Zirah-zirah Heavy-Godframe berhenti, menoleh satu sama lain.
+Untuk sesaat semuanya hening. Zirah-zirah Silver-Godframe berhenti, menoleh satu sama lain.
 
 Lalu rig ekstraksi itu menyala lebih terang. Cahaya biru dari mesin Terminal Memori naik seperti nadi, dan Arisya merasakan sesuatu yang lain menarik balik — bukan tangan, melainkan sapuan yang menyisir dinding lorong servis, mencari sumber sinyal. Ia menarik napas, tetapi terlambat.
 

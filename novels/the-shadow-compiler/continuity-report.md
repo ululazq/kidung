@@ -9,7 +9,7 @@ Lima belas bab diperiksa terhadap `bible.md` dan `outline.md`: nama kanon, ranta
 
 ## Konsistensi terkonfirmasi
 
-- **Nama kanon**: semua nama proper di bab 1–15 ada di bible — Arisya Sola, Rendra Kael, Vance, Alda, Sena, Kiran, Tama, Rangga (bab 9+), Lupa Corp, Konsorsium, Penjaga Bayangan, Iron Monarch, Heavy-Godframe, Terminal Memori, Sirkuit Bayangan Kuno, Shadow Compiler, Aether Shadow Pulse, Gang Kuningan, Sektor Empat/Dua/Satu, Menara Sentral, Fondasi Kuno, Jalan Abu (bab 10+), Jantung Reaktor (bab 10+). Nol drift.
+- **Nama kanon**: semua nama proper di bab 1–15 ada di bible — Arisya Sola, Rendra Kael, Vance, Alda, Sena, Kiran, Tama, Rangga (bab 9+), Lupa Corp, Konsorsium, Penjaga Bayangan, Iron Monarch, Silver-Godframe (semula "Heavy-Godframe", di-rename 2026-08-10 karena nama itu milik the-aegis-of-aether — zirah komando Lupa Corp ini berwarna perak, "zirah tempa perak"), Terminal Memori, Sirkuit Bayangan Kuno, Shadow Compiler, Aether Shadow Pulse, Gang Kuningan, Sektor Empat/Dua/Satu, Menara Sentral, Fondasi Kuno, Jalan Abu (bab 10+), Jantung Reaktor (bab 10+). Nol drift.
 - **Harga memori (rantai emosional)**: taman bunga (bab 1–2) → wajah Laras (bab 2) → suara palu (bab 6) → kembali via tabung (bab 8) → wajah & suara ayah diambil jantung (bab 12) → dikembalikan pemutaran balik (bab 14–15). Tiap harga konkret, dibayar di momen aksi, dan tidak pernah dibatalkan tanpa bayaran.
 - **Rantai setup→payoff utama — semua tuntas**:
   - Kartu baja Rendra (bab 1) → gerbang & lemari besi (bab 2–3).
