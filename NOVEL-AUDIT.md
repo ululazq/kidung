@@ -19,7 +19,7 @@ Kondisi `novels/` per **2026-08-10**, setelah seluruh repositori ditulis ulang d
 | Novel dengan cover | 43/43 ✅ |
 | Bab di bawah band (<1.500) | **0** ✅ |
 | Bab di atas band (>2.500) | 18 (gods-in-jars 15 = pengecualian terdokumentasi; lantern-of-night 3 = disengaja) |
-| Novel dengan `continuity-report.md` | **15/43** |
+| Novel dengan `continuity-report.md` | **30/43** |
 | Novel tanpa tanggal `completed:` | **0** ✅ |
 | Placeholder/lorem/TODO di bab | **0** ✅ |
 | Folder tanpa bab | auren, skyroot (konsep), kidungverse (indeks universe) |
@@ -44,15 +44,18 @@ The-warden ch14 (2.613) **diaudit 2026-08-10 dan dipangkas ke 2.473** — dalam 
 
 ## 3. Outline: status "selesai" tidak konsisten
 
-16 novel tidak memuat penanda `selesai` di outline-nya sama sekali: sang-pemangku-fajar, sang-pembawa-angin, sang-penyimpan-bilah, the-astral-sovereign, the-clockwork-astra, the-forge, the-godherd, the-knock, the-neon-cipher, the-prism, the-unhollowed, the-unstolen, the-warden, bloodfall (3/16), the-deep-vow (1/16), the-rejoining (2/16), the-duet (2/16), the-remembering (2/16), the-unbound (1/16), the-unwritten (2/16), the-last-teacher (1/16), the-scribes (4/16), the-unheard (4/16), pasar-subuh (2/10), pegadaian-bunga (4/12), sang-garuda (5/10), tangan-guntur (8/12).
+**27 dari 43 outline tidak memverifikasi status Complete** (per 2026-08-10):
 
-Sebagian besar outline 16-bab tidak punya kolom status sama sekali (formatnya ringkasan bab, bukan tabel status) — ini bukan salah, tapi membuat status "Complete" di README tidak bisa diverifikasi dari outline. Rekomendasi: seragamkan kolom status, atau tandai README dengan jumlah bab terverifikasi.
+- **13 tanpa penanda `selesai` sama sekali**: sang-pemangku-fajar, sang-pembawa-angin, sang-penyimpan-bilah, the-astral-sovereign, the-clockwork-astra, the-forge, the-godherd, the-knock, the-neon-cipher, the-prism, the-unhollowed, the-unstolen, the-warden.
+- **14 parsial** (penanda kurang dari jumlah bab): bloodfall (3), the-deep-vow (1), the-duet (2), the-last-teacher (1), the-rejoining (2), the-remembering (2), the-scribes (4), the-unbound (1), the-unheard (4), the-unwritten (2), pasar-subuh (2), pegadaian-bunga (4), sang-garuda (5), tangan-guntur (8).
 
-## 4. Continuity report: 28 dari 43 belum ada
+Sebagian besar outline tidak punya kolom status sama sekali (formatnya ringkasan bab, bukan tabel status) — ini bukan salah, tapi membuat status "Complete" di README tidak bisa diverifikasi dari outline. Rekomendasi: seragamkan kolom status, atau tandai README dengan jumlah bab terverifikasi.
 
-Sudah ada (15): kidung-bayang-batavia, lantern-of-night, pustaka-kabut-senja, sang-pembawa-pelita, serat-penempa-hampa, the-aegis-of-aether, the-aetherium-vow, the-astral-sovereign, the-cinder-relic, the-copper-relic, the-host, the-iron-karma, the-resonance-blade, the-shadow-compiler, the-shadow-forger.
+## 4. Continuity report: 13 dari 43 belum ada
 
-Belum ada (28) — mayoritas novel 12–24 bab yang dirilis awal (bloodfall, gods-in-jars, kidung-tanah-karam, pasar-subuh, pegadaian-bunga, sang-garuda, sang-pemangku-fajar, sang-pembawa-angin, sang-penyimpan-bilah, tangan-guntur, the-clockwork-astra, the-deep-vow, the-duet, the-forge, the-godherd, the-knock, the-last-teacher, the-neon-cipher, the-prism, the-rejoining, the-remembering, the-scribes, the-unbound, the-unheard, the-unhollowed, the-unstolen, the-unwritten, the-warden).
+Sudah ada (30): bloodfall, kidung-bayang-batavia, lantern-of-night, pustaka-kabut-senja, sang-pembawa-pelita, serat-penempa-hampa, the-aegis-of-aether, the-aetherium-vow, the-astral-sovereign, the-cinder-relic, the-copper-relic, the-deep-vow, the-duet, the-forge, the-host, the-iron-karma, the-knock, the-prism, the-rejoining, the-remembering, the-resonance-blade, the-scribes, the-shadow-compiler, the-shadow-forger, the-unbound, the-unheard, the-unhollowed, the-unstolen, the-unwritten, the-warden.
+
+Belum ada (13) — mayoritas novel 12–24 bab yang dirilis awal: gods-in-jars, kidung-tanah-karam, pasar-subuh, pegadaian-bunga, sang-garuda, sang-pemangku-fajar, sang-pembawa-angin, sang-penyimpan-bilah, tangan-guntur, the-clockwork-astra, the-godherd, the-last-teacher, the-neon-cipher.
 
 ## 5. Hal kecil
 
@@ -133,7 +136,7 @@ Batas kanon agar aturan tiap universe tidak bocor satu sama lain. Sumber: `auren
 
 ## Prioritas perbaikan
 
-1. **Tulis continuity-report** untuk 28 novel yang belum (prioritas: yang baru dirilis/ber-relik unik).
+1. **Tulis continuity-report** untuk 13 novel yang belum (prioritas: yang baru dirilis/ber-relik unik; universe Auren tuntas 2026-08-10, Skyroot tuntas 2026-08-10).
 2. **Putuskan nasib auren & skyroot** — konsep yang tidak pernah ditulis.
 3. **Seragamkan status outline** atau verifikasi ulang klaim Complete via jumlah bab.
 
@@ -145,7 +148,7 @@ Situs saat ini: beranda (search + filter genre/universe + kartu novel + cover), 
 
 1. **Mode baca (reader mode)** — halaman bab kini satu halaman penuh; tambah navigasi "Bab Sebelumnya / Berikutnya" di bawah konten + progress bar posisi baca. Ini fitur paling murah dan paling sering dipakai.
 2. **Peta universe interaktif** — halaman `/universe/[name]` sudah ada; tambah grafik relasi antar novel (relik unik, karakter gema, istilah bersama dari compendium) supaya pembaca bisa menelusuri "alur paralel Bawah-Batavia" dari satu novel ke novel lain.
-3. **Kontinuitas otomatis di halaman novel** — tampilkan "terakhir diaudit" + jumlah bab dalam band. Kini semua 43 novel dalam band, jadi badge bisa membedakan novel yang sudah punya continuity-report (15) vs yang belum (28).
+3. **Kontinuitas otomatis di halaman novel** — tampilkan "terakhir diaudit" + jumlah bab dalam band. Kini semua 43 novel dalam band, jadi badge bisa membedakan novel yang sudah punya continuity-report (30) vs yang belum (13).
 4. **Pencarian lintas konten** — search sekarang hanya judul/protagonis; perluas ke sinopsis, karakter pendukung, dan istilah (mis. cari "Konsorsium Kunci" → semua novel yang menyebutnya).
 5. **Kutipan favorit / highlight** — setiap bab punya banyak kalimat kuat; tombol "salin kutipan" + daftar kutipan populer per novel menambah keterlibatan pembaca.
 6. **Estimasi baca per bab** — `readingMinutes` sudah ada untuk novel; turunkan ke level bab (kata/bab ÷ 200) agar pembaca tahu komitmen waktunya.
