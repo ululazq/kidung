@@ -2,6 +2,7 @@
 title: "Sang Penganyam"
 slug: "sang-penganyam"
 universe: "Lautan Akar"
+order: 6
 genre: "Fantasi / Drama"
 tone: "hangat, berdenyut, luka yang disembuhkan"
 language: "Indonesian"

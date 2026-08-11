@@ -2,6 +2,8 @@
 title: "Pangkal"
 slug: "pangkal"
 universe: "Lautan Akar"
+order: 5
+parallel: "sang-penjalin"
 genre: "Fantasi / Thriller"
 tone: "terburu-buru, gelap, konspiratif"
 language: "Indonesian"

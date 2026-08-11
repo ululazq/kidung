@@ -23,7 +23,9 @@
  *
  * QC struktural (selalu error bila gagal): continuity-report, outline memverifikasi
  * Complete, band 1.500–2.500 kata/bab (pengecualian gods-in-jars, lantern-of-night),
- * frontmatter bab, header bible, entitas unik, keluarga Obsidian, vokatif, klaster nama.
+ * frontmatter bab, header bible, entitas unik, keluarga Obsidian, vokatif, klaster nama,
+ * universe↔order (novel ber-universe wajib punya `order`), parallel simetris
+ * (novel yang mendeklarasikan `parallel` wajib dibalas pasangannya).
  */
 
 import { spawnSync } from "node:child_process";
@@ -50,6 +52,7 @@ Novel Pipeline — orkestrasi dari ide sampai terbit.
   scaffold
     npm run novel:scaffold -- --title "Judul Novel" [opsi...]
     Opsi: --slug <slug>  --genre "Fantasy / Steampunk"  --universe "Kidungverse"
+          --parallel <slug-pasangan>  (isi parallel dua arah: README baru + pasangan)
           --tone "gelap, berdebu"  --protagonist "Nama"  --description "Sinopsis"
           --chapters 20   (default 20)   --language "Indonesian"
     Membuat skeleton novel; bab ditulis menyusul. Slug diturunkan dari judul
@@ -119,37 +122,74 @@ function scaffold(argv) {
 
   const genre = opt(argv, "--genre") || "Fiksi";
   const universe = opt(argv, "--universe");
+  const parallel = opt(argv, "--parallel");
   const tone = opt(argv, "--tone") || "";
   const protagonist = opt(argv, "--protagonist") || "";
   const description = opt(argv, "--description") || "";
   const chapters = Number(opt(argv, "--chapters") || 20);
   const language = opt(argv, "--language") || "Indonesian";
 
+  if (parallel) {
+    if (parallel === slug) {
+      console.error("--parallel tidak boleh menunjuk ke novel itu sendiri.");
+      process.exit(1);
+    }
+    if (!existsSync(join(NOVELS_DIR, parallel))) {
+      console.error(`Novel pasangan "${parallel}" tidak ditemukan di novels/.`);
+      process.exit(1);
+    }
+  }
+
   const dir = join(NOVELS_DIR, slug);
   mkdirSync(dir, { recursive: true });
 
-  writeFileSync(join(dir, "README.md"), readmeTemplate({ title, slug, genre, universe, tone, protagonist, description, language }));
+  writeFileSync(join(dir, "README.md"), readmeTemplate({ title, slug, genre, universe, tone, protagonist, description, language, parallel }));
   writeFileSync(join(dir, "bible.md"), bibleTemplate(title));
   writeFileSync(join(dir, "outline.md"), outlineTemplate(title, chapters));
   writeFileSync(join(dir, "cover-prompt.md"), coverPromptTemplate(title));
   writeFileSync(join(dir, "continuity-report.md"), continuityStub(title));
 
   console.log(`\n✓ Skeleton ${slug} dibuat di novels/${slug}/`);
-  console.log("  README.md · bible.md · outline.md · cover-prompt.md · continuity-report.md\n");
+  console.log("  README.md · bible.md · outline.md · cover-prompt.md · continuity-report.md");
+  if (parallel) {
+    if (addParallelDeclaration(parallel, slug)) {
+      console.log(`✓ novels/${parallel}/README.md ← deklarasi parallel dua arah ditambahkan`);
+    } else {
+      console.log(`✓ novels/${parallel}/README.md sudah menyebut "${slug}" — tidak diubah`);
+    }
+  }
+  console.log("");
   console.log("Langkah berikutnya:");
   console.log(`  1. Isi bible.md (kanon nama, sistem kekuatan, protagonis/antagonis) dan outline.md`);
   console.log(`     — jangan tulis bab sebelum keduanya siap (lihat skill novel-factory-v4-pro-plus).`);
+  if (universe) {
+    console.log(`     ⚠ Novel dalam universe "${universe}" wajib mengisi \`order\` di README.md`);
+    console.log(`       (nomor urut baca serial) — tanpa itu novel tidak muncul di halaman universe.`);
+  }
+  if (parallel) {
+    console.log(`     ✓ \`parallel: "${parallel}"\` sudah ditulis di README baru; pasangan ikut`);
+    console.log(`       membalas deklarasi (dua arah) — pastikan \`order\` juga terisi.`);
+  } else if (universe) {
+    console.log(`       Bila paralel dengan novel lain, jalankan scaffold dengan`);
+    console.log(`       --parallel "<slug pasangan>" atau isi frontmatter secara manual.`);
+  }
   console.log(`  2. Tulis chapter-1.md → novel langsung muncul di situs saat build.`);
   console.log(`  3. Cek tiap tahap:  npm run novel:check ${slug}`);
   console.log(`  4. Novel selesai:   npm run novel:publish ${slug}`);
 }
 
-function readmeTemplate({ title, slug, genre, universe, tone, protagonist, description, language }) {
-  const universeLine = universe ? `universe: "${universe}"\n` : "";
+function readmeTemplate({ title, slug, genre, universe, tone, protagonist, description, language, parallel }) {
+  // Novel ber-universe wajib mengisi `order` (urutan baca serial) — tanpa itu
+  // novel tidak muncul di halaman universe; QC (novel:check/publish/verify)
+  // menggagalkan bila masih kosong. `parallel` diisi slug novel yang menceritakan
+  // peristiwa yang sama dari sisi lain (dua arah: pasangannya juga harus menyebut
+  // novel ini) — dibiarkan kosong bila novel tidak paralel.
+  const universeLine = universe ? `universe: "${universe}"\norder: ""\n` : "";
+  const parallelLine = universe || parallel ? `parallel: ${parallel ? `"${parallel}"` : '""'}\n` : "";
   return `---
 title: "${title}"
 slug: "${slug}"
-${universeLine}genre: "${genre}"
+${universeLine}${parallelLine}genre: "${genre}"
 tone: "${tone}"
 language: "${language}"
 protagonist: "${protagonist}"
@@ -407,6 +447,62 @@ Laporan ini wajib diperbarui tiap ±10 bab dan sebelum novel dinyatakan selesai
 (lihat workflows/continuity-check.md di skill novel-factory-v4-pro-plus) —
 tanpa laporan yang lengkap, novel tidak bisa dipublikasikan (novel:publish).
 `;
+}
+
+/**
+ * Balas deklarasi parallel di README novel pasangan: tambah/menambahkan slug
+ * novel baru ke field `parallel`. Bila pasangan belum punya field, ditambahkan
+ * setelah `universe` (atau `slug` bila tanpa universe). Bila sudah punya nilai
+ * lain, digabung menjadi array. Mengembalikan true bila README diubah.
+ */
+function addParallelDeclaration(partnerSlug, newSlug) {
+  const p = join(NOVELS_DIR, partnerSlug, "README.md");
+  if (!existsSync(p)) {
+    console.error(`✗ ${p} tidak ada — tidak bisa menambah deklarasi parallel.`);
+    process.exit(1);
+  }
+  const text = readFileSync(p, "utf8");
+  const fmMatch = text.match(/^---\r?\n([\s\S]*?)\r?\n---/);
+  if (!fmMatch) {
+    console.error(`✗ ${p} tidak punya frontmatter — tidak bisa menambah deklarasi parallel.`);
+    process.exit(1);
+  }
+  const fm = fmMatch[1];
+  const lineRe = /^parallel:\s*(.*)$/m;
+  const m = fm.match(lineRe);
+
+  let newFm;
+  if (m) {
+    if (m[1].trim().includes(newSlug)) return false; // sudah menyebut — biarkan
+    newFm = fm.replace(lineRe, `parallel: ${mergeParallelValue(m[1].trim(), newSlug)}`);
+  } else if (fm.match(/^(order:[^\n]*\n)/m)) {
+    newFm = fm.replace(/^(order:[^\n]*\n)/m, `$1parallel: "${newSlug}"\n`);
+  } else if (fm.match(/^(universe:[^\n]*\n)/m)) {
+    newFm = fm.replace(/^(universe:[^\n]*\n)/m, `$1parallel: "${newSlug}"\n`);
+  } else if (fm.match(/^(slug:[^\n]*\n)/m)) {
+    newFm = fm.replace(/^(slug:[^\n]*\n)/m, `$1parallel: "${newSlug}"\n`);
+  } else {
+    newFm = `parallel: "${newSlug}"\n` + fm;
+  }
+
+  writeFileSync(
+    p,
+    text.slice(0, fmMatch.index) + "---\n" + newFm + "\n---" + text.slice(fmMatch.index + fmMatch[0].length),
+  );
+  return true;
+}
+
+/** Gabungkan nilai YAML `parallel` lama dengan slug baru (string → array). */
+function mergeParallelValue(existing, newSlug) {
+  const t = existing.trim();
+  if (t.startsWith("[")) {
+    if (t.includes(newSlug)) return t;
+    return t.replace(/\]\s*$/, `, "${newSlug}"]`);
+  }
+  const slug = t.replace(/^"+|"+$/g, "").trim();
+  if (slug === newSlug) return t;
+  if (!slug) return `"${newSlug}"`;
+  return `["${slug}", "${newSlug}"]`;
 }
 
 // ---------------------------------------------------------------- check

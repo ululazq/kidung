@@ -21,6 +21,24 @@ Folder ini bukan novel — ini rumah kanon universe. Novel di universe ini dilet
 - **Jalin** — ikatan yang ditautkan pada Upacara Jalin (usia 13) di **Titik** tiap kampung. Kekuatan, harga, dan batasnya ada di `bible.md`.
 - **Kini**: **Pangkal Layu** — Pangkal mulai mati, Jalinan kehilangan ingatan, pulau-pulau hanyut. Dua novel pertama universe ini berangkat dari peristiwa yang sama dari dua sisi: `sang-penjalin` (desa yang akarnya mengingat) dan `pangkal` (kurir yang membawa kabar).
 
+## Serial (urutan baca)
+
+Urutan baca mengikuti kronologi `timeline.md`. Setiap novel memakai frontmatter `order` (1–7) agar tampil di halaman universe:
+
+| order | Novel | Posisi waktu |
+|---|---|---|
+| 1 | `sang-pemangkas` | ~120 th lalu — prequel (Pemangkasan Besar) |
+| 2 | `sang-penjaga-pangkal` | ~40 → 12 th lalu — berakhir persis sebelum `sang-penjalin` bab 1 |
+| 3 | `sang-penjaga-titik` | ~30 th lalu → kini |
+| 4 | `sang-penjalin` | kini — sisi Ayu |
+| 5 | `pangkal` | kini — sisi Jaya (paralel `sang-penjalin`) |
+| 6 | `sang-penganyam` | kini + ~1 bulan |
+| 7 | `sang-penghubung` | kini + ~2 bulan |
+
+Buku 4 & 5 (`sang-penjalin`, `pangkal`) adalah **novel paralel** — peristiwa yang sama diceritakan dari dua sisi (Ayu & Jaya) dan boleh dibaca dari sisi mana pun. Pasangan ini dideklarasikan lewat frontmatter `parallel: "<slug pasangan>"` di kedua README; halaman universe memakainya untuk penanda paralel.
+
+> Catatan: `order` di halaman universe ditampilkan sebagai "Buku N" dan menentukan "Mulai dari Awal". Novel baru di universe ini wajib diberi `order` agar tidak hilang dari serial.
+
 ## Isi
 
 - `bible.md` — kanon universe: aturan Jalin, geografi, faksi, makhluk.

@@ -1,6 +1,6 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro'
-import { getUniverse, getUniverseSummaries, readingMinutes } from '../../lib/novels'
+import { getUniverse, getUniverseSummaries, readingMinutes, type Novel } from '../../lib/novels'
 import { buildUniverseNetwork } from '../../lib/network'
 
 export async function getStaticPaths() {
@@ -20,6 +20,28 @@ const LAYER_BY_SLUG: Record<string, string> = {
   'the-deep-vow': 'Underreach',
   'the-rejoining': 'Konvergensi',
 }
+
+// Novel paralel: diumumkan lewat frontmatter `parallel` di README tiap novel
+// (mis. sang-penjalin ↔ pangkal — peristiwa yang sama diceritakan dari dua sisi,
+// boleh dibaca dari urutan mana pun). Penanda di bawah memakai data itu langsung,
+// jadi menambah pasangan baru cukup lewat frontmatter.
+const isParallel = (novel: Novel): boolean => (novel.parallel?.length ?? 0) > 0
+
+/** Judul pasangan paralel pertama (fallback ke slug). */
+const parallelPartnerTitle = (slug: string): string => {
+  const partner = universe.series.find((n) => n.slug === slug)?.parallel?.[0]
+  return universe.series.find((n) => n.slug === partner)?.title ?? partner ?? ''
+}
+
+// Ringkasan pasangan paralel serial ini, mis. "Buku 4 & 5 (Sang Penjalin & Pangkal)".
+const parallelSummary = (() => {
+  const pair = universe.series.filter((n) => isParallel(n))
+  if (pair.length < 2) return null
+  return {
+    label: `Buku ${pair.map((n) => n.order).join(' & ')}`,
+    titles: pair.map((n) => n.title).join(' & '),
+  }
+})()
 
 const totalChapters = universe.series.reduce((sum, n) => sum + n.chapterCount, 0)
 const totalWords = universe.series.reduce((sum, n) => sum + n.totalWords, 0)
@@ -81,7 +103,16 @@ const netTermNotes = new Map(network.terms.map((t) => [t.term, t.note]))
     {universe.series.length > 0 ? (
       <section class="series-section">
         <div class="section-head">
-          <h2>Serial — Urutan Baca</h2>
+          <div>
+            <h2>Serial — Urutan Baca</h2>
+            {parallelSummary && (
+              <p class="muted parallel-hint">
+                {parallelSummary.label} ({parallelSummary.titles}) berjalan{' '}
+                <strong>paralel</strong> — peristiwa yang sama diceritakan dari dua
+                sisi, boleh dibaca dari sisi mana pun.
+              </p>
+            )}
+          </div>
           {startHref && (
             <a href={startHref} class="btn btn-primary">Mulai dari Awal →</a>
           )}
@@ -90,16 +121,19 @@ const netTermNotes = new Map(network.terms.map((t) => [t.term, t.note]))
         <div class="timeline-track" id="timeline-track" aria-label="Timeline urutan baca serial">
           {universe.series.map((novel, i) => (
             <button
-              class="tl-node"
+              class={`tl-node${isParallel(novel) ? ' tl-node-parallel' : ''}`}
               data-index={i}
               aria-pressed={i === 0}
-              aria-label={`Lompat ke ${novel.title}`}
+              aria-label={`Lompat ke ${novel.title}${isParallel(novel) ? ' — novel paralel' : ''}`}
             >
               <span class="tl-dot">{novel.order}</span>
               <span class="tl-title">{novel.title}</span>
               <span class="tl-tag">
                 {LAYER_BY_SLUG[novel.slug] ?? novel.genreTags[0] ?? `Buku ${novel.order}`}
               </span>
+              {isParallel(novel) && (
+                <span class="tl-parallel">Paralel</span>
+              )}
             </button>
           ))}
         </div>
@@ -131,6 +165,13 @@ const netTermNotes = new Map(network.terms.map((t) => [t.term, t.note]))
                         {novel.status}
                       </span>
                     </div>
+                    {isParallel(novel) && (
+                      <p class="tl-parallel-note">
+                        <strong>Novel paralel</strong> — peristiwa yang sama diceritakan
+                        dari sisi lain di <strong>{parallelPartnerTitle(novel.slug)}</strong>.
+                        Bisa dibaca dari sisi mana pun.
+                      </p>
+                    )}
                     <h3>{novel.title}</h3>
                     <p class="tl-synopsis">{firstParagraph}</p>
                     <p class="tl-stats">
@@ -200,7 +241,6 @@ const netTermNotes = new Map(network.terms.map((t) => [t.term, t.note]))
               const p = netPos.get(node.slug)!
               const radius = nodeRadius(node.degree)
               const label = node.title
-              const labelX = p.x + radius + 8
               const labelY = p.y + 4
               // Posisikan label ke kiri bila node di sisi kanan lingkaran
               const anchor = p.x > NET_CX ? 'start' : 'end'
@@ -418,6 +458,31 @@ const netTermNotes = new Map(network.terms.map((t) => [t.term, t.note]))
       color: var(--text);
     }
 
+    /* Node paralel: titik putus-putus + pill "Paralel" supaya pasangan
+       terlihat sebagai satu kelompok sebelum pembaca memulai. */
+    .tl-node-parallel .tl-dot {
+      border-style: dashed;
+      border-color: color-mix(in srgb, var(--accent) 65%, var(--border-strong));
+    }
+
+    .tl-node-parallel:hover .tl-dot,
+    .tl-node-parallel[aria-pressed='true'] .tl-dot {
+      border-style: solid;
+    }
+
+    .tl-parallel {
+      font-size: 0.6875rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      font-weight: 600;
+      color: var(--accent);
+      background: color-mix(in srgb, var(--accent) 12%, transparent);
+      border: 1px solid color-mix(in srgb, var(--accent) 45%, transparent);
+      padding: 0.15rem 0.55rem;
+      border-radius: 999px;
+      white-space: nowrap;
+    }
+
     .tl-dot {
       display: flex;
       align-items: center;
@@ -506,6 +571,33 @@ const netTermNotes = new Map(network.terms.map((t) => [t.term, t.note]))
       gap: 0.75rem;
       flex-wrap: wrap;
       margin-bottom: 0.5rem;
+    }
+
+    .tl-parallel-note {
+      margin: 0 0 0.75rem;
+      font-size: 0.875rem;
+      line-height: 1.55;
+      color: var(--text-muted);
+      background: color-mix(in srgb, var(--accent) 8%, transparent);
+      border: 1px dashed color-mix(in srgb, var(--accent) 40%, transparent);
+      border-radius: var(--radius);
+      padding: 0.5rem 0.75rem;
+    }
+
+    .tl-parallel-note strong {
+      color: var(--accent);
+      font-weight: 600;
+    }
+
+    .parallel-hint {
+      margin-top: 0.4rem;
+      font-size: 0.9375rem;
+      max-width: 62ch;
+    }
+
+    .parallel-hint strong {
+      color: var(--accent);
+      font-weight: 600;
     }
 
     .tl-booknum {
@@ -1014,7 +1106,9 @@ const netTermNotes = new Map(network.terms.map((t) => [t.term, t.note]))
         return related
       }
 
-      function renderPanel(slug: string, related: Set<string>) {
+      // Arrow function (bukan function declaration) agar narrowing `netPanel`
+      // dari guard di atas ikut berlaku di dalam closure.
+      const renderPanel = (slug: string) => {
         const node = netNodes.find((n) => n.dataset.slug === slug)
         const title = node?.querySelector('.net-node-label')?.textContent?.trim() ?? slug
         const degree = edgeIndex.get(slug)?.length ?? 0
@@ -1074,7 +1168,7 @@ const netTermNotes = new Map(network.terms.map((t) => [t.term, t.note]))
         })
       })
 
-      function resetPanel() {
+      const resetPanel = () => {
         clearNetwork()
         applyTermFilter()
         netPanel.innerHTML =
@@ -1087,12 +1181,12 @@ const netTermNotes = new Map(network.terms.map((t) => [t.term, t.note]))
       netNodes.forEach((node) => {
         const slug = node.dataset.slug!
         node.addEventListener('mouseenter', () => {
-          const related = highlightNode(slug)
-          renderPanel(slug, related)
+          highlightNode(slug)
+          renderPanel(slug)
         })
         node.addEventListener('focus', () => {
-          const related = highlightNode(slug)
-          renderPanel(slug, related)
+          highlightNode(slug)
+          renderPanel(slug)
         })
         node.addEventListener('click', () => {
           window.location.href = `/novel/${slug}`

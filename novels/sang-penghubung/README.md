@@ -2,6 +2,7 @@
 title: "Sang Penghubung"
 slug: "sang-penghubung"
 universe: "Lautan Akar"
+order: 7
 genre: "Fantasi / Petualangan"
 tone: "ringan, cerewet, rute yang pulang"
 language: "Indonesian"

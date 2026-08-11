@@ -2,6 +2,8 @@
 title: "Sang Penjalin"
 slug: "sang-penjalin"
 universe: "Lautan Akar"
+order: 4
+parallel: "pangkal"
 genre: "Fantasi / Misteri"
 tone: "hening, lembap, penuh teka-teki"
 language: "Indonesian"

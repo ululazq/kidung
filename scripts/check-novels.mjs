@@ -29,6 +29,14 @@
  *   8. cover-prompt.md: novel berstatus Complete (atau mode --complete) wajib
  *      punya cover-prompt.md yang TERISI — bukan template scaffold (placeholder
  *      "#000000" / <...>). Mencegah template cover ter-push ke publik.
+ *   9. universe ↔ order: novel ber-`universe` wajib punya `order` (urutan baca
+ *      serial di halaman universe) — tanpa itu novel tidak muncul di serial
+ *      (regresi Lautan Akar 2026-08-11). Order duplikat dalam satu universe =
+ *      error; order tanpa universe = peringatan.
+ *  10. parallel simetris: novel yang mendeklarasikan `parallel` (slug novel
+ *      paralel, peristiwa yang sama dari dua sisi) wajib dibalas oleh
+ *      pasangannya — deklarasi setengah membuat penanda paralel di halaman
+ *      universe tidak konsisten.
  *
  * Cara pakai:
  *   npm run verify
@@ -189,6 +197,16 @@ function readmeStatus(base) {
   return m ? m[1].trim() : "";
 }
 
+/** Nilai field frontmatter README (string quoted atau angka) — kosong bila tidak ada. */
+function readmeField(base, key) {
+  const p = join(base, "README.md");
+  if (!existsSync(p)) return "";
+  const m = readFileSync(p, "utf8").match(
+    new RegExp(`^${key}:\\s*"?([^"\r\n]+?)"?\\s*$`, "m"),
+  );
+  return m ? m[1].trim() : "";
+}
+
 function readFrontmatter(text) {
   const m = text.match(/^---\r?\n([\s\S]*?)\r?\n---/);
   return m ? m[1] : "";
@@ -298,6 +316,26 @@ for (const name of dirs) {
   novelsData.push({ name, base, chapters });
 }
 
+// Peta universe → order → slug dan slug → parallel dari SEMUA novel (tidak ikut
+// filter --novel): dipakai mendeteksi order duplikat & simetri parallel lintas
+// novel bahkan saat mode --novel hanya memproses satu novel.
+const orderByUniverse = new Map();
+const parallelBySlug = new Map();
+for (const dirName of readdirSync(NOVELS_DIR, { withFileTypes: true })
+  .filter((d) => d.isDirectory())
+  .map((d) => d.name)
+  .filter((n) => existsSync(join(NOVELS_DIR, n, "chapter-1.md")))) {
+  const base = join(NOVELS_DIR, dirName);
+  const u = readmeField(base, "universe");
+  const o = readmeField(base, "order");
+  const p = readmeField(base, "parallel");
+  if (u && o) {
+    if (!orderByUniverse.has(u)) orderByUniverse.set(u, new Map());
+    orderByUniverse.get(u).set(o, dirName);
+  }
+  if (p) parallelBySlug.set(dirName, p);
+}
+
 if (FILTER_SLUG && novelsData.length === 0) {
   console.error(`Novel "${FILTER_SLUG}" tidak ditemukan (atau belum punya chapter-1.md).`);
   process.exit(1);
@@ -351,6 +389,35 @@ for (const { name, base, chapters } of novelsData) {
       if (cp.includes("#000000") || /<[^>\n]*[ .;:,][^>\n]*>/.test(cp)) {
         problems.push("cover-prompt.md masih template (placeholder belum diisi)");
       }
+    }
+  }
+
+  // 9) universe ↔ order: novel ber-universe wajib punya order — tanpa itu ia
+  //    hilang dari serial halaman universe (regresi Lautan Akar 2026-08-11).
+  //    Order duplikat dalam satu universe = error; order tanpa universe = warning.
+  const universe = readmeField(base, "universe");
+  const order = readmeField(base, "order");
+  if (universe && !order) {
+    problems.push(`frontmatter universe="${universe}" tanpa order — novel hilang dari serial halaman universe`);
+  } else if (universe && order) {
+    const other = orderByUniverse.get(universe)?.get(order);
+    if (other && other !== name) {
+      problems.push(`order ${order} di universe "${universe}" sudah dipakai ${other} — urutan serial ambigu`);
+    }
+  } else if (order && !universe) {
+    warnings.push(`${name}: order ${order} tanpa universe — order tidak berdampak apa pun`);
+  }
+
+  // 10) parallel simetris: novel yang menyebut pasangan harus dibalas menyebut
+  //     dirinya — pasangan setengah dideklarasikan membuat penanda paralel di
+  //     halaman universe tidak konsisten.
+  const parallel = readmeField(base, "parallel");
+  if (parallel) {
+    const partnerDir = join(NOVELS_DIR, parallel);
+    if (!existsSync(join(partnerDir, "chapter-1.md"))) {
+      problems.push(`frontmatter parallel="${parallel}" — novel pasangan tidak ditemukan di novels/`);
+    } else if (parallelBySlug.get(parallel) !== name) {
+      problems.push(`parallel tidak simetris: "${parallel}" tidak menyebut ${name} sebagai pasangannya`);
     }
   }
 

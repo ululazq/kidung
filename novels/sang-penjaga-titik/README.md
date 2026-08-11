@@ -2,6 +2,7 @@
 title: "Sang Penjaga Titik"
 slug: "sang-penjaga-titik"
 universe: "Lautan Akar"
+order: 3
 genre: "Fantasi / Tragedi"
 tone: "datar, sunyi, tangan yang memotong"
 language: "Indonesian"

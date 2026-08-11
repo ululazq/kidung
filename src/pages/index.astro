@@ -727,7 +727,6 @@ const otherGenres = genres.filter((g) => !popularGenres.includes(g))
       let visibleCount = 0
 
       cards.forEach((card) => {
-        const link = card.querySelector('a')
         const title = card.querySelector('.card-title')?.textContent?.toLowerCase() || ''
         const desc = card.querySelector('.card-desc')?.textContent?.toLowerCase() || ''
         const tags = card.dataset.tags?.split(',') || []

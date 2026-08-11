@@ -18,6 +18,8 @@ export interface NovelMeta {
   completed?: string
   universe?: string
   order?: number
+  /** Slug novel yang menceritakan peristiwa yang sama dari sisi lain (mis. sang-penjalin ↔ pangkal). */
+  parallel?: string[]
   language?: string
   featured?: boolean
 }
@@ -66,6 +68,22 @@ function splitGenre(genre: string): string[] {
     .split('/')
     .map((g) => g.trim())
     .filter(Boolean)
+}
+
+/**
+ * Frontmatter `parallel` — slug novel paralel (peristiwa yang sama dari sisi
+ * lain). Boleh string tunggal ("pangkal") atau array (["a", "b"]).
+ */
+function parseParallel(value: unknown): string[] | undefined {
+  if (typeof value === 'string') {
+    const slug = value.trim()
+    return slug ? [slug] : undefined
+  }
+  if (Array.isArray(value)) {
+    const slugs = value.map((v) => clean(v)).filter(Boolean)
+    return slugs.length ? slugs : undefined
+  }
+  return undefined
 }
 
 function countWords(body: string): number {
@@ -155,6 +173,7 @@ export async function getNovels(): Promise<Novel[]> {
         completed: clean(data.completed) || undefined,
         universe: clean(data.universe) || undefined,
         order: typeof data.order === 'number' ? data.order : undefined,
+        parallel: parseParallel(data.parallel),
         language: clean(data.language) || undefined,
         featured: data.featured === true,
         chapters,

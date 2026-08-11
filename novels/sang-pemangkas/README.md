@@ -2,6 +2,7 @@
 title: "Sang Pemangkas"
 slug: "sang-pemangkas"
 universe: "Lautan Akar"
+order: 1
 genre: "Fantasi / Tragedi"
 tone: "tragis, akar yang mengingat, pisau yang lahir"
 language: "Indonesian"

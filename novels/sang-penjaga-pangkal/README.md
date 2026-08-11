@@ -2,6 +2,7 @@
 title: "Sang Penjaga Pangkal"
 slug: "sang-penjaga-pangkal"
 universe: "Lautan Akar"
+order: 2
 genre: "Fantasi / Misteri"
 tone: "sunyi, denyut, ingatan yang menunggu"
 language: "Indonesian"

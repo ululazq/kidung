@@ -24,6 +24,13 @@ const seriesIndex = series.findIndex((n) => n.slug === novel.slug)
 const prequel = seriesIndex > 0 ? series[seriesIndex - 1]! : null
 const sequel =
   seriesIndex >= 0 && seriesIndex < series.length - 1 ? series[seriesIndex + 1]! : null
+
+// Novel paralel: pasangan yang menceritakan peristiwa yang sama dari sisi lain
+// (frontmatter `parallel` di README). Banner dengan tautan ke pasangan
+// ditampilkan bila terisi.
+const parallelLinks = (
+  await Promise.all((novel.parallel ?? []).map((p) => getNovel(p)))
+).filter((n): n is NonNullable<typeof n> => Boolean(n))
 ---
 
 <BaseLayout title={novel.title} description={novel.description}>
@@ -79,6 +86,19 @@ const sequel =
             <span class="badge">{tag}</span>
           ))}
         </div>
+
+        {parallelLinks.length > 0 && (
+          <p class="parallel-banner">
+            <span class="parallel-pill">Paralel</span>
+            <span>
+              Peristiwa yang sama diceritakan dari sisi lain di{' '}
+              {parallelLinks.map((p) => (
+                <a href={`/novel/${p.slug}`}>{p.title}</a>
+              ))}
+              . Bisa dibaca dari sisi mana pun.
+            </span>
+          </p>
+        )}
 
         <p class="description">{novel.description}</p>
 
@@ -224,6 +244,46 @@ const sequel =
       background: color-mix(in srgb, var(--accent) 14%, transparent);
       color: var(--accent);
       font-weight: 600;
+    }
+
+    /* Banner novel paralel: pasangan menceritakan peristiwa yang sama dari sisi
+       lain — tautan ke pasangan + catatan bahwa urutan baca tidak mengikat. */
+    .parallel-banner {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 0.4rem 0.75rem;
+      margin-bottom: 1.5rem;
+      padding: 0.6rem 0.9rem;
+      background: color-mix(in srgb, var(--accent) 8%, transparent);
+      border: 1px dashed color-mix(in srgb, var(--accent) 40%, transparent);
+      border-radius: var(--radius);
+      font-size: 0.9375rem;
+      line-height: 1.55;
+      color: var(--text-muted);
+    }
+
+    .parallel-pill {
+      font-size: 0.6875rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      font-weight: 600;
+      color: var(--accent);
+      background: color-mix(in srgb, var(--accent) 12%, transparent);
+      border: 1px solid color-mix(in srgb, var(--accent) 45%, transparent);
+      padding: 0.15rem 0.55rem;
+      border-radius: 999px;
+      white-space: nowrap;
+    }
+
+    .parallel-banner a {
+      color: var(--accent);
+      font-weight: 600;
+      text-decoration: none;
+    }
+
+    .parallel-banner a:hover {
+      text-decoration: underline;
     }
 
     .description {
