@@ -40,7 +40,6 @@
 
 import { readdirSync, readFileSync, existsSync } from "node:fs";
 import { join } from "node:path";
-import { spawnSync } from "node:child_process";
 
 const NOVELS_DIR = "novels";
 const BAND = { min: 1500, max: 2500 };
@@ -160,27 +159,18 @@ const DOCUMENTED_CLUSTERS = [
   ["klaster Varek×Varian", [["Komandan Varek", "the-aetherium-vow"], ["Kapten Varian", "the-aegis-of-aether"]]],
 ];
 
-// Hitungan kata kanon repo = `wc -w` (dipakai NOVEL-AUDIT). Git Bash wc
-// memperlakukan token murni tanda baca (mis. "—") sebagai BUKAN kata dan
-// tidak bisa direplikasi persis oleh \s JS (meleset puluhan kata/bab), jadi
-// script memanggil wc langsung bila tersedia; fallback JS mendekati.
-let wcCounts = null;
-
-function collectCounts(chapterPaths) {
-  const res = spawnSync("wc", ["-w", ...chapterPaths], { encoding: "utf8" });
-  if (res.status !== 0) return; // wc tidak tersedia -> fallback JS
-  wcCounts = new Map();
-  for (const line of res.stdout.split(/\n/)) {
-    const m = line.match(/^\s*(\d+)\s+(.+?)\s*$/);
-    if (m) wcCounts.set(m[2], parseInt(m[1], 10));
-  }
-}
-
+// Hitungan kata kanon repo = `wc -w` (dipakai NOVEL-AUDIT), dihitung dengan
+// JS murni agar IDENTIK di semua platform. Git Bash wc (Windows) tidak
+// menghitung token yang seluruhnya em/en-dash ("—"/"–"), sedangkan GNU wc
+// (Linux/CI) menghitungnya — selisih itu membuat CI gagal band padahal lokal
+// lolos. Aturan di bawah mereplikasi konvensi Git Bash dan sama persis di Linux.
 function countWords(path) {
-  if (wcCounts && wcCounts.has(path)) return wcCounts.get(path);
-  // Fallback (mendekati wc -w): token murni tanda baca tidak dihitung.
   const text = readFileSync(path, "utf8");
-  return text.split(/\s+/).filter(Boolean).filter((tok) => /[A-Za-z0-9]/.test(tok)).length;
+  return text
+    .split(/\s+/)
+    .filter(Boolean)
+    .filter((tok) => !/^[—–]+$/.test(tok))
+    .length;
 }
 
 function chapterNumber(file) {
@@ -288,18 +278,14 @@ console.log(
   `Memverifikasi ${FILTER_SLUG ? `novel "${FILTER_SLUG}"` : `${dirs.length} novel`} terhadap standar repo...\n`,
 );
 
-// Kumpulkan semua file bab, lalu hitung kata sekali lewat wc -w.
 const novelsData = [];
-const allChapterPaths = [];
 for (const name of dirs) {
   const base = join(NOVELS_DIR, name);
   const chapters = readdirSync(base)
     .filter((f) => /^chapter-\d+\.md$/.test(f))
     .sort((a, b) => chapterNumber(a) - chapterNumber(b));
   novelsData.push({ name, base, chapters });
-  for (const c of chapters) allChapterPaths.push(join(base, c));
 }
-collectCounts(allChapterPaths);
 
 if (FILTER_SLUG && novelsData.length === 0) {
   console.error(`Novel "${FILTER_SLUG}" tidak ditemukan (atau belum punya chapter-1.md).`);

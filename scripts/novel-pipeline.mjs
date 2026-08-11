@@ -485,16 +485,20 @@ function chapterNumber(file) {
   return m ? Number(m[1]) : Number.MAX_SAFE_INTEGER;
 }
 
+// Hitungan kata platform-independent (identik Windows & Linux CI), mereplikasi
+// konvensi `wc -w` Git Bash: token yang seluruhnya em/en-dash ("—"/"–")
+// tidak dihitung (GNU wc Linux menghitungnya — penyebab CI vs lokal beda hasil).
+function countWords(path) {
+  const text = readFileSync(path, "utf8");
+  return text
+    .split(/\s+/)
+    .filter(Boolean)
+    .filter((tok) => !/^[—–]+$/.test(tok))
+    .length;
+}
+
 function wordCounts(paths) {
-  const res = spawnSync("wc", ["-w", ...paths], { encoding: "utf8" });
-  const map = new Map();
-  if (res.status === 0) {
-    for (const line of res.stdout.split("\n")) {
-      const m = line.match(/^\s*(\d+)\s+(.+?)\s*$/);
-      if (m) map.set(m[2], Number(m[1]));
-    }
-  }
-  return map;
+  return new Map(paths.map((p) => [p, countWords(p)]));
 }
 
 function status() {
