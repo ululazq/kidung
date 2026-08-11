@@ -26,6 +26,9 @@
  *      Bila novel baru sengaja memakai ulang nama yang sudah ada sebagai gema
  *      kanon (pola "Nama Gema" compendium seksi 6), hapus entitas itu dari
  *      UNIQUE_ENTITIES dan catat klasternya di compendium dulu.
+ *   8. cover-prompt.md: novel berstatus Complete (atau mode --complete) wajib
+ *      punya cover-prompt.md yang TERISI — bukan template scaffold (placeholder
+ *      "#000000" / <...>). Mencegah template cover ter-push ke publik.
  *
  * Cara pakai:
  *   npm run verify
@@ -178,6 +181,14 @@ function chapterNumber(file) {
   return m ? parseInt(m[1], 10) : Infinity;
 }
 
+/** Status README frontmatter ("Complete" / "In Progress" / ...) — kosong bila tidak ada. */
+function readmeStatus(base) {
+  const p = join(base, "README.md");
+  if (!existsSync(p)) return "";
+  const m = readFileSync(p, "utf8").match(/^status:\s*"?([^"\r\n]+?)"?\s*$/m);
+  return m ? m[1].trim() : "";
+}
+
 function readFrontmatter(text) {
   const m = text.match(/^---\r?\n([\s\S]*?)\r?\n---/);
   return m ? m[1] : "";
@@ -323,6 +334,24 @@ for (const { name, base, chapters } of novelsData) {
     }
   } else {
     problems.push("outline.md tidak ada");
+  }
+
+  // 8) cover-prompt: novel Complete / gate publish wajib punya cover yang
+  //    terisi (bukan template scaffold) — cegah template cover ter-push
+  //    (regresi 2026-08-11: 5 novel Lautan Akar masih placeholder).
+  if (COMPLETE_MODE || readmeStatus(base) === "Complete") {
+    const coverPath = join(base, "cover-prompt.md");
+    if (!existsSync(coverPath)) {
+      problems.push("cover-prompt.md tidak ada");
+    } else {
+      const cp = readFileSync(coverPath, "utf8");
+      // Template scaffold: palet placeholder #000000, atau placeholder
+      // <...> / <frasa berisi spasi>. Konvensi path `public/covers/<slug>`
+      // (token tunggal) bukan placeholder dan tidak boleh ditandai.
+      if (cp.includes("#000000") || /<[^>\n]*[ .;:,][^>\n]*>/.test(cp)) {
+        problems.push("cover-prompt.md masih template (placeholder belum diisi)");
+      }
+    }
   }
 
   // 3) band bab
