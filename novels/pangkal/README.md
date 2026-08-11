@@ -7,9 +7,9 @@ tone: "terburu-buru, gelap, konspiratif"
 language: "Indonesian"
 protagonist: "Jaya, penghubung yang mengantar pesan rahasia"
 description: "Kurir Jaya membawa kabar bahwa Pangkal sedang mati — dan pemangkasnya sudah tahu dia datang."
-status: "In Progress"
+status: "Complete"
 started: "2026-08-10"
-completed: ""
+completed: "2026-08-11"
 ---
 
 # Pangkal
@@ -24,11 +24,15 @@ Di dunia tempat akar mengingat segalanya, Jaya harus memilih antara aturan pengh
 
 ## Karakter
 
-- **Jaya (24)**: penghubung; putra Rangga; aturan pertama baginya adalah tidak penasaran
-- **Rangga**: ayah Jaya, penghubung; hilang 12 tahun lalu; pembawa akar kedua
-- **Pak Wiryo (60s)**: penghubung senior yang mati menyerahkan pesan terakhir
+- **Jaya (24)**: penghubung; putra Rangga; aturan pertama baginya adalah tidak penasaran — dan ia belajar melanggarnya demi pesan ayahnya
+- **Rangga**: ayah Jaya, penghubung; hilang 12 tahun lalu; pembawa akar kedua; namanya dipulihkan di sidang Dewan
+- **Pak Wiryo (60s)**: penghubung senior yang mati menyerahkan pesan terakhir; meninggalkan daftar nama yang dihapus
+- **Bu Nilam**: kepala asrama penghubung yang membesarkan Jaya; menyimpan catatan Rangga
+- **Wibawa**: anggota Dewan baru; teman Pak Wiryo
+- **Dina (14)**: anak Mak Inah; menuntun Jaya lewat Jalur Tua
 - **Juru Potong**: operatif Pemangkas; dua bayangan di Jembatan Mati
 - **Mak Inah**: kepala Kampung Ranting (menyilang dari `sang-penjalin`)
+- **Ayu**: penjalin Ranting; Penjaga Akar Kedua di Pangkal (menyilang dari `sang-penjalin`)
 
 ## Sistem Jalin
 
