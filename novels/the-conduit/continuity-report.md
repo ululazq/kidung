@@ -50,6 +50,7 @@ Kestrel, Nell, Vann, Fenn, Hugo, Tamsin, Eira, Cassian, Wisp, Orana, Gorr, Dagan
 - ✓ Lie Kestrel ("harus membuktikan diri") → retak (21–22) → dikalahkan (28: "kau sudah cukup") → resolusi (30)
 - ✓ Lie Cassian ("harga diri = pengukuran") → retak (25: duel) → menebus (28) → bebas (29–30)
 - ✓ Lie Orun ("tanpa the Weight dunia hancur") → diuji (27) → terbukti salah (28–29: kekacauan, tapi dunia belajar)
+- ✓ Orun (penjaga sistem) → dilucuti & digiring Vesna di the Seat (28) → ikut turun & menyaksikan dunia tidak terbakar (29) → mengakui "aku salah tentang orang-orang" (29, Need sebagian) → catatan sejarah sejati ke Vann, hidup sebagai orang biasa di Lumenwood (30)
 - ✓ Lie Vesna (keluarga sebagai alasan) → memilih turunkan senjata (27)
 - ✓ Corbin (mata-mata) → konsekuensi lewat Orun (27–29)
 - ✓ Wisp → King of the Wisps (30)

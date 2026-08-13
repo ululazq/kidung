@@ -31,6 +31,20 @@ Bukan karena mereka selesai — tetapi karena mereka tidak bisa menyelesaikan ap
 
 Mereka turun melalui gerbang raja langit — dan the King of the Cloudwhales, yang rantainya telah jatuh, menundukkan kepalanya ketika mereka lewat, seperti orang yang sedang memberi salam. Mereka turun melalui the Quiet Vald — dan rumah-rumah yang tertutup itu mulai terbuka, dan orang-orang yang selama ini hanya menonton mulai keluar, dengan wajah yang tidak tahu harus percaya pada apa. Mereka turun melalui the Ash Steps — dan untuk pertama kalinya, tangga itu tidak menarik Breath mereka, karena tidak ada lagi yang meminumnya.
 
+Orun turun bersama mereka.
+
+Bukan karena mereka memintanya — tetapi karena ia yang memintanya sendiri, kepada Vesna, ketika Vesna menggiringnya dari sumur itu. "Aku ingin melihat," katanya, "dunia yang tidak akan terbakar." Vesna menatapnya lama sebelum mengangguk. Kini ia berjalan di belakang mereka, dua orang berseragam hitam-perak di sampingnya, Vesna di belakangnya — bukan untuk menjaganya, tetapi untuk memastikan ia melihat.
+
+Di the Ash Steps, tempat orang-orang pernah mati duduk, Orun berhenti.
+
+Kestrel tidak menoleh, tetapi ia merasakannya: langkah itu berhenti, dan di belakangnya, keheningan yang aneh. Ketika ia akhirnya menoleh, Orun berdiri di anak tangga yang sama tempat kerangka-kerangka pernah berbaris — tetapi tangga itu kosong sekarang, dan di bawahnya, orang-orang berjalan, bernapas, tanpa ada yang meminum mereka.
+
+"Kau tahu berapa banyak yang mati di sini?" kata Orun, pelan, tanpa menoleh. "Mereka duduk untuk beristirahat — dan tidak pernah bangun lagi. Selama dua ratus tahun, aku menyebutnya harga ketertiban."
+
+"Aku tahu," kata Kestrel.
+
+"Dan sekarang—" Orun tidak menyelesaikan kalimatnya. Ia menatap orang-orang yang berjalan di bawah itu lama, lalu berbalik dan melanjutkan turun, tanpa berkata apa-apa lagi.
+
 Dan di setiap sabuk, mereka menemukan hal yang sama: dunia yang sedang belajar bernapas, dan tidak semua orang tahu caranya.
 
 Di Markethold, dua orang berkelahi di pasar — memperebutkan sesuatu yang tidak penting, tetapi dengan Breath yang baru, yang melonjak, yang tidak tahu cara mengendalikan diri. Kestrel tidak turun tangan. Nell yang turun tangan — berjalan ke tengah, menaruh tangannya di bahu kedua orang itu, dan untuk sesaat, tiga denyut itu menjadi satu, dan kemarahan itu mereda.
@@ -41,7 +55,11 @@ Di Markethold, dua orang berkelahi di pasar — memperebutkan sesuatu yang tidak
 
 Di Belt Two, kawanan Dewhorses berlari melintasi ladang-ladang yang selama ini kosong — dan di depan mereka, Orana, yang berhenti di tepi kampung dan menundukkan kepalanya, dan anak-anak yang selama ini takut pada makhluk liar mulai mendekat, pelan, dan menyentuhnya. Di Belt Five, badai yang diam itu tidak lagi menakutkan — ia hanya ada, seperti langit yang sedang bernapas — dan konvoi-konvoi yang dulu harus membayar untuk menyeberang sekarang menyeberang tanpa *Charter*, dan tidak ada yang meminum napas mereka.
 
-"Kau tahu," kata Tamsin, di malam ketiga, ketika mereka berkemah di tepi Lumenwood, "ini yang Orun takutkan. Kekacauan. Dunia yang tidak lagi ditekan."
+Malam ketiga, ketika mereka berkemah di tepi Lumenwood, Orun duduk di sisi lain api.
+
+Ia tidak makan. Ia tidak tidur. Ia hanya menatap api itu — dan sesekali, ke arah sabuk-sabuk yang jauh di bawah, tempat lampu-lampu mulai menyala satu per satu, seperti dunia yang sedang bangun.
+
+"Kau tahu," kata Tamsin, pelan, "ini yang Orun takutkan. Kekacauan. Dunia yang tidak lagi ditekan."
 
 "Dan?" tanya Kestrel.
 
@@ -51,7 +69,23 @@ Di Belt Two, kawanan Dewhorses berlari melintasi ladang-ladang yang selama ini k
 
 "Karena kita belajar juga," ulang Tamsin. "Dan aku pikir itulah yang tidak pernah ia pahami: bahwa ketertiban tidak harus dibangun dari takut. Ia bisa dibangun dari orang-orang yang sedang belajar bernapas bersama."
 
+Keheningan itu panjang — dan kemudian, dari sisi lain api, Orun berbicara.
+
+"Aku melihat semuanya," katanya, tanpa menoleh dari api itu. "the Ash Steps. Pasar itu. Anak-anak yang menyentuh kuda betina. Konvoi yang menyeberang tanpa Charter."
+
+Di seberang api, Kestrel menatapnya — dan untuk sesaat, sangat singkat, ia melihat sesuatu di wajah tua itu yang belum pernah ia lihat: bukan kemarahan, bukan kelelahan, tetapi sesuatu yang tidak berani ia beri nama.
+
+"Empat puluh tahun lalu," kata Orun, pelan, "aku menyaksikan kakakku mati di Belt Five — dibunuh oleh orang-orang yang melepaskan diri mereka sekaligus. Aku membangun Siphons untuk itu. Dan aku tidak pernah bertanya apakah ada cara lain. Aku tidak pernah membiarkan dunia mencobanya."
+
+Api itu berderak di antara mereka.
+
+"Dunia tidak terbakar," katanya, dan untuk pertama kalinya, suaranya pecah. "Aku salah tentang orang-orang. Aku hanya tidak tahu berapa lama aku salah — dan aku tidak tahu apakah aku bisa berhenti menjadi salah."
+
+Tidak ada yang menjawab. Di seberang api, Orun menundukkan kepalanya — dan untuk pertama kalinya sejak the Seat, ia tidak terlihat seperti penjaga. Ia terlihat seperti orang tua yang telah menjaga pintu yang tidak perlu dijaga.
+
 ---
+
+Keesokan paginya, ketika mereka berangkat ke Shaleport, Orun tidak ikut. "Aku ingin melihat lebih banyak," katanya, "sebelum aku tahu apa yang harus kupercaya." Dua orang berseragam hitam-perak tinggal bersamanya.
 
 Di malam keempat, mereka sampai di Shaleport.
 

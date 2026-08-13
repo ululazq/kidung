@@ -63,7 +63,7 @@ Keheningan itu sangat panjang.
 
 "Tidak," kata Kestrel. "Kita tidak bisa."
 
-Orun mengangguk — pelan, seperti orang yang baru saja menyelesaikan perhitungan yang sudah lama ia ketahui jawabannya. Lalu ia melangkah ke arah sumur itu, dan meletakkan tangannya di atas salah satu pipa — dan Kestrel merasakannya: denyut sumur itu berubah. Delapan pipa itu berdenyut lebih cepat. *the First Breath* berdenyut lebih lemah.
+Orun mengangguk — pelan, tanpa kemarahan, tanpa keterkejutan. Di mata Kestrel, itu anggukan orang yang telah lama tahu bagaimana percakapan ini akan berakhir — bukan kemenangan, bukan kekalahan, tetapi kepastian yang tenang. Lalu ia melangkah ke arah sumur itu, dan meletakkan tangannya di atas salah satu pipa — dan Kestrel merasakannya: denyut sumur itu berubah. Delapan pipa itu berdenyut lebih cepat. *the First Breath* berdenyut lebih lemah.
 
 "Aku tidak bisa menghentikan kalian," kata Orun, "tetapi aku bisa memperlambat kalian. Selama the First Breath masih berdenyut, selama Siphons masih meminumnya, selama aku masih berdiri — kalian tidak akan menyentuh sumur ini."
 

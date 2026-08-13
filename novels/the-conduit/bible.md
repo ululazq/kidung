@@ -36,7 +36,7 @@ Ejaan baku. Semua nama proper di bab mana pun harus ada di sini.
 | Proktor Bahtra | proktor Regu 24 | pendek, suara serak; "regu terbaik bernapas dengan irama yang sama" (bab 6) |
 | Keeper Veyra | penjaga arsip akademi | tua, menyimpan buku yang halamannya tidak dipotong; menyalin latihan vethar untuk Vann (bab 6) |
 | Corbin | juru tulis tua Saltwind, mata-mata Orun | menjaga buku-buku Saltwind; tahu semua rute/nama; mengkhianati ke Orun (bab 20): nama, rute, dan rahasia Wisp; meninggalkan Saltwind ke Charterhall |
-| Vesna | pemimpin the First Squad (menggantikan Cassian) | perempuan berambut pendek, bekas luka di alis; keluarga di Belt Two; patuh pada Orun; "aku punya keluarga yang harus membayar Charter" (bab 16); mengejar buku |
+| Vesna | pemimpin the First Squad (menggantikan Cassian); lalu memilih keluar | perempuan berambut pendek, bekas luka di alis; keluarga di Belt Two; patuh pada Orun; "aku punya keluarga yang harus membayar Charter" (bab 16); mengejar buku; melucuti & menggiring Orun di the Seat (bab 28) |
 | Dagan | ayah Tamsin, pemilik Saltwind Company | tua, lelah, skeptis; "kalau kalian kembali, bayarannya menunggu" (bab 9); aturan: jangan buka yang tidak tertulis di kontrak; "Saltwind tidak menjual orang" (bab 13); menitipkan kotak besi (bab 14) |
 | Greta | penjaga rumah aman the Unchartered | tua, serak, hidup 60+ tahun tanpa Charter; "jangan mati sebelum waktunya" (bab 14) |
 
@@ -122,7 +122,8 @@ Ejaan baku. Semua nama proper di bab mana pun harus ada di sini.
 - **Want**: melestarikan sistem — the Weight, Charter, dan monopoli Spire Company — apa pun harganya.
 - **Need**: mengakui bahwa tangga yang ia jaga adalah sumber penderitaan yang ia takutkan — dan bahwa ketertiban bisa dibangun dari kepercayaan, bukan tekanan.
 - **Pembelaan dirinya**: "Aku melihat apa yang terjadi ketika the Weight gagal. Empat puluh tahun lalu, Belt Five menjadi pembantaian — orang yang sama-sama punya Breath saling membunuh untuk satu Rung lebih. Aku membangun Siphons supaya itu tidak pernah terjadi lagi. Kalau tangga ini kejam, setidaknya ia bisa diprediksi. Kalian menyebutku pencuri. Aku menyebutku penjaga — penjaga satu-satunya hal yang mencegah kalian saling menghabisi."
-- **Jadwalnya**: (lihat outline — bab 10 sponsor, 13 tawaran, 14 cabut Charter, 20 sandera Nell, 27 konfrontasi, 29 jatuh).
+- **Jadwalnya**: (lihat outline — bab 10 sponsor, 13 tawaran, 14 cabut Charter, 20 sandera Nell, 27 konfrontasi, 28 dilucuti & digiring Vesna, 29 menyaksikan dunia tidak terbakar & mengakui — Need sebagian, 30 nasib akhir).
+- **Nasib (bab 30)**: dua bulan menulis catatan sejarah sejati (nama-nama dipangkas, Rung dihapus, kontrak tersembunyi, sejarah Siphons) → diserahkan ke Vann; datang sendiri ke the Screening baru — "kalian adalah yang tidak pernah kuizinkan untuk ada"; lalu hidup sebagai orang biasa di Lumenwood (dua penjaganya dibebaskan). Tidak membangun the Accord — ia hanya memberi kebenaran, bukan mengambil kekuasaan.
 
 ## Antagonis personal — Cassian
 
@@ -193,9 +194,9 @@ Ejaan baku. Semua nama proper di bab mana pun harus ada di sini.
 | 25 | hari ke-78 (POV Cassian): duel Cassian vs Kestrel — Kestrel bertahan tanpa menyerang; Lie Cassian retak ("kalau tangga bohong, aku bukan apa-apa"); Cassian memilih bergabung | lembah sunyi sebelum puncak | Cassian, Kestrel, regu |
 | 26 | hari ke-81: the Summit (Belt Nine); King of the Cloudwhales yang dirantai melingkari puncak — tidak bisa dilewati; kotak besi dibuka (diagram Siphons + titik sambungan di the Seat); Accord 7+1 tak penuh — raja langit menunduk & membuka celah; masuk ke the Seat (sumur the First Breath) | the Summit → gerbang raja langit → the Seat | regu (7), Wisp, Vann, King of the Cloudwhales |
 | 27 | hari ke-82: konfrontasi Orun di the Seat — pembelaan "penjaga ketertiban" (the Old Rupture, kakaknya); Orun mempercepat Siphons; Vesna memilih turunkan senjata; rencana: putuskan sambungan besok | the Seat (sumur the First Breath) | regu (7), Vann, Vesna, Orun, pasukan Spire Company |
-| 28 | hari ke-83 (klimaks): Accord penuh 7+Wisp+the First Breath — Siphons kehabisan, berhenti; the Weight runtuh; jantung Kestrel nyaris berhenti (Lie-nya diserang Cassian: "kau sudah cukup"); para King datang (the Storm-King, Orana, Gorr, the King of the Cloudwhales — rantainya jatuh) menstabilkan sabuk | the Seat → seluruh Syrin | regu (7), Wisp, Vann, Vesna, para King, semua sabuk |
-| 29 | hari ke-86: turun dari the Seat; dunia belajar bernapas (Markethold, Orana, konvoi tanpa Charter); malam ke-4 tiba di Shaleport — pulang, ibunya; keputusan: ajarkan the Accord kepada semua orang | the Seat → Markethold → Lumenwood → Shaleport | regu (7), Wisp, Vann, ibunda Kestrel, Orana, penduduk sabuk |
-| 30 | 2 bulan setelah the Weight runtuh: the Screening baru (mengukur Accord, bukan Breath tunggal); Wisp berganti kulit terakhir → jadi King of the Wisps, meninggalkan seekor Wisp baru; Rung 81 = nama untuk the Accord; malam penutup bersama semua orang | Shaleport | Kestrel, Wisp (King of the Wisps), Wisp baru, regu (7), Vann, Vesna, Dagan, ibunda Kestrel |
+| 28 | hari ke-83 (klimaks): subuh — Orun dilucuti & digiring Vesna (sumur tidak lagi dijaga); Accord penuh 7+Wisp+the First Breath — Siphons kehabisan, berhenti; the Weight runtuh; jantung Kestrel nyaris berhenti (Lie-nya diserang Cassian: "kau sudah cukup"); para King datang (the Storm-King, Orana, Gorr, the King of the Cloudwhales — rantainya jatuh) menstabilkan sabuk | the Seat → seluruh Syrin | regu (7), Wisp, Vann, Vesna, Orun, para King, semua sabuk |
+| 29 | hari ke-86: turun dari the Seat — Orun ikut (atas permintaannya) & menyaksikan dunia tidak terbakar (the Ash Steps: "harga ketertiban", Markethold, Orana, konvoi tanpa Charter); malam ke-3: mengakui "aku salah tentang orang-orang" (Need sebagian) lalu tinggal di Lumenwood; malam ke-4 tiba di Shaleport — pulang, ibunya; keputusan: ajarkan the Accord kepada semua orang | the Seat → Markethold → Lumenwood → Shaleport | regu (7), Wisp, Vann, Orun, Vesna, ibunda Kestrel, Orana, penduduk sabuk |
+| 30 | 2 bulan setelah the Weight runtuh: the Screening baru (mengukur Accord, bukan Breath tunggal); Orun datang sendiri melihat — menyerahkan catatan sejarah sejati ke Vann, lalu kembali ke Lumenwood; Wisp berganti kulit terakhir → jadi King of the Wisps, meninggalkan seekor Wisp baru; Rung 81 = nama untuk the Accord; malam penutup bersama semua orang | Shaleport | Kestrel, Wisp (King of the Wisps), Wisp baru, regu (7), Vann, Vesna, Dagan, ibunda Kestrel, Orun |
 
 Jarak tempuh antar lokasi: Belt One→Two (gerbang akademi) 3 hari jalan; Belt Two→Three 5 hari; Belt Three→Four 6 hari; Belt Four→Five 9 hari; Belt Five→Six 1 pekan lewat gerbang Storm; Belt Six→Seven 10 hari; Belt Seven→Eight 2 pekan (the Ash Steps); Belt Eight→Nine 3 pekan. Musim: mendaki di musim kering; Twin Night dua kali setahun (puncak pasang Breath).
 
@@ -307,18 +308,19 @@ Jarak tempuh antar lokasi: Belt One→Two (gerbang akademi) 3 hari jalan; Belt T
 | 26 | the King of the Cloudwhales (dirantai) menunduk & membuka celah — menunggu 200 tahun | aktif (bab 28–29) |
 | 26 | the Seat = sumur the First Breath; delapan Siphons bertemu di satu titik yang bisa diputus | aktif (bab 27–28) |
 | 26 | rantai the King of the Cloudwhales belum putus — hanya celah yang terbuka | aktif (bab 28) |
-| 27 | Orun mempercepat Siphons — the First Breath berdenyut lebih lemah (tenggat) | aktif (bab 28) |
-| 27 | Vesna memilih turunkan senjata — "aku tidak akan menjadi alat lagi" | aktif (bab 28–29) |
-| 27 | Vann: "penjaga yang memakan yang ia jaga bukanlah penjaga — ia pemangsa" | aktif |
+| 27 | Orun mempercepat Siphons — the First Breath berdenyut lebih lemah (tenggat) | ditembakkan (bab 28: digiring Vesna sebelum Accord) |
+| 27 | Vesna memilih turunkan senjata — "aku tidak akan menjadi alat lagi" | ditembakkan (bab 28: melucuti & menggiring Orun) |
+| 27 | Vann: "penjaga yang memakan yang ia jaga bukanlah penjaga — ia pemangsa" | ditembakkan (bab 29: Orun "tak lagi terlihat seperti penjaga") |
 | 27 | rencana: memutus sambungan di titik kosong diagram → the Weight runtuh → butuh the Accord + para King untuk menstabilkan | ditembakkan (bab 28) |
 | 28 | Siphons berhenti (tidak bisa meminum yang bernapas sebagai satu); the First Breath bernapas lagi | aktif (bab 29–30) |
 | 28 | jantung Kestrel nyaris berhenti — Cassian: "kau sudah cukup, bernapaslah untuk dirimu sendiri" | aktif (bab 29–30) |
 | 28 | rantai the King of the Cloudwhales jatuh (Siphons mati); para King datang menstabilkan sabuk | dipakai bab 29 |
-| 28 | the Weight runtuh — kekacauan sesaat, ketakutan Orun nyaris nyata | ditembakkan (bab 29: dunia belajar, Nell menenangkan, Orana, konvoi tanpa Charter) |
+| 28 | the Weight runtuh — kekacauan sesaat, ketakutan Orun nyaris nyata | ditembakkan (bab 29: dunia belajar; Orun ikut turun, menyaksikan, mengakui "aku salah tentang orang-orang") |
 | 29 | Nell menenangkan dua orang bertengkar (denyut lebih tenang) | aktif |
 | 29 | keputusan: ajarkan the Accord kepada semua orang — bukan tangga baru, tapi sambungan | dipakai bab 30 |
 | 29 | Kestrel pulang ke Shaleport — ibunya, "aku selalu tahu" | aktif (bab 30) |
 | 29 | Cassian: "aku tidak pernah merasa lebih bebas" | ditembakkan (bab 30) |
+| 29 | Orun tinggal di Lumenwood — "ingin melihat lebih banyak, sebelum aku tahu apa yang harus kupercaya" | ditembakkan (bab 30: catatan sejarah → Vann; hidup sebagai orang biasa) |
 | 30 | the Screening baru mengukur Accord, bukan Breath tunggal | ditembakkan (bab 30) |
 | 30 | Wisp jadi King of the Wisps — meninggalkan seekor Wisp baru (spesies kembali) | ditembakkan (bab 30) |
 | 30 | Rung 81 = nama untuk the Accord (yang tidak bisa diukur/dipangkas) | ditembakkan (bab 30) |
@@ -369,7 +371,7 @@ Aturan: apa pun yang diberi penekanan tak biasa harus terpakai dalam 10 bab.
 ## Suara & Gaya Novel
 
 - **POV / tense**: orang ketiga terbatas · lampau. Dominan Kestrel; pindah ke Eira (bab 18), Fenn (bab 22), Cassian (bab 25) di jeda adegan — satu POV per adegan.
-- **Register**: "aku/kamu" antar regu; "saya/Anda" saat berhadapan dengan otoritas Vessani — pergeseran itu bermakna; istilah sistem (Breath, Rungs, Charter, the Weight, the Accord, the Conduit, familiar, the Screening, the Companies, the Seat, the Trials) ditulis Inggris dan dimiringkan saat pertama muncul di tiap bab.
+- **Register**: "aku/kamu" antar regu; "saya/Anda" saat berhadapan dengan otoritas Vessani — pergeseran itu bermakna; istilah sistem (Breath, Rungs, Charter, the Weight, the Accord, the Conduit, familiar, the Screening, the Companies, the Seat, the Trials, the Reeds, Siphon, Breathbearer) ditulis Inggris dan dimiringkan saat pertama muncul di tiap bab.
 - **Tekstur bahasa**: di antara padat dan kaya-sensorik; kalimat pendek–sedang; detail indra: bau garam dan asap, suhu dingin ketinggian, suara denyut sebagai motif.
 - **Ritme**: adegan aksi = kalimat pendek, kata kerja kuat, metafora denyut/irama; refleksi = boleh panjang, maksimal dua berturut-turut.
 - **Batas genre (dilarang di novel ini)**: tidak ada isekai/regresi; tidak ada romansa yang menyelesaikan konflik; tidak ada "yang terpilih" — Kestrel bukan wadah takdir, ia yang terakhir dari garis yang dihapus; tidak ada jendela sistem/LitRPG — Rungs dirasakan sebagai beban dan kekuatan, bukan angka melayang; creature hanya pendukung — manusia yang bertarung; tidak ada kematian yang dibatalkan.

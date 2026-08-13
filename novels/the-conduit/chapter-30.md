@@ -41,6 +41,34 @@ Kestrel menatap anak-anak itu — yang berdiri berpasangan, bernapas serentak, d
 
 "Kau yang memulai." Cassian menatapnya. "Kau yang membawa buku itu. Kau yang memutuskan rantai the Storm-King. Kau yang berjalan ke arah *the First Breath* ketika semua orang mengatakan itu mustahil. Kau bisa memanggil dirimu bukan apa-apa — tetapi seluruh dunia tahu siapa kau."
 
+Di tepi halaman, seorang lelaki tua berdiri — rambut putih, jubah hitam-perak yang sudah pudar, tanpa lencana apa pun. Orun.
+
+Ia tidak datang untuk menjadi bagian dari apa pun. Ia datang untuk melihat — seperti yang ia katakan di Lumenwood, dua bulan lalu: melihat lebih banyak, sampai ia tahu apa yang harus ia percayai.
+
+Kestrel menoleh. Untuk sesaat, dua orang yang pernah berdiri di dua sisi sumur itu saling menatap — dan tidak ada kebencian di antara mereka. Tidak ada yang tersisa untuk dibenci.
+
+"Aku menghabiskan dua bulan menuliskan semuanya," kata Orun, pelan, ketika Kestrel mendekat. "Nama-nama yang dipangkas. Rung yang dihapus dari catatan. Kontrak-kontrak yang disembunyikan. Sejarah Siphons yang asli — bukan yang kuizinkan untuk ditulis." Ia menatap anak-anak yang bernapas serentak itu. "Aku memberikannya kepada Vann, pagi ini. Supaya tidak ada yang bisa memangkas tangga itu lagi — karena semua orang akan tahu semua anak tangganya."
+
+"Aku tahu," kata Kestrel, pelan.
+
+"Kau tahu," ulang Orun, dan untuk sesaat, sesuatu yang hampir seperti senyum lewat di wajah tua itu. "Kau tahu segalanya, anak kosong. Itulah yang membuatku takut padamu sejak awal."
+
+"Maka kau takut pada hal yang salah," kata Kestrel. "Aku tidak pernah ingin meruntuhkan dunia. Aku hanya ingin dunia yang tidak perlu diruntuhkan."
+
+Orun menatapnya lama. Lalu ia menatap anak-anak itu lagi — yang berdiri berpasangan, bernapas serentak, dengan proktor yang mencatat irama, bukan angka — dan untuk sesaat, sangat singkat, wajah tua itu berubah: bukan penyesalan, tetapi pengertian.
+
+"Aku membangun sistem yang mengukur orang dan membuang yang tidak cocok," katanya, pelan. "Aku menyebutnya ketertiban. Aku menyebutnya perlindungan. Dan aku tidak pernah bertanya apa yang terjadi pada orang-orang yang kubuang — karena aku takut pada jawabannya." Ia menatap Kestrel. "Kau adalah jawabannya. Kau dan regumu. Kalian bukan apa yang kutakutkan. Kalian adalah yang tidak pernah kuizinkan untuk ada."
+
+Untuk sesaat, hanya suara anak-anak yang bernapas serentak yang memenuhi halaman itu.
+
+"Berapa lama kau tinggal?" tanya Kestrel.
+
+"Sebentar saja." Orun menatap anak-anak itu. "Aku hanya ingin melihat ini sekali. Lalu aku kembali ke Lumenwood — untuk menulis hal yang belum pernah kulihat selama dua ratus tahun." Ia berhenti. "Sejarah dunia yang bernapas."
+
+Ia menoleh — mata tuanya, pucat seperti mata Cassian, menatap Kestrel tanpa permusuhan. "Terima kasih," katanya, pelan. "Karena telah menunjukkan bahwa pintu yang kujaga itu tidak perlu dijaga — dan karena tidak menutupnya di hadapanku."
+
+Tanpa menunggu jawaban, ia berbalik dan berjalan pergi — pelan, seperti orang tua yang tidak lagi terburu-buru — dan Kestrel membiarkannya pergi.
+
 ---
 
 Sore itu, sebelum Wisp berganti kulit untuk terakhir kalinya, ibunya menemui Kestrel di halaman.

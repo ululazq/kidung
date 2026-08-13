@@ -88,6 +88,6 @@ Satu baris per bab. Format: perubahan status → status lama jadi status baru.
 | 25 | Cassian | 3 (GCD, GCD, RDD) | duel Cassian vs Kestrel; Lie Cassian retak — "kalau tangga bohong, aku bukan apa-apa" | selesai |
 | 26 | Kestrel | 3 (GCD, GCD, RDD) | Belt Nine, the Summit; gerbang terakhir: King of the Cloudwhales yang dirantai | selesai |
 | 27 | Kestrel | 2 (GCD, RDD) | konfrontasi Orun; pembelaan "penjaga ketertiban"; Eira & Nell memilih posisi | selesai |
-| 28 | Kestrel | 3 (GCD, GCD, GCD) | klimaks: Siphons dibongkar lewat the Accord — seluruh regu + para King sebagai satu denyut; jantung Kestrel nyaris berhenti; Cassian menebus | selesai |
-| 29 | Kestrel | 3 (GCD, RDD, GCD) | the Weight turun; kekacauan sesaat — orun's fear nyaris nyata; the Accord + King + Unchartered menstabilkan dunia | selesai |
-| 30 | Kestrel | 3 (RDD, RDD, GCD) | resolusi: Charter dibuka; Screening baru mengukur Accord; the Strays jadi fondasi; Wisp jadi King of the Wisps; seekor Wisp baru lahir | selesai |
+| 28 | Kestrel | 3 (GCD, GCD, GCD) | klimaks: subuh — Orun dilucuti & digiring Vesna; Siphons dibongkar lewat the Accord — seluruh regu + para King sebagai satu denyut; jantung Kestrel nyaris berhenti; Cassian menebus | selesai |
+| 29 | Kestrel | 3 (GCD, RDD, GCD) | the Weight turun; kekacauan sesaat — ketakutan Orun nyaris nyata; Orun ikut turun & menyaksikan dunia tidak terbakar — mengakui "aku salah tentang orang-orang" (Need sebagian); the Accord + King + Unchartered menstabilkan dunia | selesai |
+| 30 | Kestrel | 3 (RDD, RDD, GCD) | resolusi: Charter dibuka; Screening baru mengukur Accord; Orun datang sendiri — catatan sejarah sejati → Vann, lalu hidup sebagai orang biasa di Lumenwood; the Strays jadi fondasi; Wisp jadi King of the Wisps; seekor Wisp baru lahir | selesai |

@@ -11,6 +11,42 @@ Di Shaleport, subuh adalah cahaya yang naik dari laut. Di sini, subuh adalah ses
 
 "Kalau begitu, kita lakukan sekarang," kata Kestrel.
 
+Subuh itu, Orun masih di sana.
+
+Ia tidak tidur. Tangan tuanya masih menempel di pipa yang sama, dan di bawahnya, *the First Breath* berdenyut lebih lemah dari malam tadi — seperti jantung yang kehilangan darah. Ketika mereka mendekat, ia tidak menoleh.
+
+"Aku sudah menduganya," kata Orun. "Kalian akan datang saat subuh. Kalian pikir cahaya akan membuat kalian berani."
+
+"Kita tidak butuh cahaya," kata Kestrel.
+
+"Maka kau salah sangka." Orun menoleh — dan di mata pucat itu, untuk sesaat, ada sesuatu yang tidak bisa ia baca: bukan takut, bukan marah, tetapi kelelahan yang sangat tua. "Aku sudah bilang. Selama aku masih berdiri, kalian tidak akan menyentuh sumur ini."
+
+Di belakangnya, prajurit Spire Company masih berdiri — tetapi senjata mereka menggantung di sisi, dan mata mereka menatap Vesna, bukan Orun. Orun melihat itu, dan sesuatu di wajahnya berubah: bukan kemarahan, tetapi pengertian yang pahit.
+
+"Jadi begini caranya," katanya, pelan. "Bukan dengan pedang. Dengan orang-orangku sendiri."
+
+"Aku bukan orangmu," kata Vesna, dan suaranya tidak bergetar. "Aku tidak pernah menjadi orangmu. Kau hanya tidak pernah melihatnya."
+
+Ia melangkah maju — melewati barisan prajuritnya, melewati regu Kestrel — dan berhenti di depan Orun, di tepi sumur itu.
+
+"Kau bisa melawan," kata Vesna. "Kau bisa berteriak. Tapi tidak ada yang akan datang — karena tidak ada yang tersisa untukmu, Orun. Hanya dunia yang kau keringkan, dan ia tidak akan membelamu."
+
+Orun menatapnya lama. Lalu ia menatap tangannya — tangan yang telah memegang pipa itu, yang telah menandatangani pencabutan *Charter* Saltwind, yang telah menahan dunia supaya tidak terbakar — dan untuk sesaat, sangat singkat, sesuatu bergeser di wajah tua itu.
+
+"Kau pikir kau menyelamatkan mereka," katanya, pelan. "Kau baru saja melepaskan mereka. Kita akan melihat siapa yang benar."
+
+"Ya," kata Vesna. "Kita akan melihat."
+
+Ia mengulurkan tangannya. Orun menatap tangan itu lama — lalu, perlahan, seperti orang yang melepaskan sesuatu yang telah ia pegang sepanjang hidupnya, ia melepaskan pipa itu.
+
+Denyut sumur itu berubah. Delapan pipa itu berhenti berdenyut panik — dan untuk sesaat, di dalam sumur, sesuatu menarik napas yang lebih dalam.
+
+"Datang dengan tenang," kata Vesna, "atau aku menyeretmu. Pilihan ada padamu."
+
+Orun tertawa — tawa pelan, pahit, yang tidak sampai ke mata. Lalu, tanpa sepatah kata, ia meletakkan tangannya di tangan Vesna — dan dua orang yang telah saling mengenal selama bertahun-tahun itu berjalan menjauh dari sumur, pelan, seperti orang yang baru saja menyelesaikan sesuatu yang sudah lama menggantung di antara mereka.
+
+Di belakang mereka, prajurit Spire Company menurunkan senjata mereka sepenuhnya — dan untuk pertama kalinya sejak dua ratus tahun, sumur itu tidak lagi dijaga oleh siapa pun.
+
 Mereka berdiri di tepi sumur itu — tujuh orang: Kestrel, Nell, Hugo, Tamsin, Fenn, Eira, Cassian — ditambah Vann yang berdiri sedikit terpisah, dan Vesna yang berdiri di sisi yang sekarang benar, dan di tengah lingkaran itu, Wisp, yang berdenyut dengan irama yang tidak pernah ia dengar sebelumnya.
 
 "Bagaimana caranya?" tanya Hugo.
@@ -25,7 +61,7 @@ Keheningan itu panjang. Di sekeliling sumur, delapan pipa itu terus berdenyut �
 
 "Dan kalau kita gagal?" tanya Cassian, pelan.
 
-"Kita tidak gagal." Kestrel menatapnya. "Karena kita tidak sendirian."
+"Kita tidak akan gagal," kata Kestrel, dan suaranya tidak bergetar. "Karena kita tidak sendirian."
 
 ---
 
