@@ -152,6 +152,7 @@ Ejaan baku. Semua nama proper di bab mana pun harus ada di sini.
 | Kestrel & Nell | ia ingin melindunginya; ia ingin ia membiarkan dirinya ditolong | ia menyembunyikan rasa bersalah atas utang keluarga; ia menyembunyikan ketakutannya jadi beban | Nell secara emosional; Kestrel secara fisik |
 | Kestrel & Eira | ia ingin dianggap; ia ingin dipercaya | ia menyembunyikan Conduit-nya; ia menyembunyikan bahwa ia dijual ayahnya | Eira di permukaan; bergeser perlahan |
 | Kestrel & Cassian | keduanya ingin diakui sistem — satu dibuang, satu dipilih | keduanya menyembunyikan bahwa mereka takut jatuh | Cassian (status); Kestrel (kebenaran) |
+| Orun & Cassian | ia ingin pewaris yang membuktikan sistemnya berhasil; ia ingin keluar dari sistem itu | Orun tidak pernah mengakui rasa kehilangannya; Cassian tidak pernah mengakui bahwa ia hampir menjadi Orun | Orun (dulu); Cassian (kini) |
 | Fenn & Kestrel | ia ingin menyelesaikan tugas jaringannya (mencari Wisp); ia ingin regu jujur | Fenn menyembunyikan misinya | Fenn (informasi) |
 | Tamsin & Spire Company | ia ingin kontrak adil; mereka ingin asetnya | ia tidak tahu sejauh apa monopoli mereka | Spire Company |
 
@@ -321,6 +322,7 @@ Jarak tempuh antar lokasi: Belt One→Two (gerbang akademi) 3 hari jalan; Belt T
 | 29 | Kestrel pulang ke Shaleport — ibunya, "aku selalu tahu" | aktif (bab 30) |
 | 29 | Cassian: "aku tidak pernah merasa lebih bebas" | ditembakkan (bab 30) |
 | 29 | Orun tinggal di Lumenwood — "ingin melihat lebih banyak, sebelum aku tahu apa yang harus kupercaya" | ditembakkan (bab 30: catatan sejarah → Vann; hidup sebagai orang biasa) |
+| 29 | paralel Lie Cassian–Orun ditutup: Orun — "kau bukti bahwa sistemku gagal; yang terbaik yang pernah kuhasilkan adalah orang yang memilih keluar" | ditembakkan (bab 29) |
 | 30 | the Screening baru mengukur Accord, bukan Breath tunggal | ditembakkan (bab 30) |
 | 30 | Wisp jadi King of the Wisps — meninggalkan seekor Wisp baru (spesies kembali) | ditembakkan (bab 30) |
 | 30 | Rung 81 = nama untuk the Accord (yang tidak bisa diukur/dipangkas) | ditembakkan (bab 30) |

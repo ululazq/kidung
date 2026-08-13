@@ -81,6 +81,16 @@ Api itu berderak di antara mereka.
 
 "Dunia tidak terbakar," katanya, dan untuk pertama kalinya, suaranya pecah. "Aku salah tentang orang-orang. Aku hanya tidak tahu berapa lama aku salah — dan aku tidak tahu apakah aku bisa berhenti menjadi salah."
 
+Keheningan itu berlangsung lama. Lalu, di seberang api, mata Orun bergerak — mencari, dan berhenti — pada Cassian.
+
+Cassian yang tidak pernah menunduk. Yang ia pilih, yang ia bentuk, yang ia kirim untuk menangkap regu ini — dan yang memilih sebaliknya. Untuk pertama kalinya sejak the Seat, Orun menatapnya langsung — dan Cassian menatapnya kembali: dua mata pucat, dua orang yang dibesarkan tangga yang sama.
+
+"Kau," kata Orun, pelan. "Aku memilihmu. Aku mengajarkanmu cara menanjak. Aku pikir kau adalah bukti bahwa sistemku berhasil — yang terbaik yang pernah kuberikan pada tangga itu."
+
+Di seberang api, Cassian tidak menjawab.
+
+"Dan sekarang aku tahu," kata Orun, dan suaranya hampir tidak terdengar, "bahwa kau adalah bukti bahwa sistemku gagal. Karena yang terbaik yang pernah kuhasilkan — adalah orang yang memilih keluar."
+
 Tidak ada yang menjawab. Di seberang api, Orun menundukkan kepalanya — dan untuk pertama kalinya sejak the Seat, ia tidak terlihat seperti penjaga. Ia terlihat seperti orang tua yang telah menjaga pintu yang tidak perlu dijaga.
 
 ---
