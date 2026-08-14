@@ -10,6 +10,12 @@ Semesta bersama repo ini. Baca sebelum menulis novel baru — bukan untuk mengik
 
 Field ini tidak memicu apa pun di situs (`novels.ts:153`) — ia hanya tampil sebagai metadata. Jadi berbagi semesta adalah keputusan naratif, bukan teknis.
 
+Catatan latar: Kidungverse adalah semesta bersama dengan latarnya sendiri
+(sebagian novel di dalamnya berlatar bumi rekaan/Indonesia). Novel **baru**
+di repo ini tidak wajib masuk Kidungverse, dan masuk Kidungverse bukan alasan
+memakai kosakata/lokasi Indonesia — universe imajiner berdiri sendiri adalah
+default untuk novel baru. Lihat `reference/worldbuilding.md` → Latar.
+
 ---
 
 ## Cara memutuskan berbagi semesta

@@ -12,6 +12,11 @@ File terpenting di skill ini. Semua contoh diambil dari repo ini sendiri.
 
 Bab itu 5.000 kata, tapi isinya kira-kira 400 kata unik. Nol dialog. Nol kejadian.
 
+Catatan latar: novel ini memakai latar bumi rekaan (Neo-Batavia) — contoh
+tersebut dipakai untuk menunjukkan padding, bukan sebagai pola latar. Novel
+baru di repo ini default ke universe imajiner non-bumi; istilah seperti
+"Neo-Batavia" atau "Garda Bayang Nusantara" jangan dijadikan acuan penamaan.
+
 **Kenapa ini terjadi:** ada target kata, tidak ada materi cerita. Model mengejar angka dengan menyalin.
 
 **Yang benar:** kalau bab kurang panjang, itu sinyal beat-nya tipis. Tambah:
@@ -21,11 +26,23 @@ Bab itu 5.000 kata, tapi isinya kira-kira 400 kata unik. Nol dialog. Nol kejadia
 
 Bukan tambah kalimat.
 
-### BAIK — `novels/kidung-bayang-batavia/chapter-3.md`
+### BAIK — `novels/sang-pencatat-nama/chapter-1.md`
 
-> "Apakah kau merasakannya juga, Arya?" suara tegas bernada khawatir memecah keheningan. Sita, seorang peneliti senior dari Garda Bayang Nusantara yang mengenakan jaket kulit hitam, melangkah keluar dari balik pilar batu. "Artefak ini tidak sekadar objek bersejarah. Ini adalah kunci pemicu benang takdir Batavia."
+> "Surat ini ditulis ayahmu, lima belas tahun lalu, semalam sebelum ia
+> menghilang," kata Ranggalawe. "Aku menyimpannya karena ia memintaku. Ia
+> bilang: kalau suatu hari ada yang menghapus nama anakku, berikan surat ini
+> padanya."
+>
+> Arka tidak menyentuh kertas itu. Tangannya bergetar. "Kang membaca isinya?"
+>
+> "Aku tidak perlu. Aku tahu apa isinya dari cara ayahmu menulisnya." Ranggalawe
+> berdiri dan berjalan ke pintu. "Dia menulis namamu di sana, Arka. Tiga kali.
+> Dan nama-nama lain yang tidak kukenal."
 
-Setiap paragraf memindahkan cerita. Dialog membawa informasi *dan* tekanan. Tidak ada yang diulang.
+Setiap paragraf memindahkan cerita. Dialog membawa informasi *dan* tekanan.
+Tidak ada yang diulang. Perhatikan: latar novel ini imajiner (Candraprana,
+Prasasti Agung) — lokasi dan istilah dunia bukan kosakata Indonesia, meski
+prosanya ditulis dalam Bahasa Indonesia.
 
 ---
 
@@ -39,9 +56,10 @@ Ini daftar beat dari outline yang dijadikan paragraf. Pembaca diberi tahu seluru
 
 **Ciri yang harus dicari sebelum simpan:** paragraf pertama berisi `...` lebih dari sekali, atau menyebut kejadian yang belum terjadi.
 
-**Yang benar:** mulai dari satu momen konkret di dalam adegan. Baris pertama `kidung-bayang-batavia/chapter-3.md` masuk lewat indra dan tempat, bukan ringkasan:
+**Yang benar:** mulai dari satu momen konkret di dalam adegan. Baris pertama `sang-pencatat-nama/chapter-1.md` masuk lewat indra dan tempat, bukan ringkasan:
 
-> Hujan deras mengguyur kawasan Kota Tua Jakarta ketika malam beranjak semakin larut.
+> Arka Wibisana menyadari namanya hilang bukan karena ia lupa, melainkan karena
+> tinta itu sendiri yang menolaknya.
 
 ---
 
@@ -92,7 +110,7 @@ Prosa yang rusak di repo ini semuanya berkalimat panjang seragam 25–35 kata. E
 ## 6. Sensorik dan detail
 
 - Minimal dua indra selain penglihatan per adegan. Bau dan suhu paling jarang dipakai dan paling efektif.
-- Detail spesifik mengalahkan detail megah: `bau air raksa dan lumpur Kali Ciliwung` bekerja; `aura kegelapan yang menyelimuti` tidak.
+- Detail spesifik mengalahkan detail megah: `bau kapur dan air kanal yang menggenang di dasar Prasasti Agung` bekerja; `aura kegelapan yang menyelimuti` tidak. Detail harus dari dunia itu sendiri — untuk latar imajiner, bangun tekstur khas dunia (bahan, bau, cuaca rekaan), bukan menempelkan bau bumi.
 - Detail harus bekerja ganda — mencirikan tempat **dan** menyiratkan sesuatu tentang tokoh atau bahaya.
 
 ---
@@ -123,7 +141,7 @@ Yang berhasil: aksi yang belum selesai, keputusan yang baru diambil dan harganya
 Tidak ada script validator di skill ini, jadi periksa manual:
 
 1. Baca ulang kalimat pertama tiap paragraf. Ada yang sama atau nyaris sama? Hapus.
-2. Pindai frasa khas (nama tempat, nama alat) — kalau `Neo-Batavia yang dingin` muncul 5 kali, ada penyalinan.
+2. Pindai frasa khas (nama tempat, nama alat) — kalau frasa yang sama muncul 5 kali, ada penyalinan.
 3. Kalau punya akses shell, bantu dengan:
    ```bash
    grep -oE '[^.!?]{25,}[.!?]' novels/<slug>/chapter-N.md | sed 's/^ *//' | sort | uniq -d

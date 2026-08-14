@@ -15,13 +15,13 @@ Ejaan baku. Semua nama proper di bab mana pun harus ada di sini.
 ### Karakter
 | Nama baku | Peran | Catatan |
 |---|---|---|
-| <Kaelen Sora> | protagonis, mekanik jam | 24 tahun |
+| <Vael Kharis> | protagonis, pemeta kanal | 24 tahun |
 
 ### Tempat
 | Nama baku | Catatan |
 |---|---|
-| <Neo-Batavia> | kota permukaan |
-| <Bawah-Batavia> | lorong bawah tanah — tempat berbeda, jangan tertukar |
+| <Vel-Khara> | kota permukaan — imajiner, bukan bumi nyata |
+| <Bawah-Vel> | lorong bawah tanah — tempat berbeda, jangan tertukar |
 
 ### Faksi
 | Nama baku | Tujuan | Cara mengenali |

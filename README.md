@@ -51,6 +51,8 @@ novels/<slug>/
   bible.md           # kanon novel: karakter, sistem, tempat, timeline
   outline.md         # rencana bab + penanda Complete
   continuity-report.md # audit kontinuitas (wajib)
+  arcs.md            # peta arc — wajib untuk novel serial (`serial: true`)
+  world-state.md     # memori kerja state saat ini — wajib untuk novel serial
   chapter-N.md       # bab 1.500–2.500 kata
   cover.webp/jpg     # sampul (opsional)
 
@@ -101,6 +103,59 @@ npm run verify     # verifikasi novel
 ## Menambah novel baru
 
 1. Buat `novels/<slug>/` dengan `README.md` (frontmatter: `universe`, `status`, `order`, `description`…), `bible.md`, `outline.md`, dan `chapter-1.md`
+   - **Latar default: universe imajiner non-bumi.** Prosa ditulis dalam Bahasa
+     Indonesia, tapi lokasi, sistem kekuatan, dan istilah dunia dibangun
+     sendiri — bukan kosakata Indonesia dan bukan nama tempat bumi. Latar
+     bumi nyata (mis. urban fantasy di Jakarta) hanya atas permintaan
+     eksplisit; lihat skill `novel-factory-v4-pro-plus` → worldbuilding.
 2. Tulis bab 1.500–2.500 kata dengan frontmatter `chapter: N`
 3. Pastikan nama karakter/entitas tidak bentrok — cek [compendium](novels/kidungverse/compendium.md) dan jalankan `npm run verify`
 4. Saat selesai: lengkapi `continuity-report.md`, tandai `status: "Complete"` di README, dan sinkronkan [NOVEL-AUDIT.md](NOVEL-AUDIT.md)
+
+### Mode serial panjang (2000+ bab)
+
+Untuk novel yang direncanakan ribuan bab, scaffold dengan `--serial`:
+
+```bash
+npm run novel:scaffold -- --serial --title "Judul" --arcs 8 --cpa 250
+```
+
+Menambah `serial: true` di README plus `arcs.md` (peta arc bab 1 → target) dan
+`world-state.md` (memori kerja state saat ini). Outline bab menjadi jendela arc
+aktif saja. Gate otomatis di `npm run verify`: tiap bab wajib jatuh di dalam
+tepat satu rentang arc arcs.md, dan header world-state "Terakhir diperbarui: bab N"
+wajib sinkron — jangan tulis bab di luar arc terdeklarasi. Panduan lengkap:
+`.claude/skills/novel-factory-v4-pro-plus/workflows/serial-long-form.md`.
+
+Audit drift per arc (membandingkan bab satu arc dengan world-state.md):
+
+```bash
+npm run novel:audit -- <slug> [--arc N] [--report]
+```
+
+Mencetak kandidat drift: tokoh yang tidak muncul di arc, tokoh berstatus
+mati yang muncul lagi, level LitRPG yang bocor, entitas bernama yang belum
+dicatat world-state, item/Chekhov yang hilang dari arc. Laporan = pertanyaan,
+bukan vonis — konfirmasi manual sebelum memperbaiki world-state.md.
+`--report` menulis salinan ke `novels/<slug>/drift-report.md`. `--summary`
+mencetak ringkasan saja (hitungan per kategori + temuan level/entitas yang
+belum ditinjau) — untuk cek cepat tiap N bab selama menulis
+(workflow `continue-writing` menjalankannya otomatis tiap 5 bab).
+
+**Gate commit & publish:** temuan **level & entitas** yang belum ditinjau
+menggagalkan commit (pre-commit `.githooks/pre-commit`), CI (`novel-qc.yml`),
+dan `novel:publish` — novel terbit harus bebas drift yang belum dikonfirmasi.
+Tandai temuan yang memang keputusan sadar (twist sengaja, diperbaiki arc
+berikutnya):
+
+```bash
+npm run novel:audit -- <slug> --accept <ID> --reason "alasan"
+```
+
+menambah baris ke `novels/<slug>/audit-review.md`. Untuk keputusan menyeluruh
+— seluruh arc sengaja ditulis sebagai satu twist — tandai sekaligus dengan
+satu alasan: `npm run novel:audit -- <slug> --accept-all --reason "alasan"`
+(mencakup semua temuan level/entitas arc; yang sudah ditinjau dilewati).
+Hapus baris review setelah temuan benar-benar diperbaiki (catatan basi =
+peringatan). Kategori lain (tokoh hilang, item, chekhov) tetap pertanyaan —
+tidak menggagalkan commit. Lewati paksa gate: `SKIP_AUDIT_GATE=1 git commit ...`.

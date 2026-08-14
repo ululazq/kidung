@@ -4,6 +4,7 @@
  *
  *   npm run novel:scaffold -- --title "Judul" [--genre ...] [--chapters 20] ...
  *   npm run novel:check <slug> [--strict]
+ *   npm run novel:audit <slug> [--arc N] [--report]
  *   npm run novel:publish <slug>
  *   npm run novel:status
  *
@@ -55,6 +56,10 @@ Novel Pipeline — orkestrasi dari ide sampai terbit.
           --parallel <slug-pasangan>  (isi parallel dua arah: README baru + pasangan)
           --tone "gelap, berdebu"  --protagonist "Nama"  --description "Sinopsis"
           --chapters 20   (default 20)   --language "Indonesian"
+    Mode serial panjang (2000+ bab):
+          --serial              aktifkan mode serial (arcs.md + world-state.md)
+          --arcs 8              jumlah arc   (default 8)
+          --cpa 250             bab per arc  (default 250)  → total = arcs × cpa
     Membuat skeleton novel; bab ditulis menyusul. Slug diturunkan dari judul
     bila tidak diberikan (kebab-case, ASCII, tanpa angka).
 
@@ -64,10 +69,32 @@ Novel Pipeline — orkestrasi dari ide sampai terbit.
     peringatan; --strict menjadikan pelanggaran (kalimat berulang, heading di
     body, dialog nyaris hilang) sebagai error.
 
+  audit  (mode serial panjang)
+    npm run novel:audit -- <slug> [--arc N] [--report] [--summary]
+    Audit kontinuitas per arc: bandingkan bab satu arc dengan world-state.md
+    dan cetak daftar drift potensial (tokoh hilang/mati-muncul-lagi, level
+    bocor, entitas baru, item/chekhov tak muncul). Laporan = pertanyaan, bukan
+    vonis. --arc N: pilih arc (default: arc yang menaungi bab terakhir);
+    --report: tulis temuan ke novels/<slug>/drift-report.md;
+    --summary: cetak ringkasan saja (hitungan per kategori + temuan
+    level/entitas yang belum ditinjau) — untuk cek cepat tiap N bab di
+    workflows/continue-writing.md.
+    Tandai temuan yang memang disengaja:
+      npm run novel:audit -- <slug> --accept <ID> --reason "alasan"
+    Tandai SEMUA temuan level/entitas arc dengan satu alasan (keputusan
+    menyeluruh, mis. seluruh arc sengaja ditulis sebagai twist):
+      npm run novel:audit -- <slug> --accept-all [--arc N] --reason "alasan"
+    Gate pre-commit (tanpa slug — audit semua novel serial):
+      npm run novel:audit -- --gate
+    Gagal (exit 1) bila ada temuan level/entitas yang belum ditinjau di
+    novels/<slug>/audit-review.md. Dipanggil otomatis pre-commit + CI.
+
   publish
     npm run novel:publish -- <slug>
     Gate terakhir: QC strict + --complete harus lolos penuh, lalu README di-set
     status "Complete" + completed hari ini, dan build situs dijalankan.
+    Novel serial juga wajib lolos gate audit drift (temuan level/entitas yang
+    belum ditinjau di audit-review.md menggagalkan publish).
     Publikasi ke publik terjadi lewat push ke main (CI + Vercel).
 
   status
@@ -129,6 +156,13 @@ function scaffold(argv) {
   const chapters = Number(opt(argv, "--chapters") || 20);
   const language = opt(argv, "--language") || "Indonesian";
 
+  // Mode serial panjang: outline per-arc + world-state persist. Total bab =
+  // arcs × cpa (default 8 × 250 = 2000); outline awal hanya jendela arc 1.
+  const serial = argv.includes("--serial");
+  const arcCount = serial ? Number(opt(argv, "--arcs") || 8) : 0;
+  const cpa = serial ? Number(opt(argv, "--cpa") || 250) : 0;
+  const totalTarget = serial ? arcCount * cpa : chapters;
+
   if (parallel) {
     if (parallel === slug) {
       console.error("--parallel tidak boleh menunjuk ke novel itu sendiri.");
@@ -143,14 +177,19 @@ function scaffold(argv) {
   const dir = join(NOVELS_DIR, slug);
   mkdirSync(dir, { recursive: true });
 
-  writeFileSync(join(dir, "README.md"), readmeTemplate({ title, slug, genre, universe, tone, protagonist, description, language, parallel }));
+  writeFileSync(join(dir, "README.md"), readmeTemplate({ title, slug, genre, universe, tone, protagonist, description, language, parallel, serial }));
   writeFileSync(join(dir, "bible.md"), bibleTemplate(title));
-  writeFileSync(join(dir, "outline.md"), outlineTemplate(title, chapters));
+  writeFileSync(join(dir, "outline.md"), outlineTemplate(title, serial, arcCount, cpa, totalTarget));
+  if (serial) {
+    writeFileSync(join(dir, "arcs.md"), arcsTemplate(title, arcCount, cpa, totalTarget));
+    writeFileSync(join(dir, "world-state.md"), worldStateTemplate(title));
+  }
   writeFileSync(join(dir, "cover-prompt.md"), coverPromptTemplate(title));
   writeFileSync(join(dir, "continuity-report.md"), continuityStub(title));
 
   console.log(`\n✓ Skeleton ${slug} dibuat di novels/${slug}/`);
   console.log("  README.md · bible.md · outline.md · cover-prompt.md · continuity-report.md");
+  if (serial) console.log("  + serial: arcs.md · world-state.md (mode serial panjang)");
   if (parallel) {
     if (addParallelDeclaration(parallel, slug)) {
       console.log(`✓ novels/${parallel}/README.md ← deklarasi parallel dua arah ditambahkan`);
@@ -162,6 +201,12 @@ function scaffold(argv) {
   console.log("Langkah berikutnya:");
   console.log(`  1. Isi bible.md (kanon nama, sistem kekuatan, protagonis/antagonis) dan outline.md`);
   console.log(`     — jangan tulis bab sebelum keduanya siap (lihat skill novel-factory-v4-pro-plus).`);
+  if (serial) {
+    console.log(`  2. [SERIAL] Isi arcs.md (peta arc bab 1–${totalTarget}) lalu world-state.md.`);
+    console.log(`     Alur tulis: bab mengikuti jendela arc aktif di outline.md; tiap arc selesai,`);
+    console.log(`     tambahkan baris bab arc berikutnya + audit kontinuitas (workflows/serial-long-form.md).`);
+    console.log(`     Gate otomatis: bab di luar rentang arc arcs.md = gagal verifikasi.`);
+  }
   if (universe) {
     console.log(`     ⚠ Novel dalam universe "${universe}" wajib mengisi \`order\` di README.md`);
     console.log(`       (nomor urut baca serial) — tanpa itu novel tidak muncul di halaman universe.`);
@@ -178,18 +223,20 @@ function scaffold(argv) {
   console.log(`  4. Novel selesai:   npm run novel:publish ${slug}`);
 }
 
-function readmeTemplate({ title, slug, genre, universe, tone, protagonist, description, language, parallel }) {
+function readmeTemplate({ title, slug, genre, universe, tone, protagonist, description, language, parallel, serial }) {
   // Novel ber-universe wajib mengisi `order` (urutan baca serial) — tanpa itu
   // novel tidak muncul di halaman universe; QC (novel:check/publish/verify)
   // menggagalkan bila masih kosong. `parallel` diisi slug novel yang menceritakan
   // peristiwa yang sama dari sisi lain (dua arah: pasangannya juga harus menyebut
-  // novel ini) — dibiarkan kosong bila novel tidak paralel.
+  // novel ini) — dibiarkan kosong bila novel tidak paralel. `serial: true`
+  // mengaktifkan mode serial panjang (arcs.md + world-state.md wajib).
   const universeLine = universe ? `universe: "${universe}"\norder: ""\n` : "";
   const parallelLine = universe || parallel ? `parallel: ${parallel ? `"${parallel}"` : '""'}\n` : "";
+  const serialLine = serial ? `serial: true\n` : "";
   return `---
 title: "${title}"
 slug: "${slug}"
-${universeLine}${parallelLine}genre: "${genre}"
+${universeLine}${parallelLine}${serialLine}genre: "${genre}"
 tone: "${tone}"
 language: "${language}"
 protagonist: "${protagonist}"
@@ -240,7 +287,7 @@ Ejaan baku. Semua nama proper di bab mana pun harus ada di sini.
 ### Tempat
 | Nama baku | Catatan |
 |---|---|
-| <Tempat> | <ciri, jangan tertukar dengan tempat lain> |
+| <Tempat> | <ciri, jangan tertukar dengan tempat lain — latar imajiner, bukan bumi nyata> |
 
 ### Faksi
 | Nama baku | Tujuan | Cara mengenali |
@@ -322,14 +369,20 @@ Aturan: apa pun yang diberi penekanan tak biasa harus terpakai dalam 10 bab.
 `;
 }
 
-function outlineTemplate(title, chapters) {
+function outlineTemplate(title, serial, arcCount, cpa, totalTarget) {
+  // Mode serial: tabel bab hanya jendela arc 1 (cpa baris). Saat arc 1 selesai,
+  // baris bab arc berikutnya ditambahkan — tabel tumbuh per arc, tidak dihapus.
   const rows = [];
-  for (let n = 1; n <= chapters; n++) {
+  const rowCount = serial ? cpa : totalTarget;
+  for (let n = 1; n <= rowCount; n++) {
     rows.push(`| ${n} | <POV> | <adegan> | <perubahan status X → Y> | |`);
   }
+  const targetLine = serial
+    ? `Target: ${totalTarget} bab @ 1.500–2.500 kata (serial panjang, ${arcCount} arc × ${cpa} bab)`
+    : `Target: ${totalTarget} bab @ 1.500–2.500 kata`;
   return `# Outline: ${title}
 
-Target: ${chapters} bab @ 1.500–2.500 kata
+${targetLine}
 
 ## Premis
 
@@ -370,7 +423,13 @@ Apa yang dia capai, andaikan protagonis tidak menghalangi.
 |---|---|---|---|
 | <subplot> | <bab> | <bab> | <bab> |
 
-## Bab
+${serial ? `## Arc aktif
+
+Mode serial: tabel bab di bawah hanya jendela ARC 1. Saat arc 1 rampung,
+proyek arc berikutnya di arcs.md lalu tambahkan baris bab arc 2 di bawah ini
+(jangan hapus baris yang sudah ditulis). Jangan tulis bab di luar arc aktif.
+
+` : ``}## Bab
 
 Satu baris per bab. Format: perubahan status → status lama jadi status baru.
 Status diisi "selesai" setelah bab ditulis dan lolos quality gate.
@@ -378,6 +437,94 @@ Status diisi "selesai" setelah bab ditulis dan lolos quality gate.
 | Bab | POV | Adegan | Perubahan status | Status |
 |---|---|---|---|---|
 ${rows.join("\n")}
+`;
+}
+
+/**
+ * Peta arc keseluruhan (mode serial panjang). Baris tabel adalah KONTRAK:
+ * check-novels.mjs membaca rentang bab dari baris `| N | X–Y | ... |` — format
+ * baris tidak boleh diubah. Tambahkan baris arc sebelum arc itu ditulis.
+ */
+function arcsTemplate(title, arcCount, cpa, totalTarget) {
+  const rows = [];
+  for (let a = 1; a <= arcCount; a++) {
+    const start = (a - 1) * cpa + 1;
+    const end = a * cpa;
+    rows.push(
+      `| ${a} | ${start}–${end} | <judul arc> | <tujuan yang harus tercapai> | <keadaan akhir dunia saat arc selesai> | Planned |`,
+    );
+  }
+  return `# Arcs: ${title}
+
+Mode serial panjang — peta arc dari bab 1 sampai target. Satu baris per arc;
+bab berurutan, tidak boleh tumpang tindih, tidak boleh ada bab di luar arc.
+**Tambahkan baris arc sebelum arc itu ditulis** — bab di luar rentang arc
+terdeklarasi menggagalkan verifikasi (check-novels).
+
+Target: ${totalTarget} bab · ${arcCount} arc × ${cpa} bab
+
+## Peta Arc
+
+| Arc | Bab | Judul arc | Tujuan | Keadaan akhir dunia | Status |
+|---|---|---|---|---|---|
+${rows.join("\n")}
+
+## Catatan lintas arc
+
+- <foreshadow panjang yang ditanam di arc awal untuk arc jauh — Chekhov's Gun lintas arc>
+- <entitas/institusi yang harus bertahan sampai akhir>
+- <aturan yang tidak boleh dilanggar di arc mana pun>
+`;
+}
+
+/**
+ * "Memori kerja" serial — state yang benar SEKARANG, bukan rencana. Wajib
+ * sinkron dengan bab terakhir yang ditulis (header "Terakhir diperbarui: bab N"
+ * dicek otomatis). Rencana masa depan tinggal di arcs.md/outline.md, bukan di sini.
+ */
+function worldStateTemplate(title) {
+  return `# World State: ${title}
+
+Terakhir diperbarui: bab 0
+Arc aktif: —
+
+Catatan: file ini adalah memori kerja serial — satu-satunya tempat yang wajib
+sinkron dengan bab terakhir yang ditulis. Update tiap selesai menulis bab
+(atau tiap batch). Yang tertulis di sini harus benar "sekarang", bukan "nanti".
+
+## Status dunia
+
+- <faksi / peta kekuatan / kondisi tempat-tempat utama — keadaannya sekarang>
+
+## Tokoh
+
+| Tokoh | Status | Lokasi | Kekuatan/level | Catatan |
+|---|---|---|---|---|
+| <nama> | hidup/mati/cedera/... | <tempat> | <level/kelas/item — bila ada> | <sedang apa sekarang> |
+
+## Alur aktif
+
+- <tujuan protagonis sekarang>
+- <konflik yang sedang berjalan>
+- <kebuntuan / pertanyaan terbuka yang harus dijawab>
+
+## Chekhov belum ditembak
+
+| Ditanam di bab | Apa | Rencana tembak (arc) |
+|---|---|---|
+| <bab> | <apa> | <arc> |
+
+## Siapa tahu apa
+
+| Fakta | Diketahui siapa | Sejak bab |
+|---|---|---|
+| <fakta> | <siapa> | <bab> |
+
+## Item & aset
+
+| Item | Pemegang | Status | Muncul bab |
+|---|---|---|---|
+| <item> | <siapa> | <utuh/rusak/hilang> | <bab> |
 `;
 }
 
@@ -520,6 +667,21 @@ function check(argv) {
   process.exit(res.status ?? 1);
 }
 
+// ---------------------------------------------------------------- audit
+
+function audit(argv) {
+  const slug = argv[0];
+  const gate = argv.includes("--gate");
+  if (!slug && !gate) {
+    console.error("Pakai: npm run novel:audit -- <slug> [--arc N] [--report]  |  -- <slug> --accept <ID>  |  -- --gate");
+    process.exit(1);
+  }
+  const res = spawnSync(process.execPath, ["scripts/audit-arc.mjs", ...argv], {
+    stdio: "inherit",
+  });
+  process.exit(res.status ?? 1);
+}
+
 // ---------------------------------------------------------------- publish
 
 function publish(argv) {
@@ -545,6 +707,21 @@ function publish(argv) {
     process.exit(1);
   }
 
+  // Gate audit drift (khusus novel serial): temuan level/entitas yang belum
+  // ditinjau di audit-review.md menggagalkan publish — novel terbit harus
+  // bebas drift yang belum dikonfirmasi. Tinjau: npm run novel:audit --
+  // <slug> --accept <ID> --reason "...", atau perbaiki world-state/bab.
+  if (readmeSerial(dir)) {
+    console.log(`\n=== Publish ${slug} — gate audit drift ===\n`);
+    const drift = spawnSync(process.execPath, ["scripts/audit-arc.mjs", slug, "--gate"], {
+      stdio: "inherit",
+    });
+    if (drift.status !== 0) {
+      console.error("\n✗ Gate audit drift gagal — tinjau temuan level/entitas atau perbaiki world-state/bab, lalu ulangi publish.");
+      process.exit(1);
+    }
+  }
+
   const readmePath = join(dir, "README.md");
   const readme = readFileSync(readmePath, "utf8");
   const fm = readme.match(/^---\r?\n([\s\S]*?)\r?\n---/);
@@ -561,9 +738,13 @@ function publish(argv) {
   console.log(`✓ README.md → status "Complete", completed "${TODAY}"`);
 
   console.log("\n=== Build situs ===\n");
-  const build = spawnSync(process.platform === "win32" ? "npm.cmd" : "npm", ["run", "build"], {
-    stdio: "inherit",
-  });
+  // Windows: spawn npm.cmd langsung bisa gagal EINVAL di lingkungan tertentu
+  // (Git Bash / beberapa konfigurasi) — jalankan lewat cmd.exe dengan string
+  // tetap (tidak ada input pengguna, jadi aman). Linux/CI: npm langsung.
+  const build =
+    process.platform === "win32"
+      ? spawnSync("cmd.exe", ["/d", "/s", "/c", "npm run build"], { stdio: "inherit" })
+      : spawnSync("npm", ["run", "build"], { stdio: "inherit" });
   if (build.status !== 0) {
     console.error("\n✗ Build gagal — novel ada di disk tapi situs tidak terbit.");
     process.exit(1);
@@ -581,6 +762,23 @@ function chapterNumber(file) {
   return m ? Number(m[1]) : Number.MAX_SAFE_INTEGER;
 }
 
+/**
+ * Progres serial untuk status(): "serial · arc 2/8" — arc yang menaungi bab
+ * terakhir, atau "serial" bila arcs.md belum punya baris arc. Parse baris tabel
+ * arcs.md (format kontrak sama dengan check-novels.mjs).
+ */
+function arcProgress(base, lastN) {
+  const p = join(base, "arcs.md");
+  if (!existsSync(p)) return "serial";
+  const arcs = [];
+  for (const m of readFileSync(p, "utf8").matchAll(/^\|\s*\d+\s*\|\s*(\d+)\s*[-–—]\s*(\d+)\s*\|/gm)) {
+    arcs.push({ start: parseInt(m[1], 10), end: parseInt(m[2], 10) });
+  }
+  if (arcs.length === 0) return "serial";
+  const idx = arcs.findIndex((a) => lastN >= a.start && lastN <= a.end);
+  return idx >= 0 ? `serial · arc ${idx + 1}/${arcs.length}` : "serial";
+}
+
 // Hitungan kata platform-independent (identik Windows & Linux CI), mereplikasi
 // konvensi `wc -w` Git Bash: token yang seluruhnya em/en-dash ("—"/"–")
 // tidak dihitung (GNU wc Linux menghitungnya — penyebab CI vs lokal beda hasil).
@@ -595,6 +793,13 @@ function countWords(path) {
 
 function wordCounts(paths) {
   return new Map(paths.map((p) => [p, countWords(p)]));
+}
+
+/** README frontmatter `serial: true`? */
+function readmeSerial(base) {
+  const p = join(base, "README.md");
+  if (!existsSync(p)) return false;
+  return /^serial:\s*true\s*$/m.test(readFileSync(p, "utf8"));
 }
 
 function status() {
@@ -623,7 +828,9 @@ function status() {
       .sort((a, b) => chapterNumber(a) - chapterNumber(b));
 
     if (chapters.length === 0) {
-      rows.push({ slug: name, title, bab: "0", kata: "0", band: "—", outline: "—", kont: "—", status: `scaffold (${novelStatus})` });
+      const s0 = novelStatus === "—" ? "" : novelStatus;
+      const tag0 = readmeSerial(base) ? " · serial" : "";
+      rows.push({ slug: name, title, bab: "0", kata: "0", band: "—", outline: "—", kont: "—", status: `scaffold${s0 ? ` (${s0})` : ""}${tag0}` });
       continue;
     }
 
@@ -641,6 +848,7 @@ function status() {
       ? (readFileSync(outlinePath, "utf8").match(/selesai/g) || []).length
       : -1;
     const continuity = existsSync(join(base, "continuity-report.md")) ? "✓" : "✗";
+    const serialTag = readmeSerial(base) ? ` · ${arcProgress(base, chapterNumber(chapters[chapters.length - 1]))}` : "";
 
     rows.push({
       slug: name,
@@ -650,7 +858,7 @@ function status() {
       band: outOfBand === 0 ? "✓" : `${outOfBand}✗`,
       outline: selesai < 0 ? "—" : `${selesai}/${chapters.length}`,
       kont: continuity,
-      status: novelStatus,
+      status: `${novelStatus}${serialTag}`,
     });
   }
 
@@ -679,6 +887,9 @@ switch (cmd) {
     break;
   case "check":
     check(rest);
+    break;
+  case "audit":
+    audit(rest);
     break;
   case "publish":
     publish(rest);

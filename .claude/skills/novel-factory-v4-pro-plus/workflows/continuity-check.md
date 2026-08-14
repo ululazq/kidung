@@ -12,6 +12,21 @@ Diagnostik lintas bab — diadaptasi dari langkah "Final Continuity Check" skill
 
 Bisa juga untuk subset bab: "cek kontinuitas bab 10–15" — prosesnya sama, cakupannya lebih kecil.
 
+**Mode serial panjang** (`serial: true`): jalankan audit tiap ARC selesai (atau
+tiap 100 bab, mana lebih dulu), dan bandingkan bab-bab dalam arc itu dengan
+`world-state.md` — state file itulah yang harus menang kalau bentrok dengan
+bible. Batas arc = `arcs.md`. Lihat `workflows/serial-long-form.md`.
+
+Pertama jalankan audit drift otomatis (`npm run novel:audit -- <slug> --arc N`)
+— ia memindai kandidat mekanis (tokoh hilang, level bocor, entitas tak tercatat,
+item/Chekhov tak muncul) dan menulis daftarnya. Gunakan daftar itu sebagai
+sumber temuan awal, lalu dalami dengan proses manual di bawah ini — audit
+otomatis tidak membaca makna, hanya pola.
+
+Catatan gate: temuan **level & entitas** menggagalkan commit dan
+`novel:publish` sampai ditinjau (`--accept <ID>`) atau diperbaiki — lihat
+`workflows/serial-long-form.md`. Temuan kategori lain tidak menggagalkan.
+
 ---
 
 ## Proses
@@ -22,6 +37,9 @@ Bisa juga untuk subset bab: "cek kontinuitas bab 10–15" — prosesnya sama, ca
 cat novels/<slug>/bible.md
 cat novels/<slug>/outline.md
 ls novels/<slug>/chapter-*.md | sort -V
+# Serial panjang: tambahkan state saat ini sebagai acuan utama
+cat novels/<slug>/world-state.md
+cat novels/<slug>/arcs.md
 ```
 
 Baca semua bab dalam urutan. Untuk novel > 30 bab, baca penuh bab-bab di sekitar titik periksa dan pindai sisanya dengan `grep` (lihat langkah 3).
@@ -34,7 +52,8 @@ Baca semua bab dalam urutan. Untuk novel > 30 bab, baca penuh bab-bab di sekitar
 | **Karakter** | Perilaku konsisten, lompatan emosi tanpa pemicu, pengetahuan yang tahu-tahu dimiliki | `bible.md` → Protagonis/Antagonis/Tokoh pendukung/Relasi |
 | **Worldbuilding** | Aturan sistem kekuatan dilanggar, harga tidak dibayar, lokasi/geografi berubah | `bible.md` → Sistem Kekuatan, Kanon Nama |
 | **Emosi & adegan** | Perubahan status bab yang terlewat, beat terulang, kemunduran tanpa sebab | `outline.md` → Bab (kolom Perubahan status) |
-| **Siapa tahu apa** | Fakta diketahui tokoh yang seharusnya belum tahu; pengungkapan terulang | `bible.md` → Siapa tahu apa |
+| **Siapa tahu apa** | Fakta diketahui tokoh yang seharusnya belum tahu; pengungkapan terulang | `bible.md` → Siapa tahu apa; serial: `world-state.md` → Siapa tahu apa |
+| **State serial** | Level/kekuatan/lokasi/aset tokoh yang berubah tanpa tercatat | `world-state.md` → Tokoh, Item & aset |
 
 ### 3. Bantuan shell
 

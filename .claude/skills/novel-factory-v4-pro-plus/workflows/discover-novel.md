@@ -58,11 +58,19 @@ Tema bukan moral. Kalau usulan terasa seperti nasihat, geser ke arah pertanyaan 
 
 Usulkan struktur: tiga babak (default untuk 20–40 bab di repo ini — lihat `reference/story-architecture.md`), atau alternatif (hero's journey, arc karakter murni, bingkai non-linear). Jelaskan *bagaimana* struktur itu bekerja untuk cerita ini, bukan sekadar nama strukturnya.
 
-## Bagian 5 — Genre
+## Bagian 5 — Genre & Latar
 
 Tentukan: genre primer (yang memimpin janji dan bentuk klimaks), tone, **batas** (apa yang tidak akan terjadi di novel ini — ini yang melindungi cerita dari genre lain yang menyusup), dan janji pembaca (apa yang pembaca berhak harapkan).
 
 Batas ditulis sebagai larangan konkret: `tidak ada penjelasan gaib yang eksplisit`, `tidak ada aksi perang massal`, `tidak ada romansa`. Baca `reference/genre-packs.md` untuk jebakan khas genre.
+
+**Latar** — putuskan eksplisit: **universe imajiner non-bumi (default)** atau
+bumi nyata (atas permintaan). Untuk imajiner, kunci sejak discovery: nama
+kota/dunia, sistem kekuatan, faksi, mata uang, sapaan — semuanya dibangun
+sendiri, bukan kosakata Indonesia dan bukan nama tempat bumi (lihat
+`reference/worldbuilding.md` → Latar). Bahasa prosa tetap Indonesia; latar
+bukan. Kalau pengguna tidak menyebut latar, jangan tanya ulang — pakai
+imajiner.
 
 ## Bagian 6 — Suara & Gaya
 

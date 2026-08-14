@@ -56,6 +56,43 @@ Jalankan `workflows/write-chapter.md` untuk bab N.
 - Variasikan tipe adegan antar bab; jangan dua bab beruntun dengan intensitas sama.
 - Berhenti di batas babak dan konfirmasi arah dengan pengguna sebelum masuk babak berikutnya.
 
+### Mode serial: audit drift otomatis tiap N bab
+
+Untuk novel dengan `serial: true` (mode serial panjang), audit drift bukan lagi
+opsi akhir-arc — jalankan **otomatis tiap N bab ditulis** (default N = 5,
+sesuaikan dengan ritme arc: arc aksi padat bisa tiap 3, arc tenang tiap 10):
+
+```bash
+npm run novel:audit -- <slug> --summary
+```
+
+1. **Jalankan setelah bab kelipatan N selesai + world-state diperbarui.**
+2. **Tampilkan ringkasannya** — hitungan per kategori (Konteks/Tokoh/Level/
+   Entitas/Item/Chekhov) dan status temuan level/entitas.
+3. **Bila ada temuan level/entitas yang belum ditinjau** (baris `⚠ ... BELUM
+   ditinjau`): BERHENTI menulis. Tinjau tiap temuan:
+   - Temuan benar → perbaiki `world-state.md` (atau bab) sekarang, jangan
+     ditunda — itulah fungsi audit di tengah arc.
+   - Keputusan sadar (twist sengaja, diperbaiki arc berikutnya) → tandai:
+     `npm run novel:audit -- <slug> --accept <ID> --reason "..."`.
+   - Seluruh arc memang satu keputusan menyeluruh (mis. twist besar yang
+     sengaja)? Tandai sekaligus:
+     `npm run novel:audit -- <slug> --accept-all --reason "alasan"`.
+   - Jangan lanjut ke bab berikutnya sebelum temuan level/entitas bersih —
+     gate yang sama akan memblokir commit.
+4. **Temuan non-blokir** (tokoh hilang, item, chekhov) → catat untuk ditangani
+   di audit akhir arc (langkah ~70% di `serial-long-form.md`); tidak perlu
+   menghentikan alur menulis.
+5. Setelah 2×N bab (atau saat arc hampir selesai), jalankan juga versi penuh
+   dengan laporan tersimpan: `npm run novel:audit -- <slug> --arc N --report`.
+
+Alur singkat per batch:
+
+```
+Tulis bab N..N+4 → update world-state → npm run novel:audit -- <slug> --summary
+→ tampilkan ringkasan → bereskan temuan level/entitas → lanjut batch berikutnya
+```
+
 ### Mode paralel (opsional)
 
 Diadaptasi dari `novel-architect`: tulis bab 1 dulu dengan tangan untuk mengunci suara, lalu luncurkan agent paralel untuk bab-bab berikutnya — asalkan **semua syarat di bawah terpenuhi**:
@@ -110,4 +147,6 @@ Setelah semua agent selesai, tetap jalankan quality gate lapis 1 di tiap bab (`r
 - [ ] Keadaan akhir bab terakhir direkonstruksi sebelum menulis
 - [ ] Tiap bab lulus quality gate sebelum bab berikutnya dimulai
 - [ ] Kontinuitas dicek tiap 10 bab dan sebelum novel selesai
+- [ ] [serial] `npm run novel:audit -- <slug> --summary` dijalankan tiap N bab (default 5)
+- [ ] [serial] Temuan level/entitas ditinjau (`--accept`) atau diperbaiki sebelum lanjut
 - [ ] `npm run build` sukses

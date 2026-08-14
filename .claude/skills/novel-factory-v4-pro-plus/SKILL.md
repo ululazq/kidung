@@ -7,11 +7,17 @@ description: Menulis dan merevisi novel panjang berbahasa Indonesia bab demi bab
 
 Mesin penulisan novel panjang berbahasa Indonesia untuk repo ini. Setiap novel hidup di `novels/<slug>/` dan langsung dirender oleh situs Astro, jadi bentuk file adalah kontrak, bukan selera.
 
+Bahasa narasi novel adalah Bahasa Indonesia — tetapi **latar tidak harus Indonesia**.
+Default untuk novel baru: universe imajiner non-bumi dengan lokasi dan istilah
+dunia yang bukan kosakata Indonesia (lihat `reference/worldbuilding.md` → Latar).
+Latar bumi nyata (termasuk Indonesia) hanya dipakai atas permintaan eksplisit
+pengguna, misal urban fantasy di Jakarta.
+
 ---
 
 ## ATURAN KERAS
 
-Tujuh aturan berikut tidak bisa ditawar. Melanggar satu saja = bab gagal dan tidak boleh disimpan.
+Delapan aturan berikut tidak bisa ditawar. Melanggar satu saja = bab gagal dan tidak boleh disimpan.
 
 **1. Dilarang mengulang paragraf atau kalimat.**
 Kalau bab terasa kurang panjang, tambahkan konflik, adegan, atau dialog baru. **Jangan pernah** menyalin-tempel teks yang sudah ada. Ini penyebab langsung 42 bab rusak yang masih ada di repo ini — lihat `NOVEL-AUDIT.md`.
@@ -34,6 +40,13 @@ Kalau tidak tercapai dengan materi nyata, beat-nya terlalu tipis — kembali ke 
 **7. Jangan tutup bab dengan kalimat generik.**
 `"...menyongsong hari baru"`, `"...siap menghadapi ancaman yang kian nyata"`, atau pertanyaan retoris `"Apakah Arya mampu...?"` dilarang. Tutup dengan aksi, keputusan, atau informasi baru.
 
+**8. Latar default universe imajiner, bukan bumi nyata.**
+Lokasi, sistem kekuatan, faksi, item, mata uang, dan istilah dunia dibangun
+sendiri — bukan pinjaman dari bumi (Batavia, Nusantara, Jakarta, dll.) dan
+bukan kosakata Indonesia. Prosa tetap Bahasa Indonesia; yang berubah adalah
+nama dan istilah dunianya. Latar bumi nyata hanya atas permintaan eksplisit
+pengguna. Rincian: `reference/worldbuilding.md` → Latar.
+
 ---
 
 ## Kontrak Output (ringkas)
@@ -46,6 +59,8 @@ novels/<slug>/
   cover-prompt.md  # prompt generator sampul; tidak dirender situs
   discovery.md     # visi awal (opsional); tidak dirender situs
   continuity-report.md  # hasil audit (opsional); tidak dirender situs
+  arcs.md          # peta arc — WAJIB untuk novel serial (serial: true); tidak dirender situs
+  world-state.md   # memori kerja state saat ini — WAJIB untuk novel serial; tidak dirender situs
   chapter-1.md     # nama file harus cocok ^chapter-\d+\.md$
   chapter-2.md
 public/covers/<slug>.webp
@@ -55,7 +70,7 @@ Frontmatter bab — persis tiga baris ini, tidak lebih:
 
 ```yaml
 ---
-title: "Bab 3: Garis Merah Kota Tua"
+title: "Bab 3: Gerbang Vel-Khara"
 chapter: 3
 ---
 ```
@@ -63,6 +78,10 @@ chapter: 3
 Body dimulai langsung dengan prosa. Jeda adegan pakai `---` sendirian di satu baris. Jumlah kata dihitung otomatis oleh situs; jangan tulis manual.
 
 Detail lengkap + rujukan baris ke `src/lib/novels.ts`: baca `reference/output-contract.md`.
+
+Mode serial panjang (README `serial: true`, scaffold `--serial`): tambah
+`arcs.md` + `world-state.md`, dan tabel bab di `outline.md` menjadi jendela arc
+aktif saja. Baca `workflows/serial-long-form.md` — jangan mulai tanpa itu.
 
 ---
 
@@ -81,9 +100,10 @@ Baca file yang relevan saja, saat dibutuhkan.
 | Nulis prosa, dialog, deskripsi | `reference/prose-craft.md` |
 | Susun plot, arc, pacing, foreshadow | `reference/story-architecture.md` |
 | Bikin/mendalami karakter | `reference/character.md` |
-| Bangun sistem kekuatan, faksi, lokasi | `reference/worldbuilding.md` |
+| Bangun sistem kekuatan, faksi, lokasi, latar imajiner | `reference/worldbuilding.md` |
 | Butuh konvensi genre tertentu | `reference/genre-packs.md` |
 | Novel baru: berbagi semesta atau berdiri sendiri | `reference/kidung-canon.md` |
+| Novel serial panjang (1000+ bab, `serial: true`) | `workflows/serial-long-form.md` |
 | Sebelum menyimpan file apa pun | `reference/quality-gate.md` |
 | Cek konsistensi lintas bab / novel selesai | `workflows/continuity-check.md` |
 

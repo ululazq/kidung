@@ -5,12 +5,18 @@
 #   git config core.hooksPath .githooks
 #
 # Lewati paksa bila perlu:
-#   SKIP_NOVEL_CHECK=1 git commit ...
+#   SKIP_NOVEL_CHECK=1 git commit ...      # lewati SEMUA cek hook
+#   SKIP_AUDIT_GATE=1 git commit ...       # lewati hanya gate audit drift
 #
 # Yang diperiksa (scripts/check-novels.mjs):
 #   - continuity-report.md ada di tiap novel
 #   - outline.md memverifikasi Complete (jumlah "selesai" >= jumlah bab)
 #   - band bab 1.500–2.500 kata (pengecualian terdokumentasi: gods-in-jars, lantern-of-night)
+#
+# Lalu, khusus novel serial (README `serial: true`), gate audit drift
+# (scripts/audit-arc.mjs --gate): temuan level/entitas yang belum ditinjau di
+# novels/<slug>/audit-review.md menggagalkan commit. Tinjau dengan:
+#   npm run novel:audit -- <slug> --accept <ID> --reason "alasan"
 
 set -euo pipefail
 
@@ -21,3 +27,7 @@ fi
 
 cd "$(git rev-parse --show-toplevel)"
 node scripts/check-novels.mjs
+
+if [ "${SKIP_AUDIT_GATE:-}" != "1" ]; then
+  node scripts/audit-arc.mjs --gate
+fi

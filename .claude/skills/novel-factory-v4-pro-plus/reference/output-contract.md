@@ -12,6 +12,8 @@ novels/<slug>/
   cover-prompt.md  # prompt sampul — diabaikan situs
   discovery.md     # visi awal (opsional) — diabaikan situs
   continuity-report.md  # hasil audit kontinuitas (opsional) — diabaikan situs
+  arcs.md          # peta arc (serial panjang) — diabaikan situs
+  world-state.md   # memori kerja state saat ini (serial panjang) — diabaikan situs
   chapter-1.md
   chapter-2.md
   ...
@@ -20,7 +22,12 @@ public/covers/<slug>.webp
 
 Situs memindai setiap subfolder `novels/` (`src/lib/novels.ts:123-124`). Folder tanpa bab tidak muncul di indeks (`novels.ts:165`), jadi novel yang baru punya README saja belum akan tampil — itu wajar.
 
-File internal (`bible.md`, `outline.md`, `cover-prompt.md`, dan opsional `discovery.md` / `continuity-report.md`) diabaikan situs: hanya `README.md` dan file yang cocok `^chapter-\d+\.md$` yang dibaca (`novels.ts:93-94`). Jadi dokumen visi dan laporan audit boleh tinggal di folder novel tanpa menyentuh rendering — sama seperti bible dan outline.
+File internal (`bible.md`, `outline.md`, `cover-prompt.md`, `arcs.md`, `world-state.md`, dan opsional `discovery.md` / `continuity-report.md`) diabaikan situs: hanya `README.md` dan file yang cocok `^chapter-\d+\.md$` yang dibaca (`novels.ts:93-94`). Jadi dokumen visi, peta arc, memori kerja, dan laporan audit boleh tinggal di folder novel tanpa menyentuh rendering — sama seperti bible dan outline.
+
+`arcs.md` dan `world-state.md` bukan opsional untuk novel serial: README
+`serial: true` mewajibkan keduanya (dicek `scripts/check-novels.mjs` — bab di
+luar rentang arc atau world-state basi = error). Situs tidak membaca field
+`serial`; ini metadata murni untuk pipeline.
 
 Nama file bab **harus** cocok `^chapter-\d+\.md$` (`novels.ts:93`). `chapter-01.md`, `bab-1.md`, atau `chapter-1.markdown` diabaikan diam-diam. Urutan diambil dari angka, bukan alfabet (`novels.ts:73-76`), jadi `chapter-10.md` aman.
 
@@ -30,19 +37,24 @@ Frontmatter memetakan ke `interface NovelMeta` (`novels.ts:8-20`):
 
 ```yaml
 ---
-title: "Kidung Bayang Batavia"
-slug: "kidung-bayang-batavia"
-genre: "Dark Urban Fantasy / Action Fantasy"
-tone: "Atmospheric, Gritty, Mysterious"
-protagonist: "Arya Pratama"
-description: "Satu kalimat kait — siapa, apa yang dia aktifkan, taruhannya apa."
+title: "Sang Pencatat Nama"
+slug: "sang-pencatat-nama"
+genre: "Fantasi / Misteri"
+tone: "Muram, Sastrawi, Penuh Teka-teki"
+protagonist: "Arka Wibisana"
+description: "Satu kalimat kait — siapa, apa yang dia temukan, taruhannya apa."
 status: "In Progress"
-started: "2026-08-03"
+started: "2026-08-13"
 completed: ""
-universe: "Kidungverse"
+universe: "Catur Prasasti"
 language: "Indonesian"
 ---
 ```
+
+Contoh di atas berlatar imajiner (Candraprana, Prasasti Agung) — prosa novel
+ditulis dalam Bahasa Indonesia, tapi lokasi dan istilah dunia tidak harus
+Indonesia. Ini default untuk novel baru; latar bumi nyata hanya atas
+permintaan eksplisit pengguna.
 
 - `title`, `slug`, `genre`, `tone`, `protagonist`, `description`, `status`, `started` — wajib.
 - `completed`, `universe`, `language` — opsional; string kosong diperlakukan sebagai tidak ada (`novels.ts:152-154`).
@@ -56,7 +68,7 @@ Di bawah frontmatter, README boleh berisi apa pun untuk manusia (judul H1, sinop
 
 ```yaml
 ---
-title: "Bab 3: Garis Merah Kota Tua"
+title: "Bab 3: Gerbang Vel-Khara"
 chapter: 3
 ---
 ```

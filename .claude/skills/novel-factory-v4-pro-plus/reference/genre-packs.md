@@ -34,7 +34,16 @@ Untuk steampunk khususnya: material dan tenaga harus terasa (uap, kuningan, teka
 
 **Jebakan:** lapisan normal langsung ditinggalkan di bab 1 · kota jadi latar generik · organisasi rahasia yang serba tahu sehingga protagonis tidak perlu berbuat.
 
-Untuk latar Indonesia: pakai geografi dan tekstur yang spesifik. `kidung-bayang-batavia` bekerja karena Kota Tua, Kali Ciliwung, dan Museum Nasional adalah tempat nyata dengan bau dan suhu.
+Untuk urban fantasy, dua jalur latar — pilih salah satu dan jangan mencampur:
+
+- **Universe imajiner (default):** kota rekaan dengan tekstur yang spesifik
+  dan konsisten. `sang-pencatat-nama` bekerja karena Candraprana punya
+  Prasasti Agung, Arsip Bawah, dan Pasar Tinta — tempat dengan bau dan suhu
+  yang terus ditegakkan di halaman.
+- **Bumi nyata (hanya atas permintaan eksplisit):** pakai geografi dan
+  tekstur yang spesifik. `kidung-bayang-batavia` bekerja karena Kota Tua,
+  Kali Ciliwung, dan Museum Nasional adalah tempat nyata dengan bau dan
+  suhu — tapi latar ini dipilih pengguna, bukan asumsi.
 
 ---
 

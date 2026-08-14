@@ -59,6 +59,16 @@ Satu baris per bab. Format: perubahan status → status lama jadi status baru.
 
 ---
 
+## Mode serial panjang (`serial: true`)
+
+Untuk novel 1000+ bab, tabel bab di atas hanya berisi **jendela arc aktif**
+(satu arc = mis. 250 bab). Saat arc selesai, tambahkan baris bab arc berikutnya
+DI BAWAH baris lama — jangan hapus atau menggeser baris yang sudah `selesai`.
+Header target memakai bentuk `Target: 2000 bab (serial panjang, 8 arc × 250 bab)`.
+Peta arc keseluruhan tinggal di `arcs.md`; lihat `workflows/serial-long-form.md`.
+
+---
+
 ## Catatan
 
 - **Perubahan status** wajib berbentuk `X → Y`. Kalau tidak bisa dirumuskan, babnya belum siap ditulis — pecah atau gabungkan beat.

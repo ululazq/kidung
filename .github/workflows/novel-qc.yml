@@ -30,5 +30,10 @@ jobs:
       - run: npm ci
       - name: QC struktural novel
         run: npm run verify
+      - name: Gate audit drift serial (novel serial)
+        # Temuan level/entitas yang belum ditinjau di novels/<slug>/audit-review.md
+        # menggagalkan CI — lewati paksa hanya bila benar-benar perlu
+        # (SKIP_AUDIT_GATE=1, tidak disarankan untuk main).
+        run: node scripts/audit-arc.mjs --gate
       - name: Build situs (publikasi)
         run: npm run build

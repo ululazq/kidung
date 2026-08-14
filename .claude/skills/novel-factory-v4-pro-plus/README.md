@@ -2,6 +2,8 @@
 
 Skill penulisan novel panjang berbahasa Indonesia untuk repo ini. Setiap novel hidup di `novels/<slug>/` dan langsung dirender situs Astro, jadi bentuk file adalah kontrak.
 
+Bahasa prosa adalah Indonesia, **latar tidak**. Novel baru default ke universe imajiner non-bumi: lokasi, sistem kekuatan, faksi, dan istilah dunia dibangun sendiri — bukan kosakata Indonesia dan bukan nama tempat bumi. Latar bumi nyata hanya atas permintaan eksplisit pengguna. Kebijakan ini diterapkan di `reference/worldbuilding.md` → Latar dan aturan keras #8 di `SKILL.md`.
+
 Claude memuat `SKILL.md` otomatis; file lain dibaca saat dibutuhkan lewat tabel routing di dalamnya.
 
 ## Struktur
@@ -44,8 +46,13 @@ Orkestrasi dari ide sampai terbit, satu perintah:
 npm run novel:scaffold -- --title "Judul" --genre "Fantasy / Steampunk" --chapters 20
 npm run novel:check -- <slug>            # QC struktural + cek mekanis per bab (peringatan)
 npm run novel:check -- <slug> --strict   # cek mekanis jadi error
+npm run novel:audit -- <slug> [--arc N] [--report]  # audit drift per arc vs world-state (serial)
+npm run novel:audit -- <slug> --summary  # ringkasan saja — wajib tiap N bab saat continue-writing
+npm run novel:audit -- <slug> --accept <ID> --reason "..."  # tandai temuan ditinjau
+npm run novel:audit -- <slug> --accept-all --reason "..."  # tandai semua level/entitas arc sekaligus
+npm run novel:audit -- --gate            # gate pre-commit: level/entitas belum ditinjau = gagal
 npm run novel:status                     # dasbor semua novel di pipeline
-npm run novel:publish -- <slug>          # gate akhir: QC strict → status Complete → build
+npm run novel:publish -- <slug>          # gate akhir: QC strict → gate drift serial → Complete → build
 ```
 
 - `scaffold` membuat README, bible, outline (N baris), cover-prompt, dan continuity-report — **belum ada bab**, jadi novel belum muncul di situs.

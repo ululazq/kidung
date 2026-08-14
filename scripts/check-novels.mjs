@@ -37,6 +37,15 @@
  *      paralel, peristiwa yang sama dari dua sisi) wajib dibalas oleh
  *      pasangannya — deklarasi setengah membuat penanda paralel di halaman
  *      universe tidak konsisten.
+ *  11. Serial panjang (README `serial: true`): arcs.md + world-state.md wajib
+ *      ada. Setiap bab di disk wajib jatuh di dalam TEPAT SATU rentang arc
+ *      (arcs.md), dan header world-state "Terakhir diperbarui: bab N" harus
+ *      sinkron dengan jumlah bab. Ini gate kontinuitas untuk novel 1000+ bab:
+ *      jangan tulis bab di luar arc yang terdeklarasi, dan jangan biarkan
+ *      world-state basi.
+ *
+ * Catatan: parsir outline memakai `\d+` (bukan `\d{1,2}`) — bab 100+ harus
+ * ikut terhitung sebagai baris outline.
  *
  * Cara pakai:
  *   npm run verify
@@ -262,15 +271,32 @@ function mechanicalChecks(body) {
   return out;
 }
 
-// Nomor bab yang dideklarasikan outline: header "Bab N" di mana pun, entri
-// bernomor "N. **Judul**" (gaya the-duet/the-remembering), dan baris tabel
-// "| N | ... |" (gaya pasar-subuh/the-astral-sovereign).
+// Nomor bab yang dideklarasikan outline. Tiga sumber digabung (Set otomatis
+// menghilangkan duplikat): baris tabel "| N | ... |", entri bernomor "N. **Judul**",
+// dan penyebutan "Bab N"/"bab N" di mana pun (heading "## Bab 14: ...",
+// "**Bab 1 — Judul**", dan format naratif gods-in-jars dkk yang memakai
+// "(bab 5):" di dalam prosa). \d+ (bukan \d{1,2}) agar bab 100+ ikut terhitung;
+// lookahead menolak rentang "(bab 61–120)" agar header arc masa depan di
+// outline serial tidak ikut terhitung sebagai bab.
 function outlineChapterNumbers(outline) {
   const nums = new Set();
-  for (const m of outline.matchAll(/\bBab\s+(\d{1,2})\b/gi)) nums.add(parseInt(m[1], 10));
+  for (const m of outline.matchAll(/^\|\s*(\d+)\s*\|/gm)) nums.add(parseInt(m[1], 10));
   for (const m of outline.matchAll(/^\d+\.\s+\*\*/gm)) nums.add(parseInt(m[0].match(/\d+/)[0], 10));
-  for (const m of outline.matchAll(/^\|\s*(\d{1,2})\s*\|/gm)) nums.add(parseInt(m[1], 10));
+  for (const m of outline.matchAll(/\bBab\s+(\d+)\b(?!\s*[-–—]\s*\d+)/gi)) nums.add(parseInt(m[1], 10));
   return [...nums].sort((a, b) => a - b);
+}
+
+/**
+ * Rentang bab per arc dari arcs.md — baris tabel kanonik:
+ *   | 1 | 1–250 | Judul Arc | Tujuan | Keadaan akhir dunia | Planned |
+ * Hanya baris tabel yang diakui (kontrak file). Mengembalikan [{start, end}].
+ */
+function parseArcRanges(text) {
+  const arcs = [];
+  for (const m of text.matchAll(/^\|\s*\d+\s*\|\s*(\d+)\s*[-–—]\s*(\d+)\s*\|/gm)) {
+    arcs.push({ start: parseInt(m[1], 10), end: parseInt(m[2], 10) });
+  }
+  return arcs;
 }
 
 // Judul bab dari outline: "**Bab 1 — Judul**", "## Bab 1 — Judul", "### Bab 14: Judul".
@@ -418,6 +444,52 @@ for (const { name, base, chapters } of novelsData) {
       problems.push(`frontmatter parallel="${parallel}" — novel pasangan tidak ditemukan di novels/`);
     } else if (parallelBySlug.get(parallel) !== name) {
       problems.push(`parallel tidak simetris: "${parallel}" tidak menyebut ${name} sebagai pasangannya`);
+    }
+  }
+
+  // 11) serial panjang (README `serial: true`): arcs.md + world-state.md wajib
+  //     ada dan sinkron. Setiap bab di disk wajib punya rumah di tepat satu arc
+  //     (gate: jangan tulis bab di luar arc terdeklarasi); header world-state
+  //     "Terakhir diperbarui: bab N" wajib cocok dengan jumlah bab di disk.
+  const serial = readmeField(base, "serial") === "true";
+  if (serial) {
+    const arcsPath = join(base, "arcs.md");
+    if (!existsSync(arcsPath)) {
+      problems.push("serial: arcs.md tidak ada (wajib untuk novel serial)");
+    } else {
+      const arcs = parseArcRanges(readFileSync(arcsPath, "utf8"));
+      if (arcs.length === 0) {
+        problems.push(
+          "arcs.md tidak memuat baris arc — format kontrak: | 1 | 1–250 | Judul | Tujuan | Keadaan akhir | Planned |",
+        );
+      } else {
+        for (const ch of chapters) {
+          const n = chapterNumber(ch);
+          const home = arcs.filter((a) => n >= a.start && n <= a.end);
+          if (home.length === 0) {
+            problems.push(`${ch}: bab ${n} di luar rentang arc arcs.md — tulis baris arc-nya dulu`);
+          } else if (home.length > 1) {
+            problems.push(`${ch}: bab ${n} masuk ${home.length} arc sekaligus — rentang arcs.md tumpang tindih`);
+          }
+        }
+        const sorted = [...arcs].sort((a, b) => a.start - b.start);
+        for (let i = 1; i < sorted.length; i++) {
+          if (sorted[i].start > sorted[i - 1].end + 1) {
+            warnings.push(
+              `${name}: celah antar arc di arcs.md — bab ${sorted[i - 1].end + 1}–${sorted[i].start - 1} tidak punya arc`,
+            );
+          }
+        }
+      }
+    }
+    const wsPath = join(base, "world-state.md");
+    if (!existsSync(wsPath)) {
+      problems.push("serial: world-state.md tidak ada (wajib untuk novel serial)");
+    } else {
+      const wm = readFileSync(wsPath, "utf8").match(/Terakhir diperbarui:\s*bab\s*(\d+)/i);
+      if (wm && parseInt(wm[1], 10) !== count) {
+        problems.push(`world-state 'Terakhir diperbarui: bab ${wm[1]}' ≠ ${count} bab di disk`);
+      }
     }
   }
 

@@ -11,6 +11,11 @@ Dari ide mentah sampai bab 1 tersimpan. Jangan lompat ke prosa sebelum langkah 4
 Kalau premis sudah utuh (siapa, ingin apa, dihalangi apa, taruhannya apa) dan pengguna tidak mau diajak wawancara, lewati dan kunci premis langsung:
 
 - Satu kalimat: siapa, ingin apa, dihalangi apa, taruhannya apa. Kalau salah satu unsur belum ada, tanya pengguna. Lihat `reference/story-architecture.md`.
+- **Putuskan latar secara eksplisit.** Default: universe imajiner non-bumi —
+  lokasi dan istilah dunia dibangun sendiri, bukan kosakata Indonesia dan
+  bukan nama tempat bumi (lihat `reference/worldbuilding.md` → Latar).
+  Latar bumi nyata (Jakarta, Yogyakarta, dll.) hanya atas permintaan
+  eksplisit pengguna. Kalau pengguna tidak menyebut latar, pakai imajiner.
 - Tentukan juga genre utama (lihat `reference/genre-packs.md`) dan panjang target: 20–40 bab @ 1.500–2.500 kata.
 - Putuskan sekarang juga apakah novel ini masuk Kidungverse atau berdiri sendiri — keputusan itu mempengaruhi nama, lokasi, dan sistem kekuatan yang boleh dipakai. Lihat `reference/kidung-canon.md`.
 

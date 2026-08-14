@@ -13,6 +13,7 @@
     "novel": "node scripts/novel-pipeline.mjs",
     "novel:scaffold": "node scripts/novel-pipeline.mjs scaffold",
     "novel:check": "node scripts/novel-pipeline.mjs check",
+    "novel:audit": "node scripts/novel-pipeline.mjs audit",
     "novel:publish": "node scripts/novel-pipeline.mjs publish",
     "novel:status": "node scripts/novel-pipeline.mjs status"
   },
