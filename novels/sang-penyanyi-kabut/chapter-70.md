@@ -25,7 +25,7 @@ Elira melompat ke dermaga dan berdiri di hadapan mereka, dengan mandat dewan di 
 
 "Aku membawa jawabannya," katanya.
 
-Aula Gema penuh pada malam itu. Seluruh enam belas kursi dewan terisi — Serin, Bram, Karrin, Joran, Kepala Gema, Nyra, Alrik, Len, Mara, Dace, Venn, Sari, Mira, Orin, Tessa, dan di ujung meja, Elira dengan garpu tala di pangkuan dan dua kertas di dada.
+Aula Gema penuh pada malam itu. Seluruh enam belas kursi dewan terisi — Serin, Bram, Karrin, Joran, Kepala Gema, Nyra, Alrik, Len, Mara, Dace, Venn, Sari, Miri, Orin, Tessa, dan di ujung meja, Elira dengan garpu tala di pangkuan dan dua kertas di dada.
 
 "Aku akan menceritakan semuanya," kata Elira, "karena mandat kalian berkata: kami yang memutuskan bersama. Dan kalian tidak bisa memutuskan sesuatu yang tidak kalian ketahui."
 
@@ -41,7 +41,7 @@ Aula itu hening untuk waktu yang lama.
 
 "Maka kita menjaga jeda itu," kata Elira. "Dengan hati yang utuh, seperti yang kita lakukan sekarang. Lagu Terakhir berkata jeda bisa menjadi selamanya — selama penjaganya utuh."
 
-"Dan yang tersimpan pertama?" tanya Mira, perempuan yang saudaranya telah tersimpan dua puluh tahun. "Mereka menunggu selama-lamanya?"
+"Dan yang tersimpan pertama?" tanya Miri, perempuan yang saudaranya telah tersimpan dua puluh tahun. "Mereka menunggu selama-lamanya?"
 
 "Ya," kata Elira jujur. "Mereka menunggu. Seperti yang telah mereka lakukan selama ribuan tahun. Dan setiap generasi penjaga yang memegang lagu ini akan memegang jeda yang sedikit lebih berat."
 
