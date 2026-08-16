@@ -1,10 +1,15 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro'
-import { getNovels, getAllGenres, getAllUniverses, readingMinutes } from '../lib/novels'
+import { getNovels, getAllGenres, getAllUniverses, readingMinutes, buildNovelIndex } from '../lib/novels'
 
 const novels = await getNovels()
 const genres = await getAllGenres()
 const universes = await getAllUniverses()
+
+// Peta slug → judul/cover/bab untuk seksi "Lanjutkan Membaca" (sisi klien).
+const novelIndex = buildNovelIndex(novels)
+// Dikirim ke klien via tag JSON — lihat komentar di BookmarkButton.
+const pageData = JSON.stringify(novelIndex).replace(/</g, '\\u003c')
 
 // --- Statistik perpustakaan (dihitung live, bukan hardcoded) ---
 const totalChapters = novels.reduce((sum, n) => sum + n.chapterCount, 0)
@@ -126,6 +131,12 @@ const otherGenres = genres.filter((g) => !popularGenres.includes(g))
         </div>
       </a>
     )}
+
+    <!-- Lanjutkan membaca: terisi dari riwayat baca saat user login. -->
+    <section id="continue-reading" class="continue-section" hidden>
+      <h2 class="continue-title">Lanjutkan Membaca</h2>
+      <div id="continue-list" class="continue-grid"></div>
+    </section>
 
     <div class="novel-grid" id="novel-grid">
       {novels.map((novel) => {
@@ -582,6 +593,73 @@ const otherGenres = genres.filter((g) => !popularGenres.includes(g))
       font-size: 1.125rem;
     }
 
+    .continue-section {
+      margin-bottom: 3.5rem;
+    }
+
+    .continue-title {
+      font-size: 1.5rem;
+      margin-bottom: 1rem;
+    }
+
+    .continue-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+      gap: 1rem;
+    }
+
+    .continue-card {
+      display: flex;
+      align-items: center;
+      gap: 0.85rem;
+      padding: 0.75rem;
+      background: var(--bg-elev);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      text-decoration: none;
+      color: inherit;
+      transition: all 200ms ease;
+    }
+
+    .continue-card:hover {
+      border-color: var(--accent);
+      transform: translateY(-2px);
+      box-shadow: var(--shadow);
+    }
+
+    .continue-cover {
+      width: 40px;
+      height: 60px;
+      object-fit: cover;
+      border-radius: 6px;
+      background: var(--bg-elev-2);
+      flex-shrink: 0;
+    }
+
+    .continue-main {
+      display: flex;
+      flex-direction: column;
+      gap: 0.15rem;
+      min-width: 0;
+    }
+
+    .continue-novel {
+      font-weight: 600;
+      font-size: 0.9375rem;
+      color: var(--text);
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    .continue-chapter {
+      font-size: 0.8125rem;
+      color: var(--text-muted);
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
     @media (max-width: 1024px) {
       .novel-grid {
         grid-template-columns: repeat(4, 1fr);
@@ -711,7 +789,68 @@ const otherGenres = genres.filter((g) => !popularGenres.includes(g))
     }
   </style>
 
+  <script is:inline type="application/json" id="page-data" set:html={pageData}></script>
+
   <script>
+    import { getSupabase } from '../lib/supabase'
+    import type { NovelIndexEntry } from '../lib/novels'
+
+    const novelIndex = JSON.parse(
+      document.getElementById('page-data')!.textContent || '{}',
+    ) as Record<string, NovelIndexEntry>
+
+    // --- Lanjutkan membaca: bab terakhir per novel dari riwayat (saat login) ---
+    const continueSection = document.getElementById('continue-reading') as HTMLElement
+    const continueList = document.getElementById('continue-list') as HTMLElement
+
+    function esc(s: string): string {
+      return s.replace(/[&<>"']/g, (c) => {
+        return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]!
+      })
+    }
+
+    async function loadContinueReading() {
+      const supabase = getSupabase()
+      if (!supabase || !continueSection || !continueList) return
+
+      const { data } = await supabase.auth.getSession()
+      if (!data.session) return
+
+      const { data: history } = await supabase
+        .from('reading_history')
+        .select('*')
+        .order('updated_at', { ascending: false })
+        .limit(6)
+
+      if (!history?.length) return
+
+      const items = history
+        .map((h) => {
+          const novel = novelIndex[h.novel_slug]
+          if (!novel) return ''
+          const chapter = novel.chapters.find((c) => c.slug === h.chapter_slug)
+          if (!chapter) return ''
+          const cover = novel.cover
+            ? `<img class="continue-cover" src="${novel.cover}" alt="" loading="lazy" />`
+            : '<div class="continue-cover"></div>'
+          return `
+            <a class="continue-card" href="/chapter/${esc(h.novel_slug)}/${esc(h.chapter_slug)}">
+              ${cover}
+              <span class="continue-main">
+                <span class="continue-novel">${esc(novel.title)}</span>
+                <span class="continue-chapter">Bab ${chapter.number} · ${esc(chapter.title)}</span>
+              </span>
+            </a>`
+        })
+        .join('')
+
+      if (!items) return
+      continueSection.hidden = false
+      continueList.innerHTML = items
+    }
+
+    loadContinueReading()
+
     const search = document.getElementById('search') as HTMLInputElement
     const chips = document.querySelectorAll<HTMLButtonElement>('.chip[data-genre]')
     const universeChips = document.querySelectorAll<HTMLButtonElement>('.chip[data-universe]')

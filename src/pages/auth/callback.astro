@@ -1,0 +1,53 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro'
+---
+
+<BaseLayout title="Masuk">
+  <div class="container callback-wrap">
+    <p class="muted" id="auth-status">Menyelesaikan masuk…</p>
+  </div>
+
+  <style>
+    .callback-wrap {
+      text-align: center;
+      padding-block: 4rem;
+    }
+  </style>
+
+  <script>
+    import { getSupabase } from '../../lib/supabase'
+
+    const status = document.getElementById('auth-status') as HTMLElement
+
+    async function finish() {
+      const url = new URL(window.location.href)
+      const error = url.searchParams.get('error')
+
+      if (error) {
+        status.textContent = 'Masuk dibatalkan atau gagal. Silakan coba lagi.'
+        return
+      }
+
+      const supabase = getSupabase()
+      if (!supabase) {
+        status.textContent = 'Login belum dikonfigurasi di situs ini.'
+        return
+      }
+
+      // Implicit flow: token tiba di URL hash — getSession() memicu deteksi
+      // session oleh supabase-js (tersimpan ke localStorage) lalu hash
+      // dibersihkan dari URL. PKCE flow: kode di query ?code= — tukar dulu.
+      const code = url.searchParams.get('code')
+      if (code) {
+        await supabase.auth.exchangeCodeForSession(code)
+      } else {
+        await supabase.auth.getSession()
+      }
+
+      const next = url.searchParams.get('next')
+      window.location.replace(next && next.startsWith('/') ? next : '/')
+    }
+
+    finish()
+  </script>
+</BaseLayout>

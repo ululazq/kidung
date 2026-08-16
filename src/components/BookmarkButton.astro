@@ -1,0 +1,140 @@
+---
+interface Props {
+  novelSlug: string
+  /** Isi untuk bookmark bab; kosong = bookmark seluruh novel. */
+  chapterSlug?: string
+  label?: string
+  variant?: 'icon' | 'btn'
+}
+
+const { novelSlug, chapterSlug, variant = 'icon' } = Astro.props
+const isChapter = Boolean(chapterSlug)
+const text = Astro.props.label ?? (isChapter ? 'Tandai Bab' : 'Tandai Novel')
+
+// Data build-time dikirim ke klien via tag JSON (bukan define:vars, karena
+// define:vars membuat script jadi inline sehingga TS/import tidak diproses).
+const pageData = JSON.stringify({ novelSlug, chapterSlug }).replace(/</g, '\\u003c')
+---
+
+{variant === 'icon' ? (
+  <button
+    id="bookmark-btn"
+    class="bookmark-btn icon-btn"
+    aria-pressed="false"
+    aria-label={text}
+    title={text}
+  >
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+      <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z" />
+    </svg>
+  </button>
+) : (
+  <button id="bookmark-btn" class="bookmark-btn btn" aria-pressed="false">
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+      <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z" />
+    </svg>
+    <span class="bookmark-label">{text}</span>
+  </button>
+)}
+
+<style>
+  .bookmark-btn {
+    flex-shrink: 0;
+    transition: all 200ms ease;
+  }
+
+  .bookmark-btn[aria-pressed='true'] {
+    color: var(--accent);
+    border-color: var(--accent);
+    background: color-mix(in srgb, var(--accent) 12%, var(--bg-elev));
+  }
+
+  .bookmark-btn[aria-pressed='true'] svg {
+    fill: currentColor;
+  }
+</style>
+
+<script is:inline type="application/json" id="bookmark-data" set:html={pageData}></script>
+
+<script>
+  import { getSupabase } from '../lib/supabase'
+  import type { Session } from '@supabase/supabase-js'
+
+  const pageData = JSON.parse(
+    document.getElementById('bookmark-data')!.textContent || '{}',
+  ) as { novelSlug: string; chapterSlug: string | null }
+  const novelSlug = pageData.novelSlug
+  const chapterSlug = pageData.chapterSlug
+
+  const btn = document.getElementById('bookmark-btn') as HTMLButtonElement
+
+  const supabase = getSupabase()
+  if (!supabase) {
+    btn.hidden = true
+  } else {
+    // Sembunyikan sementara sampai status bookmark diketahui, hindari
+    // kilatan ikon yang salah.
+    btn.hidden = true
+    init()
+  }
+
+  async function init() {
+    // Status awal: bookmark sudah ada atau belum untuk user ini.
+    let query = supabase!
+      .from('bookmarks')
+      .select('id')
+      .eq('novel_slug', novelSlug)
+    query = chapterSlug ? query.eq('chapter_slug', chapterSlug) : query.is('chapter_slug', null)
+    const { data: existing } = await query.maybeSingle()
+
+    btn.setAttribute('aria-pressed', String(Boolean(existing)))
+    btn.hidden = false
+    btn.addEventListener('click', toggle)
+  }
+
+  async function toggle() {
+    const { data } = await supabase!.auth.getSession()
+    const session: Session | null = data.session
+
+    if (!session) {
+      // Belum login: arahkan ke Google dulu, kembali ke halaman ini.
+      const redirectTo =
+        window.location.origin +
+        '/auth/callback?next=' +
+        encodeURIComponent(window.location.pathname)
+      await supabase!.auth.signInWithOAuth({
+        provider: 'google',
+        options: { redirectTo },
+      })
+      return
+    }
+
+    const pressed = btn.getAttribute('aria-pressed') === 'true'
+
+    if (pressed) {
+      let del = supabase!
+        .from('bookmarks')
+        .delete()
+        .eq('user_id', session.user.id)
+        .eq('novel_slug', novelSlug)
+      del = chapterSlug ? del.eq('chapter_slug', chapterSlug) : del.is('chapter_slug', null)
+      const { error } = await del
+      if (error) {
+        console.error('Gagal menghapus bookmark', error)
+        return
+      }
+      btn.setAttribute('aria-pressed', 'false')
+    } else {
+      const { error } = await supabase!.from('bookmarks').insert({
+        user_id: session.user.id,
+        novel_slug: novelSlug,
+        chapter_slug: chapterSlug ?? null,
+      })
+      if (error) {
+        console.error('Gagal menyimpan bookmark', error)
+        return
+      }
+      btn.setAttribute('aria-pressed', 'true')
+    }
+  }
+</script>

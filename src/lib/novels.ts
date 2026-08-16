@@ -243,6 +243,29 @@ async function resolveDirName(slug: string): Promise<string> {
   return slug
 }
 
+export interface NovelIndexEntry {
+  title: string
+  cover: string | null
+  chapters: { slug: string; title: string; number: number }[]
+}
+
+/**
+ * Peta slug → judul/cover/daftar bab, di-embed ke halaman sebagai JSON
+ * (define:vars) supaya sisi klien bisa menampilkan judul bookmark dan
+ * riwayat baca tanpa query tambahan. Data ini statis dari repo.
+ */
+export function buildNovelIndex(novels: Novel[]): Record<string, NovelIndexEntry> {
+  const index: Record<string, NovelIndexEntry> = {}
+  for (const novel of novels) {
+    index[novel.slug] = {
+      title: novel.title,
+      cover: novel.cover ? `/covers/${novel.cover}` : null,
+      chapters: novel.chapters.map((c) => ({ slug: c.slug, title: c.title, number: c.number })),
+    }
+  }
+  return index
+}
+
 export function readingMinutes(words: number): number {
   // ~220 wpm is a common average for narrative prose in Indonesian.
   return Math.max(1, Math.round(words / 220))

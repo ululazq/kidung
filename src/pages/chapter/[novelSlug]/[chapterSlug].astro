@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../../../layouts/BaseLayout.astro'
+import BookmarkButton from '../../../components/BookmarkButton.astro'
 import { getNovels, getChapter, readingMinutes } from '../../../lib/novels'
 import { marked } from 'marked'
 
@@ -19,6 +20,9 @@ if (!chapter) return Astro.redirect('/404')
 
 const html = marked.parse(chapter.body)
 const minutes = readingMinutes(chapter.words)
+
+// Data build-time dikirim ke klien via tag JSON (bukan define:vars).
+const pageData = JSON.stringify({ novelSlug, chapterSlug }).replace(/</g, '\\u003c')
 ---
 
 <BaseLayout
@@ -48,8 +52,9 @@ const minutes = readingMinutes(chapter.words)
         <h1>{chapter.title}</h1>
       </header>
 
-      <!-- Font size controls -->
+      <!-- Font size controls + bookmark bab -->
       <div class="reader-controls">
+        <BookmarkButton novelSlug={chapter.novel.slug} chapterSlug={chapterSlug!} variant="icon" />
         <div class="font-control">
           <button
             id="font-decrease"
@@ -180,7 +185,9 @@ const minutes = readingMinutes(chapter.words)
 
     .reader-controls {
       display: flex;
+      align-items: center;
       justify-content: flex-end;
+      gap: 0.75rem;
       margin-bottom: 2rem;
       padding-bottom: 1.5rem;
       border-bottom: 1px solid var(--border);
@@ -348,18 +355,56 @@ const minutes = readingMinutes(chapter.words)
     }
   </style>
 
+  <script is:inline type="application/json" id="chapter-data" set:html={pageData}></script>
+
   <script>
-    // Reading progress bar
+    import { getSupabase } from '../../../lib/supabase'
+
+    const pageData = JSON.parse(
+      document.getElementById('chapter-data')!.textContent || '{}',
+    ) as { novelSlug: string; chapterSlug: string }
+    const novelSlug = pageData.novelSlug
+    const chapterSlug = pageData.chapterSlug
+
+    // Riwayat baca: catat bab terakhir yang dibuka per novel (saat login).
+    async function recordHistory() {
+      const supabase = getSupabase()
+      if (!supabase) return
+      const { data } = await supabase.auth.getSession()
+      if (!data.session) return
+      await supabase.from('reading_history').upsert(
+        {
+          user_id: data.session.user.id,
+          novel_slug: novelSlug,
+          chapter_slug: chapterSlug,
+          updated_at: new Date().toISOString(),
+        },
+        { onConflict: 'user_id,novel_slug' },
+      )
+    }
+    recordHistory()
+
+    // Reading progress bar + progres baca per bab (simpan/pulihkan scroll)
     const progressBar = document.getElementById('progress-bar') as HTMLElement
     let ticking = false
+
+    // --- Progres baca (Supabase, hanya saat login) ---
+    const MIN_RESTORE = 1 // abaikan posisi < 1%
+    const SAVE_DELAY = 600
+    let lastPct = 0
+    let lastRestored: number | undefined
+    let savedPct: number | undefined
+    let saveTimer: number | undefined
 
     function updateProgress() {
       const winScroll = document.documentElement.scrollTop || document.body.scrollTop
       const height =
         document.documentElement.scrollHeight - document.documentElement.clientHeight
-      const scrolled = (winScroll / height) * 100
+      const scrolled = height > 0 ? (winScroll / height) * 100 : 0
       progressBar.style.width = scrolled + '%'
+      lastPct = scrolled
       ticking = false
+      scheduleSave()
     }
 
     window.addEventListener('scroll', () => {
@@ -367,6 +412,70 @@ const minutes = readingMinutes(chapter.words)
         window.requestAnimationFrame(updateProgress)
         ticking = true
       }
+    })
+
+    async function writeProgress(pct: number) {
+      const supabase = getSupabase()
+      if (!supabase || pct <= 0) return
+      const { data } = await supabase.auth.getSession()
+      if (!data.session) return
+      const rounded = Math.round(pct * 10) / 10
+      if (savedPct === rounded) return
+      savedPct = rounded
+      await supabase.from('reading_progress').upsert(
+        {
+          user_id: data.session.user.id,
+          novel_slug: novelSlug,
+          chapter_slug: chapterSlug,
+          progress: rounded,
+          updated_at: new Date().toISOString(),
+        },
+        { onConflict: 'user_id,novel_slug,chapter_slug' },
+      )
+    }
+
+    function scheduleSave() {
+      if (saveTimer) window.clearTimeout(saveTimer)
+      saveTimer = window.setTimeout(() => writeProgress(lastPct), SAVE_DELAY)
+    }
+
+    // Simpan posisi terakhir saat meninggalkan halaman (ganti bab / tutup tab).
+    window.addEventListener('pagehide', () => {
+      if (saveTimer) window.clearTimeout(saveTimer)
+      if (lastPct > 0) writeProgress(lastPct)
+    })
+
+    function restoreScroll(pct: number) {
+      const height =
+        document.documentElement.scrollHeight - document.documentElement.clientHeight
+      window.scrollTo(0, (pct / 100) * height)
+    }
+
+    // Pulihkan posisi baca bab ini saat dibuka lagi.
+    async function loadProgress() {
+      const supabase = getSupabase()
+      if (!supabase) return
+      const { data } = await supabase.auth.getSession()
+      if (!data.session) return
+      const { data: row } = await supabase
+        .from('reading_progress')
+        .select('progress')
+        .eq('novel_slug', novelSlug)
+        .eq('chapter_slug', chapterSlug)
+        .maybeSingle()
+      const pct = row?.progress
+      if (typeof pct === 'number' && pct >= MIN_RESTORE) {
+        lastRestored = pct
+        requestAnimationFrame(() => {
+          setTimeout(() => restoreScroll(pct), 0)
+        })
+      }
+    }
+
+    loadProgress()
+    // Koreksi posisi sekali lagi setelah font/gambar selesai dimuat.
+    window.addEventListener('load', () => {
+      if (lastRestored !== undefined) restoreScroll(lastRestored)
     })
 
     // Font size controls

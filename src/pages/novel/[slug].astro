@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro'
+import BookmarkButton from '../../components/BookmarkButton.astro'
 import { getNovels, getNovel, getUniverseSeries, getUniverseSlug, readingMinutes } from '../../lib/novels'
 
 export async function getStaticPaths() {
@@ -135,6 +136,10 @@ const parallelLinks = (
           </svg>
           Mulai Baca
         </a>
+
+        <div class="bookmark-cta-wrap">
+          <BookmarkButton novelSlug={novel.slug} variant="btn" />
+        </div>
 
         {(prequel || sequel) && (
           <nav class="series-nav" aria-label="Navigasi urutan universe">
@@ -329,6 +334,16 @@ const parallelLinks = (
       max-width: 20rem;
       font-size: 1.0625rem;
       padding: 0.85rem 1.5rem;
+    }
+
+    .bookmark-cta-wrap {
+      width: 100%;
+      max-width: 20rem;
+      margin-top: 0.75rem;
+    }
+
+    .bookmark-cta-wrap :global(button) {
+      width: 100%;
     }
 
     .series-nav {
