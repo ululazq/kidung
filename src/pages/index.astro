@@ -135,7 +135,33 @@ const otherGenres = genres.filter((g) => !popularGenres.includes(g))
     <!-- Lanjutkan membaca: terisi dari riwayat baca saat user login. -->
     <section id="continue-reading" class="continue-section" hidden>
       <h2 class="continue-title">Lanjutkan Membaca</h2>
-      <div id="continue-list" class="continue-grid"></div>
+
+      <!-- Skeleton: tampil selama riwayat dimuat dari Supabase. -->
+      <div id="continue-skeleton" class="continue-grid" aria-hidden="true">
+        <div class="continue-skeleton-card">
+          <span class="continue-skeleton-cover"></span>
+          <span class="continue-skeleton-lines">
+            <span class="continue-skeleton-line"></span>
+            <span class="continue-skeleton-line short"></span>
+          </span>
+        </div>
+        <div class="continue-skeleton-card">
+          <span class="continue-skeleton-cover"></span>
+          <span class="continue-skeleton-lines">
+            <span class="continue-skeleton-line"></span>
+            <span class="continue-skeleton-line short"></span>
+          </span>
+        </div>
+        <div class="continue-skeleton-card">
+          <span class="continue-skeleton-cover"></span>
+          <span class="continue-skeleton-lines">
+            <span class="continue-skeleton-line"></span>
+            <span class="continue-skeleton-line short"></span>
+          </span>
+        </div>
+      </div>
+
+      <div id="continue-list" class="continue-grid" hidden></div>
     </section>
 
     <div class="novel-grid" id="novel-grid">
@@ -608,7 +634,9 @@ const otherGenres = genres.filter((g) => !popularGenres.includes(g))
       gap: 1rem;
     }
 
-    .continue-card {
+    /* Kartu dibuat lewat innerHTML sisi klien, jadi elemennya tidak membawa
+       scope-attribute Astro — aturan harus global supaya berlaku. */
+    :global(.continue-card) {
       display: flex;
       align-items: center;
       gap: 0.85rem;
@@ -621,13 +649,13 @@ const otherGenres = genres.filter((g) => !popularGenres.includes(g))
       transition: all 200ms ease;
     }
 
-    .continue-card:hover {
+    :global(.continue-card:hover) {
       border-color: var(--accent);
       transform: translateY(-2px);
       box-shadow: var(--shadow);
     }
 
-    .continue-cover {
+    :global(.continue-cover) {
       width: 40px;
       height: 60px;
       object-fit: cover;
@@ -636,14 +664,14 @@ const otherGenres = genres.filter((g) => !popularGenres.includes(g))
       flex-shrink: 0;
     }
 
-    .continue-main {
+    :global(.continue-main) {
       display: flex;
       flex-direction: column;
       gap: 0.15rem;
       min-width: 0;
     }
 
-    .continue-novel {
+    :global(.continue-novel) {
       font-weight: 600;
       font-size: 0.9375rem;
       color: var(--text);
@@ -652,12 +680,64 @@ const otherGenres = genres.filter((g) => !popularGenres.includes(g))
       white-space: nowrap;
     }
 
-    .continue-chapter {
+    :global(.continue-chapter) {
       font-size: 0.8125rem;
       color: var(--text-muted);
       overflow: hidden;
       text-overflow: ellipsis;
       white-space: nowrap;
+    }
+
+    /* Skeleton — meniru bentuk .continue-card agar transisinya mulus. */
+    .continue-skeleton-card {
+      display: flex;
+      align-items: center;
+      gap: 0.85rem;
+      padding: 0.75rem;
+      background: var(--bg-elev);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+    }
+
+    .continue-skeleton-cover {
+      width: 40px;
+      height: 60px;
+      border-radius: 6px;
+      background: var(--bg-elev-2);
+      flex-shrink: 0;
+    }
+
+    .continue-skeleton-lines {
+      display: flex;
+      flex-direction: column;
+      gap: 0.4rem;
+      flex: 1;
+      min-width: 0;
+    }
+
+    .continue-skeleton-line {
+      height: 0.75rem;
+      border-radius: 999px;
+      background: var(--bg-elev-2);
+    }
+
+    .continue-skeleton-line.short {
+      width: 45%;
+    }
+
+    .continue-skeleton-card .continue-skeleton-cover,
+    .continue-skeleton-card .continue-skeleton-line {
+      animation: index-skeleton-pulse 1.4s ease-in-out infinite;
+    }
+
+    @keyframes index-skeleton-pulse {
+      0%,
+      100% {
+        opacity: 1;
+      }
+      50% {
+        opacity: 0.45;
+      }
     }
 
     @media (max-width: 1024px) {
@@ -802,6 +882,7 @@ const otherGenres = genres.filter((g) => !popularGenres.includes(g))
     // --- Lanjutkan membaca: bab terakhir per novel dari riwayat (saat login) ---
     const continueSection = document.getElementById('continue-reading') as HTMLElement
     const continueList = document.getElementById('continue-list') as HTMLElement
+    const continueSkeleton = document.getElementById('continue-skeleton') as HTMLElement
 
     function esc(s: string): string {
       return s.replace(/[&<>"']/g, (c) => {
@@ -816,37 +897,49 @@ const otherGenres = genres.filter((g) => !popularGenres.includes(g))
       const { data } = await supabase.auth.getSession()
       if (!data.session) return
 
-      const { data: history } = await supabase
-        .from('reading_history')
-        .select('*')
-        .order('updated_at', { ascending: false })
-        .limit(6)
-
-      if (!history?.length) return
-
-      const items = history
-        .map((h) => {
-          const novel = novelIndex[h.novel_slug]
-          if (!novel) return ''
-          const chapter = novel.chapters.find((c) => c.slug === h.chapter_slug)
-          if (!chapter) return ''
-          const cover = novel.cover
-            ? `<img class="continue-cover" src="${novel.cover}" alt="" loading="lazy" />`
-            : '<div class="continue-cover"></div>'
-          return `
-            <a class="continue-card" href="/chapter/${esc(h.novel_slug)}/${esc(h.chapter_slug)}">
-              ${cover}
-              <span class="continue-main">
-                <span class="continue-novel">${esc(novel.title)}</span>
-                <span class="continue-chapter">Bab ${chapter.number} · ${esc(chapter.title)}</span>
-              </span>
-            </a>`
-        })
-        .join('')
-
-      if (!items) return
+      // Data akan dimuat — tampilkan skeleton dulu, baru isi daftarnya.
       continueSection.hidden = false
-      continueList.innerHTML = items
+      continueSkeleton.hidden = false
+      continueList.hidden = true
+
+      try {
+        const { data: history } = await supabase
+          .from('reading_history')
+          .select('*')
+          .order('updated_at', { ascending: false })
+          .limit(6)
+
+        if (!history?.length) return
+
+        const items = history
+          .map((h) => {
+            const novel = novelIndex[h.novel_slug]
+            if (!novel) return ''
+            const chapter = novel.chapters.find((c) => c.slug === h.chapter_slug)
+            if (!chapter) return ''
+            const cover = novel.cover
+              ? `<img class="continue-cover" src="${novel.cover}" alt="" loading="lazy" />`
+              : '<div class="continue-cover"></div>'
+            return `
+              <a class="continue-card" href="/chapter/${esc(h.novel_slug)}/${esc(h.chapter_slug)}">
+                ${cover}
+                <span class="continue-main">
+                  <span class="continue-novel">${esc(novel.title)}</span>
+                  <span class="continue-chapter">Bab ${chapter.number} · ${esc(chapter.title)}</span>
+                </span>
+              </a>`
+          })
+          .join('')
+
+        if (!items) return
+        continueList.innerHTML = items
+        continueList.hidden = false
+      } finally {
+        // Apa pun hasilnya (ada data / kosong / gagal), skeleton selalu
+        // ditutup; seksi ikut disembunyikan lagi kalau tidak ada riwayat.
+        continueSkeleton.hidden = true
+        if (continueList.hidden) continueSection.hidden = true
+      }
     }
 
     loadContinueReading()

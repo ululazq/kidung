@@ -17,19 +17,30 @@ const pageData = JSON.stringify({ novelSlug, chapterSlug }).replace(/</g, '\\u00
 ---
 
 {variant === 'icon' ? (
+  <span
+    class="bookmark-skeleton bookmark-skeleton--icon"
+    id="bookmark-skeleton"
+    aria-hidden="true"
+  ></span>
   <button
     id="bookmark-btn"
     class="bookmark-btn icon-btn"
     aria-pressed="false"
     aria-label={text}
     title={text}
+    hidden
   >
     <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
       <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z" />
     </svg>
   </button>
 ) : (
-  <button id="bookmark-btn" class="bookmark-btn btn" aria-pressed="false">
+  <span
+    class="bookmark-skeleton bookmark-skeleton--btn"
+    id="bookmark-skeleton"
+    aria-hidden="true"
+  ></span>
+  <button id="bookmark-btn" class="bookmark-btn btn" aria-pressed="false" hidden>
     <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
       <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z" />
     </svg>
@@ -52,12 +63,45 @@ const pageData = JSON.stringify({ novelSlug, chapterSlug }).replace(/</g, '\\u00
   .bookmark-btn[aria-pressed='true'] svg {
     fill: currentColor;
   }
+
+  /* Skeleton: placeholder saat status bookmark dimuat dari Supabase.
+     Ukurannya meniru tombol agar tidak ada layout shift. */
+  .bookmark-skeleton {
+    display: inline-flex;
+    flex-shrink: 0;
+    border-radius: var(--radius);
+    background: var(--bg-elev-2);
+    animation: bookmark-skeleton-pulse 1.4s ease-in-out infinite;
+  }
+
+  .bookmark-skeleton--icon {
+    width: 44px;
+    height: 44px;
+    border: 1px solid var(--border);
+  }
+
+  .bookmark-skeleton--btn {
+    width: 100%;
+    height: 44px;
+    border: 1px solid var(--border-strong);
+  }
+
+  @keyframes bookmark-skeleton-pulse {
+    0%,
+    100% {
+      opacity: 1;
+    }
+    50% {
+      opacity: 0.45;
+    }
+  }
 </style>
 
 <script is:inline type="application/json" id="bookmark-data" set:html={pageData}></script>
 
 <script>
   import { getSupabase } from '../lib/supabase'
+  import { markBookmarkReady } from '../lib/bookmarkReady'
   import type { Session } from '@supabase/supabase-js'
 
   const pageData = JSON.parse(
@@ -67,14 +111,20 @@ const pageData = JSON.stringify({ novelSlug, chapterSlug }).replace(/</g, '\\u00
   const chapterSlug = pageData.chapterSlug
 
   const btn = document.getElementById('bookmark-btn') as HTMLButtonElement
+  const skeleton = document.getElementById('bookmark-skeleton') as HTMLElement
+
+  // Skeleton diganti tombol, lalu selesaikan promise bersama agar halaman
+  // (mis. skeleton daftar bab di halaman novel) tahu status sudah diketahui.
+  function ready() {
+    skeleton.hidden = true
+    markBookmarkReady()
+  }
 
   const supabase = getSupabase()
   if (!supabase) {
-    btn.hidden = true
+    // Fitur akun nonaktif (env kosong): tombol tidak pernah tampil.
+    ready()
   } else {
-    // Sembunyikan sementara sampai status bookmark diketahui, hindari
-    // kilatan ikon yang salah.
-    btn.hidden = true
     init()
   }
 
@@ -89,6 +139,7 @@ const pageData = JSON.stringify({ novelSlug, chapterSlug }).replace(/</g, '\\u00
 
     btn.setAttribute('aria-pressed', String(Boolean(existing)))
     btn.hidden = false
+    ready()
     btn.addEventListener('click', toggle)
   }
 

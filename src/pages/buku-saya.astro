@@ -34,6 +34,33 @@ const pageData = JSON.stringify(novelIndex).replace(/</g, '\\u003c')
 
     <!-- Sudah login -->
     <div id="logged-in" hidden>
+      <!-- Skeleton: tampil selama bookmark & riwayat dimuat dari Supabase. -->
+      <div id="loading-skeleton" class="book-section" aria-hidden="true">
+        <div class="skeleton-list">
+          <div class="skeleton-row">
+            <span class="skeleton-cover"></span>
+            <span class="skeleton-lines">
+              <span class="skeleton-line"></span>
+              <span class="skeleton-line short"></span>
+            </span>
+          </div>
+          <div class="skeleton-row">
+            <span class="skeleton-cover"></span>
+            <span class="skeleton-lines">
+              <span class="skeleton-line"></span>
+              <span class="skeleton-line short"></span>
+            </span>
+          </div>
+          <div class="skeleton-row">
+            <span class="skeleton-cover"></span>
+            <span class="skeleton-lines">
+              <span class="skeleton-line"></span>
+              <span class="skeleton-line short"></span>
+            </span>
+          </div>
+        </div>
+      </div>
+
       <section id="history-section" class="book-section" hidden>
         <h2>Lanjutkan Membaca</h2>
         <ul id="history-list" class="book-list"></ul>
@@ -82,7 +109,9 @@ const pageData = JSON.stringify(novelIndex).replace(/</g, '\\u003c')
       gap: 0.5rem;
     }
 
-    .book-row {
+    /* Baris daftar dibuat lewat innerHTML sisi klien, jadi elemennya tidak
+       membawa scope-attribute Astro — aturan harus global supaya berlaku. */
+    :global(.book-row) {
       display: flex;
       align-items: center;
       gap: 1rem;
@@ -93,11 +122,11 @@ const pageData = JSON.stringify(novelIndex).replace(/</g, '\\u003c')
       transition: border-color 200ms ease;
     }
 
-    .book-row:hover {
+    :global(.book-row:hover) {
       border-color: var(--accent);
     }
 
-    .book-link {
+    :global(.book-link) {
       display: flex;
       align-items: center;
       gap: 0.85rem;
@@ -107,7 +136,7 @@ const pageData = JSON.stringify(novelIndex).replace(/</g, '\\u003c')
       color: inherit;
     }
 
-    .row-cover {
+    :global(.row-cover) {
       width: 40px;
       height: 60px;
       object-fit: cover;
@@ -116,19 +145,19 @@ const pageData = JSON.stringify(novelIndex).replace(/</g, '\\u003c')
       flex-shrink: 0;
     }
 
-    .row-main {
+    :global(.row-main) {
       display: flex;
       flex-direction: column;
       gap: 0.15rem;
       min-width: 0;
     }
 
-    .row-novel {
+    :global(.row-novel) {
       font-weight: 600;
       color: var(--text);
     }
 
-    .row-chapter {
+    :global(.row-chapter) {
       font-size: 0.875rem;
       color: var(--text-muted);
       overflow: hidden;
@@ -136,13 +165,13 @@ const pageData = JSON.stringify(novelIndex).replace(/</g, '\\u003c')
       white-space: nowrap;
     }
 
-    .row-when {
+    :global(.row-when) {
       font-size: 0.8125rem;
       white-space: nowrap;
       flex-shrink: 0;
     }
 
-    .bookmark-remove {
+    :global(.bookmark-remove) {
       width: 34px;
       height: 34px;
       border: 1px solid var(--border);
@@ -156,9 +185,67 @@ const pageData = JSON.stringify(novelIndex).replace(/</g, '\\u003c')
       transition: all 200ms ease;
     }
 
-    .bookmark-remove:hover {
+    :global(.bookmark-remove:hover) {
       color: var(--accent);
       border-color: var(--accent);
+    }
+
+    /* Skeleton — bentuknya meniru .book-row agar transisinya mulus. */
+    .skeleton-list {
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+    }
+
+    .skeleton-row {
+      display: flex;
+      align-items: center;
+      gap: 0.85rem;
+      padding: 0.75rem 1rem;
+      background: var(--bg-elev);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+    }
+
+    .skeleton-cover {
+      width: 40px;
+      height: 60px;
+      border-radius: 6px;
+      background: var(--bg-elev-2);
+      flex-shrink: 0;
+    }
+
+    .skeleton-lines {
+      display: flex;
+      flex-direction: column;
+      gap: 0.4rem;
+      flex: 1;
+      min-width: 0;
+    }
+
+    .skeleton-line {
+      height: 0.75rem;
+      border-radius: 999px;
+      background: var(--bg-elev-2);
+    }
+
+    .skeleton-line.short {
+      width: 40%;
+    }
+
+    .skeleton-row .skeleton-cover,
+    .skeleton-row .skeleton-line {
+      animation: buku-skeleton-pulse 1.4s ease-in-out infinite;
+    }
+
+    @keyframes buku-skeleton-pulse {
+      0%,
+      100% {
+        opacity: 1;
+      }
+      50% {
+        opacity: 0.45;
+      }
     }
 
     .empty-state {
@@ -201,6 +288,7 @@ const pageData = JSON.stringify(novelIndex).replace(/</g, '\\u003c')
       const bookmarksSection = document.getElementById('bookmarks-section') as HTMLElement
       const bookmarksList = document.getElementById('bookmarks-list') as HTMLElement
       const emptyState = document.getElementById('empty-state') as HTMLElement
+      const loadingSkeleton = document.getElementById('loading-skeleton') as HTMLElement
 
       const supabase = getSupabase()
 
@@ -224,15 +312,19 @@ const pageData = JSON.stringify(novelIndex).replace(/</g, '\\u003c')
       }
 
       loggedIn.hidden = false
+      loadingSkeleton.hidden = false
       greeting.textContent =
         'Halo, ' +
         (user.user_metadata?.full_name || user.email?.split('@')[0] || 'pembaca') +
         '!'
 
+      // Skeleton ditutup apa pun hasilnya (sukses/gagal).
       const [{ data: history }, { data: bookmarks }] = await Promise.all([
         supabase.from('reading_history').select('*').order('updated_at', { ascending: false }),
         supabase.from('bookmarks').select('*').order('created_at', { ascending: false }),
-      ])
+      ]).finally(() => {
+        loadingSkeleton.hidden = true
+      })
 
       // --- Riwayat baca ---
       if (history?.length) {

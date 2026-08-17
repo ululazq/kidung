@@ -125,6 +125,12 @@ h4 {
 
 /* ---------- Layout ---------- */
 
+/* `hidden` must always win over component display rules (e.g. `.btn`),
+   otherwise toggling the attribute via JS has no visual effect. */
+[hidden] {
+  display: none !important;
+}
+
 .container {
   width: 100%;
   max-width: var(--container);

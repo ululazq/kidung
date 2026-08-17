@@ -32,6 +32,9 @@ const sequel =
 const parallelLinks = (
   await Promise.all((novel.parallel ?? []).map((p) => getNovel(p)))
 ).filter((n): n is NonNullable<typeof n> => Boolean(n))
+
+// Dikirim ke klien via tag JSON — lihat komentar di BookmarkButton.
+const pageData = JSON.stringify({ novelSlug: novel.slug }).replace(/</g, '\\u003c')
 ---
 
 <BaseLayout title={novel.title} description={novel.description}>
@@ -167,24 +170,64 @@ const parallelLinks = (
     <section class="chapters-section">
       <h2>Daftar Bab</h2>
 
-      <ul class="chapter-list">
+      <ul class="chapter-list" id="chapter-list">
         {novel.chapters.map((ch) => {
           const chapterMinutes = readingMinutes(ch.words)
           return (
             <li>
-              <a href={`/chapter/${novel.slug}/${ch.slug}`} class="chapter-link">
+              <a
+                href={`/chapter/${novel.slug}/${ch.slug}`}
+                class="chapter-link"
+                data-slug={ch.slug}
+              >
                 <div class="chapter-main">
                   <span class="chapter-num">{ch.number}</span>
                   <span class="chapter-title">{ch.title}</span>
                 </div>
-                <span class="chapter-meta muted">
-                  {ch.words.toLocaleString('id-ID')} kata · ~{chapterMinutes} menit
+                <span class="chapter-side">
+                  <span class="chapter-mark" data-mark="bookmark" title="Bab ditandai" hidden>
+                    <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" stroke="none" aria-hidden="true">
+                      <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z" />
+                    </svg>
+                  </span>
+                  <span class="chapter-mark" data-mark="read" title="Sudah dibaca" hidden>
+                    <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                      <path d="M20 6 9 17l-5-5" />
+                    </svg>
+                  </span>
+                  <span class="chapter-meta muted">
+                    {ch.words.toLocaleString('id-ID')} kata · ~{chapterMinutes} menit
+                  </span>
                 </span>
               </a>
             </li>
           )
         })}
       </ul>
+
+      <!-- Skeleton: tampil sementara status bookmark (data Supabase) dimuat. -->
+      <div class="chapter-skeleton" id="chapter-skeleton" hidden aria-hidden="true">
+        <div class="chapter-skeleton-row">
+          <span class="chapter-skeleton-num"></span>
+          <span class="chapter-skeleton-title"></span>
+        </div>
+        <div class="chapter-skeleton-row">
+          <span class="chapter-skeleton-num"></span>
+          <span class="chapter-skeleton-title"></span>
+        </div>
+        <div class="chapter-skeleton-row">
+          <span class="chapter-skeleton-num"></span>
+          <span class="chapter-skeleton-title"></span>
+        </div>
+        <div class="chapter-skeleton-row">
+          <span class="chapter-skeleton-num"></span>
+          <span class="chapter-skeleton-title"></span>
+        </div>
+        <div class="chapter-skeleton-row">
+          <span class="chapter-skeleton-num"></span>
+          <span class="chapter-skeleton-title"></span>
+        </div>
+      </div>
     </section>
   </div>
 
@@ -460,6 +503,80 @@ const parallelLinks = (
       white-space: nowrap;
     }
 
+    /* Ikon penanda kecil: bab yang ditandai (bookmark) atau sudah dibaca. */
+    .chapter-side {
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+      flex-shrink: 0;
+    }
+
+    .chapter-mark {
+      display: inline-flex;
+      align-items: center;
+      flex-shrink: 0;
+    }
+
+    .chapter-mark svg {
+      width: 15px;
+      height: 15px;
+    }
+
+    .chapter-mark[data-mark='bookmark'] {
+      color: var(--accent);
+    }
+
+    .chapter-mark[data-mark='read'] {
+      color: var(--text-dim);
+    }
+
+    /* Skeleton — meniru bentuk .chapter-link agar transisinya mulus. */
+    .chapter-skeleton {
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+    }
+
+    .chapter-skeleton-row {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      padding: 1rem 1.25rem;
+      background: var(--bg-elev);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+    }
+
+    .chapter-skeleton-num {
+      width: 2.5rem;
+      height: 2.5rem;
+      border-radius: 50%;
+      background: var(--bg-elev-2);
+      flex-shrink: 0;
+    }
+
+    .chapter-skeleton-title {
+      width: 45%;
+      height: 0.875rem;
+      border-radius: 999px;
+      background: var(--bg-elev-2);
+    }
+
+    .chapter-skeleton-row .chapter-skeleton-num,
+    .chapter-skeleton-row .chapter-skeleton-title {
+      animation: novel-skeleton-pulse 1.4s ease-in-out infinite;
+    }
+
+    @keyframes novel-skeleton-pulse {
+      0%,
+      100% {
+        opacity: 1;
+      }
+      50% {
+        opacity: 0.45;
+      }
+    }
+
     @media (max-width: 768px) {
       .novel-header {
         grid-template-columns: 1fr;
@@ -486,4 +603,74 @@ const parallelLinks = (
       }
     }
   </style>
+
+  <script is:inline type="application/json" id="page-data" set:html={pageData}></script>
+
+  <script>
+    import { getSupabase } from '../../lib/supabase'
+    import { bookmarkReady } from '../../lib/bookmarkReady'
+
+    const pageData = JSON.parse(
+      document.getElementById('page-data')!.textContent || '{}',
+    ) as { novelSlug: string }
+    const novelSlug = pageData.novelSlug
+
+    // Skeleton daftar bab: tampil selama status bookmark dimuat, lalu
+    // digantikan daftar statis. Tanpa JS, daftar tetap tampil (skeleton
+    // disembunyikan lewat atribut hidden di HTML).
+    const chapterList = document.getElementById('chapter-list') as HTMLElement
+    const chapterSkeleton = document.getElementById('chapter-skeleton') as HTMLElement
+
+    chapterList.hidden = true
+    chapterSkeleton.hidden = false
+
+    let revealed = false
+    function revealChapters() {
+      if (revealed) return
+      revealed = true
+      chapterSkeleton.hidden = true
+      chapterList.hidden = false
+    }
+
+    // Deterministik: menunggu status bookmark selesai dimuat lewat promise
+    // bersama — tidak bergantung urutan eksekusi script, tanpa timeout
+    // pengaman. (Kalau fitur Supabase nonaktif, BookmarkButton langsung
+    // menyelesaikan promise ini begitu halaman dimuat.)
+    bookmarkReady().then(() => {
+      revealChapters()
+      applyMarks()
+    })
+
+    // Tandai bab yang sudah ditandai (bookmark) atau dibaca (ada progres)
+    // dengan ikon kecil di baris daftar — hanya saat login.
+    async function applyMarks() {
+      const supabase = getSupabase()
+      if (!supabase) return
+      const { data } = await supabase.auth.getSession()
+      if (!data.session) return
+
+      const [{ data: bookmarks }, { data: progress }] = await Promise.all([
+        supabase
+          .from('bookmarks')
+          .select('chapter_slug')
+          .eq('novel_slug', novelSlug)
+          .not('chapter_slug', 'is', null),
+        supabase.from('reading_progress').select('chapter_slug').eq('novel_slug', novelSlug),
+      ])
+
+      const bookmarked = new Set((bookmarks ?? []).map((b) => b.chapter_slug))
+      const read = new Set((progress ?? []).map((p) => p.chapter_slug))
+
+      document
+        .querySelectorAll<HTMLElement>('#chapter-list .chapter-link')
+        .forEach((link) => {
+          const slug = link.dataset.slug
+          if (!slug) return
+          const bookmarkMark = link.querySelector<HTMLElement>('[data-mark="bookmark"]')
+          const readMark = link.querySelector<HTMLElement>('[data-mark="read"]')
+          if (bookmarkMark) bookmarkMark.hidden = !bookmarked.has(slug)
+          if (readMark) readMark.hidden = !read.has(slug)
+        })
+    }
+  </script>
 </BaseLayout>

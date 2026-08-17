@@ -868,31 +868,33 @@ const netTermNotes = new Map(network.terms.map((t) => [t.term, t.note]))
       line-height: 1.6;
     }
 
-    .panel-hint {
+    /* Isi panel dibuat lewat innerHTML sisi klien, jadi elemennya tidak membawa
+       scope-attribute Astro — aturan harus global supaya berlaku. */
+    :global(.panel-hint) {
       color: var(--text-muted);
     }
 
-    .panel-title {
+    :global(.panel-title) {
       font-family: var(--font-display);
       font-size: 1.25rem;
       color: var(--text);
       margin-bottom: 0.5rem;
     }
 
-    .panel-stats {
+    :global(.panel-stats) {
       font-size: 0.8125rem;
       color: var(--text-dim);
       margin-bottom: 0.75rem;
     }
 
-    .panel-links {
+    :global(.panel-links) {
       display: flex;
       flex-direction: column;
       gap: 0.6rem;
       margin-top: 0.75rem;
     }
 
-    .panel-link {
+    :global(.panel-link) {
       display: block;
       padding: 0.5rem 0.75rem;
       background: var(--bg-elev-2);
@@ -902,17 +904,17 @@ const netTermNotes = new Map(network.terms.map((t) => [t.term, t.note]))
       transition: border-color 200ms ease;
     }
 
-    .panel-link:hover {
+    :global(.panel-link:hover) {
       border-color: var(--accent);
     }
 
-    .panel-link .l-title {
+    :global(.panel-link .l-title) {
       font-weight: 600;
       color: var(--text);
       font-size: 0.875rem;
     }
 
-    .panel-link .l-terms {
+    :global(.panel-link .l-terms) {
       font-size: 0.75rem;
       color: var(--text-muted);
       margin-top: 0.15rem;
