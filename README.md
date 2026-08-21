@@ -1,13 +1,13 @@
 # Kidung
 
-**Perpustakaan novel fantasi Indonesia** — 43 novel, 652 bab, ±1,16 juta kata, tersebar di tiga semesta. Setiap novel hidup sebagai markdown murni di `novels/` dan dirender langsung menjadi situs web Astro.
+**Perpustakaan novel fantasi Indonesia** — 53 novel, 1.152 bab, ±1,95 juta kata, tersebar di enam semesta. Setiap novel hidup sebagai markdown murni di `novels/` dan dirender langsung menjadi situs web Astro.
 
 | | |
 |---|---|
-| 📚 Novel | **43** (selesai, ber-bible, ber-outline) |
-| 📖 Bab | **652** |
-| ✍️ Kata | **±1.156.000** |
-| 🌌 Semesta | **3** — Kidungverse · Auren · Skyroot |
+| 📚 Novel | **53** (ber-bible, ber-outline) |
+| 📖 Bab | **1.152** |
+| ✍️ Kata | **±1.945.000** |
+| 🌌 Semesta | **6** — Kidungverse · Auren · Skyroot · Lautan Akar · Veyrun · Catur Prasasti |
 | 🏗️ Situs | Astro 5 · dark mode · peta jaringan novel interaktif |
 
 ---
@@ -31,6 +31,24 @@ Fantasi barat dengan sistem kekuatan **diegetik**: tiap orang punya *Hearth*, te
 Saga arsipelago pelayaran. Kekuatan lahir dari **Mark** — tanda yang terukir lewat tiga disiplin: **Clanmark** (warisan keluarga), **Guildmark** (profesi), **Vowmark** (sumpah). Mark menetap setelah pemiliknya wafat, dan "yang kosong" — tanpa Mark — dianggap tak bernilai.
 
 *The Unbound → Bloodfall → The Deep Vow → The Rejoining*
+
+### 🌳 Lautan Akar — 7 novel
+
+Semesta serial tempat segala sesuatu tumbuh dari **Akar** — jaringan hidup yang menautkan titik, simpul, dan pangkal. Kekuatan bukan soal bertarung melainkan soal **menjaga, menganyam, dan menghubungkan** apa yang tumbuh; tiap novel mengikuti satu peran penjaga (Pemangkas, Penganyam, Penghubung, Penjalin, Penjaga Titik, Penjaga Pangkal).
+
+*Pangkal · Sang Pemangkas · Sang Penganyam · Sang Penghubung · Sang Penjaga Pangkal · Sang Penjaga Titik · Sang Penjalin*
+
+### 🌫️ Veyrun — 1 novel (serial berjalan)
+
+Dunia yang tenggelam tempat **nyanyian adalah satu-satunya peta**. Penyanyi mercusuar menjaga lagu tertua terhadap **Kabut Veyl** yang menagih tiap nada dengan suara — saga panjang tentang penjagaan, ingatan, dan misteri yang sengaja dibiarkan tak terjawab.
+
+*Sang Penyanyi Kabut*
+
+### 📜 Catur Prasasti — 1 novel (serial berjalan)
+
+Semesta tempat **nama yang dicatat menjadi nyata** — pencatat menimbang beban tiap nama sebelum menuliskannya ke prasasti.
+
+*Sang Pencatat Nama*
 
 ---
 
@@ -76,7 +94,7 @@ novels/auren/bible.md             # kanon sistem Auren (tier, cap ras, Sight)
 npm run verify      # node scripts/check-novels.mjs
 ```
 
-Memeriksa untuk semua 43 novel:
+Memeriksa untuk semua 53 novel:
 
 1. continuity-report ada
 2. outline memverifikasi Complete + jumlah bab cocok dengan disk
