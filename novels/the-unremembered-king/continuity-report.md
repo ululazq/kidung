@@ -1,4 +1,4 @@
-# Continuity Report: Sang Pencatat Nama
+# Continuity Report: The Unremembered King
 
 Status: belum ada bab (skeleton dari scaffold).
 
