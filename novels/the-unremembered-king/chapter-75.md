@@ -1,0 +1,73 @@
+---
+title: "Bab 75: Harga dari Sebuah Kebenaran"
+chapter: 75
+---
+
+Mereka berkumpul malam hari kesembilan puluh lima di gudang perkakas tingkat dua — tempat semua keputusan yang tidak boleh punya ruang rapat resmi selalu dibicarakan. Lampu perminyakan diredupkan sampai batas yang masih memungkinkan membaca wajah. Brannoc duduk di atas peti pahat dengan kedua kaki menumpu di lantai, cara duduk prajurit yang tidak pernah benar-benar pulang dari perangnya. Maera duduk di bangku kerja dengan tabung timah terguling di pangkuannya seperti senjata yang belum diputuskan akan dipakai atau disimpan. Dan Sela berdiri di ambang pintu, karena aturan keluarga tentang gudang ini sudah lama berganti menjadi undangan bersyarat, dan malam ini ia diundang sebagai pendengar.
+
+Ashvarok membuka tanpa pembukaan.
+
+"Assayer Tull menemukan sesuatu yang bisa menyelamatkan distrik timur." Ia menoleh ke Maera. "Ceritakan versimu."
+
+Maera menceritakannya dengan cara Maera — urut, bertanggal, tanpa satu kata lebih besar dari buktinya. Margin peta pra-Liberation. Status tanah jasa. Penugasan penjagaan era Hegemony yang tidak pernah dibubarkan, sebab the Liberation hanya menyita dan tidak pernah menjawab. Izin penutupan yang berdiri di atas asumsi tanah kosong, dan asumsi itu kini punya penyangkal tertulis yang lebih tua daripada segala cap yang menempel di atasnya.
+
+"Kalau klaim ini diajukan lewat komisi Guild," tutupnya, "izin itu cacat. Bukan tertunda — cacat. Ada bedanya. Yang tertunda bisa dilanjutkan; yang cacat harus ditulis ulang dari fondasinya."
+
+Brannoc mengunyah akar pahitnya pelan-pelan. "Lalu masalahnya apa. Kedengarannya kita menang."
+
+"Masalahnya," kata Ashvarok, "ada di pertanyaan pertama yang akan ditanyakan siapa pun yang membaca dokumen itu dengan sungguh-sungguh." Ia membiarkan jeda bekerja, karena beberapa kebenaran harus diberi waktu untuk berdiri sebelum duduk. "Tanah jasa berarti ada yang dijaga. Dokumen itu tidak menyebut apa yang dijaganya — tapi ia menunjuk ke arahnya. Dan arahnya adalah bangunan delapan banding tiga di bawah galeri timur, dengan lambang ikatan Hegemony di ambang pintunya. Kertas yang menyelamatkan distrik ini adalah kertas yang sama yang menyebut aula itu dengan nama aslinya — sebuah penjagaan. Segel."
+
+Sunyi gudang itu berubah kualitas. Brannoc berhenti mengunyah.
+
+"Kalian belum mengerti seluruh harganya," kata Ashvarok, "karena satu bagian hanya aku yang bisa hitung. Di Karvess ini ada institusi yang pekerjaannya satu — memburu jejak seni raja yang hilang. Mereka disebut the Grey Censure — lengan inkuisisi the Resonant Choir, orang-orang yang tidak datang dengan pasal dan troli seperti Vael, melainkan dengan daftar nama dan hak memotong apa pun yang mereka anggap bidah dari dunia." Ia memandangi dua wajah itu bergantian. "Aula itu, daisnya, teknik penambalannya — semuanya milik seni yang oleh Choir dinyatakan bidah selama seribu tahun. Selama dokumen ini tidur dalam tabung, aula hanyalah struktur mati yang salah dibaca. Kalau kita mengangkat kertas ini ke meja komisi, kita memberi orang-orang yang tepat alasan yang tepat untuk turun ke arah yang tepat. Kita tidak cuma mempertaruhkan izin. Kita memanggil pemburu ke jejak Emberweave — dan sebagian jejaknya ada di tubuh saya."
+
+Maera diam lama, dan ketika bicara suaranya lebih rendah dari biasanya. "Seberapa besar kemungkinan mereka menelusuri sampai ke manusianya?"
+
+"Kalau mereka datang dan menemukan retakan yang mati rapi, dais batu polos, dan geometri yang jujur — mungkin mereka pergi lagi. Mungkin." Ia meletakkan kata itu dengan jujur yang dingin. "Tapi pengawas tetap yang ditempatkan pusat sudah membaca bahwa batu Caldrest pernah ditempa dengan teknik yang tidak diajarkan di mana pun. Satu pembaca sunyi yang cukup teliti sudah cukup membuat mereka tinggal lebih lama. Dan orang yang tinggal lama pada akhirnya menemukan apa pun. Itu bukan kemungkinan — itu jadwal."
+
+"Jadi kita biarkan izinnya jalan?" Suara Brannoc datar, tetapi Ashvarok mendengar beban yang dipindahkan ke dalam kalimat itu. "Empat puluh hari. Barisan kita bubar dengan tertib, damai, dan diterima sebagai penempatan ulang yang menguntungkan."
+
+"Tidak," kata Ashvarok. "Kita maju juga. Tapi tidak lewat cerita."
+
+Ia bangkit, mengambil secarik kertas kosong dan potongan arang dari meja kerja, dan menggambar sambil bicara — kebiasaan para pengajar era lamanya, yang tidak pernah ia miliki tapi banyak ia tiru.
+
+"Dokumen margin itu menyebut status tanah, tapi status tanah era Hegemony tidak pernah berdiri sendiri. Tanah jasa dianugerahi lewat surat keputusan anugerah, dan surat itu wajib didampingi satu barang: stempel verifikasi — tanda tembusan yang membuktikan anugerah pernah dieksekusi, bukan cuma direncanakan. Arsip wilayah Caldrest kosong. Pegawai pos bilang berkasnya dibawa ke arsip pusat masa reorganisasi, dan peta-peta lamanya dibuang." Ia menoleh ke Maera. "Yang tidak dibuang adalah salinan keluarga Pak Dekan. Salinan itu membuktikan marginnya. Tapi margin saja kurang — komisi butuh artefak. Stempelnya."
+
+"Stempelnya hilang bersama arsip pusatnya," kata Maera. "Tidak ada yang bisa—"
+
+Ia berhenti di tengah kalimat. Mata Maera mulai menghitung, dan kali ini Ashvarok hampir mendengar bunyi hitungannya, karena hitungan itu bergerak ke arah yang sama dengan niatnya.
+
+"Temuan arsip kadang muncul terlambat," kata Ashvarok dengan nada orang mendikte prosedur. "Disimpan keluarga tambang. Dibawa turun-temurun. Diserahkan kepada komunitas ketika saatnya datang, karena pemilik lamanya tahu kapan ia dibutuhkan. Komisi Guild memverifikasi artefak dengan instrumen — umur material, irama pengerjaan, kesesuaian gaya era. Verifikasi itu lolos kalau artefaknya benar. Benar sampai ke tulangnya."
+
+Gudang itu sunyi dengan sunyi yang berbeda dari tadi. Maera menatapnya tanpa berkedip, dan di ambang pintu, untuk pertama kalinya malam itu, Sela bergerak.
+
+"Kalian mau memalsukan buktinya." Bukan pertanyaan. Kalimat itu jatuh lurus ke tengah meja seperti kapur yang jatuh dari papan. "Dengan seni yang, kalau ketahuan, memanggil pemburu bidah lebih dulu sebelum kertasnya sempat dipakai."
+
+"Sela," kata Brannoc, setengah peringatan.
+
+"Bukan, dia benar," kata Ashvarok. "Biarkan ia mengatakannya utuh. Itu harga masuk ruangan ini, dan ia sudah membayarnya lebih mahal daripada siapa pun. Ya. Itu rencananya. Forge bisa menempa stempel yang menua dengan benar — umurnya akan terbaca jujur oleh instrumen mana pun, karena umurnya nyata, dibayar dengan cara yang nyata. Aku yang menempanya, aku yang menanggung risikonya, dan kalau gagal, gagalnya jatuh kepadaku sebelum jatuh ke siapa pun."
+
+"Dan kalau yang datang bukan kegagalan," kata Maera pelan, "melainkan berhasil? Stempel itu lolos verifikasi, komisi membatalkan izin, distrik bertahan — lalu sepuluh tahun lagi seseorang bertanya siapa yang menyerahkan temuan ini, dan namaku yang ada di berita acara." Ia memandangi tangannya sendiri, lalu menegakkan kepala, dan keputusannya sudah selesai bahkan sebelum kalimatnya dimulai. "Aku ikut. Aku yang menyerahkannya ke komisi lewat jalur yang benar, bersama pasal yang benar. Kalau kebenaran ini mau dipakai, dipakai dengan tangan yang bersih pada bagian yang bisa bersih. Itu satu-satunya hal yang bisa kulindangi."
+
+Brannoc memandang mereka bergantian, lalu tabung timah di pangkuan Maera, lalu kegelapan halaman tempat baraknya tidur. "Barisanku empat ratus keluarga," katanya akhirnya, kata kerjanya tetap di depan. "Mereka tidak tahu harga kertas ini dan tidak boleh tahu — orang yang membayar pajak perang tidak perlu tahu strateginya. Maka aku yang menjawab atas mereka: maju. Distrik ini bukan barang yang boleh dipindahkan." Ia berhenti, lalu jarinya menunjuk Ashvarok. "Tapi satu syarat. Seni yang kau pakai untuk stempel itu — batasmu harus jelas sebelum kamu mulai, bukan sesudah. Aku pernah duduk di gudang ini mendengar kau bilang badanmu punya jam pasir. Jam itu habis kalau kamu boros."
+
+"Batasku tertulis di papan dapur setiap malam," kata Ashvarok. "Kamu boleh membacanya."
+
+Dari ambang pintu, Sela masih berdiri tegak, dan Ashvarok tahu anak itu belum selesai — ada hitungan yang berjalan di balik tali kacanya, hitungan yang kolom-kolomnya ia hafal di luar kepala. Ketika akhirnya bicara lagi, suaranya bukan lagi suara tuduhan. Lebih dingin dari itu — suara orang yang selesai menimbang dan mendapati timbangannya cukup.
+
+"Kalau kertas ini menyelamatkan kami dan memanggil pemburu ke kakakku, maka aku ikut menghitung harganya juga. Tapi catat ini di mana pun kalian mencatat keputusan: aku tidak mau selamat di atas badannya."
+
+---
+
+Rapat itu bubar dekat tengah malam dengan pembagian kerja yang tidak ditulis di kertas mana pun — Maera menyusun jalur pengajuan klaim lewat komisi audit — komisi yang sama yang kini mengenal namanya sebagai pembaca yang teliti. Brannoc menyiapkan cerita temuan bersama keluarga tua galeri tujuh yang memang punya leluhur era awal tambang. Dan stempel itu sendiri harus lahir dalam sunyi, satu saja, tanpa saksi, dengan umur yang dibayar sungguhan.
+
+Sela pulang paling awal, membawa papan tulisnya, dan di pintu ia berhenti sebentar tanpa menoleh. "Absen-nama jam sembilan. Jangan terlambat. Pagar tidak tahu ada perang."
+
+Ketika mereka berdua tersisa, Ashvarok memadamkan setengah lampu dan duduk sebentar memikirkan ironi yang telah menemukannya malam ini — ironi rasa rumah tua yang tidak pernah benar-benar meninggalkannya. Seribu tahun lalu ia membakar namanya demi sebuah segel, dan dunia membalasnya dengan mengutuk nama itu sebagai api yang mau membakar dunia. Malam ini, demi melindungi empat ratus keluarga yang tidak tahu siapa dirinya, ia hendak menempa artefak yang akan berkata jujur tentang segel yang sama — dan jujurnya yang itu, tepat karena jujur, adalah benda paling berbahaya yang pernah ia letakkan di atas meja manusia.
+
+Kebenaran, ternyata, juga punya harga beli dan harga jual. Malam ini barak distrik timur membelinya, dan yang menjualnya adalah satu-satunya orang yang selama seribu tahun tahu persis isi barang dagangan itu.
+
+Ia mengeluarkan potongan cinder-glass tua dari kotak alat — sebesar kepalan tangan, warnanya abu madu di tepi, dingin walaupun gudang hangat — dan memutarnya di bawah lampu. Bahan yang baik. Menua dengan indah. Ia memasukkannya ke saku dada, sebelah kanan, tempat dahulu pecahan kaca-batu bukti perjanjian dengan Brannoc pernah tidur, lalu memadamkan lampu.
+
+Di papan dapur barak, kolom Jam Pasir menunggu kapurnya. Di arsip pusat biro provinsi, berkas yang hilang tetap hilang. Dan dalam sunyi gudang perkakas tingkat dua, rencana itu sudah berdiri sendiri seperti semua rencana yang cukup tua untuk mulai memilih nasibnya sendiri.
+

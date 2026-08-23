@@ -1,0 +1,43 @@
+# Audit Review: the-unremembered-king
+
+Temuan audit drift (`npm run novel:audit`) yang sudah ditinjau penulis. Baris di
+sini mengizinkan commit meski audit masih menemukan drift — gunakan untuk
+keputusan sadar ("twist sengaja", "akan diperbaiki arc berikutnya"). Hapus
+barisnya setelah temuan benar-benar diperbaiki (catatan basi = peringatan).
+
+| ID | Kategori | Temuan | Keputusan |
+|---|---|---|---|
+| T-85deff | tokoh | "Ossian Vael" tidak muncul sekali pun di arc 1 (bab 1–250) — entri basi atau tokoh dilupakan? | Ossian Vael sengaja baru masuk panggung di bab 13 sesuai outline arc 1 |
+| E-9c71f8 | entitas | "Assayers" (3×, bab 4, 9, 10) ada di bible (kanon) tapi tidak tercatat di world-state — tambahkan ke tabel Tokoh? | Assayers' Guild adalah faksi (bukan tokoh); sudah ada di tabel Faksi bible |
+| E-bc0b03 | entitas | "Hegemony" (2×, bab 3, 9) ada di bible (kanon) tapi tidak tercatat di world-state — tambahkan ke tabel Tokoh? | The Draveth Hegemony adalah kerajaan lama/faksi historis (bukan tokoh) |
+| E-9c3187 | entitas | "Karvess" (2×, bab 5, 9) ada di bible (kanon) tapi tidak tercatat di world-state — tambahkan ke tabel Tokoh? | Karvess adalah kontinen/lokasi (bukan tokoh); sudah ada di tabel Tempat bible |
+| E-2119f3 | entitas | "Penilai Tull" (3×, bab 21) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | Penilai |
+| E-871eb4 | entitas | "Pengawas" (3×, bab 22) ada di bible (kanon) tapi tidak tercatat di world-state — tambahkan ke tabel Tokoh? | Pengawas = gelar Kel Tharrow (kanon Tokoh), bukan entitas baru |
+| E-a8ee37 | entitas | "Forge-tier" (2×, bab 24) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | Forge-tier = sebutan tingkatan seni Emberweave (kanon istilah bible) |
+| E-4821e6 | entitas | "Liberation" (2×, bab 25) ada di bible (kanon) tapi tidak tercatat di world-state — tambahkan ke tabel Tokoh? | the |
+| T-6f0807 | tokoh | "Renn" berstatus "mati (tubuh dipakai)" tapi muncul di 74 paragraf (bab 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 14, 15, 16, 17, 18, 19, 20, 22, 24, 25) — kontradiksi? | Nama Renn di prosa adalah alias penyamaran Ashvarok (disengaja sejak bab 1) |
+| E-4a8baa | entitas | "Shift Guard Kovan" (3×, bab 32, 33) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | False positive: Kovan sudah ter-track di bible.md dan world-state.md sebagai tokoh kanon (Shift Guard Voice-tier); frasa 'Shift Guard Kovan' di bab 32-33 hanyalah gelar+nama, bukan entitas baru. |
+| E-29c8cc | entitas | "Foreman Brannoc" (2×, bab 37) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | False positive: Brannoc sudah ter-track di bible.md dan world-state.md sebagai Foreman tambang the Quiet Vein; frasa 'Foreman Brannoc' hanyalah gelar+nama. |
+| E-8cdb36 | entitas | "Nak" (3×, bab 44) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | False positive: 'Nak' adalah sapaan/vokatif Indonesia (anak), bukan nama tokoh. |
+| E-44dc32 | entitas | "Shift Guard Kovan" (5×, bab 32, 33, 46, 49) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | False positive berulang: Kovan sudah ter-track di bible.md dan world-state.md (Shift Guard Voice-tier); frasa 'Shift Guard Kovan' hanyalah gelar+nama, bukan entitas baru. |
+| E-7f80e9 | entitas | "Nak" (5×, bab 44, 52) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | False positive: 'Nak' adalah vokatif Indonesia (anak), bukan nama. |
+| E-c68369 | entitas | "Foreman Brannoc" (3×, bab 37, 54) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | False positive: Brannoc sudah ter-track di bible dan world-state; 'Foreman Brannoc' hanyalah gelar+nama. |
+| E-6f3320 | entitas | "Kak" (3×, bab 51, 55) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | False positive: 'Kak' adalah vokatif Indonesia (kakak), bukan nama tokoh. |
+| E-514b6f | entitas | "Shift Guard Kovan" (7×, bab 32, 33, 46, 49, 60) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | False positive: Kovan ter-track di bible/world-state; 'Shift Guard Kovan' = gelar+nama. |
+| E-5b8d5c | entitas | "Foreman Brannoc" (4×, bab 37, 54, 57) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | False positive: Brannoc ter-track; 'Foreman Brannoc' = gelar+nama. |
+| E-5705d7 | entitas | "Overseer Tharrow" (3×, bab 54, 57, 59) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | False positive: Kel Tharrow ter-track sebagai Overseer/Quota Office; 'Overseer Tharrow' = gelar+nama. |
+| E-3ca636 | entitas | "Shift Guard Voice" (2×, bab 30, 59) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | False positive: 'Shift Guard Voice-tier' adalah gelar+tier kanon, bukan nama tokoh. |
+| E-6b3d46 | entitas | "Shift Guard Kovan" (11×, bab 32, 33, 46, 49, 60, 61) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | False positive berulang: Kovan ter-track di bible/world-state; 'Shift Guard Kovan' = gelar+nama, bukan entitas baru. |
+| E-5071e2 | entitas | "Jam Pasirmu" (2×, bab 38, 80) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | False positive: 'Jam Pasirmu' = frasa dialog (kolom Jam Pasir + akhiran kepemilikan), bukan entitas. |
+| E-6cf693 | entitas | "Quota Office Caldrest" (2×, bab 32, 78) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | False positive: 'Quota Office Caldrest' = nama institusi kanon + lokasi, keduanya sudah ter-track. |
+| E-439025 | entitas | "Kak" (4×, bab 51, 55, 90) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | False positive: 'Kak' adalah vokatif Indonesia (kakak), bukan nama tokoh. |
+| E-5b5502 | entitas | "Quota Office Caldrest" (3×, bab 32, 78, 92) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | False positive: 'Quota Office Caldrest' = institusi kanon Quota Office + lokasi Caldrest, keduanya sudah ter-track di bible/world-state. |
+| E-e31b8c | entitas | "Assayer Maera Tull" (2×, bab 33, 102) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | False positive: Maera Tull ter-track penuh di bible/world-state; 'Assayer Maera Tull' = gelar kanon + nama, bukan entitas baru. |
+| E-ba1ede | entitas | "Assayer Guild" (3×, bab 105, 106, 107) ada di bible (kanon) tapi tidak tercatat di world-state — tambahkan ke tabel Tokoh? | False positive: 'Assayer Guild' = gabungan gelar Assayer + institusi Assayers' Guild, keduanya kanon; bukan tokoh. |
+| E-9ed04d | entitas | "Shift Guard Voice" (3×, bab 30, 59, 107) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | False positive: 'Shift Guard Voice-tier' = gelar+tier kanon (Kovan), sudah ter-track; bukan entitas baru. |
+| E-cc15df | entitas | "Kak" (5×, bab 51, 55, 90, 114) ada di bible (kanon) tapi tidak tercatat di world-state — tambahkan ke tabel Tokoh? | False positive: 'Kak' adalah vokatif Indonesia (kakak), bukan nama tokoh. |
+| E-deea22 | entitas | "Quota Office Caldrest" (4×, bab 32, 78, 92, 111) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | False positive: 'Quota Office Caldrest' = institusi kanon + lokasi, sudah ter-track. |
+| E-d363ea | entitas | "Non Sela" (2×, bab 119) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | False positive: 'Non Sela' = sapaan Indonesia (Non + nama kanon Sela), bukan entitas baru. |
+| E-4ba699 | entitas | "Penjaga Shift" (2×, bab 117, 118) ada di bible (kanon) tapi tidak tercatat di world-state — tambahkan ke tabel Tokoh? | False positive: 'Penjaga Shift' = jabatan Shift Guard kanon, bukan tokoh. |
+| E-fb33ed | entitas | "Remainder-nya" (2×, bab 45, 120) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | False positive: 'the Remainder' sudah ter-track; '-nya' hanyalah akhiran kepemilikan. |
+| T-6a3111 | tokoh | "Renn" berstatus "mati (tubuh dipakai)" tapi muncul di 25 paragraf (bab 1, 2, 3, 5, 6) — kontradiksi? | Nama Renn di prosa adalah alias penyamaran Ashvarok (disengaja sejak bab 1); tubuh memang milik Renn yang mati |
