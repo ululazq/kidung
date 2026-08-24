@@ -1,5 +1,5 @@
 ---
-title: "Bab 65: Kereta Nama"
+title: "Bab 65: Name Train"
 chapter: 65
 ---
 
@@ -11,7 +11,7 @@ Kenapa Sela? Pertanyaan itu ia tanyakan pada dirinya sendiri tiga kali bulan lal
 
 Harn datang lebih pagi dari semua orang, berjalan kaki dari asrama distrik utara bersama ayahnya yang kebetulan giliran inspeksi, membawa papan tulis kecil miliknya sendiri dan batu kapur setengah batang dalam kantong jaket. Anak itu berdiri di depan Sela dengan sikap orang yang datang bekerja, bukan sekolah.
 
-"Ayah bilang aku harus bisa baca dokumen kontrak sebelum akhir tahun," kata Harn. "Katanya orang yang tidak bisa baca kontraknya sendiri akan dibayar dengan angka yang dia tidak mengerti."
+"Ayah bilang aku harus bisa membaca dokumen kontrak sebelum akhir tahun," kata Harn. "Katanya orang yang tidak bisa membaca kontraknya sendiri akan dibayar dengan angka yang dia tidak mengerti."
 
 "Ayahmu benar," kata Sela. "Duduk. Buku apa pun yang kamu punya?"
 
@@ -45,7 +45,7 @@ Sela mempertimbangkan tiga jawaban selama satu tarikan napas — bohong, alihkan
 
 "Kenapa harus ditulis?" tanya anak kecil galeri tujuh. "Bukankah cukup diingat?"
 
-Dan di situlah, di tengah ruang tunggu klinik yang bau obat, Sela menemukan dirinya harus menjelaskan hal yang tidak pernah ia jelaskan kepada siapa pun secara langsung — "Ingatan itu aneh. Ada hari-hari ketika ingatan orang-orang hilang — bukan lupa biasa, tapi benar-benar hilang, seperti baris yang terhapus. Kalau nama seseorang cuma ada di kepala satu orang, dan kepala itu sakit, namanya ikut sakit. Kalau namanya ditulis dan dihafal banyak orang, dia punya rumah cadangan."
+Dan di situlah, di tengah ruang tunggu klinik yang bau obat, Sela menemukan dirinya harus menjelaskan hal yang tidak pernah ia jelaskan kepada siapa pun secara langsung — "Ingatan itu aneh. Ada hari-hari ketika ingatan orang-orang hilang — bukan lupa biasa, tapi benar-benar hilang, seperti baris yang terhapus. Kalau nama seseorang hanya ada di kepala satu orang, dan kepala itu sakit, namanya ikut sakit. Kalau namanya ditulis dan dihafal banyak orang, dia punya rumah cadangan."
 
 "Seperti uang yang disimpan dua orang," kata Harn, serius, anak mandor sungguhan.
 
@@ -81,13 +81,13 @@ Anak kecil galeri tujuh, yang berdiri sebelum Tovik, berbalik, memanggil namanya
 
 "Ada."
 
-Suaranya pecah di suku kata kedua. Tidak ada anak yang tertawa. Harn, entah bagaimana, mengangkat dagunya sedikit, dan Sela mencatat di kolom belakang papan bahwa kereta nama mulai hari itu punya satu stasiun permanen, dan stasiun itu lebih penting daripada semua stasiun lainnya digabung.
+Suaranya pecah di suku kata kedua. Tidak ada anak yang tertawa. Harn, entah bagaimana, mengangkat dagunya sedikit, dan Sela mencatat di kolom belakang papan bahwa name train mulai hari itu punya satu stasiun permanen, dan stasiun itu lebih penting daripada semua stasiun lainnya digabung.
 
 ---
 
-Ia menutup sekolah tepat jam sebelas, karena janji kepada perawat adalah kontrak dan kontrak harus ditepati. Anak-anak bubar seperti air surut, membawa aturan kereta nama keluar ke lorong-lorong barak seperti kuman yang baik hati. Sebelum senja, menurut kabar yang berjalan lewat jalur resmi semua kabar anak-anak, kereta nama sudah punya dua jalur cabang — satu di blok timur, dipimpin anak kecil galeri tujuh dengan suara paling keras, dan satu di halaman klinik, dipimpin oleh tidak ada siapa pun, yang justru berarti dipimpin semua orang.
+Ia menutup sekolah tepat jam sebelas, karena janji kepada perawat adalah kontrak dan kontrak harus ditepati. Anak-anak bubar seperti air surut, membawa aturan name train keluar ke lorong-lorong barak seperti kuman yang baik hati. Sebelum senja, menurut kabar yang berjalan lewat jalur resmi semua kabar anak-anak, name train sudah punya dua jalur cabang — satu di blok timur, dipimpin anak kecil galeri tujuh dengan suara paling keras, dan satu di halaman klinik, dipimpin oleh tidak ada siapa pun, yang justru berarti dipimpin semua orang.
 
-Harn tinggal sampai terakhir, melipat daftar barang gudangnya. "Bisa main kereta nama di asrama utara?" katanya. "Di sana banyak anak juga. Kami bisa bikin jalur panjang."
+Harn tinggal sampai terakhir, melipat daftar barang gudangnya. "Bisa main name train di asrama utara?" katanya. "Di sana banyak anak juga. Kami bisa membuat jalur panjang."
 
 "Justru itu gunanya kereta," kata Sela. "Kereta yang panjang artinya banyak nama yang punya rumah cadangan. Ajari mereka aturannya. Kalau ada yang bertanya siapa yang menyuruh, jawab — Sela, distrik timur, papan tulis kecil." Ia menepuk papan kakaknya. "Nama juga harus dibiasakan. Termasuk milikku."
 

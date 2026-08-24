@@ -97,7 +97,7 @@ Baca file yang relevan saja, saat dibutuhkan.
 | Lanjut dari bab terakhir | `workflows/continue-writing.md` |
 | Perbaiki bab yang sudah ada | `workflows/revise-chapter.md` |
 | Ragu soal bentuk file/frontmatter | `reference/output-contract.md` |
-| Nulis prosa, dialog, deskripsi | `reference/prose-craft.md` |
+| Nulis prosa, dialog, deskripsi | `reference/prose-craft.md` + `reference/pro-craft-pro.md` (standar literer: anti-AI prose, subteks, ritme, POV disiplin — WAJIB sebelum menyimpan bab) |
 | Susun plot, arc, pacing, foreshadow | `reference/story-architecture.md` |
 | Bikin/mendalami karakter | `reference/character.md` |
 | Bangun sistem kekuatan, faksi, lokasi, latar imajiner | `reference/worldbuilding.md` |

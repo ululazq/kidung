@@ -45,17 +45,17 @@ Rapat kecil digelar sore itu di gudang perkakas tingkat dua, dengan pintu tertut
 
 "Dan yang menyayat seam sedang mencari alasan persis begitu," kata Brannoc. "Dia goyang pasak supaya dapat karantina. Sekarang lubangnya membuat karantina sendiri tanpa dia berusaha. Lucu juga."
 
-"Tidak lucu." Ashvarok mengatakannya tanpa nada marah, hanya rata. "Alasan yang datang sendiri lebih murah daripada alasan yang dibeli. Kalau laporan ini naik, orang yang menumpang di atasnya tidak perlu kerja sama sekali."
+"Tidak lucu." Ashvarok mengatakannya tanpa nada marah, hanya rata. "Alasan yang datang sendiri lebih murah daripada alasan yang dibeli. Kalau laporan ini naik, orang yang menumpang di atasnya tidak perlu bekerja sama sekali."
 
 "Maka jangan naikkan," kata Sela dari atas peti. "Tapi orang-orang takut. Takut itu bocor. Besok-besok ada yang cerita ke istri petugas, dan cerita naik lebih cepat dari laporan."
 
-Itu bagian yang sulit, dan mereka semua tahu itu bagian yang sulit. Sunyi galeri sembilan tidak bisa diberi cerita gas tua, sebab tidak ada yang pingsan dan tidak ada yang lupa. Sunyi itu bisa didengar siapa pun dengan telinga biasa, dan orang yang diberi tahu jangan takut akan justru menghitung sendiri berapa banyak hal yang harus ditakuti.
+Itu bagian yang sulit, dan mereka semua tahu itu bagian yang sulit. Sunyi galeri sembilan tidak bisa diberi cerita old gas, sebab tidak ada yang pingsan dan tidak ada yang lupa. Sunyi itu bisa didengar siapa pun dengan telinga biasa, dan orang yang diberi tahu jangan takut akan justru menghitung sendiri berapa banyak hal yang harus ditakuti.
 
 "Regu siapa yang mau masuk?" tanya Brannoc akhirnya. "Kalian kenal orang-orangnya. Aku tidak bisa memakai perintah untuk hal begini. Perintah membuat orang masuk badan, tapi takutnya bawa pulang."
 
 "Ibu Tamma," kata Sela. "Dan Ondar."
 
-Skema yang disusun malam itu sederhana sampai hampir memalukan. Galeri sembilan tidak ditutup dan tidak dilarang. Galerinya dijadikan tempat kerja yang dibayar lebih — bonus dari kas barak yang tipis itu, ditambah satu hal yang tidak ada harga pasarnya, yaitu aturan bahwa tidak ada yang masuk sendirian dan absen-nama dibaca keras di ambang tiap kali regu berganti. Ibu Tamma menyebutnya istirahat teknik, kata yang dia pinjam dari dokumen drainase dan tidak dimengerti siapa pun, yang justru membuatnya terdengar resmi. Ondar menjadi orang pertama yang mendaftar, dengan alasannya sendiri yang ia sampaikan tanpa malu-malu.
+Skema yang disusun malam itu sederhana sampai hampir memalukan. Galeri sembilan tidak ditutup dan tidak dilarang. Galerinya dijadikan tempat bekerja yang dibayar lebih — bonus dari kas barak yang tipis itu, ditambah satu hal yang tidak ada harga pasarnya, yaitu aturan bahwa tidak ada yang masuk sendirian dan name-roll dibaca keras di ambang tiap kali regu berganti. Ibu Tamma menyebutnya istirahat teknik, kata yang dia pinjam dari dokumen drainase dan tidak dimengerti siapa pun, yang justru membuatnya terdengar resmi. Ondar menjadi orang pertama yang mendaftar, dengan alasannya sendiri yang ia sampaikan tanpa malu-malu.
 
 "Aku sudah pernah mendengar sunyi yang lebih jelek dari ini," katanya. "Sunyi yang ini tidak menyamai namaku. Berarti masih sopan."
 
@@ -87,7 +87,7 @@ Pertanyaan anak muda itu pantas dijawab jujur, dan Ashvarok sudah lama memutuska
 
 Ondar menimbang kalimat itu dengan kepala miring, lalu mengangguk dengan keseriusan orang yang menerima jawaban lebih buruk dari harapannya dan tetap menganggapnya layak.
 
-"Pelan-pelan juga tidak apa-apa," katanya. "Nanti aku ceritakan ke anak-anak sekolah. Mereka suka kisah galeri bisu. Lalu mereka bertanya kenapa, dan aku menyuruh mereka bertanya kepadamu."
+"Pelan-pelan juga tidak apa-apa," katanya. "Nanti aku ceritakan ke anak-anak sekolah. Mereka suka kisah Silent Gallery. Lalu mereka bertanya kenapa, dan aku menyuruh mereka bertanya kepadamu."
 
 "Jangan jawab aku yang bilang."
 

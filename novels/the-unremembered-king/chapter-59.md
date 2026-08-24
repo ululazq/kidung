@@ -33,7 +33,7 @@ Maera Tull mengangguk pelan, dan matanya menghitung hal yang biasa dihitungnya. 
 
 "Aku turun sebagai kuli pendamping regu ventilasi. Nama di daftar, tanda tangan Overseer Tharrow, tugas mengangkat peti instrumen. Di dalam aula aku tidak lebih penting daripada sepasang tangan tambang biasa." Ia menatap kedua sekutunya satu per satu. "Dan tidak ada satu pun dari kita yang tahu aku pernah berdiri di sana ketika lagunya masih seratus suara. Itu cerita ketiganya, dan ceritanya harus bisa bertahan tanpa aku menjelaskan apa pun kepada siapa pun."
 
-Sela duduk di pojok dengan papan tulis di lututnya, dan malam itu tidak ada yang memintanya keluar, karena setahun telah mengajarkan ruangan ini siapa juru ukurnya. "Kolom baru," katanya, memutar papannya agar semua bisa membaca: HARI-H, dan di bawahnya empat garis miring. "Setiap malam satu garis dicoret. Kalau garis habis dan kamu belum naik, ibu Tamma memimpin absen-nama ekstra dan aku berdiri di depan Quota Office dengan sanggahan tertulis." Ia menatap kakaknya tegak-lurus. "Bukan ancaman. Prosedur keluarga."
+Sela duduk di pojok dengan papan tulis di lututnya, dan malam itu tidak ada yang memintanya keluar, karena setahun telah mengajarkan ruangan ini siapa juru ukurnya. "Kolom baru," katanya, memutar papannya agar semua bisa membaca: HARI-H, dan di bawahnya empat garis miring. "Setiap malam satu garis dicoret. Kalau garis habis dan kamu belum naik, ibu Tamma memimpin name-roll ekstra dan aku berdiri di depan Quota Office dengan sanggahan tertulis." Ia menatap kakaknya tegak-lurus. "Bukan ancaman. Prosedur keluarga."
 
 "Sela—" kata Ashvarok.
 
@@ -51,7 +51,7 @@ Ia berdiri di atasnya — empat puluh tiga langkah dan setengah dari pintu, tepa
 
 "Jangan malam ini," bisiknya kepada retakan itu, dalam bahasa yang tidak diajarkan kepada siapa pun. "Mereka datang membaca. Berpura-puralah mati."
 
-Pekerjaannya dilakukan dengan Ash, bukan Forge — abu memakan gema, dan gema retakan itu harus hilang dari dunia yang bisa didengar alat: satu lapis tipis, presisi, diserapkan ke dalam sayat-sayat purba sampai bibir itu terbaca sebagai formasi batu mati, retakan geologi yang gagal, alasan peta tua itu keliru. Harganya ditagih seperti biasa di tempat yang tidak bisa ditawar: segenggam abu baru di telapak tangannya, lapar yang menggigit dari tulang, dan vein-scar kanan yang berdenyut melewati sikunya dengan sabar yang menyeramkan — empat jari menjadi lima dalam gelap yang tidak ada saksinya kecuali dirinya sendiri dan Jam Pasir yang akan dicatat gadis kecil esok pagi.
+Pekerjaannya dilakukan dengan Ash, bukan Forge — abu memakan gema, dan gema retakan itu harus hilang dari dunia yang bisa didengar alat: satu lapis tipis, presisi, diserapkan ke dalam sayat-sayat purba sampai bibir itu terbaca sebagai formasi batu mati, retakan geologi yang gagal, alasan peta tua itu keliru. Harganya ditagih seperti biasa di tempat yang tidak bisa ditawar: segenggam abu baru di telapak tangannya, lapar yang menggigit dari tulang, dan vein-scar kanan yang berdenyut melewati sikunya dengan sabar yang menyeramkan — empat jari menjadi lima dalam gelap yang tidak ada saksinya kecuali dirinya sendiri dan Hourglass yang akan dicatat gadis kecil esok pagi.
 
 Retakan itu patuh. Retakan itu berpura-pura mati dengan sempurna, seperti makhluk yang sudah seribu tahun pandai menunggu.
 

@@ -13,7 +13,7 @@ Pengikat senior tanpa nama berjalan paling depan, dan sejak tingkat kedua, Ashva
 
 Di ujung lorong B, prosesi berhenti di hadapan dinding yang setahun lalu ia tenun menjadi kebohongan.
 
-"Pintu buntu," kata Ossian Vael, suaranya sopan-prosedural seperti selalu, tetapi Ashvarok yang setahun mendengarnya dari celah ventilasi menangkap benang baru di dalamnya: nada orang yang datang menagih utang yang disimpan lama. "Klasifikasi lamanya buntu. Klasifikasi kita hari ini: tertunda. Buka."
+"Blind Door," kata Ossian Vael, suaranya sopan-prosedural seperti selalu, tetapi Ashvarok yang setahun mendengarnya dari celah ventilasi menangkap benang baru di dalamnya: nada orang yang datang menagih utang yang disimpan lama. "Klasifikasi lamanya buntu. Klasifikasi kita hari ini: tertunda. Buka."
 
 Pekerjaan pembukaan memakan satu jam penuh, dan Ashvarok bekerja di dalamnya seperti kuli sungguhan — memindahkan batu, mengangkat fragmen, memutar tuas besi — sementara bagian dalam kepalanya melakukan pekerjaan lain. Ia menghitung ulang apakah tenunan Forge tipisnya akan pecah dengan cara yang jujur. Tenunan itu pecah dengan cara yang jujur. Batu menua, mengelupas seperti retakan tua yang selalu ia janjikan, dan di baliknya terbuka ambang bersisi pendek dengan lambang ikatan yang setengah dimakan garam — pintu lama ke aula, tertutup dari dalam oleh masa yang lebih tua daripada semua klasifikasi di dunia ini.
 
@@ -61,7 +61,7 @@ Ashvarok, memindahkan tali keranjang di sudut ruangan, merasakan kalimat itu bek
 
 "Dicatat," kata Maera, dan menulisnya.
 
-Dan Ossian Vael, yang mendapatkan semua yang dia inginkan, berdiri sedikit terlalu lama di tengah kemenangannya, dan Ashvarok — yang setahun belajar membaca punggung orang ini dari lubang ventilasi — melihat keraguan itu bekerja di bahu pejabat itu seperti air merembes di balik plester: terlalu mudah. Kata-kata itu bahkan tidak perlu diucapkan. Seorang Chorus-tier pengikat yang membeli kebenaran dengan harga politik selama setahun tidak pernah percaya kepada tagihan yang murah, dan ruangan ini baru menagihnya empat jam kerja dan satu stempel.
+Dan Ossian Vael, yang mendapatkan semua yang dia inginkan, berdiri sedikit terlalu lama di tengah kemenangannya, dan Ashvarok — yang setahun belajar membaca punggung orang ini dari lubang ventilasi — melihat keraguan itu bekerja di bahu pejabat itu seperti air merembes di balik plester: terlalu mudah. Kata-kata itu bahkan tidak perlu diucapkan. Seorang Chorus-tier pengikat yang membeli kebenaran dengan harga politik selama setahun tidak pernah percaya kepada tagihan yang murah, dan ruangan ini baru menagihnya empat jam bekerja dan satu stempel.
 
 "Semuanya terbaca normal," kata Ossian akhirnya, pelan, hampir kepada dirinya sendiri. "Sampai detik ini, semuanya terbaca normal."
 

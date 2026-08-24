@@ -39,7 +39,7 @@ Ashvarok tetap berlutut sampai sepuluh tarikan napas habis, dan menyapa itu tida
 
 Kunci yang mendengar gemboknya menyapa namanya dua kali.
 
-Ia membiarkan kesadaran itu duduk, karena menolaknya lebih mudah daripada memikirkannya, dan ia sudah terlalu tua untuk memilih yang mudah. Dua kali. Itu seluruh riwayat pelajarannya. Malam pamitnya setelah hari-H, ketika retakan menembus lapisan abu dan menyebut dua suku kata tanpa suara — dan malam ini. Dua pemaparan irama di hadapan permukaan batu yang bermuara ke semua jalurnya. Ia sendiri yang mengajarkan itu, tanpa sengaja, dengan cara berdiri terlalu dekat terlalu sering. Sebagaimana anak-anak barak belajar kereta nama dari mendengar orang memanggil, sebagaimana burung belajar lagu dari lagu burung lain, sesuatu di dalam geometri aula ini sedang meniru suara yang paling sering menyentuhnya.
+Ia membiarkan kesadaran itu duduk, karena menolaknya lebih mudah daripada memikirkannya, dan ia sudah terlalu tua untuk memilih yang mudah. Dua kali. Itu seluruh riwayat pelajarannya. Malam pamitnya setelah hari-H, ketika retakan menembus lapisan abu dan menyebut dua suku kata tanpa suara — dan malam ini. Dua pemaparan irama di hadapan permukaan batu yang bermuara ke semua jalurnya. Ia sendiri yang mengajarkan itu, tanpa sengaja, dengan cara berdiri terlalu dekat terlalu sering. Sebagaimana anak-anak barak belajar name train dari mendengar orang memanggil, sebagaimana burung belajar lagu dari lagu burung lain, sesuatu di dalam geometri aula ini sedang meniru suara yang paling sering menyentuhnya.
 
 Ia bangkit perlahan, memadamkan kesimpulan itu menjadi kalimat-kalimat yang bisa dibawa naik tanpa tertulis, dan kalimat-kalimat itu dingin sampai ke tulang. Dais tidak menyapa karena retakan meminjamkan suaranya. Dais menyapa karena dais belajar — menghafal irama retakan dari dua kali pertemuan, menyalin napas isi-dan-kosong dengan jeda seorang murid. Sesuatu yang selama seribu tahun berdiam sebagai batu kunci sedang berlatih menjadi hal yang ditutupinya. Kalau latihan itu sempat matang, segel tidak lagi punya satu bibir yang bisa dijaga. Segel punya dua bibir. Dan dunia tidak mendapat musuh kedua — dunia mendapat dua mulut dari mulut yang sama, berbicara serempak, dan satu di antaranya berdiri di ruangan yang oleh dua institusi dicap struktur mati non-strategis.
 
@@ -67,7 +67,7 @@ Di stasiun angkutan Brannoc menghitung tarikan napasnya dengan mata, bukan denga
 
 "Lima titik?" tanyanya.
 
-"Lima titik." Ashvarok menyerahkan lembar inspeksi. "Dan satu pekerjaan ekstra yang tidak masuk daftar. Nanti pagi, sebelum regu datang, tambahkan satu baris di kolom Jam Pasir. Tulisan tanganku."
+"Lima titik." Ashvarok menyerahkan lembar inspeksi. "Dan satu pekerjaan ekstra yang tidak masuk daftar. Nanti pagi, sebelum regu datang, tambahkan satu baris di kolom Hourglass. Tulisan tanganku."
 
 "Sela yang pegang kapur situ."
 
@@ -81,7 +81,7 @@ Mereka naik bersama dalam sunyi troli yang benar, dan Brannoc tidak bertanya, ka
 
 ---
 
-Barak distrik timur sedang tidur tidurnya yang dijaga — absen-nama sudah lewat, kereta nama sudah berhenti di semua stasiunnya, dan papan tulis Sela berdiri di sudut dapur seperti pegawai yang tidak pernah pulang. Ashvarok berdiri di depannya dengan potongan kapur, dan untuk pertama kalinya sejak kolom itu dibuat, ia menulis di Jam Pasir dengan tangannya sendiri, tanpa menunggu tangan yang lebih muda.
+Barak distrik timur sedang tidur tidurnya yang dijaga — name-roll sudah lewat, name train sudah berhenti di semua stasiunnya, dan papan tulis Sela berdiri di sudut dapur seperti pegawai yang tidak pernah pulang. Ashvarok berdiri di depannya dengan potongan kapur, dan untuk pertama kalinya sejak kolom itu dibuat, ia menulis di Hourglass dengan tangannya sendiri, tanpa menunggu tangan yang lebih muda.
 
 Hari 96. Seperempat jari. Bukan Cinder.
 

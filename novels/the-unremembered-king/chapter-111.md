@@ -5,7 +5,7 @@ chapter: 111
 
 Subuh hari keseratus lima puluh tiga, Maera Tull duduk di mejanya dengan empat barang yang tidak seharusnya berkumpul dalam satu ruangan yang sama, dan ia menyusunnya berjajar seperti penilai menjajarkan bukti, karena itulah yang semuanya itu.
 
-Kotak kayu bersegel lilin ungu dari rak belakang, isi tas kurir bisu dan petugas slot. Fragmen bertanda empat titik, lilin-lilin putih-abu berbenang timah, lembar-lembar kode kotak garis miring atas nama delapan keluarga yang tidak pernah pindah, dan lipatan besar berkop KORD-4 di paling atas daftar isinya. Arsip Tharrow yang dicicil lewat gencatan senjata, kini barang Guild sepenuhnya. Permohonan audit saluran dana yang tiba disegel ibu jari seorang pegawai jatuh. Dan pernyataan fakta kolektif distrik timur, empat ratus keluarga yang menolak menjadi barang gudang dengan antrean tanda tangan yang melengkung sampai pintu.
+Kotak kayu bersegel lilin ungu dari rak belakang, isi tas kurir bisu dan petugas slot. Fragmen bertanda empat titik, lilin-lilin putih-abu threaded with tin, lembar-lembar kode kotak garis miring atas nama delapan keluarga yang tidak pernah pindah, dan lipatan besar berkop KORD-4 di paling atas daftar isinya. Arsip Tharrow yang dicicil lewat gencatan senjata, kini barang Guild sepenuhnya. Permohonan audit saluran dana yang tiba disegel ibu jari seorang pegawai jatuh. Dan pernyataan fakta kolektif distrik timur, empat ratus keluarga yang menolak menjadi barang gudang dengan antrean tanda tangan yang melengkung sampai pintu.
 
 Empat kartu. Satu pemegang. Di ujung lain kota ada satu orang yang memegang kartu juga, dan selama dua tahun orang itulah yang menentukan kartu mana yang boleh dilihat meja mana.
 
@@ -23,7 +23,7 @@ Paket kedua lebih tipis, dan tipisnya sengaja. Notifikasi resmi komisi kepada pi
 
 Jadi jalurnya begini. Surat itu tiba di Quota Office Caldrest. Pasal memaksa penerusannya ke lantai empat puluh. Pasal yang lain memaksa lantai empat puluh memberitahukan pusat sectenya bahwa biro miliknya sendiri sedang diperiksa lembaga lain. Kebetulan yang diatur oleh tangan yang menghitung.
 
-Pegawai pos tua menerima kedua paket itu pada jam kerja pertama, menimbang keduanya di kotak timbung kecilnya, dan menatap Maera dengan mata yang setahun ini sudah berhenti terkejut pada apa pun yang keluar dari ruangan itu.
+Pegawai pos tua menerima kedua paket itu pada jam bekerja pertama, menimbang keduanya di kotak timbung kecilnya, dan menatap Maera dengan mata yang setahun ini sudah berhenti terkejut pada apa pun yang keluar dari ruangan itu.
 
 "Dua paket, Nona. Satu tebal, satu tipis."
 
@@ -39,7 +39,7 @@ Hari keseratus lima puluh empat berlalu tanpa kabar, dan Maera menjalani hari it
 
 Pantulan pertama datang dari arah Quota Office, dan bentuknya kecil. Petugas salah satu kolom operasional dilaporkan atasan langsungnya berhenti hadir tanpa keterangan. Pencariannya resmi dan pelan, seperti pencarian orang yang kantornya malu sebelum ditanya. Pada sore hari yang sama, dua lampu di sayap administrasi menyala sampai larut. Orang yang narasinya selalu dia pegang sendirian sedang menulis cerita penjelasan, dan cerita penjelasan selalu butuh malam.
 
-Pantulan kedua datang pada hari keseratus lima puluh lima, jam sepuluh pagi, dalam wujud Ossian Vael sendiri di ambang ruang kerja pos Guild, tanpa surat tanda dan tanpa undangan, dengan mantel yang setrikaannya sempurna seperti biasa.
+Pantulan kedua datang pada hari keseratus lima puluh lima, jam sepuluh pagi, dalam wujud Ossian Vael sendiri di ambang ruang bekerja pos Guild, tanpa surat tanda dan tanpa undangan, dengan mantel yang setrikaannya sempurna seperti biasa.
 
 "Assayer Tull."
 
@@ -81,7 +81,7 @@ Ia membayangkan pagi besok di Quota Office, dan bayangan itu cukup jelas. Jendel
 
 Maera duduk lama di depan buku hitamnya sebelum menulis apa pun.
 
-Yang ia temukan di dalam dirinya sendiri tidak nyaman. Ada rasa yang hangat, tentu saja, rasa tuas yang akhirnya ditekan dan mesin besar yang bergerak. Tetapi di bawah hangat itu ada penglihatan dingin tentang dirinya sendiri. Ia baru saja memainkan kebenaran seperti barang. Melemparkannya lewat pintu resmi supaya bekerja sendiri tanpa wajah, tanpa tanggung jawab personal, dan menghancurkan orang yang kebetulan berdiri di jalurnya. Prosedur sebagai senjata. Arsip sebagai umpan. Itu adalah cara kerja musuh-musuhnya. Itu persis cara Vael bekerja, hanya dengan stempel yang berbeda.
+Yang ia temukan di dalam dirinya sendiri tidak nyaman. Ada rasa yang hangat, tentu saja, rasa tuas yang akhirnya ditekan dan mesin besar yang bergerak. Tetapi di bawah hangat itu ada penglihatan dingin tentang dirinya sendiri. Ia baru saja memainkan kebenaran seperti barang. Melemparkannya lewat pintu resmi supaya bekerja sendiri tanpa wajah, tanpa tanggung jawab personal, dan menghancurkan orang yang kebetulan berdiri di jalurnya. Prosedur sebagai senjata. Arsip sebagai umpan. Itu adalah cara bekerja musuh-musuhnya. Itu persis cara Vael bekerja, hanya dengan stempel yang berbeda.
 
 Ia menulis dua baris di buku hitam, dan menimbang keduanya seperti menimbang log pasar.
 

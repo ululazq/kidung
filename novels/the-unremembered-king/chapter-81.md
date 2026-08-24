@@ -11,21 +11,21 @@ Batas itu diucapkan sebelum satu tetes panas pun ditenun, dan karena batas itu d
 
 "Kurang lebih bukan kata yang kupakai untuk badan bocah lima belas tahun."
 
-Sela membuka halaman baru di papan tulisnya, di bawah kolom-kolom lama yang sudah menjadi arsip kehidupan sebuah barak, dan menulis kepala kolom yang ditunggu-tunggu sejak rapat gudang: STEMPEL — MALAM SATU. Di bawahnya ia menggambar garis jam seperti biasa, karena Jam Pasir tidak hanya mengukur garis parut; ia mengukur apa saja yang dibayar tubuh kakaknya. "Kalau malam ini ada rambat," katanya tanpa mendongak, "kolomnya aku coret dua kali. Coret dua kali artinya besok kita tidak latihan, tidak produksi, tidak apa-apa. Cuma tidur."
+Sela membuka halaman baru di papan tulisnya, di bawah kolom-kolom lama yang sudah menjadi arsip kehidupan sebuah barak, dan menulis kepala kolom yang ditunggu-tunggu sejak rapat gudang: STEMPEL — MALAM SATU. Di bawahnya ia menggambar garis jam seperti biasa, karena Hourglass tidak hanya mengukur garis parut; ia mengukur apa saja yang dibayar tubuh kakaknya. "Kalau malam ini ada rambat," katanya tanpa mendongak, "kolomnya aku coret dua kali. Coret dua kali artinya besok kita tidak latihan, tidak produksi, tidak apa-apa. Hanya tidur."
 
 "Diterima," kata Ashvarok.
 
-Gudang perkakas tingkat dua pada malam hari keseratus satu terlihat seperti ruangan yang sedang menahan napas. Lampu diredupkan ke sudut yang tidak terlihat dari celah ventilasi. Pintu dikunci dari dalam. Di tengah bangku kerja tergeletak barang yang akan menjadi karya penempaan terpenting sejak sebuah pisau upacara membuat seorang Assayer muda berhenti bertanya dan mulai memilih. Potongan cinder-glass tua dari saku dada kanannya, sebesar kepalan orang dewasa, dingin seperti semua benda yang sudah menyelesaikan urusannya dengan api berabad-abad silam.
+Gudang perkakas tingkat dua pada malam hari keseratus satu terlihat seperti ruangan yang sedang menahan napas. Lampu diredupkan ke sudut yang tidak terlihat dari celah ventilasi. Pintu dikunci dari dalam. Di tengah bangku bekerja tergeletak barang yang akan menjadi karya penempaan terpenting sejak sebuah pisau upacara membuat seorang Assayer muda berhenti bertanya dan mulai memilih. Potongan cinder-glass tua dari saku dada kanannya, sebesar kepalan orang dewasa, dingin seperti semua benda yang sudah menyelesaikan urusannya dengan api berabad-abad silam.
 
 Ashvarok mengambil potongan itu dengan kedua tangan dan menimbangnya bukan dengan timbangan.
 
-Forge adalah untaian yang paling jujur dari empat untainya — ia tidak membunuh, ia hanya membuat benda membayar usianya sendiri. Besi yang ditenun akan menua dalam hitungan hari kecuali diberi gema penguat. Cinder-glass tidak menua karena ia adalah residu usia itu sendiri. Maka untuk pekerjaan ini bahan sudah dipilih benar sejak malam rapat. Yang tersisa adalah masalah yang lebih tua dari Caldrest, masalah yang dulu ia selesaikan di ruang kerja yang lampunya disuplai minyak dari ladang yang kini tidak ada namanya di peta mana pun — bagaimana membuat sebuah benda tidak sekadar tampak tua bagi mata, melainkan memiliki umur sungguhan — umur yang bisa dibaca instrumen, telapak, dan pembaca yang cerewet, karena umur itu benar-benar ada di dalamnya.
+Forge adalah untaian yang paling jujur dari empat untainya — ia tidak membunuh, ia hanya membuat benda membayar usianya sendiri. Besi yang ditenun akan menua dalam hitungan hari kecuali diberi gema penguat. Cinder-glass tidak menua karena ia adalah residu usia itu sendiri. Maka untuk pekerjaan ini bahan sudah dipilih benar sejak malam rapat. Yang tersisa adalah masalah yang lebih tua dari Caldrest, masalah yang dulu ia selesaikan di ruang bekerja yang lampunya disuplai minyak dari ladang yang kini tidak ada namanya di peta mana pun — bagaimana membuat sebuah benda tidak sekadar tampak tua bagi mata, melainkan memiliki umur sungguhan — umur yang bisa dibaca instrumen, telapak, dan pembaca yang cerewet, karena umur itu benar-benar ada di dalamnya.
 
 Tekniknya ia pelajari untuk keperluan yang ironisnya mirip. Dokumen-dokumen istana yang harus lolos arsiparis — pembaca-pembaca bersertifikat yang pekerjaannya mencium bohong pada kertas, lilin, dan logam. Kebanyakan pemalsu menua barangnya dengan cepat — panas, asam, penggosokan, abu. Semua cara itu meninggalkan irama yang sama bagi hidung yang tepat — usia yang buru-buru. Umur sungguhan bekerja sebaliknya. Bahan tidak dibohongi tentang usianya; bahan diberi pinjaman waktu — sepuluh tahun diserap dalam satu tarikan napas, dengan harga yang ditagih kepada pembawa, karena waktu adalah panas yang bergerak sangat lambat dan panas harus datang dari suatu tempat.
 
 Tempatnya, malam ini, adalah tubuh seorang bocah tungku.
 
-Ia mulai dengan bentuk. Sepuluh simpul pertama hanyalah Forge biasa. Potongan itu melembut di tangannya seperti lilin yang lupa dirinya keras, dan di bawah ibu jarinya permukaan menuruni ingatan bentuk yang ia hafal lebih dalam dari nama mana pun — matriks segel minor era Hegemony, wajah stempel yang pernah dicelupkan ribuan kali ke lilin merah di ruang-ruang yang sudah menjadi debu. Tepi luar delapan sisi. Wajah dalam: lambang ikatan yang diputar seperempat lingkaran, dan di atasnya barisan huruf runik yang ia ukir bukan dengan pahat melainkan dengan keputusan — Tanah Jasa Distrik Timur. Di pangkal wajah, sekecil dan sesenyap sumpah — tanda penjaga, goresan tunggal yang hanya berarti satu hal bagi institusi yang masih menyimpan buku tanda-tanda itu.
+Ia mulai dengan bentuk. Sepuluh simpul pertama hanyalah Forge biasa. Potongan itu melembut di tangannya seperti lilin yang lupa dirinya keras, dan di bawah ibu jarinya permukaan menuruni ingatan bentuk yang ia hafal lebih dalam dari nama mana pun — matriks segel minor era Hegemony, wajah stempel yang pernah dicelupkan ribuan kali ke lilin merah di ruang-ruang yang sudah menjadi debu. Tepi luar delapan sisi. Wajah dalam: lambang ikatan yang diputar seperempat lingkaran, dan di atasnya barisan huruf runik yang ia ukir bukan dengan pahat melainkan dengan keputusan — Service Grant of the Eastern District. Di pangkal wajah, sekecil dan sesenyap sumpah — tanda penjaga, goresan tunggal yang hanya berarti satu hal bagi institusi yang masih menyimpan buku tanda-tanda itu.
 
 Sela mendekat ketika huruf-huruf itu selesai, membaca pelan, dan diam sebentar. "Distrik timur punya tanah?" tanyanya.
 
@@ -33,7 +33,7 @@ Sela mendekat ketika huruf-huruf itu selesai, membaca pelan, dan diam sebentar. 
 
 Brannoc membaca goresan pangkal itu lebih lama daripada sisanya, dan matanya naik. "Itu tanda apa?"
 
-"Tanda jabatan yang sudah tidak ada. Bagi yang tahu, itu berarti kertas ini pernah dieksekusi oleh penjaga yang sah. Bagi yang tidak tahu, itu cuma goresan tua." Ashvarok meletakkan matriks yang sudah berbentuk itu di alas batu, dan membiarkan tangannya berhenti gemetar sedikit — gemetar lelah biasa, bukan gemetar pola. "Bagi komisi, yang penting bukan yang dibaca. Yang penting: tidak bisa dibaca salah."
+"Tanda jabatan yang sudah tidak ada. Bagi yang tahu, itu berarti kertas ini pernah dieksekusi oleh penjaga yang sah. Bagi yang tidak tahu, itu hanya goresan tua." Ashvarok meletakkan matriks yang sudah berbentuk itu di alas batu, dan membiarkan tangannya berhenti gemetar sedikit — gemetar lelah biasa, bukan gemetar pola. "Bagi komisi, yang penting bukan yang dibaca. Yang penting: tidak bisa dibaca salah."
 
 Malam pertama berakhir sebelum tengah malam, sesuai batas. Sela memeriksa garis kanannya dengan ujung kapur, menyentuh kulit di atasnya, dan menulis di kolom barunya: MALAM SATU — TANPA RAMBAT. LAPAR DUA HARI. Ia menulisnya seperti menulis cuaca, dan itu adalah jenis kasih sayang yang paling berguna di gudang itu.
 
@@ -47,7 +47,7 @@ Pukul sebelas ia turun. Brannoc menunggu di pintu zona dengan lentera yang diset
 
 "Pintu buangnya sudah kukunci di pola," kata Ashvarok. "Kali ini bukan Cinder. Forge tidak meledak. Forge hanya menghisap."
 
-"Itulah yang bikin aku tidak percaya sama sekali."
+"Itulah yang membuat aku tidak percaya sama sekali."
 
 Ia mulai pada jam sebelas lewat sedikit. Pola umur-sungguhan adalah sepuluh simpul yang tidak boleh ditarik sekaligus. Setiap simpul meminjam satu potongan waktu — setahun, lima tahun, satu dekade — dan menyuntikkannya ke kisi kisi cinder-glass sampai kaca itu mengingat seluruh masa yang tidak dialaminya. Simpul demi simpul, matriks di alas batu mulai berubah bukan bentuknya melainkan kenyataannya. Permukaannya memunculkan mikroskopis yang hanya lahir dari abad, warnanya turun satu nada ke abu yang lebih tua, dan di tepi delapan sisinya tumbuh kelelahan yang jujur — kelelahan yang tidak bisa dipalsukan karena ia baru saja benar-benar terjadi, di dalam kaca, dipercepat seribu kali.
 
@@ -69,7 +69,7 @@ Sela menatapnya lama, lalu menulis di papan tulis kecilnya dengan huruf yang sen
 
 "Aku dengar semua," kata Ashvarok.
 
-"Papan ini bukan buat kamu."
+"Papan ini bukan untuk kamu."
 
 ---
 

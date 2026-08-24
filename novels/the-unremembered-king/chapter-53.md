@@ -3,7 +3,7 @@ title: "Bab 53: Sarung Tangan yang Bersih"
 chapter: 53
 ---
 
-Pesan itu tiba pada hari keenam puluh lima, ditulis dengan tangan sendiri oleh pejabat yang jarang menulis dengan tangannya sendiri, dan isinya hanya satu kalimat: Pukul tujuh malam. Ruang tamu meja bular. Datanglah dengan buku kerja Anda yang resmi dan tidak membawa yang lain.
+Pesan itu tiba pada hari keenam puluh lima, ditulis dengan tangan sendiri oleh pejabat yang jarang menulis dengan tangannya sendiri, dan isinya hanya satu kalimat: Pukul tujuh malam. Ruang tamu meja bular. Datanglah dengan buku bekerja Anda yang resmi dan tidak membawa yang lain.
 
 Kel Tharrow membaca kalimat itu empat kali di dalam ruangannya, dan pada pembacaan keempat ia mengakui kepada dirinya sendiri bahwa pesan yang ditulis tangan lebih buruk daripada surat berstempel. Surat berstempel adalah prosedur, dan prosedur melindungi orang-orang di dalamnya. Tulisan tangan adalah niat, dan niat tidak punya pasal pelindung.
 
@@ -17,7 +17,7 @@ Ia datang pukul tujuh kurang sepuluh, dengan seragam tanpa satu kerutan dan saru
 
 Tharrow mendengar bentuk jebakan itu sebelum isi disebutkan, seperti penambang mendengar gema kosong sebelum amblas.
 
-"Nama penulis laporan yang sukses," kata Ossian, "adalah nama yang naik bersama laporannya. Nama penulis laporan kosong—" ia menutup kalimatnya dengan gerakan kecil ke arah buku kerja resmi di bawah ketiak Tharrow, "—akan menemui karier yang cocok dengan isinya. Arsip cabang utara membutuhkan koordinator. Iklimnya cocok dengan sarung tangan Anda."
+"Nama penulis laporan yang sukses," kata Ossian, "adalah nama yang naik bersama laporannya. Nama penulis laporan kosong—" ia menutup kalimatnya dengan gerakan kecil ke arah buku bekerja resmi di bawah ketiak Tharrow, "—akan menemui karier yang cocok dengan isinya. Arsip cabang utara membutuhkan koordinator. Iklimnya cocok dengan sarung tangan Anda."
 
 Tharrow menjaga suaranya tetap datar dengan usaha yang bisa diukur. "Faktor itu tidak meninggalkan nama karena faktor itu tidak mau ditemukan, Tuan Vael. Prosedur yang tersedia bagi saya adalah pengawasan, dan pengawasan—"
 
@@ -39,7 +39,7 @@ Empat belas tahun dinas, pikirnya, dan aku bahkan bukan cerita di antreanku send
 
 Di kamarnya, ia membuka arsip pribadi berkunci — arsip yang tidak masuk buku mana pun, yang keberadaannya sendiri sudah merupakan pelanggaran pertama meski tidak pernah dinamai demikian — dan memandangi isinya selama satu jam.
 
-Kertas bertuliskan TURUN PERDANA MUNDUR SATU HARI. Amplop-amplop persentase yang belum dibuka dari bulan-bulan mati. Dan di bawahnya, salinan inventaris barang sitaan karantina yang secara teknis berada di bawah kendali koordinasinya: fragmen-fragmen tulang seam yang disita dari pasar saat larangan dagang, belasan keping premium yang menunggu lelang yang tidak akan pernah datang, dan sebatang lilin putih-abu berbenang timah yang diserahkan Shift Guard di garis sebagai sitaan tanpa pemilik.
+Kertas bertuliskan TURUN PERDANA MUNDUR SATU HARI. Amplop-amplop persentase yang belum dibuka dari bulan-bulan mati. Dan di bawahnya, salinan inventaris barang sitaan karantina yang secara teknis berada di bawah kendali koordinasinya: fragmen-fragmen tulang seam yang disita dari pasar saat larangan dagang, belasan keping premium yang menunggu lelang yang tidak akan pernah datang, dan sebatang lilin putih-abu threaded with tin yang diserahkan Shift Guard di garis sebagai sitaan tanpa pemilik.
 
 Barang-barang itu asli. Itu bagian yang membuat rencananya menjijikkan dan meyakinkan sekaligus.
 
@@ -55,7 +55,7 @@ Ada satu pengetahuan lagi yang membuat pilihannya jatuh pada nama itu, dan penge
 
 Malam itu juga ia menyusun paketnya di atas meja, dengan sarung tangan yang tidak pernah dilepas.
 
-Dua belas fragmen tulang seam, disusun menurut ukuran seperti ia menyusun angka: yang terbesar di bawah, menara kecil yang bisa dibaca sekilas sebagai simpanan. Lilin benang timah diletakkan di sampingnya — barang itu akan bicara sendiri, karena benang timah adalah bahasa the Resonant Choir dan semua orang di Caldrest mulai tahu artinya. Terakhir, selembar kertas berisi kolom angka yang ia tulis dengan tangan kiri. Angka-angka itu tidak bermakna bagi siapa pun kecuali pembaca yang ingin menemukan makna, karena angka tanpa makna adalah cermin, dan setiap penyidik melihat dirinya sendiri di dalamnya.
+Dua belas fragmen tulang seam, disusun menurut ukuran seperti ia menyusun angka: yang terbesar di bawah, menara kecil yang bisa dibaca sekilas sebagai simpanan. Lilin tin thread diletakkan di sampingnya — barang itu akan bicara sendiri, karena tin thread adalah bahasa the Resonant Choir dan semua orang di Caldrest mulai tahu artinya. Terakhir, selembar kertas berisi kolom angka yang ia tulis dengan tangan kiri. Angka-angka itu tidak bermakna bagi siapa pun kecuali pembaca yang ingin menemukan makna, karena angka tanpa makna adalah cermin, dan setiap penyidik melihat dirinya sendiri di dalamnya.
 
 Surat anonimnya ia tulis tiga kali sebelum puas. Huruf cetak besar, dibuat lambat agar tidak menunjukkan latihan. Bahasa yang tepat — bukan bahasa dendam, melainkan bahasa warga yang cemas, karena laporan dendam dibuang dan laporan cemas ditindaklanjuti. Seorang Foreman menyimpan hasil panen ilegal di gudang perkakasnya di tingkat dua. Ada bocah furnace lorong tujuh yang memotongnya. Periksa sebelum barangnya berpindah.
 

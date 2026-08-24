@@ -31,7 +31,7 @@ Dan waktunya tidak salah sedikit pun. Jawaban Spire baru turun. Panen resmi butu
 
 "Percaya itu persediaan," kata Brannoc. "Bisa habis kalau dipakai untuk hal yang salah. Karena itu aku bawa ini ke rapat — biar persediaanku dicoba di depan pemiliknya, bukan dijual di belakangnya."
 
-"Besok malam ada rapat barak," kata Brannoc, menyelipkan surat itu kembali ke jaket. "Rapat rutin, soal jadwal antrean santunan dan absen-nama blok timur. Aku bawa ini ke sana."
+"Besok malam ada rapat barak," kata Brannoc, menyelipkan surat itu kembali ke jaket. "Rapat rutin, soal jadwal antrean santunan dan name-roll blok timur. Aku bawa ini ke sana."
 
 "Kamu mau mereka yang memutuskan."
 
@@ -39,9 +39,9 @@ Dan waktunya tidak salah sedikit pun. Jawaban Spire baru turun. Panen resmi butu
 
 ---
 
-Rapat barak distrik timur diadakan malam hari kedelapan puluh sembilan di ruang bersama blok timur — ruangan panjang dengan bangku kayu yang dulu meja makan shift, kini meja segala urusan. Ibu Tamma memimpin bagian administratifnya dengan daftar absen-nama di pangkuannya. Ondar duduk paling depan karena Ondar selalu duduk paling depan. Sela duduk di ujung bangku dengan papan tulisnya, mencatat keputusan seperti pekan-pekan sebelumnya. Anak-anak diizinkan tinggal sampai bagian pertama selesai. Tovik duduk paling belakang, senyum ramahnya setia seperti biasa, ikut tertawa ketika yang lain tertawa meski kadang terlambat sebentar.
+Rapat barak distrik timur diadakan malam hari kedelapan puluh sembilan di ruang bersama blok timur — ruangan panjang dengan bangku kayu yang dulu meja makan shift, kini meja segala urusan. Ibu Tamma memimpin bagian administratifnya dengan daftar name-roll di pangkuannya. Ondar duduk paling depan karena Ondar selalu duduk paling depan. Sela duduk di ujung bangku dengan papan tulisnya, mencatat keputusan seperti pekan-pekan sebelumnya. Anak-anak diizinkan tinggal sampai bagian pertama selesai. Tovik duduk paling belakang, senyum ramahnya setia seperti biasa, ikut tertawa ketika yang lain tertawa meski kadang terlambat sebentar.
 
-Urusan santunan selesai cepat. Urusan absen-nama selesai lebih cepat. Lalu Brannoc berdiri, dan ruangan mereda dengan cara ruangan selalu mereda untuknya — bukan karena suaranya keras, tapi karena ia tidak pernah berdiri kalau tidak perlu.
+Urusan santunan selesai cepat. Urusan name-roll selesai lebih cepat. Lalu Brannoc berdiri, dan ruangan mereda dengan cara ruangan selalu mereda untuknya — bukan karena suaranya keras, tapi karena ia tidak pernah berdiri kalau tidak perlu.
 
 "Satu perkara tambahan," katanya. "Dari luar barak."
 
@@ -57,9 +57,9 @@ Seorang pekerja muda galeri sebelas mengatakannya lebih dulu, pelan, jujur sampa
 
 "Kau mungkin benar mengambilnya," kata Brannoc.
 
-Lalu ia maju satu langkah ke meja, dan bicara dengan kalimat-kalimat pendeknya, kata kerja di depan, suara yang sama yang dipakainya menyebut jadwal shift.
+Lalu ia maju satu langkah ke meja, dan bicara dengan kalimat-kalimat pendeknya, kata bekerja di depan, suara yang sama yang dipakainya menyebut jadwal shift.
 
-"Menolak. Bukan uangnya — uang itu nyata dan besar. Jabatannya. Yang dibeli bukan kerjaku; kerja bisa dinilai siapa saja. Yang dibeli wajah kalian. Mereka mau pindahan ini terlihat seperti hadiah, dan hadiahnya namaku." Ia menunjuk surat itu sekali, tanpa menyentuhnya. "Aku bawa ke sini supaya kalian baca harganya. Sekarang kalian tahu. Ada yang menawar mandor kalian untuk menjual distrik kalian, dan harganya segitu, dan dia tidak jual."
+"Menolak. Bukan uangnya — uang itu nyata dan besar. Jabatannya. Yang dibeli bukan kerjaku; bekerja bisa dinilai siapa saja. Yang dibeli wajah kalian. Mereka mau pindahan ini terlihat seperti hadiah, dan hadiahnya namaku." Ia menunjuk surat itu sekali, tanpa menyentuhnya. "Aku bawa ke sini supaya kalian membaca harganya. Sekarang kalian tahu. Ada yang menawar mandor kalian untuk menjual distrik kalian, dan harganya segitu, dan dia tidak jual."
 
 Ia mundur kembali ke tempatnya berdiri, dan menambahkan satu kalimat terakhir, lebih pelan.
 
@@ -87,5 +87,5 @@ Ashvarok memikirkan setahun ke belakang — mandor yang curiga, perjanjian diam,
 
 Ia berhenti di ambang pintu, menoleh sekali, dan menambahkan hal yang paling dekat dengan terima kasih yang pernah ia ucapkan sepanjang tahun ini. "Kamu tidak menyuruhku menolak. Itu keputusan bagus untuk tidak diambil orang lain."
 
-Di balik pintu gudang, kertas kode patroli bergoyang pelan digoyang angin malam, dan di barak distrik timur, di dinding ruang tunggu klinik, di antara jadwal sekolah anak-anak dan daftar absen-nama, ibu Tamma memaku surat itu ke papan pengumuman — tertulis utuh, cap lilinnya dan semua angkanya, supaya tidak ada satu orang pun di distrik timur yang pernah lupa berapa harganya, dan supaya tidak ada satu orang pun yang pernah lupa jawabannya.
+Di balik pintu gudang, kertas kode patroli bergoyang pelan digoyang angin malam, dan di barak distrik timur, di dinding ruang tunggu klinik, di antara jadwal sekolah anak-anak dan daftar name-roll, ibu Tamma memaku surat itu ke papan pengumuman — tertulis utuh, cap lilinnya dan semua angkanya, supaya tidak ada satu orang pun di distrik timur yang pernah lupa berapa harganya, dan supaya tidak ada satu orang pun yang pernah lupa jawabannya.
 

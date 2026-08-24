@@ -15,7 +15,7 @@ Ia mencatat temuan itu dengan kalimat resmi yang tidak akan mengubah apa pun —
 
 "Kenapa aku satu-satunya yang mengecek asal?" — pertanyaan itu tidak perlu dijawab. Jawabannya duduk dua langkah dari pintu. Dia muda, tanpa nama keluarga di dalam Guild, dan penilaian besarnya belum pernah datang. Yang datang hanya karung-karung curiga dari pedagang kelas empat.
 
-Dari ruang dalam terdengar tawa pendek para assayer senior membahas komisi musim ini. Penilaian warisan di ibu kota selatan, verifikasi artefak pameran, pepekerjaan-pepekerjaan dengan nama besar dan honor lebih besar. Maera menghitung tanpa mau menghitung. Dia sudah empat kali masuk daftar cadangan untuk komisi semacam itu, dan empat kali namanya digantikan oleh orang dengan keluarga yang lebih panjang.
+Dari ruang dalam terdengar tawa pendek para assayer senior membahas komisi musim ini. Penilaian warisan di ibu kota selatan, verifikasi artefak pameran, pekerjaan-pekerjaan dengan nama besar dan honor lebih besar. Maera menghitung tanpa mau menghitung. Dia sudah empat kali masuk daftar cadangan untuk komisi semacam itu, dan empat kali namanya digantikan oleh orang dengan keluarga yang lebih panjang.
 
 "Suatu hari," katanya pada fragmen cinder-glass di piringan timbangan, "kalian semua akan butuh seseorang yang menghitung benar."
 
@@ -29,7 +29,7 @@ Di ruang dalam, map itu dibuka di atas meja yang jauh lebih besar dari kebutuhan
 
 "Komisi rutin dari lisensi tambang, cabang timur. Kota Caldrest, tambang the Underfold, operasi the Quiet Vein." Map didorong melintasi meja. "Survei kedalaman triwulan ini. Bacalah. Lalu katakan padaku apa yang kau lihat."
 
-Maera membuka halaman demi halaman tabel kedalaman: nomor lorong, kedalaman, densitas, pembacaan gema dasar. Angka-angka pepekerjaan. Angka-angka membosankan. Mata mulai mengantuk sampai halaman sebelas.
+Maera membuka halaman demi halaman tabel kedalaman: nomor lorong, kedalaman, densitas, pembacaan gema dasar. Angka-angka pekerjaan. Angka-angka membosankan. Mata mulai mengantuk sampai halaman sebelas.
 
 Halaman sebelas punya satu baris yang tidak cocok dengan sepuluh halaman di atasnya. Lorong sembilan bawah, titik ukur tujuh, kedalaman enam puluh hasta di bawah batas pemetaan resmi. Pembacaan gema di baris itu tidak nol — dan tidak ada seam terdaftar di kedalaman itu. Bukan di Caldrest. Bukan di seluruh provinsi timur.
 
@@ -85,7 +85,7 @@ Sisa kalimat yang dipotong persis sebelum kata-katanya bisa membuktikan apa pun.
 
 "Empat puluh tahun? Banyak yang pinjam." Penjaga arsip itu mengangkat bahu. "Tapi pemotongan seperti itu butuh izin lilin. Dan lilin yang menempel di buku catatan pinjamanku—" ia melemparkan buku tebal ke mejanya, terbuka pada halaman bertahun-tahun lalu, "—warnanya selalu sama."
 
-Maera menunduk pada halaman itu. Di baris catatan pinjaman untuk gulungan the Underfold, satu-satunya stempel lilin yang masih menempel utuh adalah putih keabu-abuan dengan benang timah melintang.
+Maera menunduk pada halaman itu. Di baris catatan pinjaman untuk gulungan the Underfold, satu-satunya stempel lilin yang masih menempel utuh adalah putih keabu-abuan dengan tin thread melintang.
 
 "Terima kasih," katanya.
 
@@ -111,13 +111,13 @@ Ia membungkus inti ketiga dengan kain, memasukkannya ke tas paling dalam, bukan 
 
 Titik ukur 7/L9B: gema tidak sesuai umur batu. Jeda ritmis ±3 detik. Bukan seam. Seperti... paru?
 
-Baris itu ia baca ulang, dan pertanyaan berikutnya muncul sendiri, seperti biasanya, sebelum keputusan:
+Baris itu ia membaca ulang, dan pertanyaan berikutnya muncul sendiri, seperti biasanya, sebelum keputusan:
 
 Kenapa aku menyimpan ini diam-diam?
 
 Jawabannya juga datang sendiri, dan tidak enak. Karena map bersampul abu itu sudah ada bekas lipatan segel lilin sebelum sampai ke mejanya. Dibuka, dibaca, ditutup ulang. Dan lilin yang dipakai menutupnya kembali bukan ungu Guild.
 
-Lilin itu putih keabu-abuan, dengan satu garis benang timah yang ditempel melintang tutupnya.
+Lilin itu putih keabu-abuan, dengan satu garis tin thread yang ditempel melintang tutupnya.
 
 Maera menatap lilin itu lama, memikirkan para pemakai jubah abu yang berjalan di koridor Spire seperti mereka yang memiliki gedung ini — dan, pada jam-jam tertentu, memang memiliki. Doktrin mereka tidak rahasia, malah diposting di dinding. Api dunia tidak boleh kembali. Yang tidak pernah tertulis adalah bagaimana cara mereka menentukan bahwa sesuatu berpotensi menjadi api dunia, dan apa yang terjadi pada berkas-berkas yang lolos penilaian mereka.
 

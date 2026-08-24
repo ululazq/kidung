@@ -17,7 +17,7 @@ Harga datang seperti biasa, tanpa drama. Panas disedot dari udara lorong, dari l
 
 Foreman itu maju, mengunyah akar pahitnya, dan meletakkan telapak besar di atas batu. Lama. Orang yang dua puluh tahun menghancurkan batuan untuk hidup punya cara membaca yang tidak diajari buku mana pun.
 
-"Batu keras," kata Brannoc akhirnya. "Tipe yang bikin mata bor mundur. Padat sampai dalam." Ia berhenti sebentar. "Dulu dinding ini bilang lain. Dulu ada... gema tipis, waktu diketuk. Sekarang tidak."
+"Batu keras," kata Brannoc akhirnya. "Tipe yang membuat mata bor mundur. Padat sampai dalam." Ia berhenti sebentar. "Dulu dinding ini bilang lain. Dulu ada... gema tipis, waktu diketuk. Sekarang tidak."
 
 "Dulu ia pintu," kata Ashvarok. "Sekarang ia dinding. Alat mereka akan percaya dinding."
 
@@ -79,7 +79,7 @@ Malam harinya, di barak, tubuh Renn membayar tagihannya.
 
 Ashvarok duduk di bangku panjang sambil memakan dua porsi bubur jagung yang tidak ia ingat pernah memesannya — Sela yang memesankan, tanpa bertanya, dan itu sendiri sudah menjadi laporan. Lemak tubuhnya menipis. Tangan gemetar sekali di tengah suapan ketiga. Ia memperbaikinya dengan menopang pergelangan kiri menggunakan pinggir mangkuk, cara bocah lemah, cara yang tidak menimbulkan pertanyaan.
 
-Sela membuka papan tulisnya di bawah lampu kecil dan menyalakan kapur ke kolom Jam Pasir.
+Sela membuka papan tulisnya di bawah lampu kecil dan menyalakan kapur ke kolom Hourglass.
 
 "Garis kanan," kata anak itu. "Kemarin: dua jari di bawah siku. Malam ini..." Ia memiringkan kepala, membandingkan dengan tanda lama. "Masih di bawah siku. Tapi naik. Hampir nyentuh."
 
@@ -97,4 +97,4 @@ Ia berbaring dan mendengarkan barak bernapas. Empat puluh hasta di bawah sana, d
 
 Biarkan mereka membaca kebohongannya, pikirnya di ambang tidur. Selama kebohongan itu menutup pintu yang benar, ia rela menjadi penulisnya.
 
-Di kegelapan, Sela menambahkan satu angka di kolom HARI MAERA: enam. Dan satu angka lain di kolom yang lebih kecil, huruf-hurufnya hampir tidak terbaca: pintu buntu, aman.
+Di kegelapan, Sela menambahkan satu angka di kolom HARI MAERA: enam. Dan satu angka lain di kolom yang lebih kecil, huruf-hurufnya hampir tidak terbaca: blind door, aman.

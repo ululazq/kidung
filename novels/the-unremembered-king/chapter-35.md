@@ -55,7 +55,7 @@ Kemudian udara lorong bergerak salah. Arus ventilasi yang lemah tadi tertekan mu
 
 Langkah itu datang dalam hitungan yang sabar. Tidak buru-buru. Berhenti tiga kali — memeriksa, kemungkinan, cara orang yang bekerja di tempat yang bukan miliknya selalu memeriksa — lalu sampai di depan seam.
 
-Ashvarok merasakan lebih daripada melihat: bunyi kain disingkap, bunyi kecil logam bertumpu pada batu, dan napas seseorang yang ditarik panjang dan dikeluarkan pelan, kebiasaan pekerja menenangkan diri sebelum kerja presisi. Pisau seam itu menyentuh batu.
+Ashvarok merasakan lebih daripada melihat: bunyi kain disingkap, bunyi kecil logam bertumpu pada batu, dan napas seseorang yang ditarik panjang dan dikeluarkan pelan, kebiasaan pekerja menenangkan diri sebelum bekerja presisi. Pisau seam itu menyentuh batu.
 
 Sayatan pertama tidak berbunyi keras. Bunyinya pendek, bersih, diulang dengan jeda yang persis sama — seratus dua puluh ketukan, kira Ashvarok, untuk satu sayat selebar dua jempol. Kerja yang mahal. Kerja orang yang dibayar per inti, bukan per hari.
 
@@ -103,7 +103,7 @@ Jangan turun ke aula. Seorang kontraktor buta nama diberi larangan tentang ruang
 
 "Kantongmu," kata Ashvarok. "Buka pelan. Serahkan ke temanku."
 
-Pria itu menggeletakkan barang-barangnya satu per satu ke telapak Brannoc yang diulurkan: inti seam kecil segar yang masih hangat, dua keping tulang seam tua, pisau seam dengan gagang dililit kain, dan sebuah batang pendek yang permukaannya licin oleh pemakaian. Ashvarok meraba-rabanya di kegelapan. Lilin. Putih-abu, lunak di ujung yang sering digenggam, dan di sepanjang badannya, terasa oleh ujung jari: benang timah yang dijahit ke dalam lilin, halus, rapi, satu.
+Pria itu menggeletakkan barang-barangnya satu per satu ke telapak Brannoc yang diulurkan: inti seam kecil segar yang masih hangat, dua keping tulang seam tua, pisau seam dengan gagang dililit kain, dan sebuah batang pendek yang permukaannya licin oleh pemakaian. Ashvarok meraba-rabanya di kegelapan. Lilin. Putih-abu, lunak di ujung yang sering digenggam, dan di sepanjang badannya, terasa oleh ujung jari: tin thread yang dijahit ke dalam lilin, halus, rapi, satu.
 
 "Temanku punya lilin yang sama," kata Ashvarok. "Ditemukan meleleh di dekat sayatanmu yang lama, empat puluh hari silam. Kamu mau membandingkan?"
 
@@ -139,6 +139,6 @@ Troli pengangkut kosong datang dengan derit yang bisa didengar dari tiga lorong.
 
 Subuh hari keempat puluh lima turun ke Caldrest sebagai warna kelabu yang dingin di mulut lubang tambang, dan lonceng shift pertama berbunyi tepat seperti setiap subuh lain — dunia permukaan tidak tahu apa-apa, dan itulah rancangannya. Di stasiun angkut, regu pagi menerima troli-troli pertama: bijih, balast, satu troli kosong berisi seorang pekerja yang mengaku tertinggal shift dan membayar dendamnya dengan uang pribadi, cerita yang terlalu membosankan untuk diingat siapa pun sampai malam.
 
-Ashvarok menyaksikan dari celah gudang pengangkutan, di kegelapan yang belum sepenuhnya kalah oleh subuh, dan tidak dihitung oleh siapa pun. Jauh di bawah, lorong B menunggu tim Assayers' Guild yang akan turun beberapa jam lagi untuk membaca titik-titik atas yang memang boleh jujur. Di saku jaket Brannoc, dua lilin berbenang timah kini tidur berdampingan — satu tua berumur empat puluh hari, satu baru dipanen dari kantong seorang tukang potong yang hidup karena berguna.
+Ashvarok menyaksikan dari celah gudang pengangkutan, di kegelapan yang belum sepenuhnya kalah oleh subuh, dan tidak dihitung oleh siapa pun. Jauh di bawah, lorong B menunggu tim Assayers' Guild yang akan turun beberapa jam lagi untuk membaca titik-titik atas yang memang boleh jujur. Di saku jaket Brannoc, dua lilin threaded with tin kini tidur berdampingan — satu tua berumur empat puluh hari, satu baru dipanen dari kantong seorang tukang potong yang hidup karena berguna.
 
 Abu di telapak tangannya belum sempat disapu ke mana pun. Ia menggenggamnya lebih erat, merasakan sisa hangatnya padam satu per satu, dan mulai menghitung jam sampai kurir yang tak pernah bicara dipaksa bergerak oleh sebuah tanggal yang tidak pernah ada.

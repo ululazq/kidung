@@ -11,7 +11,7 @@ Tidak ada yang berubah di barak. Sela masih tidur melengkung menghadap papan tul
 
 Hari itu tim survei turun untuk verifikasi silang: stasiun angkut dan jalur troli tingkat tengah, titik-titik pelengkap yang harus dibaca sebelum laporan kedalaman dikirim ke Spire. Regu Brannoc masuk daftar angkut biasa, karena kebetulan tidak boleh ada kebiasaan yang putus di pekan yang penuh perhitungan.
 
-Ashvarok menuruni tangga kerja dengan tali troli di tangannya dan pikiran yang dingin.
+Ashvarok menuruni tangga bekerja dengan tali troli di tangannya dan pikiran yang dingin.
 
 ---
 
@@ -67,11 +67,11 @@ Malamnya, gudang perkakas tingkat dua berisi satu lampu, dua orang, dan percakap
 
 "Dari mana kamu tahu angkanya?" Brannoc duduk di atas peti perkakas, bahu kanan turun seperti biasa, akar pahitnya tergigit di sudut rahang.
 
-"Badanku ikut ditarik. Yang lain hanya kehilangan bunyi. Aku kehilangan bunyi dan sesuatu yang lebih dalam." Ashvarok menatap lampunya. "Yang penting bukan angkanya. Yang penting siapa. Dia bukan penambang kita. Dia bukan orang yang hidup di dekat seam. Dia pegawai Spire yang turun ke kedalaman untuk kedua kalinya dalam hidupnya — dan dia tetap kena."
+"Badanku ikut ditarik. Yang lain hanya kehilangan bunyi. Aku kehilangan bunyi dan sesuatu yang lebih dalam." Ashvarok menatap lampunya. "Yang penting bukan angkanya. Yang penting siapa. Dia bukan penambang kita. Dia bukan orang yang hidup di dekat seam. Dia pegawai Spire yang turun ke kedalaman untuk kedua kalinya dalam hidupnya — dan dia tetap terkena."
 
-Brannoc mengunyah. Lama. "Dulu cuma penambang. Yang di lorong tujuh dulu, yang di lorong B dulu. Sekarang orang luar."
+Brannoc mengunyah. Lama. "Dulu hanya penambang. Yang di lorong tujuh dulu, yang di lorong B dulu. Sekarang orang luar."
 
-"Sekarang orang luar." Ashvarok mengizinkan kalimat itu berdiri sebentar di antara mereka, karena kalimat itu perlu didengar bunyinya oleh keduanya. "Kebocorannya melebar, Brannoc. Dulu ia hanya menyentuh orang yang tinggal menempel di tambang. Kini ia menyentuh siapa pun yang cukup lama di dekat bibirnya. Dan yang kena bukan lupa permanen — dia pulih, sembilan detik, lupa sesaat, seperti Ondar dulu. Tapi itu artinya hanya satu hal: yang berikutnya tidak akan sesaat."
+"Sekarang orang luar." Ashvarok mengizinkan kalimat itu berdiri sebentar di antara mereka, karena kalimat itu perlu didengar bunyinya oleh keduanya. "Kebocorannya melebar, Brannoc. Dulu ia hanya menyentuh orang yang tinggal menempel di tambang. Kini ia menyentuh siapa pun yang cukup lama di dekat bibirnya. Dan yang terkena bukan lupa permanen — dia pulih, sembilan detik, lupa sesaat, seperti Ondar dulu. Tapi itu artinya hanya satu hal: yang berikutnya tidak akan sesaat."
 
 "Kamu bisa menutupnya lagi?" Pertanyaan itu datang tanpa pembuka, cara Foreman itu bertanya soal hal yang sudah dipikirkannya sejak tingkat troli. "Seperti dulu. Yang di lorong B."
 
@@ -79,7 +79,7 @@ Brannoc mengunyah. Lama. "Dulu cuma penambang. Yang di lorong tujuh dulu, yang d
 
 Hening. Lampu berbunyi kecil.
 
-"Lalu kita bikin apa?" kata Brannoc akhirnya. Bukan protes. Sebuah permintaan rencana, dari mitra yang sudah dua kali menyaksikan dunia ini retak dan tidak pernah sekali pun mendengar Ashvarok berkata tidak mampu.
+"Lalu kita membuat apa?" kata Brannoc akhirnya. Bukan protes. Sebuah permintaan rencana, dari mitra yang sudah dua kali menyaksikan dunia ini retak dan tidak pernah sekali pun mendengar Ashvarok berkata tidak mampu.
 
 "Kita mengalihkan. Selalu mengalihkan. Setiap kali sunyi datang di depan orang banyak, harus sudah ada troli yang jatuh, ada shift yang berganti, ada cerita yang lebih menarik daripada kekosongan. Manusia tidak mencatat apa yang tidak sempat diperhatikannya." Ashvarok berdiri, dan kelelahan hari Forge kemarin menagih sisanya dari lututnya. "Itu bukan perlindungan. Itu penundaan. Tapi penundaan adalah satu-satunya barang yang bisa kubeli dengan harga yang tidak membunuhku."
 
@@ -99,7 +99,7 @@ Ia berkata itu sebagai penutup, dengan keyakinan yang tidak ia miliki.
 
 ---
 
-Di barak, Sela tidak menanyakan kenapa kakinya gemetar naik tangga. Anak itu hanya menyalakan lampu kecilnya, membuka kolom Jam Pasir, mengukur garis kanan dengan dua jarinya sendiri, dan berkata: "Belum nyentuh siku. Malam ini nggak naik." Lalu, setelah jeda yang dihitungnya sendiri: "Hari ini ada apa di bawah?"
+Di barak, Sela tidak menanyakan kenapa kakinya gemetar naik tangga. Anak itu hanya menyalakan lampu kecilnya, membuka kolom Hourglass, mengukur garis kanan dengan dua jarinya sendiri, dan berkata: "Belum nyentuh siku. Malam ini tidak naik." Lalu, setelah jeda yang dihitungnya sendiri: "Hari ini ada apa di bawah?"
 
 "Troli rusak," kata Ashvarok. "Sudah kuperbaiki."
 

@@ -3,9 +3,9 @@ title: "Bab 91: Hukum Cerita"
 chapter: 91
 ---
 
-Pagi hari keseratus sembilan belas, papan pengumuman Quota Office memuat lembar baru dengan cap lilin ungu di pojoknya — prosedur penetapan permanen status tanah jasa distrik timur resmi dibuka. Warga antre membacanya dengan ekspresi orang yang belum percaya pada kabar baik sampai kabar itu diberi nomor perkara. Di balik gudang pengangkutan, tempat mereka biasa bertukar hal yang tidak boleh masuk laporan, Maera menjelaskan angkanya kepada Renn dengan cara penilai menjelaskan barang.
+Pagi hari keseratus sembilan belas, papan pengumuman Quota Office memuat lembar baru dengan cap lilin ungu di pojoknya — prosedur penetapan permanen status service grant of the Eastern District resmi dibuka. Warga antre membacanya dengan ekspresi orang yang belum percaya pada kabar baik sampai kabar itu diberi nomor perkara. Di balik gudang pengangkutan, tempat mereka biasa bertukar hal yang tidak boleh masuk laporan, Maera menjelaskan angkanya kepada Renn dengan cara penilai menjelaskan barang.
 
-"Tiga tahap," katanya. "Verifikasi silang arsip pusat, pemeriksaan lapangan atas batas-batas tanah, lalu penetapan. Pemeriksaan lapangan pasti turun ke tambang, karena batas tanah jasa menyentuh segmen timur. Jadi hitungan saya, kita punya waktu santai selama pekan-pekan ini, dan waktu sibuk setelahnya. Pertanyaannya bukan lagi apakah distrik ini bertahan. Pertanyaannya apa bentuk akhir kemenangannya."
+"Tiga tahap," katanya. "Verifikasi silang arsip pusat, pemeriksaan lapangan atas batas-batas tanah, lalu penetapan. Pemeriksaan lapangan pasti turun ke tambang, karena batas service grant menyentuh segmen timur. Jadi hitungan saya, kita punya waktu santai selama pekan-pekan ini, dan waktu sibuk setelahnya. Pertanyaannya bukan lagi apakah distrik ini bertahan. Pertanyaannya apa bentuk akhir kemenangannya."
 
 "Kemenangan punya bentuk?"
 
@@ -51,7 +51,7 @@ Meja mendadak menoleh. Ada pintu terbuka di situ, besar, dengan udara hangat men
 
 Penambang muda tertawa puas, dan cerita itu mati di sana — tidak bertambah sayap, tidak menangis, tidak melihat retakan dari permukaan. Ashvarok makan lanjut dengan tenggorokan yang agak kaku, dan malam itu, saat melakukan pemeriksaan fajar di tempat yang sama seperti semalam, angkanya bergerak. Tipis lagi. Separuh sepersekian persen mungkin, lebih kecil dari kemarin, tapi arahnya jelas dan hangatnya familiar seperti jari yang menghangat di dekat api kecil.
 
-Dua malam, dua hasil, satu variabel yang bersih. Ia duduk memandangi dinding gudang dan merumuskan dengan cara kerja era lamanya menyusun dekrit. Hukumnya sederhana sampai hampir menghina. Yang memberi makan bukan cerita tentang dirinya. Yang memberi makan cerita yang benar tentang dirinya. Legenda adalah uang palsu, dan sisa dirinya, ternyata, tidak bisa ditipu — ia menolak pembayaran apa pun yang tidak sungguh-sungguh. Barang yang selama seribu tahun hanya menerima kerugian ternyata tetap punya standar.
+Dua malam, dua hasil, satu variabel yang bersih. Ia duduk memandangi dinding gudang dan merumuskan dengan cara bekerja era lamanya menyusun dekrit. Hukumnya sederhana sampai hampir menghina. Yang memberi makan bukan cerita tentang dirinya. Yang memberi makan cerita yang benar tentang dirinya. Legenda adalah uang palsu, dan sisa dirinya, ternyata, tidak bisa ditipu — ia menolak pembayaran apa pun yang tidak sungguh-sungguh. Barang yang selama seribu tahun hanya menerima kerugian ternyata tetap punya standar.
 
 Lalu ia memikirkan sisi lain dari hukum itu, dan bagian ini tidak menenangkan. Kalau hanya kebenaran yang menyehatkan, maka cara paling cepat mengisi kembali dirinya adalah memastikan orang-orang terus mengetahui kebenaran tentang dirinya — dan kebenaran tentang dirinya yang paling dalam adalah barang yang paling berbahaya untuk diketahui. Jalur pemulihan ini bermuara tepat ke jurang yang ia hindari seribu tahun. Semakin lapar ia akan dikenal, semakin besar godaan membuka kertas-kertas yang harusnya tetap terlipat.
 
@@ -69,6 +69,6 @@ Sebelum berangkat ke shift, di ruang belakang gudang perkakas, ia mengeluarkan k
 
 Hanya cerita yang benar memberi makan. Jangan pernah menanamnya.
 
-Ia melipat kertas itu kembali, memasukkannya ke saku dada kanan di samping cinder-glass tua dan kertas kecil Sela, lalu berdiri sebentar menghadapi dinding balok tua di atas meja kerja. Di sana, di tempat yang hanya akan ditemukan orang yang tahu harus mencari ke mana, ia menggoreskan paku bekas — satu garis untuk malam legenda, satu titik untuk malam dapur, satu lingkaran kosong untuk malam sunyi. Catatan tiga simbol untuk satu hukum yang baru saja ia temukan, di dinding gudang yang tidak pernah membaca apa pun.
+Ia melipat kertas itu kembali, memasukkannya ke saku dada kanan di samping cinder-glass tua dan kertas kecil Sela, lalu berdiri sebentar menghadapi dinding balok tua di atas meja bekerja. Di sana, di tempat yang hanya akan ditemukan orang yang tahu harus mencari ke mana, ia menggoreskan paku bekas — satu garis untuk malam legenda, satu titik untuk malam dapur, satu lingkaran kosong untuk malam sunyi. Catatan tiga simbol untuk satu hukum yang baru saja ia temukan, di dinding gudang yang tidak pernah membaca apa pun.
 
 Pertanyaan berikutnya sudah menunggu di belakang kesimpulan itu, sabar seperti semua pertanyaan mahal. Berapa banyak kebenaran kecil yang masih tersedia di dapur-dapur ini sebelum habis. Dan apa yang akan dilakukan laparnya pada hari semua cerita jujur tentang bocah lorong tujuh sudah diceritakan semua.

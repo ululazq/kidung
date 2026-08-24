@@ -5,7 +5,7 @@ chapter: 32
 
 Pagi hari ketiga puluh enam, hujan abu turun tipis di atas Caldrest, dan Ossian Vael memulai pekerjaannya sebagaimana ia memulai segala sesuatunya: dengan meja yang rapi, tinta yang tidak terlalu pekat, dan dua surat yang ditulis dalam urutan yang keliru menurut orang awam.
 
-Surat pertama pendek, ditujukan kepada Overseer the Quiet Vein, hanya memberitahukan bahwa penilaian triwulanan atas aset seam the Underfold akan dilaksanakan lebih awal dari kalender biasa, demi kepentingan klasifikasi. Surat kedua panjang, disegel lilin benang timah, dialamatkan ke lantai empat puluh Anthema Spire — ke Koordinasi Artefak Regional, yaitu ke dirinya sendiri melalui jalur yang membuatnya tampak datang dari atas, sebab izin paling mahal selalu dibuat untuk tampak datang dari atas.
+Surat pertama pendek, ditujukan kepada Overseer the Quiet Vein, hanya memberitahukan bahwa penilaian triwulanan atas aset seam the Underfold akan dilaksanakan lebih awal dari kalender biasa, demi kepentingan klasifikasi. Surat kedua panjang, disegel lilin tin thread, dialamatkan ke lantai empat puluh Anthema Spire — ke Koordinasi Artefak Regional, yaitu ke dirinya sendiri melalui jalur yang membuatnya tampak datang dari atas, sebab izin paling mahal selalu dibuat untuk tampak datang dari atas.
 
 Ia mengeringkan tinta dengan pasir halus, lalu membaca ulang paragraf inti surat kedua itu, karena kata-kata adalah mata uang yang tidak boleh dicetak berlebihan:
 
@@ -41,7 +41,7 @@ Assayer Tull datang pada sore hari ketiga puluh tujuh, dipanggil dengan surat re
 
 "Mengapa saya?"
 
-"Sebab Anda menulis laporan lorong B yang saya baca tiga kali, dan laporan itu jujur sampai ke baris yang merugikan jabatan saya sendiri. Orang sebesar itu langka, Assayer Tull. Saya mengumpulkan mereka."
+"Sebab Anda menulis laporan lorong B yang saya membaca tiga kali, dan laporan itu jujur sampai ke baris yang merugikan jabatan saya sendiri. Orang sebesar itu langka, Assayer Tull. Saya mengumpulkan mereka."
 
 Mata Maera bergerak menghitung — ke kanan, ke bawah, kembali — dan Ossian menunggu, karena hitungan itu bukan keraguan melainkan pembagian. Gadis ini membagi dunia menjadi yang tertulis dan yang tidak.
 
@@ -95,7 +95,7 @@ Di ambang pintu Kovan berhenti. "Tuan Vael. Bila faktor itu... bukan orang biasa
 
 Malam harinya ia duduk sendirian di ruang tamu meja bular, dengan hujan abu yang turun kembali menggesek atap penginapan seperti telapak kering mengusap kertas, dan menyelesaikan pekerjaan yang mengubah bentuk seluruh bulan depan.
 
-Dua belas titik ukur dituliskannya satu per satu pada lembar jadwal final: kedalaman galeri atas, persimpangan utama, lorong B, dan sembilan titik lain naik-turun mengikuti peta survei pertama — termasuk titik ketujuh, enam puluh hasta di bawah batas pemetaan, yang dalam laporan Assayer Tull dahulu tertulis dengan tinta lebih tebal daripada titik mana pun. Turun perdana ditetapkan: hari keempat puluh lima, regu pertama, tim Assayers dari Anthema Spire bersertifikat penuh, dikawal personel Koordinasi Artefak Regional. Lembar itu disegelnya dengan lilin benang timah, stempel ditekan dengan telapak yang tenang.
+Dua belas titik ukur dituliskannya satu per satu pada lembar jadwal final: kedalaman galeri atas, persimpangan utama, lorong B, dan sembilan titik lain naik-turun mengikuti peta survei pertama — termasuk titik ketujuh, enam puluh hasta di bawah batas pemetaan, yang dalam laporan Assayer Tull dahulu tertulis dengan tinta lebih tebal daripada titik mana pun. Turun perdana ditetapkan: hari keempat puluh lima, regu pertama, tim Assayers dari Anthema Spire bersertifikat penuh, dikawal personel Koordinasi Artefak Regional. Lembar itu disegelnya dengan lilin tin thread, stempel ditekan dengan telapak yang tenang.
 
 Selama setengah tahun segala yang ia kerjakan di Caldrest berupa peta: daftar, nama, garis, dugaan. Malam ini garis-garis itu mulai berjalan. Jadwal turun menjadi tanggal, tanggal menjadi regu, regu menjadi langkah di lorong yang tidak pernah diam. Mesin prosedural — lambat, membosankan, tak terkalahkan oleh apa pun kecuali kesabaran yang lebih panjang — menyala dengan suara paling sunyi yang ada.
 

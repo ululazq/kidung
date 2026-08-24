@@ -21,7 +21,7 @@ Sela menulis di papan tulisnya tanpa mendongak. "Harga: diri. Dicatat."
 
 "Tunggul penyangga di lorong troli timur." Ia melihat ke arah adik angkatnya, dan suaranya turun setengah tingkat. "Batunya lahir dari malam ketika empat orang pulang. Aku ingin batu itu kuat. Selama ini aku menguatkan segala sesuatu dengan membayar tubuh ini, dan tubuh ini sudah bayar sampai setengah lengan. Kalau benar bahwa nama bisa membuat sesuatu berdiri tegak, maka inilah satu-satunya alat yang tersisa untuk menguatkan tambalan-tambalanku tanpa menagih lengan lagi."
 
-"Syaratku tetap," kata Sela. "Kamu cerita dulu sebelum pakai, dan kamu cerita habis dipakai. Dua-duanya malam ini juga. Dan kolom baru." Ia membalik papan tulisnya dan menggambar garis di tepi kanan, di samping kolom Jam Pasir yang bertahun menjadi catatan harga badannya. "Namanya kolom NAMA. Isinya cuma tanggal dan garis miring. Garis miring artinya kamu bayar. Jangan ada malam di kolom itu yang kosong tapi kamu bilang tidak bayar."
+"Syaratku tetap," kata Sela. "Kamu cerita dulu sebelum pakai, dan kamu cerita habis dipakai. Dua-duanya malam ini juga. Dan kolom baru." Ia membalik papan tulisnya dan menggambar garis di tepi kanan, di samping kolom Hourglass yang bertahun menjadi catatan harga badannya. "Namanya kolom NAMA. Isinya cuma tanggal dan garis miring. Garis miring artinya kamu bayar. Jangan ada malam di kolom itu yang kosong tapi kamu bilang tidak bayar."
 
 "Disetujui."
 
@@ -81,9 +81,9 @@ Barak menerimanya kembali dengan bau sup sisa dan lampu dapur yang tinggal satu.
 
 Sela menunggu di ruang tungku ventilasi, karena kesepakatan itu dua arah. Ashvarok duduk di depannya, membuka tangan kosong, dan melapor dengan suara yang datar sesuai syarat. Tenunan terbuka. Tata bahasa dihafal. Nama ditenun. Batu menjawab sepuluh tarikan napas, lalu menolak. Tagihan masuk ke tempat yang tidak bisa diukur kapur, dan satu ingatan hilang tiga tarikan napas sebelum pulang sendiri.
 
-Sela mendengarkan semuanya tanpa memotong, lalu menulis di kolom NAMA satu garis miring, dan di kolom Jam Pasir tidak menulis apa-apa, dan perbedaan dua garis itu ia jelaskan sendiri dengan suara kecil.
+Sela mendengarkan semuanya tanpa memotong, lalu menulis di kolom NAMA satu garis miring, dan di kolom Hourglass tidak menulis apa-apa, dan perbedaan dua garis itu ia jelaskan sendiri dengan suara kecil.
 
-"Garis miring di Jam Pasir artinya badanmu bayar dan aku bisa ukur. Garis miring di kolom ini artimu bayar dan tidak ada yang bisa mengukur." Ia menutup kapurnya. "Yang kedua lebih menakutkan, Kak."
+"Garis miring di Hourglass artinya badanmu bayar dan aku bisa ukur. Garis miring di kolom ini artimu bayar dan tidak ada yang bisa mengukur." Ia menutup kapurnya. "Yang kedua lebih menakutkan, Kak."
 
 "Iya," kata Ashvarok. "Dan tetap lebih murah daripada setengah lengan."
 

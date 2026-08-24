@@ -5,11 +5,11 @@ chapter: 102
 
 Aula sidang balai kota penuh lagi pada pagi hari keseratus empat puluh satu, dan kali ini tidak ada satu pun orang yang datang untuk menolak sesuatu. Mereka datang untuk mendengar hasil.
 
-Ashvarok berdiri di sisi belakang bersama regu inspeksi ventilasi yang diberi izin shift terlambat oleh Brannoc, dengan wajah bocah tambang biasa yang sedang bosan pada prosedur. Dari tempat itu ia bisa melihat seluruh ruangan. Meja komisi verifikasi di depan dengan juru ukur Guild yang membawa kotak instrumen besarnya seperti pendeta membawa kitab. Bangku barak distrik timur yang diisi penuh oleh warga yang mencuci baju terbaik mereka untuk hari ini. Ibu Tamma dengan daftar absen-namanya digenggam di pangkuan seperti senjata yang sudah tidak perlu dicabut. Di bangku depan, sembilan belas anak duduk dengan papan nama masing-masing di lutut, karena Sela bersikeras bahwa penetapan ini adalah milik mereka juga.
+Ashvarok berdiri di sisi belakang bersama regu inspeksi ventilasi yang diberi izin shift terlambat oleh Brannoc, dengan wajah bocah tambang biasa yang sedang bosan pada prosedur. Dari tempat itu ia bisa melihat seluruh ruangan. Meja komisi verifikasi di depan dengan juru ukur Guild yang membawa kotak instrumen besarnya seperti pendeta membawa kitab. Bangku barak distrik timur yang diisi penuh oleh warga yang mencuci baju terbaik mereka untuk hari ini. Ibu Tamma dengan daftar name-rollnya digenggam di pangkuan seperti senjata yang sudah tidak perlu dicabut. Di bangku depan, sembilan belas anak duduk dengan papan nama masing-masing di lutut, karena Sela bersikeras bahwa penetapan ini adalah milik mereka juga.
 
 Juru ukur komisi membacakan hasilnya dengan suara yang datar dan karena itu terdengar lebih megas daripada suara mana pun yang bisa dipilih orang.
 
-Berkas verifikasi silang arsip pusat telah cocok dengan margin peta pra-Liberation. Pemeriksaan lapangan batas telah turun ke segmen timur dan menemukan batas-batas warisan masih berdiri dalam geometri aslinya. Maka berdasarkan ketiga tahap prosedur, status tanah jasa Distrik Timur atas nama penjagaan era Hegemony dinyatakan SAH, TERUS-MENERUS SEJAK PENUGASAN ASLINYA, DAN TIDAK PERNAH DIBUBARKAN. Perlindungan distrik timur ditetapkan permanen. Kata sementara tidak muncul sekali pun di dalam dokumen itu.
+Berkas verifikasi silang arsip pusat telah cocok dengan margin peta pra-Liberation. Pemeriksaan lapangan batas telah turun ke segmen timur dan menemukan batas-batas warisan masih berdiri dalam geometri aslinya. Maka berdasarkan ketiga tahap prosedur, status service grant Distrik Timur atas nama penjagaan era Hegemony dinyatakan SAH, TERUS-MENERUS SEJAK PENUGASAN ASLINYA, DAN TIDAK PERNAH DIBUBARKAN. Perlindungan distrik timur ditetapkan permanen. Kata sementara tidak muncul sekali pun di dalam dokumen itu.
 
 Aula itu hening beberapa tarikan napas panjang, lalu bunyi yang naik bukan sorakan melainkan sesuatu yang lebih tua dari sorakan, napas ratusan orang yang dilepaskan serentak setelah ditahan bertahun-tahun.
 
@@ -21,7 +21,7 @@ Hale membaca penetapan itu sampai selesai, semua pasalnya, meskipun juru ukur su
 
 Satu garis tanda tangan. Bersih. Diam. Sebuah garis yang tidak minta maaf kepada siapa pun.
 
-Ibu Tamma menoleh ke arah Brannoc di barisan depan dan berkata sesuatu yang tidak terdengar, tapi ekspresinya terbaca dari jarak dua puluh langkah, ekspresi orang yang baru melihat air sungai yang beku akhirnya mengalir. Brannoc hanya mengangguk sekali, kata kerja di depan seperti biasa, tapi dagunya terangkat sedikit lebih lama daripada perlu.
+Ibu Tamma menoleh ke arah Brannoc di barisan depan dan berkata sesuatu yang tidak terdengar, tapi ekspresinya terbaca dari jarak dua puluh langkah, ekspresi orang yang baru melihat air sungai yang beku akhirnya mengalir. Brannoc hanya mengangguk sekali, kata bekerja di depan seperti biasa, tapi dagunya terangkat sedikit lebih lama daripada perlu.
 
 Hale meletakkan pena, lalu melakukan hal yang belum pernah ia lakukan di ruangan ini. Ia menoleh ke arah bangku barak dan membungkuk sedikit, bukan ke arah komisi, melainkan ke arah sembilan belas anak dengan papan nama di lututnya.
 
@@ -39,7 +39,7 @@ Maka ketika halaman balai kota menjadi riuh kecil sepulang sidang, Ashvarok suda
 
 Kurir itu berbeda dari kurir bisu yang dulu. Ini kurir besar, berpakaian rapi seperti pegawai yang diangkat karena keluarganya, dengan sepatu yang belum pernah melihat lorong tambang, dan pada ibu jari kanannya terpasang cincin besi tebal the Quiet Vein. Ia membawa sampul besar bersegel lilin abu, dan ia tidak menyerahkannya secara diam-diam. Ia menyerahkannya di tangga balai kota, di depan orang banyak, dengan kalimat yang dibacakan seperti isi lembaran.
 
-"Atas perintah dewan cabang pusat the Quiet Vein," katanya dengan suara latihan resmi. "Pejabat Koordinasi Artefak Regional, Tuan Ossian Vael, diminta hadir di kantor pusat sekte untuk melaporkan kondisi operasi lisensi cabang Caldrest. Produksi triwulan berjalan. Status klasifikasi segmen. Dan sisa kewajiban dana kompensasi kasus gas tua yang putusannya telah jatuh. Perjalanan disediakan sekte. Kehadiran bukan permintaan."
+"Atas perintah dewan cabang pusat the Quiet Vein," katanya dengan suara latihan resmi. "Pejabat Koordinasi Artefak Regional, Tuan Ossian Vael, diminta hadir di kantor pusat sekte untuk melaporkan kondisi operasi lisensi cabang Caldrest. Produksi triwulan berjalan. Status klasifikasi segmen. Dan sisa kewajiban dana kompensasi kasus old gas yang putusannya telah jatuh. Perjalanan disediakan sekte. Kehadiran bukan permintaan."
 
 Sampul itu diterima Ossian dengan dua tangan, dibaca segelnya sekali, lalu dimasukkan ke dalam jas tanpa dibuka.
 
@@ -69,7 +69,7 @@ Di ujung pasar, satu orang menunggu mereka dengan sengaja, dan itu Assayer Maera
 
 "Silakan," kata Ashvarok.
 
-"Pertama, putusan gugatan kompensasi kasus gas tua jatuh pekan lalu di pengadilan cabang. Sekte kalah seluruhnya. Denda dan santunannya ditetapkan dalam angka yang untuk sekte sebesar the Quiet Vein masih bisa dibayar, tapi cukup sakit untuk membuat pusatnya membuka semua buku cabang dan mencari di mana darahnya bocor." Mata Maera menghitung saat berpikir, seperti biasa, dan kali ini angka yang dihitungnya bukan milik Guild. "Kedua, surat panggilan itu bukan surat hukuman. Aku pernah membaca ratusan lembar pemanggilan pegawai lisensi lewat arsip komisi. Surat hukuman menyebut pasal. Surat ini menyebut laporan produksi, klasifikasi segmen, dan dana. Itu bahasa audit, bukan bahana pengadilan."
+"Pertama, putusan gugatan kompensasi kasus old gas jatuh pekan lalu di pengadilan cabang. Sekte kalah seluruhnya. Denda dan santunannya ditetapkan dalam angka yang untuk sekte sebesar the Quiet Vein masih bisa dibayar, tapi cukup sakit untuk membuat pusatnya membuka semua buku cabang dan mencari di mana darahnya bocor." Mata Maera menghitung saat berpikir, seperti biasa, dan kali ini angka yang dihitungnya bukan milik Guild. "Kedua, surat panggilan itu bukan surat hukuman. Aku pernah membaca ratusan lembar pemanggilan pegawai lisensi lewat arsip komisi. Surat hukuman menyebut pasal. Surat ini menyebut laporan produksi, klasifikasi segmen, dan dana. Itu bahasa audit, bukan bahana pengadilan."
 
 "Maksudmu dia dipanggil untuk menjelaskan rugi," kata Brannoc.
 

@@ -7,7 +7,7 @@ Runtuhan itu datang pada hari ketiga puluh tiga, dua jam sebelum gantian shift, 
 
 Ashvarok sudah tahu lorong utama hidup di atas pinjaman waktu. Prediksinya sendiri menyebut galeri timur dan lorong sebelas, musim hujan abu. Lorong utama tidak masuk daftar itu, karena lorong utama dipasang tebal dan diperiksa ganda setiap pekan sejak runtuhan tujuh. Justru karena itu, ketika telapak kakinya membaca sesuatu yang salah pagi itu, kesalahan membacanya bukan pada lokasi — melainkan pada asumsi bahwa hanya alam yang bisa mempercepat jadwal.
 
-Dia sedang berjalan di belakang troli di lorong utama ketika telapak kakinya membaca sesuatu yang tidak pernah ia baca di tambang ini. Getaran berirama dari arah penyangga blok empat belas — bukan gemuruh troli, bukan air formasi, melainkan tiga ayunan pendek beruntun yang berhenti bersamaan. Ayunan pisau yang memotong kayu.
+Dia sedang berjalan di belakang troli di lorong utama ketika telapak kakinya membaca sesuatu yang tidak pernah ia membaca di tambang ini. Getaran berirama dari arah penyangga blok empat belas — bukan gemuruh troli, bukan air formasi, melainkan tiga ayunan pendek beruntun yang berhenti bersamaan. Ayunan pisau yang memotong kayu.
 
 Dia sudah membuka mulut untuk berseru ketika dinding selatan menghela napas.
 

@@ -3,7 +3,7 @@ title: "Bab 5: Panen"
 chapter: 5
 ---
 
-Turun ke dasar the Underfold adalah pelajaran anatomi yang tidak diminta siapa-siapa. Setiap tingkat lorong punya nama pepekerjaan dan bahunya sendiri: tingkat troli gemuruh, tingkat bor bergetar di gigi, tingkat tungku panasnya masuk lewat kulit. Regu Brannoc turun melewatinya semua dengan ritme orang yang hafal tangga rumahnya, dan Ashvarok menghitung setiap tingkat sambil membaca yang tidak diperlihatkan siapa pun. Kemiringan formasi, arah retak mikro, cara batu menyerap bunyi langkah.
+Turun ke dasar the Underfold adalah pelajaran anatomi yang tidak diminta siapa-siapa. Setiap tingkat lorong punya nama pekerjaan dan bahunya sendiri: tingkat troli gemuruh, tingkat bor bergetar di gigi, tingkat tungku panasnya masuk lewat kulit. Regu Brannoc turun melewatinya semua dengan ritme orang yang hafal tangga rumahnya, dan Ashvarok menghitung setiap tingkat sambil membaca yang tidak diperlihatkan siapa pun. Kemiringan formasi, arah retak mikro, cara batu menyerap bunyi langkah.
 
 Di antrian tingkat troli, regu lain menyeret dua belas gerobak batu kelas tiga lewat dengan roda yang menjerit. Ondar mengikis peluhnya dengan lengan.
 
@@ -15,7 +15,7 @@ Tawa pendek berhamburan di barisan dan cepat mati lagi, seperti semua tawa di ke
 
 Empat puluh dua hasta. Tiga puluh satu. Enam belas.
 
-Di kedalaman itu, geometri tambang berhenti menjadi pepekerjaan dan mulai menjadi peta. Ashvarok bisa merasakannya tanpa membuka bakat apa pun — cukup telapak tangan menyentuh dinding. Urat gema dalam formasi mengalir ke satu arah, seperti akar air yang dipetakan ratusan tahun lalu oleh orang-orang yang membanggakan namanya pada peta. Arah itu menurun, condong timur, menuju titik yang membuat tulang tubuh pinjaman ini tahu lebih dulu daripada kepala.
+Di kedalaman itu, geometri tambang berhenti menjadi pekerjaan dan mulai menjadi peta. Ashvarok bisa merasakannya tanpa membuka bakat apa pun — cukup telapak tangan menyentuh dinding. Urat gema dalam formasi mengalir ke satu arah, seperti akar air yang dipetakan ratusan tahun lalu oleh orang-orang yang membanggakan namanya pada peta. Arah itu menurun, condong timur, menuju titik yang membuat tulang tubuh pinjaman ini tahu lebih dulu daripada kepala.
 
 Dia menarik tangannya dari dinding tepat sebelum Brannoc menoleh.
 
@@ -27,7 +27,7 @@ Dia menarik tangannya dari dinding tepat sebelum Brannoc menoleh.
 
 ---
 
-Lorong sembilan bawah adalah lorong tua yang bekerja setengah mati. Seam sempit, kualitas cinder-glass kelas tiga, dan udara yang terasa seperti diminum melalui kain. Mereka menggali dua jam sesuai aturan, dan selama dua jam itu Ashvarok melakukan pepekerjaan sampingan yang tidak dicatat siapa pun.
+Lorong sembilan bawah adalah lorong tua yang bekerja setengah mati. Seam sempit, kualitas cinder-glass kelas tiga, dan udara yang terasa seperti diminum melalui kain. Mereka menggali dua jam sesuai aturan, dan selama dua jam itu Ashvarok melakukan pekerjaan sampingan yang tidak dicatat siapa pun.
 
 Ia mengukur tambang ini dengan standar lain. Standar dirinya.
 
@@ -39,9 +39,9 @@ Jam kedua, tangannya menemukan alur itu lagi — kali ini segar.
 
 Di permukaan seam, deretan sayatan kecil berjajar seperti sisir. Enam baris, tiap baris tujuh goresan, sedalam kuku, presisi seperti dibuat alat yang tidak pernah dijual di Caldrest. Di sekelilingnya batu tetap utuh. Yang diambil hanya lapisan tipis tempat gema paling padat tinggal.
 
-"Pemula tidak motong begini," kata Ondar dari belakang, suaranya turun sendiri. "Ini kerja orang yang latihan."
+"Pemula tidak motong begini," kata Ondar dari belakang, suaranya turun sendiri. "Ini bekerja orang yang latihan."
 
-"Ini bukan kerja tambang." Brannoc menyentuh sayatan itu dengan ibu jari, lalu mencium ujung jarinya. Wajah foreman itu berubah perlahan menjadi sesuatu yang lebih tua. "Tidak ada debu bor. Tidak ada minyak asah. Dipotong dingin."
+"Ini bukan bekerja tambang." Brannoc menyentuh sayatan itu dengan ibu jari, lalu mencium ujung jarinya. Wajah foreman itu berubah perlahan menjadi sesuatu yang lebih tua. "Tidak ada debu bor. Tidak ada minyak asah. Dipotong dingin."
 
 "Dipotong bagaimana?"
 
@@ -61,7 +61,7 @@ Lampu Brannoc berhenti di sudut lorong, di lekukan alami tempat pekerja biasa me
 
 "Orang motong seam pakai lampu cinder-glass," kata Ondar. "Kenapa bawa lilin?"
 
-"Karena dia tidak mau percikan." Ashvarok berjongkok di samping lekukan itu tanpa menyentuh apa pun. "Cinder-glass memancarkan gema kalau dinyalakan. Kalau kamu kerja dengan gema — memotongnya, membawanya — kamu tidak mau ada gema lain yang mengacaukan tanganmu."
+"Karena dia tidak mau percikan." Ashvarok berjongkok di samping lekukan itu tanpa menyentuh apa pun. "Cinder-glass memancarkan gema kalau dinyalakan. Kalau kamu bekerja dengan gema — memotongnya, membawanya — kamu tidak mau ada gema lain yang mengacaukan tanganmu."
 
 "Sejak kapan furnace boy tahu soal gema?" Brannoc menoleh tajam.
 
@@ -71,7 +71,7 @@ Foreman itu menatapnya dua detik lebih lama dari yang nyaman, lalu memilih menun
 
 "Tanda pembuat?" tanya Ondar.
 
-"Atau tanda izin." Brannoc membungkus sisa lilin dan tetesannya dalam kain, menyimpannya jauh di dalam jaket, di tempat yang bukan kantong surat resmi. "Yang jelas, ini bukan barang pencuri miskin. Pencuri miskin motong kasar, bawa banyak, lalu lari. Ini kerja sabar. Kerja sabar artinya bakal balik."
+"Atau tanda izin." Brannoc membungkus sisa lilin dan tetesannya dalam kain, menyimpannya jauh di dalam jaket, di tempat yang bukan kantong surat resmi. "Yang jelas, ini bukan barang pencuri miskin. Pencuri miskin motong kasar, bawa banyak, lalu lari. Ini bekerja sabar. Kerja sabar artinya bakal balik."
 
 "Terus biarkan saja?"
 
@@ -79,7 +79,7 @@ Foreman itu menatapnya dua detik lebih lama dari yang nyaman, lalu memilih menun
 
 "Bahkan kalau iya, tidak akan serapi itu," kata Ashvarok.
 
-"Bagus. Berarti daftar tersangkanya pendek." Brannoc menyalakan lampunya penuh lagi, dan suara foreman kembali ke ukuran normal, keras, milik siapa-siapa. "Ondar, troli. Renn, angkat. Jam kerja belum selesai, dan kalau ada yang tanya, hari ini kita hanya gagal capai kuota seperti biasa."
+"Bagus. Berarti daftar tersangkanya pendek." Brannoc menyalakan lampunya penuh lagi, dan suara foreman kembali ke ukuran normal, keras, milik siapa-siapa. "Ondar, troli. Renn, angkat. Jam bekerja belum selesai, dan kalau ada yang tanya, hari ini kita hanya gagal capai kuota seperti biasa."
 
 Mereka bekerja satu jam lagi. Ashvarok mengangkut batu, dan di antara angkutan, saat kedua penambang lain membelakanginya, ia meletakkan telapak tangannya sekali lagi pada dinding seam — di bawah titik panen terdalam.
 
@@ -99,11 +99,11 @@ Saat naik, di tingkat troli yang bising, Brannoc berjalan di sebelahnya tanpa me
 
 "Iya."
 
-"Orang yang motong seam itu pasti butuh tempat senyap buat kerja." Mata foreman itu lurus ke depan. "Dan kamu anak pertama yang selamat dari tempat senyap. Jadi mulai sekarang, kalau kupanggil dan kamu tidak jawab, aku yang datang. Bukan karena aku sayang kamu."
+"Orang yang motong seam itu pasti butuh tempat senyap buat bekerja." Mata foreman itu lurus ke depan. "Dan kamu anak pertama yang selamat dari tempat senyap. Jadi mulai sekarang, kalau kupanggil dan kamu tidak jawab, aku yang datang. Bukan karena aku sayang kamu."
 
 "Karena aku barang bukti," kata Ashvarok.
 
-"Karena kamu satu-satunya yang pernah dengar mereka kerja." Brannoc melangkah lebih cepat, naik ke terang, lalu menambahkan satu kalimat lagi tanpa menoleh, pelan sekali sampai nyaris tertelan gemuruh troli: "Dan kalau suatu hari kamu hilang di dalam sana, adik kecil yang nungguin di barak itu tidak akan pernah tahu kenapa. Itu bukan cara mati yang layak buat keluarga siapa pun."
+"Karena kamu satu-satunya yang pernah dengar mereka bekerja." Brannoc melangkah lebih cepat, naik ke terang, lalu menambahkan satu kalimat lagi tanpa menoleh, pelan sekali sampai nyaris tertelan gemuruh troli: "Dan kalau suatu hari kamu hilang di dalam sana, adik kecil yang menunggu di barak itu tidak akan pernah tahu kenapa. Itu bukan cara mati yang layak buat keluarga siapa pun."
 
 Ashvarok berhenti satu langkah di tangga.
 

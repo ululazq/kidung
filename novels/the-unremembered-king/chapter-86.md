@@ -1,5 +1,5 @@
 ---
-title: "Bab 86: Harga Penjaga Tua"
+title: "Bab 86: Harga Old Warden"
 chapter: 86
 ---
 
@@ -13,7 +13,7 @@ Sore itu ia membawa kotak timbung mini ke penginapan distrik atas, dan sadar di 
 
 ---
 
-Ruang belakang penginapan telah disiapkan dengan cara yang khas Vael — meja kecil, dua kursi, teko yang sudah mendidih sebelum tamunya tiba, dan tidak ada saksi apa pun — tidak juru tulis, tidak penjaga, tidak lilin benang timah di sudut mana pun. Ossian Vael duduk di sisi yang jauh dari pintu, the Quiet Vein tidak pernah memahami detail semacam itu, pikir Maera, lalu menyesuaikannya. Pejabat Koordinasi Artefak Regional selalu duduk membelakangi tembok dan menghadapi pintu, bahkan di ruangan yang tidak berbahaya.
+Ruang belakang penginapan telah disiapkan dengan cara yang khas Vael — meja kecil, dua kursi, teko yang sudah mendidih sebelum tamunya tiba, dan tidak ada saksi apa pun — tidak juru tulis, tidak penjaga, tidak lilin tin thread di sudut mana pun. Ossian Vael duduk di sisi yang jauh dari pintu, the Quiet Vein tidak pernah memahami detail semacam itu, pikir Maera, lalu menyesuaikannya. Pejabat Koordinasi Artefak Regional selalu duduk membelakangi tembok dan menghadapi pintu, bahkan di ruangan yang tidak berbahaya.
 
 "Assayer Tull." Ia menuangkan teh untuk dua cangkir, gerakan yang tidak tergesa. "Terima kasih atas kartu Anda. Empat kata. Saya sudah membacanya sebelas kali."
 
@@ -33,7 +33,7 @@ Ada jeda yang tepat panjangnya untuk sebuah pengakuan. "Salinan itu tiba di slot
 
 "Dua hal."
 
-"Pertama, surat resmi atas nama Anda kepada wali kota, menarik seluruh dukungan Koordinasi atas izin penutupan distrik timur, tanpa batasan waktu, tanpa pasal pemantauan, tanpa kata sementara. Izin itu mati oleh tangan penciptanya." Ia membiarkan kalimat itu duduk sebentar di antara mereka. "Kedua, komisi verifikasi dokumen warisan dibuka resmi hari ini juga, dengan mandat penuh Assayers' Guild, dan nama saya di dalamnya sebagai penyidik bidang. Distrik timur mendapat tempat untuk membuktikan klaim tanah jasanya di hadapan hukum, bukan di hadapan antrean troli."
+"Pertama, surat resmi atas nama Anda kepada wali kota, menarik seluruh dukungan Koordinasi atas izin penutupan distrik timur, tanpa batasan waktu, tanpa pasal pemantauan, tanpa kata sementara. Izin itu mati oleh tangan penciptanya." Ia membiarkan kalimat itu duduk sebentar di antara mereka. "Kedua, komisi verifikasi dokumen warisan dibuka resmi hari ini juga, dengan mandat penuh Assayers' Guild, dan nama saya di dalamnya sebagai penyidik bidang. Distrik timur mendapat tempat untuk membuktikan klaim service grantnya di hadapan hukum, bukan di hadapan antrean troli."
 
 Ossian tidak langsung menjawab. Ia menuangkan teh lagi, untuk dirinya sendiri kali ini, dan Maera menghitung — empat detik, lima, tujuh — orang yang menghitung lebih lama dari itu sedang mencari cara keluar, dan orang yang berhenti tepat di tujuh sedang menyelesaikan sesuatu yang lain.
 
@@ -43,7 +43,7 @@ Ossian tidak langsung menjawab. Ia menuangkan teh lagi, untuk dirinya sendiri ka
 
 Senyum kecil itu datang dan pergi pada wajah Ossian, dan Maera mencatatnya sebagai hal pertama yang tidak ia pahami malam itu. Orang yang tersudut biasanya tidak tersenyum pada daftar tuntutan.
 
-"Maka biarkan saya menyebut angka saya sendiri," kata Ossian. Ia meletakkan cangkirnya, dan suaranya turun ke register yang tidak dipakai untuk prosedur. "Anda pikir Anda membeli satu distrik dengan arsip ini. Padahal Anda membeli sesuatu yang jauh lebih mahal, dan saya akan memberitahu apa, karena transaksi yang jujur dimulai dari penilaian yang jujur. Semalam saya membaca bahwa ada seni yang tidak dikenal di tambang saya yang membayar penyelamatan dengan tubuhnya sendiri. Delapan bulan saya menghabiskan uang, prosedur, dan kehormatan kecil untuk memburu faktor itu, dan setiap data yang saya kumpulkan bercerita hal yang sama: penjaga tua. Bukan pencuri, bukan penyelundup, bukan musuh yang bisa saya laporkan ke pusat dengan tenang. Sekarang izin penutupan itu mati, mesin pemindahan itu mati, dan seam Testament tetap di bawah tanah kota ini bersama sesuatu yang menambal retakan demi retakan sementara dunia luar menghitung untungnya."
+"Maka biarkan saya menyebut angka saya sendiri," kata Ossian. Ia meletakkan cangkirnya, dan suaranya turun ke register yang tidak dipakai untuk prosedur. "Anda pikir Anda membeli satu distrik dengan arsip ini. Padahal Anda membeli sesuatu yang jauh lebih mahal, dan saya akan memberitahu apa, karena transaksi yang jujur dimulai dari penilaian yang jujur. Semalam saya membaca bahwa ada seni yang tidak dikenal di tambang saya yang membayar penyelamatan dengan tubuhnya sendiri. Delapan bulan saya menghabiskan uang, prosedur, dan kehormatan kecil untuk memburu faktor itu, dan setiap data yang saya kumpulkan bercerita hal yang sama: old warden. Bukan pencuri, bukan penyelundup, bukan musuh yang bisa saya laporkan ke pusat dengan tenang. Sekarang izin penutupan itu mati, mesin pemindahan itu mati, dan seam Testament tetap di bawah tanah kota ini bersama sesuatu yang menambal retakan demi retakan sementara dunia luar menghitung untungnya."
 
 Ia berdiri, berjalan ke jendela, dan memandangi lampu-lampu barak distrik timur yang jelas dari ketinggian ini.
 
@@ -51,7 +51,7 @@ Ia berdiri, berjalan ke jendela, dan memandangi lampu-lampu barak distrik timur 
 
 "Dan arsipnya?"
 
-"Tiga tahap, seperti kata Anda. Tetap di kotak Anda. Kalau sampai satu pun dari janji saya dilanggar oleh tangan saya sendiri, lembar terakhir keluar dan saya mati secara prosedural." Ossian menoleh. "Tapi saya punya satu syarat yang bukan syarat, karena tidak akan tertulis di mana pun. Suatu hari nanti, kalau penjaga tua itu teridentifikasi, saya mau jadi orang pertama yang diberi tahu sebelum dunia lain tahu. Bukan untuk menangkapnya. Untuk bicara."
+"Tiga tahap, seperti kata Anda. Tetap di kotak Anda. Kalau sampai satu pun dari janji saya dilanggar oleh tangan saya sendiri, lembar terakhir keluar dan saya mati secara prosedural." Ossian menoleh. "Tapi saya punya satu syarat yang bukan syarat, karena tidak akan tertulis di mana pun. Suatu hari nanti, kalau old warden itu teridentifikasi, saya mau jadi orang pertama yang diberi tahu sebelum dunia lain tahu. Bukan untuk menangkapnya. Untuk bicara."
 
 Maera mempertimbangkan permintaan itu dengan cara yang sama seperti ia menimbang lot curiga — dari segala sisi, termasuk sisi yang tidak ditunjukkan. Orang ini tidak berbohong tentang kebutuhannya — kebutuhan yang jujur adalah satu-satunya jenis kejujuran yang pernah dipamerkan Vael padanya, dan itu justru yang membuatnya berbahaya.
 

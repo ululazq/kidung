@@ -61,7 +61,7 @@ Satu tarikan napas: itulah ukuran resminya kemudian, disepakati orang-orang yang
 
 Seorang penambang menjatuhkan lampunya dan menangis tanpa tahu kenapa. Dua ibu di dapur barak berhenti di tengah kalimat. Ondar, yang sedang menggiring troli kosong, berhenti berjalan dan mengucapkan nama ibunya, yang sudah tiga tahun mati, karena lagu itu terdengar seperti dapur ibunya. Di lereng timur, di depan penginapan distrik atas, seorang tamu kota yang berdiri di udara malam untuk merokok tidak merokok. Ia menoleh ke arah lereng tambang dan tetap demikian sampai bunyi itu usai.
 
-Dan kemudian jam dunia berjalan lagi, lampu-lampu pulih, dan orang-orang menemukan bahwa satu jam telah lenyap dari malam mereka — bukan hilang seperti barang hilang, melainkan dicabut: lonceng yang seharusnya tiga kali ternyata baru sekali, lilin yang lebih pendek dari ingatan, obrolan yang ujungnya tidak nyambung dengan awalnya. Mereka tidak lupa siapa dirinya. Nama-nama utuh, keluarga utuh, kontrak utuh. Yang hilang cuma enam puluh menit, dan isi enam puluh menit itu, bagi hampir semua orang, adalah lagu yang tidak pernah benar-benar sampai ke ingatan.
+Dan kemudian jam dunia berjalan lagi, lampu-lampu pulih, dan orang-orang menemukan bahwa satu jam telah lenyap dari malam mereka — bukan hilang seperti barang hilang, melainkan dicabut: lonceng yang seharusnya tiga kali ternyata baru sekali, lilin yang lebih pendek dari ingatan, obrolan yang ujungnya tidak nyambung dengan awalnya. Mereka tidak lupa siapa dirinya. Nama-nama utuh, keluarga utuh, kontrak utuh. Yang hilang hanya enam puluh menit, dan isi enam puluh menit itu, bagi hampir semua orang, adalah lagu yang tidak pernah benar-benar sampai ke ingatan.
 
 Hampir semua.
 
@@ -69,7 +69,7 @@ Hampir semua.
 
 Ashvarok naik ke permukaan pada lonceng ketiga, dengan cara berjalan yang disusun sedemikian rupa agar terlihat seperti lelah biasa, padahal lengan kanannya tidak lagi miliknya dari siku ke bawah — bukan mati rasa biasa, melainkan kehilangan peta, jarinya bergerak tetapi kabar dari jari ke kepala harus menempuh jalan lebih panjang.
 
-Orang-orang berkerumun di barak dan gang, membandingkan jam, membandingkan lilin. Brannoc sudah di tengah kerumunan, melakukan pekerjaan yang disepakati: "Gas," katanya, keras, berkali-kali, dengan wajah Foreman yang tidak menerima bantahan. "Kantong gas tua di retakan bawah. Bikin pusing, bikin lilin cepat habis, bikin jam lo semua kacau. Besok regu pertama turun cek ventilasi. Sekarang semua tidur."
+Orang-orang berkerumun di barak dan gang, membandingkan jam, membandingkan lilin. Brannoc sudah di tengah kerumunan, melakukan pekerjaan yang disepakati: "Gas," katanya, keras, berkali-kali, dengan wajah Foreman yang tidak menerima bantahan. "Kantong old gas di retakan bawah. Membuat pusing, membuat lilin cepat habis, membuat jam lo semua kacau. Besok regu pertama turun cek ventilasi. Sekarang semua tidur."
 
 Sebagian percaya. Sebagian tidak percaya tapi lelah. Sebagian kecil — mata-mata mata pencarian, penilai yang menghitung — diam dengan cara yang memberitahu Ashvarok bahwa cerita gas akan hidup sampai besok sore dan mati setelahnya.
 
@@ -79,7 +79,7 @@ Ossian Vael berdiri sendirian di tepi lereng timur, tanpa pengawal, tanpa lampu,
 
 "Assayer muda bilang ada insiden gas," kata Ossian tanpa menoleh, karena ia tentu sudah mendengar langkah botol tambang di belakangnya. "Cerita yang efisien. Sayangnya saya mendengar bagian yang tidak ditutup cerita mana pun." Kini ia menoleh, dan di wajah sopan itu ada hal yang belum pernah Ashvarok lihat di sana: kesungguhan polos, nyaris anak-anak. "Rekaman. Bukan komposisi. Orang yang menyanyi itu sedang diupacarakan, bukan sedang mencipta. Seam di bawah kota Anda, Renn, adalah saksi hidup — dan malam ini ia bersaksi di depan separuh kota."
 
-"Gas bisa bikin orang mendengar apa saja," kata Ashvarok.
+"Gas bisa membuat orang mendengar apa saja," kata Ashvarok.
 
 "Bisa." Ossian memandangnya dua detik terlalu lama, cara orang menimbang barang di timbungan yang tidak terlihat. "Anda tahu apa yang menarik? Saya berdiri di sini sepanjang jam yang hilang itu. Dan dari semua orang yang lari panik, satu-satunya yang berjalan tenang ke arah tambang — bukan menjauhinya — adalah furnace boy." Ia merapikan kerahnya, gerakan kecil yang menutup pembicaraan. "Tidurlah, Renn. Besok akan ada banyak prosedur."
 
@@ -103,7 +103,7 @@ Ashvarok memandang telapak tangan kanannya. Di garis-garis tangannya, jika diter
 
 "Aku pakai jalan pintas," katanya akhirnya. "Besok aku cerita semuanya. Bukan besok pagi. Besok, waktu kamu tidak mengantuk dan tidak ada yang bisa dengar."
 
-Sela menatapnya lama, menimbang janji dengan alat miliknya sendiri, lalu membuka kolom Jam Pasir dan menulis dengan huruf yang ditekan keras: LONJAKAN. SIKU LEWAT. TANGGAL. Di bawahnya, tanpa diminta, ia menambahkan satu baris kecil: DIA JANJI CERITA.
+Sela menatapnya lama, menimbang janji dengan alat miliknya sendiri, lalu membuka kolom Hourglass dan menulis dengan huruf yang ditekan keras: LONJAKAN. SIKU LEWAT. TANGGAL. Di bawahnya, tanpa diminta, ia menambahkan satu baris kecil: DIA JANJI CERITA.
 
 "Colom HARI MAERA tinggal dua," kata anak itu sambil memadamkan lampu, dan kalimat itu jatuh di kegelapan barak sebagai pengingat bahwa dunia memiliki lebih dari satu hitungan mundur, dan tidak satu pun dari mereka berhak memilih yang mana yang boleh berdetak lebih dulu.
 

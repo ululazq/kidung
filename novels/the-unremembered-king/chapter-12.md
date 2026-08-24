@@ -1,9 +1,9 @@
 ---
-title: "Bab 12: Jam Pasir"
+title: "Bab 12: Hourglass"
 chapter: 12
 ---
 
-Tungku kedua di ruang ventilasi punya celah bata di sisi timur yang menghisap angin lebih cepat dari yang seharusnya, dan siapa pun yang memperbaikinya akan mendapat pujian dari Quota Office serta tambahan pepekerjaan tanpa upah. Tidak ada yang memperbaikinya. Caldrest punya cara sendiri untuk menghormati celah.
+Tungku kedua di ruang ventilasi punya celah bata di sisi timur yang menghisap angin lebih cepat dari yang seharusnya, dan siapa pun yang memperbaikinya akan mendapat pujian dari Quota Office serta tambahan pekerjaan tanpa upah. Tidak ada yang memperbaikinya. Caldrest punya cara sendiri untuk menghormati celah.
 
 Ashvarok berlutut di depan celah itu pada malam kelima belas, dengan perut penuh — tiga hari terakhir ia makan seperti orang bersiap berperang, karena memang iya — dan pola kedua Cinder sudah terbuka di kepalanya seperti pintu gudang tua.
 
@@ -47,13 +47,13 @@ Sela menemukan garis itu dua malam kemudian, bukan lewat mata yang curiga — ma
 
 "Bukan urusanmu."
 
-"Semua yang membuat kamu tidak bisa kerja itu urusanku, karena yang nanggung kamu kalau kamu roboh itu aku." Suara bocah itu datar, dan itu yang paling menakutkan. Sela yang marah berteriak, Sela yang takut bicara datar. "Angkat. Lengan."
+"Semua yang membuat kamu tidak bisa bekerja itu urusanku, karena yang nanggung kamu kalau kamu roboh itu aku." Suara bocah itu datar, dan itu yang paling menakutkan. Sela yang marah berteriak, Sela yang takut bicara datar. "Angkat. Lengan."
 
 Ashvarok mempertimbangkan tiga versi kebohongan, menemukan semuanya rapuh di hadapan anak yang menghitung porsi makannya sendiri, dan memilih sesuatu yang lebih mahal. Setengah kebenaran, disajikan utuh.
 
 Ia menarik lengan bajunya sampai siku. Di bawah lampu barak, garis pucat itu terlihat seperti akar yang salah tumbuh.
 
-"Vein-scar," kata Sela langsung. Dia sudah pernah lihat. Semua orang tambang pernah, pada ayah, pada paman, pada orang yang berhenti bisa kerja dan berubah jadi penjaga gerobak. "Kamu nyulum tanpa izin."
+"Vein-scar," kata Sela langsung. Dia sudah pernah lihat. Semua orang tambang pernah, pada ayah, pada paman, pada orang yang berhenti bisa bekerja dan berubah jadi penjaga gerobak. "Kamu nyulum tanpa izin."
 
 "Aku belajar alat baru. Alatnya minta bayaran."
 
@@ -77,7 +77,7 @@ Sela bangkit, mengambil papan tulis kecilnya, menghapus dua baris angka upah di 
 
 "Kenapa harus itu?"
 
-"Karena orang yang mikir gitu biasanya sudah pernah ngalahin batas sekali," kata Sela, meniup lilin meja. "Dan orang yang pernah menang lawan aturan selalu lupa kalau tagihannya menyusul belakangan."
+"Karena orang yang mikir begitu biasanya sudah pernah ngalahin batas sekali," kata Sela, meniup lilin meja. "Dan orang yang pernah menang lawan aturan selalu lupa kalau tagihannya menyusul belakangan."
 
 Ashvarok berbaring menghadap tembok, lengan kanan diletakkan di atas selimut seperti barang yang sedang dipantau, dan di gelap ia mendengar Sela masih memenulis di papan tulisnya — bunyi kapur kecil, rajin, dua baris, tiga.
 
@@ -89,6 +89,6 @@ Ashvarok berbaring menghadap tembok, lengan kanan diletakkan di atas selimut sep
 
 Ashvarok menatap tembok barak di kegelapan, dan untuk sesaat ia melihat sesuatu yang tidak pernah dilihat siapa pun. The Unremembered King memiliki satu-satunya arsip resmi tentang kematiannya sendiri, dan arsip itu ditulis dengan kapur bocah oleh anak sebelas tahun yang belum tahu siapa yang sedang dia catat.
 
-"Tulis 'Jam Pasir,'" katanya. "Namanya Jam Pasir."
+"Tulis 'Hourglass,'" katanya. "Namanya Hourglass."
 
 Bunyi kapur dimulai lagi. Empat kata. Satu judul. Dan di bawah lampu jalan yang tidak pernah masuk ke barak ini, entri pertama dalam daftar kematian raja terakhir Hegemony resmi mempunyai nama.

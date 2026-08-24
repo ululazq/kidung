@@ -7,13 +7,13 @@ Sinyalnya datang sebagai lot kosong dengan catatan tiga baris di lapak Vosk, dan
 
 Kafilah Guild tiba lebih cepat dari perkiraan. Tabung timah sudah di distrik tengah. Pemiliknya menunggu jawaban yang hanya bisa dibaca di Caldrest.
 
-Maka pada malam yang sama, di ruang kerja sewaan Assayer Tull dengan lilin satu sumbu dan pintu yang disandera kursi, dua pembaca berdiri lagi-lagi di atas sehelai masa lalu — dan kali ini masa lalunya digulung dalam tabung yang tidak pernah boleh masuk arsip mana pun.
+Maka pada malam yang sama, di ruang bekerja sewaan Assayer Tull dengan lilin satu sumbu dan pintu yang disandera kursi, dua pembaca berdiri lagi-lagi di atas sehelai masa lalu — dan kali ini masa lalunya digulung dalam tabung yang tidak pernah boleh masuk arsip mana pun.
 
 "Peta ini berumur lebih dari seribu tahun," kata Maera Tull, membuka gulungan salinan dengan gerakan tangan orang yang menyentuh barang bukti. Salinannya rapi — tangan juru ukur muda cabang selatan, katanya, cocok skala demi skala dengan aslinya dalam kain yang ayahnya simpan empat dasawarsa di dalam timah. "Kertas modern, tetapi garis-garisnya disalin jujur. Aku sudah cek tiga titik terhadap survei kami sendiri. Ketiganya jatuh dalam toleransi satu hasta." Ia berhenti, dan matanya melakukan hal yang selalu dilakukan matanya ketika berpikir: menghitung sesuatu yang tidak ada angkanya. "Seribu tahun, Renn. Siapa yang menyuruh orang menggambar bawah tanah sebuah kota tambang seperti menggambar istana?"
 
 "Arsiteknya, mungkin."
 
-"Arsitek tidak menggambar tempat kerja." Maera membentangkan penuh salinan itu di atas meja, menekan keempat sudutnya dengan alat timbangan kosong. "Dia menggambar bangunan. Lihat sendiri."
+"Arsitek tidak menggambar tempat bekerja." Maera membentangkan penuh salinan itu di atas meja, menekan keempat sudutnya dengan alat timbangan kosong. "Dia menggambar bangunan. Lihat sendiri."
 
 Ashvarok melihat, dan melihatnya adalah perjumpaan dengan rumah sendiri setelah seribu tahun perang. Ruang besar berdimensi delapan banding tiga, persis seperti rekonstruksi ingatannya, persis seperti sketsa Pak Dekan, dengan ambang bersisi pendek di lorong B dan lambang ikatan The Draveth Hegemony tertancap di atasnya seperti cap di atas segel. Tetapi peta tua ini memuat sesuatu yang sketsa-sketsa itu tidak punya: garis-garis di dalam ruangan. Jalur-jalur tipis yang mengalir dari enam titik di dinding-dinding — pasak-pasak itu, kanal gesekan itu, node-node urutan putaran itu — semuanya menuju satu titik di tengah-tengah aula.
 
@@ -25,7 +25,7 @@ Di atas dais itu, pada peta, digambar lambang yang sama dengan lambang ambang �
 
 Ashvarok membiarkan hening bekerja untuknya sebentar. Ada seni dalam memberi sekutu kesimpulan mereka sendiri, dan seni itu ia pelajari bukan dari buku, melainkan dari lima panglima yang lebih suka diberi peta daripada diperintah.
 
-"Kau bilang pintu buntu terbaca monolit oleh instrumen tim Spire," katanya akhirnya.
+"Kau bilang blind door terbaca monolit oleh instrumen tim Spire," katanya akhirnya.
 
 "Monolit sempurna. Terlalu sempurna — tapi itu keluhan lain untuk hari lain."
 
@@ -39,9 +39,9 @@ Kunci pasangan. Kata-kata itu berjalan di kepala Ashvarok dengan tenang dan ding
 
 Dais itu bukan tempat berdiri sang pengikat. Dais itu tempat bertumpunya sang kunci.
 
-"Maka kalau seseorang mau membuka apa yang ditutup di sana," kata Maera pelan, menindaklanjuti logikanya sendiri sampai ke ujung yang gelap, "dia tidak akan menyerang pintu buntu. Dia akan turun ke ruang ini dan bekerja di panggung tengah. Dan instrumen kami tidak akan pernah tahu apa yang dia kerjakan, karena geometrinya akan terbaca normal — geometrinya memang dirancang untuk terbaca normal." Ia mendongak. "Renn. Kalau peta ini benar, orang yang memanen seam kalian selama ini bukan mencuri dari tepian. Dia sudah tahu letak kuncinya sejak awal."
+"Maka kalau seseorang mau membuka apa yang ditutup di sana," kata Maera pelan, menindaklanjuti logikanya sendiri sampai ke ujung yang gelap, "dia tidak akan menyerang blind door. Dia akan turun ke ruang ini dan bekerja di panggung tengah. Dan instrumen kami tidak akan pernah tahu apa yang dia kerjakan, karena geometrinya akan terbaca normal — geometrinya memang dirancang untuk terbaca normal." Ia mendongak. "Renn. Kalau peta ini benar, orang yang memanen seam kalian selama ini bukan mencuri dari tepian. Dia sudah tahu letak kuncinya sejak awal."
 
-Itu, dan hanya itu, yang bisa Maera Tull baca — dan biarlah demikian, pikir Ashvarok, karena bacaan yang tersisa miliknya sendiri dan tidak muat di papan tulis mana pun. Bahwa kunci pasangan sebuah segel tidak bekerja untuk orang sembarang, bahwa memutar dais butuh tubuh yang mengenali dan dikenali, bahwa dunia hanya pernah membuat satu tubuh seperti itu — dan bahwa itulah sebabnya sang penyedot tidak pernah cukup hanya menyedot. Panen, kurir bisu, jerat jadwal, semua gerakan setahun ini bukan pencurian yang gagal-gagal terus. Semuanya latihan. Semuanya pengecekan apakah pintu bisa diputar tanpa kuncinya — dan malam lagu, sunyi blok timur, gejala yang naik tangga: itu gembok yang diuji ulang dari sisi dalam, mengetuk-ngetuk, mencari tahu apakah masih ada yang menjawab dari sisi kunci.
+Itu, dan hanya itu, yang bisa Maera Tull membaca — dan biarlah demikian, pikir Ashvarok, karena bacaan yang tersisa miliknya sendiri dan tidak muat di papan tulis mana pun. Bahwa kunci pasangan sebuah segel tidak bekerja untuk orang sembarang, bahwa memutar dais butuh tubuh yang mengenali dan dikenali, bahwa dunia hanya pernah membuat satu tubuh seperti itu — dan bahwa itulah sebabnya sang penyedot tidak pernah cukup hanya menyedot. Panen, kurir bisu, jerat jadwal, semua gerakan setahun ini bukan pencurian yang gagal-gagal terus. Semuanya latihan. Semuanya pengecekan apakah pintu bisa diputar tanpa kuncinya — dan malam lagu, sunyi blok timur, gejala yang naik tangga: itu gembok yang diuji ulang dari sisi dalam, mengetuk-ngetuk, mencari tahu apakah masih ada yang menjawab dari sisi kunci.
 
 Kalau suatu hari dais itu dirusak — dipatahkan, ditumbangkan, ditempa ulang oleh tangan yang paham seni raja — maka segel tidak akan menunggu kunci yang sah. Segel yang kembarannya dipatahkan adalah segel yang terbuka, dan ia akan terbuka tanpa dirinya, di hadapan orang yang merusaknya, dan seluruh harga yang dibakarnya di malam the Long Dusk akan habis di tangan orang lain.
 
@@ -55,7 +55,7 @@ Itu rencana sang arsitek sedotan. Bukan dugaan ringan — tapi juga belum bukti,
 
 "Terima kasih, Assayer Tull."
 
-"Jangan terima kasih dulu." Ia menyimpan tabung timah itu ke lapisan dalam kotaknya, dan wajahnya kembali netral presisi milik Guild. "Peta ini membuat komisi Ossian Vael punya tujuan baru. Dia akan turun, Renn. Turun sungguhan, ke pintu buntu, dengan tim yang layak dan tanggal yang resmi — peta sebagus ini tidak akan didiamkan. Pertanyaanku cuma satu." Matanya menghitung sekali lagi, sesuatu yang tidak ada angkanya. "Kalau dia membuka pintu itu dan menemukan ruangan yang salah — siapa yang akan dia tuduh menipunya?"
+"Jangan terima kasih dulu." Ia menyimpan tabung timah itu ke lapisan dalam kotaknya, dan wajahnya kembali netral presisi milik Guild. "Peta ini membuat komisi Ossian Vael punya tujuan baru. Dia akan turun, Renn. Turun sungguhan, ke blind door, dengan tim yang layak dan tanggal yang resmi — peta sebagus ini tidak akan didiamkan. Pertanyaanku cuma satu." Matanya menghitung sekali lagi, sesuatu yang tidak ada angkanya. "Kalau dia membuka pintu itu dan menemukan ruangan yang salah — siapa yang akan dia tuduh menipunya?"
 
 ---
 

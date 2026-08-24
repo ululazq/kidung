@@ -7,7 +7,7 @@ Tiga sampul dari tiga bandar tiba pada pagi hari keseratus tiga puluh lima, dan 
 
 Sampul pertama dari bandar pantai barat membawa salinan register pemakaman kuil selama tiga generasi sebelum the Liberation. Jawabannya satu kalimat dari juru arsip yang tulisan tangannya kecil dan jujur. Tidak ada nama yang cocok. Tidak ada gelar yang cocok. Pada rentang tahun yang diminta, register tersebut memuat enam puluh tujuh pemakaman pejabat tinggi era itu, dan celah untuk satu nama tidak pernah ada, karena nama itu tidak pernah ditulis di sana sejak awal.
 
-Sampul kedua dari bandar timur laut lebih tebal. Notulen markas the Liberation disalin utuh sepanjang masa perang dan dua tahun sesudahnya. Ossian membacanya dua kali dengan kecepatan yang sama, dan menemukan bahwa catatan tentang pembagian gelar serta tanah jasa pasca-perang lengkap sampai baris demi baris, kecuali satu halaman. Halaman itu tidak hilang. Halaman itu terpotong rapi di dekat punggung buku, dengan pisau yang bekerja sekali dan tidak menggigiti kertasnya tetangga.
+Sampul kedua dari bandar timur laut lebih tebal. Notulen markas the Liberation disalin utuh sepanjang masa perang dan dua tahun sesudahnya. Ossian membacanya dua kali dengan kecepatan yang sama, dan menemukan bahwa catatan tentang pembagian gelar serta service grant pasca-perang lengkap sampai baris demi baris, kecuali satu halaman. Halaman itu tidak hilang. Halaman itu terpotong rapi di dekat punggung buku, dengan pisau yang bekerja sekali dan tidak menggigiti kertasnya tetangga.
 
 Sampul ketiga dari kota pelabuhan selatan paling tipis, dan justru sampul itulah yang membuatnya berdiri. Manifes kapal selama empat generasi, dicari dengan kata kunci yang ia minta lewat kop surat Koordinasi Artefak Regional, menghasilkan satu entri yang tampaknya tidak berhubungan dengan apa pun. Sebuah kiriman darat, hampir seratus tahun lalu, dicatat sebagai barang pecah. Relief patah, lima keping, batu hitam berlapis endapan garam. Asal pelabuhan selatan. Tujuan akhir sebuah kuil perhentian di lembah tengah, di jalur raya menuju Anthema Spire.
 
@@ -21,7 +21,7 @@ Kereta pos Guild meninggalkan Caldrest menjelang senja, dan Ossian menyewa satu 
 
 Lembah tengah muncul pada sore hari keseratus tiga puluh delapan, sempit dan hijau, dengan sungai kecil yang warnanya seperti larutan logam. Kuil perhentian itu berdiri di tepi jalur, setengahnya masih kuil dan setengah lainnya sudah bertahun-tahun menjadi gudang garam bagi pedagang troli yang lewat.
 
-Penjaganya seorang lelaki tua dengan pinggang yang sudah tidak percaya lagi pada dirinya sendiri. Ia menyambut tamu berjubah abu berjahit benang timah dengan sopan hati-hati orang desa yang tahu bahwa tamu semacam itu jarang datang membawa kabar baik.
+Penjaganya seorang lelaki tua dengan pinggang yang sudah tidak percaya lagi pada dirinya sendiri. Ia menyambut tamu berjubah abu berjahit tin thread dengan sopan hati-hati orang desa yang tahu bahwa tamu semacam itu jarang datang membawa kabar baik.
 
 "Yang dicari Tuan di sini bukan berkat, kurasa," kata lelaki tua itu.
 
@@ -51,7 +51,7 @@ Margin buku pendiri sectenya pernah berkata tentang nama ini tiga hal. Tidak mat
 
 "Pernah ada yang menyalin tulisan ini, Pak?" tanyanya akhirnya.
 
-"Lelaki pendeta lama pernah, katanya, puluhan tahun silam. Lalu yang memahat datang. Malam-malam saja dia kerja, kakekku yang jadi saksi kecilnya. Orang yang sopan. Bayar sewa ruang. Tidak bicara banyak." Lelaki tua itu menggaruk telinganya. "Anehnya, yang dia hapus cuma separuh tulisan dan satu muka. Kalau mau musnahkan, kenapa tidak semuanya. Kata kakekku begitu juga. Aku pikir dia kehabisan waktu, tapi orang yang kerjanya semalam-malaman selama dua belas malam biasanya punya waktu cukup untuk sisanya."
+"Lelaki pendeta lama pernah, katanya, puluhan tahun silam. Lalu yang memahat datang. Malam-malam saja dia bekerja, kakekku yang jadi saksi kecilnya. Orang yang sopan. Bayar sewa ruang. Tidak bicara banyak." Lelaki tua itu menggaruk telinganya. "Anehnya, yang dia hapus cuma separuh tulisan dan satu muka. Kalau mau musnahkan, kenapa tidak semuanya. Kata kakekku begitu juga. Aku pikir dia kehabisan waktu, tapi orang yang kerjanya semalam-malaman selama dua belas malam biasanya punya waktu cukup untuk sisanya."
 
 "Atau," kata Ossian pelan, lebih kepada dirinya sendiri daripada kepada lelaki tua itu, "sisanya memang tidak dimaksudkan untuk musnah."
 

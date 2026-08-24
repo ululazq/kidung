@@ -5,7 +5,7 @@ chapter: 37
 
 Hari keempat puluh enam dibuka Kel Tharrow dengan cara yang paling ia sukai dari semua cara membuka hari: dengan tiga arsip yang terbuka di mejanya secara bersamaan.
 
-Arsip pertama: kontrak kerja Renn, anak lorong tujuh, sisa utang sembilan puluh enam shardmark, penjamin tanggungan satu adik. Arsip kedua: pembagian shift galeri sembilan bawah, regu Foreman Brannoc, dua belas kepala. Arsip ketiga: kolom kuota bulanan galeri yang sama, dengan angka yang ditulis tangan atasan langsungnya di pinggir lembaran — angka yang harus dicapai, bukan angka yang wajar.
+Arsip pertama: kontrak bekerja Renn, anak lorong tujuh, sisa utang sembilan puluh enam shardmark, penjamin tanggungan satu adik. Arsip kedua: pembagian shift galeri sembilan bawah, regu Foreman Brannoc, dua belas kepala. Arsip ketiga: kolom kuota bulanan galeri yang sama, dengan angka yang ditulis tangan atasan langsungnya di pinggir lembaran — angka yang harus dicapai, bukan angka yang wajar.
 
 Ia mengenakan sarung tangannya, memeriksa bahwa tidak ada satu pun ujung jarinya menyentuh kertas secara langsung, dan mulai bekerja.
 
@@ -19,7 +19,7 @@ Anak lorong tujuh itu telah membuatnya tampak bodoh dua kali — sekali di ruang
 
 "Produktivitas bukan kriteria rotasi. Keadilan distribusi beban yang menjadi kriterianya." Tharrow tidak mendongak dari memo itu. "Katakan pada mereka persis seperti itu."
 
-Pegawai itu pergi, dan Tharrow membiarkan dirinya merasakannya sebentar: kenikmatan dingin dari kalimat yang tidak bisa dibantah karena kalimat itu tidak berisi apa-apa. Rotasi untuk keadilan. Kuota untuk keselamatan kerja. Audit untuk kepastian hukum. Semua senjata yang baik selalu dipahat dengan bentuk perkakas.
+Pegawai itu pergi, dan Tharrow membiarkan dirinya merasakannya sebentar: kenikmatan dingin dari kalimat yang tidak bisa dibantah karena kalimat itu tidak berisi apa-apa. Rotasi untuk keadilan. Kuota untuk keselamatan bekerja. Audit untuk kepastian hukum. Semua senjata yang baik selalu dipahat dengan bentuk perkakas.
 
 ---
 
@@ -53,7 +53,7 @@ Dan malam ini sebuah kertas bisu memberitahunya bahwa turun perdana itu mundur s
 
 Mundur dari kapan? Pikirannya, yang terlatih menghitung selisih setoran, bekerja dengan dingin yang biasa. Dua kemungkinan. Pertama: kertas itu salah — klien di hulu menerima kabar buruk dari mata yang lambat, dan kurir itu hanya membawa kebodohan orang lain ke loketnya. Kedua: ada dua jadwal. Jadwal resmi yang ia pegang salinannya, dan jadwal lain yang bergerak di bawahnya, yang pemegangnya mengira perlu diberitahu kepadanya.
 
-Kemungkinan kedua itu menghangatkannya dengan cara yang tidak ia tunjukkan kepada siapa pun. Selama ini ia adalah pelaksana — kata yang digunakan surat-surat atasan, kata yang ia baca dengan gigi yang rapat. Pelaksana menerima perintah. Tetapi penerima kabar, penerima kabar adalah simpul. Simpul adalah orang yang diperhitungkan.
+Kemungkinan kedua itu menghangatkannya dengan cara yang tidak ia tunjukkan kepada siapa pun. Selama ini ia adalah pelaksana — kata yang digunakan surat-surat atasan, kata yang ia membaca dengan gigi yang rapat. Pelaksana menerima perintah. Tetapi penerima kabar, penerima kabar adalah simpul. Simpul adalah orang yang diperhitungkan.
 
 Ia tidak akan meneruskan kertas itu ke mana pun. Melaporkannya berarti mengaku menerima sesuatu yang tidak ada di buku. Dan selain itu, kabar yang salah tidak dinaikkan ke atas oleh orang yang bercita-cita naik. Kabar yang salah disimpan, diuji, dan digunakan pada waktunya. Kalau tim Guild turun lagi esok pagi, kertas itu sampah. Kalau tim Guild tidak turun — maka ada jadwal kedua di kota ini, dan dia, Kel Tharrow, adalah satu dari segelintir orang yang memegang ujung benangnya.
 
@@ -73,7 +73,7 @@ Pegawai itu membuka bukunya. "Enam puluh empat, Tuan Pengawas. Termasuk regu For
 
 Tharrow mengancingkan mantelnya satu kancing, tepat di tengah. "Urutan adalah bentuk paling awal dari keputusan, Petugas. Yang tidak terurut tidak akan pernah diputuskan." Ia melangkah keluar ke udara malam yang berbau garam, dan membiarkan kalimat itu bekerja pada pegawai itu lebih lama daripada yang dibutuhkan kalimat biasa.
 
-Ia adalah pembuat daftar — ia sudah mengakuinya di ruangan kerja Ossian Vael, pada malam ketika permintaan purganya ditolak dengan sopan seperti menolak sepiring makanan. Tetapi ada perbedaan antara pembuat daftar yang menulis nama atas perintah orang lain dan pembuat daftar yang menerima kabar. Yang pertama adalah perkakas. Yang kedua, sekurang-kurangnya dalam hitungan seseorang di suatu tempat di hulu, adalah bagian dari mesin yang layak diberi makan informasi. Malam ini mesin itu memberinya makan.
+Ia adalah pembuat daftar — ia sudah mengakuinya di ruangan bekerja Ossian Vael, pada malam ketika permintaan purganya ditolak dengan sopan seperti menolak sepiring makanan. Tetapi ada perbedaan antara pembuat daftar yang menulis nama atas perintah orang lain dan pembuat daftar yang menerima kabar. Yang pertama adalah perkakas. Yang kedua, sekurang-kurangnya dalam hitungan seseorang di suatu tempat di hulu, adalah bagian dari mesin yang layak diberi makan informasi. Malam ini mesin itu memberinya makan.
 
 ---
 
@@ -85,6 +85,6 @@ Renn, pemegang kontrak tujuh-belas-dua-koma, datang ke mejanya pukul delapan —
 
 Kuota yang dinaikkan di atas yang wajar. Shift yang dipotong sampai pendapatan menipis. Utang yang diaudit sampai tidurnya terbagi. Tidak satu pun langkah ini akan meninggalkan lebam. Itulah keindahannya. Orang yang dipukul dengan pasal tidak bisa menunjukkan luka kepada siapa pun, dan luka yang tidak bisa ditunjukkan pada akhirnya menjadi keyakinan bahwa yang gila adalah diri sendiri.
 
-Ketika bocah itu keluar, Tharrow membuka kembali memo audinya dan menambahkan satu baris di daftar dokumen yang diminta: riwayat penyakit keluarga pemegang kontrak, untuk keperluan penilaian kesesuaian beban kerja. Adiknya, pikirnya, menutup map itu. Adikan tanggungannya. Setiap kontrak punya titik lengket, dan titik lengket selalu berupa orang lain.
+Ketika bocah itu keluar, Tharrow membuka kembali memo audinya dan menambahkan satu baris di daftar dokumen yang diminta: riwayat penyakit keluarga pemegang kontrak, untuk keperluan penilaian kesesuaian beban bekerja. Adiknya, pikirnya, menutup map itu. Adikan tanggungannya. Setiap kontrak punya titik lengket, dan titik lengket selalu berupa orang lain.
 
 Di luar, lonceng shift siang berbunyi. Di dalam kotak arsip berkuncinya, satu kertas kecil menunggu dengan sabar untuk membuktikan dirinya benar atau salah, dan untuk pertama kalinya sejak ia ditempatkan di kota batu yang membosankan ini, Kel Tharrow pulang dengan perasaan bahwa malam berikutnya mungkin membawa kabar yang hanya diberikan kepada pemain.

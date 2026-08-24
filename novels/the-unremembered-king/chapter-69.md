@@ -65,11 +65,11 @@ Ia tidak menambahkan apa pun tentang dais. Tidak tentang geometri, tidak tentang
 
 ---
 
-Selesai rapat, di ruang kerja sewaannya, Maera membuka kotak timbung mini, mengambil salinan berita acara yang sah — satu-satunya salinan yang berbunyi sama dengan naskah induk — dan meletakkannya di lapisan bawah kotak, di bawah sketsa dari selatan, tempat barang-barang penting tidur. Di buku hitamnya ia menulis satu baris:
+Selesai rapat, di ruang bekerja sewaannya, Maera membuka kotak timbung mini, mengambil salinan berita acara yang sah — satu-satunya salinan yang berbunyi sama dengan naskah induk — dan meletakkannya di lapisan bawah kotak, di bawah sketsa dari selatan, tempat barang-barang penting tidur. Di buku hitamnya ia menulis satu baris:
 
 Hari 87. Halaman 9, baris 14: dua tinta. Diperbaiki. Salinan aman.
 
-Lalu ia duduk sebentar, memandangi lilin ungunya sendiri di atas rak, dan mengajukan kepada dirinya sendiri pertanyaan yang selalu ia ajukan pada akhir hari kerja — apa yang aku lakukan hari ini? Jawabannya kali ini sederhana dan jujur, dan karena itu enak dirasa. Hari ini ia tidak menemukan apa-apa baru tentang tambang, tidak menyelamatkan siapa pun dari lubang, tidak mengubah peta satu angka pun. Hari ini ia hanya membuat satu kalimat menjadi mustahil dilupakan oleh dunia.
+Lalu ia duduk sebentar, memandangi lilin ungunya sendiri di atas rak, dan mengajukan kepada dirinya sendiri pertanyaan yang selalu ia ajukan pada akhir hari bekerja — apa yang aku lakukan hari ini? Jawabannya kali ini sederhana dan jujur, dan karena itu enak dirasa. Hari ini ia tidak menemukan apa-apa baru tentang tambang, tidak menyelamatkan siapa pun dari lubang, tidak mengubah peta satu angka pun. Hari ini ia hanya membuat satu kalimat menjadi mustahil dilupakan oleh dunia.
 
 Kadang, kata buku hitamnya tanpa ditulis, senjata terbaik adalah yang tetap diam di sarungnya sampai pagi yang tepat. Ia meniup lilinnya, dan Caldrest turun ke malam dengan satu kalimat lebih kuat daripada kemarin, tanpa satu orang pun di kota itu — kecuali tiga pembaca komisi dan satu juru tulis abu — tahu bahwa sesuatu telah bergeser.
 

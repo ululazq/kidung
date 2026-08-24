@@ -45,13 +45,13 @@ Ashvarok menoleh terlambat. Seharusnya ia mendengar langkah bocah itu dari loron
 
 Di atas lempeng baja, di bawah cahaya bara, tergeletak belati yang tidak mungkin ada — besi tua patah yang pulih tanpa palu, dengan tepian yang berkilau seperti baru ditempa pandai besi terbaik Karvess — dan di sampingnya, di atas selembar kertas bekas, dua serpih besi kelabu pucat yang kemarin masih bagian dari belati itu, menua sendirian tanpa ditemani.
 
-Sela memandangi semua itu. Lalu memandangi kakaknya. Lalu — dan ini yang membuat dadanya sesak — memandangi lengan kanan kakaknya, di mana garis Jam Pasir berbaris di bawah kulit, dan menghubungkan semuanya dengan kecepatan yang selalu membuat Ashvarok takjub dan takut.
+Sela memandangi semua itu. Lalu memandangi kakaknya. Lalu — dan ini yang membuat dadanya sesak — memandangi lengan kanan kakaknya, di mana garis Hourglass berbaris di bawah kulit, dan menghubungkan semuanya dengan kecepatan yang selalu membuat Ashvarok takjub dan takut.
 
-"Bukan sulap," katanya pelan. Bukan pertanyaan. "Sulap pakai trik. Ini... seperti Brannoc bilang soal komandannya yang baca rumput rebah. Kamu baca besi. Dan besi nurut."
+"Bukan sulap," katanya pelan. Bukan pertanyaan. "Sulap pakai trik. Ini... seperti Brannoc bilang soal komandannya yang membaca rumput rebah. Kamu membaca besi. Dan besi nurut."
 
 "Sela."
 
-"Dulu kamu bilang pepekerjaan sampinganmu butuh tenaga. Aku pikir angkut batu gelap." Dia maju satu langkah, lalu satu lagi, dan berlutut di depan lempeng itu — tidak takut, tidak menjauh. Anak ini tidak pernah menjauh dari apa pun yang mau dia pahami. "Ini yang membuat kamu kurus. Bukan angkut batu. Kamu bayar pake badan."
+"Dulu kamu bilang pekerjaan sampinganmu butuh tenaga. Aku pikir angkut batu gelap." Dia maju satu langkah, lalu satu lagi, dan berlutut di depan lempeng itu — tidak takut, tidak menjauh. Anak ini tidak pernah menjauh dari apa pun yang mau dia pahami. "Ini yang membuat kamu kurus. Bukan angkut batu. Kamu bayar pakai badan."
 
 "Sela."
 
@@ -75,11 +75,11 @@ Sela terdiam lama. Ketika bicara lagi, suaranya adalah suara anak yang sedang me
 
 "Antik yang bagus malah makin mahal kalau tua."
 
-"Ini besi, Renn. Bukan cinder-glass." Dan di situlah anak sebelas tahun itu menatapnya dengan tatapan yang membuat raja seribu tahun merasa sudah diperiksa: "Kamu tidak asal memilih bahan latihan, kan? Kamu latihan pake besi supaya nanti saat kerja beneran, kamu pake kaca. Yang makin tua makin laku."
+"Ini besi, Renn. Bukan cinder-glass." Dan di situlah anak sebelas tahun itu menatapnya dengan tatapan yang membuat raja seribu tahun merasa sudah diperiksa: "Kamu tidak asal memilih bahan latihan, kan? Kamu latihan pakai besi supaya nanti saat bekerja beneran, kamu pakai kaca. Yang makin tua makin laku."
 
 Ashvarok membiarkan hening menjawab, karena hening adalah satu-satunya jawaban yang tidak menambah jumlah hal yang harus disembunyikan.
 
-"Kalau gitu," Sela bangkit, mengambil keranjangnya dan mengeluarkan roti Ibu Vess, "makan. Semua. Sampai habis. Karena besok kamu mau bayar badan lagi buat membuat barang buat anak Pak Brannoc, dan aku tidak mau barangnya jadi tapi kakaknya tinggal nama."
+"Kalau begitu," Sela bangkit, mengambil keranjangnya dan mengeluarkan roti Ibu Vess, "makan. Semua. Sampai habis. Karena besok kamu mau bayar badan lagi buat membuat barang buat anak Pak Brannoc, dan aku tidak mau barangnya jadi tapi kakaknya tinggal nama."
 
 Dia berhenti sebentar di ambang pintu, setengah keluar, dan berkata tanpa menoleh:
 

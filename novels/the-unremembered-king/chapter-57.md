@@ -15,7 +15,7 @@ Tidak ada kaitan dengan zona kedalaman. Dalam delapan pekan karantina, ia belum 
 
 "Ceritakan versi yang tidak masuk laporan."
 
-Kovan memilih kata-katanya dengan hati-hati orang yang pernah salah dua kali dan tidak berniat menambah koleksinya. "Barak itu punya aturan absen-nama. Pemborosan waktu — saya catat begitu bulan lalu. Malam ini aturan itu menyelamatkan tujuh belas dari dua puluh orang. Yang menarik bukan itu." Ia berhenti sebentar. "Yang menarik adalah siapa yang masuk lebih dulu ke blok gelap itu. Bukan Foreman. Foreman tiba belakangan dari luar halaman. Yang pertama masuk sendirian ke dalam dua puluh orang yang hilang adalah furnace boy lorong tujuh. Saya tanya empat saksi. Keempatnya menjawab sama persis: dia hanya membantu. Kata yang sama. Nada yang sama. Empat orang tidak berlatih bisa mengeluarkan kalimat yang identik hanya kalau ada satu orang yang mengingatkan mereka bahwa itu cerita yang benar."
+Kovan memilih kata-katanya dengan hati-hati orang yang pernah salah dua kali dan tidak berniat menambah koleksinya. "Barak itu punya aturan name-roll. Pemborosan waktu — saya catat begitu bulan lalu. Malam ini aturan itu menyelamatkan tujuh belas dari dua puluh orang. Yang menarik bukan itu." Ia berhenti sebentar. "Yang menarik adalah siapa yang masuk lebih dulu ke blok gelap itu. Bukan Foreman. Foreman tiba belakangan dari luar halaman. Yang pertama masuk sendirian ke dalam dua puluh orang yang hilang adalah furnace boy lorong tujuh. Saya tanya empat saksi. Keempatnya menjawab sama persis: dia hanya membantu. Kata yang sama. Nada yang sama. Empat orang tidak berlatih bisa mengeluarkan kalimat yang identik hanya kalau ada satu orang yang mengingatkan mereka bahwa itu cerita yang benar."
 
 Ossian menimbang hal itu dalam diam. Di luar jendela, Caldrest bergerak pelan seperti kota yang sedang menahan napas. Karantina masih berlaku, dan jawaban Anthema Spire atas permohonan pengikat Anthem-tier masih menunggu di lorong-lorong birokrasi lantai empat puluh yang mulai terasa jauh baginya seperti ibu kota di negeri lain.
 
@@ -43,7 +43,7 @@ Di ambang pintu barak, Brannoc menunggunya dengan sikap mandor yang datang membi
 
 "Tiga pertanyaan, Tuan," kata Brannoc, tanpa basa-basi, sesuai faksinya. "Aku jawab tiga. Lebih dari itu, surat resmi."
 
-"Kenapa barak ini punya aturan absen-nama?"
+"Kenapa barak ini punya aturan name-roll?"
 
 "Karantina membuat orang takut hal-hal aneh. Aturan murah, murahnya gratis, dan hasilnya nyata kemarin malam. Pertanyaan kedua?"
 
@@ -79,7 +79,7 @@ Tetapi api yang mengakhiri dunia tidak menambal retakan. Api yang mengakhiri dun
 
 Ia menutup buku itu. Ia tidak akan menulis lebih jauh malam ini. Kesimpulan yang datang sebelum bukti adalah doa, dan dirinya sudah terlalu tua untuk berdoa kepada legenda mana pun.
 
-Yang akan ia lakukan adalah pekerjaan yang selalu bisa ia lakukan: prosedur. Penilaian triwulan II harus berskala penuh — turun ke pintu buntu dengan tim bersertifikat dan pengikat senior, dengan tanggal yang diumumkan terbuka, karena penjaga yang bekerja dari jadwal lawannya harus akhirnya diberi jadwal miliknya sendiri. Biarkan faktor tak dikenal memilih: datang dan terlihat, atau menjauh dan kehilangan medannya.
+Yang akan ia lakukan adalah pekerjaan yang selalu bisa ia lakukan: prosedur. Penilaian triwulan II harus berskala penuh — turun ke blind door dengan tim bersertifikat dan pengikat senior, dengan tanggal yang diumumkan terbuka, karena penjaga yang bekerja dari jadwal lawannya harus akhirnya diberi jadwal miliknya sendiri. Biarkan faktor tak dikenal memilih: datang dan terlihat, atau menjauh dan kehilangan medannya.
 
 Ossian meniup lampunya dan berbaring di gelap, dan di gelap itu, seperti setiap malam selama delapan belas tahun, tiga nama yang tidak boleh ia ucapkan berdiri di ujung pikirannya — dan untuk pertama kalinya, ia mendengar ketiganya dengan cara yang berbeda: bukan sebagai korban monster, melainkan sebagai nama-nama yang entah dijaga oleh orang yang sama yang sekarang ia buru.
 

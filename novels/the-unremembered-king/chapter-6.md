@@ -13,7 +13,7 @@ Cinder, untaian pertama Emberweave. Ofensif: panas, ledakan, pedang api. Dulu ia
 
 Yang tidak utuh adalah bahan bakunya. Tubuh Renn adalah tungku kosong dengan sedikit arang di dasarnya.
 
-"Maka kita mulai dari yang paling murah," katanya pada tungku, karena berbicara dengan barang membuat jam kerja terasa lebih pendek — kebiasaan lama yang anehnya tetap masuk akal. "Panasmu. Yang sudah dibayar. Aku hanya pinjam bentuknya."
+"Maka kita mulai dari yang paling murah," katanya pada tungku, karena berbicara dengan barang membuat jam bekerja terasa lebih pendek — kebiasaan lama yang anehnya tetap masuk akal. "Panasmu. Yang sudah dibayar. Aku hanya pinjam bentuknya."
 
 Ia meletakkan telapak kanan di atas celah bata tempat panas mengalir keluar, dan mulai merajut.
 
@@ -57,7 +57,7 @@ Dua penambang masuk membawa obor dan keluhan.
 
 "Sejak malam ini." Ia menatap mereka dengan wajah bocah yang sangat muak bekerja. "Ada lagi? Kalau tidak ada, jangan berdiri di depan angin. Aku masih harus isi dua tungku sebelum pagi."
 
-Dua penambang itu saling melihat, menyerahkan nasib tekanan kepada anak yang ditunjuk surat, dan pergi sambil bergumam soal gigi berlubang yang lebih bisa dipercaya daripada penggantian mendadak. Ashvarok mengisi kedua tungku itu sungguhan — pepekerjaan yang juga menyelamatkannya. Gerakan rutin menyembunyikan tubuh yang sedang memakan dirinya sendiri dari dalam, satu sendok tenaga demi satu sendok.
+Dua penambang itu saling melihat, menyerahkan nasib tekanan kepada anak yang ditunjuk surat, dan pergi sambil bergumam soal gigi berlubang yang lebih bisa dipercaya daripada penggantian mendadak. Ashvarok mengisi kedua tungku itu sungguhan — pekerjaan yang juga menyelamatkannya. Gerakan rutin menyembunyikan tubuh yang sedang memakan dirinya sendiri dari dalam, satu sendok tenaga demi satu sendok.
 
 Pelajaran malam itu ia simpan di samping neraca biayanya. Polanya berhasil pada percobaan kedua, tubuh ini butuh latihan agar tidak boros, dan yang paling penting — Cinder tidak meninggalkan jejak bagi mata zaman ini, tetapi lapar ekstrem pasti kelihatan. Kesenjangan antara apa yang bisa dilakukan dan apa yang boleh dilihat harus ditutup dengan makanan.
 
@@ -81,7 +81,7 @@ Dia pulang subuh dengan cara berjalan sambil bersandar ke dinding distrik, dan S
 
 Ashvarok menyendok buburnya dengan tempo orang yang sedang membeli waktu. Anak sebelas tahun ini menghitung porsi makan kakaknya. Tentu saja dia menghitung. Semua angka keluarga ada di kepala bocah ini, termasuk jumlah suapan.
 
-"Ada pepekerjaan sampingan," kata dia akhirnya. Kebohongan parsial terbaik. Bagian yang benar harus cukup berat untuk menutup bagian yang hilang. "Tidak legal, tapi tidak melawan kontrak. Butuh tenaga dan membuat kurus. Dan bayarannya shardmark."
+"Ada pekerjaan sampingan," kata dia akhirnya. Kebohongan parsial terbaik. Bagian yang benar harus cukup berat untuk menutup bagian yang hilang. "Tidak legal, tapi tidak melawan kontrak. Butuh tenaga dan membuat kurus. Dan bayarannya shardmark."
 
 Sela menaruh mangkuknya. Bunyi keramik ke meja kayu di barak pagi hari adalah bunyi yang membuat tetangga kasur pura-pura tidur lebih dalam.
 
@@ -105,11 +105,11 @@ Mereka makan berdua dalam sunyi yang bukan sunyi dinding — sunyi dua orang yan
 
 Ashvarok menghabiskan airnya. Di dalam tubuh yang baru saja kehilangan satu hari cadangan, di bawah tulang yang masih berdenging dingin, pola sembilan simpul itu sudah duduk diam seperti pedang yang baru pertama kali diasah dan belum pernah digunakan.
 
-"Satu lagi," kata Sela di ambang pintu, memegang gelas kaca pecahnya dengan dua tangan. "Pepekerjaan sampinganmu itu — kalau suatu hari kau tidak pulang subuh, aku tidak akan nunggu di tangga seperti dulu."
+"Satu lagi," kata Sela di ambang pintu, memegang gelas kaca pecahnya dengan dua tangan. "Pepekerjaan sampinganmu itu — kalau suatu hari kau tidak pulang subuh, aku tidak akan menunggu di tangga seperti dulu."
 
 "Kau akan lapor?"
 
-"Aku akan cari." Matanya tenang dan tidak ada sedikit pun main-main. "Bedanya nunggu dan cari, kakakku yang dulu ngajarin aku. Katanya orang yang nunggu hanya numpang harapan. Orang yang cari bawa mata."
+"Aku akan cari." Matanya tenang dan tidak ada sedikit pun main-main. "Bedanya menunggu dan cari, kakakku yang dulu ngajarin aku. Katanya orang yang menunggu hanya numpang harapan. Orang yang cari bawa mata."
 
 Dia keluar ke pagi yang mulai ramai, dan Ashvarok menatap pintu yang tertutup itu lebih lama dari biasanya.
 

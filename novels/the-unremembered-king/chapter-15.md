@@ -5,7 +5,7 @@ chapter: 15
 
 Ada tiga jenis malam di tambang: malam yang bekerja, malam yang tidur, dan malam yang menunggu seseorang membuat kesalahan. Malam itu adalah jenis ketiga, dan Ashvarok memilihnya dengan sengaja — shift ketiga baru lewat satu jam, lorong-lorong sudah diserahkan kepada tikus dan tetesan air, dan di barak, Sela tertidur dengan papan tulisnya dipeluk seperti anak ayam yang salah mengira papan adalah induknya.
 
-Di papan tulis itu, sebelum pergi, ia menambahkan satu baris kecil di bawah kolom Jam Pasir: "Keluar subuh. Jangan cari." Dua kalimat palsu untuk satu kebenaran besar. Dia turun untuk membayar tagihan yang sudah jatuh tempo seribu tahun.
+Di papan tulis itu, sebelum pergi, ia menambahkan satu baris kecil di bawah kolom Hourglass: "Keluar subuh. Jangan cari." Dua kalimat palsu untuk satu kebenaran besar. Dia turun untuk membayar tagihan yang sudah jatuh tempo seribu tahun.
 
 Dia sudah menyusun tiga lapisan penutup sebelum turun. Pertama, untuk Brannoc. Daftar lorong aman minggu ini diserahkan lebih awal, lengkap dengan catatan bahwa lorong timur bawah butuh pemeriksaan dinding ulangan — alasan teknis untuk setiap langkahnya malam ini, kalau sampai ada yang bertanya pada orang yang salah. Kedua, untuk Sela. Dua kata di papan tulis, ditulis dengan tulisan tangannya sendiri supaya tidak ada yang bisa dipertanyakan kepadanya. Ketiga, untuk dunia. Tidak ada apa-apa. Dunia tidak perlu tahu. Dunia sudah membuktikan berulang kali bahwa ia tidur jauh lebih nyaman tanpa tahu.
 
@@ -13,7 +13,7 @@ Lorong B masih buntu seperti biasa. Ashvarok melewatinya tanpa berhenti, turun m
 
 Titik bocor itu tersembunyi di balik tirisan garam, selebar dua jari, tipis seperti rambut yang menyeret air. Kepada mata biasa, retakan batu biasa. Kepada telapak tangannya, pintu yang terbuka sedikit.
 
-Ia meletakkan jemari pada retakan itu dan mendengarkan, karena mendengarkan adalah separuh pepekerjaan kunci.
+Ia meletakkan jemari pada retakan itu dan mendengarkan, karena mendengarkan adalah separuh pekerjaan kunci.
 
 Dan retakan itu bernapas. Bukan irama tiga detik milik kedalaman — ini napas pendek, cepat, serak, seperti binatang kecil yang makan terus-menerus tanpa pernah kenyang. Setiap tarikannya menyedot sesuatu dari lorong di atas. Bukan gema batu, yang jumlahnya tak terhitung, melainkan barang yang jauh lebih langka. Nama. Wajah. Tempat seorang manusia di ingatan manusia lain. Lorong B adalah meja makannya; penambang tanpa nama di gerobak itu, makanan terbarunya.
 

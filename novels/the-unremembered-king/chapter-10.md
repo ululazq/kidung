@@ -11,11 +11,11 @@ Ia sendiri menonton kedatangan itu dari tepian lereng, dengan kesabaran orang me
 
 Kel Tharrow menyambutnya di tangga dengan busana resmi dan senyum yang disetrika. Dari jarak seratus hasta, Ashvarok bisa membaca pertemuan itu seperti membaca dua batu yang saling digesek. Masing-masing menguji kekerasan yang lain, dan masing-masing meninggalkan debu.
 
-"Field assayer," kata Vosk sore sebelumnya, ketika ia datang sendiri ke gudang Brannoc membawa bayaran klien kedua. Jarinya tidak dingin hari ini; dinginnya sudah dipindahkan ke nadanya. "Muda. Perempuan. Nama Tull. Datang buat survei kedalaman triwulanan, tapi dia bawa surat komisi yang aneh — aku tidak boleh tahu isinya, dan karena aku tidak boleh tahu, aku tahu." Ia melihat Ashvarok dengan mata penengah yang sedang menghitung risiko baru di pasarnya. "Pembaca teknis saya jangan sampai ketemu pembaca bersertifikat dalam kondisi memalukan. Kamu paham maksudku."
+"Field assayer," kata Vosk sore sebelumnya, ketika ia datang sendiri ke gudang Brannoc membawa bayaran klien kedua. Jarinya tidak dingin hari ini; dinginnya sudah dipindahkan ke nadanya. "Muda. Perempuan. Nama Tull. Datang buat survei kedalaman triwulanan, tapi dia bawa surat komisi yang aneh — aku tidak boleh tahu isinya, dan karena aku tidak boleh tahu, aku tahu." Ia melihat Ashvarok dengan mata penengah yang sedang menghitung risiko baru di pasarnya. "Technical reader saya jangan sampai ketemu pembaca bersertifikat dalam kondisi memalukan. Kamu paham maksudku."
 
 "Aku anak tungku yang merenung," kata Ashvarok. "Kita tidak akan bertemu."
 
-Mereka bertemu keesokan harinya, tentu saja, karena tambang adalah tempat yang sama untuk semua pepekerjaan, dan dunia terlalu kecil untuk dua jenis pembaca yang saling menghindar.
+Mereka bertemu keesokan harinya, tentu saja, karena tambang adalah tempat yang sama untuk semua pekerjaan, dan dunia terlalu kecil untuk dua jenis pembaca yang saling menghindar.
 
 Sebelum pertemuan resmi itu, ada satu perjumpaan yang tidak dihitung siapa pun kecuali keduanya. Malam sebelum survei dimulai, Ashvarok pulang lewat tepian pasar yang sudah tutup dan menemukan junior assayer itu berdiri sendirian di lorong barang jadi, mengangkat satu gelas lampu cinder-glass dari deretan meja kosong — tidak membelinya, hanya mengangkatnya, mendekatkan telinga seperti pendeta mendengarkan pengakuan dosa. Ashvarok berhenti tiga langkah, menimbang untuk maju atau mundur.
 
@@ -23,15 +23,15 @@ Assayer itu meletakkan gelas lampu tanpa menoleh.
 
 "Kaca ini berumur lebih muda daripada harganya," katanya, pada udara, pada kota, pada siapa pun yang bersedia dengar. "Tiga musim panen, bukan sepuluh. Pedagang di sini menjual usia palsu dengan harga usia asli." Sekarang ia menoleh, dan mata yang menghitung itu menemukan wajah bocah kurus dengan karung batu. "Kau setuju atau tidak?"
 
-"Saya hanya anak tungku yang pulang kerja."
+"Saya hanya anak tungku yang pulang bekerja."
 
-"Semua orang di kota ini hanya sesuatu yang sedang pulang kerja." Maera meletakkan gelas itu kembali persis pada posisi semula, diputar sampai arah yang sama. "Aku hitung malam ini: enam belas pedagang menjual umur palsu, tiga menjual asal-usul palsu, dan satu menjual jasa baca retakan yang tidak terdaftar di mana pun. Yang terakhir paling menarik. Sayangnya dia tidak pernah saya temui."
+"Semua orang di kota ini hanya sesuatu yang sedang pulang bekerja." Maera meletakkan gelas itu kembali persis pada posisi semula, diputar sampai arah yang sama. "Aku hitung malam ini: enam belas pedagang menjual umur palsu, tiga menjual asal-usul palsu, dan satu menjual jasa membaca retakan yang tidak terdaftar di mana pun. Yang terakhir paling menarik. Sayangnya dia tidak pernah saya temui."
 
 "Semoga cepat ketemu," kata Ashvarok. "Kalau dia tidak bahaya."
 
 "Semua hal yang bisa dibayar selalu ada orang yang bilang bahaya." Assayer itu mengangkat kotak kayunya dan melangkah melewati dia, dan baunya adalah baunya lilin ungu dan tinta murah — "Selamat malam, anak tungku."
 
-Ashvarok berdiri di pasar yang sunyi cukup lama untuk menghitung ulang semua rencananya. Jalur Vosk sudah bocor ke telinga Guild dalam sebelas jam kerja. Bukan karena Vosk bicara — penengah seperti itu tidak bicara, tetapi karena mata assayer menghitung apa yang dilihatnya di pasar, dan pasar Caldrest terlalu kecil untuk menyembunyikan arah uang.
+Ashvarok berdiri di pasar yang sunyi cukup lama untuk menghitung ulang semua rencananya. Jalur Vosk sudah bocor ke telinga Guild dalam sebelas jam bekerja. Bukan karena Vosk bicara — penengah seperti itu tidak bicara, tetapi karena mata assayer menghitung apa yang dilihatnya di pasar, dan pasar Caldrest terlalu kecil untuk menyembunyikan arah uang.
 
 ---
 
@@ -81,11 +81,11 @@ Pena itu bergerak lagi. Wajah assayer itu tidak memberi apa-apa.
 
 "Terima kasih. Tinggallah mudah dijangkau — survei kedalaman butuh sampel dari shift dasar, dan kau anak dasar yang masih hidup. Itu daftar pendek."
 
-Ashvarok bangkit, menyalami persis secukupnya, dan berbalik — dan itulah kenapa ia melihatnya. Sela di barisan pintu sudah berdiri, sudah setengah melangkah maju, sudah membuka mulut dengan wajah anak yang baru menemukan orang yang bisa menghargai angka-angkanya, dan kata-kata yang keluar setengahnya sudah terlihat di bibirnya: "Kakakku bisa baca—"
+Ashvarok bangkit, menyalami persis secukupnya, dan berbalik — dan itulah kenapa ia melihatnya. Sela di barisan pintu sudah berdiri, sudah setengah melangkah maju, sudah membuka mulut dengan wajah anak yang baru menemukan orang yang bisa menghargai angka-angkanya, dan kata-kata yang keluar setengahnya sudah terlihat di bibirnya: "Kakakku bisa membaca—"
 
 Ashvarok memutar badan, menjatuhkan toples air minum dari meja petugas dengan siku — pecahan, keributan, semua kepala menoleh, petugas berseru soal hati-hati, dan dalam dua detik kekacauan sempurna itu ia sudah berdiri di samping Sela dengan tangan di pundaknya, tertawa kecil seperti bocah yang malu.
 
-"Dia mau bilang aku bisa baca wajah orang," katanya pada ruangan, seraya menggiring adiknya keluar. "Tanda-tanda marah foreman, tanda-tanda hujan abu. Trik tungku, bukan ilmu."
+"Dia mau bilang aku bisa membaca wajah orang," katanya pada ruangan, seraya menggiring adiknya keluar. "Tanda-tanda marah foreman, tanda-tanda hujan abu. Trik tungku, bukan ilmu."
 
 Maera Tull menatap mereka melewati ambang pintu, dan pena kecilnya bergerak sekali lagi di atas kertas — satu baris, dua kata paling banyak, yang tidak akan dibacakan pada siapa pun.
 

@@ -3,7 +3,7 @@ title: "Bab 33: Dua Pembaca"
 chapter: 33
 ---
 
-Malam hari ketiga puluh sembilan, ruang kerja Guild di Caldrest hanya menyala oleh satu lampu minyak dan bara cerobong yang tinggal separuh. Maera Tull duduk di mejanya dengan lembar tawaran yang sudah dilipat empat, kotak timbung mini terbuka di sebelah kirinya, dan dua bobot referensi yang tidak ia gunakan sama sekali. Barang yang sedang ia timbang malam itu bukan barang. Barang yang sedang ia timbang bernama jabatan.
+Malam hari ketiga puluh sembilan, ruang bekerja Guild di Caldrest hanya menyala oleh satu lampu minyak dan bara cerobong yang tinggal separuh. Maera Tull duduk di mejanya dengan lembar tawaran yang sudah dilipat empat, kotak timbung mini terbuka di sebelah kirinya, dan dua bobot referensi yang tidak ia gunakan sama sekali. Barang yang sedang ia timbang malam itu bukan barang. Barang yang sedang ia timbang bernama jabatan.
 
 Pertanyaannya sederhana, dan karena sederhana ia menolak mengjawabnya cepat: apakah posisi pembanding internal adalah perangkap?
 
@@ -33,7 +33,7 @@ Maera tidak mempercepat langkah dan tidak memperlambatnya. Mengubah irama berart
 
 Sepanjang jalan menuju pasar, ia menghitung ulang peta pengawasan yang baru saja berubah bentuk. Kovan mengamati. Jadwal survei sudah disegel. Tujuh hari pertimbangannya sendiri tinggal empat hari, dan empat hari adalah empat hari terlalu banyak, karena setiap hari yang ia lewatkan dalam diam adalah satu hari penuh di mana orang yang tak bernama itu tidak tahu bahwa langitnya akan turun.
 
-Ada satu jalur yang tersisa, dan jalur itu sudah menjadi miliknya sejak kesepakatan triwulanan: penilaian rutin barang dagangan melalui Vosk, untuk klien anonim yang dalam buku besar penengah itu hanya bernama pembaca teknis.
+Ada satu jalur yang tersisa, dan jalur itu sudah menjadi miliknya sejak kesepakatan triwulanan: penilaian rutin barang dagangan melalui Vosk, untuk klien anonim yang dalam buku besar penengah itu hanya bernama technical reader.
 
 Hari ini jatuh pada tanggal penilaian triwulan. Kebetulan seperti itu tidak pernah ia percayai sebagai kebetulan. Tapi hari ini, untuk pertama kalinya, ia bersyukur padanya.
 
@@ -41,7 +41,7 @@ Hari ini jatuh pada tanggal penilaian triwulan. Kebetulan seperti itu tidak pern
 
 Pasar cinder-glass sore itu berbunyi seperti biasanya: gemerisik keping shardmark, teriakan tawaran yang dikecilkan agar terdengar seperti bisikan, gesekan troli besi di batu. Bau manis-semu air kembang tawar mendahului gerobak Vosk, seperti sudah menjadi kebiasaan benda-benda yang dimiliki lelaki itu untuk datang lebih dulu dari pemiliknya.
 
-"Assayer Tull." Vosk menurunkan berat badannya ke kursi dengan dua tahap, lalu membuka kotak konsinyasi di atas meja. Jarinya yang dingin menyusun tiga lot barang satu per satu. "Dua fragmen resonant seam kelas empat, dari lubang sewaan distrik barat. Satu tempaan kecil, sisa konsinyasi yang belum laku. Klien pembaca teknis menunggu penilaianmu seperti orang kampung menunggu surat."
+"Assayer Tull." Vosk menurunkan berat badannya ke kursi dengan dua tahap, lalu membuka kotak konsinyasi di atas meja. Jarinya yang dingin menyusun tiga lot barang satu per satu. "Dua fragmen resonant seam kelas empat, dari lubang sewaan distrik barat. Satu tempaan kecil, sisa konsinyasi yang belum laku. Klien technical reader menunggu penilaianmu seperti orang kampung menunggu surat."
 
 "Klienmu itu sabar."
 
@@ -69,13 +69,13 @@ Penilaian berjalan sebagaimana penilaian harus berjalan: telapak yang membaca di
 
 Ia menulis catatan pembacaan di lembar resmi, kalimat demi kalimat yang bagi telinga pasar hanyalah kehati-hatian seorang Assayer yang rajin:
 
-"Lot pertama, dua fragmen resonant seam kelas empat: gema dangkal, tanpa kedalaman yang layak dicatat. Catatan pembacaan: barang kelas ini hanya memberi angka benar bila dibaca pada radius kerja penuh, lima puluh hasta. Pada radius pendek, ia bersikap seperti batu biasa."
+"Lot pertama, dua fragmen resonant seam kelas empat: gema dangkal, tanpa kedalaman yang layak dicatat. Catatan pembacaan: barang kelas ini hanya memberi angka benar bila dibaca pada radius bekerja penuh, lima puluh hasta. Pada radius pendek, ia bersikap seperti batu biasa."
 
 "Lot kedua, satu tempaan kecil sisa konsinyasi: struktur sehat, patung wajar, nilai pasar stabil. Catatan penyimpanan: sesuai praktik tiap kalender survei, barang bergema disarankan tidak berada di dalam zona penilaian resmi selama survei berjalan. Kalender survei musim ini mencakup dua belas titik ukur dan turun perdana pada hari keempat puluh lima."
 
 "Lot ketiga: tidak ada barang. Catatan untuk lot kosong — setiap gema yang bukan milik barang akan tercatat sebagai milik barang. Bersihkan lot sebelum tanggal pembacaan."
 
-Ia membacanya sekali lagi dari luar, dengan mata pembaca yang tidak tahu apa-apa, dan menemukan catatan itu bersih: nasihat penyimpanan yang lazim, angka-angka yang bisa diverifikasi, bahasa Guild dari atas sampai bawah. Lalu ia membacanya dari dalam, sebagai pembaca teknis, dan menemukan pesan itu berdiri utuh di antara baris-barisnya seperti rangka di dalam tubuh. Survei resmi akan turun. Dua belas titik ukur. Hari keempat puluh lima. Instrumen resmi membaca pada radius lima puluh hasta. Dan lot ketiga — lot yang tidak berisi apa-apa kecuali peringatan — jangan ada gema asing di dalam saat tanggal itu.
+Ia membacanya sekali lagi dari luar, dengan mata pembaca yang tidak tahu apa-apa, dan menemukan catatan itu bersih: nasihat penyimpanan yang lazim, angka-angka yang bisa diverifikasi, bahasa Guild dari atas sampai bawah. Lalu ia membacanya dari dalam, sebagai technical reader, dan menemukan pesan itu berdiri utuh di antara baris-barisnya seperti rangka di dalam tubuh. Survei resmi akan turun. Dua belas titik ukur. Hari keempat puluh lima. Instrumen resmi membaca pada radius lima puluh hasta. Dan lot ketiga — lot yang tidak berisi apa-apa kecuali peringatan — jangan ada gema asing di dalam saat tanggal itu.
 
 Tujuh hari pertimbangannya sudah habis dalam empat hari, dan sisanya ia pakai untuk ini.
 
@@ -87,7 +87,7 @@ Tujuh hari pertimbangannya sudah habis dalam empat hari, dan sisanya ia pakai un
 
 "Musim ini panjang."
 
-"Lalu lot-lot berikutnya juga akan panjang catatannya." Vosk tidak menunggu jawaban. Ia hanya mengangguk pada dirinya sendiri, memasukkan lembar bersigel itu ke dalam kotak pengiriman khusus untuk klien pembaca teknis — kotak yang tidak pernah lewat tangan kurir sembarangan — dan menutupnya. Delapan persen dari nilai tiga lot ia hitung keras-keras, menyisihkan kepingnya ke piring kecil, dan sisanya ia dorong ke arah Maera. "Konsinyasi tempaan laku minggu depan, kalau kau mau angka finalnya."
+"Lalu lot-lot berikutnya juga akan panjang catatannya." Vosk tidak menunggu jawaban. Ia hanya mengangguk pada dirinya sendiri, memasukkan lembar bersigel itu ke dalam kotak pengiriman khusus untuk klien technical reader — kotak yang tidak pernah lewat tangan kurir sembarangan — dan menutupnya. Delapan persen dari nilai tiga lot ia hitung keras-keras, menyisihkan kepingnya ke piring kecil, dan sisanya ia dorong ke arah Maera. "Konsinyasi tempaan laku minggu depan, kalau kau mau angka finalnya."
 
 "Kirim angka finalnya lewat saluran yang sama."
 

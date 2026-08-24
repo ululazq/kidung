@@ -11,9 +11,9 @@ Pencerita pagi itu adalah Ondar, dan pendengarnya dua penambang muda galeri sebe
 
 "Lalu tunggul itu," tanya anak sekolah itu. "Batunya, Om. Kata orang-orang batunya lahir malam itu."
 
-"Iya." Ondar mengangguk dengan wajah serius orang yang membicarakan kerabat. "Batu yang empat pulang, begitu regu menyebutnya sekarang. Bukan nama resmi, belum. Tapi tiap kali kami lewat lorong itu, yang muda-muda nyebut begitu, dan batunya diam sopan, seperti orang yang mendengar namanya dipanggil tapi belum mau menjawab karena belum yakin itu namanya."
+"Iya." Ondar mengangguk dengan wajah serius orang yang membicarakan kerabat. "The Stone of Four Returns, begitu regu menyebutnya sekarang. Bukan nama resmi, belum. Tapi tiap kali kami lewat lorong itu, yang muda-muda menyebut begitu, dan batunya diam sopan, seperti orang yang mendengar namanya dipanggil tapi belum mau menjawab karena belum yakin itu namanya."
 
-Ashvarok, yang sedang mencuci mangkuk di bak sebelahnya dengan identitas pinjaman yang sedang diceritakan, membiarkan tangannya tetap bergerak pada kecepatan yang benar untuk orang yang tidak mendengarkan. Batu yang empat pulang. Empat suku kata yang tumbuh sendiri dari mulut regu yang pulang, persis seperti prinsip yang ia tulis di margin kertasnya sepuluh hari lalu. Nama itu bahkan belum ditenun oleh siapa pun, dan tunggul di lorong troli timur sudah mendengarnya berkali-kali dari para pejalan. Saat yang tepat untuk penenaian akan datang nanti, dari tangan yang berhak, dan ia hanya perlu hadir sebagai salah satu telinga.
+Ashvarok, yang sedang mencuci mangkuk di bak sebelahnya dengan identitas pinjaman yang sedang diceritakan, membiarkan tangannya tetap bergerak pada kecepatan yang benar untuk orang yang tidak mendengarkan. The Stone of Four Returns. Empat suku kata yang tumbuh sendiri dari mulut regu yang pulang, persis seperti prinsip yang ia tulis di margin kertasnya sepuluh hari lalu. Nama itu bahkan belum ditenun oleh siapa pun, dan tunggul di lorong troli timur sudah mendengarnya berkali-kali dari para pejalan. Saat yang tepat untuk penenaian akan datang nanti, dari tangan yang berhak, dan ia hanya perlu hadir sebagai salah satu telinga.
 
 "Cerita kamu naik terus panjangnya, Ondar," kata ibu Tamma dari meja panjang, tanpa menoleh dari daftar absennya. "Seminggu lagi batunya sudah punya silsilah."
 
@@ -47,7 +47,7 @@ Ia menghitung dengan napasnya, sabar, tanpa mengharapkan apa pun, dan pada detik
 
 Ashvarok melepaskan tangannya dan berdiri diam di lorong mati itu beberapa waktu lebih lama daripada yang aman.
 
-Angka itu sudah ia hafal sepuluh hari. Angka pembandingnya juga. Sejak penyegelan celah kedua di dasar galeri sembilan, the Remainder-nya mundur mendekati lantai terendah pra-Long Dusk, garis yang dulu menjadi titik nol semua hitungannya, ambang di bawahnya dunia menipis menjadi sketsa dari dirinya sendiri. Sepuluh hari penuh kemudian, setelah dapur barak bercerita tiap pagi, setelah peta nama di klinik dicentang baris demi baris, setelah lingkar absen-nama menutup gerbongnya tiap malam, dan setelah cerita-cerita kecil yang jujur naik turun lewat udara tambang seperti air yang menemukan jalurnya sendiri, angkanya telah melewati garis itu dari arah yang benar. Bukan mendekati lantai dari atas. Melainkan berdiri di atasnya, sebesar gigi keenam yang bangun.
+Angka itu sudah ia hafal sepuluh hari. Angka pembandingnya juga. Sejak penyegelan celah kedua di dasar galeri sembilan, the Remainder-nya mundur mendekati lantai terendah pra-Long Dusk, garis yang dulu menjadi titik nol semua hitungannya, ambang di bawahnya dunia menipis menjadi sketsa dari dirinya sendiri. Sepuluh hari penuh kemudian, setelah dapur barak bercerita tiap pagi, setelah name map di klinik dicentang baris demi baris, setelah lingkar name-roll menutup gerbongnya tiap malam, dan setelah cerita-cerita kecil yang jujur naik turun lewat udara tambang seperti air yang menemukan jalurnya sendiri, angkanya telah melewati garis itu dari arah yang benar. Bukan mendekati lantai dari atas. Melainkan berdiri di atasnya, sebesar gigi keenam yang bangun.
 
 Untuk pertama kalinya sejak lima panglima jatuh satu per satu menahan retakan pertama, ia memiliki lebih banyak diri daripada yang ia miliki pada malam terburuk zaman lamanya.
 
@@ -63,7 +63,7 @@ Brannoc memandangnya sebentar, dan mandor itu, yang dua tahun lalu tidak tahu ha
 
 "Lalu kamu bayar apa?"
 
-"Nihil. Ujiannya baca saja, dan batunya memang sudah mati." Ashvarok tersenyum kecil, ekspresi yang jarang cukup lama di wajahnya untuk dilihat siapa pun. "Pembayarannya sudah dicicil orang lain. Tiap pagi, di dapur, tanpa tahu mereka sedang membayar."
+"Nihil. Ujiannya membaca saja, dan batunya memang sudah mati." Ashvarok tersenyum kecil, ekspresi yang jarang cukup lama di wajahnya untuk dilihat siapa pun. "Pembayarannya sudah dicicil orang lain. Tiap pagi, di dapur, tanpa tahu mereka sedang membayar."
 
 "Maka jaga dapurnya," kata Brannoc, sambil memimpin jalan naik ke permukaan. "Itu satu-satunya gudang yang tidak bisa diganti kalau terbakar."
 
@@ -77,10 +77,10 @@ Sela mendengarkan habis, lalu membuka kolom baru di halaman belakang papannya, k
 
 "Kolom apa itu?" tanya Ashvarok.
 
-"Kolom PULIH." Adik angkatnya menutup kapurnya dengan tegas. "Jam Pasir mencatat kamu habis. Kolom ini mencatat kamu ada. Biar seimbang."
+"Kolom PULIH." Adik angkatnya menutup kapurnya dengan tegas. "Hourglass mencatat kamu habis. Kolom ini mencatat kamu ada. Biar seimbang."
 
 Malam itu ritual panggil-nama blok timur menutup lingkarannya seperti biasa, gerbong demi gerbong, jawaban keras demi jawaban keras, dan Ashvarok berdiri di tepinya sebagai Renn, menjawab nama orang lain dan menyebut namanya sendiri pada gilirannya, dengan tubuh yang sedikit lebih penuh daripada kemarin. Jauh di kedalaman, di lorong troli timur, sebuah batu penyangga berdiri tegak dalam gelap sambil menunggu namanya dipanggil dengan benar, dan di permukaan, di dapur barak yang mulai padam, cerita-cerita kecil tentang kuli ventilasi itu sudah bersiap naik lagi esok pagi, satu demi satu, jujur dan bertanggal, memberi makan raja yang tidak pernah mereka kenal dengan makanan yang hanya bisa dibayar oleh kebenaran.
 
 ---
 
-Dan jauh dari Caldrest, di Anthema Spire yang menembus awan, sebuah arsip regional sedang dibaca di lantai yang tidak pernah dikunjungi Ossian Vael. Map riset berisi permintaannya tentang lima panglima lama, map yang ia kirimi kop Koordinasi sebagai sampul klasifikasi artefak, terbuka lebih dulu di meja tangan lain, dan segelnya yang putih-abu berbenang timah baru saja dipotong rapi. Mata lain mulai membaca perburuan Ossian.
+Dan jauh dari Caldrest, di Anthema Spire yang menembus awan, sebuah arsip regional sedang dibaca di lantai yang tidak pernah dikunjungi Ossian Vael. Map riset berisi permintaannya tentang lima panglima lama, map yang ia kirimi kop Koordinasi sebagai sampul klasifikasi artefak, terbuka lebih dulu di meja tangan lain, dan segelnya yang putih-abu threaded with tin baru saja dipotong rapi. Mata lain mulai membaca perburuan Ossian.

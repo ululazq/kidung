@@ -3,9 +3,9 @@ title: "Bab 47: Bicara Sama Lubang"
 chapter: 47
 ---
 
-Karantina ringan hari pertama terlihat dari barak sebagai sesuatu yang sederhana: tidak ada yang berangkat kerja.
+Karantina ringan hari pertama terlihat dari barak sebagai sesuatu yang sederhana: tidak ada yang berangkat bekerja.
 
-Hari kedua terlihat sebagai sesuatu yang lebih mahal: tidak ada yang berangkat kerja, dan tidak ada uang untuk menutupi kenyataan itu. Santunan simbolis dari Quota Office — dua shardmark per kepala per hari, dibayar dengan antre satu jam di bawah matahari yang menyengat — cukup untuk roti dan tidak cukup untuk apa pun yang biasa dibeli orang Caldrest supaya lupa bahwa mereka tinggal di atas tambang. Pasar cinder-glass mengikuti hukumnya sendiri dengan kesetiaan seorang penadah: Vosk melapor lewat lot kosong ketiga bahwa pembeli utama kota ini adalah penambang bergaji mingguan, dan penambang tanpa gaji membeli cerita lebih murah daripada mata pisau.
+Hari kedua terlihat sebagai sesuatu yang lebih mahal: tidak ada yang berangkat bekerja, dan tidak ada uang untuk menutupi kenyataan itu. Santunan simbolis dari Quota Office — dua shardmark per kepala per hari, dibayar dengan antre satu jam di bawah matahari yang menyengat — cukup untuk roti dan tidak cukup untuk apa pun yang biasa dibeli orang Caldrest supaya lupa bahwa mereka tinggal di atas tambang. Pasar cinder-glass mengikuti hukumnya sendiri dengan kesetiaan seorang penadah: Vosk melapor lewat lot kosong ketiga bahwa pembeli utama kota ini adalah penambang bergaji mingguan, dan penambang tanpa gaji membeli cerita lebih murah daripada mata pisau.
 
 Kas regu turun ke sembilan shardmark dalam tiga hari, meskipun pabrik kecil Ashvarok tetap produksi. Barang-barang tempaan murah itu menumpuk di peti gudang perkakas seperti ikan yang tidak ada yang mau membeli di musim puasa, dan Sela mencatatnya di kolom PRODUKSI dengan angka nol tujuh kali berturut-turut sampai anak itu menolak menulis nol kedelapan karena, katanya, papan tulis bukan tempat menyimpan aib.
 
@@ -25,7 +25,7 @@ Brannoc pulang dari Quota Office pada sore hari kelima puluh delapan dengan waja
 
 "Dari kantong siapa?" tanya ibu Tamma.
 
-"Kantong karantina. Yang isinya uang Choir." Brannoc mengunyah akar pahitnya sampai bunyinya, dan hanya Ashvarok yang tahu bunyi itu artinya marah. "Jadi begini posisi saya. Perusahaan bilang saya pegang regu inspeksi atau diganti. Regu bilang saya pemimpinnya atau mereka cari mandor lain. Dan empat puluhan keluarga di timur hitung shardmark santunan sambil nunggu daftar pemindahan yang belum dicoret. Semua mau saya pilih jalannya, semua tidak mau ikut tanggung biayanya."
+"Kantong karantina. Yang isinya uang Choir." Brannoc mengunyah akar pahitnya sampai bunyinya, dan hanya Ashvarok yang tahu bunyi itu artinya marah. "Jadi begini posisi saya. Perusahaan bilang saya pegang regu inspeksi atau diganti. Regu bilang saya pemimpinnya atau mereka cari mandor lain. Dan empat puluhan keluarga di timur hitung shardmark santunan sambil menunggu daftar pemindahan yang belum dicoret. Semua mau saya pilih jalannya, semua tidak mau ikut tanggung biayanya."
 
 "Maka jangan pilih," kata Ashvarok.
 
@@ -81,11 +81,11 @@ Sela mendengarkan tanpa memotong sekali pun, yang pada anak itu adalah bentuk ke
 
 Lalu ia menutup bagian terakhirnya dengan pintu yang sengaja tidak dikunci rapat: ada nama yang pernah dimilikinya, kata Ashvarok, dan nama itu dibakarnya sendiri, dan cerita tentang nama itu bukan cerita untuk malam ini.
 
-"Pria abu," kata Sela akhirnya. Suaranya datar, hati-hati, seperti orang menguji lantai es. "Di mimpi. Yang menghitung. Itu kamu."
+"Ash Man," kata Sela akhirnya. Suaranya datar, hati-hati, seperti orang menguji lantai es. "Di mimpi. Yang menghitung. Itu kamu."
 
 "Iya."
 
-Anak itu menunduk ke papannya, membuka tutupnya, dan membaca ulang kolom-kolomnya sendiri — Jam Pasir, HARI MAERA, PRODUKSI, daftar sembilan belas nama di sudut belakang — inventaris lengkap dari segala yang ia catat tanpa pernah tahu tentang apa. Ketika ia mengangkat kepala, matanya merah tetapi suaranya sudah dikumpulkan habis.
+Anak itu menunduk ke papannya, membuka tutupnya, dan membaca ulang kolom-kolomnya sendiri — Hourglass, HARI MAERA, PRODUKSI, daftar sembilan belas nama di sudut belakang — inventaris lengkap dari segala yang ia catat tanpa pernah tahu tentang apa. Ketika ia mengangkat kepala, matanya merah tetapi suaranya sudah dikumpulkan habis.
 
 "Aku butuh waktu," kata Sela. "Bukan untuk percaya. Aku sudah lama percaya. Untuk... menyusun ulang." Ia mengambil kapurnya, dan di bawah kolom HARI MAERA ia menulis kolom baru dengan judul yang membuat tenggorokan Ashvarok sempit: HAL YANG AKU TAHU SEKARANG. Baris pertamanya hanya satu kalimat. Kakaku bukan kakakku, tapi dia yang menjaga.
 

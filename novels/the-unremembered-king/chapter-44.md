@@ -3,7 +3,7 @@ title: "Bab 44: Pasal Keadaan Kosong"
 chapter: 44
 ---
 
-Papan pengumuman Quota Office punya urutan baca yang tidak diajarkan siapa pun tetapi semua anak Caldrest hafal: mulai dari kanan bawah, karena di situlah dulu selalu tertempel daftar rotasi troli, hal yang paling membosankan dan paling aman.
+Papan pengumuman Quota Office punya urutan membaca yang tidak diajarkan siapa pun tetapi semua anak Caldrest hafal: mulai dari kanan bawah, karena di situlah dulu selalu tertempel daftar rotasi troli, hal yang paling membosankan dan paling aman.
 
 Pagi itu, hari kelima puluh empat, urutan itu mati. Ada lembar baru di tengah papan, lebih besar dari yang biasa, dicetak dengan huruf cetak — bukan tulisan tangan pegawai, artinya datangnya dari atas, mungkin dari jauh di atas — dan kerumunan orang berdiri di hadapannya dalam jarak setengah langkah, jarak orang yang tidak ingin disentuh kabar buruk tetapi juga tidak ingin ketinggalan.
 
@@ -19,7 +19,7 @@ Sela membacanya dua kali, lalu bertanya, sesuai protokolnya sendiri, kepada duni
 
 Tidak ada jawaban. Orang dewasa di sekitarnya sibuk membaca bagian yang menyentuh mereka sendiri.
 
-"Kenapa sekolah?" Ia menunduk ke lembar itu lagi, mencari pasalnya. "Anggarannya dipotong buat bayar daftar nama orang lain."
+"Kenapa sekolah?" Ia menunduk ke lembar itu lagi, mencari pasalnya. "Anggarannya dipotong untuk bayar daftar nama orang lain."
 
 "Kenapa sekarang?" Ini pertanyaan ketiga, dan pertanyaan ketiga selalu yang paling tajam, karena jawabannya harus tentang waktu. Daftar distrik timur sudah ada sejak lama. Kuota naik turun tiap musim. Tapi potongan anggaran sekolah baru muncul seminggu setelah survei kedalaman pertama selesai bersih — seolah seseorang baru selesai membayar satu meja besar dan butuh uang untuk meja berikutnya.
 
@@ -35,13 +35,13 @@ Ruang makan barak malam itu penuh, dan penuh bukan dengan makan. Ibu-ibu galeri 
 
 "Diam, Ondar," kata ibu Tamma dari galeri tujuh, tanpa kejam. "Bukan kamu yang kita bicarakan."
 
-Brannoc berdiri di kepala meja panjang, dan Sela, dari bangku paling ujung, memperhatikan sesuatu yang tidak biasa: Foreman itu meletakkan akar pahitnya di atas meja, tergulung, belum digigit. Bahu kanannya turun lebih rendah dari biasa. Orang yang kata kerjanya selalu di depan sedang kesulitan menemukan kata kerja.
+Brannoc berdiri di kepala meja panjang, dan Sela, dari bangku paling ujung, memperhatikan sesuatu yang tidak biasa: Foreman itu meletakkan akar pahitnya di atas meja, tergulung, belum digigit. Bahu kanannya turun lebih rendah dari biasa. Orang yang kata kerjanya selalu di depan sedang kesulitan menemukan kata bekerja.
 
-"Kita punya dua jalur," kata Brannoc akhirnya. "Sanggahan tertulis lewat saluran lisensi, resmi, satu shardmark per kepala. Atau diam dan tunggu penilaian ulangnya lewat, sambil berharap daftar itu cuma daftar, seperti biasa."
+"Kita punya dua jalur," kata Brannoc akhirnya. "Sanggahan tertulis lewat saluran lisensi, resmi, satu shardmark per kepala. Atau diam dan tunggu penilaian ulangnya lewat, sambil berharap daftar itu hanya daftar, seperti biasa."
 
-"Sanggahan bikin nama kita naik," kata salah satu ayah timur.
+"Sanggahan membuat nama kita naik," kata salah satu ayah timur.
 
-"Diam bikin nama anak kita turun dari bangku sekolah," kata ibu Tamma.
+"Diam membuat nama anak kita turun dari bangku sekolah," kata ibu Tamma.
 
 Suara meninggi di titik itu, dan Sela mendengar Brannoc menurunkannya dengan satu tangan yang diangkat — bukan suara, hanya tangan — dan itulah saat Foreman itu mengatakan hal yang membuat seluruh ruangan berhenti:
 
@@ -55,11 +55,11 @@ Sela baru sadar kemudian bahwa ia telah menghitung: tiga puluh satu keluarga di 
 
 "Kenapa kamu ikut bicara soal Harn?" tanyanya kepada Brannoc setelah kerumunan bubar, ketika keduanya sama-sama tersisa mencuci mangkuk karena tidak ada yang menyuruh. "Dia aman di sana. Jauh dari timur. Jauh dari segalanya."
 
-Brannoc mencuci mangkuk dengan cara orang yang membersihkan senjata. "Anggarannya, Nak. Sekolah asrama itu separuh dibiayai kas program pendidikan tambang. Kas programnya dipotong untuk bayar daftar distrik timur. Maka asramanya kurang. Kalau asrama kurang, anak-anaknya dikembalikan ke keluarga. Dan keluargaku cuma aku, dan aku hidup di barak." Ia menaruh mangkuk terakhir. "Mereka tidak perlu sentuh anakku langsung. Cukup potong uangnya sedikit, dari jauh, lewat pasal. Anak itu pulang sendiri."
+Brannoc mencuci mangkuk dengan cara orang yang membersihkan senjata. "Anggarannya, Nak. Sekolah asrama itu separuh dibiayai kas program pendidikan tambang. Kas programnya dipotong untuk bayar daftar distrik timur. Maka asramanya kurang. Kalau asrama kurang, anak-anaknya dikembalikan ke keluarga. Dan keluargaku hanya aku, dan aku hidup di barak." Ia menaruh mangkuk terakhir. "Mereka tidak perlu sentuh anakku langsung. Cukup potong uangnya sedikit, dari jauh, lewat pasal. Anak itu pulang sendiri."
 
-Sela mengeringkan tangannya di paha. Pertanyaan ketiganya sudah terbentuk sebelum yang kedua selesai dijawab: "Kenapa mereka butuh uang sekolah anak-anak untuk bayar daftar? Daftar itu cuma nama. Nama nggak mahal."
+Sela mengeringkan tangannya di paha. Pertanyaan ketiganya sudah terbentuk sebelum yang kedua selesai dijawab: "Kenapa mereka butuh uang sekolah anak-anak untuk bayar daftar? Daftar itu hanya nama. Nama tidak mahal."
 
-"Nama tidak mahal." Brannoc memandangnya, dan di wajah tua itu ada sesuatu yang jarang tampak — kelelahan yang tidak menyangkut otot. "Yang mahal itu apa yang dilakukan setelah namanya ditulis. Pindah orang itu mahal. Bongkar rumah itu mahal. Bayar petugas, bayar troli, bayar kertas. Semua itu butuh kas, dan kas tambang cuma ada satu." Ia mengunyah rahang kosong, kebiasaan tanpa akar pahit. "Dulu potongan-potongan datang dari kuota, dari shift, dari barang yang bisa dihitung orang dewasa. Sekarang datang dari sekolah. Itu tandanya daftarnya sudah selesai, Nak. Yang sekarang jalan bukan lagi pembuat daftar. Yang sekarang jalan adalah pelaksananya."
+"Nama tidak mahal." Brannoc memandangnya, dan di wajah tua itu ada sesuatu yang jarang tampak — kelelahan yang tidak menyangkut otot. "Yang mahal itu apa yang dilakukan setelah namanya ditulis. Pindah orang itu mahal. Bongkar rumah itu mahal. Bayar petugas, bayar troli, bayar kertas. Semua itu butuh kas, dan kas tambang hanya ada satu." Ia mengunyah rahang kosong, kebiasaan tanpa akar pahit. "Dulu potongan-potongan datang dari kuota, dari shift, dari barang yang bisa dihitung orang dewasa. Sekarang datang dari sekolah. Itu tandanya daftarnya sudah selesai, Nak. Yang sekarang jalan bukan lagi pembuat daftar. Yang sekarang jalan adalah pelaksananya."
 
 Sela menyimpan kalimat itu di tempat kalimat-kalimat penting disimpan, di samping catatan Maera tentang kursi di Spire dan catatan Vosk tentang jendela-jendela yang menutup.
 
@@ -77,7 +77,7 @@ Dua ujung dari satu garis yang sama, pikirnya. Orang yang hilang namanya, dan or
 
 "Lembar baru," kata Sela. "Di Quota Office."
 
-"Aku dengar. Sekolah." Perawat tua itu membersihkan tangannya dengan kain. "Tiga puluh tahun aku kerja di sini, Nak. Setiap kali kota ini mau memindah orang, mereka mulai dari yang paling tidak bisa membales. Dulu pasar kecil. Lalu penginapan murah. Sekarang sekolah." Ia melihat ke dalam gelap, ke arah lereng tambang. "Orang-orang barakmu mau sanggah?"
+"Aku dengar. Sekolah." Perawat tua itu membersihkan tangannya dengan kain. "Tiga puluh tahun aku bekerja di sini, Nak. Setiap kali kota ini mau memindah orang, mereka mulai dari yang paling tidak bisa membales. Dulu pasar kecil. Lalu penginapan murah. Sekarang sekolah." Ia melihat ke dalam gelap, ke arah lereng tambang. "Orang-orang barakmu mau sanggah?"
 
 "Satu paket."
 
@@ -93,17 +93,17 @@ Ashvarok pulang dari shift malam ketika lampu kecil sudah nyala, dan menemukan S
 
 Karena potongan lain membuat orang dewasa marah, pikir Ashvarok, sedangkan sekolah membuat mereka takut, dan takut membuat mereka taat lebih lama daripada marah. Ia tidak mengatakan itu.
 
-"Karena sekolah tidak bisa dijual balik," katanya. "Potongan kuota bisa dikejar dengan kerja ekstra. Potongan sekolah tidak. Siapa pun yang memotongnya ingin tekanan yang tidak bisa diselesaikan dengan lembur."
+"Karena sekolah tidak bisa dijual balik," katanya. "Potongan kuota bisa dikejar dengan bekerja ekstra. Potongan sekolah tidak. Siapa pun yang memotongnya ingin tekanan yang tidak bisa diselesaikan dengan lembur."
 
-"Harn pulang kalau gitu." Sela menatap kolom-kolom papannya. "Ke barak. Ke sini."
+"Harn pulang kalau begitu." Sela menatap kolom-kolom papannya. "Ke barak. Ke sini."
 
 "Itu mungkin."
 
-"Lalu dia nggak sekolah, dan Brannoc kerja dobel, dan kalau daftar timurnya jalan juga, regunya pecah duluan sebelum anak-anaknya pindah." Anak itu menulis tiga huruf di tepi papan — hitungan yang hanya dimengertinya sendiri — lalu mendongak. "Kamu bisa bikin barang buat dilunasin lagi, kan? Seperti dulu. Kontrak Harn dulu dilunasin pakai pisau."
+"Lalu dia tidak sekolah, dan Brannoc bekerja ganda, dan kalau daftar timurnya jalan juga, regunya pecah duluan sebelum anak-anaknya pindah." Anak itu menulis tiga huruf di tepi papan — hitungan yang hanya dimengertinya sendiri — lalu mendongak. "Kamu bisa membuat barang untuk dilunasi lagi, kan? Seperti dulu. Kontrak Harn dulu dilunasi pakai pisau."
 
 "Programnya yang dipotong, bukan hutangnya. Barang tidak menutup program yang mati." Ashvarok duduk di tepi ranjangnya, dan kelelahan Forge-hari itu masih menagih bunga dari ototnya. "Yang bisa menutup program adalah orang yang memotongnya berubah pikiran, atau kas tambang tiba-tiba cukup lagi. Dua-duanya bukan barang yang bisa kutempa."
 
-"Jadi nggak ada yang bisa dilakukan?"
+"Jadi tidak ada yang bisa dilakukan?"
 
 "Aku bilang bukan barang yang bisa kutempa," kata Ashvarok. "Aku tidak bilang tidak ada yang bisa dilakukan."
 

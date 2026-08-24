@@ -43,7 +43,7 @@ Dapur itu sunyi sebentar. Air menetes dari keran ke ember, dan suara tetesnya te
 
 "Apa?"
 
-"Seperti kamunya." Adik angkatnya menatap lurus, dengan tatapan bocah yang bertanya tiga kali dan selalu pada pertanyaan yang paling dalam. "Kamu selalu bilang sisa dirimu cuma pulih kalau diberi makan cerita yang benar. Cerita legenda tidak bisa. Yang bisa cuma yang jujur. Rak garam. Engsel pintu. Sup yang diminum bukan dihitung." Ia menunjuk arah tambang dengan dagunya. "Nah. Batu itu sama. Legenda seribu tahun nggak memberi makan. Yang bisa memberi makan cuma cerita yang benar tentang dirinya."
+"Seperti kamunya." Adik angkatnya menatap lurus, dengan tatapan bocah yang bertanya tiga kali dan selalu pada pertanyaan yang paling dalam. "Kamu selalu bilang sisa dirimu hanya pulih kalau diberi makan cerita yang benar. Cerita legenda tidak bisa. Yang bisa hanya yang jujur. Rak garam. Engsel pintu. Sup yang diminum bukan dihitung." Ia menunjuk arah tambang dengan dagunya. "Nah. Batu itu sama. Legenda seribu tahun tidak memberi makan. Yang bisa memberi makan hanya cerita yang benar tentang dirinya."
 
 Untuk beberapa tarikan napas Ashvarok tidak bisa bicara sama sekali.
 
@@ -51,7 +51,7 @@ Selama setahun penuh ia menganggap hukum pemulihan the Remainder sebagai keaneha
 
 "Maka seni raja era ini punya harga baru," katanya pelan, dan kalimat itu terasa lebih tua dari umurnya sendiri. "Name tidak bisa lagi dipakai dengan meminjam nama yang terbukti. Setiap penamaan harus diberi makan cerita yang benar tentang benda yang dinamai, cerita yang benar-benar terjadi padanya, dari mulut yang benar-benar tahu. Kalau tidak, benda akan menolak, dan harganya tetap tertagih ke orang yang menamai."
 
-"Berarti kemarin kamu bayar buat ngetuk pintu yang salah."
+"Berarti kemarin kamu bayar untuk ngetuk pintu yang salah."
 
 "Sudah bayar sejak awal, dan akan bayar lagi kalau aku bodoh dua kali." Ia menghela napas, dan sesuatu yang ringan ikut keluar bersama helaan itu. "Empat untaian sudah semua tersentuh tubuh ini. Cinder, Forge, Ash, dan sekarang Name. Satu membakar, satu mencipta, satu memadamkan, dan satu ternyata tidak bisa dibeli dengan hafalan. Untaian raja era lama adalah milik raja karena raja punya cerita tentang segalanya. Era ini tidak punya raja. Era ini punya yang lebih sulit. Era ini punya orang-orang yang harus diberi cerita yang benar, satu per satu."
 

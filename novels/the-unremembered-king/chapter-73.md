@@ -7,7 +7,7 @@ Rapat besar distrik timur diadakan malam hari kesembilan puluh tiga di ruang tun
 
 Kabar izin telah berjalan lebih cepat daripada kertasnya. Tidak ada yang membacakan izin itu — izin belum dibagikan kepada siapa pun yang akan memprotesnya — tetapi antrean santunan baru saja disusun ulang per blok, pos penimbangan digandakan, dan kontraktor troli terlihat mengukur jalur angkutan di lereng. Orang Caldrest tidak butuh membaca surat untuk tahu bahwa surat sedang ditulis tentang mereka.
 
-Ibu Tamma membuka rapat dengan daftar absen-nama, karena aturan adalah aturan dan pagar adalah pagar. Dua puluh nama dibacakan dan dijawab "ada", termasuk satu nama yang jawabannya paling keras setiap malam meski pemiliknya hanya menjawab karena anak-anak mengajarkannya. Lalu rapat itu pecah dengan sendirinya ke perkara sebenarnya.
+Ibu Tamma membuka rapat dengan daftar name-roll, karena aturan adalah aturan dan pagar adalah pagar. Dua puluh nama dibacakan dan dijawab "ada", termasuk satu nama yang jawabannya paling keras setiap malam meski pemiliknya hanya menjawab karena anak-anak mengajarkannya. Lalu rapat itu pecah dengan sendirinya ke perkara sebenarnya.
 
 Suara-suara yang keluar panas dan saling menumpuk. Seorang pekerja galeri tujuh berkata ia akan menerima paket apa pun yang datang karena tiga anaknya tidak bisa makan kebanggaan. Perempuan bilik lima menjawab lebih keras bahwa yang menerima paket pertama akan menjadi troli untuk menyeret yang lain, dan semua orang tahu itu benar, dan semua orang benci mendengarnya. Ondar bertanya apakah sanggahan komite masih berguna. Seseorang menjawab sanggahan terakhir dicap "diterima untuk arsip" — kalimat yang membuat separuh ruangan tertawa pahit. Di ujung bangku, Sela mencatat tanpa bisa mencatat cukup cepat, dan Tovik duduk paling belakang tersenyum pada semua kemarahan seperti orang menikmati musik yang liriknya hilang.
 
@@ -17,7 +17,7 @@ Brannoc membiarkan rapat meleleh selama sepuluh menit penuh. Ketika suara mulai 
 
 Sunyi jatuh begitu total sampai kedengaran lilin di meja tengah.
 
-Sebelum Ashvarok sempat berdiri, suara dari bangku galeri tujuh — lelaki tua yang pernah menolak pindah ke barak barat tahun lalu — melempar pertanyaan yang lebih tajam daripada permintaan Brannoc. "Kalau dia bisa baca lubang, kenapa tidak sekalian ramal? Bilang saja tanggalnya kita menang. Orang-orang butuh itu."
+Sebelum Ashvarok sempat berdiri, suara dari bangku galeri tujuh — lelaki tua yang pernah menolak pindah ke barak barat tahun lalu — melempar pertanyaan yang lebih tajam daripada permintaan Brannoc. "Kalau dia bisa membaca lubang, kenapa tidak sekalian ramal? Bilang saja tanggalnya kita menang. Orang-orang butuh itu."
 
 "Orang butuh makan," jawab seseorang dari belakang.
 
@@ -57,7 +57,7 @@ Setelah rapat bubar, di ambang pintu klinik, Maera Tull menunggunya dengan kotak
 
 "Aku memakai pasalmu. Namamu tinggal ikut pasal."
 
-"Lalu kau akan memberitahuku sekarang apa yang sebenarnya kau baca waktu mereka minta kau membaca masa depan?" Mata Maera mulai menghitung, kebiasaan yang tidak pernah tidur. "Aku kenal wajahmu sudah cukup lama, Renn. Wajah tadi malam bukan wajah orang yang sedang berimprovisasi."
+"Lalu kau akan memberitahuku sekarang apa yang sebenarnya kau membaca waktu mereka minta kau membaca masa depan?" Mata Maera mulai menghitung, kebiasaan yang tidak pernah tidur. "Aku kenal wajahmu sudah cukup lama, Renn. Wajah tadi malam bukan wajah orang yang sedang berimprovisasi."
 
 Ashvarok memandangi halaman klinik yang gelap, papan pengumuman dengan surat yang dipaku, jadwal sekolah di sebelahnya. "Yang kubaca tadi bukan ramalan. Kalau izin penutupan itu berdiri di atas asumsi bahwa tidak ada pemilik selain lisensi, maka seluruh beratnya bertumpu pada satu kaki. Cacat seperti itu selalu ada di setiap bangunan hukum yang didirikan terlalu cepat. Aku pernah melihat kerajaan-kerajaan jatuh bukan karena pedang, tapi karena satu pasal yang ditulis buru-buru." Ia menoleh kepadanya. "Temukan kertasnya, Assayer. Dokumen tanah pra-Liberation distrik timur, kalau ada. Dan bacalah baik-baik catatan pinggirnya — dokumen tua paling sering berkata jujur di margin, tempat tidak ada yang menuntut mereka formal."
 
@@ -71,4 +71,4 @@ Maera menatapnya lama, dan Ashvarok tahu pikirannya sedang menghitung mengapa se
 
 "Semua pekerjaan penting di kota ini menyamar sebagai pekerjaan rutin. Kau yang mengajariku itu."
 
-Di seberang halaman, absen-nama malam dimulai tepat waktu. Dua puluh suara menjawab "ada", satu di antaranya paling keras, dan Ashvarok berdiri mendengarkannya sampai selesai sebelum pulang — karena pagi ini ia menyuruh seluruh barak menjaga pagar yang tidak mereka ketahui namanya, dan penjaga yang menyuruh patut berdiri paling lama di dekat pagarnya.
+Di seberang halaman, name-roll malam dimulai tepat waktu. Dua puluh suara menjawab "ada", satu di antaranya paling keras, dan Ashvarok berdiri mendengarkannya sampai selesai sebelum pulang — karena pagi ini ia menyuruh seluruh barak menjaga pagar yang tidak mereka ketahui namanya, dan penjaga yang menyuruh patut berdiri paling lama di dekat pagarnya.

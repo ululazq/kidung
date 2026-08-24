@@ -21,9 +21,9 @@ Sela sudah mengetahuinya lebih dulu, tentu saja, karena jejaring informasi anak-
 
 Ia menunggu di barak dengan tiga lembar kertas klinik yang disusun rapi di atas papannya, dan wajah anak itu saat Ashvarok masuk adalah wajah orang yang membawa kabar buruk dengan tangan yang dingin tapi tegak.
 
-"Mimpi itu bukan milikku lagi," kata Sela langsung, tanpa sapaan, seperti gurunya. "Perempuan bilik tujuh mimpi sama: pria abu, diam, menghitung orang. Anak juru obat juga. Dan anaknya keluarga lorong sebelas — dia gambar. Lihat."
+"Mimpi itu bukan milikku lagi," kata Sela langsung, tanpa sapaan, seperti gurunya. "Perempuan bilik tujuh mimpi sama: ash man, diam, menghitung orang. Anak juru obat juga. Dan anaknya keluarga lorong sebelas — dia gambar. Lihat."
 
-Gambar-gambar itu disusun berjajar: tiga versi dari tiga tangan yang berbeda, dan ketiganya menggambar sosok yang sama dengan ketidaksengajaan yang sama. Pria tinggi. Abu-abu tanpa detail wajah. Berdiri. Menghitung — setiap gambar menunjukkan jari yang terangkat, atau batang kapur, atau sekadar kepala yang menunduk ke arah tak terlihat, ke arah daftar yang hanya ia bisa baca.
+Gambar-gambar itu disusun berjajar: tiga versi dari tiga tangan yang berbeda, dan ketiganya menggambar sosok yang sama dengan ketidaksengajaan yang sama. Pria tinggi. Abu-abu tanpa detail wajah. Berdiri. Menghitung — setiap gambar menunjukkan jari yang terangkat, atau batang kapur, atau sekadar kepala yang menunduk ke arah tak terlihat, ke arah daftar yang hanya ia bisa membaca.
 
 "Dulu aku pikir mimpi itu soal kamu karena aku kenal kamu," kata Sela, dan suaranya dikendalikan dengan hati-hati yang membuat dada sakit. "Sekarang aku pikir bukan. Sekarang aku pikir mimpinya sedang mencari siapa yang mau dilihat. Dia menyebar seperti—"
 
@@ -47,7 +47,7 @@ Dan di situlah, di barak kecil dengan papan tulis yang penuh kolom, Ashvarok dih
 
 "Tidak. Belum." Ia memilih pecahan kebenaran yang paling bisa ditanggung. "Menutupnya penuh butuh harga yang belum bisa kubayar tanpa hilang jadi diriku. Yang bisa kulakukan sekarang cuma dua: memperlambatnya, dan memastikan kalau ia melewati garis berikutnya, tidak ada yang berdiri di jalurnya sendirian."
 
-"Kedua itu bukan seni raja," kata Sela. "Itu cuma kerja barak."
+"Kedua itu bukan seni raja," kata Sela. "Itu cuma bekerja barak."
 
 "Iya," kata Ashvarok. "Makanya aku butuh kamu."
 
@@ -63,7 +63,7 @@ Nama adalah barang pertama yang diambil oleh kebocoran itu — Ashvarok mengetah
 
 Ibu Tamma menerimanya dengan satu kritik praktis: "Kalau semua harus panggil nama tiap malam, barak ini bakal butuh jam tambahan cuma buat absen." Lalu ia menertawakan dirinya, dan menambahkan sendiri solusinya: panggil sambil antre santunan, dua burung satu batu, dan biar dia yang pegang daftarnya.
 
-Kovan, yang sore itu berdiri di garis seperti biasa, memperhatikan absen-nama baru itu selama sepuluh menit penuh dengan ekspresi orang yang mencoba memutuskan apakah ini pemborosan waktu atau pesan — dan karena pesan tidak pernah dikirim secara terbuka di Caldrest, ia akhirnya mencatatnya sebagai pemborosan waktu, yang merupakan kesimpulan paling mahal yang pernah dibuat gratis.
+Kovan, yang sore itu berdiri di garis seperti biasa, memperhatikan name-roll baru itu selama sepuluh menit penuh dengan ekspresi orang yang mencoba memutuskan apakah ini pemborosan waktu atau pesan — dan karena pesan tidak pernah dikirim secara terbuka di Caldrest, ia akhirnya mencatatnya sebagai pemborosan waktu, yang merupakan kesimpulan paling mahal yang pernah dibuat gratis.
 
 ---
 
@@ -75,7 +75,7 @@ Tujuh detik di troli. Satu jam di shift. Nama-nama di pasar. Mimpi yang bertamba
 
 Jadi pekerjaannya bukan lagi menahan pintu dengan bahu. Pekerjaannya adalah memindahkan orang-orang menjauhi pintu sebelum deret itu selesai — dan memindahkan empat ratus keluarga tanpa izin, tanpa uang, tanpa terlihat sebagai panik, adalah pekerjaan yang bahkan tidak punya nama di keempat untainya.
 
-Di barak, lampu kecil masih menyala. Ketika ia masuk, Sela sedang menulis di papan tulis, dan kolom terbarunya sudah diberi judul sebelum ia sempat menyarankan apa pun: MIMPI ORANG LAIN. Di bawahnya ada empat baris, satu untuk setiap barak yang kini bermimpi tentang pria abu — dan di kolom HARI MAERA, yang tersisa satu garis miring lagi, anak itu belum menulis apa-apa, seolah menolak membiarkan hitungan itu mencapai nol tanpa persetujuannya.
+Di barak, lampu kecil masih menyala. Ketika ia masuk, Sela sedang menulis di papan tulis, dan kolom terbarunya sudah diberi judul sebelum ia sempat menyarankan apa pun: MIMPI ORANG LAIN. Di bawahnya ada empat baris, satu untuk setiap barak yang kini bermimpi tentang ash man — dan di kolom HARI MAERA, yang tersisa satu garis miring lagi, anak itu belum menulis apa-apa, seolah menolak membiarkan hitungan itu mencapai nol tanpa persetujuannya.
 
 "Besok," kata Sela tanpa menoleh, "kalau ada orang lain mimpi lagi, aku tulis di kolom ini. Lima. Enam. Sampai kapan kita catat begini?"
 

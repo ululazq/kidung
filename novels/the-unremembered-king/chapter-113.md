@@ -21,7 +21,7 @@ Ia pergi sesuai jadwalnya, dan Ashvarok berjalan ke gudang perkakas tingkat dua 
 
 Sepanjang jalan ia menimbang keanehan yang membuat orang lain mungkin tertawa kalau tahu. Dalam satu tahun terakhir ini musuhnya berubah wujud empat kali. Pertama pejabat sekte yang membeli peta dan izin. Kedua pemilik lisensi yang membeli kontrak ribuan orang termasuk namanya sendiri yang dipinjam. Ketiga pemain bayangan yang menggoyang pasak lewat kanal gelap. Dan kini, calon penjaga. Setiap kali satu wujudnya dibunuh oleh kertas atau telapak atau umpan, wujud berikutnya datang lebih bersih daripada yang lalu, memakai lebih banyak hukum, dan berdiri lebih dekat ke pintu yang selama ini ia jaga diam-diam. Ada logika dalam kemajuan itu yang hampir indah dilihat dari jauh, seperti air yang selalu menemukan celah rendah berikutnya.
 
-Yang tidak indah adalah hitungan di ujungnya. Penjarah yang gagal bisa ditangkap tanpa siapa pun menangis. Penjaga yang gagal akan menutup tambang demi keselamatan, dan karantina baru bukan lagi jendela bagi pencuri melainkan kebijakan resmi yang ditandatangani Dewan. Kalau sampai titik itu, semua kerja setahun, dokumen warisan, pernyataan kolektif, dan peta nama, harus bertahan bukan melawan kejahatan melainkan melawan kebijakan. Perlawanan terhadap kebijakan adalah nama lain untuk perang panjang.
+Yang tidak indah adalah hitungan di ujungnya. Penjarah yang gagal bisa ditangkap tanpa siapa pun menangis. Penjaga yang gagal akan menutup tambang demi keselamatan, dan karantina baru bukan lagi jendela bagi pencuri melainkan kebijakan resmi yang ditandatangani Dewan. Kalau sampai titik itu, semua bekerja setahun, dokumen warisan, pernyataan kolektif, dan name map, harus bertahan bukan melawan kejahatan melainkan melawan kebijakan. Perlawanan terhadap kebijakan adalah nama lain untuk perang panjang.
 
 ---
 
@@ -49,7 +49,7 @@ Brannoc menghabiskan akar pahitnya sebelum bicara, kebiasaan yang artinya kalima
 
 "Menjadi yang lebih sah daripada dia sebelum kursinya terisi," kata Ashvarok. "Dan legitimasi tidak bisa dibeli atau dicuri. Legitimasi hanya bisa dibangun batu demi batu, dan itu butuh waktu yang tidak kita punya kalau Dewan cepat."
 
-Ruangan itu sunyi sebentar. Di luar, barak distrik timur menyalakan lampunya blok demi blok, dan suara panggilan absen-nama samar-samar datang dari arah dapur.
+Ruangan itu sunyi sebentar. Di luar, barak distrik timur menyalakan lampunya blok demi blok, dan suara panggilan name-roll samar-samar datang dari arah dapur.
 
 "Ada satu variabel yang belum masuk hitungan," kata Brannoc kemudian. "Pengikat senior. Auditor itu akan mewawancarai semua orang yang pegang hak akses segmen. Pengawas tetap adalah orang pertama di daftarnya. Dan orang tua itu punya kebiasaan menyimpan fakta paling mahal untuk dirinya sendiri."
 
@@ -67,9 +67,9 @@ Sela, yang mengikuti setiap kata dengan mata bergerak bolak-balik seperti membac
 
 Ashvarok memandang adik angkatnya cukup lama, karena pertanyaan itu menusuk lebih dalam daripada seluruh analisis Brannoc. Selama seribu tahun ia percaya nama adalah harga tertinggi, milik yang dibayar dengan segalanya, dan malam ini bocah sebelas tahun baru saja menunjukkan bahwa nama bisa dipakai sebagai senjata oleh orang yang tidak pernah membakar miliknya sendiri.
 
-"Maka jawabannya harus lebih baik daripada janji," katanya akhirnya. "Janji menjanjikan pencarian. Kita sudah membuktikan hal yang lebih besar, yaitu bahwa nama bisa dijaga hidup tanpa menunggu siapa pun berkuasa. Peta nama, absen-nama, kereta nama, baris kosong Tovik yang dicentang tiap hari. Itu bukan janji. Itu kerja yang sudah berjalan. Kursi mana pun yang diduduki siapa pun, kerja itu tidak bisa dicabut seperti surat tanda."
+"Maka jawabannya harus lebih baik daripada janji," katanya akhirnya. "Janji menjanjikan pencarian. Kita sudah membuktikan hal yang lebih besar, yaitu bahwa nama bisa dijaga hidup tanpa menunggu siapa pun berkuasa. Name map, name-roll, name train, baris kosong Tovik yang dicentang tiap hari. Itu bukan janji. Itu bekerja yang sudah berjalan. Kursi mana pun yang diduduki siapa pun, bekerja itu tidak bisa dicabut seperti surat tanda."
 
-"Jadi kita percepat dua hal saja," kata Ashvarok akhirnya. "Pertama, perlindungan distrik final. Pernyataan fakta kolektif harus masuk register komisi secepat jalurnya sanggup, supaya klaim tenaga kerja distrik ini melekat pada kertas yang tidak bisa dibuka ulang oleh rezim mana pun, termasuk rezim yang kelak memegang kursi penjaga. Maera sudah pegang jalurnya. Tharrow menyalin arsip pendukungnya. Kalau perlu, pernyataan itu masuk lewat pintu yang sama dengan penetapan permanen, supaya keduanya jadi satu bangunan hukum yang harus dibongkar serentak kalau mau dibongkar."
+"Jadi kita percepat dua hal saja," kata Ashvarok akhirnya. "Pertama, perlindungan distrik final. Pernyataan fakta kolektif harus masuk register komisi secepat jalurnya sanggup, supaya klaim tenaga bekerja distrik ini melekat pada kertas yang tidak bisa dibuka ulang oleh rezim mana pun, termasuk rezim yang kelak memegang kursi penjaga. Maera sudah pegang jalurnya. Tharrow menyalin arsip pendukungnya. Kalau perlu, pernyataan itu masuk lewat pintu yang sama dengan penetapan permanen, supaya keduanya jadi satu bangunan hukum yang harus dibongkar serentak kalau mau dibongkar."
 
 "Dua?" tanya Brannoc.
 

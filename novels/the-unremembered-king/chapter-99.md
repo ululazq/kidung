@@ -15,7 +15,7 @@ Maka ia menjual satu-satunya barang yang tersisa padanya. Tangan yang selama emp
 
 Pelanggan pertama datang menjelang siang, seorang pemuda galeri tujuh yang menoleh dua kali sebelum berani mendekat.
 
-"Aku mau tulis surat sanggahan," kata pemuda itu. "Ke pos Guild. Soal kontrak sekolah adikku yang dibuka ulang. Tapi aku tidak bisa nulis bagus."
+"Aku mau tulis surat sanggahan," kata pemuda itu. "Ke pos Guild. Soal kontrak sekolah adikku yang dibuka ulang. Tapi aku tidak bisa menulis bagus."
 
 "Surat sanggahan tidak membutuhkan tulisan bagus," kata Tharrow. "Yang dibutuhkan adalah pasal, tanggal, dan kalimat yang tidak bisa disalahartikan. Duduk. Ceritakan faktanya, bukan kemarahannya. Kemarahan tidak bisa dicap lembaga mana pun."
 
@@ -77,7 +77,7 @@ Ia membeli buku catatan murah bersampul karton dari pedagang alat tulis, membawa
 
 Ia menulis dengan huruf kecil lurusnya, tanpa kesimpulan di bagian atas, seperti dulu.
 
-Fakta satu. Dana pemulihan tahap dua dicairkan atas nama delapan keluarga yang tinggal. Fakta dua. Tujuan pencairan, slot serahan malam, kode kotak garis miring, jalur yang sama dengan rantai persentase yang kini tersimpan bersegel ungu di ruang kerja Assayer Tull. Fakta tiga. Izin penutupan dibatalkan hari keseratus enam belas, dan pencairan-pencairan itu tercatat sesudah tanggal pembatalan. Fakta empat. Delapan nama adalah alamat, bukan penerima.
+Fakta satu. Dana pemulihan tahap dua dicairkan atas nama delapan keluarga yang tinggal. Fakta dua. Tujuan pencairan, slot serahan malam, kode kotak garis miring, jalur yang sama dengan rantai persentase yang kini tersimpan bersegel ungu di ruang bekerja Assayer Tull. Fakta tiga. Izin penutupan dibatalkan hari keseratus enam belas, dan pencairan-pencairan itu tercatat sesudah tanggal pembatalan. Fakta empat. Delapan nama adalah alamat, bukan penerima.
 
 Baru setelah keempat fakta itu berdiri, ia mengizinkan dirinya satu baris yang bukan fakta.
 

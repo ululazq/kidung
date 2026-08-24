@@ -3,7 +3,7 @@ title: "Bab 21: Dua Agenda"
 chapter: 21
 ---
 
-Ossian Vael memasuki Caldrest pada hari kedua puluh lima dengan rombongan yang sengaja dibuat tidak mengesankan: dua gerobak tertutup, empat penjaga berjubah abu yang berpura-pura menjadi pelayan, dan satu dirinya sendiri dengan jubah perjalanan yang benang timahnya dipilih khusus karena warnanya mirip debu jalan.
+Ossian Vael memasuki Caldrest pada hari kedua puluh lima dengan rombongan yang sengaja dibuat tidak mengesankan: dua gerobak tertutup, empat penjaga berjubah abu yang berpura-pura menjadi pelayan, dan satu dirinya sendiri dengan jubah perjalanan yang tin threadnya dipilih khusus karena warnanya mirip debu jalan.
 
 Sembilan hari di gerobak memberinya banyak waktu untuk membaca, dan dia sudah membaca semuanya dua kali. Laporan bulanan Tharrow yang penuh kalimat sopan tanpa isi. Profil junior assayer Tull beserta riwayat komisinya yang pendek tapi tajam. Dan daftar pendataan ulang the Quiet Vein untuk seluruh Caldrest — enam ratus dua puluh satu nama, umur, vein status, utang. Enam ratus dua puluh satu manusia yang hidupnya sedang bergeser sedikit demi sedikit karena keputusan yang dibuat di lantai empat puluh sebuah menara jauh di barat. Dia tidak merasa bersalah tentang itu. Rasa bersalah adalah kemewahan orang yang punya waktu.
 
@@ -29,11 +29,11 @@ Maera Tull menerima undangan audiens pada sore harinya, di ruang tamu Quota Offi
 
 "Kalimat yang aneh dari pejabat secte."
 
-"Saya bukan pejabat doktrin. Saya pejabat koordinasi artefak." Ia menuangkan air untuk mereka berdua sendiri — gerakan yang disengaja, jenis yang membuat orang merasa sedang bicara dengan manusia, bukan institusi. "Dan saya datang karena koordinasi pepekerjaan saya menuntut satu hal. Hasil komisi Anda tidak boleh jatuh ke tangan yang salah. Anomali di bawah kota ini, Assayer Tull, jika diklasifikasi naik — akan bernilai sangat besar. Nilai besar menarik pemburu. Pemburu tidak peduli pada prosedur Guild."
+"Saya bukan pejabat doktrin. Saya pejabat koordinasi artefak." Ia menuangkan air untuk mereka berdua sendiri — gerakan yang disengaja, jenis yang membuat orang merasa sedang bicara dengan manusia, bukan institusi. "Dan saya datang karena koordinasi pekerjaan saya menuntut satu hal. Hasil komisi Anda tidak boleh jatuh ke tangan yang salah. Anomali di bawah kota ini, Assayer Tull, jika diklasifikasi naik — akan bernilai sangat besar. Nilai besar menarik pemburu. Pemburu tidak peduli pada prosedur Guild."
 
 "Karena itu saya bekerja dengan prosedur Guild."
 
-"Luar biasa sekali." Ossian meletakkan gelasnya, dan dari map abunya — yang sudah menunggu di meja sejak sebelum Maera masuk — ia mengeluarkan satu lembar bersampel resmi, lengkap dengan stempel benang timah. "Surat penawaran. Komisi lanjutan di bawah perlindungan langsung Koordinasi Artefak. Anda melanjutkan penilaian seam ini sebagai proyek bersama, dengan akses arsip penuh secte, perlindungan status, dan honor yang membuat pensiun Anda terjamin pada umur tiga puluh."
+"Luar biasa sekali." Ossian meletakkan gelasnya, dan dari map abunya — yang sudah menunggu di meja sejak sebelum Maera masuk — ia mengeluarkan satu lembar bersampel resmi, lengkap dengan stempel tin thread. "Surat penawaran. Komisi lanjutan di bawah perlindungan langsung Koordinasi Artefak. Anda melanjutkan penilaian seam ini sebagai proyek bersama, dengan akses arsip penuh secte, perlindungan status, dan honor yang membuat pensiun Anda terjamin pada umur tiga puluh."
 
 Maera membaca lembar itu. Semua barisnya. Dua kali. Mata assayer itu menghitung sesuatu di balik huruf-huruf, dan Ashvarok — kalau saja ia ada di ruangan itu — akan mengenali ekspresi tersebut sebagai versi profesional dari wajah Sela membaca kontrak utang.
 
@@ -47,7 +47,7 @@ Maera membaca lembar itu. Semua barisnya. Dua kali. Mata assayer itu menghitung 
 
 Ruangan itu sunyi. Di luar jendela, terompet shift sore bersuara jauh, dan suara troli pertama turun ke tambang terdengar seperti napas panjang.
 
-"Saya memenulis klasifikasi yang didukung data yang bisa saya pertahankan di bawah pemeriksaan silang," jawab Maera, dengan hati-hati seorang penambang melangkah di atas retakan. "Itu definisi kerja setiap assayer."
+"Saya memenulis klasifikasi yang didukung data yang bisa saya pertahankan di bawah pemeriksaan silang," jawab Maera, dengan hati-hati seorang penambang melangkah di atas retakan. "Itu definisi bekerja setiap assayer."
 
 "Tentu. Tentu saja." Kepala Ossian tertunduk sedikit — pengakuan, atau tiruannya. "Hanya saja, delapan belas tahun lalu ada assayer senior yang memenulis klasifikasi yang sama untuk wilayah utara. Namanya Vessik Halder. Dia pensiun dengan pensiun penuh, rumah di tepi danau, dan meninggal damai umur tujuh puluh." Jeda. Satu tarikan napas. "Empat puluh ribu orang di kabupaten itu tidak mendapat kesempatan pensiun, tapi laporannya tetap rapi. Prosedur, Assayer Tull, adalah alat yang bekerja untuk siapa pun yang memegangnya."
 

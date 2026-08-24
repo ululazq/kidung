@@ -41,7 +41,7 @@ Pasak yang diputar, bukan dipukul. Kanal tarik yang menuntut irama tetap. Enam t
 
 Ada tangan lain, pikir Ashvarok. Itulah kalimat yang tidak bisa ia katakan, karena begitu dikatakan ia harus menjelaskan seni raja mana yang dimaksud, dan milik siapa seni itu, dan kenapa satu-satunya manusia yang seharusnya mengenalnya sedang berlutut di lorong tambang dengan parut yang melewati siku.
 
-"Tukang kunci," katanya akhirnya. "Yang sangat, sangat tua. Pasak-pasak ini bukan kerja panener. Panener cuma memotong di tempat yang sudah disiapkan orang lain — lihat, sayatan mereka selalu jatuh tepat di antara dua lubang pasak. Mereka tidak tahu apa artinya. Mereka cuma diberi tahu: potong di sini, jangan sentuh yang besar. Yang membuat semua ini—" ia menyapukan tangannya melintasi kanal dipoles, "—paham pekerjaan yang sudah seribu tahun tidak ada lagi."
+"Tukang kunci," katanya akhirnya. "Yang sangat, sangat tua. Pasak-pasak ini bukan bekerja panener. Panener cuma memotong di tempat yang sudah disiapkan orang lain — lihat, sayatan mereka selalu jatuh tepat di antara dua lubang pasak. Mereka tidak tahu apa artinya. Mereka cuma diberi tahu: potong di sini, jangan sentuh yang besar. Yang membuat semua ini—" ia menyapukan tangannya melintasi kanal dipoles, "—paham pekerjaan yang sudah seribu tahun tidak ada lagi."
 
 "Orang?"
 

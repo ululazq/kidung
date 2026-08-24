@@ -3,15 +3,15 @@ title: "Bab 104: Stempel Baru"
 chapter: 104
 ---
 
-Kurir itu tiba di Caldrest pada pagi hari keseratus empat puluh tiga, dan kali ia melewati gerbang kota, troli kecilnya membawa sesuatu yang lebih berat daripada bijih. Dua peti surat bersegel lilin abu, dicetak dengan stempel yang belum pernah dilihat siapa pun di kota ini, lambang benang timah melingkari huruf-huruf yang rapi dan membosankan.
+Kurir itu tiba di Caldrest pada pagi hari keseratus empat puluh tiga, dan kali ia melewati gerbang kota, troli kecilnya membawa sesuatu yang lebih berat daripada bijih. Dua peti surat bersegel lilin abu, dicetak dengan stempel yang belum pernah dilihat siapa pun di kota ini, lambang tin thread melingkari huruf-huruf yang rapi dan membosankan.
 
 Ashvarok mendengar kabarnya sebelum melihat suratnya, karena kabar di Caldrest berjalan lewat tangan-tangan yang sudah lama dilatih untuk itu. Ibu Tamma menerima pemberitahuan milik galeri tujuh dari tangan pos tepi pasar dan tidak membukanya sampai kembali ke barak, supaya dibuka bersama-sama, karena itulah tata cara baru distrik ini menghadapi kertas dari luar. Kertas yang dibaca sendirian membuat orang panik sendirian.
 
-Di ruang bersama blok timur, peti itu dibuka di atas meja tengah, dan isi diperiksa seperti barang curian yang dikembalikan. Satu lembar untuk setiap pemegang kontrak kerja the Quiet Vein cabang Caldrest. Ribuan lembar. Semua bertanggal sama, semuanya memakai kalimat pembuka yang sama, dan semua ditandatangani atas nama biro yang namanya sengaja dibuat membosankan.
+Di ruang bersama blok timur, peti itu dibuka di atas meja tengah, dan isi diperiksa seperti barang curian yang dikembalikan. Satu lembar untuk setiap pemegang kontrak bekerja the Quiet Vein cabang Caldrest. Ribuan lembar. Semua bertanggal sama, semuanya memakai kalimat pembuka yang sama, dan semua ditandatangani atas nama biro yang namanya sengaja dibuat membosankan.
 
 Koordinasi Artefak Regional.
 
-Brannoc membacakan satu lembar keras-keras dari depan, karena banyak yang tidak bisa membaca dan semua berhak mendengar kalimat persisnya. Pemindahan seluruh kontrak kerja lisensi dari sekte kepada badan supervisi, efektif tanggal cetak, tanpa perubahan bagi pemegang kontrak sekolah anak berkat pasal perlindungan dua tahun. Lalu bagian kedua, yang dibacakan Brannoc lebih lambat supaya tidak ada yang salah dengar. Kuota produksi masuk skema restrukturisasi transisi. Setoran mingguan diganti setoran tiga harian. Penalti administratif baru diperkenalkan dengan bahasa yang halus, denda keterlambatan yang dihitung per shift, rotasi regu atas kebijakan pengelola baru, dan hak revisi unilateral atas ketentuan kontrak selama masa transisi dinyatakan berlaku.
+Brannoc membacakan satu lembar keras-keras dari depan, karena banyak yang tidak bisa membaca dan semua berhak mendengar kalimat persisnya. Pemindahan seluruh kontrak bekerja lisensi dari sekte kepada badan supervisi, efektif tanggal cetak, tanpa perubahan bagi pemegang kontrak sekolah anak berkat pasal perlindungan dua tahun. Lalu bagian kedua, yang dibacakan Brannoc lebih lambat supaya tidak ada yang salah dengar. Kuota produksi masuk skema restrukturisasi transisi. Setoran mingguan diganti setoran tiga harian. Penalti administratif baru diperkenalkan dengan bahasa yang halus, denda keterlambatan yang dihitung per shift, rotasi regu atas kebijakan pengelola baru, dan hak revisi unilateral atas ketentuan kontrak selama masa transisi dinyatakan berlaku.
 
 "Berapa lama masa transisinya?" tanya seorang penambang tua dari bangku belakang.
 
@@ -23,7 +23,7 @@ Panik di barak itu datang seperti yang datang di tambang, pelan dan di bawah per
 
 Malamnya Ashvarok membaca lembar pemberitahuannya sendiri di gudang perkakas tingkat dua, di bawah lampu yang ditutupi karung, dengan Brannoc dan Sela menunggu sampai ia selesai.
 
-"Lembar ini hati-hati," katanya akhirnya. "Tidak satu pun pasalnya ilegal. Tidak satu pun menyentuh penetapan balai kota kemarin. Tidak ada kata pemindahan penduduk, tidak ada kata penutupan, tidak ada kata distrik timur sama sekali. Hanya kontrak kerja, kuota, dan disiplin."
+"Lembar ini hati-hati," katanya akhirnya. "Tidak satu pun pasalnya ilegal. Tidak satu pun menyentuh penetapan balai kota kemarin. Tidak ada kata pemindahan penduduk, tidak ada kata penutupan, tidak ada kata distrik timur sama sekali. Hanya kontrak bekerja, kuota, dan disiplin."
 
 "Itu artinya?" tanya Sela.
 
@@ -31,13 +31,13 @@ Malamnya Ashvarok membaca lembar pemberitahuannya sendiri di gudang perkakas tin
 
 Brannoc mengunyah akar pahitnya sampai habis, tanda bahwa percakapan sudah memasuki bagian yang menurutnya serius. "Kita lawan kertasnya?"
 
-"Kita tidak bisa melawan kertasnya dengan kertas yang sama. Pengalihan itu sah. Ditandatangani dua institusi, dibayar tunai, dicap lilin. Komisi mana pun akan membacanya lima menit dan menyerahkannya kembali." Ashvarok mengeluarkan dari saku dadanya salinan yang sudah ia minta dari Maera pekan lalu, salinan margin peta pra-Liberation dan pasal-pasal penetapan perlindungan yang dibacakan juru ukur di aula balai kota. "Tapi pengalihan itu punya lubang yang sama besar dengan izin lama. Ia membeli kontrak kerja seolah tenaga kerja adalah barang lisensi yang berpindah bersama gudang."
+"Kita tidak bisa melawan kertasnya dengan kertas yang sama. Pengalihan itu sah. Ditandatangani dua institusi, dibayar tunai, dicap lilin. Komisi mana pun akan membacanya lima menit dan menyerahkannya kembali." Ashvarok mengeluarkan dari saku dadanya salinan yang sudah ia minta dari Maera pekan lalu, salinan margin peta pra-Liberation dan pasal-pasal penetapan perlindungan yang dibacakan juru ukur di aula balai kota. "Tapi pengalihan itu punya lubang yang sama besar dengan izin lama. Ia membeli kontrak bekerja seolah tenaga bekerja adalah barang lisensi yang berpindah bersama gudang."
 
 Sela membaca potongan pasal yang ia tunjuk, bibirnya bergerak pelan mengikuti huruf-huruf tua, kebiasaan bocah yang belajar membaca dokumen dari Harn yang belajar dari dia. Lalu kepalanya terangkat.
 
 "Tanah jasanya menyebut penjaga," kata Sela pelan. "Penjagaannya tidak berakhir. Yang berganti hanya penjaganya."
 
-"Dan siapa yang boleh menjadi penjaga?" kata Ashvarok. "Pasalnya tidak menyebut sekte. Tidak menyebut biro. Tanah jasa adalah kewajiban orang-orang yang tinggal di tanah itu, turun-temurun, dibayar dengan perlindungan yang tidak pernah dicabut. Klaim tanah itu sejak awal adalah klaim tenaga kerja lokal. Ribuan kontrak kerja di distrik ini tidak bisa dipindahkan ke kendali asing begitu saja tanpa menyentuh penetapan yang kemarin dicap permanen. Kalau kertas Ossian berdiri di atas asumsi bahwa manusia ikut terjual bersama tambang, maka kertas kita berdiri di atas pasal yang bilang manusia adalah isinya."
+"Dan siapa yang boleh menjadi penjaga?" kata Ashvarok. "Pasalnya tidak menyebut sekte. Tidak menyebut biro. Tanah jasa adalah kewajiban orang-orang yang tinggal di tanah itu, turun-temurun, dibayar dengan perlindungan yang tidak pernah dicabut. Klaim tanah itu sejak awal adalah klaim tenaga bekerja lokal. Ribuan kontrak bekerja di distrik ini tidak bisa dipindahkan ke kendali asing begitu saja tanpa menyentuh penetapan yang kemarin dicap permanen. Kalau kertas Ossian berdiri di atas asumsi bahwa manusia ikut terjual bersama tambang, maka kertas kita berdiri di atas pasal yang bilang manusia adalah isinya."
 
 ---
 
@@ -45,7 +45,7 @@ Rapat tim inti malam itu singkat dan dingin seperti rapat-rapat baik lainnya.
 
 Strateginya Ashvarok susun dalam tiga langkah dan satu larangan. Larangannya dikerjakan lebih dulu. Tidak ada yang menyebut nama Ossian Vael di mana pun, karena tuduhan pada pejabat adalah hadiah bagi pejabat, yang bisa menjawabnya dengan prosedur selama berbulan-bulan sambil transisi berjalan.
 
-Langkah pertama, pernyataan kolektif. Bukan sanggahan, bukan keberatan, karena dua kata itu sudah punya riwayat kalah cepat. Sebuah pernyataan fakta, satu lembar, ditandatangani sebanyak mungkin pemegang kontrak, isinya sederhana bahwa para penanda tangan tinggal dan bekerja di distrik timur sebagai pelaksana tanah jasa yang statusnya baru ditetapkan permanen, dan bahwa perpindahan kontrak kerja mereka kepada badan apa pun harus melalui verifikasi komisi atas kesesuaiannya dengan penetapan itu. Fakta dulu. Kesimpulan belakangan.
+Langkah pertama, pernyataan kolektif. Bukan sanggahan, bukan keberatan, karena dua kata itu sudah punya riwayat kalah cepat. Sebuah pernyataan fakta, satu lembar, ditandatangani sebanyak mungkin pemegang kontrak, isinya sederhana bahwa para penanda tangan tinggal dan bekerja di distrik timur sebagai pelaksana service grant yang statusnya baru ditetapkan permanen, dan bahwa perpindahan kontrak bekerja mereka kepada badan apa pun harus melalui verifikasi komisi atas kesesuaiannya dengan penetapan itu. Fakta dulu. Kesimpulan belakangan.
 
 Langkah kedua, jalurnya lewat Guild, bukan Quota Office dan bukan balai kota, karena Guild adalah satu-satunya institusi yang stempelnya masih menakuti kedua pihak sekaligus. Lembar itu akan diserahkan ke Assayer Tull sebagai penyidik bidang komisi verifikasi dokumen warisan, satu-satunya orang di kota ini yang berhak dan berani membuka pertanyaan tentang apa yang terjadi ketika dua kertas besar bertabrakan di atas kepala ribuan orang.
 
@@ -55,7 +55,7 @@ Langkah ketiga, tulisannya. Ashvarok menoleh ke Brannoc untuk bagian ini. "Surat
 
 "Percuma kalau dia tidak mau menyentuh urusan barak. Dia bekas musuh kita."
 
-"Dia bekas musuh kita yang gratis menulis permohonan audit untuk perempuan tua blok utara," kata Brannoc. "Orang yang jatuh dan masih milih klien yang benar itu bisa dibeli dengan cara lain. Aku yang bicara sama dia. Kata kerja di depan."
+"Dia bekas musuh kita yang gratis menulis permohonan audit untuk perempuan tua blok utara," kata Brannoc. "Orang yang jatuh dan masih milih klien yang benar itu bisa dibeli dengan cara lain. Aku yang bicara sama dia. Kata bekerja di depan."
 
 Percakapan itu terjadi sore harinya di meja lipat tepi pasar, dan Ashvarok menontonnya dari jarak tiga kios dengan wajah pembeli yang sedang membandingkan harga pahat. Tidak ada pelukan damai antara dua orang yang dulu saling memasang jerat. Brannoc meletakkan draf pernyataan di meja, mengucapkan empat kalimat pendek, dan Kel Tharrow membacanya dengan sarung tangannya yang sudah tidak dipakai terlipat di laci.
 

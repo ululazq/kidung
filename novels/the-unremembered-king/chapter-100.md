@@ -3,7 +3,7 @@ title: "Bab 100: Tambalan Kedua"
 chapter: 100
 ---
 
-Panggilan absen-nama blok timur berjalan seperti biasa pada malam hari keseratus tiga puluh tiga, sampai baris kedua dari akhir.
+Panggilan name-roll blok timur berjalan seperti biasa pada malam hari keseratus tiga puluh tiga, sampai baris kedua dari akhir.
 
 Ibu Tamma membacakan nama-nama dari daftarnya dengan suara yang tidak pernah naik dan tidak pernah turun, dan setiap nama dijawab keras oleh pemiliknya sesuai tata cara yang sudah menjadi tulang bagi seluruh barak. Nama demi nama berjalan rapi. Lalu satu nama dibacakan, dan jawabannya tidak datang.
 
@@ -15,9 +15,9 @@ Sunyi barak itu sendiri sudah menjadi kabar sebelum siapa pun menamainya. Ibu Ta
 
 "Masuk shift sore," kata Ondar, dan wajahnya sudah berubah sebelum kalimatnya selesai, karena shift sore hari ini adalah regu bonus galeri sembilan, dan lonceng akhir shift galeri sembilan sudah empat pekan tidak didengar siapa pun — bukan karena telat dibunyikan, melainkan karena galeri itu memakannya di ambang. "Dia mungkin masih di bawah."
 
-"Maka dia sedang sendirian," kata Ibu Tamma, "di tempat yang memakan nama, pada jam ketika sunyi itu rutin lewat." Ia tidak berkata lebih jauh, karena tidak perlu. Setiap orang di barak itu telah merasakan sendiri jam-jam sunyi yang sejak galeri bisu itu datang teratur seperti patroli, melewati lorong-lorong timur pada kisaran tengah malam, dan tidak ada satu pun aturan tertulis yang melarang tidur di bawah sana. Aturan itu hanya hidup di dalam takdir orang yang pernah mencobanya.
+"Maka dia sedang sendirian," kata Ibu Tamma, "di tempat yang memakan nama, pada jam ketika sunyi itu rutin lewat." Ia tidak berkata lebih jauh, karena tidak perlu. Setiap orang di barak itu telah merasakan sendiri jam-jam sunyi yang sejak Silent Gallery itu datang teratur seperti patroli, melewati lorong-lorong timur pada kisaran tengah malam, dan tidak ada satu pun aturan tertulis yang melarang tidur di bawah sana. Aturan itu hanya hidup di dalam takdir orang yang pernah mencobanya.
 
-Ashvarok sudah bergerak sebelum kalimat Ibu Tamma selesai. Sela mengejarinya sampai pintu barak dengan papan tulis kecilnya yang dipegang sebelah tangan, dan memberikan hal yang ia butuhkan tanpa ditanya — halaman belakang papan itu, kolom peta nama versi barak, baris milik penambang muda blok timur, lengkap dengan ejaannya huruf demi huruf yang pernah ditulis tangan bocah sembilan tahun di dinding klinik.
+Ashvarok sudah bergerak sebelum kalimat Ibu Tamma selesai. Sela mengejarinya sampai pintu barak dengan papan tulis kecilnya yang dipegang sebelah tangan, dan memberikan hal yang ia butuhkan tanpa ditanya — halaman belakang papan itu, kolom name map versi barak, baris milik penambang muda blok timur, lengkap dengan ejaannya huruf demi huruf yang pernah ditulis tangan bocah sembilan tahun di dinding klinik.
 
 "Nama lengkapnya," kata Sela. "Yang di peta. Bukan panggilannya. Yang ditulis ibunya dulu."
 
@@ -29,7 +29,7 @@ Di ambang galeri sembilan, dunia memutus bunyi langkah mereka seperti biasa, dan
 
 Mereka mendekat pelan-pelan, seperti orang mendekati burung yang akan terbang. Mata pemuda itu mengikuti lampu. Ia memandang kedua penyelamatnya dengan rasa ingin tahu yang tulus, tersenyum sedikit — senyum ramah yang sama yang pernah dipakai dua orang lain yang sekarang menjawab "ada" hanya karena anak-anak mengajari mereka — dan ketika Ondar berkata namanya, panggilannya, nama harian yang dipakai semua orang, pemuda itu hanya miringkan kepala tanpa mengenali apa pun.
 
-"Aku," kata Ashvarok, cukup keras untuk galeri bisu ini, "punya surat untukmu."
+"Aku," kata Ashvarok, cukup keras untuk Silent Gallery ini, "punya surat untukmu."
 
 Pemuda itu menatapnya tanpa mengerti, dan Ashvarok membaca surat itu dari hafalan, huruf demi huruf, ejaan yang ditulis tangan bocah sembilan tahun di dinding klinik — nama lengkapnya, nama ibunya, dua suku kata yang barusan dikunyah tiga mulut di barak sampai hilang bentuknya.
 
@@ -47,13 +47,13 @@ Ketiga kalinya, nama itu keluar dari mulut pemuda itu sendiri dengan benar, dan 
 
 "Namaku," kata pemuda itu akhirnya, serak. "Tadi aku lupa namaku."
 
-"Tidak." Ashvarok menepuk pundaknya sekali, tepat seperti tata cara kereta nama yang diajarkan anak-anak. "Nama kamu tidak pernah hilang. Namamu ada di dinding klinik, di daftar ibu Tamma, di kepala adikku, dan sekarang di kepala kami berdua. Yang hilang hanya jalan menuju sana, dan jalan bisa dilewati balik. Itu bedanya dengan orang-orang yang dulu."
+"Tidak." Ashvarok menepuk pundaknya sekali, tepat seperti tata cara name train yang diajarkan anak-anak. "Nama kamu tidak pernah hilang. Namamu ada di dinding klinik, di daftar ibu Tamma, di kepala adikku, dan sekarang di kepala kami berdua. Yang hilang hanya jalan menuju sana, dan jalan bisa dilewati balik. Itu bedanya dengan orang-orang yang dulu."
 
-Ondar mengantar pemuda itu keluar menuju permukaan, dengan tangan di pundaknya dan nama lengkapnya diucapkan bergantian sepanjang lorong seperti lagu kerja, karena aturan baraknya memang begitu — tidak ada yang berjalan pulang dari galeri itu sendirian, apalagi orang yang baru saja ditolak dikunyah.
+Ondar mengantar pemuda itu keluar menuju permukaan, dengan tangan di pundaknya dan nama lengkapnya diucapkan bergantian sepanjang lorong seperti lagu bekerja, karena aturan baraknya memang begitu — tidak ada yang berjalan pulang dari galeri itu sendirian, apalagi orang yang baru saja ditolak dikunyah.
 
 Ashvarok tinggal.
 
-Ia memberi alasan ventilasi kepada Ondar dan tidak memberi alasan sama sekali kepada dirinya sendiri, karena alasan sebenarnya sudah ia baca sejak sebelum menyentuh lantai. Ketika namanya mulai dikunyah tadi malam, sesuatu di galeri ini berdenyut. Ia merasakan denyut itu dari jarak dua tingkat, melalui vein-scar kanannya yang sudah melewati setengah lengan dan belajar membaca dunia dengan cara yang tidak dimiliki telinga. Denyut itu bukan retakan besar. Retakan besar tidak pernah puas dengan satu nama. Ini yang kecil — yang kecil selalu lapar pada satu nama saja, dan satu nama saja sudah cukup untuk membuat seorang penambang muda menangis tanpa suara di depan kotak kayu.
+Ia memberi alasan ventilasi kepada Ondar dan tidak memberi alasan sama sekali kepada dirinya sendiri, karena alasan sebenarnya sudah ia membaca sejak sebelum menyentuh lantai. Ketika namanya mulai dikunyah tadi malam, sesuatu di galeri ini berdenyut. Ia merasakan denyut itu dari jarak dua tingkat, melalui vein-scar kanannya yang sudah melewati setengah lengan dan belajar membaca dunia dengan cara yang tidak dimiliki telinga. Denyut itu bukan retakan besar. Retakan besar tidak pernah puas dengan satu nama. Ini yang kecil — yang kecil selalu lapar pada satu nama saja, dan satu nama saja sudah cukup untuk membuat seorang penambang muda menangis tanpa suara di depan kotak kayu.
 
 Ia berjalan ke dasar galeri, mendekati garis bekas kolong yang sudah setahun diserahkan, dan berlutut di atas batu. Di sana. Retakan rambut, tipis seperti goresan kuku, memanjang mengikuti nat tua — nat yang sama, urat yang sama, jalur kanal yang sama yang sunyinya ikuti sampai naik satu galeri penuh. Celah kecil kedua. Yang pertama pernah ia tutup empat bulan lebih awal, sepuluh hasta dari sini, dan dunia menjawab kehati-hatian itu dengan membuka pintu lain di rumah yang sama.
 
@@ -69,11 +69,11 @@ Retakan rambut itu mati di bawah telapaknya dengan damai, disambung napasnya ke 
 
 Sumbernya tetap di dalam aula. Selama sumbernya di dalam aula, celah akan terus terbuka di sepanjang nat tua ini seperti air menemukan titik terlemah tembok, dan ia akan terus menambal satu demi satu dengan uang dirinya yang tidak pernah cukup. Membuka jalan menuju sumber berarti membuka semuanya — segel, nama, kota, dan semua halaman yang belum selesai ditulis — dan itulah satu-satunya pintu yang tidak boleh ia dorong dengan tangan yang gemetar ini.
 
-Frustrasinya tidak ia lempar ke mana pun. Ia melipatnya, menyimpannya di tempat yang sama dengan kalimat orang tua itu, dan keluar dari galeri bisu dengan langkah yang tidak tergesa sedikit pun, karena penjaga yang panik adalah penjaga yang membocorkan.
+Frustrasinya tidak ia lempar ke mana pun. Ia melipatnya, menyimpannya di tempat yang sama dengan kalimat orang tua itu, dan keluar dari Silent Gallery dengan langkah yang tidak tergesa sedikit pun, karena penjaga yang panik adalah penjaga yang membocorkan.
 
 ---
 
-Pagi harinya, hari keseratus tiga puluh empat, ia mampir ke klinik barak sebelum shift, dan Sela membiarkannya berdiri di depan peta nama sendirian karena sudah mengerti apa yang sedang dilakukan orang tertua di ruangan itu.
+Pagi harinya, hari keseratus tiga puluh empat, ia mampir ke klinik barak sebelum shift, dan Sela membiarkannya berdiri di depan name map sendirian karena sudah mengerti apa yang sedang dilakukan orang tertua di ruangan itu.
 
 Baris milik penambang muda blok timur tergantung di antara baris-baris yang penuh centang, dan kolom tanggalnya tertinggal satu hari. Ashvarok mengambil pensil pendek yang digantung di paku, menuliskan tanggalnya dengan huruf kecil tegak yang bukan miliknya, dan menambahkan satu centang di kotak yang kemarin hampir menjadi baris kedua yang kosong.
 

@@ -5,15 +5,15 @@ chapter: 55
 
 Mimpi itu selalu dimulai dengan jarak.
 
-Sela berdiri di lorong yang bukan lorong mana pun â€” lantainya batu tambang, tetapi langit-langitnya tidak pernah muncul, dan cahayanya datang dari arah yang tidak punya sumber â€” dan di ujung sana, sejauh yang dibutuhkan mimpi untuk membuatnya aman, berdiri pria abu. Tinggi. Diam. Kepalanya sedikit menunduk ke arah daftar yang hanya dia bisa baca, dan jarinya bergerak sekali untuk setiap orang.
+Sela berdiri di lorong yang bukan lorong mana pun â€” lantainya batu tambang, tetapi langit-langitnya tidak pernah muncul, dan cahayanya datang dari arah yang tidak punya sumber â€” dan di ujung sana, sejauh yang dibutuhkan mimpi untuk membuatnya aman, berdiri ash man. Tinggi. Diam. Kepalanya sedikit menunduk ke arah daftar yang hanya dia bisa membaca, dan jarinya bergerak sekali untuk setiap orang.
 
 Satu. Dua. Tiga.
 
-Setahun penuh mimpi ini, dan Sela sudah hafal hukum-hukumnya seperti menghafal kolom-kolom papannya. Pria abu tidak pernah mendekat. Pria abu tidak pernah menoleh. Dan hitungannya selalu, tanpa gagal, berhenti di angka dua belas â€” dulu dengan bunyi yang tuntas seperti pintu ditutup, belakangan dengan diam panjang yang menakutkan, seperti orang yang menimbang apakah daftarnya cukup panjang untuk ditambah satu nama lagi.
+Setahun penuh mimpi ini, dan Sela sudah hafal hukum-hukumnya seperti menghafal kolom-kolom papannya. Ash Man tidak pernah mendekat. Ash Man tidak pernah menoleh. Dan hitungannya selalu, tanpa gagal, berhenti di angka dua belas â€” dulu dengan bunyi yang tuntas seperti pintu ditutup, belakangan dengan diam panjang yang menakutkan, seperti orang yang menimbang apakah daftarnya cukup panjang untuk ditambah satu nama lagi.
 
 Tujuh. Delapan.
 
-Malam itu ada sesuatu yang berbeda pada suara hitungannya. Bukan bunyi â€” pria abu tidak pernah bersuara â€” melainkan bobotnya, seolah setiap angka kini ditulis dengan kapur yang lebih besar. Dan lorong itu, yang selama setahun tetap pada jarak yang sama, malam ini sedang menyempit dengan cara yang tidak bisa disebut bergerak.
+Malam itu ada sesuatu yang berbeda pada suara hitungannya. Bukan bunyi â€” ash man tidak pernah bersuara â€” melainkan bobotnya, seolah setiap angka kini ditulis dengan kapur yang lebih besar. Dan lorong itu, yang selama setahun tetap pada jarak yang sama, malam ini sedang menyempit dengan cara yang tidak bisa disebut bergerak.
 
 Sepuluh. Sebelas. Dua belas.
 
@@ -25,7 +25,7 @@ Angka itu tidak bersuara. Angka itu hanya jatuh ke tempatnya, seperti keping tim
 
 "Kau berbalik sekarang."
 
-Dan pria abu berbalik.
+Dan ash man berbalik.
 
 Wajahnya adalah wajah kakaknya.
 
@@ -71,11 +71,11 @@ Seorang perempuan bilik tujuh menangis tanpa suara, karena selama sunyi itu, kat
 
 Setelahnya, ketika Brannoc tiba berlari dari blok jaga dan barak perlahan dipulangkan ke ranjang masing-masing dengan perintah-perintah pendek yang tidak menerima diskusi, Sela duduk di samping kakaknya di ujung bangku panjang, dan barulah menangis â€” sebentar saja, dengan tangan yang menutup mulutnya sendiri supaya tidak mengganggu, seorang juru ukur kecil yang selesai mengukur sesuatu yang besar.
 
-"Pria abu itu," katanya akhirnya, ketika suaranya bisa dipercaya. "Aku sudah tahu dari awal, tahu? Aku cuma tidak mau mengatakannya, karena selama belum diucapkan, dia bisa jadi siapa saja." Ia menatap Renn tegak-lurus, seperti menatap soal ujian. "Malam ini dia berbalik. Wajahnya wajahmu, Kak. Dan dia menyebut namaku tanpa suara. Hitungan itu bukan tentang orang asing. Hitungan itu tentang kita â€” tentang barak ini, satu-satu, dan dia sedang memutuskan siapa yang masuk daftar."
+"Ash Man itu," katanya akhirnya, ketika suaranya bisa dipercaya. "Aku sudah tahu dari awal, tahu? Aku cuma tidak mau mengatakannya, karena selama belum diucapkan, dia bisa jadi siapa saja." Ia menatap Renn tegak-lurus, seperti menatap soal ujian. "Malam ini dia berbalik. Wajahnya wajahmu, Kak. Dan dia menyebut namaku tanpa suara. Hitungan itu bukan tentang orang asing. Hitungan itu tentang kita â€” tentang barak ini, satu-satu, dan dia sedang memutuskan siapa yang masuk daftar."
 
 Ia menghitung sisanya di ujung jarinya, kebiasaan orang yang belajar menimbang dari Assayer.
 
-"Aku tahu tubuhmu sekarat pelan-pelan dan garis di lenganmu adalah jamnya. Aku tahu kamu menjaga lubang yang bocor di bawah sana dan harganya dibayar dari badanmu sendiri. Aku tahu legenda soal dirimu tumbuh karena kamu menolak jadi dikenal, dan aku tahu kamu melakukannya bukan karena malu." Suaranya tidak naik satu nada pun. Ia telah berlatih kalimat-kalimat ini di kepalanya tanpa sadar, berminggu-minggu, seperti semua hal yang dicatatnya dua kali. "Yang tidak aku tahu hanya dua. Siapa dirimu yang sesungguhnya sebelum kamu masuk ke tubuh kakakku. Dan kenapa pria abu dalam mimpiku punya wajahmu padahal setahun penuh dia tidak punya apa-apa."
+"Aku tahu tubuhmu sekarat pelan-pelan dan garis di lenganmu adalah jamnya. Aku tahu kamu menjaga lubang yang bocor di bawah sana dan harganya dibayar dari badanmu sendiri. Aku tahu legenda soal dirimu tumbuh karena kamu menolak jadi dikenal, dan aku tahu kamu melakukannya bukan karena malu." Suaranya tidak naik satu nada pun. Ia telah berlatih kalimat-kalimat ini di kepalanya tanpa sadar, berminggu-minggu, seperti semua hal yang dicatatnya dua kali. "Yang tidak aku tahu hanya dua. Siapa dirimu yang sesungguhnya sebelum kamu masuk ke tubuh kakakku. Dan kenapa ash man dalam mimpiku punya wajahmu padahal setahun penuh dia tidak punya apa-apa."
 
 Renn tidak membantahnya. Setahun penuh jawaban parsial dan kalimat yang diselesaikan setengah, dan malam ini tubuh kakaknya hanya duduk di sana dengan lelah yang bukan lelah pekerjaan, dan diamnya mengakui segalanya.
 

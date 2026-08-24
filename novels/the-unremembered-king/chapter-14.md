@@ -11,7 +11,7 @@ Ashvarok tahu lebih dulu, dengan cara yang mulai ia anggap biasa dan sesekali ma
 
 Ia berhenti setengah langkah. Regu lewat di depannya tanpa menyadari apa pun, dan di ujung barisan, Ondar juga berhenti setengah langkah — lama, terlalu lama untuk kebiasaan — sebelum berlari mengejar yang lain.
 
-Di persimpangan tingkat tiga, penilaian Guild sudah mengubah sudut kerja menjadi laboratorium kecil: kotak kayu terbuka, inti bor berbaring di kain putih kusam, dan Maera Tull berdiri dengan mata yang menghitung sesuatu di dalam batu. Ashvarok melewatinya sesuai kesepakatan — tidak menoleh, tidak melambat — tetapi tangan assayer itu berhenti di udara sepersekian detik ketika ia lewat, dan itu cukup sebagai sapaan pagi antara dua orang yang saling berguna.
+Di persimpangan tingkat tiga, penilaian Guild sudah mengubah sudut bekerja menjadi laboratorium kecil: kotak kayu terbuka, inti bor berbaring di kain putih kusam, dan Maera Tull berdiri dengan mata yang menghitung sesuatu di dalam batu. Ashvarok melewatinya sesuai kesepakatan — tidak menoleh, tidak melambat — tetapi tangan assayer itu berhenti di udara sepersekian detik ketika ia lewat, dan itu cukup sebagai sapaan pagi antara dua orang yang saling berguna.
 
 Titik ukur irama sudah ia tunjukkan kemarin, di celah sempit tempat gema kedalaman paling jelas naik ke permukaan. Hari ini, dari arah kotak kayunya, terdengar bunyi kecil yang baru: alat perekam gema Guild, jarum menggores lilin silinder. Maera sedang merekam.
 
@@ -19,7 +19,7 @@ Semoga irama tiga detik itu layak ditukar, pikir Ashvarok, tanpa tahu bahwa sebe
 
 Mereka bekerja tiga jam di seam utama sebelum suara datang dari arah lorong B. Suara manusia. Dua suara, satu keras satu bengong, dan bunyi kerikil yang diseret — suara orang yang masuk ke lorong mati tanpa alasan yang bisa dijelaskan siapa pun.
 
-Brannoc mendengar lebih dulu daripada semua orang, karena pepekerjaan foreman adalah mendengar yang salah. Ia berdiri, mengangkat lampu, dan berjalan ke mulut lorong B dengan langkah yang tidak cepat tapi tidak bisa ditiru. Ashvarok mengikutinya dari belakang, dan Ondar mengikutinya dari belakang Ashvarok, dan ketiga mereka menemukan dua penambang dari regu lain di dalam lorong yang buntu itu — satu duduk di atas gerobak rusak seperti menunggu kuda, dan satu berdiri di depannya dengan wajah orang yang sedang mencari kata di saku yang bolong.
+Brannoc mendengar lebih dulu daripada semua orang, karena pekerjaan foreman adalah mendengar yang salah. Ia berdiri, mengangkat lampu, dan berjalan ke mulut lorong B dengan langkah yang tidak cepat tapi tidak bisa ditiru. Ashvarok mengikutinya dari belakang, dan Ondar mengikutinya dari belakang Ashvarok, dan ketiga mereka menemukan dua penambang dari regu lain di dalam lorong yang buntu itu — satu duduk di atas gerobak rusak seperti menunggu kuda, dan satu berdiri di depannya dengan wajah orang yang sedang mencari kata di saku yang bolong.
 
 "Kenapa kalian di sini?" tanya Brannoc.
 
@@ -51,7 +51,7 @@ Brannoc melakukan sesuatu yang membuat Ashvarok menaikkan nilai foreman tua itu 
 
 Penambang itu membaca. Bibirnya bergerak menyusul huruf-huruf: enam nama. Enam. Dan di baris keenam ada goresan tinta yang jelas-jelas sebuah nama, ditulis tangan yang sama dengan lima nama di atasnya, tetapi ketika sampai di situ, bibirnya berhenti membaca dan matanya terus bergerak seperti melewati noda air.
 
-"Aku tidak bisa baca yang terakhir," kata Bek pelan. "Foreman. Aku tidak bisa baca yang terakhir."
+"Aku tidak bisa membaca yang terakhir," kata Bek pelan. "Foreman. Aku tidak bisa membaca yang terakhir."
 
 Brannoc menutup buku itu sangat perlahan, dan ketika ia bangkit, tangannya menarik kedua penambang itu keluar dari lorong B dengan lembut yang tidak bisa dibantah, seperti menggiring anak dari tepi sumur. Di mulut lorong, ia berbalik, memandangi gelap di dalamnya selama sepuluh detik penuh — dan Ashvarok, berdiri paling dekat, melihat wajah foreman itu melakukan perhitungan yang sama yang dilakukan orang pada rumput rebah — membaca musuh yang tidak kelihatan.
 
@@ -61,7 +61,7 @@ Dia pernah melihat the Hollowed — dulu, seribu tahun silam, di era sebelum seg
 
 Dan sekarang ia berdiri di tambang kelas empat di tepi dunia, menonton penyakit tua itu belajar jalan lagi di sebuah lorong yang dipakai untuk menitipkan gerobak rusak.
 
-"Regu lanjut kerja," kata Brannoc akhirnya, keras, milik siapa-siapa. "Dua orang ini antar ke permukaan. Sakit kepala. Kata begitu saja. Siapa pun yang tanya kenapa mereka di lorong B — mereka nyasar, sudah." Ia berhenti, lalu menambahkan dengan suara yang turun separuh: "Dan siapa pun yang mimpi buruk malam ini, cerita ke saya. Bukan ke orang lain."
+"Regu lanjut bekerja," kata Brannoc akhirnya, keras, milik siapa-siapa. "Dua orang ini antar ke permukaan. Sakit kepala. Kata begitu saja. Siapa pun yang tanya kenapa mereka di lorong B — mereka nyasar, sudah." Ia berhenti, lalu menambahkan dengan suara yang turun separuh: "Dan siapa pun yang mimpi buruk malam ini, cerita ke saya. Bukan ke orang lain."
 
 Semua orang bergerak melakukan yang disuruh, dan semua orang bergerak dengan cepat supaya tidak perlu berpikir tentang apa yang baru saja terjadi.
 
@@ -77,9 +77,9 @@ Kecuali dua orang. Ketika Ashvarok melewati mulut lorong B, Brannoc menangkap le
 
 Brannoc melepaskan lengannya. Ia menatap lorong B sekali lagi, dan kali ini Ashvarok melihat sesuatu yang jarang. Foreman tua itu takut, dan memilih untuk tidak menyembunyikannya dari satu orang saja.
 
-"Lorong tujuh, waktu kamu selamat," katanya pelan. "Sunyinya gitu juga, kan."
+"Lorong tujuh, waktu kamu selamat," katanya pelan. "Sunyinya begitu juga, kan."
 
-"Bukan gitu juga, Brannoc." Ashvarok memandang gelap yang buntu itu, dan di bawahnya, retakan itu berdenyut santai seperti perut yang baru kenyang. "Waktu itu hanya satu napas. Tadi pagi... itu sudah seperti orang yang makan terus tiap hari."
+"Bukan begitu juga, Brannoc." Ashvarok memandang gelap yang buntu itu, dan di bawahnya, retakan itu berdenyut santai seperti perut yang baru kenyang. "Waktu itu hanya satu napas. Tadi pagi... itu sudah seperti orang yang makan terus tiap hari."
 
 "Dan kalau dia makin kenyang?"
 

@@ -25,7 +25,7 @@ Tiga minggu. Kata-kata baru. "Neraca." "Hitung mundur." Kalimat pendek yang berd
 
 Empat minggu. Uang mulai ada, tapi badan makin kurus. Uang masuk ke mana kalau bukan ke makanan? Dan kenapa yang makan banyak malah menyusut?
 
-Kelima, keenam, ketujuh... sampai item terakhir yang dicatatnya tiga hari lalu. Tiap malam sebelum tidur, kakaknya mengukur garis di lengan kanannya dengan seutas benang dari jahitan kasur, menatap hasilnya lama seperti assayer melihat barang cacat, lalu memenulis di papan dengan wajah yang tidak menunjukkan apa-apa. Orang yang mengukur luka sendiri tiap malam adalah orang yang sedang hidup dengan jam pasir di dalam badannya — kalimat itu dia baca di buku cerita lama Ibu Vess, dan dia tidak pernah sangka akan memikirkannya tentang kakak sendiri.
+Kelima, keenam, ketujuh... sampai item terakhir yang dicatatnya tiga hari lalu. Tiap malam sebelum tidur, kakaknya mengukur garis di lengan kanannya dengan seutas benang dari jahitan kasur, menatap hasilnya lama seperti assayer melihat barang cacat, lalu memenulis di papan dengan wajah yang tidak menunjukkan apa-apa. Orang yang mengukur luka sendiri tiap malam adalah orang yang sedang hidup dengan jam pasir di dalam badannya — kalimat itu dia membaca di buku cerita lama Ibu Vess, dan dia tidak pernah sangka akan memikirkannya tentang kakak sendiri.
 
 Semua item punya tanggal. Tidak satu pun punya jawaban. Dan setiap item, seperti biasa, ditanya kenapa tiga kali oleh kepalanya sendiri, dan tiga-tiganya diam.
 
@@ -59,7 +59,7 @@ Jawaban kedua yang dia dapatkan minggu ini juga jawaban yang sama. Kelelahan. Ka
 
 "Coba."
 
-"Kamu berubah." Sela menghitung di jarinya, satu per satu, supaya tidak ada yang lolos. "Dari dua bulan lalu. Kamu makan tiga kali lipat tapi badan kamu makin kurus. Kamu tidur menghadap pintu sekarang, dulu menghadap tembok karena katanya tembok hangat. Kamu tidak bersenandung lagi saat mencuci. Kamu jawab pertanyaan pakai pertanyaan. Kamu bisa baca retakan batu seperti Brannoc baca peta. Dan tangan kanan kamu—" dia berhenti sebentar di angka terakhir, yang paling berat, "—tiap malam kamu ukur pakai benang, terus kamu catat di papan. Kamu kira aku tidak lihat. Aku lihat."
+"Kamu berubah." Sela menghitung di jarinya, satu per satu, supaya tidak ada yang lolos. "Dari dua bulan lalu. Kamu makan tiga kali lipat tapi badan kamu makin kurus. Kamu tidur menghadap pintu sekarang, dulu menghadap tembok karena katanya tembok hangat. Kamu tidak bersenandung lagi saat mencuci. Kamu jawab pertanyaan pakai pertanyaan. Kamu bisa membaca retakan batu seperti Brannoc membaca peta. Dan tangan kanan kamu—" dia berhenti sebentar di angka terakhir, yang paling berat, "—tiap malam kamu ukur pakai benang, terus kamu catat di papan. Kamu kira aku tidak lihat. Aku lihat."
 
 Ruangan kecil itu sunyi. Dari luar terdengar roda troli pertama dan terompet shift pagi, bunyi-bunyi kota yang tidak peduli pada isi satu barak.
 
@@ -81,7 +81,7 @@ Pertanyaan itu jatuh di antara mereka seperti shardmark yang dijatuhkan di tenga
 
 Wajah kakaknya tidak kaget. Itu yang paling mengejutkan — tidak ada kedipan panik, tidak ada tawa penolakan, tidak ada cerita panjang tentang kepala yang kena batu. Hanya diam yang panjang, dan mata yang menatapnya dengan sesuatu yang belum pernah dia lihat di wajah Renn yang dulu: kesedihan yang sudah selesai dihitung.
 
-"Renn tidak hilang, Sel." Suaranya pelan dan benar-benar jujur, dan Sela bisa membedakannya, dia bisa membedakan semua jenis suara kakaknya. "Aku yang ada di sini. Yang jaga kamu, yang bayar utang, yang isi kolom Jam Pasir tiap malam, yang pulang tiap pagi. Kalau ada bagian dari dia yang tidak bisa aku kasih balik..." Kakaknya berhenti sebentar, memilih kata seperti memilih pijakan batu. "...aku jaga semua yang tersisa. Itu janjinya. Cukup?"
+"Renn tidak hilang, Sel." Suaranya pelan dan benar-benar jujur, dan Sela bisa membedakannya, dia bisa membedakan semua jenis suara kakaknya. "Aku yang ada di sini. Yang jaga kamu, yang bayar utang, yang isi kolom Hourglass tiap malam, yang pulang tiap pagi. Kalau ada bagian dari dia yang tidak bisa aku kasih balik..." Kakaknya berhenti sebentar, memilih kata seperti memilih pijakan batu. "...aku jaga semua yang tersisa. Itu janjinya. Cukup?"
 
 Tidak cukup, kata kepala Sela. Tidak cukup, tidak cukup, kenapa tidak cukup, kenapa kamu tidak bilang apa-apa yang jelas, kenapa—
 
@@ -103,7 +103,7 @@ Sela berjalan pulang lebih cepat dari rencana, membawa ember air yang setengah t
 
 Pertanyaan yang lebih penting mungkin. Apa yang sedang melawan hal-hal yang bisa membuat orang hilang begitu? Dan berapa lama dia bisa menang?
 
-Papan tulis kecil itu punya dua sisi. Sisi depan adalah sisi resmi: upah, utang, Jam Pasir, aturan. Sisi belakang biasanya kosong, kadang dipakai coretan hitung sayur.
+Papan tulis kecil itu punya dua sisi. Sisi depan adalah sisi resmi: upah, utang, Hourglass, aturan. Sisi belakang biasanya kosong, kadang dipakai coretan hitung sayur.
 
 Dia membaliknya, dan di sisi belakang itu, dengan huruf sekecil yang bisa dia tulis, dia membuat daftar baru. Bukan daftar perbedaan — daftar itu sudah dia hafal di kepala, dua puluh tujuh item sejak musim panen. Daftar yang ini lebih penting. Nama-nama hal yang tidak berubah.
 

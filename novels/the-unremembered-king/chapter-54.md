@@ -19,7 +19,7 @@ Ada banyak cara memasang jerat pada orang miskin, dan semua caranya sudah pernah
 
 ---
 
-"Rak ketiga," kata Brannoc malam itu, duduk di gudang perkakas dengan lampu satu sumbu dan suara yang rendah seperti selalu. "Dua belas fragmen tulang seam. Satu lilin benang timah. Satu lembar angka." Ia meludahkan akar pahitnya ke lantai. "Bukan barangku. Bukan barang siapa pun di reguku. Aku hitung stok tiap malam sejak karantina — kamu tahu alasannya — dan rak ketiga kemarin masih kosong."
+"Rak ketiga," kata Brannoc malam itu, duduk di gudang perkakas dengan lampu satu sumbu dan suara yang rendah seperti selalu. "Dua belas fragmen tulang seam. Satu lilin tin thread. Satu lembar angka." Ia meludahkan akar pahitnya ke lantai. "Bukan barangku. Bukan barang siapa pun di reguku. Aku hitung stok tiap malam sejak karantina — kamu tahu alasannya — dan rak ketiga kemarin masih kosong."
 
 Perjanjian mereka setahun lamanya berdiri di atas satu kalimat sederhana: Brannoc tahu setiap gerakan di gudangnya. Malam ini kalimat itu terbukti sekali lagi, dan Ashvarok merasakan benteng kecil itu menahan beban lagi.
 
@@ -47,13 +47,13 @@ Tharrow hadir sebagai koordinator karantina, seragam tanpa kerutan, dan Ashvarok
 
 Pencarian berjalan satu jam penuh. Perkakas dicatat, rak digeser, lantai ditandai kapur, dan tepat ketika pencarian mulai berisiko berakhir tanpa temuan, seorang Shift Guard menemukan paket di balik rak ketiga — dengan bunyi "ha!" yang sedikit terlalu siap, menurut telinga Ashvarok, tetapi telinga seperti itu tidak bisa diajak bersaksi.
 
-Dua belas fragmen tulang seam disusun di atas terpal. Lilin benang timah diletakkan di sisinya. Pejabat audit membaca lembar angka itu dua kali, dan wajahnya melakukan ekspresi orang yang menemukan makna di dalam cermin.
+Dua belas fragmen tulang seam disusun di atas terpal. Lilin tin thread diletakkan di sisinya. Pejabat audit membaca lembar angka itu dua kali, dan wajahnya melakukan ekspresi orang yang menemukan makna di dalam cermin.
 
 "Assayer," katanya. "Nilai barangnya. Asal-usulnya. Semua."
 
 Maera Tull berjongkok di samping terpal, dan Ashvarok menontonnya bekerja seperti orang menonton jam besar dibongkar. Kotak timbung dibuka. Lensa kecil dinaikkan. Fragmen demi fragmen diangkat, dibalik, ditiup, ditimbang. Lilin itu dicek dengan jarum panas khusus. Dan wajah Assayer muda itu tetap netral sepanjang pekerjaan dengan disiplin yang, kali ini, adalah senjata.
 
-"Tiga hal, Tuan," katanya akhirnya, dengan suara yang keras secara sengaja. "Pertama: potongan-potongan ini segar. Hitungan hari, bukan bulan. Endapan garam dan mineral seam tidak ada sama sekali — fragmen yang tersimpan berbulan-bulan di gudang permukaan tetap membawa residu. Fragmen ini tidak membawa apa pun. Kedua: irama sayatnya lurus sempurna, pisau mesin, tekanan meja kerja. Seam the Underfold dipotong di bawah tekanan batu dan gelap, dan sayatnya bergerigi. Saya sudah membaca cukup inti bor Caldrest untuk bersumpah soal ini di depan komisi mana pun. Ketiga: lilin ini baru. Benang timahnya asli Choir, tetapi lilinnya belum pernah meleleh di dekat seam mana pun. Tidak ada residu. Tidak ada umur."
+"Tiga hal, Tuan," katanya akhirnya, dengan suara yang keras secara sengaja. "Pertama: potongan-potongan ini segar. Hitungan hari, bukan bulan. Endapan garam dan mineral seam tidak ada sama sekali — fragmen yang tersimpan berbulan-bulan di gudang permukaan tetap membawa residu. Fragmen ini tidak membawa apa pun. Kedua: irama sayatnya lurus sempurna, pisau mesin, tekanan meja bekerja. Seam the Underfold dipotong di bawah tekanan batu dan gelap, dan sayatnya bergerigi. Saya sudah membaca cukup inti bor Caldrest untuk bersumpah soal ini di depan komisi mana pun. Ketiga: lilin ini baru. Tin threadnya asli Choir, tetapi lilinnya belum pernah meleleh di dekat seam mana pun. Tidak ada residu. Tidak ada umur."
 
 Ia berdiri, membersihkan tangannya di lap kain, dan mengucapkan kalimat yang akan masuk ke laporan resmi dengan huruf-huruf yang tidak bisa diedit:
 
@@ -77,12 +77,12 @@ Selama setahun, mata itu menghitungnya. Malam ini, untuk alasan yang belum bisa 
 
 Penggerebekan resmi ditutup pada siang hari dengan temuan nol: tidak ada simpanan ilegal, tidak ada pelanggaran karantina, dan satu laporan anonim yang isinya telah dibantah oleh instrumen Guild di depan saksi. Maera mengarsipkan penilaian lengkapnya sebelum tengah hari — salinan untuk komisi, salinan untuk arsip Guild, dan, menurut kebiasaan yang sudah setahun menjadi benteng, satu keputusan diam tentang apa yang tidak masuk kertas mana pun.
 
-Malamnya barang-barang Brannoc naik kembali dari lorong aman, dan Foreman itu menghitung semuanya dengan suara keras sambil Ondar mencatat, persis seperti absen-nama barak tetapi untuk benda: "Pahat, dua belas. Mata pisau, dua puluh..." Ashvarok mendengarkan dari ambang pintu, dan menemukan bahwa daftar nama dan daftar barang, pada akhirnya, adalah doa yang sama: sebutkan apa yang ada, supaya yang hilang kelihatan.
+Malamnya barang-barang Brannoc naik kembali dari lorong aman, dan Foreman itu menghitung semuanya dengan suara keras sambil Ondar mencatat, persis seperti name-roll barak tetapi untuk benda: "Pahat, dua belas. Mata pisau, dua puluh..." Ashvarok mendengarkan dari ambang pintu, dan menemukan bahwa daftar nama dan daftar barang, pada akhirnya, adalah doa yang sama: sebutkan apa yang ada, supaya yang hilang kelihatan.
 
-"Hampir kena," kata Brannoc di akhir hitungannya, tanpa menoleh. "Sekali lagi macam begini, aku mulai percaya legenda soal kamu."
+"Hampir terkena," kata Brannoc di akhir hitungannya, tanpa menoleh. "Sekali lagi macam begini, aku mulai percaya legenda soal kamu."
 
 "Jangan. Legenda itu salah alamat."
 
-"Iya, iya." Mandor itu menyusun pahat-pahatnya ke kotak. "Tapi dia yang kena malam ini. Dan orang yang kena seperti itu biasanya nggak—tidak berhenti di satu kali."
+"Iya, iya." Mandor itu menyusun pahat-pahatnya ke kotak. "Tapi dia yang terkena malam ini. Dan orang yang terkena seperti itu biasanya tidak—tidak berhenti di satu kali."
 
-Ashvarok pulang ke barak melewati garis karantina yang lampunya menyala lebih awal, dan di tikungan terakhir ia mengizinkan dirinya satu penilaian singkat, seperti menutup buku besar. Jerat itu memantul utuh kepada pengirimnya, mata Ossian kini menyimpan wajah pegawainya sendiri di berkas yang paling mahal, dan musuh yang putus asa — menurut semua buku era yang pernah ia baca dan beberapa yang pernah ia bakar — adalah musuh yang berikutnya tidak akan memakai jerat.
+Ashvarok pulang ke barak melewati garis karantina yang lampunya menyala lebih awal, dan di tikungan terakhir ia mengizinkan dirinya satu penilaian singkat, seperti menutup buku besar. Jerat itu memantul utuh kepada pengirimnya, mata Ossian kini menyimpan wajah pegawainya sendiri di berkas yang paling mahal, dan musuh yang putus asa — menurut semua buku era yang pernah ia membaca dan beberapa yang pernah ia bakar — adalah musuh yang berikutnya tidak akan memakai jerat.

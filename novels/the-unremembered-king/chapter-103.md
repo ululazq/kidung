@@ -3,7 +3,7 @@ title: "Bab 103: Pembelian yang Membosankan"
 chapter: 103
 ---
 
-Kantor pusat the Quiet Vein berdiri satu malam perjalanan kereta pos ke timur dari Caldrest, di persimpangan jalur raya tempat troli-troli bijih dari empat lisensi bertemu dan berganti rel, dan bangunannya adalah hal pertama yang membuat tamu mengerti bahwa sekte ini tidak pernah tertarik pada kemegahan. Batu bata abu. Jendela besar supaya ruang kerja tidak butuh minyak lampu siang hari. Papan nama yang dicat ulang setiap tiga tahun dan tidak pernah lebih dari itu.
+Kantor pusat the Quiet Vein berdiri satu malam perjalanan kereta pos ke timur dari Caldrest, di persimpangan jalur raya tempat troli-troli bijih dari empat lisensi bertemu dan berganti rel, dan bangunannya adalah hal pertama yang membuat tamu mengerti bahwa sekte ini tidak pernah tertarik pada kemegahan. Batu bata abu. Jendela besar supaya ruang bekerja tidak butuh minyak lampu siang hari. Papan nama yang dicat ulang setiap tiga tahun dan tidak pernah lebih dari itu.
 
 Ossian Vael tiba pada siang hari keseratus empat puluh dua dengan kereta pos yang memang disediakan sekte, membawa satu tas pakaian, satu kotak alat tulis, dan satu berkas berisi seluruh angka cabang Caldrest yang bisa dikumpulkan dalam satu malam.
 
@@ -17,7 +17,7 @@ Ruang laporannya panjang, dengan meja tujuh kursi dan satu kursi tamu yang senga
 
 "Laporkan," kata ketua dewan tanpa basa-basi.
 
-Maka Ossian melaporkan. Produksi triwulan berjalan turun akibat penutupan teknis satu galeri, angka nol dua pekan menjelang akhir periode. Izin penutupan distrik timur mati oleh keputusan balai kota setelah verifikasi dokumen warisan oleh komisi Guild. Gugatan kompensasi kasus gas tua kalah seluruhnya, dengan santunan yang akan dipotong dari kas cabang pusat dalam tiga angsuran. Suaranya tenang, urut, dan membosankan seperti laporan cuaca, dan ia memberi ketiga pendengarnya waktu penuh untuk menyimpulkan bahwa pejabat di depan mereka sedang mempertahankan jabatan dengan cara memperlihatkan lukanya sendiri.
+Maka Ossian melaporkan. Produksi triwulan berjalan turun akibat penutupan teknis satu galeri, angka nol dua pekan menjelang akhir periode. Izin penutupan distrik timur mati oleh keputusan balai kota setelah verifikasi dokumen warisan oleh komisi Guild. Gugatan kompensasi kasus old gas kalah seluruhnya, dengan santunan yang akan dipotong dari kas cabang pusat dalam tiga angsuran. Suaranya tenang, urut, dan membosankan seperti laporan cuaca, dan ia memberi ketiga pendengarnya waktu penuh untuk menyimpulkan bahwa pejabat di depan mereka sedang mempertahankan jabatan dengan cara memperlihatkan lukanya sendiri.
 
 "Kesimpulan dewan sederhana," kata ketua dewan ketika laporan itu habis. "Cabang Caldrest memakan kas pusat dan mengeluarkan nol. Izinnya hilang. Distriknya dilindungi dokumen yang tidak bisa kita beli karena sudah dicap dua institusi. Pengikat supervisi kita menulis laporan yang isinya angka rotasi regu dan tidak ada satu baris penjelasan pun tentang kenapa sebuah galeri memilih diam." Ia mengetuk meja sekali. "Dewa telah memutuskan menarik operasi lisensi Caldrest ke skala minimum. Staf dikurangi. Kuota dibekukan. Kamu dipanggil pulang untuk menyerahkan administrasi cabang kepada kepala bagian kontrak dan menerima penugasan baru yang sesuai."
 
@@ -31,7 +31,7 @@ Ia mengambil dari berkasnya sebuah kertas yang sudah ia siapkan sejak Caldrest, 
 
 Perempuan tua kepala bagian kontrak membaca lembar itu paling cepat, karena membaca kontrak adalah satu-satunya jenis kecepatan yang dia hormati, dan di tengah halaman kedua kepalanya berhenti naik.
 
-"Ini penawaran pengambilalihan," katanya. "Kontrak kerja seluruh tenaga lisensi cabang Caldrest. Fasilitas, gudang, Quota Office, dan seluruh kewajiban kontraktualnya. Ditransfer dari sekte kepada Koordinasi Artefak Regional."
+"Ini penawaran pengambilalihan," katanya. "Kontrak bekerja seluruh tenaga lisensi cabang Caldrest. Fasilitas, gudang, Quota Office, dan seluruh kewajiban kontraktualnya. Ditransfer dari sekte kepada Koordinasi Artefak Regional."
 
 "Dengan dasar pasal supervisi," kata Ossian. "Segmen utama lisensi itu berdiri di atas klasifikasi struktur berklaim Testament, yang saat ini berada di bawah supervisi administratif biro saya sesuai kesepakatan Spire. Aset artefak wilayah tersupervisi tidak boleh dioperasikan oleh pemegang lisensi yang kasnya sedang dibedah pengadilan dan dewan bersamaan. Pasalnya memungkinkan Koordinasi mengambil alih operasi demi keamanan klasifikasi, dengan imbalan yang disetujui kedua pihak. Imbalannya ada di halaman tiga. Tunai. Sebagian besar dari jumlah yang sama yang akan ditarik dari kas pusat sebagai angsuran kompensasi."
 
@@ -39,7 +39,7 @@ Hening di ruangan itu bukan hening menolak. Ossian sudah cukup lama duduk di mej
 
 "Caldrest menghasilkan nol," kata ketua dewan pelan. "Kau menawarkan membeli nol."
 
-"Saya membeli sepuluh tahun kontrak kerja ribuan penambang yang sudah terlatih pada satu-satunya seam berklaim Testament di Karvess, lengkap dengan infrastrukturnya, dengan harga kurang dari nilai santunan yang dewan harus bayar tahun ini," kata Ossian. "Dan saya membelinya dengan uang yang membuat angsuran pertama kompensasi lunas hari juga, sehingga dewan bisa melapor ke pengadilan bahwa kewajiban diselesaikan lebih cepat dari jadwal. Nol adalah angka triwulan ini. Angka dewan yang lain adalah negatif."
+"Saya membeli sepuluh tahun kontrak bekerja ribuan penambang yang sudah terlatih pada satu-satunya seam berklaim Testament di Karvess, lengkap dengan infrastrukturnya, dengan harga kurang dari nilai santunan yang dewan harus bayar tahun ini," kata Ossian. "Dan saya membelinya dengan uang yang membuat angsuran pertama kompensasi lunas hari juga, sehingga dewan bisa melapor ke pengadilan bahwa kewajiban diselesaikan lebih cepat dari jadwal. Nol adalah angka triwulan ini. Angka dewan yang lain adalah negatif."
 
 Perempuan tua itu membalik ke halaman tiga, memeriksa angka, memeriksa pasal pemutusan, memeriksa pasal perlindungan bagi pekerja berkontrak sekolah. Lalu ia mengangkat wajah dengan ekspresi juru bahasa yang baru menerjemahkan kalimat buruk.
 
@@ -53,7 +53,7 @@ Ketua dewan menatapnya lama. Ada pertanyaan di balik tatapan itu, dan pertanyaan
 
 Percakapan itu berjalan tiga jam lagi di atas angka, potongan harga, jadwal serah terima, dan satu pasal yang diperjuangkan perempuan tua itu sampai dapat, yaitu bahwa seluruh kontrak sekolah anak pekerja berpindah dengan syarat perlindungan yang sama dan tidak boleh dibuka ulang oleh pihak penerima dalam dua tahun. Ossian menerimanya tanpa satu kali melawan, karena pasal itu gratis baginya dan mahal artinya bagi orang yang akan tinggal di distrik itu.
 
-Menjelang senja, perjanjian pengalihan itu ditandatangani. Tinta pusat sekte di kolom kiri, tinta Koordinasi Artefak Regional di kolom kanan, cap lilin abu di bawah keduanya. Kertas-kertas kontrak kerja ribuan orang di sebuah kota tambang yang jauh di barat resmi berganti pemilik dalam satu sore, dan tidak ada satu pun dari orang-orang dalam kontrak itu yang tahu, karena kertas tidak pernah memberitahu siapa pun sebelum seseorang datang membacakannya.
+Menjelang senja, perjanjian pengalihan itu ditandatangani. Tinta pusat sekte di kolom kiri, tinta Koordinasi Artefak Regional di kolom kanan, cap lilin abu di bawah keduanya. Kertas-kertas kontrak bekerja ribuan orang di sebuah kota tambang yang jauh di barat resmi berganti pemilik dalam satu sore, dan tidak ada satu pun dari orang-orang dalam kontrak itu yang tahu, karena kertas tidak pernah memberitahu siapa pun sebelum seseorang datang membacakannya.
 
 Serah terima administratifnya ditutup dengan tiga instruksi yang Ossian tulis sendiri pada lembar arahan kepala bagian kontrak, karena pembelian tanpa tindak lanjut hanya berpindahnya tinta. Pertama, seluruh surat pemberitahuan kepada tenaga lisensi Caldrest disiapkan malam ini juga, dicetak dengan stempel baru Koordinasi dan dibawa oleh kurir yang sama dengannya subuh ini, supaya kabar itu sampai sebagai keputusan yang sudah jadi dan bukan sebagai rumor yang bisa diorganisir melawannya. Kedua, kuota produksi segmen atas direstrukturisasi dalam skema yang lembar arahannya sebut transisi, angka baru yang tampak lebih rendah dari masa lalu namun dirancang agar setiap penalti administratifnya lebih tajam dari sebelumnya. Ketiga, satu nama di daftar kontrak galeri tujuh tidak diberi perlakuan apa pun sama sekali, sama seperti seribu nama lain, dan ia menulis instruksi ketiga itu sengaja dalam kalimat yang membosankan, karena anomali paling aman adalah anomali yang menolak menjadi istimewa.
 
@@ -75,4 +75,4 @@ Nama pinjamannya tertulis rapi di kolom pemilik kontrak, dengan umur masuk dan u
 
 Ia menatap nama itu lama, dengan perasaan yang tidak ia tulis di mana pun, lalu menutup kitab itu dan memadamkan lampunya. Di kegelapan, satu pikiran bekerja sampai ia tertidur, tenang dan dingin dan sabar seperti semua rencananya yang baik.
 
-Selama setahun ia mencoba menemukan penjaga tua Caldrest dengan memburu bayangannya. Maka mungkin sudah saatnya mencoba cara yang membosankan. Penjaga apapun identitasnya masih harus punya kontrak, dan kini seluruh isi kotak kontrak itu ada di dalam tasnya.
+Selama setahun ia mencoba menemukan old warden Caldrest dengan memburu bayangannya. Maka mungkin sudah saatnya mencoba cara yang membosankan. Penjaga apapun identitasnya masih harus punya kontrak, dan kini seluruh isi kotak kontrak itu ada di dalam tasnya.

@@ -9,7 +9,7 @@ Bahan bakunya bukan besi lagi. Di atas kain bersih di samping tungku, Ashvarok m
 
 Forge pada cinder-glass ternyata berbeda rasanya daripada pada besi. Besi melawan lalu mengalah. Kaca-batu ini berbernyanyi — gema alaminya begitu tua dan sabar sampai pola-pola Forge masuk ke dalamnya seperti air menemukan dasar sungai lama. Ashvarok menempa ketiga keping itu menjadi satu bilah pendek sepanjang telapak tangan — pisau upacara, bentuk yang tidak dipakai manusia zaman ini untuk apa pun praktis, sehingga tidak ada yang bertanya fungsinya apa. Bentuknya ia ambil dari ingatan seribu tahun silam — gagang segel minor Hegemony, jenis yang dulu dibawa para juru tulis kerajaan saat membubuhkan dokumen yang tidak boleh dipalsukan.
 
-Prosesnya memakan tiga malam, dan setiap malam tubuh Renn mengirim tagihannya dengan cara yang berbeda dari Cinder. Forge tidak mengambil satu jalur; ia mengambil sedikit dari semuanya. Setelah malam pertama, jemari kanannya gemetar sampai subuh. Setelah malam kedua, laparnya bisa dimakan empat porsi tanpa rasa bersalah dan tetap terbangun jam kedua. Setelah malam ketiga, ia menemukan dirinya menghitung ulang neraca hidupnya di tengah pepekerjaan — tanda tubuh yang sudah memasuki wilayah yang seharusnya tidak didatangi lagi minggu ini. Ashvarok mencatat harga itu di kolom Jam Pasir dengan kode yang hanya mereka berdua pahami: "mkn x4", lalu di bawahnya, lebih kecil — "jangan 2x lagi bulan ini."
+Prosesnya memakan tiga malam, dan setiap malam tubuh Renn mengirim tagihannya dengan cara yang berbeda dari Cinder. Forge tidak mengambil satu jalur; ia mengambil sedikit dari semuanya. Setelah malam pertama, jemari kanannya gemetar sampai subuh. Setelah malam kedua, laparnya bisa dimakan empat porsi tanpa rasa bersalah dan tetap terbangun jam kedua. Setelah malam ketiga, ia menemukan dirinya menghitung ulang neraca hidupnya di tengah pekerjaan — tanda tubuh yang sudah memasuki wilayah yang seharusnya tidak didatangi lagi minggu ini. Ashvarok mencatat harga itu di kolom Hourglass dengan kode yang hanya mereka berdua pahami: "mkn x4", lalu di bawahnya, lebih kecil — "jangan 2x lagi bulan ini."
 
 Disiplin baru itu rasanya aneh. Seribu tahun silam, dia bisa membakar setengah kerajaan dalam satu malam dan bangun pagi menandatangani dekrit. Sekarang, satu bilah kecil memakan tiga hari dan seluruh tabungan lemak bocah tambang. Dunia telah mengecil — tetapi justru karena itu, setiap barang yang berhasil dibuat kini punya bobot yang tidak pernah dimiliki jembatan-jembatan Hegemony. Bobot harga yang benar-benar dibayar sendiri.
 
@@ -19,7 +19,7 @@ Ia menempanya selama tiga malam. Dan setiap malam, harga Forge bekerja persis se
 
 Barang yang menua jadi lebih mahal. Untuk pertama kalinya dalam hidup kedua seninya, harga dan nilai berjalan searah.
 
-Masalahnya tinggal satu. Barang antik tidak punya harga sampai ada yang menilainya resmi. Dan satu-satunya assayer resmi di Caldrest sedang menyelesaikan survei yang tujuannya membongkar pepekerjaan pemilik barang.
+Masalahnya tinggal satu. Barang antik tidak punya harga sampai ada yang menilainya resmi. Dan satu-satunya assayer resmi di Caldrest sedang menyelesaikan survei yang tujuannya membongkar pekerjaan pemilik barang.
 
 ---
 
@@ -67,9 +67,9 @@ Dia meletakkan dokumen itu di peti kayu di antara mereka, dan selama beberapa de
 
 "Aku janji barang," kata Ashvarok pelan.
 
-"Dan aku janji menjaga kamu." Brannoc mengambil dokumen itu kembali, melipatnya dengan hati-hati yang tidak pernah dia berikan pada apa pun di tambang ini. "Berarti kita dua-duanya tidak gagal. Sekarang dengerin, karena ini penting. Mulai besok, kau bukan lagi bocah misterius yang aman karena diabaikan. Kau bocah yang barang temuannya membuat Quota Office rugi dua ratus tujuh puluh shardmark dalam sehari. Tharrow tidak akan lupa wajahmu. Orang-orangnya juga." Ia meletakkan tangannya di pundak Ashvarok — stempel lilin hitam yang kedua kalinya. "Jalanmu dari sekarang makin sempit. Tapi inget: sekarang ada anak sembilan tahun di distrik utara yang seluruh hidupnya tidak akan pernah masuk tambang. Itu tidak ada di neraca siapa pun kecuali kita berdua."
+"Dan aku janji menjaga kamu." Brannoc mengambil dokumen itu kembali, melipatnya dengan hati-hati yang tidak pernah dia berikan pada apa pun di tambang ini. "Berarti kita dua-duanya tidak gagal. Sekarang mendengarkan, karena ini penting. Mulai besok, kau bukan lagi bocah misterius yang aman karena diabaikan. Kau bocah yang barang temuannya membuat Quota Office rugi dua ratus tujuh puluh shardmark dalam sehari. Tharrow tidak akan lupa wajahmu. Orang-orangnya juga." Ia meletakkan tangannya di pundak Ashvarok — stempel lilin hitam yang kedua kalinya. "Jalanmu dari sekarang makin sempit. Tapi inget: sekarang ada anak sembilan tahun di distrik utara yang seluruh hidupnya tidak akan pernah masuk tambang. Itu tidak ada di neraca siapa pun kecuali kita berdua."
 
-Malam itu, di barak, kolom Jam Pasir mendapat entri yang bukan ukuran garis dan bukan catatan kepulangan:
+Malam itu, di barak, kolom Hourglass mendapat entri yang bukan ukuran garis dan bukan catatan kepulangan:
 
 "Hari ini kakakmu membuat anak Pak Brannoc bebas. Garis masih di tempat. Bagus."
 

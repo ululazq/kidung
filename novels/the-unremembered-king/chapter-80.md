@@ -3,15 +3,15 @@ title: "Bab 80: Barang Dagangan Bernama Diam"
 chapter: 80
 ---
 
-Lot itu datang pada pagi hari keseratus — lot kosong tanpa barang, dengan catatan panjang yang digulung dan diikat tali kaca sebagaimana disepakati berbulan-bulan silam. Vosk menyerahkannya ke tangan "pembaca teknis" dengan ekspresi orang menyerahkan kuitansi kosong, dan potongan delapan persen pun tidak dibicarakan, karena pesan seperti ini bukan dagangan dan keduanya tahu.
+Lot itu datang pada pagi hari keseratus — lot kosong tanpa barang, dengan catatan panjang yang digulung dan diikat tali kaca sebagaimana disepakati berbulan-bulan silam. Vosk menyerahkannya ke tangan "technical reader" dengan ekspresi orang menyerahkan kuitansi kosong, dan potongan delapan persen pun tidak dibicarakan, karena pesan seperti ini bukan dagangan dan keduanya tahu.
 
 Ashvarok membacanya dua kali di gang belakang pasar, lalu mengembalikan gulungan itu ke dalam lengan bajunya dan membeli setengah kilo umbi sebagai alasan kehadirannya. Teksnya pendek untuk ukuran catatan panjang, dan setiap kalimatnya ditulis dengan cara Maera menulis ketika ia sedang takut — urut, bertanggal, tanpa satu kata lebih besar dari fakta yang membawanya.
 
-Arsip rantai bayaran telah berpindah ke saya secara sah. Isinya lengkap sampai kode penerima teratas. Vael sudah menghitung kepindahan itu sebelum saya membaca lembar pertamanya. Malam kesembilan puluh sembilan ia mengajak saya makan malam kerja dan menawarkan harga terbuka atas segala sesuatu yang saya simpan — katanya, kata demi kata, sebut hargamu. Saya belum menjawab angka apa pun. Saya meminta waktu menghitung, dan waktu itu diberikan. Sebelum saya menghitung lebih jauh, Sebelum saya menghitung lebih jauh, saya perlu tahu dari Anda satu hal saja — apakah kebenaran ini boleh dipergunakan sebagian. Jawab lewat saluran ini. Tanda tangani tidak perlu; kami sudah lama tidak bekerja dengan tanda tangan.
+Arsip rantai bayaran telah berpindah ke saya secara sah. Isinya lengkap sampai kode penerima teratas. Vael sudah menghitung kepindahan itu sebelum saya membaca lembar pertamanya. Malam kesembilan puluh sembilan ia mengajak saya makan malam bekerja dan menawarkan harga terbuka atas segala sesuatu yang saya simpan — katanya, kata demi kata, sebut hargamu. Saya belum menjawab angka apa pun. Saya meminta waktu menghitung, dan waktu itu diberikan. Sebelum saya menghitung lebih jauh, Sebelum saya menghitung lebih jauh, saya perlu tahu dari Anda satu hal saja — apakah kebenaran ini boleh dipergunakan sebagian. Jawab lewat saluran ini. Tanda tangani tidak perlu; kami sudah lama tidak bekerja dengan tanda tangan.
 
 ---
 
-Malamnya gudang perkakas tingkat dua berkumpul lagi dengan susunan yang sama seperti malam keputusan. Brannoc di peti pahat. Maera di bangku kerja — datang sendiri, karena pesan balik memang harus dibahas di hadapannya — dan Sela kali ini duduk di dalam ruangan, bukan di ambang, karena pertanyaan malam ini adalah pertanyaan tentang harga, dan aturan keluarga tentang harga sudah lama ditulis ulang oleh ambang pintu itu sendiri.
+Malamnya gudang perkakas tingkat dua berkumpul lagi dengan susunan yang sama seperti malam keputusan. Brannoc di peti pahat. Maera di bangku bekerja — datang sendiri, karena pesan balik memang harus dibahas di hadapannya — dan Sela kali ini duduk di dalam ruangan, bukan di ambang, karena pertanyaan malam ini adalah pertanyaan tentang harga, dan aturan keluarga tentang harga sudah lama ditulis ulang oleh ambang pintu itu sendiri.
 
 Sebelum apa pun dibicarakan, mereka menutup gerbang-gerbang kecil yang disepakati — gudang dikunci dari dalam, lampu diredupkan ke sudut yang tidak terlihat dari jendela, dan Sela meletakkan papan tulisnya menghadap dinding — bukan karena isinya rahasia untuk ruangan ini, tapi karena kebiasaan adalah pagar yang paling tahan lama. Ashvarok memeriksa celah ventilasi dengan mata kuli yang mengeluh tentang udara, dan mendapati hanya udara. Semuanya pekerjaan dua menit yang dilakukan tanpa satu kata penjelasan, seperti orang tua rumah memasang gembok sebelum tidur.
 
@@ -51,20 +51,20 @@ Keputusan, ketika jatuh, jatuh dengan ringan seperti semua keputusan yang sudah 
 
 "Aku tahu." Maera mengangguk pelan, dan matanya menghitung sekali lagi, tapi kali ini Ashvarok tidak mendengar bunyi hitungannya, karena hitungan itu sudah selesai. "Aku yang minta jadi orang yang bertanya kepadanya apakah boleh dipakai sebagian. Berarti aku juga yang siap jadi orang yang menjawab harganya. Prosedurnya tetap prosedur, tapi penjualnya..." ia tersenyum tipis, senyum pertama dalam dua malam, "...penjualnya harus belajar dari para pedagang pasar ini. Jangan pernah tampak butuh."
 
-"Pagar absen-nama jam sembilan besok," kata Sela, bangkit, meliputi papan tulisnya ke dalam pelukan. "Kalau kalian mau jual-belikan kebenaran, jual-belilah dengan nama-nama yang masih lengkap. Nanti aku cek daftar kalian satu-satu."
+"Pagar name-roll jam sembilan besok," kata Sela, bangkit, meliputi papan tulisnya ke dalam pelukan. "Kalau kalian mau jual-belikan kebenaran, jual-belilah dengan nama-nama yang masih lengkap. Nanti aku cek daftar kalian satu-satu."
 
-Ia keluar, dan Brannoc menyusul setelah satu kalimat terakhirnya kepada Ashvarok — "batas Jam Pasirmu masih tertulis, ingat itu. Stempel belum ditempa dan badanmu sudah membayar dua kali minggu ini" — dan tinggallah gudang itu sunyi dengan sunyi yang sudah biasa menjadi ruang kerjanya.
+Ia keluar, dan Brannoc menyusul setelah satu kalimat terakhirnya kepada Ashvarok — "batas Hourglass-mu masih tertulis, ingat itu. Stempel belum ditempa dan badanmu sudah membayar dua kali minggu ini" — dan tinggallah gudang itu sunyi dengan sunyi yang sudah biasa menjadi ruang kerjanya.
 
 ---
 
 Ashvarok tidak langsung pulang.
 
-Ia duduk di bangku kerja dengan secarik kertas dan potongan arang, dan menulis — bukan pesan, bukan rencana, melainkan daftar yang selama ini hidup di kepalanya dan malam ini, setelah kebenaran resmi menjadi komoditas yang berpindah tangan, ia tidak berani lagi simpan hanya di kepala. Daftar itu ia tulis dengan huruf kecil, satu baris per orang:
+Ia duduk di bangku bekerja dengan secarik kertas dan potongan arang, dan menulis — bukan pesan, bukan rencana, melainkan daftar yang selama ini hidup di kepalanya dan malam ini, setelah kebenaran resmi menjadi komoditas yang berpindah tangan, ia tidak berani lagi simpan hanya di kepala. Daftar itu ia tulis dengan huruf kecil, satu baris per orang:
 
 Sela: tahu tubuh ini sekarat, tahu penghuninya bukan Renn, tahu harga badan. Tidak tahu namaku. Tidak boleh tahu sampai ia bertanya lagi.
 Brannoc: tahu garis besar semuanya kecuali nama dan usia. Cukup.
 Maera: tahu geometri, rantai panen, dan sekarang pegang tuas. Tidak tahu Walking Key. Jangan pernah sampai.
-Vael: tahu ada penjaga tua. Belum tahu siapa. Harus tetap belum.
+Vael: tahu ada old warden. Belum tahu siapa. Harus tetap belum.
 Pengikat senior: tahu batunya pernah ditempa dan daisnya pernah disentuh. Membaca sol kanannya sendiri. Biarkan.
 Tharrow: tahu aku bukan Renn biasa. Kini tanpa jabatan, dengan waktu yang banyak. Pantau.
 Kovan: mendengar suara. Menghitung. Bahaya terbesar yang tidak dibayar siapa pun.

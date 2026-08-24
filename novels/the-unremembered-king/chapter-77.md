@@ -21,11 +21,11 @@ Vael akan membayar mahal dan menguburkannya lebih dalam. Barak timur akan memaka
 
 ---
 
-Ruang kerja Assayer Tull di belakang pos Guild masih menyala lampunya lewat satu celah tirai. Ia mengetuk tiga kali, merata, cara pegawai mengetuk pintu pegawai.
+Ruang bekerja Assayer Tull di belakang pos Guild masih menyala lampunya lewat satu celah tirai. Ia mengetuk tiga kali, merata, cara pegawai mengetuk pintu pegawai.
 
 Maera Tull membuka pintu dengan lampu di satu tangan, dan matanya melakukan hitungan cepat yang selalu ia lakukan pada tamu — jam malam, kotak dokumen, wajah Pengawas yang seragamnya masih tanpa kerutan tapi matanya tidak. "Pengawas Tharrow. Pos tutup dua jam lalu."
 
-"Maka saya datang bukan sebagai pengawas." Ia masuk ketika langkahnya diberi izin, meletakkan kotak di meja kerja dengan kedua ujungnya turun serentak, dan berdiri di belakangnya dengan punggung tegak. "Saya datang sebagai sumber. Jabatan saya dibekukan pagi ini, Nona Tull. Cuti administratif, sementara penyelidikan. Suratnya sangat sopan."
+"Maka saya datang bukan sebagai pengawas." Ia masuk ketika langkahnya diberi izin, meletakkan kotak di meja bekerja dengan kedua ujungnya turun serentak, dan berdiri di belakangnya dengan punggung tegak. "Saya datang sebagai sumber. Jabatan saya dibekukan pagi ini, Nona Tull. Cuti administratif, sementara penyelidikan. Suratnya sangat sopan."
 
 "Aku dengar penyelidikan internal itu sudah dibuka sejak razia gagal," kata Maera hati-hati. "Komisi audit menutupnya tanpa tersangka."
 

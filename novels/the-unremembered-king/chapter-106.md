@@ -31,7 +31,7 @@ Pegawai mudanya masuk pada saat ia menyimpan lembar itu, membawa daftar urusan h
 
 Pegawai muda itu menunggu, karena instruksi biasanya datang sesudah kalimat seperti itu.
 
-Sebelum memberinya apa pun, Ossian membuka berkas kedua di meja itu, salinan pernyataan kolektif yang dikirim distrik timur ke pos Guild dengan tindasan ke biro. Satu lembar. Kalimat pembukanya pendek dan tidak satu pun kata sifat di dalamnya. Kami tinggal sebagai pelaksana tanah jasa. Perpindahan kontrak kami wajib verifikasi komisi. Di bawahnya nama-nama, satu per satu, ditandatangani dengan tangan yang sebagian besar terbiasa memegang perkakas dan bukan pena, dan jumlahnya bertambah pada setiap salinan mingguan yang dikirimkan, seperti air yang naik di sumur tanpa suara.
+Sebelum memberinya apa pun, Ossian membuka berkas kedua di meja itu, salinan pernyataan kolektif yang dikirim distrik timur ke pos Guild dengan tindasan ke biro. Satu lembar. Kalimat pembukanya pendek dan tidak satu pun kata sifat di dalamnya. Kami tinggal sebagai pelaksana service grant. Perpindahan kontrak kami wajib verifikasi komisi. Di bawahnya nama-nama, satu per satu, ditandatangani dengan tangan yang sebagian besar terbiasa memegang perkakas dan bukan pena, dan jumlahnya bertambah pada setiap salinan mingguan yang dikirimkan, seperti air yang naik di sumur tanpa suara.
 
 "Dia mengajukan pertanyaan yang tidak bisa dijawab dengan denda," kata Ossian. "Perhatikan dia tidak menyangkal perjanjian pengalihan. Dia tidak menyebut namaku. Dia bahkan tidak meminta pencabutan. Dia hanya memaksa setiap kontrak lewat satu pintu yang kuncinya dipegang Guild."
 
@@ -53,7 +53,7 @@ Surat itu ia tulis tangannya sendiri, karena beberapa surat terlalu penting untu
 
 Orang yang membaca surat itu nanti akan mengerti maksudnya dalam empat baris dan berpura-pura butuh empat paragraf. Itu pun bagian dari sopan santun mereka berdua.
 
-Ia membacakan drafnya kepada pegawai muda itu sore harinya, di ruang kerja Quota Office yang lampunya menyala lebih awal karena lereng timur sudah menggelap.
+Ia membacakan drafnya kepada pegawai muda itu sore harinya, di ruang bekerja Quota Office yang lampunya menyala lebih awal karena lereng timur sudah menggelap.
 
 "Laporan teknis berdasarkan metode pemeriksa," ulang pegawai itu. "Metodenya tidak kita tetapkan?"
 
@@ -73,6 +73,6 @@ Assayer Tull tidak memblokir jalurnya. Itu yang membuat langkah itu mahal. Dia m
 
 Baik, pikir Ossian. Biarkan dia menghitung. Penghitungan hanya berguna bagi pihak yang tahu isi papan sepenuhnya, dan ada satu bagian papan yang tidak dilihatnya, yaitu pengikat tua yang sebentar lagi turun ke kedalaman dengan surat tugas dari biro yang membosankan.
 
-Malam itu, sebelum memadamkan lampu, ia membuka laci berkunci dan menyimpan lembar verifikasi kosong di dalamnya, di bawah tumpukan kontrak yang namanya kini milik biro ini, termasuk satu nama bocah tungku lorong tujuh di antara seribu nama lain yang tidak ia baca satu per satu. Laci itu ditutup dan kuncinya diputar.
+Malam itu, sebelum memadamkan lampu, ia membuka laci berkunci dan menyimpan lembar verifikasi kosong di dalamnya, di bawah tumpukan kontrak yang namanya kini milik biro ini, termasuk satu nama bocah tungku lorong tujuh di antara seribu nama lain yang tidak ia membaca satu per satu. Laci itu ditutup dan kuncinya diputar.
 
 Pintu kedua telah dibuka. Sekarang tinggal menunggu apa yang dilaporkan orang yang berjalan masuk ke dalamnya.

@@ -11,7 +11,7 @@ Ia berdiri lama di depan papan sampai seorang penambang tua bertanya apakah kaba
 
 "Kabar baik," jawab Ashvarok. "Pintu kita tidak boleh dikunci lagi."
 
-Setahun penuh lorong B menjadi pintu: pintu buntu, pintu karantina, pintu yang hanya bisa dibuka dengan surat tanda Ossian Vael. Pintu itu telah menyelamatkan aula lebih sering daripada semua tenunan yang pernah ia buat. Dan kini, karena kemenangannya bekerja terlalu sempurna, pintu itu wajib terbuka — dan siapa pun dengan lisensi sah boleh berjalan empat puluh langkah ke dalam ruangan tempat retakan purba itu berdenyut dengan irama jantung tubuhnya sendiri.
+Setahun penuh lorong B menjadi pintu: blind door, pintu karantina, pintu yang hanya bisa dibuka dengan surat tanda Ossian Vael. Pintu itu telah menyelamatkan aula lebih sering daripada semua tenunan yang pernah ia buat. Dan kini, karena kemenangannya bekerja terlalu sempurna, pintu itu wajib terbuka — dan siapa pun dengan lisensi sah boleh berjalan empat puluh langkah ke dalam ruangan tempat retakan purba itu berdenyut dengan irama jantung tubuhnya sendiri.
 
 Kebaikan datang kembali sebagai tagihan. Seperti biasa.
 
@@ -31,7 +31,7 @@ Ashvarok meletakkan tangannya ke tepi dais dan mulai bekerja.
 
 Forge tipis kali ini berbeda dari semua tenunan yang pernah dipakainya di tambang ini. Bukan lapisan yang menua batu seratus tahun. Bukan kebohongan geometri pada dinding pintu. Yang ia bangun adalah lapisan pembosan, sebuah tenunan permanen yang membuat seluruh dais terbaca sebagai batu polos — bukan altar, bukan panggung, bukan kunci, melainkan tonjolan batu yang tidak punya cerita. Lambang ikatan itu tidak dihapus. Lambang itu dilapisi sampai mata yang melihatnya akan mencatat bekas oksidasi, hal yang sama sekali tidak layak dicatat. Alat mana pun yang kelak disentuhkan ke permukaan ini akan mendengar jawaban yang sama dengan batuan biasa — tidak ada di sini, silakan lanjutkan.
 
-Harganya ditagih di tempat yang biasa. Panas ditarik dari tubuhnya dalam satu tarikan panjang yang membuat pandangannya berkilau. Lapar itu datang bukan sebagai lapar makan melainkan lapar tulang, dan vein-scar kanan berdenyut dari siku ke arah bahu tanpa maju satu jari pun — menagih intensitas, bukan jarak, untuk pertama kalinya. Ia menyimpan catatan itu untuk Jam Pasir esok pagi — tanpa rambat. Hanya mahal.
+Harganya ditagih di tempat yang biasa. Panas ditarik dari tubuhnya dalam satu tarikan panjang yang membuat pandangannya berkilau. Lapar itu datang bukan sebagai lapar makan melainkan lapar tulang, dan vein-scar kanan berdenyut dari siku ke arah bahu tanpa maju satu jari pun — menagih intensitas, bukan jarak, untuk pertama kalinya. Ia menyimpan catatan itu untuk Hourglass esok pagi — tanpa rambat. Hanya mahal.
 
 Di dasar timur, empat puluh langkah dan setengah dari ambang, retakan purba itu terbaring di balik lapisan abunya, terbaca bagi semua instrumen sebagai formasi gagal — dan tetap diam sepanjang ia bekerja. Diam dengan cara yang ia kenali sekarang. Diam orang yang sudah mengucapkan sesuatunya dua hari lalu, keras sekali, di hadapan saksi yang tidak dimintanya. Ashvarok tidak mendekatinya. Ada pekerjaan yang lebih penting daripada menjawab penyapa, dan pekerjaan itu adalah memastikan bahwa tidak ada satu pun tangan lain di dunia ini yang akan sampai cukup dekat untuk mendengar apa yang pernah disapa.
 
@@ -51,7 +51,7 @@ Di dasar timur, empat puluh langkah dan setengah dari ambang, retakan purba itu 
 
 Jadwal itu disusun malam yang sama, di gudang perkakas tingkat dua, di atas meja yang biasa dipakai menghitung kuota.
 
-Sampulnya sudah ada dan cantik — undian inspeksi ventilasi berkala, program resmi yang lahir dari kesepakatan lama dengan Tharrow dan masih berjalan atas nama keselamatan kerja. Setiap pekan, satu regu memenangkan giliran turun memeriksa jalur udara — dan mulai pekan ini, setiap regu yang turun membawa satu tugas tambahan yang tidak tertulis di dokumen mana pun — menyentuh tepi dais dengan telapak tangan kosong selama sepuluh tarikan napas.
+Sampulnya sudah ada dan cantik — undian inspeksi ventilasi berkala, program resmi yang lahir dari kesepakatan lama dengan Tharrow dan masih berjalan atas nama keselamatan bekerja. Setiap pekan, satu regu memenangkan giliran turun memeriksa jalur udara — dan mulai pekan ini, setiap regu yang turun membawa satu tugas tambahan yang tidak tertulis di dokumen mana pun — menyentuh tepi dais dengan telapak tangan kosong selama sepuluh tarikan napas.
 
 "Sentuh saja?" tanya Ondar, yang dipanggil paling akhir dan paling bingung. "Bukan periksa? Bukan ukur?"
 
@@ -65,15 +65,15 @@ Mandor itu mengunyah akar pahitnya sekali, memikirkan posisinya sendiri di tenga
 
 "Lisensi normal artinya kita tidak bisa melarang mereka masuk," kata Ashvarok. "Tapi tidak ada pasal yang melarang kita ikut masuk bersama mereka, tersesat sedikit, berisik, bertanya banyak, dan bekerja sangat lambat di lorong-lorong yang salah." Ia menatap Brannoc tegak. "Patroli bukan penjagaan. Patroli adalah kehadiran. Batu polos butuh saksi yang ramai."
 
-Jadwal bergilir itu ditulis malam juga di selembar kertas karbon: empat regu ventilasi, empat giliran, nama-nama asli, tanggal-tanggal asli — kertas yang akan dibaca siapa pun yang menemukannya dan tetap kelihatan seperti apa adanya, program keselamatan kerja yang rajin. Kertas kedua, dengan kode yang hanya dimengerti tiga orang, digantung di balik pintu gudang — garis pendek untuk malam-malam ketika dais harus disentuh ulang oleh tangan yang tahu cara menenun.
+Jadwal bergilir itu ditulis malam juga di selembar kertas karbon: empat regu ventilasi, empat giliran, nama-nama asli, tanggal-tanggal asli — kertas yang akan dibaca siapa pun yang menemukannya dan tetap kelihatan seperti apa adanya, program keselamatan bekerja yang rajin. Kertas kedua, dengan kode yang hanya dimengerti tiga orang, digantung di balik pintu gudang — garis pendek untuk malam-malam ketika dais harus disentuh ulang oleh tangan yang tahu cara menenun.
 
 Brannoc membaca daftar giliran itu dua kali, lalu bertanya hal terakhir, pertanyaan yang sudah menunggu sejak ambang: "Kalau suatu malam ada yang masuk dan langsur berjalan lurus ke dais — bukan mengelilingi, bukan mengukur sana-sini, tapi lurus, seperti orang yang sudah tahu letaknya —"
 
 "Maka orang itu bukan sedang memanfaatkan lisensi," kata Ashvarok. "Orang itu sedang melanjutkan pekerjaan lamanya. Laporkan kepadaku pada pagi harinya, jangan pernah pada malamnya, dan jangan ikuti dia ke dalam." Ia memadamkan lampu meja. "Yang satu itu tugasku."
 
-Ashvarok mengambil giliran pertama untuk dirinya sendiri. Tidak ada yang memprotes. Tidak ada yang berani, dan lebih jujur lagi, tidak ada yang ingin mengambil bagian malam-malam pertama dari sebuah tempat yang baru saja berhenti bernama pintu buntu.
+Ashvarok mengambil giliran pertama untuk dirinya sendiri. Tidak ada yang memprotes. Tidak ada yang berani, dan lebih jujur lagi, tidak ada yang ingin mengambil bagian malam-malam pertama dari sebuah tempat yang baru saja berhenti bernama blind door.
 
-Esok paginya, Sela mencatat Jam Pasir di papan tulis dengan muka yang ia pakai setiap kali harga badan kakaknya naik jenis — bibir digigit dari dalam, kapur ditulis pelan-pelan, tanpa satu pun pertanyaan di ruangan yang didengar orang lain. Baris baru itu panjang dalam arti yang salah — tanpa rambat, hanya mahal. Di kolom belakang papan, daftar 19 nama mendapat tetangga baru — tulisan kecil milik Sela: PINTU TIDAK BOLEH DIKUNCI LAGI. KITA YANG JAGA.
+Esok paginya, Sela mencatat Hourglass di papan tulis dengan muka yang ia pakai setiap kali harga badan kakaknya naik jenis — bibir digigit dari dalam, kapur ditulis pelan-pelan, tanpa satu pun pertanyaan di ruangan yang didengar orang lain. Baris baru itu panjang dalam arti yang salah — tanpa rambat, hanya mahal. Di kolom belakang papan, daftar 19 nama mendapat tetangga baru — tulisan kecil milik Sela: PINTU TIDAK BOLEH DIKUNCI LAGI. KITA YANG JAGA.
 
 Dan malam itu, pada giliran pertama jadwal yang tidak resmi itu, Ashvarok berdiri sendirian di aula delapan banding tiga yang secara hukum kini milik siapa pun, mendengarkan langkah-langkah imajiner para pemegang lisensi yang kelak datang, dan meraba tepi daisnya — dingin, kasar, tidak menarik untuk disentuh dua kali. Batu paling polos di seluruh the Underfold, dan satu-satunya batu di dunia ini yang berhak dibaca begitu oleh semua orang.
 

@@ -5,11 +5,11 @@ chapter: 109
 
 Brannoc memeriksa simpul itu selama sepuluh menit tanpa berkata satu kata, di gudang perkakas tingkat dua, malam hari keseratus empat puluh delapan, dengan lampu yang ditutupi karung dan pintu yang disandera ember.
 
-Ia membacanya dengan cara mandor tua membaca kerja tangan, bukan dengan mata saja. Seratnya diremas, ditarik pelan di kedua ujung, dililitkan di jari, diletakkan di samping lampu untuk dibaca bayangannya. Lalu ia mengeluarkan dari kotak besinya dua barang yang sudah lama disimpannya bersama sampel lilin putih-abu. Serat tali dari nat dekat pasak ketiga, dipungut musim panas lalu. Dan potongan tali pendek yang tersangkut di sudut tas kurir bisu hampir setahun silam, di gang belakang Quota Office, pada malam ketika mereka menyandera kiriman itu selama sepuluh tarikan napas.
+Ia membacanya dengan cara mandor tua membaca bekerja tangan, bukan dengan mata saja. Seratnya diremas, ditarik pelan di kedua ujung, dililitkan di jari, diletakkan di samping lampu untuk dibaca bayangannya. Lalu ia mengeluarkan dari kotak besinya dua barang yang sudah lama disimpannya bersama sampel lilin putih-abu. Serat tali dari nat dekat pasak ketiga, dipungut musim panas lalu. Dan potongan tali pendek yang tersangkut di sudut tas kurir bisu hampir setahun silam, di gang belakang Quota Office, pada malam ketika mereka menyandera kiriman itu selama sepuluh tarikan napas.
 
 Tiga tali. Satu umur serat yang berbeda-beda. Satu tangan yang sama.
 
-"Simpul jalanan," kata Brannoc akhirnya. "Dipasang cepat, kencang sendiri. Tarik ujung satunya, lepas semua." Ia meletakkan tiga potongan itu berjajar di atas meja kerja, seperti penilai menjajarkan bukti. "Kurir bisu itu mengikat bungkusannya dengan simpul ini. Kurir yang wajahnya sama setiap kali. Yang giginya peluit logam."
+"Simpul jalanan," kata Brannoc akhirnya. "Dipasang cepat, kencang sendiri. Tarik ujung satunya, lepas semua." Ia meletakkan tiga potongan itu berjajar di atas meja bekerja, seperti penilai menjajarkan bukti. "Kurir bisu itu mengikat bungkusannya dengan simpul ini. Kurir yang wajahnya sama setiap kali. Yang giginya peluit logam."
 
 "Dan serat dari dekat pasak," kata Renn, "punya simpul yang sama di ujungnya."
 
@@ -39,7 +39,7 @@ Brannoc memikirkannya dengan cara prajuritnya, yaitu menghitung pintu. "Produksi
 
 Malam berikutnya mereka memeriksa slot itu sendiri, dengan cara yang tidak meninggalkan jejak bahwa ia diperiksa.
 
-Gang serahan belakang Quota Office belum berubah banyak sejak malam ketika peluit logam itu digigit di dalamnya. Pintu samping, celah tembok, bekas gesekan tas di tepi batu pijakan. Brannoc membaca lantainya dengan lampu kecil merah, dan pada sudut pijakan ia menemukan yang dicarinya. Bekas tarikan tali baru di kait besi. Serat halus hitungan pekan. Dan bau samar lilin yang tidak lilin tambang, melainkan lilin surat, lilin putih-abu yang benang timahnya sudah lama mereka kenali lebih baik daripada pemiliknya.
+Gang serahan belakang Quota Office belum berubah banyak sejak malam ketika peluit logam itu digigit di dalamnya. Pintu samping, celah tembok, bekas gesekan tas di tepi batu pijakan. Brannoc membaca lantainya dengan lampu kecil merah, dan pada sudut pijakan ia menemukan yang dicarinya. Bekas tarikan tali baru di kait besi. Serat halus hitungan pekan. Dan bau samar lilin yang tidak lilin tambang, melainkan lilin surat, lilin putih-abu yang tin threadnya sudah lama mereka kenali lebih baik daripada pemiliknya.
 
 "Masih lewat," kata Brannoc pelan. "Kiriman masih masuk slot itu minggu ini. Dana yang programnya sudah mati setahun masih jalan di lorong ini tiap beberapa malam."
 
@@ -49,7 +49,7 @@ Ia berdiri sebentar di ujung gang, memandangi pintu samping Quota Office yang ge
 
 "Mari kita pulang," katanya akhirnya. "Tempat ini sudah memberi kita apa yang dimiliki."
 
-Mereka kembali lewat jalur troli kosong tanpa satu percakapan lagi, karena gang seperti itu punya telinga meski sepi, dan rencana yang sedang matang di kepala keduanya terlalu besar untuk dibicarakan di udara terbuka. Baru di gudang perkakas, di atas papan kerja yang sama, rencana itu diuraikan pelan-pelan dengan potongan kapur, dan bahkan kapur pun dipakai seperlunya saja, sebab simbol cukup untuk dua kepala yang sudah setahun berhitung bersama.
+Mereka kembali lewat jalur troli kosong tanpa satu percakapan lagi, karena gang seperti itu punya telinga meski sepi, dan rencana yang sedang matang di kepala keduanya terlalu besar untuk dibicarakan di udara terbuka. Baru di gudang perkakas, di atas papan bekerja yang sama, rencana itu diuraikan pelan-pelan dengan potongan kapur, dan bahkan kapur pun dipakai seperlunya saja, sebab simbol cukup untuk dua kepala yang sudah setahun berhitung bersama.
 
 Umpan kedua, kata Renn, harus menawarkan kepada jaringan itu persis barang yang paling mereka lapar. Kesempatan panen yang pasti, terbatas, dan tanpa saksi. Caranya dua. Pertama, bukti barang. Sebuah tulang seam, fragmen retakan premium, jenis barang yang membuat panener dulu dibayar mahal untuk memotongnya. Tempaan, bukan asli, supaya bisa dikenali pemiliknya kelak di hadapan prosedur mana pun. Ditempa dengan tanda tempa yang halus, tanda yang tidak terlihat orang biasa tapi terbaca instrumen Guild dan terbaca dirinya sendiri, sehingga begitu barang itu berpindah tangan, rantai pemiliknya bisa dibuktikan sampai ujungnya.
 
@@ -71,7 +71,7 @@ Pekerjaan menempa dilakukan dua malam kemudian, di ruang tungku ventilasi tingka
 
 Fragmen tulang seam itu dibuat dari cinder-glass tua yang dibelinya tersebar di pasar dalam tiga pekan, dan ditenun dengan pola yang meniru struktur retakan sungguhan sampai terbaca asli oleh tangan yang tidak tahu harus mencari apa. Tanda tempanya ditaruh di bidang dalam, satu lingkaran kecil berisi empat titik, pola yang hanya bermakna bagi dua pembaca di Caldrest dan tidak bermakna bagi siapa pun lainnya. Umur barangnya diberi pinjaman waktu seperti biasa, dan seperti biasa tubuh ini menagihnya di tempat yang selalu sama. Lapar dua hari. Vein-scar kanan berdenyut sampai batas setengah lengannya tanpa maju, dan Ashvarok duduk di lantai ruang tungku sampai denyutnya turun, memegang umpan yang hangat di telapak tangannya seperti orang memegang mata uang yang belum tahu akan dibelanjakan ke mana.
 
-Sela yang mencatat malam itu, karena kolom Jam Pasir tidak mengenal liburan. Ia menulis tanggal, kata "umpan", dan satu garis miring, lalu membaca ulang tulisannya sendiri sebelum bertanya tanpa mendongak dari papan tulisnya.
+Sela yang mencatat malam itu, karena kolom Hourglass tidak mengenal liburan. Ia menulis tanggal, kata "umpan", dan satu garis miring, lalu membaca ulang tulisannya sendiri sebelum bertanya tanpa mendongak dari papan tulisnya.
 
 "Kalau umpan ini berhasil, kamu dapat apa?"
 

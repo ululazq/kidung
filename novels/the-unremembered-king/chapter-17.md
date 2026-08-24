@@ -53,7 +53,7 @@ Ashvarok menjaga wajahnya tetap berupa wajah bocah yang mendengarkan cerita mena
 
 Mereka naik bersama ke persimpangan, tenaga bantu dan assayer, dua pembawa barang yang tidak saling melihat. Di tengah tangga, Maera berkata tanpa menoleh:
 
-"Pertanyaan saya yang tidak akan masuk laporan. Kalau anomali itu benar ditutup orang — penutupnya pakai apa? Alat Guild tidak punya metode. Tradisi Sects tidak punya. Bahkan pengikat Chorus-tier butuh sembilan hari dan artefak pengikat untuk pepekerjaan sekelas itu."
+"Pertanyaan saya yang tidak akan masuk laporan. Kalau anomali itu benar ditutup orang — penutupnya pakai apa? Alat Guild tidak punya metode. Tradisi Sects tidak punya. Bahkan pengikat Chorus-tier butuh sembilan hari dan artefak pengikat untuk pekerjaan sekelas itu."
 
 "Mungkin penutupnya kecil," kata Ashvarok. "Orang kecil, celahnya juga kecil."
 
@@ -75,7 +75,7 @@ Tetapi ada sisi lain yang tidak boleh dilupakan. Junior assayer itu baru saja me
 
 Musuh potensial, mitra sewa-menyewa, dan sekarang: alat deteksi kebohongan yang tidak bisa dibeli dengan uang mana pun.
 
-Dia memasuki barak ketika langit sudah gelap, dan di meja, Sela sudah menyiapkan makanan untuk tiga orang. Di pojok bawah papan tulis, kolom Jam Pasir mendapat entri baru dengan tulisan kecil yang bukan angka:
+Dia memasuki barak ketika langit sudah gelap, dan di meja, Sela sudah menyiapkan makanan untuk tiga orang. Di pojok bawah papan tulis, kolom Hourglass mendapat entri baru dengan tulisan kecil yang bukan angka:
 
 "Garisan sama. Kamu pulang lebih pagi. Bagus."
 

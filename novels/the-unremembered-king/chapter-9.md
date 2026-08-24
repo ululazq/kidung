@@ -9,7 +9,7 @@ Pasar cinder-glass Caldrest dibuka saat kabut masih menempel di lereng, dan tutu
 
 "Kamu belajar itu dari mana?"
 
-"Dari ikut kamu beli sayur tiga tahun." Dia mengetuk papan tulisnya. "Angka hari ini: kita butuh minimal dua puluh shardmark biar minggu pertama pepekerjaan sampinganmu tidak bohong."
+"Dari ikut kamu beli sayur tiga tahun." Dia mengetuk papan tulisnya. "Angka hari ini: kita butuh minimal dua puluh shardmark biar minggu pertama pekerjaan sampinganmu tidak bohong."
 
 Dua puluh. Ashvarok menyimpan angka itu di tempat angka lain disimpan, lalu mulai berjalan menuju tujuan yang sudah ia tandai sejak kemarin.
 
@@ -47,7 +47,7 @@ Pasar bergerak mengelilingi keheningan mereka: tawar-menawar, gemuruh troli, ter
 
 Di meja sebelah, seorang pembeli tua sedang memeriksa cinder-glass dengan cara yang membuat Ashvarok mengamati balik: pencahayaan lilin dari bawah, putaran perlahan, telinga mendekat di akhir — orang yang membaca gema dengan alat, bukan bakat, cara zaman ini meniru apa yang dulu bisa dilakukan anak-anak era Hegemony tanpa berdiri. Pasar ini penuh bahasa yang setengah dilupakan; hanya pelakunya yang sudah berganti.
 
-"Yang bayar jasa begini biasanya orang yang takut rugi lebih besar dari harga takutnya. Mereka juga biasanya tidak mau nama mereka nyambung ke ramalan." Jari dingin itu mengetuk meja tiga kali, ritme penengah menghitung persentase. "Lima belas persen buatku, dan kamu bukan peramal. Kamu 'pembaca teknis' — kata itu punya izin, ramal tidak. Klien datang lewat aku, bayaran lewat aku, dan kamu tidak pernah tahu siapa mereka. Itu bagian yang membuat semua orang tetap hidup."
+"Yang bayar jasa begini biasanya orang yang takut rugi lebih besar dari harga takutnya. Mereka juga biasanya tidak mau nama mereka nyambung ke ramalan." Jari dingin itu mengetuk meja tiga kali, ritme penengah menghitung persentase. "Lima belas persen buatku, dan kamu bukan peramal. Kamu 'technical reader' — kata itu punya izin, ramal tidak. Klien datang lewat aku, bayaran lewat aku, dan kamu tidak pernah tahu siapa mereka. Itu bagian yang membuat semua orang tetap hidup."
 
 "Delapan persen, dan klien pertama gratis untukku. Aku butuh nama baik lebih daripada aku butuh potonganmu minggu ini."
 
@@ -73,11 +73,11 @@ Klien pertama datang sore yang sama, lebih cepat daripada yang Ashvarok hitung, 
 
 Seorang foreman lubang sewaan dari distrik barat — pria kurus dengan tiga puluh persen seragam resmi dan sisanya harapan — datang lewat Vosk dengan langkah orang yang sudah kehabisan opsi tapi belum kehabisan utang. Klaimnya — satu lubang tua kelas empat, kuota naik, timnya tinggal enam hari sebelum kontrak berlapis menyedot jaminan alat mereka.
 
-"Mereka bilang kamu bisa baca batu," kata foreman itu. Tangannya gemetar bukan karena takut tetapi karena kopi murah. "Aku tidak percaya ramal-ramalan. Tapi Vosk bilang kamu bukan peramal."
+"Mereka bilang kamu bisa membaca batu," kata foreman itu. Tangannya gemetar bukan karena takut tetapi karena kopi murah. "Aku tidak percaya ramal-ramalan. Tapi Vosk bilang kamu bukan peramal."
 
-"Bukan. Aku pembaca teknis." Ashvarok memeriksa tiga keping sampel yang dibawa foreman itu, satu per satu, dengan telapak tangan dan ketukan jarinya, lalu meletakkannya berderet di meja Vosk. "Keping satu. Gema mati, jangan buang tenaga. Keping dua. Gema tipis tapi hidup — ikuti arah retaknya tiga hasta ke selatan, ada cabang. Keping tiga—" ia menahan diri untuk tidak tersenyum pada kebenaran yang enak dibaca, "—keping ini dari lorong yang dalam enam puluh hari akan amblas. Bukan bahaya besok. Tapi jangan kerja bagian situ saat musim hujan abu."
+"Bukan. Aku technical reader." Ashvarok memeriksa tiga keping sampel yang dibawa foreman itu, satu per satu, dengan telapak tangan dan ketukan jarinya, lalu meletakkannya berderet di meja Vosk. "Keping satu. Gema mati, jangan buang tenaga. Keping dua. Gema tipis tapi hidup — ikuti arah retaknya tiga hasta ke selatan, ada cabang. Keping tiga—" ia menahan diri untuk tidak tersenyum pada kebenaran yang enak dibaca, "—keping ini dari lorong yang dalam enam puluh hari akan amblas. Bukan bahaya besok. Tapi jangan bekerja bagian situ saat musim hujan abu."
 
-"Ambles?" Foreman itu mengecek keping ketiga seperti mengecek mata uang palsu. "Dasarnya kokoh, tuh."
+"Amblas?" Foreman itu mengecek keping ketiga seperti mengecek mata uang palsu. "Dasarnya kokoh, memang begitu."
 
 "Air formasi tidak peduli dasarnya kokoh. Dia makan sambungannya." Ashvarok mengulurkan tangan. "Bayaran depan. Delapan persen Vosk sudah termasuk, dia yang nanti tagih saya."
 
@@ -89,7 +89,7 @@ Yang tidak bisa dihitung ulang adalah sisa lemak tubuh Renn, yang belum bertamba
 
 Di jalan pulau gang menuju barak, Sela membuka papan tulisnya di bawah lampu jalan yang setia menyala setengah.
 
-"Enam belas koma lima bersih hari ini," katanya, memenulis. "Tambah lima upah shift, dua puluh satu koma lima. Target dua puluh lewat." Dia berhenti memenulis, mendongak, dan wajahnya menunjukkan pertanyaan nomor tiga yang khas. "Renn. Yang kamu baca di keping ketiga itu — amblas enam puluh hari — itu hitungan atau firasat?"
+"Enam belas koma lima bersih hari ini," katanya, memenulis. "Tambah lima upah shift, dua puluh satu koma lima. Target dua puluh lewat." Dia berhenti memenulis, mendongak, dan wajahnya menunjukkan pertanyaan nomor tiga yang khas. "Renn. Yang kamu membaca di keping ketiga itu — amblas enam puluh hari — itu hitungan atau firasat?"
 
 "Hitungan."
 
@@ -99,10 +99,10 @@ Ashvarok memandangi adik angkatnya di bawah lampu yang setengah mati, dan memili
 
 "Pola," katanya. "Batu yang sakit kelihatan sama seperti orang sakit kalau kamu rajin lihat. Aku rajin lihat."
 
-"Dan kalau ada batunya yang tidak bisa kamu baca?"
+"Dan kalau ada batunya yang tidak bisa kamu membaca?"
 
 "Ada satu," kata Ashvarok, dan kalimat itu keluar lebih jujur dari rencananya. "Kedalaman tertentu. Batu di sana tidak bicara. Dia bernyanyi."
 
 Sela menatapnya tiga detik penuh, lalu mencatat sesuatu yang pendek di pojok papan tulis, dan menutupnya.
 
-"Kalau gitu besok aku ikut lagi," katanya. "Orang sakit juga butuh yang tidak hanya rajin lihat. Butuh yang ngitung obatnya."
+"Kalau begitu besok aku ikut lagi," katanya. "Orang sakit juga butuh yang tidak hanya rajin lihat. Butuh yang ngitung obatnya."

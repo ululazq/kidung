@@ -15,7 +15,7 @@ Angka-angka tidak pernah berbohong, dan pada malam hari keempat puluh tujuh angk
 
 Sela menulis sesuatu di kolom samping — kebiasaannya mencatat hal-hal yang bukan angka di tempat yang tidak akan dibaca orang lain — lalu menghapusnya sebelum sempat ia membacanya sendiri. "Kalau kas habis dalam tiga pekan, apa yang terjadi?"
 
-"Aku berhenti makan secukupnya, harga tubuh ini naik, dan Jam Pasirmu bertambah panjang. Itu yang terjadi kalau kita tidak melakukan apa-apa."
+"Aku berhenti makan secukupnya, harga tubuh ini naik, dan Hourglass-mu bertambah panjang. Itu yang terjadi kalau kita tidak melakukan apa-apa."
 
 "Kalau begitu lakukan sesuatu." Sela menutup kapur itu ke tepi papan. Perintah itu keluar dari mulut anak berusia sebelas tahun dengan nada mandor kecil yang tidak menyadari dirinya lucu, dan Ashvarok, untuk pertama kalinya dalam dua kehidupan, merasa didikte oleh orang yang pernah ia bantu belajar berhitung.
 
@@ -57,7 +57,7 @@ Dan di setiap item, menua bekerja untuknya, bukan melawannya. Besi yang ditenun 
 
 Pada tengah malam, ketukan halus di pintu memberitahunya bahwa Sela datang dengan papan tulisnya, dan sesaat kemudian anak itu sudah duduk bersimpuh di sebelahnya, menghitung. Ia membawa juga sebungkus roti hitam dan telur rebus dua — makanan yang tidak dimintanya, yang berarti makanan yang dicurigakan dari cara ia menatap lengan kakaknya sebelum meletakkannya.
 
-"Aku sudah menghitung mundur," kata Sela, buka bicara tanpa salam. "Kalau tiap item memakan lemak segini, dan cadangan badanmu tinggal segini, kamu bisa bikin—membuat dua puluh item sebelum aturan ikat pinggangku terpicu. Jadi kita berhenti di lima belas. Kenapa lima belas? Karena lima sisanya cadangan untuk hal yang tidak kita tahu."
+"Aku sudah menghitung mundur," kata Sela, membuka bicara tanpa salam. "Kalau tiap item memakan lemak sebesar ini, dan cadangan badanmu tinggal sebesar ini, kamu bisa membuat—membuat dua puluh item sebelum aturan ikat pinggangku terpicu. Jadi kita berhenti di lima belas. Kenapa lima belas? Karena lima sisanya cadangan untuk hal yang tidak kita tahu."
 
 Ashvarok memandang adiknya — anak yang tiga puluh delapan hari silang hanya mencatat perbedaan, dan kini menghitung cadangan tubuhnya seperti juru ukur menghitung tali tambang — dan memutuskan bahwa argumen itu tidak layak dilawan dengan kebohongan manapun.
 
@@ -71,7 +71,7 @@ Ashvarok memandang adiknya — anak yang tiga puluh delapan hari silang hanya me
 
 "Karena aku sedang diamati, dan penjualan oleh bocah yang sedang diaudit adalah kabar yang berjalan cepat ke arah yang salah. Gerobak Vosk menjual seratus hal setiap hari. Seratus plus enam tidak berarti apa-apa bagi siapa pun."
 
-"Kenapa Vosk mau? Potongannya delapan persen, dan delapan persen dari barang kecil-kecil cuma—" Sela berhenti, menghitung, dan matanya berkedip saat angkanya jatuh. "Sedikit. Sangat sedikit."
+"Kenapa Vosk mau? Potongannya delapan persen, dan delapan persen dari barang kecil-kecil hanya—" Sela berhenti, menghitung, dan matanya berkedip saat angkanya jatuh. "Sedikit. Sangat sedikit."
 
 "Karena aku tidak akan memintanya sekali. Aku akan memintanya setiap pekan, jumlah yang sama, jenis yang sama, tanpa cerita. Orang yang menjual seribu hal kecil secara teratur bukan pembawa kabar. Dia cuaca. Dan tidak ada yang memata-matai cuaca."
 

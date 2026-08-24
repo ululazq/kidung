@@ -3,9 +3,9 @@ title: "Bab 46: Banyak Prosedur"
 chapter: 46
 ---
 
-Subuh hari kelima puluh enam menemukan Ossian Vael masih di belakang meja kerja kamarnya di penginapan distrik atas, dengan tiga lembar kertas yang belum selesai dan sebuah lilin yang sudah dua kali diganti tanpa ia sadari kapan.
+Subuh hari kelima puluh enam menemukan Ossian Vael masih di belakang meja bekerja kamarnya di penginapan distrik atas, dengan tiga lembar kertas yang belum selesai dan sebuah lilin yang sudah dua kali diganti tanpa ia sadari kapan.
 
-Surat pertama sudah rampung sebelum fajar. Isinya tiga paragraf, dan setiap paragraf benar sekaligus kosong: fenomena akustik terlokalisasi pada malam kesembilan lima lima, diduga kantong gas tua pada retakan kedalaman. Dampak fisiologis temporer berupa disorientasi waktu pada separuh shift. Langkah mitigasi sedang disusun dan akan dilaporkan menyusul. Ia membacanya sekali, menemukannya efisien, lalu melipatnya ke amplop pertama. Kebohongan terbaik, menurut pengalamannya, bukanlah yang paling rumit, melainkan yang paling membosankan untuk diverifikasi.
+Surat pertama sudah rampung sebelum fajar. Isinya tiga paragraf, dan setiap paragraf benar sekaligus kosong: fenomena akustik terlokalisasi pada malam kesembilan lima lima, diduga kantong old gas pada retakan kedalaman. Dampak fisiologis temporer berupa disorientasi waktu pada separuh shift. Langkah mitigasi sedang disusun dan akan dilaporkan menyusul. Ia membacanya sekali, menemukannya efisien, lalu melipatnya ke amplop pertama. Kebohongan terbaik, menurut pengalamannya, bukanlah yang paling rumit, melainkan yang paling membosankan untuk diverifikasi.
 
 Masalahnya, cerita gas itu punya umur yang bisa ia hitung dengan jari satu. Orang-orang percaya pada malam yang lelah, tetapi matahari membuat mereka bertanya, dan pertanyaan adalah bibit dari klasifikasi ulang. Separuh shift mendengar sesuatu yang tidak mirip gas, tidak mirip apa pun, dan ingatan sekumpulan orang tidak bisa disita seperti dokumen. Ada dua cara menutup cerita: membantainya, atau memberinya rumah resmi.
 

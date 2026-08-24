@@ -5,7 +5,7 @@ chapter: 19
 
 Shift Guard baru datang pada hari kedua puluh dua, dan datangnya bukan dengan sepatu tambang melainkan dengan sepatu kulit yang masih berderit baru. Nama dia Kovan, Voice-tier, dikirim kantor pusat the Quiet Vein "untuk meningkatkan efisiensi penyaluran di tingkat dasar" — kalimat surat resmi yang oleh para penambang diterjemahkan dalam satu jam menjadi versi aslinya. Mulai sekarang ada yang mendengar kalian.
 
-Ashvarok membaca surat edarannya di papan pengumuman, dibacakan sambil lalu oleh Ondar untuk mereka yang tidak lancar, dan mencatat tiga hal dengan ketenangan orang membaca musuh lama memakai seragam baru. Satu. Uji kesesuaian vein dilakukan tiap pergantian shift, wajib, hasilnya masuk buku besar. Dua. Penyaluran tanpa izin di area kerja dikategorikan pelanggaran kontrak berlapis — kalimat yang ditulis untuk menutup celah yang belum ada, kecuali bagi orang yang tahu persis celah mana yang dimaksud. Tiga. Nama penandatangan surat itu bukan Kel Tharrow.
+Ashvarok membaca surat edarannya di papan pengumuman, dibacakan sambil lalu oleh Ondar untuk mereka yang tidak lancar, dan mencatat tiga hal dengan ketenangan orang membaca musuh lama memakai seragam baru. Satu. Uji kesesuaian vein dilakukan tiap pergantian shift, wajib, hasilnya masuk buku besar. Dua. Penyaluran tanpa izin di area bekerja dikategorikan pelanggaran kontrak berlapis — kalimat yang ditulis untuk menutup celah yang belum ada, kecuali bagi orang yang tahu persis celah mana yang dimaksud. Tiga. Nama penandatangan surat itu bukan Kel Tharrow.
 
 Nama di bagian bawah surat adalah Ossian Vael, Koordinasi Artefak Regional.
 
@@ -43,7 +43,7 @@ Ashvarok menimbang pilihan-pilihan dengan kecepatan yang hanya dimiliki orang ya
 
 — dan di titik itu, Ashvarok memanggil untaian ketiga.
 
-Bukan Cinder; api akan meninggalkan panas yang terasa. Bukan Name; harga namanya sudah pernah dibayar sampai tinggal tulang. Ash. Untaian pembusukan: memakan panas, memadamkan gema, menghapus jejak. Polanya sederhana — pola Ash selalu sederhana, karena pepekerjaannya memang menghapus — dan ia menjalankannya lewat titik kontak yang sama: telapak kiri pada lempeng batu.
+Bukan Cinder; api akan meninggalkan panas yang terasa. Bukan Name; harga namanya sudah pernah dibayar sampai tinggal tulang. Ash. Untaian pembusukan: memakan panas, memadamkan gema, menghapus jejak. Polanya sederhana — pola Ash selalu sederhana, karena pekerjaannya memang menghapus — dan ia menjalankannya lewat titik kontak yang sama: telapak kiri pada lempeng batu.
 
 Gema Voice-tier Kovan padam di tengah alurnya seperti lilin ditelan air.
 
@@ -63,7 +63,7 @@ Untuk pertama kalinya sejak pagi, wajah cermin itu kehilangan senyumnya sepenuhn
 
 "Alatnya rusak," kata Kovan pada lempeng itu, atau pada dirinya sendiri. "Lempeng lama. Retak halus."
 
-"Lorong tua memang gitu," kata Ashvarok membantu, membantu dengan suara yang paling tidak membantu di dunia.
+"Lorong tua memang begitu," kata Ashvarok membantu, membantu dengan suara yang paling tidak membantu di dunia.
 
 Sekitar mereka, barisan penambang pura-pura sibuk dengan sepatu masing-masing. Brannoc, dari ujung lorong, menonton tanpa melangkah lebih dekat — dan Ashvarok tahu foreman tua itu sudah membaca semuanya: gema yang padam dua kali, bocah yang tidak berubah ekspresi, dan overseer muda yang untuk pertama kali dalam hidupnya mendengar kemampuannya sendiri gagal bekerja tanpa bisa menjelaskan kenapa.
 
@@ -91,7 +91,7 @@ Brannoc datang tanpa suara, berdiri di sampingnya, juga memandang lempeng batu y
 
 "Lalu itu—" dagu Brannoc menunjuk lempeng, "—bahaya tidak?"
 
-Ashvarok memikirkan jawaban yang benar, dan jawaban yang benar adalah — bahayanya bukan pada abunya, melainkan pada siapa yang membacanya. Ada satu orang di Caldrest yang pepekerjaannya membaca hal-hal yang tidak terlihat, dengan alat yang dirancang persis untuk mendengarkan sisa-sisa gema, dan junior assayer itu sedang melakukan survei di tambang yang sama.
+Ashvarok memikirkan jawaban yang benar, dan jawaban yang benar adalah — bahayanya bukan pada abunya, melainkan pada siapa yang membacanya. Ada satu orang di Caldrest yang pekerjaannya membaca hal-hal yang tidak terlihat, dengan alat yang dirancang persis untuk mendengarkan sisa-sisa gema, dan junior assayer itu sedang melakukan survei di tambang yang sama.
 
 "Kalau ditemukan orang yang salah, itu undangan," katanya akhirnya. "Undangan buat orang-orang berjubah datang lebih cepat dari jadwal."
 

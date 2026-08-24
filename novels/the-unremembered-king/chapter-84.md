@@ -11,13 +11,13 @@ Ia menangkapnya sebelum suaranya. Getaran halus di telapak tangan, irama yang sa
 
 "Seam atas," bisik Ashvarok. "Di depan. Jangan lewat bawahnya."
 
-Sayatan itu mereka temukan empat puluh hasta kemudian, di titik tinggi lorong troli timur tempat seam utama menyempit menjadi punggung kaca-batu — satu potongan lurus sepanjang enam hasta, tepat di antara dua pasak tua yang sudah berabad-abad diam, segar sampai berkilau di bawah cahaya yang disembunyikan di belakang telapak. Bukan kerja pisau tambang latihan seperti sabotase blok empat belas dulu. Kerja ini bersih, sabar, dan tahu persis letak sendinya — kerja tangan yang pernah diajari, atau pernah mewarisi.
+Sayatan itu mereka temukan empat puluh hasta kemudian, di titik tinggi lorong troli timur tempat seam utama menyempit menjadi punggung kaca-batu — satu potongan lurus sepanjang enam hasta, tepat di antara dua pasak tua yang sudah berabad-abad diam, segar sampai berkilau di bawah cahaya yang disembunyikan di belakang telapak. Bukan bekerja pisau tambang latihan seperti sabotase blok empat belas dulu. Kerja ini bersih, sabar, dan tahu persis letak sendinya — bekerja tangan yang pernah diajari, atau pernah mewarisi.
 
 Ashvarok meraba tepi sayatan itu dan mendapati yang ia takuti. Iramanya bukan irama pisau mesin yang mencari inti murahan, melainkan irama potongan yang sengaja dilebih-lebihkan dalam — dipotong untuk membuat punggung kehilangan sandi, bukan untuk mengambil apa pun. Sejak karantina memutus jalurnya, penyedot itu tidak bisa lagi makan dengan tenang dari tempat lamanya. Dan sejak malam pemutusan di aula, ada bagian dari tubuhnya yang berhenti menjawab. Yang tersisa darinya adalah kesabaran benda yang kelaparan — ia berhenti mengambil, dan mulai menumbangkan.
 
 Dan di bawah punggung yang baru saja dipotong itu, empat puluh hasta lebih rendah, terletak rembesan jernih galeri sebelas barat — sumber minum seluruh blok yang dipindahkan diam-diam, tempat anak-anak minum setiap sore.
 
-"Balas dendam," kata Brannoc pelan di belakangnya, datang dari stasiun angkutan karena protokol pasangan. Ia membaca sayatan itu hanya tiga detik. "Karantina memutus makanannya. Sekarang dia motong di atas kepala kita."
+"Balas dendam," kata Brannoc pelan di belakangnya, datang dari stasiun angkutan karena protokol pasangan. Ia membaca sayatan itu hanya tiga detik. "Karantina memutus makanannya. Sekarang dia memotong di atas kepala kita."
 
 Ashvarok belum menjawab ketika batu menjawab lebih dahulu.
 
@@ -53,7 +53,7 @@ Suara pertama: Brannoc, sangat dekat, memanggilnya dengan nama samarannya, tiga 
 
 Suara kedua: ketukan balik tumpukan berhenti, lalu terdengar lagi dari lebih dekat — regu keluar, digiring keluar lewat ceruk yang dibukakan tongkat tuas, empat pasang sepatu berlari di atas kerikil.
 
-Suara ketiga, jauh sekali, seperti dari dasar sumur: Sela, entah bagaimana, entah kapan, berkata bahwa kolom Jam Pasir tidak akan dicatat malam ini, karena tidak ada yang sanggup mengukurnya.
+Suara ketiga, jauh sekali, seperti dari dasar sumur: Sela, entah bagaimana, entah kapan, berkata bahwa kolom Hourglass tidak akan dicatat malam ini, karena tidak ada yang sanggup mengukurnya.
 
 Lalu malam menutup dirinya seperti pintu yang tidak berderit.
 
@@ -65,16 +65,16 @@ Ia terbangun bukan di barak, melainkan di perjalanan menuju barak — digendong 
 
 "Balok," kata Ashvarok, suaranya keluar sebagai gerutu kering. "Tunggulnya."
 
-"Bertahan. Aku sentuh. Dingin sudah mati, panasnya habis jadi kerja." Jeda beberapa langkah. "Kau bikin batu jadi penyangga yang lebih baik dari yang digali orang. Itu hal aneh yang kau lakukan, bocah lorong tujuh. Malam-malam seperti ini aku berterima kasih tidak paham caranya."
+"Bertahan. Aku sentuh. Dingin sudah mati, panasnya habis jadi bekerja." Jeda beberapa langkah. "Kau membuat batu jadi penyangga yang lebih baik dari yang digali orang. Itu hal aneh yang kau lakukan, bocah lorong tujuh. Malam-malam seperti ini aku berterima kasih tidak paham caranya."
 
-"Jam Pasir."
+"Hourglass."
 
-"Sudah kulihat garisnya waktu kau masih pingsan. Sampai tengah lengan." Brannoc mengubah pegangan tangannya, hati-hati, seperti memindahkan barang yang nilainya tidak bisa dinilai. "Sela belum ukur. Dia nunggu kamu sadar. Bilangnya, dan ini kata-katanya persis: dia tidak mencatat angka yang dia dapat dari orang tidur."
+"Sudah kulihat garisnya waktu kau masih pingsan. Sampai tengah lengan." Brannoc mengubah pegangan tangannya, hati-hati, seperti memindahkan barang yang nilainya tidak bisa dinilai. "Sela belum ukur. Dia menunggu kamu sadar. Bilangnya, dan ini kata-katanya persis: dia tidak mencatat angka yang dia dapat dari orang tidur."
 
 Mereka keluar ke udara malam yang berbau abu dan antrean santunan yang sudah lama bubar. Di ambang pintu barak, ibu Tamma menunggu dengan air hangat dan wajah yang tidak bertanya apa pun. Di dalam, Sela menunggu dengan papan tulisnya, kapur baru, dan mata yang merah tapi tangan yang tidak gemetar sama sekali.
 
 Ukurannya dilakukan dengan lampu kecil dan dua jari yang tahu jalannya. Lama. Lebih lama dari biasanya. Ketika selesai, Sela membersihkan kapur di papan tulisnya, menulis tanggal, lalu menulis angka itu — setengah lengan — dengan huruf yang sama tegaknya seperti menulis cuaca.
 
-"Setengah lengan," katanya. "Kalau besok bertambah sedikit saja, kita ke dokter tambang, dan kali ini aku yang cerita semuanya dia dengar." Ia menutup papan tulisnya, menatap kakak angkatnya yang tergeletak seperti barang yang sudah membayar lebih dari harganya, dan menambahkan, lebih pelan. "Empat orang pulang malam ini karena engkau meminjamkan badanmu. Aku hitung itu utang mereka, bukan utangku. Utangku sudah lunas sejak lama. Ini cuma catatan."
+"Setengah lengan," katanya. "Kalau besok bertambah sedikit saja, kita ke dokter tambang, dan kali ini aku yang cerita semuanya dia dengar." Ia menutup papan tulisnya, menatap kakak angkatnya yang tergeletak seperti barang yang sudah membayar lebih dari harganya, dan menambahkan, lebih pelan. "Empat orang pulang malam ini karena engkau meminjamkan badanmu. Aku hitung itu utang mereka, bukan utangku. Utangku sudah lunas sejak lama. Ini hanya catatan."
 
 Baris terakhir malam itu ditulisnya di sudut papan, kecil, di bawah kolom-kolom resmi — "HARI 108 — EMPAT NAMA PULANG. SATU GARIS MAJU. HARGA: SETENGAH LENGAN." Dan di bawahnya, setelah ragu sebentar, satu kata tambahan yang tidak termasuk sistem pencatatannya mana pun, yang akan terbaca siapa pun yang melihat papan itu besok pagi dan tidak akan dipahami siapa pun kecuali dua orang — PENYANGGA.

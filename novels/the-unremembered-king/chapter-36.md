@@ -5,7 +5,7 @@ chapter: 36
 
 Hari keempat puluh lima datang dengan dua kejadian yang tidak saling mengenal: lonceng shift pagi membunyikan dirinya seperti biasa, dan tim Assayers' Guild turun ke the Underfold untuk pertama kalinya. Ashvarok menyaksikan yang kedua dari kejauhan yang aman — dari galeri atas tingkat dua, di balik tumpukan balast, sambil pura-pura memeriksa penyangga yang tidak perlu ia periksa.
 
-Tujuh orang turun lewat persimpangan utama. Lima membawa peti instrumen; dua mengenakan jubah kerja Guild dengan lengan digulung rapi. Mereka bekerja dengan cara yang membuatnya mengangguk dalam hati: setiap titik ukur dibaca dua kali, catatan dibacakan ulang oleh orang kedua, dan tidak ada satu pun dari mereka yang berdiri menghadap arah yang sama terlalu lama. Tim yang kompeten. Tim yang dilatih untuk tidak percaya pada satu pembacaan.
+Tujuh orang turun lewat persimpangan utama. Lima membawa peti instrumen; dua mengenakan jubah bekerja Guild dengan lengan digulung rapi. Mereka bekerja dengan cara yang membuatnya mengangguk dalam hati: setiap titik ukur dibaca dua kali, catatan dibacakan ulang oleh orang kedua, dan tidak ada satu pun dari mereka yang berdiri menghadap arah yang sama terlalu lama. Tim yang kompeten. Tim yang dilatih untuk tidak percaya pada satu pembacaan.
 
 Mereka membaca galeri atas dan persimpangan utama — titik-titik yang ia dan Brannoc biarkan jujur. Data yang jujur di tempat yang tak penting. Pada tengah hari, tim itu naik kembali dengan tubuh yang tenang, dan Ashvarok tahu tanpa perlu melihat lembarannya. Angka-angka atas akan masuk laporan sebagai normal, karena memang normal. Aula di bawah sana tidak tersentuh siapa pun hari ini.
 
@@ -25,7 +25,7 @@ Ashvarok menghitung detik dengan napasnya. Empat ratus. Enam ratus. Banjir manus
 
 Lalu ia melihatnya.
 
-Orang itu datang dari tangga cabang utara — arah yang tidak menghubungkan lorong mana pun dengan jam kerja mana pun — dan berjalan melintasi stasiun dengan langkah yang tidak terburu-buru namun juga tidak sia-sia. Sedang, kurus, wajah biasa jenis yang tidak pernah diingat siapa pun. Bahkan pakaiannya biasa, bahkan cara ia menghindari troli biasa. Hanya satu hal yang tidak biasa: di tangan kirinya ada kantong kulit kecil, dan kantong itu tidak pernah bergoyang mengikuti langkah. Orang yang membawa kantong kosong melangkah begitu. Kantong berisi logam tidak.
+Orang itu datang dari tangga cabang utara — arah yang tidak menghubungkan lorong mana pun dengan jam bekerja mana pun — dan berjalan melintasi stasiun dengan langkah yang tidak terburu-buru namun juga tidak sia-sia. Sedang, kurus, wajah biasa jenis yang tidak pernah diingat siapa pun. Bahkan pakaiannya biasa, bahkan cara ia menghindari troli biasa. Hanya satu hal yang tidak biasa: di tangan kirinya ada kantong kulit kecil, dan kantong itu tidak pernah bergoyang mengikuti langkah. Orang yang membawa kantong kosong melangkah begitu. Kantong berisi logam tidak.
 
 Empat malam silam kurir itu terakhir terlihat, kata panener. Dan malam ini, tepat beberapa jam setelah kabar tanggal bohong sempat beredar di kedalaman, ia berdiri di stasiun angkut di luar jadwalnya sendiri.
 
@@ -69,7 +69,7 @@ Kurir itu mengerang tanpa suara — nafas saja, bentuk teriakan yang kehilangan 
 
 Dari kantong jaket kurir itu, Brannoc mengeluarkan isi tas kulit yang masih terselip di sabuknya: tiga gulungan shardmark yang disampir kain, selembar kertas lipatan, dan satu batang lilin pendek. Brannoc menggenggam lilin itu ke arah lampu jalan yang paling jauh, meraba benang tipis di sepanjang badannya dengan ibu jari, dan mengangguk sekali.
 
-"Sama," katanya. "Benang timah. Jahitan identik dengan dua yang kupunya. Tidak ada tukang lilin di Caldrest yang menjual begini."
+"Sama," katanya. "Tin thread. Jahitan identik dengan dua yang kupunya. Tidak ada tukang lilin di Caldrest yang menjual begini."
 
 "Wajahmu selalu sama, kata kontraktormu. Kami tidak bisa memastikannya dari cerita saja. Lilin ini memastikannya." Ashvarok membuka telapak kanannya di depan wajah orang itu. Abu kelabu tergeletak di garis-garis telapaknya, hangat, hidup dengan cara yang hanya dimengerti mereka yang pernah menyentuhnya. "Sentuh. Kamu akan mengerti kenapa kita menangkapmu dengan lembut, dan kenapa kamu akan lupa wajah kami."
 
@@ -89,7 +89,7 @@ Satu anggukan, kecil, hati-hati.
 
 Ashvarok memikirkan bangunan itu dengan lampu yang menyala di satu jendela. Tempat utang bernapas. Tempat seragam tidak pernah kerut. Sebuah operasi panen yang berjalan berbulan-bulan tidak bisa berjalan melewati kota ini tanpa membayar diamnya kota ini — dan tidak ada yang lebih murah daripada membeli diam di loket yang sudah berdiri, dengan buku yang sudah rapi, di bawah orang yang sudah terbiasa menerima amplop tanpa bertanya isi kolomnya.
 
-Kel Tharrow. Atau orang-orang di bawahnya. Atau keduanya. Jejaknya tidak penting malam ini. Yang penting, rantai bayarannya terbaca dari ujung ke ujung: pelanggan berjubah, lilin berbenang timah, kurir tanpa suara, loket yang membosankan. Setiap mata rantai menjual satu hal yang sama: ketidaktahuan yang terorganisir.
+Kel Tharrow. Atau orang-orang di bawahnya. Atau keduanya. Jejaknya tidak penting malam ini. Yang penting, rantai bayarannya terbaca dari ujung ke ujung: pelanggan berjubah, lilin threaded with tin, kurir tanpa suara, loket yang membosankan. Setiap mata rantai menjual satu hal yang sama: ketidaktahuan yang terorganisir.
 
 "Lepaskan dia," kata Ashvarok.
 
@@ -111,7 +111,7 @@ Gudang perkakas tingkat dua, jauh malam. Lampu ditutup keranjang, seperti biasa,
 
 "Kalau begitu kita pakai dia."
 
-"Kita sudah memakainya. Dia hanya belum tahu." Ashvarok meletakkan cangkirnya. "Malam ini kita dapat tiga hal. Rantai bayarannya. Bukti bahwa tanggal bohong bekerja — kurir itu keluar di luar polanya dalam hitungan jam. Dan satu kebiasaan baru yang bisa kita baca: setiap kali kabar bergerak di dalam, kantong itu bergerak di luar. Mulai sekarang, gang itu adalah termometer kami."
+"Kita sudah memakainya. Dia hanya belum tahu." Ashvarok meletakkan cangkirnya. "Malam ini kita dapat tiga hal. Rantai bayarannya. Bukti bahwa tanggal bohong bekerja — kurir itu keluar di luar polanya dalam hitungan jam. Dan satu kebiasaan baru yang bisa kita membaca: setiap kali kabar bergerak di dalam, kantong itu bergerak di luar. Mulai sekarang, gang itu adalah termometer kami."
 
 "Dan kurirnya?"
 

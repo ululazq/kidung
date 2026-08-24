@@ -9,7 +9,7 @@ Dia menimbang kotak timbung mininya sebentar, memastikan lapisan bawahnya kosong
 
 Kepala biro itu berumur lebih tua daripada suaranya, membawa dua orang juru ukur muda dan satu kotak dokumen bersegel ungu, dan melakukan hal yang jarang dilakukan pejabat setingginya — ia berjalan langsung ke ruang penilaian, melihat alat-alatnya, membaca dua laporan terakhir di tempat tanpa duduk, baru kemudian menoleh kepada Assayer Tull dengan ekspresi orang yang angkanya sudah selesai dihitung.
 
-"Komisi verifikasi dokumen warisan," katanya. "Satu matriks segel era pra-Liberation lolos verifikasi buta di cabang pedalaman. Satu izin penutupan distrik dibatalkan karena cacat fondasi hukum yang ditemukan penyidik bidang. Satu status tanah jasa diakui sementara menunggu penetapan akhir. Tiga hasil besar dalam empat puluh hari, oleh satu assayer lapangan berusia enam tahun." Ia meletakkan kotaknya di meja. "Angka seperti ini membuat biro harus datang sendiri."
+"Komisi verifikasi dokumen warisan," katanya. "Satu matriks segel era pra-Liberation lolos verifikasi buta di cabang pedalaman. Satu izin penutupan distrik dibatalkan karena cacat fondasi hukum yang ditemukan penyidik bidang. Satu status service grant diakui sementara menunggu penetapan akhir. Tiga hasil besar dalam empat puluh hari, oleh satu assayer lapangan berusia enam tahun." Ia meletakkan kotaknya di meja. "Angka seperti ini membuat biro harus datang sendiri."
 
 "Untuk audit?"
 

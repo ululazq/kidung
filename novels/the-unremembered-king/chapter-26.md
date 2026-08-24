@@ -49,7 +49,7 @@ Ossian Vael tidak langsung menjawab. Ia bangkit, berjalan ke jendela kamarnya â€
 
 "Empat hari purga, Tuan. Empat hariâ€”"
 
-"Overseer." Nama jabatan itu dipakai seperti tangan yang diletakkan di atas meja. "Aku menghargai inisiatifmu malam ini. Itu bukan kalimat sopan. Jarang ada licensing overseer yang datang sendirian tanpa surat untuk melapor soal ketakutannya sendiri. Tetapi keberanian tanpa urutan kerja adalah kebakaran." Ia kembali duduk. "Duduklah. Kita susun ulang apa yang bisa dilakukan tanpa membakar investasi dua lembaga sekaligus."
+"Overseer." Nama jabatan itu dipakai seperti tangan yang diletakkan di atas meja. "Aku menghargai inisiatifmu malam ini. Itu bukan kalimat sopan. Jarang ada licensing overseer yang datang sendirian tanpa surat untuk melapor soal ketakutannya sendiri. Tetapi keberanian tanpa urutan bekerja adalah kebakaran." Ia kembali duduk. "Duduklah. Kita susun ulang apa yang bisa dilakukan tanpa membakar investasi dua lembaga sekaligus."
 
 Tharrow duduk. Dan malam itu dua pembaca angka mulai bekerja pada halaman yang sama.
 

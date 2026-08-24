@@ -3,7 +3,7 @@ title: "Bab 94: Peta Nama"
 chapter: 94
 ---
 
-Peta nama itu lahir dari pertanyaan yang ketiga kalinya diucapkan Sela pada pagi hari keseratus dua puluh tiga, di ruang tunggu klinik barak, sambil memegang sisa lembar kertas pos milik perawat klinik yang sudah terlalu sering diminta.
+Name map itu lahir dari pertanyaan yang ketiga kalinya diucapkan Sela pada pagi hari keseratus dua puluh tiga, di ruang tunggu klinik barak, sambil memegang sisa lembar kertas pos milik perawat klinik yang sudah terlalu sering diminta.
 
 "Papan tulisnya kecil," katanya kepada anak-anak sekolah klinik, mengetuk papan kayu bersampul itu yang sudah penuh dua sisi. "Daftarnya banyak. Kertas pos pinjaman terus, dan pinjaman harus balik. Jadi kenapa kita tidak membuat daftarnya besar?"
 
@@ -19,7 +19,7 @@ Peta nama itu lahir dari pertanyaan yang ketiga kalinya diucapkan Sela pada pagi
 
 Itu pertanyaan yang membuat Sela diam sebentar, karena jawabannya panjang dan jawabannya penting. Ia meletakkan papan tulisnya, duduk di bangku pendewasa yang selalu terlalu tinggi untuknya, lalu menjelaskan dengan cara yang sudah menjadi bahasa kedua kelas ini.
 
-"Waktu sunyi datang ke barak," katanya, "yang diambil bukan badan orang. Yang diambil namanya. Nama yang hanya ada di satu tempat itu nama rapuh. Nama yang ditulis di satu buku itu lebih kuat. Nama yang dihafal banyak mulut paling kuat. Tapi masih ada satu tingkat lagi di atasnya." Ia mengangkat jarinya ke arah dinding kosong sebelah jadwal absen-nama. "Nama yang punya alamat. Kalau tiap orang distrik ini punya satu baris di satu tempat yang semua orang tahu, maka tidak ada satu pun dari kita yang tinggal di satu tempat saja lagi. Baris itu seperti rumah cadangan. Rumah yang tidak bisa dibakar karena semua orang lewat depannya tiap hari."
+"Waktu sunyi datang ke barak," katanya, "yang diambil bukan badan orang. Yang diambil namanya. Nama yang hanya ada di satu tempat itu nama rapuh. Nama yang ditulis di satu buku itu lebih kuat. Nama yang dihafal banyak mulut paling kuat. Tapi masih ada satu tingkat lagi di atasnya." Ia mengangkat jarinya ke arah dinding kosong sebelah jadwal name-roll. "Nama yang punya alamat. Kalau tiap orang distrik ini punya satu baris di satu tempat yang semua orang tahu, maka tidak ada satu pun dari kita yang tinggal di satu tempat saja lagi. Baris itu seperti rumah cadangan. Rumah yang tidak bisa dibakar karena semua orang lewat depannya tiap hari."
 
 Anak-anak mengerjakan sisanya dengan cara anak-anak mengerjakan segala hal — lebih cepat, lebih berisik, dan lebih baik daripada yang direncanakan siapa pun. Empat lembar kertas bekas bungkus garam disatukan dengan tepi yang direkat tepung tapioca, digelar di lantai, digambar kolomnya dengan penggaris kayu yang disumbangkan dokter tambang. Kolom pertama untuk nama lengkap. Kolom kedua untuk blok dan bilik. Kolom ketiga, yang usulnya datang dari anak muda galeri tujuh, untuk tanggal dicek, supaya setiap baris punya hitungan umurnya sendiri dan tidak ada satu pun yang boleh tua tanpa dikunjungi.
 
@@ -31,7 +31,7 @@ Harn datang menjelang siang dari asrama distrik utara, dengan kakinya yang berde
 
 "Aku bawa daftar blok utara," katanya, mengeluarkan lembaran yang tersusun rapi menurut cara seorang mantan penambang mengajarkan membaca dokumen pada anaknya. "Empat puluh enam nama. Semua sudah setuju. Ada satu masalah." Ia berhenti, dan wajahnya berubah serius dengan cara anak sembilan tahun yang belajar dari ayahnya bagaimana wajah orang membawa kabar buruk. "Dua orang tidak bisa menulis nama mereka sendiri. Nenek Bilik Dua sama Pak Gerda. Mereka bisa mengucapkannya, tetapi tidak bisa menulisnya."
 
-"Maka yang nulis kita," kata Sela. "Tapi tanda tangannya tetap mereka. Coretan apa pun boleh. Coretan juga alamat."
+"Maka yang menulis kita," kata Sela. "Tapi tanda tangannya tetap mereka. Coretan apa pun boleh. Coretan juga alamat."
 
 Harn mengangguk, mencatatnya di kepala dengan gerakan bibir diam yang persis Brannoc, lalu menambahkan satu hal lagi yang jelas sudah ia pikirkan sepanjang jalan. "Di utara, kata ayah, daftar begini biasa dipakai untuk memotong jatah. Daftar nama sama saja dengan daftar tagihan. Orang-orang bertanya itu. Aku jawab daftar ini tidak dipakai Quota Office. Tetapi mereka terus bertanya. Kenapa gratis? Katanya, kalau gratis, pasti ada yang bayar di belakang."
 
@@ -45,9 +45,9 @@ Bagian yang paling sulit baru datang menjelang tutup kelas, dan Sela sudah menyi
 
 "Sekarang baris Tovik."
 
-Mereka semua mengenal Tovik. Stasiun tetap kereta nama. Lelaki tua ramah yang menjawab "ada" paling sopan di antara semua orang, yang sehat dan berjalan tegak dan tersenyum, yang namanya hanya hidup di mulut anak-anak karena tidak ada lagi di ingatan siapa pun — termasuk, selamanya, di miliknya sendiri.
+Mereka semua mengenal Tovik. Stasiun tetap name train. Lelaki tua ramah yang menjawab "ada" paling sopan di antara semua orang, yang sehat dan berjalan tegak dan tersenyum, yang namanya hanya hidup di mulut anak-anak karena tidak ada lagi di ingatan siapa pun — termasuk, selamanya, di miliknya sendiri.
 
-"Siapa yang bisa nulis nama dia?" tanya Sela.
+"Siapa yang bisa menulis nama dia?" tanya Sela.
 
 Sunyi kecil. Anak-anak saling pandang, dan anak yang paling kecil akhirnya berkata pelan, "Namanya kan Tovik. T-O-V-I-K." Lalu ia berhenti sendiri, karena sadar akan jebakan kalimatnya. Menyebut dan menulis ternyata bukan hal yang sama. Nama itu hidup di lidah mereka setiap hari, tetapi ketika Sela bertanya siapa yang bisa menuliskannya di baris resmi sebagai nama lengkap milik lelaki itu — nama keluarga, nama yang dulu dipanggil ibunya — tidak ada yang sanggup, karena tidak ada yang tahu, dan tidak akan pernah ada yang tahu lagi.
 
@@ -85,4 +85,4 @@ Tovik memandangi baris itu lama dengan mata yang tenang. Ia tidak tahu namanya s
 
 Sela menutup kelas, menggulung lembar kertas bekas, dan berdiri sebentar di depan peta yang sudah terpasang permanen di paku yang ditancapkan perawat klinik dengan palu sungguhan. Tujuh belas baris terisi. Satu baris kosong yang dicari terus. Besok ada tiga blok lagi yang menunggu didaftarkan, dan pekan depan blok utara versi Harn, dan bulan depan, kalau langit mau bekerja sama, distrik barat yang sampai hari ini masih menganggap semua ini urusan orang timur.
 
-Ia menyalakan lampunya, membuka papan tulis kecilnya, dan menulis di daftar belakang yang sudah panjang itu satu baris tambahan — peta nama, dinding klinik, baris kosong tetap dicek — lalu menatap baris itu sampai yakin tidak ada yang perlu diperbaiki. Pagarnya kini punya alamat, pikirnya. Tinggal satu pekerjaan yang belum selesai, dan pekerjaan itu bukan miliknya — memastikan tidak pernah ada hari ketika jumlah centang di peta itu berkurang satu tanpa ada yang sadar.
+Ia menyalakan lampunya, membuka papan tulis kecilnya, dan menulis di daftar belakang yang sudah panjang itu satu baris tambahan — name map, dinding klinik, baris kosong tetap dicek — lalu menatap baris itu sampai yakin tidak ada yang perlu diperbaiki. Pagarnya kini punya alamat, pikirnya. Tinggal satu pekerjaan yang belum selesai, dan pekerjaan itu bukan miliknya — memastikan tidak pernah ada hari ketika jumlah centang di peta itu berkurang satu tanpa ada yang sadar.

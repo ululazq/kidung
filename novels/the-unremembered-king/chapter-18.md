@@ -5,19 +5,19 @@ chapter: 18
 
 Pendataan ulang selesai pada hari kedua puluh tanpa satu pun nama yang dicoret, dan Caldrest bernapas lega selama tepat satu hari. Pada hari kedua puluh satu, Kel Tharrow memanggil Brannoc ke kantornya, dan Ashvarok tahu isi pertemuan itu lebih dulu daripada yang seharusnya, karena pintu ruang dalam Quota Office punya celah ventilasi di ketinggian lutut dan anak tungku yang disuruh membawa berkas surat bisa berlutut sangat lama untuk mengikat tali sepatunya.
 
-Alasan pemanggilan juga sudah bisa ia baca dari arah angin. Surat laporan bulanan pertama untuk kantor pusat harus berangkat minggu ini — surat yang wajib menjawab pertanyaan dari Spire soal "faktor tak dikenal", dan faktor tak dikenal itu, sejak survei Guild turun ke lorong B, sudah dua pekan tidak memberikan apa pun yang bisa ditulis dengan huruf. Tulang seam berhenti mengalir sejak survei mulai. Penambang-penambang mulai berani bicara tentang sunyi karena assayer ungu membuat mereka merasa dilindungi. Dan Tharrow, yang selama ini naik dengan memeluk angka, mendadak memegang laporan yang isinya hanya kalimat-kalimat sopan tanpa isi.
+Alasan pemanggilan juga sudah bisa ia membaca dari arah angin. Surat laporan bulanan pertama untuk kantor pusat harus berangkat minggu ini — surat yang wajib menjawab pertanyaan dari Spire soal "faktor tak dikenal", dan faktor tak dikenal itu, sejak survei Guild turun ke lorong B, sudah dua pekan tidak memberikan apa pun yang bisa ditulis dengan huruf. Tulang seam berhenti mengalir sejak survei mulai. Penambang-penambang mulai berani bicara tentang sunyi karena assayer ungu membuat mereka merasa dilindungi. Dan Tharrow, yang selama ini naik dengan memeluk angka, mendadak memegang laporan yang isinya hanya kalimat-kalimat sopan tanpa isi.
 
 Orang seperti itu, pada titik seperti itu, akan mencari tuas. Ashvarok sudah menebak tuas mana, sebelum bunyi kertas pertama terdengar lewat celah.
 
 "Kondisi tambang timur membaik," suara Tharrow, datar seperti membaca tagihan. "Produksi naik. Angka mati turun. Foreman yang sama, regu yang sama, batu yang sama. Menarik."
 
-"Regu kerja lebih hati-hati sekarang, Overseer."
+"Regu bekerja lebih hati-hati sekarang, Overseer."
 
 "Hati-hati." Kata itu diulang dengan rasa seperti orang mencicipi mata uang palsu. "Atau ada pembaca retakan yang memberi tahu regumu lorong mana yang aman. Kau tahu, foreman, hal yang paling mahal dari sebuah keberuntungan adalah betapa jarang dia datang dua kali."
 
 Hening panjang. Bunyi kertas yang dipindahkan.
 
-"Aku akan langsung ke angka, karena kita dua-duanya orang yang sibuk. Kontrak pendidikan anakmu — Harn, sembilan tahun, asrama distrik utara, jurusan pandai besi — masih dipegang the Quiet Vein dengan tarif tahun 748." Kertas lagi. Pergulangan pelan. "Tarif itu sudah tidak sesuai. Sesuai aturan lisensi, kontrak lama boleh dinilai ulang tiap triwulan, dan penilaian ulang biasanya... menyesuaikan diri dengan kondisi pasar. Atau dengan kerja sama pemegang kontrak terkait."
+"Aku akan langsung ke angka, karena kita dua-duanya orang yang sibuk. Kontrak pendidikan anakmu — Harn, sembilan tahun, asrama distrik utara, jurusan pandai besi — masih dipegang the Quiet Vein dengan tarif tahun 748." Kertas lagi. Pergulangan pelan. "Tarif itu sudah tidak sesuai. Sesuai aturan lisensi, kontrak lama boleh dinilai ulang tiap triwulan, dan penilaian ulang biasanya... menyesuaikan diri dengan kondisi pasar. Atau dengan bekerja sama pemegang kontrak terkait."
 
 Ashvarok, berlutut di lorong luar dengan berkas di pangkuan, merasakan tubuh pinjaman ini mendingin dari arah yang bukan angin.
 
@@ -43,11 +43,11 @@ Foreman tua itu duduk di atas peti kayu tanpa membuka percakapan. Mengunyah akar
 
 "Kamu akan jawab tiga permintaan itu?"
 
-"Jawab mana yang bisa dijawab. Catatan hasil tak resmi lewat kantorku — itu bisa, toh catatan kosong juga catatan. Kejadian aneh dia denger duluan dari aku — bisa juga, asalkan aku yang memilih kejadian mana yang dianggep aneh." Ia menepuk jaketnya, tempat bungkusan lilin benang timah disimpan sejak lorong sembilan. "Tapi menjaga bocah lorong tujuh buat dia... itu yang membuat rasa pahitku naik sampai ke mata."
+"Jawab mana yang bisa dijawab. Catatan hasil tak resmi lewat kantorku — itu bisa, toh catatan kosong juga catatan. Kejadian aneh dia dengan duluan dari aku — bisa juga, asalkan aku yang memilih kejadian mana yang dianggep aneh." Ia menepuk jaketnya, tempat bungkusan lilin tin thread disimpan sejak lorong sembilan. "Tapi menjaga bocah lorong tujuh buat dia... itu yang membuat rasa pahitku naik sampai ke mata."
 
 "Kenapa? Justru itu yang paling murah. Aku memang tidak ke mana-mana."
 
-"Justru itu." Brannoc menoleh, dan matanya tua sekali di cahaya gudang. "Tharrow tidak butuh anjing buat jaga aset yang tidak mau lari. Dia butuh anjing yang ngerasa punya tugas, biar dia bisa cabut tugasnya kapan pun dia mau. Hari ini jaga Renn. Besok — tangkap Renn. Lusa — seret Renn ke kedalaman buat dihitung sebagai faktor tak dikenal. Dan tiap kali perintahnya ganti, aku yang disalahin gagal nurut." Akar pahit itu dipindahkan dari pipi kiri ke kanan. "Aku pernah dinas sama komandan seperti gitu. Dua puluh tahun lalu. Benteng timur jatuh bukan karena musuhnya kuat. Karena komandannya main perintah bolak-balik buat koleksi kesalahan orang."
+"Justru itu." Brannoc menoleh, dan matanya tua sekali di cahaya gudang. "Tharrow tidak butuh anjing buat jaga aset yang tidak mau lari. Dia butuh anjing yang ngerasa punya tugas, biar dia bisa cabut tugasnya kapan pun dia mau. Hari ini jaga Renn. Besok — tangkap Renn. Lusa — seret Renn ke kedalaman buat dihitung sebagai faktor tak dikenal. Dan tiap kali perintahnya ganti, aku yang disalahin gagal nurut." Akar pahit itu dipindahkan dari pipi kiri ke kanan. "Aku pernah dinas sama komandan seperti begitu. Dua puluh tahun lalu. Benteng timur jatuh bukan karena musuhnya kuat. Karena komandannya main perintah bolak-balik buat koleksi kesalahan orang."
 
 "Berapa banyak yang mati waktu benteng itu jatuh?"
 
@@ -57,7 +57,7 @@ Ashvarok menimbang situasi itu dari semua sisinya, dan setiap sisi menunjukkan h
 
 "Brannoc. Kalau kontrak Harn bisa dilunasi penuh — habis, nol utang, dokumen lepas dari tangan the Quiet Vein — Tharrow tidak punya jaminan lagi."
 
-"Melunasi?" Foreman itu menoleh dengan ekspresi orang mendengar anak kecil menawarkan membeli benteng. "Kontrak pendidikan kelas pandai besi nilainya ratusan shardmark. Aku kerja dua puluh tahun buat tabungan yang bahkan tidak nutup sepertiganya. Dan sekarang, waktu dia dinilai ulang, angkanya bakal dinaikin duluan sebelum sempat dilunasi. Itu cara mereka main. Utang yang bisa dibayar tidak pernah dibiarkan bisa dibayar."
+"Melunasi?" Foreman itu menoleh dengan ekspresi orang mendengar anak kecil menawarkan membeli benteng. "Kontrak pendidikan kelas pandai besi nilainya ratusan shardmark. Aku bekerja dua puluh tahun buat tabungan yang bahkan tidak nutup sepertiganya. Dan sekarang, waktu dia dinilai ulang, angkanya bakal dinaikin duluan sebelum sempat dilunasi. Itu cara mereka main. Utang yang bisa dibayar tidak pernah dibiarkan bisa dibayar."
 
 "Kalau barang lunasnya bukan uang?"
 
@@ -71,7 +71,7 @@ Ashvarok menimbang situasi itu dari semua sisinya, dan setiap sisi menunjukkan h
 
 Brannoc menimbang kalimat-kalimat itu dalam sunyi gudang, dan di tengah penimbangan, tanpa diminta, dia menceritakan sesuatu yang tidak pernah diceritakannya pada siapa pun di tambang ini.
 
-"Ibunya Harn," katanya, "penempa kecil di pasar timur. Bukan pandai besi besar — meja kerja selebar pintu, dua tangga besi sebulan. Tapi besinya rapi. Dia bilang, 'Bes yang baik itu jujur, Bren. Kalau dipukul dia bilang patahnya di mana.'" Ia mengunyah akar pahitnya sampai habis, lalu meludahkan seratnya ke telapak tangan dan memandanginya seperti memandang sisa surat. "Dia mati waktu lahirin Harn. Jadi kontrak pendidikan itu bukan mimpi aku soal anakku. Itu wasiat ibunya, yang kebetulan ditulis di atas kertas milik the Quiet Vein karena kami tidak punya uang buat bayar dukun bersalin."
+"Ibunya Harn," katanya, "penempa kecil di pasar timur. Bukan pandai besi besar — meja bekerja selebar pintu, dua tangga besi sebulan. Tapi besinya rapi. Dia bilang, 'Bes yang baik itu jujur, Bren. Kalau dipukul dia bilang patahnya di mana.'" Ia mengunyah akar pahitnya sampai habis, lalu meludahkan seratnya ke telapak tangan dan memandanginya seperti memandang sisa surat. "Dia mati waktu lahirin Harn. Jadi kontrak pendidikan itu bukan mimpi aku soal anakku. Itu wasiat ibunya, yang kebetulan ditulis di atas kertas milik the Quiet Vein karena kami tidak punya uang buat bayar dukun bersalin."
 
 Gudang perkakas itu sunyi selama waktu yang cukup lama bagi gemuruh troli untuk datang dan pergi.
 
@@ -79,7 +79,7 @@ Gudang perkakas itu sunyi selama waktu yang cukup lama bagi gemuruh troli untuk 
 
 "Nol," kata Ashvarok. "Kamu sudah bayar lebih dulu, waktu lorong tujuh."
 
-"Dulu aku bilang kamu barang bukti. Terus aku bilang kamu aset. Sekarang aku denger diriku bilang 'kalau gagal, serahkan aku' seperti kamu tabungan keluarga." Brannoc bangkit dari peti, meletakkan tangan besar di pundak Ashvarok sekali — berat, singkat, seperti stempel lilin hitam. "Jangan gagal, Renn. Bukan demi aku. Demi bocah sembilan tahun yang tidak pernah lihat tambang dan tidak boleh pernah."
+"Dulu aku bilang kamu barang bukti. Terus aku bilang kamu aset. Sekarang aku dengan diriku bilang 'kalau gagal, serahkan aku' seperti kamu tabungan keluarga." Brannoc bangkit dari peti, meletakkan tangan besar di pundak Ashvarok sekali — berat, singkat, seperti stempel lilin hitam. "Jangan gagal, Renn. Bukan demi aku. Demi bocah sembilan tahun yang tidak pernah lihat tambang dan tidak boleh pernah."
 
 Ia keluar. Gudang perkakas itu sunyi lagi, dan Ashvarok berdiri sendirian di antara sekop-sekop milik orang lain, menimbang janji yang baru saja ia ucapkan.
 

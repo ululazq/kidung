@@ -45,7 +45,7 @@ Maka evakuasi yang nanti akan masuk cerita-cerita barak sebagai keajaiban disipl
 
 "Tovik. Tovik, iya—"
 
-Sebelas nama kembali dalam sepersepuluh waktu yang dulu dibutuhkannya menutup satu retakan. Empat nama butuh dua kali panggilan. Tiga nama tidak datang sama sekali — dua perempuan dan seorang lelaki tua yang berdiri tenang, terlalu tenang, dengan keramahan orang yang sudah menyerahkan isi rumahnya kepada tamu. Mereka tidak rusak. Mata mereka hidup. Tetapi ketika dipanggil, wajah mereka menunjukkan kerja keras orang mencoba mengingat apakah pernah mendengar bunyi itu sebelumnya.
+Sebelas nama kembali dalam sepersepuluh waktu yang dulu dibutuhkannya menutup satu retakan. Empat nama butuh dua kali panggilan. Tiga nama tidak datang sama sekali — dua perempuan dan seorang lelaki tua yang berdiri tenang, terlalu tenang, dengan keramahan orang yang sudah menyerahkan isi rumahnya kepada tamu. Mereka tidak rusak. Mata mereka hidup. Tetapi ketika dipanggil, wajah mereka menunjukkan bekerja keras orang mencoba mengingat apakah pernah mendengar bunyi itu sebelumnya.
 
 "Pindahkan ke sisi barat," kata Ashvarok kepada Brannoc, dan kalimatnya jatuh dengan bobot keputusan yang tidak ia sadari sedang ia berikan di depan empat puluh saksi. "Yang tiga itu jangan ditinggal sendirian. Udara dingin halaman membantu — bawa mereka keluar, jalan pelan, panggilan nama terus. Aku ikut."
 

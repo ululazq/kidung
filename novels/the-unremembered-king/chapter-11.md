@@ -15,7 +15,7 @@ Ia sudah mempersiapkan pertemuan ini dua malam — bukan isinya, yang selalu bis
 
 "Bacaan resmi pakai alat," kata Renn. "Aku hanya anak tungku."
 
-"Maka ini latihan. Aku butuh pembanding." Maera meletakkan keping cermin itu di antara mereka, permukaannya memantulkan lampu tambang menjadi garis kuning tipis. "Aturan mainnya sederhana. Aku pegang satu inti bor, aku baca dengan cara Guild, aku tulis hasilnya dan tidak tunjukkan. Kamu baca dengan cara kamu, tulis di debu. Kalau hasilnya cocok, kamu dapat upah bantu resmi untuk sisa survei — tarif tinggi, dicatat legal. Kalau tidak cocok—"
+"Maka ini latihan. Aku butuh pembanding." Maera meletakkan keping cermin itu di antara mereka, permukaannya memantulkan lampu tambang menjadi garis kuning tipis. "Aturan mainnya sederhana. Aku pegang satu inti bor, aku membaca dengan cara Guild, aku tulis hasilnya dan tidak tunjukkan. Kamu membaca dengan cara kamu, tulis di debu. Kalau hasilnya cocok, kamu dapat upah bantu resmi untuk sisa survei — tarif tinggi, dicatat legal. Kalau tidak cocok—"
 
 "Tidak cocok bagaimana? Aku anak tungku. Tidak ada yang bisa dakwa anak tungku soal bacaan."
 
@@ -49,7 +49,7 @@ Ashvarok membaca, mengetuk, mendengarkan dengan seluruh kulit telapaknya, dan me
 
 "Satu setengah."
 
-"Dua." Ia menunjukkan catatannya, dan di atas kertas itu ada angka-angka Guild yang sudah berumur prosedur seratus tahun. "Instrumen saya tidak baca retakan halus di bawah toleransi. Tidak ada yang tercatat."
+"Dua." Ia menunjukkan catatannya, dan di atas kertas itu ada angka-angka Guild yang sudah berumur prosedur seratus tahun. "Instrumen saya tidak membaca retakan halus di bawah toleransi. Tidak ada yang tercatat."
 
 "Instrumenmu tidak salah," kata Ashvarok. "Dia hanya tidak diajari takut." Ia bangkit, membawa pahat dan palu kecil dari kotak alat survei, dan menunjuk titik pada dinding dekat lokasi inti kedua diambil. "Boleh? Satu ketukan."
 
@@ -57,7 +57,7 @@ Maera menimbang dua detik. "Lakukan."
 
 Satu ketukan — dan garis retak halus sepanjang dua hasta menjalar dari titik itu seperti akar mencari air, tepat mengikuti jalur yang Ashvarok tulis di debu, berhenti tepat sebelum batu datar tempat mereka bekerja. Debu turun pelan dari garis itu. Maera menatap retakan barunya, lalu catatannya sendiri, lalu menghapus satu angka dan memenuliskan angka lain dengan tekanan pena yang lebih keras dari biasanya.
 
-"Instrumen tidak baca retak halus di bawah toleransi," katanya akhirnya, tanpa nada kalah maupun menang — nada orang yang baru memperbarui tabel. "Itu catatan biaya komisi yang harus kutulis, "metode taktil perlu ditambahkan." Kau bahaya buat anggaran Guild."
+"Instrumen tidak membaca retak halus di bawah toleransi," katanya akhirnya, tanpa nada kalah maupun menang — nada orang yang baru memperbarui tabel. "Itu catatan biaya komisi yang harus kutulis, "metode taktil perlu ditambahkan." Kau bahaya buat anggaran Guild."
 
 "Aku hanya murah."
 
@@ -75,7 +75,7 @@ Inti ketiga mulai berbeda lagi — kali ini searah. Ashvarok membaca lebih lama,
 
 Hening panjang. Di kedalaman empat puluh hasta, di bawah kaki mereka, retakan itu berdenyut sinkron dengan detak jantung tubuh pinjaman ini, dan Ashvarok mendapati dirinya berdiri di persimpangan yang jarang. Di hadapan satu-satunya orang di Caldrest yang bisa membuktikan teori mana yang benar, yang menawarkan perdagangan setara, yang belum pernah berbohong padanya — hanya karena belum sempat.
 
-"Kalau aku kasih satu data," kata Ashvarok pelan, "yang tidak bisa kamu dapet dari alatmu — kamu tuker apa?"
+"Kalau aku kasih satu data," kata Ashvarok pelan, "yang tidak bisa kamu dapat dari alatmu — kamu tuker apa?"
 
 "Data apa?"
 
@@ -95,7 +95,7 @@ Maera Tull tidak bergerak selama waktu yang cukup lama bagi gemuruh troli untuk 
 
 Ashvarok menatap tangan itu — tangan junior assayer yang membawa kotak kayu terikat terpisah, yang membayar foreman tua dengan tiga pertanyaan, yang menyelundupkan satu inti bor keluar dari kotak buktinya sendiri, karena ia juga menyimpan sebagian kebenaran untuk dirinya.
 
-Ada dua jenis orang di dunia ini, menurut pengalaman seribu tahun yang jarang salah: orang yang ingin tahu supaya bisa memakai, dan orang yang ingin tahu supaya bisa tidur. Yang pertama berbahaya sampai dibeli. Yang kedua berbahaya karena tidak pernah bisa dibeli — tetapi bisa diajak bekerja, dan pepekerjaannya selalu benar.
+Ada dua jenis orang di dunia ini, menurut pengalaman seribu tahun yang jarang salah: orang yang ingin tahu supaya bisa memakai, dan orang yang ingin tahu supaya bisa tidur. Yang pertama berbahaya sampai dibeli. Yang kedua berbahaya karena tidak pernah bisa dibeli — tetapi bisa diajak bekerja, dan pekerjaannya selalu benar.
 
 Ia menjabat.
 
@@ -103,11 +103,11 @@ Ia menjabat.
 
 "Kau bicara seperti orang yang sudah pernah kalah sama kertas."
 
-"Aku hanya rajin baca," kata Ashvarok, mengulang kebohongan favoritnya, "dan rajin lihat."
+"Aku hanya rajin membaca," kata Ashvarok, mengulang kebohongan favoritnya, "dan rajin lihat."
 
 Maera membungkus kotaknya, memasukkan inti-inti itu satu per satu dengan urutan yang sama seperti keluar, dan di ambang menutupnya berkata, tanpa menoleh:
 
-"Satu lagi. Gratis, karena kamu murah. Klien kedua pembaca teknis minggu ini — foreman lubang sewaan distrik barat — dia datang ke saya kemarin, minta diverifikasi bacaan 'anak tambang' tentang lorongnya yang katanya akan amblas enam puluh hari." Kunci kotak itu berbunyi klik. "Aku verifikasi. Dia benar akan amblas. Aku tidak memenulis kapan."
+"Satu lagi. Gratis, karena kamu murah. Klien kedua technical reader minggu ini — foreman lubang sewaan distrik barat — dia datang ke saya kemarin, minta diverifikasi bacaan 'anak tambang' tentang lorongnya yang katanya akan amblas enam puluh hari." Kunci kotak itu berbunyi klik. "Aku verifikasi. Dia benar akan amblas. Aku tidak memenulis kapan."
 
 Pintu ruang sampel tertutup setelah assayer itu keluar, dan Ashvarok berdiri sendirian di lorong sembilan bawah dengan dua kebenaran yang duduk berdampingan di dadanya. Pertukaran pertama sudah terjadi, dan junior assayer itu baru saja membayar lebih mahal daripada yang ia tahu — karena dengan menyembunyikan angka enam puluh hari dari laporan resmi, Maera Tull baru saja melakukan dosa pertamanya untuk kepentingan orang yang belum dia kenal.
 

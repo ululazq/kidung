@@ -61,7 +61,7 @@ Gudang perkakas tingkat dua, malam harinya, lampu ditutup keranjang terbalik seh
 
 Kebiasaan lamanya bertanya dengan jawaban yang sudah ia pegang tidak pernah gagal memancing lawan bicara, dan Brannoc bukan lawan — tapi mandor tetap berpikir lebih dulu, karena begitulah caranya menghargai pertanyaan.
 
-"Galeri atas," kata Brannoc. "Persimpangan utama. Tempat-tempat yang kalau dibaca salah malah bikin— " ia mengoreksi diri dengan gerakan kepala, "—membuat tim penilai curiga. Data yang jujur di tempat yang tak penting."
+"Galeri atas," kata Brannoc. "Persimpangan utama. Tempat-tempat yang kalau dibaca salah malah membuat— " ia mengoreksi diri dengan gerakan kepala, "—membuat tim penilai curiga. Data yang jujur di tempat yang tak penting."
 
 "Tepat. Data jujur di tempat yang tak penting adalah madu di jebakan. Tim yang menemukan sepuluh angka benar akan memercayai angka kesebelas." Ashvarok mengetuk dua lokasi di lembar jadwal. "Yang harus salah: titik di lorong B. Titik kedalaman tujuh. Semua titik yang berjarak kurang dari lima puluh hasta dari retakan. Di sana alat akan mendengar napas, dan napas itu tidak boleh masuk laporan."
 
@@ -75,11 +75,11 @@ Brannoc mengunyah akar pahitnya, dan Ashvarok menunggu pertanyaan berikutnya kar
 
 "Batu yang ditenun ikut menua. Retak halus. Dan retak halus itu sendiri bisa dibaca kalau pencarinya rajin — jadi lapisannya harus tipis dan tempatnya harus dipilih seperti memilih kata di surat resmi." Ashvarok menatap lengan kanannya sendiri sebentar, di mana parut vena berhenti tepat di bawah siku. "Per titik, satu pekerjaan malam. Per titik, satu hari makan yang dibakar dari tubuh ini. Empat titik yang harus dibohongi, ditambah cadangan untuk yang belum terdaftar. Minggu-minggu, bukan malam-malam."
 
-"Jam Pasirmu menyentuh siku."
+"Hourglassmu menyentuh siku."
 
 "Aku tahu. Adikku mencatatnya setiap malam dengan huruf besar."
 
-"Kalau begitu garam ambil aku." Brannoc meluruskan bahu kanannya yang turun, kebiasaan orang tua ketika memutuskan mengangkat sesuatu. "Garam tidak minta seni. Cuma punggung dan kesabaran. Kamu urus tempaan, dan semua hasil lewat gudang ini lebih dulu — perjanjian tetap berdiri."
+"Kalau begitu garam ambil aku." Brannoc meluruskan bahu kanannya yang turun, kebiasaan orang tua ketika memutuskan mengangkat sesuatu. "Garam tidak minta seni. Hanya punggung dan kesabaran. Kamu urus tempaan, dan semua hasil lewat gudang ini lebih dulu — perjanjian tetap berdiri."
 
 "Perjanjian tetap berdiri." Ashvarok menggulung lembar jadwal. "Satu lagi. Buku ini — catatan Pak Dekan. Anaknya masih hidup, di kota pelabuhan selatan. Suatu hari peta tua mungkin datang dari arah itu. Simpan bukunya di tempat yang bahkan kamu sendiri lupa."
 

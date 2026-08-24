@@ -9,7 +9,7 @@ Hari keempat puluh sembilan ditutup di Quota Office dengan dua dokumen yang dile
 
 Dokumen pertama: laporan capaian galeri sembilan bawah — kuota baru yang dinaikkan di atas kewajaran ternyata tercapai pada jam terakhir shift, tipis, sah, tanpa insiden, dengan kuitansi pelunasan selisih setoran tertanggal tiga hari lebih awal dari tenggat audit. Dokumen kedua: salinan surat Guild untuk Assayer Tull, yang salinannya sampai ke meja pengawas melalui pegawai yang merasa melakukan pekerjaan rutin.
 
-Kel Tharrow membaca keduanya dua kali. Yang pertama membuatnya menandai berkas audit dengan catatan satu kalimat: "tidak ditemukan penyimpangan pada pemeriksaan awal" — kalimat yang akan ia baca ulang nanti dengan rasa seperti menemukan pintu yang dikunci rapat tepat ketika ia datang membawa kuncinya. Yang kedua membuatnya berpikir tentang jaringan: penilai muda itu naik, komisi Caldrest akan berganti tangan, dan setiap pergantian tangan adalah celah — bagi orang yang tahu mencari celah.
+Kel Tharrow membaca keduanya dua kali. Yang pertama membuatnya menandai berkas audit dengan catatan satu kalimat: "tidak ditemukan penyimpangan pada pemeriksaan awal" — kalimat yang akan ia membaca ulang nanti dengan rasa seperti menemukan pintu yang dikunci rapat tepat ketika ia datang membawa kuncinya. Yang kedua membuatnya berpikir tentang jaringan: penilai muda itu naik, komisi Caldrest akan berganti tangan, dan setiap pergantian tangan adalah celah — bagi orang yang tahu mencari celah.
 
 Ia tidak menghubungkan dua dokumen itu satu sama lain. Tidak ada alasan menghubungkannya. Dunia yang ia kenal tidak pernah menyimpan benangnya dalam satu gulungan. Maka ia menyimpan keduanya di map yang berbeda, dan itulah cara dua kejadian yang kelak akan bertabrakan lolos dari satu-satunya meja di kota ini yang berwenang membacanya bersamaan.
 
@@ -23,11 +23,11 @@ Ashvarok mendengarnya dari Vosk sendiri, yang menyampaikannya dengan cara meneng
 
 "Apa isi suratnya?"
 
-"Kalau aku tahu isinya, aku akan menjualnya, bukan memberitahunya." Vosk mengetuk tutup gerobaknya, irama yang sudah menjadi tanda baca. "Tapi kurir Guild sore tadi bilang satu frasa yang terlewat dari semua mulut lain. Kursi."
+"Kalau aku tahu isinya, aku akan menjualnya, bukan memberitahunya." Vosk mengetuk tutup gerobaknya, irama yang sudah menjadi tanda membaca. "Tapi kurir Guild sore tadi bilang satu frasa yang terlewat dari semua mulut lain. Kursi."
 
 "Aku mengerti. Terima kasih."
 
-"Satu lagi." Penengah itu menurunkan suaranya satu tingkat, ke register yang biasanya ia pakai untuk nasihat penyimpanan barang. "Orang-orang yang menghitung soreku minggu ini berhenti menghitung kemarin. Pindah kerja atau pindah perintah — aku tidak tahu yang mana dan tidak ingin tahu. Tapi kalau kau punya urusan dengan orang Guild itu, urus cepat. Jendela-jendela di kota ini punya kebiasaan menutup tanpa memberi tahu siapa-siapa."
+"Satu lagi." Penengah itu menurunkan suaranya satu tingkat, ke register yang biasanya ia pakai untuk nasihat penyimpanan barang. "Orang-orang yang menghitung soreku minggu ini berhenti menghitung kemarin. Pindah bekerja atau pindah perintah — aku tidak tahu yang mana dan tidak ingin tahu. Tapi kalau kau punya urusan dengan orang Guild itu, urus cepat. Jendela-jendela di kota ini punya kebiasaan menutup tanpa memberi tahu siapa-siapa."
 
 ---
 
@@ -81,7 +81,7 @@ Ia tidak mengatakan yang mana pun dari itu. Yang ia katakan:
 
 "Ini tidak buruk untuknya. Itu yang membuatnya sulit. Hal-hal yang baik untuk orang yang kita sayangi selalu sulit kalau bergerak menjauh dari kita."
 
-Di barak, Sela menyalakan lampu kecilnya dan menambahkan satu kolom baru di papan tulis, di sebelah PRODUKSI dan Jam Pasir: kolom sempit dengan judul huruf-huruf kecil, HARI MAERA, dan di bawahnya ia menulis angka sepuluh — tenggat jawaban surat itu — tanpa bertanya kepada siapa pun izinnya.
+Di barak, Sela menyalakan lampu kecilnya dan menambahkan satu kolom baru di papan tulis, di sebelah PRODUKSI dan Hourglass: kolom sempit dengan judul huruf-huruf kecil, HARI MAERA, dan di bawahnya ia menulis angka sepuluh — tenggat jawaban surat itu — tanpa bertanya kepada siapa pun izinnya.
 
 Ashvarok memandang angka itu dari tempat tidurnya, dan membiarkan dua hitungan mundur berdiri berdampingan di kepalanya: sepuluh hari sampai penilai muda itu menjawab surat yang akan menentukan di mana dia berdiri, dan beberapa pekan — tidak seorang pun tahu persis berapa — sampai tim survei turun ke kedalaman, ke pintu tua yang katanya buntu, ke titik-titik yang harus dibaca salah oleh alat dan dibaca benar oleh satu orang.
 

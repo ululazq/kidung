@@ -35,7 +35,7 @@ Lorong itu diam. Air menetes di ujung drainase yang jaraknya cukup jauh agar bun
 
 "Aku seorang kuli ventilasi, Penjaga Shift. Aku tidak tahu apa-apa tentang bahasa batu."
 
-"Tahu." Kovan mengangkat kepala, dan pada cahaya lentera yang rendah itu wajahnya tampak lebih tua daripada umurnya. "Itulah yang membuatku datang. Alatku berkata kau tidak tahu apa-apa, dan aku sudah belajar bahwa alatku tidak pernah salah membaca apa yang bisa dibaca. Yang tidak bisa ia baca adalah orangnya." Ia menarik napas, dan untuk pertama kalinya malam itu iramanya retak sedikit. "Aku bukan lagi pemburu, furnace boy. Pemburu butuh buruan, dan buruan itu sudah kuputuskan tidak ada di sini. Aku hanya orang yang memegang dua deret angka yang cocok sempurna, dan ingin diberi tahu apa yang boleh kuketahui tentang mereka. Itu semua."
+"Tahu." Kovan mengangkat kepala, dan pada cahaya lentera yang rendah itu wajahnya tampak lebih tua daripada umurnya. "Itulah yang membuatku datang. Alatku berkata kau tidak tahu apa-apa, dan aku sudah belajar bahwa alatku tidak pernah salah membaca apa yang bisa dibaca. Yang tidak bisa ia membaca adalah orangnya." Ia menarik napas, dan untuk pertama kalinya malam itu iramanya retak sedikit. "Aku bukan lagi pemburu, furnace boy. Pemburu butuh buruan, dan buruan itu sudah kuputuskan tidak ada di sini. Aku hanya orang yang memegang dua deret angka yang cocok sempurna, dan ingin diberi tahu apa yang boleh kuketahui tentang mereka. Itu semua."
 
 "Maka tanyakan pada batunya. Dia yang menyimpan jawabannya."
 

@@ -15,11 +15,11 @@ Ashvarok sudah mengantre kemungkinan ini dua hari. Kesepakatan dengan Tharrow pu
 
 Ashvarok menimbang jarak antara kebenaran dan kegunaan, dan memilih yang biasanya lebih murah: keduanya.
 
-"Iya," kata dia. "Aku bisa baca retakan batu."
+"Iya," kata dia. "Aku bisa membaca retakan batu."
 
 "Baca bagaimana?"
 
-"Seperti kau baca formasi musuh." Ashvarok meletakkan sekopnya, memungut satu pecahan cinder-glass dari lantai gudang, dan menyerahkan kepada Brannoc bersama pahat kecil dari rak. "Pukul tepat di garis putih itu. Pelan saja."
+"Seperti kau membaca formasi musuh." Ashvarok meletakkan sekopnya, memungut satu pecahan cinder-glass dari lantai gudang, dan menyerahkan kepada Brannoc bersama pahat kecil dari rak. "Pukul tepat di garis putih itu. Pelan saja."
 
 Brannoc melihatnya — semua orang melihatnya, karena permukaan kaca-batu itu tidak punya garis putih. Tetapi ia prajurit cukup lama untuk tahu kapan harus percaya pada orang yang tenang tanpa alasan. Pahat menyentuh, diketuk sekali.
 
@@ -35,13 +35,13 @@ Mereka keluar ke lorong tingkat dua, sepi di jam pergantian. Brannoc menunjuk sa
 
 Brannoc memukul sekali. Batu bergetar. Dua kali. Debu turun dari garis lingkaran seperti tepung. Ketiga —
 
-Sebidang batu selingkung selepas kepala lepas tanpa suara, terguling ke kaki mereka, dan bidang dinding yang tersisa licin sempurna. Tidak ada satu retakan pun menjalar keluar lingkaran itu. Presisi seperti itu bukan pepekerjaan pahat; itu pepekerjaan pengertian.
+Sebidang batu selingkung selepas kepala lepas tanpa suara, terguling ke kaki mereka, dan bidang dinding yang tersisa licin sempurna. Tidak ada satu retakan pun menjalar keluar lingkaran itu. Presisi seperti itu bukan pekerjaan pahat; itu pekerjaan pengertian.
 
 Foreman tua itu menatap lubang bersih di dindingnya, lalu menatap bocah kurus di sebelahnya, dan barulah malam itu ia tampak benar-benar menghitung kemungkinan yang tidak diajarkan siapa-siapa di tambang.
 
 "Berapa lama kamu bisa begini?"
 
-"Seumur hidup. Yang susah bukan bacanya." Ashvarok mengambil kembali salah satu potongan, membaliknya. "Yang susah adalah apa yang kulihat. Tambang ini punya jam pasir, Brannoc. Bukan semua lorong, tapi sisi timur bawah sedikit demi sedikit menyerap air formasi, dan penyangga-penyangga kayu di sana dipasang untuk beban lima puluh tahun lalu. Lorong tujuh hanya yang pertama — dia paling muda karena paling dekat jalur angkutan. Yang berikutnya menurut perhitunganku lorong sebelas dan galeri timur, musim hujan abu kalau pola kerja tidak berubah."
+"Seumur hidup. Yang susah bukan bacanya." Ashvarok mengambil kembali salah satu potongan, membaliknya. "Yang susah adalah apa yang kulihat. Tambang ini punya jam pasir, Brannoc. Bukan semua lorong, tapi sisi timur bawah sedikit demi sedikit menyerap air formasi, dan penyangga-penyangga kayu di sana dipasang untuk beban lima puluh tahun lalu. Lorong tujuh hanya yang pertama — dia paling muda karena paling dekat jalur angkutan. Yang berikutnya menurut perhitunganku lorong sebelas dan galeri timur, musim hujan abu kalau pola bekerja tidak berubah."
 
 "Bisa kamu tunjukkan?"
 
@@ -57,11 +57,11 @@ Brannoc menimbang kalimat itu seperti menimbang batuan: beratnya asli atau tidak
 
 Pertanyaan yang benar, dan Ashvarok menghargainya dengan setengah kebenaran lagi.
 
-"Karena kau satu-satunya di tambang ini yang kalau bilang 'semua turun' semua orang benar-benar turun." Ashvarok berjongkok, menyusun kedua potongan kaca-batu itu di lantai menjadi satu garis lurus. "Dan karena aku butuh kerja diam. Aku akan sering sentuh dinding, sering berhenti di tikungan, sering pilih sendiri batu mana yang kuangkat. Regu lain akan catat aku malas atau aneh. Kau tidak."
+"Karena kau satu-satunya di tambang ini yang kalau bilang 'semua turun' semua orang benar-benar turun." Ashvarok berjongkok, menyusun kedua potongan kaca-batu itu di lantai menjadi satu garis lurus. "Dan karena aku butuh bekerja diam. Aku akan sering sentuh dinding, sering berhenti di tikungan, sering pilih sendiri batu mana yang kuangkat. Regu lain akan catat aku malas atau aneh. Kau tidak."
 
-"Satu hal lagi yang mau kutanya, dan ini yang penting." Brannoc berjongkok di seberangnya, dan suaranya turun ke level gudang tutup. "Sayatan-sayatan di sembilan bawah. Yang rapi itu. Kamu bisa baca siapa pemakainya?"
+"Satu hal lagi yang mau kutanya, dan ini yang penting." Brannoc berjongkok di seberangnya, dan suaranya turun ke level gudang tutup. "Sayatan-sayatan di sembilan bawah. Yang rapi itu. Kamu bisa membaca siapa pemakainya?"
 
-"Bisa baca apa yang dia cari dan seberapa pandai dia. Pemakai, jam kerja, arah gerak — bisa. Nama tidak tertulis di batu."
+"Bisa membaca apa yang dia cari dan seberapa pandai dia. Pemakai, jam bekerja, arah gerak — bisa. Nama tidak tertulis di batu."
 
 "Seberapa pandai?"
 
@@ -77,7 +77,7 @@ Brannoc menatapnya lama. "Kau bicara tentang tamu seperti pernah punya tamu begi
 
 Brannoc diam. Gemuruh troli dari atas mengisi sunyi untuknya.
 
-"Aku punya anak," kata foreman itu akhirnya, dan kalimat itu keluar seperti barang dari karung yang jarang dibuka. "Laki-laki. Umurnya sembilan. Ibunya mati waktu dia lahir, jadi dia tinggal di asrama distrik utara — bayarannya dari potong gajiku." Ia menatap lubang bersih di dinding itu. "Kontrak pendidikannya pegang the Quiet Vein. Bukan kerja paksa, tapi jenis kontrak yang naik harganya tiap tahun, seperti semua milik mereka. Angka shift yang bagus satu-satunya cara bayar dia jadi pandai besi, bukan tambang."
+"Aku punya anak," kata foreman itu akhirnya, dan kalimat itu keluar seperti barang dari karung yang jarang dibuka. "Laki-laki. Umurnya sembilan. Ibunya mati waktu dia lahir, jadi dia tinggal di asrama distrik utara — bayarannya dari potong gajiku." Ia menatap lubang bersih di dinding itu. "Kontrak pendidikannya pegang the Quiet Vein. Bukan bekerja paksa, tapi jenis kontrak yang naik harganya tiap tahun, seperti semua milik mereka. Angka shift yang bagus satu-satunya cara bayar dia jadi pandai besi, bukan tambang."
 
 "Pandai besi lebih mahal daripada tambang?"
 
@@ -91,7 +91,7 @@ Gudang itu sunyi selain gemuruh samar troli dari atas.
 
 Ia mengira kalimat itu akan mengakhiri semuanya — dan siap untuk itu juga, karena perjanjian semacam ini tidak bisa diminta, hanya bisa ditawarkan. Tetapi Brannoc hanya mengangguk pelan, satu kali, seperti menandatangani sesuatu di dalam kepala.
 
-"Dua puluh tahun lalu aku prajurit di benteng timur," kata foreman itu, mengembalikan pahat ke rak. "Komandanku bisa lihat jalur pasukan musuh dari cara rumput rebah. Orang-orang bilang dia punya bakat. Dia bilang dia hanya rajin lihat." Ia mengambil sekopnya, membuka pintu dengan kaki, dan berhenti setengah badan di ambang. "Besok shift sembilan bawah lagi. Tulang seam yang dicari Quota Office banyak di situ. Kamu baca, kami angkat, hasilnya lewat gudangku dulu sebelum ke kantor — biar angkanya kelihatan kerja regu, bukan kerja bocah ajaib. Tapi Renn—"
+"Dua puluh tahun lalu aku prajurit di benteng timur," kata foreman itu, mengembalikan pahat ke rak. "Komandanku bisa lihat jalur pasukan musuh dari cara rumput rebah. Orang-orang bilang dia punya bakat. Dia bilang dia hanya rajin lihat." Ia mengambil sekopnya, membuka pintu dengan kaki, dan berhenti setengah badan di ambang. "Besok shift sembilan bawah lagi. Tulang seam yang dicari Quota Office banyak di situ. Kamu membaca, kami angkat, hasilnya lewat gudangku dulu sebelum ke kantor — biar angkanya kelihatan bekerja regu, bukan bekerja bocah ajaib. Tapi Renn—"
 
 "Ya."
 

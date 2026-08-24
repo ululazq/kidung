@@ -9,7 +9,7 @@ Dua hari istirahat yang dijanjikan Brannoc berakhir lebih cepat dari janjinya, k
 
 Ashvarok membacanya tiga kali, dan setiap pembacaan memperjelas hal yang sama: mereka tidak sedang menutup tambang. Mereka sedang mengosongkan ruangan.
 
-Tim khusus bersertifikat itu sudah ada di Caldrest sejak seminggu lalu — orang-orang berjubah abu yang berpura-pura jadi pelayan, yang gerobaknya membawa peti-peti bersegel benang timah. Ashvarok sudah dua kali melihat salah satunya berdiri di depan Quota Office dengan papan catatan kecil, mencatat sesuatu tentang lalu-lalang distrik timur. Daftar empat ratus keluarga itu bukan pekerjaan yang bisa ditunggu, melainkan sedang disusun secara paralel. Survei Guild tinggal dua hari sebelum berangkat. Setelah itu, aula pengikat di bawah sana akan menjadi milik Ossian Vael tanpa satu pun saksi independen, dan pengikat Chorus-tier butuh waktu berminggu-minggu untuk bekerja yang sudah tertunda seribu tahun itu.
+Tim khusus bersertifikat itu sudah ada di Caldrest sejak seminggu lalu — orang-orang berjubah abu yang berpura-pura jadi pelayan, yang gerobaknya membawa peti-peti bersegel tin thread. Ashvarok sudah dua kali melihat salah satunya berdiri di depan Quota Office dengan papan catatan kecil, mencatat sesuatu tentang lalu-lalang distrik timur. Daftar empat ratus keluarga itu bukan pekerjaan yang bisa ditunggu, melainkan sedang disusun secara paralel. Survei Guild tinggal dua hari sebelum berangkat. Setelah itu, aula pengikat di bawah sana akan menjadi milik Ossian Vael tanpa satu pun saksi independen, dan pengikat Chorus-tier butuh waktu berminggu-minggu untuk bekerja yang sudah tertunda seribu tahun itu.
 
 Artinya, dia punya dua hari. Dan karena jadwal musuh tidak pernah menghormati rencana siapa pun — pelajaran yang cukup dia bayar sepanjang karier pertamanya — mungkin lebih sedikit dari itu.
 
@@ -91,4 +91,4 @@ Sela menatapnya lama, mengukur janji itu dengan timbangan yang tidak pernah sala
 
 Dia keluar membawa papan tulisnya — daftar rahasia itu, daftar hal-hal yang tidak berubah — dan meninggalkan Ashvarok sendirian dengan peta perang terkecil di dunia yang kini kosong karena telah dihapus.
 
-Malam itu ia tidur awal, makan tiga porsi penuh, dan memeriksa benang Jam Pasir dua kali. Besok ia akan menagih utang seribu tahun. Malam ini, tubuh pinjaman ini berhak tidur seperti manusia. Di bawahnya, jauh di dalam batu, the Underfold bernapas pelan seperti biasa, tidak tahu bahwa sebagian jadwalnya sudah ditulis ulang oleh tangan yang paling tidak punya hak untuk itu.
+Malam itu ia tidur awal, makan tiga porsi penuh, dan memeriksa benang Hourglass dua kali. Besok ia akan menagih utang seribu tahun. Malam ini, tubuh pinjaman ini berhak tidur seperti manusia. Di bawahnya, jauh di dalam batu, the Underfold bernapas pelan seperti biasa, tidak tahu bahwa sebagian jadwalnya sudah ditulis ulang oleh tangan yang paling tidak punya hak untuk itu.

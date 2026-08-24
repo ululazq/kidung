@@ -61,7 +61,7 @@ Kovan mengulang. Separuh kekuatan. Jarum bergerak naik sedikit, goyah pada ampli
 
 Ashvarok bernapas. Itu saja yang ia lakukan — dan itulah bagian tersulit yang pernah ia kerjakan dalam seribu tahun. Berdiri di bawah alat pembaca, tanpa satu pun lapisan perlindungan, sambil menahan diri untuk tidak memperbaiki apa yang sedang dibaca. Setiap instingnya berteriak menenun. Ia membiarkan teriakan itu berbunyi sendiri.
 
-Lempeng itu mendengarkan tubuhnya selama dua belas detik penuh, dan dua belas detik itu menemukan — resonant vein sempit dan rusak ringan. Residu kerja tungku di jalur bahu. Ketebalan gema kurang dari separuh standar bocah sepuluh tahun. Dan tidak ada apa-apa di bawahnya. Bukan kekosongan yang dibuat — kekosongan buatan punya tepi, dan tepi bisa dibaca. Yang terbaca malam ini adalah dangkalnya saja, dangkal yang tumbuh sendiri, dangkal yang tidak pernah diminta oleh siapa pun.
+Lempeng itu mendengarkan tubuhnya selama dua belas detik penuh, dan dua belas detik itu menemukan — resonant vein sempit dan rusak ringan. Residu bekerja tungku di jalur bahu. Ketebalan gema kurang dari separuh standar bocah sepuluh tahun. Dan tidak ada apa-apa di bawahnya. Bukan kekosongan yang dibuat — kekosongan buatan punya tepi, dan tepi bisa dibaca. Yang terbaca malam ini adalah dangkalnya saja, dangkal yang tumbuh sendiri, dangkal yang tidak pernah diminta oleh siapa pun.
 
 Kovan mencabut tangannya. Ia memandangi jarum itu lama, lalu mengambil lempengnya, lalu meletakkannya kembali, gerakan orang yang tidak percaya angka sendiri dan tidak sanggup menuduh angkanya bohong.
 

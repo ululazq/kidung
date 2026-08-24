@@ -17,7 +17,7 @@ Ashvarok membawa berkas itu turun dari kantor pos distrik lewat jalur yang biasa
 
 Di dalam, suara yang tidak biasanya ada sedang bicara dengan Kel Tharrow.
 
-"...daftar pendataan sudah saya baca semalam. Enam ratus dua puluh satu nama. Saya butuh klarifikasi untuk sebelas." Suara itu tenang, terlatih, dan setiap kalimatnya dibangun seperti meja yang dirancang agar tidak goyang. "Tapi daftar bukan alasan saya datang. Survei junior assayer itu akan selesai dalam lima hari, dan ketika laporannya naik, klasifikasi anomali di bawah kota ini akan berpindah tangan — dari Guild ke kami, secara prosedural, tanpa satu pun tinta yang bisa dipersoalkan."
+"...daftar pendataan sudah saya membaca semalam. Enam ratus dua puluh satu nama. Saya butuh klarifikasi untuk sebelas." Suara itu tenang, terlatih, dan setiap kalimatnya dibangun seperti meja yang dirancang agar tidak goyang. "Tapi daftar bukan alasan saya datang. Survei junior assayer itu akan selesai dalam lima hari, dan ketika laporannya naik, klasifikasi anomali di bawah kota ini akan berpindah tangan — dari Guild ke kami, secara prosedural, tanpa satu pun tinta yang bisa dipersoalkan."
 
 "Dan setelah klasifikasi pindah?" Suara Tharrow lebih rendah dari biasanya. Orang berbicara lebih pelan ketika sadar sedang menjadi peralatan. "Lisensi tambang tetap milik kita?"
 
@@ -25,7 +25,7 @@ Di dalam, suara yang tidak biasanya ada sedang bicara dengan Kel Tharrow.
 
 "Pemindahan." Kata itu diulang Tharrow dengan hati-hati seorang pria mengulang kata yang baru saja dia lihat punya gigi. "Ada empat ratus keluarga di distrik timur."
 
-"Empat ratus keluarga bisa dipindahkan. Sebuah seam yang menyimpan rekaman segala sesuatu tidak bisa." Jeda singkat, jenis jeda yang digunakan orang untuk membiarkan fakta bekerja sendiri. "Aku tidak minta kau melakukan apa pun yang kasar, Overseer. Itu kerja nanti, kerja resmi, dengan izin dan kompensasi dan semua kata bagus lainnya. Yang kuminta sekarang hanya tiga hal kecil. Pertama. Hasil survei Guild yang masuk ke kantormu dilaporkan kepadaku sebelum naik ke biro. Kedua. Penjaga barumu, Kovan — dia akan menerima instruksi tambahan langsung dariku mulai minggu depan. Ketiga..."
+"Empat ratus keluarga bisa dipindahkan. Sebuah seam yang menyimpan rekaman segala sesuatu tidak bisa." Jeda singkat, jenis jeda yang digunakan orang untuk membiarkan fakta bekerja sendiri. "Aku tidak minta kau melakukan apa pun yang kasar, Overseer. Itu bekerja nanti, bekerja resmi, dengan izin dan kompensasi dan semua kata bagus lainnya. Yang kuminta sekarang hanya tiga hal kecil. Pertama. Hasil survei Guild yang masuk ke kantormu dilaporkan kepadaku sebelum naik ke biro. Kedua. Penjaga barumu, Kovan — dia akan menerima instruksi tambahan langsung dariku mulai minggu depan. Ketiga..."
 
 Jeda kedua. Lebih panjang. Jenis jeda yang membuat orang di ruangan duduk lebih tegak.
 
@@ -63,11 +63,11 @@ Dan orang-orang berjubah abu ingin memindahkan empat ratus keluarga supaya bisa 
 
 Ada ironi yang membuatnya hampir ingin tertawa di gang yang gelap. Selama ini ia mengira dirinya penjaga pintu — orang yang menjaga agar apa yang ada di balik the Threshold tidak keluar. Ternyata pintunya juga arsip. Dan kini dua jenis pencuri mengincarnya sekaligus. Satu yang lapar dari bawah, yang makan nama sedikit demi sedikit. Satu yang sopan dari atas, yang membawa surat, izin, dan kata-kata bagus tentang pemindahan yang efisien.
 
-Sela pernah bertanya kenapa dia mau tinggal di Caldrest. Jawabannya waktu itu — karena retakan, pria abu, dan tangan penyedot semua lewat sini. Jawabannya sekarang lebih sederhana lagi — karena tidak ada siapa pun lain yang tahu betapa mahal isi ruang bawah tanah itu, dan barang yang mahal tanpa penjaga hanya butuh beberapa pekan untuk menjadi milik orang pertama yang tahu.
+Sela pernah bertanya kenapa dia mau tinggal di Caldrest. Jawabannya waktu itu — karena retakan, ash man, dan tangan penyedot semua lewat sini. Jawabannya sekarang lebih sederhana lagi — karena tidak ada siapa pun lain yang tahu betapa mahal isi ruang bawah tanah itu, dan barang yang mahal tanpa penjaga hanya butuh beberapa pekan untuk menjadi milik orang pertama yang tahu.
 
 "Rekaman," gumam Ashvarok pada gelap gang, sambil melanjutkan langkah. "Seribu tahun aku pikir tugasku menjaga dunia dari apa yang ada di balik pintu. Ternyata pintunya juga mencatat siapa yang pernah datang."
 
-Ia memasuki barak ketika Sela sudah merebus air, dan di papan tulis mereka kolom Jam Pasir mendapat entri malam itu yang bukan ukuran benang:
+Ia memasuki barak ketika Sela sudah merebus air, dan di papan tulis mereka kolom Hourglass mendapat entri malam itu yang bukan ukuran benang:
 
 "Hari ini kamu dipanggil orang besar?" — tulisan tangan Sela, kecil, di pojok.
 
@@ -87,7 +87,7 @@ Ashvarok duduk di kursinya. Sup malam ini panas, dan panas adalah barang yang ha
 
 Sela menatapnya lama dengan mata yang menghitung, lalu menuang sup untuk dirinya sendiri dan duduk berhadapan dengannya.
 
-"Kalau gitu aku nambah aturan," katanya. "Aturan nomor empat. Kalau kita kabur-buruan, aku yang bawa papan tulisnya."
+"Kalau begitu aku nambah aturan," katanya. "Aturan nomor empat. Kalau kita kabur-buruan, aku yang bawa papan tulisnya."
 
 "Kenapa papannya?"
 

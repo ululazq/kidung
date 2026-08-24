@@ -5,7 +5,7 @@ chapter: 110
 
 Umpan itu masuk ke segmen timur pada malam hari keseratus lima puluh satu, dibawa keluar oleh regu inspeksi ventilasi yang sah menurut daftar dan sah menurut undian, tersembunyi di dalam kotak perkakas braket yang memang harus diganti.
 
-Penempatannya dikerjakan oleh tangan Renn sendiri, di ceruk sayatan tua yang sudah lama tidak disentuh siapa pun, di antara dua pasak yang sehat. Fragmen itu diletakkan setengah tertanam di nat, dengan endapan garam yang dipindahkan secukupnya supaya tampak seperti barang yang baru lepas dari batu, dan bekas sayat palsu di dinding ceruk dibuat mengikuti irama pisau mesin supaya mata awam membacanya kerja lama. Barang sebesar itu tidak jatuh dari batu tanpa alasan, maka ia meninggalkan juga alasan berupa cerita. Ceritanya sederhana. Retakan tua melepaskan potongannya pada musim berganti, dan orang pertama yang menemukannya berhak menimbang nasibnya.
+Penempatannya dikerjakan oleh tangan Renn sendiri, di ceruk sayatan tua yang sudah lama tidak disentuh siapa pun, di antara dua pasak yang sehat. Fragmen itu diletakkan setengah tertanam di nat, dengan endapan garam yang dipindahkan secukupnya supaya tampak seperti barang yang baru lepas dari batu, dan bekas sayat palsu di dinding ceruk dibuat mengikuti irama pisau mesin supaya mata awam membacanya bekerja lama. Barang sebesar itu tidak jatuh dari batu tanpa alasan, maka ia meninggalkan juga alasan berupa cerita. Ceritanya sederhana. Retakan tua melepaskan potongannya pada musim berganti, dan orang pertama yang menemukannya berhak menimbang nasibnya.
 
 Lalu datang bagian yang paling berat, yaitu dua malam menunggu.
 
@@ -45,7 +45,7 @@ Gang itu sunyi lagi dalam sepuluh detik. Tidak ada peluit. Tidak ada panggilan. 
 
 Isi tas kurir bisu itu dibaca satu kali di tempat, cahaya serendah mungkin, oleh empat pasang mata yang tidak percaya nasib baik dan karena itu memeriksa dua kali.
 
-Fragmen tulang seam dengan tanda tempa empat titik, utuh dalam pembungkusnya. Lilin putih-abu berbenang timah, segel-segel kecil untuk menutup kiriman, cocok sampai garis benang dengan sampel yang disimpan Brannoc sejak musim panen dulu. Lembar-lembar kecil berkode kotak garis miring, tanggal-tanggal pencairan atas nama keluarga-keluarga yang tidak pernah pindah. Dan satu lipatan besar yang berbeda dari yang lain, kertas lebih tebal, kop surat yang dicetak rapi, dengan kode penerima teratas di sudutnya.
+Fragmen tulang seam dengan tanda tempa empat titik, utuh dalam pembungkusnya. Lilin putih-abu threaded with tin, segel-segel kecil untuk menutup kiriman, cocok sampai garis benang dengan sampel yang disimpan Brannoc sejak musim panen dulu. Lembar-lembar kecil berkode kotak garis miring, tanggal-tanggal pencairan atas nama keluarga-keluarga yang tidak pernah pindah. Dan satu lipatan besar yang berbeda dari yang lain, kertas lebih tebal, kop surat yang dicetak rapi, dengan kode penerima teratas di sudutnya.
 
 KORD-4.
 
@@ -61,7 +61,7 @@ Keputusan itu sudah dibuat sejak sebelum jebakan dipasang, tapi malam ini ia diu
 
 ---
 
-Ruang kerja Assayer Tull menerima mereka pada jam yang tidak layak untuk kunjungan mana pun, dan Maera Tull membuka pintunya sendirian dengan lampu yang sudah menyala, karena orang yang setahun memegang tuas seperti dirinya tidak pernah tidur sebelum kertas-kertasnya tidur lebih dulu.
+Ruang bekerja Assayer Tull menerima mereka pada jam yang tidak layak untuk kunjungan mana pun, dan Maera Tull membuka pintunya sendirian dengan lampu yang sudah menyala, karena orang yang setahun memegang tuas seperti dirinya tidak pernah tidur sebelum kertas-kertasnya tidur lebih dulu.
 
 Ia tidak banyak bertanya. Orang yang sudah lama membaca rantai hanya butuh satu pandangan ke isi tas untuk mengerti bahwa rantainya baru saja berjalan masuk lewat pintu. Ia memeriksa fragmen itu paling akhir, dengan kaca pembesarnya, di bawah lampu meja, dan berhenti pada bidang dalam, dan tidak bertanya tentang tanda empat titik itu milik tangan siapa.
 
@@ -79,6 +79,6 @@ Kotak bukti kayu itu diatur ulang oleh tangannya sendiri, lembar demi lembar, se
 
 "Gencatan senjata saya dengan Vael tidak melarang saya memegang bukti," katanya pelan, lebih kepada ruangan daripada kepada siapa pun. "Gencatan senjata itu hanya melarang saya mempermainkannya. Ini bukan permainan. Ini arsip."
 
-Kotak itu diletakkannya di rak tertutup di belakang mejanya, dan lilinnya dibiarkan dingin di bawah lampu yang dibiarkan menyala, dan malam hari keseratus lima puluh satu berakhir di ruang kerja itu dengan satu kotak tersegel ungu yang menunggu pagi lebih berani daripada pagi-pagi Caldrest yang lain.
+Kotak itu diletakkannya di rak tertutup di belakang mejanya, dan lilinnya dibiarkan dingin di bawah lampu yang dibiarkan menyala, dan malam hari keseratus lima puluh satu berakhir di ruang bekerja itu dengan satu kotak tersegel ungu yang menunggu pagi lebih berani daripada pagi-pagi Caldrest yang lain.
 
-Di luar, distrik timur tertidur tanpa tahu apa-apa, seperti yang seharusnya. Baris-baris peta nama di klinik menunggu centang subuhnya, dan centang itu akan datang tepat waktu, dan untuk pertama kalinya sejak setahun, tepat waktu bukan lagi kebetulan. Itu hasil kerja.
+Di luar, distrik timur tertidur tanpa tahu apa-apa, seperti yang seharusnya. Baris-baris name map di klinik menunggu centang subuhnya, dan centang itu akan datang tepat waktu, dan untuk pertama kalinya sejak setahun, tepat waktu bukan lagi kebetulan. Itu hasil bekerja.

@@ -15,7 +15,7 @@ Bukan sayatan kali ini, pikirnya. Musuh sedang belajar. Sayatan meninggalkan luk
 
 Ia menghitung jalur kegagalan itu sampai ujungnya dengan disiplin orang yang pernah membangun tempat ini dua kali. Pasak busur bukan penyangga utama atap aula — beban utama tetap di rangka timurnya yang ganjil itu. Tetapi pasak samping memegang pita batu antara rangka, dan pita yang kehilangan dua titik pegangannya akan menyalurkan beban ke titik terdekat yang masih menghitung benar. Retakan pertama tidak akan besar. Retakan pertama hanya cukup untuk membuat suara, dan suara runtuhan di tambang adalah satu-satunya kalimat yang tidak perlu dibuktikan siapa pun. Semua orang datang menyelamatkan lebih dulu dan bertanya kemudian. Pada saat pertanyaan mulai, karantina sudah ditandatangani oleh ketakutan bersama.
 
-Di celah antara pasak keempat dan dinding, kanal gesekan selebar telapak tangan itu memanjang ke gelap, dipoles puluhan tahun oleh tali yang pernah ia baca jejaknya. Ia memasukkan tangan sejauh jangkauannya dan jarinya menemukan tiga hal berturut-turut. Serat tali segar, umurnya hitungan hari, belum kusam asap lampu. Bekas gesekan tumpul di lengkung kanal yang posisinya lebih rendah daripada bekas-bekas lama, artinya tali baru-baru ini ditarik dari sudut yang berbeda. Dan di debu tepi lubang pasak, cetakan telapak sepatu kulit yang solnya dipaku silang, ukuran orang dewasa, satu, menghadap keluar.
+Di celah antara pasak keempat dan dinding, kanal gesekan selebar telapak tangan itu memanjang ke gelap, dipoles puluhan tahun oleh tali yang pernah ia membaca jejaknya. Ia memasukkan tangan sejauh jangkauannya dan jarinya menemukan tiga hal berturut-turut. Serat tali segar, umurnya hitungan hari, belum kusam asap lampu. Bekas gesekan tumpul di lengkung kanal yang posisinya lebih rendah daripada bekas-bekas lama, artinya tali baru-baru ini ditarik dari sudut yang berbeda. Dan di debu tepi lubang pasak, cetakan telapak sepatu kulit yang solnya dipaku silang, ukuran orang dewasa, satu, menghadap keluar.
 
 Orang itu bekerja dari dalam kanal, pikirnya. Bukan dari lorong-lorong troli. Dia mengenal jalurnya seperti pemiliknya.
 
@@ -59,7 +59,7 @@ Mereka membersihkan jejak kerjanya sendiri sampai standar orang yang tahu cara d
 
 Sebelum naik, Brannoc berdiri sebentar di depan pasak ketiga dan mengetuknya sekali lagi dengan gagang palu, seperti dokter tua memeriksa ulang dada pasiennya. "Kalau dia balik dan jalurnya mati, dia cari jalan lain," katanya. "Orang yang lapar selalu cari jalan lain."
 
-"Kali ini kita yang nunggu di jalan lainnya," kata Ashvarok.
+"Kali ini kita yang menunggu di jalan lainnya," kata Ashvarok.
 
 Rapat kecil terakhir diadakan berdiri, di gudang perkakas, dengan pintu tertutup dan lampu satu — Ashvarok, Brannoc, dan papan tulis Sela yang dibawa turun khusus. Tiga hal dicatat. Pertama, semua pasak sisa dan seluruh kanal gesekan akan diinspeksi berpasangan dalam dua pekan ke depan, dengan cover perbaikan drainase yang sudah menjadi bahasa sehari-hari mereka. Kedua, titik sempitan baru tidak dicatat di kertas apa pun, termasuk papan itu — Brannoc yang menghafal lokasinya, Ashvarok yang menghafal sisanya, dan hafalan tetap menjadi satu-satunya arsip yang tidak bisa disita. Ketiga, regu inspeksi ventilasi tidak diberi tahu apa pun selain bahwa pasak selatan butuh pemantauan rutin. Semakin sedikit orang yang tahu ada tali, semakin lama tali itu tidak berganti pemakai.
 
@@ -67,6 +67,6 @@ Rapat kecil terakhir diadakan berdiri, di gudang perkakas, dengan pintu tertutup
 
 Ashvarok tidak menjawab, karena kalimat itu sudah benar tanpa perlu didampingi apa pun.
 
-Di barak, subuh harinya, Sela mencatat satu baris pendek di kolom Jam Pasir setelah mengukurnya tanpa perlu diminta — denyut yang tidak maju, lapar yang sudah setengah dijawab roti. Ia menuliskan tanggalnya, kata kanal, dan satu garis miring yang artinya kecil. Baris paling ringkas yang pernah kolom itu terima, dan keduanya sama-sama tahu bahwa ringkas pada kolom itu adalah barang mahal.
+Di barak, subuh harinya, Sela mencatat satu baris pendek di kolom Hourglass setelah mengukurnya tanpa perlu diminta — denyut yang tidak maju, lapar yang sudah setengah dijawab roti. Ia menuliskan tanggalnya, kata kanal, dan satu garis miring yang artinya kecil. Baris paling ringkas yang pernah kolom itu terima, dan keduanya sama-sama tahu bahwa ringkas pada kolom itu adalah barang mahal.
 
 

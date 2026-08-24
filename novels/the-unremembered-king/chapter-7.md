@@ -43,7 +43,7 @@ Di kursi seberang, ada perubahan kecil. Bahu Renn turun setengah senti, napas ke
 
 Nyaris.
 
-"Tenang," kata Tharrow, dan suaranya turun menjadi tingkat yang ia pakai untuk pepekerjaan halus. "Aku tidak memanggilmu untuk mengancam. Aku memanggilmu untuk menawarkan. Kuota barumu naik dua puluh lima persen. Tubuhmu kurus, shift-mu penuh, dan hitungan sederhana bilang kau tidak akan capai. Kalau gagal sekali, teguran. Kalau gagal dua kali, potongan upah. Kalau gagal tiga kali—" Ia mengetuk kolom kosong itu. "—kontrak berlapis. Aku tidak mau sampai ke sana. Bocah yang selamat dari lorong amblas itu aset, dan aku tidak suka aset hilang karena aritmetika."
+"Tenang," kata Tharrow, dan suaranya turun menjadi tingkat yang ia pakai untuk pekerjaan halus. "Aku tidak memanggilmu untuk mengancam. Aku memanggilmu untuk menawarkan. Kuota barumu naik dua puluh lima persen. Tubuhmu kurus, shift-mu penuh, dan hitungan sederhana bilang kau tidak akan capai. Kalau gagal sekali, teguran. Kalau gagal dua kali, potongan upah. Kalau gagal tiga kali—" Ia mengetuk kolom kosong itu. "—kontrak berlapis. Aku tidak mau sampai ke sana. Bocah yang selamat dari lorong amblas itu aset, dan aku tidak suka aset hilang karena aritmetika."
 
 "Orang yang lupa tidak punya urutan," kata Tharrow, mengulang catatan investigasinya dari memori tanpa membuka lembar itu. "Tapi kau punya. Mari kita uji ingatmu sampai ke mana." Ia menyandarkan punggung. "Minggu lalu. Lorong sembilan bawah. Kamu turun dengan regu Brannoc. Ceritakan jam demi jam."
 
@@ -51,7 +51,7 @@ Renn menceritakan: turun subuh, antrian troli tingkat tiga, dua jam gali, satu j
 
 "Sekarang bagian yang menarik." Tharrow membuka buku besarnya pada halaman kosong, pena siap. "Seorang kolektor barang tua di pasar bilang minggu ini ada anak tambang menjual fragmen retakan berkualitas tinggi. Fragmen jenis itu hanya ada di kedalaman. Kau ada di kedalaman minggu ini."
 
-"Aku ada di kedalaman setiap minggu, Overseer. Itu pepekerjaan saya."
+"Aku ada di kedalaman setiap minggu, Overseer. Itu pekerjaan saya."
 
 "Tentu." Pena itu tidak bergerak. "Jadi kalau aku minta kau buka karungmu sekarang, isinya batu biasa."
 
@@ -95,7 +95,7 @@ Tharrow menatap kolom investigasi yang kosong itu lama, lalu memenulis satu kali
 
 Faktor tak dikenal di the Underfold. Belum bernama. Sudah belajar bicara.
 
-Ia meniup tintanya kering, melipat lembar itu ke saku dalam map kerja — bukan ke arsip, arsip bisa dibaca orang lain — dan mulai menyusun surat triwulan untuk pusat. Angka-angkanya bagus. Angka-angkanya selalu dibuat bagus, dan itu pepekerjaan yang tidak pernah selesai. Di baris catatan tambahan, pena berhenti sebentar di atas kertas, seperti penari ragu pada anak tangga terakhir.
+Ia meniup tintanya kering, melipat lembar itu ke saku dalam map bekerja — bukan ke arsip, arsip bisa dibaca orang lain — dan mulai menyusun surat triwulan untuk pusat. Angka-angkanya bagus. Angka-angkanya selalu dibuat bagus, dan itu pekerjaan yang tidak pernah selesai. Di baris catatan tambahan, pena berhenti sebentar di atas kertas, seperti penari ragu pada anak tangga terakhir.
 
 Luar jendela, asap tungku ventilasi naik miring ke langit Caldrest, dan di bawahnya kota-kota kecil distrik penambang mulai bergerak. Troli pertama, terompet shift kedua, anak-anak menuju gudang belajar angka yang setengah dari mereka akan tinggalkan untuk timbangan batu. Semua mesin yang ia kelola. Semua angka yang ia naikkan.
 

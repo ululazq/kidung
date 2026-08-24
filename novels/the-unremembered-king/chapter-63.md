@@ -5,13 +5,13 @@ chapter: 63
 
 Peta yang salah dan telah dicap sah adalah alat administratif paling berharga yang pernah dipegang Ossian Vael, karena kebohongan yang sudah diverifikasi dua institusi tidak membutuhkan pembelaan — ia hanya membutuhkan penerapan.
 
-Pada pagi hari kedelapan puluh, di meja kerja penginapan distrik atas, pejabat Koordinasi Artefak Regional menyusun tumpukan ketiga untuk hari itu. Draf permohonan izin penutupan distrik timur. Dokumen penilaian triwulan II tergeletak di sisinya, terbuka pada halaman kesimpulan, dan setiap kali keraguan lama mencoba bangkit dari sudut kepalanya — ruangan itu menjawab semua alat dengan jawaban normal, kata semua instrumen. Sampai detik ini semuanya terbaca normal, katanya sendiri — ia menutupnya dengan halaman itu. Struktur mati non-strategis. Nilai rendah. Distrik timur, empat ratus keluarga yang menganggur di atas karantina, tidak lagi punya alasan ekonomi untuk bertahan di lereng timur.
+Pada pagi hari kedelapan puluh, di meja bekerja penginapan distrik atas, pejabat Koordinasi Artefak Regional menyusun tumpukan ketiga untuk hari itu. Draf permohonan izin penutupan distrik timur. Dokumen penilaian triwulan II tergeletak di sisinya, terbuka pada halaman kesimpulan, dan setiap kali keraguan lama mencoba bangkit dari sudut kepalanya — ruangan itu menjawab semua alat dengan jawaban normal, kata semua instrumen. Sampai detik ini semuanya terbaca normal, katanya sendiri — ia menutupnya dengan halaman itu. Struktur mati non-strategis. Nilai rendah. Distrik timur, empat ratus keluarga yang menganggur di atas karantina, tidak lagi punya alasan ekonomi untuk bertahan di lereng timur.
 
 Fakta-fakta itu benar. Itulah keindahan prosedurnya. Ia tidak perlu berbohong satu kalimat pun kepada siapa pun. Ia hanya perlu membeli urutan kejadian.
 
 Angka-angka karantina sudah bekerja untuknya selama sebulan penuh tanpa diminta. Produksi regu timur turun hampir nol. Kas barak habis untuk roti. Antrean santunan dua shardmark sehari menjadi kebiasaan baru kota — dan antrean adalah bukti, dan bukti adalah bahan bangunan. Seorang pejabat yang datang dengan angka bisa dilawan angka lain. Seorang pejabat yang datang dengan antrean tidak dilawan siapa-siapa. Ia hanya ditunjukkan antrean itu, dan semua yang melihat akan mengangguk sendiri.
 
-Ia menulis kalimat pembuka draf itu dengan tinta ungu: Menimbang kondisi udara dan ekonomi distrik timur pasca-insiden — dan berhenti pada kata insiden, menimbangnya seperti orang menimbang mata uang asing. Gas tua adalah cerita resmi yang sudah dibayar mahal. Ia tidak akan menggantinya, cukup membiarkannya menua di dalam kalimat pasif yang tidak pernah menyalahkan siapa pun.
+Ia menulis kalimat pembuka draf itu dengan tinta ungu: Menimbang kondisi udara dan ekonomi distrik timur pasca-insiden — dan berhenti pada kata insiden, menimbangnya seperti orang menimbang mata uang asing. Old gas adalah cerita resmi yang sudah dibayar mahal. Ia tidak akan menggantinya, cukup membiarkannya menua di dalam kalimat pasif yang tidak pernah menyalahkan siapa pun.
 
 ---
 
@@ -21,7 +21,7 @@ Aula kecil balai kota Caldrest bau lilin murah dan kayu yang dilap terlalu jaran
 
 "Berat," setuju Ossian, duduk, membuka map tanpa tergesa. "Dan itulah sebabnya saya di sini, Tuan Hale. Bukan untuk menambah beban. Untuk memindahkannya."
 
-Ia meletakkan lembar pertama di atas meja. Draf pendirian dana pemulihan udara. Santunan korban insiden gas tua — korban jam hilang, keluarga yang terdampak karantina, biaya pemakaman yang belum ada tetapi bisa dibayangkan — dinaikkan dari dua shardmark sehari menjadi lima, dibayar dari kas regional, dicatat atas nama kepala daerah sebagai inisiator kebijakan.
+Ia meletakkan lembar pertama di atas meja. Draf pendirian dana pemulihan udara. Santunan korban insiden old gas — korban jam hilang, keluarga yang terdampak karantina, biaya pemakaman yang belum ada tetapi bisa dibayangkan — dinaikkan dari dua shardmark sehari menjadi lima, dibayar dari kas regional, dicatat atas nama kepala daerah sebagai inisiator kebijakan.
 
 Tangan kanan wali kota itu berhenti di udara di atas lembaran, sepersekian detik, sebelum turun membalik halamannya. "Dana seperti ini biasanya butuh persetujuan dewan."
 
@@ -31,7 +31,7 @@ Corvan Hale menuang teh untuk mereka berdua, lambat, dan Ossian memberi orang it
 
 "Rakyat saya di distrik timur," kata Hale akhirnya, "bukan angka. Mereka penambang. Kakek-nenek mereka membuka tambang ini." Tangan kanannya terkatup di atas meja — dan gemetar, tipis, hanya kelihatan bagi yang mencarinya, karena tubuh orang itu sendiri sepertinya tahu kalimatnya tidak sekuat suaranya. "Saya tidak bisa menandatangani apa pun yang menyebut mereka beban."
 
-"Saya tidak akan pernah meminta Anda menandatangani kata itu," kata Ossian, dengan kehangatan yang dihitung sampai derajatnya. Lembar kedua ditarik dari map — rencana penempatan kerja. "Bacalah ini. Setiap kepala keluarga yang pindah mendapat kontrak baru tanpa jeda — galeri-galeri utara yang dibuka ulang, stasiun pemilahan cinder-glass di kota pelabuhan, dan pos-pos Overseer baru yang harus diisi orang yang dipercaya kepala daerah setempat. Anda yang mengusulkan nama-namanya. Distrik timur tidak dibubarkan, Tuan Hale. Distrik timur dipromosikan."
+"Saya tidak akan pernah meminta Anda menandatangani kata itu," kata Ossian, dengan kehangatan yang dihitung sampai derajatnya. Lembar kedua ditarik dari map — rencana penempatan bekerja. "Bacalah ini. Setiap kepala keluarga yang pindah mendapat kontrak baru tanpa jeda — galeri-galeri utara yang dibuka ulang, stasiun pemilahan cinder-glass di kota pelabuhan, dan pos-pos Overseer baru yang harus diisi orang yang dipercaya kepala daerah setempat. Anda yang mengusulkan nama-namanya. Distrik timur tidak dibubarkan, Tuan Hale. Distrik timur dipromosikan."
 
 Kata terakhir itu bekerja persis seperti dirancang. Ia melihatnya bekerja. Bahu wali kota turun satu jari, senyum mudah itu kembali, dan untuk pertama kalinya pagi itu Corvan Hale membaca sebuah dokumen sampai selesai.
 

@@ -11,7 +11,7 @@ Aroma bubur jagung mendahului langkah Sela.
 
 Ashvarok menerima mangkuk itu dengan kedua tangan. Hangatnya menjalar sampai ke pergelangan, dan beberapa saat ia hanya membiarkan jari-jarinya mempelajari lagi arti suhu manusia. "Kau mencatat jam makan juga sekarang?"
 
-"Sela mencatat segala hal." Adiknya duduk bersila di kasur seberang, papan tulis di pangkuannya. Di kolom kanan atas, huruf besar JAM PASIR masih berdiri tegak, di bawahnya deretan tanggal dan tanda pendek yang naik-turun seperti denyut jantung yang rajin. "Garis kanan masih menempel siku. Kemarin sama, hari ini sama. Aku centang dua kali."
+"Sela mencatat segala hal." Adiknya duduk bersila di kasur seberang, papan tulis di pangkuannya. Di kolom kanan atas, huruf besar HOURGLASS masih berdiri tegak, di bawahnya deretan tanggal dan tanda pendek yang naik-turun seperti denyut jantung yang rajin. "Garis kanan masih menempel siku. Kemarin sama, hari ini sama. Aku centang dua kali."
 
 "Dua kali berarti diam. Itu bagus."
 
@@ -105,7 +105,7 @@ Pintu tua ditutup. Pasak kayu dipasang. Aula delapan puluh kali tiga puluh kemba
 
 Lonceng shift pertama berbunyi ketika ia masih empat puluh anak tangga dari permukaan, dan cahaya subuh hari ketiga puluh enam menemukan barak the Quiet Vein dalam keadaan yang tepat: Sela masih tidur, papan tulis di pelukan, dan di sisi belakangnya deret hitungan malam berhenti di angka dua belas.
 
-Ashvarok duduk di tepi kasurnya, mengambil mangkuk kayu ketiga yang sudah dingin, dan makan bubur jagung basi itu sampai habis tanpa mengeluh sekali pun — makanan dingin adalah masalah paling kecil yang diselesaikannya minggu ini. Kemudian ia mengambil kapur dari kotak adiknya, membuka kolom Jam Pasir, dan untuk pertama kalinya menulis satu tanda dengan tangannya sendiri: tanggal baru, garis kanan, posisi sama dengan kemarin.
+Ashvarok duduk di tepi kasurnya, mengambil mangkuk kayu ketiga yang sudah dingin, dan makan bubur jagung basi itu sampai habis tanpa mengeluh sekali pun — makanan dingin adalah masalah paling kecil yang diselesaikannya minggu ini. Kemudian ia mengambil kapur dari kotak adiknya, membuka kolom Hourglass, dan untuk pertama kalinya menulis satu tanda dengan tangannya sendiri: tanggal baru, garis kanan, posisi sama dengan kemarin.
 
 Persis catatan yang akan dibuat Renn. Tidak lebih, tidak kurang.
 

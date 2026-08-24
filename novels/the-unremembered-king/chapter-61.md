@@ -5,7 +5,7 @@ chapter: 61
 
 Prosesi penilaian menaiki tangga-tangga the Underfold pada jam empat sore dengan langkah orang yang sudah menutup sebuah berkas, dan Shift Guard Kovan berjalan paling belakang, membawa dua lempeng resmi di punggung dan satu lempeng yang tidak tercatat di daftar peralatan mana pun di dalam tasnya.
 
-Sepanjang turunan, kepalanya melakukan pekerjaan yang biasa ia kerjakan setiap malam. Menyusun kronologi. Jam tujuh pagi, pintu buntu dibuka. Jam sembilan, klaim dibacakan dan dicap. Jam sebelas —
+Sepanjang turunan, kepalanya melakukan pekerjaan yang biasa ia kerjakan setiap malam. Menyusun kronologi. Jam tujuh pagi, blind door dibuka. Jam sembilan, klaim dibacakan dan dicap. Jam sebelas —
 
 Jam sebelas adalah masalahnya. Jam sebelas, di tengah ruangan yang baru saja diumumkan mati oleh empat institusi, telinganya dipanggil dari arah yang tidak menghasilkan bunyi apa pun, dan kakinya berhenti di tengah langkah di hadapan seluruh prosesi. Ia sudah menjawab pengikat tua itu dengan kalimat yang ia poles tiga detik penuh sebelum mengeluarkannya. Kalau suatu saat ada yang terjadi dan alatnya tidak membacanya, ia akan bilang. Kalimat itu lolos. Kalimat itu bahkan dipuji dengan anggukan.
 
@@ -29,7 +29,7 @@ Lalu orang itu pergi, mengikuti troli terakhir, dan tidak sekali pun menyentuh d
 
 Troli terakhir bergerak menuju lift angkut, dan Kovan menandai baris ketujuh di buku muatan dengan tanda tangan yang sama rapi seperti biasa. Tangan yang menandatangani itu tidak gemetar. Yang gemetar adalah keyakinannya bahwa pekerjaan yang ditandatangani tangan itu masih ada artinya.
 
-Mengapa saya harus percaya kepada Anda, hendaknya ia bertanya. Pertanyaan itu tidak sempat keluar, dan malam itu, di kamarnya, ia sadar bahwa tidak bertanya adalah jawaban yang paling jujur, karena tidak ada satu pun di kota ini yang bisa ia percayai sepenuhnya, dan orang tua itu setidaknya tidak pernah berbohong tentang apa yang tidak ia baca.
+Mengapa saya harus percaya kepada Anda, hendaknya ia bertanya. Pertanyaan itu tidak sempat keluar, dan malam itu, di kamarnya, ia sadar bahwa tidak bertanya adalah jawaban yang paling jujur, karena tidak ada satu pun di kota ini yang bisa ia percayai sepenuhnya, dan orang tua itu setidaknya tidak pernah berbohong tentang apa yang tidak ia membaca.
 
 ---
 
@@ -61,7 +61,7 @@ Lampu dipadamkan. Untuk pertama kalinya sejak ia ditempatkan di Caldrest, Shift 
 
 Subuh hari ketujuh puluh sembilan, ia turun ke garis karantina dengan surat tanda pengamat yang masih berlaku, secara teknis untuk memverifikasi kondisi segmen pasca-penilaian, secara faktual untuk pekerjaan yang tidak ada di surat mana pun.
 
-Pintu buntu kini terbuka. Itulah kabar yang menyebar di antrean santunan semalam, kabar yang membuat mandor lubang sewaan saling menukar pandang. Segmen lorong B masuk wilayah lisensi normal, dan segmen berlisensi normal tidak boleh dipalang. Di papan Quota Office, dokumen reklasifikasi sudah tergantung di samping denah, lengkap dengan pasal-pasalnya, dan Kovan membacanya dua kali sambil pura-pura memeriksa jadwal shift.
+Blind Door kini terbuka. Itulah kabar yang menyebar di antrean santunan semalam, kabar yang membuat mandor lubang sewaan saling menukar pandang. Segmen lorong B masuk wilayah lisensi normal, dan segmen berlisensi normal tidak boleh dipalang. Di papan Quota Office, dokumen reklasifikasi sudah tergantung di samping denah, lengkap dengan pasal-pasalnya, dan Kovan membacanya dua kali sambil pura-pura memeriksa jadwal shift.
 
 Pasal akses menyebutkan bahwa segmen berlisensi normal wajib terbuka bagi setiap pemegang lisensi tambang yang sah. Pasal pengawasan menyebutkan bahwa penutupan, pemalangan, atau pembatasan non-dokumen atas segmen demikian adalah pelanggaran lisensi wilayah — dilaporkan ke Quota Office, didenda per hari. Ia menghitung siapa saja yang memegang lisensi sah di Caldrest dan berhenti pada angka yang tidak nyaman. Hampir semua orang yang punya kontrak. Penilai sewaan. Kurir. Siapa pun yang dibayar untuk melihat.
 

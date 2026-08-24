@@ -5,7 +5,7 @@ chapter: 66
 
 Pagi hari kedelapan puluh tiga, lonceng pos Guild di distrik tengah berbunyi dua kali. Satu bunyi berarti surat biasa. Dua bunyi berarti kiriman bersampul lilin, dan sampul lilin di Caldrest selalu berarti satu dari dua institusi besar. Sebelum gemanya benar-benar mati, setengah pasar timur sudah menghitung bahwa jawaban dari Anthema Spire akhirnya turun.
 
-Ashvarok menerima kabar itu dari arah yang tidak bisa dihindari. Ondar, di antrean troli pagi, menceritakan kepada seluruh regu tentang kurir berjubah berjahit benang timah yang melewati stasiun angkut didampingi dua Shift Guard, "dengan wajah orang yang tidak dibayar cukup untuk jubahnya". Regu tertawa di tempat yang tepat. Ashvarok ikut tertawa, dan di bagian lain kepalanya mulai menghitung.
+Ashvarok menerima kabar itu dari arah yang tidak bisa dihindari. Ondar, di antrean troli pagi, menceritakan kepada seluruh regu tentang kurir berjubah berjahit tin thread yang melewati stasiun angkut didampingi dua Shift Guard, "dengan wajah orang yang tidak dibayar cukup untuk jubahnya". Regu tertawa di tempat yang tepat. Ashvarok ikut tertawa, dan di bagian lain kepalanya mulai menghitung.
 
 Dua puluh tujuh hari. Permohonan itu diucapkan pada subuh yang dingin bulan lalu, dengan perkiraan jawaban sembilan hari. Perkiraan itu meleset tiga kali lipat, dan Ashvarok tidak percaya satu pun birokrasi sebesar Spire bisa lambat selama itu tanpa alasan. Jawaban yang datang terlambat bukan jawaban yang sedang ditulis; itu jawaban yang sedang ditawar.
 
@@ -81,7 +81,7 @@ Brannoc mendengarkan dengan cara orang menghitung kerugian regunya. Ketika cerit
 
 Brannoc mengangguk pelan. "Patroli?"
 
-"Berubah. Sentuhan ulang lapisan hanya dilakukan dalam giliran inspeksi yang sah, di tengah regu, tanpa satu langkah pun menyimpang dari denah inspeksi ventilasi. Kalau orang tua itu turun pada hari yang sama, regu melakukan pekerjaannya seperti biasa dan pulang seperti biasa. Tidak ada yang mengikuti, tidak ada yang mengamati, tidak ada yang berdiri lebih dekat dari kebutuhan kerja." Ashvarok menepuk meja sekali, pelan, titik akhir keputusan. "Dan kalau dia bertanya apa-apa kepada siapa pun, jawabannya kebenaran yang membosankan — batu, garam, debu, dan lelah."
+"Berubah. Sentuhan ulang lapisan hanya dilakukan dalam giliran inspeksi yang sah, di tengah regu, tanpa satu langkah pun menyimpang dari denah inspeksi ventilasi. Kalau orang tua itu turun pada hari yang sama, regu melakukan pekerjaannya seperti biasa dan pulang seperti biasa. Tidak ada yang mengikuti, tidak ada yang mengamati, tidak ada yang berdiri lebih dekat dari kebutuhan bekerja." Ashvarok menepuk meja sekali, pelan, titik akhir keputusan. "Dan kalau dia bertanya apa-apa kepada siapa pun, jawabannya kebenaran yang membosankan — batu, garam, debu, dan lelah."
 
 "Dan kalau dia bertanya kepadamu?"
 

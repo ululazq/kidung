@@ -45,7 +45,7 @@ Ia menutup mapnya.
 
 ---
 
-Pembelaan barak datang dari ibu Tamma dan jatuh tepat ke tempat yang sudah Ossian hitung. "Kami bukan minta ditunda karena harapan, Pak Wali Kota. Kami minta ditunda karena dokumennya sedang dicari — dan mencari dokumen warisan itu kerja yang jujur, bukan kerja yang malu." Bagus. Jujur. Tidak prosedural. Di aula, kata-katanya diterima lebih hangat daripada kata-katanya; di buku hukum, kata-katanya tidak akan meninggalkan jejak yang bisa dipungut siapa pun.
+Pembelaan barak datang dari ibu Tamma dan jatuh tepat ke tempat yang sudah Ossian hitung. "Kami bukan minta ditunda karena harapan, Pak Wali Kota. Kami minta ditunda karena dokumennya sedang dicari — dan mencari dokumen warisan itu bekerja yang jujur, bukan bekerja yang malu." Bagus. Jujur. Tidak prosedural. Di aula, kata-katanya diterima lebih hangat daripada kata-katanya; di buku hukum, kata-katanya tidak akan meninggalkan jejak yang bisa dipungut siapa pun.
 
 Hale mengajukan tiga pertanyaan kepada dua pihak bergantian, dan Ossian menjawab tiap pertanyaan dengan pasal sementara barak menjawab dengan tanggal lahir dan jumlah anak. Notulis mencatat semuanya sama rajinnya, dan itulah kesunyian pekerjaannya — kertas tidak membedakan bunyi mana yang lebih benar — hanya mana yang lebih bisa dikutip.
 

@@ -11,9 +11,9 @@ Maka ia mengerjakan pekerjaannya dengan jujur penuh, karena separuh kejujuran pa
 
 Pengikat senior tiba ketika lonceng shift pertama masih bergaung samar di tingkat atas, dan suara lonceng itu mati di garis galeri meski langkah orang tua itu belum.
 
-Ia turun sendirian, seperti janjinya, dengan lampu yang lebih kecil dan mantel kerja yang tidak membawa satu lambang pun dari lembaga mana pun. Di ambang ia berhenti sebentar, membaca galeri seperti orang membaca ruangan tamu yang pemiliknya baru keluar, lalu menoleh kepada Ashvarok.
+Ia turun sendirian, seperti janjinya, dengan lampu yang lebih kecil dan mantel bekerja yang tidak membawa satu lambang pun dari lembaga mana pun. Di ambang ia berhenti sebentar, membaca galeri seperti orang membaca ruangan tamu yang pemiliknya baru keluar, lalu menoleh kepada Ashvarok.
 
-"Sudah kau baca?"
+"Sudah kau membaca?"
 
 "Sudah."
 
@@ -31,7 +31,7 @@ Ashvarok telah menyiapkan jawaban untuk pertanyaan ini sejak subuh, dan kekuatan
 
 "Tapi dia bukan penambal." Ashvarok membiarkan jeda itu bekerja sendiri. "Dia mencoba menambal satu kali. Salah tempat, salah umur, salah tangan. Tangannya dingin berbulan-bulan sampai akhir hayatnya. Yang dia wariskan bukan ilmu menambal, melainkan ilmu tentang kenapa percobaannya gagal."
 
-Pengikat senior mendiamkan itu sambil menatap ujung sepatunya sendiri. Di dalam galeri bisu ini diam adalah satu-satunya bahasa yang sanggup dipakai panjang, dan keduanya memakainya dengan fasih.
+Pengikat senior mendiamkan itu sambil menatap ujung sepatunya sendiri. Di dalam Silent Gallery ini diam adalah satu-satunya bahasa yang sanggup dipakai panjang, dan keduanya memakainya dengan fasih.
 
 "Salah umur," ulang orang tua itu akhirnya. Kata-kata itu dibawanya seperti juru timbang menimbang keping yang mungkin palsu. "Itu kalimat orang yang paham kenapa tambalan biasanya gagal."
 
@@ -55,7 +55,7 @@ Sunyi galeri sembilan menerima kedua kalimat itu tanpa mengembalikan gemanya, da
 
 "Tentu saja." Orang tua itu bangkit dari kotak kayunya, memelankan punggungnya dengan tangan, dan tidak ada satu nada pun pada kalimatnya yang percaya kepada kalimat Ashvarok, dan tidak ada satu nada pun yang menuntutnya untuk dipercaya. "Kau hanya anak tambang pembaca catatan orang mati, dan aku hanya pengawas tua penghitung produksi galeri sembilan."
 
-Ia berjalan ke ambang dan berhenti di sana, di garis yang memotong bunyi dunia, lalu mengucapkan kalimat pamitnya tanpa menoleh penuh, sehingga suaranya jatuh ke dalam galeri dan tetap utuh — satu-satunya kalimat hari itu yang galeri bisu ini izinkan terdengar seutuhnya oleh kedua telinga sekaligus.
+Ia berjalan ke ambang dan berhenti di sana, di garis yang memotong bunyi dunia, lalu mengucapkan kalimat pamitnya tanpa menoleh penuh, sehingga suaranya jatuh ke dalam galeri dan tetap utuh — satu-satunya kalimat hari itu yang Silent Gallery ini izinkan terdengar seutuhnya oleh kedua telinga sekaligus.
 
 "Batu ini ingat siapa yang menambalnya."
 
@@ -65,7 +65,7 @@ Lalu ia naik ke permukaan, dan Ashvarok duduk sendirian di peti kayu di tengah g
 
 Tiga hari berikutnya tidak terjadi apa-apa, dan ketidak-apa-apaan itu ia periksa dengan ketelitian orang yang sudah belajar bahwa dunia paling sering mengancam lewat diam.
 
-Laporan triwulanan pengikat senior berangkat ke distrik tengah sesuai jadwalnya sendiri, dan isinya, menurut jalur lot Vosk yang membaca gerak kertas di pos, adalah angka produksi dan rekomendasi rotasi regu. Tidak ada tim turun. Tidak ada surat bersampul timah. Quota Office menerima angkanya, mencatatnya, dan melupakannya dengan disiplin birokrasi yang biasanya hanya bisa disyukuri. Galeri bisu tetap galeri bisu, pekerja tetap tidak masuk, dan tidak ada satu pun alasan resmi baru yang lahir dari semuanya.
+Laporan triwulanan pengikat senior berangkat ke distrik tengah sesuai jadwalnya sendiri, dan isinya, menurut jalur lot Vosk yang membaca gerak kertas di pos, adalah angka produksi dan rekomendasi rotasi regu. Tidak ada tim turun. Tidak ada surat bersampul timah. Quota Office menerima angkanya, mencatatnya, dan melupakannya dengan disiplin birokrasi yang biasanya hanya bisa disyukuri. Silent Gallery tetap Silent Gallery, pekerja tetap tidak masuk, dan tidak ada satu pun alasan resmi baru yang lahir dari semuanya.
 
 Motif kelalaian itu justru yang paling mudah dibaca. Orang tua itu punya laporan dua versi sejak lama — satu untuk Spire, satu untuk sol kanan sepatunya — dan versi keduanya sudah lama memuat satu instruksi yang ia tulis dengan sandi dua alfabet mati: temukan yang menambal lebih dulu. Melaporkan anak kurus pembaca catatan orang mati berarti menyerahkan temuan terbesar hidupnya kepada lembaga yang akan menguburnya di dalam prosedur, dan orang yang menghabiskan empat puluh tahun mencari sebuah seni tidak menyerahkan temuannya begitu saja. Dia menyimpannya. Seperti Ashvarok menyimpan segalanya. Dua orang penyimpan yang saling mengenali simpanan masing-masing, tanpa sepatah kata pun yang bisa dipakai sebagai bukti di mana pun.
 

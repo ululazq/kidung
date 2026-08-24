@@ -33,7 +33,7 @@ Di tingkat troli, alat Kovan tetap diam seperti biasa. Di koridor timur, jarumny
 
 Di pintu lorong B, pengikat senior berhenti dan menempelkan telapak tangannya rata pada ambang.
 
-"Batu ini sudah kau baca tahun lalu," kata Kovan. "Waktu penilaian berskala penuh."
+"Batu ini sudah kau membaca tahun lalu," kata Kovan. "Waktu penilaian berskala penuh."
 
 "Batunya sama. Yang bertanya beda." Orang tua itu meluruskan diri. "Tahun lalu saya datang untuk menjawab pertanyaan komisi. Hari ini saya datang untuk menjawab pertanyaan biro. Dua pertanyaan itu mirip kelihatannya, tapi jawabannya tidak boleh sama."
 
@@ -47,7 +47,7 @@ Aula itu menerima mereka dengan cara yang selalu membuat alat-alat bosan. Kosong
 
 Kovan mendekat. "Pasak. Enam lubang, arsip menyebut katup samping. Ada catatan inspeksi ventilasi rutin di atasnya."
 
-"Ini bukan kerja ventilasi." Telapak orang tua itu melayang di atas kepala pasak ketiga tanpa menyentuhnya, seperti tangan membaca tulisan braille di atas air. "Dua dari pasak-pasak ini digoyang. Pelan. Sabar. Bukan runtuhan, bukan beban. Getar sisanya masih duduk di pangkalnya seperti orang yang belum pulih dari diguncang tidurnya." Ia berjongkok, memandangi lantai dekat dinding, dan matanya berhenti pada sesuatu yang kecil dan gelap di celah nat. Ia tidak mengambilnya. Hanya memandang, lalu bangkit lagi.
+"Ini bukan bekerja ventilasi." Telapak orang tua itu melayang di atas kepala pasak ketiga tanpa menyentuhnya, seperti tangan membaca tulisan braille di atas air. "Dua dari pasak-pasak ini digoyang. Pelan. Sabar. Bukan runtuhan, bukan beban. Getar sisanya masih duduk di pangkalnya seperti orang yang belum pulih dari diguncang tidurnya." Ia berjongkok, memandangi lantai dekat dinding, dan matanya berhenti pada sesuatu yang kecil dan gelap di celah nat. Ia tidak mengambilnya. Hanya memandang, lalu bangkit lagi.
 
 "Dan ini?" tanya Kovan. "Yang tadi itu. Serat tali?"
 
@@ -89,7 +89,7 @@ Malam harinya, di kamarnya di distrik tengah, pengikat senior menulis dua lapora
 
 Yang pertama selesai lebih cepat, sebab laporan jujur selalu lebih pendek dari laporan yang hati-hati. Empat baris untuk biro. Segmen diperiksa dengan metode pemeriksa. Kondisi konsisten dengan klasifikasi tercatat. Struktur mati, tidak aktif, tidak berbahaya. Rekomendasi pencatatan aset dapat dilanjutkan. Ia menandatanganinya dengan nama jabatannya yang bukan nama, menyalinnya rapi, dan melipatnya untuk dikirim esok pagi ke Quota Office. Biro akan puas. Biro akan memegang kertas itu di depan memorandum Assayer Guild dan tersenyum sopan. Biarlah. Kertas itu benar sesuai bentuk pertanyaannya, dan kebohongan terbaik tetaplah jawaban yang benar untuk pertanyaan yang salah.
 
-Laporan kedua tidak ditulis di atas kertas yang biasa. Ia melepas sol kanan sepatunya, mengeluarkan lembar tipis yang sudah terisi sandi dua alfabet mati, dan menambahkan baris-baris baru di bawah entri tahun lalu. Retakan hidup. Tarik-tahan, jeda memilih, bukan jeda menghitung. Pasak selatan dua digoyang dari kanal, kerja sabar, tangan terlatih, serat tali segar di nat. Penambal masih bekerja. Dan sekarang ada pihak ketiga yang membayar untuk mengetahui apa yang kutahu.
+Laporan kedua tidak ditulis di atas kertas yang biasa. Ia melepas sol kanan sepatunya, mengeluarkan lembar tipis yang sudah terisi sandi dua alfabet mati, dan menambahkan baris-baris baru di bawah entri tahun lalu. Retakan hidup. Tarik-tahan, jeda memilih, bukan jeda menghitung. Pasak selatan dua digoyang dari kanal, bekerja sabar, tangan terlatih, serat tali segar di nat. Penambal masih bekerja. Dan sekarang ada pihak ketiga yang membayar untuk mengetahui apa yang kutahu.
 
 Ia menimbang tiga nama sambil menulis, seperti pedagang tua menimbang tiga timbungan yang berbeda bijinya. Assayer Guild akan membayar dengan perlindungan, dan perlindungannya bagus, tapi Guild menjual kebenaran kepada prosedur, dan prosedur lambat serta bocor ke semua arah. Biro Vael akan membayar dengan uang dan akses, dan uangnya segar, tapi biro ini sedang kelaparan kemenangan, dan orang yang kelaparan memakan pemilik barangnya begitu barangnya habis. Dan ada pihak ketiga yang tidak menawarkan apa-apa sama sekali, yaitu penambal tua di bawah kota itu, yang membaca batu dengan seni yang sama dengan seni yang pernah dilihatnya sekali seumur hidup. Pihak ketiga ini membayar dengan satu hal yang tidak dimiliki dua pihak lainnya. Dia membayar dengan arti. Fakta yang diberikan kepada penambal akan menjadi bagian dari penjagaan, dan fakta yang menjadi bagian dari penjagaan tidak pernah habis nilainya.
 

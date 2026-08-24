@@ -5,7 +5,7 @@ chapter: 97
 
 Kabar galeri sembilan sampai kepada pengikat senior dalam bentuk yang paling dia percaya — angka.
 
-Produksi blok timur turun dua pekan berturut-turut, dan penurunannya punya bentuk. Bukan penurunan orang sakit, yang biasanya bergerak landai dan penuh keterlambatan. Ini penurunan orang yang memilih. Regu-regu tetap masuk tambang, jam kerja tidak berubah, kuota lorong lain malah naik sedikit untuk menutup celah. Hanya satu galeri yang keluar nol, dan hanya galeri itu yang regunya tiba-tiba menjadi pekerja paling rajin di tempat lain.
+Produksi blok timur turun dua pekan berturut-turut, dan penurunannya punya bentuk. Bukan penurunan orang sakit, yang biasanya bergerak landai dan penuh keterlambatan. Ini penurunan orang yang memilih. Regu-regu tetap masuk tambang, jam bekerja tidak berubah, kuota lorong lain malah naik sedikit untuk menutup celah. Hanya satu galeri yang keluar nol, dan hanya galeri itu yang regunya tiba-tiba menjadi pekerja paling rajin di tempat lain.
 
 Orang-orang Quota Office membaca itu sebagai kemalasan atau perlawanan halus. Orang-orang yang dulu pernah membaca batu akan membacanya sebagai ketakutan, dan ketakutan selalu punya alamat.
 
@@ -107,7 +107,7 @@ Orang tua itu mencerna jawaban itu sepanjang lima puluh langkah berikutnya, kare
 
 Di ambang keluar orang tua itu berhenti, meletakkan telapaknya pada batu pintu untuk terakhir kalinya — sekali saja, hanya sekali, karena batu ini belum selesai bicara dan aturan lamanya bukan milik siapa pun di permukaan ini.
 
-Lalu ia berkata, tanpa menoleh penuh, dengan suara yang di dalam galeri bisu ini terasa seperti ditulis langsung di kulit:
+Lalu ia berkata, tanpa menoleh penuh, dengan suara yang di dalam Silent Gallery ini terasa seperti ditulis langsung di kulit:
 
 "Besok aku turun lagi ke sini. Sendirian. Kalau kau ada yang harus dibaca, bacalah sebelum aku tiba."
 
@@ -115,4 +115,4 @@ Ia melangkah keluar melewati garis, dan dunia yang berbunyi menerima suara langk
 
 Sepanjang jalan naik ke permukaan, orang tua itu tidak menulis apa pun. Angka produksi galeri sembilan untuk laporan triwulanan sudah ada di kepalanya, lengkap dengan bentuk penurunannya dan alamat ketakutannya. Yang belum ada keputusannya adalah baris yang lain — baris tentang galeri yang bisu dengan cara yang diatur, di dalam kota yang batunya pernah dikenal oleh tangan yang sudah punah.
 
-Baris itu, ia pikir sambil menyentuh batu koridor kelima puluh, belum selesai ia baca. Dan orang tua yang sabar tidak menyerahkan buku yang belum selesai dibaca.
+Baris itu, ia pikir sambil menyentuh batu koridor kelima puluh, belum selesai ia membaca. Dan orang tua yang sabar tidak menyerahkan buku yang belum selesai dibaca.

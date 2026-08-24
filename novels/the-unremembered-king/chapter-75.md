@@ -3,13 +3,13 @@ title: "Bab 75: Harga dari Sebuah Kebenaran"
 chapter: 75
 ---
 
-Mereka berkumpul malam hari kesembilan puluh lima di gudang perkakas tingkat dua — tempat semua keputusan yang tidak boleh punya ruang rapat resmi selalu dibicarakan. Lampu perminyakan diredupkan sampai batas yang masih memungkinkan membaca wajah. Brannoc duduk di atas peti pahat dengan kedua kaki menumpu di lantai, cara duduk prajurit yang tidak pernah benar-benar pulang dari perangnya. Maera duduk di bangku kerja dengan tabung timah terguling di pangkuannya seperti senjata yang belum diputuskan akan dipakai atau disimpan. Dan Sela berdiri di ambang pintu, karena aturan keluarga tentang gudang ini sudah lama berganti menjadi undangan bersyarat, dan malam ini ia diundang sebagai pendengar.
+Mereka berkumpul malam hari kesembilan puluh lima di gudang perkakas tingkat dua — tempat semua keputusan yang tidak boleh punya ruang rapat resmi selalu dibicarakan. Lampu perminyakan diredupkan sampai batas yang masih memungkinkan membaca wajah. Brannoc duduk di atas peti pahat dengan kedua kaki menumpu di lantai, cara duduk prajurit yang tidak pernah benar-benar pulang dari perangnya. Maera duduk di bangku bekerja dengan tabung timah terguling di pangkuannya seperti senjata yang belum diputuskan akan dipakai atau disimpan. Dan Sela berdiri di ambang pintu, karena aturan keluarga tentang gudang ini sudah lama berganti menjadi undangan bersyarat, dan malam ini ia diundang sebagai pendengar.
 
 Ashvarok membuka tanpa pembukaan.
 
 "Assayer Tull menemukan sesuatu yang bisa menyelamatkan distrik timur." Ia menoleh ke Maera. "Ceritakan versimu."
 
-Maera menceritakannya dengan cara Maera — urut, bertanggal, tanpa satu kata lebih besar dari buktinya. Margin peta pra-Liberation. Status tanah jasa. Penugasan penjagaan era Hegemony yang tidak pernah dibubarkan, sebab the Liberation hanya menyita dan tidak pernah menjawab. Izin penutupan yang berdiri di atas asumsi tanah kosong, dan asumsi itu kini punya penyangkal tertulis yang lebih tua daripada segala cap yang menempel di atasnya.
+Maera menceritakannya dengan cara Maera — urut, bertanggal, tanpa satu kata lebih besar dari buktinya. Margin peta pra-Liberation. Status service grant. Penugasan penjagaan era Hegemony yang tidak pernah dibubarkan, sebab the Liberation hanya menyita dan tidak pernah menjawab. Izin penutupan yang berdiri di atas asumsi tanah kosong, dan asumsi itu kini punya penyangkal tertulis yang lebih tua daripada segala cap yang menempel di atasnya.
 
 "Kalau klaim ini diajukan lewat komisi Guild," tutupnya, "izin itu cacat. Bukan tertunda — cacat. Ada bedanya. Yang tertunda bisa dilanjutkan; yang cacat harus ditulis ulang dari fondasinya."
 
@@ -29,7 +29,7 @@ Maera diam lama, dan ketika bicara suaranya lebih rendah dari biasanya. "Seberap
 
 "Tidak," kata Ashvarok. "Kita maju juga. Tapi tidak lewat cerita."
 
-Ia bangkit, mengambil secarik kertas kosong dan potongan arang dari meja kerja, dan menggambar sambil bicara — kebiasaan para pengajar era lamanya, yang tidak pernah ia miliki tapi banyak ia tiru.
+Ia bangkit, mengambil secarik kertas kosong dan potongan arang dari meja bekerja, dan menggambar sambil bicara — kebiasaan para pengajar era lamanya, yang tidak pernah ia miliki tapi banyak ia tiru.
 
 "Dokumen margin itu menyebut status tanah, tapi status tanah era Hegemony tidak pernah berdiri sendiri. Tanah jasa dianugerahi lewat surat keputusan anugerah, dan surat itu wajib didampingi satu barang: stempel verifikasi — tanda tembusan yang membuktikan anugerah pernah dieksekusi, bukan cuma direncanakan. Arsip wilayah Caldrest kosong. Pegawai pos bilang berkasnya dibawa ke arsip pusat masa reorganisasi, dan peta-peta lamanya dibuang." Ia menoleh ke Maera. "Yang tidak dibuang adalah salinan keluarga Pak Dekan. Salinan itu membuktikan marginnya. Tapi margin saja kurang — komisi butuh artefak. Stempelnya."
 
@@ -59,9 +59,9 @@ Dari ambang pintu, Sela masih berdiri tegak, dan Ashvarok tahu anak itu belum se
 
 ---
 
-Rapat itu bubar dekat tengah malam dengan pembagian kerja yang tidak ditulis di kertas mana pun — Maera menyusun jalur pengajuan klaim lewat komisi audit — komisi yang sama yang kini mengenal namanya sebagai pembaca yang teliti. Brannoc menyiapkan cerita temuan bersama keluarga tua galeri tujuh yang memang punya leluhur era awal tambang. Dan stempel itu sendiri harus lahir dalam sunyi, satu saja, tanpa saksi, dengan umur yang dibayar sungguhan.
+Rapat itu bubar dekat tengah malam dengan pembagian bekerja yang tidak ditulis di kertas mana pun — Maera menyusun jalur pengajuan klaim lewat komisi audit — komisi yang sama yang kini mengenal namanya sebagai pembaca yang teliti. Brannoc menyiapkan cerita temuan bersama keluarga tua galeri tujuh yang memang punya leluhur era awal tambang. Dan stempel itu sendiri harus lahir dalam sunyi, satu saja, tanpa saksi, dengan umur yang dibayar sungguhan.
 
-Sela pulang paling awal, membawa papan tulisnya, dan di pintu ia berhenti sebentar tanpa menoleh. "Absen-nama jam sembilan. Jangan terlambat. Pagar tidak tahu ada perang."
+Sela pulang paling awal, membawa papan tulisnya, dan di pintu ia berhenti sebentar tanpa menoleh. "Name-roll jam sembilan. Jangan terlambat. Pagar tidak tahu ada perang."
 
 Ketika mereka berdua tersisa, Ashvarok memadamkan setengah lampu dan duduk sebentar memikirkan ironi yang telah menemukannya malam ini — ironi rasa rumah tua yang tidak pernah benar-benar meninggalkannya. Seribu tahun lalu ia membakar namanya demi sebuah segel, dan dunia membalasnya dengan mengutuk nama itu sebagai api yang mau membakar dunia. Malam ini, demi melindungi empat ratus keluarga yang tidak tahu siapa dirinya, ia hendak menempa artefak yang akan berkata jujur tentang segel yang sama — dan jujurnya yang itu, tepat karena jujur, adalah benda paling berbahaya yang pernah ia letakkan di atas meja manusia.
 
@@ -69,5 +69,5 @@ Kebenaran, ternyata, juga punya harga beli dan harga jual. Malam ini barak distr
 
 Ia mengeluarkan potongan cinder-glass tua dari kotak alat — sebesar kepalan tangan, warnanya abu madu di tepi, dingin walaupun gudang hangat — dan memutarnya di bawah lampu. Bahan yang baik. Menua dengan indah. Ia memasukkannya ke saku dada, sebelah kanan, tempat dahulu pecahan kaca-batu bukti perjanjian dengan Brannoc pernah tidur, lalu memadamkan lampu.
 
-Di papan dapur barak, kolom Jam Pasir menunggu kapurnya. Di arsip pusat biro provinsi, berkas yang hilang tetap hilang. Dan dalam sunyi gudang perkakas tingkat dua, rencana itu sudah berdiri sendiri seperti semua rencana yang cukup tua untuk mulai memilih nasibnya sendiri.
+Di papan dapur barak, kolom Hourglass menunggu kapurnya. Di arsip pusat biro provinsi, berkas yang hilang tetap hilang. Dan dalam sunyi gudang perkakas tingkat dua, rencana itu sudah berdiri sendiri seperti semua rencana yang cukup tua untuk mulai memilih nasibnya sendiri.
 

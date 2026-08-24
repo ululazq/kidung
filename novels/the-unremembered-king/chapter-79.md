@@ -17,7 +17,7 @@ Dan Ossian Vael duduk cukup lama dengan kebenaran itu untuk menghitung semua res
 
 Menyangkal tidak berguna. Kebenaran tidak menjadi salah hanya karena tidak diakui. Mengambil tidak mungkin. Kotak yang masuk ke sistem Guild menjadi milik sistem Guild, dan menyerbu sistem Guild berarti membakar investasi sepuluh tahun dalam satu malam. Menunggu berarti membiarkan tuas itu dipakai oleh tangan yang bukan tangannya, pada saat yang dipilih orang lain. Maka sisa satu respons yang tidak diajarkan di mana pun tapi selalu berhasil pada orang yang menghitung dengan jujur — maju ke meja yang sama, sebelum meja itu dipakai, dan berbicara dengan harga.
 
-Ia menulis undangannya sendiri, dengan tangannya sendiri, karena undangan yang diketik bisa disangkal dan undangan yang ditulis tangan adalah janji. Makan malam kerja, kamar belakang penginapan distrik atas, jam delapan. Agenda: penilaian triwulanan, klasifikasi seam, urusan komisi. Semuanya benar. Semua agenda yang baik memuat sedikit kebenaran agar sisanya boleh bohong.
+Ia menulis undangannya sendiri, dengan tangannya sendiri, karena undangan yang diketik bisa disangkal dan undangan yang ditulis tangan adalah janji. Makan malam bekerja, kamar belakang penginapan distrik atas, jam delapan. Agenda: penilaian triwulanan, klasifikasi seam, urusan komisi. Semuanya benar. Semua agenda yang baik memuat sedikit kebenaran agar sisanya boleh bohong.
 
 ---
 
@@ -29,9 +29,9 @@ Meja itu ia tata sendiri sebelum jam delapan — dua tempat, lampu rendah yang m
 
 "Prosedural adalah kata yang tepat," kata Ossian, menggeser kursi untuknya. "Saya harap malam ini kita boleh bicara sedikit di luarnya. Hanya sedikit. Cukup untuk jujur."
 
-Maera duduk. Ia tidak menyentuh tehnya. "Jujur adalah kata kerja yang mahal di kalangan kita."
+Maera duduk. Ia tidak menyentuh tehnya. "Jujur adalah kata bekerja yang mahal di kalangan kita."
 
-"Maka izinkan saya membayarnya lebih dulu." Ossian duduk di seberangnya, meletakkan kedua telapak tangannya terbuka di atas meja, dan untuk beberapa detik membiarkan keheningan bekerja dengan cara yang ia hitung. "Empat belas bulan lalu, sebuah rantai pembayaran mulai bekerja lewat slot serahan malam di kantor kuota Caldrest. Panen yang membiayainya dilakukan ilegal, di segmen yang saat itu belum memiliki klasifikasi resmi apa pun. Surat edaran kuota yang memaksa panen itu lahir di mejaku, delapan belas hari sebelum saya pertama kali melihat lereng timur kota ini. Saya tahu isi tambang ini sebelum saya tahu nama wali kotanya." Ia mengatakannya datar, angka demi angka, cara orang membacakan daftar barang gudang. "Dan tiga malam lalu, seluruh catatan rantai itu berpindah dari lemari seorang pegawai yang dibekukan ke ruang kerja Anda. Saya tidak akan bertanya bagaimana. Pertanyaan meninggalkan kertas, dan saya sudah belajar dari Anda bahwa kertas yang salah di tangan yang salah membunuh."
+"Maka izinkan saya membayarnya lebih dulu." Ossian duduk di seberangnya, meletakkan kedua telapak tangannya terbuka di atas meja, dan untuk beberapa detik membiarkan keheningan bekerja dengan cara yang ia hitung. "Empat belas bulan lalu, sebuah rantai pembayaran mulai bekerja lewat slot serahan malam di kantor kuota Caldrest. Panen yang membiayainya dilakukan ilegal, di segmen yang saat itu belum memiliki klasifikasi resmi apa pun. Surat edaran kuota yang memaksa panen itu lahir di mejaku, delapan belas hari sebelum saya pertama kali melihat lereng timur kota ini. Saya tahu isi tambang ini sebelum saya tahu nama wali kotanya." Ia mengatakannya datar, angka demi angka, cara orang membacakan daftar barang gudang. "Dan tiga malam lalu, seluruh catatan rantai itu berpindah dari lemari seorang pegawai yang dibekukan ke ruang bekerja Anda. Saya tidak akan bertanya bagaimana. Pertanyaan meninggalkan kertas, dan saya sudah belajar dari Anda bahwa kertas yang salah di tangan yang salah membunuh."
 
 Maera tidak bergerak. Di balik ketenangannya, Ossian hampir bisa melihat mata itu menghitung — bukan menghitung penyangkalan, karena mereka berdua tahu penyangkalan sudah habis di kalimat pembuka. Menghitung jarak. "Anda datang ke sini untuk mengaku," katanya akhirnya.
 

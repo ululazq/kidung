@@ -33,9 +33,9 @@ Sebelum Renn bisa menjawab, orang tua itu berhenti di depan nat dinding dan mene
 
 "Orang tambang tidak menumbangkan pasak," kata pengikat senior. "Itu yang mau kubilang malam ini. Dengarkan baik-baik, sebab aku cuma bilang sekali."
 
-Mereka berhenti. Di galeri bisu, berhenti terasa seperti dunia yang berhenti bersama mereka.
+Mereka berhenti. Di Silent Gallery, berhenti terasa seperti dunia yang berhenti bersama mereka.
 
-"Aku sudah empat puluh tahun membaca kerja tangan di batu. Kerja tambang punya irama tertentu. Penambang mengikat untuk menahan. Simpulnya dipasang supaya kuat seumur shift dan mudah dilepas sarung tangan yang panik. Sayatan panen punya irama sabar yang tamak, potong kecil supaya tidak terdeteksi, ambil sedikit supaya boleh dilakukan lagi seribu kali. Semua kerja orang tambang, baik yang sah maupun yang curi, punya satu kesamaan. Mereka semua harus tetap bekerja di tambang besok pagi. Tidak ada satu pun irama itu di pasak-pasakmu."
+"Aku sudah empat puluh tahun membaca bekerja tangan di batu. Kerja tambang punya irama tertentu. Penambang mengikat untuk menahan. Simpulnya dipasang supaya kuat seumur shift dan mudah dilepas sarung tangan yang panik. Sayatan panen punya irama sabar yang tamak, potong kecil supaya tidak terdeteksi, ambil sedikit supaya boleh dilakukan lagi seribu kali. Semua bekerja orang tambang, baik yang sah maupun yang curi, punya satu kesamaan. Mereka semua harus tetap bekerja di tambang besok pagi. Tidak ada satu pun irama itu di pasak-pasakmu."
 
 "Pasak-pasakku," ulang Renn.
 
@@ -75,7 +75,7 @@ Orang tua itu memandanginya lama, dan sesuatu yang nyaris seperti kepuasan lewat
 
 Lalu ia melangkah keluar melewati garis, dan suara langkahnya hidup kembali di sisi lain ambang, dan mengecil, dan hilang di lorong troli.
 
-Renn berdiri sendirian di galeri bisu cukup lama untuk memastikan tidak ada satu pun gema yang tersisa. Di garis ambang, bunyi dunia menunggunya seperti air menunggu di balik bendungan. Ia berdiri di batas itu sebentar, memikirkan kalimat orang tua itu tentang kota yang mati karena salah lihat, dan tentang tempat jauh yang kini tidak memiliki siapa pun untuk disebutkan namanya.
+Renn berdiri sendirian di Silent Gallery cukup lama untuk memastikan tidak ada satu pun gema yang tersisa. Di garis ambang, bunyi dunia menunggunya seperti air menunggu di balik bendungan. Ia berdiri di batas itu sebentar, memikirkan kalimat orang tua itu tentang kota yang mati karena salah lihat, dan tentang tempat jauh yang kini tidak memiliki siapa pun untuk disebutkan namanya.
 
 Lalu ia mengambil serat tali itu dari atas batu, memutar simpul kecil di ujungnya di bawah cahaya lampu inspeksi, dan membacanya dengan ujung jarinya seperti membaca huruf.
 

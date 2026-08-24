@@ -11,7 +11,7 @@ Brannoc menyampaikannya kepada Ashvarok dengan cara orang menyampaikan cuaca. "I
 
 "Maka aku mau kau lihat sendiri. Jalur inspeksi ventilasi hari ini lewat persimpangan galeri sembilan. Dua puluh menit menyimpang, tidak ada yang bertanya."
 
-Undian inspeksi hari itu jatuh pada regu galeri sebelas, dan Ashvarok masuk ke daftar sebagai pendamping — nama di kertas Tharrow, tangan di lorong yang sama seperti pekan-pekan sebelumnya. Mereka turun dengan troli pagi, menyelesaikan bagian resminya dengan sungguh-sungguh yang membosankan, lalu menyimpang ke arah timur lewat koridor yang oleh peta resmi disebut jalur drainase sekunder. Ondar menunggu di ujung koridor, dan wajah anak muda itu salah baca — bukan takut, tapi ragu, seperti orang yang tidak yakin apakah yang ia lihat pagi tadi layak dilaporkan atau hanya layak dipikirkan.
+Undian inspeksi hari itu jatuh pada regu galeri sebelas, dan Ashvarok masuk ke daftar sebagai pendamping — nama di kertas Tharrow, tangan di lorong yang sama seperti pekan-pekan sebelumnya. Mereka turun dengan troli pagi, menyelesaikan bagian resminya dengan sungguh-sungguh yang membosankan, lalu menyimpang ke arah timur lewat koridor yang oleh peta resmi disebut jalur drainase sekunder. Ondar menunggu di ujung koridor, dan wajah anak muda itu salah membaca — bukan takut, tapi ragu, seperti orang yang tidak yakin apakah yang ia lihat pagi tadi layak dilaporkan atau hanya layak dipikirkan.
 
 "Tuan Renn," katanya, pelan, "kolong itu biasanya bunyi. Tetesan, gemericik, kadang ikan nyemplung. Dari persimpangan saja sudah kedengaran kalau malam sepi. Sekarang saya lewat tadi, dan tidak ada apa-apa. Bukan sunyi biasa. Sunyi biasa masih punya dinding yang memantulkan. Yang ini..." Ia mencari kata dan tidak menemukannya, lalu menyerah. "Pagi tadi saya panggil nama saya sendiri untuk memastikan saya masih punya."
 
@@ -55,11 +55,11 @@ Brannoc mengunyah akar pahitnya dua kali, dan Ashvarok tahu mandor itu sedang me
 
 "Kalau ini masuk laporan," kata Brannoc akhirnya, "apa yang terjadi?"
 
-"Instrumen datang. Instrumen tidak menemukan apa pun, karena tidak ada yang bisa mereka baca di air jernih. Tapi kata 'anomali' sudah cukup untuk karantina total sayap timur — bukan karantina ringan yang sekarang, yang bisa dihitung-hitung. Karantina sungguhan. Shift berhenti, santunan jadi satu-satunya makanan, dan Vael mendapat alasan resmi untuk memindahkan kalian 'untuk keselamatan' empat puluh hari sebelum jadwalnya." Ashvarok menoleh. "Atau kita tidak melapor, dan kita pindahkan sumber minum ini sendiri, malam ini juga."
+"Instrumen datang. Instrumen tidak menemukan apa pun, karena tidak ada yang bisa mereka membaca di air jernih. Tapi kata 'anomali' sudah cukup untuk karantina total sayap timur — bukan karantina ringan yang sekarang, yang bisa dihitung-hitung. Karantina sungguhan. Shift berhenti, santunan jadi satu-satunya makanan, dan Vael mendapat alasan resmi untuk memindahkan kalian 'untuk keselamatan' empat puluh hari sebelum jadwalnya." Ashvarok menoleh. "Atau kita tidak melapor, dan kita pindahkan sumber minum ini sendiri, malam ini juga."
 
 "Pindah ke mana?"
 
-"Ke mata air kecil di galeri sebelas, sisi barat. Rembesannya murni, jalurnya pendek, batunya belum tersentuh." Ia mengatakannya dengan keyakinan yang bukan ramalan — geometri, bukan nasib, dan geometri bisa dibuktikan malam ini juga. "Aku tunjukkan titiknya. Kalian gali parit pengarah selebar dua telapak tangan, tutup jalur lama dengan tanah liat. Tiga shift kerja, dan blok minum dari tempat yang masih diisi."
+"Ke mata air kecil di galeri sebelas, sisi barat. Rembesannya murni, jalurnya pendek, batunya belum tersentuh." Ia mengatakannya dengan keyakinan yang bukan ramalan — geometri, bukan nasib, dan geometri bisa dibuktikan malam ini juga. "Aku tunjukkan titiknya. Kalian gali parit pengarah selebar dua telapak tangan, tutup jalur lama dengan tanah liat. Tiga shift bekerja, dan blok minum dari tempat yang masih diisi."
 
 "Dan kolong ini?"
 
@@ -67,9 +67,9 @@ Brannoc mengunyah akar pahitnya dua kali, dan Ashvarok tahu mandor itu sedang me
 
 ---
 
-Malam harinya pekerjaan itu dilakukan dengan cara semua pekerjaan penting Caldrest dilakukan — sebagai rutinitas. Brannoc menyebutnya "perbaikan drainase berkala" di daftar kerja, regu galeri sebelas mendapat jam lembur yang dibayar dari kas barak, dan tidak satu pun dari dua puluh tangan yang menggali parit itu tahu persis mengapa titik barunya dipilih oleh bocah lorong tujuh — hanya tahu bahwa bocah itu menyentuh dinding beberapa kali, berjalan sepuluh langkah, dan berkata "di sini", dan air yang keluar dari parit itu malam itu benar, dan enak, dan hidup.
+Malam harinya pekerjaan itu dilakukan dengan cara semua pekerjaan penting Caldrest dilakukan — sebagai rutinitas. Brannoc menyebutnya "perbaikan drainase berkala" di daftar bekerja, regu galeri sebelas mendapat jam lembur yang dibayar dari kas barak, dan tidak satu pun dari dua puluh tangan yang menggali parit itu tahu persis mengapa titik barunya dipilih oleh bocah lorong tujuh — hanya tahu bahwa bocah itu menyentuh dinding beberapa kali, berjalan sepuluh langkah, dan berkata "di sini", dan air yang keluar dari parit itu malam itu benar, dan enak, dan hidup.
 
-Tovik ikut mengangkut tanah. Ia bekerja lambat dan rajin, dan dua kali ia berhenti di depan lorong yang menuju ceruk lama, menoleh ke arah sana dengan ekspresi orang yang lupa kenapa ia berdiri di situ, lalu melanjutkan pekerjaannya ketika ada yang memanggil namanya — nama yang hanya hidup sekarang di mulut anak-anak dan daftar absen-nama.
+Tovik ikut mengangkut tanah. Ia bekerja lambat dan rajin, dan dua kali ia berhenti di depan lorong yang menuju ceruk lama, menoleh ke arah sana dengan ekspresi orang yang lupa kenapa ia berdiri di situ, lalu melanjutkan pekerjaannya ketika ada yang memanggil namanya — nama yang hanya hidup sekarang di mulut anak-anak dan daftar name-roll.
 
 Ashvarok pulang paling akhir. Di depan ceruk yang sudah kosong ia berhenti sebentar, membiarkan lampu perminyakannya meredup, dan mendengarkan satu kali lagi.
 
@@ -79,10 +79,10 @@ Sunyi itu tidak mengancam. Tidak bernapas keras. Ia hanya berada di sana, tenang
 
 "Catat juga yang sebaliknya," kata Ashvarok. "Kalau ada tempat yang mulai terasa hangat tanpa sebab, atau batu yang gemanya balik terlalu cepat. Pemilik baru meninggalkan tanda di mana ia sudah menandatangani."
 
-Mereka naik ke troli dalam sunyi yang biasa — sunyi troli, sunyi kerja, sunyi yang masih milik manusia. Di persimpangan utama Ashvarok turun, dan sebelum berpisah Brannoc bertanya hal terakhir, dengan nada orang menimbang beban yang tidak bisa dikurangi:
+Mereka naik ke troli dalam sunyi yang biasa — sunyi troli, sunyi bekerja, sunyi yang masih milik manusia. Di persimpangan utama Ashvarok turun, dan sebelum berpisah Brannoc bertanya hal terakhir, dengan nada orang menimbang beban yang tidak bisa dikurangi:
 
 "Berapa lama sampai ia mulai mengambil tempat yang besar?"
 
 Ashvarok memikirkan ceruk yang sunyi, dan lagu yang pernah menyala satu tarikan napas, dan aula di bawah galeri timur tempat segel yang ia dirikan sendiri menunggu dengan sabar di balik dais batu polos.
 
-"Tempat besar punya banyak nama yang memegangnya," kata ia. "Ribuan orang menyebut Caldrest tiap hari. Nama-nama itu pagar. Selama pagar itu berdiri, ia hanya bisa mengambil yang kecil dan yang sunyi." Ia memikirkan empat ratus keluarga yang absen nama mereka dibacakan tiap malam, dan menemukan ironinya sendiri, dingin dan rapi — pagar itu sedang mereka bangun tanpa tahu mereka membangunnya. "Jaga absen-nama, Foreman. Lebih keras dari sebelumnya. Kalian semua sedang jaga sesuatu yang lebih besar dari sumber minum."
+"Tempat besar punya banyak nama yang memegangnya," kata ia. "Ribuan orang menyebut Caldrest tiap hari. Nama-nama itu pagar. Selama pagar itu berdiri, ia hanya bisa mengambil yang kecil dan yang sunyi." Ia memikirkan empat ratus keluarga yang name-roll mereka dibacakan tiap malam, dan menemukan ironinya sendiri, dingin dan rapi — pagar itu sedang mereka bangun tanpa tahu mereka membangunnya. "Jaga name-roll, Foreman. Lebih keras dari sebelumnya. Kalian semua sedang jaga sesuatu yang lebih besar dari sumber minum."

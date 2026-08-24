@@ -17,7 +17,7 @@ Runtunan itu pertama kali dibaca dari jarak lima puluh hasta, dan hal pertama ya
 
 Padahal menurut catatan, runtunan itu terjadi semalam.
 
-Ia bekerja sesuai prosedur, karena prosedur adalah satu-satunya bahasa yang tidak pernah mengkhianatinya — foto posisi, ukuran sayatan, sampel debu, pembacaan gema sisa. Sayatan di seam atas ia ukur sendiri — enam hasta, lurus, antara dua pasak tua, irama potongan tangan yang sabar — dan ia mencatatnya dengan istilah yang benar: "bukan kerja alat; bukan kerja tergesa". Lalu ia mendekati tunggul itu, dan di sinilah paginya berhenti menjadi rutin.
+Ia bekerja sesuai prosedur, karena prosedur adalah satu-satunya bahasa yang tidak pernah mengkhianatinya — foto posisi, ukuran sayatan, sampel debu, pembacaan gema sisa. Sayatan di seam atas ia ukur sendiri — enam hasta, lurus, antara dua pasak tua, irama potongan tangan yang sabar — dan ia mencatatnya dengan istilah yang benar: "bukan bekerja alat; bukan bekerja tergesa". Lalu ia mendekati tunggul itu, dan di sinilah paginya berhenti menjadi rutin.
 
 Alat resmi membaca tunggul itu sebagai cinder-glass tua. Sangat tua. Umurnya terbaca dalam rentang yang tidak mungkin bagi batu yang kemarin masih berupa pecahan di lantai lorong. Kovan mengulang pembacaan tiga kali, membersihkan kontak, mengganti jarum, dan mendapat hal yang sama — umur sungguhan, bukan permukaan yang menua — kisi kaca itu sendiri menyatakan dirinya berumur, dan instrumen hanya meneruskan apa yang dikatakannya.
 
@@ -39,13 +39,13 @@ Di pos jaga tingkat troli, saksi-saksinya menunggu dengan cara orang tambang men
 
 Dua saksi lainnya cocok dalam hal-hal yang bisa diukur dan berbeda dalam hal-hal yang tidak. Anak yang keseleo hanya berkata bahwa lorong "ditahan", berkali-kali, dengan kesederhanaan orang yang sudah menerima bahwa dunia memuat hal-hal seperti itu.
 
-Formulir resmi Kovan akhirnya tertulis demikian — runtunan troli timur, penyebab awal retakan seam atas dengan indikasi kerja manusia (diperiksa lanjut), penyangga darurat terpasang, korban seluruhnya selamat dengan luka ringan, rekomendasi pembukaan ulang bertahap. Semua benar. Semua lengkap. Dan seluruh kebenaran malam itu tidak ada di dalamnya, karena tidak ada kolom untuk itu — sama seperti tidak ada kolom untuk suara jam sebelas hari keseratus tujuh puluh delapan, yang sampai pagi ini ia simpan tanpa pemilik lain.
+Formulir resmi Kovan akhirnya tertulis demikian — runtunan troli timur, penyebab awal retakan seam atas dengan indikasi bekerja manusia (diperiksa lanjut), penyangga darurat terpasang, korban seluruhnya selamat dengan luka ringan, rekomendasi pembukaan ulang bertahap. Semua benar. Semua lengkap. Dan seluruh kebenaran malam itu tidak ada di dalamnya, karena tidak ada kolom untuk itu — sama seperti tidak ada kolom untuk suara jam sebelas hari keseratus tujuh puluh delapan, yang sampai pagi ini ia simpan tanpa pemilik lain.
 
 Di stasiun angkutan, saat ia menunggu troli naik, lelaki tua tanpa nama itu datang berdiri di sebelahnya tanpa diundang — pengikat senior, pengawas tetap Caldrest, dengan sol kanan sepatunya yang selalu terdengar beda di batu. Mereka tidak saling menatap. Orang tua itu hanya berkata, pelan, dengan cara bicara orang yang menghitung kata sebelum mengeluarkannya.
 
-"Tunggulnya kau baca?"
+"Tunggulnya kau membaca?"
 
-"Saya baca semuanya."
+"Saya membaca semuanya."
 
 "Lalu kau sudah tahu yang saya tahu." Jeda satu tarikan napas. "Batu Caldrest punya penambal. Penambal bukan penghisap. Dan pagi ini penambal itu membayar dengan lengan." Mata tua itu akhirnya menoleh, sekali, singkat. "Angkanya kau simpan atau kau tunjuk?"
 

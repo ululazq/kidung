@@ -7,11 +7,11 @@ Yang pertama disiapkan bukan isi berkasnya, melainkan siapa yang boleh berdiri d
 
 "Bukan belakangan," ulang Sela, karena ia perlu mendengarnya dua kali untuk yakin mendengar dengan benar.
 
-"Anak-anak itu pemilik kontrak sekolah yang dibuka ulang. Kalau orang tuanya dipindah, yang pindah duluan namanya, bukan badannya. Biar wali kota lihat lebih dulu siapa saja yang dia pindahkan." Ibu Tamma meliputi daftar absen-namanya. "Aku sudah minta izin perawat klinik untuk pinjam ruangan dan papan."
+"Anak-anak itu pemilik kontrak sekolah yang dibuka ulang. Kalau orang tuanya dipindah, yang pindah duluan namanya, bukan badannya. Biar wali kota lihat lebih dulu siapa saja yang dia pindahkan." Ibu Tamma meliputi daftar name-rollnya. "Aku sudah minta izin perawat klinik untuk pinjam ruangan dan papan."
 
 Malam itu papan-papan itu digarap di ruang tunggu klinik — sembilan belas keping kayu peti bekas, tiap keping satu nama lengkap seorang anak, ditulis dengan kapur lalu dilapisi lilin tipis agar tidak terhapus oleh hujan abu atau jari-jari yang gelisah. Harn datang dari asrama utara dengan surat izin tertulis dari penjaga asrama — Brannoc menuntut semuanya tertulis sekarang. Dunia sedang bergerak lewat kertas, kata mandor itu, maka semua senjata harus jadi kertas — dan anak laki-laki sembilan tahun itu mengukir sudut-sudut papan dengan pahat kecil supaya tidak melukai tangan siapa pun.
 
-Sela menuliskan nama-namanya sendiri, satu per satu, sambil membacanya keras-keras seperti diajarkan pada kereta nama — nama depan, nama tengah bila ada, nama keluarga. Anak-anak yang hadir menjawab "ada" pada namanya masing-masing, karena aturan adalah aturan bahkan saat sedang dibuat untuk dipakai di tempat lain.
+Sela menuliskan nama-namanya sendiri, satu per satu, sambil membacanya keras-keras seperti diajarkan pada name train — nama depan, nama tengah bila ada, nama keluarga. Anak-anak yang hadir menjawab "ada" pada namanya masing-masing, karena aturan adalah aturan bahkan saat sedang dibuat untuk dipakai di tempat lain.
 
 "Kenapa harus kami yang bawa?" tanya salah satu dari mereka, anak galeri sebelas, yang bertanya kenapa selalu tiga kali.
 
@@ -29,7 +29,7 @@ Ruang tunggu balai kota Caldrest kecil untuk sebuah kota yang sedang memindahkan
 
 Pegawai muda itu menatap papan-papan kayu sekali lagi, dan Sela melihat perhitungan kecilnya bekerja. Tidak ada aturan yang melarang anak masuk ruang tunggu, tapi tidak ada juga yang mengajarkannya apa yang harus dilakukan ketika sembilan belas anak berdiri serentak memegang nama mereka sendiri. Akhirnya ia menulis sesuatu di buku resinya, memanggil pesuruh, dan mengatakan bahwa wali kota akan diberi tahu.
 
-Mereka menunggu empat puluh menit. Anak-anak duduk berderet di lantai karena bangkunya tidak cukup, papan-papan diletakkan tegak di pangkuan seperti perisai kecil. Sela menghitung langkah-langkah pegawai yang bolak-balik, dan pada hitungan kedua puluh enam pintu ruang kerja terbuka, dan Wali Kota Corvan Hale keluar sendiri — bukan karena sopan santun, Sela menilai, tapi karena pegawai yang menyampaikan undangan semacam ini pasti memilih menyampaikannya dengan cara yang membuat wali kota merasa lebih baik datang sendiri.
+Mereka menunggu empat puluh menit. Anak-anak duduk berderet di lantai karena bangkunya tidak cukup, papan-papan diletakkan tegak di pangkuan seperti perisai kecil. Sela menghitung langkah-langkah pegawai yang bolak-balik, dan pada hitungan kedua puluh enam pintu ruang bekerja terbuka, dan Wali Kota Corvan Hale keluar sendiri — bukan karena sopan santun, Sela menilai, tapi karena pegawai yang menyampaikan undangan semacam ini pasti memilih menyampaikannya dengan cara yang membuat wali kota merasa lebih baik datang sendiri.
 
 Hale adalah orang gemuk ramah dengan jubah yang selalu terlihat baru disetrika dan wajah orang yang tidur kurang sejak beberapa bulan. Matanya berjalan melewati delegasi dewasa, berhenti di barisan papan-papan, dan Sela melihat tepat detik ketika ia mengerti apa yang sedang dibawakan anak-anak itu — wajahnya turun sepersekian sentimeter, seperti orang yang menaiki timbangan dan mendengar angka.
 
@@ -37,7 +37,7 @@ Hale adalah orang gemuk ramah dengan jubah yang selalu terlihat baru disetrika d
 
 ---
 
-Ruang kerja Hale sempit dan penuh kertas dalam cara yang jujur — bukan kertas kebesaran jabatan, melainkan kertas pekerjaan — jadwal antrean, daftar penerima dana pemulihan, surat-menyurat biro provinsi. Di dinding ada lukisan lereng timur yang digambar dari arah pasar, dan Sela mengenali barak-baraknya di dalam lukisan itu sebelum ia mengenali apa pun yang lain tentang ruangan ini. Kursi-kursi disusun cepat oleh pegawai, terlalu banyak untuk delegasi dewasa, pas untuk barisan anak-anak. Seseorang di balai kota ini sudah menghitung mereka.
+Ruang bekerja Hale sempit dan penuh kertas dalam cara yang jujur — bukan kertas kebesaran jabatan, melainkan kertas pekerjaan — jadwal antrean, daftar penerima dana pemulihan, surat-menyurat biro provinsi. Di dinding ada lukisan lereng timur yang digambar dari arah pasar, dan Sela mengenali barak-baraknya di dalam lukisan itu sebelum ia mengenali apa pun yang lain tentang ruangan ini. Kursi-kursi disusun cepat oleh pegawai, terlalu banyak untuk delegasi dewasa, pas untuk barisan anak-anak. Seseorang di balai kota ini sudah menghitung mereka.
 
 Ibu Tamma meletakkan berkas utama di atas meja dan membuka pembicaraan dengan kalimat yang sudah dilatih tiga malam — keberatan formal atas pelaksanaan izin penutupan, bukan atas wali kotanya. Permohonan penundaan sampai dokumen-dokumen warisan yang sedang diverifikasi selesai diperiksa. Dan permintaan tertulis agar tidak ada satu keluarga pun dinaikkan ke pos penimbangan sebelum pertanyaan kepemilikan tanah dijawab.
 
@@ -53,11 +53,11 @@ Tidak ada yang menjawab langsung. Itu bagian latihan juga: jangan berdebat denga
 
 "Lalu izinkan saya membaca sesuatu yang tidak butuh prosedur," katanya. "Ini daftar sembilan belas nama. Anak-anak yang kontrak sekolahnya dibuka ulang meskipun lunas, karena anggaran sekolah mereka dialihkan untuk membayar penilaian ulang distrik tempat mereka lahir."
 
-Ia membacakan daftar itu dari awal sampai akhir, keras-keras, dengan irama kereta nama: nama depan, nama keluarga, blok. Anak-anak di ruangan berdiri saat namanya dibaca, satu per satu, memegang papan di depan dada, dan menjawab "ada" — bukan untuk Sela, tapi untuk ruangan ini, untuk kertas-kertas di meja itu, untuk wali kota yang lahir di distrik yang sama dengan mereka. Sembilan belas kali "ada", dan sunyi sesudahnya adalah jenis sunyi yang tidak bisa dibuat oleh prosedur mana pun.
+Ia membacakan daftar itu dari awal sampai akhir, keras-keras, dengan irama name train: nama depan, nama keluarga, blok. Anak-anak di ruangan berdiri saat namanya dibaca, satu per satu, memegang papan di depan dada, dan menjawab "ada" — bukan untuk Sela, tapi untuk ruangan ini, untuk kertas-kertas di meja itu, untuk wali kota yang lahir di distrik yang sama dengan mereka. Sembilan belas kali "ada", dan sunyi sesudahnya adalah jenis sunyi yang tidak bisa dibuat oleh prosedur mana pun.
 
 Tangan kanan Hale terkatup di lututnya. Ia menatap barisan anak-anak itu lama sekali, dan ketika akhirnya bicara, suaranya sudah bukan suara kalimat teguh tadi.
 
-"Berkas ini saya terima. Saya catat penerimaannya secara resmi, hari ini, jam segini." Ia menoleh ke pegawai di pintu. "Tulis di buku audiensi: diterima wali kota secara pribadi, bukan diteruskan ke bagian hukum. Belum." Ia kembali kepada delegasi, dan Sela melihat orang itu memilih kata-katanya seperti orang memilih pijakan di batu basah. "Saya tidak bisa menjanjikan hasil. Saya tidak akan menjanjikan apa pun yang nanti jadi bohong di atas tanda tangan saya. Tapi satu hal bisa saya katakan, dan ini bukan janji, ini fakta cara kerja meja saya: ada dua tumpukan di meja ini. Tumpukan yang dibacakan pegawai saya dan diringkas jadi paragraf, dan tumpukan yang saya baca sendiri sampai selesai. Berkas kalian—" ia meletakkan tangannya, yang kanan, yang gemetar, di atas sampul kain itu, "—masuk tumpukan kedua."
+"Berkas ini saya terima. Saya catat penerimaannya secara resmi, hari ini, jam segini." Ia menoleh ke pegawai di pintu. "Tulis di buku audiensi: diterima wali kota secara pribadi, bukan diteruskan ke bagian hukum. Belum." Ia kembali kepada delegasi, dan Sela melihat orang itu memilih kata-katanya seperti orang memilih pijakan di batu basah. "Saya tidak bisa menjanjikan hasil. Saya tidak akan menjanjikan apa pun yang nanti jadi bohong di atas tanda tangan saya. Tapi satu hal bisa saya katakan, dan ini bukan janji, ini fakta cara bekerja meja saya: ada dua tumpukan di meja ini. Tumpukan yang dibacakan pegawai saya dan diringkas jadi paragraf, dan tumpukan yang saya membaca sendiri sampai selesai. Berkas kalian—" ia meletakkan tangannya, yang kanan, yang gemetar, di atas sampul kain itu, "—masuk tumpukan kedua."
 
 Itu bukan penundaan izin. Itu bukan pembatalan apa pun. Itu hampir tidak apa-apa.
 

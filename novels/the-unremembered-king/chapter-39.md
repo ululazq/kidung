@@ -55,7 +55,7 @@ Dia bertanya kepada dirinya sendiri, untuk kedua kali hari itu: berapa harga keb
 
 Jawaban lengkapnya bernama Renn, dan harganya adalah Grey Censure. Jawaban kosongnya bernama "tidak ada catatan", dan harganya adalah dosa arsip kedua namanya, dosa yang bisa dibaca siapa pun yang menghitung pola penilaiannya. Maka ia memilih jalan ketiga, jalur sempit yang berada tepat di antara keduanya, dan menuliskannya dengan tinta tangan yang tenang:
 
-"Tempaan ulang. Material tua, bentuk baru, kerja tanpa palu terdeteksi pada struktur dalam. Asal-usul dicatat sebagai pernyataan pemilik sesuai pasal 9. Nilai: sesuai tabel barang bekas, kelas dua."
+"Tempaan ulang. Material tua, bentuk baru, bekerja tanpa palu terdeteksi pada struktur dalam. Asal-usul dicatat sebagai pernyataan pemilik sesuai pasal 9. Nilai: sesuai tabel barang bekas, kelas dua."
 
 Semua kata di dalamnya benar. Semua kata di dalamnya sudah pernah tertulis sekali di arsip yang sama, pada pisau upacara yang dinilainya sendiri, sehingga pola ini bukan kejadian melainkan kebiasaan â€” dan kebiasaan tidak pernah dikirim ke mana-mana. Tempaan ulang. Kata yang menutup pintu sekaligus mencatat isi rumah.
 
@@ -89,4 +89,4 @@ Lolos. Malam ini ia lolos â€” buktinya tidak ada pertanyaan lanjutan, tidak
 
 Di penginapan, ia membuka kotak timbung mini, memastikan salinan jawaban lamanya masih di dasar kotak, di bawah beban timbungan, dan menutupnya kembali.
 
-Satu hal tidak ia hitung tuntas malam itu, dan karena itu ia membawanya ke tidur. Enam item kelas dua itu akan laku, penjualnya akan menerima potongan delapan persen yang layak, dan di suatu tempat di kota ini seseorang yang tidak pernah meminta disebut namanya akan membaca catatan "kerja tanpa palu" di salinan lisensi dan mengerti â€” persis sebesar yang dimaksudkan â€” bahwa penilai muda itu masih menutup pintu, bukan membukanya.
+Satu hal tidak ia hitung tuntas malam itu, dan karena itu ia membawanya ke tidur. Enam item kelas dua itu akan laku, penjualnya akan menerima potongan delapan persen yang layak, dan di suatu tempat di kota ini seseorang yang tidak pernah meminta disebut namanya akan membaca catatan "bekerja tanpa palu" di salinan lisensi dan mengerti â€” persis sebesar yang dimaksudkan â€” bahwa penilai muda itu masih menutup pintu, bukan membukanya.

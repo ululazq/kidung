@@ -1,5 +1,5 @@
 ---
-title: "Bab 87: Tanah Jasa"
+title: "Bab 87: Service Grant"
 chapter: 87
 ---
 
@@ -15,7 +15,7 @@ Ashvarok mengangkat keranjangnya dan berjalan, tidak menoleh, menghitung langkah
 
 ---
 
-Komisi verifikasi dibuka sore harinya di ruang kerja Maera, dengan segel lilin ungu di pintu dan tiga orang di dalam — Assayer Tull sebagai penyidik bidang, juru ukur komisi dari cabang tengah, dan satu pejabat balai kota yang tugasnya mendengar tanpa mencatat. Surat penarikan dukungan atas nama Ossian Vael telah tiba subuh ini — ditandatangani tanpa pasal yang bisa digugat, seperti janjinya, dan kata-katanya begitu bersih sehingga wali kota tidak punya pilihan lain kecuali membaca keras di hadapan pegawainya bahwa permohonan izin penutupan telah dicabut oleh pemohonnya sendiri.
+Komisi verifikasi dibuka sore harinya di ruang bekerja Maera, dengan segel lilin ungu di pintu dan tiga orang di dalam — Assayer Tull sebagai penyidik bidang, juru ukur komisi dari cabang tengah, dan satu pejabat balai kota yang tugasnya mendengar tanpa mencatat. Surat penarikan dukungan atas nama Ossian Vael telah tiba subuh ini — ditandatangani tanpa pasal yang bisa digugat, seperti janjinya, dan kata-katanya begitu bersih sehingga wali kota tidak punya pilihan lain kecuali membaca keras di hadapan pegawainya bahwa permohonan izin penutupan telah dicabut oleh pemohonnya sendiri.
 
 Ashvarok tidak masuk ruangan itu. Tidak perlu. Yang masuk adalah matriks, dibawa dengan prosesi kecil oleh kepala keluarga tua galeri tujuh, didampingi Brannoc sebagai saksi komunitas dan dua Shift Guard yang ditugaskan mengantar barang warisan dengan wajah serius orang yang baru pertama kali diberi tahu bahwa barang warisan ada.
 
@@ -23,7 +23,7 @@ Ia mendengar potongan-potongannya saja, dari koridor, sambil pura-pura memikul k
 
 "Umur bahan konsisten," suara juru ukur komisi, datang samar lewat celah pintu. "Kisi kaca era pra-Liberation, galur galur timur. Runik cocok dengan matriks segel minor Hegemony yang terdokumentasi. Lambang ikatan diputar seperempat lingkaran — pola eksekusi, bukan pola anugerah, sesuai fungsi tanda tembusan." Jeda panjang, bunyi alat dipindahkan. "Dan tanda penjaga di pangkalnya. Ini bukan replika, Tuan. Replika tidak menua begini."
 
-"Catat semuanya," suara Maera, tenang, presisi, milik orang yang sudah tahu jawabannya sebelum bertanya. "Lalu tulis klasifikasinya: bukti eksekusi klaim tanah jasa Distrik Timur, era pra-Liberation, ditemukan di tempat penyimpanan keluarga, tanggal penemuan dicatat sesuai keterangan pemilik. Pasal perlindungan tanah jasa tetap hidup menurut hukum Liberation. Dokumen ini menunjukkan penugasannya dieksekusi dan tidak pernah dibubarkan secara resmi."
+"Catat semuanya," suara Maera, tenang, presisi, milik orang yang sudah tahu jawabannya sebelum bertanya. "Lalu tulis klasifikasinya: bukti eksekusi klaim service grant Distrik Timur, era pra-Liberation, ditemukan di tempat penyimpanan keluarga, tanggal penemuan dicatat sesuai keterangan pemilik. Pasal perlindungan service grant tetap hidup menurut hukum Liberation. Dokumen ini menunjukkan penugasannya dieksekusi dan tidak pernah dibubarkan secara resmi."
 
 "Yang berarti," kata pejabat balai kota, pelan, "izin penutupan yang sudah dicabut pemohonnya tadinya berdiri di atas tanah yang tidak pernah kosong."
 
@@ -37,7 +37,7 @@ Ia menemukan Assayer itu sore harinya di belakang gudang pengangkutan, tempat ya
 
 "Semuanya."
 
-"Maka kamu tahu kata yang paling penting di dalamnya." Maera menoleh. "Sementara. Perlindungan tanah jasa diakui sementara sampai penetapan akhir. Kata itu bukan celah dari komisi — kata itu harga dari kesepakatan yang dibuat malam hari keseratus sepuluh, di ruangan yang tidak ada saksinya."
+"Maka kamu tahu kata yang paling penting di dalamnya." Maera menoleh. "Sementara. Perlindungan service grant diakui sementara sampai penetapan akhir. Kata itu bukan celah dari komisi — kata itu harga dari kesepakatan yang dibuat malam hari keseratus sepuluh, di ruangan yang tidak ada saksinya."
 
 Ashvarok menghitung mundur tanggal-tanggalnya dan mendapati bentuk sesuatu yang selama ini hanya ia duga — negosiasi itu sudah selesai sebelum stempelnya bahkan ditemukan keluarga tua itu. "Apa yang kamu bayar?"
 
@@ -45,7 +45,7 @@ Ashvarok menghitung mundur tanggal-tanggalnya dan mendapati bentuk sesuatu yang 
 
 Ashvarok diam sebentar pada kata itu, karena sekutunya baru saja mengucapkan sesuatu yang terlalu besar untuk dilewati dan terlalu rapuh untuk ditanyakan ulang. "Gencatan senjata," katanya akhirnya. "Sampai kapan?"
 
-"Sampai salah satu dari kita berhenti butuh yang lain. Gencatan senjata tidak punya kalender, Renn; ia punya kondisi." Maera mengangkat kotaknya ke bahu lagi. "Satu lagi. Vael minta satu barang yang tidak tertulis di mana pun — kalau identitas penjaga tua ini suatu hari ketahuan, dia mau didatangi lebih dulu. Aku bilang mungkin. Kamu dengar dari aku supaya tidak kaget nanti."
+"Sampai salah satu dari kita berhenti butuh yang lain. Gencatan senjata tidak punya kalender, Renn; ia punya kondisi." Maera mengangkat kotaknya ke bahu lagi. "Satu lagi. Vael minta satu barang yang tidak tertulis di mana pun — kalau identitas old warden ini suatu hari ketahuan, dia mau didatangi lebih dulu. Aku bilang mungkin. Kamu dengar dari aku supaya tidak kaget nanti."
 
 "Dia ingin bicara dengan aku."
 
@@ -55,11 +55,11 @@ Ashvarok diam sebentar pada kata itu, karena sekutunya baru saja mengucapkan ses
 
 Keputusan wali kota jatuh dua hari kemudian, pagi hari keseratus enam belas, dibacakan di tangga balai kota karena aula sidang terlalu kecil untuk orang-orang yang datang.
 
-Ashvarok berdiri di barisan belakang bersama regunya, di antara Ondar yang perban jarinya sudah dilepas dan anak-anak galeri sebelas yang dinaikkan pundak supaya bisa melihat. Ia mendengar Corvan Hale membaca putusan dengan suara yang berusaha teguh — izin penutupan distrik timur dinyatakan batal atas pencabutan sukarela pemohon, status perlindungan tanah jasa diakui sementara sampai penetapan akhir komisi, seluruh program pemindahan dihentikan, dana pemulihan udara dilanjutkan tanpa syarat pindah.
+Ashvarok berdiri di barisan belakang bersama regunya, di antara Ondar yang perban jarinya sudah dilepas dan anak-anak galeri sebelas yang dinaikkan pundak supaya bisa melihat. Ia mendengar Corvan Hale membaca putusan dengan suara yang berusaha teguh — izin penutupan distrik timur dinyatakan batal atas pencabutan sukarela pemohon, status perlindungan service grant diakui sementara sampai penetapan akhir komisi, seluruh program pemindahan dihentikan, dana pemulihan udara dilanjutkan tanpa syarat pindah.
 
 Kemudian orang-orang berteriak, dan Ashvarok berdiri diam di dalam teriakan itu seperti batu di tengah banjir.
 
-Ia melihat ibu Tamma yang tidak berteriak — perempuan itu hanya menutup matanya dan menggenggam daftar absen-namanya ke dada seperti orang menggenggam anak yang sudah pulang. Ia melihat Sela di barisan depan, dengan papan tulisnya digendong di pinggul, menoleh ke belakang mencari wajahnya di tengah kerumunan dan menemukannya. Tidak ada angka yang ditulisnya hari ini, hanya senyum yang Ashvarok balas dengan anggukan sepersekian inci, karena kerumunan ini tidak perlu melihat furnace boy galeri tujuh tersenyum lebar pada adiknya. Ia melihat sembilan belas anak dengan papan nama mereka, Harn di antaranya, berlarian di tangga balai kota seperti nama-nama yang baru saja diberi rumah kedua.
+Ia melihat ibu Tamma yang tidak berteriak — perempuan itu hanya menutup matanya dan menggenggam daftar name-rollnya ke dada seperti orang menggenggam anak yang sudah pulang. Ia melihat Sela di barisan depan, dengan papan tulisnya digendong di pinggul, menoleh ke belakang mencari wajahnya di tengah kerumunan dan menemukannya. Tidak ada angka yang ditulisnya hari ini, hanya senyum yang Ashvarok balas dengan anggukan sepersekian inci, karena kerumunan ini tidak perlu melihat furnace boy galeri tujuh tersenyum lebar pada adiknya. Ia melihat sembilan belas anak dengan papan nama mereka, Harn di antaranya, berlarian di tangga balai kota seperti nama-nama yang baru saja diberi rumah kedua.
 
 Dan ia melihat Hale. Wali kota itu turun dari tangga dengan tumpukan putusan yang basah tinta, dan untuk satu tarikan napas, sebelum kerumunan menelan wajahnya, Ashvarok melihat ekspresinya dengan kejernihan yang tidak ia inginkan — lega, dan malu, keduanya sekaligus, pada proporsi yang sama. Lelaki itu tahu ia hampir menjual empat ratus keluarga demi ketenangan dan utang budi. Kertas di tangannya menyelamatkan dia dari dirinya sendiri, dan tidak ada yang lebih memalukan daripada diselamatkan oleh kertas.
 

@@ -51,11 +51,11 @@ Brannoc mendengarkan sambil sarapan roti kerasnya di gudang perkakas — bukan s
 
 Gudang itu sunyi sebentar, kecuali gemuruh troli dari atas.
 
-"Dulu," kata Brannoc akhirnya, pelan, "waktu aku baru kerja di sini, ada om-om tua namanya Pak Dekan — penambang pertama generasinya. Dia bilang suatu hari lorong timur 'masih punya tetangga'. Kami tertawa. Dia marah, dan om-om marah di tambang itu jarang soal takhayul." Foreman tua itu menatap peta potongan di atas peti. "Dia mati di lorong tujuh, tujuh tahun sebelum runtuhan bulan ini. Sebelum mati dia sempat bilang ke aku. Kalau suatu hari dinding timur mulai bicara, jangan jawab pakai kapak."
+"Dulu," kata Brannoc akhirnya, pelan, "waktu aku baru bekerja di sini, ada om-om tua namanya Pak Dekan — penambang pertama generasinya. Dia bilang suatu hari lorong timur 'masih punya tetangga'. Kami tertawa. Dia marah, dan om-om marah di tambang itu jarang soal takhayul." Foreman tua itu menatap peta potongan di atas peti. "Dia mati di lorong tujuh, tujuh tahun sebelum runtuhan bulan ini. Sebelum mati dia sempat bilang ke aku. Kalau suatu hari dinding timur mulai bicara, jangan jawab pakai kapak."
 
 "Apa yang harus dijawab?"
 
-"Itu yang tidak sempat dia kasih tahu." Brannoc mengunyah ulang akar pahit yang sudah habis rasanya. "Tapi dia satu-satunya orang yang pernah menyebut ada lorong di bawah lorong. Dan dia hilang dua hari di sana saat muda — balik bawa luka bakar dingin di kedua tangan, seperti menyentuh besi malam yang membeku. Setelah itu dia tidak pernah mau kerja shift dasar lagi."
+"Itu yang tidak sempat dia kasih tahu." Brannoc mengunyah ulang akar pahit yang sudah habis rasanya. "Tapi dia satu-satunya orang yang pernah menyebut ada lorong di bawah lorong. Dan dia hilang dua hari di sana saat muda — balik bawa luka bakar dingin di kedua tangan, seperti menyentuh besi malam yang membeku. Setelah itu dia tidak pernah mau bekerja shift dasar lagi."
 
 Luka bakar dingin. Ashvarok menyimpan frasa itu di samping yang lain. Orang tua yang pernah menyentuh sisa gema segel — atau sisa sesuatu yang lebih buruk — empat puluh tahun silam, jauh sebelum sayatan-sayatan rapi muncul.
 
@@ -71,7 +71,7 @@ Brannoc menatapnya sekali lagi dengan tatapan yang sudah menjadi rutinitas antar
 
 "Apa yang kamu lakukan waktu tahu?"
 
-"Hari ini? Aku kerja shift, gaji upah, jawab pertanyaan overseer." Brannoc melempar akar pahit kosongnya ke ember. "Dan malam ini aku hitung ulang semua pintu tambang ini. Semua. Termasuk yang katanya bukan pintu."
+"Hari ini? Aku bekerja shift, gaji upah, jawab pertanyaan overseer." Brannoc melempar akar pahit kosongnya ke ember. "Dan malam ini aku hitung ulang semua pintu tambang ini. Semua. Termasuk yang katanya bukan pintu."
 
 "Satu pertanyaan terakhir, Brannoc." Ashvarok menunjuk titik kosong di peta potongan itu, tempat aula seharusnya berada jika rekonstruksinya benar. "Kalau aku butuh masuk ke ruang ini tanpa lewat daftar mana pun... jalur apa yang paling masuk akal?"
 
@@ -81,7 +81,7 @@ Brannoc memandangi titik itu, dan pagi itu foreman tua itu tersenyum — senyum 
 
 "Dan siapa yang tahu tutup lamanya?"
 
-"Hanya dua jenis orang." Brannoc menatapnya dengan mata yang sudah menghitung jawabannya sebelum mulut menyebutnya. "Orang yang dulu ditunjuk jaga rahasianya... atau orang yang datang belakangan dan baca semuanya lebih teliti dari kita."
+"Hanya dua jenis orang." Brannoc menatapnya dengan mata yang sudah menghitung jawabannya sebelum mulut menyebutnya. "Orang yang dulu ditunjuk jaga rahasianya... atau orang yang datang belakangan dan membaca semuanya lebih teliti dari kita."
 
 "Kalau begitu kita berdua kebagian jenis kedua," kata Ashvarok. "Dan jenis pertama, kapan pun dia muncul, akan tahu satu hal yang kita tidak: kenapa dia masuk."
 

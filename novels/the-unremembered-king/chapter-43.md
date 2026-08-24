@@ -37,7 +37,7 @@ Dan di dalam regu itu, satu titik yang tidak pernah bergerak jauh: furnace boy l
 
 ---
 
-Pagi sebelum menyerahkan laporan, ia duduk satu jam di ruang baca kecil Quota Office, tempat pegawai tingkat dua boleh membaca salinan apa pun yang tidak disegel.
+Pagi sebelum menyerahkan laporan, ia duduk satu jam di ruang membaca kecil Quota Office, tempat pegawai tingkat dua boleh membaca salinan apa pun yang tidak disegel.
 
 Ia membaca salinan laporan kedalaman tim survei — salinan yang diberikan kepada jabatannya sebagai kelengkapan pengawasan, lima halaman angka yang seharusnya membosankan. Ia membacanya tiga kali. Pada pembacaan ketiga ia mulai mencoret: kedalaman titik satu tujuh hasta lebih dangkal daripada peta dasar. Titik dua tiga lebih dangkal dan bergeser barat. Titik empat benar persis. Titik lima benar persis. Dinding lorong B, monolit, kedalaman tak tentu.
 

@@ -25,7 +25,7 @@ Sebelum langkah pertama terdengar, ia sudah membakar separuh cadangan panas tubu
 
 Kovan, dari semua orang, adalah satu-satunya yang menoleh sekali ke arah kolom batu dekat dais — menatap kegelapan itu dua detik dengan mata orang yang pernah merasakan hal serupa dan belum sembuh — lalu memaksakan dirinya melihat ke tempat lain.
 
-Dari celah kolom batu, Ashvarok memperhatikan mereka bekerja: enam orang. Empat berjubah abu dengan benang timah, pengikat muda membawa peti pengikat klaim, dan di tengah-tengah mereka — berjalan dengan ketenangan orang yang sedang memeriksa properti sendiri —
+Dari celah kolom batu, Ashvarok memperhatikan mereka bekerja: enam orang. Empat berjubah abu dengan tin thread, pengikat muda membawa peti pengikat klaim, dan di tengah-tengah mereka — berjalan dengan ketenangan orang yang sedang memeriksa properti sendiri —
 
 Ossian Vael.
 

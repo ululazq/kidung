@@ -89,7 +89,7 @@ Bukan jerit panjang — jerit pendek, tertahan, seperti orang yang dilatih dunia
 
 Sela membuka mata dan menatapnya tanpa melihatnya beberapa saat lamanya.
 
-"Pria abu," katanya akhirnya. Suaranya serak. "Dia berdiri di ujung lorong. Lorong rumah kami yang dulu, di distrik lama, waktu aku kecil. Semua orang berjalan lewat dia seperti dia tiang. Tapi aku bisa lihat dia menghitung. Jari dia gerak. Satu, dua, tiga." Tangannya meniru gerakan itu di selimut. "Terapi dia sampai ke aku, dan kakiku mau lari, dan dia bilang—"
+"Ash Man," katanya akhirnya. Suaranya serak. "Dia berdiri di ujung lorong. Lorong rumah kami yang dulu, di distrik lama, waktu aku kecil. Semua orang berjalan lewat dia seperti dia tiang. Tapi aku bisa lihat dia menghitung. Jari dia gerak. Satu, dua, tiga." Tangannya meniru gerakan itu di selimut. "Terapi dia sampai ke aku, dan kakiku mau lari, dan dia bilang—"
 
 Dia berhenti. Rahangnya mengeras.
 
@@ -97,11 +97,11 @@ Dia berhenti. Rahangnya mengeras.
 
 "Tidak bilang apa-apa. Itu bagian paling buruknya. Dia tidak bersuara sama sekali, dan tetap saja kupikir dia bilang namaku." Sela duduk, menarik selimut ke pundaknya, marah pada dirinya sendiri. "Aku mimpi ini dari kecil. Biasa hanya sekali bulan. Sekarang dua kali seminggu. Terus minggu ini yang kumimpi bukan lorong rumah lagi. Yang kumimpi lorong tujuh."
 
-Di dalam tubuh Ashvarok, sesuatu yang berumur seribu tahun berdiri dengan sangat tenang. Pria abu yang diam dan menghitung. Wilayah yang sunyi dan menolak dicatat ingatan. Ondar yang melupakan namanya sendiri dua detik di lorong tujuh. Potongan-potongan itu tidak minta disusun. Mereka menyusun sendiri, dan hasilnya adalah kata yang sudah ia kenal sebelum kota ini dibangun.
+Di dalam tubuh Ashvarok, sesuatu yang berumur seribu tahun berdiri dengan sangat tenang. Ash Man yang diam dan menghitung. Wilayah yang sunyi dan menolak dicatat ingatan. Ondar yang melupakan namanya sendiri dua detik di lorong tujuh. Potongan-potongan itu tidak minta disusun. Mereka menyusun sendiri, dan hasilnya adalah kata yang sudah ia kenal sebelum kota ini dibangun.
 
 Hollowing. Kebocoran kecil tidak datang sebagai ledakan. Datangnya sebagai mimpi anak-anak, dulu, jauh sebelum batunya ikut retak.
 
-"Sela. Pria abu itu — mukanya pernah kamu lihat?"
+"Sela. Ash Man itu — mukanya pernah kamu lihat?"
 
 "Tidak ada mukanya. Seperti orang lupa dirinya sendiri sampai wajahnya ikut hilang."
 
@@ -117,7 +117,7 @@ Sela menatapnya aneh. Pertanyaan itu bukan pertanyaan penghibur, dan anak itu cu
 
 Ashvarok memandangi adik angkat yang tidak punya darah dengannya dan memiliki lebih banyak keberanian daripada yang bisa dilindungi siapa pun. Ada dua jalan di depannya malam ini, dan ia sudah melihat keduanya sejak sore. Jalan utara keluar dari Caldrest sebelum pendataan, sebelum investigasi, sebelum tubuh pinjaman ini dipakai habis oleh dunia yang tidak mengenalinya — jalan yang aman untuk raja tanpa nama.
 
-Dan jalan yang tinggal di atas retakan, bersama bocah yang dihitung oleh pria abu.
+Dan jalan yang tinggal di atas retakan, bersama bocah yang dihitung oleh ash man.
 
 "Artinya kita perlu uang lebih cepat dari jadwal," katanya akhirnya. "Dan aku butuh shift dalam lagi. Yang dekat dasar."
 
@@ -131,7 +131,7 @@ Sela menatapnya lama, mencoba menemukan leluconnya, tidak menemukannya, dan meny
 
 Ashvarok duduk menjaga sampai subuh.
 
-Kabur dari Caldrest, ia hitung ulang di kepala yang sama dengan hasil yang sama. Tiga hari sebelum nama ini tertangkap buku besar, empat pulau jalan sebelum kabar tentang bocah selamat lorong tujuh kehilangan nilainya, dan nol kemungkinan membawa serta satu-satunya alasan yang tersisa untuk membangun apa pun. Retakan ada di sini. Pria abu menghitung di sini. Tangan yang menyedot pengikatnya, ke mana pun asalnya, pada akhirnya bergerak lewat sini.
+Kabur dari Caldrest, ia hitung ulang di kepala yang sama dengan hasil yang sama. Tiga hari sebelum nama ini tertangkap buku besar, empat pulau jalan sebelum kabar tentang bocah selamat lorong tujuh kehilangan nilainya, dan nol kemungkinan membawa serta satu-satunya alasan yang tersisa untuk membangun apa pun. Retakan ada di sini. Ash Man menghitung di sini. Tangan yang menyedot pengikatnya, ke mana pun asalnya, pada akhirnya bergerak lewat sini.
 
 Keputusan itu tidak terasa seperti pilihan. Terasa seperti kembali menandatangani kontrak lama dengan harga baru.
 
