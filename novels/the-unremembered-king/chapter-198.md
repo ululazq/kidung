@@ -81,6 +81,8 @@ Ashvarok menatapnya. "Itu akan masuk arsip resmi."
 
 "Justru itu."
 
+Di dapur aula ada aturan tak tertulis yang kini tertulis: setiap pekan, ibu Tamma membacakan angka cangkir teh yang habis di depan murid-murid makan malam. Bukan laporan — lebih mirip cerita panjang tentang siapa minum dengan siapa. Murid menyebutnya "berita dapur", dan tidak ada berita lain yang mereka tunggu lebih sabar.
+
 ---
 
 Ashvarok menulis entri malam itu di ambang rumah utara, sambil mendengarkan suara paling biasa dan paling luar biasa di dunia:

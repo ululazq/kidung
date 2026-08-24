@@ -77,7 +77,7 @@ Ibu Tamma menjawab dengan vonis dapurnya: "Delapan belas tahun tidak minum teh, 
 
 Malam pertama seratus petani di atas tanah dihabiskan di ladang itu sendiri — dan berlangsung seperti pesta panen zaman lama yang tiba-tiba dilanjutkan setelah jeda delapan belas tahun.
 
-Api unggun dinyalakan dari bara nat obsidian yang dibawa khusus dari aula — api lembah yang menyalakan api Caldrest yang menyalakan api perayaan utara: tiga zaman dalam satu nyala. Ibu Tamma memimpin makan malam di atas tikar panjang; musik datang dari alat-alat tua yang disimpan keluarga keturunan selama delapan belas tahun dan malam ini dimainkan lagi untuk pemilik aslinya.
+Api unggun dinyalakan dari bara nat Karveth-Ulm yang dibawa khusus dari aula — api lembah yang menyalakan api Caldrest yang menyalakan api perayaan utara: tiga zaman dalam satu nyala. Ibu Tamma memimpin makan malam di atas tikar panjang; musik datang dari alat-alat tua yang disimpan keluarga keturunan selama delapan belas tahun dan malam ini dimainkan lagi untuk pemilik aslinya.
 
 Dan di tengah perayaan, para petani purba melakukan sesuatu yang membuat semua orang diam: mereka mengajari.
 

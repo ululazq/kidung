@@ -102,6 +102,8 @@ Jawabannya: karena aku pernah menulis nama orang di kolom hilang... lalu bisa me
 Dan satu adegan terakhir untuk memenuhi neraca bab dengan benar — bukan pengisi, tapi penutup: keesokan paginya, murid-murid akademi tingkat satu menemukan tanaman klinik Tovik mendapat pot baru. Semua pot lama penuh akar delapan belas tahun. Harn yang menyangga potnya sambil berkomentar kepada kelas:
 "Guru bilang ini metafora. Aku bilang ini cuma tanaman butuh tempat lebih besar." Ia menepuk tanahnya rata. "Dua-duanya benar sepertinya."
 
+Ketua majelis Dewan pernah membaca catatan teh itu saat berkunjung dan diam lama di satu halaman. Ketika ditanya, ia menjawab: "di sini tertulis tanggal aku pertama minum di dapur ini. Itu hari pertama aku merasa jadi tetangga, bukan pejabat."
+
 ---
 
 Dan baris penutup bab 192, dari Hourglass Ashvarok — satu kalimat yang menutup semuanya:

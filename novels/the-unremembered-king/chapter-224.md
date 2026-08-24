@@ -125,5 +125,4 @@ Selamat malam, Karvess. Selamat jaga, semua penjaga — tua dan muda, manusia da
 
 Besok kita bekerja lagi. Dan itu kabar baik.
 
-
-
+Sela menemukan kesalahan hitung di arsip lamanya: satu nama tercatat ganda di daftar 400 jiwa utara. Ia menghabiskan setengah malam memverifikasi — dan menemukan bahwa yang tercatat ganda itu ternyata DUA orang berbeda dengan nama sama, keduanya benar-benar hilang, dan salah satunya belum pulang. Catatan koreksi ditulis subuh harinya dengan tinta merah: "satu keluarga tambahan harus didengar."

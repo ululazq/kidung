@@ -51,6 +51,8 @@ Ashvarok memandang baris jatah itu lama. Tiga nama anak, dan di bawahnya tangann
 
 "Maka kita pastikan dia tidak pernah sempat menyapu," kata Sela. "Dan kalau suatu hari sempat — biar dia mencerna sebuah kota yang utuh. Bukan sisa-sisa."
 
+Di rak dapur aula kini ada buku catatan khusus berjudul "Teh" — isinya cuma hitungan cangkir per hari, tulisan tangan ibu Tamma. Ketika Sela bertanya kenapa dicatat, jawabannya masuk neraca: "supaya kelak diketahui bahwa kedamaian bisa dihitung. Dan angkanya besar."
+
 ---
 
 Laporan jatah pertama masuk ke neraca besar malam itu, di gudang perkakas, di hadapan tim inti yang kini beranggotakan enam: Ashvarok, Brannoc, Sela, Maera yang datang membawa kotak timbungnya, Kovan dengan buku sandinya, dan — hadir untuk pertama kalinya atas undangan resmi — pengikat senior, yang duduk paling lama diam sebelum akhirnya berkata satu kalimat pembuka: "Aku menunggu undangan ini empat puluh tahun. Ternyata meja yang kutunggu ada di gudang tambang."

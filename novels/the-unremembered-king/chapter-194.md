@@ -118,3 +118,5 @@ Sisa tujuh puluh lima kata — penutup paling kecil dan paling Caldrest: paginya
 "Bukan aku, Pak Darmo. Mereka ingat sendiri."
 
 "Ya sudah." Lelaki tua itu mengangkat sekopnya, berbalik, lalu berhenti di pintu tanpa menoleh: "Makasih banyak, Bang Tua."
+
+Kovan menghitung ulang seluruh protokol musim dengan matematika barunya dan menemukan sesuatu yang membuatnya senyum-senyum seharian: total waktu yang dihabiskan Caldrest untuk menolong kedalaman delapan bulan ini LEBIH SEDIKIT dari waktu yang dihabiskan kedalaman untuk menolong Caldrest dalam delapan hari. Angka itu ia tulis besar-besar di papan aula, tanpa komentar.

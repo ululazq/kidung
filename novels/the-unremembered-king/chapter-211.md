@@ -90,3 +90,5 @@ Ketika pasangan hitung meninggalkan Karven pada pagi ketiga, setengah kota datan
 "Nenek, aku tidak tahu siapa yang kau menyapa di bawah sana. Tapi mulai sekarang aku menyapa balik."
 
 Dan nat-nat kecil sepanjang jalan dagang Caldrest-Karven — sebelas titik yang ditemukan dua pemuda dalam dua hari — mulai mendapat pengunjung. Satu per satu. Pertama karena penasaran. Lalu karena kebiasaan. Lalu karena, kata anak Pak Dekan dalam laporannya yang ditulis di jalan pulang dengan huruf senang sekali, "orang-orang akhirnya tahu bahwa menyapa tidak perlu alasan".
+
+Di pos jemput nomor tujuh, keluarga keturunan membangun bangku kayu kecil menghadap ladang — untuk siapa pun yang ingin duduk menonton gandum bergoyang seperti pesan Vess-Morath dulu. Bangku itu tidak pernah kosong lebih dari satu jam. Caldrest menemukan bahwa menonton gandum ternyata konten, jauh sebelum kata itu populer.

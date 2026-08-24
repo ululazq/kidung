@@ -99,13 +99,4 @@ Semua sudah di tempatnya. Tinggal melangkah.
 
 Ia melangkah. Dan jalan-jalan Caldrest menerima kakinya seperti biasa — seperti menerima semua yang pulang, semua yang berangkat, dan semua yang tinggal di antara keduanya untuk menjaga.
 
-
-
-
-
-
-
-
-
-
-
+Di catatan pinggir arsip pekan ini, Sela menulis satu kalimat untuk bab ke-177 perjalanan panjang Caldrest dan kedalaman: "tidak semua kemajuan terlihat dari luar. Sebagian besar hanya terasa — seperti hangat yang datang dari nat-nat kecil di dinding barak, atau seperti nama-nama yang mulai disebut lagi tanpa ragu." Ashvarok membacanya, mengangguk sekali, dan menambahkan satu kata di bawahnya: "lanjut".

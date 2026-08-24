@@ -94,6 +94,8 @@ Dan penutup bab — peristiwa kecil yang terjadi tanpa saksi selain satu orang: 
 Hanya Sela yang mendengarnya dari jendela barak malam itu. Ia tidak membangunkan siapa pun. Ia hanya menulis di halaman pribadinya:
 "Catatan pribadi: malam ini hujan dan ada nat yang menyanyi pakai air hujan. Aku tidak akan lapor ini ke mana-mana karena belum paham. Tapi aku mau catat satu tebakan: mungkin dia tidak cuma menyimpan yang kita titipkan. Mungkin dia juga senang-senang sendiri kadang-kadang. Dan menurutku itu bagus. Rumah yang baik punya saat-saat di mana penghuninya tidak butuh dia, dan dia tetap bernyanyi."
 
+Murid-murid mulai menebak-nebak angka catatan teh seperti ramalan musim. "Pekan ini turun," bisik Harn, "pasti banyak yang pulang cepat ke rumah." Tebakan murid pun sekarang jadi bagian tradisi dapur — dan anehnya hampir selalu meleset dengan cara yang tepat.
+
 ---
 
 Subuhnya Sela akhirnya melapor juga — karena aturan keluarga: temuan tentang kedalaman tidak boleh disimpan sendirian, sekecil apa pun. Ashvarok mendengar cerita nat hujan itu sambil sarapan, dan berkata hanya satu kalimat yang membuat adiknya menulisnya langsung di papan:

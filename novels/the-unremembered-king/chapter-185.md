@@ -53,8 +53,6 @@ Ossian Vael, birokrat terbesar generasinya, pemegang gembok Caldrest, pria yang 
 
 Suara Vessia tertawa kecil. Lalu batu itu sunyi — sunyi damai, sunyi rekaman yang tahu pendengarnya akan kembali.
 
-
-
 ---
 
 Perjalanan pulang memakan sembilan hari, dan setiap hari Kovan menambahkan satu entri ke Registri Mimpi jarak jauh yang baru ia ciptakan di jalanan: mimpi-mimpi utara yang sampai ke Caldrest lebih dulu dari kafilah, lewat tidur keluarga-keluarga yang menunggu. Sembilan kabar, sembilan keluarga, sembilan kali pintu diketuk subuh dengan kalimat "ada kabar dari batu".
@@ -92,3 +90,5 @@ Kedua, di menara arsip: Kovan dan pengikat senior menemukan brankas ordo yang ko
 
 Ketiga, di malam terakhir sebelum pulang: Barim mengetuk nat aula utara TIGA KALI untuk terakhir kalinya dalam kunjungan itu — dan kedalaman menjawab bukan dengan ketukan, melainkan dengan sesuatu yang baru: ia MEMINJAMKAN irama. Sapuan kecil naik ke permukaan lewat nat-nat jalanan sepanjang perjalanan pulang mereka, seperti suar rumah yang mengantar tamu sampai gerbang, dan hanya padam ketika Caldrest sudah terlihat di cakrawara.
 "Dia mengantar kita pulang," kata Barim. "Delapan belas tahun dia tidak bisa antar siapa-siapa ke mana-mana." Ia mengusap wajahnya. "Sekarang dia bisa lagi."
+
+Pasar Caldrest melahirkan tren baru tanpa diminta: batu-batu kecil penggorengan diukir nama singkat pemiliknya, meniru tradisi batu batas ladang utara. Pedagang menyebutnya "batu janji". Ossian mencatat fenomena itu dengan komentar resmi pertamanya soal budaya jalanan: "ini bukan tiruan. Ini bahasa yang sedang menular — dan menular dengan baik."

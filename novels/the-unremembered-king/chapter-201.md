@@ -29,7 +29,7 @@ Sareth menutup matanya. Barim tidak — ia menatap Ashvarok lurus-lurus, dan yan
 
 Harn, yang hadir sebagai murid paling junior di rapat guru (ia duduk di pojok dengan alasan "numpang catat"), berkata tanpa sadar: "Berarti Kak Ashvarok tidak bisa lihat wajah?"
 
-Rapat diam. Ashvarok sendiri yang menjawab duluan, sambil tersenyum: "Tidak bisa. Delapan bulan aku belajar telapak dari Barim, dan wajah tetap tertutup bagiku. Aku bisa membaca sejarah seribu tahun sebuah nat. Tapi aku tidak bisa memberitahu kau sedang sedih atau lapar dari sentuhan." Ia menatap murid-muridnya. "Itu bukan kekurangan seni. Itu batas seni. Bedanya penting."
+Rapat diam. Ashvarok sendiri yang menjawab duluan, sambil tersenyum: "Tidak bisa. Delapan bulan aku belajar telapak dari Barim, dan wajah tetap tertutup bagiku. Aku bisa membaca sejarah seribu tahun sebuah nat. Tapi aku tidak bisa memberitahu kau sedang sedih atau lapar dari sentuhan." Ia memandang murid-muridnya satu per satu. "Itu bukan kekurangan seni. Itu batas seni. Bedanya penting."
 
 ---
 
@@ -82,3 +82,5 @@ Sebelum pergi, Ossian berhenti di pintu dan berkata hal yang jarang ia katakan d
 "Itu," kata Ossian dari ambang pintu, "kalimat pertama darimu yang tidak membuatku ingin mengadu ke prosedur."
 
 Dan malam itu, di nat-nat aula, kedalaman menyanyikan name train dengan tambahan gerbong kecil di ujungnya — enam puluh dua nama keluarga baru, yang belum semua anggotanya tahu bahwa mereka sudah terdaftar.
+
+Ashvarok menemukan surat lama di antara dokumen Hegemony: permintaan maaf yang ditulis seribu tahun silang tapi tidak pernah dikirim. Ia membacanya dua kali, lalu meletakkannya di Arsip dengan label baru: "bukti bahwa penyesalan juga butuh keberanian ekstra. Yang ini tidak sempat. Kita yang sekarang punya."

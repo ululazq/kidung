@@ -45,6 +45,9 @@ Sela menulis pasal itu di papan, kapur berbunyi kecil di tengah malam, lalu meni
 
 "Rumah cadangannya sudah besar, kak. Aku sudah menghitung. Barak ini saja delapan puluh enam."
 
+Ibu Tamma menemukan kebiasaan baru dapurnya: mencatat jumlah cangkir teh yang habis setiap pekan di papan kayu kecil. Angkanya terus naik sejak pemulangan dimulai. "Angka paling enak dibaca," katanya, "adalah angka yang artinya banyak orang berkumpul."
+
+
 ---
 
 Keesokan paginya, dua hal datang bersama sarapan, dan keduanya mengubah arti malam semalam.

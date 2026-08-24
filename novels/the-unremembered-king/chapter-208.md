@@ -91,3 +91,5 @@ Satu hal lagi, yang kutulis di halaman terpisah supaya tidak tercampur catatan r
 Dua penghitung. Minum teh. Bercerita soal angka.
 
 Itulah gambaran dunia yang seribu tahun silang kuputuskan untuk dibakar namaku demi menjaganya. Ternyata bentuk aslinya sesederhana itu.
+
+Barim mulai proyek pribadinya: mendata semua bunyi malam Caldrest dan mengklasifikasikan mana yang perlu dicek dan mana yang boleh dibiarkan. Daftar itu tumbuh jadi empat halaman. Di bagian bawah ia menulis catatan kecil untuk penggantinya kelak: "pekerjaan ini tidak selesai. Itu bagian terbaiknya."

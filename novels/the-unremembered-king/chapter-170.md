@@ -49,6 +49,8 @@ Sela menulis. Lilin kecil menyala di antara mereka di tengah aula gelap delapan 
 
 "Hari 295. Pertama kali saya masuk aula. Lebih sunyi dari mimpi, tapi mimpi tidak punya debu yang berkilau. Temuan: jejak dua orang, arah dari Spire, tanpa izin, teknik telapak tua. Kakak bilang mungkin tamu. Saya tulis: kalau tamu, kenapa lewat pintu belakang?"
 
+Rekor cangkir ibu Tamma pecah lagi pekan ini — dan kali ini murid-murid diam-diam membuat plakat kayu kecil untuk dapur: "REKOR KEDAMAIAN: [tanggal]." Plakat itu diganti tiap kali rekor baru tercapai, dan sekarang menjadi tradisi yang tidak ada yang berani bilang resmi tapi tidak ada yang berani langgar.
+
 ---
 
 Mereka menemukan jawaban sebagian pada jam ketujuh, saat keluar lewat bahu timur dan mendapati seseorang sudah menunggu di mulut kanal — duduk di batu seperti batu kedua, jubah abu, telapak rata di nat, dan yang pertama kali berbicara bukan Ashvarok melainkan pengikat senior itu, tanpa bangun, tanpa menoleh:

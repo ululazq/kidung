@@ -82,3 +82,5 @@ Ashvarok yang mendengarnya dari nat barat tertawa pelan di kegelapan aula, karen
 Sapuan menjawab dengan denyut tambahan itu lagi. Setia. Sabar.
 
 Ia akan memberitahu Sela besok pagi, dan gadis itu akan membuka halaman baru di peta nama — gerbong terakhir name train Caldrest, yang namanya belum diberikan manusia mana pun tapi sudah menjawab "ada" setiap malam selama seribu tahun. Dan untuk pertama kalinya, pekerjaan memberinya nama tidak terasa seperti memberi. Terasa seperti membalas.
+
+Pasar Caldrest melahirkan tren baru tanpa diminta: batu-batu kecil penggorengan diukir nama singkat pemiliknya, meniru tradisi batu batas ladang utara. Pedagang menyebutnya "batu janji". Ossian mencatat fenomena itu dengan komentar resmi pertamanya soal budaya jalanan: "ini bukan tiruan. Ini bahasa yang sedang menular — dan menular dengan baik."

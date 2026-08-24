@@ -94,3 +94,5 @@ DIA ADA. DAN DIA MENGINGAT KETUKANNYA.
 Sela menambahkan satu baris di bawahnya, dengan kapur biru yang hanya ia pakai untuk hal-hal yang tidak boleh pernah hilang:
 
 Catatan Kepala Arsip: ketukan tiga kali kini resmi bagian arsip — bukan sebagai tradisi penambang, melainkan sebagai nama keluarga. Yang punya nama itu sudah dua: yang di atas tanah dan yang di bawah. Kami sedang bekerja supaya mereka bertemu lagi.
+
+Ketika hujan turun sore itu, murid-murid akademi panik menjaga nat-nat luar ruangan — dan mendapati kedalaman sudah lebih dulu mengurus semuanya: setiap nat dilindungi irama penutup yang membuat air hujan mengalir melewatinya seperti melewati batu biasa. "Kalian belajar cepat," kata Barim. Jawaban dari bawah datang seketika: "kalian yang mengajari."

@@ -1,6 +1,6 @@
 # Bible: The Unremembered King
 
-Terakhir diperbarui: bab 210
+Terakhir diperbarui: bab 224
 Sudah diungkap ke pembaca sampai: bab 210
 
 ## Premis
@@ -96,7 +96,7 @@ Ejaan baku. Semua nama proper di bab mana pun harus ada di sini.
 - **Identitas sebenarnya**: pengasuh/penitipan purba — menyimpan jiwa-jiwa yang dititipkan manusia sejak zaman pra-Hegemony (400 utara hanyalah lapisan atas; ada gema lebih tua, gelar kanonnya asing — lihat entri "Katalog Penyimpanan Dalam" di bawah). Hollowing = gejala pemutusan hubungan, bukan serangan.
 - **Katalog Penyimpanan Dalam (kanon ejaan, diterjemahkan sementara bab 207)**:
   - **Vess-Morath** ("Yang Menunggu Musim") — gema kelompok; menunggu musim yang tepat untuk kembali.
-  - **Kael-Uthar** ("Yang Dititip Api") — gema tunggal, terasa panas; nat obsidian lembah selatan; berasal dari zaman api upacara.
+  - **Kael-Uthar** ("Yang Dititip Api") — gema tunggal, terasa panas; nat Karveth-Ulm lembah selatan; berasal dari zaman api upacara.
   - **Ondrath-Ilm** ("Penjaga Malam Tertua") — gema tunggal paling dalam, bahasanya paling tua, jawabannya paling sabar.
 - **Nama akademi kanon**: the Veyl Akademie (julukan warga: "akademi batu" — hanya sebagai julukan lisan, bukan nama resmi).
 - **Bentuk fisik ruangnya**: 31 nat aktif membentuk lingkaran menghadap aula (konfigurasi pra-Requiem kelas tertinggi seni Listen — "kursi tamu").

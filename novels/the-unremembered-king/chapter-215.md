@@ -55,7 +55,7 @@ Dan tangan kesebelas, yang oleh Dewan ditulis "penjaga yang menyegelnya": Ashvar
 
 ---
 
-Upacara penandatanganan dilakukan di aula — di mana lagi — sepuluh hari kemudian, dan menjadi acara hukum paling tidak lazim yang pernah disaksikan Karvess: meja panjang didominasi dokumen, tapi di ujungnya ada nat obsidian yang hangat, ember air sesuai protokol api, dan teh ibu Tamma yang dialirkan tanpa henti.
+Upacara penandatanganan dilakukan di aula — di mana lagi — sepuluh hari kemudian, dan menjadi acara hukum paling tidak lazim yang pernah disaksikan Karvess: meja panjang didominasi dokumen, tapi di ujungnya ada nat Karveth-Ulm yang hangat, ember air sesuai protokol api, dan teh ibu Tamma yang dialirkan tanpa henti.
 
 Para tamu datang dari seluruh Karvess: delegasi lima negara penerus Hegemony (yang datang "hanya mengamati" tapi semua ikut menandatangani daftar hadir dengan tulisan tangan mereka sendiri — keputusan yang nanti terbukti penting secara hukum, karena tanda tangan di daftar hadir dokumen pengakuan berdaulat, menurut Maera, "secara teknis membuat kalian saksi; selamat"); utusan the Resonant Choir yang hadir tanpa jubah abunya untuk pertama kalinya dalam sejarah kunjungan Choir ke mana pun; dan para penjaga malam pensiunan yang bukunya menjadi bahan ajar akademi.
 
@@ -67,7 +67,7 @@ Ashvarok membuka the Walking Key seperlunya — cukup untuk membuat sentuhannya 
 
 Dan tangan kedua belas bukan tangan sama sekali.
 
-Sesuai protokol yang disepakati kedalaman lewat irama, blok obsidian dibawa mendekat ke dokumen oleh empat murid akademi — dan api purba zaman purba, untuk pertama kali dalam sejarah hukum dunia, memberikan TANDA TANGANNYA: satu titik bakaran kecil, bundar, sempurna, tercetak di sudut dokumen seperti meterai. Hangat. Bulat. Sabar.
+Sesuai protokol yang disepakati kedalaman lewat irama, blok Karveth-Ulm dibawa mendekat ke dokumen oleh empat murid akademi — dan api purba zaman purba, untuk pertama kali dalam sejarah hukum dunia, memberikan TANDA TANGANNYA: satu titik bakaran kecil, bundar, sempurna, tercetak di sudut dokumen seperti meterai. Hangat. Bulat. Sabar.
 
 "Notaris Dewan memeriksanya," lapor Kovan, "dan menyatakan cap itu sah secara hukum. Dia juga bertanya bagaimana cara memverifikasi kalau ada pemalsuan."
 
@@ -81,11 +81,13 @@ Tawa yang naik dari aula malam itu — tawa ribuan orang sekaligus, karena upaca
 
 ---
 
-Setelah upacara, sebelum tamu-tamu pulang, terjadi satu peristiwa kecil yang tidak masuk notula tapi masuk semua ingatan: Rina — yang dibawa ibunya menonton — berjalan terhuyung ke nat obsidian, meletakkan telapak tangan mungilnya tepat di samping cap meterai api itu, dan api menjawab dengan hangat yang pas ukuran tangan bayi.
+Setelah upacara, sebelum tamu-tamu pulang, terjadi satu peristiwa kecil yang tidak masuk notula tapi masuk semua ingatan: Rina — yang dibawa ibunya menonton — berjalan terhuyung ke nat Karveth-Ulm, meletakkan telapak tangan mungilnya tepat di samping cap meterai api itu, dan api menjawab dengan hangat yang pas ukuran tangan bayi.
 
 "Dia kenal," kata ibu Rina pelan.
 
 "Semua penitipan dikenal," kata Barim dari belakang mereka. "Yang belum semuanya kenal balik. Itu pekerjaan kita yang masih sisa."
+
+Barim mulai melaporkan malam-malam Caldrest dengan skala sendiri: "tenang", "tenang sekali", "tenang seperti ladang sesudah panen". Sela bertanya mana yang paling dia sukai. Jawabannya: "yang ketiga. Itu artinya semua orang lelah karena bekerja, bukan karena takut."
 
 ---
 
@@ -110,3 +112,7 @@ Kapur gadis itu diletakkan. Aula menunggu kalimat penutupnya yang biasa.
 Yang keluar malam itu lebih pendek dari biasanya, dan oleh karena itu lebih diingat:
 
 "Batch ditutup. Pekerjaan berlanjut. Masih ada yang harus pulang — dan sekarang dunia punya kertas resmi yang bilang: boleh."
+
+Sela memulai indeks silang baru: nama-nama yang muncul di lebih dari satu generasi cerita. Tujuannya sederhana dan besar sekaligus — membuktikan bahwa Karvess tidak pernah benar-benar lupa, cuma berhenti menyebut. Dan yang berhenti disebut bisa mulai disebut lagi kapan saja.
+
+Sela memulai indeks silang baru: nama-nama yang muncul di lebih dari satu generasi cerita. Tujuannya sederhana dan besar sekaligus — membuktikan bahwa Karvess tidak pernah benar-benar lupa, cuma berhenti menyebut. Dan yang berhenti disebut bisa mulai disebut lagi kapan saja.

@@ -29,6 +29,8 @@ Ashvarok memandang penjaga shift itu lama. Dua tahun silam orang ini mengujinya 
 
 Mereka duduk bersama lembar-lembar itu sampai teh Sela dingin dua kali, dan ketika Kovan pamit, Ashvarok menambahkan satu baris di Hourglass yang tidak berkaitan dengan angka apa pun: "Hari 266. Titik buta bisa dibeli dengan jalan kaki. Dan mungkin pendengar tertua di dunia ini bukan lawanku — hanya teman bicaraku yang sudah kehabisan lawan bicara."
 
+Papan kayu catatan teh di dapur aula kini penuh angka tulisan tangan ibu Tamma. Murid akademi yang lewat bertanya itu hitungan apa. Jawabannya dicatat murid itu di buku latihannya: "hitungan orang yang punya waktu untuk duduk. Semakin besar, semakin baik dunia kita."
+
 ---
 
 Yang tidak ia tulis di mana pun adalah pertanyaan yang tersisa darinya sendiri setelah Kovan pergi, pertanyaan yang membuatnya keluar ke udara malam dan berdiri lama menghadapi lereng timur tempat lilin-lilin Caldrest menyala.

@@ -78,6 +78,8 @@ Seorang pemimpi tua — nenek dari blok barat yang bermimpi tentang suaminya tia
 
 Nenek itu memindahkan cangkir teh ke sisi meja yang kosong. Dan mulai minggu berikutnya, setiap pemimpi di ruangan itu otomatis diseduhkan DUA cangkir: satu untuk yang hidup, satu untuk yang dititipkan. Tradisi itu tidak pernah dibahas dalam rapat. Tidak perlu. Beberapa aturan lahir sendiri kalau rumahnya sudah benar.
 
+Suatu sore Ossian datang meminjam angka catatan teh ibu Tamma untuk laporan resmi ke Spire. Ia diberikan bukunya dengan satu syarat: angka itu dilaporkan sebagai "jumlah tamu", bukan "konsumsi". Perbedaannya penting, katanya, karena laporan tentang orang tidak boleh dibaca seperti stok barang.
+
 ---
 
 Ashvarok menutup bab registri dengan entri Hourglass yang ditulisnya setelah menghadiri satu sesi lengkap sebagai tamu biasa — tanpa jabatan, tanpa Walking Key, hanya duduk di kursi paling belakang:

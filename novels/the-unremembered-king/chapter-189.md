@@ -86,3 +86,5 @@ Dan penutup terakhir bab — peristiwa kecil di hari pertama sekolah Sela sebaga
 
 Guru kelas itu menambahkan satu baris di bawah catatannya, dan kalimat ini kelak dikutip dalam pidato pelantikan kepala arsip-arsip berikutnya di seluruh Karvess:
 "Hari ini anak-anak belajar dari Sela bahwa jabatan besar tidak membuat orang jadi lain — ia hanya memberi lebih banyak meja untuk menaruh teh bagi orang lain."
+
+Kovan menemukan angka aneh di neraca pekan itu: jumlah teh yang diminum pemulang Vess-Morath naik persis sebanding dengan jumlah pertanyaan yang mereka ajukan tentang masa depan. Ia melaporkan korelasinya pada rapat dengan wajah sangat serius, dan rapat tertawa untuk pertama kalinya dalam pekan yang padat.

@@ -56,3 +56,5 @@ Dan satu adegan terakhir sebelum kafilah berangkat, yang terjadi di klinik pada 
 "Batu latihan," katanya kepada Sela yang menolong menyiapkan. "Satu per murid. Kau tahu kenapa kerikil, bukan batu besar?" Ia tidak menunggu jawaban. "Karena pendengar pemula selalu mengira harus pegang sesuatu yang penting. Padahal seni ini justru bekerja paling jujur pada hal-hal yang dunia anggap tidak penting. Kerikil tidak punya reputasi. Dia cuma ada. Itu pelajaran pertama dan terakhir sekaligus."
 
 Malam itu dua puluh dua kerikil dibagikan — dan Ashvarok yang melihat dari ambang klinik menyadari bahwa gurunya yang paling tua baru saja mengajarkan sesuatu kepadanya juga: bahwa ia sendiri, seribu tahun silang, juga pernah menjadi kerikil yang tidak punya reputasi. Hanya ada.
+
+Ashvarok menemukan surat lama di antara dokumen Hegemony: permintaan maaf yang ditulis seribu tahun silang tapi tidak pernah dikirim. Ia membacanya dua kali, lalu meletakkannya di Arsip dengan label baru: "bukti bahwa penyesalan juga butuh keberanian ekstra. Yang ini tidak sempat. Kita yang sekarang punya."

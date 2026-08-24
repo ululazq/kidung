@@ -100,3 +100,5 @@ Yang kupelajari: kedalaman tidak hanya menyimpan orang. Dia menyimpan CERITA mer
 Kesabaran Caldrest dan kesabaran Rumah ternyata senjata yang sama dari dua arah.
 
 Dan satu hal lagi, untuk halaman pribadi: delapan bulan silang aku pikir pekerjaan terbesarku adalah menjaga dunia dari hal-hal besar. Malam ini seorang penenun sembilan belas tahun mengajari aku bahwa pekerjaan terbesar adalah menuntaskan hal-hal kecil yang tertunda — satu benang biru laut pada satu waktu.
+
+Ondrath-Ilm mengirim pesan pertamanya lewat jadwal kunjungan mingguan — bukan permintaan, melainkan kabar: "malam-malam kalian sebulan ini paling tenang yang pernah kujaga. Teruskan." Pesan sependek itu dibacakan Ashvarok di rapat dua kali, karena pendengar minta diulang.

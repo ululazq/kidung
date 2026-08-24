@@ -31,6 +31,8 @@ Dan di Anthema Spire, di meja yang tidak diketahui siapa yang duduk di baliknya,
 
 Tangan tua itu membuat satu coretan di margin pribadinya, sandi dua alfabet mati, yang artinya kira-kira: "Yang ketiga sudah siap. Tinggalkan dia tumbuh."
 
+Buku catatan "Teh" itu kini punya pendamping di rak yang sama: buku "Sup", buku "Roti", dan yang terakhir — usulan Harn — buku "Pertanyaan". Isinya semua pertanyaan murid tentang kedalaman yang belum terjawab. Halaman pertamanya sudah penuh.
+
 ---
 
 Di Caldrest, kabar tertutupnya berkas sampai lewat tiga jalur dalam dua hari — Maera resmi, Ossian dengan catatan tepinya sendiri, dan Kovan yang membaca gerakan arsip Spire dari getaran surat-menyurat di jalur pos. Rapat kecil gudang perkakas malam itu tidak merayakan; mereka menginventarisasi.

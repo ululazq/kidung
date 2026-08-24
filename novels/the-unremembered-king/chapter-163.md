@@ -51,6 +51,8 @@ Dan malam itu, di kamarnya sendiri, juru tulis muda itu membuka buku catatan pri
 
 Begitulah cara kebenaran bertahan di dalam institusi yang takut padanya: bukan lewat pintu besar yang dijaga, melainkan lewat satu juru tulis yang kakeknya mengajarkan bedanya mencatat dan mengingat. Pembaca Tua, kalau saja tahu, akan senang. Ordo itu selalu bilang: rekaman yang benar adalah bentuk penjagaan yang paling awet. Mereka hanya jarang menyebut bahwa penjagaan seperti itu tidak butuh izin.
 
+Setiap malam sebelum tutup dapur, ibu Tamma menghitung sisa cangkir kotor sebagai cara mengukur hari: semakin banyak, semakin ramah hari itu. Pekan ini rekor pecah dua kali. Ia tidak mengeluh soal pencucian. Justru ia yang meminta supaya tidak ada yang membantu — "cuci piring untuk tamu adalah doa bentuk lain."
+
 ---
 
 Ossian sendiri menutup pekan itu dengan satu kunjungan yang tidak masuk jadwal resmi mana pun: rumah Tharrow.

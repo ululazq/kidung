@@ -95,6 +95,8 @@ Barim melipat surat itu. Meletakkannya di saku dada — tempat yang sama dengan 
 
 "Tambahkan satu nama di daftar utara. Bukan untuk dibaca. Supaya kedalaman tahu: yang dititipkan dia tidak hanya nyawa. Ada juga yang menitipkan hati."
 
+Ada hal yang tidak banyak diketahui warga Caldrest: ibu Tamma menyimpan satu cangkir khusus di rak atas dapur, tidak pernah dipakai. "Itu punya siapa yang belum pulang," katanya ketika ditanya. "Kalau dia naik nanti, tehnya harus langsung ada."
+
 ---
 
 Entri Hourglass malam itu ditulis Ashvarok, dan isinya menutup bab ini dengan neraca yang tidak ada di laporan mana pun:

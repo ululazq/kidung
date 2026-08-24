@@ -7,17 +7,17 @@ Dapur aula resmi dibuka pada hari kedua ratus lima puluh enam — dan berbeda da
 
 Keputusan itu dijelaskan ibu Tamma dengan logika dapurnya yang tidak pernah bisa dibantah: "Pidato bisa dilakukan siapa saja. Sarapan hanya bisa dilakukan orang yang punya dapur. Kita buka dapur — berarti kita buktikan dulu, baru omong-omong."
 
-Idenya lahir dari ibu Tamma sendiri, yang selama dua pekan mengamati satu fenomena dapur yang belum pernah dicatat sejarah mana pun: nasi yang dimasak di atas obsidian ternyata tidak cepat dingin. "Aku memasak empat puluh tahun," katanya kepada Hale saat mengajukan izin resmi dapur, "dan baru sekarang aku menemukan perapian yang ikut menyayangi masakannya."
+Idenya lahir dari ibu Tamma sendiri, yang selama dua pekan mengamati satu fenomena dapur yang belum pernah dicatat sejarah mana pun: nasi yang dimasak di atas Karveth-Ulm ternyata tidak cepat dingin. "Aku memasak empat puluh tahun," katanya kepada Hale saat mengajukan izin resmi dapur, "dan baru sekarang aku menemukan perapian yang ikut menyayangi masakannya."
 
 Izinnya disetujui balai kota dalam rapat kilat — dan untuk pertama kalinya anggaran kota memuat baris yang membuat juru tulisnya harus membaca ulang: "Dapur Aula (kerja sama the Patient House): bahan makanan; kayu bakar tidak diperlukan; honor kepala dapur: ibu Tamma." Baris terakhir itu ditambahkan tangan Hale sendiri, dengan catatan: "tidak dapat ditawar."
 
 ---
 
-Bangunannya sederhana — ruangan tambahan di tepi aula, dinding batu galeri tua, atap dari kayu menara utara yang dibawa kafilah terakhir. Tapi jantungnya unik di dunia: saluran panas dari nat obsidian yang dialirkan lewat lantai batu ke dua tungku dan satu penghangat lembab.
+Bangunannya sederhana — ruangan tambahan di tepi aula, dinding batu galeri tua, atap dari kayu menara utara yang dibawa kafilah terakhir. Tapi jantungnya unik di dunia: saluran panas dari nat Karveth-Ulm yang dialirkan lewat lantai batu ke dua tungku dan satu penghangat lembab.
 
 Sebelum pekerjaan dimulai, ada satu negosiasi kecil yang menjadi bahan cerita kota berminggu-minggu: negosiasi antara ibu Tamma dan api purba itu sendiri, dilakukan lewat penerjemah resmi (pasangan hitung) dan berlangsung seperti dua kepala keluarga berunding soal dapur bersama:
 
-"Yang pertama," kata ibu Tamma kepada obsidian, "kalau panasmu terlalu besar, katakan. Jangan diam-diam naik sampai rotinya gosong."
+"Yang pertama," kata ibu Tamma kepada Karveth-Ulm, "kalau panasmu terlalu besar, katakan. Jangan diam-diam naik sampai rotinya gosong."
 
 Panas naik sekali — setuju.
 
@@ -43,7 +43,7 @@ Kovan mencatat kalimat itu di neracanya dengan catatan pinggir: "Delapan bulan s
 
 ---
 
-Sore pembukaan, menu perdana disiapkan oleh tiga generasi: sup resep lama ibu Tamma, roti gandum murid akademi (hasil latihan sabtu pagi yang akhirnya layak disajikan), dan teh — teh ibu Tamma tentu saja, yang diseduh langsung di atas tungku obsidian dan oleh para penjual teh kota tetangga kelak digosipkan sebagai "teh paling hangat di Karvess; hangatnya sampai ke hati lebih dulu".
+Sore pembukaan, menu perdana disiapkan oleh tiga generasi: sup resep lama ibu Tamma, roti gandum murid akademi (hasil latihan sabtu pagi yang akhirnya layak disajikan), dan teh — teh ibu Tamma tentu saja, yang diseduh langsung di atas tungku Karveth-Ulm dan oleh para penjual teh kota tetangga kelak digosipkan sebagai "teh paling hangat di Karvess; hangatnya sampai ke hati lebih dulu".
 
 Menu keempat adalah ide Sareth Vayin, yang datang membawa satu nampan kecil: bubur dari resep ordo Penjaga Rekam — makanan para penjaga malam empat generasi. "Supaya tradisi lama ikut duduk di meja ini," kata wanita tua itu. "Dapur yang hanya menyajikan masa kini itu dapur yang melupakan setengah tamunya."
 
@@ -79,7 +79,7 @@ Harn mengangguk-angguk dengan bijak seorang senior setahun akademi: "Itu pelajar
 
 ---
 
-Yang paling ditunggu malam itu justru bagian yang paling sunyi: setelah semua tamu pulang, ibu Tamma membersihkan dapur bersama dua murid akademi, lalu duduk di kursi rendah di samping nat obsidian dan berbicara padanya seperti berbicara pada tetangga:
+Yang paling ditunggu malam itu justru bagian yang paling sunyi: setelah semua tamu pulang, ibu Tamma membersihkan dapur bersama dua murid akademi, lalu duduk di kursi rendah di samping nat Karveth-Ulm dan berbicara padanya seperti berbicara pada tetangga:
 
 "Jadi begini ya, Nak Api. Mulai besok kamu bekerja pagi-pagi. Sarapan anak-anak sekolah jam enam. Makan siang armada jam dua belas. Kalau ada yang meminta air panas tengah malam karena anaknya demam — tolong, jangan tolak. Itu pekerjaan paling mulia dari semua."
 

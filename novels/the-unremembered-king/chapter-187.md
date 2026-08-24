@@ -73,6 +73,8 @@ Isinya disusun bersama ibu Tamma (dapur), dokter tambang (kesehatan), Sareth (pe
 Protokol anak itu berisi lima pasal, dan pasal pertamanya menjadi prinsip yang tidak pernah dilanggar:
 "Anak tidak dipulangkan kepada dunia. Anak dipulangkan kepada ORANG — satu orang dewasa yang sudah siap, yang sudah diberitahu, yang sudah belajar name train, dan yang tidak akan menangis di depan anak itu pada hari pertama. Menangis boleh setelah anak tidur."
 
+Sela pernah meminjam buku catatan teh itu untuk arsip, dan mengembalikannya dengan satu halaman tambahan: grafik naik-turunnya angka sepanjang delapan bulan. Ibu Tamma memandang grafik itu lama, lalu berkata: "jadikan ini kalender resmi kota saja. Lebih jujur dari yang dulu."
+
 ---
 
 Sisa pekan itu dihabiskan untuk persiapan yang tidak glamor: dua puluh satu keluarga anak-anak diberi tahu lebih awal dari jadwal (pemberitahuan berjenjang versi dipercepat, dengan persetujuan Ossian dan saksi Guild), kamar-kamar lama direnovasi gotong royong, dan ibu Tamma melatih sebelas ibu dapur membuat makanan era delapan belas tahun silang — "sup yang mereka ingat harus terasa sama," katanya. "Anak tidak akan ingat wajahmu. Tapi dia akan ingat rasanya sup ibunya."

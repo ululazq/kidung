@@ -90,3 +90,5 @@ Malam itu, ketika katalog dibacakan kepada kedalaman lewat nat aula — tradisi 
 Jawaban kedalaman malam itu pendek dan tidak butuh penerjemahan: satu getar hangat yang naik dari nat, irama yang sudah dikenal semua orang sebagai "dia lebih tua dariku, dan dia mengingatkanku akan hal itu setiap kesempatan".
 
 Kovan menuliskannya di neraca dengan catatan pinggir: "Pertama kali kedalaman kami komplain soal tetangga."
+
+Ashvarok menerima kunjungan tak terjadwal: delegasi kecil dari Karven, tiga orang, datang jalan kaki dua hari hanya untuk bertanya satu hal — "bolehkah kami memasang name train kecil di pasar kami?" Ashvarok menjawab dengan pertanyaan balik: "kenapa harus izin?" Dan delegasi itu pulang dengan jawaban yang membuat mereka tertawa sepanjang jalan pulang.

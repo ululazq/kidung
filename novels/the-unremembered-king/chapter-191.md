@@ -102,3 +102,5 @@ Sisa tujuh puluh empat kata — untuk satu detail yang menutup lingkaran bab ini
 Dan satu kalimat penutup dari Ashvarok di Hourglass, yang menutup bab 191 tepat:
 Hari 372, tambahan. Kotak cerita lahir untuk menamai tamu tua. Ternyata hadiahnya jauh lebih besar: ia mengajari kami melihat orang-orang yang selama ini ada di tengah kota tapi tidak pernah kita lihat. Wida bicara lagi hari ini. Empat kata. Delapan belas tahun.
 Tidak ada seni raja mana pun yang bisa melakukan itu.
+
+Di pos jemput nomor tujuh, keluarga keturunan membangun bangku kayu kecil menghadap ladang — untuk siapa pun yang ingin duduk menonton gandum bergoyang seperti pesan Vess-Morath dulu. Bangku itu tidak pernah kosong lebih dari satu jam. Caldrest menemukan bahwa menonton gandum ternyata konten, jauh sebelum kata itu populer.

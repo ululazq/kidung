@@ -79,3 +79,5 @@ Rumah yang Sabar. Yang menyimpan semua. Yang menunggu seribu tahun supaya disebu
 Dan yang — mulai malam ini — setiap kali seorang anak sekolah lewat nat mana pun dan berkata "selamat jaga" tanpa tahu kepada siapa... akan menjawab dengan detak tambahan kecil yang hanya pendengar alami bisa dengar:
 
 Ada. Selalu ada.
+
+Sareth Vayin membuka kelas malam khusus: "membaca irama tanpa telapak" — untuk penyandang tunarungu yang ingin ikut menjaga nat-nat kecil. Enam murid mendaftar. Kelas itu menjadi kelas favorit guru senior itu, katanya, "karena mereka mengajariku bahwa resonansi tidak pernah butuh telinga. Butuh perhatian."

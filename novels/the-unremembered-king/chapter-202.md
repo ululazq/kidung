@@ -79,6 +79,8 @@ Ibu Tamma menyampaikan satu detail tambahan yang membuat Ashvarok diam lama: "Di
 
 "Ibu Tamma tidak pernah yakin," kata ibu itu, sambil mengambil teh tanpa ditawari. "Ibu Tamma cuma pernah benar."
 
+Ketika ditanya kenapa repot menghitung cangkir, ibu Tamma menjawab sambil mencuci: "soalnya sederhana, Nak. Dulu aku hitung piring yang kusendirian cuci. Sekarang aku hitung piring orang banyak. Itu semua yang perlu diketahui soal bagaimana sebuah kota sembuh."
+
 ---
 
 Ashvarok membaca laporan lengkapnya malam itu dan menulis:

@@ -106,3 +106,4 @@ Yang membuatku diam hari ini bukan putusannya — melainkan cara para pihak maka
 
 Garm mendapat katanya. Pemuda perkebunan mendapat ladangnya untuk ditaniminya sekali lagi. Vess-Morath mendapat tanahnya kembali. Dan Caldrest mendapat pelajaran: keadilan tidak selalu berarti ada yang kalah. Kadang ia berarti semua orang akhirnya dipindahkan ke tempat yang benar — termasuk yang dulu merasa sudah di tempat yang benar.
 
+Ondrath-Ilm mengirim pesan pertamanya lewat jadwal kunjungan mingguan — bukan permintaan, melainkan kabar: "malam-malam kalian sebulan ini paling tenang yang pernah kujaga. Teruskan." Pesan sependek itu dibacakan Ashvarok di rapat dua kali, karena pendengar meminta pengulangan — dan untuk pertama kalinya tidak ada yang keberatan rapat molor.

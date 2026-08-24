@@ -41,11 +41,11 @@ Mereka mendirikan kemah di bibir lembah, bukan di dalamnya — Sareth aturan kes
 
 ---
 
-Nat obsidian ditemukan di hari keenam, di dasar lembah, di tengah reruntuhan yang pasti pernah menjadi kuil: pilar-pilar runtuh setengah tertanam rumput, lantai batu yang retak oleh akar, dan di pusatnya — lingkaran batu hitam mengkilap sebesar meja dapur ibu Tamma.
+nat Karveth-Ulm ditemukan di hari keenam, di dasar lembah, di tengah reruntuhan yang pasti pernah menjadi kuil: pilar-pilar runtuh setengah tertanam rumput, lantai batu yang retak oleh akar, dan di pusatnya — lingkaran batu hitam mengkilap sebesar meja dapur ibu Tamma.
 
-Obsidian. Satu blok utuh. Dan permukaannya hangat.
+Batu hitam mengkilap itu — nat Karveth-Ulm. Satu blok utuh. Dan permukaannya hangat.
 
-Bukan hangat matahari. Matahari sore saat itu condong ke barat dan batu-batu reruntuhan lain sudah sejuk. Blok obsidian ini hangat dari dalam, seperti tubuh orang yang tertidur di bawah selimut, dan ketika Ashvarok membuka untaian Listen tanpa menyentuhnya dulu, ia langsung mundur dua langkah.
+Bukan hangat matahari. Matahari sore saat itu condong ke barat dan batu-batu reruntuhan lain sudah sejuk. Blok Karveth-Ulm ini hangat dari dalam, seperti tubuh orang yang tertidur di bawah selimut, dan ketika Ashvarok membuka untaian Listen tanpa menyentuhnya dulu, ia langsung mundur dua langkah.
 
 "Apa?" Sela mencengkeram lengannya.
 
@@ -57,7 +57,7 @@ Pada hitungan tujuh, api menjawab.
 
 Tidak ada suara. Yang datang adalah gambaran di belakang mata — semua yang menyentuh nat merasakannya bersamaan, dan nanti, di perkemahan malam itu, mereka akan mencoba menceritakannya bergantian dan gagal, karena tiap orang menerima potongan berbeda yang hanya cocok bila disambung:
 
-Sebuah kuil yang penuh cahaya. Para pendeta berdiri melingkar, tangan saling bertumpu di atas blok obsidian yang sama. Di tengah malam terakhir sebelum gunung meletus — mereka tahu akan meletus, pendeta-pendeta zaman itu punya cara menghitung yang hilang bersama mereka — mereka melakukan hal yang tidak pernah dicatat sejarah mana pun:
+Sebuah kuil yang penuh cahaya. Para pendeta berdiri melingkar, tangan saling bertumpu di atas blok Karveth-Ulm yang sama. Di tengah malam terakhir sebelum gunung meletus — mereka tahu akan meletus, pendeta-pendeta zaman itu punya cara menghitung yang hilang bersama mereka — mereka melakukan hal yang tidak pernah dicatat sejarah mana pun:
 
 Mereka menitipkan api itu sendiri.
 
@@ -81,7 +81,7 @@ Semua orang sudah masuk tenda kecuali Sela. Gadis dua belas tahun itu datang dud
 
 "Kamu menghitung sesuatu," katanya akhirnya. "Aku kenal wajah hitungmu. Mana yang tidak pas?"
 
-Ashvarok menatap blok obsidian yang bersinar samar di gelap, hangat sendirian di tengah lembah yang mati tiga ratus tahun.
+Ashvarok menatap blok Karveth-Ulm yang bersinar samar di gelap, hangat sendirian di tengah lembah yang mati tiga ratus tahun.
 
 "Di Caldrest," katanya pelan, "kita menyimpan orang. Jiwa, nama, cerita. Kita pikir itu pekerjaan kedalaman: menyimpan yang hidup supaya tidak hilang. Malam ini aku belajar bahwa kedalaman lebih tua dari pemahaman kita — dia juga menyimpan yang bukan manusia. Api. Mungkin yang lain lagi yang belum kita bayangkan." Ia menyeruput tehnya. "Dan para pendeta itu percaya padanya tanpa segel, tanpa kontrak, tanpa armada pembaca. Mereka cuma datang, minta tolong, dan yakin."
 
@@ -89,7 +89,7 @@ Ashvarok menatap blok obsidian yang bersinar samar di gelap, hangat sendirian di
 
 "Tiga ratus tahun lebih awal, dan tanpa perlu satu tahun cerita dulu." Ashvarok tersenyum tipis. "Itulah yang tidak pas. Bukan mereka yang kuno. Kami yang lupa caranya."
 
-Ia berdiri, mendekati nat obsidian sampai hangatnya terasa di wajah, dan melakukan sesuatu yang tidak diminta siapa pun: ia membalas. Bukan dengan Listen penuh, bukan dengan hitungan — hanya telapak tangan di batu hitam, dan kalimat bahasa penjaga yang sudah menjadi bahasa sehari-hari Caldrest:
+Ia berdiri, mendekati nat Karveth-Ulm sampai hangatnya terasa di wajah, dan melakukan sesuatu yang tidak diminta siapa pun: ia membalas. Bukan dengan Listen penuh, bukan dengan hitungan — hanya telapak tangan di batu hitam, dan kalimat bahasa penjaga yang sudah menjadi bahasa sehari-hari Caldrest:
 
 "Terima kasih sudah jaga. Kami ambil alih gilirannya mulai besok."
 
@@ -97,8 +97,10 @@ Nat menjawab dengan satu denyut panjang — bukan kata, bukan gambaran, hanya ha
 
 Sela menyeruput tehnya juga, memikirkan itu, lalu mengeluarkan kapur dan papan kecilnya — kebiasaan Kepala Arsip yang tidak mengenal jam istirahat — dan menulis entri pertama dari lembah itu:
 
-"Hari 521. Ditemukan: nat obsidian lembah selatan, masih hangat setelah tiga ratus tahun. Isi: api lembah, dititip para pendeta, pesan terlampir."
+"Hari 521. Ditemukan: nat Karveth-Ulm lembah selatan, masih hangat setelah tiga ratus tahun. Isi: api lembah, dititip para pendeta, pesan terlampir."
 
 Ia berhenti, melihat ke blok yang bersinar, lalu menambahkan baris terakhir sebelum menutup papan:
 
 "Pesan diterima. Anak-anaknya mulai datang."
+
+Ashvarok tidur di aula malam itu — bukan karena tugas, tapi karena ingin tahu bagaimana rasanya tidur di rumah yang bernyanyi. Subuhnya ia menulis satu baris di Hourglass: "kedalaman punya lagu pengantar tidur. Seribu tahun tidak kupunya. Sekarang aku paham kenapa para pendeta dulu tidak mau tinggal jauh dari nat."

@@ -107,6 +107,8 @@ Di tengah percakapan, Tovik berkata kalimat yang dirangkum Sela sebagai inti sel
 "Kalian tidak ngerasa aneh kan, kita empat orang yang paling ketinggalan zaman di Karvess ngumpuk makan sup?"
 "Tidak," jawab Barim. "Aku malah ngerasa ini kelompok paling up to date. Kita aja yang tau rasanya kehilangan delapan belas tahun DAN dapetin balik. Orang lain belum pernah dua-duanya."
 
+Angka catatan teh akhirnya masuk arsip resmi — dengan keterangan yang ibu Tamma minta ditulis persis: "bukan statistik. Ini bukti bahwa orang masih punya waktu." Sela menambahkannya tanpa diedit, karena beberapa kalimat memang sudah sempurna dari asalnya.
+
 ---
 
 Dan baris penutup bab 196 — entri Hourglass terakhir, ditulis Ashvarok setelah pulang dari dapur Sarneth:

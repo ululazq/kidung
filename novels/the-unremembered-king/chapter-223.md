@@ -7,7 +7,7 @@ Minggu pertama setelah pemulangan Vess-Morath adalah minggu yang oleh Arsip Cald
 
 Karena kenyataannya: seratus petani zaman purba yang pulang ke dunia modern tidak langsung bahagia. Beberapa dari mereka mengalami apa yang dokter tambang sebut "kelelahan kenangan" — tubuh pulih, tapi pikiran masih mengolah delapan belas tahun yang tertunda. Seorang petani berdiri di tepi ladangnya sendiri selama satu jam penuh tanpa masuk. Seorang perempuan bertanya berulang kali apakah suaminya benar-benar sudah tidak ada di dalam kedalaman — bukan karena ragu pada jawabannya, tapi karena jiwanya belum selesai percaya.
 
-Dan Caldrest merespons dengan cara yang membuat Barim berkata: "Inilah bedanya kota yang sudah belajar dengan kota yang baru belajar": mereka tidak memaksa kesembuhan. Protokol penyesuaian ditulis dalam dua hari — bukan protokol medis, melainkan protokol KEMANUSIAAN: setiap pemulang diberi hak untuk diam. Diberi hak untuk menolak keramaian. Diberi hak untuk datang ke dapur aula tengah malam dan hanya duduk dekat nat obsidian tanpa bicara dengan siapa pun.
+Dan Caldrest merespons dengan cara yang membuat Barim berkata: "Inilah bedanya kota yang sudah belajar dengan kota yang baru belajar": mereka tidak memaksa kesembuhan. Protokol penyesuaian ditulis dalam dua hari — bukan protokol medis, melainkan protokol KEMANUSIAAN: setiap pemulang diberi hak untuk diam. Diberi hak untuk menolak keramaian. Diberi hak untuk datang ke dapur aula tengah malam dan hanya duduk dekat nat Karveth-Ulm tanpa bicara dengan siapa pun.
 
 Ibu Tamma menambahkan pasalnya sendiri: "Dan dapur tidak pernah tutup. Sup selalu hangat. Tidak ada aturan soal jam makan bagi orang yang waktunya delapan belas tahun tertunda."
 

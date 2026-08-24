@@ -41,6 +41,9 @@ Ossian Vael — pejabat yang tidak pernah kehilangan wajah di hadapan siapa pun 
 
 "Aku takut padamu karena kamu berbahaya," kata Ashvarok. "Dan kamu masih berbahaya. Tapi sejak malam kau mengeksekusi penutupan dan bangun besoknya tetap datang bekerja mengakui hitunganmu sendiri — aku berhenti membacamu sebagai ancaman dan mulai membacamu sebagai penjaga yang salah metode." Jeda. "Metodenya bisa diganti. Kepeduliannya tidak bisa diajarkan. Kamu punya yang kedua sejak awal. Itu kenapa."
 
+Ibu Tamma punya teori soal angka cangkir: setiap tamu baru menambah dua sampai tiga cangkir per pekan — satu untuknya, satu untuk rasa penasaran, satu lagi untuk datang lagi. Teori ini belum terverifikasi arsip, tapi sudah dijahit di celemeknya.
+
+
 ---
 
 Sorenya, tanpa dijadwalkan, dua pengunjung lagi datang satu per satu ke halaman gudang, karena Caldrest memiliki radar untuk orang yang sedang menggali luka: pertama Maera Tull dengan kotak timbungnya — "Lot Vosk bilang ada cerita utara hari ini. Aku bawa salinan arsip utara milik Guild; mungkin cocok dengan daftarmu" — lalu, lebih pelan, lebih tua, Tharrow, yang berdiri di ambang halaman dengan kotak kain di tangannya.

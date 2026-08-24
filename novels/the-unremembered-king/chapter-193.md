@@ -103,3 +103,5 @@ Dan penutup terakhir — satu baris dari Sela di bawah entri kakaknya, kapur bir
 Sisa lima puluh satu kata — untuk hal yang paling sederhana: pekan berikutnya, ayah dari daftar prioritas pertama datang ke Caldrest. Pria tua itu, yang delapan belas tahun mengirim daftar pertanyaan tanpa pernah berkabung, duduk di meja panjang gudang perkakas dan bertanya satu hal saja:
 "Kapan anakku bisa lihat wajah aku lagi?"
 Dan untuk pertama kalinya, jawabannya bisa ditulis di neraca dengan angka: tiga puluh hari. Protokol sudah siap. Semua tinggal menunggu.
+
+Ibu Tamma akhirnya mengizinkan murid akademi memasak di dapurnya sendiri — dengan syarat satu: resep apa pun yang dipakai harus dicatat dan dinamai penciptanya. Dalam sebulan dapur akademi punya dua puluh resep bernama, dan satu di antaranya — "roti Harn yang sedikit hangus" — justru paling laku di pasar timur.

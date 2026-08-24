@@ -111,3 +111,4 @@ Di nat-nat ladang, kedalaman mencatat panen pertama itu dengan irama yang sudah 
 
 Dan Vess-Morath menyanyi bersama mereka — bukan lagi dari jauh, bukan lagi samar-samar. Suaranya naik dari tanah ladang yang sudah resmi menjadi miliknya, dan suara itu, kata murid-murid akademi, "bukan suara gema menunggu lagi. Suara petani yang melihat musimnya datang."
 
+Harn lulus ujian tingkat dua dengan nilai tertinggi angkatannya — dan tema ujiannya: "analisis struktur name train tiga generasi". Panitia memberi nilai sempurna dengan catatan pinggir: "subjek ini tidak belajar dari buku. Dia belajar dari keluarganya. Itu lebih sulit dan lebih penting."

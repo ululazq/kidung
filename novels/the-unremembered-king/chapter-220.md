@@ -18,7 +18,7 @@ Gladi besar dilakukan pada sore keempat — seratus orang (warga mengisi pos kos
 Hasil gladi menemukan enam masalah yang tidak akan pernah terlihat di atas kertas:
 
 Pos tujuh dan dua belas: tertukar lagunya — diperbaiki dengan memindahkan penanda batu.
-Pos tiga puluh satu: terlalu dekat dengan nat obsidian jalur panas, suara tenggelam — dibuat penghalang batu pendam.
+Pos tiga puluh satu: terlalu dekat dengan nat Karveth-Ulm jalur panas, suara tenggelam — dibuat penghalang batu pendam.
 Tiga keluarga keturunan: ternyata tidak sanggup menyanyi sendiri karena tangis — digabungkan ke pos tetangga dengan aturan "pos kembar".
 Dan temuan kelima, yang membuat Sela harus menambah pasal: beberapa pos ternyata berdiri di atas akar pohon-pohon tua — dan akar itu MENJAWAB name train juga, ikut menyanyi pelan, sampai-sampai lagu bercampur.
 
@@ -122,3 +122,5 @@ Seratus lilin menyala di ladang. Seratus pos menunggu. Satu pintu akan terbuka.
 Selamat jaga, Rumah. Besok kita kerja sama.
 
 Dan dari bawah, hangat menjawab — irama yang sudah dikenal semua orang Caldrest, irama yang artinya tidak perlu diterjemahkan lagi: selamat jaga juga. Sampai besok. Sampai seratus hari setelahnya. Sampai selamanya.
+
+Malam itu Harn menemukan kebiasaan barunya: menggambar peta nat-nat kecil yang tersebar di Caldrest — yang mana sudah bersahutan, yang mana belum. Peta itu ia tempel di dinding kamarnya dan diperbarui tiap pekan. "Ini bukan hobi," katanya ketika ditangkap basah Sela. "Ini pemetaan strategis." Sela meminjamnya untuk arsip dan tidak pernah mengembalikannya.
