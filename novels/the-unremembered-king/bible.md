@@ -1,7 +1,7 @@
 # Bible: The Unremembered King
 
-Terakhir diperbarui: bab 260
-Sudah diungkap ke pembaca sampai: bab 210
+Terakhir diperbarui: bab 265
+Sudah diungkap ke pembaca sampai: bab 265
 
 ## Premis
 
@@ -77,6 +77,9 @@ Ejaan baku. Semua nama proper di bab mana pun harus ada di sini.
 | Hollowing | Kebocoran Vel-Ghora: silent zone; nama korban terhapus dari ingatan orang |
 | the Hollowed | Korban Hollowing yang hidup tapi tak lagi diingat siapa pun |
 | Murmur / Voice / Chorus / Anthem / Requiem | Tangga kemampuan Resonance, terendah ke tertinggi |
+| Vhal-Duren | Menara jaga era pra-Hegemony di dataran tinggi antara Caldrest dan Spire; tak tercatat peta Liberation; reruntuhan + seam pengikat ketujuh |
+| Seam Saksi / seam pengikat ketujuh | Batu bundar sebesar meja di reruntuhan Vhal-Duren; menyimpan SUARA (bukan jiwa); saksi hidup malam Pembakaran Nama; interval detak 3 detik; luka sunyi presisi sisi utara (satu nada lagunya dicuri era pemenang); sopan, jenaka, langganan pertama: tiga kambing gunung |
+| Pembakaran Nama | Malam Ashvarok membakar namanya untuk menjadi segel; lima panglima gugur; versi resmi sejarah vs versi batu (makan malam terakhir, kalimat panglima termuda: "minimal kamu tidak lapar waktu menguburkan kami") |
 | orphan murmur | Klasifikasi arsip baru (diciptakan bab 124) untuk gema yang tidak bisa dipetakan ke tradisi mana pun; berkasnya dipegang Shift Guard khusus |
 | Pembaca Tua | Jabatan arsip tertinggi the Resonant Choir di Anthema Spire; penjaga "rekaman kematian api"; identitas individunya dirahasiakan bahkan dari Dewan; berminat pada riset lima panglima the Long Dusk. NAMA JABATAN TETAP BAHASA INDONESIA (keputusan kanon): gelar ordo ritual internal Choir, sengaja dibedakan dari gelar birokrasi sipil yang wajib Inggris (Assayer, Overseer, dll.) — jangan diterjemahkan ke "the Old Reader" |
 
@@ -252,6 +255,13 @@ Catatan bab 28: Maera menyelidiki runtuhan — penyangga blok 14 bertahan dengan
 | 29 | Hari 34 malam | gudang perkakas tingkat 2 | Renn/Ashvarok, Brannoc, Maera Tull, Sela |
 
 Catatan bab 29: papan pengumuman — distrik timur jadi zona terbatas, tim khusus bersertifikat Choir masuk. Jendela serangan: subuh–sore sebelum cap resmi. Rencana 3 cerita resmi: Brannoc di permukaan, Maera menyerahkan laporan + merekam penyalahan klaim dgn alat Guild, Ashvarok ambil data dasar via lorong B. Peringatan Brannoc: kalau gagal, ia akan 'mengenali' Renn sbg penyelundup (suara tidak goyah). Status: bertahan → inisiatif.
+
+| 261 | Hari 731+2 | barak utara, Caldrest | Ashvarok-Renn, Sela, ibu Tamma; Kovan, Barim, nat lorong |
+
+Catatan bab 261: lanjutan halaman terpotong ditemukan di balik buku pajak Hegemony; nat tua memutar detak jantung Renn ("kunci harus pulang ke gilirannya"); aturan dapur: tidak memutuskan apa pun di malam yang sama.
+| 262-265 | Hari 731+4 s.d. +12 | jalur penggembala timur → reruntuhan Vhal-Duren | ekspedisi: Ashvarok-Renn, Sela, Kovan, Barim |
+
+Catatan bab 262-265: seam ketujuh ditemukan hidup; luka sunyi presisi (nada lima panglima dicuri, diduga di arsip Hegemony barak); laporan pertama saksi dibacakan; surat anak-anak 12 cabang minta cerita asli raja abu-abu.
 
 Jarak tempuh antar lokasi: Caldrest ke Anthema Spire = 9 hari kafilah; melintasi Karvess utara-selatan = 2 bulan jalan darat.
 
@@ -693,6 +703,10 @@ Catatan bab 150 (KLIMAKS JENDELA, POV Ashvarok): GEMPA GEMA SERENTAK jam ketiga 
 | 13 | Surat penawaran kasus besar untuk Maera disiapkan (belum dikirim) | belum (bab 21: Ossian tiba, dua agenda bertabrakan) |
 | 13 | Arsip lantai 38: tujuh seam pengikat, satu adalah "saksi"; halaman lanjutan terpotong | belum (bab 23) |
 | 13 | Instruksi ke Tharrow: faktor tak dikenal jangan diganggu; laporan bulanan | belum (bab 26: Tharrow melapor Ossian) |
+| 13 | Tujuh seam pengikat besar; satu adalah "saksi"; halaman terpotong | ditembakkan bab 261-262 (seam ketujuh ditemukan di Vhal-Duren) |
+| 261 | Nada lagu malam Pembakaran Nama dicuri pemenang — diduga di arsip Hegemony kotak timah di sudut kamar barak | belum (rencana: batch 266-270) |
+| 262 | Kalimat Ashvarok kepada malam saat Pembakaran Nama (tersimpan utuh di seam saksi, belum dibacakan kepada siapa pun) | belum (~batch 271-275: dibacakan setelah anak-anak selesai menulis) |
+| 265 | Janji: cerita lengkap raja abu-abu dibacakan dengan sup hadir | belum |
 | 14 | the Hollowed pertama: penambang regu lain hidup tapi tanpa nama (baris ke-6 tak terbaca) | belum (bab ~245: tema "penjaga dikenal") |
 | 14 | Keputusan: tutup titik bocor malam ini dengan the Walking Key | ditembakkan bab 15 |
 | 16 | Daftar belakang Sela ("hal yang tidak berubah") + janji menunggu pengakuan | belum (bab ~245: Sela tahu dan tetap memilihnya) |
