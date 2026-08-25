@@ -58,7 +58,7 @@ Di kereta pulang, rombongan hampir sepenuhnya diam — kelelahan jenis khusus or
 
 Yang memecah keheningan adalah ibu Tamma, yang sepanjang perjalanan memasak, memberi makan, menduduki yang menangis, dan sekarang duduk dengan pancinya di pangkuan seperti perisai yang sudah menyelesaikan tugasnya:
 
-"Aku pernah bilang ke kalian," katanya, menatap jalan di depan, "bahwa dunia diselamatkan orang biasa yang bertanya 'kamu sudah makan' setiap hari." Ia mengelap pancinya sekali, pelan. "Hari ini aku belajar lanjutannya. Kadang pertanyaannya harus didengarkan JAWABANNYA DULU. Berhari-hari. Tanpa membela diri."
+"Aku pernah bilang ke kalian," katanya, menatap jalan di depan, "bahwa dunia diselamatkan orang biasa yang bertanya 'kamu sudah makan' setiap hari." Ia mengelap pancinya sekali, pelan. "Hari ini aku belajar lanjutannya. Kadang pertanyaannya harus didengarkan jawabannya dulu. Berhari-hari. Tanpa membela diri."
 
 Ia meletakkan pancinya, menutup matanya, dan menambahkan kalimat yang oleh Sela ditulis di halaman terakhir laporan misi pesisir:
 
@@ -111,7 +111,7 @@ Hening panjang. Dan yang menjawab bukan Ashvarok-Renn.
 
 Ibu Tamma.
 
-"Pertanyaan bagus," katanya. "Jawaban jujur: kalau kalian hanya butuh meja makan, kalian sudah lebih maju dari semua kota. Kalian menjaga nama tanpa nat, tanpa arsip, tanpa Dana — pakai kapur dan disiplin hati." Ia memandang papan hitam itu lama. "Yang bisa kami bawa bukan sistem. Sistem kalian sudah jalan seratus tahun dan bekerja. Yang bisa kami bawa hanya ini: janji bahwa mulai Hari Utara depan, dua ratus empat belas nama itu DIBACAKAN bersama 400 jiwa utara dan 214 korban pesisir lainnya — dibacakan oleh murid-murid Sekolah Mendengar yang datang ke sini BELAJAR cara kalian menjaganya."
+"Pertanyaan bagus," katanya. "Jawaban jujur: kalau kalian hanya butuh meja makan, kalian sudah lebih maju dari semua kota. Kalian menjaga nama tanpa nat, tanpa arsip, tanpa Dana — pakai kapur dan disiplin hati." Ia memandang papan hitam itu lama. "Yang bisa kami bawa bukan sistem. Sistem kalian sudah jalan seratus tahun dan bekerja. Yang bisa kami bawa hanya ini: janji bahwa mulai Hari Utara depan, dua ratus empat belas nama itu dibacakan bersama 400 jiwa utara dan 214 korban pesisir lainnya — dibacakan oleh murid-murid Sekolah Mendengar yang datang ke sini belajar cara kalian menjaganya."
 
 "Belajar? Dari kami?"
 

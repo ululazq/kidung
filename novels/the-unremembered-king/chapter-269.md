@@ -82,7 +82,7 @@ Yang pertama: Gorvel — murid tertua Sekolah Mendengar, penjaga catatan nat-gun
 
 *Kami mendengar dari gunung bahwa lagu sahabat kami sudah pulang. Ibu-ibu Vel-Morra menenun makan malam itu dari cerita ibu kami yang mendengar dari neneknya yang melihatnya sendiri. Satu-satunya makan malam dalam sejarah dunia yang digambar dua kali: sekali oleh saksi batu, sekali oleh saksi perempuan.*
 
-*Tenunan ini untuk digantung DI SAMPING kain Lompa. Supaya malam itu ada dua versi yang benar, dan keduanya sama-sama memuat sup.*
+*Tenunan ini untuk digantung di samping kain Lompa. Supaya malam itu ada dua versi yang benar, dan keduanya sama-sama memuat sup.*
 
 Lompa, menerima kain itu di gerbang, mengukurnya, mencocokkan aksara tenunnya dengan miliknya sendiri, dan berkata kepada Gorvel: "Katakan pada ibu-ibu Tanah Tinggi, mereka menenun seperti orang yang pernah melihat langsung." Lalu, setelah Gorvel berlalu: "Karena mereka memang begitu."
 

@@ -43,11 +43,11 @@ Sela membaca kedua arsip itu berhadapan, bolak-balik, tiga kali.
 
 Lalu ia berkata hal yang membuat laki-laki tua itu — penjaga rekaman kematian api, pemegang diam empat generasi — harus duduk:
 
-"Bukan jalan keluar yang tidak dipakai. Jalan keluar yang DITOLAK." Ia menunjuk irama lagu yang ia hafal, bagian setelah sahabat. "Di sini. Setelah bagian sahabat, ada potongan irama langkah lima orang — Kovan menghitungnya: arahnya MENURUN, menuju gerbang, bukan naik ke medan. Mereka turun ke gerbang malam itu. Semuanya. Dan mereka berbalik sendiri sebelum sampai."
+"Bukan jalan keluar yang tidak dipakai. Jalan keluar yang ditolak." Ia menunjuk irama lagu yang ia hafal, bagian setelah sahabat. "Di sini. Setelah bagian sahabat, ada potongan irama langkah lima orang — Kovan menghitungnya: arahnya menurun, menuju gerbang, bukan naik ke medan. Mereka turun ke gerbang malam itu. Semuanya. Dan mereka berbalik sendiri sebelum sampai."
 
 "Mengapa?"
 
-"Karena kalimat raja kepada malam itu." Sela menutup gulungannya. "Kami pikir kalimat itu hanya pesan untuk segel. Bukan. Kami salah baca urutannya. Kalimat itu diucapkan SEBELUM mereka turun. Raja mereka minta mereka pergi. Lima panglima itu turun ke gerbang... mendengar pintunya ditutup atas nama mereka sendiri... dan memilih balik."
+"Karena kalimat raja kepada malam itu." Sela menutup gulungannya. "Kami pikir kalimat itu hanya pesan untuk segel. Bukan. Kami salah baca urutannya. Kalimat itu diucapkan sebelum mereka turun. Raja mereka minta mereka pergi. Lima panglima itu turun ke gerbang... mendengar pintunya ditutup atas nama mereka sendiri... dan memilih balik."
 
 Ruang arsip itu sunyi lama.
 
@@ -55,7 +55,7 @@ Ruang arsip itu sunyi lama.
 
 Ia bangkit, mengambil gulungan-gulungan lain, dan meletakkannya seluruhnya di depan Sela.
 
-"Bawakan salinannya semua. Jabatan ini diam karena tidak boleh bicara. Tapi tidak ada pasal yang melarangnya MENYALIN."
+"Bawakan salinannya semua. Jabatan ini diam karena tidak boleh bicara. Tapi tidak ada pasal yang melarangnya menyalin."
 ---
 
 Penyalinan berlangsung tiga hari.
@@ -64,7 +64,7 @@ Sela menyalin dengan tangan sendiri — aturan arsip yang tidak tertulis: salina
 
 "Kenapa biara?" tanya Sela di hari kedua. "Kau bisa bekerja di Spire. Arsip terbesar Karvess."
 
-"Karena Spire menyimpan arsip untuk DIJAWAB," kata laki-laki tua itu. "Setiap dokumen di sana menunggu pembaca yang akan bertanya. Di sini, arsipku menunggu tanpa janji dijawab. Ada pekerjaan yang hanya bisa dilakukan orang yang sudah damai dengan kemungkinan bahwa dia tidak akan pernah didengar." Ia mengangguk ke arah gulungan-gulungan itu. "Empat generasi memilih jalan ini. Aku hanya generasi yang kebagian akhirnya."
+"Karena Spire menyimpan arsip untuk dijawab," kata laki-laki tua itu. "Setiap dokumen di sana menunggu pembaca yang akan bertanya. Di sini, arsipku menunggu tanpa janji dijawab. Ada pekerjaan yang hanya bisa dilakukan orang yang sudah damai dengan kemungkinan bahwa dia tidak akan pernah didengar." Ia mengangguk ke arah gulungan-gulungan itu. "Empat generasi memilih jalan ini. Aku hanya generasi yang kebagian akhirnya."
 
 "Apa rasanya?"
 
@@ -78,7 +78,7 @@ Di malam ketiga, sebelum tidur, Sela menulis surat ke rumah — jalur nat pos, s
 
 *Kak, Bu Tamma, semua.*
 
-*Arsip Choir ternyata setuju dengan arsip batu di enam dari tujuh perbedaan. Yang ketujuh lebih besar dari semua dugaan kita: lima panglima DIBERI pintu keluar malam itu, dan memilih kembali. Ini akan mengubah cara dunia membaca lagunya — lagi.*
+*Arsip Choir ternyata setuju dengan arsip batu di enam dari tujuh perbedaan. Yang ketujuh lebih besar dari semua dugaan kita: lima panglima diberi pintu keluar malam itu, dan memilih kembali. Ini akan mengubah cara dunia membaca lagunya — lagi.*
 
 *Dan aku belajar sesuatu yang mau kutitipkan ke arsip pribadiku: diam empat puluh tahun itu bukan penantian pasif. Itu pekerjaan. Dia merawat kebenaran seperti kami merawat sup — panasnya dijaga, tak boleh mendidih, tak boleh dingin.*
 
@@ -93,7 +93,7 @@ Hari keempat, sebelum berangkat, Pembaca Tua menemani Sela sampai gerbang biara 
 
 Di ambang gerbang, ia menyerahkan benda terakhir: segel lilin putih-abu dengan jahitan tin, lambang jabatan Pembaca Tua — stempel resmi yang selama seribu tahun dipakai menyegel rekaman kematian api.
 
-"Jabatan ini akan selesai bulan depan. Penerusnya sudah ditunjuk dan sudah belajar semua yang bisa diajarkan." Ia meletakkan stempel itu di tangan Sela. "Yang satu-satunya yang belum diajarkan adalah bagian ini: kapan harus BERHENTI diam. Itu tidak bisa diajarkan. Itu harus diserahkan oleh orang yang sudah pernah melakukannya."
+"Jabatan ini akan selesai bulan depan. Penerusnya sudah ditunjuk dan sudah belajar semua yang bisa diajarkan." Ia meletakkan stempel itu di tangan Sela. "Yang satu-satunya yang belum diajarkan adalah bagian ini: kapan harus berhenti diam. Itu tidak bisa diajarkan. Itu harus diserahkan oleh orang yang sudah pernah melakukannya."
 
 "Aku tidak bisa menerima stempel jabatan Choir," kata Sela. "Aku arsiparis Karvess."
 
@@ -120,11 +120,11 @@ Di sudut ruangan ada kotak kayu kecil tanpa segel. Di dalamnya: dua belas gulung
 
 Ia mengeluarkan gulungan terakhir — tulisannya sendiri, ditulis empat puluh tahun silang saat ia baru memegang jabatan:
 
-*Pada pemegang berikutnya: aku umur dua puluh tiga saat menulis ini dan percaya aku akan menemukan jawaban perbedaan nomor lima dalam sepuluh tahun. Aku salah. Tapi aku baru mengerti sesuatu yang tidak diajarkan siapa padaku: jabatan diam ini bukan pekerjaan mencari jawaban. Ini pekerjaan MENJAGA PERTANYAANNYA supaya tidak hilang — karena jawaban bisa salah, jawaban bisa dipalsukan, tapi pertanyaan yang benar tidak pernah usang.*
+*Pada pemegang berikutnya: aku umur dua puluh tiga saat menulis ini dan percaya aku akan menemukan jawaban perbedaan nomor lima dalam sepuluh tahun. Aku salah. Tapi aku baru mengerti sesuatu yang tidak diajarkan siapa padaku: jabatan diam ini bukan pekerjaan mencari jawaban. Ini pekerjaan menjaga pertanyaannya supaya tidak hilang — karena jawaban bisa salah, jawaban bisa dipalsukan, tapi pertanyaan yang benar tidak pernah usang.*
 
 *Kotak kecil ini kutitipkan kepadamu. Isinya pertanyaan-pertanyaanku. Jangan dijawab. Diteruskan.*
 
-Sela membaca dua belas gulungan itu di bawah lampu minyak, satu per satu. Pertanyaan-pertanyaan empat generasi penjaga diam: kenapa istana mencatat gerbang ditutup jam kesembilan kalau lagunya masih berbunyi. Siapa yang memesan makan malam terakhir lima panglima — nama apa yang tertulis di nota dapurnya. Kenapa nada yang diselundupkan itu justru potongan SAHABAT, bukan potongan raja. Dan yang terakhir, ditulis tangan gemetar pemegang tertua:
+Sela membaca dua belas gulungan itu di bawah lampu minyak, satu per satu. Pertanyaan-pertanyaan empat generasi penjaga diam: kenapa istana mencatat gerbang ditutup jam kesembilan kalau lagunya masih berbunyi. Siapa yang memesan makan malam terakhir lima panglima — nama apa yang tertulis di nota dapurnya. Kenapa nada yang diselundupkan itu justru potongan sahabat, bukan potongan raja. Dan yang terakhir, ditulis tangan gemetar pemegang tertua:
 
 *Kalau suatu hari semuanya terjawab... apakah jabatan ini boleh pensiun dengan tenang?*
 

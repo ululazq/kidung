@@ -49,7 +49,7 @@ Di tepi api kecil, Ashvarok-Renn memandang nyala itu tanpa kedip. Renn bangun di
 
 "'Kalimat terakhir mereka sebelum turun ke medan, oleh yang termuda dari lima panglima, tertuju kepada sahabat mereka sendiri — raja mereka — dan bunyinya:'"
 
-Irama yang keluar berikutnya bukan terjemahan Barim. Batu bundar itu memutarkan SUARANYA — asli, tersimpan sempurna selama sepuluh abad, suara perempuan muda yang lelah tapi masih bisa bercanda:
+Irama yang keluar berikutnya bukan terjemahan Barim. Batu bundar itu memutarkan suaranya sendiri — asli, tersimpan sempurna selama sepuluh abad, suara perempuan muda yang lelah tapi masih bisa bercanda:
 
 *"Makan yang banyak, Raja. Kalau kita harus dikuburkan duluan daripada kamu... minimal kamu tidak lapar waktu menguburkan kami."*
 
@@ -121,7 +121,7 @@ Mereka bercerita sampai larut.
 
 Di tengah cerita tentang demo sup dan tiga kambing langganan, Wida tertawa sampai harus memegang pagar posnya. Di bagian makan malam lima panglima, dapur pos jemput diam dan ibu posnya mengelap tangan ke apron berkali-kali tanpa sadar.
 
-Dan ketika Sela mencapai bagian kalimat perempuan panglima termuda — *minimal kamu tidak lapar waktu menguburkan kami* — ibu pos itu bangkit tanpa bicara, masuk ke dapurnya, dan keluar membawa mangkuk sup yang ia letakkan di depan Ashvarok-Renn tanpa komentar apa pun.
+Dan ketika Sela mencapai bagian kalimat perempuan panglima termuda — soal makan yang banyak sebelum menguburkan — ibu pos itu bangkit tanpa bicara, masuk ke dapurnya, dan keluar membawa mangkuk sup yang ia letakkan di depan Ashvarok-Renn tanpa komentar apa pun.
 
 Ashvarok-Renn memandang mangkuk itu lama.
 

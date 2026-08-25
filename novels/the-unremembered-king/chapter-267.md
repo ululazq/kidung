@@ -96,7 +96,7 @@ Tanggal ditetapkan dalam sepuluh menit — hari pasar besar, supaya orang kamp b
 
 Menu ditetapkan ibu Tamma bersama Tami-Tomi dalam waktu yang mengejutkan semua ahli logistik: sup kamp pertama, roti akademi, bubur ordo Sareth, dan sup ayam Vessia Vael sebagai menu penutup — empat masakan yang masing-masing mewakili satu era cerita ini. "Orang mengingat malam besar lewat perutnya," kata ibu Tamma. "Sejarah yang masuk lewat telinga saja hilang pagi harinya."
 
-Lompa mengumumkan tenunan pembacaan sudah selesai: kain sepanjang dua puluh langkah, ditenun sembilan tangan dari empat wilayah, memuat seluruh lagu dalam aksara tenun — akan digantung melingkari aula sehingga siapa pun yang duduk di mana pun bisa MEMBACA lagu itu sambil mendengarkannya.
+Lompa mengumumkan tenunan pembacaan sudah selesai: kain sepanjang dua puluh langkah, ditenun sembilan tangan dari empat wilayah, memuat seluruh lagu dalam aksara tenun — akan digantung melingkari aula sehingga siapa pun yang duduk di mana pun bisa membaca lagu itu sambil mendengarkannya.
 
 Ossian menyampaikan kerangka hukumnya dengan hati-hati: malam itu bukan sidang. Tidak ada putusan. Setiap wilayah, faksi, dan tradisi hadir sebagai pendengar dengan hak yang sama: mendengar sampai habis, termasuk bagian yang membuat marah. Hak menjawab diberikan setelahnya, tanpa batas waktu, lewat saluran nat masing-masing.
 

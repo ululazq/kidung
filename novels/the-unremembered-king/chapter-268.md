@@ -27,7 +27,7 @@ Dan di sebuah biara kecil Choir di lereng barat, tujuh orang jubah abu mengundur
 
 Ossian bekerja seperti mesin yang sudah lama digilingi kasus ini dalam mimpinya.
 
-Dalam enam hari, kerangka hak menjawab disosialisasikan ke semua wilayah: setiap suara — marah, sedih, menolak, ragu — akan diterima lewat jalur nat masing-masing, dicatat arsiparis regional, dan DIBACAKAN di aula pada malam pembacaan, sebelum cerita versi batu dimulai. Tidak ada suara yang diseleksi. Tidak ada suara yang dijawab langsung. Semua akan didengar oleh seribu kursi.
+Dalam enam hari, kerangka hak menjawab disosialisasikan ke semua wilayah: setiap suara — marah, sedih, menolak, ragu — akan diterima lewat jalur nat masing-masing, dicatat arsiparis regional, dan dibacakan di aula pada malam pembacaan, sebelum cerita versi batu dimulai. Tidak ada suara yang diseleksi. Tidak ada suara yang dijawab langsung. Semua akan didengar oleh seribu kursi.
 
 "Kalian yakin?" tanya Maera — pensiun dari Guild, guru hitung, datang ke Caldrest membawa kotak timbung mininya yang sama dari era komisi Caldrest dulu. "Membacakan kemarahan di depan wajah orang yang kemarahannya dituju?"
 
@@ -55,7 +55,7 @@ Tomi, yang lebih banyak bicara dari kakaknya, bertanya: "Bu, kalau malam itu ada
 
 Ibu Tamma mengaduk sebentar. Mengangkat sendok, meniup, mencicipi. Menambah garam seperempat jari.
 
-"Maka pasal dapur yang lama tetap berlaku," katanya akhirnya. "Kalau ada yang masak sambil menangis, biarkan lambat. Kalau ada yang MAKAN sambil menangis... duduki. Jangan bicara. Tambahkan sup. Itu pekerjaan kita."
+"Maka pasal dapur yang lama tetap berlaku," katanya akhirnya. "Kalau ada yang masak sambil menangis, biarkan lambat. Kalau ada yang makan sambil menangis... duduki. Jangan bicara. Tambahkan sup. Itu pekerjaan kita."
 ---
 
 Dua hari sebelum malam pembacaan, satu tamu tak diundang tiba di Caldrest — bukan dengan kereta kafilah, bukan lewat jalur nat, tapi berjalan kaki dari arah barat, memakai jubah abu tanpa jahitan tin, membawa tongkat dan tidak membawa apa pun lainnya.

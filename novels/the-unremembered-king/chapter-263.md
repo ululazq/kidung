@@ -45,7 +45,7 @@ Di sisi utara batu bundar ada retakan — bukan retakan usia, tapi retakan pukul
 
 Ashvarok-Renn memeriksa irisannya dengan mata tertutup. Tubuh Renn adalah the Walking Key; lewat sentuhan ia bisa membaca struktur pengikat yang tidak terbaca instrumen mana pun. Dan yang ia temukan membuatnya diam lama.
 
-"Pukulan itu bukan untuk membunuh," katanya akhirnya. "Ini pola penahanan. Mereka tidak sanggup menghancurkannya, jadi mereka menyegel potongan iramanya — mengambil SATU nada dari lagunya dan membawa pergi, supaya lagu itu tidak pernah utuh lagi. Nada yang mereka ambil..."
+"Pukulan itu bukan untuk membunuh," katanya akhirnya. "Ini pola penahanan. Mereka tidak sanggup menghancurkannya, jadi mereka menyegel potongan iramanya — mengambil satu nada dari lagunya dan membawa pergi, supaya lagu itu tidak pernah utuh lagi. Nada yang mereka ambil..."
 
 "Suara siapa?" tanya Sela. Pertanyaan pertama. Selalu.
 

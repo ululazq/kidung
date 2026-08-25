@@ -106,7 +106,7 @@ Lalu ia keluar dari ruang arsip, mencari ibu Tamma di dapur aula, dan bertanya h
 
 Ibu Tamma, tanpa mengangkat kepala dari adonannya, menjawab dengan kebijaksanaan dapur standar: "Orang tidak bisa, Nak. Ibu-ibu bisa. Selalu ada jalan dapur ke mana-mana — pintunya tidak pernah masuk peta."
 
-Sela kembali ke arsipnya dengan teori baru yang belum berani ditulisnya: bahwa nada lima panglima itu tidak pernah dicuri pasukan pemenang untuk disegel. Nada itu DISELUNDAKKAN — oleh seseorang di dalam sistem pemenang sendiri, melewati enam penjaga, dari tangan ke tangan, selama bertahun-tahun — supaya sampai ke satu-satunya orang di Karvess yang terbukti mau menjaga kebenaran tanpa bisa mengucapkannya.
+Sela kembali ke arsipnya dengan teori baru yang belum berani ditulisnya: bahwa nada lima panglima itu tidak pernahrnah dicuri pasukan pemenang untuk disegel. Nada itu diselundupkan — oleh seseorang di dalam sistem pemenang sendiri, melewati enam penjaga, dari tangan ke tangan, selama bertahun-tahun — supaya sampai ke satu-satunya orang di Karvess yang terbukti mau menjaga kebenaran tanpa bisa mengucapkannya.
 
 Dan daftar calon penyelundupnya, kata Sela pada dirinya sendiri sambil menata gulungan pajak kembali, sangat pendek dan sangat mustahil, dan karenanya kemungkinan besar benar.
 ---

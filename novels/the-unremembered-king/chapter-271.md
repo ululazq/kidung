@@ -60,9 +60,9 @@ Versi pertama terlalu membelakan lima panglima. Versi kedua terlalu menghukum me
 
 "Kak. Kau menjawab pertanyaan ini seperti orang membela tersangka."
 
-"Aku MEMANG membela mereka—"
+"Aku memang membela mereka—"
 
-"Bukan itu pekerjaanmu." Sela meletakkan buku pertanyaan di tengah meja, terbuka pada halaman anak pesisir itu. "Mereka tidak minta pengacara. Mereka minta orang jujur. Jawab saja yang sebenarnya: ya, lima panglima Hegemony pernah menindas wilayah-wilayah. Ya, ada korban. Dan ya, mereka juga orang yang tertawa bersama di malam terakhirnya. Semua itu benar SEKALIGUS, dan anak-anak sudah cukup besar untuk mendengar dua kebenaran tanpa jatuh."
+"Bukan itu pekerjaanmu." Sela meletakkan buku pertanyaan di tengah meja, terbuka pada halaman anak pesisir itu. "Mereka tidak minta pengacara. Mereka minta orang jujur. Jawab saja yang sebenarnya: ya, lima panglima Hegemony pernah menindas wilayah-wilayah. Ya, ada korban. Dan ya, mereka juga orang yang tertawa bersama di malam terakhirnya. Semua itu benar sekaligus, dan anak-anak sudah cukup besar untuk mendengar dua kebenaran tanpa jatuh."
 
 Ashvarok-Renn memandang gadis itu lama.
 
@@ -79,7 +79,7 @@ Jawaban itu mengubah arah proyek — dan, tanpa direncanakan siapa pun, arah dun
 
 Karena murid-murid pesisir meneruskannya ke tetua-tetua mereka. Tetua-tetua meneruskannya ke keluarga-keluarga korban. Dan dalam dua bulan, di tujuh belas wilayah Karvess, muncul gerakan bawah tanah yang tidak pernah dipimpin siapa pun dan tidak pernah minta izin kepada Dewan: keluarga-keluarga korban Hegemony menulis sendiri cerita-cerita leluhurnya — lengkap dengan kemarahannya, dukanya, dan hal-hal kecil yang mereka ingat tentang mereka — dan mengirimkannya ke barak utara Caldrest dengan label yang sama:
 
-*UNTUK ARSIP. SEMUA VERSI.*
+*Untuk arsip. Semua versi.*
 
 Arsip Karvess yang semula hanya milik pemenang dan kemudian diperbaiki oleh saksi batu, kini untuk pertama kalinya memuat versi para korban — ditulis tangan mereka sendiri, dalam aksara mereka masing-masing.
 

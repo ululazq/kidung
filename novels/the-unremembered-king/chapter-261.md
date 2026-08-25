@@ -35,7 +35,7 @@ Wajahnya tidak banyak bergerak — wajah itu memang jarang bergerak, kebiasaan s
 
 "Ditutup atau dikubur?"
 
-"Keduanya. Itu bedanya." Ashvarok menarik napas tubuh muda itu, napas yang masih terasa asing setelah dua tahun dipakai bergantian. "Seam pengikat itu bukan tempat penyimpanan jiwa seperti kedalaman. Kalau halaman ini benar, seam itu menyimpan SUARA. Malam Pembakaran Nama punya banyak saksi mati dan satu saksi batu. Batu itu masih hidup. Batu itu masih..."
+"Keduanya. Itu bedanya." Ashvarok menarik napas tubuh muda itu, napas yang masih terasa asing setelah dua tahun dipakai bergantian. "Seam pengikat itu bukan tempat penyimpanan jiwa seperti kedalaman. Kalau halaman ini benar, seam itu menyimpan suara. Malam Pembakaran Nama punya banyak saksi mati dan satu saksi batu. Batu itu masih hidup. Batu itu masih..."
 
 Ia tidak menyelesaikan kalimatnya.
 

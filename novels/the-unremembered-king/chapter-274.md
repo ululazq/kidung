@@ -29,7 +29,7 @@ Ashvarok-Renn membuka gulungan itu.
 
 Dan membaca halaman kedua doktrin asli Choir — yang disembunyikan dari dunia oleh generasi-generasi pemimpin yang lebih nyaman dengan ketakutan daripada dengan syaratnya:
 
-*Api dunia tidak boleh kembali — KECUALI ia kembali sebagai sesuatu yang didengarkan, dijaga, dan diberi makan; kecuali ia kembali bersama para penjaganya yang diakui namanya; kecuali dunia telah membuktikan bahwa ia bisa mendengar sebelum memutuskan.*
+*Api dunia tidak boleh kembali — kecuali ia kembali sebagai sesuatu yang didengarkan, dijaga, dan diberi makan; kecuali ia kembali bersama para penjaganya yang diakui namanya; kecuali dunia telah membuktikan bahwa ia bisa mendengar sebelum memutuskan.*
 
 "Dunia sudah memenuhi syaratnya," kata Anthema pelan. "Delapan ratus nat yang mendengarkan name train tiap sore. Protokol musim. Sekolah Mendengar di dua belas cabang. Seribu kursi yang duduk mendengar lagu sampai habis termasuk bagian yang membuat marah." Pemimpin Choir itu memandang Ashvarok-Renn. "Aku memimpin secte yang menunggu bukti bahwa dunia layak menerima kembalinya api. Dan buktinya datang... dari kota tambang yang dulu kucoba hancurkan lewat utusanku."
 
@@ -41,7 +41,7 @@ Dan membaca halaman kedua doktrin asli Choir — yang disembunyikan dari dunia o
 
 Keputusan yang dibawa Anthema dibahas sampai malam — dan malam itu, di galeri sembilan, direvisi doktrin tertua Karvess:
 
-Api dunia harus DIDENGAR. Empat kata menggantikan lima kata larangan, dengan lampiran yang ditulis dua tangan (Anthema dan Ashvarok-Renn bergantian, karena keduanya sepakat dokumen ini tidak boleh punya penulis tunggal): syarat-syarat halaman kedua dipertahankan utuh, ditambah satu pasal baru hasil malam pembacaan — *setiap versi tentang api, termasuk versi para korban, wajib dibacakan pada setiap peringatan tahunannya.*
+Api dunia harus didengar. Empat kata menggantikan lima kata larangan, dengan lampiran yang ditulis dua tangan (Anthema dan Ashvarok-Renn bergantian, karena keduanya sepakat dokumen ini tidak boleh punya penulis tunggal): syarat-syarat halaman kedua dipertahankan utuh, ditambah satu pasal baru hasil malam pembacaan — *setiap versi tentang api, termasuk versi para korban, wajib dibacakan pada setiap peringatan tahunannya.*
 
 "Lengan inkuisisi kami," kata Anthema, di ujung percakapan, suaranya mulai berat oleh hari yang panjang. "Grey Censure. Seribu tahun memburu jejak Emberweave, memburu bidah, memburu... ya. Aku sudah tandatangani pembubarannya pekan lalu."
 
@@ -50,7 +50,7 @@ Api dunia harus DIDENGAR. Empat kata menggantikan lima kata larangan, dengan lam
 "Tentu saja bocor. Semua yang penting akhirnya lewat Caldrest." Anthema tersenyum tipis — senyum pertamanya sepanjang percakapan. "Yang mau kutanyakan: penggantinya. Dewan usul lengan pemantau. Secteku usul lengan penjaga doktrin. Adu dua-duanya tidak akan selesai sampai kiamat. Kau pernah jadi penguasa. Kau tahu bagaimana institusi memakan dirinya sendiri. Sarankan."
 ---
 
-Ashvarok-Renn tidak langsung menjawab. Ia bangkit, berjalan ke nat tua galeri sembilan, dan meletakkan telapaknya di batu itu sebentar — bertanya, bukan mendengarkan; ada perbedaan halus yang hanya dipahami pendengar.
+Ashvarok-Renn menimbang pertanyaan itu lama. Ia bangkit, berjalan ke nat tua galeri sembilan, dan meletakkan telapaknya di batu itu sebentar — bertanya, bukan mendengarkan; ada perbedaan halus yang hanya dipahami pendengar.
 
 Nat menjawab dengan irama pendek yang sudah ribuan tahun usianya.
 
@@ -58,11 +58,11 @@ Nat menjawab dengan irama pendek yang sudah ribuan tahun usianya.
 
 "Dunia seribu tahun membuktikan asumsi itu benar—"
 
-"Dunia seribu tahun MEMBUKTIKAN asumsi itu," kata Ashvarok-Renn. "Karena asumsi itulah yang dibangun dunia. Orang yang dicari kesalahannya akan menemukan cara bersalah. Aku pernah memerintah Hegemony dengan struktur persis begitu — pengawas, inkuisitor, pemeriksa. Dan aku bisa kasih tahu persis kapan keruntuhannya dimulai: bukan saat musuh menyerang. Saat sistem mulai butuh musuh untuk tetap berdiri."
+"Dunia seribu tahun membuktikan asumsi itu," kata Ashvarok-Renn. "Karena asumsi itulah yang dibangun dunia. Orang yang dicari kesalahannya akan menemukan cara bersalah. Aku pernah memerintah Hegemony dengan struktur persis begitu — pengawas, inkuisitor, pemeriksa. Dan aku bisa kasih tahu persis kapan keruntuhannya dimulai: bukan saat musuh menyerang. Saat sistem mulai butuh musuh untuk tetap berdiri."
 
 Ia mengambil pena, dan di lembar terakhir doktrin revisi menulis usul yang kelak disebut sejarawan sebagai keputusan institusi paling aneh dalam sejarah Karvess:
 
-*Lengan baru Choir: LENGAN MENDENGAR. Tugasnya bukan memburu kesalahan, tapi mencari hal-hal yang belum didengar — keluhan yang belum sampai, versi yang belum tercatat, orang yang belum pernah ditanya. Laporan bulanannya bukan daftar pelanggar, tapi daftar pertanyaan yang belum terjawab.*
+*Lengan baru Choir: Lengan Mendengar. Tugasnya bukan memburu kesalahan, tapi mencari hal-hal yang belum didengar — keluhan yang belum sampai, versi yang belum tercatat, orang yang belum pernah ditanya. Laporan bulanannya bukan daftar pelanggar, tapi daftar pertanyaan yang belum terjawab.*
 
 *Kepalanya bukan jabatan yang ditunjuk Dewan, melainkan gilir: satu tahun dari Choir, satu tahun dari Guild, satu tahun dari Sekolah Mendengar, bergantian tanpa akhir, agar tidak ada yang memilikinya cukup lama untuk mengubahnya menjadi takhta.*
 
@@ -110,7 +110,7 @@ Maera Tull. Pensiun dari Guild. Guru hitung.
 
 Ia memandang Anthema Spire — dua mantan institusi musuh, duduk di galeri bawah tanah tempat semuanya dimulai.
 
-"Kau sedang mendirikan Lengan Mendengar. Aku dengar tadi dari lorong — maaf, nat-nat di sini bocornya parah." Barim, dari pos jaga, batuk kecil yang tidak meyakinkan. "Aku pensiunan Guild. Jabatanku habis, tapi telapak tanganku belum. Ada satu pekerjaan yang tidak bisa dilakukan nat, tidak bisa dilakukan murid sekolah, dan butuh empat puluh tahun pengalaman membaca lempeng: MEMVERIFIKASI bahwa yang didengar itu benar. Mendengar tanpa verifikasi itu sama saja dengan doktrin lama versi sopan — percaya dulu, cek belakangan, atau tidak sama sekali."
+"Kau sedang mendirikan Lengan Mendengar. Aku dengar tadi dari lorong — maaf, nat-nat di sini bocornya parah." Barim, dari pos jaga, batuk kecil yang tidak meyakinkan. "Aku pensiunan Guild. Jabatanku habis, tapi telapak tanganku belum. Ada satu pekerjaan yang tidak bisa dilakukan nat, tidak bisa dilakukan murid sekolah, dan butuh empat puluh tahun pengalaman membaca lempeng: memverifikasi bahwa yang didengar itu benar. Mendengar tanpa verifikasi itu sama saja dengan doktrin lama versi sopan — percaya dulu, cek belakangan, atau tidak sama sekali."
 
 Anthema Spire memandang perempuan penilai tua itu lama.
 

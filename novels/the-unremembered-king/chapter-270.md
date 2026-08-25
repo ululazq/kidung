@@ -69,7 +69,7 @@ Isinya empat generasi jabatan menyimpan benda-benda benar di dalam sistem yang s
 
 *Aku mencarinya empat puluh tahun di pintu-pintu sejarah, dan tidak menemukannya. Penerusku menemukannya dalam empat tahun di dapur-dapur sejarah, karena aku yang akhirnya mengajarkannya ke sana — lewat surat wasiatku, yang kutitipkan bersama nadanya.*
 
-*Nada itu tidak pernah dicuri oleh pasukan pemenang. Nada itu DIBELI — dengan harga satu janji — oleh juru masak istana Hegemony yang malam itu diminta memasak makan malam terakhir lima panglima. Perempuan itu mendengar lagu dari dapurnya, dan memutuskan bahwa potongan sahabatnya tidak boleh hilang bersama kekalahan. Ia menitipkannya melewati enam penjaga segel dengan cara-cara yang hanya diketahui orang dapur: disembunyikan dalam kiriman bumbu, dalam daftar belanja, dalam roti upacara. Empat belas tahun perjalanan dari tangan ke tangan.*
+*Nada itu tidak pernah dicuri oleh pasukan pemenang. Nada itu dibeli — dengan harga satu janji — oleh juru masak istana Hegemony yang malam itu diminta memasak makan malam terakhir lima panglima. Perempuan itu mendengar lagu dari dapurnya, dan memutuskan bahwa potongan sahabatnya tidak boleh hilang bersama kekalahan. Ia menitipkannya melewati enam penjaga segel dengan cara-cara yang hanya diketahui orang dapur: disembunyikan dalam kiriman bumbu, dalam daftar belanja, dalam roti upacara. Empat belas tahun perjalanan dari tangan ke tangan.*
 
 *Namanya tidak tercatat di dokumen mana pun. Namanya tersimpan di satu tempat: irama nada itu sendiri, detik-detik terakhirnya, ketika perempuan itu menyanyikannya sekali untuk menghafal — dan suara dapurnya ikut tersimpan bersama lima suara yang ingin diselamatkannya.*
 
@@ -92,7 +92,7 @@ Dua belas murid delegasi berdiri di depan buku seribu pertanyaan, berunding pela
 
 Ia membacakannya dengan suara anak sembilan tahun yang berlatih sepanjang jalan dari pegunungan:
 
-"Kami sudah memutuskan. Dengan suara terbanyak. Seribu suara." Ia melihat kertasnya sekali lagi, memastikan. "Kalimat raja kepada malam... kami minta dibacakan SEKARANG."
+"Kami sudah memutuskan. Dengan suara terbanyak. Seribu suara." Ia melihat kertasnya sekali lagi, memastikan. "Kalimat raja kepada malam... kami minta dibacakan sekarang."
 
 Jeda. Anak itu mengangkat wajahnya, mencari satu orang di sudut dapur.
 
@@ -106,7 +106,7 @@ Aula menahan napasnya.
 
 Dan raja yang dibakar namanya, di hadapan seribu pendengar dan dua belas anak yang bertanya dan satu pemimpin ortodoksi yang pulang sebagai manusia dan satu batu tua di dataran tinggi yang mendengar lewat jalur tanah — membacakan kalimat yang disimpan dunia selama seribu tahun:
 
-"Aku berkata kepada malam itu: jaga mereka. Bukan nama-namanya — namaku yang akan hilang, bukan mereka. Jagalah MEREKA. Bagian dari mereka yang tidak pernah bisa dikuburkan siapa pun: cara bercanda mereka, cara mereka marah pada laguku, cara mereka memaksaku makan." Suaranya pecah sekali, di tengah, lalu diteruskannya juga, seperti semua pekerjaan yang harus diteruskan. "Aku bilang: kalau suatu hari ada yang membuka segel ini dan bertanya bagaimana rasanya — jawablah dengan cerita mereka. Bukan ceritaku. Ceritaku sudah cukup panjang."
+"Aku berkata kepada malam itu: jaga mereka. Bukan nama-namanya — namaku yang akan hilang, bukan mereka. Jagalah mereka. Bagian dari mereka yang tidak pernah bisa dikuburkan siapa pun: cara bercanda mereka, cara mereka marah pada laguku, cara mereka memaksaku makan." Suaranya pecah sekali, di tengah, lalu diteruskannya juga, seperti semua pekerjaan yang harus diteruskan. "Aku bilang: kalau suatu hari ada yang membuka segel ini dan bertanya bagaimana rasanya — jawablah dengan cerita mereka. Bukan ceritaku. Ceritaku sudah cukup panjang."
 
 Ia melihat keliling aula. Seribu wajah. Kursi kosong dekat pintu. Dua belas anak. Satu batu tua yang menunggu seribu tahun untuk didengar.
 
@@ -118,7 +118,7 @@ Ia melihat keliling aula. Seribu wajah. Kursi kosong dekat pintu. Dua belas anak
 
 Aula Caldrest tidak menjawab malam itu dengan tepuk tangan.
 
-Yang terjadi lebih baik daripada itu: name train. Tanpa diumumkan, tanpa dipimpin, mulai dari baris kursi Vel-Morra yang sudah hafal caranya, lalu merambat — seribu orang meneruskan satu sama lain irama sederhana yang dua tahun ini menjadi bahasa pulang di seluruh Karvess, dan di atasnya, satu per satu, orang-orang mulai MENYEBUT NAMA. Nama lima panglima, lengkap. Nama para penjaga menara. Nama juru masak istana yang tidak pernah dicatat dokumen mana pun tapi tersimpan di detik terakhir nadanya.
+Yang terjadi lebih baik daripada itu: name train. Tanpa diumumkan, tanpa dipimpin, mulai dari baris kursi Vel-Morra yang sudah hafal caranya, lalu merambat — seribu orang meneruskan satu sama lain irama sederhana yang dua tahun ini menjadi bahasa pulang di seluruh Karvess, dan di atasnya, satu per satu, orang-orang mulai menyebut nama. Nama lima panglima, lengkap. Nama para penjaga menara. Nama juru masak istana yang tidak pernah dicatat dokumen mana pun tapi tersimpan di detik terakhir nadanya.
 
 Name train seribu orang, untuk nama-nama yang seribu tahun menunggu.
 

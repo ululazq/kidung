@@ -63,7 +63,7 @@ Ibu Tamma: "Dapur pos ini resmi dibuka. Menu pertama: sup kamp. Yang paling lama
 
 Ashvarok-Renn bicara terakhir.
 
-"Saudaraku," katanya, "seribu tahun silang aku membangun segel agar dunia aman dari apa pun yang keluar dari kedalaman. Tiga tahun ini dunia mengajariku hal yang lebih benar: kedalaman tidak perlu ditakuti. Kedalaman perlu DIDENGAR. Tujuh saudara kita di bawah sana — Vess-Morath yang menunggu musimnya, Kael-Uthar yang dititip api, Ondrath-Ilm yang menjaga malam, dan engkau yang mendengar sampai habis — kalian bukan ancaman purba yang dikubur sejarah." Ia memberi hormat dua ketukan. "Kalian adalah penjaga-penjaga tertua dunia. Dan mulai hari ini, dunia tahu namamu satu per satu."
+"Saudaraku," katanya, "seribu tahun silang aku membangun segel agar dunia aman dari apa pun yang keluar dari kedalaman. Tiga tahun ini dunia mengajariku hal yang lebih benar: kedalaman tidak perlu ditakuti. Kedalaman perlu didengar. Tujuh saudara kita di bawah sana — Vess-Morath yang menunggu musimnya, Kael-Uthar yang dititip api, Ondrath-Ilm yang menjaga malam, dan engkau yang mendengar sampai habis — kalian bukan ancaman purba yang dikubur sejarah." Ia memberi hormat dua ketukan. "Kalian adalah penjaga-penjaga tertua dunia. Dan mulai hari ini, dunia tahu namamu satu per satu."
 ---
 
 Malamnya, api unggun kecil menyala di tengah pos pendengar yang baru — sesuai aturan pegunungan, kayu muda, dengan izin nat lereng — dan tiga ratus orang duduk melingkari batu bundar yang kini bernama Yang Mendengar Sampai Habis.
@@ -113,7 +113,7 @@ Seorang anak kecil naik ke pos pendengar Vhal-Duren bersama kakeknya, duduk di d
 
 Batu itu menjawab duluan sebelum kakeknya sempat — irama pelan yang oleh semua murid pos diterjemahkan sama:
 
-"TUNGGU ITU RINGAN KALAU KABAR BAIKNYA SUDAH PERNAH SEKALI DATANG. SETELAH ITU, TUNGGU BERIKUTNYA CUMA PEKERJAAN SAPTI."
+"TUNGGU ITU RINGAN KALAU KABAR BAIKNYA SUDAH PERNAH SEKALI DATANG. SETELAH ITU, TUNGGU BERIKUTNYA HANYA PEKERJAAN SAPTI."
 
 Anak itu mengangguk-angguk serius, seperti orang menerima nasihat karier pada umur enam tahun.
 
