@@ -98,7 +98,7 @@ Jawaban datang bukan dari Ashvarok maupun Sareth — melainkan langsung dari nat
 
 ---
 
-Malam pertama di utara ditutup api unggun kedua — dan kali ini yang bercerita bukan para pelopor, melainkan PENDUDUK UTARA YANG TINGGAL: tiga keluarga petani lembah, yang selama delapan belas tahun menyimpan cerita lisan tentang siapa saja yang hilang. Cerita-cerita itu tidak pernah masuk arsip mana pun — dan malam itu, dengan Sela mencatat dan Kovan memverifikasi, empat puluh detail baru masuk arsip resmi: kebiasaan, keahlian, lagu favorit, ciri khas.
+Malam pertama di utara ditutup api unggun kedua — dan kali ini yang bercerita bukan para pelopor, melainkan penduduk utara yang tinggal: tiga keluarga petani lembah, yang selama delapan belas tahun menyimpan cerita lisan tentang siapa saja yang hilang. Cerita-cerita itu tidak pernah masuk arsip mana pun — dan malam itu, dengan Sela mencatat dan Kovan memverifikasi, empat puluh detail baru masuk arsip resmi: kebiasaan, keahlian, lagu favorit, ciri khas.
 "Ini yang tidak bisa diberikan kedalaman," kata Sareth Vayin malam itu. "Kedalaman menyimpan JIWA mereka. Tapi keseharian mereka — cara tertawa, cara marah — itu hanya hidup di ingatan manusia." Ia memandang keluarga petani itu. "Delapan belas tahun kalian menjaga setengah dari orang-orang kami. Kami tidak akan lupakan itu."
 
 ---

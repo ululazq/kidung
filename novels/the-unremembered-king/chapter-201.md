@@ -55,7 +55,7 @@ Ashvarok menutup tangannya di atas batu itu. "Tawaran atau tantangan?"
 
 Yang membuat pekan itu berbeda dari semua pekan sebelumnya adalah kedatangan Ossian Vael dengan map tebal dan ekspresi birokrat yang sedang membawa kabar ganda: satu rumit, satu luar biasa.
 
-"Rumit dulu," kata Ossian, duduk di meja panjang akademi — ia kini hadir tiap rapat sebagai Kantor Penghubung Utara, jabatan ciptaannya sendiri yang awalnya ditertawakan dan sekarang dikutip Dewan Regional. "Dari empat ratus jiwa utara, pemetaan silsilah selesai untuk tiga ratus empat puluh. Dan temuan besarnya—" Ia membuka mapnya, dan menarik napas sebelum kalimatnya, yang tidak dilakukan birokrat kalau kabarnya biasa saja. "Enam puluh dua jiwa punya KETURUNAN LANGSUNG yang masih hidup — anak, cucu, keponakan — dan hampir semuanya TIDAK TAHU bahwa leluhur atau keluarganya ada di dalam penyimpanan kedalaman. Beberapa bahkan tinggal di Caldrest. Tetangga sendiri."
+"Rumit dulu," kata Ossian, duduk di meja panjang akademi — ia kini hadir tiap rapat sebagai Kantor Penghubung Utara, jabatan ciptaannya sendiri yang awalnya ditertawakan dan sekarang dikutip Dewan Regional. "Dari empat ratus jiwa utara, pemetaan silsilah selesai untuk tiga ratus empat puluh. Dan temuan besarnya—" Ia membuka mapnya, dan menarik napas sebelum kalimatnya, yang tidak dilakukan birokrat kalau kabarnya biasa saja. "Enam puluh dua jiwa punya keturunan langsung yang masih hidup — anak, cucu, keponakan — dan hampir semuanya TIDAK TAHU bahwa leluhur atau keluarganya ada di dalam penyimpanan kedalaman. Beberapa bahkan tinggal di Caldrest. Tetangga sendiri."
 
 Ruangan diam menyerapnya. Di luar, terdengar kelas sore berlatih name train.
 

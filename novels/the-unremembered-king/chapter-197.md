@@ -55,7 +55,7 @@ Kabar dua pemulangan sekaligus mengubah sesuatu di Caldrest yang lebih dalam dar
 
 Keluarga-keluarga mulai datang sendiri ke Arsip bukan hanya bertanya "kapan giliran kami" tapi menawarkan bantuan: "aku hafal lagu kesukaannya", "aku punya alat tenun tua", "rumahku dekat tempat dia dulu bekerja". Armada utara tidak lagi dibentuk dari atas; ia tumbuh dari bawah, dari orang-orang yang ingin ikut membawa pulang nama.
 
-Tapi satu urusan keluarga besar Endah-Lissa ternyata belum selesai, dan inilah yang membuat bab kehidupan mereka tidak berakhir di pelukan: calon pengantin Endah — pemuda utara yang juga hilang malam kebocoran — ternyata ADA DI DAFTAR EMPAT RATUS. Belum giliran pemulangannya.
+Tapi satu urusan keluarga besar Endah-Lissa ternyata belum selesai, dan inilah yang membuat bab kehidupan mereka tidak berakhir di pelukan: calon pengantin Endah — pemuda utara yang juga hilang malam kebocoran — ternyata ada di Daftar Empat Ratus. Belum giliran pemulangannya.
 
 Kabar itu disampaikan Ossian dengan hati-hati, sesuai protokol pemberitahuan berjenjang yang baru ia tulis — dan Endah menerimanya dengan cara yang membuat juru ukur itu mencatat di laporannya: "Keluarga utara bukan keluarga yang menunggu kabar. Mereka mengelola kabar."
 

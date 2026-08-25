@@ -27,7 +27,7 @@ Ia mengangkat dagunya dan memandang satu per satu wajah di meja panjang itu.
 
 "Kalian bilang kedalaman menyimpan semua yang terjadi di wilayahnya. Maka dia menyimpan malam itu. Dia menyimpan suara seluruh kampung menidurkan anakku — termasuk bagian yang aku tidak dengar dari dalam, karena malam itu aku tertidur duluan, kelelahan, dan kampung yang lanjut nanyiin tanpa aku." Suaranya bergetar sekali, lalu tegak lagi. "Kalau butuh cerita untuk memanggil — aku punya yang lebih tua dari cerita. Aku punya lagunya."
 
-Sela berdiri begitu cepat sehingga kursinya bergeser. "Itu dia," katanya, cepat sekali, seperti takut idenya lari. "Kita tidak panggil dengan cerita TENTANG dia. Kita panggil dengan lagu yang DULU DINYANYIKAN UNTUKNYA. Lagu itu masih ada — dan kedalaman menyimpan versi aslinya. Kita tinggal menyamakan dua sisi rekamannya."
+Sela berdiri begitu cepat sehingga kursinya bergeser. "Itu dia," katanya, cepat sekali, seperti takut idenya lari. "Kita tidak panggil dengan cerita tentang dia. Kita panggil dengan lagu yang dulu dinyanyikan untuknya. Lagu itu masih ada — dan kedalaman menyimpan versi aslinya. Kita tinggal menyamakan dua sisi rekamannya."
 
 ---
 

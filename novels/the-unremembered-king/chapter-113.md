@@ -75,7 +75,7 @@ Ashvarok memandang adik angkatnya cukup lama, karena pertanyaan itu menusuk lebi
 
 "Pemahaman seninya." Renn melihat ke arah balok dengan tiga simbol itu. "Kalau pertarungan berikutnya adalah tarik-menarik legitimasi di depan pintu yang sama, maka yang menang bukan yang paling kuat, tapi yang paling paham pintunya. Aku sudah terlalu lama menambal dengan membayar tubuh ini. Aku butuh seni yang bisa menahan tanpa membakar sisa diriku habis-habisan, dan aku punya satu untaian yang belum pernah disentuh tubuh ini sama sekali."
 
-Sela bangkit dan mengambil kapurnya, dan di sudut kanan atas papan tulisnya ia menulis dua baris baru. REGISTER. DAN NAMA YANG KEEMPAT.
+Sela bangkit dan mengambil kapurnya, dan di sudut kanan atas papan tulisnya ia menulis dua baris baru: "Register." Dan nama yang keempat.
 
 "Kamu akan cerita dulu sebelum coba," kata Sela, bukan sebagai pertanyaan. "Itu syaratku. Kamu berhutang padaku satu malam jujur tentang alat-alatmu, dan malam itu belum lunas sampai kamu cerita alat yang keempat sebelum dipakainya."
 
