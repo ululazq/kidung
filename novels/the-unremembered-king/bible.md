@@ -1,6 +1,6 @@
 # Bible: The Unremembered King
 
-Terakhir diperbarui: bab 240
+Terakhir diperbarui: bab 245
 Sudah diungkap ke pembaca sampai: bab 210
 
 ## Premis
@@ -19,6 +19,16 @@ Ejaan baku. Semua nama proper di bab mana pun harus ada di sini.
 | Ossian Vael | Antagonis Arc 1 | pengikat Chorus-tier, pejabat the Resonant Choir |
 | Maera Tull | Sekutu Arc 1 | penilai muda Assayers' Guild, pengguna Voice-tier pemindai |
 | Brannoc | Tokoh pendukung | mandor tambang the Quiet Vein, mantan prajurit |
+| Gella | Tokoh pendukung | dokter tambang tua; pemeriksa vein-scar Renn (bab 241+); pencetus Protokol Menjaga Rumah; gaya bicara: garis bawah tebal, nol penghiburan |
+| Ulmek | Tokoh pendukung | kepala kamp tertinggi pegunungan timur laut; penjaga api unggun 300 tahun; perjanjian "malam dua api" |
+| Lompa | Tokoh pendukung | nenek penenun barat laut; guru sekolah menenun; menolak jabatan kepala sekolah |
+| Ilo | Tokoh minor | penggembala muda timur; pertama menyapa nat lereng |
+| Marn | Tokoh minor | pasal cerita harian untuk mengisi 18 tahun kosong pemulangan |
+| Sovana | Tokoh minor | jiwa pemulang timur; "kami hanya bab berikutnya" |
+| Daven | Tokoh minor | siswa Spire angkatan 1 → koordinator Dewan Regional; kakak kelas Renn di Sekolah Mendengar |
+| Pellia | Tokoh minor | siswa Spire; pendengar non-Caldrest pertama |
+| Thessa Vael | Tokoh minor | keponakan Anthema Spire; pembuka meja makan Spire; belajar menenun dari Lompa |
+| Widur | Tokoh minor | jiwa selatan ditemukan lewat pantun warisan 300 tahun; reuni dengan istri via sepasang pantun |
 | Sela | Tokoh pendukung | adik angkat Renn, 11 tahun |
 | Kel Tharrow | Antagonis lokal awal | pengawas the Quiet Vein di Caldrest |
 | Ondar | Penambang muda shift malam | gemetar, paling cepat menuruni lorong tujuh; korban pertama gejala lupa (bab 1) |
