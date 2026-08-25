@@ -1,6 +1,6 @@
 # World State: The Unremembered King
 
-Terakhir diperbarui: bab 255
+Terakhir diperbarui: bab 260
 Arc aktif: Arc 1 — The Glass City
 
 Catatan: file ini adalah memori kerja serial — satu-satunya tempat yang wajib
@@ -542,3 +542,13 @@ Gelar/jabatan Inggris kanon yang dipakai di prosa: Assayer, Overseer, Foreman, Q
 | PEGUNUNGAN TIMUR LAUT & PENUTUP PROYEK (239): kepala kamp Ulmek — api unggun pegunungan menyala 300 tahun menunggu; MALAM DUA API (bara Karveth-Ulm bertemu api pegunungan, dibacakan Kael-Uthar); 24 jiwa naik lewat api unggun (pintu keluar = pintu masuk); PEMULANGAN SELESAI: 400/400 jiwa, 17/17 wilayah; neraca era ketiga + kalimat penutup semua tokoh di halaman "Untuk Pembaca Masa Depan"; warisan: protokol musim 16 pasal, Sekolah Mendengar & sekolah menenun, sistem nat kecil 47 batu, rantai cerita; ibu Tamma: warisan era ketiga = PERTANYAAN ("ada yang bisa dibantu?") | pegunungan timur laut/Caldrest/karvess | 239 |
 
 | RENN — JIWA YANG TIDUR DI TUBUH ASHVAROK (240): nat lorong barak utara (Yang Dulu Sunyi) mengungkap: Renn tidak pernah keluar — ia MENDENGAR semua cerita 8 bulan; the Patient House: "tubuh Renn menyimpanmu, kamu tamu yang dijaga rumah"; Ashvarok BERHENTI pakai the Walking Key sampai vein-scar mereda; sarapan bergilir untuk memperkuat tubuh (Sela masak pertama); rencana bicara pada Renn tiap sore seperti nat kecil | Caldrest | 240 |
+
+| SEKOLAH MENDENGAR MUSIM 2 & DUNIA LUAR (251-255): murid angkatan 1 jadi guru; angkatan 3 = 52 murid dari 10 wilayah luar (Aru, Kaveth, Vel-Morra); Vessia Morra berjalan 3 peka membawa aksara tenun; Doktrin Undangan resmi; nat kecil belajar "bernapas" malam; resep sup 9 budaya | dunia luar terbuka | selesai |
+| NAT ASUHAN & REGISTRI NAT KECIL (247): kembar Tami-Tomi + nat "Teman"; banjir menyatukan kota; registri nama nat resmi; nat pendamping tua; Pekan Guru Tak Terduga (api/nat/ibu barak/kambing/hujan) | generasi penyapa | selesai |
+| PASAL MENYAPA SPIRE & DOKTRIN UNDANGAN (248): Pasal Menyapa masuk konstitusi Spire; Caldrest tidak datang tanpa diminta; paket "alat memulai sendiri"; tiga wilayah lain minta diajari | hubungan luar | selesai |
+| KELUARGA THE QUIET VEIN RESMI (249): Ossian sahkan nama keluarga pilihan Sela; perayaan kecil barak; arsip umur 11 tahun Sela dibuka; janji "bertanya setiap hari" | keluarga inti | selesai |
+| PERAYAAN BAB 250 (250): seluruh tokoh aula; perayaan berantai satu kalimat; Renn-Ashvarok bicara bersamaan pertama kali; penutup "cerita tidak akan pernah berakhir" | seperempat ribu | selesai |
+| RENN BANGUN & MISTERI PANGGILAN (256-257): Sela pulang arsiparis resmi Karvess (menolak Spire); arsip Hegemony: Ashvarok "tidak terkonfirmasi mati", jejak di tungku; nat lorong: panggilan gabungan batu-api-jiwa anak dari Vel-Morra; Gorvel muda pelapor pertama; Renn umur 7 mendengar cahaya 100 hari; "kalian sahabat dipisahkan delapan puluh tahun"; keluarga QV berangkat ke Vel-Morra | misteri seribu tahun | selesai |
+| KASUS PENGHUNI GANDA KEDUA (258): Halm + jiwa nat-gunung; pasal 6 diuji; nat-gunung lihat laut pertama kali ("air sebesar ini"); kembali dengan laut di hati; Halm kerja warung kembar; nat "Teman Laut" | pasal 6 hidup | selesai |
+| TANGAN YANG MENERUSKAN (259): ibu Tamma pilih kembar Tami-Tomi penerus dapur ("yang lihat mata sebelum perut"); ibu tidak pensiun ("menambah tangan"); kursi sudut guru; dapur tiga generasi; "sup lebih enak dari punyaku = pekerjaan selesai" | penerus dapur | selesai |
+| PERAYAAN BAB 260 & EPILOG (260): seluruh tokoh di nat lorong; perayaan berantai terima kasih; nat tua "tidak ada satu pun percuma"; epilog bertahun-tahun: Akademi Arsip the Quiet Vein berdiri; penutup "sekarang giliranmu menyapa" | dua tahun era menyapa selesai | selesai |
