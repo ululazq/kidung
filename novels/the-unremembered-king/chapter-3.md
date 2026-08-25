@@ -21,7 +21,7 @@ Tharrow mengangkat kepala sedikit. "Troli tujuh dicatat rusak dua minggu lalu. P
 
 Pena Tharrow bergerak mencatat. "Ceritakan suara dari dinding."
 
-"Panjang, rendah, seperti napas yang ditarik pelan. Berhenti bersamaan dengan semua bunyi lain. Sunyinya bukan hilangnya suara." Ashvarok menatap gelas air itu. "Seperti hilangnya tempat untuk bunyi."
+"Panjang, rendah, seperti napas yang ditarik pelan. Berhenti bersamaan dengan semua bunyi lain. Sunyinya bukan hilangnya suara." Ashvarok menatap gelas air itu. "Seperti dunia kehilangan ruangnya untuk bunyi."
 
 "Lalu runtuhan."
 

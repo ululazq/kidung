@@ -39,7 +39,7 @@ Sesuatu yang sangat kecil bergerak di wajah Maera Tull — bukan senyum. Lebih m
 
 Mereka bekerja satu jam, dan satu jam itu adalah percakapan terlama yang pernah Ashvarok jalani tanpa satu kata pun benar-benar diucapkan.
 
-Inti pertama. Maera memegangnya sepuluh detik, mata menghitung sesuatu yang tidak kasat, lalu memenulis. Ashvarok membacanya dengan telapak tangan dan ketukan, memenulis di debu. Usia normal, gema rata, aman. Maera membuka catatannya. Usia normal, gema rata, aman. Keduanya saling melihat, dan tidak ada yang berkomentar apa pun, karena komentar akan mengubah ini dari pengukuran menjadi pertandingan.
+Inti pertama. Maera memegangnya sepuluh detik, mata menghitung sesuatu yang tidak kasat, lalu memenulis. Ashvarok membacanya dengan telapak tangan dan ketukan, memenulis di debu. Usia normal, gema rata, aman. Maera membuka catatannya dan menulis hasil pembacaannya sendiri. Angkanya sama persis. Keduanya saling melihat, dan tidak ada yang berkomentar apa pun, karena komentar akan mengubah ini dari pengukuran menjadi pertandingan.
 
 Inti kedua memicu perselisihan pertama.
 

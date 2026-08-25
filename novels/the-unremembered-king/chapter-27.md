@@ -53,7 +53,7 @@ Ashvarok menatap reruntuhan itu, dan di kepalanya, potongan-potongan yang selama
 
 Pertanyaannya tinggal satu: pembuat daftar itu memanggil siapa untuk memotong penyangga? Orang-orangnya sendiri tidak akan sempurna secepat ini. Pemotongan tadi punya irama latihan.
 
-"Aku tahu," kata Ashvarok pelan. "Dan mereka gagal mendapatkan yang mereka inginkan. Yang mereka inginkan mayat atau kepanikan. Yang mereka dapat cuma lorong mati."
+"Aku tahu," kata Ashvarok pelan. "Dan mereka gagal mendapatkan yang mereka inginkan. Yang mereka inginkan mayat atau kepanikan. Yang mereka dapat hanya lorong mati."
 
 "Lorong mati itu cukup untuk mereka." Brannoc bangkit, menawarkan tangannya sekali lagi — dan kali ini Ashvarok menerimanya, karena keduanya memang tidak dalam kondisi untuk gengsi. "Besok pagi, cerita resminya beginilah: runtuhan kecil, tidak ada korban, penyangga lama, cuaca. Aku yang tulis. Sayatan di blok empat belas tidak masuk laporan — karena kalau masuk, yang ditanya pertama adalah siapa yang menemukan sayatan itu, dan jawaban 'foreman yang mundur terakhir' hanya akan membuatku jadi saksi yang harus hilang." Ia berkata seperti membaca daftar belanja. Dua puluh tahun prajurit membuat kemungkinan buruk terdengar seperti jadwal. "Kamu istirahat. Dua hari. Tiga kalau perlu. Kau sudah membelanjakan dirimu terlalu jauh, dan aku tidak akan jadi orang yang menontonmu habis."
 

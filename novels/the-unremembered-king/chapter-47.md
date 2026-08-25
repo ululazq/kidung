@@ -43,11 +43,11 @@ Malam itu undi pertama diadakan di ruang makan dengan mangkuk besar dan empat pu
 
 Legenda itu tidak datang seperti badai. Ia merembes seperti air kaki tambang, dari arah yang paling rendah dan paling tidak dicurigai.
 
-Bentuk pertamanya masih bisa dibantah: dua pemuda galeri sebelas menunggu di dekat gudang perkakas, meminta Renn "cuma lihat sekilas" balok penyangga dapur barak mereka yang katanya berbunyi aneh. Bentuk keduanya sudah lebih sulit: seorang ibu dari galeri sembilan menitipkan pahat kekasarannya lewat Sela, dengan pesan bahwa barang itu akan lebih tajam kalau disentuh orang yang lubang kenal dia. Bentuk ketiganya datang langsung, dan datangnya dengan uang: seorang mandor lubang sewaan dari distrik barat — bukan mandor yang dulu, tapi satu jenis manusia dengan harga pasar yang sama — menemukan Renn di dekat stasiun angkut dan membuka negosiasi tanpa basa-basi.
+Bentuk pertamanya masih bisa dibantah: dua pemuda galeri sebelas menunggu di dekat gudang perkakas, meminta Renn "hanya lihat sekilas" balok penyangga dapur barak mereka yang katanya berbunyi aneh. Bentuk keduanya sudah lebih sulit: seorang ibu dari galeri sembilan menitipkan pahat kekasarannya lewat Sela, dengan pesan bahwa barang itu akan lebih tajam kalau disentuh orang yang lubang kenal dia. Bentuk ketiganya datang langsung, dan datangnya dengan uang: seorang mandor lubang sewaan dari distrik barat — bukan mandor yang dulu, tapi satu jenis manusia dengan harga pasar yang sama — menemukan Renn di dekat stasiun angkut dan membuka negosiasi tanpa basa-basi.
 
 "Sepuluh shardmark untuk satu bacaan. Lorong sewaan saya mau dibuka lagi begitu karantina selesai. Kata orang kamu bisa tanya ke bawah sana, mana yang akan runtuh dan mana yang tidak."
 
-"Aku bocah tungku," kata Ashvarok. "Yang bisa bicara sama aku cuma tungku, dan jawabannya selalu panas."
+"Aku bocah tungku," kata Ashvarok. "Yang bisa bicara sama aku hanya tungku, dan jawabannya selalu panas."
 
 "Lima belas, maka. Aku tahu harga takutan."
 

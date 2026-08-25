@@ -13,7 +13,7 @@ Bapak meninggalkan sedikit barang karena hidupnya juga sedikit. Di antara barang
 
 Isi tabung itu salinan kain dari peta survei tua, pra-the Liberation menurut cap kertasnya. Saya periksa sendiri sebelum menjawab: kondisi baik, garis-garisnya masih bisa diukur. Salinan kedua saya buat dengan tangan, dicocokkan skala demi skala, dan diserahkan ke kafilah dagang lewat jalur Assayers' Guild pekan ini — seharusnya sampai dalam sepuluh hari bersama surat kedua saya. Yang bisa saya laporkan lebih dulu hanya satu hal, karena hal itulah yang membuat bapak saya menyegel peta ini selama hidupnya:
 
-Peta tua itu menggambar bawah tambang Caldrest sebagai bangunan, bukan sebagai lubang. Ada ruang besar digambar dengan ukuran dan lambang ikatan yang tidak saya temukan di buku klasifikasi mana pun. Lambang yang sama ada di dua arsip Hegemony yang saya foto untuk pekerjaan biasa tahun lalu. Saya bukan ahli urat gema, Assayer. Saya cuma orang yang mengukur. Tetapi saya cukup jujur untuk bilang: yang digambar peta itu bukan seam. Itu sesuatu yang dibuat.
+Peta tua itu menggambar bawah tambang Caldrest sebagai bangunan, bukan sebagai lubang. Ada ruang besar digambar dengan ukuran dan lambang ikatan yang tidak saya temukan di buku klasifikasi mana pun. Lambang yang sama ada di dua arsip Hegemony yang saya foto untuk pekerjaan biasa tahun lalu. Saya bukan ahli urat gema, Assayer. Saya hanya orang yang mengukur. Tetapi saya cukup jujur untuk bilang: yang digambar peta itu bukan seam. Itu sesuatu yang dibuat.
 
 Maera membaca paragraf terakhir itu tiga kali, lalu melakukan yang biasa ia lakukan sebelum memutuskan apa pun: ia bertanya kepada dirinya sendiri, pelan, di ruangan kosong.
 
@@ -39,7 +39,7 @@ Kovan menoleh ketika ia lewat, dan untuk pertama kalinya sejak survei kedalaman,
 
 "Tidak." Mata Kovan turun sekilas ke kotak timbung mini di lengannya, naik lagi ke wajahnya, dan melakukan perhitungan yang tidak disembunyikan. "Hanya heran. Kota dikunci, tambang mati, semua orang kelihatan satu sama lain sepanjang hari. Tapi ada beberapa orang yang justru makin banyak surat-menyurat."
 
-"Mungkin karena mereka punya kabar," kata Maera. "Yang lain cuma punya waktu."
+"Mungkin karena mereka punya kabar," kata Maera. "Yang lain hanya punya waktu."
 
 Ia berjalan terus tanpa menoleh, dan hanya setelah melewati tikungan pertama barulah ia mengakui kepada dirinya sendiri bahwa penjaga shift itu tidak salah hitung. Surat-suratnya memang bertambah. Yang membuatnya tenang dan waspada sekaligus adalah kenyataan bahwa surat-surat itu, satu per satu, benar-benar ada isinya — dan isi yang jujur jauh lebih mudah dipertahankan daripada isi yang dibuat-buat, tetapi juga jauh lebih mahal harganya kalau jatuh ke tangan yang salah.
 

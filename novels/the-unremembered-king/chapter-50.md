@@ -7,7 +7,7 @@ Pagi hari keenam puluh dua, di pasar cinder-glass distrik timur, seorang penjual
 
 Hal kecil seperti itu biasanya tidak meninggalkan jejak di mana pun, dan memang tidak. Pelanggan itu tertawa, mengatakan bahwa wajahnya mungkin berubah karena karantina membuat semua orang kurang makan, dan membeli lobaknya seperti biasa. Tetapi Ashvarok, yang berdiri empat lapak jauhnya sambil menemani penjualan tempaan Vosk pada pagi yang sepi, mencatat tiga hal dalam satu jam yang membuat hal kecil itu berhenti menjadi hal kecil.
 
-Pertama: seorang penebak timbangan lupa nama rekan kerjanya selama empat tarikan napas, pulih, lalu tertawa malu. Kedua: dua anak yang berteman sejak lahir saling menyapa dengan nama yang tertukar, dan butuh ibu mereka untuk memperbaikinya. Ketiga: Ibu Gerda, yang nama pelanggannya belum kembali sampai pagi itu bubar, dan yang tetap menjual lobak dengan senyum orang yang yakin ini cuma lelah.
+Pertama: seorang penebak timbangan lupa nama rekan kerjanya selama empat tarikan napas, pulih, lalu tertawa malu. Kedua: dua anak yang berteman sejak lahir saling menyapa dengan nama yang tertukar, dan butuh ibu mereka untuk memperbaikinya. Ketiga: Ibu Gerda, yang nama pelanggannya belum kembali sampai pagi itu bubar, dan yang tetap menjual lobak dengan senyum orang yang yakin ini hanya lelah.
 
 Tiga kejadian. Satu pasar. Satu pagi.
 
@@ -45,9 +45,9 @@ Ashvarok menutup matanya sebentar. Di balik kelopak itu, seribu tahun pengalaman
 
 Dan di situlah, di barak kecil dengan papan tulis yang penuh kolom, Ashvarok dihadapkan pada pertanyaan yang tidak bisa dijawab oleh strategi penundaan mana pun. Ia bisa membohongi Sela — kebohongan itu mudah, sudah terlatih, dan akan berhasil seperti selalu. Tetapi gadis itu baru saja mendengar cerita semuanya, dan kebohongan kepada saksi yang tahu harganya punya rasa yang berbeda di mulut.
 
-"Tidak. Belum." Ia memilih pecahan kebenaran yang paling bisa ditanggung. "Menutupnya penuh butuh harga yang belum bisa kubayar tanpa hilang jadi diriku. Yang bisa kulakukan sekarang cuma dua: memperlambatnya, dan memastikan kalau ia melewati garis berikutnya, tidak ada yang berdiri di jalurnya sendirian."
+"Tidak. Belum." Ia memilih pecahan kebenaran yang paling bisa ditanggung. "Menutupnya penuh butuh harga yang belum bisa kubayar tanpa hilang jadi diriku. Yang bisa kulakukan sekarang hanya dua: memperlambatnya, dan memastikan kalau ia melewati garis berikutnya, tidak ada yang berdiri di jalurnya sendirian."
 
-"Kedua itu bukan seni raja," kata Sela. "Itu cuma bekerja barak."
+"Kedua itu bukan seni raja," kata Sela. "Itu hanya bekerja barak."
 
 "Iya," kata Ashvarok. "Makanya aku butuh kamu."
 
@@ -61,7 +61,7 @@ Tidak seorang pun di ruangan itu kecuali tiga orang tahu bahwa aturan itu adalah
 
 Nama adalah barang pertama yang diambil oleh kebocoran itu — Ashvarok mengetahuinya dari era yang tidak punya buku sejarah lagi — dan barang pertama yang diambil harus menjadi barang pertama yang dilatih untuk dipertahankan. Barak yang menyebut nama setiap malam adalah barak yang akan menyadari lebih cepat ketika salah satunya mulai kosong. Ia tidak bisa memberi mereka seni. Ia bisa memberi mereka kebiasaan, dan kebiasaan, berbeda dari seni, tidak butuh vein yang sehat, tidak butuh the Remainder, dan tidak bisa dilarang oleh pasal karantina mana pun.
 
-Ibu Tamma menerimanya dengan satu kritik praktis: "Kalau semua harus panggil nama tiap malam, barak ini bakal butuh jam tambahan cuma buat absen." Lalu ia menertawakan dirinya, dan menambahkan sendiri solusinya: panggil sambil antre santunan, dua burung satu batu, dan biar dia yang pegang daftarnya.
+Ibu Tamma menerimanya dengan satu kritik praktis: "Kalau semua harus panggil nama tiap malam, barak ini bakal butuh jam tambahan hanya buat absen." Lalu ia menertawakan dirinya, dan menambahkan sendiri solusinya: panggil sambil antre santunan, dua burung satu batu, dan biar dia yang pegang daftarnya.
 
 Kovan, yang sore itu berdiri di garis seperti biasa, memperhatikan name-roll baru itu selama sepuluh menit penuh dengan ekspresi orang yang mencoba memutuskan apakah ini pemborosan waktu atau pesan — dan karena pesan tidak pernah dikirim secara terbuka di Caldrest, ia akhirnya mencatatnya sebagai pemborosan waktu, yang merupakan kesimpulan paling mahal yang pernah dibuat gratis.
 
@@ -83,6 +83,6 @@ Di barak, lampu kecil masih menyala. Ketika ia masuk, Sela sedang menulis di pap
 
 "Kamu pernah gagal?"
 
-"Sering." Ia memadamkan lampu. "Cuma jarang ada yang mencatat."
+"Sering." Ia memadamkan lampu. "Hanya jarang ada yang mencatat."
 
 Gelas pecah mereka diputar mengikuti aturan minum-cerita, walaupun malam itu tidak ada cerita yang cukup besar untuk dibagikan. Di luar, karantina bernyanyi dengan suaranya sendiri: sepatu bot di jalur troli, gerbang yang diperiksa dua kali, dan seseorang di barak sebelah memanggil nama istrinya bukan karena rindu, melainkan untuk memastikan nama itu masih menjawab. Ashvarok mendengarkan semua bunyi itu sampai terakhir kalinya, seperti penjaga menghitung pagar sebelum gilirannya digantikan, dan menyimpan satu kesimpulan yang tidak dibagi ke siapa pun. Kebocoran ini sudah tidak lagi menunggu malam.

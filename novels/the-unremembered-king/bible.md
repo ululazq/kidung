@@ -85,6 +85,7 @@ Ejaan baku. Semua nama proper di bab mana pun harus ada di sini.
 | Doktrin baru Choir | "Api dunia harus DIDENGAR" (bab 274) — revisi dari "api dunia tidak boleh kembali"; syarat asli halaman kedua dipertahankan |
 | Yang Mendengar Sampai Habis | Nama resmi seam saksi/Vhal-Duren (bab 275, via name train seluruh Karvess) |
 | Buku Seribu Pertanyaan | Buku sampul tenun Lompa, isi 1000 pertanyaan murid 12 cabang Sekolah Mendengar untuk raja abu-abu; penjaga bergilir delegasi murid; nomor 863: "apakah kamu bisa masak sup lebih enak dari Bu Tamma" |
+| Motif sadar (aturan #13): "Data yang jujur di tempat yang tak penting" | Asal bab 34 (Ashvarok), dikutip sadar Maera bab 39 (dengan atribusi eksplisit). Maks 2 kemunculan utuh. |
 | Motif sadar (aturan #13): kalimat panglima termuda "Makan yang banyak, Raja... minimal kamu tidak lapar waktu menguburkan kami" | Dikutip UTUH maksimal 2x: bab 265 (laporan saksi) dan bab 270 (malam pembacaan). Referensi lain wajib parafrasa. |
 | Pembakaran Nama | Malam Ashvarok membakar namanya untuk menjadi segel; lima panglima gugur; versi resmi sejarah vs versi batu (makan malam terakhir, kalimat panglima termuda: "minimal kamu tidak lapar waktu menguburkan kami") |
 | orphan murmur | Klasifikasi arsip baru (diciptakan bab 124) untuk gema yang tidak bisa dipetakan ke tradisi mana pun; berkasnya dipegang Shift Guard khusus |

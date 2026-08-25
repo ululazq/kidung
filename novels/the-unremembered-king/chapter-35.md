@@ -91,7 +91,7 @@ Pria itu mengangguk dengan cepat. Usianya mungkin tiga puluhan. Tangannya kasar 
 
 Tidak ada jawaban. Brannoc mengetatkan pegangannya sedikit, dan pria itu bergidik.
 
-"Aku tidak tahu namanya," kata pria itu cepat. "Itu benar, itu benar semua. Aku kontraktor. Bayaran per inti, inti kecil, disetor ke aku lewat—" napasnya tersengal, "—lewat kurir. Kurir yang sama sejak awal. Wajahnya selalu wajah yang sama, aku kenal kalau lihat, tapi dia tidak pernah bicara sama sekali. Tidak satu kata. Dia cuma nunjuk jumlah di kertas, aku angkat jari setuju, dia taruh kantong shardmark, selesai."
+"Aku tidak tahu namanya," kata pria itu cepat. "Itu benar, itu benar semua. Aku kontraktor. Bayaran per inti, inti kecil, disetor ke aku lewat—" napasnya tersengal, "—lewat kurir. Kurir yang sama sejak awal. Wajahnya selalu wajah yang sama, aku kenal kalau lihat, tapi dia tidak pernah bicara sama sekali. Tidak satu kata. Dia hanya nunjuk jumlah di kertas, aku angkat jari setuju, dia taruh kantong shardmark, selesai."
 
 "Kapan terakhir kurirmu muncul."
 
@@ -107,7 +107,7 @@ Pria itu menggeletakkan barang-barangnya satu per satu ke telapak Brannoc yang d
 
 "Temanku punya lilin yang sama," kata Ashvarok. "Ditemukan meleleh di dekat sayatanmu yang lama, empat puluh hari silam. Kamu mau membandingkan?"
 
-Pria itu terdiam, lalu terkekeh — bunyi kecil yang penuh keputusasaan. "Semua lilinku begitu. Datangnya dari kurir, bareng bayaran. Aku cuma pekerja, tuan. Aku potong, aku setor, aku pulang. Yang berjubah-jubah itu bukan urusanku."
+Pria itu terdiam, lalu terkekeh — bunyi kecil yang penuh keputusasaan. "Semua lilinku begitu. Datangnya dari kurir, bareng bayaran. Aku hanya pekerja, tuan. Aku potong, aku setor, aku pulang. Yang berjubah-jubah itu bukan urusanku."
 
 "Kamu tahu mereka berjubah."
 

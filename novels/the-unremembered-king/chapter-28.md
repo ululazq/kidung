@@ -65,7 +65,7 @@ Wajah bocah itu tidak berubah, dan justru itu konfirmasi terakhir yang ia butuhk
 
 "Tidak tahu," setuju Maera. "Tapi biar aku ceritakan apa yang tidak kutulis, supaya kita sama-sama hafal. Ada orang di tambang ini yang bisa membuat kayu ingat masa mudanya. Orang yang sama menutup lubang yang membunuh nama. Orang yang sama yang tulang-seamnya berumur lebih tua dari kota ini. Empat kejadian, satu tangan." Ia menundukkan suaranya satu tingkat lagi. "Orang-orang berjubah sedang mencari tangan itu. Pengawas lisensimu juga. Bedanya, jubah abu ingin tangan itu untuk dipamerkan, dan Tharrow ingin tangan itu untuk disalahkan. Aku satu-satunya orang yang tahu dan tidak ingin apa-apa."
 
-"Mungkin orang itu cuma mau diam."
+"Mungkin orang itu hanya mau diam."
 
 "Maka diamnya butuh penjaga, bukan?" Senyum kecil muncul sebentar di wajah assayer muda itu, goresan pensil yang sudah mulai familiar. "Aku tinggal besok pagi. Tapi laporan lanjutan komisi kedalaman wajib dinilai ulang tiap triwulan, dan aku sudah mengusulkan diriku sebagai assayer pembanding — proposalnya diterima Bureau Chief, karena aku murah dan sudah tahu lokasi. Aku akan kembali, Renn. Tiap triwulan. Dan tiap kali kembali, aku tidak akan bertanya soal tangan itu... sampai suatu hari kamu sendiri yang tunjuk."
 

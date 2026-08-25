@@ -7,7 +7,7 @@ Hari keempat puluh lima datang dengan dua kejadian yang tidak saling mengenal: l
 
 Tujuh orang turun lewat persimpangan utama. Lima membawa peti instrumen; dua mengenakan jubah bekerja Guild dengan lengan digulung rapi. Mereka bekerja dengan cara yang membuatnya mengangguk dalam hati: setiap titik ukur dibaca dua kali, catatan dibacakan ulang oleh orang kedua, dan tidak ada satu pun dari mereka yang berdiri menghadap arah yang sama terlalu lama. Tim yang kompeten. Tim yang dilatih untuk tidak percaya pada satu pembacaan.
 
-Mereka membaca galeri atas dan persimpangan utama — titik-titik yang ia dan Brannoc biarkan jujur. Data yang jujur di tempat yang tak penting. Pada tengah hari, tim itu naik kembali dengan tubuh yang tenang, dan Ashvarok tahu tanpa perlu melihat lembarannya. Angka-angka atas akan masuk laporan sebagai normal, karena memang normal. Aula di bawah sana tidak tersentuh siapa pun hari ini.
+Mereka membaca galeri atas dan persimpangan utama — titik-titik yang ia dan Brannoc biarkan jujur. Data jujur diletakkan di tempat yang tak penting. Pada tengah hari, tim itu naik kembali dengan tubuh yang tenang, dan Ashvarok tahu tanpa perlu melihat lembarannya. Angka-angka atas akan masuk laporan sebagai normal, karena memang normal. Aula di bawah sana tidak tersentuh siapa pun hari ini.
 
 Sisa pekerjaannya adalah menunggu tanggal bohong melakukan tugasnya.
 

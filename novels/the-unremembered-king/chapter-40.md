@@ -67,7 +67,7 @@ Lalu ia pamit — dengan ucapan singkat tentang pekerjaan pagi, dengan langkah y
 
 Mereka berdua berjalan pulang lewat jalur yang membosankan, sesuai aturan, dan Sela baru bicara lagi ketika barak sudah terlihat.
 
-"Dia sedang memilih, kan?" kata Sela. "Waktu dia cerita panjang lebar tadi. Waktu orang bertanya 'kenapa aku cerita ke kalian', itu artinya dia sudah menjawab, cuma belum sadar."
+"Dia sedang memilih, kan?" kata Sela. "Waktu dia cerita panjang lebar tadi. Waktu orang bertanya 'kenapa aku cerita ke kalian', itu artinya dia sudah menjawab, hanya belum sadar."
 
 Ashvarok memandang adiknya di bawah lampu jalan pertama distrik barak. Anak-anak di kota tambang tidak diajari membaca manusia. Mereka menyerapnya, karena salah membaca mandor berarti shift tambahan dan salah membaca tetangga berarti utang. Sela baru saja membaca dengan benar sesuatu yang bahkan belum sadar dibaca pemiliknya.
 

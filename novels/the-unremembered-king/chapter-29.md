@@ -27,7 +27,7 @@ Maera mendongak. "Data macam apa?"
 
 "Kalian punya laporan surveiku. Lorong utama amblas, blok 14 disabotase, galeri timur rapuh. Kalau assayer pembanding datang kembali triwulan depan dan mencatat bahwa 'zona terbatas' ternyata stabil dan justru aktif secara gema — dunia akan bertanya kenapa tambang ditutup." Ia menatap Maera. "Kau bisa menulis sesuatu yang membuat penutupan ini terlihat seperti yang adanya?"
 
-Assayer muda itu diam sebentar, matanya menghitung. "Saya bisa menulis bahwa anomali L9B adalah fenomena berulang yang perlu dipantau jangka panjang oleh Guild — klasifikasi ilmiah yang melarang campur tangan pihak ketiga selama studi berlangsung. Doktrin Choir bilang murmur semu tidak berbahaya; saya bisa memakai doktrin mereka sendiri sebagai perisai." Ia membuka buku hitamnya sebentar, mengecek satu halaman, lalu menutupnya. "Tapi ada batasnya, Renn. Klasifikasi itu sah selama data pendukung ada. Dan data pendukung harus diambil langsung dari dasar — titik ukur yang kamu tunjuk dulu. Tanpa bacaan baru dari sana, klaim 'fenomena berulang' saya cuma kata-kata."
+Assayer muda itu diam sebentar, matanya menghitung. "Saya bisa menulis bahwa anomali L9B adalah fenomena berulang yang perlu dipantau jangka panjang oleh Guild — klasifikasi ilmiah yang melarang campur tangan pihak ketiga selama studi berlangsung. Doktrin Choir bilang murmur semu tidak berbahaya; saya bisa memakai doktrin mereka sendiri sebagai perisai." Ia membuka buku hitamnya sebentar, mengecek satu halaman, lalu menutupnya. "Tapi ada batasnya, Renn. Klasifikasi itu sah selama data pendukung ada. Dan data pendukung harus diambil langsung dari dasar — titik ukur yang kamu tunjuk dulu. Tanpa bacaan baru dari sana, klaim 'fenomena berulang' saya hanya kata-kata."
 
 "Maka itu pekerjaan besok," kata Ashvarok. "Ambil data langsung dari dasar. Data yang membuat klaim 'murmur semu' kalian jadi senjata, bukan tempelan."
 
@@ -49,7 +49,7 @@ Ruangan sunyi sebentar. Maera menatap Ashvarok dengan ekspresi orang yang baru m
 
 Maera memandanginya lama. "Kamu mau aku merekam kejahatan mereka dengan alat Guild."
 
-"Aku cuma mau kamu di tempat yang tepat, dengan alat yang nyala."
+"Aku hanya mau kamu di tempat yang tepat, dengan alat yang nyala."
 
 "Dan kalau mereka sadar alatku menyala?" 
 
@@ -75,15 +75,15 @@ Brannoc menatap anak sembilan—sebelas tahun itu lama, lalu tertawa pendek tanp
 
 Setelah semua pergi, Sela tinggal, membersihkan papan tulis dengan gerakan pelan sambil membelakangi kakaknya.
 
-"Tiga hal yang tidak kamu tulis di papan itu," katanya akhirnya. "Satu. Kamu nyaris tidak balik waktu runtuhan kemarin, dan sekarang mau turun lagi. Dua. Orang berjubah itu bukan cuma mau tambangnya — dia mau sesuatu yang kamu jaga. Tiga. Kalau semua ini berhasil pun, kamu tetap tidak akan pernah bisa cerita ke siapa-siapa kecuali aku dan foreman dan assayer itu."
+"Tiga hal yang tidak kamu tulis di papan itu," katanya akhirnya. "Satu. Kamu nyaris tidak balik waktu runtuhan kemarin, dan sekarang mau turun lagi. Dua. Orang berjubah itu bukan hanya mau tambangnya — dia mau sesuatu yang kamu jaga. Tiga. Kalau semua ini berhasil pun, kamu tetap tidak akan pernah bisa cerita ke siapa-siapa kecuali aku dan foreman dan assayer itu."
 
 Ashvarok tidak membantah satu pun. Melihat adik angkatnya merangkum posisi strategisnya lebih ringkas daripada rapat perang lima panglima dulu membuatnya merasa sesuatu yang berada di antara bangga dan malu.
 
-"Jadi rencanamu cuma satu," lanjut Sela, membalik badan. "Jangan jadi pahlawan. Jadi orang yang pulang. Pahlawan itu kerjaannya legenda, dan legenda tidak bisa dimasakkan bubur."
+"Jadi rencanamu hanya satu," lanjut Sela, membalik badan. "Jangan jadi pahlawan. Jadi orang yang pulang. Pahlawan itu kerjaannya legenda, dan legenda tidak bisa dimasakkan bubur."
 
 Ashvarok menatap adiknya, dan di dalam kepalanya, kalimat itu disalin ke arsip paling dalam bersama kalimat-kalimat Brannoc tentang pintu dan Maera Tull tentang stempel. Tiga orang. Tiga aturan bertahan hidup yang berbeda, semuanya bermuara ke tempat yang sama: jaga dirimu, pulanglah, tetap hidup.
 
-"Satu hal terakhir untuk daftarmu," katanya akhirnya. "Tambahkan: kakakmu tidak pernah berjanji jadi pahlawan. Kakakmu cuma pernah berjanji jadi Renn. Dan besok, Renn pulang."
+"Satu hal terakhir untuk daftarmu," katanya akhirnya. "Tambahkan: kakakmu tidak pernah berjanji jadi pahlawan. Kakakmu hanya pernah berjanji jadi Renn. Dan besok, Renn pulang."
 
 Sela menatapnya lama, mengukur janji itu dengan timbangan yang tidak pernah salah soal kakaknya sendiri.
 
