@@ -69,7 +69,7 @@ Ketika Ashvarok selesai membaca dua belas pasal protokol musim yang disesuaikan,
 
 Ia menghadap nat aula tempat irama timur sudah bisa didengar samar-samar, dan berbicara kepada kedalaman sendiri — bahasa manusia biasa, tanpa penerjemah:
 
-"Bapak-bapak, ibu-ibu, dan siapa pun yang ada di bawah tanah kami: delapan belas tahun silang, kamp kami takut pada lereng timur. Anak-anak dilarang main ke sana. Kami pikir tanah itu kutuk." Ia menarik napas. "Tiga pekan ini kami belajar: tanah itu tidak dikutuk. Tanah itu MISKIN cerita. Dia hanya butuh diceritakan lagi. Jadi pasal tambahan saya begini: mulai besok, setiap sore setelah name train, satu keluarga timur duduk di tepi lereng dan CERITA — soal apa saja. Panen, pernikahan, anak yang belajar jalan. Bukan untuk memanggil. Untuk mengisi."
+"Bapak-bapak, ibu-ibu, dan siapa pun yang ada di bawah tanah kami: delapan belas tahun silam, kamp kami takut pada lereng timur. Anak-anak dilarang main ke sana. Kami pikir tanah itu kutuk." Ia menarik napas. "Tiga pekan ini kami belajar: tanah itu tidak dikutuk. Tanah itu MISKIN cerita. Dia hanya butuh diceritakan lagi. Jadi pasal tambahan saya begini: mulai besok, setiap sore setelah name train, satu keluarga timur duduk di tepi lereng dan CERITA — soal apa saja. Panen, pernikahan, anak yang belajar jalan. Bukan untuk memanggil. Untuk mengisi."
 
 "Dunia atas berhutang satu hal ke dunia bawah," tambahnya, menoleh ke aula. "Cerita harian. Delapan belas tahun kosong itu harus kita isi ulang — sedikit demi sedikit, sampai penuh lagi."
 
@@ -83,7 +83,7 @@ Hari 626. Persiapan wilayah kedua selesai. Tiga pekan, nol drama besar, banyak p
 
 Dan satu hal yang membuatku yakin proyek ini akan selesai dalam hitungan tahun bukan dekade: malam ini ada perempuan tua bernama Marn yang menemukan sendiri — tanpa diminta, tanpa protokol, tanpa rapat — bahwa cara paling cepat membangunkan yang tertidur adalah bercerita kepadanya tiap hari.
 
-Delapan bulan silang butuh delapan bulan untuk belajar itu.
+Delapan bulan silam butuh delapan bulan untuk belajar itu.
 
 Marn butuh tiga pekan.
 

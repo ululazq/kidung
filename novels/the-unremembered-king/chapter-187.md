@@ -7,7 +7,7 @@ Kunjungan utara kedua berangkat hari 368 dengan rombongan lebih besar: kafilah d
 
 "Untuk apa?" tanya Ashvarok di jalan.
 
-"Menara arsip kabupaten utara masih berdiri," kata Sareth. "Aku pernah masuk ke sana sekali, empat puluh tahun silang, sebelum semuanya. Arsipnya mungkin utuh — ordo membangun menara arsip untuk bertahan seribu tahun, bukan delapan belas." Jeda. "Dan kalau arsip itu utuh, maka utara tidak cuma punya suara. Ia punya SEJARAH tertulis. Nama lengkap, tanggal lahir, silsilah — semua yang dibutuhkan untuk membawa empat ratus jiwa itu pulang benar-benar."
+"Menara arsip kabupaten utara masih berdiri," kata Sareth. "Aku pernah masuk ke sana sekali, empat puluh tahun silam, sebelum semuanya. Arsipnya mungkin utuh — ordo membangun menara arsip untuk bertahan seribu tahun, bukan delapan belas." Jeda. "Dan kalau arsip itu utuh, maka utara tidak cuma punya suara. Ia punya SEJARAH tertulis. Nama lengkap, tanggal lahir, silsilah — semua yang dibutuhkan untuk membawa empat ratus jiwa itu pulang benar-benar."
 
 Mereka tiba pada hari kesembilan, dan menara arsip — yang dari luar tampak seperti tumpukan batu berlumut — terbuka lewat pintu yang hanya dikenali Sareth: bukan digali, tidak dipaksa; ia menyanyikan nada pembuka dalam bahasa penjaga, dan batu mengenalinya, dan bergeser.
 
@@ -77,7 +77,7 @@ Sela pernah meminjam buku catatan teh itu untuk arsip, dan mengembalikannya deng
 
 ---
 
-Sisa pekan itu dihabiskan untuk persiapan yang tidak glamor: dua puluh satu keluarga anak-anak diberi tahu lebih awal dari jadwal (pemberitahuan berjenjang versi dipercepat, dengan persetujuan Ossian dan saksi Guild), kamar-kamar lama direnovasi gotong royong, dan ibu Tamma melatih sebelas ibu dapur membuat makanan era delapan belas tahun silang — "sup yang mereka ingat harus terasa sama," katanya. "Anak tidak akan ingat wajahmu. Tapi dia akan ingat rasanya sup ibunya."
+Sisa pekan itu dihabiskan untuk persiapan yang tidak glamor: dua puluh satu keluarga anak-anak diberi tahu lebih awal dari jadwal (pemberitahuan berjenjang versi dipercepat, dengan persetujuan Ossian dan saksi Guild), kamar-kamar lama direnovasi gotong royong, dan ibu Tamma melatih sebelas ibu dapur membuat makanan era delapan belas tahun silam — "sup yang mereka ingat harus terasa sama," katanya. "Anak tidak akan ingat wajahmu. Tapi dia akan ingat rasanya sup ibunya."
 
 Dan Ashvarok melakukan satu hal pribadi: ia pergi ke kedalaman malam harinya, lewat Listen, dan meminta satu hal yang belum pernah diminta siapa pun — bahwa ketika anak-anak utara dibangunkan nanti, hal PERTAMA yang mereka dengar dari dunia bukanlah nama mereka yang disebut orang asing... melainkan lagu pengantar tidur kedalaman sendiri. Lagu yang sudah mengiringi mereka delapan belas tahun.
 "Jangan ganti lagunya dengan suara kami," kata Ashvarok. "Mereka bangun dari rumahmu. Biarkan rumahmu yang bicara duluan."

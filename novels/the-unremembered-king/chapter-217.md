@@ -25,7 +25,7 @@ Pembuktian berjalan tiga jam. Sela membawakan arsip lelang lengkap; Maera membaw
 
 "Tidak ada akta kematian," konfirmasi Ossian, "karena tidak ada yang mati."
 
-Lalu giliran saksi hidup pertama: Garm — pekerja ladang tua yang delapan belas tahun silang datang ke kantor perkebunan dan pulang dengan tangan kosong. Ia kini tua, suaranya pelan, dan kesaksiannya pendek:
+Lalu giliran saksi hidup pertama: Garm — pekerja ladang tua yang delapan belas tahun silam datang ke kantor perkebunan dan pulang dengan tangan kosong. Ia kini tua, suaranya pelan, dan kesaksiannya pendek:
 
 "Aku cuma mau bilang: kakakku menanam ladang itu dari nol. Batu-batunya dia angkat sendiri dari tanah selama dua musim. Lalu dia hilang. Lalu aku datang ke kantor, dan orang-orang baik di sana menunjukkaniku surat." Ia menatap wakil perkebunan. "Aku tidak marah waktu itu. Aku cuma tidak punya kata-kata. Delapan belas tahun kemudian, kata-katanya baru datang."
 
@@ -69,7 +69,7 @@ Lalu iramanya menambahkan kalimat yang membuat Kovan tertawa dan menangis di wak
 
 "Dan supaya tidak ada yang khawatir soal sewa tiga ratus tahun: aku tidak pernah meminta bayaran. Aku hanya minta diingat. Sekarang aku sudah diingat — maka urusan tanah tinggal urusan manusia. Selesaikan sebagai keluarga. Keluarga memang bekerja seperti ini."
 
-Ketua majelis Dewan meminta jeda lima belas menit untuk menyusun putusan — dan para pihak memakai waktu itu dengan cara yang tidak direncanakan siapa pun: makan siang bersama. Meja panjang aula dipakai untuk sup ibu Tamma, dan di meja itu Garm duduk bersama pemuda perkebunan, dua orang yang delapan belas tahun silang bertemu di kantor dan pulang dengan tangan kosong.
+Ketua majelis Dewan meminta jeda lima belas menit untuk menyusun putusan — dan para pihak memakai waktu itu dengan cara yang tidak direncanakan siapa pun: makan siang bersama. Meja panjang aula dipakai untuk sup ibu Tamma, dan di meja itu Garm duduk bersama pemuda perkebunan, dua orang yang delapan belas tahun silam bertemu di kantor dan pulang dengan tangan kosong.
 
 "Aku tadi kesal melihatmu," kata Garm terang-terangan, karena usia tua memberi izin bicara jujur. "Wajahmu mirip kakekmu."
 
@@ -102,7 +102,7 @@ Ashvarok menutup neraca sidang dengan entri yang pendek dan berat:
 
 Hari 556. Putusan Ladang Utara: sah, dibacakan, ditandatangani semua pihak termasuk cap api. Tujuh belas wilayah lain mengikuti polanya secara otomatis.
 
-Yang membuatku diam hari ini bukan putusannya — melainkan cara para pihak makan siang bersama di tengah persidangan mereka sendiri. Seribu tahun silang aku pikir hukum bekerja dengan memenangkan salah satu pihak atas yang lain. Hari ini aku melihat hukum bekerja dengan membuat semua pihak duduk di meja panjang yang sama cukup lama sampai mereka sadar bahwa yang mereka perjuangkan sebenarnya satu hal yang sama.
+Yang membuatku diam hari ini bukan putusannya — melainkan cara para pihak makan siang bersama di tengah persidangan mereka sendiri. Seribu tahun silam aku pikir hukum bekerja dengan memenangkan salah satu pihak atas yang lain. Hari ini aku melihat hukum bekerja dengan membuat semua pihak duduk di meja panjang yang sama cukup lama sampai mereka sadar bahwa yang mereka perjuangkan sebenarnya satu hal yang sama.
 
 Garm mendapat katanya. Pemuda perkebunan mendapat ladangnya untuk ditaniminya sekali lagi. Vess-Morath mendapat tanahnya kembali. Dan Caldrest mendapat pelajaran: keadilan tidak selalu berarti ada yang kalah. Kadang ia berarti semua orang akhirnya dipindahkan ke tempat yang benar — termasuk yang dulu merasa sudah di tempat yang benar.
 

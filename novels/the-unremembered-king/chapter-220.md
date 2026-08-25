@@ -92,7 +92,7 @@ Ashvarok berdiri di tepi ladang sampai subuh, tidak menyalakan lilin apa pun —
 
 Ia hanya menonton seratus lilin itu, dan berkata pada Sela yang datang membawa teh:
 
-"Seribu tahun silang aku pikir aku menjaga dunia dari kedalaman. Sekarang lihat. Dunia dan kedalaman saling menyalakan lampu." Ia menerima tehnya. "Aku hanya penjaga pintunya. Dan itu pekerjaan terbaik yang pernah kutemukan."
+"Seribu tahun silam aku pikir aku menjaga dunia dari kedalaman. Sekarang lihat. Dunia dan kedalaman saling menyalakan lampu." Ia menerima tehnya. "Aku hanya penjaga pintunya. Dan itu pekerjaan terbaik yang pernah kutemukan."
 
 Sela duduk di sebelahnya, membuka papannya sekali — lalu menutupnya lagi tanpa menulis.
 

@@ -37,7 +37,7 @@ Kedua: dari Spire. Dewan Regional — yang bulan lalu mengakui the Patient House
 
 Ashvarok meletakkan surat itu dan berkata kepada ruangan yang penuh tim inti:
 
-"Mereka minta bimbingan. Bukan menyerahkan kendali — minta diajari." Ia memandang Sela, Ossian, Maera, Sareth, ibu Tamma, satu per satu. "Delapan bulan silang kita hanya kota tambang yang berani mendengar. Sekarang kita diminta jadi GURU bagi sebuah benua." Ia tersenyum senyum yang jarang muncul. "Siapa yang sangka. Tambang kecil di lereng timur."
+"Mereka minta bimbingan. Bukan menyerahkan kendali — minta diajari." Ia memandang Sela, Ossian, Maera, Sareth, ibu Tamma, satu per satu. "Delapan bulan silam kita hanya kota tambang yang berani mendengar. Sekarang kita diminta jadi GURU bagi sebuah benua." Ia tersenyum senyum yang jarang muncul. "Siapa yang sangka. Tambang kecil di lereng timur."
 
 Sela yang menjawab, dengan kapur sudah di tangan:
 
@@ -71,7 +71,7 @@ Yang berhasil: protokol penyesuaian (hak untuk diam), pekerjaan pertama sebelum 
 
 Tapi yang membuatku menulis malam ini bukan itu semua.
 
-Yang membuatku menulis adalah Tarm dan anaknya, duduk di tepi ladang tanpa bicara satu jam penuh — dan tidak butuh bicara. Delapan bulan silang aku pikir misi terbesar hidupku adalah menyelamatkan dunia dari kedalaman. Lalu menjadi menyelamatkan kedalaman dari dunia. Sekarang aku tahu misi yang sesungguhnya, dan jauh lebih sederhana:
+Yang membuatku menulis adalah Tarm dan anaknya, duduk di tepi ladang tanpa bicara satu jam penuh — dan tidak butuh bicara. Delapan bulan silam aku pikir misi terbesar hidupku adalah menyelamatkan dunia dari kedalaman. Lalu menjadi menyelamatkan kedalaman dari dunia. Sekarang aku tahu misi yang sesungguhnya, dan jauh lebih sederhana:
 
 Misi kita adalah memastikan setiap keluarga di Karvess mendapat satu jam duduk di tepi ladang seperti itu. Tanpa harus kehilangan delapan belas tahun dulu.
 
@@ -99,12 +99,12 @@ Pekan itu juga, dua tradisi baru lahir tanpa direncanakan — dan langsung menja
 
 Tradisi pertama: TEH DUA SENDOK. Setiap sore setelah name train, seratus dua puluh empat cangkir teh diseduh di dapur aula — masing-masing dengan dua sendok gula penuh, sesuai perjanjian malam terakhir kedalaman. Yang minum bukan hanya pemulang Vess-Morath; semua orang Caldrest ikut, karena seperti kata ibu Tamma: "teh manis rasanya beda kalau diminum sendirian."
 
-Tradisi kedua: MENUNGGU DI TEMPAT YANG BENAR. Ketika keluarga-keluarga utara pulang kerja sore lewat ladang, mereka berhenti sebentar di tepi batas — tempat batu-batu nama itu berdiri — dan menyanyikan satu gerbong pendek name train keluarganya sendiri. Bukan panggilan. Cuma kabar. "Kami pulang dengan selamat" dalam bahasa yang delapan belas tahun silang tidak ada artinya, dan sekarang menjadi kalimat paling sering dinyanyikan di utara.
+Tradisi kedua: MENUNGGU DI TEMPAT YANG BENAR. Ketika keluarga-keluarga utara pulang kerja sore lewat ladang, mereka berhenti sebentar di tepi batas — tempat batu-batu nama itu berdiri — dan menyanyikan satu gerbong pendek name train keluarganya sendiri. Bukan panggilan. Cuma kabar. "Kami pulang dengan selamat" dalam bahasa yang delapan belas tahun silam tidak ada artinya, dan sekarang menjadi kalimat paling sering dinyanyikan di utara.
 
 
 Ashvarok menulis entri penutup pekan di Hourglass-nya, satu kalimat:
 
-Hari 592. Delapan bulan silang kita belajar memulangkan jiwa. Minggu ini kita belajar pelajaran yang lebih besar: memulangkan DUNIA — supaya tidak ada lagi yang perlu dipulangkan, karena tidak ada yang pernah benar-benar ditinggalkan.
+Hari 592. Delapan bulan silam kita belajar memulangkan jiwa. Minggu ini kita belajar pelajaran yang lebih besar: memulangkan DUNIA — supaya tidak ada lagi yang perlu dipulangkan, karena tidak ada yang pernah benar-benar ditinggalkan.
 
 Sisa pekerjaan: dua ratus tujuh puluh enam jiwa, tujuh belas wilayah tanah, satu benua yang sedang belajar mendengar.
 
@@ -112,7 +112,7 @@ Kita punya waktu. Kita punya lagu. Dan kita punya rumah yang paling sabar di dun
 
 Dan di bawah entri itu, dengan tulisan tangan yang berbeda — lebih kecil, lebih pelan — satu kalimat penutup dari Sela, yang pekan ini menyelesaikan halaman keempat ribu arsip pemulangannya:
 
-"Delapan bulan silang aku pikir pekerjaan terbesarku adalah mencatat nama-nama yang hilang. Pekan ini aku sadar pekerjaan yang sesungguhnya: memastikan setiap nama yang kucatat suatu hari punya orang untuk memanggilnya lagi. Empat ribu halaman itu bukan daftar korban. Itu antrean keluarga yang akan bertemu lagi. Dan minggu ini, seratus dua puluh empat antrean selesai."
+"Delapan bulan silam aku pikir pekerjaan terbesarku adalah mencatat nama-nama yang hilang. Pekan ini aku sadar pekerjaan yang sesungguhnya: memastikan setiap nama yang kucatat suatu hari punya orang untuk memanggilnya lagi. Empat ribu halaman itu bukan daftar korban. Itu antrean keluarga yang akan bertemu lagi. Dan minggu ini, seratus dua puluh empat antrean selesai."
 
 
 

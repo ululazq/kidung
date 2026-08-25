@@ -23,7 +23,7 @@ Sistem pelaporan kedalaman dibaca bersama: catatan sapuan Kovan dua tahun, data 
 
 Temuan pertama: bahasa penjaga pra-Hegemony yang mereka rekonstruksi ternyata punya tata bahasa lengkap — dan kata "penjaga" yang dikirim kedalaman bukan sekadar panggilan baru. Dalam tata bahasa itu, kata untuk "penjaga" dan kata untuk "keluarga" berakar sama. Kedalaman tidak sedang memberi jabatan. Ia sedang menyebut hubungan.
 
-Temuan kedua, yang datang saat sesi membaca batu asah tua bersama — telapak Sareth di satu sisi, the Remainder Ashvarok di sisi lain, objek yang sama dibaca dua tradisi: batu asah itu BUKAN benda biasa. Ia adalah pecahan seam Testament kecil — fragmen arsip hidup yang lepas dari tambang utara delapan belas tahun silang, terbawa migrasi pekerja, dan jatuh ke tangan Renn zaman kecil sebagai mainan.
+Temuan kedua, yang datang saat sesi membaca batu asah tua bersama — telapak Sareth di satu sisi, the Remainder Ashvarok di sisi lain, objek yang sama dibaca dua tradisi: batu asah itu BUKAN benda biasa. Ia adalah pecahan seam Testament kecil — fragmen arsip hidup yang lepas dari tambang utara delapan belas tahun silam, terbawa migrasi pekerja, dan jatuh ke tangan Renn zaman kecil sebagai mainan.
 
 "Anak itu membawa arsip utara kemari," kata Sareth pelan, memandang Ashvarok. "Delapan belas tahun sebelum kalian tahu utara ada. Batu asah yang kau pakai latihan di bab ketiga adalah lembar arsip tentang kabupaten yang hilang — dan ia ada DI SINI sepanjang waktu." Jeda. "Rekaman yang kalian butuhkan untuk sembilan suara itu... mungkin tidak perlu dicari ke utara. Sebagiannya sudah di gudangmu, duduk di ambang jendela."
 
@@ -43,7 +43,7 @@ Batu asah itu diletakkan di tengah meja panjang. Dua telapak menyentuhnya dari d
 
 Dan Caldrest mendengar utara.
 
-Tidak ada yang bisa direproduksi kata demi kata — rekaman kematian tidak bekerja seperti berita; ia bekerja seperti ruangan yang kau masuki. Yang bisa dicatat Sela adalah struktur: pertama, suara pasar utara delapan belas tahun silang (jurnal hidup sebuah kabupaten); kedua, malam kebocoran itu sendiri — bukan dari luar seperti semua laporan, melainkan DARI DALAM, bagaimana terasa menjadi orang yang namanya mulai rontok satu per satu sementara Choir menulis "kekosongan musiman" di atasnya; ketiga, sembilan suara yang masih tersisa di batu-batu wilayah itu, masing-masing menyebut satu nama, berulang-ulang, seperti orang terjebak mengulang hal terakhir yang ia pegang.
+Tidak ada yang bisa direproduksi kata demi kata — rekaman kematian tidak bekerja seperti berita; ia bekerja seperti ruangan yang kau masuki. Yang bisa dicatat Sela adalah struktur: pertama, suara pasar utara delapan belas tahun silam (jurnal hidup sebuah kabupaten); kedua, malam kebocoran itu sendiri — bukan dari luar seperti semua laporan, melainkan DARI DALAM, bagaimana terasa menjadi orang yang namanya mulai rontok satu per satu sementara Choir menulis "kekosongan musiman" di atasnya; ketiga, sembilan suara yang masih tersisa di batu-batu wilayah itu, masing-masing menyebut satu nama, berulang-ulang, seperti orang terjebak mengulang hal terakhir yang ia pegang.
 
 Suara kesembilan menyebut: "Vessia. Vessia. Vessia."
 

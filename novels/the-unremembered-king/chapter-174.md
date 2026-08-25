@@ -73,7 +73,7 @@ Satu: Hollowing dapat digigit balik — tidak dengan memaksa nama kembali, tapi 
 
 Dua: Name pada manusia TIDAK menolak seperti benda — ia bekerja lambat, butuh pengulangan panggung, seolah nama manusia lebih dalam tertanam daripada nama batu. Perkiraan Kovan: puluhan sesi, bukan satu.
 
-Tiga: dan yang paling penting, kata Ashvarok yang menutup rapat itu, "kita sudah punya bukti bahwa the Hollowed tidak kosong. Ada orang di dalam sana, menunggu, sadar bahwa dirinya sedang dicari." Ia memandang meja satu per satu. "Selama ini kita pikir Hollowing adalah penghapusan. Data baru bilang dia penyimpanan yang salah kunci. Semua the Hollowed Caldrest — dua di sini, dan semua korban utara delapan belas tahun silang — mungkin masih ada di dalam, menunggu namanya dipanggil dengan benar."
+Tiga: dan yang paling penting, kata Ashvarok yang menutup rapat itu, "kita sudah punya bukti bahwa the Hollowed tidak kosong. Ada orang di dalam sana, menunggu, sadar bahwa dirinya sedang dicari." Ia memandang meja satu per satu. "Selama ini kita pikir Hollowing adalah penghapusan. Data baru bilang dia penyimpanan yang salah kunci. Semua the Hollowed Caldrest — dua di sini, dan semua korban utara delapan belas tahun silam — mungkin masih ada di dalam, menunggu namanya dipanggil dengan benar."
 
 Hening panjang. Lalu Maera, pelan: "Kabupaten utara. Empat ratus jiwa."
 

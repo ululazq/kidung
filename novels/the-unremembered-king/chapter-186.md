@@ -41,7 +41,7 @@ Rapat tim inti memproses implikasi besar malam yang sama, dan kesimpulannya disu
 
 Ashvarok memandang adiknya — pencatat sebelas tahun (dua belas, musim berganti) yang baru saja merumuskan tujuan akhir seluruh cerita ini lebih ringkas daripada seribu tahun filosofi Hegemony:
 
-"Kau baru saja menjawab pertanyaan yang membuatku jadi segel," kata Ashvarok pelan. "Seribu tahun silang aku pikir pilihannya cuma dua: dunia hancur atau aku dikubur hidup-hidup sebagai penutup. Kau baru tunjukkan pilihan ketiga." Ia menutup papan. "Tetangga. Tetap tinggal di rumah yang sama, saling menyapa tiap hari."
+"Kau baru saja menjawab pertanyaan yang membuatku jadi segel," kata Ashvarok pelan. "Seribu tahun silam aku pikir pilihannya cuma dua: dunia hancur atau aku dikubur hidup-hidup sebagai penutup. Kau baru tunjukkan pilihan ketiga." Ia menutup papan. "Tetangga. Tetap tinggal di rumah yang sama, saling menyapa tiap hari."
 
 Rapat ditutup ibu Tamma dengan teh dan satu putusan dapur: "Maka tugas kita semua sekarang sederhana. Jaga anak-anak akademi, jaga tamu tua, dan jaga rajanya supaya tidak mati duluan sebelum semua ini selesai." Ia memandang Ashvarok. "Terutama yang ketiga."
 

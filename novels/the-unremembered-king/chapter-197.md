@@ -13,7 +13,7 @@ Ketika rombongan armada memasuki menara itu, Lissa dibangunkan bukan dengan nama
 
 "Ada. Bersuara," kata Ashvarok. "Namanya sudah masuk daftar giliran ketiga."
 
-Yang dilakukan Lissa kemudian menjadi bagian dari protokol pemulangan selamanya: ia duduk di alat tenun delapan belas tahun silang itu dan memerintah rombongan dengan wajah penenun yang sedang bekerja — bukan wajah korban yang baru pulang.
+Yang dilakukan Lissa kemudian menjadi bagian dari protokol pemulangan selamanya: ia duduk di alat tenun delapan belas tahun silam itu dan memerintah rombongan dengan wajah penenun yang sedang bekerja — bukan wajah korban yang baru pulang.
 
 "Butuh benang baru warna biru laut. Dan butuh orang yang bisa nyala api untuk proses akhir." Ia menyentuh benang-benang lama itu satu per satu, memeriksa seperti dokter memeriksa pasien lamanya. "Sisanya aku yang bekerja."
 
@@ -29,13 +29,13 @@ Dan di hari ketiga, terjadi hal yang tidak direncanakan siapa pun: perempuan-per
 
 Kelompok duduk itu bertambah satu-dua orang tiap hari. Yang datang bukan cuma ibu-ibu: gadis-gadis remaja, dua nenek yang butuh digandeng, dan — mengejutkan semua orang — seorang pemandu kafilah laki-laki yang katanya "cuma mau belajar memperbaiki jala", tapi duduk paling rajin dan tangannya paling teliti. Pada hari kedua puluh, ketika selimut hampir selesai, mereka sudah berjumlah sebelas orang dan memiliki nama tidak resmi yang menempel lebih cepat dari nama resmi mana pun dalam sejarah lembah: Kelas Tenun Lissa.
 
-Lissa sendiri berubah sepanjang dua puluh hari itu. Barim yang mengamatinya dari pos jaga menulis laporan singkat kepada Ashvarok yang kalimat terakhirnya tidak akan pernah dilupakan siapa pun yang membacanya: "Delapan belas tahun silang dia hilang sebagai anak yang sedang bekerja. Dia pulang sebagai guru. Penyimpanan itu bukan cuma menyimpan orang — dia menyimpan orang di tengah pekerjaan mereka, supaya mereka bisa pulang ke diri mereka yang paling sibuk."
+Lissa sendiri berubah sepanjang dua puluh hari itu. Barim yang mengamatinya dari pos jaga menulis laporan singkat kepada Ashvarok yang kalimat terakhirnya tidak akan pernah dilupakan siapa pun yang membacanya: "Delapan belas tahun silam dia hilang sebagai anak yang sedang bekerja. Dia pulang sebagai guru. Penyimpanan itu bukan cuma menyimpan orang — dia menyimpan orang di tengah pekerjaan mereka, supaya mereka bisa pulang ke diri mereka yang paling sibuk."
 
 ---
 
 Selimut itu selesai pada malam kedua puluh satu.
 
-Dibakar — sesuai tradisi gerabah dan tenunan utara: karya selesai harus melalui api agar menjadi milik dunia — dan ketika selimut upacara itu akhirnya terkembang penuh di hadapan api, biru lautnya bergelombang seperti masih berada di alat tenun. Lissa memandang karya sembilan belas tahun silang dirinya selesai oleh tangan yang sama, lalu meminta satu hal:
+Dibakar — sesuai tradisi gerabah dan tenunan utara: karya selesai harus melalui api agar menjadi milik dunia — dan ketika selimut upacara itu akhirnya terkembang penuh di hadapan api, biru lautnya bergelombang seperti masih berada di alat tenun. Lissa memandang karya sembilan belas tahun silam dirinya selesai oleh tangan yang sama, lalu meminta satu hal:
 
 "Panggil Kak Endah sekarang. Selagi selimutnya masih hangat."
 
@@ -79,7 +79,7 @@ Jadwalnya ditulis Sela di peta nama, kolom baru:
 
 ---
 
-Malam sebelum kafilah pulang, Lissa mengajak Ashvarok ke alat tenun tua di menara — tempat selimut itu diselesaikan — dan menunjukkan satu hal yang tidak dilihat siapa pun: di sudut kain, ada pola kecil baru yang bukan bagian desain asli delapan belas tahun silang.
+Malam sebelum kafilah pulang, Lissa mengajak Ashvarok ke alat tenun tua di menara — tempat selimut itu diselesaikan — dan menunjukkan satu hal yang tidak dilihat siapa pun: di sudut kain, ada pola kecil baru yang bukan bagian desain asli delapan belas tahun silam.
 
 "Itu aku tambahin," kata Lissa. "Pola matahari lembah. Buat nyatet bahwa selimut ini selesai bukan tahun pembuatannya — tapi tahun Caldrest datang." Ia menatap Ashvarok, ragu untuk pertama kalinya sejak pulang. "Boleh ya? Ubah karya orang hilang sedikit?"
 
@@ -99,6 +99,6 @@ Yang kupelajari: kedalaman tidak hanya menyimpan orang. Dia menyimpan CERITA mer
 
 Kesabaran Caldrest dan kesabaran Rumah ternyata senjata yang sama dari dua arah.
 
-Dan satu hal lagi, untuk halaman pribadi: delapan bulan silang aku pikir pekerjaan terbesarku adalah menjaga dunia dari hal-hal besar. Malam ini seorang penenun sembilan belas tahun mengajari aku bahwa pekerjaan terbesar adalah menuntaskan hal-hal kecil yang tertunda — satu benang biru laut pada satu waktu.
+Dan satu hal lagi, untuk halaman pribadi: delapan bulan silam aku pikir pekerjaan terbesarku adalah menjaga dunia dari hal-hal besar. Malam ini seorang penenun sembilan belas tahun mengajari aku bahwa pekerjaan terbesar adalah menuntaskan hal-hal kecil yang tertunda — satu benang biru laut pada satu waktu.
 
 Ondrath-Ilm mengirim pesan pertamanya lewat jadwal kunjungan mingguan — bukan permintaan, melainkan kabar: "malam-malam kalian sebulan ini paling tenang yang pernah kujaga. Teruskan." Pesan sependek itu dibacakan Ashvarok di rapat dua kali, karena pendengar minta diulang.

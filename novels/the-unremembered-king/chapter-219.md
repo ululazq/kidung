@@ -105,7 +105,7 @@ Endah bertanya: "Kalau ada yang menangis?"
 
 "Maka kau pegang tangannya dan bilang: menangis itu bagian protokol. Hanya belum ditulis."
 
-Lissa tertawa. Barim tidak — penjaga malam tua itu berkata pelan: "Aku akan berdiri di pos pertama. Pos jemput tanpa keluarga. Karena aku tahu persis bagaimana rasanya naik ke dunia dan tidak melihat wajah yang dikenali." Ia menatap Ashvarok. "Delapan tahun silang, yang pertama mengenaliku adalah tanganmu di nat galeri sembilan. Aku akan jadi tangan itu untuk mereka."
+Lissa tertawa. Barim tidak — penjaga malam tua itu berkata pelan: "Aku akan berdiri di pos pertama. Pos jemput tanpa keluarga. Karena aku tahu persis bagaimana rasanya naik ke dunia dan tidak melihat wajah yang dikenali." Ia menatap Ashvarok. "Delapan tahun silam, yang pertama mengenaliku adalah tanganmu di nat galeri sembilan. Aku akan jadi tangan itu untuk mereka."
 
 Empat guru pulih. Tiga puluh penyanyi murid. Seratus pos jemput. Seratus dua puluh porsi sup.
 

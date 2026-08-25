@@ -23,7 +23,7 @@ Dan Ashvarok berdiri di pusat aula — di sisi dais yang selama seribu tahun men
 
 Ia menyampaikan pidato penutup era — pidato pertama dan terakhirnya sebagai raja, karena setelah malam ini ia meminta disebut hanya dengan nama:
 
-"Aku Ashvarok. Seribu tahun silang aku berdiri di titik ini dan membuat keputusan terbesar hidupku: membakar namaku, menyegel teman tua kita di bawah sana, dan menghilang — karena aku percaya itulah pengorbanan terbesar yang mungkin."
+"Aku Ashvarok. Seribu tahun silam aku berdiri di titik ini dan membuat keputusan terbesar hidupku: membakar namaku, menyegel teman tua kita di bawah sana, dan menghilang — karena aku percaya itulah pengorbanan terbesar yang mungkin."
 
 Ia memandang kerumunan. Lima panggilannya tidak ada; anak-anak mereka mungkin ada di antara para tetamu. Yang ada adalah Caldrest — tambang, dapur, pasar, akademi — dan sebuah kedalaman yang belajar menyanyi.
 

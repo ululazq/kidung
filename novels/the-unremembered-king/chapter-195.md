@@ -105,7 +105,7 @@ Malam pertama di utara ditutup api unggun kedua — dan kali ini yang bercerita 
 
 Dan entri penutup bab — Hourglass Ashvarok, ditulis di reruntuhan pasar utara dengan api unggun sebagai penerangan:
 Hari 390, lanjutan. Hari Utara pertama selesai. Yang kucatat untuk neraca pribadi:
-Delapan belas tahun silang, wilayah ini ditutup dengan tiga hal: segel, takutan, dan diam resmi. Hari ini ia dibuka dengan tiga hal juga: nama yang dibacakan keluarga, pertanyaan anak sembilan tahun, dan cerita petani lembah.
+Delapan belas tahun silam, wilayah ini ditutup dengan tiga hal: segel, takutan, dan diam resmi. Hari ini ia dibuka dengan tiga hal juga: nama yang dibacakan keluarga, pertanyaan anak sembilan tahun, dan cerita petani lembah.
 Dari semua keajaiban delapan belas bulan ini, yang paling membuatku yakin bahwa dunia berubah bukan lagu kedalaman, bukan armada pembaca, bukan bahkan pemulihan Tovik.
 Melainkan itu: sebuah anak kecil yang berdiri di kursi dan berani bertanya "kapan dia pulang" — langsung kepada kedalaman, tanpa takut sedikit pun.
-Seribu tahun silang, pertanyaan seperti itu bisa membuat keluarganya dibunuh. Hari ini dijawab oleh dunia sendiri: saat dunia sudah siap seperti hari ini.
+Seribu tahun silam, pertanyaan seperti itu bisa membuat keluarganya dibunuh. Hari ini dijawab oleh dunia sendiri: saat dunia sudah siap seperti hari ini.

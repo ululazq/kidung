@@ -39,7 +39,7 @@ Pekerjaan penyalurannya dilakukan pasangan hitung — karena hanya mereka bisa m
 
 "Karena ini dapur," kata anak muda itu. "Kalau hitunganku salah dan panasnya menyimpang ke nat nama... yang salah bukan cuma angka. Yang salah adalah makanan orang banyak."
 
-Kovan mencatat kalimat itu di neracanya dengan catatan pinggir: "Delapan bulan silang ia menghitung untuk kedalaman. Sekarang ia menghitung untuk dapur. Pertumbuhan seorang penghitung seharusnya diukur dari hal-hal yang membuatnya mau menghitung ulang."
+Kovan mencatat kalimat itu di neracanya dengan catatan pinggir: "Delapan bulan silam ia menghitung untuk kedalaman. Sekarang ia menghitung untuk dapur. Pertumbuhan seorang penghitung seharusnya diukur dari hal-hal yang membuatnya mau menghitung ulang."
 
 ---
 
@@ -71,7 +71,7 @@ Percakapan lain terjadi di meja murid, antara Harn dan dua calon pendengar dari 
 
 "Kami dua hari berjalan ke sini karena tambang kami menyebut nat lorong empat kutukan," jawab salah satunya. "Kemudian pasangan hitung datang, dan ternyata bukan kutukan. Sekarang kami belajar supaya tidak perlu menunggu orang luar datang memberi tahu kami bahwa ketakutan kami salah."
 
-Harn mengangguk-angguk dengan bijak seorang senior setahun akademi: "Itu pelajaran paling mahal di sini. Aku delapan bulan silang mengira aku tidak berhak masuk sekolah ini."
+Harn mengangguk-angguk dengan bijak seorang senior setahun akademi: "Itu pelajaran paling mahal di sini. Aku delapan bulan silam mengira aku tidak berhak masuk sekolah ini."
 
 "Sekarang?"
 
@@ -105,6 +105,6 @@ Hari 534. Dapur aula resmi beroperasi. Menu pertama: sup, roti, bubur ordo, teh.
 
 Kehadiran tamu-tamu besar dicatat: kepala tambang Karven datang membawa sekantong garam tambang terbaiknya ("buat dapur yang mengajari lorong empat kami sopan santun"). Dua murid pertama dari Karven ikut makan di meja murid. Ossian hadir dan untuk pertama kalinya dalam sejarah kehadirannya di Caldrest, ia tidak membawa dokumen.
 
-Seribu tahun silang aku menyegel rumah ini karena takut isinya. Sekarang isi rumah itu: sup yang cukup untuk semua, teh yang tidak habis, dan api zaman purba yang bangun jam lima pagi untuk sarapan anak-anak sekolah.
+Seribu tahun silam aku menyegel rumah ini karena takut isinya. Sekarang isi rumah itu: sup yang cukup untuk semua, teh yang tidak habis, dan api zaman purba yang bangun jam lima pagi untuk sarapan anak-anak sekolah.
 
 Dunia tidak berubah lewat keputusan besar. Dunia berubah lewat dapur.

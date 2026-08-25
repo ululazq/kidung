@@ -15,7 +15,7 @@ Jawaban kedalaman datang seketika dan berirama hangat: sudah lama kalian tidak d
 
 Tiga murid tingkat lanjutan yang dipilih masing-masing diberi tugas berbeda: Harn menjaga hitungan waktu (karena di kedalaman, kata Sareth, waktu bisa bohong), murid perempuan dari blok tepian menjadi pencatat ganda untuk jaga-jaga kalau Kovan harus fokus membaca, dan murid termuda memegang tugas yang paling penting dan paling sederhana: "Kalau ada yang tidak enak, bilang. Tugas termuda di tim mana pun adalah mengingatkan semua orang bahwa mereka boleh pulang."
 
-Perjalanan ke menara utara kini hanya dua hari — jalan yang delapan bulan silang butuh lima — karena jalannya diperlebar gotong royong tiga kota dan setiap pertigaan kini memiliki tanda batu dengan arah yang ditulis dalam dua bahasa: manusia dan penjaga. "Kalian lihat itu," kata Barim di jalan, menunjuk papan penunjuk arah berukir irama. "Delapan bulan silang tempat ini tidak ada peta yang menyebutnya. Sekarang nat-natnya kebagian rambu jalan. Dunia bisa berubah cepat kalau dia mau."
+Perjalanan ke menara utara kini hanya dua hari — jalan yang delapan bulan silam butuh lima — karena jalannya diperlebar gotong royong tiga kota dan setiap pertigaan kini memiliki tanda batu dengan arah yang ditulis dalam dua bahasa: manusia dan penjaga. "Kalian lihat itu," kata Barim di jalan, menunjuk papan penunjuk arah berukir irama. "Delapan bulan silam tempat ini tidak ada peta yang menyebutnya. Sekarang nat-natnya kebagian rambu jalan. Dunia bisa berubah cepat kalau dia mau."
 
 Yang mereka temukan mengubah pemahaman semua orang tentang apa yang disimpan kedalaman.
 
@@ -73,7 +73,7 @@ Di hari kedua, Vess-Morath menjawab lebih lama dari biasanya, dan terjemahan ira
 
 Kedalaman yang menjawab pertanyaan murid itu, lewat nat lantai, dan jawabannya butuh satu jam penerjemahan: karena janji mereka bukan pada musim. Janji mereka pada PENDUDUK. Mereka menunggu sampai ada orang yang datang menyapa dan bertanya — supaya saat keluar nanti, dunia yang mereka masuki adalah dunia yang tahu cara menyapa.
 
-"Dunianya baru belajar menyapa delapan bulan silang," bisik murid perempuan dari blok tepian. "Berarti mereka menunggu... tepat waktu."
+"Dunianya baru belajar menyapa delapan bulan silam," bisik murid perempuan dari blok tepian. "Berarti mereka menunggu... tepat waktu."
 
 Dan di baris bawah katalog, Sela menulis catatan pinggirnya dengan kapur biru:
 

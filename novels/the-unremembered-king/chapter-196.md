@@ -58,9 +58,9 @@ Empat puluh orang yang datang dengan niat baik tetap saja empat puluh suara, emp
 ---
 
 Pembakaran lima gerabah Sarneng — Sarneth, kata koreksi keluarganya, "S-a-r-n-e-t-h, jangan sampai salah lagi" — dilakukan pekan berikutnya dan menjadi peristiwa kecil yang paling ramai di utara: seluruh keluarga datang, Barim menyalakan tungku pertama, dan ketika gerabah-gerabah itu akhirnya dingin dan diangkat, bentuknya bukan pot biasa.
-Lima potong itu adalah SET PERSEDIAAN dapur lengkap — ukuran keluarga besar. Dibuat delapan belas tahun silang untuk rumah yang ia kira akan segera penuh cucu.
+Lima potong itu adalah SET PERSEDIAAN dapur lengkap — ukuran keluarga besar. Dibuat delapan belas tahun silam untuk rumah yang ia kira akan segera penuh cucu.
 "Sarneth," kata adiknya pelan saat melihat bentuknya.
-"Iya." Lelaki tua itu mengusap permukaan gerabahnya. "Delapan belas tahun silang aku membuat set ini sambil bilang ke diri sendiri, ah nanti dipakai waktu cucu-cucu datang. Terus kejadian malam itu." Ia mengisi satu pot dengan air dan meletakkannya di tengah meja panjang keluarga. "Ya sudah. Mumpung masih panas tungkunya. Cucu-cucu boleh telat delapan belas tahun. Airnya tidak perlu."
+"Iya." Lelaki tua itu mengusap permukaan gerabahnya. "Delapan belas tahun silam aku membuat set ini sambil bilang ke diri sendiri, ah nanti dipakai waktu cucu-cucu datang. Terus kejadian malam itu." Ia mengisi satu pot dengan air dan meletakkannya di tengah meja panjang keluarga. "Ya sudah. Mumpung masih panas tungkunya. Cucu-cucu boleh telat delapan belas tahun. Airnya tidak perlu."
 
 ---
 
@@ -73,7 +73,7 @@ Pemulangan bukan mengembalikan masa lalu. Ia menyambungkan masa lalu ke masa kin
 
 Sisa bab diisi satu adegan yang melengkapi gambaran pemulangan pertama — sisi yang jarang diceritakan: kesulitan Sarneth beradaptasi.
 Dua pekan setelah pulang, lelaki tua itu datang ke gudang perkakas dengan wajah jujur yang lelah: "Renn. Aku mau ngomong jujur. Pulang itu indah tiga hari pertama. Hari keempat mulai berat. Semuanya berubah — jalanan, muka orang, harga di pasar. Aku delapan belas tahun ketinggalan dunia, dan tiap hari ada aja yang membuat aku kerasa bodoh."
-Ashvarok mendengarkan sampai selesai, lalu menjawab dengan pengalaman dua kehidupan: "Pak Sarneth, seribu tahun silang aku terbangun di tubuh bocah lain, di dunia yang sudah lupa seniku, dengan nama yang dibakar dari sejarah. Tiga bulan pertamanya aku juga kerasa bodoh tiap hari." Ia menepuk meja. "Bedanya kamu punya keluarga dan seluruh Caldrest. Dan punya tempat curhat ini. Pintunya buka jam berapa saja."
+Ashvarok mendengarkan sampai selesai, lalu menjawab dengan pengalaman dua kehidupan: "Pak Sarneth, seribu tahun silam aku terbangun di tubuh bocah lain, di dunia yang sudah lupa seniku, dengan nama yang dibakar dari sejarah. Tiga bulan pertamanya aku juga kerasa bodoh tiap hari." Ia menepuk meja. "Bedanya kamu punya keluarga dan seluruh Caldrest. Dan punya tempat curhat ini. Pintunya buka jam berapa saja."
 
 ---
 

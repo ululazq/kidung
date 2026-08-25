@@ -47,7 +47,7 @@ Ondrath-Ilm bercerita — bukan tentang dirinya, tapi tentang PEKERJAANNYA: menj
 
 Ia diam.
 
-"Kemudian kalian mulai menyanyi di ladang utara. Delapan bulan silang. Dan aku mendengarnya dari kedalamanku — lagu yang sama, tiap sore, tanpa putus." Presensia tua itu bergerak sedikit, dan gerakan itu terasa seperti gunung yang mengangguk. "Delapan bulan. Itu shift terpendek yang pernah kualami sejak zaman gua. Dan untuk pertama kalinya dalam seribu tahun... aku menunggu pergantian shift dengan sabar."
+"Kemudian kalian mulai menyanyi di ladang utara. Delapan bulan silam. Dan aku mendengarnya dari kedalamanku — lagu yang sama, tiap sore, tanpa putus." Presensia tua itu bergerak sedikit, dan gerakan itu terasa seperti gunung yang mengangguk. "Delapan bulan. Itu shift terpendek yang pernah kualami sejak zaman gua. Dan untuk pertama kalinya dalam seribu tahun... aku menunggu pergantian shift dengan sabar."
 
 Ashvarok yang bertanya pertanyaan penutup, dengan hati yang berdetak keras:
 

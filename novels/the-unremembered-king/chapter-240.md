@@ -101,7 +101,7 @@ Hari 775. Hari ini aku berhenti memakai the Walking Key.
 
 Bukan karena kehilangan kemampuan. Karena belajar hal baru: bahwa pekerjaan terbesar seorang penjaga bukan selalu bertindak — kadang ia berhenti, supaya orang lain bisa bangun dengan utuh.
 
-Delapan bulan silang Renn mendengar dunia lewat lagu-lagu kita. Ia tahu soal the Patient House. Soal pemulangan 400 jiwa. Soal sekolah mendengar, sistem nat kecil, dan sup Kamp Pertama.
+Delapan bulan silam Renn mendengar dunia lewat lagu-lagu kita. Ia tahu soal the Patient House. Soal pemulangan 400 jiwa. Soal sekolah mendengar, sistem nat kecil, dan sup Kamp Pertama.
 
 Ia sudah mengenal dunia barunya tanpa pernah membuka mata.
 
@@ -147,7 +147,7 @@ Sementara itu, di aula Caldrest, kabar tentang Renn menyebar — dan respons war
 
 Orang-orang mulai BICARA PADA TUBUH RENN. Tanpa disuruh, tanpa koordinasi. Pedagang pasar menyapa "Renn kecil" sambil menawarkan harga. Murid akademi menceritakan pelajaran hari itu kepada tubuh yang mereka lewati di koridor. Ibu-ibu barak menyisihkan porsi makan manis "untuk Renn kalau dia lapar saat bangun".
 
-Delapan bulan silang, semua orang tahu Ashvarok ada di dalam sana — dan sejak nat lorong mengungkap Renn juga mendengar... kota berperilaku seolah Renn sudah bangun dan hanya belum keluar kamarnya.
+Delapan bulan silam, semua orang tahu Ashvarok ada di dalam sana — dan sejak nat lorong mengungkap Renn juga mendengar... kota berperilaku seolah Renn sudah bangun dan hanya belum keluar kamarnya.
 
 Ashvarok menemukan dirinya menangis di nat aula ketika membaca daftar orang-orang yang "menyapa Renn" minggu itu — dua ratus lebih nama.
 
@@ -159,7 +159,7 @@ Ia mengusap matanya.
 
 ---
 
-Dan malam itu, untuk pertama kalinya sejak delapan bulan silang, Ashvarok bicara langsung kepada Renn — bukan lewat nat, bukan lewat penerjemah, melainkan duduk di tepi tempat tidurnya sendiri (yang kini jadi tempat tidur tubuh mereka berdua) dan berkata pelan:
+Dan malam itu, untuk pertama kalinya sejak delapan bulan silam, Ashvarok bicara langsung kepada Renn — bukan lewat nat, bukan lewat penerjemah, melainkan duduk di tepi tempat tidurnya sendiri (yang kini jadi tempat tidur tubuh mereka berdua) dan berkata pelan:
 
 "Renn. Aku tahu kau dengar. Aku mau bilang: aku sudah berhenti pakai kunci. Tubuhmu istirahat. Supnya enak — bubur Sela kurang garam, tapi ibu Tamma yang latihan."
 

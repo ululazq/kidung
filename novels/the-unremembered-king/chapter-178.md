@@ -5,7 +5,7 @@ chapter: 178
 
 Sela yang memulainya, dan ia memulainya dengan cara pencatat: membuka catatan.
 
-"Sebelum rapat utara dimulai, ada satu urusan pribadi keluarga yang harus selesai dulu." Gadis itu meletakkan di meja dapur dua benda: kertas Hourglass terbaru, dan satu lembar tua bertanggal dua tahun silang. "Ini catatan pertamaku tentang kamu. Hari kedua kamu jadi kakakku. Tulisanku umur sembilan tahun."
+"Sebelum rapat utara dimulai, ada satu urusan pribadi keluarga yang harus selesai dulu." Gadis itu meletakkan di meja dapur dua benda: kertas Hourglass terbaru, dan satu lembar tua bertanggal dua tahun silam. "Ini catatan pertamaku tentang kamu. Hari kedua kamu jadi kakakku. Tulisanku umur sembilan tahun."
 
 Ashvarok membaca tulisan tangan kecil itu. Huruf-huruf muda yang belum rapi: "Hari 2. Kakak baru. Tapi dia jawab pertanyaan seperti orang yang sudah lama hidup. Aku simpan pertanyaan besar untuk nanti."
 
@@ -24,7 +24,7 @@ Karena adiknya baru saja, dalam satu permintaan, melihat sesuatu yang tidak pern
 
 "Aku akan tulis." Ashvarok mengambil kapur. "Sekali. Di papan ini, di halaman yang hanya kita dua yang bisa buka. Bukan untuk dipanggil-panggil — namanya bukan alat. Tapi supaya ada yang menyimpannya di luar diriku. Kalau suatu hari aku tidak sanggup lagi menyimpan sendiri, kau yang pegang."
 
-Ia menulis. Nama itu — nama yang terakhir kali diucapkan ibunya sembilan ratus delapan belas tahun silang — muncul di kapur huruf demi huruf dengan tangan yang untuk pertama kalinya sejak seribu tahun gemetar bukan karena harga seni, melainkan karena isi.
+Ia menulis. Nama itu — nama yang terakhir kali diucapkan ibunya sembilan ratus delapan belas tahun silam — muncul di kapur huruf demi huruf dengan tangan yang untuk pertama kalinya sejak seribu tahun gemetar bukan karena harga seni, melainkan karena isi.
 
 Sela membacanya sekali. Dua kali. Menghafalnya di tempat seperti ia menghafal segalanya. Lalu menutup papan itu dan berkata kalimat penutup yang membuat seluruh percakapan ini menjadi sesuatu yang lebih besar dari keduanya:
 
@@ -50,7 +50,7 @@ Keesokan paginya, Sela menambahkan satu baris terakhir di halaman tertutup papan
 
 Ashvarok membaca balasan itu, melipat papan, dan menyimpannya di tempatnya — samping ranjang, jarak satu tangan, kebiasaan baru yang sudah menjadi aturan tidak tertulis. Lalu ia keluar menjalani paginya: patroli jatah, laporan kedalaman, neraca Hourglass, semua pekerjaan raja-penjaga-bocah-tungku yang kini berjalan dalam tiga nama sekaligus.
 
-Dan untuk pertama kalinya sejak malam the Long Dusk seribu tahun silang, semua nama itu terasa seperti milik orang yang sama: dirinya.
+Dan untuk pertama kalinya sejak malam the Long Dusk seribu tahun silam, semua nama itu terasa seperti milik orang yang sama: dirinya.
 
 ---
 

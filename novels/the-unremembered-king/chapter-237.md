@@ -109,7 +109,7 @@ Surat-surat masuk ke Kantor Penghubung dari lembah-lembah yang belum tersentuh p
 
 "Kalau dia tidak punya siapa-siapa yang ingat... biar kami yang mulai mengingat."
 
-Delapan bulan silang kita meminta dunia menyelamatkan kedalaman. Sekarang dunia berebut menjadi keluarga bagi orang asing yang tidak punya apa-apa.
+Delapan bulan silam kita meminta dunia menyelamatkan kedalaman. Sekarang dunia berebut menjadi keluarga bagi orang asing yang tidak punya apa-apa.
 
 Itu bukan hasil proyek lagi. Itu peradaban yang sudah belajar.
 

@@ -49,7 +49,7 @@ MANUSIA: satu perempuan tua petani menemukan cara membangunkan dunia dengan berc
 
 Dan kalimat penutup neraca, ditulis Ashvarok dengan tangan tenang:
 
-Delapan bulan silang kita mulai dari pertanyaan: apa yang sebenarnya ada di sana?
+Delapan bulan silam kita mulai dari pertanyaan: apa yang sebenarnya ada di sana?
 
 Jawabannya sekarang lengkap dan tercatat: di sana ada ORANG. Orang yang menunggu sup hangat, mengingat lagu keluarga, minta disebut namanya, dan ingin tahu kabar kambing di atas sana.
 
@@ -65,7 +65,7 @@ Sela memimpin sesinya dengan daftar yang sudah ia siapkan semalam, dan satu per 
 
 Dan satu entri terakhir, yang oleh Sela ditulis pelan-pelan sambil membacanya keras-keras karena merasa sedang menutup lingkaran:
 
-Nat lorong barak utara. Nat tua yang delapan bulan silang tidak pernah dikunjungi siapa pun — sampai suatu malam Ashvarok lewat dan bilang maaf baru sekarang. Sejak itu ia disapa tiap malam bergilir oleh murid akademi. Namanya sekarang ada di bible: nat yang dulu sunyi, kini punya jadwal tamu.
+Nat lorong barak utara. Nat tua yang delapan bulan silam tidak pernah dikunjungi siapa pun — sampai suatu malam Ashvarok lewat dan bilang maaf baru sekarang. Sejak itu ia disapa tiap malam bergilir oleh murid akademi. Namanya sekarang ada di bible: nat yang dulu sunyi, kini punya jadwal tamu.
 
 "Begitulah," kata Sela menutup bukunya. "Kanon kita kini mencatat hal-hal yang dulu tidak dianggap penting: batu kecil di lorong, ibu-ibu dapur, anak penggembala." Ia memandang ruangan. "Itu artinya kanon kita akhirnya setara dengan dunia yang mau kita tinggali."
 
@@ -73,7 +73,7 @@ Nat lorong barak utara. Nat tua yang delapan bulan silang tidak pernah dikunjung
 
 Malam penutup batch ditutup dengan name train spesial — bukan untuk memulangkan siapa pun, melainkan untuk yang pertama kalinya: menyanyikan SEMUA nama yang sudah pulang, dari 185 jiwa, satu per satu, tanpa jeda, oleh gabungan penyanyi utara-timur-Caldrest.
 
-Lagu itu berlangsung dua jam. Orang tidak boleh pergi sebelum selesai — aturan tidak tertulis yang semua patuhi. Anak-anak tertidur di pangkuan orang tua tepat sebelum gerbong nama terakhir. Dan ketika nada penutup akhirnya datang — nada yang delapan bulan silang Kovan temukan artinya: "pulanglah, makan malam siap" — kedalaman menjawab dengan irama yang kali ini tidak diterjemahkan lagi, karena semua orang sudah hafal:
+Lagu itu berlangsung dua jam. Orang tidak boleh pergi sebelum selesai — aturan tidak tertulis yang semua patuhi. Anak-anak tertidur di pangkuan orang tua tepat sebelum gerbong nama terakhir. Dan ketika nada penutup akhirnya datang — nada yang delapan bulan silam Kovan temukan artinya: "pulanglah, makan malam siap" — kedalaman menjawab dengan irama yang kali ini tidak diterjemahkan lagi, karena semua orang sudah hafal:
 
 Selamat tidur. Kami di sini. Besok kita lanjut.
 
@@ -91,7 +91,7 @@ Ashvarok menunggu sampai cerita selesai. Lalu mereka berpapasan di ambang pasar,
 
 "Penduduk sini semua begitu," kata pedagang itu, sudah melangkah pergi. "Kota ini diajari sama siapa-siapa supaya nggak ada yang sunyi."
 
-Ashvarok berdiri sebentar di tengah pasar yang mulai ramai — pedagang membuka lapak, murid berlari ke akademi, asap dapur aula naik dari arah aula — dan merasakan hal yang delapan bulan silang tidak pernah ia rasakan sebagai raja maupun penjaga:
+Ashvarok berdiri sebentar di tengah pasar yang mulai ramai — pedagang membuka lapak, murid berlari ke akademi, asap dapur aula naik dari arah aula — dan merasakan hal yang delapan bulan silam tidak pernah ia rasakan sebagai raja maupun penjaga:
 
 Ia bukan lagi orang yang paling rajin menyapa di kotanya sendiri.
 
@@ -125,7 +125,7 @@ Bagi kedalaman, ini masa ketika mereka tidak lagi hanya didengar saat dibutuhkan
 
 Bagi Ashvarok, ini batch ketika ia menyerahkan sebagian besar pekerjaannya kepada orang lain dan justru melihat semuanya berjalan lebih baik: rantai cerita mengalir tanpa dirinya, sekolah mendengar mengajar tanpa dirinya, nat-nat kecil disapa pedagang pasar tanpa dirinya.
 
-Delapan bulan silang ia takut dunia lupa padanya setelah seribu tahun tidak berguna.
+Delapan bulan silam ia takut dunia lupa padanya setelah seribu tahun tidak berguna.
 
 Ternyata kebalikannya yang terjadi: dunia menjadi tempat yang tidak membutuhkan penyelamat lagi — karena sudah penuh penyelamat kecil, tersebar di setiap dapur, pos jemput, lereng penggembalaan, dan meja makan.
 

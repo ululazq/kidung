@@ -49,7 +49,7 @@ Maka dibuatlah keputusan kecil yang besar artinya: jadwal pemulangan wilayah ket
 
 Ketua majelis Dewan menandatangani revisi itu dengan komentar yang dikutip dua benua:
 
-"Delapan bulan silang saya belajar bahwa Caldrest tahu kapan harus cepat. Baru sekarang saya lihat mereka tahu kapan harus sabar. Dua-duanya sama pentingnya — dan sama sulitnya diajarkan. Untung ada sekolah."
+"Delapan bulan silam saya belajar bahwa Caldrest tahu kapan harus cepat. Baru sekarang saya lihat mereka tahu kapan harus sabar. Dua-duanya sama pentingnya — dan sama sulitnya diajarkan. Untung ada sekolah."
 
 ---
 
@@ -121,7 +121,7 @@ Saya masih akan kembali ke Spire. Saya masih akan menyusun formulir. Tapi mulai 
 
 Kolom itu bertanya: 'ada cerita keluarga yang belum diceritakan?'
 
-Karena delapan bulan silang, ribuan keluarga mengisi formulir pemerintah tentang orang-orang yang mereka hilangkan — dan tidak satu pun kolom kami pernah menanyakan hal yang paling penting: apa yang mereka INGAT tentang dia."
+Karena delapan bulan silam, ribuan keluarga mengisi formulir pemerintah tentang orang-orang yang mereka hilangkan — dan tidak satu pun kolom kami pernah menanyakan hal yang paling penting: apa yang mereka INGAT tentang dia."
 
 Catatan Odell dibacakan ibu Tamma di dapur, dan tanggapannya langsung dipakai sebagai penutup rapat pekan oleh Ashvarok:
 

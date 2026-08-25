@@ -39,7 +39,7 @@ Yang paling terharu malam itu justru yang paling diam: pengikat senior, yang ber
 
 Sela membuka gulungan itu setelah semua pergi, dengan Ashvarok dan Brannoc di sisiannya — dan isinya membuat ketiganya duduk dalam hening yang panjang: catatan lengkap ordo Penjaga Rekam, empat generasi, termasuk halaman yang tidak pernah diketahui siapa pun ada: DAFTAR PENDENGAR ALAMI — nama-nama manusia di seluruh Karvess yang terbukti bisa mendengar kedalaman tanpa seni. Empat generasi. Puluhan nama.
 Di antara mereka, dua nama yang membuat Ashvarok berdiri:
-"Pak Dekan, Caldrest — pendengar alami, konfirmasi 40 tahun silang."
+"Pak Dekan, Caldrest — pendengar alami, konfirmasi 40 tahun silam."
 "Barim, Caldrest — pendengar alami, subjek pemantauan aktif."
 Dan satu nama lagi, di halaman terakhir, tulisan tangan Sareth sendiri, baru saja ditambahkan (orang tua itu telah menyalin daftar sebelum menyerahkannya):
 "Ashvarok, Caldrest — pendengar alami tertua yang tercatat. Status: penjaga aktif."
@@ -76,7 +76,7 @@ Buku kedelapan Profesor Vunn, diterbitkan dua tahun kemudian, berjudul "Yang Dis
 
 Ashvarok menutup bab ini dengan entri yang merenungkan perubahan terbesar pada orang termudah diabaikan:
 Hari 412. Minggu ini aku mengamati tiga kepemimpinan bekerja bersamaan: Hale di balai kota, Sela di arsip, ibu Tamma di dapur. Tidak satu pun dari mereka memegang seni raja. Semua memegang sesuatu yang lebih langka: keputusan yang konsisten.
-Seribu tahun silang Hegemony percaya dunia digerakkan oleh kekuatan. Karvess delapan belas bulan terakhir membuktikan sebaliknya: dunia dirawat oleh orang-orang yang datang setiap hari dan melakukan hal yang sama tanpa jemu.
+Seribu tahun silam Hegemony percaya dunia digerakkan oleh kekuatan. Karvess delapan belas bulan terakhir membuktikan sebaliknya: dunia dirawat oleh orang-orang yang datang setiap hari dan melakukan hal yang sama tanpa jemu.
 Kekuatan bisa disegel. Konsistensi tidak.
 
 ---

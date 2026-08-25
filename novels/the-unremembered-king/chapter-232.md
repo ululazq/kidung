@@ -59,7 +59,7 @@ Siswa Spire bertanya-tanya. Nenek menjawab semua.
 
 Dan di akhir sesi, salah satu siswa — si mantan penilai pajak yang dulu menulis surat pendaftaran tentang "menghitung kerugian sebagai wajah" — berkata kepada ibu Tamma sambil menunjuk nenek yang sudah berjalan jauh didampingi Ilo:
 
-"Bu, delapan bulan silang saya hitung kerugian dua ratus tujuh puluh tujuh jiwa yang belum pulang sebagai ANGKA. Hari ini saya baru paham kenapa hitungan itu selalu terasa dingin." Ia menunjuk piring yang baru dicuci. "Setiap angka itu punya nenek seperti beliau. Punya pantun. Punya kamp yang nunggu." Ia menarik napas. "Saya minta izin: kalau wilayah ketiga naik nanti, saya mau jadi keluarga pengganti. Saya sudah daftar sejak pekan lalu, hanya belum bilang."
+"Bu, delapan bulan silam saya hitung kerugian dua ratus tujuh puluh tujuh jiwa yang belum pulang sebagai ANGKA. Hari ini saya baru paham kenapa hitungan itu selalu terasa dingin." Ia menunjuk piring yang baru dicuci. "Setiap angka itu punya nenek seperti beliau. Punya pantun. Punya kamp yang nunggu." Ia menarik napas. "Saya minta izin: kalau wilayah ketiga naik nanti, saya mau jadi keluarga pengganti. Saya sudah daftar sejak pekan lalu, hanya belum bilang."
 
 Ibu Tamma memandangnya, lalu mengambil papan dapur dan menulis:
 
@@ -75,7 +75,7 @@ Tiga kedalaman siap bekerja bersama. Seratus suara sudah satu napas. Jadwal: tet
 
 Dan satu catatan pribadi:
 
-Delapan bulan silang saya sering ditanya (oleh Spire, oleh Dewan, oleh kronik): apa kunci keberhasilan proyek ini?
+Delapan bulan silam saya sering ditanya (oleh Spire, oleh Dewan, oleh kronik): apa kunci keberhasilan proyek ini?
 
 Malam ini saya sadar jawaban yang jujur tidak pernah masuk laporan mana pun. Kuncinya bukan protokol. Bukan the Walking Key. Bukan bahkan lagu.
 

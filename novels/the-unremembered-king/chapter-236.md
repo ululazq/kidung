@@ -19,7 +19,7 @@ Hari-H datang dengan cuaca yang oleh para tetua disebut langit bagus: cerah tanp
 
 Enam puluh satu jiwa. Sembilan nat. Dan satu perbedaan prosedur yang khas barat laut: setiap jiwa yang naik DIBACA DULU namanya dari kain keluarganya — bukan dinyanyikan, tapi dibaca oleh penenun tua, sambil kain itu digelarkan di depan nat supaya orang yang naik bisa "membaca balik" nama keluarganya dari pola.
 
-Jiwa pertama: kepala kamp pertama, laki-laki tua yang tiga ratus tahun silang adalah pemimpin penitipan wilayah.
+Jiwa pertama: kepala kamp pertama, laki-laki tua yang tiga ratus tahun silam adalah pemimpin penitipan wilayah.
 
 Ia naik. Berdiri. Melihat kain besar yang digelarkan — dan membacanya sendiri, suaranya pelan mengikuti garis-garis pola dengan jari:
 
@@ -113,7 +113,7 @@ Dan satu catatan terakhir untuk arsip wilayah barat laut, dari ibu Tamma — yan
 
 Kepala kamp pertama menjawab surat itu keesokan harinya — lewat nat aula, karena katanya "lebih cepat dari kurir":
 
-"Terima kasih untuk supnya. Delapan belas generasi itu butuh banyak latihan memasak. Maka kami minta satu hal: ajarilah cucu-cucu kami masak. Kami tahu cara menanam. Tapi tiga ratus tahun silang, resep masakan kami hilang bersama kamp."
+"Terima kasih untuk supnya. Delapan belas generasi itu butuh banyak latihan memasak. Maka kami minta satu hal: ajarilah cucu-cucu kami masak. Kami tahu cara menanam. Tapi tiga ratus tahun silam, resep masakan kami hilang bersama kamp."
 
 Jawaban ibu Tamma:
 

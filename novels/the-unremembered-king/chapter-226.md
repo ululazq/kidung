@@ -41,7 +41,7 @@ Ia menyerahkan piring terakhir kepada Thessa untuk dibilas.
 
 ---
 
-Pekan enam sampai sembilan berlalu seperti musim yang baik: panen selesai, name train timur mulai dilatih dengan name train keluarga asli yang direkam dari Vess-Morath (delapan belas tahun silang, keluarga-keluarga timur punya lagu yang mirip tapi tidak sama — dan kedalaman membantu mencocokkan variasinya satu per satu), dan Ondrath-Ilm menerima kunjungan kedua dari Thessa yang kali ini datang dengan pertanyaan yang sudah disiapkan — lalu tidak memakainya, karena malam itu yang perlu didengar justru cerita Barim tentang masa-masa ia hampir berhenti menjadi penjaga.
+Pekan enam sampai sembilan berlalu seperti musim yang baik: panen selesai, name train timur mulai dilatih dengan name train keluarga asli yang direkam dari Vess-Morath (delapan belas tahun silam, keluarga-keluarga timur punya lagu yang mirip tapi tidak sama — dan kedalaman membantu mencocokkan variasinya satu per satu), dan Ondrath-Ilm menerima kunjungan kedua dari Thessa yang kali ini datang dengan pertanyaan yang sudah disiapkan — lalu tidak memakainya, karena malam itu yang perlu didengar justru cerita Barim tentang masa-masa ia hampir berhenti menjadi penjaga.
 
 Pekan sepuluh, ujian akhir diumumkan Sela dengan format yang membuat ketiga siswa tertawa karena lega:
 
@@ -53,7 +53,7 @@ Ketiga siswa duduk dengan tangan kosong. Dan sesuatu yang aneh terjadi pada masi
 
 Daven mendengar ARSITEKTUR — pola-pola antarkasus yang tak terlihat saat dibaca terpisah, cara kebocoran Hegemony merembes ke tujuh belas wilayah dengan urutan yang sama persis. "Kalau saya dengar sambil mencatat, saya akan kehilangan polanya karena sibuk menulis detail," katanya. "Detail sudah ada di arsip. Polanya hanya muncul kalau kita berani tangan kosong."
 
-Pellia mendengar ORANG — dan menangis di menit keempat puluh, saat pembacaan sampai pada pesan pamitan seorang ibu kepada anaknya yang delapan belas tahun silang masih sembilan tahun. Ia tidak ingat isi pesannya persis. "Tapi saya ingat rasanya," katanya. "Dan rasanya itu yang bikin saya yakin pekerjaan ini harus dilanjutkan di Spire."
+Pellia mendengar ORANG — dan menangis di menit keempat puluh, saat pembacaan sampai pada pesan pamitan seorang ibu kepada anaknya yang delapan belas tahun silam masih sembilan tahun. Ia tidak ingat isi pesannya persis. "Tapi saya ingat rasanya," katanya. "Dan rasanya itu yang bikin saya yakin pekerjaan ini harus dilanjutkan di Spire."
 
 Thessa mendengar MEJA MAKAN.
 
@@ -71,11 +71,11 @@ Kesimpulan Thessa mengubah satu hal konkret di persiapan pemulangan wilayah timu
 
 Setiap pos jemput wilayah timur kini dilengkapi MEJA MAKAN, bukan hanya kursi. Dan protokol sambutan direvisi: jiwa yang baru naik tidak langsung diajak ke acara atau perkenalan panjang. Ia duduk dulu. Sup hangat di depannya dalam dua menit. Baru setelah sup itu diminum, dunia boleh mulai bicara.
 
-"Delapan bulan silang kita mengukur kesuksesan pemulangan dari jumlah jiwa yang naik," kata Ashvarok saat mengesahkan revisi itu. "Mulai sekarang ukurannya satu: apakah orang yang pulang sempat makan sebelum dunia mulai minta sesuatu darinya."
+"Delapan bulan silam kita mengukur kesuksesan pemulangan dari jumlah jiwa yang naik," kata Ashvarok saat mengesahkan revisi itu. "Mulai sekarang ukurannya satu: apakah orang yang pulang sempat makan sebelum dunia mulai minta sesuatu darinya."
 
 Vess-Morath menyetujui revisi dengan irama yang diterjemahkan Kovan sambil tersenyum:
 
-"Petani memang begini. Sebelum ada urusan apa pun: makan dulu. Kalian butuh delapan bulan untuk sampai ke kebijakan yang kami punya tiga ratus tahun silang." Jeda irama. "Tidak apa-apa. Yang penting sampai. Dan supnya harus asin secukupnya — terlalu asin bikin haus tengah malam, nanti malah bangun."
+"Petani memang begini. Sebelum ada urusan apa pun: makan dulu. Kalian butuh delapan bulan untuk sampai ke kebijakan yang kami punya tiga ratus tahun silam." Jeda irama. "Tidak apa-apa. Yang penting sampai. Dan supnya harus asin secukupnya — terlalu asin bikin haus tengah malam, nanti malah bangun."
 
 Catatan soal tingkat keasinan sup langsung ditambahkan ke protokol resmi wilayah timur sebagai lampiran satu, oleh Daven sendiri, dengan judul "Lampiran Teknis dari Pengalaman Tiga Ratus Tahun".
 
@@ -105,10 +105,10 @@ Ketiga siswa berjanji. Daven berjanji dengan formalitas birokratnya yang khas ("
 
 Dan ketika mereka keluar dari dapur, Ashvarok — yang mendengar semuanya dari ambang pintu karena kebetulan lewat — diam lama di lorong, lalu melanjutkan jalannya sambil tersenyum kepada dirinya sendiri.
 
-Delapan bulan silang, pikirnya, kita bangun protokol, putusan hukum, preseden resonansi, pengakuan berdaulat, sekolah mendengar.
+Delapan bulan silam, pikirnya, kita bangun protokol, putusan hukum, preseden resonansi, pengakuan berdaulat, sekolah mendengar.
 
 Ternyata pelajaran penutupnya justru dari dapur lagi: nat-nat kecil itu juga punya nama.
 
-Sore ini, sebelum tidur, aku mau turun ke nat lorong barak utara — nat tua yang delapan bulan silang tidak pernah kupedulikan. Dan aku mau bilang: selamat malam. Maaf baru sekarang.
+Sore ini, sebelum tidur, aku mau turun ke nat lorong barak utara — nat tua yang delapan bulan silam tidak pernah kupedulikan. Dan aku mau bilang: selamat malam. Maaf baru sekarang.
 
 

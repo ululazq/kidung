@@ -31,7 +31,7 @@ Di pos empat puluh, ketua majelis Dewan Regional berdiri tanpa jabatan, dan keti
 
 Di pos lima puluh enam, seorang anak laki-laki tujuh tahun — generasi pertama yang lahir SETELAH kebocoran — naik ke kursi kayu yang disiapkan ayahnya supaya bisa melihat jelas, dan ketika neneknya yang belum pernah dikenalnya muncul dari tanah, anak itu tidak takut. Ia menyebut name train yang sudah dilatih enam pekan, salah satu suku katanya melenceng — dan nenek tua itu memperbaikinya dengan tersenyum: "hampir benar, Nak. Latihan lagi nanti malam bersama aku." Kalimat itu dikutip seribu kronik sebagai kalimat paling tenang dalam sejarah pemulangan.
 
-Dan di pos sembilan puluh sembilan — pos terakhir sebelum jiwa penutup — terjadi hal yang tidak direncanakan siapa pun dan oleh Sela dicatat dengan tinta berbeda: keluarga yang menunggu di pos itu ternyata membawa GERABAH. Gerabah Sarneth, dari garis keturunan gerabah utara yang delapan belas tahun silang sempat hampir putus. Ketika ibu tua keluarga itu naik dan melihat gerabah-gerabah itu tertata rapi menunggunya, ia tidak menangis. Ia memutari meja gerabah itu satu kali sambil menyentuh masing-masing seperti menghitung, lalu berkata: "kalian belajar sendiri?" Dan cucunya menjawab: "dari cerita tentang kamu."
+Dan di pos sembilan puluh sembilan — pos terakhir sebelum jiwa penutup — terjadi hal yang tidak direncanakan siapa pun dan oleh Sela dicatat dengan tinta berbeda: keluarga yang menunggu di pos itu ternyata membawa GERABAH. Gerabah Sarneth, dari garis keturunan gerabah utara yang delapan belas tahun silam sempat hampir putus. Ketika ibu tua keluarga itu naik dan melihat gerabah-gerabah itu tertata rapi menunggunya, ia tidak menangis. Ia memutari meja gerabah itu satu kali sambil menyentuh masing-masing seperti menghitung, lalu berkata: "kalian belajar sendiri?" Dan cucunya menjawab: "dari cerita tentang kamu."
 
 ---
 
@@ -103,4 +103,4 @@ Ternyata itulah bentuk paling sederhana dari kata pulang: bukan hanya kembali ke
 
 Dan satu catatan terakhir untuk halaman pertama Arsip era ketiga, tulisan tangan Ashvarok:
 
-Hari ini dunia membuktikan sesuatu yang seribu tahun silang kupandang mustahil: bahwa pintu bisa dibuka selebar-lebarnya dan justru tidak ada yang jatuh keluar — karena yang di dalam sudah siap naik, dan yang di atas sudah belajar menunggu dengan benar. Kesabaran ternyata bukan menahan diri. Kesabaran adalah persiapan.
+Hari ini dunia membuktikan sesuatu yang seribu tahun silam kupandang mustahil: bahwa pintu bisa dibuka selebar-lebarnya dan justru tidak ada yang jatuh keluar — karena yang di dalam sudah siap naik, dan yang di atas sudah belajar menunggu dengan benar. Kesabaran ternyata bukan menahan diri. Kesabaran adalah persiapan.

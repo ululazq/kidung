@@ -7,7 +7,7 @@ Temuan itu datang dari tempat yang tidak disangka siapa pun: daftar pendengar al
 
 "Guru." Panggilan gadis itu suatu sore, dan nada suaranya membuat Ashvarok meninggalkan neraca yang sedang ia sunting. Sela jarang memanggilnya dengan nada seperti itu — nada orang yang menemukan sesuatu dan tidak yakin ingin benar. Ia menunjuk satu baris di halaman yang sudah dibaca semua orang berkali-kali — baris yang dulu hanya menarik karena satu kata: Caldrest.
 
-"Pak Dekan, Caldrest — pendengar alami, konfirmasi empat puluh tahun silang."
+"Pak Dekan, Caldrest — pendengar alami, konfirmasi empat puluh tahun silam."
 
 "Baru saja kita bahas ini. Pak Dekan memang pendengar alami. Itu sebabnya dia bisa mendengar kedalaman tanpa alat."
 
@@ -29,7 +29,7 @@ Sela yang memecah keheningan, dengan suara kecil pencatat yang sedang menghitung
 
 "'Pembaruan subjek utama: murid alami tidak ditemukan pada malam kebocoran. Kemungkinan besar ikut masuk ke penyimpanan. Jika benar — subjek adalah salah satu penyimpanan TERDAFTAR kami. Dicari.'"
 
-Dicari. Ordo Penjaga Rekam mencari bocah itu delapan belas tahun silang — dan tidak pernah menemukannya, karena ordo sendiri dibubarkan tak lama kemudian, karena arsipnya disembunyikan, karena dunia lupa bahwa ordo itu pernah ada.
+Dicari. Ordo Penjaga Rekam mencari bocah itu delapan belas tahun silam — dan tidak pernah menemukannya, karena ordo sendiri dibubarkan tak lama kemudian, karena arsipnya disembunyikan, karena dunia lupa bahwa ordo itu pernah ada.
 
 Tapi kedalaman tidak pernah lupa apa yang tersimpan di dalamnya. Kedalaman tidak PERNAH lupa apa pun.
 
@@ -61,7 +61,7 @@ Balasan datang sepuluh hari kemudian, tulisan tangan juru ukur yang rapi seperti
 
 "Ayah tidak pernah menyebut punya anak laki-laki. Tapi ibu, waktu masih hidup, pernah cerita ada bocah yang dengar batu tinggal sebentar di rumah — sepupu jauh yang disayang ayah lebih dari sepupu biasanya. Bocah itu hilang suatu malam dan ayah berubah sejak itu. Dulu aku pikir cerita itu soal kehilangan biasa." Jeda; tulisannya makin besar: "Kalau bocah itu masih di bawah tanah utara... bawakan dia pulang. Dan bilang dia, rumah keluarga ini belum pernah pindah. Pintunya masih yang sama."
 
-Ashvarok membaca salinan balasan itu di gudang perkakas — tempat favoritnya berpikir, karena bau minyak mesin membuatnya ingat bahwa dunia punya bagian yang sederhana — dan menemukan potongan yang membuat seluruh teka-teki lama bergeser: bocah itu pernah tinggal DI RUMAH PAK DEKAN. Bukan sekadar murid jauh — keluarga angkat, atau kerabat yang diasuh. Dan "hilang suatu malam" delapan belas tahun silang cocok persis dengan tanggal kebocoran utara.
+Ashvarok membaca salinan balasan itu di gudang perkakas — tempat favoritnya berpikir, karena bau minyak mesin membuatnya ingat bahwa dunia punya bagian yang sederhana — dan menemukan potongan yang membuat seluruh teka-teki lama bergeser: bocah itu pernah tinggal DI RUMAH PAK DEKAN. Bukan sekadar murid jauh — keluarga angkat, atau kerabat yang diasuh. Dan "hilang suatu malam" delapan belas tahun silam cocok persis dengan tanggal kebocoran utara.
 
 Ia membawa surat itu langsung kepada Sareth Vayin, dan pengikat senior mendengarkannya sampai selesai tanpa berkata apa-apa, lalu diam lama, lalu bertanya pertanyaan yang tidak dipikirkan siapa pun:
 

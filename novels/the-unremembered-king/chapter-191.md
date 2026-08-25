@@ -21,7 +21,7 @@ Tercatat. Di halaman pertama registri cerita, ditulis ulang oleh Ashvarok sendir
 
 Kotak-kotak itu juga menarik pengunjung tak terduga: Kovan datang membawa ceritanya sendiri pada bulan kedua, ditulis dengan tangan yang tidak yakin apakah ini tempatnya.
 
-Ceritanya: waktu masih pengawas garis, dua tahun silang, ia pernah duduk sendirian di koridor timur setelah uji vein yang gagal — malam ia pertama kali kehilangan teori tentang segalanya. Dan di nat di sebelahnya, ada getar pelan yang tidak bisa dijelaskan instrumen: irama tenang, berulang, "seperti orang duduk di sebelahmu tanpa bicara supaya kamu tidak merasa sendirian."
+Ceritanya: waktu masih pengawas garis, dua tahun silam, ia pernah duduk sendirian di koridor timur setelah uji vein yang gagal — malam ia pertama kali kehilangan teori tentang segalanya. Dan di nat di sebelahnya, ada getar pelan yang tidak bisa dijelaskan instrumen: irama tenang, berulang, "seperti orang duduk di sebelahmu tanpa bicara supaya kamu tidak merasa sendirian."
 
 "Dulu aku coret temuan itu dari laporan karena tidak bisa dijelaskan," tulis Kovan. "Sekarang aku tahu: itu dia. Yang paling kesepian di Karvess duduk menemani penghitung yang paling kesepian. Dan kita dua-duanya tidak sadar."
 

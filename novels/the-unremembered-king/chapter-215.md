@@ -35,7 +35,7 @@ Aula itu diam lama setelah kalimat terakhir dibaca. Yang memecah keheningan adal
 
 "Jadi Dewan mau minta tolong ke kalian semua... dan baru sadar sekarang?"
 
-"Lebih aneh dari itu," kata Ossian. "Mereka TIDAK minta tolong. Mereka mengundang. Ada bedanya. Tolong artinya mereka masih merasa lebih besar. Mengundang artinya..." Ia mencari kata yang tepat, dan menemukannya dari kosakata yang delapan bulan silang tidak akan pernah ia pakai: "...artinya mereka sadar meja ini lebih panjang dari meja mereka."
+"Lebih aneh dari itu," kata Ossian. "Mereka TIDAK minta tolong. Mereka mengundang. Ada bedanya. Tolong artinya mereka masih merasa lebih besar. Mengundang artinya..." Ia mencari kata yang tepat, dan menemukannya dari kosakata yang delapan bulan silam tidak akan pernah ia pakai: "...artinya mereka sadar meja ini lebih panjang dari meja mereka."
 
 Siapa saja yang akan menandatangani menjadi diskusi makan siang yang panjang. Wakil Caldrest: Hale (wali kota), ibu Tamma (suara barak), dan Sela (Arsip) — dipilih karena "tangan-tangan yang bekerja setiap hari". Ibu Tamma menerima pencalonannya dengan syarat khasnya: "Aku menandatangani kalau setelah upacara ada makan. Dokumen penting tidak boleh ditandatangani di perut kosong — orang jadi mudah setuju pada isi yang jelek." Pasal katering masuk agenda resmi dalam lima menit.
 

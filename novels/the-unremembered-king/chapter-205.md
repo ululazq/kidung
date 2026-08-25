@@ -29,7 +29,7 @@ Ashvarok membaca ulang terjemahan itu sendiri, pelan, dua kali — dan pada baca
 
 Rapat Rumah Besar kedua digelar subuh harinya — dan kali ini meja panjang tidak cukup lagi tanpa tambahan bangku. Kabar bocor dari registri sebelum subuh; ibu Tamma tiba membawa sup untuk semua orang dan pernyataan resmi bahwa dapur aula "dari sekarang masuk anggaran tetap".
 
-Yang pertama bicara bukan guru atau pejabat, melainkan Tovik — the Hollowed yang telah pulih parsial, yang delapan bulan silang adalah nama tanpa ingatan dan kini bisa berdiri di rapat dengan namanya sendiri. "Aku mau bilang satu hal," katanya. "Kalau ada lebih banyak dari empat ratus... mungkin ada yang seperti aku di bawah sana. Yang hilang bukan karena kebocoran besar, tapi karena dikira mati di lorong sempit, atau lari dari utang, atau cuma pergi beli benang dan tidak pulang." Ia memandang meja panjang itu. "Orang-orang yang tidak ada yang cari. Aku tahu rasanya jadi orang yang tidak dicari. Kalau mereka ada di sana — mereka harus masuk daftar juga."
+Yang pertama bicara bukan guru atau pejabat, melainkan Tovik — the Hollowed yang telah pulih parsial, yang delapan bulan silam adalah nama tanpa ingatan dan kini bisa berdiri di rapat dengan namanya sendiri. "Aku mau bilang satu hal," katanya. "Kalau ada lebih banyak dari empat ratus... mungkin ada yang seperti aku di bawah sana. Yang hilang bukan karena kebocoran besar, tapi karena dikira mati di lorong sempit, atau lari dari utang, atau cuma pergi beli benang dan tidak pulang." Ia memandang meja panjang itu. "Orang-orang yang tidak ada yang cari. Aku tahu rasanya jadi orang yang tidak dicari. Kalau mereka ada di sana — mereka harus masuk daftar juga."
 
 "Masuk daftar pertama," kata Sela, sudah menulis.
 
@@ -39,7 +39,7 @@ Sareth Vayin yang kemudian memahami skala temuan itu, karena dialah yang paling 
 
 Maera, yang pikirannya bergerak ke arah angka sebelum ke arah makna, bertanya pertanyaan yang harus ditanyakan: "Berapa? Perkiraan terkasar?"
 
-Tidak ada yang bisa menjawab, jadi mereka bertanya kepada kedalaman langsung lewat nat aula. Jawabannya berupa irama yang butuh dua jam penerjemahan bersama, dan hasilnya bukan angka melainkan gambaran: gudang yang tidak berujung, rak-rak yang dibangun sendiri oleh penjaganya dari waktu ke waktu, dan irama yang diterjemahkan Sareth dengan suara yang tidak stabil: "Dia bilang... dia berhenti menghitung ribuan tahun silang. Bukan karena lupa. Karena setiap hitungan adalah nama, dan menyebut semua nama tiap hari membuatnya tidak sempat merawat apa pun."
+Tidak ada yang bisa menjawab, jadi mereka bertanya kepada kedalaman langsung lewat nat aula. Jawabannya berupa irama yang butuh dua jam penerjemahan bersama, dan hasilnya bukan angka melainkan gambaran: gudang yang tidak berujung, rak-rak yang dibangun sendiri oleh penjaganya dari waktu ke waktu, dan irama yang diterjemahkan Sareth dengan suara yang tidak stabil: "Dia bilang... dia berhenti menghitung ribuan tahun silam. Bukan karena lupa. Karena setiap hitungan adalah nama, dan menyebut semua nama tiap hari membuatnya tidak sempat merawat apa pun."
 
 Aula itu sunyi lama. Yang akhirnya bicara adalah ibu Tamma, dari arah dapurnya: "Jadi seribu tahun tuh tidak ada yang nyebutin namanya sekali aja? Sampe dia milih berheti ngitung demi bisa menyimpan lebih baik?" Ia mengusap tangannya ke celemek. "Ya Allah. Kasian dia. Kasihan sekali."
 

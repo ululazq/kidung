@@ -5,7 +5,7 @@ chapter: 193
 
 Kunjungan utara ketiga membawa Ossian Vael ke menara arsip untuk tinggal selama sebulan — bukan rombongan besar, hanya ia, Maera, dan dua juru tulis akademi — dengan tugas tunggal: membaca seluruh arsip kotak Vessia.
 
-Kotak penjaga aktif itu menyimpan lebih dari catatan Barim. Di rak terdalam, Sareth menemukan koleksi pribadi milik seorang arsiparis ordo yang bertugas di utara delapan belas tahun silang — dan di dalamnya, terdokumentasi utuh, adalah cerita yang tidak pernah diketahui Ossian tentang kakaknya sendiri.
+Kotak penjaga aktif itu menyimpan lebih dari catatan Barim. Di rak terdalam, Sareth menemukan koleksi pribadi milik seorang arsiparis ordo yang bertugas di utara delapan belas tahun silam — dan di dalamnya, terdokumentasi utuh, adalah cerita yang tidak pernah diketahui Ossian tentang kakaknya sendiri.
 
 Vessia Vael tidak dikunjungi sunyi pada malam kebocoran. Ia malah menyelamatkan dua belas anak kabupaten — menyembunyikan mereka di menara arsip, mengajari mereka bahasa pendengar agar bisa "menunggu dengan benar", dan menjaga mereka selama berminggu-minggu sementara sunyi naik perlahan. Ia mati — "pergi", kata arsip ordo, karena orang-orang yang diserahkan ke penyimpanan kedalaman tidak dikategorikan mati oleh ordo tua — sebagai penjaga terakhir, setelah memastikan dua belas anak itu aman tersimpan.
 
@@ -39,7 +39,7 @@ Sela menerima salinan perintah itu di pos Guild, membacanya, lalu menulis di pap
 
 Bulan di menara utara bukan bulan yang sunyi — dan justru interaksi dengan penduduk lokal yang memberikan lapisan baru: reruntuhan kabupaten tidak kosong. Ada yang tinggal.
 Tiga keluarga petani kembali mendiami tepi lembah lima tahun terakhir — keturunan jauh dari yang hilang, yang menolak pindah meski wilayah itu bertahun-tahun dianggap sialan. Mereka menyambut rombongan Ossian dengan cara paling praktis: "Kalian mau membaca batu? Baca juga nat sumur kami. Ibu kami dulu selalu bilang sumur itu mendengarkan."
-Nat sumur itu dibaca pasangan hitung yang mengikuti rombongan — dan isinya membuat seluruh tim diam: delapan belas tahun silang, seorang perempuan (ibu dari keluarga itu) datang tiap pagi ke sumur dan bicara kepada kedalaman tentang cucu-cucunya. Delapan belas tahun. Satu arah. Tanpa tahu bahwa ia sedang berbicara dengan tempat penyimpanan anak-anaknya sendiri.
+Nat sumur itu dibaca pasangan hitung yang mengikuti rombongan — dan isinya membuat seluruh tim diam: delapan belas tahun silam, seorang perempuan (ibu dari keluarga itu) datang tiap pagi ke sumur dan bicara kepada kedalaman tentang cucu-cucunya. Delapan belas tahun. Satu arah. Tanpa tahu bahwa ia sedang berbicara dengan tempat penyimpanan anak-anaknya sendiri.
 
 ---
 
@@ -90,7 +90,7 @@ Biji itu ditanam Sela dan murid-murid akademi pekan berikutnya, di sisi nat-nat 
 
 Dan baris-baris terakhir bab 193 — entri Hourglass Ashvarok yang menutup semuanya:
 Hari 397. Neraca bulan utara: satu kategori arsip baru, satu daftar prioritas yang disusun kedalaman, satu keluarga penjaga-pintu ditemukan, dan sekantong biji bunga.
-Seribu tahun silang, wilayah ini ditutup dengan segel dan dikunci dengan takutan. Hari ini ia dibuka dengan sup, biji bunga, dan ibu tua yang delapan belas tahun menulis surat ke air.
+Seribu tahun silam, wilayah ini ditutup dengan segel dan dikunci dengan takutan. Hari ini ia dibuka dengan sup, biji bunga, dan ibu tua yang delapan belas tahun menulis surat ke air.
 Sejarah akan mencatat bahwa utara dibuka oleh dua tradisi pendengar dan satu jabatan Spire. Tapi aku catat yang benar di sini: utara dibuka oleh seorang ibu yang tidak pernah berhenti berbicara.
 
 ---

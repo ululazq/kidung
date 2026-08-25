@@ -9,7 +9,7 @@ Mereka datang dari semua distrik — pekerja tambang, pedagang pasar, anak-anak 
 
 Di meja depan: Ashvarok, dalam tubuh Renn, berdiri bersama Sela dan Brannoc.
 
-"Sebelum kita mulai," kata Ashvarok kepada balai kota, "kalian semua kenal saya sebagai Renn. Malam ini saya bicara juga sebagai orang lain — orang yang sudah perkenalkan dirinya pekan lalu di gudang perkakas." Ia memandang kerumunan. "Utara Karvess. Delapan belas tahun silang. Sebuah kabupaten hilang — begitu kata semua dokumen resmi. Malam ini kita tidak akan membahas bagaimana dia hilang. Itu pekerjaan komisi lain, dan sudah dimulai. Malam ini kita melakukan hal yang tidak dilakukan siapa pun selama delapan belas tahun."
+"Sebelum kita mulai," kata Ashvarok kepada balai kota, "kalian semua kenal saya sebagai Renn. Malam ini saya bicara juga sebagai orang lain — orang yang sudah perkenalkan dirinya pekan lalu di gudang perkakas." Ia memandang kerumunan. "Utara Karvess. Delapan belas tahun silam. Sebuah kabupaten hilang — begitu kata semua dokumen resmi. Malam ini kita tidak akan membahas bagaimana dia hilang. Itu pekerjaan komisi lain, dan sudah dimulai. Malam ini kita melakukan hal yang tidak dilakukan siapa pun selama delapan belas tahun."
 
 Ia mengangkat daftar itu.
 
@@ -23,7 +23,7 @@ Ossian membaca nama pertama sampai kesembilan — keluarga intinya sendiri, suar
 
 Ibu Tamma memimpin blokedua — dua puluh nama keluarga petani tepian yang namanya dibacakan dengan tempo dapur: pelan, jelas, tanpa drama. Anak-anak name train menjawab setiap nama selesai dengan "dicatat", latihan baru yang disempurnakan Sela subuh harinya.
 
-Brannoc membaca blok ketiga. Pengikat senior blok keempat, dengan catatan bahwa tujuh nama di blok itu adalah nama yang pernah ia lewati di jalur patrolinya empat puluh tahun silang, dan ia menyebut masing-masing dua kali — sekali sebagai kewajiban, sekali sebagai permintaan maaf.
+Brannoc membaca blok ketiga. Pengikat senior blok keempat, dengan catatan bahwa tujuh nama di blok itu adalah nama yang pernah ia lewati di jalur patrolinya empat puluh tahun silam, dan ia menyebut masing-masing dua kali — sekali sebagai kewajiban, sekali sebagai permintaan maaf.
 
 Maera membaca blok kelima dan keenam. Kovan blok ketujuh — dan pada blok itulah sesuatu terjadi.
 

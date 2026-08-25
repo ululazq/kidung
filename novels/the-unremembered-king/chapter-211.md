@@ -37,7 +37,7 @@ Kepala tambang itu diam lama. Lalu bertanya pertanyaan yang membuat pasangan hit
 
 "Nat-nat di kota kalian... semuanya begini?"
 
-"Tidak," kata Kovan jujur. "Yang kami temukan kemarin, sebelas nat kecil di sepanjang jalan dari Caldrest — mungkin juga menyimpan sesuatu yang tidak kita duga. Kami baru belajar bahwa kita belum pernah benar-benar TANYA ke nat mana pun sebelum delapan bulan silang. Semua orang cuma takut, atau manfaat, atau abaikan." Ia menepuk buku hitungannya. "Tiga generasi kalian takut. Kami puluhan tahun manfaatin tanpa pamit. Bedanya tipis."
+"Tidak," kata Kovan jujur. "Yang kami temukan kemarin, sebelas nat kecil di sepanjang jalan dari Caldrest — mungkin juga menyimpan sesuatu yang tidak kita duga. Kami baru belajar bahwa kita belum pernah benar-benar TANYA ke nat mana pun sebelum delapan bulan silam. Semua orang cuma takut, atau manfaat, atau abaikan." Ia menepuk buku hitungannya. "Tiga generasi kalian takut. Kami puluhan tahun manfaatin tanpa pamit. Bedanya tipis."
 
 "Dan kalau semua nat di dunia ini seperti lorong empat kami?"
 

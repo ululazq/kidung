@@ -75,7 +75,7 @@ Kini: akademi dengan dua puluh dua murid. Registri dengan arsip nasional. Armada
 
 Mereka tiba saat matahari terbenam, dan Caldrest menyambut kafilah utara dengan cara yang tidak akan pernah dilupakan siapa pun yang menyaksikannya: seluruh kota keluar ke jalan raya — dan alih-alih tepuk tangan, mereka melakukan name train raksasa. Ratusan orang, dari ujung lereng sampai pasar, menyebut nama satu per satu dalam rantai yang tak putus, dimulai anak-anak sekolah dan berakhir di ibu Tamma, dan setiap pelopor dijawab "ada" oleh warga saat namanya sampai.
 
-Ketika rantai sampai pada Ossian Vael — pejabat secte, mantan antagonis Arc 1, pria yang datang ke kota ini untuk mengambil dan pulang membawa suara kakaknya — seluruh jalan raya menyebut namanya bersama-sama. Dan Ossian Vael, untuk pertama kalinya sejak ia meninggalkan Spire bertahun-tahun silang, menangis di depan umum tanpa mencoba menyembunyikannya.
+Ketika rantai sampai pada Ossian Vael — pejabat secte, mantan antagonis Arc 1, pria yang datang ke kota ini untuk mengambil dan pulang membawa suara kakaknya — seluruh jalan raya menyebut namanya bersama-sama. Dan Ossian Vael, untuk pertama kalinya sejak ia meninggalkan Spire bertahun-tahun silam, menangis di depan umum tanpa mencoba menyembunyikannya.
 
 Ashvarok berdiri di sampingnya sampai selesai. Tidak berkata apa-apa. Tidak perlu.
 
@@ -84,7 +84,7 @@ Di kedalaman, empat puluh hasta lebih dalam, tamu tua yang kesunyian itu mendeng
 ---
 
 Yang tidak dicatat laporan resmi kunjungan utara adalah tiga peristiwa kecil yang justru paling diingat semua pelopor sampai puluhan tahun kemudian.
-Pertama, di reruntuhan sekolah kabupaten: Sela menemukan papan tulis asli utara — batu tulis basah era lama — masih tergantung di dinding kelas yang runtuh sebagian, dengan tulisan kapur yang belum sepenuhnya hilang: daftar hadir anak-anak, tertanggal delapan belas tahun silang. Ia menyalin seluruhnya dengan tangan gemetar ke buku Arsip: "Dua puluh satu nama. Semua masuk daftar empat ratus. Semua akan dibacakan."
+Pertama, di reruntuhan sekolah kabupaten: Sela menemukan papan tulis asli utara — batu tulis basah era lama — masih tergantung di dinding kelas yang runtuh sebagian, dengan tulisan kapur yang belum sepenuhnya hilang: daftar hadir anak-anak, tertanggal delapan belas tahun silam. Ia menyalin seluruhnya dengan tangan gemetar ke buku Arsip: "Dua puluh satu nama. Semua masuk daftar empat ratus. Semua akan dibacakan."
 
 Kedua, di menara arsip: Kovan dan pengikat senior menemukan brankas ordo yang kombinasi angkanya hilang dari ingatan hidup mana pun — tapi tidak dari ingatan kedalaman. Ashvarok bertanya lewat Listen, dan jawaban kedalaman membuat orang tua itu tertawa setengah menit tanpa henti: kombinasinya adalah tanggal hari ordo itu didirikan, "karena pendiri ordo sama bodohnya dengan semua manusia dalam memilih kata sandi."
 

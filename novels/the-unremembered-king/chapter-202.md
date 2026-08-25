@@ -89,7 +89,7 @@ Hari 389. Kasus uji kedua: DITOLAK — dan itu juga keberhasilan. Karena kita be
 
 Ia menutup bukunya, lalu membukanya lagi dan menambahkan satu baris yang tidak masuk laporan resmi:
 
-Catatan pribadi: delapan bulan silang aku pikir pekerjaan terbesar era ini adalah membuka segel. Ternyata yang lebih sulit adalah menahan tangan sendiri agar tidak membuka pintu rumah orang lain sebelum penghuninya siap.
+Catatan pribadi: delapan bulan silam aku pikir pekerjaan terbesar era ini adalah membuka segel. Ternyata yang lebih sulit adalah menahan tangan sendiri agar tidak membuka pintu rumah orang lain sebelum penghuninya siap.
 
 Keesokan paginya, satu kabar kecil datang lewat jalur yang sudah biasa: ibu Tamma membawa kabar bahwa keluarga tukang besi itu memesan name train pelatihan untuk seorang anak — "bukan buat kakeknya," kata sumbernya, "kata si bapak, 'buat anakku. Biar kalau nanti dia ketemu, dia tidak butuh diterjemahin.'"
 

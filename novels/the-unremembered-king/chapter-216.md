@@ -45,7 +45,7 @@ Yang membuat kasus ini berbeda dari semua kasus sebelumnya: untuk pertama kaliny
 
 Ashvarok menulis di neracanya malam itu:
 
-Hari 548. Kami sudah memikirkan protokol pemulangan jiwa: cerita, keluarga, lagu, pekerjaan tertunda. Kami belum pernah memikirkan protokol pemulangan HIDUP: ladang, rumah, sumur, jalan. Delapan belas tahun silang orang-orang utara hilang — dan dunia tidak cuma mengambil keberadaan mereka. Dunia menduduki tempat-tempat mereka, dengan surat hak, stempel, dan segala kesopanan.
+Hari 548. Kami sudah memikirkan protokol pemulangan jiwa: cerita, keluarga, lagu, pekerjaan tertunda. Kami belum pernah memikirkan protokol pemulangan HIDUP: ladang, rumah, sumur, jalan. Delapan belas tahun silam orang-orang utara hilang — dan dunia tidak cuma mengambil keberadaan mereka. Dunia menduduki tempat-tempat mereka, dengan surat hak, stempel, dan segala kesopanan.
 
 Pertanyaan Vess-Morath membuka lapisan baru dari seluruh proyek ini: memulangkan orang tanpa memulangkan tanahnya artinya memulangkan mereka menjadi tamu di rumahnya sendiri.
 

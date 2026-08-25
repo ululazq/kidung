@@ -113,4 +113,4 @@ Dan begitulah, malam terakhir Vess-Morath di dalam kedalaman diakhiri bukan deng
 
 "Kita putuskan besok: dua sendok untuk semua. Kalau ada yang kurang manis... tambah sendoknya sendiri. Itu hak setiap manusia yang sudah pulang."
 
-Ashvarok menemukan surat lama di antara dokumen Hegemony: permintaan maaf yang ditulis seribu tahun silang tapi tidak pernah dikirim. Ia membacanya dua kali, lalu meletakkannya di Arsip dengan label baru: "bukti bahwa penyesalan juga butuh keberanian ekstra. Yang ini tidak sempat. Kita yang sekarang punya."
+Ashvarok menemukan surat lama di antara dokumen Hegemony: permintaan maaf yang ditulis seribu tahun silam tapi tidak pernah dikirim. Ia membacanya dua kali, lalu meletakkannya di Arsip dengan label baru: "bukti bahwa penyesalan juga butuh keberanian ekstra. Yang ini tidak sempat. Kita yang sekarang punya."

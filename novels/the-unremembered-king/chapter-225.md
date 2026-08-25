@@ -9,7 +9,7 @@ Kurikulum bimbingan untuk Spire disusun dalam tiga rapat — dan gagal total di 
 
 Sela membela dirinya: "Isinya memang protokol kita. Itu materinya."
 
-"Bukan," kata Ashvarok. "Protokol kita itu HASIL. Kalau kita mengajari Spire hasilnya, mereka pulang dengan aturan baru dan telinga lama. Yang harus diajari adalah CARA KITA SAMPAI DI SINI." Ia berdiri, berjalan ke nat pusat, dan meletakkan telapak tangannya di batu. "Delapan bulan silang tidak ada satu pun langkah kita yang dimulai dari dokumen. Semua dimulai dari seseorang bertanya: apa yang sebenarnya ada di sana?"
+"Bukan," kata Ashvarok. "Protokol kita itu HASIL. Kalau kita mengajari Spire hasilnya, mereka pulang dengan aturan baru dan telinga lama. Yang harus diajari adalah CARA KITA SAMPAI DI SINI." Ia berdiri, berjalan ke nat pusat, dan meletakkan telapak tangannya di batu. "Delapan bulan silam tidak ada satu pun langkah kita yang dimulai dari dokumen. Semua dimulai dari seseorang bertanya: apa yang sebenarnya ada di sana?"
 
 Rapat itu berakhir dengan keputusan yang mengganti seluruh draf: kurikulum bimbingan Caldrest untuk Spire TIDAK MEMILAI MATERI TERTULIS.
 
@@ -37,7 +37,7 @@ Dan pada hari ketiga panen, Thessa — si kaku yang selalu melihat jam — melak
 
 Ashvarok, yang mendengar percakapan itu dari pos sebelah, menulis di neracanya malam harinya satu kalimat:
 
-Hari 604. Siswa pertama mulai mengerti. Bukan soal gandum — soal waktu. Delapan bulan silang kita butuh waktu lama untuk paham bahwa tidak semua yang penting bisa dijadwalkan. Mereka butuh tiga hari. Generasi birokrat sedang membaik.
+Hari 604. Siswa pertama mulai mengerti. Bukan soal gandum — soal waktu. Delapan bulan silam kita butuh waktu lama untuk paham bahwa tidak semua yang penting bisa dijadwalkan. Mereka butuh tiga hari. Generasi birokrat sedang membaik.
 
 ---
 
@@ -47,7 +47,7 @@ Di sinilah ketiga siswa mendapat pelajaran yang tidak masuk draf kurikulum lama:
 
 Daven — yang paling senior dan paling percaya pada rencana kerja — mengusulkan denah pos jemput berdasarkan peta topografi lembah timur. Denahnya rapi, efisien, dan salah semua. Vess-Morath yang menolaknya lewat nat aula, dengan alasan yang membuat Daven membawa denah itu ke meja rapat sambil tertawa gugup:
 
-"Pos nomor empat kalian taruh di tanah milik keluarga Wren. Keluarga itu delapan belas tahun silang menyelamatkan jiwa bernama Sova — dia sekarang bagian dari kami. Tanah itu bukan tempat pos. Tanah itu makam kenangan. Pindahkan dua puluh langkah ke barat, dekat batu datar. Di sanalah Sova dulu duduk menunggu hujan reda."
+"Pos nomor empat kalian taruh di tanah milik keluarga Wren. Keluarga itu delapan belas tahun silam menyelamatkan jiwa bernama Sova — dia sekarang bagian dari kami. Tanah itu bukan tempat pos. Tanah itu makam kenangan. Pindahkan dua puluh langkah ke barat, dekat batu datar. Di sanalah Sova dulu duduk menunggu hujan reda."
 
 "Kalian punya peta," kata Ashvarok kepada Daven, "dan mereka punya ingatan. Ingatan selalu menang. Tapi kabarnya baik: kalian boleh punya keduanya."
 
@@ -83,7 +83,7 @@ Pertanyaan itu membuat presensia tua itu sunyi cukup lama sampai Ashvarok hampir
 
 Thessa pulang dengan wajah merah — dan malamnya ia menulis surat pertamanya kepada Spire sejak tiba di Caldrest, yang kalimat pembukanya oleh Sela dikutip ke arsip tanpa diedit:
 
-"Kepada Dewan Regional yang saya hormati: hari ini saya bertanya kepada penjaga malam tertua dunia apakah ia bosan, dan ia menjawab dengan seribu tahun data. Saya ingin melapor bahwa pendidikan saya yang sesungguhnya baru dimulai tujuh hari silang, di sebuah dapur, oleh seorang ibu yang memaksa saya mencuci tangan."
+"Kepada Dewan Regional yang saya hormati: hari ini saya bertanya kepada penjaga malam tertua dunia apakah ia bosan, dan ia menjawab dengan seribu tahun data. Saya ingin melapor bahwa pendidikan saya yang sesungguhnya baru dimulai tujuh hari silam, di sebuah dapur, oleh seorang ibu yang memaksa saya mencuci tangan."
 
 ---
 
@@ -93,7 +93,7 @@ Karena ketua majelis tidak berhenti di pembacaan. Ia memutuskan — lewat suara 
 
 Angkatan kedua sudah mendaftar sebelum angkatan pertama selesai: sembilan nama, termasuk dua notaris, satu arsiparis Spire, dan — mengejutkan semua orang — satu mantan penilai pajak yang dalam surat pendaftarannya menulis: "saya delapan tahun menghitung kerugian orang lain sebagai angka. Saya ingin belajar menghitungnya sebagai wajah."
 
-Ashvarok membaca daftar itu dan berkata kepada Sela: "Delapan bulan silang kita minta dunia mendengarkan kedalaman. Sekarang dunia antre untuk belajar mendengarkan. Kita benar-benar tidak merencanakan ini ya?"
+Ashvarok membaca daftar itu dan berkata kepada Sela: "Delapan bulan silam kita minta dunia mendengarkan kedalaman. Sekarang dunia antre untuk belajar mendengarkan. Kita benar-benar tidak merencanakan ini ya?"
 
 "Tidak ada satu baris pun di outline lama soal sekolah," jawab Sela, bangga. "Ini semua hasil sampingan. Hasil sampingan terbaik dalam sejarah proyek."
 

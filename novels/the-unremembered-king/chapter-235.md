@@ -51,7 +51,7 @@ Hasil membaca dua puluh delapan helai kain ternyata mengubah daftar pemulangan b
 
 Jiwa barat laut: bukan lima puluh dua, melainkan ENAM PULUH SATU — sembilan jiwa tambahan ditemukan "tersembunyi" di pola kain yang garis-garisnya lebih halus dari yang terbaca kasar mata.
 
-Dan satu penemuan membuat Sela harus duduk: salah satu kain tertua memuat pola yang setelah dibaca Lompa ternyata adalah PESAN — bukan nama, melainkan kalimat utuh dari perempuan yang menitipkan suaminya tiga ratus tahun silang, ditenun ke dalam kain supaya "suamiku bisa membacanya dari dalam batu":
+Dan satu penemuan membuat Sela harus duduk: salah satu kain tertua memuat pola yang setelah dibaca Lompa ternyata adalah PESAN — bukan nama, melainkan kalimat utuh dari perempuan yang menitipkan suaminya tiga ratus tahun silam, ditenun ke dalam kain supaya "suamiku bisa membacanya dari dalam batu":
 
 "KAMU TIDUR DI BATU. AKU TIDUR DI BAWAH LANGIT YANG SAMA. JANGAN CARI AKU. CARA GENDANG KITA MASIH BERBUNYI."
 
@@ -67,7 +67,7 @@ Dari hari itu, setiap sore di lembah barat laut ada dua bunyi: name train (untuk
 
 Kovan mencatat fenomena itu di neraca dengan kalimat yang dikutip Sela di halaman depan arsip barat laut:
 
-"Delapan bulan silang kita pikir resonansi itu satu bahasa. Wilayah ketiga membuktikan: dia bahasa IBU — tiap lembah punya versinya sendiri, dan semuanya sah."
+"Delapan bulan silam kita pikir resonansi itu satu bahasa. Wilayah ketiga membuktikan: dia bahasa IBU — tiap lembah punya versinya sendiri, dan semuanya sah."
 
 ---
 
@@ -111,7 +111,7 @@ Neraca akhir bab, ditulis Ashvarok setelah semua rapat selesai dan aula tinggal 
 
 Hari 767. Wilayah barat laut: SIAP. Jadwal pemulangan: pekan depan, saat kain-kain keluarga sudah terkumpul lengkap.
 
-Satu hal yang membuatku tersenyum menulis ini: delapan bulan silang, kita pikir proyek pemulangan adalah tugas CALDREST kepada dunia. Kita yang punya the Walking Key, kita yang punya arsip, kita yang turun ke kedalaman.
+Satu hal yang membuatku tersenyum menulis ini: delapan bulan silam, kita pikir proyek pemulangan adalah tugas CALDREST kepada dunia. Kita yang punya the Walking Key, kita yang punya arsip, kita yang turun ke kedalaman.
 
 Ternyata dalam setahun ini dunia membalas dengan bahasa-bahasanya masing-masing: pantun selatan, tenun barat laut, gendang panen, getar air pesisir, dan siapa tahu apa lagi yang "bicara ke api" di pegunungan timur laut.
 
@@ -141,7 +141,7 @@ Lalu bocah itu pamit, dan berkata kepada nat: "Besok aku cerita soal anjing teta
 
 Nat menjawab hangat.
 
-Delapan bulan silang kita bangun protokol untuk seratus orang, lalu enam puluh satu, lalu delapan puluh enam.
+Delapan bulan silam kita bangun protokol untuk seratus orang, lalu enam puluh satu, lalu delapan puluh enam.
 
 Malam ini protokolnya ditulis ulang oleh bocah tujuh tahun dan seekor kucing yang ketemu lagi:
 

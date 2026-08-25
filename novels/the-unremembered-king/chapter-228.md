@@ -77,7 +77,7 @@ Hari 651. Pemulangan kedua: enam puluh satu jiwa. Total sementara: seratus delap
 
 Tapi angka-angka itu bukan inti entri malam ini. Intinya ini:
 
-Delapan bulan silang, Caldrest adalah satu-satunya jembatan antara dunia atas dan bawah. Hari ini jembatan itu membelah diri — dan menjadi dua, karena timur sudah bisa bicara langsung dengan kedalaman mereka sendiri.
+Delapan bulan silam, Caldrest adalah satu-satunya jembatan antara dunia atas dan bawah. Hari ini jembatan itu membelah diri — dan menjadi dua, karena timur sudah bisa bicara langsung dengan kedalaman mereka sendiri.
 
 Jembatan yang baik akhirnya membuat dirinya tidak dibutuhkan. Itu definisi keberhasilan yang tidak diajarkan di mana pun — kecuali, ternyata, di sekolah mendengar.
 
@@ -89,7 +89,7 @@ Menjelang senja, setelah tamu-tamu menyebar dan tim mulai membereskan, Sovana si
 
 Ia meletakkan telapak tangannya ke batu, dan berkata dengan suara yang cukup keras untuk didengar beberapa orang yang masih di sekitar:
 
-"Halo juga, Nak Muda. Delapan bulan silang kamu satu-satunya yang menyapaku dari atas." Ia menepuk batu itu dua kali — bahasa petani untuk terima kasih. "Dan terima kasih sudah cerita soal kambing. Kami di bawah sampai hafal kambingmu semua."
+"Halo juga, Nak Muda. Delapan bulan silam kamu satu-satunya yang menyapaku dari atas." Ia menepuk batu itu dua kali — bahasa petani untuk terima kasih. "Dan terima kasih sudah cerita soal kambing. Kami di bawah sampai hafal kambingmu semua."
 
 Lalu ia berbalik kepada Ilo yang berdiri mematung di belakangnya, dan berkata hal yang membuat penggembala muda itu menangis di depan seluruh kamp pertama kali dalam hidupnya:
 
@@ -115,7 +115,7 @@ Yang paling penting dicatat malam ini bukan angka. Melainkan kalimat Sovana yang
 
 Betul. Dan bab-bab berikutnya sudah mulai menulis dirinya sendiri — lembah timur menawarkan diri jadi mentor, Spire antre sekolah mendengar, kedalaman saling bersahutan tanpa disuruh, dan anak penggembala menemukan bahwa menyapa batu bisa mengubah dua dunia.
 
-Kalau delapan bulan silang ada yang bilang proyek ini butuh seribu langkah, jawabannya sekarang: tidak. Cukup satu langkah yang benar, diulang orang yang tepat, di tempat yang tepat, dengan teh yang cukup manis.
+Kalau delapan bulan silam ada yang bilang proyek ini butuh seribu langkah, jawabannya sekarang: tidak. Cukup satu langkah yang benar, diulang orang yang tepat, di tempat yang tepat, dengan teh yang cukup manis.
 
 Wilayah ketiga: lembah selatan jauh. Dua bulan lagi. Kami datang.
 

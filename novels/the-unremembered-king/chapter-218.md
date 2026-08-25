@@ -49,7 +49,7 @@ Hari panen datang dengan langit yang oleh para tetua utara disebut "langit gandu
 
 Seribu dua ratus orang bekerja di ladang-ladang utara hari itu: keturunan petani yang mengenali petak keluarganya dari ingatan yang diturunkan lewat cerita; murid akademi yang membawa name train ke ladang dan menyanyikannya sambil bekerja; warga Caldrest yang belajar memegang sabit dari ibu-ibu lembah; dan keluarga perkebunan, yang menanam benih penutup keraguannya di petak khusus tepi jalan — petak itu kemudian diberi tanda kayu: "Petak Dua Penanam."
 
-Ibu Rina datang membawa Rina yang dibalut di punggungnya. Bayi itu tertidur oleh irama panen — suara sabit, langkah ratusan orang, name train yang dinyanyikan bersama — dan ketika ibu-ibu utara melihat bayi tidur dalam gendongan di tengah ladang gandum, beberapa dari mereka harus berhenti bekerja sebentar. Karena itulah pemandangan yang delapan belas tahun silang hilang dari musim panen utara: anak-anak, ikut panen, tertidur oleh lagu.
+Ibu Rina datang membawa Rina yang dibalut di punggungnya. Bayi itu tertidur oleh irama panen — suara sabit, langkah ratusan orang, name train yang dinyanyikan bersama — dan ketika ibu-ibu utara melihat bayi tidur dalam gendongan di tengah ladang gandum, beberapa dari mereka harus berhenti bekerja sebentar. Karena itulah pemandangan yang delapan belas tahun silam hilang dari musim panen utara: anak-anak, ikut panen, tertidur oleh lagu.
 
 ---
 
@@ -63,7 +63,7 @@ Murid-murid akademi berhenti menyanyi untuk mendengarkan. Lalu menyanyi lagi, ka
 
 Kovan yang mencatat malam itu menulis:
 
-"Name train versi ladang: manusia di permukaan dan Vess-Morath di bawah tanah menyanyikan lagu yang sama pada tempo yang sama. Delapan belas abu silang ini adalah duet pertama mereka. Aku penghitung, dan aku menghitung bahwa ini bukan lagi pemulangan menunggu persiapan. Ini persiapan yang sudah mulai menyanyi sendiri."
+"Name train versi ladang: manusia di permukaan dan Vess-Morath di bawah tanah menyanyikan lagu yang sama pada tempo yang sama. Delapan belas abu silam ini adalah duet pertama mereka. Aku penghitung, dan aku menghitung bahwa ini bukan lagi pemulangan menunggu persiapan. Ini persiapan yang sudah mulai menyanyi sendiri."
 
 Ashvarok menulis entri penutupnya di tepi ladang, dengan gandum emas di satu sisi dan langit gandum di sisi lain:
 

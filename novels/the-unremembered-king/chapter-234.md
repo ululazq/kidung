@@ -81,7 +81,7 @@ Itu bukan protokol. Bukan program. Tidak ada yang mengajarkannya secara resmi.
 
 Kota ini sekadar melihat raja kurusnya melakukannya setiap hari selama setahun — dan memutuskan bahwa itu cara yang bagus untuk hidup.
 
-Seribu tahun silang aku membakar namaku supaya dunia takut.
+Seribu tahun silam aku membakar namaku supaya dunia takut.
 
 Setahun ini dunia meniru caraku menyapa.
 
@@ -93,7 +93,7 @@ Satu detail terakhir yang kebetulan terlihat Harn malam itu — dan ia catat di 
 
 Saat semua orang sudah pulang dan aula tinggal lilin-lilin penjagaan, raja kurus itu berjalan keliling meja panjang satu kali terakhir. Berhenti di setiap kursi kosong. Dan dengan kain lap yang ia bawa sendiri, mengelap satu per satu tempat duduk hari ini — kursi para pemulang, kursi para penyanyi, kursi ibu Tamma.
 
-Delapan bulan silang aku pikir dia melakukan itu karena tidak ada orang lain.
+Delapan bulan silam aku pikir dia melakukan itu karena tidak ada orang lain.
 
 Malam ini baru kutangkap maknanya, saat dia sampai pada kursi paling ujung — kursi kosong yang selalu disiapkan untuk "yang belum pulang":
 

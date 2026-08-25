@@ -76,7 +76,7 @@ Di bawahnya lagi, kapur ketiga (Sela), yang membuat kedua lelaki itu diam membac
 ---
 
 Hari keenam dan ketujuh pemulihan Barim membawa ingatan yang tidak ditunggu siapa pun: keluarganya.
-Ia tidak punya istri. Ia tidak punya anak. Tapi ia punya SEORANG — seorang keponakan, anak saudarinya yang pindah ke pelabuhan selatan dua puluh tahun silang, yang dulu mengirim surat tiap musim panen sampai suratnya berhenti datang delapan belas tahun silang.
+Ia tidak punya istri. Ia tidak punya anak. Tapi ia punya SEORANG — seorang keponakan, anak saudarinya yang pindah ke pelabuhan selatan dua puluh tahun silam, yang dulu mengirim surat tiap musim panen sampai suratnya berhenti datang delapan belas tahun silam.
 "Suratnya berhenti karena aku berhenti balas," kata Barim kepada Ashvarok malam itu, dengan kejernihan orang yang baru melihat lukanya sendiri dari jarak yang benar. "Bukan dia yang lupa aku. Aku yang hilang dari hidupnya. Dan dia pasti pikir aku mati. Mungkin dia sudah bakar kubur simbolis buatku." Jeda panjang. "Ada satu cara tahu dia masih hidup atau tidak."
 Ashvarok sudah menulis suratnya sebelum Barim selesai berkata "pelabuhan selatan" — dan menandatanganinya dengan jabatan yang membuat surat itu dijamin sampai: Kantor Penghubung Utara Caldrest, Ossian Vael.
 Lanjutan bab 182.

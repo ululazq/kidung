@@ -70,7 +70,7 @@ Barim mendengarkan semuanya dengan tangan di mulut. Dan di akhir malam kedua ia 
 
 "Sekali waktu aku hilang. Sekali waktu aku dikira tidak penting. Yang kedua lebih lama sembuhnya."
 
-Sebelum meninggalkan lorong malam itu, Barim berhenti, kembali ke nat, dan melakukan hal yang delapan tahun silang ia lakukan tiap shift: mengetuk tiga kali. Tapi kali ini ia menambahkan sesuatu — kalimat keras-keras kepada nat yang menyimpan dirinya:
+Sebelum meninggalkan lorong malam itu, Barim berhenti, kembali ke nat, dan melakukan hal yang delapan tahun silam ia lakukan tiap shift: mengetuk tiga kali. Tapi kali ini ia menambahkan sesuatu — kalimat keras-keras kepada nat yang menyimpan dirinya:
 
 "Aku balikin. Semuanya. Teh yang dingin, jalan yang tersesat, semua. Kau sudah simpan barangku cukup lama."
 
@@ -90,6 +90,6 @@ Satu hal lagi, yang kutulis di halaman terpisah supaya tidak tercampur catatan r
 
 Dua penghitung. Minum teh. Bercerita soal angka.
 
-Itulah gambaran dunia yang seribu tahun silang kuputuskan untuk dibakar namaku demi menjaganya. Ternyata bentuk aslinya sesederhana itu.
+Itulah gambaran dunia yang seribu tahun silam kuputuskan untuk dibakar namaku demi menjaganya. Ternyata bentuk aslinya sesederhana itu.
 
 Barim mulai proyek pribadinya: mendata semua bunyi malam Caldrest dan mengklasifikasikan mana yang perlu dicek dan mana yang boleh dibiarkan. Daftar itu tumbuh jadi empat halaman. Di bagian bawah ia menulis catatan kecil untuk penggantinya kelak: "pekerjaan ini tidak selesai. Itu bagian terbaiknya."

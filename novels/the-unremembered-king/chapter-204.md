@@ -65,7 +65,7 @@ Sebelum turun, Kovan melakukan satu hal yang tidak ada di protokol mana pun: ia 
 
 "Akan kutunggu kau menuntutnya balik," kata Sela, dan tidak berkata apa-apa lagi karena suaranya sedang sibuk menjaga dirinya sendiri.
 
-Kovan turun ke nat terdalam aula sendirian, seperti protokol. Ashvarok dan pengikat senior menunggu di node pertama, sesuai kesepakatan: dekat untuk darurat, jauh untuk privasi. Dan penjaga shift itu duduk bersila di titik yang direkam seam sebagai tempat upacara penitipan delapan belas tahun silang, membuka buku hitungannya, meletakkan telapaknya ke batu — dan mulai menghitung keras-keras.
+Kovan turun ke nat terdalam aula sendirian, seperti protokol. Ashvarok dan pengikat senior menunggu di node pertama, sesuai kesepakatan: dekat untuk darurat, jauh untuk privasi. Dan penjaga shift itu duduk bersila di titik yang direkam seam sebagai tempat upacara penitipan delapan belas tahun silam, membuka buku hitungannya, meletakkan telapaknya ke batu — dan mulai menghitung keras-keras.
 
 Bukan doa. Bukan panggilan nama. Hitungan. Satu, dua, tiga — irama penghitung sunyi yang telah menjadi miliknya sejak doktrin pengikat senior, dilanjutkan tanpa jeda, tanpa harapan khusus, hanya hitungan yang diberikan kepada kegelapan seperti orang memberikan makan.
 

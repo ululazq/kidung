@@ -7,7 +7,7 @@ Pegunungan timur laut menerima rombongan Caldrest dengan cara yang membuat semua
 
 Kepala kamp tertinggi — perempuan tua bernama Ulmek yang berdiri di pintu rumah panggung tertinggi lembah, menghadap bara ibu Tamma yang masih menyala dalam wadah tembaga — berkata kalimat pembuka sebelum Ashvarok sempat bicara:
 
-"Delapan bulan silang, api unggun kami menunjukkan wajah-wajah asing di seberang lembah. Kami pikir itu pertanda kiamat." Ia menatap bara itu. "Ternyata itu kalian. Orang-orang yang membangunkan batu-batu dengan lagu."
+"Delapan bulan silam, api unggun kami menunjukkan wajah-wajah asing di seberang lembah. Kami pikir itu pertanda kiamat." Ia menatap bara itu. "Ternyata itu kalian. Orang-orang yang membangunkan batu-batu dengan lagu."
 
 Ia melangkah turun dari tangga panggungnya, dan kalimat kedua membuat seluruh rombongan diam:
 
@@ -41,7 +41,7 @@ Setelah semuanya selesai, Ulmek berdiri di depan api unggun yang kini tinggal ba
 
 ---
 
-Malam penutup proyek — PEMULANGAN SELESAI: 400 DARI 400 JIWA — dirayakan di Caldrest dengan cara yang oleh ibu Tamma direncanakan sejak tiga bulan silang diam-diam:
+Malam penutup proyek — PEMULANGAN SELESAI: 400 DARI 400 JIWA — dirayakan di Caldrest dengan cara yang oleh ibu Tamma direncanakan sejak tiga bulan silam diam-diam:
 
 SUP UNTUK SEMUA ORANG.
 
@@ -55,7 +55,7 @@ Ashvarok mendapat mangkuk pertama — dan membaca labelnya sambil tertawa:
 
 Ia mengangkat mangkuk itu menghadap aula penuh — manusia dari tujuh belas wilayah, kedalaman lewat nat-nat, siswa sekolah, dan empat nat purba yang kini semuanya punya jadwal tamu tetap:
 
-"Empat ratus jiwa. SEMUA PULANG." Aula meledak. "Dan aku tidak akan berpidato panjang — karena ibu Tamma melarang pidato sebelum makan." Tawa lagi. "Maka ini saja: delapan bulan silang kita mulai dari pertanyaan 'ada siapa di sana'. Malam ini kita tutup dengan jawaban yang lengkap:
+"Empat ratus jiwa. SEMUA PULANG." Aula meledak. "Dan aku tidak akan berpidato panjang — karena ibu Tamma melarang pidato sebelum makan." Tawa lagi. "Maka ini saja: delapan bulan silam kita mulai dari pertanyaan 'ada siapa di sana'. Malam ini kita tutup dengan jawaban yang lengkap:
 
 "ADA KITA SEMUA DI SINI."
 
@@ -71,7 +71,7 @@ Yang tersisa dari proyek ini bukan sisa pekerjaan — melainkan warisan: protoko
 
 Kedalaman sekarang disebut dengan namanya masing-masing. Dan nama itu selalu diucapkan dengan hangat.
 
-Delapan bulan silang, aku sering ditanya apa yang paling membanggakan dari semua ini.
+Delapan bulan silam, aku sering ditanya apa yang paling membanggakan dari semua ini.
 
 Malam ini jawabannya jelas:
 

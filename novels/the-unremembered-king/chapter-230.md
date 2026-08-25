@@ -97,7 +97,7 @@ dan hatiku tetap milikmu."
 
 Widur ditemukan. Di nat keluarga lain — karena waktu kabur malam itu, keluarga yang menolongnya sempat menitipkannya ke nat kamp mereka sendiri, dan catatan penitipannya hilang bersama generasi.
 
-Delapan hari kemudian, di kamp pertama, perempuan tua yang tiga ratus tahun silang menunggu suaminya sakit akhirnya menerima jawaban resmi dari nat-nat lembah selatan, dibacakan Kovan dengan protokol penuh:
+Delapan hari kemudian, di kamp pertama, perempuan tua yang tiga ratus tahun silam menunggu suaminya sakit akhirnya menerima jawaban resmi dari nat-nat lembah selatan, dibacakan Kovan dengan protokol penuh:
 
 "WIDUR DITEMUKAN. KEADAAN: UTUH. TIDUR TENANG. DAN SELAMA SEMBILAN HARI TERAKHIR, DIA DIBANGUNKAN PELAN-PELAN DENGAN PANTUNMU — DIA INGAT SEMUA SUKU KATANYA. DIA BILANG: KATAKAN PADA ISTRIKU, AKHIR BULAN INI JUGA NAMA DIA KUSEBUT."
 
@@ -128,7 +128,7 @@ Pertama: nama yang dititip bisa terselamatkan oleh LAGU, bukan oleh dokumen. Ars
 
 Kedua: pencarian Widur menunjukkan bahwa pemulangan bukan cuma soal jumlah nat yang bangun. Ada jiwa-jiwa yang tertidur di nat keluarga LAIN — terpisah dari pantunnya sendiri. Maka mulai sekarang setiap pemulangan wilayah punya tahap baru: PERJALANAN PANTUN. Membawa lagu-lagu keluarga dari nat ke nat sampai semua yang disebut menjawab.
 
-Delapan bulan silang kita pikir sudah menulis protokol paling lengkap dunia.
+Delapan bulan silam kita pikir sudah menulis protokol paling lengkap dunia.
 
 Lembah selatan jauh memperbaikinya dengan empat baris.
 

@@ -97,7 +97,7 @@ Dan entri pribadi terakhir untuk batch ini:
 
 Sore tadi, setelah semua meja kosong, aku berdiri sebentar di tepi lereng selatan sendirian. Nat-nat sembilan kamp berirama pelan di bawah — irama kenyang, irama lega, irama seratus orang yang hari ini melakukan pekerjaan terbesar hidup mereka sambil menganggapnya biasa saja.
 
-Delapan bulan silang aku pikir pekerjaan besar itu soal gestur besar: membuka segel seribu tahun, menghukum Hegemony, mengakui kerajaan.
+Delapan bulan silam aku pikir pekerjaan besar itu soal gestur besar: membuka segel seribu tahun, menghukum Hegemony, mengakui kerajaan.
 
 Ternyata pekerjaan besar era ini bentuknya: memastikan sup sampai dalam dua menit. Mengingat nama anak barak. Menyanyi sampai selesai.
 
@@ -139,7 +139,7 @@ Kata pengantar itu Ashvarok berikan sambil berkata satu hal lagi yang membuat Th
 
 Thessa mengangguk, mencatat, lalu berkata kalimat terakhirnya sebelum pulang ke Spire keesokan paginya:
 
-"Bapak tahu, delapan bulan silang saya pikir saya dikirim ke sini untuk belajar soal resonansi dan protokol pemulangan." Ia tersenyum. "Ternyata saya dikirim untuk belajar soal MEJA. Meja makan, meja rapat, meja arsip — semuanya cuma soal siapa yang duduk, siapa yang dilayani, dan apakah ada yang lapar yang belum dilayan."
+"Bapak tahu, delapan bulan silam saya pikir saya dikirim ke sini untuk belajar soal resonansi dan protokol pemulangan." Ia tersenyum. "Ternyata saya dikirim untuk belajar soal MEJA. Meja makan, meja rapat, meja arsip — semuanya cuma soal siapa yang duduk, siapa yang dilayani, dan apakah ada yang lapar yang belum dilayan."
 
 Ia melangkah ke pintu, berhenti, dan menoleh sekali:
 

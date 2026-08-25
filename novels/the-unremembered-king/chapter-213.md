@@ -26,7 +26,7 @@ Pembacaan dilakukan di aula, malam berikutnya, dengan nat Karveth-Ulm dibawa dar
 
 Aula disusun ulang: nat Karveth-Ulm di pusat, dikelilingi setengah lingkaran murid tingkat dua (hadir sebagai saksi belajar), dan di empat penjuru aula diletakkan ember air sesuai pasal dua — yang oleh ibu Tamma langsung diisi sup dingin "biar fungsinya jelas".
 
-Sebelum mulai, satu momen kecil yang tidak direncanakan: murid termuda — yang delapan bulan silang bersumpah mau memulihkan api ini — diminta Ashvarok membaca namanya keras-keras kepada nat Karveth-Ulm sebelum pembacaan. "Supaya api tahu siapa saja yang berutang kepadanya," kata raja itu. Api menjawab dengan naiknya panas permukaan Karveth-Ulm satu deret, terukur oleh telapak Barim yang kebetulan bersandar.
+Sebelum mulai, satu momen kecil yang tidak direncanakan: murid termuda — yang delapan bulan silam bersumpah mau memulihkan api ini — diminta Ashvarok membaca namanya keras-keras kepada nat Karveth-Ulm sebelum pembacaan. "Supaya api tahu siapa saja yang berutang kepadanya," kata raja itu. Api menjawab dengan naiknya panas permukaan Karveth-Ulm satu deret, terukur oleh telapak Barim yang kebetulan bersandar.
 
 Sareth membaca lebih dulu. Telapak wanita tua itu menempel ke Karveth-Ulm, dan selama sembilan menit ia diam total — lalu mundur pelan dan melaporkan dengan suara guru yang berusaha tetap tenang:
 
@@ -52,7 +52,7 @@ Murid termuda bertanya pertanyaan yang membuat Sareth menatapnya lama: "Bu, kala
 
 Hasil gabungan kedua pembacaan disimpulkan Kovan malam itu dan dibacakan kepada rapat besar Caldrest — rapat yang hadirinya lebih ramai dari biasanya karena kabar "api purba masih hidup" sudah sampai ke pasar:
 
-"Temuan satu: api lembah itu HIDUP dalam arti penuh. Bernapas. Berkembang perlahan. Delapan belas abu silang tidak membuatnya mengecil — justru tumbuh, sangat lambat, seperti pohon. Temuan dua: nat Karveth-Ulm bukan wadahnya. Dia RUMAHNYA. Perbedaan besar: wadah bisa pecah, rumah bisa rusak tapi juga bisa diperbaiki. Temuan tiga..." Penghitung itu berhenti, melihat ulang catatannya, dan membaca temuan terakhir dengan hati-hati khas orang yang tahu kalimatnya akan mengubah banyak hal:
+"Temuan satu: api lembah itu HIDUP dalam arti penuh. Bernapas. Berkembang perlahan. Delapan belas abu silam tidak membuatnya mengecil — justru tumbuh, sangat lambat, seperti pohon. Temuan dua: nat Karveth-Ulm bukan wadahnya. Dia RUMAHNYA. Perbedaan besar: wadah bisa pecah, rumah bisa rusak tapi juga bisa diperbaiki. Temuan tiga..." Penghitung itu berhenti, melihat ulang catatannya, dan membaca temuan terakhir dengan hati-hati khas orang yang tahu kalimatnya akan mengubah banyak hal:
 
 "...api itu MENUNGGU DIPAKAI. Bukan dipuja, bukan ditakuti. Para pendeta meninggalkan instruksi yang jelas: api ini untuk memasak, menempa, dan menghangatkan — milik siapa saja yang datang dengan kebutuhan sungguhan. Selama tiga ratus tahun tidak ada yang datang, bukan karena api menyembunyikan diri. Karena kita semua mengira dia altar."
 

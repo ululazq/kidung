@@ -33,7 +33,7 @@ Dan satu pola yang baru terlihat setelah semua cerita terkumpul, ditemukan oleh 
 
 Ia membawa temuan pola itu kepada Sareth Vayin untuk diuji — karena pola yang indah harus diuji sebelum dipercaya, dan wanita tua itu adalah penguji terbaik yang dikenalnya.
 
-Sareth membaca catatan itu, diam lama, lalu berkata: "Aku bisa bantah ini dengan satu cerita." Ia mengambil arsip ordo dan membuka halaman kebocoran utara. "Delapan belas tahun silang kabupaten itu hilang dan dia TIDAK mencegahnya lebih cepat."
+Sareth membaca catatan itu, diam lama, lalu berkata: "Aku bisa bantah ini dengan satu cerita." Ia mengambil arsip ordo dan membuka halaman kebocoran utara. "Delapan belas tahun silam kabupaten itu hilang dan dia TIDAK mencegahnya lebih cepat."
 
 "Dan?" kata Ashvarok.
 
@@ -59,7 +59,7 @@ Kali ini jeda jawabannya paling panjang dalam delapan bulan percakapan mereka. L
 
 Ashvarok membaca terjemahan itu dua kali, lalu melipatnya dan menyelipkannya ke saku dada kanan — arsip keluarga pribadinya — sambil berkata pada Kovan:
 
-"Seribu tahun silang aku membakar namaku sendiri karena takut hilang dari ingatan dunia. Dia seribu tahun membiarkan namanya padam satu per satu karena takut mengganggu dunia." Ia menatap lorong yang mulai terang oleh subuh. "Kami cocok jadi keluarga."
+"Seribu tahun silam aku membakar namaku sendiri karena takut hilang dari ingatan dunia. Dia seribu tahun membiarkan namanya padam satu per satu karena takut mengganggu dunia." Ia menatap lorong yang mulai terang oleh subuh. "Kami cocok jadi keluarga."
 
 ---
 
@@ -71,7 +71,7 @@ Sela menemukan kakaknya masih duduk di gudang saat subuh. Ia duduk di sebelahnya
 
 "Aku tidak bertanya. Aku mencatat. Kamu sudah dua jam duduk di sini setelah membaca cerita terakhir, dan orang yang akan menyebut nama penting tidak tidur semalaman itu data klasik, Kak."
 
-"Data pencatat memang tidak pernah salah." Ashvarok menarik napas — kebiasaan tubuh Renn yang sudah sepenuhnya miliknya. "Baiklah. Kugugupkan satu hal saja, lalu kita tidur berdua: seribu tahun silang aku menyebut namaku sendiri di ambang segel supaya tidak hilang dari ingatanku. Malam besok, untuk pertama kalinya, aku menyebut nama ORANG LAIN dengan cara yang sama penuh perhatian." Ia memandang adiknya. "Kalau suaraiku goyang besok, jangan kamu catat."
+"Data pencatat memang tidak pernah salah." Ashvarok menarik napas — kebiasaan tubuh Renn yang sudah sepenuhnya miliknya. "Baiklah. Kugugupkan satu hal saja, lalu kita tidur berdua: seribu tahun silam aku menyebut namaku sendiri di ambang segel supaya tidak hilang dari ingatanku. Malam besok, untuk pertama kalinya, aku menyebut nama ORANG LAIN dengan cara yang sama penuh perhatian." Ia memandang adiknya. "Kalau suaraiku goyang besok, jangan kamu catat."
 
 Sela tersenyum senyum pencatat yang sudah menulis hal itu lebih dulu di halaman tertutup papannya:
 

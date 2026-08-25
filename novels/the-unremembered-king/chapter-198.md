@@ -7,7 +7,7 @@ Pemulangan ketiga adalah yang semua orang takut dan rindukan sekaligus.
 
 Ibu Rina sudah berada di Caldrest sejak armada pertama membuka jalan utara — satu dari empat ratus jiwa yang suaranya paling kuat di pembacaan, perempuan yang bekerja di dapur armada dari subuh sampai lilin habis, dan yang tidak pernah sekali pun memaksa prosesnya dipercepat meski setiap orang tahu ia menghitung hari dengan cara yang tidak ia akui kepada siapa pun: goresan kecil di sudut papan dapur, disapu setiap kali ada yang lewat.
 
-Anaknya hilang delapan belas tahun silang. Bayi perempuan tujuh bulan. Nama kecilnya Rina.
+Anaknya hilang delapan belas tahun silam. Bayi perempuan tujuh bulan. Nama kecilnya Rina.
 
 Masalahnya teknis dan menyayat, dan Sela yang menyuarakannya di rapat arsip dengan kapur masih tertulis setengah kalimat:
 

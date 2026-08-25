@@ -59,7 +59,7 @@ Pada tengah malam, ketukan halus di pintu memberitahunya bahwa Sela datang denga
 
 "Aku sudah menghitung mundur," kata Sela, membuka bicara tanpa salam. "Kalau tiap item memakan lemak sebesar ini, dan cadangan badanmu tinggal sebesar ini, kamu bisa membuat—membuat dua puluh item sebelum aturan ikat pinggangku terpicu. Jadi kita berhenti di lima belas. Kenapa lima belas? Karena lima sisanya cadangan untuk hal yang tidak kita tahu."
 
-Ashvarok memandang adiknya — anak yang tiga puluh delapan hari silang hanya mencatat perbedaan, dan kini menghitung cadangan tubuhnya seperti juru ukur menghitung tali tambang — dan memutuskan bahwa argumen itu tidak layak dilawan dengan kebohongan manapun.
+Ashvarok memandang adiknya — anak yang tiga puluh delapan hari silam hanya mencatat perbedaan, dan kini menghitung cadangan tubuhnya seperti juru ukur menghitung tali tambang — dan memutuskan bahwa argumen itu tidak layak dilawan dengan kebohongan manapun.
 
 "Lima belas," setujuhnya, dan makan telurnya selagi panas karena menolak makanan dari Sela adalah dosa jenis yang lain.
 

@@ -83,4 +83,4 @@ Sebelum pergi, Ossian berhenti di pintu dan berkata hal yang jarang ia katakan d
 
 Dan malam itu, di nat-nat aula, kedalaman menyanyikan name train dengan tambahan gerbong kecil di ujungnya — enam puluh dua nama keluarga baru, yang belum semua anggotanya tahu bahwa mereka sudah terdaftar.
 
-Ashvarok menemukan surat lama di antara dokumen Hegemony: permintaan maaf yang ditulis seribu tahun silang tapi tidak pernah dikirim. Ia membacanya dua kali, lalu meletakkannya di Arsip dengan label baru: "bukti bahwa penyesalan juga butuh keberanian ekstra. Yang ini tidak sempat. Kita yang sekarang punya."
+Ashvarok menemukan surat lama di antara dokumen Hegemony: permintaan maaf yang ditulis seribu tahun silam tapi tidak pernah dikirim. Ia membacanya dua kali, lalu meletakkannya di Arsip dengan label baru: "bukti bahwa penyesalan juga butuh keberanian ekstra. Yang ini tidak sempat. Kita yang sekarang punya."

@@ -5,7 +5,7 @@ chapter: 238
 
 Wilayah pesisir menjadi pemulangan kelima — dan yang paling aneh sekaligus paling indah.
 
-Karena nat pesisir berada di bawah air pasang. Setiap enam jam, air laut naik dan menutupinya sepenuhnya; setiap enam jam berikutnya, air surut dan batu itu terbuka ke langit. Delapan belas tahun silang, nat ini bergantian tenggelam dan muncul — dan jiwa-jiwa di dalamnya tetap tidur tenang, karena nat pesisir ternyata jenis yang berbeda: ia menyimpan dengan cara memeluk, dan air laut adalah selimutnya.
+Karena nat pesisir berada di bawah air pasang. Setiap enam jam, air laut naik dan menutupinya sepenuhnya; setiap enam jam berikutnya, air surut dan batu itu terbuka ke langit. Delapan belas tahun silam, nat ini bergantian tenggelam dan muncul — dan jiwa-jiwa di dalamnya tetap tidur tenang, karena nat pesisir ternyata jenis yang berbeda: ia menyimpan dengan cara memeluk, dan air laut adalah selimutnya.
 
 Masalahnya satu: name train tidak bisa menembus air dalam. Setiap lagu yang dinyanyikan dari tepi melewati permukaan lalu melemah — sampai Kovan, setelah tiga minggu percobaan, menemukan solusi yang membuat semua orang bertanya "kenapa tidak dari awal":
 
@@ -35,7 +35,7 @@ Dan seorang nelayan tua, ketika ayahnya naik dari nat setelah delapan belas tahu
 
 "Pa. Ini laut yang kamu kirim aku jaga. Aku jaga kok. Ikan-ikannya masih banyak."
 
-Ayahnya menjawab sambil memegang kemudi — tangan tua yang tiga ratus tahun silang mengajari tangan muda cara memegang kemudi yang sama:
+Ayahnya menjawab sambil memegang kemudi — tangan tua yang tiga ratus tahun silam mengajari tangan muda cara memegang kemudi yang sama:
 
 "Aku lihat dari atas nat tadi. Jaring-mu rapi. Kamu jadi nelayan baik." Lalu ia menambahkan kalimat yang oleh seluruh pesisir dikutip bertahun-tahun:
 
@@ -53,7 +53,7 @@ Dua wilayah terakhir itu adalah pegunungan timur laut — yang sampai sekarang b
 
 Minggu depan tim pertama berangkat.
 
-Dan kalau benar ada orang yang tiga ratus tahun silang bicara kepada api... maka satu-satunya makhluk di Karvess yang mungkin paham bahasa mereka adalah nat tua bernama Kael-Uthar — api purba lembah selatan yang delapan bulan ini belajar memasak nasi dan menyayangi anak-anak sekolah.
+Dan kalau benar ada orang yang tiga ratus tahun silam bicara kepada api... maka satu-satunya makhluk di Karvess yang mungkin paham bahasa mereka adalah nat tua bernama Kael-Uthar — api purba lembah selatan yang delapan bulan ini belajar memasak nasi dan menyayangi anak-anak sekolah.
 
 Kael-Uthar sudah diberi tahu rencana ini lewat nat aula. Jawabannya — dan oleh Kovan dicatat sebagai jawaban paling cepat yang pernah diberikan kedalaman mana pun:
 
@@ -89,7 +89,7 @@ Hari 850 — lanjutan. Pesisir: 44 jiwa, SEMUA NAIK lewat protokol "lagu lewat a
 
 Satu hal yang membuatku menulis malam ini dari dalam tenda, dengan lilin yang dinyalakan dari bara Karveth-Ulm:
 
-Delapan bulan silang, wilayah demi wilayah datang dengan keunikan masing-masing — lagu utara, pantun selatan, tenunan barat laut, tepuk tangan panen tengah, air pesisir — dan setiap kali aku pikir sudah melihat segalanya, dunia mengeluarkan bahasa baru dari lengan bajunya.
+Delapan bulan silam, wilayah demi wilayah datang dengan keunikan masing-masing — lagu utara, pantun selatan, tenunan barat laut, tepuk tangan panen tengah, air pesisir — dan setiap kali aku pikir sudah melihat segalanya, dunia mengeluarkan bahasa baru dari lengan bajunya.
 
 Minggu depan: orang yang bicara ke api.
 
@@ -109,7 +109,7 @@ Dan ketika ditanya bagaimana bisa menyentuh api purba langsung, jawabannya seder
 
 Semua orang diam. Termasuk aku.
 
-Delapan bulan silang kita pelajari resonansi, irama, protokol, bahasa kedalaman... dan ternyata ada satu bahasa yang lebih tua dari semuanya: keakraban.
+Delapan bulan silam kita pelajari resonansi, irama, protokol, bahasa kedalaman... dan ternyata ada satu bahasa yang lebih tua dari semuanya: keakraban.
 
 Yang tidak bisa dipelajari dari buku. Yang hanya bisa didapat dengan delapan bulan memasak bareng, bertengkar soal keasinan, dan saling mengizinkan.
 
@@ -125,7 +125,7 @@ Dan sebelum tidur, satu percakapan kecil dengan Kovan di tepi api unggun kemah:
 
 Kovan mengangguk, lalu berkata hal yang membuat Ashvarok diam lama:
 
-"Delapan bulan silang setiap kali kita menemukan sesuatu yang tidak ada di protokol... kita menambahkan pasal baru. Tapi Raja — suatu saat nanti, proyek ini akan selesai dan tidak ada lagi yang bisa ditambahkan." Ia memandang api unggun. "Pasal apa yang akan tersisa?"
+"Delapan bulan silam setiap kali kita menemukan sesuatu yang tidak ada di protokol... kita menambahkan pasal baru. Tapi Raja — suatu saat nanti, proyek ini akan selesai dan tidak ada lagi yang bisa ditambahkan." Ia memandang api unggun. "Pasal apa yang akan tersisa?"
 
 Ashvarok menjawab tanpa ragu:
 
