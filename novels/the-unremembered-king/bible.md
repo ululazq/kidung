@@ -1,6 +1,6 @@
 # Bible: The Unremembered King
 
-Terakhir diperbarui: bab 224
+Terakhir diperbarui: bab 229
 Sudah diungkap ke pembaca sampai: bab 210
 
 ## Premis
@@ -111,6 +111,15 @@ Ejaan baku. Semua nama proper di bab mana pun harus ada di sini.
 | Brannoc | melunasi kontrak anaknya di the Quiet Vein | bicara singkat, kata kerja di depan | bahu kanan turun karena bekas patah; mengunyah akar pahit |
 | Sela | ingin jadi penilai seperti Maera | cepat, tanya kenapa tiga kali | rambut diikat tali kaca; mencatat semua di papan tulis kecil |
 | Kel Tharrow | naik jabatan lewat kuota seam | formal berlebihan kepada atasannya | seragam tanpa kerutan; sarung tangan selalu bersih |
+
+| Wida | menjaga pos jemput utara supaya tidak ada yang naik tanpa disambut | mengingat nama semua anak barak tanpa catatan; menyebut semua orang "Nak" kebalikan dari ibu Tamma | tinggi kurus, selalu berdiri menghadap jalan masuk lembah |
+| Ilo | menjadi penjaga nat lereng timur dan penghubung kamp-kedalaman | bercerita ke batu dengan topik acak dari kotak kayu | muda, kulit terbakar matahari, selalu membawa tongkat penggembala |
+| Marn | mengisi kembali delapan belas tahun cerita yang kosong di lembah timur | bicara singkat soal jadwal, panjang soal ingatan; memutuskan lewat "pasal tambahan" | perempuan tua kepala kamp timur, suara datar yang berhenti di kalimat penting |
+| Sovana | menuntaskan bab timur: memastikan tak ada wilayah yang jadi cerita pertama sendirian | kalimat pertama selalu soal hal sepele (kambing, hujan); wisdom lewat contoh | jiwa pertama timur; perempuan tua petani, telapak tebal |
+| Daven | merevisi birokrasi Spire agar melindungi orang dari institusi | mencatat kesalahan sendiri sukarela; formal tapi belajar cepat | siswa Spire tertua angkatan 1 Sekolah Mendengar |
+| Pellia | menjadi pendengar resmi non-Caldrest pertama | mendengar sampai selesai; tidur saat percaya | pendengar alami jalur Barim; murid langsung |
+| Thessa Vael | membawa meja makan (dan dapur) ke Spire | menyembunyikan hubungan dengan Anthema Spire; mencatat resep untuk dibawa pulang | keponakan Anthema Spire; paling muda angkatan 1; pemakai stopwatch |
+| Tarm | menuntaskan penanaman generasi: mengajari yang belum lahir lagi | cerita masa lalu dengan detail sensorik (suara, Bau) | pemimpin penanam Vess-Morath; guru pencuci piring Daven |
 
 ## Relasi
 
