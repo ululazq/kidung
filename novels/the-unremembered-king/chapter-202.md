@@ -35,7 +35,7 @@ Murid-murid akademi yang membaca laporannya kemudian akan tahu bahwa itu adalah 
 
 Ossian mencatat hasil uji itu malam itu juga dan menulis di laporannya kalimat yang nanti dikutip semua dokumen pemulangan setelahnya:
 
-"Tahap empat bukan akhir proses — ia awal hubungan baru. Keluarga tidak 'menerima kabar'; mereka MULAI MENYEBUT. Dan menyebut, seperti kita semua belajar, adalah pekerjaan yang tidak pernah selesai tapi selalu membuahkan rumah."
+"Tahap empat bukan akhir proses — ia awal hubungan baru. Keluarga tidak 'menerima kabar'; mereka mulai menyebut. Dan menyebut, seperti kita semua belajar, adalah pekerjaan yang tidak pernah selesai tapi selalu membuahkan rumah."
 
 Sebelum laporan itu disegel, Maera membacanya dan menambahkan satu lembar lampiran dengan stempel Guild — hal yang tidak wajib, tapi ia lakukan karena saksinya adalah Maera Tull:
 

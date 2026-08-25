@@ -7,7 +7,7 @@ Dataran tengah mendapat permintaan paling unik sepanjang proyek: gabungkan pemul
 
 "Karena orang dataran," kata kepala kamp mereka lewat nat aula, "tidak mengenal perpisahan yang dramatis. Kami petani. Hal besar dan hal kecil terjadi di hari yang sama. Anak lahir saat menanam, orang mati saat panen. Maka kalau keluarga kami pulang... biarkan mereka pulang ke tengah keramaian. Bukan ke upacara yang menunggu."
 
-Ashvarok menyetujui — dengan satu catatan di protokol: wilayah dataran tengah menjadi wilayah pertama yang PEMULANGANNYA TIDAK DIUMUMKAN. Tanggal dirahasiakan bahkan dari keluarga sendiri. Yang tahu hanya dapur (sup harus siap), nat-nat kamp (lagu harus disiapkan), dan kepala kamp.
+Ashvarok menyetujui — dengan satu catatan di protokol: wilayah dataran tengah menjadi wilayah pertama yang pemulangannya tidak diumumkan. Tanggal dirahasiakan bahkan dari keluarga sendiri. Yang tahu hanya dapur (sup harus siap), nat-nat kamp (lagu harus disiapkan), dan kepala kamp.
 
 "Kenapa dirahasiakan?" tanya Harn.
 
@@ -79,13 +79,13 @@ Kovan mencatatnya. Tapi Kovan juga — sifat lamanya sebagai penghitung yang tel
 
 "Cocok apa maksudmu?"
 
-"Nat dataran menyimpan TIGA PULUH SEMBILAN jiwa. Itu angka pantun... eh, angka catatan keluarga mereka sendiri." Ia mengetuk margin neraca. "Tapi tadi malam, saat semua sudah naik dan saya hitung ulang lewat irama nat — ada IRAMA SISA. Lembut, di latar belakang, seperti napas. Bukan dari tiga puluh sembilan jiwa itu."
+"Nat dataran menyimpan TIGA PULUH SEMBILAN jiwa. Itu angka pantun... eh, angka catatan keluarga mereka sendiri." Ia mengetuk margin neraca. "Tapi tadi malam, saat semua sudah naik dan saya hitung ulang lewat irama nat — ada irama sisa. Lembut, di latar belakang, seperti napas. Bukan dari tiga puluh sembilan jiwa itu."
 
 Ashvarok membaca catatan Kovan dua kali.
 
 "Ada berapa?"
 
-"Hitung kasar saya: SEBELAS. Mungkin lebih. Jiwa-jiwa tanpa catatan keluarga, tanpa kain, tanpa pantun — mungkin pendatang, mungkin pengelana, siapa tahu. Mereka ada di nat dataran tapi TIDAK ADA DI DAFTAR SIAPA PUN."
+"Hitung kasar saya: SEBELAS. Mungkin lebih. Jiwa-jiwa tanpa catatan keluarga, tanpa kain, tanpa pantun — mungkin pendatang, mungkin pengelana, siapa tahu. Mereka ada di nat dataran tapi tidak ada di daftar siapa pun."
 
 Ruangan rapat subuh itu hening.
 

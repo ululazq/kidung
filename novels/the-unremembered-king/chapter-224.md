@@ -95,7 +95,7 @@ Anak itu pulang dengan langkah yang berubah. Dan cerita tentang kunjungannya men
 
 Pesan itu disampaikan kepada the Patient House malam yang sama — dan jawaban kedalaman atas salam tetangganya datang dengan bentuk yang tidak pernah dilakukan sebelumnya:
 
-Name train Caldrest dimainkan penuh, satu kali, di arah kedalaman Ondrath-Ilm — bukan untuk memanggil siapa pun, melainkan sebagai JAWABAN SALAM. Dan di gerbong terakhir lagu itu, setelah nama the Patient House sendiri, muncul gerbong baru: dua kata yang dinyanyikan oleh dua suara sekaligus — suara kedalaman dan, untuk pertama kalinya, suara samar dari lapisan terdalam:
+Name train Caldrest dimainkan penuh, satu kali, di arah kedalaman Ondrath-Ilm — bukan untuk memanggil siapa pun, melainkan sebagai jawaban salam. Dan di gerbong terakhir lagu itu, setelah nama the Patient House sendiri, muncul gerbong baru: dua kata yang dinyanyikan oleh dua suara sekaligus — suara kedalaman dan, untuk pertama kalinya, suara samar dari lapisan terdalam:
 
 "Selamat jaga."
 

@@ -43,7 +43,7 @@ Batu asah itu diletakkan di tengah meja panjang. Dua telapak menyentuhnya dari d
 
 Dan Caldrest mendengar utara.
 
-Tidak ada yang bisa direproduksi kata demi kata — rekaman kematian tidak bekerja seperti berita; ia bekerja seperti ruangan yang kau masuki. Yang bisa dicatat Sela adalah struktur: pertama, suara pasar utara delapan belas tahun silam (jurnal hidup sebuah kabupaten); kedua, malam kebocoran itu sendiri — bukan dari luar seperti semua laporan, melainkan DARI DALAM, bagaimana terasa menjadi orang yang namanya mulai rontok satu per satu sementara Choir menulis "kekosongan musiman" di atasnya; ketiga, sembilan suara yang masih tersisa di batu-batu wilayah itu, masing-masing menyebut satu nama, berulang-ulang, seperti orang terjebak mengulang hal terakhir yang ia pegang.
+Tidak ada yang bisa direproduksi kata demi kata — rekaman kematian tidak bekerja seperti berita; ia bekerja seperti ruangan yang kau masuki. Yang bisa dicatat Sela adalah struktur: pertama, suara pasar utara delapan belas tahun silam (jurnal hidup sebuah kabupaten); kedua, malam kebocoran itu sendiri — bukan dari luar seperti semua laporan, melainkan dari dalam, bagaimana terasa menjadi orang yang namanya mulai rontok satu per satu sementara Choir menulis "kekosongan musiman" di atasnya; ketiga, sembilan suara yang masih tersisa di batu-batu wilayah itu, masing-masing menyebut satu nama, berulang-ulang, seperti orang terjebak mengulang hal terakhir yang ia pegang.
 
 Suara kesembilan menyebut: "Vessia. Vessia. Vessia."
 
@@ -69,7 +69,7 @@ Jika tradisi penambalan pecah menjadi Caldrest dan utara... maka seni raja era H
 
 Ia masuk ke barak, mengambil papan Hourglass, dan menulis pertanyaan itu sebagai baris penutup malam:
 
-Hari 318, tambahan. Kalau penambalan punya dua setengah, bagaimana dengan seniku? Ada kemungkinan yang harus kuperiksa: bahwa the Walking Key bukan bakat lengkap. Bahwa aku seribu tahun ini menjaga pintu dunia dengan SATU TANGAN.
+Hari 318, tambahan. Kalau penambalan punya dua setengah, bagaimana dengan seniku? Ada kemungkinan yang harus kuperiksa: bahwa the Walking Key bukan bakat lengkap. Bahwa aku seribu tahun ini menjaga pintu dunia dengan satu tangan.
 
 Ia menutup papan itu dan tersenyum — senyum orang yang baru menemukan bahwa pekerjaannya lebih besar dari dugaan, yang bagi sebagian orang adalah kabar buruk tapi baginya, malam ini, justru kabar terbaik dalam seribu tahun:
 

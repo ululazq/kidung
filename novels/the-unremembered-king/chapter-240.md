@@ -37,11 +37,11 @@ Sela menatapnya tanpa berkedip.
 
 ---
 
-Mereka membawa pertanyaan itu ke nat aula keesokan paginya — dan untuk pertama kalinya, Ashvarok meminta bantuan kedalaman untuk masalah TUBUHNYA SENDIRI.
+Mereka membawa pertanyaan itu ke nat aula keesokan paginya — dan untuk pertama kalinya, Ashvarok meminta bantuan kedalaman untuk masalah tubuhnya sendiri.
 
 Pertanyaannya disampaikan lewat the Walking Key: apakah nat-nat Karvess bisa merasakan jejak jiwa yang tidur di dalam tubuh manusia?
 
-Jawaban datang dari arah yang tidak diduga — bukan dari the Patient House, melainkan dari NAT LORONG BARAK UTARA. Yang Dulu Sunyi. Nat tua yang selama setahun ini disapa tiap malam oleh anak-anak barak.
+Jawaban datang dari arah yang tidak diduga — bukan dari the Patient House, melainkan dari nat lorong barak utara. Yang Dulu Sunyi. Nat tua yang selama setahun ini disapa tiap malam oleh anak-anak barak.
 
 Iramanya pendek, dan oleh Kovan diterjemahkan dengan mata membesar:
 
@@ -145,7 +145,7 @@ Kain-kain itu tidak pernah selesai diceritakan. Dan justru itu gunanya: Jalan Na
 
 Sementara itu, di aula Caldrest, kabar tentang Renn menyebar — dan respons warga membuat Ashvarok harus duduk lagi:
 
-Orang-orang mulai BICARA PADA TUBUH RENN. Tanpa disuruh, tanpa koordinasi. Pedagang pasar menyapa "Renn kecil" sambil menawarkan harga. Murid akademi menceritakan pelajaran hari itu kepada tubuh yang mereka lewati di koridor. Ibu-ibu barak menyisihkan porsi makan manis "untuk Renn kalau dia lapar saat bangun".
+Orang-orang mulai BICARA pada tubuh Renn. Tanpa disuruh, tanpa koordinasi. Pedagang pasar menyapa "Renn kecil" sambil menawarkan harga. Murid akademi menceritakan pelajaran hari itu kepada tubuh yang mereka lewati di koridor. Ibu-ibu barak menyisihkan porsi makan manis "untuk Renn kalau dia lapar saat bangun".
 
 Delapan bulan silam, semua orang tahu Ashvarok ada di dalam sana — dan sejak nat lorong mengungkap Renn juga mendengar... kota berperilaku seolah Renn sudah bangun dan hanya belum keluar kamarnya.
 

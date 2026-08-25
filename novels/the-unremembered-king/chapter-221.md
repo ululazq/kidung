@@ -11,7 +11,7 @@ Pertanyaan itu membuat Ashvarok diam sepanjang jalan pulang — dan keesokan pag
 
 "Kita menyiapkan pemulangan seratus jiwa," kata Ashvarok membuka rapat, "dan hampir lupa bertanya soal RUMAH yang mereka tinggalkan. Delapan belas tahun nat-nat ladang dijawab oleh Vess-Morath. Besok mereka pindah. Nat-nat itu akan sunyi lagi — dan anak-anak yang sudah terbiasa disapa akan merasa disakiti tanpa tahu kenapa."
 
-Maka dilakukanlah hal yang belum pernah dilakukan dalam sejarah pemulangan mana pun: bernegosiasi tentang JADWAL PENJAGAAN.
+Maka dilakukanlah hal yang belum pernah dilakukan dalam sejarah pemulangan mana pun: bernegosiasi tentang jadwal penjagaan.
 
 Ashvarok menyampaikan pertanyaan itu kepada Vess-Morath lewat nat aula, dan jawaban gema kelompok petani itu ternyata sudah disiapkan mereka sejak lama:
 

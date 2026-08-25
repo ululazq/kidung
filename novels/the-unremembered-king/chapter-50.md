@@ -75,7 +75,7 @@ Tujuh detik di troli. Satu jam di shift. Nama-nama di pasar. Mimpi yang bertamba
 
 Jadi pekerjaannya bukan lagi menahan pintu dengan bahu. Pekerjaannya adalah memindahkan orang-orang menjauhi pintu sebelum deret itu selesai — dan memindahkan empat ratus keluarga tanpa izin, tanpa uang, tanpa terlihat sebagai panik, adalah pekerjaan yang bahkan tidak punya nama di keempat untainya.
 
-Di barak, lampu kecil masih menyala. Ketika ia masuk, Sela sedang menulis di papan tulis, dan kolom terbarunya sudah diberi judul sebelum ia sempat menyarankan apa pun: MIMPI ORANG LAIN. Di bawahnya ada empat baris, satu untuk setiap barak yang kini bermimpi tentang ash man — dan di kolom HARI MAERA, yang tersisa satu garis miring lagi, anak itu belum menulis apa-apa, seolah menolak membiarkan hitungan itu mencapai nol tanpa persetujuannya.
+Di barak, lampu kecil masih menyala. Ketika ia masuk, Sela sedang menulis di papan tulis, dan kolom terbarunya sudah diberi judul sebelum ia sempat menyarankan apa pun: MIMPI ORANG LAIN. Di bawahnya ada empat baris, satu untuk setiap barak yang kini bermimpi tentang ash man — dan di kolom "Hari Maera", yang tersisa satu garis miring lagi, anak itu belum menulis apa-apa, seolah menolak membiarkan hitungan itu mencapai nol tanpa persetujuannya.
 
 "Besok," kata Sela tanpa menoleh, "kalau ada orang lain mimpi lagi, aku tulis di kolom ini. Lima. Enam. Sampai kapan kita catat begini?"
 

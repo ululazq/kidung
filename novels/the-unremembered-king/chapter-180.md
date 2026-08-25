@@ -27,7 +27,7 @@ Ketukan tiga kali serempak menggema di aula — tiga puluh tujuh pasang tangan p
 
 Dan Ashvarok maju ke pusat, meletakkan tangannya pada udara di atas batu asah, membuka the Walking Key, dan mulai menenun.
 
-Name-nya malam ini berbeda dari semua yang pernah dilakukannya. Bukan satu benda. Bukan satu kalimat. Ia menenun SELURUH MALAM INI ke dalam keheningan: tiga puluh tujuh wajah, delapan belas potongan cerita, ketukan serempak, lilin-lilin, teh ibu Tamma yang diseduh di permukaan dan "dikirim" lewat cerita Sela, dan di balik semuanya, hangat kedalaman yang ikut hadir — sapuan malam itu datang tepat saat upacara dimulai dan TIDAK PERGI; ia tinggal, menempel di nat-nat aula seperti tamu yang diberi kursi, dan Ashvarok menenun namanya DENGAN tamunya menyaksikan dari barisan paling dalam.
+Name-nya malam ini berbeda dari semua yang pernah dilakukannya. Bukan satu benda. Bukan satu kalimat. Ia menenun SELURUH MALAM INI ke dalam keheningan: tiga puluh tujuh wajah, delapan belas potongan cerita, ketukan serempak, lilin-lilin, teh ibu Tamma yang diseduh di permukaan dan "dikirim" lewat cerita Sela, dan di balik semuanya, hangat kedalaman yang ikut hadir — sapuan malam itu datang tepat saat upacara dimulai dan tidak pergi; ia tinggal, menempel di nat-nat aula seperti tamu yang diberi kursi, dan Ashvarok menenun namanya DENGAN tamunya menyaksikan dari barisan paling dalam.
 
 Harga ditagih serempak dan besar: the Remainder turun tajam, dingin sampai pinggang, dan satu ingatan hilang lebih lama dari biasanya (wajah ibunya zaman kecil; pulang setengah hari kemudian, seperti selalu).
 

@@ -31,7 +31,7 @@ Jiwa-jiwa naik saat surut berikutnya — keluar dari nat bersama air yang mundur
 
 Keluarga-keluarga pesisir menyambut dengan cara mereka: bukan tepuk tangan panen, bukan pantun — melainkan PERAHU-PERAHU KECIL yang ditarik ke garis pantai, masing-masing dihias nama keluarga, supaya orang yang baru pulang langsung tahu "rumah saya yang mana" dari arah perahu.
 
-Dan seorang nelayan tua, ketika ayahnya naik dari nat setelah delapan belas tahun, melakukan hal paling pesisir yang pernah ada: ia mengajak ayahnya MEMANJAT PERAHU, berlayar sebentar keluar, dan berkata di tengah laut:
+Dan seorang nelayan tua, ketika ayahnya naik dari nat setelah delapan belas tahun, melakukan hal paling pesisir yang pernah ada: ia mengajak ayahnya memanjat perahu, berlayar sebentar keluar, dan berkata di tengah laut:
 
 "Pa. Ini laut yang kamu kirim aku jaga. Aku jaga kok. Ikan-ikannya masih banyak."
 

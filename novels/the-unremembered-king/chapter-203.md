@@ -61,7 +61,7 @@ Balasan datang sepuluh hari kemudian, tulisan tangan juru ukur yang rapi seperti
 
 "Ayah tidak pernah menyebut punya anak laki-laki. Tapi ibu, waktu masih hidup, pernah cerita ada bocah yang dengar batu tinggal sebentar di rumah — sepupu jauh yang disayang ayah lebih dari sepupu biasanya. Bocah itu hilang suatu malam dan ayah berubah sejak itu. Dulu aku pikir cerita itu soal kehilangan biasa." Jeda; tulisannya makin besar: "Kalau bocah itu masih di bawah tanah utara... bawakan dia pulang. Dan bilang dia, rumah keluarga ini belum pernah pindah. Pintunya masih yang sama."
 
-Ashvarok membaca salinan balasan itu di gudang perkakas — tempat favoritnya berpikir, karena bau minyak mesin membuatnya ingat bahwa dunia punya bagian yang sederhana — dan menemukan potongan yang membuat seluruh teka-teki lama bergeser: bocah itu pernah tinggal DI RUMAH PAK DEKAN. Bukan sekadar murid jauh — keluarga angkat, atau kerabat yang diasuh. Dan "hilang suatu malam" delapan belas tahun silam cocok persis dengan tanggal kebocoran utara.
+Ashvarok membaca salinan balasan itu di gudang perkakas — tempat favoritnya berpikir, karena bau minyak mesin membuatnya ingat bahwa dunia punya bagian yang sederhana — dan menemukan potongan yang membuat seluruh teka-teki lama bergeser: bocah itu pernah tinggal di rumah Pak Dekan. Bukan sekadar murid jauh — keluarga angkat, atau kerabat yang diasuh. Dan "hilang suatu malam" delapan belas tahun silam cocok persis dengan tanggal kebocoran utara.
 
 Ia membawa surat itu langsung kepada Sareth Vayin, dan pengikat senior mendengarkannya sampai selesai tanpa berkata apa-apa, lalu diam lama, lalu bertanya pertanyaan yang tidak dipikirkan siapa pun:
 

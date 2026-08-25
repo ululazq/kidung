@@ -61,7 +61,7 @@ Sela membacakan pesan itu kepada nat barat laut lewat pola kain (diletakkan di a
 
 ---
 
-Pesan itu dibawa pulang ke kamp pengirim — perjalanan empat hari — dan balasan keturunannya datang dalam bentuk yang tidak ada di protokol: sebuah GENDANG BARU, dibuat kayu pohon yang tumbuh di atas nat tua, ditabuh sepanjang jalan saat kafilah persiapan lewat.
+Pesan itu dibawa pulang ke kamp pengirim — perjalanan empat hari — dan balasan keturunannya datang dalam bentuk yang tidak ada di protokol: sebuah gendang baru, dibuat dari kayu pohon yang tumbuh di atas nat tua, ditabuh sepanjang jalan saat kafilah persiapan lewat.
 
 Dari hari itu, setiap sore di lembah barat laut ada dua bunyi: name train (untuk wilayah lain) dan tabuhan gendang (untuk nat mereka sendiri) — dan nat barat laut menjawab keduanya dengan irama berbeda, seperti orang bicara dua bahasa dengan dua lawan bicara.
 

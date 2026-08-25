@@ -19,7 +19,7 @@ Hening panjang menyambut pertanyaan itu — bukan karena tidak ada yang mengerti
 
 Murid termuda yang berkata apa yang semua orang pikirkan: "Kami sudah siapin semuanya... kecuali pekerjaan tanahnya. Padahal mereka petani. Petani itu hidupnya nyambung ke tanah."
 
-"Vess-Morath tidak bertanya soal kapan," kata Sareth pelan. "Mereka bertanya soal APA YANG TERTINGGAL. Itu pertanyaan orang yang berencana tinggal — bukan cuma datang." Wanita tua itu memandang Ashvarok. "Raja. Ini pertanyaan yang harus dijawab dengan dokumen, bukan irama."
+"Vess-Morath tidak bertanya soal kapan," kata Sareth pelan. "Mereka bertanya soal apa yang tertinggal. Itu pertanyaan orang yang berencana tinggal — bukan cuma datang." Wanita tua itu memandang Ashvarok. "Raja. Ini pertanyaan yang harus dijawab dengan dokumen, bukan irama."
 
 ---
 

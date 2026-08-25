@@ -109,4 +109,4 @@ Karena potongan lain membuat orang dewasa marah, pikir Ashvarok, sedangkan sekol
 
 Sela menatapnya lama, membaca kalimat itu dua kali seperti membaca lembar papan Quota Office, lalu mengangguk sekali dan memadamkan lampu. Tetapi sebelum tidur menjemputnya, di kegelapan, terdengar bunyi kapur yang pelan sekali, dan pagi harinya di sudut belakang papan tulis itu ada sembilan belas nama baru, ditulis rapi, dengan satu judul kecil: ANAK-ANAK YANG SEKOLAHNYA DIBAYAR ORANG DEWASA YANG CAPEK.
 
-Di kolom HARI MAERA, satu garis miring memotong angka empat.
+Di kolom "Hari Maera", satu garis miring memotong angka empat.

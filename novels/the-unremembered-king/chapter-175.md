@@ -11,7 +11,7 @@ Lagu Hegemony dimulai dari kedalaman. Utuh. Bukan potongan yang diputar seperti 
 
 Kovan merangkak ke arahnya dengan mata lebar. Ashvarok tidak bisa bicara. Ia mendengarkan lagu pernikahan penjaga era Hegemony — lagu yang dinyanyikan untuk dirinya sendiri seribu tahun silam oleh lima panglimanya dan seratus orang terbaiknya — dinyanyikan kembali kepadanya oleh kegelapan yang selama ini dikira musuh dunia.
 
-Dan lagu itu, ia sadari di tengah-tengahnya, diajarkan ke padanya. Nada demi nada, pekan demi pekan: potongan-potongan yang diputar ulang selama ini bukan latihan menyanyi. Itu pelajaran yang diberikan kepada murid yang lambat — potongan demi potongan diserahkan supaya suatu hari, kalau muridnya sudah cukup berani menyentuh retakan sekali lagi, murid itu akan mengenali seluruhnya dan bisa MENYANYI BERSAMANYA.
+Dan lagu itu, ia sadari di tengah-tengahnya, diajarkan ke padanya. Nada demi nada, pekan demi pekan: potongan-potongan yang diputar ulang selama ini bukan latihan menyanyi. Itu pelajaran yang diberikan kepada murid yang lambat — potongan demi potongan diserahkan supaya suatu hari, kalau muridnya sudah cukup berani menyentuh retakan sekali lagi, murid itu akan mengenali seluruhnya dan bisa menyanyi bersamanya.
 
 Sapuan berhenti tepat sebelum nada penutup. Ruang kosong yang disisihkan untuk satu suara: suara raja yang dulu memimpin paduan itu.
 

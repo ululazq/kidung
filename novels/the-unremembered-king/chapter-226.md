@@ -55,7 +55,7 @@ Daven mendengar ARSITEKTUR — pola-pola antarkasus yang tak terlihat saat dibac
 
 Pellia mendengar ORANG — dan menangis di menit keempat puluh, saat pembacaan sampai pada pesan pamitan seorang ibu kepada anaknya yang delapan belas tahun silam masih sembilan tahun. Ia tidak ingat isi pesannya persis. "Tapi saya ingat rasanya," katanya. "Dan rasanya itu yang bikin saya yakin pekerjaan ini harus dilanjutkan di Spire."
 
-Thessa mendengar MEJA MAKAN.
+Thessa mendengar meja makan.
 
 "Maaf?" kata ibu Tamma.
 
@@ -69,7 +69,7 @@ Ruangan itu sunyi sebentar. Lalu ibu Tamma bangkit, mengambil papan tulis dapur,
 
 Kesimpulan Thessa mengubah satu hal konkret di persiapan pemulangan wilayah timur — dan perubahan itu disetujui tim inti dalam waktu lima menit, rekor tercepat sepanjang proyek:
 
-Setiap pos jemput wilayah timur kini dilengkapi MEJA MAKAN, bukan hanya kursi. Dan protokol sambutan direvisi: jiwa yang baru naik tidak langsung diajak ke acara atau perkenalan panjang. Ia duduk dulu. Sup hangat di depannya dalam dua menit. Baru setelah sup itu diminum, dunia boleh mulai bicara.
+Setiap pos jemput wilayah timur kini dilengkapi meja makan, bukan hanya kursi. Dan protokol sambutan direvisi: jiwa yang baru naik tidak langsung diajak ke acara atau perkenalan panjang. Ia duduk dulu. Sup hangat di depannya dalam dua menit. Baru setelah sup itu diminum, dunia boleh mulai bicara.
 
 "Delapan bulan silam kita mengukur kesuksesan pemulangan dari jumlah jiwa yang naik," kata Ashvarok saat mengesahkan revisi itu. "Mulai sekarang ukurannya satu: apakah orang yang pulang sempat makan sebelum dunia mulai minta sesuatu darinya."
 

@@ -54,7 +54,7 @@ Hasil gabungan kedua pembacaan disimpulkan Kovan malam itu dan dibacakan kepada 
 
 "Temuan satu: api lembah itu HIDUP dalam arti penuh. Bernapas. Berkembang perlahan. Delapan belas abu silam tidak membuatnya mengecil — justru tumbuh, sangat lambat, seperti pohon. Temuan dua: nat Karveth-Ulm bukan wadahnya. Dia RUMAHNYA. Perbedaan besar: wadah bisa pecah, rumah bisa rusak tapi juga bisa diperbaiki. Temuan tiga..." Penghitung itu berhenti, melihat ulang catatannya, dan membaca temuan terakhir dengan hati-hati khas orang yang tahu kalimatnya akan mengubah banyak hal:
 
-"...api itu MENUNGGU DIPAKAI. Bukan dipuja, bukan ditakuti. Para pendeta meninggalkan instruksi yang jelas: api ini untuk memasak, menempa, dan menghangatkan — milik siapa saja yang datang dengan kebutuhan sungguhan. Selama tiga ratus tahun tidak ada yang datang, bukan karena api menyembunyikan diri. Karena kita semua mengira dia altar."
+"...api itu menunggu dipakai. Bukan dipuja, bukan ditakuti. Para pendeta meninggalkan instruksi yang jelas: api ini untuk memasak, menempa, dan menghangatkan — milik siapa saja yang datang dengan kebutuhan sungguhan. Selama tiga ratus tahun tidak ada yang datang, bukan karena api menyembunyikan diri. Karena kita semua mengira dia altar."
 
 Ibu Tamma, dari kursi dapurnya, bertanya pertanyaan yang menutup debat sebelum dimulai:
 

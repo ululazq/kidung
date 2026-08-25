@@ -9,9 +9,9 @@ Kurikulum bimbingan untuk Spire disusun dalam tiga rapat — dan gagal total di 
 
 Sela membela dirinya: "Isinya memang protokol kita. Itu materinya."
 
-"Bukan," kata Ashvarok. "Protokol kita itu HASIL. Kalau kita mengajari Spire hasilnya, mereka pulang dengan aturan baru dan telinga lama. Yang harus diajari adalah CARA KITA SAMPAI DI SINI." Ia berdiri, berjalan ke nat pusat, dan meletakkan telapak tangannya di batu. "Delapan bulan silam tidak ada satu pun langkah kita yang dimulai dari dokumen. Semua dimulai dari seseorang bertanya: apa yang sebenarnya ada di sana?"
+"Bukan," kata Ashvarok. "Protokol kita itu HASIL. Kalau kita mengajari Spire hasilnya, mereka pulang dengan aturan baru dan telinga lama. Yang harus diajari adalah cara kita sampai di sini." Ia berdiri, berjalan ke nat pusat, dan meletakkan telapak tangannya di batu. "Delapan bulan silam tidak ada satu pun langkah kita yang dimulai dari dokumen. Semua dimulai dari seseorang bertanya: apa yang sebenarnya ada di sana?"
 
-Rapat itu berakhir dengan keputusan yang mengganti seluruh draf: kurikulum bimbingan Caldrest untuk Spire TIDAK MEMILAI MATERI TERTULIS.
+Rapat itu berakhir dengan keputusan yang mengganti seluruh draf: kurikulum bimbingan Caldrest untuk Spire tidak memiliki materi tertulis.
 
 Yang ada hanya jadwal kegiatan: dua belas pekan, dan setiap pekan siswa melakukan SATU hal bersama warga Caldrest — memanen, menjaga pos jemput, mencuci piring dapur aula, duduk di kunjungan mingguan Ondrath-Ilm, latihan name train, dan pada pekan terakhir: mendengarkan pembacaan arsip tanpa boleh mencatat satu kata pun.
 

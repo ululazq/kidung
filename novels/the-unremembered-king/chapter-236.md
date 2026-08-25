@@ -63,7 +63,7 @@ Kain murid-murid itu kemudian tidak dibuang — ia diminta untuk dibawa ke sekol
 
 Sore harinya, setelah enam puluh satu jiwa semua naik dan semua meja makan kosong, terjadi hal yang membuat pemulangan ketiga berbeda dari semuanya:
 
-Orang-orang barat laut TIDAK PULANG.
+Orang-orang barat laut tidak pulang.
 
 Mereka tinggal di sekitar nat-nat kamp — dan mulai MENENUN. Bukan kain warisan; itu sudah dibaca. Mereka menenun kain BARU: pola-pola berisi cerita delapan belas tahun yang tertinggal — siapa lahir saat mereka di dalam, siapa meninggal, bagaimana dunia berubah — ditenun langsung di tempat, dengan benang yang dibawa Caldrest dari aula, disambungkan ke kain-kain lama supaya jadi SATU kain panjang yang membentang antar pos.
 

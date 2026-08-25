@@ -37,7 +37,7 @@ Lalu Ashvarok berkata hal yang menjadi arah seluruh pemulangan wilayah ketiga:
 
 Nama suaminya ternyata ada — tersimpan di tempat yang tidak pernah disangka Sela: bukan di arsip, melainkan di PANTUN.
 
-Nenek buyut nenek itu, waktu menitipkan suaminya, sempat membuat pantun pengantar yang dinyanyikan kepada nat supaya "nat hafal namanya lewat lagu, bukan lewat tulisan" — kebiasaan zaman purba yang oleh para pendeta dipakai karena mereka tahu nat mengingat bunyi lebih awet daripada huruf. Pantun itu diturunkan turun-temurun, dari ibu ke anak, selama TIGA RATUS TAHUN, tanpa siapa pun tahu fungsinya sebenarnya:
+Nenek buyut nenek itu, waktu menitipkan suaminya, sempat membuat pantun pengantar yang dinyanyikan kepada nat supaya "nat hafal namanya lewat lagu, bukan lewat tulisan" — kebiasaan zaman purba yang oleh para pendeta dipakai karena mereka tahu nat mengingat bunyi lebih awet daripada huruf. Pantun itu diturunkan turun-temurun, dari ibu ke anak, selama tiga ratus tahun, tanpa siapa pun tahu fungsinya sebenarnya:
 
 "Ke lembah membawa ketupat,
 ketupat dibungkus daun baru.
@@ -70,7 +70,7 @@ Sela mendirikan pos pencatatan pantun di kamp pusat — dengan aturan yang ia tu
 
 "PANTUN TIDAK DIAMBIL. PANTUN DIDENGERI. Keluarga tetap pemiliknya. Arsip hanya mencatat salinan + nama jiwa yang terkandung."
 
-Dalam dua pekan: sembilan belas pantun baru ditemukan, sembilan belas nama baru masuk daftar — jumlah jiwa lembah selatan jauh naik dari enam puluh tujuh menjadi DELAPAN PULUH ENAM, karena beberapa nat kecil ternyata menyimpan lebih dari satu anggota keluarga yang tidak tercatat siapa pun.
+Dalam dua pekan: sembilan belas pantun baru ditemukan, sembilan belas nama baru masuk daftar — jumlah jiwa lembah selatan jauh naik dari enam puluh tujuh menjadi delapan puluh enam, karena beberapa nat kecil ternyata menyimpan lebih dari satu anggota keluarga yang tidak tercatat siapa pun.
 
 "Delapan puluh enam," kata Ashvarok saat rapat evaluasi. "Wilayah terjauh ternyata wilayah dengan temuan paling banyak." Ia memandang nenek buta itu yang duduk di pojok aula sebagai tamu kehormatan, didampingi Ilo. "Nenek, boleh saya tanya satu hal? Kenapa pantunnya tidak pernah ditulis?"
 
@@ -84,7 +84,7 @@ Pencarian Widur sendiri menjadi operasi terbesar sepanjang proyek — karena nat
 
 Jawabannya butuh sembilan hari perjalanan: Kovan, Ilo, dan dua pemuda kamp berkeliling membawa pantun Widur dari nat ke nat — menyanyikannya satu per satu, menunggu, pindah ke nat berikutnya. Enam nat pertama menjawab dengan irama sunyi yang sopan ("bukan di tempatku"). Nat ketujuh menjawab dengan sesuatu yang membuat rombongan berdiri mematung:
 
-Irama balasan itu MENYANYIKAN BALASAN PANTUN.
+Irama balasan itu menyanyikan balasan pantun.
 
 "Ke lembah membawa ketupat,
 ketupat dibungkus daun yang baru.

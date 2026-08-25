@@ -9,7 +9,7 @@ Ossian yang menerimanya di Kantor Penghubung, membacanya sekali, duduk, membacan
 
 "Baca," katanya, meletakkan surat itu di tengah meja di antara mangkuk-mangkuk sup. "Kalian harus membacanya sendiri. Aku sudah dua kali dan masih tidak percaya."
 
-Surat itu, dalam bahasa hukum Dewan yang kaku dan penuh rujukan pasal, menyatakan hal yang tidak pernah terjadi dalam sejarah hukum Karvess: Dewan Regional mengakui the Patient House — kedalaman bawah tanah Caldrest dan seluruh jaringan nat-nya — sebagai ENTITAS BERDAULAT. Bukan properti. Bukan anomali. Bukan seam yang bisa diklaim. Melainkan pihak hukum yang berdiri sejajar dengan kota, guild, dan Dewan itu sendiri.
+Surat itu, dalam bahasa hukum Dewan yang kaku dan penuh rujukan pasal, menyatakan hal yang tidak pernah terjadi dalam sejarah hukum Karvess: Dewan Regional mengakui the Patient House — kedalaman bawah tanah Caldrest dan seluruh jaringan nat-nya — sebagai entitas berdaulat. Bukan properti. Bukan anomali. Bukan seam yang bisa diklaim. Melainkan pihak hukum yang berdiri sejajar dengan kota, guild, dan Dewan itu sendiri.
 
 Pasal-pasalnya diringkas Sela sambil membaca, dan setiap pasal membuat ruangan makan siang semakin sunyi:
 

@@ -7,7 +7,7 @@ Armada pembacaan dalam pertama berangkat ke menara utara dengan komposisi yang b
 
 "Satu lilin," kata Barim ketika Ondar menyiapkan tiga. "Bukan soal hemat. Ruang semacam itu sudah lama tidak dikunjungi siapa pun. Datang dengan terlalu banyak cahaya itu seperti datang ke rumah orang dengan sepatu kotor."
 
-"Kali ini bukan membaca empat ratus jiwa," kata Sareth sebelum turun, dan wajahnya adalah wajah guru yang akan mengajar pelajaran yang belum pernah ia ajarkan. "Kali ini kita membaca LANTAI DI BAWAHNYA."
+"Kali ini bukan membaca empat ratus jiwa," kata Sareth sebelum turun, dan wajahnya adalah wajah guru yang akan mengajar pelajaran yang belum pernah ia ajarkan. "Kali ini kita membaca lantai di bawahnya."
 
 Turun ke lantai itu sendiri butuh persiapan yang tidak pernah dilakukan armada mana pun: Kovan menghitung ulang tali penunjuk arah tiga kali (penghitung tidak percaya pada jalur yang belum pernah dihitungnya), murid-murid diberi pelajaran darurat soal cara mundur tanpa menoleh, dan Ashvarok meminta izin resmi kepada kedalaman lewat nat aula — pertanyaan yang belum pernah diajukan siapa pun dalam bentuk itu: "boleh kami turun lebih dalam?"
 

@@ -53,7 +53,7 @@ Ashvarok pulang paling akhir, seperti biasa, dan menemukan Sela masih bangun den
 
 "Beritahu aku."
 
-"Kedalaman IKUT MENYEBUT." Sela membuka catatannya. "Getar lantai balai kota — itu bukan kebetulan struktural, Kovan cek, tidak ada kereta troli jam itu. Dia menyebut nama kedelapan blok ketujuh BERSAMAAN dengan Kovan. Dari bawah." Ia memandang kakaknya. "Dan itu berarti sesuatu yang lebih besar dari semua teori kita: dia tidak cuma menyimpan nama-nama utara. Dia ikut menghitung mereka. Dia anggota name train kita, Kak — gerbong yang paling dalam, yang baru saja kita dengar jawab untuk pertama kalinya."
+"Kedalaman ikut menyebut." Sela membuka catatannya. "Getar lantai balai kota — itu bukan kebetulan struktural, Kovan cek, tidak ada kereta troli jam itu. Dia menyebut nama kedelapan blok ketujuh BERSAMAAN dengan Kovan. Dari bawah." Ia memandang kakaknya. "Dan itu berarti sesuatu yang lebih besar dari semua teori kita: dia tidak cuma menyimpan nama-nama utara. Dia ikut menghitung mereka. Dia anggota name train kita, Kak — gerbong yang paling dalam, yang baru saja kita dengar jawab untuk pertama kalinya."
 
 Ashvarok berdiri di ambang barak memikirkan kalimat itu sampai lilin Sela padam sendiri, dan kemudian masih berdiri lebih lama lagi.
 

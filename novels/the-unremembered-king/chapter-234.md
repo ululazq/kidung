@@ -35,7 +35,7 @@ Aturan baru itu langsung dicoba di latihan name train sore hari — dan berhasil
 
 Sementara itu, di sisi lain dinding peta, empat wilayah kuning memasuki tahap yang berbeda-beda — dan semuanya berjalan dengan pola yang kini bisa diprediksi Sela seperti musim:
 
-Wilayah barat laut (52 jiwa): warisan lisannya sudah ditemukan — bukan pantun, melainkan KAIN TENUN. Setiap keluarga menyimpan selendang tenunan yang pola-polanya ternyata kode: jumlah garis = jumlah anggota keluarga saat dititipkan. Arsip Caldrest dan penenun utara kini bekerja menerjemahkan pola demi pola.
+Wilayah barat laut (52 jiwa): warisan lisannya sudah ditemukan — bukan pantun, melainkan kain tenun. Setiap keluarga menyimpan selendang tenunan yang pola-polanya ternyata kode: jumlah garis = jumlah anggota keluarga saat dititipkan. Arsip Caldrest dan penenun utara kini bekerja menerjemahkan pola demi pola.
 
 Wilayah dataran tengah (39 jiwa): nat mereka bangun oleh lagu timur, tapi menolak protokol standar — kamp-kampnya minta pemulangan digabung dengan perayaan panen mereka sendiri, "supaya orang pulang langsung lihat dunia sedang gembira". Ashvarok menyetujui tanpa debat: "protokol harus belajar ikut musim orang."
 

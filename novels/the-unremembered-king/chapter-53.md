@@ -39,7 +39,7 @@ Empat belas tahun dinas, pikirnya, dan aku bahkan bukan cerita di antreanku send
 
 Di kamarnya, ia membuka arsip pribadi berkunci — arsip yang tidak masuk buku mana pun, yang keberadaannya sendiri sudah merupakan pelanggaran pertama meski tidak pernah dinamai demikian — dan memandangi isinya selama satu jam.
 
-Kertas bertuliskan TURUN PERDANA MUNDUR SATU HARI. Amplop-amplop persentase yang belum dibuka dari bulan-bulan mati. Dan di bawahnya, salinan inventaris barang sitaan karantina yang secara teknis berada di bawah kendali koordinasinya: fragmen-fragmen tulang seam yang disita dari pasar saat larangan dagang, belasan keping premium yang menunggu lelang yang tidak akan pernah datang, dan sebatang lilin putih-abu threaded with tin yang diserahkan Shift Guard di garis sebagai sitaan tanpa pemilik.
+Kertas bertuliskan "turun perdana mundur satu hari". Amplop-amplop persentase yang belum dibuka dari bulan-bulan mati. Dan di bawahnya, salinan inventaris barang sitaan karantina yang secara teknis berada di bawah kendali koordinasinya: fragmen-fragmen tulang seam yang disita dari pasar saat larangan dagang, belasan keping premium yang menunggu lelang yang tidak akan pernah datang, dan sebatang lilin putih-abu threaded with tin yang diserahkan Shift Guard di garis sebagai sitaan tanpa pemilik.
 
 Barang-barang itu asli. Itu bagian yang membuat rencananya menjijikkan dan meyakinkan sekaligus.
 
