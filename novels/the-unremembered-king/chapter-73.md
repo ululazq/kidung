@@ -13,7 +13,7 @@ Suara-suara yang keluar panas dan saling menumpuk. Seorang pekerja galeri tujuh 
 
 Brannoc membiarkan rapat meleleh selama sepuluh menit penuh. Ketika suara mulai berubah dari marah menjadi lesu — tahap yang paling berbahaya dari setiap rapat — ia berdiri, dan ruangan mereda dengan cara yang selalu mereda untuknya.
 
-"Aku tidak punya jawaban," katanya langsung. "Tidak ada mandor di kota ini yang punya. Yang kupunya cuma satu hal yang belum kita coba." Ia menoleh ke arah tepi ruangan, ke bangku tempat Renn duduk di antara regu ventilasi. "Dengar. Kota ini sudah setahun bilang bocah lorong tujuh bisa bicara sama lubang. Aku sendiri sudah lihat dia tahu lorong mana runtuh sebelum runtuh. Maka sekarang, di depan semua orang, aku minta resmi: Renn. Baca jalan keluar."
+"Aku tidak punya jawaban," katanya langsung. "Tidak ada mandor di kota ini yang punya. Yang kupunya hanya satu hal yang belum kita coba." Ia menoleh ke arah tepi ruangan, ke bangku tempat Renn duduk di antara regu ventilasi. "Dengar. Kota ini sudah setahun bilang bocah lorong tujuh bisa bicara sama lubang. Aku sendiri sudah lihat dia tahu lorong mana runtuh sebelum runtuh. Maka sekarang, di depan semua orang, aku minta resmi: Renn. Baca jalan keluar."
 
 Sunyi jatuh begitu total sampai kedengaran lilin di meja tengah.
 

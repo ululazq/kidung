@@ -21,7 +21,7 @@ Ossian menimbang hal itu dalam diam. Di luar jendela, Caldrest bergerak pelan se
 
 "Dan ketiganya," kata Ossian, "yang tidak pulih?"
 
-"Dua pulih sebelum tengah hari. Satu tidak. Lelaki tua galeri sembilan." Kovan merendahkan suaranya tanpa alasan teknis apa pun. "Saya lihat sendiri di halaman. Dia sehat, Tuan. Jalan tegak, makan habis, tertawa sopan. Dia cuma tidak punya nama lagi — dan yang membuat saya tidak tidur, dia tidak kehilangan nama seperti orang lupa. Dia kehilangan nama seperti orang dibohongi bahwa namanya tidak pernah ada."
+"Dua pulih sebelum tengah hari. Satu tidak. Lelaki tua galeri sembilan." Kovan merendahkan suaranya tanpa alasan teknis apa pun. "Saya lihat sendiri di halaman. Dia sehat, Tuan. Jalan tegak, makan habis, tertawa sopan. Dia hanya tidak punya nama lagi — dan yang membuat saya tidak tidur, dia tidak kehilangan nama seperti orang lupa. Dia kehilangan nama seperti orang dibohongi bahwa namanya tidak pernah ada."
 
 ---
 

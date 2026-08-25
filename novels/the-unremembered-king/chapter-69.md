@@ -9,11 +9,11 @@ Maera sudah memahami sejak surat Spire turun bahwa audit tahun ini tidak akan se
 
 Ia duduk di kursi pembanding internal, dan sejak menandatangani perannya bulan-bulan lalu ia belajar satu hal tentang kursi itu. Kursinya paling rendah di ruangan, dan justru karena itu paling sulit digeser.
 
-Pembaca komisi datang tepat waktu. Pejabat audit regional — lelaki paruh baya dengan cincin Guild di ibu jari kanan dan kebiasaan membalik setiap lembar dari pojok, bukan dari pinggir — dan juru ukur komisi, perempuan tua yang jarinya masih hitam tinta pemetaan meski sudah bertahun-tahun tidak turun ke lapangan. Yang keluar dari urutan hanya satu. Di sudut ruangan duduk juru tulis muda bersampul abu, utusan supervisi administratif Koordinasi Artefak Regional, yang haknya di ruangan ini cuma satu — mendengar.
+Pembaca komisi datang tepat waktu. Pejabat audit regional — lelaki paruh baya dengan cincin Guild di ibu jari kanan dan kebiasaan membalik setiap lembar dari pojok, bukan dari pinggir — dan juru ukur komisi, perempuan tua yang jarinya masih hitam tinta pemetaan meski sudah bertahun-tahun tidak turun ke lapangan. Yang keluar dari urutan hanya satu. Di sudut ruangan duduk juru tulis muda bersampul abu, utusan supervisi administratif Koordinasi Artefak Regional, yang haknya di ruangan ini hanya satu — mendengar.
 
 "Pasal baru," kata pejabat audit itu saat menyapa Maera, dengan nada orang yang tidak suka pada pasal baru tapi patuh pada pasal mana pun. "Klasifikasi segmen kedalaman Caldrest kini ada di bawah supervisi biro mereka. Jadi mereka boleh mendengar. Mereka tidak boleh menulis."
 
-"Mereka akan tetap mencatat," kata Maera. "Semua orang mencatat. Bedanya cuma catatan siapa yang punya pasal."
+"Mereka akan tetap mencatat," kata Maera. "Semua orang mencatat. Bedanya hanya catatan siapa yang punya pasal."
 
 Pejabat itu menatapnya sedetik lebih lama dari sopan, lalu tertawa pendek, seperti orang menemukan sesuatu yang ia benci tapi ia hormati. "Mulai. Berita acara penilaian hari-H, dibacakan kata demi kata untuk verifikasi."
 

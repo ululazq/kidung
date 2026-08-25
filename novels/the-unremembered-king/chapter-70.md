@@ -79,7 +79,7 @@ Malam itu, di gudang perkakas, surat itu tergeletak di antara mereka berdua, sud
 
 "Mungkin." Brannoc mengambil akar pahit segar dari saku jaketnya, menggigitnya, dan kali ini kunyahnya lambat dan puas. "Dia hitung pakai uang. Aku hitung pakai barisan. Malam ini barisanku lebih panjang daripada daftarnya."
 
-Ashvarok memikirkan setahun ke belakang — mandor yang curiga, perjanjian diam, bocah lorong tujuh yang harus dibenarkan satu demi satu — dan menyadari sesuatu yang sudah lama bekerja tanpa pernah ia namai. Legenda yang tumbuh di Caldrest bukan cuma tentang bocah yang bisa bicara sama lubang. Legenda yang lebih tua, lebih sunyi, dan jauh lebih sulit dibohongi sedang tumbuh di sampingnya, dan malam ini legendanya baru saja berdiri serentak di sebuah ruang bersama.
+Ashvarok memikirkan setahun ke belakang — mandor yang curiga, perjanjian diam, bocah lorong tujuh yang harus dibenarkan satu demi satu — dan menyadari sesuatu yang sudah lama bekerja tanpa pernah ia namai. Legenda yang tumbuh di Caldrest bukan hanya tentang bocah yang bisa bicara sama lubang. Legenda yang lebih tua, lebih sunyi, dan jauh lebih sulit dibohongi sedang tumbuh di sampingnya, dan malam ini legendanya baru saja berdiri serentak di sebuah ruang bersama.
 
 "Pergilah tidur, Foreman," katanya. "Besok pagi kota ini akan bicara tentangmu, dan kamu butuh kelihatan bosan."
 

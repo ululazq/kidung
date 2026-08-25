@@ -71,7 +71,7 @@ Seorang perempuan bilik tujuh menangis tanpa suara, karena selama sunyi itu, kat
 
 Setelahnya, ketika Brannoc tiba berlari dari blok jaga dan barak perlahan dipulangkan ke ranjang masing-masing dengan perintah-perintah pendek yang tidak menerima diskusi, Sela duduk di samping kakaknya di ujung bangku panjang, dan barulah menangis â€” sebentar saja, dengan tangan yang menutup mulutnya sendiri supaya tidak mengganggu, seorang juru ukur kecil yang selesai mengukur sesuatu yang besar.
 
-"Ash Man itu," katanya akhirnya, ketika suaranya bisa dipercaya. "Aku sudah tahu dari awal, tahu? Aku cuma tidak mau mengatakannya, karena selama belum diucapkan, dia bisa jadi siapa saja." Ia menatap Renn tegak-lurus, seperti menatap soal ujian. "Malam ini dia berbalik. Wajahnya wajahmu, Kak. Dan dia menyebut namaku tanpa suara. Hitungan itu bukan tentang orang asing. Hitungan itu tentang kita â€” tentang barak ini, satu-satu, dan dia sedang memutuskan siapa yang masuk daftar."
+"Ash Man itu," katanya akhirnya, ketika suaranya bisa dipercaya. "Aku sudah tahu dari awal, tahu? Aku hanya tidak mau mengatakannya, karena selama belum diucapkan, dia bisa jadi siapa saja." Ia menatap Renn tegak-lurus, seperti menatap soal ujian. "Malam ini dia berbalik. Wajahnya wajahmu, Kak. Dan dia menyebut namaku tanpa suara. Hitungan itu bukan tentang orang asing. Hitungan itu tentang kita â€” tentang barak ini, satu-satu, dan dia sedang memutuskan siapa yang masuk daftar."
 
 Ia menghitung sisanya di ujung jarinya, kebiasaan orang yang belajar menimbang dari Assayer.
 

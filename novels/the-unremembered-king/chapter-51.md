@@ -85,7 +85,7 @@ Kapur kecil itu bergerak sepanjang kulit, menandai batas merah yang masih berden
 
 "Tidak terjadi apa-apa adalah pekerjaanku."
 
-"Kalau begitu pekerjaanmu sedang membunuhmu pelan-pelan dan aku yang mencatatnya." Sela duduk di depannya, melintangkan kaki, dan untuk beberapa detik keduanya hanya didampingi suara tungku yang mengepul pelan. "Aku tidak minta kamu berhenti. Aku sudah paham harga-harganya, aku sudah masukkan ke buku, aku tidak menangis soal itu lagi. Aku cuma minta satu hal yang sudah kita janjikan waktu itu: garis lewat siku, kita panggil dokter tambang. Janji itu tidak punya kata 'kecuali'. Aku cek."
+"Kalau begitu pekerjaanmu sedang membunuhmu pelan-pelan dan aku yang mencatatnya." Sela duduk di depannya, melintangkan kaki, dan untuk beberapa detik keduanya hanya didampingi suara tungku yang mengepul pelan. "Aku tidak minta kamu berhenti. Aku sudah paham harga-harganya, aku sudah masukkan ke buku, aku tidak menangis soal itu lagi. Aku hanya minta satu hal yang sudah kita janjikan waktu itu: garis lewat siku, kita panggil dokter tambang. Janji itu tidak punya kata 'kecuali'. Aku cek."
 
 Ashvarok menimbangnya, seperti ia menimbang semua hal, dan menemukan bahwa neraca kali ini tidak punya laci untuk menunda. Aturan itu dibuat pada malam ketika gadis ini pertama menemukan parut yang merambat, dibuat dengan tangan yang gemetar dan suara yang tidak gemetar, dan sejak malam itu satu-satunya hal yang membuat aturan itu hidup adalah ia pernah menyetujuinya.
 

@@ -71,7 +71,7 @@ Kovan mencabut tangannya. Ia memandangi jarum itu lama, lalu mengambil lempengny
 
 Kovan mendongak cepat. Terlalu cepat. "Apa maksudmu?"
 
-"Bahkan alat yang benar cuma membaca yang ada di depannya." Ashvarok mengangkat bahu, mengambil kerikil trolinya. "Kalau kamu cari sesuatu di persimpangan ini, ya memang tidak ada. Persimpangan ini cuma jalan."
+"Bahkan alat yang benar hanya membaca yang ada di depannya." Ashvarok mengangkat bahu, mengambil kerikil trolinya. "Kalau kamu cari sesuatu di persimpangan ini, ya memang tidak ada. Persimpangan ini hanya jalan."
 
 Hening. Lampu gantung berderit pelan digoyang angin tingkat atas. Lalu Kovan mengajukan pertanyaan yang sebenarnya sudah menunggu sejak awal — pertanyaan yang tidak bisa dijawab lempeng mana pun.
 
@@ -101,6 +101,6 @@ Sela masih bangun ketika ia tiba di barak, duduk bersila di atas ranjangnya deng
 
 "Bagus." Sela mengangguk serius, seolah lutut yang buruk adalah kabar baik, dan untuk malam itu memang begitu. Anak itu membalik papan tulisnya, menambahkan satu garis kecil di kolom yang hanya dia yang membacanya, dan memadamkan lampunya.
 
-Di gelap, Ashvarok meletakkan pergelangan kiri tubuh ini di atas selimut. Parut tua itu tidak pernah diminta menjadi apa pun. Ia cuma bekas harga yang dibayar anak lain, bertahun-tahun sebelum raja mana pun tahu nama bocah ini. Malam ini, untuk pertama kalinya sejak tubuh ini dihuni, parut itu bekerja sebagai benteng — dan bentengnya berhasil karena tidak berbohong sama sekali.
+Di gelap, Ashvarok meletakkan pergelangan kiri tubuh ini di atas selimut. Parut tua itu tidak pernah diminta menjadi apa pun. Ia hanya bekas harga yang dibayar anak lain, bertahun-tahun sebelum raja mana pun tahu nama bocah ini. Malam ini, untuk pertama kalinya sejak tubuh ini dihuni, parut itu bekerja sebagai benteng — dan bentengnya berhasil karena tidak berbohong sama sekali.
 
 Ashvarok tertidur lebih cepat dari biasa, dan tidurnya tanpa mimpi, seperti tidur orang yang malam itu tidak membakar apa pun.

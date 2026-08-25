@@ -13,7 +13,7 @@ Pegawai pos yang menjaganya malam itu — lelaki tua dengan kacamata dua lingkar
 
 "Kosong sejak kapan?"
 
-"Sebelum saya masuk bekerja, Nona. Dua puluh tahun saya di sini. Kotaknya memang cuma satu, dan isinya surat peringatan bahwa berkas aslinya dipindahkan ke arsip pusat biro pada masa reorganisasi pertama." Lelaki itu mendorong kacamatanya. "Yang selalu saya herankan. Masa reorganisasi pertama itu juga yang memotong semua peta lama dari sampul-sampulnya. Peta-peta lama Caldrest tidak disimpan di mana pun yang saya tahu. Kalau Nona mau tanah, Nona sedang mencari barang yang sudah dibuang orang."
+"Sebelum saya masuk bekerja, Nona. Dua puluh tahun saya di sini. Kotaknya memang hanya satu, dan isinya surat peringatan bahwa berkas aslinya dipindahkan ke arsip pusat biro pada masa reorganisasi pertama." Lelaki itu mendorong kacamatanya. "Yang selalu saya herankan. Masa reorganisasi pertama itu juga yang memotong semua peta lama dari sampul-sampulnya. Peta-peta lama Caldrest tidak disimpan di mana pun yang saya tahu. Kalau Nona mau tanah, Nona sedang mencari barang yang sudah dibuang orang."
 
 Dibuang, pikir Maera, atau diselamatkan oleh seseorang yang paham nilainya sebelum pembuangan itu terjadi — dan ia memikirkan sebuah tabung timah di dalam kotaknya, dikirim seorang juru ukur muda dari kota pelabuhan selatan, warisan ayah yang mati di lorong tujuh. Empat jam ia membolak-balik kertas yang semua isinya mulus, dan kemulusan itulah yang akhirnya membuatnya berhenti. Arsip wilayah yang mulus bukan arsip yang bersih; arsip yang bersih menyimpan jejak pergantian tangan. Yang ini seperti laporan tanpa lampiran. Sesuatu telah dipindahkan keluar dari rak sebelum rak diaudit.
 

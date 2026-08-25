@@ -43,7 +43,7 @@ Angin malam membawa abu halus melintasi dinding rendah itu. Ashvarok membiarkan 
 
 "Jadi tidak ada tanggal," katanya akhirnya. "Hanya laporan."
 
-"Tidak ada tanggal," kata Maera. "Aku menghitung tiga kali supaya yakin aku tidak melewatkan lembar. Surat itu delapan pasal panjang, dan pasal ketiganya adalah pintu. Semua pasal lain cuma engselnya."
+"Tidak ada tanggal," kata Maera. "Aku menghitung tiga kali supaya yakin aku tidak melewatkan lembar. Surat itu delapan pasal panjang, dan pasal ketiganya adalah pintu. Semua pasal lain hanya engselnya."
 
 "Kamu membaca apa dari engsel-engselnya?"
 

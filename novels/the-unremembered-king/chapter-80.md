@@ -23,7 +23,7 @@ Ashvarok membacakan pesan itu keras-keras, kata demi kata, termasuk kalimat tera
 
 "Maka putuskan," kata Brannoc. "Dipakai atau dikubur."
 
-"Dipakai bagaimana?" Suara Sela masuk ke tengah meja tanpa permisi, seperti biasa. "Kalian mau Assayer Tull jual setengah kebenaran itu? Setengah cerita tentang tambang kita, ditandatangani tanggal dan angka, dijual kepada orang yang mau membayar supaya distrik timur bisa menunda mati sedikit lebih lama?" Ia tidak menunggu jawaban — pertanyaannya memang bukan pertanyaan. "Aku cuma mau dengar kalian mengatakannya keras-keras sekali. Biar jelas siapa yang menjual apa."
+"Dipakai bagaimana?" Suara Sela masuk ke tengah meja tanpa permisi, seperti biasa. "Kalian mau Assayer Tull jual setengah kebenaran itu? Setengah cerita tentang tambang kita, ditandatangani tanggal dan angka, dijual kepada orang yang mau membayar supaya distrik timur bisa menunda mati sedikit lebih lama?" Ia tidak menunggu jawaban — pertanyaannya memang bukan pertanyaan. "Aku hanya mau dengar kalian mengatakannya keras-keras sekali. Biar jelas siapa yang menjual apa."
 
 Maera menoleh kepadanya, dan untuk pertama kalinya malam itu penilai muda itu bicara. "Itu pertanyaan yang benar, dan aku yang harus menjawabnya dulu, karena aku yang akan memegang timbangannya. Ya, Sela. Itu yang sedang ditimbang. Bukan seluruh kebenaran — seluruh kebenaran membunuh, kau tahu itu, kau yang bilang kau tidak mau selamat di atas badan kakakmu. Setengah kebenaran — rantai bayaran panen, sampai kode teratasnya, cukup untuk membuat Vael sibuk mempertahankan kursinya sendiri selama musim-musim yang kita perlukan. Tanpa nama aula. Tanpa nama penambalan. Tanpa satu kata tentang hal-hal yang akan memanggil pemburu."
 

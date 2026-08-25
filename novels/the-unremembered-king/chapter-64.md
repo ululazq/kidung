@@ -41,7 +41,7 @@ Ashvarok hampir menghargai kejujuran itu. Hampir.
 
 Map tipis itu tidak diserahkan. Tharrow hanya membukanya setengah, di bawah siku, seperti pedagang yang menunjukkan dagangan tanpa melepas pegangan.
 
-"Isi arsip pribadiku," kata Overseer itu. "Kertas 'turun perdana mundur satu hari' — tanggal bohong yang kuterima lewat rantai yang seharusnya tidak ada. Amplop-amplop persentase rutin, empat belas bulan, kode kotak garis miring. Log slot serahan malam, lengkap dengan jam dan tanda tangan penerima bagian." Ia menutupnya lagi. "Semua yang dibutuhkan komisi audit untuk menarik benang dari kurir sampai ke meja bekerja pejabat Vael. Aku tahu siapa kamu. Aku tahu kamu dan tambang ini sedang berperang dengan orang yang sama. Ambil. Pakailah. Yang aku minta cuma satu — kalau jatuh, jangan aku yang jatuh sendirian."
+"Isi arsip pribadiku," kata Overseer itu. "Kertas 'turun perdana mundur satu hari' — tanggal bohong yang kuterima lewat rantai yang seharusnya tidak ada. Amplop-amplop persentase rutin, empat belas bulan, kode kotak garis miring. Log slot serahan malam, lengkap dengan jam dan tanda tangan penerima bagian." Ia menutupnya lagi. "Semua yang dibutuhkan komisi audit untuk menarik benang dari kurir sampai ke meja bekerja pejabat Vael. Aku tahu siapa kamu. Aku tahu kamu dan tambang ini sedang berperang dengan orang yang sama. Ambil. Pakailah. Yang aku minta hanya satu — kalau jatuh, jangan aku yang jatuh sendirian."
 
 Angin karantina membawa abu halus melintasi gang. Ashvarok memikirkan penawaran itu selama dua tarikan napas penuh, dengan cara yang sama ia pernah menimbang panener, kurir bisu, dan semua makhluk yang terjebak di antara dua mesin yang lebih besar daripada mereka.
 
@@ -73,7 +73,7 @@ Tharrow menatap kalimat terakhir itu lebih lama daripada dua kalimat sebelumnya,
 
 "Dia milik Vael," kata Tharrow pelan, mengulang keyakinan lamanya seperti orang memeriksa ranting yang sudah patah.
 
-"Semua orang di kota ini milik seseorang," kata Ashvarok, bangkit tegak dari dinding. "Termasuk aku, termasuk kamu, termasuk pejabat yang membeli izin dari wali kotamu minggu ini. Bedanya cuma satu — sebagian dari kita tahu pada siapa."
+"Semua orang di kota ini milik seseorang," kata Ashvarok, bangkit tegak dari dinding. "Termasuk aku, termasuk kamu, termasuk pejabat yang membeli izin dari wali kotamu minggu ini. Bedanya hanya satu — sebagian dari kita tahu pada siapa."
 
 Ia meninggalkan gang lewat jalur yang membuatnya tidak bisa dilaporkan — dinding rendah, atap gudang, lorong antargudang yang tidak dilalui Shift Guard mana pun — dan di belakangnya Kel Tharrow berdiri sendirian di tengah termometer kota, menggenggam map yang nilainya baru saja berubah. Tidak lagi menjadi alat tawar untuk ikut selamat, melainkan surat wasiat untuk sesuatu yang sudah mulai jatuh.
 

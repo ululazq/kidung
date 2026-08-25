@@ -55,7 +55,7 @@ Itu rencana sang arsitek sedotan. Bukan dugaan ringan — tapi juga belum bukti,
 
 "Terima kasih, Assayer Tull."
 
-"Jangan terima kasih dulu." Ia menyimpan tabung timah itu ke lapisan dalam kotaknya, dan wajahnya kembali netral presisi milik Guild. "Peta ini membuat komisi Ossian Vael punya tujuan baru. Dia akan turun, Renn. Turun sungguhan, ke blind door, dengan tim yang layak dan tanggal yang resmi — peta sebagus ini tidak akan didiamkan. Pertanyaanku cuma satu." Matanya menghitung sekali lagi, sesuatu yang tidak ada angkanya. "Kalau dia membuka pintu itu dan menemukan ruangan yang salah — siapa yang akan dia tuduh menipunya?"
+"Jangan terima kasih dulu." Ia menyimpan tabung timah itu ke lapisan dalam kotaknya, dan wajahnya kembali netral presisi milik Guild. "Peta ini membuat komisi Ossian Vael punya tujuan baru. Dia akan turun, Renn. Turun sungguhan, ke blind door, dengan tim yang layak dan tanggal yang resmi — peta sebagus ini tidak akan didiamkan. Pertanyaanku hanya satu." Matanya menghitung sekali lagi, sesuatu yang tidak ada angkanya. "Kalau dia membuka pintu itu dan menemukan ruangan yang salah — siapa yang akan dia tuduh menipunya?"
 
 ---
 

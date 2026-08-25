@@ -43,7 +43,7 @@ Ibu Tamma meletakkan berkas utama di atas meja dan membuka pembicaraan dengan ka
 
 "Pertanyaan kepemilikan," ulang Hale pelan. Ia membuka berkas itu, membaca beberapa halaman pertama, dan Sela mengagumi cara Maera menyusunnya — tiap klaim berdiri di atas pasal yang bisa dibaca siapa pun, tiap permintaan diakhiri tanggal yang bisa dipenuhi tanpa menyerah. "Kalian sekarang bicara soal tanah. Izin yang saya tandatangani bicara soal sanitasi dan pemetaan."
 
-"Izin itu juga berkata penutupan tidak menghapus hak tinggal siapa pun atas rumahnya," kata ibu Tamma. "Kalimat itu tulisan Anda, Pak Wali Kota. Kami cuma meminta kalimat itu diberi waktu untuk benar-benar benar."
+"Izin itu juga berkata penutupan tidak menghapus hak tinggal siapa pun atas rumahnya," kata ibu Tamma. "Kalimat itu tulisan Anda, Pak Wali Kota. Kami hanya meminta kalimat itu diberi waktu untuk benar-benar benar."
 
 Hale diam. Tangannya berhenti di atas halaman kedua berkas, dan di situ Sela melihatnya. Tangan kanan wali kota mulai gemetar, getaran kecil yang tidak ia sadari atau sudah terlalu biasa ia sadari, dan ketika ia menarik tangannya dari kertas, ia menariknya dengan sisi kiri.
 
@@ -61,8 +61,8 @@ Tangan kanan Hale terkatup di lututnya. Ia menatap barisan anak-anak itu lama se
 
 Itu bukan penundaan izin. Itu bukan pembatalan apa pun. Itu hampir tidak apa-apa.
 
-Tapi Sela, yang menghabiskan hidupnya belakangan ini belajar membaca harga dari hal-hal kecil, melihat ibu Tamma mengangguk sekali — pengakuan seorang pembeli barang yang jujur bahwa barang yang dijual hari ini memang cuma sekecil itu, dan sekaligus benar-benar barang.
+Tapi Sela, yang menghabiskan hidupnya belakangan ini belajar membaca harga dari hal-hal kecil, melihat ibu Tamma mengangguk sekali — pengakuan seorang pembeli barang yang jujur bahwa barang yang dijual hari ini memang hanya sekecil itu, dan sekaligus benar-benar barang.
 
 Di tangga balai kota, Brannoc menunggu tanpa bertanya hasil. Sela menyampaikan kalimat Hale kata demi kata, dan mandor tua itu memandangi jalan utama yang di ujungnya pos penimbangan baru berdiri dengan timbangannya yang digandakan.
 
-"Tumpukan kedua," ulangnya. "Orang yang gemetar masih bisa membaca. Kadang cuma mereka yang masih bisa." Ia melipat akar pahitnya masuk ke saku. "Pulang. Besok lawanmu turun ke meja yang sama, dan lawanmu tidak gemetar."
+"Tumpukan kedua," ulangnya. "Orang yang gemetar masih bisa membaca. Kadang hanya mereka yang masih bisa." Ia melipat akar pahitnya masuk ke saku. "Pulang. Besok lawanmu turun ke meja yang sama, dan lawanmu tidak gemetar."

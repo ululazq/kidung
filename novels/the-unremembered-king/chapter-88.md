@@ -31,7 +31,7 @@ Orang tua itu masuk dengan sol kanan sepatunya yang selalu berbunyi beda di batu
 
 "Maka saya mendengarkan."
 
-"Semalam saya turun lagi. Sendirian, dengan izin pengawas, ke aula itu. Aku duduk empat jam. Aku sentuh ambangnya sekali — sekali saja, sesuai aturanku sendiri." Mata tua itu menatap ke titik di tengah meja, seperti orang membaca lembaran yang hanya dia bisa lihat. "Aku bilang ke kau dulu. Batu Caldrest pernah ditempa. Itu separuh temuan. Ini utuhnya. Batu Caldrest pernah DIKENAL. Ada bedanya, Vael. Batu yang ditempa cuma dipakai. Batu yang dikenal — dipanggil namanya, dijaga sampai tahu apa dan sampai kapan — itu batu yang ada hubungan darah dengan orangnya."
+"Semalam saya turun lagi. Sendirian, dengan izin pengawas, ke aula itu. Aku duduk empat jam. Aku sentuh ambangnya sekali — sekali saja, sesuai aturanku sendiri." Mata tua itu menatap ke titik di tengah meja, seperti orang membaca lembaran yang hanya dia bisa lihat. "Aku bilang ke kau dulu. Batu Caldrest pernah ditempa. Itu separuh temuan. Ini utuhnya. Batu Caldrest pernah DIKENAL. Ada bedanya, Vael. Batu yang ditempa hanya dipakai. Batu yang dikenal — dipanggil namanya, dijaga sampai tahu apa dan sampai kapan — itu batu yang ada hubungan darah dengan orangnya."
 
 Ossian diam, dan biarkan diamnya bekerja.
 

@@ -69,7 +69,7 @@ Berdiri di lereng timur, di tepi karantina, orang itu mengangkat dagunya sekali 
 
 "Pengikat," jawab Ashvarok pelan. "Yang tua."
 
-"Kata orang-orang dia bukan dari Spire. Dibayar dari Spire, tapi namanya tidak ada di daftar apa pun. Ibu Tamma tanya petugas log — petugasnya cuma bilang 'tenaga ahli'."
+"Kata orang-orang dia bukan dari Spire. Dibayar dari Spire, tapi namanya tidak ada di daftar apa pun. Ibu Tamma tanya petugas log — petugasnya hanya bilang 'tenaga ahli'."
 
 Tenaga ahli tanpa nama, pikir Ashvarok, mengangkat peti berikutnya. Berarti Ossian sudah berhenti percaya kepada semua alat yang bisa dibeli — atau sudah mulai takut kepada lawan yang tidak bisa dibeli, dan mengontrak ketakutannya dari orang yang bekerja di tempat harga belum dikenal. Kedua kemungkinan sama-sama buruk, karena keduanya berarti tanggal hari ketujuh puluh delapan bukan lagi teater administratif. Tanggal itu sudah menjadi pekerjaan sungguhan bagi orang-orang yang sungguhan bekerja.
 

@@ -19,7 +19,7 @@ Regu mendengarkan sambil bekerja, karena penambang Caldrest bisa bekerja sambil 
 
 "Kubur legenda itu cepat," kata Ashvarok. "Jangan ditiru."
 
-"Yang ini tidak makam apa-apa, Kak," kata anak itu. "Yang ini cuma jalan-jalan."
+"Yang ini tidak makam apa-apa, Kak," kata anak itu. "Yang ini hanya jalan-jalan."
 
 Ashvarok tidak menjawab, karena di dalam kepala ada hitungan yang sedang berjalan dan butuh tempat yang sunyi untuk selesai — cerita itu turun mengikuti udara, udara mengikuti tambang, dan tambang adalah tubuh yang ia kenal sampai ke ujung sarafnya — artinya setiap potongan cerita yang jatuh dari permukaan malam ini jatuh tepat ke dalam rumahnya sendiri.
 ---
@@ -32,7 +32,7 @@ Hangat.
 
 Bukan panas batu — batu Caldrest dingin seperti biasa. Bukan sisa Cinder miliknya sendiri. Hangat itu datang dari dalam, dari alamat yang hanya ia kenali karena seribu tahun lamanya ia mengukurnya seperti orang mengukur lubang kosong di dirinya: the Remainder, sisa dirinya, bahan bakar the Walking Key, angka yang sejak malam penutupan titik bocor hanya mengenal satu arah. Ia berdiri sangat diam di dekat dais yang bohong itu dan melakukan sesuatu yang belum pernah ia lakukan dengan harapan — ia memeriksa.
 
-Pemeriksaannya dilakukan cara-cara lama, hati-hati, seperti orang menyentuh burung yang mungkin cuma angin. Dan angin itu bukan angin. Ada lebih banyak dirinya di sana malam ini daripada semalam — tipis, hampir tak layak disebut pertumbuhan, sepersekian persen yang hanya bisa dideteksi pemiliknya, tapi nyata, seperti garis cahaya di bawah pintu. Sesuatu yang kosong selama seribu tahun sedang mengisi, dan ia tahu persis mekanismenya karena ia yang menuliskan hukumnya zaman dunia masih memakai namanya untuk sumpah: the Remainder pulih lewat cerita orang tentangnya. Kebaikan, ketakutan, legenda yang jujur.
+Pemeriksaannya dilakukan cara-cara lama, hati-hati, seperti orang menyentuh burung yang mungkin hanya angin. Dan angin itu bukan angin. Ada lebih banyak dirinya di sana malam ini daripada semalam — tipis, hampir tak layak disebut pertumbuhan, sepersekian persen yang hanya bisa dideteksi pemiliknya, tapi nyata, seperti garis cahaya di bawah pintu. Sesuatu yang kosong selama seribu tahun sedang mengisi, dan ia tahu persis mekanismenya karena ia yang menuliskan hukumnya zaman dunia masih memakai namanya untuk sumpah: the Remainder pulih lewat cerita orang tentangnya. Kebaikan, ketakutan, legenda yang jujur.
 
 Cerita yang jujur. Rak garam. Engsel dapur. Sanggahan satu paket. Empat orang yang dihitung keluar dari tumpukan. Sup yang diminum, bukan dihitung.
 
@@ -48,7 +48,7 @@ Di lorong menuju stasiun troli, Ondar menempati sisi sebelahnya dengan kebiasaan
 
 "Aku dengar."
 
-"Iya. Yang mau aku bilang bukan itu." Anak muda itu menggenggam tangan yang patah jarinya sekali, seperti menguji. "Waktu di dalam tumpukan, aku pikir kita mati semua. Gelap, berat, dan sunyi macam itu — Kakak pernah bilang ke kita, kalau dinding diam jangan diam sendirian. Terus Kakak masuk. Dan yang aku pikirin, entah kenapa, bukan takut lagi. Cuma: dia datang, berarti ada hitungannya." Ia berhenti sebentar di persimpangan, membiarkan regu lewat lebih dulu. "Malam ini dapur cerita Kakak balik. Aku cuma senang kalimat seperti itu ada yang dengar selain kami empat."
+"Iya. Yang mau aku bilang bukan itu." Anak muda itu menggenggam tangan yang patah jarinya sekali, seperti menguji. "Waktu di dalam tumpukan, aku pikir kita mati semua. Gelap, berat, dan sunyi macam itu — Kakak pernah bilang ke kita, kalau dinding diam jangan diam sendirian. Terus Kakak masuk. Dan yang aku pikirin, entah kenapa, bukan takut lagi. Hanya: dia datang, berarti ada hitungannya." Ia berhenti sebentar di persimpangan, membiarkan regu lewat lebih dulu. "Malam ini dapur cerita Kakak balik. Aku hanya senang kalimat seperti itu ada yang dengar selain kami empat."
 
 "Kalimat seperti apa?"
 

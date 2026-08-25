@@ -35,7 +35,7 @@ Ruangan itu menjadi sangat diam. Di luar, antrean santunan berserakuh pelan tent
 
 "Siapa yang kedua?" tanya Ashvarok.
 
-"Tidak ada yang kedua. Itu hanya satu peristiwa yang kuceritakan dua kali agar kau paham betapa jarangnya." Kacamata besi itu dinaikkan, dan mata di baliknya untuk pertama kalinya menatap Ashvarok langsung, tanpa membaca. "Aku tidak bertanya apa yang kamu kerjakan di bawah sana. Aku tidak pernah bertanya dua kali, itu aturan praktikku, karena pertanyaan kedua adalah pintu yang sekali dibuka harus ditutup dengan jawaban, dan jawaban orang muda soal lubang dalam biasanya bohong. Yang aku minta cuma ini: kamu datang lagi pekan depan, dan pekan sesudahnya. Aku ukur. Aku catat di bukuku. Kalau garis itu berhenti, kita berdua senang. Kalau garis itu mencapai bahuâ€”"
+"Tidak ada yang kedua. Itu hanya satu peristiwa yang kuceritakan dua kali agar kau paham betapa jarangnya." Kacamata besi itu dinaikkan, dan mata di baliknya untuk pertama kalinya menatap Ashvarok langsung, tanpa membaca. "Aku tidak bertanya apa yang kamu kerjakan di bawah sana. Aku tidak pernah bertanya dua kali, itu aturan praktikku, karena pertanyaan kedua adalah pintu yang sekali dibuka harus ditutup dengan jawaban, dan jawaban orang muda soal lubang dalam biasanya bohong. Yang aku minta hanya ini: kamu datang lagi pekan depan, dan pekan sesudahnya. Aku ukur. Aku catat di bukuku. Kalau garis itu berhenti, kita berdua senang. Kalau garis itu mencapai bahuâ€”"
 
 "Ia berhenti sebelum bahu."
 
@@ -45,7 +45,7 @@ Ruangan itu menjadi sangat diam. Di luar, antrean santunan berserakuh pelan tent
 
 Ia menunggu giliran salepnya di bangku panjang ruang tunggu, dan bangku itu adalah kelas lain yang tidak ia bayar.
 
-Dokter tambang bekerja di ruang periksa dengan pintu setengah tertutup, dan suara-suara dari dalam mengalir keluar dengan pola yang konsisten: pasien bercerita panjang, dokter memotong sekali, lalu tidak ada lagi pertanyaan. Perempuan bilik sembilan bercerita soal pinggangnya selama empat menit penuh. Ketika pintu terbuka, keluhan yang tertulis di buku resmi cuma dua kata. Pemuda galeri sebelas bersikeras matanya berkunang-kunang melihat sesuatu di kedalaman. Dokter itu memeriksanya, menulis "katarak awal, usia bekerja", dan tidak bertanya apa yang dilihat kunangannya â€” pertanyaan yang, menurut Ashvarok, pasti sudah terjawab sendiri di dalam buku kulit yang sama.
+Dokter tambang bekerja di ruang periksa dengan pintu setengah tertutup, dan suara-suara dari dalam mengalir keluar dengan pola yang konsisten: pasien bercerita panjang, dokter memotong sekali, lalu tidak ada lagi pertanyaan. Perempuan bilik sembilan bercerita soal pinggangnya selama empat menit penuh. Ketika pintu terbuka, keluhan yang tertulis di buku resmi hanya dua kata. Pemuda galeri sebelas bersikeras matanya berkunang-kunang melihat sesuatu di kedalaman. Dokter itu memeriksanya, menulis "katarak awal, usia bekerja", dan tidak bertanya apa yang dilihat kunangannya â€” pertanyaan yang, menurut Ashvarok, pasti sudah terjawab sendiri di dalam buku kulit yang sama.
 
 Orang seperti ini tidak bisa disuap, karena orang seperti ini tidak sedang melayani siapa pun. Ia sedang menyusun arsip. Arsip adalah satu-satunya tuan yang tidak bisa dibeli dan tidak bisa ditakuti, dan Ashvarok telah memerintah cukup lama untuk mengenali rakyatnya: mereka yang lebih takut pada catatan buruk daripada pada catatan apa pun.
 
@@ -57,7 +57,7 @@ Di jalan pulang dari klinik, melewati antrean santunan yang bergerak seperti air
 
 Saksi medis, pikirnya. Benteng atau bilah, dan tidak ada cara untuk mengetahui mana sebelum hari pemakaiannya tiba.
 
-Yang menarik â€” dan ia mencatat ini dengan kejujuran yang sama dinginnya dengan fakta-fakta lain â€” adalah bahwa dokter tua itu telah menyebutkan Pak Dekan tanpa dibujuk, tanpa dibayar, tanpa ditekan. Juru ukur tua dengan luka bakar dingin di kedua tangan, mati di lorong tujuh. Sebuah benang yang tidak Ashvarok cari baru saja diperlihatkan kepadanya secara cuma-cuma oleh orang yang tidak bertanya dua kali.
+Yang menarik â€” dan ia mencatat ini dengan kejujuran yang sama dinginnya dengan fakta-fakta lain â€” adalah bahwa dokter tua itu telah menyebutkan Pak Dekan tanpa dibujuk, tanpa dibayar, tanpa ditekan. Juru ukur tua dengan luka bakar dingin di kedua tangan, mati di lorong tujuh. Sebuah benang yang tidak Ashvarok cari baru saja diperlihatkan kepadanya secara hanya-hanya oleh orang yang tidak bertanya dua kali.
 
 ---
 
