@@ -45,7 +45,7 @@ Nyaris.
 
 "Tenang," kata Tharrow, dan suaranya turun menjadi tingkat yang ia pakai untuk pekerjaan halus. "Aku tidak memanggilmu untuk mengancam. Aku memanggilmu untuk menawarkan. Kuota barumu naik dua puluh lima persen. Tubuhmu kurus, shift-mu penuh, dan hitungan sederhana bilang kau tidak akan capai. Kalau gagal sekali, teguran. Kalau gagal dua kali, potongan upah. Kalau gagal tiga kali—" Ia mengetuk kolom kosong itu. "—kontrak berlapis. Aku tidak mau sampai ke sana. Bocah yang selamat dari lorong amblas itu aset, dan aku tidak suka aset hilang karena aritmetika."
 
-"Orang yang lupa tidak punya urutan," kata Tharrow, mengulang catatan investigasinya dari memori tanpa membuka lembar itu. "Tapi kau punya. Mari kita uji ingatmu sampai ke mana." Ia menyandarkan punggung. "Minggu lalu. Lorong sembilan bawah. Kamu turun dengan regu Brannoc. Ceritakan jam demi jam."
+"Orang yang lupa tidak punya urutan," kata Tharrow, mengulang catatan investigasinya dari memori tanpa membuka lembar itu. "Tapi kau punya. Mari kita uji ingatmu sampai ke mana." Ia menyandarkan punggung. "Pekan lalu. Lorong sembilan bawah. Kamu turun dengan regu Brannoc. Ceritakan jam demi jam."
 
 Renn menceritakan: turun subuh, antrian troli tingkat tiga, dua jam gali, satu jam angkut, naik sebelum matahari tenggelam. Semua benar, semua terukur, semua aman.
 

@@ -57,7 +57,7 @@ Bukan pada benda. Pada keheningan tempat nama seharusnya ada. Ia membaca cerita-
 
 Nama tidak datang. Bukan malam itu. Bukan pekan itu.
 
-Yang datang lebih kecil, dan karena lebih kecil, lebih pasti: pada malam kedua puluh satu — setiap Selasa-Kamis-Sabtu panggung dapur tetap membacakan empat potongan itu, tradisi baru yang dinamai warga "jam penjaga malam" — lelaki tua itu, tepat setelah bagian ketukan tiga kali dibacakan, mengangkat tangannya sendiri dan mengetuk meja depannya tiga kali.
+Yang datang lebih kecil, dan karena lebih kecil, lebih pasti: pada malam kedua puluh satu — setiap Dua-Kapat-Rabat panggung dapur tetap membacakan empat potongan itu, tradisi baru yang dinamai warga "jam penjaga malam" — lelaki tua itu, tepat setelah bagian ketukan tiga kali dibacakan, mengangkat tangannya sendiri dan mengetuk meja depannya tiga kali.
 
 Irama sempurna. Irama aslinya.
 

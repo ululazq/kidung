@@ -95,10 +95,10 @@ Kalau bocah itu tidak bersih—
 
 Ia tidak menyelesaikan kalimat itu bahkan di dalam kepalanya. Sebagai gantinya ia membersihkan lempeng cadangan itu dengan kain hingga mencerminkan lampu, meletakkannya di dasar kotak besi berkunci, dan menimbang kotak itu di telapak tangannya seperti orang menimbang keputusan yang sudah jatuh.
 
-Pergantian shift Sabtu malam, pikirnya. Lorong sembilan regu Brannoc naik pada lonceng kedua. Empat hari lagi. Cukup untuk membersihkan lempeng dua kali dan berlatih wajah datar di depan cermin yang retak.
+Pergantian shift malam Rabat, pikirnya. Lorong sembilan regu Brannoc naik pada lonceng kedua. Empat hari lagi. Cukup untuk membersihkan lempeng dua kali dan berlatih wajah datar di depan cermin yang retak.
 
 Ia akan memanggil furnace boy itu untuk pemeriksaan rutin, satu lawan satu, dan untuk pertama kalinya sejak datang ke Caldrest, Kovan tidak akan menulis apa pun tentang hasilnya — bukan karena malas mencatat, tetapi karena untuk sesaat yang membuatnya ingin tertawa pahit, ia sudah mengerti kenapa Assayer Tull menyegel abu itu dengan lilin polos.
 
 Ada temuan yang membuat penulannya sendiri menjadi bahaya.
 
-Ia memadamkan lampunya, dan di kegelapan kamar sewaan itu, satu-satunya bunyi adalah napas seorang petugas yang mulai menghitung hari sampai Sabtu.
+Ia memadamkan lampunya, dan di kegelapan kamar sewaan itu, satu-satunya bunyi adalah napas seorang petugas yang mulai menghitung hari sampai hari Rabat.

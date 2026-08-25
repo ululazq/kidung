@@ -15,7 +15,7 @@ Ruangan diam. Di kolom paling bawah papan tulis kecilnya, tertulis sejak bab 144
 
 "Tanyakan," kata Ashvarok.
 
-"Dua tahun kamu menjaga kami. Aku sudah berhenti bertanya kenapa — aku dapat jawabannya pelan-pelan: karena menjaga itu kerjaanmu, karena kau orang yang tidak bisa tidak menjaga, karena barak ini bagian dari tambang dan tambang ini bagian dari sesuatu yang lebih besar." Sela meletakkan kedua tangannya di meja, rata, seperti meletakkan kartu. "Tapi minggu ini ada tiga hal baru dan semuanya cocok jadi satu gambar kalau ditarik garisnya. Mangkokku sisa. Dingin yang tidak hilang waktu kau pulang pagi — aku sentuh pundakmu Selasa, kak, jangan kaget, aku anak dapur, aku tahu suhu manusia. Dan angka baru di Hourglass. Angka, kak. Bukan garis. Kamu baru menulis angka untuk hal yang dihitung sampai habis."
+"Dua tahun kamu menjaga kami. Aku sudah berhenti bertanya kenapa — aku dapat jawabannya pelan-pelan: karena menjaga itu kerjaanmu, karena kau orang yang tidak bisa tidak menjaga, karena barak ini bagian dari tambang dan tambang ini bagian dari sesuatu yang lebih besar." Sela meletakkan kedua tangannya di meja, rata, seperti meletakkan kartu. "Tapi minggu ini ada tiga hal baru dan semuanya cocok jadi satu gambar kalau ditarik garisnya. Mangkokku sisa. Dingin yang tidak hilang waktu kau pulang pagi — aku sentuh pundakmu hari Dua, kak, jangan kaget, aku anak dapur, aku tahu suhu manusia. Dan angka baru di Hourglass. Angka, kak. Bukan garis. Kamu baru menulis angka untuk hal yang dihitung sampai habis."
 
 Lilin bergoyang dari napas mereka sendiri. Ashvarok tidak bergerak, dan pada ketidbergerakan itulah Sela mengambil napas dan akhirnya membacakan pertanyaannya, keras-keras, kata demi kata seperti yang ditulisnya:
 
@@ -52,7 +52,7 @@ Ibu Tamma menemukan kebiasaan baru dapurnya: mencatat jumlah cangkir teh yang ha
 
 Keesokan paginya, dua hal datang bersama sarapan, dan keduanya mengubah arti malam semalam.
 
-Yang pertama kecil: ibu Tamma lewat depan barak membawa daftar belanja kolektif dan tanpa berhenti melempar satu kalimat ke dalam jendela — "Renn! Sabtu ada lelang Guild kelas tiga, kiriman Vosk bilang ada barang bagus murah, kas barak minta kamu yang datang karena kamu matanya paling jeli!" — dan Ashvarok menjawab "iya" ke arah jendela dengan wajah orang yang baru saja diberi tahu bahwa rencana pencurian resminya sekarang punya saksi dapur.
+Yang pertama kecil: ibu Tamma lewat depan barak membawa daftar belanja kolektif dan tanpa berhenti melempar satu kalimat ke dalam jendela — "Renn! Hari Rabat ada lelang Guild kelas tiga, kiriman Vosk bilang ada barang bagus murah, kas barak minta kamu yang datang karena kamu matanya paling jeli!" — dan Ashvarok menjawab "iya" ke arah jendela dengan wajah orang yang baru saja diberi tahu bahwa rencana pencurian resminya sekarang punya saksi dapur.
 
 Yang kedua tidak kecil: lot balasan Kovan tergeletak di slot saat ia lewat pagi buta. Satu kalimat, tulisan tangan tegak yang dulu pernah mengujinya dengan alat:
 

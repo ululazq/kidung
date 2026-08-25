@@ -57,7 +57,7 @@ Siang menjelang sore, ia menerima dua orang lagi di ruang yang sama, satu per sa
 
 Kel Tharrow masuk dengan seragam tanpa satu kerutan pun dan keluar dua puluh menit kemudian membawa tugas yang dibungkus kata "koordinasi": distribusi santunan harian, daftar ulang regu yang boleh turun untuk inspeksi ventilasi, dan pengawasan ketertiban distrik timur yang mulai menganggur. Overseer itu menerima semuanya dengan punggung tegak, dan Ossian menandai sekali lagi betpa bergunanya orang yang haus hierarki — orang seperti itu tidak pernah bertanya untuk siapa daftarnya disusun, asalkan namanya yang berada di baris tanda tangan kedua.
 
-Kovan datang setelahnya, dan percakapannya lebih pendek. "Uji Sabtu malam ditunda sampai karantina dicabut," kata Ossian sebelum penjaga shift itu sempat duduk. "Semua uji. Instrumen juga tidak boleh masuk."
+Kovan datang setelahnya, dan percakapannya lebih pendek. "Uji malam Rabat ditunda sampai karantina dicabut," kata Ossian sebelum penjaga shift itu sempat duduk. "Semua uji. Instrumen juga tidak boleh masuk."
 
 "Kalau saya boleh jujur, Tuan Vael, justru sekarang waktunya—"
 

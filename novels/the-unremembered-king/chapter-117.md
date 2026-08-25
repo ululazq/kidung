@@ -5,7 +5,7 @@ chapter: 117
 
 Hari keseratus enam puluh empat, lorong troli timur menerima dua tamu dalam satu jam yang sama, dan hanya satu dari mereka yang punya alasan resmi untuk berada di sana.
 
-Ashvarok datang lebih dulu, lewat cover inspeksi drainase yang gilirannya jatuh pada malam Selasa, dengan Brannoc menjaga persimpangan atas dan daftar hadir yang isinya benar. Pekerjaan resminya singkat. Pekerjaan yang sebenarnya adalah membaca tunggul penyangga untuk kesekian kali, memastikan batu itu masih tertutup dengan sopan dan masih menyimpan dua suku kata pinjaman seperti orang menyimpan surat yang salah alamat. Batu tetap setia pada keputusannya. Hangatnya tidak kembali, penolakannya tidak dicabut, dan pembacaan Ashvarok malam itu hanya konfirmasi bahwa beberapa hal di dunia ini benar-benar berdiri di belakang kata tidak.
+Ashvarok datang lebih dulu, lewat cover inspeksi drainase yang gilirannya jatuh pada malam Dua, dengan Brannoc menjaga persimpangan atas dan daftar hadir yang isinya benar. Pekerjaan resminya singkat. Pekerjaan yang sebenarnya adalah membaca tunggul penyangga untuk kesekian kali, memastikan batu itu masih tertutup dengan sopan dan masih menyimpan dua suku kata pinjaman seperti orang menyimpan surat yang salah alamat. Batu tetap setia pada keputusannya. Hangatnya tidak kembali, penolakannya tidak dicabut, dan pembacaan Ashvarok malam itu hanya konfirmasi bahwa beberapa hal di dunia ini benar-benar berdiri di belakang kata tidak.
 
 Ia baru saja bangkit dari lututnya ketika mendengar langkah dari arah stasiun troli. Langkah itu tidak berusaha disembunyikan, teratur, panjang, dan dihitung, dan Ashvarok mengenalinya bahkan sebelum cahaya lentera menyentuh lengkung lorong. Penjaga shift Voice-tier yang dua kali kehilangan wibawanya di hadapan bocah tambang sedang turun sendirian, tanpa alat resmi di tangannya, pada jam ketika tidak ada surat mana pun yang memerintahkannya berada di bawah.
 
@@ -19,13 +19,13 @@ Brannoc di persimpangan pasti sudah melihatnya lebih dulu dan memilih diam, kare
 
 "Semua orang punya catatan, furnace boy. Perbedaannya hanya pada tempat kertasnya disimpan." Kovan meletakkan lenteranya di dasar troli yang terbengkalai, lalu mengeluarkan sesuatu dari jaketnya dengan dua tangan, dan hal itu membuat Ashvarok diam lebih cepat daripada kalimat apa pun.
 
-Sebuah lempeng. Bukan lempeng pengukur resmi milik Quota Office, melainkan lempeng cadangan yang permukaannya dipoles tangan dan tepinya dibalut peredam lilin-abu rakitan, alat yang sudah pernah sekali dibaca tubuhnya pada suatu Sabtu malam dan menyatakan bahwa dirinya hanyalah bocah biasa. Kovan berjalan tiga langkah lagi, berlutut, dan meletakkan lempeng itu rata di lantai di antara mereka, seperti pedagang meletakkan barang di tengah meja tawar.
+Sebuah lempeng. Bukan lempeng pengukur resmi milik Quota Office, melainkan lempeng cadangan yang permukaannya dipoles tangan dan tepinya dibalut peredam lilin-abu rakitan, alat yang sudah pernah sekali dibaca tubuhnya pada suatu malam Rabat dan menyatakan bahwa dirinya hanyalah bocah biasa. Kovan berjalan tiga langkah lagi, berlutut, dan meletakkan lempeng itu rata di lantai di antara mereka, seperti pedagang meletakkan barang di tengah meja tawar.
 
 "Aku tidak datang untuk menuduh," kata Kovan. "Dengarkan dulu, baru jawab. Kalau kau memilih tidak bicara, aku akan pergi setelah bicara sendirian, dan lempeng ini ikut pulang bersamaku."
 
 Ashvarok tidak menyentuh lempeng itu. Ia berdiri dengan berat badan di kedua kaki, posisi yang bisa berubah menjadi mundur, maju, atau diam dalam satu tarikan napas, dan membiarkan penjaga shift itu bicara.
 
-"Dua tahun lalu alatku rusak dua kali di depanmu, dan pusatnya kamu. Setahun lalu aku merakit alat sendiri, mengujimu tanpa izin pada malam Sabtu, dan alat itu berkata kau polos." Suara Kovan prosedural, rata, seperti orang membacakan daftar barang gudang. "Malam itu aku pulang dengan dua fakta yang saling membunuh. Data bilang kau tidak ada. Pengalamanku bilang ada sesuatu di sekitarmu. Aku pelajari kedua fakta itu sembilan puluh hari, dan yang kutemukan bukan jawaban, melainkan pola bahwa setiap keanehan tambang ini punya satu titik yang sama, dan titik itu berdiri di depanku sambil memegang sekop drainase."
+"Dua tahun lalu alatku rusak dua kali di depanmu, dan pusatnya kamu. Setahun lalu aku merakit alat sendiri, mengujimu tanpa izin pada malam Rabat, dan alat itu berkata kau polos." Suara Kovan prosedural, rata, seperti orang membacakan daftar barang gudang. "Malam itu aku pulang dengan dua fakta yang saling membunuh. Data bilang kau tidak ada. Pengalamanku bilang ada sesuatu di sekitarmu. Aku pelajari kedua fakta itu sembilan puluh hari, dan yang kutemukan bukan jawaban, melainkan pola bahwa setiap keanehan tambang ini punya satu titik yang sama, dan titik itu berdiri di depanku sambil memegang sekop drainase."
 
 "Lalu?"
 

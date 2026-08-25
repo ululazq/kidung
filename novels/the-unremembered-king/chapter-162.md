@@ -9,7 +9,7 @@ Ashvarok memverifikasinya seminggu penuh dengan ketelitian orang yang tidak perc
 
 Hukum lamanya: cerita yang benar memberi makan. Hukum barunya, ditulis di halaman tersembunyi kertas daftar pribadinya dalam sandi rumah tangga: cerita yang dibawa tubuh memberi makan dua kali lipat. Kehadiran adalah bumbunya. Legenda bekerja seperti uang kertas; tindakan bekerja seperti emas.
 
-"Jadi selama ini aku bisa pulih sambil bekerja," katanya kepada Brannoc di gudang perkakas, malam Kamis, "dan aku menghabiskan setahun mengira pemulihan itu harus datang dari luar — panggung, pengakuan, kota yang bercerita."
+"Jadi selama ini aku bisa pulih sambil bekerja," katanya kepada Brannoc di gudang perkakas, malam Kapat, "dan aku menghabiskan setahun mengira pemulihan itu harus datang dari luar — panggung, pengakuan, kota yang bercerita."
 
 "Dan sekarang?"
 

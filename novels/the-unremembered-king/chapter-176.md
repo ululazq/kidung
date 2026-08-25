@@ -11,7 +11,7 @@ Pagi Rabat, ibu Tamma mendapati lantai klinik sudah bersih — sapuan searah, ra
 
 Lelaki tua itu memandang sapunya. "Tangan saya yang pilih ini." Ia mengangkat wajah, dan untuk pertama kalinya sejak mereka mengenalnya, senyum ramahnya punya arah: "Berarti tangan saya tahu lebih banyak dari kepala saya. Bagus. Berarti ada yang bisa dicocokkan."
 
-Jam penjaga malam Selasa itu menjadi sesi yang semua orang ingat bertahun-tahun. Empat potongan cerita dibacakan seperti biasa — nyanyian troli, luka dingin, delapan tahun, ketukan tiga kali — tapi setelahnya Sela melakukan hal baru: membuka papan pertanyaan. "Malam ini kita tidak cuma membaca ke kamu. Kita tanya. Jawab kalau teringat. Tidak jawab juga boleh."
+Jam penjaga malam Dua itu menjadi sesi yang semua orang ingat bertahun-tahun. Empat potongan cerita dibacakan seperti biasa — nyanyian troli, luka dingin, delapan tahun, ketukan tiga kali — tapi setelahnya Sela melakukan hal baru: membuka papan pertanyaan. "Malam ini kita tidak cuma membaca ke kamu. Kita tanya. Jawab kalau teringat. Tidak jawab juga boleh."
 
 Pertanyaan pertama: "Kamu tinggal di blok mana dulu?"
 
@@ -21,7 +21,7 @@ Jawaban butuh waktu sepuluh tarikan napas, datang bukan sebagai ingatan melainka
 
 Pertanyaan-pertanyaan menyusul tiap sesi. Apa makanan favoritmu (tangan menyentuh perut lalu bibir sebelum pikiran menjawab "yang kuah"). Siapa teman bangkumu (kepala menoleh ke kursi kosong di kanan; Ondar pelan berkata "itu tempat Dolm dulu"). Bagaimana bunyi belakang shift malam (dan lelaki tua itu MENDENGUNG — nada rendah dua ketuk, persis belakang troli era lama, dan Ondar berdiri terkejut karena nadanya benar).
 
-Dan pada sesi kelima, pagi Sabtu, ketika Ondar lewat depan klinik sambil membawa sekop dan lelaki tua itu melihatnya dari jendela — terjadi.
+Dan pada sesi kelima, pagi Rabat, ketika Ondar lewat depan klinik sambil membawa sekop dan lelaki tua itu melihatnya dari jendela — terjadi.
 
 "Pipit!"
 

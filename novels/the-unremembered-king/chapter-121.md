@@ -13,7 +13,7 @@ Ruang sidang Dewan berada di lantai empat puluh dua, dua lantai di atas biro yan
 
 Satu kalimat itu cukup untuk memberitahunya bahwa kabar tentang map yang terbuka sudah sampai ke lingkaran ini lebih dulu daripada dirinya. Ia membungkuk sebesar yang diwajibkan protokol dan berdiri di titik yang ditunjukkan kepadanya, di luar meja cincin, di tempat orang berdiri ketika mereka adalah perkara dan bukan peserta.
 
-"Minggu lalu," kata suara kursi pertama, "sebuah map riset berkop biro Anda disita dari meja distribusi arsip lantai tiga puluh delapan. Isinya permintaan pencatatan tentang lima panglima era Long Dusk, lengkap dengan jalur verifikasi ke tiga bandar. Map itu ditemukan dalam keadaan terbuka. Segelnya dipotong rapi. Pemotongnya tidak bersembunyi. Ia menandatangani tindakannya dengan stempel jabatan, dan jabatan tersebut adalah Pembaca Tua."
+"Pekan lalu," kata suara kursi pertama, "sebuah map riset berkop biro Anda disita dari meja distribusi arsip lantai tiga puluh delapan. Isinya permintaan pencatatan tentang lima panglima era Long Dusk, lengkap dengan jalur verifikasi ke tiga bandar. Map itu ditemukan dalam keadaan terbuka. Segelnya dipotong rapi. Pemotongnya tidak bersembunyi. Ia menandatangani tindakannya dengan stempel jabatan, dan jabatan tersebut adalah Pembaca Tua."
 
 Di ruangan itu tidak ada satu pun kursi yang bergerak. Ossian memahami keheningan itu dengan benar. Pembaca Tua adalah nama jabatan yang semua pegawai lantai arsip tahu dan tidak pernah dilampirkan kepada wajah mana pun. Identitas pemegangnya dirahasiakan bahkan dari Dewan, dan itulah yang membuat kursi-kursi di sekelilingnya diam dengan sikap orang yang menyadari bahwa rumah mereka memiliki kamar yang tidak pernah mereka lihat kuncinya.
 

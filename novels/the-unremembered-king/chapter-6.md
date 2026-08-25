@@ -77,7 +77,7 @@ Dia pulang subuh dengan cara berjalan sambil bersandar ke dinding distrik, dan S
 
 "Kelelahan."
 
-"Renn." Nama itu dipakai sebagai palu. "Dari semalam kau makan dua porsi. Kemarin dua setengah. Minggu lalu satu saja dan tidak habis. Orang yang tiba-tiba dobel makan sambil kurus itu bukan kelelahan. Itu penyakit atau penyelundupan."
+"Renn." Nama itu dipakai sebagai palu. "Dari semalam kau makan dua porsi. Kemarin dua setengah. Pekan lalu satu saja dan tidak habis. Orang yang tiba-tiba dobel makan sambil kurus itu bukan kelelahan. Itu penyakit atau penyelundupan."
 
 Ashvarok menyendok buburnya dengan tempo orang yang sedang membeli waktu. Anak sebelas tahun ini menghitung porsi makan kakaknya. Tentu saja dia menghitung. Semua angka keluarga ada di kepala bocah ini, termasuk jumlah suapan.
 

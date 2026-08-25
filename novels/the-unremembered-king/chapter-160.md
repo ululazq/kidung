@@ -27,7 +27,7 @@ Ruangan diam. Sela yang pertama bicara, pelan, menghitung: "Dia belum tahu siapa
 
 ---
 
-Sabtu pagi, batu.
+pagi Rabat, batu.
 
 Bagian kunjungan yang ditakuti semua orang dimulai di pintu tambang jam delapan: pembacaan lapangan segmen klasifikasi, rute standar, pengawalan resmi — Ossian, Kovan, Maera sebagai saksi Guild, dua Shift Guard, dan jabatan itu sendiri yang berjalan di tengah formasi seperti pusat gravitasi kecil yang tenang. Rutenya sudah disepakati di kertas: tingkat atas, troli timur, ambang aula dari jarak aman, tidak masuk. Segala sesuatu tentang hari ini sah, terdokumentasi, dan berdiri di atas peta salah yang dicap dua institusi.
 

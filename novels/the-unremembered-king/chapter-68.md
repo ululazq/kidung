@@ -3,9 +3,9 @@ title: "Bab 68: Lempeng Cadangan"
 chapter: 68
 ---
 
-Ashvarok sudah lama tahu malam itu akan datang, karena janji yang diucapkan orang yang merasa dipermalukan adalah janji yang paling tepat waktu. Tiga tanda muncul dalam sepuluh hari: Kovan berhenti mengintip pasar dan mulai membeli barang-barang kecil dengan uang pribadinya — seutas kawat tembaga, dua keping mangkuk logam tipis, lilin penyegel murah. Lempeng pengukur resminya dikirim turun ke bawah untuk kalibrasi pada hari yang tidak masuk jadwal kalibrasi. Dan pada Jumat sore, penjaga shift lorong tujuh berganti lebih cepat dari biasa, dengan rotasi yang meninggalkan persimpangan kosong selama seperempat jam pada pergantian Sabtu malam.
+Ashvarok sudah lama tahu malam itu akan datang, karena janji yang diucapkan orang yang merasa dipermalukan adalah janji yang paling tepat waktu. Tiga tanda muncul dalam sepuluh hari: Kovan berhenti mengintip pasar dan mulai membeli barang-barang kecil dengan uang pribadinya — seutas kawat tembaga, dua keping mangkuk logam tipis, lilin penyegel murah. Lempeng pengukur resminya dikirim turun ke bawah untuk kalibrasi pada hari yang tidak masuk jadwal kalibrasi. Dan pada Jumat sore, penjaga shift lorong tujuh berganti lebih cepat dari biasa, dengan rotasi yang meninggalkan persimpangan kosong selama seperempat jam pada pergantian malam Rabat.
 
-Semua tanda menunjuk satu jam — Sabtu malam, hari kedelapan puluh enam, pergantian shift. Tanpa izin, tanpa catatan, tanpa saksi. Persis seperti yang disusun orang itu dalam kepala sejak lama.
+Semua tanda menunjuk satu jam — malam Rabat, hari kedelapan puluh enam, pergantian shift. Tanpa izin, tanpa catatan, tanpa saksi. Persis seperti yang disusun orang itu dalam kepala sejak lama.
 
 Yang berubah adalah jawabannya.
 
@@ -17,7 +17,7 @@ Setahun penuh Ashvarok menjawab perangkat-perangkat seperti itu dengan cara yang
 
 Sebelum berangkat ia sempat singgah ke gudang perkakas, karena rencana semacam ini wajib diberitahu kepada satu orang — orang yang akan mengatur cerita kalau malam ini salah jalannya.
 
-"Malam ini bocah lorong tujuh diuji," katanya. "Tanpa izin, tanpa catatan. Sabtu malam, pergantian shift."
+"Malam ini bocah lorong tujuh diuji," katanya. "Tanpa izin, tanpa catatan. malam Rabat, pergantian shift."
 
 Brannoc menoleh dari raknya pelan-pelan. "Kamu tahu dari mana?"
 

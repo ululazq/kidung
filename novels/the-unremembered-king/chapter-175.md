@@ -71,13 +71,13 @@ The Hollowed tua itu bangkit dari kursinya di sudut — ia hadir tiap panggung d
 
 Ashvarok memandang lelaki tua itu lama — the Hollowed pertama yang pernah ia temui di dunia ini, korban yang tidak pernah bisa diselamatkan selama dua tahun, yang kini duduk di dapur barak mengajukan diri sebagai proyek penyelamatan pertama era baru.
 
-"Bukan kamu yang dicoba," kata Ashvarok akhirnya. "Kamu yang dilibatkan. Ada bedanya, dan beda itu milikmu." Ia menoleh ke Sela. "Catat di papan: jam penjaga malam untuk Tovik dimulai Selasa ini. Semua potongan ceritanya dibacakan ulang. Dan tambahkan satu baris baru yang belum pernah ada: setiap sesi ditutup dengan menyebut namanya — Tovik — oleh semua yang hadir, keras-keras, sampai dia sendiri bisa ikut menyebutnya tanpa dibimbing."
+"Bukan kamu yang dicoba," kata Ashvarok akhirnya. "Kamu yang dilibatkan. Ada bedanya, dan beda itu milikmu." Ia menoleh ke Sela. "Catat di papan: jam penjaga malam untuk Tovik dimulai hari Dua ini. Semua potongan ceritanya dibacakan ulang. Dan tambahkan satu baris baru yang belum pernah ada: setiap sesi ditutup dengan menyebut namanya — Tovik — oleh semua yang hadir, keras-keras, sampai dia sendiri bisa ikut menyebutnya tanpa dibimbing."
 
 "Dia sudah bisa," kata ibu Tamma dari dapurnya, datar, tanpa menoleh, dan meja hening. "Dua malam terakhir, waktu absen-nama. Dia jawab 'Tovik ada' sebelum aku panggil." Wanita itu akhirnya menoleh, dan di matanya ada air yang tidak akan pernah ia akui. "Kalian sibuk bicara sama kedalaman dan tidak melihat muka tua ini. Namanya sudah mulai balik duluan dari yang kita kira."
 
 Ashvarok memandang the Hollowed tua itu — Tovik, yang namanya sedang pulang lewat pintu dapur sebelum semua rencana besar tim inti selesai disusun — dan menemukan bahwa untuk pertama kalinya dalam seribu tahun karier penjagaannya, ia telah membuat kesalahan klasik yang selalu dikritiknya pada pejabat: sibuk memandang medan yang besar dan melewatkan mukjizat kecil yang terjadi di dapur.
 
-"Maka prioritas kita berganti," kata Ashvarok. "Bukan kedalaman dulu. Tovik dulu. Kedalaman bisa menunggu — dia sudah terbukti sabar seribu tahun." Ia bangkit, dan menawarkan tangan kepada lelaki tua itu, dan membantunya berdiri. "Pak Tovik. Selasa depan, panggung dapur, sesi pertama resmi. Dan kalau nama itu sampai balik utuh — kamu yang pilih mau jadi apa setelahnya. Penjaga malam lagi, atau pensiunan yang diceritakan anak-anak. Pilihanmu."
+"Maka prioritas kita berganti," kata Ashvarok. "Bukan kedalaman dulu. Tovik dulu. Kedalaman bisa menunggu — dia sudah terbukti sabar seribu tahun." Ia bangkit, dan menawarkan tangan kepada lelaki tua itu, dan membantunya berdiri. "Pak Tovik. Hari Dua depan, panggung dapur, sesi pertama resmi. Dan kalau nama itu sampai balik utuh — kamu yang pilih mau jadi apa setelahnya. Penjaga malam lagi, atau pensiunan yang diceritakan anak-anak. Pilihanmu."
 
 Tovik memandang tangan yang menolongnya berdiri, lalu wajah bocah lorong tujuh, lalu barak penuh orang yang menyebut namanya tiap malam.
 

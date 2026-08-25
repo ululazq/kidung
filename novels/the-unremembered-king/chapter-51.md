@@ -77,7 +77,7 @@ Ia menyerahkan lengan itu, karena menolak hanya menambah durasi.
 
 Kapur kecil itu bergerak sepanjang kulit, menandai batas merah yang masih berdenyut samar di bawah permukaan, dan wajah Sela yang selalu berhasil memegang dirinya dengan tangan dingin perlahan kehilangan pegangan pada satu titik: ketika garis ukuran itu melewati bekas tandakan malam-malam sebelumnya dan tidak berhenti, dan tidak berhenti, dan baru berhenti jauh di atasnya.
 
-"Siku," kata Sela. Suaranya datar dengan cara yang dikeraskan. "Minggu lalu siku lewat satu jari. Sekarang—" kapur itu mengukur sekali lagi, seolah angka bisa berubah kalau dibaca ulang, "—empat jari. Empat, Kak."
+"Siku," kata Sela. Suaranya datar dengan cara yang dikeraskan. "Pekan lalu siku lewat satu jari. Sekarang—" kapur itu mengukur sekali lagi, seolah angka bisa berubah kalau dibaca ulang, "—empat jari. Empat, Kak."
 
 "Aturan kita," kata Ashvarok.
 
