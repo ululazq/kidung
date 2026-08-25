@@ -1,6 +1,6 @@
 # World State: The Unremembered King
 
-Terakhir diperbarui: bab 239
+Terakhir diperbarui: bab 240
 Arc aktif: Arc 1 — The Glass City
 
 Catatan: file ini adalah memori kerja serial — satu-satunya tempat yang wajib
@@ -540,3 +540,5 @@ Gelar/jabatan Inggris kanon yang dipakai di prosa: Assayer, Overseer, Foreman, Q
 | SEKOLAH MENENUN, DATARAN TENGAH & PESISIR (235-238): barat laut = bahasa KAIN TENUN (pasal 15; Lompa guru sekolah menenun 19 murid); 28 kain dibaca → jiwa 52→61; pesan 300 tahun di kain tertua dibaca & dibalas; JALAN NAMA: kain panjang 200 langkah antar pos + pola raja kurus; Sup Kamp Pertama lahir; dataran tengah = pemulangan digabung perayaan panen TANPA pengumuman ("menemukan kita sedang hidup, bukan menunggu") + TEPUK TANGAN PANEN (3 ketukan 1 hentakan); 11 jiwa tanpa daftar (pengelana) → pasal 14 diperluas, dunia berebut jadi keluarga pengganti; pesisir = nat bawah air pasang → protokol LAGU LEWAT AIR (menyanyi dari air saat pasang naik), 44 jiwa dalam 4 sesi; bara Karveth-Ulm dibawa ibu Tamma ke pegunungan timur laut | barat laut/dataran tengah/pesisir | 235-238 |
 
 | PEGUNUNGAN TIMUR LAUT & PENUTUP PROYEK (239): kepala kamp Ulmek — api unggun pegunungan menyala 300 tahun menunggu; MALAM DUA API (bara Karveth-Ulm bertemu api pegunungan, dibacakan Kael-Uthar); 24 jiwa naik lewat api unggun (pintu keluar = pintu masuk); PEMULANGAN SELESAI: 400/400 jiwa, 17/17 wilayah; neraca era ketiga + kalimat penutup semua tokoh di halaman "Untuk Pembaca Masa Depan"; warisan: protokol musim 16 pasal, Sekolah Mendengar & sekolah menenun, sistem nat kecil 47 batu, rantai cerita; ibu Tamma: warisan era ketiga = PERTANYAAN ("ada yang bisa dibantu?") | pegunungan timur laut/Caldrest/karvess | 239 |
+
+| RENN — JIWA YANG TIDUR DI TUBUH ASHVAROK (240): nat lorong barak utara (Yang Dulu Sunyi) mengungkap: Renn tidak pernah keluar — ia MENDENGAR semua cerita 8 bulan; the Patient House: "tubuh Renn menyimpanmu, kamu tamu yang dijaga rumah"; Ashvarok BERHENTI pakai the Walking Key sampai vein-scar mereda; sarapan bergilir untuk memperkuat tubuh (Sela masak pertama); rencana bicara pada Renn tiap sore seperti nat kecil | Caldrest | 240 |
