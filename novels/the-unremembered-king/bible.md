@@ -1,7 +1,7 @@
 # Bible: The Unremembered King
 
-Terakhir diperbarui: bab 265
-Sudah diungkap ke pembaca sampai: bab 265
+Terakhir diperbarui: bab 270
+Sudah diungkap ke pembaca sampai: bab 270
 
 ## Premis
 
@@ -79,6 +79,8 @@ Ejaan baku. Semua nama proper di bab mana pun harus ada di sini.
 | Murmur / Voice / Chorus / Anthem / Requiem | Tangga kemampuan Resonance, terendah ke tertinggi |
 | Vhal-Duren | Menara jaga era pra-Hegemony di dataran tinggi antara Caldrest dan Spire; tak tercatat peta Liberation; reruntuhan + seam pengikat ketujuh |
 | Seam Saksi / seam pengikat ketujuh | Batu bundar sebesar meja di reruntuhan Vhal-Duren; menyimpan SUARA (bukan jiwa); saksi hidup malam Pembakaran Nama; interval detak 3 detik; luka sunyi presisi sisi utara (satu nada lagunya dicuri era pemenang); sopan, jenaka, langganan pertama: tiga kambing gunung |
+| Penjepit Nada & wasiat Pembaca Tua | Wadah Forge-era berisi nada lima panglima; label "ASET YANG TIDAK BOLEH DIBACAKAN... KAU MENUNGGU SAATNYA" ditandatangani P.T.; nada diselundupkan (bukan dicuri) oleh JURU MASAK ISTANA Hegemony — perempuan pemasak makan malam terakhir lima panglima; suara keenam salah nada di bagian sahabat lagu = suaranya |
+| Buku Seribu Pertanyaan | Buku sampul tenun Lompa, isi 1000 pertanyaan murid 12 cabang Sekolah Mendengar untuk raja abu-abu; penjaga bergilir delegasi murid; nomor 863: "apakah kamu bisa masak sup lebih enak dari Bu Tamma" |
 | Pembakaran Nama | Malam Ashvarok membakar namanya untuk menjadi segel; lima panglima gugur; versi resmi sejarah vs versi batu (makan malam terakhir, kalimat panglima termuda: "minimal kamu tidak lapar waktu menguburkan kami") |
 | orphan murmur | Klasifikasi arsip baru (diciptakan bab 124) untuk gema yang tidak bisa dipetakan ke tradisi mana pun; berkasnya dipegang Shift Guard khusus |
 | Pembaca Tua | Jabatan arsip tertinggi the Resonant Choir di Anthema Spire; penjaga "rekaman kematian api"; identitas individunya dirahasiakan bahkan dari Dewan; berminat pada riset lima panglima the Long Dusk. NAMA JABATAN TETAP BAHASA INDONESIA (keputusan kanon): gelar ordo ritual internal Choir, sengaja dibedakan dari gelar birokrasi sipil yang wajib Inggris (Assayer, Overseer, dll.) — jangan diterjemahkan ke "the Old Reader" |
@@ -262,6 +264,13 @@ Catatan bab 261: lanjutan halaman terpotong ditemukan di balik buku pajak Hegemo
 | 262-265 | Hari 731+4 s.d. +12 | jalur penggembala timur → reruntuhan Vhal-Duren | ekspedisi: Ashvarok-Renn, Sela, Kovan, Barim |
 
 Catatan bab 262-265: seam ketujuh ditemukan hidup; luka sunyi presisi (nada lima panglima dicuri, diduga di arsip Hegemony barak); laporan pertama saksi dibacakan; surat anak-anak 12 cabang minta cerita asli raja abu-abu.
+
+| 266-267 | Hari ~745-750 | Caldrest → Vhal-Duren → Caldrest | Ashvarok-Renn sendirian; keluarga QV |
+
+Catatan bab 266-267: penjepit nada ditemukan; operasi pengikat tunggal; harga vein-scar bahu + Remainder 1/4; lagu utuh.
+| 268-270 | Hari ~755-760 | Caldrest, aula | seluruh Karvess |
+
+Catatan bab 268-270: badai pra-pembacaan; Malam Pembacaan Hari 760; juru masak istana terungkap sebagai penyelundup nada; kalimat kepada malam dibacakan.
 
 Jarak tempuh antar lokasi: Caldrest ke Anthema Spire = 9 hari kafilah; melintasi Karvess utara-selatan = 2 bulan jalan darat.
 
@@ -705,7 +714,9 @@ Catatan bab 150 (KLIMAKS JENDELA, POV Ashvarok): GEMPA GEMA SERENTAK jam ketiga 
 | 13 | Instruksi ke Tharrow: faktor tak dikenal jangan diganggu; laporan bulanan | belum (bab 26: Tharrow melapor Ossian) |
 | 13 | Tujuh seam pengikat besar; satu adalah "saksi"; halaman terpotong | ditembakkan bab 261-262 (seam ketujuh ditemukan di Vhal-Duren) |
 | 261 | Nada lagu malam Pembakaran Nama dicuri pemenang — diduga di arsip Hegemony kotak timah di sudut kamar barak | belum (rencana: batch 266-270) |
-| 262 | Kalimat Ashvarok kepada malam saat Pembakaran Nama (tersimpan utuh di seam saksi, belum dibacakan kepada siapa pun) | belum (~batch 271-275: dibacakan setelah anak-anak selesai menulis) |
+| 266 | Identitas juru masak istana = penyelundup nada; suara keenam di lagu | ditembakkan bab 270 |
+| 267 | Surat balasan Pembaca Tua di laci (menunggu kurir tepat) | belum (~batch 271+) |
+| 262 | Kalimat Ashvarok kepada malam saat Pembakaran Nama | ditembakkan bab 270 (dibacakan di Malam Pembacaan atas keputusan murid) |
 | 265 | Janji: cerita lengkap raja abu-abu dibacakan dengan sup hadir | belum |
 | 14 | the Hollowed pertama: penambang regu lain hidup tapi tanpa nama (baris ke-6 tak terbaca) | belum (bab ~245: tema "penjaga dikenal") |
 | 14 | Keputusan: tutup titik bocor malam ini dengan the Walking Key | ditembakkan bab 15 |
