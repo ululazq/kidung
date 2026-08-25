@@ -61,7 +61,7 @@ Dan ketika mereka tiba — saat matahari terbenam di horizon laut —
 
 nat-gunung itu melihat laut untuk pertama kalinya.
 
-Ia tidak bicara lama. Iramanya cuma satu kalimat yang oleh Vessia diterjemahkan sambil menangis:
+Ia tidak bicara lama. Iramanya hanya satu kalimat yang oleh Vessia diterjemahkan sambil menangis:
 
 "DELAPAN RATUS TAHUN AKU MENDENGAR AIR HUJAN DAN SUNGAI.
 
@@ -269,7 +269,7 @@ PERUT KOSONG BISA LIHAT LAUT, TAPI TIDAK BISA MENIKMATINYA."
 
 Dan satu baris dari Ashvarok-Renn — yang menutup kasus ini di arsip:
 
-"Kasus penghuni ganda kedua mengajarkan dunia bahwa pasal 6 bukan cuma milik kami.
+"Kasus penghuni ganda kedua mengajarkan dunia bahwa pasal 6 bukan hanya milik kami.
 
 Ia milik siapa pun yang pernah merasa jiwanya lebih besar dari tempatnya.
 

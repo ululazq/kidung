@@ -185,7 +185,7 @@ Vessia berjalan paling depan. Setiap nat yang menyala, ia menyapanya dalam aksar
 
 Dan nat-nat itu menjawab — dengan irama yang oleh Vessia diterjemahkan sambil terus berjalan:
 
-"Mereka bilang... 'akhirnya anak-anak pulang'. Mereka tidak marah sama sekali, Kak. Delapan puluh tahun dilarang... dan mereka cuma nunggu."
+"Mereka bilang... 'akhirnya anak-anak pulang'. Mereka tidak marah sama sekali, Kak. Delapan puluh tahun dilarang... dan mereka tinggal menunggu."
 
 ---
 
@@ -215,7 +215,7 @@ Renn — dari dalam — bicara kepada Ashvarok yang hanya terdengar keduanya:
 
 "Kak Raja. Delapan puluh tahun aku main ke tungku tiap malam karena 'cahaya memanggilku'...
 
-Ternyata aku cuma anak kecil yang menemani kesepianmu sebelum kau bahkan tahu kau kesepian."
+Ternyata aku hanya anak kecil yang menemani kesepianmu sebelum kau bahkan tahu kau kesepian."
 
 Ashvarok menjawab dari dalam — suara tidak stabil:
 
@@ -337,6 +337,6 @@ Dan satu baris terakhir dari Sela — untuk menutup:
 
 Bawa satu cerita: sahabat sejati tidak pernah benar-benar terpisah.
 
-Mereka cuma menunggu dunia cukup baik untuk mempertemukan mereka lagi.
+Mereka hanya menunggu dunia cukup baik untuk mempertemukan mereka lagi.
 
 Dan dunia kita... sudah cukup baik."

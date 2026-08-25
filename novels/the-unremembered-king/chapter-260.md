@@ -27,7 +27,7 @@ Dan Ashvarok-Renn berdiri — bicara bersamaan untuk terakhir kali dalam buku in
 
 "Dua ratus enam puluh bab. Dua tahun era menyapa. Seribu tahun kesepian yang berakhir.
 
-Kami tidak akan berpidato panjang. Kami cuma mau bilang satu hal:
+Kami tidak akan berpidato panjang. Kami hanya mau bilang satu hal:
 
 Terima kasih sudah bertanya 'ada siapa di sana?' kepada kami.
 
@@ -272,7 +272,7 @@ Dan satu baris dari Ashvarok-Renn — yang ditulis bertahun-tahun sebelumnya, di
 
 beri tahu mereka: kami tidak pernah bermaksud mengubah dunia.
 
-Kami cuma menjawab pertanyaan anak kecil.
+Kami hanya menjawab pertanyaan anak kecil.
 
 Dan dunia yang berubah... itu efek samping dari mendengarkan dengan sungguh-sungguh."
 

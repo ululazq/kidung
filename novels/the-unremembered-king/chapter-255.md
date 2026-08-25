@@ -260,7 +260,7 @@ Dan di bawahnya — satu baris dari Renn, yang menutup jurnal pribadinya:
 
 "Delapan bulan silang aku pikir ceritaku berakhir di lorong tambang.
 
-Ternyata itu cuma halaman pertama."
+Ternyata itu hanya halaman pertama."
 
 ---
 

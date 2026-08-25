@@ -13,7 +13,7 @@ Surat penerimaan datang dari Akademi Arsip Tinggi Spire — dan oleh Ossian diba
 
 Aula hening.
 
-Lalu seluruh Sekolah Mendengar berdiri bertepuk tangan — dan Sela, gadis dua belas tahun yang delapan bulan silang cuma adik angkat bocah tambang, menangis di tempatnya.
+Lalu seluruh Sekolah Mendengar berdiri bertepuk tangan — dan Sela, gadis dua belas tahun yang delapan bulan silang hanya adik angkat bocah tambang, menangis di tempatnya.
 
 ---
 
@@ -33,7 +33,7 @@ LIMA: Sup Kamp Pertama dimasak pagi keberangkatan. Ibu Tamma: "anak pertama yang
 
 Dan pasal keenam — yang diajukan Renn, disetujui Ashvarok sebelum kalimatnya selesai:
 
-"Setiap surat Sela WAJIB dibalas dalam tiga hari. Dan setiap balasan wajib memuat: kabar keluarga, kabar nat-nat kecil, dan SATU cerita lucu. Karena rumah yang baik mengirim kabar gembira, bukan cuma laporan."
+"Setiap surat Sela WAJIB dibalas dalam tiga hari. Dan setiap balasan wajib memuat: kabar keluarga, kabar nat-nat kecil, dan SATU cerita lucu. Karena rumah yang baik mengirim kabar gembira, bukan hanya laporan."
 
 ---
 
@@ -98,9 +98,9 @@ Surat pertama dari Sela tiba lewat nat pos. Ashvarok-Renn membacanya bersama di 
 
 "KAK!
 
-Spire besar banget. Kamar aku kecil tapi ada jendela menghadap menara arsip (KAK, MENARA ARSIPNYA SETINGGI LANGIT).
+Spire sangat besar. Kamar aku kecil tapi ada jendela menghadap menara arsip (KAK, MENARA ARSIPNYA SETINGGI LANGIT).
 
-Hari pertama: guru bertanya kenapa mau jadi arsiparis. Semua jawab panjang teori. Jawabanku cuma satu kalimat dan seluruh kelas diam:
+Hari pertama: guru bertanya kenapa mau jadi arsiparis. Semua jawab panjang teori. Jawabanku hanya satu kalimat dan seluruh kelas diam:
 
 'Karena keluargaku mengajari aku bahwa setiap nama layak disimpan.'
 
@@ -162,7 +162,7 @@ Kovan mencatat fenomena itu dengan kalimat yang dikutip seluruh jaringan batu:
 
 "Batu-batu kita sekarang bersaing kecepatan mengantar surat cinta keluarga.
 
-Delapan bulan silang mereka cuma peta lokasi.
+Delapan bulan silang mereka hanya peta lokasi.
 
 Sekarang mereka kurir yang bangga."
 
@@ -204,7 +204,7 @@ Dan sekarang kami tahu kenapa rasanya rumah lebih sepi tanpamu:
 
 karena satu salinan ingatan keluarga sedang belajar jadi arsiparis terbaik dunia.
 
-Rumah tidak hilang ingatannya — cuma menunggu salinannya pulang membawa lebih banyak lagi.
+Rumah tidak hilang ingatannya — hanya menunggu salinannya pulang membawa lebih banyak lagi.
 
 Tiga hari. Satu cerita lucu. Kami janji.
 

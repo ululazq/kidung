@@ -37,7 +37,7 @@ Kembar Tami-Tomi.
 
 "Kenapa kami, Bu?" tanya kembar itu — untuk pertama kalinya kehilangan kata-kara bersamaan.
 
-"Karena kalian yang pertama kali mengajari dunia bahwa batu pun perlu teman." Ibu Tamma menutup buku dapurnya. "Orang yang bisa lihat kesepian di tempat yang semua orang pikir cuma batu... itu orang dapur sejati."
+"Karena kalian yang pertama kali mengajari dunia bahwa batu pun perlu teman." Ibu Tamma menutup buku dapurnya. "Orang yang bisa lihat kesepian di tempat yang semua orang pikir hanya batu... itu orang dapur sejati."
 
 ---
 
@@ -47,7 +47,7 @@ Tapi ibu Tamma menambahkan satu syarat yang membuat semua orang terdiam:
 
 "Bu?"
 
-"Aku cuma menambah tangan." Ia menatap kembar itu. "Dapur ini bukan milikku. Dapur ini milik SEMUA YANG PERNAH LAPAR DI KOTA INI. Aku cuma penjaganya selama beberapa puluh tahun — sekarang kalian ikut menjaga.
+"Aku hanya menambah tangan." Ia menatap kembar itu. "Dapur ini bukan milikku. Dapur ini milik SEMUA YANG PERNAH LAPAR DI KOTA INI. Aku hanya penjaganya selama beberapa puluh tahun — sekarang kalian ikut menjaga.
 
 Dan aku tetap di sini. Mengawal sup. Menceritakan kenapa resepnya begini. Dan sesekali... marah kalau garamnya kurang."
 
@@ -98,7 +98,7 @@ Aku mau koreksi: itu bukan susah. Itu SEKALI LIAHAT.
 
 Kalau kalian lihat orang dan langsung tahu 'yang ini lapar perut, yang ini lapar diceritakan, yang ini lapar dipeluk' — kalian sudah jadi ibu dapur.
 
-Sisanya cuma resep.
+Sisanya hanya resep.
 
 Dan resep bisa diajarkan."
 
@@ -136,7 +136,7 @@ Ibu Tamma mencicipi sup, memperbaiki garamnya sedikit, dan menjawab:
 
 Penerus itu orang yang kalian latih sambil tetap bekerja bersamanya.
 
-Kalau aku tidur sampai siang, kalian tidak belajar apa-apa — kalian cuma kerja.
+Kalau aku tidur sampai siang, kalian tidak belajar apa-apa — kalian hanya kerja.
 
 Aku mau kalian BELAJAR dan KERJA pada waktu yang sama.
 
@@ -280,7 +280,7 @@ Pada KALIAN."
 
 Kembar itu diam — tidak sanggup menjawab.
 
-"Kalian datang sebagai anak tujuh tahun yang nganggep batu teman. Sekarang kalian jadi orang yang bikin seluruh dunia mikir ulang soal batu."
+"Kalian datang sebagai anak tujuh tahun yang nganggep batu teman. Sekarang kalian jadi orang yang membuat seluruh dunia berpikir ulang soal batu."
 
 Ia berdiri, mematikan lampu dapur terakhir.
 

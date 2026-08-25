@@ -45,7 +45,7 @@ Renn duduk lama di depan api itu.
 
 Lalu berkata — suaranya kecil:
 
-"Tapi kalau Sela sedih... dan aku cuma duduk mendengarkan tanpa memperbaiki... itu rasanya seperti gagal."
+"Tapi kalau Sela sedih... dan aku hanya duduk mendengarkan tanpa memperbaiki... itu rasanya seperti gagal."
 
 Dan jawaban Kael-Uthar — yang oleh nat aula diteruskan sampai ke arsip, karena terlalu penting untuk tidak:
 
@@ -69,7 +69,7 @@ Renn menatap api itu — api yang delapan bulan silang menyelamatkan hidupnya le
 
 "Kau delapan ratus tahun mendengar orang mati dan tidak bisa apa-apa... bagaimana kau tidak jadi gila?"
 
-Jawaban api purba itu oleh nat aula diteruskan ke seluruh jaringan batu Karvess — dan oleh ibu Tamma dicatat di buku dapurnya karena "terlalu penting untuk cuma jadi arsip":
+Jawaban api purba itu oleh nat aula diteruskan ke seluruh jaringan batu Karvess — dan oleh ibu Tamma dicatat di buku dapurnya karena "terlalu penting untuk hanya jadi arsip":
 
 "AKU JADI GILA, ANAKKU. BERKALI-KALI.
 
@@ -135,7 +135,7 @@ Kalian berdua bertanya siapa yang menyelamatkan siapa.
 
 Jawabannya sudah kubilang delapan bulan silang: SEMUA ORANG MENYELAMATKAN SEMUA ORANG.
 
-Dan pekerjaanku cuma satu: memastikan supnya tetap hangat supaya kalian kuat saling menyelamatkan."
+Dan pekerjaanku hanya satu: memastikan supnya tetap hangat supaya kalian kuat saling menyelamatkan."
 
 — Ibu Tamma. Dapur tetap asap.
 
@@ -266,13 +266,13 @@ PELAJARANNYA SELESAI UNTUK PEKAN INI.
 
 SUPNYA MASIH HANGAT SAMPAI PEKAN DEPAN."
 
-— Kael-Uthar, api purba, guru nomor 1 (menurut daftar; menurut dia sendiri "cuma batu hangat")
+— Kael-Uthar, api purba, guru nomor 1 (menurut daftar; menurut dia sendiri "hanya batu hangat")
 
 ---
 
 Dan Ashvarok menutup dengan satu kalimat — yang oleh Sela disalin ke halaman depan arsip sekolah:
 
-"Delapan ratus tahun dia menyebut dirinya cuma batu hangat.
+"Delapan ratus tahun dia menyebut dirinya hanya batu hangat.
 
 Dan delapan ratus tahun itu dunia butuh lebih banyak dari apapun: batu yang hangat.
 
