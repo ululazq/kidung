@@ -35,7 +35,7 @@ Anak Pak Dekan mendahului semua orang. Ia berlutut, menempelkan telapak tanganny
 
 "Bukan salah," katanya akhirnya, menjawab pertanyaan yang belum ditanyakan. "Tanahnya... ramai. Bukan suara. Ramai seperti dapur sebelum makan besar. Ada yang panas di bawah sana dan dia tidak tidur."
 
-Mereka mendirikan kemah di bibir lembah, bukan di dalamnya — Sareth aturan kesembilan, ditaati tanpa perlu diskusi — dan Kovan membuka buku hitungannya untuk entri malam pertama: lokasi terkonfirmasi, suhu tanah naik satu deret setiap kali mereka berdiri lebih dekat, burung-burung kembali bertengger sehabis maghrib seperti tidak ada apa-apa yang salah dengan lembah ini.
+Mereka mendirikan kemah di bibir lembah, bukan di dalamnya — Sareth aturan kesembilan, ditaati tanpa perlu diskusi — dan Kovan membuka buku hitungannya untuk entri malam pertama: lokasi terkonfirmasi, suhu tanah naik satu deret setiap kali mereka berdiri lebih dekat, burung-burung kembali bertengger sehabis senja seperti tidak ada apa-apa yang salah dengan lembah ini.
 
 "Tiga generasi peta menganggap tempat ini mati," katanya sambil menulis. "Padahal dia cuma ditinggal pintu tertutup."
 

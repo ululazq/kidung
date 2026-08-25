@@ -85,7 +85,7 @@ Jembatan yang baik akhirnya membuat dirinya tidak dibutuhkan. Itu definisi keber
 
 Satu adegan penutup hari itu, yang tidak masuk dokumen mana pun tapi oleh semua saksi disebut "momen yang membuat hari itu lengkap":
 
-Menjelang maghrib, setelah tamu-tamu menyebar dan tim mulai membereskan, Sovana si perempuan tua pemilik kalimat pertama itu berjalan pelan menuju tepi lereng — ke arah batu hangat Ilo, nat lereng yang dua bulan ini disapa penggembala muda itu tiap hari.
+Menjelang senja, setelah tamu-tamu menyebar dan tim mulai membereskan, Sovana si perempuan tua pemilik kalimat pertama itu berjalan pelan menuju tepi lereng — ke arah batu hangat Ilo, nat lereng yang dua bulan ini disapa penggembala muda itu tiap hari.
 
 Ia meletakkan telapak tangannya ke batu, dan berkata dengan suara yang cukup keras untuk didengar beberapa orang yang masih di sekitar:
 
