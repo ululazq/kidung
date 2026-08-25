@@ -49,13 +49,13 @@ Rapat barak dilangsungkan sore itu di ruang bersama blok timur, dan seperti yang
 
 Ondar yang bertanya pertama, karena Ondar selalu bertanya pertama kalau soalnya upah. "Sepertiga? Kami bekerja penuh dapat sepertiga, Tuan Foreman?"
 
-"Kalian tidak bekerja penuh. Kalian diberi sepertiga pekerjaan yang tersisa." Brannoc berdiri di depan papan arang yang dipindahkan dari dapur, dan suaranya tidak naik sedikit pun. "Surat Koordinat memotong galeri kalian dari buku produksi. Aku tidak bisa mengembalikan galeri. Yang bisa aku kembalikan cuma satu hal, yaitu nama kalian tetap masuk jadwal. Sepertiga upah nyata lebih besar dari nol yang sah."
+"Kalian tidak bekerja penuh. Kalian diberi sepertiga pekerjaan yang tersisa." Brannoc berdiri di depan papan arang yang dipindahkan dari dapur, dan suaranya tidak naik sedikit pun. "Surat Koordinat memotong galeri kalian dari buku produksi. Aku tidak bisa mengembalikan galeri. Yang bisa aku kembalikan hanya satu hal, yaitu nama kalian tetap masuk jadwal. Sepertiga upah nyata lebih besar dari nol yang sah."
 
 "Kalau kami tolak?" Seorang penambang tua galeri sembilan menyilangkan tangannya. "Kalau kami minta upah penuh atau tidak sama sekali?"
 
 "Maka kamu dapat tidak sama sekali, dan surat itu menang." Brannoc menatap orang tua itu sampai selesai bicara. "Aku juga mau upah penuh. Tapi mau tidak mengubah angka. Hitung yang berubah angka."
 
-Ibu Tamma bangkit sebelum debat itu membesar, dan seperti biasa, suaranya tidak tinggi tapi memotong. "Dengar baik-baik. Dulu waktu karantina, siapa yang bayar kas barak? Undian inspeksi. Kerja yang tidak terlihat. Sekarang sama, cuma bentuknya lain. Empat puluh keluarga tidak akan jatuh selama buku catatan ini dibuka setiap malam di meja dapur. Siapa pun boleh datang menghitung sendiri." Ia menepuk meja sekali. "Yang menolak rotasi boleh menolak, tapi dia menolak atas nama dirinya saja."
+Ibu Tamma bangkit sebelum debat itu membesar, dan seperti biasa, suaranya tidak tinggi tapi memotong. "Dengar baik-baik. Dulu waktu karantina, siapa yang bayar kas barak? Undian inspeksi. Kerja yang tidak terlihat. Sekarang sama, hanya bentuknya lain. Empat puluh keluarga tidak akan jatuh selama buku catatan ini dibuka setiap malam di meja dapur. Siapa pun boleh datang menghitung sendiri." Ia menepuk meja sekali. "Yang menolak rotasi boleh menolak, tapi dia menolak atas nama dirinya saja."
 
 Perlawanan sisa itu pecah menjadi gerutu, dan gerutu, dalam pengalaman panjang Brannoc, adalah bentuk persetujuan yang paling jujur dari orang-orang tambang. Satu per satu mereka mendekati papan, membaca kotak-kotaknya, menghitung ulang sepertiga itu dengan bibir bergerak, dan ada satu momen kecil yang ia catat untuk dirinya sendiri. Anak muda galeri sebelas, salah satu regu bonus, bertanya pelan apakah regunya juga masuk putaran. Ketika dijawab ya, anak itu mengangguk dan kembali ke tempat duduknya dengan bahu yang turun sedikit dari posisi siap melawan.
 
@@ -73,7 +73,7 @@ Renn menatapnya sedetik lebih lama dari biasanya, dan sudut mulutnya bergerak se
 
 "Aku sudah tua. Belajarnya cepat." Brannoc meluruskan badan. "Yang penting selesai hari ini. Besok surat itu sudah sembilan hari umurnya, dan surat yang dibiarkan tua sembilan hari mulai dianggap keputusan."
 
-"Kalau begitu ajukan. Pakai jalur sanggahan kolektif, nama tiga puluh satu keluarga yang lama. Kertas itu masih hidup, dan orang Koordinasi masih ingat rasanya." Renn mengetuk gambar arang itu sekali dengan ujung jarinya. "Satu permintaan. Beri regu bisu shift yang lewat ambang galeri sembilan, meski cuma sepuluh langkah masuk. Mereka perlu melihat tempatnya sendiri, bukan mendengar tentangnya. Tempat yang dilihat tidak tumbuh jadi cerita hantu."
+"Kalau begitu ajukan. Pakai jalur sanggahan kolektif, nama tiga puluh satu keluarga yang lama. Kertas itu masih hidup, dan orang Koordinasi masih ingat rasanya." Renn mengetuk gambar arang itu sekali dengan ujung jarinya. "Satu permintaan. Beri regu bisu shift yang lewat ambang galeri sembilan, meski hanya sepuluh langkah masuk. Mereka perlu melihat tempatnya sendiri, bukan mendengar tentangnya. Tempat yang dilihat tidak tumbuh jadi cerita hantu."
 
 Brannoc mengangguk sekali, mencatatnya di kepalanya, tempat semua catatan pentingnya tinggal. Dia sudah mulai berjalan ketika Renn bersuara lagi dari dalam gudang.
 
@@ -81,7 +81,7 @@ Brannoc mengangguk sekali, mencatatnya di kepalanya, tempat semua catatan pentin
 
 Mandor tua itu berhenti di ambang pintu, memikirkan pertanyaan itu dengan cara yang sama ia menimbang beban sebelum memilih tali. "Sadar," jawabnya. "Dulu aku atur regu karena digaji. Sekarang aku atur barak karena tidak ada yang lain yang melakukannya dengan benar." Dia mengunyah sisa akar pahit yang sudah lama tak berasa. "Jabatannya tidak ada di surat mana pun. Bagus. Jabatan bisa dicabut."
 
-Dia keluar ke cahaya siang, dan di halaman barak anak-anak sekolah klinik sedang berbaris untuk name train, suara mereka kecil dan keras memanggil satu sama lain. Brannoc berdiri sebentar memandangi barisan itu, orang yang sembilan bulan lalu hanya ingin lunasi kontrak anaknya dan pulang, dan sekarang memegang buku catatan pembagian rezeki empat ratus orang dengan tangan yang dulu cuma hafal memegang palu.
+Dia keluar ke cahaya siang, dan di halaman barak anak-anak sekolah klinik sedang berbaris untuk name train, suara mereka kecil dan keras memanggil satu sama lain. Brannoc berdiri sebentar memandangi barisan itu, orang yang sembilan bulan lalu hanya ingin lunasi kontrak anaknya dan pulang, dan sekarang memegang buku catatan pembagian rezeki empat ratus orang dengan tangan yang dulu hanya hafal memegang palu.
 
 Tidak ada jabatan untuk pekerjaan ini di dunia mana pun, pikirnya. Maka dia menamainya sendiri, diam-diam, dengan kata yang paling dekat. Manajer. Manajer perlawanan tanpa surat, tanpa gaji, tanpa hak pensiun.
 

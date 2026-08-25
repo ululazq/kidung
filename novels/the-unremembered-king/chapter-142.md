@@ -13,7 +13,7 @@ Yang duduk melingkar malam itu adalah Ondar, dua penambang tua galeri tujuh, dan
 
 Ondar menjawab lebih dulu, seperti biasa.
 
-"Pintu itu dulu jalan pulang kami." Ia mengunyah akar pahit pinjaman Brannoc. "Waktu lorong B masih dibuka, regu kami lewat situ tiap shift. Masuk lewat pintu itu, keluar juga lewat situ. Waktu dia digembok, rasanya seperti jalan kampung ditutup pagar orang luar. Bukan takut. Cuma hilang satu arah pulang."
+"Pintu itu dulu jalan pulang kami." Ia mengunyah akar pahit pinjaman Brannoc. "Waktu lorong B masih dibuka, regu kami lewat situ tiap shift. Masuk lewat pintu itu, keluar juga lewat situ. Waktu dia digembok, rasanya seperti jalan kampung ditutup pagar orang luar. Bukan takut. Hanya hilang satu arah pulang."
 
 "Empat pulang," salah satu penambang tua menambahkan, dan kemudian bercerita tentang malam runtunan troli timur, tentang batu yang memberi jalan, tentang empat nama yang disebut bersama-sama sampai hangat. Cerita itu sudah pernah didengar Ashvarok, tetapi malam ini ia mendengarnya dengan telinga yang lain, karena malam ini cerita itu sedang bekerja. Perempuan dapur melanjutkan dengan bahasanya sendiri, tentang Renn yang masuk duluan dan keluar terakhir, tentang pintu-pintu tambang yang katanya suka menahan orang tapi tidak pernah menahan bocah lorong tujuh.
 
@@ -35,7 +35,7 @@ Sebelum tengah malam, Brannoc menahannya di gudang perkakas tingkat dua untuk pe
 
 "Kembali sebelum jam buta habis?"
 
-"Sebelum. Aku cuma perlu sepuluh tarikan napas di depan pintunya."
+"Sebelum. Aku hanya perlu sepuluh tarikan napas di depan pintunya."
 
 Brannoc mengunyah akar pahitnya lebih lama dari biasanya, dan mandor tua itu jarang mengunyah lama tanpa alasan.
 
@@ -83,7 +83,7 @@ Sela menunggunya di sudut dengan kapur di tangan.
 
 "Kolom NAMA," kata gadis itu. "Tanggal, nama, hasil, harga. Katakan yang boleh kutulis."
 
-"The Door of Four Returns. Diterima. Harga standar, ingatan hilang tiga tarikan napas, sudah pulang." Ashvarok menurunkan suaranya satu tingkat. "Dan tulis satu baris lagi, untuk kita bertiga. Seni ini tidak lagi cuma milik ingatanku. Mulai malam ini ia makan dari cerita kota. Kalau suatu hari cerita kota berhenti jujur, seni ini ikut lapar."
+"The Door of Four Returns. Diterima. Harga standar, ingatan hilang tiga tarikan napas, sudah pulang." Ashvarok menurunkan suaranya satu tingkat. "Dan tulis satu baris lagi, untuk kita bertiga. Seni ini tidak lagi hanya milik ingatanku. Mulai malam ini ia makan dari cerita kota. Kalau suatu hari cerita kota berhenti jujur, seni ini ikut lapar."
 
 Sela menulis baris itu di kolom paling bawah, membacanya balik dua kali, lalu mengangkat wajahnya dengan pertanyaan ketiganya yang khas.
 

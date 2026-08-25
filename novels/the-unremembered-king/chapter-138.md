@@ -29,7 +29,7 @@ Di ambang galeri sembilan, tempat dunia mulai menjual bunyi lagi, Tovik berhenti
 
 Legenda. Legenda yang murni dan sederhana, wajah orang yang pulang ke tempat yang bersuara setelah lama berada di tempat yang tidak.
 
-"Sunyinya baik-baik saja, ya, Nak," kata Tovik pelan. "Orang-orang takut sama sunyinya. Padahal di dalam sana tidak ada yang sakit. Cuma banyak yang sudah selesai."
+"Sunyinya baik-baik saja, ya, Nak," kata Tovik pelan. "Orang-orang takut sama sunyinya. Padahal di dalam sana tidak ada yang sakit. Hanya banyak yang sudah selesai."
 
 "Sudah selesai," ulang Ashvarok hati-hati. "Apa yang sudah selesai, Bapak?"
 

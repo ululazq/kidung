@@ -19,7 +19,7 @@ Mereka melihatnya lebih dulu dari atas tingkat troli, dari celah yang sudah dita
 
 Jari itu berhenti, dan kepala itu terangkat sedikit, dan untuk satu detik yang panjang Ashvarok yakin semuanya bubar di situ, sebab orang yang membaca tanda temuan adalah orang yang tahu barang temuan punya pemilik. Tapi kurir itu hanya memutar fragmen sekali lagi, menyimpannya ke dalam tas dengan pembungkus lilin yang sudah disiapkan dari rumah, dan pergi ke arah barat dengan langkah yang tidak buru-buru. Orang yang buru-buru adalah orang yang takut ditemui. Orang ini sedang membawa barang bukti kepada pembelinya.
 
-"Mereka tidak memotong," kata Brannoc di gelap, suaranya setipis napas. "Dia cuma mengambil umpan kita."
+"Mereka tidak memotong," kata Brannoc di gelap, suaranya setipis napas. "Dia hanya mengambil umpan kita."
 
 "Maka dia tahu barang itu ada sebelum jadwal buta dimulai," kata Renn. "Ada yang memberinya kabar barang, bukan kabar jadwal. Kabar barang datang dari dalam." Ia bangkit pelan. "Tidak penting sekarang. Ikuti dia. Jangan sampai hilang, jangan sampai dekat. Dia menuju satu tempat kalau hitungan kita benar."
 

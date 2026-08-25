@@ -7,7 +7,7 @@ Lot Vosk itu datang pada hari keseratus sembilan puluh dua, dan seperti semua ki
 
 Ashvarok membaca catatan itu dua kali di belakang gudang pengangkutan, lalu menyelipkan kotak itu ke dalam jas kerjanya dan pulang lewat jalan panjang, karena barang berumur seperti ini tidak boleh terlihat berharga di mata siapa pun yang sedang bosan di pasar.
 
-Malamnya gudang perkakas tingkat dua ditutup dari dalam, lampu satu, dan meja dipenuhi lembaran. Yang hadir cuma yang perlu hadir. Maera duduk di sisi kiri dengan buku hitamnya tertutup, Brannoc menjaga pintu sambil membalik batu asahnya, dan Sela tidur di barak, karena malam ini isinya kertas, dan kertas semacam ini tidak untuk anak berumur sebelas tahun meski dia sudah membuktikan sebaliknya berkali-kali.
+Malamnya gudang perkakas tingkat dua ditutup dari dalam, lampu satu, dan meja dipenuhi lembaran. Yang hadir hanya yang perlu hadir. Maera duduk di sisi kiri dengan buku hitamnya tertutup, Brannoc menjaga pintu sambil membalik batu asahnya, dan Sela tidur di barak, karena malam ini isinya kertas, dan kertas semacam ini tidak untuk anak berumur sebelas tahun meski dia sudah membuktikan sebaliknya berkali-kali.
 
 "Mulai dari yang paling sederhana," kata Ashvarok, meletakkan salinan pertama di tengah meja. "Permintaan salinan dokumen Caldrest yang dikirim ke Maera. Kopnya, stempelnya, nomor registrasinya. Kita sudah membaca isinya sampai hafal. Malam ini kita membaca tubuhnya."
 
@@ -39,7 +39,7 @@ Jalur pertama, sejarahnya. the Resonant Choir mengaku sebagai penjaga ortodoksi 
 
 "Kayu itu sekarang bernama the Resonant Choir," kata Ashvarok. "Dan cacingnya duduk di kursi arsip tertinggi Anthema Spire, membaca map riset Ossian sebelum Dewan, meminta salinan Caldrest, memotong segel dengan sabar. Identitas individu disembunyikan bahkan dari Dewan sendiri. Itu bukan gaya pejabat yang takut skandal. Itu disiplin lembaga yang sudah berlatih menghilang sejak sebelum ada yang tahu mereka ada."
 
-Brannoc meletakkan batu asahnya. "Satu hal nyambungnya ke sini. Kata dari Silent Gallery itu, yang bahasanya lebih tua dari Hegemony. Dulu kita cuma simpan sebagai angka."
+Brannoc meletakkan batu asahnya. "Satu hal nyambungnya ke sini. Kata dari Silent Gallery itu, yang bahasanya lebih tua dari Hegemony. Dulu kita hanya simpan sebagai angka."
 
 "Dan malam ini angka itu dapat lemari." Ashvarok mengangguk pelan ke arahnya. "Bahasa pinjaman untuk menyapa tubuh-kunci. Jabatan arsip yang mendahului tangga Resonance. Dua peninggalan dari zaman yang sama, atau setidaknya dari zaman yang satu rumah. Pak Dekan mencatat kata itu dengan dua centang, seperti orang mencatat sesuatu yang pernah diajarkan resmi kepadanya." Ia menatap mandor tua itu lama. "Guru-gurunya ada di lorong-lorong ini, Brannoc. Jejak latihannya tidak semua di Spire."
 

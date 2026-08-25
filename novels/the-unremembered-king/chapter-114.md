@@ -21,7 +21,7 @@ Sela menulis di papan tulisnya tanpa mendongak. "Harga: diri. Dicatat."
 
 "Tunggul penyangga di lorong troli timur." Ia melihat ke arah adik angkatnya, dan suaranya turun setengah tingkat. "Batunya lahir dari malam ketika empat orang pulang. Aku ingin batu itu kuat. Selama ini aku menguatkan segala sesuatu dengan membayar tubuh ini, dan tubuh ini sudah bayar sampai setengah lengan. Kalau benar bahwa nama bisa membuat sesuatu berdiri tegak, maka inilah satu-satunya alat yang tersisa untuk menguatkan tambalan-tambalanku tanpa menagih lengan lagi."
 
-"Syaratku tetap," kata Sela. "Kamu cerita dulu sebelum pakai, dan kamu cerita habis dipakai. Dua-duanya malam ini juga. Dan kolom baru." Ia membalik papan tulisnya dan menggambar garis di tepi kanan, di samping kolom Hourglass yang bertahun menjadi catatan harga badannya. "Namanya kolom NAMA. Isinya cuma tanggal dan garis miring. Garis miring artinya kamu bayar. Jangan ada malam di kolom itu yang kosong tapi kamu bilang tidak bayar."
+"Syaratku tetap," kata Sela. "Kamu cerita dulu sebelum pakai, dan kamu cerita habis dipakai. Dua-duanya malam ini juga. Dan kolom baru." Ia membalik papan tulisnya dan menggambar garis di tepi kanan, di samping kolom Hourglass yang bertahun menjadi catatan harga badannya. "Namanya kolom NAMA. Isinya hanya tanggal dan garis miring. Garis miring artinya kamu bayar. Jangan ada malam di kolom itu yang kosong tapi kamu bilang tidak bayar."
 
 "Disetujui."
 

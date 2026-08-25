@@ -29,7 +29,7 @@ Pertanyaan kedua, kenapa name map diminta arsip kota, dijawab ibu Tamma yang sed
 
 Pertanyaan ketiga Sela tanyakan kepada Renn, malamnya, di ambang gudang perkakas, karena pertanyaan ketiga selalu yang paling dalam dan hanya boleh ditanya ke tempat yang aman. "Kalau name map jadi milik arsip kota, apakah daftar-daftarku ikut jadi milik mereka?"
 
-Renn memikirkannya sungguh-sungguh, dan Sela selalu suka cara dia memikirkan sesuatu, mata turun sedikit, jeda yang panjang tapi tidak kosong. "Yang disalin cuma yang ada di depan papan. Baris nama, blok, tanggal centang." Ia menatap papan tulis kecilnya. "Belakang papan tetap milikmu. Itu aturan yang tidak tertulis di surat siapa pun."
+Renn memikirkannya sungguh-sungguh, dan Sela selalu suka cara dia memikirkan sesuatu, mata turun sedikit, jeda yang panjang tapi tidak kosong. "Yang disalin hanya yang ada di depan papan. Baris nama, blok, tanggal centang." Ia menatap papan tulis kecilnya. "Belakang papan tetap milikmu. Itu aturan yang tidak tertulis di surat siapa pun."
 
 "Kalau nanti ada hari daftar-belakang itu perlu dibaca orang lain?"
 
@@ -43,7 +43,7 @@ Sela menulisnya besar-besar di sudut atas papan tulis ruang tunggu. Kelas Tambah
 
 Harn membaca tulisan itu dari barisan depan dan mengangkat tangannya seperti selalu. "Kalau kelas kita sudah resmi, apakah aturannya ikut resmi?"
 
-"Aturannya sudah resmi dari dulu. Yang baru cuma namanya." Sela menepuk papan itu. "Nama resmi itu seperti jaket. Badannya tidak berubah, tapi orang lain mulai tahu badan itu ada."
+"Aturannya sudah resmi dari dulu. Yang baru hanya namanya." Sela menepuk papan itu. "Nama resmi itu seperti jaket. Badannya tidak berubah, tapi orang lain mulai tahu badan itu ada."
 
 "Kenapa harus lewat wali kota?" Pertanyaan datang dari anak perempuan blok utara, yang tahun lalu masih takut bicara kepada orang dewasa mana pun. "Bukankah kelas ini milik kita?"
 
@@ -87,7 +87,7 @@ Sisi belakang itu sudah penuh tulisan-tulisan yang tidak pernah dia tunjukkan ke
 
 Dia mengambil lembar pengesahan itu, memutar-balikkannya supaya capnya menempel ke kayu, lalu menempelkannya di tengah-tengah sisi belakang papan, tepat di antara daftar 19 nama dan kolom NAMA, memakai perekat tapioka yang sama dengan yang dipakai peta klinik. Lembar resmi dari balai kota, dengan cap dua kali, sekarang hidup di sisi gelap papan tulisnya, berdampingan dengan semua hal yang belum boleh diketahui dunia.
 
-Ibu Tamma pasti akan menertawakannya kalau lihat. Dokumen pengesahan resmi pertama dalam hidupnya, dan dia menempelkannya di tempat tersembunyi, menghadap dinding, tidak bisa dibaca siapa pun. Tetapi Sela punya alasan yang dia tuliskan sendiri di bawahnya dengan kapur kecil, huruf-huruf yang cuma setengah ukuran biasanya.
+Ibu Tamma pasti akan menertawakannya kalau lihat. Dokumen pengesahan resmi pertama dalam hidupnya, dan dia menempelkannya di tempat tersembunyi, menghadap dinding, tidak bisa dibaca siapa pun. Tetapi Sela punya alasan yang dia tuliskan sendiri di bawahnya dengan kapur kecil, huruf-huruf yang hanya setengah ukuran biasanya.
 
 Agar hal yang resmi dan hal yang rahasia tahu letak masing-masing. Dan agar pengesahan itu belajar dari tetangganya, yaitu bahwa daftar-di-belakang-papan lebih tua, lebih jujur, dan lebih penting daripada dirinya.
 

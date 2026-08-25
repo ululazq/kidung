@@ -5,11 +5,11 @@ chapter: 135
 
 Rencana itu lahir dari satu kalimat Brannoc yang tidak bermaksud jadi rencana.
 
-Malam hari keseratus sembilan puluh enam, di gudang perkakas setelah hitungan jadwal selesai, mandor tua itu berkata sambil menata palu-palunya bahwa orang yang dipanggil dan tidak mau menjawab biasanya cuma punya dua pilihan, yaitu diam selamanya atau pindah rumah. Ashvarok, yang sedang menimbang hal yang sama dengan bahasa lain, berhenti sebentar di tengah gerakan tangannya.
+Malam hari keseratus sembilan puluh enam, di gudang perkakas setelah hitungan jadwal selesai, mandor tua itu berkata sambil menata palu-palunya bahwa orang yang dipanggil dan tidak mau menjawab biasanya hanya punya dua pilihan, yaitu diam selamanya atau pindah rumah. Ashvarok, yang sedang menimbang hal yang sama dengan bahasa lain, berhenti sebentar di tengah gerakan tangannya.
 
 "Ada pilihan ketiga," katanya. "Menjawab dengan suara orang lain."
 
-Sela, yang duduk di peti rendah mencatat kolom Hourglass mingguan, mendongak duluan dari semua orang. "Maksudnya bagaimana, Kak? Seam itu memanggil posisi kosongnya. Yang dia tunggu cuma satu jawaban."
+Sela, yang duduk di peti rendah mencatat kolom Hourglass mingguan, mendongak duluan dari semua orang. "Maksudnya bagaimana, Kak? Seam itu memanggil posisi kosongnya. Yang dia tunggu hanya satu jawaban."
 
 "Justru itu." Ashvarok meletakkan pensilnya. "Panggilan tidak butuh jawaban yang benar. Panggilan butuh jawaban yang terdengar benar. Kalau sapaan itu diulang, dan kita tidak bisa mencegahnya diulang, maka yang harus dilakukan adalah membuat pemanggil itu percaya bahwa yang dia panggil sudah pulang." Ia menatap dua wajah di ruangan itu bergantian. "Umpan. Gema yang ditenun untuk terbaca sebagai kunci."
 
@@ -35,7 +35,7 @@ Seni kedua adalah Forge, dan tugasnya memberi tempat. Gema yang tersimpan di abu
 
 "Seperti lonceng yang belum dibunyikan," kata Sela malam kedua, ketika ia menjelaskan desainnya dengan gambar arang di lantai. "Semua bunyinya sudah ada di dalam logamnya. Tinggal menunggu yang datang mengetuk."
 
-"Lebih buruk dari lonceng," jawab Ashvarok. "Lonceng berbunyi untuk semua telinga. Umpan ini hanya berbunyi untuk jenis telinga tertentu, yaitu telinga yang mencari kunci. Bagi telinga lain, dia cuma batang batu tua yang tidak penting." Ia menatap gadis itu serius. "Itu sebabnya kamu tetap tidak boleh tahu letaknya nanti. Barang yang tidak penting harus benar-benar tampak tidak penting, termasuk kepada orang yang mencintai kita."
+"Lebih buruk dari lonceng," jawab Ashvarok. "Lonceng berbunyi untuk semua telinga. Umpan ini hanya berbunyi untuk jenis telinga tertentu, yaitu telinga yang mencari kunci. Bagi telinga lain, dia hanya batang batu tua yang tidak penting." Ia menatap gadis itu serius. "Itu sebabnya kamu tetap tidak boleh tahu letaknya nanti. Barang yang tidak penting harus benar-benar tampak tidak penting, termasuk kepada orang yang mencintai kita."
 
 Sela menahan dirinya sebentar, lalu mengangguk, dan mencatat harga latihan pertama di Hourglass dengan garis miring pendek. Lapar dua hari. Parut berdenyut tanpa maju.
 

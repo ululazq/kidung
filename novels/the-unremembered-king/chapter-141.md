@@ -37,7 +37,7 @@ Sebelum meninggalkan pos, ia melakukan prosedur yang sudah menjadi hukum pribadi
 
 "Arsipmu makin menyerupai gudang bukti, Nona," kata pegawai pos tua yang mengawasi dari meja jendela. "Suatu hari semua kertas itu akan diminta orang lain."
 
-"Semua kertas memang akhirnya diminta orang lain." Maera mengunci klaspel itu. "Bedanya cuma pada siapa yang membukanya lebih dulu dan apa yang mereka harapkan temukan di dalamnya. Yang penting setiap lembar di sana bisa kubaca keras di depan komisi mana pun tanpa satu kalimat pun harus kutelan balik. Itu seluruh keunggulan yang aku punya atas orang-orang dalam putusan pagi ini, dan aku tidak akan menyerahkannya demi tidur yang nyenyak."
+"Semua kertas memang akhirnya diminta orang lain." Maera mengunci klaspel itu. "Bedanya hanya pada siapa yang membukanya lebih dulu dan apa yang mereka harapkan temukan di dalamnya. Yang penting setiap lembar di sana bisa kubaca keras di depan komisi mana pun tanpa satu kalimat pun harus kutelan balik. Itu seluruh keunggulan yang aku punya atas orang-orang dalam putusan pagi ini, dan aku tidak akan menyerahkannya demi tidur yang nyenyak."
 
 Pegawai tua itu mengangguk pelan, lalu bertanya hal yang jarang ia tanyakan.
 
@@ -71,9 +71,9 @@ Renn mengangguk pelan, dan untuk beberapa saat keduanya hanya mendengarkan suara
 
 "Permintaan salinan dokumen Caldrest yang saya tolak bulan lalu itu tidak akan berhenti." Maera menunduk sedikit. "Saya menolaknya dengan pasal, dan pasal hanya menunda. Sekarang faksi yang meminta itu jadi atasan langsung dari lawan saya sendiri, dan saya sudah menandai diri saya di depannya dengan tinta resmi. Kalau dulu aku menghitung musuhku dari Caldrest sampai Spire, malam ini aku menghitungnya sekali lagi, dan hasilnya bertambah satu di tempat yang paling mahal."
 
-"Kau bisa pergi," kata Renn. "Komisi nasionalmu masih menunggu jawabanmu. Kursi itu tidak pernah dicabut, cuma ditunda."
+"Kau bisa pergi," kata Renn. "Komisi nasionalmu masih menunggu jawabanmu. Kursi itu tidak pernah dicabut, hanya ditunda."
 
-"Kursi itu di Spire." Maera tersenyum tipis, senyum pertamanya hari itu, dan senyum itu tidak hangat. "Dan Spire sejak hari ini adalah tempat bekerja Pembaca Tua. Aku lebih aman di sini, di kota di mana musuhku punya wajah, kontrak, dan kebiasaan yang bisa kupelajari. Di sana dia cuma sebuah kop surat."
+"Kursi itu di Spire." Maera tersenyum tipis, senyum pertamanya hari itu, dan senyum itu tidak hangat. "Dan Spire sejak hari ini adalah tempat bekerja Pembaca Tua. Aku lebih aman di sini, di kota di mana musuhku punya wajah, kontrak, dan kebiasaan yang bisa kupelajari. Di sana dia hanya sebuah kop surat."
 
 ---
 

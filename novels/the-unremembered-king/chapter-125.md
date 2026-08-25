@@ -27,7 +27,7 @@ Roti di tangan penambang muda berhenti di udara.
 
 "Dari mana suara itu?" tanya penambang muda, dengan roti masih tergantung di tangannya. "Itu suara orang, Tuan Renn? Ada orang di galeri?"
 
-"Tidak ada orang di galeri itu. Kalian tahu tidak ada." Ashvarok melihat wajah mereka satu per satu, empat pasang mata yang semuanya menunggu jawaban yang tidak akan ia berikan malam ini. "Apa yang kalian dengar datang dari dalam. Aku akan periksa. Tugas kalian cuma satu. Apa pun yang telinga kalian simpan malam ini, simpan seperti kalian menyimpan angka. Tidak ditulis, tidak diceritakan di dapur, tidak dikisahkan ke siapa pun. Kalau besok pagi ada yang perlu kalian tahu, aku yang datang memberitahu."
+"Tidak ada orang di galeri itu. Kalian tahu tidak ada." Ashvarok melihat wajah mereka satu per satu, empat pasang mata yang semuanya menunggu jawaban yang tidak akan ia berikan malam ini. "Apa yang kalian dengar datang dari dalam. Aku akan periksa. Tugas kalian hanya satu. Apa pun yang telinga kalian simpan malam ini, simpan seperti kalian menyimpan angka. Tidak ditulis, tidak diceritakan di dapur, tidak dikisahkan ke siapa pun. Kalau besok pagi ada yang perlu kalian tahu, aku yang datang memberitahu."
 
 "Lalu kita cerita ke siapa?" tanya Ondar.
 
@@ -71,7 +71,7 @@ Sela menulisnya di kolom baru, huruf besar, di bawah kolom PULIH yang baris-bari
 
 "Aku tidak tahu." Ashvarok menjawabnya jujur, karena syarat rumah ini adalah kejujuran dan bukan kenyamanan. "Gejala-gejala sebelumnya naik satu tangga setiap kali kita merasa sudah hafal tangganya. Nama orang, lalu tempat, lalu galeri penuh. Mungkin bicara adalah anak tangga berikutnya, dan mungkin kita saja yang belum pernah sampai cukup lama di anak tangga sebelumnya untuk melihat yang ini."
 
-"Kenapa cuma satu kata?" itu yang kedua.
+"Kenapa hanya satu kata?" itu yang kedua.
 
 "Karena satu kata adalah bentuk paling kecil dari bisa bicara." Ia memilih kalimatnya pelan-pelan. "Baru satu kata, dan sudah lima orang menghafalnya tanpa mau. Kalau kalimat, maka kita butuh rencana yang lain, dan aku belum mau memikirkannya sebelum dipaksa."
 

@@ -31,7 +31,7 @@ Sebelum Renn bisa menjawab, orang tua itu berhenti di depan nat dinding dan mene
 
 "Inspeksi ventilasi mencatat pasak-pasak tua butuh pemantauan," kata Renn. Kalimat itu benar dan kosong, dan ia tahu orang tua ini tahu bahwa ia tahu itu disengaja.
 
-"Orang tambang tidak menumbangkan pasak," kata pengikat senior. "Itu yang mau kubilang malam ini. Dengarkan baik-baik, sebab aku cuma bilang sekali."
+"Orang tambang tidak menumbangkan pasak," kata pengikat senior. "Itu yang mau kubilang malam ini. Dengarkan baik-baik, sebab aku hanya bilang sekali."
 
 Mereka berhenti. Di Silent Gallery, berhenti terasa seperti dunia yang berhenti bersama mereka.
 

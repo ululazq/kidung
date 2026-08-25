@@ -59,7 +59,7 @@ Soal kebocoran jadwalnya, Brannoc yang mengambil bagian itu, karena kotak undian
 
 "Waktu." Renn menggambar persegi kecil di papan, empat kotak, satu dicoret. "Jam patroli. Jadwal inspeksi ventilasi dua pekan akan bocor, dan bocornya harus terlihat kebetulan, lewat jalur yang mereka percaya. Kalau mereka yakin ada dua malam tanpa patroli di segmen timur, dan di malam itu ada tulang seam premium yang tinggal dipotong, mereka tidak akan mengirim orang kecil. Mereka mengirim kurirnya sendiri untuk mengambil keputusan, karena barang sebesar itu melewati kuota kepercayaan panener mana pun."
 
-"Lalu kami tangkap dia di slotnya," kata Brannoc. "Bukan di tambang. Di tambang dia cuma pekerja bayaran yang bisa diganti. Di slot, dia adalah mata rantai."
+"Lalu kami tangkap dia di slotnya," kata Brannoc. "Bukan di tambang. Di tambang dia hanya pekerja bayaran yang bisa diganti. Di slot, dia adalah mata rantai."
 
 "Di slot dia adalah rantai semuanya," kata Renn. "Barang, kode, penerima, dan jalur naiknya. Kita tidak butuh tangannya. Kita butuh isi tasnya."
 
@@ -83,6 +83,6 @@ Renn memutar fragmen itu di tangannya, dan cahaya tungku yang tinggal bara membu
 
 "Kalau gagal," katanya, "yang datang ke segmen timur pada dua malam tanpa patroli itu bukan kurir bisu, dan kita akan tahu jaringan itu lebih besar daripada dugaanku. Itu pun jawaban. Jawaban yang lebih mahal, tapi tetap jawaban."
 
-Sela menambahkan sesuatu di kolom paling tepi, huruf-huruf kecil yang hanya dibaca dua orang di dunia ini. "Catat aku bilang begini. Yang paling bahaya dari umpan bukan saat mangsanya datang. Saat mangsanya datang, kita sudah menang. Yang paling bahaya adalah pekan-pekan menunggu, saat umpan sudah terpasang dan kita cuma orang-orang yang tahu ada barang berharga disembunyikan di lorong gelap."
+Sela menambahkan sesuatu di kolom paling tepi, huruf-huruf kecil yang hanya dibaca dua orang di dunia ini. "Catat aku bilang begini. Yang paling bahaya dari umpan bukan saat mangsanya datang. Saat mangsanya datang, kita sudah menang. Yang paling bahaya adalah pekan-pekan menunggu, saat umpan sudah terpasang dan kita hanya orang-orang yang tahu ada barang berharga disembunyikan di lorong gelap."
 
 "Iya," kata Renn. "Maka mulai besok, tidak ada yang berjalan di segmen timur sendirian. Bahkan aku."

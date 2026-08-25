@@ -39,7 +39,7 @@ Notaris duduk. Beberapa detik ruangan itu hanya berisi bunyi pena miliknya sendi
 
 "Masa lalu yang mati dengan layak akan saya biarkan mati," jawab Ossian. "Masa lalu yang dibunuh dengan halaman terpotong dan wajah yang dihaluskan paksa justru meninggalkan luka, dan luka dibaca siapa pun yang lewat. Saya tidak menghidupkan lima panglima itu. Saya memastikan bahwa yang membaca kematiannya adalah institusi yang dapat diaudit, bukan tangan yang tidak pernah menunjukkan dirinya bahkan kepada Dewan yang memberinya hak membaca lebih dulu."
 
-Baris terakhir itu jatuh tepat di tempat yang ia tuju. Beberapa suara di lingkaran itu bergerak untuk pertama kalinya, dan notulis mencatat lebih lambat, karena kalimat tentang hak membaca lebih dulu menyentuh struktur rumah ini sendiri, bukan cuma pejabat lapangan yang sedang disidang.
+Baris terakhir itu jatuh tepat di tempat yang ia tuju. Beberapa suara di lingkaran itu bergerak untuk pertama kalinya, dan notulis mencatat lebih lambat, karena kalimat tentang hak membaca lebih dulu menyentuh struktur rumah ini sendiri, bukan hanya pejabat lapangan yang sedang disidang.
 
 "Pembelaan Anda," kata kursi pertama, setelah musyawarah singkat yang terdiri atas sepuluh kalimat dan tiga rujukan pasal. "Sidang akan memutuskan."
 

@@ -7,7 +7,7 @@ Surat itu tiba pagi hari keseratus tujuh puluh tujuh, dibawa oleh pegawai muda K
 
 "Apa isinya?" tanya Kovan.
 
-"Saya cuma kurir hari ini, Pak Shift Guard." Pegawai itu tersenyum sopan. "Tapi kata orang di pos, surat dari Spire yang pakai segel Dewan jarang isinya jelek untuk orang yang namanya dicantumkan di dalamnya."
+"Saya hanya kurir hari ini, Pak Shift Guard." Pegawai itu tersenyum sopan. "Tapi kata orang di pos, surat dari Spire yang pakai segel Dewan jarang isinya jelek untuk orang yang namanya dicantumkan di dalamnya."
 
 Ia pergi sebelum pertanyaan kedua sempat terbentuk. Kovan memegang amplop itu sebentar di telapak tangannya. Lima belas tahun bekerja di tambang membuatnya mengenal berat kertas, dan kertas ini lebih berat dari isi biasa. Ia membuka segelnya dengan pisau surat yang tepiannya sudah tidak rata, membuka lipatan pertama, dan membaca salam pembukanya dua kali karena ia tidak yakin nama jabatannya sendiri yang tertulis di sana.
 
@@ -29,7 +29,7 @@ Malamnya, di kamar sewaan distrik tengah, ia melakukan pekerjaan yang tidak dimi
 
 Halaman pertama ia gunakan untuk aturan pemegangan, disalin utuh dari surat Dewan, supaya suatu hari ketika ia tidak ada lagi, siapa pun yang membuka map ini tahu hukumnya apa dan tidak mengira isi berkas adalah milik pribadi. Halaman kedua berisi entri perdana, yaitu laporannya sendiri yang sudah dikirim dan diterima, ditulis ulang dengan catatan tanggal penerimaan. Halaman ketiga masih kosong, dan halaman inilah yang membuatnya duduk paling lama.
 
-Di dalam laci ada kepingan cinder-glass kecil yang dulu diberikan kepadanya sebagai pengingat sebuah kesepakatan, enam syarat yang tidak tertulis di dokumen mana pun. Gema asing boleh ditulis. Sumbernya tetap tidak diketahui. Lokasi hanya pasak pemeriksaan. Tanpa nama pengawas. Tanpa nama bocah lorong tujuh. Dan yang keenam, yang tidak pernah ia ucapkan kepada siapa pun, yaitu bahwa syarat-syarat itu mati bersamanya kalau ia melanggarnya sekali saja.
+Di dalam laci ada kepingan cinder-glass kecil yang dulu diberikan kepadanya sebagai pengingat sebuah kesepakatan, enam syarat yang tidak tertulis di dokumen mana pun. Gema asing boleh ditulis. Sumbernya tetap tak diketahui. Yang dicatat hanya pasak pemeriksaannya. Tanpa nama pengawas. Tanpa nama bocah lorong tujuh. Dan yang keenam, yang tidak pernah ia ucapkan kepada siapa pun, yaitu bahwa syarat-syarat itu mati bersamanya kalau ia melanggarnya sekali saja.
 
 Ia mengambil kepingan itu, membalik-baliknya di bawah lampu, dan berpikir tentang doktrin tua yang dulu diberikan pengikat senior kepadanya di tingkat empat. Angka yang berpindah tangan berubah menjadi milik pemilik baru. Selama ini doktrin itu mengajari dia menyimpan. Malam ini doktrin itu berubah arti, karena kini dialah pemilik baru secara resmi, dan setiap angka yang keluar dari berkas ini keluar karena keputusannya sendiri. Tidak ada kepala cabang yang bisa memintanya. Tidak ada biro yang bisa menyitanya tanpa Dewan. Untuk pertama kalinya dalam karier yang penuh formulir, sebuah pintu tertutup justru membuatnya merasa paling jujur.
 
@@ -55,6 +55,6 @@ Telapak tua itu tetap menempel di batu selama beberapa tarikan napas. "Yatim," u
 
 "Angka yang berpindah tangan berubah menjadi milik pemilik baru," kata Kovan. "Aku ingat siapa yang mengajariku itu."
 
-Orang tua itu menoleh untuk pertama kalinya, dan di wajahnya ada sesuatu yang mirip puas, jika puas bisa tampak tanpa senyum. "Kalau kau masih ingat, maka berkas itu tidak akan pernah jatuh ke tangan yang salah. Pekerjaan baik biasanya cuma butuh satu orang yang ingat." Ia berjalan lagi menyusuri koridor, lima puluh langkah berikutnya sudah dihitung dalam kepala, dan Kovan berdiri sebentar di tempatnya sebelum melanjutkan rutenya sendiri.
+Orang tua itu menoleh untuk pertama kalinya, dan di wajahnya ada sesuatu yang mirip puas, jika puas bisa tampak tanpa senyum. "Kalau kau masih ingat, maka berkas itu tidak akan pernah jatuh ke tangan yang salah. Pekerjaan baik biasanya hanya butuh satu orang yang ingat." Ia berjalan lagi menyusuri koridor, lima puluh langkah berikutnya sudah dihitung dalam kepala, dan Kovan berdiri sebentar di tempatnya sebelum melanjutkan rutenya sendiri.
 
 Malam itu, sebelum tidur, Kovan membuka sekali lagi sampul map kulit itu di bawah lampu kecil. Nomornya sudah kering tinta. Entri pertamanya sudah tercatat. Ia menutupnya, menguncinya di kotak besi di bawah ranjang, di tempat buku hitung sandi lamanya dulu tinggal, dan memadamkan lampunya dengan tangan yang tidak gemetar. Besok ia akan menulis jawaban resminya kepada Spire, sepuluh kalimat prosedural yang semuanya benar dan tidak satupun lengkap, dan untuk pertama kalinya dalam bertahun-tahun, menulis separuh kebenaran terasa bukan seperti kekalahan kecil, melainkan seperti pekerjaan yang akhirnya sesuai ukuran tangannya.

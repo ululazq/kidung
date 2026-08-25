@@ -37,7 +37,7 @@ Ashvarok menatap perempuan itu, dan di kepalanya dua hitungan lama mulai berjala
 
 Maera diam sebentar, dan matanya menghitung sesuatu yang tidak ia tulis. "Pembaca Tua," katanya akhirnya. "Nama jabatan itu muncul di arsip dua kali tahun ini, dan keduanya tentang Caldrest. Jabatan yang identitasnya dirahasiakan bahkan dari Dewan mereka sendiri. Kau tahu artinya apa."
 
-"Faksi Spire yang selama ini cuma tebakan kini punya bentuk." Ashvarok menoleh ke arah gerbang gudang, memastikan jarak terdekatnya kosong. "Dewan bekerja lewat prosedur, auditor, dan berita acara. Garis yang satunya bekerja lewat arsip, membaca lebih dulu, dan tidak pernah muncul untuk bertanya. Vael sedang disidang oleh yang pertama dan dibaca oleh yang kedua, dan dia mungkin satu-satunya orang yang tidak sadar sedang diperebutkan dua kali."
+"Faksi Spire yang selama ini hanya tebakan kini punya bentuk." Ashvarok menoleh ke arah gerbang gudang, memastikan jarak terdekatnya kosong. "Dewan bekerja lewat prosedur, auditor, dan berita acara. Garis yang satunya bekerja lewat arsip, membaca lebih dulu, dan tidak pernah muncul untuk bertanya. Vael sedang disidang oleh yang pertama dan dibaca oleh yang kedua, dan dia mungkin satu-satunya orang yang tidak sadar sedang diperebutkan dua kali."
 
 "Satu hal lagi soal waktu," kata Maera, dan suaranya turun satu tingkat. "Permintaan ini bertanggal empat hari sebelum salinan laporan auditor selesai dibacakan dua kali di lingkaran mereka. Aku cek jalur posnya. Artinya orang yang menulis daftar itu tidak menunggu hasil pekerjaan Dewan. Dia membaca sumbernya langsung, lebih cepat daripada prosedur sendiri, dan dia tidak peduli kalau kelak kertasnya bertabrakan dengan kertas resmi." Ia menepuk sampul salinan itu pelan-pelan. "Orang seperti itu tidak bisa ditakut-takuti dengan jabatan. Yang bisa kita lakukan hanya membuat barang-barang kita terlalu mahal untuk dicuri diam-diam."
 
@@ -69,7 +69,7 @@ Ashvarok memperhatikannya sebentar, wajah perempuan yang menghitung rugi sendiri
 
 Maera menyusun ulang tasnya dan berdiri juga. Untuk pertama kalinya sore itu sikap tubuhnya menurun sedikit, bukan lelah, melainkan bebannya yang bergeser tempat.
 
-"Aduh," katanya, hampir tertawa tanpa bunyi. "Dua tahun lalu aku cuma assayer lapangan yang takut salah menulis laporan. Sekarang aku menolak jabatan arsip tertinggi sekte besar dengan satu lembar pasal, dan yang membuatku tidak tidur bukan mereka, tapi kalimatmu soal alamat."
+"Aduh," katanya, hampir tertawa tanpa bunyi. "Dua tahun lalu aku hanya assayer lapangan yang takut salah menulis laporan. Sekarang aku menolak jabatan arsip tertinggi sekte besar dengan satu lembar pasal, dan yang membuatku tidak tidur bukan mereka, tapi kalimatmu soal alamat."
 
 "Kalimat itu bukan ancaman. Itu inventaris."
 

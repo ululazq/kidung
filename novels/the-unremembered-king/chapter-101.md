@@ -51,7 +51,7 @@ Margin buku pendiri sectenya pernah berkata tentang nama ini tiga hal. Tidak mat
 
 "Pernah ada yang menyalin tulisan ini, Pak?" tanyanya akhirnya.
 
-"Lelaki pendeta lama pernah, katanya, puluhan tahun silam. Lalu yang memahat datang. Malam-malam saja dia bekerja, kakekku yang jadi saksi kecilnya. Orang yang sopan. Bayar sewa ruang. Tidak bicara banyak." Lelaki tua itu menggaruk telinganya. "Anehnya, yang dia hapus cuma separuh tulisan dan satu muka. Kalau mau musnahkan, kenapa tidak semuanya. Kata kakekku begitu juga. Aku pikir dia kehabisan waktu, tapi orang yang kerjanya semalam-malaman selama dua belas malam biasanya punya waktu cukup untuk sisanya."
+"Lelaki pendeta lama pernah, katanya, puluhan tahun silam. Lalu yang memahat datang. Malam-malam saja dia bekerja, kakekku yang jadi saksi kecilnya. Orang yang sopan. Bayar sewa ruang. Tidak bicara banyak." Lelaki tua itu menggaruk telinganya. "Anehnya, yang dia hapus hanya separuh tulisan dan satu muka. Kalau mau musnahkan, kenapa tidak semuanya. Kata kakekku begitu juga. Aku pikir dia kehabisan waktu, tapi orang yang kerjanya semalam-malaman selama dua belas malam biasanya punya waktu cukup untuk sisanya."
 
 "Atau," kata Ossian pelan, lebih kepada dirinya sendiri daripada kepada lelaki tua itu, "sisanya memang tidak dimaksudkan untuk musnah."
 

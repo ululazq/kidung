@@ -61,7 +61,7 @@ Ashvarok meletakkan lampunya di lantai dan memeriksa batu itu lebih dulu dengan 
 
 "Lampu kalian arahkan ke batu," katanya kepada regu. "Semua berdiri di tempat yang bisa lihat batunya. Malam ini kita kerjakan satu hal. Batu ini menahan pecahan waktu kalian di dalam dirinya, dan malam runtunan itu sekarang jadi miliknya. Dia berhak mendengarnya dari mulut kalian, sekali, utuh, sambil kalian sentuh."
 
-Ondar menatapnya dengan pertanyaan yang tidak ia ucapkan. Ashvarok menjawab pertanyaan yang lebih mudah dulu. "Aku tidak akan mengajari kalian apa yang terjadi. Aku cuma minta satu hal. Ceritakan padanya apa yang kalian ceritakan pagi tadi. Urut. Tanpa tambahan. Lalu sebut namanya bersama-sama."
+Ondar menatapnya dengan pertanyaan yang tidak ia ucapkan. Ashvarok menjawab pertanyaan yang lebih mudah dulu. "Aku tidak akan mengajari kalian apa yang terjadi. Aku hanya minta satu hal. Ceritakan padanya apa yang kalian ceritakan pagi tadi. Urut. Tanpa tambahan. Lalu sebut namanya bersama-sama."
 
 "Cerita ke batu," ulang salah satu penambang tua, dengan nada orang yang menguji kalimat itu di lidahnya. "Orang tambang berbicara ke batu tiap hari, biasanya sambil marah."
 
@@ -101,11 +101,11 @@ Di stasiun angkutan, Sela sudah menunggu dengan papannya dan wajah orang yang ti
 
 "Berhasil?" tanyanya.
 
-"Berhasil. Dia menerimanya. Getarannya tidak turun sampai pagi, dan pagi pun tidak turun." Ashvarok melapor sisanya dengan jujur, karena syarat pertama adik angkatnya tidak mengenal pengecualian. "Harganya sama seperti dulu. Potongan yang tidak pulih, dan satu ingatan yang hilang sebentar. Kali ini cuma empat tarikan napas."
+"Berhasil. Dia menerimanya. Getarannya tidak turun sampai pagi, dan pagi pun tidak turun." Ashvarok melapor sisanya dengan jujur, karena syarat pertama adik angkatnya tidak mengenal pengecualian. "Harganya sama seperti dulu. Potongan yang tidak pulih, dan satu ingatan yang hilang sebentar. Kali ini hanya empat tarikan napas."
 
 Sela membuka kolom NAMA di halaman belakang papannya, di bawah dua garis miring lama dan kata Salah alamat, dan menulis baris baru dengan huruf yang ditekan cukup keras untuk terbaca lima tahun lagi. Tanggal hari itu. Kata diterima. Lalu catatan harga, singkat dan tanpa hiasan.
 
-"Kolom ini panjangnya cuma tiga baris," katanya setelah selesai, "dan dua barisnya tentang kamu kehilangan sesuatu."
+"Kolom ini panjangnya hanya tiga baris," katanya setelah selesai, "dan dua barisnya tentang kamu kehilangan sesuatu."
 
 "Baris ketiganya tentang batu yang tidak kehilangan apa pun." Ashvarok menoleh ke arah lereng, tempat lonceng pergantian shift mulai terdengar. "Itu perbandingan yang buruk secara matematika dan buruk secara perasaan. Tapi itu perbandingan yang jujur, dan kau yang mengajar aku menulis yang jujur."
 

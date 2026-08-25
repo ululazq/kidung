@@ -33,7 +33,7 @@ Dua Shift Guard muda berjaga di persimpangan tingkat empat, dan yang lebih tua d
 
 Perempuan Shift Guard itu menatap mandor tua itu lama, dan jawabannya keluar pelan, dengan rasa malu yang jujur.
 
-"Sebab kami mencoba, Tuan Foreman. Adik saya maju dan menyentuh pundaknya. Dia berbalik. Dia tersenyum. Senyumnya ramah, senyum yang biasa itu, dan dia bilang maaf, aku sedang dipanggil. Terus dia jalan lagi." Perempuan itu menarik napas. "Dan kami berdua cuma berdiri. Aku tidak bisa jelaskan. Ada sesuatu pada cara dia bilang dipanggil itu yang membuat tangan kami tidak mau naik. Kami sudah tulis di log, jam dan arah, tapi log itu telat tiga jam, dan aku tahu log telat artinya apa."
+"Sebab kami mencoba, Tuan Foreman. Adik saya maju dan menyentuh pundaknya. Dia berbalik. Dia tersenyum. Senyumnya ramah, senyum yang biasa itu, dan dia bilang maaf, aku sedang dipanggil. Terus dia jalan lagi." Perempuan itu menarik napas. "Dan kami berdua hanya berdiri. Aku tidak bisa jelaskan. Ada sesuatu pada cara dia bilang dipanggil itu yang membuat tangan kami tidak mau naik. Kami sudah tulis di log, jam dan arah, tapi log itu telat tiga jam, dan aku tahu log telat artinya apa."
 
 Ashvarok membaca perempuan itu sebentar. Ketakutannya bukan palsu dan tidak dibesar-besarkan, dan justru karena itu ia memilih memberinya satu hal kecil yang bisa digenggam.
 
