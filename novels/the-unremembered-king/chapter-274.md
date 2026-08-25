@@ -98,3 +98,28 @@ Lalu ia melakukan sesuatu yang tidak pernah dilakukan jabatan itu kepada siapa p
 Di belakangnya, nat tua galeri sembilan berdenyut pelan, dan Barim — yang mendengar semuanya dari pos jaga tanpa pura-pura tidak mendengar — mencatat di buku jaga hanya satu baris:
 
 *Hari 768. Galeri sembilan menyaksikan lagi. Nat bilang: "AKU INI MEMANG TEMPATNYA ORANG BERUBAH. DARI DULU."*
+---
+
+Sebelum Anthema berangkat, satu tamu tak terduga masuk ke galeri sembilan — kecil, gemetar, membawa kotak kayunya yang selalu dibawa ke mana-mana sejak era komisi Caldrest delapan tahun silang.
+
+Maera Tull. Pensiun dari Guild. Guru hitung.
+
+"Aku dengar dari Daven ada rapat penting di bawah tanah dan tidak diundang siapa-siapa," katanya, duduk tanpa izin pada kursi ketiga yang ditambahkan Barim diam-diam. "Delapan tahun silang aku penilai pertama yang menyadari ada sesuatu aneh di lorong tujuh. Delapan tahun silang aku memilih melindungi kalian dengan menutupi data. Dan malam pembacaan itu..." Ia membuka kotak timbung mininya, mengeluarkan lempeng ukur tua bertanda stempel ungu Guild. "...aku sadar satu hal yang belum pernah kukatakan kepada siapa pun."
+
+"Lempeg ini," kata Maera, meletakkannya di meja antara mereka. "Di permukaannya masih ada sisa abu Ash dari duel Kovan delapan tahun silang. Abu yang mengingat. Selama delapan tahun aku menyimpannya — bukan sebagai bukti, bukan lagi. Sebagai pengingat: bahwa kebenaran bisa diselamatkan oleh orang yang cukup takut untuk tidak menyerahkannya."
+
+Ia memandang Anthema Spire — dua mantan institusi musuh, duduk di galeri bawah tanah tempat semuanya dimulai.
+
+"Kau sedang mendirikan Lengan Mendengar. Aku dengar tadi dari lorong — maaf, nat-nat di sini bocornya parah." Barim, dari pos jaga, batuk kecil yang tidak meyakinkan. "Aku pensiunan Guild. Jabatanku habis, tapi telapak tanganku belum. Ada satu pekerjaan yang tidak bisa dilakukan nat, tidak bisa dilakukan murid sekolah, dan butuh empat puluh tahun pengalaman membaca lempeng: MEMVERIFIKASI bahwa yang didengar itu benar. Mendengar tanpa verifikasi itu sama saja dengan doktrin lama versi sopan — percaya dulu, cek belakangan, atau tidak sama sekali."
+
+Anthema Spire memandang perempuan penilai tua itu lama.
+
+"Struktur bergilir kepala Lengan Mendengar adalah Choir, Guild, Sekolah Mendengar," katanya akhirnya. "Guild belum menunjuk perwakilannya karena semua kandidatnya masih jabatan aktif dan Dewan tidak mau melepas mereka."
+
+"Maka jangan pilih yang aktif," kata Maera. "Pilih yang sudah tidak punya apa-apa untuk dipertaruhkan dan punya lempeng abu delapan tahun. Kau tidak akan menemukan kandidat lain yang motivasinya sudah diaudit seumur hidupnya oleh kemiskinan pensiun."
+
+Ashvarok-Renn, yang mendengarkan percakapan ini dari kursinya dengan ekspresi orang menonton sejarah kecil terjadi di depan matanya, akhirnya berkata:
+
+"Jabatan kedua setelah kepala pertama: verifikator lapangan pertama Lengan Mendengar. Gaji: honor dapur aula, makan dua kali, dan lempengmu dipajang di kantor baru dengan label 'bukti bahwa orang bisa berubah' — kalau kamu mau."
+
+"Labelnya yang membuat aku terima," kata Maera Tull, dan mengulurkan tangannya kepada Anthema Spire — jabatan-jabatan saling bergandengan di atas meja kecil di galeri sembilan, delapan ratus kaki di bawah dunia yang pagi ini akan bangun dan menemukan doktrin seribu tahunnya sudah diganti.

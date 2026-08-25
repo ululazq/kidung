@@ -110,3 +110,27 @@ Dan di halaman terakhirnya, di bawah balasan Ashvarok-Renn, ada tambahan-tambaha
 Buku itu tidak pernah dimaksudkan menjadi arsip.
 
 Tapi arsip terbaik memang selalu begini, kata Sela malam itu sambil menutupnya: ditulis orang yang belum selesai bertanya.
+---
+
+Siang harinya, sebelum rombongan Vel-Morra tiba, satu urusan kecil membawa Ashvarok-Renn dan Sela ke kantor Dewan sementara Caldrest — ruangan sempit di lantai dua balai kota yang oleh pegawainya sendiri dijuluki "lorong tujuh versi administrasi".
+
+Urutannya sederhana: pengesahan resmi buku seribu pertanyaan sebagai dokumen arsip negara. Usulan itu datang bukan dari keluarga the Quiet Vein, tapi dari Daven — koordinator Dewan Regional, kakak kelas Renn di Sekolah Mendengar — yang menyadari bahwa buku anak-anak itu berisi sesuatu yang tidak dimiliki seluruh arsip Hegemony: daftar hal yang dunia belum paham, ditulis tanpa rasa takut.
+
+Prosesnya yang tidak sederhana.
+
+"Pasal mana yang dipakai?" tanya notaris tua, membalik kode hukum Liberation untuk ketiga kalinya. "Buku ini bukan petisi, bukan gugatan, bukan laporan Guild. Aku dua puluh tahun di kursi ini dan belum pernah mendaftarkan PERTANYAAN sebagai dokumen resmi."
+
+"Lalu kita ciptakan presedennya," kata Sela. "Seperti semua hal penting di kota ini."
+
+Notaris tua itu memandangi mereka — dua bocah tambang yang delapan tahun silang mengubah definisi arsip Karvess lebih banyak daripada seribu tahun sebelum mereka — lalu tertawa pendek dan mulai menulis formulir baru dengan kolom yang ia karang di tempat:
+
+*Jenis dokumen: PERTANYAAN RESMI NEGARA.*
+*Status hukum: wajib dijawab; tidak boleh diabaikan; tidak boleh dijawab setengah.*
+
+"Aku tambahkan statusnya sendiri," kata notaris itu, mencap. "Karena kalau hanya kalian yang menganggapnya penting, cukup penting untuk dicatat — tapi belum cukup untuk dijaga. Sekarang dia dijaga."
+
+Di jalan pulang, Sela menghitung sesuatu di papan tulis kecilnya.
+
+"Tiga," katanya. "Tiga dokumen negara lahir dari dapur dan barak kita dalam tiga tahun: pengakuan kedaulatan the Patient House, protokol musim, dan sekarang status hukum pertanyaan." Ia menutup papan tulisnya. "Kak, kalau ada sejarawan masa depan membaca daftar ini, mereka akan pikir Karvess diperintah dari dapur aula."
+
+"Dunia sudah lama diperintah dari meja-meja besar," kata Ashvarok-Renn. "Dan lihatlah hasilnya. Mungkin waktunya dicoba dari tempat yang bau sup."

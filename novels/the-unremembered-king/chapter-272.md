@@ -106,3 +106,30 @@ Sela menuruni lereng barat dengan bekal salinan tujuh perbedaan, satu stempel se
 Perbedaan nomor lima harus sampai ke Vhal-Duren secepatnya.
 
 Karena ada satu makhluk di dataran tinggi itu yang mendengar lima langkah turun ke gerbang pada jam kesembilan malam itu... dan selama sepuluh abad menyimpan irama langkah baliknya tanpa pernah mengerti kenapa — dan malam ini, akhirnya, ada yang bisa menjawab pertanyaan yang tidak pernah sempat ditanyakan.
+---
+
+Ada satu malam lagi di biara barat yang tidak masuk laporan Sela ke Dewan — karena bukan urusan Dewan, tapi urusan keluarga, dan keluarga punya jalur arsipnya sendiri.
+
+Malam itu, setelah hari ketiga penyalinan selesai, Pembaca Tua mengundangnya ke menara arsip bagian atas — ruangan kecil dengan satu jendela menghadap barat, di mana seluruh dataran Karvess terbentang sampai garis laut.
+
+"Aku mau tunjukkan sesuatu yang tidak ada di katalog," katanya. "Karena kau satu-satunya tamu ketiga dalam seribu tahun, dan tamu pertama dan kedua tidak pantas menerimanya."
+
+Di sudut ruangan ada kotak kayu kecil tanpa segel. Di dalamnya: dua belas gulungan mungil, masing-masing selebar jari.
+
+"Laporan tahunan jabatan ini kepada dirinya sendiri," kata Pembaca Tua. "Setiap pemegang jabatan menulis satu — bukan untuk arsip resmi, tapi untuk penerusnya, dibaca hanya saat serah terima. Empat generasi terakhir isinya sama: 'belum ditemukan, teruskan.'"
+
+Ia mengeluarkan gulungan terakhir — tulisannya sendiri, ditulis empat puluh tahun silang saat ia baru memegang jabatan:
+
+*Pada pemegang berikutnya: aku umur dua puluh tiga saat menulis ini dan percaya aku akan menemukan jawaban perbedaan nomor lima dalam sepuluh tahun. Aku salah. Tapi aku baru mengerti sesuatu yang tidak diajarkan siapa padaku: jabatan diam ini bukan pekerjaan mencari jawaban. Ini pekerjaan MENJAGA PERTANYAANNYA supaya tidak hilang — karena jawaban bisa salah, jawaban bisa dipalsukan, tapi pertanyaan yang benar tidak pernah usang.*
+
+*Kotak kecil ini kutitipkan kepadamu. Isinya pertanyaan-pertanyaanku. Jangan dijawab. Diteruskan.*
+
+Sela membaca dua belas gulungan itu di bawah lampu minyak, satu per satu. Pertanyaan-pertanyaan empat generasi penjaga diam: kenapa istana mencatat gerbang ditutup jam kesembilan kalau lagunya masih berbunyi. Siapa yang memesan makan malam terakhir lima panglima — nama apa yang tertulis di nota dapurnya. Kenapa nada yang diselundupkan itu justru potongan SAHABAT, bukan potongan raja. Dan yang terakhir, ditulis tangan gemetar pemegang tertua:
+
+*Kalau suatu hari semuanya terjawab... apakah jabatan ini boleh pensiun dengan tenang?*
+
+"Aku tidak bisa menjawab semua," kata Sela pelan, menggulung kembali yang terakhir. "Sebagian sudah terjawab di Caldrest. Sebagian akan terjawab lewat proyek seribu jawaban. Yang soal pensiun..."
+
+Ia memandang laki-laki tua itu — pemegang diam terakhir, yang delapan pekan silang duduk di kursi baris belakang aula dan hampir keluar lewat pintu sebelum lorong anak-anak menahannya.
+
+"Pertanyaanmu yang terakhir sudah terjawab kemarin, Tuan. Kau pensiun tenang. Aku saksinya, dan arsipku tidak pernah salah."

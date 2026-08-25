@@ -93,3 +93,26 @@ Dan satu entri terakhir untuk bab hari ini — bukan dari laporan, tapi dari ars
 *Maka jawaban atas pertanyaan tetua pesisir itu kutulis di sini supaya tidak pernah aku hapus atau haluskan di masa depan: mereka tidak dilihat. Bukan karena lima panglima jahat. Karena rajanya — aku — membangun dunia di mana melihat orang seperti itu tidak diperlukan.*
 
 *Seribu tahun segel itu murah. Yang tidak murah adalah belajar melihat setelah bangun.*
+---
+
+Kamp ketiga memberikan pelajaran yang tidak ada di dua kamp pertama — dan tidak akan pernah masuk buku protokol mana pun.
+
+Kamp ini kecil. Empat puluh keluarga nelayan di teluk yang peta lama menandai "wilayah tanpa seam" — tempat Resonance tidak pernah bernilai ekonomi, sehingga Hegemony dulu hanya lewat dan mengambil anak-anak untuk kapal-kapalnya tanpa repot mendirikan administrasi.
+
+Tetuanya bukan orang tua. Tetuanya seorang perempuan berumur mungkin tiga puluh, yang dipilih kamp karena ia satu-satunya yang hafal seluruh daftar nama.
+
+"Dua ratus empat belas," katanya, tanpa basa-basi, setelah rombongan menjelaskan maksud kedatangan. "Itu jumlah anak yang dibawa dari teluk ini dalam enam puluh tahun era kapal. Bukan dua ratus empat belas korban — itu hitungan kalian. Bagi kami itu dua ratus empat belas kursi makan yang sampai hari ini tidak boleh dilepas dari mejanya."
+
+Ia membawa mereka ke balai kamp. Di dindingnya, ditulis kapur pada papan hitam tua, ada daftar itu: dua ratus empat belas nama, ditulis ulang tiap tahun oleh pemegang daftar bergantian, karena kapur memudar dan "nama tidak boleh ikut memudar".
+
+"Aku dengar kalian punya name train," kata tetua muda itu. "Batu-batu menyanyi nama orang hilang. Bagus untuk kalian yang punya batu." Matanya tajam. "Kami tidak punya batu. Kami tidak pernah punya apa-apa yang cukup penting buat Hegemony kecuali anak-anak kami. Jadi pertanyaanku satu: sistem baru kalian — yang seribu nat dan sekolah mendengar dan protokol musim itu — apa gunanya untuk kamp yang tidak punya apa-apa?"
+
+Hening panjang. Dan yang menjawab bukan Ashvarok-Renn.
+
+Ibu Tamma.
+
+"Pertanyaan bagus," katanya. "Jawaban jujur: kalau kalian hanya butuh meja makan, kalian sudah lebih maju dari semua kota. Kalian menjaga nama tanpa nat, tanpa arsip, tanpa Dana — pakai kapur dan disiplin hati." Ia memandang papan hitam itu lama. "Yang bisa kami bawa bukan sistem. Sistem kalian sudah jalan seratus tahun dan bekerja. Yang bisa kami bawa hanya ini: janji bahwa mulai Hari Utara depan, dua ratus empat belas nama itu DIBACAKAN bersama 400 jiwa utara dan 214 korban pesisir lainnya — dibacakan oleh murid-murid Sekolah Mendengar yang datang ke sini BELAJAR cara kalian menjaganya."
+
+"Belajar? Dari kami?"
+
+"Nama yang dijaga pakai kapur seratus tahun," kata ibu Tamma, "itu ilmu yang tidak dimiliki satu pun nat di Karvess. Nat punya batu untuk mengingat. Kalian hanya punya keputusan untuk tidak lupa. Itu tingkat lebih tinggi, Nak. Dan sudah saatnya dunia datang belajar ke sini, bukan sebaliknya."

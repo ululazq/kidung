@@ -124,3 +124,20 @@ Tapi arsip mencatat bahwa pada salah satu pagi itu, tanpa alasan yang bisa dilap
 Dan dari kursi sudut kedua, tanpa membuka mata dari irama adukannya, jawaban itu datang dari dua suara sekaligus:
 
 "Ada, Bu. Selalu ada."
+---
+
+Jawaban nomor empat puluh lima menimbulkan kejadian yang oleh Kovan dicatat dalam kategori baru: "jawaban yang menjawab balik".
+
+Pertanyaannya dikirim murid cabang Spire — anak pejabat, dua belas tahun, tulisan tangannya rapi seperti yang diajari sekolah birokrat: *Apa yang kau lakukan dengan seribu tahun kesendirianmu? Aku ditanya terus mau jadi apa saat besar nanti, dan aku takut jawabanku salah. Kau punya waktu seribu tahun dan aku penasaran apa yang keluar darinya.*
+
+Ashvarok-Renn menulis jawabannya dalam satu malam — tidak ragu, tidak dibakar ulang, satu-satunya jawaban dalam sejarah proyek yang tidak diedit Sela:
+
+"Aku menghitung. Seribu tahun, hal pertama yang kulakukan adalah menghitung: retakan pada segelku, detak jantung tubuh yang kutumpangi, langkah-langkah orang di permukaan yang tidak pernah tahu aku ada. Aku pikir menghitung membuatku tetap waras."
+
+"Salah. Menghitung hanya membuatku sibuk. Yang membuatku waras adalah hal yang tidak direncanakan siapa pun: seorang bocah tambang mati muda dan aku masuk ke tubuhnya, lalu adik angkatnya bertanya kenapa aku berubah — dan untuk pertama kalinya dalam seribu tahun ada yang bertanya kepadaku sesuatu yang jawabannya penting."
+
+"Jadi ini jawaban untuk ketakutanmu: tidak ada jawaban yang salah saat besar nanti. Ada hanya jeda terlalu panjang antara kamu dan pertanyaan yang tepat. Aku menunggu seribu tahun untuk pertanyaan pertamaku. Kau sudah dikelilingi pertanyaan setiap hari. Kamu jauh lebih maju dari raja mana pun."
+
+Balasan cabang Spire datang sepuluh hari kemudian, dan isinya oleh Kovan dilampirkan ke arsip proyek sebagai bukti bahwa proyek ini bekerja dua arah:
+
+"Papa bilang suratmu tidak bisa dipajang di kantornya karena terlalu berbahaya untuk birokrasi. Mama bilang justru itu tandanya bagus. Aku sudah memutuskan mau jadi apa: aku mau jadi orang yang membuat formulir baru — seperti notaris yang menciptakan status hukum pertanyaan. Supaya semua anak lain tidak harus menunggu izin untuk boleh bertanya."

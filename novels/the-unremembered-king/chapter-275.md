@@ -127,3 +127,24 @@ Dan di bawah tanah, merambat pelan lewat jalur yang tujuh penjaga purba kini gun
 Irama pintu yang dibiarkan terbuka.
 
 Karena era nama baru dimulai, dan pintu-pintunya — semua pintunya — kini terbuka dari dua sisi.
+---
+
+Sebelum lagu terakhir dimainkan, ada satu upacara kecil yang tidak masuk daftar acara resmi — karena yang mengadakannya bukan panitia, tapi tiga kambing gunung.
+
+Langganan pertama Yang Mendengar Sampai Habis, yang selama dua pekan pembangunan duduk setia di tepi reruntuhan memperhatikan pekerja, mendekat ke batu bundar saat senja tiba. Satu di antaranya — yang tertua, tanduknya paling melengkung — mengangkat kepala dan bersuara sekali: bunyi pendek, kasar, seperti semua suara kambing.
+
+Yang Mendengar Sampai Habis memainkan kembali bunyi itu.
+
+Sempurna. Tersimpan. Ditambahkan ke katalog antara desis sup dan tawa dua penjaga yang jatuh dari tangga.
+
+"Kau baru saja diarsipkan," kata Sela kepada kambing tua itu. "Selamanya."
+
+Kambing itu tampak menerima kabar ini dengan ketidakpedulian khas makhluk yang sudah hidup lama di dataran tinggi. Tapi ia tidak pergi. Ia duduk lebih dekat ke batu — sekarang bukan sebagai penunggu yang menunggu sesuatu dimulai, tapi sebagai langganan tetap yang tahu jadwalnya: lagu tiap malam, sup tiap pagi, dan cerita anak-anak tiap kali ada yang naik.
+
+Barim mencatat di buku pos pendengar halaman pertama:
+
+*Daftar penghuni tetap Vhal-Duren hari pembukaan: satu seam bernama Yang Mendengar Sampai Habis. Empat pendengar manusia gilir (jadwal terlampir). Satu dapur (non-negotiable). Tiga kambing (senioritas tertinggi; dibayar dengan roti).*
+
+*Catatan: delapan puluh tahun silang batu ini punya langganan kambing sebelum punya tamu manusia. Ada pelajaran di situ tentang kesetiaan yang tidak menunggu diakui, tapi aku belum sanggup merumuskannya. Kovan bilang tunggu sampai kita tua. Ibu Tamma bilang rumuskan sambil masak. Semua orang di dunia ini punya teori soal cara kerja hati, dan semuanya benar, dan semuanya belum lengkap.*
+
+*Lagi bagus begitu. Arsip yang sudah lengkap itu tanda ceritanya habis.*
