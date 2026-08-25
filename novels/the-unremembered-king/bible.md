@@ -1,7 +1,7 @@
 # Bible: The Unremembered King
 
-Terakhir diperbarui: bab 270
-Sudah diungkap ke pembaca sampai: bab 270
+Terakhir diperbarui: bab 275
+Sudah diungkap ke pembaca sampai: bab 275
 
 ## Premis
 
@@ -80,6 +80,10 @@ Ejaan baku. Semua nama proper di bab mana pun harus ada di sini.
 | Vhal-Duren | Menara jaga era pra-Hegemony di dataran tinggi antara Caldrest dan Spire; tak tercatat peta Liberation; reruntuhan + seam pengikat ketujuh |
 | Seam Saksi / seam pengikat ketujuh | Batu bundar sebesar meja di reruntuhan Vhal-Duren; menyimpan SUARA (bukan jiwa); saksi hidup malam Pembakaran Nama; interval detak 3 detik; luka sunyi presisi sisi utara (satu nada lagunya dicuri era pemenang); sopan, jenaka, langganan pertama: tiga kambing gunung |
 | Penjepit Nada & wasiat Pembaca Tua | Wadah Forge-era berisi nada lima panglima; label "ASET YANG TIDAK BOLEH DIBACAKAN... KAU MENUNGGU SAATNYA" ditandatangani P.T.; nada diselundupkan (bukan dicuri) oleh JURU MASAK ISTANA Hegemony — perempuan pemasak makan malam terakhir lima panglima; suara keenam salah nada di bagian sahabat lagu = suaranya |
+| Rak Semua Versi | Rak arsip Karvess berisi cerita korban Hegemony yang ditulis keluarganya sendiri; lahir dari jawaban #21; nama resmi oleh Sela; tepiannya diukir Lompa: "baru sekarang arsip ini bisa masak sup yang benar" |
+| Lengan Mendengar | Pengganti Grey Censure (dibubar bab 274); tugas mencari hal-hal yang belum didengar; laporan bulanan = daftar pertanyaan belum terjawab; kepala bergilir Choir/Guild/Sekolah Mendengar; kepala pertama: Anthema Spire |
+| Doktrin baru Choir | "Api dunia harus DIDENGAR" (bab 274) — revisi dari "api dunia tidak boleh kembali"; syarat asli halaman kedua dipertahankan |
+| Yang Mendengar Sampai Habis | Nama resmi seam saksi/Vhal-Duren (bab 275, via name train seluruh Karvess) |
 | Buku Seribu Pertanyaan | Buku sampul tenun Lompa, isi 1000 pertanyaan murid 12 cabang Sekolah Mendengar untuk raja abu-abu; penjaga bergilir delegasi murid; nomor 863: "apakah kamu bisa masak sup lebih enak dari Bu Tamma" |
 | Pembakaran Nama | Malam Ashvarok membakar namanya untuk menjadi segel; lima panglima gugur; versi resmi sejarah vs versi batu (makan malam terakhir, kalimat panglima termuda: "minimal kamu tidak lapar waktu menguburkan kami") |
 | orphan murmur | Klasifikasi arsip baru (diciptakan bab 124) untuk gema yang tidak bisa dipetakan ke tradisi mana pun; berkasnya dipegang Shift Guard khusus |
@@ -265,6 +269,9 @@ Catatan bab 261: lanjutan halaman terpotong ditemukan di balik buku pajak Hegemo
 
 Catatan bab 262-265: seam ketujuh ditemukan hidup; luka sunyi presisi (nada lima panglima dicuri, diduga di arsip Hegemony barak); laporan pertama saksi dibacakan; surat anak-anak 12 cabang minta cerita asli raja abu-abu.
 
+| 271-275 | Hari ~762-772 | Caldrest/biara barat/pesisir/Vhal-Duren | keluarga QV, Pembaca Tua, tetua pesisir, Anthema Spire |
+
+Catatan bab 271-275: proyek seribu jawaban; perbedaan nomor lima (lima panglima diberi pintu keluar dan memilih balik); pesisir: "tidak dibenci tapi tidak dilihat"; doktrin "api dunia harus didengar"; pos Vhal-Duren dibuka; seam dinamai Yang Mendengar Sampai Habis.
 | 266-267 | Hari ~745-750 | Caldrest → Vhal-Duren → Caldrest | Ashvarok-Renn sendirian; keluarga QV |
 
 Catatan bab 266-267: penjepit nada ditemukan; operasi pengikat tunggal; harga vein-scar bahu + Remainder 1/4; lagu utuh.
@@ -715,6 +722,8 @@ Catatan bab 150 (KLIMAKS JENDELA, POV Ashvarok): GEMPA GEMA SERENTAK jam ketiga 
 | 13 | Tujuh seam pengikat besar; satu adalah "saksi"; halaman terpotong | ditembakkan bab 261-262 (seam ketujuh ditemukan di Vhal-Duren) |
 | 261 | Nada lagu malam Pembakaran Nama dicuri pemenang — diduga di arsip Hegemony kotak timah di sudut kamar barak | belum (rencana: batch 266-270) |
 | 266 | Identitas juru masak istana = penyelundup nada; suara keenam di lagu | ditembakkan bab 270 |
+| 272 | Lima panglima diberi pintu keluar malam Pembakaran Nama dan memilih balik (perbedaan nomor lima) | ditembakkan bab 272 |
+| 273 | Janji Ashvarok hadir tiap Hari Utara di pesisir sampai dinyatakan lunas/tidak pernah | belum (bab 280: Hari Utara ke-4) |
 | 267 | Surat balasan Pembaca Tua di laci (menunggu kurir tepat) | belum (~batch 271+) |
 | 262 | Kalimat Ashvarok kepada malam saat Pembakaran Nama | ditembakkan bab 270 (dibacakan di Malam Pembacaan atas keputusan murid) |
 | 265 | Janji: cerita lengkap raja abu-abu dibacakan dengan sup hadir | belum |
