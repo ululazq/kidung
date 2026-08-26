@@ -1,6 +1,6 @@
 # World State: The Unremembered King
 
-Terakhir diperbarui: bab 278
+Terakhir diperbarui: bab 279
 Arc aktif: Arc 1 — The Glass City
 
 Catatan: file ini adalah memori kerja serial — satu-satunya tempat yang wajib
