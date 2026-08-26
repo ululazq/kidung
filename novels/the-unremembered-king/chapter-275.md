@@ -148,3 +148,20 @@ Barim mencatat di buku pos pendengar halaman pertama:
 *Catatan: delapan puluh tahun silang batu ini punya langganan kambing sebelum punya tamu manusia. Ada pelajaran di situ tentang kesetiaan yang tidak menunggu diakui, tapi aku belum sanggup merumuskannya. Kovan bilang tunggu sampai kita tua. Ibu Tamma bilang rumuskan sambil masak. Semua orang di dunia ini punya teori soal cara kerja hati, dan semuanya benar, dan semuanya belum lengkap.*
 
 *Lagi bagus begitu. Arsip yang sudah lengkap itu tanda ceritanya habis.*
+---
+
+Kebetulan — atau bukan kebetulan, karena pos pendengar memang tidak mengenal kebetulan, hanya jadwal yang belum sempat dijelaskan — tamu pertama dari luar tiba sebelum rombongan Caldrest turun gunung.
+
+Seorang anak penggembala dari lereng timur, umur mungkin sepuluh tahun, naik membawa roti dan satu pertanyaan yang sudah disimpannya selama perjalanan: "Kakek saya bilang ada batu baru yang punya nama. Namanya benar-benar panjang seperti itu?"
+
+"Benar," kata Sela. "Yang Mendengar Sampai Habis. Enam suku kata. Kau mau menghitungnya?"
+
+Anak itu menghitung dengan jarinya, serius, dua kali karena hitungan pertama tidak cocok.
+
+"Panjang," kesimpulannya. "Tapi bagus. Nama pendek cocok untuk hal yang cepat selesai." Ia meletakkan rotinya di tepi batu bundar dengan gerakan yang sudah dipelajari dari kakeknya, bukan dari sekolah mana pun. "Yang lama menunggu harus punya nama panjang."
+
+Barim menuliskan kalimat itu di buku pos pendengar, persis di bawah catatan tentang kambing-kambing, karena arsip yang baik tahu membedakan mana cerita besar dan mana kalimat anak sepuluh tahun yang kebetulan lebih besar daripada ceritanya.
+
+Hari pembukaan resmi ditutup ibu Tamma dengan cara semua hari besar di Karvess ditutup: ia mencuci panci terbesarnya di air dingin dataran tinggi, menggantungnya terbalik di rak dapur pos, dan berkata kepada siapa pun yang masih mendengarkan:
+
+"Dapur pos ini resmi beroperasi. Besok pagi jam lima, sup pertama untuk para penjaga. Yang mendengar sampai habis juga dapat porsi — dia sudah lama tidak makan."
