@@ -12,3 +12,4 @@ Thumbs.db.claude/
 # Local app state & temp downloads
 .freebuff/
 novels/.tmp.drivedownload/
+novels/.tmp.driveupload/
