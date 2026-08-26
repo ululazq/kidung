@@ -1,6 +1,6 @@
 # World State: The Unremembered King
 
-Terakhir diperbarui: bab 279
+Terakhir diperbarui: bab 280
 Arc aktif: Arc 1 — The Glass City
 
 Catatan: file ini adalah memori kerja serial — satu-satunya tempat yang wajib
@@ -565,3 +565,9 @@ Gelar/jabatan Inggris kanon yang dipakai di prosa: Assayer, Overseer, Foreman, Q
 | PESISIR & DUKA SERIBU TAHUN (273): kunjungan 3 kamp penolak (Ashvarok-Renn+Sela+Barim+ibu Tamma+panci); pengakuan tanpa pembelaan: "kalian tidak dibenci. kalian tidak dilihat."; utang dibayar pekerjaan sampai pesisir menyatakan lunas atau tidak pernah — dua-duanya sah; hasil: Barim tinggal 2 pekan; preseden: nama 214 korban pesisir dibacakan tiap Hari Utara; entri arsip pribadi Ashvarok tentang "melihat setelah bangun" | pesisir/Karvess | 273 |
 | REVISI DOKTRIN CHOIR (274): Anthema Spire minta bicara (surat tangan tanpa protokol); halaman kedua doktrin asli ditemukan: api boleh kembali jika didengarkan/dijaga/diberi makan + dunia membuktikan bisa mendengar; doktrin baru: "API DUNIA HARUS DIDENGAR"; Grey Censure dibubar → LENGAN MENDENGAR (mencari yang belum didengar; kepala bergilir Choir/Guild/Sekolah Mendengar; kepala pertama: Anthema); separuh anggaran ke dapur wilayah | Spire/galeri sembilan | 274 |
 | POS VHAL-DUREN RESMI (275): dibuka hari 772 gotong royong; batu bundar DINAMAI lewat name train seluruh Karvess: YANG MENDENGAR SAMPAI HABIS; jaringan tujuh-tujuhnya lengkap; kalimat semua tokoh; lagu dimainkan sebagai lagu, bukan pembuktian | Vhal-Duren/Karvess | 275 |
+
+| ERA JAWABAN & NAT-ANAK (276): pasal distribusi — jawaban boleh dibacakan ulang siapa pun; para pemulang Vess-Morath minta ikut menjawab → proyek jadi proyek rumah; jawaban #32 "dua kebenaran" untuk anak anak-Choir; nat-anak lahir menyapa "KAMU SUDAH MAKAN?"; Yang Dulu Sunyi: "pertanyaan kami beranak"; Renn tanda tangan sendiri pertama kali | Caldrest/dunia | 276 |
+| KURIR TERTUA & PEMBACAAN ARSIP CHOIR (277): kurir = nat jalur tertua; wasiat Pembaca Tua: bacakan arsip di depan yang paling takut mendengar; halaman terberat = dokumen kecil (biaya makan dinaikkan diam-diam, daftar "dibebaskan malam hari" + doa margin, pengakuan pemalsuan pertama); Anthema minta duduk di antara murid; Kovan hitung suara → secte didengarkan dulu sebelum dibacakan; laki-laki tua biara sakit, pesan batu kecil di Vhal-Duren menghadap timur | biara barat/Caldrest/aula | 277 |
+| PASAL 17 PROTOKOL MUSIM (278): gema muda Vess-Morath (dititipkan zaman purba sebagai anak) minta IKUT PANEN dulu sebelum naik; pasal baru oleh ibu Tamma; panen hasil 2x; masak bersama sup ibu Tamma ("resep mereka"); tiruan wilayah lain: gembala/laut/tenun; permintaan penutup: kursi banyak + sup kamp resep asli | utara/Vess-Morath/Karvess | 278 |
+| TUBUH YANG DIDENGAR IKUT PULIH (279): Gella temukan vein-scar MUNDUR + Remainder naik tanpa cerita; teori Renn: tubuh = penghuni kedua, ikut aturan jiwa; Protokol Menjaga Rumah revisi 2 (sapa tubuh pasien); uji pertama: Tovik minta air tidak terlalu panas (kalimat diri sendiri pertama dalam 8 th); validasi nenek-nenek Vel-Morra; Ashvarok-Renn mulai sapa tubuh + minta maaf | Caldress/dunia medis | 279 |
+| HARI UTARA KE-4 (280): 100 kursi bernama 214 korban pesisir; name train TIGA daftar jadi satu (400 utara + 214 pesisir + lima panglima dari Vhal-Duren); kalimat semua tokoh; ibu Tamma: "jangan biarkan ada kursi tanpa nama"; tetua pesisir kirim kursi-kursinya keliling dunia ("itu bukan maaf. itu kursi."); adegan penutup generasi baru: "kumpulkan semua versi, dudukkan di meja yang sama" | utara/pesisir/Karvess | 280 |

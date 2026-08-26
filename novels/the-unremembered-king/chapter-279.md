@@ -17,13 +17,13 @@ Ashvarok-Renn mengulang posisi persis seperti biasa — lengan kanan terbuka di 
 
 Gella mengukur. Mengukur lagi. Lalu duduk di kursinya sendiri dan menatap kedua orang di ruang klinik itu dengan tatapan dokter tambang tua yang sedang memilih kata.
 
-"Delapan bulan terakhir," katanya akhirnya, "garis kanan kau diam. Aku pikir itu bagus — operasi besar terakhir kan sudah dua tahun. Tapi malam ini aku ukur ulang arsip lamaku, dan aku menemukan sesuatu yang harusnya kutemukan lebih awal." Ia meletakkan lembar-lembar Hourglass di meja, berurutan tanggal. "Lihat sendiri. Garisnya tidak cuma diam. Dia MUNDUR."
+"Delapan bulan terakhir," katanya akhirnya, "garis kanan kau diam. Aku pikir itu bagus — operasi besar terakhir kan sudah dua tahun. Tapi malam ini aku ukur ulang arsip lamaku, dan aku menemukan sesuatu yang harusnya kutemukan lebih awal." Ia meletakkan lembar-lembar Hourglass di meja, berurutan tanggal. "Lihat sendiri. Garisnya tidak hanya diam. Dia MUNDUR."
 
 Sela membaca angka-angka itu dua kali, karena angka pertamanya tidak masuk akal.
 
 Vein-scar kanan — jalur parut yang merambat dari pergelangan ke siku ke bahu selama dua tahun pengorbanan, harga setiap operasi the Walking Key yang dicatat baris demi baris di kolom Hourglass — menipis. Dari tepi. Pelan, konsisten, sejak kira-kira waktu Malam Pembacaan.
 
-Dan bukan cuma itu. Di kolom bawah, catatan pemulihan the Remainder yang selama ini hanya naik kalau ada cerita baru tentang Ashvarok yang dikumpulkan dari dunia, menunjukkan kurva yang sama: naik pelan, stabil, tanpa operasi, tanpa cerita baru yang signifikan.
+Dan bukan hanya itu. Di kolom bawah, catatan pemulihan the Remainder yang selama ini hanya naik kalau ada cerita baru tentang Ashvarok yang dikumpulkan dari dunia, menunjukkan kurva yang sama: naik pelan, stabil, tanpa operasi, tanpa cerita baru yang signifikan.
 
 "Tubuh ini," kata Gella pelan, "sedang sembuh sendirian. Tanpa dipakai, tanpa dibayar, tanpa dikumpulkan ceritanya. Aku dokter tambang empat puluh tahun. Luka jenis ini tidak sembuh sendirian. Tidak pernah." Ia memandang Ashvarok-Renn. "Jadi mulai malam ini pertanyaanku bukan apa yang kau lakukan salah. Pertanyaanku: apa yang kalian lakukan BERBEDA delapan bulan terakhir?"
 
@@ -39,7 +39,7 @@ Yang menemukan jawabannya justru Renn — lewat hal yang paling sederhana, seper
 
 Sela ingat. Semua ingat — jawaban itu sudah masuk arsip: karena didengar. Makhluk yang didengar tidak rusak; Hollowing adalah gejala pemutusan hubungan, bukan serangan.
 
-"Tubuh ini," lanjut Ashvarok-Renn pelan, dan suara bocah tungku itu sendiri yang keluar, "didengarkan juga. Delapan bulan ini... setiap malam kita menyapanya. Menanyakan kabarnya. Memberinya makan. Memandanginya di depan cermin dan berkata terima kasih pada tangannya, kakinya, paru-parunya. Kita pikir itu cuma latihan bahasa bersama — cara aku dan dia belajar hidup berdua."
+"Tubuh ini," lanjut Ashvarok-Renn pelan, dan suara bocah tungku itu sendiri yang keluar, "didengarkan juga. Delapan bulan ini... setiap malam kita menyapanya. Menanyakan kabarnya. Memberinya makan. Memandanginya di depan cermin dan berkata terima kasih pada tangannya, kakinya, paru-parunya. Kita pikir itu hanya latihan bahasa bersama — cara aku dan dia belajar hidup berdua."
 
 Ia memandang vein-scar kanannya yang menipis.
 
@@ -111,7 +111,7 @@ Sela membacakan pesan itu kepada Ashvarok-Renn di ruang arsip, dan untuk beberap
 
 Lalu Ashvarok-Renn tertawa kecil — tawa lelah, bahagia, jenis tawa orang yang baru sadar jawabannya sudah ada sepanjang waktu.
 
-"Seribu tahun aku menyegel dunia supaya aman dari makhluk-makhluk kedalaman," katanya. "Padahal mereka cuma menunggu disapa. Delapan bulan aku menyapa tubuhku karena Renn mengajari aku malu pada tubuh bocah ini yang sudah kami perlakukan sebagai milik bersama..." Ia menggeleng. "Semua pelajaran besar era ini ternyata satu kalimat, Sela. Berbeda-beda baju, sama-sama isinya: ada siapa di sana?"
+"Seribu tahun aku menyegel dunia supaya aman dari makhluk-makhluk kedalaman," katanya. "Padahal mereka hanya menunggu disapa. Delapan bulan aku menyapa tubuhku karena Renn mengajari aku malu pada tubuh bocah ini yang sudah kami perlakukan sebagai milik bersama..." Ia menggeleng. "Semua pelajaran besar era ini ternyata satu kalimat, Sela. Berbeda-beda baju, sama-sama isinya: ada siapa di sana?"
 
 "Ada kami," kata Sela. "Dan kami sudah makan."
 

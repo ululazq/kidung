@@ -1,6 +1,6 @@
 # Bible: The Unremembered King
 
-Terakhir diperbarui: bab 279
+Terakhir diperbarui: bab 280
 Sudah diungkap ke pembaca sampai: bab 275
 
 ## Premis
@@ -286,6 +286,10 @@ Catatan bab 266-267: penjepit nada ditemukan; operasi pengikat tunggal; harga ve
 | 268-270 | Hari ~755-760 | Caldrest, aula | seluruh Karvess |
 
 Catatan bab 268-270: badai pra-pembacaan; Malam Pembacaan Hari 760; juru masak istana terungkap sebagai penyelundup nada; kalimat kepada malam dibacakan.
+
+| 276-280 | Hari ~786-830 | Caldrest/biara barat/utara/pesisir | seluruh Karvess |
+
+Catatan bab 276-280: era Jawaban; nat-anak sapa "KAMU SUDAH MAKAN?"; pembacaan arsip Choir; pasal 17 (pemulangan boleh ditunda demi kerja); teori tubuh yang didengar ikut pulih; Hari Utara ke-4: tiga daftar nama satu lagu.
 
 Jarak tempuh antar lokasi: Caldrest ke Anthema Spire = 9 hari kafilah; melintasi Karvess utara-selatan = 2 bulan jalan darat.
 
@@ -732,6 +736,10 @@ Catatan bab 150 (KLIMAKS JENDELA, POV Ashvarok): GEMPA GEMA SERENTAK jam ketiga 
 | 266 | Identitas juru masak istana = penyelundup nada; suara keenam di lagu | ditembakkan bab 270 |
 | 272 | Lima panglima diberi pintu keluar malam Pembakaran Nama dan memilih balik (perbedaan nomor lima) | ditembakkan bab 272 |
 | 273 | Janji Ashvarok hadir tiap Hari Utara di pesisir sampai dinyatakan lunas/tidak pernah | belum (bab 280: Hari Utara ke-4) |
+| 276 | Nat-anak menyapa "KAMU SUDAH MAKAN?" — divergensi protokoler generasi baru | kanon baru, berlanjut |
+| 277 | Permintaan batu kecil Pembaca Tua di Vhal-Duren menghadap timur (untuk saat ia wafat) | belum (~batch berikutnya) |
+| 278 | Janji ibu pos pesisir: "belum bilang damai, tapi kursi ikut dikirim keliling" | belum |
+| 279 | Tovik memulihkan ingatan bertahap lewat protokol menyapa tubuh | berjalan |
 | 267 | Surat balasan Pembaca Tua di laci (menunggu kurir tepat) | belum (~batch 271+) |
 | 262 | Kalimat Ashvarok kepada malam saat Pembakaran Nama | ditembakkan bab 270 (dibacakan di Malam Pembacaan atas keputusan murid) |
 | 265 | Janji: cerita lengkap raja abu-abu dibacakan dengan sup hadir | belum |

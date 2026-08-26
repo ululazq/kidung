@@ -39,7 +39,7 @@ Pasal tujuh belas, baru, ditulis tangan ibu Tamma karena dialah yang mengusulkan
 
 Hari panen pertama dengan para pekerja tak terlihat menjadi hari yang oleh arsip dicatat dengan angka yang tidak masuk akal bagi statistik mana pun: hasil lahan protokol naik dua kali lipat.
 
-Tidak ada siapa pun yang melihat gandum dipetik oleh tangan yang tidak ada. Yang terlihat cuma ini: batang-batang gandum turun lebih rapi, berkas-berkas tersusun lebih lurus, dan beberapa kali — dicatat saksi-saksi yang kemudian diperiksa ulang Kovan satu per satu — anak-anak kecil keturunan petani berhenti bermain di tepi ladang karena mendengar seseorang tertawa di tengah batang gandum, dalam bahasa yang tidak mereka kenal tapi nadanya mereka langsung pahami.
+Tidak ada siapa pun yang melihat gandum dipetik oleh tangan yang tidak ada. Yang terlihat hanya ini: batang-batang gandum turun lebih rapi, berkas-berkas tersusun lebih lurus, dan beberapa kali — dicatat saksi-saksi yang kemudian diperiksa ulang Kovan satu per satu — anak-anak kecil keturunan petani berhenti bermain di tepi ladang karena mendengar seseorang tertawa di tengah batang gandum, dalam bahasa yang tidak mereka kenal tapi nadanya mereka langsung pahami.
 
 "Anak-anak selalu bisa mendengar duluan," kata Sovana — pemulang pertama timur, perempuan tua telapak tebal yang datang khusus menyaksikan. "Kita yang tua sudah belajar tidak percaya. Anak-anak belum sempat."
 
@@ -49,7 +49,7 @@ Di akhir hari, ketika matahari turun dan ladang selesai, Vess-Morath menyanyikan
 
 Ibu Tamma mendengar itu sambil memegang sendok aduk yang berhenti di udara.
 
-"Seribu tahun," katanya akhirnya, suaranya tidak stabil untuk pertama kalinya di depan banyak orang. "Seribu tahun mereka di dalam sana, dan yang sampai ke mereka dari dunia luar cuma cerita soal sup." Ia mengucek matanya dengan pergelangan tangan, cara lama perempuan dapur yang tidak mau disebut menangis. "Baiklah. Besok kita masak bersama. Berapa pun jumlahnya, pancinya cukup."
+"Seribu tahun," katanya akhirnya, suaranya tidak stabil untuk pertama kalinya di depan banyak orang. "Seribu tahun mereka di dalam sana, dan yang sampai ke mereka dari dunia luar hanya cerita soal sup." Ia mengucek matanya dengan pergelangan tangan, cara lama perempuan dapur yang tidak mau disebut menangis. "Baiklah. Besok kita masak bersama. Berapa pun jumlahnya, pancinya cukup."
 EOF
 ---
 
@@ -61,7 +61,7 @@ Yang bisa dicatat arsip hanyalah hasil akhirnya: sup malam itu, kata semua yang 
 
 Dan ibu Tamma sendiri, ketika ditanya resep apa yang ia pakai, menjawab dengan jawaban yang kemudian diukir Lompa di tepi rak dapur aula:
 
-"Bukan resepku. Resep mereka. Seribu tahun di kedalaman cuma pegang satu cerita soal rasa — cerita sup yang dulu dimasak keluarganya sebelum menitipkan mereka." Ia mencicipi, menambahkan garam seperempat jari. "Aku tinggal ikut saja. Dapur ini malam ini milik mereka. Aku cuma yang pegang sendoknya."
+"Bukan resepku. Resep mereka. Seribu tahun di kedalaman hanya pegang satu cerita soal rasa — cerita sup yang dulu dimasak keluarganya sebelum menitipkan mereka." Ia mencicipi, menambahkan garam seperempat jari. "Aku tinggal ikut saja. Dapur ini malam ini milik mereka. Aku hanya yang pegang sendoknya."
 
 ---
 
@@ -117,7 +117,7 @@ Irama meja disusun. Irama mangkuk diletakkan. Irama kursi digeser.
 
 Seluruh nat Karvess, malam itu, memainkan suara persiapan jam makan.
 
-Dan ibu Tamma, mendengar laporan itu subuh harinya, cuma mengangguk sekali dan berkata kepada dapurnya yang kosong:
+Dan ibu Tamma, mendengar laporan itu subuh harinya, hanya mengangguk sekali dan berkata kepada dapurnya yang kosong:
 
 "Kursi dan sup. Tenang. Ibu-ibu mana pun di dunia ini pasti bisa."
 ---
@@ -132,6 +132,6 @@ Di punggung sandaran kursi itu, diukir satu kalimat:
 
 Sela mengukir ulang kalimat itu di arsipnya persis seperti aslinya, lengkap dengan huruf kapital si pembuatnya, karena beberapa kalimat tidak boleh dinormalisasi.
 
-*Hari 804. Musim kedua Vess-Morath: siap. Yang ditunggu di dalam sudah bilang mau bekerja dulu sebelum pulang. Yang menunggu di luar sudah bikin kursi.*
+*Hari 804. Musim kedua Vess-Morath: siap. Yang ditunggu di dalam sudah bilang mau bekerja dulu sebelum pulang. Yang menunggu di luar sudah membuat kursi.*
 
 *Dua sisi sama-sama tidak bisa diam. Bagus. Berarti musim ini benar-benar tepat.*

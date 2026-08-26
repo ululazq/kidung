@@ -107,7 +107,7 @@ Sela mencatat semuanya dengan tangan yang olehnya sendiri dicatat "tidak stabil"
 
 Setelah kurir pergi, ia duduk lama di ruang arsip yang sunyi. Ashvarok-Renn menemukannya begitu di pagi buta — masih di kursi yang sama, gulungan-gulungan tersusun rapi di depannya, dan di papan tulis kecilnya satu baris baru:
 
-*Orang-orang seperti itu tidak mati. Mereka cuma pindah dari kolom "yang bicara" ke kolom "yang disebut".*
+*Orang-orang seperti itu tidak mati. Mereka hanya pindah dari kolom "yang bicara" ke kolom "yang disebut".*
 
 Di bawahnya, tulisan tangan kedua, lebih muda:
 
