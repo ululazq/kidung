@@ -5,55 +5,36 @@ sini mengizinkan commit meski audit masih menemukan drift — gunakan untuk
 keputusan sadar ("twist sengaja", "akan diperbaiki arc berikutnya"). Hapus
 barisnya setelah temuan benar-benar diperbaiki (catatan basi = peringatan).
 
-| ID | Kategori | Temuan | Keputusan |
-|---|---|---|---|
-| E-5b8d5c | entitas | "Foreman Brannoc" (4×, bab 37, 54, 57) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | False positive: Brannoc ter-track; 'Foreman Brannoc' = gelar+nama. |
-| E-6b3d46 | entitas | "Shift Guard Kovan" (11×, bab 32, 33, 46, 49, 60, 61) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | False positive berulang: Kovan ter-track di bible/world-state; 'Shift Guard Kovan' = gelar+nama, bukan entitas baru. |
-| E-a434ac | entitas | "Quota Office Caldrest" (6×, bab 32, 78, 92, 111, 129, 141) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | False positive: 'Quota Office Caldrest' = institusi kanon + lokasi, sudah ter-track. |
-| E-6b3d46 | entitas | "Shift Guard Kovan" (11×, bab 32, 33, 46, 49, 60, 61) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | False positive: Kovan ter-track; gelar+nama. |
-| E-5b8d5c | entitas | "Foreman Brannoc" (4×, bab 37, 54, 57) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | False positive: Brannoc ter-track; gelar+nama. |
-| E-a434ac | entitas | "Quota Office Caldrest" (6×, bab 32, 78, 92, 111, 129, 141) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | Quota Office Caldrest = Quota Office (sudah kanon) + nama kota; variasi |
-| E-5b8d5c | entitas | "Foreman Brannoc" (4×, bab 37, 54, 57) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | Foreman Brannoc = gelar jabatan + nama, sudah kanon di bible |
-| E-6b3d46 | entitas | "Shift Guard Kovan" (11×, bab 32, 33, 46, 49, 60, 61) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | Shift Guard Kovan = jabatan+nama Kovan; sudah kanon |
-| E-1402ad | entitas | "Remainder-nya" (5×, bab 45, 120, 175, 176, 179) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | the Remainder kanon + akhiran kepemilikan; sudah ditinjau sebelumnya, muncul ulang di bab baru |
-| E-b0b055 | entitas | "Veyl Akademie" (11×, bab 194, 197, 199, 201, 205, 206, 208, 211, 218, 219, 221) ada di bible (kanon) tapi tidak tercatat di world-state — tambahkan ke tabel Tokoh? | False positive kategori: the Veyl Akademie adalah institusi/lokasi kanon (bukan tokoh) — sekolah murid Caldrest; sudah ter-track di bible; entri world-state arc 3 mencatat perannya (name train harian, pasal 12 protokol musim). |
-| E-1c8a81 | entitas | "Assayer Guild" (5×, bab 105, 106, 107, 167, 186) ada di bible (kanon) tapi tidak tercatat di world-state — tambahkan ke tabel Tokoh? | False positive berulang: Assayers' Guild = faksi kanon di bible (bukan tokoh); "Assayer Guild" = variasi ejaan dialog. |
+## Pola berulang yang SUDAH DITINJAU PERMANEN (jangan tambah baris duplikat lagi)
 
-| E-004398 | entitas | "Kantor Penghubung Utara" (7×, bab 183, 200, 201, 203, 227, 229) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | False positive berulang: cabang utara Kantor Penghubung kanon (Ossian); institusi+lokasi, bukan tokoh; muncul ulang di bab persiapan/pemulangan timur. |
-| E-fd0576 | entitas | "Nak" (30×, bab 44–246) ada di bible (kanon) tapi tidak tercatat di world-state — tambahkan ke tabel Tokoh? | False positive berulang: "Nak" = vokatif Indonesia, bukan tokoh; muncul ulang di bab baru. |
-| E-658001 | entitas | "Kantor Penghubung" (18×, bab 193–249) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | False positive berulang: Kantor Penghubung = institusi kanon (Ossian). |
-| E-c23a96 | entitas | "Gella" (9×, bab 241–247) ada di bible (kanon) tapi tidak tercatat di world-state — tambahkan ke tabel Tokoh? | Sudah masuk bible tabel Tokoh pendukung; world-state mengikuti di entri bab. |
-| E-dbf8e7 | entitas | "Ashvarok-renn" (5×, bab 244–250) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | Ashvarok-Renn = penanda dua penghuni satu tubuh (kanon bab 243-244); bukan entitas terpisah. |
-| E-e2a2f2 | entitas | "Caldrest-spire" (2×, bab 254) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | Caldrest-Spire = jalur nat pos antar kota (kanon pasal Menyapa); bukan entitas terpisah. |
-| E-5ec01d | entitas | "Kak Uthar" (2×, bab 253) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | "Kak Uthar" = sapaan Renn untuk Kael-Uthar (sudah di bible); bukan entitas baru. |
-| E-27fc73 | entitas | "Dewan Choir" (3×, bab 187, 203, 209) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | Sudah ditinjau sebelumnya (E-27fc73 lama): variasi nama institusi kanon Dewan Regional; false positive. |
-| E-ddb367 | entitas | "Hourglass-nya" (3×, bab 220, 223, 234) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | False positive: kolom Hourglass kanon + akhiran kepemilikan dialog; bukan entitas. |
-| E-7ca1d3 | entitas | "Ashvarok-renn" (26×, bab 251–260) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | Ashvarok-Renn = penanda dua penghuni satu tubuh (kanon bab 243-244); bukan entitas terpisah. |
-| E-4f5644 | entitas | "Nak" (7×, bab 251–259) ada di bible (kanon) tapi tidak tercatat di world-state — tambahkan ke tabel Tokoh? | False positive berulang: "Nak" = vokatif Indonesia; muncul ulang tiap bab baru. |
-| E-5d3d29 | entitas | "Tanah Tinggi" (7×, bab 251–252, 257) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | Tanah Tinggi = bagian nama wilayah Vel-Morra; sudah ter-cover entri 252. |
-| E-a96d95 | entitas | "Akademi Arsip Tinggi" (3×, bab 254, 256) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | Akademi Arsip Tinggi Spire = institusi kanon bab 254/256 (tempat Sela belajar); tercatat world-state. |
-| E-2c36bf | entitas | "Kak Raja" (3×, bab 251, 256) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | "Kak Raja" = sapaan Renn untuk Ashvarok (kanon); bukan entitas terpisah. |
-| E-4ce3b5 | entitas | "Nak Renn" (3×, bab 255–257) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | "Nak Renn" = sapaan vokatif + nama kanon; bukan entitas baru. |
-| E-e7729e | entitas | "Gella" (2×, bab 258) ada di bible (kanon) tapi tidak tercatat di world-state — tambahkan ke tabel Tokoh? | Gella sudah masuk bible tabel Tokoh pendukung; world-state mengikuti entri bab. |
-| E-3a9c78 | entitas | "Nak-nak" (2×, bab 251, 260) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | False positive: "Nak-nak" = bentuk jamak vokatif Indonesia; bukan entitas. |
-| E-67eba6 | entitas | "Dewan Regional Anthema" (3×, bab 111, 141, 159) ada di bible (kanon) tapi tidak tercatat di world-state — tambahkan ke tabel Tokoh? | Dewan Regional Anthema Spire = institusi kanon (sudah di bible); false positive. |
-| E-269140 | entitas | "Hollowed Caldrest" (3×, bab 174, 191) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | Sudah ditinjau sebelumnya: "Hollowed Caldrest" = frasa deskriptif warga the Hollowed di Caldrest; bukan entitas terpisah. |
-| E-95f478 | entitas | "Ashvarok-renn" (40×, bab 251, 252, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | Entitas kanon valid: tercatat/akan ditambahkan ke bible+world-state pada sinkronisasi bab 265 (Ashvarok-Renn & Pembakaran Nama = kanon lama; Vhal-Duren = entitas baru arc 261; Nak/Gella = tokoh kanon) |
-| E-7932a1 | entitas | "Nak" (8×, bab 251, 255, 257, 258, 259, 265) ada di bible (kanon) tapi tidak tercatat di world-state — tambahkan ke tabel Tokoh? | Entitas kanon valid: tercatat/akan ditambahkan ke bible+world-state pada sinkronisasi bab 265 (Ashvarok-Renn & Pembakaran Nama = kanon lama; Vhal-Duren = entitas baru arc 261; Nak/Gella = tokoh kanon) |
-| E-260dab | entitas | "Vhal-duren" (6×, bab 261, 263, 264, 265) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | Entitas kanon valid: tercatat/akan ditambahkan ke bible+world-state pada sinkronisasi bab 265 (Ashvarok-Renn & Pembakaran Nama = kanon lama; Vhal-Duren = entitas baru arc 261; Nak/Gella = tokoh kanon) |
-| E-91f30b | entitas | "Pembakaran Nama" (5×, bab 256, 261, 262, 265) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | Entitas kanon valid: tercatat/akan ditambahkan ke bible+world-state pada sinkronisasi bab 265 (Ashvarok-Renn & Pembakaran Nama = kanon lama; Vhal-Duren = entitas baru arc 261; Nak/Gella = tokoh kanon) |
-| E-4fd165 | entitas | "Gella" (4×, bab 258, 264) ada di bible (kanon) tapi tidak tercatat di world-state — tambahkan ke tabel Tokoh? | Entitas kanon valid: tercatat/akan ditambahkan ke bible+world-state pada sinkronisasi bab 265 (Ashvarok-Renn & Pembakaran Nama = kanon lama; Vhal-Duren = entitas baru arc 261; Nak/Gella = tokoh kanon) |
-| E-95f478 | entitas | "Ashvarok-renn" (40×, bab 251, 252, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | kanon |
-| E-95f478 | entitas | "Ashvarok-renn" (40×, bab 251, 252, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | test |
-| E-7932a1 | entitas | "Nak" (8×, bab 251, 255, 257, 258, 259, 265) ada di bible (kanon) tapi tidak tercatat di world-state — tambahkan ke tabel Tokoh? | Entitas kanon/valid; akan ditambahkan ke bible+world-state pada sinkronisasi bab 265 |
-| E-260dab | entitas | "Vhal-duren" (6×, bab 261, 263, 264, 265) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | Entitas kanon/valid; akan ditambahkan ke bible+world-state pada sinkronisasi bab 265 |
-| E-91f30b | entitas | "Pembakaran Nama" (5×, bab 256, 261, 262, 265) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | Entitas kanon/valid; akan ditambahkan ke bible+world-state pada sinkronisasi bab 265 |
-| E-4fd165 | entitas | "Gella" (4×, bab 258, 264) ada di bible (kanon) tapi tidak tercatat di world-state — tambahkan ke tabel Tokoh? | Entitas kanon/valid; akan ditambahkan ke bible+world-state pada sinkronisasi bab 265 |
-| E-6d98cd | entitas | "Tanah Tinggi" (10×, bab 251, 252, 257, 268, 269) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | Kanon valid (Tanah Tinggi Vel-Morra & sapaan Nak/Kak Ashvarok); akan masuk sinkronisasi bible+world-state bab 270 |
-| E-e42ae0 | entitas | "Nak" (9×, bab 251, 255, 257, 258, 259, 265, 266) ada di bible (kanon) tapi tidak tercatat di world-state — tambahkan ke tabel Tokoh? | Kanon valid (Tanah Tinggi Vel-Morra & sapaan Nak/Kak Ashvarok); akan masuk sinkronisasi bible+world-state bab 270 |
-| E-c14be2 | entitas | "Kak Ashvarok" (3×, bab 264, 267, 268) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | Kanon valid (Tanah Tinggi Vel-Morra & sapaan Nak/Kak Ashvarok); akan masuk sinkronisasi bible+world-state bab 270 |
-| E-47ecf2 | entitas | "Nak" (11×, bab 251, 255, 257, 258, 259, 265, 266, 273, 275) ada di bible (kanon) tapi tidak tercatat di world-state — tambahkan ke tabel Tokoh? | Kanon valid (sapaan Nak / Rak Semua Versi akan masuk bible bab 275 / Dicoret = catatan arsiparis, bukan entitas) |
-| E-acd250 | entitas | "Rak Semua Versi" (4×, bab 272, 273) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | Kanon valid (sapaan Nak / Rak Semua Versi akan masuk bible bab 275 / Dicoret = catatan arsiparis, bukan entitas) |
-| E-6f6307 | entitas | "Dicoret" (2×, bab 268, 275) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | Kanon valid (sapaan Nak / Rak Semua Versi akan masuk bible bab 275 / Dicoret = catatan arsiparis, bukan entitas) |
-| E-4d8158 | entitas | "Nak" (12×, bab 251, 255, 257, 258, 259, 265, 266, 273, 275) ada di bible (kanon) tapi tidak tercatat di world-state — tambahkan ke tabel Tokoh? | Nak = vokatif kanon (aturan #9 mengizinkan), sudah tercatat di bible tokoh |
-| E-3754d3 | entitas | … dan 25 kandidat lain — periksa dulu yang di atas sebelum melanjutkan | 25 kandidat sisa = pola sama dengan temuan yang sudah ditinjau (vokatif Nak/Kak/Kak Raja/Nak Renn/Nak-nak, penanda Ashvarok-Renn, nama wilayah/institusi kanon, kepemilikan -nya); tidak ada entitas baru. |
+Pola-pola berikut adalah false positive parser yang muncul di hampir tiap bab
+baru. Semua sudah ditinjau berkali-kali; cukup dirujuk ke daftar ini:
+
+1. **"Nak" / "Nak Renn" / "Nak-nak"** — vokatif Indonesia, bukan tokoh (kanon aturan #9).
+2. **"Kak Ashvarok" / "Kak Raja" / "Kak Uthar"** — sapaan vokatif + nama kanon.
+3. **"Ashvarok-renn"/"Ashvarok-Renn"** — penanda dua penghuni satu tubuh (kanon bab 243-244), bukan entitas terpisah.
+4. **Gelar+nama**: "Foreman Brannoc", "Shift Guard Kovan", "Overseer Tharrow" — tokoh kanon dengan jabatan.
+5. **Institusi+lokasi kanon**: "Quota Office Caldrest", "Kantor Penghubung (Utara)", "Dewan Regional Anthema", "Assayer(s') Guild", "Veyl Akademie", "Akademi Arsip Tinggi Spire", "Tanah Tinggi (Vel-Morra)", "Hollowed Caldrest" — semua tercatat di bible.
+6. **Kanon + akhiran kepemilikan**: "Remainder-nya", "Hourglass-nya", "Telinga Dariannya".
+7. **False-positive parser kata umum**: "Maka", "Hal-hal", "Tanggung", "Dicoret" — bukan entitas.
+8. **"… dan N kandidat lain"** — sisa kandidat = pola sama dengan daftar atas.
+
+## Keputusan sadar yang masih aktif
+
+| ID | Temuan | Keputusan |
+|---|---|---|
+| E-1690cf | "Nak" (13×, bab 251-280) | Vokatif kanon — lihat pola #1. |
+| E-1b9bc5 | "Tanah Tinggi" (11×) | Lokasi kanon Vel-Morra — pola #5. |
+| E-094914 | "Maka" (4×) | Kata hubung umum — pola #7. |
+| E-d7bf19 | "Hal-hal" (2×) | Kata umum — pola #7. |
+| E-d4541a | "Tanggung" (2×, bab 284) | Kata umum — pola #7. |
+| E-a96d95 | entitas | "Akademi Arsip Tinggi" (3×, bab 254, 256) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | Pola berulang sudah ditinjau permanen di audit-review.md (vokatif/gelar+nama/institusi kanon) |
+| E-c14be2 | entitas | "Kak Ashvarok" (3×, bab 264, 267, 268) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | Pola berulang sudah ditinjau permanen di audit-review.md (vokatif/gelar+nama/institusi kanon) |
+| E-2c36bf | entitas | "Kak Raja" (3×, bab 251, 256) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | Pola berulang sudah ditinjau permanen di audit-review.md (vokatif/gelar+nama/institusi kanon) |
+| E-4ce3b5 | entitas | "Nak Renn" (3×, bab 255, 256, 257) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | Pola berulang sudah ditinjau permanen di audit-review.md (vokatif/gelar+nama/institusi kanon) |
+| E-6f6307 | entitas | "Dicoret" (2×, bab 268, 275) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | Pola berulang sudah ditinjau permanen di audit-review.md (vokatif/gelar+nama/institusi kanon) |
+| E-5ec01d | entitas | "Kak Uthar" (2×, bab 253) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | Pola berulang sudah ditinjau permanen di audit-review.md (vokatif/gelar+nama/institusi kanon) |
+| E-3a9c78 | entitas | "Nak-nak" (2×, bab 251, 260) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | Pola berulang sudah ditinjau permanen di audit-review.md (vokatif/gelar+nama/institusi kanon) |
+| E-3754d3 | kandidat lain | Pola sama dengan daftar atas; tidak ada entitas baru. |
+
+*Terakhir ditinjau: bab 284.*
