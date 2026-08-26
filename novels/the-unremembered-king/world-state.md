@@ -1,6 +1,6 @@
 # World State: The Unremembered King
 
-Terakhir diperbarui: bab 284
+Terakhir diperbarui: bab 285
 Arc aktif: Arc 1 — The Glass City
 
 Catatan: file ini adalah memori kerja serial — satu-satunya tempat yang wajib
@@ -571,3 +571,5 @@ Gelar/jabatan Inggris kanon yang dipakai di prosa: Assayer, Overseer, Foreman, Q
 | PASAL 17 PROTOKOL MUSIM (278): gema muda Vess-Morath (dititipkan zaman purba sebagai anak) minta IKUT PANEN dulu sebelum naik; pasal baru oleh ibu Tamma; panen hasil 2x; masak bersama sup ibu Tamma ("resep mereka"); tiruan wilayah lain: gembala/laut/tenun; permintaan penutup: kursi banyak + sup kamp resep asli | utara/Vess-Morath/Karvess | 278 |
 | TUBUH YANG DIDENGAR IKUT PULIH (279): Gella temukan vein-scar MUNDUR + Remainder naik tanpa cerita; teori Renn: tubuh = penghuni kedua, ikut aturan jiwa; Protokol Menjaga Rumah revisi 2 (sapa tubuh pasien); uji pertama: Tovik minta air tidak terlalu panas (kalimat diri sendiri pertama dalam 8 th); validasi nenek-nenek Vel-Morra; Ashvarok-Renn mulai sapa tubuh + minta maaf | Caldress/dunia medis | 279 |
 | HARI UTARA KE-4 (280): 100 kursi bernama 214 korban pesisir; name train TIGA daftar jadi satu (400 utara + 214 pesisir + lima panglima dari Vhal-Duren); kalimat semua tokoh; ibu Tamma: "jangan biarkan ada kursi tanpa nama"; tetua pesisir kirim kursi-kursinya keliling dunia ("itu bukan maaf. itu kursi."); adegan penutup generasi baru: "kumpulkan semua versi, dudukkan di meja yang sama" | utara/pesisir/Karvess | 280 |
+| BAB 281-284 (281-284): wafat Pembaca Tua & wasiat -> arsip jabatan ke Akademi Arsip the Quiet Vein; pemakaman batu kecil Vhal-Duren menghadap timur (name train pertama untuknya); Tovik sebut nama penuh pertama kali dalam 9 th; pasal hak menolak didengarkan; angkatan 4 Sekolah Mendengar kurikulum 4 musim; ujian nat muda setahun (Pellia Muda lulus walau nat diam 8 bulan); nat muda mulai bertanya balik (data baru Kovan) | Caldrest/Spire/Vhal-Duren | 284 |
+| BAB 285 (285): ulang tahun ke-18 Renn (umur tubuh); keluarga QV & 47 orang yang pernah disapa Renn memberi daftar "hal yang tidak berubah" versi masing-masing (ibu Tamma, Daven, Gella, Wida, Barim, Kovan, dll + 1 lembar many hands); Ashvarok tulis lembar sendiri di awal ("kursi sudut / dapur / nat menunggu"); Ashvarok-Renn menangis baca; daftar baru "hal yang berubah" dibuka (baris pertamanya: 18 th lalu bangun di tubuh mati tak tahu nama, hari ini 47 orang tahu siapa ia); Pellia Muda + nat diam ikut memberi hadiah (satu denyut) | keluarga QV/Caldrest/barak utara | 285 |
