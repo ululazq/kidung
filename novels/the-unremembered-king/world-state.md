@@ -1,6 +1,6 @@
 # World State: The Unremembered King
 
-Terakhir diperbarui: bab 290
+Terakhir diperbarui: bab 295
 Arc aktif: Arc 1 — The Glass City
 
 Catatan: file ini adalah memori kerja serial — satu-satunya tempat yang wajib
@@ -578,3 +578,8 @@ Gelar/jabatan Inggris kanon yang dipakai di prosa: Assayer, Overseer, Foreman, Q
 | BAB 288 (288): ibu Tamma sakit ringan pertama; dapur aula panik tenang; Tami-Tomi masak penuh pertama (rasa beda, prinsip sama); Gella periksa (lelah biasa, 3 hari batas kompor); Brannoc bawa roti; ibu Tamma ajarkan resep sup ayam Vessia; Harn bawa roti ke barak utara | dapur aula/Caldrest | 288 |
 | BAB 289 (289): Brannoc gantung palu di dinding sekolah tambang; kontrak Harn-748 diframing di sebelahnya; Harn jadi pandai besi utama; Brannoc pindah ke rumah Harn di tepi lembah; bel kecil buatan Brannoc berdenting 3 detik; penutup: Brannoc tidur tanpa beban tambang | sekolah tambang/rumah Harn | 289 |
 | BAB 290 (290): Hari Utara ke-5 dipimpin murid angkatan 4 (Pellia Muda dkk), tokoh lama jadi tamu; lagu baru Yang Dulu Sunyi = daftar semua yg pergi; Ossian & Maera hadir sbg warga; generasi bergeser, lagu & rumah tetap | aula Caldrest/barak utara | 290 |
+| BAB 291 (291): Distrik selatan Rerun berhenti menyapa sebulan pasca-pensiunan Mema; Ashvarok TIDAK turun tangan, kirim catatan cara → distrik bangkit sendiri dgn penyapa muda (Berto, Sono); pelajaran "dunia tidak menunggu raja" | barak utara/Rerun | 291 |
+| BAB 292 (292): Tovik pulih penuh (9 th bisu selesai) jadi guru Sekolah Mendengar "menyapa tubuh yg tdk mau bicara"; kelas praktik nat bisu; murid Lira aktifkan pasal hak menolak disapa (283); Wida tutup lingkaran | sekolah mendengar/barak | 292 |
+| BAB 293 (293): Batu Pembaca Tua Vhal-Duren menjawab dgn suara kambing (bkn Pembaca Tua); penggembala Tore mau pindah kambing, Yuni jelaskan batu terima siapa pun yg hadir; Brannoc/Harn lewat; biarawati konfirmasi Pembaca Tua rekam tawa kambing | Vhal-Duren/biara barat | 293 |
+| BAB 294 (294): Dua lulusan (Yono/Dila) berselisih cara menyapa di desa Karung; Ashvarok & Sela SENGAJA tdk campur; musyawarah desa selesaikan (giliran hari kerja + sukarela hari istirahat); Mak Sur kirim buku "Cara Karung Musyawarah" | desa Karung/barak | 294 |
+| BAB 295 (295): Penutup arc WARISAN — makan malam biasa di barak; tokoh tua jadi tamu; kebiasaan jalan tanpa mereka memimpin; kalimat penutup: "kami tidak menjaga kebiasaan ini. kebiasaan ini menjaga kami."; Sela tutup arc di arsip | barak utara/seluruh Karvess | 295 |

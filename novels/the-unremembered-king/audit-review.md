@@ -51,5 +51,7 @@ baru. Semua sudah ditinjau berkali-kali; cukup dirujuk ke daftar ini:
 | E-bb0a05 | "Kak Raja" (3×, bab 244-246) | Vokatif kanon — pola #2. |
 | E-5705d7 | "Overseer Tharrow" (3×, bab 54-59) | Gelar+nama kanon — pola #4. |
 | E-f07054 | "… dan 23 kandidat lain" | Sisa kandidat = pola sama dgn daftar atas (vokatif/gelar/institusi kanon/kata umum). |
+| E-67d68e | "Pell" (4×, bab 292) | Julukan pendek untuk Pellia/Pellia Muda — entitas kanon (bible baris 29 & 147, world-state baris 574-580). Pola #8 (nama kanon, varian panggilan). |
+| E-5c67b7 | "Nak" (19×, bab 251-292) | Vokatif kanon Wida (bible baris 142, world-state entri 251-292). Sama dgn E-0df4b5 — pola #1. |
 
-*Terakhir ditinjau: bab 290.*
+*Terakhir ditinjau: bab 295.*
