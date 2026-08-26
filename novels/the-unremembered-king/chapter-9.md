@@ -9,7 +9,7 @@ Pasar cinder-glass Caldrest dibuka saat kabut masih menempel di lereng, dan tutu
 
 "Kamu belajar itu dari mana?"
 
-"Dari ikut kamu beli sayur tiga tahun." Dia mengetuk papan tulisnya. "Angka hari ini: kita butuh minimal dua puluh shardmark biar minggu pertama pekerjaan sampinganmu tidak bohong."
+"Dari ikut kamu beli sayur tiga tahun." Dia mengetuk papan tulisnya. "Angka hari ini: kita butuh minimal dua puluh shardmark agar minggu pertama pekerjaan sampinganmu tidak bohong."
 
 Dua puluh. Ashvarok menyimpan angka itu di tempat angka lain disimpan, lalu mulai berjalan menuju tujuan yang sudah ia tandai sejak kemarin.
 

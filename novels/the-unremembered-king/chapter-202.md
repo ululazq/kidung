@@ -39,7 +39,7 @@ Ossian mencatat hasil uji itu malam itu juga dan menulis di laporannya kalimat y
 
 Sebelum laporan itu disegel, Maera membacanya dan menambahkan satu lembar lampiran dengan stempel Guild — hal yang tidak wajib, tapi ia lakukan karena saksinya adalah Maera Tull:
 
-"Lampiran penilai: nilai ekonomi tak terduga dari program ini sudah terlihat di tahap tiga. Keluarga-keluarga yang bertemu saling memesan hasil bekerja. Ibu keluarga uji pertama memesan gerabah dari keluarga Sarneth sebelum Sarneth sendiri pulang. 'Aku mau pakai buatan dia,' katanya, 'biar ada yang sudah dikenalnya pas dia sampai.' Guild mencatat: jaring keluarga pemulihan = pasar baru yang tumbuh dari kabar baik, bukan dari kelangkaan. Ini belum pernah terjadi dalam riwayat Guild."
+"Lampiran penilai: nilai ekonomi tak terduga dari program ini sudah terlihat di tahap tiga. Keluarga-keluarga yang bertemu saling memesan hasil bekerja. Ibu keluarga uji pertama memesan gerabah dari keluarga Sarneth sebelum Sarneth sendiri pulang. 'Aku mau pakai buatan dia,' katanya, 'agar ada yang sudah dikenalnya pas dia sampai.' Guild mencatat: jaring keluarga pemulihan = pasar baru yang tumbuh dari kabar baik, bukan dari kelangkaan. Ini belum pernah terjadi dalam riwayat Guild."
 
 ---
 

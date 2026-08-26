@@ -15,7 +15,7 @@ Di Spire, mahasiswa akademi arsip berdemo damai di depan gedung Dewan dengan spa
 
 Di tiga wilayah pesisir, tetua adat menyatakan lagu itu "sakit yang ditagihkan terlambat seribu tahun" dan menolak hadir di malam pembacaan mana pun — posisi yang oleh mereka tegaskan lewat surat resmi, stempel, dan dua halaman penjelasan kenapa penolakan itu justru bentuk penghormatan tertinggi bagi lima panglima.
 
-Di Vel-Morra, Tanah Tinggi yang setahun silang membuka diri itu mengirim jawaban tercepat dari semua wilayah, dan jawabannya hanya satu kalimat yang dikirim lewat nat-gunung:
+Di Vel-Morra, Tanah Tinggi yang setahun silam membuka diri itu mengirim jawaban tercepat dari semua wilayah, dan jawabannya hanya satu kalimat yang dikirim lewat nat-gunung:
 
 *IBU-IBU KAMI SUDAH MENDENGARNYA DELAPAN PULUH TAHUN SILANG. DATANG DENGAN SUPNYA.*
 
@@ -33,7 +33,7 @@ Dalam enam hari, kerangka hak menjawab disosialisasikan ke semua wilayah: setiap
 
 "Itu satu-satunya cara malam itu tidak jadi pertunjukan," kata Ossian. "Aku pernah percaya bahwa kebenaran adalah hak orang yang cukup kuat untuk membelinya. Aku salah, dan aku dibayar mahal atas kesalahan itu." Ia menata dokumennya, kebiasaan lama yang tidak pernah hilang. "Kebenaran yang dibacakan tanpa kemarahan orang yang tersakiti bukan kebenaran — itu propaganda yang lebih sopan."
 
-Maera memandang mantan antagonis arc pertama novel ini, kalau boleh begitu, dan berkata: "Delapan tahun silang aku menilaimu orang paling bahaya di Karvess."
+Maera memandang mantan antagonis arc pertama novel ini, kalau boleh begitu, dan berkata: "Delapan tahun silam aku menilaimu orang paling bahaya di Karvess."
 
 "Kau benar," kata Ossian. "Bedanya, waktu itu aku bahaya untuk alasan yang salah. Sekarang alasan saya sudah diperbaiki. Bahayanya saya pertahankan — malam seperti ini butuh sedikit bahaya agar semua orang berhati-hati."
 
@@ -78,7 +78,7 @@ Sela menyimpan amplop itu di saku dada — posisi yang dalam tradisi the Quiet V
 
 Laki-laki tua itu berdiri di ambang pintu, dan untuk pertama kalinya tampak seperti usianya.
 
-"Karena diamku sudah selesai bekerja," katanya. "Empat generasi jabatan ini menyimpan benda-benda benar di dalam sistem yang salah, menunggu ada yang datang mencarinya dengan hati. Kamu datang. Lagunya utuh." Ia mengangguk pelan, kepada Sela, kepada barak, kepada seluruh kota kecil yang delapan tahun silang menampung raja tanpa nama tanpa tahu. "Diam tidak gagal, Nona Arsiparis. Diam hanya punya tenggat, dan tenggatku sudah tiba dengan cara yang paling baik yang bisa diminta seorang penjaga: ia tiba karena pekerjaannya sudah selesai."
+"Karena diamku sudah selesai bekerja," katanya. "Empat generasi jabatan ini menyimpan benda-benda benar di dalam sistem yang salah, menunggu ada yang datang mencarinya dengan hati. Kamu datang. Lagunya utuh." Ia mengangguk pelan, kepada Sela, kepada barak, kepada seluruh kota kecil yang delapan tahun silam menampung raja tanpa nama tanpa tahu. "Diam tidak gagal, Nona Arsiparis. Diam hanya punya tenggat, dan tenggatku sudah tiba dengan cara yang paling baik yang bisa diminta seorang penjaga: ia tiba karena pekerjaannya sudah selesai."
 
 Ia pergi sebelum subuh, berjalan kaki seperti datangnya, dan menolak ditemani.
 

@@ -47,7 +47,7 @@ Maera membaca lembar itu. Semua barisnya. Dua kali. Mata assayer itu menghitung 
 
 Ruangan itu sunyi. Di luar jendela, terompet shift sore bersuara jauh, dan suara troli pertama turun ke tambang terdengar seperti napas panjang.
 
-"Saya memenulis klasifikasi yang didukung data yang bisa saya pertahankan di bawah pemeriksaan silang," jawab Maera, dengan hati-hati seorang penambang melangkah di atas retakan. "Itu definisi bekerja setiap assayer."
+"Saya memenulis klasifikasi yang didukung data yang bisa saya pertahankan di bawah pemeriksaan silam," jawab Maera, dengan hati-hati seorang penambang melangkah di atas retakan. "Itu definisi bekerja setiap assayer."
 
 "Tentu. Tentu saja." Kepala Ossian tertunduk sedikit — pengakuan, atau tiruannya. "Hanya saja, delapan belas tahun lalu ada assayer senior yang memenulis klasifikasi yang sama untuk wilayah utara. Namanya Vessik Halder. Dia pensiun dengan pensiun penuh, rumah di tepi danau, dan meninggal damai umur tujuh puluh." Jeda. Satu tarikan napas. "Empat puluh ribu orang di kabupaten itu tidak mendapat kesempatan pensiun, tapi laporannya tetap rapi. Prosedur, Assayer Tull, adalah alat yang bekerja untuk siapa pun yang memegangnya."
 

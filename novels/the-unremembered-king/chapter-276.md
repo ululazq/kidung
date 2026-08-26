@@ -21,7 +21,7 @@ Kejadian kedua datang sepuluh hari kemudian, dan kali ini bentuknya surat yang m
 
 Pengirimnya bukan murid sekolah.
 
-Pengirimnya: para pemulang Vess-Morath — 124 jiwa yang delapan tahun silang naik dari kedalaman lewat protokol musim. Surat mereka ditulis tujuh tangan (karena beberapa di antara mereka masih sedang melatih tangannya menulis ulang setelah seribu tahun tanpa latihan), dan isinya satu permintaan:
+Pengirimnya: para pemulang Vess-Morath — 124 jiwa yang delapan tahun silam naik dari kedalaman lewat protokol musim. Surat mereka ditulis tujuh tangan (karena beberapa di antara mereka masih sedang melatih tangannya menulis ulang setelah seribu tahun tanpa latihan), dan isinya satu permintaan:
 
 *Kami membaca jawaban-jawabanmu, raja kami yang pernah menjadi segel. Kami yang pernah dititipkan di kedalaman ikut menunggu sepuluh abad bersamamu.*
 
@@ -97,7 +97,7 @@ Bukan Ashvarok-Renn. Bukan "kami". Hanya Renn — untuk pertama kalinya sejak ru
 
 Sela memandang nama itu lama.
 
-Delapan tahun silang, gadis ini memulai semuanya dengan pertanyaan di sebuah barak: "Kalau kamu bukan Renn, dia di mana?" Dan malam ini, untuk pertama kalinya, jawabannya tertulis dengan tangan bocah itu sendiri, di atas kertas resmi, untuk dibaca orang asing:
+Delapan tahun silam, gadis ini memulai semuanya dengan pertanyaan di sebuah barak: "Kalau kamu bukan Renn, dia di mana?" Dan malam ini, untuk pertama kalinya, jawabannya tertulis dengan tangan bocah itu sendiri, di atas kertas resmi, untuk dibaca orang asing:
 
 *Aku di sini. Aku punya hobi. Aku menandatangani namaku sendiri.*
 

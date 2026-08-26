@@ -21,7 +21,7 @@ Renn membaca nama mereka satu per satu — dan pada nama keempat puluh, suaranya
 
 Ashvarok, dari dalam, berkata pelan yang hanya terdengar Renn:
 
-"Lima belas tahun silang kau titip di lorong tambang tanpa masa depan. Sekarang lihat: dunia memberimu empat puluh sembilan alasan bahwa masa depan itu ada."
+"Lima belas tahun silam kau titip di lorong tambang tanpa masa depan. Sekarang lihat: dunia memberimu empat puluh sembilan alasan bahwa masa depan itu ada."
 
 "...kamu baca pikiranku?"
 
@@ -33,7 +33,7 @@ Setelah pembacaan, pidato penutup tahun disampaikan bukan oleh raja, bukan oleh 
 
 Pidatonya pendek. Seperti sup-nya: pekat dan menghangatkan.
 
-"Satu tahun silang kita mulai bertanya 'ada siapa di sana'." Ia memandang aula penuh. "Hari ini jawabannya: SEMUA ORANG. Semua sudah pulang, semua sudah bernama lagi, dan beberapa di antara kita bahkan berbagi tubuh tanpa rebutan — contohnya dua anak di sudut sana."
+"Satu tahun silam kita mulai bertanya 'ada siapa di sana'." Ia memandang aula penuh. "Hari ini jawabannya: SEMUA ORANG. Semua sudah pulang, semua sudah bernama lagi, dan beberapa di antara kita bahkan berbagi tubuh tanpa rebutan — contohnya dua anak di sudut sana."
 
 Tawa aula. Dua penghuni tubuh Renn saling pandang (secara metafisik).
 
@@ -71,7 +71,7 @@ Kovan: "Semua angka di atas sudah diverifikasi dua kali. Angka paling penting ti
 
 Barim: "Malam-malam Karvess aman. Penjaga malam bisa tidur nyenyak. Itu laporan terakhirku — dan pertama kalinya aku senang menganggur."
 
-Ossian: "Birokrasi Karvess resmi memiliki pasal tentang penghuni ganda, hak resonansi, dan kewajiban makan bareng. Seribu tahun silang itu mustahil. Sekarang hanya administrasi biasa."
+Ossian: "Birokrasi Karvess resmi memiliki pasal tentang penghuni ganda, hak resonansi, dan kewajiban makan bareng. Seribu tahun silam itu mustahil. Sekarang hanya administrasi biasa."
 
 Ibu Tamma: "Dapur tetap buka. Selalu."
 

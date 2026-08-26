@@ -91,7 +91,7 @@ Kalian adalah dua sahabat yang dipisahkan delapan puluh tahun... lalu dipertemuk
 
 Dan satu baris penutup dari Ashvarok-Renn — ditulis bersama di neraca malam itu:
 
-"Delapan puluh tahun silang, seorang anak tujuh tahun mendengar cahaya yang tidak dipahami siapa pun.
+"Delapan puluh tahun silam, seorang anak tujuh tahun mendengar cahaya yang tidak dipahami siapa pun.
 
 Cahaya itu ternyata raja seribu tahun yang baru saja membakar namanya.
 
@@ -145,7 +145,7 @@ Dan satu baris terakhir — dari Sela, untuk arsip:
 
 "Bab 257 ditutup dengan satu pemahaman:
 
-Delapan bulan silang, kami pikir proyek kami adalah membuat batu bicara.
+Delapan bulan silam, kami pikir proyek kami adalah membuat batu bicara.
 
 Ternyata batu sudah bicara selalu.
 

@@ -63,7 +63,7 @@ Pembacaan pamitan lorong empat dilakukan seminggu kemudian, dan menjadi peristiw
 
 Protokol pembacaannya disusun pasangan hitung dengan bantuan Ossian, dan aturan pertamanya adalah aturan yang paling sering dikutip kemudian: urutan pembacaan bukan urutan kematian, tapi urutan permintaan keluarga. Yang siap duluan didahulukan. Yang butuh waktu lebih lama, diberi waktu.
 
-Yang tidak diantisipasi siapa pun: beberapa keluarga datang membawa balasan. Seorang janda tua membawa secangkir teh dan meletakkannya di depan nat sebelum pembacaan suami mulai — "dia suka minta teh tiap kali dia pulang bekerja; sekali ini aku yang bawa duluan". Seorang anak laki-laki dewasa, yang ayahnya mati saat ia masih kecil, membawa mainan kayu buatannya sendiri: "biar dia tahu akhirnya aku bisa membuat sesuatu."
+Yang tidak diantisipasi siapa pun: beberapa keluarga datang membawa balasan. Seorang janda tua membawa secangkir teh dan meletakkannya di depan nat sebelum pembacaan suami mulai — "dia suka minta teh tiap kali dia pulang bekerja; sekali ini aku yang bawa duluan". Seorang anak laki-laki dewasa, yang ayahnya mati saat ia masih kecil, membawa mainan kayu buatannya sendiri: "agar dia tahu akhirnya aku bisa membuat sesuatu."
 
 Pasangan hitung mencatat semua itu tanpa perlu berdebat soal protokol: nat-nat menyimpan pemberian. Mereka sudah tahu itu dari teh Pak Dekan. Tapi hari itu mereka belajar hal baru — pemberian untuk nat ternyata membuat SUARA pamitan lebih jelas saat dibacakan. Seolah barang yang dibawa dengan cinta membersihkan jalur antara dua dunia.
 

@@ -79,17 +79,17 @@ Lalu pemimpin seribu tahun ortodoksi Choir tertawa — tawa sungguhan, lelah dan
 "Karena itu kepala pertamanya harus orang yang sudah membuktikan dirinya tidak bisa dibeli oleh jabatan." Ashvarok-Renn menandatangani di bawah nama Anthema. "Kau. Satu tahun. Sebagai lengan mendengar yang pertama. Bukan hukuman — kau yang mengajari Karvess bahwa bahkan ortodoksi bisa belajar. Biarkan satu tahun terakhirmu di jabatan jadi satu tahun pertamanya di pekerjaan yang benar."
 ---
 
-Mereka keluar dari galeri sembilan menjelang subuh, dan di pintu tambang, Anthema Spire berhenti sebentar — memandang lorong gelap yang delapan tahun silang ia izinkan dihancurkan lewat utusannya.
+Mereka keluar dari galeri sembilan menjelang subuh, dan di pintu tambang, Anthema Spire berhenti sebentar — memandang lorong gelap yang delapan tahun silam ia izinkan dihancurkan lewat utusannya.
 
 "Boleh kutanya pertanyaan terakhir," katanya. "Bukan sebagai jabatan. Pribadi."
 
 "Tanya."
 
-"Malam pembacaan itu. Kalimatmu kepada malam." Anthema memandang Ashvarok-Renn dengan mata orang yang membawa beban lama. "Aku mendengarnya sampai habis. Dan aku pulang, dan seminggu penuh aku tidak bisa tidur — bukan karena kalimatnya. Karena aku sadar sesuatu yang membuatku muak: kalau aku lahir seribu tahun silang... aku akan jadi salah satu yang menonton dari kejauhan dengan obor. Orang baik yang ikut kerumunan. Kerumunan yang datang melihat api."
+"Malam pembacaan itu. Kalimatmu kepada malam." Anthema memandang Ashvarok-Renn dengan mata orang yang membawa beban lama. "Aku mendengarnya sampai habis. Dan aku pulang, dan seminggu penuh aku tidak bisa tidur — bukan karena kalimatnya. Karena aku sadar sesuatu yang membuatku muak: kalau aku lahir seribu tahun silam... aku akan jadi salah satu yang menonton dari kejauhan dengan obor. Orang baik yang ikut kerumunan. Kerumunan yang datang melihat api."
 
 Ashvarok-Renn memikirkan jawabannya lebih lama dari semua jawaban malam itu.
 
-"Kemungkinan itu besar," katanya akhirnya, jujur seperti jawaban nomor dua puluh satu. "Tapi kau lupa satu hal tentang dirimu versi seribu tahun silang: doktrin halaman keduanya sudah ada sejak malam itu. Ditulis oleh generasi ketakutan yang tetap menyelipkan syarat harapan di halaman kedua — lalu menyembunyikannya dari murid-murid mereka sendiri karena takut." Ia mengangguk kepada pemimpin tua itu. "Orang-orang seperti kau selalu ada di setiap era, Anthema. Yang menentukan bukan ketakutannya — semua orang ketakutan. Yang menentukan: apakah dia menyembunyikan halaman kedua... atau mengajarkannya."
+"Kemungkinan itu besar," katanya akhirnya, jujur seperti jawaban nomor dua puluh satu. "Tapi kau lupa satu hal tentang dirimu versi seribu tahun silam: doktrin halaman keduanya sudah ada sejak malam itu. Ditulis oleh generasi ketakutan yang tetap menyelipkan syarat harapan di halaman kedua — lalu menyembunyikannya dari murid-murid mereka sendiri karena takut." Ia mengangguk kepada pemimpin tua itu. "Orang-orang seperti kau selalu ada di setiap era, Anthema. Yang menentukan bukan ketakutannya — semua orang ketakutan. Yang menentukan: apakah dia menyembunyikan halaman kedua... atau mengajarkannya."
 
 Anthema berdiri diam lama.
 
@@ -100,13 +100,13 @@ Di belakangnya, nat tua galeri sembilan berdenyut pelan, dan Barim — yang mend
 *Hari 768. Galeri sembilan menyaksikan lagi. Nat bilang: "AKU INI MEMANG TEMPATNYA ORANG BERUBAH. DARI DULU."*
 ---
 
-Sebelum Anthema berangkat, satu tamu tak terduga masuk ke galeri sembilan — kecil, gemetar, membawa kotak kayunya yang selalu dibawa ke mana-mana sejak era komisi Caldrest delapan tahun silang.
+Sebelum Anthema berangkat, satu tamu tak terduga masuk ke galeri sembilan — kecil, gemetar, membawa kotak kayunya yang selalu dibawa ke mana-mana sejak era komisi Caldrest delapan tahun silam.
 
 Maera Tull. Pensiun dari Guild. Guru hitung.
 
-"Aku dengar dari Daven ada rapat penting di bawah tanah dan tidak diundang siapa-siapa," katanya, duduk tanpa izin pada kursi ketiga yang ditambahkan Barim diam-diam. "Delapan tahun silang aku penilai pertama yang menyadari ada sesuatu aneh di lorong tujuh. Delapan tahun silang aku memilih melindungi kalian dengan menutupi data. Dan malam pembacaan itu..." Ia membuka kotak timbung mininya, mengeluarkan lempeng ukur tua bertanda stempel ungu Guild. "...aku sadar satu hal yang belum pernah kukatakan kepada siapa pun."
+"Aku dengar dari Daven ada rapat penting di bawah tanah dan tidak diundang siapa-siapa," katanya, duduk tanpa izin pada kursi ketiga yang ditambahkan Barim diam-diam. "Delapan tahun silam aku penilai pertama yang menyadari ada sesuatu aneh di lorong tujuh. Delapan tahun silam aku memilih melindungi kalian dengan menutupi data. Dan malam pembacaan itu..." Ia membuka kotak timbung mininya, mengeluarkan lempeng ukur tua bertanda stempel ungu Guild. "...aku sadar satu hal yang belum pernah kukatakan kepada siapa pun."
 
-"Lempeg ini," kata Maera, meletakkannya di meja antara mereka. "Di permukaannya masih ada sisa abu Ash dari duel Kovan delapan tahun silang. Abu yang mengingat. Selama delapan tahun aku menyimpannya — bukan sebagai bukti, bukan lagi. Sebagai pengingat: bahwa kebenaran bisa diselamatkan oleh orang yang cukup takut untuk tidak menyerahkannya."
+"Lempeg ini," kata Maera, meletakkannya di meja antara mereka. "Di permukaannya masih ada sisa abu Ash dari duel Kovan delapan tahun silam. Abu yang mengingat. Selama delapan tahun aku menyimpannya — bukan sebagai bukti, bukan lagi. Sebagai pengingat: bahwa kebenaran bisa diselamatkan oleh orang yang cukup takut untuk tidak menyerahkannya."
 
 Ia memandang Anthema Spire — dua mantan institusi musuh, duduk di galeri bawah tanah tempat semuanya dimulai.
 

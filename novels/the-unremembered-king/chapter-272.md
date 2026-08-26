@@ -11,7 +11,7 @@ Balasan untuk surat kurir yang tepat ditulis Sela dalam tiga draf. Draf pertama 
 
 *Jawabannya: sampai. Lagu utuh. Nada juru masaknya didengar seribu orang, dan suara dapur itu akhirnya disebut namanya sekali di aula — bukan nama aslinya, karena memang tidak tercatat; kami menyebutnya "suara keenam", dan semua orang tahu siapa maksudnya.*
 
-*Kau menulis empat generasi silang bahwa jabatanmu hidup karena diam. Aku arsiparis, dan aku punya pertanyaan profesional: apa yang terjadi pada arsip diam kalau diamnya sudah selesai bekerja?*
+*Kau menulis empat generasi silam bahwa jabatanmu hidup karena diam. Aku arsiparis, dan aku punya pertanyaan profesional: apa yang terjadi pada arsip diam kalau diamnya sudah selesai bekerja?*
 
 *Kalau jawabannya butuh dibicarakan langsung — aku bisa datang. Aku umur tiga belas, aku sudah menandatangani dokumen Dewan, dan ibuku bilang perjalanan jauh itu aman asal bawa sup kering cukup. Ibu-ibu tidak pernah salah soal hal semacam ini.*
 
@@ -23,7 +23,7 @@ Jawaban datang dalam sembilan hari, lewat jalur nat pos resmi — karena jabatan
 
 Sela berangkat dengan pendampingan setengah jalan oleh regu pemulangan musim (aturan baru Dewan: semua anak di bawah enam belas yang bepergian dinayungi nat-nat jalur), lalu lanjut sendirian naik ke lereng barat — wilayah yang peta lamanya menyebut "jalur biara" dan peta barunya belum sempat menyebut apa-apa.
 
-Biara itu kecil. Lebih kecil dari bayangan namanya: satu bangunan batu, satu halaman berumput, satu menara arsip yang tingginya hanya tiga kali tinggi manusia — dan di pintunya, menunggu, laki-laki tua yang delapan pekan silang duduk di kursi baris belakang aula Caldrest tanpa diketahui siapa-siapa.
+Biara itu kecil. Lebih kecil dari bayangan namanya: satu bangunan batu, satu halaman berumput, satu menara arsip yang tingginya hanya tiga kali tinggi manusia — dan di pintunya, menunggu, laki-laki tua yang delapan pekan silam duduk di kursi baris belakang aula Caldrest tanpa diketahui siapa-siapa.
 
 Kali ini ia memperkenalkan dirinya dengan nama aslinya.
 
@@ -118,7 +118,7 @@ Di sudut ruangan ada kotak kayu kecil tanpa segel. Di dalamnya: dua belas gulung
 
 "Laporan tahunan jabatan ini kepada dirinya sendiri," kata Pembaca Tua. "Setiap pemegang jabatan menulis satu — bukan untuk arsip resmi, tapi untuk penerusnya, dibaca hanya saat serah terima. Empat generasi terakhir isinya sama: 'belum ditemukan, teruskan.'"
 
-Ia mengeluarkan gulungan terakhir — tulisannya sendiri, ditulis empat puluh tahun silang saat ia baru memegang jabatan:
+Ia mengeluarkan gulungan terakhir — tulisannya sendiri, ditulis empat puluh tahun silam saat ia baru memegang jabatan:
 
 *Pada pemegang berikutnya: aku umur dua puluh tiga saat menulis ini dan percaya aku akan menemukan jawaban perbedaan nomor lima dalam sepuluh tahun. Aku salah. Tapi aku baru mengerti sesuatu yang tidak diajarkan siapa padaku: jabatan diam ini bukan pekerjaan mencari jawaban. Ini pekerjaan menjaga pertanyaannya supaya tidak hilang — karena jawaban bisa salah, jawaban bisa dipalsukan, tapi pertanyaan yang benar tidak pernah usang.*
 
@@ -130,6 +130,6 @@ Sela membaca dua belas gulungan itu di bawah lampu minyak, satu per satu. Pertan
 
 "Aku tidak bisa menjawab semua," kata Sela pelan, menggulung kembali yang terakhir. "Sebagian sudah terjawab di Caldrest. Sebagian akan terjawab lewat proyek seribu jawaban. Yang soal pensiun..."
 
-Ia memandang laki-laki tua itu — pemegang diam terakhir, yang delapan pekan silang duduk di kursi baris belakang aula dan hampir keluar lewat pintu sebelum lorong anak-anak menahannya.
+Ia memandang laki-laki tua itu — pemegang diam terakhir, yang delapan pekan silam duduk di kursi baris belakang aula dan hampir keluar lewat pintu sebelum lorong anak-anak menahannya.
 
 "Pertanyaanmu yang terakhir sudah terjawab kemarin, Tuan. Kau pensiun tenang. Aku saksinya, dan arsipku tidak pernah salah."

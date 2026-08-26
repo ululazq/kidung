@@ -37,7 +37,7 @@ Murid termuda angkatan itu — laki-laki lima belas tahun, anak pedagang ikan pa
 
 Pertanyaan bagus. Jawabannya datang dari tempat yang tidak diduga murid mana pun: dari ibu Tamma, yang kebetulan lewat membawa keranjang sup dan tidak boleh kabur dari kelas.
 
-"Anak," katanya, berhenti di tengah jalan, "ibumu pernah masak sup yang enak? Enak banget? Lalu dia mati." Ia melanjutkan jalannya tanpa menoleh. "Supnya hilang?"
+"Anak," katanya, berhenti di tengah jalan, "ibumu pernah masak sup yang enak? Enak sekali? Lalu dia mati." Ia melanjutkan jalannya tanpa menoleh. "Supnya hilang?"
 
 "...Resepnya masih ada, Bu."
 
@@ -48,7 +48,7 @@ Kelas itu diam sampai Daven menutup sesi lebih awal, dan arsiparis Akademi menca
 
 Musim empat — mendengarkan diri sendiri — ternyata musim yang paling sedikit materinya dan paling banyak air matanya.
 
-Materinya cuma satu pertanyaan, yang harus dijawab setiap murid untuk dirinya sendiri, ditulis tanpa nama dan dibaca Gella (yang diminta menjadi pemeriksa karena "dokter sudah terbiasa membaca hal yang orang tak mau bilang"):
+Materinya hanya satu pertanyaan, yang harus dijawab setiap murid untuk dirinya sendiri, ditulis tanpa nama dan dibaca Gella (yang diminta menjadi pemeriksa karena "dokter sudah terbiasa membaca hal yang orang tak mau bilang"):
 
 *Kapan terakhir kali kau menyapa tubuhmu sendiri?*
 
@@ -86,7 +86,7 @@ Aturan ujiannya ditulis Sela dan disetujui Dewan:
 
 Tahun ujian itu sendiri menjadi cerita yang oleh angkatan-angkatan berikutnya diceritakan ulang sebagai leganda pendiri — terutama kasus murid nomor dua puluh dua.
 
-Murid bernama Pellia Muda (cucu Pellia pendengar pertama, dan sama-sama benci disebut "Muda") mendapat nat yang selama enam bulan tidak pernah menjawab apa pun. Bukan diam marah, bukan diam takut — nat itu cuma menikmati malam, kata tetangga-tetangganya. Menyanyi name train diterima dengan denyut sopan. Sup dibawa mingguan, dikonsumsi tanpa komentar.
+Murid bernama Pellia Muda (cucu Pellia pendengar pertama, dan sama-sama benci disebut "Muda") mendapat nat yang selama enam bulan tidak pernah menjawab apa pun. Bukan diam marah, bukan diam takut — nat itu hanya menikmati malam, kata tetangga-tetangganya. Menyanyi name train diterima dengan denyut sopan. Sup dibawa mingguan, dikonsumsi tanpa komentar.
 
 Delapan bulan, nol jawaban.
 
@@ -115,7 +115,7 @@ Kedua murid itu tetap naik panggung. Tetap menerima sertifikat. Tetap diberi tep
 
 ---
 
-Sorenya, setelah tamu-tamu pulang, Ashvarok-Renn dan Sela duduk di halaman sekolah yang kosong — di bangku batu tempat dulu, delapan tahun silang, seorang gadis sebelas tahun pertama kali mendengar bahwa kakaknya bisa "membaca retakan".
+Sorenya, setelah tamu-tamu pulang, Ashvarok-Renn dan Sela duduk di halaman sekolah yang kosong — di bangku batu tempat dulu, delapan tahun silam, seorang gadis sebelas tahun pertama kali mendengar bahwa kakaknya bisa "membaca retakan".
 
 "Delapan tahun," kata Sela. "Dari barak sewaan jadi sekolah dengan kurikulum empat musim."
 

@@ -17,13 +17,13 @@ Wawancara dimulai pekan itu. Barim mewawancarai para penjaga malam tua di lima k
 
 "Ya sudah," kata penjaga tua itu, dan suaranya pecah pada kata kedua. "Boleh juga."
 
-Di kota ketiga, temuan itu berbentuk orang: seorang nenek penjual sayur yang — setelah tiga jam percakapan yang baru perlahan-lahan mengakui — terbukti pendengar alami yang tidak pernah tahu istilahnya. Selama enam puluh tahun ia "obrolin batu-batu pasar biar tidak kesepian", dan batu-batu itu, kata neneknya, "paling nurut sama aku dibanding juragan mana pun". Barim pulang dari wawancara itu dalam keadaan hampir tidak bisa bicara, dan laporannya kepada Sela hanya satu kalimat: "Daftar kita kurang. Pendengar alami itu bukan empat generasi. Mereka tiap generasi ada, hanya tidak pernah dipanggil dengan namanya."
+Di kota ketiga, temuan itu berbentuk orang: seorang nenek penjual sayur yang — setelah tiga jam percakapan yang baru perlahan-lahan mengakui — terbukti pendengar alami yang tidak pernah tahu istilahnya. Selama enam puluh tahun ia "obrolin batu-batu pasar agar tidak kesepian", dan batu-batu itu, kata neneknya, "paling nurut sama aku dibanding juragan mana pun". Barim pulang dari wawancara itu dalam keadaan hampir tidak bisa bicara, dan laporannya kepada Sela hanya satu kalimat: "Daftar kita kurang. Pendengar alami itu bukan empat generasi. Mereka tiap generasi ada, hanya tidak pernah dipanggil dengan namanya."
 
 Sela langsung membuka halaman arsip baru di atas peta nat: DAFTAR PENDENGAR YANG BELUM DIPANGGIL. Entri pertamanya adalah nenek penjual sayur dari kota ketiga.
 
 Pak Dekan meninggalkan catatan yang dibaca Sela — arsip pribadi sang guru yang masih terus membuka jalan meski pemiliknya sudah tiada: daftar sembilan nat Caldrest yang "dulu sering disapa", lengkap dengan jam-jam ketika masing-masing "paling ramai". Termasuk dua yang letaknya mengejutkan semua orang: satu di bawah pasar distrik tengah, satu di dasar sumur klinik.
 
-"Nat di bawah sumur klinik," kata dokter tambang, membaca ulang entri itu. "Tiga puluh tahun aku bekerja di klinik itu. Setiap pasien yang hampir tidak tertolak selalu bilang hal yang sama saat sadar: 'aku mimpi didiamin sesuatu yang hangat.'" Ia meletakkan kopinya. "Aku tulis di laporan sebagai efek obat biar aman dari Choir."
+"Nat di bawah sumur klinik," kata dokter tambang, membaca ulang entri itu. "Tiga puluh tahun aku bekerja di klinik itu. Setiap pasien yang hampir tidak tertolak selalu bilang hal yang sama saat sadar: 'aku mimpi didiamin sesuatu yang hangat.'" Ia meletakkan kopinya. "Aku tulis di laporan sebagai efek obat agar aman dari Choir."
 
 "Sekarang bisa ditulis ulang," kata Sela, "sebagai fakta arsip."
 

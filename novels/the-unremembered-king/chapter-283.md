@@ -73,7 +73,7 @@ Dan pada bulan kesembilan, tanpa diumumkan siapa pun, ia memanggil Gella.
 
 Gella datang dengan protokol penuh — sapa, terima kasih, kabar, cerita dulu sebelum sentuh. Dan ketika semuanya selesai, perempuan muda itu berkata kalimat yang oleh Sela dicatat kata demi kata:
 
-"Aku pikir marah pada tubuhku akan membuatku bebas dari dia. Ternyata delapan bulan dia didiamkan... aku cuma pindah ke penjara lain." Ia memandang tangannya sendiri. "Dia menyeret aku delapan tahun juga, tahu? Dia yang menyimpan napas waktu semua orang menyerah. Aku lupa itu."
+"Aku pikir marah pada tubuhku akan membuatku bebas dari dia. Ternyata delapan bulan dia didiamkan... aku hanya pindah ke penjara lain." Ia memandang tangannya sendiri. "Dia menyeret aku delapan tahun juga, tahu? Dia yang menyimpan napas waktu semua orang menyerah. Aku lupa itu."
 
 Pasal hak menolak tetap ada di buku medis — permanen.
 
@@ -123,7 +123,7 @@ Dan satu entri penutup untuk bab hari ini — dari Ashvarok-Renn, yang malam itu
 
 *Kasus perempuan barat mengingatkanku: setiap hak menolak harus dilindungi, supaya setiap ya yang datang kemudian benar-benar milik orangnya.*
 
-*Ya-ku sudah diberikan bertahun-tahun silang. Dan aku masih bersyukur dunia tidak pernah sekali pun memaksaku.*
+*Ya-ku sudah diberikan bertahun-tahun silam. Dan aku masih bersyukur dunia tidak pernah sekali pun memaksaku.*
 ---
 
 Bulan-bulan berikutnya membawa penyebaran pasal baru itu ke tempat-tempat yang semakin jauh dari asalnya — dan setiap perjalanan mengubah sedikit bentuknya, seperti semua aturan baik yang berpindah tangan.

@@ -41,7 +41,7 @@ Ashvarok-Renn tidak langsung menjawab. Di dalam tubuh bersama itu, Renn bergerak
 
 "Jawabannya iya. Tapi bukan aku yang menulisnya. Dan bukan Kak Ashvarok juga." Renn tersenyum kecil. "Cerita tentang raja abu-abu harus ditulis orang-orang yang mencintainya. Kalau ditulis dirinya sendiri, itu bukan cerita, itu pembelaan. Pembelaan tidak pernah bisa disimpan nat."
 
-Sela mencatat kalimat itu kata demi kata. Delapan belas tahun silang, gadis ini mulai belajar mendengarkan kalimat yang layak masuk arsip permanen, dan kalimat Renn hari ini masuk daftar sepuluh besar.
+Sela mencatat kalimat itu kata demi kata. Delapan belas tahun silam, gadis ini mulai belajar mendengarkan kalimat yang layak masuk arsip permanen, dan kalimat Renn hari ini masuk daftar sepuluh besar.
 
 "Lalu siapa yang menulis?" tanyanya.
 
@@ -123,7 +123,7 @@ Satu catatan penutup untuk bab hari ini, dicatat oleh Sela di arsip perjalanan d
 
 *Pertama: dunia mulai bertanya tentang raja abu-abu, dan pertanyaan pertamanya datang dari anak-anak yang belum pernah melihat wajahnya. Ini bukan kebetulan. Anak-anak selalu bertanya lebih dulu soal orang yang paling lama tidak boleh bicara.*
 
-*Kedua: Kak Ashvarok menulis surat hari ini tanpa menghapus satu kata pun. Delapan bulan silang ia masih menghapus setengah dari apa pun yang ditulisnya. Hari ini nol penghapusan.*
+*Kedua: Kak Ashvarok menulis surat hari ini tanpa menghapus satu kata pun. Delapan bulan silam ia masih menghapus setengah dari apa pun yang ditulisnya. Hari ini nol penghapusan.*
 
 *Renn berkata itu karena mereka sudah mulai menulis bersama. Aku pikir alasannya lebih sederhana: untuk pertama kalinya, dia menulis untuk pembaca yang belum memutuskan apa pun tentang dirinya.*
 

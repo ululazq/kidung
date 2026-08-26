@@ -115,7 +115,7 @@ Nat kembali ke gunung dengan laut di hati. Manusia pulih dengan sahabat baru di 
 
 Tidak ada yang pernah kembali dari perjalanan pertama melihat dunia... tanpa membawa sesuatu yang mengubah semua orang di rumah."
 
-Ia mencuci mangkuk-mangkuknya di air laut (kata dia "biar nat itu dengar suara pekerjaan juga").
+Ia mencuci mangkuk-mangkuknya di air laut (kata dia "agar nat itu dengar suara pekerjaan juga").
 
 "Besok kita antar dia pulang ke gunungnya. Lalu kita semua pulang ke rumah.
 
@@ -125,7 +125,7 @@ Dan hidup berlanjut — seperti biasa, seperti selalu."
 
 Dan satu baris terakhir dari Ashvarok-Renn — di tepi laut, sebelum tidur:
 
-"Delapan bulan silang aku pikir kasus kami satu-satunya di dunia.
+"Delapan bulan silam aku pikir kasus kami satu-satunya di dunia.
 
 Hari ini kami bertemu yang kedua. Dan kami tahu: tidak akan jadi yang terakhir.
 

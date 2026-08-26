@@ -108,7 +108,7 @@ Dan resep bisa diajarkan."
 
 Dan satu baris dari Ashvarok-Renn — yang membaca semuanya dan menutup:
 
-"Delapan bulan silang kami pikir ibu Tamma adalah kepala dapur.
+"Delapan bulan silam kami pikir ibu Tamma adalah kepala dapur.
 
 Tahun ini kami sadar: dia adalah guru yang mengajar dengan sup.
 

@@ -7,7 +7,7 @@ Ada satu tanggal yang oleh Sela dicatat di arsip dengan tinta merah — satu-sat
 
 Hari 34. Tanggal pertama kali seorang bocah tambang lima belas tahun bertanya kepada gadis sebelas tahun: "Kamu mau jadi adikku?"
 
-Delapan bulan silang, tanggal itu tidak pernah dirayakan. Ada pekerjaan besar, ada dunia yang harus dijaga, dan siapa pun bisa memaklumat bahwa perayaan keluarga kecil kalah urgensinya.
+Delapan bulan silam, tanggal itu tidak pernah dirayakan. Ada pekerjaan besar, ada dunia yang harus dijaga, dan siapa pun bisa memaklumat bahwa perayaan keluarga kecil kalah urgensinya.
 
 Tahun ini tidak.
 

@@ -61,7 +61,7 @@ Ketika ditanya kenapa, jawabannya membuat delegasi Caldrest ikut terdiam:
 
 ---
 
-Ashvarok duduk di sebelah utusan tua itu. Tidak bicara dulu — pelajaran dari Sekolah Mendengar: biar orang selesai sendiri.
+Ashvarok duduk di sebelah utusan tua itu. Tidak bicara dulu — pelajaran dari Sekolah Mendengar: agar orang selesai sendiri.
 
 Setelah lama, utusan itu melanjutkan:
 
@@ -213,7 +213,7 @@ Sup membuat mereka tahu."
 
 Dan satu kalimat penutup dari Ashvarok-Renn:
 
-"Delapan bulan silang, dunia datang ke kami karena butuh diselamatkan.
+"Delapan bulan silam, dunia datang ke kami karena butuh diselamatkan.
 
 Tahun ini, dunia datang ke kami karena mau belajar menyapa.
 

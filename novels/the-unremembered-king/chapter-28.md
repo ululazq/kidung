@@ -63,7 +63,7 @@ Wajah bocah itu tidak berubah, dan justru itu konfirmasi terakhir yang ia butuhk
 
 "Aku tidak tahu maksud Assayer."
 
-"Tidak tahu," setuju Maera. "Tapi biar aku ceritakan apa yang tidak kutulis, supaya kita sama-sama hafal. Ada orang di tambang ini yang bisa membuat kayu ingat masa mudanya. Orang yang sama menutup lubang yang membunuh nama. Orang yang sama yang tulang-seamnya berumur lebih tua dari kota ini. Empat kejadian, satu tangan." Ia menundukkan suaranya satu tingkat lagi. "Orang-orang berjubah sedang mencari tangan itu. Pengawas lisensimu juga. Bedanya, jubah abu ingin tangan itu untuk dipamerkan, dan Tharrow ingin tangan itu untuk disalahkan. Aku satu-satunya orang yang tahu dan tidak ingin apa-apa."
+"Tidak tahu," setuju Maera. "Tapi agar aku ceritakan apa yang tidak kutulis, supaya kita sama-sama hafal. Ada orang di tambang ini yang bisa membuat kayu ingat masa mudanya. Orang yang sama menutup lubang yang membunuh nama. Orang yang sama yang tulang-seamnya berumur lebih tua dari kota ini. Empat kejadian, satu tangan." Ia menundukkan suaranya satu tingkat lagi. "Orang-orang berjubah sedang mencari tangan itu. Pengawas lisensimu juga. Bedanya, jubah abu ingin tangan itu untuk dipamerkan, dan Tharrow ingin tangan itu untuk disalahkan. Aku satu-satunya orang yang tahu dan tidak ingin apa-apa."
 
 "Mungkin orang itu hanya mau diam."
 

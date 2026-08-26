@@ -39,7 +39,7 @@ Sisa-sisanya sedikit. Regu lama lelaki itu sudah bubar bertahun-tahun; dua menin
 
 Delapan tahun menjaga galeri bantu malam-malam. Itu semua yang dunia punya darinya.
 
-Sela mengumpulkan potongan-potongan itu di papannya seperti mengumpulkan pecahan piring pusaka: nyanyian pelan saat menunggu troli. Luka bakar dingin di kedua tangan. Delapan tahun shift malam galeri bantu. Dan satu lagi yang datang paling akhir dari ibu Tamma, yang mendengar dari neneknya yang sudah tua: cerita bahwa dulu ada seorang penjaga malam di tambang yang selalu mengetuk nat tiga kali setiap melewati persimpangan gelap — "biar roh-roh kecil tahu ada manusia lewat, jangan kaget" — dan anak-anak zaman itu mengenal bunyi ketukannya lebih baik daripada wajahnya karena ia selalu lewat saat mereka tidur.
+Sela mengumpulkan potongan-potongan itu di papannya seperti mengumpulkan pecahan piring pusaka: nyanyian pelan saat menunggu troli. Luka bakar dingin di kedua tangan. Delapan tahun shift malam galeri bantu. Dan satu lagi yang datang paling akhir dari ibu Tamma, yang mendengar dari neneknya yang sudah tua: cerita bahwa dulu ada seorang penjaga malam di tambang yang selalu mengetuk nat tiga kali setiap melewati persimpangan gelap — "agar roh-roh kecil tahu ada manusia lewat, jangan kaget" — dan anak-anak zaman itu mengenal bunyi ketukannya lebih baik daripada wajahnya karena ia selalu lewat saat mereka tidur.
 
 Ketukan tiga kali. Ashvarok membaca catatan itu dan merasakan dingin bukan dari the Remainder: pola yang sama dengan ketukan-ketukan yang telah menolong mereka berkali-kali — sapuan kedalaman yang belakangan ini berhenti di batu asah, mengetuk, pamit dua kali.
 

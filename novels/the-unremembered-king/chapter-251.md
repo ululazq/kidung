@@ -81,7 +81,7 @@ Ashvarok-Renn duduk sendirian setelah semua pulang, dan nat aula mengirim irama 
 
 Kovan (yang juga belum pulang — kebiasaan penghitung) menerjemahkannya perlahan:
 
-"Dia bilang... setahun silang, aula ini dipenuhi orang yang mencari jawaban soal kedalaman. Sekarang aula ini dipenuhi orang dari sembilan wilayah yang belajar mendengarkan." Irama berikutnya lebih hangat. "DIA BILANG: AKU NAT AULA. DULU AKU CUMA TEMPAT RAPAT. SEKARANG AKU SEKOLAH."
+"Dia bilang... setahun silam, aula ini dipenuhi orang yang mencari jawaban soal kedalaman. Sekarang aula ini dipenuhi orang dari sembilan wilayah yang belajar mendengarkan." Irama berikutnya lebih hangat. "DIA BILANG: AKU NAT AULA. DULU AKU CUMA TEMPAT RAPAT. SEKARANG AKU SEKOLAH."
 
 Ashvarok menatap nat tua itu lama.
 
@@ -180,7 +180,7 @@ Selamat belajar.
 
 Dan satu tambahan terakhir — dari Ashvarok, untuk menutup bab:
 
-"Catatan pribadi: delapan bulan silang, saat aku pertama kali masuk ke tubuh ini, aku pikir aku yang akan mengajari dunia.
+"Catatan pribadi: delapan bulan silam, saat aku pertama kali masuk ke tubuh ini, aku pikir aku yang akan mengajari dunia.
 
 Tahun ini murid-muridku mengajariku: dunia tidak butuh guru yang datang dari atas.
 

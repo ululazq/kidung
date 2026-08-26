@@ -51,7 +51,7 @@ Kali ini bukan membawa surat. Ia membawa balasan dari biara barat — tulisan ta
 
 *Dan satu permintaan terakhir dari orang yang sudah tidak punya jabatan untuk memintanya:*
 
-*Kalau suatu hari aku meninggal — dan umurku sudah jauh melewati janji dengan siapa pun — jangan kuburkan aku di tanah biara. Kirim kabar ke nat lereng barat yang paling tua. Dia tahu tempatnya. Aku sudah memesannya delapan tahun silang: sebuah batu kecil di dataran tinggi Vhal-Duren, menghadap timur, dekat sahabat lamaku yang bundar dan sabar.*
+*Kalau suatu hari aku meninggal — dan umurku sudah jauh melewati janji dengan siapa pun — jangan kuburkan aku di tanah biara. Kirim kabar ke nat lereng barat yang paling tua. Dia tahu tempatnya. Aku sudah memesannya delapan tahun silam: sebuah batu kecil di dataran tinggi Vhal-Duren, menghadap timur, dekat sahabat lamaku yang bundar dan sabar.*
 
 *Aku mau didengarkan juga, kalian tahu. Semua penjaga diam pada akhirnya hanya ingin itu.*
 
@@ -64,7 +64,7 @@ Gulungan demi gulungan disalin, diterjemahkan dari kode birokrasi era lama ke ba
 
 Halaman-halaman itu ada. Sela sudah membacanya sendirian pada malam-malam penyalinan, dan beberapa kali harus berhenti, keluar ke lorong, bernapas, lalu kembali.
 
-Yang paling berat ternyata bukan dokumen penyiksaan atau penindasan — itu sudah diduga dunia dan sudah setengah diketahui. Yang paling berat adalah dokumen-dokumen KECIL. Catatan biaya makan tahanan bidah yang oleh seorang petugas diam-diam dibuat lebih besar agar mereka tidak lapar. Daftar nama orang-orang yang "dibebaskan malam hari" — kata halus untuk dieksekusi diam-diam — ditulis oleh seorang juru tulis yang menyelipkan doa kecil di margin tiap nama. Dan satu lembar tunggal, bertanggal seribu tahun silang, isinya hanya satu kalimat dari seorang Pembaca Tua generasi pertama:
+Yang paling berat ternyata bukan dokumen penyiksaan atau penindasan — itu sudah diduga dunia dan sudah setengah diketahui. Yang paling berat adalah dokumen-dokumen KECIL. Catatan biaya makan tahanan bidah yang oleh seorang petugas diam-diam dibuat lebih besar agar mereka tidak lapar. Daftar nama orang-orang yang "dibebaskan malam hari" — kata halus untuk dieksekusi diam-diam — ditulis oleh seorang juru tulis yang menyelipkan doa kecil di margin tiap nama. Dan satu lembar tunggal, bertanggal seribu tahun silam, isinya hanya satu kalimat dari seorang Pembaca Tua generasi pertama:
 
 *Hari ini aku memalsukan klasifikasi untuk menyelamatkan satu keluarga. Aku jabatan pertama yang berbohong. Semoga yang datang sesudahku lebih berani.*
 

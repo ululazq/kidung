@@ -27,7 +27,7 @@ Ashvarok-Renn menganggukkan kepala sekali.
 
 Bagian kedua: lagu utuh.
 
-Ia dimainkan oleh kedalaman bersama seam saksi lewat jalur tanah — tujuh penjaga malam Karvess bersahutan, dari nat-nat aula sampai nat lorong barak utara, dan lagu satu malam seribu tahun silang mengalun lagi di dunia yang akhirnya siap mendengarnya.
+Ia dimainkan oleh kedalaman bersama seam saksi lewat jalur tanah — tujuh penjaga malam Karvess bersahutan, dari nat-nat aula sampai nat lorong barak utara, dan lagu satu malam seribu tahun silam mengalun lagi di dunia yang akhirnya siap mendengarnya.
 
 Aula itu gelap kecuali tenunan Lompa dan kain Vel-Morra yang digantung melingkari dinding, keduanya memancarkan aksara tenun yang bisa dibaca siapa pun yang duduk di mana pun: seluruh lagu, ditenun, agar pendengaran punya teman.
 
@@ -100,7 +100,7 @@ Jeda. Anak itu mengangkat wajahnya, mencari satu orang di sudut dapur.
 
 Ashvarok-Renn bangkit dari kursi sudut dapur.
 
-Menaiki podium pembaca pelan. Berdiri di sana tanpa kertas, tanpa catatan, karena kalimat itu tidak pernah tertulis di mana pun selain dalam lagu — dan ia adalah penulisnya, sepuluh abad silang, pada malam ketika lima sahabatnya turun untuk terakhir kali dan dia tinggal menjadi segel.
+Menaiki podium pembaca pelan. Berdiri di sana tanpa kertas, tanpa catatan, karena kalimat itu tidak pernah tertulis di mana pun selain dalam lagu — dan ia adalah penulisnya, sepuluh abad silam, pada malam ketika lima sahabatnya turun untuk terakhir kali dan dia tinggal menjadi segel.
 
 Aula menahan napasnya.
 

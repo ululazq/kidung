@@ -37,7 +37,7 @@ Ia meletakkan salinan di bangku. Menunggu lelaki tua itu membaca.
 
 Barim membaca lama. Dua kali. Ketiga kalinya ia berhenti di kalimat "subjek diklasifikasi ulang sebagai terpapar bidah", dan Ashvarok melihat sesuatu bekerja di balik wajah tua itu — bukan kemarahan, yang lebih dalam: pemahaman.
 
-"Jadi begitu ceritanya," kata Barim akhirnya. "Aku pikir aku hanya kebetulan selamat." Ia meletakkan kertas itu, meratakannya dengan telapak tangan seperti meratakan adonan. "Ternyata mereka TAHU aku bisa bicara sama dia. Tahu dan pilih diam, biar nanti bilang 'lihat, bidah membuat orang hilang'." Jeda. "Delapan belas tahun aku jadi alat bukti untuk doktrin takut, dan tidak ada satu orang pun yang bilang."
+"Jadi begitu ceritanya," kata Barim akhirnya. "Aku pikir aku hanya kebetulan selamat." Ia meletakkan kertas itu, meratakannya dengan telapak tangan seperti meratakan adonan. "Ternyata mereka TAHU aku bisa bicara sama dia. Tahu dan pilih diam, agar nanti bilang 'lihat, bidah membuat orang hilang'." Jeda. "Delapan belas tahun aku jadi alat bukti untuk doktrin takut, dan tidak ada satu orang pun yang bilang."
 
 "Aku tidak akan minta kamu maafkan Choir," kata Ashvarok. "Itu bukan hakku."
 

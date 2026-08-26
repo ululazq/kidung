@@ -31,7 +31,7 @@ Aula tertawa. Lalu hening untuk bagian terakhir.
 
 Ashvarok melangkah maju. Renn bersiap di dalam — kesepakatan mereka: bagian terakhir dibacakan BERSAMA.
 
-"Empat ratus jiwa dipulangkan. Empat puluh sembilan anak lahir. Dua sekolah berdiri. Tiga generasi nat saling menjaga. Satu dunia yang setahun silang tidak tahu Caldrest ada... sekarang mengirim anak-anaknya untuk belajar menyapa."
+"Empat ratus jiwa dipulangkan. Empat puluh sembilan anak lahir. Dua sekolah berdiri. Tiga generasi nat saling menjaga. Satu dunia yang setahun silam tidak tahu Caldrest ada... sekarang mengirim anak-anaknya untuk belajar menyapa."
 
 Irama nat aula menghangat.
 
@@ -207,7 +207,7 @@ irama name train versi pagi.
 
 Yang artinya: "selamat pagi, semua. Kami masih di sini. Dan hari ini kami akan mendengarkan kalian lagi."
 
-Delapan bulan silang, itu adalah hal yang Renn butuhkan paling banyak.
+Delapan bulan silam, itu adalah hal yang Renn butuhkan paling banyak.
 
 Sekarang... itu milik semua anak di Karvess.
 
@@ -221,7 +221,7 @@ Ashvarok-Renn dan ibu Tamma duduk bersama sarapan. Tiga orang (empat jiwa). Sup 
 
 Dan Ashvarok berkata — kalimat penutup dua tahun era menyapa:
 
-"Bu. Dua tahun silang kita mulai dari pertanyaan 'ada siapa di sana?'."
+"Bu. Dua tahun silam kita mulai dari pertanyaan 'ada siapa di sana?'."
 
 Ibu Tamma mengangguk.
 
@@ -258,7 +258,7 @@ menjadi penutup resmi dua tahun era menyapa:
 
 Dan di bawahnya — satu baris dari Renn, yang menutup jurnal pribadinya:
 
-"Delapan bulan silang aku pikir ceritaku berakhir di lorong tambang.
+"Delapan bulan silam aku pikir ceritaku berakhir di lorong tambang.
 
 Ternyata itu hanya halaman pertama."
 

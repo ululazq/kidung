@@ -39,7 +39,7 @@ Dari hari itu, kerja pagi Ashvarok berubah: bukan lagi menyapa, melainkan MEMERI
 
 Mereka menemukan tiga retakan mikro yang terlewat semua pemeriksaan sebelumnya. Ketiganya ditambal dalam seminggu.
 
-Brannoc menangis di lorong sembilan ketika diberi laporannya. "Delapan bulan silang aku pikir anak ini hanya bisa dijaga," katanya. "Ternyata dia balik bukan untuk dijaga — dia balik buat ikut menjaga."
+Brannoc menangis di lorong sembilan ketika diberi laporannya. "Delapan bulan silam aku pikir anak ini hanya bisa dijaga," katanya. "Ternyata dia balik bukan untuk dijaga — dia balik buat ikut menjaga."
 
 ---
 
@@ -53,7 +53,7 @@ Rapat kecil diselesaikan Ashvarok-Renn dengan satu kalimat bersama (suara bergan
 
 "Daftarkan dua nama, satu bangku. Kami berbagi."
 
-Dan begitulah Sekolah Mendengar mendapat murid pertamanya dengan dua identitas: Renn-Ashvarok, kelas sore, kursi ganda yang digabung dari dua bangku (permintaan Renn; "biar kelihatan kami dua orang, bukan satu orang gila ngomong sendiri").
+Dan begitulah Sekolah Mendengar mendapat murid pertamanya dengan dua identitas: Renn-Ashvarok, kelas sore, kursi ganda yang digabung dari dua bangku (permintaan Renn; "agar kelihatan kami dua orang, bukan satu orang gila ngomong sendiri").
 
 Daven menjadi kakak kelaskannya. Lompa sesekali mengajari menenun ("anak tungku harus punya kerja tangan"). Dan setiap kali guru bertanya sesuatu yang sulit...
 
@@ -105,7 +105,7 @@ Neraca penutup bab — ditulis bergantian dua tangan, satu halaman:
 
 Hari 861 (Ashvarok): Pekan ketiga hidup berdua. Tidak ada lagi pertanyaan 'siapa yang seharusnya ada di sini'. Pertanyaannya berubah: apa yang mau kita lakukan hari ini?
 
-Hari 861 (Renn): Delapan bulan silang aku dengar dunia dari kamar paling dalam. Sekarang aku duduk di meja depan. Dan tahu apa? Dunia itu lebih baik dilihat dari meja depan — walaupun harus bagi-bagi mata.
+Hari 861 (Renn): Delapan bulan silam aku dengar dunia dari kamar paling dalam. Sekarang aku duduk di meja depan. Dan tahu apa? Dunia itu lebih baik dilihat dari meja depan — walaupun harus bagi-bagi mata.
 
 Kovan (margin): Data resmi: populasi tubuh Renn = 2. Status: stabil, bahagia, dan menurut ibu Tamma "dua-duanya sama-sama keras kepala".
 
@@ -117,7 +117,7 @@ Malam itu, sebelum tidur, Ashvarok dan Renn bicara pelan di dalam. Percakapan pr
 
 Kecuali... nat lorong menangkap potongan terakhirnya, dan meneruskannya kepada Sela subuhnya (karena "sepertinya penting untuk arsip"):
 
-Ashvarok: "Renn. Seribu tahun silang aku pikir aku dikutuk untuk mengingat segalanya sendirian."
+Ashvarok: "Renn. Seribu tahun silam aku pikir aku dikutuk untuk mengingat segalanya sendirian."
 
 Renn: "Sekarang?"
 
@@ -161,7 +161,7 @@ Pekan berikutnya membawa rutinitas yang semakin dalam: Renn mulai belajar menuli
 
 "Delapan bulan aku dengar dunia. Empat pekan ini aku lihat dunia. Bedanya besar.
 
-Yang paling kusukakan: hujan. Delapan bulan silang aku hanya dengar cerita soal hujan dari nat lorong. Kemarin aku keluar dan hujan jatuh ke wajahku sendiri. Dingin. Sedikit nyeri. Enak sekali.
+Yang paling kusukakan: hujan. Delapan bulan silam aku hanya dengar cerita soal hujan dari nat lorong. Kemarin aku keluar dan hujan jatuh ke wajahku sendiri. Dingin. Sedikit nyeri. Enak sekali.
 
 Aku bilang ke Ash, 'hujan enak sekali.'
 

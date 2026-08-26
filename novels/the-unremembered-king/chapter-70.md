@@ -29,7 +29,7 @@ Dan waktunya tidak salah sedikit pun. Jawaban Spire baru turun. Panen resmi butu
 
 "Dia pilih kamu," kata Ashvarok, "karena kamu satu-satunya di kota ini yang orang-orang percaya lebih daripada kertas."
 
-"Percaya itu persediaan," kata Brannoc. "Bisa habis kalau dipakai untuk hal yang salah. Karena itu aku bawa ini ke rapat — biar persediaanku dicoba di depan pemiliknya, bukan dijual di belakangnya."
+"Percaya itu persediaan," kata Brannoc. "Bisa habis kalau dipakai untuk hal yang salah. Karena itu aku bawa ini ke rapat — agar persediaanku dicoba di depan pemiliknya, bukan dijual di belakangnya."
 
 "Besok malam ada rapat barak," kata Brannoc, menyelipkan surat itu kembali ke jaket. "Rapat rutin, soal jadwal antrean santunan dan name-roll blok timur. Aku bawa ini ke sana."
 

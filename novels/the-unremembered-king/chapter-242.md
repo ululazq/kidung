@@ -199,7 +199,7 @@ Dan satu hal terakhir — pertanyaan yang diajukan ibu Tamma kepada Ashvarok di 
 
 Ashvarok mengaduk sup tanpa menjawab dulu.
 
-"Delapan bulan silang aku takut dia marah padaku, Bu. Sekarang aku sadar ada ketakutan yang lebih besar: dia bangun sebagai Renn yang sama seperti dulu — dan aku tetap Ashvarok yang berbeda dari yang ia butuhkan." Ia mencicipi sup. "Tapi jawabanku tetap sama: siap."
+"Delapan bulan silam aku takut dia marah padaku, Bu. Sekarang aku sadar ada ketakutan yang lebih besar: dia bangun sebagai Renn yang sama seperti dulu — dan aku tetap Ashvarok yang berbeda dari yang ia butuhkan." Ia mencicipi sup. "Tapi jawabanku tetap sama: siap."
 
 "Kenapa?"
 

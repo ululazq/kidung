@@ -107,7 +107,7 @@ Semua orang. Dari seluruh Karvess.
 
 Surat-surat masuk ke Kantor Penghubung dari lembah-lembah yang belum tersentuh proyek, dari armada utara, bahkan dari keluarga perkebunan Timur — semua bilang hal yang sama:
 
-"Kalau dia tidak punya siapa-siapa yang ingat... biar kami yang mulai mengingat."
+"Kalau dia tidak punya siapa-siapa yang ingat... agar kami yang mulai mengingat."
 
 Delapan bulan silam kita meminta dunia menyelamatkan kedalaman. Sekarang dunia berebut menjadi keluarga bagi orang asing yang tidak punya apa-apa.
 

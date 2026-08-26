@@ -59,7 +59,7 @@ Ashvarok berlutut agar sejajar. Meletakkan satu telapak di nat untuk jangkauan. 
 
 Dunia tidak berguntur. Tidak ada gema ajaib. Yang terjadi lebih kecil dan jauh lebih besar: lelaki tua itu mengulanginya — "Barim" — sekali, dua kali, tiga kali, merasakannya di mulutnya sendiri seperti orang mencoba kembali rumah lamanya dengan kunci yang baru ditemukan lagi di bawah pot bunga.
 
-Lalu ia menangis. Dan menertawakan dirinya karena menangis. Dan bertanya apakah Barim itu nama yang bagus dulu — "katakan jujur, kalau jelek biar aku mencari nama lain" — dan Ashvarok menjawab bahwa Barim adalah nama yang disebut nyanyian troli dan ketukan tiga kali selama delapan tahun shift malam, sehingga mustahil tidak bagus.
+Lalu ia menangis. Dan menertawakan dirinya karena menangis. Dan bertanya apakah Barim itu nama yang bagus dulu — "katakan jujur, kalau jelek agar aku mencari nama lain" — dan Ashvarok menjawab bahwa Barim adalah nama yang disebut nyanyian troli dan ketukan tiga kali selama delapan tahun shift malam, sehingga mustahil tidak bagus.
 
 "Pak Barim," kata Ashvarok kemudian, bangkit, menawarkan tangannya. "Selamat pulang. Delapan belas tahun. Dunia menunggu Anda dengan banyak cerita."
 

@@ -25,7 +25,7 @@ Yang tersisa hanya satu jenis tembok: diam. Bukan diam tidak bekerja — tapi di
 
 Rapat pagi itu di gudang perkakas berlangsung tanpa lilin yang cukup dan tanpa optimisme yang murahan.
 
-"Jadi biar aku pastikan aku dengar benar," kata Brannoc di akhir penjelasan Ashvarok. "Selama ini tiap kamu turun, kamu dua-duanya saling membaca. Kamu membaca dia buat menjaga kita. Dia membaca kamu buat... belajar."
+"Jadi agar aku pastikan aku dengar benar," kata Brannoc di akhir penjelasan Ashvarok. "Selama ini tiap kamu turun, kamu dua-duanya saling membaca. Kamu membaca dia buat menjaga kita. Dia membaca kamu buat... belajar."
 
 "Ya."
 

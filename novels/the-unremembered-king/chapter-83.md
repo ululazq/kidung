@@ -57,7 +57,7 @@ Keputusan, ketika akhirnya dibacakan, dibacakan Hale dengan suara yang ia jaga t
 
 Tidak ada yang bersorak saat ruangan bubar, karena hasilnya bukan kemenangan siapa pun. Tapi Ossian, yang keluar lewat pintu samping sesuai rencana, mendengar di punggungnya bunyi yang lebih mahal daripada sorakan — empat ratus orang bangkit serempak dengan tenang, meliputi barang masing-masing, dan mulai mengatur ulang jadwal shift mereka di gang seperti orang yang baru diberi sepuluh hari dan berniat memakai semuanya sampai habis.
 
-Di kamarnya, sebelum tengah hari, ia membuka buku pribadinya di halaman kotak-kotak kosong dan menulis di bawah barisan silang yang kesembilan belas:
+Di kamarnya, sebelum tengah hari, ia membuka buku pribadinya di halaman kotak-kotak kosong dan menulis di bawah barisan silam yang kesembilan belas:
 
 Sepuluh hari dibeli dua pihak dengan harga yang sama — waktu. Mereka butuh waktu karena ada barang yang sedang mereka buat. Barang itu bukan surat wasiat keluarga — keluarga tidak menulis margin berpasal. Barang itu sedang dibuat oleh tangan terlatih, dengan umur yang benar, dan akan "ditemukan" pada hari yang dramatis. Pertanyaannya bukan lagi apa barangnya. Pertanyaannya — siapa penempanya — dan apakah penempa itu orang yang sama yang masih belum menyebut angkanya kepadaku.
 

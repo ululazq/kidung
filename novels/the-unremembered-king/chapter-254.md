@@ -13,7 +13,7 @@ Surat penerimaan datang dari Akademi Arsip Tinggi Spire — dan oleh Ossian diba
 
 Aula hening.
 
-Lalu seluruh Sekolah Mendengar berdiri bertepuk tangan — dan Sela, gadis dua belas tahun yang delapan bulan silang hanya adik angkat bocah tambang, menangis di tempatnya.
+Lalu seluruh Sekolah Mendengar berdiri bertepuk tangan — dan Sela, gadis dua belas tahun yang delapan bulan silam hanya adik angkat bocah tambang, menangis di tempatnya.
 
 ---
 
@@ -43,7 +43,7 @@ Sela berdiri di gerbang Caldrest dengan satu tas, satu kotak arsip pribadi, dan 
 
 Ashvarok-Renn menemaninya sampai batas kota — sesuai kesepakatan: "sampai sini saja, sisanya jalanmu sendiri".
 
-Dan di titik itu, Sela berbalik. Menatap dua kakaknya (satu tubuh). Menatap nat lorong yang terlihat jauh di belakang. Menatap seluruh kota yang delapan bulan silang masih kacau dan sekarang punya dua sekolah.
+Dan di titik itu, Sela berbalik. Menatap dua kakaknya (satu tubuh). Menatap nat lorong yang terlihat jauh di belakang. Menatap seluruh kota yang delapan bulan silam masih kacau dan sekarang punya dua sekolah.
 
 "Kak Raja. Kak Renn." Suaranya stabil. "Aku mau bilang sesuatu sebelum pergi."
 
@@ -162,7 +162,7 @@ Kovan mencatat fenomena itu dengan kalimat yang dikutip seluruh jaringan batu:
 
 "Batu-batu kita sekarang bersaing kecepatan mengantar surat cinta keluarga.
 
-Delapan bulan silang mereka hanya peta lokasi.
+Delapan bulan silam mereka hanya peta lokasi.
 
 Sekarang mereka kurir yang bangga."
 

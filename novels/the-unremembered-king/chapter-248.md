@@ -15,7 +15,7 @@ Ruangan hening.
 
 Ashvarok yang pertama pulih, dan kalimatnya membuat Sela menulisnya langsung:
 
-"Delapan bulan silang kita mengajari mereka protokol. Ternyata yang terserap bukan protokolnya."
+"Delapan bulan silam kita mengajari mereka protokol. Ternyata yang terserap bukan protokolnya."
 
 ---
 
@@ -37,7 +37,7 @@ Ashvarok membaca pasal itu tiga kali.
 
 Lalu berkata kepada Sela, suara pelan:
 
-"Seribu tahun silang aku memerintah dengan segel dan takutan. Butuh delapan bulan mengajar — dan mereka tidak hanya menyalin protokolnya."
+"Seribu tahun silam aku memerintah dengan segel dan takutan. Butuh delapan bulan mengajar — dan mereka tidak hanya menyalin protokolnya."
 
 Ia meletakkan surat itu.
 
@@ -65,7 +65,7 @@ Aku menulis: AKU AKAN MENERUSKANNYA. Ke murid-muridku. Yang nanti akan meneruska
 
 Surat Thessa dibacakan Ashvarok di rapat tim inti — dan setelah selesai, ia meletakkannya di atas meja dengan gerakan yang oleh Sela dicatat "seperti orang meletakkan sesuatu yang lebih berat dari kertas".
 
-"Delapan bulan silang," katanya, "Thessa Vael datang ke Caldrest sebagai pengawas yang mencatat kesalahan kita."
+"Delapan bulan silam," katanya, "Thessa Vael datang ke Caldrest sebagai pengawas yang mencatat kesalahan kita."
 
 Ia memandang satu per satu anggota tim.
 
@@ -75,7 +75,7 @@ Kovan menambahkan datanya:
 
 "Dua puluh lulusan Spire aktif. Pasal Menyapa masuk konstitusi. Dan menurut laporan Thessa — tiga wilayah lain sudah mengirim surat minta diajari."
 
-Tiga wilayah lain. Dari dunia yang setahun silang bahkan tidak tahu Caldrest ada.
+Tiga wilayah lain. Dari dunia yang setahun silam bahkan tidak tahu Caldrest ada.
 
 Sela membuka peta dinding aula dan menandai tiga titik baru — bukan wilayah pemulangan, melainkan sesuatu yang belum pernah ada di peta itu:
 
@@ -131,7 +131,7 @@ Murid yang datang sendiri ke Caldrest: terus mengalir.
 
 Dan satu baris penutup dari Sela:
 
-"Peta dinding aula kini punya dua jenis tanda: titik wilayah (yang pernah kami jemput) dan bintang (yang minta diajari). Setahun silang peta ini penuh tanda tangis. Sekarang penuh bintang."
+"Peta dinding aula kini punya dua jenis tanda: titik wilayah (yang pernah kami jemput) dan bintang (yang minta diajari). Setahun silam peta ini penuh tanda tangis. Sekarang penuh bintang."
 
 ---
 
@@ -141,7 +141,7 @@ Ashvarok-Renn duduk bersama dua jam setelah semua orang pulang, membaca ulang su
 
 Renn memecah keheningan:
 
-"Kak Raja. Delapan bulan silang, saat aku tidur dan kamu menjaga dunia... kamu pernah bayangkan dunia akan jadi begini?"
+"Kak Raja. Delapan bulan silam, saat aku tidur dan kamu menjaga dunia... kamu pernah bayangkan dunia akan jadi begini?"
 
 Ashvarok diam lama.
 
@@ -155,7 +155,7 @@ Ashvarok diam lama.
 
 Dan Renn menutup percakapan itu — serta bab ini — dengan kalimat yang oleh nat aula diteruskan ke arsip dan oleh Sela diberi garis emas:
 
-"Seribu tahun silang orang takut pada raja yang membakar namanya.
+"Seribu tahun silam orang takut pada raja yang membakar namanya.
 
 Sekarang mereka mengirim surat minta diajari oleh raja yang memasak sup.
 
@@ -213,7 +213,7 @@ Hari 940.
 
 Spire resmi mengadopsi Pasal Menyapa. Tiga wilayah menunggu paket. Dunia luar berubah — bukan karena kita kuat, tapi karena mereka penasaran.
 
-Delapan bulan silang aku bertanya "ada siapa di sana?"
+Delapan bulan silam aku bertanya "ada siapa di sana?"
 
 Hari ini jawabannya datang dari seberang gunung:
 

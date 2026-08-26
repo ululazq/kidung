@@ -21,7 +21,7 @@ Ibu Tamma berhenti memotong bawang. Menoleh. Memandang murid barunya lama sekali
 
 "Anak," katanya akhirnya, dengan suara yang belum pernah dipakainya sepanjang novel ini, "kau baru saja melakukan hal yang butuh aku tiga puluh tahun untuk belajar."
 
-"Aku punya guru pendengaran yang bagus," kata Ashvarok-Renn. "Delapan ratus tahun silang."
+"Aku punya guru pendengaran yang bagus," kata Ashvarok-Renn. "Delapan ratus tahun silam."
 
 "Delapan ratus tahun mendengar nat," kata ibu Tamma, sambil kembali memotong, "dan baru hari ini dengar panci. Dunia ini memang selalu meremehkan dapur."
 
@@ -66,7 +66,7 @@ Versi pertama terlalu membelakan lima panglima. Versi kedua terlalu menghukum me
 
 Ashvarok-Renn memandang gadis itu lama.
 
-"Delapan tahun silang," katanya pelan, "kau bertanya kenapa tiga kali. Sekarang kau yang menjawab sambil bertanya sekali."
+"Delapan tahun silam," katanya pelan, "kau bertanya kenapa tiga kali. Sekarang kau yang menjawab sambil bertanya sekali."
 
 "Kita saling melatih," kata Sela, sudah kembali ke gulungan arsipnya. "Tulis jawaban keenam. Yang jujur. Boleh pendek."
 
@@ -119,7 +119,7 @@ Sepuluh menit itu tidak pernah dibicarakan keduanya.
 
 Tapi arsip mencatat bahwa pada salah satu pagi itu, tanpa alasan yang bisa dilaporkan, ibu Tamma berkata kepada pancinya sendiri, cukup keras untuk didengar kursi sudut kedua:
 
-"Delapan puluh tahun silang aku bilang ke semua orang: ada sup, ada tempat, ada kami." Sendoknya bergerak pelan dalam uap. "Rasanya beda, ya... kalau akhirnya ada yang balik nanya: bu, ada sup, Bu? Aku lapar."
+"Delapan puluh tahun silam aku bilang ke semua orang: ada sup, ada tempat, ada kami." Sendoknya bergerak pelan dalam uap. "Rasanya beda, ya... kalau akhirnya ada yang balik nanya: bu, ada sup, Bu? Aku lapar."
 
 Dan dari kursi sudut kedua, tanpa membuka mata dari irama adukannya, jawaban itu datang dari dua suara sekaligus:
 

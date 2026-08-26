@@ -47,7 +47,7 @@ Yang pertama bicara setelahnya justru Lissa — dengan suara pecah dan kalimat y
 
 "Selimutnya tidak telat, Kak. Dia menunggu kamu dewasa dulu."
 
-Dan Endah — perempuan yang delapan belas tahun berkabung tanpa jenazah — menjawab dengan hal yang tidak ada dalam protokol mana pun: ia mengambil ujung selimut itu, menempelkannya ke wajahnya, dan berkata kepada adiknya: "Aku tahu. Aku selalu tahu kamu tidak selesai sama apa pun. Waktu kecil kamu menulis nama di semua barang biar tidak ada yang hilang." Ia menatap Lissa. "Ternyata yang hilang kamu."
+Dan Endah — perempuan yang delapan belas tahun berkabung tanpa jenazah — menjawab dengan hal yang tidak ada dalam protokol mana pun: ia mengambil ujung selimut itu, menempelkannya ke wajahnya, dan berkata kepada adiknya: "Aku tahu. Aku selalu tahu kamu tidak selesai sama apa pun. Waktu kecil kamu menulis nama di semua barang agar tidak ada yang hilang." Ia menatap Lissa. "Ternyata yang hilang kamu."
 
 ---
 

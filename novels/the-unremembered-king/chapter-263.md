@@ -19,7 +19,7 @@ Pertanyaan pertama datang setelah Sela selesai membacakan daftar 400 nama utara.
 
 Iramanya panjang, bertingkat, dan Barim menerjemahkannya sambil perlahan berdiri, seperti orang yang tidak sanggup duduk saat menerjemahkan hal semacam ini:
 
-"'Nama-nama itu. Empat ratus. Mereka masuk ke tempatku seribu tahun silang sebagai suara yang mengetuk dari dalam. Aku menampung. Aku tidak bisa membuka pintu untuk mereka dan itu membuatku sakit selama sepuluh abad. Katakan padaku — pintu kalian bagaimana membuka pintu yang tidak boleh dibuka?'"
+"'Nama-nama itu. Empat ratus. Mereka masuk ke tempatku seribu tahun silam sebagai suara yang mengetuk dari dalam. Aku menampung. Aku tidak bisa membuka pintu untuk mereka dan itu membuatku sakit selama sepuluh abad. Katakan padaku — pintu kalian bagaimana membuka pintu yang tidak boleh dibuka?'"
 
 Dan itulah saatnya Ashvarok-Renn bicara langsung — bukan lewat Sela atau Barim, tapi lewat Listen, telapak ke permukaan:
 
@@ -57,9 +57,9 @@ Angin dataran tinggi lewat di atas reruntuhan. Jauh di bawah, dunia berjalan nor
 
 Semua kepala berbalik ke arah yang sama, meski tidak ada yang mengucapkannya.
 
-Arsip Hegemony. Kotak-kotak timah yang delapan bulan silang dibawa Sela pulang dari Spire. Arsip yang masih setengah belum dibaca, duduk di sudut kamar barak, tersegel.
+Arsip Hegemony. Kotak-kotak timah yang delapan bulan silam dibawa Sela pulang dari Spire. Arsip yang masih setengah belum dibaca, duduk di sudut kamar barak, tersegel.
 
-"Ia ada di rumah kita," kata Sela. "Sejak setahun silang, nada lima panglima tidur di sudut kamar kita dan kita pikir itu hanya kotak pajak."
+"Ia ada di rumah kita," kata Sela. "Sejak setahun silam, nada lima panglima tidur di sudut kamar kita dan kita pikir itu hanya kotak pajak."
 
 ---
 

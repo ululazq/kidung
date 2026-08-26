@@ -65,7 +65,7 @@ Ashvarok membuka mata.
 
 Dan sesuatu berbeda.
 
-Tidak ada suara kedalaman. Tidak ada resonansi nat. Tidak ada the Remainder yang terkoyak atau vein-scar yang menarik. Hening total di dalam — jenis hening yang tidak pernah ia rasakan sejak delapan bulan silang.
+Tidak ada suara kedalaman. Tidak ada resonansi nat. Tidak ada the Remainder yang terkoyak atau vein-scar yang menarik. Hening total di dalam — jenis hening yang tidak pernah ia rasakan sejak delapan bulan silam.
 
 Ia duduk pelan.
 
@@ -171,7 +171,7 @@ Hari 833 (Ashvarok): Hari ini Renn bangun. Semua protokol berjalan. Sup dimakan 
 
 Hari 833 (Renn): Hari ini aku bangun dan dunia sudah jalan tanpa aku — tapi ternyata dunia itu tidak jalan MENINGGALKAN aku. Dia jalan MEMBAWA aku. Delapan bulan, setiap orang bicara padaku lewat lagu, sup, catatan mangkuk, dan ketukan.
 
-Aku anak tungku yang delapan bulan silang seharusnya mati di lorong sembilan.
+Aku anak tungku yang delapan bulan silam seharusnya mati di lorong sembilan.
 
 Ternyata aku hanya dipindahkan ke kamar paling dalam — untuk mendengar sejarah terbesar dunia dari tempat duduk terbaik.
 

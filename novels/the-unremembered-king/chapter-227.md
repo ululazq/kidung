@@ -33,7 +33,7 @@ Pos-pos jemput dibangun oleh warga timur sendiri, dengan denah Daven sebagai das
 
 Meja-meja makan dibuat oleh tukang kayu lokal dengan ukuran yang ditentukan bukan standar birokrasi, melainkan panjang cerita keluarga: keluarga dengan cerita panjang dapat meja panjang. Warga menyebutnya "meja sesuai kisah", dan daftar panjang-cerita-versi-pendeknya menjadi dokumen arsip resmi atas permintaan Sela yang tertawa membacanya.
 
-Name train timur dilatih tiga puluh warga lokal — dengan guru-guru tamu dari utara: empat petani Vess-Morath yang datang berjalan dua hari demi mengajari sesama petani zaman purba bagaimana rasanya menyanyikan lagu untuk keluarga yang belum lahir lagi. Mereka pulang sebelum pemulangan, sesuai permintaannya sendiri: "kami cukup sampai menanam. Panennya biar mereka rasakan sendiri."
+Name train timur dilatih tiga puluh warga lokal — dengan guru-guru tamu dari utara: empat petani Vess-Morath yang datang berjalan dua hari demi mengajari sesama petani zaman purba bagaimana rasanya menyanyikan lagu untuk keluarga yang belum lahir lagi. Mereka pulang sebelum pemulangan, sesuai permintaannya sendiri: "kami cukup sampai menanam. Panennya agar mereka rasakan sendiri."
 
 Dan the Patient House melakukan hal yang belum pernah dilakukan: mengirim pesan resmi pertamanya kepada nat timur — bukan lewat Caldrest, langsung kedalaman ke kedalaman — isinya diterjemahkan Kovan dan dibacakan di rapat dengan suasana yang oleh kronik kemudian digambarkan "setengah sidang, setengah pernikahan":
 

@@ -67,7 +67,7 @@ Maera akhirnya menyentuh tehnya — satu tegukan kecil, cara orang menandai bahw
 
 Maera pergi tepat jam sembilan, membawa separuh rotinya dibungkus kertas — kebiasaan orang yang tidak menyia-nyiakan apa pun, dan Ossian mencatatnya sebagai data — dia berpikir tentang harga, orang yang menolak berpikir tentang harga tidak membawa pulang roti.
 
-Sendirian di kamarnya, ia membuka buku pribadinya dan menemukan halaman empat puluh kotak kosong yang digambarnya pada malam izin ditandatangani. Kotak-kotak itu sudah diisi silang sampai yang kedelapan belas. Ia memberi silang pada yang kesembilan belas, lalu di bawah barisan kotak itu menulis satu baris dengan huruf kecil yang hanya bisa dibaca orang yang tahu harus mencarinya:
+Sendirian di kamarnya, ia membuka buku pribadinya dan menemukan halaman empat puluh kotak kosong yang digambarnya pada malam izin ditandatangani. Kotak-kotak itu sudah diisi silam sampai yang kedelapan belas. Ia memberi silam pada yang kesembilan belas, lalu di bawah barisan kotak itu menulis satu baris dengan huruf kecil yang hanya bisa dibaca orang yang tahu harus mencarinya:
 
 Harga sudah ditanyakan. Tinggal menunggu angkanya — dan ingat, penjual yang membawa pulang roti adalah penjual yang berniat kembali ke pasar.
 

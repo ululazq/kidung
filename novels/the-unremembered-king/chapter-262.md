@@ -29,7 +29,7 @@ Lalu jawaban itu datang, dan Sela yang menerjemahkannya harus berhenti sebentar 
 
 Perjalanan dimulai subuh dengan formasi yang sudah disepakati protokol pendengar lapangan: Kovan di depan karena ia menghitung langkah; Barim di belakang karena penjaga selalu di belakang; Ashvarok-Renn di tengah dengan Sela, karena arsiparis membawa peta dan raja tidak boleh berjalan di depan orang yang membawa petanya — aturan itu dikemukakan Sela dengan wajah sangat serius dan tidak ada yang berani menanyakan dasar hukumnya.
 
-Hari-hari pertama adalah jalan yang dikenal: jalur kafilah menuju Spire, kamp-kamp yang tiap persinggahan menyediakan sup dan cerita. Di kamp ketiga, kepala kamp — perempuan tua yang delapan bulan silang dipulangkan bersama kelompok timur — menolak menerima bayaran untuk makanan mereka.
+Hari-hari pertama adalah jalan yang dikenal: jalur kafilah menuju Spire, kamp-kamp yang tiap persinggahan menyediakan sup dan cerita. Di kamp ketiga, kepala kamp — perempuan tua yang delapan bulan silam dipulangkan bersama kelompok timur — menolak menerima bayaran untuk makanan mereka.
 
 "Kalian yang mengajar dunia bahwa makanan untuk tamu itu gratis," katanya, dan tidak ada argumen hukum mana pun yang sanggup melawan kalimat itu.
 

@@ -61,7 +61,7 @@ Pertanyaan itu menggantung di antara mereka seperti uap dari cerobong. Maera men
 
 "Bagus." Maera akhirnya menatapnya. "Tetaplah membosankan. Musim ini, yang membosankan akan hidup lebih lama dari yang menarik."
 
-Vosk memperhatikannya beberapa detik lebih lama dari yang diperlukan sopan santun pasar, dan sesuatu yang tidak pernah diucapkan keduanya bergeser sedikit di bawah meja — bukan ke arah terang, hanya ke arah yang lebih dipahami. Kemudian lelaki itu membuka kembali buku besarnya dan berkata dengan nada dagang yang biasa, "Kalau begitu nilailah barangnya, biar kukunci malam ini juga. Klienku tidak suka menunggu lewat tenggat."
+Vosk memperhatikannya beberapa detik lebih lama dari yang diperlukan sopan santun pasar, dan sesuatu yang tidak pernah diucapkan keduanya bergeser sedikit di bawah meja — bukan ke arah terang, hanya ke arah yang lebih dipahami. Kemudian lelaki itu membuka kembali buku besarnya dan berkata dengan nada dagang yang biasa, "Kalau begitu nilailah barangnya, agar kukunci malam ini juga. Klienku tidak suka menunggu lewat tenggat."
 
 ---
 

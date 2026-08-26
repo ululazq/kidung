@@ -25,7 +25,7 @@ Masalahnya tinggal satu. Barang antik tidak punya harga sampai ada yang menilain
 
 "Letakkan di kain."
 
-Maera Tull datang sendiri, sore hari terakhir bulan itu, karena Vosk — dengan kemampuan penengah yang membuatnya layak mendapat potongan delapan persen seumur hidup — telah menyebarkan kabar yang tepat ke telinga yang tepat. "Ada barang timnunan. Kelas yang tidak pernah Assayer lihat. Pemiliknya mau dinilai formal biar bisa lunasin kontrak ke Quota Office tanpa drama."
+Maera Tull datang sendiri, sore hari terakhir bulan itu, karena Vosk — dengan kemampuan penengah yang membuatnya layak mendapat potongan delapan persen seumur hidup — telah menyebarkan kabar yang tepat ke telinga yang tepat. "Ada barang timnunan. Kelas yang tidak pernah Assayer lihat. Pemiliknya mau dinilai formal agar bisa lunasin kontrak ke Quota Office tanpa drama."
 
 Sekarang barang itu tergeletak di atas kain putih di meja survei, dan Maera Tull sedang membacanya dengan cara yang Ashvarok kenal baik. Mata menghitung, tangan tidak menyentuh selama empat menit penuh, lalu alat-alat kecil keluar satu per satu — kaca pembesar, lilin perekam, timbangan mini, dan akhirnya Voice-tier-nya sendiri, ujung jarinya menyentuh gagang segel itu dengan lembut seperti dokter meraba nadi.
 

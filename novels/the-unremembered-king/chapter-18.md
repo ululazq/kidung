@@ -47,7 +47,7 @@ Foreman tua itu duduk di atas peti kayu tanpa membuka percakapan. Mengunyah akar
 
 "Kenapa? Justru itu yang paling murah. Aku memang tidak ke mana-mana."
 
-"Justru itu." Brannoc menoleh, dan matanya tua sekali di cahaya gudang. "Tharrow tidak butuh anjing buat jaga aset yang tidak mau lari. Dia butuh anjing yang ngerasa punya tugas, biar dia bisa cabut tugasnya kapan pun dia mau. Hari ini jaga Renn. Besok — tangkap Renn. Lusa — seret Renn ke kedalaman buat dihitung sebagai faktor tak dikenal. Dan tiap kali perintahnya ganti, aku yang disalahin gagal nurut." Akar pahit itu dipindahkan dari pipi kiri ke kanan. "Aku pernah dinas sama komandan seperti begitu. Dua puluh tahun lalu. Benteng timur jatuh bukan karena musuhnya kuat. Karena komandannya main perintah bolak-balik buat koleksi kesalahan orang."
+"Justru itu." Brannoc menoleh, dan matanya tua sekali di cahaya gudang. "Tharrow tidak butuh anjing buat jaga aset yang tidak mau lari. Dia butuh anjing yang ngerasa punya tugas, agar dia bisa cabut tugasnya kapan pun dia mau. Hari ini jaga Renn. Besok — tangkap Renn. Lusa — seret Renn ke kedalaman buat dihitung sebagai faktor tak dikenal. Dan tiap kali perintahnya ganti, aku yang disalahin gagal nurut." Akar pahit itu dipindahkan dari pipi kiri ke kanan. "Aku pernah dinas sama komandan seperti begitu. Dua puluh tahun lalu. Benteng timur jatuh bukan karena musuhnya kuat. Karena komandannya main perintah bolak-balik buat koleksi kesalahan orang."
 
 "Berapa banyak yang mati waktu benteng itu jatuh?"
 

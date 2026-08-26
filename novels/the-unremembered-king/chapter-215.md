@@ -113,5 +113,5 @@ Yang keluar malam itu lebih pendek dari biasanya, dan oleh karena itu lebih diin
 
 "Batch ditutup. Pekerjaan berlanjut. Masih ada yang harus pulang — dan sekarang dunia punya kertas resmi yang bilang: boleh."
 
-Sela memulai indeks silang baru: nama-nama yang muncul di lebih dari satu generasi cerita. Tujuannya sederhana dan besar sekaligus — membuktikan bahwa Karvess tidak pernah benar-benar lupa, hanya berhenti menyebut. Dan yang berhenti disebut bisa mulai disebut lagi kapan saja.
+Sela memulai indeks silam baru: nama-nama yang muncul di lebih dari satu generasi cerita. Tujuannya sederhana dan besar sekaligus — membuktikan bahwa Karvess tidak pernah benar-benar lupa, hanya berhenti menyebut. Dan yang berhenti disebut bisa mulai disebut lagi kapan saja.
 

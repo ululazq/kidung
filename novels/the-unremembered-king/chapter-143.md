@@ -61,7 +61,7 @@ Ashvarok menerima jawaban itu, sebab janji-janji di antara mereka berdua selalu 
 
 "Kalau begitu berhenti," kata mandor itu. "Cukup satu pintu. Jangan namai apa-apa lagi."
 
-"Aku juga memikirkan begitu, sejak subuh." Kepala itu bergoyang pelan dari kiri ke kanan. "Tapi jawaban itu ada lubangnya. Suatu hari malam datang lagi. Orang tersesat, lorong runtuh, sunyi menyasar anak sekolah, dan aku butuh satu benda bernama lagi supaya orang pulang. Berhenti total artinya aku memilih biar ada yang tidak pulang demi mimpi warga tetap tenang. Itu bukan keputusan yang bisa kupatuhi dan tidur nyenyak. Yang kubutuhkan bukan berhenti. Yang kubutuhkan garis."
+"Aku juga memikirkan begitu, sejak subuh." Kepala itu bergoyang pelan dari kiri ke kanan. "Tapi jawaban itu ada lubangnya. Suatu hari malam datang lagi. Orang tersesat, lorong runtuh, sunyi menyasar anak sekolah, dan aku butuh satu benda bernama lagi supaya orang pulang. Berhenti total artinya aku memilih agar ada yang tidak pulang demi mimpi warga tetap tenang. Itu bukan keputusan yang bisa kupatuhi dan tidur nyenyak. Yang kubutuhkan bukan berhenti. Yang kubutuhkan garis."
 
 ---
 

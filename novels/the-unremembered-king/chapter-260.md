@@ -3,7 +3,7 @@ title: "Bab 260: Dunia yang Sudah Paham"
 chapter: 260
 ---
 
-Satu tahun kemudian, dunia Karvess sudah sangat berbeda dari yang delapan bulan silang pernah dibayangkan siapa pun.
+Satu tahun kemudian, dunia Karvess sudah sangat berbeda dari yang delapan bulan silam pernah dibayangkan siapa pun.
 
 Sekolah Mendengar kini punya dua belas cabang di seluruh dunia. Jaringan nat tiga generasi menjangkau semua wilayah. Pasal Menyapa menjadi bagian dari konstitusi sembilan wilayah. Dan setiap anak yang lahir... lahir di dunia di mana mendengarkan adalah hal biasa.
 
@@ -77,7 +77,7 @@ Daven dan Pellia: "Murid pertama menyapa guru terakhir."
 
 Dan Sareth Vayin — guru tua yang paling lama diam:
 
-"Aku empat puluh tahun silang kehilangan murid-muridku. Hari ini aku sadar... mereka tidak hilang.
+"Aku empat puluh tahun silam kehilangan murid-muridku. Hari ini aku sadar... mereka tidak hilang.
 
 Mereka tinggal di setiap orang yang mereka ajari.
 
@@ -183,7 +183,7 @@ DAN SEKARANG... JUGA KAMU."
 
 ---
 
-Dan anak itu tersenyum — senyum yang sama dengan senyum bocah tujuh tahun delapan ratus tahun silang yang bertanya "siapa kamu?" kepada cahaya di tungku.
+Dan anak itu tersenyum — senyum yang sama dengan senyum bocah tujuh tahun delapan ratus tahun silam yang bertanya "siapa kamu?" kepada cahaya di tungku.
 
 Karena beberapa hal tidak pernah berubah:
 
@@ -306,7 +306,7 @@ Dan satu adegan terakhir — yang menutup buku besar ini:
 
 Subuh di nat lorong barak utara.
 
-Cahaya masuk lewat jendela kecil. Nat tua menyala pelan. Dan seorang anak kecil (generasi baru, umur enam tahun) duduk di depannya dengan roti manis di tangan — seperti ibu-ibu Vel-Morra delapan ratus tahun silang.
+Cahaya masuk lewat jendela kecil. Nat tua menyala pelan. Dan seorang anak kecil (generasi baru, umur enam tahun) duduk di depannya dengan roti manis di tangan — seperti ibu-ibu Vel-Morra delapan ratus tahun silam.
 
 Anak itu berkata: "Nat, aku bawain kamu roti."
 

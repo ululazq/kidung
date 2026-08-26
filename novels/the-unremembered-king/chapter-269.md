@@ -90,7 +90,7 @@ Yang kedua datang saat senja: sebuah kereta tertutup tanpa lambang, disertai ena
 
 Dari kereta itu turun satu orang.
 
-Anthema Spire sendiri — pemimpin regional the Resonant Choir, jabatan yang delapan tahun silang mengirim Ossian Vael ke Caldrest untuk menyita seam Testament, jabatan yang ortodoksinya selama seribu tahun mengajarkan bahwa api dunia tidak boleh kembali dan raja pembakarnya adalah monster.
+Anthema Spire sendiri — pemimpin regional the Resonant Choir, jabatan yang delapan tahun silam mengirim Ossian Vael ke Caldrest untuk menyita seam Testament, jabatan yang ortodoksinya selama seribu tahun mengajarkan bahwa api dunia tidak boleh kembali dan raja pembakarnya adalah monster.
 
 Anthema menolak semua penginapan yang disediakan. Menolak pengawalan. Menolak bahkan minuman selamat datang, dengan sopan yang sudah menjadi warisan faksinya.
 
@@ -100,7 +100,7 @@ Wida, kakak pos yang mengingat nama semua anak barak tanpa catatan, menjawab den
 
 "Kursi baris belakang pasti. Untuk yang kedua..." Ia mengangguk, pelan. "Di pos ini ada satu aturan yang belum pernah dilanggar: semua yang datang sebagai manusia pulang sebagai manusia. Tak ada yang akan menatapmu, Kak. Semua orang akan terlalu sibuk mendengarkan."
 
-Dan Anthema Spire — orang yang delapan tahun silang mengira dirinya sedang mengirim orang untuk menyelamatkan dunia dari monster — menganggukkan kepala kepada seorang penjaga pos, lalu masuk ke Caldrest sebagai pendengar ke-1002.
+Dan Anthema Spire — orang yang delapan tahun silam mengira dirinya sedang mengirim orang untuk menyelamatkan dunia dari monster — menganggukkan kepala kepada seorang penjaga pos, lalu masuk ke Caldrest sebagai pendengar ke-1002.
 ---
 
 Malam sebelum malam itu, buku seribu pertanyaan diletakkan kembali di posisinya di ruang arsip — sudah dibaca oleh lebih dari empat ratus tamu, halaman-halamannya mulai menguning di tepi karena disentuh terlalu banyak tangan yang berbeda.
@@ -122,7 +122,7 @@ Prosesnya yang tidak sederhana.
 
 "Lalu kita ciptakan presedennya," kata Sela. "Seperti semua hal penting di kota ini."
 
-Notaris tua itu memandangi mereka — dua bocah tambang yang delapan tahun silang mengubah definisi arsip Karvess lebih banyak daripada seribu tahun sebelum mereka — lalu tertawa pendek dan mulai menulis formulir baru dengan kolom yang ia karang di tempat:
+Notaris tua itu memandangi mereka — dua bocah tambang yang delapan tahun silam mengubah definisi arsip Karvess lebih banyak daripada seribu tahun sebelum mereka — lalu tertawa pendek dan mulai menulis formulir baru dengan kolom yang ia karang di tempat:
 
 *Jenis dokumen: PERTANYAAN RESMI NEGARA.*
 *Status hukum: wajib dijawab; tidak boleh diabaikan; tidak boleh dijawab setengah.*

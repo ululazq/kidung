@@ -43,7 +43,7 @@ ANGKATAN 3 SEKOLAH MENDENGAR:
 
 Dan satu catatan penutup dari Renn sendiri — ditulis dengan huruf miringnya, disetujui Ashvarok dalam tiga detik:
 
-"Kalau murid luar bertanya kenapa belajar menyapa penting... jawabannya bukan teori. Jawabannya aku: anak yang delapan bulan silang hanya didengar batu, sekarang punya keluarga, sekolah, dan masa depan. Itu bukan kurikulum. Itu bukti."
+"Kalau murid luar bertanya kenapa belajar menyapa penting... jawabannya bukan teori. Jawabannya aku: anak yang delapan bulan silam hanya didengar batu, sekarang punya keluarga, sekolah, dan masa depan. Itu bukan kurikulum. Itu bukti."
 
 ---
 
@@ -65,7 +65,7 @@ Kovan mencatat fenomena itu dan berkata kepada Ashvarok:
 
 Ashvarok memandang lorong barak tempat nat-nat kecil bersuara lembut.
 
-"Delapan bulan silang kita pikir kita yang mengajari dunia mendengar," katanya. "Ternyata lebih dulu... dunia sudah belajar mendengarkan kita."
+"Delapan bulan silam kita pikir kita yang mengajari dunia mendengar," katanya. "Ternyata lebih dulu... dunia sudah belajar mendengarkan kita."
 
 ---
 
@@ -81,7 +81,7 @@ Dan semua nat menjawab — masing-masing dalam iramanya sendiri, tapi semuanya h
 
 Renn melanjutkan dari dalam, dan Ashvarok mengulanginya keras-keras:
 
-"Delapan bulan silang aku hanya didengar satu batu. Satu batu itu cukup untuk menyelamatkan hidupku. Sekarang kalian punya tujuh puluh tiga."
+"Delapan bulan silam aku hanya didengar satu batu. Satu batu itu cukup untuk menyelamatkan hidupku. Sekarang kalian punya tujuh puluh tiga."
 
 ---
 
@@ -106,7 +106,7 @@ Ibu Tamma membagikan resep-resep baru ke empat tangan yang mau membantu menyalin
 
 Di halaman sup Aru, ibu Tamma menambahkan catatan:
 
-"Resep dari murid jauh. Asamnya jangan dikurangi walau aneh buat lidah Caldrest. Orang jauh itu seperti asam — kalau kita ubah dia jadi manis biar nyaman, kita bukan lagi menerima dia; kita mengganti dia."
+"Resep dari murid jauh. Asamnya jangan dikurangi walau aneh buat lidah Caldrest. Orang jauh itu seperti asam — kalau kita ubah dia jadi manis agar nyaman, kita bukan lagi menerima dia; kita mengganti dia."
 
 Sela membaca catatan itu dan diam lama.
 
@@ -122,7 +122,7 @@ Ia anak perempuan Vel-Morra yang katanya wilayahnya "tidak mau berhubungan denga
 
 Ternyata yang tidak mau berhubungan adalah penguasanya — bukan rakyatnya. Dan gadis itu kabur membawa satu tenunan untuk mendaftar sekolah yang dia dengar ceritanya dari... nat-nat kecil di pegunungan, yang mendengar kabar dari nat-nat lembah, yang mendengar dari nat aula.
 
-Rantai resonansi. Delapan bulan silang kita bangun jaringan batu bicara.
+Rantai resonansi. Delapan bulan silam kita bangun jaringan batu bicara.
 
 Hari ini jaringan itu menerima pendaftar pertamanya yang berjalan tiga pekan hanya untuk didengar.
 
@@ -138,7 +138,7 @@ Neraca akhir bab — dua tangan:
 
 Hari 912 (Ashvarok): Murid angkatan 3: 52. Yang paling muda: gadis Vel-Morra yang menenun permohonannya. Nama: Vessia Morra — dan ya, kami sadar kemiripannya dengan Vess-Morath; katanya itu nama leluhur yang sama. Dunia lebih kecil dari yang kita kira.
 
-Hari 912 (Renn): Delapan bulan silang aku hanya bocah tambang yang didengar satu batu. Hari ini ada anak yang berjalan tiga pekan untuk didengar sekolahku.
+Hari 912 (Renn): Delapan bulan silam aku hanya bocah tambang yang didengar satu batu. Hari ini ada anak yang berjalan tiga pekan untuk didengar sekolahku.
 
 Kita tidak sedang membangun sekolah lagi, Kak Raja.
 

@@ -27,7 +27,7 @@ Hari keempat dan kelima, ingatan Barim kembali seperti pasang: konteks dulu (tem
 
 Yang datang hari kelima membuatnya duduk diam sepanjang sore di halaman gudang: kenapa ia menolak meninggalkan galeri sembilan waktu karantina pertama, kenapa ia selalu menolak semua tawaran pekerjaan permukaan, kenapa ia — kata ibu Tamma — "selalu melirik ke bawah tiap kali lewat lorong timur".
 
-"Karena aku sudah jadi penjaganya," kata Barim akhirnya, kepada Ashvarok dan Sela yang mendengarkan. "Delapan tahun. Bukan hanya bekerja. Sumpah juga, dalam hati. Orang tua dulu bilang nat-nat tua itu butuh didengarin biar tidak kesepian. Jadi aku dengarin. Semua malam." Ia memandang ke arah aula. "Terus kebocoran datang, aku lupa semuanya, dan dia... dia tetap sendirian di bawah sana. Delapan belas tahun tanpa satu pun orang yang menyapa sopan."
+"Karena aku sudah jadi penjaganya," kata Barim akhirnya, kepada Ashvarok dan Sela yang mendengarkan. "Delapan tahun. Bukan hanya bekerja. Sumpah juga, dalam hati. Orang tua dulu bilang nat-nat tua itu butuh didengarin agar tidak kesepian. Jadi aku dengarin. Semua malam." Ia memandang ke arah aula. "Terus kebocoran datang, aku lupa semuanya, dan dia... dia tetap sendirian di bawah sana. Delapan belas tahun tanpa satu pun orang yang menyapa sopan."
 
 Ia bangkit. Lelaki tua itu berdiri dengan punggung yang tidak sesuai usia sembilan puluh tahunannya, dan berkata kalimat yang membuat Ashvarok sadar bahwa Barim bukan korban yang baru dipulihkan — Barim adalah rekan bekerja yang baru kembali dari cuti panjang:
 

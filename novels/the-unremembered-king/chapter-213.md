@@ -24,7 +24,7 @@ Lima — pasal yang diusulkan murid termuda dan langsung disetujui semua guru: "
 
 Pembacaan dilakukan di aula, malam berikutnya, dengan nat Karveth-Ulm dibawa dari lembah selatan oleh enam orang bergantian — batu itu hanya sebesar meja dapur, tapi semua yang mengangkatnya bersaksi bahwa beratnya "berubah-ubah sesuai suasana hati pembawanya", catatan yang Kovan tolak masuk kolom fakta dan pindahkan ke kolom pertanyaan pekan depan.
 
-Aula disusun ulang: nat Karveth-Ulm di pusat, dikelilingi setengah lingkaran murid tingkat dua (hadir sebagai saksi belajar), dan di empat penjuru aula diletakkan ember air sesuai pasal dua — yang oleh ibu Tamma langsung diisi sup dingin "biar fungsinya jelas".
+Aula disusun ulang: nat Karveth-Ulm di pusat, dikelilingi setengah lingkaran murid tingkat dua (hadir sebagai saksi belajar), dan di empat penjuru aula diletakkan ember air sesuai pasal dua — yang oleh ibu Tamma langsung diisi sup dingin "agar fungsinya jelas".
 
 Sebelum mulai, satu momen kecil yang tidak direncanakan: murid termuda — yang delapan bulan silam bersumpah mau memulihkan api ini — diminta Ashvarok membaca namanya keras-keras kepada nat Karveth-Ulm sebelum pembacaan. "Supaya api tahu siapa saja yang berutang kepadanya," kata raja itu. Api menjawab dengan naiknya panas permukaan Karveth-Ulm satu deret, terukur oleh telapak Barim yang kebetulan bersandar.
 

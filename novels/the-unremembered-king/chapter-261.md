@@ -25,7 +25,7 @@ Lalu ia berdiri, melintasi lorong barak, dan mengetuk pintu ruang keluarga denga
 
 Ashvarok-Renn membuka pintu. Sudah larut. Di dalam, ibu Tamma meninggalkan secangkir teh hangat di meja seperti biasa, meski jam segini tidak ada yang meminta teh.
 
-"Arsip Hegemony," kata Sela, meletakkan halaman itu di tengah meja. "Kalimat yang terpotong delapan tahun silang. Aku menemukan lanjutannya disembunyikan di balik buku pajak."
+"Arsip Hegemony," kata Sela, meletakkan halaman itu di tengah meja. "Kalimat yang terpotong delapan tahun silam. Aku menemukan lanjutannya disembunyikan di balik buku pajak."
 
 Ashvarok membacanya sekali. Lalu membacanya lagi.
 
@@ -47,7 +47,7 @@ Ashvarok mengangguk sekali.
 
 Mereka bertiga duduk sampai subuh. Ini kebiasaan keluarga the Quiet Vein yang tidak pernah dicatat di protokol mana pun: ketika sebuah temuan besar datang, tidak ada yang boleh memutuskan apa pun di malam yang sama. Ibu Tamma menyebutnya aturan dapur. "Orang yang lapar membuat keputusan soal makanan yang salah. Orang yang lelah membuat keputusan soal sejarah yang salah juga."
 
-Jadi mereka bicara hal kecil dulu. Sela cerita soal murid baru Akademi Arsip yang mencatat daftar isi arsip Hegemony dengan huruf begitu rapi sampai terlihat seperti cetakan. Ashvarok-Renn cerita soal retakan mikro ketiga yang mereka temukan di nat aula pekan silang dan bagaimana Kovan menghitung ulang tiga kali karena tidak percaya hasilnya.
+Jadi mereka bicara hal kecil dulu. Sela cerita soal murid baru Akademi Arsip yang mencatat daftar isi arsip Hegemony dengan huruf begitu rapi sampai terlihat seperti cetakan. Ashvarok-Renn cerita soal retakan mikro ketiga yang mereka temukan di nat aula pekan silam dan bagaimana Kovan menghitung ulang tiga kali karena tidak percaya hasilnya.
 
 Dan di sela-sela hal kecil, hal besar itu duduk di meja di antara mereka, sabar, tidak ke mana-mana.
 
@@ -75,7 +75,7 @@ Irama itu cocok dengan detak jantung Renn.
 
 Bukan mirip. Cocok. Seperti dua alat musim yang sama disetel ke nada yang sama.
 
-Retakan the Threshold, seribu tahun silang, pernah belajar satu hal dari kuncinya: irama detak jantung pemiliknya. Dan malam itu, mendengar cerita tentang seam saksi, nat tua meneruskannya — dari retakan ke nat, dari nat ke dada, seperti kabar baik yang tidak mau menunggu dibacakan habis.
+Retakan the Threshold, seribu tahun silam, pernah belajar satu hal dari kuncinya: irama detak jantung pemiliknya. Dan malam itu, mendengar cerita tentang seam saksi, nat tua meneruskannya — dari retakan ke nat, dari nat ke dada, seperti kabar baik yang tidak mau menunggu dibacakan habis.
 
 "Nat ini bilang," kata Ashvarok akhirnya, suaranya pelan sekali, "'kunci harus pulang ke gilirannya.'"
 

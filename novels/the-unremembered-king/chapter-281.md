@@ -7,7 +7,7 @@ Kabar itu datang pada pagi berkabut, lewat jalur yang sudah tiga kali membawa pe
 
 Tapi iramanya berbeda.
 
-Delapan bulan silang, irama yang sama membawa kabar sakit — pelan, hati-hati, seperti orang melaporkan cuaca yang belum pasti. Kali ini iramanya tenang. Selesai. Dan karena itu, bagi semua pendengar alami Karvess, lebih berat dari kabar apa pun.
+Delapan bulan silam, irama yang sama membawa kabar sakit — pelan, hati-hati, seperti orang melaporkan cuaca yang belum pasti. Kali ini iramanya tenang. Selesai. Dan karena itu, bagi semua pendengar alami Karvess, lebih berat dari kabar apa pun.
 
 "IA TIDAK SAKIT LAGI," kata Yang Dulu Sunyi meneruskan pesan biara barat. "ITU KABAR BAIKNYA. KABAR BURUKNYA: KAMI KEHILANGAN GURU TERBAIK KAMI SOAL CARA MENUTUP MATA."
 
@@ -56,14 +56,14 @@ Pengiriman ke Vhal-Duren dilakukan dengan formasi yang oleh Ashvarok-Renn disusu
 
 Maka perjalanan dua hari ke dataran tinggi berlangsung seperti karavan cerita. Barim menceritakan kunjungan pertamanya ke Caldrest — bagaimana ia menolak semua kemewahan dan memilih tidur di ruang tunggu pos, "karena kursi menunggu lebih jujur daripada tempat tamu". Sela menceritakan lima menit percakapan terakhir mereka di ruang arsip barak, yang isinya hampir semuanya soal dapur-dapur sejarah. Ashvarok-Renn menceritakan hal yang tidak pernah ia ceritakan ke siapa pun:
 
-"Malam pembacaan," katanya, saat api unggun kecil rendah. "Kalian semua pikir aku datang sebagai pendengar ke-1001. Sebagian benar. Tapi ada alasan lain: aku ingin melihat wajah orang yang delapan tahun silang menulis surat wasiat untukku — orang yang menyimpan nadaku sepuluh abad tanpa pernah tahu namaku — ketika dunia akhirnya memberinya tepuk tangan. Ia tidak menunggu tepuk tangannya. Tapi pantas ia melihatnya sekali."
+"Malam pembacaan," katanya, saat api unggun kecil rendah. "Kalian semua pikir aku datang sebagai pendengar ke-1001. Sebagian benar. Tapi ada alasan lain: aku ingin melihat wajah orang yang delapan tahun silam menulis surat wasiat untukku — orang yang menyimpan nadaku sepuluh abad tanpa pernah tahu namaku — ketika dunia akhirnya memberinya tepuk tangan. Ia tidak menunggu tepuk tangannya. Tapi pantas ia melihatnya sekali."
 ---
 
 Mereka tiba di Vhal-Duren pada sore hari ketujuh — dan pos pendengar itu menyambut rombongan pemakaman dengan cara yang membuat semua orang berhenti di tepi reruntuhan:
 
 Batu bundar itu sudah menyiapkan tempat.
 
-Di sisi timurnya — persis menghadap arah yang diminta delapan tahun silang — tanah rata seluas dua orang dewasa, bersih rumput, hangat seperti permukaannya sendiri. Disiapkan bukan hari itu. Tanah rata itu tua; bekas dudukan puluhan tahun, dirawat diam-diam oleh kambing-kambing langganan yang kebetulan — atau tidak kebetulan — memang suka duduk di situ.
+Di sisi timurnya — persis menghadap arah yang diminta delapan tahun silam — tanah rata seluas dua orang dewasa, bersih rumput, hangat seperti permukaannya sendiri. Disiapkan bukan hari itu. Tanah rata itu tua; bekas dudukan puluhan tahun, dirawat diam-diam oleh kambing-kambing langganan yang kebetulan — atau tidak kebetulan — memang suka duduk di situ.
 
 "IA MEMESANNYA PADAKU," kata Yang Mendengar Sampai Habis lewat jalur tanah, nadanya pelan sekali. "DELAPAN TAHUN SILANG. DIA BILANG: 'SAUDARAKU YANG BUNDAR, KALAU SUATU HARI AKU BERHENTI BICARA, SISIHKAN SEBUAH TEMPAT DI SISIMU. AKU INGIN PERTAMA KALI DALAM HIDUPKU DIDENGARKAN SECARA PERMANEN.'"
 
@@ -113,7 +113,7 @@ Sela menutup arsip perjalanannya dengan entri terakhir:
 
 Perjalanan pulang memakan empat hari, dan di setiap kamp yang dilewati, kabar pemakaman itu sudah tiba lebih dulu lewat jalur nat — bukan sebagai berita duka, tapi sebagai cerita: cerita tentang penjaga diam yang akhirnya bicara, tentang kotak pajak dan nada curian, tentang batu kecil menghadap timur.
 
-Di kamp ketiga, seorang nenek menyiapkan tempat tidur tamu ekstra tanpa ditanya, karena "rombongan pengantar pasti capek". Di kamp kelima, kepala kamp menyodori Barim satu gulungan kecil: cerita lama wilayahnya tentang "orang biara barat yang pernah membantu melacak anak hilang tiga puluh tahun silang, tak mau disebut namanya" — cerita yang baru kini bisa dihubungkan dengan pemiliknya.
+Di kamp ketiga, seorang nenek menyiapkan tempat tidur tamu ekstra tanpa ditanya, karena "rombongan pengantar pasti capek". Di kamp kelima, kepala kamp menyodori Barim satu gulungan kecil: cerita lama wilayahnya tentang "orang biara barat yang pernah membantu melacak anak hilang tiga puluh tahun silam, tak mau disebut namanya" — cerita yang baru kini bisa dihubungkan dengan pemiliknya.
 
 Arsip orang baik ternyata tidak pernah selesai. Ia hanya menunggu orang lain mengenali tulisannya.
 

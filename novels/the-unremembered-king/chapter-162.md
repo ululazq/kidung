@@ -49,7 +49,7 @@ Yang tidak ia perkirakan adalah Sela. Gadis itu menunggunya di ambang barak mala
 
 Ashvarok memandang baris jatah itu lama. Tiga nama anak, dan di bawahnya tangannya sendiri sudah menulis angka pemulihan malam itu — dua sistem pembukuan untuk satu peristiwa, satu dalam sandi rahasia, satu di papan terbuka dapur, dan gadis sebelas tahun ini baru saja menjelaskan kenapa keduanya harus tetap ada: yang rahasia untuk mengukur, yang terbuka untuk menahan. "Kamu tahu ini membuatku lebih mudah dilupakan oleh kedalaman, bukan lebih sulit," katanya akhirnya. "Setiap pekan di depan umum, setiap versi dapur yang membesarkan — semuanya memberi makan dia juga kalau sampai disapu."
 
-"Maka kita pastikan dia tidak pernah sempat menyapu," kata Sela. "Dan kalau suatu hari sempat — biar dia mencerna sebuah kota yang utuh. Bukan sisa-sisa."
+"Maka kita pastikan dia tidak pernah sempat menyapu," kata Sela. "Dan kalau suatu hari sempat — agar dia mencerna sebuah kota yang utuh. Bukan sisa-sisa."
 
 Di rak dapur aula kini ada buku catatan khusus berjudul "Teh" — isinya hanya hitungan cangkir per hari, tulisan tangan ibu Tamma. Ketika Sela bertanya kenapa dicatat, jawabannya masuk neraca: "supaya kelak diketahui bahwa kedamaian bisa dihitung. Dan angkanya besar."
 

@@ -5,7 +5,7 @@ chapter: 282
 
 Tahun pertama batu kecil itu ditutup dengan satu tradisi baru yang lahir tanpa direncanakan siapa pun.
 
-Pada tanggal kematiannya, Yang Mendengar Sampai Habis memutar tawa empat puluh tahun silangnya seperti biasa — dan kambing-kambing langganan, yang sudah mengenali irama malam itu, duduk lebih rapat dari biasanya di sisi batu kecil. Kebetulan penduduk kamp bawah melihatnya, menceritakannya ke atas; kabarnya naik; dan tahun berikutnya orang-orang datang khusus pada tanggal itu untuk duduk BERSAMA kambing-kambing mendengarkan tawa laki-laki tua.
+Pada tanggal kematiannya, Yang Mendengar Sampai Habis memutar tawa empat puluh tahun silamnya seperti biasa — dan kambing-kambing langganan, yang sudah mengenali irama malam itu, duduk lebih rapat dari biasanya di sisi batu kecil. Kebetulan penduduk kamp bawah melihatnya, menceritakannya ke atas; kabarnya naik; dan tahun berikutnya orang-orang datang khusus pada tanggal itu untuk duduk BERSAMA kambing-kambing mendengarkan tawa laki-laki tua.
 
 Tahun ketiga, jumlah pengunjung malam tawa itu melebihi kapasitas pos. Maka dibangunlah tribun kayu kecil menghadap makam — dibangun murid-murid Akademi Arsip sebagai proyek praktikum, dengan pahatan kecil di tiap sandaran: nama-nama murid yang mengerjakannya.
 
@@ -85,7 +85,7 @@ Dan arsip Karvess — institusi yang hidup dari angka dan daftar — untuk perta
 
 Tahun-tahun berlalu menjadi dasawarsa, dan batu kecil itu perlahan menjalani transformasi yang tidak pernah direncanakan siapa pun: dari makam menjadi tempat, dan dari tempat menjadi cerita, dan dari cerita menjadi bagian dari cara Karvess memahami dirinya.
 
-Anak-anak belajar membaca dengan kalimat di batunya. Pasangan-pasangan muda datang menikah di dekat reruntuhan — "biar pernikahan kami didengarkan yang sudah terbukti sabar," kata mereka, dan Yang Mendengar Sampai Habis menyanyikan lagu pernikahan pertama dalam sejarahnya, irama pinjaman dari lagu pengantar tidur kedalaman yang disesuaikan.
+Anak-anak belajar membaca dengan kalimat di batunya. Pasangan-pasangan muda datang menikah di dekat reruntuhan — "agar pernikahan kami didengarkan yang sudah terbukti sabar," kata mereka, dan Yang Mendengar Sampai Habis menyanyikan lagu pernikahan pertama dalam sejarahnya, irama pinjaman dari lagu pengantar tidur kedalaman yang disesuaikan.
 
 Para pemimpin dunia — Dewan, Spire, utusan-utusan wilayah jauh — belajar naik ke sini tanpa protokol, karena satu-satunya aturan di pos ini adalah aturan dapur ibu Tamma: semua orang duduk sama rendahnya, semua orang makan sama hangatnya.
 
@@ -139,7 +139,7 @@ Ashvarok-Renn membacanya. Tertawa sekali — pendek — di bagian "kerusakannya 
 
 "Kau tahu hal paling aneh dari semua ini?" katanya akhirnya. "Aku seribu tahun menolak dikenal. Aku membakar namaku supaya tidak ada yang bisa menyentuhku lewat nama." Ia meletakkan lembar laporan itu. "Dan makam pertama di dunia baru yang membuat manusia berbondong-bondong... adalah makam orang yang menjaga rahasia selama hidupnya. Dunia ini punya selera humor yang tidak pernah kumengerti."
 
-"Mungkin bukan selera humor," kata Sela. "Mungkin cuma pola."
+"Mungkin bukan selera humor," kata Sela. "Mungkin hanya pola."
 
 "Pola apa?"
 

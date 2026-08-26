@@ -11,7 +11,7 @@ Bukan permintaan biasa. Iramanya disusun dengan formalitas kuno yang bahkan Bari
 
 Ashvarok-Renn memandang ke arah batu itu lama.
 
-"Kalian bukan penjaganya," kata Sela pelan. "Penjaganya mati seribu tahun silang."
+"Kalian bukan penjaganya," kata Sela pelan. "Penjaganya mati seribu tahun silam."
 
 "Tidak," jawab Ashvarok-Renn. "Dia bilang *penerus*. Dan dia benar." Ia bangkit, meluruskan pakaian bocah tungku yang sudah dua tahun ini tidak pernah benar-benar rapi, dan berkata kepada ketiga temannya: "Kalian dengar dari tempat duduk kalian. Yang ini untukku duduk dekat."
 
@@ -127,7 +127,7 @@ Ashvarok-Renn memandang mangkuk itu lama.
 
 Lalu ia makan habis. Semua orang pura-pura sibuk dengan piring masing-masing, dan semua orang berhasil gagal.
 
-"Makannya habis," kata Wida akhirnya, pelan, mengulang kata-kata yang delapan ratus tahun silang ditujukan kepada nat tua oleh seorang bocah tambang yang kini sudah menjadi banyak hal sekaligus. "Kalau kita harus menguburkan masa lalu duluan daripada masa depan... minimal kita tidak lapar waktu menguburkannya."
+"Makannya habis," kata Wida akhirnya, pelan, mengulang kata-kata yang delapan ratus tahun silam ditujukan kepada nat tua oleh seorang bocah tambang yang kini sudah menjadi banyak hal sekaligus. "Kalau kita harus menguburkan masa lalu duluan daripada masa depan... minimal kita tidak lapar waktu menguburkannya."
 
 Subuhnya mereka lanjut jalan menuju Caldrest.
 

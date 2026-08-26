@@ -61,7 +61,7 @@ Tidak seorang pun di ruangan itu kecuali tiga orang tahu bahwa aturan itu adalah
 
 Nama adalah barang pertama yang diambil oleh kebocoran itu — Ashvarok mengetahuinya dari era yang tidak punya buku sejarah lagi — dan barang pertama yang diambil harus menjadi barang pertama yang dilatih untuk dipertahankan. Barak yang menyebut nama setiap malam adalah barak yang akan menyadari lebih cepat ketika salah satunya mulai kosong. Ia tidak bisa memberi mereka seni. Ia bisa memberi mereka kebiasaan, dan kebiasaan, berbeda dari seni, tidak butuh vein yang sehat, tidak butuh the Remainder, dan tidak bisa dilarang oleh pasal karantina mana pun.
 
-Ibu Tamma menerimanya dengan satu kritik praktis: "Kalau semua harus panggil nama tiap malam, barak ini bakal butuh jam tambahan hanya buat absen." Lalu ia menertawakan dirinya, dan menambahkan sendiri solusinya: panggil sambil antre santunan, dua burung satu batu, dan biar dia yang pegang daftarnya.
+Ibu Tamma menerimanya dengan satu kritik praktis: "Kalau semua harus panggil nama tiap malam, barak ini bakal butuh jam tambahan hanya buat absen." Lalu ia menertawakan dirinya, dan menambahkan sendiri solusinya: panggil sambil antre santunan, dua burung satu batu, dan agar dia yang pegang daftarnya.
 
 Kovan, yang sore itu berdiri di garis seperti biasa, memperhatikan name-roll baru itu selama sepuluh menit penuh dengan ekspresi orang yang mencoba memutuskan apakah ini pemborosan waktu atau pesan — dan karena pesan tidak pernah dikirim secara terbuka di Caldrest, ia akhirnya mencatatnya sebagai pemborosan waktu, yang merupakan kesimpulan paling mahal yang pernah dibuat gratis.
 

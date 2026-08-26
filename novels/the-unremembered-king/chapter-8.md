@@ -91,7 +91,7 @@ Gudang itu sunyi selain gemuruh samar troli dari atas.
 
 Ia mengira kalimat itu akan mengakhiri semuanya — dan siap untuk itu juga, karena perjanjian semacam ini tidak bisa diminta, hanya bisa ditawarkan. Tetapi Brannoc hanya mengangguk pelan, satu kali, seperti menandatangani sesuatu di dalam kepala.
 
-"Dua puluh tahun lalu aku prajurit di benteng timur," kata foreman itu, mengembalikan pahat ke rak. "Komandanku bisa lihat jalur pasukan musuh dari cara rumput rebah. Orang-orang bilang dia punya bakat. Dia bilang dia hanya rajin lihat." Ia mengambil sekopnya, membuka pintu dengan kaki, dan berhenti setengah badan di ambang. "Besok shift sembilan bawah lagi. Tulang seam yang dicari Quota Office banyak di situ. Kamu membaca, kami angkat, hasilnya lewat gudangku dulu sebelum ke kantor — biar angkanya kelihatan bekerja regu, bukan bekerja bocah ajaib. Tapi Renn—"
+"Dua puluh tahun lalu aku prajurit di benteng timur," kata foreman itu, mengembalikan pahat ke rak. "Komandanku bisa lihat jalur pasukan musuh dari cara rumput rebah. Orang-orang bilang dia punya bakat. Dia bilang dia hanya rajin lihat." Ia mengambil sekopnya, membuka pintu dengan kaki, dan berhenti setengah badan di ambang. "Besok shift sembilan bawah lagi. Tulang seam yang dicari Quota Office banyak di situ. Kamu membaca, kami angkat, hasilnya lewat gudangku dulu sebelum ke kantor — agar angkanya kelihatan bekerja regu, bukan bekerja bocah ajaib. Tapi Renn—"
 
 "Ya."
 

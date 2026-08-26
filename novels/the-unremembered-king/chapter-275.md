@@ -63,7 +63,7 @@ Ibu Tamma: "Dapur pos ini resmi dibuka. Menu pertama: sup kamp. Yang paling lama
 
 Ashvarok-Renn bicara terakhir.
 
-"Saudaraku," katanya, "seribu tahun silang aku membangun segel agar dunia aman dari apa pun yang keluar dari kedalaman. Tiga tahun ini dunia mengajariku hal yang lebih benar: kedalaman tidak perlu ditakuti. Kedalaman perlu didengar. Tujuh saudara kita di bawah sana — Vess-Morath yang menunggu musimnya, Kael-Uthar yang dititip api, Ondrath-Ilm yang menjaga malam, dan engkau yang mendengar sampai habis — kalian bukan ancaman purba yang dikubur sejarah." Ia memberi hormat dua ketukan. "Kalian adalah penjaga-penjaga tertua dunia. Dan mulai hari ini, dunia tahu namamu satu per satu."
+"Saudaraku," katanya, "seribu tahun silam aku membangun segel agar dunia aman dari apa pun yang keluar dari kedalaman. Tiga tahun ini dunia mengajariku hal yang lebih benar: kedalaman tidak perlu ditakuti. Kedalaman perlu didengar. Tujuh saudara kita di bawah sana — Vess-Morath yang menunggu musimnya, Kael-Uthar yang dititip api, Ondrath-Ilm yang menjaga malam, dan engkau yang mendengar sampai habis — kalian bukan ancaman purba yang dikubur sejarah." Ia memberi hormat dua ketukan. "Kalian adalah penjaga-penjaga tertua dunia. Dan mulai hari ini, dunia tahu namamu satu per satu."
 ---
 
 Malamnya, api unggun kecil menyala di tengah pos pendengar yang baru — sesuai aturan pegunungan, kayu muda, dengan izin nat lereng — dan tiga ratus orang duduk melingkari batu bundar yang kini bernama Yang Mendengar Sampai Habis.
@@ -94,7 +94,7 @@ Subuhnya, ketika tamu-tamu mulai turun gunung dan pos pendengar pertama Karvess 
 
 *Syukurlah dunia begitu.*
 
-Dan di halaman paling bawah, setelah tanda tangan arsiparis resmi Karvess, ada satu baris tulisan tangan lain — tulisan bocah tungku tujuh belas tahun yang delapan tahun silang mati di runtuhan tambang dan sejak itu hidup dua kali:
+Dan di halaman paling bawah, setelah tanda tangan arsiparis resmi Karvess, ada satu baris tulisan tangan lain — tulisan bocah tungku tujuh belas tahun yang delapan tahun silam mati di runtuhan tambang dan sejak itu hidup dua kali:
 
 *Untuk siapa pun yang membaca arsip ini ratusan tahun lagi:*
 
@@ -103,7 +103,7 @@ Dan di halaman paling bawah, setelah tanda tangan arsiparis resmi Karvess, ada s
 
 Dan satu adegan penutup — bertahun-tahun kemudian:
 
-Seorang anak kecil naik ke pos pendengar Vhal-Duren bersama kakeknya, duduk di depan batu bundar yang hangat, dan meletakkan roti manis di permukaannya — persis seperti yang dilakukan ibu-ibu Vel-Morra delapan ratus tahun silang, persis seperti yang dilakukan bocah barak utara dua tahun setelah era menyapa.
+Seorang anak kecil naik ke pos pendengar Vhal-Duren bersama kakeknya, duduk di depan batu bundar yang hangat, dan meletakkan roti manis di permukaannya — persis seperti yang dilakukan ibu-ibu Vel-Morra delapan ratus tahun silam, persis seperti yang dilakukan bocah barak utara dua tahun setelah era menyapa.
 
 "Kakek, katanya batu ini pernah nunggu seribu tahun. Itu lama sekali, ya?"
 
@@ -145,7 +145,7 @@ Barim mencatat di buku pos pendengar halaman pertama:
 
 *Daftar penghuni tetap Vhal-Duren hari pembukaan: satu seam bernama Yang Mendengar Sampai Habis. Empat pendengar manusia gilir (jadwal terlampir). Satu dapur (non-negotiable). Tiga kambing (senioritas tertinggi; dibayar dengan roti).*
 
-*Catatan: delapan puluh tahun silang batu ini punya langganan kambing sebelum punya tamu manusia. Ada pelajaran di situ tentang kesetiaan yang tidak menunggu diakui, tapi aku belum sanggup merumuskannya. Kovan bilang tunggu sampai kita tua. Ibu Tamma bilang rumuskan sambil masak. Semua orang di dunia ini punya teori soal cara kerja hati, dan semuanya benar, dan semuanya belum lengkap.*
+*Catatan: delapan puluh tahun silam batu ini punya langganan kambing sebelum punya tamu manusia. Ada pelajaran di situ tentang kesetiaan yang tidak menunggu diakui, tapi aku belum sanggup merumuskannya. Kovan bilang tunggu sampai kita tua. Ibu Tamma bilang rumuskan sambil masak. Semua orang di dunia ini punya teori soal cara kerja hati, dan semuanya benar, dan semuanya belum lengkap.*
 
 *Lagi bagus begitu. Arsip yang sudah lengkap itu tanda ceritanya habis.*
 ---

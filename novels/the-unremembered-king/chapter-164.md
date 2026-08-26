@@ -13,7 +13,7 @@ Malam Kapat, Ondar bercerita tentang Dolm Vekk — dan kali ini tidak sendirian 
 
 Ashvarok memahami apa yang sedang dibangun adiknya pada malam Keenam, ketika Sela naik ke bangku panjang dengan daftar di tangannya.
 
-"Ini namanya Panggung Dapur," kata gadis itu kepada barak, formal seperti notulis yang membacakan pasal. "Aturannya tiga. Satu: cerita harus benar, bisa dicek siapa pun yang hadir, dan kalau ada yang salah, yang hadir boleh mengoreksi langsung. Dua: yang diceritakan adalah orang yang masih hidup atau baru saja mati — kita ceritakan orang di depan mata kita, biar mereka dengar sendiri sementara masih bisa. Tiga: setiap malam Dua, Kapat, Rabat. Tidak ada paksaan. Yang tidak mau diceritakan, namanya dilewati, dan dilewati pun tetap disayang."
+"Ini namanya Panggung Dapur," kata gadis itu kepada barak, formal seperti notulis yang membacakan pasal. "Aturannya tiga. Satu: cerita harus benar, bisa dicek siapa pun yang hadir, dan kalau ada yang salah, yang hadir boleh mengoreksi langsung. Dua: yang diceritakan adalah orang yang masih hidup atau baru saja mati — kita ceritakan orang di depan mata kita, agar mereka dengar sendiri sementara masih bisa. Tiga: setiap malam Dua, Kapat, Rabat. Tidak ada paksaan. Yang tidak mau diceritakan, namanya dilewati, dan dilewati pun tetap disayang."
 
 Lalu ia menoleh ke arah Ashvarok yang duduk paling belakang dekat pintu, sebagaimana selalu, dan berkata kalimat yang membuat seluruh barak berbalik:
 

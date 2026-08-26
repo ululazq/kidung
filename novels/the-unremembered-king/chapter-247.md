@@ -57,7 +57,7 @@ Gerakan nat asuhan kemudian mendapat tambahan tak terduga: nat-nat tua ikut mend
 
 Bukan sebagai asuhan — sebagai PENDAMPING. Nat-nat tua seperti Yang Dulu Sunyi menawarkan diri menjadi "kakak nat" bagi nat-nat kecil asuhan anak-anak: mengajari irama, menjawab pertanyaan resonansi yang belum bisa dijawab batu muda, dan melapor kalau ada retakan yang butuh diperiksa.
 
-Jaringan nat Karvess — yang setahun silang hanya peta lokasi batu — kini adalah keluarga tiga generasi: nat purba, nat pendamping, dan nat asuhan.
+Jaringan nat Karvess — yang setahun silam hanya peta lokasi batu — kini adalah keluarga tiga generasi: nat purba, nat pendamping, dan nat asuhan.
 
 Sela menulis neraca jaringan itu dan memberinya judul yang dikutip Spire:
 
@@ -131,7 +131,7 @@ Kembar itu panik. Berlari ke barak sambil menangis, minta tolong siapa saja: "TE
 
 Yang datang bukan hanya satu-dua orang.
 
-Dalam satu jam: Brannoc dengan regu tambang (ahli saluran air), Gella dengan tim medis kecil (untuk memeriksa apakah "batu bisa kesehatannya terganggu" — pertanyaan yang setahun silang akan ditertawakan), dua belas murid Sekolah Mendengar, dan ibu Tamma membawa sup untuk semua pekerja.
+Dalam satu jam: Brannoc dengan regu tambang (ahli saluran air), Gella dengan tim medis kecil (untuk memeriksa apakah "batu bisa kesehatannya terganggu" — pertanyaan yang setahun silam akan ditertawakan), dua belas murid Sekolah Mendengar, dan ibu Tamma membawa sup untuk semua pekerja.
 
 Nat "Teman" diselamatkan dalam empat jam: air dialihkan, batu dibersihkan lumpur, retakan kecil yang baru muncul diperiksa Renn-Ashvarok langsung.
 
@@ -147,7 +147,7 @@ Kovan tetap mencoba menerjemahkannya resmi untuk arsip. Hasilnya hanya tiga kata
 
 Dan malam itu juga, Sela membuka halaman baru arsip dengan judul yang oleh Ashvarok disetujui tanpa revisi:
 
-"PELAJARAN BANJIR: yang setahun silang kita sebut 'bencana kecil di distrik pasar' — hari ini disebut 'hari ketika seluruh kota datang untuk satu batu'.
+"PELAJARAN BANJIR: yang setahun silam kita sebut 'bencana kecil di distrik pasar' — hari ini disebut 'hari ketika seluruh kota datang untuk satu batu'.
 
 Itu bukan perubahan protokol.
 
@@ -177,7 +177,7 @@ Dan itulah cerita kenapa malam itu dapur ibu Tamma mengeluarkan aturan baru:
 
 Dan satu entri penutup dari Renn di jurnalnya — yang oleh Ashvarok dibaca dan langsung disetujui tanpa revisi:
 
-"Delapan bulan silang aku pikir keajaiban itu hal besar: segel seribu tahun terbuka, empat ratus jiwa naik dari kedalaman, dunia mengubah hukumnya untuk resonansi.
+"Delapan bulan silam aku pikir keajaiban itu hal besar: segel seribu tahun terbuka, empat ratus jiwa naik dari kedalaman, dunia mengubah hukumnya untuk resonansi.
 
 Tahun ini aku belajar keajaiban sebenarnya lebih kecil:
 
@@ -193,7 +193,7 @@ Dan di bawahnya, Ashvarok menambahkan satu paragraf balasan — pertama kalinya 
 
 "Setuju dengan semuanya, kecuali satu.
 
-Keajaiban tidak berjalan sendiri. Ia dibawa dua anak kembar yang diajari orang tuanya untuk peduli; didorong nat tua yang memutuskan mendengarkan; ditertawakan dan disambut kota yang setahun silang memilih belajar.
+Keajaiban tidak berjalan sendiri. Ia dibawa dua anak kembar yang diajari orang tuanya untuk peduli; didorong nat tua yang memutuskan mendengarkan; ditertawakan dan disambut kota yang setahun silam memilih belajar.
 
 Kau benar keajaiban jalan kaki.
 

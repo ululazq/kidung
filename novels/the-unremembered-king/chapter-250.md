@@ -21,7 +21,7 @@ Setelah makan — sup Kamp Pertama, sup Aru, bubur Kaveth, puding Vel-Morra: sat
 
 Ia tidak bawa kertas.
 
-"Seribu tahun silam aku membakar namaku karena pikir itu cara terbaik menjaga dunia." Aula hening total. "Delapan bulan silang aku tidur di tubuh bocah tambang dan mendengar dunia menyelamatkan dirinya sendiri lewat lagu, pantun, tenunan, sup, dan tepuk tangan panen."
+"Seribu tahun silam aku membakar namaku karena pikir itu cara terbaik menjaga dunia." Aula hening total. "Delapan bulan silam aku tidur di tubuh bocah tambang dan mendengar dunia menyelamatkan dirinya sendiri lewat lagu, pantun, tenunan, sup, dan tepuk tangan panen."
 
 Ia memandang Renn — di dalam.
 
@@ -51,7 +51,7 @@ Brannoc: "Lorong sembilan aman. Selama-lamanya. Itu kalimat yang dulu takut kubi
 
 Gella: "Tubuh berdua isi itu tubuh paling sehat yang pernah kuperiksa. Kesimpulan medis: kasih sayang menyembuhkan."
 
-Sareth Vayin: "Murid-muridku empat puluh tahun silang sudah pulang ke debu. Murid-muridku sekarang masih hidup dan bertanya. Itu kenapa aku masih mengajar."
+Sareth Vayin: "Murid-muridku empat puluh tahun silam sudah pulang ke debu. Murid-muridku sekarang masih hidup dan bertanya. Itu kenapa aku masih mengajar."
 
 Thessa Vael: "Spire punya Pasal Menyapa karena Caldrest tidak pernah menyerah pada kami. Aku bukti hidupnya."
 

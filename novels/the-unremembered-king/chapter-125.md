@@ -77,7 +77,7 @@ Sela menulisnya di kolom baru, huruf besar, di bawah kolom PULIH yang baris-bari
 
 Pertanyaan ketiga tidak datang segera. Sela memandangi tulisan Si bisu bicara di papannya lama sekali, dan ketika akhirnya bertanya, suaranya turun sampai hanya didengar dapur.
 
-"Kalau dia bicara, Kak. Berarti dia bisa mendengar juga, kan? Selama ini kita menjaga nama-nama kita biar tidak direbut. Sekarang dia tahu nama-nama kita juga?"
+"Kalau dia bicara, Kak. Berarti dia bisa mendengar juga, kan? Selama ini kita menjaga nama-nama kita agar tidak direbut. Sekarang dia tahu nama-nama kita juga?"
 
 Ashvarok menimbang jawabannya lebih lama daripada dua pertanyaan sebelumnya, karena pertanyaan ketiga itu menyentuh pagar yang paling tua milik keluarga ini.
 

@@ -107,7 +107,7 @@ itu tungku barak kita."
 
 Dan bab ditutup dengan satu kalimat dari Sela — arsiparis muda yang baru pulang, membawa pulang juga sebuah pertanyaan yang akan mengubah bab-bab berikutnya:
 
-"Kak Raja. Delapan bulan silang, kamu pikir kamu yang datang ke tubuh Renn.
+"Kak Raja. Delapan bulan silam, kamu pikir kamu yang datang ke tubuh Renn.
 
 Tapi arsip ini bilang: jejak resonansimu sudah ada di tungku barak itu SEBELUM runtuhan lorong sembilan.
 
@@ -133,7 +133,7 @@ Keluarga the Quiet Vein duduk melingkar di nat lorong. Ashvarok-Renn, Sela, dan 
 
 Pertanyaan besar itu dibawa ke tempat yang paling mungkin punya jawaban.
 
-"Nat. Delapan ratus tahun silang... apakah kau ingat ada resonansi aneh di tungku barak ini? Sebelum runtuhan lorong sembilan?"
+"Nat. Delapan ratus tahun silam... apakah kau ingat ada resonansi aneh di tungku barak ini? Sebelum runtuhan lorong sembilan?"
 
 Nat tua merespons panjang — dan oleh Sela (kini arsiparis resmi dengan ilmu akademi) diterjemahkan dengan presisi yang tidak pernah ada sebelumnya:
 
@@ -304,7 +304,7 @@ KALIAN TIDAK PERNAH BICARA SENDIRIAN. BAHKAN DI GUNUNG SEKALIPUN."
 
 Dan satu kalimat terakhir dari Ashvarok — untuk menutup bab 256:
 
-"Delapan bulan silang aku bertanya 'ada siapa di sana?'.
+"Delapan bulan silam aku bertanya 'ada siapa di sana?'.
 
 Besok, untuk pertama kalinya... kami bertiga yang menjawab: 'KAMI DATANG.'"
 
@@ -331,7 +331,7 @@ Lalu Renn berkata dari dalam — dan Ashvarok mengulanginya keras-keras:
 
 Dan Ashvarok menambahkan — suaranya pelan:
 
-"Orang pertama yang melihat jejakku delapan puluh tahun silang... adalah orang yang tadi malam menangis kena sup kami.
+"Orang pertama yang melihat jejakku delapan puluh tahun silam... adalah orang yang tadi malam menangis kena sup kami.
 
 Dunia ini kecil, Nak Renn. Dunia ini kecil dan sabar.
 

@@ -61,7 +61,7 @@ Dan jawaban Kael-Uthar — yang oleh nat aula diteruskan sampai ke arsip, karena
 
 ---
 
-Renn menatap api itu — api yang delapan bulan silang menyelamatkan hidupnya lewat sup, dan sekarang mengajarinya cara mencintai dengan benar.
+Renn menatap api itu — api yang delapan bulan silam menyelamatkan hidupnya lewat sup, dan sekarang mengajarinya cara mencintai dengan benar.
 
 "Kak Uthar. Boleh aku tanya satu hal lagi?"
 
@@ -115,7 +115,7 @@ Aku baca jurnalmu. Maaf, hak penghuni bersama.
 
 Tapi aku mau tambahkan satu hal yang tidak kukatakan siapa pun selama seribu tahun:
 
-Delapan bulan silang, saat aku masuk ke tubuhmu dan dunia terasa asing... aku juga hampir gila. Sendirian di kepala orang lain, tanpa nama, tanpa kerajaan, tanpa siapa pun yang tahu.
+Delapan bulan silam, saat aku masuk ke tubuhmu dan dunia terasa asing... aku juga hampir gila. Sendirian di kepala orang lain, tanpa nama, tanpa kerajaan, tanpa siapa pun yang tahu.
 
 Yang menyelamatkanku bukan the Walking Key. Bukan pengalaman seribu tahun.
 
@@ -133,7 +133,7 @@ Dan satu penutup dari ibu Tamma — yang membaca kedua tulisan itu (karena arsip
 
 Kalian berdua bertanya siapa yang menyelamatkan siapa.
 
-Jawabannya sudah kubilang delapan bulan silang: SEMUA ORANG MENYELAMATKAN SEMUA ORANG.
+Jawabannya sudah kubilang delapan bulan silam: SEMUA ORANG MENYELAMATKAN SEMUA ORANG.
 
 Dan pekerjaanku hanya satu: memastikan supnya tetap hangat supaya kalian kuat saling menyelamatkan."
 
@@ -205,7 +205,7 @@ Setiap hari satu tema. Setiap tema satu halaman arsip.
 
 Dan oleh Sela dicatat:
 
-"Delapan bulan silang kita pikir guru harus punya gelar.
+"Delapan bulan silam kita pikir guru harus punya gelar.
 
 Sekarang kita tahu: guru adalah siapa pun yang membuat kita jadi lebih baik — meski dia api, batu, kambing, atau hujan."
 

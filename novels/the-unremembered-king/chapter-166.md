@@ -53,7 +53,7 @@ Ia menutup papan. Membuka lagi. Menambahkan satu baris yang bukan catatan anomal
 
 Hari 268. Tamu pertamaku datang sendirian dan tidak mengambil apa-apa. Kupikir aku akan mencatat ini sebagai strategi. Ternyata aku hanya ingin mencatatnya.
 
-Di barak, Sela menemukan kolom Hourglass penuh tulisan baru esok paginya, membacanya dua kali, dan menambahkan satu hal di bawahnya dengan kapur yang berbeda warnanya supaya jelas itu milik siapa: "Dicatat juga. Dan batu asahnya kubersihkan tiap hari, biar tamunya tahu rumah ini ada yang urus."
+Di barak, Sela menemukan kolom Hourglass penuh tulisan baru esok paginya, membacanya dua kali, dan menambahkan satu hal di bawahnya dengan kapur yang berbeda warnanya supaya jelas itu milik siapa: "Dicatat juga. Dan batu asahnya kubersihkan tiap hari, agar tamunya tahu rumah ini ada yang urus."
 
 Malam itu, untuk pertama kalinya sejak retakan pertama, ada dua percakapan yang berlangsung di Caldrest pada jam yang sama: satu di kedalaman, antara kegelapan dan sebuah batu asah tua; satu di permukaan, antara papan tulis dan kapur dua warna. Keduanya berjalan pelan. Keduanya baru dimulai.
 

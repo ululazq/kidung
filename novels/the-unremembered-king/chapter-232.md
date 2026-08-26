@@ -93,7 +93,7 @@ Ia membaca sekali. Diam. Membaca kedua kali. Lalu melipat kertas itu, menyelipka
 
 Tapi murid-murid mencatat bahwa hari itu, sup di dapur aula dimasak dengan api Karveth-Ulm yang panasnya dinaikkan sedikit — dan ketika ditanya kenapa, jawabannya sambil mengaduk:
 
-"Biar cepat matang. Hari ini banyak kerjaan." Jeda mengaduk. "Dan biar dia lihat: kuncinya juga bisa masak. Bukan hanya nulis."
+"Biar cepat matang. Hari ini banyak kerjaan." Jeda mengaduk. "Dan agar dia lihat: kuncinya juga bisa masak. Bukan hanya nulis."
 
 ---
 

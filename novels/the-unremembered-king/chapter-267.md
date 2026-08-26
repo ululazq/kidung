@@ -15,7 +15,7 @@ Yang terjadi berikutnya berlangsung tiga jam.
 
 Penjepit Forge-era tidak bisa dibuka paksa; itu prinsip dasarnya. Ia hanya bisa dibuka oleh kunci yang sah — dan satu-satunya kunci yang sah untuk wadah yang dititipkan lewat enam penjaga segel adalah pemilik asli nadanya, dihadirkan lewat tubuh yang pernah menjadi segel itu sendiri.
 
-Ashvarok-Renn meletakkan kedua telapak di batu bundar. Listen dibuka penuh — harga: perhatian total, seluruhnya, tanpa sisa untuk apa pun lain di dunia. Lalu the Walking Key menyentuh penjepit dari sisi dalam pengikat, dari arah yang hanya bisa dilihat oleh barang yang pernah menjadi bagian dari mesin segel seribu tahun silang.
+Ashvarok-Renn meletakkan kedua telapak di batu bundar. Listen dibuka penuh — harga: perhatian total, seluruhnya, tanpa sisa untuk apa pun lain di dunia. Lalu the Walking Key menyentuh penjepit dari sisi dalam pengikat, dari arah yang hanya bisa dilihat oleh barang yang pernah menjadi bagian dari mesin segel seribu tahun silam.
 
 Penjepit itu mengenali dirinya.
 
@@ -84,7 +84,7 @@ Irama pesan itu diputar pelan. Barim yang menerjemahkannya, karena bagian terpen
 
 "'Kepada arsiparis kecilku — kalimatmu soal jalan dapur benar. Cari penyelundupnya lewat dapur-dapur sejarah, bukan pintu-pintu sejarah. Dan kepada raja yang membawa pulang nadaku: terima kasih. Sekarang aku tidak lagi menyimpan luka. Aku menyimpan lagu.'"
 
-Sela menuliskan kalimat itu di papan tulisnya, memandanginya lama, lalu menghapus kata "kecil" dari "arsiparis kecilku" — bukan karena tersinggung, tapi karena ia baru saja sadar bahwa ia sudah berumur tiga belas tahun, delapan belas bulan silang sudah menandatangani dokumen Dewan, dan saksi batu sepuluh abad masih memanggilnya seperti dulu ia memanggil adik angkatnya.
+Sela menuliskan kalimat itu di papan tulisnya, memandanginya lama, lalu menghapus kata "kecil" dari "arsiparis kecilku" — bukan karena tersinggung, tapi karena ia baru saja sadar bahwa ia sudah berumur tiga belas tahun, delapan belas bulan silam sudah menandatangani dokumen Dewan, dan saksi batu sepuluh abad masih memanggilnya seperti dulu ia memanggil adik angkatnya.
 
 Ia memutuskan membiarkan panggilan itu tetap ada di arsip. Beberapa hal tidak boleh dibesarkan oleh jabatan.
 

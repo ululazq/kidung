@@ -123,7 +123,7 @@ Menyerahkan pria ini kepada siapa pun adalah membakar surat sebelum dibaca. Kepa
 
 "Mengerti. Terima kasih, tuan, terima—"
 
-"Satu lagi. Pesan gratis untuk kurirmu, kalau kamu berhasil menyampaikan kabar kepadanya seperti kamu selalu menyampaikan hasil panenmu — lewat cara yang tidak kamu sadari kamu punya." Ashvarok mendekatkan mulutnya ke telinga pria itu, dan memilih setiap kata dengan timbangan. "Survei Guild mundur satu hari. Turun perdana bukan besok pagi. Besok lusa. Katakan dengan caramu, biar sampai ke telinga yang membayar."
+"Satu lagi. Pesan gratis untuk kurirmu, kalau kamu berhasil menyampaikan kabar kepadanya seperti kamu selalu menyampaikan hasil panenmu — lewat cara yang tidak kamu sadari kamu punya." Ashvarok mendekatkan mulutnya ke telinga pria itu, dan memilih setiap kata dengan timbangan. "Survei Guild mundur satu hari. Turun perdana bukan besok pagi. Besok lusa. Katakan dengan caramu, agar sampai ke telinga yang membayar."
 
 "Itu benar?" pria itu bertanya, pelan.
 

@@ -67,7 +67,7 @@ Renn menemukannya saat istirahat, di ambang klinik, dan bocah itu tidak bertanya
 
 "Hafal."
 
-"Nah. Aku baru sadar aku belum pernah menghitung, kalau suatu hari ada satu nama di peta itu yang harus dibawa keluar duluan dari yang lain, siapa yang harus menghitung dia pulang." Ia menoleh ke kakaknya, dan di matanya tidak ada air, hanya sesuatu yang sudah tersusun rapi dan menunggu waktunya seperti kertas yang dilipat. "Nanti kalau waktunya datang, Kak, aku ada satu pertanyaan. Aku sudah menulis dia biar tidak berubah. Kamu tidak usah jawab sekarang."
+"Nah. Aku baru sadar aku belum pernah menghitung, kalau suatu hari ada satu nama di peta itu yang harus dibawa keluar duluan dari yang lain, siapa yang harus menghitung dia pulang." Ia menoleh ke kakaknya, dan di matanya tidak ada air, hanya sesuatu yang sudah tersusun rapi dan menunggu waktunya seperti kertas yang dilipat. "Nanti kalau waktunya datang, Kak, aku ada satu pertanyaan. Aku sudah menulis dia agar tidak berubah. Kamu tidak usah jawab sekarang."
 
 Renn memandang adiknya lama, dan Sela, yang setahun ini belajar membaca wajah orang dewasa yang terlatih menyembunyikan segalanya, membaca di wajah itu sesuatu yang jarang lolos, yaitu ketakutan tenang orang yang tahu persisnya dari mana pertanyaan seperti itu datang.
 
