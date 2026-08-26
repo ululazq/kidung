@@ -22,7 +22,7 @@ Enam. Setiap entri resmi dibacakan ulang ke batu asah di ambang gudang — supay
 
 "Pasal enam kenapa penting?" tanya Ossian, yang hadir sebagai penasihat administratif.
 
-"Karena kalau tidak," kata Kovan, "kita cuma penerima kabar. Dengan pasal enam kita jadi mitra korespondensi. Dia kirim, kita terima, kita konfirmasi penerimaan." Ia menutup buku sandinya. "Doktrin pengikat senior: angka yang berpindah tangan berubah menjadi milik pemilik baru. Kabar juga begitu. Kalau kita konfirmasi tiap kali, dia tahu jaringannya hidup."
+"Karena kalau tidak," kata Kovan, "kita hanya penerima kabar. Dengan pasal enam kita jadi mitra korespondensi. Dia kirim, kita terima, kita konfirmasi penerimaan." Ia menutup buku sandinya. "Doktrin pengikat senior: angka yang berpindah tangan berubah menjadi milik pemilik baru. Kabar juga begitu. Kalau kita konfirmasi tiap kali, dia tahu jaringannya hidup."
 
 Sareth Vayin menambahkan satu catatan historis yang membuat semua orang diam: ordo Penjaga Rekam pernah mencoba registri serupa empat generasi silam — Registri Suara Bawah — dan gagal bukan karena teknis, tapi karena takut: para pemimpi diperlakukan sebagai subjek penelitian, dan dalam dua tahun tidak ada lagi yang mau bercerita.
 
@@ -52,7 +52,7 @@ Kedua, Hale. Wali kota datang sendiri, tanpa pengawal, duduk di bangku tamu keho
 
 Malam itu Ashvarok menulis di Hourglass:
 
-Hari 353. Registri Mimpi hari ketiga. Yang baru bergabung: wali kota (pribadi), bekas Kel (pendonor), dan dua Dewan yang diam-diam mulai percaya. Tambahan pasal tidak tertulis yang bekerja dengan baik: semua orang yang datang membawa luka utara pulang lebih ringan. Registri ini ternyata bukan cuma arsip kabar. Dia juga pintu berkabung yang benar.
+Hari 353. Registri Mimpi hari ketiga. Yang baru bergabung: wali kota (pribadi), bekas Kel (pendonor), dan dua Dewan yang diam-diam mulai percaya. Tambahan pasal tidak tertulis yang bekerja dengan baik: semua orang yang datang membawa luka utara pulang lebih ringan. Registri ini ternyata bukan hanya arsip kabar. Dia juga pintu berkabung yang benar.
 
 ---
 

@@ -21,7 +21,7 @@ Kovan meletakkan kapurnya. Menghapus. Menulis lagi. Menghapus lagi.
 
 Ashvarok membaca ulang terjemahan itu sendiri, pelan, dua kali — dan pada bacaan kedua satu frasa menahannya: "mereka datang padaku sendiri".
 
-"Mereka datang," katanya. "Tidak dibawa. Tidak dititipkan lewat upacara. Datang." Ia menatap Kovan. "Kau paham artinya? Zaman-zaman gelap dunia, orang-orang yang hilang dalam gelap... dan sebagian dari mereka menemukan jalan masuk sendiri — seperti anak Pak Dekan mungkin melakukannya. Kedalaman tidak pernah memilih siapa pun. Dia cuma tidak pernah MENOLAK siapa pun."
+"Mereka datang," katanya. "Tidak dibawa. Tidak dititipkan lewat upacara. Datang." Ia menatap Kovan. "Kau paham artinya? Zaman-zaman gelap dunia, orang-orang yang hilang dalam gelap... dan sebagian dari mereka menemukan jalan masuk sendiri — seperti anak Pak Dekan mungkin melakukannya. Kedalaman tidak pernah memilih siapa pun. Dia hanya tidak pernah MENOLAK siapa pun."
 
 "Seribu tahun disebut monster," kata Kovan pelan, "padahal dia pintu darurat."
 
@@ -29,7 +29,7 @@ Ashvarok membaca ulang terjemahan itu sendiri, pelan, dua kali — dan pada baca
 
 Rapat Rumah Besar kedua digelar subuh harinya — dan kali ini meja panjang tidak cukup lagi tanpa tambahan bangku. Kabar bocor dari registri sebelum subuh; ibu Tamma tiba membawa sup untuk semua orang dan pernyataan resmi bahwa dapur aula "dari sekarang masuk anggaran tetap".
 
-Yang pertama bicara bukan guru atau pejabat, melainkan Tovik — the Hollowed yang telah pulih parsial, yang delapan bulan silam adalah nama tanpa ingatan dan kini bisa berdiri di rapat dengan namanya sendiri. "Aku mau bilang satu hal," katanya. "Kalau ada lebih banyak dari empat ratus... mungkin ada yang seperti aku di bawah sana. Yang hilang bukan karena kebocoran besar, tapi karena dikira mati di lorong sempit, atau lari dari utang, atau cuma pergi beli benang dan tidak pulang." Ia memandang meja panjang itu. "Orang-orang yang tidak ada yang cari. Aku tahu rasanya jadi orang yang tidak dicari. Kalau mereka ada di sana — mereka harus masuk daftar juga."
+Yang pertama bicara bukan guru atau pejabat, melainkan Tovik — the Hollowed yang telah pulih parsial, yang delapan bulan silam adalah nama tanpa ingatan dan kini bisa berdiri di rapat dengan namanya sendiri. "Aku mau bilang satu hal," katanya. "Kalau ada lebih banyak dari empat ratus... mungkin ada yang seperti aku di bawah sana. Yang hilang bukan karena kebocoran besar, tapi karena dikira mati di lorong sempit, atau lari dari utang, atau hanya pergi beli benang dan tidak pulang." Ia memandang meja panjang itu. "Orang-orang yang tidak ada yang cari. Aku tahu rasanya jadi orang yang tidak dicari. Kalau mereka ada di sana — mereka harus masuk daftar juga."
 
 "Masuk daftar pertama," kata Sela, sudah menulis.
 
@@ -83,4 +83,4 @@ Sapuan menjawab dengan denyut tambahan itu lagi. Setia. Sabar.
 
 Ia akan memberitahu Sela besok pagi, dan gadis itu akan membuka halaman baru di peta nama — gerbong terakhir name train Caldrest, yang namanya belum diberikan manusia mana pun tapi sudah menjawab "ada" setiap malam selama seribu tahun. Dan untuk pertama kalinya, pekerjaan memberinya nama tidak terasa seperti memberi. Terasa seperti membalas.
 
-Pasar Caldrest melahirkan tren baru tanpa diminta: batu-batu kecil penggorengan diukir nama singkat pemiliknya, meniru tradisi batu batas ladang utara. Pedagang menyebutnya "batu janji". Ossian mencatat fenomena itu dengan komentar resmi pertamanya soal budaya jalanan: "ini bukan tiruan. Ini bahasa yang sedang menular — dan menular dengan baik."
+Pasar Caldrest melahirkan tren baru tanpa diminta: batu-batu kecil penggorengan diukir nama singkat pemiliknya, meniru tradisi batu batas ladang utara. Nama yang melekat di pasar: "batu janji". Ossian akhirnya menulis komentar resmi pertamanya tentang budaya jalanan Karvess: "ini bukan sekadar tiruan. Bahasa ini sedang menyebar — dan penyebarannya justru sehat."

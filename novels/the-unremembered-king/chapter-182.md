@@ -11,7 +11,7 @@ Ashvarok yang membukakan. Dan membeku di tengah gerakan — karena irama ketukan
 
 "Ketukanmu sama," kata Ashvarok pelan. "Persis. Yang kita terima dari bawah sana selama ini... itu milikmu, Pak Barim."
 
-"Mungkin dia nyimpan banyak punya orang," kata Barim sederhana. Ia masuk, duduk, dan melanjutkan dengan kalimat yang menjelaskan delapan puluh tahun hidupnya dalam satu paragraf: "Aku penjaga malam. Kerjaannya dengar. Galeri gelap, tidak ada lampu, cuma kuping dan telapak. Semua nat kuhafal suaranya. Termasuk..." ia menoleh ke arah bawah, ke arah aula, "...yang besar itu. Dia paling pendiam dari semuanya. Tapi dia jawab kalau disapa sopan. Dulu aku sering ngobrol sama dia pas shift. Satu arah. Aku ngomong, dia diam. Tapi diamnya... nyaman. Seperti duduk sama orang tua yang sudah terlalu tua untuk basa-basi."
+"Mungkin dia nyimpan banyak punya orang," kata Barim sederhana. Ia masuk, duduk, dan melanjutkan dengan kalimat yang menjelaskan delapan puluh tahun hidupnya dalam satu paragraf: "Aku penjaga malam. Kerjaannya dengar. Galeri gelap, tidak ada lampu, hanya kuping dan telapak. Semua nat kuhafal suaranya. Termasuk..." ia menoleh ke arah bawah, ke arah aula, "...yang besar itu. Dia paling pendiam dari semuanya. Tapi dia jawab kalau disapa sopan. Dulu aku sering ngobrol sama dia pas shift. Satu arah. Aku ngomong, dia diam. Tapi diamnya... nyaman. Seperti duduk sama orang tua yang sudah terlalu tua untuk basa-basi."
 
 Ashvarok duduk di seberangnya, dan untuk beberapa saat dua penjaga malam itu — satu seribu tahun, satu delapan tahun shift — saling memandang dengan pemahaman yang tidak butuh penjelasan.
 
@@ -27,7 +27,7 @@ Hari keempat dan kelima, ingatan Barim kembali seperti pasang: konteks dulu (tem
 
 Yang datang hari kelima membuatnya duduk diam sepanjang sore di halaman gudang: kenapa ia menolak meninggalkan galeri sembilan waktu karantina pertama, kenapa ia selalu menolak semua tawaran pekerjaan permukaan, kenapa ia — kata ibu Tamma — "selalu melirik ke bawah tiap kali lewat lorong timur".
 
-"Karena aku sudah jadi penjaganya," kata Barim akhirnya, kepada Ashvarok dan Sela yang mendengarkan. "Delapan tahun. Bukan cuma bekerja. Sumpah juga, dalam hati. Orang tua dulu bilang nat-nat tua itu butuh didengarin biar tidak kesepian. Jadi aku dengarin. Semua malam." Ia memandang ke arah aula. "Terus kebocoran datang, aku lupa semuanya, dan dia... dia tetap sendirian di bawah sana. Delapan belas tahun tanpa satu pun orang yang menyapa sopan."
+"Karena aku sudah jadi penjaganya," kata Barim akhirnya, kepada Ashvarok dan Sela yang mendengarkan. "Delapan tahun. Bukan hanya bekerja. Sumpah juga, dalam hati. Orang tua dulu bilang nat-nat tua itu butuh didengarin biar tidak kesepian. Jadi aku dengarin. Semua malam." Ia memandang ke arah aula. "Terus kebocoran datang, aku lupa semuanya, dan dia... dia tetap sendirian di bawah sana. Delapan belas tahun tanpa satu pun orang yang menyapa sopan."
 
 Ia bangkit. Lelaki tua itu berdiri dengan punggung yang tidak sesuai usia sembilan puluh tahunannya, dan berkata kalimat yang membuat Ashvarok sadar bahwa Barim bukan korban yang baru dipulihkan — Barim adalah rekan bekerja yang baru kembali dari cuti panjang:
 
@@ -55,7 +55,7 @@ Mereka naik dalam hening. Di node pertama, pengikat senior menunggu dengan lilin
 
 Barim berhenti. "Murid?"
 
-"Delapan tahun mengetuk nat tanpa tahu kenapa, dengan irama yang selalu tepat." Pengikat senior mengangguk ke arah aula. "Itu bukan kebetulan. Itu bakat pendengar yang tidak pernah diajari. Kalau dulu ada yang menemukanmu sebelum sunyi datang... kamu akan jadi pembaca terbaik generasimu." Ia mulai naik tangga. "Maka di utara nanti, kau ikut membaca. Bukan cuma jalan-jalan."
+"Delapan tahun mengetuk nat tanpa tahu kenapa, dengan irama yang selalu tepat." Pengikat senior mengangguk ke arah aula. "Itu bukan kebetulan. Itu bakat pendengar yang tidak pernah diajari. Kalau dulu ada yang menemukanmu sebelum sunyi datang... kamu akan jadi pembaca terbaik generasimu." Ia mulai naik tangga. "Maka di utara nanti, kau ikut membaca. Bukan hanya jalan-jalan."
 
 Dan Barim — the Hollowed yang pulih, penjaga malam delapan tahun, guru tamu akademi batu tertua — mengikuti orang tua itu ke atas sambil bergumam kepada Ashvarok yang berjalan paling belakang: "Rajanya keras kepala juga ya, orang-orang sekitar dia."
 

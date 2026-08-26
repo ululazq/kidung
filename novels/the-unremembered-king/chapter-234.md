@@ -27,7 +27,7 @@ Permintaan itu membuat Sareth menulis catatan pengantar khusus untuk sesi mereka
 
 "Dulu kalian adalah yang dipanggil. Sekarang kalian belajar memanggil. Kalian akan jadi guru terbaik sekolah ini — karena kalian tahu persis bagaimana rasanya berada di ujung lain dari sebuah lagu. Ajari kami hal yang hanya diketahui orang yang pernah hilang."
 
-Dan pelajaran pertama yang mereka bawa justru membalik protokol: "jangan tunggu keluarga yang nyanyi dulu. Kadang yang hilang juga ingin jadi yang menyapa duluan — supaya terasa dia bukan cuma diterima, tapi juga DIHARAPKAN."
+Dan pelajaran pertama yang mereka bawa justru membalik protokol: "jangan tunggu keluarga yang nyanyi dulu. Kadang yang hilang juga ingin jadi yang menyapa duluan — supaya terasa dia bukan hanya diterima, tapi juga DIHARAPKAN."
 
 Aturan baru itu langsung dicoba di latihan name train sore hari — dan berhasil melebihi harapan: jiwa-jiwa pemulang lama mulai ikut membuka lagu untuk pos-pos yang keluarganya belum lengkap, dan irama kedalaman merespons lebih cepat dari biasanya, seperti mendengar suara teman lama yang akhirnya bicara.
 
@@ -45,7 +45,7 @@ Dan wilayah pesisir (44 jiwa): masih putih — karena satu masalah unik yang bel
 
 Kalimat nat pesisir itu dikutip ibu Tamma di dapurnya, ditambah komentar:
 
-"Nah kan. Semua makhluk cuma butuh lagu. Bahkan yang tinggal di laut."
+"Nah kan. Semua makhluk hanya butuh lagu. Bahkan yang tinggal di laut."
 
 ---
 
@@ -153,4 +153,4 @@ Ashvarok menyelesaikan mangkuknya sampai habis, menaruh sendoknya, dan berkata v
 
 — Akhir batch "Musim yang Tepat & Sekolah Mendengar" —
 
-Di margin neraca bab 234 itu, Sela menambahkan catatan kecil yang khas arsipnya: "hal-hal kecil hari ini yang layak diingat: teh habis dua teko lebih banyak dari kemarin; nat sudut pasar disapa tujuh orang (rekor baru); dan satu anak kecil berhenti di depan nat lorong barak untuk bilang 'malam, batu' sebelum pulang." Ashvarok membaca, mengangguk, dan membalas dengan satu kata di bawahnya: "bagus". Karena memang begitulah cara dunia yang baik berjalan: bukan lewat peristiwa besar, tapi lewat sapaan-sapaan kecil yang tidak pernah putus.
+Di margin neraca bab 234 itu, Sela menambahkan catatan kecil yang khas arsipnya: "hal-hal kecil hari ini yang layak diingat: teh habis dua teko lebih banyak dari kemarin; nat sudut pasar disapa tujuh orang (rekor baru); dan satu anak kecil berhenti di depan nat lorong barak untuk bilang 'malam, batu' sebelum pulang." Ashvarok membaca sampai habis tanpa berkomentar — dan justru itu yang membuat Sela yakin surat itu penting. Dan dunia yang baik punya cara berjalan sendiri: pelan, sederhana, lewat sapaan yang tidak pernah putus.

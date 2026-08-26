@@ -133,13 +133,13 @@ Dan satu adegan terakhir di tepi Jalan Nama barat laut — dicatat Harn di buku 
 
 Seorang anak laki-laki lima tahun — generasi baru barat laut, lahir setelah kabur malam itu — berhenti di depan kain panjang, menunjuk satu pola, dan bertanya kepada ibunya: "Ini siapa?"
 
-"Itu kakek buyutmu," jawab ibunya. "Dia pulang kemarin. Dia sekarang ada di rumah nenek besar."
+"Kakek buyutmu sendiri," kata ibunya sambil tersenyum. "Dia pulang kemarin. Sekarang ia tinggal di rumah nenek besarnya."
 
-Anak itu mempertimbangkan informasinya dengan keseriusan lima tahun, lalu berkata kalimat yang membuat Harn berdiri diam sampai mereka pergi:
+Anak lima tahun itu mencerna kabar tersebut dengan sungguh-sungguh, lalu berkata kalimat yang membuat Harn berdiri diam sampai mereka pergi:
 
-"Kalau begitu besok aku bawa gambar kucingku ke sini. Biar kakek buyut juga kenal dia."
+"Kalau begitu besok aku bawa gambar kucingku ke sini. Supaya kakek buyut ikut mengenal dia."
 
-Kain-kain itu tidak pernah selesai diceritakan. Dan justru itu gunanya: Jalan Nama adalah tempat generasi baru bertemu generasi lama lewat pertanyaan-pertanyaan paling sederhana di dunia.
+Cerita pada kain-kain itu memang tidak ada habisnya. Di situlah gunanya Jalan Nama: generasi baru dan generasi lama bertemu lewat pertanyaan-pertanyaan sesederhana mungkin.
 
 ---
 

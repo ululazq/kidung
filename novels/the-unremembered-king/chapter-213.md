@@ -38,7 +38,7 @@ Barim giliran berikutnya. Penjaga malam tua itu meletakkan telapaknya lebih lama
 
 "Siapa?" tanya Harn dari barisan saksi.
 
-"Suara perempuan tua. Instruksinya:" Barim membaca ulang irama yang diterjemahkan bersama Kovan siang harinya: "'Dan bila mereka datang — jangan takutkan air. Air bukan musuhmu. Air cuma langit yang turun menyapa.'"
+"Suara perempuan tua. Instruksinya:" Barim membaca ulang irama yang diterjemahkan bersama Kovan siang harinya: "'Dan bila mereka datang — jangan takutkan air. Air bukan musuhmu. Air hanya langit yang turun menyapa.'"
 
 Kovan mencatat di kolom pertanyaan: "perempuan tua itu siapa? Pendeta tertinggi? Pemilik dapur kuil? Atau orang terakhir yang tinggal di lembah setelah semua pergi?" Tidak ada jawaban malam itu. Tapi instruksi perempuan tua itulah yang menjadi alasan pasal dua protokol tidak pernah dicabut: air tetap dibawa ke setiap kunjungan Karveth-Ulm, dan api — sesuai janji perempuan tua itu — tidak pernah takutkan air lagi.
 

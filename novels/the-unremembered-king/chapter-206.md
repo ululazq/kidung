@@ -17,7 +17,7 @@ Wawancara dimulai pekan itu. Barim mewawancarai para penjaga malam tua di lima k
 
 "Ya sudah," kata penjaga tua itu, dan suaranya pecah pada kata kedua. "Boleh juga."
 
-Di kota ketiga, temuan itu berbentuk orang: seorang nenek penjual sayur yang — setelah tiga jam percakapan yang baru perlahan-lahan mengakui — terbukti pendengar alami yang tidak pernah tahu istilahnya. Selama enam puluh tahun ia "obrolin batu-batu pasar biar tidak kesepian", dan batu-batu itu, kata neneknya, "paling nurut sama aku dibanding juragan mana pun". Barim pulang dari wawancara itu dalam keadaan hampir tidak bisa bicara, dan laporannya kepada Sela hanya satu kalimat: "Daftar kita kurang. Pendengar alami itu bukan empat generasi. Mereka tiap generasi ada, cuma tidak pernah dipanggil dengan namanya."
+Di kota ketiga, temuan itu berbentuk orang: seorang nenek penjual sayur yang — setelah tiga jam percakapan yang baru perlahan-lahan mengakui — terbukti pendengar alami yang tidak pernah tahu istilahnya. Selama enam puluh tahun ia "obrolin batu-batu pasar biar tidak kesepian", dan batu-batu itu, kata neneknya, "paling nurut sama aku dibanding juragan mana pun". Barim pulang dari wawancara itu dalam keadaan hampir tidak bisa bicara, dan laporannya kepada Sela hanya satu kalimat: "Daftar kita kurang. Pendengar alami itu bukan empat generasi. Mereka tiap generasi ada, hanya tidak pernah dipanggil dengan namanya."
 
 Sela langsung membuka halaman arsip baru di atas peta nat: DAFTAR PENDENGAR YANG BELUM DIPANGGIL. Entri pertamanya adalah nenek penjual sayur dari kota ketiga.
 
@@ -27,11 +27,11 @@ Pak Dekan meninggalkan catatan yang dibaca Sela — arsip pribadi sang guru yang
 
 "Sekarang bisa ditulis ulang," kata Sela, "sebagai fakta arsip."
 
-"Ditulis ulang saja," kata dokter itu, dan mengambil kembali laporan lamanya dari tasnya — ia membawanya, ternyata, sudah bertahun-tahun menunggu ada yang bertanya. "Tapi tambahkan nama mereka. Semua pasien yang mimpi itu. Delapan belas nama. Mereka berhak jadi bagian fakta, bukan cuma efek sampingnya."
+"Ditulis ulang saja," kata dokter itu, dan mengambil kembali laporan lamanya dari tasnya — ia membawanya, ternyata, sudah bertahun-tahun menunggu ada yang bertanya. "Tapi tambahkan nama mereka. Semua pasien yang mimpi itu. Delapan belas nama. Mereka berhak jadi bagian fakta, bukan hanya efek sampingnya."
 
 "Dan nat di bawah pasar?" tanya Ashvarok.
 
-Sela membuka catatan wawancara: "Penjaga lapak ikan. Kata ibunya dulu, jangan pernah buang air kotor ke situ dan tiap tahun ganti lilinnya — dan keluarga itu nurut tanpa tahu kenapa, empat generasi." Gadis itu menatap catatannya sendiri. "Mereka jaga nat itu lebih lama dari umur ordo Penjaga Rekam. Tanpa satu pun dokumen. Cuma karena nenek moyang mereka bilang begitu."
+Sela membuka catatan wawancara: "Penjaga lapak ikan. Kata ibunya dulu, jangan pernah buang air kotor ke situ dan tiap tahun ganti lilinnya — dan keluarga itu nurut tanpa tahu kenapa, empat generasi." Gadis itu menatap catatannya sendiri. "Mereka jaga nat itu lebih lama dari umur ordo Penjaga Rekam. Tanpa satu pun dokumen. Hanya karena nenek moyang mereka bilang begitu."
 
 "Maka di halaman penghargaan peta ini," kata Ashvarok, "tulis dua nama keluarga itu juga. Penjaga lapak ikan dan keluarganya. Empat generasi penjaga tanpa jabatan adalah penjaga yang paling tulus, dan arsip yang adil harus bilang begitu."
 
@@ -75,8 +75,8 @@ Kepingan cinder-glass latihan dibagikan, satu murid per nat, lingkaran penuh, da
 
 Yang terjadi kemudian dilaporkan Kovan dengan angka yang dicek empat kali: selama tujuh belas menit, ketiga puluh satu nat menyanyikan name train secara SERENTAK tanpa dipimpin siapa pun — sinkron sempurna, padahal murid-murid itu tidak pernah berlatih bersama dalam formasi tersebut. Kedalaman tidak ikut menyanyi. Kedalaman hanya... mendengarkan. Dan getar yang naik dari aula jam itu, kata Barim yang kebetulan turun, "bukan suara lagu. Suara orang yang duduk di meja panjangnya dan akhirnya melihat kursi-kursinya terisi".
 
-Sareth Vayin menonton latihan itu sampai selesai, lalu berkata kepada Ashvarok dengan suara yang sudah tenang karena sudah selesai menggigil: "Aku empat puluh tahun mencari peninggalan kelas tertinggi seni ini di arsip-arsip kota besar. Ternyata dia bukan di arsip mana pun. Dia di bawah aula kita, menunggu murid." Wanita tua itu tertawa pendek. "Dan guru yang nyusun kursinya tidak minta bayaran. Cuma minta murid datang."
+Sareth Vayin menonton latihan itu sampai selesai, lalu berkata kepada Ashvarok dengan suara yang sudah tenang karena sudah selesai menggigil: "Aku empat puluh tahun mencari peninggalan kelas tertinggi seni ini di arsip-arsip kota besar. Ternyata dia bukan di arsip mana pun. Dia di bawah aula kita, menunggu murid." Wanita tua itu tertawa pendek. "Dan guru yang nyusun kursinya tidak minta bayaran. Hanya minta murid datang."
 
 Sejak hari itu, murid tingkat dua berlatih di lingkaran nat tiap pekan. Kursi-kursi tua itu mulai mengenal bunyi kelas — dan Sela menambahkan satu baris di Peta Tempat Duduk Tamu, dengan kapur biru:
 
-"Catatan arsip: kursi-kursi ini tidak dibangun untuk upacara. Dibangun untuk SEKOLAH. Penyusunnya cuma salah hitung waktu satu-dua ribu tahun. Muridnya datang."
+"Catatan arsip: kursi-kursi ini tidak dibangun untuk upacara. Dibangun untuk SEKOLAH. Penyusunnya hanya salah hitung waktu satu-dua ribu tahun. Muridnya datang."

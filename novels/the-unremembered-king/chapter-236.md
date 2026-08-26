@@ -37,7 +37,7 @@ Baru ia bangkit. Dan kalimat pertamanya di meja makan:
 
 Enam puluh satu jiwa naik sepanjang hari — dan setiap kenaikan menjadi pelajaran membaca baru, karena tiap keluarga punya pola kain berbeda:
 
-Ada keluarga yang kainnya memuat nama-nama dengan motif BUNGA — dan ketika ibu keluarga naik, ia langsung tertawa: "siapa yang nunun bunga? Nama anakku itu jelek banget bunyinya!" Anaknya menjawab sambil menunjuk adik-adiknya: "kak Rennia yang nunun. Katanya biar tidak kelihatan dia paling favorit." — dan perdebatan siapa anak favorit itu berlangsung dua puluh menit di depan seluruh pos, sampai Lompa memukul-mukul meja: "SEMUA ANAK ITU SAMA DI KAIN. Kalian yang beda."
+Ada keluarga yang kainnya memuat nama-nama dengan motif BUNGA — dan ketika ibu keluarga naik, ia langsung tertawa: "siapa yang nunun bunga? Nama anakku itu jelek sekali bunyinya!" Anaknya menjawab sambil menunjuk adik-adiknya: "kak Rennia yang nunun. Katanya biar tidak kelihatan dia paling favorit." — dan perdebatan siapa anak favorit itu berlangsung dua puluh menit di depan seluruh pos, sampai Lompa memukul-mukul meja: "SEMUA ANAK ITU SAMA DI KAIN. Kalian yang beda."
 
 Ada keluarga yang pola kainnya ternyata SALAH — garis-garisnya kurang satu, karena penenun dulu salah hitung saat sedang sedih. Ketika kesalahan itu dibacakan, keluarga pengganti (yang sudah jadi keluarga resmi pasal 14) meminta polanya TIDAK dikoreksi: "biarkan garis kurangnya tetap ada. Itu bukti nenek kita manusia — sedih pun masih nunun untuk kita."
 
@@ -83,7 +83,7 @@ Ashvarok berdiri di depan pola itu lama. Lalu berkata kepada kepala kamp yang me
 
 "Ini kamu," kata kepala kamp itu. "Lompa yang nunun semalam. Katanya, kalau ada orang yang tiap hari menyapa nat-nat kami lewat lagu dan tidak pernah minta dibalas... dia juga pantas masuk Jalan Nama."
 
-Ashvarok diam sebentar.
+Ashvarok memberi jeda sebentar sebelum bicara.
 
 "Balas," katanya akhirnya. "Tenun balasan. Polanya bebas."
 

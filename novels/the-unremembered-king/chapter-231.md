@@ -41,9 +41,9 @@ Nenek buta pemilik pantun Widur, ditemani Ilo dan Sovana dari timur, berangkat k
 
 "Dia tidak mengajar," laporan Kovan, "dia mendengar dulu keluarga menyanyikan versi kasar mereka, lalu memperbaiki satu per satu suku katanya sambil bercerita soal nenek moyang yang membuatnya. Dua jam per kamp. Setelah dia pergi, nat-nya sudah hafal."
 
-Dua pekan: delapan dari sembilan nat selatan kini mengenal pantun keluarganya. Nat kesembilan — milik kamp terpencil di dasar lembah, penghuninya cuma enam orang dari satu rahim — masih diam total.
+Dua pekan: delapan dari sembilan nat selatan kini mengenal pantun keluarganya. Nat kesembilan — milik kamp terpencil di dasar lembah, penghuninya hanya enam orang dari satu rahim — masih diam total.
 
-"Ninth silent," tulis Kovan di neraca dengan istilah barunya, "tapi bukan mati. Iramanya ada, sangat pelan, seperti napas orang sakit yang membaik. Dia cuma butuh lebih lama. Mungkin pantun mereka belum ketemu bentuk akhirnya."
+"Ninth silent," tulis Kovan di neraca dengan istilah barunya, "tapi bukan mati. Iramanya ada, sangat pelan, seperti napas orang sakit yang membaik. Dia hanya butuh lebih lama. Mungkin pantun mereka belum ketemu bentuk akhirnya."
 
 Maka dibuatlah keputusan kecil yang besar artinya: jadwal pemulangan wilayah ketiga TIDAK dipatok tanggal. Pertama kalinya proyek ini berkata pada dunia: kami akan datang saat lembah siap, bukan saat dokumen bilang.
 
@@ -69,7 +69,7 @@ Sebelum pulang, Thessa bertanya hal yang membuat Barim menulis catatan itu:
 
 Barim menjawab jujur: "Dia sadar."
 
-"Lalu kenapa protokolnya cuma bergilir? Kenapa tidak tiap malam?"
+"Lalu kenapa protokolnya hanya bergilir? Kenapa tidak tiap malam?"
 
 Karena itulah, sejak pekan berikutnya, nat lorong barak utara punya pengunjung SETIAP MALAM — jadwal yang disusun ulang oleh seluruh murid akademi atas inisiatif mereka sendiri, dan oleh ibu Tamma diberi nama:
 
@@ -87,7 +87,7 @@ Nat tangga arsip disebut "Kawan Baca" — karena arsiparis selalu baca sambil be
 
 Dan ketika Sela bertanya apakah nama-nama ini harus masuk kanon resmi, jawaban datang dari tempat tak terduga: nat-nat itu sendiri. Melalui irama yang diterjemahkan Kovan dengan senyum:
 
-"Tidak usah. Nama kami cukup diketahui yang menyapa. Kalau semua masuk dokumen, nanti yang menyapa cuma orang yang sudah baca dokumen." Jeda irama. "Dan inti sistem ini justru: datang tanpa harus baca apa-apa."
+"Tidak usah. Nama kami cukup diketahui yang menyapa. Kalau semua masuk dokumen, nanti yang menyapa hanya orang yang sudah baca dokumen." Jeda irama. "Dan inti sistem ini justru: datang tanpa harus baca apa-apa."
 
 Maka untuk pertama kalinya dalam sejarah arsip Caldrest, Sela membuat keputusan arsip yang isinya TIDAK MENCATAT — dan mencatat keputusan tidak-mencatat itu sebagai entri resmi terakhir pekan, dengan catatan pinggir yang menjadi salah satu halaman favorit pengunjung Arsip sampai lama setelahnya:
 
@@ -125,6 +125,6 @@ Karena delapan bulan silam, ribuan keluarga mengisi formulir pemerintah tentang 
 
 Catatan Odell dibacakan ibu Tamma di dapur, dan tanggapannya langsung dipakai sebagai penutup rapat pekan oleh Ashvarok:
 
-"Bilang ke anak itu: kolomnya jangan cuma satu. Kasih dua. Yang kedua isinya: 'kapan terakhir kamu menyanyi untuk dia?'"
+"Bilang ke anak itu: kolomnya jangan hanya satu. Kasih dua. Yang kedua isinya: 'kapan terakhir kamu menyanyi untuk dia?'"
 
-Di margin neraca bab 231 itu, Sela menambahkan catatan kecil yang khas arsipnya: "hal-hal kecil hari ini yang layak diingat: teh habis dua teko lebih banyak dari kemarin; nat sudut pasar disapa tujuh orang (rekor baru); dan satu anak kecil berhenti di depan nat lorong barak untuk bilang 'malam, batu' sebelum pulang." Ashvarok membaca, mengangguk, dan membalas dengan satu kata di bawahnya: "bagus". Karena memang begitulah cara dunia yang baik berjalan: bukan lewat peristiwa besar, tapi lewat sapaan-sapaan kecil yang tidak pernah putus.
+Di margin neraca bab 231 itu, Sela menambahkan catatan kecil yang khas arsipnya: "hal-hal kecil hari ini yang layak diingat: teh habis dua teko lebih banyak dari kemarin; nat sudut pasar disapa tujuh orang (rekor baru); dan satu anak kecil berhenti di depan nat lorong barak untuk bilang 'malam, batu' sebelum pulang." Ashvarok membaca pelan, lalu menulis satu kata di margin: "tepat". Dunia yang baik ternyata berjalan seperti itu: bukan oleh lompatan besar, tapi oleh sapaan kecil yang tidak pernah putus.

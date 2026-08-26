@@ -240,7 +240,7 @@ Mereka datang membawa dua cangkir teh dingin. Satu untuk nat. Satu diletakkan di
 
 "Dan batu menjawab," kata Renn.
 
-"Tidak." Ashvarok menggeleng pelan, senyum kecil di wajah tubuh mereka. "Yang menjawab adalah KAU — dari dalam sana. Semua jawaban setelah itu cuma gema."
+"Tidak." Ashvarok menggeleng pelan, senyum kecil di wajah tubuh mereka. "Yang menjawab adalah KAU — dari dalam sana. Semua jawaban setelah itu hanya gema."
 
 Nat tua menyala hangat. Dan iramanya — oleh kedua penghuni tidak perlu diterjemahkan lagi:
 

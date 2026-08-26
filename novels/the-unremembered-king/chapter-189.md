@@ -82,7 +82,7 @@ Kekuatan bisa disegel. Konsistensi tidak.
 ---
 
 Dan penutup terakhir bab — peristiwa kecil di hari pertama sekolah Sela sebagai kepala arsip yang bekerja penuh: gadis itu masih berangkat sekolah biasa pagi harinya (keputusan ibu Tamma, tanpa banding), baru bekerja arsip siang harinya. Ketika teman-teman sekelasnya menanyakan bagaimana rasanya jadi pejabat termuda Karvess, jawaban Sela dicatat gurunya di buku harian kelas:
-"Tidak kerasa jadi pejabat. Cuma rasanya seperti dapur — cuma yang disimpan nama, bukan beras."
+"Tidak kerasa jadi pejabat. Hanya rasanya seperti dapur — hanya yang disimpan nama, bukan beras."
 
 Guru kelas itu menambahkan satu baris di bawah catatannya, dan kalimat ini kelak dikutip dalam pidato pelantikan kepala arsip-arsip berikutnya di seluruh Karvess:
 "Hari ini anak-anak belajar dari Sela bahwa jabatan besar tidak membuat orang jadi lain — ia hanya memberi lebih banyak meja untuk menaruh teh bagi orang lain."

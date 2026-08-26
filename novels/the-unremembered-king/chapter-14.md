@@ -85,7 +85,7 @@ Brannoc melepaskan lengannya. Ia menatap lorong B sekali lagi, dan kali ini Ashv
 
 "Maka lorong-lorong lain bakal ikut sunyi. Nama-nama bakal hilang satu-satu, mulai dari yang paling jarang dipanggil." Ashvarok mengucapkan ramalan itu dengan suara teknis, seperti membaca retakan, karena itulah satu-satunya cara untuk mengatakannya tanpa menakuti siapa pun termasuk dirinya sendiri. "Tapi masih awal, Brannoc. Yang muda selalu lapar. Yang lapar itu bisa dikunci — kalau ada orang yang tahu lokasi gemboknya."
 
-Brannoc menatapnya lama. Pertanyaan "kamu tahu dari mana" sudah berdiri di antara mereka sejak minggu-minggu lalu. Foreman tua itu tidak pernah mengucapkannya, dan hari ini juga tidak.
+Brannoc memandangnya cukup lama sampai jawabannya jadi tidak perlu. Pertanyaan "kamu tahu dari mana" sudah berdiri di antara mereka sejak minggu-minggu lalu. Foreman tua itu tidak pernah mengucapkannya, dan hari ini juga tidak.
 
 "Kalau kamu butuh sesuatu buat ngunci apa pun," katanya akhirnya, "bilang duluan ke aku. Bukan sesudahnya."
 

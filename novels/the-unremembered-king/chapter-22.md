@@ -71,7 +71,7 @@ Ia memasuki barak ketika Sela sudah merebus air, dan di papan tulis mereka kolom
 
 "Hari ini kamu dipanggil orang besar?" — tulisan tangan Sela, kecil, di pojok.
 
-Ashvarok menatapnya lama. Adiknya menghitung gerobak Quota Office yang datang, petugas yang saling menegur, dan jam-jam ketika kakaknya tidak di rumah — tentu dia menghitung. Anak itu menghitung segalanya.
+Tatapan Ashvarok menempel padanya agak terlalu lama. Adiknya menghitung gerobak Quota Office yang datang, petugas yang saling menegur, dan jam-jam ketika kakaknya tidak di rumah — tentu dia menghitung. Anak itu menghitung segalanya.
 
 Ia mengambil kapur, dan menjawab pertanyaan dengan kebenaran yang bisa dibagi:
 

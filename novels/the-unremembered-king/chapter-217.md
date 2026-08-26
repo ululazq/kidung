@@ -7,7 +7,7 @@ Rapat penyelesaian kasus tanah utara diadakan bukan di balai kota, bukan di Kant
 
 "Kenapa aula?" tanya pengacara perkebunan saat undangan datang.
 
-"Karena yang bersidang bukan cuma manusia," jawab undangan itu, ditulis tangan Sela. "Dan karena di aula ada teh."
+"Karena yang bersidang bukan hanya manusia," jawab undangan itu, ditulis tangan Sela. "Dan karena di aula ada teh."
 
 Meja panjang itu, kata ibu Tamma kemudian, adalah meja paling aneh yang pernah ia lihat: satu sisi duduk wakil perkebunan Timur dengan dokumen-dokumen mereka; sisi lain Caldrest; ujungnya Dewan Regional sebagai penengah hukum; dan nat-nat lingkaran mengelilingi semuanya — hadir sebagai pihak yang tanahnya sedang dibicarakan, sekaligus rumah tempat sidang berlangsung.
 
@@ -27,11 +27,11 @@ Pembuktian berjalan tiga jam. Sela membawakan arsip lelang lengkap; Maera membaw
 
 Lalu giliran saksi hidup pertama: Garm — pekerja ladang tua yang delapan belas tahun silam datang ke kantor perkebunan dan pulang dengan tangan kosong. Ia kini tua, suaranya pelan, dan kesaksiannya pendek:
 
-"Aku cuma mau bilang: kakakku menanam ladang itu dari nol. Batu-batunya dia angkat sendiri dari tanah selama dua musim. Lalu dia hilang. Lalu aku datang ke kantor, dan orang-orang baik di sana menunjukkaniku surat." Ia menatap wakil perkebunan. "Aku tidak marah waktu itu. Aku cuma tidak punya kata-kata. Delapan belas tahun kemudian, kata-katanya baru datang."
+"Aku hanya mau bilang: kakakku menanam ladang itu dari nol. Batu-batunya dia angkat sendiri dari tanah selama dua musim. Lalu dia hilang. Lalu aku datang ke kantor, dan orang-orang baik di sana menunjukkaniku surat." Ia menatap wakil perkebunan. "Aku tidak marah waktu itu. Aku hanya tidak punya kata-kata. Delapan belas tahun kemudian, kata-katanya baru datang."
 
 "Dan kata-katanya?" tanya wakil perkebunan — pemiliknya sendiri, yang hadir tanpa didorong siapa pun.
 
-"Ladang itu bukan milikmu," kata Garm. "Tapi aku juga tidak bisa bilang itu milikkaku. Kakakku yang punya — dan kakakku belum mati. Dia cuma dititipkan." Ia menarik napas. "Itu yang tidak bisa dipahami surat hak kalian: bagaimana cara mencatat bahwa orangnya masih ada, hanya saja di tempat yang tidak punya alamat surat-menyurat."
+"Ladang itu bukan milikmu," kata Garm. "Tapi aku juga tidak bisa bilang itu milikkaku. Kakakku yang punya — dan kakakku belum mati. Dia hanya dititipkan." Ia menarik napas. "Itu yang tidak bisa dipahami surat hak kalian: bagaimana cara mencatat bahwa orangnya masih ada, hanya saja di tempat yang tidak punya alamat surat-menyurat."
 
 ---
 
@@ -92,7 +92,7 @@ Ketika pasal empat dibacakan, Maera menutup bukunya dan berkata kepada Ossian: "
 
 Vess-Morath menutup sidang dengan caranya sendiri. Ketika semua dokumen sudah ditandatangani dan putusan dibacakan ulang kepada nat lingkaran, gema kelompok petani itu mengirim irama panjang yang diterjemahkan Sareth, Kovan, dan kedalaman bersama-sama — terjemahan tersulit mereka sejauh ini, bukan karena bahasanya, melainkan karena isinya:
 
-"Kami mendengar putusanmu. Dan kami ingin kalian tahu apa yang akan kami lakukan pertama kali setelah pulang nanti: bukan memanen. Kami akan duduk di tepi ladang, seperti dulu, saat musim tanam selesai — dan menonton gandum bergoyang. Tiga generasi kami menanamnya dengan tangan; delapan belas tahun orang lain merawatnya dengan hati; dan setelah ini anak-anak kami akan berlari di antara batangnya lagi. Itulah pekerjaan pertama: menonton. Karena petani tidak cuma bekerja di ladang. Petani MELEPAS WAKTUNYA di sana."
+"Kami mendengar putusanmu. Dan kami ingin kalian tahu apa yang akan kami lakukan pertama kali setelah pulang nanti: bukan memanen. Kami akan duduk di tepi ladang, seperti dulu, saat musim tanam selesai — dan menonton gandum bergoyang. Tiga generasi kami menanamnya dengan tangan; delapan belas tahun orang lain merawatnya dengan hati; dan setelah ini anak-anak kami akan berlari di antara batangnya lagi. Itulah pekerjaan pertama: menonton. Karena petani tidak hanya bekerja di ladang. Petani MELEPAS WAKTUNYA di sana."
 
 Sela mencatat terjemahan itu dan memberinya judul di papan Arsip:
 
@@ -106,4 +106,4 @@ Yang membuatku diam hari ini bukan putusannya — melainkan cara para pihak maka
 
 Garm mendapat katanya. Pemuda perkebunan mendapat ladangnya untuk ditaniminya sekali lagi. Vess-Morath mendapat tanahnya kembali. Dan Caldrest mendapat pelajaran: keadilan tidak selalu berarti ada yang kalah. Kadang ia berarti semua orang akhirnya dipindahkan ke tempat yang benar — termasuk yang dulu merasa sudah di tempat yang benar.
 
-Ondrath-Ilm mengirim pesan pertamanya lewat jadwal kunjungan mingguan — bukan permintaan, melainkan kabar: "malam-malam kalian sebulan ini paling tenang yang pernah kujaga. Teruskan." Pesan sependek itu dibacakan Ashvarok di rapat dua kali, karena pendengar meminta pengulangan — dan untuk pertama kalinya tidak ada yang keberatan rapat molor.
+Lewat jadwal kunjungan mingguannya, Ondrath-Ilm menyampaikan kabar pertamanya: "bulan ini malam-malam kalian yang paling tenang pernah kujaga. Teruskan." Pesan sependek itu dibacakan Ashvarok di rapat dua kali, karena pendengar meminta pengulangan — dan untuk pertama kalinya tidak ada yang keberatan rapat molor.

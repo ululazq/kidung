@@ -55,7 +55,7 @@ Ashvarok menoleh ke bawah lorong itu. Kegelapan di ujungnya sudah berubah kualit
 
 Brannoc tiba saat itu juga, dari persimpangan troli, berlari, dan mandor tua itu memahami seluruh keadaan dalam satu pandangan seperti prajurit selalu, gerbang yang terbuka, kegelapan yang mematikan suara, adik angkatnya yang sudah menghadap ke bawah. Yang ia katakan bukan larangan, sebab larangan sudah habis masa pakainya di tambang ini sejak runtuhan pertama.
 
-"Lima puluh tahun aku bekerja di bawah tanah," katanya cepat, "dan aturan pertamanya tetap yang dulu. Bawa orang keluar dulu, bertanya belakangan." Tangannya mencengkeram pundak Ashvarok sekali, keras, lalu melepas. "Aku tunggu di sini sama daftar nama. Kalau pintu kamu gagal kenal kamu, aku yang bongkar lorong ini pakai tangan."
+"Lima puluh tahun aku bekerja di bawah tanah," katanya cepat, "dan aturan pertamanya tetap yang dulu. Orang diselamatkan duluan; pertanyaan bisa menyusul nanti." Tangannya mencengkeram pundak Ashvarok sekali, keras, lalu melepas. "Aku tunggu di sini sama daftar nama. Kalau pintu kamu gagal kenal kamu, aku yang bongkar lorong ini pakai tangan."
 
 "Pintunya tidak akan gagal." Ashvarok mundur satu langkah ke arah kegelapan, dan kegelapan itu sudah mulai memakan suara langkahnya sendiri. "Dia menunggu."
 

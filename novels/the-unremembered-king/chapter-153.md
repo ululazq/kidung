@@ -9,7 +9,7 @@ Ossian Vael datang pada hari kedua ratus dua puluh lima, jam ketiga sore, sendir
 
 Ashvarok meletakkan pahat terakhir ke kotaknya, meluruskan badan, dan menoleh. Mereka belum pernah berdiri dalam satu ruangan tanpa perantara. Selama dua tahun semua percakapan mereka menyusuri jalur lain: lewat Maera, lewat Kovan, lewat laporan, lewat gembok dan patroli dan penutupan darurat. Sekarang hanya ada gudang, lampu minyak yang dipangkas rendah, dan dua orang yang sama-sama tahu bahwa keduanya tahu.
 
-"Pintu itu," kata Ossian, tidak duduk, tidak mendekat, hanya berdiri di ambang dengan satu bahu bersandar ke rangka pintu, "terbuka dari dalam untuk sembilan orang, empat puluh menit setelah pemiliknya memerintahkan supaya tidak dibuka oleh siapa pun. Gemboknya utuh. Berita acara menyebut kalimat terakhir bocah tungku kepada bidang besi, dan juru tulis itu menolak menuliskannya, dan aku sudah membaca kalimat itu dari cara dia menolak." Ia berhenti sebentar. "Terima kasih sudah menunggu. Begitu, kan."
+"Pintu itu," kata Ossian, tidak duduk, tidak mendekat, hanya berdiri di ambang dengan satu bahu bersandar ke rangka pintu, "terbuka dari dalam untuk sembilan orang, empat puluh menit setelah pemiliknya memerintahkan supaya tidak dibuka oleh siapa pun. Gemboknya utuh. Berita acara menyebut kalimat terakhir bocah tungku kepada bidang besi, dan juru tulis itu menolak menuliskannya, dan aku sudah membaca kalimat itu dari cara dia menolak." Ia berhenti sebentar. "Terima kasih atas kesabarannya menunggu. Begitu, kan."
 
 Ashvarok tidak menjawab. Menjawab apa pun di titik ini adalah memberi sesuatu, dan seluruh seni bertahan hidup di tambang ini berdiri di atas prinsip jangan memberi apa pun yang tidak wajib.
 
@@ -29,7 +29,7 @@ Angin itu. Satu-satunya celah yang pernah dilihat siapa pun di tembok pria ini, 
 
 "Maka tawarkanlah," kata Ashvarok. "Kau tidak datang sejauh ini hanya untuk mengaku."
 
-Ossian mengangguk sekali, seperti orang menerima tiket yang benar. "Pembagian sederhana. Aku memegang gembok resmi, surat Spire, teknisi, dan segala sesuatu yang bernama prosedur — dan mulai malam ini aku menahan laporan pintu itu sampai batas waktu yang kita sepakati. Kau memegang apa pun yang membuat pintu-pintu di bawah sana menuruti orang. Dan satu hal lagi, yang nilainya lebih besar dari sisanya: kalau retakan itu akan membesar, kalau hitunganmu bilang malam berikutnya adalah malam yang tidak bisa ditunda, kabari aku sebelum kabar itu datang sendiri. Aku tidak minta tahu caramu. Aku cuma minta jam-nya."
+Ossian mengangguk sekali, seperti orang menerima tiket yang benar. "Pembagian sederhana. Aku memegang gembok resmi, surat Spire, teknisi, dan segala sesuatu yang bernama prosedur — dan mulai malam ini aku menahan laporan pintu itu sampai batas waktu yang kita sepakati. Kau memegang apa pun yang membuat pintu-pintu di bawah sana menuruti orang. Dan satu hal lagi, yang nilainya lebih besar dari sisanya: kalau retakan itu akan membesar, kalau hitunganmu bilang malam berikutnya adalah malam yang tidak bisa ditunda, kabari aku sebelum kabar itu datang sendiri. Aku tidak minta tahu caramu. Aku hanya minta jam-nya."
 
 "Dan kalau aku menolak?"
 

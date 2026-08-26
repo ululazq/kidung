@@ -11,7 +11,7 @@ Pagi Rabat, ibu Tamma mendapati lantai klinik sudah bersih — sapuan searah, ra
 
 Lelaki tua itu memandang sapunya. "Tangan saya yang pilih ini." Ia mengangkat wajah, dan untuk pertama kalinya sejak mereka mengenalnya, senyum ramahnya punya arah: "Berarti tangan saya tahu lebih banyak dari kepala saya. Bagus. Berarti ada yang bisa dicocokkan."
 
-Jam penjaga malam Dua itu menjadi sesi yang semua orang ingat bertahun-tahun. Empat potongan cerita dibacakan seperti biasa — nyanyian troli, luka dingin, delapan tahun, ketukan tiga kali — tapi setelahnya Sela melakukan hal baru: membuka papan pertanyaan. "Malam ini kita tidak cuma membaca ke kamu. Kita tanya. Jawab kalau teringat. Tidak jawab juga boleh."
+Jam penjaga malam Dua itu menjadi sesi yang semua orang ingat bertahun-tahun. Empat potongan cerita dibacakan seperti biasa — nyanyian troli, luka dingin, delapan tahun, ketukan tiga kali — tapi setelahnya Sela melakukan hal baru: membuka papan pertanyaan. "Malam ini kita tidak hanya membaca ke kamu. Kita tanya. Jawab kalau teringat. Tidak jawab juga boleh."
 
 Pertanyaan pertama: "Kamu tinggal di blok mana dulu?"
 

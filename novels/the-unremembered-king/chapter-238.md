@@ -101,7 +101,7 @@ Satu catatan terakhir sebelum tidur di kemah:
 
 Tadi malam, saat rombongan istirahat di tengah pendakian, ibu Tamma membuka wadah tembaga itu dan memeriksa baranya dengan cara yang membuat semua murid akademi terkejut: ia menyentuhnya langsung dengan jarinya — sebentar, seperti ibu mencuci dahi anak yang demam.
 
-"Panasnya pas," katanya. "Dia tidak mau bikin kita kaget."
+"Panasnya pas," katanya. "Dia tidak mau membuat kita kaget."
 
 Dan ketika ditanya bagaimana bisa menyentuh api purba langsung, jawabannya sederhana sekali:
 

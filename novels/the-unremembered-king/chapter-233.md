@@ -7,7 +7,7 @@ Hari pemulangan wilayah ketiga tidak dibuka dengan lagu — melainkan dengan pem
 
 Karena lembah selatan jauh punya nat kesembilan yang hafal semuanya, tradisi pembukaannya berbeda dari utara dan timur: sebelum name train pertama, nat kesembilan membacakan seluruh silsilah delapan kamp — siapa lahir dari siapa, siapa menikah dengan siapa, siapa anak siapa yang hilang — tiga ratus tahun catatan, dibacakan irama demi irama, diterjemahkan Kovan sambil warga timur dan utara mencatat untuk arsip.
 
-Dua jam pembacaan. Tidak ada yang bergerak. Warga timur bilang setelahnya: "kayak mendengar lembah kami menceritakan dirinya sendiri kalau dia bisa bicara."
+Dua jam pembacaan. Tidak ada yang bergerak. Warga timur bilang setelahnya: "seperti mendengar lembah kami menceritakan dirinya sendiri kalau dia bisa bicara."
 
 Dan setelah nama terakhir silsilah dibacakan, nat kesembilan mengirim kalimat penutup pembukaan yang oleh semua kronik dikutip:
 
@@ -41,7 +41,7 @@ Ada yang naik sambil membawa — dalam resonansinya, seperti orang memeluk banta
 
 Ada yang naik paling terakhir — jiwa paling muda wilayah selatan, umur sembilan belas saat dititipkan — dan penunggunya di pos sembilan bukan keluarga pengganti dewasa, melainkan TIM MURID AKADEMI: Harn dan dua belas anak muda yang bersedia "jadi teman sebaya untuk orang yang tertinggal di waktu". Ketika jiwa muda itu naik dan melihat dua belas orang seusianya menyanyikan namanya, ia berkata kalimat yang dikutip seluruh sekolah:
 
-"Aku kira aku akan bangun sebagai orang tua di dunia baru. Ternyata kalian bikin aku masih muda di sini juga."
+"Aku kira aku akan bangun sebagai orang tua di dunia baru. Ternyata kalian membuat aku masih muda di sini juga."
 
 ---
 
@@ -87,9 +87,9 @@ Ia memandang istrinya.
 
 Ashvarok menutup neraca wilayah ketiga malam itu dengan entri yang panjangnya tidak biasa — karena ada tiga hal yang harus ditulis sebelum ia boleh tidur:
 
-Pertama. Widur dan istrinya menunjukkan sesuatu yang tidak pernah kami rencanakan: pemulangan bisa menjadi REUNI yang melewati kematian keluarga sendiri. Pantun menyimpan nama; nat menyimpan orang; dan waktu — yang selama ini kita anggap musuh — ternyata cuma jarak antara dua lagu.
+Pertama. Widur dan istrinya menunjukkan sesuatu yang tidak pernah kami rencanakan: pemulangan bisa menjadi REUNI yang melewati kematian keluarga sendiri. Pantun menyimpan nama; nat menyimpan orang; dan waktu — yang selama ini kita anggap musuh — ternyata hanya jarak antara dua lagu.
 
-Kedua. Pasal 14 bekerja lebih baik dari takutan kami yang paling besar. Dua puluh tujuh jiwa naik tanpa pemanggil dan TIDAK SATU pun bangun ke dunia yang dingin. Buktinya: kalimat si muda sembilan belas tahun — "kalian bikin aku masih muda di sini juga." Kalau itu bukan definisi berhasil, saya tidak tahu apa.
+Kedua. Pasal 14 bekerja lebih baik dari takutan kami yang paling besar. Dua puluh tujuh jiwa naik tanpa pemanggil dan TIDAK SATU pun bangun ke dunia yang dingin. Buktinya: kalimat si muda sembilan belas tahun — "kalian membuat aku masih muda di sini juga." Kalau itu bukan definisi berhasil, saya tidak tahu apa.
 
 Ketiga. Untuk wilayah-wilayah berikutnya (empat belas, masih banyak): pelajaran selatan wajib masuk protokol — PERIKSA WARISAN LISAN KELUARGA SEBELUM MULAI. Jangan anggap arsip kalian lengkap. Dunia menyimpan dirinya dengan cara-cara yang tidak pernah kita duga: pantun, lagu pengantar tidur, cerita jambu curian nenek moyang. Datanglah sebagai pendengar dulu, penulis kemudian.
 
@@ -139,7 +139,7 @@ Kata pengantar itu Ashvarok berikan sambil berkata satu hal lagi yang membuat Th
 
 Thessa mengangguk, mencatat, lalu berkata kalimat terakhirnya sebelum pulang ke Spire keesokan paginya:
 
-"Bapak tahu, delapan bulan silam saya pikir saya dikirim ke sini untuk belajar soal resonansi dan protokol pemulangan." Ia tersenyum. "Ternyata saya dikirim untuk belajar soal MEJA. Meja makan, meja rapat, meja arsip — semuanya cuma soal siapa yang duduk, siapa yang dilayani, dan apakah ada yang lapar yang belum dilayan."
+"Bapak tahu, delapan bulan silam saya pikir saya dikirim ke sini untuk belajar soal resonansi dan protokol pemulangan." Ia tersenyum. "Ternyata saya dikirim untuk belajar soal MEJA. Meja makan, meja rapat, meja arsip — semuanya hanya soal siapa yang duduk, siapa yang dilayani, dan apakah ada yang lapar yang belum dilayan."
 
 Ia melangkah ke pintu, berhenti, dan menoleh sekali:
 

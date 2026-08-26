@@ -9,7 +9,7 @@ Ashvarok berdiri di node kedua jalur katup samping, patroli buta malam ketiga pe
 
 Sunyi ini tidak menciptakan. Ia hanya menelan dan mengeluarkan kembali apa yang pernah masuk ke dalamnya. Tapi sampai malam ini semua yang pernah ia keluarkan adalah potongan lama: lagu Hegemony, kata bahasa pinjaman, rekaman seam. Malam ini ia mengeluarkan sesuatu yang didengarnya baru sepuluh hari lalu. Ia belajar hal baru. Dan kecepatan belajarnya diukur dalam hari.
 
-Ashvarok berdiri sangat diam di kegelapan dan mendengarkan sapuan kedua memutar ulang ketukan itu, lebih pelan, seperti murid yang mengulang soal untuk memastikan hafalannya. Lalu sapuan ketiga tidak datang, dan sunyi kembali ke irama kosongnya, dan raja seribu tahun itu berdiri di lorong sempit dengan satu kesimpulan yang dingin dan bersih: pagar nama mereka bukan cuma sajian bagi retakan ini. Pagar itu juga kamusnya.
+Ashvarok berdiri sangat diam di kegelapan dan mendengarkan sapuan kedua memutar ulang ketukan itu, lebih pelan, seperti murid yang mengulang soal untuk memastikan hafalannya. Lalu sapuan ketiga tidak datang, dan sunyi kembali ke irama kosongnya, dan raja seribu tahun itu berdiri di lorong sempit dengan satu kesimpulan yang dingin dan bersih: pagar nama mereka bukan hanya sajian bagi retakan ini. Pagar itu juga kamusnya.
 
 Ia naik sebelum jadwal, keluar lewat bahu timur aula dengan langkah yang tidak ia rapikan seperti biasanya, karena ada janji yang harus ditepati lebih cepat dari rencana. Kesepakatan sempit dengan Ossian punya satu pasal yang ia tulis sendiri tanpa kertas: kalau hitungan bilang malam berikutnya adalah malam yang tidak bisa ditunda, kabari sebelum lonceng.
 

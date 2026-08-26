@@ -99,7 +99,7 @@ Pekan itu juga, dua tradisi baru lahir tanpa direncanakan — dan langsung menja
 
 Tradisi pertama: TEH DUA SENDOK. Setiap sore setelah name train, seratus dua puluh empat cangkir teh diseduh di dapur aula — masing-masing dengan dua sendok gula penuh, sesuai perjanjian malam terakhir kedalaman. Yang minum bukan hanya pemulang Vess-Morath; semua orang Caldrest ikut, karena seperti kata ibu Tamma: "teh manis rasanya beda kalau diminum sendirian."
 
-Tradisi kedua: MENUNGGU DI TEMPAT YANG BENAR. Ketika keluarga-keluarga utara pulang kerja sore lewat ladang, mereka berhenti sebentar di tepi batas — tempat batu-batu nama itu berdiri — dan menyanyikan satu gerbong pendek name train keluarganya sendiri. Bukan panggilan. Cuma kabar. "Kami pulang dengan selamat" dalam bahasa yang delapan belas tahun silam tidak ada artinya, dan sekarang menjadi kalimat paling sering dinyanyikan di utara.
+Tradisi kedua: MENUNGGU DI TEMPAT YANG BENAR. Ketika keluarga-keluarga utara pulang kerja sore lewat ladang, mereka berhenti sebentar di tepi batas — tempat batu-batu nama itu berdiri — dan menyanyikan satu gerbong pendek name train keluarganya sendiri. Bukan panggilan. Hanya kabar. "Kami pulang dengan selamat" dalam bahasa yang delapan belas tahun silam tidak ada artinya, dan sekarang menjadi kalimat paling sering dinyanyikan di utara.
 
 
 Ashvarok menulis entri penutup pekan di Hourglass-nya, satu kalimat:

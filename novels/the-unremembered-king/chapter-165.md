@@ -63,7 +63,7 @@ Malam itu juga, Brannoc dan Ashvarok menuruni jalur katup samping berdua, dan pa
 
 Mereka berhenti di node keenam, titik balik, dan Brannoc memandang ke arah kegelapan aula untuk pertama kalinya dari jarak dekat — delapan banding tiga, ambang bersisi pendek, lambang ikatan yang dilapisi batu polos — dan mandor tua itu diam lama, lalu berkata tanpa menoleh:
 
-"Lima puluh tahun aku bekerja di tambang ini dan baru malam ini aku lihat ruang yang kamu menjaga. Aku pikir bakal kerasan. Aula, segel, kerajaan gelap." Ia menggeleng pelan. "Ternyata cuma ruangan kosong besar. Seperti gudang yang belum diisi." Jeda. "Kamu sendirian di sini bertahun-tahun, Renn. Di tempat kosong sebesar ini."
+"Lima puluh tahun aku bekerja di tambang ini dan baru malam ini aku lihat ruang yang kamu menjaga. Aku pikir bakal kerasan. Aula, segel, kerajaan gelap." Ia menggeleng pelan. "Ternyata hanya ruangan kosong besar. Seperti gudang yang belum diisi." Jeda. "Kamu sendirian di sini bertahun-tahun, Renn. Di tempat kosong sebesar ini."
 
 "Tempatnya memang kosong," kata Ashvarok. "Isi selalu ada di atas."
 

@@ -23,7 +23,7 @@ Dan di sana, dalam rekaman batu, ia menemukan resep sup ayam Vessia. Utuh. Ditul
 
 Ossian menyalin resep itu dengan tangannya sendiri ke kertas biasa, melipatnya, menyimpannya di saku dada kanan di samping salinan suara kakaknya, dan berkata kepada Maera yang menunggu di pintu menara:
 
-"Kalau nanti Caldrest punya dapur besar — akademi butuh dapur kan? — sup ayam ini masuk menuunya. Resep keluarga penjaga." Ia memandang menara yang menolak runtuh itu sekali lagi. "Utara tidak hilang, Nona Tull. Dia cuma menunggu orang membacanya."
+"Kalau nanti Caldrest punya dapur besar — akademi butuh dapur kan? — sup ayam ini masuk menuunya. Resep keluarga penjaga." Ia memandang menara yang menolak runtuh itu sekali lagi. "Utara tidak hilang, Nona Tull. Dia hanya menunggu orang membacanya."
 
 ---
 
@@ -96,7 +96,7 @@ Sejarah akan mencatat bahwa utara dibuka oleh dua tradisi pendengar dan satu jab
 ---
 
 Dan penutup terakhir — satu baris dari Sela di bawah entri kakaknya, kapur biru, sesuai tradisi keluarga:
-"Koreksi kecil untuk sejarah: ibu itu bukan bicara ke air. Dia bicara ke anak-anaknya. Airnya cuma kebetulan ada di antara mereka. — S."
+"Koreksi kecil untuk sejarah: ibu itu bukan bicara ke air. Dia bicara ke anak-anaknya. Airnya hanya kebetulan ada di antara mereka. — S."
 
 ---
 

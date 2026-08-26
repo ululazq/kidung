@@ -47,7 +47,7 @@ Ruangan berubah suhu menurut perasaan Ondar, padahal udaranya sama saja. Brannoc
 
 "Aku simpan sendiri soal itu sejak dulu." Ondar maju satu langkah, dan sekarang bicaranya keluar begitu cepat sampai nyaris menabrak dirinya sendiri. "Malam kemarin aku dengar bunyi itu, dan bunyi itu menempel di kepalaku seperti iklan pasar, dan pagi tadi waktu aku cuci muka, kepalaku memberikanku gambar. Gambar baris pinggir buku itu. Deret huruf yang aneh, miring-miring, seperti huruf orang sakit, ada dua tanda centang kecil di atasnya, seperti orang mengajari bocah membaca. Dan iramanya cocok, Pak. Dua suku kata, tekan pertama lebih panjang, yang kedua ditahan sedikit sebelum lepas. Persis. Aku hitung tiga puluh kali dari tadi siang. Persis."
 
-Brannoc menatapnya lama. Lengan kanannya yang bekas patah itu turun sedikit, kebiasaan ketika orang itu sedang berpikir berat.
+Mata mandor tua itu bertahan di wajahnya lebih lama dari biasanya. Lengan kanannya yang bekas patah itu turun sedikit, kebiasaan ketika orang itu sedang berpikir berat.
 
 "Kamu hafal bentuk huruf yang tidak bisa kamu membaca."
 

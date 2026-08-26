@@ -7,7 +7,7 @@ Tiga pemulangan pertama mengubah segalanya, dan yang merasakannya paling dalam a
 
 Kedalaman mendengar ketiga pemulangan itu lewat nat-natnya — setiap nama dipanggil, setiap jiwa naik ke dunia, setiap tangis bayi di rumah utara dan tawa dua keluarga yang bersatu kembali — dan pada malam ketiga, iramanya berhenti total selama satu jam penuh. Para penjaga malam Caldrest yang mengenal polanya langsung sadar ini bukan diam biasa. Bukan diam marah. Diam yang sedang memproses sesuatu yang terlalu besar untuk diproses sambil berdetak.
 
-Ondar yang melapor ke Ashvarok dekat tengah malam. "Galeri sembilan sunyi satu jam penuh," kata penjaga tua itu, dan tangannya masih memegang lentera yang belum diletakkannya karena ia datang tanpa sempat meletakkan apa pun. "Aku sudah jaga malam dua puluh tahun, raja. Sunyi semacam itu cuma ada dua artinya — dan aku yakin ini yang baiknya. Tapi kau lebih tahu."
+Ondar yang melapor ke Ashvarok dekat tengah malam. "Galeri sembilan sunyi satu jam penuh," kata penjaga tua itu, dan tangannya masih memegang lentera yang belum diletakkannya karena ia datang tanpa sempat meletakkan apa pun. "Aku sudah jaga malam dua puluh tahun, raja. Sunyi semacam itu hanya ada dua artinya — dan aku yakin ini yang baiknya. Tapi kau lebih tahu."
 
 Ashvarok memakai mantelnya sebelum Ondar selesai bicara.
 
@@ -49,7 +49,7 @@ Detak genap. Ya. Dan satu denyut kecil setelahnya yang Kovan catat di kamus iram
 
 "Dua. Wilayah kedalaman dibuka perlahan sebagai ruang hidup gabungan: mulai dari aula yang sudah terbuka, lalu level-level atas, dipetakan bersama, aturannya disepakati kedua pihak sama banyak."
 
-Detak genap — lalu denyut panjang. Semua menoleh ke nat pusat. Denyut itu berulang, dan setelah beberapa saat Kovan menerjemahkan dengan hati-hati: "Dia mau mencatat syarat. Aturan rumah harus ditulis oleh penghuninya juga. Bukan cuma oleh kita tentang dia."
+Detak genap — lalu denyut panjang. Semua menoleh ke nat pusat. Denyut itu berulang, dan setelah beberapa saat Kovan menerjemahkan dengan hati-hati: "Dia mau mencatat syarat. Aturan rumah harus ditulis oleh penghuninya juga. Bukan hanya oleh kita tentang dia."
 
 "Catat sebagai sub-pasal," kata Maera, yang sudah menyiapkan kertasnya sebelum diminta. "Aturan rumah: disusun bersama. Ditandatangani dua pihak." Kedalaman menjawab dengan detak genap yang sedikit lebih cepat, irama yang semua orang mulai kenal sebagai tawa.
 
@@ -59,7 +59,7 @@ Ya.
 
 "Empat. the Veyl Akademie menjadi institusi Karvess resmi — nama resminya begitu, meski warga tetap memanggilnya akademi batu, dan tidak ada guru yang berani melarang julukan itu; lulusannya menjadi jembatan antara permukaan dan kedalaman."
 
-Ya — dengan denyut tambahan yang diterjemahkan Sareth kemudian sebagai "dan aku mau jadi gurunya juga, bukan cuma tempat latihan". Baru belakangan semua orang tahu kalau kedalaman sudah lama melakukannya diam-diam: mengoreksi irama latihan murid lewat nat.
+Ya — dengan denyut tambahan yang diterjemahkan Sareth kemudian sebagai "dan aku mau jadi gurunya juga, bukan hanya tempat latihan". Baru belakangan semua orang tahu kalau kedalaman sudah lama melakukannya diam-diam: mengoreksi irama latihan murid lewat nat.
 
 "Lima." Sela berhenti, membaca ulang catatan kecilnya seperti tidak percaya, lalu melanjutkan dengan suara yang berubah. "Pasal lima diajukan... oleh tamu tua kita sendiri, lewat irama tambahannya tadi malam. Bunyinya: 'ajari aku segala hal manusia. Aku seribu tahun hanya tahu cara menyimpan.'"
 

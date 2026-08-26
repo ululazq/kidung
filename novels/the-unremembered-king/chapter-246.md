@@ -43,7 +43,7 @@ ANGKATAN 3 SEKOLAH MENDENGAR:
 
 Dan satu catatan penutup dari Renn sendiri — ditulis dengan huruf miringnya, disetujui Ashvarok dalam tiga detik:
 
-"Kalau murid luar bertanya kenapa belajar menyapa penting... jawabannya bukan teori. Jawabannya aku: anak yang delapan bulan silang cuma didengar batu, sekarang punya keluarga, sekolah, dan masa depan. Itu bukan kurikulum. Itu bukti."
+"Kalau murid luar bertanya kenapa belajar menyapa penting... jawabannya bukan teori. Jawabannya aku: anak yang delapan bulan silang hanya didengar batu, sekarang punya keluarga, sekolah, dan masa depan. Itu bukan kurikulum. Itu bukti."
 
 ---
 
@@ -77,7 +77,7 @@ Murid Aru menyanyikan nyanyian nelayan. Murid Kaveth membacakan syair gandum. Mu
 
 Dan semua nat menjawab — masing-masing dalam iramanya sendiri, tapi semuanya hangat.
 
-"Ini pelajaran pertama," kata Ashvarok kepada para murid. "Tidak ada bahasa yang salah untuk menyapa. Yang salah cuma satu: tidak menyapa sama sekali."
+"Ini pelajaran pertama," kata Ashvarok kepada para murid. "Tidak ada bahasa yang salah untuk menyapa. Yang salah hanya satu: tidak menyapa sama sekali."
 
 Renn melanjutkan dari dalam, dan Ashvarok mengulanginya keras-keras:
 
@@ -138,7 +138,7 @@ Neraca akhir bab — dua tangan:
 
 Hari 912 (Ashvarok): Murid angkatan 3: 52. Yang paling muda: gadis Vel-Morra yang menenun permohonannya. Nama: Vessia Morra — dan ya, kami sadar kemiripannya dengan Vess-Morath; katanya itu nama leluhur yang sama. Dunia lebih kecil dari yang kita kira.
 
-Hari 912 (Renn): Delapan bulan silang aku cuma bocah tambang yang didengar satu batu. Hari ini ada anak yang berjalan tiga pekan untuk didengar sekolahku.
+Hari 912 (Renn): Delapan bulan silang aku hanya bocah tambang yang didengar satu batu. Hari ini ada anak yang berjalan tiga pekan untuk didengar sekolahku.
 
 Kita tidak sedang membangun sekolah lagi, Kak Raja.
 

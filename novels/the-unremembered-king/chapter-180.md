@@ -65,7 +65,7 @@ Lalu ia menangis. Dan menertawakan dirinya karena menangis. Dan bertanya apakah 
 
 ---
 
-Kabar itu berjalan melalui Caldrest seperti air menemukan jalurnya: klinik dulu (ibu Tamma yang datang membawa bubur dan tidak sanggup bicara jadi cuma memeluk lelaki tua itu lama sekali), lalu barak (Ondar yang datang dengan wajah anak kecil dan bertanya "Pak Barim ingat Pipit?" dan dijawab "Ingat. Laki-laki kecil yang takut gelap" untuk kedua kalinya — dan kedua kalinya terasa seperti pertama kali dunia bekerja), lalu pasar (Vosk menutup kedainya setengah hari "untuk merayakan dengan cara penengah: diam"), lalu balai kota (Hale mengumumkan hari libur resmi satu hari, pertama kali dalam sejarah kota hari libur untuk alasan bukan bencana).
+Kabar itu berjalan melalui Caldrest seperti air menemukan jalurnya: klinik dulu (ibu Tamma yang datang membawa bubur dan tidak sanggup bicara jadi hanya memeluk lelaki tua itu lama sekali), lalu barak (Ondar yang datang dengan wajah anak kecil dan bertanya "Pak Barim ingat Pipit?" dan dijawab "Ingat. Laki-laki kecil yang takut gelap" untuk kedua kalinya — dan kedua kalinya terasa seperti pertama kali dunia bekerja), lalu pasar (Vosk menutup kedainya setengah hari "untuk merayakan dengan cara penengah: diam"), lalu balai kota (Hale mengumumkan hari libur resmi satu hari, pertama kali dalam sejarah kota hari libur untuk alasan bukan bencana).
 
 Dan sore harinya, di ambang gudang perkakas, Sela datang kepada kakaknya dengan papannya dan permintaan formal terakhir pekan itu:
 

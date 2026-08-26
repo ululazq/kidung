@@ -7,13 +7,13 @@ Kunjungan utara kedua berangkat hari 368 dengan rombongan lebih besar: kafilah d
 
 "Untuk apa?" tanya Ashvarok di jalan.
 
-"Menara arsip kabupaten utara masih berdiri," kata Sareth. "Aku pernah masuk ke sana sekali, empat puluh tahun silam, sebelum semuanya. Arsipnya mungkin utuh — ordo membangun menara arsip untuk bertahan seribu tahun, bukan delapan belas." Jeda. "Dan kalau arsip itu utuh, maka utara tidak cuma punya suara. Ia punya SEJARAH tertulis. Nama lengkap, tanggal lahir, silsilah — semua yang dibutuhkan untuk membawa empat ratus jiwa itu pulang benar-benar."
+"Menara arsip kabupaten utara masih berdiri," kata Sareth. "Aku pernah masuk ke sana sekali, empat puluh tahun silam, sebelum semuanya. Arsipnya mungkin utuh — ordo membangun menara arsip untuk bertahan seribu tahun, bukan delapan belas." Jeda. "Dan kalau arsip itu utuh, maka utara tidak hanya punya suara. Ia punya SEJARAH tertulis. Nama lengkap, tanggal lahir, silsilah — semua yang dibutuhkan untuk membawa empat ratus jiwa itu pulang benar-benar."
 
 Mereka tiba pada hari kesembilan, dan menara arsip — yang dari luar tampak seperti tumpukan batu berlumut — terbuka lewat pintu yang hanya dikenali Sareth: bukan digali, tidak dipaksa; ia menyanyikan nada pembuka dalam bahasa penjaga, dan batu mengenalinya, dan bergeser.
 
 Di dalam: gelap, kering, dingin sempurna. Dan rak-rak. Ribuan gulungan dan tablet cinder-glass, tersusun rapi oleh tangan-tangan yang sudah empat dekade tiada, dijaga oleh sirkulasi udara yang dirancang ordo untuk bekerja tanpa penjaga selama-lamanya.
 
-Sareth berdiri di ambang ruang pertama dan tidak masuk-masuk selama satu menit penuh. Ketika akhirnya melangkah, suaranya pecah sekali: "Arsipnya utuh. Empat puluh tahun aku pikir semua hilang bersama ordo... dan dia tunggu di sini, rapi, menunggu orang datang." Ia memandang Ashvarok. "Kau bilang kedalaman menjaga namamu. Ordo saya juga pernah melakukan hal yang sama untuk Karvess. Kita cuma lupa bahwa kami pernah ada."
+Sareth berdiri di ambang ruang pertama dan tidak masuk-masuk selama satu menit penuh. Ketika akhirnya melangkah, suaranya pecah sekali: "Arsipnya utuh. Empat puluh tahun aku pikir semua hilang bersama ordo... dan dia tunggu di sini, rapi, menunggu orang datang." Ia memandang Ashvarok. "Kau bilang kedalaman menjaga namamu. Ordo saya juga pernah melakukan hal yang sama untuk Karvess. Kita hanya lupa bahwa kami pernah ada."
 
 ---
 
@@ -37,7 +37,7 @@ Ia meletakkan salinan di bangku. Menunggu lelaki tua itu membaca.
 
 Barim membaca lama. Dua kali. Ketiga kalinya ia berhenti di kalimat "subjek diklasifikasi ulang sebagai terpapar bidah", dan Ashvarok melihat sesuatu bekerja di balik wajah tua itu — bukan kemarahan, yang lebih dalam: pemahaman.
 
-"Jadi begitu ceritanya," kata Barim akhirnya. "Aku pikir aku cuma kebetulan selamat." Ia meletakkan kertas itu, meratakannya dengan telapak tangan seperti meratakan adonan. "Ternyata mereka TAHU aku bisa bicara sama dia. Tahu dan pilih diam, biar nanti bilang 'lihat, bidah membuat orang hilang'." Jeda. "Delapan belas tahun aku jadi alat bukti untuk doktrin takut, dan tidak ada satu orang pun yang bilang."
+"Jadi begitu ceritanya," kata Barim akhirnya. "Aku pikir aku hanya kebetulan selamat." Ia meletakkan kertas itu, meratakannya dengan telapak tangan seperti meratakan adonan. "Ternyata mereka TAHU aku bisa bicara sama dia. Tahu dan pilih diam, biar nanti bilang 'lihat, bidah membuat orang hilang'." Jeda. "Delapan belas tahun aku jadi alat bukti untuk doktrin takut, dan tidak ada satu orang pun yang bilang."
 
 "Aku tidak akan minta kamu maafkan Choir," kata Ashvarok. "Itu bukan hakku."
 

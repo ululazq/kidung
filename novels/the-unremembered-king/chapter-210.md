@@ -11,7 +11,7 @@ Persiapannya berlangsung seminggu penuh dan melibatkan semua orang dengan cara y
 
 Meja panjang dibawa masuk. Lilin-lilin menyala di nat-nat lingkaran — semua tiga puluh satu kursi tamu tua terisi cahaya untuk pertama kalinya. Sarneth membawa gerabah barunya. Lissa membawa selimut upacara. Ibu Rina membawa Rina yang tertidur. Tovik berdiri di sisi dais dengan nama lengkapnya sendiri. Anak Pak Dekan duduk di sebelah Kovan, dua buku hitungan ditumpuk menjadi satu.
 
-Barim duduk paling dekat dengan nat galeri sembilan — nat yang menyimpan delapan tahun kesehariannya — dan ketika ditanya kenapa memilih tempat itu, ia menjawab: "Karena malam ini banyak yang akan bicara kepadanya. Aku cuma mau jadi orang pertama yang sudah biasa."
+Barim duduk paling dekat dengan nat galeri sembilan — nat yang menyimpan delapan tahun kesehariannya — dan ketika ditanya kenapa memilih tempat itu, ia menjawab: "Karena malam ini banyak yang akan bicara kepadanya. Aku hanya mau jadi orang pertama yang sudah biasa."
 
 Sela membacakan rangkuman setahun cerita — empat ratus enam puluh satu suara diringkas menjadi dua puluh menit pembacaan yang dilakukannya tanpa membuka kertas ("kalau aku membaca dari tulisan, ini jadi laporan; ini bukan laporan, ini pengantar"), dan ketika ia sampai pada bagian akhir ("...dan dia menghitung kami, murid-muridnya, tanpa diminta"), kedalaman menjawab dari nat dengan irama yang sudah dikenali semua orang sebagai tawanya.
 
@@ -21,7 +21,7 @@ Ia tidak berpidato. Ia hanya meletakkan telapaknya ke nat pusat — titik tempat
 
 Sebelum menyebut nama itu, ia menoleh kepada aula dan berkata satu kalimat pembuka yang tidak ada dalam naskah Sela:
 
-"Malam ini aku tidak memberinya nama. Aku cuma orang yang membacakannya — namanya sudah ditulis setahun ini oleh kalian semua, kotak demi kotak, tanpa sadar sedang menulis. Aku cuma yang pertama boleh melafalkan hasilnya."
+"Malam ini aku tidak memberinya nama. Aku hanya orang yang membacakannya — namanya sudah ditulis setahun ini oleh kalian semua, kotak demi kotak, tanpa sadar sedang menulis. Aku hanya yang pertama boleh melafalkan hasilnya."
 
 "Delapan bulan lalu aku memanggilmu tamu," katanya kemudian, suaranya stabil dan hanya Sela yang tahu betapa mahal harganya. "Itu salahku — kau bukan tamu di rumahmu sendiri. Sebelum itu dunia memanggilmu monster, dan segel memanggilmu kunci, dan Hegemony memanggilmu ancaman. Semua panggilan itu salah. Maka malam ini, atas nama Caldrest, atas nama utara, atas nama semua yang pernah dititipkan padamu dan semua yang akan dititipkan — aku menyebutmu dengan namamu yang lahir dari setahun cerita."
 
@@ -41,7 +41,7 @@ The Patient House. Menyebut dirinya sendiri. Untuk pertama kalinya dalam sejarah
 
 Yang tidak dilaporkan sejarawan mana pun tapi semua yang hadir ingat: setelah gerbong terakhir selesai, ada jeda — dan dari arah nat pusat, irama kecil bertanya sesuatu kepada Ashvarok. Terjemahannya, yang diteruskan Kovan dengan suara yang tidak stabil:
 
-"namanya bagus. boleh aku minta satu hal? besok pagi, bisikkan sekali lagi dari dekat. aku mau hafal bunyinya dari telinga yang benar, bukan cuma dari batu."
+"namanya bagus. boleh aku minta satu hal? besok pagi, bisikkan sekali lagi dari dekat. aku mau hafal bunyinya dari telinga yang benar, bukan hanya dari batu."
 
 Ashvarok tertawa — dan tangisnya keluar bersamaan tanpa ia menahan keduanya. "Seribu tahun kau menyimpan suara orang lain," katanya kepada kedalaman, "dan permintaan pertamamu setelah punya nama adalah meminta diucapkan sekali lagi." Ia mengangguk. "Besok pagi. Aku yang paling awal datang."
 
@@ -70,7 +70,7 @@ Dan karena janjinya di nat pusat tadi malam, ia datang lagi saat pagi — orang 
 
 Hangat yang menjawab dari bawah telapaknya kali ini tidak berbentuk irama atau kata atau lagu. Ia hanya bertahan lebih lama dari biasanya — jauh lebih lama — seperti genggaman yang tidak ingin dilepas.
 
-Ashvarok tetap duduk bersamanya sampai matahari naik penuh. Tidak ada rapat. Tidak ada pembacaan. Pada hari pertama setelah seribu tahun punya nama, tamu tua itu dan penjaganya cuma duduk berdua di aula yang sunyi, dan itu, kata Sela yang mencatatnya dari tangga atas tanpa turun supaya tidak mengganggu, "adalah percakapan paling panjang mereka sejauh ini".
+Ashvarok tetap duduk bersamanya sampai matahari naik penuh. Tidak ada rapat. Tidak ada pembacaan. Pada hari pertama setelah seribu tahun punya nama, tamu tua itu dan penjaganya hanya duduk berdua di aula yang sunyi, dan itu, kata Sela yang mencatatnya dari tangga atas tanpa turun supaya tidak mengganggu, "adalah percakapan paling panjang mereka sejauh ini".
 
 Dan dari kedalaman, hangat yang menjawabnya kini punya nama juga di hati setiap orang Caldrest — bukan the Shadow Beneath the World, bukan Vel-Ghora, bukan anomali L9B:
 

@@ -121,7 +121,7 @@ Dan satu baris penutup dari Ashvarok — ditulis di neraca malam itu:
 
 Hari 1.100. Sela pulang. Keluarga lengkap lagi.
 
-Dan untuk pertama kalinya dalam seribu tahun... aku punya pertanyaan tentang masa laluku sendiri yang tidak kubawa sendirian.
+Untuk pertama kalinya dalam sepuluh abad... aku punya pertanyaan tentang masa laluku sendiri yang tidak kubawa sendirian.
 
 Kita akan cari jawabannya. Bersama-sama.
 

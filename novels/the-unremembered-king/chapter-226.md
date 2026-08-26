@@ -53,7 +53,7 @@ Ketiga siswa duduk dengan tangan kosong. Dan sesuatu yang aneh terjadi pada masi
 
 Daven mendengar ARSITEKTUR — pola-pola antarkasus yang tak terlihat saat dibaca terpisah, cara kebocoran Hegemony merembes ke tujuh belas wilayah dengan urutan yang sama persis. "Kalau saya dengar sambil mencatat, saya akan kehilangan polanya karena sibuk menulis detail," katanya. "Detail sudah ada di arsip. Polanya hanya muncul kalau kita berani tangan kosong."
 
-Pellia mendengar ORANG — dan menangis di menit keempat puluh, saat pembacaan sampai pada pesan pamitan seorang ibu kepada anaknya yang delapan belas tahun silam masih sembilan tahun. Ia tidak ingat isi pesannya persis. "Tapi saya ingat rasanya," katanya. "Dan rasanya itu yang bikin saya yakin pekerjaan ini harus dilanjutkan di Spire."
+Pellia mendengar ORANG — dan menangis di menit keempat puluh, saat pembacaan sampai pada pesan pamitan seorang ibu kepada anaknya yang delapan belas tahun silam masih sembilan tahun. Ia tidak ingat isi pesannya persis. "Tapi saya ingat rasanya," katanya. "Dan rasanya itu yang membuat saya yakin pekerjaan ini harus dilanjutkan di Spire."
 
 Thessa mendengar meja makan.
 
@@ -61,7 +61,7 @@ Thessa mendengar meja makan.
 
 "Selama enam jam saya hanya mikir satu hal: hampir semua pesan pamitan itu menyebut makanan. 'Jangan lupa makan'. 'Sup ibumu masih saya ingat'. 'Ketika pulang, kita makan bareng dulu'." Thessa membuka buku catatannya — satu-satunya catatan yang ia buat, setelah ujian selesai. "Empat dari lima pesan menyebut makanan. Orang yang hilang delapan belas tahun tidak minta keadilan dalam surat terakhirnya. Mereka minta makan bareng."
 
-Ruangan itu sunyi sebentar. Lalu ibu Tamma bangkit, mengambil papan tulis dapur, dan menulis kalimat Thessa di tempat plakat plakat resmi biasanya digantung:
+Sunyi menyapu ruangan untuk sesaat. Lalu ibu Tamma bangkit, mengambil papan tulis dapur, dan menulis kalimat Thessa di tempat plakat plakat resmi biasanya digantung:
 
 "KEADILAN PALING BESAR YANG BISA KITA BERI: MAKAN BARENG LAGI."
 
@@ -75,7 +75,7 @@ Setiap pos jemput wilayah timur kini dilengkapi meja makan, bukan hanya kursi. D
 
 Vess-Morath menyetujui revisi dengan irama yang diterjemahkan Kovan sambil tersenyum:
 
-"Petani memang begini. Sebelum ada urusan apa pun: makan dulu. Kalian butuh delapan bulan untuk sampai ke kebijakan yang kami punya tiga ratus tahun silam." Jeda irama. "Tidak apa-apa. Yang penting sampai. Dan supnya harus asin secukupnya — terlalu asin bikin haus tengah malam, nanti malah bangun."
+"Petani memang begini. Sebelum ada urusan apa pun: makan dulu. Kalian butuh delapan bulan untuk sampai ke kebijakan yang kami punya tiga ratus tahun silam." Jeda irama. "Tidak apa-apa. Yang penting sampai. Dan supnya harus asin secukupnya — terlalu asin membuat haus tengah malam, nanti malah bangun."
 
 Catatan soal tingkat keasinan sup langsung ditambahkan ke protokol resmi wilayah timur sebagai lampiran satu, oleh Daven sendiri, dengan judul "Lampiran Teknis dari Pengalaman Tiga Ratus Tahun".
 

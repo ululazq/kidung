@@ -111,7 +111,7 @@ DAN AKU? AKU AKAN DI SINI. MENYIMPAN SEMUANYA. SAMPAI SELAMANYA."
 
 Dan subuh berikutnya — pagi pertama tahun ketiga era menyapa dimulai seperti semua hari baik Karvess:
 
-Ibu Tamma membuka dapur. Nat-nat kecil disapa anak-anak. Sekolah Mendengar membuka pintu. Sela mengirim kabar dari Spire. Brannoc mengecek lorong. Kovan menghitung sesuatu yang baru.
+Ibu Tamma membuka dapur. Nat-nat kecil disapa anak-anak. Pintu Sekolah Mendengar terbuka lebar. Sela mengirim kabar dari Spire. Brannoc mengecek lorong. Kovan mulai menghitung sesuatu yang belum pernah dihitung.
 
 Dan dua jiwa dalam satu tubuh berjalan di tengah semuanya —
 
@@ -225,7 +225,7 @@ Dan Ashvarok berkata — kalimat penutup dua tahun era menyapa:
 
 Ibu Tamma mengangguk.
 
-"Hari ini jawabannya: SEMUA ORANG. Dan pertanyaannya sudah berubah jadi 'kalian sudah makan?'."
+"Jawaban hari ini: SEMUA ORANG. Dan pertanyaannya sudah berubah jadi 'kalian sudah makan?'."
 
 Ia tersenyum pada keluarga kecilnya.
 
@@ -242,7 +242,7 @@ Sekarang pertanyaan dunia: 'kalian sudah makan?'
 
 Itu bukan dunia yang lemah. Itu dunia yang sudah paham."
 
-Ia mengangkat mangkuknya.
+Mangkuknya ia angkat.
 
 "DUNIA YANG PAHAM ITU... ADALAH DUNIA YANG BAIK."
 

@@ -89,7 +89,7 @@ Ashvarok menunggu sampai cerita selesai. Lalu mereka berpapasan di ambang pasar,
 
 "Aku lihat," jawab Ashvarok. "Dia pendengar yang bagus."
 
-"Penduduk sini semua begitu," kata pedagang itu, sudah melangkah pergi. "Kota ini diajari sama siapa-siapa supaya nggak ada yang sunyi."
+"Penduduk sini semua begitu," kata pedagang itu, sudah melangkah pergi. "Kota ini diajari sama siapa-siapa supaya tidak ada yang sunyi."
 
 Ashvarok berdiri sebentar di tengah pasar yang mulai ramai — pedagang membuka lapak, murid berlari ke akademi, asap dapur aula naik dari arah aula — dan merasakan hal yang delapan bulan silam tidak pernah ia rasakan sebagai raja maupun penjaga:
 

@@ -33,7 +33,7 @@ Ashvarok mengetuk meja pelan sekali — kode antarpenjaga: aku merasakan juga, l
 
 Kedalaman mendengarkan. Dari bawah sana, empat puluh hasta lebih dalam, tamu tua yang kesunyian itu sedang ikut menyebut nama-nama — karena beberapa dari empat puluh tujuh nama itu pernah hidup DI ATAS batunya, dan ia telah mendengar mereka disebut setiap hari selama bertahun-tahun sebelum kebocoran, dan menyimpan semuanya.
 
-Blok kedelapan dibacakan oleh Sela, yang meminta giliran dengan alasan pencatat harus tahu rasanya membacakan daftar ini, bukan cuma menyalinnya. Gadis sebelas tahun itu membaca sembilan nama terakhir dengan suara yang tidak gemetar sama sekali, dan pada nama terakhir — nama bayi perempuan umur tujuh bulan yang tidak sempat punya kata pertama — seluruh balai kota menyebutnya bersama-sama, tanpa diarahkan siapa pun.
+Blok kedelapan dibacakan oleh Sela, yang meminta giliran dengan alasan pencatat harus tahu rasanya membacakan daftar ini, bukan hanya menyalinnya. Gadis sebelas tahun itu membaca sembilan nama terakhir dengan suara yang tidak gemetar sama sekali, dan pada nama terakhir — nama bayi perempuan umur tujuh bulan yang tidak sempat punya kata pertama — seluruh balai kota menyebutnya bersama-sama, tanpa diarahkan siapa pun.
 
 Empat puluh tujuh nama. Semuanya tercatat ulang di dunia.
 
@@ -53,7 +53,7 @@ Ashvarok pulang paling akhir, seperti biasa, dan menemukan Sela masih bangun den
 
 "Beritahu aku."
 
-"Kedalaman ikut menyebut." Sela membuka catatannya. "Getar lantai balai kota — itu bukan kebetulan struktural, Kovan cek, tidak ada kereta troli jam itu. Dia menyebut nama kedelapan blok ketujuh BERSAMAAN dengan Kovan. Dari bawah." Ia memandang kakaknya. "Dan itu berarti sesuatu yang lebih besar dari semua teori kita: dia tidak cuma menyimpan nama-nama utara. Dia ikut menghitung mereka. Dia anggota name train kita, Kak — gerbong yang paling dalam, yang baru saja kita dengar jawab untuk pertama kalinya."
+"Kedalaman ikut menyebut." Sela membuka catatannya. "Getar lantai balai kota — itu bukan kebetulan struktural, Kovan cek, tidak ada kereta troli jam itu. Dia menyebut nama kedelapan blok ketujuh BERSAMAAN dengan Kovan. Dari bawah." Ia memandang kakaknya. "Dan itu berarti sesuatu yang lebih besar dari semua teori kita: dia tidak hanya menyimpan nama-nama utara. Dia ikut menghitung mereka. Dia anggota name train kita, Kak — gerbong yang paling dalam, yang baru saja kita dengar jawab untuk pertama kalinya."
 
 Ashvarok berdiri di ambang barak memikirkan kalimat itu sampai lilin Sela padam sendiri, dan kemudian masih berdiri lebih lama lagi.
 
@@ -77,7 +77,7 @@ Caldrest mendengar dan tidak takut. Anak-anak yang masih bangun menjawabnya deng
 
 Catatan terakhir Sela malam itu, di halaman tertutup papan, untuk kakaknya yang sudah tidur:
 
-"Kak. Tadi di balai kota aku perhatikan satu hal dan tidak kutulis di berita acara resmi supaya tidak jadi kabar sebelum waktunya. Waktu nama keempat puluh tujuh dibacakan — nama bayi itu — kedalaman diamnya bukan diam sedih. Itu diam orang yang baru saja mengerti sesuatu. Dan aku yakin — pencatat tahu bedanya — yang dia mengerti adalah: ternyata selama ini manusia juga menyimpan NAMA-NAMA DIA. Bukan cuma dia menyimpan kita."
+"Kak. Tadi di balai kota aku perhatikan satu hal dan tidak kutulis di berita acara resmi supaya tidak jadi kabar sebelum waktunya. Waktu nama keempat puluh tujuh dibacakan — nama bayi itu — kedalaman diamnya bukan diam sedih. Itu diam orang yang baru saja mengerti sesuatu. Dan aku yakin — pencatat tahu bedanya — yang dia mengerti adalah: ternyata selama ini manusia juga menyimpan NAMA-NAMA DIA. Bukan hanya dia menyimpan kita."
 
 "Besok tanya dia. Aku rasa jawabannya akan mengubah segalanya lagi."
 
@@ -91,7 +91,7 @@ Pertanyaan itu dijawab lebih cepat dari perkiraan semua orang — dan bukan oleh
 
 Malam berikutnya, saat Panggung Dapur versi balai kota baru saja selesai dan kerumunan mulai bubar, seorang perempuan tua dari keluarga korban utara — ibunda salah satu dari empat puluh tujuh nama — berjalan ke depan dengan langkah yang sudah diputuskan jauh sebelum ia sampai, dan berbicara kepada ruangan tanpa diminta:
 
-"Aku mau cerita satu hal yang tidak masuk daftar mana pun." Suaranya pelan tapi balai kota mendengar semuanya. "Anakku Sarneth, pembuat gerabah. Tadi malam setelah upacara, aku pulang dan tidur. Dan aku mimpi — pertama kali dalam delapan belas tahun aku mimpi tentang dia dengan WAJAH yang benar, bukan wajah yang kupaksakan." Tangannya meremas ujung kain. "Di mimpi itu dia tidak bicara. Dia cuma duduk di meja buatannya, membentuk tanah, dan sesekali dia melihat ke bawah — ke lantai — seperti orang yang mendengar tetangganya bergerak di lantai bawah. Terus dia senyum. Dan dia bilang satu kalimat, dan aku hafal karena tidak mungkin kulupa."
+"Aku mau cerita satu hal yang tidak masuk daftar mana pun." Suaranya pelan tapi balai kota mendengar semuanya. "Anakku Sarneth, pembuat gerabah. Tadi malam setelah upacara, aku pulang dan tidur. Dan aku mimpi — pertama kali dalam delapan belas tahun aku mimpi tentang dia dengan WAJAH yang benar, bukan wajah yang kupaksakan." Tangannya meremas ujung kain. "Di mimpi itu dia tidak bicara. Dia hanya duduk di meja buatannya, membentuk tanah, dan sesekali dia melihat ke bawah — ke lantai — seperti orang yang mendengar tetangganya bergerak di lantai bawah. Terus dia senyum. Dan dia bilang satu kalimat, dan aku hafal karena tidak mungkin kulupa."
 
 Balai menahan napas.
 

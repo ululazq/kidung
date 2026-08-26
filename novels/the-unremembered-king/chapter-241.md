@@ -163,7 +163,7 @@ Pekan berikutnya, cerita sore mendapat penambahan tak terduga: siswa Sekolah Men
 
 Maka dibuatlah daftar: setiap hari dua pencerita — satu warga Caldrest, satu siswa sekolah. Jadwalnya ditulis Sela di papan aula, persis format name train.
 
-Dalam sepuluh hari: tiga puluh pencerita. Tidak satu pun mengulang gaya. Brannoc tetap pendek. Ondar tetap laporan. Ibu Tamma tetap lewat mangkuk dan catatan. Maera datang lagi tanpa diundang ("jangan salah paham, aku tidak sentimental; aku cuma melunasi hutang bertahap").
+Dalam sepuluh hari: tiga puluh pencerita. Tidak satu pun mengulang gaya. Brannoc tetap pendek. Ondar tetap laporan. Ibu Tamma tetap lewat mangkuk dan catatan. Maera datang lagi tanpa diundang ("jangan salah paham, aku tidak sentimental; aku hanya melunasi hutang bertahap").
 
 Dan Ashvarok? Ashvarok bercerita tiap malam sekarang — dan diam-diam menyadari sesuatu yang tidak pernah ia akui kepada siapa pun:
 

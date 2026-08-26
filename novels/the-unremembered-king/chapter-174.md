@@ -25,7 +25,7 @@ Tapi data baru mengubah persamaannya. Pertama: hukum baru panggung dapur — cer
 
 Dan begitulah, malam itu, di klinik barak, Ashvarok duduk di samping lelaki tua tanpa nama yang sedang melipat handuk dengan teliti, dan bertanya — bukan "siapa namamu" yang telah menjadi luka rutin, melainkan pertanyaan lain yang belum pernah diajukan siapa pun:
 
-"Pak. Ada orang-orang di barak ini yang mau mengumpulkan cerita tentang kamu. Cerita masa kerjamu, kebiasaanmu, semuanya yang mereka ingat — walau mungkin cuma sedikit, walau namamu tidak ada di antaranya. Lalu cerita itu akan dibacakan kepadamu tiap minggu, seperti yang dilakukan untuk Tovik. Kamu tidak akan dapat namamu balik malam ini, mungkin tidak bulan ini, mungkin tidak pernah. Tapi kamu akan dapat dirimu yang dulu. Mau?"
+"Pak. Ada orang-orang di barak ini yang mau mengumpulkan cerita tentang kamu. Cerita masa kerjamu, kebiasaanmu, semuanya yang mereka ingat — walau mungkin hanya sedikit, walau namamu tidak ada di antaranya. Lalu cerita itu akan dibacakan kepadamu tiap minggu, seperti yang dilakukan untuk Tovik. Kamu tidak akan dapat namamu balik malam ini, mungkin tidak bulan ini, mungkin tidak pernah. Tapi kamu akan dapat dirimu yang dulu. Mau?"
 
 Lelaki tua itu berhenti melipat handuk. Lama. Senyum ramahnya yang tetap hadir berubah bentuk — menjadi sesuatu yang lebih dalam dan lebih sedih, wajah orang yang mendengar kabar tentang rumah yang tidak ia ingat pernah punyanya.
 
@@ -77,7 +77,7 @@ Tiga: dan yang paling penting, kata Ashvarok yang menutup rapat itu, "kita sudah
 
 Hening panjang. Lalu Maera, pelan: "Kabupaten utara. Empat ratus jiwa."
 
-"Empat ratus jiwa," setuju Ashvarok. "Dan sekarang kita punya mesin dapur, bahasa kedalaman, jaringan pendengar, akses arsip ordo tua, dan jabatan Spire yang berutang budi. Bukan lagi pertanyaan bisa atau tidak." Ia menutup papan catatan. "Pertanyaannya cuma urutan bekerja."
+"Empat ratus jiwa," setuju Ashvarok. "Dan sekarang kita punya mesin dapur, bahasa kedalaman, jaringan pendengar, akses arsip ordo tua, dan jabatan Spire yang berutang budi. Bukan lagi pertanyaan bisa atau tidak." Ia menutup papan catatan. "Pertanyaannya hanya urutan bekerja."
 
 Rapat bubar hampir subuh. Yang terakhir tinggal di halaman gudang adalah Ashvarok dan pengikat senior, dua orang yang sama-sama tidak bisa tidur karena kepala mereka penuh, duduk di nat dengan bahu bersandar ke dinding yang sama.
 

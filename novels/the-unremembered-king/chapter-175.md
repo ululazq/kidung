@@ -47,7 +47,7 @@ Mereka naik tanpa bicara sampai permukaan. Di mulut tambang, Caldrest sedang men
 
 Brannoc memandangnya lama. Mandor tua itu telah bekerja lima puluh tahun di bawah tanah dan bertahan melalui runtuhan, karantina, penutupan darurat, Hollowing, dan perang birokrasi — dan pada malam itu, mendengar empat kata dari bocah lorong tujuh, ia duduk pelan-pelan di tangga pos jaga seperti orang yang kakinya baru memberitahunya bahwa usianya sudah tidak muda.
 
-"Seribu tahun kamu pikir kerjaanmu nahan dia," kata Brannoc akhirnya, suara serak. "Dan ternyata dia cuma menunggu kamu menyapa."
+"Seribu tahun kamu pikir kerjaanmu nahan dia," kata Brannoc akhirnya, suara serak. "Dan ternyata dia hanya menunggu kamu menyapa."
 
 "Ya."
 
@@ -67,7 +67,7 @@ Tovik.
 
 The Hollowed tua itu bangkit dari kursinya di sudut — ia hadir tiap panggung dapur sekarang, stasiun tetapnya — dan berkata kepada Ashvarok dengan wajah orang yang baru saja mengerti sesuatu tentang dirinya sendiri:
 
-"Jadi selama ini... yang menghapus nama kita itu bukan yang lapar. Yang lapar cuma duduk di bawah sana menunggu." Ia memandang tangannya sendiri. "Yang menghapus itu yang lain. Yang takut." Jeda panjang, lalu kalimat yang membuat Ashvarok merasakan the Remainder-nya bergerak tanpa dipanggil: "Kalau kau bisa menyapa yang di bawah... aku mau dicoba juga. Nama Tovik bisa balik lewat tangan. Mungkin nama yang hilang lebih lama bisa balik lewat jalur yang sama."
+"Jadi selama ini... yang menghapus nama kita itu bukan yang lapar. Yang lapar hanya duduk di bawah sana menunggu." Ia memandang tangannya sendiri. "Yang menghapus itu yang lain. Yang takut." Jeda panjang, lalu kalimat yang membuat Ashvarok merasakan the Remainder-nya bergerak tanpa dipanggil: "Kalau kau bisa menyapa yang di bawah... aku mau dicoba juga. Nama Tovik bisa balik lewat tangan. Mungkin nama yang hilang lebih lama bisa balik lewat jalur yang sama."
 
 Ashvarok memandang lelaki tua itu lama — the Hollowed pertama yang pernah ia temui di dunia ini, korban yang tidak pernah bisa diselamatkan selama dua tahun, yang kini duduk di dapur barak mengajukan diri sebagai proyek penyelamatan pertama era baru.
 

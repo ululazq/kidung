@@ -47,7 +47,7 @@ Sunyi panjang di barak the Quiet Vein.
 
 Sela memegang dokumen itu dengan dua tangan — gadis sebelas tahun yang dulu mencatat perbedaan "kakaknya" di papan tulis, kini memegang hak legal untuk menamai keluarganya.
 
-"Nama keluarga," bisiknya. "Kami tidak pernah punya. Orang tua kami... orang-orang barak biasanya cuma dipanggil dari blok asal."
+"Nama keluarga," bisiknya. "Kami tidak pernah punya. Orang tua kami... orang-orang barak biasanya hanya dipanggil dari blok asal."
 
 "Karena itu aku datang," kata Ossian. "Birokrasi bisa mengambil banyak hal. Hari ini dia memberi."
 
@@ -89,7 +89,7 @@ Di dalamnya: lembaran arsip pertama yang pernah ia tulis — umur sebelas tahun,
 
 "Hari 34. Kak Renn bertanya apakah aku mau jadi adiknya.
 Aku menjawab iya SEBELUM dia selesai bertanya, karena aku takut dia berubah pikiran.
-Catatan pribadi: orang barak tidak biasa ditanya mau atau tidak. Biasanya cuma diperintah.
+Catatan pribadi: orang barak tidak biasa ditanya mau atau tidak. Biasanya hanya diperintah.
 Hari ini ada orang menanyakan MAU AKU.
 Aku akan menyimpan pertanyaan ini selamanya."
 

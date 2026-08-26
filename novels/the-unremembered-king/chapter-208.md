@@ -43,7 +43,7 @@ Sareth yang menjawab, pelan: "Karena waktu itu belum ada yang mengajarinya bahwa
 
 Ketika Barim dibawa ke nat itu dan diberi tahu apa isinya, lelaki tua itu duduk di lantai lorong dan tertawa sampai air matanya keluar — tawa yang sama seperti saat ia tahu kode ketukannya masih diingat.
 
-"Jadi selama delapan tahun aku ngobrol sendirian di sini..." katanya akhirnya, menyeka matanya dengan punggung tangan, "...ternyata ada yang menyimpan semuanya." Ia menepuk nat itu seperti menepuk punggung kawan lama. "Baguslah. Berarti keseharianku juga ada harganya. Padahal aku cuma komplain soal teh."
+"Jadi selama delapan tahun aku ngobrol sendirian di sini..." katanya akhirnya, menyeka matanya dengan punggung tangan, "...ternyata ada yang menyimpan semuanya." Ia menepuk nat itu seperti menepuk punggung kawan lama. "Baguslah. Berarti keseharianku juga ada harganya. Padahal aku hanya komplain soal teh."
 
 "Kau juga cerita soal bocah itu," kata pasangan hitung itu lembut. "Hari ketiga puluh satu. 'Namanya belum diajarkan padaku, tapi tangisnya bagus.'"
 
@@ -60,11 +60,11 @@ Isi nat itu dibacakan untuk Barim selama dua malam berikutnya oleh pasangan hitu
 
 Kalimat keempat itu yang menghentikan pembacaan malam pertama selama waktu yang lama. Sela akhirnya menulis di kolom pertanyaan pekan depannya: "nat bisa MENOLAK pemberian? Atau nat menyimpan pemberian sebagai BENDA?" — dan tidak ada yang punya jawabannya sampai pekan berikutnya.
 
-Kalimat terakhir itu membuat Sareth Vayin — yang hadir sebagai pengawas protokol — menutup matanya. "Nat ini bukan cuma merekam," kata wanita tua itu. "Dia MEMAHAMI. Tiga ratus hari mengamati seorang penjaga tua sampai tahu kapan penjaga tua butuh tersesat." Ia membuka matanya lagi. "Kalian sadar tidak? Kedalaman belajar kasih sayang dari contoh manusia. Dan guru-gurunya adalah orang-orang biasa yang tidak pernah tahu mereka sedang mengajar."
+Kalimat terakhir itu membuat Sareth Vayin — yang hadir sebagai pengawas protokol — menutup matanya. "Nat ini bukan hanya merekam," kata wanita tua itu. "Dia MEMAHAMI. Tiga ratus hari mengamati seorang penjaga tua sampai tahu kapan penjaga tua butuh tersesat." Ia membuka matanya lagi. "Kalian sadar tidak? Kedalaman belajar kasih sayang dari contoh manusia. Dan guru-gurunya adalah orang-orang biasa yang tidak pernah tahu mereka sedang mengajar."
 
 Barim mendengarkan semuanya dengan tangan di mulut. Dan di akhir malam kedua ia berkata kepada pasangan hitung itu kalimat yang mereka tuliskan kata demi kata:
 
-"Delapan tahun aku pikir aku sendirian menjaga. Ternyata aku DIPERHATIKAN sepanjang waktu." Ia mengusap wajahnya. "Anak-anak, kalau nanti ada yang bilang kalian pekerjaan kalian cuma dengar-dengar batu... bilang saja ada orang tua yang hidupnya diselamatkan dua kali oleh pekerjaan itu."
+"Delapan tahun aku pikir aku sendirian menjaga. Ternyata aku DIPERHATIKAN sepanjang waktu." Ia mengusap wajahnya. "Anak-anak, kalau nanti ada yang bilang kalian pekerjaan kalian hanya dengar-dengar batu... bilang saja ada orang tua yang hidupnya diselamatkan dua kali oleh pekerjaan itu."
 
 "Dua kali?" tanya anak Pak Dekan.
 
@@ -82,7 +82,7 @@ Ashvarok menutup neraca pekan itu dengan entri yang menandai pergeseran era:
 
 Hari 460. Dua hal baru minggu ini: pasangan hitung pertama (Kovan + anak Pak Dekan) dan arsip keseharian pertama (nat galeri sembilan menyimpan delapan tahun rutinitas Barim).
 
-Kesimpulan yang mengubah definisi pekerjaan kami selamanya: kedalaman bukan cuma penyimpan PERISTIWA besar. Dia menyimpan KEHIDUPAN — termasuk teh yang lupa diminum.
+Kesimpulan yang mengubah definisi pekerjaan kami selamanya: kedalaman bukan hanya penyimpan PERISTIWA besar. Dia menyimpan KEHIDUPAN — termasuk teh yang lupa diminum.
 
 Maka dari sekarang, setiap manusia Caldrest yang hidup biasa-biasa saja tahu satu hal: kesehariannya juga berharga untuk disimpan. Dan itu, kupikir, adalah hadiah terbesar yang pernah diberikan sebuah tambang kepada penghuninya.
 

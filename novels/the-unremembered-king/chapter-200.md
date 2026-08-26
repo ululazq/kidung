@@ -45,7 +45,7 @@ Hangat naik dari kedalaman menjawab — dan kali ini, untuk pertama kalinya di h
 
 Aula itu butuh waktu satu menit penuh untuk bisa bicara lagi. Yang memecahnya justru Rina — bayi itu tertawa untuk kedua kalinya dalam hidupnya, tepat ketika hangat kedalaman menyapu lantai, dan seluruh aula ikut tertawa menangis bersamanya, dan ibu Tamma berteriak dari dapur: "Nah! Dia doang yang mengerti!"
 
-Suatu sore Harn menemukan ibu Tamma menghitung ulang catatan tehnya dua kali. "Ada yang salah, Bu?" tanyanya. Jawabannya: "tidak. Angkanya naik lagi. Aku cuma mau memastikan aku tidak salah lihat kebaikan."
+Suatu sore Harn menemukan ibu Tamma menghitung ulang catatan tehnya dua kali. "Ada yang salah, Bu?" tanyanya. Jawabannya: "tidak. Angkanya naik lagi. Aku hanya mau memastikan aku tidak salah lihat kebaikan."
 
 Laporan jaga malam Barim pekan itu hanya satu kata: tenang. Dulu kata itu membuatnya gelisah — penjaga dilatih curiga pada ketenangan. Sekarang ia menulisnya dengan huruf besar, karena akhirnya paham: tenang bukan tanda tidak terjadi apa-apa. Tenang adalah tanda semua orang sedang menjalankan bagian masing-masing.
 

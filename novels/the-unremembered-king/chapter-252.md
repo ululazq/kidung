@@ -57,7 +57,7 @@ Dan sesuatu yang tidak direncanakan terjadi: salah satu utusan — yang paling t
 
 Ketika ditanya kenapa, jawabannya membuat delegasi Caldrest ikut terdiam:
 
-"Sup ini rasanya seperti masakan ibu saya. Ibu saya dulu bilang, kampung kita dulu punya batu yang bicara. Semua orang tertawa dia. Sampai penguasa melarang." Ia memandang tangannya sendiri. "Delapan puluh tahun saya percaya itu hanya cerita gila orang tua."
+"Sup ini rasanya seperti masakan ibu saya. Ibu saya dulu bilang, kampung kita dulu punya batu yang bicara. Semua orang tertawa dia. Sampai penguasa melarang." Pandangannya jatuh ke kedua telapak tangannya sendiri. "Delapan puluh tahun saya percaya itu hanya cerita gila orang tua."
 
 ---
 

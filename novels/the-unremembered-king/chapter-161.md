@@ -29,7 +29,7 @@ Ashvarok membacanya tanpa menyentuh, halaman demi halaman, dan semakin jauh sema
 
 Lilin Sela sudah dingin, tentu saja, karena mereka bicara sampai sore. Ashvarok memandang deret-deret itu lama, dan di dalam dirinya, di ruang tempat the Remainder tinggal seperti bara yang dikubur, ada sesuatu yang bergerak menuju permukaan — ingatan yang bukan milik tubuh Renn, ingatan aula, seratus suara, dan di balik seratus suara itu, satu suara yang lebih tua yang hadir di setiap sumpah penjaga tanpa pernah dicatat di manapun, suara yang dulu mereka sebut pendengar di balik pintu, dan yang tidak pernah, tidak sekali pun dalam seribu tahun, ia pikirkan sebagai BAHASA.
 
-"Aku butuh beberapa malam," katanya akhirnya. "Dan aku butuh janji kedua dari kamu: apa pun yang kita temukan, tidak naik ke Spire sebelum aku setuju. Bukan karena aku tidak percaya kamu. Karena kalau Pembaca Tua tahu kita tahu, perburuan itu berubah dari pencarian menjadi pengepungan."
+"Aku butuh beberapa malam," katanya akhirnya. "Dan aku butuh janji kedua dari kamu: apa pun yang kita temukan, tidak naik ke Spire sebelum aku setuju. Bukan soal aku ragu padamu. Karena kalau Pembaca Tua tahu kita tahu, perburuan itu berubah dari pencarian menjadi pengepungan."
 
 Kovan mengangguk, dan mengulung bukunya, dan di ambang pintu berkata kalimat yang membuat Ashvarok diam sampai lama setelah langkah-langkahnya hilang:
 
@@ -49,7 +49,7 @@ Ashvarok menemukannya dalam empat puluh menit, karena dia tahu tempat-tempat di 
 
 "Kau duduk dua hasta dari wilayah sunyi."
 
-"Aku tahu." Suara Ondar datar, lelah, bukan suara orang yang butuh diceramahi. "Aku bukan mau mengakhiri hidup, Renn. Aku cuma... sepuluh tahun aku jalan terus, bekerja terus, ikut semua aturan baru kalian — name-roll, name train, patroli. Dan hari ini hanya aku yang ingat Dolm. Satu orang. Ibunya sudah tiada. Namanya tidak ada di peta nama karena dia mati sebelum peta itu dibuat." Jeda panjang. "Kalau tidak ada yang ingat, artinya apa, kak?"
+"Aku tahu." Suara Ondar datar, lelah, bukan suara orang yang butuh diceramahi. "Aku bukan mau mengakhiri hidup, Renn. Aku hanya... sepuluh tahun aku jalan terus, bekerja terus, ikut semua aturan baru kalian — name-roll, name train, patroli. Dan hari ini hanya aku yang ingat Dolm. Satu orang. Ibunya sudah tiada. Namanya tidak ada di peta nama karena dia mati sebelum peta itu dibuat." Jeda panjang. "Kalau tidak ada yang ingat, artinya apa, kak?"
 
 Ashvarok memikirkan jawabannya lebih lama dari jawaban mana pun dalam seribu tahun. Di belakang mereka, kegelapan galeri tua bernapas pelan, dan ia sadar betul bahwa mereka sedang duduk di tepi telinga yang selama ini mereka takuti — dan bahwa anak ini tanpa sadar telah datang menangis di depan pintunya.
 

@@ -61,7 +61,7 @@ Tiga — dan ini usul Ashvarok yang disetujui bulat: proyek pemulangan empat rat
 
 Rapat bubar tengah malam. Yang tersisa di halaman gudang hanya keluarga inti — dan Sela yang menutup papan besar dengan kalimat penutup era:
 
-"Hari 390. Hari Utara pertama selesai. Empat ratus nama dibacakan, semuanya menjawab ada. Tiga jiwa pertama masuk jadwal pemulangan tahun ini. Dan satu hal yang tidak akan pernah tertulis di dokumen resmi mana pun tapi harus dicatat di sini: kedalaman menyanyi name train utuh malam ini. Dia belajar lagu keluarga kita. Tamu tua itu sudah bukan tamu lagi."
+"Hari 390. Hari Utara yang pertama: selesai. Empat ratus nama dibacakan, semuanya menjawab ada. Tiga jiwa pertama masuk jadwal pemulangan tahun ini. Dan satu hal yang tidak akan pernah tertulis di dokumen resmi mana pun tapi harus dicatat di sini: kedalaman menyanyi name train utuh malam ini. Dia belajar lagu keluarga kita. Tamu tua itu sudah bukan tamu lagi."
 
 Ia menutup papan dan memandang kakaknya.
 
@@ -87,7 +87,7 @@ Bagian terbesar dan paling sabar dari keluarga yang baru saja selesai menemukan 
 
 Yang tidak tercatat sejarah Hari Utara pertama adalah malam persiapan terakhirnya — ketika seluruh Caldrest begadang bukan untuk merayakan, tapi untuk bekerja: para ibu memasak sepanjang malam (tiga gerobak menjadi tujuh), Harn dan murid-murid akademi memotong kayu name train baru dari papan galeri sembilan tua, dan Ossian menulis empat ratus kartu undangan personal — satu per satu, tangan sendiri, sampai subuh.
 "Kenapa repot?" tanya Maera yang menemukannya masih menulis jam tiga pagi.
-"Karena delapan belas tahun mereka cuma jadi angka di daftar hilang," jawab Ossian tanpa mengangkat pena. "Maka undangan pulang mereka juga tidak boleh fotokopian. Setiap nama layak dapat tulisan tangan."
+"Karena delapan belas tahun mereka hanya jadi angka di daftar hilang," jawab Ossian tanpa mengangkat pena. "Maka undangan pulang mereka juga tidak boleh fotokopian. Setiap nama layak dapat tulisan tangan."
 
 ---
 

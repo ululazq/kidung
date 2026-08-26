@@ -35,7 +35,7 @@ Sela mendengarkan tanpa memotong, lalu bertanya pertanyaan yang hanya bisa datan
 
 "Kalau dia punya detak... apakah kedalaman itu HIDUP? Dan kalau hidup — maka semua yang selama ini dilakukan Hegemony, Choir, dan bahkan segelmu sendiri... itu bukan penjagaan, Kak." Suara gadis itu turun. "Itu menahan sesuatu yang hidup agar tetap kesepian."
 
-Ashvarok tidak menjawab langsung. Ia keluar, berdiri di ambang gudang menghadap tambang, dan merasakan untaian kelima yang baru dibukanya menangkap detak besar itu lagi — pelan, purba, setia.
+Jawaban Ashvarok tidak datang seketika. Ia keluar, berdiri di ambang gudang menghadap tambang, dan merasakan untaian kelima yang baru dibukanya menangkap detak besar itu lagi — pelan, purba, setia.
 
 "Ada kemungkinan ketiga," kata Ashvarok akhirnya. "Bahwa dia bukan hidup dan bukan benda. Dia adalah BAGIAN DUNIA yang seharusnya berhubungan dengan manusia — seperti laut pada nelayan, seperti tanah pada petani. Seribu tahun kita potong hubungannya karena takut. Dan yang tumbuh dari pemutusan itu... adalah Hollowing."
 
@@ -72,7 +72,7 @@ Seribu tahun tidur dalam keheningan yang kupercaya aman. Delapan belas bulan ter
 
 ---
 
-Uji lapangan kolong galeri sembilan memasuki pekan kedua dengan hasil yang memaksa semua teori lama direvisi ulang: bukan cuma sunyi yang berkurang — NAMA-NAMA mulai pulih.
+Uji lapangan kolong galeri sembilan memasuki pekan kedua dengan hasil yang memaksa semua teori lama direvisi ulang: bukan hanya sunyi yang berkurang — NAMA-NAMA mulai pulih.
 Ibu Tamma, yang jaga dapur harian di dekat kolong, adalah yang pertama menyadarinya: seorang pekerja tua regu barat, yang delapan belas tahun dipanggil "Bang Tua" karena namanya sendiri hilang dari ingatan semua orang... tiba-tiba dipanggil nama aslinya oleh rekan kerjanya yang tidak sadar sedang mengoreksi kebiasaan. "Sori, Pak Darmo, kebiasaan."
 
 "Pak Darmo" berhenti bekerja. Memegang sekopnya. Dan bertanya apakah orang lain juga masih ingat namanya itu — dan ketika lima orang menjawab ya sambil terus memanggilnya begitu, lelaki tua itu duduk di tanah tambang dan menangis untuk pertama kalinya dalam kenangan siapa pun.

@@ -5,7 +5,7 @@ chapter: 230
 
 Lembah selatan jauh mendapat namanya bukan karena jauh dari mana pun secara geografis — melainkan karena satu-satunya jalan ke sana melewati punggungan Karveth-Ulm Lama, dan punggungan itu selama tiga ratus tahun dianggap tidak bisa dilewati kafilah.
 
-"Anggapan itu salah," kata Kovan saat rapat perencanaan, memasang peta baru di papan aula. "Yang benar: tidak pernah ada alasan untuk mencoba. Jalurnya ada — jalur penggembala, lebar cukup untuk gerobak kecil, sebelas hari jalan." Ia mengetuk garis putus-putus yang ia gambar sendiri setelah tiga kali turun bersama Ilo. "Yang membuatnya tampak mustahil cuma cerita. Dan kita sudah sering sekali menang melawan cerita."
+"Anggapan itu salah," kata Kovan saat rapat perencanaan, memasang peta baru di papan aula. "Yang benar: tidak pernah ada alasan untuk mencoba. Jalurnya ada — jalur penggembala, lebar cukup untuk gerobak kecil, sebelas hari jalan." Ia mengetuk garis putus-putus yang ia gambar sendiri setelah tiga kali turun bersama Ilo. "Yang membuatnya tampak mustahil hanya cerita. Dan kita sudah sering sekali menang melawan cerita."
 
 Perbedaan wilayah ketiga dari dua sebelumnya langsung terlihat dari angkanya: enam puluh tujuh jiwa, tapi tersebar di sembilan kamp kecil yang tidak saling bersebelahan — bukan satu komunitas besar seperti utara atau timur, melainkan sembilan keluarga besar yang saling berjarak setengah hari jalan, hidup sendiri-sendiri selama tiga ratus tahun.
 
@@ -15,7 +15,7 @@ Dan prediksi itu tepat — dengan satu tambahan yang tidak diprediksi siapa pun.
 
 Ketika rombongan pertama Caldrest tiba di kamp pertama (tujuh hari jalan, gerobak kecil, dibimbing Ilo dan dua penggembala timur), mereka disambut bukan oleh kepala kamp, melainkan oleh seorang laki-laki tua yang berdiri di depan nat kampnya sambil merentangkan tangan seperti menjaga pintu:
 
-"Sudah delapan bulan aku dengar kalian," katanya, suara keras, hampir marah. "Lagu dari utara. Lagu dari timur. Cerita-cerita sore. Semuanya lewat batu-batu kecil di lereng." Ia menurunkan tangannya perlahan. "Delapan bulan, dan nat keluarga kami cuma satu yang tidak ikut bernyanyi. Dia diam. Delapan bulan dia diam dan aku mulai takut — karena kalau semua orang lain bangun dan kami tidak... mungkin keluarga kami sudah tidak ada isinya."
+"Sudah delapan bulan aku dengar kalian," katanya, suara keras, hampir marah. "Lagu dari utara. Lagu dari timur. Cerita-cerita sore. Semuanya lewat batu-batu kecil di lereng." Ia menurunkan tangannya perlahan. "Delapan bulan, dan nat keluarga kami hanya satu yang tidak ikut bernyanyi. Dia diam. Delapan bulan dia diam dan aku mulai takut — karena kalau semua orang lain bangun dan kami tidak... mungkin keluarga kami sudah tidak ada isinya."
 
 Ketika Ashvarok meletakkan telapak tangannya ke nat tua itu — di depan seluruh kamp pertama yang berkumpul — yang keluar bukan gema penuh, bukan nama, bukan cerita.
 
@@ -25,7 +25,7 @@ Yang keluar adalah SATU pertanyaan, diulang-ulang, dalam bahasa penjaga purba:
 
 Kovan butuh waktu sampai tengah malam menerjemahkan maksudnya, dan jawabannya datang dari sumber yang tidak disangka: nenek tertua kamp, perempuan nyaris buta yang dulu pernah disebut-sebut neneknya sendiri soal "saudara yang dititip ke bawah tanah waktu gunung meletus".
 
-"Bukan siapa-siapa," kata nenek itu pelan. "Dia nanya soal SUAMINYA. Nenek buyut saya titip suaminya ke dalam nat waktu kabur malam itu — suaminya yang sakit, nggak sanggup jalan. Kata nenek buyut, nat-nya janji: dia dijaga sampai dunia aman lagi."
+"Bukan siapa-siapa," kata nenek itu pelan. "Dia bertanya soal SUAMINYA. Nenek buyut saya titip suaminya ke dalam nat waktu kabur malam itu — suaminya yang sakit, tidak sanggup jalan. Kata nenek buyut, nat-nya janji: dia dijaga sampai dunia aman lagi."
 
 Ruangan itu sunyi panjang.
 
@@ -64,7 +64,7 @@ Dan pantun mereka bekerja lebih cepat.
 
 Kabar pantun Widur menyebar ke delapan kamp lain dalam sepuluh hari — dan mengubah persiapan pemulangan ketiga menjadi sesuatu yang tidak ada di protokol mana pun: PERBURUAN PANTUN.
 
-Ternyata hampir setiap keluarga selatan punya satu. Pantun pengantar, pantun penjaga, pantun "kalau kau bangun sebelum dunia aman" — diturunkan turun-temurun sebagai warisan lisan yang dianggap cuma hiburan malam, padahal fungsinya adalah kunci: setiap pantun memuat nama jiwa yang dititipkan.
+Ternyata hampir setiap keluarga selatan punya satu. Pantun pengantar, pantun penjaga, pantun "kalau kau bangun sebelum dunia aman" — diturunkan turun-temurun sebagai warisan lisan yang dianggap hanya hiburan malam, padahal fungsinya adalah kunci: setiap pantun memuat nama jiwa yang dititipkan.
 
 Sela mendirikan pos pencatatan pantun di kamp pusat — dengan aturan yang ia tulis sendiri di papan:
 
@@ -80,7 +80,7 @@ Jawaban nenek itu oleh Sela dicatat sebagai kutipan pekan — dan kemudian digan
 
 ---
 
-Pencarian Widur sendiri menjadi operasi terbesar sepanjang proyek — karena nat tua kamp pertama cuma menyimpan SATU jiwa (suaminya), sementara pertanyaannya berkembang: kalau dia masih di sini... di NAT MANA dari sembilan nat selatan?
+Pencarian Widur sendiri menjadi operasi terbesar sepanjang proyek — karena nat tua kamp pertama hanya menyimpan SATU jiwa (suaminya), sementara pertanyaannya berkembang: kalau dia masih di sini... di NAT MANA dari sembilan nat selatan?
 
 Jawabannya butuh sembilan hari perjalanan: Kovan, Ilo, dan dua pemuda kamp berkeliling membawa pantun Widur dari nat ke nat — menyanyikannya satu per satu, menunggu, pindah ke nat berikutnya. Enam nat pertama menjawab dengan irama sunyi yang sopan ("bukan di tempatku"). Nat ketujuh menjawab dengan sesuatu yang membuat rombongan berdiri mematung:
 
@@ -105,7 +105,7 @@ Delapan hari kemudian, di kamp pertama, perempuan tua yang tiga ratus tahun sila
 
 Jawaban perempuan tua itu tidak dibacakan Kovan — ia bicara langsung kepada nat, seperti Marn dulu di timur, dengan suara yang oleh semua saksi digambarkan "tenang sampai kalimat terakhirnya":
 
-"Katanya dia ingat semua suku kata." Ia berdiri, memegang tangan cucu buyutnya untuk jalan. "Maka akhir bulan ini aku yang menyanyikan balasannya. Tiga ratus tahun pantun itu cuma setengah — bagian pertanyaan. Sekarang aku tulis bagiannya yang ditunggu-tunggu."
+"Katanya dia ingat semua suku kata." Ia berdiri, memegang tangan cucu buyutnya untuk jalan. "Maka akhir bulan ini aku yang menyanyikan balasannya. Tiga ratus tahun pantun itu hanya setengah — bagian pertanyaan. Sekarang aku tulis bagiannya yang ditunggu-tunggu."
 
 Dan ia menulis balasan pantun Widur malam itu juga — diktahkan ke Sela supaya masuk arsip, karena "kalau aku sudah buta total, arsipmu yang baca":
 
@@ -126,7 +126,7 @@ Hari 679. Wilayah ketiga belum memulangkan satu jiwa pun — tapi sudah mengajar
 
 Pertama: nama yang dititip bisa terselamatkan oleh LAGU, bukan oleh dokumen. Arsip kami ribuan halaman; pantun mereka empat baris. Keduanya menyelamatkan orang. Jangan pernah merendahkan cara orang lain menjaga ingatan.
 
-Kedua: pencarian Widur menunjukkan bahwa pemulangan bukan cuma soal jumlah nat yang bangun. Ada jiwa-jiwa yang tertidur di nat keluarga LAIN — terpisah dari pantunnya sendiri. Maka mulai sekarang setiap pemulangan wilayah punya tahap baru: PERJALANAN PANTUN. Membawa lagu-lagu keluarga dari nat ke nat sampai semua yang disebut menjawab.
+Kedua: pencarian Widur menunjukkan bahwa pemulangan bukan hanya soal jumlah nat yang bangun. Ada jiwa-jiwa yang tertidur di nat keluarga LAIN — terpisah dari pantunnya sendiri. Maka mulai sekarang setiap pemulangan wilayah punya tahap baru: PERJALANAN PANTUN. Membawa lagu-lagu keluarga dari nat ke nat sampai semua yang disebut menjawab.
 
 Delapan bulan silam kita pikir sudah menulis protokol paling lengkap dunia.
 

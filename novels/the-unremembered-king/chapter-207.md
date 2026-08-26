@@ -61,7 +61,7 @@ Sebelum daftar itu ditulis, ada satu keputusan arsip yang diambil Sela dan menja
 
 "Kenapa ejaannya begitu?" tanya Harn saat Sela menyusun katalog itu. "Bukan bahasa penjaga kan?"
 
-"Bukan," kata Sareth. "Itu bentuk yang kedalaman sendiri pakai untuk menyebut mereka. Bahasanya lebih tua dari penjaga. Dia cuma memberi kami pegangan supaya bisa dipanggil." Wanita tua itu menyentuh daftar itu pelan. "Nama asli mereka kemungkinan tidak bisa diucapkan mulut manusia. Maka panggilan ini bukan pengganti. Ini jemputan."
+"Bukan," kata Sareth. "Itu bentuk yang kedalaman sendiri pakai untuk menyebut mereka. Bahasanya lebih tua dari penjaga. Dia hanya memberi kami pegangan supaya bisa dipanggil." Wanita tua itu menyentuh daftar itu pelan. "Nama asli mereka kemungkinan tidak bisa diucapkan mulut manusia. Maka panggilan ini bukan pengganti. Ini jemputan."
 
 Tiga hari itu bukan hanya membaca. Setiap gelar yang terbaca harus disambuti dengan protokol yang disepakati sebelum turun: tidak ada gema tua yang dibaca lebih dari satu kali sehari, setiap sesi ditutup dengan name train pendek dari murid-murid (bukan permintaan, sekadar perkenalan suara), dan lilin tunggal Barim dinyalakan di titik yang sama tiap pagi — "supaya mereka tahu kita kembali ke tempat yang sama, bukan berpindah-pindah seperti pencari".
 

@@ -19,7 +19,7 @@ Retakan tahu itu juga. Ia bisa merasakan perhatiannya di ujung level, jauh di ba
 
 "Dari mana kita tahu kamu bukan bagian dari sunyinya?" Itu suara salah satu pekerja troli, yang tua, yang suaranya berusaha keras untuk tidak gemetar.
 
-"Pertanyaan yang benar," kata Ashvarok. "Jawabannya begini. Kalau aku bagian dari sunyi ini, kalian tidak akan pernah mendengar aku menyuruh kalian menyebut nama sendiri. Sunyi tidak pernah minta orang menyebut nama. Dia cuma diam sampai nama kalian habis."
+"Pertanyaan yang benar," kata Ashvarok. "Jawabannya begini. Kalau aku bagian dari sunyi ini, kalian tidak akan pernah mendengar aku menyuruh kalian menyebut nama sendiri. Sunyi tidak pernah minta orang menyebut nama. Dia hanya diam sampai nama kalian habis."
 
 Tidak ada jawaban. Yang ada hanya bunyi sembilan orang mengatur ulang posisi di gelap, seret sepatu, napas tertahan, lalu suara Ondar lagi, kali ini tenang karena sudah memutuskan. "Kami ikut. Pimpin."
 
@@ -57,9 +57,9 @@ Pada pemberhentian keenam hal yang ia takutkan terjadi pada yang tertua. Pekerja
 
 "Nama," kata Ashvarok. "Bukan yang panjang. Yang dipanggil ibumu dulu waktu kamu basah hujan."
 
-Ada tarikan napas yang sangat panjang. Lalu suara itu datang kecil sekali, seperti dikirim dari jauh di dalam sumur. "Mama memanggilku... Mamak. Bukan namaku. Tapi cuma dia yang boleh."
+Ada tarikan napas yang sangat panjang. Lalu suara itu datang kecil sekali, seperti dikirim dari jauh di dalam sumur. "Mama memanggilku... Mamak. Bukan namaku. Tapi hanya dia yang boleh."
 
-"Cukup," kata Ashvarok. "Itu sudah pagar. Besok di atas kamu cari orang yang hafal nama panjangmu, dan kamu minta dia menyebutkannya sampai kamu bisa ikut menyebut." Ia mengetuk tiga kali. Kali ini jawabannya datang, nama lengkap, pelan tapi utuh, dan Ondar di belakang mengulanginya keras-keras seperti orang menitip barang.
+"Berhenti di situ," kata Ashvarok. "Itu sudah pagar. Besok di atas kamu cari orang yang hafal nama panjangmu, dan kamu minta dia menyebutkannya sampai kamu bisa ikut menyebut." Ia mengetuk tiga kali. Kali ini jawabannya datang, nama lengkap, pelan tapi utuh, dan Ondar di belakang mengulanginya keras-keras seperti orang menitip barang.
 
 ---
 
@@ -85,6 +85,6 @@ Terima kasih sudah menunggu.
 
 Brannoc menangkap pundak Ondar, menghitung anak-anak inspeksinya dengan matanya, lalu menghitung lagi, dan ketika pandangannya jatuh ke Ashvarok yang berdiri di ambang cahaya itu dengan punggung lurus dan muka yang tidak minta apa-apa, mandor tua itu hanya berkata satu hal, keras, di depan Shift Guard dan juru tulis dan sembilan saksi lainnya, supaya masuk catatan resmi bersama sisanya.
 
-"Delapan puluh enam orang membuat pintu itu. Aku hitung pakai barisan. Sekarang hitunganmu yang naik satu."
+"Delapan puluh enam orang membuat pintu itu. Hitunganku pakai barisan angka. Sekarang hitunganmu yang naik satu."
 
 Di dalam, di balik bidang besi yang menutup lagi dengan lembut, retakan menyapu ruangan yang tiba-tiba kosong, menemukan tidak ada apa-apa kecuali hangat bekas sepuluh orang dan satu pintu yang tidak mau mengenalinya, dan di lorong troli timur, Ashvarok berlutut di nat tua dan membiarkan tangannya gemetar untuk pertama kalinya malam itu, tiga tarikan napas penuh, sebelum bangkit dan berjalan pulang bersama orang-orang yang tidak tahu bahwa raja yang menjemput mereka baru saja kehilangan satu musim dari hidupnya.

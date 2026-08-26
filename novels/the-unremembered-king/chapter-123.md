@@ -21,7 +21,7 @@ Angin sore menggeser debu di antara mereka. Ashvarok membaca baris itu sekali la
 
 "Kode itu tidak pernah masuk dokumen publik," katanya.
 
-"Tidak pernah. Kode itu hidup di empat tempat. Kotak bersegel ungu di rak belakang mejaku. Salinan yang kukirim ke pusat Guild dalam laporan penyidik. Kepala kepala biro yang membaca laporan itu. Dan meja Vael, yang menerima versi lain dari sumber lain." Maera melipat tangannya. "Empat tempat, dan tidak satu pun darinya wajar diketahui oleh jabatan arsip di Spire yang bahkan tidak punya kewenangan meminta barang bukti. Yang membuat permintaan ini mahal bukan isinya. Yang membuatnya mahal adalah daftarnya tahu."
+"Tidak pernah. Kode itu hidup di empat tempat. Kotak bersegel ungu di rak belakang mejaku. Salinan yang kukirim ke pusat Guild dalam laporan penyidik. Kepala kepala biro yang membaca laporan itu. Dan meja Vael, yang menerima versi lain dari sumber lain." Tangannya dilipat Maera di depan dada. "Empat tempat, dan tidak satu pun darinya wajar diketahui oleh jabatan arsip di Spire yang bahkan tidak punya kewenangan meminta barang bukti. Yang membuat permintaan ini mahal bukan isinya. Yang membuatnya mahal adalah daftarnya tahu."
 
 Ashvarok menatap perempuan itu, dan di kepalanya dua hitungan lama mulai berjalan sejajar. Mata internal yang memberi kurir bisu kabar barang belum pernah punya wajah. Dua tahun jaringan panen bekerja dengan mata itu tetap tertutup. Sekarang, sepuluh hari setelah jaringan itu mundur dan diam, sebuah permintaan arsip naik ke Spire dengan kode yang hanya bisa bocor dari dalam.
 

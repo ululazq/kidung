@@ -73,7 +73,7 @@ Di antara pelajaran membaca dan pelajaran menghitung, Sela melakukan pemeriksaan
 
 "Non Sela," tanya anak kecil galeri tujuh saat jam istirahat, sambil menontonnya mencentang. "Kenapa baris yang tidak ada namanya tetap dicentang?"
 
-"Karena yang dicek bukan kertasnya. Yang dicek orangnya masih ada." Ia menutup botol tintanya. "Nama orang itu hilang, bukan dia. Selama barisnya dicentang, berarti kita masih menunggu dia pulang ke namanya. Ada lagi pertanyaan?"
+"Karena yang dicek bukan kertasnya. Yang ia periksa ternyata masih hidup orangnya." Ia menutup botol tintanya. "Nama orang itu hilang, bukan dia. Selama barisnya dicentang, berarti kita masih menunggu dia pulang ke namanya. Ada lagi pertanyaan?"
 
 Anak itu berpikir sungguh-sungguh, lalu mengangkat tangan lagi.
 

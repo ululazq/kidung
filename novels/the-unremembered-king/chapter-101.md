@@ -47,7 +47,7 @@ Ossian membaca yang tersisa dua kali. Baris itu dimulai dari tengah kata yang su
 
 Ia berdiri di depan relief itu tanpa bergerak selama waktu yang membuat lelaki tua penjaga mulai khawatir apakah tamunya sakit.
 
-Margin buku pendiri sectenya pernah berkata tentang nama ini tiga hal. Tidak mati malam itu. Dibayar dengan cara yang lain. Jangan dicari ke kuburan. Dan kini batu di ujung dunia yang tidak penting ini berkata hal pertamanya dengan huruf liturgisnya sendiri. Tidak dikubur. Seseorang pada zaman itu merasa perlu memahat penegasan itu di batu, lalu seseorang pada zaman yang tidak jauh bedanya merasa perlu menghapus separuhnya lagi.
+Margin buku pendiri sectenya pernah berkata tentang nama ini tiga hal. Tidak mati malam itu. Dibayar dengan cara yang lain. Jangan mencarinya di tanah perkuburan mana pun. Dan kini batu di ujung dunia yang tidak penting ini berkata hal pertamanya dengan huruf liturgisnya sendiri. Tidak dikubur. Seseorang pada zaman itu merasa perlu memahat penegasan itu di batu, lalu seseorang pada zaman yang tidak jauh bedanya merasa perlu menghapus separuhnya lagi.
 
 "Pernah ada yang menyalin tulisan ini, Pak?" tanyanya akhirnya.
 

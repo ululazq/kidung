@@ -9,7 +9,7 @@ Tujuan upacara sederhana: kedalaman tidak bisa hadir secara hukum di wilayah uta
 
 Lalu Vess-Morath mengambil giliran bicara — dan pertanyaan gema kelompok itu membuat semua rencana pemulangan harus ditinjau ulang dari akarnya.
 
-Bukan kapan mereka boleh keluar. Bukan apakah dunia sudah siap.
+Persoalannya bukan kapan mereka boleh keluar. Bukan apakah dunia sudah siap.
 
 Pertanyaannya, diterjemahkan Kovan dengan hati-hati:
 
@@ -19,7 +19,7 @@ Hening panjang menyambut pertanyaan itu — bukan karena tidak ada yang mengerti
 
 Murid termuda yang berkata apa yang semua orang pikirkan: "Kami sudah siapin semuanya... kecuali pekerjaan tanahnya. Padahal mereka petani. Petani itu hidupnya nyambung ke tanah."
 
-"Vess-Morath tidak bertanya soal kapan," kata Sareth pelan. "Mereka bertanya soal apa yang tertinggal. Itu pertanyaan orang yang berencana tinggal — bukan cuma datang." Wanita tua itu memandang Ashvarok. "Raja. Ini pertanyaan yang harus dijawab dengan dokumen, bukan irama."
+"Vess-Morath tidak bertanya soal kapan," kata Sareth pelan. "Mereka bertanya soal apa yang tertinggal. Itu pertanyaan orang yang berencana tinggal — bukan hanya datang." Wanita tua itu memandang Ashvarok. "Raja. Ini pertanyaan yang harus dijawab dengan dokumen, bukan irama."
 
 ---
 
@@ -45,7 +45,7 @@ Yang membuat kasus ini berbeda dari semua kasus sebelumnya: untuk pertama kaliny
 
 Ashvarok menulis di neracanya malam itu:
 
-Hari 548. Kami sudah memikirkan protokol pemulangan jiwa: cerita, keluarga, lagu, pekerjaan tertunda. Kami belum pernah memikirkan protokol pemulangan HIDUP: ladang, rumah, sumur, jalan. Delapan belas tahun silam orang-orang utara hilang — dan dunia tidak cuma mengambil keberadaan mereka. Dunia menduduki tempat-tempat mereka, dengan surat hak, stempel, dan segala kesopanan.
+Hari 548. Kami sudah memikirkan protokol pemulangan jiwa: cerita, keluarga, lagu, pekerjaan tertunda. Kami belum pernah memikirkan protokol pemulangan HIDUP: ladang, rumah, sumur, jalan. Delapan belas tahun silam orang-orang utara hilang — dan dunia tidak hanya mengambil keberadaan mereka. Dunia menduduki tempat-tempat mereka, dengan surat hak, stempel, dan segala kesopanan.
 
 Pertanyaan Vess-Morath membuka lapisan baru dari seluruh proyek ini: memulangkan orang tanpa memulangkan tanahnya artinya memulangkan mereka menjadi tamu di rumahnya sendiri.
 
@@ -97,7 +97,7 @@ Sebelum subuh, mereka bertanya kepada pihak yang paling berhak mendengar jawaban
 
 Jawaban gema kelompok petani itu butuh waktu sampai pagi untuk diterjemahkan, dan hasilnya membuat seluruh tim inti yang membacanya harus diam lama:
 
-"Kami petani. Kami tahu beda mencabut rumput dan mencabut padi. Yang satu hama, yang satu hasil. Perkebunan itu bukan rumput — dia cuma orang yang menanam di tanah kami karena pemiliknya tidak ada. Jangan dicabut. Diajak bicara. Tanah yang baik bisa menampung dua penanam selama musimnya jujur. Tapi hak milik kami atas tanah itu harus ditulis ulang dengan benar — bukan untuk kami saja, tapi untuk semua yang akan pulang setelah kami. Dan tulis juga: sebagian panen tahun pertama adalah milik mereka, karena air dan kerja keras mereka juga masuk ke tanah ini."
+"Kami petani. Kami tahu beda mencabut rumput dan mencabut padi. Yang satu hama, yang satu hasil. Perkebunan itu bukan rumput — dia hanya orang yang menanam di tanah kami karena pemiliknya tidak ada. Jangan dicabut. Diajak bicara. Tanah yang baik bisa menampung dua penanam selama musimnya jujur. Tapi hak milik kami atas tanah itu harus ditulis ulang dengan benar — bukan untuk kami saja, tapi untuk semua yang akan pulang setelah kami. Dan tulis juga: sebagian panen tahun pertama adalah milik mereka, karena air dan kerja keras mereka juga masuk ke tanah ini."
 
 Kovan menutup terjemahan itu dan berkata pada ruangan kalimat yang langsung dikutip Sela:
 

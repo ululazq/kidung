@@ -23,7 +23,7 @@ Ia membuka papan catatan besar dan membacakan:
 
 Sela mencatat semuanya tanpa gemetar — gadis itu telah belajar menulis sambil hancur dari ibu Tamma — dan ketika selesai ia mengajukan satu pertanyaan balik yang membuat percakapan itu menjadi yang tersulit bagi Ashvarok sepanjang dua kehidupan:
 
-"Kalau kamu pergi... boleh aku masih menyebut nama aslimu? Bukan untuk memanggil. Cuma supaya dia — yang di bawah sana — tidak jadi satu-satunya yang ingat."
+"Kalau kamu pergi... boleh aku masih menyebut nama aslimu? Bukan untuk memanggil. Hanya supaya dia — yang di bawah sana — tidak jadi satu-satunya yang ingat."
 
 Ashvarok memikirkan pertanyaan itu dengan seluruh seribu tahunnya, dan menemukan bahwa jawabannya sudah ada sejak lama, hanya belum pernah diucapkan.
 
@@ -31,7 +31,7 @@ Ashvarok memikirkan pertanyaan itu dengan seluruh seribu tahunnya, dan menemukan
 
 Ia tersenyum — senyum Caldrest, senyum yang ia pelajari dari ibu Tamma dan Ondar dan Barim.
 
-"Jadi ya. Sebut terus. Dan tambahkan ceritanya: bahwa raja bodoh itu seribu tahun takut dikenal, padahal yang dia butuhkan cuma satu adik keras kepala yang bersikeras mencatat."
+"Jadi ya. Sebut terus. Dan tambahkan ceritanya: bahwa raja bodoh itu seribu tahun takut dikenal, padahal yang dia butuhkan hanya satu adik keras kepala yang bersikeras mencatat."
 
 Sela menulis semuanya. Lalu menutup papannya dan berkata kalimat yang menutup percakapan itu dengan cara keluarga Caldrest menutup hal-hal besar: praktis, hangat, tanpa air mata yang diakui.
 
@@ -95,7 +95,7 @@ Pasal lima ditulis. Dan bulan berikutnya, untuk pertama kalinya, vein-scar Ashva
 
 Satu tambahan lagi malam itu, dari arah yang tidak diduga: Brannoc muncul di ambang gudang perkakas dengan piring bubur sisa dapur dan duduk tanpa diundang — kebiasaan yang sudah menjadi miliknya.
 
-"Dengar tadi," katanya setelah beberapa suapan. "Soal warisan." Ia mengunyah dengan tenang. "Tambahin satu: kalau nanti kamu pergi duluan, aku yang ajarin anak-anak akademi cara panjat darurat dan membaca getar runtuhan. Bukan seni raja. Tapi seni tetap hidup di tambang juga ada, dan selama ini cuma aku sama Ondar yang pegang."
+"Dengar tadi," katanya setelah beberapa suapan. "Soal warisan." Ia mengunyah dengan tenang. "Tambahin satu: kalau nanti kamu pergi duluan, aku yang ajarin anak-anak akademi cara panjat darurat dan membaca getar runtuhan. Bukan seni raja. Tapi seni tetap hidup di tambang juga ada, dan selama ini hanya aku sama Ondar yang pegang."
 
 Ashvarok memandang mantan Foreman itu — orang yang dulu menutup galeri sembilan dengan segel resmi dan kini menawarkan diri melanjutkan pendidikan penjaganya — dan mengangguk sekali.
 
@@ -113,6 +113,6 @@ Tujuh item. Enam penjaga. Satu kota. Dan satu raja yang, untuk pertama kalinya d
 
 Subuh sebelum keberangkatan, satu pengunjung terakhir datang ke gudang perkakas: Tovik.
 The Hollowed tua itu berdiri di pintu dengan sapu di tangannya — masih membawa sapu ke mana-mana, kebiasaan yang tidak pernah hilang bahkan setelah namanya pulih — dan meletakkan sesuatu di meja Ashvarok: sepotong nat kecil, sepanjang telapak tangan, dipotong rapi dari lorong galeri sembilan.
-"Dari nat tempat aku dulu jaga," kata Tovik. "Buat perjalanan. Kalau di utara nanti ada yang ragu sama kalian... tunjukin potongan ini. Mereka kenal galeri sembilan. Semua orang utara kenal." Ia menggaruk kepala, malu sedikit. "Aku tidak punya barang mahal. Cuma itu."
+"Dari nat tempat aku dulu jaga," kata Tovik. "Buat perjalanan. Kalau di utara nanti ada yang ragu sama kalian... tunjukin potongan ini. Mereka kenal galeri sembilan. Semua orang utara kenal." Ia menggaruk kepala, malu sedikit. "Aku tidak punya barang mahal. Hanya itu."
 
 Ashvarok menerima potongan nat itu dengan dua tangan — karena ia tahu persis apa artinya: penjaga lama memberikan SEGMEN DIRINYA untuk melindungi penjaga baru. Dalam tradisi mana pun di dunia ini, tidak ada hadiah yang lebih besar dari itu.

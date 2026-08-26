@@ -41,7 +41,7 @@ Brannoc meletakkan gagang kapak pesanannya di meja — pekerjaan yang dibawanya 
 
 Ruangan diam lagi, dan diam kali ini lebih berat, karena semua orang mencoba membayangkan bagaimana rasanya mendengarkan dunia lewat tembok selama hidup kedua — dan tidak ada yang sanggup.
 
-"Kalau begitu kita berutang padanya bukan cuma pemulangan," kata Ashvarok akhirnya. "Kita berutang penjelasan untuk setiap suara yang pernah ia dengar tanpa bisa menjawab."
+"Kalau begitu kita berutang padanya bukan hanya pemulangan," kata Ashvarok akhirnya. "Kita berutang penjelasan untuk setiap suara yang pernah ia dengar tanpa bisa menjawab."
 
 Sela membuka papannya dan menulis judul baru di halaman bersih: MISI PRIORITAS — BOCAH LORONG TUJUH. Di bawahnya: "Status: masih di dalam. Bukti: dia mengingat ketukan."
 

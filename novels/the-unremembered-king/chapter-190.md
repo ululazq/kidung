@@ -82,7 +82,7 @@ Lanjutan bab 190.
 
 Sistem pengumpul cerita disusun dalam tiga hari — dan desainnya khas Caldrest: bukan komite, melainkan KOTAK. Kotak kayu dengan celah di atas, diletakkan di lima lokasi (dapur barak, klinik, pos Guild, sekolah, dan satu di aula sendiri), berisi kertas dan pensil untuk siapa pun yang mau menulis cerita tentang tamu tua.
 
-Aturannya cuma tiga, ditulis Sela di sisi tiap kotak:
+Aturannya hanya tiga, ditulis Sela di sisi tiap kotak:
 
 "Satu: tulis hanya yang kamu alami sendiri. Dua: boleh satu kalimat. Tiga: tidak ada cerita yang dibaca orang lain tanpa izin kecuali kamu centang kotak kecil di pojok."
 

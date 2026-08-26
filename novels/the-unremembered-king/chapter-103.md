@@ -69,7 +69,7 @@ Kepala bagian kontrak memberinya salinan induk daftar kontrak yang baru saja ia 
 
 Pada halaman yang berisi tenaga galeri tujuh, tangannya berhenti.
 
-Satu nama di sana sudah pernah melewati mejanya lebih dari sekali, dalam daftar pendataan, dalam laporan bulanan, dalam catatan seorang pegawai yang dibekukan jabatannya. Furnace boy lorong tujuh. Faktor tak dikenal yang selama setahun bekerja di bawah segala prosedur yang ia bangun, menambal apa yang harus ditambal, dan mengalahkan setiap jerat yang ia pasang tanpa pernah terlihat mengangkat tangan.
+Satu nama di sana sudah pernah melewati mejanya lebih dari sekali, dalam daftar pendataan, dalam laporan bulanan, dalam catatan seorang pegawai yang dibekukan jabatannya. Bocah tungku dari lorong tujuh. Faktor tak dikenal yang selama setahun bekerja di bawah segala prosedur yang ia bangun, menambal apa yang harus ditambal, dan mengalahkan setiap jerat yang ia pasang tanpa pernah terlihat mengangkat tangan.
 
 Nama pinjamannya tertulis rapi di kolom pemilik kontrak, dengan umur masuk dan utang sisa yang tidak berarti apa-apa, dan mulai malam ini nama itu secara hukum adalah milik biro Ossian Vael.
 

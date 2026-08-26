@@ -129,7 +129,7 @@ Hujan besar selama tiga hari. Banjir kecil di distrik pasar. Dan nat asuhan kemb
 
 Kembar itu panik. Berlari ke barak sambil menangis, minta tolong siapa saja: "TEMAN KEBANJIRAN!"
 
-Yang datang bukan cuma satu-dua orang.
+Yang datang bukan hanya satu-dua orang.
 
 Dalam satu jam: Brannoc dengan regu tambang (ahli saluran air), Gella dengan tim medis kecil (untuk memeriksa apakah "batu bisa kesehatannya terganggu" — pertanyaan yang setahun silang akan ditertawakan), dua belas murid Sekolah Mendengar, dan ibu Tamma membawa sup untuk semua pekerja.
 

@@ -127,7 +127,7 @@ Renn: "Itu bukan kutukannya yang hilang, Kak Raja."
 
 Ashvarok: "Lalu apa?"
 
-Renn: "Kau yang berubah. Kutukanmu dari dulu cuma satu: tidak percaya ada yang mau mendengar."
+Renn: "Kau yang berubah. Kutukanmu dari dulu hanya satu: tidak percaya ada yang mau mendengar."
 
 Sunyi panjang di dalam.
 
@@ -157,13 +157,13 @@ Dan untuk pertama kalinya, mereka tertawa pada waktu yang sama tanpa disepakati.
 
 ---
 
-Pekan berikutnya membawa rutinitas yang semakin dalam: Renn mulai belajar menulis dengan gayanya sendiri (hurufnya miring, tegas, khas anak yang belajar huruf dari papan barak), dan menulis jurnal pertamanya — bukan untuk arsip, cuma untuk dirinya:
+Pekan berikutnya membawa rutinitas yang semakin dalam: Renn mulai belajar menulis dengan gayanya sendiri (hurufnya miring, tegas, khas anak yang belajar huruf dari papan barak), dan menulis jurnal pertamanya — bukan untuk arsip, hanya untuk dirinya:
 
 "Delapan bulan aku dengar dunia. Empat pekan ini aku lihat dunia. Bedanya besar.
 
-Yang paling kusukakan: hujan. Delapan bulan silang aku cuma dengar cerita soal hujan dari nat lorong. Kemarin aku keluar dan hujan jatuh ke wajahku sendiri. Dingin. Sedikit nyeri. Enak banget.
+Yang paling kusukakan: hujan. Delapan bulan silang aku hanya dengar cerita soal hujan dari nat lorong. Kemarin aku keluar dan hujan jatuh ke wajahku sendiri. Dingin. Sedikit nyeri. Enak sekali.
 
-Aku bilang ke Ash, 'hujan enak banget.'
+Aku bilang ke Ash, 'hujan enak sekali.'
 
 Dia jawab, 'kau baru merasakan hujan delapan bulan setelah aku datang. Maafkan aku.'
 

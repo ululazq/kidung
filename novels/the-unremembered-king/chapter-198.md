@@ -35,7 +35,7 @@ Malam pemulangan ketiga berbeda dari dua sebelumnya, dan perbedaannya dimulai da
 
 Tiga orang pendamping sesuai protokol: Ashvarok, Sareth, dan sang ibu. Kovan menunggu di ambang pintu dengan buku hitungannya, karena protokol juga bilang setiap pemulangan harus dihitung dari luar oleh orang yang tidak ikut berdoa.
 
-Dan alatnya bukan batu asah atau alat tenun. Alatnya adalah buaian kayu — buatan Brannoc dan Harn, dari kayu galeri sembilan tua yang dilepas hati-hati saat galeri itu direnovasi. Brannoc menggosoknya dengan minyak tiga malam berturut-turut tanpa menjelaskan kenapa; Harn memahat hiasan kecil di sandarannya yang kalau ditanya dia jawab "cuma bentuk gunung", padahal bentuk itu persis siluet menara tenun utara. Kayu galeri sembilan itu delapan tahun mendengar ribuan name train, dan mungkin karena itu terasa lebih hangat daripada umurnya.
+Dan alatnya bukan batu asah atau alat tenun. Alatnya adalah buaian kayu — buatan Brannoc dan Harn, dari kayu galeri sembilan tua yang dilepas hati-hati saat galeri itu direnovasi. Brannoc menggosoknya dengan minyak tiga malam berturut-turut tanpa menjelaskan kenapa; Harn memahat hiasan kecil di sandarannya yang kalau ditanya dia jawab "hanya bentuk gunung", padahal bentuk itu persis siluet menara tenun utara. Kayu galeri sembilan itu delapan tahun mendengar ribuan name train, dan mungkin karena itu terasa lebih hangat daripada umurnya.
 
 Sebelum mulai, Sareth memegang lengan ibu Rina sebentar. Wajah wanita tua itu serius dengan cara yang membuat semua orang diam.
 
@@ -93,8 +93,8 @@ Tiga dari empat ratus. Dan yang ketiga ini mengajarkan hal yang tidak diajarkan 
 
 Semua teori lama tentang "yang dikunyah kedalaman" runtuh total malam ini. Yang selama ini dikira dimakan... ternyata dititipkan.
 
-Ibu Rina berkata tadi, di pintu, sambil menepuk-nepuk punggung bayinya: "Dia tidak pernah hilang. Dia cuma dititip."
+Ibu Rina berkata tadi, di pintu, sambil menepuk-nepuk punggung bayinya: "Dia tidak pernah hilang. Dia hanya dititip."
 
-Ashvarok menutup bukunya dan berdiri lama di tengah jalan utara yang dingin, memikirkan satu pertanyaan yang lebih besar dari semua yang pernah ia bawa pulang dari misi mana pun: kalau manusia zaman purba cukup percaya untuk menitipkan anak-anak mereka pada kedalaman — anak, bukan cuma api dan hasil panen — maka penitipan itu pasti pernah jadi tradisi yang hidup. Ada caranya. Ada kata-katanya. Mungkin ada lagu-lagunya juga, seperti lagu tadi malam.
+Ashvarok menutup bukunya dan berdiri lama di tengah jalan utara yang dingin, memikirkan satu pertanyaan yang lebih besar dari semua yang pernah ia bawa pulang dari misi mana pun: kalau manusia zaman purba cukup percaya untuk menitipkan anak-anak mereka pada kedalaman — anak, bukan hanya api dan hasil panen — maka penitipan itu pasti pernah jadi tradisi yang hidup. Ada caranya. Ada kata-katanya. Mungkin ada lagu-lagunya juga, seperti lagu tadi malam.
 
 Kenapa generasi setelahnya lupa bahwa menitip itu pernah jadi pilihan? Dan apa lagi yang mereka lupa bersamaannya?

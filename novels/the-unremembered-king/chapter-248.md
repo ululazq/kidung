@@ -185,7 +185,7 @@ Anak-anak Spire yang sekarang jadi pegawai dewan itu, waktu makan siang pertama 
 
 Aku yang isi ulang mangkuk mereka satu per satu tanpa ditanya.
 
-Itu juga pelajaran, Nak-nak: kadang orang tidak butuh diajari mendengarkan. Mereka cuma butuh seseorang mengisi mangkuknya tanpa diminta."
+Itu juga pelajaran, Nak-nak: kadang orang tidak butuh diajari mendengarkan. Mereka hanya butuh seseorang mengisi mangkuknya tanpa diminta."
 
 — Ibu Tamma. Dapur tetap buka.
 
@@ -225,7 +225,7 @@ Tidak ada yang lebih baik dari itu.
 
 Dan satu baris dari Renn di bawahnya:
 
-"Setuju. Tapi aku tambahkan: dunia tidak cuma belajar menyapa dari kita.
+"Setuju. Tapi aku tambahkan: dunia tidak hanya belajar menyapa dari kita.
 
 Kita juga sedang belajar sesuatu dari mereka — bahwa dunia yang lebih besar itu ada, dan mau mendekat, kalau kita cukup jujur untuk membuka pintu."
 

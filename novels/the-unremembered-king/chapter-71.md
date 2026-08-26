@@ -43,7 +43,7 @@ Dia berdiri pelan-pelan, dan menemukan Brannoc sudah berdiri di sampingnya, memb
 
 "Tempat ini mulai diperebutkan," kata Ashvarok. "Tidak oleh manusia."
 
-Brannoc menatapnya lama. Setahun perjanjian diam membuat percakapan seperti ini tidak perlu dimulai dari nol. "Lubang yang sama yang ambil nama Tovik?"
+Brannoc diam mengamatinya beberapa detik penuh. Setahun perjanjian diam membuat percakapan seperti ini tidak perlu dimulai dari nol. "Lubang yang sama yang ambil nama Tovik?"
 
 "Lubang yang sama. Tetapi ini tahap berikutnya." Ashvarok memandangi permukaan air yang tidak bergoyang. "Dulu ia mengambil nama orang. Satu orang, satu blok, satu jam. Sekarang..." Ia tidak menyelesaikan kalimatnya dengan kata-kata, melainkan dengan gerakan tangan yang memutar mencakup ceruk, lorong, dinding, seluruh sayap timur tambang. "Tempat. Nama orang hilang dari ingatan orang. Tempat yang begini hilang dari dunia — perlahan, tanpa luka, tanpa retakan yang bisa kunutup. Aku bisa mengunci sebuah retakan. Aku tidak bisa mengunci sebuah kepemilikan."
 

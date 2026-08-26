@@ -19,7 +19,7 @@ Tahap satu: surat resmi Kantor Penghubung — "keluarga Anda teridentifikasi dal
 
 "Kenapa lima?" tanya juru tulis muda lagi. "Bukan tiga? Tiga lebih efisien."
 
-"Karena tiga tidak cukup untuk ruang mundur," kata Ossian. "Program yang tidak memberi orang jalan keluar bukan program. Itu tekanan." Ia menuliskannya di papan Kantor Penghubung, dan kalimat itu akan tetap tergantung di sana bertahun-tahun setelah Ossian sendiri tidak lagi bekerja di sana: "Yang punya pintu adalah keluarganya. Kita cuma penjaga lorongnya."
+"Karena tiga tidak cukup untuk ruang mundur," kata Ossian. "Program yang tidak memberi orang jalan keluar bukan program. Itu tekanan." Ia menuliskannya di papan Kantor Penghubung, dan kalimat itu akan tetap tergantung di sana bertahun-tahun setelah Ossian sendiri tidak lagi bekerja di sana: "Yang punya pintu adalah keluarganya. Kita hanya penjaga lorongnya saja."
 
 Kasus uji pertama berjalan sampai tahap empat tanpa jeda. Di setiap tahap ada titik di mana keluarganya bisa berhenti, dan di setiap titik itu keluarga justru maju sendiri sebelum ditawari. Pada tahap tiga, ketika mereka bertemu keluarga lain yang sudah melalui hal sama, pertemuan yang dijadwalkan satu jam berlangsung empat jam — dan berakhir dengan kedua keluarga masak bersama di dapur ibu Tamma, karena itulah satu-satunya ruangan yang tidak terasa seperti rapat.
 
@@ -63,9 +63,9 @@ Tapi sebelum pergi, ia meletakkan satu hal di ambang — tidak dipaksakan ke tan
 
 Dorel menatap kertas itu lama. Lama sekali. Lalu — dan inilah bagian yang tidak masuk laporan resmi tapi masuk catatan pribadi Ossian malam itu — tukang besi itu mengambilnya, dan suaranya turun dari marah menjadi sesuatu yang jauh lebih tua:
 
-"Namanya siapa?" tanya Dorel. "Kakekku. Di bawah sana. Dia punya nama atau cuma nomor arsip?"
+"Namanya siapa?" tanya Dorel. "Kakekku. Di bawah sana. Dia punya nama atau hanya nomor arsip?"
 
-"Namanya ada di halaman pertama registri," kata Ossian. "Dan kalau Anda bertanya seperti itu, berarti pintunya belum tertutup. Cuma belum terbuka."
+"Namanya ada di halaman pertama registri," kata Ossian. "Dan kalau Anda bertanya seperti itu, berarti pintunya belum tertutup. Hanya belum terbuka."
 
 Mereka meninggalkan distrik tengah tanpa menoleh. Maera baru bicara setelah tiga jalanan: "Kau tidak mencoba membujuknya."
 
@@ -77,7 +77,7 @@ Ibu Tamma menyampaikan satu detail tambahan yang membuat Ashvarok diam lama: "Di
 
 "Kau yakin dia tidak tahu kau yang menyampaikan ke Kantor Penghubung?" tanya Ashvarok.
 
-"Ibu Tamma tidak pernah yakin," kata ibu itu, sambil mengambil teh tanpa ditawari. "Ibu Tamma cuma pernah benar."
+"Ibu Tamma tidak pernah yakin," kata ibu itu, sambil mengambil teh tanpa ditawari. "Ibu Tamma hanya pernah benar."
 
 Ketika ditanya kenapa repot menghitung cangkir, ibu Tamma menjawab sambil mencuci: "soalnya sederhana, Nak. Dulu aku hitung piring yang kusendirian cuci. Sekarang aku hitung piring orang banyak. Itu semua yang perlu diketahui soal bagaimana sebuah kota sembuh."
 
@@ -93,6 +93,6 @@ Catatan pribadi: delapan bulan silam aku pikir pekerjaan terbesar era ini adalah
 
 Keesokan paginya, satu kabar kecil datang lewat jalur yang sudah biasa: ibu Tamma membawa kabar bahwa keluarga tukang besi itu memesan name train pelatihan untuk seorang anak — "bukan buat kakeknya," kata sumbernya, "kata si bapak, 'buat anakku. Biar kalau nanti dia ketemu, dia tidak butuh diterjemahin.'"
 
-Ossian membaca pesan itu dua kali, lalu meletakkannya di atas papan berisi kalimat-kalimat penting Kantor Penghubung, tepat di bawah "Yang punya pintu adalah keluarganya. Kita cuma penjaga lorongnya."
+Ossian membaca pesan itu dua kali, lalu meletakkannya di atas papan berisi kalimat-kalimat penting Kantor Penghubung, tepat di bawah "Yang punya pintu adalah keluarganya. Kita hanya penjaga lorongnya."
 
 "Catat di arsip," katanya kepada juru tulis mudanya. "Judulnya: pintu sedang terbuka sendiri. Kecepatannya: kecepatan tukang besi."

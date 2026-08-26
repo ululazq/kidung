@@ -146,11 +146,11 @@ Sejak hari itu, setiap kompetensi memasak Caldrest berakhir dengan kalimat yang 
 
 Ashvarok menutup neraca wilayah dataran tengah dengan entri yang panjangnya tidak biasa — karena ada tiga hal yang harus ditulis sebelum ia boleh tidur:
 
-Pertama. Widur dan istrinya menunjukkan sesuatu yang tidak pernah kami rencanakan: pemulangan bisa menjadi REUNI yang melewati kematian keluarga sendiri. Pantun menyimpan nama; nat menyimpan orang; dan waktu — yang selama ini kita anggap musuh — ternyata hanya jarak antara dua lagu.
+Pertama. Widur dan istrinya memberi kami pelajaran tak terduga: sebuah pemulangan bisa sekaligus menjadi REUNI yang menjembatani kematian. Pantun menjaga nama; nat menjaga orang; dan waktu, yang kita tuduh sebagai musuh, hanyalah jarak antara dua lagu.
 
-Kedua. Pasal 14 bekerja lebih baik dari ketakutan kami yang paling besar. Dua puluh tujuh jiwa naik tanpa pemanggil dan TIDAK SATU pun bangun ke dunia yang dingin.
+Kedua. Pasal 14 bekerja lebih baik dari ketakutan kami yang paling besar. Dua puluh tujuh jiwa naik tanpa seorang pun pemanggil, dan semuanya bangun ke dunia yang sama hangatnya.
 
-Ketiga. Untuk wilayah-wilayah berikutnya (empat belas, masih banyak): pelajaran selatan wajib masuk protokol — PERIKSA WARISAN LISAN KELUARGA SEBELUM MULAI. Jangan anggap arsip kalian lengkap. Dunia menyimpan dirinya dengan cara-cara yang tidak pernah kita duga: pantun, kain tenun, resep sup, tepuk tangan panen. Datanglah sebagai pendengar dulu, penulis kemudian.
+Ketiga. Protokol wilayah-wilayah berikutnya kini mewajibkan satu langkah baru: warisan lisan keluarga diperiksa lebih dulu sebelum pekerjaan dimulai. Anggaplah arsip kalian selalu kurang satu halaman. Dunia menyimpan dirinya dengan cara-cara yang tidak pernah kita duga: pantun, kain tenun, resep sup, tepuk tangan panen. Pendengar dulu; penulis boleh menyusul.
 
 Keempat — dan ini yang paling penting: jangan pernah mengira daftar resmi adalah batas pekerjaan kita. Nat dataran tengah menyimpan sebelas jiwa yang tidak ada di daftar siapa pun — dan dunia menjawabnya dengan berebut menjadi keluarga mereka.
 

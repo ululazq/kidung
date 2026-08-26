@@ -13,7 +13,7 @@ Ashvarok mendengarnya langsung suatu sore di pasar, ketika seorang penjual muda 
 
 Kovan yang hadir sebagai pembeli kecil menangkap pandangannya. Ibu Tamma yang berjualan sayur di sebelah mengepalkan tangannya sekali. Malam itu rapat dapur berlangsung dengan agenda tunggal, dan Sela yang membuka dengan papannya sudah ditulis penuh:
 
-"Ini masalahku," kata gadis itu. "Aku yang mendirikan panggung tanpa pagar. Versi dapur bekerja karena tiga aturannya: benar, bisa dicek, orangnya hadir. Versi pasar punya nol aturan. Dan cerita salah tentang Renn bukan cuma ruginya Renn — kalau Grey Censure datang dan mendengar 'bocah bisa bicara sama batu', mereka datang memeriksa bocah, bukan batu."
+"Ini masalahku," kata gadis itu. "Aku yang mendirikan panggung tanpa pagar. Versi dapur bekerja karena tiga aturannya: benar, bisa dicek, orangnya hadir. Versi pasar punya nol aturan. Dan cerita salah tentang Renn bukan hanya ruginya Renn — kalau Grey Censure datang dan mendengar 'bocah bisa bicara sama batu', mereka datang memeriksa bocah, bukan batu."
 
 "Maka kita taruh pagarnya," kata ibu Tamma, dan wanita itu bangkit dengan cara yang membuat semua orang sadar bahwa rapat ini sebenarnya miliknya. "Di pasar. Aku kenal tiap pedagang di sana dua puluh tahun, termasuk yang licik. Yang licik justru paling berguna: mereka tahu harga segalanya, termasuk harga reputasi."
 

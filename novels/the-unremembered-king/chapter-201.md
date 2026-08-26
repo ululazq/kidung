@@ -5,7 +5,7 @@ chapter: 201
 
 Tingkat dua the Veyl Akademie dibuka dengan perubahan kurikulum yang disusun Sareth Vayin dan disetujui seluruh guru — termasuk yang di bawah sana, yang menyetujuinya lewat detak genap panjang dari nat-nat aula ketika kurikulum itu dibacakan.
 
-"Mulai hari ini," kata wanita tua itu di depan enam murid tingkat lanjutan, "kalian belajar dua jalur sekaligus. Telapak tradisi — cara saya, cara Barim, cara semua pendengar alami selama empat generasi. Dan untaian Listen — cara raja kalian, yang baru ditemukan kembali dari arsip." Ia meletakkan dua benda di meja: fragmen arsip utara dan keping cinder-glass biasa. "Objek yang sama. Dua cara membaca. Lalu kita bandingkan hasilnya. Tidak ada jalur yang lebih benar. Kita cuma mau tahu apa yang masing-masing bisa lihat."
+"Mulai hari ini," kata wanita tua itu di depan enam murid tingkat lanjutan, "kalian belajar dua jalur sekaligus. Telapak tradisi — cara saya, cara Barim, cara semua pendengar alami selama empat generasi. Dan untaian Listen — cara raja kalian, yang baru ditemukan kembali dari arsip." Ia meletakkan dua benda di meja: fragmen arsip utara dan keping cinder-glass biasa. "Objek yang sama. Dua cara membaca. Lalu kita bandingkan hasilnya. Tidak ada jalur yang lebih benar. Kita hanya mau tahu apa yang masing-masing bisa lihat."
 
 Seorang murid — Harn, yang delapan bulan lalu tidak yakin dirinya berhak masuk akademi mana pun — mengangkat tangannya. "Kalau hasilnya beda, mana yang kita pakai?"
 
@@ -13,7 +13,7 @@ Seorang murid — Harn, yang delapan bulan lalu tidak yakin dirinya berhak masuk
 
 "Dan kalau tetap mau memilih?" tanya murid perempuan dari blok tepian, yang ibunya dulu melarangnya dekat nat.
 
-"Maka pilihlah," kata Barim dari sudut ruangan, dan semua kepala menoleh karena penjaga malam itu jarang bicara duluan. "Tapi pilih dengan dua mata terbuka. Aku delapan tahun cuma punya satu cara dengar, dan aku pikir itulah seluruh dunia. Delapan tahun, anak-anak." Ia mengetuk telinganya pelan. "Jangan jadi aku."
+"Maka pilihlah," kata Barim dari sudut ruangan, dan semua kepala menoleh karena penjaga malam itu jarang bicara duluan. "Tapi pilih dengan dua mata terbuka. Aku delapan tahun hanya punya satu cara dengar, dan aku pikir itulah seluruh dunia. Delapan tahun, anak-anak." Ia mengetuk telinganya pelan. "Jangan jadi aku."
 
 Ashvarok mengajar jalur untaian di pagi hari; Sareth dan Barim mengajar telapak di sorenya. Murid-murid berpindah ruang, dan objek-objek latihan ikut berpindah bersama mereka — benda-benda yang disumbangkan warga Caldrest setelah mendengar akademi butuh: alat tenun Lissa yang kedua, palu pandai besi tua, cangkir retak milik ibu Tamma yang ia sumbangkan dengan syarat "balikin setelah latihan, itu cangkir enak".
 
@@ -23,13 +23,13 @@ Hasil perbandingan pertama dicatat Kovan dengan angka-angkanya, dan pada Jumat m
 
 Ia menunjuk Ashvarok dengan ujung kapurnya.
 
-"Di permukaan batu, telapak menemukan tiga lapisan informasi yang tidak terbaca Listen: suhu sisa, umur goresan, dan..." Ia berhenti, mencari kata yang tepat, karena catatan mentahnya hanya berisi satu kata yang digarisbawahi dua kali. "...wajah. Murid tingkat satu saja bisa 'merasakan' siapa pemegang terakhir sebuah benda dan suasana hatinya saat memegang. Ibu janda Sarneth berkata ia bisa MELIHAT Sarneth sedang bekerja saat menyentuh alat tenunnya." Jeda. "Sedangkan Listen milikmu membaca lebih luas — sampai kedalaman, sampai detak besar itu, tempat telapak murni cuma merasakan 'ada sesuatu di bawah'. Dua seni itu tidak bersaing. Mereka melihat dunia yang sama dari dua lantai berbeda."
+"Di permukaan batu, telapak menemukan tiga lapisan informasi yang tidak terbaca Listen: suhu sisa, umur goresan, dan..." Ia berhenti, mencari kata yang tepat, karena catatan mentahnya hanya berisi satu kata yang digarisbawahi dua kali. "...wajah. Murid tingkat satu saja bisa 'merasakan' siapa pemegang terakhir sebuah benda dan suasana hatinya saat memegang. Ibu janda Sarneth berkata ia bisa MELIHAT Sarneth sedang bekerja saat menyentuh alat tenunnya." Jeda. "Sedangkan Listen milikmu membaca lebih luas — sampai kedalaman, sampai detak besar itu, tempat telapak murni hanya merasakan 'ada sesuatu di bawah'. Dua seni itu tidak bersaing. Mereka melihat dunia yang sama dari dua lantai berbeda."
 
 Sareth menutup matanya. Barim tidak — ia menatap Ashvarok lurus-lurus, dan yang ada di tatapannya bukan kemenangan, melainkan sesuatu yang lebih lembut: pengakuan seorang guru bahwa murid barunya (yang juga raja) baru saja belajar pelajaran yang sudah ia tahu selama delapan tahun.
 
 Harn, yang hadir sebagai murid paling junior di rapat guru (ia duduk di pojok dengan alasan "numpang catat"), berkata tanpa sadar: "Berarti Kak Ashvarok tidak bisa lihat wajah?"
 
-Rapat diam. Ashvarok sendiri yang menjawab duluan, sambil tersenyum: "Tidak bisa. Delapan bulan aku belajar telapak dari Barim, dan wajah tetap tertutup bagiku. Aku bisa membaca sejarah seribu tahun sebuah nat. Tapi aku tidak bisa memberitahu kau sedang sedih atau lapar dari sentuhan." Ia memandang murid-muridnya satu per satu. "Itu bukan kekurangan seni. Itu batas seni. Bedanya penting."
+Rapat diam. Ashvarok sendiri yang menjawab duluan, sambil tersenyum: "Tidak bisa. Delapan bulan aku belajar telapak dari Barim, dan wajah tetap tertutup bagiku. Aku bisa membaca sejarah seribu tahun sebuah nat. Tapi aku tidak bisa memberitahu kau sedang sedih atau lapar dari sentuhan." Wajah-wajah muridnya ia lewati satu per satu. "Itu bukan kekurangan seni. Itu batas seni. Bedanya penting."
 
 ---
 
@@ -45,7 +45,7 @@ Ia membacakannya keras-keras di depan kelas pagi itu, termasuk bagian "bukan yan
 
 Setelah kelas bubar, Barim menunggu Ashvarok di lorong. Penjaga malam tua itu menyerahkan satu benda kecil: batu asah pribadinya, yang dipakainya delapan tahun mengasah pisau jaga malam.
 
-"Aku dengar entri subuhmu," katanya. "Yang bilang aku benar sejak awal." Ia melihat Ashvarok hendak menjawab, dan mencegatnya dengan tangannya yang terangkat. "Jangan dibalas. Terima saja. Tapi kalau mau membalas dengan cara yang benar—" ia mengetuk batu asah di tangan raja itu, "—belajar wajah. Pelan-pelan tidak apa-apa. Aku butuh dua puluh tahun. Kau cuma punya satu dekade sebelum murid-muridmu melampauimu."
+"Aku dengar entri subuhmu," katanya. "Yang bilang aku benar sejak awal." Ia melihat Ashvarok hendak menjawab, dan mencegatnya dengan tangannya yang terangkat. "Jangan dibalas. Terima saja. Tapi kalau mau membalas dengan cara yang benar—" ia mengetuk batu asah di tangan raja itu, "—belajar wajah. Pelan-pelan tidak apa-apa. Aku butuh dua puluh tahun. Kau hanya punya satu dekade sebelum murid-muridmu melampauimu."
 
 Ashvarok menutup tangannya di atas batu itu. "Tawaran atau tantangan?"
 
@@ -57,7 +57,7 @@ Yang membuat pekan itu berbeda dari semua pekan sebelumnya adalah kedatangan Oss
 
 "Rumit dulu," kata Ossian, duduk di meja panjang akademi — ia kini hadir tiap rapat sebagai Kantor Penghubung Utara, jabatan ciptaannya sendiri yang awalnya ditertawakan dan sekarang dikutip Dewan Regional. "Dari empat ratus jiwa utara, pemetaan silsilah selesai untuk tiga ratus empat puluh. Dan temuan besarnya—" Ia membuka mapnya, dan menarik napas sebelum kalimatnya, yang tidak dilakukan birokrat kalau kabarnya biasa saja. "Enam puluh dua jiwa punya keturunan langsung yang masih hidup — anak, cucu, keponakan — dan hampir semuanya TIDAK TAHU bahwa leluhur atau keluarganya ada di dalam penyimpanan kedalaman. Beberapa bahkan tinggal di Caldrest. Tetangga sendiri."
 
-Ruangan diam menyerapnya. Di luar, terdengar kelas sore berlatih name train.
+Kesunyian ruangan menelan habis kalimat itu. Di luar, terdengar kelas sore berlatih name train.
 
 "Keluarga yang tidak tahu mereka punya kakek yang masih 'ada'," kata Brannoc pelan.
 
@@ -83,4 +83,4 @@ Sebelum pergi, Ossian berhenti di pintu dan berkata hal yang jarang ia katakan d
 
 Dan malam itu, di nat-nat aula, kedalaman menyanyikan name train dengan tambahan gerbong kecil di ujungnya — enam puluh dua nama keluarga baru, yang belum semua anggotanya tahu bahwa mereka sudah terdaftar.
 
-Ashvarok menemukan surat lama di antara dokumen Hegemony: permintaan maaf yang ditulis seribu tahun silam tapi tidak pernah dikirim. Ia membacanya dua kali, lalu meletakkannya di Arsip dengan label baru: "bukti bahwa penyesalan juga butuh keberanian ekstra. Yang ini tidak sempat. Kita yang sekarang punya."
+Di antara dokumen Hegemony, sebuah surat tua ditemukan Ashvarok: sebuah permintaan maaf, ditulis sepuluh abad silam, yang tak pernah sempat diantar. Dua kali dibacanya sebelum arsip menerimanya. Labelnya: "penyesalan yang butuh keberanian ekstra untuk lahir. Yang ini tidak sempat. Milik kita yang hidup hari ini."

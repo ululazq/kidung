@@ -37,7 +37,7 @@ Pekerjaan penyalurannya dilakukan pasangan hitung — karena hanya mereka bisa m
 
 "Kenapa tiga kali?" tanya Kovan.
 
-"Karena ini dapur," kata anak muda itu. "Kalau hitunganku salah dan panasnya menyimpang ke nat nama... yang salah bukan cuma angka. Yang salah adalah makanan orang banyak."
+"Karena ini dapur," kata anak muda itu. "Kalau hitunganku salah dan panasnya menyimpang ke nat nama... yang salah bukan hanya angka. Yang salah adalah makanan orang banyak."
 
 Kovan mencatat kalimat itu di neracanya dengan catatan pinggir: "Delapan bulan silam ia menghitung untuk kedalaman. Sekarang ia menghitung untuk dapur. Pertumbuhan seorang penghitung seharusnya diukur dari hal-hal yang membuatnya mau menghitung ulang."
 
@@ -61,7 +61,7 @@ Seorang pekerja tambang muda berkata kepada temannya: "Tahukah kau, api yang mem
 
 Temannya menjawab sambil menerima mangkuk: "Terus?"
 
-"Ya... begitu saja. Cuma rasanya aneh sekali enaknya. Makan memakai hasil kerja nenek moyang."
+"Ya... begitu saja. Hanya rasanya aneh sekali enaknya. Makan memakai hasil kerja nenek moyang."
 
 "Itu namanya warisan," kata perempuan tua di belakang mereka, yang tidak dikenal siapa pun tapi kalimatnya langsung dikutip Sela. "Warisan itu memang harus dipakai. Yang disimpan di lemari itu namanya barang mati."
 

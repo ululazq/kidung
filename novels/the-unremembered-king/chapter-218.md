@@ -79,7 +79,7 @@ Malam itu, di aula Caldrest, kedalaman menjawab pertanyaan itu tanpa ditanya —
 
 Terjemahannya, ditulis Kovan subuhnya dengan huruf yang jarang sekali ia pakai — huruf untuk kabar gembira yang hampir tidak percaya dirinya:
 
-"Kamu bertanya kapan mereka butuh pintu. Jawabanku: mungkin tidak lama lagi. Mereka sudah menyanyi. Mereka sudah punya tanah yang menunggu dengan nama-namanya di batu batas. Dan malam ini, ketika panen masuk lumbung, mereka mengirimiku satu permintaan terakhir sebelum waktunya: minta anak-anak akademi menyanyikan name train DI ATAS ladang utara, tiap sore, sampai hari pemulangan mereka. Supaya musimnya benar-benar tepat — bukan cuma cuacanya."
+"Kamu bertanya kapan mereka butuh pintu. Jawabanku: mungkin tidak lama lagi. Mereka sudah menyanyi. Mereka sudah punya tanah yang menunggu dengan nama-namanya di batu batas. Dan malam ini, ketika panen masuk lumbung, mereka mengirimiku satu permintaan terakhir sebelum waktunya: minta anak-anak akademi menyanyikan name train DI ATAS ladang utara, tiap sore, sampai hari pemulangan mereka. Supaya musimnya benar-benar tepat — bukan hanya cuacanya."
 
 Ashvarok membaca terjemahan itu dua kali, lalu berjalan ke meja Arsip tempat Sela masih bekerja meski jam sudah larut.
 

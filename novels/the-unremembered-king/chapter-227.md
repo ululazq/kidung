@@ -95,9 +95,9 @@ Detail-detail kecil tiga pekan persiapan yang layak dicatat sebelum hari-H, supa
 
 Ilo si penggembala muda — pemicu tidak sengaja semua ini — ditunjuk resmi sebagai "penjaga nat lereng" dengan tugas harian menyapa batu hangat itu tiap kali lewat. Gajinya dibayar gabungan kamp dan Kantor Penghubung Utara, dan pekerjaannya menurut kontrak kerja tertulis yang disusun Daven hanya satu kalimat: "bicara kepada nat minimal sepuluh menit per hari, soal apa saja."
 
-Ilo mengeluh di hari ketiga bahwa ia kehabisan bahan cerita. Warga timur memberinya solusi kolektif: kotak kayu berisi kertas-kertas topik cerita harian, ditulis semua orang, diambil acak. Topik hari pertama: "hujan teraneh yang pernah kamu lihat". Nat lereng mendengar cerita hujan itu dua puluh menit — dan menurut Ilo, batunya jadi "lebih hangat dari biasanya, kayak ikut senyum".
+Ilo mengeluh di hari ketiga bahwa ia kehabisan bahan cerita. Warga timur memberinya solusi kolektif: kotak kayu berisi kertas-kertas topik cerita harian, ditulis semua orang, diambil acak. Topik hari pertama: "hujan teraneh yang pernah kamu lihat". Nat lereng mendengar cerita hujan itu dua puluh menit — dan menurut Ilo, batunya jadi "lebih hangat dari biasanya, seperti ikut senyum".
 
-Kambing-kambing Ilo juga masuk catatan arsip: mereka menolak makan rumput dalam radius lima langkah dari nat, dan tidak ada yang bisa menjelaskan kenapa. Kovan menulis teori di margin neraca: "mungkin hangatnya bikin rumput rasanya salah". Teori tidak diverifikasi. Kambing tidak mau diwawancarai.
+Kambing-kambing Ilo juga masuk catatan arsip: mereka menolak makan rumput dalam radius lima langkah dari nat, dan tidak ada yang bisa menjelaskan kenapa. Kovan menulis teori di margin neraca: "mungkin hangatnya membuat rumput rasanya salah". Teori tidak diverifikasi. Kambing tidak mau diwawancarai.
 
 Dan satu detail lagi, yang oleh Sela ditempel di halaman pertama arsip wilayah timur: foto sketsa buku tamu pos-pos jemput timur yang sudah diisi warga sebelum ada pun yang naik — setiap keluarga menulis nama anggota yang akan mereka jemput, plus satu kalimat untuknya.
 

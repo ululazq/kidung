@@ -67,6 +67,6 @@ Malamnya, kafilah sudah pergi, dan di dapur barak distrik timur lilin-lilin diny
 
 "Terus?" tanya Brannoc. "Dia membaca apa saja?"
 
-"Tidak ada yang penting," kata Ashvarok. Kebohongan kedua hari ini, dan yang ini ia bayar dengan senyum kecil yang tidak bisa ia tahan. "Dia cuma bilang bubur di barak ini terlalu asin."
+"Tidak ada yang penting," kata Ashvarok. Kebohongan kedua hari ini, dan yang ini ia bayar dengan senyum kecil yang tidak bisa ia tahan. "Dia hanya bilang bubur di barak ini terlalu asin."
 
 "Bubur ini resep keluarga tiga generasi," kata ibu Tamma dari dapurnya, tanpa menoleh, dan meja tertawa, dan malam berjalan ke arah paginya seperti malam-malam lain yang berhasil diselamatkan.

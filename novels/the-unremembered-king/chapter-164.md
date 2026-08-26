@@ -27,7 +27,7 @@ Ashvarok pernah berdiri di hadapan lima ribu prajurit Hegemony untuk menyampaika
 
 "Karena itu tugas kami, bukan tugasmu," kata Sela, tak tergerakkan. "Duduk. Dengarkan. Itu satu-satunya tugasmu."
 
-Yang pertama naik adalah ibu Tamma, dan ia menceritakan malam blok timur — bukan versi legenda yang sudah beredar di pasar, melainkan versi dapur: bagaimana bocah tungku lorong tujuh yang katanya cuma "numpang tidur" itu keluar duluan ke gelap tanpa lampu penuh, bagaimana suaranya tidak naik sedikit pun ketika dua puluh orang lupa nama, dan bagaimana paginya ia ditemukan tidur di lantai klinik karena menunggu the Hollowed sampai subuh. "Aku ukur orang dari yang dia lakukan waktu tidak ada yang lihat," kata ibu Tamma menutup ceritanya. "Anak ini melakukan yang paling besar di kota ini dan tidurnya di lantai. Itu cerita benar."
+Yang pertama naik adalah ibu Tamma, dan ia menceritakan malam blok timur — bukan versi legenda yang sudah beredar di pasar, melainkan versi dapur: bagaimana bocah tungku lorong tujuh yang katanya hanya "numpang tidur" itu keluar duluan ke gelap tanpa lampu penuh, bagaimana suaranya tidak naik sedikit pun ketika dua puluh orang lupa nama, dan bagaimana paginya ia ditemukan tidur di lantai klinik karena menunggu the Hollowed sampai subuh. "Aku ukur orang dari yang dia lakukan waktu tidak ada yang lihat," kata ibu Tamma menutup ceritanya. "Anak ini melakukan yang paling besar di kota ini dan tidurnya di lantai. Itu cerita benar."
 
 Yang kedua adalah anak juru obat, delapan tahun, yang baru saja keluar dari celah nat tua — dan yang menceritakan, dengan detail delapan tahunan yang tidak bisa direkayasa, bahwa dalam gelap lorong sempit itu suara Renn tidak gemetar sekali pun, dan bahwa di tikungan terakhir Renn berkata "lampumu yang pegang, kakimu yang percaya", dan bahwa kalimat itu sekarang dipakainya tiap kali turun tangga gelap.
 
@@ -37,7 +37,7 @@ Barak menyebut Dolm bersama-sama. Lalu, entah digerak oleh apa, beberapa suara m
 
 Ia pulang larut. Di ambang ranjang, Sela menyergapnya satu kali terakhir, kapur di tangan.
 
-"Neraca pekan ini," kata gadis itu, membaca dari papan dengan suara orang lelah yang bahagia. "Naik tiga kali. Turun sekali. Bersih." Ia menutup papan, lalu menambahkan, lebih pelan: "Tahu hal paling aneh? Aku pikir aku mendirikan panggung ini untukmu. Ternyata bukan. Barak butuh itu untuk dirinya sendiri — sudah lama butuh, cuma belum punya bentuknya. Aku cuma yang kasih bangku."
+"Neraca pekan ini," kata gadis itu, membaca dari papan dengan suara orang lelah yang bahagia. "Naik tiga kali. Turun sekali. Bersih." Ia menutup papan, lalu menambahkan, lebih pelan: "Tahu hal paling aneh? Aku pikir aku mendirikan panggung ini untukmu. Ternyata bukan. Barak butuh itu untuk dirinya sendiri — sudah lama butuh, hanya belum punya bentuknya. Aku hanya yang kasih bangku."
 
 "Semua institusi besar dimulai dengan satu bangku," kata Ashvarok. "Aku pernah membangun yang lebih besar dari itu, dan tidak satu pun bertahan. Yang bertahan biasanya yang dimulai dari dapur."
 

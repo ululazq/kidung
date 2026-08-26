@@ -19,7 +19,7 @@ Seorang murid Aru mengangkat tangan: "Kalau bertengkar gimana?"
 
 Aula tertawa. Renn ikut tertawa.
 
-"Bertengkar tiap hari," jawabnya jujur. "Kemarin kami berdebat soal arah jalan pulang. Dia mau lewat pasar, aku mau lewat lorong." Ia mengetuk meja satu kali. "Hasilnya? Kami lewat dua-duanya. Lebih lama sepuluh menit, tapi tidak ada yang kesal."
+"Bertengkar tiap hari," jawabnya jujur. "Kemarin kami berdebat soal arah jalan pulang. Dia mau lewat pasar, aku mau lewat lorong." Meja itu diketuk sekali. "Hasilnya? Kami lewat dua-duanya. Lebih lama sepuluh menit, tapi tidak ada yang kesal."
 
 Ashvarok menambahkan dari dalam — dan Renn mengulang dengan nada serius:
 

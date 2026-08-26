@@ -21,7 +21,7 @@ Brannoc mengunyah akar pahitnya, memandang angka-angka yang tidak sepenuhnya dia
 
 Sela menulis. Dan dalam satu jam, tiga orang itu merancang institusi kecil pertama di dunia yang didirikan untuk memberi makan raja secara resmi: daftar pekerjaan penjagaan mingguan yang tersebar di antara cover-cover yang sudah ada — inspeksi ventilasi (regu undian, sah), pendampingan regu baru lorong dalam (diminta Brannoc, sah), pembacaan jalan untuk shift malam saat karantina parsial (dibayar kuota, sah). Semua terbuka. Semua tercatat. Semua terlihat persis seperti tambang yang bekerja tertib — karena memang begitu, hanya saja salah satu pekerjanya adalah segel hidup yang sedang makan.
 
-"Aku punya satu syarat," kata Sela, kapur berhenti. "Daftar ini masuk buku catatan pembagian terbuka di dapur — versi dapurnya, tanpa angka Hourglass, cuma nama-nama tugas dan siapa pegang. Kalau suatu hari kamu tidak sanggup jalan turun, warga akan lihat sendiri bahwa jatahmu kosong, dan mereka yang akan bertanya kenapa. Kota ikut menjagamu, kak. Bukan cuma kamu yang menjaga kota. Itu pasal yang belum pernah ada di semua sistemmu."
+"Aku punya satu syarat," kata Sela, kapur berhenti. "Daftar ini masuk buku catatan pembagian terbuka di dapur — versi dapurnya, tanpa angka Hourglass, hanya nama-nama tugas dan siapa pegang. Kalau suatu hari kamu tidak sanggup jalan turun, warga akan lihat sendiri bahwa jatahmu kosong, dan mereka yang akan bertanya kenapa. Kota ikut menjagamu, kak. Bukan hanya kamu yang menjaga kota. Itu pasal yang belum pernah ada di semua sistemmu."
 
 Ashvarok memandang adiknya, lalu setuju, dan menyadarinya kemudian bahwa pasal gadis itu telah mengubah sifat seluruh rencana: dari strategi bertahan hidup menjadi kontrak timbal balik dengan sebuah distrik. Seribu tahun silam, raja memberi perlindungan dan rakyat memberi legenda — arus satu arah, dan arus itu yang membuatnya bisa disembunyikan sampai hilang. Di Caldrest, arusnya dua arah, dan tidak ada satu pun penjaga yang bisa lenyap diam-diam lagi.
 
@@ -51,7 +51,7 @@ Ashvarok memandang baris jatah itu lama. Tiga nama anak, dan di bawahnya tangann
 
 "Maka kita pastikan dia tidak pernah sempat menyapu," kata Sela. "Dan kalau suatu hari sempat — biar dia mencerna sebuah kota yang utuh. Bukan sisa-sisa."
 
-Di rak dapur aula kini ada buku catatan khusus berjudul "Teh" — isinya cuma hitungan cangkir per hari, tulisan tangan ibu Tamma. Ketika Sela bertanya kenapa dicatat, jawabannya masuk neraca: "supaya kelak diketahui bahwa kedamaian bisa dihitung. Dan angkanya besar."
+Di rak dapur aula kini ada buku catatan khusus berjudul "Teh" — isinya hanya hitungan cangkir per hari, tulisan tangan ibu Tamma. Ketika Sela bertanya kenapa dicatat, jawabannya masuk neraca: "supaya kelak diketahui bahwa kedamaian bisa dihitung. Dan angkanya besar."
 
 ---
 

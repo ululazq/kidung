@@ -102,7 +102,7 @@ Ossian menyampaikan kerangka hukumnya dengan hati-hati: malam itu bukan sidang. 
 
 Dan Sela menyampaikan bagian terakhir, yang membuat dapur diam untuk pertama kali malam itu:
 
-"Bab terakhir malam itu masih kosong." Ia menutup buku catatannya. "Kalimat raja kepada malam — kutitipkan ke anak-anak. Mereka yang menentukan kapan dunia siap mendengarnya. Bukan aku, bukan Kak Ashvarok, bukan Dewan." Ia memandang keliling dapur. "Pertanyaan seribu murid sedang dalam perjalanan ke sini dari dua belas cabang. Kalau mereka minta kalimat itu dibacakan — maka ia akan dibacakan. Kalau mereka butuh waktu — dunia akan diberi waktu."
+"Bab terakhir malam itu masih kosong." Catatannya ditutup dan disimpan ke tas. "Kalimat raja kepada malam — kutitipkan ke anak-anak. Mereka yang menentukan kapan dunia siap mendengarnya. Bukan aku, bukan Kak Ashvarok, bukan Dewan." Ia memandang keliling dapur. "Pertanyaan seribu murid sedang dalam perjalanan ke sini dari dua belas cabang. Kalau mereka minta kalimat itu dibacakan — maka ia akan dibacakan. Kalau mereka butuh waktu — dunia akan diberi waktu."
 
 Dari ujung dapur, setelah hening yang panjang, ibu Tamma berkata apa yang sedang dipikirkan semua orang:
 

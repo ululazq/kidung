@@ -19,17 +19,17 @@ Yang dilakukan Lissa kemudian menjadi bagian dari protokol pemulangan selamanya:
 
 ---
 
-Pekerjaan itu memakan dua puluh hari — dua pekan lebih lama dari rencana kafilah, dan tidak ada satu pun yang keberatan. Caldrest belajar bahwa pemulangan bukan cuma memanggil jiwa; kadang ia menuntaskan karya yang tertinggal. Warga bergilir menjaga, membawa makanan lewat jalur logistik baru, dan mendengarkan Lissa bercerita tentang pola-pola yang ia ingat sambil tangannya bekerja dari ingatan tubuh.
+Pekerjaan itu memakan dua puluh hari — dua pekan lebih lama dari rencana kafilah, dan tidak ada satu pun yang keberatan. Caldrest belajar bahwa pemulangan bukan hanya memanggil jiwa; kadang ia menuntaskan karya yang tertinggal. Warga bergilir menjaga, membawa makanan lewat jalur logistik baru, dan mendengarkan Lissa bercerita tentang pola-pola yang ia ingat sambil tangannya bekerja dari ingatan tubuh.
 
 Dan di hari ketiga, terjadi hal yang tidak direncanakan siapa pun: perempuan-perempuan keluarga petani lembah mulai datang setiap hari. Bukan karena diminta. Karena melihat tangan Lissa bekerja adalah cara pertama mereka melihat seni tenun utara asli sejak delapan belas tahun — dan tangan mereka ingin ikut.
 
 "Aku tidak bisa ngajar," protes Lissa, setengah panik, tanpa mengalihkan mata dari pola.
 
-"Ibu-ibu ini tidak minta diajar," jawab ibu tertua keluarga petani, sambil sudah memegang benang dan duduk di batu paling nyaman dekat alat tenun. "Mereka cuma mau duduk deket orang yang tangannya ingat sesuatu."
+"Ibu-ibu ini tidak minta diajar," jawab ibu tertua keluarga petani, sambil sudah memegang benang dan duduk di batu paling nyaman dekat alat tenun. "Mereka hanya mau duduk deket orang yang tangannya ingat sesuatu."
 
-Kelompok duduk itu bertambah satu-dua orang tiap hari. Yang datang bukan cuma ibu-ibu: gadis-gadis remaja, dua nenek yang butuh digandeng, dan — mengejutkan semua orang — seorang pemandu kafilah laki-laki yang katanya "cuma mau belajar memperbaiki jala", tapi duduk paling rajin dan tangannya paling teliti. Pada hari kedua puluh, ketika selimut hampir selesai, mereka sudah berjumlah sebelas orang dan memiliki nama tidak resmi yang menempel lebih cepat dari nama resmi mana pun dalam sejarah lembah: Kelas Tenun Lissa.
+Kelompok duduk itu bertambah satu-dua orang tiap hari. Yang datang bukan hanya ibu-ibu: gadis-gadis remaja, dua nenek yang butuh digandeng, dan — mengejutkan semua orang — seorang pemandu kafilah laki-laki yang katanya "hanya mau belajar memperbaiki jala", tapi duduk paling rajin dan tangannya paling teliti. Pada hari kedua puluh, ketika selimut hampir selesai, mereka sudah berjumlah sebelas orang dan memiliki nama tidak resmi yang menempel lebih cepat dari nama resmi mana pun dalam sejarah lembah: Kelas Tenun Lissa.
 
-Lissa sendiri berubah sepanjang dua puluh hari itu. Barim yang mengamatinya dari pos jaga menulis laporan singkat kepada Ashvarok yang kalimat terakhirnya tidak akan pernah dilupakan siapa pun yang membacanya: "Delapan belas tahun silam dia hilang sebagai anak yang sedang bekerja. Dia pulang sebagai guru. Penyimpanan itu bukan cuma menyimpan orang — dia menyimpan orang di tengah pekerjaan mereka, supaya mereka bisa pulang ke diri mereka yang paling sibuk."
+Lissa sendiri berubah sepanjang dua puluh hari itu. Barim yang mengamatinya dari pos jaga menulis laporan singkat kepada Ashvarok yang kalimat terakhirnya tidak akan pernah dilupakan siapa pun yang membacanya: "Delapan belas tahun silam dia hilang sebagai anak yang sedang bekerja. Dia pulang sebagai guru. Penyimpanan itu bukan hanya menyimpan orang — dia menyimpan orang di tengah pekerjaan mereka, supaya mereka bisa pulang ke diri mereka yang paling sibuk."
 
 ---
 
@@ -71,7 +71,7 @@ Keputusan soal masa depan Kelas Tenun akhirnya menjadi kompromi yang sangat Cald
 
 "Kenapa dua tempat?" tanya Harn, yang datang mengantar peralatan akademi.
 
-"Karena muridku ada dua dunia," kata Lissa. "Sama seperti aku. Delapan belas tahun di satu tempat, delapan belas tahun di tempat lain. Kelas yang cuma punya satu rumah itu kelas yang lupa separuh dirinya."
+"Karena muridku ada dua dunia," kata Lissa. "Sama seperti aku. Delapan belas tahun di satu tempat, delapan belas tahun di tempat lain. Kelas yang hanya punya satu rumah itu kelas yang lupa separuh dirinya."
 
 Jadwalnya ditulis Sela di peta nama, kolom baru:
 

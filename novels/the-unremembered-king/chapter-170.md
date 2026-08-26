@@ -23,7 +23,7 @@ Sela mencatat sambil jalan, seperti janjinya, dan Ashvarok menceritakan — juga
 
 "Kalau suatu hari hitungan habis dan kamu jadi seperti Tovik — hidup, ramah, tapi tidak ingat siapa dirinya — boleh aku yang pegang panggung dapur buatmu? Supaya kota membacakanmu dirimu tiap minggu? Aku sudah cek aturanku sendiri: tidak ada pasal yang larang."
 
-Ashvarok berhenti berjalan. Mereka baru saja memasuki ambang aula — delapan banding tiga, kegelapan besar, lambang ikatan yang tertutup batu polos — dan pertanyaan itu menggantung di udara ruang raksasa yang telah menyaksikan sumpah, lagu, kematian lima panglima, dan tidurnya sendiri seribu tahun.
+Langkah Ashvarok berhenti di tengah jalan. Mereka baru saja memasuki ambang aula — delapan banding tiga, kegelapan besar, lambang ikatan yang tertutup batu polos — dan pertanyaan itu menggantung di udara ruang raksasa yang telah menyaksikan sumpah, lagu, kematian lima panglima, dan tidurnya sendiri seribu tahun.
 
 "Boleh," kata Ashvarok akhirnya. "Tapi ada koreksinya. Kalau aku jadi seperti Tovik, jangan bacakan aku masa laluku. Bacakan daftar yang kamu tulis di Hourglass — angka-angka, tanggal-tanggal, semua harga yang dibayar. Karena masa laluku sudah selesai dan tidak bisa dikoreksi lagi. Yang belum selesai adalah pembukuan. Biarkan kota mengingat aku sebagai neraca yang masih berjalan, bukan sebagai cerita yang sudah tamat."
 
@@ -63,7 +63,7 @@ Mereka menemukan jawaban sebagian pada jam ketujuh, saat keluar lewat bahu timur
 
 "Dan kau datang sendirian, malam-malam, lewat pintu belakang," kata Ashvarok, "untuk menyampaikan apa? Ancaman jabatan? Penawaran ordo?"
 
-"Untuk ini saja." Orang tua itu meletakkan sesuatu ke tangan Ashvarok: batang cinder-glass tua — kembaran umpan palsu kedua, yang ditinggalkannya di kursi arsip Spire; ia membawa satu lagi, atau inilah yang asli, tidak ada cara memastikannya dan mungkin memang itu intinya. "Kita akan bertanya-jawab panjang nanti, dengan teh, di gudangmu, dengan semua yang harus hadir hadir. Malam ini aku cuma mau menyelesaikan satu kalimat yang menggantung empat puluh tahun: seni yang kucari itu masih hidup, penjaganya ada, dan dia cukup kuat untuk menolakku sampai aku rela jalan sembilan hari lewat nat tua." Ia menoleh ke Sela, dan mengangguk kepadanya — penghormatan guru kepada pencatat muda. "Catatanmu bagus. Kalimat terakhirmu tajam. Pintu belakang adalah satu-satunya pintu yang tidak membuat tamu menjadi acara."
+"Untuk ini saja." Orang tua itu meletakkan sesuatu ke tangan Ashvarok: batang cinder-glass tua — kembaran umpan palsu kedua, yang ditinggalkannya di kursi arsip Spire; ia membawa satu lagi, atau inilah yang asli, tidak ada cara memastikannya dan mungkin memang itu intinya. "Kita akan bertanya-jawab panjang nanti, dengan teh, di gudangmu, dengan semua yang harus hadir hadir. Malam ini aku hanya mau menyelesaikan satu kalimat yang menggantung empat puluh tahun: seni yang kucari itu masih hidup, penjaganya ada, dan dia cukup kuat untuk menolakku sampai aku rela jalan sembilan hari lewat nat tua." Ia menoleh ke Sela, dan mengangguk kepadanya — penghormatan guru kepada pencatat muda. "Catatanmu bagus. Kalimat terakhirmu tajam. Pintu belakang adalah satu-satunya pintu yang tidak membuat tamu menjadi acara."
 
 Ia berjalan ke arah kota, pelan, telapaknya sesekali menyentuh batu seperti selalu, meninggalkan dua orang di mulut kanal dengan lilin yang tinggal segenggal dan sebuah fakta baru yang akan mengisi papan Sela sampai subuh:
 

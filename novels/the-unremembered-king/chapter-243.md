@@ -139,7 +139,7 @@ Renn menyapa setiap satu dengan cara yang membuat seluruh barak tertawa dan mena
 
 "Pak Brannoc! Kau masih pakai kalimat 'kerja atau pulang'? Delapan bulan aku dengar dari dalam, itu kalimat paling menakutkan di dunia!"
 
-"Bu Tamma, sup ini enak banget. Kenapa tidak pernah ada di menu barak dulu?!"
+"Bu Tamma, sup ini enak sekali. Kenapa tidak pernah ada di menu barak dulu?!"
 
 "Sela... kak Renn pulang."
 
@@ -173,7 +173,7 @@ Hari 833 (Renn): Hari ini aku bangun dan dunia sudah jalan tanpa aku — tapi te
 
 Aku anak tungku yang delapan bulan silang seharusnya mati di lorong sembilan.
 
-Ternyata aku cuma dipindahkan ke kamar paling dalam — untuk mendengar sejarah terbesar dunia dari tempat duduk terbaik.
+Ternyata aku hanya dipindahkan ke kamar paling dalam — untuk mendengar sejarah terbesar dunia dari tempat duduk terbaik.
 
 
 ---

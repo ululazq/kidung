@@ -99,7 +99,7 @@ Malamnya, Ilo menulis di kotak topik ceritanya satu kertas baru, dan tidak diamb
 
 "Topik hari ini: orang yang dulunya takut pada lereng, sekarang jadi orang yang paling ditunggu di bawah sana. Itu saya."
 
-Nat lereng menjawab lebih hangat dari biasanya. Dan hangatnya itu, kata Ilo, "kayak pelukan yang nggak bisa balas pelukan — tapi nggak apa-apa, yang penting dia tahu kami di sini."
+Nat lereng menjawab lebih hangat dari biasanya. Dan hangatnya itu, kata Ilo, "seperti pelukan yang tidak bisa balas pelukan — tapi tidak apa-apa, yang penting dia tahu kami di sini."
 
 ---
 

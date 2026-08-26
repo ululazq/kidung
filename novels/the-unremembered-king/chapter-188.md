@@ -5,7 +5,7 @@ chapter: 188
 
 Barim mengajari Ashvarok mendengar tanpa harga, dan pelajarannya dimulai dengan kalimat yang membalikkan seribu tahun asumsi:
 
-"Kau selalu pakai seni dulu baru dengar. Kebalikan. Dulu-dulu — zaman nat tua — pendengar tidak punya seni. Mereka cuma punya sabar dan telapak yang benar. Seni itu datang belakangan buat orang yang tidak mau bersabar."
+"Kau selalu pakai seni dulu baru dengar. Kebalikan. Dulu-dulu — zaman nat tua — pendengar tidak punya seni. Mereka hanya punya sabar dan telapak yang benar. Seni itu datang belakangan buat orang yang tidak mau bersabar."
 
 Pelajaran pertama berlangsung seminggu. Ashvarok — raja seribu tahun, pemegang the Walking Key — dilarang menggunakan satu helai tenunan apa pun. Hanya telapak rata, napas lebih lambat dari batu, dan kesabaran yang oleh Barim disebut "bekerja sebenarnya".
 
@@ -51,7 +51,7 @@ Hasilnya ditulis dokter tambang dengan tangan stabil dan satu garis bawah tebal:
 
 Ia berkumpul tasnya, berhenti di pintu, dan menambahkan tanpa menoleh:
 
-"Datang tiap pekan tetap. Pasien baik tidak boleh hilang cuma karena sudah sembuh."
+"Datang tiap pekan tetap. Pasien baik tidak boleh hilang hanya karena sudah sembuh."
 
 ---
 
@@ -91,8 +91,8 @@ Sisa pekan diisi latihan Listen tingkat lanjut yang pertama: membaca nat-nat lin
 
 Dan penutup bab — peristiwa kecil yang terjadi tanpa saksi selain satu orang: pada malam hujan pertama musim itu, nat atap reruntuhan timur yang misterius itu aktif sendiri, dan iramanya bukan sapuan kedalaman, melainkan sesuatu yang lain: bunyi tetesan air yang tersusun berirama. Alam meniru kedalaman yang meniru alam.
 
-Hanya Sela yang mendengarnya dari jendela barak malam itu. Ia tidak membangunkan siapa pun. Ia hanya menulis di halaman pribadinya:
-"Catatan pribadi: malam ini hujan dan ada nat yang menyanyi pakai air hujan. Aku tidak akan lapor ini ke mana-mana karena belum paham. Tapi aku mau catat satu tebakan: mungkin dia tidak cuma menyimpan yang kita titipkan. Mungkin dia juga senang-senang sendiri kadang-kadang. Dan menurutku itu bagus. Rumah yang baik punya saat-saat di mana penghuninya tidak butuh dia, dan dia tetap bernyanyi."
+Hanya Sela yang mendengarnya dari jendela barak malam itu. Tak seorang pun ia bangunkan. Ia hanya menulis di halaman pribadinya:
+"Catatan pribadi: malam ini hujan dan ada nat yang menyanyi pakai air hujan. Aku tidak akan lapor ini ke mana-mana karena belum paham. Tapi aku mau catat satu tebakan: mungkin dia tidak hanya menyimpan yang kita titipkan. Mungkin dia juga senang-senang sendiri kadang-kadang. Dan menurutku itu bagus. Rumah yang baik punya saat-saat di mana penghuninya tidak butuh dia, dan dia tetap bernyanyi."
 
 Murid-murid mulai menebak-nebak angka catatan teh seperti ramalan musim. "Pekan ini turun," bisik Harn, "pasti banyak yang pulang cepat ke rumah." Tebakan murid pun sekarang jadi bagian tradisi dapur — dan anehnya hampir selalu meleset dengan cara yang tepat.
 

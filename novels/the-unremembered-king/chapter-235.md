@@ -87,7 +87,7 @@ Neraca pekan persiapan barat laut ditutup Ashvarok dengan angka-angka yang terus
 
 Hari 760. Jiwa barat laut: 61 (naik dari 52, terima kasih kain). Media pemulangan: TENUNAN — pasal 15 disahkan. Sekolah menenun: 19 murid. Gendang kamp: berbunyi tiap sore. Dan satu pesan 300 tahun akhirnya dibalas.
 
-Empat belas wilayah tersisa... tapi sekarang setiap wilayah punya "bahasa ibunya sendiri" untuk kita pelajari. Kalau selatan mengajari kita pantun dan barat laut mengajari kita tenun, aku mulai penasaran:
+Tersisa empat belas wilayah lagi... tapi sekarang setiap wilayah punya "bahasa ibunya sendiri" untuk kita pelajari. Kalau selatan mengajari kita pantun dan barat laut mengajari kita tenun, aku mulai penasaran:
 
 Bahasa apa lagi yang keluar dari wilayah-wilayah berikutnya?
 
@@ -133,7 +133,7 @@ Ketika aku pulang melewati nat lorong barak utara — Yang Dulu Sunyi — ada su
 
 Suara anak kecil.
 
-Ternyata ada bocah tujuh tahun yang diam-diam duduk di depan nat itu sambil bercerita soal kucing hilangnya. Ibu-ibu barak mengizinkan "asal pulang sebelum gelap gelap banget".
+Ternyata ada bocah tujuh tahun yang diam-diam duduk di depan nat itu sambil bercerita soal kucing hilangnya. Ibu-ibu barak mengizinkan "asal pulang sebelum gelap gelap sekali".
 
 Aku duduk mendengarkan sampai cerita kucingnya ketemu.
 

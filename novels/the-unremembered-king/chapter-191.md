@@ -3,7 +3,7 @@ title: "Bab 191: Kotak-Kotak Cerita"
 chapter: 191
 ---
 
-Kotak-kotak cerita muncul di empat distrik Caldrest pada hari yang sama, dibuat oleh tukang kayu sekolah klinik dari sisa papan name train: kotak kayu dengan celah di atas dan satu aturan tertulis di sisinya — "Masukkan cerita tentang tamu tua HANYA kalau kamu pernah mendengarnya langsung dari bawah. Legenda tidak diterima. Yang dengar, tulis. Yang cuma dengar cerita orang, tunggu."
+Kotak-kotak cerita muncul di empat distrik Caldrest pada hari yang sama, dibuat oleh tukang kayu sekolah klinik dari sisa papan name train: kotak kayu dengan celah di atas dan satu aturan tertulis di sisinya — "Masukkan cerita tentang tamu tua HANYA kalau kamu pernah mendengarnya langsung dari bawah. Legenda tidak diterima. Yang dengar, tulis. Yang hanya dengar cerita orang, tunggu."
 
 Aturan itu menyaring dengan sempurna, karena dalam tiga bulan pertama, kotak-kotak itu mengumpulkan dua ratus enam belas cerita — dan hampir semuanya datang dari orang-orang yang tidak pernah sadar bahwa mereka pernah "mendengar" kedalaman sampai mereka menuliskannya.
 
@@ -49,7 +49,7 @@ Sela menemukannya saat sortir, dan keputusannya menjadi preseden arsip: cerita i
 ---
 
 Reaksi kedalaman terhadap cerita palsu itu menjadi pelajaran tersendiri: ketika Kovan membacakan legenda itu lewat nat (kesepakatan transparansi penuh), sapuan menjawab dengan irama yang diterjemahkan Sareth dua hari kemudian — dan isinya membuat rapat registri tertawa untuk pertama kalinya:
-"Persembahan tidak perlu. Yang aku mau cuma satu: jangan berhenti bercerita. Cerita kalian — palsu atau asli — adalah suara pertama yang kudengar dari atas dalam seribu tahun. Aku tidak peduli benar salahnya. Aku hanya senang didatangi."
+"Persembahan tidak perlu. Yang aku mau hanya satu: jangan berhenti bercerita. Cerita kalian — palsu atau asli — adalah suara pertama yang kudengar dari atas dalam seribu tahun. Aku tidak peduli benar salahnya. Aku hanya senang didatangi."
 
 ---
 
@@ -62,7 +62,7 @@ Cerita yang masuk kotak itu ditulis keponakan Wida: "Tante selalu bilang satu ka
 
 Kasus Wida membuka program yang tidak direncanakan: PEMERIKSAAN the Hollowed ringan seluruh kota — bukan untuk mengobati (belum bisa), tapi untuk mencatat pola. Hasil tiga pekan pemeriksaan oleh dokter tambang dan pengikat senior menghasilkan temuan yang membuat Ashvarok menulis di Hourglass dengan huruf tebal:
 HARI 368. TEMUAN: dari lima the Hollowed Caldrest, SEMUANYA punya ritual berulang tanpa sadar — Wida menyapa sumur, dua lainnya selalu memutar ke arah aula sebelum tidur, satu tidak pernah mau tinggal di ruangan tanpa nat. Tubuh mereka lupa nama tapi TIDAK PERNAH lupa arah rumah.
-Kesimpulan: Hollowing tidak memutus hubungan manusia-kedalaman sepenuhnya. Ia memutus ingatan TENTANG hubungan itu. Benangnya tetap ada — cuma mata kita buta melihatnya.
+Kesimpulan: Hollowing tidak memutus hubungan manusia-kedalaman sepenuhnya. Ia memutus ingatan TENTANG hubungan itu. Benangnya tetap ada — hanya mata kita buta melihatnya.
 Lanjutan bab 191.
 
 ---
@@ -76,7 +76,7 @@ Keponakannya menangis di tempat. Dokter tambang menulis di buku medisnya dengan 
 ---
 
 Kabar itu menyebar ke seluruh kota dalam sehari dan mengubah status the Hollowed ringan di mata publik: dari "korban yang tinggal merawat" menjadi "orang yang tertidur dan bisa dibangunkan". Tiga keluarga menghubungi akademi dalam seminggu pertama. Jadwal kunjungan nat dibuka untuk semua the Hollowed Caldrest — dengan protokol yang disusun Barim, karena dialah ahlinya:
-"Bawa mereka ke nat yang paling mereka sering datangi waktu masih waras. Jangan maksa ngomong. Duduk. Dengar. Kalau ada yang mau keluar, biarkan keluar." Ia menepuk nat sumur pelan. "Mereka bukan rusak. Mereka cuma setengah di sini, setengah di sana. Kita cuma perlu membuat sini lebih ramah dikit."
+"Bawa mereka ke nat yang paling mereka sering datangi waktu masih waras. Jangan maksa ngomong. Duduk. Dengar. Kalau ada yang mau keluar, biarkan keluar." Ia menepuk nat sumur pelan. "Mereka bukan rusak. Mereka hanya setengah di sini, setengah di sana. Kita hanya perlu membuat sini lebih ramah dikit."
 
 ---
 

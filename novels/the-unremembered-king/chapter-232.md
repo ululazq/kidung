@@ -97,7 +97,7 @@ Tapi murid-murid mencatat bahwa hari itu, sup di dapur aula dimasak dengan api K
 
 ---
 
-Dan di bawah entri Ashvarok, sebelum dilipat, ibu Tamma sempat menambahkan satu balasan tulisan tangan — karena menurutnya "surat tanpa balasan itu kayak sup tanpa garam":
+Dan di bawah entri Ashvarok, sebelum dilipat, ibu Tamma sempat menambahkan satu balasan tulisan tangan — karena menurutnya "surat tanpa balasan itu seperti sup tanpa garam":
 
 "Raja kurus yang terhormat.
 
@@ -117,4 +117,4 @@ Saya: anak dapur yang kebagian hidup di era ketiga — dan beruntung.
 
 P.S. untuk ibu Tamma: besok pagi saya datang tepat waktu. Bukan karena takut sup habis. Karena sudah lama tidak jadi anak yang datang ke dapur hanya untuk lihat orang masak.
 
-Di margin neraca bab 232 itu, Sela menambahkan catatan kecil yang khas arsipnya: "hal-hal kecil hari ini yang layak diingat: teh habis dua teko lebih banyak dari kemarin; nat sudut pasar disapa tujuh orang (rekor baru); dan satu anak kecil berhenti di depan nat lorong barak untuk bilang 'malam, batu' sebelum pulang." Ashvarok membaca, mengangguk, dan membalas dengan satu kata di bawahnya: "bagus". Karena memang begitulah cara dunia yang baik berjalan: bukan lewat peristiwa besar, tapi lewat sapaan-sapaan kecil yang tidak pernah putus.
+Di margin neraca bab 232 itu, Sela menambahkan catatan kecil yang khas arsipnya: "hal-hal kecil hari ini yang layak diingat: teh habis dua teko lebih banyak dari kemarin; nat sudut pasar disapa tujuh orang (rekor baru); dan satu anak kecil berhenti di depan nat lorong barak untuk bilang 'malam, batu' sebelum pulang." Ashvarok selesai membaca, mengangguk sekali, dan menandai halamannya dengan garis. Begitulah dunia yang baik melangkah: dari sapaan kecil ke sapaan kecil, tanpa pernah berhenti.

@@ -67,7 +67,7 @@ Tapi dengan akhiran berbeda. Akhiran yang belum pernah muncul di catatan mana pu
 
 Kovan meletakkan terjemahannya di tengah meja: "Bukan 'kunci' seperti dulu. Dia tidak menyebut Ashvarok kunci lagi." Jeda. "Dengan akhiran ini, katanya: 'penjaga'."
 
-Hening total. Sela kapurnya berhenti. Brannoc berhenti mengunyah. Maera yang baru setengah jalan menuju kursinya berhenti berjalan.
+Hening total. Sela kapurnya berhenti. Akarnya di rahang Brannoc berhenti bergerak. Maera yang baru setengah jalan menuju kursinya berhenti berjalan.
 
 "Seribu tahun dia menyebutku alamat," kata Ashvarok pelan, dan kalimat itu bukan untuk meja, tapi meja mendengarnya juga. "Fungsi. Alat. Pintu yang diputar. Dan sekarang, setelah dua pekan batu asah di jendela dan teh yang dingin dan nama-nama yang disebut tanpa takut... dia mengganti jabatanku."
 

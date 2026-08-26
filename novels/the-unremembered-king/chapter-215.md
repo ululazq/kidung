@@ -51,7 +51,7 @@ Dan tangan kesebelas, yang oleh Dewan ditulis "penjaga yang menyegelnya": Ashvar
 
 "Kau sadar apa yang mereka minta?" kata Sareth Vayin malam itu, ketika keduanya sendirian di ruang arsip. "Mereka meminta tangan yang menyegel datang menandatangani pembukaannya. Itu bukan formalitas. Itu pengakuan publik bahwa kesalahan seribu tahun itu milikmu — dan penebusannya juga."
 
-"Aku sadar," kata Ashvarok. "Itulah sebabnya aku akan menandatanganinya dengan senang hati. Seribu tahun aku mencari cara menebus. Ternyata caranya bukan pertempuran besar." Ia tersenyum. "Caranya tanda tangan."
+"Baru kali ini aku sadar betul-betul," kata Ashvarok. "Itulah sebabnya aku akan menandatanganinya dengan senang hati. Seribu tahun aku mencari cara menebus. Ternyata caranya bukan pertempuran besar." Ia tersenyum. "Caranya tanda tangan."
 
 ---
 
@@ -63,7 +63,7 @@ Enam pejabat Dewan menandatangani dengan pena. Tiga wakil Caldrest dan dua wakil
 
 Lalu tangan kesebelas.
 
-Ashvarok membuka the Walking Key seperlunya — cukup untuk membuat sentuhannya meninggalkan jejak yang bisa dibaca nat mana pun selamanya — meletakkan telapak kanannya ke dokumen, dan menekan. Jejak telapak itu muncul di kertas sebagai cap hangat keemasan yang tidak akan pudar: bukan nama raja, bukan gelar Hegemony. Cuma bentuk tangan manusia yang bekerja.
+Ashvarok membuka the Walking Key seperlunya — cukup untuk membuat sentuhannya meninggalkan jejak yang bisa dibaca nat mana pun selamanya — meletakkan telapak kanannya ke dokumen, dan menekan. Jejak telapak itu muncul di kertas sebagai cap hangat keemasan yang tidak akan pudar: bukan nama raja, bukan gelar Hegemony. Hanya bentuk tangan manusia yang bekerja.
 
 Dan tangan kedua belas bukan tangan sama sekali.
 
@@ -105,7 +105,7 @@ Lalu kedalaman mengirim kalimat penutup malam — pendek, dalam bahasa penjaga, 
 
 Dan Sela menutup batch era ini dengan entri neraca yang dibacakannya keras-keras di aula esok paginya, sesuai tradisi:
 
-"Hari 541. The Patient House: entitas berdaulat resmi Karvess — yang pertama dan satu-satunya, ditandatangani dua belas tangan dan satu cap api. Neraca keseluruhan: dunia memberinya segel; Hegemony memberinya kunci; Choir memberinya ketakutan; Caldrest memberinya nama; dan Dewan Regional akhirnya memberinya apa yang paling lama ia tunggu — bukan nama, bukan hadiah, melainkan KERTAS RESMI yang menyatakan bahwa ia ada." Ia menutup papan. "Kadang pengakuan paling besar memang cuma selembar kertas. Tapi bagi yang seribu tahun tidak pernah disebut ada — selembar kertas itu seluruh dunia."
+"Hari 541. The Patient House: entitas berdaulat resmi Karvess — yang pertama dan satu-satunya, ditandatangani dua belas tangan dan satu cap api. Neraca keseluruhan: dunia memberinya segel; Hegemony memberinya kunci; Choir memberinya ketakutan; Caldrest memberinya nama; dan Dewan Regional akhirnya memberinya apa yang paling lama ia tunggu — bukan nama, bukan hadiah, melainkan KERTAS RESMI yang menyatakan bahwa ia ada." Ia menutup papan. "Kadang pengakuan paling besar memang hanya selembar kertas. Tapi bagi yang seribu tahun tidak pernah disebut ada — selembar kertas itu seluruh dunia."
 
 Kapur gadis itu diletakkan. Aula menunggu kalimat penutupnya yang biasa.
 
@@ -113,6 +113,5 @@ Yang keluar malam itu lebih pendek dari biasanya, dan oleh karena itu lebih diin
 
 "Batch ditutup. Pekerjaan berlanjut. Masih ada yang harus pulang — dan sekarang dunia punya kertas resmi yang bilang: boleh."
 
-Sela memulai indeks silang baru: nama-nama yang muncul di lebih dari satu generasi cerita. Tujuannya sederhana dan besar sekaligus — membuktikan bahwa Karvess tidak pernah benar-benar lupa, cuma berhenti menyebut. Dan yang berhenti disebut bisa mulai disebut lagi kapan saja.
+Sela memulai indeks silang baru: nama-nama yang muncul di lebih dari satu generasi cerita. Tujuannya sederhana dan besar sekaligus — membuktikan bahwa Karvess tidak pernah benar-benar lupa, hanya berhenti menyebut. Dan yang berhenti disebut bisa mulai disebut lagi kapan saja.
 
-Sela memulai indeks silang baru: nama-nama yang muncul di lebih dari satu generasi cerita. Tujuannya sederhana dan besar sekaligus — membuktikan bahwa Karvess tidak pernah benar-benar lupa, cuma berhenti menyebut. Dan yang berhenti disebut bisa mulai disebut lagi kapan saja.

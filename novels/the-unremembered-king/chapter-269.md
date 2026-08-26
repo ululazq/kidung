@@ -131,6 +131,6 @@ Notaris tua itu memandangi mereka — dua bocah tambang yang delapan tahun silan
 
 Di jalan pulang, Sela menghitung sesuatu di papan tulis kecilnya.
 
-"Tiga," katanya. "Tiga dokumen negara lahir dari dapur dan barak kita dalam tiga tahun: pengakuan kedaulatan the Patient House, protokol musim, dan sekarang status hukum pertanyaan." Ia menutup papan tulisnya. "Kak, kalau ada sejarawan masa depan membaca daftar ini, mereka akan pikir Karvess diperintah dari dapur aula."
+"Tiga," katanya. "Tiga dokumen negara lahir dari dapur dan barak kita dalam tiga tahun: pengakuan kedaulatan the Patient House, protokol musim, dan sekarang status hukum pertanyaan." Papan tulis kecil itu ditutup dan dipeluk. "Kak, kalau ada sejarawan masa depan membaca daftar ini, mereka akan pikir Karvess diperintah dari dapur aula."
 
 "Dunia sudah lama diperintah dari meja-meja besar," kata Ashvarok-Renn. "Dan lihatlah hasilnya. Mungkin waktunya dicoba dari tempat yang bau sup."

@@ -25,11 +25,11 @@ Ketika semuanya mereda, Tovik masih berdiri di tengah panggung dapur dengan nama
 
 Pemulihan Tovik berjalan seperti musim: tidak bisa dipercepat, tapi pasti arahnya.
 
-Dalam sebulan, ia mengingat semua wajah barak. Dalam dua bulan, ia mengingat kebiasaannya sendiri — cara melipat kain, urutan menyiram lantai, jadwal menyirami tanaman klinik yang selama delapan belas tahun ia rawat "karena rasanya penting" tanpa tahu kenapa. (Tanaman itu miliknya. Ia menanamnya sebelum kehilangan nama. Dan selama delapan belas tahun tubuhnya terus merawat apa yang pikirannya lupa.)
+Dalam sebulan, ia mengingat semua wajah barak. Dalam dua bulan, kebiasaan lamanya kembali — cara melipat kain, urutan menyiram lantai, jadwal tanaman klinik yang delapan belas tahun dirawatnya "karena rasanya penting" tanpa tahu sebabnya. (Tanaman itu miliknya. Tanamannya ditanamnya jauh sebelum namanya hilang. Delapan belas tahun, tangan-tangannya merawat apa yang tak ingatannya lagi.)
 
 Dalam tiga bulan, dokter tambang — yang kini datang tiap sesi jam penjaga malam dengan buku medisnya — mencatat diagnosis yang belum pernah ada dalam sejarah kedokteran mana pun:
 
-"Subjek Tovik: pemulihan Hollowing PARSIAL-PROGRESIF. Nama diri: pulih penuh. Memori peristiwa: puluh persen dan bertambah. Kepribadian: utuh sejak awal." Ia menutup buku medisnya, memandang lelaki tua itu yang sedang mengajar anak-anak menyiram tanaman, dan berkata kepada Sela yang mencatat: "Nona Kepala Arsip, tuliskan ini dengan huruf besar. Ini bukan kesembuhan kebetulan. Ini bukti bahwa Hollowing bisa diobati — dan resepnya adalah orang-orang yang menyebut nama dengan setia."
+"Subjek Tovik: pemulihan Hollowing PARSIAL-PROGRESIF. Nama diri: pulih penuh. Memori peristiwa: puluh persen dan bertambah. Kepribadian: tidak pernah pecah sejak awal." Buku medis ditutup Gella. Pandangannya menetap pada lelaki tua yang sedang mengajari anak-anak menyiram tanaman. "Nona Kepala Arsip," katanya kepada Sela, "catat kalimat ini dengan huruf besar. Ini bukan kesembuhan yang datang dari kebetulan. Bukti telah ada: Hollowing bisa diobati. Resepnya — orang-orang yang setia menyebut nama."
 
 Resep itu disalin ke Registri Mimpi, dikirim ke Spire lewat jalur resmi Ossian, dibacakan di Dewan Regional oleh Maera atas permintaan komisi, dan — potongan terakhir yang membuat seluruh tim inti diam — dikirim juga ke utara, dibacakan ke empat ratus batu oleh armada kedua yang baru pulang.
 
@@ -39,7 +39,6 @@ Jawaban dari empat ratus suara utara, diterjemahkan Sareth Vayin:
 
 ---
 
-Pemulihan Tovik berjalan seperti musim: tidak bisa dipercepat, tapi pasti arahnya.
 Dalam sebulan, ia mengingat semua wajah barak. Dalam dua bulan, ia mengingat kebiasaannya sendiri — cara melipat kain, urutan menyiram lantai, jadwal menyirami tanaman klinik yang selama delapan belas tahun ia rawat "karena rasanya penting" tanpa tahu kenapa. Tanaman itu miliknya. Ia menanamnya sebelum kehilangan nama. Dan selama delapan belas tahun tubuhnya terus merawat apa yang pikirannya lupa.
 
 Ketika ingatan itu pulang, Tovik tidak menangis di tanaman — ia justru memarahinya dengan lembut: "Delapan belas tahun kamu dirawat orang asing, terus sekarang kamu kembali ke pemilik asli yang lupa cara merawatmu. Kasihan kamu." Ia menyiramnya sore itu, dan setiap sore setelahnya.
@@ -54,7 +53,7 @@ Dalam tiga bulan, dokter tambang — yang kini datang tiap sesi jam penjaga mala
 Resep itu disalin ke Registri Mimpi, dikirim ke Spire lewat jalur resmi Ossian, dibacakan di Dewan Regional oleh Maera atas permintaan komisi — dan respons Spire mengejutkan semua orang: bukan skeptisisme yang ditakutkan, melainkan PERMINTAAN.
 Tiga kota lain di Karvess memiliki the Hollowed. Semua selama ini diasumsikan tidak bisa pulih. Dewan meminta Caldrest mengirim "konsultan pemulihan" — dan satu-satunya kandidat yang disetujui semua pihak adalah orang yang delapan bulan lalu berjalan sendirian ke kedalaman tanpa nama:
 Tovik.
-"Aku?" Tovik mendengar kabar itu dari mulut Sela, dengan wajah yang tidak percaya. "Aku tidak sekolah tinggi-tinggi. Aku cuma penjaga galeri yang sempat hilang." Jeda lelaki tua itu. "Terus..." sesuatu berubah di wajahnya, "...terus aku satu-satunya yang pernah balik dari sana sambil bawa nama sendiri." Ia memandang sapu bersandar di sudut. "Ya sudah. Tapi syaraku satu: semua kunjungan harus lewat dapur dulu. Orang sakit itu jangan diserang teori. Diserang bubur dulu."
+"Aku?" Tovik mendengar kabar itu dari mulut Sela, dengan wajah yang tidak percaya. "Aku tidak sekolah tinggi-tinggi. Aku hanya penjaga galeri yang sempat hilang." Jeda lelaki tua itu. "Terus..." sesuatu berubah di wajahnya, "...terus aku satu-satunya yang pernah balik dari sana sambil bawa nama sendiri." Ia memandang sapu bersandar di sudut. "Ya sudah. Tapi syaraku satu: semua kunjungan harus lewat dapur dulu. Orang sakit itu jangan diserang teori. Diserang bubur dulu."
 
 ---
 
@@ -73,7 +72,7 @@ Di bawah catatan itu, Sela menambahkan terjemahan bebasnya untuk keluarga Caldre
 
 Dan peristiwa penutup bab — yang terjadi di jam penjaga malam sesi kedua puluh satu: untuk pertama kalinya, Tovik yang memimpin pembacaan empat potongan cerita, bukan Sela.
 Ia membacanya dengan suara pelan dan jeda-jeda panjang milik orang yang tahu bagaimana rasanya berada di dalam cerita. Ketika sampai pada potongan tentang dirinya sendiri ("Tovik selalu menjawab ada untuk semua gerbong"), ia berhenti, memandang barak penuh itu, dan berkata:
-"Dulu aku jawab ada karena dengan suara anak kecil dari bawah juga jawab ada. Aku pikir dia saingan bekerja." Barak tertawa. "Belakangan aku tau: dia cuma ikut senang ada yang menyebut nama." Ia menatap lantai kayu yang menghadap tambang. "Sekarang kita bertiga jawab bareng. Aku, dia, dan semua kalian."
+"Dulu aku jawab ada karena dengan suara anak kecil dari bawah juga jawab ada. Aku pikir dia saingan bekerja." Barak tertawa. "Belakangan aku tau: dia hanya ikut senang ada yang menyebut nama." Ia menatap lantai kayu yang menghadap tambang. "Sekarang kita bertiga jawab bareng. Aku, dia, dan semua kalian."
 
 ---
 
@@ -100,7 +99,7 @@ Jawabannya: karena aku pernah menulis nama orang di kolom hilang... lalu bisa me
 ---
 
 Dan satu adegan terakhir untuk memenuhi neraca bab dengan benar — bukan pengisi, tapi penutup: keesokan paginya, murid-murid akademi tingkat satu menemukan tanaman klinik Tovik mendapat pot baru. Semua pot lama penuh akar delapan belas tahun. Harn yang menyangga potnya sambil berkomentar kepada kelas:
-"Guru bilang ini metafora. Aku bilang ini cuma tanaman butuh tempat lebih besar." Ia menepuk tanahnya rata. "Dua-duanya benar sepertinya."
+"Guru bilang ini metafora. Aku bilang ini hanya tanaman butuh tempat lebih besar." Ia menepuk tanahnya rata. "Dua-duanya benar sepertinya."
 
 Ketua majelis Dewan pernah membaca catatan teh itu saat berkunjung dan diam lama di satu halaman. Ketika ditanya, ia menjawab: "di sini tertulis tanggal aku pertama minum di dapur ini. Itu hari pertama aku merasa jadi tetangga, bukan pejabat."
 

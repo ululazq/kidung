@@ -115,7 +115,7 @@ Sela tertawa dan menangis bersamaan. Ibu Tamma — yang entah sejak kapan berdir
 
 Dan Gella, diperiksa keesokan paginya, mengangguk pada temuan ibu Tamma:
 
-"Irama ototnya makin sering aktif. Tubuh ini sedang berlatih untuk bangun." Ia menutup buku catatannya. "Aku dokter tambang, bukan peramal. Tapi kalau kalian minta tebakan dokter tambang..."
+"Irama ototnya makin sering aktif. Tubuh ini sedang berlatih untuk bangun." Buku catatannya tertutup rapat. "Aku dokter tambang, bukan peramal. Tapi kalau kalian minta tebakan dokter tambang..."
 
 Ia melihat Ashvarok.
 

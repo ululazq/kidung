@@ -63,7 +63,7 @@ Ibu-ibu Caldrest dan keturunan utara menghabiskan tiga pekan menyiapkan pakaian 
 
 Dan dapur aula bekerja tanpa henti tiga hari menjelang hari-H, karena pasal ibu Tamma berlaku juga untuk seratus orang: tidak ada pemulangan yang sah tanpa makan malam pertama — maka makan malam pertama seratus jiwa harus sudah siap DI ATAS MEJA sebelum mereka naik.
 
-"Seratus porsi," kata ibu Tamma memeriksa daftarnya. "Plus tamu. Plus murid-murid yang nyanyi. Plus aku butuh cadangan dua puluh porsi kalau ada yang masih lapar setelah delapan belas tahun." Ia melihat daftar itu sekali lagi. "Tambahkan sepuluh lagi. Delapan belas tahun itu lama."
+"Seratus porsi," kata ibu Tamma memeriksa daftarnya. "Plus tamu. Plus murid-murid yang nyanyi. Plus aku butuh cadangan dua puluh porsi kalau ada yang masih lapar setelah delapan belas tahun." Ia melihat daftar itu sekali lagi. "Tambahkan sepuluh lagi. Delapan belas tahun adalah waktu yang terlalu panjang untuk diukur."
 
 Ashvarok menutup neraca persiapan dengan entri yang pendek:
 

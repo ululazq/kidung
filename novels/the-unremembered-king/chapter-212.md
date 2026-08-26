@@ -29,7 +29,7 @@ Perjalanan empat hari ke selatan melewati wilayah yang tidak pernah dilalui siap
 
 Lembah itu bukan kawah mati. Itu yang membuat semua orang berhenti bicara. Rumput tumbuh hijau di lerengnya, burung-burung beterbangan, sungai kecil mengalir dari utara ke dalamnya dan tidak pernah keluar lagi — dan udara di bibir lembah hangat, hangat yang aneh karena musim baru saja berganti dan malam-malam seharusnya dingin.
 
-Kovan mencocokkan catatan ordo dengan peta Maera di atas lututnya, dan menemukan ketidakcocokan yang lebih menarik dari lanskapnya sendiri: setiap peta Karvess tiga ratus tahun terakhir menggambar lembah ini sebagai segitiga asap abu-abu dengan tulisan "tidak layak huni" — tapi catatan pajak era Hegemony, yang Sela bawa salinannya, masih mencantumkan lembah ini sebagai sumber gandum hingga tahun terakhir sebelum bencana. Dunia tidak pernah sepakat apakah tempat ini mati. Dunia cuma berhenti bertanya.
+Kovan mencocokkan catatan ordo dengan peta Maera di atas lututnya, dan menemukan ketidakcocokan yang lebih menarik dari lanskapnya sendiri: setiap peta Karvess tiga ratus tahun terakhir menggambar lembah ini sebagai segitiga asap abu-abu dengan tulisan "tidak layak huni" — tapi catatan pajak era Hegemony, yang Sela bawa salinannya, masih mencantumkan lembah ini sebagai sumber gandum hingga tahun terakhir sebelum bencana. Dunia tidak pernah sepakat apakah tempat ini mati. Dunia hanya berhenti bertanya.
 
 Anak Pak Dekan mendahului semua orang. Ia berlutut, menempelkan telapak tangannya ke tanah, dan diam waktu yang cukup lama sampai Sela mulai khawatir.
 
@@ -37,7 +37,7 @@ Anak Pak Dekan mendahului semua orang. Ia berlutut, menempelkan telapak tanganny
 
 Mereka mendirikan kemah di bibir lembah, bukan di dalamnya — Sareth aturan kesembilan, ditaati tanpa perlu diskusi — dan Kovan membuka buku hitungannya untuk entri malam pertama: lokasi terkonfirmasi, suhu tanah naik satu deret setiap kali mereka berdiri lebih dekat, burung-burung kembali bertengger sehabis senja seperti tidak ada apa-apa yang salah dengan lembah ini.
 
-"Tiga generasi peta menganggap tempat ini mati," katanya sambil menulis. "Padahal dia cuma ditinggal pintu tertutup."
+"Tiga generasi peta menganggap tempat ini mati," katanya sambil menulis. "Padahal dia hanya ditinggal pintu tertutup."
 
 ---
 
@@ -71,7 +71,7 @@ Murid akademi yang termuda — laki-laki lima belas tahun dari blok timur yang d
 
 "Aku mau pulihkan," kata ia di perkemahan, belum selesai menangis tapi sudah selesai memutuskan. "Api itu. Aku mau jadi orang yang bawa dia pulang."
 
-Tidak ada yang menjawab "nanti kita lihat dulu". Bahkan Ashvarok. Sela cuma menuliskan nama murid itu di papan kecilnya, di bawah judul baru yang ia garis bawahi dua kali: Daftar Titipan yang Belum Dikembalikan.
+Tidak ada yang menjawab "nanti kita lihat dulu". Bahkan Ashvarok. Sela hanya menuliskan nama murid itu di papan kecilnya, di bawah judul baru yang ia garis bawahi dua kali: Daftar Titipan yang Belum Dikembalikan.
 
 ---
 
@@ -83,7 +83,7 @@ Semua orang sudah masuk tenda kecuali Sela. Gadis dua belas tahun itu datang dud
 
 Ashvarok menatap blok Karveth-Ulm yang bersinar samar di gelap, hangat sendirian di tengah lembah yang mati tiga ratus tahun.
 
-"Di Caldrest," katanya pelan, "kita menyimpan orang. Jiwa, nama, cerita. Kita pikir itu pekerjaan kedalaman: menyimpan yang hidup supaya tidak hilang. Malam ini aku belajar bahwa kedalaman lebih tua dari pemahaman kita — dia juga menyimpan yang bukan manusia. Api. Mungkin yang lain lagi yang belum kita bayangkan." Ia menyeruput tehnya. "Dan para pendeta itu percaya padanya tanpa segel, tanpa kontrak, tanpa armada pembaca. Mereka cuma datang, minta tolong, dan yakin."
+"Di Caldrest," katanya pelan, "kita menyimpan orang. Jiwa, nama, cerita. Kita pikir itu pekerjaan kedalaman: menyimpan yang hidup supaya tidak hilang. Malam ini aku belajar bahwa kedalaman lebih tua dari pemahaman kita — dia juga menyimpan yang bukan manusia. Api. Mungkin yang lain lagi yang belum kita bayangkan." Ia menyeruput tehnya. "Dan para pendeta itu percaya padanya tanpa segel, tanpa kontrak, tanpa armada pembaca. Mereka hanya datang, minta tolong, dan yakin."
 
 "Sama seperti Caldrest sekarang."
 
