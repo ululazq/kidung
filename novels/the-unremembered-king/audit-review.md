@@ -35,6 +35,7 @@ baru. Semua sudah ditinjau berkali-kali; cukup dirujuk ke daftar ini:
 | E-6f6307 | entitas | "Dicoret" (2×, bab 268, 275) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | Pola berulang sudah ditinjau permanen di audit-review.md (vokatif/gelar+nama/institusi kanon) |
 | E-5ec01d | entitas | "Kak Uthar" (2×, bab 253) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | Pola berulang sudah ditinjau permanen di audit-review.md (vokatif/gelar+nama/institusi kanon) |
 | E-3a9c78 | entitas | "Nak-nak" (2×, bab 251, 260) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | Pola berulang sudah ditinjau permanen di audit-review.md (vokatif/gelar+nama/institusi kanon) |
+| E-0df4b5 | entitas | "Nak" (18×, bab 251, 255, 257, 258, 259, 265, 266, 273, 275, 280, 288, 289, 290) ada di bible (kanon) tapi tidak tercatat di world-state — tambahkan ke tabel Tokoh? | Nak adalah julukan peran (kebiasaan Wida, bible baris 142) yg kini juga dipakai ibu Tamma/Brannoc/Daven ke anak muda; bukan entitas baru, sudah dikanonkan di bible. Diterima sebagai keputusan sadar. |
 | E-3754d3 | kandidat lain | Pola sama dengan daftar atas; tidak ada entitas baru. |
 
 *Terakhir ditinjau: bab 284.*
