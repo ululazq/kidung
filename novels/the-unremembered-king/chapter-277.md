@@ -141,3 +141,28 @@ Maka undangan terakhir dikirim subuh itu — satu halaman, tanpa protokol, ditul
 *Kalian didengarkan dulu. Baru kemudian dibacakan.*
 
 *Itu seluruh isi doktrin baru kalian, kalau dipikir ulang. Maka mari kita mulai dari diri sendiri.*
+---
+
+Satu lampiran untuk bab yang sudah lewat — dicatat Sela belakangan saat menata ulang arsip, karena ada satu detail kunjungan terakhir Pembaca Tua ke Caldrest yang luput dicatat dan tidak boleh hilang:
+
+Sebelum pulang ke biara pada pagi itu, laki-laki tua itu sempat singgah ke dapur aula. Tidak bicara dengan siapa pun. Ia hanya meletakkan sejumlah uang di meja ibu Tamma — jumlah yang oleh Kovan, ketika menghitungnya belakangan, terbukti persis sama dengan biaya sup dua orang selama empat puluh hari.
+
+"Untuk apa ini, Tuan?" tanya ibu Tamma waktu itu.
+
+"Untuk kiriman bulanan yang kalian kirim ke biara," jawabnya. "Empat puluh bulan aku menerimanya tanpa pernah membayar. Jabatan ini hidup dari pemberian; kalau mati berutang, murid-muridku akan meniru kesalahan itu."
+
+Ibu Tamma menolak uangnya. Dua kali.
+
+Percakapan penyelesaian akhirnya, kata saksi dapur, hanya dua kalimat:
+
+"Kalau kau tidak terima, aku mati berutang."
+
+"Kalau begitu aku terima — tapi uang ini jadi tabungan supmu. Kau boleh minum gratis kalau mau naik ke sini lagi."
+
+Laki-laki tua itu tertawa pendek pertama dan terakhir kalinya di Caldrest, mengangguk, dan pergi.
+
+Uang itu masih disimpan ibu Tamma di kaleng khusus bertuliskan tinta: *TABUNGAN SUP P.T. — JANGAN DIPAKAI SEBELUM BELIAU NAIK LAGI.*
+
+Malam itu, setelah kabar wafat sampai, ibu Tamma mengambil kaleng tersebut, membawanya ke dapur aula, dan memasukkannya ke adonan roti akademi terbesar yang pernah dibuat kota itu — cukup untuk semua murid Sekolah Mendengar dua belas cabang.
+
+"Beliau bilang jangan dipakai sebelum beliau naik lagi," katanya kepada Sela yang melihat. "Dan dia baru saja naik ke dataran tinggi. Menurutku itu termasuk."
