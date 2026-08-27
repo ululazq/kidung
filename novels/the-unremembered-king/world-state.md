@@ -1,6 +1,6 @@
 # World State: The Unremembered King
 
-Terakhir diperbarui: bab 305
+Terakhir diperbarui: bab 306
 Arc aktif: Arc 2 — The Choir's Summons
 
 ## Status thread baru (bab 296-300): Buku Anomali

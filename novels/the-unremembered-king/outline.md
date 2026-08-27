@@ -383,3 +383,4 @@ Premis: gejala pertama tangan penyedot pengikat (Arc 2) bocor lewat bilangan dun
 | 303 | Ashvarok-Renn/Kovan/Sela/Brannoc | Barat laut 3,1,4,1,5 terkoreksi bahan lantai kayu basah; metode ketuk dahulu hitung kemudian; simpan mentah + koreksi | bahan menelan suara | selesai |
 | 304 | Ashvarok-Renn/Kovan/Sela/Gella | Seam sebagai benda yang menyambung; benang ditarik bukan pemilik; ditahan dari dua ujung utara-selatan dengan jeda satu napas | benda yang menyambung | selesai |
 | 305 | Ashvarok-Renn/Kovan/Sela/Brannoc | Jaringan diam: desa lapor hanya saat angka berubah; tangan tetap menyapu/menanah/menenun; menara juga diam bersama | jaringan yang diam bersama | selesai |
+| 306 | Ashvarok-Renn/Kovan/Sela/Brannoc/Maera/Gella | Ossian kirim angka kecepatan: setengah napas dalam setahun (0,041/bulan); Harn dan perawat menara sama-sama berhenti menyapu saat dentum keras; Gella ingatkan lelah menahan | selisih yang ditahan setahun | selesai |
