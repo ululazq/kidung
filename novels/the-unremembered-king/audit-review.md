@@ -34,7 +34,6 @@ baru. Semua sudah ditinjau berkali-kali; cukup dirujuk ke daftar ini:
 | E-6f6307 | entitas | "Dicoret" (2×, bab 268, 275) | Pola berulang sudah ditinjau permanen di audit-review.md (vokatif/gelar+nama/institusi kanon) |
 | E-5ec01d | entitas | "Kak Uthar" (2×, bab 253) | Pola berulang sudah ditinjau permanen di audit-review.md (vokatif/gelar+nama/institusi kanon) |
 | E-3a9c78 | entitas | "Nak-nak" (2×, bab 251, 260) | Pola berulang sudah ditinjau permanen di audit-review.md (vokatif/gelar+nama/institusi kanon) |
-| E-0df4b5 | entitas | "Nak" (18×, bab 251, 255, 257, 258, 259, 265, 266, 273, 275, 280, 288, 289, 290) ada di bible (kanon) | Nak adalah julukan peran (kebiasaan Wida, bible baris 142) yg kini juga dipakai ibu Tamma/Brannoc/Daven ke anak muda; bukan entitas baru, sudah dikanonkan di bible. Diterima sebagai keputusan sadar. |
 | E-fd0576 | "Nak" (30×, bab 44-246) | Vokatif kanon — pola #1. |
 | E-658001 | "Kantor Penghubung" (18×, bab 193-249) | Institusi kanon — pola #5. |
 | E-6b3d46 | "Shift Guard Kovan" (11×, bab 32-61) | Gelar+nama kanon — pola #4. |
@@ -52,6 +51,6 @@ baru. Semua sudah ditinjau berkali-kali; cukup dirujuk ke daftar ini:
 | E-5705d7 | "Overseer Tharrow" (3×, bab 54-59) | Gelar+nama kanon — pola #4. |
 | E-f07054 | "… dan 23 kandidat lain" | Sisa kandidat = pola sama dgn daftar atas (vokatif/gelar/institusi kanon/kata umum). |
 | E-67d68e | "Pell" (4×, bab 292) | Julukan pendek untuk Pellia/Pellia Muda — entitas kanon (bible baris 29 & 147, world-state baris 574-580). Pola #8 (nama kanon, varian panggilan). |
-| E-5c67b7 | "Nak" (19×, bab 251-292) | Vokatif kanon Wida (bible baris 142, world-state entri 251-292). Sama dgn E-0df4b5 — pola #1. |
+| E-d8b374 | entitas | "Nak" (20×, bab 251, 255, 257, 258, 259, 265, 266, 273, 275, 280, 288, 289, 290, 292, 296) ada di bible (kanon) tapi tidak tercatat di world-state — tambahkan ke tabel Tokoh? | Nak = vokatif peran Wida (bible kanon, baris 142), panggilan untuk semua anak barak, bukan entitas baru; 20x konsisten bab 251-296 |
 
-*Terakhir ditinjau: bab 295.*
+*Terakhir ditinjau: bab 305.*

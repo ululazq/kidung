@@ -1,7 +1,22 @@
 # World State: The Unremembered King
 
-Terakhir diperbarui: bab 295
-Arc aktif: Arc 1 — The Glass City
+Terakhir diperbarui: bab 305
+Arc aktif: Arc 2 — The Choir's Summons
+
+## Status thread baru (bab 296-300): Buku Anomali
+- Ashvarok-Renn membuka BUKU ANOMALI: catat irama 3 detik yang bocor ke bilangan desa + tubuh orang (bukan gema lokal).
+- Lapisan dua: detak utama 3 dtk (pasif/kebocoran) + detak bayangan lebih cepat (aktif, "lari ke depan", memanggil yang belum datang). Selisih makin besar ke arah utara, puncak arah Anthema Spire.
+- Temuan desa timur + Yang Dulu Sunyi: irama utama kadang BERHENTI sepenuhnya satu napas (jeda panjang). Hipotesis: saat seluruh jaringan menahan napas, tangan di bawah ikut berhenti mengambil -> pengikat aman.
+- Kovan: irama berasal dari seam di bawah barak (pengikat menyambung seluruh Karvess); tarikan kuat di utara = benang penyambung ditarik dari ujung Spire; tempat yang pernah patah (lima panglima gugur di utara) paling tipis.
+- Keputusan: tidak turun, tidak beri nama musuh, tidak laporkan ke Spire. Sebar buku anomali ke jaringan Sekolah Mendengar; hitung bersama; cari pengamat utara yang tak dikenali (via Ossian/Maera, kain tenun biasa).
+- Surat pribadi Ashvarok-Renn ke Widur Kecil (anak lembah selatan) membalas: suaranya didengar.
+
+## Konvensi Prosa (bab 301+): nada dingin / filosofis
+- Kalimat pendek, deklaratif. Adorna dan personifikasi berlebih dikurangi.
+- Narator = pencatat sejarah yang menjaga jarak; istilah dunia (nat, seam, pengikat, Karvess) dipakai tanpa penjelasan ulang.
+- Fokus pada keheningan, benda mati, dan bilangan; dialog dipangkas seperlunya (tetap wajib ≥2 pertukaran yang mengubah sesuatu).
+- Aphorism tipis diperbolehkan, tidak berlebih.
+- Tetap 100% baku; tetap patuh 13 aturan keras + kontrak output.
 
 Catatan: file ini adalah memori kerja serial — satu-satunya tempat yang wajib
 sinkron dengan bab terakhir yang ditulis. Update tiap selesai menulis bab

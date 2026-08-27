@@ -1,7 +1,7 @@
 # Bible: The Unremembered King
 
-Terakhir diperbarui: bab 295
-Sudah diungkap ke pembaca sampai: bab 275
+Terakhir diperbarui: bab 305
+Sudah diungkap ke pembaca sampai: bab 305
 
 ## Premis
 
@@ -715,6 +715,12 @@ Catatan bab 150 (KLIMAKS JENDELA, POV Ashvarok): GEMPA GEMA SERENTAK jam ketiga 
 | 7 | Kesepakatan "tulang seam": setor fragmen premium ke Tharrow sebelum survei Guild | belum (bab 9: jualan ke pasar; bab 10–11 Guild tiba) |
 | 7 | Surat Tharrow ke pusat: "satu aset manusia potensial" — jalur laporan naik | belum (bab 26: lapor Ossian) |
 | 7 | Kata "sunyi" dari Ondar ditandai Tharrow, tak masuk dokumen resmi | belum (bab 14: Hollowing mini) |
+| 286 | Irama 3 detik Kovan di arsip (sama dengan detak di sendok ibu Tamma, palu di dinding, napas orang tua) — seeded sebagai tanda kedalaman dekat | belum (tembak bab 296: irama muncul di bilangan TIGA desa tak-saling-kenal → buka "Buku Anomali"; gejala pertama tangan penyedot pengikat the Threshold bocor lewat bilangan dunia) |
+| 296 | "Buku Anomali" — catatan bersama Ashvarok-Renn (nama), Kovan (angka), Sela (cerita) untuk setiap hitungan tak-berumah; keputusan: catat dulu, jangan turun ke retakan | belum (akan dikembangkan Arc 2: irama dikonfirmasi di Vhal-Duren + rumah penjaga malam, lalu telusuri sumber penyedot) |
+| 297 | Api perapian di barak TIDAK berdetak 3 detik (satu-satunya benda yang tak ikut irama) → irama selektif, ada "pemilih" | belum (tembak bab 297: bukti irama bukan universal) |
+| 298 | Desa timur + Yang Dulu Sunyi laporkan irama utama BERHENTI sepenuhnya satu napas (jeda panjang) → hipotesis tombol ada; saat dunia menahan napas, tangan di bawah ikut berhenti mengambil | belum (tembak bab 298) |
+| 299 | Surat pribadi Ashvarok-Renn ke Widur Kecil (anak lembah selatan yang pertama dengar detak bayangan "panggil yang belum datang") — membalas bahwa suaranya didengar | belum (tembak bab 299) |
+| 300 | Benang penyambung dari seam bawah barak ditarik dari ujung Anthema Spire; tarikan terkuat di utara = tempat yang pernah patah (lima panglima gugur) paling tipis; keputusan rahasia dari Spire, cari pengamat utara via Ossian/Maera | belum (tembak bab 300) |
 | 8 | Perjanjian diam Brannoc: "bawa orang keluar dulu, bertanya belakangan" | belum (bab 27: runtuhan utama) |
 | 8 | Prediksi: lorong sebelas & galeri timur runtuh saat musim hujan abu | belum (bab 27) |
 | 8 | Kontrak pendidikan Harn (anak Brannoc) dipegang the Quiet Vein | belum (bab ~25/140: dilunasi via Forge — outline asli bab 200, arc 1 pakai versi kecil) |
