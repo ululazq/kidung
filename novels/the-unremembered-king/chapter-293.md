@@ -85,7 +85,7 @@ Mereka melanjutkan jalan. Brannoc menulis di buku kecilnya malam itu: *Vhal-Dure
 
 Yuni, sebelum pulang ke Caldrest, menulis surat pendek ke Ashvarok-Renn:
 
-*Pak, batu di Vhal-Duren menjawab kambing, bukan Pembaca Tua. Kami tidak bangunkan suara tawanya. Kami biarkan ia menjaga tempat dengan caranya. Pelajaran yang kuterima: warisan bukan orang yang pergi, tapi kehadiran yang tinggal. Kambing punya hak yang sama dengan raja untuk diingat batu.*
+*Pak, batu di Vhal-Duren menjawab kambing, bukan Pembaca Tua. Kami tidak bangunkan suara tawanya. Kami biarkan ia menjaga tempat dengan caranya. Pelajaran yang kuterima: warisan bukan orang yang pergi, tapi kehadiran yang tinggal. Kambing sehaknya seberat raja di ingatan batu itu.*
 
 Ashvarok-Renn membaca surat itu di barak utara, lalu menulis di buku kecilnya: *Mereka mengerti. Arc warisan tidak perlu semua orang besar tetap hidup. Cukup ada yang hadir di tempat yang ditinggalkan. Manusia atau bukan.*
 
@@ -115,7 +115,7 @@ Malam di barak utara, Ashvarok-Renn dan Sela duduk di bangku sekolah, masing-mem
 
 "Kau ajarkan mereka bahwa tempat menjaga dirinya sendiri."
 
-"Tempat, dan kebiasaan." Ashvarok-Renn menutup buku. "Itu satu-satunya warisan yang tidak mati saat orang pergi."
+"Tempat, dan kebiasaan." Ashvarok-Renn menutup sampul buku. "Itu satu-satunya warisan yang tidak mati saat orang pergi."
 
 Mereka diam. Di luar, angin lembah utara membawa bau rumput kering. Jauh di Vhal-Duren, batu kecil menghadap timur menyala pelan di sisi tiga kambing yang tidur — penjaga diam yang tidak butuh satu pun kata untuk dikenali.
 

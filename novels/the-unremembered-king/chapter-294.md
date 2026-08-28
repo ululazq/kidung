@@ -135,7 +135,7 @@ Sela membaca surat Mak Sur di barak utara, lalu mendatangi Ashvarok-Renn yang du
 
 "Mak Sur bilang terima kasih tidak datang," kata Sela.
 
-"Surat terbaik yang pernah kuterima." Ashvarok-Renn tersenyum tipis. "Delapan belas tahun silam, surat ke desa selalu berisi keluhan karena aku tidak datang. Sekarang keluhan berubah jadi terima kasih karena aku tidak datang. Itu kemajuan."
+"Surat terbaik yang pernah kuterima." Ashvarok-Renn mengangguk pelan, senyum tipis di bibir. "Delapan belas tahun silam, surat ke desa selalu berisi keluhan karena aku tidak datang. Sekarang keluhan berubah jadi terima kasih karena aku tidak datang. Itu kemajuan."
 
 "Bukan kemajuan mereka saja," kata Sela. "Kemajuan kau yang belajar tidak campur."
 

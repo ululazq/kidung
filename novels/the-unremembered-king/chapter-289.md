@@ -81,7 +81,7 @@ Harn berhenti. "Itu dokumen bahwa ayahku dulu melunasi pendidikanku ke tambang. 
 
 "Berarti kau pandai besi karena ayahmu bayar?"
 
-"Bukan karena dibayar." Harn menatap palu di dinding. "Karena janji dipegang. Ayahku janji pada kota bahwa aku akan jadi tangan yang berguna. Kota janji padanya aku diasuh. Dua janji bertemu di dinding ini."
+"Bukan karena dibayar." Harn menatap benda itu di dinding. "Karena janji dipegang. Ayahku janji pada kota bahwa aku akan jadi tangan yang berguna. Kota janji padanya aku diasuh. Dua janji bertemu di dinding ini."
 
 Anak itu mengangguk pelan, lalu berlari ke perapian, memegang palu mainan yang dibuat Harn khusus untuk murid baru.
 

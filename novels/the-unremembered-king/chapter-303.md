@@ -47,7 +47,7 @@ Kovan menulis di halaman tujuh. *Barat laut: 3,1,4,1,5 — bukan pola sumber, me
 
 Sela menambahkan di arsip: *Lantai bukan netral. Tiap wilayah punya saringan sendiri. Pesisir berbatu, barat laut berkayu basah, timur berpasir. Angka harus dibaca bersama bahan yang dilewatinya.*
 
-"Hal yang tidak berubah," kata Sela sambil menulis. "Cara menghitung tetap sama, tetapi bahan yang dihitung ikut mengubah hasil."
+"Yang tidak berubah," kata Sela sambil menulis. "Cara menghitung tetap sama, tetapi bahan yang dihitung ikut mengubah hasil."
 
 "Betul," kata Ashvarok-Renn. "Dan itu pelajaran untuk jaringan diam nanti — desa tidak boleh hanya kirim angka. Mereka harus kirim juga bahan lantainya."
 
@@ -87,7 +87,7 @@ Maera mengangguk. "Aku akan tulis. Dan aku akan katakan: tidak ada angka buruk. 
 
 Sela yang mendengar dari serambi mencatat di arsip: *Pesisir dikoreksi: angin dan seng ikut mengubah dengar. Desa tidak dinilai dari angka, melainkan dari kejujuran menyebut bahan.*
 
-"Hal yang tidak berubah," kata Sela sambil menulis. "Cara kayu barat menahan air tidak berubah delapan belas tahun. Cara seng pesisir memantulkan angin juga tidak berubah. Yang berubah hanya cara kita membacanya."
+"Hal yang tidak berubah," kata Sela sambil menulis. "Cara kayu barat menahan air tidak berubah delapan belas tahun. Cara seng pesisir memantulkan angin juga tidak berubah. Yang berubah hanya kacamata kita membacanya."
 
 Ashvarok-Renn tersenyum tipis. "Maka buku anomali bukan buku angka. Ia buku bahan. Angka hanya ikut."
 
@@ -119,7 +119,7 @@ Kovan mengangguk. "Maka 3,1,4,1,5 bukan lagi misteri. Ia hanya angka yang belum 
 
 "Dan setelah kembali ke tiga, apa kita hapus angka mentahnya?" tanya Sela.
 
-"Tidak," jawab Ashvarok-Renn. "Simpan mentahnya, simpan koreksinya. Dua angka itu adalah bukti bahwa kita tidak memalsukan. Kita hanya memberi konteks. Seperti name-roll — nama mentah dan nama yang sudah dicek, keduanya disimpan."
+"Tidak," jawab Ashvarok-Renn dari kursi sudut. "Simpan mentahnya, simpan koreksinya. Dua angka itu adalah bukti bahwa kita tidak memalsukan. Kita hanya memberi konteks. Seperti name-roll — nama mentah dan nama yang sudah dicek, keduanya disimpan."
 
 Sela mencatat: *Simpan mentah + koreksi — dua angka, satu kebenaran.*
 

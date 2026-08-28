@@ -95,7 +95,7 @@ Sore harinya, Sela duduk di serambi menyusun ringkasan balasan Ossian ke buku ar
 
 Kovan mengangguk pelan. Ia menutup buku hitung. "Maka kita punya dua pencatat sekarang. Barak, dan menara. Dua ujung benang yang sama, keduanya menghitung tanpa menyebut nama."
 
-"Dua ujung, satu benang," kata Ashvarok-Renn. "Itu sebenarnya yang kita harapkan sejak membuka buku anomali. Bahwa kita tidak sendirian."
+"Dua ujung, satu benang," kata Ashvarok-Renn. "Itu sebenarnya yang kita harapkan sejak membuka buku anomali. Bahwa kita tidak sendiri di ujung benang ini."
 
 Di dapur, Tami-Tomi membakar sisa roti yang tidak jadi untuk esok. Asapnya tipis, dan di balik asap itu api perapian tidak ikut berdenyut — satu-satunya benda di barak yang menolak irama, dan Ashvarok-Renn, menatapnya dari kursi sudut, sekali lagi ingat bahwa irama yang tidak universal pasti punya sumber yang memilih. Api memilih untuk tidak. Maka sumber itu, entah apa, memilih untuk ya. Pilihan itulah yang belum mereka pahami.
 

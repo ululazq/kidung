@@ -73,7 +73,7 @@ Menjelang senja, Gella memeriksa buku anomali, bukan untuk angka, melainkan untu
 
 Sela mencatat. *Beban menunggu diisi tugas tangan tetap.*
 
-"Hal yang tidak berubah," kata Sela pelan. "Menyapu, menanak, menenun — hal yang tidak berubah menjaga hitungan yang berubah."
+"Yang tak bergeser," kata Sela pelan. "Menyapu, menanak, menenun — hal yang tidak berubah menjaga hitungan yang berubah."
 
 "Delapan belas tahun barak menyapu lantai yang sama," kata Ashvarok-Renn. "Itu sebabnya barak tidak pernah salah hitung. Tangan sudah hafal."
 
@@ -113,7 +113,7 @@ Menjelang malam, Maera kembali sebentar, bukan membawa kain, melainkan membawa j
 
 Sela mencatat di arsip: *Utara — perawat menara — 3,2,3 — jaringan diam utara aktif hari ke-3. Tidak disuruh, menulis sendiri. Kesadaran menahan sudah menyebar.*
 
-"Hal yang tidak berubah," kata Sela pelan. "Cara menulis angka tanpa menunggu perintah. Delapan belas tahun barak menulis name-roll tanpa disuruh. Kini menara menulis dentum tanpa disuruh. Kebiasaan yang sama, tempat berbeda."
+"Hal yang tidak berubah," kata Sela pelan. "Cara menulis angka tanpa menunggu perintah. Delapan belas tahun barak menulis name-roll tanpa disuruh. Kini menara menulis dentum tanpa disuruh. Irama yang sama, tempat berbeda."
 
 "Dan kebiasaan yang sama di dua tempat yang jauh adalah bukti benang masih menyambung," kata Ashvarok-Renn. "Jika benang putus, kebiasaan tidak akan sama. Yang sama menjaga yang sama."
 

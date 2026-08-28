@@ -61,7 +61,7 @@ Ashvarok-Renn berdiri, berjalan ke rak, mengambil buku anomali halaman sepuluh. 
 
 "Apakah kita laporkan ke Dewan?" tanya Brannoc.
 
-"Tidak," jawab Ashvarok-Renn. "Kita hanya simpan. Dewan tidak butuh laporan kecepatan. Dewan butuh laporan kepastian. Dan kepastian belum ada. Yang ada hanya setengah napas dalam setahun — terlalu kecil untuk jadi laporan, terlalu besar untuk diabaikan."
+"Belum," jawab Ashvarok-Renn. "Kita hanya simpan. Dewan tidak butuh laporan kecepatan. Dewan butuh laporan kepastian. Dan kepastian belum ada. Yang ada hanya setengah napas dalam setahun — terlalu kecil untuk jadi laporan, terlalu besar untuk diabaikan."
 
 "Jadi kita tunggu lagi?"
 
@@ -87,7 +87,7 @@ Ashvarok-Renn mencatat di halaman sepuluh bawah: *Gella: menahan setengah napas 
 
 "Jadi kita beri perawat itu istirahat?" tanya Maera.
 
-"Tidak," jawab Ashvarok-Renn. "Kita beri ia sapu. Sapu adalah istirahat yang tetap bekerja. Ia menyapu saat dentum biasa, berhenti saat dentum keras. Maka menahan tidak terus-menerus. Hanya saat perlu."
+"Masih tidak," jawab Ashvarok-Renn. "Kita beri ia sapu. Sapu adalah istirahat yang tetap bekerja. Ia menyapu saat dentum biasa, berhenti saat dentum keras. Maka menahan tidak terus-menerus. Hanya saat perlu."
 
 Di luar, angin lembah utara tidak membawa apa pun ke ambang. Rumput kering sudah jauh. Di kejauhan, penyapa kampung tiga jalur menutup pintu dengan tiga ketukan — kebiasaan yang kini milik dunia, bukan milik barak.
 

@@ -327,8 +327,6 @@ Kita hidup lagi — dan tetap saling menyapa."
 
 ---
 
-— BAB 258 SELESAI. —
-
 Kasus penghuni ganda kedua: tuntas.
 Halm dan nat-gunung: pulang dengan laut di hati.
 Pasal 6: bukan janji — profesi.

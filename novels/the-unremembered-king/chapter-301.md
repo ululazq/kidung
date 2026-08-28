@@ -123,7 +123,7 @@ Itu pemikiran yang Ashvarok-Renn sudah curigai sejak membaca peta selisih. Tanga
 
 "Untuk memastikan apakah ujung di menara memang makin tipis, atau hanya kedengaran lebih keras karena kita mulai mendengar."
 
-Kovan menutup catatannya. Malam penuh. Di sudut ruangan, nat tua tidak mencatat; ia hanya ada.
+Kovan menutup jilid catatannya. Malam penuh. Di sudut ruangan, nat tua tidak mencatat; ia hanya ada.
 
 Ashvarok-Renn berdiri dari kursi sudut. Ia berjalan ke rak, meletakkan buku anomali ke samping buku-buku delapan belas tahun. Di punggung buku itu, tulisan tangan Kovan: *Buku Anomali.* Tiga kata, tidak lebih. Mereka sepakat tidak memberi judul yang lebih panjang. Judul panjang adalah hasrat memberi nama, dan yang mereka catat belum layak diberi nama.
 

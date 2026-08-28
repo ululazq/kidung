@@ -51,13 +51,13 @@ Di sudut barak, Yang Dulu Sunyi mencatat detak pelan yang bisa didengar sampai k
 
 "Berarti kedalaman tidak jauh," kata Ashvarok-Renn. "Ia ada di meja makan kita. Di sendok ibu Tamma. Di palu di dinding. Kita tidak perlu turun ke galeri untuk mendengarnya."
 
-Pellia Muda, yang duduk di lantai depan sebagai tamu angkatan muda, mengangkat tangan seperti di kelas. "Berarti warisan bukan benda yang kau wariskan. Ia cara yang kau ajarkan sampai jadi napas orang lain."
+Pellia Muda, murid Sekolah Mendengar angkatan muda yang duduk di lantai depan sebagai tamu, mengangkat tangan seperti di kelas. "Berarti warisan bukan benda yang kau wariskan. Ia cara yang kau ajarkan sampai jadi napas orang lain."
 
 "Betul." Ashvarok-Renn menatap remaja itu. "Dan cara itu tidak mati saat orang pergi. Ia jadi otot mereka."
 
 ---
 
-Malam semakin dalam. Sup habis. Mangkuk diangkat oleh Tami-Tomi dan seorang murid Sekolah Mendengar yang lewat membantu. Brannoc berdiri, berjalan ke pintu dengan langkah miring yang sudah delapan belas tahun jadi ritmenya. Harn mengikutinya ke rumah di tepi lembah.
+Malam kian dalam. Sup habis. Mangkuk diangkat oleh Tami-Tomi dan seorang murid Sekolah Mendengar yang lewat membantu. Brannoc berdiri, berjalan ke pintu dengan langkah miring yang sudah delapan belas tahun jadi ritmenya. Harn mengikutinya ke rumah di tepi lembah.
 
 "Besok datang lagi, Pak?" tanya Harn.
 
@@ -71,7 +71,7 @@ Ibu Tamma tetap di kursi sudutnya sejenak, menatap ruang kosong yang tadi penuh.
 
 Ashvarok-Renn, sebelum pulang ke kamar, menulis di buku kecilnya kalimat penutup arc — yang delapan belas tahun silam tidak akan pernah ia tulis karena ia pikir ia yang harus menjaga semuanya:
 
-*Kami tidak menjaga kebiasaan ini. Kebiasaan ini menjaga kami.*
+*Kami tidak menjaga kebiasaan ini. Kebiasaanlah yang menjaga kami, dari satu tangan ke tangan berikutnya.*
 
 Ia menutup buku. Di barak utara, Yang Dulu Sunyi mencatat detak terakhir malam itu: *warisan hidup.* Getar merambat ke seluruh nat Karvess, ke Vhal-Duren di mana kambing masih duduk di sisi batu, ke Karung di mana dua penyapa sudah tidur di ujung desa, ke kampung tiga jalur di mana pemuda masih berdiri di pintu saat fajar.
 
@@ -99,7 +99,7 @@ Di barak utara, Yang Dulu Sunyi mencatat detak penutup yang merambat ke seluruh 
 
 Dan Ashvarok-Renn, sebelum tidur pulas, menulis di buku kecilnya satu kalimat yang delapan belas tahun silam mustahil ia tulis karena ia pikir ia yang harus menjaga semuanya:
 
-*Kami tidak menjaga kebiasaan ini. Kebiasaan ini menjaga kami.*
+*Kami tak memegang kebiasaan ini. Kebiasaan inilah yang memegang kami agar tidak lepas.*
 
 Ia meletakkan buku itu di samping tempat tidur, di sebelah buku-buku catatan delapan belas tahun yang kini sudah tidak perlu ia tambahi keputusan. Seribu tahun hidupnya pernah ia habiskan untuk menjaga dunia agar tidak sunyi. Sekarang ia tahu: dunia tidak butuh satu orang menjaganya. Dunia menjaga dirinya lewat kebiasaan yang diajarkan dari tangan ke tangan, dari kursi ke kursi, dari batu ke kambing.
 
