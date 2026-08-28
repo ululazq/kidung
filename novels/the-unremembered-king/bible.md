@@ -1,7 +1,7 @@
 # Bible: The Unremembered King
 
-Terakhir diperbarui: bab 311
-Sudah diungkap ke pembaca sampai: bab 311
+Terakhir diperbarui: bab 315
+Sudah diungkap ke pembaca sampai: bab 315
 
 ## Premis
 
@@ -28,7 +28,7 @@ Ejaan baku. Semua nama proper di bab mana pun harus ada di sini.
 | Daven | Tokoh minor | siswa Spire angkatan 1 → koordinator Dewan Regional; kakak kelas Renn di Sekolah Mendengar |
 | Pellia | Tokoh minor | siswa Spire; pendengar non-Caldrest pertama |
 | Thessa Vael | Tokoh minor | keponakan Anthema Spire; pembuka meja makan Spire; belajar menenun dari Lompa |
-| Mira | Tokoh pendukung (muncul bab 302, diroman bab 309+) | perawat menara utara; murid Sekolah Mendengar angkatan pertama; satu-satunya yang MERASAKAN angin berbalik saat dentum (celah menara = katup Hegemony); saksi laporan angin ke Spire (bab 311); mencatat "tiga, angin selatan ke utara" tiap hari; pusing saat angin berbalik, bukan saat dentum keras |
+| Mira | Tokoh pendukung (muncul bab 302, diroman bab 309+) | perawat menara utara; murid Sekolah Mendengar angkatan pertama; satu-satunya yang MERASAKAN angin berbalik saat dentum (celah menara = katup Hegemony); saksi laporan angin ke Spire (bab 311); mencatat "tiga, angin selatan ke utara" tiap hari; pusing saat angin berbalik, bukan saat dentum keras; SAKSI RESMI celah utara (bab 312, nama di arsip Anthema Spire); laporan bulanan pertama bertangan (bab 315); daftar saksi resmi Spire (bab 315); disiplin: jawab yang dicatat, tahan diam saat ditanya mengapa, jangan sebut katup |
 | Widur | Tokoh minor | jiwa selatan ditemukan lewat pantun warisan 300 tahun; reuni dengan istri via sepasang pantun |
 | Sela | Tokoh pendukung | adik angkat Renn, 11 tahun |
 | Kel Tharrow | Antagonis lokal awal | pengawas the Quiet Vein di Caldrest |
