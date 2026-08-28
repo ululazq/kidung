@@ -1,15 +1,18 @@
 # World State: The Unremembered King
 
-Terakhir diperbarui: bab 306
+Terakhir diperbarui: bab 311
 Arc aktif: Arc 2 — The Choir's Summons
 
-## Status thread baru (bab 296-300): Buku Anomali
+## Status thread baru (bab 296-311): Buku Anomali
 - Ashvarok-Renn membuka BUKU ANOMALI: catat irama 3 detik yang bocor ke bilangan desa + tubuh orang (bukan gema lokal).
 - Lapisan dua: detak utama 3 dtk (pasif/kebocoran) + detak bayangan lebih cepat (aktif, "lari ke depan", memanggil yang belum datang). Selisih makin besar ke arah utara, puncak arah Anthema Spire.
 - Temuan desa timur + Yang Dulu Sunyi: irama utama kadang BERHENTI sepenuhnya satu napas (jeda panjang). Hipotesis: saat seluruh jaringan menahan napas, tangan di bawah ikut berhenti mengambil -> pengikat aman.
 - Kovan: irama berasal dari seam di bawah barak (pengikat menyambung seluruh Karvess); tarikan kuat di utara = benang penyambung ditarik dari ujung Spire; tempat yang pernah patah (lima panglima gugur di utara) paling tipis.
 - Keputusan: tidak turun, tidak beri nama musuh, tidak laporkan ke Spire. Sebar buku anomali ke jaringan Sekolah Mendengar; hitung bersama; cari pengamat utara yang tak dikenali (via Ossian/Maera, kain tenun biasa).
 - Surat pribadi Ashvarok-Renn ke Widur Kecil (anak lembah selatan) membalas: suaranya didengar.
+- Bab 301-306: surat tenun tanpa nama ke Ossian via Maera; gradien utara 0,041 napas/bulan (setengah napas/tahun) — pelan hampir tak terasa tetapi terus; kayu basah menelan 1, verifikasi silang kain tenun; seam sebagai benda yang menyambung ditahan dua ujung; jaringan diam desa+menara hanya lapor saat berubah; Gella ingatkan lelah menahan 9 napas/18 tahun.
+- Bab 307-310: pasal satu hentakan (ganti 7 hari, jaga lelah); uji lepas barat laut buktikan tarikan 3→1 tanpa tahan vs 3→3 dengan tahan (hilang 1 kayu +1 tarikan); peta angin Ossian via Mira - katup Hegemony menara utara (selatan→utara = tarikan, katup buka), Maera siapkan laporan Guild "angin bukan dentum" + Mira saksi orang bukan kain; Sela ajar 12 anak tiga ketuk satu diam sebagai lagu (ritme mendahului tarikan, bukan reaksi), barat laut kembali 3 — jaringan diam kini ritme, bukan reaksi.
+- Bab 311: LAPORAN ANGIN NAIK KE SPIRE — Maera tulis laporan 3 halaman (Assayers' Guild, jalur pos Guild, bukan pos Choir), Mira tulis namanya sendiri di keterangan saksi (saksi = orang, bukan kain; nama di kertas = alamat yang bisa dijawab); disiplin saksi ditetapkan: jawab yang kau catat, bukan yang kau duga — jangan sebut katup, sebut angin. Balasan datang HARI KETIGA padahal kafilah 6 hari = laporan TIDAK antre, dibaca baris arsip sebelum panitia (bukti garis arsip Spire yang membaca lebih dulu MASIH ADA setelah jabatan Pembaca Tua selesai — salinan arsip menara masih dipegang garis itu). Isi: PANGGILAN SAKSI ke Anthema Spire (keterangan lisan Mira soal anomali angin celah menara; tempat Anthema Spire; batas 10 hari). Catatan Ossian via kain: jawab seperti mencatat, jangan sebut kain/katup, sebut angin. Keputusan: Mira berangkat + Maera dampingi (prosedur Assayer); disiplin kesaksian Ashvarok-Renn (tiga ketuk satu diam — diam yang ditahan lebih jujur daripada jawaban yang diisi karena takut sunyi); ibu Tamma botol sup (meja makan lebih dulu), Gella salep (tangan saksi harus bisa menulis), Sela surat ke Thessa Vael (meja makan Spire, angkatan pertama), Harn pengait besi, Brannoc bel 3 detik (irama yang tidak peduli angin). Menara: perawat tua catat tanpa Mira — buku berlanjut di tangan lain, angka tetap tiga. KATUP MENARA KINI PUNYA NAMA DI KERTAS = benang pertama jaringan ke jantung Spire (target Arc 2).
 
 ## Konvensi Prosa (bab 301+): nada dingin / filosofis
 - Kalimat pendek, deklaratif. Adorna dan personifikasi berlebih dikurangi.

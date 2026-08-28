@@ -1,7 +1,7 @@
 # Bible: The Unremembered King
 
-Terakhir diperbarui: bab 306
-Sudah diungkap ke pembaca sampai: bab 306
+Terakhir diperbarui: bab 311
+Sudah diungkap ke pembaca sampai: bab 311
 
 ## Premis
 
@@ -28,6 +28,7 @@ Ejaan baku. Semua nama proper di bab mana pun harus ada di sini.
 | Daven | Tokoh minor | siswa Spire angkatan 1 → koordinator Dewan Regional; kakak kelas Renn di Sekolah Mendengar |
 | Pellia | Tokoh minor | siswa Spire; pendengar non-Caldrest pertama |
 | Thessa Vael | Tokoh minor | keponakan Anthema Spire; pembuka meja makan Spire; belajar menenun dari Lompa |
+| Mira | Tokoh pendukung (muncul bab 302, diroman bab 309+) | perawat menara utara; murid Sekolah Mendengar angkatan pertama; satu-satunya yang MERASAKAN angin berbalik saat dentum (celah menara = katup Hegemony); saksi laporan angin ke Spire (bab 311); mencatat "tiga, angin selatan ke utara" tiap hari; pusing saat angin berbalik, bukan saat dentum keras |
 | Widur | Tokoh minor | jiwa selatan ditemukan lewat pantun warisan 300 tahun; reuni dengan istri via sepasang pantun |
 | Sela | Tokoh pendukung | adik angkat Renn, 11 tahun |
 | Kel Tharrow | Antagonis lokal awal | pengawas the Quiet Vein di Caldrest |
@@ -49,6 +50,7 @@ Ejaan baku. Semua nama proper di bab mana pun harus ada di sini.
 | Caldrest | Kota tambang kaca-batu di lereng timur; panggung Arc 1 |
 | the Underfold | Tambang tua di bawah Caldrest; lokasi seam Testament dan the Threshold |
 | Anthema Spire | Kursi regional the Resonant Choir di Karvess |
+| Menara utara (jalur Caldrest–Spire) | menara pos perawatan jalan raya di antara Caldrest dan Anthema Spire; celahnya = KATUP ANGIN era Hegemony (bab 309): angin selatan→utara saat tarikan (katup buka), utara→selatan saat lepas; arsip menara tua dipegang baris arsip Spire; tempat tugas Mira |
 
 ### Faksi
 | Nama baku | Tujuan | Cara mengenali |
@@ -96,6 +98,11 @@ Ejaan baku. Semua nama proper di bab mana pun harus ada di sini.
 | Pembakaran Nama | Malam Ashvarok membakar namanya untuk menjadi segel; lima panglima gugur; versi resmi sejarah vs versi batu (makan malam terakhir, kalimat panglima termuda: "minimal kamu tidak lapar waktu menguburkan kami") |
 | orphan murmur | Klasifikasi arsip baru (diciptakan bab 124) untuk gema yang tidak bisa dipetakan ke tradisi mana pun; berkasnya dipegang Shift Guard khusus |
 | Pembaca Tua | Jabatan arsip tertinggi the Resonant Choir di Anthema Spire; penjaga "rekaman kematian api"; identitas individunya dirahasiakan bahkan dari Dewan; berminat pada riset lima panglima the Long Dusk. NAMA JABATAN TETAP BAHASA INDONESIA (keputusan kanon): gelar ordo ritual internal Choir, sengaja dibedakan dari gelar birokrasi sipil yang wajib Inggris (Assayer, Overseer, dll.) — jangan diterjemahkan ke "the Old Reader" |
+| Buku Anomali | Catatan bersama Ashvarok-Renn (nama), Kovan (angka), Sela (cerita) untuk setiap hitungan tak-berumah (bab 296); disiplin: catat dulu, jangan turun, jangan beri nama musuh, jangan laporkan ke Spire; berisi irama 3 detik, jeda panjang, detak bayangan, peta angin |
+| Irama 3 detik / detak purba | Denyut dasar yang bocor ke bilangan desa, tubuh orang, dapur, lantai, dan kedalaman (Vhal-Duren, rumah penjaga malam, nat); selektif (api perapian TIDAK ikut); jeda panjang = pengikat aman saat dunia menahan napas; tarikan menguat ke utara menuju Anthema Spire (0,041 napas/bulan) |
+| Katup angin menara utara (celah menara) | Katup era Hegemony di menara jalur Caldrest–Spire: angin selatan→utara saat tarikan (katup buka), utara→selatan saat lepas; arsip menara tua dipegang baris arsip Spire; jaringan diam menahan benang di ujung tapi tidak bisa menutup katup |
+| Laporan angin & panggilan saksi (bab 311) | Laporan Assayers' Guild 3 halaman (letak menara, waktu dentum, arah angin, keterangan saksi) yang naik via pos Guild; balasan 3 hari = dibaca baris arsip sebelum panitia; PANGGILAN SAKSI: Mira diminta keterangan lisan di Anthema Spire (batas 10 hari) |
+| Pasal menahan tanpa takut (bab 310) | Diam = ketuk keempat; tiga ketuk satu diam sebagai lagu, bukan reaksi; ritme mendahului tarikan; anak menahan dengan lagu, bukan dengan takut |
 
 ## Protagonis
 
@@ -290,6 +297,10 @@ Catatan bab 268-270: badai pra-pembacaan; Malam Pembacaan Hari 760; juru masak i
 | 276-280 | Hari ~786-830 | Caldrest/biara barat/utara/pesisir | seluruh Karvess |
 
 Catatan bab 276-280: era Jawaban; nat-anak sapa "KAMU SUDAH MAKAN?"; pembacaan arsip Choir; pasal 17 (pemulangan boleh ditunda demi kerja); teori tubuh yang didengar ikut pulih; Hari Utara ke-4: tiga daftar nama satu lagu.
+
+| 296-311 | Pasca Hari ~830 (relatif, tahun kedua era menyapa) | Caldrest → menara utara → rute Anthema Spire | keluarga QV, Maera Tull, Kovan, Mira, Ossian (via kain tenun) |
+
+Catatan bab 296-311 (BUKU ANOMALI → SAKSI ANGIN): irama 3 detik bocor ke bilangan tiga desa + tubuh orang (bukan gema lokal) → Buku Anomali dibuka (catat dulu, jangan turun, jangan beri nama musuh, jangan laporkan ke Spire); lapisan dua — detak utama pasif + detak bayangan aktif ("lari ke depan"); jeda panjang (irama berhenti satu napas = pengikat aman); selektif (api perapian tidak ikut); gradien tarikan menguat ke utara, puncak arah Anthema Spire (0,041 napas/bulan); uji lepas barat laut membuktikan tarikan nyata (tanpa tahan 3→1, dengan tahan 3→3); peta angin Ossian — katup Hegemony menara utara (selatan→utara = tarikan, katup buka); pasal menahan tanpa takut (diam = ketuk keempat; tiga ketuk satu diam); bab 311: laporan angin Maera naik via pos Guild (Mira tulis namanya sendiri = saksi, bukan kain), balasan 3 hari = dibaca baris arsip sebelum panitia, PANGGILAN SAKSI Mira ke Anthema Spire; keberangkatan Mira+Maera dengan disiplin saksi Ashvarok-Renn; menara mencatat tanpa Mira — buku berlanjut di tangan perawat tua.
 
 Jarak tempuh antar lokasi: Caldrest ke Anthema Spire = 9 hari kafilah; melintasi Karvess utara-selatan = 2 bulan jalan darat.
 
@@ -715,12 +726,16 @@ Catatan bab 150 (KLIMAKS JENDELA, POV Ashvarok): GEMPA GEMA SERENTAK jam ketiga 
 | 7 | Kesepakatan "tulang seam": setor fragmen premium ke Tharrow sebelum survei Guild | belum (bab 9: jualan ke pasar; bab 10–11 Guild tiba) |
 | 7 | Surat Tharrow ke pusat: "satu aset manusia potensial" — jalur laporan naik | belum (bab 26: lapor Ossian) |
 | 7 | Kata "sunyi" dari Ondar ditandai Tharrow, tak masuk dokumen resmi | belum (bab 14: Hollowing mini) |
-| 286 | Irama 3 detik Kovan di arsip (sama dengan detak di sendok ibu Tamma, palu di dinding, napas orang tua) — seeded sebagai tanda kedalaman dekat | belum (tembak bab 296: irama muncul di bilangan TIGA desa tak-saling-kenal → buka "Buku Anomali"; gejala pertama tangan penyedot pengikat the Threshold bocor lewat bilangan dunia) |
-| 296 | "Buku Anomali" — catatan bersama Ashvarok-Renn (nama), Kovan (angka), Sela (cerita) untuk setiap hitungan tak-berumah; keputusan: catat dulu, jangan turun ke retakan | belum (akan dikembangkan Arc 2: irama dikonfirmasi di Vhal-Duren + rumah penjaga malam, lalu telusuri sumber penyedot) |
-| 297 | Api perapian di barak TIDAK berdetak 3 detik (satu-satunya benda yang tak ikut irama) → irama selektif, ada "pemilih" | belum (tembak bab 297: bukti irama bukan universal) |
-| 298 | Desa timur + Yang Dulu Sunyi laporkan irama utama BERHENTI sepenuhnya satu napas (jeda panjang) → hipotesis tombol ada; saat dunia menahan napas, tangan di bawah ikut berhenti mengambil | belum (tembak bab 298) |
-| 299 | Surat pribadi Ashvarok-Renn ke Widur Kecil (anak lembah selatan yang pertama dengar detak bayangan "panggil yang belum datang") — membalas bahwa suaranya didengar | belum (tembak bab 299) |
-| 300 | Benang penyambung dari seam bawah barak ditarik dari ujung Anthema Spire; tarikan terkuat di utara = tempat yang pernah patah (lima panglima gugur) paling tipis; keputusan rahasia dari Spire, cari pengamat utara via Ossian/Maera | belum (tembak bab 300) |
+| 286 | Irama 3 detik Kovan di arsip (sama dengan detak di sendok ibu Tamma, palu di dinding, napas orang tua) — seeded sebagai tanda kedalaman dekat | SUDAH (bab 296: irama muncul di bilangan TIGA desa tak-saling-kenal → "Buku Anomali" dibuka; irama dikonfirmasi Vhal-Duren + rumah penjaga malam + barak/dapur/lantai, bab 296-297) |
+| 296 | "Buku Anomali" — catatan bersama Ashvarok-Renn (nama), Kovan (angka), Sela (cerita) untuk setiap hitungan tak-berumah; keputusan: catat dulu, jangan turun ke retakan | SUDAH (bab 296-311: thread berjalan — jeda panjang, detak bayangan, peta angin, uji lepas, pasal menahan tanpa takut, laporan angin ke Spire) |
+| 297 | Api perapian di barak TIDAK berdetak 3 detik (satu-satunya benda yang tak ikut irama) → irama selektif, ada "pemilih" | SUDAH (bab 297) |
+| 298 | Desa timur + Yang Dulu Sunyi laporkan irama utama BERHENTI sepenuhnya satu napas (jeda panjang) → hipotesis tombol ada; saat dunia menahan napas, tangan di bawah ikut berhenti mengambil | SUDAH (bab 298) |
+| 299 | Surat pribadi Ashvarok-Renn ke Widur Kecil (anak lembah selatan yang pertama dengar detak bayangan "panggil yang belum datang") — membalas bahwa suaranya didengar | SUDAH (bab 299) |
+| 300 | Benang penyambung dari seam bawah barak ditarik dari ujung Anthema Spire; tarikan terkuat di utara = tempat yang pernah patah (lima panglima gugur) paling tipis; keputusan rahasia dari Spire, cari pengamat utara via Ossian/Maera | SUDAH (bab 300-311: benang ditarik dari Spire terkonfirmasi; MIRA jadi pengamat utara resmi — saksi laporan angin yang dipanggil ke Spire) |
+| 301-306 | Surat tenun rahasia ke Ossian (tidak sebut irama/retakan/pengikat); gradien utara 0,041 napas/bulan; verifikasi silang kain tenun; seam sebagai benda yang menyambung ditahan dua ujung; jaringan diam desa+menara | SUDAH (bab 301-306) |
+| 307-310 | Aturan satu hentakan (ganti 7 hari, jaga lelah); uji lepas barat laut buktikan tarikan 3→1 vs 3→3; peta angin Ossian — katup Hegemony menara utara (selatan→utara = tarikan); pasal menahan tanpa takut (diam = ketuk keempat) | SUDAH (bab 307-310) |
+| 311 | Laporan angin Maera naik ke Spire via pos Guild (saksi = orang, bukan kain); balasan 3 hari = dibaca baris arsip sebelum panitia; PANGGILAN SAKSI Mira ke Anthema Spire; disiplin saksi (jawab yang dicatat, bukan yang diduga); baris arsip Spire yang membaca lebih dulu masih ada | SUDAH (bab 311) — benang Arc 2 terbuka: apa yang akan ditanyakan panel kepada Mira; siapa di baris arsip yang membaca laporan; Thessa Vael = tempat singgah angkatan pertama |
+| 311 | Menara mencatat tanpa Mira — buku catatan berlanjut di tangan perawat tua, angka tetap tiga | Arc 2 (jika Mira terlambat pulang, jaringan diam tetap menutup) |
 | 8 | Perjanjian diam Brannoc: "bawa orang keluar dulu, bertanya belakangan" | belum (bab 27: runtuhan utama) |
 | 8 | Prediksi: lorong sebelas & galeri timur runtuh saat musim hujan abu | belum (bab 27) |
 | 8 | Kontrak pendidikan Harn (anak Brannoc) dipegang the Quiet Vein | belum (bab ~25/140: dilunasi via Forge — outline asli bab 200, arc 1 pakai versi kecil) |
