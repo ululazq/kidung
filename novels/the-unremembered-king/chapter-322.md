@@ -113,7 +113,7 @@ Di barak, Kovan menarik benang kuning di peta, menyambung desa selatan ke rute y
 
 "Murid itu bilang ia jalan saja. Pengangkut tidak tanya anak yang lewat jalan." Ashvarok-Renn menyerahkan kain tenun ke Maera. "Kirim sebelum fajar."
 
-Gella mendatangi mereka di serambi, buku pemulihan di tangan. "Kalian bicara rute saat napas pemikul makin pendek," katanya. "Aku ukur tadi: satu hitungan penuh hilang sejak minggu lalu. Bukan separuh lagi, tapi satu utuh."
+Gella mendatangi mereka di serambi, buku pemulihan di tangan. "Kalian bicara rute saat napas the Bearer makin pendek," katanya. "Aku ukur tadi: satu hitungan penuh hilang sejak minggu lalu. Bukan separuh lagi, tapi satu utuh."
 
 "Masih jauh dari sembilan."
 

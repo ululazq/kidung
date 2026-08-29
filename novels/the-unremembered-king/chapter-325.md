@@ -39,9 +39,9 @@ Gella mendatangi Ashvarok-Renn di serambi, suara lebih rendah dari biasa. "Napas
 
 "Delapan belas tahun silam kau juga bilang begitu, sampai sembilan hilang sekaligus dalam satu malam." Gella menatap matanya. "Aku bukan melarangmu memikul. Aku minta kau wariskan cara ukur napas ke Sela, bila suatu hari kau tak ada. Jangan bawa satu rahasia ke liang kubur."
 
-Ashvarok-Renn terdiam. "Kau benar. Ajar Sela cara kau ukur. Dan ajar dua belas anak bahwa pemikul punya batas."
+Ashvarok-Renn terdiam. "Kau benar. Ajar Sela cara kau ukur. Dan ajar dua belas anak bahwa the Bearer punya batas."
 
-Gella mengangguk, lalu memanggil Sela ke sudut. "Kau akan belajar hitung napas pemikul," katanya. "Bukan untuk menggantikan, tapi agar batasnya tercatat saat ia sendiri lupa."
+Gella mengangguk, lalu memanggil Sela ke sudut. "Kau akan belajar hitung napas the Bearer," katanya. "Bukan untuk menggantikan, tapi agar batasnya tercatat saat ia sendiri lupa."
 
 ---
 
@@ -87,7 +87,7 @@ Anak kedua menulis malam itu: *Kepala desa curiga tapi tidak laporkan. Peringatk
 
 ---
 
-Ossian mengirim kain tenun panjang lewat Thessa, berisi sejarah cap tujuh garis yang ia temukan di arsip menara utara. Ashvarok-Renn membacanya di serambi: *Cap tujuh garis bukan milik Choir, juga bukan Hegemony. Ia milik the Wanes — pihak yang ada sebelum Choir, pengaku tujuh seam sebagai milik purba mereka. Mereka hilang saat the Remainder datang 18 thn silam, tapi penyintas mereka kini bangkit cari pangkal. Mereka kira kunci ada pada darah tujuh keluarga pengikat.*
+Ossian mengirim kain tenun panjang lewat Thessa, berisi sejarah cap tujuh garis yang ia temukan di arsip menara utara. Ashvarok-Renn membacanya di serambi: *Cap tujuh garis bukan milik Choir, juga bukan Hegemony. Ia milik the Wanes — pihak yang ada sebelum Choir, pengaku tujuh seam sebagai milik purba mereka. Mereka hilang saat the Remainder datang 18 thn silam, tapi the Survivor mereka kini bangkit cari pangkal. Mereka kira kunci ada pada darah tujuh keluarga pengikat.*
 
 "Daripada tujuh keluarga," kata Ashvarok-Renn pelan. "Bukan sembilan napas, tapi tujuh darah. Dua pihak punya teori beda soal kunci."
 

@@ -23,7 +23,7 @@ Kovan menarik benang merah dari laci, menyambung peta Ossian ke titik tengah yan
 
 "Kalau begitu siapa yang menjaga?" tanya Gella dari sudut.
 
-"Tidak ada yang menjaga. Itu sebabnya Choir ingin memanennya. Tempat tanpa penjaga adalah simpul paling mudah dibuka." Ashvarok-Renn menatap ke utara. "Ossian, jangan kirim kaki ke sana. Suruh pendengar Utara hanya amati siapa yang lewat jalur itu."
+"Tidak ada yang menjaga. Itu sebabnya Choir ingin memanennya. Tempat tanpa penjaga adalah simpul paling mudah dibuka." Ashvarok-Renn menatap ke utara. "Ossian, jangan kirim kaki ke sana. Suruh the Northern Listener hanya amati siapa yang lewat jalur itu."
 
 ---
 
@@ -73,7 +73,7 @@ Brannoc mengumpulkan dua belas anak di halaman barak utara, pengait besi dan bel
 
 Harn berdiri di sampingnya, memegang pengait. "Aku dulu kira bel ini cuma alat," katanya pelan. "Sekarang aku tahu ia bahasa yang membuat dua belas anak jadi satu tubuh. Kau tak perlu lihat mereka untuk tahu mereka awas."
 
-Di sudut, Gella menarik Sela ke bangku, buku pemulihan dan seutas benang di tangan. "Kau akan belajar ukur napas pemikul," katanya. "Bukan dengan alat, tapi dengan dengar. Letakkan telinga dekat dada, hitung saat dada naik ke bawah, ulang tiga kali, ambil angka tengah."
+Di sudut, Gella menarik Sela ke bangku, buku pemulihan dan seutas benang di tangan. "Kau akan belajar ukur napas the Bearer," katanya. "Bukan dengan alat, tapi dengan dengar. Letakkan telinga dekat dada, hitung saat dada naik ke bawah, ulang tiga kali, ambil angka tengah."
 
 Sela menatap Ashvarok-Renn yang duduk di serambi. "Guru izin?" tanyanya.
 
@@ -105,6 +105,6 @@ Gella mendongak. "Kau bilang sembilan napas hilang. Tapi kau yang hidup. Berarti
 
 " Aku hanya saksi. Kunci mungkin tersebar di sembilan orang yang selamat, termasuk aku, termasuk ibu Tamma yang telah tiada, termasuk Gella yang ukur napas kami." Ashvarok-Renn menatap papan di tangan Sela. "Itu sebabnya barak tidak boleh jadi satu nama. Bila kunci tersebar, musuh harus tangkap sembilan, bukan satu."
 
-Di menara, Mira menutup buku catatan dan menulis di sisi: *Kunci the Hollow mungkin 9 napas = 9 penyintas 18 thn silam, tersebar. Barak sengaja tak bernama supaya musuh harus tangkap 9, bukan 1.* Perawat tua membubuhkan garis lurus di bawah tulisan itu, tiga, seperti setiap laporan yang dianggap selesai.
+Di menara, Mira menutup buku catatan dan menulis di sisi: *Kunci the Hollow mungkin 9 napas = 9 the Survivors 18 thn silam, tersebar. Barak sengaja tak bernama supaya musuh harus tangkap 9, bukan 1.* Perawat tua membubuhkan garis lurus di bawah tulisan itu, tiga, seperti setiap laporan yang dianggap selesai.
 
 Ashvarok-Renn bangkit, menyapu halaman bersama dua belas anak, dan membiarkan benang diam hidup tanpa namanya — tahu bahwa di tengah Karvess, sebuah pangkal tujuh seam kini diperebutkan oleh pihak yang tak satu pun mengenal namanya, dan barak telah memilih menjadi yang paling lambat tapi paling tak terlihat.

@@ -3,7 +3,7 @@ title: "Bab 324: Cap Tujuh Garis"
 chapter: 324
 ---
 
-Thessa tiba membawa gambar cap tujuh garis yang dilihat pendengar Utara di jalur the Hollow. Ashvarok-Renn menatapnya di serambi, jari telunjuk menelusuri tujuh garis yang bertemu di satu titik.
+Thessa tiba membawa gambar cap tujuh garis yang dilihat the Northern Listener di jalur the Hollow. Ashvarok-Renn menatapnya di serambi, jari telunjuk menelusuri tujuh garis yang bertemu di satu titik.
 
 "Bukan cap Choir," kata Kovan. "Choir pakai lingkaran dengan mata di tengah. Ini tujuh garis lurus, seperti peta seam sendiri dijadikan stempel."
 
@@ -29,7 +29,7 @@ Ia mengetuk ubin tiga kali, diam sehentakan. Gerakan itu kini otomatis, seperti 
 
 Kovan menarik benang biru tipis ke arah timur di peta Ossian. "Simpul timur belum kita sentuh," katanya. "Tapi bila the Hollow panas, simpul timur akan bergetar lebih dulu karena paling dekat dengan jalur utara-ke-tengah."
 
-"Kirim pesan ke Ossian: minta pendengar Utara geser sedikit ke timur, amati apakah dentum di sana mulai beraturan," kata Ashvarok-Renn. "Tapi jangan masuk hutan payau. Tempat itu rawa, siapa pun yang masuk tanpa penunjuk akan hilang."
+"Kirim pesan ke Ossian: minta the Northern Listener geser sedikit ke timur, amati apakah dentum di sana mulai beraturan," kata Ashvarok-Renn. "Tapi jangan masuk hutan payau. Tempat itu rawa, siapa pun yang masuk tanpa penunjuk akan hilang."
 
 "Dan kalau simpul timur sudah dipanen?" tanya Sela.
 
@@ -39,7 +39,7 @@ Gella mendekat, buku pemulihan di tangan. "Kau memikul pola lima pihak sekaligus
 
 "Setengah hitungan bukan sembilan napas."
 
-"Belum. Tapi pola sama persis dengan delapan belas tahun silam, sebelum sembilan napas pergi." Gella menutup buku. "Aku tidak melarang. Aku hanya ingatkan bahwa pemikul juga punya batas yang kalau dilewati, tidak bisa dikembalikan seperti buku catatan."
+"Belum. Tapi pola sama persis dengan delapan belas tahun silam, sebelum sembilan napas pergi." Gella menutup buku. "Aku tidak melarang. Aku hanya ingatkan bahwa the Bearer juga punya batas yang kalau dilewati, tidak bisa dikembalikan seperti buku catatan."
 
 ---
 

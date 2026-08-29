@@ -71,8 +71,8 @@ BAB 136-140 (hari 198-206): SKEMA TRANSISI RUNTUH ADMINISTRATIF - 41 keberatan k
 
 | Entitas arc the Misclaim (bab 321–331) — ditetapkan kanon baru lewat gate audit | Status | Lokasi | Catatan |
 |---|---|---|---|
-| the Wanes | aktif (faksi lawan) | tujuh desa/seam di peta Choir | memburu "7 darah"/penyintas lewat tanda lahir tujuh titik; cap tujuh garis di desa; SALAH SASAR — cari darah, bukan napas; rujukan pusat klaim = the Throne; gagal buka the Hollow karena pegang simpul tanpa kunci |
-| the Hollow | entitas (pangkal seam) | titik tengah peta Choir | pangkal tujuh seam pengikat; kunci = 9 napas/7 pintu tanpa kunci tersebar di 9 penyintas 18 th silam; batu ke-7 berdenyut tanpa kunci = hilang saat 9 napas penyintas |
+| the Wanes | aktif (faksi lawan) | tujuh desa/seam di peta Choir | memburu "7 darah"/the Survivor lewat tanda lahir tujuh titik; cap tujuh garis di desa; SALAH SASAR — cari darah, bukan napas; rujukan pusat klaim = the Throne; gagal buka the Hollow karena pegang simpul tanpa kunci |
+| the Hollow | entitas (pangkal seam) | titik tengah peta Choir | pangkal tujuh seam pengikat; kunci = 9 napas/7 pintu tanpa kunci tersebar di 9 the Survivor 18 th silam; batu ke-7 berdenyut tanpa kunci = hilang saat 9 napas the Survivor |
 | the Throne | rujukan otoritas faksi the Wanes | klaim tujuh simpul | posisi otoritas, bukan tokoh; barak menolak mengakuinya |
 | the Survivors (8–9 orang) | tersebar, diburu dua pihak | desa selatan/timur/utara/celah menara | selamat peristiwa 18 th; napas berdenyut setengah hitungan lebih pendek subuh; barak petakan lewat pola napas — #1 perawat tua/celah menara, #2 barat daya (lolos serangan Wanes), #3 pemulung timur/hutan payau, #4 utara/danau garam, #5 celah menara, #7 the Hollow; the Wanes menyebut "7 darah" (salah) |
 | the Bearer | julukan Ashvarok-Renn (pembawa beban 9 napas) | barak | karakter kanon; napasnya diukur Gella tiap minggu (baseline 6, turun ke 4 sejak 18 th) |

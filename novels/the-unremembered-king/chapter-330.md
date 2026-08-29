@@ -3,15 +3,15 @@ title: "Bab 330: Napas di Hutan Payau"
 chapter: 330
 ---
 
-Murid angkatan ketiga di timur, yang sejak tahun lalu menjaga simpul kelima, mengirim kain tenun panjang lewat kurir desa: *Hutan payau di timur punya pemulung tua yang tinggal di pondok terapung. Aku perhatikan napasnya saat ia tidur — berdenyut setengah hitungan lebih pendek tiap subuh, persis seperti yang guru ajarkan. Ia penyintas the Remainder, mungkin keluarga #3.*
+Murid angkatan ketiga di timur, yang sejak tahun lalu menjaga simpul kelima, mengirim kain tenun panjang lewat kurir desa: *Hutan payau di timur punya pemulung tua yang tinggal di pondok terapung. Aku perhatikan napasnya saat ia tidur — berdenyut setengah hitungan lebih pendek tiap subuh, persis seperti yang guru ajarkan. Ia the Survivor of the Remainder, mungkin keluarga #3.*
 
-Ashvarok-Renn membacanya di serambi. "Keluarga #3 di timur," katanya pada Kovan. "Dekat simpul #5 yang sudah bergetar. Maka simpul dan penyintas memang berpasangan."
+Ashvarok-Renn membacanya di serambi. "Keluarga #3 di timur," katanya pada Kovan. "Dekat simpul #5 yang sudah bergetar. Maka simpul dan the Survivor memang berpasangan."
 
-"Berarti tiap simpul punya penyintasnya," kata Sela. "Tujuh seam, tujuh simpul, tujuh penyintas — ditambah ibu Tamma dan dua lainnya, sembilan napas."
+"Berarti tiap simpul punya the Survivor's," kata Sela. "Tujuh seam, tujuh simpul, tujuh the Survivors — ditambah ibu Tamma dan dua lainnya, sembilan napas."
 
 Ashvarok-Renn mengangguk. "Delapan belas tahun silam, sembilan napas dihisap sekaligus. Yang bertahan hidup tersebar ke simpul-simpul itu. Kita tidak perlu cari delapan lagi secara acak — kita cari di sekitar simpul yang belum kita sentuh."
 
-Kovan menarik benang biru ke arah timur, menyambung simpul #5 ke pondok pemulung. "Maka sisa penyintas ada di sekitar simpul #1 (celah menara), #3, #4 (selatan), #5 (timur), #6 (barat daya), dan #7 (the Hollow). Kita sudah pegang jejak di #4, #5, #6. Tinggal #1, #3, #7."
+Kovan menarik benang biru ke arah timur, menyambung simpul #5 ke pondok pemulung. "Maka sisa the Survivors ada di sekitar simpul #1 (celah menara), #3, #4 (selatan), #5 (timur), #6 (barat daya), dan #7 (the Hollow). Kita sudah pegang jejak di #4, #5, #6. Tinggal #1, #3, #7."
 
 "Dan #7 adalah the Hollow sendiri," kata Gella. "the Survivors di sana mungkin sudah diambil the Wanes, atau sudah mati."
 
@@ -23,9 +23,9 @@ Di sudut, Brannoc mendengar dan tersenyum tipis. "Berarti kita jaga tujuh pintu 
 
 Gella mendatangi Ashvarok-Renn di serambi. "Kau bilang sembilan napas," katanya. "Tapi ibu Tamma adalah satu, dan aku yang ukur napasmu adalah saksi. Berapa sebenarnya yang masih hidup?"
 
-"Delapan belas tahun silam sembilan hilang. Tiga di antaranya mati saat pengisapan — termasuk dua yang tubuhnya hancur di depan kita. Enam bertahan: ibu Tamma, aku, dan empat lainnya yang tersebar." Ashvarok-Renn menatap peta. "Kita temukan ibu Tamma (alm), penyintas barat daya (#2), penyintas timur (#3). Sisa: tiga lagi di sekitar simpul #1, #3, dan mungkin #7."
+"Delapan belas tahun silam sembilan hilang. Tiga di antaranya mati saat pengisapan — termasuk dua yang tubuhnya hancur di depan kita. Enam bertahan: ibu Tamma, aku, dan empat lainnya yang tersebar." Ashvarok-Renn menatap peta. "Kita temukan ibu Tamma (alm), the Survivor barat daya (#2), the Survivor timur (#3). Sisa: tiga lagi di sekitar simpul #1, #3, dan mungkin #7."
 
-"Berarti tujuh keluarga yang kau cari sebenarnya enam penyintas hidup," kata Sela. "Bukan sembilan."
+"Berarti tujuh keluarga yang kau cari sebenarnya enam the Survivors hidup," kata Sela. "Bukan sembilan."
 
 "Tujuh dalam teori the Wanes, enam dalam kenyataan kita. Namanya beda, intinya sama: kunci tersebar, dan kita harus jaga sebelum mereka paksa buka."
 
@@ -35,13 +35,13 @@ Di sudut, Gella duduk memilin benang bersama perawat tua. "Enam napas hidup," ka
 
 ---
 
-Mira di menara membuka buku catatan halaman kesepuluh. "Dentum di timur berdenyut empat napas senja," katanya pada perawat tua. "Tapi sejak kabar pemulung tua, napas antara keras dan pelan di menara memanjang setengah hitungan. Seperti simpul #5 merespons kehadiran penyintas di dekatnya."
+Mira di menara membuka buku catatan halaman kesepuluh. "Dentum di timur berdenyut empat napas senja," katanya pada perawat tua. "Tapi sejak kabar pemulung tua, napas antara keras dan pelan di menara memanjang setengah hitungan. Seperti simpul #5 merespons kehadiran the Survivor di dekatnya."
 
-"Simpul mengenali penyintasnya," kata perawat tua.
+"Simpul mengenali the Survivor's," kata perawat tua.
 
-"Maka bila kita kumpulkan semua penyintas, the Hollow akan berdenyut teratur — dan terbuka, atau terjaga." Mira menulis: *Simpul #5 (timur) merespons kehadiran penyintas (#3) — napas menara memanjang 0,5 hitungan. Tiap simpul punya penyintasnya. Kumpulkan semua = pintu terjaga atau terbuka.* Ia mengetuk ubin tiga kali, diam sehentakan.
+"Maka bila kita kumpulkan semua the Survivors, the Hollow akan berdenyut teratur — dan terbuka, atau terjaga." Mira menulis: *Simpul #5 (timur) merespons kehadiran the Survivor (#3) — napas menara memanjang 0,5 hitungan. Tiap simpul punya the Survivor's. Kumpulkan semua = pintu terjaga atau terbuka.* Ia mengetuk ubin tiga kali, diam sehentakan.
 
-Di barak, Ashvarok-Renn menulis di bible: *Keluarga #3 = pemulung tua di hutan payau timur (simpul #5). Sisa penyintas: #1 (celah menara), #3 (utara/danau garam), #7 (the Hollow). Total temuan: ibu Tamma(alm), #2 barat daya, #3 timur. Sisa 3-4 hidup.*
+Di barak, Ashvarok-Renn menulis di bible: *Keluarga #3 = pemulung tua di hutan payau timur (simpul #5). Sisa the Survivor: #1 (celah menara), #3 (utara/danau garam), #7 (the Hollow). Total temuan: ibu Tamma(alm), #2 barat daya, #3 timur. Sisa 3-4 hidup.*
 
 ---
 
@@ -53,21 +53,21 @@ Brannoc mengumpulkan dua belas anak di halaman. "Kalian dengar tentang pemulung 
 
 "Mereka cari tanda lahir, bukan napas. Pemulung itu bekas lukanya mungkin tertutup kulit tua. Mereka tak akan kenali dia." Brannoc menatap mereka. "Tapi kita ajarkan dia ketukan, pelan-pelan, supaya bila the Wanes datang, ia sudah tahu lari ke arah benang."
 
-Di sudut, Gella melatih tiga anak mengukur napas Ashvarok-Renn saat fajar. "Napas penyintas berdenyut pelan tapi dalam," katanya. "Orang biasa lebih cepat tapi dangkal. Bedanya setengah hitungan, tapi cukup untuk memisahkan kunci dari kerumunan."
+Di sudut, Gella melatih tiga anak mengukur napas Ashvarok-Renn saat fajar. "Napas the Survivor berdenyut pelan tapi dalam," katanya. "Orang biasa lebih cepat tapi dangkal. Bedanya setengah hitungan, tapi cukup untuk memisahkan kunci dari kerumunan."
 
-Sela mencatat: *3 anak makin presisi ukur napas. Kriteria penyintas: 0,5 hitungan lebih pendek subuh, dalam tapi pelan. Pemulung timur = #3 terkonfirmasi.*
+Sela mencatat: *3 anak makin presisi ukur napas. Kriteria the Survivor: 0,5 hitungan lebih pendek subuh, dalam tapi pelan. Pemulung timur = #3 terkonfirmasi.*
 
 ---
 
-Kovan menatap peta, benang biru ke timur masih menyala. "the Survivor #3 di hutan payau, dekat simpul #5 yang sudah bergetar," katanya. "Berarti tiap simpul yang kita dengar punya penyintas di dekatnya. Tinggal cari di sekitar simpul yang belum berdentum: #1 (celah menara), #3 (utara?), dan #7 (the Hollow)."
+Kovan menatap peta, benang biru ke timur masih menyala. "the Survivor #3 di hutan payau, dekat simpul #5 yang sudah bergetar," katanya. "Berarti tiap simpul yang kita dengar punya the Survivor di dekatnya. Tinggal cari di sekitar simpul yang belum berdentum: #1 (celah menara), #3 (utara?), dan #7 (the Hollow)."
 
 "#1 sudah kita pegang di barak — perawat tua," kata Ashvarok-Renn. "Tinggal #3 dan #7."
 
 "#3 di utara, dekat danau garam tempat Ossian awasi," kata Sela. "Mungkin pendengar Ossian sudah lihat napas aneh tanpa sadar."
 
-"Suruh Ossian minta mereka ukur napas pendudang di danau garam," kata Ashvarok-Renn. "Pelan-pelan. Bila ada yang berdenyut setengah hitungan lebih pendek, itu penyintas #3."
+"Suruh Ossian minta mereka ukur napas pendudang di danau garam," kata Ashvarok-Renn. "Pelan-pelan. Bila ada yang berdenyut setengah hitungan lebih pendek, itu the Survivor #3."
 
-Gella mengangguk. "Dan #7 di the Hollow — penyintas di pangkal sendiri. Bila the Wanes atau Choir sudah di sana, mungkin mereka sudah pegang dia tanpa tahu."
+Gella mengangguk. "Dan #7 di the Hollow — the Survivor di pangkal sendiri. Bila the Wanes atau Choir sudah di sana, mungkin mereka sudah pegang dia tanpa tahu."
 
 "Maka #7 mungkin sudah hilang," bisik Sela. "Seperti ibu Tamma yang sudah tiada."
 
@@ -81,9 +81,9 @@ Di sudut, Gella mengukur napas Ashvarok-Renn di kursi sudut. "Empat hitungan," b
 
 "Empat belas tahun kita jaga celah," kata Ashvarok-Renn. "Sekarang kita jaga enam napas tersebar. Beban bertambah, tapi cara kita sama: diam, dan tidak bernama."
 
-Ashvarok-Renn membuka bible kecil dan menulis: *Keluarga #3 = pemulung hutan payau timur (simpul #5). The Wanes curiga jaringan tak bernama, cari pusat (tak akan temukan). Total hidup: 3-4 penyintas. Arc lanjut.*
+Ashvarok-Renn membuka bible kecil dan menulis: *Keluarga #3 = pemulung hutan payau timur (simpul #5). The Wanes curiga jaringan tak bernama, cari pusat (tak akan temukan). Total hidup: 3-4 the Survivors. Arc lanjut.*
 
-Di sudut, Gella duduk memilin benang bersama Sela di serambi. "Kita temukan tiga penyintas dalam seminggu," katanya. "Ibu Tamma di barak, pemulung di timur, dan calon di barat daya. Delapan belas tahun mereka bersembunyi tanpa tahu mereka kunci."
+Di sudut, Gella duduk memilin benang bersama Sela di serambi. "Kita temukan tiga the Survivors dalam seminggu," katanya. "Ibu Tamma di barak, pemulung di timur, dan calon di barat daya. Delapan belas tahun mereka bersembunyi tanpa tahu mereka kunci."
 
 "Berapa lagi yang harus kita cari?" tanya Sela.
 
@@ -93,13 +93,13 @@ Di sudut, Gella duduk memilin benang bersama Sela di serambi. "Kita temukan tiga
 
 "Mereka cari darah," ulang Gella. "Kita cari napas. Selama mereka salah sasar, kita punya waktu."
 
-Brannoc mendekat membawa daftar ketukan dua belas anak. "Mereka makin lancar," katanya. "Tiga anak yang ukur napas bisa bedakan napas penyintas dari orang biasa dalam tiga hitungan. Mereka siap jadi mata kita di pasar."
+Brannoc mendekat membawa daftar ketukan dua belas anak. "Mereka makin lancar," katanya. "Tiga anak yang ukur napas bisa bedakan napas the Survivor dari orang biasa dalam tiga hitungan. Mereka siap jadi mata kita di pasar."
 
 "Bagus," kata Ashvarok-Renn. "Tapi jangan biarkan mereka tahu mereka menjaga pintu dunia. Biarkan itu permainan angka."
 
-Sela menulis di papan: *3 penyintas ditemukan (#1 barak, #2 barat daya, #3 timur). Sisa 2-3 (#utara danau garam, #celah menara?, #the Hollow mungkin hilang). The Wanes cap 7 garis di 5 desa (cari darah).*
+Sela menulis di papan: *3 the Survivors ditemukan (#1 barak, #2 barat daya, #3 timur). Sisa 2-3 (#utara danau garam, #celah menara?, #the Hollow mungkin hilang). The Wanes cap 7 garis di 5 desa (cari darah).*
 
-Malam itu, Sela duduk di serambi memilin benang biru ke timur. "Tiga penyintas," bisiknya. "Ibu Tamma, pemulung, dan perawat tua. Delapan belas tahun mereka tidak tahu mereka kunci."
+Malam itu, Sela duduk di serambi memilin benang biru ke timur. "Tiga the Survivor," bisiknya. "Ibu Tamma, pemulung, dan perawat tua. Delapan belas tahun mereka tidak tahu mereka kunci."
 
 "Dan kita tidak akan memberitahu mereka," kata Gella yang duduk di sebelahnya. "Biarkan mereka hidup sebagai orang biasa. Itu perlindungan terbaik."
 
@@ -115,9 +115,9 @@ Di sudut, Gella mengukur napas Ashvarok-Renn yang duduk memilin benang. "Empat h
 
 "Catat di papan," kata Sela.
 
-Ashvarok-Renn membuka bible kecil. "Hari ini kita mulai pemetaan napas desa," tulisnya. "Tiga penyintas sudah dikenali. Sisa dikejar tanpa nama."
+Ashvarok-Renn membuka bible kecil. "Hari ini kita mulai pemetaan napas desa," tulisnya. "Tiga the Survivor sudah dikenali. Sisa dikejar tanpa nama."
 
-Ia menatap ke timur lewat jendela serambi. "Pemulung di danau garam itu penyintas #3," katanya pada Gella. "Bila the Wanes mulai bertanya soal napas di sana, ia harus hilang ke rawa sebelum mereka tiba."
+Ia menatap ke timur lewat jendela serambi. "Pemulung di danau garam itu the Survivor #3," katanya pada Gella. "Bila the Wanes mulai bertanya soal napas di sana, ia harus hilang ke rawa sebelum mereka tiba."
 
 "Sudah kukirim dua murid Ossian ke danau garam minggu lalu," kata Gella. "Mereka berteman dengan dia, ajarkan ketukan darurat. Ia kini tahu: dua pendek satu panjang berarti lari."
 
