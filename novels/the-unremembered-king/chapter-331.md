@@ -19,15 +19,15 @@ Di sudut, Brannoc mendengar dan tersenyum pudar. "Selama ini kita jaga celah," k
 
 ---
 
-Fajar itu, Ossian mengirim kabar lewat Thessa: the Wanes menyerang pos barat daya, menangkap semua yang punya bekas luka di leher. Penyintas #2 hampir tertangkap, tapi murid Ossian menyelamatkannya lewat jalur rawa belakang.
+Fajar itu, Ossian mengirim kabar lewat Thessa: the Wanes menyerang pos barat daya, menangkap semua yang punya bekas luka di leher. the Survivor #2 hampir tertangkap, tapi murid Ossian menyelamatkannya lewat jalur rawa belakang.
 
 *Mereka bawa pergi tiga orang salah,* tulis Ossian. *Tapi penyintas #2 lolos ke hutan. Ia kini bersembunyi, dan aku suruh muridku ajarkan ketukan darurat: dua pendek satu panjang berarti 'lari ke benang'.*
 
-Ashvarok-Renn membaca di serambi. "Penyintas #2 selamat, tapi pos barat daya kini di bawah the Wanes," katanya pada Kovan. "Simpul #6 jatuh ke tangan mereka."
+Ashvarok-Renn membaca di serambi. "the Survivor #2 selamat, tapi pos barat daya kini di bawah the Wanes," katanya pada Kovan. "Simpul #6 jatuh ke tangan mereka."
 
 "Kalau mereka pegang simpul #6 dan punya penyintas palsu, apakah mereka bisa buka sebagian?" tanya Sela.
 
-"Mereka pegang simpul, tapi tidak pegang kunci," jawab Ashvarok-Renn. "Penyintas #2 lolos. Tanpa dia, simpul #6 hanya batu yang berdenyut. Mereka bisa panen pola, tapi tidak buka pintu."
+"Mereka pegang simpul, tapi tidak pegang kunci," jawab Ashvarok-Renn. "the Survivor #2 lolos. Tanpa dia, simpul #6 hanya batu yang berdenyut. Mereka bisa panen pola, tapi tidak buka pintu."
 
 Gella mendekat. "Kita harus pindahkan penyintas #2 ke tempat aman. Tapi dia tidak kenal barak."
 
@@ -61,7 +61,7 @@ Sela mencatat: *3 anak ukur napas perawat tua = konfirmasi #1. Strategi: simpul 
 
 ---
 
-Maera tiba membawa koper pos terakhir batch, dan kain tenun dari murid barat daya: *Penyintas #2 aman di hutan, kuajarkan ketukan darurat. Ia bertanya kenapa dia diajari, kubilang itu lagu pengantar tidur. Ia tersenyum, lalu berdentum dua pendek satu panjang tanpa kusuruh. Ia sudah paham.*
+Maera tiba membawa koper pos terakhir batch, dan kain tenun dari murid barat daya: *the Survivor #2 aman di hutan, kuajarkan ketukan darurat. Ia bertanya kenapa dia diajari, kubilang itu lagu pengantar tidur. Ia tersenyum, lalu berdentum dua pendek satu panjang tanpa kusuruh. Ia sudah paham.*
 
 Ashvarok-Renn membacanya, lalu menyerahkan ke Maera. "Ia sudah paham," katanya pada Kovan. "Tanpa nama, tanpa perintah. Itu yang membuat jaringan ini hidup saat kita tiada."
 
@@ -111,7 +111,7 @@ Di sudut, Gella mengukur napas perawat tua yang sudah terjaga dan duduk memilin 
 
 Ashvarok-Renn membuka bible kecil. "Hari ini kita mulai pemetaan napas," tulisnya. "Tiga penyintas sudah dikenali. Sisa dikejar tanpa nama."
 
-Ia menatap ke barat daya di mana pos itu kini di bawah the Wanes. "Penyintas #2 selamat karena murid Ossian mengajarinya ketukan," katanya pada Gella. "Tapi simpul #6 kini di tangan mereka. Bila mereka paksa batu itu berdentum tanpa kunci, apa yang terjadi?"
+Ia menatap ke barat daya di mana pos itu kini di bawah the Wanes. "the Survivor #2 selamat karena murid Ossian mengajarinya ketukan," katanya pada Gella. "Tapi simpul #6 kini di tangan mereka. Bila mereka paksa batu itu berdentum tanpa kunci, apa yang terjadi?"
 
 "Hanya pola kosong," kata Gella. "Simpul jawab, tapi pintu tidak buka. Mereka panen dentum, bukan kunci."
 
@@ -119,7 +119,7 @@ Kovan mencatat di peta: benang abu-abu ke barat daya kini digaris merah tebal. "
 
 "Tepat," kata Ashvarok-Renn. "Mereka pegang batu. Kita pegang napas. Selama napas berlari, pintu dunia tetap tertidur."
 
-Sela menulis di papan: *Penyintas #2 lolos (ketukan darurat). Simpul #6 jatuh tapi tanpa kunci = pola kosong. Kita pegang napas, mereka pegang batu.*
+Sela menulis di papan: *the Survivor #2 lolos (ketukan darurat). Simpul #6 jatuh tapi tanpa kunci = pola kosong. Kita pegang napas, mereka pegang batu.*
 
 Mira di menara membuka buku catatan halaman kesebelas. "Dentum di barat daya berdenyut liar saat the Wanes masuk, lalu kembali acak setelah penyintas #2 lolos," katanya pada perawat tua. "Simpul #6 hidup, tapi tidak terbuka."
 

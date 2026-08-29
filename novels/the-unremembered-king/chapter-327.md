@@ -45,7 +45,7 @@ Di sudut, Kovan kembali ke peta dan menghitung simpul dengan jari. "Satu, dua, t
 
 Maera tiba dari utara membawa koper pos dan selembar kain tenun Ossian: *The Wanes tangkap dua orang di desa utara karena tanda lahir di punggung. Mereka bukan penyintas — hanya bekas kelahiran biasa. Tapi the Wanes bawa pergi, yakin mereka kunci. Di barat daya, muridku lihat reruntuhan pos Hegemony berdenyut saat senja. Satu bayangan di ambang punya bekas lingkaran di leher.*
 
-Ashvarok-Renn membaca di serambi, lalu menyerahkan kain ke Kovan. "Penyintas di pos barat daya," katanya. "Keluarga #2 calon. Tapi kita tidak tarik dia ke sini."
+Ashvarok-Renn membaca di serambi, lalu menyerahkan kain ke Kovan. "the Survivors di pos barat daya," katanya. "Keluarga #2 calon. Tapi kita tidak tarik dia ke sini."
 
 "Mengapa tidak?" tanya Sela.
 
@@ -125,7 +125,7 @@ Di sudut, Gella mengukur napas perawat tua yang duduk memilin benang. "Tiga hitu
 
 "Tulis di papan," kata Sela.
 
-Sela menulis di papan: *3 anak + Gella = alat deteksi napas hidup. Latihan pertama hari ini. Penyintas #1 = perawat tua (di barak). Penyintas #4? di ujung desa, dipelajari.*
+Sela menulis di papan: *3 anak + Gella = alat deteksi napas hidup. Latihan pertama hari ini. the Survivor #1 = perawat tua (di barak). the Survivor #4? di ujung desa, dipelajari.*
 
 Mira di menara membuka buku catatan. "Dentum celah menara berdenyut pelan sejak perawat tua tidur di ambangnya," katanya. "Simpul #1 hidup karena penjaganya ada di tempat."
 

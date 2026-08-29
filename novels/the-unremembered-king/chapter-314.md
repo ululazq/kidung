@@ -61,7 +61,7 @@ Gella menutup bukunya. "Bagus. Karena kalau diamnya terlalu berat, suatu hari ia
 
 Pagi itu dentum keras datang seperti biasa. Perawat tua mengetuk tiga kali ke lantai, diam satu hentakan, lalu mencatat. Di barak, Harn melakukan hal yang sama di halaman, dan dua belas sapu mengikutinya. Irama itu kini hidup di dua tempat yang dipisahkan jarak berhari-hari perjalanan, dan keduanya tidak tahu bahwa tempat lain melakukan hal yang sama.
 
-Sore harinya, kurir pos Guild mengetuk pintu menara. Ia membawa satu surat bertanda arsip Spire, dialamatkan bukan kepada Maera atau kepada panitia, melainkan kepada *Saksi Mira, Perawat Menara Utara.* Perawat tua menerima surat itu dengan kedua tangan, membaliknya, lalu meletakkannya di bawah buku catatan Mira tanpa membukanya.
+Sore harinya, kurir pos Guild mengetuk pintu menara. Ia membawa satu surat bertanda arsip Spire, dialamatkan bukan kepada Maera atau kepada panitia, melainkan kepada *Saksi Mira, the Northern Tower Nurse.* Perawat tua menerima surat itu dengan kedua tangan, membaliknya, lalu meletakkannya di bawah buku catatan Mira tanpa membukanya.
 
 "Untukmu," katanya pelan ke kursi kosong di sebelahnya. "Spire menjawab namamu, bukan angkaku."
 

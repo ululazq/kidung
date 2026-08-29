@@ -13,7 +13,7 @@ Ashvarok-Renn mengangguk. "Delapan belas tahun silam, sembilan napas dihisap sek
 
 Kovan menarik benang biru ke arah timur, menyambung simpul #5 ke pondok pemulung. "Maka sisa penyintas ada di sekitar simpul #1 (celah menara), #3, #4 (selatan), #5 (timur), #6 (barat daya), dan #7 (the Hollow). Kita sudah pegang jejak di #4, #5, #6. Tinggal #1, #3, #7."
 
-"Dan #7 adalah the Hollow sendiri," kata Gella. "Penyintas di sana mungkin sudah diambil the Wanes, atau sudah mati."
+"Dan #7 adalah the Hollow sendiri," kata Gella. "the Survivors di sana mungkin sudah diambil the Wanes, atau sudah mati."
 
 Di sudut, Brannoc mendengar dan tersenyum tipis. "Berarti kita jaga tujuh pintu di tujuh desa," katanya. "Tanpa satu pun dari mereka tahu mereka penjaga."
 
@@ -59,7 +59,7 @@ Sela mencatat: *3 anak makin presisi ukur napas. Kriteria penyintas: 0,5 hitunga
 
 ---
 
-Kovan menatap peta, benang biru ke timur masih menyala. "Penyintas #3 di hutan payau, dekat simpul #5 yang sudah bergetar," katanya. "Berarti tiap simpul yang kita dengar punya penyintas di dekatnya. Tinggal cari di sekitar simpul yang belum berdentum: #1 (celah menara), #3 (utara?), dan #7 (the Hollow)."
+Kovan menatap peta, benang biru ke timur masih menyala. "the Survivor #3 di hutan payau, dekat simpul #5 yang sudah bergetar," katanya. "Berarti tiap simpul yang kita dengar punya penyintas di dekatnya. Tinggal cari di sekitar simpul yang belum berdentum: #1 (celah menara), #3 (utara?), dan #7 (the Hollow)."
 
 "#1 sudah kita pegang di barak — perawat tua," kata Ashvarok-Renn. "Tinggal #3 dan #7."
 
@@ -121,8 +121,8 @@ Ia menatap ke timur lewat jendela serambi. "Pemulung di danau garam itu penyinta
 
 "Sudah kukirim dua murid Ossian ke danau garam minggu lalu," kata Gella. "Mereka berteman dengan dia, ajarkan ketukan darurat. Ia kini tahu: dua pendek satu panjang berarti lari."
 
-Kovan mencatat di peta: benang biru ke timur kini diikat simpul kecil. "Penyintas #3 aman selama murid Ossian di sana," katanya. "Tapi bila the Wanes tangkap murid itu, rantai putus."
+Kovan mencatat di peta: benang biru ke timur kini diikat simpul kecil. "the Survivor #3 aman selama murid Ossian di sana," katanya. "Tapi bila the Wanes tangkap murid itu, rantai putus."
 
 "Maka murid Ossian tidak sebut barak," kata Ashvarok-Renn. "Mereka hanya pemuda desa yang suka main kelereng dan hitung napas teman. the Wanes takkan curiga."
 
-Sela menulis di papan: *Penyintas #3 (danau garam) diajari ketukan darurat via 2 murid Ossian. Murid tak sebut barak = tidak terdeteksi.*
+Sela menulis di papan: *the Survivor #3 (danau garam) diajari ketukan darurat via 2 murid Ossian. Murid tak sebut barak = tidak terdeteksi.*

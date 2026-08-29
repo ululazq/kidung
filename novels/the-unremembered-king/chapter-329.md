@@ -35,7 +35,7 @@ Ashvarok-Renn mengangguk. "Presisi ketukan adalah presisi napas. Barak kini puny
 
 Kovan menatap peta tujuh simpul yang kini setengah menyala di benaknya. "Jika the Wanes menangkap orang salah di utara, mereka akan lelah dan beralih ke tempat lain," katanya. "Mungkin ke timur, dekat simpul #5."
 
-"Maka murid kita di sana harus lebih hati-hati," kata Ashvarok-Renn. "Penyintas #3 (pemulung) harus diajari menghilang bila cap tujuh garis muncul."
+"Maka murid kita di sana harus lebih hati-hati," kata Ashvarok-Renn. "the Survivor #3 (pemulung) harus diajari menghilang bila cap tujuh garis muncul."
 
 "Dan bila the Wanes datang ke desa kita?" tanya Sela.
 

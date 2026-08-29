@@ -65,7 +65,7 @@ Ia mengetuk ubin tiga kali, diam sehentakan, lalu menyadari bahwa ketukan itu ki
 
 Maera tiba membawa koper pos dan kain tenun Ossian terakhir minggu ini. Ashvarok-Renn membukanya di serambi.
 
-*Pendengar Utara lihat cap tujuh garis meninggalkan jejak dekat the Hollow, tapi cap Choir hilang. Mungkin Choir mundur, atau bersembunyi. Fihak ketiga lebih berani karena mereka kira pangkal tak dijaga. Mereka salah. Kau jaga dari jauh, dan itu menjaga.*
+*the Northern Listener lihat cap tujuh garis meninggalkan jejak dekat the Hollow, tapi cap Choir hilang. Mungkin Choir mundur, atau bersembunyi. Fihak ketiga lebih berani karena mereka kira pangkal tak dijaga. Mereka salah. Kau jaga dari jauh, dan itu menjaga.*
 
 Ashvarok-Renn menoleh pada Kovan. "Choir mundur. Fihak ketiga maju sendirian ke pangkal. Ini kesempatan: bila hanya satu fihak yang buka, polanya lebih mudah kita baca dari sini."
 
@@ -109,7 +109,7 @@ Di barak, Gella mengukur napas Ashvarok-Renn saat fajar, sebelum ia membuka bibl
 
 "Catat di papan," kata Sela.
 
-"Tidur tidak bisa diukur napas. Tapi bisa dihitung jam." Gella menulis: *Pemikul tidur 3 jam/malam sejak arc SANGKALAN. Napas stabil 4, tapi kelelahan kronis. Bahaya bukan hari ini, tapi sebulan lagi.*
+"Tidur tidak bisa diukur napas. Tapi bisa dihitung jam." Gella menulis: *the Bearer tidur 3 jam/malam sejak arc SANGKALAN. Napas stabil 4, tapi kelelahan kronis. Bahaya bukan hari ini, tapi sebulan lagi.*
 
 ---
 

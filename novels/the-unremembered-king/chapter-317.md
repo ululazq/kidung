@@ -53,7 +53,7 @@ Ia mengetuk tiga kali ke lantai, diam satu hentakan. "Mira aman selama ia hanya 
 
 ---
 
-Di menara, tiga hari kemudian, cap penerimaan tiba dari arsip Spire, dialamatkan ke *Saksi Mira, Perawat Menara Utara.* Perawat tua menerimanya, meletakkannya di bawah buku catatan, lalu menulis satu baris:
+Di menara, tiga hari kemudian, cap penerimaan tiba dari arsip Spire, dialamatkan ke *Saksi Mira, the Northern Tower Nurse.* Perawat tua menerimanya, meletakkannya di bawah buku catatan, lalu menulis satu baris:
 
 *Arsip menerima enam puluh hari angka. Tidak meminta narasi. Pola sedang dibaca di ujung lain.*
 

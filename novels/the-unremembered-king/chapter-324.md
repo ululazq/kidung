@@ -99,7 +99,7 @@ Di sudut, Gella mengamati Sela yang mulai menghitung napas Ashvarok-Renn tiap fa
 
 "Bagaimana bila ia menolak istirahat?"
 
-"Dia tidak akan menolak bila kau katakan bukan untuknya, tapi untuk dua belas anak yang butuh ia ajari besok." Gella menepuk bahu Sela. "Pemikul mendengar bila alasannya bukan nyawanya sendiri."
+"Dia tidak akan menolak bila kau katakan bukan untuknya, tapi untuk dua belas anak yang butuh ia ajari besok." Gella menepuk bahu Sela. "the Bearer mendengar bila alasannya bukan nyawanya sendiri."
 
 Di sudut lain, Brannoc memperhatikan Harn menggantungkan pengait besi kedua. "Kau mulai paham bahwa alat ini bahasa," katanya. "Suatu hari nanti, saat kita tiada, anak-anak ini akan tetap berketuk tanpa kita. Itu yang disebut lembaga: bukan orang, tapi kebiasaan yang hidup sendiri."
 

@@ -39,7 +39,7 @@ Mira di menara membuka buku catatan halaman kedelapan, membaca angka yang dikiri
 
 "Pos barat daya berdenyut," kata perawat tua.
 
-"Maka penyintas #2 dan simpul #6 di tempat sama." Mira menulis: *Simpul #6 (barat daya/pos Hegemony) berdenyut 4x lalu jeda sejak kabar dibicarakan. Penyintas #2 = penyintas the Remainder di pos, bukan darah. Cari jejak napas dihisap.* Ia mengetuk ubin tiga kali, diam sehentakan.
+"Maka penyintas #2 dan simpul #6 di tempat sama." Mira menulis: *Simpul #6 (barat daya/pos Hegemony) berdenyut 4x lalu jeda sejak kabar dibicarakan. the Survivor #2 = penyintas the Remainder di pos, bukan darah. Cari jejak napas dihisap.* Ia mengetuk ubin tiga kali, diam sehentakan.
 
 Di barak, Ashvarok-Renn menutup bible dan menulis: *Revisi: keluarga pengikat = 9 penyintas the Remainder (bukan 7 darah). Ibu Tamma = #1 (alm). Calon #2 = pos barat daya (simpul #6). The Wanes cari 7 darah — mereka salah jalan. Kita cari jejak napas dihisap.*
 
@@ -61,7 +61,7 @@ Di sudut, Gella mengajari Sela cara membaca bekas luka the Remainder di punggung
 
 Maera tiba membawa koper pos dari utara, dan kain tenun Ossian: *Murid di barat daya laporkan reruntuhan pos berdenyut saat senja, pola empat napas seperti yang kau duga. Ia lihat bayangan orang di ambang, tapi tidak masuk. Satu dari mereka punya bekas lingkaran di leher — penyintas, seperti kau bilang.*
 
-Ashvarok-Renn membacanya di serambi. "Penyintas di pos barat daya," katanya pada Kovan. "Keluarga #2 ditemukan, secara jejak napas. Tapi kita tidak tarik mereka ke sini. Kita ajarkan dari jauh."
+Ashvarok-Renn membacanya di serambi. "the Survivors di pos barat daya," katanya pada Kovan. "Keluarga #2 ditemukan, secara jejak napas. Tapi kita tidak tarik mereka ke sini. Kita ajarkan dari jauh."
 
 "Bagaimana mengajar dari jauh?" tanya Sela.
 
@@ -97,7 +97,7 @@ Kovan menatap peta, benang abu-abu ke barat daya masih menyala pelan. "Simpul #6
 
 "Maka kita jaga jaraknya," kata Gella. "Jangan tarik dia ke sini. Biarkan rawa jadi rumahnya."
 
-Sela menulis di papan: *Penyintas #2 di hutan (bukan pos). Murid Ossian berteman via ketukan. Simpul #6 = batu mati tanpa dia. Jaga jarak.*
+Sela menulis di papan: *the Survivor #2 di hutan (bukan pos). Murid Ossian berteman via ketukan. Simpul #6 = batu mati tanpa dia. Jaga jarak.*
 
 Malam itu, Ashvarok-Renn duduk di serambi sendirian setelah semua anak tidur. Ia menatap benang merah ke utara yang tak lagi berdenyut, dan benang abu-abu ke barat daya yang masih menyala pelan. "Enam kunci," bisiknya pada malam. "Tiga sudah kita temukan. Tiga lagi bersembunyi. Jika the Wanes belajar cara kita, mereka akan temukan sebelum kita."
 
@@ -115,7 +115,7 @@ Kovan menatap peta, benang abu-abu ke barat daya kini putus karena pos jatuh. "S
 
 "Tepat," kata Ashvarok-Renn. "Mereka pegang simpul, bukan kunci."
 
-Sela menulis di papan: *3 anak + Gella = alat deteksi napas hidup. Latihan pertama hari ini. Penyintas #2 lolos, simpul #6 jatuh tanpa kunci.*
+Sela menulis di papan: *3 anak + Gella = alat deteksi napas hidup. Latihan pertama hari ini. the Survivor #2 lolos, simpul #6 jatuh tanpa kunci.*
 
 Mira di menara membuka buku catatan. "Dentum barat daya berdenyut liar saat the Wanes masuk, lalu kembali acak setelah penyintas lolos," katanya. "Simpul #6 hidup, tapi tak terbuka."
 

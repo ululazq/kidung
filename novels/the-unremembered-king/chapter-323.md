@@ -51,7 +51,7 @@ Di sudut, Gella mengukur napas dua belas anak yang berlatih. "Mereka mulai menge
 
 Maera kembali dari utara membawa koper pos dan kain tenun Ossian yang lain. Ashvarok-Renn membukanya di serambi.
 
-*Pendengar Utara laporkan jejak kaki baru di jalur ke the Hollow — cap kecil bergambar tujuh garis, bukan cap Choir utama. Berarti lebih dari satu fihak mencari pangkal. Persaingan di antara mereka mungkin kawan kita, asal kita tidak ikut.*
+*the Northern Listener laporkan jejak kaki baru di jalur ke the Hollow — cap kecil bergambar tujuh garis, bukan cap Choir utama. Berarti lebih dari satu fihak mencari pangkal. Persaingan di antara mereka mungkin kawan kita, asal kita tidak ikut.*
 
 "Lebih dari satu fihak," ulang Ashvarok-Renn. "Berarti the Hollow belum diklaim siapa pun. Waktu masih di tangan yang tak bernama, asal kita tidak gegabah."
 
@@ -79,7 +79,7 @@ Sela menatap Ashvarok-Renn yang duduk di serambi. "Guru izin?" tanyanya.
 
 Ashvarok-Renn mengangguk. Sela mendekat, meletakkan telinga di dada kirinya, menghitung pelan. "Satu napas... dua... tiga. Rata-rata empat hitungan," bisiknya. "Bukan enam seperti dulu kau bilang di bible."
 
-"Delapan belas tahun silam enam," kata Ashvarok-Renn. "Sekarang empat. Dua hilang pelan-pelan, tidak terasa sampai kau ukur." Gella mencatat di papan: *Pemikul napas 4 hitungan (baseline 6, hilang 2 sejak 18 thn). Pantau mingguan.*
+"Delapan belas tahun silam enam," kata Ashvarok-Renn. "Sekarang empat. Dua hilang pelan-pelan, tidak terasa sampai kau ukur." Gella mencatat di papan: *the Bearer napas 4 hitungan (baseline 6, hilang 2 sejak 18 thn). Pantau mingguan.*
 
 "Kau yang pegang angka ini sekarang," kata Gella pada Sela. "Bila suatu hari ia bilang masih enam, kau tahu ia berbohong pada diri sendiri."
 
