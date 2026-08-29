@@ -50,7 +50,7 @@ baru. Semua sudah ditinjau berkali-kali; cukup dirujuk ke daftar ini:
 | E-5705d7 | "Overseer Tharrow" (3×, bab 54-59) | Gelar+nama kanon — pola #4. |
 | E-f07054 | "… dan 23 kandidat lain" | Sisa kandidat = pola sama dgn daftar atas (vokatif/gelar/institusi kanon/kata umum). |
 | E-67d68e | "Pell" (4×, bab 292) | Julukan pendek untuk Pellia/Pellia Muda — entitas kanon (bible baris 29 & 147, world-state baris 574-580). Pola #8 (nama kanon, varian panggilan) |
-| E-eb7083 | entitas | "Survivor" (15×, bab 327, 328, 329, 330, 331) | the Survivors = entitas arc SANGKALAN (padanan Inggris untuk penyintas 8-9 orang pemegang napas-kunci); sudah di bible.md & world-state.md |
+| E-eb7083 | entitas | "Survivor" (15×, bab 327, 328, 329, 330, 331) | the Survivors = entitas arc the Misclaim (padanan Inggris untuk penyintas 8-9 orang pemegang napas-kunci); sudah di bible.md & world-state.md |
 | E-d4541a | entitas | "Tanggung" (2×, bab 284) | kata umum (pola #7); bukan entitas |
 | E-d8b374 | entitas | "Nak" (20×, bab 251, 255, 257, 258, 259, 265, 266, 273, 275, 280, 288, 289, 290, 292, 296) | Nak = vokatif peran Wida (bible kanon, baris 142), panggilan untuk semua anak barak, bukan entitas baru; 20x konsisten bab 251-296 |
 

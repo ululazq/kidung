@@ -121,4 +121,4 @@ Mira di menara membuka buku catatan. "Dentum barat daya berdenyut liar saat the 
 
 "Mereka pegang simpul, bukan kunci," kata perawat tua.
 
-Ia menutup bible dan membiarkan benang diam hidup tanpa namanya — tahu bahwa di barat daya, seorang penyintas dengan bekas lingkaran di leher kini mulai belajar ketukan yang sama dengan barak, tanpa pernah tahu ia adalah kunci yang diburu dua fihak.
+Ia menutup bible dan membiarkan benang diam hidup tanpa namanya — tahu bahwa di barat daya, seorang penyintas dengan bekas lingkaran di leher kini mulai belajar ketukan yang sama dengan barak, tanpa pernah tahu ia adalah kunci yang diburu dua pihak.

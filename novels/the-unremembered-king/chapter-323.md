@@ -51,15 +51,15 @@ Di sudut, Gella mengukur napas dua belas anak yang berlatih. "Mereka mulai menge
 
 Maera kembali dari utara membawa koper pos dan kain tenun Ossian yang lain. Ashvarok-Renn membukanya di serambi.
 
-*the Northern Listener laporkan jejak kaki baru di jalur ke the Hollow — cap kecil bergambar tujuh garis, bukan cap Choir utama. Berarti lebih dari satu fihak mencari pangkal. Persaingan di antara mereka mungkin kawan kita, asal kita tidak ikut.*
+*the Northern Listener laporkan jejak kaki baru di jalur ke the Hollow — cap kecil bergambar tujuh garis, bukan cap Choir utama. Berarti lebih dari satu pihak mencari pangkal. Persaingan di antara mereka mungkin kawan kita, asal kita tidak ikut.*
 
-"Lebih dari satu fihak," ulang Ashvarok-Renn. "Berarti the Hollow belum diklaim siapa pun. Waktu masih di tangan yang tak bernama, asal kita tidak gegabah."
+"Lebih dari satu pihak," ulang Ashvarok-Renn. "Berarti the Hollow belum diklaim siapa pun. Waktu masih di tangan yang tak bernama, asal kita tidak gegabah."
 
 Kovan menulis balasan: *Jangan kirim kaki. Amati cap tujuh garis itu. Kirim gambarnya lewat Thessa, bukan lewat arsip.* Ashvarok-Renn menyerahkan kain itu ke Maera. "Suruh Ossian sabar. Kita menang bukan dengan cepat, tapi dengan tak terlihat."
 
 ---
 
-Malamnya, Ashvarok-Renn duduk di serambi, bible kecil di pangkuan. Ia membuka halaman tujuh seam dan menulis di bawah catatan Ossian: *the Hollow = pangkal 7 seam (konfirmasi catatan Throne + ingatan ibu Tamma 'tujuh pintu tanpa kunci'). Lebih dari satu fihak mencari (cap 7 garis vs Choir). Belum diklaim. Strategi: amati dengan mata, jangan kirim kaki. Tutup butuh penemu pertama — kita upayakan jadi penemu pertama secara pengetahuan.*
+Malamnya, Ashvarok-Renn duduk di serambi, bible kecil di pangkuan. Ia membuka halaman tujuh seam dan menulis di bawah catatan Ossian: *the Hollow = pangkal 7 seam (konfirmasi catatan Throne + ingatan ibu Tamma 'tujuh pintu tanpa kunci'). Lebih dari satu pihak mencari (cap 7 garis vs Choir). Belum diklaim. Strategi: amati dengan mata, jangan kirim kaki. Tutup butuh penemu pertama — kita upayakan jadi penemu pertama secara pengetahuan.*
 
 Ia menutup bible, lalu menatap peta di dinding. Lima simpul buta kini punya nama sementara: selatan (diawasi), utara (Ossian), timur (belum disentuh), barat daya (bekas pos Hegemony), dan tengah (the Hollow, pangkal). Empat masih di luar jangkauan tangan, hanya dalam jangkauan telinga.
 
@@ -87,7 +87,7 @@ Sela menatap papan napas di tangannya. "Berarti kunci the Hollow tersebar di sem
 
 "Mungkin bukan beda, tapi lapisan," jawab Ashvarok-Renn. "Tujuh keluarga adalah wadah, sembilan napas adalah isi. Untuk membuka pintu, kau butuh wadah yang benar diisi napas yang benar. The Wanes pegang wadah tapi kosong. Kita pegang isi tapi tak punya wadah utuh."
 
-"Maka siapa pun yang buka harus punya keduanya," kata Kovan. "Itu sebabnya tak satu fihak berhasil. Choir punya catatan tapi tak punya darah. The Wanes punya darah tapi tak punya sembilan napas."
+"Maka siapa pun yang buka harus punya keduanya," kata Kovan. "Itu sebabnya tak satu pihak berhasil. Choir punya catatan tapi tak punya darah. The Wanes punya darah tapi tak punya sembilan napas."
 
 Gella menutup buku pemulihan. "Kita punya separuh isi — Ashvarok-Renn satu dari sembilan, ibu Tamma satu dari tujuh keluarga, dan aku yang ukur." Ia menatap Sela. "Kau kini pegang catatan isinya. Jangan biarkan angka itu jatuh ke tangan yang mau memanen."
 
@@ -95,9 +95,9 @@ Gella menutup buku pemulihan. "Kita punya separuh isi — Ashvarok-Renn satu dar
 
 Kovan menatap peta tujuh lingkaran Ossian di atas meja. "Satu Throne di balik Choir punya peta ini," katanya. "Berarti Choir tahu the Hollow sejak lama, tapi tidak buka. Mungkin karena mereka juga tahu butuh kunci."
 
-"Choir sabar," kata Ashvarok-Renn. "Mereka panen celah menara pelan-pelan, tidak buru tutup pangkal. Fihak ketiga cap tujuh garis lebih bernafsu. Itu kelemahan mereka."
+"Choir sabar," kata Ashvarok-Renn. "Mereka panen celah menara pelan-pelan, tidak buru tutup pangkal. Pihak ketiga cap tujuh garis lebih bernafsu. Itu kelemahan mereka."
 
-"Kalau kedua fihak tahu butuh kunci, berarti mereka juga cari apa yang hilang delapan belas tahun silam," kata Sela dari sudut, masih memegang papan napas. "Pertanyaan: apakah kunci itu benda, atau orang?"
+"Kalau kedua pihak tahu butuh kunci, berarti mereka juga cari apa yang hilang delapan belas tahun silam," kata Sela dari sudut, masih memegang papan napas. "Pertanyaan: apakah kunci itu benda, atau orang?"
 
 "Semua yang hilang saat sembilan napas pergi adalah orang," jawab Ashvarok-Renn pelan. "Sembilan napas bukan angka. Itu sembilan nyawa yang dihisap the Remainder delapan belas tahun silam, saat ibu Tamma menangis soal tujuh pintu tanpa kunci. Kunci mungkin ada pada salah satu dari mereka yang masih hidup."
 
@@ -107,4 +107,4 @@ Gella mendongak. "Kau bilang sembilan napas hilang. Tapi kau yang hidup. Berarti
 
 Di menara, Mira menutup buku catatan dan menulis di sisi: *Kunci the Hollow mungkin 9 napas = 9 penyintas 18 thn silam, tersebar. Barak sengaja tak bernama supaya musuh harus tangkap 9, bukan 1.* Perawat tua membubuhkan garis lurus di bawah tulisan itu, tiga, seperti setiap laporan yang dianggap selesai.
 
-Ashvarok-Renn bangkit, menyapu halaman bersama dua belas anak, dan membiarkan benang diam hidup tanpa namanya — tahu bahwa di tengah Karvess, sebuah pangkal tujuh seam kini diperebutkan oleh fihak yang tak satu pun mengenal namanya, dan barak telah memilih menjadi yang paling lambat tapi paling tak terlihat.
+Ashvarok-Renn bangkit, menyapu halaman bersama dua belas anak, dan membiarkan benang diam hidup tanpa namanya — tahu bahwa di tengah Karvess, sebuah pangkal tujuh seam kini diperebutkan oleh pihak yang tak satu pun mengenal namanya, dan barak telah memilih menjadi yang paling lambat tapi paling tak terlihat.

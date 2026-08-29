@@ -3,7 +3,7 @@ title: "Bab 326: Pintu Tanpa Kunci"
 chapter: 326
 ---
 
-Fihak ketiga mencapai the Hollow pada hari ke sembilan belas. Ossian mengirim kabar lewat Thessa: pendengar danau garam melihat tujuh orang berseragam tanpa cap Choir berdiri di tengah lembah tak bernama, tangan menyentuh tujuh batu yang bertemu di satu titik.
+Pihak ketiga mencapai the Hollow pada hari ke sembilan belas. Ossian mengirim kabar lewat Thessa: pendengar danau garam melihat tujuh orang berseragam tanpa cap Choir berdiri di tengah lembah tak bernama, tangan menyentuh tujuh batu yang bertemu di satu titik.
 
 *Mereka coba tekan batu secara berurutan — satu, dua, tiga, empat, lima, enam, tujuh. Tapi setelah batu keenam, tidak ada apa-apa. Batu ketujuh hanya berdenyut, tidak bergerak. Mereka ribut, lalu pergi meninggalkan cap tujuh garis di tanah.*
 
@@ -11,7 +11,7 @@ Ashvarok-Renn membaca di serambi, lalu menatap Kovan. "Mereka tidak punya kunci.
 
 "Semua yang hilang saat sembilan napas pergi," kata Sela. "Termasuk cara menutup pangkal."
 
-"Tepat. Fihak ketiga punya peta, punya tangan, tapi tidak punya sembilan napas yang dibawa pergi. Maka pintu tetap tertutup bagi mereka." Ashvarok-Renn menulis di bible: *Fihak cap 7 garis gagal buka the Hollow — batu ke-7 hanya berdenyut, tidak gerak. Kunci = sesuatu yang hilang saat 9 napas pergi. Pintu tanpa kunci bagi mereka.*
+"Tepat. Pihak ketiga punya peta, punya tangan, tapi tidak punya sembilan napas yang dibawa pergi. Maka pintu tetap tertutup bagi mereka." Ashvarok-Renn menulis di bible: *Pihak cap 7 garis gagal buka the Hollow — batu ke-7 hanya berdenyut, tidak gerak. Kunci = sesuatu yang hilang saat 9 napas pergi. Pintu tanpa kunci bagi mereka.*
 
 ---
 
@@ -59,7 +59,7 @@ Di menara, dentum berdenyut liar selama satu jam penuh sejak kabar Ossian tiba �
 
 "Mereka gagal," kata perawat tua.
 
-"Mereka gagal karena tidak punya kunci. Tapi sekarang mereka tahu batu ketujuh ada. Lain kali mereka cari kuncinya." Mira menulis di sisi: *Batch SANGKALAN selesai. Lima mata kini satu jaringan diam. Kunci the Hollow = 9 napas hilang (atau 7 keluarga menurut the Wanes). Barak pegang ingatan, bukan tubuh. Arc berikutnya: cari 7 keluarga pengikat sebelum the Wanes.* Perawat tua menyilang baris bawah, tiga, seperti biasa. Mira menutup buku, lalu mengetuk ubin tiga kali, diam sehentakan — gerakan yang kini menghubungkan menara ke barak, ke selatan, ke timur, ke danau garam, satu jaringan diam yang tak perlu nama.
+"Mereka gagal karena tidak punya kunci. Tapi sekarang mereka tahu batu ketujuh ada. Lain kali mereka cari kuncinya." Mira menulis di sisi: *Batch the Misclaim selesai. Lima mata kini satu jaringan diam. Kunci the Hollow = 9 napas hilang (atau 7 keluarga menurut the Wanes). Barak pegang ingatan, bukan tubuh. Arc berikutnya: cari 7 keluarga pengikat sebelum the Wanes.* Perawat tua menyilang baris bawah, tiga, seperti biasa. Mira menutup buku, lalu mengetuk ubin tiga kali, diam sehentakan — gerakan yang kini menghubungkan menara ke barak, ke selatan, ke timur, ke danau garam, satu jaringan diam yang tak perlu nama.
 
 Ashvarok-Renn, di barak, merasakan dentum di dada saat jam yang sama berdenyut liar. Ia berhenti menyapu, meletakkan sapu di dinding. "Mereka coba buka," katanya pelan pada Sela. "Tapi pintu tidak memberi. Kunci memang bukan milik mereka."
 
@@ -87,10 +87,10 @@ Ashvarok-Renn duduk di serambi setelah dentum kembali acak, bible kecil di pangk
 
 Ashvarok-Renn membuka bible kecil di rak buku barak, halaman chekhov, dan menulis di bawah semua catatan the Hollow:
 
-*Arc SANGKALAN tertutup sementara: kelima simpul buta kini terdengar (selatan/timur bergetar, utara diawasi Ossian, barat daya & the Hollow belum dipegang). Fihak ketiga (the Wanes, cap 7 garis) gagal buka pangkal — kunci = 9 napas hilang / 7 keluarga pengikat. Ibu Tamma = 1 dari 7 keluarga (tanda 7 titik di punggung). Arc berikutnya: cari 6 keluarga lain sebelum the Wanes. Benang diam kini jaringan 5 mata.*
+*Arc the Misclaim tertutup sementara: kelima simpul buta kini terdengar (selatan/timur bergetar, utara diawasi Ossian, barat daya & the Hollow belum dipegang). Pihak ketiga (the Wanes, cap 7 garis) gagal buka pangkal — kunci = 9 napas hilang / 7 keluarga pengikat. Ibu Tamma = 1 dari 7 keluarga (tanda 7 titik di punggung). Arc berikutnya: cari 6 keluarga lain sebelum the Wanes. Benang diam kini jaringan 5 mata.*
 
 Ia menutup bible, lalu menatap papan world-state barak. Di bawah semua catatan, Sela telah menulis rapi: *Lima simpul buta terdengar. the Hollow gagal dibuka the Wanes (tanpa kunci). Kunci = 9 napas/7 keluarga. Ibu Tamma 1 dari 7. Cari 6 keluarga lain. Jangan kirim kaki ke tengah.*
 
-Di menara, Mira menutup buku catatan dan menulis di sisi terakhir: *Batch SANGKALAN usai. Lima mata satu jaringan. Arc berikutnya: temukan enam keluarga pengikat sebelum the Wanes — bukan untuk membuka, tapi agar pintu terjaga tanpa pernah dipegang.* Perawat tua membubuhkan garis lurus di bawahnya, tiga, menutup hari.
+Di menara, Mira menutup buku catatan dan menulis di sisi terakhir: *Batch the Misclaim usai. Lima mata satu jaringan. Arc berikutnya: temukan enam keluarga pengikat sebelum the Wanes — bukan untuk membuka, tapi agar pintu terjaga tanpa pernah dipegang.* Perawat tua membubuhkan garis lurus di bawahnya, tiga, menutup hari.
 
-Ashvarok-Renn bangkit, menyapu halaman bersama dua belas anak, dan membiarkan benang diam hidup tanpa namanya — tahu bahwa pintu tujuh seam tetap tertutup bagi semua fihak yang memerebutkannya, karena kuncinya bukan di tangan, melainkan di sembilan napas yang delapan belas tahun silam pergi dan belum kembali. Mereka yang mencarinya dengan cap dan peta akan selalu gagal; hanya yang mencari dengan telinga yang bisa menjaganya.
+Ashvarok-Renn bangkit, menyapu halaman bersama dua belas anak, dan membiarkan benang diam hidup tanpa namanya — tahu bahwa pintu tujuh seam tetap tertutup bagi semua pihak yang memerebutkannya, karena kuncinya bukan di tangan, melainkan di sembilan napas yang delapan belas tahun silam pergi dan belum kembali. Mereka yang mencarinya dengan cap dan peta akan selalu gagal; hanya yang mencari dengan telinga yang bisa menjaganya.

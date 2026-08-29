@@ -7,9 +7,9 @@ Thessa tiba membawa gambar cap tujuh garis yang dilihat pendengar Utara di jalur
 
 "Bukan cap Choir," kata Kovan. "Choir pakai lingkaran dengan mata di tengah. Ini tujuh garis lurus, seperti peta seam sendiri dijadikan stempel."
 
-"Berarti fihak ketiga," kata Sela. "Bukan kita, bukan Choir, bukan Hegemony. Sesuatu yang lebih tua, yang menganggap tujuh seam miliknya sejak sebelum Choir ada."
+"Berarti pihak ketiga," kata Sela. "Bukan kita, bukan Choir, bukan Hegemony. Sesuatu yang lebih tua, yang menganggap tujuh seam miliknya sejak sebelum Choir ada."
 
-Ashvarok-Renn meletakkan gambar itu ke bible kecil. "Ibu Tamma pernah bilang tujuh pintu tanpa kunci. Mungkin fihak ini pemilik pintunya, tapi karena tanpa kunci, mereka pun tak bisa masuk. Mereka cari kunci yang hilang delapan belas tahun silam."
+Ashvarok-Renn meletakkan gambar itu ke bible kecil. "Ibu Tamma pernah bilang tujuh pintu tanpa kunci. Mungkin pihak ini pemilik pintunya, tapi karena tanpa kunci, mereka pun tak bisa masuk. Mereka cari kunci yang hilang delapan belas tahun silam."
 
 "Kunci apa?" tanya Kovan.
 
@@ -17,11 +17,11 @@ Ashvarok-Renn meletakkan gambar itu ke bible kecil. "Ibu Tamma pernah bilang tuj
 
 ---
 
-Mira di menara membuka buku catatan halaman kelima. "Dentum masih acak," katanya. "Tapi sejak gambar cap tujuh garis dibaca, napas antara keras dan pelan berubah pola — bukan memendek, tapi berdenyut dua kali lalu jeda. Seperti ada dua fihak menarik dari arah berbeda."
+Mira di menara membuka buku catatan halaman kelima. "Dentum masih acak," katanya. "Tapi sejak gambar cap tujuh garis dibaca, napas antara keras dan pelan berubah pola — bukan memendek, tapi berdenyut dua kali lalu jeda. Seperti ada dua pihak menarik dari arah berbeda."
 
-"Dua fihak menarik pangkal," kata perawat tua. "Berarti the Hollow mulai panas."
+"Dua pihak menarik pangkal," kata perawat tua. "Berarti the Hollow mulai panas."
 
-"Belum panas. Masih rebutan. Bila dua fihak tarik beda arah, simpul lain ikut berdenyut tak teratur. Itu yang kita lihat di sini." Mira menulis: *Dua fihak tarik the Hollow beda arah — dentum menara berdenyut 2x lalu jeda. Simpul lain ikut tak teratur. Pangkal belum dipegang siapa pun.*
+"Belum panas. Masih rebutan. Bila dua pihak tarik beda arah, simpul lain ikut berdenyut tak teratur. Itu yang kita lihat di sini." Mira menulis: *Dua pihak tarik the Hollow beda arah — dentum menara berdenyut 2x lalu jeda. Simpul lain ikut tak teratur. Pangkal belum dipegang siapa pun.*
 
 Ia mengetuk ubin tiga kali, diam sehentakan. Gerakan itu kini otomatis, seperti napas.
 
@@ -33,9 +33,9 @@ Kovan menarik benang biru tipis ke arah timur di peta Ossian. "Simpul timur belu
 
 "Dan kalau simpul timur sudah dipanen?" tanya Sela.
 
-"Maka kita tahu fihak ketiga lebih cepat dari Choir di sana. Kita catat, tidak hadang. Setiap simpul yang jatuh ke tangan lain memberi kita pola musuh."
+"Maka kita tahu pihak ketiga lebih cepat dari Choir di sana. Kita catat, tidak hadang. Setiap simpul yang jatuh ke tangan lain memberi kita pola musuh."
 
-Gella mendekat, buku pemulihan di tangan. "Kau memikul pola lima fihak sekaligus," katanya pada Ashvarok-Renn. "Napasmu minggu ini lebih pendek dari minggu lalu. Aku ukur tadi, setengah hitungan hilang."
+Gella mendekat, buku pemulihan di tangan. "Kau memikul pola lima pihak sekaligus," katanya pada Ashvarok-Renn. "Napasmu minggu ini lebih pendek dari minggu lalu. Aku ukur tadi, setengah hitungan hilang."
 
 "Setengah hitungan bukan sembilan napas."
 
@@ -51,7 +51,7 @@ Ashvarok-Renn membukanya di serambi. *Timur bergetar sejak dua minggu. Pola empa
 
 Kovan menandai timur dengan lingkaran merah. "Simpul kelima bergetar. Pola empat napas, beda dari selatan yang tiga. Berarti setiap simpul punya irama sendiri — mereka tidak disetel seragam."
 
-"Tepat," kata Ashvarok-Renn. "Tiap seam punya denyut purba berbeda. Choir atau fihak ketiga yang menarik akan menemukan itu saat mereka coba seragamkan. Kita tidak perlu seragamkan. Kita hanya catat bedanya."
+"Tepat," kata Ashvarok-Renn. "Tiap seam punya denyut purba berbeda. Choir atau pihak ketiga yang menarik akan menemukan itu saat mereka coba seragamkan. Kita tidak perlu seragamkan. Kita hanya catat bedanya."
 
 ---
 
@@ -59,7 +59,7 @@ Malamnya, Murid angkatan ketiga di timur, yang ditempatkan Ossian setahun lalu, 
 
 "Murid kita di timur lebih dulu tahu dari kita," kata Ashvarok-Renn pelan. "Ia tidak menunggu perintah. Itu tanda jaringan diam benar-benar hidup di luar barak."
 
-Kovan menandai timur dengan lingkaran merah, lalu menarik benang biru ke arah hutan payau. "Simpul kelima," katanya. "Berdenyut empat napas senja. Beda dari selatan yang tiga napas subuh. Berarti tiap seam punya denyut purba sendiri, dan fihak yang menarik akan menemukan itu saat mereka coba seragamkan."
+Kovan menandai timur dengan lingkaran merah, lalu menarik benang biru ke arah hutan payau. "Simpul kelima," katanya. "Berdenyut empat napas senja. Beda dari selatan yang tiga napas subuh. Berarti tiap seam punya denyut purba sendiri, dan pihak yang menarik akan menemukan itu saat mereka coba seragamkan."
 
 "Kita tidak seragamkan," kata Ashvarok-Renn. "Kita catat bedanya. Itu keunggulan kita: kita pelajari irama, bukan paksa irama."
 
@@ -105,10 +105,10 @@ Di sudut lain, Brannoc memperhatikan Harn menggantungkan pengait besi kedua. "Ka
 
 "Lembaga tanpa nama," ulang Harn. "Tepat seperti yang guru inginkan."
 
-Ashvarok-Renn menutup bible kecil dan menulis di bawah catatan the Hollow: *Simpul timur (ke-5/7) bergetar 4 napas tiap senja, diamati murid angkatan ke-3 sendiri. Cap tujuh garis = fihak ketiga pengaku pemilik seam. Dua fihak tarik the Hollow beda arah. Status: simpul selatan (4) & timur (5) bergetar; utara (Ossian), barat daya, the Hollow belum dipegang.*
+Ashvarok-Renn menutup bible kecil dan menulis di bawah catatan the Hollow: *Simpul timur (ke-5/7) bergetar 4 napas tiap senja, diamati murid angkatan ke-3 sendiri. Cap tujuh garis = pihak ketiga pengaku pemilik seam. Dua pihak tarik the Hollow beda arah. Status: simpul selatan (4) & timur (5) bergetar; utara (Ossian), barat daya, the Hollow belum dipegang.*
 
 Ia bangkit, menyapu halaman bersama dua belas anak. Di sudut, Gella mengukur napas mereka satu per satu, mencatat di buku bahwa lelah generasi keempat masih dalam batas — untuk sekarang.
 
 Di menara, Mira menutup buku catatan halaman kelima dan menulis di sisi: *Tiga simpul kini berdenyut (selatan, timur, dan bayangan the Hollow). Kita jaga dengan telinga, bukan tangan.* Perawat tua menyilang baris bawah, tiga, seperti biasa.
 
-Ashvarok-Renn membiarkan benang diam hidup tanpa namanya — tahu bahwa lima simpul buta kini satu per satu membuka mata, dan barak harus lebih lambat, lebih tenang, lebih tak terlihat dari semua fihak yang memerebutkannya.
+Ashvarok-Renn membiarkan benang diam hidup tanpa namanya — tahu bahwa lima simpul buta kini satu per satu membuka mata, dan barak harus lebih lambat, lebih tenang, lebih tak terlihat dari semua pihak yang memerebutkannya.
