@@ -45,9 +45,9 @@ Ia pulang larut. Di ambang ranjang, Sela menyergapnya satu kali terakhir, kapur 
 
 Kabar Panggung Dapur menyebar ke luar barak lebih cepat dari perkiraan siapa pun, karena Caldrest lapar akan jenis kejutan ini tanpa menyadarinya.
 
-Minggu pertama, pengunjung luar: dua orang. Perempuan bilik sebelas yang membawa sepupunya untuk "lihat cara orang di sini jaga nama". Minggu kedua: Maera datang — duduk paling belakang, tidak menceritakan apa pun, hanya mendengarkan enam cerita tentang warga yang tidak ia kenal, dan pulang dengan catatan satu kalimat di buku hitamnya yang kelak ia tunjukkan kepada Ashvarok bertahun-tahun kemudian: "Hari 252. Kota ini membangun arsip hidupnya sendiri. Guild kami butuh seratus tahun dan gedung; mereka butuh bangku."
+Pekan pertama, pengunjung luar: dua orang. Perempuan bilik sebelas yang membawa sepupunya untuk "lihat cara orang di sini jaga nama". Pekan kedua: Maera datang — duduk paling belakang, tidak menceritakan apa pun, hanya mendengarkan enam cerita tentang warga yang tidak ia kenal, dan pulang dengan catatan satu kalimat di buku hitamnya yang kelak ia tunjukkan kepada Ashvarok bertahun-tahun kemudian: "Hari 252. Kota ini membangun arsip hidupnya sendiri. Guild kami butuh seratus tahun dan gedung; mereka butuh bangku."
 
-Minggu ketiga, hal yang tidak terduga terjadi di dalam barak sendiri: Tovik dibawa Ondar duduk di baris depan, dan giliran cerita malam itu diserahkan kepada the Hollowed kedua — bukan oleh Sela, tapi oleh suara-suara barak yang menyepakatinya dari bawah. Tovik berdiri pelan dengan bantuan, memandang enam puluh wajah yang semuanya mengenal namanya, dan berkata:
+Pekan ketiga, hal yang tidak terduga terjadi di dalam barak sendiri: Tovik dibawa Ondar duduk di baris depan, dan giliran cerita malam itu diserahkan kepada the Hollowed kedua — bukan oleh Sela, tapi oleh suara-suara barak yang menyepakatinya dari bawah. Tovik berdiri pelan dengan bantuan, memandang enam puluh wajah yang semuanya mengenal namanya, dan berkata:
 
 "Aku tidak ingat ceritaku. Tapi kalian ingat." Jeda panjang, tangan tua itu meraba tepi bangku seperti meraba pagar. "Jadi malam ini aku mau tanya boleh atau tidak: ceritakan aku ke diriku. Aku duduk di sini, aku dengar, dan kalau ada yang salah, kalian betulkan besok. Aku percaya kalian."
 

@@ -13,7 +13,7 @@ Tapi sesi yang paling ramai justru milik dua guru tamu:
 
 Renn-Ashvarok, dengan mata pelajaran yang tidak ada di kurikulum mana pun di dunia: MENYAPA DARI DUA SISI.
 
-"Minggu lalu aku menyapa nat pasar," kata Renn kepada para murid. "Dan sambil menyapa, Kak Raja di dalam menilai retakannya. Jadi ada yang bicara, dan ada yang memeriksa — dalam satu tubuh, pada waktu yang sama."
+"Pekan lalu aku menyapa nat pasar," kata Renn kepada para murid. "Dan sambil menyapa, Kak Raja di dalam menilai retakannya. Jadi ada yang bicara, dan ada yang memeriksa — dalam satu tubuh, pada waktu yang sama."
 
 Seorang murid Aru mengangkat tangan: "Kalau bertengkar gimana?"
 
@@ -69,7 +69,7 @@ Murid angkatan 3: 52 aktif, termasuk Vessia Morra yang minggu ini menenun surat 
 
 Dan satu catatan dari ibu Tamma di buku dapur:
 
-'Minggu ini dapur melayani 9 budaya. Semua sup habis. Tidak ada perkelahian.
+'Pekan ini dapur melayani 9 budaya. Semua sup habis. Tidak ada perkelahian.
 
 Kesimpulan: dunia bisa duduk bareng kalau mejanya cukup panjang.'
 

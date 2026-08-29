@@ -86,7 +86,7 @@ Di aula, kursi seribu sudah tersusun melingkar. Di dapur, panci-panci besar mula
 
 *Hari 757. Tamu tak diundang pertama: jabatan Pembaca Tua, individu kesembilan belas atau kedua puluh (masih diverifikasi; jabatannya memang begitu). Membawa: satu amplop, satu permintaan, dan bukti bahwa teori dapur-dapur-sejarah benar.*
 
-*Catatan untuk Kak Ashvarok: dunia datang ke pembacaan ini membawa banyak hal — kemarahan, duka, spanduk, kursi. Dan ternyata juga membawa koreksi untuk dirinya sendiri. Aku mulai percaya malam Sabtu* — *maaf, malam Rabat* — *akan menjadi malam yang kita butuhkan semua, termasuk bagi mereka yang datang untuk membenci.*
+*Catatan untuk Kak Ashvarok: dunia datang ke pembacaan ini membawa banyak hal — kemarahan, duka, spanduk, kursi. Dan ternyata juga membawa koreksi untuk dirinya sendiri. Aku mulai percaya malam Rabat akan menjadi malam yang kita butuhkan semua, termasuk bagi mereka yang datang untuk membenci.*
 
 *(Dicoret dan diganti): akan menjadi malam yang kita butuhkan semua. Termasuk bagi mereka yang datang membenci.*
 ---

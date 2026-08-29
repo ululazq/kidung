@@ -9,7 +9,7 @@ Barim mengajari Ashvarok mendengar tanpa harga, dan pelajarannya dimulai dengan 
 
 Pelajaran pertama berlangsung seminggu. Ashvarok — raja seribu tahun, pemegang the Walking Key — dilarang menggunakan satu helai tenunan apa pun. Hanya telapak rata, napas lebih lambat dari batu, dan kesabaran yang oleh Barim disebut "bekerja sebenarnya".
 
-Minggu pertama: tidak mendengar apa-apa. Minggu kedua: bunyi-bunyi tambang biasa. Minggu ketiga: sesuatu bergeser — dan Ashvarok mengalami hal yang membuatnya menulis di Hourglass dengan huruf besar:
+Pekan pertama: tidak mendengar apa-apa. Pekan kedua: bunyi-bunyi tambang biasa. Pekan ketiga: sesuatu bergeser — dan Ashvarok mengalami hal yang membuatnya menulis di Hourglass dengan huruf besar:
 
 HARI 389. ADA BUNYI DI NAT BARAT YANG SELAMA INI TIDAK PERNAH KUBACA DENGAN WALKING KEY. Bukan karena Walking Key lemah — tapi karena ia membaca LEBIH DALAM dari permukaan dan melewatkan lapisan dangkal tempat hal-hal kecil hidup. Nat ini penuh suara kecil: air tetesan jauh, getar akar, dan... irama tenang tamu kita yang rutin menunggu di sini tiap malam. Semua ini ada di permukaan. Seribu tahun aku membaca dunia terlalu dalam dan melewatkan permukaannya.
 

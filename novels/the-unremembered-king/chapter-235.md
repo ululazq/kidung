@@ -95,7 +95,7 @@ Dataran tengah katanya mau digabung panen. Pesisir bicara lewat getar air. Ada w
 
 Bicara. Ke. Api.
 
-Minggu depan kita cari tahu.
+Pekan depan kita cari tahu.
 
 ---
 

@@ -78,7 +78,7 @@ Ashvarok mendengarkan sampai selesai, lalu menjawab dengan pengalaman dua kehidu
 ---
 
 Kelompok pendukung pemulang pertama terbentuk malam itu tanpa direncanakan: Sarneth, Barim (yang tahu rasanya kehilangan delapan belas tahun), Tovik (yang tahu rasanya dibangunkan), dan Lissa (yang tahu rasanya menemukan karyanya sudah setengah jadi) — empat orang yang menyebut diri mereka "Klub Delapan Belas Tahun". Syarat masuknya satu: pernah ketinggalan dunia.
-"Dapur kita di rumah Sarneth, tiap Rabu," kata Tovik. "Ibunya yang masak." Jeda. "Bukan ibunya aku — maksudku ibu Sarneth. Eh." Ia menyerah pada kalimatnya. "Pokoknya ada yang masak."
+"Dapur kita di rumah Sarneth, tiap Kapat," kata Tovik. "Ibunya yang masak." Jeda. "Bukan ibunya aku — maksudku ibu Sarneth. Eh." Ia menyerah pada kalimatnya. "Pokoknya ada yang masak."
 
 ---
 
@@ -87,7 +87,7 @@ Dan penutup bab — catatan Sela di Hourglass yang merangkum pemulangan pertama 
 - 1 jiwa dipulangkan: Sarneth.
 - 5 gerabah dibakar setelah menunggu 18 tahun.
 - 1 keluarga dapat meja panjang penuh lagi tiap malam makan.
-- 1 klub baru berdiri (Klub Delapan Belas Tahun; anggota 4; jadwal Rabu; tempat rumah Sarneth).
+- 1 klub baru berdiri (Klub Delapan Belas Tahun; anggota 4; jadwal Kapat; tempat rumah Sarneth).
 - 1 raja mendapat teman curhat baru.
 - Protokol diperbaiki dari kegagalan nyaris: mahal harganya, tapi sepadan."
 
@@ -95,13 +95,13 @@ Dan penutup bab — catatan Sela di Hourglass yang merangkum pemulangan pertama 
 
 Sisa tiga ratus kata — diisi satu adegan yang menutup lingkaran emosional pemulangan pertama: kunjungan kedalaman terakhir sebelum bab berakhir.
 Ashvarok turun malam itu untuk melapor — sesuai pasal baru: setiap pemulangan dilaporkan langsung kepada penitipnya, dengan hasil.
-"Sarneth sudah pulang," katanya lewat Listen. "Gerabahnya dipakai. Keluarganya berkumpul. Dia ikut klub Rabu."
+"Sarneth sudah pulang," katanya lewat Listen. "Gerabahnya dipakai. Keluarganya berkumpul. Dia ikut klub Kapat."
 Sapuan menjawab dengan irama panjang yang diterjemahkan Kovan besoknya — dan terjemahannya ditulis Sela di dinding gudang perkakas, di samping peta nama, karena kalimat itu pantas dibaca semua orang:
 "Terima kasih. Delapan belas tahun aku jaga dia supaya tidak rusak. Kalian yang menjaganya supaya tidak kesepian. Kerja bagus, kedua tim."
 
 ---
 
-Sisa dua ratus kata — diisi satu adegan terakhir yang menutup bab dengan cara Caldrest: malam Rabu pertama Klub Delapan Belas Tahun, di dapur rumah Sarneth.
+Sisa dua ratus kata — diisi satu adegan terakhir yang menutup bab dengan cara Caldrest: malam Kapat pertama Klub Delapan Belas Tahun, di dapur rumah Sarneth.
 Anggota: empat. Menu: sup resep lama utara (dibawa Lissa). Agenda: tidak ada — dan justru karena tidak ada, percakapannya mengalir tiga jam: soal harga yang naik, soal anak ayam yang sekarang warnanya beda, soal lagu yang dulu enak tapi sekarang terdengar aneh.
 Di tengah percakapan, Tovik berkata kalimat yang dirangkum Sela sebagai inti seluruh klub:
 "Kalian tidak ngerasa aneh kan, kita empat orang yang paling ketinggalan zaman di Karvess ngumpuk makan sup?"
@@ -114,4 +114,4 @@ Angka catatan teh akhirnya masuk arsip resmi — dengan keterangan yang ibu Tamm
 Dan baris penutup bab 196 — entri Hourglass terakhir, ditulis Ashvarok setelah pulang dari dapur Sarneth:
 Hari 386. Malam ini aku belajar definisi pemulangan yang benar dari empat orang tua di atas sup: bukan kembali ke dunia seperti dulu — karena dunia sudah jalan delapan belas tahun tanpa menunggu.
 Pemulangan yang benar adalah: menemukan tempat baru di dunia yang baru, bersama orang-orang yang paham harga tiketnya.
-Klub Delapan Belas Tahun, Rabu pertama: resmi berdiri. Dan Caldrest punya institusi ke-35.
+Klub Delapan Belas Tahun, Kapat pertama: resmi berdiri. Dan Caldrest punya institusi ke-35.

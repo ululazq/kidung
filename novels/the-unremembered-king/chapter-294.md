@@ -147,7 +147,7 @@ Seorang penduduk Karung, lewat warung malam, mencatat di buku desa: *Hari ini ti
 
 Dan nat lorong di ujung desa menyala hangat, mencatat kalimat yang sama dengan Yang Dulu Sunyi di barak utara: *sengketa selesai dari bawah.* Dua batu di dua tempat berbeda, satu getaran yang sama — dunia mulai menjaga kebiasaannya tanpa menunggu satu pun suara dari atas.
 
-Minggu berikutnya, Mak Sur menulis buku kecil berjudul *Cara Karung Musyawarah* — lima halaman, tulisan tangan, isinya cara mereka selesaikan sengketa tanpa arbiter. Buku itu dikirim ke delapan desa tetangga lewat pos nat. Salah satu desa membalas: *Kami punya sengketa serupa. Boleh kami coba cara kalian?*
+Pekan berikutnya, Mak Sur menulis buku kecil berjudul *Cara Karung Musyawarah* — lima halaman, tulisan tangan, isinya cara mereka selesaikan sengketa tanpa arbiter. Buku itu dikirim ke delapan desa tetangga lewat pos nat. Salah satu desa membalas: *Kami punya sengketa serupa. Boleh kami coba cara kalian?*
 
 Mak Sur membalas singkat: *Buku ini bukan aturan. Hanya cara kami. Tiap desa punya balainya sendiri. Duduk, dengar, putus bersama.*
 

@@ -89,7 +89,7 @@ Maera Tull, lewat nat: "Hutang angka lorong tujuh mau dilunasi pakai apa?" — T
 
 ---
 
-Pertanyaan yang paling ditunggu — oleh seluruh kota, tapi terutama oleh dua orang — diajukan malam Sabtu, setelah cerita sore selesai:
+Pertanyaan yang paling ditunggu — oleh seluruh kota, tapi terutama oleh dua orang — diajukan malam Rabat, setelah cerita sore selesai:
 
 Sela, suaranya kecil: "Kak Renn. Kalau kau bangun nanti... kau mau tinggal dengan kami lagi?"
 

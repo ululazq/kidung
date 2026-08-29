@@ -17,7 +17,7 @@ Dia tidak bisa menjawab satu pun, jadi dia melakukan hal yang paling tidak sama 
 
 Sementara menghitung, daftar yang selama ini tinggal di kepala dia memaksa untuk ditulis ulang, dan Sela mengalah pada paksaan itu seperti biasa. Dia membuka papan tulis di pangkuan, punggung membelakangi pintu supaya tulisannya tidak terbaca siapa pun lewat bahu, dan mengecek ulang item-item yang sudah dikumpulkan sejak musim panen, satu per satu, dengan tanggal.
 
-Minggu pertama panen. Renn berhenti bernyanyi saat mencuci. Dulu laginya tidak pernah benar, tapi ada. Kenapa hilang? Kenapa orang berhenti bernyanyi?
+Pekan pertama panen. Renn berhenti bernyanyi saat mencuci. Dulu laginya tidak pernah benar, tapi ada. Kenapa hilang? Kenapa orang berhenti bernyanyi?
 
 Dua minggu. Cara jalan di ambang pintu berubah. Dulu kakinya mulai dari kanan, lompat sedikit, seperti anak yang buru-buru ke mana-mana. Sekarang kiri dulu, rapi, seperti Brannoc. Kenapa kakakku jalan seperti prajurit tua?
 

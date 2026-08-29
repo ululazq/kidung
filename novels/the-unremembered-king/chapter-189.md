@@ -66,7 +66,7 @@ Lanjutan bab 189.
 
 Sejarawan Spire itu akhirnya datang juga — dan menjadi kasus pertama yang menguji seluruh sistem: Profesor Eddar Vunn, sejarawan senior yang telah menulis tujuh buku tentang era Long Dusk, datang dengan sikap sejarawan besar ke kota kecil.
 
-Minggu pertamanya di Caldrest, menurut saksi, ia bertanya tiga kali kenapa arsip disimpan "di tempat sembarangan seperti dapur barak". Minggu kedua ia berhenti bertanya. Minggu ketiga ia ditemukan duduk di Panggung Dapur mencatat cerita ibu Tamma tentang masa karantina — dan di margin catatannya ada kalimat yang Sela temukan ketika sang profesor pamit pulang:
+Pekan pertamanya di Caldrest, menurut saksi, ia bertanya tiga kali kenapa arsip disimpan "di tempat sembarangan seperti dapur barak". Pekan kedua ia berhenti bertanya. Pekan ketiga ia ditemukan duduk di Panggung Dapur mencatat cerita ibu Tamma tentang masa karantina — dan di margin catatannya ada kalimat yang Sela temukan ketika sang profesor pamit pulang:
 
 "Tujuh buku saya punya satu kesimpulan besar yang salah. Saya menulis bahwa rakyat tambang pasif terhadap sejarah. Mereka tidak pasif. Mereka sibuk MENYIMPAN — hanya saja tidak untuk sejarawan seperti saya."
 
@@ -75,7 +75,7 @@ Buku kedelapan Profesor Vunn, diterbitkan dua tahun kemudian, berjudul "Yang Dis
 ---
 
 Ashvarok menutup bab ini dengan entri yang merenungkan perubahan terbesar pada orang termudah diabaikan:
-Hari 412. Minggu ini aku mengamati tiga kepemimpinan bekerja bersamaan: Hale di balai kota, Sela di arsip, ibu Tamma di dapur. Tidak satu pun dari mereka memegang seni raja. Semua memegang sesuatu yang lebih langka: keputusan yang konsisten.
+Hari 412. Pekan ini aku mengamati tiga kepemimpinan bekerja bersamaan: Hale di balai kota, Sela di arsip, ibu Tamma di dapur. Tidak satu pun dari mereka memegang seni raja. Semua memegang sesuatu yang lebih langka: keputusan yang konsisten.
 Seribu tahun silam Hegemony percaya dunia digerakkan oleh kekuatan. Karvess delapan belas bulan terakhir membuktikan sebaliknya: dunia dirawat oleh orang-orang yang datang setiap hari dan melakukan hal yang sama tanpa jemu.
 Kekuatan bisa disegel. Konsistensi tidak.
 

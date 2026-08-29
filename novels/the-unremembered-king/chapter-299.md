@@ -3,7 +3,7 @@ title: "Bab 299: Suara yang Memanggil ke Depan"
 chapter: 299
 ---
 
-Minggu pertama buku anomali disebar lewat jaringan Sekolah Mendengar berakhir dengan sembilan desa melapor. Delapan menjawab *ya, tiga detik*. Satu desa di lembah selatan jauh menjawab dengan cara yang tidak diajarkan siapa pun: seorang anak sembilan tahun bernama Widur Kecil — bukan anak Widur si jiwa selatan, hanya kebetulan nama — mengirim lewat nat desanya satu kalimat yang dibacakan Guru Mendengar setempat lalu diteruskan ke Caldrest.
+Pekan pertama buku anomali disebar lewat jaringan Sekolah Mendengar berakhir dengan sembilan desa melapor. Delapan menjawab *ya, tiga detik*. Satu desa di lembah selatan jauh menjawab dengan cara yang tidak diajarkan siapa pun: seorang anak sembilan tahun bernama Widur Kecil — bukan anak Widur si jiwa selatan, hanya kebetulan nama — mengirim lewat nat desanya satu kalimat yang dibacakan Guru Mendengar setempat lalu diteruskan ke Caldrest.
 
 *Detak utama ada. Tetapi aku dengar yang cepat bicara. Ia bilang ke depan, bukan ke belakang. Ia panggil orang yang belum datang.*
 

@@ -1,6 +1,6 @@
 # World State: The Unremembered King
 
-Terakhir diperbarui: bab 336
+Terakhir diperbarui: bab 341
 Arc aktif: Arc 2 — The Choir's Summons
 
 ## Status thread baru (bab 296-311): Buku Anomali
@@ -116,7 +116,7 @@ SIAPA TAHU APA BARU (bab 146-150): rute Spire sebagai pemberi kerja tim panener 
 | 2 | Utang 96 shardmark + tanggungan Sela pada kontrak Renn | Arc 1 (bab 7/18: Tharrow memeras lewat kontrak) |
 | 2 | Panggilan Tharrow: investigasi privat sebelum pendataan | Arc 1 (bab 3–7: tekanan harian) |
 | 3 | Mimpi Sela "ash man" berhenti di angka 12 ("kalau 13, bangunkan aku") | Arc 1 (bab 13–14; angka 13 = momen bahaya Hollowing) |
-| 3 | Shift Selasa lorong sembilan bawah + syarat Brannoc "lapor sebelum dengar" | Arc 1 (bab 5) |
+| 3 | Shift Dua lorong sembilan bawah + syarat Brannoc "lapor sebelum dengar" | Arc 1 (bab 5) |
 | 3 | Ashvarok butuh Emberweave karena Resonance tak praktis | Arc 1 (bab 6: uji Cinder) |
 | 4 | Inti bor ketiga + catatan "Seperti... paru?" diselundupkan Maera | Arc 1 (bab 11/17: pertukaran info dengan Ashvarok) |
 | 4 | Segel lilin Choir pada map survei; halaman peta bawah dipotong | Arc 1 (bab 13/17–21) |
@@ -188,7 +188,7 @@ SIAPA TAHU APA BARU (bab 146-150): rute Spire sebagai pemberi kerja tim panener 
 | 40 | Surat kursi biro untuk Maera: tenggat jawaban 10 hari; belum ada kepala biro dari lapangan dalam 30 tahun ("pengecualian atau jawaban masalah"); lot catatan-panjang Ashvarok direncanakan | Arc 2 (bab 41/46: konflik pilihan Maera) |
 | 41 | Dinding "blind door" = Forge tipis yang akan mengelupas seperti retakan tua dalam minggu-minggu; perempuan tua Spire sempat curiga tapi tidak memeriksa ulang | Arc 2 (bab 59–60: hari-H) |
 | 42 | Sunyi tujuh detik + pegawai Spire pulih dari lupa sembilan detik — Hollowing menyentuh orang luar; irama antargejala memendek dari bulan → hari | Arc 2 (bab 50/56: gejala permukaan & insiden sunyi barak) |
-| 43 | Lempleng cadangan tak tercatat Kovan + uji pribadi Renn dijadwalkan pergantian shift Sabtu malam, tanpa izin, hasil tak akan ditulis | Arc 2 (bab 46+: uji pribadi Kovan) |
+| 43 | Lempleng cadangan tak tercatat Kovan + uji pribadi Renn dijadwalkan pergantian shift malam Rabat, tanpa izin, hasil tak akan ditulis | Arc 2 (bab 46+: uji pribadi Kovan) |
 | 44 | Sanggahan kolektif satu paket (31 keluarga); daftar 19 nama anak di belakang papan Sela; tawaran klinik sebagai tempat rapat anak-anak | Arc 2 (bab 47+: karantina/ekonomi tertekan) |
 | 45 | Abu pengingat-lagu di telapak tangan Ashvarok (seratus suara era Hegemony) — bisa dibaca pembaca yang tepat | Arc 2+ (bab ~48+: tangan yang paham seni raja) |
 | 45 | Ossian yakin seam = saksi hidup + mencatat sosok berjalan tenang menuju tambang selama jam hilang; janji "besok banyak prosedur" | Arc 2 (bab 46–48: karantina; bab 57: profil "old warden") |
@@ -316,7 +316,7 @@ SIAPA TAHU APA BARU (bab 146-150): rute Spire sebagai pemberi kerja tim panener 
 | Tharrow memanggil Renn untuk investigasi privat | Tharrow, Renn/Ashvarok | 2 |
 | Investigasi selesai tanpa tuduhan; Tharrow mencatat jawaban Renn terlalu terstruktur | Tharrow | 3 |
 | Sela bercerita mimpi ash man ke "Renn"; Ashvarok tahu itu gejala Hollowing | Sela (mimpi+cerita), Ashvarok (maknanya) | 3 |
-| Brannoc setuju menurunkan Renn shift dasar (Selasa, lorong 9 bawah) | Brannoc, Renn/Ashvarok | 3 |
+| Brannoc setuju menurunkan Renn shift dasar (Dua, lorong 9 bawah) | Brannoc, Renn/Ashvarok | 3 |
 | Anomali L9B masuk daftar perhatian Guild; Maera ditugaskan ke Caldrest | Maera, kepala biro Guild | 4 |
 | Choir membaca map survei Caldrest lebih dulu (segel tin thread) | hanya Maera (dugaan kuat) | 4 |
 | Panen ilegal + lilin tin thread ditemukan di L9B | Brannoc, Ondar, Renn/Ashvarok; tidak dilaporkan | 5 |
@@ -343,7 +343,7 @@ SIAPA TAHU APA BARU (bab 146-150): rute Spire sebagai pemberi kerja tim panener 
 | Maera ditawari kursi biro di Spire (tenggat 10 hari); belum menjawab; cerita ke Renn & Sela | Maera, Renn/Ashvarok, Sela; kepala biro (pengirim) | 40 |
 | Turun kedalaman perdana terbaca salah-tapi-masuk-akal (counter-map bekerja); blind door terbaca monolit; titik 7 tetap benar | tim Spire, Maera, Kovan (resmi); Brannoc & Renn/Ashvarok (pelakunya) | 41 |
 | Sunyi 7 detik di tingkat troli + pegawai Spire lupa nama sendiri 9 detik lalu PULIH — Hollowing menyentuh orang luar | Renn/Ashvarok (pengalih), Kovan (menghitung), Maera (diam-menghitung); korban tidak sadar; TIDAK masuk catatan survei | 42 |
-| Kovan menyimpulkan: bukan alat yang rusak — ada pemain; pusatnya furnace boy; akan menguji Renn pribadi Sabtu malam tanpa izin | hanya Kovan (kertas buram) | 43 |
+| Kovan menyimpulkan: bukan alat yang rusak — ada pemain; pusatnya furnace boy; akan menguji Renn pribadi malam Rabat tanpa izin | hanya Kovan (kertas buram) | 43 |
 | Anggaran pendidikan Quiet Vein dipotong untuk biaya penilaian ulang timur; semua kontrak sekolah dibuka ulang meski lunas; Harn-748 (asrama utara) ditandai | seluruh barak/komunitas; Brannoc memimpin sanggahan kolektif 31 keluarga | 44 |
 | Malam lagu: seam "menyanyi" publik satu tarikan napas — separuh shift mendengar dan lupa SATU JAM (nama utuh, pulih — beda dari the Hollowed); cerita resmi "old gas" | separuh shift Caldrest (korban jam hilang), Brannoc & Renn/Ashvarok (penyebar cerita), Ossian Vael (mendengar penuh dari lereng timur + yakin saksi hidup + mencatat sosok berjalan tenang menuju tambang), Sela (tahu malam bukan biasa via lonjakan Hourglass & janji cerita) | 45 |
 | Ashvarok memendekkan durasi lagu dengan Ash besar melalui jalur mikro tirisan garam; vein-scar kanan MELEWATI siku; abu pengingat-lagu di telapak tangan | hanya Ashvarok (+Sela tahu lonjakan garis & janji cerita; Brannoc tahu ia turun malam itu) | 45 |

@@ -71,7 +71,7 @@ Mira menulis di sisi buku: *Saat selatan diawasi, menara ikut berdenyut setengah
 
 Maera tiba tiga hari kemudian membawa koper pos, dan kain tenun dari dua anak selatan diselipkan di balik surat biasa. Ashvarok-Renn membukanya di serambi, angin selatan membawa kalimat keluar.
 
-*Minggu pertama: pola tetap tiga napas tiap subuh. Orang luar datang dua kali, ambil buku kepala desa, tidak sebut nama. Kami lihat wajah satu: perempuan bertahi lalat di dagu, pakai jubah tanpa cap. Bukan tentara, bukan pendudang. Kami tetap hitung, tidak tanya.*
+*Pekan pertama: pola tetap tiga napas tiap subuh. Orang luar datang dua kali, ambil buku kepala desa, tidak sebut nama. Kami lihat wajah satu: perempuan bertahi lalat di dagu, pakai jubah tanpa cap. Bukan tentara, bukan pendudang. Kami tetap hitung, tidak tanya.*
 
 Ashvarok-Renn menoleh pada Kovan. "Perempuan tanpa cap. Bukan Choir langsung, mungkin perantara. Catat wajahnya di bible, bila suatu hari muncul di utara."
 

@@ -15,7 +15,7 @@ Barat laut: 3, 3, 3, 3, 3, 3, 3 — setelah koreksi kayu basah, semua kembali 3.
 
 Ashvarok-Renn menatap angka itu. Terlalu rapi berarti tidak ada yang berubah — dan jika tidak ada yang berubah, tidak ada yang bisa dibaca. Jaringan diam berhasil membuat barak tidak lelah, tetapi juga membuat detak bayangan tidak terlihat.
 
-"Detak bayangan berlari lebih dulu," katanya. "Minggu ini kita tahan satu hentakan bersama, dan detak bayangan tidak berlari. Apakah ia hilang, atau hanya menunggu kita lepas?"
+"Detak bayangan berlari lebih dulu," katanya. "Pekan ini kita tahan satu hentakan bersama, dan detak bayangan tidak berlari. Apakah ia hilang, atau hanya menunggu kita lepas?"
 
 Sela mengerti maksudnya.
 

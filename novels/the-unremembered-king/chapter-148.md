@@ -63,7 +63,7 @@ Brannoc mendengarkan sampai selesai, mengunyah akar pahitnya habis, lalu berkata
 
 Brannoc memandang papan tulis itu, lalu mandor tua itu tertawa pendek, tanpa senyum, seperti prajurit yang melihat ukuran pekerjaan di depannya.
 
-"Dua malam," katanya. "Barak timur itu bisa dikumpulkan dalam dua malam kalau jalurnya lewat dapur dan lewat anak-anak sekolah klinik. Orang bercerita di dapur lebih gampang daripada di gereja mana pun."
+"Dua malam," katanya. "Barak timur itu bisa dikumpulkan dalam dua malam kalau jalurnya lewat dapur dan lewat anak-anak sekolah klinik. Orang bercerita di dapur lebih gampang daripada di kuil mana pun."
 
 "Ibu Tamma yang pegang dapur," kata Sela. "Aku pegang name train." Lalu gadis itu menoleh ke Ashvarok, dan ada sesuatu yang berubah di wajahnya, sesuatu yang lebih tua daripada usia sebelas tahun, yaitu suara orang yang menagih utang kepercayaan. "Tapi Kak harus putuskan satu hal dulu sebelum kita mulai. Ini bukan hanya latihan seni kita lagi. Kita minta seluruh barak bercerita untuk sebuah pintu yang mereka tidak tahu fungsinya apa, dan cerita mereka itu bakal jadi tembok nyata yang menahan sesuatu yang mau memakan nama mereka. Itu artinya kita minta kota percaya sama kita, diam-diam, bulat-bulat." Kapurnya berhenti di atas papan. "Aku siap. Aku hanya mau Kakak bilang dulu, apa kita benar-benar sanggup menerima kepercayaan segitu."
 

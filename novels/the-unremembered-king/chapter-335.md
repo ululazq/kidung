@@ -21,13 +21,13 @@ Ashvarok-Renn membacanya di serambi. Wajahnya tidak berubah, tapi jari telunjukn
 
 "Berapa lama sebelum mereka bedakan the Survivor?" tanya Kovan.
 
-"Minggu ini mungkin masih kasar," kata Ashvarok-Renn. "Tapi bila satu dari mereka paham napas lebih pelan setengah hitungan, perempuan tua di danau garam tidak aman."
+"Pekan ini mungkin masih kasar," kata Ashvarok-Renn. "Tapi bila satu dari mereka paham napas lebih pelan setengah hitungan, perempuan tua di danau garam tidak aman."
 
 Gella mendekat membawa buku pemulihan. "Kau the Bearer," katanya. "Napas masih tiga. Tapi bila kau turun ke utara sekarang, the Wanes akan ukur kau juga. Jangan."
 
 "Tidak ke utara," kata Ashvarok-Renn. "Kita kerjakan dari sini. Suruh murid Ossian bawa perempuan tua itu ke rawa bila pola ukur mendekat danau garam."
 
-Ossian mengirim kain tenun panjang lewat Maera: *The Wanes di utara kini pegang pergelangan dan hitung napas saat tidur. Kasar, tapi mereka sudah tahu napas beda dari detak. Di desa kelima, mereka bawa pergi seorang tua karena 'napasnya aneh' — ternyata bukan the Survivor, cuma orang sesak napas. Tapi arah mereka benar. Jendela tinggal hitungan hari.* 
+Ossian mengirim kain tenun panjang lewat Maera: *The Wanes di utara kini pegang pergelangan dan hitung napas saat tidur. Kasar, tapi mereka sudah tahu napas beda dari detak. Di desa kelima, mereka bawa pergi seorang tua karena 'napasnya aneh' — ternyata bukan the Survivor, hanya orang sesak napas. Tapi arah mereka benar. Jendela tinggal hitungan hari.* 
 
 Ashvarok-Renn menunjukkan kain itu pada Sela. "Hitungan hari," katanya. "Kita harus pastikan #4 resmi terjaga sebelum mereka paham bedanya."
 

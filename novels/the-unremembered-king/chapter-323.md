@@ -71,7 +71,7 @@ Brannoc mengumpulkan dua belas anak di halaman barak utara, pengait besi dan bel
 
 "Jaga bukan berarti hadir di tempat. Jaga berarti tahu kapan harus pergi supaya bisa kembali besok." Brannoc menatap mereka satu per satu. "Guru mengajar: irama yang kita jaga tak perlu dilihat mata. Bila kau mati di tengah, kau tak jaga apa pun."
 
-Harn berdiri di sampingnya, memegang pengait. "Aku dulu kira bel ini cuma alat," katanya pelan. "Sekarang aku tahu ia bahasa yang membuat dua belas anak jadi satu tubuh. Kau tak perlu lihat mereka untuk tahu mereka awas."
+Harn berdiri di sampingnya, memegang pengait. "Aku dulu kira bel ini hanya alat," katanya pelan. "Sekarang aku tahu ia bahasa yang membuat dua belas anak jadi satu tubuh. Kau tak perlu lihat mereka untuk tahu mereka awas."
 
 Di sudut, Gella menarik Sela ke bangku, buku pemulihan dan seutas benang di tangan. "Kau akan belajar ukur napas the Bearer," katanya. "Bukan dengan alat, tapi dengan dengar. Letakkan telinga dekat dada, hitung saat dada naik ke bawah, ulang tiga kali, ambil angka tengah."
 

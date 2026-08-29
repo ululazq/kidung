@@ -9,7 +9,7 @@ Ossian menyambut sesuai protokol. Pembaca Tua menerima salamnya dengan anggukan 
 
 "Arsip dulu. Batu nanti."
 
-Empat kata, dan Ashvarok yang mendengar laporan kalimat itu lewat lot Maera jam sepuluh membiarkan napasnya keluar perlahan untuk pertama kali sejak Jumat.
+Empat kata, dan Ashvarok yang mendengar laporan kalimat itu lewat lot Maera jam sepuluh membiarkan napasnya keluar perlahan untuk pertama kali sejak Kapat.
 
 Pembacaan berjalan di ruang arsip Quota Office dari pagi sampai sore, dan Caldrest belajar menakungi jenis ketakutan baru: menakungi orang yang bekerja sangat pelan. Wanita tua itu membaca dengan jarinya menyentuh tepi setiap halaman, membaca utuh, tidak melompat — dan tumpukan yang disusun Maera menjalankan tugasnya seperti mesin yang dirancang baik: register lisensi dulu, ribuan nama pekerja tambang yang tidak menarik siapa pun; catatan klasifikasi segmen; keberatan-keberatan Guild; dan di sana, di posisi yang dihitung Maera mati-matian supaya jatuh tepat setelah jam makan siang ketika pembaca lelah dan paling jujur kepada urutan, berita acara hari-H.
 

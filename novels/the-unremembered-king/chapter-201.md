@@ -17,7 +17,7 @@ Seorang murid — Harn, yang delapan bulan lalu tidak yakin dirinya berhak masuk
 
 Ashvarok mengajar jalur untaian di pagi hari; Sareth dan Barim mengajar telapak di sorenya. Murid-murid berpindah ruang, dan objek-objek latihan ikut berpindah bersama mereka — benda-benda yang disumbangkan warga Caldrest setelah mendengar akademi butuh: alat tenun Lissa yang kedua, palu pandai besi tua, cangkir retak milik ibu Tamma yang ia sumbangkan dengan syarat "balikin setelah latihan, itu cangkir enak".
 
-Hasil perbandingan pertama dicatat Kovan dengan angka-angkanya, dan pada Jumat malam, penghitung itu memaparkan temuannya di meja panjang dengan wajah orang yang menemukan angka yang salah tapi sudah dicek tiga kali. Ia membuka rapat tanpa salam, sesuatu yang tidak pernah ia lakukan:
+Hasil perbandingan pertama dicatat Kovan dengan angka-angkanya, dan pada malam Kapat, penghitung itu memaparkan temuannya di meja panjang dengan wajah orang yang menemukan angka yang salah tapi sudah dicek tiga kali. Ia membuka rapat tanpa salam, sesuatu yang tidak pernah ia lakukan:
 
 "Sebelum kalian makan, aku mau kalian dengar ini dalam keadaan sadar dan duduk." Ia menyalakan lilin kedua di depannya — kebiasaan baru akademi: dua lilin artinya dua jalur, dan malam ini keduanya menyala untuk satu laporan. "Murid-murid jalur telapak membaca LEBIH DALAM darinya."
 

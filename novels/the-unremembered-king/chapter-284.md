@@ -29,7 +29,7 @@ Ia melihat wajah-wajah muda itu satu per satu.
 
 Mata pelajaran musim ketiga — mendengarkan yang tidak bicara — ternyata kelas yang paling banyak mengubah murid-muridnya.
 
-Minggu pertama: praktik di klinik Gella, menyapa tubuh pasien the Hollowed yang mengizinkan. Minggu kedua: ziarah makam-makam tanpa nama di tepi tambang lama, membaca daftar-daftar yang ditulis kapur, belajar dari kamp-kamp pesisir cara menjaga nama tanpa batu. Minggu ketiga: Akademi Arsip, membaca arsip diam Pembaca Tua — dua belas gulungan pertanyaan kotak hati yang sampai hari ini masih tujuh belum terjawab.
+Pekan pertama: praktik di klinik Gella, menyapa tubuh pasien the Hollowed yang mengizinkan. Pekan kedua: ziarah makam-makam tanpa nama di tepi tambang lama, membaca daftar-daftar yang ditulis kapur, belajar dari kamp-kamp pesisir cara menjaga nama tanpa batu. Pekan ketiga: Akademi Arsip, membaca arsip diam Pembaca Tua — dua belas gulungan pertanyaan kotak hati yang sampai hari ini masih tujuh belum terjawab.
 
 Murid termuda angkatan itu — laki-laki lima belas tahun, anak pedagang ikan pasar Caldrest yang dulu membacakan jawaban nomor sembilan belas di atas meja — mengajukan pertanyaan pada minggu ketiga yang oleh Sela dicatat langsung ke arsip resmi:
 

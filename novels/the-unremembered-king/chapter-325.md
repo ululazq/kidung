@@ -11,7 +11,7 @@ Kepala desa mengerutkan dahi. "Orang luar itu juga catat angin. Tapi mereka baya
 
 "Murid tidak dibayar untuk belajar," kata anak itu, lalu kembali menunduk. Kepala desa pergi tanpa menanya lagi, tapi anak pertama tahu ia harus lebih hati-hati.
 
-Anak kedua menulis di kain tenun malam itu: *Hampir ketahuan kepala desa. Aman untuk sekarang. Orang luar bayar desa untuk catatan angin — berarti mereka beli pola, bukan bikin. Desa hanya alat catat.*
+Anak kedua menulis di kain tenun malam itu: *Hampir ketahuan kepala desa. Aman untuk sekarang. Orang luar bayar desa untuk catatan angin — berarti mereka beli pola, bukan membuat. Desa hanya alat catat.*
 
 Maera meneruskan kain itu ke barak seminggu kemudian. Ashvarok-Renn membacanya di serambi. "Desa hanya alat catat," ulangnya pelan. "Sama seperti menara dulu. Choir tidak kuasai dentum, mereka hanya beli catatannya. Selama desa tidak diajari mengubah pola, mereka tidak punya kunci."
 

@@ -51,7 +51,7 @@ Ia menemukan bocah tungku lorong tujuh di belakang gudang pengangkutan pada senj
 
 "Ada kiriman dari selatan," kata Maera tanpa sapaan, karena Renn tidak percaya sapaan. "Balasan soal ayah seorang juru ukur yang mati di lorong tujuh. Keluarganya menyimpan peta tua. Peta pra-Liberation." Ia menyerahkan sketsanya. "Salinannya dalam perjalanan, sepuluh hari lagi. Ini yang saya gambar ulang dari suratnya."
 
-Renn membaca sketsa itu dengan cara yang selalu membuat Maera merasa sedang menonton dua orang bekerja dalam satu tubuh: mata membaca garis seperti Assayer, sementara jemari menelusuri kertas seperti orang membaca huruf timbul. Diamnya berlangsung cukup lama sehingga burung gereja di atap gudang sempat pindah tiga kali.
+Renn membaca sketsa itu dengan cara yang selalu membuat Maera merasa sedang menonton dua orang bekerja dalam satu tubuh: mata membaca garis seperti Assayer, sementara jemari menelusuri kertas seperti orang membaca huruf timbul. Diamnya berlangsung cukup lama sehingga burung pipit di atap gudang sempat pindah tiga kali.
 
 "Delapan banding tiga," kata bocah itu akhirnya. "Ambang di sisi pendek. Lambang di atas pintu." Ia menatapnya. "Ini akurat. Siapa pun yang menggambar ini pernah berdiri di ruang itu."
 

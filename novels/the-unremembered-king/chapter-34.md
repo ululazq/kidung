@@ -47,7 +47,7 @@ Rekonstruksinya sendiri, tertulis tujuh tahun lebih awal oleh tangan yang bukan 
 
 Halaman-halaman berikutnya berubah tangan. Tulisan makin besar, makin miring, seolah ditulis dengan mata yang tidak melihat jelas: tangan dingin terbakar tanpa api. tidak ada kapur yang cukup. jangan jawab pakai kapak. Dan di halaman terakhir, dengan huruf yang disengaja rapi, seolah ditulis untuk dibaca orang lain: kalau aku tidak naik, kirimi anakku. ia juru ukur di kota pelabuhan selatan. angka-angka ini lebih jujur daripada aku pernah menjadi.
 
-Pak Dekan. Penambang tua yang mati di lorong ini tujuh tahun silam, yang telapak tangannya membawa luka bakar dingin sampai matinya, yang kalimatnya kini berpindah dari ingatan Brannoc ke kertas di tangan Ashvarok. Bukan nabi, bukan penjaga yang disumpah — hanya pekerja yang mendengar terlalu banyak dan tetap turun. Ashvarok menutup buku itu dengan hati-hati orang menutup mata mayat.
+Pak Dekan. Penambang tua yang mati di lorong ini tujuh tahun silam, yang telapak tangannya membawa luka bakar dingin sampai matinya, yang kalimatnya kini berpindah dari ingatan Brannoc ke kertas di tangan Ashvarok. Bukan the Messenger, bukan penjaga yang disumpah — hanya pekerja yang mendengar terlalu banyak dan tetap turun. Ashvarok menutup buku itu dengan hati-hati orang menutup mata mayat.
 
 Menurut perjanjian di gudang mandor, semua temuan turun lewat tangan Brannoc lebih dulu. Ia menggulung buku itu ke dalam bungkus lilinnya, menyelipkannya ke dada, dan memanjat kembali ke udara yang masih bernama hangat.
 
@@ -73,7 +73,7 @@ Brannoc mengunyah akar pahitnya, dan Ashvarok menunggu pertanyaan berikutnya kar
 
 "Harga," kata Brannoc. "Selalu ada harga."
 
-"Batu yang ditenun ikut menua. Retak halus. Dan retak halus itu sendiri bisa dibaca kalau pencarinya rajin — jadi lapisannya harus tipis dan tempatnya harus dipilih seperti memilih kata di surat resmi." Ashvarok menatap lengan kanannya sendiri sebentar, di mana parut vena berhenti tepat di bawah siku. "Per titik, satu pekerjaan malam. Per titik, satu hari makan yang dibakar dari tubuh ini. Empat titik yang harus dibohongi, ditambah cadangan untuk yang belum terdaftar. Minggu-minggu, bukan malam-malam."
+"Batu yang ditenun ikut menua. Retak halus. Dan retak halus itu sendiri bisa dibaca kalau pencarinya rajin — jadi lapisannya harus tipis dan tempatnya harus dipilih seperti memilih kata di surat resmi." Ashvarok menatap lengan kanannya sendiri sebentar, di mana parut vena berhenti tepat di bawah siku. "Per titik, satu pekerjaan malam. Per titik, satu hari makan yang dibakar dari tubuh ini. Empat titik yang harus dibohongi, ditambah cadangan untuk yang belum terdaftar. Pekan-pekan, bukan malam-malam."
 
 "Hourglassmu menyentuh siku."
 

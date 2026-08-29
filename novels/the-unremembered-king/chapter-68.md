@@ -3,7 +3,7 @@ title: "Bab 68: Lempeng Cadangan"
 chapter: 68
 ---
 
-Ashvarok sudah lama tahu malam itu akan datang, karena janji yang diucapkan orang yang merasa dipermalukan adalah janji yang paling tepat waktu. Tiga tanda muncul dalam sepuluh hari: Kovan berhenti mengintip pasar dan mulai membeli barang-barang kecil dengan uang pribadinya — seutas kawat tembaga, dua keping mangkuk logam tipis, lilin penyegel murah. Lempeng pengukur resminya dikirim turun ke bawah untuk kalibrasi pada hari yang tidak masuk jadwal kalibrasi. Dan pada Jumat sore, penjaga shift lorong tujuh berganti lebih cepat dari biasa, dengan rotasi yang meninggalkan persimpangan kosong selama seperempat jam pada pergantian malam Rabat.
+Ashvarok sudah lama tahu malam itu akan datang, karena janji yang diucapkan orang yang merasa dipermalukan adalah janji yang paling tepat waktu. Tiga tanda muncul dalam sepuluh hari: Kovan berhenti mengintip pasar dan mulai membeli barang-barang kecil dengan uang pribadinya — seutas kawat tembaga, dua keping mangkuk logam tipis, lilin penyegel murah. Lempeng pengukur resminya dikirim turun ke bawah untuk kalibrasi pada hari yang tidak masuk jadwal kalibrasi. Dan pada sore Kapat, penjaga shift lorong tujuh berganti lebih cepat dari biasa, dengan rotasi yang meninggalkan persimpangan kosong selama seperempat jam pada pergantian malam Rabat.
 
 Semua tanda menunjuk satu jam — malam Rabat, hari kedelapan puluh enam, pergantian shift. Tanpa izin, tanpa catatan, tanpa saksi. Persis seperti yang disusun orang itu dalam kepala sejak lama.
 

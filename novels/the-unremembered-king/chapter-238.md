@@ -51,7 +51,7 @@ Sisa: DUA WILAYAH. Dua puluh empat jiwa.
 
 Dua wilayah terakhir itu adalah pegunungan timur laut — yang sampai sekarang belum pernah dikontak siapa pun, dan yang menurut kabar penduduk sekitar "orang-orangnya bicara ke api".
 
-Minggu depan tim pertama berangkat.
+Pekan depan tim pertama berangkat.
 
 Dan kalau benar ada orang yang tiga ratus tahun silam bicara kepada api... maka satu-satunya makhluk di Karvess yang mungkin paham bahasa mereka adalah nat tua bernama Kael-Uthar — api purba lembah selatan yang delapan bulan ini belajar memasak nasi dan menyayangi anak-anak sekolah.
 
@@ -91,7 +91,7 @@ Satu hal yang membuatku menulis malam ini dari dalam tenda, dengan lilin yang di
 
 Delapan bulan silam, wilayah demi wilayah datang dengan keunikan masing-masing — lagu utara, pantun selatan, tenunan barat laut, tepuk tangan panen tengah, air pesisir — dan setiap kali aku pikir sudah melihat segalanya, dunia mengeluarkan bahasa baru dari lengan bajunya.
 
-Minggu depan: orang yang bicara ke api.
+Pekan depan: orang yang bicara ke api.
 
 Kalau benar, maka Kael-Uthar akhirnya akan bertemu saudara jauhnya — dan aku akan berdiri di antara dua api purba sebagai penerjemah manusia yang untung punya the Walking Key dan telinga yang cukup rendah hati untuk mendengar.
 

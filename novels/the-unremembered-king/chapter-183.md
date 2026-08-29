@@ -72,7 +72,7 @@ Entri: sembilan belas. Konfirmasi kedalaman: tujuh belas. Mimpi yang tidak bisa 
 ---
 
 Dan satu peristiwa kecil di akhir bulan yang tidak masuk laporan resmi mana pun, tapi yang kelak Sela sebut sebagai momen registri "berubah dari institusi menjadi organisme":
-Seorang pemimpi tua — nenek dari blok barat yang bermimpi tentang suaminya tiap Rabu — datang pada hari Rabu seperti biasa, duduk di kursi tamu kehormatan, dan menemukan bahwa di meja sudah ada satu cangkir teh kedua yang diseduh panas.
+Seorang pemimpi tua — nenek dari blok barat yang bermimpi tentang suaminya tiap Kapat — datang pada hari Kapat seperti biasa, duduk di kursi tamu kehormatan, dan menemukan bahwa di meja sudah ada satu cangkir teh kedua yang diseduh panas.
 "Untuk siapa ini?" tanyanya.
 "Untuk suami Anda," kata anak pedagang garam — murid akademi termuda — tanpa mengangkat wajah dari bukunya. "Kalau dia bisa menyimpan pamitan orang-orang delapan belas tahun... dia pasti juga bisa mencium teh. Anggap saja kita tidak tahu pasti. Tapi anggapannya gratis."
 

@@ -3,7 +3,7 @@ title: "Bab 223: Hari-Hari Setelah Seratus"
 chapter: 223
 ---
 
-Minggu pertama setelah pemulangan Vess-Morath adalah minggu yang oleh Arsip Caldrest disebut "minggu penyesuaian seratus" — dan berjalan tidak sesempurna neraca hari-H-nya.
+Pekan pertama setelah pemulangan Vess-Morath adalah minggu yang oleh Arsip Caldrest disebut "minggu penyesuaian seratus" — dan berjalan tidak sesempurna neraca hari-H-nya.
 
 Karena kenyataannya: seratus petani zaman purba yang pulang ke dunia modern tidak langsung bahagia. Beberapa dari mereka mengalami apa yang dokter tambang sebut "kelelahan kenangan" — tubuh pulih, tapi pikiran masih mengolah delapan belas tahun yang tertunda. Seorang petani berdiri di tepi ladangnya sendiri selama satu jam penuh tanpa masuk. Seorang perempuan bertanya berulang kali apakah suaminya benar-benar sudah tidak ada di dalam kedalaman — bukan karena ragu pada jawabannya, tapi karena jiwanya belum selesai percaya.
 
@@ -65,7 +65,7 @@ Kovan mencatat percakapan itu kata demi kata dan menulis di neracanya:
 
 Ashvarok menutup neraca pekan itu dengan entri yang panjang — entri yang ia tulis pelan-pelan, karena merasa sedang menulis bab sejarah, bukan catatan harian:
 
-Hari 592. Minggu penyesuaian seratus: SELESAI.
+Hari 592. Pekan penyesuaian seratus: SELESAI.
 
 Yang berhasil: protokol penyesuaian (hak untuk diam), pekerjaan pertama sebelum percakapan pertama (pasal 13), dan batu batas yang ternyata pintu. Yang tidak sempurna: kelelahan kenangan itu nyata, beberapa pemulang masih butuh waktu, dan kita belajar bahwa kesembuhan tidak punya jadwal.
 
@@ -104,7 +104,7 @@ Tradisi kedua: MENUNGGU DI TEMPAT YANG BENAR. Ketika keluarga-keluarga utara pul
 
 Ashvarok menulis entri penutup pekan di Hourglass-nya, satu kalimat:
 
-Hari 592. Delapan bulan silam kita belajar memulangkan jiwa. Minggu ini kita belajar pelajaran yang lebih besar: memulangkan DUNIA — supaya tidak ada lagi yang perlu dipulangkan, karena tidak ada yang pernah benar-benar ditinggalkan.
+Hari 592. Delapan bulan silam kita belajar memulangkan jiwa. Pekan ini kita belajar pelajaran yang lebih besar: memulangkan DUNIA — supaya tidak ada lagi yang perlu dipulangkan, karena tidak ada yang pernah benar-benar ditinggalkan.
 
 Sisa pekerjaan: dua ratus tujuh puluh enam jiwa, tujuh belas wilayah tanah, satu benua yang sedang belajar mendengar.
 

@@ -7,7 +7,7 @@ Panggilan Dewan Regional untuk Maera Tull tiba dengan kafilah pengawal — bukan
 
 Isi panggilannya sederhana dan berbisa: menjelaskan dasar hukum penolakan atas permintaan salinan jabatan Pembaca Tua. Permintaan itu telah naik ke Dewan lewat jalur yang tidak diketahui Maera — dan jawaban Maera sejauh ini ("menunggu putusan pengadilan Guild") telah dibaca di Spire sebagai keangkuhan biro kecil, bukan benteng hukum yang sebenarnya.
 
-Kafilah berangkat Senin, sembilan hari perjalanan, dan Ashvarok mengantarnya sampai stasiun angkut. Yang mereka bicarakan di sana, singkat, di antara dua gerobak:
+Kafilah berangkat Dua, sembilan hari perjalanan, dan Ashvarok mengantarnya sampai stasiun angkut. Yang mereka bicarakan di sana, singkat, di antara dua gerobak:
 
 "Dia akan ada di ruangan," kata Ashvarok. "Jabatan itu selalu hadir ketika urutannya menyentuh Caldrest. Mungkin tidak terlihat. Mungkin hanya sebuah kursi kosong dengan map terbuka. Anggap dia membaca setiap katamu."
 

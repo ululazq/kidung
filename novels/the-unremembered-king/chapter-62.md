@@ -45,7 +45,7 @@ Di dasar timur, empat puluh langkah dan setengah dari ambang, retakan purba itu 
 
 "Berapa lama lapisan itu bertahan?" tanya Brannoc, yang cukup lama belajar bahwa pertanyaan tentang harga adalah satu-satunya sopan santun yang berlaku di dekat Ashvarok ketika orang ini sedang bekerja.
 
-"Dengan pemeliharaan, lama," kata Ashvarok, bangkit pelan-pelan, menahan tubuh agar tidak bertumpu pada lutut. "Tanpa pemeliharaan, batunya akan menua dan mengelupas seperti semua tenunanku. Minggu-minggu, mungkin bulan. Karena itu butuh jadwal."
+"Dengan pemeliharaan, lama," kata Ashvarok, bangkit pelan-pelan, menahan tubuh agar tidak bertumpu pada lutut. "Tanpa pemeliharaan, batunya akan menua dan mengelupas seperti semua tenunanku. Pekan-pekan, mungkin bulan. Karena itu butuh jadwal."
 
 ---
 
