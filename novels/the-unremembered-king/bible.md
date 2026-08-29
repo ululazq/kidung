@@ -1,6 +1,6 @@
 # Bible: The Unremembered King
 
-Terakhir diperbarui: bab 331
+Terakhir diperbarui: bab 336
 Sudah diungkap ke pembaca sampai: bab 315
 
 ## Premis
