@@ -11,7 +11,7 @@ Ossian, yang kebetulan berada di menara utara, mengirim kain via the Northern Li
 
 Perawat tua meletakkan benangnya. "The Wanes belajar," katanya pelan. "Bukan lagi tangkap tanda lahir. Mereka mulai ukur napas."
 
-Di menara, perawat tua membuka buku halaman keenam belas. "Dentum utara makin teratur," katanya pada Mira. "Seperti the Wanes sedang menyinkronkan ukurannya dengan irama simpul #4. Bila mereka temukan perempuan tua itu, simpul utara akan berdenyut liar."
+Di menara, perawat tua membuka buku halaman keenam belas. "Dentum utara makin teratur," katanya pada Mira. "Seperti the Wanes sedang menyinkronkan ukurannya dengan irama the Stillness Knot. Bila mereka temukan perempuan tua itu, simpul utara akan berdenyut liar."
 
 "Maka kita pindahkan dia sebelum itu," kata Mira. "Tapi pelan. Bila dia tahu ia kunci, napasnya berubah, dan mereka makin yakin."
 
@@ -29,9 +29,9 @@ Gella mendekat membawa buku pemulihan. "Kau the Bearer," katanya. "Napas masih t
 
 Ossian mengirim kain tenun panjang lewat Maera: *The Wanes di utara kini pegang pergelangan dan hitung napas saat tidur. Kasar, tapi mereka sudah tahu napas beda dari detak. Di desa kelima, mereka bawa pergi seorang tua karena 'napasnya aneh' — ternyata bukan the Survivor, hanya orang sesak napas. Tapi arah mereka benar. Jendela tinggal hitungan hari.* 
 
-Ashvarok-Renn menunjukkan kain itu pada Sela. "Hitungan hari," katanya. "Kita harus pastikan #4 resmi terjaga sebelum mereka paham bedanya."
+Ashvarok-Renn menunjukkan kain itu pada Sela. "Hitungan hari," katanya. "Kita harus pastikan the Stillness resmi terjaga sebelum mereka paham bedanya."
 
-Sela mencatat di papan: *The Wanes ukur napas (bukan detak). Bawa pergi orang sesak napas = masih salah sasar, tapi belajar cepat. Jendela: hari. Amankan #4 via murid Ossian sebelum mereka paham napas the Survivor.* 
+Sela mencatat di papan: *The Wanes ukur napas (bukan detak). Bawa pergi orang sesak napas = masih salah sasar, tapi belajar cepat. Jendela: hari. Amankan the Stillness via murid Ossian sebelum mereka paham napas the Survivor.* 
 
 Gella melatih tiga anak mengukur napas Ashvarok-Renn saat fajar. "Kalian lihat bedanya?" katanya. "Napas the Survivor pelan tapi dalam. Orang biasa cepat tapi dangkal. The Wanes sekarang tahu ada beda, tapi belum tahu caranya. Itu keunggulan kita."
 
@@ -47,7 +47,7 @@ Ashvarok-Renn membacanya pada Kovan. "Mereka mulai mencatat," katanya. "Bukan la
 
 "Berapa hari?" tanya Kovan.
 
-"Tiga. Mungkin lima." Ashvarok-Renn menulis di bible kecil: *The Wanes ubah taktik: ukur napas (bukan tangkap tanda). Masih kasar, tapi arah benar. Jendela tinggal hari. Amankan #4 via murid Ossian + 12 anak, jaga tanpa nama. Bila pola ukur dekat danau garam = pindah ke rawa.* 
+"Tiga. Mungkin lima." Ashvarok-Renn menulis di bible kecil: *The Wanes ubah taktik: ukur napas (bukan tangkap tanda). Masih kasar, tapi arah benar. Jendela tinggal hari. Amankan the Stillness via murid Ossian + 12 anak, jaga tanpa nama. Bila pola ukur dekat danau garam = pindah ke rawa.* 
 
 Di danau garam, murid Ossian melihat dua orang the Wanes berdiri di tepi desa, memegang pergelangan seorang nelayan tua. Mereka menghitung dengan jari, mengerutkan dahi. "Ini bukan," kata satu. "Napasnya biasa." Kawannya mencatat di lembaran kasar. Mereka belum tahu bahwa perempuan tua penjaga perahu bernapas setengah hitungan lebih pelan — mereka masih mencari tanda di punggung, bukan dengung di dada.
 
@@ -57,7 +57,7 @@ Di barak, Ashvarok-Renn membaca laporan itu dua kali. "Mereka buta," katanya pad
 
 "Berapa lama keunggulan itu bertahan?" tanya Kovan.
 
-"Hingga satu dari mereka bertanya: kenapa napas perempuan tua itu lebih pelan? Maka kita harus pastikan #4 resmi terjaga sebelum pertanyaan itu muncul." Ashvarok-Renn menutup bible. "Suruh murid Ossian siap pindahkan dia ke rawa bila pola ukur the Wanes mendekat danau."
+"Hingga satu dari mereka bertanya: kenapa napas perempuan tua itu lebih pelan? Maka kita harus pastikan the Stillness resmi terjaga sebelum pertanyaan itu muncul." Ashvarok-Renn menutup bible. "Suruh murid Ossian siap pindahkan dia ke rawa bila pola ukur the Wanes mendekat danau."
 
 Brannoc datang membawa dua belas anak. "Mereka tahu harus apa," katanya. "Ketukan dua pendek satu panjang sudah di luar kepala. Bila perempuan tua itu perlu lari, mereka kabari murid Ossian, bukan berteriak."
 
@@ -69,9 +69,9 @@ Gella mendekat dan meletakkan buku pemulihan di pangkuan Ashvarok-Renn. "Kau mem
 
 "Benar," kata Gella. "Kau adalah kunci yang berjalan. Bila kau lelah, dunia ikut lelah."
 
-Mira di menara menutup buku dan menulis di sisi terakhir: *The Wanes ukur napas di 2 desa utara (kasar). Bawa pergi orang sesak = masih salah. Tapi arah benar, jendela hari. Strategi: amankan #4 via persahabatan, pindah ke rawa bila pola ukur mendekat. Jangan ajari musuh cara ukur tepat.* Ia mengetuk ubin tiga kali, diam sehentakan.
+Mira di menara menutup buku dan menulis di sisi terakhir: *The Wanes ukur napas di 2 desa utara (kasar). Bawa pergi orang sesak = masih salah. Tapi arah benar, jendela hari. Strategi: amankan the Stillness via persahabatan, pindah ke rawa bila pola ukur mendekat. Jangan ajari musuh cara ukur tepat.* Ia mengetuk ubin tiga kali, diam sehentakan.
 
-Sela duduk di serambi memilin benang abu-abu ke utara. "Empat napas bila #4 resmi," bisiknya. "Tapi musuh kini mendengar. Kita tidak lagi bergerak diam sepenuhnya."
+Sela duduk di serambi memilin benang abu-abu ke utara. "Empat napas bila the Stillness resmi," bisiknya. "Tapi musuh kini mendengar. Kita tidak lagi bergerak diam sepenuhnya."
 
 Di danau garam, the Wanes yang memegang pergelangan nelayan tua itu akhirnya menyadari sesuatu. "Napasnya biasa," kata satu. "Tapi perempuan tua perahu itu tidak kami temukan. Mungkin dia yang kami cari." Kawannya menggeleng. "Kita cari darah, bukan perahu." Mereka masih terperangkap dalam keyakinan lama, buta bahwa napaslah kunci sebenarnya.
 
@@ -87,7 +87,7 @@ Malamnya, Ashvarok-Renn berdiri di ambang menatap ke utara. Benang abu-abu danau
 
 "Mereka belajar mendengar," bisiknya pada malam. "Tapi kita sudah mendengar delapan belas tahun lebih dulu. Selama kita lebih dulu mengenali yang hidup, pintu dunia takkan pernah dibuka oleh siapa pun."
 
-Ashvarok-Renn menutup bible dan menulis baris terakhir: *The Wanes ukur napas (kasar). Jendela hari. Amankan #4 via persahabatan + 12 anak, pindah rawa bila perlu. Kita lebih dulu dengar = kita lebih dulu jaga.* 
+Ashvarok-Renn menutup bible dan menulis baris terakhir: *The Wanes ukur napas (kasar). Jendela hari. Amankan the Stillness via persahabatan + 12 anak, pindah rawa bila perlu. Kita lebih dulu dengar = kita lebih dulu jaga.* 
 
 Ia membiarkan benang diam hidup tanpa namanya, tahu bahwa di utara, musuh mulai mendengar, tapi barak sudah delapan belas tahun lebih dulu tahu siapa yang bernapas pelan di dunia ini.
 
@@ -99,6 +99,6 @@ Ashvarok-Renn menutup bible kecil dan menatap ke utara. "Mereka belajar mendenga
 
 Mira di menara menutup buku catatannya. "Mereka mencatat angka," katanya pada perawat tua. "Tapi angka bukan napas. Selama mereka menghitung, kita mengenali. Itu bedanya."
 
-Ashvarok-Renn menoleh pada Gella. "Sembilan napas di dadaku," katanya pelan. "Empat sudah di ambang. Sisa #5 dan #7 yang menunggu. Kita lebih dulu dari mereka yang buta."
+Ashvarok-Renn menoleh pada Gella. "Sembilan napas di dadaku," katanya pelan. "Empat sudah di ambang. Sisa the Silence dan the Ground yang menunggu. Kita lebih dulu dari mereka yang buta."
 
-Gella mengangguk pelan. "Maka kita kejar #5 dan #7 sebelum mereka paham napas," katanya. "Empat sudah di ambang. Sisa tiga simpul menunggu."
+Gella mengangguk pelan. "Maka kita kejar the Silence dan the Ground sebelum mereka paham napas," katanya. "Empat sudah di ambang. Sisa tiga simpul menunggu."

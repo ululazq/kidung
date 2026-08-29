@@ -35,8 +35,7 @@ Ashvarok-Renn berkumpul dengan Kovan, Sela, dan Gella di serambi barak saat senj
 
 "Dan tiga anak tertua yang kau latih ketukan." Gella menatap barak yang mulai gelap. "Mereka sudah presisi memukul. Mengukur napas adalah langkah berikutnya."
 
-Ashvarok-Renn menulis di bible kecil: *Keluarga pengikat = 9 the Survivors of the Remainder (bukan 7 darah). Ibu Tamma = #1 (alm). Sisa 8 tersebar, mungkin di sekitar 7 simpul. The Wanes cari 7 darah (salah jalan). Kita cari jejak napas dihisap.*
-
+Ashvarok-Renn menulis di bible kecil: *Keluarga pengikat = 9 the Survivors of the Remainder (bukan 7 darah). Ibu Tamma = the Gate (alm). Sisa 8 tersebar, mungkin di sekitar 7 simpul. The Wanes cari 7 darah (salah jalan). Kita cari jejak napas dihisap.*
 Di sudut, Kovan kembali ke peta dan menghitung simpul dengan jari. "Satu, dua, tiga, empat, lima, enam, tujuh," bisiknya. "Tujuh simpul. Jika tiap simpul punya the Survivor, dan ibu Tamma adalah satu, maka enam lagi tersebar di enam simpul lain — atau di ambangnya."
 
 "Maka kita tidak cari orang," kata Gella. "Kita cari napas di dekat benang yang berdenyut."
@@ -45,7 +44,7 @@ Di sudut, Kovan kembali ke peta dan menghitung simpul dengan jari. "Satu, dua, t
 
 Maera tiba dari utara membawa koper pos dan selembar kain tenun Ossian: *The Wanes tangkap dua orang di desa utara karena tanda lahir di punggung. Mereka bukan the Survivor — hanya bekas kelahiran biasa. Tapi the Wanes bawa pergi, yakin mereka kunci. Di barat daya, muridku lihat reruntuhan pos Hegemony berdenyut saat senja. Satu bayangan di ambang punya bekas lingkaran di leher.*
 
-Ashvarok-Renn membaca di serambi, lalu menyerahkan kain ke Kovan. "the Survivors di pos barat daya," katanya. "Keluarga #2 calon. Tapi kita tidak tarik dia ke sini."
+Ashvarok-Renn membaca di serambi, lalu menyerahkan kain ke Kovan. "the Survivors di pos barat daya," katanya. "the Escape Family calon. Tapi kita tidak tarik dia ke sini."
 
 "Mengapa tidak?" tanya Sela.
 
@@ -55,7 +54,7 @@ Ashvarok-Renn membaca di serambi, lalu menyerahkan kain ke Kovan. "the Survivors
 
 "Melalui murid Ossian. Ia sudah di sana. Ajarkan ketukan tiga-satu dari jauh, pelan-pelan, tanpa menyebut barak." Ashvarok-Renn menyerahkan kain kedua ke Maera. "Suruh Ossian suruh muridnya berteman dengan the Survivor di pos itu. Persahabatan lebih aman dari perintah."
 
-Kovan menarik benang abu-abu ke arah barat daya di peta. "Simpul keenam mungkin berdenyut di pos mati itu," katanya. "Dan the Survivor #2 ada di dekatnya. Tempat dan kunci berpasangan."
+Kovan menarik benang abu-abu ke arah barat daya di peta. "Simpul keenam mungkin berdenyut di pos mati itu," katanya. "Dan the Escape Survivor ada di dekatnya. Tempat dan kunci berpasangan."
 
 Ashvarok-Renn mengangguk. "Setiap simpul punya the Survivor's. Kita tidak perlu cari acak — kita cari di sekitar simpul yang belum kita sentuh."
 
@@ -65,15 +64,15 @@ Mira di menara membuka buku catatan halaman ketujuh. "Dentum masih acak," katany
 
 "Keluarga pertama pergi," kata perawat tua.
 
-"Maka delapan lainnya harus kita jaga sebelum the Wanes menemukannya." Mira menulis: *Keluarga #1 (ibu Tamma) tiada. Sisa 8 the Survivors tersebar. The Wanes cari 7 darah — salah. Barak cari napas dihisap. Calon #2 di pos barat daya (simpul #6).* Ia mengetuk ubin tiga kali, lalu diam sehentakan.
+"Maka delapan lainnya harus kita jaga sebelum the Wanes menemukannya." Mira menulis: *the Gate Family (ibu Tamma) tiada. Sisa 8 the Survivors tersebar. The Wanes cari 7 darah — salah. Barak cari napas dihisap. the Escape Candidate di pos barat daya (the Unclaimed Knot).* Ia mengetuk ubin tiga kali, lalu diam sehentakan.
 
-Di barak, Ashvarok-Renn menutup bible dan menulis di bawah: *Revisi: keluarga pengikat = the Survivor of the Remainder (bekas luka lingkaran), bukan darah. Ibu Tamma = #1 (alm). Calon #2 = pos barat daya (simpul #6). Strategi: jaga di tempat, via murid Ossian, tanpa nama.*
+Di barak, Ashvarok-Renn menutup bible dan menulis di bawah: *Revisi: keluarga pengikat = the Survivor of the Remainder (bekas luka lingkaran), bukan darah. Ibu Tamma adalah the Gate — sudah tiada. the Escape Candidate = pos barat daya (the Unclaimed Knot). Strategi: jaga di tempat, via murid Ossian, tanpa nama.*
 
 Maera masih berdiri di serambi. "Ossian juga kirim ini," katanya, menyerahkan kain kedua. "Murid barat daya bertanya apakah ia boleh ajarkan the Survivor itu ketukan darurat. Aku bilang tunggu instruksimu."
 
 "Suruh ia ajarkan," kata Ashvarok-Renn. "Dua pendek satu panjang berarti lari ke benang. Tapi jangan sebut barak. Bilang itu lagu pengantar tidur."
 
-Sela mencatat di papan: *Murid Ossian ajar the Survivor #2 ketukan darurat (rahasia, tanpa nama barak). Strategi: ikatan, bukan perintah.*
+Sela mencatat di papan: *Murid Ossian ajar the Escape Survivor ketukan darurat (rahasia, tanpa nama barak). Strategi: ikatan, bukan perintah.*
 
 ---
 
@@ -91,21 +90,21 @@ Di sudut, Gella mengukur napas Ashvarok-Renn saat fajar. "Empat hitungan," bisik
 
 "Sudah." Gella menutup buku pemulihan. "Tugas kita bukan hanya mencari keluarga, tapi merahasiakan bahwa kita mencarinya. Bila the Wanes tahu kita punya jaringan napas, mereka akan buru kita, bukan hanya bekas luka."
 
-Ashvarok-Renn membuka bible kecil di serambi dan menulis: *Jaringan ukur napas = 3 anak + Sela + Gella. Kriteria the Survivor: napas 0,5 hitungan lebih pendek subuh, dalam tapi pelan. Keluarga #1 (ibu Tamma) tiada. Calon #2 = pos barat daya (simpul #6), dijaga via murid Ossian.*
+Ashvarok-Renn membuka bible kecil di serambi dan menulis: *Jaringan ukur napas = 3 anak + Sela + Gella. Kriteria the Survivor: napas 0,5 hitungan lebih pendek subuh, dalam tapi pelan. the Gate Family (ibu Tamma) tiada. the Escape Candidate = pos barat daya (the Unclaimed Knot), dijaga via murid Ossian.*
 
 Di sudut, Gella duduk memilin benang bersama perawat tua di ambang menara. "Kau dengar semua?" tanya Gella pelan.
 
 "Sejak aku jaga celah delapan belas tahun silam," kata perawat tua. "Aku tidak tahu aku the Survivor sampai kau ukur napasku tadi malam. Tapi aku merasa napasku pelan sejak itu."
 
-"Kau the Survivor #1," bisik Gella. "Tapi biarkan itu rahasia. Bila kau tahu, napasmu berubah, dan the Wanes bisa mendeteksinya dari jauh."
+"Kau the Gate Survivor," bisik Gella. "Tapi biarkan itu rahasia. Bila kau tahu, napasmu berubah, dan the Wanes bisa mendeteksinya dari jauh."
 
 Perawat tua tersenyum tipis. "Maka aku tetap perawat tua yang menghitung angin. Itu penyamaran terbaik."
 
 Sela mendekat membawa papan. "Aku sudah bagi tugas ke tiga anak tertua," katanya. "Mereka ukur napas di pasar saat subuh, sambil main kelereng. Satu dari mereka laporkan pendudang di ujung desa napasnya setengah hitungan lebih pendek."
 
-"Mungkin the Survivor #4," kata Ashvarok-Renn. "Catat, tapi jangan dekati. Kita pelajari dulu polanya seminggu."
+"Mungkin the Stillness Survivor," kata Ashvarok-Renn. "Catat, tapi jangan dekati. Kita pelajari dulu polanya seminggu."
 
-Kovan menatap peta, benang merah ke utara masih tergantung. "Jika the Survivor #4 ada di ujung desa kita sendiri, berarti simpul #1 memang di celah menara — dan kita sudah jaga kuncinya tanpa sadar."
+Kovan menatap peta, benang merah ke utara masih tergantung. "Jika the Stillness Survivor ada di ujung desa kita sendiri, berarti the Gate Knot memang di celah menara — dan kita sudah jaga kuncinya tanpa sadar."
 
 "Tepat," kata Gella. "Kunci ada di tempat kita berdiri. Itulah yang takkan dicari the Wanes: bukan di tempat jauh, tapi di ambang sendiri."
 
@@ -121,13 +120,13 @@ Fajar menyingsing. Di halaman, Brannoc mengumpulkan dua belas anak untuk latihan
 
 "Catat di papan Sela. Jangan sebut nama. Jangan dekati." Brannoc menatap mereka. "Kita hanya mata. Kita tidak pegang kunci apa pun."
 
-Di sudut, Gella mengukur napas perawat tua yang duduk memilin benang. "Tiga hitungan," bisiknya pada Sela. "Stabil. Ia the Survivor #1 kita."
+Di sudut, Gella mengukur napas perawat tua yang duduk memilin benang. "Tiga hitungan," bisiknya pada Sela. "Stabil. Ia the Gate Survivor kita."
 
 "Tulis di papan," kata Sela.
 
-Sela menulis di papan: *3 anak + Gella = alat deteksi napas hidup. Latihan pertama hari ini. the Survivor #1 = perawat tua (di barak). the Survivor #4? di ujung desa, dipelajari.*
+Sela menulis di papan: *3 anak + Gella = alat deteksi napas hidup. Latihan pertama hari ini. the Gate Survivor = perawat tua (di barak). the Stillness Survivor? di ujung desa, dipelajari.*
 
-Mira di menara membuka buku catatan. "Dentum celah menara berdenyut pelan sejak perawat tua tidur di ambangnya," katanya. "Simpul #1 hidup karena penjaganya ada di tempat."
+Mira di menara membuka buku catatan. "Dentum celah menara berdenyut pelan sejak perawat tua tidur di ambangnya," katanya. "the Gate Knot hidup karena penjaganya ada di tempat."
 
 "Kunci ada di ambang sendiri," kata perawat tua.
 

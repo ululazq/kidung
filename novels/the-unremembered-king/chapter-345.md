@@ -3,11 +3,11 @@ title: "Bab 345: Dua Ujung yang Saling Mengenal"
 chapter: 345
 ---
 
-Yang tua dan yang muda berjalan ke selatan selama lima fajar, membawa buku catatan kecil bersampul kain dan peta tujuh titik yang mereka gulung di dalam kain pelindung. Mereka tidak menyembunyikan diri — untuk pertama kalinya dalam delapan belas tahun, dua orang the Wanes berjalan di jalan raya tanpa cap tujuh garis di desa-desa yang mereka lewati, dan orang-orang yang mengenal mereka hanya menatap dari jauh tanpa berani bertanya.
+Yang tua dan the Seeker berjalan ke selatan selama lima fajar, membawa buku catatan kecil bersampul kain dan peta tujuh titik yang mereka gulung di dalam kain pelindung. Mereka tidak menyembunyikan diri — untuk pertama kalinya dalam delapan belas tahun, dua orang the Wanes berjalan di jalan raya tanpa cap tujuh garis di desa-desa yang mereka lewati, dan orang-orang yang mengenal mereka hanya menatap dari jauh tanpa berani bertanya.
 
 Di pos peristirahatan kedua, seorang perempuan tua yang menjual roti menatap mereka lama. "Kalian dulu selalu membawa batu," katanya. "Batu yang sama, ke arah yang sama, tahun demi tahun. Aku sudah tua, dan aku belum pernah melihat kalian berjalan tanpa batu itu."
 
-"Batu itu sudah tidak kami bawa," kata yang muda.
+"Batu itu sudah tidak kami bawa," kata the Seeker.
 
 "Lalu kalian bawa apa?"
 
@@ -37,7 +37,7 @@ Sela mengambil buku catatan itu, membukanya di halaman pertama. "Ini catatan pen
 
 "Orang yang menjaga napas." Sela menunjuk satu baris angka. "Lihat: tiga, satu, diam. Tiga ketuk, satu hentakan, diam. Ini pola yang sama dengan yang kami ajarkan kepada anak-anak barak. Penggambar peta ini bukan orang luar yang menemukan peta. Ia salah satu dari kalian — atau setidaknya, ia belajar dari orang yang sama."
 
-Ashvarok-Renn mengambil buku itu dan membaca baris-baris angka dengan cepat. "Ini ditulis sebelum aku bangun," katanya pelan. "Sebelum barak ini ada. Tapi polanya sama." Ia menatap yang tua. "Siapa yang mengajari penggambar peta ini pola tiga-satu-diam?"
+Ashvarok-Renn mengambil buku itu dan membaca baris-baris angka dengan cepat. "Ini ditulis sebelum aku bangun," katanya pelan. "Sebelum barak ini ada. Tapi polanya sama." Ia menatap the Keeper. "Siapa yang mengajari penggambar peta ini pola tiga-satu-diam?"
 
 Yang tua menggeleng. "Aku tidak tahu. Aku hanya tahu ia menggambar peta tujuh titik, dan the Throne menyuruh kami mencarinya."
 
@@ -45,7 +45,7 @@ Yang tua menggeleng. "Aku tidak tahu. Aku hanya tahu ia menggambar peta tujuh ti
 
 Gella, yang datang dari klinik, mengambil buku itu dan membalik halaman-halamannya dengan jari yang teliti. "Angka-angka ini," katanya, "dibaca seperti buku pemulihan. Bukan catatan penjaga — catatan orang yang mengukur tubuh yang sedang pulih. Penggambar peta ini bukan hanya mengukur napas. Ia mengukur denyut, selisih tarikan, dan jeda diam, seperti dokter yang mencatat kondisi pasien yang tidak pernah ia sebut namanya."
 
-"Pasien?" kata yang muda.
+"Pasien?" kata the Seeker.
 
 "Atau sesuatu yang ia rawat seperti pasien." Gella menutup buku itu. "Kalau ia menulis ini, maka ia bukan sekadar penggambar peta. Ia adalah salah satu dari kalian — seorang penjaga yang menggambar, agar yang menjaga setelahnya tahu apa yang ia jaga."
 
@@ -55,13 +55,13 @@ Malam itu, mereka membuka gulungan peta tujuh titik di meja barak. Kovan menggam
 
 "Ke tempat yang tidak tercatat," ulang Sela. "Mira dan Maera sedang dalam perjalanan pulang dari Spire. Kalau ruang arsip memberi mereka peta yang sama, maka dua ujung benang yang saling mengenal akhirnya bertemu di meja yang sama."
 
-"Berapa lama lagi mereka tiba?" tanya yang tua.
+"Berapa lama lagi mereka tiba?" tanya the Keeper.
 
 "Dua fajar," kata Brannoc. "Kalau angin tidak menahan mereka di pos peristirahatan."
 
-Malam itu, yang tua dan yang muda tidur di gudang perkakas, di atas tikar yang disediakan ibu Tamma. Sebelum tidur, yang muda bertanya, "Kau percaya mereka?"
+Malam itu, the Keeper dan the Seeker tidur di gudang perkakas, di atas tikar yang disediakan ibu Tamma. Sebelum tidur, the Seeker bertanya, "Kau percaya mereka?"
 
-"Aku tidak percaya siapa pun," jawab yang tua. "Tapi aku percaya angka. Dan angka di buku catatan itu jujur. Orang yang menulis angka jujur tidak berbohong — ia hanya bisa salah, dan kesalahan angka bisa ditemukan. Kebohongan tidak bisa ditemukan, karena ia tidak punya angka."
+"Aku tidak percaya siapa pun," jawab the Keeper. "Tapi aku percaya angka. Dan angka di buku catatan itu jujur. Orang yang menulis angka jujur tidak berbohong — ia hanya bisa salah, dan kesalahan angka bisa ditemukan. Kebohongan tidak bisa ditemukan, karena ia tidak punya angka."
 
 Dua fajar kemudian, Mira dan Maera tiba di barak. Mira meletakkan seikat surat penggambar peta di meja, di samping buku catatan yang dibawa dua orang the Wanes. "Ruang arsip menyimpan surat-surat ini selama delapan belas tahun," katanya. "Dan di halaman terakhir, ada peta kecil dengan garis yang sama — ke utara, melampaui Spire, ke tempat yang tidak tercatat."
 
@@ -77,7 +77,7 @@ Di meja barak, dua peta, dua buku catatan, dan dua kisah penggambar peta yang sa
 
 Mira menutup buku catatan penggambar peta dan meletakkannya di atas surat-surat dari ruang arsip. "Maka kita tahu satu hal yang tidak pernah kita tahu sebelumnya," katanya. "Penggambar peta ini bukan hanya menggambar peta. Ia menggambar jembatan. Dan jembatan itu, malam ini, akhirnya selesai dibangun."
 
-"Tapi jembatan menuju ke mana?" tanya yang muda. "Garis itu melampaui Spire. Ke tempat yang tidak tercatat di peta mana pun. Kita tidak tahu apa yang ada di sana."
+"Tapi jembatan menuju ke mana?" tanya the Seeker. "Garis itu melampaui Spire. Ke tempat yang tidak tercatat di peta mana pun. Kita tidak tahu apa yang ada di sana."
 
 "Dan kita tidak akan tahu malam ini," kata Ashvarok-Renn. "Disiplin barak sejak buku anomali dibuka: catat dulu, jangan turun. Jangan beri nama musuh sebelum kita tahu apa yang kita hadapi. Kita punya dua peta, dua buku catatan, dan satu garis yang menunjuk ke utara — tapi kita tidak punya satu pun saksi yang pernah berdiri di ujung garis itu."
 

@@ -9,7 +9,7 @@ Tiga fajar setelah dua orang the Wane kembali, Kovan meletakkan hasil kerja sema
 
 "Seberapa dalam ia tertanam," ulang Ashvarok-Renn. "Bukan ke mana ia menuju. Seseorang di utara tidak sedang mencari ujung garis. Ia sedang mencari akarnya."
 
-"Kalau begitu," kata yang tua, "ia tidak peduli tiga batu tegak itu. Ia peduli apa yang ada di bawahnya."
+"Kalau begitu," kata the Keeper, "ia tidak peduli tiga batu tegak itu. Ia peduli apa yang ada di bawahnya."
 
 "Dan kita baru saja menggali apa yang ada di bawahnya." Yang muda menatap sketsa logam bundar yang tergantung di dinding. "Kita menemukan logam itu, menggambar ulang, dan menimbunnya kembali. Tapi kita tidak tahu apakah menimbunnya kembali menghentikan apa pun."
 
@@ -23,9 +23,9 @@ Semua orang menoleh. Ossian berdiri di pintu, membawa kain tenun dari utara yang
 
 Meja barak hening. Ashvarok-Renn menatap peta spiral itu, lalu sketsa logam bundar, lalu kain tenun di tangan Ossian. "Kita bukan satu-satunya yang membaca garis ini," katanya. "Kita pikir kita yang pertama mengetuk pintu. Ternyata ada orang lain yang juga tahu pintu itu — dan mereka berangkat lebih dulu."
 
-"Siapa mereka?" tanya yang muda.
+"Siapa mereka?" tanya the Seeker.
 
-"Kalau mereka tidak memasang cap tujuh garis," kata yang tua, "maka mereka bukan the Wanes. Kalau mereka tidak membawa batu, maka mereka bukan the Wanes yang kita kenal. Tapi mereka tahu ke mana harus pergi — yang berarti seseorang memberi mereka peta yang sama, atau mereka menemukannya sendiri."
+"Kalau mereka tidak memasang cap tujuh garis," kata the Keeper, "maka mereka bukan the Wanes. Kalau mereka tidak membawa batu, maka mereka bukan the Wanes yang kita kenal. Tapi mereka tahu ke mana harus pergi — yang berarti seseorang memberi mereka peta yang sama, atau mereka menemukannya sendiri."
 
 "Atau," kata Mira, "seseorang di Spire memberi mereka peta itu. Ruang arsip menyimpan surat-surat penggambar peta selama delapan belas tahun. Mungkin mereka bukan satu-satunya yang menyimpan salinan."
 
@@ -33,17 +33,17 @@ Meja barak hening. Ashvarok-Renn menatap peta spiral itu, lalu sketsa logam bund
 
 "Aku akan pergi," kata Ossian. "Aku tahu jalur utara lebih baik daripada siapa pun di barak ini. Dan kalau kafilah itu dari Spire, aku bisa membaca cara mereka berjalan sebelum mereka membaca cara kita."
 
-"Dan aku," kata yang tua. "Aku dan yang muda tahu jalan ke tiga batu tegak. Kita bisa sampai di sana tanpa tersesat."
+"Dan aku," kata the Keeper. "Aku dan the Seeker tahu jalan ke tiga batu tegak. Kita bisa sampai di sana tanpa tersesat."
 
 Ashvarok-Renn menatap keduanya. "Dua orang dari barak, dua orang yang baru kemarin menjadi sekutu. Kalau ini jebakan, kalian bisa membawa kami langsung ke tangan musuh."
 
-"Kalau ini jebakan," kata yang tua, "maka kami sudah mengetuk tiga batu tegak dan pulang hidup-hidup untuk memberi tahu kalian. Jebakan yang ingin menangkap kalian tidak akan membiarkan kami pulang."
+"Kalau ini jebakan," kata the Keeper, "maka kami sudah mengetuk tiga batu tegak dan pulang hidup-hidup untuk memberi tahu kalian. Jebakan yang ingin menangkap kalian tidak akan membiarkan kami pulang."
 
 "Kau tidak menjawab pertanyaanku," kata Ashvarok-Renn.
 
 "Aku menjawab dengan cara yang berbeda." Yang tua menatapnya. "Kau tidak perlu percaya padaku. Kau perlu percaya bahwa aku lebih takut pada the Throne daripada pada kalian. Karena aku tahu apa yang the Throne lakukan kepada orang yang gagal. Aku belum tahu apa yang kalian lakukan kepada orang yang gagal — dan itu membuat kalian lebih aman untuk diajak bekerja sama."
 
-Malam itu, mereka menyiapkan dua perbekalan: satu untuk Ossian, satu untuk yang tua dan yang muda. Kovan memberi mereka salinan peta spiral yang lebih kecil, dan Sela memberi mereka catatan irama tiga-satu-diam. Sebelum berangkat, Ashvarok-Renn memanggil Ossian ke samping.
+Malam itu, mereka menyiapkan dua perbekalan: satu untuk Ossian, satu untuk the Keeper dan the Seeker. Kovan memberi mereka salinan peta spiral yang lebih kecil, dan Sela memberi mereka catatan irama tiga-satu-diam. Sebelum berangkat, Ashvarok-Renn memanggil Ossian ke samping.
 
 "Ada satu hal yang harus kau tahu," katanya. "Logam bundar dengan tiga lubang itu — aku pernah melihat bentuknya sekali, seribu tahun silam. Aku tidak tahu apa fungsinya. Tapi aku tahu satu hal: benda seperti itu tidak pernah dibuat untuk dibuka dari luar. Ia dibuat untuk dibuka dari dalam."
 
@@ -55,7 +55,7 @@ Ossian menatapnya. "Kalau begitu, kita harus sampai di sana sebelum mereka menge
 
 "Bawa ini." Ashvarok-Renn menyerahkan selembar kain tenun tua, lusuh, dengan pola tiga-satu-diam yang dijahit lebih besar dari kain-kain lain. "Ini kain tenun pertama yang pernah kujaga, sebelum barak ini ada. Kalau batu-batu itu menjawab dengan satu ketukan, coba ketuk dengan kain ini. Mungkin ia mengenali sesuatu yang tidak kita kenali."
 
-Ossian menyimpan kain itu di dalam jaketnya, di sebelah kain tenun ibunya yang sudah ia bawa selama delapan belas tahun. Di fajar berikutnya, ia berangkat ke utara bersama yang tua dan yang muda, meninggalkan barak dengan satu pertanyaan yang tidak pernah mereka jawab: apa yang ada di bawah tiga batu tegak itu, dan mengapa pintu itu tidak pernah dikunci selama seribu tahun.
+Ossian menyimpan kain itu di dalam jaketnya, di sebelah kain tenun ibunya yang sudah ia bawa selama delapan belas tahun. Di fajar berikutnya, ia berangkat ke utara bersama the Keeper dan the Seeker, meninggalkan barak dengan satu pertanyaan yang tidak pernah mereka jawab: apa yang ada di bawah tiga batu tegak itu, dan mengapa pintu itu tidak pernah dikunci selama seribu tahun.
 
 Di barak, setelah mereka pergi, Sela duduk di depan peta spiral dan menggambar ulang lingkaran-lingkaran Kovan dengan kapur di papan besarnya. Ia menggambar lima lingkaran — lingkaran-lingkaran yang Kovan catat dari dua pekan angin berbalik — lalu meletakkan kapur dan menatap hasilnya lama.
 

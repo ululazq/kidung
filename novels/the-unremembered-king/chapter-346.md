@@ -29,7 +29,7 @@ Meja barak hening. Yang tua, yang duduk di sudut mendengarkan, akhirnya berbicar
 
 "Kita tidak bisa pergi," kata Brannoc. "Kalau the Throne tahu barak bergerak ke utara, ia akan tahu kita membaca peta yang sama."
 
-"Maka bukan barak yang pergi." Yang tua menatapnya. "Aku dan yang muda. Kami masih the Wanes bagi dunia luar. Kami bisa berjalan ke utara tanpa dicurigai — selama tidak ada yang tahu kami berhenti membawa batu."
+"Maka bukan barak yang pergi." Yang tua menatapnya. "Aku dan the Seeker. Kami masih the Wanes bagi dunia luar. Kami bisa berjalan ke utara tanpa dicurigai — selama tidak ada yang tahu kami berhenti membawa batu."
 
 "Kalian baru saja berhenti memburu kami," kata Ashvarok-Renn. "Dan kalian ingin kami mempercayakan misi pertama pada kalian?"
 
@@ -45,7 +45,7 @@ Ashvarok-Renn menatap peta itu, lalu mengalihkan pandangannya ke dua orang the W
 
 "Kalian berangkat besok subuh," kata Ashvarok-Renn. "Bawa peta kecil itu, bukan yang besar. Dan bawa ini." Ia menyerahkan selembar kain tenun tiga ketuk satu diam. "Bila kalian menemukan garis yang berhenti, ketuk ini di batu tegak itu. Bila batu itu menjawab, kalian akan tahu kuncinya sudah sampai. Bila tidak, kalian pulang dan memberi tahu kami bahwa garis itu masih panjang."
 
-Malam itu, sebelum lampu padam, yang tua duduk sendirian di gudang perkakas, membuka gulungan peta kecil untuk terakhir kalinya. Yang muda datang membawa dua cangkir teh hangat dan duduk di seberangnya. "Kau masih ragu?" tanya yang muda.
+Malam itu, sebelum lampu padam, the Keeper duduk sendirian di gudang perkakas, membuka gulungan peta kecil untuk terakhir kalinya. Yang muda datang membawa dua cangkir teh hangat dan duduk di seberangnya. "Kau masih ragu?" tanya the Seeker.
 
 "Bukan ragu." Yang tua menatap peta itu. "Aku menghitung. Delapan belas tahun kami mencari tujuh napas. Sekarang kami tahu bahwa yang menggambar peta ini mengirim pesan yang sama ke dua alamat — dan dua-duanya sampai di meja yang sama. Kalau bukan kebetulan, maka penggambar peta ini merancang semuanya sejak awal: siapa yang menemukan peta, kapan, dan apa yang akan mereka lakukan dengannya."
 
@@ -81,7 +81,7 @@ Ossian, yang datang dari luar membawa kain tenun dari utara, berhenti di pintu m
 
 Sela menulis di papan sisi: *Misi pertama ke utara: dua orang the Wanes, peta kecil, dan kain tenun tiga ketuk satu diam. Tujuan: batu tegak di ujung garis penggambar peta. Ukur: garis itu panjang atau berhenti. Waktu tempuh: dua belas fajar sekali jalan. Dunia menunggu jawaban yang tidak pernah dicatat siapa pun.*
 
-Gella datang membawa buku pemulihan dan duduk di bangku dekat gerbang. "Aku tidak bisa menghitung garis," katanya. "Tapi aku bisa menghitung satu hal: napas Ashvarok-Renn masih tiga, dan itu sudah bertahan dua pekan. Yang muda dan yang tua pergi, tapi the Bearer tetap di sini, dan dunia masih berdetak dengan irama yang sama."
+Gella datang membawa buku pemulihan dan duduk di bangku dekat gerbang. "Aku tidak bisa menghitung garis," katanya. "Tapi aku bisa menghitung satu hal: napas Ashvarok-Renn masih tiga, dan itu sudah bertahan dua pekan. Yang muda dan the Keeper pergi, tapi the Bearer tetap di sini, dan dunia masih berdetak dengan irama yang sama."
 
 Ashvarok-Renn menatapnya. "Kau menghiburku?"
 

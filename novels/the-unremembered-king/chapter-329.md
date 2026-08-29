@@ -33,9 +33,9 @@ Sela mengangguk. "Aku pilih anak angkatan ketiga yang paling presisi ketukannya.
 
 Ashvarok-Renn mengangguk. "Presisi ketukan adalah presisi napas. Barak kini punya alat ukur hidup."
 
-Kovan menatap peta tujuh simpul yang kini setengah menyala di benaknya. "Jika the Wanes menangkap orang salah di utara, mereka akan lelah dan beralih ke tempat lain," katanya. "Mungkin ke timur, dekat simpul #5."
+Kovan menatap peta tujuh simpul yang kini setengah menyala di benaknya. "Jika the Wanes menangkap orang salah di utara, mereka akan lelah dan beralih ke tempat lain," katanya. "Mungkin ke timur, dekat the Silence Knot."
 
-"Maka murid kita di sana harus lebih hati-hati," kata Ashvarok-Renn. "the Survivor #3 (pemulung) harus diajari menghilang bila cap tujuh garis muncul."
+"Maka murid kita di sana harus lebih hati-hati," kata Ashvarok-Renn. "the Remnant Survivor (pemulung) harus diajari menghilang bila cap tujuh garis muncul."
 
 "Dan bila the Wanes datang ke desa kita?" tanya Sela.
 
@@ -85,7 +85,7 @@ Sela menulis di papan: *The Wanes ukur napas = mereka pelajari cara kita. Bila i
 
 Di menara, Mira menutup buku catatan dan menulis di sisi: *Dua cara mencari: the Wanes via darah (salah), barak via napas (benar). Kita lambat tapi tepat. 8 napas tersisa.* Perawat tua membubuhkan garis lurus di bawahnya, tiga.
 
-Ashvarok-Renn membuka bible kecil dan menulis: *The Wanes buru 7 darah (salah, tangkap tanda palsu). Barak buru 8 napas tersisa lewat pola napas the Survivor. Latif 3 anak ukur napas. Keluarga #2 = the Survivor barat daya (simpul #6). Sisa: 7 keluarga.*
+Ashvarok-Renn membuka bible kecil dan menulis: *The Wanes buru 7 darah (salah, tangkap tanda palsu). Barak buru 8 napas tersisa lewat pola napas the Survivor. Latif 3 anak ukur napas. the Escape Family = the Survivor barat daya (the Unclaimed Knot). Sisa: 7 keluarga.*
 
 Di sudut, Gella duduk memilin benang bersama perawat tua di ambang menara. "Kau dengar kabar utara?" tanya Gella pelan.
 
@@ -99,7 +99,7 @@ Sela menulis di papan: *Target: petakan napas seluruh pendudang desa dalam 7 har
 
 Kovan menatap peta, benang merah ke utara kini bergetar pelan. "Murid kita di utara laporkan the Wanes mulai bertanya soal napas," katanya. "Bukan hanya tanda. Mereka belajar."
 
-"Maka jendela kita menutup," kata Gella. "Kita kejar the Survivor #3 di danau garam sebelum mereka sampai sana."
+"Maka jendela kita menutup," kata Gella. "Kita kejar the Remnant Survivor di danau garam sebelum mereka sampai sana."
 
 Malam itu, Ashvarok-Renn berdiri di ambang barak menatap ke utara di mana kabut mulai turun. "Dua cara mencari," bisiknya. "Mereka via darah, kita via napas. Satu salah, satu benar. Tapi salah bisa lebih cepat dari benar bila kita lambat."
 
@@ -127,10 +127,10 @@ Ashvarok-Renn berdiri di ambang menatap ke utara. "Ossian bilang mereka mulai be
 
 "Kita tarik murid utara ke hutan payau," kata Gella. "Seminggu. Biarkan desa utara tenang sampai the Wanes bosan."
 
-Kovan mencatat di peta: benang merah ke utara kini digaris putus. "Murid utara aman di hutan," katanya. "Tapi the Survivor #3 di danau garam tetap jadi target."
+Kovan mencatat di peta: benang merah ke utara kini digaris putus. "Murid utara aman di hutan," katanya. "Tapi the Remnant Survivor di danau garam tetap jadi target."
 
-"Kirim dua belas anak ke danau garam besok," kata Ashvarok-Renn. "Bukan untuk mengukur — untuk berteman. Bila the Survivor #3 butuh lari, anak-anak yang kabari barak lebih dulu dari the Wanes."
+"Kirim dua belas anak ke danau garam besok," kata Ashvarok-Renn. "Bukan untuk mengukur — untuk berteman. Bila the Remnant Survivor butuh lari, anak-anak yang kabari barak lebih dulu dari the Wanes."
 
-Sela menulis di papan: *Murid utara ditarik ke hutan payau (hindari deteksi). 12 anak ke danau garam berteman dengan the Survivor #3. Jangan ukur napas di depan umum.*
+Sela menulis di papan: *Murid utara ditarik ke hutan payau (hindari deteksi). 12 anak ke danau garam berteman dengan the Remnant Survivor. Jangan ukur napas di depan umum.*
 
 Ia menutup bible dan membiarkan benang diam hidup tanpa namanya — tahu bahwa di utara, orang tak bersalah kini dibawa pergi karena tanda lahir, sementara barak diam-diam mengukur napas untuk menemukan kunci yang sesungguhnya.

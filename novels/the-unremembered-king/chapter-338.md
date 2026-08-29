@@ -3,7 +3,7 @@ title: "Bab 338: Napas yang Dipelajari Musuh"
 chapter: 338
 ---
 
-Di desa ketiga dari utara, the Wanes yang lebih muda membuka buku catatan kasar dan menulis satu baris yang tidak akan pernah ia tunjukkan kepada yang tua: *Napas pendek di subuh = pola yang dicari. Tiga orang di desa ini napasnya setengah hitungan lebih pendek dari orang biasa.* Jari-jarinya berhenti di atas angka itu, dan untuk pertama kalinya ia membiarkan dirinya meragukan perintah yang ia terima. Yang tua masih berpegang pada cap tujuh garis, tanda lahir, darah. Tapi yang muda sudah melihat bahwa di menara selatan, penduduk mengukur napas, bukan mengukur kulit, dan mereka melakukannya dengan ketenangan orang yang tidak sedang mencari musuh. Ia menutup buku sebelum yang tua melihat, karena ia belum siap menjelaskan perbedaan antara perintah dan kebenaran.
+Di desa ketiga dari utara, the Seeker membuka buku catatan kasar dan menulis satu baris yang tidak akan pernah ia tunjukkan kepada the Keeper: *Napas pendek di subuh = pola yang dicari. Tiga orang di desa ini napasnya setengah hitungan lebih pendek dari orang biasa.* Jari-jarinya berhenti di atas angka itu, dan untuk pertama kalinya ia membiarkan dirinya meragukan perintah yang ia terima. The Keeper masih berpegang pada cap tujuh garis, tanda lahir, darah. Tapi the Seeker sudah melihat bahwa di menara selatan, penduduk mengukur napas, bukan mengukur kulit, dan mereka melakukannya dengan ketenangan orang yang tidak sedang mencari musuh. Ia menutup buku sebelum the Keeper melihat, karena ia belum siap menjelaskan perbedaan antara perintah dan kebenaran.
 
 Di menara, Mira membaca dentum yang dikirim the Northern Listener dan mencatat di buku anomali: *Dua desa utara kini mengukur napas subuh, bukan tanda lahir. Metode masih kasar — mereka memegang pergelangan terlalu lama, menghitung napas dua kali, lalu menulis angka yang setengahnya salah — tapi arah mulai benar. Jendela menyempit dari pekan ke hari.* Ia menyapu serambi, lalu menyapu lagi, kebiasaan lama yang membuat tangannya sibuk saat pikirannya tidak. Angin pagi bertiup dari selatan, dan ia menutup mata sejenak, merasakan irama yang tidak pernah berhenti.
 
@@ -13,7 +13,7 @@ Ashvarok-Renn membaca laporan itu dua kali di meja barak, jari telunjuknya menel
 
 "Selama mereka yakin kunci berbentuk orang." Ashvarok-Renn menutup buku anomali. "Dan selama kita menjaga agar mereka tidak pernah melihat bentuk sebenarnya. Kunci yang dicari di kulit tidak akan pernah ditemukan di udara."
 
-Sela berdiri di serambi memegang papan napas. "Berarti kita ke #7 sebelum mereka paham," katanya. "Lima sudah di tangan. Sisa satu di pangkal, dan itu yang paling sulit dicabut karena ia bukan orang."
+Sela berdiri di serambi memegang papan napas. "Berarti kita ke the Ground sebelum mereka paham," katanya. "Lima sudah di tangan. Sisa satu di pangkal, dan itu yang paling sulit dicabut karena ia bukan orang."
 
 Gella mendekat membawa buku pemulihan. "Kau the Bearer," katanya pada Ashvarok-Renn. "Napas minggu ini masih tiga. Bila kau turun ke selatan sekarang, the Wanes akan mengukur kau juga, dan pola napasmu bukan pola orang biasa. Mereka akan sadar bahwa satu napas di desa ini berbeda dari semua napas lain."
 
@@ -27,17 +27,17 @@ Ossian mengangguk dari kursi dekat jendela. "Aku tahu celah ke the Hollow. Ibuku
 
 Malam itu, Sela menyiapkan bekal perjalanan untuk Ossian: roti kering, garam, dan sebotol air. Ia meletakkannya di meja tanpa berkata apa-apa. Ossian menatapnya lama. "Kau tidak akan bertanya mengapa aku pergi sendiri?" katanya.
 
-"Kau sudah memutuskan," jawab Sela. "Pertanyaanku tidak akan mengubah perjalananmu. Tapi bawalah ini." Ia memberikan selembar kain tenun kecil berisi catatan napas perawat tua. "Bila kau menemukan #7, ketuk pola ini di tanah. Ia akan menjawab dengan irama yang sama."
+"Kau sudah memutuskan," jawab Sela. "Pertanyaanku tidak akan mengubah perjalananmu. Tapi bawalah ini." Ia memberikan selembar kain tenun kecil berisi catatan napas perawat tua. "Bila kau menemukan the Ground, ketuk pola ini di tanah. Ia akan menjawab dengan irama yang sama."
 
 Di menara, perawat tua menyanyikan irama lama, pelan, sambil memilin benang pertama yang delapan belas tahun tidak pernah putus. Pengrajin lonceng di celah bawah menyambung dengan ketukan ubin yang sama. Dua kunci di menara yang sama, menjaga ambang yang sama, tanpa pernah bertemu muka.
 
-Kovan mencatat di peta: *The Wanes mengubah taktik di utara — mengukur napas, bukan tanda lahir. Barak masih unggul delapan belas tahun. Jendela: hari, bukan minggu. Kejar #7 sekarang. Ossian berangkat subuh.*
+Kovan mencatat di peta: *The Wanes mengubah taktik di utara — mengukur napas, bukan tanda lahir. Barak masih unggul delapan belas tahun. Jendela: hari, bukan minggu. Kejar the Ground sekarang. Ossian berangkat subuh.*
 
 Fajar berikutnya, sebelum matahari menyentuh puncak menara, Ossian berangkat ke selatan dengan kain tenun ibunya di saku kiri dan catatan napas perawat tua di saku kanan. Di pintu barak, ia berhenti sebentar dan menoleh ke Ashvarok-Renn. "Ada satu hal yang ingin kutanyakan sejak lama," katanya. "Di the Hollow, benang siapa yang lebih dulu? Ibuku, atau ibumu?"
 
 Ashvarok-Renn menatapnya. "Ibumu. Karena ia yang memilih tetap tinggal saat yang lain pergi." Ia tidak mengatakan bahwa ibunya meninggal di sana. Ossian sudah tahu.
 
-Di barak, Brannoc melatih tiga anak angkatan keempat di halaman, memukul papan kayu dengan ketukan dua pendek satu panjang. "Itu bukan lagu," katanya. "Itu bahasa. Bila #5 butuh lari, kalian kabari barak lewat ketukan, bukan dengan suara. Kalian adalah mata, dan mata yang diajarkan ritme tidak akan panik saat dibutuhkan."
+Di barak, Brannoc melatih tiga anak angkatan keempat di halaman, memukul papan kayu dengan ketukan dua pendek satu panjang. "Itu bukan lagu," katanya. "Itu bahasa. Bila the Silence butuh lari, kalian kabari barak lewat ketukan, bukan dengan suara. Kalian adalah mata, dan mata yang diajarkan ritme tidak akan panik saat dibutuhkan."
 
 "Bagaimana kalau musuh mendengar ketukan kami?" tanya anak paling kecil, yang baru berusia sembilan tahun.
 
@@ -51,9 +51,9 @@ Ashvarok-Renn menatap peta, pada benang abu-abu yang baru saja meninggalkan bara
 
 Mira menutup buku catatannya. "Mereka belajar mendengar," katanya pelan. "Tapi kita delapan belas tahun lebih dulu tahu siapa yang bernapas pelan, dan itu yang membuat mereka selalu selangkah di belakang."
 
-Sela menulis di papan sisi: *The Wanes mengubah cara dari darah ke napas. Masih kasar, tapi arah benar. Kita ke #7 sebelum mereka paham napas pendek = kunci. Ossian di jalan.*
+Sela menulis di papan sisi: *The Wanes mengubah cara dari darah ke napas. Masih kasar, tapi arah benar. Kita ke the Ground sebelum mereka paham napas pendek = kunci. Ossian di jalan.*
 
-Di celah bawah, pengrajin lonceng memilin benang terakhir di jarinya, tahu bahwa esok fajar, bila #7 dipastikan aman, ia akan membunyikan lonceng sekali. Bukan untuk memanggil yang hilang, tapi untuk menutup pintu dunia selamanya.
+Di celah bawah, pengrajin lonceng memilin benang terakhir di jarinya, tahu bahwa esok fajar, bila the Ground dipastikan aman, ia akan membunyikan lonceng sekali. Bukan untuk memanggil yang hilang, tapi untuk menutup pintu dunia selamanya.
 
 Tiga fajar perjalanan Ossian, di jalur ladang garam yang memutih oleh kristal, ia bertemu seorang perempuan tua yang menjemur garam di atas anyaman bambu. Perempuan itu menatap kain tenun di saku Ossian dan berhenti menjemur. "Kain itu dari menara utara," katanya. "Aku pernah melihat pola itu di tangan ibumu, sebelum perang cap tujuh garis datang."
 

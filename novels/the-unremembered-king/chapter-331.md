@@ -7,11 +7,11 @@ Ashvarok-Renn terbangun tengah malam dengan dentum di dada — bukan dari the Ho
 
 "Kau," bisiknya pelan pada Gella yang juga terbangun. "Perawat tua. Napasnya sama seperti the Survivor."
 
-Gella mengukur pelan. "Tiga hitungan, dalam tapi pelan," bisiknya. "Ia the Survivor #1 — yang selamat di celah menara delapan belas tahun silam. Kunci ada di tempat kita sendiri sejak awal."
+Gella mengukur pelan. "Tiga hitungan, dalam tapi pelan," bisiknya. "Ia the Gate Survivor — yang selamat di celah menara delapan belas tahun silam. Kunci ada di tempat kita sendiri sejak awal."
 
-"Maka simpul #1 bukan celah menara," kata Ashvarok-Renn. "Tapi perawat tua yang menjaganya. Kita tidak perlu cari jauh. Ia ada di ambang kita."
+"Maka the Gate Knot bukan celah menara," kata Ashvarok-Renn. "Tapi perawat tua yang menjaganya. Kita tidak perlu cari jauh. Ia ada di ambang kita."
 
-Sela mencatat di papan: *Keluarga #1 (the Survivor #1) = perawat tua di menara barak. Simpul #1 = celah menara, dijaga the Survivor di ambangnya. Kunci ada di tempat sendiri.*
+Sela mencatat di papan: *the Gate Family (the Gate Survivor) = perawat tua di menara barak. the Gate Knot = celah menara, dijaga the Survivor di ambangnya. Kunci ada di tempat sendiri.*
 
 Di sudut, Brannoc mendengar dan tersenyum pudar. "Selama ini kita jaga celah," katanya. "Tak pernah sadar penjaganya adalah kunci."
 
@@ -19,17 +19,17 @@ Di sudut, Brannoc mendengar dan tersenyum pudar. "Selama ini kita jaga celah," k
 
 ---
 
-Fajar itu, Ossian mengirim kabar lewat Thessa: the Wanes menyerang pos barat daya, menangkap semua yang punya bekas luka di leher. the Survivor #2 hampir tertangkap, tapi murid Ossian menyelamatkannya lewat jalur rawa belakang.
+Fajar itu, Ossian mengirim kabar lewat Thessa: the Wanes menyerang pos barat daya, menangkap semua yang punya bekas luka di leher. the Escape Survivor hampir tertangkap, tapi murid Ossian menyelamatkannya lewat jalur rawa belakang.
 
-*Mereka bawa pergi tiga orang salah,* tulis Ossian. *Tapi the Survivor #2 lolos ke hutan. Ia kini bersembunyi, dan aku suruh muridku ajarkan ketukan darurat: dua pendek satu panjang berarti 'lari ke benang'.*
+*Mereka bawa pergi tiga orang salah,* tulis Ossian. *Tapi the Escape Survivor lolos ke hutan. Ia kini bersembunyi, dan aku suruh muridku ajarkan ketukan darurat: dua pendek satu panjang berarti 'lari ke benang'.*
 
-Ashvarok-Renn membaca di serambi. "the Survivor #2 selamat, tapi pos barat daya kini di bawah the Wanes," katanya pada Kovan. "Simpul #6 jatuh ke tangan mereka."
+Ashvarok-Renn membaca di serambi. "the Escape Survivor selamat, tapi pos barat daya kini di bawah the Wanes," katanya pada Kovan. "the Unclaimed Knot jatuh ke tangan mereka."
 
-"Kalau mereka pegang simpul #6 dan punya the Survivor palsu, apakah mereka bisa buka sebagian?" tanya Sela.
+"Kalau mereka pegang the Unclaimed Knot dan punya the Survivor palsu, apakah mereka bisa buka sebagian?" tanya Sela.
 
-"Mereka pegang simpul, tapi tidak pegang kunci," jawab Ashvarok-Renn. "the Survivor #2 lolos. Tanpa dia, simpul #6 hanya batu yang berdenyut. Mereka bisa panen pola, tapi tidak buka pintu."
+"Mereka pegang simpul, tapi tidak pegang kunci," jawab Ashvarok-Renn. "the Escape Survivor lolos. Tanpa dia, the Unclaimed Knot hanya batu yang berdenyut. Mereka bisa panen pola, tapi tidak buka pintu."
 
-Gella mendekat. "Kita harus pindahkan the Survivor #2 ke tempat aman. Tapi dia tidak kenal barak."
+Gella mendekat. "Kita harus pindahkan the Escape Survivor ke tempat aman. Tapi dia tidak kenal barak."
 
 "Dia tidak perlu kenal barak," kata Ashvarok-Renn. "Dia hanya perlu kenal ketukan. Murid Ossian sudah ajarkan dia. Bila dia berdentum dua pendek satu panjang, kita tahu ia butuh perlindungan, dan kita kirim benang tanpa nama."
 
@@ -39,13 +39,13 @@ Di sudut, Gella duduk memilin benang bersama perawat tua. "Pos jatuh," katanya p
 
 ---
 
-Mira di menara membuka buku catatan halaman kesebelas. "Dentum di barat daya berdenyut liar saat the Wanes masuk," katanya pada perawat tua. "Tapi setelah the Survivor lolos, kembali acak. Simpul #6 hidup, tapi tak terbuka."
+Mira di menara membuka buku catatan halaman kesebelas. "Dentum di barat daya berdenyut liar saat the Wanes masuk," katanya pada perawat tua. "Tapi setelah the Survivor lolos, kembali acak. the Unclaimed Knot hidup, tapi tak terbuka."
 
 "Mereka pegang simpul, bukan kunci," kata perawat tua.
 
-"Tepat seperti yang guru duga." Mira menulis: *The Wanes serang pos barat daya, tangkap 3 salah, the Survivor #2 lolos via murid Ossian. Simpul #6 jatuh ke tangan mereka tapi tanpa kunci = tak terbuka. Keluarga #1 = perawat tua (di barak).* Ia mengetuk ubin tiga kali, diam sehentakan.
+"Tepat seperti yang guru duga." Mira menulis: *The Wanes serang pos barat daya, tangkap 3 salah, the Escape Survivor lolos via murid Ossian. the Unclaimed Knot jatuh ke tangan mereka tapi tanpa kunci = tak terbuka. the Gate Family = perawat tua (di barak).* Ia mengetuk ubin tiga kali, diam sehentakan.
 
-Di barak, Ashvarok-Renn menulis di bible: *Keluarga #1 = perawat tua (the Survivor #1, jaga celah menara). Keluarga #2 (barat daya) lolos dari serangan the Wanes, simpul #6 jatuh tapi tanpa kunci. Total temuan: #1, #2, #3. Sisa: #4, #5, #7 (the Hollow).*
+Di barak, Ashvarok-Renn menulis di bible: *the Gate Family = perawat tua (the Gate Survivor, jaga celah menara). the Escape Family (barat daya) lolos dari serangan the Wanes, the Unclaimed Knot jatuh tapi tanpa kunci. Total temuan: the Gate, the Escape, the Remnant. Sisa: the Stillness, the Silence, the Ground (the Hollow).*
 
 ---
 
@@ -57,17 +57,17 @@ Brannoc mengumpulkan dua belas anak di halaman. "Ketukan darurat baru," katanya.
 
 Di sudut, Gella melatih tiga anak mengukur napas perawat tua saat ia tidur. "Ia the oldest Survivor kita," katanya pelan. "Jaga napasnya seperti jaga pintu."
 
-Sela mencatat: *3 anak ukur napas perawat tua = konfirmasi #1. Strategi: simpul dijaga the Survivor di ambangnya, bukan di tempat lain.*
+Sela mencatat: *3 anak ukur napas perawat tua = konfirmasi the Gate. Strategi: simpul dijaga the Survivor di ambangnya, bukan di tempat lain.*
 
 ---
 
-Maera tiba membawa koper pos terakhir batch, dan kain tenun dari murid barat daya: *the Survivor #2 aman di hutan, kuajarkan ketukan darurat. Ia bertanya kenapa dia diajari, kubilang itu lagu pengantar tidur. Ia tersenyum, lalu berdentum dua pendek satu panjang tanpa kusuruh. Ia sudah paham.*
+Maera tiba membawa koper pos terakhir batch, dan kain tenun dari murid barat daya: *the Escape Survivor aman di hutan, kuajarkan ketukan darurat. Ia bertanya kenapa dia diajari, kubilang itu lagu pengantar tidur. Ia tersenyum, lalu berdentum dua pendek satu panjang tanpa kusuruh. Ia sudah paham.*
 
 Ashvarok-Renn membacanya, lalu menyerahkan ke Maera. "Ia sudah paham," katanya pada Kovan. "Tanpa nama, tanpa perintah. Itu yang membuat jaringan ini hidup saat kita tiada."
 
-Kovan menatap peta di dinding serambi, benang abu-abu ke barat daya kini putus karena pos jatuh ke the Wanes. "Simpul #6 hilang ke tangan mereka," katanya. "Tapi tanpa the Survivor #2, simpul itu hanya batu berdenyut. Mereka tak bisa buka pintu."
+Kovan menatap peta di dinding serambi, benang abu-abu ke barat daya kini putus karena pos jatuh ke the Wanes. "the Unclaimed Knot hilang ke tangan mereka," katanya. "Tapi tanpa the Escape Survivor, simpul itu hanya batu berdenyut. Mereka tak bisa buka pintu."
 
-"Belum," kata Ashvarok-Renn. "Tapi bila mereka tangkap the Survivor palsu dan paksa napasnya, dentum bisa menjawab sebagian. Kita jaga #2 di hutan, dan ajarkan dia ketukan darurat supaya ia bisa lari sebelum mereka temukan."
+"Belum," kata Ashvarok-Renn. "Tapi bila mereka tangkap the Survivor palsu dan paksa napasnya, dentum bisa menjawab sebagian. Kita jaga the Escape di hutan, dan ajarkan dia ketukan darurat supaya ia bisa lari sebelum mereka temukan."
 
 Di sudut, Gella mengukur napas perawat tua saat ia tidur lelap di ambang menara. "Tiga hitungan, dalam tapi pelan," bisiknya pada Sela. "Ia the oldest Survivor kita. Delapan belas tahun ia jaga celah tanpa tahu ia adalah kunci."
 
@@ -75,11 +75,11 @@ Di sudut, Gella mengukur napas perawat tua saat ia tidur lelap di ambang menara.
 
 "Tidak. Bila ia tahu, napasnya berubah karena beban, dan the Wanes bisa mendeteksinya dari jauh." Gella menutup buku. "Biarkan ia terus menjadi perawat tua biasa yang menghitung angin. Itu penyamaran terbaik."
 
-Di menara, Mira menutup buku catatan dan menulis di sisi terakhir: *Batch cari keluarga: #1 (perawat tua/barak), #2 (barat daya, lolos), #3 (timur) terkonfirmasi. Strategi: jaga the Survivor di ambang simpul, bukan kumpul.* Perawat tua membubuhkan garis lurus di bawahnya, tiga.
+Di menara, Mira menutup buku catatan dan menulis di sisi terakhir: *Batch cari keluarga: the Gate (perawat tua/barak), the Escape (barat daya, lolos), the Remnant (timur) terkonfirmasi. Strategi: jaga the Survivor di ambang simpul, bukan kumpul.* Perawat tua membubuhkan garis lurus di bawahnya, tiga.
 
-Ashvarok-Renn membuka bible kecil dan menulis di bawah catatan keluarga: *Arc pencarian keluarga (batch 1): #1 perawat tua (celah menara/barak), #2 barat daya (lolos serangan the Wanes), #3 pemulung timur. The Wanes pegang simpul #6 tanpa kunci. Strategi menang: jaga the Survivor di ambang simpul masing-masing, bukan kumpulkan di satu tempat.*
+Ashvarok-Renn membuka bible kecil dan menulis di bawah catatan keluarga: *Arc pencarian keluarga (batch 1): the Gate perawat tua (celah menara/barak), the Escape barat daya (lolos serangan the Wanes), the Remnant pemulung timur. The Wanes pegang the Unclaimed Knot tanpa kunci. Strategi menang: jaga the Survivor di ambang simpul masing-masing, bukan kumpulkan di satu tempat.*
 
-Ia menutup bible, lalu menatap papan world-state. Sela telah menulis: *Keluarga #1=#perawat tua, #2=barat daya(lolos), #3=timur. Sisa #4,#5,#7. Jaga the Survivor di ambang, bukan kumpul.*
+Ia menutup bible, lalu menatap papan world-state. Sela telah menulis: *the Gate Family=#perawat tua, the Escape=barat daya(lolos), the Remnant=timur. Sisa the Stillness,the Silence,the Ground. Jaga the Survivor di ambang, bukan kumpul.*
 
 Di sudut, Gella duduk memilin benang bersama perawat tua di ambang menara. "Kita temukan tiga dalam seminggu," katanya. "Ibu Tamma, pemulung timur, dan engkau. Delapan belas tahun kalian bersembunyi tanpa tahu kunci ada pada kalian."
 
@@ -111,7 +111,7 @@ Di sudut, Gella mengukur napas perawat tua yang sudah terjaga dan duduk memilin 
 
 Ashvarok-Renn membuka bible kecil. "Hari ini kita mulai pemetaan napas," tulisnya. "Tiga the Survivor sudah dikenali. Sisa dikejar tanpa nama."
 
-Ia menatap ke barat daya di mana pos itu kini di bawah the Wanes. "the Survivor #2 selamat karena murid Ossian mengajarinya ketukan," katanya pada Gella. "Tapi simpul #6 kini di tangan mereka. Bila mereka paksa batu itu berdentum tanpa kunci, apa yang terjadi?"
+Ia menatap ke barat daya di mana pos itu kini di bawah the Wanes. "the Escape Survivor selamat karena murid Ossian mengajarinya ketukan," katanya pada Gella. "Tapi the Unclaimed Knot kini di tangan mereka. Bila mereka paksa batu itu berdentum tanpa kunci, apa yang terjadi?"
 
 "Hanya pola kosong," kata Gella. "Simpul jawab, tapi pintu tidak buka. Mereka panen dentum, bukan kunci."
 
@@ -119,9 +119,9 @@ Kovan mencatat di peta: benang abu-abu ke barat daya kini digaris merah tebal. "
 
 "Tepat," kata Ashvarok-Renn. "Mereka pegang batu. Kita pegang napas. Selama napas berlari, pintu dunia tetap tertidur."
 
-Sela menulis di papan: *the Survivor #2 lolos (ketukan darurat). Simpul #6 jatuh tapi tanpa kunci = pola kosong. Kita pegang napas, mereka pegang batu.*
+Sela menulis di papan: *the Escape Survivor lolos (ketukan darurat). the Unclaimed Knot jatuh tapi tanpa kunci = pola kosong. Kita pegang napas, mereka pegang batu.*
 
-Mira di menara membuka buku catatan halaman kesebelas. "Dentum di barat daya berdenyut liar saat the Wanes masuk, lalu kembali acak setelah the Survivor #2 lolos," katanya pada perawat tua. "Simpul #6 hidup, tapi tidak terbuka."
+Mira di menara membuka buku catatan halaman kesebelas. "Dentum di barat daya berdenyut liar saat the Wanes masuk, lalu kembali acak setelah the Escape Survivor lolos," katanya pada perawat tua. "the Unclaimed Knot hidup, tapi tidak terbuka."
 
 "Mereka pegang batu, bukan napas," kata perawat tua.
 

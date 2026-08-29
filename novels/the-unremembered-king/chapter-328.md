@@ -3,7 +3,7 @@ title: "Bab 328: Pos yang Mati di Barat Daya"
 chapter: 328
 ---
 
-Kovan menarik benang abu-abu ke arah barat daya di peta Ossian, ke bekas pos Hegemony yang mati sejak perang. "Simpul keenam mungkin berdenyut di sana," katanya. "Dan bila the Survivor #2 ada di dekatnya, maka tempat dan kunci memang berpasangan."
+Kovan menarik benang abu-abu ke arah barat daya di peta Ossian, ke bekas pos Hegemony yang mati sejak perang. "Simpul keenam mungkin berdenyut di sana," katanya. "Dan bila the Escape Survivor ada di dekatnya, maka tempat dan kunci memang berpasangan."
 
 "Kita tidak kirim kaki," kata Ashvarok-Renn. "Tapi kita kirim mata. Ossian punya murid di perbatasan barat daya, bukan?"
 
@@ -11,7 +11,7 @@ Maera mengangguk. "Satu murid Sekolah Mendengar ditempatkan di desa pinggiran, s
 
 "Tanpa masuk," ulang Ashvarok-Renn. "Pos itu mungkin masih diawasi the Wanes atau sisa Hegemony. Mata dari jauh, bukan tangan di dalam."
 
-Sela menulis di papan: *Cari the Survivor #2 di barat daya via murid Ossian (pengamat jauh). Simpul #6 mungkin berdenyut di pos mati. Jangan kirim kaki.*
+Sela menulis di papan: *Cari the Escape Survivor di barat daya via murid Ossian (pengamat jauh). the Unclaimed Knot mungkin berdenyut di pos mati. Jangan kirim kaki.*
 
 Di sudut, Brannoc mendengar dan ikut menatap peta. "Bila the Survivor tersebar di sekitar simpul," katanya, "maka tiap desa yang kita jaga diam-diam sebenarnya punya kunci di dekatnya. Kita tidak sadar menjaga pintu di banyak tempat sekaligus."
 
@@ -25,7 +25,7 @@ Ashvarok-Renn terdiam. "Berarti keluarga pengikat bukan darah," katanya pelan. "
 
 "Tepat," kata Gella. "Ibu Tamma selamat dengan sebagian napas yang dihisap. Anak-anaknya bukan pengikat karena darah, tapi karena mereka tumbuh di dekat tubuh yang pernah dihisap. Bekas itu menular pelan ke yang tinggal dekat."
 
-"Maka the Survivor #2 bukan cucu anak kedua," kata Kovan. "Tapi siapa pun di pos barat daya yang pernah selamat dari the Remainder."
+"Maka the Escape Survivor bukan cucu anak kedua," kata Kovan. "Tapi siapa pun di pos barat daya yang pernah selamat dari the Remainder."
 
 "Lebih luas dari yang kukira," bisik Ashvarok-Renn. "Kita cari bukan garis keturunan, tapi jejak napas yang dihisap."
 
@@ -39,9 +39,9 @@ Mira di menara membuka buku catatan halaman kedelapan, membaca angka yang dikiri
 
 "Pos barat daya berdenyut," kata perawat tua.
 
-"Maka the Survivor #2 dan simpul #6 di tempat sama." Mira menulis: *Simpul #6 (barat daya/pos Hegemony) berdenyut 4x lalu jeda sejak kabar dibicarakan. the Survivor #2 = the Survivor of the Remainder di pos, bukan darah. Cari jejak napas dihisap.* Ia mengetuk ubin tiga kali, diam sehentakan.
+"Maka the Escape Survivor dan the Unclaimed Knot di tempat sama." Mira menulis: *the Unclaimed Knot (barat daya/pos Hegemony) berdenyut 4x lalu jeda sejak kabar dibicarakan. the Escape Survivor = the Survivor of the Remainder di pos, bukan darah. Cari jejak napas dihisap.* Ia mengetuk ubin tiga kali, diam sehentakan.
 
-Di barak, Ashvarok-Renn menutup bible dan menulis: *Revisi: keluarga pengikat = 9 the Survivors of the Remainder (bukan 7 darah). Ibu Tamma = #1 (alm). Calon #2 = pos barat daya (simpul #6). The Wanes cari 7 darah — mereka salah jalan. Kita cari jejak napas dihisap.*
+Di barak, Ashvarok-Renn menutup bible dan menulis: *Revisi: keluarga pengikat = 9 the Survivors of the Remainder (bukan 7 darah). Ibu Tamma = the Gate (alm). the Escape Candidate = pos barat daya (the Unclaimed Knot). The Wanes cari 7 darah — mereka salah jalan. Kita cari jejak napas dihisap.*
 
 ---
 
@@ -61,13 +61,13 @@ Di sudut, Gella mengajari Sela cara membaca bekas luka the Remainder di punggung
 
 Maera tiba membawa koper pos dari utara, dan kain tenun Ossian: *Murid di barat daya laporkan reruntuhan pos berdenyut saat senja, pola empat napas seperti yang kau duga. Ia lihat bayangan orang di ambang, tapi tidak masuk. Satu dari mereka punya bekas lingkaran di leher — the Survivor, seperti kau bilang.*
 
-Ashvarok-Renn membacanya di serambi. "the Survivors di pos barat daya," katanya pada Kovan. "Keluarga #2 ditemukan, secara jejak napas. Tapi kita tidak tarik mereka ke sini. Kita ajarkan dari jauh."
+Ashvarok-Renn membacanya di serambi. "the Survivors di pos barat daya," katanya pada Kovan. "the Escape Family ditemukan, secara jejak napas. Tapi kita tidak tarik mereka ke sini. Kita ajarkan dari jauh."
 
 "Bagaimana mengajar dari jauh?" tanya Sela.
 
 "Melalui murid Ossian. Ia bisa ajarkan ketukan tiga-satu pada the Survivor di sana, pelan-pelan, tanpa menyebut barak." Ashvarok-Renn menyerahkan kain ke Maera. "Suruh Ossian suruh muridnya berteman dengan mereka. Persahabatan lebih aman dari perintah."
 
-Kovan menatap peta, benang abu-abu ke barat daya masih tergantung. "Kalau the Survivor #2 di pos itu, dan the Wanes belum datang, kita punya jendela kecil," katanya. "Tapi bila mereka baca catatan Throne soal tujuh lingkaran, mereka akan menuju sana."
+Kovan menatap peta, benang abu-abu ke barat daya masih tergantung. "Kalau the Escape Survivor di pos itu, dan the Wanes belum datang, kita punya jendela kecil," katanya. "Tapi bila mereka baca catatan Throne soal tujuh lingkaran, mereka akan menuju sana."
 
 "Choir punya peta itu, bukan the Wanes," kata Ashvarok-Renn. "The Wanes punya cap tujuh garis, tapi tidak peta lengkap. Mereka mencari buta. Itu keuntungan kita."
 
@@ -75,29 +75,29 @@ Di sudut, Gella duduk memilin benang bersama perawat tua yang sejak tadi diam di
 
 "Sejak aku jaga celah delapan belas tahun silam," kata perawat tua. "Aku merasa napasku pelan sejak the Remainder datang. Tapi baru kau yang bilang itu tanda the Survivor."
 
-"Kau the Survivor #1," bisik Gella. "Tapi biarkan itu rahasia. Bila kau tahu, napasmu berubah, dan the Wanes bisa mendeteksinya dari jauh."
+"Kau the Gate Survivor," bisik Gella. "Tapi biarkan itu rahasia. Bila kau tahu, napasmu berubah, dan the Wanes bisa mendeteksinya dari jauh."
 
 Perawat tua tersenyum tipis. "Maka aku tetap perawat tua yang menghitung angin. Itu penyamaran terbaik."
 
-Brannoc sendiri mendekat, membawa peta kasar pos barat daya yang digambar murid Ossian. "Ini bentuk reruntuhan," katanya. "Tujuh tiang batu di tengah, seperti tujuh garis cap yang ditinggalkan the Wanes di the Hollow. Mungkin pos itu memang dibangun di atas simpul #6 sejak purba."
+Brannoc sendiri mendekat, membawa peta kasar pos barat daya yang digambar murid Ossian. "Ini bentuk reruntuhan," katanya. "Tujuh tiang batu di tengah, seperti tujuh garis cap yang ditinggalkan the Wanes di the Hollow. Mungkin pos itu memang dibangun di atas the Unclaimed Knot sejak purba."
 
 "Maka Hegemony dulu tahu," kata Kovan. "Mereka pakai pos sebagai jalur, tidak tahu mereka berdiri di atas the Survivor."
 
 "Kita tidak akan ulangi kesalahan mereka," kata Ashvarok-Renn. "Kita jaga the Survivor tanpa mengklaim tempatnya. Biarkan pos tetap mati, biarkan the Survivor tetap di hutan."
 
-Di menara, Mira membuka buku catatan halaman kedelapan dan menulis di sisi: *Keluarga #2 = the Survivor of the Remainder di pos barat daya (simpul #6). Pos Hegemony dibangun di atas simpul #6. The Wanes salah jalan cari 7 darah. Barak cari jejak napas.* Perawat tua membubuhkan garis lurus di bawahnya, tiga.
+Di menara, Mira membuka buku catatan halaman kedelapan dan menulis di sisi: *the Escape Family = the Survivor of the Remainder di pos barat daya (the Unclaimed Knot). Pos Hegemony dibangun di atas the Unclaimed Knot. The Wanes salah jalan cari 7 darah. Barak cari jejak napas.* Perawat tua membubuhkan garis lurus di bawahnya, tiga.
 
-Ashvarok-Renn membuka bible kecil dan menulis: *Keluarga #2 = the Survivor barat daya (simpul #6). Diajarkan dentum via murid Ossian, tanpa nama. Sisa: 7 the Survivors lagi tersebar. The Wanes cari 7 darah — kita cari 8 napas tersisa.*
+Ashvarok-Renn membuka bible kecil dan menulis: *the Escape Family = the Survivor barat daya (the Unclaimed Knot). Diajarkan dentum via murid Ossian, tanpa nama. Sisa: 7 the Survivors lagi tersebar. The Wanes cari 7 darah — kita cari 8 napas tersisa.*
 
-Maera tiba membawa koper pos terbaru dari utara. "Ossian kirim ini," katanya. "Murid barat daya sudah berteman dengan the Survivor #2. Mereka main ketukan bersama di rawa, tanpa menyebut barak."
+Maera tiba membawa koper pos terbaru dari utara. "Ossian kirim ini," katanya. "Murid barat daya sudah berteman dengan the Escape Survivor. Mereka main ketukan bersama di rawa, tanpa menyebut barak."
 
 "Persahabatan berjalan," kata Ashvarok-Renn. "Itu yang the Wanes takkan baca — bukan perintah, tapi ikatan."
 
-Kovan menatap peta, benang abu-abu ke barat daya masih menyala pelan. "Simpul #6 berdenyut di pos mati," katanya. "Tapi the Survivor's di hutan. Selama ia di luar pos, the Wanes hanya punya batu."
+Kovan menatap peta, benang abu-abu ke barat daya masih menyala pelan. "the Unclaimed Knot berdenyut di pos mati," katanya. "Tapi the Survivor's di hutan. Selama ia di luar pos, the Wanes hanya punya batu."
 
 "Maka kita jaga jaraknya," kata Gella. "Jangan tarik dia ke sini. Biarkan rawa jadi rumahnya."
 
-Sela menulis di papan: *the Survivor #2 di hutan (bukan pos). Murid Ossian berteman via ketukan. Simpul #6 = batu mati tanpa dia. Jaga jarak.*
+Sela menulis di papan: *the Escape Survivor di hutan (bukan pos). Murid Ossian berteman via ketukan. the Unclaimed Knot = batu mati tanpa dia. Jaga jarak.*
 
 Malam itu, Ashvarok-Renn duduk di serambi sendirian setelah semua anak tidur. Ia menatap benang merah ke utara yang tak lagi berdenyut, dan benang abu-abu ke barat daya yang masih menyala pelan. "Enam kunci," bisiknya pada malam. "Tiga sudah kita temukan. Tiga lagi bersembunyi. Jika the Wanes belajar cara kita, mereka akan temukan sebelum kita."
 
@@ -111,13 +111,13 @@ Di sudut, Gella mengukur napas perawat tua yang duduk memilin benang. "Tiga hitu
 
 "Catat di papan," kata Sela.
 
-Kovan menatap peta, benang abu-abu ke barat daya kini putus karena pos jatuh. "Simpul #6 jatuh ke tangan mereka," katanya. "Tapi tanpa the Survivor #2, ia hanya batu berdenyut."
+Kovan menatap peta, benang abu-abu ke barat daya kini putus karena pos jatuh. "the Unclaimed Knot jatuh ke tangan mereka," katanya. "Tapi tanpa the Escape Survivor, ia hanya batu berdenyut."
 
 "Tepat," kata Ashvarok-Renn. "Mereka pegang simpul, bukan kunci."
 
-Sela menulis di papan: *3 anak + Gella = alat deteksi napas hidup. Latihan pertama hari ini. the Survivor #2 lolos, simpul #6 jatuh tanpa kunci.*
+Sela menulis di papan: *3 anak + Gella = alat deteksi napas hidup. Latihan pertama hari ini. the Escape Survivor lolos, the Unclaimed Knot jatuh tanpa kunci.*
 
-Mira di menara membuka buku catatan. "Dentum barat daya berdenyut liar saat the Wanes masuk, lalu kembali acak setelah the Survivor lolos," katanya. "Simpul #6 hidup, tapi tak terbuka."
+Mira di menara membuka buku catatan. "Dentum barat daya berdenyut liar saat the Wanes masuk, lalu kembali acak setelah the Survivor lolos," katanya. "the Unclaimed Knot hidup, tapi tak terbuka."
 
 "Mereka pegang simpul, bukan kunci," kata perawat tua.
 

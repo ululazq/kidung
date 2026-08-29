@@ -3,7 +3,7 @@ title: "Bab 351: Keputusan di Meja Panjang"
 chapter: 351
 ---
 
-Ossian tiba di barak pada fajar kesembilan belas sejak ia berangkat, bersama yang tua dan yang muda. Mereka tidak membawa benda bundar, tidak membawa sketsa baru — hanya satu pertanyaan yang mereka bawa dari tiga batu tegak, dan jawaban yang belum mereka putuskan. Di gerbang barak, Sela sudah menunggu, memegang papan catatannya.
+Ossian tiba di barak pada fajar kesembilan belas sejak ia berangkat, bersama the Keeper dan the Seeker. Mereka tidak membawa benda bundar, tidak membawa sketsa baru — hanya satu pertanyaan yang mereka bawa dari tiga batu tegak, dan jawaban yang belum mereka putuskan. Di gerbang barak, Sela sudah menunggu, memegang papan catatannya.
 
 "Kau menemukannya," katanya. Bukan pertanyaan.
 
@@ -19,7 +19,7 @@ Ketika ia selesai, meja itu hening beberapa saat. Kemudian Brannoc berbicara: "K
 
 "Ada pilihan ketiga," kata Ashvarok-Renn. Semua orang menoleh. "Kita pelajari pintu itu sebelum kita memutuskan untuk menutupnya atau mengawasinya. Lelaki itu berkata ia punya kunci dan ingin menutup pintu. Tapi kunci itu — benda bundar dengan tiga lubang — aku pernah melihat bentuknya sekali, seribu tahun silam. Ia bukan kunci untuk menutup pintu. Ia adalah bagian dari mekanisme yang lebih besar."
 
-"Bagian dari apa?" tanya yang muda.
+"Bagian dari apa?" tanya the Seeker.
 
 "Aku tidak tahu." Ashvarok-Renn menatap peta spiral yang digantung di dinding. "Tapi aku tahu satu hal: benda seperti itu tidak pernah dibuat untuk menutup pintu sendirian. Ia dibuat untuk diputar — dan apa pun yang ia putar, entah menutup atau membuka, itu tergantung pada siapa yang memutarnya dan kapan."
 
@@ -33,7 +33,7 @@ Kovan membuka peta spiral dan menunjuk lingkaran-lingkaran tipis yang ia gambar.
 
 "Mencari titik lemahnya." Kovan menatap peta itu. "Sesuatu di utara tidak sedang menarik garis itu. Ia sedang mencari cara untuk membukanya — dan ia sudah mencari selama berapa lama, kita tidak tahu. Lelaki berjubah abu-abu itu berkata ia ingin menutup pintu. Tapi kalau ia benar-benar ingin menutupnya, mengapa ia datang membawa kunci, bukan membawa batu dan pasir untuk menguburnya?"
 
-"Karena kunci lebih cepat daripada penguburan," kata yang tua. "Menutup pintu dengan kunci butuh satu putaran. Menguburnya butuh pekan. Kalau sesuatu di utara sedang mendekat, kunci adalah jawaban yang lebih cepat."
+"Karena kunci lebih cepat daripada penguburan," kata the Keeper. "Menutup pintu dengan kunci butuh satu putaran. Menguburnya butuh pekan. Kalau sesuatu di utara sedang mendekat, kunci adalah jawaban yang lebih cepat."
 
 "Atau," kata Ashvarok-Renn, "lelaki itu membawa kunci karena ia ingin membuka pintu lebih cepat — dan ia memakai cerita penutupan untuk mengumpulkan kunci-kunci lain yang ia butuhkan. Kita membawa dua kain tenun. Mungkin itu bagian dari kunci yang ia cari."
 
@@ -79,7 +79,7 @@ Ia berhenti di depan Mira. "Kau mencatat angin berbalik dua kali dalam satu jam.
 
 "Kalau jaraknya semakin jauh," kata Ashvarok-Renn, "maka sesuatu itu bukan mendekat — ia sedang menunggu kita datang. Dan itu kabar yang lebih buruk, karena berarti pintu itu memang ditujukan untuk kita."
 
-"Berarti kita yang harus memutuskan," kata yang tua dari ambang gudang perkakas, tempat ia berdiri mendengarkan sejak tadi. "Bukan dia yang menunggu di utara. Kalau pintu itu ditujukan untuk kita, maka kita yang memegang keputusan — dan lelaki berjubah abu-abu itu hanya salah satu kunci di antara kunci-kunci lain."
+"Berarti kita yang harus memutuskan," kata the Keeper dari ambang gudang perkakas, tempat ia berdiri mendengarkan sejak tadi. "Bukan dia yang menunggu di utara. Kalau pintu itu ditujukan untuk kita, maka kita yang memegang keputusan — dan lelaki berjubah abu-abu itu hanya salah satu kunci di antara kunci-kunci lain."
 
 "Atau ia bagian dari kunci yang lebih besar," kata Kovan. "Tiga batu, tiga lubang, tiga kunci. Kita punya dua kain tenun dan sketsa logam yang kita gali. Ia punya satu benda bundar. Kalau semuanya harus diputar bersamaan, maka kita tidak bisa menutup pintu tanpa dia — dan ia tidak bisa membuka pintu tanpa kita. Itu keseimbangan yang bisa kita pegang."
 

@@ -27,13 +27,13 @@ Kovan datang dari peta dinding. "Murid Ossian di danau garam bilang 12 anak kita
 
 Sela mencatat di papan: *12 anak di danau garam (berteman, bukan ukur). Ketukan darurat: 2 pendek 1 panjang = lari ke benang. Mata kecil di pasar, bukan perang.* 
 
-Di menara, perawat tua membuka buku catatan halaman keempat belas. Mira membacakan dentum utara. "Masih memanjang setengah hitungan," katanya. "Tapi sejak 12 anak tiba di danau garam, dentumnya lebih teratur — seperti simpul #4 mengenali kehadiran yang ramah, bukan yang mencurigakan."
+Di menara, perawat tua membuka buku catatan halaman keempat belas. Mira membacakan dentum utara. "Masih memanjang setengah hitungan," katanya. "Tapi sejak 12 anak tiba di danau garam, dentumnya lebih teratur — seperti the Stillness Knot mengenali kehadiran yang ramah, bukan yang mencurigakan."
 
-"Anak-anak itu ramah tanpa sadar," kata perawat tua. "Itu yang menyelamatkan #4."
+"Anak-anak itu ramah tanpa sadar," kata perawat tua. "Itu yang menyelamatkan the Stillness."
 
 Gella melatih tiga anak angkatan keempat mengukur napas Ashvarok-Renn saat fajar. "Napas the Survivor berdenyut pelan tapi dalam," katanya pada mereka. "Orang biasa lebih cepat tapi dangkal. Bedanya setengah hitungan, cukup untuk memisahkan kunci dari kerumunan."
 
-Satu anak menirukan di atas papan: *Napas #1 (perawat tua) = 3 hitungan, dalam. Napas the Bearer = 3 hitungan, pelan. Kriteria the Survivor: 0,5 hitungan lebih pendek subuh.* 
+Satu anak menirukan di atas papan: *the Gate Breath (perawat tua) = 3 hitungan, dalam. Napas the Bearer = 3 hitungan, pelan. Kriteria the Survivor: 0,5 hitungan lebih pendek subuh.* 
 
 "Betul," kata Gella. "Tapi jangan ukur di depan umum. Bila the Wanes melihat kalian hitung napas orang, mereka belajar cara kita."
 
@@ -51,25 +51,25 @@ Gella melihat mereka dan tersenyum tipis. "Mereka belajar lebih cepat dari Ossia
 
 Ossian mengirim kain tenun lewat Thessa: *The Wanes di utara mulai hitung orang. Bukan ukur napas — masih terlalu kasar — tapi mereka pegang pergelangan tangan penduduk dan hitung detak dengan jari. Salah cara, tapi arah mereka benar. Bila satu dari mereka paham napas lebih pelan dari detak, jendela kita tertutup.*
 
-Ashvarok-Renn membacanya pada Kovan. "Mereka belajar," katanya. "Pelan, tapi belajar. Kita harus lebih cepat mengamankan #4 sebelum mereka tahu bedanya napas dan detak."
+Ashvarok-Renn membacanya pada Kovan. "Mereka belajar," katanya. "Pelan, tapi belajar. Kita harus lebih cepat mengamankan the Stillness sebelum mereka tahu bedanya napas dan detak."
 
 "Berapa lama?" tanya Kovan.
 
-"Mungkin dua minggu. Mungkin sebulan. Tergantung siapa di antara mereka yang pertama sadar." Ashvarok-Renn menulis di bible kecil: *The Wanes mulai hitung detak pergelangan (masih kasar, bukan napas). Arah benar = jendela menutup. Kejar #4 via persahabatan sebelum mereka paham napas.* 
+"Mungkin dua minggu. Mungkin sebulan. Tergantung siapa di antara mereka yang pertama sadar." Ashvarok-Renn menulis di bible kecil: *The Wanes mulai hitung detak pergelangan (masih kasar, bukan napas). Arah benar = jendela menutup. Kejar the Stillness via persahabatan sebelum mereka paham napas.* 
 
 Brannoc kembali ke halaman. "Anak-anak siap," katanya. "Tapi satu hal: jangan suruh mereka jaga malam. Mereka masih anak. Siang cukup untuk berteman."
 
 "Siang cukup," kata Ashvarok-Renn. "Malam biarkan perempuan tua itu tidur. Murid Ossian yang jaga dari jauh."
 
-Mira di menara menutup buku dan menulis di sisi: *12 anak + murid Ossian jaga #4 (danau garam) siang hari via persahabatan. The Wanes hitung detak pergelangan (kasar) = belajar cara kita. Jendela: sebelum paham napas. Strategi: aman-aman, jangan ukur di depan umum.* Ia mengetuk ubin tiga kali, diam sehentakan.
+Mira di menara menutup buku dan menulis di sisi: *12 anak + murid Ossian jaga the Stillness (danau garam) siang hari via persahabatan. The Wanes hitung detak pergelangan (kasar) = belajar cara kita. Jendela: sebelum paham napas. Strategi: aman-aman, jangan ukur di depan umum.* Ia mengetuk ubin tiga kali, diam sehentakan.
 
 Keesokan pagi, dua belas anak barak berangkat ke danau garam bersama Brannoc. Mereka tidak membawa senjata, hanya kelereng dan papan kecil. Di tepi air, mereka duduk memukul papan dengan ritme yang Brannoc ajarkan. Anak-anak desa mendekat, penasaran, lalu ikut main. Dalam satu jam, tepi danau penuh tawa anak-anak — dan di tengahnya, mata-mata kecil barak memantau napas perempuan tua penjaga perahu tanpa satu pun the Wanes curiga.
 
-Murid Ossian mengirim kain: *Anak-anak bermain seperti tidak terjadi apa-apa. The Wanes lewat desa, lihat anak main, meneruskan. Mereka tidak tahu bahwa di antara tawa itu, napas #4 sedang dijaga.* 
+Murid Ossian mengirim kain: *Anak-anak bermain seperti tidak terjadi apa-apa. The Wanes lewat desa, lihat anak main, meneruskan. Mereka tidak tahu bahwa di antara tawa itu, napas the Stillness sedang dijaga.* 
 
 Ashvarok-Renn membacanya dan mengangguk pada Gella. "Itulah cara kita menang," katanya. "Bukan dengan pedang, tapi dengan anak yang main kelereng."
 
-Sela duduk di serambi memilin benang biru ke utara. "Empat the Survivor bila #4 resmi," bisiknya. "Satu, dua, tiga, empat. Tiga sudah di tangan kita, satu di danau garam hampir terjaga."
+Sela duduk di serambi memilin benang biru ke utara. "Empat the Survivor bila the Stillness resmi," bisiknya. "Satu, dua, tiga, empat. Tiga sudah di tangan kita, satu di danau garam hampir terjaga."
 
 "Jangan bilang di tangan," kata Ashvarok-Renn. "Kita tidak memegang mereka. Kita hanya menjaga agar mereka tetap di ambang sendiri."
 
@@ -91,9 +91,9 @@ Malamnya, Brannoc duduk di serambi bersama dua belas anak yang baru pulang dari 
 
 "Bagus," kata Brannoc. "Tersenyum itu tanda dia merasa aman. Bila dia tak lagi tersenyum, kabari murid Ossian."
 
-Ia mengetuk papan dua pendek satu panjang pelan, lalu membiarkan anak-anak tidur. Di kejauhan, dentum utara berdenyut tenang — seperti simpul #4 yang akhirnya mengenali kehadiran ramah di sekitarnya.
+Ia mengetuk papan dua pendek satu panjang pelan, lalu membiarkan anak-anak tidur. Di kejauhan, dentum utara berdenyut tenang — seperti the Stillness Knot yang akhirnya mengenali kehadiran ramah di sekitarnya.
 
-"Kita pegang empat napas bila #4 resmi," bisiknya. "The Wanes pegang batu tanpa kunci. Selama napas lari, pintu dunia tetap tertidur."
+"Kita pegang empat napas bila the Stillness resmi," bisiknya. "The Wanes pegang batu tanpa kunci. Selama napas lari, pintu dunia tetap tertidur."
 
 Di sudut lain, Kovan duduk memeluk lutut menyimak dentum barat daya yang ia catat sejak pos jatuh. "Masih berdenyut acak," katanya pada Sela. "Batu di sana hidup, tapi pintu tidak terbuka. Seperti the Wanes duduk menunggu sesuatu yang tidak akan datang."
 
@@ -101,11 +101,11 @@ Di sudut lain, Kovan duduk memeluk lutut menyimak dentum barat daya yang ia cata
 
 Kovan mengangguk. "Maka selama kita jaga napas, mereka hanya penjaga batu yang sia-sia."
 
-Di menara, perawat tua membuka buku catatan halaman kelima belas. "Dentum utara memanjang setengah hitungan," katanya pada Mira. "Seperti simpul #4 mengenali kehadiran ramah di sekitarnya, bukan yang mencurigakan."
+Di menara, perawat tua membuka buku catatan halaman kelima belas. "Dentum utara memanjang setengah hitungan," katanya pada Mira. "Seperti the Stillness Knot mengenali kehadiran ramah di sekitarnya, bukan yang mencurigakan."
 
 "Dan menyelamatkan kita," kata perawat tua. "Bila the Wanes lihat anak main, mereka tidak melihat pagar."
 
-Ashvarok-Renn menutup bible dan menulis baris terakhir: *Batch 2 berjalan: 12 anak + murid Ossian jaga #4 via persahabatan. The Wanes belajar hitung detak (kasar). Jendela menutup bila mereka paham napas. Kita kejar lebih cepat.* 
+Ashvarok-Renn menutup bible dan menulis baris terakhir: *Batch 2 berjalan: 12 anak + murid Ossian jaga the Stillness via persahabatan. The Wanes belajar hitung detak (kasar). Jendela menutup bila mereka paham napas. Kita kejar lebih cepat.* 
 
 Ia membiarkan benang diam hidup tanpa namanya, tahu bahwa di utara danau garam, dua belas anak kecil kini menjadi pagar tak bernama bagi perempuan tua yang tidak tahu ia adalah kunci.
 

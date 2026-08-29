@@ -3,17 +3,17 @@ title: "Bab 330: Napas di Hutan Payau"
 chapter: 330
 ---
 
-Murid angkatan ketiga di timur, yang sejak tahun lalu menjaga simpul kelima, mengirim kain tenun panjang lewat kurir desa: *Hutan payau di timur punya pemulung tua yang tinggal di pondok terapung. Aku perhatikan napasnya saat ia tidur — berdenyut setengah hitungan lebih pendek tiap subuh, persis seperti yang guru ajarkan. Ia the Survivor of the Remainder, mungkin keluarga #3.*
+Murid angkatan ketiga di timur, yang sejak tahun lalu menjaga simpul kelima, mengirim kain tenun panjang lewat kurir desa: *Hutan payau di timur punya pemulung tua yang tinggal di pondok terapung. Aku perhatikan napasnya saat ia tidur — berdenyut setengah hitungan lebih pendek tiap subuh, persis seperti yang guru ajarkan. Ia the Survivor of the Remainder, mungkin keluarga the Remnant.*
 
-Ashvarok-Renn membacanya di serambi. "Keluarga #3 di timur," katanya pada Kovan. "Dekat simpul #5 yang sudah bergetar. Maka simpul dan the Survivor memang berpasangan."
+Ashvarok-Renn membacanya di serambi. "the Remnant Family di timur," katanya pada Kovan. "Dekat the Silence Knot yang sudah bergetar. Maka simpul dan the Survivor memang berpasangan."
 
 "Berarti tiap simpul punya the Survivor's," kata Sela. "Tujuh seam, tujuh simpul, tujuh the Survivors — ditambah ibu Tamma dan dua lainnya, sembilan napas."
 
 Ashvarok-Renn mengangguk. "Delapan belas tahun silam, sembilan napas dihisap sekaligus. Yang bertahan hidup tersebar ke simpul-simpul itu. Kita tidak perlu cari delapan lagi secara acak — kita cari di sekitar simpul yang belum kita sentuh."
 
-Kovan menarik benang biru ke arah timur, menyambung simpul #5 ke pondok pemulung. "Maka sisa the Survivors ada di sekitar simpul #1 (celah menara), #3, #4 (selatan), #5 (timur), #6 (barat daya), dan #7 (the Hollow). Kita sudah pegang jejak di #4, #5, #6. Tinggal #1, #3, #7."
+Kovan menarik benang biru ke arah timur, menyambung the Silence Knot ke pondok pemulung. "Maka sisa the Survivors ada di sekitar the Gate Knot (celah menara), the Remnant, the Stillness (selatan), the Silence (timur), the Unclaimed (barat daya), dan the Ground (the Hollow). Kita sudah pegang jejak di the Stillness, the Silence, the Unclaimed. Tinggal the Gate, the Remnant, the Ground."
 
-"Dan #7 adalah the Hollow sendiri," kata Gella. "the Survivors di sana mungkin sudah diambil the Wanes, atau sudah mati."
+"Dan the Ground adalah the Hollow sendiri," kata Gella. "the Survivors di sana mungkin sudah diambil the Wanes, atau sudah mati."
 
 Di sudut, Brannoc mendengar dan tersenyum tipis. "Berarti kita jaga tujuh pintu di tujuh desa," katanya. "Tanpa satu pun dari mereka tahu mereka penjaga."
 
@@ -23,7 +23,7 @@ Di sudut, Brannoc mendengar dan tersenyum tipis. "Berarti kita jaga tujuh pintu 
 
 Gella mendatangi Ashvarok-Renn di serambi. "Kau bilang sembilan napas," katanya. "Tapi ibu Tamma adalah satu, dan aku yang ukur napasmu adalah saksi. Berapa sebenarnya yang masih hidup?"
 
-"Delapan belas tahun silam sembilan hilang. Tiga di antaranya mati saat pengisapan — termasuk dua yang tubuhnya hancur di depan kita. Enam bertahan: ibu Tamma, aku, dan empat lainnya yang tersebar." Ashvarok-Renn menatap peta. "Kita temukan ibu Tamma (alm), the Survivor barat daya (#2), the Survivor timur (#3). Sisa: tiga lagi di sekitar simpul #1, #3, dan mungkin #7."
+"Delapan belas tahun silam sembilan hilang. Tiga di antaranya mati saat pengisapan — termasuk dua yang tubuhnya hancur di depan kita. Enam bertahan: ibu Tamma, aku, dan empat lainnya yang tersebar." Ashvarok-Renn menatap peta. "Kita temukan ibu Tamma (alm), the Survivor barat daya (the Escape), the Survivor timur (the Remnant). Sisa: tiga lagi di sekitar the Gate Knot, the Remnant, dan mungkin the Ground."
 
 "Berarti tujuh keluarga yang kau cari sebenarnya enam the Survivors hidup," kata Sela. "Bukan sembilan."
 
@@ -35,13 +35,13 @@ Di sudut, Gella duduk memilin benang bersama perawat tua. "Enam napas hidup," ka
 
 ---
 
-Mira di menara membuka buku catatan halaman kesepuluh. "Dentum di timur berdenyut empat napas senja," katanya pada perawat tua. "Tapi sejak kabar pemulung tua, napas antara keras dan pelan di menara memanjang setengah hitungan. Seperti simpul #5 merespons kehadiran the Survivor di dekatnya."
+Mira di menara membuka buku catatan halaman kesepuluh. "Dentum di timur berdenyut empat napas senja," katanya pada perawat tua. "Tapi sejak kabar pemulung tua, napas antara keras dan pelan di menara memanjang setengah hitungan. Seperti the Silence Knot merespons kehadiran the Survivor di dekatnya."
 
 "Simpul mengenali the Survivor's," kata perawat tua.
 
-"Maka bila kita kumpulkan semua the Survivors, the Hollow akan berdenyut teratur — dan terbuka, atau terjaga." Mira menulis: *Simpul #5 (timur) merespons kehadiran the Survivor (#3) — napas menara memanjang 0,5 hitungan. Tiap simpul punya the Survivor's. Kumpulkan semua = pintu terjaga atau terbuka.* Ia mengetuk ubin tiga kali, diam sehentakan.
+"Maka bila kita kumpulkan semua the Survivors, the Hollow akan berdenyut teratur — dan terbuka, atau terjaga." Mira menulis: *the Silence Knot (timur) merespons kehadiran the Survivor (the Remnant) — napas menara memanjang 0,5 hitungan. Tiap simpul punya the Survivor's. Kumpulkan semua = pintu terjaga atau terbuka.* Ia mengetuk ubin tiga kali, diam sehentakan.
 
-Di barak, Ashvarok-Renn menulis di bible: *Keluarga #3 = pemulung tua di hutan payau timur (simpul #5). Sisa the Survivor: #1 (celah menara), #3 (utara/danau garam), #7 (the Hollow). Total temuan: ibu Tamma(alm), #2 barat daya, #3 timur. Sisa 3-4 hidup.*
+Di barak, Ashvarok-Renn menulis di bible: *the Remnant Family = pemulung tua di hutan payau timur (the Silence Knot). Sisa the Survivor: the Gate (celah menara), the Remnant (utara/danau garam), the Ground (the Hollow). Total temuan: ibu Tamma(alm), the Escape barat daya, the Remnant timur. Sisa 3-4 hidup.*
 
 ---
 
@@ -55,23 +55,23 @@ Brannoc mengumpulkan dua belas anak di halaman. "Kalian dengar tentang pemulung 
 
 Di sudut, Gella melatih tiga anak mengukur napas Ashvarok-Renn saat fajar. "Napas the Survivor berdenyut pelan tapi dalam," katanya. "Orang biasa lebih cepat tapi dangkal. Bedanya setengah hitungan, tapi cukup untuk memisahkan kunci dari kerumunan."
 
-Sela mencatat: *3 anak makin presisi ukur napas. Kriteria the Survivor: 0,5 hitungan lebih pendek subuh, dalam tapi pelan. Pemulung timur = #3 terkonfirmasi.*
+Sela mencatat: *3 anak makin presisi ukur napas. Kriteria the Survivor: 0,5 hitungan lebih pendek subuh, dalam tapi pelan. Pemulung timur = the Remnant terkonfirmasi.*
 
 ---
 
-Kovan menatap peta, benang biru ke timur masih menyala. "the Survivor #3 di hutan payau, dekat simpul #5 yang sudah bergetar," katanya. "Berarti tiap simpul yang kita dengar punya the Survivor di dekatnya. Tinggal cari di sekitar simpul yang belum berdentum: #1 (celah menara), #3 (utara?), dan #7 (the Hollow)."
+Kovan menatap peta, benang biru ke timur masih menyala. "the Remnant Survivor di hutan payau, dekat the Silence Knot yang sudah bergetar," katanya. "Berarti tiap simpul yang kita dengar punya the Survivor di dekatnya. Tinggal cari di sekitar simpul yang belum berdentum: the Gate (celah menara), the Remnant (utara?), dan the Ground (the Hollow)."
 
-"#1 sudah kita pegang di barak — perawat tua," kata Ashvarok-Renn. "Tinggal #3 dan #7."
+"the Gate sudah kita pegang di barak — perawat tua," kata Ashvarok-Renn. "Tinggal the Remnant dan the Ground."
 
-"#3 di utara, dekat danau garam tempat Ossian awasi," kata Sela. "Mungkin pendengar Ossian sudah lihat napas aneh tanpa sadar."
+"the Remnant di utara, dekat danau garam tempat Ossian awasi," kata Sela. "Mungkin pendengar Ossian sudah lihat napas aneh tanpa sadar."
 
-"Suruh Ossian minta mereka ukur napas pendudang di danau garam," kata Ashvarok-Renn. "Pelan-pelan. Bila ada yang berdenyut setengah hitungan lebih pendek, itu the Survivor #3."
+"Suruh Ossian minta mereka ukur napas pendudang di danau garam," kata Ashvarok-Renn. "Pelan-pelan. Bila ada yang berdenyut setengah hitungan lebih pendek, itu the Remnant Survivor."
 
-Gella mengangguk. "Dan #7 di the Hollow — the Survivor di pangkal sendiri. Bila the Wanes atau Choir sudah di sana, mungkin mereka sudah pegang dia tanpa tahu."
+Gella mengangguk. "Dan the Ground di the Hollow — the Survivor di pangkal sendiri. Bila the Wanes atau Choir sudah di sana, mungkin mereka sudah pegang dia tanpa tahu."
 
-"Maka #7 mungkin sudah hilang," bisik Sela. "Seperti ibu Tamma yang sudah tiada."
+"Maka the Ground mungkin sudah hilang," bisik Sela. "Seperti ibu Tamma yang sudah tiada."
 
-"Maka kita kejar #3 di utara, dan jaga #1 di sini," kata Ashvarok-Renn. "Satu per satu, tanpa nama."
+"Maka kita kejar the Remnant di utara, dan jaga the Gate di sini," kata Ashvarok-Renn. "Satu per satu, tanpa nama."
 
 Maera tiba membawa koper pos dari utara saat senja. "Murid timur kabarkan pemulung itu makin tenang," katanya. "Ia berdentum tiga-satu saat fajar, seperti barak. Muridnya bilang itu doa, tapi kita tahu itu ikatan."
 
@@ -81,7 +81,7 @@ Di sudut, Gella mengukur napas Ashvarok-Renn di kursi sudut. "Empat hitungan," b
 
 "Empat belas tahun kita jaga celah," kata Ashvarok-Renn. "Sekarang kita jaga enam napas tersebar. Beban bertambah, tapi cara kita sama: diam, dan tidak bernama."
 
-Ashvarok-Renn membuka bible kecil dan menulis: *Keluarga #3 = pemulung hutan payau timur (simpul #5). The Wanes curiga jaringan tak bernama, cari pusat (tak akan temukan). Total hidup: 3-4 the Survivors. Arc lanjut.*
+Ashvarok-Renn membuka bible kecil dan menulis: *the Remnant Family = pemulung hutan payau timur (the Silence Knot). The Wanes curiga jaringan tak bernama, cari pusat (tak akan temukan). Total hidup: 3-4 the Survivors. Arc lanjut.*
 
 Di sudut, Gella duduk memilin benang bersama Sela di serambi. "Kita temukan tiga the Survivors dalam seminggu," katanya. "Ibu Tamma di barak, pemulung di timur, dan calon di barat daya. Delapan belas tahun mereka bersembunyi tanpa tahu mereka kunci."
 
@@ -97,7 +97,7 @@ Brannoc mendekat membawa daftar ketukan dua belas anak. "Mereka makin lancar," k
 
 "Bagus," kata Ashvarok-Renn. "Tapi jangan biarkan mereka tahu mereka menjaga pintu dunia. Biarkan itu permainan angka."
 
-Sela menulis di papan: *3 the Survivors ditemukan (#1 barak, #2 barat daya, #3 timur). Sisa 2-3 (#utara danau garam, #celah menara?, #the Hollow mungkin hilang). The Wanes cap 7 garis di 5 desa (cari darah).*
+Sela menulis di papan: *3 the Survivors ditemukan (the Gate barak, the Escape barat daya, the Remnant timur). Sisa 2-3 (#utara danau garam, #celah menara?, #the Hollow mungkin hilang). The Wanes cap 7 garis di 5 desa (cari darah).*
 
 Malam itu, Sela duduk di serambi memilin benang biru ke timur. "Tiga the Survivor," bisiknya. "Ibu Tamma, pemulung, dan perawat tua. Delapan belas tahun mereka tidak tahu mereka kunci."
 
@@ -117,12 +117,12 @@ Di sudut, Gella mengukur napas Ashvarok-Renn yang duduk memilin benang. "Empat h
 
 Ashvarok-Renn membuka bible kecil. "Hari ini kita mulai pemetaan napas desa," tulisnya. "Tiga the Survivor sudah dikenali. Sisa dikejar tanpa nama."
 
-Ia menatap ke timur lewat jendela serambi. "Pemulung di danau garam itu the Survivor #3," katanya pada Gella. "Bila the Wanes mulai bertanya soal napas di sana, ia harus hilang ke rawa sebelum mereka tiba."
+Ia menatap ke timur lewat jendela serambi. "Pemulung di danau garam itu the Remnant Survivor," katanya pada Gella. "Bila the Wanes mulai bertanya soal napas di sana, ia harus hilang ke rawa sebelum mereka tiba."
 
 "Sudah kukirim dua murid Ossian ke danau garam minggu lalu," kata Gella. "Mereka berteman dengan dia, ajarkan ketukan darurat. Ia kini tahu: dua pendek satu panjang berarti lari."
 
-Kovan mencatat di peta: benang biru ke timur kini diikat simpul kecil. "the Survivor #3 aman selama murid Ossian di sana," katanya. "Tapi bila the Wanes tangkap murid itu, rantai putus."
+Kovan mencatat di peta: benang biru ke timur kini diikat simpul kecil. "the Remnant Survivor aman selama murid Ossian di sana," katanya. "Tapi bila the Wanes tangkap murid itu, rantai putus."
 
 "Maka murid Ossian tidak sebut barak," kata Ashvarok-Renn. "Mereka hanya pemuda desa yang suka main kelereng dan hitung napas teman. the Wanes takkan curiga."
 
-Sela menulis di papan: *the Survivor #3 (danau garam) diajari ketukan darurat via 2 murid Ossian. Murid tak sebut barak = tidak terdeteksi.*
+Sela menulis di papan: *the Remnant Survivor (danau garam) diajari ketukan darurat via 2 murid Ossian. Murid tak sebut barak = tidak terdeteksi.*

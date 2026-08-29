@@ -80,7 +80,16 @@ Ejaan baku. Semua nama proper di bab mana pun harus ada di sini.
 | Hollowing | Kebocoran Vel-Ghora: silent zone; nama korban terhapus dari ingatan orang |
 | the Hollowed | Korban Hollowing yang hidup tapi tak lagi diingat siapa pun |
 | the Hollow | Dalam arc the Misclaim (bab 321–331): PANGKAL tujuh seam pengikat (satu titik tengah di peta Choir), kunci pembuka = 9 napas/7 pintu tanpa kunci yang tersebar di 9 the Survivor 18 tahun silam; the Wanes gagal membukanya karena hanya pegang simpul tanpa kunci (batu ke-7 berdenyut, tanpa kunci = hilang saat 9 napas the Survivor); barak buru the Survivor (napas) bukan batu |
-| the Survivors | Dalam arc the Misclaim (bab 327–331): 8–9 orang yang selamat dari peristiwa 18 tahun silam dan memegang "napas" (kunci tanpa nama); napasnya berdenyut setengah hitungan lebih pendek saat subuh; barak memetakan mereka lewat pola napas — keluarga #1 (perawat tua/celah menara), #2 (barat daya, lolos serangan the Wanes), #3 (pemulung timur/hutan payau), #4 (utara/danau garam), #5 (celah menara), #7 (the Hollow); the Wanes menyebutnya "7 darah" (salah) |
+| the Survivors | Dalam arc the Misclaim (bab 327–331): 8–9 orang yang selamat dari peristiwa 18 tahun silam dan memegang "napas" (kunci tanpa nama); napasnya berdenyut setengah hitungan lebih pendek saat subuh; barak memetakan mereka lewat pola napas — keluarga the Gate (perawat tua/celah menara), the Escape (barat daya, lolos serangan the Wanes), the Remnant (pemulung timur/hutan payau), the Stillness (utara/danau garam), the Silence (celah menara), the Ground (the Hollow); the Wanes menyebutnya "7 darah" (salah) |
+| the Seeker | Julukan kanon salah satu the Wanes yang berpisah (bab 342+): yang muda, yang pertama meragukan the Throne, menyerahkan the Unclaimed Stone ke barak, memilih berhenti memburu | mantan the Wane; sekutu barak |
+| the Keeper | Julukan kanon salah satu the Wanes yang berpisah (bab 342+): yang tua, pembawa batu 18 tahun, menemukan rumah penggambar peta di rawa barat, akhirnya ikut berhenti | mantan the Wane; sekutu barak |
+| the Gate | Nama kanon simpul/napas #1 (bab 342+): celah menara, dipegang perawat tua (the Northern Tower Nurse) | simpul #1 → the Gate |
+| the Escape | Nama kanon simpul/napas #2 (bab 342+): barat daya, lolos serangan the Wanes | simpul #2 → the Escape |
+| the Remnant | Nama kanon simpul/napas #3 (bab 342+): timur, hutan payau, dipegang pemulung | simpul #3 → the Remnant |
+| the Stillness | Nama kanon simpul/napas #4 (bab 342+): utara, danau garam | simpul #4 → the Stillness |
+| the Silence | Nama kanon simpul/napas #5 (bab 342+): celah menara bawah, dipegang pengrajin lonceng | simpul #5 → the Silence |
+| the Unclaimed | Nama kanon simpul/batu #6 (bab 342+): batu tanpa kunci yang dibawa the Wanes, kini disimpan barak | simpul #6 → the Unclaimed; the Unclaimed Stone |
+| the Ground | Nama kanon simpul/napas #7 (bab 342+): napas tanah the Hollow, dikunci lonceng pengrajin | simpul #7 → the Ground |
 | the Throne | Dalam arc the Misclaim (bab 321–331): rujukan pusat klaim the Wanes atas tujuh simpul (posisi otoritas faksi, bukan tokoh); barak menolak mengakuinya sebagai pusat |
 | Murmur / Voice / Chorus / Anthem / Requiem | Tangga kemampuan Resonance, terendah ke tertinggi |
 | Vhal-Duren | Menara jaga era pra-Hegemony di dataran tinggi antara Caldrest dan Spire; tak tercatat peta Liberation; reruntuhan + seam pengikat ketujuh |
