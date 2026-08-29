@@ -49,11 +49,9 @@ baru. Semua sudah ditinjau berkali-kali; cukup dirujuk ke daftar ini:
 | E-bb0a05 | "Kak Raja" (3×, bab 244-246) | Vokatif kanon — pola #2. |
 | E-5705d7 | "Overseer Tharrow" (3×, bab 54-59) | Gelar+nama kanon — pola #4. |
 | E-f07054 | "… dan 23 kandidat lain" | Sisa kandidat = pola sama dgn daftar atas (vokatif/gelar/institusi kanon/kata umum). |
-| E-67d68e | "Pell" (4×, bab 292) | Julukan pendek untuk Pellia/Pellia Muda — entitas kanon (bible baris 29 & 147, world-state baris 574-580). Pola #8 (nama kanon, varian panggilan). |
-| E-546026 | entitas | "Pemikul" (2×, bab 323, 325) | the Bearer = julukan Ashvarok-Renn (pembawa beban 9 napas) di arc SANGKALAN; karakter kanon |
-| E-79acf4 | entitas | "Pendengar Utara" (2×, bab 323, 325) | the Northern Listener = jaringan pengamat utara arc SANGKALAN (bab 321-331), bagian faksi/pos barak |
-| E-f659c3 | entitas | "Perawat Menara Utara" (2×, bab 314, 317) | the Northern Tower Nurse = perawat tua di menara (kanon, sama dgn entri perawat tua di world-state) |
-| E-e5b512 | entitas | … dan 1 kandidat lain — periksa dulu yang di atas sebelum melanjutkan | Sisa kandidat arc SANGKALAN (the Wanes/the Hollow/the Throne/the Survivors/the Bearer/the Northern Listener/the Northern Tower Nurse) sudah di-track di bible.md & world-state.md; ini placeholder kandidat terakhir arc yang sama |
-| E-d8b374 | entitas | "Nak" (20×, bab 251, 255, 257, 258, 259, 265, 266, 273, 275, 280, 288, 289, 290, 292, 296) ada di bible (kanon) tapi tidak tercatat di world-state — tambahkan ke tabel Tokoh? | Nak = vokatif peran Wida (bible kanon, baris 142), panggilan untuk semua anak barak, bukan entitas baru; 20x konsisten bab 251-296 |
+| E-67d68e | "Pell" (4×, bab 292) | Julukan pendek untuk Pellia/Pellia Muda — entitas kanon (bible baris 29 & 147, world-state baris 574-580). Pola #8 (nama kanon, varian panggilan) |
+| E-eb7083 | entitas | "Survivor" (15×, bab 327, 328, 329, 330, 331) | the Survivors = entitas arc SANGKALAN (padanan Inggris untuk penyintas 8-9 orang pemegang napas-kunci); sudah di bible.md & world-state.md |
+| E-d4541a | entitas | "Tanggung" (2×, bab 284) | kata umum (pola #7); bukan entitas |
+| E-d8b374 | entitas | "Nak" (20×, bab 251, 255, 257, 258, 259, 265, 266, 273, 275, 280, 288, 289, 290, 292, 296) | Nak = vokatif peran Wida (bible kanon, baris 142), panggilan untuk semua anak barak, bukan entitas baru; 20x konsisten bab 251-296 |
 
 *Terakhir ditinjau: bab 305.*
