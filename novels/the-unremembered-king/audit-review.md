@@ -52,7 +52,6 @@ baru. Semua sudah ditinjau berkali-kali; cukup dirujuk ke daftar ini:
 | E-67d68e | "Pell" (4×, bab 292) | Julukan pendek untuk Pellia/Pellia Muda — entitas kanon (bible baris 29 & 147, world-state baris 574-580). Pola #8 (nama kanon, varian panggilan) |
 | E-d4541a | entitas | "Tanggung" (2×, bab 284) | kata umum (pola #7); bukan entitas |
 | E-a31c2f | entitas | "Survivor's" (6×, bab 327, 328, 330, 331) | Survivor's = bentuk possessive dari the Survivor/the Survivors (entitas arc the Misclaim, sudah di bible.md & world-state.md). Varian token, bukan entitas baru |
-| E-5908fc | entitas | "Survivornya" (6×, bab 327, 328, 330, 331) | the Survivornya = varian penulisan Indonesia-ising dari the Survivor's; sudah di-track sbg the Survivors (arc the Misclaim) |
 | E-d8b374 | entitas | "Nak" (20×, bab 251, 255, 257, 258, 259, 265, 266, 273, 275, 280, 288, 289, 290, 292, 296) | Nak = vokatif peran Wida (bible kanon, baris 142), panggilan untuk semua anak barak, bukan entitas baru; 20x konsisten bab 251-296 |
 
 *Terakhir ditinjau: bab 305.*
