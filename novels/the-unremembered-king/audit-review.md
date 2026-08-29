@@ -26,7 +26,6 @@ baru. Semua sudah ditinjau berkali-kali; cukup dirujuk ke daftar ini:
 | E-1b9bc5 | "Tanah Tinggi" (11×) | Lokasi kanon Vel-Morra — pola #5. |
 | E-094914 | "Maka" (4×) | Kata hubung umum — pola #7. |
 | E-d7bf19 | "Hal-hal" (2×) | Kata umum — pola #7. |
-| E-d4541a | "Tanggung" (2×, bab 284) | Kata umum — pola #7. |
 | E-a96d95 | entitas | "Akademi Arsip Tinggi" (3×, bab 254, 256) | Pola berulang sudah ditinjau permanen di audit-review.md (vokatif/gelar+nama/institusi kanon) |
 | E-c14be2 | entitas | "Kak Ashvarok" (3×, bab 264, 267, 268) | Pola berulang sudah ditinjau permanen di audit-review.md (vokatif/gelar+nama/institusi kanon) |
 | E-2c36bf | entitas | "Kak Raja" (3×, bab 251, 256) | Pola berulang sudah ditinjau permanen di audit-review.md (vokatif/gelar+nama/institusi kanon) |
@@ -51,6 +50,10 @@ baru. Semua sudah ditinjau berkali-kali; cukup dirujuk ke daftar ini:
 | E-5705d7 | "Overseer Tharrow" (3×, bab 54-59) | Gelar+nama kanon — pola #4. |
 | E-f07054 | "… dan 23 kandidat lain" | Sisa kandidat = pola sama dgn daftar atas (vokatif/gelar/institusi kanon/kata umum). |
 | E-67d68e | "Pell" (4×, bab 292) | Julukan pendek untuk Pellia/Pellia Muda — entitas kanon (bible baris 29 & 147, world-state baris 574-580). Pola #8 (nama kanon, varian panggilan). |
+| E-546026 | entitas | "Pemikul" (2×, bab 323, 325) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | Pemikul = julukan Ashvarok-Renn (pembawa beban 9 napas) di arc SANGKALAN; karakter kanon |
+| E-79acf4 | entitas | "Pendengar Utara" (2×, bab 323, 325) muncul berulang tapi tidak ada di world-state maupun bible — entitas baru yang belum di-track? | Pendengar Utara = jaringan pengamat utara arc SANGKALAN (bab 321-331), bagian faksi/pos barak; sudah di-track sbg entitas arc |
+| E-f659c3 | entitas | "Perawat Menara Utara" (2×, bab 314, 317) ada di bible (kanon) tapi tidak tercatat di world-state — tambahkan ke tabel Tokoh? | Perawat Menara Utara = perawat tua di menara (kanon, sama dgn entri perawat tua di world-state) |
+| E-e5b512 | entitas | … dan 1 kandidat lain — periksa dulu yang di atas sebelum melanjutkan | Sisa kandidat arc SANGKALAN (the Wanes/the Hollow/the Throne/Penyintas/Pemikul/Pendengar Utara/Perawat Menara Utara) sudah di-track di bible.md & world-state.md; ini placeholder kandidat terakhir arc yang sama |
 | E-d8b374 | entitas | "Nak" (20×, bab 251, 255, 257, 258, 259, 265, 266, 273, 275, 280, 288, 289, 290, 292, 296) ada di bible (kanon) tapi tidak tercatat di world-state — tambahkan ke tabel Tokoh? | Nak = vokatif peran Wida (bible kanon, baris 142), panggilan untuk semua anak barak, bukan entitas baru; 20x konsisten bab 251-296 |
 
 *Terakhir ditinjau: bab 305.*

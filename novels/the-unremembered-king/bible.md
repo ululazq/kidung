@@ -62,6 +62,7 @@ Ejaan baku. Semua nama proper di bab mana pun harus ada di sini.
 | the Quiet Vein | Sekte ekstraksi urat gema dalam tambang | kontrak kerja paksa berlapis; cincin besi di ibu jari |
 | Koordinasi Artefak Regional | Jabatan/biro Ossian Vael di lantai 40 Anthema Spire | nama sengaja dibuat membosankan; mengendalikan klasifikasi artefak regional |
 | Assayers' Guild | Guild penilai dan perantara artefak | stempel lilin ungu |
+| the Wanes | Faksi dalam arc SANGKALAN (bab 321–331) | memburu "7 darah"/penyintas lewat tanda lahir tujuh titik; cap tujuh garis di desa; SALAH SASAR — cari darah, bukan napas; barak (Ashvarok dkk) buru penyintas lewat pola napas; rujukan pusat klaim = the Throne |
 
 ### Item dan istilah
 | Nama baku | Apa itu |
@@ -78,6 +79,9 @@ Ejaan baku. Semua nama proper di bab mana pun harus ada di sini.
 | staticlock | Kelumpuhan sementara akibat overdraw Resonance |
 | Hollowing | Kebocoran Vel-Ghora: silent zone; nama korban terhapus dari ingatan orang |
 | the Hollowed | Korban Hollowing yang hidup tapi tak lagi diingat siapa pun |
+| the Hollow | Dalam arc SANGKALAN (bab 321–331): PANGKAL tujuh seam pengikat (satu titik tengah di peta Choir), kunci pembuka = 9 napas/7 pintu tanpa kunci yang tersebar di 9 penyintas 18 tahun silam; the Wanes gagal membukanya karena hanya pegang simpul tanpa kunci (batu ke-7 berdenyut, tanpa kunci = hilang saat 9 napas penyintas); barak buru penyintas (napas) bukan batu |
+| Penyintas | Dalam arc SANGKALAN (bab 327–331): 8–9 orang yang selamat dari peristiwa 18 tahun silam dan memegang "napas" (kunci tanpa nama); napasnya berdenyut setengah hitungan lebih pendek saat subuh; barak memetakan mereka lewat pola napas — keluarga #1 (perawat tua/celah menara), #2 (barat daya, lolos serangan the Wanes), #3 (pemulung timur/hutan payau), #4 (utara/danau garam), #5 (celah menara), #7 (the Hollow); the Wanes menyebutnya "7 darah" (salah) |
+| the Throne | Dalam arc SANGKALAN (bab 321–331): rujukan pusat klaim the Wanes atas tujuh simpul (posisi otoritas faksi, bukan tokoh); barak menolak mengakuinya sebagai pusat |
 | Murmur / Voice / Chorus / Anthem / Requiem | Tangga kemampuan Resonance, terendah ke tertinggi |
 | Vhal-Duren | Menara jaga era pra-Hegemony di dataran tinggi antara Caldrest dan Spire; tak tercatat peta Liberation; reruntuhan + seam pengikat ketujuh |
 | Seam Saksi / seam pengikat ketujuh | Batu bundar sebesar meja di reruntuhan Vhal-Duren; menyimpan SUARA (bukan jiwa); saksi hidup malam Pembakaran Nama; interval detak 3 detik; luka sunyi presisi sisi utara (satu nada lagunya dicuri era pemenang); sopan, jenaka, langganan pertama: tiga kambing gunung |
