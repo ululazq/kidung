@@ -9,7 +9,7 @@ Ia membacanya dengan cara mandor tua membaca bekerja tangan, bukan dengan mata s
 
 Tiga tali. Satu umur serat yang berbeda-beda. Satu tangan yang sama.
 
-"Simpul jalanan," kata Brannoc akhirnya. "Dipasang cepat, kencang sendiri. Tarik ujung satunya, lepas semua." Ia meletakkan tiga potongan itu berjajar di atas meja bekerja, seperti penilai menjajarkan bukti. "Kurir bisu itu mengikat bungkusannya dengan simpul ini. Kurir yang wajahnya sama setiap kali. Yang giginya peluit logam."
+"Simpul jalanan," kata Brannoc akhirnya. "Dipasang cepat, kencang sendiri. Tarik ujung satunya, lepas semua." Ia meletakkan tiga potongan itu berjajar di atas meja kerja, seperti penilai menjajarkan bukti. "Kurir bisu itu mengikat bungkusannya dengan simpul ini. Kurir yang wajahnya sama setiap kali. Yang giginya peluit logam."
 
 "Dan serat dari dekat pasak," kata Renn, "punya simpul yang sama di ujungnya."
 
@@ -19,7 +19,7 @@ Tiga tali. Satu umur serat yang berbeda-beda. Satu tangan yang sama.
 
 Mereka menyusun gambarannya bersama-sama, karena gambaran seperti ini tidak boleh disimpan satu kepala.
 
-Dulu, jaringan itu memanen diam-diam. Panener kontraktor datang, menyayat tipis di antara pasak, ambil inti kecil, pergi, dan uangnya mengalir balik melalui slot serahan malam dengan kode kotak garis miring. Rantai itu hidup bertahun-tahun di bawah hidung semua institusi, sebab tidak ada yang lebih aman daripada pencurian yang ukurannya pas di bawah ambang perhatian.
+Dulu, jaringan itu memanen diam-diam. Panener kontraktor datang, menyayat tipis di antara pasak, ambil inti kecil, pergi, dan uangnya mengalir balik melalui slot serahan malam dengan kode kotak garis miring. Rantai itu hidup bertahun-tahun di bawah hidung semua institusi — sebab tidak ada yang lebih aman daripada pencurian yang ukurannya pas di bawah ambang perhatian.
 
 Lalu segalanya berubah dalam setahun. Izin penutupan mati oleh tangan pemohonnya sendiri. Lisensi normal membuat segmen wajib terbuka bagi semua pemegang hak, termasuk mata-mata Guild dan patroli reguler. Peta salah sudah dicap dua institusi, artinya survei ulang bisa datang kapan saja dan membaca yang sebenarnya. Dan di tengah semuanya, kanal gesekan lama yang dulu lega menerima tali mereka kini menyempit menjadi lorong mati yang tidak meneruskan telapak mana pun.
 
@@ -29,7 +29,7 @@ Lalu segalanya berubah dalam setahun. Izin penutupan mati oleh tangan pemohonnya
 
 "Supaya tambang ditutup lagi." Renn berjalan ke dinding gudang tempat peta kabur tambang tergantung, dan menepuk sisi timurnya. "Karantina ringan yang dulu menutup level bawah dan menangguhkan shift. Waktu itu akses hanya lewat surat tanda milik satu orang. Guild berhenti turun. Patroli reguler ditarik ke garis atas. Penambang keluar, saksi hilang, dan siapa pun yang pegang surat tanda bisa turun ke kedalaman sepi tanpa satu pun mata yang tidak dibayarnya. Karantina adalah jendela panen bebas. Dulu dia harus beli alasan itu dari biro dan wali kota, dan alasan itu kita bakar dengan dokumen warisan. Sekarang dia membuat alasannya sendiri, dari dalam, dengan tali dan sabar."
 
-Brannoc memikirkannya dengan cara prajuritnya, yaitu menghitung pintu. "Produksi galeri sembilan nol. Angka nol itu sudah jadi surat undangan di atas kertas siapa pun yang membacanya. Pasak tumbang, runtuhan kecil atau besar, komisi datang menagih keselamatan, dan tambang tutup. Semua sah. Semua sayang."
+Brannoc memikirkannya dengan cara prajuritnya — yaitu menghitung pintu. "Produksi galeri sembilan nol. Angka nol itu sudah jadi surat undangan di atas kertas siapa pun yang membacanya. Pasak tumbang, runtuhan kecil atau besar, komisi datang menagih keselamatan, dan tambang tutup. Semua sah. Semua sayang."
 
 "Dan kurir yang sama tetap bekerja di antara dua dunia itu," kata Renn. "Dia membawa bayaran untuk tukang goyang, dia membawa laporan ke slot serahan, dan dia tahu jadwal mana yang aman karena jadwal itulah barang dagangannya."
 
@@ -39,7 +39,7 @@ Brannoc memikirkannya dengan cara prajuritnya, yaitu menghitung pintu. "Produksi
 
 Malam berikutnya mereka memeriksa slot itu sendiri, dengan cara yang tidak meninggalkan jejak bahwa ia diperiksa.
 
-Gang serahan belakang Quota Office belum berubah banyak sejak malam ketika peluit logam itu digigit di dalamnya. Pintu samping, celah tembok, bekas gesekan tas di tepi batu pijakan. Brannoc membaca lantainya dengan lampu kecil merah, dan pada sudut pijakan ia menemukan yang dicarinya. Bekas tarikan tali baru di kait besi. Serat halus hitungan pekan. Dan bau samar lilin yang tidak lilin tambang, melainkan lilin surat, lilin putih-abu yang tin threadnya sudah lama mereka kenali lebih baik daripada pemiliknya.
+Gang serahan belakang Quota Office belum berubah banyak sejak malam ketika peluit logam itu digigit di dalamnya. Pintu samping, celah tembok, bekas gesekan tas di tepi batu pijakan. Brannoc membaca lantainya dengan lampu kecil merah, dan pada sudut pijakan ia menemukan yang dicarinya. Bekas tarikan tali baru di kait besi. Serat halus hitungan pekan. Dan bau samar lilin yang tidak lilin tambang — melainkan lilin surat, lilin putih-abu yang tin threadnya sudah lama mereka kenali lebih baik daripada pemiliknya.
 
 "Masih lewat," kata Brannoc pelan. "Kiriman masih masuk slot itu minggu ini. Dana yang programnya sudah mati setahun masih jalan di lorong ini tiap beberapa malam."
 
@@ -49,11 +49,11 @@ Ia berdiri sebentar di ujung gang, memandangi pintu samping Quota Office yang ge
 
 "Mari kita pulang," katanya akhirnya. "Tempat ini sudah memberi kita apa yang dimiliki."
 
-Mereka kembali lewat jalur troli kosong tanpa satu percakapan lagi, karena gang seperti itu punya telinga meski sepi, dan rencana yang sedang matang di kepala keduanya terlalu besar untuk dibicarakan di udara terbuka. Baru di gudang perkakas, di atas papan bekerja yang sama, rencana itu diuraikan pelan-pelan dengan potongan kapur, dan bahkan kapur pun dipakai seperlunya saja, sebab simbol cukup untuk dua kepala yang sudah setahun berhitung bersama.
+Mereka kembali lewat jalur troli kosong tanpa satu percakapan lagi, karena gang seperti itu punya telinga meski sepi, dan rencana yang sedang matang di kepala keduanya terlalu besar untuk dibicarakan di udara terbuka. Baru di gudang perkakas, di atas papan kerja yang sama, rencana itu diuraikan pelan-pelan dengan potongan kapur, dan bahkan kapur pun dipakai seperlunya saja — sebab simbol cukup untuk dua kepala yang sudah setahun berhitung bersama.
 
-Umpan kedua, kata Renn, harus menawarkan kepada jaringan itu persis barang yang paling mereka lapar. Kesempatan panen yang pasti, terbatas, dan tanpa saksi. Caranya dua. Pertama, bukti barang. Sebuah tulang seam, fragmen retakan premium, jenis barang yang membuat panener dulu dibayar mahal untuk memotongnya. Tempaan, bukan asli, supaya bisa dikenali pemiliknya kelak di hadapan prosedur mana pun. Ditempa dengan tanda tempa yang halus, tanda yang tidak terlihat orang biasa tapi terbaca instrumen Guild dan terbaca dirinya sendiri, sehingga begitu barang itu berpindah tangan, rantai pemiliknya bisa dibuktikan sampai ujungnya.
+Umpan kedua, kata Renn, harus menawarkan kepada jaringan itu persis barang yang paling mereka lapar. Kesempatan panen yang pasti, terbatas, dan tanpa saksi. Caranya dua. Pertama, bukti barang. Sebuah tulang seam, fragmen retakan premium, jenis barang yang membuat panener dulu dibayar mahal untuk memotongnya. Tempaan, bukan asli, supaya bisa dikenali pemiliknya kelak di hadapan prosedur mana pun. Ditempa dengan tanda tempa yang halus, tanda yang tidak terlihat orang biasa tetapi terbaca instrumen Guild dan terbaca dirinya sendiri, sehingga begitu barang itu berpindah tangan, rantai pemiliknya bisa dibuktikan sampai ujungnya.
 
-Soal kebocoran jadwalnya, Brannoc yang mengambil bagian itu, karena kotak undian inspeksi ventilasi memang miliknya. Jadwal dua pekan digantung di papan gudang seperti biasa, dan seperti biasa ada pekan-pekan yang regunya lebih tebal dan pekan yang lebih tipis. Yang berubah hanya satu. Dua malam di pekan ketiga akan dicatat kosong tanpa kosong, yaitu regu yang tertulis tidak turun tetapi sebenarnya turun lewat pintu lain, sehingga bagi siapa pun yang membaca papan itu dari luar, segmen timur punya dua malam buta yang nyata. Kertas palsu yang dibuat dari kertas yang benar adalah kertas yang paling sulit diduga, dan itu pelajaran yang mereka beli mahal dari orang lain.
+Soal kebocoran jadwalnya, Brannoc yang mengambil bagian itu, karena kotak undian inspeksi ventilasi memang miliknya. Jadwal dua pekan digantung di papan gudang seperti biasa, dan seperti biasa ada pekan-pekan yang regunya lebih tebal dan pekan yang lebih tipis. Yang berubah hanya satu. Dua malam di pekan ketiga akan dicatat kosong tanpa kosong — yaitu regu yang tertulis tidak turun tetapi sebenarnya turun lewat pintu lain, sehingga bagi siapa pun yang membaca papan itu dari luar, segmen timur punya dua malam buta yang nyata. Kertas palsu yang dibuat dari kertas yang benar adalah kertas yang paling sulit diduga — dan itu pelajaran yang mereka beli mahal dari orang lain.
 
 "Dan kedua?" tanya Brannoc.
 
@@ -81,7 +81,7 @@ Sela yang mencatat malam itu, karena kolom Hourglass tidak mengenal liburan. Ia 
 
 Renn memutar fragmen itu di tangannya, dan cahaya tungku yang tinggal bara membuat permukaannya hidup sebentar seperti seam yang sesungguhnya.
 
-"Kalau gagal," katanya, "yang datang ke segmen timur pada dua malam tanpa patroli itu bukan kurir bisu, dan kita akan tahu jaringan itu lebih besar daripada dugaanku. Itu pun jawaban. Jawaban yang lebih mahal, tapi tetap jawaban."
+"Kalau gagal," katanya, "yang datang ke segmen timur pada dua malam tanpa patroli itu bukan kurir bisu, dan kita akan tahu jaringan itu lebih besar daripada dugaanku. Itu pun jawaban. Jawaban yang lebih mahal, tetapi tetap jawaban."
 
 Sela menambahkan sesuatu di kolom paling tepi, huruf-huruf kecil yang hanya dibaca dua orang di dunia ini. "Catat aku bilang begini. Yang paling bahaya dari umpan bukan saat mangsanya datang. Saat mangsanya datang, kita sudah menang. Yang paling bahaya adalah pekan-pekan menunggu, saat umpan sudah terpasang dan kita hanya orang-orang yang tahu ada barang berharga disembunyikan di lorong gelap."
 

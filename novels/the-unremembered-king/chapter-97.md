@@ -5,7 +5,7 @@ chapter: 97
 
 Kabar galeri sembilan sampai kepada pengikat senior dalam bentuk yang paling dia percaya — angka.
 
-Produksi blok timur turun dua pekan berturut-turut, dan penurunannya punya bentuk. Bukan penurunan orang sakit, yang biasanya bergerak landai dan penuh keterlambatan. Ini penurunan orang yang memilih. Regu-regu tetap masuk tambang, jam bekerja tidak berubah, kuota lorong lain malah naik sedikit untuk menutup celah. Hanya satu galeri yang keluar nol, dan hanya galeri itu yang regunya tiba-tiba menjadi pekerja paling rajin di tempat lain.
+Produksi blok timur turun dua pekan berturut-turut, dan penurunannya punya bentuk. Bukan penurunan orang sakit, yang biasanya bergerak landai dan penuh keterlambatan. Ini penurunan orang yang memilih. Regu-regu tetap masuk tambang, jam kerja tidak berubah, kuota lorong lain malah naik sedikit untuk menutup celah. Hanya satu galeri yang keluar nol, dan hanya galeri itu yang regunya tiba-tiba menjadi pekerja paling rajin di tempat lain.
 
 Orang-orang Quota Office membaca itu sebagai kemalasan atau perlawanan halus. Orang-orang yang dulu pernah membaca batu akan membacanya sebagai ketakutan, dan ketakutan selalu punya alamat.
 
@@ -51,11 +51,11 @@ Pengikat senior memandangi bocah itu sedetik lebih lama dari sopan santun. Renn.
 
 ---
 
-Mereka berjalan ke dalam berdampingan, orang tua dan bocah tambang, dengan langkah yang tanpa sengaja saling menyesuaikan iramanya. Setiap lima puluh langkah pengikat senior menyentuh dinding, dan anak itu tidak bertanya kenapa, dan ketidaktanya-bertanya itu sendiri adalah informasi.
+Mereka berjalan ke dalam berdampingan, orang tua dan bocah tambang, dengan langkah yang tanpa sengaja saling menyesuaikan iramanya. Setiap lima puluh langkah pengikat senior menyentuh dinding, dan anak itu tidak bertanya kenapa, dan ketidakbertanyaannya itu sendiri adalah informasi.
 
 Di tikungan tengah orang tua itu berhenti.
 
-"Sekarang aku mau bertanya sesuatu yang bukan urusan drainase," katanya. "Jawab atau tidak jawab, sama saja bagiku. Tapi caraku bertanya sudah tua, dan orang yang menua kadang tidak sanggup lagi membungkus pertanyaannya menjadi sopan."
+"Sekarang aku mau bertanya sesuatu yang bukan urusan drainase," katanya. "Jawab atau tidak jawab, sama saja bagiku. Namun caraku bertanya sudah tua, dan orang yang menua kadang tidak sanggup lagi membungkus pertanyaannya menjadi sopan."
 
 Anak itu menunggu, dan wajahnya tetap wajah pekerja yang menunggu instruksi, yang merupakan wajah paling sulit dibaca yang pernah diciptakan dunia.
 

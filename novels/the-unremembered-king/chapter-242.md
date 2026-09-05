@@ -11,7 +11,7 @@ Ia menatap tangannya sendiri lama.
 
 "Kau yang ketuk?" katanya pelan kepada dalam tubuhnya. "Atau aku yang mulai gila?"
 
-Tidak ada jawaban. Tapi malam harinya, saat Sela bercerita soal perbaikan meja makan pos timur, jari kiri Ashvarok bergerak lagi — kali ini membentuk pola yang oleh murid-murid sekolah dikenal sebagai "ketukan setuju".
+Tidak ada jawaban. Namun malam harinya, saat Sela bercerita soal perbaikan meja makan pos timur, jari kiri Ashvarok bergerak lagi — kali ini membentuk pola yang oleh murid-murid sekolah dikenal sebagai "ketukan setuju".
 
 Ketukan itu terjadi TIGA KALI sepanjang cerita Sela — tepat pada tiga bagian yang kalau Renn mendengar, memang layak disetujui.
 
@@ -29,7 +29,7 @@ Kalau jari mengetuk SETELAH pertanyaan sungguhan dan TIDAK setelah retoris... ma
 
 Hasil pekan pertama: enam dari tujuh malam, ketukan datang tepat setelah pertanyaan sungguhan.
 
-Malam ketujuh gagal — tapi Gella menunjukkan catatannya bahwa malam itu Ashvarok demam ringan. "Tubuh sedang sibuk sembuh," katanya. "Jangan nilai anaknya yang tidur."
+Malam ketujuh gagal — tetapi Gella menunjukkan catatannya bahwa malam itu Ashvarok demam ringan. "Tubuh sedang sibuk sembuh," katanya. "Jangan nilai anaknya yang tidur."
 
 ---
 
@@ -89,7 +89,7 @@ Maera Tull, lewat nat: "Hutang angka lorong tujuh mau dilunasi pakai apa?" — T
 
 ---
 
-Pertanyaan yang paling ditunggu — oleh seluruh kota, tapi terutama oleh dua orang — diajukan malam Rabat, setelah cerita sore selesai:
+Pertanyaan yang paling ditunggu — oleh seluruh kota, tetapi terutama oleh dua orang — diajukan malam Rabat, setelah cerita sore selesai:
 
 Sela, suaranya kecil: "Kak Renn. Kalau kau bangun nanti... kau mau tinggal dengan kami lagi?"
 
@@ -107,7 +107,7 @@ Lalu satu ketuk LAGI — pelan, tegas, seperti seseorang yang menolak disalahpah
 
 ya. DAN jangan berani-berani pergi.
 
-Ketukan kedua tidak ada dalam kode resmi mana pun. Tapi tidak satu pun orang di ruangan itu salah menangkap maksudnya.
+Ketukan kedua tidak ada dalam kode resmi mana pun. Namun tidak satu pun orang di ruangan itu salah menangkap maksudnya.
 
 Sela tertawa dan menangis bersamaan. Ibu Tamma — yang entah sejak kapan berdiri di pintu dengan nampan sup hangat — berkata kepada Ashvarok tanpa menoleh:
 
@@ -115,7 +115,7 @@ Sela tertawa dan menangis bersamaan. Ibu Tamma — yang entah sejak kapan berdir
 
 Dan Gella, diperiksa keesokan paginya, mengangguk pada temuan ibu Tamma:
 
-"Irama ototnya makin sering aktif. Tubuh ini sedang berlatih untuk bangun." Buku catatannya tertutup rapat. "Aku dokter tambang, bukan peramal. Tapi kalau kalian minta tebakan dokter tambang..."
+"Irama ototnya makin sering aktif. Tubuh ini sedang berlatih untuk bangun." Buku catatannya tertutup rapat. "Aku dokter tambang, bukan peramal. Namun kalau kalian minta tebakan dokter tambang..."
 
 Ia melihat Ashvarok.
 
@@ -131,7 +131,7 @@ Karena semua orang tahu artinya: anak yang selama delapan bulan mendengar dunia 
 
 Sela menyebutnya "kesenjangan delapan bulan". Ashvarok menyebutnya hal yang paling ditakutkannya: bahwa Renn akan bangun dan merasa seperti turis di kehidupannya sendiri.
 
-Maka rapat darurat kecil digelar di aula — bukan rapat protokol, tapi rapat keluarga besar: apa yang harus kita siapkan supaya hari Renn membuka mata bukan hari ia tersesat?
+Maka rapat darurat kecil digelar di aula — bukan rapat protokol, tetapi rapat keluarga besar: apa yang harus kita siapkan supaya hari Renn membuka mata bukan hari ia tersesat?
 
 Keputusan-keputusan yang keluar (dan oleh Kovan dicatat sebagai "protokol pertama di dunia yang disusun untuk satu orang"):
 
@@ -199,7 +199,7 @@ Dan satu hal terakhir — pertanyaan yang diajukan ibu Tamma kepada Ashvarok di 
 
 Ashvarok mengaduk sup tanpa menjawab dulu.
 
-"Delapan bulan silam aku takut dia marah padaku, Bu. Sekarang aku sadar ada ketakutan yang lebih besar: dia bangun sebagai Renn yang sama seperti dulu — dan aku tetap Ashvarok yang berbeda dari yang ia butuhkan." Ia mencicipi sup. "Tapi jawabanku tetap sama: siap."
+"Delapan bulan silam aku takut dia marah padaku, Bu. Sekarang aku sadar ada ketakutan yang lebih besar: dia bangun sebagai Renn yang sama seperti dulu — dan aku tetap Ashvarok yang berbeda dari yang ia butuhkan." Ia mencicipi sup. "Namun jawabanku tetap sama: siap."
 
 "Kenapa?"
 

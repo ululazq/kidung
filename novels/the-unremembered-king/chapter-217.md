@@ -31,7 +31,7 @@ Lalu giliran saksi hidup pertama: Garm — pekerja ladang tua yang delapan belas
 
 "Dan kata-katanya?" tanya wakil perkebunan — pemiliknya sendiri, yang hadir tanpa didorong siapa pun.
 
-"Ladang itu bukan milikmu," kata Garm. "Tapi aku juga tidak bisa bilang itu milikkaku. Kakakku yang punya — dan kakakku belum mati. Dia hanya dititipkan." Ia menarik napas. "Itu yang tidak bisa dipahami surat hak kalian: bagaimana cara mencatat bahwa orangnya masih ada, hanya saja di tempat yang tidak punya alamat surat-menyurat."
+"Ladang itu bukan milikmu," kata Garm. "Namun aku juga tidak bisa bilang itu milikku. Kakakku yang punya — dan kakakku belum mati. Dia hanya dititipkan." Ia menarik napas. "Itu yang tidak bisa dipahami surat hak kalian: bagaimana cara mencatat bahwa orangnya masih ada, hanya saja di tempat yang tidak punya alamat surat-menyurat."
 
 ---
 
@@ -104,6 +104,6 @@ Hari 556. Putusan Ladang Utara: sah, dibacakan, ditandatangani semua pihak terma
 
 Yang membuatku diam hari ini bukan putusannya — melainkan cara para pihak makan siang bersama di tengah persidangan mereka sendiri. Seribu tahun silam aku pikir hukum bekerja dengan memenangkan salah satu pihak atas yang lain. Hari ini aku melihat hukum bekerja dengan membuat semua pihak duduk di meja panjang yang sama cukup lama sampai mereka sadar bahwa yang mereka perjuangkan sebenarnya satu hal yang sama.
 
-Garm mendapat katanya. Pemuda perkebunan mendapat ladangnya untuk ditaniminya sekali lagi. Vess-Morath mendapat tanahnya kembali. Dan Caldrest mendapat pelajaran: keadilan tidak selalu berarti ada yang kalah. Kadang ia berarti semua orang akhirnya dipindahkan ke tempat yang benar — termasuk yang dulu merasa sudah di tempat yang benar.
+Garm mendapat katanya. Pemuda perkebunan mendapat ladangnya untuk ditanaminya sekali lagi. Vess-Morath mendapat tanahnya kembali. Dan Caldrest mendapat pelajaran: keadilan tidak selalu berarti ada yang kalah. Kadang ia berarti semua orang akhirnya dipindahkan ke tempat yang benar — termasuk yang dulu merasa sudah di tempat yang benar.
 
 Lewat jadwal kunjungan mingguannya, Ondrath-Ilm menyampaikan kabar pertamanya: "bulan ini malam-malam kalian yang paling tenang pernah kujaga. Teruskan." Pesan sependek itu dibacakan Ashvarok di rapat dua kali, karena pendengar meminta pengulangan — dan untuk pertama kalinya tidak ada yang keberatan rapat molor.

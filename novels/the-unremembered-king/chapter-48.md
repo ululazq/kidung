@@ -31,7 +31,7 @@ Di dinding lengkung sepuluh hasta dari sayatan termuda, enam lubang bulat berdia
 
 Hal keduanya adalah jalur gesekan. Dari busur pasak itu, mengikuti lengkung dinding turun ke arah aula, permukaan batu ternyata dipoles oleh pekerjaan — bukan polesan estetis, melainkan polesan fungsi: sebuah kanal selebar telapak tangan, sedalam ibu jari, memanjang lurus sejauh mata masih bisa mengikuti, dan tepi-tepi kanalnya licin dengan ciri khas yang sama sekali bukan gesekan air. Gesekan tali. Ratusan tahun tali yang ditarik melewati batu dengan beban di ujungnya, selalu di irama yang sama, selalu di jalur yang sama, sampai batu mengalah dan menjadi pelana.
 
-Ashvarok berdiri di tengah kanal itu, memandang ke ujung gelapnya, dan merasakan sesuata yang jarang ia rasakan sejak the Long Dusk: punggungnya dingin lebih dulu daripada pikirannya.
+Ashvarok berdiri di tengah kanal itu, memandang ke ujung gelapnya, dan merasakan sesuatu yang jarang ia rasakan sejak the Long Dusk: punggungnya dingin lebih dulu daripada pikirannya.
 
 Karena ia mengenali tata bahasanya.
 
@@ -65,13 +65,13 @@ Untuk seribu tahun, Ashvarok adalah penjaga tunggal dari sebuah seni yang dunia 
 
 Di permukaan, sore hari itu, mereka membersihkan peralatan inspeksi yang tidak pernah benar-benar dipakai, dan percakapan mereka berbunyi seperti percakapan dua orang yang baru menemukan mayat di dalam keluarga sendiri.
 
-"Jadi selama ini," kata Brannoc pelan, sambil menggulung tali dengan gerakan yang terlalu teratur untuk orang santai, "yang menyedot tambang ini bukan hanya pencuri. Tapi murid."
+"Jadi selama ini," kata Brannoc pelan, sambil menggulung tali dengan gerakan yang terlalu teratur untuk orang santai, "yang menyedot tambang ini bukan hanya pencuri. Namun murid."
 
 "Atau pewaris." Ashvarok menumpuk mata pisau tempaan ke peti. "Pencuri membongkar rumah dari pintu mana pun yang lupa dikunci. Yang ini berbeda. Dia punya denah. Dia tahu ruang mana boleh disentuh dan ruang mana harus dijaga — panener dilarang turun ke aula, ingat? Pencuri tidak melarang anak buahnya mendekati harta. Penjaga yang melarang."
 
 "Penjaga yang mencuri," kata Brannoc.
 
-"Itu kemungkinannya yang paling jelek, jadi kemungkinan besar itu benar." Ashvarok menutup petinya. "Ada satu hal lagi yang membuat ini rumit. Jalur gesekan itu tua, tapi tidak mati. Gesekan tali di kanalnya masih segar di beberapa bagian — beberapa puluh tahun, mungkin kurang. Artinya jalur ini dipakai belakangan ini, berkali-kali, jauh sebelum panener pertama datang. Kita tidak sedang mengejar kebiasaan lama. Kita sedang mengejar kebiasaan yang masih hidup."
+"Itu kemungkinannya yang paling jelek, jadi kemungkinan besar itu benar." Ashvarok menutup petinya. "Ada satu hal lagi yang membuat ini rumit. Jalur gesekan itu tua, tetapi tidak mati. Gesekan tali di kanalnya masih segar di beberapa bagian — beberapa puluh tahun, mungkin kurang. Artinya jalur ini dipakai belakangan ini, berkali-kali, jauh sebelum panener pertama datang. Kita tidak sedang mengejar kebiasaan lama. Kita sedang mengejar kebiasaan yang masih hidup."
 
 Brannoc berhenti menggulung tali. "Dan sekarang karantina menutup semuanya. Kalau kebiasaannya masih hidup—"
 

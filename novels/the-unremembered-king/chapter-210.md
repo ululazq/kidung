@@ -3,7 +3,7 @@ title: "Bab 210: Malam Penamaan"
 chapter: 210
 ---
 
-Seluruh Caldrest turun ke aula pada malam penamaan — dan untuk pertama kalinya dalam sejarah tambang mana pun, sebuah aula pengikat dipenuhi manusia yang datang bukan untuk takut atau bekerja, tapi untuk memberi hadiah.
+Seluruh Caldrest turun ke aula pada malam penamaan — dan untuk pertama kalinya dalam sejarah tambang mana pun, sebuah aula pengikat dipenuhi manusia yang datang bukan untuk takut atau bekerja, tetapi untuk memberi hadiah.
 
 Yang datang bukan hanya Caldrest. Dari Karven datang kepala tambang tua dengan dua calon pendengar pertamanya. Dari kota-kota tetangga datang para penjaga malam pensiunan yang bukunya kini menjadi bahan ajar akademi — mereka diberi tempat duduk paling depan, dan satu di antaranya, lelaki yang empat puluh tahun disebut orang aneh, menangis sejak lilin-lilin pertama dinyalakan dan tidak perlu menyembunyikannya karena seluruh barisnya sedang melakukan hal yang sama. Dari bandar pelabuhan selatan datang cucu Sarneth, anak pedagang gerabah yang suratnya ("saya mau jadi orang pertama di pintu") telah dibacakan dua kali di rapat-rapat besar.
 
@@ -39,7 +39,7 @@ Gerbong dengan SATU nama di dalamnya.
 
 The Patient House. Menyebut dirinya sendiri. Untuk pertama kalinya dalam sejarah dunia yang lebih tua dari sejarah, makhluk purba itu ikut bernyanyi menyebut namanya sendiri — dan suaranya, kata Sareth Vayin kemudian, "bukan suara gema belajar meniru manusia. Itu suara rumah yang akhirnya tahu alamatnya."
 
-Yang tidak dilaporkan sejarawan mana pun tapi semua yang hadir ingat: setelah gerbong terakhir selesai, ada jeda — dan dari arah nat pusat, irama kecil bertanya sesuatu kepada Ashvarok. Terjemahannya, yang diteruskan Kovan dengan suara yang tidak stabil:
+Yang tidak dilaporkan sejarawan mana pun tetapi semua yang hadir ingat: setelah gerbong terakhir selesai, ada jeda — dan dari arah nat pusat, irama kecil bertanya sesuatu kepada Ashvarok. Terjemahannya, yang diteruskan Kovan dengan suara yang tidak stabil:
 
 "namanya bagus. boleh aku minta satu hal? besok pagi, bisikkan sekali lagi dari dekat. aku mau hafal bunyinya dari telinga yang benar, bukan hanya dari batu."
 
@@ -59,7 +59,7 @@ Kapur gadis itu berhenti sebentar, lalu melanjutkan baris terakhir:
 
 Ibu Tamma, dari tempat duduknya yang jauh — sesuai permintaannya sendiri agar tidak mengganggu suara pidato dengan tangisnya — berkata kepada orang di sebelahnya kalimat yang masuk arsip keesokan harinya sebagai kutipan warga pertama tentang nama baru itu:
 
-"Rumah yang Sabar. Ya. Pas. Seribu tahun dia sabarin kita yang tidak pernah menyapa."
+"Rumah yang Sabar. Ya. Pas. Seribu tahun dia bersabar dengan kita yang tidak pernah menyapa."
 
 Dan jauh malam itu, ketika semua sudah pulang dan lilin-lilin lingkaran padam satu per satu, Ashvarok berhenti sebentar di ambang aula untuk pamit terakhir — kebiasaan yang tidak akan pernah ia tinggalkan lagi.
 "Selamat jaga, Rumah," katanya pelan. "Sampai besok."

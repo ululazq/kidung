@@ -11,7 +11,7 @@ Di seberang meja, Anthema Spire membaca draf pembubaran jabatan itu tanpa satu k
 
 "Tugasnya selesai." Ossian menyebutkan satu per satu dengan jari yang sudah mulai gemetar di ujungnya, bukan karena takut, melainkan karena delapan belas tahun memegang dua identitas mulai menuntut bayaran pada sendi. "Tambang ditutup. Arsip dibebaskan. Anak-anak yang dulu kutagih kuota kini duduk di sekolah mendengar. Koordinasi Artefak hanya nama membosankan yang kubuat supaya orang lain mengantuk waktu membacanya. Sekarang namanya bisa tidur."
 
-Anthema menutup draf. "Lengan Mendengar akan menggantikan sisa wewenangmu. Kepala bergilir sudah jalan. Tapi untuk kepala kedua, Dewan memilih murid Maera Tull."
+Anthema menutup draf. "Lengan Mendengar akan menggantikan sisa wewenangmu. Kepala bergilir sudah jalan. Namun untuk kepala kedua, Dewan memilih murid Maera Tull."
 
 Ossian tersenyum tipis. "Pilihan yang benar. Ia yang pertama kali membaca anomali di bawah sana, sebelum aku tahu ada yang perlu dibaca."
 
@@ -49,7 +49,7 @@ Asistennya ragu. "Apakah itu berarti Lengan Mendengar sekarang di bawahmu?"
 
 Ia menulis balasan singkat di sudut surat Ossian:
 
-*Kau benar. Kita menua dengan damai. Tapi arsip itu tidak akan kubiarkan tidur di laci. Aku akan ajarkan muridku membacanya, supaya wajah kelima tidak hilang dua kali.*
+*Kau benar. Kita menua dengan damai. Namun arsip itu tidak akan kubiarkan tidur di laci. Aku akan ajarkan muridku membacanya, supaya wajah kelima tidak hilang dua kali.*
 
 *Terima kasih, mantan musuh. — M.*
 
@@ -91,13 +91,13 @@ Pembubaran itu tidak berjalan tanpa gesekan. Ketika Ossian keluar dari aula, tig
 
 "Kami bekerja delapan belas tahun di bawahmu," kata salah satu staf, suaranya di tepi marah. "Tanpa surat penugasan baru, status kami menggantung."
 
-"Status kalian tidak pernah ada," jawab Ossian tenang. "Nama biro ini sengaja kubuat membosankan supaya tak ada yang memperhatikan. Kalian bekerja sungguhan, tapi di bawah label yang tak pernah resmi dicatat. Itu kejujuran yang kuberikan: kini kalian bebas, bukan tertinggal."
+"Status kalian tidak pernah ada," jawab Ossian tenang. "Nama biro ini sengaja kubuat membosankan supaya tak ada yang memperhatikan. Kalian bekerja sungguhan, tetapi di bawah label yang tak pernah resmi dicatat. Itu kejujuran yang kuberikan: kini kalian bebas, bukan tertinggal."
 
 Staf kedua membuka mapnya. "Kalau biro mati, data survei bawah tanah ini ke mana?"
 
 "Ke Lengan Mendengar. Kepala kedua sudah kubicarakan." Ossian menatap mereka satu per satu. "Kalian punya dua pilihan: ikut murid Maera belajar mendengar, atau kembali ke meja penilaian lama. Yang tidak boleh: tinggal di lorong ini menunggu perintah dari orang yang sudah mundur."
 
-Mereka terdiam. Lama kemudian, staf pertama menutup mapnya. "Aku akan ke meja penilaian. Tapi aku mau bawa data ini ke Lengan Mendengar sendiri. Bukan karena kau suruh. Karena delapan belas tahun aku hitung angka di bawah, dan angka itu milik orang yang mendengar, bukan orang yang memerintah."
+Mereka terdiam. Lama kemudian, staf pertama menutup mapnya. "Aku akan ke meja penilaian. Namun aku mau bawa data ini ke Lengan Mendengar sendiri. Bukan karena kau suruh. Karena delapan belas tahun aku hitung angka di bawah, dan angka itu milik orang yang mendengar, bukan orang yang memerintah."
 
 Ossian mengangguk. "Itu jawaban penghitung. Bukan bawahan."
 
@@ -125,7 +125,7 @@ Muridnya menerima arsip itu dengan kedua tangan. "Apa yang kucari di dalamnya, P
 
 Murid itu mengangguk, lalu pergi membawa arsip ke lemari gelas yang sudah disiapkan Ossian untuknya — lemari yang dulu berlabel "KOORDINASI ARTEFAK REGIONAL", kini dilabeli ulang tangan murid itu: "LENGAN MENDENGAR — GILIRAN GUILD."
 
-Ossian, lewat surat perpisahan yang sudah terkirim, tidak akan pernah tahu bahwa arsip yang ia tinggalkan itu kini dijaga oleh tangan yang justru ia percayai untuk membagi pintu. Tapi Maera tahu. Dan di sudut kecil surat balasannya, ia menulis satu baris rahasia yang hanya Ossian yang akan mengerti:
+Ossian, lewat surat perpisahan yang sudah terkirim, tidak akan pernah tahu bahwa arsip yang ia tinggalkan itu kini dijaga oleh tangan yang justru ia percayai untuk membagi pintu. Namun Maera tahu. Dan di sudut kecil surat balasannya, ia menulis satu baris rahasia yang hanya Ossian yang akan mengerti:
 
 *Pintu sudah kubagi. Kau boleh pulang. — M.*
 
@@ -137,11 +137,11 @@ Di Caldrest, kabar itu sampai ke Sekolah Mendengar lewat kurir pos yang membawa 
 
 Sela mengangkat pandang dari papan tulisnya. "Ia yang delapan belas tahun silam menuntut kuota dari kota ini. Sekarang ia yang menyerahkan pintunya sendiri."
 
-"Orang yang sama," kata Daven. "Cuma arah yang berubah. Dulu ia tutup pintu supaya orang tidak keluar. Sekarang ia buka supaya orang lain bisa masuk."
+"Orang yang sama," kata Daven. "Hanya arah yang berubah. Dulu ia tutup pintu supaya orang tidak keluar. Sekarang ia buka supaya orang lain bisa masuk."
 
 Sela menulis satu baris di bawah daftar murid: *Pelajaran hari ini: institusi yang sehat melepaskan pemegangnya.* Lalu ia menatap Daven. "Kau ajarkan itu ke angkatan baru besok?"
 
-"Sudah kutulis di kurikulum musim tiga." Daven tersenyum. "Tapi kau yang lebih baik menyampaikannya. Kau yang pertama kali diajar bahwa mendengar berarti melepaskan, bukan menyimpan."
+"Sudah kutulis di kurikulum musim tiga." Daven tersenyum. "Namun kau yang lebih baik menyampaikannya. Kau yang pertama kali diajar bahwa mendengar berarti melepaskan, bukan menyimpan."
 
 Di dapur aula, Tami-Tomi mendengar kabar itu dari Wida dan berhenti sejenak mengaduk. "Berarti sup yang kubuat malam ini untuk siapa?" tanyanya.
 

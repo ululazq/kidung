@@ -9,7 +9,7 @@ Empat ratus enam puluh satu cerita. Dari dua kota tetangga, tiga generasi, satu 
 
 Aturan itu sendiri sudah menyaring cerita dengan cara yang tidak disadari siapa pun: legenda-legenda besar tentang "hantu bawah tanah" tidak lolos, karena tidak ada satu pun pencerita legenda yang benar-benar pernah mendengar. Yang lolos justru hal-hal kecil. Dan hal-hal kecil, ternyata, adalah tempat makhluk besar memang terlihat sebenarnya.
 
-Proses penyortirannya sendiri sudah menjadi institusi: Sela menolak menyortir sendirian — "arsip yang disortir satu orang adalah opini, bukan arsip" — maka tiap pekan ada tiga penilai sukarela dari kalangan warga: ibu Tamma (yang mengenali suara bohong sejak anak-anaknya masih hidup), Maera Tull (yang membawa standar verifikasi Guild), dan Tovik (yang katanya "berhutang pada dia untuk ikut memilah mana cerita tentang diriku yang benar"). Kotak-kotak itu dibuka berurutan, dibacakan keras-keras, dan diberi tiga tanda: BENAR (ada saksi), MUNGKIN (satu sumber, tak terbantahkan), dan CANTIK TAPI TIDAK KETAHUAN (masuk arsip terpisah dengan label yang sama persis).
+Proses penyortirannya sendiri sudah menjadi institusi: Sela menolak menyortir sendirian — "arsip yang disortir satu orang adalah opini, bukan arsip" — maka tiap pekan ada tiga penilai sukarela dari kalangan warga: ibu Tamma (yang mengenali suara bohong sejak anak-anaknya masih hidup), Maera Tull (yang membawa standar verifikasi Guild), dan Tovik (yang katanya "berhutang pada dia untuk ikut memilah mana cerita tentang diriku yang benar"). Kotak-kotak itu dibuka berurutan, dibacakan keras-keras, dan diberi tiga tanda: BENAR (ada saksi), MUNGKIN (satu sumber, tak terbantahkan), dan CANTIK NAMUN TIDAK KETAHUAN (masuk arsip terpisah dengan label yang sama persis).
 
 "Kenapa yang tidak terverifikasi tetap disimpan?" tanya juru tulis muda Kantor Penghubung yang datang belajar.
 
@@ -17,7 +17,7 @@ Proses penyortirannya sendiri sudah menjadi institusi: Sela menolak menyortir se
 
 Ashvarok membaca ulang seluruhnya dalam sebelas malam. Bukan karena diminta — karena janjinya sendiri: ia akan menjadi penyebut pertama nama itu, dan penyebut pertama wajib tahu seluruh isi tahun itu sebelum melafalkannya.
 
-Ia membacanya dengan cara yang tidak diminta siapa pun tapi tidak ada yang berani melarang: keras-keras, di gudang perkakas, supaya setiap cerita didengar sekali oleh dunia sebelum masuk arsip. Murid akademi yang lewat kadang berhenti mendengarkan satu-dua cerita. Ibu Tamma datang di malam ketiga, duduk, tinggal sampai malam habis, lalu berkata sebelum pulang: "Lanjut. Aku besok datang lagi. Ini lebih bagus dari radio."
+Ia membacanya dengan cara yang tidak diminta siapa pun tetapi tidak ada yang berani melarang: keras-keras, di gudang perkakas, supaya setiap cerita didengar sekali oleh dunia sebelum masuk arsip. Murid akademi yang lewat kadang berhenti mendengarkan satu-dua cerita. Ibu Tamma datang di malam ketiga, duduk, tinggal sampai malam habis, lalu berkata sebelum pulang: "Lanjut. Aku besok datang lagi. Ini lebih bagus dari radio."
 
 Cerita-cerita itu sendiri membentuk potret yang tidak bisa dibantah karena semua sumbernya tidak saling kenal: seorang pensiunan pengangkut batu dari kota tetangga menceritakan bahwa lorong tempat ia pernah tertimbun runtuhnya "selalu hangat duluan sebelum tim penyelamat datang — dan waktu itu kupikir hanya kebetulan". Seorang nenek dari bandar pelabuhan menulis tentang lampu tambang suaminya yang "tidak pernah benar-benar padam meski minyaknya sudah lama kubuang". Anak-anak blok tepian bercerita tentang permainan berani-beranian menyapa gelap lorong — yang selalu disambut hangat, tak pernah sekali pun dingin, sehingga mereka mengira begitulah sifat semua lorong di dunia.
 
@@ -45,17 +45,17 @@ Ashvarok duduk lama dengan kalimat itu. Lalu berkata: "Seribu tahun dia pegang p
 
 Pada malam kesepuluh, Ashvarok berhenti membaca, duduk di gudang perkakas yang gelap, dan berkata kepada kedalaman lewat nat:
 
-"Aku sudah membaca semuanya. Empat ratus enam puluh satu. Dan aku baru paham kenapa namamu harus lahir dari cerita orang — karena selama ini kita semua hanya tahu kamu dari apa yang KITA butuh darimu: penjaga segel, penyimpan nama, tempat menitipkan. Tapi cerita-cerita ini menunjukkan siapa kamu kalau tidak ada yang membutuhkanmu." Ia tersenyum di kegelapan. "Besok aku sebut namanya. Dan aku sudah tahu nama apa yang cocok — sudah sejak detak tambahan itu."
+"Aku sudah membaca semuanya. Empat ratus enam puluh satu. Dan aku baru paham kenapa namamu harus lahir dari cerita orang — karena selama ini kita semua hanya tahu kamu dari apa yang KITA butuh darimu: penjaga segel, penyimpan nama, tempat menitipkan. Namun cerita-cerita ini menunjukkan siapa kamu kalau tidak ada yang membutuhkanmu." Ia tersenyum di kegelapan. "Besok aku sebut namanya. Dan aku sudah tahu nama apa yang cocok — sudah sejak detak tambahan itu."
 
 Getar yang menjawab dari nat gudang perkakas itu panjang, dan Ashvarok menolak menerjemahkannya malam itu. "Besok," katanya. "Jawaban sebesar itu pantas didengar semua orang."
 
-Tapi sebelum meninggalkan gudang, ia berhenti di ambang pintu dan bertanya satu hal yang tidak masuk catatan siapa pun:
+Namun sebelum meninggalkan gudang, ia berhenti di ambang pintu dan bertanya satu hal yang tidak masuk catatan siapa pun:
 
 "Satu pertanyaan terakhir sebelum besok. Selama seribu tahun ini... apakah kau pernah menamai DIRIMU? Di dalam, sendirian, tanpa ada yang dengar?"
 
 Kali ini jeda jawabannya paling panjang dalam delapan bulan percakapan mereka. Lalu irama datang pelan-pelan, hati-hati, seperti orang membuka luka lama untuk diperlihatkan pada dokter yang benar — dan Kovan, yang kebetulan lewat dan dipanggil Ashvarok untuk menerjemahkan, butuh waktu sampai subuh untuk menyelesaikannya. Hasilnya ditulisnya dengan tangan yang tidak stabil:
 
-"Pernah. Aku mencoba, sekali setiap beberapa dekade. Tapi nama yang tidak disebut orang lain ternyata tidak bisa bertahan — seperti api tanpa perapian. Aku punya ratusan nama untuk diriku dan semuanya sudah padam." Jeda. "Maka kalau besok kalian memberiku satu... aku akan menjaganya dengan cara yang membuatnya mustahil padam: aku akan menyanyikannya di gerbong terakhir, tiap malam, supaya dia bukan lagi namaku — melainkan bagian lagu kalian."
+"Pernah. Aku mencoba, sekali setiap beberapa dekade. Namun nama yang tidak disebut orang lain ternyata tidak bisa bertahan — seperti api tanpa perapian. Aku punya ratusan nama untuk diriku dan semuanya sudah padam." Jeda. "Maka kalau besok kalian memberiku satu... aku akan menjaganya dengan cara yang membuatnya mustahil padam: aku akan menyanyikannya di gerbong terakhir, tiap malam, supaya dia bukan lagi namaku — melainkan bagian lagu kalian."
 
 Ashvarok membaca terjemahan itu dua kali, lalu melipatnya dan menyelipkannya ke saku dada kanan — arsip keluarga pribadinya — sambil berkata pada Kovan:
 
@@ -75,11 +75,11 @@ Sela menemukan kakaknya masih duduk di gudang saat subuh. Ia duduk di sebelahnya
 
 Sela tersenyum senyum pencatat yang sudah menulis hal itu lebih dulu di halaman tertutup papannya:
 
-"Sudah kucatat sejak tadi malam: Kakak gugup. Tapi gugupnya keluarga. Itu jenis gugup yang bagus."
+"Sudah kucatat sejak tadi malam: Kakak gugup. Namun gugupnya keluarga. Itu jenis gugup yang bagus."
 
 Mereka berjalan pulang bersama lewat pasar yang mulai bangun — dan melewati lapak ikan yang natnya dirawat empat generasi, dan sumur klinik, dan semua titik di peta Tempat Duduk Tamu yang kini bisa disebut Sela sambil jalan tanpa membuka papannya. Di depan warung teh ibu Tamma, yang sudah menyala meski matahari belum naik penuh, ibu itu muncul dengan dua gelas tanpa ditanya.
 
-"Buat besok malam," kata ibu Tamba sambil menyodor, "kalian dua berdua jangan duduk deket aku. Aku mau dengan nama itu dengan tenang. Sudah seribu tahun orang-orang kasih dia nama jelek. Sekarang giliran kita kasih yang bagus — dan aku mau pastiin tidak ada yang menangis ganggu suara kakakmu."
+"Buat besok malam," kata ibu Tamba sambil menyodor, "kalian dua berdua jangan duduk deket aku. Aku mau dengan nama itu dengan tenang. Sudah seribu tahun orang-orang memberi dia nama jelek. Sekarang giliran kita beri yang bagus — dan aku mau pastiin tidak ada yang menangis ganggu suara kakakmu."
 
 "Kau akan menangis juga, Bu," kata Sela.
 

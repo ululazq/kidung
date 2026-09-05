@@ -5,7 +5,7 @@ chapter: 288
 
 Ibu Tamma bangun dengan rasa dingin di ujung jari yang tidak hilang setelah ia menggosoknya tiga kali. Bukan sakit hebat. Hanya satu pagi di mana tubuhnya memutuskan untuk mengingatkan bahwa delapan belas tahun sejak ia pertama kali membuka dapur aula bukan waktu yang singkat.
 
-Ia duduk di tepi tempat tidur, menatap kursi sudut di dapur yang bisa dilihatnya dari pintu kamar. Kursi itu kosong, seperti setiap subuh, tapi hari ini ia yang tidak bisa menuju ke sana.
+Ia duduk di tepi tempat tidur, menatap kursi sudut di dapur yang bisa dilihatnya dari pintu kamar. Kursi itu kosong, seperti setiap subuh, tetapi hari ini ia yang tidak bisa menuju ke sana.
 
 Tami-Tomi masuk membawa ember kecil. "Bu, kau pucat."
 
@@ -25,7 +25,7 @@ Ia menyiapkan panci. Air mendidih. Ia memasukkan sayur, lalu mulai mengaduk.
 
 Satu putaran. Dua. Tiga. Jeda.
 
-Supnya jadi. Tapi ketika Tami-Tomi mencicip, rasanya berbeda. Bukan rusak. Beda. Seolah tangan yang mengaduk membawa ritme yang tidak sama dengan tangan ibu Tamma.
+Supnya jadi. Namun ketika Tami-Tomi mencicip, rasanya berbeda. Bukan rusak. Beda. Seolah tangan yang mengaduk membawa ritme yang tidak sama dengan tangan ibu Tamma.
 
 Ia menyuapkan satu sendok ke mulut ibu Tamma yang duduk di kursi sudut.
 
@@ -35,7 +35,7 @@ Ibu Tamma mencium, mengecap pelan, lalu mengangguk pelan. "Beda."
 
 "Bukan salahmu." Ibu Tamma meletakkan sendok. "Resep boleh berubah, Nak. Prinsip tidak. Kau ikut tiga putaran, kau jaga jeda, kau tidak menyerah waktu air mendidih. Supnya beda karena kau yang masak, bukan aku. Itu bukan kesalahan. Itu tanda dapur punya penjaga baru."
 
-Tami-Tomi menatap sendok di tangannya. "Tapi tamu datang untuk rasa yang kau buat."
+Tami-Tomi menatap sendok di tangannya. "Namun tamu datang untuk rasa yang kau buat."
 
 "Tamunya datang karena ada yang memasak." Ibu Tamma tersenyum tipis. "Delapan belas tahun lalu mereka datang karena lapar dan tidak ada yang menyapa. Sekarang mereka datang karena dapur ini rumah. Siapa pun yang pegang sendok, asal memasak dengan prinsip, rumah itu tetap rumah."
 
@@ -63,9 +63,9 @@ Siangnya, Gella datang ke dapur membawa kotak periksa vein. Ibu Tamma sedang dud
 
 "Dokter tahu badan orang lain, bukan badan sendiri," jawab Gella datar. "Kau pengajar prinsip dapur delapan belas tahun. Sekarang jadi pasien sekali. Duduk."
 
-Ibu Tamma mendengus, tapi duduk. Gella memeriksa nadi di pergelangan yang sudah keriput, mencatat sesuatu di buku garis bawah tebalnya.
+Ibu Tamma mendengus, tetapi duduk. Gella memeriksa nadi di pergelangan yang sudah keriput, mencatat sesuatu di buku garis bawah tebalnya.
 
-"Lelah biasa," kata Gella. "Bukan Hollowing, bukan vein. Cuma tubuh yang delapan belas tahun memikul dapur kota." Ia menatap ibu Tamma. "Satu syarat: tiga hari kau tidak berdiri di kompor lebih dari dua jam. Tami-Tomi yang ambil alih."
+"Lelah biasa," kata Gella. "Bukan Hollowing, bukan vein. Hanya tubuh yang delapan belas tahun memikul dapur kota." Ia menatap ibu Tamma. "Satu syarat: tiga hari kau tidak berdiri di kompor lebih dari dua jam. Tami-Tomi yang ambil alih."
 
 "Ia belum siap."
 
@@ -75,9 +75,9 @@ Ibu Tamma terdiam. Lalu ia mengangguk pelan. "Tiga hari. Tidak lebih."
 
 ---
 
-Menjelang sore, Brannoc datang ke dapur membawa roti hangat dari sekolah tambang. Bekas patah di bahu kanannya membuat langkahnya miring, tapi matanya tajam seperti delapan belas tahun silam waktu ia masih mandor.
+Menjelang sore, Brannoc datang ke dapur membawa roti hangat dari sekolah tambang. Bekas patah di bahu kanannya membuat langkahnya miring, tetapi matanya tajam seperti delapan belas tahun silam waktu ia masih mandor.
 
-"Dengar kau sakit," katanya. "Bawa ini. Roti dari murid Harn. Mereka bilang untuk orang yang selalu kasih makan orang lain."
+"Dengar kau sakit," katanya. "Bawa ini. Roti dari murid Harn. Mereka bilang untuk orang yang selalu memberi makan orang lain."
 
 Ibu Tamma menerima roti itu dengan dua tangan. "Bilang ke Harn, dapur balas dengan sup besok. Kalau ia berani datang."
 
@@ -85,7 +85,7 @@ Ibu Tamma menerima roti itu dengan dua tangan. "Bilang ke Harn, dapur balas deng
 
 Tami-Tomi menatap roti di tangan ibu Tamma. "Banyak orang peduli, Bu."
 
-"Ibu Tamma tidak minta dipeduli." Tapi suaranya melembek. "Tapi kuterima. Karena menolak perhatian itu sombong, dan dapur tidak boleh sombong."
+"Ibu Tamma tidak minta dipedulikan." Namun suaranya melembek. "Namun kuterima. Karena menolak perhatian itu sombong, dan dapur tidak boleh sombong."
 
 ---
 
@@ -93,7 +93,7 @@ Malamnya, saat sup kedua dihidangkan, seluruh barak the Quiet Vein duduk di meja
 
 "Bedanya di mana?" tanya Ashvarok-Renn pelan supaya hanya ibu Tamma yang dengar.
 
-"Irama tangan," jawab ibu Tamma. "Dia mengaduk lebih pelan di putaran kedua. Aku lebih cepat. Tapi garamnya pas. Ia belajar dari lidah, bukan dari buku."
+"Irama tangan," jawab ibu Tamma. "Dia mengaduk lebih pelan di putaran kedua. Aku lebih cepat. Namun garamnya pas. Ia belajar dari lidah, bukan dari buku."
 
 "Berarti dapur aman."
 
@@ -101,9 +101,9 @@ Malamnya, saat sup kedua dihidangkan, seluruh barak the Quiet Vein duduk di meja
 
 Sela, yang duduk di seberang, menulis satu baris di papan kecilnya: *Ibu Tamma sakit ringan hari ini. Tami-Tomi masak. Sup beda, semua tetap makan. Rumah tidak bergantung pada satu tangan.*
 
-Di luar barak, nat lorong menyala pelan, seolah ikut mencatat bahwa dapur yang delapan belas tahun menjadi jantung Caldrest itu kini punya denyut cadangan.
+Di luar barak, nat lorong menyala pelan — seolah ikut mencatat bahwa dapur yang delapan belas tahun menjadi jantung Caldrest itu kini punya denyut cadangan.
 
-Dan ibu Tamma, untuk pertama kalinya, pulang ke kamar sebelum semua piring dicuci — bukan karena lari dari pekerjaan, melainkan karena akhirnya percaya ada tangan lain yang akan menyelesaikannya.
+Dan ibu Tamma, untuk pertama kalinya, pulang ke kamar sebelum semua piring dicuci — bukan karena lari dari pekerjaan — melainkan karena akhirnya percaya ada tangan lain yang akan menyelesaikannya.
 
 ---
 
@@ -135,10 +135,10 @@ Ibu Tamma menerima roti itu, menggigit ujungnya pelan. "Rotimu lebih baik dari w
 
 "Prinsipnya apa?"
 
-"Makan bukan hadiah. Makan adalah cara bilang kau masih di sini." Harn menatap Tami-Tomi. "Kakak asuh ibu bilang kau yang masak hari ini. Rasa beda, tapi aku tetap makan habis. Itu yang bapak ajarkan: menghargai tangan, bukan rasa."
+"Makan bukan hadiah. Makan adalah cara bilang kau masih di sini." Harn menatap Tami-Tomi. "Kakak asuh ibu bilang kau yang masak hari ini. Rasa beda, tetapi aku tetap makan habis. Itu yang bapak ajarkan: menghargai tangan, bukan rasa."
 
 Ibu Tamma tertawa kecil, pertama kalinya hari itu. "Brannoc mengajarkan anaknya benar. Pergi sana, bawa roti itu ke barak utara. Nat lorong juga lapar, walau tidak makan."
 
 Harn pergi tertawa, roti di tangan, langkahnya mantap menuju barak utara di bawah cahaya nat yang menyala pelan.
 
-Ibu Tamma menutup buku catatan dapur, meletakkannya di atas meja, dan untuk pertama kalinya membiarkan dapur dalam kegelapan tanpa rasa bersalah. Di kursi sudut, bayangan delapan belas tahun dirinya sendiri masih duduk — tapi kini ada bayangan baru di kompor: Tami-Tomi, yang mulai belajar bahwa memasak bukan soal rasa yang sama, melainkan soal prinsip yang diwariskan.
+Ibu Tamma menutup buku catatan dapur, meletakkannya di atas meja, dan untuk pertama kalinya membiarkan dapur dalam kegelapan tanpa rasa bersalah. Di kursi sudut, bayangan delapan belas tahun dirinya sendiri masih duduk — tetapi kini ada bayangan baru di kompor: Tami-Tomi, yang mulai belajar bahwa memasak bukan soal rasa yang sama — melainkan soal prinsip yang diwariskan.

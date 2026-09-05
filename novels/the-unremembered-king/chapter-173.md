@@ -5,7 +5,7 @@ chapter: 173
 
 Amplop itu dibuka pada hari kedua ratus tiga puluh satu, dan bukan karena Ossian butuh.
 
-Ia butuh sejak lama, dan itulah bedanya. Butuh datang pelan-pelan selama dua musim: lewat meja panjang gudang perkakas yang ia duduki tanpa diundang dua kali; lewat roti ibu Tamma yang muncul di ambang penginapannya tiga pekan berturut-turut dengan catatan kapur "untuk pejabat kurus" dalam tulisan tangan anak-anak; lewat pertanyaan Tharrow tentang hari pertama; lewat kata "penjaga" yang dikirim kedalaman kepada bocah lorong tujuh. Butuh itu menumpuk seperti semua hal yang jujur, dan malam ini, duduk sendirian dengan lilin dan surat-surat rutin yang sudah selesai dibaca, Ossian Vael mengambil amplop berteksur arsip itu dari laci, memegangnya sebentar, dan membukanya.
+Ia butuh sejak lama, dan itulah bedanya. Butuh datang pelan-pelan selama dua musim: lewat meja panjang gudang perkakas yang ia duduki tanpa diundang dua kali; lewat roti ibu Tamma yang muncul di ambang penginapannya tiga pekan berturut-turut dengan catatan kapur "untuk pejabat kurus" dalam tulisan tangan anak-anak; lewat pertanyaan Tharrow tentang hari pertama; lewat kata "penjaga" yang dikirim kedalaman kepada bocah lorong tujuh. Butuh itu menumpuk seperti semua hal yang jujur, dan malam ini, duduk sendirian dengan lilin dan surat-surat rutin yang sudah selesai dibaca, Ossian Vael mengambil amplop bertekstur arsip itu dari laci, memegangnya sebentar, dan membukanya.
 
 Di dalamnya: satu lembar. Tulisan tangan tua yang tenang.
 
@@ -19,7 +19,7 @@ Kakak perempuannya, tertulis di sana, adalah satu dari tiga orang yang namanya m
 
 Di bawah daftar, satu kalimat penutup dari tangan tua itu:
 
-"Arsip saya tidak bisa menghidupkan siapa pun. Tapi arsip saya bisa membuktikan bahwa mereka pernah ada, dengan nama, dengan tanggal, dengan suara yang menyebut mereka. Yang hilang bukan orang-orangmu. Yang hilang adalah catatannya — dan catatan bisa dicari. Saya yang menghabiskan hidup untuk pekerjaan itu. Ini bagianmu yang sudah selesai. Sisanya milik waktu."
+"Arsip saya tidak bisa menghidupkan siapa pun. Namun arsip saya bisa membuktikan bahwa mereka pernah ada, dengan nama, dengan tanggal, dengan suara yang menyebut mereka. Yang hilang bukan orang-orangmu. Yang hilang adalah catatannya — dan catatan bisa dicari. Saya yang menghabiskan hidup untuk pekerjaan itu. Ini bagianmu yang sudah selesai. Sisanya milik waktu."
 
 ---
 
@@ -39,9 +39,9 @@ Ossian Vael — pejabat yang tidak pernah kehilangan wajah di hadapan siapa pun 
 
 "Kenapa?" katanya pelan, dan pertanyaan itu bukan soal strategi. "Kau takut padaku setahun lalu. Kalian semua benar takut."
 
-"Aku takut padamu karena kamu berbahaya," kata Ashvarok. "Dan kamu masih berbahaya. Tapi sejak malam kau mengeksekusi penutupan dan bangun besoknya tetap datang bekerja mengakui hitunganmu sendiri — aku berhenti membacamu sebagai ancaman dan mulai membacamu sebagai penjaga yang salah metode." Jeda. "Metodenya bisa diganti. Kepeduliannya tidak bisa diajarkan. Kamu punya yang kedua sejak awal. Itu kenapa."
+"Aku takut padamu karena kamu berbahaya," kata Ashvarok. "Dan kamu masih berbahaya. Namun sejak malam kau mengeksekusi penutupan dan bangun besoknya tetap datang bekerja mengakui hitunganmu sendiri — aku berhenti membacamu sebagai ancaman dan mulai membacamu sebagai penjaga yang salah metode." Jeda. "Metodenya bisa diganti. Kepeduliannya tidak bisa diajarkan. Kamu punya yang kedua sejak awal. Itu kenapa."
 
-Ibu Tamma punya teori soal angka cangkir: setiap tamu baru menambah dua sampai tiga cangkir per pekan — satu untuknya, satu untuk rasa penasaran, satu lagi untuk datang lagi. Teori ini belum terverifikasi arsip, tapi sudah dijahit di celemeknya.
+Ibu Tamma punya teori soal angka cangkir: setiap tamu baru menambah dua sampai tiga cangkir per pekan — satu untuknya, satu untuk rasa penasaran, satu lagi untuk datang lagi. Teori ini belum terverifikasi arsip, tetapi sudah dijahit di celemeknya.
 
 
 ---
@@ -79,7 +79,7 @@ Di ranjangnya, sebelum tidur, Ossian membuka surat kakaknya yang belum pernah di
 
 Ia melipatnya kembali, dan meletakkannya di saku dada kanan — posisi arsip pribadi Caldrest yang telah ia pelajari dari mengamati bocah lorong tujuh dua tahun — dan tidur.
 
-Utara masih jauh. Tapi malam ini, untuk pertama kali, ia sedang mendekat.
+Utara masih jauh. Namun malam ini, untuk pertama kali, ia sedang mendekat.
 
 
 

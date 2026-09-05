@@ -33,9 +33,9 @@ Dua Shift Guard muda berjaga di persimpangan tingkat empat, dan yang lebih tua d
 
 Perempuan Shift Guard itu menatap mandor tua itu lama, dan jawabannya keluar pelan, dengan rasa malu yang jujur.
 
-"Sebab kami mencoba, Tuan Foreman. Adik saya maju dan menyentuh pundaknya. Dia berbalik. Dia tersenyum. Senyumnya ramah, senyum yang biasa itu, dan dia bilang maaf, aku sedang dipanggil. Terus dia jalan lagi." Perempuan itu menarik napas. "Dan kami berdua hanya berdiri. Aku tidak bisa jelaskan. Ada sesuatu pada cara dia bilang dipanggil itu yang membuat tangan kami tidak mau naik. Kami sudah tulis di log, jam dan arah, tapi log itu telat tiga jam, dan aku tahu log telat artinya apa."
+"Sebab kami mencoba, Tuan Foreman. Adik saya maju dan menyentuh pundaknya. Dia berbalik. Dia tersenyum. Senyumnya ramah, senyum yang biasa itu, dan dia bilang maaf, aku sedang dipanggil. Terus dia jalan lagi." Perempuan itu menarik napas. "Dan kami berdua hanya berdiri. Aku tidak bisa jelaskan. Ada sesuatu pada cara dia bilang dipanggil itu yang membuat tangan kami tidak mau naik. Kami sudah tulis di log, jam dan arah, tetapi log itu telat tiga jam, dan aku tahu log telat artinya apa."
 
-Ashvarok membaca perempuan itu sebentar. Ketakutannya bukan palsu dan tidak dibesar-besarkan, dan justru karena itu ia memilih memberinya satu hal kecil yang bisa digenggam.
+Ashvarok membaca perempuan itu sebentar. Ketakutannya bukan palsu dan tidak dibesar-besarkan — dan justru karena itu ia memilih memberinya satu hal kecil yang bisa digenggam.
 
 "Log kalian tidak telat," katanya. "Log itu tepat. Kalau ada yang menanyakan mengapa kalian melepasnya, jawab saja benar, dia tidak melawan, dia hanya berjalan, dan tidak ada pasal yang melarang orang berjalan." Ia menoleh kepada Brannoc. "Naikkan ini ke gudang. Kalau saya belum keluar sampai subuh, tutup cerita ini sebagai bapak tua yang hilang arah dan ditemukan di klinik. Jangan biarkan nama Tovik masuk satu pun kertas resmi malam ini."
 
@@ -55,7 +55,7 @@ Telapak kaki telanjang. Satu deret, irama langkah yang rapi dan tanpa ragu, dice
 
 Denyut itu sudah mendapat jawabannya, pikir Ashvarok, dan gagasan itu adalah yang paling mengerikan yang pernah ia pikirkan di tambang ini selama setahun terakhir.
 
-Jejak itu menurun. Di titik lekukan tempat nat tua bercabang mengikuti kemiringan batu purba menuju bahu timur, jejak itu memilih cabang yang benar tanpa satu detik keraguan. Cabang yang tidak ada di peta Guild mana pun. Cabang yang hanya diketahui oleh tubuh-kunci dan oleh arsitek yang mati seribu tahun silam. Ashvarok berdiri di atas jejak itu lama, dan membaca kejujurannya, dan kejujuran itulah yang membuat dinginnya naik dari telapak kaki ke kepala. Tidak ada gesekan ragu pada cetakan kaki ini. Tidak ada jeda pencarian arah. Orang tua yang tidak ingat namanya sendiri itu berjalan melewati gelap total di dalam tambang yang terkunci dari segala arah, mengikuti nat tua yang hanya dikenal oleh dua jenis makhluk di dunia, yaitu penjaganya dan hal yang dipenjarakannya.
+Jejak itu menurun. Di titik lekukan tempat nat tua bercabang mengikuti kemiringan batu purba menuju bahu timur, jejak itu memilih cabang yang benar tanpa satu detik keraguan. Cabang yang tidak ada di peta Guild mana pun. Cabang yang hanya diketahui oleh tubuh-kunci dan oleh arsitek yang mati seribu tahun silam. Ashvarok berdiri di atas jejak itu lama, dan membaca kejujurannya, dan kejujuran itulah yang membuat dinginnya naik dari telapak kaki ke kepala. Tidak ada gesekan ragu pada cetakan kaki ini. Tidak ada jeda pencarian arah. Orang tua yang tidak ingat namanya sendiri itu berjalan melewati gelap total di dalam tambang yang terkunci dari segala arah, mengikuti nat tua yang hanya dikenal oleh dua jenis makhluk di dunia — yaitu penjaganya dan hal yang dipenjarakannya.
 
 Dan Ashvarok sadar, dengan tenang yang rasanya seperti luka tua, bahwa ia baru saja diberi tahu ada jenis makhluk ketiga.
 
@@ -73,7 +73,7 @@ Tovik tidak gemetar. Tovik tidak menjerit. Lelaki tua itu berdiri di bawah sapua
 
 Wajah tamu yang akhirnya kembali ke rumah lamanya.
 
-Setiap naluri era lamanya menyuruh Ashvarok mundur, menilai dari jarak, menyiapkan tiga rencana sebelum satu langkah. Ia menekan semuanya dan melakukan hal yang tidak pernah ia lakukan kepada korban Hollowing mana pun, yaitu berbicara lebih dulu, dari jarak lima langkah, dengan suara Renn yang rendah dan rata.
+Setiap naluri era lamanya menyuruh Ashvarok mundur, menilai dari jarak, menyiapkan tiga rencana sebelum satu langkah. Ia menekan semuanya dan melakukan hal yang tidak pernah ia lakukan kepada korban Hollowing mana pun — yaitu berbicara lebih dulu, dari jarak lima langkah, dengan suara Renn yang rendah dan rata.
 
 "Bapak Tovik."
 
@@ -81,7 +81,7 @@ Namanya jatuh ke kegelapan dan tidak memantul. Bapak tua itu tidak menoleh. Sapu
 
 "Bapak," coba lagi Ashvarok, lebih dekat, tiga langkah. "Semua orang mencari Bapak. Anak-anak sekolah klinik menunggu Bapak jawab ada."
 
-Kepala tua itu bergerak kali ini. Sedikit saja. Bukan menoleh, hanya mengangkat sedikit ke arah suara, seperti orang yang diganggu saat membaca halaman yang penting, dan suara yang keluar dari mulutnya hangat dan sopan seperti biasa, dan karena itu jauh lebih buruk daripada jeritan apa pun.
+Kepala tua itu bergerak kali ini. Sedikit saja. Bukan menoleh, hanya mengangkat sedikit ke arah suara — seperti orang yang diganggu saat membaca halaman yang penting — dan suara yang keluar dari mulutnya hangat dan sopan seperti biasa — dan karena itu jauh lebih buruk daripada jeritan apa pun.
 
 "Maaf, Nak," kata Tovik. "Sedang ramai. Beliau sedang membaca. Tidak boleh mengganggu beliau ketika beliau membaca."
 

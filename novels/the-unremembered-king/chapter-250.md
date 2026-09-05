@@ -94,7 +94,7 @@ Renn dan Ashvarok duduk di meja keluarga — Sela di antara mereka (secara fisik
 
 Percakapan mereka malam itu tidak masuk arsip resmi. Karena percakapan keluarga tidak untuk arsip.
 
-Tapi satu kalimat bocor — dari Sela, kepada Kovan, sambil tersenyum mengantre tambahan sup:
+Namun satu kalimat bocor — dari Sela, kepada Kovan, sambil tersenyum mengantre tambahan sup:
 
 "Kalian tahu apa perubahan terbesar kakakku selama 250 bab?
 
@@ -240,7 +240,7 @@ Dan satu hal terakhir — yang membuat bab 250 menjadi bab favorit seluruh Caldr
 
 Di akhir perayaan, ketika semua orang sudah pulang dan lilin tinggal satu, kembar Tami-Tomi datang berlari ke aula membawa sesuatu:
 
-tenunan kecil buatan mereka sendiri — pola kacau, benang tidak rapi, tapi jelas dibaca Lompa:
+tenunan kecil buatan mereka sendiri — pola kacau, benang tidak rapi, tetapi jelas dibaca Lompa:
 
 "SELAMAT 250 BAB, KELUARGA URAT TENANG. KAMI SAYANG KALIAN."
 

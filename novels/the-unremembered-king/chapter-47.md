@@ -13,7 +13,7 @@ Kas regu turun ke sembilan shardmark dalam tiga hari, meskipun pabrik kecil Ashv
 
 "Nol yang delapan kali namanya pola," kata Sela. "Pola yang buruk."
 
-Yang membuat malam-malam kosong itu berbeda dari kemiskinan biasa adalah bunyi lereng. Tanpa shift, the Underfold diam seperti mulut yang ditutup tangan, dan penduduk barak yang terbiasa tidur di atas deru troli justru sulit tidur karena kehilangan bunyi itu. Beberapa kali Ashvarok terbangung pada jam-jam mati dan mendengar hal yang tidak didengar siapa pun di sekitarnya: parut di lengannya berdenyut pelan, tujuh detik isi, tujuh detik kosong, seperti sesuatu di bawah batuan yang menghargai kesunyian ini dan memakainya untuk bernapas lebih leluasa.
+Yang membuat malam-malam kosong itu berbeda dari kemiskinan biasa adalah bunyi lereng. Tanpa shift, the Underfold diam seperti mulut yang ditutup tangan, dan penduduk barak yang terbiasa tidur di atas deru troli justru sulit tidur karena kehilangan bunyi itu. Beberapa kali Ashvarok terbangun pada jam-jam mati dan mendengar hal yang tidak didengar siapa pun di sekitarnya: parut di lengannya berdenyut pelan, tujuh detik isi, tujuh detik kosong, seperti sesuatu di bawah batuan yang menghargai kesunyian ini dan memakainya untuk bernapas lebih leluasa.
 
 Karantina membeli Ossian kendali akses. Ternyata ia juga memberi hadiah kepada isi tambang: waktu tanpa telinga.
 
@@ -21,7 +21,7 @@ Karantina membeli Ossian kendali akses. Ternyata ia juga memberi hadiah kepada i
 
 Brannoc pulang dari Quota Office pada sore hari kelima puluh delapan dengan wajah yang membuat seluruh ruang makan barak memutuskan untuk makan lebih cepat.
 
-"Regu inspeksi ventilasi," katanya, melempar gulungan perintah ke meja. "Empat orang, giliran, bayaran santunan sama dengan nganggur. Nama kita di atasnya sebagai penyelenggara. Ada lagi: distrik barat nawarin tim pengganti kalau regu timur menolak. Bayaran penuh."
+"Regu inspeksi ventilasi," katanya, melempar gulungan perintah ke meja. "Empat orang, giliran, bayaran santunan sama dengan nganggur. Nama kita di atasnya sebagai penyelenggara. Ada lagi: distrik barat menawarkan tim pengganti kalau regu timur menolak. Bayaran penuh."
 
 "Dari kantong siapa?" tanya ibu Tamma.
 
@@ -43,7 +43,7 @@ Malam itu undi pertama diadakan di ruang makan dengan mangkuk besar dan empat pu
 
 Legenda itu tidak datang seperti badai. Ia merembes seperti air kaki tambang, dari arah yang paling rendah dan paling tidak dicurigai.
 
-Bentuk pertamanya masih bisa dibantah: dua pemuda galeri sebelas menunggu di dekat gudang perkakas, meminta Renn "hanya lihat sekilas" balok penyangga dapur barak mereka yang katanya berbunyi aneh. Bentuk keduanya sudah lebih sulit: seorang ibu dari galeri sembilan menitipkan pahat kekasarannya lewat Sela, dengan pesan bahwa barang itu akan lebih tajam kalau disentuh orang yang lubang kenal dia. Bentuk ketiganya datang langsung, dan datangnya dengan uang: seorang mandor lubang sewaan dari distrik barat — bukan mandor yang dulu, tapi satu jenis manusia dengan harga pasar yang sama — menemukan Renn di dekat stasiun angkut dan membuka negosiasi tanpa basa-basi.
+Bentuk pertamanya masih bisa dibantah: dua pemuda galeri sebelas menunggu di dekat gudang perkakas, meminta Renn "hanya lihat sekilas" balok penyangga dapur barak mereka yang katanya berbunyi aneh. Bentuk keduanya sudah lebih sulit: seorang ibu dari galeri sembilan menitipkan pahat kekasarannya lewat Sela, dengan pesan bahwa barang itu akan lebih tajam kalau disentuh orang yang lubang kenal dia. Bentuk ketiganya datang langsung, dan datangnya dengan uang: seorang mandor lubang sewaan dari distrik barat — bukan mandor yang dulu, tetapi satu jenis manusia dengan harga pasar yang sama — menemukan Renn di dekat stasiun angkut dan membuka negosiasi tanpa basa-basi.
 
 "Sepuluh shardmark untuk satu bacaan. Lorong sewaan saya mau dibuka lagi begitu karantina selesai. Kata orang kamu bisa tanya ke bawah sana, mana yang akan runtuh dan mana yang tidak."
 
@@ -65,7 +65,7 @@ Kovan ada di garis karantina setiap kali Ashvarok lewat, dan setiap kali itu pen
 
 "Dia menghitung kita," kata Ashvarok kepada Brannoc malam itu, pelan, di gudang perkakas.
 
-"Aku juga menghitung dia," kata Brannoc. "Tiga hari sekali dia ganti posisi. Hari ini dia belajar jalan kaki santai, tapi kakinya masih kaku seperti Shift Guard. Orang yang berdiri lama di satu garis pasti mencatat sesuatu."
+"Aku juga menghitung dia," kata Brannoc. "Tiga hari sekali dia ganti posisi. Hari ini dia belajar jalan kaki santai, tetapi kakinya masih kaku seperti Shift Guard. Orang yang berdiri lama di satu garis pasti mencatat sesuatu."
 
 "Biar dia mencatat kota. Kota jujur." Ashvarok meletakkan mata pisau tempaan terakhir ke peti. "Yang tidak boleh dia lihat adalah bawah. Selama karantina, bawah punya waktu sunyi yang tidak pernah ada. Aku akan pakai waktunya."
 
@@ -87,7 +87,7 @@ Lalu ia menutup bagian terakhirnya dengan pintu yang sengaja tidak dikunci rapat
 
 Anak itu menunduk ke papannya, membuka tutupnya, dan membaca ulang kolom-kolomnya sendiri — Hourglass, HARI MAERA, PRODUKSI, daftar sembilan belas nama di sudut belakang — inventaris lengkap dari segala yang ia catat tanpa pernah tahu tentang apa. Ketika ia mengangkat kepala, matanya merah tetapi suaranya sudah dikumpulkan habis.
 
-"Aku butuh waktu," kata Sela. "Bukan untuk percaya. Aku sudah lama percaya. Untuk... menyusun ulang." Ia mengambil kapurnya, dan di bawah kolom HARI MAERA ia menulis kolom baru dengan judul yang membuat tenggorokan Ashvarok sempit: HAL YANG AKU TAHU SEKARANG. Baris pertamanya hanya satu kalimat. Kakaku bukan kakakku, tapi dia yang menjaga.
+"Aku butuh waktu," kata Sela. "Bukan untuk percaya. Aku sudah lama percaya. Untuk... menyusun ulang." Ia mengambil kapurnya, dan di bawah kolom HARI MAERA ia menulis kolom baru dengan judul yang membuat tenggorokan Ashvarok sempit: HAL YANG AKU TAHU SEKARANG. Baris pertamanya hanya satu kalimat. Kakaku bukan kakakku, tetapi dia yang menjaga.
 
 "Untuk sekarang," kata Sela, memadamkan lampu, memakai kata penutup lamanya seperti memakai selimut. "Besok kita hitung berapa hari masih tersisa."
 

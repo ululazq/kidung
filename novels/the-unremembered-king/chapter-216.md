@@ -5,7 +5,7 @@ chapter: 216
 
 Arc baru dimulai dengan kabar yang dibawa armada ke menara utara: dokumen pengakuan berdaulat the Patient House, disalin utuh ke batu pembaca terbesar yang bisa dibawa perjalanan.
 
-Tujuan upacara sederhana: kedalaman tidak bisa hadir secara hukum di wilayah utara — tapi suaranya bisa. Ashvarok membacakan seluruh isi dokumen kepada nat-nat menara, dan ketika kalimat "entitas berdaulat" selesai, gema-gema utara menjawab dengan irama yang sudah dikenal semua orang: hangat, pelan, seperti kota yang menghela napas lega.
+Tujuan upacara sederhana: kedalaman tidak bisa hadir secara hukum di wilayah utara — tetapi suaranya bisa. Ashvarok membacakan seluruh isi dokumen kepada nat-nat menara, dan ketika kalimat "entitas berdaulat" selesai, gema-gema utara menjawab dengan irama yang sudah dikenal semua orang: hangat, pelan, seperti kota yang menghela napas lega.
 
 Lalu Vess-Morath mengambil giliran bicara — dan pertanyaan gema kelompok itu membuat semua rencana pemulangan harus ditinjau ulang dari akarnya.
 
@@ -17,7 +17,7 @@ Pertanyaannya, diterjemahkan Kovan dengan hati-hati:
 
 Hening panjang menyambut pertanyaan itu — bukan karena tidak ada yang mengerti, melainkan karena semua orang mengerti terlalu cepat. Delapan bulan ini mereka menyiapkan lagu, protokol, keluarga. Tidak pernah seorang pun bertanya ke mana pergulatan harian orang-orang itu: dari mana mereka makan setelah pulang.
 
-Murid termuda yang berkata apa yang semua orang pikirkan: "Kami sudah siapin semuanya... kecuali pekerjaan tanahnya. Padahal mereka petani. Petani itu hidupnya nyambung ke tanah."
+Murid termuda yang berkata apa yang semua orang pikirkan: "Kami sudah siapkan semuanya... kecuali pekerjaan tanahnya. Padahal mereka petani. Petani itu hidupnya nyambung ke tanah."
 
 "Vess-Morath tidak bertanya soal kapan," kata Sareth pelan. "Mereka bertanya soal apa yang tertinggal. Itu pertanyaan orang yang berencana tinggal — bukan hanya datang." Wanita tua itu memandang Ashvarok. "Raja. Ini pertanyaan yang harus dijawab dengan dokumen, bukan irama."
 
@@ -25,7 +25,7 @@ Murid termuda yang berkata apa yang semua orang pikirkan: "Kami sudah siapin sem
 
 Pertanyaan itu dibawa pulang ke Caldrest dan dibuka di meja Arsip — dan jawabannya, setelah empat hari penelusuran Sela bersama arsip Maera, adalah jawaban yang membuat rapat rumah besar berikutnya berlangsung tanpa ada yang menyentuh supnya.
 
-"Ladang itu masih ada," kata Sela. "Gandumnya masih ditanam. Panennya bagus-bagus saja." Ia meletakkan dua dokumen berdampingan. "Tapi pemilik resminya sekarang: Perkebunan Timur Dewan Regional. Surat haknya diterbitkan era Hegemony — tahun ketiga belas setelah kebocoran utara."
+"Ladang itu masih ada," kata Sela. "Gandumnya masih ditanam. Panennya bagus-bagus saja." Ia meletakkan dua dokumen berdampingan. "Namun pemilik resminya sekarang: Perkebunan Timur Dewan Regional. Surat haknya diterbitkan era Hegemony — tahun ketiga belas setelah kebocoran utara."
 
 "Tahun ketiga belas," ulang Barim pelan.
 
@@ -81,13 +81,13 @@ Di halaman terakhir catatan lelang, di bawah daftar tanah yang dibeli, ada tulis
 
 "Tahun kedua puluh. Pekerja ladang tua bernama Garm datang ke kantor kami. Ia bilang kakaknya dulu punya ladang ini sebelum orang-orang utara hilang. Kami tunjukkan surat hak. Ia pergi tanpa bicara. Catat: jika keluarga asli masih hidup di suatu tempat, lelang tahun itu mungkin tidak akan pernah kita lakukan. Terlambat."
 
-"Klien mereka sudah ragu selama bertahun-tahun," kata Sela. "Tapi keraguan saja tidak mengembalikan apa pun."
+"Klien mereka sudah ragu selama bertahun-tahun," kata Sela. "Namun keraguan saja tidak mengembalikan apa pun."
 
 "Maka pekerjaan kita sekarang," kata Ashvarok, "adalah mengubah keraguan menjadi putusan."
 
 Ia menatap kotak-kotak itu, lalu menambahkan hal yang membuat Sela menulis dengan cepat:
 
-"Dan catat siapa yang membawa kotaknya. Seorang pengacara yang datang bukan untuk memenangkan kasus, tapi untuk menanyakan name train — itu orang pertama dari banyak orang yang akan datang ke meja kita membawa dua hal sekaligus: pekerjaannya, dan hatinya. Arsip harus belajar menerima keduanya."
+"Dan catat siapa yang membawa kotaknya. Seorang pengacara yang datang bukan untuk memenangkan kasus, tetapi untuk menanyakan name train — itu orang pertama dari banyak orang yang akan datang ke meja kita membawa dua hal sekaligus: pekerjaannya, dan hatinya. Arsip harus belajar menerima keduanya."
 
 ---
 
@@ -97,7 +97,7 @@ Sebelum subuh, mereka bertanya kepada pihak yang paling berhak mendengar jawaban
 
 Jawaban gema kelompok petani itu butuh waktu sampai pagi untuk diterjemahkan, dan hasilnya membuat seluruh tim inti yang membacanya harus diam lama:
 
-"Kami petani. Kami tahu beda mencabut rumput dan mencabut padi. Yang satu hama, yang satu hasil. Perkebunan itu bukan rumput — dia hanya orang yang menanam di tanah kami karena pemiliknya tidak ada. Jangan dicabut. Diajak bicara. Tanah yang baik bisa menampung dua penanam selama musimnya jujur. Tapi hak milik kami atas tanah itu harus ditulis ulang dengan benar — bukan untuk kami saja, tapi untuk semua yang akan pulang setelah kami. Dan tulis juga: sebagian panen tahun pertama adalah milik mereka, karena air dan kerja keras mereka juga masuk ke tanah ini."
+"Kami petani. Kami tahu beda mencabut rumput dan mencabut padi. Yang satu hama, yang satu hasil. Perkebunan itu bukan rumput — dia hanya orang yang menanam di tanah kami karena pemiliknya tidak ada. Jangan dicabut. Diajak bicara. Tanah yang baik bisa menampung dua penanam selama musimnya jujur. Namun hak milik kami atas tanah itu harus ditulis ulang dengan benar — bukan untuk kami saja, tetapi untuk semua yang akan pulang setelah kami. Dan tulis juga: sebagian panen tahun pertama adalah milik mereka, karena air dan kerja keras mereka juga masuk ke tanah ini."
 
 Kovan menutup terjemahan itu dan berkata pada ruangan kalimat yang langsung dikutip Sela:
 
@@ -111,7 +111,7 @@ Hari 551. Kasus baru dibuka: TANAH UTARA. Temuan: 16 ladang, 3 kebun, 2 peternak
 
 Pesan Vess-Morath menjadi kompas: jangan cabut, ajak bicara; tulis ulang hak milik dengan benar; bagikan panen tahun pertama.
 
-Dan pelajaran untukku: delapan bulan mengajariku bahwa dunia bisa berubah lewat lagu. Arc ini akan mengajariku bahwa dunia juga harus bisa berubah lewat surat hak. Keduanya sama pentingnya — karena jiwa pulang butuh lagu, tapi hidup pulang butuh tanah.
+Dan pelajaran untukku: delapan bulan mengajariku bahwa dunia bisa berubah lewat lagu. Arc ini akan mengajariku bahwa dunia juga harus bisa berubah lewat surat hak. Keduanya sama pentingnya — karena jiwa pulang butuh lagu, tetapi hidup pulang butuh tanah.
 
 Satu hal lagi, untuk halaman yang hanya Sela akan baca: pertanyaan Vess-Morath tadi malam, di akhir jawaban panjangnya, ada satu kalimat kecil yang tidak masuk laporan resmi. Mereka bertanya: "apakah pohon besar di tepi ladang masih berdiri? Yang dulu jadi tempat menidurkan anak saat musim panen."
 

@@ -3,7 +3,7 @@ title: "Bab 113: Penjaga di Depan Pintu"
 chapter: 113
 ---
 
-Kabar itu sampai kepada Ashvarok pada siang hari keseratus enam puluh, dari sumber yang setahun ini tidak pernah salah arah, yaitu Assayer Tull sendiri di belakang gudang pengangkutan.
+Kabar itu sampai kepada Ashvarok pada siang hari keseratus enam puluh, dari sumber yang setahun ini tidak pernah salah arah — yaitu Assayer Tull sendiri di belakang gudang pengangkutan.
 
 "Ada auditor di kota," kata Maera tanpa pembuka. "Dari Spire. Tanpa nama individu, hanya mandat. Tugasnya memeriksa biro Vael dari dalam."
 
@@ -35,7 +35,7 @@ Rapat tim inti dimulai setelah lonceng malam kedua. Brannoc duduk di peti kayu d
 
 Sela mengangkat tangannya, kebiasaan sekolah klinik yang tidak pernah hilang.
 
-"Aku paham bagian bahayanya," katanya. "Yang aku tidak paham satu hal saja. Orang yang motong seam itu kan jahat. Yang bayar kurir bisu, yang suruh goyang pasak. Kenapa Dewan mau memberi kursi penjaga kepada orang begitu?"
+"Aku paham bagian bahayanya," katanya. "Yang aku tidak paham satu hal saja. Orang yang memotong seam itu kan jahat. Yang bayar kurir bisu, yang suruh goyang pasak. Kenapa Dewan mau memberi kursi penjaga kepada orang begitu?"
 
 "Sebab dari sudut pandang Dewan, dia baru saja melakukan hal yang paling jarang dilakukan seorang pegawai," kata Ashvarok. "Mengakui kerugian sebelum ditagih, lalu menawarkan solusi yang hari ini tidak biaya apa-apa. Dan solusinya benar, Sela. Itu bagian yang paling sulit kutelan. Seam itu memang tidak bisa ditambang dan memang tidak bisa disegel murah. Aku yang paling dalam tahu alasannya. Tesisnya benar."
 
@@ -53,7 +53,7 @@ Ruangan itu sunyi sebentar. Di luar, barak distrik timur menyalakan lampunya blo
 
 "Ada satu variabel yang belum masuk hitungan," kata Brannoc kemudian. "Pengikat senior. Auditor itu akan mewawancarai semua orang yang pegang hak akses segmen. Pengawas tetap adalah orang pertama di daftarnya. Dan orang tua itu punya kebiasaan menyimpan fakta paling mahal untuk dirinya sendiri."
 
-"Pengikat senior tidak akan menjual penambalnya," kata Ashvarok. "Tapi dia juga tidak akan melindungi calon penjaga dari pertanyaannya. Dia akan memberi auditor persis apa yang selalu ia berikan kepada siapa pun, yaitu angka produksi dan rotasi regu. Sisanya tetap tidur di sol sepatunya." Ia berhenti sebentar, menghitung ulang kalimat itu sendiri. "Yang membuatku berpikir bukan apa yang ia katakan kepada auditor. Melainkan apa yang akan ia pikirkan tentang Vael. Dua pembaca batu sedang berebut satu tambalan, dan orang tua itu bisa membaca siapa saja."
+"Pengikat senior tidak akan menjual penambalnya," kata Ashvarok. "Namun dia juga tidak akan melindungi calon penjaga dari pertanyaannya. Dia akan memberi auditor persis apa yang selalu ia berikan kepada siapa pun, yaitu angka produksi dan rotasi regu. Sisanya tetap tidur di sol sepatunya." Ia berhenti sebentar, menghitung ulang kalimat itu sendiri. "Yang membuatku berpikir bukan apa yang ia katakan kepada auditor. Melainkan apa yang akan ia pikirkan tentang Vael. Dua pembaca batu sedang berebut satu tambalan, dan orang tua itu bisa membaca siapa saja."
 
 "Kalau begitu jangan kita yang datang kepadanya," kata Brannoc. "Biarlah dia yang mendekati kita kalau butuh. Orang yang menyimpan kartu tidak suka dikunjungi pemain lain."
 
@@ -69,11 +69,11 @@ Ashvarok memandang adik angkatnya cukup lama, karena pertanyaan itu menusuk lebi
 
 "Maka jawabannya harus lebih baik daripada janji," katanya akhirnya. "Janji menjanjikan pencarian. Kita sudah membuktikan hal yang lebih besar, yaitu bahwa nama bisa dijaga hidup tanpa menunggu siapa pun berkuasa. Name map, name-roll, name train, baris kosong Tovik yang dicentang tiap hari. Itu bukan janji. Itu bekerja yang sudah berjalan. Kursi mana pun yang diduduki siapa pun, bekerja itu tidak bisa dicabut seperti surat tanda."
 
-"Jadi kita percepat dua hal saja," kata Ashvarok akhirnya. "Pertama, perlindungan distrik final. Pernyataan fakta kolektif harus masuk register komisi secepat jalurnya sanggup, supaya klaim tenaga bekerja distrik ini melekat pada kertas yang tidak bisa dibuka ulang oleh rezim mana pun, termasuk rezim yang kelak memegang kursi penjaga. Maera sudah pegang jalurnya. Tharrow menyalin arsip pendukungnya. Kalau perlu, pernyataan itu masuk lewat pintu yang sama dengan penetapan permanen, supaya keduanya jadi satu bangunan hukum yang harus dibongkar serentak kalau mau dibongkar."
+"Jadi kita percepat dua hal saja," kata Ashvarok akhirnya. "Pertama, perlindungan distrik final. Pernyataan fakta kolektif harus masuk register komisi secepat jalurnya sanggup, supaya klaim tenaga kerja distrik ini melekat pada kertas yang tidak bisa dibuka ulang oleh rezim mana pun, termasuk rezim yang kelak memegang kursi penjaga. Maera sudah pegang jalurnya. Tharrow menyalin arsip pendukungnya. Kalau perlu, pernyataan itu masuk lewat pintu yang sama dengan penetapan permanen, supaya keduanya jadi satu bangunan hukum yang harus dibongkar serentak kalau mau dibongkar."
 
 "Dua?" tanya Brannoc.
 
-"Pemahaman seninya." Renn melihat ke arah balok dengan tiga simbol itu. "Kalau pertarungan berikutnya adalah tarik-menarik legitimasi di depan pintu yang sama, maka yang menang bukan yang paling kuat, tapi yang paling paham pintunya. Aku sudah terlalu lama menambal dengan membayar tubuh ini. Aku butuh seni yang bisa menahan tanpa membakar sisa diriku habis-habisan, dan aku punya satu untaian yang belum pernah disentuh tubuh ini sama sekali."
+"Pemahaman seninya." Renn melihat ke arah balok dengan tiga simbol itu. "Kalau pertarungan berikutnya adalah tarik-menarik legitimasi di depan pintu yang sama, maka yang menang bukan yang paling kuat, tetapi yang paling paham pintunya. Aku sudah terlalu lama menambal dengan membayar tubuh ini. Aku butuh seni yang bisa menahan tanpa membakar sisa diriku habis-habisan, dan aku punya satu untaian yang belum pernah disentuh tubuh ini sama sekali."
 
 Sela bangkit dan mengambil kapurnya, dan di sudut kanan atas papan tulisnya ia menulis dua baris baru: "Register." Dan nama yang keempat.
 

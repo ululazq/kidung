@@ -7,7 +7,7 @@ Retakan itu menyapu lagi pada hari kedua ratus dua puluh sembilan, jam pertama p
 
 Ashvarok berdiri di node kedua jalur katup samping, patroli buta malam ketiga pekan ini, ketika gelombang tekanan datang dan membawa sesuatu yang membuat bulu tangannya berdiri sebelum akalnya mengerti. Dalam sapuan itu ada bunyi. Bukan bisikan galeri bisu yang dulu, bukan dua suku kata ganti-nama. Bunyi yang lebih sederhana dan jauh lebih mengerikan: ketukan. Satu-dua-satu. Satu-dua-tiga. Irama kereta nama, pola absen-nama yang diajarkan anak-anak klinik, persis pola yang diketuk sembilan orang ke dinding lorong utama pada malam mereka tersegel — dari sisi dalam.
 
-Sunyi ini tidak menciptakan. Ia hanya menelan dan mengeluarkan kembali apa yang pernah masuk ke dalamnya. Tapi sampai malam ini semua yang pernah ia keluarkan adalah potongan lama: lagu Hegemony, kata bahasa pinjaman, rekaman seam. Malam ini ia mengeluarkan sesuatu yang didengarnya baru sepuluh hari lalu. Ia belajar hal baru. Dan kecepatan belajarnya diukur dalam hari.
+Sunyi ini tidak menciptakan. Ia hanya menelan dan mengeluarkan kembali apa yang pernah masuk ke dalamnya. Namun sampai malam ini semua yang pernah ia keluarkan adalah potongan lama: lagu Hegemony, kata bahasa pinjaman, rekaman seam. Malam ini ia mengeluarkan sesuatu yang didengarnya baru sepuluh hari lalu. Ia belajar hal baru. Dan kecepatan belajarnya diukur dalam hari.
 
 Ashvarok berdiri sangat diam di kegelapan dan mendengarkan sapuan kedua memutar ulang ketukan itu, lebih pelan, seperti murid yang mengulang soal untuk memastikan hafalannya. Lalu sapuan ketiga tidak datang, dan sunyi kembali ke irama kosongnya, dan raja seribu tahun itu berdiri di lorong sempit dengan satu kesimpulan yang dingin dan bersih: pagar nama mereka bukan hanya sajian bagi retakan ini. Pagar itu juga kamusnya.
 
@@ -17,13 +17,13 @@ Ia naik sebelum jadwal, keluar lewat bahu timur aula dengan langkah yang tidak i
 
 Ia mengetuk pintu belakang Quota Office pada jam kedua pagi, dan pintu dibuka oleh Ossian yang masih berpakaian lengkap, yang sudah bangun, yang entah bagaimana sudah tahu bahwa malam ini malamnya. Mereka bicara di ambang pintu, dua penjaga, tanpa duduk, tanpa lampu tambahan.
 
-"Ketukan," kata Ashvarok. "Dia memutar ulang ketukan sembilan orang. Irama name-roll. Dia mendengarnya dari dalam segelmu sendiri dan sekarang menjadikannya miliknya." Ia membiarkan pria itu mencerna. "Artinya dua hal. Pertama: setiap suara yang pernah masuk ke dalam radiusnya bisa dipakainya lagi. Kedua, dan ini yang membuat aku di sini jam segini: suara berikutnya yang akan dipinjamnya adalah jawaban. Ketukan kami menjawab ketukan mereka, selama bertahun-tahun, di setiap patroli. Kalau dia mulai memutar balik jawaban dengan irama yang benar tapi isi yang salah, ada orang di barak yang akan menjawabnya."
+"Ketukan," kata Ashvarok. "Dia memutar ulang ketukan sembilan orang. Irama name-roll. Dia mendengarnya dari dalam segelmu sendiri dan sekarang menjadikannya miliknya." Ia membiarkan pria itu mencerna. "Artinya dua hal. Pertama: setiap suara yang pernah masuk ke dalam radiusnya bisa dipakainya lagi. Kedua, dan ini yang membuat aku di sini jam segini: suara berikutnya yang akan dipinjamnya adalah jawaban. Ketukan kami menjawab ketukan mereka, selama bertahun-tahun, di setiap patroli. Kalau dia mulai memutar balik jawaban dengan irama yang benar tetapi isi yang salah, ada orang di barak yang akan menjawabnya."
 
 Ossian diam cukup lama sehingga lilin di balik jendela koridor padam sendiri.
 
 "Orang akan menjawab sunyi," katanya akhirnya. "Mengira itu teman."
 
-"Karena di tambang ini aturannya sudah tertulis sejak Pak Dekan: bunyi pintu tua jangan dijawab pakai kapak. Tapi aturan itu tidak mengatur bunyi yang meminta tolong."
+"Karena di tambang ini aturannya sudah tertulis sejak Pak Dekan: bunyi pintu tua jangan dijawab pakai kapak. Namun aturan itu tidak mengatur bunyi yang meminta tolong."
 
 "Berapa banyak waktu?" Tidak ada efisiensi di suara itu malam ini. Hanya hitungan yang minta angka.
 
@@ -45,7 +45,7 @@ Gelombang itu datang jam ketiga pagi. Mereka merasakannya dari atas: lampu-lampu
 
 Di bawah sana, di level yang sengaja dikosongkan, retakan menyapu seluruh level dengan irama ketukan yang dipinjamnya, menunggu jawaban, dan tidak ada yang menjawab karena tidak ada manusia di dalam radiusnya. Umpan kedua di lokasi yang hanya Ossian tahu memberinya sesuatu untuk diserap. Dan di dapur barak, Sela yang menghitung getaran di dasar cangkirnya berkata kepada meja, tanpa mengangkat wajah:
 
-"Hitungan mimpi pria abu malam ini naik empat. Tidak berhenti. Tapi dia tidak menoleh ke satu wajah pun." Ia menoleh sekarang, ke Ashvarok, ke kakaknya, dan di matanya ada lega yang dipegang keras seperti orang memegang ikan yang masih hidup. "Kosong. Malam ini dia lapar ke ruangan yang kosong. Rencana kakak berhasil."
+"Hitungan mimpi pria abu malam ini naik empat. Tidak berhenti. Namun dia tidak menoleh ke satu wajah pun." Ia menoleh sekarang, ke Ashvarok, ke kakaknya, dan di matanya ada lega yang dipegang keras seperti orang memegang ikan yang masih hidup. "Kosong. Malam ini dia lapar ke ruangan yang kosong. Rencana kakak berhasil."
 
 "Rencana kakak," kata Ashvarok, "adalah mendengarkan kamu yang bilang jangan membuat pintu lagi, dan mendengarkan musuh yang bilang takut pada hitungannya sendiri." Ia bangkit, mengisi ulang minum untuk semua orang di meja, gerakan yang sudah menjadi rutin dan tidak pernah ia sadari telah menjadi rutin. "Mini-arc ini tutup. Besok kita menghitung ulang semuanya: umpannya, protokolnya, dan harga yang badanku bayar malam ini — karena ada, dan besok pagi kolom Hourglass akan lebih pendek dari malam ini."
 
@@ -69,6 +69,6 @@ Meja diam. Lalu ibu Tamma, yang hadir karena dapurnya, meletakkan panci bubur ta
 
 Mereka makan. Dan jauh di bawah sana, di level yang kosong, sesuatu yang telah meminjam suara orang-orang untuk pertama kalinya dalam keberadaannya yang panjang dan sunyi itu berputar pelan di sekitar umpan kedua, membaca irama jawaban palsu, mencocokkannya dengan arsip yang dikumpulkannya selama setahun, dan menemukan bahwa data itu tidak cocok dengan satu pun pola lama. Untuk pertama kalinya sejak retakan pertama muncul di dinding tambang ini, kedalaman menghadap sebuah jawaban dan tidak tahu apa artinya.
 
-Ia tidak marah. Kegelapan di bawah dunia tidak marah; ia hanya lapar dengan sabar yang membuat musim terlihat terburu-buru. Tapi malam itu, untuk pertama kalinya, yang lapar harus belajar dari yang dikejarnya, dan Ashvarok yang menutup pintu dapur barak jam empat pagi membawa pengetahuan itu turun ke tidurnya seperti membawa api kecil dalam kedua tangan: bahwa lawan mereka bisa meminjam suara, tapi belum bisa mencipta. Selama Caldrest terus berkata yang benar kepada satu sama lain — di dapur, di klinik, di papan nama, di antarpenjaga — ada suara-suara yang tidak akan pernah bisa dipinjam, karena versi palsunya akan selalu gagal dicocokkan dengan aslinya.
+Ia tidak marah. Kegelapan di bawah dunia tidak marah; ia hanya lapar dengan sabar yang membuat musim terlihat terburu-buru. Namun malam itu, untuk pertama kalinya, yang lapar harus belajar dari yang dikejarnya, dan Ashvarok yang menutup pintu dapur barak jam empat pagi membawa pengetahuan itu turun ke tidurnya seperti membawa api kecil dalam kedua tangan: bahwa lawan mereka bisa meminjam suara, tetapi belum bisa mencipta. Selama Caldrest terus berkata yang benar kepada satu sama lain — di dapur, di klinik, di papan nama, di antarpenjaga — ada suara-suara yang tidak akan pernah bisa dipinjam, karena versi palsunya akan selalu gagal dicocokkan dengan aslinya.
 
 Kebenaran sebagai benteng. Raja seribu tahun menemukan prinsip itu bukan di buku seninya, melainkan di panci bubur seorang ibu dapur barak, dan ironi itu, setidaknya, terasa seperti rumah.

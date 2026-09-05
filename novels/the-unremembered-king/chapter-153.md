@@ -5,7 +5,7 @@ chapter: 153
 
 Ossian Vael datang pada hari kedua ratus dua puluh lima, jam ketiga sore, sendirian, tanpa surat tanda dan tanpa pengikat, dan Ashvarok yang sedang menghitung stok pahat di gudang perkakas tingkat dua mendengar langkahnya dari tangga dan mengenali iramanya sebelum wajahnya muncul di ambang pintu. Langkah orang yang tidak membawa apa pun biasanya cepat. Langkah ini pelan, sama panjang satu per satu, langkah seseorang yang sengaja memberi waktu kepada isi ruangan untuk memilih sikap.
 
-"Jangan berhenti karena aku," kata Ossian. "Aku bisa bicara kepada punggung juga. Tapi lebih sopan bicara kepada muka."
+"Jangan berhenti karena aku," kata Ossian. "Aku bisa bicara kepada punggung juga. Namun lebih sopan bicara kepada muka."
 
 Ashvarok meletakkan pahat terakhir ke kotaknya, meluruskan badan, dan menoleh. Mereka belum pernah berdiri dalam satu ruangan tanpa perantara. Selama dua tahun semua percakapan mereka menyusuri jalur lain: lewat Maera, lewat Kovan, lewat laporan, lewat gembok dan patroli dan penutupan darurat. Sekarang hanya ada gudang, lampu minyak yang dipangkas rendah, dan dua orang yang sama-sama tahu bahwa keduanya tahu.
 
@@ -19,11 +19,11 @@ Ashvarok tidak menjawab. Menjawab apa pun di titik ini adalah memberi sesuatu, d
 
 "Bukan," kata Ossian setuju, cepat, tanpa tersinggung. "Dan bukan juga milikmu. Milik the Quiet Vein, dengan lisensi Choir, di atas seam yang diklasifikasikan mati oleh komisi yang aku beli sendiri. Semua kepemilikan di Caldrest adalah kertas, dan kita berdua tahu persis kertas macam apa yang bisa dibeli. Yang bukan kertas adalah yang sembilan orang itu keluar hidup-hidup kemarin. Itu milik siapa juga tidak."
 
-Lampu minyak bergoyang dari angin lorong. Di bawah sana, empat puluh hasta lebih dalam, sesuatu yang lapar sedang menghafal letak pintu-pintunya, dan Ashvarok mengukur pria di depannya dengan ukuran yang sama telitianya dengan mana ia mengukur retakan: bukan apa yang dikatakan, tapi apa yang tidak disebut.
+Lampu minyak bergoyang dari angin lorong. Di bawah sana, empat puluh hasta lebih dalam, sesuatu yang lapar sedang menghafal letak pintu-pintunya, dan Ashvarok mengukur pria di depannya dengan ukuran yang sama telitinya dengan mana ia mengukur retakan: bukan apa yang dikatakan, tetapi apa yang tidak disebut.
 
 "Kau mengeksekusi penutupan saat sembilan orang masih di dalam," kata Ashvarok. "Itu yang kau datang untuk bicarakan sebenarnya. Bukan pintuku. Jeratmu."
 
-Wajah Ossian tidak bergerak, dan justru ketidakbergerakan itulah jawabannya. "Empat puluh menit," katanya pelan. "Hitungan dasarku sendiri. Ya. Itu juga bagian dari yang aku bawa hari ini." Ia melepaskan bahu dari rangka pintu dan berdiri tegak, dan untuk pertama kalinya malam itu suaranya kehilangan sedikit efisiensinya, seperti sudah kehilangan sekali di corong troli dan tidak sanggup lagi membangunnya sempurna. "Aku akan mengatakan sesuatu yang tidak pernah aku katakan kepada siapa pun di tambang ini. Aku takut pada kedalaman itu. Bukan sebagai bahaya bekerja. Sebagai sesuatu yang menghitung balik. Malam itu retakannya berhenti berperilaku seperti retakan, dan aku meresponsnya seperti pejabat, dan sembilan nama nyaris masuk ke dalam hitungan yang tidak pernah pulih. Aku tidak mau jadi orang yang menjawab ketakutan dengan prosedur. Itu pekerjaan orang-orang yang menandatangani utara delapan belas tahun silam."
+Wajah Ossian tidak bergerak — dan justru ketidakbergerakan itulah jawabannya. "Empat puluh menit," katanya pelan. "Hitungan dasarku sendiri. Ya. Itu juga bagian dari yang aku bawa hari ini." Ia melepaskan bahu dari rangka pintu dan berdiri tegak, dan untuk pertama kalinya malam itu suaranya kehilangan sedikit efisiensinya, seperti sudah kehilangan sekali di corong troli dan tidak sanggup lagi membangunnya sempurna. "Aku akan mengatakan sesuatu yang tidak pernah aku katakan kepada siapa pun di tambang ini. Aku takut pada kedalaman itu. Bukan sebagai bahaya bekerja. Sebagai sesuatu yang menghitung balik. Malam itu retakannya berhenti berperilaku seperti retakan, dan aku meresponsnya seperti pejabat, dan sembilan nama nyaris masuk ke dalam hitungan yang tidak pernah pulih. Aku tidak mau jadi orang yang menjawab ketakutan dengan prosedur. Itu pekerjaan orang-orang yang menandatangani utara delapan belas tahun silam."
 
 Angin itu. Satu-satunya celah yang pernah dilihat siapa pun di tembok pria ini, dan ia membukanya sendiri, di sini, sadar betapa harganya.
 
@@ -33,11 +33,11 @@ Ossian mengangguk sekali, seperti orang menerima tiket yang benar. "Pembagian se
 
 "Dan kalau aku menolak?"
 
-"Kalau kau menolak, aku mengirim laporan itu besok pagi, Spire mengirim tim pemeriksa dalam sembilan hari, Pembaca Tua membaca namanya di baris pertama, dan kita berdua berhenti menjadi orang yang memegang kendali dan menjadi orang yang diperiksa." Ossian mengatakannya datar, tanpa ancaman, cara orang menyebut cuaca. "Aku tidak ingin itu. Tapi aku juga sudah belajar, di kota ini, bahwa orang yang menjaga sendirian akhirnya menjaga kuburan. Termasuk diriku."
+"Kalau kau menolak, aku mengirim laporan itu besok pagi, Spire mengirim tim pemeriksa dalam sembilan hari, Pembaca Tua membaca namanya di baris pertama, dan kita berdua berhenti menjadi orang yang memegang kendali dan menjadi orang yang diperiksa." Ossian mengatakannya datar, tanpa ancaman, cara orang menyebut cuaca. "Aku tidak ingin itu. Namun aku juga sudah belajar, di kota ini, bahwa orang yang menjaga sendirian akhirnya menjaga kuburan. Termasuk diriku."
 
 Ashvarok diam lama. Ada banyak versi penolakan di kepalanya, dan semuanya bagus, dan semuanya dibangun untuk melindungi hal yang sama yang telah dilindungi seribu tahun: jangan dikenal, jangan bermitra, jangan beri jam. Tetapi sembilan orang keluar kemarin. Dan ingatan tentang musim yang hilang itu masih kosong di tempatnya, dan Sela berkata jangan membuat pintu lagi, dan di bawah sana sesuatu belajar lebih cepat daripada kedua penjaga di ruangan ini digabungkan.
 
-"Tidak pada tawaranmu," kata Ashvarok akhirnya. "Kau bilang penjaga kedua. Benar. Tapi penjaga kedua yang tidak saling percaya sudah pernah ada di tambang ini, dan bentuknya protokol tiga pasal yang salah satu penandatangannya melanggar pasalnya sendiri dalam sepuluh hari. Aku tidak akan mengulang dokumen itu. Yang bisa kuberi lebih sempit, dan hanya ini: laporanmu kau tahan, tanpa batas waktu yang disebut keras, selama tidak ada manusia yang mati karena ditahan. Dan kalau kedalaman itu akan membesar, kau dengar dari mulutku sebelum kau dengar dari lonceng. Bukan karena kau minta. Karena penjaga yang biarkan penjaga lain tertidur di atas tombol bukan penjaga, hanya penunggu."
+"Tidak pada tawaranmu," kata Ashvarok akhirnya. "Kau bilang penjaga kedua. Benar. Namun penjaga kedua yang tidak saling percaya sudah pernah ada di tambang ini, dan bentuknya protokol tiga pasal yang salah satu penandatangannya melanggar pasalnya sendiri dalam sepuluh hari. Aku tidak akan mengulang dokumen itu. Yang bisa kuberi lebih sempit, dan hanya ini: laporanmu kau tahan, tanpa batas waktu yang disebut keras, selama tidak ada manusia yang mati karena ditahan. Dan kalau kedalaman itu akan membesar, kau dengar dari mulutku sebelum kau dengar dari lonceng. Bukan karena kau minta. Karena penjaga yang biarkan penjaga lain tertidur di atas tombol bukan penjaga, hanya penunggu."
 
 Ossian memandanginya lama, dan ada sesuatu yang bergerak di wajah pria itu, bukan senang, bukan puas, lebih dekat kepada lega yang marah karena lega. "Itu bukan mitra," katanya. "Itu dua orang saling memegang pisau."
 
@@ -69,9 +69,9 @@ Kapur Brannoc yang tidak ada di tangannya hampir jatuh. Mandor tua itu berhenti 
 
 "Itu bukan jawaban pertanyaanku."
 
-Ashvarok memutuskan di titik itu, sadar bahwa ia sedang memutuskan, bahwa kesepakatan sore ini punya aturan kedua yang tidak ia sepakati dengan Ossian tapi wajib ia sepakati dengan Brannoc: mitra sendiri tidak boleh mendengar kabar penting dari koridor. "Ia tahu ada penjaga. Belum tahu siapa. Laporan pintu ditahannya. Dan kalau kedalaman akan membesar, aku yang memberi tahu dia lebih dulu."
+Ashvarok memutuskan di titik itu, sadar bahwa ia sedang memutuskan, bahwa kesepakatan sore ini punya aturan kedua yang tidak ia sepakati dengan Ossian tetapi wajib ia sepakati dengan Brannoc: mitra sendiri tidak boleh mendengar kabar penting dari koridor. "Ia tahu ada penjaga. Belum tahu siapa. Laporan pintu ditahannya. Dan kalau kedalaman akan membesar, aku yang memberi tahu dia lebih dulu."
 
-Hening panjang. Brannoc duduk di bangku kayu, pelan-pelan, seperti orang yang butuh duduk untuk marah dengan benar. "Kau mau kasih jam-nya kepada Vael," katanya akhirnya. Bukan pertanyaan. "Ke pria yang sembilan hari lalu menggembok anak buahku bersama delapan orang lain di dalam."
+Hening panjang. Brannoc duduk di bangku kayu, pelan-pelan, seperti orang yang butuh duduk untuk marah dengan benar. "Kau mau memberi jam-nya kepada Vael," katanya akhirnya. Bukan pertanyaan. "Ke pria yang sembilan hari lalu menggembok anak buahku bersama delapan orang lain di dalam."
 
 "Biar aku bilang bagian yang tidak kau dengar," kata Ashvarok, dan ia menceritakan kalimat utara, kalimat takut, hitungan empat puluh menit yang dibawa Ossian masuk ke ruangan ini sendirian tanpa saksi. Sampai habis. Brannoc mendengarkan sampai habis juga, mengunyah akar pahitnya, dan ketika selesai mandor tua itu diam sebentar lalu berkata dengan suara datarnya sendiri:
 
@@ -83,7 +83,7 @@ Hening panjang. Brannoc duduk di bangku kayu, pelan-pelan, seperti orang yang bu
 
 "Selalu jadi milikmu," kata Ashvarok.
 
-Malam harinya, patroli jalur katup samping berjalan dengan satu perubahan yang tidak dicatat di jadwal undian mana pun: Ashvarok turun dengan membaca bukan hanya retakan, tapi juga pintu Quota Office di atas, arah lampu di koridor biro, irama langkah pengawas yang mulai menyertai Shift Guard pagi. Kesepakatan sempit itu bekerja dua arah, dan sisi gelapnya sederhana: mulai hari ini ada satu manusia lagi di Caldrest yang tahu kapan patroli dilakukan, dan manusia itu pintar, terluka, dan memegang gembok resmi atas semua pintu yang dilewati patroli.
+Malam harinya, patroli jalur katup samping berjalan dengan satu perubahan yang tidak dicatat di jadwal undian mana pun: Ashvarok turun dengan membaca bukan hanya retakan, tetapi juga pintu Quota Office di atas, arah lampu di koridor biro, irama langkah pengawas yang mulai menyertai Shift Guard pagi. Kesepakatan sempit itu bekerja dua arah, dan sisi gelapnya sederhana: mulai hari ini ada satu manusia lagi di Caldrest yang tahu kapan patroli dilakukan, dan manusia itu pintar, terluka, dan memegang gembok resmi atas semua pintu yang dilewati patroli.
 
 Ashvarok menyelesaikan putaran terakhir di node keenam, menyentuh simpul Forge penanda yang belum bunyi, dan berdiri sebentar dalam sunyi yang tidak sempurna itu. Di bawah sana retakan bernapas dengan iramanya sendiri. Di atas sana seorang pejabat yang takut pada kedalaman sedang memegang laporan yang tidak dikirimnya, dan dua penjaga yang tidak saling percaya baru saja, untuk pertama kalinya dalam sejarah tambang ini, berada di sisi garis yang sama.
 

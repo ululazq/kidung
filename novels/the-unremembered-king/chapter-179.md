@@ -5,7 +5,7 @@ chapter: 179
 
 Balai kota Caldrest tidak pernah sepenuhnya penuh seperti itu.
 
-Mereka datang dari semua distrik — pekerja tambang, pedagang pasar, anak-anak sekolah klinik dengan name train mereka, anggota Dewan kota yang bingung tapi penasaran, dua Shift Guard yang lupa mereka sedang bertugas, dan di barisan paling depan, kursi-kursi yang disusun khusus: Ossian Vael dengan daftar empat puluh tujuh nama di tangannya, Maera Tull sebagai saksi Guild, Sareth Vayin yang datang "sebagai manusia", pengikat senior, dan di tengah mereka, Ondar yang tadi pagi diminta ibu Tamma mengganti shift supaya bisa hadir.
+Mereka datang dari semua distrik — pekerja tambang, pedagang pasar, anak-anak sekolah klinik dengan name train mereka, anggota Dewan kota yang bingung tetapi penasaran, dua Shift Guard yang lupa mereka sedang bertugas, dan di barisan paling depan, kursi-kursi yang disusun khusus: Ossian Vael dengan daftar empat puluh tujuh nama di tangannya, Maera Tull sebagai saksi Guild, Sareth Vayin yang datang "sebagai manusia", pengikat senior, dan di tengah mereka, Ondar yang tadi pagi diminta ibu Tamma mengganti shift supaya bisa hadir.
 
 Di meja depan: Ashvarok, dalam tubuh Renn, berdiri bersama Sela dan Brannoc.
 
@@ -21,13 +21,13 @@ Upacara pencatatan utara berjalan selama empat jam, dan Caldrest belajar bahwa m
 
 Ossian membaca nama pertama sampai kesembilan — keluarga intinya sendiri, suara stabil sampai nama keempat (kakaknya), goyah pada kelima (suaminya), dan berhenti total pada keenam sebelum melanjutkan dengan mata tertutup. Kerumunan menunggu tanpa bergerak. Ketika selesai, ia berkata kecil: "Vessia. Kakakku. Dia menulis surat padaku tiap pekan selama aku sekolah di Spire. Surat terakhirnya soal cuaca." Jeda. "Cuaca utara selalu lebih dingin dari Spire. Dia selalu ingatkan aku bawa mantel tebal." Ia duduk. Tidak ada yang berani bertanya apakah ia membawa mantel malam itu.
 
-Ibu Tamma memimpin blokedua — dua puluh nama keluarga petani tepian yang namanya dibacakan dengan tempo dapur: pelan, jelas, tanpa drama. Anak-anak name train menjawab setiap nama selesai dengan "dicatat", latihan baru yang disempurnakan Sela subuh harinya.
+Ibu Tamma memimpin blok kedua — dua puluh nama keluarga petani tepian yang namanya dibacakan dengan tempo dapur: pelan, jelas, tanpa drama. Anak-anak name train menjawab setiap nama selesai dengan "dicatat", latihan baru yang disempurnakan Sela subuh harinya.
 
 Brannoc membaca blok ketiga. Pengikat senior blok keempat, dengan catatan bahwa tujuh nama di blok itu adalah nama yang pernah ia lewati di jalur patrolinya empat puluh tahun silam, dan ia menyebut masing-masing dua kali — sekali sebagai kewajiban, sekali sebagai permintaan maaf.
 
 Maera membaca blok kelima dan keenam. Kovan blok ketujuh — dan pada blok itulah sesuatu terjadi.
 
-Ketika nama kedelapan blok ketujuh dibacakan — "Sarneth, pembuat gerabah" — getar halus naik dari lantai balai kota. Halus. Hampir tidak ada. Tapi enam pendengar terlatih di ruangan itu menangkapnya serentak, dan Kovan, yang membaca, berhenti satu detik, lalu melanjutkan.
+Ketika nama kedelapan blok ketujuh dibacakan — "Sarneth, pembuat gerabah" — getar halus naik dari lantai balai kota. Halus. Hampir tidak ada. Namun enam pendengar terlatih di ruangan itu menangkapnya serentak, dan Kovan, yang membaca, berhenti satu detik, lalu melanjutkan.
 
 Ashvarok mengetuk meja pelan sekali — kode antarpenjaga: aku merasakan juga, lanjutkan.
 
@@ -91,7 +91,7 @@ Pertanyaan itu dijawab lebih cepat dari perkiraan semua orang — dan bukan oleh
 
 Malam berikutnya, saat Panggung Dapur versi balai kota baru saja selesai dan kerumunan mulai bubar, seorang perempuan tua dari keluarga korban utara — ibunda salah satu dari empat puluh tujuh nama — berjalan ke depan dengan langkah yang sudah diputuskan jauh sebelum ia sampai, dan berbicara kepada ruangan tanpa diminta:
 
-"Aku mau cerita satu hal yang tidak masuk daftar mana pun." Suaranya pelan tapi balai kota mendengar semuanya. "Anakku Sarneth, pembuat gerabah. Tadi malam setelah upacara, aku pulang dan tidur. Dan aku mimpi — pertama kali dalam delapan belas tahun aku mimpi tentang dia dengan WAJAH yang benar, bukan wajah yang kupaksakan." Tangannya meremas ujung kain. "Di mimpi itu dia tidak bicara. Dia hanya duduk di meja buatannya, membentuk tanah, dan sesekali dia melihat ke bawah — ke lantai — seperti orang yang mendengar tetangganya bergerak di lantai bawah. Terus dia senyum. Dan dia bilang satu kalimat, dan aku hafal karena tidak mungkin kulupa."
+"Aku mau cerita satu hal yang tidak masuk daftar mana pun." Suaranya pelan tetapi balai kota mendengar semuanya. "Anakku Sarneth, pembuat gerabah. Tadi malam setelah upacara, aku pulang dan tidur. Dan aku mimpi — pertama kali dalam delapan belas tahun aku mimpi tentang dia dengan WAJAH yang benar, bukan wajah yang kupaksakan." Tangannya meremas ujung kain. "Di mimpi itu dia tidak bicara. Dia hanya duduk di meja buatannya, membentuk tanah, dan sesekali dia melihat ke bawah — ke lantai — seperti orang yang mendengar tetangganya bergerak di lantai bawah. Terus dia senyum. Dan dia bilang satu kalimat, dan aku hafal karena tidak mungkin kulupa."
 
 Balai menahan napas.
 

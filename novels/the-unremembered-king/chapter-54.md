@@ -53,7 +53,7 @@ Dua belas fragmen tulang seam disusun di atas terpal. Lilin tin thread diletakka
 
 Maera Tull berjongkok di samping terpal, dan Ashvarok menontonnya bekerja seperti orang menonton jam besar dibongkar. Kotak timbung dibuka. Lensa kecil dinaikkan. Fragmen demi fragmen diangkat, dibalik, ditiup, ditimbang. Lilin itu dicek dengan jarum panas khusus. Dan wajah Assayer muda itu tetap netral sepanjang pekerjaan dengan disiplin yang, kali ini, adalah senjata.
 
-"Tiga hal, Tuan," katanya akhirnya, dengan suara yang keras secara sengaja. "Pertama: potongan-potongan ini segar. Hitungan hari, bukan bulan. Endapan garam dan mineral seam tidak ada sama sekali — fragmen yang tersimpan berbulan-bulan di gudang permukaan tetap membawa residu. Fragmen ini tidak membawa apa pun. Kedua: irama sayatnya lurus sempurna, pisau mesin, tekanan meja bekerja. Seam the Underfold dipotong di bawah tekanan batu dan gelap, dan sayatnya bergerigi. Saya sudah membaca cukup inti bor Caldrest untuk bersumpah soal ini di depan komisi mana pun. Ketiga: lilin ini baru. Tin threadnya asli Choir, tetapi lilinnya belum pernah meleleh di dekat seam mana pun. Tidak ada residu. Tidak ada umur."
+"Tiga hal, Tuan," katanya akhirnya, dengan suara yang keras secara sengaja. "Pertama: potongan-potongan ini segar. Hitungan hari, bukan bulan. Endapan garam dan mineral seam tidak ada sama sekali — fragmen yang tersimpan berbulan-bulan di gudang permukaan tetap membawa residu. Fragmen ini tidak membawa apa pun. Kedua: irama sayatnya lurus sempurna, pisau mesin, tekanan meja kerja. Seam the Underfold dipotong di bawah tekanan batu dan gelap, dan sayatnya bergerigi. Saya sudah membaca cukup inti bor Caldrest untuk bersumpah soal ini di depan komisi mana pun. Ketiga: lilin ini baru. Tin threadnya asli Choir, tetapi lilinnya belum pernah meleleh di dekat seam mana pun. Tidak ada residu. Tidak ada umur."
 
 Ia berdiri, membersihkan tangannya di lap kain, dan mengucapkan kalimat yang akan masuk ke laporan resmi dengan huruf-huruf yang tidak bisa diedit:
 
@@ -83,6 +83,6 @@ Malamnya barang-barang Brannoc naik kembali dari lorong aman, dan Foreman itu me
 
 "Jangan. Legenda itu salah alamat."
 
-"Iya, iya." Mandor itu menyusun pahat-pahatnya ke kotak. "Tapi dia yang terkena malam ini. Dan orang yang terkena seperti itu biasanya tidak—tidak berhenti di satu kali."
+"Iya, iya." Mandor itu menyusun pahat-pahatnya ke kotak. "Namun dia yang terkena malam ini. Dan orang yang terkena seperti itu biasanya tidak—tidak berhenti di satu kali."
 
 Ashvarok pulang ke barak melewati garis karantina yang lampunya menyala lebih awal, dan di tikungan terakhir ia mengizinkan dirinya satu penilaian singkat, seperti menutup buku besar. Jerat itu memantul utuh kepada pengirimnya, mata Ossian kini menyimpan wajah pegawainya sendiri di berkas yang paling mahal, dan musuh yang putus asa — menurut semua buku era yang pernah ia membaca dan beberapa yang pernah ia bakar — adalah musuh yang berikutnya tidak akan memakai jerat.

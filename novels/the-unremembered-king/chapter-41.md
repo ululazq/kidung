@@ -81,7 +81,7 @@ Ashvarok duduk di bangku panjang sambil memakan dua porsi bubur jagung yang tida
 
 Sela membuka papan tulisnya di bawah lampu kecil dan menyalakan kapur ke kolom Hourglass.
 
-"Garis kanan," kata anak itu. "Kemarin: dua jari di bawah siku. Malam ini..." Ia memiringkan kepala, membandingkan dengan tanda lama. "Masih di bawah siku. Tapi naik. Hampir nyentuh."
+"Garis kanan," kata anak itu. "Kemarin: dua jari di bawah siku. Malam ini..." Ia memiringkan kepala, membandingkan dengan tanda lama. "Masih di bawah siku. Namun naik. Hampir nyentuh."
 
 "Hampir," ulang Ashvarok. "Bukan menyentuh."
 

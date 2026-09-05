@@ -13,11 +13,11 @@ Ashvarok-Renn mengetuk ubin tiga kali, diam sehentakan — tanda laporan selesai
 
 "Pengrajin lonceng," kata Ashvarok-Renn. "Berapa napasmu subuh ini?"
 
-Lelaki tua itu tidak menjawab dengan angka. Ia menarik napas panjang pelan, lalu membiarkannya keluar setengah hitungan lebih cepat dari orang biasa. Ashvarok-Renn menghitung di jarinya: satu, dua, tiga, empat, lima — dan napas itu berhenti di hitungan kelima, setengah lebih pendek dari napas perawat tua di sebelahnya. Sela, yang berdiri di serambi membawa papan napas, mencatat dengan suara pelan. "Napas subuh: lima hitungan setengah. Sama polanya dengan perawat tua, tapi setengah hitungan lebih pendek. Ini the Silence Survivor."
+Lelaki tua itu tidak menjawab dengan angka. Ia menarik napas panjang pelan, lalu membiarkannya keluar setengah hitungan lebih cepat dari orang biasa. Ashvarok-Renn menghitung di jarinya: satu, dua, tiga, empat, lima — dan napas itu berhenti di hitungan kelima, setengah lebih pendek dari napas perawat tua di sebelahnya. Sela, yang berdiri di serambi membawa papan napas, mencatat dengan suara pelan. "Napas subuh: lima hitungan setengah. Sama polanya dengan perawat tua, tetapi setengah hitungan lebih pendek. Ini the Silence Survivor."
 
 Ashvarok-Renn menatap lelaki tua itu lama, memperhatikan tangan kasar yang delapan belas tahun memilin tali lonceng tanpa pernah membunyikannya. "Delapan belas tahun kau di sini, membuat lonceng yang tak pernah dibunyikan."
 
-"Lonceng untuk memanggil yang hilang," kata pengrajin lonceng akhirnya. "Tapi yang hilang sudah jadi kunci. Aku hanya jaga agar benangnya tak putus saat kunci tidur. Ibu Tamma bilang suatu hari lonceng itu akan dibutuhkan, tapi ia tidak bilang untuk apa."
+"Lonceng untuk memanggil yang hilang," kata pengrajin lonceng akhirnya. "Namun yang hilang sudah jadi kunci. Aku hanya jaga agar benangnya tak putus saat kunci tidur. Ibu Tamma bilang suatu hari lonceng itu akan dibutuhkan, tetapi ia tidak bilang untuk apa."
 
 Di menara, Mira membuka buku catatan dan menulis: *Celah menara menyimpan dua kunci: the Gate (perawat tua) dan the Silence (pengrajin lonceng). Keduanya napas pendek pola the Remainder. Barak kini pegang five of the Seven napas.*
 
@@ -31,7 +31,7 @@ Gella mendekat membawa buku pemulihan dan meletakkannya di pangkuan Ashvarok-Ren
 
 "Tidak ke utara," kata Ashvarok-Renn. "Kita kerjakan dari sini. the Silence sudah di tangan. Tinggal the Ground."
 
-Ossian, yang baru tiba dari utara, menyerahkan kain tenun pendek. *Cap tujuh garis the Wanes kini di enam desa utara. Mereka ukur napas dua orang tiap fajar. Masih kasar, tapi pola napas pendek mulai mereka catat dalam buku kasar. Jendela kita mengecil hari demi hari.*
+Ossian, yang baru tiba dari utara, menyerahkan kain tenun pendek. *Cap tujuh garis the Wanes kini di enam desa utara. Mereka ukur napas dua orang tiap fajar. Masih kasar, tetapi pola napas pendek mulai mereka catat dalam buku kasar. Jendela kita mengecil hari demi hari.*
 
 Ashvarok-Renn menatap ke utara di mana rawa menyembunyikan napas keempat, lalu ke selatan di mana the Hollow menunggu. "Maka kita ke the Ground sebelum mereka paham bedanya," katanya pada Kovan. "Lima sudah di ambang. Sisa satu. Kita lebih dulu dari mereka yang buta mencari darah."
 
@@ -39,7 +39,7 @@ Perawat tua menyanyikan satu baris irama lama, pelan, seolah menutup hari. Pengr
 
 Di barak, Brannoc melatih tiga anak angkatan keempat cara memukul papan dengan ketukan darurat: dua pendek satu panjang berarti lari ke benang. "Kalian bukan prajurit," katanya. "Kalian mata. Dan mata yang diajarkan ketukan tidak akan panik saat dibutuhkan. Kalian kabari barak, bukan hadapi musuh."
 
-Kovan mencatat di peta: benang abu-abu ke utara kini dikelilingi enam cap tujuh garis, tapi di celah menara, dua benang emas menyala pelan — the Gate dan the Silence, berdampingan, menjaga ambang yang sama. "Dua kunci dalam satu menara," katanya pelan. "Mungkin itulah alasan celah ini tak pernah jatuh — ia dijaga dari dalam, oleh mereka yang tak tahu mereka adalah kunci."
+Kovan mencatat di peta: benang abu-abu ke utara kini dikelilingi enam cap tujuh garis, tetapi di celah menara, dua benang emas menyala pelan — the Gate dan the Silence, berdampingan, menjaga ambang yang sama. "Dua kunci dalam satu menara," katanya pelan. "Mungkin itulah alasan celah ini tak pernah jatuh — ia dijaga dari dalam, oleh mereka yang tak tahu mereka adalah kunci."
 
 Ashvarok-Renn naik ke menara dan berdiri di ambangnya menatap ke utara lalu selatan. "Lima dari tujuh," bisiknya pada malam. "Satu di sini bersama kuncinya yang kedua, satu di barat daya yang lolos, satu di timur, satu di rawa, satu di celah. The Wanes pegang batu tanpa kunci. Selama napas menyimpan dunia, pintu takkan pernah terbuka."
 
@@ -51,7 +51,7 @@ Dan di celah bawah, pengrajin lonceng duduk memilin benang terakhir di jarinya, 
 
 Sela menghampiri pengrajin lonceng untuk kedua kalinya, memegang pergelangannya, menghitung napas di jari. "Lima hitungan setengah," katanya. "Sama polanya dengan perawat tua." Ia mencatat di papan: *the Silence = pengrajin lonceng, napas 5.5. Kunci kelima di celah.*
 
-Di kaki menara, cap tujuh garis the Wanes terpasang di tiang pertama. Mereka menghitung napas tetangga, kasar, tapi arah mulai benar. Pengrajin lonceng menggeleng pelan dari celah. "Mereka belajar," bisiknya. "Tapi kita delapan belas tahun lebih dulu."
+Di kaki menara, cap tujuh garis the Wanes terpasang di tiang pertama. Mereka menghitung napas tetangga, kasar, tetapi arah mulai benar. Pengrajin lonceng menggeleng pelan dari celah. "Mereka belajar," bisiknya. "Namun kita delapan belas tahun lebih dulu."
 
 Brannoc melatih tiga anak di halaman: ketukan darurat dua pendek satu panjang. "Kalian mata, bukan prajurit," katanya. "Bila the Silence butuh lari, kabari via ketukan."
 

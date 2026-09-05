@@ -11,7 +11,7 @@ Daven, yang lewat membawa catatan kurikulum, berhenti di ambang. "Kau ingat tahu
 
 "Tahun itu kau yang pegang daftar. Sekarang aku."
 
-"Waktu itu kau bilang nat diam yang kau gendong bukan soal bicara, tapi soal didatangi." Daven menatap baris kursi kosong. "Sekarang kau yang mengajarkan hal yang sama ke angkatan di bawahmu. Lingkaran itu tertutup, Nak."
+"Waktu itu kau bilang nat diam yang kau gendong bukan soal bicara, tetapi soal didatangi." Daven menatap baris kursi kosong. "Sekarang kau yang mengajarkan hal yang sama ke angkatan di bawahmu. Lingkaran itu tertutup, Nak."
 
 Pellia Muda tersenyum. "Bukan tertutup. Diperluas. Dulu lingkaran itu hanya barak ini. Sekarang seluruh dunia yang punya kursi kosong."
 
@@ -21,15 +21,15 @@ Hari Utara kelima tidak dipimpin oleh tokoh-tokoh lama.
 
 Untuk pertama kalinya sejak delapan belas tahun perayaan itu lahir, yang berdiri di atas panggung aula bukan Ashvarok-Renn, bukan ibu Tamma, bukan Brannoc. Yang berdiri adalah murid-murid Sekolah Mendengar angkatan keempat — mereka yang delapan belas tahun silam masih anak-anak di barak, kini dewasa, memegang daftar nama di tangan.
 
-"Kami yang baca tahun ini," kata Pellia Muda ke aula penuh. "Bukan karena yang tua tidak bisa. Tapi karena delapan belas tahun lalu mereka yang mulai. Sekarang giliran kami meneruskan napas mereka."
+"Kami yang baca tahun ini," kata Pellia Muda ke aula penuh. "Bukan karena yang tua tidak bisa. Namun karena delapan belas tahun lalu mereka yang mulai. Sekarang giliran kami meneruskan napas mereka."
 
 Daven, yang duduk di baris pertama sebagai tamu, mengangguk pelan. Di sebelahnya, Sela mencatat di papan kecilnya: *Hari Utara ke-5 dipimpin murid. Generasi bergeser, nama tetap dinyanyikan.*
 
 ---
 
-Pembacaan nama berlangsung dalam tiga gelombang, seperti delapan belas tahun silam: empat ratus nama utara, dua ratus empat belas nama pesisir, dan lima panglima dari Vhal-Duren. Tapi kali ini, di antara nama-nama itu, murid-murid menyisipkan nama-nama baru — anak-anak yang lahir di era menyapa, yang tidak pernah kenal masa sunyi.
+Pembacaan nama berlangsung dalam tiga gelombang, seperti delapan belas tahun silam: empat ratus nama utara, dua ratus empat belas nama pesisir, dan lima panglima dari Vhal-Duren. Namun kali ini, di antara nama-nama itu, murid-murid menyisipkan nama-nama baru — anak-anak yang lahir di era menyapa, yang tidak pernah kenal masa sunyi.
 
-"Mereka belum pergi," kata Pellia Muda. "Tapi nama mereka sudah kami catat, supaya kelak kalau mereka pergi, tidak ada yang perlu mencari dari nol."
+"Mereka belum pergi," kata Pellia Muda. "Namun nama mereka sudah kami catat, supaya kelak kalau mereka pergi, tidak ada yang perlu mencari dari nol."
 
 Yang Dulu Sunyi, di barak utara, menyala terang mendengar nama-nama itu. Getarnya berirama pelan, lalu perlahan berubah menjadi lagu yang belum pernah dinyanyikan siapa pun.
 
@@ -49,7 +49,7 @@ Ibu Tamma hadir di kursi sudut yang dibawa khusus ke aula. Tami-Tomi berdiri di 
 
 "Kau lihat?" bisik ibu Tamma. "Mereka yang baca bukan kita."
 
-"Aku lihat," jawab Tami-Tomi. "Dan aku bangga bukan karena rasa supku sama. Tapi karena dapur punya tangan cadangan."
+"Aku lihat," jawab Tami-Tomi. "Dan aku bangga bukan karena rasa supku sama. Namun karena dapur punya tangan cadangan."
 
 Di baris lain, Brannoc duduk di antara mantan regu tambang, bahu kanannya sudah tidak lagi ia pakai untuk mengangkat palu. Harn berdiri di belakangnya, tangan di pundak ayahnya, pelan — seolah menjaga agar penjaga lama itu tahu ia masih dipegang.
 
@@ -79,7 +79,7 @@ Sebelum pembacaan ditutup, seorang murid angkatan kelima — anak sembilan tahun
 
 Pellia Muda berhenti. Ia turun dari panggung, berjongkok sejajar dengan anak itu.
 
-"Kau tidak akan hafal semua. Tidak ada yang hafal." Ia menunjuk buku di tangannya. "Tapi buku ini ada. Dan nat utara ada. Dan kursi kosong di aula ini ada untuk siapa pun yang datang mengingatkan. Lupa bukan gagal. Lupa hanya berarti kau butuh orang lain, seperti kami butuh kalian sekarang."
+"Kau tidak akan hafal semua. Tidak ada yang hafal." Ia menunjuk buku di tangannya. "Namun buku ini ada. Dan nat utara ada. Dan kursi kosong di aula ini ada untuk siapa pun yang datang mengingatkan. Lupa bukan gagal. Lupa hanya berarti kau butuh orang lain, seperti kami butuh kalian sekarang."
 
 Anak itu mengangguk pelan, lalu mencatat sesuatu di buku kecilnya yang masih kosong. "Aku tulis nama kakak dulu. Satu-satu."
 
@@ -135,7 +135,7 @@ Keesokan paginya, Sela duduk di bangku sekolah menyusun semua papan tulis keciln
 
 Ashvarok-Renn lewat, berhenti sejenak. "Kau simpan semua itu?"
 
-"Semua." Sela menatap tumpukan itu. "Supaya delapan belas tahun lagi ada yang tahu hari pertama kita hanya punya satu kursi dan satu nama. Sekarang kita punya ribuan kursi dan ribuan nama, tapi pelajarannya sama: dengar dulu, baru bicara."
+"Semua." Sela menatap tumpukan itu. "Supaya delapan belas tahun lagi ada yang tahu hari pertama kita hanya punya satu kursi dan satu nama. Sekarang kita punya ribuan kursi dan ribuan nama, tetapi pelajarannya sama: dengar dulu, baru bicara."
 
 Ashvarok-Renn mengangguk. "Itu satu-satunya pelajaran yang tidak pernah usang."
 

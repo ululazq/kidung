@@ -21,7 +21,7 @@ Satu. Pada uji kesesuaian vein di persimpangan utama, lempeng pengukur menerima 
 
 Dua. Abu aneh di permukaan lempeng itu — debu kelabu yang terbaca oleh Assayer Tull sebagai jejak pemadaman gema tanpa tanda tangan seni mana pun, kemudian disapukan dan disegel sebelum ia sendiri sempat membacanya dua kali. Ia pernah melihat Assayer Tull menyegelnya. Orang Guild tidak menyegel bukti dengan lilin polos kecuali bukti itu berbahaya bagi seseorang.
 
-Tiga. Dinding lorong B, kemarin. Ia bukan pembaca gema tingkat tinggi, tetapi ia penjaga shift. Ia sudah ribuan kali mendengar batu berbicara pada alat. Dinding itu terbaca terlalu bersih. Batuan sungguhan punya cacat, punya celah, punya cerita. Dinding itu punya kesaksian yang sudah direhestrasi.
+Tiga. Dinding lorong B, kemarin. Ia bukan pembaca gema tingkat tinggi, tetapi ia penjaga shift. Ia sudah ribuan kali mendengar batu berbicara pada alat. Dinding itu terbaca terlalu bersih. Batuan sungguhan punya cacat, punya celah, punya cerita. Dinding itu punya kesaksian yang sudah direkayasa.
 
 Empat. Hari ini, di tingkat troli. Sunyi tujuh detik yang tidak dicatat oleh siapa pun — ia menghitungnya sendiri, karena menghitung adalah satu-satunya hal yang masih bisa ia lakukan dengan izin — dan penilai muda Spire yang berhenti tahu namanya selama sembilan detik, lalu troli penambang yang jatuh pada detik kesepuluh, tepat, rapi, seakan seseorang menjatuhkannya untuk menyelamatkan lembar verifikasi.
 
@@ -57,7 +57,7 @@ Keesokan paginya ia menyerahkan laporan resmi di loket Quota Office, kepada pega
 
 "Tidak ada lampiran."
 
-"Shift Guard Kovan." Pegawai itu mengangkat muka sebentar. "Orang-orang bilang alatmu diganti dua kali bulan ini tapi hasilnya tetap sama. Aneh. Alat baru biasanya lebih cerewet."
+"Shift Guard Kovan." Pegawai itu mengangkat muka sebentar. "Orang-orang bilang alatmu diganti dua kali bulan ini tetapi hasilnya tetap sama. Aneh. Alat baru biasanya lebih cerewet."
 
 "Alat tidak aneh," kata Kovan. "Alat hanya jujur pada yang menanyakan dengan benar." Ia mengambil salinan tanda terimanya, dan sadar belakangan bahwa kalimat itu adalah kalimat pertama yang ia ucapkan tentang dirinya sendiri dalam tiga pekan, dan bahwa kalimat itu adalah pengakuan.
 
@@ -71,7 +71,7 @@ Di pasar cinder-glass, sesuai rotasi tugasnya yang tidak tertulis di mana pun, i
 
 "Pembeli yang sama tiap pekan bertanya hal yang sama," kata Vosk tanpa senyum, "itu fakta yang lebih menarik bagi saya."
 
-Ia pamit dengan sopan. Di tikungan pertama ia berhenti, dan membiarkan dirinya merasakan hal yang tidak layak dirasakan seorang petugas: malu. Malu karena sedang menyelidiki bocah tungku lima belas tahun dengan jaring yang dibuat dari mata pisau dua shardmark. Malu karena seluruh mesin survei Spire, seluruh kuota, seluruh komisi ribuan shardmark turun ke kedalaman dan pulang dengan angka yang direhestrasi — dan satu-satunya yang menyadarinya adalah penjaga shift yang alatnya dua kali dikalahkan oleh bocah yang tidak punya sertifikat apa pun.
+Ia pamit dengan sopan. Di tikungan pertama ia berhenti, dan membiarkan dirinya merasakan hal yang tidak layak dirasakan seorang petugas: malu. Malu karena sedang menyelidiki bocah tungku lima belas tahun dengan jaring yang dibuat dari mata pisau dua shardmark. Malu karena seluruh mesin survei Spire, seluruh kuota, seluruh komisi ribuan shardmark turun ke kedalaman dan pulang dengan angka yang direkayasa — dan satu-satunya yang menyadarinya adalah penjaga shift yang alatnya dua kali dikalahkan oleh bocah yang tidak punya sertifikat apa pun.
 
 Ossian Vael pernah berkata, lewat Tharrow, kalimat yang tidur di kepalanya setiap malam: kalau dia penting, saya yang temukan.
 
@@ -99,6 +99,6 @@ Pergantian shift malam Rabat, pikirnya. Lorong sembilan regu Brannoc naik pada l
 
 Ia akan memanggil furnace boy itu untuk pemeriksaan rutin, satu lawan satu, dan untuk pertama kalinya sejak datang ke Caldrest, Kovan tidak akan menulis apa pun tentang hasilnya — bukan karena malas mencatat, tetapi karena untuk sesaat yang membuatnya ingin tertawa pahit, ia sudah mengerti kenapa Assayer Tull menyegel abu itu dengan lilin polos.
 
-Ada temuan yang membuat penulannya sendiri menjadi bahaya.
+Ada temuan yang membuat penulisannya sendiri menjadi bahaya.
 
 Ia memadamkan lampunya, dan di kegelapan kamar sewaan itu, satu-satunya bunyi adalah napas seorang petugas yang mulai menghitung hari sampai hari Rabat.

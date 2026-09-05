@@ -13,7 +13,7 @@ Izinnya disetujui balai kota dalam rapat kilat — dan untuk pertama kalinya ang
 
 ---
 
-Bangunannya sederhana — ruangan tambahan di tepi aula, dinding batu galeri tua, atap dari kayu menara utara yang dibawa kafilah terakhir. Tapi jantungnya unik di dunia: saluran panas dari nat Karveth-Ulm yang dialirkan lewat lantai batu ke dua tungku dan satu penghangat lembab.
+Bangunannya sederhana — ruangan tambahan di tepi aula, dinding batu galeri tua, atap dari kayu menara utara yang dibawa kafilah terakhir. Namun jantungnya unik di dunia: saluran panas dari nat Karveth-Ulm yang dialirkan lewat lantai batu ke dua tungku dan satu penghangat lembab.
 
 Sebelum pekerjaan dimulai, ada satu negosiasi kecil yang menjadi bahan cerita kota berminggu-minggu: negosiasi antara ibu Tamma dan api purba itu sendiri, dilakukan lewat penerjemah resmi (pasangan hitung) dan berlangsung seperti dua kepala keluarga berunding soal dapur bersama:
 
@@ -21,7 +21,7 @@ Sebelum pekerjaan dimulai, ada satu negosiasi kecil yang menjadi bahan cerita ko
 
 Panas naik sekali — setuju.
 
-"Kedua. Kalau ada yang memasak dengan asal-asalan, kamu boleh protes. Tapi jangan membuat heboh. Protes yang sopan."
+"Kedua. Kalau ada yang memasak dengan asal-asalan, kamu boleh protes. Namun jangan membuat heboh. Protes yang sopan."
 
 Dua denyut panjang — dan Kovan mencatat di kamus iramanya entri baru: "dua denyut = disetujui dengan senyum".
 
@@ -63,7 +63,7 @@ Temannya menjawab sambil menerima mangkuk: "Terus?"
 
 "Ya... begitu saja. Hanya rasanya aneh sekali enaknya. Makan memakai hasil kerja nenek moyang."
 
-"Itu namanya warisan," kata perempuan tua di belakang mereka, yang tidak dikenal siapa pun tapi kalimatnya langsung dikutip Sela. "Warisan itu memang harus dipakai. Yang disimpan di lemari itu namanya barang mati."
+"Itu namanya warisan," kata perempuan tua di belakang mereka, yang tidak dikenal siapa pun tetapi kalimatnya langsung dikutip Sela. "Warisan itu memang harus dipakai. Yang disimpan di lemari itu namanya barang mati."
 
 Percakapan lain terjadi di meja murid, antara Harn dan dua calon pendengar dari Karven yang baru tiba — dan menunjukkan betapa cepat dunia berubah:
 
@@ -91,13 +91,13 @@ Ibu Tamma membaca plakat itu keesokan paginya, diam sebentar, lalu berkata kepad
 
 ---
 
-Kabar pembukaan dapur menyebar sampai ke utara lewat registri, dan balasannya datang dalam bentuk yang membuat Sela harus duduk: Vessia Vael — dari batu asalnya di menara utara — meminta resep sup ayamnya dicatat ke arsip dapur aula. Resep itu sudah lama ditemukan di rekaman dapur rumahnya, tapi belum pernah dimasak siapa pun karena ragu.
+Kabar pembukaan dapur menyebar sampai ke utara lewat registri, dan balasannya datang dalam bentuk yang membuat Sela harus duduk: Vessia Vael — dari batu asalnya di menara utara — meminta resep sup ayamnya dicatat ke arsip dapur aula. Resep itu sudah lama ditemukan di rekaman dapur rumahnya, tetapi belum pernah dimasak siapa pun karena ragu.
 
 Ibu Tamma memasaknya malam berikutnya, mengikuti catatan tangan Vessia baris demi baris, dan menilainya dengan standarnya sendiri: "Perempuan ini tahu apa yang ia tulis." Sup ayam Vessia masuk menu tetap dapur aula hari itu — satu-satunya menu dalam sejarah dapur mana pun yang penciptanya hadir sebagai gema batu dari jarak dua hari perjalanan.
 
 Ossian, yang diceritakan hal itu oleh Maera, tidak berkata apa-apa sepanjang malam. Keesokan paginya ia datang ke dapur aula sendirian, memesan satu mangkuk sup ayam ibunya, makan habis tanpa tersisa, dan meninggalkan bayaran berlipat dengan catatan untuk ibu Tamma: "Lanjutkan. Anaknya sudah lama tidak makan masakan ibunya."
 
-Ibu Tamma menyimpan catatan itu di saku celemeknya — tempat menyimpan hal-hal yang terlalu pribadi untuk papan arsip, tapi terlalu penting untuk dibuang.
+Ibu Tamma menyimpan catatan itu di saku celemeknya — tempat menyimpan hal-hal yang terlalu pribadi untuk papan arsip, tetapi terlalu penting untuk dibuang.
 
 Ashvarok menutup pekan itu dengan entri Hourglass yang pendek — entri pendek selalu artinya kalimatnya sudah matang lama di kepalanya:
 

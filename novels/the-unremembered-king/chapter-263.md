@@ -5,7 +5,7 @@ chapter: 263
 
 Pembacaan pertama berlangsung sesuai urutan Sela, dan urutan itu ternyata benar.
 
-Ia mulai bukan dari Hegemony, tapi dari Caldrest. Dari hari 731 — halaman terpotong, nat tua, irama jantung yang merambat lewat tanah. Lalu dari 400 nama utara yang dibacakan keluarga masing-masing di Hari Utara. Lalu pemulangan Vess-Morath, protokol musim, Sekolah Mendengar, angkatan demi angkatan, sampai malam perayaan bab 260 dan kalimat ibu Tamma tentang sup.
+Ia mulai bukan dari Hegemony, tetapi dari Caldrest. Dari hari 731 — halaman terpotong, nat tua, irama jantung yang merambat lewat tanah. Lalu dari 400 nama utara yang dibacakan keluarga masing-masing di Hari Utara. Lalu pemulangan Vess-Morath, protokol musim, Sekolah Mendengar, angkatan demi angkatan, sampai malam perayaan bab 260 dan kalimat ibu Tamma tentang sup.
 
 Sela membaca berdiri, dengan suara arsiparis yang tenang dan tidak mendramatisir apa pun, karena kebenaran yang cukup besar tidak butuh bantuan suara.
 
@@ -21,7 +21,7 @@ Iramanya panjang, bertingkat, dan Barim menerjemahkannya sambil perlahan berdiri
 
 "'Nama-nama itu. Empat ratus. Mereka masuk ke tempatku seribu tahun silam sebagai suara yang mengetuk dari dalam. Aku menampung. Aku tidak bisa membuka pintu untuk mereka dan itu membuatku sakit selama sepuluh abad. Katakan padaku — pintu kalian bagaimana membuka pintu yang tidak boleh dibuka?'"
 
-Dan itulah saatnya Ashvarok-Renn bicara langsung — bukan lewat Sela atau Barim, tapi lewat Listen, telapak ke permukaan:
+Dan itulah saatnya Ashvarok-Renn bicara langsung — bukan lewat Sela atau Barim, tetapi lewat Listen, telapak ke permukaan:
 
 "Kami tidak membuka pintu. Kami belajar bahwa pintu itu salah dipahami sejak awal. Kalian bukan penjara, saudaraku. Kalian adalah rumah yang menunggu penghuninya diantar pulang oleh orang yang tepat. Rumah tidak gagal ketika penghuninya belum pulang."
 
@@ -39,7 +39,7 @@ Siang itu mereka bekerja.
 
 Karena seam saksi punya luka, dan luka itu ternyata alasan koordinatnya disembunyikan istana.
 
-Di sisi utara batu bundar ada retakan — bukan retakan usia, tapi retakan pukulan. Era pasca-Pembakaran, pasukan pemenang Hegemony menemukan menara ini dan mencoba menghancurkan saksinya. Mereka gagal — batu pengikat tingkat itu tidak bisa dipecahkan paksa — tapi pukulan itu meninggalkan luka dalam bentuk sunyi: satu irisan selebar dua jari di mana batu tidak bisa berdetak.
+Di sisi utara batu bundar ada retakan — bukan retakan usia, tetapi retakan pukulan. Era pasca-Pembakaran, pasukan pemenang Hegemony menemukan menara ini dan mencoba menghancurkan saksinya. Mereka gagal — batu pengikat tingkat itu tidak bisa dipecahkan paksa — tetapi pukulan itu meninggalkan luka dalam bentuk sunyi: satu irisan selebar dua jari di mana batu tidak bisa berdetak.
 
 "Sunyi presisi," kata Barim, dan wajahnya pucat mengenali pola itu. "Seperti Hollowing. Di dalam batu."
 
@@ -65,7 +65,7 @@ Arsip Hegemony. Kotak-kotak timah yang delapan bulan silam dibawa Sela pulang da
 
 Malam itu, api kecil menyala lagi di sudut reruntuhan, dan diskusi berlangsung sampai jauh malam: apakah melanjutkan perjalanan pulang lebih dulu untuk mencari nada itu, atau tinggal lebih lama bersama seam yang baru sepuluh abad pertama kalinya punya tamu.
 
-Ashvarok-Renn mendengarkan semua argumen. Kovan: logistik, cuaca, musim hujan abu yang akan turun dalam enam pekan. Barim: luka batu butuh pendengar rutin, bukan kunjungan sekali. Sela: nada lima panglima sudah menunggu seribu tahun, enam pekan lagi tidak akan mengubah apa pun — tapi kesabaran tamu baru perlu dijaga.
+Ashvarok-Renn mendengarkan semua argumen. Kovan: logistik, cuaca, musim hujan abu yang akan turun dalam enam pekan. Barim: luka batu butuh pendengar rutin, bukan kunjungan sekali. Sela: nada lima panglima sudah menunggu seribu tahun, enam pekan lagi tidak akan mengubah apa pun — tetapi kesabaran tamu baru perlu dijaga.
 
 Lalu Ashvarok-Renn berkata kalimat yang menutup debat:
 
@@ -102,7 +102,7 @@ Ashvarok-Renn sudah bangkit dan mengeluarkan panci kecil dari bekal. "Delapan ra
 
 Maka pada pagi ketiga di reruntuhan Vhal-Duren, terjadi hal yang tidak tercatat oleh sejarah mana pun sebelumnya: seorang raja yang dibakar namanya sedang mendemonstrasikan teknik mendesis sup kepada seam saksi tertua dunia, dengan bumbu kering buatan ibu Tamma dan air dari mataair pegunungan yang oleh Kovan dihitung suhunya dua kali.
 
-Desis pertama keluar dari panci, dan seluruh dataran tinggi diam — bukan sunyi, tapi diam yang sama seperti diam aula penuh orang ketika ada bayi baru lahir disayungkan.
+Desis pertama keluar dari panci, dan seluruh dataran tinggi diam — bukan sunyi, tetapi diam yang sama seperti diam aula penuh orang ketika ada bayi baru lahir disayungkan.
 
 Batu bundar itu merekam desis sup dengan kesungguhan yang biasanya hanya diberikan pada sumpah raja.
 

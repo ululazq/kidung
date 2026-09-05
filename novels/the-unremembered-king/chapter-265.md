@@ -33,9 +33,9 @@ Ini cara makhluk penyimpan mengatakan *inilah keluargaku* — dan malam Pembakar
 
 ---
 
-Bagian akhir pembukaan laporan tiba seperti yang semua orang duga, tapi tetap tidak membuat siapa pun siap.
+Bagian akhir pembukaan laporan tiba seperti yang semua orang duga, tetapi tetap tidak membuat siapa pun siap.
 
-Suara-suara lima panglima, versi hidup: bukan nama-nama di monumen, tapi lima orang yang lelah setelah perjalanan panjang, bercanda soal makanan campuran wilayah asal masing-masing, bernegosiasi soal siapa jaga jam tengah malam. Salah satunya bersiul lagu yang salah dan dua lainnya protes setiap malam selama sepekan penuh sampai akhirnya ikut menyanyikan lagu yang salah itu juga.
+Suara-suara lima panglima, versi hidup: bukan nama-nama di monumen, tetapi lima orang yang lelah setelah perjalanan panjang, bercanda soal makanan campuran wilayah asal masing-masing, bernegosiasi soal siapa jaga jam tengah malam. Salah satunya bersiul lagu yang salah dan dua lainnya protes setiap malam selama sepekan penuh sampai akhirnya ikut menyanyikan lagu yang salah itu juga.
 
 Lalu irama laporan berubah. Pelan. Hati-hati.
 
@@ -45,11 +45,11 @@ Jeda.
 
 "'Mereka memasak. Mereka makan bersama. Dan mereka memaksa rajanya makan habis.'"
 
-Di tepi api kecil, Ashvarok-Renn memandang nyala itu tanpa kedip. Renn bangun di dalam, dan kali ini bukan Renn yang menggandeng Ashvarok, tapi Ashvarok yang menggandeng Renn — karena ada ingatan yang hanya bisa diderita berdua.
+Di tepi api kecil, Ashvarok-Renn memandang nyala itu tanpa kedip. Renn bangun di dalam, dan kali ini bukan Renn yang menggandeng Ashvarok, tetapi Ashvarok yang menggandeng Renn — karena ada ingatan yang hanya bisa diderita berdua.
 
 "'Kalimat terakhir mereka sebelum turun ke medan, oleh yang termuda dari lima panglima, tertuju kepada sahabat mereka sendiri — raja mereka — dan bunyinya:'"
 
-Irama yang keluar berikutnya bukan terjemahan Barim. Batu bundar itu memutarkan suaranya sendiri — asli, tersimpan sempurna selama sepuluh abad, suara perempuan muda yang lelah tapi masih bisa bercanda:
+Irama yang keluar berikutnya bukan terjemahan Barim. Batu bundar itu memutarkan suaranya sendiri — asli, tersimpan sempurna selama sepuluh abad, suara perempuan muda yang lelah tetapi masih bisa bercanda:
 
 *"Makan yang banyak, Raja. Kalau kita harus dikuburkan duluan daripada kamu... minimal kamu tidak lapar waktu menguburkan kami."*
 
@@ -67,7 +67,7 @@ Barim yang pertama bicara, suaranya serak: "Itu... itu bukan versi mana pun yang
 
 Setelah api kecil diredahkan dan tenda-tenda gelap, Ashvarok-Renn tinggal di sisi batu bundar sendirian, seperti yang sudah menjadi kebiasaan tiap malam: laporan lanjutan, bagian yang tidak untuk diceritakan ulang.
 
-Tapi malam ini ia tidak langsung mendengarkan. Ia duduk dengan telapak di permukaan hangat dan berkata:
+Namun malam ini ia tidak langsung mendengarkan. Ia duduk dengan telapak di permukaan hangat dan berkata:
 
 "Aku punya kabar untukmu. Dari rumah."
 
@@ -90,7 +90,7 @@ Di atas mereka, bintang-bintang dataran tinggi berputar pelan seperti ribuan mal
 Bedanya, malam ini, ada empat orang dan satu batu yang tidur dengan tenang di bawahnya — dan jauh di selatan, di sudut kamar barak utara, sebuah kotak timah berisi nada lima panglima menunggu gilirannya dibaca, tidak sadar sedikit pun bahwa enam pekan lagi ia akan pulang ke lagunya.
 ---
 
-Pagi harinya, sebelum berangkat, empat orang menyelesaikan hal yang oleh protokol musim disebut penutup batch, dan oleh ibu Tamma disebung "beres-beres dapur".
+Pagi harinya, sebelum berangkat, empat orang menyelesaikan hal yang oleh protokol musim disebut penutup batch, dan oleh ibu Tamma disebut "beres-beres dapur".
 
 Kovan menyusun ulang hitungan bekal dengan temuan baru: sisa sup kering cukup untuk dua pekan, jalur pulang lewat pos jemput utara bisa memangkas dua hari, dan musim hujan abu diperkirakan turun tepat setelah mereka tiba di Caldrest — angka yang olehnya dicatat dengan garis bawah ganda, karena hujan abu di atas kota yang punya jaringan nat tiga generasi bukan lagi bencana kecil.
 

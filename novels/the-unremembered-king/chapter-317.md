@@ -3,7 +3,7 @@ title: "Bab 317: Panggilan Kedua"
 chapter: 317
 ---
 
-Dua bulan setelah pengukur datang, pos Guild membawa amplop bersegel lilin ungu ke menara utara. Cap di sudutnya bukan panitia verifikasi, melainkan ruang arsip langsung. Mira membuka surat itu di hadapan perawat tua.
+Dua bulan setelah pengukur datang, pos Guild membawa amplop bersegel lilin ungu ke menara utara. Cap di sudutnya bukan panitia verifikasi — melainkan ruang arsip langsung. Mira membuka surat itu di hadapan perawat tua.
 
 *Saksi Mira — arsip meminta keterangan tambahan tertulis mengenai arah angin saat dentum pelan. Bukan pemeriksaan lisan. Cukup tuliskan angka yang kau catat selama enam puluh hari terakhir, tanpa narasi. Cap penerimaan akan dikirim ke menara.*
 
@@ -27,7 +27,7 @@ Di barak, Ashvarok-Renn membaca salinan surat itu lewat Maera. Ia menggeleng pel
 
 "Bahaya bila pola itu cocok dengan sesuatu yang mereka miliki di Spire. Kalau angka Mira cocok dengan catatan celah lama mereka, mereka tahu katup itu bukan sekadar bingkai. Mereka tahu ia hidup."
 
-"Tapi Mira hanya mengirim angin," kata Maera.
+"Namun Mira hanya mengirim angin," kata Maera.
 
 "Angin punya pola," jawab Kovan dari sudut ruangan. "Dan pola angin di celah itu sama dengan pola tarikan di bawah tanah. Kalau mereka punya catatan tarikan lama, angka Mira akan cocok. Cocok bukan berarti mereka tahu mekanismenya. Cocok hanya berarti mereka curiga ada irama di balik angin."
 
@@ -67,7 +67,7 @@ Di barak utara, Brannoc telah mengubah denting bel tiga detik menjadi isyarat. S
 
 "Bel itu sekarang jaga kita," kata Brannoc di meja tengah barak. "Kalau kurir Spire lewat, kita tahu sebelum mereka ketuk pintu. Benang bunyi lebih cepat daripada surat."
 
-"Tapi mereka bawa surat resmi," kata Harn. "Bukan musuh."
+"Namun mereka bawa surat resmi," kata Harn. "Bukan musuh."
 
 "Mereka bukan musuh," jawab Brannoc. "Tetapi mereka tarik benang yang tidak mereka tanam. Kita hanya ingin tahu kapan benang itu menegang."
 
@@ -87,7 +87,7 @@ Gella duduk di sudut, membuka buku pemulihan. "Tangan Mira masih bisa menulis," 
 
 ---
 
-Dua hari kemudian, kain tenun tiba dari Thessa di Spire. Tulisan miringnya kali ini lebih cepat, seolah ditulis saat langkah:
+Dua hari kemudian, kain tenun tiba dari Thessa di Spire. Tulisan miringnya kali ini lebih cepat — seolah ditulis saat langkah:
 
 *Arsip mulai membandingkan angka Mira dengan catatan tarikan lama di ruang bawah. Aku tidak tahu isinya, tetapi Paman Ossian membaca salinannya dan menyuruhku kirim ini: kalau Mira diminta narasi, bukan angka, hentikan kirim. Narasi adalah pintu mereka. Angka adalah dinding kita. Jaga dindingnya.*
 
@@ -101,7 +101,7 @@ Maera mengangguk. "Itu yang dipelajari di Assayers' Guild sejak hari pertama. Ka
 
 Ashvarok-Renn menatap ke utara lewat celah serambi. Di sana, di ruang bawah Spire, pola angka Mira sedang dibentangkan di atas catatan tarikan lama yang belum pernah ia lihat. Dan di ujung benang yang sama, sebuah institusi yang belum bernama baru saja menyadari bahwa benang dari menara kecil di tepi jalan bukan sekadar laporan angin — ia adalah denyut yang cocok dengan sesuatu yang mereka panen sejak lama, dan denyut itu kini punya nama yang bisa mereka panggil kapan pun mereka mau.
 
-Pagi berikutnya di menara, Mira mencatat sesuatu yang belum pernah ia tulis sejak hari pertama duduk di kursi itu: dentum keras datang lebih teratur. Bukan lebih keras. Lebih tepat. Tiga napas antara keras dan pelan kini berjarak sama setiap hari, seolah dihitung dari tempat lain.
+Pagi berikutnya di menara, Mira mencatat sesuatu yang belum pernah ia tulis sejak hari pertama duduk di kursi itu: dentum keras datang lebih teratur. Bukan lebih keras. Lebih tepat. Tiga napas antara keras dan pelan kini berjarak sama setiap hari — seolah dihitung dari tempat lain.
 
 "Dentumnya berubah," kata Mira pada perawat tua.
 

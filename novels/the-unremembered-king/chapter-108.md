@@ -17,7 +17,7 @@ Ketiga kalinya mereka bertemu di tambang ini, dan seperti dua kali sebelumnya, t
 
 "Alat mendengar bunyi. Di sini bunyinya dibungkam dengan bagus." Orang tua itu memandangi lorong sunyi di depannya. "Yang menarik bukan pembungkamannya."
 
-Mereka berjalan pelan menyusuri galeri, dua pembaca tua dan muda yang tidak pernah sepakat siapa yang lebih tua, dan Ashvarok menghitung kemungkinan sambil berjalan. Surat tugas Ossian berarti biro sedang lapar kondisi. Lapangan datang ke galeri ini malam-malam seperti ini juga, dan dua kunjungan yang tidak berkaitan bisa saja berpapasan tanpa berkaitan. Tapi orang tua ini tidak pernah berpapasan tanpa maksud.
+Mereka berjalan pelan menyusuri galeri, dua pembaca tua dan muda yang tidak pernah sepakat siapa yang lebih tua, dan Ashvarok menghitung kemungkinan sambil berjalan. Surat tugas Ossian berarti biro sedang lapar kondisi. Lapangan datang ke galeri ini malam-malam seperti ini juga, dan dua kunjungan yang tidak berkaitan bisa saja berpapasan tanpa berkaitan. Namun orang tua ini tidak pernah berpapasan tanpa maksud.
 
 "Pasak-pasak selatan aula," kata pengikat senior akhirnya, di tengah-tengah galeri, tanpa pembuka. "Dua digoyang. Getar sisanya masih duduk di pangkalnya."
 
@@ -57,7 +57,7 @@ Mereka berjalan lagi sampai ujung galeri dan berhenti di dekat nat dasar tempat 
 
 "Dan kebenaranmu?"
 
-"Kejujuranku tetap di sol sepatuku, di mana selama ini." Ia memandang Renn lama, dan tatapan itu mengukur, bukan menuduh, seperti tukang timbang menimbang benda yang tidak diketahuinya jenisnya tapi tahu beratnya penting. "Empat puluh tahun aku mencari seni yang dibunuh bersama negerinya, dan aku menemukan jejaknya di tambang kaca-batu yang dijaga bocah tungku yang menjawab pertanyaan era lama dengan benar. Aku bisa menjadikan temuan itu mahal di banyak meja. Spire. Biro. Bahkan Guild. Aku memilih menaruhnya di sol sepatu. Kau pernah bertanya kenapa, di dalam kepalamu, dengan cara yang sopan. Inilah jawabannya. Hukuman salah lihat adalah kota. Salah menyerahkan fakta kepada meja yang salah, dan yang mati bukan pemilik fakta. Yang mati kota tempat fakta itu hidup."
+"Kejujuranku tetap di sol sepatuku, di mana selama ini." Ia memandang Renn lama, dan tatapan itu mengukur, bukan menuduh, seperti tukang timbang menimbang benda yang tidak diketahuinya jenisnya tetapi tahu beratnya penting. "Empat puluh tahun aku mencari seni yang dibunuh bersama negerinya, dan aku menemukan jejaknya di tambang kaca-batu yang dijaga bocah tungku yang menjawab pertanyaan era lama dengan benar. Aku bisa menjadikan temuan itu mahal di banyak meja. Spire. Biro. Bahkan Guild. Aku memilih menaruhnya di sol sepatu. Kau pernah bertanya kenapa, di dalam kepalamu, dengan cara yang sopan. Inilah jawabannya. Hukuman salah lihat adalah kota. Salah menyerahkan fakta kepada meja yang salah, dan yang mati bukan pemilik fakta. Yang mati kota tempat fakta itu hidup."
 
 "Kalau begitu peringatanmu malam ini juga demi kota," kata Renn.
 

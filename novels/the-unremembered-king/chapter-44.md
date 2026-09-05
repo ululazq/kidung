@@ -21,7 +21,7 @@ Tidak ada jawaban. Orang dewasa di sekitarnya sibuk membaca bagian yang menyentu
 
 "Kenapa sekolah?" Ia menunduk ke lembar itu lagi, mencari pasalnya. "Anggarannya dipotong untuk bayar daftar nama orang lain."
 
-"Kenapa sekarang?" Ini pertanyaan ketiga, dan pertanyaan ketiga selalu yang paling tajam, karena jawabannya harus tentang waktu. Daftar distrik timur sudah ada sejak lama. Kuota naik turun tiap musim. Tapi potongan anggaran sekolah baru muncul seminggu setelah survei kedalaman pertama selesai bersih — seolah seseorang baru selesai membayar satu meja besar dan butuh uang untuk meja berikutnya.
+"Kenapa sekarang?" Ini pertanyaan ketiga, dan pertanyaan ketiga selalu yang paling tajam, karena jawabannya harus tentang waktu. Daftar distrik timur sudah ada sejak lama. Kuota naik turun tiap musim. Namun potongan anggaran sekolah baru muncul seminggu setelah survei kedalaman pertama selesai bersih — seolah seseorang baru selesai membayar satu meja besar dan butuh uang untuk meja berikutnya.
 
 Anak-anak di kerumunan itu tidak banyak. Dua atau tiga, semua menunggu orang tua. Tetapi Sela tahu nama-nama yang ada di lembar itu tanpa melihat lampirannya, karena di Caldrest semua orang tahu anak siapa yang sekolahnya dibayar siapa. Dan satu nama di antara nama-nama itu tidak tinggal di distrik timur sama sekali: Harn-748, asrama pendidikan distrik utara, kontrak lunas penuh, ditandai untuk dibuka ulang.
 
@@ -77,11 +77,11 @@ Dua ujung dari satu garis yang sama, pikirnya. Orang yang hilang namanya, dan or
 
 "Lembar baru," kata Sela. "Di Quota Office."
 
-"Aku dengar. Sekolah." Perawat tua itu membersihkan tangannya dengan kain. "Tiga puluh tahun aku bekerja di sini, Nak. Setiap kali kota ini mau memindah orang, mereka mulai dari yang paling tidak bisa membales. Dulu pasar kecil. Lalu penginapan murah. Sekarang sekolah." Ia melihat ke dalam gelap, ke arah lereng tambang. "Orang-orang barakmu mau sanggah?"
+"Aku dengar. Sekolah." Perawat tua itu membersihkan tangannya dengan kain. "Tiga puluh tahun aku bekerja di sini, Nak. Setiap kali kota ini mau memindah orang, mereka mulai dari yang paling tidak bisa membalas. Dulu pasar kecil. Lalu penginapan murah. Sekarang sekolah." Ia melihat ke dalam gelap, ke arah lereng tambang. "Orang-orang barakmu mau sanggah?"
 
 "Satu paket."
 
-"Hm." Bunyi itu bukan setuju dan bukan menolak. "Kalau butuh tempat naruh anak-anak waktu rapat, pintu klinik ini cukup lebar."
+"Hm." Bunyi itu bukan setuju dan bukan menolak. "Kalau butuh tempat menaruh anak-anak waktu rapat, pintu klinik ini cukup lebar."
 
 Sela mengangguk, menyimpan tawaran itu juga, dan berjalan pulang dengan langkah yang lebih cepat daripada saat datang — bukan karena takut, tetapi karena daftarnya bertambah panjang hari ini dan papannya hanya satu.
 

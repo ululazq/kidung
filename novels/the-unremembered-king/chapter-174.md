@@ -5,7 +5,7 @@ chapter: 174
 
 Ia dimulai dengan pertanyaan Sela di rapat dapur, diajukan dengan cara yang membuat semua sendok berhenti:
 
-"Tovik bisa dibacakan dirinya karena kita semua ingat dia. Tapi the Hollowed pertama — rekan Dolm itu, yang ditemukan di lorong B — tidak ada satu pun dari kita yang ingat namanya. Namanya hilang dari SEMUA ingatan sebelum pagar-pagar kita dibangun." Ia memandang meja. "Pertanyaanku bukan retoris. Kalau Panggung Dapur adalah mesin pengembalian nama... apakah mesin itu bekerja pada nama yang sudah benar-benar habis? Atau hanya pada nama yang masih ada sisanya untuk dikembalikan?"
+"Tovik bisa dibacakan dirinya karena kita semua ingat dia. Namun the Hollowed pertama — rekan Dolm itu, yang ditemukan di lorong B — tidak ada satu pun dari kita yang ingat namanya. Namanya hilang dari SEMUA ingatan sebelum pagar-pagar kita dibangun." Ia memandang meja. "Pertanyaanku bukan retoris. Kalau Panggung Dapur adalah mesin pengembalian nama... apakah mesin itu bekerja pada nama yang sudah benar-benar habis? Atau hanya pada nama yang masih ada sisanya untuk dikembalikan?"
 
 Hening. Ashvarok meletakkan mangkoknya. "Itu pertanyaan paling penting yang pernah diajukan di ruangan ini," katanya pelan. "Dan jawabannya tidak ada sampai kita coba."
 
@@ -15,7 +15,7 @@ Persiapan butuh dua pekan, dan berbeda dari semua operasi Caldrest sebelumnya ka
 
 The Hollowed pertama tinggal di klinik barak sejak bab 14: lelaki ramah yang tersenyum kepada semua orang, sehat, bekerja sukarela menyapu halaman, dan tidak memiliki nama — tidak di buku daftar (baris ke-6 yang tak terbaca), tidak di ingatan siapa pun, tidak bahkan di mulutnya sendiri. Ia telah ditanya dengan lembut berkali-kali selama bertahun-tahun oleh Maera, oleh dokter tambang, oleh Ossian yang menjanjikan "kita akan mencarinya bersama". Semua jalan mati. Nama itu tidak disembunyikan; ia dihapus.
 
-Tapi data baru mengubah persamaannya. Pertama: hukum baru panggung dapur — cerita yang dibawa tubuh memberi makan dua kali lipat. Kedua: kedalaman sendiri baru saja mengaku menyimpan nama-nama. Ketiga — dan inilah yang membuat Ashvarok mengetuk-ngetuk mejanya malam perencanaan — Name-nya sendiri kini bekerja dari cerita benar orang banyak, dan hukumnya telah terbukti tiga kali pada benda.
+Namun data baru mengubah persamaannya. Pertama: hukum baru panggung dapur — cerita yang dibawa tubuh memberi makan dua kali lipat. Kedua: kedalaman sendiri baru saja mengaku menyimpan nama-nama. Ketiga — dan inilah yang membuat Ashvarok mengetuk-ngetuk mejanya malam perencanaan — Name-nya sendiri kini bekerja dari cerita benar orang banyak, dan hukumnya telah terbukti tiga kali pada benda.
 
 "Kalau nama orang juga bisa dipanggil ulang lewat cerita benar yang cukup banyak," kata Ashvarok, "maka ini bukan operasi penyembuhan. Ini penenaian ulang — seperti tunggul batu, seperti pintu darurat. Bedanya satu: subjeknya manusia, dan manusia harus setuju."
 
@@ -25,17 +25,17 @@ Tapi data baru mengubah persamaannya. Pertama: hukum baru panggung dapur — cer
 
 Dan begitulah, malam itu, di klinik barak, Ashvarok duduk di samping lelaki tua tanpa nama yang sedang melipat handuk dengan teliti, dan bertanya — bukan "siapa namamu" yang telah menjadi luka rutin, melainkan pertanyaan lain yang belum pernah diajukan siapa pun:
 
-"Pak. Ada orang-orang di barak ini yang mau mengumpulkan cerita tentang kamu. Cerita masa kerjamu, kebiasaanmu, semuanya yang mereka ingat — walau mungkin hanya sedikit, walau namamu tidak ada di antaranya. Lalu cerita itu akan dibacakan kepadamu tiap minggu, seperti yang dilakukan untuk Tovik. Kamu tidak akan dapat namamu balik malam ini, mungkin tidak bulan ini, mungkin tidak pernah. Tapi kamu akan dapat dirimu yang dulu. Mau?"
+"Pak. Ada orang-orang di barak ini yang mau mengumpulkan cerita tentang kamu. Cerita masa kerjamu, kebiasaanmu, semuanya yang mereka ingat — walau mungkin hanya sedikit, walau namamu tidak ada di antaranya. Lalu cerita itu akan dibacakan kepadamu tiap minggu, seperti yang dilakukan untuk Tovik. Kamu tidak akan dapat namamu balik malam ini, mungkin tidak bulan ini, mungkin tidak pernah. Namun kamu akan dapat dirimu yang dulu. Mau?"
 
 Lelaki tua itu berhenti melipat handuk. Lama. Senyum ramahnya yang tetap hadir berubah bentuk — menjadi sesuatu yang lebih dalam dan lebih sedih, wajah orang yang mendengar kabar tentang rumah yang tidak ia ingat pernah punyanya.
 
-"Mau," katanya akhirnya. Suara kecil. Lalu, setelah jeda, kalimat yang membuat dua saksi di ruangan itu sama-sama harus keluar sebentar: "Kalau nanti ketemu namaku... tolong bilang aku duluan. Sebelum yang lain. Aku mau kenalan dulu sama dia sendirian."
+"Mau," katanya akhirnya. Suara kecil. Lalu, setelah jeda, kalimat yang membuat dua saksi di ruangan itu sama-sama harus keluar sebentar: "Kalau nanti bertemu namaku... tolong bilang aku duluan. Sebelum yang lain. Aku mau kenalan dulu sama dia sendirian."
 
 ---
 
 Pengumpulan cerita adalah pekerjaan paling menyedihkan dan paling indah yang pernah dilakukan Caldrest.
 
-Sisa-sisanya sedikit. Regu lama lelaki itu sudah bubar bertahun-tahun; dua meninggal, satu pindah ke pelabuhan selatan, satu — Dolm — mati dalam runtuhan pertama. Yang tersisa untuk diwawancarai: Ondar (masih anak-anak waktu bersama dia, ingat "dia suka bernyanyi pelan saat menunggu troli"), dokter tambang ("datang sekali ke klinik dengan luka bakar dingin tipis di kedua tangan — sama seperti Pak Dekan; aku catat tapi tidak mengerti"), dan satu sumber tak terduga: arsip the Quiet Vein yang diserahkan Tharrow dari masa jabatannya, memuat satu baris pembayaran upah dengan kolom nama tercoret tidak terbaca TAPI kolom pekerjaan terisi: "penjaga galeri bantu, shift malam, delapan tahun".
+Sisa-sisanya sedikit. Regu lama lelaki itu sudah bubar bertahun-tahun; dua meninggal, satu pindah ke pelabuhan selatan, satu — Dolm — mati dalam runtuhan pertama. Yang tersisa untuk diwawancarai: Ondar (masih anak-anak waktu bersama dia, ingat "dia suka bernyanyi pelan saat menunggu troli"), dokter tambang ("datang sekali ke klinik dengan luka bakar dingin tipis di kedua tangan — sama seperti Pak Dekan; aku catat tetapi tidak mengerti"), dan satu sumber tak terduga: arsip the Quiet Vein yang diserahkan Tharrow dari masa jabatannya, memuat satu baris pembayaran upah dengan kolom nama tercoret tidak terbaca NAMUN kolom pekerjaan terisi: "penjaga galeri bantu, shift malam, delapan tahun".
 
 Delapan tahun menjaga galeri bantu malam-malam. Itu semua yang dunia punya darinya.
 
@@ -63,13 +63,13 @@ Irama sempurna. Irama aslinya.
 
 Dan ketika barak hening memandangnya, lelaki tanpa nama itu memandang tangannya sendiri yang baru saja bergerak dari ingatan yang tidak dimiliki pikirannya, dan berkata kalimat yang membuat Ashvarok harus keluar ke udara sebentar:
 
-"Tanganku ingat. Berarti aku tidak hilang semuanya." Senyum ramahnya kembali, tapi kali ini ada air di sudut mata yang tidak ia kenali sumbernya. "Tunggu namaku ya. Dia juga tinggal di suatu tangan."
+"Tanganku ingat. Berarti aku tidak hilang semuanya." Senyum ramahnya kembali, tetapi kali ini ada air di sudut mata yang tidak ia kenali sumbernya. "Tunggu namaku ya. Dia juga tinggal di suatu tangan."
 
 ---
 
 Laporan resmi operasi ditulis Sela untuk world-state dapur dan dibacakan rapat tim inti malam berikutnya, dan kesimpulannya mengubah status perang selamanya:
 
-Satu: Hollowing dapat digigit balik — tidak dengan memaksa nama kembali, tapi dengan membuka jalur tubuh: ingatan tubuh (ketukan, nyanyian, kebiasaan tangan) bertahan di bawah level yang dihapus oleh sunyi, dan bisa dipanggil naik lewat ritual cerita yang konsisten.
+Satu: Hollowing dapat digigit balik — tidak dengan memaksa nama kembali, tetapi dengan membuka jalur tubuh: ingatan tubuh (ketukan, nyanyian, kebiasaan tangan) bertahan di bawah level yang dihapus oleh sunyi, dan bisa dipanggil naik lewat ritual cerita yang konsisten.
 
 Dua: Name pada manusia TIDAK menolak seperti benda — ia bekerja lambat, butuh pengulangan panggung, seolah nama manusia lebih dalam tertanam daripada nama batu. Perkiraan Kovan: puluhan sesi, bukan satu.
 
@@ -77,13 +77,13 @@ Tiga: dan yang paling penting, kata Ashvarok yang menutup rapat itu, "kita sudah
 
 Hening panjang. Lalu Maera, pelan: "Kabupaten utara. Empat ratus jiwa."
 
-"Empat ratus jiwa," setuju Ashvarok. "Dan sekarang kita punya mesin dapur, bahasa kedalaman, jaringan pendengar, akses arsip ordo tua, dan jabatan Spire yang berutang budi. Bukan lagi pertanyaan bisa atau tidak." Ia menutup papan catatan. "Pertanyaannya hanya urutan bekerja."
+"Empat ratus jiwa," setuju Ashvarok. "Dan sekarang kita punya mesin dapur, bahasa kedalaman, jaringan pendengar, akses arsip ordo tua, dan jabatan Spire yang berutang budi. Bukan lagi pertanyaan bisa atau tidak." Ia menutup papan catatan. "Pertanyaannya hanya urutan kerja."
 
 Rapat bubar hampir subuh. Yang terakhir tinggal di halaman gudang adalah Ashvarok dan pengikat senior, dua orang yang sama-sama tidak bisa tidur karena kepala mereka penuh, duduk di nat dengan bahu bersandar ke dinding yang sama.
 
 "Kabupaten utara itu," kata pengikat senior akhirnya, ke arah bintang. "Aku pernah di sana. Sebelum dihapus. Aku salah satu yang menulis laporan 'ketidakcocokan metodologis' yang membuat ordo mundur dari wilayah itu — laporan yang kemudian dipakai Choir menutupi kebocoran." Jeda panjang. "Empat ratus jiwa itu ada bekas tanggung jawabku di dalamnya juga."
 
-Ashvarok memandang orang tua itu. "Maka kau masuk daftar urutan bekerja juga."
+Ashvarok memandang orang tua itu. "Maka kau masuk daftar urutan kerja juga."
 
 "Aku sudah masuk sejak aku datang ke kota ini," kata pengikat senior, dan untuk pertama kalinya sejak Caldrest mengenalnya, orang itu terdengar muda — bukan usianya, bebannya. "Empat puluh tahun mencari seni penambalan ternyata hanya bab pembuka. Bab berikutnya jauh lebih besar: membawa pulang semua yang dikira mati."
 

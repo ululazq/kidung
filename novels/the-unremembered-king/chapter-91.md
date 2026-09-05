@@ -49,7 +49,7 @@ Meja mendadak menoleh. Ada pintu terbuka di situ, besar, dengan udara hangat men
 
 "Raknya miring," jawabnya akhirnya. "Kalau sejajar, botolnya tidak jatuh. Itu saja."
 
-Penambang muda tertawa puas, dan cerita itu mati di sana — tidak bertambah sayap, tidak menangis, tidak melihat retakan dari permukaan. Ashvarok makan lanjut dengan tenggorokan yang agak kaku, dan malam itu, saat melakukan pemeriksaan fajar di tempat yang sama seperti semalam, angkanya bergerak. Tipis lagi. Separuh sepersekian persen mungkin, lebih kecil dari kemarin, tapi arahnya jelas dan hangatnya familiar seperti jari yang menghangat di dekat api kecil.
+Penambang muda tertawa puas, dan cerita itu mati di sana — tidak bertambah sayap, tidak menangis, tidak melihat retakan dari permukaan. Ashvarok makan lanjut dengan tenggorokan yang agak kaku, dan malam itu, saat melakukan pemeriksaan fajar di tempat yang sama seperti semalam, angkanya bergerak. Tipis lagi. Separuh sepersekian persen mungkin, lebih kecil dari kemarin, tetapi arahnya jelas dan hangatnya familiar seperti jari yang menghangat di dekat api kecil.
 
 Dua malam, dua hasil, satu variabel yang bersih. Ia duduk memandangi dinding gudang dan merumuskan dengan cara bekerja era lamanya menyusun dekrit. Hukumnya sederhana sampai hampir menghina. Yang memberi makan bukan cerita tentang dirinya. Yang memberi makan cerita yang benar tentang dirinya. Legenda adalah uang palsu, dan sisa dirinya, ternyata, tidak bisa ditipu — ia menolak pembayaran apa pun yang tidak sungguh-sungguh. Barang yang selama seribu tahun hanya menerima kerugian ternyata tetap punya standar.
 
@@ -69,6 +69,6 @@ Sebelum berangkat ke shift, di ruang belakang gudang perkakas, ia mengeluarkan k
 
 Hanya cerita yang benar memberi makan. Jangan pernah menanamnya.
 
-Ia melipat kertas itu kembali, memasukkannya ke saku dada kanan di samping cinder-glass tua dan kertas kecil Sela, lalu berdiri sebentar menghadapi dinding balok tua di atas meja bekerja. Di sana, di tempat yang hanya akan ditemukan orang yang tahu harus mencari ke mana, ia menggoreskan paku bekas — satu garis untuk malam legenda, satu titik untuk malam dapur, satu lingkaran kosong untuk malam sunyi. Catatan tiga simbol untuk satu hukum yang baru saja ia temukan, di dinding gudang yang tidak pernah membaca apa pun.
+Ia melipat kertas itu kembali, memasukkannya ke saku dada kanan di samping cinder-glass tua dan kertas kecil Sela, lalu berdiri sebentar menghadapi dinding balok tua di atas meja kerja. Di sana, di tempat yang hanya akan ditemukan orang yang tahu harus mencari ke mana, ia menggoreskan paku bekas — satu garis untuk malam legenda, satu titik untuk malam dapur, satu lingkaran kosong untuk malam sunyi. Catatan tiga simbol untuk satu hukum yang baru saja ia temukan, di dinding gudang yang tidak pernah membaca apa pun.
 
 Pertanyaan berikutnya sudah menunggu di belakang kesimpulan itu, sabar seperti semua pertanyaan mahal. Berapa banyak kebenaran kecil yang masih tersedia di dapur-dapur ini sebelum habis. Dan apa yang akan dilakukan laparnya pada hari semua cerita jujur tentang bocah lorong tujuh sudah diceritakan semua.

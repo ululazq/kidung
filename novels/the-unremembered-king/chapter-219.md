@@ -5,11 +5,11 @@ chapter: 219
 
 Protokol pemulangan lima pasal Caldrest ditulis untuk satu jiwa. Pemulangan Rina butuh tambahan: lagu. Anak Pak Dekan butuh tambahan: hitungan. Dan pemulangan yang sedang disiapkan sekarang — Vess-Morath, gema kelompok petani — membutuhkan sesuatu yang belum pernah dicoba siapa pun di dunia: protokol untuk SERATUS DUA EMPAT ORANG sekaligus.
 
-"Kita tidak tahu persis jumlahnya," kata Sela membuka rapat perancangan, dengan papan berisi diagram yang ia gambar ulang tiga kali. "Gema kelompok itu menyatu seperti koir. Mereka bicara sebagai 'kami'. Kalau dipulangkan satu-satu, aku takut yang terpisah bukan hanya tubuh mereka dari tanahnya — tapi satu sama lain." Ia menatap meja panjang. "Bayangkan sebuah keluarga yang harus pulang lewat pintu berbeda."
+"Kita tidak tahu persis jumlahnya," kata Sela membuka rapat perancangan, dengan papan berisi diagram yang ia gambar ulang tiga kali. "Gema kelompok itu menyatu seperti koor. Mereka bicara sebagai 'kami'. Kalau dipulangkan satu-satu, aku takut yang terpisah bukan hanya tubuh mereka dari tanahnya — tetapi satu sama lain." Ia menatap meja panjang. "Bayangkan sebuah keluarga yang harus pulang lewat pintu berbeda."
 
 Maka pertanyaan besar rapat itu: apakah pemulangan kelompok bisa dilakukan SEKALIGUS?
 
-Jawaban hanya dimiliki dua pihak: kedalaman dan Sareth. Kedalaman menjawab melalui irama bahwa kapasitasnya tidak menjadi masalah — "aku sudah menyimpan seribu tahun; mengeluarkan seratus bersama-sama lebih mudah daripada menahan mereka terpisah". Tapi yang menjadi kekhawatirannya adalah dunia: seratus orang muncul di permukaan pada jam yang sama akan butuh seratus pelukan yang tersedia.
+Jawaban hanya dimiliki dua pihak: kedalaman dan Sareth. Kedalaman menjawab melalui irama bahwa kapasitasnya tidak menjadi masalah — "aku sudah menyimpan seribu tahun; mengeluarkan seratus bersama-sama lebih mudah daripada menahan mereka terpisah". Namun yang menjadi kekhawatirannya adalah dunia: seratus orang muncul di permukaan pada jam yang sama akan butuh seratus pelukan yang tersedia.
 
 Maka protokol baru — "protokol musim" — dirancang selama sebelas hari dan memiliki bentuk yang tidak pernah ada sebelumnya: bukan daftar langkah, melainkan pembagian wilayah tanggung jawab. Setiap keluarga keturunan utara mendapat "pos jemput": titik di ladang tempat mereka berdiri saat pemulangan, dengan name train keluarganya masing-masing.
 
@@ -21,7 +21,7 @@ Persiapan terbesar justru di luar rencana: LATIHAN.
 
 Murid-murid tingkat dua the Veyl Akademie — tiga puluh orang — mengambil tugas yang membuat guru-guru mereka bangga dan khawatir dalam waktu yang sama: mempelajari seratus name train keluarga utara dalam enam pekan. Latihan berlangsung tiap sore di ladang (sesuai jadwal hitung mundur), dan murid-murid menyanyikan nama-nama keluarga bergiliran sampai iramanya masuk ke tulang.
 
-Harn, yang kini menjadi instruktur termuda, menemukan metode yang kemudian diadopsi seluruh akademi: setiap murid "mengadopsi" tiga keluarga — mempelajari bukan hanya lagunya, tapi ceritanya, wajah keturunannya, bahkan makanan kesukaan leluhur yang diketahui dari kotak cerita. "Kamu tidak bisa menyanyikan nama orang dengan benar," katanya kepada murid-murid baru, "kalau kamu tidak tahu dia suka sup apa."
+Harn, yang kini menjadi instruktur termuda, menemukan metode yang kemudian diadopsi seluruh akademi: setiap murid "mengadopsi" tiga keluarga — mempelajari bukan hanya lagunya, tetapi ceritanya, wajah keturunannya, bahkan makanan kesukaan leluhur yang diketahui dari kotak cerita. "Kamu tidak bisa menyanyikan nama orang dengan benar," katanya kepada murid-murid baru, "kalau kamu tidak tahu dia suka sup apa."
 
 Ibu Tamma mendengar kalimat itu dari dapurnya dan berkata pada semua orang: "Anak itu harus jadi guru. Bukan nanti. Sekarang."
 
@@ -63,7 +63,7 @@ Ibu-ibu Caldrest dan keturunan utara menghabiskan tiga pekan menyiapkan pakaian 
 
 Dan dapur aula bekerja tanpa henti tiga hari menjelang hari-H, karena pasal ibu Tamma berlaku juga untuk seratus orang: tidak ada pemulangan yang sah tanpa makan malam pertama — maka makan malam pertama seratus jiwa harus sudah siap DI ATAS MEJA sebelum mereka naik.
 
-"Seratus porsi," kata ibu Tamma memeriksa daftarnya. "Plus tamu. Plus murid-murid yang nyanyi. Plus aku butuh cadangan dua puluh porsi kalau ada yang masih lapar setelah delapan belas tahun." Ia melihat daftar itu sekali lagi. "Tambahkan sepuluh lagi. Delapan belas tahun adalah waktu yang terlalu panjang untuk diukur."
+"Seratus porsi," kata ibu Tamma memeriksa daftarnya. "Plus tamu. Plus murid-murid yang menyanyi. Plus aku butuh cadangan dua puluh porsi kalau ada yang masih lapar setelah delapan belas tahun." Ia melihat daftar itu sekali lagi. "Tambahkan sepuluh lagi. Delapan belas tahun adalah waktu yang terlalu panjang untuk diukur."
 
 Ashvarok menutup neraca persiapan dengan entri yang pendek:
 
@@ -77,7 +77,7 @@ Satu hal lagi yang disiapkan tanpa banyak bicara: pos jemput untuk keluarga yang
 
 Tiga puluh murid mengikuti Harn. Tiga puluh anak muda memilih menjadi keluarga bagi sebelas orang tua yang tidak tahu bahwa dunia masih menyimpan tempat untuk mereka.
 
-Ibu Tamma melihat daftar itu dan langsung menambahkan namanya sendiri di baris paling bawah — bukan sebagai keluarga pengganti, tapi dengan keterangan yang membuat semua orang yang membacanya diam sebentar: "dapur. Semua pemulang makan dulu sebelum cerita. Perut kosong tidak bisa menangis dengan benar."
+Ibu Tamma melihat daftar itu dan langsung menambahkan namanya sendiri di baris paling bawah — bukan sebagai keluarga pengganti, tetapi dengan keterangan yang membuat semua orang yang membacanya diam sebentar: "dapur. Semua pemulang makan dulu sebelum cerita. Perut kosong tidak bisa menangis dengan benar."
 
 Latihan murid-murid menghasilkan satu temuan yang mengubah pemahaman semua orang tentang name train: ketika tiga puluh suara menyanyikan SERATUS dua puluh empat name train secara bergantian tanpa jeda — seperti "jam surat-menyurat" kata Harn — Vess-Morath menjawab SETIAP lagu dengan irama balasan keluarganya masing-masing. Seratus dua puluh empat percakapan kecil dalam satu sesi sore.
 
@@ -89,7 +89,7 @@ Sela menuliskan temuan itu di papan aula dan di bawahnya menulis: "Inilah kenapa
 
 Ibu Tamma, mendengar cerita soal nada penutup itu, diam lama lalu berkata: "Catat juga ini, Nak: sup ayam untuk sebelas pos jemput itu dibuat dengan resep berbeda-beda. Aku tanya arsip soal asal-usul tiap orang — satu dari Karven pakai rempah Karven, satu dari lembah pakai rasa lembah." Ia melipat celemeknya. "Sup yang benar harus berasal dari rumah yang benar."
 
-Ashvarok membaca seluruh rencana persiapan itu di meja Arsip, dan menambahkan satu pasal terakhir ke protokol musim — pasal kesebelas, yang tidak diminta siapa pun tapi langsung disetujui semua:
+Ashvarok membaca seluruh rencana persiapan itu di meja Arsip, dan menambahkan satu pasal terakhir ke protokol musim — pasal kesebelas, yang tidak diminta siapa pun tetapi langsung disetujui semua:
 
 "Pasal 11. Pemulangan kelompok bukan peristiwa seratus jiwa. Ia seribu dua puluh kali pemulangan tunggal yang terjadi bersamaan — setiap orang membawa perpisahan dan pertemuannya sendiri. Maka hari itu, tidak ada protokol yang lebih penting daripada aturan tertua Caldrest: perlakukan setiap orang sebagai satu."
 

@@ -5,7 +5,7 @@ chapter: 63
 
 Peta yang salah dan telah dicap sah adalah alat administratif paling berharga yang pernah dipegang Ossian Vael, karena kebohongan yang sudah diverifikasi dua institusi tidak membutuhkan pembelaan — ia hanya membutuhkan penerapan.
 
-Pada pagi hari kedelapan puluh, di meja bekerja penginapan distrik atas, pejabat Koordinasi Artefak Regional menyusun tumpukan ketiga untuk hari itu. Draf permohonan izin penutupan distrik timur. Dokumen penilaian triwulan II tergeletak di sisinya, terbuka pada halaman kesimpulan, dan setiap kali keraguan lama mencoba bangkit dari sudut kepalanya — ruangan itu menjawab semua alat dengan jawaban normal, kata semua instrumen. Sampai detik ini semuanya terbaca normal, katanya sendiri — ia menutupnya dengan halaman itu. Struktur mati non-strategis. Nilai rendah. Distrik timur, empat ratus keluarga yang menganggur di atas karantina, tidak lagi punya alasan ekonomi untuk bertahan di lereng timur.
+Pada pagi hari kedelapan puluh, di meja kerja penginapan distrik atas, pejabat Koordinasi Artefak Regional menyusun tumpukan ketiga untuk hari itu. Draf permohonan izin penutupan distrik timur. Dokumen penilaian triwulan II tergeletak di sisinya, terbuka pada halaman kesimpulan, dan setiap kali keraguan lama mencoba bangkit dari sudut kepalanya — ruangan itu menjawab semua alat dengan jawaban normal, kata semua instrumen. Sampai detik ini semuanya terbaca normal, katanya sendiri — ia menutupnya dengan halaman itu. Struktur mati non-strategis. Nilai rendah. Distrik timur, empat ratus keluarga yang menganggur di atas karantina, tidak lagi punya alasan ekonomi untuk bertahan di lereng timur.
 
 Fakta-fakta itu benar. Itulah keindahan prosedurnya. Ia tidak perlu berbohong satu kalimat pun kepada siapa pun. Ia hanya perlu membeli urutan kejadian.
 
@@ -31,7 +31,7 @@ Corvan Hale menuang teh untuk mereka berdua, lambat, dan Ossian memberi orang it
 
 "Rakyat saya di distrik timur," kata Hale akhirnya, "bukan angka. Mereka penambang. Kakek-nenek mereka membuka tambang ini." Tangan kanannya terkatup di atas meja — dan gemetar, tipis, hanya kelihatan bagi yang mencarinya, karena tubuh orang itu sendiri sepertinya tahu kalimatnya tidak sekuat suaranya. "Saya tidak bisa menandatangani apa pun yang menyebut mereka beban."
 
-"Saya tidak akan pernah meminta Anda menandatangani kata itu," kata Ossian, dengan kehangatan yang dihitung sampai derajatnya. Lembar kedua ditarik dari map — rencana penempatan bekerja. "Bacalah ini. Setiap kepala keluarga yang pindah mendapat kontrak baru tanpa jeda — galeri-galeri utara yang dibuka ulang, stasiun pemilahan cinder-glass di kota pelabuhan, dan pos-pos Overseer baru yang harus diisi orang yang dipercaya kepala daerah setempat. Anda yang mengusulkan nama-namanya. Distrik timur tidak dibubarkan, Tuan Hale. Distrik timur dipromosikan."
+"Saya tidak akan pernah meminta Anda menandatangani kata itu," kata Ossian, dengan kehangatan yang dihitung sampai derajatnya. Lembar kedua ditarik dari map — rencana penempatan kerja. "Bacalah ini. Setiap kepala keluarga yang pindah mendapat kontrak baru tanpa jeda — galeri-galeri utara yang dibuka ulang, stasiun pemilahan cinder-glass di kota pelabuhan, dan pos-pos Overseer baru yang harus diisi orang yang dipercaya kepala daerah setempat. Anda yang mengusulkan nama-namanya. Distrik timur tidak dibubarkan, Tuan Hale. Distrik timur dipromosikan."
 
 Kata terakhir itu bekerja persis seperti dirancang. Ia melihatnya bekerja. Bahu wali kota turun satu jari, senyum mudah itu kembali, dan untuk pertama kalinya pagi itu Corvan Hale membaca sebuah dokumen sampai selesai.
 
@@ -59,7 +59,7 @@ Tidak ada kebohongan besar di ruangan ini. Hanya prosedur, yang dibeli utuh.
 
 Ia keluar dari balai kota menjelang tengah hari dengan map yang lebih tebal daripada saat masuk, dan berdiri sebentar di tangga, membiarkan mata beradaptasi dengan cahaya lereng timur.
 
-Pada jam tiga, di ruang tamu meja bular Quota Office, Kel Tharrow menerima instruksi barunya dengan punggung yang terlalu tegak.
+Pada jam tiga, di ruang tamu meja bundar Quota Office, Kel Tharrow menerima instruksi barunya dengan punggung yang terlalu tegak.
 
 "Santunan dinaikkan menjadi lima shardmark sehari, efektif pekan depan, atas program dana pemulihan udara," kata Ossian. "Anda menyusun daftar penerimanya. Nama lengkap, lama tinggal, jumlah tanggungan. Wali kota yang akan menandatangani setiap lembar."
 

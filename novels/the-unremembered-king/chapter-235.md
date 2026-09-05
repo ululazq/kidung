@@ -13,13 +13,13 @@ Bukan diam-diam sopan seperti nat-nat lain sebelum bangun. Ia menjawab setiap la
 
 Yang memecahkan teka-teki itu bukan pendengar alami, bukan arsiparis, melainkan seorang nenek penenun utara bernama Lompa — yang datang ke aula membawa selendang tenunan warisan keluarganya, meletakkannya di atas meja rapat, dan berkata:
 
-"Leluhur kami tidak hafalan. Leluhur kami TENUN. Nama, tanggal, jumlah keluarga — semua ada di pola kain. Kalian nyanyi-nyanyi padahal orang barat laut buta lagu. Mereka baca."
+"Leluhur kami tidak hafalan. Leluhur kami TENUN. Nama, tanggal, jumlah keluarga — semua ada di pola kain. Kalian menyanyi-menyanyi padahal orang barat laut buta lagu. Mereka baca."
 
 ---
 
 Pengujian dilakukan sore itu juga. Selendang Lompa diletakkan menyentuh nat barat laut (dibawa khusus lewat jalan tujuh hari) — dan nat langsung merespons dengan irama panjang yang oleh Kovan diterjemahkan sambil tertawa-tawa tidak percaya:
 
-"DIA BACA. NAT-NYA LANGSUNG BACA POLA KAIN. Dan dia bilang—" Kovan berhenti, membaca ulang. "Dia bilang: 'akhirnya. Seratus tahun kalian nyanyi, saya pikir kalian lupa cara baca.'"
+"DIA BACA. NAT-NYA LANGSUNG BACA POLA KAIN. Dan dia bilang—" Kovan berhenti, membaca ulang. "Dia bilang: 'akhirnya. Seratus tahun kalian menyanyi, saya pikir kalian lupa cara baca.'"
 
 Ruangan aula pecah. Sela sudah menulis sebelum Kovan selesai bicara:
 
@@ -27,7 +27,7 @@ Ruangan aula pecah. Sela sudah menulis sebelum Kovan selesai bicara:
 
 Dan ibu Tamma, yang hadir di rapat membawa roti, menambahkan komentar yang dikutip seluruh barak:
 
-"Nah. Makanya jangan sombong sama cara orang lain menjaga ingatan. Ada yang nyanyi, ada yang nulis, ada yang nunun. Semua sah. Yang penting namanya sampai."
+"Nah. Makanya jangan sombong sama cara orang lain menjaga ingatan. Ada yang menyanyi, ada yang menulis, ada yang nunun. Semua sah. Yang penting namanya sampai."
 
 ---
 
@@ -35,13 +35,13 @@ Pekan berikutnya menjadi pekan paling sibuk Arsip Caldrest sepanjang proyek: BEL
 
 Karena ternyata selendang Lompa bukan satu-satunya. Setelah kabar menyebar, keluarga-keluarga barat laut datang ke pos persiapan membawa kain-kain warisan mereka — dua puluh delapan helai dalam seminggu, beberapa berumur lebih tua dari Hegemony — dan setiap helai harus "dibaca" bersama: pola garis = jumlah anggota, warna pewarna alami = kamp asal, motif tepian = tahun penitipan.
 
-Masalahnya: seni membaca pola hampir punah. Hanya tersisa empat penenun tua yang masih fasih — Lompa, dua teman seangkatannya, dan seorang perempuan lima puluhan bernama Rennia yang belajar dari ibunya tapi "belum pernah percaya diri disebut fasih".
+Masalahnya: seni membaca pola hampir punah. Hanya tersisa empat penenun tua yang masih fasih — Lompa, dua teman seangkatannya, dan seorang perempuan lima puluhan bernama Rennia yang belajar dari ibunya tetapi "belum pernah percaya diri disebut fasih".
 
 Maka dibuatlah keputusan yang oleh Sareth disebut "paling penting dari semua putusan proyek ini": SEKOLAH MENENUN DIBUKA DI SAMPING SEKOLAH MENDENGAR.
 
 Bukan sekolah tenun untuk produksi kain — melainkan sekolah membaca kain, agar bahasa barat laut tidak mati bersama generasinya. Murid pertamanya: dua belas anak muda barat laut, enam murid akademi Caldrest, dan satu siswa Spire angkatan kedua (yang mengirim surat: "saya rela tunda tugas saya; ini pelajaran yang tidak akan pernah bisa diajarkan Spire").
 
-Lompa menolak jabatan kepala sekolah dengan alasan khasnya: "Saya hanya nenek yang bisa nunun." Tapi ia setuju jadi guru — dengan syarat yang dituliskan di papan aula:
+Lompa menolak jabatan kepala sekolah dengan alasan khasnya: "Saya hanya nenek yang bisa nunun." Namun ia setuju jadi guru — dengan syarat yang dituliskan di papan aula:
 
 "YANG BELAJAR MEMBACA KAIN WAJIB JUGA BELAJAR NUNUN. Karena kalau hanya bisa baca tanpa bisa buat... kalian hanya turunan pembaca. Harus jadi turunan PENJAGA."
 
@@ -73,7 +73,7 @@ Kovan mencatat fenomena itu di neraca dengan kalimat yang dikutip Sela di halama
 
 Sore itu juga, satu momen kecil terjadi di tepi ladang utara yang oleh Harn dicatat tanpa diketahui siapa pun:
 
-Thessa Vael — yang seharusnya sudah lama pulang ke Spire tapi terus menunda karena "buku masak belum selesai" — duduk di bangku tamu sambil menenun belajar bersama murid-murid Lompa. Jarinya kaku, polanya kacau, dan ia mulai dari awal tujuh kali.
+Thessa Vael — yang seharusnya sudah lama pulang ke Spire tetapi terus menunda karena "buku masak belum selesai" — duduk di bangku tamu sambil menenun belajar bersama murid-murid Lompa. Jarinya kaku, polanya kacau, dan ia mulai dari awal tujuh kali.
 
 Kedelapan kalinya, polanya akhirnya lurus.
 
@@ -87,7 +87,7 @@ Neraca pekan persiapan barat laut ditutup Ashvarok dengan angka-angka yang terus
 
 Hari 760. Jiwa barat laut: 61 (naik dari 52, terima kasih kain). Media pemulangan: TENUNAN — pasal 15 disahkan. Sekolah menenun: 19 murid. Gendang kamp: berbunyi tiap sore. Dan satu pesan 300 tahun akhirnya dibalas.
 
-Tersisa empat belas wilayah lagi... tapi sekarang setiap wilayah punya "bahasa ibunya sendiri" untuk kita pelajari. Kalau selatan mengajari kita pantun dan barat laut mengajari kita tenun, aku mulai penasaran:
+Tersisa empat belas wilayah lagi... tetapi sekarang setiap wilayah punya "bahasa ibunya sendiri" untuk kita pelajari. Kalau selatan mengajari kita pantun dan barat laut mengajari kita tenun, aku mulai penasaran:
 
 Bahasa apa lagi yang keluar dari wilayah-wilayah berikutnya?
 
@@ -99,7 +99,7 @@ Pekan depan kita cari tahu.
 
 ---
 
-Tapi sebelum itu, satu kabar kecil yang membuat seluruh tim tersenyum sepanjang hari: Lompa mendaftarkan dirinya sebagai siswa Sekolah Mendengar angkatan kedua.
+Namun sebelum itu, satu kabar kecil yang membuat seluruh tim tersenyum sepanjang hari: Lompa mendaftarkan dirinya sebagai siswa Sekolah Mendengar angkatan kedua.
 
 "Guru menenun boleh belajar mendengar juga," katanya saat ditanya. "Delapan puluh tahun saya baca kain. Baru minggu ini saya dengar batu bicara. Itu artinya saya masih bisa belajar." Ia melipat selendangnya. "Dan kalau nenek tua saja masih daftar sekolah, anak-anak tidak punya alasan malas."
 
@@ -135,7 +135,7 @@ Suara anak kecil.
 
 Ternyata ada bocah tujuh tahun yang diam-diam duduk di depan nat itu sambil bercerita soal kucing hilangnya. Ibu-ibu barak mengizinkan "asal pulang sebelum gelap gelap sekali".
 
-Aku duduk mendengarkan sampai cerita kucingnya ketemu.
+Aku duduk mendengarkan sampai cerita kucingnya bertemu.
 
 Lalu bocah itu pamit, dan berkata kepada nat: "Besok aku cerita soal anjing tetangga ya."
 
@@ -143,7 +143,7 @@ Nat menjawab hangat.
 
 Delapan bulan silam kita bangun protokol untuk seratus orang, lalu enam puluh satu, lalu delapan puluh enam.
 
-Malam ini protokolnya ditulis ulang oleh bocah tujuh tahun dan seekor kucing yang ketemu lagi:
+Malam ini protokolnya ditulis ulang oleh bocah tujuh tahun dan seekor kucing yang bertemu lagi:
 
 "besok aku cerita soal anjing tetangga ya."
 

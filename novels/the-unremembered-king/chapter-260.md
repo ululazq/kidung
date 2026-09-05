@@ -7,7 +7,7 @@ Satu tahun kemudian, dunia Karvess sudah sangat berbeda dari yang delapan bulan 
 
 Sekolah Mendengar kini punya dua belas cabang di seluruh dunia. Jaringan nat tiga generasi menjangkau semua wilayah. Pasal Menyapa menjadi bagian dari konstitusi sembilan wilayah. Dan setiap anak yang lahir... lahir di dunia di mana mendengarkan adalah hal biasa.
 
-Tapi perayaan tahun ini tidak di aula.
+Namun perayaan tahun ini tidak di aula.
 
 Ibu Tamma memindahkan semuanya ke satu tempat:
 
@@ -109,7 +109,7 @@ Dan Ashvarok-Renn menutup — bicara bersamaan untuk terakhir kali:
 
 "Jadi ini penutup buku besar pemulangan Karvess.
 
-Bukan karena ceritanya habis — tapi karena yang harus diceritakan sudah selesai: dunia sudah berubah. Tidak ada lagi yang perlu diselamatkan dari kedalaman. Semua nat bisa bicara. Semua anak punya tempat pulang.
+Bukan karena ceritanya habis — tetapi karena yang harus diceritakan sudah selesai: dunia sudah berubah. Tidak ada lagi yang perlu diselamatkan dari kedalaman. Semua nat bisa bicara. Semua anak punya tempat pulang.
 
 Yang tersisa setelah ini adalah hidup biasa —
 
@@ -121,7 +121,7 @@ Dan satu kalimat dari ibu Tamma — yang menutup malam dan buku ini:
 
 "Semua kata bagus, Nak-nak.
 
-Tapi ingat: besok pagi dapur tetap buka. Dan orang tetap butuh makan.
+Namun ingat: besok pagi dapur tetap buka. Dan orang tetap butuh makan.
 
 Itu cara dunia bilang 'aku masih peduli' — lewat sup yang hangat tiap pagi."
 
@@ -282,7 +282,7 @@ Dan satu baris dari ibu Tamma — untuk menutup semuanya:
 
 "Semua kata indah.
 
-Tapi jangan lupa yang paling penting:
+Namun jangan lupa yang paling penting:
 
 SUP TIDAK MENUNGGU ORANG PINTAR.
 
@@ -308,7 +308,7 @@ Subuh di nat lorong barak utara.
 
 Cahaya masuk lewat jendela kecil. Nat tua menyala pelan. Dan seorang anak kecil (generasi baru, umur enam tahun) duduk di depannya dengan roti manis di tangan — seperti ibu-ibu Vel-Morra delapan ratus tahun silam.
 
-Anak itu berkata: "Nat, aku bawain kamu roti."
+Anak itu berkata: "Nat, aku membawakan kamu roti."
 
 Nat menjawab: "AKU INGAT KAMU. KAU YANG DATANG KEMARIN."
 

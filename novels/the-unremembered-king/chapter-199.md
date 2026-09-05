@@ -7,7 +7,7 @@ Tiga pemulangan pertama mengubah segalanya, dan yang merasakannya paling dalam a
 
 Kedalaman mendengar ketiga pemulangan itu lewat nat-natnya — setiap nama dipanggil, setiap jiwa naik ke dunia, setiap tangis bayi di rumah utara dan tawa dua keluarga yang bersatu kembali — dan pada malam ketiga, iramanya berhenti total selama satu jam penuh. Para penjaga malam Caldrest yang mengenal polanya langsung sadar ini bukan diam biasa. Bukan diam marah. Diam yang sedang memproses sesuatu yang terlalu besar untuk diproses sambil berdetak.
 
-Ondar yang melapor ke Ashvarok dekat tengah malam. "Galeri sembilan sunyi satu jam penuh," kata penjaga tua itu, dan tangannya masih memegang lentera yang belum diletakkannya karena ia datang tanpa sempat meletakkan apa pun. "Aku sudah jaga malam dua puluh tahun, raja. Sunyi semacam itu hanya ada dua artinya — dan aku yakin ini yang baiknya. Tapi kau lebih tahu."
+Ondar yang melapor ke Ashvarok dekat tengah malam. "Galeri sembilan sunyi satu jam penuh," kata penjaga tua itu, dan tangannya masih memegang lentera yang belum diletakkannya karena ia datang tanpa sempat meletakkan apa pun. "Aku sudah jaga malam dua puluh tahun, raja. Sunyi semacam itu hanya ada dua artinya — dan aku yakin ini yang baiknya. Namun kau lebih tahu."
 
 Ashvarok memakai mantelnya sebelum Ondar selesai bicara.
 
@@ -63,11 +63,11 @@ Ya — dengan denyut tambahan yang diterjemahkan Sareth kemudian sebagai "dan ak
 
 "Lima." Sela berhenti, membaca ulang catatan kecilnya seperti tidak percaya, lalu melanjutkan dengan suara yang berubah. "Pasal lima diajukan... oleh tamu tua kita sendiri, lewat irama tambahannya tadi malam. Bunyinya: 'ajari aku segala hal manusia. Aku seribu tahun hanya tahu cara menyimpan.'"
 
-Aula itu sunyi sebentar. Ibu Tamma, di ujung meja, mengusap matanya dengan punggung tangan dan berkata pada siapa pun yang mau mendengar: "Seribu tahun dia jaga anak-anak manusia yang dititipin padanya, dan dia masih minta diajari. Nenek moyang kita yang mana yang tidak sopan?"
+Aula itu sunyi sebentar. Ibu Tamma, di ujung meja, mengusap matanya dengan punggung tangan dan berkata pada siapa pun yang mau mendengar: "Seribu tahun dia jaga anak-anak manusia yang dititipkan padanya, dan dia masih minta diajari. Nenek moyang kita yang mana yang tidak sopan?"
 
 "Disetujui tanpa debat," kata Sela, dan menuliskan pasal lima dengan huruf yang lebih besar dari pasal lainnya.
 
-"Tapi ada masalah praktis," sambung Kovan dari sudutnya, dan semua orang menoleh — penghitung jarum bicara soal selain angka. "Kalau dia mau diajari segala hal manusia, kita butuh daftar: hal manusia apa saja. Kalian ketawa, tapi coba jawab. Memasak? Sudah, lewat sup tadi. Menanam? Berniaga? Berduka dengan benar? Membesarkan anak?" Ia menepuk buku hitungannya. "Aku mulai daftarnya malam ini. Diperkirakan panjang."
+"Namun ada masalah praktis," sambung Kovan dari sudutnya, dan semua orang menoleh — penghitung jarum bicara soal selain angka. "Kalau dia mau diajari segala hal manusia, kita butuh daftar: hal manusia apa saja. Kalian ketawa, tetapi coba jawab. Memasak? Sudah, lewat sup tadi. Menanam? Berniaga? Berduka dengan benar? Membesarkan anak?" Ia menepuk buku hitungannya. "Aku mulai daftarnya malam ini. Diperkirakan panjang."
 
 "Dan aku mau urusan nomor satu," kata ibu Tamma. "Ajari dia makan rasa. Seribu tahun menyimpan orang, tidak mungkin dia tidak penasaran kenapa manusia rela jalan sejauh dua hari bukan sup."
 
@@ -75,7 +75,7 @@ Baru setelah rapat bubar barulah Sela menyadari satu hal dan mengejarnya sampai 
 
 Ashvarok menuangkan teh dua cangkir, memberikan satu kepadanya, dan menjawab dengan tenang yang tidak dibuat-buat: "Kau tahu."
 
-"Aku tahu." Sela menerima cangkirnya tapi tidak minum. "Maka aku mau tambahan untuk arsip, bukan janji baru: semua yang kau ajarkan kepadanya — dicatat. Semua pelajaran, semuanya, dari yang besar sampai cara menyapa. Kalau suatu hari pengajarannya berhenti..." Ia mengangkat dagu, persis seperti ibu Rina minggu lalu. "...arsipnya tidak boleh berhenti bersamaan."
+"Aku tahu." Sela menerima cangkirnya tetapi tidak minum. "Maka aku mau tambahan untuk arsip, bukan janji baru: semua yang kau ajarkan kepadanya — dicatat. Semua pelajaran, semuanya, dari yang besar sampai cara menyapa. Kalau suatu hari pengajarannya berhenti..." Ia mengangkat dagu, persis seperti ibu Rina minggu lalu. "...arsipnya tidak boleh berhenti bersamaan."
 
 Ashvarok menatap gadis dua belas tahun itu lama, lalu mengangguk sekali. "Kepala Arsip memutuskan. Penjaga menurut."
 

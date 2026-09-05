@@ -3,9 +3,9 @@ title: "Bab 273: Duka yang Ditagih Seribu Tahun"
 chapter: 273
 ---
 
-Tiga wilayah pesisir tidak mengirim delegasi ke Malam Pembacaan. Mereka mengirim jawaban yang sudah tertulis ratusan tahun di batu nesan mereka: penolakan.
+Tiga wilayah pesisir tidak mengirim delegasi ke Malam Pembacaan. Mereka mengirim jawaban yang sudah tertulis ratusan tahun di batu nisan mereka: penolakan.
 
-Maka keluarga the Quiet Vein pergi mendengang — bukan mengirim surat, tidak lewat jalur nat, tapi datang sendiri, karena ada aturan keluarga yang tidak pernah dicoret sejak bab-bab awal: kabar besar tidak dikirim; kabar besar diantar.
+Maka keluarga the Quiet Vein pergi mendatangi — bukan mengirim surat, tidak lewat jalur nat, tetapi datang sendiri, karena ada aturan keluarga yang tidak pernah dicoret sejak bab-bab awal: kabar besar tidak dikirim; kabar besar diantar.
 
 Rombeannya kecil sesuai protokol pendengar lapangan: Ashvarok-Renn, Sela, Barim. Dan satu tambahan yang oleh Dewan dipersoalkan lalu disetujui tanpa debat setelah mendengar alasannya: ibu Tamma.
 
@@ -23,7 +23,7 @@ Adegan itu diam. Laut berbunyi.
 
 "Aku datang untuk diduduki," lanjut Ashvarok-Renn, dan ia menjelaskan pasal dapur yang malam itu bekerja di aula Caldrest — kalau ada yang makan sambil menangis, duduki, jangan bicara, tambahkan sup — dan mengatakan bahwa keluarganya punya pasal serupa untuk kemarahan: kalau ada yang marah seribu tahun, duduklah bersama dia. Jangan bicara. Tambahkan kehadiran.
 
-"Tapi sebelum duduk, kau berhak tahu siapa yang duduk di sebelahmu." Ia melepas tudungnya. Di tepi laut, di depan seluruh kamp, raja abu-abu Karvess berdiri sebagai bocah tambang tujuh belas tahun dengan vein-scar sampai bahu. "Aku yang menyegel dunia seribu tahun. Aku juga yang memerintahkan Hegemony melakukan hal-hal yang membunuh nenek moyangmu. Aku bukan datang membawa versi bagus tentang diriku. Versi buruknya kalian sudah hafal — dan sebagian besar benar."
+"Namun sebelum duduk, kau berhak tahu siapa yang duduk di sebelahmu." Ia melepas tudungnya. Di tepi laut, di depan seluruh kamp, raja abu-abu Karvess berdiri sebagai bocah tambang tujuh belas tahun dengan vein-scar sampai bahu. "Aku yang menyegel dunia seribu tahun. Aku juga yang memerintahkan Hegemony melakukan hal-hal yang membunuh nenek moyangmu. Aku bukan datang membawa versi bagus tentang diriku. Versi buruknya kalian sudah hafal — dan sebagian besar benar."
 
 Ibu Tamma sudah membuka pancinya di api yang ditunjukkan pemuda-pemuda kamp (karena tidak ada kamp pesisir mana pun yang sanggup membiarkan tamu memasak sendiri — itu penghinaan), dan aromanya mulai bekerja dengan cara yang oleh diplomasi resmi tidak pernah tercapai.
 
@@ -43,7 +43,7 @@ Subuh menjelang, tetua tua itu akhirnya berhenti. Melihat Ashvarok-Renn lama.
 
 Ashvarok-Renn memandang laut gelap itu lama sebelum menjawab — dan jawabannya adalah hal yang oleh Sela dicatat kata demi kata, karena tidak pernah diucapkan siapa pun sebelumnya:
 
-"Mereka tidak berpikir apa-apa tentang kalian. Itu bagian paling buruk dari kebenarannya." Suara bocah tungku itu datar, tanpa pembelaan. "Hegemony mengajarkan panglima-panglimanya bahwa wilayah-wilayah pesisir adalah angka dalam logistik. Lima orang itu mencintai sahabat mereka dengan cinta yang membuat lagu — dan tidak pernah sekali pun berpikir bahwa anak-anak yang dibawa kapal perang mereka punya nama. Kalian tidak dibenci. Kalian tidak dilihat. Dan aku tidak akan berbohong bahwa ada alasan yang memaafkannya. Tidak ada. Yang ada hanya ini: aku memerintahkannya. Harganya kutanggung — sepuluh abad jadi segel. Tapi harga itu tidak pernah bisa dikembalikan kepada kalian, dan aku tahu persis bedanya antara menanggung harga dan membayar utang."
+"Mereka tidak berpikir apa-apa tentang kalian. Itu bagian paling buruk dari kebenarannya." Suara bocah tungku itu datar, tanpa pembelaan. "Hegemony mengajarkan panglima-panglimanya bahwa wilayah-wilayah pesisir adalah angka dalam logistik. Lima orang itu mencintai sahabat mereka dengan cinta yang membuat lagu — dan tidak pernah sekali pun berpikir bahwa anak-anak yang dibawa kapal perang mereka punya nama. Kalian tidak dibenci. Kalian tidak dilihat. Dan aku tidak akan berbohong bahwa ada alasan yang memaafkannya. Tidak ada. Yang ada hanya ini: aku memerintahkannya. Harganya kutanggung — sepuluh abad jadi segel. Namun harga itu tidak pernah bisa dikembalikan kepada kalian, dan aku tahu persis bedanya antara menanggung harga dan membayar utang."
 
 Ia berdiri, dan memberi hormat dua ketukan di dada — hormat dapur, hormat yang di Karvess hanya diberikan kepada yang melayani:
 
@@ -77,12 +77,12 @@ Satu lampiran kecil untuk laporan misi, ditulis Barim dari kamp kedua tempat ia 
 
 *"Maksudnya?" tanyaku.*
 
-*"Suara orang-orang yang saling sayang," katanya. "Seribu tahun kami dilarang menganggap mereka manusia. Dan mereka juga dilarang menganggap kami manusia. Dua sisi sama-sama dilucuti kemanusiaannya oleh satu sistem." Dia membuka matanya. "Aku masih marah. Jangan salah paham. Marahku tidak hilang karena lagu. Tapi malam ini aku bisa marah sambil tahu bahwa musuh nenekku punya istri yang menyanyinya pulang. Itu... beda rasanya dengan marah versi lama. Lebih berat. Dan lebih benar."*
+*"Suara orang-orang yang saling sayang," katanya. "Seribu tahun kami dilarang menganggap mereka manusia. Dan mereka juga dilarang menganggap kami manusia. Dua sisi sama-sama dilucuti kemanusiaannya oleh satu sistem." Dia membuka matanya. "Aku masih marah. Jangan salah paham. Marahku tidak hilang karena lagu. Namun malam ini aku bisa marah sambil tahu bahwa musuh nenekku punya istri yang menyanyinya pulang. Itu... beda rasanya dengan marah versi lama. Lebih berat. Dan lebih benar."*
 
-*Ia minta pesannya disampaikan ke Caldrest: "Katakan pada raja itu, utangnya belum lunas dan tidak akan pernah lunas. Tapi katakan juga: mulai hari ini kami mau dia hadir tiap Hari Utara. Duduk bersama kami. Karena kalau dua kebenaran sudah duduk di meja yang sama, makan malam selalu lebih benar daripada pidato."*
+*Ia minta pesannya disampaikan ke Caldrest: "Katakan pada raja itu, utangnya belum lunas dan tidak akan pernah lunas. Namun katakan juga: mulai hari ini kami mau dia hadir tiap Hari Utara. Duduk bersama kami. Karena kalau dua kebenaran sudah duduk di meja yang sama, makan malam selalu lebih benar daripada pidato."*
 ---
 
-Dan satu entri terakhir untuk bab hari ini — bukan dari laporan, tapi dari arsip pribadi Ashvarok-Renn yang oleh Sela dibiarkan masuk ke arsip resmi tanpa diedit, karena aturan Rak Semua Versi berlaku juga untuk penulisnya:
+Dan satu entri terakhir untuk bab hari ini — bukan dari laporan, tetapi dari arsip pribadi Ashvarok-Renn yang oleh Sela dibiarkan masuk ke arsip resmi tanpa diedit, karena aturan Rak Semua Versi berlaku juga untuk penulisnya:
 
 *Aku sudah seribu tahun mengira harga terberat dari Pembakaran Namaku adalah kesepian.*
 

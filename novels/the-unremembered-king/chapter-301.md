@@ -17,7 +17,7 @@ Ia menulis pelan. Huruf rapi, tidak terburu.
 
 Ia berhenti sejenak. Kalimat penutup terasa terlalu terang, maka ia biarkan yang sebelumnya: seorang kakek di selatan yang masih ingat lorong. Ossian akan mengerti tanpa nama. Ossian selalu mengerti tanpa nama.
 
-Maera yang akan membaca kain itu pertama. Maera tahu siapa penulisnya; gerbang yang ia jaga ia jaga dari dua arah. Ia tidak mengirim kabar ke Dewan tanpa alasan. Itu kelebihannya, dan itu pula yang membuat surat ini boleh lewat tangannya.
+Maera yang akan membaca kain itu pertama. Maera tahu siapa penulisnya; gerbang yang ia jaga ia jaga dari dua arah. Ia tidak mengirim kabar ke Dewan tanpa alasan. Itu kelebihannya — dan itu pula yang membuat surat ini boleh lewat tangannya.
 
 Ashvarok-Renn melipat kain, menyerahkannya ke Sela.
 
@@ -77,9 +77,9 @@ Mereka diam. Di luar, angin bertukar arah; bau rumput kering dari lembah utara t
 
 Ashvarok-Renn berdiri. Ia berjalan ke rak, mengambil buku anomali, membuka ke halaman pertama. Di sana tersimpan baris pembuka delapan belas tahun silam: *Tiga detik. Ia muncul tanpa musim, tidak punya rumah di dalam hitungan dunia.*
 
-Ia menatap kata *rumah.* Dunia ini dihitung dengan musim. Hujan, panen, masa sepi, masa ramai. Tiap bilangan punya tempat. Irama ini tidak. Ia datang sendiri, berhenti, lalu datang lagi, seolah ada yang menghitung tanpa memperhitungkan musim orang-orang.
+Ia menatap kata *rumah.* Dunia ini dihitung dengan musim. Hujan, panen, masa sepi, masa ramai. Tiap bilangan punya tempat. Irama ini tidak. Ia datang sendiri, berhenti, lalu datang lagi — seolah ada yang menghitung tanpa memperhitungkan musim orang-orang.
 
-Itu yang membuatnya menakutkan, dan itu pula yang membuatnya tenang. Sesuatu yang tidak punya musim tidak bisa dikalahkan dengan musim. Tidak bisa ditunggu hingga pergi. Ia akan ada selama dunia ada.
+Itu yang membuatnya menakutkan — dan itu pula yang membuatnya tenang. Sesuatu yang tidak punya musim tidak bisa dikalahkan dengan musim. Tidak bisa ditunggu hingga pergi. Ia akan ada selama dunia ada.
 
 "Kita tidak akan membunuhnya," kata Ashvarok-Renn pada Kovan. "Kita akan menghitungnya sampai kita tahu nadanya."
 
@@ -133,7 +133,7 @@ Di lembah, angin bertukar arah lagi. Di menara utara, surat itu belum tiba. Di b
 
 Belum ada yang memberi nama pada yang berdetak. Nama adalah hak milik, dan yang berdetak belum layak dimiliki siapa pun. Maka ia dibiarkan sebagai bilangan, sebagai kehadiran, sebagai sesuatu yang tidak punya musim.
 
-Ashvarok-Renn memejam. Dalam gelap tipis di balik kelopak mata, benang panjang membentang dari lantai barak ke utara, ke Spire, ke tempat lima panglimanya gugur. Benang itu tidak putus. Tetapi ujungnya di sana makin tipis, dan ia yang harus tahu kapan tali itu habis — bukan dengan turun, melainkan dengan menghitung.
+Ashvarok-Renn memejam. Dalam gelap tipis di balik kelopak mata, benang panjang membentang dari lantai barak ke utara, ke Spire, ke tempat lima panglimanya gugur. Benang itu tidak putus. Tetapi ujungnya di sana makin tipis, dan ia yang harus tahu kapan tali itu habis — bukan dengan turun — melainkan dengan menghitung.
 
 Retakan di bawah lantai berdenyut pelan, tertutup Forge tipis. Ia menunggu satu hal yang Ashvarok-Renn juga tunggu: siapa yang menghitung lebih dulu.
 

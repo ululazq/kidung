@@ -11,7 +11,7 @@ Tengah hari, utusan Koordinasi datang membawa kabar bahwa Tharrow sudah menyiapk
 
 ---
 
-Audiensi tanda tangan berlangsung di ruang bekerja wali kota pada jam empat sore — jam yang dipilih Hale sendiri, karena pada jam itu gedung balai kota hampir kosong dan tidak ada yang perlu pura-pura tidak melihat.
+Audiensi tanda tangan berlangsung di ruang kerja wali kota pada jam empat sore — jam yang dipilih Hale sendiri, karena pada jam itu gedung balai kota hampir kosong dan tidak ada yang perlu pura-pura tidak melihat.
 
 Corvan Hale menyambutnya ramah seperti biasa, hangat dan agak gemuk, dengan teh dingin di atas meja dan tumpukan berkas lain yang sengaja dibiarkan tampak agar audiensi ini kelihatan seperti salah satu dari banyak urusan. Di dinding belakang bergantung potret wali-wali kota sebelumnya; milik Hale sendiri belum digantung, dan Ossian pernah berpikir bahwa lelaki itu sengaja menunda, seolah potret yang menggantung adalah jabatan yang sudah selesai.
 
@@ -21,7 +21,7 @@ Corvan Hale menyambutnya ramah seperti biasa, hangat dan agak gemuk, dengan teh 
 
 "Dapat diperpanjang." Wali kota itu mengulanginya perlahan, seperti orang mencicipi sesuatu yang tidak yakin manis atau pahit. "Tuan Vael, saya lahir di distrik timur. Saya tahu apa yang terjadi pada sebuah distrik setelah empat puluh hari kosong. Pipa-pipanya pecah. Atapnya dicuri. Setelah itu tidak ada yang kembali, sekalipun izinnya habis."
 
-"Penduduk tidak akan dibiarkan tanpa perlindungan. Dana pemulihan sudah tersusun, santunan dinaikkan, pos-pos penempatan bekerja disiapkan dengan persetujuan Anda sendiri."
+"Penduduk tidak akan dibiarkan tanpa perlindungan. Dana pemulihan sudah tersusun, santunan dinaikkan, pos-pos penempatan kerja disiapkan dengan persetujuan Anda sendiri."
 
 "Hm." Hale meletakkan cangkirnya. Dan kemudian, sebagaimana selalu terjadi ketika lelaki itu mencoba terdengar teguh, tangan kanan Corvan Hale mulai gemetar — pelan dan sopan, tepat ketika ia berpura-pura keras kepala. Ia menyandarkan tangannya ke tepi meja seolah sekadar istirahat. "Maka saya minta satu hal. Kata 'sementara' harus tertulis keras dalam surat ini. Bukan tersirat, bukan dalam penjelasan lisan. Kalau suatu hari ada orang lain mengutip surat ini, saya ingin kalimatnya tidak bisa dimiliki oleh makna orang lain."
 
@@ -49,7 +49,7 @@ Tharrow memikirkannya sungguh-sungguh, dan itu juga jawaban yang diajari — per
 
 "Dokumen seperti itu tidak ada," kata Ossian.
 
-"Saya juga pikir begitu, Tuan. Tapi barak barusan mendapat mandor yang mengajari mereka bahwa ada harga untuk segala sesuatu — termasuk untuk menolak." Tharrow menunduk sedikit, sopan sampai akhir. "Kalau izin sudah efektif, saya mulai buka antrean besok lusa."
+"Saya juga pikir begitu, Tuan. Namun barak barusan mendapat mandor yang mengajari mereka bahwa ada harga untuk segala sesuatu — termasuk untuk menolak." Tharrow menunduk sedikit, sopan sampai akhir. "Kalau izin sudah efektif, saya mulai buka antrean besok lusa."
 
 Malam itu, di penginapan distrik atas, mesin pemindahan berjalan di sekeliling Ossian tanpa perlu digerakkan.
 

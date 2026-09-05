@@ -109,7 +109,7 @@ Dan bab ditutup dengan satu kalimat dari Sela — arsiparis muda yang baru pulan
 
 "Kak Raja. Delapan bulan silam, kamu pikir kamu yang datang ke tubuh Renn.
 
-Tapi arsip ini bilang: jejak resonansimu sudah ada di tungku barak itu SEBELUM runtuhan lorong sembilan.
+Namun arsip ini bilang: jejak resonansimu sudah ada di tungku barak itu SEBELUM runtuhan lorong sembilan.
 
 Maka pertanyaannya bukan lagi 'bagaimana kamu masuk ke tubuh Renn'.
 
@@ -175,7 +175,7 @@ Hari ini arsip bilang: ada yang MEMANGGIL.
 
 Dan untuk pertama kalinya... aku takut tahu jawabannya.
 
-Tapi keluargaku di sini. Maka kita cari bersama.
+Namun keluargaku di sini. Maka kita cari bersama.
 
 Dan ketika subuh datang — keluarga the Quiet Vein bersiap untuk perjalanan pertama mereka bersama-sama:
 
@@ -201,7 +201,7 @@ Dan satu baris penutup dari nat lorong barak utara — untuk keluarganya yang ak
 
 "PERGI LAH. AKU MENJAGA RUMAH.
 
-DAN KALIAN TAU ATURANNYA:
+DAN KALIAN TAHU ATURANNYA:
 
 PULANG SEBELUM SUP DINGIN."
 
@@ -221,7 +221,7 @@ Jawaban nat aula — diterjemahkan Sela dengan seluruh ilmu barunya:
 
 "AKU TIDAK TAHU SIAPA.
 
-TAPI AKU TAHU BENTUKNYA:
+NAMUN AKU TAHU BENTUKNYA:
 
 PANGGILAN ITU BUKAN DARI NAT. BUKAN DARI MANUSIA.
 
@@ -249,7 +249,7 @@ Sedih anak muda..."
 
 Sunyi.
 
-"...itu anak yang delapan bulan didengar batu tapi tidak pernah bisa bicara balik."
+"...itu anak yang delapan bulan didengar batu tetapi tidak pernah bisa bicara balik."
 
 Sela menutup buku catatannya.
 
@@ -262,7 +262,7 @@ Dan mungkin... dia yang memanggilmu ke tubuh Renn."
 
 Dan satu baris penutup dari ibu Tamma — yang mendengar semuanya dari dapur dan keluar membawa nampan:
 
-"Kalau memang ada makhluk di gunung yang sudah nunggu delapan ratus tahun untuk didengar...
+"Kalau memang ada makhluk di gunung yang sudah menunggu delapan ratus tahun untuk didengar...
 
 maka kalian bertiga berangkat BESOK PAGI.
 
@@ -280,7 +280,7 @@ Dan satu baris penutup terakhir dari Sela — untuk arsip keluarga:
 2. Keluarga the Quiet Vein berangkat ke Vel-Morra besok pagi — misi pertama bersama.
 3. Ibu Tamma menyiapkan sup untuk dibawa.
 
-Dan satu hal yang tidak masuk protokol tapi penting:
+Dan satu hal yang tidak masuk protokol tetapi penting:
 
 Untuk pertama kalinya dalam 256 bab... aku, Kak Raja, dan Kak Renn akan menghadapi sesuatu BERSAMA-sama. Bukan bergantian. Bukan satu menjaga yang lain.
 

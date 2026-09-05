@@ -3,9 +3,9 @@ title: "Bab 33: Dua Pembaca"
 chapter: 33
 ---
 
-Malam hari ketiga puluh sembilan, ruang bekerja Guild di Caldrest hanya menyala oleh satu lampu minyak dan bara cerobong yang tinggal separuh. Maera Tull duduk di mejanya dengan lembar tawaran yang sudah dilipat empat, kotak timbung mini terbuka di sebelah kirinya, dan dua bobot referensi yang tidak ia gunakan sama sekali. Barang yang sedang ia timbang malam itu bukan barang. Barang yang sedang ia timbang bernama jabatan.
+Malam hari ketiga puluh sembilan, ruang kerja Guild di Caldrest hanya menyala oleh satu lampu minyak dan bara cerobong yang tinggal separuh. Maera Tull duduk di mejanya dengan lembar tawaran yang sudah dilipat empat, kotak timbung mini terbuka di sebelah kirinya, dan dua bobot referensi yang tidak ia gunakan sama sekali. Barang yang sedang ia timbang malam itu bukan barang. Barang yang sedang ia timbang bernama jabatan.
 
-Pertanyaannya sederhana, dan karena sederhana ia menolak mengjawabnya cepat: apakah posisi pembanding internal adalah perangkap?
+Pertanyaannya sederhana, dan karena sederhana ia menolak menjawabnya cepat: apakah posisi pembanding internal adalah perangkap?
 
 Ia membaca ulang pasal-pasalnya untuk kali keenam, baris demi baris, dengan mata yang bergerak menghitung dari kiri ke kanan lalu berhenti pada titik-titik yang sama. Pasal kepemilikan. Semua catatan yang dihasilkan selama masa kontrak menjadi dokumen prosedur Koordinasi Artefak Regional. Kontrak hanya mengambil masa depan. Kalimat itu ditulis oleh orang yang sangat mahir, dan orang yang sangat mahir tidak menulis kalimat secantik itu tanpa alasan. Masa depannya akan menjadi milik Tuan Vael, lembar demi lembar, pembacaan demi pembacaan.
 
@@ -15,7 +15,7 @@ Ia bangkit, mengambil air teh yang sudah dingin, dan membiarkan dinginnya naik d
 
 Kalau ia menolak, siapa yang berdiri di antara mesin itu dan orang yang tak bernama?
 
-Tidak ada seorang pun.
+*Tidak ada seorang pun.* Jawaban itu datang tanpa diminta, dan dinginnya lebih dingin daripada teh di gelasnya.
 
 Jawaban itu sudah ia miliki sejak malam pertama, sebenarnya. Tujuh hari pertimbangan hanyalah waktu yang ia beli untuk memastikan bahwa keputusan ini bisa dibuat rapi, bukan bisa dibuat. Ia mengeluarkan kertas jawaban resmi dari laci, mencelupkan pena, dan menulis dengan huruf tegak khas Guild — bahwa Assayer Maera Tull menerima posisi pembanding internal atas anomali L9B sesuai lembar tawaran tertanggal, dengan dua pencatatan prosedur — bahwa seluruh catatan yang dibuat sebelum tanggal kontrak tetap menjadi milik pribadinya sesuai bunyi pasal, dan bahwa ia akan melapor kepada prosedur kontrak, bukan kepada orang.
 
@@ -35,7 +35,7 @@ Sepanjang jalan menuju pasar, ia menghitung ulang peta pengawasan yang baru saja
 
 Ada satu jalur yang tersisa, dan jalur itu sudah menjadi miliknya sejak kesepakatan triwulanan: penilaian rutin barang dagangan melalui Vosk, untuk klien anonim yang dalam buku besar penengah itu hanya bernama technical reader.
 
-Hari ini jatuh pada tanggal penilaian triwulan. Kebetulan seperti itu tidak pernah ia percayai sebagai kebetulan. Tapi hari ini, untuk pertama kalinya, ia bersyukur padanya.
+Hari ini jatuh pada tanggal penilaian triwulan. Kebetulan seperti itu tidak pernah ia percayai sebagai kebetulan. Namun hari ini, untuk pertama kalinya, ia bersyukur padanya.
 
 ---
 
@@ -49,11 +49,11 @@ Pasar cinder-glass sore itu berbunyi seperti biasanya: gemerisik keping shardmar
 
 Maera mengambil fragmen pertama dan memegangnya di telapak tangan, membiarkan dingin kaca-batu itu bicara lebih dulu. "Berapa harganya?"
 
-"Dua puluh shardmark, dari orang yang tidak menyebut nama tapi memakai jubah yang dijahit rapi." Vosk menggeleng pelan pada ingatannya sendiri. "Kukatakan padanya: potongan delapan persen tidak membeli isi catatan. Hanya membeli lewatnya."
+"Dua puluh shardmark, dari orang yang tidak menyebut nama tetapi memakai jubah yang dijahit rapi." Vosk menggeleng pelan pada ingatannya sendiri. "Kukatakan padanya: potongan delapan persen tidak membeli isi catatan. Hanya membeli lewatnya."
 
 "Dan kalau nanti ada yang menawarimu empat puluh?"
 
-"Maka harganya naik." Lelaki itu mengetukkan jarinya di meja, tiga kali, pelan. "Tapi bukan itu yang kau tanyakan sebenarnya, kan?"
+"Maka harganya naik." Lelaki itu mengetukkan jarinya di meja, tiga kali, pelan. "Namun bukan itu yang kau tanyakan sebenarnya, kan?"
 
 Pertanyaan itu menggantung di antara mereka seperti uap dari cerobong. Maera menimbang fragmen kedua, mencatat angka, dan menjawab tanpa mengangkat kepala. "Yang kutanyakan: kalau ada yang membaca buku besarmu, apa yang akan mereka temukan malam ini?"
 
@@ -69,11 +69,11 @@ Penilaian berjalan sebagaimana penilaian harus berjalan: telapak yang membaca di
 
 Ia menulis catatan pembacaan di lembar resmi, kalimat demi kalimat yang bagi telinga pasar hanyalah kehati-hatian seorang Assayer yang rajin:
 
-"Lot pertama, dua fragmen resonant seam kelas empat: gema dangkal, tanpa kedalaman yang layak dicatat. Catatan pembacaan: barang kelas ini hanya memberi angka benar bila dibaca pada radius bekerja penuh, lima puluh hasta. Pada radius pendek, ia bersikap seperti batu biasa."
+> Lot pertama, dua fragmen resonant seam kelas empat: gema dangkal, tanpa kedalaman yang layak dicatat. Catatan pembacaan: barang kelas ini hanya memberi angka benar bila dibaca pada radius kerja penuh, lima puluh hasta. Pada radius pendek, ia bersikap seperti batu biasa.
 
-"Lot kedua, satu tempaan kecil sisa konsinyasi: struktur sehat, patung wajar, nilai pasar stabil. Catatan penyimpanan: sesuai praktik tiap kalender survei, barang bergema disarankan tidak berada di dalam zona penilaian resmi selama survei berjalan. Kalender survei musim ini mencakup dua belas titik ukur dan turun perdana pada hari keempat puluh lima."
+> Lot kedua, satu tempaan kecil sisa konsinyasi: struktur sehat, patina wajar, nilai pasar stabil. Catatan penyimpanan: sesuai praktik tiap kalender survei, barang bergema disarankan tidak berada di dalam zona penilaian resmi selama survei berjalan. Kalender survei musim ini mencakup dua belas titik ukur dan turun perdana pada hari keempat puluh lima.
 
-"Lot ketiga: tidak ada barang. Catatan untuk lot kosong — setiap gema yang bukan milik barang akan tercatat sebagai milik barang. Bersihkan lot sebelum tanggal pembacaan."
+> Lot ketiga: tidak ada barang. Catatan untuk lot kosong — setiap gema yang bukan milik barang akan tercatat sebagai milik barang. Bersihkan lot sebelum tanggal pembacaan.
 
 Ia membacanya sekali lagi dari luar, dengan mata pembaca yang tidak tahu apa-apa, dan menemukan catatan itu bersih: nasihat penyimpanan yang lazim, angka-angka yang bisa diverifikasi, bahasa Guild dari atas sampai bawah. Lalu ia membacanya dari dalam, sebagai technical reader, dan menemukan pesan itu berdiri utuh di antara baris-barisnya seperti rangka di dalam tubuh. Survei resmi akan turun. Dua belas titik ukur. Hari keempat puluh lima. Instrumen resmi membaca pada radius lima puluh hasta. Dan lot ketiga — lot yang tidak berisi apa-apa kecuali peringatan — jangan ada gema asing di dalam saat tanggal itu.
 
@@ -91,7 +91,7 @@ Tujuh hari pertimbangannya sudah habis dalam empat hari, dan sisanya ia pakai un
 
 "Kirim angka finalnya lewat saluran yang sama."
 
-"Selalu lewat saluran yang sama." Vosk menutup buku besar kulit itu, menimpanya dengan tumpukan konsinyasi, dan menepuk tutupnya dua kali seperti menepuk punggung kuda tua yang sudah sering menyeberangi sungai yang sama. "Buku ini bosan, Assayer. Tapi bosan itu aman. Kutulis di mukanya: tidak ada yang menarik di sini."
+"Selalu lewat saluran yang sama." Vosk menutup buku besar kulit itu, menimpanya dengan tumpukan konsinyasi, dan menepuk tutupnya dua kali seperti menepuk punggung kuda tua yang sudah sering menyeberangi sungai yang sama. "Buku ini bosan, Assayer. Namun bosan itu aman. Kutulis di mukanya: tidak ada yang menarik di sini."
 
 ---
 

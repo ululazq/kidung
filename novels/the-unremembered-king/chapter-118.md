@@ -7,9 +7,9 @@ Hari keseratus enam puluh lima Ashvarok habiskan dengan memikirkan satu kalimat 
 
 Sudut pertama adalah sudut penjaga. Gema asing yang tertulis di arsip adalah gema yang bisa diburu. Selama dua deret angka Kovan hidup hanya di dalam sandi pribadinya, dunia punya satu rahasia kurang. Begitu angka itu masuk laporan mana pun, setiap mata yang lapar akan tahu bahwa di Caldrest ada sesuatu yang tidak terklasifikasi, dan mata yang lapar tidak pernah datang sendirian.
 
-Sudut kedua adalah sudut tubuh. Ia sudah lelah menambal celah satu demi satu dengan membayar dari dirinya sendiri. Setiap bulan nat tua membuka mulut baru, setiap penambalan menagih potongan the Remainder, dan sumber utamanya tetap duduk di dalam aula di tempatan yang tidak boleh didorong tangannya sendirian. Perlawanan yang selalu ia pakai adalah kebohongan struktur, yaitu membuat dunia membaca tambang ini lebih membosankan daripada kenyataannya. Kebohongan itu mahal, karena harus dipelihara seperti lapisan dais, disentuh ulang, dijaga jadwalnya, dan tetap saja bocor dari sisi yang tidak terduga.
+Sudut kedua adalah sudut tubuh. Ia sudah lelah menambal celah satu demi satu dengan membayar dari dirinya sendiri. Setiap bulan nat tua membuka mulut baru, setiap penambalan menagih potongan the Remainder, dan sumber utamanya tetap duduk di dalam aula di tempatan yang tidak boleh didorong tangannya sendirian. Perlawanan yang selalu ia pakai adalah kebohongan struktur — yaitu membuat dunia membaca tambang ini lebih membosankan daripada kenyataannya. Kebohongan itu mahal, karena harus dipelihara seperti lapisan dais, disentuh ulang, dijaga jadwalnya, dan tetap saja bocor dari sisi yang tidak terduga.
 
-Sudut ketiga baru datang pada sore harinya, lewat dapur barak dan cerita-cerita jujur yang selalu menemukan jalurnya turun ke kedalaman, dan sudut itu berkata sesuatu yang belum pernah ia pikirkan dalam seribu tahun. Mungkin ada jenis kebohongan yang tidak menyembunyikan apa pun, melainkan menyalakan lampu di tempat yang salah.
+Sudut ketiga baru datang pada sore harinya, lewat dapur barak dan cerita-cerita jujur yang selalu menemukan jalurnya turun ke kedalaman, dan sudut itu berkata sesuatu yang belum pernah ia pikirkan dalam seribu tahun. Mungkin ada jenis kebohongan yang tidak menyembunyikan apa pun — melainkan menyalakan lampu di tempat yang salah.
 
 ---
 
@@ -49,11 +49,11 @@ Ashvarok menjelaskan syarat-syarat itu pelan-pelan, satu per satu, dan Sela menc
 
 Gudang itu hening beberapa tarikan napas.
 
-"Jadi kau mau jadi bayangan sendiri," kata Brannoc akhirnya. "Bukan menghilang dari cahaya, tapi jadi sesuatu yang menyala supaya orang lain menoleh ke arahmu dan tidak ke mana-mana lagi."
+"Jadi kau mau jadi bayangan sendiri," kata Brannoc akhirnya. "Bukan menghilang dari cahaya, tetapi jadi sesuatu yang menyala supaya orang lain menoleh ke arahmu dan tidak ke mana-mana lagi."
 
 "Iya."
 
-"Niatmu baik, dan rencanamu masuk akal." Mandor itu membuang ujung akar pahitnya dan berdiri. "Tapi ingat satu hal. Bayangan yang menyala tetap bayangan. Orang-orang yang mengira mereka menatapmu sedang menatap sesuatu yang kau buat, dan suatu hari ada yang akan datang menyentuhnya untuk memastikan. Pastikan saat tangan itu datang, yang disentuhnya hanya lempeng Kovan dan dua deret angka yang memang tidak bercerita. Jangan sampai yang disentuh itu badanmu."
+"Niatmu baik, dan rencanamu masuk akal." Mandor itu membuang ujung akar pahitnya dan berdiri. "Namun ingat satu hal. Bayangan yang menyala tetap bayangan. Orang-orang yang mengira mereka menatapmu sedang menatap sesuatu yang kau buat, dan suatu hari ada yang akan datang menyentuhnya untuk memastikan. Pastikan saat tangan itu datang, yang disentuhnya hanya lempeng Kovan dan dua deret angka yang memang tidak bercerita. Jangan sampai yang disentuh itu badanmu."
 
 "Syaratku sama dengan syaratmu dulu," kata Sela tanpa mendongak, dan ia menambahkan garis ketiga di bawah kata izin. "Sebelum kamu jawab ya ke dia, jam pasirku dicek dulu. Kolom NAMA juga. Kalau rencana ini nanti butuh bayaran, aku mau tahu duluan, bukan belakangan."
 
@@ -79,4 +79,4 @@ Kovan memutar keping cinder-glass itu di telapak tangannya sekali, lalu menyelip
 
 "Pengingat kesepakatan. Batu tidak bisa dibohongi, dan kau percaya doktrin itu." Ashvarok sudah berbalik menuju persimpangan ketika ia mengucapkan kalimat pamitnya, sehingga kalimat itu jatuh ke punggung Kovan seperti surat yang dilempar tanpa amplop. "Tulis dengan benar, Penjaga Shift. Buat kalimatmu cukup membosankan untuk pegawai dan cukup menakutkan untuk pencuri."
 
-Langkah Kovan terdengar berhenti sebentar di belakangnya, lalu berjalan lagi, lebih cepat dari sebelumnya, dan Ashvarok naik ke permukaan malam itu dengan langkah yang tidak terhitung sama sekali. Di ambang stasiun angkut, tempat udara tambang berganti udara lereng, ia berhenti dan menoleh ke bawah satu kali. Jauh di kedalaman, di lorong yang tidak terlihat dari sini, sebuah rekaman kecil sedang bersiap menjadi senjata yang tidak dimiliki siapa pun, sebuah bayangan yang akan menyala di atas kertas resmi kerajaan kecil orang asing, dan untuk pertama kalinya dalam dua masa hidupnya Ashvarok sengaja membiarkan jejaknya hidup, bukan karena gagal menyembunyikannya, melainkan karena ia menyalakannya sendiri, mengarahkan apinya ke tempat yang salah, dan berharap semua mata yang lapar akan menatap nyala itu alih-alih menatap anak-anak yang tidur di blok timur.
+Langkah Kovan terdengar berhenti sebentar di belakangnya, lalu berjalan lagi, lebih cepat dari sebelumnya, dan Ashvarok naik ke permukaan malam itu dengan langkah yang tidak terhitung sama sekali. Di ambang stasiun angkut, tempat udara tambang berganti udara lereng, ia berhenti dan menoleh ke bawah satu kali. Jauh di kedalaman, di lorong yang tidak terlihat dari sini, sebuah rekaman kecil sedang bersiap menjadi senjata yang tidak dimiliki siapa pun, sebuah bayangan yang akan menyala di atas kertas resmi kerajaan kecil orang asing, dan untuk pertama kalinya dalam dua masa hidupnya Ashvarok sengaja membiarkan jejaknya hidup — bukan karena gagal menyembunyikannya — melainkan karena ia menyalakannya sendiri, mengarahkan apinya ke tempat yang salah, dan berharap semua mata yang lapar akan menatap nyala itu alih-alih menatap anak-anak yang tidur di blok timur.

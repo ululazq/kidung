@@ -9,7 +9,7 @@ Hanya dengan satu permintaan yang ia tulis di kertas dan letakkan di depan api p
 
 "KAK UTHAR. AKU MAU BELAJAR SATU HAL DARIMU.
 
-DELAPAN BULAN SILANG AKU MELIHAT SEKOLAH INI MENYELAMATKAN ORANG. DAN KAK RAJA MENJAGA DUNIA SERIBU TAHUN. TAPI AKU MASIH BINGUNG CARA MENDENGARKAN ORANG TANPA IKUT CAMPUR.
+DELAPAN BULAN SILANG AKU MELIHAT SEKOLAH INI MENYELAMATKAN ORANG. DAN KAK RAJA MENJAGA DUNIA SERIBU TAHUN. NAMUN AKU MASIH BINGUNG CARA MENDENGARKAN ORANG TANPA IKUT CAMPUR.
 
 SETIAP KALI SELA SEDIH, AKU MAU LANGSUNG MEMPERBAIKINYA. SETIAP KALI ADA YANG BERSITEGANG, AKU MAU LANGSUNG MENGHAKIMI.
 
@@ -25,7 +25,7 @@ Api purba menyala lama sebelum menjawab — dan jawabannya, oleh nat aula yang m
 
 KAU TANYA CARANYA.
 
-TAPI JAWABANNYA BUKAN CARA. JAWABANNYA PENERIMAAN."
+NAMUN JAWABANNYA BUKAN CARA. JAWABANNYA PENERIMAAN."
 
 Jeda panjang.
 
@@ -35,7 +35,7 @@ AWALNYA AKU PIKIR ITU KELEM AHAN."
 
 Irama berikutnya lebih dalam:
 
-"TAPI LAMA-KELAMAAN AKU PAHAM: MENDENGARKAN TANPA IKUT CAMPUR BUKAN BERARTI TIDAK PEDULI.
+"NAMUN LAMA-KELAMAAN AKU PAHAM: MENDENGARKAN TANPA IKUT CAMPUR BUKAN BERARTI TIDAK PEDULI.
 
 "ITU BERARTI: MEMPERCAYAI ORANG LAIN BISA MEMPERBAIKI DIRINYA SENDIRI."
 
@@ -45,7 +45,7 @@ Renn duduk lama di depan api itu.
 
 Lalu berkata — suaranya kecil:
 
-"Tapi kalau Sela sedih... dan aku hanya duduk mendengarkan tanpa memperbaiki... itu rasanya seperti gagal."
+"Namun kalau Sela sedih... dan aku hanya duduk mendengarkan tanpa memperbaiki... itu rasanya seperti gagal."
 
 Dan jawaban Kael-Uthar — yang oleh nat aula diteruskan sampai ke arsip, karena terlalu penting untuk tidak:
 
@@ -73,7 +73,7 @@ Jawaban api purba itu oleh nat aula diteruskan ke seluruh jaringan batu Karvess 
 
 "AKU JADI GILA, ANAKKU. BERKALI-KALI.
 
-TAPI SETIAP KALI AKU HAMPIR RUSAK, ADA SAJA SATU ORANG YANG DATANG DAN MENYAPAKU.
+NAMUN SETIAP KALI AKU HAMPIR RUSAK, ADA SAJA SATU ORANG YANG DATANG DAN MENYAPAKU.
 
 SATU ANAK KECIL DENGAN ROTI MANIS. SATU IBU DENGAN DOA. SATU PENGGEMBALA YANG TIDAK PERNAH PAHAM KENAPA KAMBINGNYA MENOLAK DEKATKAN KE AKU.
 
@@ -97,7 +97,7 @@ Renn pulang malam itu dengan satu hal yang ia tulis di jurnalnya — jurnal yang
 
 Dan satu hal lagi yang tidak kutulis di neraca resmi:
 
-Kak Uthar delapan ratus tahun 'gila berkali-kali' tapi tidak pernah rusak.
+Kak Uthar delapan ratus tahun 'gila berkali-kali' tetapi tidak pernah rusak.
 
 Karena ada saja orang yang menyapanya tanpa tahu mereka menyelamatkannya.
 
@@ -113,7 +113,7 @@ Dan Ashvarok membaca jurnal itu — lalu menulis balasannya di bawah, untuk pert
 
 Aku baca jurnalmu. Maaf, hak penghuni bersama.
 
-Tapi aku mau tambahkan satu hal yang tidak kukatakan siapa pun selama seribu tahun:
+Namun aku mau tambahkan satu hal yang tidak kukatakan siapa pun selama seribu tahun:
 
 Delapan bulan silam, saat aku masuk ke tubuhmu dan dunia terasa asing... aku juga hampir gila. Sendirian di kepala orang lain, tanpa nama, tanpa kerajaan, tanpa siapa pun yang tahu.
 
@@ -155,7 +155,7 @@ Satu diletakkan di dekat api — "untuk Kak Uthar", katanya, meski api tidak min
 
 Ia menatap api purba yang menyala hangat.
 
-"...tapi karena teman baru layak diajak ngopi rutin."
+"...tetapi karena teman baru layak diajak minum kopi rutin."
 
 ---
 
@@ -234,7 +234,7 @@ Salah. Kamu nomor 11. Mulai sekarang."
 
 Dan Ashvarok-Renn menambahkan baris terakhir mereka:
 
-"Setuju nomor 11. Tapi dengan koreksi:
+"Setuju nomor 11. Namun dengan koreksi:
 
 Kamu bukan nomor 11.
 
@@ -248,7 +248,7 @@ Dan di bawahnya — satu baris terakhir dari ibu Tamma:
 
 "Dua-duanya benar.
 
-Tapi tetap sarapan dulu."
+Namun tetap sarapan dulu."
 
 ---
 
@@ -258,7 +258,7 @@ Dan satu penutup terakhir — dari Kael-Uthar, yang mendengar seluruh perdebatan
 
 NOMOR TIDAK PENTING. DAFTAR TIDAK PENTING.
 
-YANG PENTING: KALIAN SUDAH BELAJAR BAHWA DUNIA INI PENUH GURU — DAN SEMUA GURU PADA AKHIRNYA CUMA MENGAJAR SATU HAL YANG SAMA:
+YANG PENTING: KALIAN SUDAH BELAJAR BAHWA DUNIA INI PENUH GURU — DAN SEMUA GURU PADA AKHIRNYA HANYA MENGAJAR SATU HAL YANG SAMA:
 
 CARA MENJADI MANUSIA YANG BAIK.
 
@@ -292,7 +292,7 @@ Api purba menyala lebih hangat — irama tertawanya jelas.
 
 "ANAK ARSIP. AKHIRNYA."
 
-"Sudah setahun aku menulis semua cerita kalian tapi tidak pernah bicara langsung," kata Sela duduk. "Hari ini giliranku."
+"Sudah setahun aku menulis semua cerita kalian tetapi tidak pernah bicara langsung," kata Sela duduk. "Hari ini giliranku."
 
 Dan tiga makhluk itu — anak arsip, bocah tungku dengan raja di dalamnya, dan api purba — duduk bercerita sampai matahari tenggelam.
 
@@ -308,6 +308,6 @@ Dan satu baris terakhir — dari ibu Tamma, yang menutup semuanya:
 
 "Tiga anakku pulang larut malam dan kena marah.
 
-Tapi setelah itu aku kasih sup ekstra.
+Namun setelah itu aku beri sup ekstra.
 
 Karena belajar dari api purba sampai larut itu... boleh lah."

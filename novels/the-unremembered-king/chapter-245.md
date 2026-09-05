@@ -5,7 +5,7 @@ chapter: 245
 
 Satu tahun penuh sejak name train pertama menyapu lembah utara, Karvess merayakannya dengan cara yang sudah menjadi tradisi: PEMBACAAN TAHUNAN.
 
-Tapi tahun ini ada perbedaan besar — dan semua orang tahu itu bahkan sebelum acara dimulai.
+Namun tahun ini ada perbedaan besar — dan semua orang tahu itu bahkan sebelum acara dimulai.
 
 Karena tahun lalu, yang membacakan nama-nama dari nat pusat aula adalah Sela dan Ashvarok.
 
@@ -25,7 +25,7 @@ Ashvarok, dari dalam, berkata pelan yang hanya terdengar Renn:
 
 "...kamu baca pikiranku?"
 
-"Aku tinggal di kepalamu. Memang tugasuku."
+"Aku tinggal di kepalamu. Memang tugasku."
 
 ---
 
@@ -79,9 +79,9 @@ Dan di halaman paling akhir neraca tahunan, satu entri dari nat lorong barak uta
 
 "SETAHUN SILANG ADA ANAK YANG BICARA PADAKU PADAHAL DIA SENDIRI SEDANG MENGHUNI TUBUH TEMANNYA.
 
-DIA BILANG: 'MAKASIH SUDAH JADI JEMBATAN BUAT RENN.'
+DIA BILANG: 'TERIMA KASIH SUDAH JADI JEMBATAN UNTUK RENN.'
 
-AKU JAWAB: 'JEMBATAN TIDAK PERNAH SELESAI BEKERJA. DIA CUMA GANTI ARAH.'
+AKU JAWAB: 'JEMBATAN TIDAK PERNAH SELESAI BEKERJA. DIA HANYA GANTI ARAH.'
 
 SEKARANG AKU MENJEMBATANI KE ARAH YANG BARU:
 
@@ -123,7 +123,7 @@ Nat tua menjawab dengan irama panjang yang oleh Kovan (yang entah sejak kapan ad
 
 Irama berikutnya lebih kecil:
 
-"TAPI TAHUN INI KAU MENJADIKAN AKU JEMBATAN SEJARAH. TERIMA KASIH UNTUK ITU. DATANG LAGI BESOK. DAN LUSA. DAN SETERUSNYA."
+"NAMUN TAHUN INI KAU MENJADIKAN AKU JEMBATAN SEJARAH. TERIMA KASIH UNTUK ITU. DATANG LAGI BESOK. DAN LUSA. DAN SETERUSNYA."
 
 Ashvarok-Renn mengetuk meja nat itu tiga kali.
 
@@ -137,7 +137,7 @@ Dapur ibu Tamma berasap. Sekolah Mendengar membuka pintu. Nat-nat kecil disapa a
 
 Dan dua jiwa dalam satu tubuh berjalan di tengah semuanya — satu melihat dunia untuk pertama kalinya dengan mata penuh rasa ingin tahu, satu melihat dunia yang akhirnya menjadi rumah setelah seribu tahun menunggu.
 
-Renn: "Hari ini mau ngapain?"
+Renn: "Hari ini mau untuk apa?"
 
 Ashvarok: "Seperti biasa."
 
@@ -232,7 +232,7 @@ Tidak akan pernah. Karena menyapa bukan proyek. Menyapa adalah cara hidup.
 
 Subuh itu juga, sebelum menutup neraca selamanya, Ashvarok dan Renn melakukan hal yang sama seperti setahun silam — berjalan ke nat lorong barak utara.
 
-Tapi kali ini bukan untuk meminta.
+Namun kali ini bukan untuk meminta.
 
 Mereka datang membawa dua cangkir teh dingin. Satu untuk nat. Satu diletakkan di sisi kosong — "untuk siapa pun yang lewat dan butuh".
 

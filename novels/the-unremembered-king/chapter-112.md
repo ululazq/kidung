@@ -5,13 +5,13 @@ chapter: 112
 
 Auditor itu turun dari kereta pos Guild pada pagi hari keseratus lima puluh delapan, dan hal pertama yang dilakukannya di Caldrest adalah tidak datang ke Quota Office.
 
-Ossian Vael mengetahuinya pada jam sembilan, dari pegawai muda yang berlari setengah jalan dari stasiun angkut. Auditor mendaftar dirinya di pos Guild sebagai pihak pemeriksa eksternal, meminta ruang bekerja sewaan, dan menghabiskan jam-jam pertamanya membaca arsip komisi yang sah atas nama mandatnya, termasuk segala sesuatu yang pernah ditandatangani biro Koordinasi di kota ini. Baru pada sore hari, melalui surat satu lembar tanpa kop dan tanpa tanda tangan selain cap lembaga, auditor memberitahukan waktu sidangnya.
+Ossian Vael mengetahuinya pada jam sembilan, dari pegawai muda yang berlari setengah jalan dari stasiun angkut. Auditor mendaftar dirinya di pos Guild sebagai pihak pemeriksa eksternal, meminta ruang kerja sewaan, dan menghabiskan jam-jam pertamanya membaca arsip komisi yang sah atas nama mandatnya, termasuk segala sesuatu yang pernah ditandatangani biro Koordinasi di kota ini. Baru pada sore hari, melalui surat satu lembar tanpa kop dan tanpa tanda tangan selain cap lembaga, auditor memberitahukan waktu sidangnya.
 
 Keesokan paginya, Quota Office.
 
 ---
 
-Ruang bekerja pejabat Koordinasi disiapkan sepanjang malam oleh dua pegawai yang tidak diberi tahu untuk apa. Meja dipindah sehingga kursi tamu tidak lagi menghadap peta, melainkan menghadap jendela, karena Ossian mengingat dari masa lalunya bahwa orang yang diperiksa selalu merasa lebih aman bila yang memeriksa harus menoleh untuk melihat kertas. Juru tulis hadir dengan dua salinan kosong. Pegawai lain diminta menjalankan hari seperti biasa, dan mereka menjalankannya seperti biasa dengan cara yang sangat tidak biasa, yaitu terlalu tenang dan terlalu cepat.
+Ruang bekerja pejabat Koordinasi disiapkan sepanjang malam oleh dua pegawai yang tidak diberi tahu untuk apa. Meja dipindah sehingga kursi tamu tidak lagi menghadap peta — melainkan menghadap jendela, karena Ossian mengingat dari masa lalunya bahwa orang yang diperiksa selalu merasa lebih aman bila yang memeriksa harus menoleh untuk melihat kertas. Juru tulis hadir dengan dua salinan kosong. Pegawai lain diminta menjalankan hari seperti biasa, dan mereka menjalankannya seperti biasa dengan cara yang sangat tidak biasa — yaitu terlalu tenang dan terlalu cepat.
 
 Auditor masuk tepat pada jam yang tertulis, membawa satu kotak dokumen, dan tidak ada apa pun pada orang itu yang bisa dicatat. Usia yang sulit ditebak. Mantel abu yang tidak tua dan tidak baru. Suara yang tidak naik dan tidak turun. Wajah yang dibaca ribuan kali oleh Ossian dalam lima menit pertama dan menyerahkan tidak ada apa pun, seperti dinding tambang yang baik.
 
@@ -31,7 +31,7 @@ Juru tulis mencatat. Auditor mengambil lembar kedua, laporan keberadaan petugas 
 
 "Jaringan panen ilegal," kata auditor. "Berjalan bertahun-tahun. Bermuara ke kode biro Anda. Apa komentar biro?"
 
-Di titik ini, Ossian tahu, banyak orang akan membantah. Akan memisahkan diri dari kolom operasional, akan mengorbankan pegawai, akan menyebut kata penyalahgunaan wewenang bawahan. Semua jalan itu sudah ia hitung mati dalam dua malam. Membantah arsip panen berarti mengingkari gencatan senjata yang cicilannya telah dibayar lunas kepada Guild, dan arsip itu ada utuh di ruang bekerja Maera Tull, bertanda tangannya sendiri di daftar isinya. Membantah berarti menambahkan pemalsuan kedua di atas pengakuan pertama.
+Di titik ini, Ossian tahu, banyak orang akan membantah. Akan memisahkan diri dari kolom operasional, akan mengorbankan pegawai, akan menyebut kata penyalahgunaan wewenang bawahan. Semua jalan itu sudah ia hitung mati dalam dua malam. Membantah arsip panen berarti mengingkari gencatan senjata yang cicilannya telah dibayar lunas kepada Guild, dan arsip itu ada utuh di ruang kerja Maera Tull, bertanda tangannya sendiri di daftar isinya. Membantah berarti menambahkan pemalsuan kedua di atas pengakuan pertama.
 
 "Komentar biro adalah fakta," kata Ossian. "Panen ilegal itu nyata. Rantai bayarannya nyata. Sebagian jalurnya lahir dari meja ini sebelum saya pernah menginjak kota ini, dan sebagian yang lain lahir dari meja ini juga, dan saya tidak akan memilih mana yang lebih enak dikutip."
 
@@ -51,7 +51,7 @@ Dan di sinilah, tepat di tengah meja antara kotak dokumen dan cahaya jendela pag
 
 "Lalu?"
 
-"Lalu tinggal satu opsi yang belum pernah dicoba oleh institusi mana pun di era ini." Ossian menegakkan badannya sedikit, dan suaranya yang selama pagi bersih-prosedural itu mulai berubah menjadi sesuatu yang lain, sesuatu yang lebih tua dari jabatannya sendiri. "Segmen itu harus dijaga. Bukan dikarantina sementara oleh surat-surat yang kedaluwarsa, bukan diawasi triwulanan oleh laporan yang bisa disunting, tapi dijaga permanen oleh penjaga profesional yang paham bahwa barang yang dipegangnya tidak bernilai kalau diambil, dan justru bernilai paling besar kalau dibiarkan tidur. Testament bukan tambang. Testament adalah arsip yang lebih tua dari semua arsip di Spire, dan arsip tidak digali. Arsip dijaga."
+"Lalu tinggal satu opsi yang belum pernah dicoba oleh institusi mana pun di era ini." Ossian menegakkan badannya sedikit, dan suaranya yang selama pagi bersih-prosedural itu mulai berubah menjadi sesuatu yang lain, sesuatu yang lebih tua dari jabatannya sendiri. "Segmen itu harus dijaga. Bukan dikarantina sementara oleh surat-surat yang kedaluwarsa, bukan diawasi triwulanan oleh laporan yang bisa disunting, tetapi dijaga permanen oleh penjaga profesional yang paham bahwa barang yang dipegangnya tidak bernilai kalau diambil, dan justru bernilai paling besar kalau dibiarkan tidur. Testament bukan tambang. Testament adalah arsip yang lebih tua dari semua arsip di Spire, dan arsip tidak digali. Arsip dijaga."
 
 "Arsip dijaga oleh arsiparis," kata auditor. "Bukan oleh biro yang barusaja diperiksanya."
 
@@ -87,9 +87,12 @@ Auditor membuka pintu dan keluar, dan tidak menjawab kalimat itu sama sekali, ya
 
 Malamnya, di penginapan distrik atas, Ossian membuka buku pribadinya dan duduk di depan halaman kosong lebih lama dari biasanya.
 
-Selama dua tahun ia datang ke kota ini untuk membeli. Peta, izin, kontrak, kebenaran, dan akhirnya sepuluh tahun tenaga bekerja seribu penambang. Semua pembelian itu kini tertimbun di bawah satu kata yang ia tuliskan sendiri di atas meja kayu Quota Office, dan anehnya, untuk pertama kali sejak lama, hitungannya tidak terasa berkurang. Ia menulis di buku pribadi itu dengan huruf kecil dan tegak.
+Selama dua tahun ia datang ke kota ini untuk membeli. Peta, izin, kontrak, kebenaran, dan akhirnya sepuluh tahun tenaga kerja seribu penambang. Semua pembelian itu kini tertimbun di bawah satu kata yang ia tuliskan sendiri di atas meja kayu Quota Office, dan anehnya, untuk pertama kali sejak lama, hitungannya tidak terasa berkurang. Ia menulis di buku pribadi itu dengan huruf kecil dan tegak.
 
-"Fakta satu. Aset tidak bisa ditambang. Fakta dua. Aset tidak bisa disegel murah. Fakta tiga. Institusi yang ada hanya pandai dua hal itu. Kesimpulan sementara, menunggu Dewan. Ada satu kursi yang belum pernah ada di Karvess, yaitu kursi penjaga, dan kursi itu sedang kosong di depan mata mereka semua."
+> Fakta satu. Aset tidak bisa ditambang.
+> Fakta dua. Aset tidak bisa disegel murah.
+> Fakta tiga. Institusi yang ada hanya pandai dua hal itu.
+> Kesimpulan sementara, menunggu Dewan. Ada satu kursi yang belum pernah ada di Karvess — yaitu kursi penjaga, dan kursi itu sedang kosong di depan mata mereka semua.
 
 Ia menutup buku itu dan meniup lilinnya, dan dalam gelap ia menyadari sesuatu yang membuatnya tersenyum tipis tanpa gembira. Selama ini ia takut pada old warden itu sebagai lawan yang tidak bisa ia beli. Malam ini, untuk pertama kali, ia berhenti mencari lawan dan mulai mencari pekerjaan, dan pekerjaan itu ternyata pekerjaan lawannya sendiri. Kalau Dewan membaca dua kali seperti biasa, maka satu-satunya orang yang akan duduk di depan pintu yang sama dengan old warden bukan lagi pemburu dengan surat tanda.
 

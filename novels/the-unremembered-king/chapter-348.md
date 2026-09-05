@@ -11,7 +11,7 @@ Perjalanan pulang ke selatan memakan waktu lebih lama dari perjalanan pergi, kar
 
 "Berarti yang kita lakukan kemarin," kata the Seeker pelan, "mengetuk tiga batu itu — mungkin itulah yang membuatnya berubah. Kita menyentuh sesuatu yang seharusnya tidak kita sentuh."
 
-"Mungkin." Yang tua menatap api unggun. "Tapi kalau begitu, maka kita juga tahu bahwa sentuhan itu punya akibat — dan bahwa tempat di ujung garis itu hidup, dan bahwa ia merespons. Itu bukan kabar buruk. Itu kabar yang selama ini tidak pernah kita punya."
+"Mungkin." Yang tua menatap api unggun. "Namun kalau begitu, maka kita juga tahu bahwa sentuhan itu punya akibat — dan bahwa tempat di ujung garis itu hidup, dan bahwa ia merespons. Itu bukan kabar buruk. Itu kabar yang selama ini tidak pernah kita punya."
 
 Di barak, fajar kedelapan setelah mereka berangkat pulang, Kovan duduk di depan peta yang ia gambar ulang berdasarkan angka-angka penggambar peta. Ia menambahkan satu garis baru: arah angin yang berbalik, dicatat Mira dari menara setiap hari selama dua pekan terakhir. Garis-garis itu membentuk pola yang tidak ia sukai — bukan lingkaran, bukan garis lurus, melainkan spiral yang lambat laun mengarah ke satu titik di utara Spire, tempat yang sama dengan tiga batu tegak.
 
@@ -23,23 +23,23 @@ Di barak, fajar kedelapan setelah mereka berangkat pulang, Kovan duduk di depan 
 
 "Senyawa Hegemony," kata Sela.
 
-"Senyawa Hegemony." Kovan menatap sketsa itu. "Tapi Hegemony runtuh seribu tahun silam. Dan tidak ada satu pun benda Hegemony yang masih bekerja — kecuali katup menara, dan kita bahkan tidak yakin kapan katup itu dibangun."
+"Senyawa Hegemony." Kovan menatap sketsa itu. "Namun Hegemony runtuh seribu tahun silam. Dan tidak ada satu pun benda Hegemony yang masih bekerja — kecuali katup menara, dan kita bahkan tidak yakin kapan katup itu dibangun."
 
 Yang tua dan the Seeker tiba di barak pada fajar keempat belas sejak mereka berangkat. Mereka membawa tiga hal: catatan denyut garis di tanah, sketsa logam bundar dengan tiga lubang di pusat lingkaran, dan satu keyakinan yang tidak pernah mereka miliki sebelumnya — bahwa tempat di ujung garis itu tidak kosong. Ia dijaga, oleh sesuatu yang lebih tua dari batu-batu yang menandainya.
 
 Ashvarok-Renn membaca catatan itu, menatap sketsa logam bundar, lalu meletakkannya di meja tanpa berkata apa-apa. Sela mengambilnya, memutar-mutar kertas itu di bawah cahaya, dan mengerutkan kening.
 
-"Tiga lubang," katanya. "Seperti tiga batu, tiga ketukan, tiga-satu-diam. Tapi ini bukan lubang untuk kunci biasa. Mereka terlalu kecil, terlalu rapi. Lubang-lubang ini dibuat oleh mesin, bukan oleh tangan."
+"Tiga lubang," katanya. "Seperti tiga batu, tiga ketukan, tiga-satu-diam. Namun ini bukan lubang untuk kunci biasa. Mereka terlalu kecil, terlalu rapi. Lubang-lubang ini dibuat oleh mesin, bukan oleh tangan."
 
 "Mesin dari era apa?" tanya Kovan.
 
-"Satu-satunya era yang punya mesin presisi di Karvess." Sela menatap Ashvarok-Renn. "Era Hegemony. Tapi Hegemony runtuh seribu tahun silam. Tidak ada mesin Hegemony yang tersisa — atau setidaknya, tidak ada yang masih bekerja."
+"Satu-satunya era yang punya mesin presisi di Karvess." Sela menatap Ashvarok-Renn. "Era Hegemony. Namun Hegemony runtuh seribu tahun silam. Tidak ada mesin Hegemony yang tersisa — atau setidaknya, tidak ada yang masih bekerja."
 
 "Kecuali satu," kata Ashvarok-Renn pelan. "Katup menara. Katup itu masih bekerja, dan ia dibangun dengan cara yang sama — presisi, tanpa suara, tanpa tanda tangan. Kalau tiga batu tegak itu adalah bagian dari jaringan yang sama dengan katup, maka logam di bawahnya juga bagian dari jaringan yang sama. Dan kalau jaringan itu masih hidup, maka sesuatu di utara masih mengoperasikannya."
 
 "Atau," kata Mira dari ambang pintu, "sesuatu di utara baru saja mengaktifkannya kembali. Dan kita baru saja mengetuk pintu yang tidak pernah diketuk siapa pun selama seribu tahun."
 
-Meja barak hening. Kovan mengambil sketsa logam itu, meletakkannya di samping peta, dan menggambar garis baru: dari tiga batu tegak, ke utara, melampaui Spire, ke tempat kosong di peta. "Kita tidak tahu apa yang ada di ujung garis ini," katanya. "Tapi kita tahu bahwa garis ini nyata — bahwa ia bernapas, bahwa ia bergerak, dan bahwa ia telah menunggu selama seribu tahun untuk seseorang yang tahu cara mengetuknya."
+Meja barak hening. Kovan mengambil sketsa logam itu, meletakkannya di samping peta, dan menggambar garis baru: dari tiga batu tegak, ke utara, melampaui Spire, ke tempat kosong di peta. "Kita tidak tahu apa yang ada di ujung garis ini," katanya. "Namun kita tahu bahwa garis ini nyata — bahwa ia bernapas, bahwa ia bergerak, dan bahwa ia telah menunggu selama seribu tahun untuk seseorang yang tahu cara mengetuknya."
 
 "Seribu tahun," ulang the Seeker pelan. "Dan kita mengetuknya dalam satu fajar."
 
@@ -51,7 +51,7 @@ Meja barak hening. Kovan mengambil sketsa logam itu, meletakkannya di samping pe
 
 Yang tua duduk di kursi, untuk pertama kalinya sebagai bagian dari meja itu. "Lalu apa yang kita lakukan?"
 
-"Kita memutuskan apakah kita akan mengikuti garis ini," kata Ashvarok-Renn. "Atau membiarkannya tidur. Penggambar peta menulis: bila garis panjang, jangan ikuti. Bila garis berhenti, ikuti. Garis ini belum berhenti — ia masih bernapas, lebih cepat dari sebelumnya. Tapi kita sudah menyentuhnya. Dan sesuatu di ujungnya sudah tahu bahwa kita ada di sini."
+"Kita memutuskan apakah kita akan mengikuti garis ini," kata Ashvarok-Renn. "Atau membiarkannya tidur. Penggambar peta menulis: bila garis panjang, jangan ikuti. Bila garis berhenti, ikuti. Garis ini belum berhenti — ia masih bernapas, lebih cepat dari sebelumnya. Namun kita sudah menyentuhnya. Dan sesuatu di ujungnya sudah tahu bahwa kita ada di sini."
 
 Mira membuka buku anomali dan menulis satu baris, tanpa menunjukkannya kepada siapa pun: *Kita mengetuk pintu yang tidak pernah diketuk selama seribu tahun. Dan pintu itu menjawab. Sekarang kita harus memutuskan apakah kita akan membukanya — atau berpura-pura tidak mendengar jawabannya.*
 
@@ -61,9 +61,9 @@ Ia menyentuh sketsa itu dengan ujung jarinya. "Seribu tahun," bisiknya. "Aku men
 
 Sela datang membawa dua cangkir teh hangat, meletakkan satu di depan Ashvarok-Renn, dan duduk di seberang meja tanpa bertanya. Mereka duduk dalam keheningan beberapa saat, sebelum Sela berbicara: "Kau mengenali benda ini."
 
-"Tidak." Ashvarok-Renn menatapnya. "Tapi aku pernah melihat bentuknya. Sekali, lama sekali, di tempat yang tidak akan pernah aku kunjungi lagi. Aku tidak tahu apa fungsinya waktu itu. Dan aku tidak tahu apa fungsinya sekarang."
+"Tidak." Ashvarok-Renn menatapnya. "Namun aku pernah melihat bentuknya. Sekali, lama sekali, di tempat yang tidak akan pernah aku kunjungi lagi. Aku tidak tahu apa fungsinya waktu itu. Dan aku tidak tahu apa fungsinya sekarang."
 
-"Tapi kau tahu siapa yang membuatnya."
+"Namun kau tahu siapa yang membuatnya."
 
 "Aku tahu era yang membuatnya." Ashvarok-Renn menutup sketsa itu. "Dan era itu seharusnya sudah mati. Kalau benda ini masih ada, berarti ada sesuatu dari era itu yang bertahan — dan sesuatu yang bertahan dari era itu tidak pernah bertahan dengan cara yang baik."
 
@@ -83,4 +83,4 @@ Sela mengambil sketsa itu dan menyimpannya di dalam papan catatannya, di antara 
 
 Di luar, angin berbalik lagi dari utara ke selatan, dan untuk sesaat, irama tiga ketuk itu terdengar lebih dekat — seperti sesuatu di ujung garis yang baru saja membuka matanya, menunggu untuk melihat siapa yang akan datang lebih dulu.
 
-Di gudang perkakas, the Seeker terbangun dari tidurnya karena merasakan denyut itu, sama seperti di tepi tiga batu. Ia duduk, menatap tangannya sendiri, dan menyadari bahwa ia telah menghafal irama itu tanpa sadar — tiga ketuk, satu diam, tiga ketuk, satu diam — seperti bahasa yang sudah lama ia ketahui tapi baru sekarang ia dengar. Ia tidak memberi tahu the Keeper. Ia hanya menyimpan irama itu di kepalanya, bersama pertanyaan yang semakin besar: kalau batu-batu itu menjawab dengan satu ketukan, irama macam apa yang akan membuat mereka menjawab dengan tiga?
+Di gudang perkakas, the Seeker terbangun dari tidurnya karena merasakan denyut itu, sama seperti di tepi tiga batu. Ia duduk, menatap tangannya sendiri, dan menyadari bahwa ia telah menghafal irama itu tanpa sadar — tiga ketuk, satu diam, tiga ketuk, satu diam — seperti bahasa yang sudah lama ia ketahui tetapi baru sekarang ia dengar. Ia tidak memberi tahu the Keeper. Ia hanya menyimpan irama itu di kepalanya, bersama pertanyaan yang semakin besar: kalau batu-batu itu menjawab dengan satu ketukan, irama macam apa yang akan membuat mereka menjawab dengan tiga?

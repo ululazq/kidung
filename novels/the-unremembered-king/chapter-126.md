@@ -3,9 +3,9 @@ title: "Bab 126: Bunyi yang Menempel"
 chapter: 126
 ---
 
-Pagi hari keseratus delapan puluh, Ondar terbangun dengan kata itu sudah duduk di kepalanya seperti tamu yang menolak pulang. Ia mencuci muka di bak umum, dan di antara dua jembatan air, kata itu lewat lagi. Ia mengunyah roti paginya, dan di antara dua kunyahan, kata itu lewat lagi. Bukan karena ia ingin mengingatnya. Otaknya melakukan sendiri, seperti lidah yang terus menyentuh gigi bolong, seperti lagu iklan pasar yang pernah didengar sekali lalu menetap bertahun-tahun.
+Pagi hari keseratus delapan puluh, Ondar terbangun dengan kata itu sudah duduk di kepalanya seperti tamu yang menolak pulang. Ia mencuci muka di bak umum, dan di antara dua jembatan air, kata itu lewat lagi. Ia mengunyah roti paginya, dan di antara dua kunyahan, kata itu lewat lagi. Bukan karena ia ingin mengingatnya. Otaknya melakukan sendiri — seperti lidah yang terus menyentuh gigi bolong — seperti lagu iklan pasar yang pernah didengar sekali lalu menetap bertahun-tahun.
 
-Ia tidak melanggar aturan. Mulutnya tetap rapat. Tetapi di balik gerigi gigi yang tertutup itu, bibirnya bergulat dengan dua suku kata yang tidak pernah ia ucapkan, dan tubuhnya menghafal seperti ia biasa menghafal angka, yaitu sepenuhnya, sampai-sampai ia bisa merasakan bentuk bunyi itu di langit-langit mulut tanpa mengeluarkan satu udara pun.
+Ia tidak melanggar aturan. Mulutnya tetap rapat. Tetapi di balik gerigi gigi yang tertutup itu, bibirnya bergulat dengan dua suku kata yang tidak pernah ia ucapkan, dan tubuhnya menghafal seperti ia biasa menghafal angka — yaitu sepenuhnya, sampai-sampai ia bisa merasakan bentuk bunyi itu di langit-langit mulut tanpa mengeluarkan satu udara pun.
 
 "Kamu juga masih punya?" tanya penambang muda galeri sebelas yang duduk di sebelahnya, pemuda yang bersamanya malam kemarin, dengan suara yang dipelankan sampai nyaris tidak terdengar di atas gemuruh barak pagi.
 
@@ -15,9 +15,9 @@ Ondar mengangguk sekali. "Tidak bisa dibuang."
 
 "Kelima kita sama." Ondar memotong rotinya lebih keras dari perlu. "Tuan Renn bilang simpan seperti angka. Nah, aku simpan seperti angka. Angka tidak membunuh siapa pun. Yang membunuh orang adalah membicarakan angka di tempat yang salah."
 
-Pemuda itu mengangguk, lalu bertanya pelan apakah Ondar juga merasakan hal yang sama, yaitu rasa bahwa bunyi itu tidak sedang marah dan tidak sedang menakut-nakuti, melainkan sabar, seperti orang menghitung mundur dengan tenang. Ondar merasakannya juga, dan keduanya sepakat untuk tidak membahasnya lebih jauh, karena pembicaraan yang setuju-setujuan tentang hal yang dilarang justru paling mudah bocor ke dapur.
+Pemuda itu mengangguk, lalu bertanya pelan apakah Ondar juga merasakan hal yang sama — yaitu rasa bahwa bunyi itu tidak sedang marah dan tidak sedang menakut-nakuti — melainkan sabar, seperti orang menghitung mundur dengan tenang. Ondar merasakannya juga, dan keduanya sepakat untuk tidak membahasnya lebih jauh, karena pembicaraan yang setuju-setujuan tentang hal yang dilarang justru paling mudah bocor ke dapur.
 
-Mereka tidak bicara lagi, karena aturan rumah ini sudah cukup jelas sejak subuh tadi, yaitu tidak ada yang menjawab apa pun yang bersuara dari dalam galeri, dan tidak ada yang mengucapkan ulang apa pun yang keluar dari sana. Tetapi diam barak pagi adalah diam yang penuh name train, panggilan blok, dan teriakan ibu-ibu mencari sandal, dan di dalam diam yang riuh itu, kata milik kedalaman itu tetap saja duduk paling depan di kepala Ondar, rapi, terhafal, menunggu.
+Mereka tidak bicara lagi, karena aturan rumah ini sudah cukup jelas sejak subuh tadi — yaitu tidak ada yang menjawab apa pun yang bersuara dari dalam galeri, dan tidak ada yang mengucapkan ulang apa pun yang keluar dari sana. Tetapi diam barak pagi adalah diam yang penuh name train, panggilan blok, dan teriakan ibu-ibu mencari sandal, dan di dalam diam yang riuh itu, kata milik kedalaman itu tetap saja duduk paling depan di kepala Ondar, rapi, terhafal, menunggu.
 
 ---
 
@@ -25,7 +25,7 @@ Sepanjang siang ia bekerja di segmen aman dengan pikiran yang setengah tinggal d
 
 Yang membuatnya tidak bisa diam adalah pertanyaan yang tumbuh di samping hafalan itu, pertanyaan yang tidak tahu takut, seperti dirinya sendiri. Kalau kata itu dihafal lima orang tanpa mau, berarti kata itu memang dirancang untuk dihafal. Kalau datang dari dalam dan berhenti tepat di garis ambang, berarti ia dikirim, bukan jatuh. Dan kalau dikirim, maka ada alamatnya.
 
-Sorenya regunya lewat di ujung jalur yang memandang ambang galeri sembilan dari kejauhan, dan Ondar sadar kakinya melambat dengan sendirinya, bukan karena takut, melainkan karena telinganya berdiri menunggu tanpa diminta. Ia memaksa kakinya cepat lagi sebelum penjaga di belakangnya menyadarinya. Menunggu bunyi dari dalam adalah hal yang dilarang, dan larangan itu baru saja ia langgar setengah, di dalam dirinya sendiri, di tempat yang tidak bisa dipanggil namanya oleh siapa pun.
+Sorenya regunya lewat di ujung jalur yang memandang ambang galeri sembilan dari kejauhan, dan Ondar sadar kakinya melambat dengan sendirinya — bukan karena takut, melainkan karena telinganya berdiri menunggu tanpa diminta. Ia memaksa kakinya cepat lagi sebelum penjaga di belakangnya menyadarinya. Menunggu bunyi dari dalam adalah hal yang dilarang, dan larangan itu baru saja ia langgar setengah, di dalam dirinya sendiri, di tempat yang tidak bisa dipanggil namanya oleh siapa pun.
 
 Maka menjelang pergantian shift ia memutuskan urutan langkahnya sendiri, dan urutan langkah itu tidak dimulai dari Tuan Renn. Urutannya dimulai dari gudang perkakas, karena ada sesuatu yang mengganjal di ingatannya, sesuatu tentang sebuah buku, dan ganjalan semacam itu bagi Ondar adalah gatal yang harus digaruk sebelum boleh tidur.
 
@@ -41,7 +41,7 @@ Ruangan berubah suhu menurut perasaan Ondar, padahal udaranya sama saja. Brannoc
 
 "Kamu tahu buku itu dari mana?"
 
-"Aku pernah lihat. Waktu malam setelah troli timur diberi nama, waktu kamu memintaku mengangkat peti-peti arsip ke rak bawah, kamu buka satu buku sampul kulit kaku untuk mencocokkan daftar, dan kamu suruh aku membaca kolom angka karena lampumu paling putih. Aku membaca angkanya. Tapi matamu tidak bisa bohong, Pak Brannoc, kamu bacanya bukan angkanya. Kamu bacanya baris pinggirnya."
+"Aku pernah lihat. Waktu malam setelah troli timur diberi nama, waktu kamu memintaku mengangkat peti-peti arsip ke rak bawah, kamu buka satu buku sampul kulit kaku untuk mencocokkan daftar, dan kamu suruh aku membaca kolom angka karena lampumu paling putih. Aku membaca angkanya. Namun matamu tidak bisa bohong, Pak Brannoc, kamu bacanya bukan angkanya. Kamu bacanya baris pinggirnya."
 
 "Diam."
 
@@ -63,9 +63,9 @@ Brannoc mengunyah akar pahitnya perlahan. Ketika bicara lagi, kalimat-kalimatnya
 
 "Sekarang?"
 
-"Malam ini. Dia yang tentuin selanjutnya, bukan kamu."
+"Malam ini. Dia yang menentukan selanjutnya, bukan kamu."
 
-Ondar ingin protes bahwa dialah yang menemukan cocoknya, bahwa penemu berhak tahu lebih dulu, tetapi sesuatu di wajah Brannoc membuat protes itu turun kembali ke tenggorokannya. Ada jenis takut yang tidak pernah ia miliki untuk dirinya sendiri, dan justru karena itu ia mengenalinya dengan mudah di wajah orang lain. Takut semacam itu sedang duduk di mata mandornya, dan takut itu bukan takut pada Ondar.
+Ondar ingin protes bahwa dialah yang menemukan cocoknya, bahwa penemu berhak tahu lebih dulu, tetapi sesuatu di wajah Brannoc membuat protes itu turun kembali ke tenggorokannya. Ada jenis takut yang tidak pernah ia miliki untuk dirinya sendiri — dan justru karena itu ia mengenalinya dengan mudah di wajah orang lain. Takut semacam itu sedang duduk di mata mandornya, dan takut itu bukan takut pada Ondar.
 
 ---
 
@@ -91,6 +91,6 @@ Renn menimbang jawaban itu sampai tehnya benar-benar dingin. Ketika ia berdiri, 
 
 "Besok malam kamu ikut aku ke gudang. Kamu yang tunjukkan baris itu kepadaku, dari jarak yang sama seperti waktu itu, dengan lampu yang sama. Sebelum itu, kamu tidak kembali ke dekat ambang galeri mana pun, dan kamu tetap menyimpan seperti angka." Ia berhenti sebentar, lalu menambahkan dengan nada yang lebih rendah. "Dan satu lagi. Yang kamu temukan malam ini bukan salahmu, dan bukan juga milikmu. Dua-duanya penting kamu ingat."
 
-Ondar mengangguk, pulang, berbaring di biliknya, dan memadamkan lampu. Sebelum tidur ia memikirkan kalimat terakhir Tuan Renn, tentang sesuatu yang bukan miliknya, dan ia membolak-baliknya seperti membolak-balikkan keping uang untuk mengecek apakah asli. Ia bukan orang yang pandai merasa dimiliki apa-apa. Kontraknya pernah dipindahtangankan seperti barang gudang, upahnya pernah dihitung orang lain, dan namanya sendiri pernah nyaris dikunyah sunyi sampai hilang. Maka barangkali itu sebabnya ia begitu cepat mengenal bunyi dari kedalaman sebagai sesama, yaitu bunyi yang tidak punya pemilik yang mau mengakuinya.
+Ondar mengangguk, pulang, berbaring di biliknya, dan memadamkan lampu. Sebelum tidur ia memikirkan kalimat terakhir Tuan Renn, tentang sesuatu yang bukan miliknya, dan ia membolak-baliknya seperti membolak-balikkan keping uang untuk mengecek apakah asli. Ia bukan orang yang pandai merasa dimiliki apa-apa. Kontraknya pernah dipindahtangankan seperti barang gudang, upahnya pernah dihitung orang lain, dan namanya sendiri pernah nyaris dikunyah sunyi sampai hilang. Maka barangkali itu sebabnya ia begitu cepat mengenal bunyi dari kedalaman sebagai sesama — yaitu bunyi yang tidak punya pemilik yang mau mengakuinya.
 
 Diam-diam, di bawah selimut, jarinya mengetuk pola itu di rangka ranjang. Panjang. Pendek. Tahan. Cocok. Ia mengetuk sekali lagi. Cocok lagi. Baru pada ketukan ketiga ia sadar bahwa ia sedang menghafalkan kepada dirinya sendiri sesuatu yang bukan bahasanya, bukan miliknya, dan barangkali bukan untuknya. Ia memutuskan berhenti. Ia mengetuk yang keempat, karena otaknya, seperti biasa, tidak pernah tahu kapan harus berhenti pada angka yang benar.

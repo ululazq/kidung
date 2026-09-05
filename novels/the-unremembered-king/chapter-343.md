@@ -11,7 +11,7 @@ Yang muda masuk. Rumah itu kosong kecuali meja, dua kursi, dan sebuah peta besar
 
 "Kau tahu selama ini," kata the Seeker pelan. "Kau tahu batu itu bukan kunci."
 
-"Aku tahu sejak hari pertama." Yang tua duduk di kursi, menatap peta itu. "Tapi the Throne menyuruh kami mencari, dan aku terlalu takut untuk bertanya mengapa. Ketakutan membuatku membawa batu mati selama delapan belas tahun. Kau baru berani bertanya setelah delapan bulan."
+"Aku tahu sejak hari pertama." Yang tua duduk di kursi, menatap peta itu. "Namun the Throne menyuruh kami mencari, dan aku terlalu takut untuk bertanya mengapa. Ketakutan membuatku membawa batu mati selama delapan belas tahun. Kau baru berani bertanya setelah delapan bulan."
 
 "Kenapa kau berhenti di sini?"
 
@@ -47,13 +47,13 @@ Yang muda mengambil surat itu. Di bawah tanggal yang luntur, ia membaca satu kal
 
 "Persis." Yang tua menutup laci. "Dan selama delapan belas tahun, kita dikirim mencari pemiliknya dengan membawa batu yang tidak pernah menjadi kunci. Kita bukan pemburu. Kita umpan."
 
-Di barak, Gella datang membawa berita lain. "Surat dari Spire," katanya, meletakkan amplop di meja. "Untuk Mira. Ditandatangani ruang arsip, bukan panitia. Mereka meminta keterangan lisan kedua — kali ini bukan soal angin menara, tapi soal 'peta tua yang mungkin kau lihat di arsip menara'."
+Di barak, Gella datang membawa berita lain. "Surat dari Spire," katanya, meletakkan amplop di meja. "Untuk Mira. Ditandatangani ruang arsip, bukan panitia. Mereka meminta keterangan lisan kedua — kali ini bukan soal angin menara, tetapi soal 'peta tua yang mungkin kau lihat di arsip menara'."
 
 Ashvarok-Renn mengambil amplop itu, membacanya, lalu meletakkannya kembali. "Ruang arsip menanyakan peta," katanya. "Bukan angin. Bukan katup. Peta."
 
 "Peta apa?" tanya Sela.
 
-"Peta yang tidak pernah kita berikan kepada siapa pun." Ashvarok-Renn menatap peta benang emas di dinding. "Tapi kalau the Keeper di rawa barat benar — kalau the Throne hanya nama yang dipakai banyak tangan — maka pertanyaan ruang arsip tentang peta bisa jadi bukan pertanyaan baru. Bisa jadi ia bagian dari pertanyaan yang sama yang sudah berjalan delapan belas tahun: siapa pemilik tujuh napas?"
+"Peta yang tidak pernah kita berikan kepada siapa pun." Ashvarok-Renn menatap peta benang emas di dinding. "Namun kalau the Keeper di rawa barat benar — kalau the Throne hanya nama yang dipakai banyak tangan — maka pertanyaan ruang arsip tentang peta bisa jadi bukan pertanyaan baru. Bisa jadi ia bagian dari pertanyaan yang sama yang sudah berjalan delapan belas tahun: siapa pemilik tujuh napas?"
 
 Mira berdiri di ambang, membaca amplop itu sendiri. "Mereka memanggilku ke Spire," katanya. "Keterangan lisan kedua. Ini bukan soal angin lagi."
 
@@ -63,13 +63,13 @@ Mira berdiri di ambang, membaca amplop itu sendiri. "Mereka memanggilku ke Spire
 
 Ashvarok-Renn menatapnya lama. "Kalau kau pergi," katanya, "bawa pertanyaan ini: tanyakan kepada ruang arsip siapa yang menggambar peta yang mereka tanyakan. Kalau mereka menjawab dengan nama, kita tahu jalurnya. Kalau mereka tidak menjawab, kita tahu bahwa the Throne dan ruang arsip berbicara dalam bahasa yang sama."
 
-Mira mengangguk, melipat amplop itu, dan menyimpannya di saku. Ia berhenti di pintu dan menoleh. "Ada satu hal lagi," katanya. "Surat itu tidak menyebut katup, tapi menyebut 'celah'. Dan celah adalah kata yang dipakai ruang arsip untuk hal yang sama. Mereka sudah tahu kata yang tepat untuk hal yang tidak pernah kita sebutkan di kertas resmi. Itu berarti seseorang di Spire sudah membaca menara lebih dalam daripada laporan bulananku."
+Mira mengangguk, melipat amplop itu, dan menyimpannya di saku. Ia berhenti di pintu dan menoleh. "Ada satu hal lagi," katanya. "Surat itu tidak menyebut katup, tetapi menyebut 'celah'. Dan celah adalah kata yang dipakai ruang arsip untuk hal yang sama. Mereka sudah tahu kata yang tepat untuk hal yang tidak pernah kita sebutkan di kertas resmi. Itu berarti seseorang di Spire sudah membaca menara lebih dalam daripada laporan bulananku."
 
 "Atau," kata Sela, "seseorang di Spire sudah membaca peta yang sama dengan yang ditemukan dua the Wane di rawa barat. Dan kita baru tahu sekarang bahwa dua ujung benang yang tidak pernah kita hubungkan ternyata saling mengenal."
 
 Kovan mencatat di peta: *Ruang arsip Spire menanyakan peta. The Wanes menemukan catatan tentang katup di rumah penggambar peta. Dua benang yang tidak pernah kita sambungkan mulai menunjuk ke arah yang sama.*
 
-Di utara, malam itu, di rumah tua di tepi rawa, the Keeper menyalakan lampu minyak dan meletakkan buku catatan kecil itu di tengah meja. "Sebelum kita pergi," katanya, "ada satu hal yang harus kau tahu tentang buku ini. Halaman terakhirnya kosong. Tapi kalau kau pegang di bawah cahaya miring, ada bekas tulisan yang sudah dihapus."
+Di utara, malam itu, di rumah tua di tepi rawa, the Keeper menyalakan lampu minyak dan meletakkan buku catatan kecil itu di tengah meja. "Sebelum kita pergi," katanya, "ada satu hal yang harus kau tahu tentang buku ini. Halaman terakhirnya kosong. Namun kalau kau pegang di bawah cahaya miring, ada bekas tulisan yang sudah dihapus."
 
 Yang muda memiringkan buku itu. Di halaman terakhir, samar-samar, terbaca tiga baris yang tidak sengaja terhapus sempurna: *Pemilik tujuh napas tidak akan pernah mencarinya sendiri. Ia akan menjaga agar tidak ditemukan. Maka kita yang harus mencarinya — atau membiarkannya tidur.*
 
@@ -79,7 +79,7 @@ Yang muda memiringkan buku itu. Di halaman terakhir, samar-samar, terbaca tiga b
 
 Di barak, Maera Tull datang menjelang tengah malam, membawa salinan surat ruang arsip yang ia peroleh dari jalur Guild. "Ini bukan surat biasa," katanya sambil meletakkannya di meja. "Surat ini dicap dua kali: sekali oleh panitia, sekali oleh ruang arsip. Cap kedua lebih baru, dan diletakkan di atas cap pertama, seperti orang yang menambahkan namanya di bawah tanda tangan orang lain."
 
-Ashvarok-Renn mengambil surat itu dan membaca cap kedua dengan teliti. "Ruang arsip menandatangani di bawah panitia," katanya. "Bukan menggantikan. Itu berarti mereka ingin surat ini terlihat resmi, tapi mereka juga ingin namanya tercatat — sebagai pembaca kedua, bukan penulis pertama."
+Ashvarok-Renn mengambil surat itu dan membaca cap kedua dengan teliti. "Ruang arsip menandatangani di bawah panitia," katanya. "Bukan menggantikan. Itu berarti mereka ingin surat ini terlihat resmi, tetapi mereka juga ingin namanya tercatat — sebagai pembaca kedua, bukan penulis pertama."
 
 "Atau," kata Maera, "mereka ingin Mira tahu bahwa yang memanggilnya bukan panitia. Bahwa di balik panggilan resmi ini ada tangan lain yang ingin berbicara dengannya tanpa panitia tahu."
 

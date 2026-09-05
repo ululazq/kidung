@@ -5,7 +5,7 @@ chapter: 211
 
 Undangan pertama dari luar datang dari tambang Karven — kota tetangga dua hari jalan di timur, yang pengurusnya mendengar kabar "kota yang bisa mendengar batu" dan mengirim surat dengan pertanyaan yang tidak berani dijawab tambangnya sendiri selama tiga generasi: nat lorong empat kami "berdenyut kalau ada yang meninggal dunia. Apa itu normal?"
 
-Surat itu dibaca keras-keras di rapat akademi oleh Sela, sesuai prosedur arsip: semua korespondensi resmi dibacakan sebelum dibalas, supaya seluruh kota tahu apa yang keluar dan masuk namanya. Ketika kalimat terakhirnya selesai, ruangan diam sebentar — lalu ibu Tamma berkata apa yang semua orang pikirkan: "Tiga generasi. Tiga generasi mereka takutin natnya sendiri, tidak ada satu orang pun yang berani bertanya ke luar."
+Surat itu dibaca keras-keras di rapat akademi oleh Sela, sesuai prosedur arsip: semua korespondensi resmi dibacakan sebelum dibalas, supaya seluruh kota tahu apa yang keluar dan masuk namanya. Ketika kalimat terakhirnya selesai, ruangan diam sebentar — lalu ibu Tamma berkata apa yang semua orang pikirkan: "Tiga generasi. Tiga generasi mereka menakuti natnya sendiri, tidak ada satu orang pun yang berani bertanya ke luar."
 
 "Maka kita balas dengan datang," kata Ashvarok. "Surat bisa dibaca salah. Kunjungan tidak."
 
@@ -19,9 +19,9 @@ Perjalanannya sendiri menjadi pembelajaran yang tidak direncanakan. Di jam kedua
 
 "Jalan raya Karvess," kata Kovan sambil mencatat koordinatnya, "adalah lorong panjang yang selama ini kita anggap kosong." Ia menatap temuan mereka. "Setiap tempat orang berhenti untuk sesuatu — berdoa, menangis, tidur — ada yang menyimpannya."
 
-Di warung peristirahatan satu-satunya antara dua kota, pemilik warung menanyakan tujuan mereka, dan jawaban anak Pak Dekan menjadi cerita yang dibawa pedagang-pedagang ke mana-mana pekan itu: "Kami mau ke tempat yang ditakutin tiga generasi, untuk menanyakan kabarnya."
+Di warung peristirahatan satu-satunya antara dua kota, pemilik warung menanyakan tujuan mereka, dan jawaban anak Pak Dekan menjadi cerita yang dibawa pedagang-pedagang ke mana-mana pekan itu: "Kami mau ke tempat yang ditakuti tiga generasi, untuk menanyakan kabarnya."
 
-Pemilik warung itu — perempuan paruh baya yang mendengar semua cerita jalan raya dari kursinya — diam sebentar lalu berkata: "Kalau kalian berhasil... kirim kabar. Nenek saya punya aturan aneh soal sumur belakang warung ini. Jangan dikosongin sampai kering, tiap tahun lempar lilin. Aku nurut empat puluh tahun tanpa tahu kenapa." Ia mengisi gelas mereka lagi tanpa diminta. "Mungkin nenek saya kenal sama nat-nat kalian."
+Pemilik warung itu — perempuan paruh baya yang mendengar semua cerita jalan raya dari kursinya — diam sebentar lalu berkata: "Kalau kalian berhasil... kirim kabar. Nenek saya punya aturan aneh soal sumur belakang warung ini. Jangan dikosongkan sampai kering, tiap tahun lempar lilin. Aku nurut empat puluh tahun tanpa tahu kenapa." Ia mengisi gelas mereka lagi tanpa diminta. "Mungkin nenek saya kenal sama nat-nat kalian."
 
 ---
 
@@ -37,7 +37,7 @@ Kepala tambang itu diam lama. Lalu bertanya pertanyaan yang membuat pasangan hit
 
 "Nat-nat di kota kalian... semuanya begini?"
 
-"Tidak," kata Kovan jujur. "Yang kami temukan kemarin, sebelas nat kecil di sepanjang jalan dari Caldrest — mungkin juga menyimpan sesuatu yang tidak kita duga. Kami baru belajar bahwa kita belum pernah benar-benar TANYA ke nat mana pun sebelum delapan bulan silam. Semua orang hanya takut, atau manfaat, atau abaikan." Buku hitungannya dittepuk pelan. "Tiga generasi kalian takut. Kami puluhan tahun manfaatin tanpa pamit. Bedanya tipis."
+"Tidak," kata Kovan jujur. "Yang kami temukan kemarin, sebelas nat kecil di sepanjang jalan dari Caldrest — mungkin juga menyimpan sesuatu yang tidak kita duga. Kami baru belajar bahwa kita belum pernah benar-benar TANYA ke nat mana pun sebelum delapan bulan silam. Semua orang hanya takut, atau manfaat, atau abaikan." Buku hitungannya ditepuk pelan. "Tiga generasi kalian takut. Kami puluhan tahun memanfaatkan tanpa pamit. Bedanya tipis."
 
 "Dan kalau semua nat di dunia ini seperti lorong empat kami?"
 
@@ -61,11 +61,11 @@ Kepala tambang tua menatap anak muda itu lama — orang yang tidak tahu kisahnya
 
 Pembacaan pamitan lorong empat dilakukan seminggu kemudian, dan menjadi peristiwa yang mengubah Karven selamanya: dua puluh enam janda dan keluarga duduk di lorong yang tiga generasi mereka takuti, mendengarkan nama-nama suami mereka dibacakan dari nat — lengkap dengan pamitan terakhir masing-masing yang ternyata disimpan utuh.
 
-Protokol pembacaannya disusun pasangan hitung dengan bantuan Ossian, dan aturan pertamanya adalah aturan yang paling sering dikutip kemudian: urutan pembacaan bukan urutan kematian, tapi urutan permintaan keluarga. Yang siap duluan didahulukan. Yang butuh waktu lebih lama, diberi waktu.
+Protokol pembacaannya disusun pasangan hitung dengan bantuan Ossian, dan aturan pertamanya adalah aturan yang paling sering dikutip kemudian: urutan pembacaan bukan urutan kematian, tetapi urutan permintaan keluarga. Yang siap duluan didahulukan. Yang butuh waktu lebih lama, diberi waktu.
 
 Yang tidak diantisipasi siapa pun: beberapa keluarga datang membawa balasan. Seorang janda tua membawa secangkir teh dan meletakkannya di depan nat sebelum pembacaan suami mulai — "dia suka minta teh tiap kali dia pulang bekerja; sekali ini aku yang bawa duluan". Seorang anak laki-laki dewasa, yang ayahnya mati saat ia masih kecil, membawa mainan kayu buatannya sendiri: "agar dia tahu akhirnya aku bisa membuat sesuatu."
 
-Pasangan hitung mencatat semua itu tanpa perlu berdebat soal protokol: nat-nat menyimpan pemberian. Mereka sudah tahu itu dari teh Pak Dekan. Tapi hari itu mereka belajar hal baru — pemberian untuk nat ternyata membuat SUARA pamitan lebih jelas saat dibacakan. Seolah barang yang dibawa dengan cinta membersihkan jalur antara dua dunia.
+Pasangan hitung mencatat semua itu tanpa perlu berdebat soal protokol: nat-nat menyimpan pemberian. Mereka sudah tahu itu dari teh Pak Dekan. Namun hari itu mereka belajar hal baru — pemberian untuk nat ternyata membuat SUARA pamitan lebih jelas saat dibacakan. Seolah barang yang dibawa dengan cinta membersihkan jalur antara dua dunia.
 
 "Catat itu," kata Kovan kepada anak Pak Dekan. "Bukan sebagai teori. Sebagai pertanyaan pekan depan."
 
@@ -85,9 +85,9 @@ Sejak hari itu, tradisi baru lahir di Karven: lorong empat dibuka tiap sore untu
 
 "DI SINI BOLEH BICARA. DI SINI SEMUA DENGAR."
 
-Ketika pasangan hitung meninggalkan Karven pada pagi ketiga, setengah kota datang ke gerbang timur untuk mengantar mereka — bukan upacara resmi, hanya orang-orang yang ingin melihat dua pemuda yang datang menanyakan kabar nat mereka. Pemilik warung di tengah jalan menerima kabarnya lewat pedagang hari itu juga, dan sorenya ia melempar lilin ke sumur belakang warungnya seperti biasa — tapi kali ini sambil berkata dengan keras-keras, untuk pertama kalinya dalam empat puluh tahun:
+Ketika pasangan hitung meninggalkan Karven pada pagi ketiga, setengah kota datang ke gerbang timur untuk mengantar mereka — bukan upacara resmi, hanya orang-orang yang ingin melihat dua pemuda yang datang menanyakan kabar nat mereka. Pemilik warung di tengah jalan menerima kabarnya lewat pedagang hari itu juga, dan sorenya ia melempar lilin ke sumur belakang warungnya seperti biasa — tetapi kali ini sambil berkata dengan keras-keras, untuk pertama kalinya dalam empat puluh tahun:
 
-"Nenek, aku tidak tahu siapa yang kau menyapa di bawah sana. Tapi mulai sekarang aku menyapa balik."
+"Nenek, aku tidak tahu siapa yang kau menyapa di bawah sana. Namun mulai sekarang aku menyapa balik."
 
 Dan nat-nat kecil sepanjang jalan dagang Caldrest-Karven — sebelas titik yang ditemukan dua pemuda dalam dua hari — mulai mendapat pengunjung. Satu per satu. Pertama karena penasaran. Lalu karena kebiasaan. Lalu karena, kata anak Pak Dekan dalam laporannya yang ditulis di jalan pulang dengan huruf senang sekali, "orang-orang akhirnya tahu bahwa menyapa tidak perlu alasan".
 

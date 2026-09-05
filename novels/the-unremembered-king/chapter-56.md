@@ -27,7 +27,7 @@ Wajah-wajah itu kosong dengan cara yang ia kenal dari seribu tahun yang lalu. Bu
 
 "Aku... aku itu..."
 
-"Kalian punya nama," kata Ashvarok, dan suaranya turun ke nada yang dulu dipakainya memerintah lima panglima di lorong yang sedang runtuh, nada yang tidak memberi ruang bagi ketakutan untuk bernegosiasi. "Namanya dicuri sebentar. Pencuri itu tidak bisa diburu malam ini, tapi barangnya bisa direbut kembali. Aturannya satu: jawab kalau dipanggil, dan jawab keras."
+"Kalian punya nama," kata Ashvarok, dan suaranya turun ke nada yang dulu dipakainya memerintah lima panglima di lorong yang sedang runtuh, nada yang tidak memberi ruang bagi ketakutan untuk bernegosiasi. "Namanya dicuri sebentar. Pencuri itu tidak bisa diburu malam ini, tetapi barangnya bisa direbut kembali. Aturannya satu: jawab kalau dipanggil, dan jawab keras."
 
 Di ambang pintu, cahaya masuk. Ibu Tamma dengan lampu besar di atas kepala, dan di belakangnya, bernapas dari lari sepanjang halaman, Brannoc — yang satu tatapan singkat kepada Ashvarok berisi percakapan lengkap yang tidak butuh satu kata pun: kau tahu ini apa, dan kau tidak akan mengatakannya sekarang.
 
@@ -57,7 +57,7 @@ Selama satu jam penuh di halaman gudang yang dingin, di bawah lampu stasiun angk
 
 Cerita tentang malam itu, sebagaimana lazimnya di Caldrest, sudah selesai ditulis oleh orang-orang sebelum sarapan, dan Ashvarok mendengarkannya dirakit potong demi potong di antrean bubur pagi itu tanpa sanggup mengubah satu huruf pun.
 
-Versi yang beredar adalah versi yang benar secara fakta dan salah secara segala hal lainnya. Brannoc, Foreman the Quiet Vein, veteran yang bahunya turun karena bekas patah perang — dialah yang dikatakan mengatur semuanya. Dialah yang berlari, yang memerintah lampu, yang menahan kepanikan dengan suara mandor tua. Orang-orang mengangkat piring kepada namanya. Dua ibu galeri sembilan berjanji akan mendoakan anaknya yang jauh agar menjadi pria seperti Brannoc. Bahkan tiga orang yang lolos dari blok timur mengakui, dengan tawa lega, bahwa bocah lorong tujuh sempat ikut memanggil-manggil — "yang katanya bisa bicara sama lubang itu, iya, dia ada di sana membantu" — sebuah keterangan sampingan, satu jari kaki dalam cerita milik orang lain.
+Versi yang beredar adalah versi yang benar secara fakta dan salah secara segala hal lainnya. Brannoc, Foreman the Quiet Vein, veteran yang bahunya turun karena bekas patah perang — dialah yang dikatakan mengatur semuanya. Dialah yang berlari, yang memerintah lampu, yang menahan kepanikan dengan suara mandor tua. Orang-orang mengangkat piring kepada namanya. Dua ibu galeri sembilan berjanji akan mendoakan anaknya yang jauh agar menjadi pria seperti Brannoc. Bahkan tiga orang yang lolos dari blok timur mengakui, dengan tawa lega, bahwa bocah lorong tujuh sempat ikut memanggil-memanggil — "yang katanya bisa bicara sama lubang itu, iya, dia ada di sana membantu" — sebuah keterangan sampingan, satu jari kaki dalam cerita milik orang lain.
 
 Ashvarok memakan buburnya dan mengizinkan cerita itu hidup, karena cerita itu adalah tembok yang paling kokoh yang bisa dibangun untuknya dalam satu malam. Selama kehebatan itu milik Brannoc, tidak ada satu pun mata yang menempel terlalu lama pada bocah yang kebetulan tahu cara merebut nama dari pencuri tak kasatmata.
 
@@ -81,11 +81,11 @@ Ashvarok menutup mangkuknya. Di seribu tahun masa lalu, ia pernah duduk di ruang
 
 Dan itulah pertanyaan yang paling jujur yang bisa diajukan seorang adik, karena pertanyaan itu bukan tentang lubang, bukan tentang mimpi, bukan tentang seni raja yang dibakar dari sejarah — pertanyaan itu tentang tiga manusia yang tertawa sopan di sudut halaman sambil tidak tahu siapa diri mereka.
 
-"Satu mungkin tidak," jawab Ashvarok, jujur, karena janji menuntut yang jujur. "Tapi dia tidak akan sendirian. Itu yang bisa kupastikan, dan itu bukan janji kecil."
+"Satu mungkin tidak," jawab Ashvarok, jujur, karena janji menuntut yang jujur. "Namun dia tidak akan sendirian. Itu yang bisa kupastikan, dan itu bukan janji kecil."
 
 Sela diam lama. Kemudian ia mengeluarkan kapurnya dan menulis di kolom baru papan tulisnya, dan Ashvarok tidak perlu membaca untuk tahu apa yang tertulis: angka dua puluh, dan garis di bawah tiga nama, dan tanggal. Juragan ukur kecil yang mencatat dunia supaya dunia tidak berani mengaku lupa.
 
-"Baik," katanya akhirnya, menutup kapurnya. "Kalau begitu aku juga mencatat satu hal lagi." Ia menatap ke arah kerumunan yang masih mengangkat piring untuk Brannoc, lalu kembali kepada kakaknya, dan di matanya ada sesuatu yang tua — sesuatu yang tidak layak untuk umur sebelas tahun dan tidak bisa ditolak oleh siapa pun. "Mereka semua salah alamat. Tapi aku tidak. Selamat pagi, kak."
+"Baik," katanya akhirnya, menutup kapurnya. "Kalau begitu aku juga mencatat satu hal lagi." Ia menatap ke arah kerumunan yang masih mengangkat piring untuk Brannoc, lalu kembali kepada kakaknya, dan di matanya ada sesuatu yang tua — sesuatu yang tidak layak untuk umur sebelas tahun dan tidak bisa ditolak oleh siapa pun. "Mereka semua salah alamat. Namun aku tidak. Selamat pagi, kak."
 
 Ia pergi ke antrean teh, dan Ashvarok duduk sendirian di tengah barak yang utangnya kepadanya, dengan kehangatan yang tidak bisa diteruskan ke mana-mana, dan membiarkan itu — membiarkan itulah yang membuat penjaga tetap berdiri di posnya meski tidak ada yang tahu ada pos di situ.
 

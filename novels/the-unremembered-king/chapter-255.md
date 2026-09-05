@@ -21,7 +21,7 @@ Ashvarok: "Nat asuhan berkembang dari 73 menjadi 156. Jaringan batu tiga generas
 
 Renn: "Pasal Menyapa resmi di tiga wilayah lagi. Dunia luar tidak lagi bertanya 'apakah batu bisa bicara'. Mereka bertanya 'bagaimana cara mendengarkannya'."
 
-Sela: "Dan Caldrest... Caldrest menjadi tempat yang didatangi dunia bukan untuk minta tolong — tapi untuk belajar cara menolong."
+Sela: "Dan Caldrest... Caldrest menjadi tempat yang didatangi dunia bukan untuk minta tolong — tetapi untuk belajar cara menolong."
 
 Ibu Tamma (dari dapur, berseru): "DAN SUPNYA ENAK!"
 
@@ -65,13 +65,13 @@ Dan penutup bab — dari ibu Tamma, tentu saja:
 
 "Neraca tahun kedua sudah dibaca. Bagus. Lengkap. Menyentuh.
 
-Tapi aku mau tambahkan satu hal yang tidak masuk angka:
+Namun aku mau tambahkan satu hal yang tidak masuk angka:
 
 Tahun ini dapur kami memasak untuk sembilan budaya, tiga generasi, dua dunia, dan satu api purba.
 
 Tidak ada satu pun yang pulang dengan perut kosong.
 
-Itu neraca yang paling aku batidakan."
+Itu neraca yang paling aku banggakan."
 
 Ia menutup buku dapurnya.
 
@@ -85,7 +85,7 @@ Dan di halaman terakhir neraca tahunan — halaman yang oleh Sela dikirim khusus
 
 Dua tahun ini kami belajar bahwa dunia bisa berubah lewat hal-hal kecil: bertanya, mendengar, memasak, menenun, dan mengetuk meja tiga kali.
 
-Tidak ada yang besar. Tapi semuanya nyata.
+Tidak ada yang besar. Namun semuanya nyata.
 
 Kalau duniamu sedang rusak — mulailah dari satu pertanyaan kecil pada satu orang di sebelahmu.
 
@@ -268,7 +268,7 @@ Dan Ashvarok menambahkan baris terakhirnya — untuk Renn, untuk Sela, untuk ibu
 
 "Halaman pertamamu indah, Nak Renn.
 
-Tapi halaman-halaman berikutnya — yang kita tulis BERSAMA —
+Namun halaman-halaman berikutnya — yang kita tulis BERSAMA —
 
 itu yang membuat bukunya layak dibaca selamanya."
 
@@ -300,7 +300,7 @@ Di rumah yang tidak pernah dingin.
 
 Dan satu adegan epilog — bertahun-tahun kemudian:
 
-Seorang anak kecil berdiri di depan nat lorong barak utara. Nat tua yang sudah sangat, sangat tua — tapi iramanya masih hangat seperti hari pertama.
+Seorang anak kecil berdiri di depan nat lorong barak utara. Nat tua yang sudah sangat, sangat tua — tetapi iramanya masih hangat seperti hari pertama.
 
 Anak itu membaca plakat di sampingnya:
 

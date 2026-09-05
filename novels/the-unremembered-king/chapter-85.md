@@ -7,7 +7,7 @@ Surat tugas itu datang pada pagi hari keseratus sembilan dengan tinta yang belum
 
 Kovan membacanya dua kali di tangga stasiun angkutan dan menemukan apa yang dicari setiap pembaca surat seperti itu — yang tidak tertulis. Tidak ada kata sabotase. Tidak ada kata penyebab manusia. Dan tidak ada nama pemohon izin yang sedang bertarung di balai kota sepuluh hari ke depan, padahal runtunan di troli timur jatuh tepat di tengah taruhan itu, dan kebetulan sebesar itu tidak pernah kebetulan.
 
-Ia menurun dengan dua kotak alat — kotak resmi milik the Quiet Vein yang disegel pemerintahan, dan kotak rakitannya sendiri yang tidak tercatat di mana pun — lempeng cadangan, peredam lilin-abu, jarum kawat tembaga, benda-benda yang membuatnya secara teknis bersalah melampaui izin mengamatinya. Sudah sebulan ia hidup di antara dua daftar, LAPOR dan tidak-lapor, dan kedua daftar itu saling menolak seperti dua saksi yang sama-sama jujur tapi tidak pernah hadir di ruangan yang sama.
+Ia menurun dengan dua kotak alat — kotak resmi milik the Quiet Vein yang disegel pemerintahan, dan kotak rakitannya sendiri yang tidak tercatat di mana pun — lempeng cadangan, peredam lilin-abu, jarum kawat tembaga, benda-benda yang membuatnya secara teknis bersalah melampaui izin mengamatinya. Sudah sebulan ia hidup di antara dua daftar, LAPOR dan tidak-lapor, dan kedua daftar itu saling menolak seperti dua saksi yang sama-sama jujur tetapi tidak pernah hadir di ruangan yang sama.
 
 Malam ini, entah kenapa, ia membawa kotak yang kedua lebih dekat ke badan.
 
@@ -79,5 +79,5 @@ Salinan ketiga, yang asli, ia bakar di cangkir timah dan abunya ia usapkan ke ba
 
 Malam itu, sebelum lampu dipadamkan, Kovan membaca ulang catatan pribadinya sekali, menemukan satu kalimat yang terlalu dekat dengan puisi — "menghitung napasnya sendiri" — dan membiarkannya tetap di situ, untuk pertama kalinya dalam hidup proseduralnya, karena kalimat itu benar.
 
-Di bawah jendela kamarnya, Caldrest tidur dengan sepuluh hari tersisa di hitungan wali kotanya, dan di suatu tempat di antara lampu-lampu barak distrik timur ada satu papan tulis kecil dengan satu kata yang baru ditulis malam sebelumnya: PENYANGGA. Dua pembaca sunyi kota itu belum pernah berpapasan; tapi malam ini, untuk pertama kalinya, mereka membaca buku yang sama.
+Di bawah jendela kamarnya, Caldrest tidur dengan sepuluh hari tersisa di hitungan wali kotanya, dan di suatu tempat di antara lampu-lampu barak distrik timur ada satu papan tulis kecil dengan satu kata yang baru ditulis malam sebelumnya: PENYANGGA. Dua pembaca sunyi kota itu belum pernah berpapasan; tetapi malam ini, untuk pertama kalinya, mereka membaca buku yang sama.
 

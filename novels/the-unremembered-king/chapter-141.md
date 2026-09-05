@@ -3,7 +3,7 @@ title: "Bab 141: Hitungan Ulang"
 chapter: 141
 ---
 
-Putusan itu tiba pada pagi hari keseratus tujuh, dibawa kereta pos Guild dalam sampul kertas tebal yang disegel lilin hijau tua Dewan Regional Anthema Spire, dan pegawai pos tua membawanya ke ruang bekerja Maera dengan kedua tangan, seperti orang membawa sesuatu yang sudah pernah menggigit orang lain.
+Putusan itu tiba pada pagi hari keseratus tujuh, dibawa kereta pos Guild dalam sampul kertas tebal yang disegel lilin hijau tua Dewan Regional Anthema Spire, dan pegawai pos tua membawanya ke ruang kerja Maera dengan kedua tangan, seperti orang membawa sesuatu yang sudah pernah menggigit orang lain.
 
 "Nona Tull," kata pegawai itu sambil meletakkan sampul di atas meja. "Kurirnya minta kertas penerimaan ditandatangani dua kali. Katanya surat ini dicatat sebagai kiriman berumur."
 
@@ -23,7 +23,7 @@ Ossian Vael dinyatakan tidak dapat didakwa atas temuan mana pun. Jabatan kepala 
 
 Lalu ia membalik lembar terakhir, dan berhenti membaca sama sekali selama sepuluh tarikan napas penuh.
 
-Pasal penutup putusan itu hanya satu paragraf pendek, dan paragraf itu ditulis dengan bahasa yang bahkan lebih membosankan daripada sisanya, seolah penulisnya sadar betapa besarnya barang yang sedang dipindahkan dan memilih membawanya dengan tangan paling datar. Seluruh keluaran administratif Koordinasi Artefak Regional cabang Caldrest, termasuk laporan-laporan berkala, klasifikasi segmen, eksekusi mandat keamanan, dan korespondensi berklasifikasi, ditempatkan di bawah supervisi arsip jabatan Pembaca Tua. Tidak ada kata komisi. Tidak ada kata Dewan. Setiap lembar yang keluar dari Quota Office Caldrest mulai tanggal cetak akan berakhir di meja arsip yang identitas pemegangnya dirahasiakan bahkan dari sebelas kursi yang menandatangani putusan ini.
+Pasal penutup putusan itu hanya satu paragraf pendek, dan paragraf itu ditulis dengan bahasa yang bahkan lebih membosankan daripada sisanya — seolah penulisnya sadar betapa besarnya barang yang sedang dipindahkan dan memilih membawanya dengan tangan paling datar. Seluruh keluaran administratif Koordinasi Artefak Regional cabang Caldrest, termasuk laporan-laporan berkala, klasifikasi segmen, eksekusi mandat keamanan, dan korespondensi berklasifikasi, ditempatkan di bawah supervisi arsip jabatan Pembaca Tua. Tidak ada kata komisi. Tidak ada kata Dewan. Setiap lembar yang keluar dari Quota Office Caldrest mulai tanggal cetak akan berakhir di meja arsip yang identitas pemegangnya dirahasiakan bahkan dari sebelas kursi yang menandatangani putusan ini.
 
 "Mereka memberi dia atasan," kata Maera pelan, lebih kepada dirinya sendiri.
 
@@ -85,4 +85,4 @@ Ia berhenti, membaca tiga baris itu, lalu menambahkan yang keempat, dan baris ke
 
 Hitungan ulang musuh, urutan bahaya. Pertama, Pembaca Tua, tidak berwajah, tidak terjangkau, kini punya jalur resmi ke semua kertas Caldrest. Kedua, Vael, kalah terus dan selamat terus, dan tiap kali selamat ia naik. Ketiga, jaringan panen yang kepalanya belum pernah terlihat. Keempat, yang kosong di bawah utara, yang tidak peduli pada semua kertas ini.
 
-Ia menutup buku itu, meniup lampunya, dan berbaring dengan satu kesimpulan yang dingin dan rapi di kepalanya, bahwa kemenangan kecil mereka tahun ini baru saja resmi menjadi taruhan yang jauh lebih besar, dan bahwa dia tidak menyesalinya, sebab semua hitungan ulang yang jujur selalu berakhir di tempat yang sama, yaitu di kalimat bahwa tinggal di Caldrest tetap merupakan keputusan terbaik yang pernah dibuatnya.
+Ia menutup buku itu, meniup lampunya, dan berbaring dengan satu kesimpulan yang dingin dan rapi di kepalanya, bahwa kemenangan kecil mereka tahun ini baru saja resmi menjadi taruhan yang jauh lebih besar, dan bahwa dia tidak menyesalinya — sebab semua hitungan ulang yang jujur selalu berakhir di tempat yang sama — yaitu di kalimat bahwa tinggal di Caldrest tetap merupakan keputusan terbaik yang pernah dibuatnya.

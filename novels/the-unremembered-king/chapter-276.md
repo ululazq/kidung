@@ -11,7 +11,7 @@ Aturan itu sendiri tidak pernah ditulis. Karena itu, pelanggarannya juga tidak b
 
 "Kami harus putuskan sesuatu," kata Sela di rapat keluarga pagi itu. "Surat-surat jawaban sekarang milik siapa? Pengirimnya, penerimanya, atau dunia?"
 
-"Milik dunia," kata Ashvarok-Renn, lebih cepat dari yang semua orang duga. "Sejak awal aku menulisnya untuk dunia. Kalau ada anak yang merasa jawabannya terlalu penting untuk disimpan sendirian, biarkan dia bacakan dari atas meja ikan. Itu bukan pelanggaran arsip. Itu arsip bekerja."
+"Milik dunia," kata Ashvarok-Renn, lebih cepat dari yang semua orang duga. "Sejak awal aku menulisnya untuk dunia. Kalau ada anak yang merasa jawabannya terlalu penting untuk disimpan sendirian, biarkan dia bacakan dari atas meja ikan. Itu bukan pelanggaran arsip. Itu arsip kerja."
 
 Sela mencatat keputusan itu sebagai pasal baru proyek: *Jawaban boleh dibacakan ulang siapa pun, di mana pun, tanpa izin. Yang ditanya sudah menjawab; yang mendengar tinggal meneruskan.*
 
@@ -25,13 +25,13 @@ Pengirimnya: para pemulang Vess-Morath — 124 jiwa yang delapan tahun silam nai
 
 *Kami membaca jawaban-jawabanmu, raja kami yang pernah menjadi segel. Kami yang pernah dititipkan di kedalaman ikut menunggu sepuluh abad bersamamu.*
 
-*Maka kami bertanya — bukan kepada raja abu-abu, tapi kepada keluarga the Quiet Vein:*
+*Maka kami bertanya — bukan kepada raja abu-abu, tetapi kepada keluarga the Quiet Vein:*
 
 *Bolehkah kami ikut menjawab?*
 
 "Kami," kata ibu Tamma pelan, membaca ulang bagian itu. "Mereka bilang *kami*."
 
-Dan itulah malam ketika proyek seribu jawaban berubah bentuk — dari pekerjaan satu orang yang dijawab satu orang, menjadi pekerjaan sebuah rumah yang dijawab dunia. Sela menyusun aturannya malam itu juga: setiap jawaban keluarga kini boleh ditulis siapa saja yang pernah dititipkan, dilupakan, dipulangkan, atau dilupakan-lalu-dipulangkan — karena pertanyaan-pertanyaan dunia tidak lagi hanya soal raja, tapi soal semua yang pernah menunggu bersamanya.
+Dan itulah malam ketika proyek seribu jawaban berubah bentuk — dari pekerjaan satu orang yang dijawab satu orang, menjadi pekerjaan sebuah rumah yang dijawab dunia. Sela menyusun aturannya malam itu juga: setiap jawaban keluarga kini boleh ditulis siapa saja yang pernah dititipkan, dilupakan, dipulangkan, atau dilupakan-lalu-dipulangkan — karena pertanyaan-pertanyaan dunia tidak lagi hanya soal raja, tetapi soal semua yang pernah menunggu bersamanya.
 
 ---
 
@@ -72,11 +72,11 @@ Jawaban bersama itu ditulis selama lima hari — di meja arsip, dengan Sela seba
 
 *Yang kami pelajari, dan yang ingin kami sampaikan kepada temanmu: pagi tetap harus dibangun. Bangun, sapa tetap satu orang — cukup satu, yang percaya padamu. Lakukan pekerjaan kecilmu dengan baik. Dan jangan buang waktu menjelaskan dirimu pada yang tak mau mendengar; gunakan waktunya untuk membuktikan lewat kerja.*
 
-*Dingin itu nyata. Tapi ia tidak abadi — karena orang-orang yang memilih tidak mendengar kadang-kadang, tanpa diundang siapa pun, akhirnya mendengar juga. Kami menunggunya seribu tahun. Temanmu hanya butuh bertahan sampai musim gugur.*
+*Dingin itu nyata. Namun ia tidak abadi — karena orang-orang yang memilih tidak mendengar kadang-kadang, tanpa diundang siapa pun, akhirnya mendengar juga. Kami menunggunya seribu tahun. Temanmu hanya butuh bertahan sampai musim gugur.*
 
 Surat itu dikirim ke cabang Spire dengan salinan untuk kepala sekolahnya.
 
-Dua pekan kemudian, balasan cabang melaporkan hal yang membuat Kovan mencoret sesuatu di daftar panjang miliknya: anak yang ayahnya bekerja untuk Choir itu kembali ke sekolah. Duduknya masih agak terpisah. Tapi duduknya kembali.
+Dua pekan kemudian, balasan cabang melaporkan hal yang membuat Kovan mencoret sesuatu di daftar panjang miliknya: anak yang ayahnya bekerja untuk Choir itu kembali ke sekolah. Duduknya masih agak terpisah. Namun duduknya kembali.
 
 "Satu kursi," kata ibu Tamma ketika laporan itu dibacakan. "Semua proyek besar dunia ini pada akhirnya dihitung dengan satuan kursi."
 ---
@@ -89,7 +89,7 @@ Pertanyaannya biasa: *apakah raja abu-abu punya hobi?* Jawabannya juga biasa —
 
 Yang membuat Sela berhenti adalah tanda tangannya.
 
-Jawaban itu ditulis empat tangan — standar proyek. Tapi di bawahnya ada tanda tangan kelima, kecil, ditambahkan tanpa pengumuman:
+Jawaban itu ditulis empat tangan — standar proyek. Namun di bawahnya ada tanda tangan kelima, kecil, ditambahkan tanpa pengumuman:
 
 *Renn.*
 
@@ -119,11 +119,11 @@ Lalu ia berkata kalimat yang oleh Barim dicatat sebagai kalimat penutup era:
 "DULU AKU BERTANYA SOAL ADA-TIDAKNYA ORANG. SEKARANG MEREKA BERTANYA SOAL KENYANG-TIDAKNYA. DELAPAN RATUS TAHUN PEKERJAAN INI TERNYATA BUKAN PERCUMA: PERTANYAAN KAMI BERANAK."
 ---
 
-Satu hal terakhir yang terjadi pada hari ketiga puluh proyek — kecil, tidak diumumkan, tapi oleh arsip dicatat dengan tinta merah:
+Satu hal terakhir yang terjadi pada hari ketiga puluh proyek — kecil, tidak diumumkan, tetapi oleh arsip dicatat dengan tinta merah:
 
 Jawaban nomor lima puluh satu, untuk pertanyaan seorang janda tua dari pesisir soal apakah orang yang sudah mati tetap mendengar name train, ditulis oleh Ashvarok-Renn dan para pemulang seperti biasa. Diperiksa Sela seperti biasa. Dikirim lewat nat pos seperti biasa.
 
-Tapi sebelum dikirim, nat lorong barak utara meminta izin membacanya lebih dulu.
+Namun sebelum dikirim, nat lorong barak utara meminta izin membacanya lebih dulu.
 
 "KENAPA?" tanya Sela.
 
@@ -133,6 +133,6 @@ Izin diberikan. Nat lorong membaca jawaban itu sendirian sepanjang malam — dan
 
 Sela tidak pernah tahu isi versi itu. Nat lorong tidak mau menerjemahkannya kepada siapa pun.
 
-"TAPI KALAU PEREMPUAN TUA ITU NANTI BERTANYA KEPADA NAT DI DESANYA," katanya saja, "NAT ITU AKU TAHU JAWABANNYA. KAMI SEMUA TAHU. KITA SERING BICARA SOAL INI DI ANTARA BATU-BATU, JAUH SEBELUM MANUSIA TAHU KITA BISA BICARA."
+"NAMUN KALAU PEREMPUAN TUA ITU NANTI BERTANYA KEPADA NAT DI DESANYA," katanya saja, "NAT ITU AKU TAHU JAWABANNYA. KAMI SEMUA TAHU. KITA SERING BICARA SOAL INI DI ANTARA BATU-BATU, JAUH SEBELUM MANUSIA TAHU KITA BISA BICARA."
 
-Dan begitulah bulan kedua proyek seribu jawaban berakhir — bukan dengan pencapaian besar, bukan dengan peristiwa yang masuk buku sejarah, tapi dengan tiga perubahan kecil yang tidak bisa dibalik: jawabannya kini milik dunia, penulisnya kini sebuah rumah, dan pertanyaan-pertanyaan baru lahir setiap hari dari batu-batu yang belum lama ini masih diam.
+Dan begitulah bulan kedua proyek seribu jawaban berakhir — bukan dengan pencapaian besar, bukan dengan peristiwa yang masuk buku sejarah, tetapi dengan tiga perubahan kecil yang tidak bisa dibalik: jawabannya kini milik dunia, penulisnya kini sebuah rumah, dan pertanyaan-pertanyaan baru lahir setiap hari dari batu-batu yang belum lama ini masih diam.

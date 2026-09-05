@@ -52,7 +52,7 @@ Materinya hanya satu pertanyaan, yang harus dijawab setiap murid untuk dirinya s
 
 *Kapan terakhir kali kau menyapa tubuhmu sendiri?*
 
-Jawaban-jawaban itu tidak pernah dibacakan ke siapa pun. Tapi Daven melaporkan satu statistik yang membuat seluruh staf sekolah diam: dari tiga puluh murid angkatan empat, dua puluh delapan menulis kalimat pembukanya sama.
+Jawaban-jawaban itu tidak pernah dibacakan ke siapa pun. Namun Daven melaporkan satu statistik yang membuat seluruh staf sekolah diam: dari tiga puluh murid angkatan empat, dua puluh delapan menulis kalimat pembukanya sama.
 
 *"Tidak pernah. Aku pikir itu aneh."*
 
@@ -84,7 +84,7 @@ Aturan ujiannya ditulis Sela dan disetujui Dewan:
 "Karena persis seperti itulah pekerjaan penjaga sesungguhnya." Daven memandang keluar jendela ke arah utara — ke arah dataran tinggi. "Delapan ratus tahun contohnya tinggal di atas sana. Bertanya tanpa dijawab. Datang tanpa dibalas. Dan dunia... akhirnya dunia ikut bicara juga."
 ---
 
-Tahun ujian itu sendiri menjadi cerita yang oleh angkatan-angkatan berikutnya diceritakan ulang sebagai leganda pendiri — terutama kasus murid nomor dua puluh dua.
+Tahun ujian itu sendiri menjadi cerita yang oleh angkatan-angkatan berikutnya diceritakan ulang sebagai legenda pendiri — terutama kasus murid nomor dua puluh dua.
 
 Murid bernama Pellia Muda (cucu Pellia pendengar pertama, dan sama-sama benci disebut "Muda") mendapat nat yang selama enam bulan tidak pernah menjawab apa pun. Bukan diam marah, bukan diam takut — nat itu hanya menikmati malam, kata tetangga-tetangganya. Menyanyi name train diterima dengan denyut sopan. Sup dibawa mingguan, dikonsumsi tanpa komentar.
 
@@ -101,7 +101,7 @@ Ketika ditanya bagaimana bisa dinilai lulus padahal natnya tidak pernah bicara, 
 "Karena pekerjaan ini bukan membuat batu bicara. Pekerjaan ini memastikan batu tahu ada yang datang. Yang satu tidak bisa dipaksa. Yang lain sudah dibuktikan tiga ratus enam puluh lima kali setahun."
 ---
 
-Kelulusan angkatan empat dihadiri tamu yang jumlahnya melebihi kelulusan semua angkatan sebelumnya digabung — bukan karena tahun itu istimewa, tapi karena kabar ujian nat muda menyebar ke wilayah-wilayah yang belum punya sekolah, dan mereka datang untuk MELIHAT apakah ceritanya benar.
+Kelulusan angkatan empat dihadiri tamu yang jumlahnya melebihi kelulusan semua angkatan sebelumnya digabung — bukan karena tahun itu istimewa, tetapi karena kabar ujian nat muda menyebar ke wilayah-wilayah yang belum punya sekolah, dan mereka datang untuk MELIHAT apakah ceritanya benar.
 
 Yang mereka lihat: empat puluh murid berdiri, satu per satu, memanggil nama nat masing-masing — dan sebagian besar nat menjawab. Beberapa dengan irama panjang. Sebagian dengan satu denyut. Tiga nat menjawab dengan pertanyaan balik, yang oleh muridnya diterjemahkan sambil tertawa.
 
@@ -126,7 +126,7 @@ Dan satu entri penutup untuk bab ini — dari buku pos sekolah, ditulis Wida yan
 
 *Hari 1.340. Kelulusan angkatan empat: 40 murid, 40 nat, 40 rumah baru yang akan punya pendengar.*
 
-*Yang paling kuingat dari angkatan ini bukan nilai, bukan ujian, bukan nat yang bicara atau tidak. Tapi momen kecil sore kemarin: seorang murid — yang natnya paling diam setahun penuh — pulang membawa nat itu dengan dua tangan, seperti orang membawa anak tidur.*
+*Yang paling kuingat dari angkatan ini bukan nilai, bukan ujian, bukan nat yang bicara atau tidak. Namun momen kecil sore kemarin: seorang murid — yang natnya paling diam setahun penuh — pulang membawa nat itu dengan dua tangan, seperti orang membawa anak tidur.*
 
 *Aku tanya: "Kenapa gendong? Dia batu, bisa dibawa santai."*
 
@@ -143,10 +143,10 @@ Satu paragraf tambahan — karena ada satu kabar yang masuk malam itu juga dan t
 
 Kovan melaporkan bahwa dari empat puluh nat muda angkatan uji, TIGA menunjukkan pola yang belum pernah dicatat: mereka tidak hanya menjawab — mereka BERTANYA BALIK kepada penjaganya. Pertanyaan-pertanyaan kecil: soal jadwal, soal keluarga murid, soal kenapa sup mingguan berubah rasa.
 
-"Nat bertanya kepada manusia bukan hal baru," kata Kovan. "Tapi nat MUDA bertanya balik dalam tahun pertamanya... itu data baru." Ia menutup papan hitungnya dengan gerakan final. "Yang Dulu Sunyi delapan ratus tahun untuk belajar bertanya. Nat-nat ini butuh setahun."
+"Nat bertanya kepada manusia bukan hal baru," kata Kovan. "Namun nat MUDA bertanya balik dalam tahun pertamanya... itu data baru." Ia menutup papan hitungnya dengan gerakan final. "Yang Dulu Sunyi delapan ratus tahun untuk belajar bertanya. Nat-nat ini butuh setahun."
 
 "Karena lingkungannya sudah bicara duluan," kata Sela. "Anak apa pun — batu atau bukan — belajar cepat kalau rumahnya sudah ramai."
 
 Dan di barak utara, ketika laporan itu dibacakan, Yang Dulu Sunyi menyala lebih terang dari biasanya dan berkata kalimat yang oleh Barim ditulis besar-besar di arsip:
 
-"BAGUS. ANAK-ANAK YANG BERTANYA BALIK ARTINYA RUMAHNYA AMAN. DELAPAN RATUS TAHUN PEKERJAANKU AKHIRNYA ADA HASIL SAMPINGNYA: GENERASI NAT YANG TIDAK PERNAH TAU RASA TAKUT BERTANYA."
+"BAGUS. ANAK-ANAK YANG BERTANYA BALIK ARTINYA RUMAHNYA AMAN. DELAPAN RATUS TAHUN PEKERJAANKU AKHIRNYA ADA HASIL SAMPINGNYA: GENERASI NAT YANG TIDAK PERNAH TAHU RASA TAKUT BERTANYA."

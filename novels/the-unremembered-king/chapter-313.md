@@ -5,7 +5,7 @@ chapter: 313
 
 Mira dan Maera tinggal tiga hari di Spire sebelum kafilah pulang dijadwalkan. Thessa memberi mereka ruang di sayap tamu, dekat dapur yang baunya selalu roti. Mira tidak keluar banyak. Ia duduk di ambang jendela ruang tamu, menatap ke selatan, dan mengetuk tiga kali ke kusen tiap kali angin menyentuh pelipisnya.
 
-Hari kedua, seorang penjaga lorong datang membawa amplop kecil bergaris. Cap di sudutnya bukan panitia verifikasi, melainkan beban arsip Spire — tanda yang Kovan sebut sebagai baris yang membaca lebih dulu.
+Hari kedua, seorang penjaga lorong datang membawa amplop kecil bergaris. Cap di sudutnya bukan panitia verifikasi — melainkan beban arsip Spire — tanda yang Kovan sebut sebagai baris yang membaca lebih dulu.
 
 "Untuk saksi Mira," kata penjaga itu. "Dari ruang arsip. Bukan jawaban. Pengakuan bahwa namamu tercatat."
 
@@ -75,7 +75,7 @@ Mira mengetuk tiga kali ke bangku. "Di Spire, pria panitia bertanya jarak napas 
 
 "Kau aman selama kau hanya membawa irama, bukan cerita. Cerita bisa diputar. Irama hanya bisa dibandingkan."
 
-Mira menyimpan buku kecilnya. Untuk pertama kalinya sejak di menara, ia merasa catatannya bukan beban, melainkan pegangan yang diakui orang lain.
+Mira menyimpan buku kecilnya. Untuk pertama kalinya sejak di menara, ia merasa catatannya bukan beban — melainkan pegangan yang diakui orang lain.
 
 Pagi setelah kepulangan, Ibu Tamma menyajikan sup di meja barak dengan sendok kayu yang bunyinya sama tiap hari. Mira duduk di kursi ujung, tempat yang selalu kosong saat ia di menara.
 
@@ -83,7 +83,7 @@ Pagi setelah kepulangan, Ibu Tamma menyajikan sup di meja barak dengan sendok ka
 
 "Pasal itu," ulang Mira, dan supnya hangat di tenggorokan.
 
-Gella datang membawa buku kecil berbeda — bukan buku catatan angin, melainkan daftar tangan yang pernah ia rawat. Ia membuka halaman kosong dan menulis nama Mira di bawah nama-nama penambang yang sudah pulih.
+Gella datang membawa buku kecil berbeda — bukan buku catatan angin — melainkan daftar tangan yang pernah ia rawat. Ia membuka halaman kosong dan menulis nama Mira di bawah nama-nama penambang yang sudah pulih.
 
 "Tangan saksi masuk daftar pemulihan," kata Gella. "Bukan karena luka. Karena tangan itu menulis kebenaran yang orang lain baru mulai baca. Tangan yang menahan diam lebih baik daripada tangan yang menulis cerita."
 

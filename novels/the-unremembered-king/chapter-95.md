@@ -41,7 +41,7 @@ Kepala biro memandanginya lama, dengan cara orang tua yang sudah pernah melihat 
 
 "Itu sebabnya saya tidak menolak. Saya menunda. Bedanya penting bagi saya, dan saya minta bedanya dicatat begitu saja di berkas." Dia membuka kotak timbung mininya, mengeluarkan kertas dan pena, dan menulis sendiri baris yang biasa ditulis pegawai — perintah penugasan diterima, keputusan ditunda sampai penetapan akhir komisi verifikasi dokumen warisan Caldrest, tanggal diisi kosong dengan sengaja. Tanda tangannya di atasnya, tegak, ukurannya sama seperti tanda tangan di semua laporan yang selama ini menyelamatkan orang-orang yang tidak mengetahuinya.
 
-Kepala biro membaca baris itu, lalu menandanganinya dengan cap kecil di sudut, dan berdiri. Di ambang pintu ia berhenti, tanpa menoleh penuh. "Sepuluh tahun silam Anda berkata kepada saya bahwa penilaian yang baik adalah penilaian yang tidak berutang pada siapa pun. Saya ingat itu karena jarang ada anak muda yang mengucapkan sesuatu yang masih benar sepuluh tahun kemudian." Ia mengangkat kotaknya. "Pastikan utang Anda selesai, Assayer. Sebelum kursi ini belajar hidup tanpa Anda."
+Kepala biro membaca baris itu, lalu menandatanganinya dengan cap kecil di sudut, dan berdiri. Di ambang pintu ia berhenti, tanpa menoleh penuh. "Sepuluh tahun silam Anda berkata kepada saya bahwa penilaian yang baik adalah penilaian yang tidak berutang pada siapa pun. Saya ingat itu karena jarang ada anak muda yang mengucapkan sesuatu yang masih benar sepuluh tahun kemudian." Ia mengangkat kotaknya. "Pastikan utang Anda selesai, Assayer. Sebelum kursi ini belajar hidup tanpa Anda."
 
 ---
 

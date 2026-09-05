@@ -17,7 +17,7 @@ Sela meletakkan tumpukan kertas lipat di sebelah mangkuknya. Bukan satu lembar. 
 
 "Ini apa?" tanya Ashvarok-Renn, menyelipkan daftar rahasianya kembali.
 
-"Hadiah ulang tahun," kata Sela. "Kau umur delapan belas tahun hari ini. Umur tubuh, ya, kami tahu. Tapi delapan belas tahun tetap delapan belas tahun."
+"Hadiah ulang tahun," kata Sela. "Kau umur delapan belas tahun hari ini. Umur tubuh, ya, kami tahu. Namun delapan belas tahun tetap delapan belas tahun."
 
 Ia membuka lembar pertama. Tulisannya ibu Tamma — huruf tegak, rapi, dengan coretan minyak sup di sudut kanan bawah.
 
@@ -37,7 +37,7 @@ Ia membaca sampai lembar ke-dua-puluh sebelum menyadari tangannya bergetar.
 
 ---
 
-Sela duduk di seberangnya. "Kami putuskan," katanya, "bukan kami yang tulis. Semua orang yang pernah kaudengar. Kami minta masing-masing tulis satu baris. Yang tidak bisa tulan, kami bantu, tapi suaranya harus mereka punya."
+Sela duduk di seberangnya. "Kami putuskan," katanya, "bukan kami yang tulis. Semua orang yang pernah kaudengar. Kami minta masing-masing tulis satu baris. Yang tidak bisa menulis, kami bantu, tetapi suaranya harus mereka punya."
 
 "Semua orang yang pernah kudengar?"
 
@@ -75,7 +75,7 @@ Ashvarok-Renn menatap tulisan itu lama. Lalu ia membuka lembar terakhir.
 
 Ini bukan satu baris. Ini sehelai penuh, ditulis oleh banyak tangan yang berbeda — satu paragraf dari ibu Tamma, satu kalimat dari Daven, coretan Wida di tepinya, bahkan satu huruf besar dari anak lima tahun yang belum lancar menulis namanya.
 
-*Hal yang tidak berubah, versi kami semua: kau mendengar sebelum kau tahu namamu sendiri. Kau tetap mendengar sesudahnya. Delapan belas tahun tubuh ini punya umur. Seribu tahun yang menghuninya punya waktu yang lain. Tapi kami yang pernah kau dengar — kami punya satu hal yang sama: kau adalah alasan kami tahu didengar itu nyata.*
+*Hal yang tidak berubah, versi kami semua: kau mendengar sebelum kau tahu namamu sendiri. Kau tetap mendengar sesudahnya. Delapan belas tahun tubuh ini punya umur. Seribu tahun yang menghuninya punya waktu yang lain. Namun kami yang pernah kau dengar — kami punya satu hal yang sama: kau adalah alasan kami tahu didengar itu nyata.*
 
 Air mata jatuh ke kertas sebelum Ashvarok-Renn sempat menahannya. Bukan isak. Satu tetes, lalu lagi, meresap ke tinta ibu Tamma yang belum kering sepenuhnya.
 
@@ -119,13 +119,13 @@ Malamnya, di meja makan barak the Quiet Vein — meja yang sudah jadi tempat dud
 
 Ibu Tamma meletakkan mangkuk di depan Ashvarok-Renn. "Makan. Ulang tahun tanpa makan itu seperti upacara tanpa nama. Kosong."
 
-"Kau yang nulis yang pertama," kata Ashvarok-Renn.
+"Kau yang menulis yang pertama," kata Ashvarok-Renn.
 
-"Ya. Supaya kau ingat aku yang pegang dapur." Ia duduk. "Tami-Tomi masak lauknya hari ini. Kau harus bilang beda. Dia nunggu."
+"Ya. Supaya kau ingat aku yang pegang dapur." Ia duduk. "Tami-Tomi masak lauknya hari ini. Kau harus bilang beda. Dia menunggu."
 
 Tami-Tomi, di ujung meja, memerah. "Beda bener, Kak. Coba."
 
-Ashvarok-Renn mencicip. "Asamnya lebih tajam. Garamnya kurang seujung sendok." Ia menatap ibu Tamma. "Dia benar-benar beda." Ia menyuap lagi. "Tapi kursi sudutnya sama. Itu yang ibu Tamma tulis di lembar pertama. Dia benar."
+Ashvarok-Renn mencicip. "Asamnya lebih tajam. Garamnya kurang seujung sendok." Ia menatap ibu Tamma. "Dia benar-benar beda." Ia menyuap lagi. "Namun kursi sudutnya sama. Itu yang ibu Tamma tulis di lembar pertama. Dia benar."
 
 Ibu Tamma mengangguk puas. "Bagus. Resep boleh berubah. Prinsip tidak. Itu yang kumau dengar."
 
@@ -135,7 +135,7 @@ Sela meletakkan selembar kertas kosong di tengah meja. "Satu lagi," katanya. "Ka
 
 "Supaya kau lihat delapan belas tahun depan kau masih sama di hal yang penting, dan lain di hal yang membuatmu tumbuh." Sela menatapnya. "Aku tidak mau kau jadi batu yang hanya ingat dirinya sendiri. Aku mau kau jadi orang yang punya catatan."
 
-Ashvarok-Renn mengambil pensil. Ia menulis baris pertama di kertas kosong itu, hurufnya tidak serapinya ibu Tamma, tidak segalanya Daven, tapi miliknya sendiri:
+Ashvarok-Renn mengambil pensil. Ia menulis baris pertama di kertas kosong itu, hurufnya tidak serapinya ibu Tamma, tidak segalanya Daven, tetapi miliknya sendiri:
 
 *Yang berubah: delapan belas tahun lalu aku bangun di tubuh yang mati dan tidak tahu siapa. Hari ini aku bangun, dan empat puluh tujuh orang tahu siapa aku.*
 

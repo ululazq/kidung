@@ -29,7 +29,7 @@ Tharrow mengangguk sekali, dan gerakan itu, untuk pertama kalinya dalam banyak b
 
 Malam itu ia tidak menulis surat apa pun. Malam itu ia membaca.
 
-Empat puluh satu lembar keberatan kompensasi terhampar di lantai kamarnya, disusun menurut tanggal, menurut regu, menurut pasal yang dikutip surat penagihan. Ia sudah lama meninggalkan cara bekerja lamanya, yaitu menyimpulkan lebih dulu lalu mencari fakta yang cocok. Buku catatan barunya mengajarkan urutan yang terbalik. Fakta dahulu. Kesimpulan belakangan, kalau fakta-fakta itu sudah cukup ramai untuk berbicara sendiri.
+Empat puluh satu lembar keberatan kompensasi terhampar di lantai kamarnya, disusun menurut tanggal, menurut regu, menurut pasal yang dikutip surat penagihan. Ia sudah lama meninggalkan cara bekerja lamanya — yaitu menyimpulkan lebih dulu lalu mencari fakta yang cocok. Buku catatan barunya mengajarkan urutan yang terbalik. Fakta dahulu. Kesimpulan belakangan, kalau fakta-fakta itu sudah cukup ramai untuk berbicara sendiri.
 
 Dan malam itu, di lantai kamar sewaan yang dingin, fakta-fakta itu akhirnya berbicara.
 
@@ -39,9 +39,9 @@ Slot itu sudah tidak ada. Slot itu tertangkap bersama kurir bisunya, petugasnya,
 
 Mesin penagihan itu masih berjalan penuh, pikir Tharrow, menuju sebuah pintu yang sudah digembok orang lain.
 
-Ia duduk tegak di tengah lembaran-lembarannya, dan yang ia rasakan bukan kemenangan, melainkan hal yang lebih asing bagi dirinya, yaitu kejelasan. Skema transisi itu fiktif. Bukan fiktif dalam arti tidak resmi, sebab kertas-kertasnya sah dan stempel-stempelnya asli. Fiktif dalam arti yang lebih tua dan lebih buruk. Uang yang ditagih dari regu-regu tidak punya tujuan bekerja nyata, karena program yang seharusnya dibiayainya sudah mati bersama izin penutupan yang dibatalkan. Anggaran pemindahan masih dicairkan untuk program yang tidak pernah ada. Denda-denda transisi masih dipungut untuk transisi yang tidak sedang mentransisikan apa pun ke mana pun. Seluruh bangunan itu hidup hanya sebagai aliran uang, mengalir dari saku pekerja menuju sebuah slot bekas yang sudah menjadi barang bukti.
+Ia duduk tegak di tengah lembaran-lembarannya, dan yang ia rasakan bukan kemenangan — melainkan hal yang lebih asing bagi dirinya — yaitu kejelasan. Skema transisi itu fiktif. Bukan fiktif dalam arti tidak resmi — sebab kertas-kertasnya sah dan stempel-stempelnya asli. Fiktif dalam arti yang lebih tua dan lebih buruk. Uang yang ditagih dari regu-regu tidak punya tujuan bekerja nyata, karena program yang seharusnya dibiayainya sudah mati bersama izin penutupan yang dibatalkan. Anggaran pemindahan masih dicairkan untuk program yang tidak pernah ada. Denda-denda transisi masih dipungut untuk transisi yang tidak sedang mentransisikan apa pun ke mana pun. Seluruh bangunan itu hidup hanya sebagai aliran uang, mengalir dari saku pekerja menuju sebuah slot bekas yang sudah menjadi barang bukti.
 
-Mesinnya tidak dipindahkan saklarnya, tulisnya malam itu di buku catatan, mesinnya dibiarkan jalan tanpa saklar, sebab saklar ada di tangan orang yang sudah tidak ada. Yang tersisa dari rantai itu hanya pipa-pipa kecilnya, dan pipa-pipa kecil itu bisa saya gambar utuh.
+Mesinnya tidak dipindahkan saklarnya, tulisnya malam itu di buku catatan, mesinnya dibiarkan jalan tanpa saklar — sebab saklar ada di tangan orang yang sudah tidak ada. Yang tersisa dari rantai itu hanya pipa-pipa kecilnya, dan pipa-pipa kecil itu bisa saya gambar utuh.
 
 Ia menggambar utuh sampai jauh malam.
 
@@ -51,7 +51,7 @@ Penyerahan dilakukan tiga hari kemudian, dan Tharrow menyiapkannya seperti ia du
 
 Berkas itu tebal dan membosankan, dan kebosanan itu disengaja. Halaman pertama berisi ringkasan satu halaman dengan kop yang benar, kop jasa penulisan surat tepi pasar, bukan kop jabatan yang tidak lagi ia pegang. Halaman-halaman berikutnya berisi tabel tanggal, regu, pasal kutipan, jumlah potongan, dan titik setoran. Lampirannya salinan kwitansi, salinan formulir, dan satu peta aliran kecil yang digambarnya sendiri dengan garis lurus dan kotak-kotak kosong. Tidak ada satu pun nama pelapor. Tidak ada satu pun nama regu. Semua identitas diganti kode huruf yang hanya bisa dibaca oleh orang yang memegang buku catatan kainnya, dan buku itu tidak pernah meninggalkan badannya.
 
-Wali kota Corvan Hale menerimanya di ruang bekerja balai kota, dan Tharrow memperhatikan tangan kanan lelaki itu sebelum mendengarkan kata-katanya, sebab tangan itu adalah alat ukur yang paling jujur di ruangan ini.
+Wali kota Corvan Hale menerimanya di ruang kerja balai kota, dan Tharrow memperhatikan tangan kanan lelaki itu sebelum mendengarkan kata-katanya — sebab tangan itu adalah alat ukur yang paling jujur di ruangan ini.
 
 "Audit saluran dananya sudah ada di meja prosedur Guild sejak lama," kata Hale, membuka halaman pertama. "Kenapa datang ke saya?"
 
@@ -79,11 +79,11 @@ Hale mengambil pena, dan tangan kanannya, untuk kedua kalinya di hadapan mata Th
 
 Runtuhnya skema itu tidak datang seperti ledakan. Runtuhnya datang seperti air yang diputar keran.
 
-Dalam satu pekan, satu demi satu formulir berhenti berlaku. Perintah penundaan pencairan menahan dana santunan fiktif di kas kota. Notifikasi balai kota kepada Koordinasi memaksa cabang Caldrest menanggung pembuktian tujuan setiap denda yang sudah dipungut, dan cabang itu, yang otak operasionalsnya sudah hilang ke kotak bukti ungu dan ke penginapan distrik atas, tidak mampu membuktikan apa pun dalam tenggat yang diberikan. Pos penimbangan yang digandakan diam-diam ditutup pegawainya sendiri. Kontraktor troli per pekan tidak diperpanjang. Jadwal antrean final per blok, dokumen yang dulu disusun oleh tangannya sendiri, resmi ditarik dari papan pengumuman oleh dua petugas yang wajahnya bosan.
+Dalam satu pekan, satu demi satu formulir berhenti berlaku. Perintah penundaan pencairan menahan dana santunan fiktif di kas kota. Notifikasi balai kota kepada Koordinasi memaksa cabang Caldrest menanggung pembuktian tujuan setiap denda yang sudah dipungut, dan cabang itu, yang otak operasionalnya sudah hilang ke kotak bukti ungu dan ke penginapan distrik atas, tidak mampu membuktikan apa pun dalam tenggat yang diberikan. Pos penimbangan yang digandakan diam-diam ditutup pegawainya sendiri. Kontraktor troli per pekan tidak diperpanjang. Jadwal antrean final per blok, dokumen yang dulu disusun oleh tangannya sendiri, resmi ditarik dari papan pengumuman oleh dua petugas yang wajahnya bosan.
 
-Uang panen macet di tempat yang paling tidak bisa digerakkan siapa pun, yaitu di dalam barang bukti.
+Uang panen macet di tempat yang paling tidak bisa digerakkan siapa pun — yaitu di dalam barang bukti.
 
-Di meja lipatnya di tepi pasar, Tharrow mendengar kabar-kabar itu datang sendiri lewat mulut para pelanggan, karena kota selalu bercerita lebih cepat daripada kertasnya, dan ia mencatat tiap kabar dengan tenaga bekerja yang hampir asing bagi dirinya, yaitu tenaga bekerja yang tidak menakutkan apa pun. Ibu Tamma datang sore itu membawa teh dan tidak membawa lipatan.
+Di meja lipatnya di tepi pasar, Tharrow mendengar kabar-kabar itu datang sendiri lewat mulut para pelanggan, karena kota selalu bercerita lebih cepat daripada kertasnya, dan ia mencatat tiap kabar dengan tenaga kerja yang hampir asing bagi dirinya — yaitu tenaga kerja yang tidak menakutkan apa pun. Ibu Tamma datang sore itu membawa teh dan tidak membawa lipatan.
 
 "Tidak ada pesanan hari ini," kata perempuan tua itu, lalu tertawa kecil pada kebiasaan lidahnya sendiri. "Anak-anak bilang potongan minggu ini masuk utuh. Pertama kalinya sejak surat berstempel baru itu datang."
 

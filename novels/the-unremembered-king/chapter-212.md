@@ -17,19 +17,19 @@ Mereka memanggil Ashvarok. Ia membaca lembar itu lama sekali, lalu meletakkannya
 
 "Dan nat-natnya?"
 
-"Nat lembah itu tidak pernah masuk hitungan mana pun." Ashvarok menatap Sela. "Sampai sekarang kita anggap semuanya habis terbakar. Tapi kalau gelar Kael-Uthar itu benar — yang dititip api..." Ia berhenti. "...maka ada yang berhasil menitipkannya sebelum gunung itu meletus. Dan titipan itu masih di sana."
+"Nat lembah itu tidak pernah masuk hitungan mana pun." Ashvarok menatap Sela. "Sampai sekarang kita anggap semuanya habis terbakar. Namun kalau gelar Kael-Uthar itu benar — yang dititip api..." Ia berhenti. "...maka ada yang berhasil menitipkannya sebelum gunung itu meletus. Dan titipan itu masih di sana."
 
 ---
 
-Ekspedisi yang disusun kecil sengaja: Ashvarok, Sela, Kovan, anak Pak Dekan, dan dua murid akademi tingkat dua yang belum pernah keluar Caldrest — Sareth menolak ikut dengan alasan kurikulum, tapi memberi mereka sepuluh aturan pendengar lapangan yang ditulis tangan semalam, aturan kesembilannya berbunyi: "Kalau tanah terasa salah, duduk. Jangan lanjut berdiri."
+Ekspedisi yang disusun kecil sengaja: Ashvarok, Sela, Kovan, anak Pak Dekan, dan dua murid akademi tingkat dua yang belum pernah keluar Caldrest — Sareth menolak ikut dengan alasan kurikulum, tetapi memberi mereka sepuluh aturan pendengar lapangan yang ditulis tangan semalam, aturan kesembilannya berbunyi: "Kalau tanah terasa salah, duduk. Jangan lanjut berdiri."
 
-Perjalanan empat hari ke selatan melewati wilayah yang tidak pernah dilalui siapa pun dari tim inti. Peta Maera menunjukkan jalan dagang lama yang sudah tumbuh rumput, jembatan batu pra-Hegemony yang masih berdiri karena tidak ada yang berani merobohkannya, dan kemudian peta itu habis — bukan karena rusak, tapi karena pembuatnya berhenti menggambar tepat di bibir lembah.
+Perjalanan empat hari ke selatan melewati wilayah yang tidak pernah dilalui siapa pun dari tim inti. Peta Maera menunjukkan jalan dagang lama yang sudah tumbuh rumput, jembatan batu pra-Hegemony yang masih berdiri karena tidak ada yang berani merobohkannya, dan kemudian peta itu habis — bukan karena rusak, tetapi karena pembuatnya berhenti menggambar tepat di bibir lembah.
 
 "Mereka berhenti menggambar di sini," kata Kovan, menyandingkan peta dengan cakrawala yang benar-benar terlihat. "Tiga ratus tahun lalu seseorang duduk persis di titik ini, menoleh ke lembah, dan memutuskan bahwa apa pun yang ada di bawah sana tidak termasuk dunia."
 
 Lembah itu bukan kawah mati. Itu yang membuat semua orang berhenti bicara. Rumput tumbuh hijau di lerengnya, burung-burung beterbangan, sungai kecil mengalir dari utara ke dalamnya dan tidak pernah keluar lagi — dan udara di bibir lembah hangat, hangat yang aneh karena musim baru saja berganti dan malam-malam seharusnya dingin.
 
-Kovan mencocokkan catatan ordo dengan peta Maera di atas lututnya, dan menemukan ketidakcocokan yang lebih menarik dari lanskapnya sendiri: setiap peta Karvess tiga ratus tahun terakhir menggambar lembah ini sebagai segitiga asap abu-abu dengan tulisan "tidak layak huni" — tapi catatan pajak era Hegemony, yang Sela bawa salinannya, masih mencantumkan lembah ini sebagai sumber gandum hingga tahun terakhir sebelum bencana. Dunia tidak pernah sepakat apakah tempat ini mati. Dunia hanya berhenti bertanya.
+Kovan mencocokkan catatan ordo dengan peta Maera di atas lututnya, dan menemukan ketidakcocokan yang lebih menarik dari lanskapnya sendiri: setiap peta Karvess tiga ratus tahun terakhir menggambar lembah ini sebagai segitiga asap abu-abu dengan tulisan "tidak layak huni" — tetapi catatan pajak era Hegemony, yang Sela bawa salinannya, masih mencantumkan lembah ini sebagai sumber gandum hingga tahun terakhir sebelum bencana. Dunia tidak pernah sepakat apakah tempat ini mati. Dunia hanya berhenti bertanya.
 
 Anak Pak Dekan mendahului semua orang. Ia berlutut, menempelkan telapak tangannya ke tanah, dan diam waktu yang cukup lama sampai Sela mulai khawatir.
 
@@ -69,7 +69,7 @@ Dan pesan para pendeta itu, yang diterjemahkan Kovan dan anak Pak Dekan dari ira
 
 Murid akademi yang termuda — laki-laki lima belas tahun dari blok timur yang delapan bulan lalu masih tidak percaya dirinya bisa mendengar apa pun — duduk paling jauh dari nat saat gambaran itu datang, dan justru ia yang menangis duluan, karena potongan yang diterimanya bukan kuil atau pendeta, melainkan dapur: perapian kecil, panci besi, tangan yang sama yang mengajarinya bahwa hangat adalah sesuatu yang bisa ditunggu orang.
 
-"Aku mau pulihkan," kata ia di perkemahan, belum selesai menangis tapi sudah selesai memutuskan. "Api itu. Aku mau jadi orang yang bawa dia pulang."
+"Aku mau pulihkan," kata ia di perkemahan, belum selesai menangis tetapi sudah selesai memutuskan. "Api itu. Aku mau jadi orang yang bawa dia pulang."
 
 Tidak ada yang menjawab "nanti kita lihat dulu". Bahkan Ashvarok. Sela hanya menuliskan nama murid itu di papan kecilnya, di bawah judul baru yang ia garis bawahi dua kali: Daftar Titipan yang Belum Dikembalikan.
 
@@ -103,4 +103,4 @@ Ia berhenti, melihat ke blok yang bersinar, lalu menambahkan baris terakhir sebe
 
 "Pesan diterima. Anak-anaknya mulai datang."
 
-Ashvarok tidur di aula malam itu — bukan karena tugas, tapi karena ingin tahu bagaimana rasanya tidur di rumah yang bernyanyi. Subuhnya ia menulis satu baris di Hourglass: "kedalaman punya lagu pengantar tidur. Seribu tahun tidak kupunya. Sekarang aku paham kenapa para pendeta dulu tidak mau tinggal jauh dari nat."
+Ashvarok tidur di aula malam itu — bukan karena tugas, tetapi karena ingin tahu bagaimana rasanya tidur di rumah yang bernyanyi. Subuhnya ia menulis satu baris di Hourglass: "kedalaman punya lagu pengantar tidur. Seribu tahun tidak kupunya. Sekarang aku paham kenapa para pendeta dulu tidak mau tinggal jauh dari nat."

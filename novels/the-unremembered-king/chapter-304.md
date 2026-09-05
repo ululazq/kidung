@@ -55,7 +55,7 @@ Gella menyimpan palu. "Dan yang menarik di ujung utara tidak peduli bahan. Ia ha
 
 "Kalau begitu," kata Sela, "kita tidak perlu memperbaiki lantai. Kita hanya perlu tahu lantai apa di tiap desa."
 
-"Sudah kita mulai," kata Kovan. "Desa pesisir berbatu, kampung tiga jalur bertanah Liat, barat laut berkayu basah, Spire bermarmar. Empat bahan, satu benang."
+"Sudah kita mulai," kata Kovan. "Desa pesisir berbatu, kampung tiga jalur bertanah liat, barat laut berkayu basah, Spire bermarmar. Empat bahan, satu benang."
 
 Ashvarok-Renn mengangguk. "Tulis di halaman delapan bawah: benang = benda yang menyambung. Bahan = cara benda terdengar. Menarik = cara benda ditarik."
 

@@ -43,7 +43,7 @@ Nenek buta pemilik pantun Widur, ditemani Ilo dan Sovana dari timur, berangkat k
 
 Dua pekan: delapan dari sembilan nat selatan kini mengenal pantun keluarganya. Nat kesembilan — milik kamp terpencil di dasar lembah, penghuninya hanya enam orang dari satu rahim — masih diam total.
 
-"Ninth silent," tulis Kovan di neraca dengan istilah barunya, "tapi bukan mati. Iramanya ada, sangat pelan, seperti napas orang sakit yang membaik. Dia hanya butuh lebih lama. Mungkin pantun mereka belum ketemu bentuk akhirnya."
+"Ninth silent," tulis Kovan di neraca dengan istilah barunya, "tetapi bukan mati. Iramanya ada, sangat pelan, seperti napas orang sakit yang membaik. Dia hanya butuh lebih lama. Mungkin pantun mereka belum bertemu bentuk akhirnya."
 
 Maka dibuatlah keputusan kecil yang besar artinya: jadwal pemulangan wilayah ketiga TIDAK dipatok tanggal. Pertama kalinya proyek ini berkata pada dunia: kami akan datang saat lembah siap, bukan saat dokumen bilang.
 
@@ -53,7 +53,7 @@ Ketua majelis Dewan menandatangani revisi itu dengan komentar yang dikutip dua b
 
 ---
 
-Dan di tengah semua itu, satu peristiwa kecil terjadi yang tidak masuk laporan mana pun tapi oleh Barim ditulis dalam arsip pribadinya:
+Dan di tengah semua itu, satu peristiwa kecil terjadi yang tidak masuk laporan mana pun tetapi oleh Barim ditulis dalam arsip pribadinya:
 
 Malam itu, saat keliling nat-nat Caldrest sesuai rutinitas pendengarnya, ia menemukan Thessa Vael duduk di nat lorong barak utara — nat tua yang dulu sunyi, kini punya jadwal tamu — dan malam itu giliran tamunya adalah... tidak ada. Jadwal murid akademi ternyata kosong; mereka semua menonton latihan pantun.
 
@@ -101,7 +101,7 @@ Yang lega: nat kesembilan, "ninth silent", bangun. Setelah enam pekan irama napa
 
 "Kalian masih di rumah yang sama? Bagus. Aku punya banyak cerita soal kalian. Mulai dari nenek kalian yang dulu suka mencuri jambu ke kebun kami."
 
-Kamp kesembilan menangis seisi rumah. Jadwal pemulangan ketiga tetap tidak dipatok tanggal — tapi Kovan menulis estimasi barunya dengan angka yang membuat semua orang senyum: "kalau nat kesembilan sudah bercerita soal jambu... maksimal tiga pekan lagi."
+Kamp kesembilan menangis seisi rumah. Jadwal pemulangan ketiga tetap tidak dipatok tanggal — tetapi Kovan menulis estimasi barunya dengan angka yang membuat semua orang senyum: "kalau nat kesembilan sudah bercerita soal jambu... maksimal tiga pekan lagi."
 
 Dan tugas baru: pantun Widur ternyata bukan satu-satunya warisan lisan di Karvess. Kabar menyebarnya memicu surat-surat dari wilayah-wilayah lain (bahkan dari luar tujuh belas wilayah pemulangan): keluarga-keluarga di mana-mana mulai MEMERIKSA cerita lama keluarga mereka — dan beberapa menemukan hal yang sama: lagu-lagu aneh yang diturunkan turun-temurun tanpa tahu isinya.
 
@@ -117,7 +117,7 @@ Dan malam penutup pekan, satu entri kecil dari buku harian sekolah — halaman k
 
 "Sebagai arsiparis Spire, saya datang ke sini untuk mempelajari kenapa formulir kami ditolak. Saya pulang dengan pelajaran yang lebih besar: ada pengetahuan yang justru RUSAK kalau diformulirkan. Pantun lembah selatan tidak butuh kolom nama dan tanggal — dia butuh suara cucu yang malu-malu.
 
-Saya masih akan kembali ke Spire. Saya masih akan menyusun formulir. Tapi mulai sekarang setiap formulir saya akan punya satu kolom tambahan di bagian bawah, kosong, tanpa instruksi isi.
+Saya masih akan kembali ke Spire. Saya masih akan menyusun formulir. Namun mulai sekarang setiap formulir saya akan punya satu kolom tambahan di bagian bawah, kosong, tanpa instruksi isi.
 
 Kolom itu bertanya: 'ada cerita keluarga yang belum diceritakan?'
 
@@ -127,4 +127,4 @@ Catatan Odell dibacakan ibu Tamma di dapur, dan tanggapannya langsung dipakai se
 
 "Bilang ke anak itu: kolomnya jangan hanya satu. Kasih dua. Yang kedua isinya: 'kapan terakhir kamu menyanyi untuk dia?'"
 
-Di margin neraca bab 231 itu, Sela menambahkan catatan kecil yang khas arsipnya: "hal-hal kecil hari ini yang layak diingat: teh habis dua teko lebih banyak dari kemarin; nat sudut pasar disapa tujuh orang (rekor baru); dan satu anak kecil berhenti di depan nat lorong barak untuk bilang 'malam, batu' sebelum pulang." Ashvarok membaca pelan, lalu menulis satu kata di margin: "tepat". Dunia yang baik ternyata berjalan seperti itu: bukan oleh lompatan besar, tapi oleh sapaan kecil yang tidak pernah putus.
+Di margin neraca bab 231 itu, Sela menambahkan catatan kecil yang khas arsipnya: "hal-hal kecil hari ini yang layak diingat: teh habis dua teko lebih banyak dari kemarin; nat sudut pasar disapa tujuh orang (rekor baru); dan satu anak kecil berhenti di depan nat lorong barak untuk bilang 'malam, batu' sebelum pulang." Ashvarok membaca pelan, lalu menulis satu kata di margin: "tepat". Dunia yang baik ternyata berjalan seperti itu: bukan oleh lompatan besar, tetapi oleh sapaan kecil yang tidak pernah putus.

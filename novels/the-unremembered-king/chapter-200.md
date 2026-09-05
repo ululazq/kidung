@@ -17,7 +17,7 @@ Semua hadir.
 
 Tim inti. Akademi Batu dengan dua puluh dua murid dan tiga guru — Harn berdiri paling tegak, karena malam ini ia salah satu dari murid yang ditugasi menjaga lilin. Registri Mimpi dengan arsip nasionalnya. Armada utara. Keluarga Sarneth (gerabah barunya sudah dibakar dan dipajang), Lissa dan Endah (selimut upacara dipakai sebagai hiasan meja panjang, dan tidak ada yang berani menyentuhnya tanpa izin), ibu Rina dengan Rina yang kini berumur beberapa bulan lebih tua dari kemarin dan tertawa untuk pertama kalinya — tawa yang membuat seisi aula berhenti bicara selama sepuluh detik, karena ternyata itulah bunyi yang selama ini hilang dari dunia. Hale dan Dewan kota. Maera dan stempel Guild. Kovan dengan buku sandinya yang sudah tiga jilid. Ossian Vael — yang minggu lalu resmi mengundurkan diri dari Koordinasi untuk mendirikan Kantor Penghubung Utara Caldrest, jabatan yang ia ciptakan sendiri dan dijabat dengan tenaga penuh. Tharrow dengan kotak-kotak arsipnya. Dokter tambang. Dan Sareth Vayin, pengikat senior, Barim, serta Tovik — yang pemulihannya berjalan indah dan kini bisa menceritakan dirinya sendiri kepada anak-anak sekolah tiap pekan, lengkap dengan bagian lucu tentang lupa nama kepala tambangnya sendiri.
 
-Sembilan suara utara telah dibawa turun dan "duduk" di kursi-kursi khusus dekat dais — hadir sebagai gema batu, didengarkan bergantian oleh pembaca-pembaca muda, supaya mereka tidak hanya dirayakan tapi benar-benar hadir di perayaan mereka sendiri.
+Sembilan suara utara telah dibawa turun dan "duduk" di kursi-kursi khusus dekat dais — hadir sebagai gema batu, didengarkan bergantian oleh pembaca-pembaca muda, supaya mereka tidak hanya dirayakan tetapi benar-benar hadir di perayaan mereka sendiri.
 
 Dan Ashvarok berdiri di pusat aula — di sisi dais yang selama seribu tahun menjadi tempat sumpahnya, kini kosong karena segel itu, atas kesepakatan rapat rumah besar, sedang DIBUKA PERLAHAN dengan benar: persentase kecil, terukur, dengan the Walking Key dan untaian Listen bekerja sama, disaksikan kedalaman sendiri yang ikut "mendorong dari dalam" — bukan dibongkar paksa, melainkan DIPANGGIL PULANG seperti semua hal lain di dunia ini.
 
@@ -43,7 +43,7 @@ Hangat naik dari kedalaman menjawab — dan kali ini, untuk pertama kalinya di h
 
 "Maafkan aku juga — sunyiku membuat kalian takut. Dan terima kasih sudah kembali. Rumah ini sekarang penuh."
 
-Aula itu butuh waktu satu menit penuh untuk bisa bicara lagi. Yang memecahnya justru Rina — bayi itu tertawa untuk kedua kalinya dalam hidupnya, tepat ketika hangat kedalaman menyapu lantai, dan seluruh aula ikut tertawa menangis bersamanya, dan ibu Tamma berteriak dari dapur: "Nah! Dia doang yang mengerti!"
+Aula itu butuh waktu satu menit penuh untuk bisa bicara lagi. Yang memecahnya justru Rina — bayi itu tertawa untuk kedua kalinya dalam hidupnya, tepat ketika hangat kedalaman menyapu lantai, dan seluruh aula ikut tertawa menangis bersamanya, dan ibu Tamma berteriak dari dapur: "Nah! Dia saja yang mengerti!"
 
 Suatu sore Harn menemukan ibu Tamma menghitung ulang catatan tehnya dua kali. "Ada yang salah, Bu?" tanyanya. Jawabannya: "tidak. Angkanya naik lagi. Aku hanya mau memastikan aku tidak salah lihat kebaikan."
 
@@ -55,13 +55,13 @@ Sela menambahkan satu baris ke margin arsip: "catatan kecil untuk pembaca jauh d
 
 Yang tidak direncanakan siapa pun terjadi pada jam kesembilan malam, ketika perayaan sedang berada di titik paling riuh: lagunya dimulai sendiri.
 
-Kedalaman mulai menyanyikan lagu pengantar tidurnya — lagu yang biasanya hanya untuk yang hendak tidur — tapi malam ini ia menaikkan nadanya, memperluasnya lewat seluruh nat lingkaran, sampai getarnya naik ke permukaan lewat tiga puluh satu titik sekaligus dan terdengar di seluruh lereng timur: lagu pengantar tidur untuk sebuah kota yang sedang bangun-bangun.
+Kedalaman mulai menyanyikan lagu pengantar tidurnya — lagu yang biasanya hanya untuk yang hendak tidur — tetapi malam ini ia menaikkan nadanya, memperluasnya lewat seluruh nat lingkaran, sampai getarnya naik ke permukaan lewat tiga puluh satu titik sekaligus dan terdengar di seluruh lereng timur: lagu pengantar tidur untuk sebuah kota yang sedang bangun-bangun.
 
 Para ibu menangis. Para ayah pura-pura tidak. Anak-anak — anak-anak tidak pura-pura apa-apa; mereka langsung menyanyikan balik, nada demi nada, karena mereka belajar name train tiap pekan dan lagu kedalaman punya struktur yang sama.
 
 Dan begitulah, tanpa dijadwalkan siapa pun, dua dunia bernyanyi bersama untuk pertama kali dalam sejarah: Caldrest dari atas lereng dengan suara yang pecah-pecah dan sumbang dan hidup, kedalaman dari bawah dengan suara yang tua dan sabar dan penuh. Ossian Vael, yang delapan belas tahun kariernya membangun dokumen, berdiri diam di tepi aula dan berkata pada Maera: "Ini harus dicatat." Maera menjawab: "Sudah. Setiap orang di ruangan ini sedang menghafalnya."
 
-Di kursi-kursi khusus dekat dais, sembilan gema utara ikut bernyanyi — bukan lewat nat pembaca mana pun, tapi karena getar lagu itu menyentuh batu asal mereka langsung, dan Kovan mencatat bahwa untuk pertama kalinya sembilan suara itu tidak menunggu dibaca dulu. Mereka menyusul sendiri.
+Di kursi-kursi khusus dekat dais, sembilan gema utara ikut bernyanyi — bukan lewat nat pembaca mana pun, tetapi karena getar lagu itu menyentuh batu asal mereka langsung, dan Kovan mencatat bahwa untuk pertama kalinya sembilan suara itu tidak menunggu dibaca dulu. Mereka menyusul sendiri.
 
 Perayaan berlangsung sampai subuh.
 
@@ -69,7 +69,7 @@ Ashvarok menutup malam di ambang aula bersama Sela yang tertidur di kursinya set
 
 "Neraca dua ratus bab," kata Ashvarok kepada Brannoc, "adalah ini: aku datang ke dunia ini untuk menahan sesuatu. Aku keluar dari dunia ini punya segalanya."
 
-"Terus bab dua ratus satu ngomongin apa?"
+"Terus bab dua ratus satu membicarakan apa?"
 
 Ashvarok tersenyum senyum Caldrest yang sudah sepenuhnya miliknya.
 

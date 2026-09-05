@@ -19,20 +19,20 @@ Satu hal terakhir tentang batu kecil itu, dicatat Sela setahun setelah pemakaman
 
 Ada yang aneh pada tulisan ukirannya.
 
-Kalimat kedua nesaninya — *DAN AKHIRNYA DIDENGARKAN* — menipis sedikit lebih cepat dari kalimat pertama. Bukan rusak, bukan tergerus cuaca: hanya lebih sering disentuh. Ribuan jari sepanjang tahun memilih kalimat itu untuk disentuh — orang-orang yang datang membawa cerita mereka sendiri soal menunggu didengarkan, dan pergi setelah menyentuh janji bahwa menunggu bisa selesai.
+Kalimat kedua nisannya — *DAN AKHIRNYA DIDENGARKAN* — menipis sedikit lebih cepat dari kalimat pertama. Bukan rusak, bukan tergerus cuaca: hanya lebih sering disentuh. Ribuan jari sepanjang tahun memilih kalimat itu untuk disentuh — orang-orang yang datang membawa cerita mereka sendiri soal menunggu didengarkan, dan pergi setelah menyentuh janji bahwa menunggu bisa selesai.
 
 Forge bisa membuat batu bertahan sepuluh abad.
 
 Ia tidak bisa membuat batu tidak dikasihi manusia.
 
-"Maka catat," kata Ashvarok-Renn ketika Sela melaporkan temuannya, "kalau suatu hari ada yang protes nesaninya cepat pudar: itu bukan kerusakan. Itu statistik."
+"Maka catat," kata Ashvarok-Renn ketika Sela melaporkan temuannya, "kalau suatu hari ada yang protes nisannya cepat pudar: itu bukan kerusakan. Itu statistik."
 ---
 
 Tahun-tahun berikutnya membawa perkembangan yang tidak bisa diprediksi siapa pun — dan justru itu yang membuatnya layak dicatat.
 
-Batu kecil itu menjadi titik awal jalur ziarah baru: orang-orang datang ke Vhal-Duren bukan lagi hanya untuk Yang Mendengar Sampai Habis, tapi untuk dua makhluk sekaligus — sahabat bundar dan sahabat kecil — dan pos pendengar memperluas bangkunya dua kali dalam lima tahun.
+Batu kecil itu menjadi titik awal jalur ziarah baru: orang-orang datang ke Vhal-Duren bukan lagi hanya untuk Yang Mendengar Sampai Habis, tetapi untuk dua makhluk sekaligus — sahabat bundar dan sahabat kecil — dan pos pendengar memperluas bangkunya dua kali dalam lima tahun.
 
-Murid-murid Akademi Arsip menjadikan makam itu tempat sumpah kelulusan: bukan sumpah pada jabatan atau negara, tapi satu kalimat yang diucapkan dengan tangan menyentuh batu kecil: *"Aku akan menjaga pertanyaannya."*
+Murid-murid Akademi Arsip menjadikan makam itu tempat sumpah kelulusan: bukan sumpah pada jabatan atau negara, tetapi satu kalimat yang diucapkan dengan tangan menyentuh batu kecil: *"Aku akan menjaga pertanyaannya."*
 
 Dan pada tahun ketujuh, terjadi hal yang oleh Sela dicatat dengan tinta merah — warna tanggal-tanggal penting:
 
@@ -47,7 +47,7 @@ Cerita anak itu menyebar. Dan mulai saat itu, para gembala lereng punya aturan l
 
 Dan satu entri terakhir untuk bab ini — surat tahunan yang oleh Sela ditulis setiap tanggal kematiannya, dikirim lewat nat lereng barat ke arah biara, meski biara sudah lama kosong dan penerimanya sudah jauh lebih dekat dari siapa pun.
 
-Suratnya selalu sama panjangnya: satu halaman. Isinya selalu berbeda. Tapi penutupnya delapan tahun berturut-turut tidak pernah berganti:
+Suratnya selalu sama panjangnya: satu halaman. Isinya selalu berbeda. Namun penutupnya delapan tahun berturut-turut tidak pernah berganti:
 
 *Kabar tahun ini: semua pertanyaan Anda masih dijaga. Dua belas gulungan kotak hati sudah terjawab tujuh. Sisa lima kami kerjakan pelan-pelan — sesuai pesan Anda sendiri: pertanyaan tidak usang.*
 
@@ -60,11 +60,11 @@ Suratnya selalu sama panjangnya: satu halaman. Isinya selalu berbeda. Tapi penut
 *dengan diam.*
 ---
 
-Tahun-tahun berlalu, dan batu kecil itu menemukan perannya dalam sejarah yang panjang — peran yang tidak direncanakan siapa pun tapi cocok sekali dengan pemiliknya.
+Tahun-tahun berlalu, dan batu kecil itu menemukan perannya dalam sejarah yang panjang — peran yang tidak direncanakan siapa pun tetapi cocok sekali dengan pemiliknya.
 
 Ia menjadi tempat para pendengar muda datang ketika mendengarkan terasa gagal. Setiap kali seorang murid Akademi Arsip kehabisan jawaban untuk keluarga yang berduka, setiap kali seorang penjaga pos lelah oleh cerita orang lain, setiap kali seorang dokter kehilangan pasien — mereka naik ke Vhal-Duren. Duduk di sisi timur. Menyentuh kalimat yang menipis.
 
-Dan pulang dengan satu hal: bukan semangat baru, bukan nasihat — tapi izin. Izin untuk tidak sempurna. Karena laki-laki di bawah batu ini empat puluh tahun hanya bisa diam, dan diamnya saja sudah cukup menyelamatkan nama-nama.
+Dan pulang dengan satu hal: bukan semangat baru, bukan nasihat — tetapi izin. Izin untuk tidak sempurna. Karena laki-laki di bawah batu ini empat puluh tahun hanya bisa diam, dan diamnya saja sudah cukup menyelamatkan nama-nama.
 
 Yang Mendengar Sampai Habis menghitung pengunjung makam itu seperti ia menghitung segalanya: teliti, sabar, tanpa memberi tahu siapa pun angkanya sampai ditanya.
 
@@ -108,7 +108,7 @@ Di halaman terakhir arsip pos pendengar Vhal-Duren tahun kesepuluh, Barim menuli
 
 Dan satu adegan terakhir untuk batu kecil ini — jauh di masa depan, saat hampir semua nama era besar sudah masuk lagu:
 
-Seorang arsiparis muda Akademi Arsip the Quiet Vein — generasi yang lahir setelah Pembaca Tua wafat, yang mengenalnya hanya sebagai bab dalam buku pelajaran — naik ke Vhal-Duren untuk tugas praktikumnya: membersihkan nesan dan memeriksa kondisi tulisan.
+Seorang arsiparis muda Akademi Arsip the Quiet Vein — generasi yang lahir setelah Pembaca Tua wafat, yang mengenalnya hanya sebagai bab dalam buku pelajaran — naik ke Vhal-Duren untuk tugas praktikumnya: membersihkan nisan dan memeriksa kondisi tulisan.
 
 Ia membersihkan kalimat pertama dengan kuas halus. Lalu sampai di kalimat kedua.
 
@@ -122,7 +122,7 @@ Lalu ia meletakkan pahatnya kembali. Mengambil kuas dan tinta biasa. Dan di sebe
 
 *Kalimat kedua tidak boleh diukir ulang.*
 
-*Keausannya adalah datanya. Ini satu-satunya nesan di dunia yang kerusakannya justru isi arsip: tiap milimeter yang pudar = satu manusia yang datang menyentuhnya karena merasa dilihat.*
+*Keausannya adalah datanya. Ini satu-satunya nisan di dunia yang kerusakannya justru isi arsip: tiap milimeter yang pudar = satu manusia yang datang menyentuhnya karena merasa dilihat.*
 
 *Biarkan pudar dengan tenang. Kalau suatu hari hilang seluruhnya — itu artinya pekerjaan beliau sudah selesai sungguh-sungguh:*
 
@@ -133,7 +133,7 @@ Laporan arsiparis muda itu dibaca Sela — yang kini sudah lama bergelar Kepala 
 
 Ia membacanya dua kali. Lalu memanggil Ashvarok-Renn, yang datang dengan langkah yang tetap pelan meski tubuh Renn kini dua puluh sembilan tahun dan vein-scar kanan tinggal bayangan samar di pergelangan.
 
-"Baca ini," kata Sela. "Tentang nesanmu."
+"Baca ini," kata Sela. "Tentang nisanmu."
 
 Ashvarok-Renn membacanya. Tertawa sekali — pendek — di bagian "kerusakannya adalah datanya". Lalu diam lama memandang jendela ke arah barat daya, ke arah dataran tinggi yang kaburnya kadang terlihat di sore bersih.
 

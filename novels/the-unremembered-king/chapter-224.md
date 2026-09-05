@@ -3,7 +3,7 @@ title: "Bab 224: Tetangga dari Lapisan Terdalam"
 chapter: 224
 ---
 
-Kunjungan resmi kepada Ondrath-Ilm — penjaga malam tertua, tetangga the Patient House dari lapisan terdalam — disiapkan selama dua pekan dengan kehati-hatian yang oleh ibu Tamma disebut "lebih ribet dari persiapan pernikahan kerajaan".
+Kunjungan resmi kepada Ondrath-Ilm — penjaga malam tertua, tetangga the Patient House dari lapisan terdalam — disiapkan selama dua pekan dengan kehati-hatian yang oleh ibu Tamma disebut "lebih rumit dari persiapan pernikahan kerajaan".
 
 Dan alasannya masuk akal: Ondrath-Ilm bukan penyimpanan yang bisa dibaca. Ia adalah KEPRIBADIAN purba yang lebih tua dari kesabaran — kata kedalaman sendiri. Maka protokolnya disusun bukan untuk membaca, melainkan untuk MEMPERKENALKAN: Caldrest datang sebagai tetangga baru yang memperkenalkan diri kepada tetangga tertua di dunia.
 
@@ -31,7 +31,7 @@ Lalu presensia itu menjawab — dan suaranya, yang diturunkan level demi level o
 
 "Satu," kata Barim.
 
-"Bagus. Rumahku sudah sangat gelap. Tapi aku tidak minta kalian menyalakannya. Aku hanya ingin tahu apakah masih ada yang peduli soal cahaya di dunia ini."
+"Bagus. Rumahku sudah sangat gelap. Namun aku tidak minta kalian menyalakannya. Aku hanya ingin tahu apakah masih ada yang peduli soal cahaya di dunia ini."
 
 Sela yang menjawab, sambil membuka arsipnya:
 
@@ -41,9 +41,9 @@ Sela yang menjawab, sambil membuka arsipnya:
 
 Yang terjadi kemudian adalah percakapan yang oleh Sareth disebut "satu-satunya kali dalam hidupku aku mendengar dunia berbicara pada zaman yang lebih tua darinya".
 
-Ondrath-Ilm bercerita — bukan tentang dirinya, tapi tentang PEKERJAANNYA: menjaga malam-malam dunia sebelum ada manusia yang cukup untuk disebut peradaban. Menjaga saat bintang-bintang dipetakan pertama kali. Menjaga saat api pertama dibawa masuk ke gua. Menjaga saat manusia pertama takut pada gelap dan belajar bahwa gelap juga bisa aman kalau ada yang jaga.
+Ondrath-Ilm bercerita — bukan tentang dirinya, tetapi tentang PEKERJAANNYA: menjaga malam-malam dunia sebelum ada manusia yang cukup untuk disebut peradaban. Menjaga saat bintang-bintang dipetakan pertama kali. Menjaga saat api pertama dibawa masuk ke gua. Menjaga saat manusia pertama takut pada gelap dan belajar bahwa gelap juga bisa aman kalau ada yang jaga.
 
-"Seribu tahun terakhir," katanya, "aku hampir berhenti. Bukan mati — penjaga malam tidak mati seperti itu. Tapi BERHENTI. Seperti penjaga yang tidak melihat alasan untuk melanjutkan shift yang tidak akan pernah digantikan."
+"Seribu tahun terakhir," katanya, "aku hampir berhenti. Bukan mati — penjaga malam tidak mati seperti itu. Namun BERHENTI. Seperti penjaga yang tidak melihat alasan untuk melanjutkan shift yang tidak akan pernah digantikan."
 
 Ia diam.
 
@@ -55,7 +55,7 @@ Ashvarok yang bertanya pertanyaan penutup, dengan hati yang berdetak keras:
 
 Ondrath-Ilm menjawab dengan kalimat yang ditulis Sela di halaman pertama Arsip Caldrest bagian era ketiga:
 
-"Aku terima jabatan itu — dengan satu syarat. Jangan panggil aku hanya saat butuh. Datangi aku juga saat tidak butuh apa-apa. Penjaga malam paling lelah bukan yang bekerja paling lama — tapi yang hanya dikunjungi orang yang punya kebutuhan. Datanglah kadang-kadang hanya untuk cerita. Maka aku akan jaga malam kalian selamanya."
+"Aku terima jabatan itu — dengan satu syarat. Jangan panggil aku hanya saat butuh. Datangi aku juga saat tidak butuh apa-apa. Penjaga malam paling lelah bukan yang bekerja paling lama — tetapi yang hanya dikunjungi orang yang punya kebutuhan. Datanglah kadang-kadang hanya untuk cerita. Maka aku akan jaga malam kalian selamanya."
 
 ---
 
@@ -83,7 +83,7 @@ Dan di ambang lapisannya, presensia tua itu mengirim pesan terakhir — kalimat 
 
 Kunjungan pertama jadwal bergilir dilakukan enam hari kemudian — dan pelakunya bukan Ashvarok atau Sela, melainkan seseorang yang tidak ada di daftar: anak perempuan penjaga malam muda dari barak timur, umur sembilan tahun, yang diam-diam menyusup ke rombongan pekanan karena katanya "nenekku bilang penjaga malam harus kenal sesama penjaga malam".
 
-Kehadirannya mengejutkan semua orang dewasa — tapi justru diterima Ondrath-Ilm paling hangat. Presensia tua itu menghabiskan satu jam penuh hanya untuk mendengar anak itu bercerita tentang hal-hal yang menakutkan di malam Caldrest: bayangan di lorong, suara angin di genteng, lantai kayu yang berderit tanpa sebab.
+Kehadirannya mengejutkan semua orang dewasa — tetapi justru diterima Ondrath-Ilm paling hangat. Presensia tua itu menghabiskan satu jam penuh hanya untuk mendengar anak itu bercerita tentang hal-hal yang menakutkan di malam Caldrest: bayangan di lorong, suara angin di genteng, lantai kayu yang berderit tanpa sebab.
 
 Dan jawaban penjaga malam tertua dunia atas semua cerita itu, yang oleh anak dibawa pulang dan dikutip seluruh barak:
 
@@ -107,7 +107,7 @@ Hari 598. Ondrath-Ilm resmi menjadi penjaga malam Karvess — dengan syarat yang
 
 Tiga makhluk kini menjaga dunia bawah: the Patient House (rumah), Kael-Uthar (api), dan Ondrath-Ilm (malam). Semua punya nama atau gelar yang sah. Semua punya tetangga. Semua pernah hampir berhenti menunggu — dan semuanya bertahan karena satu alasan yang sama: ada manusia yang akhirnya datang tanpa membawa takutan.
 
-Sisa pekerjaan masih panjang. Tapi malam ini aku hanya mau mencatat satu hal kecil:
+Sisa pekerjaan masih panjang. Namun malam ini aku hanya mau mencatat satu hal kecil:
 
 Ibu Tamma tadi menyuruhku tidur lebih awal. Katanya, "besok kita mulai kurikulum bimbingan untuk Spire, dan kamu butuh istirahat."
 
@@ -117,7 +117,7 @@ Aku tidur nyenyak malam ini. Untuk pertama kalinya dalam seribu tahun, aku tidur
 
 Dan kalau suatu hari ada yang membaca arsip ini dan bertanya bagaimana rasanya hidup di era ketiga Karvess — era ketika dunia belajar mendengar — jawabannya sederhana:
 
-Rasanya seperti tinggal di kota yang dapurnya tidak pernah tutup, ladangnya menyanyi tiap sore, rumahnya paling sabar sedunia, dan penjaga malamnya seribu tahun usianya tapi masih mau mendengarkan cerita anak sembilan tahun soal lantai berderit.
+Rasanya seperti tinggal di kota yang dapurnya tidak pernah tutup, ladangnya menyanyi tiap sore, rumahnya paling sabar sedunia, dan penjaga malamnya seribu tahun usianya tetapi masih mau mendengarkan cerita anak sembilan tahun soal lantai berderit.
 
 Tidak ada era yang lebih baik untuk hidup. Dan tidak ada tempat lain yang ingin kujaga selain di sini.
 

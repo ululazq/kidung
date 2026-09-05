@@ -5,7 +5,7 @@ chapter: 177
 
 Kunjungan bekerja kedua Pembaca Tua ke Caldrest dimulai dengan hal yang tidak pernah terjadi dalam sejarah jabatan itu: jabatan itu memperkenalkan nama aslinya.
 
-"Sebelum kita mulai," kata wanita tua itu, berdiri di kepala meja panjang gudang perkakas — meja yang kini telah ditambah dua bangku lagi supaya semua muat — "satu koreksi protokol. Kalian memanggil saya Pembaca Tua sejak awal, dan saya membiarkannya karena jabatan memang harus dipisahkan dari manusianya. Tapi rapat ini bukan sidang. Ini meja bekerja. Dan di meja bekerja, nama jabatan boleh digantung di pintu."
+"Sebelum kita mulai," kata wanita tua itu, berdiri di kepala meja panjang gudang perkakas — meja yang kini telah ditambah dua bangku lagi supaya semua muat — "satu koreksi protokol. Kalian memanggil saya Pembaca Tua sejak awal, dan saya membiarkannya karena jabatan memang harus dipisahkan dari manusianya. Namun rapat ini bukan sidang. Ini meja kerja. Dan di meja kerja, nama jabatan boleh digantung di pintu."
 
 Ia duduk. Ruangan menunggu.
 
@@ -31,7 +31,7 @@ Ruangan diam menyerapnya. Maera yang pertama bicara, suara Assayer yang menghitu
 
 Ossian Vael, yang selama ini duduk paling ujung, berdiri. Dan pejabat Koordinasi Artefak Regional, birokrat paling rapi Karvess, berkata kepada ruangan dengan suara yang tidak stabil:
 
-"Maka aku mengajukan permintaan pertamaku sebagai anggota meja ini. Baca batu itu. Sekarang. Aku akan tunggu di luar sampai selesai, karena aku tidak sanggup mendengarnya sambil duduk, tapi tolong—"
+"Maka aku mengajukan permintaan pertamaku sebagai anggota meja ini. Baca batu itu. Sekarang. Aku akan tunggu di luar sampai selesai, karena aku tidak sanggup mendengarnya sambil duduk, tetapi tolong—"
 
 "Duduk, Vael," kata Sareth. "Kamu ikut dari awal. Semuanya. Itu gunanya meja."
 
@@ -71,7 +71,7 @@ Ia masuk ke barak, mengambil papan Hourglass, dan menulis pertanyaan itu sebagai
 
 Hari 318, tambahan. Kalau penambalan punya dua setengah, bagaimana dengan seniku? Ada kemungkinan yang harus kuperiksa: bahwa the Walking Key bukan bakat lengkap. Bahwa aku seribu tahun ini menjaga pintu dunia dengan satu tangan.
 
-Ia menutup papan itu dan tersenyum — senyum orang yang baru menemukan bahwa pekerjaannya lebih besar dari dugaan, yang bagi sebagian orang adalah kabar buruk tapi baginya, malam ini, justru kabar terbaik dalam seribu tahun:
+Ia menutup papan itu dan tersenyum — senyum orang yang baru menemukan bahwa pekerjaannya lebih besar dari dugaan, yang bagi sebagian orang adalah kabar buruk tetapi baginya, malam ini, justru kabar terbaik dalam seribu tahun:
 
 Artinya masih ada yang harus dipelajari. Artinya belum selesai. Artinya hidup ini masih panjang.
 
@@ -79,7 +79,7 @@ Dan untuk raja tanpa kerajaan yang dulunya berpikir pekerjaannya hanya menunggu 
 
 Esoknya, Sela membaca baris itu dan menulis balasan yang membuat kakaknya menggeleng sepanjang pagi:
 
-"Satu tangan juga bisa menjaga rumah. Tapi dua tangan bisa bertepuk tangan. Selamat masuk era baru, Kak."
+"Satu tangan juga bisa menjaga rumah. Namun dua tangan bisa bertepuk tangan. Selamat masuk era baru, Kak."
 
 Ashvarok membaca balasan itu, dan di bawahnya menulis satu kata terakhir yang mengakhiri perdebatan keluarga ini untuk pagi itu:
 
@@ -91,7 +91,7 @@ Catatan untuk pencatat keluarga: mulai hari ini, semua catatan tentang utara pak
 
 Ia keluar ke udara pagi dengan papan itu, dan Caldrest menyambutnya seperti biasa — pasar yang membuka, anak-anak name train yang menyebut nama satu sama lain, ibu Tamma yang membersihkan bangku panggung dapur untuk sesi malam. Kota ini tidak tahu bahwa pagi ini penjaganya baru saja menemukan bahwa seninya belum lengkap, dan bahwa di utara ada empat ratus alasan untuk melanjutkan.
 
-Tidak tahu, tapi tetap berjalan. Itulah hal terbaik tentang Caldrest: ia melangkah duluan, mengerti belakangan, dan tetap benar.
+Tidak tahu, tetapi tetap berjalan. Itulah hal terbaik tentang Caldrest: ia melangkah duluan, mengerti belakangan, dan tetap benar.
 
 Di tangan kanannya, papan Hourglass. Di saku dada kanan, arsip pribadi yang makin tebal. Di bawah sana, empat puluh hasta lebih dalam, kedalaman menunggu dengan sabar untuk percakapan besoknya. Dan di utara, sembilan hari perjalanan jauhnya, sembilan suara menyebut nama-nama kepada batu.
 

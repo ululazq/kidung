@@ -7,11 +7,11 @@ Penutup arc WARISAN bukan perayaan. Bukan Hari Utara, bukan upacara, bukan catat
 
 Ibu Tamma di kursi sudutnya, Tami-Tomi di sebelahnya membawa mangkuk sup yang rasanya sudah sama dengan resep lama. Brannoc di sebelah Harn, bahu kanannya telah lama berhenti ia pakai untuk mengangkat palu. Kovan dan anak Pak Dekan duduk dengan buku hitung terbuka di pangkuan, menghitung berapa banyak piring malam ini. Ossian dan Maera di ujung yang jarang mereka duduki bersama. Tovik di bangku sekolah, tidak bicara banyak, hanya sesekali menimpali dengan suara berderak yang kini sudah dianggap wajar. Ashvarok-Renn di tengah, bukan sebagai raja, hanya sebagai anggota keluarga yang kebetulan berusia seribu tahun.
 
-"Delapan belas tahun," kata ibu Tamma membuka, sendoknya berhenti sejenak di tepi mangkuk. "Sejak aku buka dapur ini, aku selalu yang pegang sendok. Sekarang Tami-Tomi yang pegang. Aku masih duduk di kursi ini. Tapi dapur bukan milikku lagi. Milik siapa pun yang mau mengaduk."
+"Delapan belas tahun," kata ibu Tamma membuka, sendoknya berhenti sejenak di tepi mangkuk. "Sejak aku buka dapur ini, aku selalu yang pegang sendok. Sekarang Tami-Tomi yang pegang. Aku masih duduk di kursi ini. Namun dapur bukan milikku lagi. Milik siapa pun yang mau mengaduk."
 
 "Begitu juga sekolah tambang," kata Brannoc. "Palu di dinding. Harn yang menempa. Aku hanya datang makan saban hari."
 
-"Aku masih hitung," kata Kovan. "Tapi angka yang kuhitung bukan kuota tambang. Angka musim. Dunia punya ritme sendiri, dan aku hanya catat."
+"Aku masih hitung," kata Kovan. "Namun angka yang kuhitung bukan kuota tambang. Angka musim. Dunia punya ritme sendiri, dan aku hanya catat."
 
 Ashvarok-Renn mendengar satu per satu. Delapan belas tahun silam, ia yang memulai setiap menyapa, ia yang memutus setiap sengketa, ia yang berdiri di depan saat dunia takut. Sekarang ia duduk, dan dunia berjalan tanpa kehadirannya di setiap sudut.
 
@@ -29,13 +29,13 @@ Pellia Muda, yang duduk di lantai depan sebagai tamu angkatan muda, mengangkat t
 
 Meja sejenak hening. Ashvarok-Renn meletakkan sendok.
 
-"Delapan belas tahun silam, aku takut hal itu," kata Ashvarok-Renn. "Tapi lihat meja ini. Ibu Tamma sudah tidak pegang sendok utama. Brannoc sudah tidak pegang palu. Kovan sudah tidak hitung kuota. Semuanya berjalan tanpa aku memegang. Jadi kalau aku pergi, yang hilang bukan kebiasaannya. Yang hilang hanya satu kursi."
+"Delapan belas tahun silam, aku takut hal itu," kata Ashvarok-Renn. "Namun lihat meja ini. Ibu Tamma sudah tidak pegang sendok utama. Brannoc sudah tidak pegang palu. Kovan sudah tidak hitung kuota. Semuanya berjalan tanpa aku memegang. Jadi kalau aku pergi, yang hilang bukan kebiasaannya. Yang hilang hanya satu kursi."
 
 "Dan kursi itu akan diisi," kata Sela tanpa mendongak dari papan. "Seperti kursi Pembaca Tua di Vhal-Duren diisi kambing. Seperti kursi Tovik di sekolah diisi murid. Tempat selalu cari penjaganya."
 
 Pellia Muda mengangguk pelan. "Jadi aku tidak perlu takut kalian pergi."
 
-"Kalian harus takut kehilangan," kata ibu Tamma tegas. "Tapi tidak takut dunia berhenti. Dua hal beda."
+"Kalian harus takut kehilangan," kata ibu Tamma tegas. "Namun tidak takut dunia berhenti. Dua hal beda."
 
 ---
 
@@ -61,13 +61,13 @@ Malam kian dalam. Sup habis. Mangkuk diangkat oleh Tami-Tomi dan seorang murid S
 
 "Besok datang lagi, Pak?" tanya Harn.
 
-"Kalau ada sup." Brannoc tersenyum. "Dapur bukan milik ibu Tamma lagi. Tapi aku tetap tamu yang diajak makan."
+"Kalau ada sup." Brannoc tersenyum. "Dapur bukan milik ibu Tamma lagi. Namun aku tetap tamu yang diajak makan."
 
 Mereka pergi. Ossian dan Maera berjalan berdampingan ke rumah masing-masing di ujung lembah, dua mantan musuh yang kini sama-sama pensiunan yang hanya datang mendengar.
 
 Ibu Tamma tetap di kursi sudutnya sejenak, menatap ruang kosong yang tadi penuh. "Delapan belas tahun," bisiknya. "Lama juga."
 
-"Tapi bukan beban," kata Tami-Tomi. "Kau yang ajarkan itu."
+"Namun bukan beban," kata Tami-Tomi. "Kau yang ajarkan itu."
 
 Ashvarok-Renn, sebelum pulang ke kamar, menulis di buku kecilnya kalimat penutup arc — yang delapan belas tahun silam tidak akan pernah ia tulis karena ia pikir ia yang harus menjaga semuanya:
 
@@ -85,7 +85,7 @@ Ashvarok-Renn berjalan keliling barak pagi itu, bukan untuk memimpin, hanya untu
 
 Ibu Tamma menerima mangkuk itu. "Itu baru benar. Kursi bukan tahta. Tempat duduk, bukan perintah."
 
-"Resepnya tetap punyamu juga," kata Tami-Tomi pelan. "Aku yang mengaduk. Rasa beda, tapi prinsip dari kursi ini." Ibu Tamma tertawa kecil, pertama kalinya pagi itu, dan supnya hangat di tangan yang sudah delapan belas tahun menjaga dapur tanpa perlu lagi berdiri di kompor.
+"Resepnya tetap punyamu juga," kata Tami-Tomi pelan. "Aku yang mengaduk. Rasa beda, tetapi prinsip dari kursi ini." Ibu Tamma tertawa kecil, pertama kalinya pagi itu, dan supnya hangat di tangan yang sudah delapan belas tahun menjaga dapur tanpa perlu lagi berdiri di kompor.
 
 Di halaman, murid-murid Sekolah Mendengar lewat membawa daftar nama untuk latihan pembacaan esok. Salah satu dari mereka menyapa Ashvarok-Renn dengan anggukan, bukan dengan tunduk — delapan belas tahun silam mereka akan membungkuk. Sekarang mereka mengangguk pada tetangga tua yang kebetulan berusia seribu tahun.
 
@@ -105,4 +105,4 @@ Ia meletakkan buku itu di samping tempat tidur, di sebelah buku-buku catatan del
 
 "Mungkin ini," bisiknya pada ruang kosong, "yang dimaksud menjadi raja yang tidak perlu lagi dipanggil."
 
-Matanya tertutup. Di luar, angin lembah utara membawa bau rumput kering dan suara samar penyapa pagi di kejauhan — bukan suaranya, tapi suara dunia yang akhirnya cukup dengan dirinya sendiri.
+Matanya tertutup. Di luar, angin lembah utara membawa bau rumput kering dan suara samar penyapa pagi di kejauhan — bukan suaranya, tetapi suara dunia yang akhirnya cukup dengan dirinya sendiri.

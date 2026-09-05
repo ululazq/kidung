@@ -9,7 +9,7 @@ Persiapannya menjadi proyek gabungan terbesar Caldrest sejak pembangunan rumah-r
 
 Yang paling ditunggu justru siapa yang akan memanen. Vess-Morath masih di dalam penyimpanan — pemulangan kelompok butuh persiapan besar yang belum selesai. Maka jawabannya datang dari keputusan yang membuat Sareth Vayin berkata "ini hal paling benar yang pernah dilakukan dunia": panen pertama dikerjakan bersama oleh keturunan para petani utara (yang ditemukan Ossian lewat silsilah), murid-murid the Veyl Akademie, warga Caldrest, dan — dengan syarat khusus — keluarga perkebunan.
 
-"Tanah ini diajarkan tiga tangan," kata Ashvarok saat membagi wilayah kerja. "Tangan penanam aslinya, tangan penjaganya, dan tangan yang belum pernah menyentuhnya tapi akan meneruskannya. Setiap tangan mendapat petaknya."
+"Tanah ini diajarkan tiga tangan," kata Ashvarok saat membagi wilayah kerja. "Tangan penanam aslinya, tangan penjaganya, dan tangan yang belum pernah menyentuhnya tetapi akan meneruskannya. Setiap tangan mendapat petaknya."
 
 Sebelum panen, ada pekerjaan yang harus diselesaikan dulu — permintaan kedalaman lewat irama: tuliskan nama-nama keluarga petani utara di batu batas ladang. Semuanya. Semua yang hilang.
 
@@ -35,7 +35,7 @@ Ashvarok membacanya: hak milik Vess-Morath dikembalikan penuh, status menunggu p
 
 "Sekarang baca namaku di dalam dokumen itu. Bagaimana aku ditulis?"
 
-Dan di sinilah Ashvarok sadar ada sesuatu yang terlewat semua orang: dalam seluruh dokumen hukum itu, the Patient House ditulis sebagai entitas berdaulat, penitip, penjaga — semua gelarnya. Tapi tidak ada satu pun pasal yang menyebut gelar lamanya, gelar yang diberikan para pendeta zaman purba ketika mereka menitipkan api: gelar yang artinya penjaga titipan tertua.
+Dan di sinilah Ashvarok sadar ada sesuatu yang terlewat semua orang: dalam seluruh dokumen hukum itu, the Patient House ditulis sebagai entitas berdaulat, penitip, penjaga — semua gelarnya. Namun tidak ada satu pun pasal yang menyebut gelar lamanya, gelar yang diberikan para pendeta zaman purba ketika mereka menitipkan api: gelar yang artinya penjaga titipan tertua.
 
 "Aku akan minta Dewan menambahkan pasal," kata Ashvarok. "Gelarmu dituliskan."
 

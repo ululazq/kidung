@@ -125,7 +125,7 @@ Dan sebelum tidur, satu percakapan kecil dengan Kovan di tepi api unggun kemah:
 
 Kovan mengangguk, lalu berkata hal yang membuat Ashvarok diam lama:
 
-"Delapan bulan silam setiap kali kita menemukan sesuatu yang tidak ada di protokol... kita menambahkan pasal baru. Tapi Raja — suatu saat nanti, proyek ini akan selesai dan tidak ada lagi yang bisa ditambahkan." Ia memandang api unggun. "Pasal apa yang akan tersisa?"
+"Delapan bulan silam setiap kali kita menemukan sesuatu yang tidak ada di protokol... kita menambahkan pasal baru. Namun Raja — suatu saat nanti, proyek ini akan selesai dan tidak ada lagi yang bisa ditambahkan." Ia memandang api unggun. "Pasal apa yang akan tersisa?"
 
 Ashvarok menjawab tanpa ragu:
 

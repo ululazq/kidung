@@ -15,7 +15,7 @@ Benturan kecil itu nyaris menjatuhkan Ashvarok. Tubuh ini memeluk balik tanpa di
 
 "Kau bau tungku," jawab Ashvarok, dan lidahnya berterima kasih kepada ingatan otot karena menemukan kalimat itu sendiri, seperti menemukan kunci di saku yang sudah lama tidak ia buka.
 
-Sela mundur selangkah, memegang kedua lengannya, mengukurnya dari atas sampai bawah seperti assayer mengukur barang lelang. Matanya basah tapi tidak menetes. Dia sudah memutuskan menetes dilarang hari ini — dan anak yang sudah memutuskan sesuatu di umur sebelas tahun adalah anak yang sulit digoyahkan.
+Sela mundur selangkah, memegang kedua lengannya, mengukurnya dari atas sampai bawah seperti assayer mengukur barang lelang. Matanya basah tetapi tidak menetes. Dia sudah memutuskan menetes dilarang hari ini — dan anak yang sudah memutuskan sesuatu di umur sebelas tahun adalah anak yang sulit digoyahkan.
 
 "Brannoc bilang enam orang, empat keluar," katanya. "Aku duduk di tangga ini sejak tengah malam. Aku menghitung semua kemungkinan. Semuanya. Yang paling baik hanya satu."
 
@@ -29,7 +29,7 @@ Kamar mereka adalah setengah ruangan dibelah rak: dua kasur lantai, satu tungku 
 
 "Setengah punyamu," katanya, mendorong gelas itu ke Ashvarok. "Setengah punyaku. Aturannya sama seperti biasa. Yang minum pertama harus cerita."
 
-Ashvarok menimbang gelas itu sebentar. Kaca pecah yang dijadikan porseling dua orang. Ada arsitektur dalam kemiskinan ini, dan arsitekturnya lebih tua dari semalam — arsitektur yang dibangun dari kebiasaan, dari kepercayaan yang tidak pernah diucapkan, dari dua orang yang belajar berbagi bahkan ketika yang mereka punya hanyalah pecahan.
+Ashvarok menimbang gelas itu sebentar. Kaca pecah yang dijadikan porselen dua orang. Ada arsitektur dalam kemiskinan ini, dan arsitekturnya lebih tua dari semalam — arsitektur yang dibangun dari kebiasaan, dari kepercayaan yang tidak pernah diucapkan, dari dua orang yang belajar berbagi bahkan ketika yang mereka punya hanyalah pecahan.
 
 "Aku ingatnya tidak rapi," katanya akhirnya. "Kepalaku kena batu. Ada bagian yang kosong."
 
@@ -37,7 +37,7 @@ Ashvarok menimbang gelas itu sebentar. Kaca pecah yang dijadikan porseling dua o
 
 Seperti seribu tahun, pikirnya. Ia minum dulu, membeli waktu — dan di dalam kehangatan teh yang menuruni tenggorokan tubuh pinjaman ini, ia merasakan sesuatu yang aneh: kehangatan yang tidak ia pesan, yang datang dari ingatan otot yang lebih tua daripada kesadarannya.
 
-"Seperti kalau kau mencuri uang jajanmu sendiri," kata dia, memilih kebenaran yang bisa dipakai. "Kau tahu kau yang melakukan, tapi tidak ingat detail jalannya."
+"Seperti kalau kau mencuri uang jajanmu sendiri," kata dia, memilih kebenaran yang bisa dipakai. "Kau tahu kau yang melakukan, tetapi tidak ingat detail jalannya."
 
 Sela menatapnya lama. Anak sebelas tahun dengan mata yang menghitung — dan di dalam mata itu, Ashvarok melihat sesuatu yang tidak ia duga: bukan kecurigaan, tetapi kehati-hatian orang yang sudah kehilangan terlalu banyak dan tidak mau kehilangan lagi.
 
@@ -45,7 +45,7 @@ Sela menatapnya lama. Anak sebelas tahun dengan mata yang menghitung — dan di 
 
 "Aku belum ke dokter tambang."
 
-"Maka kita pergi sore ini." Dia berkata final, lalu mengambil gelasnya sendiri — gelas utuh yang retak halus di dasar — dan menyeruput. "Ceritamu belum selesai. Aku menunggu sampai kepalamu puluh persen lebih penuh. Tapi ada yang harus kau tahu duluan, karena suratnya datang kemarin."
+"Maka kita pergi sore ini." Dia berkata final, lalu mengambil gelasnya sendiri — gelas utuh yang retak halus di dasar — dan menyeruput. "Ceritamu belum selesai. Aku menunggu sampai kepalamu puluh persen lebih penuh. Namun ada yang harus kau tahu duluan, karena suratnya datang kemarin."
 
 Dia mengeluarkan selembar kertas dari bawah kasurnya. Kertas itu dilipat delapan dan sudah lembek di lipatannya, ditandatangani dengan segel lilin hitam the Quiet Vein — segel yang sama dengan cincin di ibu jari kanan Ashvarok, yang berdenyut pelan mengikuti jantungnya seperti janji yang tidak pernah diminta.
 
@@ -91,7 +91,7 @@ Ashvarok meletakkan surat itu. Di dadanya, sesuatu yang bukan miliknya berdenyut
 
 "Kau tidak tahu itu."
 
-"Tidak," setuju Ashvarok. "Tapi aku tahu hitungan. Dan hitungannya tidak sampai ke situ."
+"Tidak," setuju Ashvarok. "Namun aku tahu hitungan. Dan hitungannya tidak sampai ke situ."
 
 ---
 
@@ -127,4 +127,4 @@ Malam itu, selagi Sela tidur dengan gelas kaca pecah masih di meja, Ashvarok dud
 
 Ashvarok diam satu detik. "Renn memanggilnya dengan nama saja," kata Sela sendiri, masih tanpa buka mata. "Kau jawab 'Sela'. Pendek. Kasar sedikit. Seperti orang yang sudah sering menakuti." Ia berguling membelakanginya. "Kau cepat belajar. Itu bagus dan menakutkan. Tidurlah, Renn. Besok kau dipanggil orang bersarung tangan bersih, dan yang mereka cek pertama selalu mata."
 
-Ashvarok duduk lebih lama. Di luar, Caldrest mendingin — udara malam masuk melalui celah-celah papan pinus, membawa bau tanah dan garam dan sesuatu yang lebih tua dari keduanya. Di dalam, seorang raja tanpa nama belajar menjadi bocah tambang, baris demi baris, seperti menempa ulang pedang dari besi bekas pagar. Dan di atas meja retak itu, gelas kaca pecah yang menjadi porseling dua orang masih menunggu — menunggu teh berikutnya, menunggu cerita berikutnya, menunggu dua orang yang belajar saling menjaga dari pecahan yang mereka punya.
+Ashvarok duduk lebih lama. Di luar, Caldrest mendingin — udara malam masuk melalui celah-celah papan pinus, membawa bau tanah dan garam dan sesuatu yang lebih tua dari keduanya. Di dalam, seorang raja tanpa nama belajar menjadi bocah tambang, baris demi baris, seperti menempa ulang pedang dari besi bekas pagar. Dan di atas meja retak itu, gelas kaca pecah yang menjadi porselen dua orang masih menunggu — menunggu teh berikutnya, menunggu cerita berikutnya, menunggu dua orang yang belajar saling menjaga dari pecahan yang mereka punya.

@@ -9,7 +9,7 @@ Kertas kode di balik pintu gudang malam itu berbunyi seperti biasa, kalimat yang
 
 Mereka menuruni tingkat-tingkat atas dalam keadaan tambang yang berubah watak sejak dua malam silam. Tambang selalu punya suara — tetesan, derit kerangka kayu, gemuruh jauh troli yang tidak ada. Tetapi malam ini tambang bersuara dengan cara lain — dari atas, dari sumbu angka dan tangga-tangga yang naik ke permukaan, terbawa arus udara malam yang turun mencari kedalaman, sampailah bunyi-bunyi dapur barak distrik timur — denting kaleng, tawa pecah, dan potongan-potongan cerita yang jatuh satu demi satu seperti tetesan dari atap.
 
-"…terus dia tolok uangnya begitu saja…" — suara Ondar, entah bagaimana sudah pindah dari dapur ke mulut orang lain dan kembali lagi, makin halus di tiap perjalanan.
+"…terus dia tolak uangnya begitu saja…" — suara Ondar, entah bagaimana sudah pindah dari dapur ke mulut orang lain dan kembali lagi, makin halus di tiap perjalanan.
 
 "…yang baiki engselnya juga dia…"
 
@@ -32,7 +32,7 @@ Hangat.
 
 Bukan panas batu — batu Caldrest dingin seperti biasa. Bukan sisa Cinder miliknya sendiri. Hangat itu datang dari dalam, dari alamat yang hanya ia kenali karena seribu tahun lamanya ia mengukurnya seperti orang mengukur lubang kosong di dirinya: the Remainder, sisa dirinya, bahan bakar the Walking Key, angka yang sejak malam penutupan titik bocor hanya mengenal satu arah. Ia berdiri sangat diam di dekat dais yang bohong itu dan melakukan sesuatu yang belum pernah ia lakukan dengan harapan — ia memeriksa.
 
-Pemeriksaannya dilakukan cara-cara lama, hati-hati, seperti orang menyentuh burung yang mungkin hanya angin. Dan angin itu bukan angin. Ada lebih banyak dirinya di sana malam ini daripada semalam — tipis, hampir tak layak disebut pertumbuhan, sepersekian persen yang hanya bisa dideteksi pemiliknya, tapi nyata, seperti garis cahaya di bawah pintu. Sesuatu yang kosong selama seribu tahun sedang mengisi, dan ia tahu persis mekanismenya karena ia yang menuliskan hukumnya zaman dunia masih memakai namanya untuk sumpah: the Remainder pulih lewat cerita orang tentangnya. Kebaikan, ketakutan, legenda yang jujur.
+Pemeriksaannya dilakukan cara-cara lama, hati-hati, seperti orang menyentuh burung yang mungkin hanya angin. Dan angin itu bukan angin. Ada lebih banyak dirinya di sana malam ini daripada semalam — tipis, hampir tak layak disebut pertumbuhan, sepersekian persen yang hanya bisa dideteksi pemiliknya, tetapi nyata, seperti garis cahaya di bawah pintu. Sesuatu yang kosong selama seribu tahun sedang mengisi, dan ia tahu persis mekanismenya karena ia yang menuliskan hukumnya zaman dunia masih memakai namanya untuk sumpah: the Remainder pulih lewat cerita orang tentangnya. Kebaikan, ketakutan, legenda yang jujur.
 
 Cerita yang jujur. Rak garam. Engsel dapur. Sanggahan satu paket. Empat orang yang dihitung keluar dari tumpukan. Sup yang diminum, bukan dihitung.
 
@@ -70,6 +70,6 @@ Ia memikirkan lima nama yang tidak pernah lagi ia sebut, lima orang yang dulu me
 
 "Kak Renn," panggil Ondar dari troli. "Naik."
 
-Ia naik. Troli bergerak melewati lorong-lorong yang masih membawa gema dapur — seseorang di atas tertawa, seseorang menambahkan detail baru tentang stempel delapan sisi yang salah tapi ramai — dan Ashvarok berdiri di sudut troli dengan satu tangan di saku dada kanan, di atas kertas kecil yang dilipat dua, dan melakukan satu-satunya hal yang pantas untuk malam seperti ini:
+Ia naik. Troli bergerak melewati lorong-lorong yang masih membawa gema dapur — seseorang di atas tertawa, seseorang menambahkan detail baru tentang stempel delapan sisi yang salah tetapi ramai — dan Ashvarok berdiri di sudut troli dengan satu tangan di saku dada kanan, di atas kertas kecil yang dilipat dua, dan melakukan satu-satunya hal yang pantas untuk malam seperti ini:
 
 Ia membiarkan dirinya diceritakan, dan mendengarkan sebentar lebih lama dari yang aman, dan tidak menutup telinganya. Troli bergerak naik ke permukaan, dan udara malam Caldrest menerima mereka semua dengan dingin yang sama tanpa membedakan siapa yang baru saja menjadi sedikit lebih ada daripada kemarin.

@@ -11,7 +11,7 @@ Kovan datang pada jam pertama setelah shift pagi seperti yang dijanjikan, membaw
 
 "Tiga orang mengawasi jalanku dari kantor ke sini. Kebiasaan lama. Semuanya kupakai untuk memastikan aku tidak diikuti." Kovan duduk, meletakkan buku sandinya di seberang papan Ashvarok, dan untuk beberapa saat mereka hanya duduk melihat dua benda itu — dua arsip pribadi dari dua orang yang selama dua tahun saling mengukur dari jarak persimpangan utama. "Aturan main. Aku mulai."
 
-Ia membuka buku sandinya di halaman-halaman yang belum pernah dibaca manusia lain: deret-deret angka dan simbol yang terkumpul sejak bab 61, ditulis dalam sistem yang ia rancang sendiri karena doktrin pengikat senior melarangnya ditulis di mana pun. Getar koridor timur sepersepuluh detik. Bisikan jam sebelas hari-H. Kata galeri bisu yang dihafal lima orang tapi hanya dia yang menuliskan bentuk bunyinya. Sapuan-sapuan yang dicatat tanggal, durasi, arah. Dua tahun pendengaran yang tidak pernah diakui siapa pun, terbuka di atas meja dapur gudang.
+Ia membuka buku sandinya di halaman-halaman yang belum pernah dibaca manusia lain: deret-deret angka dan simbol yang terkumpul sejak bab 61, ditulis dalam sistem yang ia rancang sendiri karena doktrin pengikat senior melarangnya ditulis di mana pun. Getar koridor timur sepersepuluh detik. Bisikan jam sebelas hari-H. Kata galeri bisu yang dihafal lima orang tetapi hanya dia yang menuliskan bentuk bunyinya. Sapuan-sapuan yang dicatat tanggal, durasi, arah. Dua tahun pendengaran yang tidak pernah diakui siapa pun, terbuka di atas meja dapur gudang.
 
 Ashvarok membacanya tanpa menyentuh, halaman demi halaman, dan semakin jauh semakin pelan napasnya, karena yang ada di buku itu adalah peta sapuan lawannya selama ini — lebih lengkap daripada miliknya sendiri, karena Kovan menghitung tanpa ikut bertarung, dan pengamat murni selalu mencatat lebih bersih daripada petarung.
 
@@ -25,7 +25,7 @@ Ashvarok membacanya tanpa menyentuh, halaman demi halaman, dan semakin jauh sema
 
 "Bicara terakhir," kata Ashvarok.
 
-"Kupikir begitu juga. Dan kupikir kau adalah satu-satunya yang mungkin pernah mendengarnya — bukan dengan telinga zaman ini, tapi dengan ingatan seribu tahun. Jadi pertanyaanku bukan tentang bahasa. Pertanyaanku: apa yang dikatakan Vel-Ghora kepada para penjaganya sebelum dunia lupa cara mendengarkannya?"
+"Kupikir begitu juga. Dan kupikir kau adalah satu-satunya yang mungkin pernah mendengarnya — bukan dengan telinga zaman ini, tetapi dengan ingatan seribu tahun. Jadi pertanyaanku bukan tentang bahasa. Pertanyaanku: apa yang dikatakan Vel-Ghora kepada para penjaganya sebelum dunia lupa cara mendengarkannya?"
 
 Lilin Sela sudah dingin, tentu saja, karena mereka bicara sampai sore. Ashvarok memandang deret-deret itu lama, dan di dalam dirinya, di ruang tempat the Remainder tinggal seperti bara yang dikubur, ada sesuatu yang bergerak menuju permukaan — ingatan yang bukan milik tubuh Renn, ingatan aula, seratus suara, dan di balik seratus suara itu, satu suara yang lebih tua yang hadir di setiap sumpah penjaga tanpa pernah dicatat di manapun, suara yang dulu mereka sebut pendengar di balik pintu, dan yang tidak pernah, tidak sekali pun dalam seribu tahun, ia pikirkan sebagai BAHASA.
 
@@ -45,7 +45,7 @@ Bukan hilang seperti the Hollowed. Hilang seperti anak sembilan tahun: tidak pul
 
 Ashvarok menemukannya dalam empat puluh menit, karena dia tahu tempat-tempat di mana orang pergi ketika kepala mereka lebih berat dari kaki mereka: ceruk-ceruk tua, pos-pos jaga yang ditinggalkan, titik-titik tinggi dari mana tambang bisa dipandang utuh. Ondar duduk di tepi galeri tua utara dengan kaki menggantung ke kegelapan, matanya kering dan kosong, dan tidak menoleh ketika Ashvarok duduk di sebelahnya meninggalkan jarak satu orang.
 
-"Dolm," kata Ondar, tanpa pembuka. "Rekan setim yang mati waktu runtuhan pertama. Hari ini sepuluh tahun, ternyata. Aku hitung mundur semalaman sampai pagi terus aku sadar hari ini tanggalnya terus aku jalan aja. Kakiku sendiri yang bawa."
+"Dolm," kata Ondar, tanpa pembuka. "Rekan setim yang mati waktu runtuhan pertama. Hari ini sepuluh tahun, ternyata. Aku hitung mundur semalaman sampai pagi terus aku sadar hari ini tanggalnya terus aku jalan saja. Kakiku sendiri yang bawa."
 
 "Kau duduk dua hasta dari wilayah sunyi."
 
@@ -53,7 +53,7 @@ Ashvarok menemukannya dalam empat puluh menit, karena dia tahu tempat-tempat di 
 
 Ashvarok memikirkan jawabannya lebih lama dari jawaban mana pun dalam seribu tahun. Di belakang mereka, kegelapan galeri tua bernapas pelan, dan ia sadar betul bahwa mereka sedang duduk di tepi telinga yang selama ini mereka takuti — dan bahwa anak ini tanpa sadar telah datang menangis di depan pintunya.
 
-"Artinya namanya pindah tangan," kata Ashvarok akhirnya. "Dari banyak mulut ke satu mulut. Itu bukan hilang. Itu jadi tanggung jawab." Ia melepas sepatunya, dan sebelum Ondar mengerti apa yang terjadi, mandor muda itu sudah mencelupkan kakinya ke air bekuan dingin di dasar ceruk dan menyuruh Ondar melakukan hal yang sama, dan duduk di sana, kaki telanjang di air es, dua pekerja tambang merayakan hari kematian seorang rekan dengan cara yang tidak dirancang siapa pun tapi jujur sepenuhnya: dengan menceritakan Dolm. Semua yang mereka ingat. Cara tertawanya. Utangnya pada Renn yang tidak pernah sempat dilunasi. Cara ia berdiri saat shift terakhir.
+"Artinya namanya pindah tangan," kata Ashvarok akhirnya. "Dari banyak mulut ke satu mulut. Itu bukan hilang. Itu jadi tanggung jawab." Ia melepas sepatunya, dan sebelum Ondar mengerti apa yang terjadi, mandor muda itu sudah mencelupkan kakinya ke air bekuan dingin di dasar ceruk dan menyuruh Ondar melakukan hal yang sama, dan duduk di sana, kaki telanjang di air es, dua pekerja tambang merayakan hari kematian seorang rekan dengan cara yang tidak dirancang siapa pun tetapi jujur sepenuhnya: dengan menceritakan Dolm. Semua yang mereka ingat. Cara tertawanya. Utangnya pada Renn yang tidak pernah sempat dilunasi. Cara ia berdiri saat shift terakhir.
 
 Mereka bicara sampai sore. Dan ketika mereka naik kembali, Ondar berjalan lebih ringan, dan Ashvarok — Ashvarok merasakan sesuatu yang membuatnya berhenti di tengah lorong dan memeriksanya dua kali seperti memeriksa hasil ukur yang salah membaca.
 

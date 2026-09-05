@@ -15,7 +15,7 @@ Kovan menunggunya di tingkat empat, tepat di bawah papan garis karantina. Muda i
 
 "Bersama saya sampai ambang?" tanya Kovan.
 
-"Tidak perlu." Ia mulai berjalan. Melangkah lima puluh, telapak kiri menyentuh dinding. Melangkah lima puluh lagi, telapak kanan. Batu Caldrest dingin seperti batu mana pun, dan berbicara seperti batu mana pun, kalau yang mendengarkan tidak sabar. "Tapi kau mau menanyakan sesuatu. Tanyakan. Di sini tidak ada alat yang mencatat."
+"Tidak perlu." Ia mulai berjalan. Melangkah lima puluh, telapak kiri menyentuh dinding. Melangkah lima puluh lagi, telapak kanan. Batu Caldrest dingin seperti batu mana pun, dan berbicara seperti batu mana pun, kalau yang mendengarkan tidak sabar. "Namun kau mau menanyakan sesuatu. Tanyakan. Di sini tidak ada alat yang mencatat."
 
 Kovan mengikuti dua langkah di belakangnya, jarak orang yang menghormati sekaligus waspada. "Hitungan saya," katanya akhirnya. "Sudah sampai mana yang boleh saya tunjukkan?"
 
@@ -53,7 +53,7 @@ Ia tidak menyentuh dais dua kali. Satu sentuhan sudah cukup mahal bagi kedua bel
 
 Endapan garam di sisi utara: jujur. Umurnya panjang dan bertingkat, lapisan demi lapisan, tidak ada yang dipindah dari tempatnya — garam yang dipindahkan selalu punya arah letak yang terlalu sopan. Geometri ruangan — membosankan dengan cara yang benar. Sudut-sudutnya menjawab pertanyaan alat dengan angka-angka yang sama yang dicatat para penilai. Retakan jauh di timur — mati, rapi, dan rapi itulah yang tidak jujur. Ia menyusuri dinding timur dengan telapak yang tidak lagi menempel, hanya melayang sehelai kulit dari permukaan, dan di sekitar blind door lorong B ia berhenti lebih lama. Batu pintu itu menua dengan jujur juga — kelupas di tempat yang wajar, gelap di tempat yang wajar — tetapi menuanya seragam, seragam seperti usia yang ditunggu sampai tiba. Ia tidak menemukan apa yang bisa ia tulis tentang hal itu, dan hal-hal yang tidak bisa ditulis selalu ia simpan untuk versi kedua. Ia bangkit, mengambil lampunya, dan memutar badan menghadap retakan jauh di sisi timur aula.
 
-Retakan itu terbaca mati. Formasi gagal, seperti kesimpulan para alat. Tapi kematian yang ia kenal selalu berantakan — kematian meninggalkan sisa, dan sisa bersuara kalau didekati cukup dekat. Kematian ini rapi. Rapi seperti ranjang yang sudah lama tidak ditiduri tapi masih disisir tiap pagi.
+Retakan itu terbaca mati. Formasi gagal, seperti kesimpulan para alat. Namun kematian yang ia kenal selalu berantakan — kematian meninggalkan sisa, dan sisa bersuara kalau didekati cukup dekat. Kematian ini rapi. Rapi seperti ranjang yang sudah lama tidak ditiduri tetapi masih disisir tiap pagi.
 
 Ada penambal di Caldrest.
 

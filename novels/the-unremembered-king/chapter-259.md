@@ -41,7 +41,7 @@ Kembar Tami-Tomi.
 
 ---
 
-Tapi ibu Tamma menambahkan satu syarat yang membuat semua orang terdiam:
+Namun ibu Tamma menambahkan satu syarat yang membuat semua orang terdiam:
 
 "Aku tidak pensiun."
 
@@ -59,11 +59,11 @@ bukan upacara — melainkan hari pertama kembar itu memasak sendiri seluruh menu
 
 (Sela mencatat: "ibu Tamma menahan diri selama empat jam. Rekor dunia.")
 
-Hasilnya: semua masakan jadi. Sedikit beda rasa. Dan satu murid Vel-Morra berkata sup Arunya "rasa seperti kampungku tapi lebih hangat" — dan kembar itu tahu mereka tidak gagal.
+Hasilnya: semua masakan jadi. Sedikit beda rasa. Dan satu murid Vel-Morra berkata sup Arunya "rasa seperti kampungku tetapi lebih hangat" — dan kembar itu tahu mereka tidak gagal.
 
 Di akhir hari, ibu Tamma bangun dari kursinya, mencicipi sup terakhir, dan memberi vonis:
 
-"...enak. Beda dari punyaku. Tapi enak."
+"...enak. Beda dari punyaku. Namun enak."
 
 Ia menatap kembar itu.
 
@@ -172,7 +172,7 @@ Dan satu baris terakhir dari kembar Tami-Tomi:
 
 "Kami akan duduk di kursi itu suatu hari.
 
-Tapi belum sekarang.
+Namun belum sekarang.
 
 Sekarang kami masih punya banyak sup untuk dipelajari."
 
@@ -238,7 +238,7 @@ Dan kalimat itu — "sup tidak menunggu sejarah" — oleh Sela dikutip di halama
 
 "Kalimat ibu Tamma mengingatkan kami semua:
 
-Sejarah itu penting. Tapi sup lebih penting.
+Sejarah itu penting. Namun sup lebih penting.
 
 Karena sejarah diberi tahu setelah terjadi.
 
@@ -252,13 +252,13 @@ Dan satu baris dari kembar Tami-Tomi — yang menutup dengan cara tujuh tahun:
 
 "Kalau begitu kami masak sup SEKARANG.
 
-Sejarah bisa nulis sendiri."
+Sejarah bisa menulis sendiri."
 
 ---
 
 Dan satu baris dari ibu Tamma — yang menutup dengan bangga:
 
-"NAH. GITU.
+"NAH. SEPERTI ITU.
 
 Murid terbaikku."
 
@@ -280,7 +280,7 @@ Pada KALIAN."
 
 Kembar itu diam — tidak sanggup menjawab.
 
-"Kalian datang sebagai anak tujuh tahun yang nganggep batu teman. Sekarang kalian jadi orang yang membuat seluruh dunia berpikir ulang soal batu."
+"Kalian datang sebagai anak tujuh tahun yang menganggap batu teman. Sekarang kalian jadi orang yang membuat seluruh dunia berpikir ulang soal batu."
 
 Ia berdiri, mematikan lampu dapur terakhir.
 
@@ -296,7 +296,7 @@ Dan suara ibu Tamma, dari arah pintu:
 
 "Bukan aku yang memilih kalian.
 
-DUNIA YANG MEMILIH. AKU CUMA YANG NULIS DI BUKU."
+DUNIA YANG MEMILIH. AKU HANYA YANG MENULIS DI BUKU."
 
 ---
 
@@ -361,7 +361,7 @@ Dan satu adegan terakhir — bertahun-tahun kemudian:
 
 Ibu Tamma sudah sangat tua. Duduk di kursi sudutnya sepanjang hari, tidak bisa mengaduk lagi.
 
-Tapi setiap sup yang keluar dari dapur itu... tetap dibawa ke mejanya untuk dicicipi.
+Namun setiap sup yang keluar dari dapur itu... tetap dibawa ke mejanya untuk dicicipi.
 
 Dan vonisnya tetap ditunggu seluruh kota.
 

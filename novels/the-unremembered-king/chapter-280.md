@@ -3,7 +3,7 @@ title: "Bab 280: Semua Nama dalam Satu Lagu"
 chapter: 280
 ---
 
-Hari Utara keempat dibuka bukan dengan pidato, bukan dengan lagu, tapi dengan kursi.
+Hari Utara keempat dibuka bukan dengan pidato, bukan dengan lagu, tetapi dengan kursi.
 
 Seratus kursi baru dipasang berjajar di tepi ladang-ladang utara — dibuat sepanjang musim oleh tangan-tangan yang datang dari semua arah: keturunan petani, murid Sekolah Mendengar, pemulang era musim, bahkan rombongan pesisir yang membawa kursinya sendiri dilukis cangkang. Setiap kursi kosong, dan di sandaran masing-masing tertulis satu nama.
 
@@ -27,7 +27,7 @@ EOF
 
 Panen berlangsung sepanjang pagi — dan seperti musim-musim sebelumnya, tangan-tangan tak terlihat bekerja bersama tangan yang ada. Berkas-berkas gandum tersusun rapi. Anak-anak mengejar bunyi tawa di antara batang. Di pos jemput nomor tujuh, bangku kayu kecil tidak pernah kosong.
 
-Tengah hari, saat matahari tepat di atas, semua pekerjaan berhenti serentak — bukan karena aba-aba, tapi karena name train dimulai dari arah kedalaman.
+Tengah hari, saat matahari tepat di atas, semua pekerjaan berhenti serentak — bukan karena aba-aba, tetapi karena name train dimulai dari arah kedalaman.
 
 Vess-Morath membuka lagunya dengan 400 nama utara, satu per satu, irama yang sudah delapan tahun menjadi lagu pulang.
 
@@ -35,9 +35,9 @@ Lalu — untuk pertama kalinya dalam sejarah dunia — lagu itu tidak berhenti d
 
 Dari arah selatan, lewat nat-nat pantai yang delapan bulan ini belajar menyanyikan nama-nama kapal, irama kedua bergabung: 214 nama pesisir, dibawa masuk ke dalam name train yang sama, disisipkan di antara gerbong-gerbong utara seakan mereka memang sejak awal satu daftar.
 
-Dan di tengah-tengah keduanya, ketika lagu mencapai bagian yang oleh para penyanyi disebut bagian sahabat, lima nama lain naik — bukan dari kedalaman, bukan dari laut, tapi dari dataran tinggi Vhal-Duren: nama lima panglima, disanyikan oleh seam saksi dan Yang Mendengar Sampai Habis bergantian, sehingga bagi siapa pun yang mendengar, lima orang itu akhirnya dinyanyikan bukan sebagai monumen atau musuh...
+Dan di tengah-tengah keduanya, ketika lagu mencapai bagian yang oleh para penyanyi disebut bagian sahabat, lima nama lain naik — bukan dari kedalaman, bukan dari laut, tetapi dari dataran tinggi Vhal-Duren: nama lima panglima, disanyikan oleh seam saksi dan Yang Mendengar Sampai Habis bergantian, sehingga bagi siapa pun yang mendengar, lima orang itu akhirnya dinyanyikan bukan sebagai monumen atau musuh...
 
-...tapi sebagai tetangga.
+...tetapi sebagai tetangga.
 
 Seribu kursi di ladang utara diduduki. Seribu orang mendengarkan. Dan di barisan kursi kosong milik pesisir, satu per satu, keluarga-keluarga datang dan duduk di samping nama keluarganya masing-masing — karena itulah gunanya kursi diberi nama: supaya yang hidup tahu persis harus duduk di mana.
 ---
@@ -54,7 +54,7 @@ Gella: "Protokol menyapa tubuh: sembilan ratus pasien baru bulan ini. Tovik tadi
 
 Brannoc: "Lorong-lorong aman. Anak-anak besi belajar bagus. Dan janji-janjimu..." ia menatap Ashvarok-Renn, "...semua sudah lunas. Yang tidak bisa dibayar dengan apa pun, dibayar dengan hadir. Kau hadir cukup."
 
-Ondar: "Aku masih gemetar kalau turun cepat. Tapi sekarang ada seribu orang siap menahan kalau aku jatuh. Terima kasih sudah membuat ketakutanku jadi hal yang boleh dimiliki semua orang."
+Ondar: "Aku masih gemetar kalau turun cepat. Namun sekarang ada seribu orang siap menahan kalau aku jatuh. Terima kasih sudah membuat ketakutanku jadi hal yang boleh dimiliki semua orang."
 
 Ossian: "Doktrin lamaku membunuh keluargaku perlahan sebelum Hollowing melakukannya. Doktrin baruku menyelamatkan anak-anak secte dari nasib yang sama. Antara dua itu, aku hidup cukup lama. Cukup."
 
@@ -85,7 +85,7 @@ Ashvarok-Renn dan Sela masih di sana, duduk di kursi paling ujung baratan. Di se
 
 "Aku ingat isinya."
 
-"Kau tidak bisa. Isinya hanya lima hal dan semuanya kecil. 'Renn suka roti manis.' 'Sela boleh ikut pasar kalau ditemani.' Hal-hal begitu." Ia tersenyum ke ladang. "Tapi tahukah kau apa yang baru kupahami? Daftar itu bukan daftar. Itu protokol pertama dunia."
+"Kau tidak bisa. Isinya hanya lima hal dan semuanya kecil. 'Renn suka roti manis.' 'Sela boleh ikut pasar kalau ditemani.' Hal-hal begitu." Ia tersenyum ke ladang. "Namun tahukah kau apa yang baru kupahami? Daftar itu bukan daftar. Itu protokol pertama dunia."
 
 "Menyapa tubuh yang lelah."
 
@@ -101,7 +101,7 @@ Mereka diam sebentar. Angin datang lagi dari laut.
 
 "Bukan kita yang menyadarinya," kata Sela. "Dunia yang menyadarinya sendiri. Kita hanya yang menuliskannya."
 
-Ia bangkit, melipat kerudungnya, dan untuk terakhir kalinya hari itu membaca arsipnya — bukan gulungan, bukan papan tulis, tapi ladang penuh kursi bernama di hadapannya.
+Ia bangkit, melipat kerudungnya, dan untuk terakhir kalinya hari itu membaca arsipnya — bukan gulungan, bukan papan tulis, tetapi ladang penuh kursi bernama di hadapannya.
 
 "Hari 830," katanya. "Hari Utara keempat: selesai. Era Nama: berjalan. Dan untuk halaman pertama arsip baru..."
 
@@ -124,7 +124,7 @@ Pesisir mengirim kabar paling pendek dan paling berat sekaligus, ditulis tetua k
 
 *Anak-cucu kami sudah pulang dari utara. Mereka cerita soal kursi-kursi bernama, lagu tiga daftar, dan raja yang duduk di kursi ujung tanpa pidato.*
 
-*Aku masih belum bilang damai. Tapi aku sudah perintahkan: kursi-kursi kami ikut dibawa ke mana-mana mulai sekarang.*
+*Aku masih belum bilang damai. Namun aku sudah perintahkan: kursi-kursi kami ikut dibawa ke mana-mana mulai sekarang.*
 
 *Itu bukan maaf. Itu kursi.*
 

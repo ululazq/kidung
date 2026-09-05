@@ -47,7 +47,7 @@ Yang tua — Brannoc, kata ingatan samar tubuh ini tentang suara foreman shift �
 
 "Jemari," katanya. "Gerakkan jemari kaki."
 
-Ashvarok menggerakkannya. Paha kiri menyala sakit, tapi tulang utuh.
+Ashvarok menggerakkannya. Paha kiri menyala sakit, tetapi tulang utuh.
 
 "Berani mati kau di sini, nak. Satu langkah lagi runtuhannya turun." Brannoc menyentaknya ke bahu yang sehat, mengangkatnya seperti karung beras, dan bergerak mundur dengan langkah yang anehnya sangat tenang. "Napas. Jangan bicara dulu. Debu seam ini membuat orang bodoh kalau diminum banyak."
 
@@ -93,15 +93,15 @@ Ashvarok membiarkan hening bekerja untuknya. Di bawah mereka, empat puluh hasta 
 
 "Kakakmu menunggu di barak," kata Brannoc bangkit, membersihkan lututnya dari debu. "Sela. Dia duduk di depan pintu dari senja, bawa gelas kaca pecah milik kalian berdua, katanya mau menuang teh kalau kau naik hidup-hidup. Anak itu lebih keras dari atap kota ini."
 
-Sela. Nama itu jatuh ke dalam tubuh ini seperti kunci ke gembok kedua: adik angkat, sebelas tahun, bukan darah tapi lebih pekat dari darah. Ingatan tubuh menyodorkan wajahnya, dan Ashvarok menemukan sesuatu yang tidak dia duga di malam pertamanya abad ini — sesuatu seperti berat, di tempat yang dulu menyimpan nama lima orang mati. Sesuatu seperti hangat, di tempat yang selama seribu tahun hanya ia isi dengan keheningan.
+Sela. Nama itu jatuh ke dalam tubuh ini seperti kunci ke gembok kedua: adik angkat, sebelas tahun, bukan darah tetapi lebih pekat dari darah. Ingatan tubuh menyodorkan wajahnya, dan Ashvarok menemukan sesuatu yang tidak dia duga di malam pertamanya abad ini — sesuatu seperti berat, di tempat yang dulu menyimpan nama lima orang mati. Sesuatu seperti hangat, di tempat yang selama seribu tahun hanya ia isi dengan keheningan.
 
 "Naik ke atas pakai kakimu sendiri," kata Brannoc. "Orang yang digotong keluar dari lorong tujuh tidak akan pernah dapat shift bagus lagi di Caldrest."
 
-Ashvarok berdiri. Paha kirinya protes; ia mengabaikannya dengan cara yang dulu membuat lima panglimanya tercengang. Tubuh ini lemah, lapar, dan bocor di satu urat gema kecil di pergelangan kiri — tapi berdiri bisa. Berdiri, dan belajar berjalan lagi.
+Ashvarok berdiri. Paha kirinya protes; ia mengabaikannya dengan cara yang dulu membuat lima panglimanya tercengang. Tubuh ini lemah, lapar, dan bocor di satu urat gema kecil di pergelangan kiri — tetapi berdiri bisa. Berdiri, dan belajar berjalan lagi.
 
 Ondar naik dari lorong tujuh lebih cepat dari yang semestinya, wajah abu-abu di bawah lampu.
 
-"Foreman." Suaranya nyaris tidak keluar. "Kami temukan Dolm. Dia sudah tidak bernapas sejak lama. Dan... dinding lorong tujuh bagian dalam itu sunyi. Bukan tenang. Sunyi. Lampu kami menyala, batu ada, tapi tempat itu seperti tidak mau dicatat ingatan. Aku dua kali lupa kenapa aku di sana."
+"Foreman." Suaranya nyaris tidak keluar. "Kami temukan Dolm. Dia sudah tidak bernapas sejak lama. Dan... dinding lorong tujuh bagian dalam itu sunyi. Bukan tenang. Sunyi. Lampu kami menyala, batu ada, tetapi tempat itu seperti tidak mau dicatat ingatan. Aku dua kali lupa kenapa aku di sana."
 
 "Nama siapa yang kau lupa?" tanya salah satu penambang dari belakang, cepat, terlalu cepat.
 

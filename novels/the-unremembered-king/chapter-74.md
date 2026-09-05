@@ -3,7 +3,7 @@ title: "Bab 74: Catatan di Pinggir Kain"
 chapter: 74
 ---
 
-Malam hari kesembilan puluh empat, ruang bekerja Maera Tull berubah menjadi meja operasi.
+Malam hari kesembilan puluh empat, ruang kerja Maera Tull berubah menjadi meja operasi.
 
 Ia membuka arsip wilayah Guild pada sore tadi dengan pasal yang Ashvarok pakai secara terbuka di depan seluruh barak — pasal pembacaan arsip untuk komunitas yang terancam keputusan administratif — dan pegawai pos menyerahkan kotak-kotaknya dengan ekspresi orang menyerahkan barang antik kepada anak kecil — hati-hati, sekaligus yakin tidak ada apa-apa di dalamnya. Permintaan pembacaan itu sudah dicatat resmi atas nama komite sanggahan distrik timur. Prosedurnya bersih. Bersih adalah kata yang Maera percaya paling jauh jangkauannya.
 

@@ -5,9 +5,10 @@ chapter: 99
 
 Meja lipat Kel Tharrow berdiri di tepi pasar cinder-glass sejak pagi hari keseratus tiga puluh satu, dengan dua kaki yang dilapisi kain supaya tidak melukai batu pasar, dan sebuah papan kayu yang tulisannya ia kerjakan sendiri dengan cat hitam dan penggaris.
 
-JASA MENULIS SURAT. Lima shardmark selembar. Balasan surat komisi sepuluh. Pernyataan resmi lima belas.
+> JASA MENULIS SURAT
+> Lima shardmark selembar. Balasan surat komisi sepuluh. Pernyataan resmi lima belas.
 
-Ia duduk di belakang meja itu dengan punggung tegak seperti dulu di balik meja kuota, dan selama empat puluh menit pertama tidak ada seorang pun yang mendekat, karena orang Caldrest mengenali wajahnya dan wajah itu punya sejarah dengan hampir semua orang yang lewat. Sejarah semacam itu buruk untuk bisnis. Ia membiarkannya buruk, karena mengubah wajah membutuhkan waktu yang tidak ia miliki, sedangkan shardmark membutuhkan dirinya sekarang juga.
+Ia duduk di belakang meja itu dengan punggung tegak seperti dahulu di balik meja kuota, dan selama empat puluh menit pertama tidak ada seorang pun yang mendekat, karena orang Caldrest mengenali wajahnya — dan wajah itu punya sejarah dengan hampir semua orang yang lewat. Sejarah semacam itu buruk untuk bisnis. Ia membiarkannya buruk, karena mengubah wajah membutuhkan waktu yang tidak ia miliki, sedangkan shardmark membutuhkan dirinya sekarang juga. Angin pasar membawa bau abu basah dan minyak lampu, dan meja lipat itu berderit setiap kali ia menggeser sikunya, seperti benda yang belum percaya pada pekerjaan barunya.
 
 Tabungannya masih ada, tetapi tabungan adalah angka yang menurun, dan Tharrow telah menghabiskan umur dewasanya mempelajari bahwa angka yang menurun adalah satu-satunya jenis kebenaran yang tidak bisa dinegosiasikan. Jabatannya dibekukan. Penyelidikan berjalan tanpa tenggat yang diumumkan. Surat permohonan peninjauan kepada biro provinsi dibalas dengan tanda terima, dan tanda terima adalah cara birokrasi mengucapkan tunggu sampai kamu mati.
 
@@ -15,7 +16,7 @@ Maka ia menjual satu-satunya barang yang tersisa padanya. Tangan yang selama emp
 
 Pelanggan pertama datang menjelang siang, seorang pemuda galeri tujuh yang menoleh dua kali sebelum berani mendekat.
 
-"Aku mau tulis surat sanggahan," kata pemuda itu. "Ke pos Guild. Soal kontrak sekolah adikku yang dibuka ulang. Tapi aku tidak bisa menulis bagus."
+"Aku mau tulis surat sanggahan," kata pemuda itu. "Ke pos Guild. Soal kontrak sekolah adikku yang dibuka ulang. Namun aku tidak bisa menulis bagus."
 
 "Surat sanggahan tidak membutuhkan tulisan bagus," kata Tharrow. "Yang dibutuhkan adalah pasal, tanggal, dan kalimat yang tidak bisa disalahartikan. Duduk. Ceritakan faktanya, bukan kemarahannya. Kemarahan tidak bisa dicap lembaga mana pun."
 
@@ -41,7 +42,7 @@ Tharrow mengulurkan tangannya. "Bacakan surat adalah pekerjaan yang sama dengan 
 
 Perempuan tua itu membayar lebih dulu, dengan uang yang diambil dari simpul kain yang diikat dua kali.
 
-Lembar pertama adalah tanda terima santunan dana pemulihan udara, dan itu wajar. Lembar kedua adalah pemberitahuan penjadwalan penimbangan barang, tertanggal sebelum izin penutupan dibatalkan, dan itu usang tapi bisa dimaafkan. Lembar ketiga membuat tangan Tharrow berhenti di tengah kalimat.
+Lembar pertama adalah tanda terima santunan dana pemulihan udara, dan itu wajar. Lembar kedua adalah pemberitahuan penjadwalan penimbangan barang, tertanggal sebelum izin penutupan dibatalkan, dan itu usang tetapi bisa dimaafkan. Lembar ketiga membuat tangan Tharrow berhenti di tengah kalimat.
 
 Pemberitahuan pencairan. Dana Pemulihan Tahap Dua, program penempatan ulang distrik timur. Dicairkan atas nama keluarga perempuan tua itu, atas nama tetangganya, atas nama delapan kepala keluarga lain yang tertera sebagai daftar lampiran. Tujuan pencairan: titik penyetoran terpusat, dengan kode kotak garis miring di kolom kanan.
 
@@ -49,7 +50,7 @@ Ia membaca kode itu dua kali, karena mata orang yang empat belas bulan menerima 
 
 "Bu," kata Tharrow, dengan suara yang ia jaga tetap datar dan gagal menjaganya sepenuhnya. "Keluarga Anda pindah?"
 
-"Ke mana pindahnya? Izinnya memang sudah batal. Wali kota bilang kita boleh tinggal." Perempuan tua itu mengerutkan dahi. "Itu suratnya bilang kami dapat dana. Dua kali sudah datang. Uangnya tidak pernah sampai, tapi suratnya terus bilang sudah cair. Aku pikir salah alamat."
+"Ke mana pindahnya? Izinnya memang sudah batal. Wali kota bilang kita boleh tinggal." Perempuan tua itu mengerutkan dahi. "Itu suratnya bilang kami dapat dana. Dua kali sudah datang. Uangnya tidak pernah sampai, tetapi suratnya terus bilang sudah cair. Aku pikir salah alamat."
 
 Bukan salah alamat. Tharrow menatap daftar lampiran delapan nama itu dan membaca mesin di belakangnya dengan kejelasan yang hanya dimiliki orang yang pernah menjadi bagian mesin. Anggaran pemindahan masih mengalir. Izinnya sudah mati, programnya sudah ditutup resmi, empat ratus keluarga tinggal di rumahnya masing-masing, tetapi dana penempatan ulang terus dicairkan atas nama keluarga-keluarga yang tidak pindah, dan uangnya mengalir ke slot malam yang sama tempat dulu persentase pembunuhan seam dibayarkan. Seseorang membiarkan mesin pemindahan mati di depan dan hidup di belakang.
 
@@ -77,18 +78,22 @@ Ia membeli buku catatan murah bersampul karton dari pedagang alat tulis, membawa
 
 Ia menulis dengan huruf kecil lurusnya, tanpa kesimpulan di bagian atas, seperti dulu.
 
-Fakta satu. Dana pemulihan tahap dua dicairkan atas nama delapan keluarga yang tinggal. Fakta dua. Tujuan pencairan, slot serahan malam, kode kotak garis miring, jalur yang sama dengan rantai persentase yang kini tersimpan bersegel ungu di ruang bekerja Assayer Tull. Fakta tiga. Izin penutupan dibatalkan hari keseratus enam belas, dan pencairan-pencairan itu tercatat sesudah tanggal pembatalan. Fakta empat. Delapan nama adalah alamat, bukan penerima.
+> Fakta satu. Dana pemulihan tahap dua dicairkan atas nama delapan keluarga yang tinggal.
+> Fakta dua. Tujuan pencairan, slot serahan malam, kode kotak garis miring — jalur yang sama dengan rantai persentase yang kini tersimpan bersegel ungu di ruang kerja Assayer Tull.
+> Fakta tiga. Izin penutupan dibatalkan hari keseratus enam belas, dan pencairan-pencairan itu tercatat sesudah tanggal pembatalan.
+> Fakta empat. Delapan nama adalah alamat, bukan penerima.
 
 Baru setelah keempat fakta itu berdiri, ia mengizinkan dirinya satu baris yang bukan fakta.
 
-Mesin pemindahan tidak dimatikan. Mesinnya hanya dipindahkan saklarnya.
+> Mesin pemindahan tidak dimatikan. Mesinnya hanya dipindahkan saklarnya.
 
-Ia memandangi baris itu lama, dan yang ia rasakan bukan kemarahan yang bersih seperti yang ia bayangkan dulu ketika masih memakai sarung tangan. Yang ia rasakan adalah pengenalan yang menyakitkan. Slot itu pernah memberinya makan empat belas bulan. Anggaran semacam ini dulu melewati mejanya sendiri, diparafnya sendiri, dan pada masa itu ia menyebutnya efisiensi prosedural. Orang-orang seperti dirinya tidak menjalankan kecurangan. Mereka hanya menjaga agar kertasnya tetap rapi sampai seseorang yang lain datang membaca.
+Ia memandangi baris itu lama, dan yang ia rasakan bukan kemarahan yang bersih seperti yang ia bayangkan dahulu ketika masih memakai sarung tangan. Yang ia rasakan adalah pengenalan yang menyakitkan. Slot itu pernah memberinya makan empat belas bulan. Anggaran semacam ini dahulu melewati mejanya sendiri, diparafnya sendiri, dan pada masa itu ia menyebutnya efisiensi prosedural. *Orang-orang seperti aku tidak menjalankan kecurangan*, pikirnya. *Kami hanya menjaga agar kertasnya tetap rapi sampai seseorang yang lain datang membaca.*
 
 Esok paginya ia membeli satu sampul pos, memasukkan salinan kedua dari surat perempuan tua itu — aslinya tetap milik pengirim, karena prosedur yang benar menjaga pemilik fakta hidup — dan menuliskan alamatnya dengan huruf tegak yang tidak pernah berubah sejak sekolah pencatat.
 
-Assayer Maera Tull. Pos Guild, distrik tengah. Perihal: permohonan audit saluran dana pemulihan, lampiran delapan nama.
+> Assayer Maera Tull. Pos Guild, distrik tengah.
+> Perihal: permohonan audit saluran dana pemulihan, lampiran delapan nama.
 
-Ia tidak punya segel lilin lagi, maka ia menekan ibu jarinya pada lipatan sampul sampai meninggalkan bekas, dan bekas itulah segelnya — milik orang yang tidak lagi punya jabatan tapi belum selesai menghitung. Sampul itu ia timbang di telapak tangannya, ringan seperti semua kertas yang mampu membunuh karier orang besar, lalu ia berjalan ke pos dengan langkah pegawai yang datang tepat waktu, karena beberapa kebiasaan lebih tua daripada kejatuhannya dan menolak ikut jatuh.
+Ia tidak punya segel lilin lagi, maka ia menekan ibu jarinya pada lipatan sampul sampai meninggalkan bekas, dan bekas itulah segelnya — milik orang yang tidak lagi punya jabatan tetapi belum selesai menghitung. Sampul itu ia timbang di telapak tangannya, ringan seperti semua kertas yang mampu membunuh karier orang besar, lalu ia berjalan ke pos dengan langkah pegawai yang datang tepat waktu, karena beberapa kebiasaan lebih tua daripada kejatuhannya dan menolak ikut jatuh.
 
 

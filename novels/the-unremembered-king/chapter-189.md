@@ -15,15 +15,15 @@ Dan kemudian wali kota itu mengucapkan nama yang membuat Ashvarok harus menahan 
 
 Debat balai kota berlangsung dua jam. Yang menentang: dua anggota Dewan ("terlalu muda untuk tanggung jawab arsip negara") dan satu pedagang tua ("kalau dia salah mencatat, siapa yang bisa mengoreksi anak kecil?").
 
-Yang membela: hampir semua orang lain, tapi yang menutup debat adalah ibu Tamma, yang jarang bicara di sidang formal:
+Yang membela: hampir semua orang lain, tetapi yang menutup debat adalah ibu Tamma, yang jarang bicara di sidang formal:
 
-"Aku mau tanya ke yang menentang. Siapa yang mencatat daftar sembilan belas anak sekolah waktu Choir mau ambil? Siapa yang pegang salinan protokol dua penjaga waktu level bawah tersegel? Siapa yang neracanya yang dibaca raja sendiri tiap kali dia ragu?" Ia memandang dua anggota Dewan. "Kalian bilang dia muda. Betul. Tapi kalian semua juga baru sadar pentingnya menyimpan nama setelah Barim pulih. Dia sadar dari hari kedua."
+"Aku mau tanya ke yang menentang. Siapa yang mencatat daftar sembilan belas anak sekolah waktu Choir mau ambil? Siapa yang pegang salinan protokol dua penjaga waktu level bawah tersegel? Siapa yang neracanya yang dibaca raja sendiri tiap kali dia ragu?" Ia memandang dua anggota Dewan. "Kalian bilang dia muda. Betul. Namun kalian semua juga baru sadar pentingnya menyimpan nama setelah Barim pulih. Dia sadar dari hari kedua."
 
 Sidang memutuskan: Sela resmi menjadi Kepala Arsip Caldrest — jabatan baru, dibuat untuknya, dengan sumpah singkat yang ia tulis sendiri karena tidak ada formatnya:
 
 "Saya, Sela, pencatat keluarga, bersumpah: semua nama akan saya jaga; semua kabar akan saya tulis benar; dan kalau suatu hari ada yang hilang lagi, saya yang akan ingatkan dunia bahwa mereka menunggu."
 
-Pelantikan digelar pekan berikutnya, dan menjadi peristiwa yang tidak direncanakan siapa pun: seluruh Caldrest datang. Bukan hanya untuk melihat — tapi untuk membawa sesuatu. Setiap keluarga menyumbangkan satu benda arsip ke koleksi baru Kepala Arsip: keluarga galeri tujuh membawa catatan Pak Dekan; ibu Tamma membawa papan tulis kecil asli milik Sela (yang sudah terlalu kecil, diganti yang baru, yang lama jadi pusaka); dokter tambang menyerahkan buku medisnya sebagai salinan arsip kota pertama; bahkan Vosk menyumbang buku besar penjualan dengan catatan "arsip ekonomi juga penting, Nona Kepala Arsip".
+Pelantikan digelar pekan berikutnya, dan menjadi peristiwa yang tidak direncanakan siapa pun: seluruh Caldrest datang. Bukan hanya untuk melihat — tetapi untuk membawa sesuatu. Setiap keluarga menyumbangkan satu benda arsip ke koleksi baru Kepala Arsip: keluarga galeri tujuh membawa catatan Pak Dekan; ibu Tamma membawa papan tulis kecil asli milik Sela (yang sudah terlalu kecil, diganti yang baru, yang lama jadi pusaka); dokter tambang menyerahkan buku medisnya sebagai salinan arsip kota pertama; bahkan Vosk menyumbang buku besar penjualan dengan catatan "arsip ekonomi juga penting, Nona Kepala Arsip".
 
 Dan Ossian Vael membawa yang membuat ruangan hening: salinan resmi Koordinasi dari seluruh arsip utara yang telah dikatalogkan — empat ratus identitas lengkap — diserahkan kepada Arsip Caldrest secara resmi, dengan satu pasal yang ia tambahkan sendiri: "Arsip ini disimpan di Caldrest karena Caldrest yang menjaga orang-orangnya selama delapan belas tahun, bukan Spire."
 
@@ -52,7 +52,7 @@ Sela sudah menulis di papannya sebelum kakaknya selesai bicara: "TUGAS BARU KEPA
 ---
 
 Hari pertama Kepala Arsip resmi bekerja dimulai dengan kejutan dari Sareth Vayin: wanita tua itu datang membawa KUNCI arsip menara utara — bukan salinan, bukan izin, melainkan kunci fisiknya yang diwariskan empat generasi.
-"Arsip ordo saya sekarang milikmu secara hukum," katanya. "Tapi lebih penting dari itu: aku mau mengajari satu hal yang tidak tertulis di arsip mana pun. Cara MEMBACA arsip tanpa merusak konteksnya. Empat generasi ordo saya mengumpulkan kertas. Hanya satu generasi yang tahu cara membuat kertas-kertas itu BERCERITA." Ia meletakkan kunci itu di telapak Sela. "Sekarang ada dua orang yang tahu. Aku, dan kamu. Jangan mati duluan ya, Nona Kepala."
+"Arsip ordo saya sekarang milikmu secara hukum," katanya. "Namun lebih penting dari itu: aku mau mengajari satu hal yang tidak tertulis di arsip mana pun. Cara MEMBACA arsip tanpa merusak konteksnya. Empat generasi ordo saya mengumpulkan kertas. Hanya satu generasi yang tahu cara membuat kertas-kertas itu BERCERITA." Ia meletakkan kunci itu di telapak Sela. "Sekarang ada dua orang yang tahu. Aku, dan kamu. Jangan mati duluan ya, Nona Kepala."
 
 ---
 

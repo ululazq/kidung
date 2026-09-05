@@ -15,7 +15,7 @@ Api kecil sudah menyala — bara Karveth-Ulm, warisan lembah selatan yang dijaga
 
 Ashvarok-Renn mengaduk pelan. Mendengarkan.
 
-Renn — yang dua tahun ini menjadi suara kedua dalam tubuh itu — bangun sepenuhnya pada saat itu, karena mendengarkan benda-benda ternyata bakatnya juga, dan bocah tungku itu berkata lewat mulut bersama: "Dia bilang butuh garam. Tapi sedikit saja. Dia takut asin."
+Renn — yang dua tahun ini menjadi suara kedua dalam tubuh itu — bangun sepenuhnya pada saat itu, karena mendengarkan benda-benda ternyata bakatnya juga, dan bocah tungku itu berkata lewat mulut bersama: "Dia bilang butuh garam. Namun sedikit saja. Dia takut asin."
 
 Ibu Tamma berhenti memotong bawang. Menoleh. Memandang murid barunya lama sekali.
 
@@ -33,7 +33,7 @@ Satu jawaban per hari. Ditulis Ashvarok-Renn dengan empat tangan (dua miliknya, 
 
 Jawaban nomor satu, untuk pertanyaan *apakah kamu pernah takut gelap*:
 
-"Ya. Tidak gelapnya yang kutakuti — gelap kutempuhhi delapan ratus tahun sebagai segel. Yang kutakuti adalah gelap versi manusia: malam ketika lima orang yang biasa bernyanyi di lorong sebelah tiba-tiba diam untuk selamanya. Gelap seperti itu tidak bisa diterangi lampu. Hanya bisa diterangi cerita tentang mereka. Itu sebabnya aku menulis jawaban ini."
+"Ya. Tidak gelapnya yang kutakuti — gelap kutempuhi delapan ratus tahun sebagai segel. Yang kutakuti adalah gelap versi manusia: malam ketika lima orang yang biasa bernyanyi di lorong sebelah tiba-tiba diam untuk selamanya. Gelap seperti itu tidak bisa diterangi lampu. Hanya bisa diterangi cerita tentang mereka. Itu sebabnya aku menulis jawaban ini."
 
 Jawaban itu sampai di cabang pegunungan timur laut dalam dua hari, dibacakan keras-keras di depan seluruh murid, dan balasannya datang seminggu kemudian — ditulis semua anak cabang itu bersama-sama:
 
@@ -50,9 +50,9 @@ Lalu Ashvarok-Renn, yang delapan ratus tahun hidup dalam sunyi dan tiga tahun hi
 "Tiga belas tahun?" katanya. "Itu jadwal paling cepat yang pernah kupunya untuk apa pun dalam hidupku. Setuju tanpa debat."
 ---
 
-Jawaban nomor dua puluh satu menyebabkan masalah pertama proyek — dan seperti semua hal penting di era ini, masalahnya datang bukan dari musuh, tapi dari hati orang baik.
+Jawaban nomor dua puluh satu menyebabkan masalah pertama proyek — dan seperti semua hal penting di era ini, masalahnya datang bukan dari musuh, tetapi dari hati orang baik.
 
-Pertanyaan nomor dua puluh satu ditulis oleh murid cabang pesisir: *Apakah lima panglima itu orang jahat? Di sekolah kami dulu diajari mereka jenderal penindas. Tapi di lagu mereka bagus. Mana yang benar, dan bolehkah kami benci mereka kalau ternyata mereka dulu benar-benar jahat?*
+Pertanyaan nomor dua puluh satu ditulis oleh murid cabang pesisir: *Apakah lima panglima itu orang jahat? Di sekolah kami dulu diajari mereka jenderal penindas. Namun di lagu mereka bagus. Mana yang benar, dan bolehkah kami benci mereka kalau ternyata mereka dulu benar-benar jahat?*
 
 Ashvarok-Renn menulis jawabannya selama tiga hari — yang oleh standar proyek adalah keterlambatan katastrofik — karena setiap versinya terasa bohong.
 
@@ -72,7 +72,7 @@ Ashvarok-Renn memandang gadis itu lama.
 
 Jawaban keenam — final — menjadi salah satu jawaban yang paling banyak disalin di seluruh sejarah proyek:
 
-"Keduanya benar. Lima panglima itu pernah menindas wilayah demi Hegemony, dan penderitaan yang mereka sebabkan nyata sampai generasi kalian. Lima panglima itu juga orang yang tertawa bersama di malam terakhir hidup mereka, dan cinta yang mereka punya nyata sampai lagunya bisa didengar kalian hari ini. Manusia jarang sesederhana cerita pemenang atau cerita korban. Kalian berhak tahu keduanya. Benci mereka kalau kalian butuh — itu hak kalian yang sah. Tapi bencilah versi yang lengkap, bukan versi yang dipotong. Orang hanya bisa melepaskan kemarahannya kalau kemarahannya pernah didengar utuh."
+"Keduanya benar. Lima panglima itu pernah menindas wilayah demi Hegemony, dan penderitaan yang mereka sebabkan nyata sampai generasi kalian. Lima panglima itu juga orang yang tertawa bersama di malam terakhir hidup mereka, dan cinta yang mereka punya nyata sampai lagunya bisa didengar kalian hari ini. Manusia jarang sesederhana cerita pemenang atau cerita korban. Kalian berhak tahu keduanya. Benci mereka kalau kalian butuh — itu hak kalian yang sah. Namun bencilah versi yang lengkap, bukan versi yang dipotong. Orang hanya bisa melepaskan kemarahannya kalau kemarahannya pernah didengar utuh."
 ---
 
 Jawaban itu mengubah arah proyek — dan, tanpa direncanakan siapa pun, arah dunia.
@@ -90,7 +90,7 @@ Dan ibu Tamma, ketika melihat rak itu pertama kali, berkata kalimat yang langsun
 "Baru sekarang arsip ini bisa masak sup yang benar. Butuh semua bahannya."
 ---
 
-Satu hal lagi terjadi di akhir bulan itu, kecil sekali kalau dibandingkan semua yang sudah diceritakan, tapi oleh Sela dicatat dengan tinta merah — warna untuk tanggal-tanggal penting:
+Satu hal lagi terjadi di akhir bulan itu, kecil sekali kalau dibandingkan semua yang sudah diceritakan, tetapi oleh Sela dicatat dengan tinta merah — warna untuk tanggal-tanggal penting:
 
 Jawaban nomor tiga puluh satu ditulis bukan oleh Ashvarok-Renn.
 
@@ -98,7 +98,7 @@ Ia ditulis oleh Renn. Sendirian. Untuk pertama kalinya sejak runtuhan tambang, t
 
 Jawabannya, sekarang disalin di seluruh dua belas cabang:
 
-"Seperti punya kamar yang isinya selalu ada. Aku tidur duluan biasanya — dia masih menghitung retakan-retakan dunia, kebiasaan lama. Tapi kalau aku mimpi buruk, dia selalu bangun. Dan kalau dia ingat lima sahabatnya, aku yang menjaga agar tubuh ini tetap makan." 
+"Seperti punya kamar yang isinya selalu ada. Aku tidur duluan biasanya — dia masih menghitung retakan-retakan dunia, kebiasaan lama. Namun kalau aku mimpi buruk, dia selalu bangun. Dan kalau dia ingat lima sahabatnya, aku yang menjaga agar tubuh ini tetap makan." 
 
 "Kamu bertanya apa rasanya. Jawaban sebenarnya: seperti tidak pernah sendirian lagi. Dan setelah seribu tahun sunyi plus lima belas tahun yatim... itu bukan rasa. Itu keajaiban."
 
@@ -109,7 +109,7 @@ Ashvarok membaca jawaban itu sebelum dikirim — hak keluarga, bukan sensor, kat
 
 Jam lima pagi berjalan terus sepanjang musim.
 
-Dunia mulai tahu — dunia selalu tahu lebih cepat dari perkiraan siapa pun — bahwa raja abu-abu belajar masak. Tamu-tamu yang lewat Caldrest mendengar dari nat-nat: ada dua kursi sudut di dapur aula sekarang, dan pada jam-jam tertentu, aroma sup aula punya kualitas baru yang oleh penikmat sulit dijelaskan tapi oleh ibu Tamma mudah:
+Dunia mulai tahu — dunia selalu tahu lebih cepat dari perkiraan siapa pun — bahwa raja abu-abu belajar masak. Tamu-tamu yang lewat Caldrest mendengar dari nat-nat: ada dua kursi sudut di dapur aula sekarang, dan pada jam-jam tertentu, aroma sup aula punya kualitas baru yang oleh penikmat sulit dijelaskan tetapi oleh ibu Tamma mudah:
 
 "Muridku akhirnya berhenti mengaduk sambil memikirkan seribu hal," katanya. "Sekarang dia mengaduk sambil mendengarkan. Supnya ikut tenang."
 
@@ -117,9 +117,9 @@ Dan setiap pagi, sebelum murid lain datang, sebelum kota bangun, sebelum seribu 
 
 Sepuluh menit itu tidak pernah dibicarakan keduanya.
 
-Tapi arsip mencatat bahwa pada salah satu pagi itu, tanpa alasan yang bisa dilaporkan, ibu Tamma berkata kepada pancinya sendiri, cukup keras untuk didengar kursi sudut kedua:
+Namun arsip mencatat bahwa pada salah satu pagi itu, tanpa alasan yang bisa dilaporkan, ibu Tamma berkata kepada pancinya sendiri, cukup keras untuk didengar kursi sudut kedua:
 
-"Delapan puluh tahun silam aku bilang ke semua orang: ada sup, ada tempat, ada kami." Sendoknya bergerak pelan dalam uap. "Rasanya beda, ya... kalau akhirnya ada yang balik nanya: bu, ada sup, Bu? Aku lapar."
+"Delapan puluh tahun silam aku bilang ke semua orang: ada sup, ada tempat, ada kami." Sendoknya bergerak pelan dalam uap. "Rasanya beda, ya... kalau akhirnya ada yang balik bertanya: bu, ada sup, Bu? Aku lapar."
 
 Dan dari kursi sudut kedua, tanpa membuka mata dari irama adukannya, jawaban itu datang dari dua suara sekaligus:
 

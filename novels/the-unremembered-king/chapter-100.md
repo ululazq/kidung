@@ -49,7 +49,7 @@ Ketiga kalinya, nama itu keluar dari mulut pemuda itu sendiri dengan benar, dan 
 
 "Tidak." Ashvarok menepuk pundaknya sekali, tepat seperti tata cara name train yang diajarkan anak-anak. "Nama kamu tidak pernah hilang. Namamu ada di dinding klinik, di daftar ibu Tamma, di kepala adikku, dan sekarang di kepala kami berdua. Yang hilang hanya jalan menuju sana, dan jalan bisa dilewati balik. Itu bedanya dengan orang-orang yang dulu."
 
-Ondar mengantar pemuda itu keluar menuju permukaan, dengan tangan di pundaknya dan nama lengkapnya diucapkan bergantian sepanjang lorong seperti lagu bekerja, karena aturan baraknya memang begitu — tidak ada yang berjalan pulang dari galeri itu sendirian, apalagi orang yang baru saja ditolak dikunyah.
+Ondar mengantar pemuda itu keluar menuju permukaan, dengan tangan di pundaknya dan nama lengkapnya diucapkan bergantian sepanjang lorong seperti lagu kerja, karena aturan baraknya memang begitu — tidak ada yang berjalan pulang dari galeri itu sendirian, apalagi orang yang baru saja ditolak dikunyah.
 
 Ashvarok tinggal.
 

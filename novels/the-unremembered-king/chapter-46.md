@@ -3,7 +3,7 @@ title: "Bab 46: Banyak Prosedur"
 chapter: 46
 ---
 
-Subuh hari kelima puluh enam menemukan Ossian Vael masih di belakang meja bekerja kamarnya di penginapan distrik atas, dengan tiga lembar kertas yang belum selesai dan sebuah lilin yang sudah dua kali diganti tanpa ia sadari kapan.
+Subuh hari kelima puluh enam menemukan Ossian Vael masih di belakang meja kerja kamarnya di penginapan distrik atas, dengan tiga lembar kertas yang belum selesai dan sebuah lilin yang sudah dua kali diganti tanpa ia sadari kapan.
 
 Surat pertama sudah rampung sebelum fajar. Isinya tiga paragraf, dan setiap paragraf benar sekaligus kosong: fenomena akustik terlokalisasi pada malam kesembilan lima lima, diduga kantong old gas pada retakan kedalaman. Dampak fisiologis temporer berupa disorientasi waktu pada separuh shift. Langkah mitigasi sedang disusun dan akan dilaporkan menyusul. Ia membacanya sekali, menemukannya efisien, lalu melipatnya ke amplop pertama. Kebohongan terbaik, menurut pengalamannya, bukanlah yang paling rumit, melainkan yang paling membosankan untuk diverifikasi.
 
@@ -17,7 +17,7 @@ Surat kedua dialamatkan ke lantai 40, bagian gudang sumber, dan permintaannya cu
 
 Ia tahu persis seperti apa bentuk jawaban yang akan datang sembilan hari kemudian. Pusat tidak pernah melepaskan sumber tingkat tinggi tanpa gadai politik, dan gadainya selalu sama tiga macam: pembagian hasil, registrasi bersama, atau janji suara di ruang pemilihan yang belum diselenggarakan. Maka ia menulis lebih dulu harga yang bersedia ia bayar, supaya negosiasi terlihat seperti kesepakatan dan bukan seperti kekalahan. Persentase hasil panen resmi bagi kas Spire. Hak pemeriksaan bersama atas arsip operasi. Dan satu frasa yang ia tulis dengan tangan paling netral yang ia miliki: Koordinasi Artefak Regional menerima supervisi administratif atas klasifikasi seam.
 
-Draf ketiga bukan surat, melainkan perintah. Di kepalanya, dokumen itu sudah bernama: Karantina Ringan Zona Kedalaman. Semua level di bawah tingkat empat ditutup untuk aktivitas produksi sampai penilaian stabilisasi selesai. Shift ditangguhkan dengan santunan simbolis agar tidak ada kemiskinan yang bisa dipolitikkan. Akses hanya melalui surat tanda bertanda tangannya. Inspeksi ventilasi berkala dilakukan regu lokal di bawah pengawasan — di titik ini ia menyisakan satu kolom kosong, karena nama mandornya harus dipilih dengan hati-hati, dan ia sudah tahu nama mana yang akan ia tulis.
+Draf ketiga bukan surat, melainkan perintah. Di kepalanya, dokumen itu sudah bernama: Karantina Ringan Zona Kedalaman. Semua level di bawah tingkat empat ditutup untuk aktivitas produksi sampai penilaian stabilisasi selesai. Shift ditangguhkan dengan santunan simbolis agar tidak ada kemiskinan yang bisa dipolitikkan. Akses hanya melalui surat tanda dengan tanda tangannya. Inspeksi ventilasi berkala dilakukan regu lokal di bawah pengawasan — di titik ini ia menyisakan satu kolom kosong, karena nama mandornya harus dipilih dengan hati-hati, dan ia sudah tahu nama mana yang akan ia tulis.
 
 Sebelum menandatangani, ia membuka lampiran risiko dan menulis wilayah yang wajib dibandingkan dengan kasus Caldrest: distrik-distrik utara Karvess, periode delapan belas tahun silam. Pena itu melaju dengan lancar sampai kalimat kedua, yang seharusnya berbunyi tentang metode pemadaman informasi. Kalimat itu tidak pernah selesai. Ossian menatap garis kosongnya beberapa saat, lalu mencoret seluruh lampiran dan menulis ulang dengan ringkasan yang tidak menyebut utara sama sekali. Beberapa berkas boleh efisien. Satu berkas ini hanya boleh kosong.
 
@@ -55,7 +55,7 @@ Maera menekankan stempel lilin ungunya di kolom saksi, dan Ossian mencatat, deng
 
 Siang menjelang sore, ia menerima dua orang lagi di ruang yang sama, satu per satu, karena prosedur bekerja paling baik ketika orang-orang tidak pernah tahu siapa lagi yang dipanggil sebelum mereka.
 
-Kel Tharrow masuk dengan seragam tanpa satu kerutan pun dan keluar dua puluh menit kemudian membawa tugas yang dibungkus kata "koordinasi": distribusi santunan harian, daftar ulang regu yang boleh turun untuk inspeksi ventilasi, dan pengawasan ketertiban distrik timur yang mulai menganggur. Overseer itu menerima semuanya dengan punggung tegak, dan Ossian menandai sekali lagi betpa bergunanya orang yang haus hierarki — orang seperti itu tidak pernah bertanya untuk siapa daftarnya disusun, asalkan namanya yang berada di baris tanda tangan kedua.
+Kel Tharrow masuk dengan seragam tanpa satu kerutan pun dan keluar dua puluh menit kemudian membawa tugas yang dibungkus kata "koordinasi": distribusi santunan harian, daftar ulang regu yang boleh turun untuk inspeksi ventilasi, dan pengawasan ketertiban distrik timur yang mulai menganggur. Overseer itu menerima semuanya dengan punggung tegak, dan Ossian menandai sekali lagi betapa bergunanya orang yang haus hierarki — orang seperti itu tidak pernah bertanya untuk siapa daftarnya disusun, asalkan namanya yang berada di baris tanda tangan kedua.
 
 Kovan datang setelahnya, dan percakapannya lebih pendek. "Uji malam Rabat ditunda sampai karantina dicabut," kata Ossian sebelum penjaga shift itu sempat duduk. "Semua uji. Instrumen juga tidak boleh masuk."
 

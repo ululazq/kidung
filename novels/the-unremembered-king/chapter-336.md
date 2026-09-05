@@ -7,27 +7,27 @@ Fajar di danau garam datang dengan kabut tipis di atas air. Dua belas anak barak
 
 Brannoc berdiri di kejauhan mengamati dari balik pohon. "Mereka main seperti tidak terjadi apa-apa," bisiknya pada murid Ossian yang duduk di sebelahnya. "Itu yang kita butuhkan. The Wanes melihat anak, bukan pagar."
 
-Murid Ossian mengirim kain tenun: *Pola ukur the Wanes belum sampai danau garam. Tapi dua desa ke selatan sudah mereka catat napasnya. Kami siap pindahkan nenek perahu ke rawa bila kain berikutnya bilang lari.* 
+Murid Ossian mengirim kain tenun: *Pola ukur the Wanes belum sampai danau garam. Namun dua desa ke selatan sudah mereka catat napasnya. Kami siap pindahkan nenek perahu ke rawa bila kain berikutnya bilang lari.* 
 
-Ashvarok-Renn membacanya di serambi. "Belum terlambat," katanya pada Kovan. "Tapi hari ini penentu. Bila the Wanes paham napas the Survivor, danau garam tidak aman."
+Ashvarok-Renn membacanya di serambi. "Belum terlambat," katanya pada Kovan. "Namun hari ini penentu. Bila the Wanes paham napas the Survivor, danau garam tidak aman."
 
 Kovan menarik benang abu-abu ke utara, menyambung the Stillness Knot yang belum berdenyut ke pondok terapung. "Murid kita di sana tangguh," katanya. "Ia tidak ukur di depan, hanya hitung saat perempuan tua tidur siang."
 
 "Begitu seharusnya," kata Gella dari sudut. "Yang kita jaga tidak boleh tahu ia kunci."
 
-Di menara, perawat tua — the Northern Tower Nurse — membuka buku catatan halaman ketujuh belas. Mira membacakan dentum utara. "Masih memanjang setengah hitungan," katanya. "Tapi sejak 12 anak di danau garam, dentumnya lebih tenang — seperti the Stillness merasa aman dikelilingi anak main, bukan diawasi."
+Di menara, perawat tua — the Northern Tower Nurse — membuka buku catatan halaman ketujuh belas. Mira membacakan dentum utara. "Masih memanjang setengah hitungan," katanya. "Namun sejak 12 anak di danau garam, dentumnya lebih tenang — seperti the Stillness merasa aman dikelilingi anak main, bukan diawasi."
 
 "Anak-anak itu pagar tanpa nama," kata perawat tua. "Mereka jaga tanpa tahu, dan itu yang menyelamatkan the Stillness."
 
-Gella mendekat membawa buku pemulihan dan meletakkannya di pangkuan Ashvarok-Renn. "Kau the Bearer," katanya. "Napas minggu ini tiga hitungan. Tidak memburuk. Tapi jangan ke utara. Biarkan murid Ossian yang jaga dari jauh."
+Gella mendekat membawa buku pemulihan dan meletakkannya di pangkuan Ashvarok-Renn. "Kau the Bearer," katanya. "Napas minggu ini tiga hitungan. Tidak memburuk. Namun jangan ke utara. Biarkan murid Ossian yang jaga dari jauh."
 
 "Tidak ke utara," kata Ashvarok-Renn. "Kita selesaikan dari sini."
 
-Ossian mengirim kain tenun kedua lewat Thessa: *The Wanes di desa kelima utara bawa pergi lagi seorang tua — kali ini napasnya benar-benar pelan. Mereka mulai curiga, tapi masih campur aduk sesak napas dengan the Survivor. Satu dari mereka akan paham bedanya minggu ini. Pindahkan the Stillness sekarang, sebelum mereka sampai danau garam.* 
+Ossian mengirim kain tenun kedua lewat Thessa: *The Wanes di desa kelima utara bawa pergi lagi seorang tua — kali ini napasnya benar-benar pelan. Mereka mulai curiga, tetapi masih campur aduk sesak napas dengan the Survivor. Satu dari mereka akan paham bedanya minggu ini. Pindahkan the Stillness sekarang, sebelum mereka sampai danau garam.* 
 
 Ashvarok-Renn menunjukkannya pada Sela. "Sekarang," katanya. "Suruh murid Ossian bawa perempuan tua itu ke rawa saat malam. Persahabatan dulu, lalu pindah saat dia sudah percaya."
 
-Sela mencatat di papan: *the Stillness (danau garam) pindah ke rawa malam ini via murid Ossian + anak desa (persahabatan dulu). The Wanes bawa pergi orang napas pelan = mulai paham, tapi masih campur. Jendela: malam ini.* 
+Sela mencatat di papan: *the Stillness (danau garam) pindah ke rawa malam ini via murid Ossian + anak desa (persahabatan dulu). The Wanes bawa pergi orang napas pelan = mulai paham, tetapi masih campur. Jendela: malam ini.* 
 
 Brannoc mengumpulkan dua belas anak di halaman. "Kalian sudah jaga dengan baik," katanya. "Malam ini teman kalian di danau garam pindah ke rawa. Jangan tunjuk, jangan tanya. Biarkan ia pergi sendiri."
 
@@ -55,7 +55,7 @@ Malamnya, kabar tiba lewat kain tenun ketiga: *Nenek perahu sudah di rawa bersam
 
 Ashvarok-Renn membacanya pada Gella. "Selamat," katanya. "Empat dari tujuh kini terjaga."
 
-Di danau garam, fajar berikutnya, the Wanes datang ke tepi desa dan mendapati perahu nenek perahu sudah tidak di sana. Mereka bertanya pada anak-anak desa, tapi anak-anak hanya menggeleng dan main kelereng. "Mungkin pindah cari ikan," kata satu anak polos. The Wanes menatap danau kosong, lalu mencatat di lembaran kasar: *Perempuan tua penjaga perahu hilang.* Mereka tidak tahu bahwa perahu itu berlayar fajar sebelum mereka tiba, dikawal mata-mata kecil yang mereka anggap anak main.
+Di danau garam, fajar berikutnya, the Wanes datang ke tepi desa dan mendapati perahu nenek perahu sudah tidak di sana. Mereka bertanya pada anak-anak desa, tetapi anak-anak hanya menggeleng dan main kelereng. "Mungkin pindah cari ikan," kata satu anak polos. The Wanes menatap danau kosong, lalu mencatat di lembaran kasar: *Perempuan tua penjaga perahu hilang.* Mereka tidak tahu bahwa perahu itu berlayar fajar sebelum mereka tiba, dikawal mata-mata kecil yang mereka anggap anak main.
 
 "Mereka butuh waktu untuk sadar," bisik Ashvarok-Renn pada malam. "Dan waktu itulah yang kita pakai untuk menjaga the Silence dan the Ground."
 
@@ -63,9 +63,9 @@ Gella mengangguk. "Tiga sudah di tangan kita, satu di rawa. Sisa the Silence dan
 
 "Jangan bilang di tangan," kata Ashvarok-Renn. "Kita jaga, tidak memegang. the Silence mungkin perawat tua sudah mewakili — kita harus pastikan. the Ground di the Hollow adalah pangkal sendiri, the Wanes mungkin sudah di sana tanpa tahu."
 
-Di menara, perawat tua membuka buku halaman ketujuh belas. "Dentum utara kini tenang," katanya pada Mira. "Seperti the Stillness sudah di rawa dan merasa aman. Tapi dentum the Hollow di tengah masih acak — seperti ada yang duduk di pangkal tanpa kunci."
+Di menara, perawat tua membuka buku halaman ketujuh belas. "Dentum utara kini tenang," katanya pada Mira. "Seperti the Stillness sudah di rawa dan merasa aman. Namun dentum the Hollow di tengah masih acak — seperti ada yang duduk di pangkal tanpa kunci."
 
-"Mereka duduk di batu," kata Mira. "Batu berdenyut, tapi pintu tidak terbuka."
+"Mereka duduk di batu," kata Mira. "Batu berdenyut, tetapi pintu tidak terbuka."
 
 "Maka kita menang waktu," kata perawat tua. "Selama mereka tidak punya napas, mereka hanya penjaga batu, bukan pintu."
 

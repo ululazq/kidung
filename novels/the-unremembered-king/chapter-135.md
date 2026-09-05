@@ -5,7 +5,7 @@ chapter: 135
 
 Rencana itu lahir dari satu kalimat Brannoc yang tidak bermaksud jadi rencana.
 
-Malam hari keseratus sembilan puluh enam, di gudang perkakas setelah hitungan jadwal selesai, mandor tua itu berkata sambil menata palu-palunya bahwa orang yang dipanggil dan tidak mau menjawab biasanya hanya punya dua pilihan, yaitu diam selamanya atau pindah rumah. Ashvarok, yang sedang menimbang hal yang sama dengan bahasa lain, berhenti sebentar di tengah gerakan tangannya.
+Malam hari keseratus sembilan puluh enam, di gudang perkakas setelah hitungan jadwal selesai, mandor tua itu berkata sambil menata palu-palunya bahwa orang yang dipanggil dan tidak mau menjawab biasanya hanya punya dua pilihan — yaitu diam selamanya atau pindah rumah. Ashvarok, yang sedang menimbang hal yang sama dengan bahasa lain, berhenti sebentar di tengah gerakan tangannya.
 
 "Ada pilihan ketiga," katanya. "Menjawab dengan suara orang lain."
 
@@ -17,7 +17,7 @@ Brannoc berhenti menata palu. "Dan begitu pemanggilnya mengira kunci pulang?"
 
 "Maka dia akan datang melihat. Dan siapa pun yang datang melihat sebuah umpan meninggalkan jejak keberadaannya sendiri." Ashvarok menyender ke kursi, dan untuk sesuai kebiasaan lamanya, ia menyusun penjelasannya dari harga, bukan dari harapan. "Dengarkan dua risikonya dulu sebelum ada yang setuju. Pertama, kalau umpan itu terbaca palsu, kita baru saja memberi tahu pemanggil bahwa ada penjaga yang pintar di Caldrest, dan perburuan berubah sasaran dari retakan ke orang-orang. Kedua, menenun umpan itu butuh dua seni sekaligus, dan dua seni berarti dua tagihan pada badan yang sama."
 
-"Kalau yang datang melihat itu manusia?" pertanya Brannoc. "Panener, kurir, atau lebih buruk."
+"Kalau yang datang melihat itu manusia?" tanya Brannoc. "Panener, kurir, atau lebih buruk."
 
 "Maka kita dapat hal yang lebih berharga dari semua kabar tambang. Kita tahu siapa lagi di dunia ini yang membaca bahasa panggilan itu, dan dari arah mana dia datang." Ashvarok menatapnya tanpa jeda. "Umpan ini tidak memilih tamunya. Itu bagian dari harganya, dan bagian yang paling tidak bisa ditebak."
 
@@ -77,6 +77,6 @@ Ibu Tamma, yang bangun paling awal seperti semua orang berbahaya, berdiri di amb
 
 "Bukan wilayahnya yang jalan." Ashvarok menatap garis arah di meja itu, dan di dalam dadanya, jauh di bawah lapar tiga hari, ada sesuatu yang bergerak pelan, campuran dingin dan hal yang hampir mirip harapan, dan ia menekan yang kedua sampai mati seperti biasa. "Yang jalan adalah perhatiannya. Dia sedang mencari, dan malam ini dia mencari di tempat yang lebih dekat dengan umpan kita." Ia menghapus garis arah itu dengan telapak tangannya, pelan, sampai meja kembali polos. "Umpannya bekerja lebih cepat dari perkiraanku. Sekarang kita tahu dia bisa bergerak, dan kita tahu dia membaca."
 
-Dia tidak memberi tahu siapa pun, bahkan kepada dua orang di ruangan itu, bahwa bagian dari dirinya yang selama ini menolak menjawab sapaan itu baru saja merasakan sesuatu yang tidak nyaman, yaitu lega. Pemanggil itu tidak lagi memanggil ke arahnya. Pemanggil itu mulai memanggil ke arah batang batu tua yang tidak penting.
+Dia tidak memberi tahu siapa pun, bahkan kepada dua orang di ruangan itu, bahwa bagian dari dirinya yang selama ini menolak menjawab sapaan itu baru saja merasakan sesuatu yang tidak nyaman — yaitu lega. Pemanggil itu tidak lagi memanggil ke arahnya. Pemanggil itu mulai memanggil ke arah batang batu tua yang tidak penting.
 
 Untuk pertama kalinya sejak kata itu pertama kali terucap dari kedalaman, jawaban atas panggilan itu sudah menunggu di tempat yang benar, dan jawaban itu bukan dia.

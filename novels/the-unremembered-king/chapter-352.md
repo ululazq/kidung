@@ -9,7 +9,7 @@ Udara pagi terasa seperti air dingin yang baru saja dibasuh ke wajah. Bau tanah 
 
 "Kau dengar itu juga?" tanya Kovan, berjalan di sampingnya.
 
-"Aku merasakannya." Sela menunduk, menatap tanah yang belum berubah apa pun. "Tanah ini bernapas. Pelan. Tapi bernapas."
+"Aku merasakannya." Sela menunduk, menatap tanah yang belum berubah apa pun. "Tanah ini bernapas. Pelan. Namun bernapas."
 
 "Itu bukan tanah," kata Ashvarok-Renn dari depan tanpa menoleh. "Itu jalan. Jalan yang menunggu kita selama seribu tahun, dan baru sekarang ia tahu bahwa kita akhirnya datang."
 
@@ -17,7 +17,7 @@ Mereka berjalan sepanjang pagi, menyusuri jalur yang tidak tercatat di peta mana
 
 Menjelang siang, mereka berhenti di tepi ladang garam yang mengering. Brannoc membagikan roti dan air, dan untuk beberapa saat tidak ada yang berbicara — hanya suara kunyah, angin, dan di kejauhan, suara burung yang tidak pernah mereka lihat. Sela duduk di atas batu, membuka papan napasnya, dan menulis dengan kapur:
 
-*Hari pertama. Empat belas orang. Satu jalan yang bernapas. Kita belum melihat tiga batu tegak, tapi tanah sudah tahu ke mana kita pergi.*
+*Hari pertama. Empat belas orang. Satu jalan yang bernapas. Kita belum melihat tiga batu tegak, tetapi tanah sudah tahu ke mana kita pergi.*
 
 "Kau menulis itu untuk siapa?" tanya Gella, duduk di sampingnya dengan buku pemulihan di pangkuan.
 
@@ -33,7 +33,7 @@ Di kejauhan, di balik ladang garam, tiga batu tegak mulai terlihat samar — tid
 
 "Dan di bawahnya," kata the Keeper, "sesuatu yang selama seribu tahun bernapas tanpa pernah berhenti. Kita mengetuknya sekali, dan ia menjawab. Sekarang kita datang untuk melihat siapa yang menjawab itu."
 
-Mereka berjalan lagi. Sore itu, ketika matahari mulai memanjangkan bayangan dan mewarnai ufuk dengan jingga yang perlahan memudar menjadi abu-abu, mereka tiba di tepi tanah kosong yang mengelilingi tiga batu tegak itu. Tanah di antara batu-batu itu tidak ditumbuhi rumput — lingkaran kosong yang lebar, seperti bekas sesuatu yang digambar lalu dihapus, seperti luka yang sudah sembuh tapi tidak pernah benar-benar hilang. Udara di sekelilingnya terasa lebih berat, lebih dingin, seperti ruangan yang sudah lama tidak dibuka dan menyimpan napas generasi-generasi yang tidak pernah sempat diucapkan.
+Mereka berjalan lagi. Sore itu, ketika matahari mulai memanjangkan bayangan dan mewarnai ufuk dengan jingga yang perlahan memudar menjadi abu-abu, mereka tiba di tepi tanah kosong yang mengelilingi tiga batu tegak itu. Tanah di antara batu-batu itu tidak ditumbuhi rumput — lingkaran kosong yang lebar, seperti bekas sesuatu yang digambar lalu dihapus, seperti luka yang sudah sembuh tetapi tidak pernah benar-benar hilang. Udara di sekelilingnya terasa lebih berat, lebih dingin, seperti ruangan yang sudah lama tidak dibuka dan menyimpan napas generasi-generasi yang tidak pernah sempat diucapkan.
 
 Di tengah lingkaran itu, berdiri lelaki berjubah abu-abu. Ia tidak terkejut melihat mereka. Ia tersenyum tipis, dan untuk sesaat, di bawah cahaya senja, senyum itu terlihat seperti cahaya lentera yang baru saja dinyalakan di ruang yang sudah lama gelap.
 
@@ -51,9 +51,9 @@ Lelaki itu menatap kain-kain itu, dan untuk pertama kalinya, ekspresinya berubah
 
 Lelaki itu melangkah maju, dan untuk pertama kalinya, cahaya senja menerangi wajahnya sepenuhnya — bukan wajah tua seperti yang the Keeper gambarkan, tetapi wajah yang usianya tidak bisa ditebak, dengan mata yang menyimpan sesuatu yang lebih tua dari tubuhnya. Ia mengulurkan tangan, dan di telapaknya, sebuah benda bundar berkilau — sama persis dengan yang digambar the Seeker di sketsa mereka, logam dengan tiga lubang diatur dalam segitiga.
 
-"Aku sudah memegang ini selama delapan belas tahun," katanya. "Menunggu orang yang datang dengan kain tenun yang sama. Aku tidak tahu apa yang akan terjadi ketika kita mempertemukan ketiganya. Tapi aku tahu satu hal: ketika kita memutarnya, pintu ini akan berbicara — bukan dengan suara, tetapi dengan denyut. Dan kita harus siap mendengar apa pun yang dikatakannya."
+"Aku sudah memegang ini selama delapan belas tahun," katanya. "Menunggu orang yang datang dengan kain tenun yang sama. Aku tidak tahu apa yang akan terjadi ketika kita mempertemukan ketiganya. Namun aku tahu satu hal: ketika kita memutarnya, pintu ini akan berbicara — bukan dengan suara, tetapi dengan denyut. Dan kita harus siap mendengar apa pun yang dikatakannya."
 
-Sela membuka papan napasnya, menulis satu baris di bawah catatan hari itu: *Pertemuan di tiga batu. Kain tenun dan benda bundar bertemu. Kita belum memutarnya. Tapi malam ini, untuk pertama kalinya, kita tidur di samping pintu yang selama seribu tahun tidak pernah dibuka.*
+Sela membuka papan napasnya, menulis satu baris di bawah catatan hari itu: *Pertemuan di tiga batu. Kain tenun dan benda bundar bertemu. Kita belum memutarnya. Namun malam ini, untuk pertama kalinya, kita tidur di samping pintu yang selama seribu tahun tidak pernah dibuka.*
 
 Di kejauhan, di bawah tiga batu tegak itu, garis di tanah berdenyut lebih cepat dari sebelumnya — seperti jantung yang baru saja mendengar namanya dipanggil, dan untuk pertama kalinya dalam seribu tahun, memutuskan untuk menjawab. Angin bertiup dari utara, membawa aroma tanah yang basah dan sesuatu yang lain — sesuatu yang tidak bisa mereka sebut namanya, tetapi mereka semua merasakannya: kehadiran yang sudah lama menunggu, yang kini, setelah seribu tahun, akhirnya mendengar langkah kaki yang datang.
 
@@ -65,7 +65,7 @@ The Seeker duduk paling dekat dengan api, menggenggam secangkir teh yang sudah d
 
 The Keeper menatapnya lama. "Kau bicara seperti orang yang sudah memberi rumah kepada banyak hal."
 
-"Aku mencatat nama-nama," kata Sela. "Itu pekerjaanku. Tapi malam ini, aku belajar sesuatu yang tidak tercatat di papan mana pun: bahwa rumah tidak selalu berupa tempat. Kadang ia berupa keputusan — keputusan untuk berhenti mencari di tempat yang salah, dan mulai menunggu di tempat yang benar."
+"Aku mencatat nama-nama," kata Sela. "Itu pekerjaanku. Namun malam ini, aku belajar sesuatu yang tidak tercatat di papan mana pun: bahwa rumah tidak selalu berupa tempat. Kadang ia berupa keputusan — keputusan untuk berhenti mencari di tempat yang salah, dan mulai menunggu di tempat yang benar."
 
 Di samping api, Gella memeriksa napas Ashvarok-Renn dengan jari di pergelangan tangannya. "Masih tiga," katanya pelan. "Tidak turun. Tidak naik. Untuk pertama kalinya dalam delapan belas tahun, tubuh ini tidak membayar apa pun untuk malam yang kita lewati."
 
@@ -73,6 +73,6 @@ Di samping api, Gella memeriksa napas Ashvarok-Renn dengan jari di pergelangan t
 
 Gella mengangguk, menutup buku pemulihannya. Di kejauhan, garis di tanah itu berdenyut pelan, mengikuti irama yang sama dengan jantung-jantung yang duduk di sekeliling api — dan untuk sesaat, di bawah langit yang penuh bintang, tempat yang selama seribu tahun hanya dikenal sebagai tanah kosong itu terasa seperti rumah yang baru saja mulai mengingat nama-nama penghuninya.
 
-Sebelum tidur, Ashvarok-Renn berjalan sendirian ke tepi lingkaran batu. Ia tidak membawa lentera — malam di sini tidak membutuhkan cahaya buatan untuk terlihat, karena bintang-bintang di atas tanah kosong itu lebih terang daripada di mana pun di Karvess. Ia berlutut, meletakkan telapak tangannya di tanah yang gembur, dan merasakan denyut itu naik memenuhi telapaknya — tiga ketuk, satu diam, tiga ketuk, satu diam. Di antara denyut-denying itu, ia mendengar sesuatu yang tidak bisa ia jelaskan dengan kata-kata: bukan suara, bukan bisikan, tetapi pengakuan. Seperti sesuatu di bawah tanah yang telah menunggu selama seribu tahun, dan yang kini, untuk pertama kalinya, tidak lagi menunggu sendirian.
+Sebelum tidur, Ashvarok-Renn berjalan sendirian ke tepi lingkaran batu. Ia tidak membawa lentera — malam di sini tidak membutuhkan cahaya buatan untuk terlihat, karena bintang-bintang di atas tanah kosong itu lebih terang daripada di mana pun di Karvess. Ia berlutut, meletakkan telapak tangannya di tanah yang gembur, dan merasakan denyut itu naik memenuhi telapaknya — tiga ketuk, satu diam, tiga ketuk, satu diam. Di antara denyut-denyut itu, ia mendengar sesuatu yang tidak bisa ia jelaskan dengan kata-kata: bukan suara, bukan bisikan, tetapi pengakuan. Seperti sesuatu di bawah tanah yang telah menunggu selama seribu tahun, dan yang kini, untuk pertama kalinya, tidak lagi menunggu sendirian.
 
 Ia berdiri, berbalik ke arah barak — ke arah rumah yang telah ia bangun dari nama-nama, dari cerita-cerita, dari orang-orang yang memilih untuk percaya padanya. Dan untuk sesaat, di bawah bintang-bintang yang tidak pernah ia lihat sejelas ini, ia menyadari bahwa ia tidak lagi menjaga pintu sendirian. Untuk pertama kalinya dalam seribu tahun, ada orang lain yang datang untuk menjaga bersamanya.

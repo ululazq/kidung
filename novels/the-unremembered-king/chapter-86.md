@@ -7,7 +7,7 @@ Pesan yang Maera kirim pagi hari keseratus sepuluh hanya memuat empat kata, ditu
 
 Sepanjang siang ia bekerja seperti biasa, karena itulah aturan pertamanya. Tidak ada rapat besar yang boleh didahului hari yang tidak biasa. Ia menilai dua lot tempaan murah dari pasar timur, menandatangani berita acara pembukaan ulang lorong troli yang direkomendasikan Kovan, dan menjawab surat cabang selatan dengan kalimat-kalimat pendek tentang cuaca pelabuhan. Mata orang lain melihat seorang Assayer muda yang patuh pada jadwalnya. Yang tidak mereka lihat adalah hitungan yang berjalan di baliknya, angka demi angka, seperti timbangan kecil di dalam kotak kayunya yang selalu bisa dia dengar bergeser walaupun tertutup.
 
-Hitungannya begini. Arsip Tharrow bernilai hidup dan mati karier satu pejabat Choir, tapi nilainya habis dalam satu kali pemakaian. Begitu terbaca di ruang mana pun, barang itu menjadi milik semua orang dan tidak lagi menakuti siapa pun. Sedangkan distrik timur, empat ratus keluarga, sembilan belas anak dengan papan nama mereka, bernilai terus-menerus setiap hari selama masih berdiri. Maka jalan yang benar bukan menukar kertas dengan kertas, melainkan menukar sifat kertas itu — dari senjata yang dilempar sekali menjadi sumur yang diserap sedikit demi sedikit, dengan tali yang tetap di tangannya.
+Hitungannya begini. Arsip Tharrow bernilai hidup dan mati karier satu pejabat Choir, tetapi nilainya habis dalam satu kali pemakaian. Begitu terbaca di ruang mana pun, barang itu menjadi milik semua orang dan tidak lagi menakuti siapa pun. Sedangkan distrik timur, empat ratus keluarga, sembilan belas anak dengan papan nama mereka, bernilai terus-menerus setiap hari selama masih berdiri. Maka jalan yang benar bukan menukar kertas dengan kertas, melainkan menukar sifat kertas itu — dari senjata yang dilempar sekali menjadi sumur yang diserap sedikit demi sedikit, dengan tali yang tetap di tangannya.
 
 Sore itu ia membawa kotak timbung mini ke penginapan distrik atas, dan sadar di tengah jalan bahwa tangannya memegang kotak itu lebih erat dari yang seharusnya. Ia melonggarkan jarinya satu per satu, karena lawannya hari ini membaca tangan seperti ia membaca tinta.
 
@@ -25,7 +25,7 @@ Maera duduk. Ia tidak membuka kotaknya. "Sebelum angka, saya punya pertanyaan. J
 
 Ada jeda yang tepat panjangnya untuk sebuah pengakuan. "Salinan itu tiba di slot saya semalam, dengan syarat tertulis bahwa barangnya milik dua orang dan salah satunya tidak dijual." Ossian menarik napas. "Saya membacanya tiga kali. Ada seni yang saya tidak kenal bekerja di tambang saya, dan pelakunya menyelamatkan orang. Saya tidak akan bertanya apakah Anda tahu siapa dia, karena Anda akan menjawab dengan prosedur, dan kita berdua akan membuang waktu dengan sopan."
 
-"Maka kita mulai dari sana," kata Maera. "Dari hal yang kita sama-sama tahu tapi tidak akan kita ucapkan lagi sepanjang malam ini."
+"Maka kita mulai dari sana," kata Maera. "Dari hal yang kita sama-sama tahu tetapi tidak akan kita ucapkan lagi sepanjang malam ini."
 
 "Setuju." Untuk pertama kalinya malam itu, sesuatu yang mirip istirahat lewat di wajah pejabat itu. "Anda punya barang yang ingin dibeli dunia ini. Sebut angkanya."
 
@@ -51,11 +51,11 @@ Ia berdiri, berjalan ke jendela, dan memandangi lampu-lampu barak distrik timur 
 
 "Dan arsipnya?"
 
-"Tiga tahap, seperti kata Anda. Tetap di kotak Anda. Kalau sampai satu pun dari janji saya dilanggar oleh tangan saya sendiri, lembar terakhir keluar dan saya mati secara prosedural." Ossian menoleh. "Tapi saya punya satu syarat yang bukan syarat, karena tidak akan tertulis di mana pun. Suatu hari nanti, kalau old warden itu teridentifikasi, saya mau jadi orang pertama yang diberi tahu sebelum dunia lain tahu. Bukan untuk menangkapnya. Untuk bicara."
+"Tiga tahap, seperti kata Anda. Tetap di kotak Anda. Kalau sampai satu pun dari janji saya dilanggar oleh tangan saya sendiri, lembar terakhir keluar dan saya mati secara prosedural." Ossian menoleh. "Namun saya punya satu syarat yang bukan syarat, karena tidak akan tertulis di mana pun. Suatu hari nanti, kalau old warden itu teridentifikasi, saya mau jadi orang pertama yang diberi tahu sebelum dunia lain tahu. Bukan untuk menangkapnya. Untuk bicara."
 
 Maera mempertimbangkan permintaan itu dengan cara yang sama seperti ia menimbang lot curiga — dari segala sisi, termasuk sisi yang tidak ditunjukkan. Orang ini tidak berbohong tentang kebutuhannya — kebutuhan yang jujur adalah satu-satunya jenis kejujuran yang pernah dipamerkan Vael padanya, dan itu justru yang membuatnya berbahaya.
 
-"Saya tidak bisa menjanjikan hal yang tidak saya pegang," katanya. "Tapi saya bisa menjanjikan urutan: kalau identitas itu sampai ke telinga saya lebih dulu daripada ke kertas mana pun, Anda yang saya datangi."
+"Saya tidak bisa menjanjikan hal yang tidak saya pegang," katanya. "Namun saya bisa menjanjikan urutan: kalau identitas itu sampai ke telinga saya lebih dulu daripada ke kertas mana pun, Anda yang saya datangi."
 
 "Cukup profesional untuk saya."
 

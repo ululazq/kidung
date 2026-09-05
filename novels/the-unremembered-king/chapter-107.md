@@ -7,7 +7,7 @@ Surat tugas itu sampai ke tangannya pada subuh hari keseratus empat puluh lima, 
 
 Bahasa pembukaannya membosankan dengan cara yang dikerjakan. Pemeriksaan teknis kondisi segmen demi kepentingan pencatatan aset tersupervisi. Saksi prosedural pun tersedia. Laporan disampaikan dalam bentuk dan metode yang dianggap tepat oleh pemeriksa. Ia membaca paragraf terakhir dua kali, paragraf yang menyatakan bahwa biro tidak mengharapkan kesimpulan apa pun dan hanya meminta pembacaan, dan ia mengerti bahwa orang yang menulis surat ini tahu persis dia sedang memberi kartu blanko kepada pembacanya. Biro ini ingin tahu kondisi seam. Tidak lebih dari itu, dan tidak kurang dari itu.
 
-Pengikat tua itu meletakkan surat di atas meja dan berdiri cukup lama di depan jendela kamarnya yang menghadap lereng timur. Empat puluh tahun ia membaca batu untuk orang-orang yang membayar, dan dalam empat puluh tahun itu ia belajar satu hal yang tidak tertulis di buku mana pun. Fakta paling mahal bukan fakta yang paling langka. Fakta paling mahal adalah fakta yang harganya berbeda bagi setiap orang yang mengincarnya, dan orang yang memegangnya wajib tahu siapa akan membayar termahal, sebab menjualkannya kepada penawar pertama adalah cara paling pasti untuk mati miskin di dunia yang salah.
+Pengikat tua itu meletakkan surat di atas meja dan berdiri cukup lama di depan jendela kamarnya yang menghadap lereng timur. Empat puluh tahun ia membaca batu untuk orang-orang yang membayar, dan dalam empat puluh tahun itu ia belajar satu hal yang tidak tertulis di buku mana pun. Fakta paling mahal bukan fakta yang paling langka. Fakta paling mahal adalah fakta yang harganya berbeda bagi setiap orang yang mengincarnya, dan orang yang memegangnya wajib tahu siapa akan membayar termahal — sebab menjualkannya kepada penawar pertama adalah cara paling pasti untuk mati miskin di dunia yang salah.
 
 Dia akan turun. Dia selalu turun. Pertanyaannya hanya kepada siapa bacaannya akan menjadi milik.
 
@@ -35,7 +35,7 @@ Di pintu lorong B, pengikat senior berhenti dan menempelkan telapak tangannya ra
 
 "Batu ini sudah kau membaca tahun lalu," kata Kovan. "Waktu penilaian berskala penuh."
 
-"Batunya sama. Yang bertanya beda." Orang tua itu meluruskan diri. "Tahun lalu saya datang untuk menjawab pertanyaan komisi. Hari ini saya datang untuk menjawab pertanyaan biro. Dua pertanyaan itu mirip kelihatannya, tapi jawabannya tidak boleh sama."
+"Batunya sama. Yang bertanya beda." Orang tua itu meluruskan diri. "Tahun lalu saya datang untuk menjawab pertanyaan komisi. Hari ini saya datang untuk menjawab pertanyaan biro. Dua pertanyaan itu mirip kelihatannya, tetapi jawabannya tidak boleh sama."
 
 "Kenapa tidak?"
 
@@ -53,11 +53,11 @@ Kovan mendekat. "Pasak. Enam lubang, arsip menyebut katup samping. Ada catatan i
 
 "Serat apa saja bisa jatuh ke tambang," kata pengikat senior. "Itu bukan pelajaran hari ini."
 
-Mereka bergerak menuju sisi timur, tempat retakan besar tidur di balik lapisan yang terbaca mati. Di ambang aula, pada saat mereka masuk, Kovan merasakannya lagi, hal yang sama yang pernah membuatnya berhenti di tengah langkah tahun lalu, yaitu tidak ada apa-apa, dan ketiadaan itu punya arah. Galeri sembilan sudah bisu sejak jauh sebelum mereka mencapainya. Roda troli mati di garis tertentu seperti dipotong pisau, dan Kovan mencatat batas potongan itu dalam bukunya tanpa menulis kata sunyi, karena angka saja sudah cukup bicara.
+Mereka bergerak menuju sisi timur, tempat retakan besar tidur di balik lapisan yang terbaca mati. Di ambang aula, pada saat mereka masuk, Kovan merasakannya lagi, hal yang sama yang pernah membuatnya berhenti di tengah langkah tahun lalu — yaitu tidak ada apa-apa, dan ketiadaan itu punya arah. Galeri sembilan sudah bisu sejak jauh sebelum mereka mencapainya. Roda troli mati di garis tertentu seperti dipotong pisau, dan Kovan mencatat batas potongan itu dalam bukunya tanpa menulis kata sunyi, karena angka saja sudah cukup bicara.
 
 Pengikat senior berlutut di hadapan retakan, seperti dulu, dan tidak menyentuhnya dua kali. Satu telapak rata di batu sebelahnya. Napasnya diperlambat sampai lebih lambat dari batu, dan ia menunggu, karena batu adalah orang tua dan bercerita kalau yang mendengarkan duduk cukup lama.
 
-Kovan menghitung waktu dalam kepalaannya, kebiasaan yang tidak bisa dilepaskannya lagi. Pada hitungan enam puluh, orang tua itu menegakkan kepala sedikit. Pada hitungan sembilan puluh, bahunya turun, seperti orang yang mendengar kalimat yang sudah ia duga tapi tetap berat didengar.
+Kovan menghitung waktu dalam kepalaannya, kebiasaan yang tidak bisa dilepaskannya lagi. Pada hitungan enam puluh, orang tua itu menegakkan kepala sedikit. Pada hitungan sembilan puluh, bahunya turun, seperti orang yang mendengar kalimat yang sudah ia duga tetapi tetap berat didengar.
 
 "Alatmu membaca apa?" tanyanya tanpa menoleh.
 
@@ -87,11 +87,11 @@ Di perjalanan naik, di tingkat empat, Kovan akhirnya mengeluarkan pertanyaan yan
 
 Malam harinya, di kamarnya di distrik tengah, pengikat senior menulis dua laporan.
 
-Yang pertama selesai lebih cepat, sebab laporan jujur selalu lebih pendek dari laporan yang hati-hati. Empat baris untuk biro. Segmen diperiksa dengan metode pemeriksa. Kondisi konsisten dengan klasifikasi tercatat. Struktur mati, tidak aktif, tidak berbahaya. Rekomendasi pencatatan aset dapat dilanjutkan. Ia menandatanganinya dengan nama jabatannya yang bukan nama, menyalinnya rapi, dan melipatnya untuk dikirim esok pagi ke Quota Office. Biro akan puas. Biro akan memegang kertas itu di depan memorandum Assayer Guild dan tersenyum sopan. Biarlah. Kertas itu benar sesuai bentuk pertanyaannya, dan kebohongan terbaik tetaplah jawaban yang benar untuk pertanyaan yang salah.
+Yang pertama selesai lebih cepat — sebab laporan jujur selalu lebih pendek dari laporan yang hati-hati. Empat baris untuk biro. Segmen diperiksa dengan metode pemeriksa. Kondisi konsisten dengan klasifikasi tercatat. Struktur mati, tidak aktif, tidak berbahaya. Rekomendasi pencatatan aset dapat dilanjutkan. Ia menandatanganinya dengan nama jabatannya yang bukan nama, menyalinnya rapi, dan melipatnya untuk dikirim esok pagi ke Quota Office. Biro akan puas. Biro akan memegang kertas itu di depan memorandum Assayer Guild dan tersenyum sopan. Biarlah. Kertas itu benar sesuai bentuk pertanyaannya, dan kebohongan terbaik tetaplah jawaban yang benar untuk pertanyaan yang salah.
 
 Laporan kedua tidak ditulis di atas kertas yang biasa. Ia melepas sol kanan sepatunya, mengeluarkan lembar tipis yang sudah terisi sandi dua alfabet mati, dan menambahkan baris-baris baru di bawah entri tahun lalu. Retakan hidup. Tarik-tahan, jeda memilih, bukan jeda menghitung. Pasak selatan dua digoyang dari kanal, bekerja sabar, tangan terlatih, serat tali segar di nat. Penambal masih bekerja. Dan sekarang ada pihak ketiga yang membayar untuk mengetahui apa yang kutahu.
 
-Ia menimbang tiga nama sambil menulis, seperti pedagang tua menimbang tiga timbungan yang berbeda bijinya. Assayer Guild akan membayar dengan perlindungan, dan perlindungannya bagus, tapi Guild menjual kebenaran kepada prosedur, dan prosedur lambat serta bocor ke semua arah. Biro Vael akan membayar dengan uang dan akses, dan uangnya segar, tapi biro ini sedang kelaparan kemenangan, dan orang yang kelaparan memakan pemilik barangnya begitu barangnya habis. Dan ada pihak ketiga yang tidak menawarkan apa-apa sama sekali, yaitu penambal tua di bawah kota itu, yang membaca batu dengan seni yang sama dengan seni yang pernah dilihatnya sekali seumur hidup. Pihak ketiga ini membayar dengan satu hal yang tidak dimiliki dua pihak lainnya. Dia membayar dengan arti. Fakta yang diberikan kepada penambal akan menjadi bagian dari penjagaan, dan fakta yang menjadi bagian dari penjagaan tidak pernah habis nilainya.
+Ia menimbang tiga nama sambil menulis, seperti pedagang tua menimbang tiga timbungan yang berbeda bijinya. Assayer Guild akan membayar dengan perlindungan, dan perlindungannya bagus, tetapi Guild menjual kebenaran kepada prosedur, dan prosedur lambat serta bocor ke semua arah. Biro Vael akan membayar dengan uang dan akses, dan uangnya segar, tetapi biro ini sedang kelaparan kemenangan, dan orang yang kelaparan memakan pemilik barangnya begitu barangnya habis. Dan ada pihak ketiga yang tidak menawarkan apa-apa sama sekali — yaitu penambal tua di bawah kota itu, yang membaca batu dengan seni yang sama dengan seni yang pernah dilihatnya sekali seumur hidup. Pihak ketiga ini membayar dengan satu hal yang tidak dimiliki dua pihak lainnya. Dia membayar dengan arti. Fakta yang diberikan kepada penambal akan menjadi bagian dari penjagaan, dan fakta yang menjadi bagian dari penjagaan tidak pernah habis nilainya.
 
 Belum diputuskan. Kartu itu tetap di tangan. Sol kanan direkat kembali, dan orang tua itu duduk sebentar di tepi ranjangnya dengan dua laporan yang sudah selesai dan satu keputusan yang belum, dan kebetulan itulah posisi yang paling ia sukai dalam enam puluh tahun hidupnya, karena orang yang punya dua laporan dan belum memilih pembeli adalah orang yang paling mahal harganya di pasar mana pun.
 

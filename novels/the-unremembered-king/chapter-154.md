@@ -41,7 +41,7 @@ Ruangan itu diam menunggu, dan Kovan merasakan pertanyaan itu dengan tepatnya se
 
 "Yang saya ketahui," kata Kovan. "Itu tertulis di laporan. Saya tidak pernah mengklaim lengkap."
 
-"Benar. Dan itu kenapa berkas Anda dipanggil, bukan dibuang." Halaman itu ditutup, dan untuk pertama kalinya pembacanya menoleh. Wajah tua, mata yang tidak menua, dan di matanya ada hitungan yang membuat Kovan sadar satu hal dalam dingin: orang ini sudah membaca lebih banyak jawaban terpilih daripada siapa pun yang hidup. "Gema ketiga. Batang cinder-glass yang dibawa keluar tim panener. Ia lewat meja saya kemarin. Saya membacanya dengan tangan." Jeda yang diukur. "Anda pernah mencocokkan sesuatu dengannya. Itu tidak tertulis di berkas mana pun, tapi Anda menghitung saat mendengar pertanyaan saya, dan orang hanya menghitung ketika sedang menimbang sesuatu yang sudah hampir jatuh."
+"Benar. Dan itu kenapa berkas Anda dipanggil, bukan dibuang." Halaman itu ditutup, dan untuk pertama kalinya pembacanya menoleh. Wajah tua, mata yang tidak menua, dan di matanya ada hitungan yang membuat Kovan sadar satu hal dalam dingin: orang ini sudah membaca lebih banyak jawaban terpilih daripada siapa pun yang hidup. "Gema ketiga. Batang cinder-glass yang dibawa keluar tim panener. Ia lewat meja saya kemarin. Saya membacanya dengan tangan." Jeda yang diukur. "Anda pernah mencocokkan sesuatu dengannya. Itu tidak tertulis di berkas mana pun, tetapi Anda menghitung saat mendengar pertanyaan saya, dan orang hanya menghitung ketika sedang menimbang sesuatu yang sudah hampir jatuh."
 
 Kovan tidak menjawab. Menjawab adalah memberi.
 
@@ -53,7 +53,7 @@ Ia memilih jalur ketiganya, jalur yang dipelajarinya dari bocah lorong tujuh tan
 
 "Saya bukan ahli keluarga," katanya. "Saya pencatat. Catatan saya mengatakan tiga gema yang tidak cocok dengan apa pun yang saya ketahui, dan satu kecocokan internal yang tidak sanggup saya jelaskan. Selebihnya bukan milik berkas ini."
 
-Wanita tua itu memandanginya lama, lalu — dan ini yang tidak dipersiapkan Kovan oleh seratus hari bersiap — tersenyum tipis seperti orang menemukan barang yang dicarinya bukan di tempat yang benar tapi di tempat yang menarik. "Bagus. Berkas yang dijaga pemiliknya selalu lebih bernilai daripada berkas yang dijaga negara." Map ditutup, dan tinta resmi mengalir ke lembar putusan. "Berkas kembali ke Caldrest bersama Anda. Pemegang tunggal tetap Anda. Tambahan satu baris dari saya: klasifikasi dinaikkan ke tingkat pantau langsung. Kalau keluarga itu bertambah anggota, saya ingin tahu hari itu juga. Bukan lewat laporan bulanan. Lewat Anda."
+Wanita tua itu memandanginya lama, lalu — dan ini yang tidak dipersiapkan Kovan oleh seratus hari bersiap — tersenyum tipis seperti orang menemukan barang yang dicarinya bukan di tempat yang benar tetapi di tempat yang menarik. "Bagus. Berkas yang dijaga pemiliknya selalu lebih bernilai daripada berkas yang dijaga negara." Map ditutup, dan tinta resmi mengalir ke lembar putusan. "Berkas kembali ke Caldrest bersama Anda. Pemegang tunggal tetap Anda. Tambahan satu baris dari saya: klasifikasi dinaikkan ke tingkat pantau langsung. Kalau keluarga itu bertambah anggota, saya ingin tahu hari itu juga. Bukan lewat laporan bulanan. Lewat Anda."
 
 "Kalau saya menolak pantauan?"
 

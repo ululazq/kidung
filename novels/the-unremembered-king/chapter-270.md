@@ -31,7 +31,7 @@ Ia dimainkan oleh kedalaman bersama seam saksi lewat jalur tanah — tujuh penja
 
 Aula itu gelap kecuali tenunan Lompa dan kain Vel-Morra yang digantung melingkari dinding, keduanya memancarkan aksara tenun yang bisa dibaca siapa pun yang duduk di mana pun: seluruh lagu, ditenun, agar pendengaran punya teman.
 
-Orang-orang menangis di bagian yang sudah diduga. Tapi arsip mencatat bahwa tangisan terbesar — yang membuat ibu pos pesisir keluar sebentar lalu kembali membawa tiga kotak tisu yang habis — bukan di bagian api atau gugur, tapi di bagian sahabat: lima suara yang saling menyapa di tengah malam terakhir mereka, karena bahagia, karena saling kenal, karena takut sama-sama dan memilih bercanda.
+Orang-orang menangis di bagian yang sudah diduga. Namun arsip mencatat bahwa tangisan terbesar — yang membuat ibu pos pesisir keluar sebentar lalu kembali membawa tiga kotak tisu yang habis — bukan di bagian api atau gugur, tetapi di bagian sahabat: lima suara yang saling menyapa di tengah malam terakhir mereka, karena bahagia, karena saling kenal, karena takut sama-sama dan memilih bercanda.
 
 ---
 
@@ -51,7 +51,7 @@ Tidak ada yang bergerak di aula itu selama beberapa detik setelahnya.
 
 Lalu, dari baris belakang, terdengar bunyi kursi kayu digeser pelan — dan Anthema Spire berdiri, menghadap pintu, bahu tegang seperti orang yang bertarung dengan keputusannya sendiri.
 
-Sebelum pemimpin Choir itu sampai ke pintu, dua belas murid delegasi sudah bergerak duluan. Bukan menghalangi. Anak-anak itu hanya berdiri di sepanjang jalurnya menuju pintu, satu per satu, diam — bukan pagar, tapi lorong. Dan di ujung lorong anak-anak itu, murid termuda — sembilan tahun, cabang pegunungan timur laut — mengangkat buku seribu pertanyaan itu dengan kedua tangan, terbuka pada satu halaman.
+Sebelum pemimpin Choir itu sampai ke pintu, dua belas murid delegasi sudah bergerak duluan. Bukan menghalangi. Anak-anak itu hanya berdiri di sepanjang jalurnya menuju pintu, satu per satu, diam — bukan pagar, tetapi lorong. Dan di ujung lorong anak-anak itu, murid termuda — sembilan tahun, cabang pegunungan timur laut — mengangkat buku seribu pertanyaan itu dengan kedua tangan, terbuka pada satu halaman.
 
 Anthema Spire berhenti.
 
@@ -96,7 +96,7 @@ Ia membacakannya dengan suara anak sembilan tahun yang berlatih sepanjang jalan 
 
 Jeda. Anak itu mengangkat wajahnya, mencari satu orang di sudut dapur.
 
-"Tapi dengan satu syarat. Kami membaca di buku kami: cerita harus ditulis orang-orang yang mencintainya. Jadi kalimat itu tidak boleh dibacakan oleh Sela, bukan karena Sela kurang bagus" — ia buru-buru menambahkan itu, dan seribu orang tersenyum — "tapi karena kalimat ini ditujukan kepada sahabatnya. Dan sahabatnya yang harus menyebutkannya."
+"Namun dengan satu syarat. Kami membaca di buku kami: cerita harus ditulis orang-orang yang mencintainya. Jadi kalimat itu tidak boleh dibacakan oleh Sela, bukan karena Sela kurang bagus" — ia buru-buru menambahkan itu, dan seribu orang tersenyum — "tetapi karena kalimat ini ditujukan kepada sahabatnya. Dan sahabatnya yang harus menyebutkannya."
 
 Ashvarok-Renn bangkit dari kursi sudut dapur.
 
@@ -118,11 +118,11 @@ Ia melihat keliling aula. Seribu wajah. Kursi kosong dekat pintu. Dua belas anak
 
 Aula Caldrest tidak menjawab malam itu dengan tepuk tangan.
 
-Yang terjadi lebih baik daripada itu: name train. Tanpa diumumkan, tanpa dipimpin, mulai dari baris kursi Vel-Morra yang sudah hafal caranya, lalu merambat — seribu orang meneruskan satu sama lain irama sederhana yang dua tahun ini menjadi bahasa pulang di seluruh Karvess, dan di atasnya, satu per satu, orang-orang mulai menyebut nama. Nama lima panglima, lengkap. Nama para penjaga menara. Nama juru masak istana yang tidak pernah dicatat dokumen mana pun tapi tersimpan di detik terakhir nadanya.
+Yang terjadi lebih baik daripada itu: name train. Tanpa diumumkan, tanpa dipimpin, mulai dari baris kursi Vel-Morra yang sudah hafal caranya, lalu merambat — seribu orang meneruskan satu sama lain irama sederhana yang dua tahun ini menjadi bahasa pulang di seluruh Karvess, dan di atasnya, satu per satu, orang-orang mulai menyebut nama. Nama lima panglima, lengkap. Nama para penjaga menara. Nama juru masak istana yang tidak pernah dicatat dokumen mana pun tetapi tersimpan di detik terakhir nadanya.
 
 Name train seribu orang, untuk nama-nama yang seribu tahun menunggu.
 
-Di baris belakang, Anthema Spire menyebutkan satu nama juga — pelan sekali, hanya untuk dirinya sendiri, tapi nat lorong yang menyelinap mendengar dari jendela tinggi bersumpah sampai akhir hidupnya bahwa nama itu adalah nama seorang adik.
+Di baris belakang, Anthema Spire menyebutkan satu nama juga — pelan sekali, hanya untuk dirinya sendiri, tetapi nat lorong yang menyelinap mendengar dari jendela tinggi bersumpah sampai akhir hidupnya bahwa nama itu adalah nama seorang adik.
 
 Dan di dataran tinggi Vhal-Duren, seam saksi menerima seluruh malam itu lewat jalur tanah, dan menjawab dengan detak tujuh-tujuhnya — tujuh-tujuhnya, karena sekarang lagunya utuh dan saudaranya didengar:
 

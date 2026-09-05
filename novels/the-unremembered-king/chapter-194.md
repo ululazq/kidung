@@ -59,7 +59,7 @@ Hasil minggu pertama dicatat Kovan dengan angka:
 
 Dan kalimat penutup rapat itu, dari ibu Tamma lagi — karena semua penemuan besar Caldrest selalu disegel oleh dapur:
 
-"Jadi selama ini penyakitnya kangen ditemenin. Ya sudah. Kita temenin. Itu kan pekerjaan kita sehari-hari."
+"Jadi selama ini penyakitnya kangen ditemani. Ya sudah. Kita temani. Itu kan pekerjaan kita sehari-hari."
 
 ---
 
@@ -96,13 +96,13 @@ Kesimpulan resmi: obat Hollowing bukan seni. Obatnya kehadiran."
 Entri Hourglass Ashvarok menutup bab ini — dan kalimat terakhirnya kelak menjadi yang paling sering dikutip dari semua tulisannya:
 Hari 408. Seribu tahun Hegemony melawan kegelapan dengan seni terkuat yang pernah ada: untaian raja, segel hidup, pengorbanan nama.
 Caldrest mengalahkannya dalam tiga puluh hari dengan sup, cerita dapur, dan orang-orang yang mau makan di dekat tempat gelap.
-Kalau lima panglimaku bisa lihat dari sana, mereka akan tertawa paling keras dalam delapan belas bulan ini. Dan aku akan ikut tertawa. Karena mereka tahu betul: aku selalu ini jenis rajanya — yang solusinya sederhana tapi butuh delapan belas abad untuk berani mencobanya.
+Kalau lima panglimaku bisa lihat dari sana, mereka akan tertawa paling keras dalam delapan belas bulan ini. Dan aku akan ikut tertawa. Karena mereka tahu betul: aku selalu ini jenis rajanya — yang solusinya sederhana tetapi butuh delapan belas abad untuk berani mencobanya.
 
 ---
 
 Sisa bab diisi penutup dari Sela — catatan biru di bawah entri kakaknya, yang merangkum perubahan terbesarnya sendiri:
 "Catatan pencatat: dulu aku takut menulis di kolom Hourglass karena kakakku orang penting dan tulisanku bocah. Sekarang papan itu penuh tulisan semua orang — murid, janda, pedagang garam, kedalaman lewat terjemahan Kovan.
-Kesimpulan: rahasia terbesar penyembuhan kota ini ternyata bukan seni raja. Tapi papan yang boleh ditulis siapa saja."
+Kesimpulan: rahasia terbesar penyembuhan kota ini ternyata bukan seni raja. Namun papan yang boleh ditulis siapa saja."
 
 ---
 
@@ -114,9 +114,9 @@ Sapuan menjawab panjang — dan terjemahannya besok paginya membuat Sela menempe
 ---
 
 Sisa tujuh puluh lima kata — penutup paling kecil dan paling Caldrest: paginya, Pak Darmo datang sendiri ke gudang perkakas, membawa sekopnya, dan bertanya kepada Ashvarok yang sedang menyapu (kebiasaan baru raja):
-"Bang. Aku dengan-dengan kamu yang suruh orang-orang manggil nama aku lagi?"
+"Bang. Aku dengan-dengan kamu yang suruh orang-orang memanggil nama aku lagi?"
 "Bukan aku, Pak Darmo. Mereka ingat sendiri."
 
-"Ya sudah." Lelaki tua itu mengangkat sekopnya, berbalik, lalu berhenti di pintu tanpa menoleh: "Makasih banyak, Bang Tua."
+"Ya sudah." Lelaki tua itu mengangkat sekopnya, berbalik, lalu berhenti di pintu tanpa menoleh: "Terima kasih banyak, Bang Tua."
 
 Kovan menghitung ulang seluruh protokol musim dengan matematika barunya dan menemukan sesuatu yang membuatnya senyum-senyum seharian: total waktu yang dihabiskan Caldrest untuk menolong kedalaman delapan bulan ini LEBIH SEDIKIT dari waktu yang dihabiskan kedalaman untuk menolong Caldrest dalam delapan hari. Angka itu ia tulis besar-besar di papan aula, tanpa komentar.

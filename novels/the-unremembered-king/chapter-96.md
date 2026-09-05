@@ -9,7 +9,7 @@ Ondar yang menyadarinya paling awal, karena tangannya mengenal tekstur pekerjaan
 
 Ia berhenti, menurunkan tuas, lalu melakukan hal yang sudah menjadi kebiasaan sejak malam ketika dua puluh orang blok timur bangun tanpa nama. "Ondar," katanya keras-keras kepada dirinya sendiri. "Ondar, anak lorong tujuh." Namanya menjawab dari mulutnya sendiri, dan ia bernapas lega. Setahun ini itulah satuan ukur paling andal yang ia kenal untuk memastikan dunia masih utuh.
 
-Yang salah bukan pada dirinya. Ketika ia berjalan balik memasuki galeri untuk mendorong troli kosong, langkahnya mati di udara. Bukan melemah. Mati. Sol kulit menghantam batu dan batu menelan bunyinya tanpa membersarkannya, seperti lantai rumah orang kaya yang disekap permadani, dan Ondar berdiri di ambang galeri lama sekali mendengarkan tetesan air yang biasanya hidup di langit-langit tengah. Tetesannya ada. Ia melihatnya jatuh. Bunyinya tidak ikut turun.
+Yang salah bukan pada dirinya. Ketika ia berjalan balik memasuki galeri untuk mendorong troli kosong, langkahnya mati di udara. Bukan melemah. Mati. Sol kulit menghantam batu dan batu menelan bunyinya tanpa mengembalikan apa pun — seperti lantai rumah orang kaya yang disekap permadani — dan Ondar berdiri di ambang galeri lama sekali, mendengarkan tetesan air yang biasanya hidup di langit-langit tengah. Tetesannya ada. Ia melihatnya jatuh, satu demi satu, dingin dan bening di ujung cahaya lampunya. Bunyinya tidak ikut turun.
 
 Pada jam kedua shift, seluruh regu galeri sembilan berkumpul di ambang tanpa ada yang memerintahkan. Mereka tidak panik. Panik berbunyi. Mereka hanya berdiri, memandang ke dalam gelap yang pagi itu terlihat sama sekali tidak berbeda dari gelap biasa, dan satu per satu menemukan alasan untuk mengerjakan bagian lain dari tambang.
 
@@ -27,11 +27,11 @@ Mereka turun ke tingkat galeri sembilan berdua, dan Brannoc berhenti tiga langka
 
 "Batasnya di sini," kata Ashvarok.
 
-Ia melangkah melewati ambang, dan dunia memutus suaranya di belakang tumitnya. Ia berjalan sepuluh langkah ke dalam, menepuk dinding, menggores batu dengan kuku, menghentakkan sepatu. Mulutnya membentuk kalimat yang tidak sampai ke mana-mana. Lalu ia mundur keluar, satu langkah, dan bunyi dunia mengejar balik seperti air masuk cetekan.
+Ia melangkah melewati ambang, dan dunia memutus suaranya di belakang tumitnya. Ia berjalan sepuluh langkah ke dalam, menepuk dinding, menggores batu dengan kuku, menghentakkan sepatu — dan tidak satu pun dari semua itu kembali kepadanya. Mulutnya membentuk kalimat yang tidak sampai ke mana-mana. Bau di dalam sini pun berbeda: bukan bau tambang yang bekerja, melainkan bau ruangan yang sudah lama tidak diajak bicara. Lalu ia mundur keluar, satu langkah, dan bunyi dunia mengejar balik seperti air yang masuk ke cekungan kering.
 
 "Seperti kemarin," kata Brannoc pelan. "Hanya lebih besar."
 
-"Lebih besar, dan beraturan." Ashvarok menoleh ke sepanjang dinding koridor, membaca arah yang tidak terlihat mata. "Mata air sudah sunyi sejak lama. Kolong sudah diserahkan. Sekarang galerinya. Sunyinya merambat seperti lembap di nat dinding — tidak menyebar acak. Dia mengikuti satu garis." Ia diam sebentar, menghitung, menghitung lagi. "Garinya mengikuti kanal lama. Ke arah aula."
+"Lebih besar, dan beraturan." Ashvarok menoleh ke sepanjang dinding koridor, membaca arah yang tidak terlihat mata. "Mata air sudah sunyi sejak lama. Kolong sudah diserahkan. Sekarang galerinya. Sunyinya merambat seperti lembap di nat dinding — tidak menyebar acak. Dia mengikuti satu garis." Ia diam sebentar, menghitung, menghitung lagi. "Garisnya mengikuti kanal lama. Ke arah aula."
 
 Brannoc mengerjakan kalimat itu dengan cara orang yang sudah terbiasa menerima kabar buruk dalam bentuk geometri. "Berarti yang di dalam masih tarik."
 
@@ -41,17 +41,17 @@ Brannoc mengerjakan kalimat itu dengan cara orang yang sudah terbiasa menerima k
 
 Rapat kecil digelar sore itu di gudang perkakas tingkat dua, dengan pintu tertutup dan Sela duduk di atas peti bekas paku supaya tidak ada yang perlu menyebut dia di luar atau di dalam.
 
-"Angka produksi akan jadi alasan," kata Ashvarok membuka. "Bukan sunyinya yang berbahaya dulu. Galerinya tidak membunuh siapa pun. Batunya kokoh. Udaranya bersih. Airnya jernih. Kalau ada yang turun malam ini dan bekerja delapan jam, dia pulang dengan tenaga utuh. Yang galeri ini ambil hanya bunyi." Ia memandang satu per satu wajah di ruangan. "Tapi angka nol dua pekan di atas kertas kuota adalah pintu. Pernah kita lihat pintu seperti itu dibuka jadi apa. Karantina baru. Survei ulang. Alasan-alasan resmi untuk menutup lorong dan memasukkan orang bersurat ke dalam."
+"Angka produksi akan jadi alasan," kata Ashvarok membuka. "Bukan sunyinya yang berbahaya dulu. Galerinya tidak membunuh siapa pun. Batunya kokoh. Udaranya bersih. Airnya jernih. Kalau ada yang turun malam ini dan bekerja delapan jam, dia pulang dengan tenaga utuh. Yang galeri ini ambil hanya bunyi." Ia memandang satu per satu wajah di ruangan. "Namun angka nol dua pekan di atas kertas kuota adalah pintu. Pernah kita lihat pintu seperti itu dibuka jadi apa. Karantina baru. Survei ulang. Alasan-alasan resmi untuk menutup lorong dan memasukkan orang bersurat ke dalam."
 
 "Dan yang menyayat seam sedang mencari alasan persis begitu," kata Brannoc. "Dia goyang pasak supaya dapat karantina. Sekarang lubangnya membuat karantina sendiri tanpa dia berusaha. Lucu juga."
 
 "Tidak lucu." Ashvarok mengatakannya tanpa nada marah, hanya rata. "Alasan yang datang sendiri lebih murah daripada alasan yang dibeli. Kalau laporan ini naik, orang yang menumpang di atasnya tidak perlu bekerja sama sekali."
 
-"Maka jangan naikkan," kata Sela dari atas peti. "Tapi orang-orang takut. Takut itu bocor. Besok-besok ada yang cerita ke istri petugas, dan cerita naik lebih cepat dari laporan."
+"Maka jangan naikkan," kata Sela dari atas peti. "Namun orang-orang takut. Takut itu bocor. Besok-besok ada yang cerita ke istri petugas, dan cerita naik lebih cepat dari laporan."
 
 Itu bagian yang sulit, dan mereka semua tahu itu bagian yang sulit. Sunyi galeri sembilan tidak bisa diberi cerita old gas, sebab tidak ada yang pingsan dan tidak ada yang lupa. Sunyi itu bisa didengar siapa pun dengan telinga biasa, dan orang yang diberi tahu jangan takut akan justru menghitung sendiri berapa banyak hal yang harus ditakuti.
 
-"Regu siapa yang mau masuk?" tanya Brannoc akhirnya. "Kalian kenal orang-orangnya. Aku tidak bisa memakai perintah untuk hal begini. Perintah membuat orang masuk badan, tapi takutnya bawa pulang."
+"Regu siapa yang mau masuk?" tanya Brannoc akhirnya. "Kalian kenal orang-orangnya. Aku tidak bisa memakai perintah untuk hal begini. Perintah membuat orang masuk badan, tetapi takutnya bawa pulang."
 
 "Ibu Tamma," kata Sela. "Dan Ondar."
 
@@ -61,7 +61,7 @@ Skema yang disusun malam itu sederhana sampai hampir memalukan. Galeri sembilan 
 
 Ashvarok membiarkan kesalahan bahasa itu tetap ada, karena membetulkannya tidak akan menyelamatkan siapa pun, dan karena ada satu hitungan lain yang sedang ia kerjakan diam-diam di kepala. Jika sunyi ini terus tumbuh mengikuti kanal, maka suatu hari ia akan sampai ke persimpangan-persimpangan yang punya nama, lalu ke lorong-lorong yang punya lalu lintas, lalu ke titik di mana sunyi tidak bisa lagi disembunyikan dari kertas mana pun. Dan pada hari itu, orang yang menjual alasan di distrik atas akan menemukan barang dagangannya sudah dikemas rapi oleh dunia sendiri.
 
-Dia mencatat tanggal itu di kepala, di samping tanggal-tanggal lain, dan tidak menuliskannya di mana pun.
+*Alasan yang datang sendiri adalah alasan yang tidak bisa dibantah siapa pun*, pikirnya, dan pikiran itu terasa dingin di belakang tulang dadanya. Ia mencatat tanggal itu di kepala, di samping tanggal-tanggal lain, dan tidak menuliskannya di mana pun.
 
 ---
 
@@ -83,7 +83,7 @@ Ashvarok berdiri di sisi dalam, Ondar di sisi luar, dan mereka berdiri begitu be
 
 Pertanyaan anak muda itu pantas dijawab jujur, dan Ashvarok sudah lama memutuskan bahwa Ondar termasuk orang yang pantas dibayar dengan jujur.
 
-"Kita bisa memperlambat," kata Ashvarok. "Kita sudah memperlambat. Sumur dipindah, kolom dicek, nama-nama dibayar harganya tiap malam di barak. Semua itu pagar, dan pagar berhasil." Ia memandang ke gelap dalam galeri yang tidak berbunyi apa-apa, ke arah yang ia tahu berujung di ruangan delapan banding tiga yang tidak boleh disebut di sini. "Tapi pagar tidak pernah mengalahkan air. Pagar hanya memilih di mana air masuk. Sumbernya masih di dalam, dan selama sumbernya di dalam, aku hanya tukang perbaikan yang bekerja lebih lambat dari kerusakannya."
+"Kita bisa memperlambat," kata Ashvarok. "Kita sudah memperlambat. Sumur dipindah, kolom dicek, nama-nama dibayar harganya tiap malam di barak. Semua itu pagar, dan pagar berhasil." Ia memandang ke gelap dalam galeri yang tidak berbunyi apa-apa — ke arah yang ia tahu berujung di ruangan delapan banding tiga yang tidak boleh disebut di sini. "Namun pagar tidak pernah mengalahkan air. Pagar hanya memilih di mana air masuk. Sumbernya masih di dalam, dan selama sumbernya di dalam, aku hanya tukang perbaikan yang bekerja lebih lambat daripada kerusakannya."
 
 Ondar menimbang kalimat itu dengan kepala miring, lalu mengangguk dengan keseriusan orang yang menerima jawaban lebih buruk dari harapannya dan tetap menganggapnya layak.
 

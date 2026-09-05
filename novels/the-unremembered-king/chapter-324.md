@@ -9,15 +9,15 @@ Thessa tiba membawa gambar cap tujuh garis yang dilihat the Northern Listener di
 
 "Berarti pihak ketiga," kata Sela. "Bukan kita, bukan Choir, bukan Hegemony. Sesuatu yang lebih tua, yang menganggap tujuh seam miliknya sejak sebelum Choir ada."
 
-Ashvarok-Renn meletakkan gambar itu ke bible kecil. "Ibu Tamma pernah bilang tujuh pintu tanpa kunci. Mungkin pihak ini pemilik pintunya, tapi karena tanpa kunci, mereka pun tak bisa masuk. Mereka cari kunci yang hilang delapan belas tahun silam."
+Ashvarok-Renn meletakkan gambar itu ke bible kecil. "Ibu Tamma pernah bilang tujuh pintu tanpa kunci. Mungkin pihak ini pemilik pintunya, tetapi karena tanpa kunci, mereka pun tak bisa masuk. Mereka cari kunci yang hilang delapan belas tahun silam."
 
 "Kunci apa?" tanya Kovan.
 
-"Semua yang hilang saat sembilan napas pergi. Termasuk cara menutup pangkal tanpa menutup semua simpul." Ashvarok-Renn menatap ke selatan, di mana dua anak mereka masih menghitung. "Kita tidak punya kunci itu. Tapi kita punya sesuatu yang mereka tidak punya: kita tidak mau memanen. Kita hanya jaga."
+"Semua yang hilang saat sembilan napas pergi. Termasuk cara menutup pangkal tanpa menutup semua simpul." Ashvarok-Renn menatap ke selatan, di mana dua anak mereka masih menghitung. "Kita tidak punya kunci itu. Namun kita punya sesuatu yang mereka tidak punya: kita tidak mau memanen. Kita hanya jaga."
 
 ---
 
-Mira di menara membuka buku catatan halaman kelima. "Dentum masih acak," katanya. "Tapi sejak gambar cap tujuh garis dibaca, napas antara keras dan pelan berubah pola — bukan memendek, tapi berdenyut dua kali lalu jeda. Seperti ada dua pihak menarik dari arah berbeda."
+Mira di menara membuka buku catatan halaman kelima. "Dentum masih acak," katanya. "Namun sejak gambar cap tujuh garis dibaca, napas antara keras dan pelan berubah pola — bukan memendek, tetapi berdenyut dua kali lalu jeda. Seperti ada dua pihak menarik dari arah berbeda."
 
 "Dua pihak menarik pangkal," kata perawat tua. "Berarti the Hollow mulai panas."
 
@@ -27,9 +27,9 @@ Ia mengetuk ubin tiga kali, diam sehentakan. Gerakan itu kini otomatis, seperti 
 
 ---
 
-Kovan menarik benang biru tipis ke arah timur di peta Ossian. "Simpul timur belum kita sentuh," katanya. "Tapi bila the Hollow panas, simpul timur akan bergetar lebih dulu karena paling dekat dengan jalur utara-ke-tengah."
+Kovan menarik benang biru tipis ke arah timur di peta Ossian. "Simpul timur belum kita sentuh," katanya. "Namun bila the Hollow panas, simpul timur akan bergetar lebih dulu karena paling dekat dengan jalur utara-ke-tengah."
 
-"Kirim pesan ke Ossian: minta the Northern Listener geser sedikit ke timur, amati apakah dentum di sana mulai beraturan," kata Ashvarok-Renn. "Tapi jangan masuk hutan payau. Tempat itu rawa, siapa pun yang masuk tanpa penunjuk akan hilang."
+"Kirim pesan ke Ossian: minta the Northern Listener geser sedikit ke timur, amati apakah dentum di sana mulai beraturan," kata Ashvarok-Renn. "Namun jangan masuk hutan payau. Tempat itu rawa, siapa pun yang masuk tanpa penunjuk akan hilang."
 
 "Dan kalau simpul timur sudah dipanen?" tanya Sela.
 
@@ -39,13 +39,13 @@ Gella mendekat, buku pemulihan di tangan. "Kau memikul pola lima pihak sekaligus
 
 "Setengah hitungan bukan sembilan napas."
 
-"Belum. Tapi pola sama persis dengan delapan belas tahun silam, sebelum sembilan napas pergi." Gella menutup buku. "Aku tidak melarang. Aku hanya ingatkan bahwa the Bearer juga punya batas yang kalau dilewati, tidak bisa dikembalikan seperti buku catatan."
+"Belum. Namun pola sama persis dengan delapan belas tahun silam, sebelum sembilan napas pergi." Gella menutup buku. "Aku tidak melarang. Aku hanya ingatkan bahwa the Bearer juga punya batas yang kalau dilewati, tidak bisa dikembalikan seperti buku catatan."
 
 ---
 
 Maera tiba membawa koper pos dari timur kali ini, bukan utara. "Kurir desa timur menyelipkan ini untukmu," katanya pada Ashvarok-Renn, menyerahkan kain tenun kecil. "Bukan dari Ossian. Dari murid Sekolah Mendengar angkatan ketiga yang kutempatkan di sana tahun lalu."
 
-Ashvarok-Renn membukanya di serambi. *Timur bergetar sejak dua minggu. Pola empat napas tiap senja, bukan subuh. Berbeda dari selatan. Pendudang kira itu burung migrasi, tapi burung tidak berirama tiga-satu. Aku hitung sendiri, tidak lapor ke siapa pun kecuali guru.*
+Ashvarok-Renn membukanya di serambi. *Timur bergetar sejak dua minggu. Pola empat napas tiap senja, bukan subuh. Berbeda dari selatan. Penduduk kira itu burung migrasi, tetapi burung tidak berirama tiga-satu. Aku hitung sendiri, tidak lapor ke siapa pun kecuali guru.*
 
 "Murid kita di timur sudah catat sendiri," kata Ashvarok-Renn pelan. "Tanpa diperintah. Itu yang kubilang pada Gella: pemahaman datang bila simpul bergetar."
 
@@ -55,7 +55,7 @@ Kovan menandai timur dengan lingkaran merah. "Simpul kelima bergetar. Pola empat
 
 ---
 
-Malamnya, Murid angkatan ketiga di timur, yang ditempatkan Ossian setahun lalu, mengirim kain tenun lebih panjang lewat kurir desa. Maera membacanya untuk Ashvarok-Renn di serambi: *Hutan payau di timur berdenyut sejak dua minggu lalu, tepat saat senja. Pola empat napas, bukan tiga seperti selatan. Aku hitung sendiri tanpa guru suruh, karena angin di sini mulai berirama dan aku tahu itu bukan alam. Pendudang menyangka itu burung migrasi, tapi burung tidak berdentum tiga-satu. Aku catat di kepala, tidak tulis di kertas supaya tak ada yang baca. Bila guru mau, aku bisa kirim pola tiap minggu lewat kurir yang sama.*
+Malamnya, Murid angkatan ketiga di timur, yang ditempatkan Ossian setahun lalu, mengirim kain tenun lebih panjang lewat kurir desa. Maera membacanya untuk Ashvarok-Renn di serambi: *Hutan payau di timur berdenyut sejak dua minggu lalu, tepat saat senja. Pola empat napas, bukan tiga seperti selatan. Aku hitung sendiri tanpa guru suruh, karena angin di sini mulai berirama dan aku tahu itu bukan alam. Penduduk menyangka itu burung migrasi, tetapi burung tidak berdentum tiga-satu. Aku catat di kepala, tidak tulis di kertas supaya tak ada yang baca. Bila guru mau, aku bisa kirim pola tiap minggu lewat kurir yang sama.*
 
 "Murid kita di timur lebih dulu tahu dari kita," kata Ashvarok-Renn pelan. "Ia tidak menunggu perintah. Itu tanda jaringan diam benar-benar hidup di luar barak."
 
@@ -73,11 +73,11 @@ Gella menarik Sela ke sudut ruangan, membuka buku pemulihan di atas paha. "Tekni
 
 Sela mengerjap. "Ibu Tamma jatuh karena napas habis?"
 
-"Semua yang memikul the Remainder jatuh saat napas habis. Sembilan orang jatuh delapan belas tahun silam. Ashvarok-Renn bangkit, tapi napasnya tidak kembali utuh." Gella menutup buku. "Kau dan aku penjaga batas itu. Jangan biarkan angka diam."
+"Semua yang memikul the Remainder jatuh saat napas habis. Sembilan orang jatuh delapan belas tahun silam. Ashvarok-Renn bangkit, tetapi napasnya tidak kembali utuh." Gella menutup buku. "Kau dan aku penjaga batas itu. Jangan biarkan angka diam."
 
 Di sudut lain, dua belas anak berlatih ketukan di bawah sinar lampu. Salah satu anak angkatan keempat bertanya pada Brannoc, "Kalau the Hollow dipanggil dan kita lari, siapa yang kabari desa selatan?"
 
-"Kabar bukan dari kaki, tapi dari benang," jawab Brannoc. "Mereka di selatan punya mata sendiri sekarang. Kita hanya satu dari lima simpul yang saling dengar."
+"Kabar bukan dari kaki, tetapi dari benang," jawab Brannoc. "Mereka di selatan punya mata sendiri sekarang. Kita hanya satu dari lima simpul yang saling dengar."
 
 ---
 
@@ -87,21 +87,21 @@ Di sudut menara, perawat tua membuka peta kasar yang dikirim Kovan. "Hutan payau
 
 ---
 
-Brannoc mengumpulkan dua belas anak di halaman saat fajar, memegang peta kasar Kovan. "Rute panen musuh lewat jalan raya selatan ke timur," katanya. "Kalian harus tahu arah itu, bukan untuk ke sana, tapi untuk tahu bila mata di selatan melihat buku catatan lewat."
+Brannoc mengumpulkan dua belas anak di halaman saat fajar, memegang peta kasar Kovan. "Rute panen musuh lewat jalan raya selatan ke timur," katanya. "Kalian harus tahu arah itu, bukan untuk ke sana, tetapi untuk tahu bila mata di selatan melihat buku catatan lewat."
 
 "Kalau buku lewat, kita lapor ke siapa?" tanya anak angkatan keempat.
 
-"Ke benang. Kalian ketuk tiga-satu ke ubin, dan barak tahu ada pola yang berpindah." Brannoc menatap mereka. "Tapi ingat: kalian tidak kejar kurir. Kalian hanya hitung napas di tempat sendiri. Bila napas di sini berubah karena simpul lain ditarik, itu kabar cukup."
+"Ke benang. Kalian ketuk tiga-satu ke ubin, dan barak tahu ada pola yang berpindah." Brannoc menatap mereka. "Namun ingat: kalian tidak kejar kurir. Kalian hanya hitung napas di tempat sendiri. Bila napas di sini berubah karena simpul lain ditarik, itu kabar cukup."
 
 Harn berdiri di samping, menyentuh pengait besi. "Aku dulu kira jaga berarti hadir di garis depan," katanya. "Sekarang aku tahu jaga berarti dengar dari jauh. Semakin jauh kau dengar, semakin aman kau dan desa yang kau jaga."
 
-Di sudut, Gella mengamati Sela yang mulai menghitung napas Ashvarok-Renn tiap fajar. "Kau mulai paham," katanya pelan. "Angka empat itu bukan kelemahan, tapi alarm. Bila suatu hari jadi tiga, kita tahu dua napas lagi pergi, dan kita bisa istirahat sebelum ia jatuh."
+Di sudut, Gella mengamati Sela yang mulai menghitung napas Ashvarok-Renn tiap fajar. "Kau mulai paham," katanya pelan. "Angka empat itu bukan kelemahan, tetapi alarm. Bila suatu hari jadi tiga, kita tahu dua napas lagi pergi, dan kita bisa istirahat sebelum ia jatuh."
 
 "Bagaimana bila ia menolak istirahat?"
 
-"Dia tidak akan menolak bila kau katakan bukan untuknya, tapi untuk dua belas anak yang butuh ia ajari besok." Gella menepuk bahu Sela. "the Bearer mendengar bila alasannya bukan nyawanya sendiri."
+"Dia tidak akan menolak bila kau katakan bukan untuknya, tetapi untuk dua belas anak yang butuh ia ajari besok." Gella menepuk bahu Sela. "the Bearer mendengar bila alasannya bukan nyawanya sendiri."
 
-Di sudut lain, Brannoc memperhatikan Harn menggantungkan pengait besi kedua. "Kau mulai paham bahwa alat ini bahasa," katanya. "Suatu hari nanti, saat kita tiada, anak-anak ini akan tetap berketuk tanpa kita. Itu yang disebut lembaga: bukan orang, tapi kebiasaan yang hidup sendiri."
+Di sudut lain, Brannoc memperhatikan Harn menggantungkan pengait besi kedua. "Kau mulai paham bahwa alat ini bahasa," katanya. "Suatu hari nanti, saat kita tiada, anak-anak ini akan tetap berketuk tanpa kita. Itu yang disebut lembaga: bukan orang, tetapi kebiasaan yang hidup sendiri."
 
 "Lembaga tanpa nama," ulang Harn. "Tepat seperti yang guru inginkan."
 
@@ -111,4 +111,4 @@ Ia bangkit, menyapu halaman bersama dua belas anak. Di sudut, Gella mengukur nap
 
 Di menara, Mira menutup buku catatan halaman kelima dan menulis di sisi: *Tiga simpul kini berdenyut (selatan, timur, dan bayangan the Hollow). Kita jaga dengan telinga, bukan tangan.* Perawat tua menyilang baris bawah, tiga, seperti biasa.
 
-Ashvarok-Renn membiarkan benang diam hidup tanpa namanya — tahu bahwa lima simpul buta kini satu per satu membuka mata, dan barak harus lebih lambat, lebih tenang, lebih tak terlihat dari semua pihak yang memerebutkannya.
+Ashvarok-Renn membiarkan benang diam hidup tanpa namanya — tahu bahwa lima simpul buta kini satu per satu membuka mata, dan barak harus lebih lambat, lebih tenang, lebih tak terlihat dari semua pihak yang memperebutkannya.

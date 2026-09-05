@@ -69,7 +69,7 @@ Lalu Ashvarok berkata — untuk keluarganya, bukan untuk kerajaannya:
 
 Renn mengetuk meja satu kali: setuju.
 
-Ibu Tamma mengusap mata dengan celemuknya dan berkata "aku tidak menangis, ini uap sup" — dan semua orang pura-pura percaya.
+Ibu Tamma mengusap mata dengan celemeknya dan berkata "aku tidak menangis, ini uap sup" — dan semua orang pura-pura percaya.
 
 Ossian menandatangani dokumen itu di tempat, lalu membaca ulang nama resmi mereka untuk arsip:
 
@@ -146,7 +146,7 @@ Dan malamnya, sebelum semua orang tidur, Renn meminta satu hal terakhir dari Ash
 
 Ashvarok diam.
 
-Dua kesadaran membuka mata dalam satu tubuh itu secara teori mustahil — tapi sejak hari pemulangan Vess-Morath, kata "mustahil" sudah tidak dipakai lagi di Karvess.
+Dua kesadaran membuka mata dalam satu tubuh itu secara teori mustahil — tetapi sejak hari pemulangan Vess-Morath, kata "mustahil" sudah tidak dipakai lagi di Karvess.
 
 Subuh berikutnya, mereka mencoba.
 

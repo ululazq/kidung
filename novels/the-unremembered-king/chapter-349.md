@@ -5,17 +5,17 @@ chapter: 349
 
 Tiga fajar setelah dua orang the Wane kembali, Kovan meletakkan hasil kerja semalamannya di tengah meja barak: sebuah peta baru yang ia gambar ulang dari semua angka, semua garis angin, dan semua catatan yang mereka kumpulkan. Peta itu tidak seperti peta yang pernah mereka lihat. Ia tidak menunjukkan jalan, tidak menunjukkan desa, tidak menunjukkan nama. Ia hanya menunjukkan satu garis — garis yang sama yang digambar penggambar peta — dan di sekelilingnya, lingkaran-lingkaran tipis yang semakin besar, seperti riak air di sekitar batu yang dilempar.
 
-"Pola spiral," kata Kovan. "Setiap kali angin berbalik, ia menggambar lingkaran baru di sekeliling garis ini. Bukan di ujungnya. Di sekelilingnya, sepanjang garisnya. Seperti sesuatu yang sedang mengukur garis itu dari semua sisi — bukan untuk mengetahui ke mana ia menuju, tapi untuk mengetahui seberapa dalam ia tertanam."
+"Pola spiral," kata Kovan. "Setiap kali angin berbalik, ia menggambar lingkaran baru di sekeliling garis ini. Bukan di ujungnya. Di sekelilingnya, sepanjang garisnya. Seperti sesuatu yang sedang mengukur garis itu dari semua sisi — bukan untuk mengetahui ke mana ia menuju, tetapi untuk mengetahui seberapa dalam ia tertanam."
 
 "Seberapa dalam ia tertanam," ulang Ashvarok-Renn. "Bukan ke mana ia menuju. Seseorang di utara tidak sedang mencari ujung garis. Ia sedang mencari akarnya."
 
 "Kalau begitu," kata the Keeper, "ia tidak peduli tiga batu tegak itu. Ia peduli apa yang ada di bawahnya."
 
-"Dan kita baru saja menggali apa yang ada di bawahnya." Yang muda menatap sketsa logam bundar yang tergantung di dinding. "Kita menemukan logam itu, menggambar ulang, dan menimbunnya kembali. Tapi kita tidak tahu apakah menimbunnya kembali menghentikan apa pun."
+"Dan kita baru saja menggali apa yang ada di bawahnya." Yang muda menatap sketsa logam bundar yang tergantung di dinding. "Kita menemukan logam itu, menggambar ulang, dan menimbunnya kembali. Namun kita tidak tahu apakah menimbunnya kembali menghentikan apa pun."
 
 "Satu-satunya cara untuk tahu," kata Ossian dari ambang pintu, "adalah kembali dan melihat apakah garis itu masih bernapas."
 
-Semua orang menoleh. Ossian berdiri di pintu, membawa kain tenun dari utara yang baru saja ia terima. "Ini dari the Northern Listener," katanya. "Mereka melihat sesuatu tiga fajar lalu: sebuah kafilah kecil, lima orang, berjalan ke utara melewati danau garam. Mereka tidak memasang cap tujuh garis, dan mereka tidak membawa batu. Tapi mereka berjalan dengan tujuan — lurus, tanpa berhenti, seperti orang yang tahu persis ke mana mereka pergi."
+Semua orang menoleh. Ossian berdiri di pintu, membawa kain tenun dari utara yang baru saja ia terima. "Ini dari the Northern Listener," katanya. "Mereka melihat sesuatu tiga fajar lalu: sebuah kafilah kecil, lima orang, berjalan ke utara melewati danau garam. Mereka tidak memasang cap tujuh garis, dan mereka tidak membawa batu. Namun mereka berjalan dengan tujuan — lurus, tanpa berhenti, seperti orang yang tahu persis ke mana mereka pergi."
 
 "Ke arah tiga batu tegak?" tanya Sela.
 
@@ -25,7 +25,7 @@ Meja barak hening. Ashvarok-Renn menatap peta spiral itu, lalu sketsa logam bund
 
 "Siapa mereka?" tanya the Seeker.
 
-"Kalau mereka tidak memasang cap tujuh garis," kata the Keeper, "maka mereka bukan the Wanes. Kalau mereka tidak membawa batu, maka mereka bukan the Wanes yang kita kenal. Tapi mereka tahu ke mana harus pergi — yang berarti seseorang memberi mereka peta yang sama, atau mereka menemukannya sendiri."
+"Kalau mereka tidak memasang cap tujuh garis," kata the Keeper, "maka mereka bukan the Wanes. Kalau mereka tidak membawa batu, maka mereka bukan the Wanes yang kita kenal. Namun mereka tahu ke mana harus pergi — yang berarti seseorang memberi mereka peta yang sama, atau mereka menemukannya sendiri."
 
 "Atau," kata Mira, "seseorang di Spire memberi mereka peta itu. Ruang arsip menyimpan surat-surat penggambar peta selama delapan belas tahun. Mungkin mereka bukan satu-satunya yang menyimpan salinan."
 
@@ -45,7 +45,7 @@ Ashvarok-Renn menatap keduanya. "Dua orang dari barak, dua orang yang baru kemar
 
 Malam itu, mereka menyiapkan dua perbekalan: satu untuk Ossian, satu untuk the Keeper dan the Seeker. Kovan memberi mereka salinan peta spiral yang lebih kecil, dan Sela memberi mereka catatan irama tiga-satu-diam. Sebelum berangkat, Ashvarok-Renn memanggil Ossian ke samping.
 
-"Ada satu hal yang harus kau tahu," katanya. "Logam bundar dengan tiga lubang itu — aku pernah melihat bentuknya sekali, seribu tahun silam. Aku tidak tahu apa fungsinya. Tapi aku tahu satu hal: benda seperti itu tidak pernah dibuat untuk dibuka dari luar. Ia dibuat untuk dibuka dari dalam."
+"Ada satu hal yang harus kau tahu," katanya. "Logam bundar dengan tiga lubang itu — aku pernah melihat bentuknya sekali, seribu tahun silam. Aku tidak tahu apa fungsinya. Namun aku tahu satu hal: benda seperti itu tidak pernah dibuat untuk dibuka dari luar. Ia dibuat untuk dibuka dari dalam."
 
 "Berarti ada sesuatu di bawah tiga batu tegak itu," kata Ossian, "yang punya kunci di sisi dalamnya. Dan kafilah dari Spire itu mungkin membawa kunci itu — atau mencari kunci itu."
 
@@ -71,7 +71,7 @@ Sela menatap peta itu. "Kalau begitu, kita harus tahu siapa yang mengirim mereka
 
 "Ruang arsip," kata Mira. "Aku akan menulis surat kepada Thessa. Ia bisa membaca koridor Spire lebih baik daripada siapa pun — dan ia tahu cara bertanya tanpa membuat orang curiga."
 
-"Tapi hati-hati," kata Sela. "Kalau kafilah itu dari Spire, maka seseorang di Spire sudah tahu tentang tiga batu tegak. Dan kalau mereka tahu, maka suratmu bisa dibaca sebelum Thessa menerimanya."
+"Namun hati-hati," kata Sela. "Kalau kafilah itu dari Spire, maka seseorang di Spire sudah tahu tentang tiga batu tegak. Dan kalau mereka tahu, maka suratmu bisa dibaca sebelum Thessa menerimanya."
 
 "Karena itu aku tidak akan menulis tentang tiga batu tegak." Mira mengambil kain tenun dari sakunya. "Aku akan menulis dengan bahasa yang hanya Thessa dan aku yang mengerti: bahasa angin. Kalau ada yang membaca suratku, mereka hanya akan melihat laporan cuaca."
 
@@ -83,6 +83,6 @@ Di barak, Ashvarok-Renn membaca salinan surat itu dan mengangguk. "Bahasa angin,
 
 "Kalau angin Spire ikut berbalik," kata Ashvarok-Renn, "maka lima orang itu bagian dari sesuatu yang lebih besar dari Spire — dan kita baru saja mengetuk pintu yang tidak pernah kita lihat sebelumnya."
 
-Di luar, angin bertiup dari utara, dan untuk sesaat, irama tiga ketuk itu terdengar di antara pepohonan — bukan sebagai jawaban, tapi sebagai pengingat bahwa pintu di utara itu masih terbuka, dan bahwa siapa pun yang mengetuknya lebih dulu akan menentukan apa yang akan keluar darinya.
+Di luar, angin bertiup dari utara, dan untuk sesaat, irama tiga ketuk itu terdengar di antara pepohonan — bukan sebagai jawaban, tetapi sebagai pengingat bahwa pintu di utara itu masih terbuka, dan bahwa siapa pun yang mengetuknya lebih dulu akan menentukan apa yang akan keluar darinya.
 
-Di jalan ke utara, Ossian berhenti di puncak bukit pertama dan menoleh ke belakang, ke arah barak yang semakin kecil di kejauhan. Ia merasakan kain tenun tua di dalam jaketnya — kain yang diberikan Ashvarok-Renn, yang konon dijaga sebelum barak ada — dan untuk pertama kalinya ia menyadari bahwa ia membawa sesuatu yang lebih tua daripada semua yang ia kenal. Ia tidak tahu apa yang akan ia temukan di tiga batu tegak. Tapi ia tahu bahwa ia membawa dua kain tenun di dadanya: satu dari ibunya, satu dari raja yang membakar namanya — dan bahwa keduanya, entah bagaimana, berbicara dalam bahasa yang sama.
+Di jalan ke utara, Ossian berhenti di puncak bukit pertama dan menoleh ke belakang, ke arah barak yang semakin kecil di kejauhan. Ia merasakan kain tenun tua di dalam jaketnya — kain yang diberikan Ashvarok-Renn, yang konon dijaga sebelum barak ada — dan untuk pertama kalinya ia menyadari bahwa ia membawa sesuatu yang lebih tua daripada semua yang ia kenal. Ia tidak tahu apa yang akan ia temukan di tiga batu tegak. Namun ia tahu bahwa ia membawa dua kain tenun di dadanya: satu dari ibunya, satu dari raja yang membakar namanya — dan bahwa keduanya, entah bagaimana, berbicara dalam bahasa yang sama.

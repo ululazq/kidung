@@ -103,7 +103,7 @@ Malam itu, Ashvarok-Renn menulis di buku anomali halaman tujuh, hurufnya kecil, 
 
 *Aturan penjaga: satu hentakan, giliran, anak mencatat. Alasan: menjaga penjaga. Jaringan diam bukan dinding. Jaringan diam adalah napas bersama. Dan napas yang dipaksa bukan napas — ia hanya menahan yang akan putus lebih cepat.*
 
-Di sudut ruangan, Yang Dulu Sunyi mencatat pelan: 3. Lalu jeda satu hentakan yang ditahan bersama — bukan karena diperintah, melainkan karena sapu berhenti, lalu lanjut. Di luar, angin Karvess malam membawa debu halus dari lorong tambang, menempel di papan arsip, menandut bahwa aturan yang baru ditempel bukan teori — ia sapu yang nyata, bisa disentuh tangan.
+Di sudut ruangan, Yang Dulu Sunyi mencatat pelan: 3. Lalu jeda satu hentakan yang ditahan bersama — bukan karena diperintah, melainkan karena sapu berhenti, lalu lanjut. Di luar, angin Karvess malam membawa debu halus dari lorong tambang, menempel di papan arsip, menandakan bahwa aturan yang baru ditempel bukan teori — ia sapu yang nyata, bisa disentuh tangan.
 
 Retakan di bawah tidak menjawab. Ia hanya berdenyut, tiga hentakan lalu jeda, sama dengan denyut purba yang kini milik seluruh Karvess. Di dua ujung benang, sapu berhenti satu hentakan, lalu lanjut, lalu berhenti lagi — ritme baru yang tidak melelahkan, tetapi tetap menahan agar benang tidak putus di ujung mana pun.
 

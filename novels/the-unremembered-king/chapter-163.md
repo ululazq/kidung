@@ -5,19 +5,19 @@ chapter: 163
 
 Teknisi Choir bernama panjang dan tidak pernah salah formulir, dan itulah kenapa Ossian Vael merasakan dingin yang tidak wajar ketika nama itu muncul di jadwal audit gudang pekan ini.
 
-"Formulir pemusnahan artefak nomor sekian," kata teknisi itu di gudang Koordinasi, membaca lembar demi lembar dengan cara orang yang memeriksa bukan isi tapi kebiasaan. "Tanda tangan Bureau Chief sendiri. Jarang. Pemusnahan biasanya cukup paraf pengawas gudang." Ia menoleh, wajah datar milik orang yang dilatih sekte untuk tidak menunjukkan apa pun. "Dan barang yang dimusnahkan masuk kategori non-katalog. Biasanya barang non-katalog justru diarsipkan lebih lama, karena tidak ada katalognya, tidak ada yang bisa dibandingkan."
+"Formulir pemusnahan artefak nomor sekian," kata teknisi itu di gudang Koordinasi, membaca lembar demi lembar dengan cara orang yang memeriksa bukan isi tetapi kebiasaan. "Tanda tangan Bureau Chief sendiri. Jarang. Pemusnahan biasanya cukup paraf pengawas gudang." Ia menoleh, wajah datar milik orang yang dilatih sekte untuk tidak menunjukkan apa pun. "Dan barang yang dimusnahkan masuk kategori non-katalog. Biasanya barang non-katalog justru diarsipkan lebih lama, karena tidak ada katalognya, tidak ada yang bisa dibandingkan."
 
 "Ada inspeksi jabatan tertinggi bulan ini," kata Ossian, dan suaranya keluar sempurna, efisien, bosan sedikit, seperti semua kalimatnya selama dua tahun. "Gudang dikosongkan dari barang tak terverifikasi. Kebijakan baru pasca-kunjungan."
 
-"Tentu, Tuan." Teknisi itu menutup formulirnya. Lalu, pada ambang pintu, tanpa menoleh: "Saya hanya mencatat bahwa saya pernah menyentuh batang itu sebelum pemusnahan. Gema di dalamnya... tidak terasa seperti residu. Terasa seperti pertanyaan yang belum selesai diajukan." Jeda yang diukur sempurna. "Tapi saya teknisi. Pertanyaan bukan bidang saya."
+"Tentu, Tuan." Teknisi itu menutup formulirnya. Lalu, pada ambang pintu, tanpa menoleh: "Saya hanya mencatat bahwa saya pernah menyentuh batang itu sebelum pemusnahan. Gema di dalamnya... tidak terasa seperti residu. Terasa seperti pertanyaan yang belum selesai diajukan." Jeda yang diukur sempurna. "Namun saya teknisi. Pertanyaan bukan bidang saya."
 
-Ia pergi. Ossian berdiri di tengah gudangnya yang resmi bersih, dan menghitung, dengan ketenangan orang yang sudah lama hidup di atas jurang: teknisi itu tahu. Tidak tahu semuanya, tapi tahu cukup untuk menjadi alat bagi siapa pun yang bertanya dengan benar. Dan di Anthema Spire, ada satu jabatan yang bertanya dengan paling benar.
+Ia pergi. Ossian berdiri di tengah gudangnya yang resmi bersih, dan menghitung, dengan ketenangan orang yang sudah lama hidup di atas jurang: teknisi itu tahu. Tidak tahu semuanya, tetapi tahu cukup untuk menjadi alat bagi siapa pun yang bertanya dengan benar. Dan di Anthema Spire, ada satu jabatan yang bertanya dengan paling benar.
 
 ---
 
 Amplop itu ditemukan pembantunya sore harinya, diletakkan di atas bantal kursi ruang tamu — di dalam kamarnya sendiri, di lantai penginapan distrik tengah yang dijaga dua Shift Guard bergilir, yang lapor tidak melihat siapa pun masuk atau keluar.
 
-Kertas teksur arsip, tanpa kop, tanpa nama. Satu kalimat di sampulnya, tulisan tangan tua yang tenang:
+Kertas tekstur arsip, tanpa kop, tanpa nama. Satu kalimat di sampulnya, tulisan tangan tua yang tenang:
 
 Dibuka saat kau butuh. Bukan saat kau penasaran.
 
@@ -29,7 +29,7 @@ Yang membuat malam ketiga sulit bukan amplopnya. Yang membuat malam ketiga sulit
 
 Divisi arsip. Divisi yang jalurnya naik ke satu meja.
 
-Ossian meletakkan dua kertas itu berdampingan — surat rotasi, amplop tertutup — dan memahami bahwa ia sedang diperiksa dengan instrumen yang tidak bisa ia blokir: bukan dengan pertanyaan, tapi dengan penempatan orang. Jabatan itu memindahkan mata ke dekat dirinya dan menunggu untuk melihat apa yang akan ia lakukan. Membunuh mutasi = mengakui pentingnya teknisi. Membiarkan = hidup berdampingan dengan saksi yang setengah tahu. Membuka amplop = mengaku butuh.
+Ossian meletakkan dua kertas itu berdampingan — surat rotasi, amplop tertutup — dan memahami bahwa ia sedang diperiksa dengan instrumen yang tidak bisa ia blokir: bukan dengan pertanyaan, tetapi dengan penempatan orang. Jabatan itu memindahkan mata ke dekat dirinya dan menunggu untuk melihat apa yang akan ia lakukan. Membunuh mutasi = mengakui pentingnya teknisi. Membiarkan = hidup berdampingan dengan saksi yang setengah tahu. Membuka amplop = mengaku butuh.
 
 "Aku mulai paham gaya kamu," katanya kepada ruangan kosong, kepada jabatan yang mungkin sedang membacanya dari jarak sembilan hari kafilah. "Kau tidak menjebak orang. Kau menaruh cermin."
 
@@ -61,19 +61,19 @@ Bekas Kel Tharrow tinggal sekarang di rumah dua kamar distrik tengah dengan jend
 
 "Tuan Vael," kata Tharrow, menggeser kursi dengan kakinya. "Kopi atau kabar?"
 
-"Kabar." Ossian duduk, dan untuk beberapa saat hanya memandang sarung tangan tipis yang masih dipakai bekas pengawas itu — bukan lagi karena bersih, ia sadar sekarang, tapi karena tangan di bawahnya sudah terbiasa dingin. "Aku akan bertanya sesuatu yang tidak ada hubungannya dengan pekerjaan lama kita. Waktu kamu menjatuhkan dirimu sendiri — waktu kamu memilih Guild daripada aku — bagaimana rasanya hari pertama setelahnya?"
+"Kabar." Ossian duduk, dan untuk beberapa saat hanya memandang sarung tangan tipis yang masih dipakai bekas pengawas itu — bukan lagi karena bersih, ia sadar sekarang, tetapi karena tangan di bawahnya sudah terbiasa dingin. "Aku akan bertanya sesuatu yang tidak ada hubungannya dengan pekerjaan lama kita. Waktu kamu menjatuhkan dirimu sendiri — waktu kamu memilih Guild daripada aku — bagaimana rasanya hari pertama setelahnya?"
 
-Tharrow memandanginya lama, dan kemudian menjawab tanpa berpura-pura, karena dua orang yang sama-sama pernah menjadi alat tidak punya gunung lagi untuk saling ditanam: "Seperti kelaparan yang hilang. Aku pikir aku akan panik tanpa jadwal. Ternyata yang panik bukan aku, tapi mesinnya — dia berteriak mencariku seminggu penuh. Setelah itu... sunyi. Sunyi yang enak." Ia menuang kopi. "Kenapa pertanyaan itu, Tuan?"
+Tharrow memandanginya lama, dan kemudian menjawab tanpa berpura-pura, karena dua orang yang sama-sama pernah menjadi alat tidak punya gunung lagi untuk saling ditanam: "Seperti kelaparan yang hilang. Aku pikir aku akan panik tanpa jadwal. Ternyata yang panik bukan aku, tetapi mesinnya — dia berteriak mencariku seminggu penuh. Setelah itu... sunyi. Sunyi yang enak." Ia menuang kopi. "Kenapa pertanyaan itu, Tuan?"
 
-"Belum ada jawabannya," kata Ossian jujur. "Tapi aku sedang menyimpan sebuah amplop yang isinya mungkin kalimat macam itu."
+"Belum ada jawabannya," kata Ossian jujur. "Namun aku sedang menyimpan sebuah amplop yang isinya mungkin kalimat macam itu."
 
-"Kalau begitu simpan baik-baik." Tharrow menatap ke arah halaman sekolah, ke arah anak-anak yang menyebut nama satu sama lain. "Yang paling sulit dari meninggalkan mesin bukan mesinnya. Tapi sadar bahwa kamu lebih tenang setelah ditinggalkannya. Itu penemuan yang tidak bisa dibalikkan."
+"Kalau begitu simpan baik-baik." Tharrow menatap ke arah halaman sekolah, ke arah anak-anak yang menyebut nama satu sama lain. "Yang paling sulit dari meninggalkan mesin bukan mesinnya. Namun sadar bahwa kamu lebih tenang setelah ditinggalkannya. Itu penemuan yang tidak bisa dibalikkan."
 
 Ossian pulang melewati lorong barak distrik timur tanpa alasan, dan mendengar name train anak-anak menyebut nama lengkap satu sama lain, dan berhenti sebentar di tepi cahaya lilin, dan untuk pertama kali memikirkan kalimat itu sampai selesai: bahwa mungkin ada bentuk kehidupan setelah jabatan, dan bahwa amplop di laci berkuncinya mungkin bukan jebakan, melainkan pintu yang ditunggu dibuka.
 
 Di kamarnya, sebelum tidur, ia mengeluarkan amplop itu, memutarnya sekali di antara dua jari — membaca sampulnya untuk kesekian kali: dibuka saat kau butuh, bukan saat kau penasaran — lalu meletakkannya kembali dan mengunci laci.
 
-Tapi malam itu, untuk pertama kalinya, ia mengetahui perbedaan antara kedua kata itu. Penasaran adalah tentang isi. Butuh adalah tentang diri. Dan jabatannya yang terlatih membaca dokumen menemukan apa yang selama ini luput: wanita tua itu tidak menulis "jangan dibuka". Ia menulis "kau akan tahu sendiri momennya". Itu bukan larangan seorang musuh yang menyimpan tuas. Itu penilaian seorang pembaca tentang kapan halaman berikutnya akan berguna — dan Pembaca Tua tidak pernah salah menaksir halaman.
+Namun malam itu, untuk pertama kalinya, ia mengetahui perbedaan antara kedua kata itu. Penasaran adalah tentang isi. Butuh adalah tentang diri. Dan jabatannya yang terlatih membaca dokumen menemukan apa yang selama ini luput: wanita tua itu tidak menulis "jangan dibuka". Ia menulis "kau akan tahu sendiri momennya". Itu bukan larangan seorang musuh yang menyimpan tuas. Itu penilaian seorang pembaca tentang kapan halaman berikutnya akan berguna — dan Pembaca Tua tidak pernah salah menaksir halaman.
 
 Satu pertanyaan terakhir yang ia ajukan kepada langit-langit kamarnya sebelum tidur, dan yang tidak dijawab siapa pun: kalau wanita itu bisa masuk ke kamar berpengawalnya untuk meninggalkan amplop, seberapa jauh sebenarnya jalannya sampai ke meja gudang perkakas tingkat dua — dan kenapa, dari semua pintu yang bisa dimasukinya, jabatan itu memilih mengetuk pintunya sendiri?
 

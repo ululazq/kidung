@@ -11,7 +11,7 @@ Pelajaran pertama berlangsung seminggu. Ashvarok — raja seribu tahun, pemegang
 
 Pekan pertama: tidak mendengar apa-apa. Pekan kedua: bunyi-bunyi tambang biasa. Pekan ketiga: sesuatu bergeser — dan Ashvarok mengalami hal yang membuatnya menulis di Hourglass dengan huruf besar:
 
-HARI 389. ADA BUNYI DI NAT BARAT YANG SELAMA INI TIDAK PERNAH KUBACA DENGAN WALKING KEY. Bukan karena Walking Key lemah — tapi karena ia membaca LEBIH DALAM dari permukaan dan melewatkan lapisan dangkal tempat hal-hal kecil hidup. Nat ini penuh suara kecil: air tetesan jauh, getar akar, dan... irama tenang tamu kita yang rutin menunggu di sini tiap malam. Semua ini ada di permukaan. Seribu tahun aku membaca dunia terlalu dalam dan melewatkan permukaannya.
+HARI 389. ADA BUNYI DI NAT BARAT YANG SELAMA INI TIDAK PERNAH KUBACA DENGAN WALKING KEY. Bukan karena Walking Key lemah — tetapi karena ia membaca LEBIH DALAM dari permukaan dan melewatkan lapisan dangkal tempat hal-hal kecil hidup. Nat ini penuh suara kecil: air tetesan jauh, getar akar, dan... irama tenang tamu kita yang rutin menunggu di sini tiap malam. Semua ini ada di permukaan. Seribu tahun aku membaca dunia terlalu dalam dan melewatkan permukaannya.
 
 Pelajaran Barim digabungkan dengan teknik Sareth — telapak ordo untuk kedalaman perasaan, Walking Key untuk struktur — dan hasilnya adalah seni baru yang belum bernama: cara membaca yang menggabungkan kedalaman Hegemony dan kesabaran pra-Requiem.
 
@@ -27,9 +27,9 @@ Tamu tua itu sedang belajar lagu keluarga barunya.
 
 Telinga Dua diuji pertama kalinya seminggu kemudian, pada keadaan darurat kecil yang membuktikan nilainya.
 
-Sebuah regu baru tersesat di galeri sebelas — bukan karena gelap, tapi karena nat tua bergeser setelah hujan abu dan jalur hafalan mereka tidak valid lagi. Kabar sampai ke permukaan setengah jam kemudian, panik, tanpa lokasi pasti.
+Sebuah regu baru tersesat di galeri sebelas — bukan karena gelap, tetapi karena nat tua bergeser setelah hujan abu dan jalur hafalan mereka tidak valid lagi. Kabar sampai ke permukaan setengah jam kemudian, panik, tanpa lokasi pasti.
 
-Ashvarok turun dengan Telinga Dua — tanpa Walking Key, tanpa harga — dan menemukan mereka dalam dua puluh menit: bukan lewat retakan, tapi lewat suara ketukan regu yang memantul di nat-nat tua yang kini ia kenal seperti wajah tetangga. Ia mengantar mereka keluar, memeriksa jalur baru untuk peta umum (dibaca dengan Forge tipis murid akademi yang ikut — latihan langsung), dan pulang sebelum malam.
+Ashvarok turun dengan Telinga Dua — tanpa Walking Key, tanpa harga — dan menemukan mereka dalam dua puluh menit: bukan lewat retakan, tetapi lewat suara ketukan regu yang memantul di nat-nat tua yang kini ia kenal seperti wajah tetangga. Ia mengantar mereka keluar, memeriksa jalur baru untuk peta umum (dibaca dengan Forge tipis murid akademi yang ikut — latihan langsung), dan pulang sebelum malam.
 
 Neraca: nol. Tidak ada Remainder terbakar. Tidak ada scar baru. Dingin tidak datang.
 
@@ -62,12 +62,12 @@ Telinga Dua mulai diajarkan — dan pelajaran pertamanya kepada murid tingkat du
 
 Uji lapangan kedua Telinga Dua terjadi tanpa dijadwalkan, tiga hari kemudian: retakan mikro muncul di nat kanal selatan — kecil, tidak berbahaya, jenis yang biasanya butuh satu pekan sebelum terdeteksi patroli biasa. Kali ini terdeteksi dalam sepuluh menit oleh dua murid tingkat dua yang sedang berlatih, dan tambalan Forge dilakukan hari yang sama oleh Ashvarok dengan harga yang bisa ditulis dalam satu baris neraca.
 
-Neraca itu — "satu jam lelah, nol potongan" — dibacakan ibu Tamma di dapur dan disambut dengan cara yang paling Caldrest: semua orang melanjutkan makan, tapi tepuk tangan tiga detik. Tidak lebih. Di kota itu, tiga detik tepuk tangan sambil makan adalah penghormatan tertinggi.
+Neraca itu — "satu jam lelah, nol potongan" — dibacakan ibu Tamma di dapur dan disambut dengan cara yang paling Caldrest: semua orang melanjutkan makan, tetapi tepuk tangan tiga detik. Tidak lebih. Di kota itu, tiga detik tepuk tangan sambil makan adalah penghormatan tertinggi.
 
 ---
 
 Pekan berikutnya, dokter tambang kembali dengan buku medisnya untuk pengukuran bulanan — dan kali ini membawa sesuatu yang tidak pernah ia bawa sebelumnya: SEBUAH GRAFIK. Digambar tangan, empat belas bulan data, dari vein-scar kanan Ashvarok dari hari pertama diukur sampai hari ini.
-"Lihat garisnya," katanya, menunjuk kurva yang naik curam dua tahun, melandai, lalu — sejak Telinga Dua — mendatar, bahkan menurun tipis di dua titik ukur terakhir. "Aku bukan seniman, jadi aku gambar apa adanya. Tapi kalau kamu tanya aku sebagai dokter..." Ia menutup grafik itu. "Ini bukan lagi kurva orang yang sedang menghabiskan dirinya. Ini kurva orang yang belajar hidup seimbang. Delapan belas bulan aku mencatat kemunduranmu. Izinkan aku mulai mencatat pemulihanmu."
+"Lihat garisnya," katanya, menunjuk kurva yang naik curam dua tahun, melandai, lalu — sejak Telinga Dua — mendatar, bahkan menurun tipis di dua titik ukur terakhir. "Aku bukan seniman, jadi aku gambar apa adanya. Namun kalau kamu tanya aku sebagai dokter..." Ia menutup grafik itu. "Ini bukan lagi kurva orang yang sedang menghabiskan dirinya. Ini kurva orang yang belajar hidup seimbang. Delapan belas bulan aku mencatat kemunduranmu. Izinkan aku mulai mencatat pemulihanmu."
 
 ---
 
@@ -92,7 +92,7 @@ Sisa pekan diisi latihan Listen tingkat lanjut yang pertama: membaca nat-nat lin
 Dan penutup bab — peristiwa kecil yang terjadi tanpa saksi selain satu orang: pada malam hujan pertama musim itu, nat atap reruntuhan timur yang misterius itu aktif sendiri, dan iramanya bukan sapuan kedalaman, melainkan sesuatu yang lain: bunyi tetesan air yang tersusun berirama. Alam meniru kedalaman yang meniru alam.
 
 Hanya Sela yang mendengarnya dari jendela barak malam itu. Tak seorang pun ia bangunkan. Ia hanya menulis di halaman pribadinya:
-"Catatan pribadi: malam ini hujan dan ada nat yang menyanyi pakai air hujan. Aku tidak akan lapor ini ke mana-mana karena belum paham. Tapi aku mau catat satu tebakan: mungkin dia tidak hanya menyimpan yang kita titipkan. Mungkin dia juga senang-senang sendiri kadang-kadang. Dan menurutku itu bagus. Rumah yang baik punya saat-saat di mana penghuninya tidak butuh dia, dan dia tetap bernyanyi."
+"Catatan pribadi: malam ini hujan dan ada nat yang menyanyi pakai air hujan. Aku tidak akan lapor ini ke mana-mana karena belum paham. Namun aku mau catat satu tebakan: mungkin dia tidak hanya menyimpan yang kita titipkan. Mungkin dia juga senang-senang sendiri kadang-kadang. Dan menurutku itu bagus. Rumah yang baik punya saat-saat di mana penghuninya tidak butuh dia, dan dia tetap bernyanyi."
 
 Murid-murid mulai menebak-nebak angka catatan teh seperti ramalan musim. "Pekan ini turun," bisik Harn, "pasti banyak yang pulang cepat ke rumah." Tebakan murid pun sekarang jadi bagian tradisi dapur — dan anehnya hampir selalu meleset dengan cara yang tepat.
 

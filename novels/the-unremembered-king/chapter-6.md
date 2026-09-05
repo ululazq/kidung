@@ -3,17 +3,17 @@ title: "Bab 6: Harga Satu Nyala"
 chapter: 6
 ---
 
-Tungku ventilasi the Underfold butuh dua penjaga tiap malam: satu mengisi, satu memantau tekanan. Malam itu penjaga keduanya sakit gigi, dan nama penggantinya yang paling murah di daftar barak adalah Renn — furnace boy yang kembali ke tungkunya sendiri, kata Brannoc yang menandatangani surat gantian itu dengan ekspresi orang yang tidak percaya keberuntungan sekecil ini pernah ada.
+Tungku ventilasi the Underfold butuh dua penjaga tiap malam — satu mengisi, satu memantau tekanan. Malam itu penjaga keduanya sakit gigi, dan nama penggantinya yang paling murah di daftar barak adalah Renn, furnace boy yang kembali ke tungkunya sendiri, kata Brannoc yang menandatangani surat gantian itu dengan ekspresi orang yang tidak percaya keberuntungan sekecil ini pernah ada.
 
-Ruang tungku berada di tingkat kelima, setengah terbuka ke lorong ventilasi: tiga tungku bata bertingkat, pipa-pipa tanah melihat yang menjalar seperti urat ke gelap, dan panas yang bukan panas api biasa. Panas di sini adalah panas bekas — sisa pembakaran seam tua yang dialirkan naik untuk menggerakkan angin tambang. Panas yang sudah dibayar orang lain.
+Ruang tungku berada di tingkat kelima, setengah terbuka ke lorong ventilasi — tiga tungku bata bertingkat, pipa-pipa tanah lihat yang menjalar seperti urat ke dalam gelap, dan panas yang bukan panas api biasa. Panas di sini adalah panas bekas, sisa pembakaran seam tua yang dialirkan naik untuk menggerakkan angin tambang. Panas yang sudah dibayar orang lain. Ashvarok hampir bisa mendengar uangnya berdesir di antara bata itu, setiap kali udara hangat melewatinya.
 
-Ashvarok membaca tungku itu sepuluh menit sebelum menyentuhnya, karena pola yang ia bawa dalam kepala sudah seribu tahun tidak dipakai dan tubuh yang membawanya baru lima belas musim.
+Ashvarok membaca tungku itu sepuluh menit sebelum menyentuhnya, karena pola yang ia bawa dalam kepala sudah seribu tahun tidak dipakai, dan tubuh yang membawanya baru lima belas musim. Ia berdiri di depan bata itu seperti orang yang sedang berjabat tangan dengan kenangan — hormat, dan agak takut.
 
-Cinder, untaian pertama Emberweave. Ofensif: panas, ledakan, pedang api. Dulu ia menyalakannya dari udara yang dibakar, dari batu yang dipanggang, dari lemak prajurit yang menyerahkan diri untuk ditempa jadi senjata. Polanya masih utuh dalam ingatannya, rapi seperti huruf pada batu nisan: sembilan simpul, dua belas jalur, satu pintu buang.
+Cinder. Untaian pertama Emberweave. Ofensif: panas, ledakan, pedang api. Dahulu ia menyalakannya dari udara yang dibakar, dari batu yang dipanggang, dari lemak prajurit yang menyerahkan diri untuk ditempa menjadi senjata. Polanya masih utuh dalam ingatannya, rapi seperti huruf pada batu nisan — sembilan simpul, dua belas jalur, satu pintu buang.
 
 Yang tidak utuh adalah bahan bakunya. Tubuh Renn adalah tungku kosong dengan sedikit arang di dasarnya.
 
-"Maka kita mulai dari yang paling murah," katanya pada tungku, karena berbicara dengan barang membuat jam bekerja terasa lebih pendek — kebiasaan lama yang anehnya tetap masuk akal. "Panasmu. Yang sudah dibayar. Aku hanya pinjam bentuknya."
+"Maka kita mulai dari yang paling murah," katanya pada tungku, karena berbicara dengan barang membuat jam kerja terasa lebih pendek — kebiasaan lama yang anehnya tetap masuk akal. "Panasmu. Yang sudah dibayar. Aku hanya pinjam bentuknya."
 
 Ia meletakkan telapak kanan di atas celah bata tempat panas mengalir keluar, dan mulai merajut.
 
@@ -23,17 +23,17 @@ Ashvarok mundur satu langkah, mengibaskan tangan, dan memeriksa kulitnya di caha
 
 "Tubuh bodoh," katanya. "Kau yang belum diajar."
 
-Masalahnya bukan tubuh, dan ia tahu. Masalahnya adalah hukum harga. Cinder tidak menciptakan panas. Cinder memindahkan panas dan menandatanganinya dengan bentuk. Panas tungku ini boleh dipinjam. Tetapi pola itu butuh wadah yang membakar sesuatu miliknya sendiri sebagai sumbu — dulu kehormatan para panglima, kini apa yang tersedia.
+Masalahnya bukan tubuh, dan ia tahu. Masalahnya adalah hukum harga. Cinder tidak menciptakan panas. Cinder memindahkan panas dan menandatanganinya dengan bentuk. Panas tungku ini boleh dipinjam. Tetapi pola itu butuh wadah yang membakar sesuatu miliknya sendiri sebagai sumbu — dahulu kehormatan para panglima, kini apa yang tersedia.
 
 Yang tersedia adalah tubuh lima belas tahun dengan cadangan lemak tipis seperti emas warisan.
 
-Ia menimbang pilihan itu selama waktu yang dibutuhkan bara untuk turun satu warna. Lalu ia kembali ke celah bata, meletakkan telapak tangannya, dan kali ini membuka pintu buang lebih awal, menyempitkan jalur masuk sampai selebar jarum, dan menawarkan tubuhnya sebagai sumbu untuk nyala sebesar korek api.
+Ia menimbang pilihan itu selama waktu yang dibutuhkan bara untuk turun satu warna. Lalu ia kembali ke celah bata, meletakkan telapak tangannya, dan kali ini membuka pintu buang lebih awal, menyempitkan jalur masuk sampai selebar jarum — dan menawarkan tubuhnya sebagai sumbu untuk nyala sebesar korek api.
 
 Jalur-jalur menyala satu per satu. Sembilan simpul terkunci. Pintu buang terbuka.
 
 Di ujung jari tengahnya, di atas udara dingin lorong ventilasi, muncul butiran api sebesar kacang hijau — tenang, tegak, patuh, tidak bergoyang meski angin tambang lewat. Api yang tidak datang dari kayu, tidak datang dari minyak, tidak datang dari seam mana pun. Api yang hanya bisa dibuat oleh satu seni yang sudah mati bersama sejarahnya.
 
-Ashvarok menatapnya lama. Seribu tahun, lebih tepatnya.
+Ashvarok menatapnya lama. Seribu tahun, lebih tepatnya. Dan untuk sebentar, di sela gemuruh mesin, ada rasanya sesuatu yang hilang itu kembali duduk di sisi lamanya.
 
 Lalu harganya datang menagih, dan datangnya bukan lewat tangan. Dingin menyala di dalam tulang punggung, menjalar naik seperti air surut terbalik. Lapar menyerang dari arah perut sampai pandangan tepinya berkabut. Dan tubuh ini — yang tadi sore makan dua porsi bubur dan tetap lapar — mulai gemetar dengan cara yang bukan takut. Lemak. Sumbu itu membakar lemaknya sendiri, cepat sekali, boros sekali, seperti semua hal yang dilakukan tubuh muda tanpa pengalaman.
 
@@ -41,11 +41,11 @@ Ia menutup pola itu dengan paksa. Butiran api padam tanpa suara, meninggalkan ba
 
 Satu nyala sebesar kacang hijau, tahan waktu satu tarikan napas. Harganya kurang lebih satu hari penuh makanan bocah tambang, ditambah sisa tenaga besok pagi.
 
-"Neraca yang buruk," kata Ashvarok pada tungku, dan duduk di lantai sebelum lututnya memutuskan sendiri. "Tapi neraca yang bisa dihitung."
+"Neraca yang buruk," kata Ashvarok pada tungku, dan duduk di lantai sebelum lututnya memutuskan sendiri. "Namun neraca yang bisa dihitung."
 
-Dia belum selesai menghitung ketika langkah datang dari lorong utama — dua pasang, cepat, terlalu cepat untuk jam gantian.
+Ia belum selesai menghitung ketika langkah datang dari lorong utama — dua pasang, cepat, terlalu cepat untuk jam gantian.
 
-Ashvarok bangkit dengan cara yang paling tidak mencurigakan. Berjalan miring ke panel tekanan, memegang tuas pengatur seperti orang yang sedang sibuk, dan membiarkan gemetarnya tersamar sebagai lelah shift. Detik-detik itu ia pakai untuk hal yang lebih penting daripada keseimbangan. Memindai ruangan. Tidak ada abu aneh. Butiran api tidak meninggalkan jejak selain bau roti hangus yang sudah bercampur bau tungku sejati. Pola sembilan simpul tidak meninggalkan cahaya. Emberweave bersih — itulah salah satu alasan seni ini dulu disebut sempurna, dan zaman ini menyebutnya bidah.
+Ashvarok bangkit dengan cara yang paling tidak mencurigakan. Berjalan miring ke panel tekanan, memegang tuas pengatur seperti orang yang sedang sibuk, dan membiarkan gemetarnya tersamar sebagai lelah shift. Detik-detik itu ia pakai untuk hal yang lebih penting daripada keseimbangan — memindai ruangan. Tidak ada abu aneh. Butiran api tidak meninggalkan jejak selain bau roti hangus yang sudah bercampur bau tungku sejati. Pola sembilan simpul tidak meninggalkan cahaya. Emberweave bersih, itulah salah satu alasan seni ini dahulu disebut sempurna, dan zaman ini menyebutnya bidah.
 
 Dua penambang masuk membawa obor dan keluhan.
 
@@ -81,7 +81,7 @@ Dia pulang subuh dengan cara berjalan sambil bersandar ke dinding distrik, dan S
 
 Ashvarok menyendok buburnya dengan tempo orang yang sedang membeli waktu. Anak sebelas tahun ini menghitung porsi makan kakaknya. Tentu saja dia menghitung. Semua angka keluarga ada di kepala bocah ini, termasuk jumlah suapan.
 
-"Ada pekerjaan sampingan," kata dia akhirnya. Kebohongan parsial terbaik. Bagian yang benar harus cukup berat untuk menutup bagian yang hilang. "Tidak legal, tapi tidak melawan kontrak. Butuh tenaga dan membuat kurus. Dan bayarannya shardmark."
+"Ada pekerjaan sampingan," kata dia akhirnya. Kebohongan parsial terbaik — bagian yang benar harus cukup berat untuk menutup bagian yang hilang. "Tidak legal, tetapi tidak melawan kontrak. Butuh tenaga dan membuat kurus. Dan bayarannya shardmark."
 
 Sela menaruh mangkuknya. Bunyi keramik ke meja kayu di barak pagi hari adalah bunyi yang membuat tetangga kasur pura-pura tidur lebih dalam.
 
@@ -91,7 +91,7 @@ Sela menaruh mangkuknya. Bunyi keramik ke meja kayu di barak pagi hari adalah bu
 
 "Dengan risiko apa? Jawab pakai angka, jangan pakai wajah."
 
-Ashvarok menaikkan pandangan ke adik angkat yang tidak punya darah dengannya. "Risiko satu. Ketahuan, dipecat dari daftar shift, utang ditarik sekaligus. Risiko dua. Badan rusak pelan-pelan, seperti vein-scar, tapi bukan vein-scar. Angka ketiganya tidak akan aku sebut, karena tidak terjadi."
+Ashvarok menaikkan pandangan ke adik angkat yang tidak punya darah dengannya. "Risiko satu. Ketahuan, dipecat dari daftar shift, utang ditarik sekaligus. Risiko dua. Badan rusak pelan-pelan, seperti vein-scar, tetapi bukan vein-scar. Angka ketiganya tidak akan aku sebut, karena tidak terjadi."
 
 "Tidak terjadi karena kamu hati-hati, atau tidak terjadi karena kamu tidak tahu?" Sela menarik kembali mangkuknya, menuang separuh isinya ke piring kecil, mendorong piring itu ke meja Ashvarok. "Bagi dua. Kalau kamu mau mati demi lima shardmark, minimal kita mati sama-sama kenyang."
 
@@ -105,15 +105,17 @@ Mereka makan berdua dalam sunyi yang bukan sunyi dinding — sunyi dua orang yan
 
 Ashvarok menghabiskan airnya. Di dalam tubuh yang baru saja kehilangan satu hari cadangan, di bawah tulang yang masih berdenging dingin, pola sembilan simpul itu sudah duduk diam seperti pedang yang baru pertama kali diasah dan belum pernah digunakan.
 
-"Satu lagi," kata Sela di ambang pintu, memegang gelas kaca pecahnya dengan dua tangan. "Pepekerjaan sampinganmu itu — kalau suatu hari kau tidak pulang subuh, aku tidak akan menunggu di tangga seperti dulu."
+"Satu lagi," kata Sela di ambang pintu, memegang gelas kaca pecahnya dengan dua tangan. "Pekerjaan sampinganmu itu — kalau suatu hari kau tidak pulang subuh, aku tidak akan menunggu di tangga seperti dulu."
 
 "Kau akan lapor?"
 
-"Aku akan cari." Matanya tenang dan tidak ada sedikit pun main-main. "Bedanya menunggu dan cari, kakakku yang dulu ngajarin aku. Katanya orang yang menunggu hanya numpang harapan. Orang yang cari bawa mata."
+"Aku akan cari." Matanya tenang, dan tidak ada sedikit pun main-main. "Bedanya menunggu dan cari, kakakku yang dulu mengajari aku. Katanya orang yang menunggu hanya numpang harapan. Orang yang cari bawa mata."
 
 Dia keluar ke pagi yang mulai ramai, dan Ashvarok menatap pintu yang tertutup itu lebih lama dari biasanya.
 
-Tier-nol. Nyala sebesar kacang hijau. Tapi itu Cinder asli — seni yang dunia ini sebut mitos, bidah, atau dosa tergantung siapa yang bicara.
+Tier-nol. Nyala sebesar kacang hijau. Namun itu Cinder asli — seni yang dunia ini sebut mitos, bidah, atau dosa, tergantung siapa yang bicara.
+
+*Bicara saja dulu sebentar*, pikirnya. *Jangan lupa cara tidak diam.*
 
 Malam depan, ia pikir sambil menyangga punggung ke tembok, kita hitung ulang resepnya. Tubuh ini butuh makan lebih banyak, tidur lebih banyak, dan panas yang lebih murah. Ada tiga tungku di ruang ventilasi, dan hanya satu yang dijaga benar.
 

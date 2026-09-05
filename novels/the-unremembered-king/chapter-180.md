@@ -33,11 +33,11 @@ Harga ditagih serempak dan besar: the Remainder turun tajam, dingin sampai pingg
 
 Nama tidak datang seketika. Seperti Tovik — ia bekerja lambat pada manusia.
 
-Tapi malam itu, sesudah jam kedua, ketika cerita-cerita sudah habis dan hadirin tetap duduk karena tidak ada yang berani putus dahulu, lelaki tua itu melakukan tiga hal berturut-turut yang membuat sejarah Caldrest harus ditulis ulang dari halaman pertamanya:
+Namun malam itu, sesudah jam kedua, ketika cerita-cerita sudah habis dan hadirin tetap duduk karena tidak ada yang berani putus dahulu, lelaki tua itu melakukan tiga hal berturut-turut yang membuat sejarah Caldrest harus ditulis ulang dari halaman pertamanya:
 
 Pertama, ia mengetuk lengan kursinya tiga kali — irama aslinya, dari tubuhnya sendiri.
 
-Kedua, ia berkata, kepada ruangan tapi pandangannya ke arah retakan di kegelapan: "Terima kasih sudah menjaga suaraku selama ini. Tolong jaga terus sampai aku siap." — berbicara KEPADA kedalaman, sadar, dengan nama yang benar di hatinya meski belum di lidahnya.
+Kedua, ia berkata, kepada ruangan tetapi pandangannya ke arah retakan di kegelapan: "Terima kasih sudah menjaga suaraku selama ini. Tolong jaga terus sampai aku siap." — berbicara KEPADA kedalaman, sadar, dengan nama yang benar di hatinya meski belum di lidahnya.
 
 Ketiga — dan inilah yang membuat Ashvarok tersentak — ia menoleh kepada Ashvarok dan bertanya, pelan, dengan wajah yang untuk pertama kalinya sepenuhnya sadar:
 
@@ -45,7 +45,7 @@ Ketiga — dan inilah yang membuat Ashvarok tersentak — ia menoleh kepada Ashv
 
 Ashvarok memandangnya lama. Lalu mengangguk.
 
-"Aku tidak akan bilang malam ini," katanya. "Tapi aku janji dua hal. Satu: namamu aman, sudah kubaca, dan dia bagus. Dua: besok subuh, aku yang datang ke kamarmu sendirian, dan menyebutnya untukmu — sebelum siapa pun, sebelum upacara kedua, sebelum semua hal lain. Janji penjaga."
+"Aku tidak akan bilang malam ini," katanya. "Namun aku janji dua hal. Satu: namamu aman, sudah kubaca, dan dia bagus. Dua: besok subuh, aku yang datang ke kamarmu sendirian, dan menyebutnya untukmu — sebelum siapa pun, sebelum upacara kedua, sebelum semua hal lain. Janji penjaga."
 
 Lelaki tua itu mengangguk, puas seperti anak kecil yang diberi janji permen, dan tertidur di kursinya sepuluh menit kemudian di tengah kerumunan yang masih duduk — tidur pertamanya dalam delapan belas tahun yang wajah tenangnya membuat setiap saksi harus berpura-pura sibuk dengan lilin masing-masing.
 
@@ -91,11 +91,11 @@ Penutup dari raja-penjaga-bocah-tungku: seribu tahun aku pikir tugas terbesar pe
 
 Satu adegan terakhir malam itu, yang tidak masuk neraca karena terjadi di tempat yang tidak bisa dicatat siapa pun:
 
-Ashvarok turun sendirian ke ambang aula — dengan izin pasal berdua, karena pengikat senior bersedia menunggu di node pertama, cukup dekat untuk datang tapi cukup jauh untuk memberi privasi. Ia berlutut di nat barat. Meletakkan kedua telapak. Dan bicara kepada kedalaman untuk kedua kalinya dalam sejarah dunia — kali ini bukan satu kalimat.
+Ashvarok turun sendirian ke ambang aula — dengan izin pasal berdua, karena pengikat senior bersedia menunggu di node pertama, cukup dekat untuk datang tetapi cukup jauh untuk memberi privasi. Ia berlutut di nat barat. Meletakkan kedua telapak. Dan bicara kepada kedalaman untuk kedua kalinya dalam sejarah dunia — kali ini bukan satu kalimat.
 
 Ia menceritakan Barim.
 
-Namanya. Delapan tahun shift malamnya. Ketukan tiga kalinya yang selama ini ditiru kedalaman tanpa tahu asalnya. Dan permintaan resmi Caldrest: "Nama dia sudah pulang. Empat ratus lainnya masih di arsipmu. Kami akan datang bertanya satu per satu, pelan-pelan, bertahun-tahun lamanya. Jangan berikan semuanya sekaligus — manusia butuh waktu mencerna pulang. Tapi jagalah mereka. Seperti kau menjaga namaku."
+Namanya. Delapan tahun shift malamnya. Ketukan tiga kalinya yang selama ini ditiru kedalaman tanpa tahu asalnya. Dan permintaan resmi Caldrest: "Nama dia sudah pulang. Empat ratus lainnya masih di arsipmu. Kami akan datang bertanya satu per satu, pelan-pelan, bertahun-tahun lamanya. Jangan berikan semuanya sekaligus — manusia butuh waktu mencerna pulang. Namun jagalah mereka. Seperti kau menjaga namaku."
 
 Sapuan yang menjawab panjang dan tenang, dan isinya — dibaca lewat the Walking Key yang kini bekerja dua arah dengan lancar seperti percakapan — membuat Ashvarok tersenyum sampai ke matanya:
 

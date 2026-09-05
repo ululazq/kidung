@@ -5,9 +5,9 @@ chapter: 243
 
 Sepekan terakhir sebelum perkiraan Gella dijalani Caldrest dengan cara yang hanya bisa dilakukan kota ini: semua orang berperilaku normal sambil diam-diam sangat tidak normal.
 
-Pasar tetap buka. Sekolah tetap belajar. Nat-nat kecil tetap disapa. Tapi kalau kau perhatikan baik-baik:
+Pasar tetap buka. Sekolah tetap belajar. Nat-nat kecil tetap disapa. Namun kalau kau perhatikan baik-baik:
 
-Ibu-ibu barak memasak porsi lebih. Brannoc memeriksa lorong sembilan dua kali lebih sering dari biasanya (katanya "rutinitas"; Kovan mencatat frekuensinya naik 200%). Murid akademi berlatih menulis nama "Renn" dengan huruf bagus — katanya latihan kaligrafi, tapi semua tahu untuk apa.
+Ibu-ibu barak memasak porsi lebih. Brannoc memeriksa lorong sembilan dua kali lebih sering dari biasanya (katanya "rutinitas"; Kovan mencatat frekuensinya naik 200%). Murid akademi berlatih menulis nama "Renn" dengan huruf bagus — katanya latihan kaligrafi, tetapi semua tahu untuk apa.
 
 Dan Ashvarok?
 
@@ -71,7 +71,7 @@ Ia duduk pelan.
 
 "Renn?"
 
-Tidak ada jawaban dalam. Tapi tangannya sendiri — tanpa perintahnya, dengan kekuatan yang bukan miliknya — mengangkat dan mengetuk meja:
+Tidak ada jawaban dalam. Namun tangannya sendiri — tanpa perintahnya, dengan kekuatan yang bukan miliknya — mengangkat dan mengetuk meja:
 
 satu ketuk. panjang.
 
@@ -87,7 +87,7 @@ Yang terjadi berikutnya tidak masuk protokol mana pun, karena tidak ada protokol
 
 Mereka bicara. Berjam-jam. Suara bergantian keluar dari mulut yang sama — kadang kasar milik bocah tambang, kadang tenang milik raja tua — dan nat lorong barak utara meneruskan seluruh percakapan itu ke aula supaya Sela dan ibu Tamma bisa mendengarkan tanpa mengganggu.
 
-Percakapan itu kemudian ditulis Kovan verbatim (dengan izin kedua belah pihak) dan disimpan sebagai dokumen tertutup arsip — tapi tiga kutipannya bocor ke publik karena tiga orang yang mendengar langsung tidak mampu menahan diri:
+Percakapan itu kemudian ditulis Kovan verbatim (dengan izin kedua belah pihak) dan disimpan sebagai dokumen tertutup arsip — tetapi tiga kutipannya bocor ke publik karena tiga orang yang mendengar langsung tidak mampu menahan diri:
 
 Renn: "Delapan bulan aku dengar kamu cerita soal dunia... dan kamu tidak pernah sekali pun bilang 'ini rumahku'."
 Ashvarok: "Karena bukan."
@@ -99,11 +99,11 @@ Ashvarok: "Karena saat aku datang, pintu satu-satunya yang terbuka adalah punyam
 
 Dan yang oleh seluruh Caldrest dihafal sampai generasi berikutnya:
 
-Renn: "Kalau kau mau tinggal... bagi rata. Setengah-setengah. Tidur bergantian. Makan pakai tangan sendiri-sendiri. Aku mau lihat dunia juga — bukan denger ceritamu doang."
+Renn: "Kalau kau mau tinggal... bagi rata. Setengah-setengah. Tidur bergantian. Makan pakai tangan sendiri-sendiri. Aku mau lihat dunia juga — bukan dengar ceritamu saja."
 Ashvarok: "...setengah-setengah."
 Renn: "Setengah-setengah. Dan satu syarat lagi."
 Ashvarok: "Sebutkan."
-Renn: "Sup Kamp Pertama. Sekarang. Delapan bulan aku cium baunya doang, lho."
+Renn: "Sup Kamp Pertama. Sekarang. Delapan bulan aku cium baunya saja."
 
 ---
 
@@ -113,7 +113,7 @@ Dan tubuh Renn makan dua mangkuk. Yang pertama dimakan oleh tangan Renn (dia min
 
 Penilaian raja kurus itu, disampaikan lewat mulut bersama:
 
-"Masih enak. Tapi garamnya kurang sedikit dari ingatanku."
+"Masih enak. Namun garamnya kurang sedikit dari ingatanku."
 
 Ibu Tamma menjawab tanpa menoleh dari tungku:
 
@@ -148,7 +148,7 @@ Dan malam itu, sebelum tidur — tidur pertama dengan dua penghuni sadar — Ash
 KESEPAKATAN PENGHUNI RUMAH INI
 
 1. Setengah-setengah. Bergantian. Tanpa rebutan.
-2. Cerita sore tetap jalan — tapi sekarang DUA pendengar (nat lorong + yang satu lagi di dalam).
+2. Cerita sore tetap jalan — tetapi sekarang DUA pendengar (nat lorong + yang satu lagi di dalam).
 3. Kalau salah satu sedih, yang lain wajib bilang. Dilarang pura-pura kuat (ini khusus buat kamu, Ash).
 4. Kalau salah satu ingin melihat sesuatu, yang lain ikut menonton lewat mata. Gratis.
 5. Rumah ini milik kita berdua. Dan pintunya terbuka untuk Sela. Selalu.
@@ -161,7 +161,7 @@ Ashvarok (tamu lama, seribu tahun)
 
 Dan di bawah tanda tangan itu, satu tambahan dengan tulisan tangan ketiga — kecil, rapi, khas arsiparis:
 
-Sela: "Aku bukan penghuni rumah ini, tapi aku tetangga seumur hidup. Dan aku menolak disebut 'tambahan'. — S"
+Sela: "Aku bukan penghuni rumah ini, tetapi aku tetangga seumur hidup. Dan aku menolak disebut 'tambahan'. — S"
 
 ---
 
@@ -169,7 +169,7 @@ Neraca penutup bab — ditulis dua tangan, satu lembar:
 
 Hari 833 (Ashvarok): Hari ini Renn bangun. Semua protokol berjalan. Sup dimakan dua mangkuk. 214 perkenalan selesai (Sela memotong jadi 214 karena "yang lain besok-besok saja, dia butuh istirahat"). Kesepakatan penghuni ditandatangani.
 
-Hari 833 (Renn): Hari ini aku bangun dan dunia sudah jalan tanpa aku — tapi ternyata dunia itu tidak jalan MENINGGALKAN aku. Dia jalan MEMBAWA aku. Delapan bulan, setiap orang bicara padaku lewat lagu, sup, catatan mangkuk, dan ketukan.
+Hari 833 (Renn): Hari ini aku bangun dan dunia sudah jalan tanpa aku — tetapi ternyata dunia itu tidak jalan MENINGGALKAN aku. Dia jalan MEMBAWA aku. Delapan bulan, setiap orang bicara padaku lewat lagu, sup, catatan mangkuk, dan ketukan.
 
 Aku anak tungku yang delapan bulan silam seharusnya mati di lorong sembilan.
 
@@ -180,7 +180,7 @@ Ternyata aku hanya dipindahkan ke kamar paling dalam — untuk mendengar sejarah
 
 Keesokan harinya, kabar "Renn bangun" menyebar ke seluruh Karvess — dan hari itu disebut oleh warga "hari kedua pulang".
 
-Sekolah Mendengar libur satu hari (Daven: "secara kurikulum, mendengarkan sejarah langsung dari dua sumber sekaligus itu pelajaran; tapi kami libur saja supaya bisa merayakan"). Nat-nat kecil menyala lebih hangat dari biasanya. the Patient House mengirim pesan resmi:
+Sekolah Mendengar libur satu hari (Daven: "secara kurikulum, mendengarkan sejarah langsung dari dua sumber sekaligus itu pelajaran; tetapi kami libur saja supaya bisa merayakan"). Nat-nat kecil menyala lebih hangat dari biasanya. the Patient House mengirim pesan resmi:
 
 "Selamat datang, Renn. Rumah besar ini pernah menyimpan 400 jiwa. Kami tahu rasanya bangun setelah lama. Kalau kau butuh teman bicara yang paham — pintunya terbuka."
 
@@ -196,11 +196,11 @@ Malam itu juga, Renn menjawab Kael-Uthar — lewat nat aula, dengan bantuan Kova
 
 "Kepada api purba lembah selatan. Terima kasih atas tawarannya.
 
-Tapi aku tidak butuh teman bicara soal 'mendengar dari dalam'.
+Namun aku tidak butuh teman bicara soal 'mendengar dari dalam'.
 
 Yang aku butuhkan... adalah orang yang bisa mengajariku bagaimana caranya TETAP BAIK setelah seribu tahun mendengar dunia tanpa bisa ikut campur.
 
-Karena delapan bulan saja, aku sudah hampir gila melihat Sela jatuh dari tanggi dan tidak bisa menangkapnya."
+Karena delapan bulan saja, aku sudah hampir gila melihat Sela jatuh dari tangga dan tidak bisa menangkapnya."
 
 Jawaban Kael-Uthar datang dalam irama yang oleh Kovan dicatat sebagai "paling lama yang pernah diterjemahkan" — dan intinya satu kalimat:
 

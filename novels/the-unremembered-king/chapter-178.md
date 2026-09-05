@@ -7,9 +7,9 @@ Sela yang memulainya, dan ia memulainya dengan cara pencatat: membuka catatan.
 
 "Sebelum rapat utara dimulai, ada satu urusan pribadi keluarga yang harus selesai dulu." Gadis itu meletakkan di meja dapur dua benda: kertas Hourglass terbaru, dan satu lembar tua bertanggal dua tahun silam. "Ini catatan pertamaku tentang kamu. Hari kedua kamu jadi kakakku. Tulisanku umur sembilan tahun."
 
-Ashvarok membaca tulisan tangan kecil itu. Huruf-huruf muda yang belum rapi: "Hari 2. Kakak baru. Tapi dia jawab pertanyaan seperti orang yang sudah lama hidup. Aku simpan pertanyaan besar untuk nanti."
+Ashvarok membaca tulisan tangan kecil itu. Huruf-huruf muda yang belum rapi: "Hari 2. Kakak baru. Namun dia jawab pertanyaan seperti orang yang sudah lama hidup. Aku simpan pertanyaan besar untuk nanti."
 
-"Dua tahun," kata Sela. "Aku menunda dua tahun, karena waktu itu aku takut jawabannya membuat kamu pergi. Sekarang kamu tidak akan pergi — kamu punya tambang, kota, neraca, dan tamu tua di kedalaman." Ia menatap lurus. "Dan minggu lalu kamu mengaku raja di depan seluruh Caldrest, tapi tidak pernah sekali pun bicara kepadaku soal hal yang PALING pribadi dari semua."
+"Dua tahun," kata Sela. "Aku menunda dua tahun, karena waktu itu aku takut jawabannya membuat kamu pergi. Sekarang kamu tidak akan pergi — kamu punya tambang, kota, neraca, dan tamu tua di kedalaman." Ia menatap lurus. "Dan minggu lalu kamu mengaku raja di depan seluruh Caldrest, tetapi tidak pernah sekali pun bicara kepadaku soal hal yang PALING pribadi dari semua."
 
 "Kamu mau tahu nama asliku." Bukan pertanyaan.
 
@@ -18,11 +18,11 @@ Ashvarok duduk diam lama. Sangat lama, sampai lilin di tengah meja menetes tiga 
 
 Karena adiknya baru saja, dalam satu permintaan, melihat sesuatu yang tidak pernah dilihat lima panglima, seratus paduan suara, atau seribu tahun kesendirian: bahwa nama yang dibakarnya bukan hilang. Ia disimpan — oleh segel itu sendiri, oleh the Threshold, oleh kedalaman yang telah membaca dirinya utuh selama seribu tahun dan menyimpan semuanya, termasuk yang dibakarnya sendiri.
 
-"Namaku," kata Ashvarok akhirnya, dan suaranya keluar lebih pelan dari rencananya, "tidak pernah kusebut sejak malam itu. Bukan karena aku lupa. Karena menyebutnya terasa seperti memanggil orang mati — dan aku tidak pernah yakin aku sudah mati sungguhan atau hanya berhenti di tengah." Ia memandang adiknya, gadis yang datang dengan catatan dua tahun untuk mengajukan permintaan terbesar dalam sejarah hubungan mereka. "Tapi kau benar. Kalau suatu hari nama itu dipanggil pulang, harus ada yang hafal cara memanggilnya. Dan kau memang pencatat keluarga ini."
+"Namaku," kata Ashvarok akhirnya, dan suaranya keluar lebih pelan dari rencananya, "tidak pernah kusebut sejak malam itu. Bukan karena aku lupa. Karena menyebutnya terasa seperti memanggil orang mati — dan aku tidak pernah yakin aku sudah mati sungguhan atau hanya berhenti di tengah." Ia memandang adiknya, gadis yang datang dengan catatan dua tahun untuk mengajukan permintaan terbesar dalam sejarah hubungan mereka. "Namun kau benar. Kalau suatu hari nama itu dipanggil pulang, harus ada yang hafal cara memanggilnya. Dan kau memang pencatat keluarga ini."
 
 "Jadi kamu akan bilang?" tanya Sela.
 
-"Aku akan tulis." Ashvarok mengambil kapur. "Sekali. Di papan ini, di halaman yang hanya kita dua yang bisa buka. Bukan untuk dipanggil-panggil — namanya bukan alat. Tapi supaya ada yang menyimpannya di luar diriku. Kalau suatu hari aku tidak sanggup lagi menyimpan sendiri, kau yang pegang."
+"Aku akan tulis." Ashvarok mengambil kapur. "Sekali. Di papan ini, di halaman yang hanya kita dua yang bisa buka. Bukan untuk dipanggil-panggil — namanya bukan alat. Namun supaya ada yang menyimpannya di luar diriku. Kalau suatu hari aku tidak sanggup lagi menyimpan sendiri, kau yang pegang."
 
 Ia menulis. Nama itu — nama yang terakhir kali diucapkan ibunya sembilan ratus delapan belas tahun silam — muncul di kapur huruf demi huruf dengan tangan yang untuk pertama kalinya sejak seribu tahun gemetar bukan karena harga seni, melainkan karena isi.
 
@@ -56,7 +56,7 @@ Dan untuk pertama kalinya sejak malam the Long Dusk seribu tahun silam, semua na
 
 Sore harinya, sebelum rapat utara dimulai, Sela menemukan kakaknya di gudang dan menaruh satu permintaan terakhir di meja — bukan permintaan, koreksi.
 
-"Satu hal soal nama yang tadi malam," katanya. "Aku simpan di papan tertutup, aman, dua rumah, semua bagus. Tapi ada satu tempat lagi yang belum punya salinan." Ia menatap kakaknya tegak. "Kedalaman."
+"Satu hal soal nama yang tadi malam," katanya. "Aku simpan di papan tertutup, aman, dua rumah, semua bagus. Namun ada satu tempat lagi yang belum punya salinan." Ia menatap kakaknya tegak. "Kedalaman."
 
 Ashvarok berhenti merapikan alat. "Maksudmu..."
 
@@ -86,7 +86,7 @@ Lalu jawabannya datang — bukan tiga nada, bukan kata penjaga, bukan laporan bo
 
 Nama mendarat di dada Ashvarok seperti salju. Hangat. Tidak berat sama sekali.
 
-Di sebelahnya, Sela menulis di papan tertutupnya satu baris terakhir malam itu, tangannya gemetar tapi hurufnya tegak:
+Di sebelahnya, Sela menulis di papan tertutupnya satu baris terakhir malam itu, tangannya gemetar tetapi hurufnya tegak:
 
 "Hari 324. Malam ini kedalaman memanggil kakakku dengan namanya sendiri, dan kakakku menjawab 'ada'. Rumah namanya bertambah lagi. Sekarang tiga: segel, aku, dan dia."
 

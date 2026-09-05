@@ -9,31 +9,31 @@ Sebulan sejak pos barat daya jatuh ke tangan the Wanes, barak tidak mengirim sep
 
 Sela mengangkat wajah. "Bila mereka di sana, mengapa pintu tidak terbuka?"
 
-"Karena kunci bukan batu," kata Ashvarok-Renn. "Kunci adalah sembilan napas yang delapan belas tahun silam pergi. The Wanes pegang the Unclaimed Knot di barat daya, tapi napasnya ada pada the Survivor, bukan pada mereka. Selama kita jaga napas, pintu dunia tetap tertidur."
+"Karena kunci bukan batu," kata Ashvarok-Renn. "Kunci adalah sembilan napas yang delapan belas tahun silam pergi. The Wanes pegang the Unclaimed Knot di barat daya, tetapi napasnya ada pada the Survivor, bukan pada mereka. Selama kita jaga napas, pintu dunia tetap tertidur."
 
 "Maka kita kejar the Stillness dan the Silence sebelum mereka belajar," kata Sela.
 
 "Kita pegang empat napas bila the Stillness ditemukan," bisiknya. "The Wanes pegang batu tanpa kunci. Selama napas lari, pintu dunia tetap tertidur."
 
-Kovan datang dari arah peta dinding membawa seutas benang abu-abu. Ia menyambungkan utara danau garam ke simpul yang belum berdenyut. "Murid Ossian di sana bilang ada perempuan tua penjaga perahu," katanya. "Napasnya pelan tapi dalam. Masih di bawah ukuran biasa."
+Kovan datang dari arah peta dinding membawa seutas benang abu-abu. Ia menyambungkan utara danau garam ke simpul yang belum berdenyut. "Murid Ossian di sana bilang ada perempuan tua penjaga perahu," katanya. "Napasnya pelan tetapi dalam. Masih di bawah ukuran biasa."
 
-"Belum cukup untuk disebut the Stillness," kata Ashvarok-Renn. "Tapi arahnya benar. Suruh ia berteman dulu. Jangan ukur di depan umum."
+"Belum cukup untuk disebut the Stillness," kata Ashvarok-Renn. "Namun arahnya benar. Suruh ia berteman dulu. Jangan ukur di depan umum."
 
-Di menara, perawat tua — the Northern Tower Nurse — membuka buku catatan halaman kedua belas. Mira duduk di sebelahnya memegang pensil arsip. Sejak the Escape Survivor lolos dari pos barat daya, dentum menara di utara memanjang setengah hitungan setiap subuh. Bukan memendek seperti bahaya, melainkan memanjang seperti simpul yang mengenali sesuatu di kejauhan.
+Di menara, perawat tua — the Northern Tower Nurse — membuka buku catatan halaman kedua belas. Mira duduk di sebelahnya memegang pensil arsip. Sejak the Escape Survivor lolos dari pos barat daya, dentum menara di utara memanjang setengah hitungan setiap subuh. Bukan memendek seperti bahaya — melainkan memanjang seperti simpul yang mengenali sesuatu di kejauhan.
 
-"Dentum utara memanjang," kata Mira pelan. "Seperti ada yang menjawab dari danau garam, tapi terlalu jauh untuk kami catat utuh."
+"Dentum utara memanjang," kata Mira pelan. "Seperti ada yang menjawab dari danau garam, tetapi terlalu jauh untuk kami catat utuh."
 
 Perawat tua membubuhkan garis lurus di bawah tulisan itu, tiga. Gerakan rutin yang berarti laporan selesai dibaca. "Ia mulai mendengar dirinya," katanya. "Napas yang delapan belas tahun pergi, perlahan pulang."
 
-Gella mendekat dari sudut membawa buku pemulihan. Ia meletakkannya di pangkuan Ashvarok-Renn. "Kau the Bearer," katanya tanpa basa-basi. "Napasmu minggu ini tiga hitungan penuh. Turun dari empat. Bukan separuh lagi, tapi satu utuh sejak batch pertama."
+Gella mendekat dari sudut membawa buku pemulihan. Ia meletakkannya di pangkuan Ashvarok-Renn. "Kau the Bearer," katanya tanpa basa-basi. "Napasmu minggu ini tiga hitungan penuh. Turun dari empat. Bukan separuh lagi, tetapi satu utuh sejak batch pertama."
 
-Ashvarok-Renn tidak membantah. Ia tahu Gella mengukur tiap fajar, dan angka itu jujur. "Bahaya bukan hari ini," katanya. "Tapi sebulan lagi, bila the Stillness dan the Silence belum dijaga, napas ini akan habis di tengah penjagaan."
+Ashvarok-Renn tidak membantah. Ia tahu Gella mengukur tiap fajar, dan angka itu jujur. "Bahaya bukan hari ini," katanya. "Namun sebulan lagi, bila the Stillness dan the Silence belum dijaga, napas ini akan habis di tengah penjagaan."
 
 "Maka kita kejar tanpa mengumpulkan," kata Sela dari sudut. Papan napas di pangkuannya masih memuat catatan batch pertama: *Jaga the Survivor di ambang simpul, bukan kumpulkan di satu tempat.* "Kalau kita kumpulkan, the Wanes tinggal datang sekali dan dapat tujuh."
 
 Ashvarok-Renn mengangguk. Ia menulis di bible kecil: *Strategi batch 2: jaga di ambang masing-masing. the Stillness (utara/danau garam) via murid Ossian + 12 anak Brannoc. the Silence (celah menara?) perlu dipastikan apakah perawat tua sudah mewakili. the Ground (the Hollow) paling berbahaya — pangkal sendiri, the Wanes mungkin sudah di sana tanpa tahu.*
 
-Ossian mengirim kain tenun lewat Thessa siang itu. Isinya pendek: *Murid utara melihat cap tujuh garis di lima desa sekitar danau garam. Mereka masih tangkap siapa pun berbekas lingkaran di tubuh. Tapi satu perempuan tua penjaga perahu tidak mereka sentuh — napasnya tak pernah mereka ukur.* Ashvarok-Renn membacanya dua kali. "Mereka buta," katanya pada Kovan. "Masih cari darah, bukan napas. Itu jendela kita."
+Ossian mengirim kain tenun lewat Thessa siang itu. Isinya pendek: *Murid utara melihat cap tujuh garis di lima desa sekitar danau garam. Mereka masih tangkap siapa pun berbekas lingkaran di tubuh. Namun satu perempuan tua penjaga perahu tidak mereka sentuh — napasnya tak pernah mereka ukur.* Ashvarok-Renn membacanya dua kali. "Mereka buta," katanya pada Kovan. "Masih cari darah, bukan napas. Itu jendela kita."
 
 "Berapa lama jendela itu?" tanya Kovan.
 
@@ -41,7 +41,7 @@ Ossian mengirim kain tenun lewat Thessa siang itu. Isinya pendek: *Murid utara m
 
 Mira di menara menutup buku catatan dan menulis di sisi: *Dentum utara memanjang 0,5 hitungan sejak the Escape lolos. the Stillness Candidate (danau garam) napas pelan dalam, belum diukur resmi. The Wanes pasang cap 7 garis di 5 desa utara, masih buta cari napas. Jendela: sebelum mereka belajar ukur.* Ia mengetuk ubin tiga kali, diam sehentakan.
 
-Brannoc muncul di ambang membawa daftar dua belas anak angkatan keempat. "Mereka makin lancar ketukan," katanya. "Tiga yang kami latih ukur napas bisa bedakan napas the Survivor dari orang biasa dalam tiga hitungan. Tapi mereka masih anak-anak. Jangan kirim ke utara sendirian."
+Brannoc muncul di ambang membawa daftar dua belas anak angkatan keempat. "Mereka makin lancar ketukan," katanya. "Tiga yang kami latih ukur napas bisa bedakan napas the Survivor dari orang biasa dalam tiga hitungan. Namun mereka masih anak-anak. Jangan kirim ke utara sendirian."
 
 "Tidak sendirian," kata Ashvarok-Renn. "Kirim bersama murid Ossian. Persahabatan, bukan perintah. Bila mereka berteman dengan anak desa di danau garam, the Wanes takkan curiga — mereka hanya lihat anak main kelereng di tepi air."
 
@@ -49,23 +49,23 @@ Gella menatap Brannoc. "Ajar mereka satu hal lagi: bila the Survivor di danau ga
 
 Sela mencatat di papan: *Batch 2: 12 anak + murid Ossian ke danau garam (persahabatan). Cari the Stillness via napas, bukan tanda. Bila the Wanes ukur napas = lari.* 
 
-Di sudut lain serambi, Kovan duduk memeluk lutut menyimak dentum yang ia catat dari menara utara. "Aneh," katanya pelan. "Sejak the Escape lolos, dentum barat daya tidak mati sepenuhnya. Masih berdenyut acak, seperti simpul yang kehilangan kunci tapi tidak mau diam."
+Di sudut lain serambi, Kovan duduk memeluk lutut menyimak dentum yang ia catat dari menara utara. "Aneh," katanya pelan. "Sejak the Escape lolos, dentum barat daya tidak mati sepenuhnya. Masih berdenyut acak, seperti simpul yang kehilangan kunci tetapi tidak mau diam."
 
-"Karena the Wanes pegang batu di sana," kata Ashvarok-Renn. "Batu berdenyut tanpa napas. Pintu tidak terbuka, tapi tidak sepenuhnya tertidur."
+"Karena the Wanes pegang batu di sana," kata Ashvarok-Renn. "Batu berdenyut tanpa napas. Pintu tidak terbuka, tetapi tidak sepenuhnya tertidur."
 
 "Berarti mereka masih duduk di pangkal?" tanya Kovan.
 
 "Mereka duduk di batu," kata Gella. "Batu bukan pintu. Pintu butuh napas, dan napas ada pada the Survivor, bukan pada mereka."
 
-Ossian mengirim kain tenun lain lewat Maera sore itu, isinya tentang menara utara. *Di menara utara, the Northern Listener laporkan jejak cap tujuh garis the Wanes mulai menyusur jalur danau garam. Mereka tidak tahu ada yang mengamati dari rawa. Tapi mereka hitung penduduk desa satu per satu — masih kasar, tapi arah mereka menuju napas.*
+Ossian mengirim kain tenun lain lewat Maera sore itu, isinya tentang menara utara. *Di menara utara, the Northern Listener laporkan jejak cap tujuh garis the Wanes mulai menyusur jalur danau garam. Mereka tidak tahu ada yang mengamati dari rawa. Namun mereka hitung penduduk desa satu per satu — masih kasar, tetapi arah mereka menuju napas.*
 
 Ashvarok-Renn menunjukkannya pada perawat tua yang baru turun dari menara. "The Northern Listener kita di utara mata-mata mereka," katanya. "Berarti jendela kita makin pendek."
 
-"Tapi kita punya dua belas anak," kata perawat tua. "Mata kecil lebih sulit dilihat daripada mata tua."
+"Namun kita punya dua belas anak," kata perawat tua. "Mata kecil lebih sulit dilihat daripada mata tua."
 
 Brannoc tertawa kecil. "Benar. Anak-anak itu main kelereng, the Wanes lihat anak main. Tidak pernah tebersit mereka sedang dijaga."
 
-Gella kembali ke Ashvarok-Renn. "Kau the Bearer," katanya lagi, kali ini lebih pelan. "Bila napasmu turun ke dua, kau harus serahkan pengawasan utara pada Kovan. Bukan karena kau lemah, tapi karena sembilan napas yang kau bawa tidak boleh habis di tengah penjagaan."
+Gella kembali ke Ashvarok-Renn. "Kau the Bearer," katanya lagi, kali ini lebih pelan. "Bila napasmu turun ke dua, kau harus serahkan pengawasan utara pada Kovan. Bukan karena kau lemah, tetapi karena sembilan napas yang kau bawa tidak boleh habis di tengah penjagaan."
 
 "Belum turun," kata Ashvarok-Renn. "Masih tiga. Cukup untuk mengawasi dari sini, tidak untuk turun ke lapangan."
 
@@ -79,13 +79,13 @@ Di menara, perawat tua memilin benang di jari dan menyanyikan satu baris irama l
 
 Ashvarok-Renn menutup bible dan menulis baris terakhir: *Batch 2 dimulai. Tiga the Survivor dikenali. Sisa the Stillness utara, the Silence celah, the Ground the Hollow. Strategi: jaga di ambang, kejar tanpa nama, jangan kumpulkan. Pintu dunia tetap tertidur selama napas lari.*
 
-Di sudut serambi, perawat tua duduk memilin benang, matanya sesekali menatap peta dinding. "the Silence Knot," katanya pelan pada Ashvarok-Renn. "Kau bilang celah menara mungkin sudah diwakili olehku. Tapi bagaimana bila ada the Survivor lain di celah yang belum kau ukur?"
+Di sudut serambi, perawat tua duduk memilin benang, matanya sesekali menatap peta dinding. "the Silence Knot," katanya pelan pada Ashvarok-Renn. "Kau bilang celah menara mungkin sudah diwakili olehku. Namun bagaimana bila ada the Survivor lain di celah yang belum kau ukur?"
 
 Ashvarok-Renn menoleh. "Belum kaukatakan itu."
 
 "Aku tidak tahu sampai kau ukur napasku tadi malam." Perawat tua tersenyum tipis. "Mungkin ada lebih dari satu di celah. Satu di menara, satu di bawah, di ruang yang kau sebut ambang."
 
-"Maka kita ukur lagi," kata Ashvarok-Renn. "Tapi pelan. Bila ada the Silence di celah, ia harus tetap di ambang sendiri, tidak dipindah."
+"Maka kita ukur lagi," kata Ashvarok-Renn. "Namun pelan. Bila ada the Silence di celah, ia harus tetap di ambang sendiri, tidak dipindah."
 
 Ia membiarkan benang diam hidup tanpa namanya, tahu bahwa di utara danau garam, seorang perempuan tua penjaga perahu mulai diperhatikan oleh mata-mata kecil yang belum tahu mereka menjaga pintu.
 

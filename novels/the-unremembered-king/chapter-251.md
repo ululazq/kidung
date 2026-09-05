@@ -9,17 +9,17 @@ murid angkatan pertama naik panggung — sebagai pengajar.
 
 Daven membuka kelas resonansi dasar. Pellia mengajar "mendengar orang" (mata pelajaran yang dia ciptakan sendiri, karena bakatnya mendengar manusia lebih tajam daripada batu). Dan Thessa Vael datang dari Spire untuk satu sesi khusus: "cara membuat keputusan besar setelah makan bareng".
 
-Tapi sesi yang paling ramai justru milik dua guru tamu:
+Namun sesi yang paling ramai justru milik dua guru tamu:
 
 Renn-Ashvarok, dengan mata pelajaran yang tidak ada di kurikulum mana pun di dunia: MENYAPA DARI DUA SISI.
 
 "Pekan lalu aku menyapa nat pasar," kata Renn kepada para murid. "Dan sambil menyapa, Kak Raja di dalam menilai retakannya. Jadi ada yang bicara, dan ada yang memeriksa — dalam satu tubuh, pada waktu yang sama."
 
-Seorang murid Aru mengangkat tangan: "Kalau bertengkar gimana?"
+Seorang murid Aru mengangkat tangan: "Kalau bertengkar bagaimana?"
 
 Aula tertawa. Renn ikut tertawa.
 
-"Bertengkar tiap hari," jawabnya jujur. "Kemarin kami berdebat soal arah jalan pulang. Dia mau lewat pasar, aku mau lewat lorong." Meja itu diketuk sekali. "Hasilnya? Kami lewat dua-duanya. Lebih lama sepuluh menit, tapi tidak ada yang kesal."
+"Bertengkar tiap hari," jawabnya jujur. "Kemarin kami berdebat soal arah jalan pulang. Dia mau lewat pasar, aku mau lewat lorong." Meja itu diketuk sekali. "Hasilnya? Kami lewat dua-duanya. Lebih lama sepuluh menit, tetapi tidak ada yang kesal."
 
 Ashvarok menambahkan dari dalam — dan Renn mengulang dengan nada serius:
 
@@ -27,23 +27,23 @@ Ashvarok menambahkan dari dalam — dan Renn mengulang dengan nada serius:
 
 ---
 
-Murid-murid mencatat itu semua. Tapi pelajaran yang benar-benar melekat justru dari hal yang tidak direncanakan:
+Murid-murid mencatat itu semua. Namun pelajaran yang benar-benar melekat justru dari hal yang tidak direncanakan:
 
 Di akhir sesi, seorang murid kecil dari federasi Kaveth — anak paling pendiam di angkatan — berdiri, berjalan ke depan, dan berkata kepada Renn-Ashvarok:
 
-"Aku... dulu di kampungku tidak ada yang mau dengar aku bicara. Aku pikir semua orang seperti itu." Ia memandang lantai. "Terus ibu Tamma bilang supnya enak kalau dimakan bareng. Dan dia nungguin aku habisin."
+"Aku... dulu di kampungku tidak ada yang mau dengar aku bicara. Aku pikir semua orang seperti itu." Ia memandang lantai. "Terus ibu Tamma bilang supnya enak kalau dimakan bareng. Dan dia menunggui aku habisin."
 
 Ia mengangkat wajah.
 
-"Jadi aku mau bilang makasih. Bukan ke kalian. Ke ibu Tamma."
+"Jadi aku mau bilang terima kasih. Bukan ke kalian. Ke ibu Tamma."
 
 Semua kepala menoleh ke pintu dapur.
 
 Dan ibu Tamma — yang kebetulan lewat membawa nampan — berkata tanpa berhenti melangkah:
 
-"Iya, iya. Makasih diterima. Sekarang kelas lanjut, nanti sup dingin."
+"Iya, iya. Terima kasih diterima. Sekarang kelas lanjut, nanti sup dingin."
 
-Aula tertawa. Dan murid kecil Kaveth itu duduk dengan wajah merah — tapi tersenyum untuk pertama kalinya sejak tiba.
+Aula tertawa. Dan murid kecil Kaveth itu duduk dengan wajah merah — tetapi tersenyum untuk pertama kalinya sejak tiba.
 
 ---
 
@@ -81,7 +81,7 @@ Ashvarok-Renn duduk sendirian setelah semua pulang, dan nat aula mengirim irama 
 
 Kovan (yang juga belum pulang — kebiasaan penghitung) menerjemahkannya perlahan:
 
-"Dia bilang... setahun silam, aula ini dipenuhi orang yang mencari jawaban soal kedalaman. Sekarang aula ini dipenuhi orang dari sembilan wilayah yang belajar mendengarkan." Irama berikutnya lebih hangat. "DIA BILANG: AKU NAT AULA. DULU AKU CUMA TEMPAT RAPAT. SEKARANG AKU SEKOLAH."
+"Dia bilang... setahun silam, aula ini dipenuhi orang yang mencari jawaban soal kedalaman. Sekarang aula ini dipenuhi orang dari sembilan wilayah yang belajar mendengarkan." Irama berikutnya lebih hangat. "DIA BILANG: AKU NAT AULA. DULU AKU HANYA TEMPAT RAPAT. SEKARANG AKU SEKOLAH."
 
 Ashvarok menatap nat tua itu lama.
 
@@ -146,7 +146,7 @@ Sekolah ini adalah bukti bahwa mendengarkan itu bisa diajari — kepada siapa pu
 
 Dan satu baris terakhir dari Renn:
 
-"Setuju semua. Tapi jangan lupa yang paling penting: ibu Tamma benar.
+"Setuju semua. Namun jangan lupa yang paling penting: ibu Tamma benar.
 
 Meja cukup panjang = dunia bisa duduk bareng."
 

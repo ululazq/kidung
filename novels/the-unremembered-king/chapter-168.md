@@ -9,7 +9,7 @@ Panggung Dapur menyebar ke pasar timur lewat jalur yang tidak bisa dicegah siapa
 
 Cerita-ceritanya mulai membesar sendiri. Pedagang garam yang katanya menyembunyikan timbangan curang. Kafilah yang konon membawa barang terlarang di gerobak ketiga. Cerita tentang "penjaga tua tambang" yang sudah berkembang tiga kepala dan empat lengan di mulut-mulut anak buah — legenda yang menular dari cerita asli Ondar seperti api merambat jerami. Dan yang paling berbahaya menurut ukuran yang hanya beberapa orang paham: nama-nama mulai dilekatkan pada cerita yang tidak benar, dan nama yang ditempel pada kebohongan adalah nama yang sedang dimakan palsu.
 
-Ashvarok mendengarnya langsung suatu sore di pasar, ketika seorang penjual muda bercerita keras kepada kerumunan bahwa "Renn bocah tungku itu bisa bicara sama batu, batu-batunya nyanyi diajak" — cerita yang berakar benar tapi telah tumbuh lima jengkal melewati kebenaran, dan kerumunan tertawa senang, dan the Remainder dalam dadanya merespons cerita palsu itu dengan cara yang telah dibuktikan bab 91: tidak ada apa-apa. Uang palsu ditolak. Tetapi orang-orang di kerumunan itu tidak menolaknya. Mereka membeli, mengingat, dan akan menceritakan ulang — dan cerita yang salah tentang penjaga adalah cerita yang bisa membunuh penjaga kalau sampai ke telinga yang mencari dia.
+Ashvarok mendengarnya langsung suatu sore di pasar, ketika seorang penjual muda bercerita keras kepada kerumunan bahwa "Renn bocah tungku itu bisa bicara sama batu, batu-batunya menyanyi diajak" — cerita yang berakar benar tetapi telah tumbuh lima jengkal melewati kebenaran, dan kerumunan tertawa senang, dan the Remainder dalam dadanya merespons cerita palsu itu dengan cara yang telah dibuktikan bab 91: tidak ada apa-apa. Uang palsu ditolak. Tetapi orang-orang di kerumunan itu tidak menolaknya. Mereka membeli, mengingat, dan akan menceritakan ulang — dan cerita yang salah tentang penjaga adalah cerita yang bisa membunuh penjaga kalau sampai ke telinga yang mencari dia.
 
 Kovan yang hadir sebagai pembeli kecil menangkap pandangannya. Ibu Tamma yang berjualan sayur di sebelah mengepalkan tangannya sekali. Malam itu rapat dapur berlangsung dengan agenda tunggal, dan Sela yang membuka dengan papannya sudah ditulis penuh:
 
@@ -39,13 +39,13 @@ Ia bercerita tentang Kovan — Shift Guard yang dulu ditertawakan karena alatnya
 
 Dan dari baris belakang, seorang pembeli kecil yang selalu hadir di bangku-panjang-sore itu — pembeli kecil yang bertanya asal barang, yang sudah lama menjadi bagian pasar tanpa pernah menjual apa pun — berdiri, mengangkat tangan seperti saksi yang diminta aturan baru, dan berkata cukup keras untuk didengar semua: "Benar. Saya ada."
 
-Kovan. Menyaksikan dirinya dibenarkan oleh orang yang dulu menertawakannya, di institusi yang tidak ia rancang tapi telah melindunginya.
+Kovan. Menyaksikan dirinya dibenarkan oleh orang yang dulu menertawakannya, di institusi yang tidak ia rancang tetapi telah melindunginya.
 
-Ia tidak berkata apa-apa lagi setelahnya. Tapi malam itu, di buku sandinya, di halaman-halaman angka, muncul untuk pertama kalinya satu baris bukan angka, ditulis tangan yang sedikit goyah: "Hari 285. Dua kali dalam seminggu dunia menjawab hitunganku. Kalau begini terus, aku harus mulai belajar percaya pada jawaban."
+Ia tidak berkata apa-apa lagi setelahnya. Namun malam itu, di buku sandinya, di halaman-halaman angka, muncul untuk pertama kalinya satu baris bukan angka, ditulis tangan yang sedikit goyah: "Hari 285. Dua kali dalam seminggu dunia menjawab hitunganku. Kalau begini terus, aku harus mulai belajar percaya pada jawaban."
 
 ---
 
-Dan satu hal lagi yang terjadi pekan itu, kecil di mata pasar tapi tidak kecil di meja gudang perkakas: cerita tentang penjaga tua tambang yang bertubuh aneh — versi pasar yang sudah tiga kepala dan empat lengan — sampai ke telinga pengikat senior melalui murid-murid sekolah pendengarannya, dan orang tua itu meminta cerita lengkapnya, mendengarkan sampai selesai dengan wajah yang tidak terbaca, lalu tertawa.
+Dan satu hal lagi yang terjadi pekan itu, kecil di mata pasar tetapi tidak kecil di meja gudang perkakas: cerita tentang penjaga tua tambang yang bertubuh aneh — versi pasar yang sudah tiga kepala dan empat lengan — sampai ke telinga pengikat senior melalui murid-murid sekolah pendengarannya, dan orang tua itu meminta cerita lengkapnya, mendengarkan sampai selesai dengan wajah yang tidak terbaca, lalu tertawa.
 
 Tertawa. Lama. Sampai harus memegang dinding.
 

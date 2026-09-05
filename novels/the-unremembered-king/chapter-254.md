@@ -3,9 +3,9 @@ title: "Bab 254: Anak Pertama yang Terbang"
 chapter: 254
 ---
 
-Surat penerimaan datang dari Akademi Arsip Tinggi Spire — dan oleh Ossian dibacakan di aula dengan suara yang mencoba tenang tapi gagal:
+Surat penerimaan datang dari Akademi Arsip Tinggi Spire — dan oleh Ossian dibacakan di aula dengan suara yang mencoba tenang tetapi gagal:
 
-"Dengan hormat, berdasarkan rekomendasi langsung Ketua Majelis Dewan Regional, Saudari Sela diterima sebagai murid Akademi Arsip Tinggi — program arsiparist terbaik di dunia — tanpa tes masuk."
+"Dengan hormat, berdasarkan rekomendasi langsung Ketua Majelis Dewan Regional, Saudari Sela diterima sebagai murid Akademi Arsip Tinggi — program arsiparis terbaik di dunia — tanpa tes masuk."
 
 "Tanpa tes?" Kovan menoleh. "Itu belum pernah terjadi dalam sejarah akademi."
 
@@ -98,7 +98,7 @@ Surat pertama dari Sela tiba lewat nat pos. Ashvarok-Renn membacanya bersama di 
 
 "KAK!
 
-Spire sangat besar. Kamar aku kecil tapi ada jendela menghadap menara arsip (KAK, MENARA ARSIPNYA SETINGGI LANGIT).
+Spire sangat besar. Kamar aku kecil tetapi ada jendela menghadap menara arsip (KAK, MENARA ARSIPNYA SETINGGI LANGIT).
 
 Hari pertama: guru bertanya kenapa mau jadi arsiparis. Semua jawab panjang teori. Jawabanku hanya satu kalimat dan seluruh kelas diam:
 
@@ -114,7 +114,7 @@ Dan di bawah surat itu, satu balasan ditulis malam harinya oleh dua tangan berga
 
 "SELAA!
 
-Menara arsipnya memang setinggi langit. Tapi ingat: yang membuat arsip hebat bukan tinggi gedungnya — isi hati penulisnya. Dan kamu punya lebih dari cukup.
+Menara arsipnya memang setinggi langit. Namun ingat: yang membuat arsip hebat bukan tinggi gedungnya — isi hati penulisnya. Dan kamu punya lebih dari cukup.
 
 Cerita lucu minggu ini: ibu Tamma mencoba resep Vel-Morra dan hasilnya 'seperti sup yang ditenun' — kata dia sendiri. Kami belum yakin itu pujian atau keluhan.
 
@@ -140,7 +140,7 @@ Dan satu baris terakhir dari Ashvarok-Renn — di jurnal bersama:
 
 "Hari 1.045.
 
-Rumah terasa lebih sepi tanpa Sela. Tapi tidak pernah sepi benar-benar — karena setiap sudut barak ini ada kenangannya: papan tulis pertamanya, kotak arsip pertamanya, kursi tempat dia menangis dan tertawa.
+Rumah terasa lebih sepi tanpa Sela. Namun tidak pernah sepi benar-benar — karena setiap sudut barak ini ada kenangannya: papan tulis pertamanya, kotak arsip pertamanya, kursi tempat dia menangis dan tertawa.
 
 Dan setiap malam, nat lorong mengetuk tiga kali.
 
@@ -180,7 +180,7 @@ Semua jawab teknis. Redundansi. Keamanan. Bencana.
 
 Aku angkat tangan dan bilang: 'Karena kalau satu salinan hilang, masih ada dua yang ingat isinya.'
 
-Guru diam lama. Lalu dia nulis prinsipku di papan:
+Guru diam lama. Lalu dia menulis prinsipku di papan:
 
 'ARSIP = INGATAN YANG DIBAGI.'
 
@@ -188,7 +188,7 @@ Kak. Itu persis seperti keluarga kita, kan?
 
 Satu ingatan dibagi tiga orang (empat dengan penghuni dalam) — supaya tidak pernah benar-benar hilang.
 
-Aku kangen kalian. Tapi aku juga bangga: kita sudah jadi prinsip akademi tanpa sadar.
+Aku kangen kalian. Namun aku juga bangga: kita sudah jadi prinsip akademi tanpa sadar.
 
 — Sela, dari menara langit"
 
@@ -218,9 +218,9 @@ Dan satu penutup dari ibu Tamma — yang membaca semua surat itu dan menambahkan
 
 Bagus. Bagus semua.
 
-Tapi aku tambahkan satu hal yang tidak diajarkan akademi mana pun:
+Namun aku tambahkan satu hal yang tidak diajarkan akademi mana pun:
 
-RUMAH BISA DIBAGI TIGA TEMPAT, TAPI SUP HANYA ADA SATU TEMPAT.
+RUMAH BISA DIBAGI TIGA TEMPAT, NAMUN SUP HANYA ADA SATU TEMPAT.
 
 Dan sup itu di sini.
 
@@ -250,7 +250,7 @@ RUMAH YANG BAIK MEMASTIKAN ANAK ITU TAHU — DIA BOLEH TERBANG SETINGGI APA PUN,
 
 SEPERTI NAT. AKU TIDAK PERNAH PERGI KE MANA-MANA.
 
-TAPI DELAPAN RATUS TAHUN SEMUA ORANG DATANG KE PADAKU."
+NAMUN DELAPAN RATUS TAHUN SEMUA ORANG DATANG KE PADAKU."
 
 ---
 
@@ -270,7 +270,7 @@ Dan penutup bab — dari ibu Tamma, di buku dapurnya:
 
 Sup malam ini dimasak porsi kecil — karena satu orang sedang makan sup enak di menara langit sana.
 
-Tapi tungku tetap menyala. Karena dia akan pulang.
+Namun tungku tetap menyala. Karena dia akan pulang.
 
 Dan rumah ini tidak pernah biarkan sup dingin untuk anak yang pulang."
 

@@ -5,17 +5,17 @@ chapter: 182
 
 Barim menghabiskan tiga hari pertama dengan namanya baru seperti orang berpindah rumah: membuka kotak demi kotak, mengenali isi satu per satu, kadang menangis di barang-barang yang tidak dikiranya masih ada.
 
-Hari pertama ia mengingat wajahnya sendiri — lewat pantulan air bak klinik, ia berdiri lama memandang muka tua itu dan berkata "jadi kau Barim" kepada refleksinya, dan tertawa, dan menangis, dan tertawa lagi. Hari kedua ia mengingat galeri sembilan: bukan sebagai tempat bekerja, tapi sebagai tempat ia belajar mendengarkan — "nat-nat sini bicara kalau didengar sabar," katanya kepada Sela yang mencatat, "dulu semua orang bilang aku pelan. Bukan pelan. Aku mendengarkan." Hari ketiga ia mengingat hal yang membuatnya datang ke gudang perkakas sore harinya dan mengetuk pintu dengan irama tertentu.
+Hari pertama ia mengingat wajahnya sendiri — lewat pantulan air bak klinik, ia berdiri lama memandang muka tua itu dan berkata "jadi kau Barim" kepada refleksinya, dan tertawa, dan menangis, dan tertawa lagi. Hari kedua ia mengingat galeri sembilan: bukan sebagai tempat bekerja, tetapi sebagai tempat ia belajar mendengarkan — "nat-nat sini bicara kalau didengar sabar," katanya kepada Sela yang mencatat, "dulu semua orang bilang aku pelan. Bukan pelan. Aku mendengarkan." Hari ketiga ia mengingat hal yang membuatnya datang ke gudang perkakas sore harinya dan mengetuk pintu dengan irama tertentu.
 
 Ashvarok yang membukakan. Dan membeku di tengah gerakan — karena irama ketukan itu adalah irama yang selama ini mereka terima dari kedalaman tanpa tahu asalnya.
 
 "Ketukanmu sama," kata Ashvarok pelan. "Persis. Yang kita terima dari bawah sana selama ini... itu milikmu, Pak Barim."
 
-"Mungkin dia nyimpan banyak punya orang," kata Barim sederhana. Ia masuk, duduk, dan melanjutkan dengan kalimat yang menjelaskan delapan puluh tahun hidupnya dalam satu paragraf: "Aku penjaga malam. Kerjaannya dengar. Galeri gelap, tidak ada lampu, hanya kuping dan telapak. Semua nat kuhafal suaranya. Termasuk..." ia menoleh ke arah bawah, ke arah aula, "...yang besar itu. Dia paling pendiam dari semuanya. Tapi dia jawab kalau disapa sopan. Dulu aku sering ngobrol sama dia pas shift. Satu arah. Aku ngomong, dia diam. Tapi diamnya... nyaman. Seperti duduk sama orang tua yang sudah terlalu tua untuk basa-basi."
+"Mungkin dia menyimpan banyak punya orang," kata Barim sederhana. Ia masuk, duduk, dan melanjutkan dengan kalimat yang menjelaskan delapan puluh tahun hidupnya dalam satu paragraf: "Aku penjaga malam. Kerjaannya dengar. Galeri gelap, tidak ada lampu, hanya kuping dan telapak. Semua nat kuhafal suaranya. Termasuk..." ia menoleh ke arah bawah, ke arah aula, "...yang besar itu. Dia paling pendiam dari semuanya. Namun dia jawab kalau disapa sopan. Dulu aku sering berbincang sama dia pas shift. Satu arah. Aku berbicara, dia diam. Namun diamnya... nyaman. Seperti duduk sama orang tua yang sudah terlalu tua untuk basa-basi."
 
 Ashvarok duduk di seberangnya, dan untuk beberapa saat dua penjaga malam itu — satu seribu tahun, satu delapan tahun shift — saling memandang dengan pemahaman yang tidak butuh penjelasan.
 
-"Lalu kebocoran datang," kata Barim. "Dan aku lupa semuanya. Termasuk teman bicaraku." Ia mengangkat bahu. "Tapi dia tidak lupa aku. Kau bilang dia simpan suaraku."
+"Lalu kebocoran datang," kata Barim. "Dan aku lupa semuanya. Termasuk teman bicaraku." Ia mengangkat bahu. "Namun dia tidak lupa aku. Kau bilang dia simpan suaraku."
 
 "Delapan belas tahun."
 
@@ -23,15 +23,15 @@ Ashvarok duduk di seberangnya, dan untuk beberapa saat dua penjaga malam itu —
 
 ---
 
-Hari keempat dan kelima, ingatan Barim kembali seperti pasang: konteks dulu (tempat, bunyi, urutan bekerja), lalu wajah, lalu — paling terakhir, paling pelan — perasaan.
+Hari keempat dan kelima, ingatan Barim kembali seperti pasang: konteks dulu (tempat, bunyi, urutan kerja), lalu wajah, lalu — paling terakhir, paling pelan — perasaan.
 
 Yang datang hari kelima membuatnya duduk diam sepanjang sore di halaman gudang: kenapa ia menolak meninggalkan galeri sembilan waktu karantina pertama, kenapa ia selalu menolak semua tawaran pekerjaan permukaan, kenapa ia — kata ibu Tamma — "selalu melirik ke bawah tiap kali lewat lorong timur".
 
-"Karena aku sudah jadi penjaganya," kata Barim akhirnya, kepada Ashvarok dan Sela yang mendengarkan. "Delapan tahun. Bukan hanya bekerja. Sumpah juga, dalam hati. Orang tua dulu bilang nat-nat tua itu butuh didengarin agar tidak kesepian. Jadi aku dengarin. Semua malam." Ia memandang ke arah aula. "Terus kebocoran datang, aku lupa semuanya, dan dia... dia tetap sendirian di bawah sana. Delapan belas tahun tanpa satu pun orang yang menyapa sopan."
+"Karena aku sudah jadi penjaganya," kata Barim akhirnya, kepada Ashvarok dan Sela yang mendengarkan. "Delapan tahun. Bukan hanya bekerja. Sumpah juga, dalam hati. Orang tua dulu bilang nat-nat tua itu butuh didengarkan agar tidak kesepian. Jadi aku dengarkan. Semua malam." Ia memandang ke arah aula. "Terus kebocoran datang, aku lupa semuanya, dan dia... dia tetap sendirian di bawah sana. Delapan belas tahun tanpa satu pun orang yang menyapa sopan."
 
-Ia bangkit. Lelaki tua itu berdiri dengan punggung yang tidak sesuai usia sembilan puluh tahunannya, dan berkata kalimat yang membuat Ashvarok sadar bahwa Barim bukan korban yang baru dipulihkan — Barim adalah rekan bekerja yang baru kembali dari cuti panjang:
+Ia bangkit. Lelaki tua itu berdiri dengan punggung yang tidak sesuai usia sembilan puluh tahunannya, dan berkata kalimat yang membuat Ashvarok sadar bahwa Barim bukan korban yang baru dipulihkan — Barim adalah rekan kerja yang baru kembali dari cuti panjang:
 
-"Jadi kalau kalian mau bawa aku ke utara buat bacain suara-suara itu... boleh. Tapi ada satu mampiran dulu sebelum berangkat. Ke aula." Ia memandang Ashvarok tegak. "Aku mau ketuk temanku sekali lagi. Dan kali ini dia bisa jawab."
+"Jadi kalau kalian mau bawa aku ke utara buat bacain suara-suara itu... boleh. Namun ada satu mampiran dulu sebelum berangkat. Ke aula." Ia memandang Ashvarok tegak. "Aku mau ketuk temanku sekali lagi. Dan kali ini dia bisa jawab."
 
 ---
 
@@ -45,7 +45,7 @@ Dan dari kedalaman — dari retakan yang selama ini menyanyi lagu Hegemony dan m
 
 Barim tertawa di kegelapan. Tawa tua yang jujur. "Dia inget," katanya. "Delapan belas tahun, dan dia inget kode kita."
 
-Lalu ia berbicara kepada aula — satu arah lagi, seperti dulu, tapi malam ini ada dua pihak yang sadar: "Aku pergi sebentar ya. Ke utara, bekerja. Nanti aku balik, ceritain apa yang kudengar di sana. Kamu menjaga rumah." Jeda. "Dan... maaf ya, lupa sama kamu delapan belas tahun. Bukan maksud hati."
+Lalu ia berbicara kepada aula — satu arah lagi, seperti dulu, tetapi malam ini ada dua pihak yang sadar: "Aku pergi sebentar ya. Ke utara, bekerja. Nanti aku balik, ceritakan apa yang kudengar di sana. Kamu menjaga rumah." Jeda. "Dan... maaf ya, lupa sama kamu delapan belas tahun. Bukan maksud hati."
 
 Sapuan menjawab dengan irama yang Kovan — yang mendengar dari node pertama, karena malam ini semua pendengar diminta mencatat — kelak menerjemahkannya sebagai kalimat paling panjang yang pernah dikirim kedalaman: "Tidak apa-apa. Aku simpan semuanya. Pergi dan pulang selamat."
 
@@ -76,7 +76,7 @@ Di bawahnya lagi, kapur ketiga (Sela), yang membuat kedua lelaki itu diam membac
 ---
 
 Hari keenam dan ketujuh pemulihan Barim membawa ingatan yang tidak ditunggu siapa pun: keluarganya.
-Ia tidak punya istri. Ia tidak punya anak. Tapi ia punya SEORANG — seorang keponakan, anak saudarinya yang pindah ke pelabuhan selatan dua puluh tahun silam, yang dulu mengirim surat tiap musim panen sampai suratnya berhenti datang delapan belas tahun silam.
+Ia tidak punya istri. Ia tidak punya anak. Namun ia punya SEORANG — seorang keponakan, anak saudarinya yang pindah ke pelabuhan selatan dua puluh tahun silam, yang dulu mengirim surat tiap musim panen sampai suratnya berhenti datang delapan belas tahun silam.
 "Suratnya berhenti karena aku berhenti balas," kata Barim kepada Ashvarok malam itu, dengan kejernihan orang yang baru melihat lukanya sendiri dari jarak yang benar. "Bukan dia yang lupa aku. Aku yang hilang dari hidupnya. Dan dia pasti pikir aku mati. Mungkin dia sudah bakar kubur simbolis buatku." Jeda panjang. "Ada satu cara tahu dia masih hidup atau tidak."
 Ashvarok sudah menulis suratnya sebelum Barim selesai berkata "pelabuhan selatan" — dan menandatanganinya dengan jabatan yang membuat surat itu dijamin sampai: Kantor Penghubung Utara Caldrest, Ossian Vael.
 Lanjutan bab 182.
@@ -91,7 +91,7 @@ Barim membacanya berdiri, di halaman klinik, dengan tangan yang tidak stabil. Is
 
 Barim melipat surat itu. Meletakkannya di saku dada — tempat yang sama dengan Ossian menyimpan suara Vessia, dan Ashvarok baru menyadari bahwa itu sudah menjadi tradisi Caldrest tanpa pernah disepakati: saku dada kanan adalah tempat surat orang yang dicintai.
 
-"Delapan belas tahun dia simpan tulisan tanganku," kata Barim akhirnya. "Dan ibunya sampai akhir yakin aku hidup." Ia memandang Ashvarok, dan ada sesuatu yang baru di wajah tua itu — bukan lagi korban yang pulih, tapi keluarga yang punya alasan hidup lebih lama:
+"Delapan belas tahun dia simpan tulisan tanganku," kata Barim akhirnya. "Dan ibunya sampai akhir yakin aku hidup." Ia memandang Ashvarok, dan ada sesuatu yang baru di wajah tua itu — bukan lagi korban yang pulih, tetapi keluarga yang punya alasan hidup lebih lama:
 
 "Tambahkan satu nama di daftar utara. Bukan untuk dibaca. Supaya kedalaman tahu: yang dititipkan dia tidak hanya nyawa. Ada juga yang menitipkan hati."
 

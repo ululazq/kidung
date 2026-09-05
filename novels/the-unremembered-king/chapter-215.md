@@ -55,9 +55,9 @@ Dan tangan kesebelas, yang oleh Dewan ditulis "penjaga yang menyegelnya": Ashvar
 
 ---
 
-Upacara penandatanganan dilakukan di aula — di mana lagi — sepuluh hari kemudian, dan menjadi acara hukum paling tidak lazim yang pernah disaksikan Karvess: meja panjang didominasi dokumen, tapi di ujungnya ada nat Karveth-Ulm yang hangat, ember air sesuai protokol api, dan teh ibu Tamma yang dialirkan tanpa henti.
+Upacara penandatanganan dilakukan di aula — di mana lagi — sepuluh hari kemudian, dan menjadi acara hukum paling tidak lazim yang pernah disaksikan Karvess: meja panjang didominasi dokumen, tetapi di ujungnya ada nat Karveth-Ulm yang hangat, ember air sesuai protokol api, dan teh ibu Tamma yang dialirkan tanpa henti.
 
-Para tamu datang dari seluruh Karvess: delegasi lima negara penerus Hegemony (yang datang "hanya mengamati" tapi semua ikut menandatangani daftar hadir dengan tulisan tangan mereka sendiri — keputusan yang nanti terbukti penting secara hukum, karena tanda tangan di daftar hadir dokumen pengakuan berdaulat, menurut Maera, "secara teknis membuat kalian saksi; selamat"); utusan the Resonant Choir yang hadir tanpa jubah abunya untuk pertama kalinya dalam sejarah kunjungan Choir ke mana pun; dan para penjaga malam pensiunan yang bukunya menjadi bahan ajar akademi.
+Para tamu datang dari seluruh Karvess: delegasi lima negara penerus Hegemony (yang datang "hanya mengamati" tetapi semua ikut menandatangani daftar hadir dengan tulisan tangan mereka sendiri — keputusan yang nanti terbukti penting secara hukum, karena tanda tangan di daftar hadir dokumen pengakuan berdaulat, menurut Maera, "secara teknis membuat kalian saksi; selamat"); utusan the Resonant Choir yang hadir tanpa jubah abunya untuk pertama kalinya dalam sejarah kunjungan Choir ke mana pun; dan para penjaga malam pensiunan yang bukunya menjadi bahan ajar akademi.
 
 Enam pejabat Dewan menandatangani dengan pena. Tiga wakil Caldrest dan dua wakil utara menandatangani juga dengan pena — meski Sela sempat meminta kapur dulu dan membuat semua orang tertawa.
 
@@ -81,7 +81,7 @@ Tawa yang naik dari aula malam itu — tawa ribuan orang sekaligus, karena upaca
 
 ---
 
-Setelah upacara, sebelum tamu-tamu pulang, terjadi satu peristiwa kecil yang tidak masuk notula tapi masuk semua ingatan: Rina — yang dibawa ibunya menonton — berjalan terhuyung ke nat Karveth-Ulm, meletakkan telapak tangan mungilnya tepat di samping cap meterai api itu, dan api menjawab dengan hangat yang pas ukuran tangan bayi.
+Setelah upacara, sebelum tamu-tamu pulang, terjadi satu peristiwa kecil yang tidak masuk notula tetapi masuk semua ingatan: Rina — yang dibawa ibunya menonton — berjalan terhuyung ke nat Karveth-Ulm, meletakkan telapak tangan mungilnya tepat di samping cap meterai api itu, dan api menjawab dengan hangat yang pas ukuran tangan bayi.
 
 "Dia kenal," kata ibu Rina pelan.
 
@@ -105,7 +105,7 @@ Lalu kedalaman mengirim kalimat penutup malam — pendek, dalam bahasa penjaga, 
 
 Dan Sela menutup batch era ini dengan entri neraca yang dibacakannya keras-keras di aula esok paginya, sesuai tradisi:
 
-"Hari 541. The Patient House: entitas berdaulat resmi Karvess — yang pertama dan satu-satunya, ditandatangani dua belas tangan dan satu cap api. Neraca keseluruhan: dunia memberinya segel; Hegemony memberinya kunci; Choir memberinya ketakutan; Caldrest memberinya nama; dan Dewan Regional akhirnya memberinya apa yang paling lama ia tunggu — bukan nama, bukan hadiah, melainkan KERTAS RESMI yang menyatakan bahwa ia ada." Ia menutup papan. "Kadang pengakuan paling besar memang hanya selembar kertas. Tapi bagi yang seribu tahun tidak pernah disebut ada — selembar kertas itu seluruh dunia."
+"Hari 541. The Patient House: entitas berdaulat resmi Karvess — yang pertama dan satu-satunya, ditandatangani dua belas tangan dan satu cap api. Neraca keseluruhan: dunia memberinya segel; Hegemony memberinya kunci; Choir memberinya ketakutan; Caldrest memberinya nama; dan Dewan Regional akhirnya memberinya apa yang paling lama ia tunggu — bukan nama, bukan hadiah, melainkan KERTAS RESMI yang menyatakan bahwa ia ada." Ia menutup papan. "Kadang pengakuan paling besar memang hanya selembar kertas. Namun bagi yang seribu tahun tidak pernah disebut ada — selembar kertas itu seluruh dunia."
 
 Kapur gadis itu diletakkan. Aula menunggu kalimat penutupnya yang biasa.
 

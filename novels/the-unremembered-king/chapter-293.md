@@ -11,7 +11,7 @@ Murid angkatan keempat Sekolah Mendengar, yang delapan belas tahun silam belum l
 
 Mereka menyapa. Batu itu menyala pelan, seperti biasa — denyut hangat yang sejak delapan belas tahun silam menjadi tanda kehadiran, bukan jawaban.
 
-Tapi kali ini, saat Yuni menempelkan telapak ke batu, suara yang keluar bukan suara Pembaca Tua. Bukan juga tawa biara. Itu suara kambing — "mbek" panjang yang bergetar di batu, seolah batu itu meniru hewan yang duduk di sisinya.
+Namun kali ini, saat Yuni menempelkan telapak ke batu, suara yang keluar bukan suara Pembaca Tua. Bukan juga tawa biara. Itu suara kambing — "mbek" panjang yang bergetar di batu, seolah batu itu meniru hewan yang duduk di sisinya.
 
 Murid-murid saling pandang.
 
@@ -29,9 +29,9 @@ Berita itu sampai ke barak utara lewat kurir pos. Ashvarok-Renn membacanya di me
 
 Sela, yang lewat, membaca catatan itu. "Kau tidak kaget batu itu menjawab kambing, bukan Pembaca Tua?"
 
-"Tidak." Ashvarok-Renn menutup buku. "Delapan belas tahun silam Pembaca Tua wafat dan kita berpikir batu itu miliknya. Tapi batu bukan milik orang mati. Batu milik tempat. Dan tempat itu kini dijaga kambing. Berarti penjaga bergeser ke yang tinggal, bukan yang pergi."
+"Tidak." Ashvarok-Renn menutup buku. "Delapan belas tahun silam Pembaca Tua wafat dan kita berpikir batu itu miliknya. Namun batu bukan milik orang mati. Batu milik tempat. Dan tempat itu kini dijaga kambing. Berarti penjaga bergeser ke yang tinggal, bukan yang pergi."
 
-Sela mencatat di papan: *Batu Pembaca Tua menjawab kambing — bukan karena rusak, tapi karena yang menjaga batu sekarang adalah kambing. Warisan bukan selalu manusia.*
+Sela mencatat di papan: *Batu Pembaca Tua menjawab kambing — bukan karena rusak, tetapi karena yang menjaga batu sekarang adalah kambing. Warisan bukan selalu manusia.*
 
 "Kalau begitu," kata Sela, "kita tidak perlu khawatir kalau semua orang besar pergi. Tempat akan dicari penjaganya sendiri."
 
@@ -63,9 +63,9 @@ Yuni maju, tidak menghalangi, hanya berdiri di antara Tore dan batu. "Pak Tore, 
 
 Tore terdiam. Ia menatap kambing tua yang diam di sisi batu, lalu melepas talinya.
 
-"Tidak pernah kupikir kambing bisa jadi penjaga," kata Tore. "Tapi kalau batu yang bilang, siapa aku menolak."
+"Tidak pernah kupikir kambing bisa jadi penjaga," kata Tore. "Namun kalau batu yang bilang, siapa aku menolak."
 
-Ia pergi meninggalkan kambing-kambing itu. Yuni menulis di daun: *Tore mau pindahkan kambing. Kami jelaskan batu menerima siapa pun yang hadir. Ia mengerti. Penjaga sah bukan yang kita pilih, tapi yang batu terima.*
+Ia pergi meninggalkan kambing-kambing itu. Yuni menulis di daun: *Tore mau pindahkan kambing. Kami jelaskan batu menerima siapa pun yang hadir. Ia mengerti. Penjaga sah bukan yang kita pilih, tetapi yang batu terima.*
 
 ---
 
@@ -85,7 +85,7 @@ Mereka melanjutkan jalan. Brannoc menulis di buku kecilnya malam itu: *Vhal-Dure
 
 Yuni, sebelum pulang ke Caldrest, menulis surat pendek ke Ashvarok-Renn:
 
-*Pak, batu di Vhal-Duren menjawab kambing, bukan Pembaca Tua. Kami tidak bangunkan suara tawanya. Kami biarkan ia menjaga tempat dengan caranya. Pelajaran yang kuterima: warisan bukan orang yang pergi, tapi kehadiran yang tinggal. Kambing sehaknya seberat raja di ingatan batu itu.*
+*Pak, batu di Vhal-Duren menjawab kambing, bukan Pembaca Tua. Kami tidak bangunkan suara tawanya. Kami biarkan ia menjaga tempat dengan caranya. Pelajaran yang kuterima: warisan bukan orang yang pergi, tetapi kehadiran yang tinggal. Kambing sehaknya seberat raja di ingatan batu itu.*
 
 Ashvarok-Renn membaca surat itu di barak utara, lalu menulis di buku kecilnya: *Mereka mengerti. Arc warisan tidak perlu semua orang besar tetap hidup. Cukup ada yang hadir di tempat yang ditinggalkan. Manusia atau bukan.*
 
@@ -103,7 +103,7 @@ Brannoc mengangguk. "Penjaga diam memang begitu. Ia jaga yang tidak diperhatikan
 
 Mereka meninggalkan biara dengan bilah tersampaikan. Dalam perjalanan pulang, Harn menatap ayahnya. "Bapak, kalau suatu hari aku wafat, apa yang kau tinggalkan di dinding sekolah tetap dijaga palu dan kontrak?"
 
-"Dijaga oleh siapa pun yang lewat," jawab Brannoc. "Sama seperti batu di Vhal-Duren. Bukan porque nama. Karena kehadiran."
+"Dijaga oleh siapa pun yang lewat," jawab Brannoc. "Sama seperti batu di Vhal-Duren. Bukan karena nama. Karena kehadiran."
 
 ---
 

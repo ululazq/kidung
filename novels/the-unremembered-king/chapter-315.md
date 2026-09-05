@@ -33,7 +33,7 @@ Ia menutup botol salep dan pergi tanpa kalimat panjang. Di ambang, ibu Tamma men
 
 "Pasal itu," jawab ibu Tamma.
 
-Ashvarok-Renn dari sudut ruangan mengamati pertukaran itu tanpa mencela. Di barak, setiap tindakan besar selalu didahului hal kecil: sup, salep, ketukan. Disiplin bukanlah dinding, melainkan urutan.
+Ashvarok-Renn dari sudut ruangan mengamati pertukaran itu tanpa mencela. Di barak, setiap tindakan besar selalu didahului hal kecil: sup, salep, ketukan. Disiplin bukanlah dinding — melainkan urutan.
 
 "Bukan sudah," jawab Ashvarok-Renn dari sudut ruangan. "Itu langkah yang tidak bisa ditarik balik. Sebelum ini, laporan angin hanya angka yang melayang. Sekarang angka itu punya tangan. Dan tangan itu nama tertulis di arsip Spire."
 
@@ -93,7 +93,7 @@ Kovan membawa buku anomali ke meja dan membukanya di samping laporan bulanan Mir
 
 "Benang yang kita tidak pegang ujungnya di Spire," jawab Ashvarok-Renn.
 
-"Tapi kita pegang ujungnya di sini," kata Kovan. "Dan Mira pegang ujungnya di menara. Selama kami berdua mencatat angka yang sama, Spire tidak punya ruang memutar cerita. Mereka bisa bilang katup, tetapi kertas kita hanya bilang angin. Kata mereka dan kertas kita tidak cocok. Itu pelindung."
+"Namun kita pegang ujungnya di sini," kata Kovan. "Dan Mira pegang ujungnya di menara. Selama kami berdua mencatat angka yang sama, Spire tidak punya ruang memutar cerita. Mereka bisa bilang katup, tetapi kertas kita hanya bilang angin. Kata mereka dan kertas kita tidak cocok. Itu pelindung."
 
 Maera menatap angka-angka itu lama. "Ossian tahu ini sejak awal. Ia yang suruh Mira menulis namanya sendiri, bukan kau yang menulis. Ia ingin ada saksi yang angkanya cocok dengan buku bawah tanah tanpa pernah membacanya. Kesesuaian itu pelindungnya."
 
@@ -119,7 +119,7 @@ Angka itu kini punya nama, punya tangan, punya irama yang diulang oleh dua belas
 
 Di menara utara, perawat tua membuka buku catatan, menulis baris baru di bawah angka bulan itu: *Laporan bulanan pertama bertangan dikirim. Tangan: Mira. Alamat: aktif.*
 
-Ia tidak menutup buku. Ia meninggalkannya terbuka di kursi kosong, seolah menunggu orang yang namanya kini ada di dua tempat sekaligus — di arsip Spire, dan di ruang tengah barak yang tidak punya nama di atas kertas mana pun.
+Ia tidak menutup buku. Ia meninggalkannya terbuka di kursi kosong — seolah menunggu orang yang namanya kini ada di dua tempat sekaligus — di arsip Spire, dan di ruang tengah barak yang tidak punya nama di atas kertas mana pun.
 
 Ashvarok-Renn menutup pintu serambi, menatap ke utara lewat celahnya. Di sana, di balik bukit yang tidak terlihat, jantung Choir baru saja menerima benang pertama yang ditarik dari sebuah menara kecil di tepi jalan. Dan benang itu, untuk pertama kalinya, memiliki nama yang bisa mereka jawab bila suatu hari mereka memutuskan untuk bertanya lebih dari sekadar angin.
 
@@ -127,4 +127,4 @@ Ia kembali ke ruang tengah, membuka buku anomali, dan menulis satu baris di bagi
 
 *Bab penutup Saksi Angin: laporan bulanan pertama bertangan telah dikirim. Nama di arsip: Mira. Angka cocok dengan irama bawah tanah. Keputusan tetap: tidak turun, tidak sebut katup, biarkan mereka membaca angin. Jaringan diam kini punya simpul resmi di Spire. Ujung barak tetap tidak bernama. Itu keuntungan kami.*
 
-Ia menutup buku itu dan meletakkannya di rak bersama buku-buku lain yang tidak pernah dibaca siapa pun kecuali tangannya. Di luar, angin malam masuk dari selatan melalui celah yang tidak disebut namanya di kertas mana pun, membawa napas yang sama dengan yang Mira catat tiap subuh. Benang pertama telah ditarik penuh, dijawab, dan dibiarkan hidup sebagai angka. Sisanya, seperti yang selalu dikatakan Ashvarok-Renn, bukan urusan mereka yang memegang ujung yang tidak punya nama.
+Ia menutup buku itu dan meletakkannya di rak bersama buku-buku lain yang tidak pernah dibaca siapa pun kecuali tangannya. Di luar, angin malam masuk dari selatan melalui celah yang tidak disebut namanya di kertas mana pun, membawa napas yang sama dengan yang Mira catat tiap subuh. Benang pertama telah ditarik penuh, dijawab, dan dibiarkan hidup sebagai angka. Sisanya — seperti yang selalu dikatakan Ashvarok-Renn — bukan urusan mereka yang memegang ujung yang tidak punya nama.

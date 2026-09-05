@@ -13,11 +13,11 @@ Wida menggeleng. "Bukan berhenti mendengar. Berhenti MENYAPA. Pengurus tua merek
 
 Ashvarok-Renn meletakkan catatan. "Mema."
 
-"Ia yang mulai menyapa di kampung itu delapan belas tahun silam, waktu Mema masih muda dan kampung itu baru pulih dari remodeling Hegemony." Wida duduk di kursi sudut yang kosong. "Sekarang ia di rumah anaknya di utara. Tidak bisa kembali setiap pagi."
+"Ia yang mulai menyapa di kampung itu delapan belas tahun silam, waktu Mema masih muda dan kampung itu baru pulih dari perombakan Hegemony." Wida duduk di kursi sudut yang kosong. "Sekarang ia di rumah anaknya di utara. Tidak bisa kembali setiap pagi."
 
 Diam sejenak. Di bab-bab sebelumnya, adegan seperti ini berakhir dengan Ashvarok-Renn turun tangan — pergi ke tempat itu, berdiri di pintu, memulai menyapa sendiri sampai kebiasaan hidup kembali. Itu cara lama. Itu cara saat dunia masih menunggu satu raja yang tidak tidur.
 
-Tapi hari ini Ashvarok-Renn hanya menatap catatan itu lebih lama.
+Namun hari ini Ashvarok-Renn hanya menatap catatan itu lebih lama.
 
 "Bawa ini ke kampung tiga jalur," katanya akhirnya, menulis beberapa baris di lembaran terpisah. "Bukan aku yang datang. Catatan ini."
 
@@ -45,21 +45,21 @@ Bukan semua orang membalas. Seorang lelaki tua yang delapan belas tahun silam me
 
 "Kau bukan Mema," kata lelaki tua itu lewat gerbang, tidak berhenti. "Aku tidak perlu kabar dari orang yang tidak kukenal."
 
-Pemuda itu terdiam sejenak. Berto, yang berdiri di balik tiang balai, hampir turun untuk membela. Tapi ia ingat kalimat di catatan Ashvarok-Renn: *kebiasaan ini milik kampung, bukan milik Mema.*
+Pemuda itu terdiam sejenak. Berto, yang berdiri di balik tiang balai, hampir turun untuk membela. Namun ia ingat kalimat di catatan Ashvarok-Renn: *kebiasaan ini milik kampung, bukan milik Mema.*
 
-Ia mendekati lelaki tua itu setelah ia lewat. "Pak, bukan aku yang penting. Tapi kalau Bapak lewat tiap pagi tanpa kabar, tetangga tidak tahu Bapak masih ada. Itu rugi kita semua."
+Ia mendekati lelaki tua itu setelah ia lewat. "Pak, bukan aku yang penting. Namun kalau Bapak lewat tiap pagi tanpa kabar, tetangga tidak tahu Bapak masih ada. Itu rugi kita semua."
 
 Lelaki tua itu berhenti. Menoleh pelan. "Mema dulu tahu namaku."
 
-"Ya. Dan besok aku akan tahu namamu juga. Tapi bukan dengan memaksa. Dengan bertanya tiap pagi sampai kuingat."
+"Ya. Dan besok aku akan tahu namamu juga. Namun bukan dengan memaksa. Dengan bertanya tiap pagi sampai kuingat."
 
-Lelaki tua itu mendengus, tapi langkahnya melambat. Besok pagi, saat pemuda itu menyapa, lelaki tua itu membalas satu kata: "Sono." Bukan kabar. Tapi nama. Itu cukup untuk hari pertama.
+Lelaki tua itu mendengus, tetapi langkahnya melambat. Besok pagi, saat pemuda itu menyapa, lelaki tua itu membalas satu kata: "Sono." Bukan kabar. Namun nama. Itu cukup untuk hari pertama.
 
-Berto menulis di buku kecilnya malam itu: *Sono tidak langsung terbuka. Tapi ia berhenti menolak. Kadang menolak adalah cara orang tua mengatakan "aku belum siap dikenal lagi." Kita beri waktu.*
+Berto menulis di buku kecilnya malam itu: *Sono tidak langsung terbuka. Namun ia berhenti menolak. Kadang menolak adalah cara orang tua mengatakan "aku belum siap dikenal lagi." Kita beri waktu.*
 
-Satu demi satu, penduduk yang lewat membalas. Ada yang terkejut. Ada yang tertawa kecil. Ada yang hanya mengangguk. Tapi arus itu kembali — bukan deras, hanya tetes demi tetes, seperti air yang mulai mengalir di saluran yang lama kering.
+Satu demi satu, penduduk yang lewat membalas. Ada yang terkejut. Ada yang tertawa kecil. Ada yang hanya mengangguk. Namun arus itu kembali — bukan deras, hanya tetes demi tetes, seperti air yang mulai mengalir di saluran yang lama kering.
 
-Berto menulis di buku kecilnya: *Hari pertama tanpa Mema, tapi dengan penyapa baru. Kebiasaan tidak mati saat orang pergi. Ia mati saat yang tinggal berpikir itu bukan urusan mereka.*
+Berto menulis di buku kecilnya: *Hari pertama tanpa Mema, tetapi dengan penyapa baru. Kebiasaan tidak mati saat orang pergi. Ia mati saat yang tinggal berpikir itu bukan urusan mereka.*
 
 ---
 
@@ -89,7 +89,7 @@ Di barak utara, tiga hari setelah catatan dikirim, Gella datang membawa laporan 
 
 "Dan kalau tidak?"
 
-"Kalau tidak, kita ajarkan lagi. Tapi dari bawah, bukan dari atas." Ashvarok-Renn menatap mangkuk sup dingin di depannya. "Delapan belas tahun aku yang memulai setiap menyapa di dunia ini. Mungkin saatnya aku berhenti memulai, supaya dunia belajar memulai sendiri."
+"Kalau tidak, kita ajarkan lagi. Namun dari bawah, bukan dari atas." Ashvarok-Renn menatap mangkuk sup dingin di depannya. "Delapan belas tahun aku yang memulai setiap menyapa di dunia ini. Mungkin saatnya aku berhenti memulai, supaya dunia belajar memulai sendiri."
 
 Gella terdiam. Lalu ia mengangguk pelan. "Itu bukan pasif. Itu percaya."
 
@@ -97,19 +97,19 @@ Gella terdiam. Lalu ia mengangguk pelan. "Itu bukan pasif. Itu percaya."
 
 ---
 
-Di kampung tiga jalur, seminggu berlalu. Penyapa pagi bergiliran — tidak lagi satu orang, tapi tiga pemuda yang sepakat jaga hari bergantian. Nama mereka tidak tercatat di buku besar mana pun, tidak ada yang menghitung berapa kali mereka berdiri di pintu. Mereka melakukannya karena tetangga membalas, dan membalas itu terasa seperti rumah.
+Di kampung tiga jalur, seminggu berlalu. Penyapa pagi bergiliran — tidak lagi satu orang, tetapi tiga pemuda yang sepakat jaga hari bergantian. Nama mereka tidak tercatat di buku besar mana pun, tidak ada yang menghitung berapa kali mereka berdiri di pintu. Mereka melakukannya karena tetangga membalas, dan membalas itu terasa seperti rumah.
 
-Mema, di rumah anaknya di utara, menerima kabar itu lewat kurir pos yang dibaca cucunya. Ia tersenyum, lalu kembali ke kebunnya. Tidak ada rasa kehilangan. Ia tahu pintu kampungnya kini dijaga, bukan oleh namanya, tapi oleh kebiasaan yang ia tanam delapan belas tahun silam.
+Mema, di rumah anaknya di utara, menerima kabar itu lewat kurir pos yang dibaca cucunya. Ia tersenyum, lalu kembali ke kebunnya. Tidak ada rasa kehilangan. Ia tahu pintu kampungnya kini dijaga, bukan oleh namanya, tetapi oleh kebiasaan yang ia tanam delapan belas tahun silam.
 
 Yang Dulu Sunyi, di barak utara, mencatat distrik itu kembali ke lagu dengan satu detak hangat yang bisa didengar sampai ke lembah selatan. Bukan lagu nama. Hanya tanda bahwa sesuatu yang nyaris mati telah hidup kembali tanpa satu pun raja yang turun tangan.
 
-Satu bulan setelah catatan itu dikirim, Berto di kampung tiga jalur menerima balasan. Bukan dari Ashvarok-Renn langsung, tapi dari Wida yang meneruskan kabar pos: *Kampungmu tidak perlu balasan dariku. Kalian sudah menjawab sendiri dengan berdiri di pintu. Itu jawaban yang kucari.*
+Satu bulan setelah catatan itu dikirim, Berto di kampung tiga jalur menerima balasan. Bukan dari Ashvarok-Renn langsung, tetapi dari Wida yang meneruskan kabar pos: *Kampungmu tidak perlu balasan dariku. Kalian sudah menjawab sendiri dengan berdiri di pintu. Itu jawaban yang kucari.*
 
 Berto membacanya di balai, lalu menunjukkannya ke Sono yang kini tiap pagi membalas sapaan dengan kabar cuaca.
 
 "Raja bilang kita sudah jawab," kata Berto.
 
-Sono mengangguk pelan. "Ia benar. Tapi yang jawab bukan raja. Kita."
+Sono mengangguk pelan. "Ia benar. Namun yang jawab bukan raja. Kita."
 
 Mereka kembali ke pintu. Fajar. Tiga pemuda bergiliran. Satu lelaki tua bernama Sono lewat, membalas dengan kabar. Tidak ada yang ingat lagi kapan tepatnya kebiasaan itu hidup kembali. Yang mereka ingat hanyalah: suatu pagi, seseorang berdiri di pintu, dan tetangga membalas.
 
@@ -119,7 +119,7 @@ Di barak utara, malam yang sama, Sela duduk di bangku sekolah menyusun papan tul
 
 "Kau tidak khawatir," kata Sela, "kalau distrik lain ikut berhenti dan tidak bangkit sendiri?"
 
-"Khawatir." Ashvarok-Renn duduk di kursi sudut. "Tapi khawatir bukan berarti aku harus turun tangan tiap kali. Khawatir berarti aku siapkan catatan cara, seperti yang kuberi ke Rerun. Kalau mereka bangkit, syukur. Kalau tidak, kita datang — tapi sebagai tetangga, bukan sebagai raja."
+"Khawatir." Ashvarok-Renn duduk di kursi sudut. "Namun khawatir bukan berarti aku harus turun tangan tiap kali. Khawatir berarti aku siapkan catatan cara, seperti yang kuberi ke Rerun. Kalau mereka bangkit, syukur. Kalau tidak, kita datang — tetapi sebagai tetangga, bukan sebagai raja."
 
 Sela menatap papan tulisnya. "Itu bedanya. Dulu kau datang sebagai raja yang tahu jawaban. Sekarang kau datang sebagai tetangga yang tahu CARA."
 
@@ -133,4 +133,4 @@ Dan Ashvarok-Renn, malam itu, menulis di buku kecilnya kalimat yang delapan bela
 
 Ia menutup buku, menghabiskan sup yang sudah dingin, dan untuk pertama kalinya membiarkan sebuah distrik sembuh tanpa kehadirannya.
 
-Di kampung tiga jalur, nat lorong kecil yang dulu Mema pasang di pintu balai kini menyala setiap fajar saat penyapa berdiri. Anak-anak yang delapan belas tahun silam belum lahir belajar menyapa dari situ — bukan karena diajarkan, tapi karena melihat tetangga melakukannya. Mema, jauh di utara, tidak tahu nat itu menyala. Tapi setiap kali ia menyiram kebun, ada rasa bahwa pintu kampungnya masih dijaga oleh sesuatu yang lebih awet dari namanya.
+Di kampung tiga jalur, nat lorong kecil yang dulu Mema pasang di pintu balai kini menyala setiap fajar saat penyapa berdiri. Anak-anak yang delapan belas tahun silam belum lahir belajar menyapa dari situ — bukan karena diajarkan, tetapi karena melihat tetangga melakukannya. Mema, jauh di utara, tidak tahu nat itu menyala. Namun setiap kali ia menyiram kebun, ada rasa bahwa pintu kampungnya masih dijaga oleh sesuatu yang lebih awet dari namanya.

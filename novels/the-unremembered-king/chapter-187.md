@@ -19,13 +19,13 @@ Sareth berdiri di ambang ruang pertama dan tidak masuk-masuk selama satu menit p
 
 Tiga pekan mereka bekerja di menara — katalogisasi, verifikasi, pencocokan dengan daftar empat puluh tujuh nama Ossian dan registri mimpi Caldrest. Hasilnya melebihi harapan:
 
-Semua empat ratus jiwa utara TERIDENTIFIKASI: nama lengkap, tanggal, keluarga, pekerjaan. Bukan lagi "korban sembilan" atau "jiwa nomor" — tapi manusia bernama, dengan rumah dan cerita, siap dipanggil pulang satu per satu sesuai jadwal armada yang disusun Maera.
+Semua empat ratus jiwa utara TERIDENTIFIKASI: nama lengkap, tanggal, keluarga, pekerjaan. Bukan lagi "korban sembilan" atau "jiwa nomor" — tetapi manusia bernama, dengan rumah dan cerita, siap dipanggil pulang satu per satu sesuai jadwal armada yang disusun Maera.
 
 Dan di rak terakhir, di kotak tertutup terpisah dengan tanda khusus ordo ("ARSIP PENJAGA AKTIF"), mereka menemukan sesuatu yang membuat Sareth duduk di lantai menara untuk pertama kalinya dalam kunjungan itu:
 
 Catatan lengkap penjaga galeri bantu Caldrest era lama. Barim. Delapan tahun shift malam — dicatat oleh ordo secara rahasia, karena ordo memantau semua pendengar alami di Karvess. Dan di halaman terakhir catatan itu, tulisan tangan pengamat ordo:
 
-"Subjek terbukti mampu percakapan satu arah dengan entitas bawah selama delapan tahun tanpa insiden. Subjek adalah BUKTI bahwa koeksripsi damai dimungkinkan. Rekomendasi ordo: lindungi subjek ini. Rekomendasi ditolak Dewan Choir regional: subjek diklasifikasi ulang sebagai 'terpapar bidah', pemantauan dihentikan, subjek dibiarkan." Tanggal catatan terakhir: tiga pekan sebelum kebocoran utara.
+"Subjek terbukti mampu percakapan satu arah dengan entitas bawah selama delapan tahun tanpa insiden. Subjek adalah BUKTI bahwa koeksistensi damai dimungkinkan. Rekomendasi ordo: lindungi subjek ini. Rekomendasi ditolak Dewan Choir regional: subjek diklasifikasi ulang sebagai 'terpapar bidah', pemantauan dihentikan, subjek dibiarkan." Tanggal catatan terakhir: tiga pekan sebelum kebocoran utara.
 
 Barim tidak dilupakan kebetulan. Barim DIBIARKAN — karena dia terlalu penting bagi doktrin takut.
 
@@ -41,7 +41,7 @@ Barim membaca lama. Dua kali. Ketiga kalinya ia berhenti di kalimat "subjek dikl
 
 "Aku tidak akan minta kamu maafkan Choir," kata Ashvarok. "Itu bukan hakku."
 
-"Bukan. Tapi aku minta kau janji satu hal." Barim menatapnya — penjaga malam kepada raja-penjaga, setara. "Kalau akademi kita nanti punya murid yang seperti aku dulu — pendengar alami, tidak punya siapa-siapa — murid itu harus dilindungi duluan sebelum dipakai. Karena ordo gagal jaga aku. Dan Choir sengaja biarkan aku jadi bahan ceramah."
+"Bukan. Namun aku minta kau janji satu hal." Barim menatapnya — penjaga malam kepada raja-penjaga, setara. "Kalau akademi kita nanti punya murid yang seperti aku dulu — pendengar alami, tidak punya siapa-siapa — murid itu harus dilindungi duluan sebelum dipakai. Karena ordo gagal jaga aku. Dan Choir sengaja biarkan aku jadi bahan ceramah."
 
 "Janji diterima dan ditulis," kata Ashvarok, dan malam itu pasal baru masuk Hukum Akademi Batu sebagai Pasal Sembilan — ditulis tangan Barim sendiri di papan klinik di bawah peta nama: "Murid pendengar alami dilindungi sebelum dimanfaatkan. Yang melanggar berhadapan dengan seluruh Caldrest."
 
@@ -65,7 +65,7 @@ Sekarang aku tahu ceritanya lebih sederhana dan jauh lebih besar: tentang sekump
 
 Di antara empat ratus identitas yang terkonfirmasi, ada satu halaman arsip yang membuat Sela harus menghentikan katalogisasi dan memanggil Ossian dari ruang sebelah: daftar ANAK-ANAK.
 Empat puluh satu jiwa utara berumur di bawah lima belas tahun saat kebocoran. Delapan belas dari mereka berusia di bawah sepuluh. Dan karena kedalaman menyimpan apa adanya saat mengambil, maka di dalam sana — jika pemulangan dilakukan — akan pulang empat puluh satu anak yang tidak pernah menua, sementara orang tua mereka menua delapan belas tahun menunggu.
-"Kasus Rina kita sudah buktikan itu bisa berhasil," kata Sela, "tapi Rina tujuh bulan. Dia belum sempat punya ingatan yang sakit." Ia menutup halaman itu. "Anak sembilan tahun ingat semua. Rumahnya, temannya, betapa menakutkanya malam kebocoran. Kita akan membawa pulang anak-anak yang menyaksikan sesuatu — ke dunia yang sudah lupa wajah mereka."
+"Kasus Rina kita sudah buktikan itu bisa berhasil," kata Sela, "tetapi Rina tujuh bulan. Dia belum sempat punya ingatan yang sakit." Ia menutup halaman itu. "Anak sembilan tahun ingat semua. Rumahnya, temannya, betapa menakutkanya malam kebocoran. Kita akan membawa pulang anak-anak yang menyaksikan sesuatu — ke dunia yang sudah lupa wajah mereka."
 
 Rapat tentang anak-anak utara digelar keesokan paginya dan menghasilkan dokumen yang kelak dikutip semua program pemulihan di Karvess: PROTOKOL ANAK.
 Isinya disusun bersama ibu Tamma (dapur), dokter tambang (kesehatan), Sareth (pendengaran), dan — yang mengejutkan semua orang — Tovik, yang datang membawa sapunya dan berkata: "Aku tahu rasanya jadi yang hilang lama. Biar aku yang cerita ke mereka nanti, waktu mereka bingung. Orang dewasa ngomongnya terlalu rapi. Aku masih ingat versi kacau-kacau."
@@ -77,7 +77,7 @@ Sela pernah meminjam buku catatan teh itu untuk arsip, dan mengembalikannya deng
 
 ---
 
-Sisa pekan itu dihabiskan untuk persiapan yang tidak glamor: dua puluh satu keluarga anak-anak diberi tahu lebih awal dari jadwal (pemberitahuan berjenjang versi dipercepat, dengan persetujuan Ossian dan saksi Guild), kamar-kamar lama direnovasi gotong royong, dan ibu Tamma melatih sebelas ibu dapur membuat makanan era delapan belas tahun silam — "sup yang mereka ingat harus terasa sama," katanya. "Anak tidak akan ingat wajahmu. Tapi dia akan ingat rasanya sup ibunya."
+Sisa pekan itu dihabiskan untuk persiapan yang tidak glamor: dua puluh satu keluarga anak-anak diberi tahu lebih awal dari jadwal (pemberitahuan berjenjang versi dipercepat, dengan persetujuan Ossian dan saksi Guild), kamar-kamar lama direnovasi gotong royong, dan ibu Tamma melatih sebelas ibu dapur membuat makanan era delapan belas tahun silam — "sup yang mereka ingat harus terasa sama," katanya. "Anak tidak akan ingat wajahmu. Namun dia akan ingat rasanya sup ibunya."
 
 Dan Ashvarok melakukan satu hal pribadi: ia pergi ke kedalaman malam harinya, lewat Listen, dan meminta satu hal yang belum pernah diminta siapa pun — bahwa ketika anak-anak utara dibangunkan nanti, hal PERTAMA yang mereka dengar dari dunia bukanlah nama mereka yang disebut orang asing... melainkan lagu pengantar tidur kedalaman sendiri. Lagu yang sudah mengiringi mereka delapan belas tahun.
 "Jangan ganti lagunya dengan suara kami," kata Ashvarok. "Mereka bangun dari rumahmu. Biarkan rumahmu yang bicara duluan."
@@ -86,7 +86,7 @@ Jawaban kedalaman malam itu diterjemahkan Kovan dan ditulisnya di Hourglass deng
 
 "Bilang pada mereka: tidak ada satu pun anak yang menangis sendirian di dalam sana. Delapan belas tahun aku menyanyikan lagu yang sama, dan delapan belas tahun mereka menjawab dengan napas pelan. Aku tahu semua nama mereka sebelum kalian tahu. Sekarang kita bangun bersama."
 
-Ashvarok menutup neraca bab itu di bawah terjemahan Kovan, dengan tulisan tangan yang perlahan tapi pasti:
+Ashvarok menutup neraca bab itu di bawah terjemahan Kovan, dengan tulisan tangan yang perlahan tetapi pasti:
 Hari 380. Seribu tahun aku menyebut kedalaman dengan nama-nama yang salah: ancaman, kekuatan alam, segel yang harus dijaga. Hari ini dia memberi kami daftar anak-anak yang ia nyanyikan tidur selama delapan belas tahun — dan kupahami bahwa sejak awal, kita tidak pernah menjaga dunia dari dia.
 Kita selalu terlambat belajar bahwa yang benar adalah: dia yang sudah lebih dulu menjaga mereka dari kita.
 

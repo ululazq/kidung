@@ -17,7 +17,7 @@ Ia membuka papan catatan besar dan membacakan:
 
 "Dua: registri mimpi. Berjalan sendiri sekarang. Pencatat bergilir sudah mandiri."
 
-"Tiga: armada utara. Empat ratus panggilan itu pekerjaan sepuluh sampai lima belas tahun. Aku akan ikut sebanyak yang tubuh izinkan, tapi sistemnya harus bisa berjalan tanpa aku — dan itu kenapa Barim dan Ondar dan Maera harus dibiasakan memimpin pembacaan mulai sekarang."
+"Tiga: armada utara. Empat ratus panggilan itu pekerjaan sepuluh sampai lima belas tahun. Aku akan ikut sebanyak yang tubuh izinkan, tetapi sistemnya harus bisa berjalan tanpa aku — dan itu kenapa Barim dan Ondar dan Maera harus dibiasakan memimpin pembacaan mulai sekarang."
 
 "Empat: percakapan kedalaman. Ini yang paling penting." Ia menatap Sela tegak. "Kalau suatu hari aku tidak ada, jangan biarkan tamu tua itu sendirian lagi. Kamu, atau murid-muridmu, atau anak-anak name train generasi berikutnya — seseorang harus tetap menjawab ketukan malamnya. Seribu tahun kesendirian sudah cukup untuk satu makhluk."
 
@@ -41,7 +41,7 @@ Sela menulis semuanya. Lalu menutup papannya dan berkata kalimat yang menutup pe
 
 "Sela yang bilang itu?"
 
-"Ibu Tamma. Tapi dia bilang belajar dari kamu."
+"Ibu Tamma. Namun dia bilang belajar dari kamu."
 
 Malam itu, sebelum kafilah utara berangkat subuh, Ashvarok melakukan tiga hal terakhir di gudang perkakas: menggantung kertas warisan di paku yang sama dengan daftar nama; menyentuh batu asah tua dan melaporkan rencana perjalanan kepada tamu tua ("lima orang, sembilan hari, kami bawa pulang kabar"); dan menulis satu baris terakhir di Hourglass untuk pekan ini:
 
@@ -49,7 +49,7 @@ Hari 355. Warisan disusun sambil hidup, sesuai saran pencatat keluarga. Kesimpul
 
 Semua item: berjalan. Termasuk yang di bawah sana, yang malam ini mengetuk batu asah dua kali sebagai salam tidur.
 
-Ia menutup papan, dan untuk pertama kalinya dalam dua kehidupan, memikirkan kematian sendiri tanpa takut sama sekali — bukan karena sudah siap, tapi karena yang akan ditinggalkannya tidak lagi berbentuk kekosongan. Ia berbentuk akademi, registri, armada, meja panjang, adik pencatat, dan kedalaman yang belajar menyebut "penjaga".
+Ia menutup papan, dan untuk pertama kalinya dalam dua kehidupan, memikirkan kematian sendiri tanpa takut sama sekali — bukan karena sudah siap, tetapi karena yang akan ditinggalkannya tidak lagi berbentuk kekosongan. Ia berbentuk akademi, registri, armada, meja panjang, adik pencatat, dan kedalaman yang belajar menyebut "penjaga".
 
 Itu bukan kuburan. Itu warisan.
 
@@ -64,7 +64,7 @@ Dan warisan tidak ditangisi. Warisan dijalankan.
 
 Subuhnya, kafilah utara berangkat.
 
-Lima orang: Ashvarok, Sareth Vayin, Kovan, Ondar, dan Barim. Empat gerobak kecil. Satu batu asah tua dibungkus kain di tas Barim. Persediaan makanan sembilan hari plus cadangan hasil hitungan ibu Tamma. Dan di ujung lereng timur, seluruh Caldrest yang sanggup hadir berdiri mengantar — bukan dengan upacara, tapi dengan name train terbesar dalam sejarah kota: ratusan suara menyebut nama kelima pelopor satu per satu, dan setiap nama dijawab "ada" oleh pemiliknya sendiri.
+Lima orang: Ashvarok, Sareth Vayin, Kovan, Ondar, dan Barim. Empat gerobak kecil. Satu batu asah tua dibungkus kain di tas Barim. Persediaan makanan sembilan hari plus cadangan hasil hitungan ibu Tamma. Dan di ujung lereng timur, seluruh Caldrest yang sanggup hadir berdiri mengantar — bukan dengan upacara, tetapi dengan name train terbesar dalam sejarah kota: ratusan suara menyebut nama kelima pelopor satu per satu, dan setiap nama dijawab "ada" oleh pemiliknya sendiri.
 
 Ketika barisan bubar, Ashvarok menoleh sekali lagi ke arah kota. Sela berdiri paling depan dengan papannya, dan mengangkat kapur ke udara — isyarat pencatat: aku akan mencatat semua. Pulanglah dengan kabar.
 
@@ -95,13 +95,13 @@ Pasal lima ditulis. Dan bulan berikutnya, untuk pertama kalinya, vein-scar Ashva
 
 Satu tambahan lagi malam itu, dari arah yang tidak diduga: Brannoc muncul di ambang gudang perkakas dengan piring bubur sisa dapur dan duduk tanpa diundang — kebiasaan yang sudah menjadi miliknya.
 
-"Dengar tadi," katanya setelah beberapa suapan. "Soal warisan." Ia mengunyah dengan tenang. "Tambahin satu: kalau nanti kamu pergi duluan, aku yang ajarin anak-anak akademi cara panjat darurat dan membaca getar runtuhan. Bukan seni raja. Tapi seni tetap hidup di tambang juga ada, dan selama ini hanya aku sama Ondar yang pegang."
+"Dengar tadi," katanya setelah beberapa suapan. "Soal warisan." Ia mengunyah dengan tenang. "Tambahin satu: kalau nanti kamu pergi duluan, aku yang ajarin anak-anak akademi cara panjat darurat dan membaca getar runtuhan. Bukan seni raja. Namun seni tetap hidup di tambang juga ada, dan selama ini hanya aku sama Ondar yang pegang."
 
 Ashvarok memandang mantan Foreman itu — orang yang dulu menutup galeri sembilan dengan segel resmi dan kini menawarkan diri melanjutkan pendidikan penjaganya — dan mengangguk sekali.
 
 "Diterima. Ditulis. Item enam."
 
-"Tapi satu syarat." Brannoc menyendok suapan terakhir. "Kamu harus tinggal cukup lama buat lihat anak-anak itu bisa panjat lebih bagus dari kita berdua. Itu syarat wajibnya."
+"Namun satu syarat." Brannoc menyendok suapan terakhir. "Kamu harus tinggal cukup lama buat lihat anak-anak itu bisa panjat lebih bagus dari kita berdua. Itu syarat wajibnya."
 
 ---
 

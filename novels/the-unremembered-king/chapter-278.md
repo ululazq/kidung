@@ -15,7 +15,7 @@ Irama-irama itu muda. Muda sekali — gema-gema yang dititipkan zaman purba keti
 
 Dan permintaan mereka, oleh Vess-Morath diteruskan dengan hati-hati kata demi kata:
 
-"KAMI TAHU PINTU KELUAR SUDAH SIAP. KAMI TAHU KELUARGA KETURUNAN KAMI SUDAH MENUNGGU DI POS-POS. TAPI SEBELUM KAMI NAIK... BOLEHKAH KAMI IKUT PANEN DULU?"
+"KAMI TAHU PINTU KELUAR SUDAH SIAP. KAMI TAHU KELUARGA KETURUNAN KAMI SUDAH MENUNGGU DI POS-POS. NAMUN SEBELUM KAMI NAIK... BOLEHKAH KAMI IKUT PANEN DULU?"
 
 Hening di aula kecil itu.
 
@@ -25,13 +25,13 @@ Hening di aula kecil itu.
 
 ---
 
-Pertanyaan itu dibawa ke rapat rumah besar pada malam yang sama — dan untuk pertama kalinya dalam sejarah protokol musim, rapat tidak membahas cara memulangkan, tapi apakah pemulangan boleh DITUNDA atas permintaan penghuninya sendiri.
+Pertanyaan itu dibawa ke rapat rumah besar pada malam yang sama — dan untuk pertama kalinya dalam sejarah protokol musim, rapat tidak membahas cara memulangkan, tetapi apakah pemulangan boleh DITUNDA atas permintaan penghuninya sendiri.
 
 "Protokol musim pasal satu sampai enam tidak menyentuh kasus ini," kata Ossian, membuka buku hukumnya lalu menutupnya lagi. "Semua pasal mengatur tentang keluarga yang memanggil. Tidak ada satu pun yang membayangkan bahwa yang dipanggil minta waktu dulu."
 
 "Karena seribu tahun tidak ada yang sanggup bertanya," kata Ashvarok-Renn. "Yang dititipkan selalu dianggap barang titipan yang menunggu diambil. Tidak ada yang bertanya apa yang MAU mereka." Ia memandang keliling meja panjang. "Padahal prinsipnya sudah kita pegang sejak awal: rumah tidak gagal ketika penghuninya belum pulang. Dan rumah yang baik..." Ia tersenyum tipis. "...tidak juga menyeret penghuninya keluar sebelum dia siap, hanya karena pintunya sudah terbuka."
 
-Maka musim panen tahun itu dimulai dengan protokol yang direvisi — bukan oleh Dewan, bukan oleh Guild, tapi oleh permintaan penghuni kedalaman sendiri:
+Maka musim panen tahun itu dimulai dengan protokol yang direvisi — bukan oleh Dewan, bukan oleh Guild, tetapi oleh permintaan penghuni kedalaman sendiri:
 
 Pasal tujuh belas, baru, ditulis tangan ibu Tamma karena dialah yang mengusulkannya: *Jika yang dipulangkan meminta ikut bekerja sebelum pulang, berikan pekerjaan. Panen, masak, bangun, menenun — apa pun kerja tanah dan dapur. Karena pulang membawa sesuatu adalah hak semua orang, termasuk yang namanya belum kembali.*
 
@@ -39,7 +39,7 @@ Pasal tujuh belas, baru, ditulis tangan ibu Tamma karena dialah yang mengusulkan
 
 Hari panen pertama dengan para pekerja tak terlihat menjadi hari yang oleh arsip dicatat dengan angka yang tidak masuk akal bagi statistik mana pun: hasil lahan protokol naik dua kali lipat.
 
-Tidak ada siapa pun yang melihat gandum dipetik oleh tangan yang tidak ada. Yang terlihat hanya ini: batang-batang gandum turun lebih rapi, berkas-berkas tersusun lebih lurus, dan beberapa kali — dicatat saksi-saksi yang kemudian diperiksa ulang Kovan satu per satu — anak-anak kecil keturunan petani berhenti bermain di tepi ladang karena mendengar seseorang tertawa di tengah batang gandum, dalam bahasa yang tidak mereka kenal tapi nadanya mereka langsung pahami.
+Tidak ada siapa pun yang melihat gandum dipetik oleh tangan yang tidak ada. Yang terlihat hanya ini: batang-batang gandum turun lebih rapi, berkas-berkas tersusun lebih lurus, dan beberapa kali — dicatat saksi-saksi yang kemudian diperiksa ulang Kovan satu per satu — anak-anak kecil keturunan petani berhenti bermain di tepi ladang karena mendengar seseorang tertawa di tengah batang gandum, dalam bahasa yang tidak mereka kenal tetapi nadanya mereka langsung pahami.
 
 "Anak-anak selalu bisa mendengar duluan," kata Sovana — pemulang pertama timur, perempuan tua telapak tebal yang datang khusus menyaksikan. "Kita yang tua sudah belajar tidak percaya. Anak-anak belum sempat."
 
@@ -65,7 +65,7 @@ Dan ibu Tamma sendiri, ketika ditanya resep apa yang ia pakai, menjawab dengan j
 
 ---
 
-Laporan musim ditutup Ashvarok-Renn dengan kunjungan pribadi ke nat lorong barak utara — kebiasaan baru yang tidak dijadwalkan siapa pun tapi sudah berjalan tiga pekan berturut-turut: setiap ada kabar musim dari dalam, raja itu datang membacakan kepada Yang Dulu Sunyi, karena nat tua ini adalah satu-satunya pendengar di Karvess yang seribu tahun lalu juga pernah menunggu di sisi yang sama.
+Laporan musim ditutup Ashvarok-Renn dengan kunjungan pribadi ke nat lorong barak utara — kebiasaan baru yang tidak dijadwalkan siapa pun tetapi sudah berjalan tiga pekan berturut-turut: setiap ada kabar musim dari dalam, raja itu datang membacakan kepada Yang Dulu Sunyi, karena nat tua ini adalah satu-satunya pendengar di Karvess yang seribu tahun lalu juga pernah menunggu di sisi yang sama.
 
 "Mereka minta ikut panen," katanya malam itu. "Seribu tahun menunggu, dan permintaan pertama mereka begitu mereka sadar pintunya terbuka: bolehkah bekerja dulu."
 
@@ -88,7 +88,7 @@ Wilayah timur, yang pemulangnya generasi penggembala, memasukkan pasal tambahan:
 
 Pesisir memasukkan versi lautnya: para pemulang generasi nelayan minta ikut melaut sekali sebelum naik. Kapal-kapal itu pulang dengan muatan penuh dan awak yang menolak menjelaskan kenapa jaring mereka tidak pernah sekali pun kosong.
 
-Dan di dataran tengah, tempat pemulangnya generasi penenun, Lompa melaporkan hal yang membuatnya tertawa sampai sesekali: kain-kain tenun yang dikerjakan bersama para calon pemulang selesai dua kali lebih cepat dari perkiraannya, "dan polanya," katanya, "polanya seperti ditulis orang yang sudah lama sekali ingin bicara tapi baru hari ini diberi benang."
+Dan di dataran tengah, tempat pemulangnya generasi penenun, Lompa melaporkan hal yang membuatnya tertawa sampai sesekali: kain-kain tenun yang dikerjakan bersama para calon pemulang selesai dua kali lebih cepat dari perkiraannya, "dan polanya," katanya, "polanya seperti ditulis orang yang sudah lama sekali ingin bicara tetapi baru hari ini diberi benang."
 
 Semua laporan itu dikumpulkan Sela menjadi satu dokumen yang judulnya dia tulis sambil tersenyum:
 
@@ -99,7 +99,7 @@ Semua laporan itu dikumpulkan Sela menjadi satu dokumen yang judulnya dia tulis 
 *Ditutup dengan catatan ibu Tamma: "Sup untuk semua. Tidak ada diskon."*
 ---
 
-Malam terakhir musim panen, sebelum bulan pemulangan dimulai, Vess-Morath menyanyikan pesan penutupnya — bukan lewat name train sore yang resmi, tapi tengah malam, saat hanya para pendengar alami dan anak-anak kecil yang bangun.
+Malam terakhir musim panen, sebelum bulan pemulangan dimulai, Vess-Morath menyanyikan pesan penutupnya — bukan lewat name train sore yang resmi, tetapi tengah malam, saat hanya para pendengar alami dan anak-anak kecil yang bangun.
 
 Pesan itu panjang. Barim menerjemahkannya bertahap, dan bagian-bagian yang paling penting olehnya ditulis di arsip malam juga, tinta masih basah:
 

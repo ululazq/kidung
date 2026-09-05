@@ -7,19 +7,19 @@ Lot itu datang pada pagi hari keseratus — lot kosong tanpa barang, dengan cata
 
 Ashvarok membacanya dua kali di gang belakang pasar, lalu mengembalikan gulungan itu ke dalam lengan bajunya dan membeli setengah kilo umbi sebagai alasan kehadirannya. Teksnya pendek untuk ukuran catatan panjang, dan setiap kalimatnya ditulis dengan cara Maera menulis ketika ia sedang takut — urut, bertanggal, tanpa satu kata lebih besar dari fakta yang membawanya.
 
-Arsip rantai bayaran telah berpindah ke saya secara sah. Isinya lengkap sampai kode penerima teratas. Vael sudah menghitung kepindahan itu sebelum saya membaca lembar pertamanya. Malam kesembilan puluh sembilan ia mengajak saya makan malam bekerja dan menawarkan harga terbuka atas segala sesuatu yang saya simpan — katanya, kata demi kata, sebut hargamu. Saya belum menjawab angka apa pun. Saya meminta waktu menghitung, dan waktu itu diberikan. Sebelum saya menghitung lebih jauh, Sebelum saya menghitung lebih jauh, saya perlu tahu dari Anda satu hal saja — apakah kebenaran ini boleh dipergunakan sebagian. Jawab lewat saluran ini. Tanda tangani tidak perlu; kami sudah lama tidak bekerja dengan tanda tangan.
+Arsip rantai bayaran telah berpindah ke saya secara sah. Isinya lengkap sampai kode penerima teratas. Vael sudah menghitung kepindahan itu sebelum saya membaca lembar pertamanya. Malam kesembilan puluh sembilan ia mengajak saya makan malam kerja dan menawarkan harga terbuka atas segala sesuatu yang saya simpan — katanya, kata demi kata, sebut hargamu. Saya belum menjawab angka apa pun. Saya meminta waktu menghitung, dan waktu itu diberikan. Sebelum saya menghitung lebih jauh, Sebelum saya menghitung lebih jauh, saya perlu tahu dari Anda satu hal saja — apakah kebenaran ini boleh dipergunakan sebagian. Jawab lewat saluran ini. Tanda tangani tidak perlu; kami sudah lama tidak bekerja dengan tanda tangan.
 
 ---
 
-Malamnya gudang perkakas tingkat dua berkumpul lagi dengan susunan yang sama seperti malam keputusan. Brannoc di peti pahat. Maera di bangku bekerja — datang sendiri, karena pesan balik memang harus dibahas di hadapannya — dan Sela kali ini duduk di dalam ruangan, bukan di ambang, karena pertanyaan malam ini adalah pertanyaan tentang harga, dan aturan keluarga tentang harga sudah lama ditulis ulang oleh ambang pintu itu sendiri.
+Malamnya gudang perkakas tingkat dua berkumpul lagi dengan susunan yang sama seperti malam keputusan. Brannoc di peti pahat. Maera di bangku kerja — datang sendiri, karena pesan balik memang harus dibahas di hadapannya — dan Sela kali ini duduk di dalam ruangan, bukan di ambang, karena pertanyaan malam ini adalah pertanyaan tentang harga, dan aturan keluarga tentang harga sudah lama ditulis ulang oleh ambang pintu itu sendiri.
 
-Sebelum apa pun dibicarakan, mereka menutup gerbang-gerbang kecil yang disepakati — gudang dikunci dari dalam, lampu diredupkan ke sudut yang tidak terlihat dari jendela, dan Sela meletakkan papan tulisnya menghadap dinding — bukan karena isinya rahasia untuk ruangan ini, tapi karena kebiasaan adalah pagar yang paling tahan lama. Ashvarok memeriksa celah ventilasi dengan mata kuli yang mengeluh tentang udara, dan mendapati hanya udara. Semuanya pekerjaan dua menit yang dilakukan tanpa satu kata penjelasan, seperti orang tua rumah memasang gembok sebelum tidur.
+Sebelum apa pun dibicarakan, mereka menutup gerbang-gerbang kecil yang disepakati — gudang dikunci dari dalam, lampu diredupkan ke sudut yang tidak terlihat dari jendela, dan Sela meletakkan papan tulisnya menghadap dinding — bukan karena isinya rahasia untuk ruangan ini, tetapi karena kebiasaan adalah pagar yang paling tahan lama. Ashvarok memeriksa celah ventilasi dengan mata kuli yang mengeluh tentang udara, dan mendapati hanya udara. Semuanya pekerjaan dua menit yang dilakukan tanpa satu kata penjelasan, seperti orang tua rumah memasang gembok sebelum tidur.
 
 Ashvarok membacakan pesan itu keras-keras, kata demi kata, termasuk kalimat terakhirnya. Sunyi sesudahnya panjang dengan cara yang produktif.
 
 "Dia menawar," kata Brannoc akhirnya, kata kerjanya tetap di depan. "Pejabat yang menawar artinya takut."
 
-"Tidak." Ashvarok menggeleng pelan. "Pejabat yang takut diam dan melapor ke atasnya. Yang menawar sedang membeli waktu — bagi dirinya atau bagi kita, itu belum jelas. Tapi ada hal yang lebih penting dari niatnya." Ia memandangi wajah-wajah di ruangan itu bergantian, karena kalimat berikutnya harus didengar utuh oleh semua orang yang akan menanggungnya. "Vael sekarang tahu arsip itu ada dan tahu di mana arsip itu tidur. Artinya kotak kayu itu bukan lagi rahasia; ia adalah tuas dengan dua ujung. Dan kita tidak pegang kedua ujungnya. Kita hanya pegang satu — orang yang menyimpannya."
+"Tidak." Ashvarok menggeleng pelan. "Pejabat yang takut diam dan melapor ke atasnya. Yang menawar sedang membeli waktu — bagi dirinya atau bagi kita, itu belum jelas. Namun ada hal yang lebih penting dari niatnya." Ia memandangi wajah-wajah di ruangan itu bergantian, karena kalimat berikutnya harus didengar utuh oleh semua orang yang akan menanggungnya. "Vael sekarang tahu arsip itu ada dan tahu di mana arsip itu tidur. Artinya kotak kayu itu bukan lagi rahasia; ia adalah tuas dengan dua ujung. Dan kita tidak pegang kedua ujungnya. Kita hanya pegang satu — orang yang menyimpannya."
 
 "Maka putuskan," kata Brannoc. "Dipakai atau dikubur."
 
@@ -49,7 +49,7 @@ Keputusan, ketika jatuh, jatuh dengan ringan seperti semua keputusan yang sudah 
 
 "Biarkan dia menjual," kata Ashvarok. "Setengah kebenaran, harga mahal, waktu selama mungkin. Itu satu-satunya jalur yang membeli musim tanpa memanggil siapa pun ke aula." Ia menatap Maera. "Syaratku satu, dan ini syarat mutlak — engkau yang pegang seluruh negosiasinya. Engkau tidak pernah bertanya kepada kami apa hargamu, dan jangan pernah. Kalau satu kalimat pun dari kami sampai ke telinga Vael, tuas itu mati dan kita ikut mati bersamanya. Orang yang menjual kebenaran harus menjualnya sendirian. Itu bagian paling tidak adil dari rencana ini, dan aku tidak punya cara membuatnya adil."
 
-"Aku tahu." Maera mengangguk pelan, dan matanya menghitung sekali lagi, tapi kali ini Ashvarok tidak mendengar bunyi hitungannya, karena hitungan itu sudah selesai. "Aku yang minta jadi orang yang bertanya kepadanya apakah boleh dipakai sebagian. Berarti aku juga yang siap jadi orang yang menjawab harganya. Prosedurnya tetap prosedur, tapi penjualnya..." ia tersenyum tipis, senyum pertama dalam dua malam, "...penjualnya harus belajar dari para pedagang pasar ini. Jangan pernah tampak butuh."
+"Aku tahu." Maera mengangguk pelan, dan matanya menghitung sekali lagi, tetapi kali ini Ashvarok tidak mendengar bunyi hitungannya, karena hitungan itu sudah selesai. "Aku yang minta jadi orang yang bertanya kepadanya apakah boleh dipakai sebagian. Berarti aku juga yang siap jadi orang yang menjawab harganya. Prosedurnya tetap prosedur, tetapi penjualnya..." ia tersenyum tipis, senyum pertama dalam dua malam, "...penjualnya harus belajar dari para pedagang pasar ini. Jangan pernah tampak butuh."
 
 "Pagar name-roll jam sembilan besok," kata Sela, bangkit, meliputi papan tulisnya ke dalam pelukan. "Kalau kalian mau jual-belikan kebenaran, jual-belilah dengan nama-nama yang masih lengkap. Nanti aku cek daftar kalian satu-satu."
 
@@ -59,7 +59,7 @@ Ia keluar, dan Brannoc menyusul setelah satu kalimat terakhirnya kepada Ashvarok
 
 Ashvarok tidak langsung pulang.
 
-Ia duduk di bangku bekerja dengan secarik kertas dan potongan arang, dan menulis — bukan pesan, bukan rencana, melainkan daftar yang selama ini hidup di kepalanya dan malam ini, setelah kebenaran resmi menjadi komoditas yang berpindah tangan, ia tidak berani lagi simpan hanya di kepala. Daftar itu ia tulis dengan huruf kecil, satu baris per orang:
+Ia duduk di bangku kerja dengan secarik kertas dan potongan arang, dan menulis — bukan pesan, bukan rencana, melainkan daftar yang selama ini hidup di kepalanya dan malam ini, setelah kebenaran resmi menjadi komoditas yang berpindah tangan, ia tidak berani lagi simpan hanya di kepala. Daftar itu ia tulis dengan huruf kecil, satu baris per orang:
 
 Sela: tahu tubuh ini sekarat, tahu penghuninya bukan Renn, tahu harga badan. Tidak tahu namaku. Tidak boleh tahu sampai ia bertanya lagi.
 Brannoc: tahu garis besar semuanya kecuali nama dan usia. Cukup.

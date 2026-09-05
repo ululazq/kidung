@@ -19,13 +19,13 @@ Enam puluh satu pemanggilan keluarga dulu — yang punya pantun, punya kamp penu
 
 Lalu bagian yang dunia tunggu: DUA PULUH TUJUH JIWA TANPA PEMANGGIL.
 
-Untuk mereka, protokol pasal 14 dijalankan pertama kali dalam sejarah: name train bukan oleh keluarga darah, melainkan oleh KELUARGA PENGGANTI — barisan sukarelawan Caldrest, Spire, timur, dan utara yang berdiri bergilir di tiap pos, menyanyikan name train yang mereka latih sendiri dari nol: nama-nama yang mereka pelajari dari nat kesembilan, riwayat yang mereka hafal dari pembacaan silsilah, wajah yang belum pernah mereka lihat tapi sudah mereka tulis di daftar keluarga pengganti minggu-minggu lalu.
+Untuk mereka, protokol pasal 14 dijalankan pertama kali dalam sejarah: name train bukan oleh keluarga darah, melainkan oleh KELUARGA PENGGANTI — barisan sukarelawan Caldrest, Spire, timur, dan utara yang berdiri bergilir di tiap pos, menyanyikan name train yang mereka latih sendiri dari nol: nama-nama yang mereka pelajari dari nat kesembilan, riwayat yang mereka hafal dari pembacaan silsilah, wajah yang belum pernah mereka lihat tetapi sudah mereka tulis di daftar keluarga pengganti minggu-minggu lalu.
 
-Jiwa tanpa pemanggil yang pertama naik di pos tiga — dan yang menunggunya adalah keluarga pengganti berisi mantan penilai pajak Spire itu, istri dan anak-anaknya, plus ibu Tamma sebagai "pengawas dapur" yang tidak fooling siapa pun.
+Jiwa tanpa pemanggil yang pertama naik di pos tiga — dan yang menunggunya adalah keluarga pengganti berisi mantan penilai pajak Spire itu, istri dan anak-anaknya, plus ibu Tamma sebagai "pengawas dapur" yang tidak menipu siapa pun.
 
 Jiwa itu naik. Terlihat bingung satu detik. Lalu bertanya hal yang membuat seluruh pos tertawa dan menangis bersamaan:
 
-"Ini rumah siapa? Kok ada banyak sekali orang?"
+"Ini rumah siapa? Mengapa ada banyak sekali orang?"
 
 Jawaban mantan penilai pajak itu, sambil menyodorkan mangkuk sup:
 
@@ -57,7 +57,7 @@ Dan satu catatan terakhir, untuk halaman depan arsip wilayah selatan:
 
 Wilayah terjauh ternyata wilayah yang memberi kita pelajaran terbanyak: pantun (warisan lisan bisa menyelamatkan), pasal 14 (tidak ada yang naik sendirian), dan silsilah nat kesembilan (kadang arsip terbaik adalah dunia yang menyimpan dirinya sendiri).
 
-Terima kasih, selatan. Kalian datang terakhir tapi memberi paling banyak.
+Terima kasih, selatan. Kalian datang terakhir tetapi memberi paling banyak.
 
 ---
 
@@ -65,7 +65,7 @@ Malamnya, pertemuan pertama Widur dan istrinya akhirnya terjadi — di depan nat
 
 Mereka dipisahkan tiga ratus tahun. Ketika bertemu, tidak ada yang bisa dilakukan tubuh mereka selain berdiri menghadap — karena Widur keluar dari nat dengan wajah laki-laki yang sakit saat perang dunia purba, dan istrinya adalah perempuan yang sudah menunggu melewati umur manusia.
 
-Tapi pantun menyelesaikan apa yang tidak bisa diselesaikan waktu.
+Namun pantun menyelesaikan apa yang tidak bisa diselesaikan waktu.
 
 Istrinya menyanyikan bagian pertanyaan — suara gemetar, tiga ratus tahun latihan.
 
@@ -105,11 +105,11 @@ Aku tidur malam ini dengan daftar empat belas wilayah tersisa di kepala — dan 
 
 P.S. Widur dan istrinya minta satu hal untuk bulan depan: akhir bulan ini pantun mereka dinyanyikan SEKALI LAGI di nat tua — kali ini bukan sebagai panggilan atau terima kasih.
 
-"Tapi kenapa?" tanya Kovan yang mencatat permintaannya.
+"Namun kenapa?" tanya Kovan yang mencatat permintaannya.
 
 Jawaban sepasang itu serentak:
 
-"Karena sekarang lagunya sudah lengkap. Dan lagu yang bagus harus dinyanyi ulang."
+"Karena sekarang lagunya sudah lengkap. Dan lagu yang bagus harus dinyanyikan ulang."
 
 ---
 
@@ -139,7 +139,7 @@ Kata pengantar itu Ashvarok berikan sambil berkata satu hal lagi yang membuat Th
 
 Thessa mengangguk, mencatat, lalu berkata kalimat terakhirnya sebelum pulang ke Spire keesokan paginya:
 
-"Bapak tahu, delapan bulan silam saya pikir saya dikirim ke sini untuk belajar soal resonansi dan protokol pemulangan." Ia tersenyum. "Ternyata saya dikirim untuk belajar soal MEJA. Meja makan, meja rapat, meja arsip — semuanya hanya soal siapa yang duduk, siapa yang dilayani, dan apakah ada yang lapar yang belum dilayan."
+"Bapak tahu, delapan bulan silam saya pikir saya dikirim ke sini untuk belajar soal resonansi dan protokol pemulangan." Ia tersenyum. "Ternyata saya dikirim untuk belajar soal MEJA. Meja makan, meja rapat, meja arsip — semuanya hanya soal siapa yang duduk, siapa yang dilayani, dan apakah ada yang lapar yang belum dilayani."
 
 Ia melangkah ke pintu, berhenti, dan menoleh sekali:
 

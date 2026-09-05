@@ -7,7 +7,7 @@ Setahun pertama batu kecil itu di Vhal-Duren menjadi tahun yang oleh arsip pos p
 
 Karena ternyata, pemakaman di dataran tinggi bukan akhir dari kunjungan — ia adalah pembuka jaringan.
 
-Kabar alamatnya menyebar lewat jalur-jalur tak resmi: nat ke nat, kamp ke kamp, murid ke kakek. Dan orang-orang mulai datang. Bukan satu rombongan besar — tapi tetesan manusia yang tidak pernah putus sepanjang tahun: janda seorang juru tulis Choir yang akhirnya tahu suami diam-diam menyelamatkan nama suaminya; dua pensiunan Guild yang dulu ditolak Pembaca Tua untuk jabatan dan baru sekarang mengerti kenapa; murid-murid Akademi Arsip yang ziarah wajib mereka berubah menjadi ziarah sukarela setelah kunjungan pertama.
+Kabar alamatnya menyebar lewat jalur-jalur tak resmi: nat ke nat, kamp ke kamp, murid ke kakek. Dan orang-orang mulai datang. Bukan satu rombongan besar — tetapi tetesan manusia yang tidak pernah putus sepanjang tahun: janda seorang juru tulis Choir yang akhirnya tahu suami diam-diam menyelamatkan nama suaminya; dua pensiunan Guild yang dulu ditolak Pembaca Tua untuk jabatan dan baru sekarang mengerti kenapa; murid-murid Akademi Arsip yang ziarah wajib mereka berubah menjadi ziarah sukarela setelah kunjungan pertama.
 
 Semua mereka membawa hal yang sama: cerita.
 
@@ -35,7 +35,7 @@ Tangan Tovik menggenggamnya. Dan di pojok ruangan, Sela mencatat angka yang akan
 
 *Hari 1.207. Tovik: identitas penuh dipulihkan. Durasi total pemulihan Hollowing: 9 tahun 2 bulan. Metode: disebut namanya setia + tubuh disapa + pekerjaan yang bermakna.*
 
-*Kesimpulan yang tidak akan pernah masuk buku teks tapi harus masuk: obat utamanya adalah ORANG YANG TIDAK BERHENTI.*
+*Kesimpulan yang tidak akan pernah masuk buku teks tetapi harus masuk: obat utamanya adalah ORANG YANG TIDAK BERHENTI.*
 
 ---
 
@@ -77,14 +77,14 @@ Gella datang dengan protokol penuh — sapa, terima kasih, kabar, cerita dulu se
 
 Pasal hak menolak tetap ada di buku medis — permanen.
 
-Tapi di bawahnya kini ada catatan hasil kasus pertamanya, ditulis Gella dengan garis bawah tebal khasnya:
+Namun di bawahnya kini ada catatan hasil kasus pertamanya, ditulis Gella dengan garis bawah tebal khasnya:
 
-*Kesimpulan: pintu boleh dikunci oleh pasien. Tapi jangan pernah menganggap kuncinya hilang.*
+*Kesimpulan: pintu boleh dikunci oleh pasien. Namun jangan pernah menganggap kuncinya hilang.*
 
 *Dan jangan pernah, selama apapun, mengira diamnya seseorang adalah ajakan untuk berhenti peduli.*
 ---
 
-Tovik mendengar kisah itu dari Gella pada kunjungan bulanannya — kunjungan yang sejak pemulihan identitasnya berubah sifat: bukan lagi pasien diperiksa, tapi konsultan senior yang datang memberi masukan.
+Tovik mendengar kisah itu dari Gella pada kunjungan bulanannya — kunjungan yang sejak pemulihan identitasnya berubah sifat: bukan lagi pasien diperiksa, tetapi konsultan senior yang datang memberi masukan.
 
 "Delapan tahun aku di posisi dia," kata Tovik pelan. "Bekerja tanpa tahu kenapa. Merawat orang tanpa ingat siapa yang dulu merawatku." Ia memandang tangannya sendiri — tangan yang delapan tahun menyiram lantai klinik dengan urutan yang tidak pernah ia mengerti. "Kalau waktu itu ada yang menyapaku... mungkin aku pulih lebih cepat."
 
@@ -92,7 +92,7 @@ Tovik mendengar kisah itu dari Gella pada kunjungan bulanannya — kunjungan yan
 
 Tovik memikirkannya dengan kesungguhan orang yang pernah kehilangan semuanya dan menemukannya lagi satu per satu.
 
-"Mungkin aku akan sembuh juga," katanya akhirnya. "Tapi aku tidak akan percaya bahwa penyembuhan itu milikku." Ia menatap dokter tua itu. "Itu bedanya, Bu Gella. Bisa dipaksakan dan bisa terjadi bukan hal yang sama."
+"Mungkin aku akan sembuh juga," katanya akhirnya. "Namun aku tidak akan percaya bahwa penyembuhan itu milikku." Ia menatap dokter tua itu. "Itu bedanya, Bu Gella. Bisa dipaksakan dan bisa terjadi bukan hal yang sama."
 
 Gella menuliskannya di buku medisnya — kalimat yang oleh murid-murid medis selanjutnya wajib dihafal:
 
@@ -105,7 +105,7 @@ Pasal hak menolak didengarkan itu akhirnya menyebar keluar dari dunia medis — 
 
 Di Sekolah Mendengar, ia jadi pelajaran tersulit angkatan baru: mendengarkan seseorang yang meminta untuk tidak didengarkan. Murid-murid protes awalnya — "itu kontradiksi!" — sampai mereka dibawa ke kasus nyata: seorang pemulang era musim yang delapan tahun ini menolak semua wawancara arsip tentang pengalamannya di kedalaman.
 
-"Kami hormati permintaannya," kata Daven yang mengajar kelas itu. "Delapan tahun. Tapi lihat apa yang dia lakukan tiap Hari Utara: dia datang. Dia duduk paling belakang. Dia mendengar SEMUA cerita orang lain." Ia memandang murid-muridnya. "Sekarang tugas kalian: mendengarkan seseorang tanpa menyentuh kata-katanya. Bagaimana caranya?"
+"Kami hormati permintaannya," kata Daven yang mengajar kelas itu. "Delapan tahun. Namun lihat apa yang dia lakukan tiap Hari Utara: dia datang. Dia duduk paling belakang. Dia mendengar SEMUA cerita orang lain." Ia memandang murid-muridnya. "Sekarang tugas kalian: mendengarkan seseorang tanpa menyentuh kata-katanya. Bagaimana caranya?"
 
 Jawaban terbaik datang dari murid termuda kelas itu, dan olehnya dicatat di buku kurikulum:
 
@@ -151,6 +151,6 @@ Penutup untuk hari itu dicatat Sela di arsip dengan tinta biasa — entri pendek
 
 *Tiga: Ashvarok-Renn menulis lagi di kolom Hourglass. Delapan bulan ini kolom itu berubah fungsi — dari catatan luka jadi catatan pertumbuhan. Malam ini isinya soal masa lalunya sendiri, ditulis dengan tenang.*
 
-*Aku arsiparis, dan aku boleh berkomentar di arsipku sendiri: dua tahun ini aku menonton orang-orang di rumah ini saling mengajari cara menyembuhkan. Tapi malam ini baru kupahami — yang mereka sembuhkan sebenarnya bukan Hollowing.*
+*Aku arsiparis, dan aku boleh berkomentar di arsipku sendiri: dua tahun ini aku menonton orang-orang di rumah ini saling mengajari cara menyembuhkan. Namun malam ini baru kupahami — yang mereka sembuhkan sebenarnya bukan Hollowing.*
 
 *Yang mereka sembuhkan adalah kebiasaan dunia membiarkan orang diam terlalu lama.*

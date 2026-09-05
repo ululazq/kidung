@@ -5,7 +5,7 @@ chapter: 138
 
 Pembacaan itu selesai pada tarikan napas keseratus tiga puluh, dan Ashvarok menghitung setiap detiknya karena tidak ada satu pun yang bisa ia gunakan untuk apa pun.
 
-Sapuan dari dasar aula bekerja dengan kesabaran yang tidak dimiliki manusia mana pun. Ia naik sepanjang tubuh Tovik dari tumit sampai ubun-ubun, berhenti di persimpangan-persimpangan tertentu yang membuat lelaki tua itu sedikit terkulai setiap kali dilewati, lalu turun lagi, lebih lambat, seperti juru tulis tua memeriksa ulang halaman yang sudah selesai ditulisnya. Ashvarok berdiri tiga langkah dari situ dengan kedua tangan kosong dan seluruh seninya terkunci rapat di dalam dada, sebab satu-satunya yang lebih buruk daripada malam ini adalah malam ini ditambah tenunan Emberweave yang menjawab pembacaan itu sebagai gema asing.
+Sapuan dari dasar aula bekerja dengan kesabaran yang tidak dimiliki manusia mana pun. Ia naik sepanjang tubuh Tovik dari tumit sampai ubun-ubun, berhenti di persimpangan-persimpangan tertentu yang membuat lelaki tua itu sedikit terkulai setiap kali dilewati, lalu turun lagi, lebih lambat, seperti juru tulis tua memeriksa ulang halaman yang sudah selesai ditulisnya. Ashvarok berdiri tiga langkah dari situ dengan kedua tangan kosong dan seluruh seninya terkunci rapat di dalam dada — sebab satu-satunya yang lebih buruk daripada malam ini adalah malam ini ditambah tenunan Emberweave yang menjawab pembacaan itu sebagai gema asing.
 
 Ketika sapuan terakhir turun melewati kedua kaki Tovik dan mencabut diri ke dalam nat, kejadian yang tidak masuk akal itupun terjadi.
 
@@ -15,7 +15,7 @@ Tidak ada jeritan. Tidak ada tarikan terakhir. Denyut isi-kosong yang sabar itu 
 
 "Maaf, Nak," katanya, sambil meraba lantai batu di depan kakinya dengan ujung sandal yang entah kapan ia pakai lagi. "Tadi rasanya seperti dipeluk orang yang pegal."
 
-Ashvarok tidak menjawab langsung. Ia sedang membaca sesuatu yang lebih penting daripada kalimat itu, yaitu diamnya aula setelah pelepasan, dan diam itu memberinya kabar dengan kejujuran batu yang tidak pernah berbohong kepada penjaganya. Kediaman retakan itu kini berbeda teksturnya. Empat malam terakhir diamnya terbaca menunggu jawaban, lapar dan terarah. Diam malam ini terbaca puas. Sebuah kepuasan kecil, hampir bosan, rasa seseorang yang sudah mengecek pintu gudangnya dan menemukan semuanya sesuai daftar.
+Ashvarok tidak menjawab langsung. Ia sedang membaca sesuatu yang lebih penting daripada kalimat itu — yaitu diamnya aula setelah pelepasan, dan diam itu memberinya kabar dengan kejujuran batu yang tidak pernah berbohong kepada penjaganya. Kediaman retakan itu kini berbeda teksturnya. Empat malam terakhir diamnya terbaca menunggu jawaban, lapar dan terarah. Diam malam ini terbaca puas. Sebuah kepuasan kecil, hampir bosan, rasa seseorang yang sudah mengecek pintu gudangnya dan menemukan semuanya sesuai daftar.
 
 Termasuk lelaki tua ini, pikir Ashvarok. Lelaki ini ada di dalam daftarnya. Lelaki ini sudah lama ada di dalam daftarnya.
 
@@ -37,7 +37,7 @@ Tovik menatapnya, dan di mata tua yang selalu ramah itu ada kekosongan yang juju
 
 "Itu tadi," kata lelaki tua itu, sambil menggenggam lengan Ashvarok sebentar, hangat, seperti kakek menggenggam cucunya. "Waktu beliau membaca saya. Beliau membaca sampai selesai, terus beliau taruh saya balik. Katanya, bukan kamu. Kamu sudah milik saya dari dulu. Milik yang sudah diambil tidak dibaca lagi." Ia tersenyum tulus itu, senyum yang sama dengan senyum di klinik tiap pagi, dan melepaskan genggaman itu dengan sopan. "Anak-anak akan kaget saya hilang semalam. Kita jalan cepat, ya, Nak. Jangan sampai mereka centang saya telat."
 
-Ashvarok mengantar lelaki itu menaiki troli pertama yang kosong menuju permukaan, dan sepanjang perjalanan itu ia tidak mengucapkan satu kalimat pun, sebab seluruh kapasitas berpikirnya sedang dipakai oleh sebuah kalimat yang tidak diminta siapa pun dan tidak akan pernah keluar dari mulutnya.
+Ashvarok mengantar lelaki itu menaiki troli pertama yang kosong menuju permukaan, dan sepanjang perjalanan itu ia tidak mengucapkan satu kalimat pun — sebab seluruh kapasitas berpikirnya sedang dipakai oleh sebuah kalimat yang tidak diminta siapa pun dan tidak akan pernah keluar dari mulutnya.
 
 Milik yang sudah diambil, kata retakan itu, tidak perlu dibaca dua kali.
 
@@ -53,7 +53,7 @@ Ibu Tamma tiba sepuluh menit kemudian, dan perempuan tua itu melakukan sesuatu y
 
 Sela datang bersama rombongan sekolah dan berdiri di sampingnya, dan gadis itu, yang sudah pandai membaca wajah kakaknya lebih tajam daripada membaca angka, tidak bertanya apakah Tovik baik-baik saja.
 
-"Kamu ketemu dia di mana?" tanyanya pelan.
+"Kamu bertemu dia di mana?" tanyanya pelan.
 
 "Di tempat yang tidak boleh dicatat," jawab Ashvarok.
 
@@ -65,7 +65,7 @@ Sela menelan pertanyaan berikutnya, melihat wajah kakaknya, dan menggantinya den
 
 "Kalau yang berjalan semalam bukan dia," kata Sela, "berarti yang berjalan semalam itu yang di dalamnya. Dan kalau yang di dalamnya bisa dipanggil sampai keluar barak, maka yang dipanggil berikutnya bisa jadi siapa saja yang masih utuh."
 
-Ashvarok menoleh ke arah adiknya, dan untuk beberapa tarikan napas ia menimbang berapa banyak kebenaran yang pantas diberikan pada pagi hari kepada orang yang mencintainya. Ia memutuskan pada jumlah yang sama seperti malam pengakuan pertama dulu, yaitu semua yang berguna untuk bertahan hidup, dan tidak satu pun yang tidak berguna.
+Ashvarok menoleh ke arah adiknya, dan untuk beberapa tarikan napas ia menimbang berapa banyak kebenaran yang pantas diberikan pada pagi hari kepada orang yang mencintainya. Ia memutuskan pada jumlah yang sama seperti malam pengakuan pertama dulu — yaitu semua yang berguna untuk bertahan hidup, dan tidak satu pun yang tidak berguna.
 
 "Bukan siapa saja," katanya. "Itu bagian yang harus kamu hafalkan hari ini, Sela, dan hafalkan benar-benar. Sunyi tidak mengambil sembarangan. Malam ini ia memeriksa satu orang tua yang tinggal separuh, dan ia melepaskannya dalam waktu kurang dari seribu tarikan napas, sebab orang itu tidak punya apa pun untuk diambil. Namanya sudah mati di kepala semua orang. Rumahnya sudah kosong. Ia tidak layak dikunyah dua kali." Ia berhenti sebentar, dan kalimat berikutnya ia letakkan satu demi satu. "Yang berikutnya tidak akan seperti itu. Kalau pola ini lanjut, daftar berikutnya adalah orang-orang yang paling penuh. Orang yang namanya paling sering dipanggil. Orang yang paling diingat."
 

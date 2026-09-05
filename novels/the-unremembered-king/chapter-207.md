@@ -15,7 +15,7 @@ Jawaban kedalaman datang seketika dan berirama hangat: sudah lama kalian tidak d
 
 Tiga murid tingkat lanjutan yang dipilih masing-masing diberi tugas berbeda: Harn menjaga hitungan waktu (karena di kedalaman, kata Sareth, waktu bisa bohong), murid perempuan dari blok tepian menjadi pencatat ganda untuk jaga-jaga kalau Kovan harus fokus membaca, dan murid termuda memegang tugas yang paling penting dan paling sederhana: "Kalau ada yang tidak enak, bilang. Tugas termuda di tim mana pun adalah mengingatkan semua orang bahwa mereka boleh pulang."
 
-Perjalanan ke menara utara kini hanya dua hari — jalan yang delapan bulan silam butuh lima — karena jalannya diperlebar gotong royong tiga kota dan setiap pertigaan kini memiliki tanda batu dengan arah yang ditulis dalam dua bahasa: manusia dan penjaga. "Kalian lihat itu," kata Barim di jalan, menunjuk papan penunjuk arah berukir irama. "Delapan bulan silam tempat ini tidak ada peta yang menyebutnya. Sekarang nat-natnya kebagian rambu jalan. Dunia bisa berubah cepat kalau dia mau."
+Perjalanan ke menara utara kini hanya dua hari — jalan yang delapan bulan silam butuh lima — karena jalannya diperlebar gotong royong tiga kota dan setiap pertigaan kini memiliki tanda batu dengan arah yang ditulis dalam dua bahasa: manusia dan penjaga. "Kalian lihat itu," kata Barim di jalan, menunjuk papan penunjuk arah berukir irama. "Delapan bulan silam tempat ini tidak ada peta yang menyebutnya. Sekarang nat-natnya mendapat bagian rambu jalan. Dunia bisa berubah cepat kalau dia mau."
 
 Yang mereka temukan mengubah pemahaman semua orang tentang apa yang disimpan kedalaman.
 
@@ -27,7 +27,7 @@ Jawaban nat dinding datang pelan: sejak kalian mulai menyapa dengan benar. Yang 
 
 Di bawah empat ratus jiwa utara — di lapisan gema yang lebih dalam, lebih pelan, seperti suara di dasar sumur — ada gema lain. Banyak. Tua. Dan bahasanya bukan bahasa penjaga pra-Hegemony yang dikuasai Sareth dan Kovan.
 
-"Bahasa ini lebih tua dari segala bahasa yang kubaca," kata Sareth setelah satu jam mencoba, dengan wajah orang yang baru sadar ukuran sesungguhnya dari lautnya sendiri. "Aku bisa merasakan STRUKTURNYA — ia punya nama, punya tanggal, punya keluarga yang menyebut — tapi aku tidak bisa menerjemahkannya." Ia memandang Ashvarok. "Dan kau?"
+"Bahasa ini lebih tua dari segala bahasa yang kubaca," kata Sareth setelah satu jam mencoba, dengan wajah orang yang baru sadar ukuran sesungguhnya dari lautnya sendiri. "Aku bisa merasakan STRUKTURNYA — ia punya nama, punya tanggal, punya keluarga yang menyebut — tetapi aku tidak bisa menerjemahkannya." Ia memandang Ashvarok. "Dan kau?"
 
 Ashvarok mencoba lewat Listen murni, tanpa harapan besar — dan mendapat jawaban yang membuatnya tersenyum dan takut sekaligus:
 
@@ -35,7 +35,7 @@ Gema-gema tua itu MENJAWAB. Dengan sabar. Seperti orang dewasa yang sudah seribu
 
 "Dia menyesuaikan diri untuk kami," kata Ashvarok pelan. "Bahasa itu diturunkan level demi level supaya bisa kami pahami." Ia memandang Sareth. "Dia sudah melakukannya sejak kapan, ya? Sejak kita mulai datang?"
 
-Sejak kunjungan pertama armada. Delapan bulan. Kedalaman telah belajar BAHASA MANUSIA MODERN diam-diam selama itu — bukan karena dipaksa, tapi supaya ketika manusia akhirnya siap bertanya tentang isi penyimpanannya yang tertua, jawabannya bisa dimengerti.
+Sejak kunjungan pertama armada. Delapan bulan. Kedalaman telah belajar BAHASA MANUSIA MODERN diam-diam selama itu — bukan karena dipaksa, tetapi supaya ketika manusia akhirnya siap bertanya tentang isi penyimpanannya yang tertua, jawabannya bisa dimengerti.
 
 Murid termuda, yang bertugas mengingatkan semua orang bahwa mereka boleh pulang, justru yang bicara pertama setelah pemahaman itu jatuh: "Berarti delapan bulan ini... dia nyiapin jawaban untuk pertanyaan yang kita belum tanyain?"
 
@@ -49,7 +49,7 @@ Getar yang menjawab dari bawah berirama gembira — dan Kovan mencatat di margin
 
 ---
 
-Gelar-gelar penyimpanan lapisan dalam mulai terbaca satu per satu selama tiga hari bekerja — diterjemahkan bersama oleh Sareth, Kovan, dan kedalaman sendiri yang menurunkan bahasanya tingkat demi tingkat. Daftar pertama itu ditulis Sela dan menjadi halaman paling sering dibuka di Arsip Caldrest:
+Gelar-gelar penyimpanan lapisan dalam mulai terbaca satu per satu selama tiga hari kerja — diterjemahkan bersama oleh Sareth, Kovan, dan kedalaman sendiri yang menurunkan bahasanya tingkat demi tingkat. Daftar pertama itu ditulis Sela dan menjadi halaman paling sering dibuka di Arsip Caldrest:
 
 "Katalog awal penyimpanan dalam (terjemahan sementara):"
 
@@ -69,7 +69,7 @@ Di hari kedua, Vess-Morath menjawab lebih lama dari biasanya, dan terjemahan ira
 
 "Mereka sudah ribuan tahun menunggu," kata Sareth ketika terjemahan itu dibacakan, "dan yang pertama mereka tanyakan adalah kondisi tanaman." Ia menggeleng pelan. "Orang-orang zaman itu petani. Sampai akhir pun mereka petani."
 
-"Kenapa" — Harn mengangkat tangan, kebiasaan murid yang tidak akan pernah hilang — "mereka tidak balik aja kalau musimnya sudah bagus sekarang?"
+"Kenapa" — Harn mengangkat tangan, kebiasaan murid yang tidak akan pernah hilang — "mereka tidak balik saja kalau musimnya sudah bagus sekarang?"
 
 Kedalaman yang menjawab pertanyaan murid itu, lewat nat lantai, dan jawabannya butuh satu jam penerjemahan: karena janji mereka bukan pada musim. Janji mereka pada PENDUDUK. Mereka menunggu sampai ada orang yang datang menyapa dan bertanya — supaya saat keluar nanti, dunia yang mereka masuki adalah dunia yang tahu cara menyapa.
 
@@ -83,7 +83,7 @@ Dan di baris bawah katalog, Sela menulis catatan pinggirnya dengan kapur biru:
 
 Malam itu, ketika katalog dibacakan kepada kedalaman lewat nat aula — tradisi baru: semua temuan dibacakan balik kepada sumbernya, karena arsip yang adil melaporkan hasilnya ke yang dilaporkan — irama yang menjawab berhenti lama di gelar Ondrath-Ilm. Lalu kedalaman menambahkan satu kalimat yang membuat Kovan menulis dan menghapusnya tiga kali sebelum berani final:
 
-"Ondrath-Ilm bukan isi penyimpananku. Dia tetangga lamaku. Kami berdua sudah ada sebelum tempat ini bernama apa pun. Kalau kalian mau mengenal dia — aku bisa perkenalkan. Tapi perkenalkan dengan sopan. Umurnya lebih tua dari kesabaran."
+"Ondrath-Ilm bukan isi penyimpananku. Dia tetangga lamaku. Kami berdua sudah ada sebelum tempat ini bernama apa pun. Kalau kalian mau mengenal dia — aku bisa perkenalkan. Namun perkenalkan dengan sopan. Umurnya lebih tua dari kesabaran."
 
 "Lebih tua dari kesabaranmu?" Ashvarok membaca ulang terjemahan itu sendiri. "Seribu tahun kau sabar."
 

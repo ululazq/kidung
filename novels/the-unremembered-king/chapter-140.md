@@ -17,13 +17,13 @@ Sela, yang duduk di ambang pintu dengan papan tulisnya di pangkuan, bertanya den
 
 "Maka kertas ini habis nilainya, dan kita kembali menjadi dua pihak yang mengintai." Ashvarok tidak memperhalus kalimat itu, sebab memperhalusnya berarti berbohong kepada dua orang yang membagi nasib dengan badannya. "Itu sebabnya bentuk yang saya tawarkan bukan janji. Janji bergantung pada hati, dan hati Vael sudah lama disewa oleh ambisinya. Protokol bergantung pada untung-rugi, dan untung-rugi bisa dihitung ulang setiap hari oleh dua belah pihak. Selama hitungannya bilang lebih murah jadi teman, dia teman. Hari hitungannya berubah, kertas ini menjadi alat bukti pertama bahwa ia melanggarnya, dan alat bukti itu ada dua, dan satu di antaranya tidak pernah menyentuh lemari miliknya."
 
-"Maka kita kasih kertas," kata Brannoc pelan. "Tapi bukan isinya."
+"Maka kita beri kertas," kata Brannoc pelan. "Namun bukan isinya."
 
 "Bukan isinya." Ashvarok mengambil kapur dari pinggang Brannoc dan menulis tiga baris di lantai batu gudang, huruf besar-besar, karena hal yang akan menentukan hidup mati banyak orang layak ditulis besar. "Protokol bekerja. Bukan kesetiaan, bukan pengakuan, bukan kemitraan. Tiga pasal yang bisa ditandatangani dua tangan yang tidak saling percaya. Pertama, tidak ada yang membuka atau mengklaim apa pun di bawah, siapa pun namanya, dasar apa pun suratnya. Kedua, kabar gema asing dikabarkan antara kita berdua, jam yang sama hari yang sama, tanpa perantara. Ketiga, kalau ada gejala pada manusia, evakuasi dan penanggulangan orang-orang didahulukan sebelum prosedur apa pun, termasuk prosedur saya dan prosedurnya."
 
 Ia berhenti menulis, menatap tiga baris itu, dan menyebut harga sebenarnya kepada dua orang yang berhak mendengarnya.
 
-"Pasal ketiga itu pasal yang paling mahal bagi saya," kata Ashvarok. "Pasal itu memberi Vael hak untuk turun bersama saya saat ada korban. Artinya suatu hari nanti dia bisa berdiri di dekat bibir retakan dan melihat bagaimana caranya saya bekerja. Tapi alternatifnya lebih mahal. Malam Tovik menunjukkan bahwa yang di bawah sana sudah mulai memilih sendiri orang-orang yang mau ia membaca. Kalau malam-malam berikutnya menyasar anak-anak sekolah atau dapur barak, saya tidak boleh sedang berebut yurisdiksi dengan pemegang gembok di lorong yang gelap."
+"Pasal ketiga itu pasal yang paling mahal bagi saya," kata Ashvarok. "Pasal itu memberi Vael hak untuk turun bersama saya saat ada korban. Artinya suatu hari nanti dia bisa berdiri di dekat bibir retakan dan melihat bagaimana caranya saya bekerja. Namun alternatifnya lebih mahal. Malam Tovik menunjukkan bahwa yang di bawah sana sudah mulai memilih sendiri orang-orang yang mau ia membaca. Kalau malam-malam berikutnya menyasar anak-anak sekolah atau dapur barak, saya tidak boleh sedang berebut yurisdiksi dengan pemegang gembok di lorong yang gelap."
 
 ---
 
@@ -35,7 +35,7 @@ Ashvarok meletakkan lembar tulisan tangannya sendiri di atas meja Ossian sebelum
 
 "Tolakan dengan barang bawaan," kata Ashvarok. "Yang Tuan minta tidak bisa saya jual, sebab barang itu bukan milik saya untuk dijual. Isinya milik sesuatu yang jauh lebih tua daripada biro Tuan, dan menyerahkannya artinya melepas gembok Tuan sendiri untuk semua orang, termasuk untuk yang tidak Tuan kenal dan tidak akan pernah Tuan kenal. Yang bisa saya tawarkan hanya ini. Kerja yang bisa diukur, bukan rahasia yang bisa dijual."
 
-Ossian membaca tiga pasal itu dua kali, dan Ashvarok membaca pembacaannya. Pada pasal pertama, wajah pejabat itu tenang, sebab pasal itu menguntungkannya juga, semua klaim pihak ketiga atas segmen timur kini bisa ia tolak dengan mengutip protokol yang ditandatanganinya sendiri. Pada pasal kedua, wajah itu tetap tenang, sebab kanal kabar dua arah adalah alat intelijen yang bagus dan Ossian tahu itu, dan Ashvarok juga tahu bahwa kabar yang boleh dikabarkan sudah disaring lebih dulu di kepala penjaganya. Pada pasal ketiga, Ossian Vael berhenti lama.
+Ossian membaca tiga pasal itu dua kali, dan Ashvarok membaca pembacaannya. Pada pasal pertama, wajah pejabat itu tenang — sebab pasal itu menguntungkannya juga, semua klaim pihak ketiga atas segmen timur kini bisa ia tolak dengan mengutip protokol yang ditandatanganinya sendiri. Pada pasal kedua, wajah itu tetap tenang — sebab kanal kabar dua arah adalah alat intelijen yang bagus dan Ossian tahu itu, dan Ashvarok juga tahu bahwa kabar yang boleh dikabarkan sudah disaring lebih dulu di kepala penjaganya. Pada pasal ketiga, Ossian Vael berhenti lama.
 
 "Pasal ini membatasi saya," kata pejabat itu akhirnya. "Evakuasi didahulukan sebelum prosedur apa pun, termasuk prosedur saya. Ada situasi di mana Dewan memerintahkan penutupan darurat level bawah, dan pasal ini membuat tanda tangan saya menjadi janji bahwa orang-orang keluar lebih dulu."
 

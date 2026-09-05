@@ -21,11 +21,11 @@ Masalah kedua: pekerjaan.
 
 Ashvarok delapan bulan ini adalah penjaga dunia tanpa kunci — dan tiba-tiba tubuhnya punya pendapat soal pekerjaan itu.
 
-"Kamu jalan keliling nat-nat kecil tiap pagi," kata Renn pada hari ketiga, "dan hanya disapa. Kenapa tidak sekalian ngecek retakannya?"
+"Kamu jalan keliling nat-nat kecil tiap pagi," kata Renn pada hari ketiga, "dan hanya disapa. Kenapa tidak sekalian memeriksa retakannya?"
 
 "Karena kunci sudah disegel."
 
-"Bukan kunci yang aku maksud. Tanganmu sendiri bisa ngerasain nat sakit atau etidak. Delapan bulan aku di dalam, aku belajar iramanya semua." Suara Renn di dalam kepala Ashvarok terasa seperti suara orang bicara dari ruangan sebelah — dekat tapi lewat dinding. "Coba taruh tangan di nat pasar."
+"Bukan kunci yang aku maksud. Tanganmu sendiri bisa merasakan nat sakit atau tidak. Delapan bulan aku di dalam, aku belajar iramanya semua." Suara Renn di dalam kepala Ashvarok terasa seperti suara orang bicara dari ruangan sebelah — dekat tetapi lewat dinding. "Coba taruh tangan di nat pasar."
 
 Ashvarok menaruh tangan. Nat pasar itu... memang sedikit panas berlebih. Retakan mikro di sisi utara yang belum terbaca.
 
@@ -45,7 +45,7 @@ Brannoc menangis di lorong sembilan ketika diberi laporannya. "Delapan bulan sil
 
 Masalah ketiga: sekolah.
 
-Renn lima belas tahun dan tidak pernah sekolah formal — anak tambang dulu belajar di lorong, bukan di ruang kelas. Sekarang ia bisa masuk Sekolah Mendengar... tapi ada satu masalah administratif yang oleh Ossian disebut "kasus paling unik dalam sejarah birokrasi Karvess":
+Renn lima belas tahun dan tidak pernah sekolah formal — anak tambang dulu belajar di lorong, bukan di ruang kelas. Sekarang ia bisa masuk Sekolah Mendengar... tetapi ada satu masalah administratif yang oleh Ossian disebut "kasus paling unik dalam sejarah birokrasi Karvess":
 
 Siapa yang didaftarkan? Renn? Ashvarok? Keduanya?
 
@@ -53,7 +53,7 @@ Rapat kecil diselesaikan Ashvarok-Renn dengan satu kalimat bersama (suara bergan
 
 "Daftarkan dua nama, satu bangku. Kami berbagi."
 
-Dan begitulah Sekolah Mendengar mendapat murid pertamanya dengan dua identitas: Renn-Ashvarok, kelas sore, kursi ganda yang digabung dari dua bangku (permintaan Renn; "agar kelihatan kami dua orang, bukan satu orang gila ngomong sendiri").
+Dan begitulah Sekolah Mendengar mendapat murid pertamanya dengan dua identitas: Renn-Ashvarok, kelas sore, kursi ganda yang digabung dari dua bangku (permintaan Renn; "agar kelihatan kami dua orang, bukan satu orang gila berbicara sendiri").
 
 Daven menjadi kakak kelaskannya. Lompa sesekali mengajari menenun ("anak tungku harus punya kerja tangan"). Dan setiap kali guru bertanya sesuatu yang sulit...
 
@@ -171,11 +171,11 @@ Dan aku bilang — dan ini penting supaya tercatat:
 
 'Bukan kamu yang membuat aku telat merasakan hujan. Kamu yang membuat aku masih bisa merasakan apa-apa.'
 
-Dia tidak jawab lama. Tapi malamnya dia masak sup. Sendirian. Dari dapur ibu Tamma dipinjam tanpa izin (ibu Tamma diam-diam lihatin dari pintu).
+Dia tidak jawab lama. Namun malamnya dia masak sup. Sendirian. Dari dapur ibu Tamma dipinjam tanpa izin (ibu Tamma diam-diam lihatkan dari pintu).
 
-Rasanya... biasa aja. Terlalu asin.
+Rasanya... biasa saja. Terlalu asin.
 
-Tapi itu sup pertama yang pernah dia masakkan untukku dalam seribu tahun kesepiannya.
+Namun itu sup pertama yang pernah dia masakkan untukku dalam seribu tahun kesepiannya.
 
 Jadi aku habiskan sampai tetes terakhir."
 
@@ -187,7 +187,7 @@ Dan di halaman terakhir jurnal Renn, satu balasan dengan tulisan tangan Ashvarok
 
 Sup itu memang terlalu asin. Ibu Tamma menertawakanku dua puluh menit.
 
-Tapi aku mencatat ini: seribu tahun aku memasak untuk diriku sendiri tidak pernah sekali pun. Karena memasak untuk satu orang adalah bukti bahwa ada yang layak diberi makan.
+Namun aku mencatat ini: seribu tahun aku memasak untuk diriku sendiri tidak pernah sekali pun. Karena memasak untuk satu orang adalah bukti bahwa ada yang layak diberi makan.
 
 Malam ini aku belajar: rasanya punya orang untuk diberi makan.
 
@@ -217,11 +217,11 @@ Renn (di depan) menyapa pedagang asam-asaman yang dulu berselisih dengan Kovan. 
 
 Renn menjawab keras-keras supaya keduanya terdengar:
 
-"Kak Raja bilang hargamu tidak masuk akal. Tapi aku bilang ke dia: harga bukan segalanya — asam-asamanmu enak."
+"Kak Raja bilang hargamu tidak masuk akal. Namun aku bilang ke dia: harga bukan segalanya — asam-asamanmu enak."
 
 Pedagang tua itu tertawa, memberi dua porsi gratis.
 
-Dan dalam tubuh yang sama, dua jiwa makan asam-asaman sambil berdebat soal definisi "enak" — dengan nat pasar mencatat semuanya lewat irama hangat yang tidak bisa dipahami siapa pun, tapi semua orang tahu artinya:
+Dan dalam tubuh yang sama, dua jiwa makan asam-asaman sambil berdebat soal definisi "enak" — dengan nat pasar mencatat semuanya lewat irama hangat yang tidak bisa dipahami siapa pun, tetapi semua orang tahu artinya:
 
 ini dia. keluarga.
 
@@ -237,7 +237,7 @@ Di bawahnya, tulisan tangan Ashvarok:
 
 Renn:
 
-"Baru aja setuju kok langsung dijadikan hukum dunia."
+"Baru saja setuju kok langsung dijadikan hukum dunia."
 
 Ashvarok:
 

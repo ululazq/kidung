@@ -9,7 +9,7 @@ Versi aksara tenun (untuk nat-gunung Tanah Tinggi, karena di sana semua surat re
 
 Dan versi tulisan tangan biasa, untuk ayahnya.
 
-Isi versi kedua oleh Sela tidak pernah dibaca siapa pun — hak pribadi Vessia. Tapi isi versi tenunan diteruskan nat jaringan ke seluruh Karvess dengan izinnya, dan kalimat pembukanya dikutip ribuan kali:
+Isi versi kedua oleh Sela tidak pernah dibaca siapa pun — hak pribadi Vessia. Namun isi versi tenunan diteruskan nat jaringan ke seluruh Karvess dengan izinnya, dan kalimat pembukanya dikutip ribuan kali:
 
 "KE AYAH, DARI ANAK YANG KAU KIRA MATI.
 
@@ -33,13 +33,13 @@ Renn bangkit. Dan suara bocah tambang lima belas tahun itu bergemuruh seperti be
 
 Ia menatap Ashvarok.
 
-"Kak Raja. Aku tahu aku hanya anak tungku yang pendapatannya soal hukum internasional tidak ada. Tapi aku pernah jadi anak yang tidak bisa bicara delapan bulan." Suaranya bergetar. "Kalau sekarang ada orang yang menyuruh anak lain kembali diam... aku tidak akan setuju bahkan kalau itu disegel emas."
+"Kak Raja. Aku tahu aku hanya anak tungku yang pendapatannya soal hukum internasional tidak ada. Namun aku pernah jadi anak yang tidak bisa bicara delapan bulan." Suaranya bergetar. "Kalau sekarang ada orang yang menyuruh anak lain kembali diam... aku tidak akan setuju bahkan kalau itu disegel emas."
 
 ---
 
 Ashvarok berdiri di sampingnya — dan untuk pertama kalinya, keduanya bicara BERSAMAAN secara resmi di depan rapat protokol:
 
-"Keluarga the Quiet Vein menyatakan: Vessia Morra berada di bawah perlindungan Caldrest. Permintaan pengembalian DITOLAK — bukan sebagai tindakan permusuhan, tapi sebagai pelaksanaan Doktrin Undangan: dia datang meminta didengar, dan kami mendengarkan."
+"Keluarga the Quiet Vein menyatakan: Vessia Morra berada di bawah perlindungan Caldrest. Permintaan pengembalian DITOLAK — bukan sebagai tindakan permusuhan, tetapi sebagai pelaksanaan Doktrin Undangan: dia datang meminta didengar, dan kami mendengarkan."
 
 Ossian menambahkan dasar hukumnya (tentu saja):
 
@@ -81,7 +81,7 @@ Dan jawaban nat aula — yang oleh Kovan diterjemahkan dengan bantuan Vessia (sa
 
 ---
 
-Gorvel pulang ke Tanah Tinggi keesokan harinya — bukan sebagai utusan yang gagal menagih, tapi sebagai saksi yang tidak bisa lagi berbohong untuk penguasanya.
+Gorvel pulang ke Tanah Tinggi keesokan harinya — bukan sebagai utusan yang gagal menagih, tetapi sebagai saksi yang tidak bisa lagi berbohong untuk penguasanya.
 
 Yang ia bawa: satu tenunan dari Vessia (untuk ayahnya), satu resep Sup Kamp Pertama (untuk ibunya, yang katanya "sudah terlalu lama makan tanpa cerita"), dan satu kalimat yang akan mengubah gunung:
 
@@ -153,13 +153,13 @@ BATU KALIAN INGAT IBU-IBU KALIAN.
 
 BATU KAMI MENUNGGU KALIAN.
 
-DUNIA SUDAH MEMBUKA PINTUNYA. AYOH."
+DUNIA SUDAH MEMBUKA PINTUNYA. AYO."
 
 ---
 
 Dan di bawahnya, satu baris dari ibu Tamma:
 
-"AYOH."
+"AYO."
 
 — ditulis persis seperti itu. Satu kata. Karena kata yang benar tidak perlu panjang.
 
@@ -173,7 +173,7 @@ Kalian tidak sendirian. Batu-batunya ingat.
 
 Dan pintu Caldrest — seperti kata ibu Tamma — tidak pernah tutup."
 
-— Bab 252 selesai. Gunung terbuka. Ayoh.
+— Bab 252 selesai. Gunung terbuka. Ayo.
 
 ---
 

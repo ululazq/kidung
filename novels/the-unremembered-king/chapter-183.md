@@ -24,7 +24,7 @@ Enam. Setiap entri resmi dibacakan ulang ke batu asah di ambang gudang — supay
 
 "Karena kalau tidak," kata Kovan, "kita hanya penerima kabar. Dengan pasal enam kita jadi mitra korespondensi. Dia kirim, kita terima, kita konfirmasi penerimaan." Ia menutup buku sandinya. "Doktrin pengikat senior: angka yang berpindah tangan berubah menjadi milik pemilik baru. Kabar juga begitu. Kalau kita konfirmasi tiap kali, dia tahu jaringannya hidup."
 
-Sareth Vayin menambahkan satu catatan historis yang membuat semua orang diam: ordo Penjaga Rekam pernah mencoba registri serupa empat generasi silam — Registri Suara Bawah — dan gagal bukan karena teknis, tapi karena takut: para pemimpi diperlakukan sebagai subjek penelitian, dan dalam dua tahun tidak ada lagi yang mau bercerita.
+Sareth Vayin menambahkan satu catatan historis yang membuat semua orang diam: ordo Penjaga Rekam pernah mencoba registri serupa empat generasi silam — Registri Suara Bawah — dan gagal bukan karena teknis, tetapi karena takut: para pemimpi diperlakukan sebagai subjek penelitian, dan dalam dua tahun tidak ada lagi yang mau bercerita.
 
 "Jadi aturan ketujuh," kata Sareth, menulis sendiri di papan: "Pemimpi adalah tamu kehormatan registri ini. Bukan subjek. Tamu disuguhi teh."
 
@@ -48,7 +48,7 @@ Yang paling terkesan oleh registri itu ternyata bukan tim inti, melainkan dua or
 
 Pertama, Tharrow. Bekas Kel itu datang ke pos Guild dua hari setelah pembukaan dengan permintaan yang membuat Maera menoleh dari dokumennya: "Aku mau jadi pendonatur. Aku punya uang sisa gaji lama yang tidak enak dipakai untuk apa-apa selain ini. Beli kursi bagus untuk ruang registri — yang bisa diduduk orang tua berjam-jam. Dan teh. Persediaan teh setahun." Ia meletakkan kantong shardmark di meja. "Aku pernah menjalankan mesin yang menghapus orang. Anggap saja ini cicilan."
 
-Kedua, Hale. Wali kota datang sendiri, tanpa pengawal, duduk di bangku tamu kehormatan pada sesi pencatatan ketiga, mendengarkan satu mimpi utuh dari seorang pemuda yang bermimpi bertemu ayahnya, lalu berkata kepada Maera dengan suara wali kota yang tidak gemetar kali ini: "Registri ini akan masuk anggaran kota mulai kuartal depan. Dan aku akan hadir tiap sesi kalau jadwalku memungkinkan — karena ayahku juga dari utara." Jeda. "Tidak ada nama keluargaku di daftar empat puluh tujuh. Tapi ada sepupu-sepupuku. Aku baru berani menyebutnya sekarang."
+Kedua, Hale. Wali kota datang sendiri, tanpa pengawal, duduk di bangku tamu kehormatan pada sesi pencatatan ketiga, mendengarkan satu mimpi utuh dari seorang pemuda yang bermimpi bertemu ayahnya, lalu berkata kepada Maera dengan suara wali kota yang tidak gemetar kali ini: "Registri ini akan masuk anggaran kota mulai kuartal depan. Dan aku akan hadir tiap sesi kalau jadwalku memungkinkan — karena ayahku juga dari utara." Jeda. "Tidak ada nama keluargaku di daftar empat puluh tujuh. Namun ada sepupu-sepupuku. Aku baru berani menyebutnya sekarang."
 
 Malam itu Ashvarok menulis di Hourglass:
 
@@ -61,7 +61,7 @@ Masalah pertama: bagaimana memverifikasi mimpi dari keluarga yang tinggal jauh? 
 
 Masalah kedua: apa yang dilakukan kalau dua mimpi bertentangan? Terjadi pada pekan ketiga — dua keluarga bermimpi tentang leluhur yang sama dengan detail berbeda (yang satu bermimpi leluhurnya tenang; yang lain bermimpi ia mencari jalan pulang). Rapat registri memutuskan dengan prinsip yang membuat Sareth mengangguk bangga: KEDUANYA dicatat, tanpa dipilih mana yang benar. "Dia bisa saja tenang dan mencari jalan pulang secara bersamaan," kata Sela. "Manusia di dalam cerita boleh kompleks seperti manusia di luar cerita."
 
-Dan masalah ketiga — yang paling manusiawi: beberapa pemimpi mulai datang SETIAP hari, bukan karena punya mimpi baru, tapi karena ruangan itu satu-satunya tempat mereka merasa dekat dengan orang yang hilang. Aturan kedelapan ditambahkan ibu Tamma tanpa rapat: "Yang datang tanpa mimpi tetap diseduh tehnya. Registri ini juga rumah duka. Duka tidak butuh jadwal."
+Dan masalah ketiga — yang paling manusiawi: beberapa pemimpi mulai datang SETIAP hari, bukan karena punya mimpi baru, tetapi karena ruangan itu satu-satunya tempat mereka merasa dekat dengan orang yang hilang. Aturan kedelapan ditambahkan ibu Tamma tanpa rapat: "Yang datang tanpa mimpi tetap diseduh tehnya. Registri ini juga rumah duka. Duka tidak butuh jadwal."
 
 ---
 
@@ -71,10 +71,10 @@ Entri: sembilan belas. Konfirmasi kedalaman: tujuh belas. Mimpi yang tidak bisa 
 
 ---
 
-Dan satu peristiwa kecil di akhir bulan yang tidak masuk laporan resmi mana pun, tapi yang kelak Sela sebut sebagai momen registri "berubah dari institusi menjadi organisme":
+Dan satu peristiwa kecil di akhir bulan yang tidak masuk laporan resmi mana pun, tetapi yang kelak Sela sebut sebagai momen registri "berubah dari institusi menjadi organisme":
 Seorang pemimpi tua — nenek dari blok barat yang bermimpi tentang suaminya tiap Kapat — datang pada hari Kapat seperti biasa, duduk di kursi tamu kehormatan, dan menemukan bahwa di meja sudah ada satu cangkir teh kedua yang diseduh panas.
 "Untuk siapa ini?" tanyanya.
-"Untuk suami Anda," kata anak pedagang garam — murid akademi termuda — tanpa mengangkat wajah dari bukunya. "Kalau dia bisa menyimpan pamitan orang-orang delapan belas tahun... dia pasti juga bisa mencium teh. Anggap saja kita tidak tahu pasti. Tapi anggapannya gratis."
+"Untuk suami Anda," kata anak pedagang garam — murid akademi termuda — tanpa mengangkat wajah dari bukunya. "Kalau dia bisa menyimpan pamitan orang-orang delapan belas tahun... dia pasti juga bisa mencium teh. Anggap saja kita tidak tahu pasti. Namun anggapannya gratis."
 
 Nenek itu memindahkan cangkir teh ke sisi meja yang kosong. Dan mulai minggu berikutnya, setiap pemimpi di ruangan itu otomatis diseduhkan DUA cangkir: satu untuk yang hidup, satu untuk yang dititipkan. Tradisi itu tidak pernah dibahas dalam rapat. Tidak perlu. Beberapa aturan lahir sendiri kalau rumahnya sudah benar.
 
@@ -87,5 +87,5 @@ Hari 356. Menghadiri registri sebagai orang biasa hari ini. Temuan: ruangan itu 
 Seribu tahun aku percaya penjaga berarti menjadi satu-satunya penghalang antara dunia dan kehancuran. Hari ini kupelajari definisi yang lebih baik: penjaga adalah orang yang membuat dirinya perlahan tidak dibutuhkan — karena yang dijaganya sudah bisa menjaga sendiri.
 Registri Mimpi Caldrest resmi menjadi hal pertama dalam dua kehidupanku yang berjalan sempurna tanpa aku. Aku sangat bangga sampai sakit.
 
-Sisa 53 kata — dan seperti semua sisa, ia untuk hal terkecil: sebelum pulang, Ashvarok mencuci cangkir tehnya sendiri dan meletakkannya terbalik di rak, seperti semua pengunjung lain. Kovan yang melihat dari sudut ruangan tidak berkata apa-apa. Tapi di buku sandinya malam itu ada satu baris:
+Sisa 53 kata — dan seperti semua sisa, ia untuk hal terkecil: sebelum pulang, Ashvarok mencuci cangkir tehnya sendiri dan meletakkannya terbalik di rak, seperti semua pengunjung lain. Kovan yang melihat dari sudut ruangan tidak berkata apa-apa. Namun di buku sandinya malam itu ada satu baris:
 "Raja mencuci cangkir sendiri. Sistem resmi bekerja."

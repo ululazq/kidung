@@ -11,13 +11,13 @@ Karena bahasa wilayah ini adalah tenunan, maka "undangan resmi" untuk hari-H dib
 
 Kain itu digelar di atas nat-nat sembilan kamp sehari sebelum acara — dan malamnya, untuk pertama kalinya, semua nat selatan... eh, barat laut (nama wilayah memang membingungkan) menjawab serentak dengan irama panjang yang diterjemahkan Kovan sambil tertawa:
 
-"KAMI TIGA RATUS TAHUN NUNGGU ORANG BACA KAMI. SEKARANG MALAH KAMI YANG DISURUH PERSIAPAN. BAIKLAH. BAIKLAH. KAMI SIAP."
+"KAMI TIGA RATUS TAHUN MENUNGGU ORANG BACA KAMI. SEKARANG MALAH KAMI YANG DISURUH PERSIAPAN. BAIKLAH. BAIKLAH. KAMI SIAP."
 
 ---
 
 Hari-H datang dengan cuaca yang oleh para tetua disebut langit bagus: cerah tanpa terik, angin pelan cukup untuk menggerakkan kain-kain penanda pos.
 
-Enam puluh satu jiwa. Sembilan nat. Dan satu perbedaan prosedur yang khas barat laut: setiap jiwa yang naik DIBACA DULU namanya dari kain keluarganya — bukan dinyanyikan, tapi dibaca oleh penenun tua, sambil kain itu digelarkan di depan nat supaya orang yang naik bisa "membaca balik" nama keluarganya dari pola.
+Enam puluh satu jiwa. Sembilan nat. Dan satu perbedaan prosedur yang khas barat laut: setiap jiwa yang naik DIBACA DULU namanya dari kain keluarganya — bukan dinyanyikan, tetapi dibaca oleh penenun tua, sambil kain itu digelarkan di depan nat supaya orang yang naik bisa "membaca balik" nama keluarganya dari pola.
 
 Jiwa pertama: kepala kamp pertama, laki-laki tua yang tiga ratus tahun silam adalah pemimpin penitipan wilayah.
 
@@ -49,11 +49,11 @@ Ia diam. Semua orang tegang.
 
 Lalu murid-murid sekolah menenun — dua belas anak muda yang baru belajar sebulan — maju membawa kain yang mereka tenun sendiri semalam, polanya sederhana, benangnya bahkan belum rapi ujungnya:
 
-"Kami belum tahu cara membuat pola sesuai tradisi kalian," kata Harn sebagai juru bicara, "tapi ini ada namamu. Kami tulis pakai cara yang kami bisa. Nanti kalau kalian mau ajari kami pola yang benar, kami tenun ulang yang lebih bagus."
+"Kami belum tahu cara membuat pola sesuai tradisi kalian," kata Harn sebagai juru bicara, "tetapi ini ada namamu. Kami tulis pakai cara yang kami bisa. Nanti kalau kalian mau ajari kami pola yang benar, kami tenun ulang yang lebih bagus."
 
 Jiwa muda keluarga itu — umurnya waktu dititipkan hanya dua puluhan — membaca kain murid-murid itu dengan jari seperti membaca kain asli, lalu berkata:
 
-"Polanya jelek. Tulisannya miring. Benangnya belum dirapikan." Ia tersenyum lebar. "Tapi ini kain pertama yang menyebut namaku dalam tiga ratus tahun. Maka ini kain terbaik di dunia."
+"Polanya jelek. Tulisannya miring. Benangnya belum dirapikan." Ia tersenyum lebar. "Namun ini kain pertama yang menyebut namaku dalam tiga ratus tahun. Maka ini kain terbaik di dunia."
 
 Kain murid-murid itu kemudian tidak dibuang — ia diminta untuk dibawa ke sekolah menenun dan digantung di dinding, di samping kain-kain tua. Lompa menyetujuinya dengan aturan tambahan yang ditulis di label kain:
 
@@ -75,7 +75,7 @@ Ashvarok berjalan di sepanjangnya menjelang senja, membaca potongan demi potonga
 
 Pola raja kurus yang selalu menyapa batu.
 
-Ditulis tanpa nama penenun. Tapi semua orang tahu tangannya siapa.
+Ditulis tanpa nama penenun. Namun semua orang tahu tangannya siapa.
 
 Ashvarok berdiri di depan pola itu lama. Lalu berkata kepada kepala kamp yang mendekat dari belakang:
 
@@ -107,13 +107,13 @@ Dan balasan Ashvarok pada kain itu — ditenun sendiri olehnya semalam butuh sep
 
 Kain itu dikirim kembali ke barat laut sebagai penutup resmi wilayah — dan oleh Lompa digantung di ujung Jalan Nama, di posisi terdepan dari semua kain, supaya "siapa pun yang datang dari jalan tahu: orang yang menyapa batu kecil sekalipun akan dibalas."
 
-Dan satu catatan terakhir untuk arsip wilayah barat laut, dari ibu Tamma — yang menolak datang ke pemulangan dengan alasan "dapur tidak bisa ditinggal", tapi diam-diam mengirim dua puluh wadah sup dalam gerobak khusus:
+Dan satu catatan terakhir untuk arsip wilayah barat laut, dari ibu Tamma — yang menolak datang ke pemulangan dengan alasan "dapur tidak bisa ditinggal", tetapi diam-diam mengirim dua puluh wadah sup dalam gerobak khusus:
 
 "Untuk kepala kamp pertama: selamat punya delapan belas generasi. Kalau butuh resep sup untuk acara kenalan keluarga, panggil saja. Spesialisasi saya memang makan malam keluarga besar."
 
 Kepala kamp pertama menjawab surat itu keesokan harinya — lewat nat aula, karena katanya "lebih cepat dari kurir":
 
-"Terima kasih untuk supnya. Delapan belas generasi itu butuh banyak latihan memasak. Maka kami minta satu hal: ajarilah cucu-cucu kami masak. Kami tahu cara menanam. Tapi tiga ratus tahun silam, resep masakan kami hilang bersama kamp."
+"Terima kasih untuk supnya. Delapan belas generasi itu butuh banyak latihan memasak. Maka kami minta satu hal: ajarilah cucu-cucu kami masak. Kami tahu cara menanam. Namun tiga ratus tahun silam, resep masakan kami hilang bersama kamp."
 
 Jawaban ibu Tamma:
 

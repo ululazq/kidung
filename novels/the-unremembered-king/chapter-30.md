@@ -5,19 +5,21 @@ chapter: 30
 
 Subuh hari ketiga puluh empat, pintu tua di ujung lorong B sudah terbuka, dan Ashvarok turun melewatinya ke dalam aula delapan puluh kali tiga puluh untuk pertama kalinya dalam seribu tahun.
 
-Ruangan itu lebih rendah dari ingatannya, dan jauh lebih sunyi. Dulu di lantainya berdiri dua belas tiap pengikat dan sebuah dais batu tempat sumpah dibacakan. Kini lantai itu tertutup endapan garam setebal mata kaki, putih seperti gosong salju, dan di tengahnya — tepat di tengahnya, karena pembangun era Hegemony tidak tahu kata kebetulan — retakan besar menyala redup dari dalam, selebar dua lengan manusia, memancarkan gema yang tidak terasa seperti bunyi melainkan seperti tarikan napas pertama sesudah tenggelam.
+Ruangan itu lebih rendah daripada ingatannya, dan jauh lebih sunyi. Dahulu di lantainya berdiri dua belas pengikat dan sebuah dais batu tempat sumpah dibacakan. Kini lantai itu tertutup endapan garam setebal mata kaki, putih seperti salju yang gosong, dan di tengahnya — tepat di tengahnya, karena pembangun era Hegemony tidak tahu kata kebetulan — retakan besar menyala redup dari dalam, selebar dua lengan manusia, memancarkan gema yang tidak terasa seperti bunyi melainkan seperti tarikan napas pertama sesudah tenggelam.
 
 the Threshold. Segel yang menjadi dirinya sendiri selama seribu tahun, dipandang untuk pertama kalinya dari luar.
 
 Ashvarok berdiri di bibirnya dan mendengarkan. Kondisinya bisa dibaca seperti laporan. Pengikat utama bertahan, tetapi kurus — helai demi helai telah digigit dari sisi dalam selama bertahun-tahun oleh sesuatu yang bekerja dengan sabar dan alat yang rapi. Jejak kerjanya ada di sekeliling aula ini: bekas penyangga alat, lubang pasak berumur beda-beda, dan satu jalur gesekan di lantai yang menuju ke arah lorong sembilan bawah. Jalur itu dipakai berulang-ulang.
 
-Dia mengambil data yang dibutuhkan Maera: kedalaman, irama, arah tarikan, posisi pasti retakan terhadap peta tambang atas. Semua dicatat dengan kapur pada lempeng pribadinya. Pekerjaan selesai dalam satu jam.
+Bau di ruangan ini juga tidak seperti bagian tambang yang lain. Bukan bau debu atau minyak. Bau garam dan sesuatu yang lebih tua daripada garam — bau ruangan yang menunggu.
+
+Ia mengambil data yang dibutuhkan Maera: kedalaman, irama, arah tarikan, posisi pasti retakan terhadap peta tambang atas. Semua dicatat dengan kapur pada lempeng pribadinya. Pekerjaan selesai dalam satu jam.
 
 Yang tidak selesai adalah pertanyaan siapa pelakunya — dan jawabannya datang sendiri pada tengah hari, dari arah lorong B, berupa bunyi langkah banyak orang dan cahaya lampu kuil yang terlalu putih untuk tambang.
 
-Tim berjubah itu masuk enam jam lebih awal. Persis seperti yang dia hitung.
+Tim berjubah itu masuk enam jam lebih awal. Persis seperti yang ia hitung.
 
-Dan di antara mereka, membawa lempeng pengukur baru, berjalan sosok yang membuat Ashvarok menyempitkan perhatian — Kovan, Shift Guard Voice-tier dari Quota Office — orang yang dua kali gagal membacanya di persimpangan utama, orang yang alatnya "rusak" karena abu. Tharrow tidak mengenalmu, pikir Ashvarok. Tapi orang ini datang untukmu secara pribadi. Orang-orang yang pernah ditipu selalu kembali ke tempat kejahatannya.
+Dan di antara mereka, membawa lempeng pengukur baru, berjalan sosok yang membuat Ashvarok menyempitkan perhatian — Kovan, Shift Guard Voice-tier dari Quota Office — orang yang dua kali gagal membacanya di persimpangan utama, orang yang alatnya "rusak" karena abu. *Tharrow tidak mengenalmu*, pikir Ashvarok. *Namun orang ini datang untukmu secara pribadi.* Orang-orang yang pernah ditipu selalu kembali ke tempat kejahatannya.
 
 Ashvarok tidak bersembunyi di balik batu. Ia bersembunyi di balik abu.
 
@@ -29,13 +31,13 @@ Dari celah kolom batu, Ashvarok memperhatikan mereka bekerja: enam orang. Empat 
 
 Ossian Vael.
 
-Lebih muda daripada suara yang dibayangkan dari cerita-cerita, lebih tenang, dan matanya melakukan hal yang membuat Ashvarok mengetatkan pegangan. Matanya menghitung aula. Tiang, keluaran, arah angin, posisi gelap. Pengikat Chorus-tier tidak datang ke mana pun tanpa membaca medan tempur lebih dahulu.
+Lebih muda daripada suara yang dibayangkan dari cerita-cerita, lebih tenang, dan matanya melakukan hal yang membuat Ashvarok mengencangkan pegangan. Matanya menghitung aula. Tiang, keluaran, arah angin, posisi gelap. Pengikat Chorus-tier tidak datang ke mana pun tanpa membaca medan tempur lebih dahulu.
 
 Pengikat muda membuka petinya di tepi retakan besar itu dan mulai bekerja. Gema klaim dialirkan ke dalam seam, prosedur pemakaian resmi yang butuh waktu berminggu-minggu dan dimulai dengan pembacaan awal. Pembacaan itulah yang tidak boleh terjadi. Pembacaan itulah yang akan merekam bahwa seam ini bukan seam biasa, bahwa di dalamnya tersimpan rekaman seribu tahun — termasuk malam ketika lima nama diteriakkan dan satu nama dibakar.
 
 Maka Ashvarok memadamkannya.
 
-Bukan dengan ledakan. Ash tidak bekerja seperti itu. Ia hanya membuka pola pembusukan pada udara di antara pengikat muda dan retakan, dan membiarkan abu-abu halus yang menyelimutinya menelan gema klaim itu sama seperti ia menelan bunyi langkah — diam-diam, tanpa benturan, tanpa saksi teknis. Alat pengikat muda itu mendadak mencatat kekosongan.
+Bukan dengan ledakan. Ash tidak bekerja seperti itu. Ia hanya membuka pola pembusukan pada udara di antara pengikat muda dan retakan, dan membiarkan abu halus yang menyelimutinya menelan gema klaim itu sama seperti ia menelan bunyi langkah — diam-diam, tanpa benturan, tanpa saksi teknis. Alat pengikat muda itu mendadak mencatat kekosongan.
 
 "Pembacaan kosong," kata pengikat muda itu. "Ulangi."
 
@@ -61,23 +63,23 @@ Enam kepala berputar ke arah dais. Lampu-lampu menyala. Senjata gema terisi. Dan
 
 "Cukup," kata Ossian. Ia menatap kegelapan di atas dais — tepat ke arah Ashvarok, atau ke arah yang kebetulan berisi Ashvarok — dengan tatapan yang tidak marah dan tidak takut, melainkan menimbang. "Kita sudah diberi jawaban. Jawabannya: tempat ini tidak kosong, pemiliknya tidak mau bertransaksi malam ini, dan memaksakan klaim kepada penjaga yang tidak kita kenal adalah cara paling mahal untuk kehilangan investasi." Ia menurunkan tangannya. "Tarik peralatan. Kami pulang."
 
-"Malam, Tuan Vael?" protes pengikat muda, suaranya masih getar. "Klaimnya—"
+"Malam, Tuan Vael?" protes pengikat muda, suaranya masih bergetar. "Klaimnya—"
 
 "Teratur, kataku."
 
-Mereka mundur persis seperti namanya. Teratur, satu per satu, lampu-lampu putih menyusuri lorong B yang gelap sampai hilang. Yang terakhir keluar adalah Ossian Vael sendiri, dan di ambang pintu tua itu ia berhenti, tanpa menoleh, dan meninggalkan satu kalimat di aula yang sunyi:
+Mereka mundur persis seperti perintahnya. Teratur, satu per satu, lampu-lampu putih menyusuri lorong B yang gelap sampai hilang. Yang terakhir keluar adalah Ossian Vael sendiri, dan di ambang pintu tua itu ia berhenti, tanpa menoleh, dan meninggalkan satu kalimat di aula yang sunyi:
 
 "Sampai jumpa di penilaian triwulan, penjaga. Saya akan bawa harga yang lebih pantas."
 
 Langkah-langkahnya pun sirna.
 
-Ashvarok menunggu seratus hitungan penuh sebelum melepaskan pola abu. Ia jatuh berlutut di atas endapan garam, dingin sampai ke tulang, lelah sampai dunia bergoyang pelan. Tetapi pekerjaan malam itu berhasil. Tim berjubah pulang tanpa klaim, Maera akan memiliki rekaman penyalahan klaim dari alatnya di titik ukur — ia merasakan denyut alat itu tadi, menyala, merekam — dan distrik timur mendapat penundaan enam bulan yang dibayar dengan doktrin musuh sendiri.
+Ashvarok menunggu seratus hitungan penuh sebelum melepaskan pola abu. Ia jatuh berlutut di atas endapan garam, dingin sampai ke tulang, lelah sampai dunia bergoyang pelan. Tetapi pekerjaan hari itu berhasil. Tim berjubah pulang tanpa klaim, Maera akan memiliki rekaman penyalahan klaim dari alatnya di titik ukur — ia merasakan denyut alat itu tadi, menyala, merekam — dan distrik timur mendapat penundaan enam bulan yang dibayar dengan doktrin musuh sendiri.
 
 Ia bangkit untuk pulang. Dan ketika kakinya sudah mengarah ke pintu tua itu, ketika debu dan sunyi sudah kembali menjadi milik aula —
 
 retakan besar itu bernapas.
 
-Bukan irama tiga detik. Bukan tarikan lapar yang serak. Napas panjang, dalam, penuh — napas sesuatu yang sangat besar dan sangat tua yang selama seribu tahun menahan diri untuk tidak berbicara, dan malam ini, melihat kuncinya berlutut di depannya setelah menolak tawaran musuh, akhirnya tidak menahan lagi.
+Bukan irama tiga detik. Bukan tarikan lapar yang serak. Napas panjang, dalam, penuh — napas sesuatu yang sangat besar dan sangat tua yang selama seribu tahun menahan diri untuk tidak berbicara, dan hari ini, melihat kuncinya berlutut di depannya setelah menolak tawaran musuh, akhirnya tidak menahan lagi.
 
 Gema itu naik dari dasar seam, melewati endapan garam, melewati kedua telapak tangan yang pernah membuatnya, dan menyentuh Ashvarok bukan sebagai getaran melainkan sebagai kata.
 
@@ -85,10 +87,10 @@ Satu kata.
 
 Nama aslinya.
 
-Nama yang dibakar seribu tahun silam di hadapan lima panglima dan delapan ribu prajurit; nama yang tidak tertulis di buku mana pun karena semua bukunya ikut terbakar bersama kerajaannya; nama yang tidak diketahui siapa pun yang hidup — diucapkan oleh retakan itu dengan suara yang hanya bisa dibuat oleh sesuatu yang hadir waktu nama itu terakhir kali diucapkan dengan benar.
+Nama yang dibakar seribu tahun silam di hadapan lima panglima dan delapan ribu prajurit; nama yang tidak tertulis di buku mana pun karena semua bukunya ikut terbakar bersama kerajaannya; nama yang tidak diketahui siapa pun yang hidup — diucapkan oleh retakan itu dengan suara yang hanya bisa dibuat oleh sesuatu yang hadir ketika nama itu terakhir kali diucapkan dengan benar.
 
 Ashvarok berdiri sangat diam di atas endapan garam putih, di aula delapan puluh kali tiga puluh, dan untuk pertama kalinya sejak the Long Dusk, seseorang memanggil namanya.
 
 Dan yang memanggil bukan manusia.
 
-Ashvarok berdiri diam lama setelah itu, menghitung langkah dari bibir retakan sampai pintu lorong B, dan menemukan dirinya menghafal jarak itu tanpa pernah diminta siapa pun.
+Ia berdiri diam lama setelah itu, menghitung langkah dari bibir retakan sampai pintu lorong B, dan menemukan dirinya menghafal jarak itu tanpa pernah diminta siapa pun.

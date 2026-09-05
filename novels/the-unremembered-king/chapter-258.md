@@ -9,7 +9,7 @@ Seorang penebang kayu tua bernama Halm jatuh di lereng, kepala membentur batu, d
 
 suara yang keluar dari mulutnya bukan suaranya.
 
-Suara itu tenang, tua, dan memanggil-manggil: "Vessia. Vessia Morra. Aku tahu kau bisa menerjemahkanku."
+Suara itu tenang, tua, dan memanggil-memanggil: "Vessia. Vessia Morra. Aku tahu kau bisa menerjemahkanku."
 
 ---
 
@@ -17,7 +17,7 @@ Vessia datang dengan Ashvarok-Renn (konsultan resmi penghuni ganda) dan Gella (d
 
 Pemeriksaan Gella sederhana dan mengejutkan:
 
-"Jiwanya utuh dan hidup — tidur di dalam, seperti kasus Renn dulu. Yang bicara sekarang adalah jiwa kedua: resonansi nat-gunung yang masuk ke tubuhnya saat kejatuhan." Ia menatap Ashvarok-Renn. "Persis kasus kalian — tapi terbalik. Kalau dulu manusia menampung raja... sekarang nat menampung manusia."
+"Jiwanya utuh dan hidup — tidur di dalam, seperti kasus Renn dulu. Yang bicara sekarang adalah jiwa kedua: resonansi nat-gunung yang masuk ke tubuhnya saat kejatuhan." Ia menatap Ashvarok-Renn. "Persis kasus kalian — tetapi terbalik. Kalau dulu manusia menampung raja... sekarang nat menampung manusia."
 
 Ashvarok-Renn menatap satu sama lain di dalam.
 
@@ -85,7 +85,7 @@ Ashvarok-Renn menjawab bersamaan:
 
 Sunyi panjang.
 
-Lalu Ashvarok menjawab — bukan sebagai raja, tapi sebagai tamu yang pernah pulang:
+Lalu Ashvarok menjawab — bukan sebagai raja, tetapi sebagai tamu yang pernah pulang:
 
 "Kau tidak kembali jadi yang dulu, Kawan.
 
@@ -181,7 +181,7 @@ Dan satu kalimat dari ibu Tamma — yang menutup semuanya di tepi laut:
 
 "Semua teori bagus.
 
-Tapi tetap: pulang, mandi, makan sup.
+Namun tetap: pulang, mandi, makan sup.
 
 Besok hidup lagi."
 
@@ -253,7 +253,7 @@ Setiap murid baru Sekolah Mendengar Vel-Morra wajib duduk di depannya sekali —
 
 Dan setiap cerita selalu ditutup dengan kalimat yang sama:
 
-"DUNIA LEBIH BESAR DARI YANG KAU TAU. DAN IA MENUNGGU KAUMELIHAT."
+"DUNIA LEBIH BESAR DARI YANG KAU TAHU. DAN IA MENUNGGU KAUMELIHAT."
 
 — Bab 258 selesai.
 
@@ -263,7 +263,7 @@ Dan satu kalimat dari ibu Tamma — yang selalu menutup dengan makanan:
 
 "DAN JANGAN LUPA MAKAN DULU SEBELUM LIHAT DUNIA.
 
-PERUT KOSONG BISA LIHAT LAUT, TAPI TIDAK BISA MENIKMATINYA."
+PERUT KOSONG BISA LIHAT LAUT, NAMUN TIDAK BISA MENIKMATINYA."
 
 ---
 
@@ -281,7 +281,7 @@ Dan satu baris dari ibu Tamma — yang menutup dengan cara yang hanya bisa dilak
 
 "Semua teori bagus, Nak.
 
-Tapi jangan lupa: Halm sekarang kerja di warung asam-asaman kembar Tami-Tomi. Katanya 'butuh pekerjaan yang dekat nat'.
+Namun jangan lupa: Halm sekarang kerja di warung asam-asaman kembar Tami-Tomi. Katanya 'butuh pekerjaan yang dekat nat'.
 
 Dan nat-nya senang.
 

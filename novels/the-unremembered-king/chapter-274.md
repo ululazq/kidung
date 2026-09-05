@@ -5,7 +5,7 @@ chapter: 274
 
 Permintaan pertemuan datang dari sisi yang tidak disangka siapa pun.
 
-Bukan dari Ashvarok-Renn. Bukan dari Dewan. Tapi dari Anthema Spire sendiri — lewat surat yang ditulis tangan pemimpin regional Choir itu, tanpa stempel resmi, tanpa protokol, dikirim langsung ke barak utara Caldrest dengan satu kalimat pembuka yang membuat Sela membacanya dua kali:
+Bukan dari Ashvarok-Renn. Bukan dari Dewan. Namun dari Anthema Spire sendiri — lewat surat yang ditulis tangan pemimpin regional Choir itu, tanpa stempel resmi, tanpa protokol, dikirim langsung ke barak utara Caldrest dengan satu kalimat pembuka yang membuat Sela membacanya dua kali:
 
 *Kepada raja abu-abu: aku butuh bicara dengan orang yang paling tidak ingin kujumpai.*
 
@@ -17,7 +17,7 @@ Bukan dari Ashvarok-Renn. Bukan dari Dewan. Tapi dari Anthema Spire sendiri — 
 
 ---
 
-Tempat yang dipilih Ashvarok-Renn bukan aula, bukan Spire, tapi galeri sembilan — lorong bawah tanah tempat semua cerita ini pernah dimulai: tempat the Hollowed pertama ditemukan, tempat nat favorit Pak Dekan menyimpan delapan tahun keseharian Barim.
+Tempat yang dipilih Ashvarok-Renn bukan aula, bukan Spire, tetapi galeri sembilan — lorong bawah tanah tempat semua cerita ini pernah dimulai: tempat the Hollowed pertama ditemukan, tempat nat favorit Pak Dekan menyimpan delapan tahun keseharian Barim.
 
 Dua kursi kayu. Satu meja kecil. Dan di dinding, nat tua galeri sembilan yang sudah mendengar lebih banyak percakapan penting daripada arsip mana pun.
 
@@ -58,11 +58,11 @@ Nat menjawab dengan irama pendek yang sudah ribuan tahun usianya.
 
 "Dunia seribu tahun membuktikan asumsi itu benar—"
 
-"Dunia seribu tahun membuktikan asumsi itu," kata Ashvarok-Renn. "Karena asumsi itulah yang dibangun dunia. Orang yang dicari kesalahannya akan menemukan cara bersalah. Aku pernah memerintah Hegemony dengan struktur persis begitu — pengawas, inkuisitor, pemeriksa. Dan aku bisa kasih tahu persis kapan keruntuhannya dimulai: bukan saat musuh menyerang. Saat sistem mulai butuh musuh untuk tetap berdiri."
+"Dunia seribu tahun membuktikan asumsi itu," kata Ashvarok-Renn. "Karena asumsi itulah yang dibangun dunia. Orang yang dicari kesalahannya akan menemukan cara bersalah. Aku pernah memerintah Hegemony dengan struktur persis begitu — pengawas, inkuisitor, pemeriksa. Dan aku bisa beri tahu persis kapan keruntuhannya dimulai: bukan saat musuh menyerang. Saat sistem mulai butuh musuh untuk tetap berdiri."
 
 Ia mengambil pena, dan di lembar terakhir doktrin revisi menulis usul yang kelak disebut sejarawan sebagai keputusan institusi paling aneh dalam sejarah Karvess:
 
-*Lengan baru Choir: Lengan Mendengar. Tugasnya bukan memburu kesalahan, tapi mencari hal-hal yang belum didengar — keluhan yang belum sampai, versi yang belum tercatat, orang yang belum pernah ditanya. Laporan bulanannya bukan daftar pelanggar, tapi daftar pertanyaan yang belum terjawab.*
+*Lengan baru Choir: Lengan Mendengar. Tugasnya bukan memburu kesalahan, tetapi mencari hal-hal yang belum didengar — keluhan yang belum sampai, versi yang belum tercatat, orang yang belum pernah ditanya. Laporan bulanannya bukan daftar pelanggar, tetapi daftar pertanyaan yang belum terjawab.*
 
 *Kepalanya bukan jabatan yang ditunjuk Dewan, melainkan gilir: satu tahun dari Choir, satu tahun dari Guild, satu tahun dari Sekolah Mendengar, bergantian tanpa akhir, agar tidak ada yang memilikinya cukup lama untuk mengubahnya menjadi takhta.*
 
@@ -89,11 +89,11 @@ Mereka keluar dari galeri sembilan menjelang subuh, dan di pintu tambang, Anthem
 
 Ashvarok-Renn memikirkan jawabannya lebih lama dari semua jawaban malam itu.
 
-"Kemungkinan itu besar," katanya akhirnya, jujur seperti jawaban nomor dua puluh satu. "Tapi kau lupa satu hal tentang dirimu versi seribu tahun silam: doktrin halaman keduanya sudah ada sejak malam itu. Ditulis oleh generasi ketakutan yang tetap menyelipkan syarat harapan di halaman kedua — lalu menyembunyikannya dari murid-murid mereka sendiri karena takut." Ia mengangguk kepada pemimpin tua itu. "Orang-orang seperti kau selalu ada di setiap era, Anthema. Yang menentukan bukan ketakutannya — semua orang ketakutan. Yang menentukan: apakah dia menyembunyikan halaman kedua... atau mengajarkannya."
+"Kemungkinan itu besar," katanya akhirnya, jujur seperti jawaban nomor dua puluh satu. "Namun kau lupa satu hal tentang dirimu versi seribu tahun silam: doktrin halaman keduanya sudah ada sejak malam itu. Ditulis oleh generasi ketakutan yang tetap menyelipkan syarat harapan di halaman kedua — lalu menyembunyikannya dari murid-murid mereka sendiri karena takut." Ia mengangguk kepada pemimpin tua itu. "Orang-orang seperti kau selalu ada di setiap era, Anthema. Yang menentukan bukan ketakutannya — semua orang ketakutan. Yang menentukan: apakah dia menyembunyikan halaman kedua... atau mengajarkannya."
 
 Anthema berdiri diam lama.
 
-Lalu ia melakukan sesuatu yang tidak pernah dilakukan jabatan itu kepada siapa pun dalam catatan Karvess: membungkuk — sedikit, tapi sungguhan — kepada raja abu-abu, lalu berjalan masuk ke lorong subuh menuju gerbang timur.
+Lalu ia melakukan sesuatu yang tidak pernah dilakukan jabatan itu kepada siapa pun dalam catatan Karvess: membungkuk — sedikit, tetapi sungguhan — kepada raja abu-abu, lalu berjalan masuk ke lorong subuh menuju gerbang timur.
 
 Di belakangnya, nat tua galeri sembilan berdenyut pelan, dan Barim — yang mendengar semuanya dari pos jaga tanpa pura-pura tidak mendengar — mencatat di buku jaga hanya satu baris:
 
@@ -110,7 +110,7 @@ Maera Tull. Pensiun dari Guild. Guru hitung.
 
 Ia memandang Anthema Spire — dua mantan institusi musuh, duduk di galeri bawah tanah tempat semuanya dimulai.
 
-"Kau sedang mendirikan Lengan Mendengar. Aku dengar tadi dari lorong — maaf, nat-nat di sini bocornya parah." Barim, dari pos jaga, batuk kecil yang tidak meyakinkan. "Aku pensiunan Guild. Jabatanku habis, tapi telapak tanganku belum. Ada satu pekerjaan yang tidak bisa dilakukan nat, tidak bisa dilakukan murid sekolah, dan butuh empat puluh tahun pengalaman membaca lempeng: memverifikasi bahwa yang didengar itu benar. Mendengar tanpa verifikasi itu sama saja dengan doktrin lama versi sopan — percaya dulu, cek belakangan, atau tidak sama sekali."
+"Kau sedang mendirikan Lengan Mendengar. Aku dengar tadi dari lorong — maaf, nat-nat di sini bocornya parah." Barim, dari pos jaga, batuk kecil yang tidak meyakinkan. "Aku pensiunan Guild. Jabatanku habis, tetapi telapak tanganku belum. Ada satu pekerjaan yang tidak bisa dilakukan nat, tidak bisa dilakukan murid sekolah, dan butuh empat puluh tahun pengalaman membaca lempeng: memverifikasi bahwa yang didengar itu benar. Mendengar tanpa verifikasi itu sama saja dengan doktrin lama versi sopan — percaya dulu, cek belakangan, atau tidak sama sekali."
 
 Anthema Spire memandang perempuan penilai tua itu lama.
 

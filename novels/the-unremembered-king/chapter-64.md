@@ -29,7 +29,7 @@ Tharrow tertawa sekali, pendek, bunyi yang paling tidak sedih yang keluar dariny
 
 "Kamu punya alasan untuk memilih malam ini," kata Ashvarok. "Katakan. Aku tidak membeli barang tanpa tahu kenapa penjualnya tergesa."
 
-Jawaban itu, ironisnya, membuat bahu Overseer itu lebih lurus — orang administratif selalu lebih percaya kepada prosedur daripada kepada belas kasihan. "Tenggatkku lewat," kata Tharrow. "Penilaian triwulan II sukses tanpa namaku di dalamnya. Vael tidak mengucapkannya, tapi kalimat-kalimatnya sudah mengatakannya. Laporan kosong diganti nama sampulnya, atau arsip cabang utara menunggu. Arsip utara artinya akhir jabatan dengan rapi, jauh dari kota ini, jauh dari semua yang pernah kubangun." Sarung tangannya yang bersih itu mengepal. "Empat belas bulan aku bekerja untuk rantai itu. Amplop demi amplop. Aku tahu aku bisa disingkirkan — aku hanya tidak mau disingkirkan sendirian, membawa semuanya sendirian, seperti kertas mati yang dibakar diam-diam."
+Jawaban itu, ironisnya, membuat bahu Overseer itu lebih lurus — orang administratif selalu lebih percaya kepada prosedur daripada kepada belas kasihan. "Tenggatkku lewat," kata Tharrow. "Penilaian triwulan II sukses tanpa namaku di dalamnya. Vael tidak mengucapkannya, tetapi kalimat-kalimatnya sudah mengatakannya. Laporan kosong diganti nama sampulnya, atau arsip cabang utara menunggu. Arsip utara artinya akhir jabatan dengan rapi, jauh dari kota ini, jauh dari semua yang pernah kubangun." Sarung tangannya yang bersih itu mengepal. "Empat belas bulan aku bekerja untuk rantai itu. Amplop demi amplop. Aku tahu aku bisa disingkirkan — aku hanya tidak mau disingkirkan sendirian, membawa semuanya sendirian, seperti kertas mati yang dibakar diam-diam."
 
 "Dan kamu berpikir tambang ini punya kapal yang cukup kokoh untuk ditumpangi."
 
@@ -41,7 +41,7 @@ Ashvarok hampir menghargai kejujuran itu. Hampir.
 
 Map tipis itu tidak diserahkan. Tharrow hanya membukanya setengah, di bawah siku, seperti pedagang yang menunjukkan dagangan tanpa melepas pegangan.
 
-"Isi arsip pribadiku," kata Overseer itu. "Kertas 'turun perdana mundur satu hari' — tanggal bohong yang kuterima lewat rantai yang seharusnya tidak ada. Amplop-amplop persentase rutin, empat belas bulan, kode kotak garis miring. Log slot serahan malam, lengkap dengan jam dan tanda tangan penerima bagian." Ia menutupnya lagi. "Semua yang dibutuhkan komisi audit untuk menarik benang dari kurir sampai ke meja bekerja pejabat Vael. Aku tahu siapa kamu. Aku tahu kamu dan tambang ini sedang berperang dengan orang yang sama. Ambil. Pakailah. Yang aku minta hanya satu — kalau jatuh, jangan aku yang jatuh sendirian."
+"Isi arsip pribadiku," kata Overseer itu. "Kertas 'turun perdana mundur satu hari' — tanggal bohong yang kuterima lewat rantai yang seharusnya tidak ada. Amplop-amplop persentase rutin, empat belas bulan, kode kotak garis miring. Log slot serahan malam, lengkap dengan jam dan tanda tangan penerima bagian." Ia menutupnya lagi. "Semua yang dibutuhkan komisi audit untuk menarik benang dari kurir sampai ke meja kerja pejabat Vael. Aku tahu siapa kamu. Aku tahu kamu dan tambang ini sedang berperang dengan orang yang sama. Ambil. Pakailah. Yang aku minta hanya satu — kalau jatuh, jangan aku yang jatuh sendirian."
 
 Angin karantina membawa abu halus melintasi gang. Ashvarok memikirkan penawaran itu selama dua tarikan napas penuh, dengan cara yang sama ia pernah menimbang panener, kurir bisu, dan semua makhluk yang terjebak di antara dua mesin yang lebih besar daripada mereka.
 
@@ -49,7 +49,7 @@ Angin karantina membawa abu halus melintasi gang. Ashvarok memikirkan penawaran 
 
 "Kamu tidak mendengar—"
 
-"Aku mendengar semuanya. Dan aku menolak menjadi sekutumu." Ashvarok melangkah lebih dekat satu langkah, sehingga wajah mereka cukup dekat untuk saling membaca, karena itulah inti dari malam ini. "Sekutu adalah orang yang berbagi nasib, Tharrow. Nasibmu sedang jatuh, dan nasibku belum. Aku tidak akan mengikat milikku pada milikmu. Tapi informasimu — itu barang lain. Informasi bisa dibeli tanpa menikah."
+"Aku mendengar semuanya. Dan aku menolak menjadi sekutumu." Ashvarok melangkah lebih dekat satu langkah, sehingga wajah mereka cukup dekat untuk saling membaca, karena itulah inti dari malam ini. "Sekutu adalah orang yang berbagi nasib, Tharrow. Nasibmu sedang jatuh, dan nasibku belum. Aku tidak akan mengikat milikku pada milikmu. Namun informasimu — itu barang lain. Informasi bisa dibeli tanpa menikah."
 
 Tharrow menatapnya, dan di matanya bekerja perhitungan yang sama yang selama setahun memakai audit, jerat, dan daftar sebagai senjata — menghitung nilai jual. "Berapa?"
 
@@ -85,7 +85,7 @@ Brannoc menunggunya di gudang perkakas dengan lampu setengah nyala dan dua cawan
 
 Brannoc menerima kalimat itu seperti menerima semua kalimat aneh dari bocah ini, dengan mengunyah akar pahitnya lebih dulu, baru bertanya. "Berbahaya?"
 
-"Belum. Informasi yang belum dipakai tidak berbahaya untuk siapa-siapa." Ashvarok memandangi api lampu. "Tapi suatu saat nanti, mungkin dia akan jadi jembatan. Kalau hari itu datang, arsip itu harus sampai ke Guild lewat pintu depan, di tengah siang, dengan saksi. Kau ingat itu kalau aku lupa."
+"Belum. Informasi yang belum dipakai tidak berbahaya untuk siapa-siapa." Ashvarok memandangi api lampu. "Namun suatu saat nanti, mungkin dia akan jadi jembatan. Kalau hari itu datang, arsip itu harus sampai ke Guild lewat pintu depan, di tengah siang, dengan saksi. Kau ingat itu kalau aku lupa."
 
 "Kau tidak pernah lupa," kata Brannoc. "Itu masalahmu yang paling tidak berbahaya."
 

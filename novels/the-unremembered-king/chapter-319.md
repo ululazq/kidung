@@ -3,7 +3,7 @@ title: "Bab 319: Dua Suara di Ambang"
 chapter: 319
 ---
 
-Pemeriksa lapangan tiba di menara utara sepuluh hari setelah surat Thessa. Ia datang tidak dengan kereta Koordinasi, melainkan dengan kuda satu, membawa koper kecil bertanda arsip dan cap verifikasi yang sama dengan yang pernah dilihat Kovan. Mira membuka pintu. Di sebelahnya berdiri Ashvarok-Renn, sapu tua di tangan, wajah tenang seperti penjaga yang tidak punya nama di atas kertas mana pun.
+Pemeriksa lapangan tiba di menara utara sepuluh hari setelah surat Thessa. Ia datang tidak dengan kereta Koordinasi — melainkan dengan kuda satu, membawa koper kecil bertanda arsip dan cap verifikasi yang sama dengan yang pernah dilihat Kovan. Mira membuka pintu. Di sebelahnya berdiri Ashvarok-Renn, sapu tua di tangan, wajah tenang seperti penjaga yang tidak punya nama di atas kertas mana pun.
 
 "Kau saksi Mira?" tanya pemeriksa.
 
@@ -47,11 +47,11 @@ Di barak, berita kedatangan pemeriksa sampai lewat kurir Maera yang berangkat se
 
 Sela menulis di papan kecil: *Pemeriksa di menara. Dua suara. Satu irama.* Ia tidak menambah lebih, karena lebih banyak kata di papan tidak mengubah apa yang terjadi di ambang.
 
-Gella duduk di sudut, membuka buku pemulihan. "Ashvarok-Renn memikul di sana," katanya pelan. "Sembilan napas yang hilang tidak kembali. Tapi ia pilih berdiri di sana daripada biarkan Mira sendirian."
+Gella duduk di sudut, membuka buku pemulihan. "Ashvarok-Renn memikul di sana," katanya pelan. "Sembilan napas yang hilang tidak kembali. Namun ia pilih berdiri di sana daripada biarkan Mira sendirian."
 
 "Dua suara lebih sulit diputar," kata Sela.
 
-"Lebih sulit, ya," jawab Gella. "Tapi lebih berat bagi yang memikul. Ingat itu."
+"Lebih sulit, ya," jawab Gella. "Namun lebih berat bagi yang memikul. Ingat itu."
 
 ---
 
@@ -73,7 +73,7 @@ Perawat tua menulis di buku catatan: *Pemeriksa lapangan datang. Hanya angka yan
 
 Malam itu Ashvarok-Renn kembali ke barak dan membuka buku anomali. Ia menulis satu baris di bawah catatan eskalasi:
 
-*Pemeriksa lapangan datang ke menara. Dua suara (Mira + Ashvarok-Renn) hanya beri angka. Katup tidak disebut di kertas resmi. Institusi penghisap gagal dapat narasi/mekanisme lewat celah ini. Jejak mereka makin jelas: mereka memanen lewat tujuh seam, dan celah menara adalah simpul kedua yang kini mereka sentuh tapi tidak kuasai. Kita tetap tak bernama di arsip mereka = tak bisa dipanggil.*
+*Pemeriksa lapangan datang ke menara. Dua suara (Mira + Ashvarok-Renn) hanya beri angka. Katup tidak disebut di kertas resmi. Institusi penghisap gagal dapat narasi/mekanisme lewat celah ini. Jejak mereka makin jelas: mereka memanen lewat tujuh seam, dan celah menara adalah simpul kedua yang kini mereka sentuh tetapi tidak kuasai. Kita tetap tak bernama di arsip mereka = tak bisa dipanggil.*
 
 Dua hari kemudian, kain tenun tiba dari Thessa. Tulisan miringnya kali ini pendek dan padat:
 
@@ -91,7 +91,7 @@ Kovan menarik peta Ossian dan menandai celah menara dengan angka dua. "Satu adal
 
 ---
 
-Di halaman barak, dua belas anak Sekolah Mendengar berlatih di bawah arahan Sela. Kali ini bukan hanya ketukan, melainkan cara berdiri di ambang saat orang asing datang.
+Di halaman barak, dua belas anak Sekolah Mendengar berlatih di bawah arahan Sela. Kali ini bukan hanya ketukan — melainkan cara berdiri di ambang saat orang asing datang.
 
 "Kalian berdua di ambang," kata Sela pada dua anak angkatan keempat. "Satu sebagai saksi, satu sebagai penjaga irama. Kalau ditanya mengapa, jawab dengan angka."
 
@@ -107,7 +107,7 @@ Ashvarok-Renn mengamati dari serambi. Generasi berikutnya kini menghafal bukan h
 
 Malamnya ia membuka buku anomali dan menulis di bawah catatan tentang pemeriksa:
 
-*Hasil pemeriksa: laporan hanya angka, arsip curiga tapi tanpa dasar resmi. Institusi penghisap gagal dapat narasi/mekanisme di celah menara (simpul ke-2 dari 7 seam). Mereka butuh orang di dalam yang mau buka katup — kita tidak beri. Jejak mereka: memanen artefak Hegemony + tarikan celah lewat pos utara, satu Throne di balik Choir. Kita tidak sebut nama. Simpul ke-1 (Testament) & ke-2 (menara) kini kita kenali. Lima lagi belum. Benang kita tetap tak bernama di arsip = tak bisa dipanggil.*
+*Hasil pemeriksa: laporan hanya angka, arsip curiga tetapi tanpa dasar resmi. Institusi penghisap gagal dapat narasi/mekanisme di celah menara (simpul ke-2 dari 7 seam). Mereka butuh orang di dalam yang mau buka katup — kita tidak beri. Jejak mereka: memanen artefak Hegemony + tarikan celah lewat pos utara, satu Throne di balik Choir. Kita tidak sebut nama. Simpul ke-1 (Testament) & ke-2 (menara) kini kita kenali. Lima lagi belum. Benang kita tetap tak bernama di arsip = tak bisa dipanggil.*
 
 Ia menutup buku. Di luar, angin selatan masuk pelan membawa napas yang sama dengan yang Mira catat tiap subuh. Dan di ujung benang yang memanen, sebuah meja di ruang bawah Spire kini menyimpan dua laporan yang hanya berisi angin — curiga tanpa kaki, dan curiga yang tidak pernah akan menemukan besi selama tidak satu pun dari kita yang menulis cerita untuknya.
 
@@ -137,4 +137,4 @@ Ashvarok-Renn menatap papan world-state barak. Di bawah catatan tiga simpul, ia 
 
 Ia meletakkan kapur. Di halaman, dua belas anak masih menghafal ketukan, suara mereka belum satu pun tercatat di arsip mana pun. Benang yang kita tarik kini telah melewati ujian pertamanya, dan ujian itu membuktikan bahwa diam yang dijaga dengan angka lebih kuat daripada pertanyaan dari siapa pun yang memegang cap arsip. Ia mengetuk tiga kali ke serambi, berhenti sehentakan. Di ujung benang yang memanen, meja di ruang bawah Spire kini menyimpan laporan yang hanya berisi angin — dan angin, tidak seperti besi, tidak pernah memberi mereka kunci.
 
-Di menara, malam itu perawat tua menulis satu baris di bawah angka bulan: *Pemeriksa datang, hanya angka yang diberi, celah tetap rahasia bagi mereka yang membawa cap arsip.* Ia menutup buku, lalu mengetuk tiga kali ke lantai, diam satu hentakan — gerakan yang kini ia lakukan tanpa mengingat kapan ia mempelajarinya. Di barak, Harn melakukan hal yang sama di halaman, dan dua belas sapu mengikutinya tanpa disuruh. Irama itu hidup di dua tempat yang dipisahkan jarak berhari-hari perjalanan, dan keduanya tidak tahu bahwa tempat lain melakukan hal yang sama. Itulah benang diam yang sesungguhnya: bukan kertas yang dikirim, melainkan ketukan yang diulang oleh orang yang tidak pernah membaca laporan. Dan selama ketukan itu tetap tiga-satu, tidak satu pun cap arsip yang bisa mengubahnya menjadi cerita. Pemeriksa telah pulang, tetapi irama tetap di ambang — milik Mira, milik perawat tua, dan milik dua belas anak di halaman yang belum pernah menulis nama mereka di atas kertas mana pun.
+Di menara, malam itu perawat tua menulis satu baris di bawah angka bulan: *Pemeriksa datang, hanya angka yang diberi, celah tetap rahasia bagi mereka yang membawa cap arsip.* Ia menutup buku, lalu mengetuk tiga kali ke lantai, diam satu hentakan — gerakan yang kini ia lakukan tanpa mengingat kapan ia mempelajarinya. Di barak, Harn melakukan hal yang sama di halaman, dan dua belas sapu mengikutinya tanpa disuruh. Irama itu hidup di dua tempat yang dipisahkan jarak berhari-hari perjalanan, dan keduanya tidak tahu bahwa tempat lain melakukan hal yang sama. Itulah benang diam yang sesungguhnya: bukan kertas yang dikirim — melainkan ketukan yang diulang oleh orang yang tidak pernah membaca laporan. Dan selama ketukan itu tetap tiga-satu, tidak satu pun cap arsip yang bisa mengubahnya menjadi cerita. Pemeriksa telah pulang, tetapi irama tetap di ambang — milik Mira, milik perawat tua, dan milik dua belas anak di halaman yang belum pernah menulis nama mereka di atas kertas mana pun.

@@ -5,17 +5,17 @@ chapter: 228
 
 Pemulangan kedua berbeda dari yang pertama dalam hal yang tidak masuk perhitungan siapa pun: ia lebih tenang.
 
-Bukan kurang meriah — ladang timur tetap penuh orang, meja-meja "sesuai kisah" tetap dipenuhi sup, name train tetap dinyanyikan tiga puluh warga lokal plus murid akademi. Tapi ada ketenangan struktur di dalamnya, seperti beda antara kelahiran anak pertama dan anak kedua: semua orang sudah tahu apa yang harus dilakukan, jadi energi tidak terbuang untuk panik, dan sisa energinya justru menampung sesuatu yang lebih penting.
+Bukan kurang meriah — ladang timur tetap penuh orang, meja-meja "sesuai kisah" tetap dipenuhi sup, name train tetap dinyanyikan tiga puluh warga lokal plus murid akademi. Namun ada ketenangan struktur di dalamnya, seperti beda antara kelahiran anak pertama dan anak kedua: semua orang sudah tahu apa yang harus dilakukan, jadi energi tidak terbuang untuk panik, dan sisa energinya justru menampung sesuatu yang lebih penting.
 
 Di pemulangan pertama, keluarga-keluarga menangis sebelum jiwa naik. Di yang kedua, mereka bercerita.
 
-Karena pasal Marn — cerita harian di tepi lereng — sudah berjalan sebulan penuh. Warga timur datang ke hari-H bukan dengan delapan belas tahun yang menganga di dada, tapi dengan SEBULAN cerita yang sudah dikirim ke bawah: soal panen kacang yang gagal lalu berhasil, soal pernikahan sepupu, soal anak yang lahir dan diberi nama nama neneknya yang hilang. Jiwa-jiwa di bawah sudah mengenal kembali dunia atas sedikit demi sedikit — sehingga saat naik, mereka tidak naik ke dunia asing. Mereka naik ke dunia yang baru saja mereka dengar kisahnya.
+Karena pasal Marn — cerita harian di tepi lereng — sudah berjalan sebulan penuh. Warga timur datang ke hari-H bukan dengan delapan belas tahun yang menganga di dada, tetapi dengan SEBULAN cerita yang sudah dikirim ke bawah: soal panen kacang yang gagal lalu berhasil, soal pernikahan sepupu, soal anak yang lahir dan diberi nama nama neneknya yang hilang. Jiwa-jiwa di bawah sudah mengenal kembali dunia atas sedikit demi sedikit — sehingga saat naik, mereka tidak naik ke dunia asing. Mereka naik ke dunia yang baru saja mereka dengar kisahnya.
 
 Hasilnya terlihat di pos demi pos:
 
-Jiwa pertama timur — perempuan tua bernama Sovana, yang nat lereng Ilo sudah disapa dua bulan — naik dan kalimat pertamanya kepada kepala kamp Marn bukan tangisan atau panggilan nama, melainkan: "Kamu cerita soal kambing itu kemarin. Yang nolak makan dekat batu. Itu kambing siapa?"
+Jiwa pertama timur — perempuan tua bernama Sovana, yang nat lereng Ilo sudah disapa dua bulan — naik dan kalimat pertamanya kepada kepala kamp Marn bukan tangisan atau panggilan nama, melainkan: "Kamu cerita soal kambing itu kemarin. Yang menolak makan dekat batu. Itu kambing siapa?"
 
-Marn tertawa sampai menangis. "Milik Ilo, Bu. Anak penggembala. Dia yang tiap hari ngobrol sama teman-temanmu di bawah."
+Marn tertawa sampai menangis. "Milik Ilo, Bu. Anak penggembala. Dia yang tiap hari berbincang sama teman-temanmu di bawah."
 
 "Sova juga bilang begitu," kata Sovana, memandang tanah di kakinya. "Katanya kalian semua rajin sekali belakangan ini." Ia menepuk pundak Marn. "Terima kasih sudah mengisi. Delapan belas tahun kosong itu... kami di bawah mendengarnya sebagai keheningan yang makin lama makin berat." Ia melihat sekeliling, meja-meja, sup, orang-orang. "Dan minggu ini terasa seperti musim panen cerita. Penuh terus."
 
@@ -35,13 +35,13 @@ Sovana diam sebentar, lalu berkata hal yang langsung ditulis Sela dan dikirim ke
 
 ---
 
-Perbedaan ketiga adalah yang paling mengharukan bagi tim inti: siswa Sekolah Mendengar bekerja di pemulangan ini bukan sebagai penonton belajar, tapi sebagai pelaksana penuh.
+Perbedaan ketiga adalah yang paling mengharukan bagi tim inti: siswa Sekolah Mendengar bekerja di pemulangan ini bukan sebagai penonton belajar, tetapi sebagai pelaksana penuh.
 
 Daven mengkoordinasi seluruh logistik enam puluh satu pos — tanpa satu pun kesalahan kayu meja. Ketika Ashvarok menanyakan rahasianya, jawabannya dicatat Sela: "tidak ada rahasia. Aku bertanya ke nat-nat timur setiap subuh: 'ada yang berubah lagi?' Mereka jawab tiap kali. Birokrasi aku sekarang: bertanya sebelum yakin."
 
 Pellia menjadi pendengar resmi pertama dalam sejarah proyek yang bukan berasal dari Caldrest — jalur khusus Barim akhirnya menghasilkan. Ia berdiri di titik tengah lembah selama sembilan puluh menit proses, dan laporannya setelahnya masuk arsip sebagai dokumen pendengar pertama non-Caldrest:
 
-"Tiga kali selama proses, nat timur hampir kehabisan tenaga di tengah kenaikan. Dua kali Vess-Morath membantu. Sekali... yang membantu adalah lagu. Name train Caldrest dari arah barat — jauh, samar, tapi cukup. Seperti orang menyapa dari jalan sambil lewat. Kedalaman-dunia ini sudah saling tolong-menolong tanpa kita suruh. Kita tinggal yang menjaga supaya jalan antar mereka tidak pernah ditutup lagi."
+"Tiga kali selama proses, nat timur hampir kehabisan tenaga di tengah kenaikan. Dua kali Vess-Morath membantu. Sekali... yang membantu adalah lagu. Name train Caldrest dari arah barat — jauh, samar, tetapi cukup. Seperti orang menyapa dari jalan sambil lewat. Kedalaman-dunia ini sudah saling tolong-menolong tanpa kita suruh. Kita tinggal yang menjaga supaya jalan antar mereka tidak pernah ditutup lagi."
 
 Thessa melakukan tugas yang oleh ibu Tamma diamanahkan langsung sebelum berangkat: memastikan SETIAP jiwa yang naik makan dalam dua menit pertama. Ia berdiri di samping meja-meja dengan stopwatch — jam yang dulu ia taruh di tas karena sadar tak berguna, kini dipakai untuk hal yang membuatnya berguna.
 
@@ -75,7 +75,7 @@ Ashvarok menutup neraca hari kedua itu dengan entri yang oleh kronik kemudian di
 
 Hari 651. Pemulangan kedua: enam puluh satu jiwa. Total sementara: seratus delapan puluh lima dari empat ratus. Wilayah ketiga: dua bulan lagi.
 
-Tapi angka-angka itu bukan inti entri malam ini. Intinya ini:
+Namun angka-angka itu bukan inti entri malam ini. Intinya ini:
 
 Delapan bulan silam, Caldrest adalah satu-satunya jembatan antara dunia atas dan bawah. Hari ini jembatan itu membelah diri — dan menjadi dua, karena timur sudah bisa bicara langsung dengan kedalaman mereka sendiri.
 
@@ -83,7 +83,7 @@ Jembatan yang baik akhirnya membuat dirinya tidak dibutuhkan. Itu definisi keber
 
 ---
 
-Satu adegan penutup hari itu, yang tidak masuk dokumen mana pun tapi oleh semua saksi disebut "momen yang membuat hari itu lengkap":
+Satu adegan penutup hari itu, yang tidak masuk dokumen mana pun tetapi oleh semua saksi disebut "momen yang membuat hari itu lengkap":
 
 Menjelang senja, setelah tamu-tamu menyebar dan tim mulai membereskan, Sovana si perempuan tua pemilik kalimat pertama itu berjalan pelan menuju tepi lereng — ke arah batu hangat Ilo, nat lereng yang dua bulan ini disapa penggembala muda itu tiap hari.
 
@@ -99,7 +99,7 @@ Malamnya, Ilo menulis di kotak topik ceritanya satu kertas baru, dan tidak diamb
 
 "Topik hari ini: orang yang dulunya takut pada lereng, sekarang jadi orang yang paling ditunggu di bawah sana. Itu saya."
 
-Nat lereng menjawab lebih hangat dari biasanya. Dan hangatnya itu, kata Ilo, "seperti pelukan yang tidak bisa balas pelukan — tapi tidak apa-apa, yang penting dia tahu kami di sini."
+Nat lereng menjawab lebih hangat dari biasanya. Dan hangatnya itu, kata Ilo, "seperti pelukan yang tidak bisa balas pelukan — tetapi tidak apa-apa, yang penting dia tahu kami di sini."
 
 ---
 

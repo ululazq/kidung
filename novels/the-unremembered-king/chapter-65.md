@@ -17,7 +17,7 @@ Harn datang lebih pagi dari semua orang, berjalan kaki dari asrama distrik utara
 
 "Aku punya daftar barang gudang. Ditulis tangan Foreman. Hurufnya jelek."
 
-"Bagus. Huruf jeleh adalah latihan terbaik. Huruf yang rapi hanya dilatih oleh orang yang tidak bekerja."
+"Bagus. Huruf jelek adalah latihan terbaik. Huruf yang rapi hanya dilatih oleh orang yang tidak bekerja."
 
 Anak-anak lain datang bertambah — lima, tujuh, sembilan — sampai ruang tunggu berbunyi seperti sarang burung. Dan di sudut ruangan, di bangku pasien yang paling jauh dari pintu, duduk Tovik — tua, sehat, wajah ramah yang tidak pernah berubah sejak malam sunyi itu, datang untuk kontrol mingguannya dan selalu memilih tinggal ketika kontrolnya selesai. Tovik tersenyum kepada semua anak, dan semua anak tersenyum balik, dan tidak ada satu pun dari mereka yang tahu bahwa mereka tersenyum kepada orang yang tidak tahu namanya sendiri.
 
@@ -37,7 +37,7 @@ Pelajaran berjalan seperti pelajaran — angka, membaca, angka lagi. Sampai anak
 
 Anak itu mengangguk dengan wajah orang yang menyimpan jawaban untuk dibawa pulang, dan Sela sadar sedang menciptakan pembuat masalah masa depan, dan tidak merasa bersalah sama sekali.
 
-Tapi pertanyaan kedua datang dari arah yang tidak diduganya. Harn, yang setengah jam penuh diam mengerjakan huruf-huruf jelek Foreman, mendongak dan menunjuk papan Sela dengan ujung kapurnya. "Itu nama-nama apa? Di belakang papanmu. Aku lihat tadi waktu kamu memutar."
+Namun pertanyaan kedua datang dari arah yang tidak diduganya. Harn, yang setengah jam penuh diam mengerjakan huruf-huruf jelek Foreman, mendongak dan menunjuk papan Sela dengan ujung kapurnya. "Itu nama-nama apa? Di belakang papanmu. Aku lihat tadi waktu kamu memutar."
 
 Sela mempertimbangkan tiga jawaban selama satu tarikan napas — bohong, alihkan, atau separuh kebenaran. Kakaknya akan memilih bohong yang bagus. Sela sudah berjanji pada dirinya sendiri untuk tidak lagi memilih itu kepada siapa pun di bawah umur sepuluh.
 
@@ -45,7 +45,7 @@ Sela mempertimbangkan tiga jawaban selama satu tarikan napas — bohong, alihkan
 
 "Kenapa harus ditulis?" tanya anak kecil galeri tujuh. "Bukankah cukup diingat?"
 
-Dan di situlah, di tengah ruang tunggu klinik yang bau obat, Sela menemukan dirinya harus menjelaskan hal yang tidak pernah ia jelaskan kepada siapa pun secara langsung — "Ingatan itu aneh. Ada hari-hari ketika ingatan orang-orang hilang — bukan lupa biasa, tapi benar-benar hilang, seperti baris yang terhapus. Kalau nama seseorang hanya ada di kepala satu orang, dan kepala itu sakit, namanya ikut sakit. Kalau namanya ditulis dan dihafal banyak orang, dia punya rumah cadangan."
+Dan di situlah, di tengah ruang tunggu klinik yang bau obat, Sela menemukan dirinya harus menjelaskan hal yang tidak pernah ia jelaskan kepada siapa pun secara langsung — "Ingatan itu aneh. Ada hari-hari ketika ingatan orang-orang hilang — bukan lupa biasa, tetapi benar-benar hilang, seperti baris yang terhapus. Kalau nama seseorang hanya ada di kepala satu orang, dan kepala itu sakit, namanya ikut sakit. Kalau namanya ditulis dan dihafal banyak orang, dia punya rumah cadangan."
 
 "Seperti uang yang disimpan dua orang," kata Harn, serius, anak mandor sungguhan.
 

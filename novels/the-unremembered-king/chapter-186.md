@@ -3,7 +3,7 @@ title: "Bab 186: Murid Pertama yang Dikoreksi Tamu"
 chapter: 186
 ---
 
-Tingkat dua Akademi Batu dimulai dengan enam murid — mereka yang lulus tingkat satu lebih cepat: Kovan (guru sekaligus murid; "guru boleh belajar," kata Sareth, "atau guru berhenti tumbuh"), Harn, janda Sarneth, pedagang garam tua, satu Shift Guard, dan ibu Tamma yang menolak pindah ke kelas lanjutan tapi diam-diam sudah membaca tingkat dua sejak lama.
+Tingkat dua Akademi Batu dimulai dengan enam murid — mereka yang lulus tingkat satu lebih cepat: Kovan (guru sekaligus murid; "guru boleh belajar," kata Sareth, "atau guru berhenti tumbuh"), Harn, janda Sarneth, pedagang garam tua, satu Shift Guard, dan ibu Tamma yang menolak pindah ke kelas lanjutan tetapi diam-diam sudah membaca tingkat dua sejak lama.
 
 Materi pertamanya sederhana dan nyata: nat barat gudang perkakas — tempat kedalaman rutin mengetuk batu asah. Tugasnya: membaca peristiwa. Apa yang terjadi di nat itu, bukan bagaimana rasanya.
 
@@ -45,7 +45,7 @@ Ashvarok memandang adiknya — pencatat sebelas tahun (dua belas, musim berganti
 
 Rapat ditutup ibu Tamma dengan teh dan satu putusan dapur: "Maka tugas kita semua sekarang sederhana. Jaga anak-anak akademi, jaga tamu tua, dan jaga rajanya supaya tidak mati duluan sebelum semua ini selesai." Ia memandang Ashvarok. "Terutama yang ketiga."
 
-Ashvarok membaca neraca tubuhnya sendiri di Hourglass malam itu — vein-scar kanan yang telah mencapai bahu, the Remainder yang berfluktuasi mengikuti musim bekerja, dingin yang kini tetangga lamanya — dan menulis jawaban jujur untuk pertama kalinya, karena rapat ini bukan tempat menyembunyikan:
+Ashvarok membaca neraca tubuhnya sendiri di Hourglass malam itu — vein-scar kanan yang telah mencapai bahu, the Remainder yang berfluktuasi mengikuti musim kerja, dingin yang kini tetangga lamanya — dan menulis jawaban jujur untuk pertama kalinya, karena rapat ini bukan tempat menyembunyikan:
 
 Terutama yang ketiga. Kutahu. Dan untuk pertama kalinya aku tidak melawannya sendirian: ada dokter tambang dengan buku medisnya, Sela dengan jam pasirnya, Kovan dengan hitungannya, ibu Tamma dengan buburnya, dan tamu tua di bawah sana yang — kata Kovan minggu lalu — mulai mengirim irama tenang ke nat gudang setiap kali sapuan mendeteksi sakitku naik.
 
@@ -59,7 +59,7 @@ Entri terakhir bab ini ditulis Sela esok paginya, kapur biru di halaman Hourglas
 
 Sistem penilaian dua guru itu diuji langsung pada murid tersulit kelas: Harn.
 Anak Brannoc membaca batu dengan cara yang membuat kedua gurunya berselisih — Sareth menilai tekniknya kasar, Ashvarok menilai intuisinya luar biasa. Mereka membawanya ke nat barat untuk ujian objektif: kedalaman sendiri yang menilai.
-Jawaban nat itu, diterjemahkan Kovan, berbunyi: "Kasar. Tapi jujur. Kasar bisa diasah. Jujur tidak bisa diajarkan. Terima dia."
+Jawaban nat itu, diterjemahkan Kovan, berbunyi: "Kasar. Namun jujur. Kasar bisa diasah. Jujur tidak bisa diajarkan. Terima dia."
 Brannoc — yang mendengar cerita itu malamnya di dapur — pura-pura tidak menangis dengan cara yang sama seperti ia pura-pura tidak bangga selama delapan tahun terakhir: "Ya sudah. Bagus. Cuci piring kamu sendiri mulai sekarang, orang besar."
 
 ---
@@ -88,9 +88,9 @@ Lanjutan bab 186.
 
 Patroli pertama Harn–Maera menghasilkan laporan yang kemudian dibacakan di rapat dan disimpan sebagai dokumen pendirian akademi. Isinya, selain data teknis (tiga nat pasif terdeteksi aktif kembali di kanal utara), ada paragraf penutup yang ditulis tangan dua orang bergantian:
 
-Tulisan Maera: "Murid saya lebih berani dari saya dalam semua hal kecuali satu: dia masih takut pada angka produksi. Saya dulu juga begitu. Sekarang tidak lagi. Itu satu-satunya hal yang akademi ini berikan padaku sejauh ini, tapi itu segalanya."
+Tulisan Maera: "Murid saya lebih berani dari saya dalam semua hal kecuali satu: dia masih takut pada angka produksi. Saya dulu juga begitu. Sekarang tidak lagi. Itu satu-satunya hal yang akademi ini berikan padaku sejauh ini, tetapi itu segalanya."
 
-Tulisan Harn, dengan tulisan tangan besar-besar anak tambang: "Nona Assayer salah sebut nama nat terus. Tapi dia tetap datang tiap minggu dan tidak pernah nyerah. Kalau itu bukan definisi pendengar, aku tidak tahu apa."
+Tulisan Harn, dengan tulisan tangan besar-besar anak tambang: "Nona Assayer salah sebut nama nat terus. Namun dia tetap datang tiap minggu dan tidak pernah nyerah. Kalau itu bukan definisi pendengar, aku tidak tahu apa."
 
 ---
 

@@ -49,7 +49,7 @@ Maera diam sebentar, dan matanya menghitung sesuatu yang tidak ia tulis. "Pembac
 
 "Kau sudah tahu jawabanmu."
 
-"Barang bersegel tidak berpindah tanpa perintah komisi tingkat tinggi atau putusan pengadilan Guild. Itu pasal, bukan pilihan saya." Maera mengambil napas sekali. "Dokumen publik akan saya salin utuh sampai lembar terakhir, supaya permintaan itu tidak punya alasan dikembalikan dua kali. Tapi kotak itu tetap di raknya, dan rak itu tetap di ruangan saya, sampai kertas yang sah memintanya pindah."
+"Barang bersegel tidak berpindah tanpa perintah komisi tingkat tinggi atau putusan pengadilan Guild. Itu pasal, bukan pilihan saya." Maera mengambil napas sekali. "Dokumen publik akan saya salin utuh sampai lembar terakhir, supaya permintaan itu tidak punya alasan dikembalikan dua kali. Namun kotak itu tetap di raknya, dan rak itu tetap di ruangan saya, sampai kertas yang sah memintanya pindah."
 
 "Dan kau sadar apa yang kau lakukan dengan itu."
 
@@ -67,9 +67,9 @@ Ashvarok memperhatikannya sebentar, wajah perempuan yang menghitung rugi sendiri
 
 "Orang yang takut juga mudah diganti." Ashvarok bangkit dari balok kayunya, karena cahayanya mulai rendah dan langkah-langkah shift malam mulai terdengar dari lereng. "Selama kotak itu berdiri di raknya dengan segel utuh dan daftar isi di dua tempat, memindahkannya lebih mahal daripada membiarkannya. Biarkan kertas-kertas mereka yang saling berhadapan. Kita tidak perlu hadir di tengah-tengahnya."
 
-Maera menyusun ulang tasnya dan berdiri juga. Untuk pertama kalinya sore itu sikap tubuhnya menurun sedikit, bukan lelah, melainkan bebannya yang bergeser tempat.
+Maera menyusun ulang tasnya dan berdiri juga. Untuk pertama kalinya sore itu sikap tubuhnya menurun sedikit — bukan lelah — melainkan bebannya yang bergeser tempat.
 
-"Aduh," katanya, hampir tertawa tanpa bunyi. "Dua tahun lalu aku hanya assayer lapangan yang takut salah menulis laporan. Sekarang aku menolak jabatan arsip tertinggi sekte besar dengan satu lembar pasal, dan yang membuatku tidak tidur bukan mereka, tapi kalimatmu soal alamat."
+"Aduh," katanya, hampir tertawa tanpa bunyi. "Dua tahun lalu aku hanya assayer lapangan yang takut salah menulis laporan. Sekarang aku menolak jabatan arsip tertinggi sekte besar dengan satu lembar pasal, dan yang membuatku tidak tidur bukan mereka, tetapi kalimatmu soal alamat."
 
 "Kalimat itu bukan ancaman. Itu inventaris."
 
@@ -79,9 +79,9 @@ Maera menyusun ulang tasnya dan berdiri juga. Untuk pertama kalinya sore itu sik
 
 "Kalau tidak, kau akan dengarnya dari lot, dan kau akan tahu artinya tanpa perlu aku jelaskan." Maera melangkah keluar dari bayangan gudang, menuju jalur pos dengan langkah pegawai tepat waktu, dan Ashvarok membiarkan jarak antara mereka melebar dulu sebelum ia bergerak ke arah yang berlawanan.
 
-Malam itu, di sudut gudang perkakas yang paling gelap, ia membuka lipatan kertas kecilnya dan membaca daftar tahu-tahuannya dari awal, tujuh nama yang sudah lama menetap di sana. Ia membacanya dua kali, mencari siapa di antara ketujuh nama itu yang bisa menjadi saluran kode menuju Spire, dan tidak menemukan satu pun yang cocok. Vael punya motif dan punya akses, tetapi memanggil perhatian Pembaca Tua ke arah dokumen yang menguburnya adalah gerakan orang putus asa, dan Vael banyak hal, tapi tidak sedang putus asa. Pengikat senior menyimpan fakta dan tidak menjualnya. Kovan menulis sesuai kesepakatan, enam syarat, tanpa satu kata lebih. Sisanya keluarga sendiri.
+Malam itu, di sudut gudang perkakas yang paling gelap, ia membuka lipatan kertas kecilnya dan membaca daftar tahu-tahuannya dari awal, tujuh nama yang sudah lama menetap di sana. Ia membacanya dua kali, mencari siapa di antara ketujuh nama itu yang bisa menjadi saluran kode menuju Spire, dan tidak menemukan satu pun yang cocok. Vael punya motif dan punya akses, tetapi memanggil perhatian Pembaca Tua ke arah dokumen yang menguburnya adalah gerakan orang putus asa, dan Vael banyak hal, tetapi tidak sedang putus asa. Pengikat senior menyimpan fakta dan tidak menjualnya. Kovan menulis sesuai kesepakatan, enam syarat, tanpa satu kata lebih. Sisanya keluarga sendiri.
 
-Yang tersisa adalah tangan yang belum pernah masuk daftar, dan itulah sebabnya entri barunya bukan nama.
+Yang tersisa adalah tangan yang belum pernah masuk daftar — dan itulah sebabnya entri barunya bukan nama.
 
 Di bawah daftar itu, dengan kapur kecil yang ia potong sendiri, ia menambahkan satu entri baru. Bukan nama orang, karena nama orang tidak ia punya. Satu kata saja, jabatan yang dua bulan lalu belum berarti apa-apa dan malam ini menjadi baris terpenting di kertasnya.
 

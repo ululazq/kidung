@@ -5,7 +5,7 @@ chapter: 213
 
 Pembacaan penuh nat Karveth-Ulm disiapkan seperti persiapan upacara negara — karena semua orang, sejak kembali dari lembah selatan, sepakat bahwa inilah peristiwa pembacaan paling tidak biasa dalam sejarah akademi: untuk pertama kalinya, yang akan dibaca bukan jiwa manusia.
 
-"Kita tahu isinya api," kata Ashvarok membuka rapat persiapan di meja panjang. "Tapi kita belum MEMBACANYA. Ada bedanya antara mengetahui isi lemari dan membuka pintunya." Ia memandang dua orang di ujung meja: Sareth Vayin dan Barim, dua tradisi yang malam ini akan bekerja berdampingan pada nat yang sama. "Kalian berdua yang akan membaca. Karena kalau hasilnya sama dari dua jalur, maka itu fakta. Kalau berbeda — maka ada sesuatu yang hanya bisa dilihat salah satu dari kita."
+"Kita tahu isinya api," kata Ashvarok membuka rapat persiapan di meja panjang. "Namun kita belum MEMBACANYA. Ada bedanya antara mengetahui isi lemari dan membuka pintunya." Ia memandang dua orang di ujung meja: Sareth Vayin dan Barim, dua tradisi yang malam ini akan bekerja berdampingan pada nat yang sama. "Kalian berdua yang akan membaca. Karena kalau hasilnya sama dari dua jalur, maka itu fakta. Kalau berbeda — maka ada sesuatu yang hanya bisa dilihat salah satu dari kita."
 
 Sareth bertanya pertanyaan teknis yang membuat seluruh ruangan sadar betapa baru wilayah ini: "Protokolnya bagaimana? Semua protokol kita ditulis untuk jiwa manusia. Api punya hak-hak apa?"
 
@@ -22,7 +22,7 @@ Lima — pasal yang diusulkan murid termuda dan langsung disetujui semua guru: "
 
 ---
 
-Pembacaan dilakukan di aula, malam berikutnya, dengan nat Karveth-Ulm dibawa dari lembah selatan oleh enam orang bergantian — batu itu hanya sebesar meja dapur, tapi semua yang mengangkatnya bersaksi bahwa beratnya "berubah-ubah sesuai suasana hati pembawanya", catatan yang Kovan tolak masuk kolom fakta dan pindahkan ke kolom pertanyaan pekan depan.
+Pembacaan dilakukan di aula, malam berikutnya, dengan nat Karveth-Ulm dibawa dari lembah selatan oleh enam orang bergantian — batu itu hanya sebesar meja dapur, tetapi semua yang mengangkatnya bersaksi bahwa beratnya "berubah-ubah sesuai suasana hati pembawanya", catatan yang Kovan tolak masuk kolom fakta dan pindahkan ke kolom pertanyaan pekan depan.
 
 Aula disusun ulang: nat Karveth-Ulm di pusat, dikelilingi setengah lingkaran murid tingkat dua (hadir sebagai saksi belajar), dan di empat penjuru aula diletakkan ember air sesuai pasal dua — yang oleh ibu Tamma langsung diisi sup dingin "agar fungsinya jelas".
 
@@ -34,25 +34,25 @@ Sareth membaca lebih dulu. Telapak wanita tua itu menempel ke Karveth-Ulm, dan s
 
 Barim giliran berikutnya. Penjaga malam tua itu meletakkan telapaknya lebih lama sebelum mulai — kebiasaan pendengar alami memberi waktu bagi yang dibaca untuk mengenali pembacanya — lalu melaporkan:
 
-"Aku tidak membaca zaman. Aku membaca PERINTAH." Ia memandang aula. "Api ini menyimpan instruksi para pendeta. Instruksinya berlapis-lapis, diulang ratusan kali supaya tidak hilang, dan isinya selalu sama: jaga nyala, jangan biarkan sendiri, tunggu pemiliknya. Tapi ada satu instruksi terakhir yang berbeda — yang tidak diulang, hanya dikatakan sekali, oleh suara yang berbeda dari suara pendeta-pendeta lainnya."
+"Aku tidak membaca zaman. Aku membaca PERINTAH." Ia memandang aula. "Api ini menyimpan instruksi para pendeta. Instruksinya berlapis-lapis, diulang ratusan kali supaya tidak hilang, dan isinya selalu sama: jaga nyala, jangan biarkan sendiri, tunggu pemiliknya. Namun ada satu instruksi terakhir yang berbeda — yang tidak diulang, hanya dikatakan sekali, oleh suara yang berbeda dari suara pendeta-pendeta lainnya."
 
 "Siapa?" tanya Harn dari barisan saksi.
 
 "Suara perempuan tua. Instruksinya:" Barim membaca ulang irama yang diterjemahkan bersama Kovan siang harinya: "'Dan bila mereka datang — jangan takutkan air. Air bukan musuhmu. Air hanya langit yang turun menyapa.'"
 
-Kovan mencatat di kolom pertanyaan: "perempuan tua itu siapa? Pendeta tertinggi? Pemilik dapur kuil? Atau orang terakhir yang tinggal di lembah setelah semua pergi?" Tidak ada jawaban malam itu. Tapi instruksi perempuan tua itulah yang menjadi alasan pasal dua protokol tidak pernah dicabut: air tetap dibawa ke setiap kunjungan Karveth-Ulm, dan api — sesuai janji perempuan tua itu — tidak pernah takutkan air lagi.
+Kovan mencatat di kolom pertanyaan: "perempuan tua itu siapa? Pendeta tertinggi? Pemilik dapur kuil? Atau orang terakhir yang tinggal di lembah setelah semua pergi?" Tidak ada jawaban malam itu. Namun instruksi perempuan tua itulah yang menjadi alasan pasal dua protokol tidak pernah dicabut: air tetap dibawa ke setiap kunjungan Karveth-Ulm, dan api — sesuai janji perempuan tua itu — tidak pernah takutkan air lagi.
 
 Aula itu sunyi. Di empat penjuru, air di dalam ember-ember benar-benar tenang.
 
 Murid termuda bertanya pertanyaan yang membuat Sareth menatapnya lama: "Bu, kalau nat ini menyimpan waktu... berarti dia juga menyimpan MASA DEPAN api itu? Maksud saya — waktu yang belum terjadi?"
 
-"Tidak," kata Sareth. "Tapi dia menyimpan HARAPAN para pendetanya tentang masa depan. Dan harapan yang disimpan tiga ratus tahun..." Wanita tua itu memandang Karveth-Ulm yang hangat di pusat aula. "...hampir tidak bisa dibedakan dari masa depan yang datang."
+"Tidak," kata Sareth. "Namun dia menyimpan HARAPAN para pendetanya tentang masa depan. Dan harapan yang disimpan tiga ratus tahun..." Wanita tua itu memandang Karveth-Ulm yang hangat di pusat aula. "...hampir tidak bisa dibedakan dari masa depan yang datang."
 
 ---
 
 Hasil gabungan kedua pembacaan disimpulkan Kovan malam itu dan dibacakan kepada rapat besar Caldrest — rapat yang hadirinya lebih ramai dari biasanya karena kabar "api purba masih hidup" sudah sampai ke pasar:
 
-"Temuan satu: api lembah itu HIDUP dalam arti penuh. Bernapas. Berkembang perlahan. Delapan belas abu silam tidak membuatnya mengecil — justru tumbuh, sangat lambat, seperti pohon. Temuan dua: nat Karveth-Ulm bukan wadahnya. Dia RUMAHNYA. Perbedaan besar: wadah bisa pecah, rumah bisa rusak tapi juga bisa diperbaiki. Temuan tiga..." Penghitung itu berhenti, melihat ulang catatannya, dan membaca temuan terakhir dengan hati-hati khas orang yang tahu kalimatnya akan mengubah banyak hal:
+"Temuan satu: api lembah itu HIDUP dalam arti penuh. Bernapas. Berkembang perlahan. Delapan belas abu silam tidak membuatnya mengecil — justru tumbuh, sangat lambat, seperti pohon. Temuan dua: nat Karveth-Ulm bukan wadahnya. Dia RUMAHNYA. Perbedaan besar: wadah bisa pecah, rumah bisa rusak tetapi juga bisa diperbaiki. Temuan tiga..." Penghitung itu berhenti, melihat ulang catatannya, dan membaca temuan terakhir dengan hati-hati khas orang yang tahu kalimatnya akan mengubah banyak hal:
 
 "...api itu menunggu dipakai. Bukan dipuja, bukan ditakuti. Para pendeta meninggalkan instruksi yang jelas: api ini untuk memasak, menempa, dan menghangatkan — milik siapa saja yang datang dengan kebutuhan sungguhan. Selama tiga ratus tahun tidak ada yang datang, bukan karena api menyembunyikan diri. Karena kita semua mengira dia altar."
 
@@ -64,13 +64,13 @@ Jawaban nat Karveth-Ulm atas rencana itu — direkam malam juga, diterjemahkan s
 
 "AKHIRNYA."
 
-Malam pertama api purba dipakai memasak menjadi peristiwa yang tidak direncanakan siapa pun sebagai upacara — tapi berlangsung seperti upacara. Ibu Tamma sendiri yang menyalurkan nasi pertama: beras dari ladang Caldrest, air dari sumur kota, garam dari dapurnya, dimasak DI ATAS Karveth-Ulm oleh tangan-tangan murid akademi yang tangannya masih gemetar karena sadar sedang memasak di atas zaman purba. Nasi itu dibagikan ke semua yang hadir — dan satu mangkuk diletakkan di nat pusat untuk the Patient House, sesuai pasal enam ibu Tamma.
+Malam pertama api purba dipakai memasak menjadi peristiwa yang tidak direncanakan siapa pun sebagai upacara — tetapi berlangsung seperti upacara. Ibu Tamma sendiri yang menyalurkan nasi pertama: beras dari ladang Caldrest, air dari sumur kota, garam dari dapurnya, dimasak DI ATAS Karveth-Ulm oleh tangan-tangan murid akademi yang tangannya masih gemetar karena sadar sedang memasak di atas zaman purba. Nasi itu dibagikan ke semua yang hadir — dan satu mangkuk diletakkan di nat pusat untuk the Patient House, sesuai pasal enam ibu Tamma.
 
 "Enak?" tanya Harn kepada ibu Tamma setelah menelan suapnya.
 
-"Nasi," kata ibu Tamma dengan vonis finalnya. "Tapi hangatnya berbeda. Hangat yang memasak ini... tua. Sabar. Seperti dimasakkan oleh orang yang sudah menunggu sangat lama untuk bisa memberi makan."
+"Nasi," kata ibu Tamma dengan vonis finalnya. "Namun hangatnya berbeda. Hangat yang memasak ini... tua. Sabar. Seperti dimasakkan oleh orang yang sudah menunggu sangat lama untuk bisa memberi makan."
 
-Yang tidak tercatat di plakat tapi tercatat di Hourglass: setelah malam itu, panas Karveth-Ulm mereda — bukan padam, melainkan turun ke level yang sama dengan tungku dapur rumah-rumah Caldrest. Api purba zaman purba, malam itu, menyesuaikan dirinya ke suhu panci.
+Yang tidak tercatat di plakat tetapi tercatat di Hourglass: setelah malam itu, panas Karveth-Ulm mereda — bukan padam, melainkan turun ke level yang sama dengan tungku dapur rumah-rumah Caldrest. Api purba zaman purba, malam itu, menyesuaikan dirinya ke suhu panci.
 
 Ashvarok menulis entri penutupnya:
 
@@ -88,7 +88,7 @@ Ashvarok membawa surat itu kepada kedalaman lewat nat barat, membacakannya, lalu
 
 Jawaban kedalaman datang setelah jeda yang panjang — dan isinya membuat Ashvarok tertawa sendirian di aula:
 
-"Terima. Tapi minta mereka membawa makan malam. Orang yang datang menilai rumah tanpa membawa apa-apa belum belajar cara menjadi tamu."
+"Terima. Namun minta mereka membawa makan malam. Orang yang datang menilai rumah tanpa membawa apa-apa belum belajar cara menjadi tamu."
 
 Kalimat itu diteruskan ke Spire tanpa diedit, dan balasannya tiga hari kemudian, hanya dua baris, yang oleh Maera dibacakan dua kali karena tidak percaya:
 

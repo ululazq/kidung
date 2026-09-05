@@ -3,7 +3,7 @@ title: "Bab 169: Dua Jabatan, Satu Meja"
 chapter: 169
 ---
 
-Panggilan Dewan Regional untuk Maera Tull tiba dengan kafilah pengawal — bukan karena dia disangka buronan, tapi karena Dewan ingin semua orang di Caldrest melihat bahwa Assayer mereka dipanggil ke Spire seperti saksi.
+Panggilan Dewan Regional untuk Maera Tull tiba dengan kafilah pengawal — bukan karena dia disangka buronan, tetapi karena Dewan ingin semua orang di Caldrest melihat bahwa Assayer mereka dipanggil ke Spire seperti saksi.
 
 Isi panggilannya sederhana dan berbisa: menjelaskan dasar hukum penolakan atas permintaan salinan jabatan Pembaca Tua. Permintaan itu telah naik ke Dewan lewat jalur yang tidak diketahui Maera — dan jawaban Maera sejauh ini ("menunggu putusan pengadilan Guild") telah dibaca di Spire sebagai keangkuhan biro kecil, bukan benteng hukum yang sebenarnya.
 
@@ -27,7 +27,7 @@ Maera melihatnya. Dan memahami aturan permainan baru itu dalam satu detik: hari 
 
 Ketua Dewan menggerakkan rahunya. "Tanyakan."
 
-"Siapa yang meminta salinan itu dipakai untuk apa?" kata Maera. "Bukan nama jabatannya — itu rahasia yang saya hormati. Tapi tujuannya. Dokumen Caldrest berisi data panen, klasifikasi, lisensi warga. Kalau tujuannya verifikasi arsip, saya kirim salinan besok tanpa putusan apa pun. Kalau tujuannya penyaringan jejak — mencari pola dari data warga untuk kepentingan pencarian yang tidak saya kenal — maka perlindungan saya bukan keangkuhan, Tuan-tuan. Itu pekerjaan saya."
+"Siapa yang meminta salinan itu dipakai untuk apa?" kata Maera. "Bukan nama jabatannya — itu rahasia yang saya hormati. Namun tujuannya. Dokumen Caldrest berisi data panen, klasifikasi, lisensi warga. Kalau tujuannya verifikasi arsip, saya kirim salinan besok tanpa putusan apa pun. Kalau tujuannya penyaringan jejak — mencari pola dari data warga untuk kepentingan pencarian yang tidak saya kenal — maka perlindungan saya bukan keangkuhan, Tuan-tuan. Itu pekerjaan saya."
 
 Hening. Enam anggota Dewan saling memandang, karena pertanyaan itu menyentuh hal yang tidak pernah mereka tanyakan ke jabatan mana pun: untuk apa.
 
@@ -43,15 +43,15 @@ Yang tidak diketahuinya sampai malam harinya — saat ia membuka kotak timbung m
 
 ---
 
-Ia membaca lembar itu tiga kali. Lalu membaca kalimat kuncinya sekali lagi, pelan-pelan, memastikan tidak salah membaca seperti juru tulis yang takut salah catat: kunjungan bekerja bersama. Jabatan itu akan KEMBALI ke Caldrest — bukan untuk mengambil, tapi untuk bekerja di depan mata mereka, tanpa membawa keluar satu lembar pun.
+Ia membaca lembar itu tiga kali. Lalu membaca kalimat kuncinya sekali lagi, pelan-pelan, memastikan tidak salah membaca seperti juru tulis yang takut salah catat: kunjungan bekerja bersama. Jabatan itu akan KEMBALI ke Caldrest — bukan untuk mengambil, tetapi untuk bekerja di depan mata mereka, tanpa membawa keluar satu lembar pun.
 
 Dan di dalam kepala Assayer yang selalu menghitung, hitungan itu langsung berjalan ke arah yang tidak bisa dihentikan: metode itu juga melindungi Caldrest dari hal yang lain. Dari kesempatan mana pun untuk mencuri. Dari salinan yang bisa jatuh ke Grey Censure. Jabatan tertinggi ordo arsip baru saja, dengan satu keputusan prosedural, membangun benteng di sekeliling rahasia Caldrest yang lebih kuat daripada semua laci berkunci Maera digabungkan — karena sekarang setiap pembacaan akan terjadi DI DEPAN saksi-saksi Guild, terdokumentasi, terbatas.
 
-Dia tidak hanya menjawab pertanyaannya. Dia mengubah medan perang menjadi ruang bekerja bersama, dan membuat penolakan apa pun setelah ini terlihat seperti paranoid.
+Dia tidak hanya menjawab pertanyaannya. Dia mengubah medan perang menjadi ruang kerja bersama, dan membuat penolakan apa pun setelah ini terlihat seperti paranoid.
 
 Maera meletakkan lembar itu, memandang langit-langit penginapan Spire, dan berbicara kepada langit-langit itu karena sudah terlalu larut untuk bicara kepada siapa pun: "Kau tahu apa arti ini? Artinya aku harus mempercayaimu lebih dulu, secara resmi, sebelum aku sanggup. Itu manipulasi paling sopan yang pernah kuterima."
 
-Lembar tentu tidak menjawab. Tapi esok harinya, ketika kafilah pulang lewat gerbang barat Spire, Maera melewati kursi arsip di ruang sidang kosong — ia mampir, izinnya disetujui tanpa alasan yang perlu — dan menemukan sesuatu yang membuatnya berdiri diam cukup lama sampai petugas ruangan bertanya apakah dia sehat.
+Lembar tentu tidak menjawab. Namun esok harinya, ketika kafilah pulang lewat gerbang barat Spire, Maera melewati kursi arsip di ruang sidang kosong — ia mampir, izinnya disetujui tanpa alasan yang perlu — dan menemukan sesuatu yang membuatnya berdiri diam cukup lama sampai petugas ruangan bertanya apakah dia sehat.
 
 Di permukaan meja kursi arsip, tersusun rapi menunggu pemulung atau pembersih ruangan, ada satu batang cinder-glass tua kecil — serupa dengan yang dilelang kelas tiga di Caldrest pekan-pekan silam, serupa sampai detail patina yang pernah ia nilai sendiri — diletakkan di sana oleh tangan yang tidak meninggalkan jejak masuk maupun keluar, tanpa label, tanpa nama.
 
@@ -61,15 +61,15 @@ Maera mengambil batang itu. Memasukkannya ke lapisan bawah kotak timbung mini �
 
 "Hari 291. Kursi kosong itu tidak kosong dan tidak berbahaya seperti semua orang takutkan. Dia pembaca tua yang kesepian, mencari penjaga baru setelah semua penjaganya mati seribu tahun, dan Caldrest — dapurnya, pasarnya, bocah tungkunya — sedang menjadi jawaban yang tidak dia sangka bentuknya." Ia menutup buku hitam. "Saya mulai berpikir kita semua sedang mendaftar ke ordo yang sama tanpa diundang."
 
-Kafilah pulang berangkat subuh. Sembilan hari di jalan raya, Caldrest makin besar di cakrawara, dan pada titik lereng timur tempat kota pertama kali terlihat utuh dengan lilin-lilinnya yang menyala siang-malam, Maera meminta kafilah berhenti sebentar.
+Kafilah pulang berangkat subuh. Sembilan hari di jalan raya, Caldrest makin besar di cakrawala, dan pada titik lereng timur tempat kota pertama kali terlihat utuh dengan lilin-lilinnya yang menyala siang-malam, Maera meminta kafilah berhenti sebentar.
 
 Ia turun, berdiri di pinggir jalan, dan memandang kota itu — tambangnya, dapurnya, papan-papan tulisnya, bocah tungkunya yang entah sedang berada di lapisan mana dari kegelapan itu — dan melakukan sesuatu yang belum pernah dilakukan Assayer mana pun dalam sejarah Guild: membungkuk sedikit, kepada sebuah kota.
 
-"Kubawa pulang satu jabatan," katanya kepada kota, pelan, yakin angin akan menyampaikannya ke meja yang tepat. "Dia tua dan kesepian dan terlalu pintar. Perlakukan seperti tamu. Kalau dia kelakuin salah, aku yang menanggung — dan kalian tahu aku tidak pernah menandatangani apa pun tanpa dibaca dua kali."
+"Kubawa pulang satu jabatan," katanya kepada kota, pelan, yakin angin akan menyampaikannya ke meja yang tepat. "Dia tua dan kesepian dan terlalu pintar. Perlakukan seperti tamu. Kalau dia berbuat salah, aku yang menanggung — dan kalian tahu aku tidak pernah menandatangani apa pun tanpa dibaca dua kali."
 
 Kafilah bergerak lagi menuruni lereng. Di dalam gerobaknya, Maera membuka buku hitam sekali lagi — kebiasaan baru yang tumbuh tanpa izin — dan di halaman terakhir menulis daftar yang bukan daftar musuh atau bukti, melainkan daftar pertama jenis lainnya dalam hidupnya:
 
-"Yang harus hadir saat kunjungan bekerja: saya (Guild), Kovan (berkas murmur), pemegang protokol (tanpa nama di kertas, tapi dia tahu yang mana), pengikat senior (dia akan datang sendiri, selalu begitu). Dan satu kursi tambahan untuk jabatan itu. Meja panjang. Bukan meja sidang." Ia memandang tulisannya, lalu menambahkan baris penutup: "Dan suplai teh. Sela bilang rapat yang baik butuh teh hangat. Untuk pertama kalinya saya setuju dengan teori dapur sepenuhnya."
+"Yang harus hadir saat kunjungan bekerja: saya (Guild), Kovan (berkas murmur), pemegang protokol (tanpa nama di kertas, tetapi dia tahu yang mana), pengikat senior (dia akan datang sendiri, selalu begitu). Dan satu kursi tambahan untuk jabatan itu. Meja panjang. Bukan meja sidang." Ia memandang tulisannya, lalu menambahkan baris penutup: "Dan suplai teh. Sela bilang rapat yang baik butuh teh hangat. Untuk pertama kalinya saya setuju dengan teori dapur sepenuhnya."
 
 Kota Caldrest muncul utuh di bawah, lilin-lilinnya menyala seperti langit yang jatuh ke lereng, dan di suatu tempat di dalamnya seorang bocah tungku sedang menutup papan catatan untuk tidur — tidak tahu bahwa Assayer-nya baru saja berdiri di lereng dan membungkuk kepadanya dari kejauhan, dan bahwa sebuah jabatan seribu tahun sedang menyiapkan tas untuk kunjungan kedua.
 

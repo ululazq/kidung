@@ -27,7 +27,7 @@ Pena Tharrow bergerak mencatat. "Ceritakan suara dari dinding."
 
 "Satu detik setelah sunyi."
 
-Tharrow menutup laporan itu. Untuk pertama kalinya pagi ini, ia menatap Ashvarok penuh, dan tatapannya seperti sarung tangan: bersih, tanpa jejak, tapi pasti menyentuh.
+Tharrow menutup laporan itu. Untuk pertama kalinya pagi ini, ia menatap Ashvarok penuh, dan tatapannya seperti sarung tangan: bersih, tanpa jejak, tetapi pasti menyentuh.
 
 "Anak tambang yang ketakutan bercerita berantakan. Menambah hal yang tak terjadi, melupakan yang terjadi. Kamu menceritakan urutan, detik demi detik. Orang lupa tidak punya urutan, Renn."
 
@@ -67,7 +67,7 @@ Malam kedua di barak, Ashvarok menunggu napas Sela merata — menunggu sampai ir
 
 Ujiannya sederhana. Setiap benda di dunia ini punya gema — begitulah cara zaman ini membaca harta. Resonant seam di tambang, artefak di pasar, cincin kontrak yang berdenyut pelan di ibu jarinya. Batu asah ini punya gema tipis, seperti sendok di dasar panci kosong. Cukup untuk latihan.
 
-Ia menyalurkan sedikit kesadaran ke urat gema tubuh ini dan langsung menemukan masalahnya. Jalur besar tubuh Renn kosong dan sehat — tapi jalur itulah yang tidak boleh ia pakai. Penyaluran meninggalkan catatan: pola panas yang khas, tanda tangan teknik. Orang Voice-tier mana pun yang menyentuh sisa gemanya akan membaca gaya seorang pemula zaman ini, bukan gaya raja era Hegemony. Itu bisa diterima. Yang tidak bisa diterima adalah gaya yang tidak dimiliki siapa pun yang hidup.
+Ia menyalurkan sedikit kesadaran ke urat gema tubuh ini dan langsung menemukan masalahnya. Jalur besar tubuh Renn kosong dan sehat — tetapi jalur itulah yang tidak boleh ia pakai. Penyaluran meninggalkan catatan: pola panas yang khas, tanda tangan teknik. Orang Voice-tier mana pun yang menyentuh sisa gemanya akan membaca gaya seorang pemula zaman ini, bukan gaya raja era Hegemony. Itu bisa diterima. Yang tidak bisa diterima adalah gaya yang tidak dimiliki siapa pun yang hidup.
 
 Jadi ia pakai jalur yang salah dengan sengaja: urat kecil di pergelangan kiri, yang sudah parut.
 
@@ -87,7 +87,7 @@ Bukan jerit panjang — jerit pendek, tertahan, seperti orang yang dilatih dunia
 
 Sela membuka mata dan menatapnya tanpa melihatnya beberapa saat lamanya.
 
-"Ash Man," katanya akhirnya. Suaranya serak. "Dia berdiri di ujung lorong. Lorong rumah kami yang dulu, di distrik lama, waktu aku kecil. Semua orang berjalan lewat dia seperti dia tiang. Tapi aku bisa lihat dia menghitung. Jari dia gerak. Satu, dua, tiga." Tangannya meniru gerakan itu di selimut. "Terus dia sampai ke aku, dan kakiku mau lari, dan dia bilang—"
+"Ash Man," katanya akhirnya. Suaranya serak. "Dia berdiri di ujung lorong. Lorong rumah kami yang dulu, di distrik lama, waktu aku kecil. Semua orang berjalan lewat dia seperti dia tiang. Namun aku bisa lihat dia menghitung. Jari dia gerak. Satu, dua, tiga." Tangannya meniru gerakan itu di selimut. "Terus dia sampai ke aku, dan kakiku mau lari, dan dia bilang—"
 
 Dia berhenti. Rahangnya mengeras.
 
@@ -119,7 +119,7 @@ Dan jalan yang tinggal di atas retakan, bersama bocah yang dihitung oleh ash man
 
 "Artinya kita perlu uang lebih cepat dari jadwal," katanya akhirnya. "Dan aku butuh shift dalam lagi. Yang dekat dasar."
 
-"Dasar?" Sela menertawakan pendek tanpa suara. "Semua orang turun dari dasar hanya dua hal: batu atau mayat."
+"Dasar?" Sela tertawa pendek tanpa suara. "Semua orang turun dari dasar hanya dua hal: batu atau mayat."
 
 "Maka tidak ada yang curiga kalau aku pulang bawa dua-duanya."
 

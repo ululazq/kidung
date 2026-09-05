@@ -23,7 +23,7 @@ Hari kedelapan puluh delapan, Brannoc datang ke gudang perkakas lebih cepat dari
 
 "Kubilang aku bawa pulang suratnya dan pikirkan." Sudut mulut Foreman itu naik sepersekian inci, hal yang paling dekat dengan tersenyum yang pernah dimilikinya. "Aku tidak bohong. Aku memang bawa pulang, dan aku memang sudah pikirkan. Selesai kupikirkan sebelum melewati stasiun angkut."
 
-Ashvarok memandang surat itu beberapa tarikan napas. Semua angka di dalamnya masuk akal; itulah yang membuatnya berbahaya. Tawaran yang dibuat dari kebohongan bisa dilawan dengan kebenaran, tapi tawaran yang dibuat dari kebaikan sungguhan — gaji yang nyata, masa depan anak yang nyata — hanya bisa dilawan oleh sesuatu yang lebih besar daripada keduanya.
+Ashvarok memandang surat itu beberapa tarikan napas. Semua angka di dalamnya masuk akal; itulah yang membuatnya berbahaya. Tawaran yang dibuat dari kebohongan bisa dilawan dengan kebenaran, tetapi tawaran yang dibuat dari kebaikan sungguhan — gaji yang nyata, masa depan anak yang nyata — hanya bisa dilawan oleh sesuatu yang lebih besar daripada keduanya.
 
 Dan waktunya tidak salah sedikit pun. Jawaban Spire baru turun. Panen resmi butuh distrik yang kosong dan tenang. Izin penutupan sedang disiapkan di meja wali kota. Membeli muka komunitas pada pekan seperti ini bukan kemewahan bagi Vael — itu kebutuhan jadwal. Orang tua pengikat akan menulis laporannya, laporan itu akan menetapkan hari, dan hari itu harus mendapati distrik timur sudah setengah dipindahkan oleh tangan yang ramah.
 
@@ -41,7 +41,7 @@ Dan waktunya tidak salah sedikit pun. Jawaban Spire baru turun. Panen resmi butu
 
 Rapat barak distrik timur diadakan malam hari kedelapan puluh sembilan di ruang bersama blok timur — ruangan panjang dengan bangku kayu yang dulu meja makan shift, kini meja segala urusan. Ibu Tamma memimpin bagian administratifnya dengan daftar name-roll di pangkuannya. Ondar duduk paling depan karena Ondar selalu duduk paling depan. Sela duduk di ujung bangku dengan papan tulisnya, mencatat keputusan seperti pekan-pekan sebelumnya. Anak-anak diizinkan tinggal sampai bagian pertama selesai. Tovik duduk paling belakang, senyum ramahnya setia seperti biasa, ikut tertawa ketika yang lain tertawa meski kadang terlambat sebentar.
 
-Urusan santunan selesai cepat. Urusan name-roll selesai lebih cepat. Lalu Brannoc berdiri, dan ruangan mereda dengan cara ruangan selalu mereda untuknya — bukan karena suaranya keras, tapi karena ia tidak pernah berdiri kalau tidak perlu.
+Urusan santunan selesai cepat. Urusan name-roll selesai lebih cepat. Lalu Brannoc berdiri, dan ruangan mereda dengan cara ruangan selalu mereda untuknya — bukan karena suaranya keras, tetapi karena ia tidak pernah berdiri kalau tidak perlu.
 
 "Satu perkara tambahan," katanya. "Dari luar barak."
 
@@ -67,7 +67,7 @@ Ia mundur kembali ke tempatnya berdiri, dan menambahkan satu kalimat terakhir, l
 
 Sunyi itu pecah dari arah yang tidak diduga siapa pun. Ibu Tamma menepuk-nepuk surat itu pada meja, melipatnya rapi, dan berkata kepada ruangan dengan suara komunitasnya yang paling datar, "Catat keberatan kita tambah satu pasal. Dan catat ini: mandor kita ditawari menjual kita, dan jawabannya sudah kalian dengar sendiri."
 
-Orang pertama yang bangkit adalah Ondar. Bangkit penuh, tegak, dengan cepat dan canggung sekaligus, seperti orang yang tubuhnya lebih cepat daripada sopan santunnya. Yang kedua adalah perempuan bilik tujuh. Yang ketiga sepuluh orang sekaligus. Lalu seluruh ruang bersama blok timur berdiri — pekerja galeri sembilan, ibu-ibu antrean santunan, Sela di ujung bangkunya dengan kapur masih di tangan, bahkan anak-anak yang tidak tahu persis isinya tapi tahu kapan harus ikut berdiri. Paling akhir, dibimbing pundak oleh perempuan di sebelahnya, Tovik bangkit juga — tua, ramah, senyumnya tidak berubah — dan berdiri tegak bersama semua nama yang tidak lagi ia kenal.
+Orang pertama yang bangkit adalah Ondar. Bangkit penuh, tegak, dengan cepat dan canggung sekaligus, seperti orang yang tubuhnya lebih cepat daripada sopan santunnya. Yang kedua adalah perempuan bilik tujuh. Yang ketiga sepuluh orang sekaligus. Lalu seluruh ruang bersama blok timur berdiri — pekerja galeri sembilan, ibu-ibu antrean santunan, Sela di ujung bangkunya dengan kapur masih di tangan, bahkan anak-anak yang tidak tahu persis isinya tetapi tahu kapan harus ikut berdiri. Paling akhir, dibimbing pundak oleh perempuan di sebelahnya, Tovik bangkit juga — tua, ramah, senyumnya tidak berubah — dan berdiri tegak bersama semua nama yang tidak lagi ia kenal.
 
 Brannoc berdiri paling tegak di antara mereka semua, dan untuk beberapa detik wajahnya kehilangan semua kemampuan berkata pendek.
 

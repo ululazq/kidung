@@ -55,7 +55,7 @@ Maera memandang ke arah lampu-lampu distrik tengah sebelum menjawab, dan pertany
 
 "Itu bagian yang paling mahal harganya," kata Ashvarok, "dan bukan untuk dia."
 
-Maera mengangguk pelan, lalu menambahkan satu hal lagi, dengan suara yang lebih rendah. "Ada satu detail kecil yang tidak masuk pasal mana pun, tapi aku mencatatnya karena detail kecil selalu masuk berita acara paling jujur. Ketika surat itu dibacakan, Vael duduk paling tegak dari semua orang dan tidak memotong satu kalimat pun. Orang yang membayar harga politik semahal itu biasanya menegosiasikan ulang setengah pasal sebelum tanda tangan. Dia tidak. Dia sudah tahu isinya sebelum kurir tiba."
+Maera mengangguk pelan, lalu menambahkan satu hal lagi, dengan suara yang lebih rendah. "Ada satu detail kecil yang tidak masuk pasal mana pun, tetapi aku mencatatnya karena detail kecil selalu masuk berita acara paling jujur. Ketika surat itu dibacakan, Vael duduk paling tegak dari semua orang dan tidak memotong satu kalimat pun. Orang yang membayar harga politik semahal itu biasanya menegosiasikan ulang setengah pasal sebelum tanda tangan. Dia tidak. Dia sudah tahu isinya sebelum kurir tiba."
 
 "Berarti dia ikut menuliskannya," kata Ashvarok. "Harga yang dia bayar adalah harga yang dia ajukan sendiri. Itu lebih buruk untuk kita daripada kalah tawar."
 
@@ -77,7 +77,7 @@ Brannoc mendengarkan dengan cara orang menghitung kerugian regunya. Ketika cerit
 
 "Lapisan di dais?"
 
-"Terbaca batu polos bagi semua alat," kata Ashvarok. "Tapi kita tidak tahu apa yang dibaca telapak tangannya. Dia yang berkata batu itu pernah ditempa, di hari pertama dia menginjak kota ini, sebelum ada yang menunjukkan ke mana arah aula. Orang seperti itu tidak membaca permukaan."
+"Terbaca batu polos bagi semua alat," kata Ashvarok. "Namun kita tidak tahu apa yang dibaca telapak tangannya. Dia yang berkata batu itu pernah ditempa, di hari pertama dia menginjak kota ini, sebelum ada yang menunjukkan ke mana arah aula. Orang seperti itu tidak membaca permukaan."
 
 Brannoc mengangguk pelan. "Patroli?"
 

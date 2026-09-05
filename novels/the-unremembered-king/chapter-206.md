@@ -3,9 +3,9 @@ title: "Bab 206: Peta Nat Tua"
 chapter: 206
 ---
 
-Masalahnya sederhana dan besar sekaligus: kedalaman berkata ia menyimpan penitipan dari zaman pra-Hegemony — tapi tidak ada yang tahu DI MANA saja nat-nat tua itu berada, karena Karvess belum pernah memetakan lantai bawahnya sendiri.
+Masalahnya sederhana dan besar sekaligus: kedalaman berkata ia menyimpan penitipan dari zaman pra-Hegemony — tetapi tidak ada yang tahu DI MANA saja nat-nat tua itu berada, karena Karvess belum pernah memetakan lantai bawahnya sendiri.
 
-"Maka kita buat peta," kata Sela dalam rapat Kepala Arsip, dan meletakkan tiga sumber di meja: daftar nat ordo Penjaga Rekam (lengkap tapi empat generasi basi), laporan patroli Guild (baru tapi dangkal), dan halaman kosong ketiga. "Sumber ketiga inilah yang belum ada: wawancara pendengar alami. Orang-orang yang selama puluhan tahun tahu nat mana yang 'bicara' — tanpa pernah dicatat siapa pun."
+"Maka kita buat peta," kata Sela dalam rapat Kepala Arsip, dan meletakkan tiga sumber di meja: daftar nat ordo Penjaga Rekam (lengkap tetapi empat generasi basi), laporan patroli Guild (baru tetapi dangkal), dan halaman kosong ketiga. "Sumber ketiga inilah yang belum ada: wawancara pendengar alami. Orang-orang yang selama puluhan tahun tahu nat mana yang 'bicara' — tanpa pernah dicatat siapa pun."
 
 "Kenapa tidak pernah dicatat?" tanya juru tulis mudanya.
 
@@ -17,17 +17,17 @@ Wawancara dimulai pekan itu. Barim mewawancarai para penjaga malam tua di lima k
 
 "Ya sudah," kata penjaga tua itu, dan suaranya pecah pada kata kedua. "Boleh juga."
 
-Di kota ketiga, temuan itu berbentuk orang: seorang nenek penjual sayur yang — setelah tiga jam percakapan yang baru perlahan-lahan mengakui — terbukti pendengar alami yang tidak pernah tahu istilahnya. Selama enam puluh tahun ia "obrolin batu-batu pasar agar tidak kesepian", dan batu-batu itu, kata neneknya, "paling nurut sama aku dibanding juragan mana pun". Barim pulang dari wawancara itu dalam keadaan hampir tidak bisa bicara, dan laporannya kepada Sela hanya satu kalimat: "Daftar kita kurang. Pendengar alami itu bukan empat generasi. Mereka tiap generasi ada, hanya tidak pernah dipanggil dengan namanya."
+Di kota ketiga, temuan itu berbentuk orang: seorang nenek penjual sayur yang — setelah tiga jam percakapan yang baru perlahan-lahan mengakui — terbukti pendengar alami yang tidak pernah tahu istilahnya. Selama enam puluh tahun ia "mengobroli batu-batu pasar agar tidak kesepian", dan batu-batu itu, kata neneknya, "paling nurut sama aku dibanding juragan mana pun". Barim pulang dari wawancara itu dalam keadaan hampir tidak bisa bicara, dan laporannya kepada Sela hanya satu kalimat: "Daftar kita kurang. Pendengar alami itu bukan empat generasi. Mereka tiap generasi ada, hanya tidak pernah dipanggil dengan namanya."
 
 Sela langsung membuka halaman arsip baru di atas peta nat: DAFTAR PENDENGAR YANG BELUM DIPANGGIL. Entri pertamanya adalah nenek penjual sayur dari kota ketiga.
 
 Pak Dekan meninggalkan catatan yang dibaca Sela — arsip pribadi sang guru yang masih terus membuka jalan meski pemiliknya sudah tiada: daftar sembilan nat Caldrest yang "dulu sering disapa", lengkap dengan jam-jam ketika masing-masing "paling ramai". Termasuk dua yang letaknya mengejutkan semua orang: satu di bawah pasar distrik tengah, satu di dasar sumur klinik.
 
-"Nat di bawah sumur klinik," kata dokter tambang, membaca ulang entri itu. "Tiga puluh tahun aku bekerja di klinik itu. Setiap pasien yang hampir tidak tertolak selalu bilang hal yang sama saat sadar: 'aku mimpi didiamin sesuatu yang hangat.'" Ia meletakkan kopinya. "Aku tulis di laporan sebagai efek obat agar aman dari Choir."
+"Nat di bawah sumur klinik," kata dokter tambang, membaca ulang entri itu. "Tiga puluh tahun aku bekerja di klinik itu. Setiap pasien yang hampir tidak tertolak selalu bilang hal yang sama saat sadar: 'aku mimpi didiamkan sesuatu yang hangat.'" Ia meletakkan kopinya. "Aku tulis di laporan sebagai efek obat agar aman dari Choir."
 
 "Sekarang bisa ditulis ulang," kata Sela, "sebagai fakta arsip."
 
-"Ditulis ulang saja," kata dokter itu, dan mengambil kembali laporan lamanya dari tasnya — ia membawanya, ternyata, sudah bertahun-tahun menunggu ada yang bertanya. "Tapi tambahkan nama mereka. Semua pasien yang mimpi itu. Delapan belas nama. Mereka berhak jadi bagian fakta, bukan hanya efek sampingnya."
+"Ditulis ulang saja," kata dokter itu, dan mengambil kembali laporan lamanya dari tasnya — ia membawanya, ternyata, sudah bertahun-tahun menunggu ada yang bertanya. "Namun tambahkan nama mereka. Semua pasien yang mimpi itu. Delapan belas nama. Mereka berhak jadi bagian fakta, bukan hanya efek sampingnya."
 
 "Dan nat di bawah pasar?" tanya Ashvarok.
 
@@ -43,7 +43,7 @@ Julukan yang langsung menempel dan tidak akan pernah hilang: "Peta Tempat Duduk 
 
 Karena itulah yang ditemukan Sela saat memplot titik-titiknya di atas denah bawah tanah: nat-nat aktif itu tidak tersebar acak. Mereka membentuk pola melingkar di sekitar aula — seperti kursi-kursi yang disusun menghadap meja panjang yang sama.
 
-Penemuannya hampir tidak terjadi: gadis itu sudah tiga malam gagal melihat polanya, dan pada malam keempat ia hampir menyerah dan menulis "persebaran acak" di kesimpulannya. Yang menghentikannya adalah kebiasaan lama ibunya, yang datang mampir membawa roti dan melihat kertas-kertas berisi titik itu berserakan. "Ini kok seperti susunan meja pesta," kata ibunya sambil memutar selembar kertas setengah putaran — dan Sela membeku, karena dari arah itu titik-titiknya membentuk lingkaran yang sempurna. "Ma," katanya, "kau baru saja menemukan pola yang dilewatkan ordo empat generasi." Ibu Sela menjawab dengan hal yang akan dikutip Kepala Arsip di setiap kuliahnya bertahun-tahun kemudian: "Ya sudah. Tulis nama ibu di dokumennya."
+Penemuannya hampir tidak terjadi: gadis itu sudah tiga malam gagal melihat polanya, dan pada malam keempat ia hampir menyerah dan menulis "persebaran acak" di kesimpulannya. Yang menghentikannya adalah kebiasaan lama ibunya, yang datang mampir membawa roti dan melihat kertas-kertas berisi titik itu berserakan. "Ini seperti susunan meja pesta," kata ibunya sambil memutar selembar kertas setengah putaran — dan Sela membeku, karena dari arah itu titik-titiknya membentuk lingkaran yang sempurna. "Ma," katanya, "kau baru saja menemukan pola yang dilewatkan ordo empat generasi." Ibu Sela menjawab dengan hal yang akan dikutip Kepala Arsip di setiap kuliahnya bertahun-tahun kemudian: "Ya sudah. Tulis nama ibu di dokumennya."
 
 Ashvarok memandang peta itu lama, dan yang ia lihat membuatnya memanggil Sareth Vayin malam itu juga.
 
@@ -75,7 +75,7 @@ Kepingan cinder-glass latihan dibagikan, satu murid per nat, lingkaran penuh, da
 
 Yang terjadi kemudian dilaporkan Kovan dengan angka yang dicek empat kali: selama tujuh belas menit, ketiga puluh satu nat menyanyikan name train secara SERENTAK tanpa dipimpin siapa pun — sinkron sempurna, padahal murid-murid itu tidak pernah berlatih bersama dalam formasi tersebut. Kedalaman tidak ikut menyanyi. Kedalaman hanya... mendengarkan. Dan getar yang naik dari aula jam itu, kata Barim yang kebetulan turun, "bukan suara lagu. Suara orang yang duduk di meja panjangnya dan akhirnya melihat kursi-kursinya terisi".
 
-Sareth Vayin menonton latihan itu sampai selesai, lalu berkata kepada Ashvarok dengan suara yang sudah tenang karena sudah selesai menggigil: "Aku empat puluh tahun mencari peninggalan kelas tertinggi seni ini di arsip-arsip kota besar. Ternyata dia bukan di arsip mana pun. Dia di bawah aula kita, menunggu murid." Wanita tua itu tertawa pendek. "Dan guru yang nyusun kursinya tidak minta bayaran. Hanya minta murid datang."
+Sareth Vayin menonton latihan itu sampai selesai, lalu berkata kepada Ashvarok dengan suara yang sudah tenang karena sudah selesai menggigil: "Aku empat puluh tahun mencari peninggalan kelas tertinggi seni ini di arsip-arsip kota besar. Ternyata dia bukan di arsip mana pun. Dia di bawah aula kita, menunggu murid." Wanita tua itu tertawa pendek. "Dan guru yang menyusun kursinya tidak minta bayaran. Hanya minta murid datang."
 
 Sejak hari itu, murid tingkat dua berlatih di lingkaran nat tiap pekan. Kursi-kursi tua itu mulai mengenal bunyi kelas — dan Sela menambahkan satu baris di Peta Tempat Duduk Tamu, dengan kapur biru:
 

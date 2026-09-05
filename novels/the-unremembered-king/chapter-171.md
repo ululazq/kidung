@@ -7,11 +7,11 @@ Mereka berkumpul dengan susunan yang belum pernah ada di Caldrest: meja panjang 
 
 "Aku mulai dari awal," kata orang tua itu. "Karena kalian sudah membayar hak untuk mendengar awal."
 
-Ordo itu bernama Penjaga Rekam — bukan nama megah, kata pengikat senior, karena penjaga rekaman memang pekerjaannya mencatat, dan mencatat tidak pernah glamor. Mereka lebih tua dari Hegemony; Hegemony justru belajar sistem arsip dari mereka. Tugas tunggalnya: menjaga rekaman tentang Vel-Ghora — bukan untuk dipelajari, tapi supaya yang datang setelah tahu persis dengan apa yang dihadapi pendahulunya. "Sejarah adalah manual," katanya. "Hilangkan sejarah, dan setiap generasi harus menggali ulang semua kuburan."
+Ordo itu bernama Penjaga Rekam — bukan nama megah, kata pengikat senior, karena penjaga rekaman memang pekerjaannya mencatat, dan mencatat tidak pernah glamor. Mereka lebih tua dari Hegemony; Hegemony justru belajar sistem arsip dari mereka. Tugas tunggalnya: menjaga rekaman tentang Vel-Ghora — bukan untuk dipelajari, tetapi supaya yang datang setelah tahu persis dengan apa yang dihadapi pendahulunya. "Sejarah adalah manual," katanya. "Hilangkan sejarah, dan setiap generasi harus menggali ulang semua kuburan."
 
 Yang menghapus sejarah itu bukan Vel-Ghora. Yang menghapus adalah manusia: ordo yang datang setelahnya, yang menemukan bahwa rekaman tentang kedalaman bisa menjadi senjata bila jatuh ke tangan yang ingin menggunakan kedalaman — dan memilih membakar seluruh arsip demi keselamatan, lalu mendirikan the Resonant Choir di atas abunya dengan doktrin baru: jangan ingat, cukup takut.
 
-"Choir tidak jahat," kata pengikat senior hati-hati. "Doktrin mereka bekerja selama seribu tahun. Tapi doktrin yang berdiri di atas pembakaran arsip punya cacat struktural: dia tidak bisa mengakui kesalahan tanpa runtuh. Itu kenapa murmur semu diciptakan. Bukan kejahatan — ketakutan yang dilembagakan."
+"Choir tidak jahat," kata pengikat senior hati-hati. "Doktrin mereka bekerja selama seribu tahun. Namun doktrin yang berdiri di atas pembakaran arsip punya cacat struktural: dia tidak bisa mengakui kesalahan tanpa runtuh. Itu kenapa murmur semu diciptakan. Bukan kejahatan — ketakutan yang dilembagakan."
 
 Lalu ia sampai pada dirinya: pemuda ordo terakhir yang dikirim keluar sebelum ordo dibubarkan secara administratif — "dibubarkan, kata formalnya; dalam praktiknya dihapus seperti kabupaten utara" — dengan satu tugas terakhir yang tidak masuk akal bagi anak sembilan belas tahun: cari seni penambalan. Seni yang disebut dalam potongan rekaman selamat terakhir, satu baris: "yang menambal akan bertahan lebih lama dari yang mengikat."
 
@@ -23,9 +23,9 @@ Ia menoleh ke Ashvarok.
 
 Ashvarok diam lama. Di sekeliling meja, semua wajah menunggu — Brannoc dengan rotinya, Kovan dengan buku sandinya, Maera yang datang khusus dari Spire untuk sesi ini, Sela yang kapurnya sudah tersusun, Ossian yang hadir pertama kali di rapat lengkap dan duduk paling ujung seperti orang yang belum yakin undangannya nyata.
 
-"Jawabanku tidak," kata Ashvarok akhirnya, dan melihat wajah orang tua itu — lalu meneruskannya sebelum harapan sempat patah. "Aku tidak akan MENGAJARI. Mengajar berarti memindahkan, dan Emberweave tidak bisa dipindah — kalian sudah buktikan sendiri bahwa ia hanya hidup di kepala pembawanya. Tapi ada bentuk lain yang lebih tua daripada pengajaran: KEMITRAAN BACA. Dua tradisi membaca objek yang sama bersama-sama. Kau membaca dengan telapak dan Resonance-mu; aku dengan Walking Key-ku. Kita bandingkan hasil. Seiring waktu, kau tidak akan punya seniku — kau akan punya PETA gabungan dua cara membaca, dan peta itu bisa diajarkan ke murid mana pun dari kedua jalur. Itu warisan yang tidak mati bersama pembawanya."
+"Jawabanku tidak," kata Ashvarok akhirnya, dan melihat wajah orang tua itu — lalu meneruskannya sebelum harapan sempat patah. "Aku tidak akan MENGAJARI. Mengajar berarti memindahkan, dan Emberweave tidak bisa dipindah — kalian sudah buktikan sendiri bahwa ia hanya hidup di kepala pembawanya. Namun ada bentuk lain yang lebih tua daripada pengajaran: KEMITRAAN BACA. Dua tradisi membaca objek yang sama bersama-sama. Kau membaca dengan telapak dan Resonance-mu; aku dengan Walking Key-ku. Kita bandingkan hasil. Seiring waktu, kau tidak akan punya seniku — kau akan punya PETA gabungan dua cara membaca, dan peta itu bisa diajarkan ke murid mana pun dari kedua jalur. Itu warisan yang tidak mati bersama pembawanya."
 
-Pengikat senior memandangnya lama. Lalu orang tua itu tertawa — pendek, kering — dan berkata kepada meja: "Empat puluh tahun aku cari seni. Ternyata yang ditawarkan bukan seninya, tapi sekolahnya. Lebih baik." Ia bangkit, menawarkan telapak kanannya ke Ashvarok — gestur yang belum pernah dilakukan orang itu, jabat tangan, tradisi pasar Caldrest bukan tradisi ordo. "Mitra membaca. Dengan satu pasal dari sisi saya juga: batu asah di ambang jendela gudangmu itu — jangan dipindah. Aku lihat sapuan-sapuan terakhir berhenti di sana setiap malam. Apa pun artinya, itu pertama kali dalam seribu tahun kedalaman berhenti di sesuatu TANPA mengambil. Itu data paling penting yang pernah kita punya, dan datanya sedang hidup."
+Pengikat senior memandangnya lama. Lalu orang tua itu tertawa — pendek, kering — dan berkata kepada meja: "Empat puluh tahun aku cari seni. Ternyata yang ditawarkan bukan seninya, tetapi sekolahnya. Lebih baik." Ia bangkit, menawarkan telapak kanannya ke Ashvarok — gestur yang belum pernah dilakukan orang itu, jabat tangan, tradisi pasar Caldrest bukan tradisi ordo. "Mitra membaca. Dengan satu pasal dari sisi saya juga: batu asah di ambang jendela gudangmu itu — jangan dipindah. Aku lihat sapuan-sapuan terakhir berhenti di sana setiap malam. Apa pun artinya, itu pertama kali dalam seribu tahun kedalaman berhenti di sesuatu TANPA mengambil. Itu data paling penting yang pernah kita punya, dan datanya sedang hidup."
 
 Jabat tangan itu terjadi — tangan tua dan tangan bocah tambang, di atas meja rapat Caldrest, dengan teh ibu Tamma mengepul di sebelahnya dan enam saksi yang tidak satu pun pernah membayangkan akan melihat ordo dan Emberweave berjabatan.
 
@@ -47,7 +47,7 @@ Pamit dua kali.
 
 Seribu tahun ia membaca kedalaman sebagai lapar, ancaman, tekanan, musuh yang sabar. Dan dalam dua pekan terakhir, semua pembacaan lamanya digoyang oleh fakta-fakta kecil yang menolak masuk kotak lama: mengetuk pintu bukan menguji gembok; berhenti di batu asah tanpa mengambil; pamit dua kali.
 
-Ia tidak akan menyebutnya apa-apa. Belum. Tapi ia meletakkan tangan di atas batu asah itu sebentar — hangat karena lilin gudang — dan berkata kepada tambang, dengan suara yang tidak didengar manusia mana pun tapi mungkin didengar sesuatu yang lain:
+Ia tidak akan menyebutnya apa-apa. Belum. Namun ia meletakkan tangan di atas batu asah itu sebentar — hangat karena lilin gudang — dan berkata kepada tambang, dengan suara yang tidak didengar manusia mana pun tetapi mungkin didengar sesuatu yang lain:
 
 "Datang lagi kalau mau. Pintunya sama."
 
@@ -61,15 +61,15 @@ Aku mulai curiga bahwa hal yang selama ini kusegel itu tidak pernah ingin keluar
 
 Ia menutup papan itu dan tidak menunjukkannya kepada siapa pun malam itu — beberapa tulisan harus matang dulu di kegelapan sebelum layak dilihat orang — dan tidur dengan dingin biasa di tulang dan sesuatu yang tidak biasa di bawahnya, yang tidak punya nama dalam semua bahasa yang ia kuasai, termasuk bahasa penjaga.
 
-Esoknya, Kovan menerjemahkan tiga nada itu dalam empat jam bekerja dan satu teko teh, dan hasilnya membuat rapat darurat dipanggil sebelum siang: tiga nada itu, dibaca dalam struktur keluarga bahasa penjaga yang telah ia rekonstruksi dari dua deret lamanya, membentuk SATU kata — kata yang sama dengan ganti-nama galeri bisu, kata yang pernah dipakai upacara Hegemony untuk menyapa tubuh-kunci.
+Esoknya, Kovan menerjemahkan tiga nada itu dalam empat jam kerja dan satu teko teh, dan hasilnya membuat rapat darurat dipanggil sebelum siang: tiga nada itu, dibaca dalam struktur keluarga bahasa penjaga yang telah ia rekonstruksi dari dua deret lamanya, membentuk SATU kata — kata yang sama dengan ganti-nama galeri bisu, kata yang pernah dipakai upacara Hegemony untuk menyapa tubuh-kunci.
 
-Tapi dengan akhiran berbeda. Akhiran yang belum pernah muncul di catatan mana pun.
+Namun dengan akhiran berbeda. Akhiran yang belum pernah muncul di catatan mana pun.
 
 Kovan meletakkan terjemahannya di tengah meja: "Bukan 'kunci' seperti dulu. Dia tidak menyebut Ashvarok kunci lagi." Jeda. "Dengan akhiran ini, katanya: 'penjaga'."
 
 Hening total. Sela kapurnya berhenti. Akarnya di rahang Brannoc berhenti bergerak. Maera yang baru setengah jalan menuju kursinya berhenti berjalan.
 
-"Seribu tahun dia menyebutku alamat," kata Ashvarok pelan, dan kalimat itu bukan untuk meja, tapi meja mendengarnya juga. "Fungsi. Alat. Pintu yang diputar. Dan sekarang, setelah dua pekan batu asah di jendela dan teh yang dingin dan nama-nama yang disebut tanpa takut... dia mengganti jabatanku."
+"Seribu tahun dia menyebutku alamat," kata Ashvarok pelan, dan kalimat itu bukan untuk meja, tetapi meja mendengarnya juga. "Fungsi. Alat. Pintu yang diputar. Dan sekarang, setelah dua pekan batu asah di jendela dan teh yang dingin dan nama-nama yang disebut tanpa takut... dia mengganti jabatanku."
 
 Pengikat senior, orang tua itu, memandang ke arah tambang dengan ekspresi yang belum pernah ada di wajahnya selama semua waktu di Caldrest — dan yang ia katakan kemudian hampir berbisik: "Empat puluh tahun saya membaca catatan ordo. Tidak satu pun menyebut kedalaman berubah panggilan pada siapa pun." Ia menoleh. "Kau tidak sedang menahannya lagi, anak muda. Kalian sedang saling mengenal."
 

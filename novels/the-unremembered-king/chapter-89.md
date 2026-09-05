@@ -7,7 +7,7 @@ Malam hari keseratus tujuh belas, dapur barak distrik timur memasak dengan cara 
 
 Ashvarok datang bersama regunya seperti yang dijanjikan, membawa dua bangku tambahan dan satu meja lipat yang engselnya ia perkuat diam-diam dengan tenunan Forge tipis — kebiasaan kecil yang harganya hampir nol dan membuat barang-barang di sekelilingnya lebih lama hidup daripada seharusnya. Tidak ada yang memperhatikan pekerjaan itu. Semua mata sedang sibuk pada hal-hal yang lebih penting — sup panas, roti yang dipanggang bersama, dan fakta bahwa besok pagi tidak ada satu pun dari mereka yang harus mengantre santunan atau mengisi troli pemindahan.
 
-Ia duduk di ujung bangku paling jauh dari api, posisi yang sudah ia pilih sejak malam pertamanya di tubuh ini, dan makan pelan seperti orang yang belum sepenuhnya percaya pada meja penuh. Tubuhnya masih menghitung tagihan malam runtunan — lengan kanan terasa jauh, seperti milik orang lain yang dipinjamkan dengan sopan — tapi sup yang panas dan roti yang baru membantu, dan tubuh lima belas tahun itu tahu cara berterima kasih untuk hal-hal sekecil itu lebih baik daripada pemilik lamanya.
+Ia duduk di ujung bangku paling jauh dari api, posisi yang sudah ia pilih sejak malam pertamanya di tubuh ini, dan makan pelan seperti orang yang belum sepenuhnya percaya pada meja penuh. Tubuhnya masih menghitung tagihan malam runtunan — lengan kanan terasa jauh, seperti milik orang lain yang dipinjamkan dengan sopan — tetapi sup yang panas dan roti yang baru membantu, dan tubuh lima belas tahun itu tahu cara berterima kasih untuk hal-hal sekecil itu lebih baik daripada pemilik lamanya.
 
 Cerita-cerita mulai mengalir bersama uap sup, seperti biasa di dapur mana pun di dunia ini. Pertama cerita-cerita besar — putusan wali kota dibacakan ulang oleh tiga orang berbeda dengan tiga versi berbeda, dan tiap versi lebih bagus dari aslinya. Stempel warisan digambarkan ulang di udara oleh tangan-tangan yang belum pernah melihat aslinya, dan gambarnya bertambah delapan sisi lagi setiap kali berganti mulut. Lalu cerita-cerita mengecil, dan bagian inilah yang tidak ia antisipasi. Cerita-cerita itu mulai bercerita tentang dia.
 
@@ -15,9 +15,9 @@ Cerita-cerita mulai mengalir bersama uap sup, seperti biasa di dapur mana pun di
 
 "Bukan hanya itu," kata perempuan bilik tujuh, yang suaranya jarang naik di kerumunan. "Tahun panen kemarin, waktu kontrak sekolah dibuka lagi semua, dia yang suruh kita tulis sanggahannya satu paket. Dia bilang, kertas itu murah kalau ditulis ramai-ramai." Ia tertawa kecil ke arah mangkuknya. "Saya ingat itu lebih jelas daripada segala cerita lubang."
 
-"Waktu dia tolak uang mandor barat itu," kata seorang lelaki tua galeri sebelas, "sepuluh shardmark, bungkus tebal. Dia tolok begitu saja, terus kasih nasihat gratis soal balok penyangga. Nasihatnya benar, lorongnya selamat. Anak-anak zaman sekarang—" ia menggeleng dengan kekaguman yang tidak tahu dirinya sudah menjadi penghina generasi.
+"Waktu dia tolak uang mandor barat itu," kata seorang lelaki tua galeri sebelas, "sepuluh shardmark, bungkus tebal. Dia tolak begitu saja, lalu memberi nasihat gratis soal balok penyangga. Nasihatnya benar, lorongnya selamat. Anak-anak zaman sekarang—" ia menggeleng dengan kekaguman yang tidak tahu dirinya sudah menjadi penghina generasi.
 
-"Anak itu juga yang rapikan rak garam galeri tujuh tanpa disuruh," kata kepala keluarga tua itu dari ujung meja, "dan yang baiki engsel pintu dapur bulan lalu. Engsel ini." Ia mengetuk engselnya, dan pintu itu tidak bunyi sama sekali. "Semua orang memikirkan dia menjaga lubang-lubang besar. Saya memikirkan dia menjaga apa saja yang ketemu."
+"Anak itu juga yang rapikan rak garam galeri tujuh tanpa disuruh," kata kepala keluarga tua itu dari ujung meja, "dan yang baiki engsel pintu dapur bulan lalu. Engsel ini." Ia mengetuk engselnya, dan pintu itu tidak bunyi sama sekali. "Semua orang memikirkan dia menjaga lubang-lubang besar. Saya memikirkan dia menjaga apa saja yang bertemu."
 
 Tawa kecil berjalan di sepanjang meja. Dan Ashvarok, raja yang ribuan tahun silam diberi gelar oleh takutan dan kutukan oleh sisanya, duduk mendengar orang-orang miskin menceritakan dirinya untuk pertama kalinya dalam sejarah dunia ini — dan ternyata versi mereka benar. Itulah yang membuat tenggorokannya macet di antara dua suapan sup. Bukan cerita besarnya yang dilebihkan, melainkan detail-detail kecilnya yang tepat. Rak garam. Engsel dapur. Sanggahan satu paket. Mereka tidak menceritakan legenda; mereka menceritakan catatan. Selama setahun ini, tanpa ia sadari, ia sedang dicatat oleh dapur-dapur dan pintu-pintu, dan catatan itu pulang ke meja yang sama dengan sup.
 
@@ -39,7 +39,7 @@ Sela datang sesaat sebelum api diturunkan, dengan papan tulisnya sudah tidak di 
 
 Sup itu hangat, gurih, dimasak dengan lemak yang pasti dikorbankan seseorang untuk malam ini. Ashvarok memakannya, dan tubuh lima belas tahun itu menerimanya dengan lapar yang jujur, dan untuk beberapa menit tidak ada yang bicara karena tidak ada yang perlu.
 
-Ketika ia hendal bangun mencuci mangkoknya — kebiasaan yang tidak akan pernah ia lepaskan, karena penguasa yang tidak pernah mencuci mangkoknya sendiri cepat atau lambat lupa bahwa mangkok itu milik orang — Sela menaruh sesuatu di atas meja, di bawah telapaknya, dengan gerakan kecil yang dipraktikkan sepanjang sore.
+Ketika ia hendak bangun mencuci mangkoknya — kebiasaan yang tidak akan pernah ia lepaskan, karena penguasa yang tidak pernah mencuci mangkoknya sendiri cepat atau lambat lupa bahwa mangkok itu milik orang — Sela menaruh sesuatu di atas meja, di bawah telapaknya, dengan gerakan kecil yang dipraktikkan sepanjang sore.
 
 Kertas kecil, dilipat dua, tulisan tangan tegak.
 
@@ -53,7 +53,7 @@ Ashvarok membaca kertas itu dua kali. Tulisan tangan bocah sebelas tahun, huruf 
 
 "Aku masukkan ke dalam," katanya akhirnya, suaranya datar seperti biasa, padahal ada pekerjaan yang sedang dilakukan di tempat yang tidak terlihat. "Kertasnya."
 
-"Iya. Sudah aku pikir." Sela mengumpulkan mangkok-mangkok kosong, berdiri, lalu berkata tanpa menoleh, ringan seperti bicara cuaca. "Kamu tidak harus cerita apa-apa malam ini. Aku hanya mau kamu tahu sup-nya bukan pembayaran. Kadang-kadang orang kasih makan hanya karena senang lihat orangnya masih ada."
+"Iya. Sudah aku pikir." Sela mengumpulkan mangkok-mangkok kosong, berdiri, lalu berkata tanpa menoleh, ringan seperti bicara cuaca. "Kamu tidak harus cerita apa-apa malam ini. Aku hanya mau kamu tahu sup-nya bukan pembayaran. Kadang-kadang orang memberi makan hanya karena senang lihat orangnya masih ada."
 
 Ia pergi ke bak cuci dengan mangkok-mangkok itu, bernyanyi kecil, lagu name train yang biasa diajarkannya ke anak-anak.
 

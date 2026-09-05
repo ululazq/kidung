@@ -17,7 +17,7 @@ Ashvarok meletakkan wadah tembaga itu di tanah, membukanya, dan bara Karveth-Ulm
 
 Jawaban Kael-Uthar diteruskan lewat bara itu (protokol yang disiapkan Sareth dan nat aula), dan oleh Kovan diterjemahkan langsung kepada Ulmek:
 
-"Dia berkata: saudaramu hidup. Dia sekarang menjadi api dapur sebuah kota bernama Caldrest, dan dia mengirim baranya bukan untuk dibakarkan — tapi untuk MENEMUIKAMU."
+"Dia berkata: saudaramu hidup. Dia sekarang menjadi api dapur sebuah kota bernama Caldrest, dan dia mengirim baranya bukan untuk dibakarkan — tetapi untuk MENEMUIKAMU."
 
 ---
 
@@ -25,7 +25,7 @@ Yang terjadi setelah itu oleh kronik disebut "malam dua api": bara Karveth-Ulm d
 
 Dua api purba — satu dari selatan, satu dari timur laut — terlihat saling menjilat lidah-lidahnya seperti dua orang tua yang bertemu kembali.
 
-Dan para pemuda pegunungan bercerita bahwa malam itu mereka mendengar kedua api BICARA — bahasa yang tidak dipahami siapa pun, tapi nadanya jelas: dua teman lama yang bertukar cerita seribu tahun sampai pagi.
+Dan para pemuda pegunungan bercerita bahwa malam itu mereka mendengar kedua api BICARA — bahasa yang tidak dipahami siapa pun, tetapi nadanya jelas: dua teman lama yang bertukar cerita seribu tahun sampai pagi.
 
 ---
 
@@ -91,7 +91,7 @@ Dan di halaman terakhir neraca itu, ibu Tamma menambahkan catatan terakhir — y
 
 Kamu tanya kunci keberhasilan. Aku jawab: dapur yang tidak tutup.
 
-Tapi ada yang belum kamu tulis di neracamu, Nak: bahwa dapur itu tidak pernah tutup BUKAN karena aku tidak pernah tidur. Itu karena selalu saja ada orang yang lewat dan bilang 'Bu, ada yang bisa dibantu?'
+Namun ada yang belum kamu tulis di neracamu, Nak: bahwa dapur itu tidak pernah tutup BUKAN karena aku tidak pernah tidur. Itu karena selalu saja ada orang yang lewat dan bilang 'Bu, ada yang bisa dibantu?'
 
 Delapan bulan ini ribuan orang lewat dan bertanya itu. Ke dapurku, ke nat-natmu, ke pos-pos jemput.
 

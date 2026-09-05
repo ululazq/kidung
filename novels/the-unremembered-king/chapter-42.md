@@ -71,7 +71,7 @@ Malamnya, gudang perkakas tingkat dua berisi satu lampu, dua orang, dan percakap
 
 Brannoc mengunyah. Lama. "Dulu hanya penambang. Yang di lorong tujuh dulu, yang di lorong B dulu. Sekarang orang luar."
 
-"Sekarang orang luar." Ashvarok mengizinkan kalimat itu berdiri sebentar di antara mereka, karena kalimat itu perlu didengar bunyinya oleh keduanya. "Kebocorannya melebar, Brannoc. Dulu ia hanya menyentuh orang yang tinggal menempel di tambang. Kini ia menyentuh siapa pun yang cukup lama di dekat bibirnya. Dan yang terkena bukan lupa permanen — dia pulih, sembilan detik, lupa sesaat, seperti Ondar dulu. Tapi itu artinya hanya satu hal: yang berikutnya tidak akan sesaat."
+"Sekarang orang luar." Ashvarok mengizinkan kalimat itu berdiri sebentar di antara mereka, karena kalimat itu perlu didengar bunyinya oleh keduanya. "Kebocorannya melebar, Brannoc. Dulu ia hanya menyentuh orang yang tinggal menempel di tambang. Kini ia menyentuh siapa pun yang cukup lama di dekat bibirnya. Dan yang terkena bukan lupa permanen — dia pulih, sembilan detik, lupa sesaat, seperti Ondar dulu. Namun itu artinya hanya satu hal: yang berikutnya tidak akan sesaat."
 
 "Kamu bisa menutupnya lagi?" Pertanyaan itu datang tanpa pembuka, cara Foreman itu bertanya soal hal yang sudah dipikirkannya sejak tingkat troli. "Seperti dulu. Yang di lorong B."
 
@@ -81,7 +81,7 @@ Hening. Lampu berbunyi kecil.
 
 "Lalu kita membuat apa?" kata Brannoc akhirnya. Bukan protes. Sebuah permintaan rencana, dari mitra yang sudah dua kali menyaksikan dunia ini retak dan tidak pernah sekali pun mendengar Ashvarok berkata tidak mampu.
 
-"Kita mengalihkan. Selalu mengalihkan. Setiap kali sunyi datang di depan orang banyak, harus sudah ada troli yang jatuh, ada shift yang berganti, ada cerita yang lebih menarik daripada kekosongan. Manusia tidak mencatat apa yang tidak sempat diperhatikannya." Ashvarok berdiri, dan kelelahan hari Forge kemarin menagih sisanya dari lututnya. "Itu bukan perlindungan. Itu penundaan. Tapi penundaan adalah satu-satunya barang yang bisa kubeli dengan harga yang tidak membunuhku."
+"Kita mengalihkan. Selalu mengalihkan. Setiap kali sunyi datang di depan orang banyak, harus sudah ada troli yang jatuh, ada shift yang berganti, ada cerita yang lebih menarik daripada kekosongan. Manusia tidak mencatat apa yang tidak sempat diperhatikannya." Ashvarok berdiri, dan kelelahan hari Forge kemarin menagih sisanya dari lututnya. "Itu bukan perlindungan. Itu penundaan. Namun penundaan adalah satu-satunya barang yang bisa kubeli dengan harga yang tidak membunuhku."
 
 "Berapa lama penundaan?"
 
@@ -91,7 +91,7 @@ Hening. Lampu berbunyi kecil.
 
 "Maka kita akan tahu berapa banyak orang yang mendengar apa yang tidak seharusnya didengar."
 
-Brannoc memandangnya lama, dan untuk pertama kalinya malam itu meletakkan akar pahitnya dari mulutnya. "Aku prajurit tua, Renn. Aku pernah lihat barisan pecah bukan karena musuh kuat, tapi karena kabar menyebar lebih cepat dari perintah. Kalau suatu hari separuh tambang mendengar sesuatu yang sama dan tidak ada yang bisa menjelaskannya—"
+Brannoc memandangnya lama, dan untuk pertama kalinya malam itu meletakkan akar pahitnya dari mulutnya. "Aku prajurit tua, Renn. Aku pernah lihat barisan pecah bukan karena musuh kuat, tetapi karena kabar menyebar lebih cepat dari perintah. Kalau suatu hari separuh tambang mendengar sesuatu yang sama dan tidak ada yang bisa menjelaskannya—"
 
 "Ia tidak akan menyanyi," kata Ashvarok.
 

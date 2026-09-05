@@ -23,7 +23,7 @@ Ashvarok membaca laporan itu dua kali, lalu tertawa — tawa yang membuat rapat 
 
 Jadwal dipercepat. Dan perubahan terpenting justru terjadi pada SIAPA yang mengerjakannya: untuk pertama kalinya, tim pelaksana pemulangan bukan tim inti Caldrest asli.
 
-Struktur barunya dirancang Sela dengan peta organisasi yang oleh Ashvarok disebut "pohon keluarga proyek": tim inti Caldrest berperan sebagai PEMBINA — tidak lagi melaksanakan, tapi mendampingi. Pelaksana lapangan adalah warga wilayah timur sendiri (yang sudah mengikuti latihan singkat name train via nat aula selama tiga pekan), diperkuat murid akademi bergiliran. Dan ketiganya siswa Sekolah Mendengar angkatan pertama ditugaskan sebagai PENGAMAT PENUH: ikut bekerja, boleh bertanya, tidak boleh memutuskan.
+Struktur barunya dirancang Sela dengan peta organisasi yang oleh Ashvarok disebut "pohon keluarga proyek": tim inti Caldrest berperan sebagai PEMBINA — tidak lagi melaksanakan, tetapi mendampingi. Pelaksana lapangan adalah warga wilayah timur sendiri (yang sudah mengikuti latihan singkat name train via nat aula selama tiga pekan), diperkuat murid akademi bergiliran. Dan ketiganya siswa Sekolah Mendengar angkatan pertama ditugaskan sebagai PENGAMAT PENUH: ikut bekerja, boleh bertanya, tidak boleh memutuskan.
 
 "Kalau metode ini hanya bisa dilakukan orang Caldrest," kata Sela saat menjelaskan, "maka tujuh belas wilayah akan butuh tujuh belas kali delapan bulan. Kalau metode ini bisa dipelajari — maka wilayah kedua belajar dari wilayah pertama, wilayah ketiga dari kedua, dan seterusnya. Itu satu-satunya cara menyelesaikan ini dalam hitungan tahun, bukan dekade."
 
@@ -47,13 +47,13 @@ Daven, bertugas mengkoordinasi logistik pos, membuat kesalahan hitung yang menye
 
 Ketika Sareth menegurnya ringan soal prosedur ("kalau tiap kesalahan ditanggung pribadi, birokrasi akan hanya milik orang kaya"), Daven menjawab dengan hal yang membuat rapat evaluasi berubah suasana:
 
-"Prosedur melindungi institusi dari orang. Tapi di lapangan saya belajar kebalikannya: di depan keluarga yang sudah nunggu delapan belas tahun, prosedur harus melindungi ORANG dari institusi. Kayu itu harus sampai hari itu juga. Maafnya harus bilang langsung." Ia berhenti sebentar. "Kalau itu melanggar buku panduan... mungkin buku panduannya yang harus direvisi."
+"Prosedur melindungi institusi dari orang. Namun di lapangan saya belajar kebalikannya: di depan keluarga yang sudah menunggu delapan belas tahun, prosedur harus melindungi ORANG dari institusi. Kayu itu harus sampai hari itu juga. Maafnya harus bilang langsung." Ia berhenti sebentar. "Kalau itu melanggar buku panduan... mungkin buku panduannya yang harus direvisi."
 
 Revisi buku panduan memang terjadi — pasal baru tentang "tanggung jawab personal dalam keadaan darurat pemulangan" ditulis oleh Daven sendiri dan disahkan tanpa amandemen.
 
 Pellia gagal dengan caranya: ia begitu tenggelam dalam irama nat timur yang baru bangun sehingga dua kali tidak hadir di jadwal koordinasi — ditemukan Barim di tepi lembah, duduk diam, mendengarkan gema-gema samara yang belum bisa bicara utuh. "Ada yang menangis di bawah sana," kata Pellia ketika ditemukan. "Bukan minta tolong. Hanya menangis karena akhirnya ada yang dengar."
 
-Barim tidak menegurnya. Ia duduk di sebelah Pellia dan ikut mendengar sampai senja — dan malamnya menulis catatan untuk arsip sekolah: "pelajaran penting untuk calon pendengar: kadang tugas pertama bukan melaporkan apa yang didengar, tapi MEMASTIKAN yang didengar tahu bahwa ia tidak sendirian. Laporan bisa menunggu. Kehadiran tidak."
+Barim tidak menegurnya. Ia duduk di sebelah Pellia dan ikut mendengar sampai senja — dan malamnya menulis catatan untuk arsip sekolah: "pelajaran penting untuk calon pendengar: kadang tugas pertama bukan melaporkan apa yang didengar, tetapi MEMASTIKAN yang didengar tahu bahwa ia tidak sendirian. Laporan bisa menunggu. Kehadiran tidak."
 
 Thessa gagal paling spektakuler: ia mencoba menerapkan sistem administrasi Spire pada daftar pos jemput timur (kode pos, formulir kunjungan keluarga, stempel) — dan sistem itu ditolak mentah-mentah oleh warga timur sendiri, yang berkata kalau "daftar tamu tidak pakai stempel; daftar tamu dipakai tulisan tangan supaya terasa seperti disambut". Thessa menerima penolakan itu, merapikan formulir-formulirnya ke tas kanvas segel jabatannya sendiri, lalu menggantinya dengan buku tamu tulisan tangan besar yang halaman-halamannya ia hias sendiri tiap malam.
 

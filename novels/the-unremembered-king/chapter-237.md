@@ -73,19 +73,19 @@ Lalu berkata kepada Kovan yang duduk sebelahnya:
 
 ---
 
-Kovan mencatatnya. Tapi Kovan juga — sifat lamanya sebagai penghitung yang teliti — mencatat sesuatu yang lain di margin neraca, dan keesokan paginya menunjukkannya kepada Ashvarok dengan ekspresi orang yang baru menemukan masalah besar:
+Kovan mencatatnya. Namun Kovan juga — sifat lamanya sebagai penghitung yang teliti — mencatat sesuatu yang lain di margin neraca, dan keesokan paginya menunjukkannya kepada Ashvarok dengan ekspresi orang yang baru menemukan masalah besar:
 
 "Raja. Angka wilayah dataran tengah tidak cocok."
 
 "Cocok apa maksudmu?"
 
-"Nat dataran menyimpan TIGA PULUH SEMBILAN jiwa. Itu angka pantun... eh, angka catatan keluarga mereka sendiri." Ia mengetuk margin neraca. "Tapi tadi malam, saat semua sudah naik dan saya hitung ulang lewat irama nat — ada irama sisa. Lembut, di latar belakang, seperti napas. Bukan dari tiga puluh sembilan jiwa itu."
+"Nat dataran menyimpan TIGA PULUH SEMBILAN jiwa. Itu angka pantun... eh, angka catatan keluarga mereka sendiri." Ia mengetuk margin neraca. "Namun tadi malam, saat semua sudah naik dan saya hitung ulang lewat irama nat — ada irama sisa. Lembut, di latar belakang, seperti napas. Bukan dari tiga puluh sembilan jiwa itu."
 
 Ashvarok membaca catatan Kovan dua kali.
 
 "Ada berapa?"
 
-"Hitung kasar saya: SEBELAS. Mungkin lebih. Jiwa-jiwa tanpa catatan keluarga, tanpa kain, tanpa pantun — mungkin pendatang, mungkin pengelana, siapa tahu. Mereka ada di nat dataran tapi tidak ada di daftar siapa pun."
+"Hitung kasar saya: SEBELAS. Mungkin lebih. Jiwa-jiwa tanpa catatan keluarga, tanpa kain, tanpa pantun — mungkin pendatang, mungkin pengelana, siapa tahu. Mereka ada di nat dataran tetapi tidak ada di daftar siapa pun."
 
 Ruangan rapat subuh itu hening.
 

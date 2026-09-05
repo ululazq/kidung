@@ -65,7 +65,7 @@ Malam itu, di barak, Ashvarok-Renn membuka buku anomali dan menulis satu baris d
 
 Ia menutup buku. Di luar, angin selatan masuk pelan, dan di barak utara bel kecil berdenting tiga detik — isyarat bahwa kurir balasan telah lewat jalan desa, membawa penolakan yang ditulis dengan tangan yang tidak gemetar. Benang itu masih hidup. Tetapi ujung yang memanen kini tahu bahwa ada suara di ujung lain yang hanya akan menjawab dengan irama, bukan dengan cerita.
 
-Dua hari kemudian, kain tenun tiba dari Thessa. Tulisan miringnya kali ini tidak terburu-buru, melainkan hati-hati, seolah ditulis di tempat sunyi:
+Dua hari kemudian, kain tenun tiba dari Thessa. Tulisan miringnya kali ini tidak terburu-buru — melainkan hati-hati — seolah ditulis di tempat sunyi:
 
 *Arsip merespons penolakan Mira dengan surat internal: mereka akan mengirim pemeriksa lapangan ke menara, bukan memanggilnya ke Spire. Paman Ossian membaca drafnya dan meninggalkan satu kalimat di meja ku: pemeriksa lapangan adalah cara mereka turun tanpa melewati panitia. Jaga agar Mira hanya tunduk pada prosedur Assayer, bukan pada orang yang datang membawa cap arsip.*
 
@@ -137,6 +137,6 @@ Sela menatapnya. "Kau ke menara?"
 
 "Mereka tidak kenal wajah ini di arsip. Aku bukan nama di kertas mereka. Itu keuntungan yang sama dengan barak: yang tidak tercatat tidak bisa dipanggil."
 
-Ia mengetuk tiga kali ke lantai, diam satu hentakan. Di luar, angin selatan bergerak pelan, membawa napas yang sama dengan yang Mira catat tiap subuh. Dan di ujung benang yang memanen, langkah pemeriksa lapangan makin dekat ke celah yang namanya baru mereka temukan — tanpa tahu bahwa di ambang menara itu kelak mereka akan bertemu bukan hanya seorang saksi, melainkan seorang penjaga irama yang tidak punya nama di atas kertas mana pun, dan yang tidak bisa dipanggil oleh siapa pun.
+Ia mengetuk tiga kali ke lantai, diam satu hentakan. Di luar, angin selatan bergerak pelan, membawa napas yang sama dengan yang Mira catat tiap subuh. Dan di ujung benang yang memanen, langkah pemeriksa lapangan makin dekat ke celah yang namanya baru mereka temukan — tanpa tahu bahwa di ambang menara itu kelak mereka akan bertemu bukan hanya seorang saksi — melainkan seorang penjaga irama yang tidak punya nama di atas kertas mana pun, dan yang tidak bisa dipanggil oleh siapa pun.
 
-Sela menulis baris terakhir di papan world-state barak di bawah catatan tiga simpul: *Pemeriksa lapangan akan datang ke menara. Ashvarok-Renn ke sana sebagai penjaga irama yang tak bernama. Dua suara, satu irama, tanpa cerita.* Ia meletakkan kapur di tepi papan. Di halaman, dua belas anak masih menghafal ketukan, suara mereka belum satu pun tercatat di arsip mana pun, dan itu adalah perlindungan yang tidak bisa dibeli dengan cap resmi.
+Sela menulis baris terakhir di papan world-state barak di bawah catatan tiga simpul: *Pemeriksa lapangan akan datang ke menara. Ashvarok-Renn ke sana sebagai penjaga irama yang tak bernama. Dua suara, satu irama, tanpa cerita.* Ia meletakkan kapur di tepi papan. Di halaman, dua belas anak masih menghafal ketukan, suara mereka belum satu pun tercatat di arsip mana pun — dan itu adalah perlindungan yang tidak bisa dibeli dengan cap resmi.

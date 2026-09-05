@@ -21,27 +21,27 @@ Sela menatap papan. "Kalau mereka berkelahi?"
 
 ---
 
-Di Karung, sengketa memang tidak berujung bacokan, tapi berujung kebingungan. Tiga hari pertama, penduduk mulai menghindar dari kedua pintu penyapa.
+Di Karung, sengketa memang tidak berujung bacokan, tetapi berujung kebingungan. Tiga hari pertama, penduduk mulai menghindar dari kedua pintu penyapa.
 
 "Dulu hanya satu orang yang menyapa," gerutu seorang petani di warung kecil. "Sekarang dua, dan mereka saling tunjuk. Aku malas keluar rumah."
 
-"Ibu suri di ujung selatan bilang lebih suka Dila karena tidak cerewet," bisik seorang ibu ke tetangganya. "Tapi bapak tua di utara bilang Yono lebih teratur. Kita jadi terbelah ikut penyapa."
+"Ibu suri di ujung selatan bilang lebih suka Dila karena tidak cerewet," bisik seorang ibu ke tetangganya. "Namun bapak tua di utara bilang Yono lebih teratur. Kita jadi terbelah ikut penyapa."
 
 Kebingungan itu nyaris mematikan kebiasaan menyapa di desa. Beberapa warga berhenti melapor kabar. Lorong desa sunyi lebih dari biasanya.
 
 Mak Sur, kepala desa, melihat itu. Ia tidak marah pada Yono dan Dila. Ia hanya mengundang keduanya ke balai malam itu.
 
-"Kalian berdua lulusan sama, tugas sama," kata Mak Sur. "Tapi cara beda. Penduduk bingung bukan karena kalian salah. Karena kalian tidak satu suara di depan mereka."
+"Kalian berdua lulusan sama, tugas sama," kata Mak Sur. "Namun cara beda. Penduduk bingung bukan karena kalian salah. Karena kalian tidak satu suara di depan mereka."
 
 "Kami tidak bisa satu suara kalau prinsip beda," kata Yono.
 
-"Kami berdua lulus kurikulum yang sama," tambah Dila. "Tapi guru kami berbeda. Yono dididik Pak Brannoc di sekolah tambang, aku dididik ibu Tamma di dapur. Cara mereka menyapa beda, jadi cara kami menyapa beda. Bukan salah. Cuma asal."
+"Kami berdua lulus kurikulum yang sama," tambah Dila. "Namun guru kami berbeda. Yono dididik Pak Brannoc di sekolah tambang, aku dididik ibu Tamma di dapur. Cara mereka menyapa beda, jadi cara kami menyapa beda. Bukan salah. Hanya asal."
 
-"Itu sebabnya sengketa ini bukan soal siapa benar," kata Mak Sur. "Tapi soal bisa tidaknya kalian bekerja berdampingan walau asal beda. Kalau tidak bisa, desa yang rugi."
+"Itu sebabnya sengketa ini bukan soal siapa benar," kata Mak Sur. "Namun soal bisa tidaknya kalian bekerja berdampingan walau asal beda. Kalau tidak bisa, desa yang rugi."
 
 "Maka musyawarahkan." Mak Sur duduk di kursi kayu balai. "Bukan kuputus. Kalian yang putus, dengan dengar penduduk dulu."
 
-Malam itu, desa Karung mengadakan musyawarah di balai. Bukan dihadiri hanya Yono dan Dila, tapi seluruh penduduk yang mau datang. Mak Sur membuka dengan aturan desa: siapa pun boleh bicara, satu per satu, tanpa dipotong.
+Malam itu, desa Karung mengadakan musyawarah di balai. Bukan dihadiri hanya Yono dan Dila, tetapi seluruh penduduk yang mau datang. Mak Sur membuka dengan aturan desa: siapa pun boleh bicara, satu per satu, tanpa dipotong.
 
 Seorang petani tua berdiri. "Aku lebih suka giliran tetap. Aku tidak mau tiap pagi harus pilih penyapa. Rumit."
 
@@ -97,11 +97,11 @@ Pagi itu, petani yang dulu gerutu di warung lewat pintu utara saat Yono menyapa.
 
 "Selamat pagi, Pak," kata Yono. "Kabar?"
 
-"Hanya capek," jawab petani itu, lalu tersenyum tipis. "Tapi senang tidak perlu pilih pintu mana yang benar."
+"Hanya capek," jawab petani itu, lalu tersenyum tipis. "Namun senang tidak perlu pilih pintu mana yang benar."
 
 Di ujung selatan, ibu muda yang dulu bisik-bisik lewat pintu Dila.
 
-"Anak batuk semalam," kata ibu itu. "Tapi sudah lewat."
+"Anak batuk semalam," kata ibu itu. "Namun sudah lewat."
 
 "Catat di buku desa," kata Dila. "Biar tetangga tahu."
 
@@ -111,7 +111,7 @@ Gella, yang lewat Karung dalam perjalanan pos, melihat dua penyapa bekerja berda
 
 "Dulu desa ini butuh satu penyapa dan satu keputusan dari barak," kata Gella pada Mak Sur. "Sekarang dua penyapa dan satu musyawarah. Lebih baik mana?"
 
-Mak Sur tersenyum. "Lebih ribet. Tapi lebih punya. Kalau Yono sakit, Dila jalan. Kalau Dila pindah, Yono jalan. Tidak ada satu titik gagal."
+Mak Sur tersenyum. "Lebih rumit. Namun lebih punya. Kalau Yono sakit, Dila jalan. Kalau Dila pindah, Yono jalan. Tidak ada satu titik gagal."
 
 "Itu yang disebut ketahanan," kata Gella. "Bukan dari raja yang menjaga. Dari desa yang belajar jaga diri."
 
@@ -121,9 +121,9 @@ Gella meneruskan laporan ke barak utara: *Karung selesai sendiri. Dua penyapa, s
 
 Mak Sur, beberapa hari kemudian, menulis surat pendek ke Sela di barak utara:
 
-*Kak, sengketa kami selesai tanpa kedatangan siapa pun dari kalian. Bukan karena kami tidak butuh. Karena kami tahu cara duduk di balai dan dengar satu sama lain. Itu pelajaran yang kalian tanam delapan belas tahun silam, tapi kami yang panen sekarang. Terima kasih tidak datang.*
+*Kak, sengketa kami selesai tanpa kedatangan siapa pun dari kalian. Bukan karena kami tidak butuh. Karena kami tahu cara duduk di balai dan dengar satu sama lain. Itu pelajaran yang kalian tanam delapan belas tahun silam, tetapi kami yang panen sekarang. Terima kasih tidak datang.*
 
-Dan di barak utara, Yang Dulu Sunyi mencatat satu detak: *sengketa selesai dari bawah.* Getar itu merambat ke seluruh nat Karvess, seolah batu-batu tua mencatat bahwa era seorang raja memutus segalanya telah diganti era desa memutus dirinya sendiri.
+Dan di barak utara, Yang Dulu Sunyi mencatat satu detak: *sengketa selesai dari bawah.* Getar itu merambat ke seluruh nat Karvess — seolah batu-batu tua mencatat bahwa era seorang raja memutus segalanya telah diganti era desa memutus dirinya sendiri.
 
 Ashvarok-Renn, malam itu, menutup buku kecilnya tanpa menulis apa-apa untuk Kasus Karung. Itu pertama kalinya ia biarkan sebuah sengketa tertulis selesai oleh orang lain, bukan olehnya. Dan itu, lebih dari perayaan apa pun, adalah tanda bahwa warisan benar-benar hidup.
 
@@ -153,4 +153,4 @@ Mak Sur membalas singkat: *Buku ini bukan aturan. Hanya cara kami. Tiap desa pun
 
 Buku kecil itu kini disimpan di rak balai Karung, di sebelah daftar nama penduduk. Bukan dokumen resmi. Hanya catatan bahwa suatu hari, dua pendengar muda berselisih, dan desa memilih duduk daripada memanggil raja.
 
-Yono, beberapa hari kemudian, menulis surat ke Brannoc di rumahnya di tepi lembah: *Pak, kami berselisih soal cara menyapa. Desa selesaikan sendiri lewat musyawarah. Pelajaran Pak di sekolah tambang tentang bekerja berdampingan ternyata berlaku di balai juga. Terima kasih sudah ajarkan bahwa beda cara bukan musuh.* Brannoc membalas: *Palu dan bilah beda bentuk, tapi sama-sama besi. Begitu juga kalian. Salam untuk Dila.*
+Yono, beberapa hari kemudian, menulis surat ke Brannoc di rumahnya di tepi lembah: *Pak, kami berselisih soal cara menyapa. Desa selesaikan sendiri lewat musyawarah. Pelajaran Pak di sekolah tambang tentang bekerja berdampingan ternyata berlaku di balai juga. Terima kasih sudah ajarkan bahwa beda cara bukan musuh.* Brannoc membalas: *Palu dan bilah beda bentuk, tetapi sama-sama besi. Begitu juga kalian. Salam untuk Dila.*

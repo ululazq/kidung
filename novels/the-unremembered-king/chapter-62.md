@@ -51,7 +51,7 @@ Di dasar timur, empat puluh langkah dan setengah dari ambang, retakan purba itu 
 
 Jadwal itu disusun malam yang sama, di gudang perkakas tingkat dua, di atas meja yang biasa dipakai menghitung kuota.
 
-Sampulnya sudah ada dan cantik — undian inspeksi ventilasi berkala, program resmi yang lahir dari kesepakatan lama dengan Tharrow dan masih berjalan atas nama keselamatan bekerja. Setiap pekan, satu regu memenangkan giliran turun memeriksa jalur udara — dan mulai pekan ini, setiap regu yang turun membawa satu tugas tambahan yang tidak tertulis di dokumen mana pun — menyentuh tepi dais dengan telapak tangan kosong selama sepuluh tarikan napas.
+Sampulnya sudah ada dan cantik — undian inspeksi ventilasi berkala, program resmi yang lahir dari kesepakatan lama dengan Tharrow dan masih berjalan atas nama keselamatan kerja. Setiap pekan, satu regu memenangkan giliran turun memeriksa jalur udara — dan mulai pekan ini, setiap regu yang turun membawa satu tugas tambahan yang tidak tertulis di dokumen mana pun — menyentuh tepi dais dengan telapak tangan kosong selama sepuluh tarikan napas.
 
 "Sentuh saja?" tanya Ondar, yang dipanggil paling akhir dan paling bingung. "Bukan periksa? Bukan ukur?"
 
@@ -63,11 +63,11 @@ Sampulnya sudah ada dan cantik — undian inspeksi ventilasi berkala, program re
 
 Mandor itu mengunyah akar pahitnya sekali, memikirkan posisinya sendiri di tengah struktur ini, dan mengangguk. "Dan kalau ada orang lain yang turun tanpa undian?"
 
-"Lisensi normal artinya kita tidak bisa melarang mereka masuk," kata Ashvarok. "Tapi tidak ada pasal yang melarang kita ikut masuk bersama mereka, tersesat sedikit, berisik, bertanya banyak, dan bekerja sangat lambat di lorong-lorong yang salah." Ia menatap Brannoc tegak. "Patroli bukan penjagaan. Patroli adalah kehadiran. Batu polos butuh saksi yang ramai."
+"Lisensi normal artinya kita tidak bisa melarang mereka masuk," kata Ashvarok. "Namun tidak ada pasal yang melarang kita ikut masuk bersama mereka, tersesat sedikit, berisik, bertanya banyak, dan bekerja sangat lambat di lorong-lorong yang salah." Ia menatap Brannoc tegak. "Patroli bukan penjagaan. Patroli adalah kehadiran. Batu polos butuh saksi yang ramai."
 
-Jadwal bergilir itu ditulis malam juga di selembar kertas karbon: empat regu ventilasi, empat giliran, nama-nama asli, tanggal-tanggal asli — kertas yang akan dibaca siapa pun yang menemukannya dan tetap kelihatan seperti apa adanya, program keselamatan bekerja yang rajin. Kertas kedua, dengan kode yang hanya dimengerti tiga orang, digantung di balik pintu gudang — garis pendek untuk malam-malam ketika dais harus disentuh ulang oleh tangan yang tahu cara menenun.
+Jadwal bergilir itu ditulis malam juga di selembar kertas karbon: empat regu ventilasi, empat giliran, nama-nama asli, tanggal-tanggal asli — kertas yang akan dibaca siapa pun yang menemukannya dan tetap kelihatan seperti apa adanya, program keselamatan kerja yang rajin. Kertas kedua, dengan kode yang hanya dimengerti tiga orang, digantung di balik pintu gudang — garis pendek untuk malam-malam ketika dais harus disentuh ulang oleh tangan yang tahu cara menenun.
 
-Brannoc membaca daftar giliran itu dua kali, lalu bertanya hal terakhir, pertanyaan yang sudah menunggu sejak ambang: "Kalau suatu malam ada yang masuk dan langsur berjalan lurus ke dais — bukan mengelilingi, bukan mengukur sana-sini, tapi lurus, seperti orang yang sudah tahu letaknya —"
+Brannoc membaca daftar giliran itu dua kali, lalu bertanya hal terakhir, pertanyaan yang sudah menunggu sejak ambang: "Kalau suatu malam ada yang masuk dan langsur berjalan lurus ke dais — bukan mengelilingi, bukan mengukur sana-sini, tetapi lurus, seperti orang yang sudah tahu letaknya —"
 
 "Maka orang itu bukan sedang memanfaatkan lisensi," kata Ashvarok. "Orang itu sedang melanjutkan pekerjaan lamanya. Laporkan kepadaku pada pagi harinya, jangan pernah pada malamnya, dan jangan ikuti dia ke dalam." Ia memadamkan lampu meja. "Yang satu itu tugasku."
 

@@ -3,7 +3,7 @@ title: "Bab 268: Badai Pra-Pembacaan"
 chapter: 268
 ---
 
-Yang datang lebih dulu dari malam pembacaan bukan tamu-tamunya, tapi kabarnya — dan kabar itu berjalan lebih cepat daripada kebijaksanaan siapa pun untuk mengikutinya.
+Yang datang lebih dulu dari malam pembacaan bukan tamu-tamunya, tetapi kabarnya — dan kabar itu berjalan lebih cepat daripada kebijaksanaan siapa pun untuk mengikutinya.
 
 Sebab lagu yang utuh tidak bisa diam selamanya. Seam saksi memainkannya sekali lagi pada pekan kedua, kali ini sengaja, sebagai latihan penyimpanan yang benar — dan iramanya merembes lewat tanah ke nat-nat lereng pegunungan, dari nat lereng ke nat kamp, dari nat kamp ke nat pasar, sampai akhirnya potongan-potongan lagu itu didengar di tujuh belas wilayah Karvess oleh telinga-telinga yang tidak pernah diminta bersiap mendengar apa pun.
 
@@ -58,7 +58,7 @@ Ibu Tamma mengaduk sebentar. Mengangkat sendok, meniup, mencicipi. Menambah gara
 "Maka pasal dapur yang lama tetap berlaku," katanya akhirnya. "Kalau ada yang masak sambil menangis, biarkan lambat. Kalau ada yang makan sambil menangis... duduki. Jangan bicara. Tambahkan sup. Itu pekerjaan kita."
 ---
 
-Dua hari sebelum malam pembacaan, satu tamu tak diundang tiba di Caldrest — bukan dengan kereta kafilah, bukan lewat jalur nat, tapi berjalan kaki dari arah barat, memakai jubah abu tanpa jahitan tin, membawa tongkat dan tidak membawa apa pun lainnya.
+Dua hari sebelum malam pembacaan, satu tamu tak diundang tiba di Caldrest — bukan dengan kereta kafilah, bukan lewat jalur nat, tetapi berjalan kaki dari arah barat, memakai jubah abu tanpa jahitan tin, membawa tongkat dan tidak membawa apa pun lainnya.
 
 Penjaga gerbang mengenalinya dari buku: Pembaca Tua.
 
@@ -105,7 +105,7 @@ Kalimat kepada malam. Kalimat dari akhir lagu utuh — kalimat yang disimpan sea
 
 Aula tidak menjawab selama lama.
 
-Ketika jawaban datang, ia datang bukan sebagai satu irama tapi sebagai tujuh — kedalaman dan keenam saudaranya yang lebih tua, semua penjaga malam Karvess, menjawab bersahutan dari kedalaman batuan, dalam bahasa masing-masing era, yang oleh nat-nat diterjemahkan bertingkat sampai tingkat paling modern, dan hasil terjemahan akhirnya hanya satu kalimat:
+Ketika jawaban datang, ia datang bukan sebagai satu irama tetapi sebagai tujuh — kedalaman dan keenam saudaranya yang lebih tua, semua penjaga malam Karvess, menjawab bersahutan dari kedalaman batuan, dalam bahasa masing-masing era, yang oleh nat-nat diterjemahkan bertingkat sampai tingkat paling modern, dan hasil terjemahan akhirnya hanya satu kalimat:
 
 *KAMI SUDAH MENUNGGU CERITA INI SEJAK SEBELUM ADA YANG BISA BERCERITA.*
 

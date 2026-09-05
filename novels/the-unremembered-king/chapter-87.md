@@ -15,7 +15,7 @@ Ashvarok mengangkat keranjangnya dan berjalan, tidak menoleh, menghitung langkah
 
 ---
 
-Komisi verifikasi dibuka sore harinya di ruang bekerja Maera, dengan segel lilin ungu di pintu dan tiga orang di dalam — Assayer Tull sebagai penyidik bidang, juru ukur komisi dari cabang tengah, dan satu pejabat balai kota yang tugasnya mendengar tanpa mencatat. Surat penarikan dukungan atas nama Ossian Vael telah tiba subuh ini — ditandatangani tanpa pasal yang bisa digugat, seperti janjinya, dan kata-katanya begitu bersih sehingga wali kota tidak punya pilihan lain kecuali membaca keras di hadapan pegawainya bahwa permohonan izin penutupan telah dicabut oleh pemohonnya sendiri.
+Komisi verifikasi dibuka sore harinya di ruang kerja Maera, dengan segel lilin ungu di pintu dan tiga orang di dalam — Assayer Tull sebagai penyidik bidang, juru ukur komisi dari cabang tengah, dan satu pejabat balai kota yang tugasnya mendengar tanpa mencatat. Surat penarikan dukungan atas nama Ossian Vael telah tiba subuh ini — ditandatangani tanpa pasal yang bisa digugat, seperti janjinya, dan kata-katanya begitu bersih sehingga wali kota tidak punya pilihan lain kecuali membaca keras di hadapan pegawainya bahwa permohonan izin penutupan telah dicabut oleh pemohonnya sendiri.
 
 Ashvarok tidak masuk ruangan itu. Tidak perlu. Yang masuk adalah matriks, dibawa dengan prosesi kecil oleh kepala keluarga tua galeri tujuh, didampingi Brannoc sebagai saksi komunitas dan dua Shift Guard yang ditugaskan mengantar barang warisan dengan wajah serius orang yang baru pertama kali diberi tahu bahwa barang warisan ada.
 
@@ -41,7 +41,7 @@ Ia menemukan Assayer itu sore harinya di belakang gudang pengangkutan, tempat ya
 
 Ashvarok menghitung mundur tanggal-tanggalnya dan mendapati bentuk sesuatu yang selama ini hanya ia duga — negosiasi itu sudah selesai sebelum stempelnya bahkan ditemukan keluarga tua itu. "Apa yang kamu bayar?"
 
-"Pertanyaan yang tidak akan aku jawab, dan kamu tahu itu." Mata Maera menghitung, seperti biasa, wajah orang yang sedang menimbang berapa banyak yang boleh jatuh ke meja lain. "Tapi karena kamu yang badannya membayar semua ini, kamu berhak pada satu hal yang pasti: arsip itu tidak menyebut nama aula, tidak menyebut penambalan, dan tidak menyebut kamu. Setengah kebenaran yang kujual tidak memuat siapa pun yang kusayangi."
+"Pertanyaan yang tidak akan aku jawab, dan kamu tahu itu." Mata Maera menghitung, seperti biasa, wajah orang yang sedang menimbang berapa banyak yang boleh jatuh ke meja lain. "Namun karena kamu yang badannya membayar semua ini, kamu berhak pada satu hal yang pasti: arsip itu tidak menyebut nama aula, tidak menyebut penambalan, dan tidak menyebut kamu. Setengah kebenaran yang kujual tidak memuat siapa pun yang kusayangi."
 
 Ashvarok diam sebentar pada kata itu, karena sekutunya baru saja mengucapkan sesuatu yang terlalu besar untuk dilewati dan terlalu rapuh untuk ditanyakan ulang. "Gencatan senjata," katanya akhirnya. "Sampai kapan?"
 
@@ -69,7 +69,7 @@ Dan ia melihat Hale. Wali kota itu turun dari tangga dengan tumpukan putusan yan
 
 "Lega dan malu. Orang macam itu bisa jadi musuh yang enak, atau sekutu yang memalukan. Kadang-kadang sama saja." Mandor tua itu mengunyah akar pahitnya, memandangi kerumunan. "Distrik bertahan, Renn. Kertasmu menang."
 
-Kertas saya, pikir Ashvarok. Tempaan saya. Sepuluh malam badan saya. Dan sejarah orang lain — itulah bagian yang tidak mau ia letakkan di mana pun di dalam hitungannya, tapi terus berdiri di sana seperti tunggul di lorong troli — keluarga tua galeri tujuh kini mewarisi kisah tentang leluhur penjaga yang tidak pernah ada, dan kisah itu akan dibacakan kepada anak cucu mereka, dan anak cucu mereka akan tumbuh memegang kebanggaan yang ia tempa di ruang tungku dengan harga lem tubuhnya sendiri. Empat ratus keluarga selamat karena sebuah kebohongan yang menua dengan sempurna.
+Kertas saya, pikir Ashvarok. Tempaan saya. Sepuluh malam badan saya. Dan sejarah orang lain — itulah bagian yang tidak mau ia letakkan di mana pun di dalam hitungannya, tetapi terus berdiri di sana seperti tunggul di lorong troli — keluarga tua galeri tujuh kini mewarisi kisah tentang leluhur penjaga yang tidak pernah ada, dan kisah itu akan dibacakan kepada anak cucu mereka, dan anak cucu mereka akan tumbuh memegang kebanggaan yang ia tempa di ruang tungku dengan harga lem tubuhnya sendiri. Empat ratus keluarga selamat karena sebuah kebohongan yang menua dengan sempurna.
 
 Ia sudah membakar namanya sendiri sekali untuk dunia, ribuan tahun silam, dan itu keputusan yang ia bayar sampai hari ini. Malam ini ia baru saja memalsukan sejarah orang lain untuk menyelamatkan mereka, dan ternyata tidak membuatnya merasa baik sama sekali — hanya membuatnya merasa dingin di tempat yang benar, seperti penyangga yang berhasil.
 

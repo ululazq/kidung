@@ -13,11 +13,11 @@ Ia ditulis dengan aksara miring khas anak-anak yang baru belajar menulis cepat, 
 
 *Kami punya pertanyaan yang tidak bisa dijawab guru kami. Guru kami bilang pertanyaan ini harus dikirim ke sumbernya.*
 
-*Di setiap cabang, murid-murid selalu bertanya soal raja abu-abu. Ceritanya ada di semua lagu nat: dulu ada raja jahat yang membakar dunia, dan dia dikalahkan pahlawan. Tapi nat-nat bilang lain. Nat tua kami pernah mendengar cerita dari nat lereng yang mendengar dari nat timur yang mendengar dari Yang Dulu Sunyi, dan versi nat berbunyi: "raja itu tidak jahat, raja itu sedih."*
+*Di setiap cabang, murid-murid selalu bertanya soal raja abu-abu. Ceritanya ada di semua lagu nat: dulu ada raja jahat yang membakar dunia, dan dia dikalahkan pahlawan. Namun nat-nat bilang lain. Nat tua kami pernah mendengar cerita dari nat lereng yang mendengar dari nat timur yang mendengar dari Yang Dulu Sunyi, dan versi nat berbunyi: "raja itu tidak jahat, raja itu sedih."*
 
 *Kami sudah memutuskan (dengan suara terbanyak) untuk percaya nat.*
 
-*Tapi kepercayaan butuh bahan. Kami minta: satu cerita asli tentang raja abu-abu, dari orang yang benar-benar tahu. Boleh panjang. Tolong jangan dipersingkat seperti buku sejarah.*
+*Namun kepercayaan butuh bahan. Kami minta: satu cerita asli tentang raja abu-abu, dari orang yang benar-benar tahu. Boleh panjang. Tolong jangan dipersingkat seperti buku sejarah.*
 
 *Dengan hormat, murid-murid Sekolah Mendengar cabang yang belum punya nama resmi karena kami masih sibuk belajar.*
 
@@ -39,7 +39,7 @@ Sela menerjemahkan isinya, lalu diam sebentar.
 
 Ashvarok-Renn tidak langsung menjawab. Di dalam tubuh bersama itu, Renn bergerak maju — dan kali ini Renn-lah yang bicara, suaranya yang muda naik lewat mulut yang sama:
 
-"Jawabannya iya. Tapi bukan aku yang menulisnya. Dan bukan Kak Ashvarok juga." Renn tersenyum kecil. "Cerita tentang raja abu-abu harus ditulis orang-orang yang mencintainya. Kalau ditulis dirinya sendiri, itu bukan cerita, itu pembelaan. Pembelaan tidak pernah bisa disimpan nat."
+"Jawabannya iya. Namun bukan aku yang menulisnya. Dan bukan Kak Ashvarok juga." Renn tersenyum kecil. "Cerita tentang raja abu-abu harus ditulis orang-orang yang mencintainya. Kalau ditulis dirinya sendiri, itu bukan cerita, itu pembelaan. Pembelaan tidak pernah bisa disimpan nat."
 
 Sela mencatat kalimat itu kata demi kata. Delapan belas tahun silam, gadis ini mulai belajar mendengarkan kalimat yang layak masuk arsip permanen, dan kalimat Renn hari ini masuk daftar sepuluh besar.
 
@@ -51,7 +51,7 @@ Sela mencatat kalimat itu kata demi kata. Delapan belas tahun silam, gadis ini m
 
 Malam itu, di Caldrest, rapat keluarga besar diadakan di dapur aula — tempat semua rapat penting kota ini sebenarnya selalu diadakan, meski undangan resminya menyebut tempat lain.
 
-Hadir: ibu Tamma, Brannoc, Ondar, Gella, Sareth Vayin, Kovan lewat jalur nat (suaranya kecil dan pecah tapi jelas), Lompa, Ulmek turun dari pegunungan untuk urusan bara, Ossian dengan dokumen resminya yang kali ini tidak dibuka sama sekali, dan Sela tetap hadir lewat nat — karena rapat keluarga tanpa Sela bukan rapat keluarga, hanya kumpulan orang bingung.
+Hadir: ibu Tamma, Brannoc, Ondar, Gella, Sareth Vayin, Kovan lewat jalur nat (suaranya kecil dan pecah tetapi jelas), Lompa, Ulmek turun dari pegunungan untuk urusan bara, Ossian dengan dokumen resminya yang kali ini tidak dibuka sama sekali, dan Sela tetap hadir lewat nat — karena rapat keluarga tanpa Sela bukan rapat keluarga, hanya kumpulan orang bingung.
 
 Agenda tunggal: surat anak-anak.
 
@@ -94,7 +94,7 @@ Di Caldrest, ibu Tamma menulis di balik kertas resep:
 
 *Jawabannya sedang dalam perjalanan pulang dari dataran tinggi. Sementara menunggu, kerjakan satu hal: tanyakan kepada nat-nat kalian tentang makanan. Apa yang dimakan para pahlawan sebelum pekerjaan besar. Apa yang dimasak saat orang-orang menunggu kabar. Kumpulkan jawabannya.*
 
-*Karena aku kenal raja abu-abu itu secara pribadi, dan aku bisa kasih tahu kalian satu hal yang pasti benar tanpa perlu arsip:*
+*Karena aku kenal raja abu-abu itu secara pribadi, dan aku bisa beri tahu kalian satu hal yang pasti benar tanpa perlu arsip:*
 
 *Dia selalu pulang kalau ada sup.*
 

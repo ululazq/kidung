@@ -5,19 +5,19 @@ chapter: 12
 
 Tungku kedua di ruang ventilasi punya celah bata di sisi timur yang menghisap angin lebih cepat dari yang seharusnya, dan siapa pun yang memperbaikinya akan mendapat pujian dari Quota Office serta tambahan pekerjaan tanpa upah. Tidak ada yang memperbaikinya. Caldrest punya cara sendiri untuk menghormati celah.
 
-Ashvarok berlutut di depan celah itu pada malam kelima belas, dengan perut penuh — tiga hari terakhir ia makan seperti orang bersiap berperang, karena memang iya — dan pola kedua Cinder sudah terbuka di kepalanya seperti pintu gudang tua.
+Ashvarok berlutut di depan celah itu pada malam kelima belas, dengan perut penuh — tiga hari terakhir ia makan seperti orang bersiap berperang, karena memang iya — dan pola kedua Cinder sudah terbuka di kepalanya seperti pintu gudang tua yang menunggu lama untuk dibuka.
 
-Pola pertama adalah nyala. Api sebesar kacang hijau, patuh, cukup untuk membakar benang atau menandai jalan. Pola kedua adalah tarikan. Bukan mengeluarkan panas, melainkan memindahkannya — dari satu tempat ke satu titik, melewati tubuh pembawa sebagai saluran. Dulu, seni ini dipakai untuk menarik panas dari tembok benteng yang terbakar dan melemparkannya kembali ke pengepung. Malam ini, tujuannya lebih sederhana. Membuktikan bahwa tubuh ini bisa menjadi pipa, bukan hanya lilin.
+Pola pertama adalah nyala. Api sebesar kacang hijau, patuh, cukup untuk membakar benang atau menandai jalan. Pola kedua adalah tarikan. Bukan mengeluarkan panas, melainkan memindahkannya — dari satu tempat ke satu titik, melewati tubuh pembawa sebagai saluran. Dahulu, seni ini dipakai untuk menarik panas dari tembok benteng yang terbakar dan melemparkannya kembali ke pengepung. Malam ini, tujuannya lebih sederhana. Membuktikan bahwa tubuh ini bisa menjadi pipa, bukan hanya lilin.
 
 Ia meletakkan satu telapak tangan pada celah bata dan satu telapak lagi di atas batu bata dingin di lantai. Sembilan simpul pertama menyala seperti biasa. Lalu dua belas jalur kedua terbuka satu per satu, dan panas mulai berjalan — masuk dari tungku, melewati lengannya, berputar di dada, turun melalui tulang punggung, keluar melalui telapak kedua ke batu dingin itu.
 
-Batu bata dingin berubah warna. Abu-abu menjadi abu hangat, hangat menjadi merah samar, dan dalam sepuluh detik ada lingkaran bara selepas piring di lantai ruang tungku yang tidak tersambung ke tungku mana pun.
+Batu bata dingin berubah warna. Abu-abu menjadi abu hangat, hangat menjadi merah samar, dan dalam sepuluh detik ada lingkaran bara selebar piring di lantai ruang tungku yang tidak tersambung ke tungku mana pun.
 
 Ashvarok menahan napas dan menghitung. Lima belas detik. Dua puluh. Panas itu mengalir dengan kestabilan yang membuatnya ingin tertawa — seribu tahun, dan seni ini masih bekerja seperti kuda tua yang mengenali jalannya sendiri.
 
 Ia menguji kontrolnya. Mengecilkan aliran sampai lingkaran itu menyusut menjadi cincin, membesarkan lagi sampai menyentuh tepi piring, lalu — bagian yang sebenarnya dia latih — memindahkan titik keluarnya dari telapak ke ujung jemari, membentuk lima nyala kecil yang berdiri seperti lilin altar. Pola kedua bukan senjata. Pola kedua adalah tangan kedua. Kemampuan memegang panas di satu tempat sambil bekerja dengan yang lain. Fondasi untuk semua pola besar setelahnya, dari pedang api sampai pintu Forge.
 
-Lalu harga datang, dan kali ia belajar bahwa harga pola kedua tidak datang dari arah yang sama.
+Lalu harga datang, dan kali ini ia belajar bahwa harga pola kedua tidak datang dari arah yang sama.
 
 Yang pertama terasa seperti lapar biasa. Yang kedua seperti seseorang menarik selimutnya di musim salju. Dingin naik dari dalam tulang, bukan dari kulit. Yang ketiga adalah suara — bunyi tipis, nyaris manis, dari lengan kanannya, seperti es di danau yang mulai menyerah.
 
@@ -33,7 +33,7 @@ Matematika yang ia susun di lantai itu sederhana dan buruk. Pola pertama memakan
 
 Dia menghitung mundur dari jumlah yang tidak diketahui, dan menemukan dirinya melakukan hal yang belum pernah dilakukan sepanjang karier sebagai raja: berhemat pada dirinya sendiri.
 
-Ada ironi yang layak dicatat di sini, dan Ashvarok mencatatnya, karena arsip adalah satu-satunya kemewahan yang tidak diminta bayaran. Dulu, tubuhnya adalah argumen. Orang-orang berperang untuk tubuh itu. Lima panglima mati membelinya waktu. Dan setiap potongan diri yang ia bakar untuk the Threshold dibayar dengan keyakinan bahwa sisanya akan cukup untuk segalanya yang penting. Sekarang tubuh yang dia pakai bukan miliknya, cadangannya bisa dihitung dengan benang dari jahitan kasur, dan setiap keputusan besar harus lolos lewat pertanyaan yang dulu tidak pernah muncul di rapat perang: apakah ini sepadan dengan satu hari makan?
+Ada ironi yang layak dicatat di sini, dan Ashvarok mencatatnya, karena arsip adalah satu-satunya kemewahan yang tidak diminta bayaran. Dahulu, tubuhnya adalah argumen. Orang-orang berperang untuk tubuh itu. Lima panglima mati membelinya waktu. Dan setiap potongan diri yang ia bakar untuk the Threshold dibayar dengan keyakinan bahwa sisanya akan cukup untuk segalanya yang penting. Sekarang tubuh yang dia pakai bukan miliknya, cadangannya bisa dihitung dengan benang dari jahitan kasur, dan setiap keputusan besar harus lolos lewat pertanyaan yang dulu tidak pernah muncul di rapat perang: apakah ini sepadan dengan satu hari makan?
 
 Raja-raja tidak pernah belajar harga. Mereka hanya belajar tagihan. Dan tagihan selalu dikirim kepada orang lain.
 
@@ -53,13 +53,13 @@ Ashvarok mempertimbangkan tiga versi kebohongan, menemukan semuanya rapuh di had
 
 Ia menarik lengan bajunya sampai siku. Di bawah lampu barak, garis pucat itu terlihat seperti akar yang salah tumbuh.
 
-"Vein-scar," kata Sela langsung. Dia sudah pernah lihat. Semua orang tambang pernah, pada ayah, pada paman, pada orang yang berhenti bisa bekerja dan berubah jadi penjaga gerobak. "Kamu nyulum tanpa izin."
+"Vein-scar," kata Sela langsung. Dia sudah pernah lihat. Semua orang tambang pernah, pada ayah, pada paman, pada orang yang berhenti bisa bekerja dan berubah jadi penjaga gerobak. "Kamu memakai vein tanpa izin."
 
 "Aku belajar alat baru. Alatnya minta bayaran."
 
 "Alat apa yang bayarnya badan orang?"
 
-"Alat yang satu-satunya yang bisa kupakai." Ashvarok menarik lengan bajunya turun, perlahan, supaya gesturnya terbaca sebagai keputusan, bukan penyembunyian. "Dengerin. Aku tidak akan berhenti. Tapi aku janji satu hal: aku catat. Tiap malam, ukuran garisnya. Kalau maju lebih dari—"
+"Alat yang satu-satunya yang bisa kupakai." Ashvarok menarik lengan bajunya turun, perlahan, supaya gesturnya terbaca sebagai keputusan, bukan penyembunyian. "Dengarkan. Aku tidak akan berhenti. Namun aku janji satu hal: aku catat. Tiap malam, ukuran garisnya. Kalau maju lebih dari—"
 
 "Lebih dari apa? Kamu bahkan tidak tahu batasnya."
 
@@ -71,15 +71,15 @@ Ashvarok memakai sunyi itu untuk menimbang sesuatu yang lebih berat daripada gar
 
 Dia tidak menyebut pemikiran itu pada siapa pun. Beberapa kebenaran terlalu besar untuk tubuh lima belas tahun; bahkan untuk wajah raja.
 
-Sela bangkit, mengambil papan tulis kecilnya, menghapus dua baris angka upah di pojok bawah — pojok yang ternyata sudah lama dicadangkan — dan memenulis dengan huruf besar agar terbaca di gelap: GARIS KANAN. Di bawahnya, tanggal hari ini dan ukuran yang dia ukur sendiri dengan benang dari jahitan kasurnya, dua jari di atas pergelangan.
+Sela bangkit, mengambil papan tulis kecilnya, menghapus dua baris angka upah di pojok bawah — pojok yang ternyata sudah lama dicadangkan — dan menulis dengan huruf besar agar terbaca di gelap: GARIS KANAN. Di bawahnya, tanggal hari ini dan ukuran yang dia ukur sendiri dengan benang dari jahitan kasurnya, dua jari di atas pergelangan.
 
-"Aturan pertama," katanya, tanpa menoleh. "Tiap malam kamu ukur, aku catat. Aturan kedua. Kalau garis nyentuh siku, kita cari dokter tambang, mau kamu mau tidak. Aturan ketiga—" sekarang dia menoleh, dan mata anak sebelas tahun itu sudah kembali ke suhu yang benar, "—kamu ceritain ke aku alat apa yang kau belajar. Tidak semua. Cukup bagian yang membuat kamu mikir kamu bisa ngalahin batas."
+"Aturan pertama," katanya, tanpa menoleh. "Tiap malam kamu ukur, aku catat. Aturan kedua. Kalau garis nyentuh siku, kita cari dokter tambang, mau kamu mau tidak. Aturan ketiga—" sekarang dia menoleh, dan mata anak sebelas tahun itu sudah kembali ke suhu yang benar, "—kamu ceritakan ke aku alat apa yang kau belajar. Tidak semua. Cukup bagian yang membuat kamu berpikir kamu bisa melampaui batas."
 
 "Kenapa harus itu?"
 
-"Karena orang yang mikir begitu biasanya sudah pernah ngalahin batas sekali," kata Sela, meniup lilin meja. "Dan orang yang pernah menang lawan aturan selalu lupa kalau tagihannya menyusul belakangan."
+"Karena orang yang berpikir begitu biasanya sudah pernah melampaui batas sekali," kata Sela, meniup lilin meja. "Dan orang yang pernah menang lawan aturan selalu lupa kalau tagihannya menyusul belakangan."
 
-Ashvarok berbaring menghadap tembok, lengan kanan diletakkan di atas selimut seperti barang yang sedang dipantau, dan di gelap ia mendengar Sela masih memenulis di papan tulisnya — bunyi kapur kecil, rajin, dua baris, tiga.
+Ashvarok berbaring menghadap tembok, lengan kanan diletakkan di atas selimut seperti barang yang sedang dipantau, dan di gelap ia mendengar Sela masih menulis di papan tulisnya — bunyi kapur kecil, rajin, dua baris, tiga.
 
 "Renn." Suara bocah itu datang setelah lama, dari kegelapan, sudah setengah tidur. "Gariskan namanya apa?"
 
@@ -89,6 +89,6 @@ Ashvarok berbaring menghadap tembok, lengan kanan diletakkan di atas selimut sep
 
 Ashvarok menatap tembok barak di kegelapan, dan untuk sesaat ia melihat sesuatu yang tidak pernah dilihat siapa pun. The Unremembered King memiliki satu-satunya arsip resmi tentang kematiannya sendiri, dan arsip itu ditulis dengan kapur bocah oleh anak sebelas tahun yang belum tahu siapa yang sedang dia catat.
 
-"Tulis 'Hourglass,'" katanya. "Namanya Hourglass."
+"Tulis 'Hourglass'," katanya. "Namanya Hourglass."
 
 Bunyi kapur dimulai lagi. Empat kata. Satu judul. Dan di bawah lampu jalan yang tidak pernah masuk ke barak ini, entri pertama dalam daftar kematian raja terakhir Hegemony resmi mempunyai nama.

@@ -5,7 +5,7 @@ chapter: 339
 
 Ossian tiba di selatan saat fajar ketujuh, ketika kabut masih menggantung di antara tujuh bukit rendah yang mengelilingi cekungan. The Hollow — itulah nama yang diberikan ibu Tamma pada tempat ini, dan untuk pertama kalinya Ossian mengerti mengapa. Tanah di tengah cekungan itu datar seperti piring, dan di pusatnya, sebuah batu bundar sebesar meja berdenyut pelan dalam irama yang tidak pernah ia dengar sebelumnya. Bukan detak jantung, bukan napas manusia. Irama yang lebih tua, lebih lambat, seperti pernapasan tanah yang tertidur.
 
-Ia bersembunyi di balik semak kering di lereng bukit timur dan mengamati. The Wanes telah menggali tiga bukit dalam sepekan terakhir, meninggalkan lubang-lubang bundar yang rapi seperti sarang tikus raksasa. Di bukit keempat, dua orang sedang bekerja, sekop mereka beradu dengan batu kapur yang pecah dalam kepingan tipis. Mereka mencari sesuatu yang mereka yakini terkubur — benda, tulang, peti — tapi yang mereka dapatkan hanyalah tanah yang tidak pernah menyimpan apa pun selain garam dan akar.
+Ia bersembunyi di balik semak kering di lereng bukit timur dan mengamati. The Wanes telah menggali tiga bukit dalam sepekan terakhir, meninggalkan lubang-lubang bundar yang rapi seperti sarang tikus raksasa. Di bukit keempat, dua orang sedang bekerja, sekop mereka beradu dengan batu kapur yang pecah dalam kepingan tipis. Mereka mencari sesuatu yang mereka yakini terkubur — benda, tulang, peti — tetapi yang mereka dapatkan hanyalah tanah yang tidak pernah menyimpan apa pun selain garam dan akar.
 
 Ossian membuka kain tenun dan menulis dengan cepat, huruf-hurufnya miring karena ia menulis di pangkuan sambil setengah membungkuk: *The Hollow = pangkal tujuh seam. Tujuh bukit mengelilingi tanah datar. Batu di tengah berdenyut tanpa napas — the Ground bukan orang, melainkan napas tanah yang tersimpan di tempat ini. The Wanes menggali bukit, percaya kunci terkubur. Mereka salah arah sejak awal.*
 
@@ -17,19 +17,19 @@ Di barak, Ashvarok-Renn menerima kain itu menjelang senja. Ia membacanya di hada
 
 "Tidak," kata Ashvarok-Renn. "Strategi kita tetap sama. Jaga di ambang, bukan kumpulkan. Bedanya, sekarang kita tahu apa yang kita jaga." Ia menunjuk ke peta. "Bukan orang, bukan benda. Napas yang tersimpan di tanah. Dan napas tanah tidak bisa dicabut dengan sekop."
 
-Gella mendekat, alisnya berkerut. "Tapi bila the Wanes menggali pangkal tanpa sengaja, mereka bisa merusak benang emas yang menghubungkan the Ground ke menara."
+Gella mendekat, alisnya berkerut. "Namun bila the Wanes menggali pangkal tanpa sengaja, mereka bisa merusak benang emas yang menghubungkan the Ground ke menara."
 
-"Maka kita kawal dari jauh," kata Ashvarok-Renn. "Bukan dengan kaki ke tengah, tapi dengan benang emas yang kita tarik dari menara ini. Ossian sudah di sana. Ia akan memastikan benang itu tidak putus."
+"Maka kita kawal dari jauh," kata Ashvarok-Renn. "Bukan dengan kaki ke tengah, tetapi dengan benang emas yang kita tarik dari menara ini. Ossian sudah di sana. Ia akan memastikan benang itu tidak putus."
 
 Kovan mencatat di peta: benang emas dari menara kini menyambung ke celah (the Gate, the Silence), ke barat daya (the Escape), ke timur (the Remnant), ke rawa (the Stillness), dan sebuah benang tipis ke selatan menuju the Hollow (the Ground). Lima benang hidup, satu menunggu dipastikan. Di atas meja, benang-benang itu bersinar pelan dalam cahaya lilin, seolah mereka adalah urat nadi dunia yang masih hidup.
 
 Mira mencatat di buku: *the Ground tersimpan di tanah the Hollow, bukan orang. The Wanes menggali bukit untuk mencari benda, padahal yang mereka kejar bukan benda. Kita mengawal pangkal via benang emas dari jauh. five of the Seven napas + 1 tanah di tangan. Satu lagi yang belum dipastikan aman.*
 
-Ossian di selatan menyaksikan the Wanes menggali bukit keempat, lalu pindah ke bukit kelima setelah tidak menemukan apa-apa. "Mereka yakin ada benda yang bisa digali dari tanah ini," bisiknya pada kain lain yang ia siapkan untuk laporan kedua. "Tapi the Ground Stone berdenyut tanpa napas. Yang mereka gali hanya tanah biasa, dan mereka tidak akan pernah menemukan apa pun di sana."
+Ossian di selatan menyaksikan the Wanes menggali bukit keempat, lalu pindah ke bukit kelima setelah tidak menemukan apa-apa. "Mereka yakin ada benda yang bisa digali dari tanah ini," bisiknya pada kain lain yang ia siapkan untuk laporan kedua. "Namun the Ground Stone berdenyut tanpa napas. Yang mereka gali hanya tanah biasa, dan mereka tidak akan pernah menemukan apa pun di sana."
 
-Sore itu, ia mendekati cekungan untuk pertama kalinya, merangkak di antara semak yang jarang. the Ground Stone berdenyut dalam radius tiga langkah darinya — irama yang sama dengan yang ia rasakan di peta barak, tapi lebih nyata, lebih dalam, seperti jantung yang berdetak di bawah tanah. Ia tidak menyentuhnya. Cukup melihat, cukup memastikan bahwa benang barak yang ia bawa di saku masih bergetar seirama dengan batu itu.
+Sore itu, ia mendekati cekungan untuk pertama kalinya, merangkak di antara semak yang jarang. the Ground Stone berdenyut dalam radius tiga langkah darinya — irama yang sama dengan yang ia rasakan di peta barak, tetapi lebih nyata, lebih dalam, seperti jantung yang berdetak di bawah tanah. Ia tidak menyentuhnya. Cukup melihat, cukup memastikan bahwa benang barak yang ia bawa di saku masih bergetar seirama dengan batu itu.
 
-Malam itu, Ossian duduk di lereng bukit timur, menatap the Ground Stone yang berdenyut dalam cahaya bulan. Iramanya tetap, tidak berubah sejak ia tiba. Ia membuka kain tenun ibunya, yang ia bawa sejak delapan belas tahun silam, dan meletakkannya di pangkuan. Huruf-huruf di kain itu sudah luntur dimakan usia, tapi satu baris masih terbaca: *Bila kunci tidak berbentuk orang, jangan cari di antara orang.* Ia menekuk kain itu, menyimpannya kembali di saku, dan untuk pertama kalinya dalam perjalanan ini ia membiarkan dirinya merasa bahwa ibunya benar — bahwa yang ia cari selama ini bukan di tengah perang, melainkan di tempat yang tidak pernah ia kunjungi.
+Malam itu, Ossian duduk di lereng bukit timur, menatap the Ground Stone yang berdenyut dalam cahaya bulan. Iramanya tetap, tidak berubah sejak ia tiba. Ia membuka kain tenun ibunya, yang ia bawa sejak delapan belas tahun silam, dan meletakkannya di pangkuan. Huruf-huruf di kain itu sudah luntur dimakan usia, tetapi satu baris masih terbaca: *Bila kunci tidak berbentuk orang, jangan cari di antara orang.* Ia menekuk kain itu, menyimpannya kembali di saku, dan untuk pertama kalinya dalam perjalanan ini ia membiarkan dirinya merasa bahwa ibunya benar — bahwa yang ia cari selama ini bukan di tengah perang, melainkan di tempat yang tidak pernah ia kunjungi.
 
 Di barak, Sela duduk di depan peta benang emas, menatap titik selatan yang baru saja menyala. "Benang itu berdenyut lebih cepat sejak Ossian dekat batu," katanya pada Kovan. "Apa artinya?"
 
@@ -37,7 +37,7 @@ Di barak, Sela duduk di depan peta benang emas, menatap titik selatan yang baru 
 
 "Dan bila itu terjadi?"
 
-"Kita kirim yang lain." Kovan menatap Sela. "Tapi aku harap itu tidak perlu."
+"Kita kirim yang lain." Kovan menatap Sela. "Namun aku harap itu tidak perlu."
 
 Ashvarok-Renn di menara menarik benang emas tipis ke selatan, menghubungkannya ke titik the Hollow di peta. "Kita menjaga tanahnya, bukan orangnya," katanya pada Gella. "Bila the Wanes mencabut sesuatu dari sana, benang emas ini akan tahu, dan kita kirim Ossian sebelum napas tanah putus."
 
@@ -45,7 +45,7 @@ Ashvarok-Renn di menara menarik benang emas tipis ke selatan, menghubungkannya k
 
 "Karena aku sudah mencobanya." Ashvarok-Renn menunjukkan seutas benang emas yang ujungnya melingkar di jarinya. "Saat Ossian tiba di lereng, benang ini berdenyut lebih cepat. Sekarang ia dekat batu, denyutnya sama dengan batu itu. Benang ini bukan penanda. Ia adalah perpanjangan dari apa yang dijaga."
 
-Di rawa utara, dua belas anak barak masih duduk di tepi danau, main kelereng bersama anak-anak desa. Murid Ossian di perahu melihat cap tujuh garis lewat, menghitung napas nelayan yang tidak tahu apa-apa. "Mereka makin terlatih," bisiknya pada papan kayu. "Tapi masih buta mencari yang hidup. Mereka mengukur orang, padahal kunci keempat tidur di pondok terapung."
+Di rawa utara, dua belas anak barak masih duduk di tepi danau, main kelereng bersama anak-anak desa. Murid Ossian di perahu melihat cap tujuh garis lewat, menghitung napas nelayan yang tidak tahu apa-apa. "Mereka makin terlatih," bisiknya pada papan kayu. "Namun masih buta mencari yang hidup. Mereka mengukur orang, padahal kunci keempat tidur di pondok terapung."
 
 The Wanes yang lebih muda berhenti di tepi cekungan sebelum meninggalkan the Hollow. Ia menatap the Ground Stone di tengah, lalu membuka buku catatan kasarnya. *Satu tempat di tengah yang tidak kami gali,* tulisnya. *Batu berdenyut tanpa napas. Mungkin kunci tidak pernah dikubur. Mungkin ia tidak pernah berbentuk benda.* Ia menutup buku sebelum the Keeper melihat. Sebuah keraguan mulai tumbuh di kepalanya, dan ia tidak tahu apakah keraguan itu akan membawanya pada kebenaran atau pada kesalahan yang lebih besar.
 
@@ -63,8 +63,8 @@ Brannoc melatih tiga anak angkatan keempat cara memukul papan: dua pendek satu p
 
 Di rawa, dua belas anak barak main seolah tidak terjadi apa-apa. Murid Ossian tersenyum di perahu. "Justru itu yang menyelamatkan the Stillness," bisiknya. "Mereka melihat anak main, bukan pagar di balik pohon."
 
-Di celah bawah, pengrajin lonceng memilin benang terakhir di jarinya. "Lonceng belum dibunyikan," bisiknya. "Tapi saat the Ground dipastikan aman, aku akan membunyikannya sekali — untuk menutup pintu, bukan untuk memanggil."
+Di celah bawah, pengrajin lonceng memilin benang terakhir di jarinya. "Lonceng belum dibunyikan," bisiknya. "Namun saat the Ground dipastikan aman, aku akan membunyikannya sekali — untuk menutup pintu, bukan untuk memanggil."
 
-Sebelum meninggalkan cekungan, Ossian melakukan satu hal terakhir. Ia mengambil batu kecil dari tepi the Hollow, membungkusnya dengan benang abu-abu dari saku, dan meletakkannya di sela-sela the Ground Stone yang berdenyut. Bukan untuk mengikat — ia tidak punya kemampuan mengikat apa pun — tapi untuk meninggalkan penanda. Bila ia kembali suatu hari dan batu kecil itu masih ada, berarti tidak ada tangan asing yang menyentuh pangkal sejak ia pergi. Bila batu itu hilang, barak akan tahu sebelum the Wanes sempat melangkah lebih jauh.
+Sebelum meninggalkan cekungan, Ossian melakukan satu hal terakhir. Ia mengambil batu kecil dari tepi the Hollow, membungkusnya dengan benang abu-abu dari saku, dan meletakkannya di sela-sela the Ground Stone yang berdenyut. Bukan untuk mengikat — ia tidak punya kemampuan mengikat apa pun — tetapi untuk meninggalkan penanda. Bila ia kembali suatu hari dan batu kecil itu masih ada, berarti tidak ada tangan asing yang menyentuh pangkal sejak ia pergi. Bila batu itu hilang, barak akan tahu sebelum the Wanes sempat melangkah lebih jauh.
 
 Ia menulis laporan terakhir di kain tenun: *Penanda ditinggalkan. Siapa pun yang menyentuh pangkal akan memindahkannya. Aku pulang dengan sepuluh fajar di depan.* Lalu ia membalikkan tubuhnya ke utara dan mulai berjalan, meninggalkan tujuh bukit yang mulai sunyi dan satu batu yang terus berdenyut tanpa pernah berhenti.

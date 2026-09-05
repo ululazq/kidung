@@ -11,7 +11,7 @@ Ia sendiri menonton kedatangan itu dari tepian lereng, dengan kesabaran orang me
 
 Kel Tharrow menyambutnya di tangga dengan busana resmi dan senyum yang disetrika. Dari jarak seratus hasta, Ashvarok bisa membaca pertemuan itu seperti membaca dua batu yang saling digesek. Masing-masing menguji kekerasan yang lain, dan masing-masing meninggalkan debu.
 
-"Field assayer," kata Vosk sore sebelumnya, ketika ia datang sendiri ke gudang Brannoc membawa bayaran klien kedua. Jarinya tidak dingin hari ini; dinginnya sudah dipindahkan ke nadanya. "Muda. Perempuan. Nama Tull. Datang buat survei kedalaman triwulanan, tapi dia bawa surat komisi yang aneh — aku tidak boleh tahu isinya, dan karena aku tidak boleh tahu, aku tahu." Ia melihat Ashvarok dengan mata penengah yang sedang menghitung risiko baru di pasarnya. "Technical reader saya jangan sampai ketemu pembaca bersertifikat dalam kondisi memalukan. Kamu paham maksudku."
+"Field assayer," kata Vosk sore sebelumnya, ketika ia datang sendiri ke gudang Brannoc membawa bayaran klien kedua. Jarinya tidak dingin hari ini; dinginnya sudah dipindahkan ke nadanya. "Muda. Perempuan. Nama Tull. Datang buat survei kedalaman triwulanan, tetapi dia bawa surat komisi yang aneh — aku tidak boleh tahu isinya, dan karena aku tidak boleh tahu, aku tahu." Ia melihat Ashvarok dengan mata penengah yang sedang menghitung risiko baru di pasarnya. "Technical reader saya jangan sampai bertemu pembaca bersertifikat dalam kondisi memalukan. Kamu paham maksudku."
 
 "Aku anak tungku yang merenung," kata Ashvarok. "Kita tidak akan bertemu."
 
@@ -27,11 +27,11 @@ Assayer itu meletakkan gelas lampu tanpa menoleh.
 
 "Semua orang di kota ini hanya sesuatu yang sedang pulang bekerja." Maera meletakkan gelas itu kembali persis pada posisi semula, diputar sampai arah yang sama. "Aku hitung malam ini: enam belas pedagang menjual umur palsu, tiga menjual asal-usul palsu, dan satu menjual jasa membaca retakan yang tidak terdaftar di mana pun. Yang terakhir paling menarik. Sayangnya dia tidak pernah saya temui."
 
-"Semoga cepat ketemu," kata Ashvarok. "Kalau dia tidak bahaya."
+"Semoga cepat bertemu," kata Ashvarok. "Kalau dia tidak bahaya."
 
 "Semua hal yang bisa dibayar selalu ada orang yang bilang bahaya." Assayer itu mengangkat kotak kayunya dan melangkah melewati dia, dan baunya adalah baunya lilin ungu dan tinta murah — "Selamat malam, anak tungku."
 
-Ashvarok berdiri di pasar yang sunyi cukup lama untuk menghitung ulang semua rencananya. Jalur Vosk sudah bocor ke telinga Guild dalam sebelas jam bekerja. Bukan karena Vosk bicara — penengah seperti itu tidak bicara, tetapi karena mata assayer menghitung apa yang dilihatnya di pasar, dan pasar Caldrest terlalu kecil untuk menyembunyikan arah uang.
+Ashvarok berdiri di pasar yang sunyi cukup lama untuk menghitung ulang semua rencananya. Jalur Vosk sudah bocor ke telinga Guild dalam sebelas jam kerja. Bukan karena Vosk bicara — penengah seperti itu tidak bicara, tetapi karena mata assayer menghitung apa yang dilihatnya di pasar, dan pasar Caldrest terlalu kecil untuk menyembunyikan arah uang.
 
 ---
 
@@ -49,7 +49,7 @@ Ashvarok dipanggil nomor sembilan.
 
 "Suaranya panjang, rendah, dari dinding timur. Seperti tarikan napas pelan. Lalu semua bunyi lain berhenti bersamaan."
 
-"Bersamaan," ulang Maera. Matanya berhenti menghitung sesaat, dan itu justru terasa lebih buruk. "Bukan berangsur? Suara lain biasanya mati beransur."
+"Bersamaan," ulang Maera. Matanya berhenti menghitung sesaat, dan itu justru terasa lebih buruk. "Bukan berangsur? Suara lain biasanya mati berangsur."
 
 "Ini langsung. Kakak lilin ditiup."
 
@@ -59,7 +59,7 @@ Maera mencatat. Di antara satu huruf dan huruf berikutnya, ia bertanya tanpa men
 
 Hening sebentar — dan Ashvarok menimbang tiga pintu dalam hening itu — bohong buta, jawab kabur, atau jawab benar dengan wajah bocah yang takut. Yang ketiga selalu termurah untuk dibeli.
 
-"Tiga detik," katanya. "Aku hitung waktu itu. Orang yang hampir mati suka ngitung."
+"Tiga detik," katanya. "Aku hitung waktu itu. Orang yang hampir mati suka menghitung."
 
 Pena itu berhenti sepenuhnya. Untuk beberapa detik, satu-satunya bunyi di ruangan adalah lampu cinder-glass yang berdenging tipis.
 
@@ -95,15 +95,15 @@ Di luar, menghadap lereng yang penuh debu, Sela menarik napasnya yang tertahan.
 
 "Hampir."
 
-"Kenapa tidak boleh? Dia orang yang ngitung. Dia bakal hargai—"
+"Kenapa tidak boleh? Dia orang yang menghitung. Dia bakal hargai—"
 
-"Sela." Ashvarok berjongkok sejajar matanya. "Orang yang menghitung adalah orang yang paling cepat sadar kalau ada angkanya yang tidak cocok. Jangan pernah kasih dia angka gratis."
+"Sela." Ashvarok berjongkok sejajar matanya. "Orang yang menghitung adalah orang yang paling cepat sadar kalau ada angkanya yang tidak cocok. Jangan pernah memberi dia angka gratis."
 
 Sela memandangi debu di sepatunya sendiri, dan rahang kecilnya maju mundur seperti sedang menimbang protes. Yang keluar akhirnya bukan protes.
 
 "Jadi dia bahaya?"
 
-"Dia akurat." Ashvarok bangkit, melihat kembali pintu ruang persimpangan tempat pena kecil itu masih bergerak. "Bahaya bisa ditebak arahnya. Akurat... dia bakal nemu apa yang dicarinya cepat atau lambat."
+"Dia akurat." Ashvarok bangkit, melihat kembali pintu ruang persimpangan tempat pena kecil itu masih bergerak. "Bahaya bisa ditebak arahnya. Akurat... dia bakal menemukan apa yang dicarinya cepat atau lambat."
 
 "Terus kita apa?"
 

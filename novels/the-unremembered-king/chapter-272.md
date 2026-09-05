@@ -7,7 +7,7 @@ Balasan untuk surat kurir yang tepat ditulis Sela dalam tiga draf. Draf pertama 
 
 *Kepada jabatan Pembaca Tua — individu yang datang ke Caldrest dengan jalan kaki dan pulang dengan jalan kaki.*
 
-*Aku bukan kurir yang kau tunggu. Aku yang menemukan kotak pajakmu. Tapi keluargaku mengajarkan satu hal tentang surat: yang penting bukan siapa yang membawa, tapi apakah isinya sampai.*
+*Aku bukan kurir yang kau tunggu. Aku yang menemukan kotak pajakmu. Namun keluargaku mengajarkan satu hal tentang surat: yang penting bukan siapa yang membawa, tetapi apakah isinya sampai.*
 
 *Jawabannya: sampai. Lagu utuh. Nada juru masaknya didengar seribu orang, dan suara dapur itu akhirnya disebut namanya sekali di aula — bukan nama aslinya, karena memang tidak tercatat; kami menyebutnya "suara keenam", dan semua orang tahu siapa maksudnya.*
 
@@ -55,7 +55,7 @@ Ruang arsip itu sunyi lama.
 
 Ia bangkit, mengambil gulungan-gulungan lain, dan meletakkannya seluruhnya di depan Sela.
 
-"Bawakan salinannya semua. Jabatan ini diam karena tidak boleh bicara. Tapi tidak ada pasal yang melarangnya menyalin."
+"Bawakan salinannya semua. Jabatan ini diam karena tidak boleh bicara. Namun tidak ada pasal yang melarangnya menyalin."
 ---
 
 Penyalinan berlangsung tiga hari.
@@ -64,7 +64,7 @@ Sela menyalin dengan tangan sendiri — aturan arsip yang tidak tertulis: salina
 
 "Kenapa biara?" tanya Sela di hari kedua. "Kau bisa bekerja di Spire. Arsip terbesar Karvess."
 
-"Karena Spire menyimpan arsip untuk dijawab," kata laki-laki tua itu. "Setiap dokumen di sana menunggu pembaca yang akan bertanya. Di sini, arsipku menunggu tanpa janji dijawab. Ada pekerjaan yang hanya bisa dilakukan orang yang sudah damai dengan kemungkinan bahwa dia tidak akan pernah didengar." Ia mengangguk ke arah gulungan-gulungan itu. "Empat generasi memilih jalan ini. Aku hanya generasi yang kebagian akhirnya."
+"Karena Spire menyimpan arsip untuk dijawab," kata laki-laki tua itu. "Setiap dokumen di sana menunggu pembaca yang akan bertanya. Di sini, arsipku menunggu tanpa janji dijawab. Ada pekerjaan yang hanya bisa dilakukan orang yang sudah damai dengan kemungkinan bahwa dia tidak akan pernah didengar." Ia mengangguk ke arah gulungan-gulungan itu. "Empat generasi memilih jalan ini. Aku hanya generasi yang mendapat bagian akhirnya."
 
 "Apa rasanya?"
 
@@ -108,7 +108,7 @@ Perbedaan nomor lima harus sampai ke Vhal-Duren secepatnya.
 Karena ada satu makhluk di dataran tinggi itu yang mendengar lima langkah turun ke gerbang pada jam kesembilan malam itu... dan selama sepuluh abad menyimpan irama langkah baliknya tanpa pernah mengerti kenapa — dan malam ini, akhirnya, ada yang bisa menjawab pertanyaan yang tidak pernah sempat ditanyakan.
 ---
 
-Ada satu malam lagi di biara barat yang tidak masuk laporan Sela ke Dewan — karena bukan urusan Dewan, tapi urusan keluarga, dan keluarga punya jalur arsipnya sendiri.
+Ada satu malam lagi di biara barat yang tidak masuk laporan Sela ke Dewan — karena bukan urusan Dewan, tetapi urusan keluarga, dan keluarga punya jalur arsipnya sendiri.
 
 Malam itu, setelah hari ketiga penyalinan selesai, Pembaca Tua mengundangnya ke menara arsip bagian atas — ruangan kecil dengan satu jendela menghadap barat, di mana seluruh dataran Karvess terbentang sampai garis laut.
 
@@ -116,11 +116,11 @@ Malam itu, setelah hari ketiga penyalinan selesai, Pembaca Tua mengundangnya ke 
 
 Di sudut ruangan ada kotak kayu kecil tanpa segel. Di dalamnya: dua belas gulungan mungil, masing-masing selebar jari.
 
-"Laporan tahunan jabatan ini kepada dirinya sendiri," kata Pembaca Tua. "Setiap pemegang jabatan menulis satu — bukan untuk arsip resmi, tapi untuk penerusnya, dibaca hanya saat serah terima. Empat generasi terakhir isinya sama: 'belum ditemukan, teruskan.'"
+"Laporan tahunan jabatan ini kepada dirinya sendiri," kata Pembaca Tua. "Setiap pemegang jabatan menulis satu — bukan untuk arsip resmi, tetapi untuk penerusnya, dibaca hanya saat serah terima. Empat generasi terakhir isinya sama: 'belum ditemukan, teruskan.'"
 
 Ia mengeluarkan gulungan terakhir — tulisannya sendiri, ditulis empat puluh tahun silam saat ia baru memegang jabatan:
 
-*Pada pemegang berikutnya: aku umur dua puluh tiga saat menulis ini dan percaya aku akan menemukan jawaban perbedaan nomor lima dalam sepuluh tahun. Aku salah. Tapi aku baru mengerti sesuatu yang tidak diajarkan siapa padaku: jabatan diam ini bukan pekerjaan mencari jawaban. Ini pekerjaan menjaga pertanyaannya supaya tidak hilang — karena jawaban bisa salah, jawaban bisa dipalsukan, tapi pertanyaan yang benar tidak pernah usang.*
+*Pada pemegang berikutnya: aku umur dua puluh tiga saat menulis ini dan percaya aku akan menemukan jawaban perbedaan nomor lima dalam sepuluh tahun. Aku salah. Namun aku baru mengerti sesuatu yang tidak diajarkan siapa padaku: jabatan diam ini bukan pekerjaan mencari jawaban. Ini pekerjaan menjaga pertanyaannya supaya tidak hilang — karena jawaban bisa salah, jawaban bisa dipalsukan, tetapi pertanyaan yang benar tidak pernah usang.*
 
 *Kotak kecil ini kutitipkan kepadamu. Isinya pertanyaan-pertanyaanku. Jangan dijawab. Diteruskan.*
 

@@ -5,7 +5,7 @@ chapter: 36
 
 Hari keempat puluh lima datang dengan dua kejadian yang tidak saling mengenal: lonceng shift pagi membunyikan dirinya seperti biasa, dan tim Assayers' Guild turun ke the Underfold untuk pertama kalinya. Ashvarok menyaksikan yang kedua dari kejauhan yang aman — dari galeri atas tingkat dua, di balik tumpukan balast, sambil pura-pura memeriksa penyangga yang tidak perlu ia periksa.
 
-Tujuh orang turun lewat persimpangan utama. Lima membawa peti instrumen; dua mengenakan jubah bekerja Guild dengan lengan digulung rapi. Mereka bekerja dengan cara yang membuatnya mengangguk dalam hati: setiap titik ukur dibaca dua kali, catatan dibacakan ulang oleh orang kedua, dan tidak ada satu pun dari mereka yang berdiri menghadap arah yang sama terlalu lama. Tim yang kompeten. Tim yang dilatih untuk tidak percaya pada satu pembacaan.
+Tujuh orang turun lewat persimpangan utama. Lima membawa peti instrumen; dua mengenakan jubah kerja Guild dengan lengan digulung rapi. Mereka bekerja dengan cara yang membuatnya mengangguk dalam hati: setiap titik ukur dibaca dua kali, catatan dibacakan ulang oleh orang kedua, dan tidak ada satu pun dari mereka yang berdiri menghadap arah yang sama terlalu lama. Tim yang kompeten. Tim yang dilatih untuk tidak percaya pada satu pembacaan.
 
 Mereka membaca galeri atas dan persimpangan utama — titik-titik yang ia dan Brannoc biarkan jujur. Data jujur diletakkan di tempat yang tak penting. Pada tengah hari, tim itu naik kembali dengan tubuh yang tenang, dan Ashvarok tahu tanpa perlu melihat lembarannya. Angka-angka atas akan masuk laporan sebagai normal, karena memang normal. Aula di bawah sana tidak tersentuh siapa pun hari ini.
 
@@ -25,7 +25,7 @@ Ashvarok menghitung detik dengan napasnya. Empat ratus. Enam ratus. Banjir manus
 
 Lalu ia melihatnya.
 
-Orang itu datang dari tangga cabang utara — arah yang tidak menghubungkan lorong mana pun dengan jam bekerja mana pun — dan berjalan melintasi stasiun dengan langkah yang tidak terburu-buru namun juga tidak sia-sia. Sedang, kurus, wajah biasa jenis yang tidak pernah diingat siapa pun. Bahkan pakaiannya biasa, bahkan cara ia menghindari troli biasa. Hanya satu hal yang tidak biasa: di tangan kirinya ada kantong kulit kecil, dan kantong itu tidak pernah bergoyang mengikuti langkah. Orang yang membawa kantong kosong melangkah begitu. Kantong berisi logam tidak.
+Orang itu datang dari tangga cabang utara — arah yang tidak menghubungkan lorong mana pun dengan jam kerja mana pun — dan berjalan melintasi stasiun dengan langkah yang tidak terburu-buru namun juga tidak sia-sia. Sedang, kurus, wajah biasa jenis yang tidak pernah diingat siapa pun. Bahkan pakaiannya biasa, bahkan cara ia menghindari troli biasa. Hanya satu hal yang tidak biasa: di tangan kirinya ada kantong kulit kecil, dan kantong itu tidak pernah bergoyang mengikuti langkah. Orang yang membawa kantong kosong melangkah begitu. Kantong berisi logam tidak.
 
 Empat malam silam kurir itu terakhir terlihat, kata panener. Dan malam ini, tepat beberapa jam setelah kabar tanggal bohong sempat beredar di kedalaman, ia berdiri di stasiun angkut di luar jadwalnya sendiri.
 
@@ -89,7 +89,7 @@ Satu anggukan, kecil, hati-hati.
 
 Ashvarok memikirkan bangunan itu dengan lampu yang menyala di satu jendela. Tempat utang bernapas. Tempat seragam tidak pernah kerut. Sebuah operasi panen yang berjalan berbulan-bulan tidak bisa berjalan melewati kota ini tanpa membayar diamnya kota ini — dan tidak ada yang lebih murah daripada membeli diam di loket yang sudah berdiri, dengan buku yang sudah rapi, di bawah orang yang sudah terbiasa menerima amplop tanpa bertanya isi kolomnya.
 
-Kel Tharrow. Atau orang-orang di bawahnya. Atau keduanya. Jejaknya tidak penting malam ini. Yang penting, rantai bayarannya terbaca dari ujung ke ujung: pelanggan berjubah, lilin threaded with tin, kurir tanpa suara, loket yang membosankan. Setiap mata rantai menjual satu hal yang sama: ketidaktahuan yang terorganisir.
+Kel Tharrow. Atau orang-orang di bawahnya. Atau keduanya. Jejaknya tidak penting malam ini. Yang penting, rantai bayarannya terbaca dari ujung ke ujung: pelanggan berjubah, lilin bertanda tin thread, kurir tanpa suara, loket yang membosankan. Setiap mata rantai menjual satu hal yang sama: ketidaktahuan yang terorganisir.
 
 "Lepaskan dia," kata Ashvarok.
 

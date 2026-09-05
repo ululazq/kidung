@@ -9,7 +9,7 @@ Surat pertama pendek, ditujukan kepada Overseer the Quiet Vein, hanya memberitah
 
 Ia mengeringkan tinta dengan pasir halus, lalu membaca ulang paragraf inti surat kedua itu, karena kata-kata adalah mata uang yang tidak boleh dicetak berlebihan:
 
-"Menimbang kebutuhan pemetaan menyeluruh atas anomali L9B, Koordinasi Artefak Regional membuka kontrak survei bersertifikat kepada tim Assayers berlisensi penuh. Imbalan tidak diberikan dalam bentuk pembayaran segar. Imbalan berupa akses klasifikasi penuh ke arsip regional selama masa kontrak, termasuk klasifikasi artefak tingkat tinggi yang dinilai tim tersebut, serta satu pencalonan kursi pada komisi penilaian besar berikutnya bagi kepala tim yang menghasilkan peta lolos audit."
+> Menimbang kebutuhan pemetaan menyeluruh atas anomali L9B, Koordinasi Artefak Regional membuka kontrak survei bersertifikat kepada tim Assayers berlisensi penuh. Imbalan tidak diberikan dalam bentuk pembayaran segar. Imbalan berupa akses klasifikasi penuh ke arsip regional selama masa kontrak, termasuk klasifikasi artefak tingkat tinggi yang dinilai tim tersebut, serta satu pencalonan kursi pada komisi penilaian besar berikutnya bagi kepala tim yang menghasilkan peta lolos audit.
 
 Ia membacanya sekali lagi dan menemukannya cukup jujur. Uang segar bisa dilacak, dikenai pajak, dan yang lebih buruk — bisa dibandingkan. Akses klasifikasi tidak bisa dihargai siapa pun, karena nilainya bergantung pada siapa yang belum memilikinya, dan setiap Assayer yang pernah tersandung satu klasifikasi tertutup tahu betapa dinginnya berdiri di depan pintu itu. Bertahun-tahun menilai barang di pasar pinggiran membuat seorang Assayer lapar bukan pada shardmark, melainkan pada deret huruf yang dilarang dibacanya. Ossian sudah lama belajar bahwa profesi apa pun menyimpan satu pintu yang diketuk pemiliknya setiap malam sebelum tidur, dan harga seseorang adalah nama pintu itu.
 
@@ -19,7 +19,7 @@ Syarat terakhir tidak diperlukan. Itu sebabnya wajib ada.
 
 ---
 
-Balasan pertama tiba subuh hari ketiga puluh tujuh, dibawa kurir cepat yang kudanya mati kelelahan di halaman penginapan distrik atas. Ossian membuka segel itu di ruang tamu meja bular, di tengah aroma teh hitam murah dan gemuruh rendah cerobong. Tulisannya rapi, angkanya presisi — tanda tangan kepala biro penilaian lapangan.
+Balasan pertama tiba subuh hari ketiga puluh tujuh, dibawa kurir cepat yang kudanya mati kelelahan di halaman penginapan distrik atas. Ossian membuka segel itu di ruang tamu meja bundar, di tengah aroma teh hitam murah dan gemuruh rendah cerobong. Tulisannya rapi, angkanya presisi — tanda tangan kepala biro penilaian lapangan.
 
 Guild menerima dengan satu revisi. Tim akan beranggotakan enam orang: satu Assayer senior sebagai kepala tim, dua pembaca pola bersertifikat, satu juru ukur kedalaman, satu juru arsip lapangan, dan satu pembawa standar gema. Revisinya terletak pada pasal imbalan: akses klasifikasi diminta diperluas hingga mencakup arsip era pra-Liberation milik Choir, "demi pembandingan historis".
 
@@ -93,7 +93,7 @@ Di ambang pintu Kovan berhenti. "Tuan Vael. Bila faktor itu... bukan orang biasa
 
 ---
 
-Malam harinya ia duduk sendirian di ruang tamu meja bular, dengan hujan abu yang turun kembali menggesek atap penginapan seperti telapak kering mengusap kertas, dan menyelesaikan pekerjaan yang mengubah bentuk seluruh bulan depan.
+Malam harinya ia duduk sendirian di ruang tamu meja bundar, dengan hujan abu yang turun kembali menggesek atap penginapan seperti telapak kering mengusap kertas, dan menyelesaikan pekerjaan yang mengubah bentuk seluruh bulan depan.
 
 Dua belas titik ukur dituliskannya satu per satu pada lembar jadwal final: kedalaman galeri atas, persimpangan utama, lorong B, dan sembilan titik lain naik-turun mengikuti peta survei pertama — termasuk titik ketujuh, enam puluh hasta di bawah batas pemetaan, yang dalam laporan Assayer Tull dahulu tertulis dengan tinta lebih tebal daripada titik mana pun. Turun perdana ditetapkan: hari keempat puluh lima, regu pertama, tim Assayers dari Anthema Spire bersertifikat penuh, dikawal personel Koordinasi Artefak Regional. Lembar itu disegelnya dengan lilin tin thread, stempel ditekan dengan telapak yang tenang.
 

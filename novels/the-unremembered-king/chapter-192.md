@@ -13,17 +13,17 @@ Dan untuk pertama kalinya dalam delapan belas tahun, jawaban yang datang bukan "
 
 "Tovik," kata the Hollowed tua itu. Nama lengkapnya sendiri. Dari mulutnya sendiri. Tanpa dibimbing, tanpa ditanya, tanpa dipanggil dulu. "Tovik... penjaga galeri sembilan." Ia memandang tangannya sendiri, lalu kerumunan, lalu ibu Tamma yang sudah menutup mulut dengan kedua tangan. "Ada."
 
-Barak meledak — bukan tawa, bukan tangis, tapi keduanya sekaligus dan tepuk tangan dan name train spontan dan Ondar memeluk lelaki tua itu sampai hampir jatuh dan ibu Tamma akhirnya mengakui air matanya di depan umum untuk kedua kalinya dalam satu tahun.
+Barak meledak — bukan tawa, bukan tangis, tetapi keduanya sekaligus dan tepuk tangan dan name train spontan dan Ondar memeluk lelaki tua itu sampai hampir jatuh dan ibu Tamma akhirnya mengakui air matanya di depan umum untuk kedua kalinya dalam satu tahun.
 
 Ketika semuanya mereda, Tovik masih berdiri di tengah panggung dapur dengan nama miliknya di mulutnya sendiri, dan berkata kalimat yang membuat Ashvarok menulisnya di Hourglass kata demi kata:
 
-"Aku tadi malam mimpi. Pertama kali. Di mimpi itu aku jaga galeri sembilan, dan nat-natnya nyanyi laguku balik. Terus ada yang bilang dari bawah: 'Namamu aman di sini. Kamu bisa ambil kapan kamu siap.'" Ia memandang Ashvarok. "Aku rasa aku siap, Renn. Atau... Tuan Raja. Atau apa pun namamu yang benar."
+"Aku tadi malam mimpi. Pertama kali. Di mimpi itu aku jaga galeri sembilan, dan nat-natnya menyanyi laguku balik. Terus ada yang bilang dari bawah: 'Namamu aman di sini. Kamu bisa ambil kapan kamu siap.'" Ia memandang Ashvarok. "Aku rasa aku siap, Renn. Atau... Tuan Raja. Atau apa pun namamu yang benar."
 
 "Renn saja," kata Ashvarok. "Untuk sekarang."
 
 ---
 
-Pemulihan Tovik berjalan seperti musim: tidak bisa dipercepat, tapi pasti arahnya.
+Pemulihan Tovik berjalan seperti musim: tidak bisa dipercepat, tetapi pasti arahnya.
 
 Dalam sebulan, ia mengingat semua wajah barak. Dalam dua bulan, kebiasaan lamanya kembali — cara melipat kain, urutan menyiram lantai, jadwal tanaman klinik yang delapan belas tahun dirawatnya "karena rasanya penting" tanpa tahu sebabnya. (Tanaman itu miliknya. Tanamannya ditanamnya jauh sebelum namanya hilang. Delapan belas tahun, tangan-tangannya merawat apa yang tak ingatannya lagi.)
 
@@ -53,7 +53,7 @@ Dalam tiga bulan, dokter tambang — yang kini datang tiap sesi jam penjaga mala
 Resep itu disalin ke Registri Mimpi, dikirim ke Spire lewat jalur resmi Ossian, dibacakan di Dewan Regional oleh Maera atas permintaan komisi — dan respons Spire mengejutkan semua orang: bukan skeptisisme yang ditakutkan, melainkan PERMINTAAN.
 Tiga kota lain di Karvess memiliki the Hollowed. Semua selama ini diasumsikan tidak bisa pulih. Dewan meminta Caldrest mengirim "konsultan pemulihan" — dan satu-satunya kandidat yang disetujui semua pihak adalah orang yang delapan bulan lalu berjalan sendirian ke kedalaman tanpa nama:
 Tovik.
-"Aku?" Tovik mendengar kabar itu dari mulut Sela, dengan wajah yang tidak percaya. "Aku tidak sekolah tinggi-tinggi. Aku hanya penjaga galeri yang sempat hilang." Jeda lelaki tua itu. "Terus..." sesuatu berubah di wajahnya, "...terus aku satu-satunya yang pernah balik dari sana sambil bawa nama sendiri." Ia memandang sapu bersandar di sudut. "Ya sudah. Tapi syaraku satu: semua kunjungan harus lewat dapur dulu. Orang sakit itu jangan diserang teori. Diserang bubur dulu."
+"Aku?" Tovik mendengar kabar itu dari mulut Sela, dengan wajah yang tidak percaya. "Aku tidak sekolah tinggi-tinggi. Aku hanya penjaga galeri yang sempat hilang." Jeda lelaki tua itu. "Terus..." sesuatu berubah di wajahnya, "...terus aku satu-satunya yang pernah balik dari sana sambil bawa nama sendiri." Ia memandang sapu bersandar di sudut. "Ya sudah. Namun syaraku satu: semua kunjungan harus lewat dapur dulu. Orang sakit itu jangan diserang teori. Diserang bubur dulu."
 
 ---
 
@@ -64,7 +64,7 @@ Tovik menjawab: "Lima puluh. Aku juga pernah kehilangan hitungan. Nanti kita hit
 ---
 
 Laporan Tovik kepada akademi setelah kunjungan itu ditulisnya sendiri — huruf besar-besar tangan penjaga malam — dan menjadi dokumen kurikulum tingkat tiga yang paling banyak disalin:
-"CATATAN TOVIK: ORANG YANG HILANG NAMA ITU NGGAK BUTUH DIAJARI BANYAK HAL. MEREKA CUMA BUTUH ORANG YANG SABAR NGHITUNG ULANG DARI AWAL. JANGAN BAWA TEORI. BAWA KESABARAN DAN HITUNGAN. SISANYA DIA YANG KERJAIN SENDIRI."
+"CATATAN TOVIK: ORANG YANG HILANG NAMA ITU TIDAK BUTUH DIAJARI BANYAK HAL. MEREKA HANYA BUTUH ORANG YANG SABAR MENGHITUNG ULANG DARI AWAL. JANGAN BAWA TEORI. BAWA KESABARAN DAN HITUNGAN. SISANYA DIA YANG KERJAIN SENDIRI."
 
 Di bawah catatan itu, Sela menambahkan terjemahan bebasnya untuk keluarga Caldrest: "Artinya: mereka butuh teman, bukan dokter."
 
@@ -72,7 +72,7 @@ Di bawah catatan itu, Sela menambahkan terjemahan bebasnya untuk keluarga Caldre
 
 Dan peristiwa penutup bab — yang terjadi di jam penjaga malam sesi kedua puluh satu: untuk pertama kalinya, Tovik yang memimpin pembacaan empat potongan cerita, bukan Sela.
 Ia membacanya dengan suara pelan dan jeda-jeda panjang milik orang yang tahu bagaimana rasanya berada di dalam cerita. Ketika sampai pada potongan tentang dirinya sendiri ("Tovik selalu menjawab ada untuk semua gerbong"), ia berhenti, memandang barak penuh itu, dan berkata:
-"Dulu aku jawab ada karena dengan suara anak kecil dari bawah juga jawab ada. Aku pikir dia saingan bekerja." Barak tertawa. "Belakangan aku tau: dia hanya ikut senang ada yang menyebut nama." Ia menatap lantai kayu yang menghadap tambang. "Sekarang kita bertiga jawab bareng. Aku, dia, dan semua kalian."
+"Dulu aku jawab ada karena dengan suara anak kecil dari bawah juga jawab ada. Aku pikir dia saingan bekerja." Barak tertawa. "Belakangan aku tahu: dia hanya ikut senang ada yang menyebut nama." Ia menatap lantai kayu yang menghadap tambang. "Sekarang kita bertiga jawab bareng. Aku, dia, dan semua kalian."
 
 ---
 
@@ -98,7 +98,7 @@ Jawabannya: karena aku pernah menulis nama orang di kolom hilang... lalu bisa me
 
 ---
 
-Dan satu adegan terakhir untuk memenuhi neraca bab dengan benar — bukan pengisi, tapi penutup: keesokan paginya, murid-murid akademi tingkat satu menemukan tanaman klinik Tovik mendapat pot baru. Semua pot lama penuh akar delapan belas tahun. Harn yang menyangga potnya sambil berkomentar kepada kelas:
+Dan satu adegan terakhir untuk memenuhi neraca bab dengan benar — bukan pengisi, tetapi penutup: keesokan paginya, murid-murid akademi tingkat satu menemukan tanaman klinik Tovik mendapat pot baru. Semua pot lama penuh akar delapan belas tahun. Harn yang menyangga potnya sambil berkomentar kepada kelas:
 "Guru bilang ini metafora. Aku bilang ini hanya tanaman butuh tempat lebih besar." Ia menepuk tanahnya rata. "Dua-duanya benar sepertinya."
 
 Ketua majelis Dewan pernah membaca catatan teh itu saat berkunjung dan diam lama di satu halaman. Ketika ditanya, ia menjawab: "di sini tertulis tanggal aku pertama minum di dapur ini. Itu hari pertama aku merasa jadi tetangga, bukan pejabat."

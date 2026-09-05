@@ -54,14 +54,14 @@ Reaksi kedalaman terhadap cerita palsu itu menjadi pelajaran tersendiri: ketika 
 ---
 
 Bulan ketiga membawa cerita dari sumber yang paling tidak terduga: the Hollowed lain.
-Selain Barim dan Tovik, ada tiga the Hollowed ringan di distrik pinggiran — jiwa yang setengah hilang, yang tidak bisa bicara tapi masih berjalan dan bekerja dengan pengawasan keluarga. Salah satunya, seorang perempuan tua bernama Wida, selama bertahun-tahun setiap malam purnama berdiri menghadap sumur klinik tanpa alasan yang diketahui siapa pun — termasuk dirinya sendiri.
+Selain Barim dan Tovik, ada tiga the Hollowed ringan di distrik pinggiran — jiwa yang setengah hilang, yang tidak bisa bicara tetapi masih berjalan dan bekerja dengan pengawasan keluarga. Salah satunya, seorang perempuan tua bernama Wida, selama bertahun-tahun setiap malam purnama berdiri menghadap sumur klinik tanpa alasan yang diketahui siapa pun — termasuk dirinya sendiri.
 
 Cerita yang masuk kotak itu ditulis keponakan Wida: "Tante selalu bilang satu kata tiap purnama: tunggu. Kami pikir itu sisa ingatan rusak." Jeda penulisnya. "Sekarang saya tahu: tante sedang menyapa temannya di bawah sana. Dan temannya menjawab tunggu — artinya tunggu, dia akan pulang."
 
 ---
 
-Kasus Wida membuka program yang tidak direncanakan: PEMERIKSAAN the Hollowed ringan seluruh kota — bukan untuk mengobati (belum bisa), tapi untuk mencatat pola. Hasil tiga pekan pemeriksaan oleh dokter tambang dan pengikat senior menghasilkan temuan yang membuat Ashvarok menulis di Hourglass dengan huruf tebal:
-HARI 368. TEMUAN: dari lima the Hollowed Caldrest, SEMUANYA punya ritual berulang tanpa sadar — Wida menyapa sumur, dua lainnya selalu memutar ke arah aula sebelum tidur, satu tidak pernah mau tinggal di ruangan tanpa nat. Tubuh mereka lupa nama tapi TIDAK PERNAH lupa arah rumah.
+Kasus Wida membuka program yang tidak direncanakan: PEMERIKSAAN the Hollowed ringan seluruh kota — bukan untuk mengobati (belum bisa), tetapi untuk mencatat pola. Hasil tiga pekan pemeriksaan oleh dokter tambang dan pengikat senior menghasilkan temuan yang membuat Ashvarok menulis di Hourglass dengan huruf tebal:
+HARI 368. TEMUAN: dari lima the Hollowed Caldrest, SEMUANYA punya ritual berulang tanpa sadar — Wida menyapa sumur, dua lainnya selalu memutar ke arah aula sebelum tidur, satu tidak pernah mau tinggal di ruangan tanpa nat. Tubuh mereka lupa nama tetapi TIDAK PERNAH lupa arah rumah.
 Kesimpulan: Hollowing tidak memutus hubungan manusia-kedalaman sepenuhnya. Ia memutus ingatan TENTANG hubungan itu. Benangnya tetap ada — hanya mata kita buta melihatnya.
 Lanjutan bab 191.
 
@@ -76,7 +76,7 @@ Keponakannya menangis di tempat. Dokter tambang menulis di buku medisnya dengan 
 ---
 
 Kabar itu menyebar ke seluruh kota dalam sehari dan mengubah status the Hollowed ringan di mata publik: dari "korban yang tinggal merawat" menjadi "orang yang tertidur dan bisa dibangunkan". Tiga keluarga menghubungi akademi dalam seminggu pertama. Jadwal kunjungan nat dibuka untuk semua the Hollowed Caldrest — dengan protokol yang disusun Barim, karena dialah ahlinya:
-"Bawa mereka ke nat yang paling mereka sering datangi waktu masih waras. Jangan maksa ngomong. Duduk. Dengar. Kalau ada yang mau keluar, biarkan keluar." Ia menepuk nat sumur pelan. "Mereka bukan rusak. Mereka hanya setengah di sini, setengah di sana. Kita hanya perlu membuat sini lebih ramah dikit."
+"Bawa mereka ke nat yang paling mereka sering datangi waktu masih waras. Jangan maksa berbicara. Duduk. Dengar. Kalau ada yang mau keluar, biarkan keluar." Ia menepuk nat sumur pelan. "Mereka bukan rusak. Mereka hanya setengah di sini, setengah di sana. Kita hanya perlu membuat sini lebih ramah dikit."
 
 ---
 
@@ -94,13 +94,13 @@ Dan di papan Hourglass, Sela menambahkan kolom baru dengan judul yang membuat ka
 
 ---
 
-Sisa tujuh puluh empat kata — untuk satu detail yang menutup lingkaran bab ini: Wida, sejak hari bicaranya yang pertama, kini setiap purnama tetap berdiri di sumur klinik. Tapi kalimatnya sudah berubah.
+Sisa tujuh puluh empat kata — untuk satu detail yang menutup lingkaran bab ini: Wida, sejak hari bicaranya yang pertama, kini setiap purnama tetap berdiri di sumur klinik. Namun kalimatnya sudah berubah.
 "Tunggu" menjadi: "Sudah tidak sabar lagi."
 
 ---
 
 Dan satu kalimat penutup dari Ashvarok di Hourglass, yang menutup bab 191 tepat:
-Hari 372, tambahan. Kotak cerita lahir untuk menamai tamu tua. Ternyata hadiahnya jauh lebih besar: ia mengajari kami melihat orang-orang yang selama ini ada di tengah kota tapi tidak pernah kita lihat. Wida bicara lagi hari ini. Empat kata. Delapan belas tahun.
+Hari 372, tambahan. Kotak cerita lahir untuk menamai tamu tua. Ternyata hadiahnya jauh lebih besar: ia mengajari kami melihat orang-orang yang selama ini ada di tengah kota tetapi tidak pernah kita lihat. Wida bicara lagi hari ini. Empat kata. Delapan belas tahun.
 Tidak ada seni raja mana pun yang bisa melakukan itu.
 
 Di pos jemput nomor tujuh, keluarga keturunan membangun bangku kayu kecil menghadap ladang — untuk siapa pun yang ingin duduk menonton gandum bergoyang seperti pesan Vess-Morath dulu. Bangku itu tidak pernah kosong lebih dari satu jam. Caldrest menemukan bahwa menonton gandum ternyata konten, jauh sebelum kata itu populer.

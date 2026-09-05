@@ -7,7 +7,7 @@ Sinyalnya datang sebagai lot kosong dengan catatan tiga baris di lapak Vosk, dan
 
 Kafilah Guild tiba lebih cepat dari perkiraan. Tabung timah sudah di distrik tengah. Pemiliknya menunggu jawaban yang hanya bisa dibaca di Caldrest.
 
-Maka pada malam yang sama, di ruang bekerja sewaan Assayer Tull dengan lilin satu sumbu dan pintu yang disandera kursi, dua pembaca berdiri lagi-lagi di atas sehelai masa lalu — dan kali ini masa lalunya digulung dalam tabung yang tidak pernah boleh masuk arsip mana pun.
+Maka pada malam yang sama, di ruang kerja sewaan Assayer Tull dengan lilin satu sumbu dan pintu yang disandera kursi, dua pembaca berdiri lagi-lagi di atas sehelai masa lalu — dan kali ini masa lalunya digulung dalam tabung yang tidak pernah boleh masuk arsip mana pun.
 
 "Peta ini berumur lebih dari seribu tahun," kata Maera Tull, membuka gulungan salinan dengan gerakan tangan orang yang menyentuh barang bukti. Salinannya rapi — tangan juru ukur muda cabang selatan, katanya, cocok skala demi skala dengan aslinya dalam kain yang ayahnya simpan empat dasawarsa di dalam timah. "Kertas modern, tetapi garis-garisnya disalin jujur. Aku sudah cek tiga titik terhadap survei kami sendiri. Ketiganya jatuh dalam toleransi satu hasta." Ia berhenti, dan matanya melakukan hal yang selalu dilakukan matanya ketika berpikir: menghitung sesuatu yang tidak ada angkanya. "Seribu tahun, Renn. Siapa yang menyuruh orang menggambar bawah tanah sebuah kota tambang seperti menggambar istana?"
 
@@ -27,7 +27,7 @@ Ashvarok membiarkan hening bekerja untuknya sebentar. Ada seni dalam memberi sek
 
 "Kau bilang blind door terbaca monolit oleh instrumen tim Spire," katanya akhirnya.
 
-"Monolit sempurna. Terlalu sempurna — tapi itu keluhan lain untuk hari lain."
+"Monolit sempurna. Terlalu sempurna — tetapi itu keluhan lain untuk hari lain."
 
 "Kalau monolit itu pintu, dan ruang delapan banding tiga ini ruang di baliknya." Ia meletakkan jarinya di ambang, lalu menggeser jari itu mengikuti garis-garis peta sampai ke tengah. "Apa yang berdiri di ujung semua jalurnya?"
 
@@ -45,7 +45,7 @@ Itu, dan hanya itu, yang bisa Maera Tull membaca — dan biarlah demikian, pikir
 
 Kalau suatu hari dais itu dirusak — dipatahkan, ditumbangkan, ditempa ulang oleh tangan yang paham seni raja — maka segel tidak akan menunggu kunci yang sah. Segel yang kembarannya dipatahkan adalah segel yang terbuka, dan ia akan terbuka tanpa dirinya, di hadapan orang yang merusaknya, dan seluruh harga yang dibakarnya di malam the Long Dusk akan habis di tangan orang lain.
 
-Itu rencana sang arsitek sedotan. Bukan dugaan ringan — tapi juga belum bukti, dan perbedaan antara keduanya adalah perbedaan yang membuat penjaga tetap hidup sampai bisa membedakannya.
+Itu rencana sang arsitek sedotan. Bukan dugaan ringan — tetapi juga belum bukti, dan perbedaan antara keduanya adalah perbedaan yang membuat penjaga tetap hidup sampai bisa membedakannya.
 
 "Kau pucat," kata Maera. Lensanya sudah turun dari mata. Ia menatapnya dengan cara yang membuat Ashvarok sadar sudah terlalu lama diam. "Aku bicarakan teori di depanmu dan kau pucat. Ada yang cocok dengan sesuatu yang sudah kamu tahu."
 
@@ -65,7 +65,7 @@ Malamnya ia mengetuk pintu gudang perkakas tingkat dua tiga kali — satu cepat,
 
 "Peta sudah sampai. Cocok dengan rekonstruksiku sampai satu hasta." Ashvarok duduk di petikayu yang selalu disediakan untuknya. "Dan dia membaca sesuatu yang bahkan tidak kuberikan padanya: semua jalur katup bermuara ke dais tengah. Dais itu bukan tempat berdiri, Brannoc. Dais itu tempat bertumpunya kunci."
 
-Brannoc memproses kalimat itu seperti orang menimbang bijih — pelan, dari segala sisi. "Berarti pekerja panen yang selama ini motong-motong tepian itu..."
+Brannoc memproses kalimat itu seperti orang menimbang bijih — pelan, dari segala sisi. "Berarti pekerja panen yang selama ini memotong-memotong tepian itu..."
 
 "...sedang mencari cara masuk ke ruang tengah tanpa ketahuan. Ya."
 
@@ -77,7 +77,7 @@ Brannoc meludahkan akar pahitnya ke sudut gudang, kebiasaan yang berarti setuju.
 
 "Tidak ada yang menghitung langkahku. Itu masalahnya." Ashvarok bangkit, dan di ambang pintu ia berhenti sebentar. "Satu lagi. Kalau suatu saat turun itu berubah dari pembacaan menjadi penilaian resmi berskala penuh — kau di permukaan, ceritamu sama seperti babak dulu: aku ikut sebagai kuli pendamping, kau menyangkal apa pun yang mereka duga tentangku, dan Maera memegang prosedurnya."
 
-"Rencana lama untuk pintu baru," kata Brannoc. "Baik. Tapi dengar satu hal dari mandormu, bocah tua." Suaranya turun separuh nada. "Kalau ruangan itu bohong dan orang-orang bersenjata gema berdiri di dalamnya, kamu yang paling dekat dengan yang paling berbahaya. Jangan pernah buang keselamatanmu demi sebuah panggung batu."
+"Rencana lama untuk pintu baru," kata Brannoc. "Baik. Namun dengar satu hal dari mandormu, bocah tua." Suaranya turun separuh nada. "Kalau ruangan itu bohong dan orang-orang bersenjata gema berdiri di dalamnya, kamu yang paling dekat dengan yang paling berbahaya. Jangan pernah buang keselamatanmu demi sebuah panggung batu."
 
 "Keselamatanku bukan barang paling mahal di tambang ini."
 

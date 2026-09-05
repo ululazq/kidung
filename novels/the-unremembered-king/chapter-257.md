@@ -121,7 +121,7 @@ Dan satu adegan penutup — di nat-gunung yang sama, sebelum rombongan tidur:
 
 Gorvel yang tua (yang datang menyusul dari Caldrest dengan kaki setengah muda) berdiri di depan nat-gunung dan bertanya satu hal:
 
-"Nat. Catatan itu... aku yang nulis waktu muda. Aku tidak pernah berani menyerahkannya ke siapa pun.
+"Nat. Catatan itu... aku yang menulis waktu muda. Aku tidak pernah berani menyerahkannya ke siapa pun.
 
 Kenapa baru SEKARANG kamu bacakan?"
 
@@ -169,7 +169,7 @@ Dan satu baris dari ibu Tamma — yang sudah menyiapkan sarapan untuk besok:
 
 "Betul, Nak. Keluarga itu kuat.
 
-Tapi keluarga yang lapar... kuat setengah jalan saja.
+Namun keluarga yang lapar... kuat setengah jalan saja.
 
 Makan. Tidur. Besok kita naik gunung."
 
@@ -289,7 +289,7 @@ Vessia duduk di sebelah ayahnya yang datang menyusul dari kampung (yang membawa 
 
 Dan mereka semua bercerita sampai bintang keluar — delapan puluh tahun cerita gunung, seribu tahun cerita raja, delapan bulan cerita bocah tungku, dua tahun cerita kota kecil yang mengajari dunia menyapa.
 
-Sela mencatat semuanya. Tapi halaman terakhir jurnalnya malam itu bukan catatan.
+Sela mencatat semuanya. Namun halaman terakhir jurnalnya malam itu bukan catatan.
 
 Ia pesan untuk dirinya sendiri di masa depan:
 

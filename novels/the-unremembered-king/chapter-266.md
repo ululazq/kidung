@@ -3,7 +3,7 @@ title: "Bab 266: Kotak Pajak"
 chapter: 266
 ---
 
-Mereka tiba di Caldrest pada sore hari kedua belas, dan yang pertama menyambut di tepi kota bukan orang, tapi nat-nat kecil pekarangan — semuanya menyala serentak saat keempat pendengar lewat, seperti lampu jalan yang tahu jadwalnya.
+Mereka tiba di Caldrest pada sore hari kedua belas, dan yang pertama menyambut di tepi kota bukan orang, tetapi nat-nat kecil pekarangan — semuanya menyala serentak saat keempat pendengar lewat, seperti lampu jalan yang tahu jadwalnya.
 
 Di barak utara, ibu Tamma sudah menyiapkan meja panjang. Bukan makan malam biasa: sup penuh, roti akademi, dan tempat duduk untuk semua orang yang selama dua pekan menghitung hari.
 
@@ -39,7 +39,7 @@ Ashvarok-Renn mengambil penjepit itu dari tangan Sela dengan hati-hati orang men
 
 Dan mendengarnya.
 
-Satu irama beku, sempurna, tersimpan tanpa kehilangan sedikit pun: lima nama yang disebut bersamaan oleh lima suara yang saling menyapa di tengah lagu. Nada yang dipotong pasukan pemenang dari malam itu — potongan persis dari detik ketika lagu malam Pembakaran Nama mencapai bagian yang oleh para penyanyi nat disebut bagian sahabat, karena di bagian itulah lima panglima bernyanyi bukan kepada raja mereka, tapi kepada sahabat mereka sendiri.
+Satu irama beku, sempurna, tersimpan tanpa kehilangan sedikit pun: lima nama yang disebut bersamaan oleh lima suara yang saling menyapa di tengah lagu. Nada yang dipotong pasukan pemenang dari malam itu — potongan persis dari detik ketika lagu malam Pembakaran Nama mencapai bagian yang oleh para penyanyi nat disebut bagian sahabat, karena di bagian itulah lima panglima bernyanyi bukan kepada raja mereka, tetapi kepada sahabat mereka sendiri.
 
 "Kenapa Choir menyimpannya?" tanya Ondar, yang hadir membantu mengangkat gulungan pajak dan sejak tadi pura-pura sibuk dengan satu gulungan yang sama.
 
@@ -90,7 +90,7 @@ Surat itu ditujukan tanpa nama penerima, dan dimulai tanpa basa-basi:
 
 *Aku tidak bisa mengoreksinya. Jabatan ini hidup karena diam; itulah harganya, dan aku membayarnya.*
 
-*Tapi aku boleh meninggalkan benda. Benda tidak butuh izin untuk benar.*
+*Namun aku boleh meninggalkan benda. Benda tidak butuh izin untuk benar.*
 
 *Nada lima panglima kutitipkan lewat jalur pajak, karena tak seorang pun di dunia ini memeriksa kotak pajak dengan hati. Suatu hari akan ada yang melakukannya dengan cara yang benar. Kalau kau membaca ini, berarti hari itu datang.*
 
@@ -106,7 +106,7 @@ Lalu ia keluar dari ruang arsip, mencari ibu Tamma di dapur aula, dan bertanya h
 
 Ibu Tamma, tanpa mengangkat kepala dari adonannya, menjawab dengan kebijaksanaan dapur standar: "Orang tidak bisa, Nak. Ibu-ibu bisa. Selalu ada jalan dapur ke mana-mana — pintunya tidak pernah masuk peta."
 
-Sela kembali ke arsipnya dengan teori baru yang belum berani ditulisnya: bahwa nada lima panglima itu tidak pernahrnah dicuri pasukan pemenang untuk disegel. Nada itu diselundupkan — oleh seseorang di dalam sistem pemenang sendiri, melewati enam penjaga, dari tangan ke tangan, selama bertahun-tahun — supaya sampai ke satu-satunya orang di Karvess yang terbukti mau menjaga kebenaran tanpa bisa mengucapkannya.
+Sela kembali ke arsipnya dengan teori baru yang belum berani ditulisnya: bahwa nada lima panglima itu tidak pernah dicuri pasukan pemenang untuk disegel. Nada itu diselundupkan — oleh seseorang di dalam sistem pemenang sendiri, melewati enam penjaga, dari tangan ke tangan, selama bertahun-tahun — supaya sampai ke satu-satunya orang di Karvess yang terbukti mau menjaga kebenaran tanpa bisa mengucapkannya.
 
 Dan daftar calon penyelundupnya, kata Sela pada dirinya sendiri sambil menata gulungan pajak kembali, sangat pendek dan sangat mustahil, dan karenanya kemungkinan besar benar.
 ---
@@ -115,7 +115,7 @@ Ashvarok-Renn kembali pada hari keempat, di subuh, lewat jalur yang tidak dinaik
 
 Ia membawa kabar dalam urutan yang olehnya diumumkan sendiri, karena keluarga the Quiet Vein punya hak tahu berita buruk lebih dulu:
 
-"Lagu sudah utuh. Dia menangis. Bukan sedih — dia bilang lagu yang utuh rasanya geli, seperti bahu yang baru sadar sudah lama disandu."
+"Lagu sudah utuh. Dia menangis. Bukan sedih — dia bilang lagu yang utuh rasanya geli, seperti bahu yang baru sadar sudah lama disandari."
 
 Sela menahan napasnya. "Dan harganya?"
 

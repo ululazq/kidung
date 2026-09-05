@@ -61,7 +61,7 @@ Ia menepuk tanah ladang dua kali — bahasa petani untuk "terima kasih, kerja ba
 
 Dan kedalaman menjawab dengan kalimat yang oleh Kovan diterjemahkan sambil tertawa dan tangisnya berebut:
 
-"Pekerjaan kalian juga bagus. Ladangnya subur sekali — aku nyaris enggan melepasnya. Tapi tanah itu milikmu. Pemiliknya sudah kembali. Maka mulai besok, kita tetangga. Dan tetangga petani..." Irama itu berirama tawa. "...harus rajin berbagi hasil panen."
+"Pekerjaan kalian juga bagus. Ladangnya subur sekali — aku nyaris enggan melepasnya. Namun tanah itu milikmu. Pemiliknya sudah kembali. Maka mulai besok, kita tetangga. Dan tetangga petani..." Irama itu berirama tawa. "...harus rajin berbagi hasil panen."
 
 Tawa yang menjawab dari seluruh ladang itu — tawa seratus petani yang baru pulang ditambah ribuan warga Caldrest di sekelilingnya — adalah suara penutup pemulangan terbesar dalam sejarah dunia. Dan oleh para tetua utara, tawa itu diberi nama: "tawa gandum emas" — yang sejak hari itu menjadi istilah Caldrest untuk tawa yang keluar saat tangis bahagia dan lega datang bersamaan.
 
@@ -69,9 +69,9 @@ Tawa yang menjawab dari seluruh ladang itu — tawa seratus petani yang baru pul
 
 Malam pertama seratus petani di atas tanah dihabiskan dengan cara yang oleh ibu Tamma disebut "paling masuk akal": makan.
 
-Seratus dua puluh porsi sup habis dalam satu jam. Cadangan dua puluh porsi menyusul dalam setengah jam. Dua karung gula untuk teh ibu Tamma habis lebih cepat dari semuanya — dan ketika teh habis, para petani purba justru tertawa dan berkata (lewat irama yang diterjemahkan murid-murid): "delapan belas tahun tidak minum teh... tapi rasanya masih ingat cara menunggu teh dibuatkan."
+Seratus dua puluh porsi sup habis dalam satu jam. Cadangan dua puluh porsi menyusul dalam setengah jam. Dua karung gula untuk teh ibu Tamma habis lebih cepat dari semuanya — dan ketika teh habis, para petani purba justru tertawa dan berkata (lewat irama yang diterjemahkan murid-murid): "delapan belas tahun tidak minum teh... tetapi rasanya masih ingat cara menunggu teh dibuatkan."
 
-Ibu Tamma menjawab dengan vonis dapurnya: "Delapan belas tahun tidak minum teh, tapi masih tahu teh harus ditunggu. Kalian memang petani sejati."
+Ibu Tamma menjawab dengan vonis dapurnya: "Delapan belas tahun tidak minum teh, tetapi masih tahu teh harus ditunggu. Kalian memang petani sejati."
 
 ---
 
@@ -99,7 +99,7 @@ Dan yang paling penting: kedalaman tidak sedih malam ini. Iramanya malam ini pal
 
 Delapan belas tahun menunggu, tiga ratus tahun menjaga, seribu tahun kesendirian — semua angka itu kini punya penyelesaian yang sama: seratus orang makan sup di ladang gandum emas, sambil mengajari dunia permainan panen yang sudah lama hilang.
 
-Ternyata itulah bentuk paling sederhana dari kata pulang: bukan hanya kembali ke tempat yang dikenali — tapi langsung bekerja lagi, seolah delapan belas tahun itu hanya jeda makan siang yang agak panjang.
+Ternyata itulah bentuk paling sederhana dari kata pulang: bukan hanya kembali ke tempat yang dikenali — tetapi langsung bekerja lagi, seolah delapan belas tahun itu hanya jeda makan siang yang agak panjang.
 
 Dan satu catatan terakhir untuk halaman pertama Arsip era ketiga, tulisan tangan Ashvarok:
 

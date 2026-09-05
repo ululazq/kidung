@@ -9,7 +9,7 @@ Sela datang lebih dulu, membawa teh. "Kau menemukan sesuatu," katanya, bukan per
 
 "Lihat ini." Kovan membentangkan kertas itu. "Angka-angka di buku catatan bukan sekadar hitungan. Arah angin, selisih tarikan, jeda diam — kalau diterjemahkan dengan benar, semuanya berubah menjadi jarak. Dan jarak ini, kalau dihitung dari titik tengah peta tujuh titik, menunjuk ke satu tempat."
 
-Ia menunjuk titik di ujung garis. "Di sini. Tiga hari perjalanan di utara Spire, lewat jalur yang tidak ada di peta resmi. Tapi ada satu penanda yang penggambar peta ini tulis berulang kali: batu tegak, sejajar dengan dua batu lain, seperti pintu yang setengah terkubur."
+Ia menunjuk titik di ujung garis. "Di sini. Tiga hari perjalanan di utara Spire, lewat jalur yang tidak ada di peta resmi. Namun ada satu penanda yang penggambar peta ini tulis berulang kali: batu tegak, sejajar dengan dua batu lain, seperti pintu yang setengah terkubur."
 
 "Megalit," kata Ashvarok-Renn, yang datang dari belakang. "Tiga batu tegak. Itu bahasa lama untuk gerbang."
 
@@ -21,7 +21,7 @@ Mira datang membawa surat-surat dari ruang arsip. "Ada satu hal yang belum kita 
 
 "Garis yang berhenti?" ulang Sela.
 
-"Garis ini," kata Mira, menunjuk peta kecil itu, "digambar saat penggambar peta masih hidup. Ia memanjang sampai ke tempat batu tegak itu. Tapi kalau yang menarik benang ke utara semakin dekat, garis itu akan terus memanjang — melampaui batu tegak itu, ke tempat yang belum pernah ia gambar."
+"Garis ini," kata Mira, menunjuk peta kecil itu, "digambar saat penggambar peta masih hidup. Ia memanjang sampai ke tempat batu tegak itu. Namun kalau yang menarik benang ke utara semakin dekat, garis itu akan terus memanjang — melampaui batu tegak itu, ke tempat yang belum pernah ia gambar."
 
 "Dan kalau garis itu berhenti," kata Kovan pelan, "berarti yang menarik benang itu sudah berhenti bergerak. Sudah sampai. Sudah menemukan apa yang dicarinya."
 
@@ -65,7 +65,7 @@ Di fajar berikutnya, dua orang the Wanes berjalan ke utara, membawa peta kecil d
 
 Di menara, Mira mencatat di buku anomali: *Dua the Wanes berangkat ke utara. Mereka membawa pertanyaan yang sama dengan yang kita bawa sejak buku anomali dibuka: siapa yang menarik benang itu? Untuk pertama kalinya, pertanyaan itu punya alamat.*
 
-Sebelum kembali ke menara, Mira berhenti di ambang barak dan menatap peta tujuh titik yang tergantung di dinding. "Ada satu hal yang belum kuceritakan tentang pertemuanku dengan ruang arsip," katanya. "Perempuan tua itu menyebut garis arsip 'pembaca kedua'. Bukan pembaca pertama. Pembaca pertama, katanya, adalah orang yang menulis dokumen itu sendiri — dan pembaca kedua adalah orang yang membacanya sebelum panitia. Tapi malam itu, ketika aku bertanya siapa pembaca pertama surat-surat penggambar peta, ia menjawab: 'Penggambar peta itu sendiri. Ia menulis agar ada yang bisa membacanya nanti.'"
+Sebelum kembali ke menara, Mira berhenti di ambang barak dan menatap peta tujuh titik yang tergantung di dinding. "Ada satu hal yang belum kuceritakan tentang pertemuanku dengan ruang arsip," katanya. "Perempuan tua itu menyebut garis arsip 'pembaca kedua'. Bukan pembaca pertama. Pembaca pertama, katanya, adalah orang yang menulis dokumen itu sendiri — dan pembaca kedua adalah orang yang membacanya sebelum panitia. Namun malam itu, ketika aku bertanya siapa pembaca pertama surat-surat penggambar peta, ia menjawab: 'Penggambar peta itu sendiri. Ia menulis agar ada yang bisa membacanya nanti.'"
 
 "Jadi penggambar peta ini menulis untuk masa depan," kata Sela pelan. "Bukan untuk the Throne, bukan untuk ruang arsip. Untuk siapa pun yang akan menemukan dokumennya dan memutuskan untuk membacanya dengan benar."
 
@@ -77,15 +77,15 @@ Ossian, yang datang dari luar membawa kain tenun dari utara, berhenti di pintu m
 
 "Kau tidak setuju?" tanya Ashvarok-Renn.
 
-"Aku tidak tahu apakah aku setuju atau tidak." Ossian meletakkan kain tenun itu di meja. "Tapi aku tahu satu hal: dua belas fajar sekali jalan adalah waktu yang lama untuk menunggu jawaban. Dan kalau garis itu berhenti di batu tegak itu, kalian harus memutuskan apa artinya — apakah kunci sudah sampai, atau apakah yang menarik benang itu sudah berhenti di tempat yang sama."
+"Aku tidak tahu apakah aku setuju atau tidak." Ossian meletakkan kain tenun itu di meja. "Namun aku tahu satu hal: dua belas fajar sekali jalan adalah waktu yang lama untuk menunggu jawaban. Dan kalau garis itu berhenti di batu tegak itu, kalian harus memutuskan apa artinya — apakah kunci sudah sampai, atau apakah yang menarik benang itu sudah berhenti di tempat yang sama."
 
 Sela menulis di papan sisi: *Misi pertama ke utara: dua orang the Wanes, peta kecil, dan kain tenun tiga ketuk satu diam. Tujuan: batu tegak di ujung garis penggambar peta. Ukur: garis itu panjang atau berhenti. Waktu tempuh: dua belas fajar sekali jalan. Dunia menunggu jawaban yang tidak pernah dicatat siapa pun.*
 
-Gella datang membawa buku pemulihan dan duduk di bangku dekat gerbang. "Aku tidak bisa menghitung garis," katanya. "Tapi aku bisa menghitung satu hal: napas Ashvarok-Renn masih tiga, dan itu sudah bertahan dua pekan. Yang muda dan the Keeper pergi, tapi the Bearer tetap di sini, dan dunia masih berdetak dengan irama yang sama."
+Gella datang membawa buku pemulihan dan duduk di bangku dekat gerbang. "Aku tidak bisa menghitung garis," katanya. "Namun aku bisa menghitung satu hal: napas Ashvarok-Renn masih tiga, dan itu sudah bertahan dua pekan. Yang muda dan the Keeper pergi, tetapi the Bearer tetap di sini, dan dunia masih berdetak dengan irama yang sama."
 
 Ashvarok-Renn menatapnya. "Kau menghiburku?"
 
-"Aku mencatat." Gella menutup buku itu. "Catatan yang jujur tidak perlu menghibur. Ia hanya perlu benar. Dan kebenarannya: barak ini bertahan delapan belas tahun tanpa pergi ke utara. Ia bisa bertahan dua belas fajar lagi menunggu jawaban. Tapi dua belas fajar adalah waktu yang panjang untuk sesuatu yang mungkin sudah berubah sejak kita mulai membaca peta ini."
+"Aku mencatat." Gella menutup buku itu. "Catatan yang jujur tidak perlu menghibur. Ia hanya perlu benar. Dan kebenarannya: barak ini bertahan delapan belas tahun tanpa pergi ke utara. Ia bisa bertahan dua belas fajar lagi menunggu jawaban. Namun dua belas fajar adalah waktu yang panjang untuk sesuatu yang mungkin sudah berubah sejak kita mulai membaca peta ini."
 
 "Atau sesuatu yang sudah menunggu delapan belas tahun," kata Ossian, "dan bisa menunggu dua belas hari lagi. Yang tidak bisa menunggu bukanlah garis itu — melainkan pertanyaan kita tentangnya."
 

@@ -13,7 +13,7 @@ Ia memeriksa Ashvarok dari ujung rambut sampai ujung kaki, membaca vein-scar di 
 
 "Dan kabar baiknya?" tanya Sela.
 
-"Tidak ada kabar baik. Tapi ada kabar MENARIK." Gella meletakkan catatannya. "Parut ini berhenti menyebar tepat hari kalian bilang si anak itu mulai 'mendengar'. Aku tidak percaya kebetulan. Tubuh ini tahu pemiliknya masih ada — dan tubuh berhenti memburuk begitu ia mulai memperhatikan."
+"Tidak ada kabar baik. Namun ada kabar MENARIK." Gella meletakkan catatannya. "Parut ini berhenti menyebar tepat hari kalian bilang si anak itu mulai 'mendengar'. Aku tidak percaya kebetulan. Tubuh ini tahu pemiliknya masih ada — dan tubuh berhenti memburuk begitu ia mulai memperhatikan."
 
 ---
 
@@ -33,13 +33,13 @@ PASAL 5: BICARA PADA RENN SETIAP SORE. Satu cerita minimum. Topik bebas. Yang pe
 
 Pasal lima ternyata jadi yang paling sulit dilakukan Ashvarok.
 
-Bukan karena tidak mau — karena setiap kali ia duduk di tepi tempat tidur dan membuka mulut, semua pidato seribu tahunnya hilang. Ia bisa berdebat dengan Dewan Regional. Ia bisa menenangkan empat ratus keluarga. Tapi bicara pada bocah lima belas tahun yang tidur di dalam tubuhmu sendiri?
+Bukan karena tidak mau — karena setiap kali ia duduk di tepi tempat tidur dan membuka mulut, semua pidato seribu tahunnya hilang. Ia bisa berdebat dengan Dewan Regional. Ia bisa menenangkan empat ratus keluarga. Namun bicara pada bocah lima belas tahun yang tidur di dalam tubuhmu sendiri?
 
 Malam pertama ia hanya bilang: "Eh. Halo."
 
 Dan diam sepuluh menit.
 
-Sela yang mengintip dari pintu tertawa sampai keselek. "Seribu tahun hidup, Kak, dan itu kalimat pembukamu?"
+Sela yang mengintip dari pintu tertawa sampai tersedak. "Seribu tahun hidup, Kak, dan itu kalimat pembukamu?"
 
 "Coba kau saja kalau hebat," jawab Ashvarok tanpa menoleh.
 
@@ -63,7 +63,7 @@ Maera Tull datang sekali, membawa lempeng ukur lamanya, meletakkannya di meja, d
 
 Dan ibu Tamma? Ibu Tamma tidak perlu datang. Ia sudah bicara pada Renn delapan bulan setiap pagi lewat sup — dan sekarang tinggal menambah satu kebiasaan baru: setiap mangkuk diberi catatan kecil, tulisan tangannya, dibaca siapa pun yang mau (termasuk, kata dia, "siapa pun yang mendengar dari dalam"):
 
-"Hari 780: hari ini Sela jatuh dari tanggi arsip. Tidak apa-apa, hanya kaget. Aku marah sedikit."
+"Hari 780: hari ini Sela jatuh dari tangga arsip. Tidak apa-apa, hanya kaget. Aku marah sedikit."
 
 "Hari 781: hujan pertama musim. Nat-nat kecil kena tetes pertama semua."
 
@@ -145,7 +145,7 @@ Tiga penghuni. Satu rumah. Dan untuk pertama kalinya, tidak ada yang berencana p
 
 Dan satu catatan terakhir dari Kovan, ditulis kecil di bawah neraca resminya:
 
-"Data pribadi, bukan data proyek: malam ini aku duduk di tepi tempat tidur itu dan bercerita dua puluh menit tentang angka-angka. Semua orang bilang ceritaku membosankan. Tapi denyut hangatnya malam ini datang LEBIH CEPAT dari biasanya.
+"Data pribadi, bukan data proyek: malam ini aku duduk di tepi tempat tidur itu dan bercerita dua puluh menit tentang angka-angka. Semua orang bilang ceritaku membosankan. Namun denyut hangatnya malam ini datang LEBIH CEPAT dari biasanya.
 
 Kesimpulan sementara (butuh verifikasi lebih lanjut): Renn tidak bosan dengan angka. Renn bosan dengan orang yang berpura-pura bukan diri sendiri.
 

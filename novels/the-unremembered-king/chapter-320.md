@@ -111,7 +111,7 @@ Di menara, perawat tua kini tidak sendirian. Seorang anak muda dari desa tetangg
 
 "Kau catat berapa napas. Bukan mengapa. Yang bertanya mengapa akan memutar ceritamu. Yang bertanya angka hanya bisa membandingkan."
 
-Anak muda itu menulis angka pertamanya di buku latihan, gemetar di ujung pena. Mira mengetuk tiga kali ke lantai menara, diam satu hentakan, dan anak itu mengikutinya tanpa diminta. Benang itu kini punya satu suara lagi di ujung menara — belum tercatat di arsip Spire, dan itu tepat seperti yang dikehendaki barak.
+Anak muda itu menulis angka pertamanya di buku latihan, gemetar di ujung pena. Mira mengetuk tiga kali ke lantai menara, diam satu hentakan, dan anak itu mengikutinya tanpa diminta. Benang itu kini punya satu suara lagi di ujung menara — belum tercatat di arsip Spire — dan itu tepat seperti yang dikehendaki barak.
 
 Di luar, angin selatan masuk pelan, dan di barak utara bel kecil berdenting tiga detik tanpa satu pun yang menyuruhnya. Benang pertama yang kita tarik dari barak ke Spire kini telah menjadi jalan dua arah yang kita jaga di kedua ujung: di menara oleh Mira dan perawat tua yang hanya mencatat, dan di barak oleh dua belas suara yang belum pernah menulis nama mereka di atas kertas mana pun. Ashvarok-Renn mengetuk tiga kali ke ubin serambi, lalu diam sehentakan. Di ruang bawah Spire, meja pemeriksa itu masih penuh dengan laporan yang hanya berisi angin — karena angin, tidak seperti besi, tidak memberi kunci bagi siapa pun yang tidak menyebut namanya.
 
@@ -127,7 +127,7 @@ Sela datang ke serambi membawa papan world-state barak. "Kovan sudah pasang lima
 
 "Mereka akan menyasar," jawab Ashvarok-Renn. "Lima simpul lain dari tujuh seam pengikat the Threshold belum dikenal. Institusi yang memanen tidak berhenti hanya karena satu celah ditutup dengan angka."
 
-"Tapi kita siap."
+"Namun kita siap."
 
 "Kita siap karena kita tidak bernama," kata Ashvarok-Renn. "Di arsip Spire, benang ini milik menara utara. Di sini, ia milik dua belas anak dan bel barak utara. Tidak satu pun cap yang bisa memanggil kita, dan itu pelindungnya."
 

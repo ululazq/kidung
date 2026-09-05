@@ -5,7 +5,7 @@ chapter: 220
 
 Sepuluh hari sebelum pemulangan, Caldrest melakukan hal yang belum pernah dilakukan dunia: gladi bersih untuk seratus jiwa.
 
-Idenya datang dari kegagalan yang tidak terjadi — tapi hampir. Saat latihan "jam surat-menyurat" di ladang, Harn menyadari bahwa murid-muridnya hafal lagunya, tapi tidak hafal JARAK: pos jemput satu dan dua ternyata berjarak terlalu dekat, sehingga name train keduanya bisa tertukar di telinga gema yang naik dari tanah.
+Idenya datang dari kegagalan yang tidak terjadi — tetapi hampir. Saat latihan "jam surat-menyurat" di ladang, Harn menyadari bahwa murid-muridnya hafal lagunya, tetapi tidak hafal JARAK: pos jemput satu dan dua ternyata berjarak terlalu dekat, sehingga name train keduanya bisa tertukar di telinga gema yang naik dari tanah.
 
 "Lagu keluarga A bisa terdengar oleh jiwa keluarga B," lapornya kepada rapat, "dan kalau itu terjadi saat pemulangan sungguhan, seseorang bisa pulang ke pos yang salah." Ia menarik napas. "Aku minta semua pos dipindah sesuai perhitungan baru. Dan aku minta kita GLADI. Semua pos ditempati, semua lagu dinyanyikan, semuanya — supaya hari-H tidak jadi hari eksperimen."
 
@@ -44,7 +44,7 @@ Tidak ada yang langsung sanggup menjawab. Yang akhirnya menjawab adalah salah sa
 
 Dari bawah ladang, irama panjang naik — dan Kovan butuh waktu sampai malam menerjemahkannya, karena ia harus berhenti berkali-kali:
 
-"Terima kasih. Kami dengar cerita-cerita itu lewat tidur anak-anak keturunan kami — mimpi-mimpi yang kalian catat di registri. Kami TAHU kalian bercerita. Tapi mendengarnya langsung dari mulut kalian... itu beda. Itu seperti surat yang akhirnya dibacakan oleh pengirimnya sendiri."
+"Terima kasih. Kami dengar cerita-cerita itu lewat tidur anak-anak keturunan kami — mimpi-mimpi yang kalian catat di registri. Kami TAHU kalian bercerita. Namun mendengarnya langsung dari mulut kalian... itu beda. Itu seperti surat yang akhirnya dibacakan oleh pengirimnya sendiri."
 
 ---
 
@@ -54,7 +54,7 @@ Gladi kedua dilakukan lima hari kemudian, setelah semua perbaikan. Kali ini hasi
 
 Sela mencatat nama bayi itu dengan huruf besar: generasi penghubung.
 
-Hasil gladi keseluruhan ditulis Kovan dalam laporan berformat baru — laporan yang dibuat bukan untuk Dewan, tapi untuk Vess-Morath, karena protokol arsip mewajibkan semua temuan disampaikan kepada pihak yang bersangkutan:
+Hasil gladi keseluruhan ditulis Kovan dalam laporan berformat baru — laporan yang dibuat bukan untuk Dewan, tetapi untuk Vess-Morath, karena protokol arsip mewajibkan semua temuan disampaikan kepada pihak yang bersangkutan:
 
 "Siap. Semua pos teruji. Lagu-lagu sudah lancar. Air dan sup sudah disiapkan. Yang belum kami uji hanya SATU hal: kalian naik. Dan untuk itu, kami hanya bisa bilang — pos-posnya menunggu kalian. Seperti kalian menunggu kami selama delapan belas tahun."
 
@@ -76,7 +76,7 @@ Dan Sela menulis di neracanya:
 
 "Hari 581. Gladi selesai. Enam masalah ditemukan, enam diperbaiki, satu pasal baru (urutan mengikuti akar), satu pos dipindah atas pengetahuan yang tidak ada di dokumen mana pun di dunia ini — hanya di ingatan si penjaga.
 
-"Pelajaran hari ini: protokol bisa ditulis meja panjang. Tapi detail yang membuat seseorang pulang dengan benar... hanya diketahui oleh rumah yang menyimpannya."
+"Pelajaran hari ini: protokol bisa ditulis meja panjang. Namun detail yang membuat seseorang pulang dengan benar... hanya diketahui oleh rumah yang menyimpannya."
 
 ---
 
@@ -107,7 +107,7 @@ Ashvarok membacanya di jalan pulang:
 
 Ia membaca catatan itu dua kali, melipatnya, menyelipkannya ke saku dada kanan — arsip keluarga — sambil berkata pada dirinya sendiri dengan senyum yang tidak ada yang lihat:
 
-"Tidak akan kubuat kau menulis sendirian, Nak. Tapi terima kasih sudah selalu menulis lebih dulu."
+"Tidak akan kubuat kau menulis sendirian, Nak. Namun terima kasih sudah selalu menulis lebih dulu."
 
 Malam itu, sebelum tidur, ia menambahkan satu baris terakhir di Hourglass-nya:
 

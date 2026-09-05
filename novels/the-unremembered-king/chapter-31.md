@@ -17,11 +17,11 @@ Ashvarok menerima mangkuk itu dengan kedua tangan. Hangatnya menjalar sampai ke 
 
 "Diam yang baik atau diam yang buruk?"
 
-"Diam yang mahal," kata Ashvarok. "Tapi dibayar lunas."
+"Diam yang mahal," kata Ashvarok. "Namun dibayar lunas."
 
 Sela memperhatikannya makan dengan mata yang menghitung — kebiasaan yang jelas ditirunya dari Assayer Tull — dan Ashvarok membiarkan dirinya dinilai. Kelemahan yang disembunyikan selalu terbaca lebih jauh daripada kelemahan yang dipajang. Maka ia makan pelan, benar-benar pelan, seperti bocah tungku yang lapar biasa, sampai mangkuk kayu itu kosong dan dingin di dadanya surut satu tingkat.
 
-"Kakak," kata Sela akhirnya sambil mengetatkan tali kaca di rambutnya, "hari ini kamu pulang lebih cepat dari biasanya. Dan ada garam di sepatumu."
+"Kakak," kata Sela akhirnya sambil mengencangkan tali kaca di rambutnya, "hari ini kamu pulang lebih cepat dari biasanya. Dan ada garam di sepatumu."
 
 "Endapan lorong B. Zona terbatas itu lembap."
 
@@ -39,7 +39,7 @@ Ashvarok menatap adik angkatnya dan sempat ingin bertanya dari mana bocah sebesa
 
 "Ia tidak akan menyentuhmu," katanya.
 
-"Bukan aku yang takut." Sela menutup papan tulisnya. "Tapi mimpi itu masih berhenti di dua belas. Kalau sampai tiga belas, kamu janji bangunkan aku, bukan sebaliknya."
+"Bukan aku yang takut." Sela menutup papan tulisnya. "Namun mimpi itu masih berhenti di dua belas. Kalau sampai tiga belas, kamu janji bangunkan aku, bukan sebaliknya."
 
 ---
 
@@ -51,7 +51,7 @@ Dari dalam selimut, tanpa membuka mata sepenuhnya, Sela menjawab, "Sudah kuhitun
 
 Lorong B menerima tubuh lelah itu dengan kesabaran batu tua. Udara di dalam mencicipi dingin dengan cara yang berbeda dari permukaan: dingin yang basah, bergaram, berbau besi lapuk dan air yang tidak pernah sampai ke mana-mana. Setiap tetesan jauh di kedalaman terdengar seperti dikte yang lambat. Ashvarok berjalan dengan lampu rendah, menghitung langkah bukan karena tersesat — geometri aula ini pernah digambar ulang oleh tangannya sendiri seribu tahun silam — melainkan karena angka membuat tubuh tetap miliknya.
 
-Pintu tua itu terbuka tanpa suara. Aula delapan puluh kali tiga puluh terbentang di baliknya, datar, putih oleh endapan garam, dan di tengahnya retakan besar menyala redup seperti bara yang dikubur tapi tidak mau mati.
+Pintu tua itu terbuka tanpa suara. Aula delapan puluh kali tiga puluh terbentang di baliknya, datar, putih oleh endapan garam, dan di tengahnya retakan besar menyala redup seperti bara yang dikubur tetapi tidak mau mati.
 
 Retakan itu menunggunya. Ia bisa merasakan penantian itu sejak ambang pintu — bukan sebagai bunyi, melainkan sebagai arah: seluruh ruangan sedikit condong ke tengah, seperti telinga.
 
@@ -83,7 +83,7 @@ Dan menambang arsip ini berarti satu hal yang tidak boleh dilakukan: memperlebar
 
 Retakan berdenyut sekali — pelan, hati-hati, seperti orang mengetuk pintu tetangga — dan mengulang tawarannya. Satu kata lagi. Nama itu lagi, lebih lembut, lebih dekat, digulung di akustik seribu tahun seperti sesuatu yang sudah lama disiapkan untuk diberikan.
 
-Nalurinya sempat membentuk jawaban itu — nama yang dipanggil harus dijawab. Itulah tata krama istana, itulah hukum Name, itulah cara dunia dulu bekerja sebelum dunia belajar mengutuknya.
+Nalurinya sempat membentuk jawaban itu — *nama yang dipanggil harus dijawab*. Itulah tata krama istana, itulah hukum Name, itulah cara dunia dahulu bekerja sebelum dunia belajar mengutuknya.
 
 Ia memotong refleks itu di tengah tenggorokan.
 

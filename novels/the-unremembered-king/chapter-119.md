@@ -7,7 +7,7 @@ Sela tidur malam itu dengan kepala yang penuh enam syarat dan satu kata kepingan
 
 Mimpinya datang seperti biasa, tanpa pintu dan tanpa undangan.
 
-Lorong gelap itu sudah menjadi kenalan lamanya. Dinding-dinding batu yang basah, lampu-lampu yang mati di jarak yang sama satu sama lain, udara yang dingin tapi tidak kejam. Dan di tengah lorong, seperti selalu, ash man. Ia berdiri dengan punggung setengah menghadapnya, dan Sela sudah hafal urutan mimpinya dari luar kepala. Ash Man akan menghitung orang. Satu, dua, tiga, sampai angka dua belas, lalu diam lama di situ seperti menimbang sesuatu, lalu pada malam yang mengubah segalanya ia berbalik dan menunjukkan wajah kakaknya.
+Lorong gelap itu sudah menjadi kenalan lamanya. Dinding-dinding batu yang basah, lampu-lampu yang mati di jarak yang sama satu sama lain, udara yang dingin tetapi tidak kejam. Dan di tengah lorong, seperti selalu, ash man. Ia berdiri dengan punggung setengah menghadapnya, dan Sela sudah hafal urutan mimpinya dari luar kepala. Ash Man akan menghitung orang. Satu, dua, tiga, sampai angka dua belas, lalu diam lama di situ seperti menimbang sesuatu, lalu pada malam yang mengubah segalanya ia berbalik dan menunjukkan wajah kakaknya.
 
 Malam ini ash man tidak menghitung.
 
@@ -15,7 +15,7 @@ Sela menyadari perubahan itu sebelum apa pun yang lain, cara anak yang menghafal
 
 Sela ingin memanggilnya, dan seperti selalu dalam mimpi ini suaranya tidak keluar.
 
-Ash Man berhenti di depan bentuk pertama. Orang itu tidak jelas wajahnya, tetapi jelas sikap tubuhnya, yaitu sikap orang yang sudah lama berdiri di tempat gelap sampai lupa bahwa ada tempat lain. Ash Man meletakkan tangannya di pundak orang itu, membalikkan badannya dengan gerakan yang sabar, dan mengarahkannya ke arah Sela, ke arah ujung lorong tempat udara lebih hangat dan ada bunyi yang tidak bisa dinamai mimpi tapi dikenali sebagai dapur. Orang itu mulai berjalan. Ash Man kembali masuk.
+Ash Man berhenti di depan bentuk pertama. Orang itu tidak jelas wajahnya, tetapi jelas sikap tubuhnya — yaitu sikap orang yang sudah lama berdiri di tempat gelap sampai lupa bahwa ada tempat lain. Ash Man meletakkan tangannya di pundak orang itu, membalikkan badannya dengan gerakan yang sabar, dan mengarahkannya ke arah Sela, ke arah ujung lorong tempat udara lebih hangat dan ada bunyi yang tidak bisa dinamai mimpi tetapi dikenali sebagai dapur. Orang itu mulai berjalan. Ash Man kembali masuk.
 
 Bentuk kedua. Sentuhan di pundak. Balikan badan. Arahan pelan ke arah terang.
 
@@ -31,9 +31,9 @@ Hitungan naik satu lagi, dan tidak berhenti di angka mana pun.
 
 ---
 
-Sela bangun dengan mata terbuka dan jantung yang berjalan cepat tapi tidak panik.
+Sela bangun dengan mata terbuka dan jantung yang berjalan cepat tetapi tidak panik.
 
-Hal pertama yang ia lakukan adalah pekerjaan yang sudah menjadi refleks, yaitu mendengarkan. Lampu barak menyala kuning seperti biasa. Seseorang mendengkur di bilik sebelah. Lonceng pergantian jaga belum berbunyi, dan tidak ada sunyi mana pun yang datang ke ruangan ini, sunyi yang datang selalu punya cara memasuki telinga yang berbeda dari diam biasa. Tidak ada panggilan darurat. Tidak ada nama yang rontok. Mimpi itu hanya mimpi, dan janji satu pertanyaannya menunggu kejadian yang sungguhan, bukan gambar-gambar yang datang saat matanya tertutup.
+Hal pertama yang ia lakukan adalah pekerjaan yang sudah menjadi refleks — yaitu mendengarkan. Lampu barak menyala kuning seperti biasa. Seseorang mendengkur di bilik sebelah. Lonceng pergantian jaga belum berbunyi, dan tidak ada sunyi mana pun yang datang ke ruangan ini, sunyi yang datang selalu punya cara memasuki telinga yang berbeda dari diam biasa. Tidak ada panggilan darurat. Tidak ada nama yang rontok. Mimpi itu hanya mimpi, dan janji satu pertanyaannya menunggu kejadian yang sungguhan, bukan gambar-gambar yang datang saat matanya tertutup.
 
 Ia tetap bangun, duduk di tepi ranjangnya, dan mencatat isi mimpi itu di kepalanya dengan disiplin pencatat yang dilatih hampir dua tahun, karena mimpi yang berubah arti adalah data, dan data yang tidak dicatat segera akan berubah cerita, dan cerita yang berubah sendiri-sendiri adalah barang palsu. Ash Man tidak lagi menghitung. Ash Man membawa orang keluar. Hitungan naik tanpa berhenti. Wajahnya wajah Kak Renn dengan lelah yang berbeda. Dan di ujung lorong, orang terakhir yang dibawanya keluar memakai ikat rambut dan membawa papan tulis.
 
@@ -59,7 +59,7 @@ Perempuan tua itu mendengus pelan yang bisa berarti apa saja, dan Sela naik kemb
 
 Pagi harinya sekolah klinik berjalan seperti biasa, dengan sembilan belas kursi yang tidak pernah genap karena anak-anak datang sesuai shift orang tua mereka, dan Harn yang tiba paling awal sambil membawa tumpukan lembar latihan kontrak hasil tulisan tangan Kel Tharrow.
 
-"Non Maera bilang pasal delapan belas boleh dipakai kalau penjual tidak beritahu cacat," kata Harn, meletakkan lembarannya di atas meja klinik dengan gaya orang yang mengutip hukum sebelum sarapan. "Tapi pasal delapan belas tidak bilang apa yang harus dilakukan kalau penjualnya juga bodoh."
+"Non Maera bilang pasal delapan belas boleh dipakai kalau penjual tidak beritahu cacat," kata Harn, meletakkan lembarannya di atas meja klinik dengan gaya orang yang mengutip hukum sebelum sarapan. "Namun pasal delapan belas tidak bilang apa yang harus dilakukan kalau penjualnya juga bodoh."
 
 "Kalau penjualnya juga bodoh, yang rugi dua-duanya, maka tugasmu membuat salah satunya jadi tidak bodoh." Sela menyusun lembar-lembar itu. "Kenapa kau mulai dari pasal cacat, bukan pasal bayar?"
 
@@ -91,4 +91,4 @@ Ia memegang kapurnya sebentar di atas halaman itu, lalu menulis satu baris saja,
 
 "Hitungan tidak berhenti lagi."
 
-Ia menatap tulisan itu sampai lilin di rak sebelah bergemetar, lalu memadamkan lilinnya dan pergi tidur. Di kedalaman barak, di lorong-lorong yang tidak pernah masuk mimpi siapa pun dengan benar, entah siapa yang malam ini sedang membawa orang keluar dan entah ke mana hitungan itu menuju, tetapi bocah pencatat distrik timur sudah melakukan satu-satunya hal yang sanggup ia lakukan terhadap kabar baik yang datang lewat pintu mimpi, yaitu menuliskannya dengan benar dan tidak membangunkan siapa pun untuk menanyakannya.
+Ia menatap tulisan itu sampai lilin di rak sebelah bergemetar, lalu memadamkan lilinnya dan pergi tidur. Di kedalaman barak, di lorong-lorong yang tidak pernah masuk mimpi siapa pun dengan benar, entah siapa yang malam ini sedang membawa orang keluar dan entah ke mana hitungan itu menuju, tetapi bocah pencatat distrik timur sudah melakukan satu-satunya hal yang sanggup ia lakukan terhadap kabar baik yang datang lewat pintu mimpi — yaitu menuliskannya dengan benar dan tidak membangunkan siapa pun untuk menanyakannya.

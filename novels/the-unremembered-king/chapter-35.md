@@ -7,7 +7,7 @@ Hari keempat puluh empat, sore, lorong sembilan bawah. Ashvarok berlutut di depa
 
 Bukan menghitung sayatannya. Menghitung jarak antar sayatan.
 
-Tujuh bekas panen tersusun sepanjang seam seperti tulisan pada gulungan yang dibaca dari kanan ke kiri: yang paling tua mengeras oleh endapan garam, yang termuda masih menyimpan semburat hangat samar di dalam urat batunya. Ia meletakkan telapak kanan di atas masing-masing satu per satu, membaca usia lewat sisa getar yang belum padam, dan mencatat angka-angkanya di kepala dengan cara yang dulu ia pakai memeriksa laporan panen orang lain — pekerjaan yang dahulu ia bayari dengan gelar, dan kini ia bayari dengan lutut yang keringkontak.
+Tujuh bekas panen tersusun sepanjang seam seperti tulisan pada gulungan yang dibaca dari kanan ke kiri: yang paling tua mengeras oleh endapan garam, yang termuda masih menyimpan semburat hangat samar di dalam urat batunya. Ia meletakkan telapak kanan di atas masing-masing satu per satu, membaca usia lewat sisa getar yang belum padam, dan mencatat angka-angkanya di kepala dengan cara yang dulu ia pakai memeriksa laporan panen orang lain — pekerjaan yang dahulu ia bayari dengan gelar, dan kini ia bayari dengan lutut yang kering kontak.
 
 Sembilan hari. Sembilan hari lagi. Sembilan berikutnya. Satu jeda dua belas — musim hujan abu, kemungkinan, atau sakit — lalu sembilan hari lagi, dan yang terakhir: delapan hari, hitungan itu sudah jatuh tempo tiga malam silam.
 
@@ -65,15 +65,15 @@ Mereka menunggu sampai sayatan itu tuntas — sampai bunyi inti dipisahkan dari 
 
 Baru kemudian lorong itu runtuh ke atasnya.
 
-Brannoc bergerak seperti air bah: tidak cepat secara teatrikal, tapi tak bisa ditahan, dua hasta balast dilewati tanpa bunyi yang pantas untuk ukurannya, dan tangan-tangan mantan prajurit itu menemukan leher dan mulut orangnya dalam satu tarikan. Pria itu melawan dengan kepanikan pekerja yang kuat, bukan pejuang — tumitnya menghantam batu, pinggulnya memutar —
+Brannoc bergerak seperti air bah: tidak cepat secara teatrikal, tetapi tak bisa ditahan, dua hasta balast dilewati tanpa bunyi yang pantas untuk ukurannya, dan tangan-tangan mantan prajurit itu menemukan leher dan mulut orangnya dalam satu tarikan. Pria itu melawan dengan kepanikan pekerja yang kuat, bukan pejuang — tumitnya menghantam batu, pinggulnya memutar —
 
 — dan ia menarik napas untuk berteriak.
 
-Ashvarok sudah bergerak sebelum napas itu penuh. Jalur parut kanannya terbuka, untaian Ash keluar setipis dan sekecil yang bisa ia paksa: bukan angin, bukan api, hanya kekosongan kecil yang diletakkkan tepat di tenggorokan teriakan itu, memakan gemanya di tempat lahir sehingga yang lolos dari bibir hanyalah desah mati yang tidak sanggup berkelana ke lorong mana pun. Harga datang seketika. Abu tipis berjatuhan dari kekosongan itu, kelabu, hangat sebentar di udara dingin sebelum mendarat di lantai batu di antara kaki mereka — abu yang mengingat nada suara pria itu, mengingat ketakutannya, dan akan menunggu di sana sampai mata yang tahu datang membaca. Mati rasa menjalar di sepanjang urat parut kanan, dingin dan pasti, satu langkah lagi menuju siku.
+Ashvarok sudah bergerak sebelum napas itu penuh. Jalur parut kanannya terbuka, untaian Ash keluar setipis dan sekecil yang bisa ia paksa: bukan angin, bukan api, hanya kekosongan kecil yang diletakkan tepat di tenggorokan teriakan itu, memakan gemanya di tempat lahir sehingga yang lolos dari bibir hanyalah desah mati yang tidak sanggup berkelana ke lorong mana pun. Harga datang seketika. Abu tipis berjatuhan dari kekosongan itu, kelabu, hangat sebentar di udara dingin sebelum mendarat di lantai batu di antara kaki mereka — abu yang mengingat nada suara pria itu, mengingat ketakutannya, dan akan menunggu di sana sampai mata yang tahu datang membaca. Mati rasa menjalar di sepanjang urat parut kanan, dingin dan pasti, satu langkah lagi menuju siku.
 
-Pria itu limp dalam genggaman Brannoc seperti karung yang talinya dipotong.
+Pria itu lemas dalam genggaman Brannoc seperti karung yang talinya dipotong.
 
-"Selesai satu sayatan," bisik Brannoc, napasnya pendek tapi teratur. "Hidup. Masih hidup."
+"Selesai satu sayatan," bisik Brannoc, napasnya pendek tetapi teratur. "Hidup. Masih hidup."
 
 "Bagus." Ashvarok menunduk ke arah lantai, menemukan letak abu kelabu itu dengan jemarinya, dan menyapunya perlahan-lahan ke telapak tangannya sendiri dengan gerakan orang mengumpulkan garam yang tumpah. Tidak ada sapu iji di kedalaman ini. Abu itu harus ikut mereka keluar, seluruhnya, dan dibawa ke tempat yang tidak akan pernah dibaca siapa pun.
 
@@ -89,9 +89,9 @@ Pria itu mengangguk dengan cepat. Usianya mungkin tiga puluhan. Tangannya kasar 
 
 "Siapa yang mengirimmu."
 
-Tidak ada jawaban. Brannoc mengetatkan pegangannya sedikit, dan pria itu bergidik.
+Tidak ada jawaban. Brannoc mengencangkan pegangannya sedikit, dan pria itu bergidik.
 
-"Aku tidak tahu namanya," kata pria itu cepat. "Itu benar, itu benar semua. Aku kontraktor. Bayaran per inti, inti kecil, disetor ke aku lewat—" napasnya tersengal, "—lewat kurir. Kurir yang sama sejak awal. Wajahnya selalu wajah yang sama, aku kenal kalau lihat, tapi dia tidak pernah bicara sama sekali. Tidak satu kata. Dia hanya nunjuk jumlah di kertas, aku angkat jari setuju, dia taruh kantong shardmark, selesai."
+"Aku tidak tahu namanya," kata pria itu cepat. "Itu benar, itu benar semua. Aku kontraktor. Bayaran per inti, inti kecil, disetor ke aku lewat—" napasnya tersengal, "—lewat kurir. Kurir yang sama sejak awal. Wajahnya selalu wajah yang sama, aku kenal kalau lihat, tetapi dia tidak pernah bicara sama sekali. Tidak satu kata. Dia hanya nunjuk jumlah di kertas, aku angkat jari setuju, dia taruh kantong shardmark, selesai."
 
 "Kapan terakhir kurirmu muncul."
 
@@ -127,7 +127,7 @@ Menyerahkan pria ini kepada siapa pun adalah membakar surat sebelum dibaca. Kepa
 
 "Itu benar?" pria itu bertanya, pelan.
 
-"Kalau bukan benar, apa yang mereka rugikan dengan percaya?"
+"Kalau bukan benar, apa ruginya mereka percaya?"
 
 Troli pengangkut kosong datang dengan derit yang bisa didengar dari tiga lorong. Brannoc menyorongkan pria itu ke dalam bak troli seperti memuat karung beras yang sah — pekerja shift malam yang pulang, tidak lebih — dan tali penarik di atas mulai berdenyut. Pria itu tidak menoleh sekali pun. Orang yang diberi izin hidup jarang menoleh.
 
@@ -139,6 +139,6 @@ Troli pengangkut kosong datang dengan derit yang bisa didengar dari tiga lorong.
 
 Subuh hari keempat puluh lima turun ke Caldrest sebagai warna kelabu yang dingin di mulut lubang tambang, dan lonceng shift pertama berbunyi tepat seperti setiap subuh lain — dunia permukaan tidak tahu apa-apa, dan itulah rancangannya. Di stasiun angkut, regu pagi menerima troli-troli pertama: bijih, balast, satu troli kosong berisi seorang pekerja yang mengaku tertinggal shift dan membayar dendamnya dengan uang pribadi, cerita yang terlalu membosankan untuk diingat siapa pun sampai malam.
 
-Ashvarok menyaksikan dari celah gudang pengangkutan, di kegelapan yang belum sepenuhnya kalah oleh subuh, dan tidak dihitung oleh siapa pun. Jauh di bawah, lorong B menunggu tim Assayers' Guild yang akan turun beberapa jam lagi untuk membaca titik-titik atas yang memang boleh jujur. Di saku jaket Brannoc, dua lilin threaded with tin kini tidur berdampingan — satu tua berumur empat puluh hari, satu baru dipanen dari kantong seorang tukang potong yang hidup karena berguna.
+Ashvarok menyaksikan dari celah gudang pengangkutan, di kegelapan yang belum sepenuhnya kalah oleh subuh, dan tidak dihitung oleh siapa pun. Jauh di bawah, lorong B menunggu tim Assayers' Guild yang akan turun beberapa jam lagi untuk membaca titik-titik atas yang memang boleh jujur. Di saku jaket Brannoc, dua lilin bertanda tin thread kini tidur berdampingan — satu tua berumur empat puluh hari, satu baru dipanen dari kantong seorang tukang potong yang hidup karena berguna.
 
 Abu di telapak tangannya belum sempat disapu ke mana pun. Ia menggenggamnya lebih erat, merasakan sisa hangatnya padam satu per satu, dan mulai menghitung jam sampai kurir yang tak pernah bicara dipaksa bergerak oleh sebuah tanggal yang tidak pernah ada.

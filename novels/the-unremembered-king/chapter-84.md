@@ -3,7 +3,7 @@ title: "Bab 84: Pintu Buang"
 chapter: 84
 ---
 
-Malam hari keseratus delapan seharusnya menjadi malah yang murah. Giliran undian inspeksi ventilasi jatuh pada regu kecil dengan daftar tugas yang pendek, dan Ashvarok turun sebagai pendamping seperti biasa, dengan tubuh yang masih terasa dikosongkan dua malam penempaan tapi sudah cukup isi untuk pekerjaan menyentuh batu dan mendengarkan.
+Malam hari keseratus delapan seharusnya menjadi malah yang murah. Giliran undian inspeksi ventilasi jatuh pada regu kecil dengan daftar tugas yang pendek, dan Ashvarok turun sebagai pendamping seperti biasa, dengan tubuh yang masih terasa dikosongkan dua malam penempaan tetapi sudah cukup isi untuk pekerjaan menyentuh batu dan mendengarkan.
 
 Batu tidak mendengarkan balik. Batu mengerang.
 
@@ -29,7 +29,7 @@ Teriakan mereka tidak sampai utuh melalui tumpukan. Yang sampai hanya ketukan �
 
 Brannoc sudah di sampingnya dengan lentera padam dan suara yang turun ke register prajurit. "Berapa lama tumpukan itu mau bertahan?"
 
-"Tidak akan bertahan." Ashvarok sudah meraba dinding, membaca serat retakan dengan jari-jari yang tahu jalanannya lebih baik daripada mata. Balok induk tertahan oleh dua penyangga pecahan dan kebiasaan batu yang berumur. Satu lagi tarikan getaran, atau satu lagi tetes air dari rembesan, dan sisa lorong ikut runtuh — beserta ceruk tempat empat orang itu berlindung, beserta jalur ke rembesan di bawah. "Tapi bisa dibuat bertahan. Mundurkan regu ke persimpangan. Semua orang. Kalau aku pingsan, jangan ada yang menyentuhku sampai debunya turun."
+"Tidak akan bertahan." Ashvarok sudah meraba dinding, membaca serat retakan dengan jari-jari yang tahu jalanannya lebih baik daripada mata. Balok induk tertahan oleh dua penyangga pecahan dan kebiasaan batu yang berumur. Satu lagi tarikan getaran, atau satu lagi tetes air dari rembesan, dan sisa lorong ikut runtuh — beserta ceruk tempat empat orang itu berlindung, beserta jalur ke rembesan di bawah. "Namun bisa dibuat bertahan. Mundurkan regu ke persimpangan. Semua orang. Kalau aku pingsan, jangan ada yang menyentuhku sampai debunya turun."
 
 "Ashvarok—"
 
@@ -71,7 +71,7 @@ Ia terbangun bukan di barak, melainkan di perjalanan menuju barak — digendong 
 
 "Sudah kulihat garisnya waktu kau masih pingsan. Sampai tengah lengan." Brannoc mengubah pegangan tangannya, hati-hati, seperti memindahkan barang yang nilainya tidak bisa dinilai. "Sela belum ukur. Dia menunggu kamu sadar. Bilangnya, dan ini kata-katanya persis: dia tidak mencatat angka yang dia dapat dari orang tidur."
 
-Mereka keluar ke udara malam yang berbau abu dan antrean santunan yang sudah lama bubar. Di ambang pintu barak, ibu Tamma menunggu dengan air hangat dan wajah yang tidak bertanya apa pun. Di dalam, Sela menunggu dengan papan tulisnya, kapur baru, dan mata yang merah tapi tangan yang tidak gemetar sama sekali.
+Mereka keluar ke udara malam yang berbau abu dan antrean santunan yang sudah lama bubar. Di ambang pintu barak, ibu Tamma menunggu dengan air hangat dan wajah yang tidak bertanya apa pun. Di dalam, Sela menunggu dengan papan tulisnya, kapur baru, dan mata yang merah tetapi tangan yang tidak gemetar sama sekali.
 
 Ukurannya dilakukan dengan lampu kecil dan dua jari yang tahu jalannya. Lama. Lebih lama dari biasanya. Ketika selesai, Sela membersihkan kapur di papan tulisnya, menulis tanggal, lalu menulis angka itu — setengah lengan — dengan huruf yang sama tegaknya seperti menulis cuaca.
 

@@ -5,7 +5,7 @@ chapter: 281
 
 Kabar itu datang pada pagi berkabut, lewat jalur yang sudah tiga kali membawa pesan penting ke barak utara: kurir nat tertua.
 
-Tapi iramanya berbeda.
+Namun iramanya berbeda.
 
 Delapan bulan silam, irama yang sama membawa kabar sakit — pelan, hati-hati, seperti orang melaporkan cuaca yang belum pasti. Kali ini iramanya tenang. Selesai. Dan karena itu, bagi semua pendengar alami Karvess, lebih berat dari kabar apa pun.
 
@@ -15,7 +15,7 @@ Pembaca Tua wafat sebelum subuh, dalam tidurnya, di kamar menara arsip biara bar
 
 Ia meninggalkan tiga wasiat. Semuanya singkat, sesuai hidupnya.
 
-Wasiat pertama: seluruh arsip jabatan — empat puluh generasi rekaman kematian api, salinan-salinan diam, kotak pertanyaan dua belas gulungan — diwariskan bukan kepada penerus jabatannya (yang sudah pensiun), tapi kepada Akademi Arsip the Quiet Vein. "Karena arsip diam sudah selesai bekerja. Sekarang ia harus belajar tinggal di tempat yang bicara."
+Wasiat pertama: seluruh arsip jabatan — empat puluh generasi rekaman kematian api, salinan-salinan diam, kotak pertanyaan dua belas gulungan — diwariskan bukan kepada penerus jabatannya (yang sudah pensiun), tetapi kepada Akademi Arsip the Quiet Vein. "Karena arsip diam sudah selesai bekerja. Sekarang ia harus belajar tinggal di tempat yang bicara."
 
 Wasiat kedua: semua buku milik pribadinya dibagikan kepada murid-murid Sekolah Mendengar cabang terdekat, "supaya anak-anak tahu bahwa orang tua punya masa muda yang juga bingung".
 
@@ -25,7 +25,7 @@ Dan wasiat ketiga — satu kalimat, ditulisan tangan yang sudah goyah:
 
 ---
 
-Rapat keluarga the Quiet Vein untuk pengantaran digelar siang itu, dan keputusannya tidak butuh rapat sama sekali — tapi tetap digelar, karena aturan dapur: jangan ambil keputusan besar sendirian, dan jangan perjalanan besar tanpa ibu Tamma ikut campur soal bekalnya.
+Rapat keluarga the Quiet Vein untuk pengantaran digelar siang itu, dan keputusannya tidak butuh rapat sama sekali — tetapi tetap digelar, karena aturan dapur: jangan ambil keputusan besar sendirian, dan jangan perjalanan besar tanpa ibu Tamma ikut campur soal bekalnya.
 
 Yang berangkat: Ashvarok-Renn, Sela, dan Barim. Pilihan yang oleh Sela dicatat di arsip dengan penjelasan yang setengah lucu setengah benar: "Arsiparis (karena wasiatnya soal arsip), pendengar (karena yang wafat adalah penjaga mendengarkan), dan raja (karena yang wafat adalah orang pertama yang memverifikasinya secara resmi). Plus sup kering dua belas hari, karena ibu Tamma tidak percaya hitungan Kovan soal durasi duka."
 
@@ -33,7 +33,7 @@ Sebelum berangkat, satu tamu datang ke barak: murid Maera — kepala Lengan Mend
 
 Gambar telinga terbuka di atas buku tertutup.
 
-"Mereka bilang," kata perempuan muda itu, "jabatan pamannya selesai. Tapi cara kerjanya jadi mata pelajaran."
+"Mereka bilang," kata perempuan muda itu, "jabatan pamannya selesai. Namun cara kerjanya jadi mata pelajaran."
 
 ---
 
@@ -50,13 +50,13 @@ Di biara barat, jenazah laki-laki tua itu sudah disiapkan sesuai permintaannya: 
 
 "Katanya," kata kepala biara muda yang menggantikan jabatannya, "tambalan itu bukti dia pernah bekerja cukup lama sampai bajunya kalah."
 
-Pengiriman ke Vhal-Duren dilakukan dengan formasi yang oleh Ashvarok-Renn disusun ulang dari protokol musim: bukan tiga pendengar dan lilin, tapi empat orang pengangkut bergantian (Ashvarok-Renn, Sela, Barim, dan kepala biara muda yang meminta ikut), satu nat pengiring lewat jalur tanah, dan satu aturan baru yang dibuat Sela khusus untuk perjalanan ini:
+Pengiriman ke Vhal-Duren dilakukan dengan formasi yang oleh Ashvarok-Renn disusun ulang dari protokol musim: bukan tiga pendengar dan lilin, tetapi empat orang pengangkut bergantian (Ashvarok-Renn, Sela, Barim, dan kepala biara muda yang meminta ikut), satu nat pengiring lewat jalur tanah, dan satu aturan baru yang dibuat Sela khusus untuk perjalanan ini:
 
 *Setiap kali rombongan berhenti beristirahat, bacakan satu cerita tentang yang wafat. Supaya ia tidak menempuh perjalanan terakhirnya sebagai nama asing.*
 
 Maka perjalanan dua hari ke dataran tinggi berlangsung seperti karavan cerita. Barim menceritakan kunjungan pertamanya ke Caldrest — bagaimana ia menolak semua kemewahan dan memilih tidur di ruang tunggu pos, "karena kursi menunggu lebih jujur daripada tempat tamu". Sela menceritakan lima menit percakapan terakhir mereka di ruang arsip barak, yang isinya hampir semuanya soal dapur-dapur sejarah. Ashvarok-Renn menceritakan hal yang tidak pernah ia ceritakan ke siapa pun:
 
-"Malam pembacaan," katanya, saat api unggun kecil rendah. "Kalian semua pikir aku datang sebagai pendengar ke-1001. Sebagian benar. Tapi ada alasan lain: aku ingin melihat wajah orang yang delapan tahun silam menulis surat wasiat untukku — orang yang menyimpan nadaku sepuluh abad tanpa pernah tahu namaku — ketika dunia akhirnya memberinya tepuk tangan. Ia tidak menunggu tepuk tangannya. Tapi pantas ia melihatnya sekali."
+"Malam pembacaan," katanya, saat api unggun kecil rendah. "Kalian semua pikir aku datang sebagai pendengar ke-1001. Sebagian benar. Namun ada alasan lain: aku ingin melihat wajah orang yang delapan tahun silam menulis surat wasiat untukku — orang yang menyimpan nadaku sepuluh abad tanpa pernah tahu namaku — ketika dunia akhirnya memberinya tepuk tangan. Ia tidak menunggu tepuk tangannya. Namun pantas ia melihatnya sekali."
 ---
 
 Mereka tiba di Vhal-Duren pada sore hari ketujuh — dan pos pendengar itu menyambut rombongan pemakaman dengan cara yang membuat semua orang berhenti di tepi reruntuhan:
@@ -71,7 +71,7 @@ Di sisi timurnya — persis menghadap arah yang diminta delapan tahun silam — 
 
 "DIA TIDAK PERNAH BILANG APA-APA ADALAH PERMINTAAN," jawab batu bundar itu. "ITU CARA KERJA ORANG-ORANG SEPERTI KAMI. MAKA PEKERJAAN KALIAN YANG HIDUP: MENEBAK."
 
-Pemakaman dilakukan esok subuh, sederhana sesuai wasiat: tanpa upacara panjang, tanpa gelar-gelar. Tubuh laki-laki tua itu ditempatkan di tanah timur yang sudah menunggunya. Batu nesaninya dibuat Ashvarok-Renn sendiri dengan Forge — bukan matriks megah Hegemony, hanya sebuah batu kecil biasa sebesar kepala orang dewasa, diberi umur sungguhan agar bertahan sepuluh abad lagi, dengan satu baris tulisan tangan Sela diukir di permukaannya:
+Pemakaman dilakukan esok subuh, sederhana sesuai wasiat: tanpa upacara panjang, tanpa gelar-gelar. Tubuh laki-laki tua itu ditempatkan di tanah timur yang sudah menunggunya. Batu nisannya dibuat Ashvarok-Renn sendiri dengan Forge — bukan matriks megah Hegemony, hanya sebuah batu kecil biasa sebesar kepala orang dewasa, diberi umur sungguhan agar bertahan sepuluh abad lagi, dengan satu baris tulisan tangan Sela diukir di permukaannya:
 
 *DI SINI TIDUR ORANG YANG MENUNGGU DIDENGARKAN.*
 
@@ -81,7 +81,7 @@ Lalu name train pertama untuknya naik dari empat telapak tangan yang menyentuh t
 
 Nama yang selama delapan puluh tahun disembunyikan jabatannya.
 
-Nama yang oleh Sela akhirnya boleh ditulis di arsip resmi, karena jabatan Pembaca Tua telah resmi berakhir dan segala rahasiaanya menjadi milik dunia.
+Nama yang oleh Sela akhirnya boleh ditulis di arsip resmi, karena jabatan Pembaca Tua telah resmi berakhir dan segala rahasianya menjadi milik dunia.
 
 Dan nama itu — kata Barim yang menerjemahkan irama balasan dari semua nat — oleh batu-batu disambut dengan kalimat yang sama:
 
@@ -108,10 +108,10 @@ Sela menutup arsip perjalanannya dengan entri terakhir:
 
 *Arsip hati bertambah satu dokumen. Isinya hanya satu kalimat dari ibu Tamma, soal kaleng tabungan sup yang akhirnya habis dipakai untuk roti murid-murid:*
 
-*"Beliau naik juga ternyata. Cuma lewat jalur nat."*
+*"Beliau naik juga ternyata. Hanya lewat jalur nat."*
 ---
 
-Perjalanan pulang memakan empat hari, dan di setiap kamp yang dilewati, kabar pemakaman itu sudah tiba lebih dulu lewat jalur nat — bukan sebagai berita duka, tapi sebagai cerita: cerita tentang penjaga diam yang akhirnya bicara, tentang kotak pajak dan nada curian, tentang batu kecil menghadap timur.
+Perjalanan pulang memakan empat hari, dan di setiap kamp yang dilewati, kabar pemakaman itu sudah tiba lebih dulu lewat jalur nat — bukan sebagai berita duka, tetapi sebagai cerita: cerita tentang penjaga diam yang akhirnya bicara, tentang kotak pajak dan nada curian, tentang batu kecil menghadap timur.
 
 Di kamp ketiga, seorang nenek menyiapkan tempat tidur tamu ekstra tanpa ditanya, karena "rombongan pengantar pasti capek". Di kamp kelima, kepala kamp menyodori Barim satu gulungan kecil: cerita lama wilayahnya tentang "orang biara barat yang pernah membantu melacak anak hilang tiga puluh tahun silam, tak mau disebut namanya" — cerita yang baru kini bisa dihubungkan dengan pemiliknya.
 
@@ -125,6 +125,6 @@ Mereka bercerita sampai larut. Dan ketika semua selesai, Wida menambahkan satu h
 
 *Hari 848. Pos ini menerima kabar: sahabat kami dari biara barat sudah tiba di Vhal-Duren. Semua jalur aman. Semua nat bersiap menyanyikan namanya tiap pagi.*
 
-*Ditambahkan ke daftar resmi pos: SATU ORANG BARU YANG TIDAK AKAN DATANG LAGI, TAPI ALAMATNYA SEKARANG JELAS.*
+*Ditambahkan ke daftar resmi pos: SATU ORANG BARU YANG TIDAK AKAN DATANG LAGI, NAMUN ALAMATNYA SEKARANG JELAS.*
 
 *Kabar untuk para pendengar muda: begitu rupanya pekerjaan kita kalau dilakukan sampai tuntas. Orang-orang tidak hilang. Mereka pindah ke alamat yang bisa dikunjungi lewat lagu.*

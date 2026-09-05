@@ -45,7 +45,7 @@ Mira menutup buku kecilnya. Ia mengetuk tiga kali ke lantai kafilah, diam satu h
 
 "Angin di bukit ini tahu arah lain," kata Maera. "Menara memaksanya lewat satu celah. Di buka, ia bebas. Kau merasakannya karena kulitmu sudah belajar irama menara. Bukan karena katup di sini."
 
-"Tapi ia berbalik."
+"Namun ia berbalik."
 
 "Di menara pun ia berbalik hanya sebentar. Yang kau bawa ke Spire bukan keajaiban. Yang kau bawa adalah catatan bahwa ia berbalik, dan hanya kau yang mencatatnya. Itu cukup."
 
@@ -151,7 +151,7 @@ Pria itu menulis. "Dan arah angin saat tiga napas itu?"
 
 "Sepelan satu napas. Lalu kembali."
 
-Perempuan tua di sudut mengangguk sekilas. Satu gerakan kecil, nyaris tidak terlihat, seolah angka yang Mira ucapkan cocok dengan sesuatu yang sudah ia baca di baris bawah.
+Perempuan tua di sudut mengangguk sekilas. Satu gerakan kecil, nyaris tidak terlihat — seolah angka yang Mira ucapkan cocok dengan sesuatu yang sudah ia baca di baris bawah.
 
 "Kau merasakan angin berbalik," kata pria itu. "Mengapa hanya kau?"
 

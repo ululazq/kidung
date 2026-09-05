@@ -13,7 +13,7 @@ Lalu pada hari kedua ratus empat puluh lima, kedalaman mengirim kalimat yang mem
 
 Ashvarok sedang membaca nat barat bersama Telinga Dua ketika iramanya datang — panjang, hati-hati, disampaikan dengan struktur bahasa penjaga yang sudah jauh lebih lancar dari bulan-bulan pertama, bahasa yang kini berirama seperti orang yang sudah lama tidak perlu memikirkan cara berjalan ketika berjalan. Ia memanggil Kovan, dan penghitung itu menerjemahkannya malam itu juga, menulisnya dengan huruf besar di halaman yang nanti akan menjadi halaman paling terkenal dalam tiga jilid buku sandinya:
 
-"Tiga sudah pulang. Bagus. Tapi kau harus tahu sesuatu sebelum kalian melanjutkan." Jeda. "Yang kutitipkan itu bukan semua milik utara kalian. Ada lebih banyak dari empat ratus. Aku juga menyimpan yang LEBIH TUA — dari sebelum Hegemony, dari sebelum ordo kalian, dari zaman yang bahkan tidak kuingat kapan dimulainya. Mereka datang padaku sendiri, zaman-zaman sulit dunia, dan aku menyimpan mereka karena tidak ada tempat lain." Jeda yang sangat panjang — cukup panjang sampai Kovan menoleh ke Ashvarok untuk memastikan kalimatnya belum selesai. "Datanglah dengan hati yang besar, penjaga. Yang di dalam sini lebih banyak ceritanya dari yang kalian bayangkan."
+"Tiga sudah pulang. Bagus. Namun kau harus tahu sesuatu sebelum kalian melanjutkan." Jeda. "Yang kutitipkan itu bukan semua milik utara kalian. Ada lebih banyak dari empat ratus. Aku juga menyimpan yang LEBIH TUA — dari sebelum Hegemony, dari sebelum ordo kalian, dari zaman yang bahkan tidak kuingat kapan dimulainya. Mereka datang padaku sendiri, zaman-zaman sulit dunia, dan aku menyimpan mereka karena tidak ada tempat lain." Jeda yang sangat panjang — cukup panjang sampai Kovan menoleh ke Ashvarok untuk memastikan kalimatnya belum selesai. "Datanglah dengan hati yang besar, penjaga. Yang di dalam sini lebih banyak ceritanya dari yang kalian bayangkan."
 
 Kovan meletakkan kapurnya. Menghapus. Menulis lagi. Menghapus lagi.
 
@@ -29,7 +29,7 @@ Ashvarok membaca ulang terjemahan itu sendiri, pelan, dua kali — dan pada baca
 
 Rapat Rumah Besar kedua digelar subuh harinya — dan kali ini meja panjang tidak cukup lagi tanpa tambahan bangku. Kabar bocor dari registri sebelum subuh; ibu Tamma tiba membawa sup untuk semua orang dan pernyataan resmi bahwa dapur aula "dari sekarang masuk anggaran tetap".
 
-Yang pertama bicara bukan guru atau pejabat, melainkan Tovik — the Hollowed yang telah pulih parsial, yang delapan bulan silam adalah nama tanpa ingatan dan kini bisa berdiri di rapat dengan namanya sendiri. "Aku mau bilang satu hal," katanya. "Kalau ada lebih banyak dari empat ratus... mungkin ada yang seperti aku di bawah sana. Yang hilang bukan karena kebocoran besar, tapi karena dikira mati di lorong sempit, atau lari dari utang, atau hanya pergi beli benang dan tidak pulang." Ia memandang meja panjang itu. "Orang-orang yang tidak ada yang cari. Aku tahu rasanya jadi orang yang tidak dicari. Kalau mereka ada di sana — mereka harus masuk daftar juga."
+Yang pertama bicara bukan guru atau pejabat, melainkan Tovik — the Hollowed yang telah pulih parsial, yang delapan bulan silam adalah nama tanpa ingatan dan kini bisa berdiri di rapat dengan namanya sendiri. "Aku mau bilang satu hal," katanya. "Kalau ada lebih banyak dari empat ratus... mungkin ada yang seperti aku di bawah sana. Yang hilang bukan karena kebocoran besar, tetapi karena dikira mati di lorong sempit, atau lari dari utang, atau hanya pergi beli benang dan tidak pulang." Ia memandang meja panjang itu. "Orang-orang yang tidak ada yang cari. Aku tahu rasanya jadi orang yang tidak dicari. Kalau mereka ada di sana — mereka harus masuk daftar juga."
 
 "Masuk daftar pertama," kata Sela, sudah menulis.
 
@@ -41,7 +41,7 @@ Maera, yang pikirannya bergerak ke arah angka sebelum ke arah makna, bertanya pe
 
 Tidak ada yang bisa menjawab, jadi mereka bertanya kepada kedalaman langsung lewat nat aula. Jawabannya berupa irama yang butuh dua jam penerjemahan bersama, dan hasilnya bukan angka melainkan gambaran: gudang yang tidak berujung, rak-rak yang dibangun sendiri oleh penjaganya dari waktu ke waktu, dan irama yang diterjemahkan Sareth dengan suara yang tidak stabil: "Dia bilang... dia berhenti menghitung ribuan tahun silam. Bukan karena lupa. Karena setiap hitungan adalah nama, dan menyebut semua nama tiap hari membuatnya tidak sempat merawat apa pun."
 
-Aula itu sunyi lama. Yang akhirnya bicara adalah ibu Tamma, dari arah dapurnya: "Jadi seribu tahun tuh tidak ada yang nyebutin namanya sekali aja? Sampe dia milih berheti ngitung demi bisa menyimpan lebih baik?" Ia mengusap tangannya ke celemek. "Ya Allah. Kasian dia. Kasihan sekali."
+Aula itu sunyi lama. Yang akhirnya bicara adalah ibu Tamma, dari arah dapurnya: "Jadi seribu tahun itu tidak ada yang menyebutkan namanya sekali saja? Sampai dia memilih berhenti menghitung demi bisa menyimpan lebih baik?" Ia mengusap tangannya ke celemek. "Ya Allah. Kasian dia. Kasihan sekali."
 
 Ashvarok memandang meja panjang itu — semua wajah yang delapan bulan lalu adalah musuh, asing, atau orang yang takut — dan berkata kalimat yang menjadi arah era berikutnya:
 
@@ -57,15 +57,15 @@ Rencana sepuluh tahun disusun ulang malam itu juga — kali ini dengan kolom yan
 
 "Maka pasal lima," kata Ashvarok, "kita mencari seninya. Arsip ordo menyebut lima untaian Emberweave dan kita baru buka satu. Mungkin zaman-zaman tua punya jalurnya sendiri." Ia memandang ruangan. "the Veyl Akademie baru saja mulai merasa besar. Sekarang dia jadi kecil lagi. Bagus. Sekolah yang merasa kecil adalah sekolah yang masih belajar."
 
-"Dan pasal enam, dari dapur," kata ibu Tamma tanpa diminta. "Setiap kali kalian pulangin satu jiwa — yang lama atau yang baru, yang punya keluarga atau tidak — makan malamnya di sini. Semua ikut. Karena pulang itu harus ada supnya. Tidak ada pemulangan yang sah tanpa makan malam pertama."
+"Dan pasal enam, dari dapur," kata ibu Tamma tanpa diminta. "Setiap kali kalian pulangkan satu jiwa — yang lama atau yang baru, yang punya keluarga atau tidak — makan malamnya di sini. Semua ikut. Karena pulang itu harus ada supnya. Tidak ada pemulangan yang sah tanpa makan malam pertama."
 
 "Disetujui," kata Ashvarok segera.
 
-"Belum. Ada syaratnya." Ibu itu menyilangkan tangannya. "Kedalaman juga dapat porsinya tiap malam pemulangan. Ditaruh di nat pusat. Dia seribu tahun ngasih orang tempat pulang — dia juga harus tahu rasanya jadi bagian makan malam."
+"Belum. Ada syaratnya." Ibu itu menyilangkan tangannya. "Kedalaman juga dapat porsinya tiap malam pemulangan. Ditaruh di nat pusat. Dia seribu tahun memberi orang tempat pulang — dia juga harus tahu rasanya jadi bagian makan malam."
 
 ---
 
-Yang terakhir malam itu, seperti biasa, Ashvarok turun ke nat barat sendirian — dan menemukan tamu tua itu sudah menunggu dengan irama yang tidak pernah ia dengar sebelumnya: pelan, ganda, seperti pertanyaan yang sudah tahu jawabannya tapi tetap bertanya.
+Yang terakhir malam itu, seperti biasa, Ashvarok turun ke nat barat sendirian — dan menemukan tamu tua itu sudah menunggu dengan irama yang tidak pernah ia dengar sebelumnya: pelan, ganda, seperti pertanyaan yang sudah tahu jawabannya tetapi tetap bertanya.
 
 "Ya," kata Ashvarok, menjawabnya dengan Telinga Dua. "Kami akan datang dengan hati yang besar. Dan kau harus tahu satu hal juga — sesuatu yang belum pernah kukatakan langsung."
 
@@ -81,6 +81,6 @@ Ashvarok yang mendengarnya dari nat barat tertawa pelan di kegelapan aula, karen
 
 Sapuan menjawab dengan denyut tambahan itu lagi. Setia. Sabar.
 
-Ia akan memberitahu Sela besok pagi, dan gadis itu akan membuka halaman baru di peta nama — gerbong terakhir name train Caldrest, yang namanya belum diberikan manusia mana pun tapi sudah menjawab "ada" setiap malam selama seribu tahun. Dan untuk pertama kalinya, pekerjaan memberinya nama tidak terasa seperti memberi. Terasa seperti membalas.
+Ia akan memberitahu Sela besok pagi, dan gadis itu akan membuka halaman baru di peta nama — gerbong terakhir name train Caldrest, yang namanya belum diberikan manusia mana pun tetapi sudah menjawab "ada" setiap malam selama seribu tahun. Dan untuk pertama kalinya, pekerjaan memberinya nama tidak terasa seperti memberi. Terasa seperti membalas.
 
 Pasar Caldrest melahirkan tren baru tanpa diminta: batu-batu kecil penggorengan diukir nama singkat pemiliknya, meniru tradisi batu batas ladang utara. Nama yang melekat di pasar: "batu janji". Ossian akhirnya menulis komentar resmi pertamanya tentang budaya jalanan Karvess: "ini bukan sekadar tiruan. Bahasa ini sedang menyebar — dan penyebarannya justru sehat."

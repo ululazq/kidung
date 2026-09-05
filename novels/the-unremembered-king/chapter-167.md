@@ -7,11 +7,11 @@ Surat pertanyaan dari Spire datang pada hari kedua ratus tujuh puluh, dan Ossian
 
 Pertanyaannya ditulis dengan kejujuran administratif yang tajam: perbandingan rutin antara salinan arsip Caldrest dan pusat menemukan ketidaksinkronan pada satu item. Batang cinder-glass non-katalog nomor sita tertentu: tercatat diterima di Caldrest, tidak pernah tercatat tiba di gudang pusat, dan kini muncul dalam daftar lelang kelas tiga Guild — terjual, harga mencurigakan, pembeli penengah pasar yang dikenal. Formulir pemusnahan yang menyertainya bertanggal sebelum lelang. Barang yang sudah dimusnahkan tidak bisa dilelang. Salah satu dokumen itu bohong, dan prosedur ingin tahu yang mana.
 
-Ossian meletakkan surat itu dan memikirkan posisinya dengan jernihnya pemain catur yang baru menyadari bahwa dirinya sedang dimainkan oleh dua lawan sekaligus. Di satu sisi: Dewan Regional, mesin prosedur yang menemukan jahitan longgar dan akan menariknya sampai kertas robah atau dunia runtuh. Di sisi lain: Pembaca Tua, yang pasti — pasti — sudah tahu isi batang itu jauh sebelum formulir apa pun ditandatangani, dan yang membiarkan pertanyaan Dewan berjalan karena ingin melihat bagaimana Ossian menjawabnya.
+Ossian meletakkan surat itu dan memikirkan posisinya dengan jernihnya pemain catur yang baru menyadari bahwa dirinya sedang dimainkan oleh dua lawan sekaligus. Di satu sisi: Dewan Regional, mesin prosedur yang menemukan jahitan longgar dan akan menariknya sampai kertas robek atau dunia runtuh. Di sisi lain: Pembaca Tua, yang pasti — pasti — sudah tahu isi batang itu jauh sebelum formulir apa pun ditandatangani, dan yang membiarkan pertanyaan Dewan berjalan karena ingin melihat bagaimana Ossian menjawabnya.
 
 Jawaban jujur: aku menghancurkan seni raja untuk menyelamatkan penambal dari jabatanmu sendiri. Jawaban itu membunuh semua orang.
 
-Jawaban prosedural penuh: pemusnahan sah, lelang adalah barang berbeda, kesalahan pencatatan clerical. Jawaban itu rapuh; satu verifikasi fisik ke gudang pusat akan menemukan bahwa tidak ada abu pemusnahan yang sesuai.
+Jawaban prosedural penuh: pemusnahan sah, lelang adalah barang berbeda, kesalahan pencatatan administrasi. Jawaban itu rapuh; satu verifikasi fisik ke gudang pusat akan menemukan bahwa tidak ada abu pemusnahan yang sesuai.
 
 Ia menulis jawaban ketiga dalam dua malam, dan jawaban itu adalah mahakarya karier yang ironisnya tidak bisa ia klaim: kebenaran yang disusun ulang. Formulir pemusnahan itu sah — dan ia melampirkan surat pernyataan tambahan yang tidak wajib, yang tidak ada yang minta, yang menjelaskan bahwa batang non-katalog tersebut telah dinilai ulang Assayer Guild lokal SEBELUM pemusnahan atas dasar "nilai residu rendah, tidak layak biaya pengangkutan", dan bahwa yang dimusnahkan adalah SALAH SATU dari dua batang serupa yang masuk bersamaan, dengan nomor sita yang tertukar pada lembar penerimaan karena kesalahan tulis tangan pegawai yang kini telah dimutasi. Kesalahan pegawai yang sudah mutasi. Saksi tidak bisa dikonfirmasi. Kertas cocok dengan kertas. Dan di bawah semuanya, benar: ada dua batang. Ada nilai rendah yang dinilai Maera. Ada lelang. Hanya urutan dan identitasnya yang digeser — dan geseran itu terletak persis di area abu-abu yang tidak pernah bisa diputuskan siapa pun tanpa perjalanan sembilan hari ke Caldrest.
 
@@ -27,7 +27,7 @@ Dua pekan kemudian, jawaban itu lolos: Dewan menerima, berkas ditutup, item dico
 
 Ia menulis satu baris di buku hitamnya: "Hari 283. Dia menutup jerat dengan jerat sendiri. Hitunganku tentang dia salah lagi. Orang-orang ini berubah lebih cepat daripada bukuku."
 
-Dan di Anthema Spire, di meja yang tidak diketahui siapa yang duduk di baliknya, sebuah tangan tua membaca jawaban Ossian Vael, memutar kertasnya sekali menuju cahaya — kebiasaan pembaca yang memeriksa bukan isi tapi tekanan pena — dan membaca yang tidak ditulis: bahwa penandatangan itu takut, teliti, setia pada janji yang tidak tertulis, dan telah memilih sisi tanpa mengatakannya.
+Dan di Anthema Spire, di meja yang tidak diketahui siapa yang duduk di baliknya, sebuah tangan tua membaca jawaban Ossian Vael, memutar kertasnya sekali menuju cahaya — kebiasaan pembaca yang memeriksa bukan isi tetapi tekanan pena — dan membaca yang tidak ditulis: bahwa penandatangan itu takut, teliti, setia pada janji yang tidak tertulis, dan telah memilih sisi tanpa mengatakannya.
 
 Tangan tua itu membuat satu coretan di margin pribadinya, sandi dua alfabet mati, yang artinya kira-kira: "Yang ketiga sudah siap. Tinggalkan dia tumbuh."
 
@@ -39,11 +39,11 @@ Di Caldrest, kabar tertutupnya berkas sampai lewat tiga jalur dalam dua hari —
 
 "Jadi sekarang ada tiga hal yang tahu batang itu pernah hidup," kata Sela, menghitung di papannya. "Kita. Vael. Dan Pembaca Tua." Ia menoleh. "Empat. Juru tulis muda yang mencatat halaman terlarang — kalau dia masih menyimpannya."
 
-"Lima," kata Kovan pelan, dan semua kepala menoleh padanya. Penjaga shift itu membuka buku sandinya pada halaman yang jarang dibuka: daftar orang-orang di Spire yang pernah menyentuh berkas Orphan Murmur atau turunannya, dibaca dari stempel dan tanggal penerimaan. "Setiap dokumen yang naik ke pusat melewati lima meja sebelum arsip. Lima pegawai. Aku punya pola jam bekerja mereka dari cap-kapnya." Ia menutup buku. "Aku belum tahu siapa yang membaca apa. Tapi aku tahu jumlah pintunya."
+"Lima," kata Kovan pelan, dan semua kepala menoleh padanya. Penjaga shift itu membuka buku sandinya pada halaman yang jarang dibuka: daftar orang-orang di Spire yang pernah menyentuh berkas Orphan Murmur atau turunannya, dibaca dari stempel dan tanggal penerimaan. "Setiap dokumen yang naik ke pusat melewati lima meja sebelum arsip. Lima pegawai. Aku punya pola jam kerja mereka dari cap-kapnya." Ia menutup buku. "Aku belum tahu siapa yang membaca apa. Namun aku tahu jumlah pintunya."
 
 Ashvarok memandang tim intinya — mandor, pencatat, Assayer, Shift Guard, pejabat secte yang jauh di utara sedang menandatangani dosa untuk mereka, plus pengikat senior yang malam ini bertugas mendengarkan nat-nat barat — dan menyadari bahwa pertanyaan lama Ossian di ambang gudang, "berapa lama lagi aku harus berhenti pura-pura", baru saja mendapat jawaban yang lebih besar dari yang ditanyakan: Caldrest tidak lagi bisa dipertahankan oleh penjaga tunggal, dan untungnya, sudah tidak lagi dipertahankan oleh penjaga tunggal.
 
-"Maka kita tutup rapat dengan hitungan baru," katanya. "Bukan siapa tahu apa — daftar itu akan terus berubah dan Sela sudah pegang. Tapi ini: setiap orang yang kini tahu tentang seni raja adalah orang yang sudah membuktikan pilihannya minimal sekali, dengan harga yang dibayar sendiri. Maera dengan kebohongan penilaiannya. Kovan dengan berkasnya. Vael dengan formulir pemusnahannya. Bahkan juru tulis muda di Spire yang tidak kita kenal — dia membayar karirnya untuk satu baris sandi." Ia menutup lembar-lembar Kovan pelan-pelan. "Daftar itu namanya benteng. Dan benteng yang dibangun dari orang-orang yang sudah memilih tidak bisa direbut — hanya bisa dikhianati, dan khianat meninggalkan jejak sebelum meninggalkan luka."
+"Maka kita tutup rapat dengan hitungan baru," katanya. "Bukan siapa tahu apa — daftar itu akan terus berubah dan Sela sudah pegang. Namun ini: setiap orang yang kini tahu tentang seni raja adalah orang yang sudah membuktikan pilihannya minimal sekali, dengan harga yang dibayar sendiri. Maera dengan kebohongan penilaiannya. Kovan dengan berkasnya. Vael dengan formulir pemusnahannya. Bahkan juru tulis muda di Spire yang tidak kita kenal — dia membayar karirnya untuk satu baris sandi." Ia menutup lembar-lembar Kovan pelan-pelan. "Daftar itu namanya benteng. Dan benteng yang dibangun dari orang-orang yang sudah memilih tidak bisa direbut — hanya bisa dikhianati, dan khianat meninggalkan jejak sebelum meninggalkan luka."
 
 Sela menulis kalimat itu di papan, karena semua kalimat penting akhirnya ditulis di papan, dan Caldrest sudah lama percaya bahwa papan tulis kecil milik gadis itu adalah arsip paling aman di Karvess.
 
@@ -51,7 +51,7 @@ Setelah semua pulang, Ashvarok tinggal sendirian dengan lampu yang hampir habis 
 
 Saku itu makin berat. Berat adalah cara dunia memegang balik.
 
-Di jalan pulang menuju barak, ia lewat depan penginapan distrik tengah — kebiasaan rute yang tidak bisa dijelaskan kepada siapa pun, jalur pulang yang memutar melewati satu jendela tertentu — dan melihat Ossian masih bangun di baliknya, duduk di meja bekerja dengan surat-surat yang tersebar, dan di sebelah cawan minumnya tergeletak amplop tua berteksur arsip yang sudah dibuka.
+Di jalan pulang menuju barak, ia lewat depan penginapan distrik tengah — kebiasaan rute yang tidak bisa dijelaskan kepada siapa pun, jalur pulang yang memutar melewati satu jendela tertentu — dan melihat Ossian masih bangun di baliknya, duduk di meja kerja dengan surat-surat yang tersebar, dan di sebelah cawan minumnya tergeletak amplop tua bertekstur arsip yang sudah dibuka.
 
 Dibuka.
 

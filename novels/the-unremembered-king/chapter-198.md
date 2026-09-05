@@ -21,17 +21,17 @@ Yang memecah keheningan bukan guru mana pun. Ibu Rina, yang hadir sebagai tamu r
 
 Semua wajah menoleh kepadanya. Maera, yang datang membawa laporan Guild dan tidak bermaksud tinggal lama, membiarkan lapornya terbuka begitu saja di atas meja.
 
-"Delapan belas tahun lalu, sebelum kabupaten utara hilang, dia susah tidur. Semalem penuh. Aku sampai keliling rumah tiga kali." Tangan ibu itu meremas ujung kerudungnya. "Tetangga sebelah dengar dia menangis dari rumahnya, datang bawa garam, nginep sekalian bantu tepuk. Lalu tetangga sebelahnya lagi. Pada akhirnya seluruh kampung sampai hafal lagu pengantar tidur kami karena semuanya pernah giliran menidurkan dia — bapak-bapak tambang yang suaranya besar nyanyinya pelan-pelan takut salah nada, anak-anak kecil nyanyi sambil ketawa."
+"Delapan belas tahun lalu, sebelum kabupaten utara hilang, dia susah tidur. Semalem penuh. Aku sampai keliling rumah tiga kali." Tangan ibu itu meremas ujung kerudungnya. "Tetangga sebelah dengar dia menangis dari rumahnya, datang bawa garam, menginap sekalian bantu tepuk. Lalu tetangga sebelahnya lagi. Pada akhirnya seluruh kampung sampai hafal lagu pengantar tidur kami karena semuanya pernah giliran menidurkan dia — bapak-bapak tambang yang suaranya besar nyanyinya pelan-pelan takut salah nada, anak-anak kecil menyanyi sambil ketawa."
 
 Ia mengangkat dagunya dan memandang satu per satu wajah di meja panjang itu.
 
-"Kalian bilang kedalaman menyimpan semua yang terjadi di wilayahnya. Maka dia menyimpan malam itu. Dia menyimpan suara seluruh kampung menidurkan anakku — termasuk bagian yang aku tidak dengar dari dalam, karena malam itu aku tertidur duluan, kelelahan, dan kampung yang lanjut nanyiin tanpa aku." Suaranya bergetar sekali, lalu tegak lagi. "Kalau butuh cerita untuk memanggil — aku punya yang lebih tua dari cerita. Aku punya lagunya."
+"Kalian bilang kedalaman menyimpan semua yang terjadi di wilayahnya. Maka dia menyimpan malam itu. Dia menyimpan suara seluruh kampung menidurkan anakku — termasuk bagian yang aku tidak dengar dari dalam, karena malam itu aku tertidur duluan, kelelahan, dan kampung yang lanjut bertanya tanpa aku." Suaranya bergetar sekali, lalu tegak lagi. "Kalau butuh cerita untuk memanggil — aku punya yang lebih tua dari cerita. Aku punya lagunya."
 
 Sela berdiri begitu cepat sehingga kursinya bergeser. "Itu dia," katanya, cepat sekali, seperti takut idenya lari. "Kita tidak panggil dengan cerita tentang dia. Kita panggil dengan lagu yang dulu dinyanyikan untuknya. Lagu itu masih ada — dan kedalaman menyimpan versi aslinya. Kita tinggal menyamakan dua sisi rekamannya."
 
 ---
 
-Malam pemulangan ketiga berbeda dari dua sebelumnya, dan perbedaannya dimulai dari lokasi: rumah keluarga asli Rina di utara — bukan reruntuhan, tapi rumah yang telah dibangun ulang oleh gotong royong Caldrest dan para pemulih utara dalam dua pekan. Kota-kota belajar cepat musim ini: kalau ada jiwa akan dipanggil pulang, siapkan rumahnya duluan. Atapnya belum dipasang semua, tapi dapurnya sudah menyala dan ada sup di tungku, karena ibu-ibu Caldrest bersikeras bahwa tidak ada jiwa yang boleh pulang ke rumah dingin.
+Malam pemulangan ketiga berbeda dari dua sebelumnya, dan perbedaannya dimulai dari lokasi: rumah keluarga asli Rina di utara — bukan reruntuhan, tetapi rumah yang telah dibangun ulang oleh gotong royong Caldrest dan para pemulih utara dalam dua pekan. Kota-kota belajar cepat musim ini: kalau ada jiwa akan dipanggil pulang, siapkan rumahnya duluan. Atapnya belum dipasang semua, tetapi dapurnya sudah menyala dan ada sup di tungku, karena ibu-ibu Caldrest bersikeras bahwa tidak ada jiwa yang boleh pulang ke rumah dingin.
 
 Tiga orang pendamping sesuai protokol: Ashvarok, Sareth, dan sang ibu. Kovan menunggu di ambang pintu dengan buku hitungannya, karena protokol juga bilang setiap pemulangan harus dihitung dari luar oleh orang yang tidak ikut berdoa.
 
@@ -51,7 +51,7 @@ Rumah itu lampunya redup sesuai permintaan ibu. Ashvarok membuka the Walking Key
 
 Lalu ibu Rina bernyanyi.
 
-Melodinya pelan dan sedikit pecah di tempat-tempat yang delapan belas tahun jarang dinyanyikan, tapi struktur lagunya utuh — lagu pengantar tidur utara tidak pernah berubah antargenerasi, dan inilah keajaiban kecil yang tidak direncanakan siapa pun: kedalaman menyimpan versi asli malam itu, dan yang dibawakan ibu sekarang adalah versi yang sama persis, dua sisi rekaman yang saling mengenali.
+Melodinya pelan dan sedikit pecah di tempat-tempat yang delapan belas tahun jarang dinyanyikan, tetapi struktur lagunya utuh — lagu pengantar tidur utara tidak pernah berubah antargenerasi, dan inilah keajaiban kecil yang tidak direncanakan siapa pun: kedalaman menyimpan versi asli malam itu, dan yang dibawakan ibu sekarang adalah versi yang sama persis, dua sisi rekaman yang saling mengenali.
 
 Di ayat ketiga, dari bawah lantai, sesuatu naik.
 
@@ -67,13 +67,13 @@ Di ambang pintu, Sareth berdiri lama menghadap ke dalam sebelum menutupnya pelan
 
 ---
 
-Di luar, di bawah langit utara yang penuh bintang, Kovan menunggu dengan pertanyaan yang tidak sanggup ia tahan sampai pagi. Penghitung itu biasanya menimbang kata-katanya seperti menimbang bijih, tapi malam ini ia melemparnya mentah-mentah:
+Di luar, di bawah langit utara yang penuh bintang, Kovan menunggu dengan pertanyaan yang tidak sanggup ia tahan sampai pagi. Penghitung itu biasanya menimbang kata-katanya seperti menimbang bijih, tetapi malam ini ia melemparnya mentah-mentah:
 
 "Bayi itu... akan tetap bayi? Selamanya?" Suaranya pecah di kata terakhir. "Tubuhnya berhenti tujuh bulan— apa dia akan pernah besar?"
 
 Sareth Vayin duduk di batu tepi jalan, dan jawabannya datang dengan pengetahuan ordo yang membuat penghitung itu harus duduk juga.
 
-"Penyimpanan beku. Dunia mengalir. Itu hukumnya." Ia menunjuk ke arah rumah dengan cahaya redup tempat tangis bayi pelan-pelan berubah jadi suara minum. "Tapi begitu jiwa kembali ke dunia — tubuhnya ikut WAKTU DUNIA lagi. Mulai malam ini, jamnya berjalan normal. Rina akan tumbuh. Terlambat delapan belas tahun, tapi tumbuh. Dia akan belajar berjalan bersama anak-anak yang lahir tahun ini, dan dia akan mengira mereka seumuran, dan tidak ada yang akan buru-buru meluruskan dia." Senyum tua muncul di wajah wanita itu, senyum yang sudah lama tidak muncul. "Dan dia akan punya banyak kakak. Seluruh Caldrest."
+"Penyimpanan beku. Dunia mengalir. Itu hukumnya." Ia menunjuk ke arah rumah dengan cahaya redup tempat tangis bayi pelan-pelan berubah jadi suara minum. "Namun begitu jiwa kembali ke dunia — tubuhnya ikut WAKTU DUNIA lagi. Mulai malam ini, jamnya berjalan normal. Rina akan tumbuh. Terlambat delapan belas tahun, tetapi tumbuh. Dia akan belajar berjalan bersama anak-anak yang lahir tahun ini, dan dia akan mengira mereka seumuran, dan tidak ada yang akan buru-buru meluruskan dia." Senyum tua muncul di wajah wanita itu, senyum yang sudah lama tidak muncul. "Dan dia akan punya banyak kakak. Seluruh Caldrest."
 
 Kovan membuka buku hitungannya, menulis sesuatu, lalu membacakan dengan suara yang belum stabil sepenuhnya: "Pemulangan ketiga. Selesai pada jam segini. Catatan tambahan di luar protokol: tangis bayi adalah angka terbaik yang pernah kuhitung."
 

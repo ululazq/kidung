@@ -3,17 +3,17 @@ title: "Bab 143: Tulisan di Dinding Mimpi"
 chapter: 143
 ---
 
-Kabar itu datang ke dapur barak pada pagi hari keseratus sebelas dengan bentuk yang paling tidak berbahaya di dunia, yaitu bahan cerita sarapan.
+Kabar itu datang ke dapur barak pada pagi hari keseratus sebelas dengan bentuk yang paling tidak berbahaya di dunia — yaitu bahan cerita sarapan.
 
-"Aku mimpi aneh tadi malam," kata perempuan bilik sebelas kepada meja panjang sambil mengangkat panci bubur. "Mimpi soal pintu. Pintu tua, besar, hangat seperti tungku waktu habis dipanasi. Dan pintunya kenal aku. Bukan aku kenal dia. Dia yang kenal aku, seperti orang tua yang sudah lama memenunggu anaknya pulang lalu berkata, kamu akhirnya datang. Aku bangun rasanya enak sekali."
+"Aku mimpi aneh tadi malam," kata perempuan bilik sebelas kepada meja panjang sambil mengangkat panci bubur. "Mimpi soal pintu. Pintu tua, besar, hangat seperti tungku waktu habis dipanasi. Dan pintunya kenal aku. Bukan aku kenal dia. Dia yang kenal aku, seperti orang tua yang sudah lama menunggu anaknya pulang lalu berkata, kamu akhirnya datang. Aku bangun rasanya enak sekali."
 
 Meja menjawab dengan gelak dan dua cerita serupa yang langsung muncul. Anak juru obat bermimpi hal yang sama, pintu hangat yang memanggil namanya dengan benar. Penjaga baris pertama name map klinik bermimpi pintu yang sama dan bersumpah bahwa dalam mimpinya ia menyentuhnya, dan sentuhannya seperti disentuh balik. Pada tengah hari, hitungan tidak resmi ibu Tamma mencapai sembilan belas nama dari empat blok, semua mimpi tentang satu pintu yang sama, semua hangat, semua mengenal pemimpinya, dan tidak satu pun mimpi yang menakutkan.
 
 Ashvarok mendengarkan seluruh pagi itu dari ujung meja dengan mangkuk yang tidak berkurang isinya, dan di dalam dadanya ada sesuatu yang bekerja seperti air mendidih dalam tutupan rapat.
 
-Ia tahu mimpi itu. Ia mengenali teksturnya seperti mengenali tulisan tangannya sendiri, karena hangat yang digambarkan para pemimpi adalah hangat yang keluar dari bidang batu di bawah telapak tangannya malam Rabat, dan nama yang dipanggil para mimpi itu adalah nama yang ia tenun sendiri ke dalam batu dengan harga satu potongan diri. Seni raja itu tidak berhenti di batu. Batu menerimanya, batu hidup darinya, dan kota yang memberi makan seninya lewat cerita ternyata ikut minum dari sumur yang sama. Puluhan orang tidur semalam dengan kepala penuh satu pintu yang sama, bukan karena mereka pernah melihat pintu itu, melainkan karena penamaannya bocor ke arah yang tidak ia kendalikan, masuk ke tempat tidur, masuk ke kepala anak-anak, masuk ke lapisan kota tempat manusia meletakkan barang-barang yang tidak mereka tahu mereka bawa.
+Ia tahu mimpi itu. Ia mengenali teksturnya seperti mengenali tulisan tangannya sendiri, karena hangat yang digambarkan para pemimpi adalah hangat yang keluar dari bidang batu di bawah telapak tangannya malam Rabat, dan nama yang dipanggil para mimpi itu adalah nama yang ia tenun sendiri ke dalam batu dengan harga satu potongan diri. Seni raja itu tidak berhenti di batu. Batu menerimanya, batu hidup darinya, dan kota yang memberi makan seninya lewat cerita ternyata ikut minum dari sumur yang sama. Puluhan orang tidur semalam dengan kepala penuh satu pintu yang sama — bukan karena mereka pernah melihat pintu itu — melainkan karena penamaannya bocor ke arah yang tidak ia kendalikan, masuk ke tempat tidur, masuk ke kepala anak-anak, masuk ke lapisan kota tempat manusia meletakkan barang-barang yang tidak mereka tahu mereka bawa.
 
-Ia bangun dari meja tanpa menyelesaikan makanannya, dan tidak ada satu orang pun yang menoleh, sebab bocah lorong tujuh memang dikenal suka pergi begitu saja.
+Ia bangun dari meja tanpa menyelesaikan makanannya, dan tidak ada satu orang pun yang menoleh — sebab bocah lorong tujuh memang dikenal suka pergi begitu saja.
 
 ---
 
@@ -35,7 +35,7 @@ Di jalur pulang, Ashvarok menyusun peta mimpinya sendiri dalam kepala, satu nama
 
 Sela dan Brannoc dikumpulkannya malam itu di gudang perkakas tingkat dua, dan kali ini ia menutup pintu lebih dulu sebelum bicara.
 
-"Mimpi itu milikku," kata Ashvarok tanpa pembukaan. "Pintu yang mereka mimpiin itu pintu yang kunamai malam Rabat. Hangatnya, panggilan namanya, rasa dikenalnya, semuanya sama. Aku baru sadar kemarin siang, setelah sembilan belas cerita cocok satu sama lain."
+"Mimpi itu milikku," kata Ashvarok tanpa pembukaan. "Pintu yang mereka mimpikan itu pintu yang kunamai malam Rabat. Hangatnya, panggilan namanya, rasa dikenalnya, semuanya sama. Aku baru sadar kemarin siang, setelah sembilan belas cerita cocok satu sama lain."
 
 Brannoc berhenti mengunyah.
 
@@ -45,9 +45,9 @@ Brannoc berhenti mengunyah.
 
 Sela sudah menulis di papan tulisnya, kebiasaan gadis itu mengubah setiap bahaya menjadi daftar.
 
-"Jadi kalau Kakak menamai satu benda lagi," kata gadis itu pelan, "mimpi tentang benda itu juga bakal nyebar?"
+"Jadi kalau Kakak menamai satu benda lagi," kata gadis itu pelan, "mimpi tentang benda itu juga bakal menyebar?"
 
-"Kemungkinan besarnya ya. Dan bukan hanya benda." Ashvarok menatap kedua orang yang paling ia percayai di dunia ini dan memilih jujur sampai akar, karena aturan yang dibangun di atas separuh kebenaran adalah pagar di atas lubang. "Setiap penamaan baru dari sekarang adalah tulisan di dinding mimpi kota ini. Aku menulis dengan seni yang dulunya dipakai untuk segel dan sumpah, dan ternyata di era ini, di kota ini, tulisan itu merembes sampai ke kasur orang. Aku bisa menamai satu benda dan esoknya empat blok bermimpi tentang dia. Kalau aku menamai sepuluh. Kalau nama yang kutulis salah, atau tampan, atau menyeramkan. Kota ini akan tidur di dalam pilihanku tanpa pernah diminta ijin."
+"Kemungkinan besarnya ya. Dan bukan hanya benda." Ashvarok menatap kedua orang yang paling ia percayai di dunia ini dan memilih jujur sampai akar, karena aturan yang dibangun di atas separuh kebenaran adalah pagar di atas lubang. "Setiap penamaan baru dari sekarang adalah tulisan di dinding mimpi kota ini. Aku menulis dengan seni yang dulunya dipakai untuk segel dan sumpah, dan ternyata di era ini, di kota ini, tulisan itu merembes sampai ke kasur orang. Aku bisa menamai satu benda dan esoknya empat blok bermimpi tentang dia. Kalau aku menamai sepuluh. Kalau nama yang kutulis salah, atau tampan, atau menyeramkan. Kota ini akan tidur di dalam pilihanku tanpa pernah diminta izin."
 
 Ruangan itu diam lama. Sebelum diam itu pecah, Ashvarok mengajukan pertanyaan yang sudah ia simpan sejak masuk pintu, dan ia mengajukannya dengan hati-hati seperti orang menyentuh daun yang belum tentu kering.
 
@@ -57,17 +57,17 @@ Gadis itu menulis satu garis miring di papan tulisnya, memandang garis itu, lalu
 
 "Aku tidak mimpi pintu." Jeda kecil yang jujur. "Mimpiku beda, dan mimpiku milikku dulu sampai waktunya bicara. Bukan semalam."
 
-Ashvarok menerima jawaban itu, sebab janji-janji di antara mereka berdua selalu bekerja dua arah, dan ada hal-hal yang bahkan pagi pun tidak berhak mendengarnya lebih dulu. Brannoc memutuskan diam itu lebih dulu.
+Ashvarok menerima jawaban itu — sebab janji-janji di antara mereka berdua selalu bekerja dua arah, dan ada hal-hal yang bahkan pagi pun tidak berhak mendengarnya lebih dulu. Brannoc memutuskan diam itu lebih dulu.
 
 "Kalau begitu berhenti," kata mandor itu. "Cukup satu pintu. Jangan namai apa-apa lagi."
 
-"Aku juga memikirkan begitu, sejak subuh." Kepala itu bergoyang pelan dari kiri ke kanan. "Tapi jawaban itu ada lubangnya. Suatu hari malam datang lagi. Orang tersesat, lorong runtuh, sunyi menyasar anak sekolah, dan aku butuh satu benda bernama lagi supaya orang pulang. Berhenti total artinya aku memilih agar ada yang tidak pulang demi mimpi warga tetap tenang. Itu bukan keputusan yang bisa kupatuhi dan tidur nyenyak. Yang kubutuhkan bukan berhenti. Yang kubutuhkan garis."
+"Aku juga memikirkan begitu, sejak subuh." Kepala itu bergoyang pelan dari kiri ke kanan. "Namun jawaban itu ada lubangnya. Suatu hari malam datang lagi. Orang tersesat, lorong runtuh, sunyi menyasar anak sekolah, dan aku butuh satu benda bernama lagi supaya orang pulang. Berhenti total artinya aku memilih agar ada yang tidak pulang demi mimpi warga tetap tenang. Itu bukan keputusan yang bisa kupatuhi dan tidur nyenyak. Yang kubutuhkan bukan berhenti. Yang kubutuhkan garis."
 
 ---
 
 Garis itu dirumuskannya keras-keras malam juga, karena hal yang penting layak diucapkan dengan suara penuh di hadapan saksi, dan ditulis oleh Sela di kolom belakang papan setiap kalimat disetujui ketiganya.
 
-Pertama, tidak ada penamaan baru tanpa cerita yang utuh dan jujur di mulut orang-orang yang punya ceritanya, aturan lama itu berdiri tegak dan kini berdiri lebih tinggi. Kedua, sebelum menamai apa pun, ia harus bertanya lebih dulu seberapa besar bentuk benda itu hidup di kepala banyak orang, sebab semakin besar benda itu di kepala banyak orang, semakin luas tulisannya di dinding mimpi kota. Ketiga, dan ini pasal yang paling mahal, ia tidak akan pernah menamai apa pun yang bentuknya sudah ada di kepala orang-orang yang sedang takut, sedang berharap, atau sedang tidur, agar tidak pernah ada satu orang pun yang bermimpi tentang keputusannya tanpa pernah diminta setuju.
+Pertama, tidak ada penamaan baru tanpa cerita yang utuh dan jujur di mulut orang-orang yang punya ceritanya, aturan lama itu berdiri tegak dan kini berdiri lebih tinggi. Kedua, sebelum menamai apa pun, ia harus bertanya lebih dulu seberapa besar bentuk benda itu hidup di kepala banyak orang — sebab semakin besar benda itu di kepala banyak orang, semakin luas tulisannya di dinding mimpi kota. Ketiga, dan ini pasal yang paling mahal, ia tidak akan pernah menamai apa pun yang bentuknya sudah ada di kepala orang-orang yang sedang takut, sedang berharap, atau sedang tidur, agar tidak pernah ada satu orang pun yang bermimpi tentang keputusannya tanpa pernah diminta setuju.
 
 "Pasal ketiga itu susah dijaga," kata Sela saat menyelesaikan huruf terakhirnya.
 
@@ -79,4 +79,4 @@ Brannoc menolehkan kepalanya ke arah pintu gudang, ke arah kota yang di baliknya
 
 "Itu sebabnya pasal-pasal ini kutulis malam ini juga," jawab Ashvarok. "Sebelum jumlahnya naik."
 
-Ia menulis, "Setiap nama adalah tulisan di dinding mimpi kota. Jangan pernah menulis di dinding orang lain tanpa izinnya", membacanya sekali dalam hati, lalu menyerahkan kapurnya balik kepada Sela, dan malam itu, untuk pertama kalinya dalam dua tahun, ketakutan terbesarnya bukan lagi tentang segel di bawah aula, melainkan tentang betapa ringannya tangannya tadi malam ketika ia menenun nama ke dalam batu, dan betapa dalam jangkauan seni yang tumbuh dari cerita kota, sampai-sampai kota itu ikut bermimpi karyanya.
+Ia menulis, "Setiap nama adalah tulisan di dinding mimpi kota. Jangan pernah menulis di dinding orang lain tanpa izinnya", membacanya sekali dalam hati, lalu menyerahkan kapurnya balik kepada Sela, dan malam itu, untuk pertama kalinya dalam dua tahun, ketakutan terbesarnya bukan lagi tentang segel di bawah aula — melainkan tentang betapa ringannya tangannya tadi malam ketika ia menenun nama ke dalam batu, dan betapa dalam jangkauan seni yang tumbuh dari cerita kota, sampai-sampai kota itu ikut bermimpi karyanya.

@@ -29,7 +29,7 @@ Brannoc menoleh dari raknya pelan-pelan. "Kamu tahu dari mana?"
 
 Gudang itu hening cukup lama sampai bunyi tungku jauh di tingkat bawah terdengar seperti pasang surut. Brannoc meletakkan palunya, dan ketika bicara lagi suaranya turun setengah nada. "Setahun kamu selalu pakai sesuatu. Sekarang mau berdiri telanjang. Kenapa sekarang?"
 
-"Karena semua cara lain sudah pernah dipakai dan semuanya meninggalkan sisa. Ash mengingat. Pemadaman punya tepi. Satu-satunya jawaban yang tidak bisa dibalik oleh pembaca mana pun adalah jawaban yang memang benar: tubuh ini tubuh bocah tambang yang rusak. Aku hanya harus sanggup berdiri diam ketika alat itu menyentuhnya." Ashvarok memandang Foreman itu lurus. "Tapi kalau aku salah hitung, dan malam ini ada yang terbaca yang seharusnya tidak —"
+"Karena semua cara lain sudah pernah dipakai dan semuanya meninggalkan sisa. Ash mengingat. Pemadaman punya tepi. Satu-satunya jawaban yang tidak bisa dibalik oleh pembaca mana pun adalah jawaban yang memang benar: tubuh ini tubuh bocah tambang yang rusak. Aku hanya harus sanggup berdiri diam ketika alat itu menyentuhnya." Ashvarok memandang Foreman itu lurus. "Namun kalau aku salah hitung, dan malam ini ada yang terbaca yang seharusnya tidak —"
 
 "Kalau kau salah hitung," kata Brannoc, memotong, dengan suara mandor yang tidak menerima argumen, "besok pagi ada runtuhan kecil di lorong aman, regu keluar lengkap, dan ceritanya milikku. Seperti biasa. Kamu tinggal jadi bocah yang lewat."
 

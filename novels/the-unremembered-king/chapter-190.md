@@ -13,7 +13,7 @@ Kovan yang membacanya lewat Telinga Dua gabungan — ia dan Ashvarok berpatroli 
 
 "Seribu tahun," kata Kovan pelan, "dia menyimpan kita, mendengar kita, menjaga nama-nama kita... dan baru SEKARANG dia minta izin bertanya." Ia memandang Ashvarok. "Dia minta izin, Renn. Setelah semua yang dia punya hak untuk langsung ambil."
 
-Ashvarok sudah tahu jawabannya sebelum pertanyaannya dibacakan. Tapi ada protokol untuk hal seperti ini — Hukum Tamu baru saja ditambah pasalnya oleh rapat darurat subuh harinya dengan seluruh tim inti plus Sareth dan Ossian yang dipanggil cepat:
+Ashvarok sudah tahu jawabannya sebelum pertanyaannya dibacakan. Namun ada protokol untuk hal seperti ini — Hukum Tamu baru saja ditambah pasalnya oleh rapat darurat subuh harinya dengan seluruh tim inti plus Sareth dan Ossian yang dipanggil cepat:
 
 Jawaban resmi Caldrest kepada pertanyaan pertama kedalaman, disusun bersama, ditulis oleh Sela, disetujui Hale sebagai wali kota, dicatat Maera sebagai saksi Guild, dikonfirmasi Sareth sebagai ordo tua, dan disampaikan oleh Ashvarok sendiri lewat the Walking Key ke batu asah di ambang gudang:
 
@@ -37,7 +37,7 @@ Sela sudah menulis judul proyek baru di papannya sebelum Ashvarok selesai bicara
 
 ---
 
-Jawaban sementara kepada pertanyaan itu disampaikan Ashvarok malam harinya — bukan nama (nama butuh setahun cerita), tapi janji:
+Jawaban sementara kepada pertanyaan itu disampaikan Ashvarok malam harinya — bukan nama (nama butuh setahun cerita), tetapi janji:
 
 "Pertanyaanmu sudah diterima seluruh Caldrest. Jawabannya: ya. Kau boleh punya nama. Dan bukan kita yang akan menamaimu — kau terlalu tua untuk dinamai orang asing. Yang akan terjadi: kota ini mengumpulkan cerita benar tentangmu selama setahun. Semua yang pernah kau dengar, kau jaga, kau simpan. Lalu dari cerita-cerita itu, namamu akan muncul sendiri — seperti batu yang empat pulang, seperti pintu yang menunggu, seperti semua hal di tambang ini yang hanya menerima nama dengan cerita benar tentang dirinya."
 
@@ -74,8 +74,8 @@ Usulan itu disetujui tanpa modifikasi — dan menjadi preseden hukum tak tertuli
 ---
 
 Kabar pertanyaan kedalaman menyebar ke seluruh kota dalam dua hari — bukan lewat pengumuman resmi, melainkan lewat cara paling Caldrest: Panggung Dapur. Ibu Tamma membacakan terjemahan Kovan di depan barak penuh, dan setelah selesai, meja makan itu hening cukup lama untuk mendengar api tungku.
-Yang memecah keheningan adalah anak perempuan enam tahun dari akademi — murid termuda yang dulu menyelinap masuk kelas tanpa diundang: "Kalau dia mau punya nama, kenapa tidak kita kasih sekarang aja? Seperti kucing."
-"Karena nama bukan kucing," jawab ibu Tamma. "Nama kucing boleh asal bunyi enak. Nama harus cocok dengan cerita. Kamu tidak namain orang dari suaranya doang." Jeda wanita itu. "Tapi idenya bagus. Makanya kita kasih SETAHUN. Supaya namanya benar-benar dia punya, bukan kita yang nempel-nempelin."
+Yang memecah keheningan adalah anak perempuan enam tahun dari akademi — murid termuda yang dulu menyelinap masuk kelas tanpa diundang: "Kalau dia mau punya nama, kenapa tidak kita beri sekarang saja? Seperti kucing."
+"Karena nama bukan kucing," jawab ibu Tamma. "Nama kucing boleh asal bunyi enak. Nama harus cocok dengan cerita. Kamu tidak menamai orang dari suaranya saja." Jeda wanita itu. "Namun idenya bagus. Makanya kita beri SETAHUN. Supaya namanya benar-benar dia punya, bukan kita yang menempel-nempelin."
 Lanjutan bab 190.
 
 ---
@@ -115,4 +115,4 @@ Ashvarok menghitung. Tiga puluh empat institusi, tradisi, dan sistem — dari ya
 Ashvarok memandang adiknya — pencatat dua belas tahun, Kepala Arsip termuda Karvess, orang yang menghitung sisa hidup kakaknya dengan cara yang membuat hitungan itu terasa seperti hadiah — dan menjawab dengan kalimat yang menutup bab 190 dan seluruh era pertama novel ini:
 "Kalau rasio itu terus membaik, Nak... mungkin aku tidak perlu jadi segel kedua. Cukup jadi om raja yang kurus di panggung dapur. Itu jabatan yang jauh lebih enak."
 
-"Diterima," kata Sela tanpa mengangkat wajah, "dengan syarat tetap datang tiap Hari Utara." Dan lampu-lilin Caldrest padam satu per satu malam itu, kota kecil di lereng tambang yang tidak lagi punya segel untuk ditakuti — tapi punya tiga puluh empat alasan untuk bangun besok pagi.
+"Diterima," kata Sela tanpa mengangkat wajah, "dengan syarat tetap datang tiap Hari Utara." Dan lampu-lilin Caldrest padam satu per satu malam itu, kota kecil di lereng tambang yang tidak lagi punya segel untuk ditakuti — tetapi punya tiga puluh empat alasan untuk bangun besok pagi.

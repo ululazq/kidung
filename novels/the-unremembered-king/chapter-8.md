@@ -27,21 +27,19 @@ Pecahan itu terbelah rapi di tengah, dua bidang licin seperti dipotong pisau, te
 
 Foreman tua itu menatap dua potongan di telapak tangannya lama sekali. Ketika mendongak, sesuatu dalam wajahnya sudah bergeser dari pertanyaan ke perhitungan.
 
-"melakukan lagi," katanya. "Di dinding sungguhan."
+"Melakukan lagi," katanya. "Di dinding sungguhan."
 
 Mereka keluar ke lorong tingkat dua, sepi di jam pergantian. Brannoc menunjuk satu bidang dinding antara dua penyangga. Ashvarok meletakkan telapak tangannya pada batu, membaca dengan mata telanjang — garis mikro, suhu permukaan, bunyi ketukan jarinya sendiri — lalu mengambil kapur dari saku Brannoc dan menarik satu lingkaran tidak rapi selebar kepala.
 
 "Yang dalam lingkaran ini jatuh kalau dipukul tiga kali. Yang di luarnya tetap. Coba."
 
-Brannoc memukul sekali. Batu bergetar. Dua kali. Debu turun dari garis lingkaran seperti tepung. Ketiga —
-
-Sebidang batu selingkung selepas kepala lepas tanpa suara, terguling ke kaki mereka, dan bidang dinding yang tersisa licin sempurna. Tidak ada satu retakan pun menjalar keluar lingkaran itu. Presisi seperti itu bukan pekerjaan pahat; itu pekerjaan pengertian.
+Brannoc memukul sekali. Batu bergetar. Dua kali. Debu turun dari garis lingkaran seperti tepung. Ketiga — sebidang batu selebar kepala lepas tanpa suara, terguling ke kaki mereka, dan bidang dinding yang tersisa licin sempurna. Tidak ada satu retakan pun menjalar keluar lingkaran itu. Presisi seperti itu bukan pekerjaan pahat; itu pekerjaan pengertian.
 
 Foreman tua itu menatap lubang bersih di dindingnya, lalu menatap bocah kurus di sebelahnya, dan barulah malam itu ia tampak benar-benar menghitung kemungkinan yang tidak diajarkan siapa-siapa di tambang.
 
 "Berapa lama kamu bisa begini?"
 
-"Seumur hidup. Yang susah bukan bacanya." Ashvarok mengambil kembali salah satu potongan, membaliknya. "Yang susah adalah apa yang kulihat. Tambang ini punya jam pasir, Brannoc. Bukan semua lorong, tapi sisi timur bawah sedikit demi sedikit menyerap air formasi, dan penyangga-penyangga kayu di sana dipasang untuk beban lima puluh tahun lalu. Lorong tujuh hanya yang pertama — dia paling muda karena paling dekat jalur angkutan. Yang berikutnya menurut perhitunganku lorong sebelas dan galeri timur, musim hujan abu kalau pola bekerja tidak berubah."
+"Seumur hidup. Yang susah bukan bacanya." Ashvarok mengambil kembali salah satu potongan, membaliknya. "Yang susah adalah apa yang kulihat. Tambang ini punya jam pasir, Brannoc. Bukan semua lorong, tetapi sisi timur bawah sedikit demi sedikit menyerap air formasi, dan penyangga-penyangga kayu di sana dipasang untuk beban lima puluh tahun lalu. Lorong tujuh hanya yang pertama — dia paling muda karena paling dekat jalur angkutan. Yang berikutnya menurut perhitunganku lorong sebelas dan galeri timur, musim hujan abu kalau pola bekerja tidak berubah."
 
 "Bisa kamu tunjukkan?"
 
@@ -51,7 +49,7 @@ Brannoc menimbang kalimat itu seperti menimbang batuan: beratnya asli atau tidak
 
 "Ke mana kamu lapor hal segitu?"
 
-"Ke Quota Office?" Ashvarok menertawakan pendek tanpa suara. "Suratmu akan dibaca Tharrow, disimpulkan sebagai alasan naikkan kuota, lalu disegel sebagai rahasia dagang. Kau tahu itu."
+"Ke Quota Office?" Ashvarok tertawa pendek tanpa suara. "Suratmu akan dibaca Tharrow, disimpulkan sebagai alasan naikkan kuota, lalu disegel sebagai rahasia dagang. Kau tahu itu."
 
 "Aku tahu." Brannoc mengunyah akar pahitnya lebih cepat. Rahangnya bekerja seperti sedang menggiling keputusan. "Lalu kenapa kamu cerita ke aku?"
 
@@ -61,7 +59,7 @@ Pertanyaan yang benar, dan Ashvarok menghargainya dengan setengah kebenaran lagi
 
 "Satu hal lagi yang mau kutanya, dan ini yang penting." Brannoc berjongkok di seberangnya, dan suaranya turun ke level gudang tutup. "Sayatan-sayatan di sembilan bawah. Yang rapi itu. Kamu bisa membaca siapa pemakainya?"
 
-"Bisa membaca apa yang dia cari dan seberapa pandai dia. Pemakai, jam bekerja, arah gerak — bisa. Nama tidak tertulis di batu."
+"Bisa membaca apa yang dia cari dan seberapa pandai dia. Pemakai, jam kerja, arah gerak — bisa. Nama tidak tertulis di batu."
 
 "Seberapa pandai?"
 
@@ -73,15 +71,15 @@ Brannoc menatapnya lama. "Kau bicara tentang tamu seperti pernah punya tamu begi
 
 "Semua tempat pernah," kata Ashvarok, dan membiarkan kalimat itu berhenti tepat sebelum menjadi cerita.
 
-"Karena mulai besok, tiap kali regumu turun, aku kasih tahu dulu lorong mana yang aman hari itu. Tanpa surat. Tanpa jejak. Angka kematian shift-mu turun, produksi naik, dan nama Brannoc yang dicatat pusat sebagai foreman yang angkanya bagus." Ashvarok bangkit. "Aku minta dua hal sebagai balasannya. Satu. Kalau ada yang tanya, aku anak tungku yang suka merenung. Dua. Kalau suatu hari aku minta kamu bawa orang keluar tanpa alasan yang bisa dijelaskan — kamu bawa orang keluar dulu, bertanya belakangan."
+"Karena mulai besok, tiap kali regumu turun, aku beri tahu dulu lorong mana yang aman hari itu. Tanpa surat. Tanpa jejak. Angka kematian shift-mu turun, produksi naik, dan nama Brannoc yang dicatat pusat sebagai foreman yang angkanya bagus." Ashvarok bangkit. "Aku minta dua hal sebagai balasannya. Satu. Kalau ada yang tanya, aku anak tungku yang suka merenung. Dua. Kalau suatu hari aku minta kamu bawa orang keluar tanpa alasan yang bisa dijelaskan — kamu bawa orang keluar dulu, bertanya belakangan."
 
-Brannoc diam. Gemuruh troli dari atas mengisi sunyi untuknya.
+Brannoc diam. Gemuruh troli dari atas mengisi sunyi untuknya — gemuruh yang menyaring masuk seperti air dingin, mengisi ruang yang tidak mau ia ratapi.
 
-"Aku punya anak," kata foreman itu akhirnya, dan kalimat itu keluar seperti barang dari karung yang jarang dibuka. "Laki-laki. Umurnya sembilan. Ibunya mati waktu dia lahir, jadi dia tinggal di asrama distrik utara — bayarannya dari potong gajiku." Ia menatap lubang bersih di dinding itu. "Kontrak pendidikannya pegang the Quiet Vein. Bukan bekerja paksa, tapi jenis kontrak yang naik harganya tiap tahun, seperti semua milik mereka. Angka shift yang bagus satu-satunya cara bayar dia jadi pandai besi, bukan tambang."
+"Aku punya anak," kata foreman itu akhirnya, dan kalimat itu keluar seperti barang dari karung yang jarang dibuka. "Laki-laki. Umurnya sembilan. Ibunya mati waktu dia lahir, jadi dia tinggal di asrama distrik utara — bayarannya dari potong gajiku." Ia menatap lubang bersih di dinding itu. "Kontrak pendidikannya pegang the Quiet Vein. Bukan bekerja paksa, tetapi jenis kontrak yang naik harganya tiap tahun, seperti semua milik mereka. Angka shift yang bagus satu-satunya cara bayar dia jadi pandai besi, bukan tambang."
 
 "Pandai besi lebih mahal daripada tambang?"
 
-"Semua yang tidak bunuh diri pelan-pelan lebih mahal." Brannoc mengembalikan pahat ke rak dengan gerakan yang terlalu hati-hati untuk sekadar meletakkan alat. "Jadi jangan jual aku mimpi. Aku sudah terlalu tua buat mimpi. Tapi angka mati turun sambil produksi naik — itu bukan mimpi. Itu matematika yang belum pernah aku lihat hidup."
+"Semua yang tidak bunuh diri pelan-pelan lebih mahal." Brannoc mengembalikan pahat ke rak dengan gerakan yang terlalu hati-hati untuk sekadar meletakkan alat. "Jadi jangan jual aku mimpi. Aku sudah terlalu tua buat mimpi. Namun angka mati turun sambil produksi naik — itu bukan mimpi. Itu matematika yang belum pernah aku lihat hidup."
 
 Gudang itu sunyi selain gemuruh samar troli dari atas.
 
@@ -91,7 +89,7 @@ Gudang itu sunyi selain gemuruh samar troli dari atas.
 
 Ia mengira kalimat itu akan mengakhiri semuanya — dan siap untuk itu juga, karena perjanjian semacam ini tidak bisa diminta, hanya bisa ditawarkan. Tetapi Brannoc hanya mengangguk pelan, satu kali, seperti menandatangani sesuatu di dalam kepala.
 
-"Dua puluh tahun lalu aku prajurit di benteng timur," kata foreman itu, mengembalikan pahat ke rak. "Komandanku bisa lihat jalur pasukan musuh dari cara rumput rebah. Orang-orang bilang dia punya bakat. Dia bilang dia hanya rajin lihat." Ia mengambil sekopnya, membuka pintu dengan kaki, dan berhenti setengah badan di ambang. "Besok shift sembilan bawah lagi. Tulang seam yang dicari Quota Office banyak di situ. Kamu membaca, kami angkat, hasilnya lewat gudangku dulu sebelum ke kantor — agar angkanya kelihatan bekerja regu, bukan bekerja bocah ajaib. Tapi Renn—"
+"Dua puluh tahun lalu aku prajurit di benteng timur," kata foreman itu, mengembalikan pahat ke rak. "Komandanku bisa lihat jalur pasukan musuh dari cara rumput rebah. Orang-orang bilang dia punya bakat. Dia bilang dia hanya rajin lihat." Ia mengambil sekopnya, membuka pintu dengan kaki, dan berhenti setengah badan di ambang. "Besok shift sembilan bawah lagi. Tulang seam yang dicari Quota Office banyak di situ. Kamu membaca, kami angkat, hasilnya lewat gudangku dulu sebelum ke kantor — agar angkanya kelihatan bekerja regu, bukan bekerja bocah ajaib. Namun Renn—"
 
 "Ya."
 
@@ -99,7 +97,7 @@ Ia mengira kalimat itu akan mengakhiri semuanya — dan siap untuk itu juga, kar
 
 Pintu tertutup. Di gudang perkakas yang kembali sunyi itu, Ashvarok menatap garis lurus dua potongan kaca-batu di lantai, dan untuk pertama kalinya dalam seribu tahun, seseorang baru saja memberinya utang tanpa menanyakan namanya.
 
-Dulu, perjanjian ditandatangani dengan darah dan disegel dengan nama — nama orang lain, biasanya, nama orang yang akan menanggung akibatnya. Ia pernah mengatur aliansi lima bangsa dengan satu kalimat dan tiga kuburan. Perjanjian hari ini lebih kecil dari semua itu. Satu foreman, satu tambang, satu daftar lorong aman. Tetapi harganya aneh — tidak dibayar dengan kekuasaan atau ketakutan, melainkan dengan sesuatu yang belum ia punya kata-katanya.
+Dulu, perjanjian ditandatangani dengan darah dan disegel dengan nama — nama orang lain, biasanya, nama orang yang akan menanggung akibatnya. Ia pernah mengatur aliansi lima bangsa dengan satu kalimat dan tiga kuburan. Perjanjian hari ini lebih kecil dari semua itu. Satu foreman, satu tambang, satu daftar lorong aman. Tetapi harganya aneh — tidak dibayar dengan kekuasaan atau ketakutan, melainkan dengan sesuatu yang belum ia punya kata-katanya. *Mungkin kata-kata memang bukan bahasa untuk hal ini*, pikirnya.
 
 Dia memungut pecahan itu dan menyimpannya di saku dada — bukan untuk nilai materialnya, yang hampir nol, tetapi karena bukti perjanjian pertama di zaman asing ini ternyata bukan tanda tangan, melainkan sepotong kaca yang dipercayakan pada orang yang salah.
 

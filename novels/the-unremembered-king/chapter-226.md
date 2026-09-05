@@ -5,11 +5,11 @@ chapter: 226
 
 Pekan-pekan berikutnya Sekolah Mendengar berjalan dengan ritme yang membuat Sareth berkomentar bahwa sekolah itu "terasa lebih seperti musim daripada institusi" — datang dan pergi tanpa drama, mengubah sesuatu sedikit setiap kali lewat.
 
-Pekan empat: latihan name train bersama murid akademi. Ketiga siswa Spire diminta ikut menyanyikan satu gerbong — dan gagal semua dengan cara yang berbeda. Daven kehilangan nada di suku kedua karena terlalu fokus pada teknik. Pellia menyanyikannya sempurna tapi terlalu pelan, seperti minta izin. Thessa menolak mencoba di depan orang dan akhirnya menyanyikannya sendirian di dapur aula jam sebelas malam — didengar ibu Tamma yang bangun minum air.
+Pekan empat: latihan name train bersama murid akademi. Ketiga siswa Spire diminta ikut menyanyikan satu gerbong — dan gagal semua dengan cara yang berbeda. Daven kehilangan nada di suku kedua karena terlalu fokus pada teknik. Pellia menyanyikannya sempurna tetapi terlalu pelan, seperti minta izin. Thessa menolak mencoba di depan orang dan akhirnya menyanyikannya sendirian di dapur aula jam sebelas malam — didengar ibu Tamma yang bangun minum air.
 
-Besoknya, name train versi dapur itu dibicarakan seluruh barak: tidak benar nadanya, tidak rapi suku katanya, tapi ada sesuatu di dalamnya yang membuat ibu Tamma berdiri diam sampai lagunya selesai.
+Besoknya, name train versi dapur itu dibicarakan seluruh barak: tidak benar nadanya, tidak rapi suku katanya, tetapi ada sesuatu di dalamnya yang membuat ibu Tamma berdiri diam sampai lagunya selesai.
 
-"Kalian tahu apa yang beda?" kata ibu Tamma kepada Sela yang datang memastikan. "Anak-anak akademi menyanyi untuk kedalaman. Si Thessa tadi malam menyanyi untuk seseorang. Saya tidak tahu siapa. Tapi lagu yang untuk seseorang selalu bunyinya lain."
+"Kalian tahu apa yang beda?" kata ibu Tamma kepada Sela yang datang memastikan. "Anak-anak akademi menyanyi untuk kedalaman. Si Thessa tadi malam menyanyi untuk seseorang. Saya tidak tahu siapa. Namun lagu yang untuk seseorang selalu bunyinya lain."
 
 Thessa sendiri tidak menjelaskan. Yang diketahui hanya: namanya masuk daftar penyanyi pos jemput wilayah timur dua hari kemudian, ditulis tangannya sendiri, di baris paling bawah, dengan huruf kecil.
 
@@ -27,7 +27,7 @@ Pellia mencuci bersama Wida — penjaga pos jemput utara, karakter minor yang ol
 
 Dan Thessa mencuci bersama Ashvarok sendiri — jadwal yang oleh ibu Tamma disusun "tidak sengaja", kata yang tidak dipercaya siapa pun.
 
-Mereka tidak bicara banyak. Tapi di piring ke-tiga-ratus-kurang-sepuluh, Thessa bertanya hal yang selama ini tidak berani ia tanyakan kepada siapa pun:
+Mereka tidak bicara banyak. Namun di piring ke-tiga-ratus-kurang-sepuluh, Thessa bertanya hal yang selama ini tidak berani ia tanyakan kepada siapa pun:
 
 "Raja... maksud saya, Pak Ashvarok. Apakah bapak pernah menyesal? Membakar nama sendiri, seribu tahun jaga segel, semua itu?"
 
@@ -41,7 +41,7 @@ Ia menyerahkan piring terakhir kepada Thessa untuk dibilas.
 
 ---
 
-Pekan enam sampai sembilan berlalu seperti musim yang baik: panen selesai, name train timur mulai dilatih dengan name train keluarga asli yang direkam dari Vess-Morath (delapan belas tahun silam, keluarga-keluarga timur punya lagu yang mirip tapi tidak sama — dan kedalaman membantu mencocokkan variasinya satu per satu), dan Ondrath-Ilm menerima kunjungan kedua dari Thessa yang kali ini datang dengan pertanyaan yang sudah disiapkan — lalu tidak memakainya, karena malam itu yang perlu didengar justru cerita Barim tentang masa-masa ia hampir berhenti menjadi penjaga.
+Pekan enam sampai sembilan berlalu seperti musim yang baik: panen selesai, name train timur mulai dilatih dengan name train keluarga asli yang direkam dari Vess-Morath (delapan belas tahun silam, keluarga-keluarga timur punya lagu yang mirip tetapi tidak sama — dan kedalaman membantu mencocokkan variasinya satu per satu), dan Ondrath-Ilm menerima kunjungan kedua dari Thessa yang kali ini datang dengan pertanyaan yang sudah disiapkan — lalu tidak memakainya, karena malam itu yang perlu didengar justru cerita Barim tentang masa-masa ia hampir berhenti menjadi penjaga.
 
 Pekan sepuluh, ujian akhir diumumkan Sela dengan format yang membuat ketiga siswa tertawa karena lega:
 
@@ -53,13 +53,13 @@ Ketiga siswa duduk dengan tangan kosong. Dan sesuatu yang aneh terjadi pada masi
 
 Daven mendengar ARSITEKTUR — pola-pola antarkasus yang tak terlihat saat dibaca terpisah, cara kebocoran Hegemony merembes ke tujuh belas wilayah dengan urutan yang sama persis. "Kalau saya dengar sambil mencatat, saya akan kehilangan polanya karena sibuk menulis detail," katanya. "Detail sudah ada di arsip. Polanya hanya muncul kalau kita berani tangan kosong."
 
-Pellia mendengar ORANG — dan menangis di menit keempat puluh, saat pembacaan sampai pada pesan pamitan seorang ibu kepada anaknya yang delapan belas tahun silam masih sembilan tahun. Ia tidak ingat isi pesannya persis. "Tapi saya ingat rasanya," katanya. "Dan rasanya itu yang membuat saya yakin pekerjaan ini harus dilanjutkan di Spire."
+Pellia mendengar ORANG — dan menangis di menit keempat puluh, saat pembacaan sampai pada pesan pamitan seorang ibu kepada anaknya yang delapan belas tahun silam masih sembilan tahun. Ia tidak ingat isi pesannya persis. "Namun saya ingat rasanya," katanya. "Dan rasanya itu yang membuat saya yakin pekerjaan ini harus dilanjutkan di Spire."
 
 Thessa mendengar meja makan.
 
 "Maaf?" kata ibu Tamma.
 
-"Selama enam jam saya hanya mikir satu hal: hampir semua pesan pamitan itu menyebut makanan. 'Jangan lupa makan'. 'Sup ibumu masih saya ingat'. 'Ketika pulang, kita makan bareng dulu'." Thessa membuka buku catatannya — satu-satunya catatan yang ia buat, setelah ujian selesai. "Empat dari lima pesan menyebut makanan. Orang yang hilang delapan belas tahun tidak minta keadilan dalam surat terakhirnya. Mereka minta makan bareng."
+"Selama enam jam saya hanya berpikir satu hal: hampir semua pesan pamitan itu menyebut makanan. 'Jangan lupa makan'. 'Sup ibumu masih saya ingat'. 'Ketika pulang, kita makan bareng dulu'." Thessa membuka buku catatannya — satu-satunya catatan yang ia buat, setelah ujian selesai. "Empat dari lima pesan menyebut makanan. Orang yang hilang delapan belas tahun tidak minta keadilan dalam surat terakhirnya. Mereka minta makan bareng."
 
 Sunyi menyapu ruangan untuk sesaat. Lalu ibu Tamma bangkit, mengambil papan tulis dapur, dan menulis kalimat Thessa di tempat plakat plakat resmi biasanya digantung:
 
@@ -91,7 +91,7 @@ Malam sebelum pekan kesebelas, ibu Tamma memanggil ketiga siswa ke dapur — jam
 
 Ia menaruh tiga cangkir teh di meja dan duduk.
 
-"Sekolah ini dua pekan lagi tamat," katanya. "Dan saya mau ngomong soal sesuatu yang tidak ada di kurikulum kalian." Ia menatap mereka satu per satu dengan tatapan yang membuat Daven otomatis duduk lebih tegak. "Setelah kalian pulang, Spire akan menghormati kalian. Kalian sudah pergi ke kedalaman, kenal penjaga malam tertua, ikut pemulangan wilayah. Kalian akan jadi orang penting."
+"Sekolah ini dua pekan lagi tamat," katanya. "Dan saya mau berbicara soal sesuatu yang tidak ada di kurikulum kalian." Ia menatap mereka satu per satu dengan tatapan yang membuat Daven otomatis duduk lebih tegak. "Setelah kalian pulang, Spire akan menghormati kalian. Kalian sudah pergi ke kedalaman, kenal penjaga malam tertua, ikut pemulangan wilayah. Kalian akan jadi orang penting."
 
 Ia menyeruput tehnya sendiri.
 

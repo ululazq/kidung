@@ -43,7 +43,7 @@ Kovan melakukan pekerjaannya sesuai prosedur. Alat resmi diletakkan pada posisi 
 
 Yang datang memang bukan getar dalam arti yang diajarkan buku mana pun. Alat resmi di sisi Kovan tetap membaca kosong, sebagaimana alat resmi selalu membaca aula ini kosong. Tetapi lempeng cadangan di dasar batu menangkap sesuatu yang lain, sesuatu yang lembut dan berirama, seperti denyut yang dipindahkan dari tangan ke batu lalu diteruskan batu kepada siapa pun yang cukup rendah hati untuk menyentuhnya. Kovan tidak melihat apa pun pada permukaan pasak itu. Ia hanya menghitung, karena menghitung adalah satu-satunya hal yang tidak pernah menipunya.
 
-Satu tarikan napas panjang. Jeda pendek. Dua tarikan lebih pendek. Jeda yang sama lagi. Lalu satu tarikan yang tertahan di tengah jalan, seperti orang menelan kalimat sebelum sempat mengucapkannya, dan setelah itu diam.
+Satu tarikan napas panjang. Jeda pendek. Dua tarikan lebih pendek. Jeda yang sama lagi. Lalu satu tarikan yang tertahan di tengah jalan — seperti orang menelan kalimat sebelum sempat mengucapkannya — dan setelah itu diam.
 
 Pengikat senior melepaskan telapaknya dan bangkit dengan bantuan lutut kiri.
 
@@ -67,19 +67,19 @@ Mereka naik dengan urutan yang sama, orang tua di depan dan Kovan empat langkah 
 
 "Alatmu mencatat bahwa aku lewat. Batuku mengingat bahwa aku peduli." Ia melanjutkan langkahnya. "Suatu hari nanti, kalau kau hidup sampai cukup tua untuk memahami kalimat itu, kau akan berhenti bertanya kenapa aku bekerja seperti ini."
 
-Kovan tidak menjawab, karena jawaban jujurnya akan terdengar kasar, yaitu bahwa ia sudah memahami kalimat itu lebih cepat daripada yang diperkirakan orang tua itu. Sentuhan adalah kepemilikan yang sopan. Irama adalah tanda tangan. Malam nanti kertasnya akan membuktikan mana dari keduanya yang sedang dipertaruhkan di tambang ini.
+Kovan tidak menjawab, karena jawaban jujurnya akan terdengar kasar — yaitu bahwa ia sudah memahami kalimat itu lebih cepat daripada yang diperkirakan orang tua itu. Sentuhan adalah kepemilikan yang sopan. Irama adalah tanda tangan. Malam nanti kertasnya akan membuktikan mana dari keduanya yang sedang dipertaruhkan di tambang ini.
 
 ---
 
-Malam itu di kamar sewaannya, di bawah lampu lilin yang dipotong tinggi agar cahayanya tidak keluar jendela, Kovan membuka buku hitung bersandinya dan melakukan pekerjaan yang paling ia percayai di dunia, yaitu meletakkan dua deret angka di samping satu sama lain.
+Malam itu di kamar sewaannya, di bawah lampu lilin yang dipotong tinggi agar cahayanya tidak keluar jendela, Kovan membuka buku hitung bersandinya dan melakukan pekerjaan yang paling ia percayai di dunia — yaitu meletakkan dua deret angka di samping satu sama lain.
 
-Deret pertama sudah tua. Ia dicatat malam jam sebelas pada hari penilaian besar, ketika di tengah aula yang resmi mati ada bisikan yang bukan bunyi, suara tanpa suara dari arah dasar timur bawah yang menyapa seseorang atau sesuatu dengan cara yang membuat bulu lehernya berdiri. Ia tidak mendengar isinya. Ia hanya menghitung, seperti yang diajarkan orang tua yang sama yang ditemuinya pagi tadi, dan hasil hitungannya masuk buku sebagai baris angka yang tidak pernah dilaporkan kepada siapa pun.
+Deret pertama sudah tua. Ia dicatat malam jam sebelas pada hari penilaian besar, ketika di tengah aula yang resmi mati ada bisikan yang bukan bunyi, suara tanpa suara dari arah dasar timur bawah yang menyapa seseorang atau sesuatu dengan cara yang membuat bulu lehernya berdiri. Ia tidak mendengar isinya. Ia hanya menghitung — seperti yang diajarkan orang tua yang sama yang ditemuinya pagi tadi — dan hasil hitungannya masuk buku sebagai baris angka yang tidak pernah dilaporkan kepada siapa pun.
 
 Satu tarikan panjang. Jeda pendek. Dua tarikan pendek. Jeda yang sama. Satu tarikan tertahan.
 
 Ia menatap dua deret itu lama sekali, lalu menghitung ulang keduanya dari awal, lalu sekali lagi, dengan jarum kawat tembaga sebagai penunjuk dan napasnya sendiri sebagai satuan ukur. Hasilnya tidak berubah untuk ketiga kalinya. Irama yang direkam lempeng cadangannya dari telapak pengikat senior pada pangkal pasak kedua sisi selatan adalah irama yang sama dengan bisikan yang menyapa tambang pada jam sebelas malam itu. Bukan serupa. Bukan mirip. Sama, sampai ke jeda yang tertahan di tengah, sampai ke cara kalimat yang ditelan.
 
-Kovan duduk dengan tangan di atas kertas dan pikiran yang bekerja lebih cepat daripada biasanya, sebab selama ini dua misteri besarnya berdiri terpisah seperti dua lorong yang tidak bertemu. Ada suara di dasar timur, dan ia tidak tahu apa yang bersuara. Ada tradisi tua yang menyentuh batu dengan cara yang hilang dari semua buku, dan pemilik tradisinya berjalan di depannya setiap kali surat biro memerintahkan. Selama sembilan puluh hari ia mengira keduanya kebetulan hidup di tambang yang sama. Malam ini lempeng cadangannya berkata bahwa kebetulan tidak sebesar itu. Suara yang menyapa dan sentuhan yang membaca lahir dari tradisi yang sama. Yang menyapa tambang pada malam penilaian itu sedang memakai bahasa yang sama dengan bahasa tangan orang tua hemat yang berlutut di depan pasak.
+Kovan duduk dengan tangan di atas kertas dan pikiran yang bekerja lebih cepat daripada biasanya — sebab selama ini dua misteri besarnya berdiri terpisah seperti dua lorong yang tidak bertemu. Ada suara di dasar timur, dan ia tidak tahu apa yang bersuara. Ada tradisi tua yang menyentuh batu dengan cara yang hilang dari semua buku, dan pemilik tradisinya berjalan di depannya setiap kali surat biro memerintahkan. Selama sembilan puluh hari ia mengira keduanya kebetulan hidup di tambang yang sama. Malam ini lempeng cadangannya berkata bahwa kebetulan tidak sebesar itu. Suara yang menyapa dan sentuhan yang membaca lahir dari tradisi yang sama. Yang menyapa tambang pada malam penilaian itu sedang memakai bahasa yang sama dengan bahasa tangan orang tua hemat yang berlutut di depan pasak.
 
 Arti lengkapnya belum bisa ia rumuskan, dan ia tidak memaksakan diri. Yang bisa ia tulis malam ini hanya fakta pertemuan dua deret angka, dan ia menuliskannya dalam sandi pribadinya di halaman baru, di bawah judul dua kata yang dipilih dengan hati-hati.
 

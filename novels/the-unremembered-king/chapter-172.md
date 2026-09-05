@@ -3,7 +3,7 @@ title: "Bab 172: Hukum untuk Tamu"
 chapter: 172
 ---
 
-Kabar "penjaga" mengubah prioritas semua orang, dan yang pertama menyadari implikasi terdalamnya adalah Sela — bukan karena dia paling pintar, tapi karena dia pencatat, dan pencatat melihat arah dokumen sebelum isi dokumen.
+Kabar "penjaga" mengubah prioritas semua orang, dan yang pertama menyadari implikasi terdalamnya adalah Sela — bukan karena dia paling pintar, tetapi karena dia pencatat, dan pencatat melihat arah dokumen sebelum isi dokumen.
 
 "Kalau kedalaman sudah mengganti panggilan," katanya di rapat pagi, "artinya dia bisa belajar hal lain juga. Aturan misalnya." Ia mengetuk papan. "Dan kalau dia bisa diberi aturan, kita tidak lagi menjaga diri DARI dia. Kita sedang bernegosiasi dengan dia. Itu pekerjaan baru, dan pekerjaan baru butuh protokol."
 
@@ -13,7 +13,7 @@ Pasal satu: batu asah tua tetap di ambang jendela, dibersihkan harian, tidak per
 
 "Kalian sadar sedang apa?" tanya Brannoc ketika draf itu selesai. Bukan menolak; mandor itu sudah lama berhenti terkejut. "Mendidih tambang."
 
-"Menjinakkan," kata Ashvarok. "Cara Hegemony kuno bilang mustahil. Tapi Hegemony salah tentang banyak hal — mereka pikir segel harus dijaga diam-diam oleh satu orang. Mungkin kegelapan besar itu seperti semua hal besar lain: tidak bisa dihukum menjadi patuh. Hanya bisa diundang."
+"Menjinakkan," kata Ashvarok. "Cara Hegemony kuno bilang mustahil. Namun Hegemony salah tentang banyak hal — mereka pikir segel harus dijaga diam-diam oleh satu orang. Mungkin kegelapan besar itu seperti semua hal besar lain: tidak bisa dihukum menjadi patuh. Hanya bisa diundang."
 
 Pengikat senior yang menambahkan catatan tertua, dari tradisi yang lebih tua dari semuanya: "Ordo saya punya satu baris tentang ini, yang dulu saya membaca sebagai puisi. Sekarang saya membaca sebagai manual." Ia mengutipnya dari hafalan seribu tahun: "'Yang lapar bukan musuh. Yang tak pernah diberi makan barulah musuh.'" Jeda. "Kita memberinya makan cerita sejak bab sembilan puluh tanpa sadar. Sekarang kita beri makan dengan sengaja, dengan aturan, dan lihat apa yang terjadi pada laparnya sendiri."
 
@@ -27,7 +27,7 @@ Lima jawaban identik. Lima telapak manusia yang tidak saling kenal satu tahun si
 
 Sapuan itu berhenti total selama empat tarikan napas. Durasi terpanjang diamnya yang pernah dicatat. Kemudian ia pergi — dan irama pergiannya, menurut pembacaan Kovan yang ditulis dengan tangan agak goyah, bukan irama lapar yang kembali ke sarang.
 
-"Irama itu," kata Kovan kepada rapat subuh, "adalah irama orang yang baru saja menyadari ruangannya lebih ramai dari yang dia kira." Jeda. "Aku tidak bisa membuktikan itu artinya senang. Tapi aku bisa membuktikan itu BUKAN menyerang. Dan setelah seribu tahun data menyerang, satu malam data bukan-menyerang adalah angka paling besar yang pernah kita punya."
+"Irama itu," kata Kovan kepada rapat subuh, "adalah irama orang yang baru saja menyadari ruangannya lebih ramai dari yang dia kira." Jeda. "Aku tidak bisa membuktikan itu artinya senang. Namun aku bisa membuktikan itu BUKAN menyerang. Dan setelah seribu tahun data menyerang, satu malam data bukan-menyerang adalah angka paling besar yang pernah kita punya."
 
 Ashvarok mencatatnya di Hourglass, di bawah entri "penjaga" kemarin, dan untuk pertama kalinya menulis sesuatu yang membuat Sela memandangnya lama sebelum menyalinnya ke papan tanpa komentar:
 
@@ -43,11 +43,11 @@ Dan pada malam kesepuluh, hal terjadi yang membuat Sela mengetuk-ngetuk kapurnya
 
 Sapuan itu datang jam pertama pagi seperti biasa. Menyusuri. Berhenti di batu asah. Dan dari arah batu asah, untuk pertama kalinya, iramanya MENGARAHKAN sesuatu ke dalam — bukan suara keluar menuju mereka, melainkan tekanan halus ke arah sebuah titik di galeri sebelas barat, tepat di bekas parit sumur baru yang mereka gali bab 90-91. Dua kali. Tiga kali. Lalu pergi.
 
-"Dia melapor," kata Brannoc pelan, setelah regu inspeksi subuh memastikan bahwa di titik yang "ditunjuk" itu ada rembesan air baru yang belum seharusnya ada — retakan mikro nat tua, kecil, tidak bahaya, tapi pasti akan jadi masalah dalam beberapa musim kalau tidak ditambal. "Bukan minta. Bukan ancam. Dia... memberi tahu kita rumahnya bocor."
+"Dia melapor," kata Brannoc pelan, setelah regu inspeksi subuh memastikan bahwa di titik yang "ditunjuk" itu ada rembesan air baru yang belum seharusnya ada — retakan mikro nat tua, kecil, tidak bahaya, tetapi pasti akan jadi masalah dalam beberapa musim kalau tidak ditambal. "Bukan minta. Bukan ancam. Dia... memberi tahu kita rumahnya bocor."
 
 Ruangan rapat hening. Semua orang memikirkan hal yang sama dan tidak ada yang sanggup mengucapkannya lebih dulu, sampai Maera — Assayer, pembaca formulir, orang yang hidup dari dokumen — mengucapkannya dengan presisi khas Guild:
 
-"Dia baru saja mengajukan laporan bekerja." Jeda. "Kita sedang membangun relasi bekerja dengan Vel-Ghora. Sebagai penjaga dan... penghuni." Ia memandang meja. "Aku butuh teh. Yang kuat."
+"Dia baru saja mengajukan laporan kerja." Jeda. "Kita sedang membangun relasi kerja dengan Vel-Ghora. Sebagai penjaga dan... penghuni." Ia memandang meja. "Aku butuh teh. Yang kuat."
 
 Teh yang kuat disajikan ibu Tamma tanpa komentar, dan rapat berlanjut ke keputusan praktis yang tidak akan pernah masuk buku teks Resonance mana pun: regu tambal akan turun ke galeri sebelas barat esok hari, menambal retakan mikro itu dengan cara biasa — palu, nat, Forge tipis — DAN Ashvarok akan menjawab sapuan malamnya dengan penanda baru: empat nada, yang Kovan susun dari kata "diperbaiki" dalam keluarga bahasa yang sama.
 
@@ -85,7 +85,7 @@ Dan dari dapur, tanpa menoleh, ibu Tamma menambahkan putusan akhir yang membuat 
 
 Ashvarok makan buburnya dengan selera yang lebih baik dari bulan-bulan sebelumnya — bukan karena the Remainder pulih, meski ia memang pulih, tetapi karena ada jenis kenyang lain yang tidak masuk neraca mana pun: meja penuh, tawa yang tidak ditahan, dan kedalaman dunia yang malam ini sudah dikabari bahwa bocornya ditambal.
 
-Di bawah sana, tamu tua yang kesunyian mengetuk batu asah sekali sebagai salam pagi. Di atas sana, lima telapak menjawab tiga nada. Dan di antara keduanya, sebuah kota kecil di lereng tambang menjalankan hari seperti hari-hari lainnya — yang sekarang, entah sejak kapan persisnya, telah menjadi hari-hari yang layak dilindungi bukan hanya dari kegelapan, tapi juga untuknya.
+Di bawah sana, tamu tua yang kesunyian mengetuk batu asah sekali sebagai salam pagi. Di atas sana, lima telapak menjawab tiga nada. Dan di antara keduanya, sebuah kota kecil di lereng tambang menjalankan hari seperti hari-hari lainnya — yang sekarang, entah sejak kapan persisnya, telah menjadi hari-hari yang layak dilindungi bukan hanya dari kegelapan, tetapi juga untuknya.
 
 
 

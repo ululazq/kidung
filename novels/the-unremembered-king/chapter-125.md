@@ -3,9 +3,9 @@ title: "Bab 125: The Mute Who Speaks"
 chapter: 125
 ---
 
-Malam hari keseratus tujuh puluh sembilan adalah malam giliran regu bonus bekerja di segmen sebelas timur, dan seperti biasa pada malam-malam giliran itu, jadwal bekerja disusun mengikuti satu jam yang tidak tercantum di papan mana pun. Jam sunyi galeri sembilan. Setiap orang blok timur sudah hafal kapan airnya berhenti menetes dan kapan roda troli berhenti berbunyi di kejauhan, karena galeri itu tetap bisu sejak pekan-pekan lalu, dan pekerja sudah lama berdamai dengannya dengan cara mereka sendiri. Mereka menyebutnya istirahat teknik, mereka tidak masuk sendirian, dan mereka tidak pernah tinggal lebih lama daripada yang perlu di dekat ambangnya.
+Malam hari keseratus tujuh puluh sembilan adalah malam giliran regu bonus bekerja di segmen sebelas timur, dan seperti biasa pada malam-malam giliran itu, jadwal kerja disusun mengikuti satu jam yang tidak tercantum di papan mana pun. Jam sunyi galeri sembilan. Setiap orang blok timur sudah hafal kapan airnya berhenti menetes dan kapan roda troli berhenti berbunyi di kejauhan, karena galeri itu tetap bisu sejak pekan-pekan lalu, dan pekerja sudah lama berdamai dengannya dengan cara mereka sendiri. Mereka menyebutnya istirahat teknik, mereka tidak masuk sendirian, dan mereka tidak pernah tinggal lebih lama daripada yang perlu di dekat ambangnya.
 
-Ashvarok turun bersama regu inspeksi ventilasi lewat jalur undian yang sah, dengan daftar braket yang harus diperiksa malam itu dan lampu-lampu yang dibakar sesuai peraturan. Ondar ada di dalam regu, bersama dua penambang muda galeri sebelas yang masih memperlakukan tiap turun sebagai pengalaman yang perlu diceritakan. Pemeriksaan braket berjalan membosankan dan tepat waktu, dan itulah kondisi terbaik bagi pekerjaan apa pun di kedalaman.
+Ashvarok turun bersama regu inspeksi ventilasi lewat jalur undian yang sah, dengan daftar braket yang harus diperiksa malam itu dan lampu-lampu yang dibakar sesuai peraturan. Ondar ada di dalam regu, bersama dua penambang muda galeri sebelas yang masih memperlakukan tiap turun sebagai pengalaman yang perlu diceritakan. Pemeriksaan braket berjalan membosankan dan tepat waktu — dan itulah kondisi terbaik bagi pekerjaan apa pun di kedalaman.
 
 Mereka menyelesaikan braket terakhir sepuluh menit sebelum jam sunyi dimulai, lalu mundur ke titik persimpangan sesuai aturan, tempat lorong sebelas timur bertemu jalur utama dan jarak ke ambang galeri sembilan cukup jauh untuk aman menurut hitungan orang-orang. Mereka duduk sambil menunggu lonceng shift. Dua penambang muda berbagi roti. Ondar menghitung ulang hasil pemeriksaan dengan suara pelan untuk ketiga kalinya, kebiasaan yang lahir dari malam runtunan dan tidak pernah ia lepaskan.
 
@@ -17,7 +17,7 @@ Satu kata.
 
 Kata itu terucap dari arah galeri sembilan, dari kedalaman yang tidak bisa ia tebak jaraknya, dan ia terucap dengan jelas. Bukan gemuruh. Bukan bisikan panjang yang pecah menjadi desah. Satu kata utuh, dua suku kata yang tersambung dengan cara tertentu, diucapkan dengan bunyi vokal yang tidak pernah dipakai bahasa mana pun yang pernah didengar para pekerja tambang ini, dan cukup bersih sampai setiap telinga yang hadir menghafalnya tanpa sengaja.
 
-Semua bunyi lain di dalam galeri tetap mati. Air tetap tidak menetes. Roda tetap tidak berbunyi. Hanya kata itu yang keluar, seperti benda dilemparkan keluar dari ruangan yang terkunci, melewati ambang, melewati jarak, dan jatuh tepat di tengah lingkaran lima orang yang duduk menunggu lonceng shift.
+Semua bunyi lain di dalam galeri tetap mati. Air tetap tidak menetes. Roda tetap tidak berbunyi. Hanya kata itu yang keluar — seperti benda dilemparkan keluar dari ruangan yang terkunci — melewati ambang, melewati jarak, dan jatuh tepat di tengah lingkaran lima orang yang duduk menunggu lonceng shift.
 
 Roti di tangan penambang muda berhenti di udara.
 
@@ -33,7 +33,7 @@ Roti di tangan penambang muda berhenti di udara.
 
 "Ke aku. Saja." Ashvarok mengumpulkan alat pemeriksaan braket dan memasukkannya ke tasnya dengan gerakan yang sengaja dilambatkan, karena tangan yang sibuk menular lebih cepat daripada ketakutan. "Dan aturannya sama dengan aturan lama kita. Yang mendengar sesuatu tidak boleh sendirian sampai kabarnya selesai dibicarakan. Malam ini kalian naik bersama-sama, dan tidak ada yang lewat dekat ambang galeri."
 
-Mereka naik dengan formasi rapat, dan Ashvarok memastikan dirinya berjalan paling akhir, bukan karena takut pada apa pun di belakang, melainkan supaya tidak ada satu pun dari empat orang itu yang menoleh ke arah galeri lebih sering daripada yang perlu.
+Mereka naik dengan formasi rapat, dan Ashvarok memastikan dirinya berjalan paling akhir — bukan karena takut pada apa pun di belakang — melainkan supaya tidak ada satu pun dari empat orang itu yang menoleh ke arah galeri lebih sering daripada yang perlu.
 
 ---
 
@@ -43,7 +43,7 @@ Batu di bawah telapaknya kosong seperti biasa. Gema wilayah tetap berputar ke da
 
 Tidak ada celah baru. Tidak ada sayatan. Tidak ada retakan yang melebar. Yang berubah hanyalah satu hal, dan satu hal itu cukup untuk membuatnya berdiri di lorong dingin sampai lampunya meredup sendiri.
 
-Ada jejak yang baru saja lewat di atas nat tua itu. Bukan jejak gema yang bisa ia ukur, karena tidak ada gema yang dilepaskan. Jejak itu adalah jejak arah, bekas lintasan sesuatu yang bergerak dari dalam ke luar mengikuti jalur yang sama dengan aliran gema wilayah, seperti air meninggalkan buktinya di tepian salurannya. Kata malam ini tidak lahir di ambang. Kata itu berjalan keluar dari kedalaman, menyusuri nat tua yang sama yang selama ini menjadi peta seluruh gejala, melewati celah pertama yang ia segel, melewati dasar galeri tempat celah kedua ia tutup dengan separuh dirinya, dan berhenti tepat di garis ambang, seolah tahu bahwa di situlah dunia manusia dimulai.
+Ada jejak yang baru saja lewat di atas nat tua itu. Bukan jejak gema yang bisa ia ukur, karena tidak ada gema yang dilepaskan. Jejak itu adalah jejak arah, bekas lintasan sesuatu yang bergerak dari dalam ke luar mengikuti jalur yang sama dengan aliran gema wilayah, seperti air meninggalkan buktinya di tepian salurannya. Kata malam ini tidak lahir di ambang. Kata itu berjalan keluar dari kedalaman, menyusuri nat tua yang sama yang selama ini menjadi peta seluruh gejala, melewati celah pertama yang ia segel, melewati dasar galeri tempat celah kedua ia tutup dengan separuh dirinya, dan berhenti tepat di garis ambang — seolah tahu bahwa di situlah dunia manusia dimulai.
 
 Lalu ia mengucapkan satu kata, dan berhenti.
 
@@ -61,11 +61,11 @@ Lonceng shift subuh terdengar saat ia naik, dan pagi itu ia melapor dua kali den
 
 "Ya. Dia tidak menyerang apa pun. Dia berbicara, dan itu tahap yang belum pernah kita lihat." Ashvarok menaruh tas pemeriksaannya di tempatnya. "Aturan baru. Setiap orang yang mendengar kata itu, entah malam ini atau malam berikutnya, datang ke aku pagi harinya. Bukan ke kamu, bukan ke name map, bukan ke kertas. Ke aku. Dan kita hitung berapa banyak yang sudah hafal, supaya kita tahu seberapa besar barang ini tersebar."
 
-Versi kedua ia sampaikan di dapur barak, setelah sarapan, dengan Sela yang sudah menunggu di depan papannya dengan kapur baru. Di sana ia memberi nama pada fenomena itu, bukan nama yang ia ciptakan, melainkan nama yang sudah tumbuh sendiri di antara empat penambang muda yang pulang malam kemarin, karena pada pagi itu di segmen sebelas timur tidak ada yang menyebutnya dengan cara lain.
+Versi kedua ia sampaikan di dapur barak, setelah sarapan, dengan Sela yang sudah menunggu di depan papannya dengan kapur baru. Di sana ia memberi nama pada fenomena itu — bukan nama yang ia ciptakan — melainkan nama yang sudah tumbuh sendiri di antara empat penambang muda yang pulang malam kemarin, karena pada pagi itu di segmen sebelas timur tidak ada yang menyebutnya dengan cara lain.
 
 Si bisu bicara.
 
-Sela menulisnya di kolom baru, huruf besar, di bawah kolom PULIH yang baris-barisnya masih pendek. Lalu adik angkatnya melakukan hal yang selalu ia lakukan pada semua nama baru, yaitu bertanya tiga kali.
+Sela menulisnya di kolom baru, huruf besar, di bawah kolom PULIH yang baris-barisnya masih pendek. Lalu adik angkatnya melakukan hal yang selalu ia lakukan pada semua nama baru — yaitu bertanya tiga kali.
 
 "Kenapa dia bicara sekarang?" itu yang pertama.
 

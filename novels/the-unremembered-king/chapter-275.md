@@ -29,7 +29,7 @@ Dari Caldrest lewat jalur tanah: nat lorong barak utara menyanyikan gerbong pert
 
 Namanya sendiri.
 
-Yang oleh name train seribu batu disebutkan bukan dalam gelar atau jabatan, tapi dalam bentuk paling tua di dunia: nama yang lahir dari cerita orang-orang yang punya ceritanya.
+Yang oleh name train seribu batu disebutkan bukan dalam gelar atau jabatan, tetapi dalam bentuk paling tua di dunia: nama yang lahir dari cerita orang-orang yang punya ceritanya.
 
 *YANG MENDENGAR SAMPAI HABIS.*
 
@@ -59,7 +59,7 @@ Ulmek: "Api pegunungan menyala 300 tahun menunggu. Kau 1000. Aku hormat pada sen
 
 Widur: "Ada pantun baru untukmu. Nanti malam kubawakan. Pantun untuk batu itu pertama dalam sejarah pantun."
 
-Ibu Tamma: "Dapur pos ini resmi dibuka. Menu pertama: sup kamp. Yang paling lama menunggu makan duluan — dan itu bukan kau, kau baru nunggu seribu tahun; langganan kambingmu lebih dulu, mereka nunggu tanpa bisa protes."
+Ibu Tamma: "Dapur pos ini resmi dibuka. Menu pertama: sup kamp. Yang paling lama menunggu makan duluan — dan itu bukan kau, kau baru menunggu seribu tahun; langganan kambingmu lebih dulu, mereka menunggu tanpa bisa protes."
 
 Ashvarok-Renn bicara terakhir.
 
@@ -105,7 +105,7 @@ Dan satu adegan penutup — bertahun-tahun kemudian:
 
 Seorang anak kecil naik ke pos pendengar Vhal-Duren bersama kakeknya, duduk di depan batu bundar yang hangat, dan meletakkan roti manis di permukaannya — persis seperti yang dilakukan ibu-ibu Vel-Morra delapan ratus tahun silam, persis seperti yang dilakukan bocah barak utara dua tahun setelah era menyapa.
 
-"Kakek, katanya batu ini pernah nunggu seribu tahun. Itu lama sekali, ya?"
+"Kakek, katanya batu ini pernah menunggu seribu tahun. Itu lama sekali, ya?"
 
 "Lama, Nak," kata kakeknya.
 
@@ -129,7 +129,7 @@ Irama pintu yang dibiarkan terbuka.
 Karena era nama baru dimulai, dan pintu-pintunya — semua pintunya — kini terbuka dari dua sisi.
 ---
 
-Sebelum lagu terakhir dimainkan, ada satu upacara kecil yang tidak masuk daftar acara resmi — karena yang mengadakannya bukan panitia, tapi tiga kambing gunung.
+Sebelum lagu terakhir dimainkan, ada satu upacara kecil yang tidak masuk daftar acara resmi — karena yang mengadakannya bukan panitia, tetapi tiga kambing gunung.
 
 Langganan pertama Yang Mendengar Sampai Habis, yang selama dua pekan pembangunan duduk setia di tepi reruntuhan memperhatikan pekerja, mendekat ke batu bundar saat senja tiba. Satu di antaranya — yang tertua, tanduknya paling melengkung — mengangkat kepala dan bersuara sekali: bunyi pendek, kasar, seperti semua suara kambing.
 
@@ -139,13 +139,13 @@ Sempurna. Tersimpan. Ditambahkan ke katalog antara desis sup dan tawa dua penjag
 
 "Kau baru saja diarsipkan," kata Sela kepada kambing tua itu. "Selamanya."
 
-Kambing itu tampak menerima kabar ini dengan ketidakpedulian khas makhluk yang sudah hidup lama di dataran tinggi. Tapi ia tidak pergi. Ia duduk lebih dekat ke batu — sekarang bukan sebagai penunggu yang menunggu sesuatu dimulai, tapi sebagai langganan tetap yang tahu jadwalnya: lagu tiap malam, sup tiap pagi, dan cerita anak-anak tiap kali ada yang naik.
+Kambing itu tampak menerima kabar ini dengan ketidakpedulian khas makhluk yang sudah hidup lama di dataran tinggi. Namun ia tidak pergi. Ia duduk lebih dekat ke batu — sekarang bukan sebagai penunggu yang menunggu sesuatu dimulai, tetapi sebagai langganan tetap yang tahu jadwalnya: lagu tiap malam, sup tiap pagi, dan cerita anak-anak tiap kali ada yang naik.
 
 Barim mencatat di buku pos pendengar halaman pertama:
 
-*Daftar penghuni tetap Vhal-Duren hari pembukaan: satu seam bernama Yang Mendengar Sampai Habis. Empat pendengar manusia gilir (jadwal terlampir). Satu dapur (non-negotiable). Tiga kambing (senioritas tertinggi; dibayar dengan roti).*
+*Daftar penghuni tetap Vhal-Duren hari pembukaan: satu seam bernama Yang Mendengar Sampai Habis. Empat pendengar manusia gilir (jadwal terlampir). Satu dapur (tidak bisa ditawar). Tiga kambing (senioritas tertinggi; dibayar dengan roti).*
 
-*Catatan: delapan puluh tahun silam batu ini punya langganan kambing sebelum punya tamu manusia. Ada pelajaran di situ tentang kesetiaan yang tidak menunggu diakui, tapi aku belum sanggup merumuskannya. Kovan bilang tunggu sampai kita tua. Ibu Tamma bilang rumuskan sambil masak. Semua orang di dunia ini punya teori soal cara kerja hati, dan semuanya benar, dan semuanya belum lengkap.*
+*Catatan: delapan puluh tahun silam batu ini punya langganan kambing sebelum punya tamu manusia. Ada pelajaran di situ tentang kesetiaan yang tidak menunggu diakui, tetapi aku belum sanggup merumuskannya. Kovan bilang tunggu sampai kita tua. Ibu Tamma bilang rumuskan sambil masak. Semua orang di dunia ini punya teori soal cara kerja hati, dan semuanya benar, dan semuanya belum lengkap.*
 
 *Lagi bagus begitu. Arsip yang sudah lengkap itu tanda ceritanya habis.*
 ---
@@ -158,7 +158,7 @@ Seorang anak penggembala dari lereng timur, umur mungkin sepuluh tahun, naik mem
 
 Anak itu menghitung dengan jarinya, serius, dua kali karena hitungan pertama tidak cocok.
 
-"Panjang," kesimpulannya. "Tapi bagus. Nama pendek cocok untuk hal yang cepat selesai." Ia meletakkan rotinya di tepi batu bundar dengan gerakan yang sudah dipelajari dari kakeknya, bukan dari sekolah mana pun. "Yang lama menunggu harus punya nama panjang."
+"Panjang," kesimpulannya. "Namun bagus. Nama pendek cocok untuk hal yang cepat selesai." Ia meletakkan rotinya di tepi batu bundar dengan gerakan yang sudah dipelajari dari kakeknya, bukan dari sekolah mana pun. "Yang lama menunggu harus punya nama panjang."
 
 Barim menuliskan kalimat itu di buku pos pendengar, persis di bawah catatan tentang kambing-kambing, karena arsip yang baik tahu membedakan mana cerita besar dan mana kalimat anak sepuluh tahun yang kebetulan lebih besar daripada ceritanya.
 

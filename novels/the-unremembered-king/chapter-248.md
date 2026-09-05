@@ -19,7 +19,7 @@ Ashvarok yang pertama pulih, dan kalimatnya membuat Sela menulisnya langsung:
 
 ---
 
-Tapi itu baru kabar pertama.
+Namun itu baru kabar pertama.
 
 Surat kedua dari Thessa Vael — koordinator pendidikan Spire sekarang, jabatan yang dibuat khusus untuknya — melaporkan perubahan-perubahan besar yang terjadi di ibu kota:
 
@@ -29,7 +29,7 @@ DUA: Ruang tunggu pengaduan rakyat dilengkapi nat kecil (dibawa dari Caldrest, d
 
 TIGA: Dan yang paling besar — Dewan Regional Anthema Spire baru saja mengesahkan "Pasal Menyapa" sebagai bagian dari konstitusi wilayah:
 
-"Setiap warga Spire berhak didengar. Setiap pegawai dewan berkewajiban mendengar. Dan setiap keputusan yang menyentuh hidup rakyat harus dibacakan ulang kepada perwakilan rakyat SEBELUM disahkan — supaya rakyat bukan hanya diberi tahu, tapi benar-benar didengar."
+"Setiap warga Spire berhak didengar. Setiap pegawai dewan berkewajiban mendengar. Dan setiap keputusan yang menyentuh hidup rakyat harus dibacakan ulang kepada perwakilan rakyat SEBELUM disahkan — supaya rakyat bukan hanya diberi tahu, tetapi benar-benar didengar."
 
 ---
 
@@ -53,7 +53,7 @@ Kalian tahu aku datang ke Caldrest pertama kali sebagai anak jabatan yang tidak 
 
 Hari ini aku menandatangani dokumen pendidikan nasional dengan jabatan yang dibuat khusus untukku. Dan di atas mejaku ada dua hal: buku masak Karvess (sudah lecet, dipakai tiap minggu) dan tenunan kecil dari Lompa (polanya masih kacau; kutenggam saja).
 
-Aku mau bilang: anak jabatan juga bisa jadi orang yang layak. Tapi hanya kalau ada orang-orang yang tidak pernah berhenti mengajarnya.
+Aku mau bilang: anak jabatan juga bisa jadi orang yang layak. Namun hanya kalau ada orang-orang yang tidak pernah berhenti mengajarnya.
 
 Terima kasih tidak pernah cukup. Maka aku tidak menulis 'terima kasih'.
 
@@ -91,7 +91,7 @@ Sunyi. Semua menatap tubuh Renn yang bicara dua suara sekaligus — hal yang han
 
 Renn melanjutkan:
 
-"Dulu Spire mengirim pengawas ke kita, dan kita takut. Sekolah Mendengar mengirim jadwal ke kita, dan kita tenang. Bedanya: pengawas datang untuk MENILAI; jadwal datang untuk MENGAJAK." Ia mengetuk meja satu kali. "Jadi kalau tiga wilayah mau belajar... jangan kirim orangnya. Kirim buku 'Dunia Sejak Kamu Tidur'. Kirim resep Sup Kamp Pertama. Kirim kode ketukan. Dan bilang: pelajari dulu di rumah kalian. Kalau ada yang bingung, kami datang — TAPI HANYA KALAU DIMINTA."
+"Dulu Spire mengirim pengawas ke kita, dan kita takut. Sekolah Mendengar mengirim jadwal ke kita, dan kita tenang. Bedanya: pengawas datang untuk MENILAI; jadwal datang untuk MENGAJAK." Ia mengetuk meja satu kali. "Jadi kalau tiga wilayah mau belajar... jangan kirim orangnya. Kirim buku 'Dunia Sejak Kamu Tidur'. Kirim resep Sup Kamp Pertama. Kirim kode ketukan. Dan bilang: pelajari dulu di rumah kalian. Kalau ada yang bingung, kami datang — NAMUN HANYA KALAU DIMINTA."
 
 Ashvarok menambahkan penjelasannya untuk arsip:
 
@@ -167,7 +167,7 @@ Dunia berubah karena raja mau belajar."
 
 Dan Ashvarok menulis balasannya kecil di bawah entri itu — untuk arsip, untuk Renn, dan untuk siapa pun di masa depan yang membaca:
 
-"Setuju semua. Tapi satu koreksi terakhir:
+"Setuju semua. Namun satu koreksi terakhir:
 
 Aku tidak pernah 'raja yang mau belajar'.
 
@@ -179,7 +179,7 @@ Kalian berdua yang mengajariku dunia tidak selesai saat orangnya tidur."
 
 Dan satu paragraf terakhir — dari ibu Tamma, tentu saja, yang membaca semua arsip itu dan menambahkan catatan di halaman paling belakang:
 
-"Semua yang ditulis di atas benar. Tapi ada yang terlewat:
+"Semua yang ditulis di atas benar. Namun ada yang terlewat:
 
 Anak-anak Spire yang sekarang jadi pegawai dewan itu, waktu makan siang pertama mereka di sini, tidak ada satu pun yang habis makan supnya. Semua takut ambil tambahan.
 
@@ -203,7 +203,7 @@ Maka dengan ini Dewan menyatakan: protokol Caldrest bukan lagi 'bimbingan'. Ia r
 
 Dan kalimat terakhir surat ini kami kutip dari murid termuda angkatan pertama kami, umur enam belas tahun, yang saat ditanya apa artinya 'Pasal Menyapa' menjawab:
 
-'Artinya sekarang kalau orang bicara ke kita, kita dengarkan sampai dia SELESAI. Itu aja. Tapi ternyata itu segalanya.'"
+'Artinya sekarang kalau orang bicara ke kita, kita dengarkan sampai dia SELESAI. Itu saja. Namun ternyata itu segalanya.'"
 
 ---
 
@@ -211,7 +211,7 @@ Dan Ashvarok menutup bab ini dengan entri neraca yang pendeknya tidak biasa:
 
 Hari 940.
 
-Spire resmi mengadopsi Pasal Menyapa. Tiga wilayah menunggu paket. Dunia luar berubah — bukan karena kita kuat, tapi karena mereka penasaran.
+Spire resmi mengadopsi Pasal Menyapa. Tiga wilayah menunggu paket. Dunia luar berubah — bukan karena kita kuat, tetapi karena mereka penasaran.
 
 Delapan bulan silam aku bertanya "ada siapa di sana?"
 
@@ -225,7 +225,7 @@ Tidak ada yang lebih baik dari itu.
 
 Dan satu baris dari Renn di bawahnya:
 
-"Setuju. Tapi aku tambahkan: dunia tidak hanya belajar menyapa dari kita.
+"Setuju. Namun aku tambahkan: dunia tidak hanya belajar menyapa dari kita.
 
 Kita juga sedang belajar sesuatu dari mereka — bahwa dunia yang lebih besar itu ada, dan mau mendekat, kalau kita cukup jujur untuk membuka pintu."
 

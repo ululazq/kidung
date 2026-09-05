@@ -7,7 +7,7 @@ Malam kedua dari jadwal buta yang baru menjawab pertanyaan yang selama enam mala
 
 "Lampu," bisik Brannoc dari bahunya.
 
-Ashvarok menghitung. Enam titik cahaya redup berbaris rapi di sepanjang nat tua di bawah, dua lagi bertumpu di lekukan yang lebih tinggi, semuanya pelita yang diletakkan di lantai dengan jarak yang sama, seperti orang meletakkan perkakas, bukan seperti orang berkemah. Delapan orang bekerja dalam diam profesional, dan satu di antara lampu-lampu itu tidak berkedip sedikit pun, sebab orang yang berdiri di sampingnya sedang melakukan sesuatu yang lain, sesuatu yang membuat bulu tengkuk Ashvarok berdiri sendiri tanpa diminta.
+Ashvarok menghitung. Enam titik cahaya redup berbaris rapi di sepanjang nat tua di bawah, dua lagi bertumpu di lekukan yang lebih tinggi, semuanya pelita yang diletakkan di lantai dengan jarak yang sama — seperti orang meletakkan perkakas — bukan seperti orang berkemah. Delapan orang bekerja dalam diam profesional, dan satu di antara lampu-lampu itu tidak berkedip sedikit pun — sebab orang yang berdiri di sampingnya sedang melakukan sesuatu yang lain, sesuatu yang membuat bulu tengkuk Ashvarok berdiri sendiri tanpa diminta.
 
 Ada gema menyanyi di seam. Pelan, tertahan, sopan. Seorang pengikat sedang meminta izin pada batu dengan cara zaman ini, menenun klaim kepemilikan sementara supaya sayat tidak memicu runtunan, dan suaranya bersih, terlatih, dan sama sekali tidak asal.
 
@@ -15,7 +15,7 @@ Ada gema menyanyi di seam. Pelan, tertahan, sopan. Seorang pengikat sedang memin
 
 Brannoc mengunyah. "Berarti tidak hanya tukang bor."
 
-"Tidak. Berarti pemberi bekerja mereka membayar untuk keselamatan timnya, bukan untuk kecepatannya. Itu jenis majikan yang tidak kehabisan uang kalau satu malam gagal." Ashvarok menutup mata sebentar, membaca arah tenunan klaim itu, dan menemukan sesuatu yang membuat keputusannya matang dalam satu tarikan napas. Sayat pertama akan jatuh dekat pasak tua, dua puluh hasta dari bibir aula, dan pengikat itu cukup baik untuk membuat sayat itu berhasil. "Kita tidak bisa menunggu sampai malam ketiga."
+"Tidak. Berarti pemberi kerja mereka membayar untuk keselamatan timnya, bukan untuk kecepatannya. Itu jenis majikan yang tidak kehabisan uang kalau satu malam gagal." Ashvarok menutup mata sebentar, membaca arah tenunan klaim itu, dan menemukan sesuatu yang membuat keputusannya matang dalam satu tarikan napas. Sayat pertama akan jatuh dekat pasak tua, dua puluh hasta dari bibir aula, dan pengikat itu cukup baik untuk membuat sayat itu berhasil. "Kita tidak bisa menunggu sampai malam ketiga."
 
 "Protokol?"
 
@@ -33,7 +33,7 @@ Kovan turun tengah malam dengan lampu jaga rendah, surat tanda terselip di jaket
 
 "Cukup," kata Brannoc. Kata kerjanya selalu di depan. "Yang penting ada saksi yang kertasnya tidak bisa dibakar biro dia sendiri."
 
-Ashvarok memandang penjaga shift itu lebih lama daripada yang diperlukan kesepakatan semalam, sebab dua tahun lalu orang ini datang ke tambang dengan lempeng pengukur untuk menangkap kebohongan, dan malam ini ia turun dengan lempeng yang sama untuk menulis kebenaran sebagian. Dunia punya selera humor yang tua dan buruk. "Rencananya begini. Mereka sedang memasang alat potong di dekat pasak tua. Pengikatnya menenun klaim agar sayat aman. Kalau kita memutus klaimnya di tengah, seam akan menolak pisau mereka, dan orang-orang bayaran itu punya aturan pertama yang sama dengan semua pekerja, yaitu tidak mati untuk upah. Kau catat iramanya dari persimpangan, jangan maju walau apa pun yang kau dengar. Brannoc memegang nat tua, jangan sampai satu orang pun lolos lewat sana membawa alat berat. Sisanya milikku."
+Ashvarok memandang penjaga shift itu lebih lama daripada yang diperlukan kesepakatan semalam — sebab dua tahun lalu orang ini datang ke tambang dengan lempeng pengukur untuk menangkap kebohongan, dan malam ini ia turun dengan lempeng yang sama untuk menulis kebenaran sebagian. Dunia punya selera humor yang tua dan buruk. "Rencananya begini. Mereka sedang memasang alat potong di dekat pasak tua. Pengikatnya menenun klaim agar sayat aman. Kalau kita memutus klaimnya di tengah, seam akan menolak pisau mereka, dan orang-orang bayaran itu punya aturan pertama yang sama dengan semua pekerja, yaitu tidak mati untuk upah. Kau catat iramanya dari persimpangan, jangan maju walau apa pun yang kau dengar. Brannoc memegang nat tua, jangan sampai satu orang pun lolos lewat sana membawa alat berat. Sisanya milikku."
 
 "Apa yang kulaporkan soal dirimu?" tanya Kovan, datar.
 
@@ -41,11 +41,11 @@ Ashvarok memandang penjaga shift itu lebih lama daripada yang diperlukan kesepak
 
 ---
 
-Mereka menunggu sampai klaim pengikat musuh mencapai tarikan napas kesembilan, hampir sempurna, dan itulah saat Ashvarok membuka Ash.
+Mereka menunggu sampai klaim pengikat musuh mencapai tarikan napas kesembilan, hampir sempurna — dan itulah saat Ashvarok membuka Ash.
 
 Ia tidak membukanya besar. Harga abu yang mengingat selalu dibayar dua kali, sekali oleh tubuhnya dan sekali oleh jejak yang tertinggal, maka ia hanya mengambil irama klaim itu sendiri dan memakannya bersih, satu helai demi satu helai, seperti orang mengurai benang dari kain. Di bawah, nyanyian pengikat musuh tiba-tiba bernyanyi di ruang hampa. Tangan pemuda itu — Ashvarok kini tahu ia muda, dari cara napasnya tersentak — kehilangan pijakan di tengah tenunan, dan pisau bor yang sudah bersandar pada seam kehilangan izinnya dalam satu detik yang sama.
 
-Lampu-lampu mati serentak. Bukan padam, tapi ditelan. Cinder kecil, tujuh butiran sebesar biji wijen, melesat dari kegelapan persimpangan dan memakan nyala pelita satu per satu tanpa suara, dan kegelapan total adalah tembok yang paling menakutkan bagi orang yang bekerja dengan mata.
+Lampu-lampu mati serentak. Bukan padam, tetapi ditelan. Cinder kecil, tujuh butiran sebesar biji wijen, melesat dari kegelapan persimpangan dan memakan nyala pelita satu per satu tanpa suara, dan kegelapan total adalah tembok yang paling menakutkan bagi orang yang bekerja dengan mata.
 
 "Jalan," suara Brannoc menggelegar dari nat tua, disengaja kasar, disengaja seperti mandor tambang marah kepada regu nakal, dan suara itu lebih efektif daripada senjata mana pun karena delapan pekerja profesional langsung memahami bahasanya.
 
@@ -63,15 +63,15 @@ Lalu komandan tim yang tidak pernah bernama membuat keputusan yang benar. Peluit
 
 Mereka menyalakan lampu setelah lima ratus hitungan, dan medan yang ditinggalkan bercerita lebih banyak daripada tawanan mana pun.
 
-Bor gigi halus ditinggal masih terpasang pada penyangganya. Kaki tiga, kotak pin, tali anyaman pabrik, kotak pelita cadangan, semuanya tertata mundur dengan rapi oleh orang-orang yang memilih kecepatan di atas barang. Dan di dasar kotak alat utama, dilipat empat dan bersegel lilin hitam cap geometris itu, ada lembar bekerja.
+Bor gigi halus ditinggal masih terpasang pada penyangganya. Kaki tiga, kotak pin, tali anyaman pabrik, kotak pelita cadangan, semuanya tertata mundur dengan rapi oleh orang-orang yang memilih kecepatan di atas barang. Dan di dasar kotak alat utama, dilipat empat dan bersegel lilin hitam cap geometris itu, ada lembar kerja.
 
-Kovan yang membacanya lebih dulu, dan wajahnya, dalam cahaya lampu jaga, melakukan sesuatu yang jarang, yaitu berhenti sejenak di tengah pekerjaan.
+Kovan yang membacanya lebih dulu, dan wajahnya, dalam cahaya lampu jaga, melakukan sesuatu yang jarang — yaitu berhenti sejenak di tengah pekerjaan.
 
 "Tidak ada nama," katanya. "Tidak ada kop. Instruksi bekerja, jadwal giliran, denah parsial nat ini yang akurat sampai mengejutkan, dan baris pembayaran." Ia menggeser lembar itu ke arah cahaya. "Cicilan tahap pertama diterima. Jalur pengiriman surat-menyurat dan dana, lihat cap posnya. Rute pos Anthema Spire."
 
 Brannoc berlutut di samping kotak itu. "Slot lama sudah mati. Kurir bisu digembok Guild. Jaringan gang serahan tinggal cerita."
 
-"Jadi ini pemberi bekerja baru," kata Ashvarok pelan. Lembar itu tidak menyebut penyewa, tidak menyebut tujuan akhir, hanya pekan bekerja, tarif, dan larangan-larangan yang hati-hati, tapi jalurnya terbaca seperti jejak sol di debu. Uang dan surat untuk operasi Caldrest kini berpindah tangan lewat garis pos Spire, dan satu-satunya institusi besar yang ujungnya menyentuh garis itu punya lantai empat puluh dan jabatan arsip yang tidak punya wajah. Ia tidak mengatakan itu keras-keras. Beberapa kesimpulan lebih aman hidup di kepala. "Catat semuanya, Kovan. Lilinnya, capnya, irama klaim pengikat muda itu, baris pembayarannya. Semua masuk berkas orphan murmurmu, tanpa nama kami, tanpa nama mereka."
+"Jadi ini pemberi kerja baru," kata Ashvarok pelan. Lembar itu tidak menyebut penyewa, tidak menyebut tujuan akhir, hanya pekan kerja, tarif, dan larangan-larangan yang hati-hati, tetapi jalurnya terbaca seperti jejak sol di debu. Uang dan surat untuk operasi Caldrest kini berpindah tangan lewat garis pos Spire, dan satu-satunya institusi besar yang ujungnya menyentuh garis itu punya lantai empat puluh dan jabatan arsip yang tidak punya wajah. Ia tidak mengatakan itu keras-keras. Beberapa kesimpulan lebih aman hidup di kepala. "Catat semuanya, Kovan. Lilinnya, capnya, irama klaim pengikat muda itu, baris pembayarannya. Semua masuk berkas orphan murmurmu, tanpa nama kami, tanpa nama mereka."
 
 "Sudah kucatat sebelum kalian selesai berdebat." Kovan menutup kotak kayunya dan menguncinya. Untuk pertama kalinya malam itu, suaranya kehilangan sedikit ketegasannya. "Aku turun sebagai telinga. Aku naik sebagai saksi bahwa ada orang luar yang menyewa pengikat untuk memotong seam ini dan membaca kekosongan seperti membaca surat. Komisi klasifikasi akan menanyakan siapa yang melawan. Aku akan menjawab gema asing tak terklasifikasi. Aku sudah pandai menjawab begitu."
 

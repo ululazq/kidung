@@ -15,7 +15,7 @@ Perjalanan ke Spire memakan sembilan fajar. Di hari kelima, di pos peristirahata
 
 "Bagaimana bedanya?"
 
-"Kalau mereka menanyakan isi, mereka ingin tahu apa yang kau ketahui. Kalau mereka menanyakan apakah kau pernah melihat, mereka ingin tahu apakah kau bisa dikaitkan dengan peta itu — bukan karena isinya, tapi karena keberadaannya." Maera melipat surat itu. "Mereka bukan mencari informasi. Mereka mencari alamat."
+"Kalau mereka menanyakan isi, mereka ingin tahu apa yang kau ketahui. Kalau mereka menanyakan apakah kau pernah melihat, mereka ingin tahu apakah kau bisa dikaitkan dengan peta itu — bukan karena isinya, tetapi karena keberadaannya." Maera melipat surat itu. "Mereka bukan mencari informasi. Mereka mencari alamat."
 
 "Alamat?"
 
@@ -35,7 +35,7 @@ Thessa Vael menyambut mereka di gerbang kota, membawa dua cangkir teh hangat dan
 
 Sore itu, mereka naik ke lantai arsip. Di ujung koridor yang panjang, sebuah pintu kayu tanpa nama, hanya angka: 40. Di baliknya, seorang perempuan tua duduk di meja yang dipenuhi berkas, tanpa jubah, tanpa lencana — hanya cincin perak di jari manis kirinya yang menandakan garis arsip.
 
-Sebelum masuk, Thessa berbisik kepada Mira: "Ruang arsip tidak pernah menerima dua orang sekaligus. Ia melanggar kebiasaannya sendiri untuk kau." Ia menunjuk pintu itu. "Ingat: garis arsip tidak berbohong, tapi mereka juga tidak pernah memberi tahu semua yang mereka tahu. Bila ia diam, jangan isi keheningannya dengan jawabanmu sendiri."
+Sebelum masuk, Thessa berbisik kepada Mira: "Ruang arsip tidak pernah menerima dua orang sekaligus. Ia melanggar kebiasaannya sendiri untuk kau." Ia menunjuk pintu itu. "Ingat: garis arsip tidak berbohong, tetapi mereka juga tidak pernah memberi tahu semua yang mereka tahu. Bila ia diam, jangan isi keheningannya dengan jawabanmu sendiri."
 
 "Kau masuk?" tanya Maera.
 
@@ -43,13 +43,13 @@ Sebelum masuk, Thessa berbisik kepada Mira: "Ruang arsip tidak pernah menerima d
 
 "Kau Mira," kata perempuan tua itu tanpa menoleh ketika mereka masuk. "Saksi angin. Duduklah. Kau boleh duduk, pembaca kedua."
 
-Maera duduk. Mira tetap berdiri. "Aku datang untuk menjawab pertanyaan tentang peta," katanya. "Tapi sebelum aku menjawab, aku ingin tahu satu hal: kau menanyakan peta atas nama siapa?"
+Maera duduk. Mira tetap berdiri. "Aku datang untuk menjawab pertanyaan tentang peta," katanya. "Namun sebelum aku menjawab, aku ingin tahu satu hal: kau menanyakan peta atas nama siapa?"
 
 Perempuan tua itu menoleh. Matanya abu-abu, tenang, seperti batu yang sudah lama tidak bergerak. "Atas nama garis arsip," katanya. "Garis yang menyimpan rekaman sebelum Choir ada. Garis yang membaca dokumen sebelum panitia menyentuhnya. Dan garis yang, delapan belas tahun silam, menerima satu surat dari seorang penggambar peta yang meminta izin untuk menggambar titik ketujuh."
 
 Mira merasakan dadanya menegang. "Kau mengenal penggambar peta itu?"
 
-"Tidak." Perempuan tua itu meletakkan berkas di tangannya. "Tapi aku mengenal tulisan tangannya. Tangan kiri, miring, huruf-huruf yang ditekan terlalu keras. Aku menyimpannya di arsip ini selama delapan belas tahun, menunggu seseorang bertanya tentangnya. Dan kau adalah orang pertama yang bertanya."
+"Tidak." Perempuan tua itu meletakkan berkas di tangannya. "Namun aku mengenal tulisan tangannya. Tangan kiri, miring, huruf-huruf yang ditekan terlalu keras. Aku menyimpannya di arsip ini selama delapan belas tahun, menunggu seseorang bertanya tentangnya. Dan kau adalah orang pertama yang bertanya."
 
 Ia membuka laci, mengeluarkan selembar kertas tua yang menguning, dan meletakkannya di atas meja. Di atasnya, sebuah sketsa kasar menara — menara yang sama yang Mira jaga selama bertahun-tahun — dengan satu garis di celahnya yang diberi tanda: *katup*.
 
@@ -59,11 +59,11 @@ Mira menatap sketsa itu lama. "Kau menyimpan ini selama delapan belas tahun," ka
 
 "Karena surat itu tidak ditujukan ke menara." Perempuan tua itu menatap Mira. "Surat itu ditujukan ke barak. Dan barak tidak pernah punya alamat resmi — sampai kau menulis namamu di laporan angin, dan untuk pertama kalinya dalam delapan belas tahun, barak punya alamat yang bisa dijawab."
 
-Mira menarik napas panjang. "Maka panggilan keduaku ini," katanya pelan, "bukan tentang angin. Dan bukan tentang peta. Kau ingin mengirimkan sesuatu ke barak, tapi kau tidak tahu caranya, sampai kau menemukan bahwa barak punya nama yang bisa dituju: aku."
+Mira menarik napas panjang. "Maka panggilan keduaku ini," katanya pelan, "bukan tentang angin. Dan bukan tentang peta. Kau ingin mengirimkan sesuatu ke barak, tetapi kau tidak tahu caranya, sampai kau menemukan bahwa barak punya nama yang bisa dituju: aku."
 
-Perempuan tua itu tersenyum untuk pertama kalinya. "Pembaca kedua," katanya, "tidak pernah salah membaca." Ia mendorong seikat surat yang diikat tali kulit ke seberang meja. "Bawa ini ke barak. Dan sampaikan kepada orang yang menjaga napas: penggambar peta sudah pergi, tapi pertanyaannya belum. Ia bertanya satu hal sebelum ia mati: siapa yang menyedot pengikat?"
+Perempuan tua itu tersenyum untuk pertama kalinya. "Pembaca kedua," katanya, "tidak pernah salah membaca." Ia mendorong seikat surat yang diikat tali kulit ke seberang meja. "Bawa ini ke barak. Dan sampaikan kepada orang yang menjaga napas: penggambar peta sudah pergi, tetapi pertanyaannya belum. Ia bertanya satu hal sebelum ia mati: siapa yang menyedot pengikat?"
 
-Mira mengambil surat itu. Di bawah tali kulit, ia membaca tulisan tangan kiri yang miring, ditekan terlalu keras: *Tujuh napas terkunci. Satu pintu tertidur. Tapi di utara, sesuatu menarik benang yang tidak seharusnya ditarik. Cari pemiliknya sebelum pemiliknya mencari kita.*
+Mira mengambil surat itu. Di bawah tali kulit, ia membaca tulisan tangan kiri yang miring, ditekan terlalu keras: *Tujuh napas terkunci. Satu pintu tertidur. Namun di utara, sesuatu menarik benang yang tidak seharusnya ditarik. Cari pemiliknya sebelum pemiliknya mencari kita.*
 
 "Aku boleh bertanya satu hal," kata Mira sebelum berdiri. "Delapan belas tahun kau menyimpan surat ini. Kenapa baru sekarang kau mengirimkannya?"
 
@@ -83,7 +83,7 @@ Mira membalik peta itu. Di sisi belakangnya, tulisan tangan yang sama, lebih kec
 
 "Apa yang bergerak?"
 
-"Aku tidak tahu. Tapi kalau garis itu memanjang ke utara setiap kali ia kembali," kata Mira, "maka sesuatu yang menarik benang itu sedang mendekat ke Spire. Dan penggambar peta ini tahu, karena ia mengukurnya sebelum ia mati."
+"Aku tidak tahu. Namun kalau garis itu memanjang ke utara setiap kali ia kembali," kata Mira, "maka sesuatu yang menarik benang itu sedang mendekat ke Spire. Dan penggambar peta ini tahu, karena ia mengukurnya sebelum ia mati."
 
 Mira menutup surat-surat itu. "Maka peta penggambar itu memang mencari pemiliknya," katanya. "Dan pemiliknya bukan di barak. Ia di utara. Kita hanya tidak tahu namanya — dan sekarang, untuk pertama kalinya, kita tahu bahwa ia menarik benang ke arah yang tidak tercatat."
 

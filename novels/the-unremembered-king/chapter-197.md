@@ -23,11 +23,11 @@ Pekerjaan itu memakan dua puluh hari — dua pekan lebih lama dari rencana kafil
 
 Dan di hari ketiga, terjadi hal yang tidak direncanakan siapa pun: perempuan-perempuan keluarga petani lembah mulai datang setiap hari. Bukan karena diminta. Karena melihat tangan Lissa bekerja adalah cara pertama mereka melihat seni tenun utara asli sejak delapan belas tahun — dan tangan mereka ingin ikut.
 
-"Aku tidak bisa ngajar," protes Lissa, setengah panik, tanpa mengalihkan mata dari pola.
+"Aku tidak bisa mengajar," protes Lissa, setengah panik, tanpa mengalihkan mata dari pola.
 
 "Ibu-ibu ini tidak minta diajar," jawab ibu tertua keluarga petani, sambil sudah memegang benang dan duduk di batu paling nyaman dekat alat tenun. "Mereka hanya mau duduk deket orang yang tangannya ingat sesuatu."
 
-Kelompok duduk itu bertambah satu-dua orang tiap hari. Yang datang bukan hanya ibu-ibu: gadis-gadis remaja, dua nenek yang butuh digandeng, dan — mengejutkan semua orang — seorang pemandu kafilah laki-laki yang katanya "hanya mau belajar memperbaiki jala", tapi duduk paling rajin dan tangannya paling teliti. Pada hari kedua puluh, ketika selimut hampir selesai, mereka sudah berjumlah sebelas orang dan memiliki nama tidak resmi yang menempel lebih cepat dari nama resmi mana pun dalam sejarah lembah: Kelas Tenun Lissa.
+Kelompok duduk itu bertambah satu-dua orang tiap hari. Yang datang bukan hanya ibu-ibu: gadis-gadis remaja, dua nenek yang butuh digandeng, dan — mengejutkan semua orang — seorang pemandu kafilah laki-laki yang katanya "hanya mau belajar memperbaiki jala", tetapi duduk paling rajin dan tangannya paling teliti. Pada hari kedua puluh, ketika selimut hampir selesai, mereka sudah berjumlah sebelas orang dan memiliki nama tidak resmi yang menempel lebih cepat dari nama resmi mana pun dalam sejarah lembah: Kelas Tenun Lissa.
 
 Lissa sendiri berubah sepanjang dua puluh hari itu. Barim yang mengamatinya dari pos jaga menulis laporan singkat kepada Ashvarok yang kalimat terakhirnya tidak akan pernah dilupakan siapa pun yang membacanya: "Delapan belas tahun silam dia hilang sebagai anak yang sedang bekerja. Dia pulang sebagai guru. Penyimpanan itu bukan hanya menyimpan orang — dia menyimpan orang di tengah pekerjaan mereka, supaya mereka bisa pulang ke diri mereka yang paling sibuk."
 
@@ -53,13 +53,13 @@ Dan Endah — perempuan yang delapan belas tahun berkabung tanpa jenazah — men
 
 Kabar dua pemulangan sekaligus mengubah sesuatu di Caldrest yang lebih dalam dari protokol: kota ini berhenti memperlakukan pemulangan sebagai operasi. Ia menjadi bagian hidup.
 
-Keluarga-keluarga mulai datang sendiri ke Arsip bukan hanya bertanya "kapan giliran kami" tapi menawarkan bantuan: "aku hafal lagu kesukaannya", "aku punya alat tenun tua", "rumahku dekat tempat dia dulu bekerja". Armada utara tidak lagi dibentuk dari atas; ia tumbuh dari bawah, dari orang-orang yang ingin ikut membawa pulang nama.
+Keluarga-keluarga mulai datang sendiri ke Arsip bukan hanya bertanya "kapan giliran kami" tetapi menawarkan bantuan: "aku hafal lagu kesukaannya", "aku punya alat tenun tua", "rumahku dekat tempat dia dulu bekerja". Armada utara tidak lagi dibentuk dari atas; ia tumbuh dari bawah, dari orang-orang yang ingin ikut membawa pulang nama.
 
-Tapi satu urusan keluarga besar Endah-Lissa ternyata belum selesai, dan inilah yang membuat bab kehidupan mereka tidak berakhir di pelukan: calon pengantin Endah — pemuda utara yang juga hilang malam kebocoran — ternyata ada di Daftar Empat Ratus. Belum giliran pemulangannya.
+Namun satu urusan keluarga besar Endah-Lissa ternyata belum selesai, dan inilah yang membuat bab kehidupan mereka tidak berakhir di pelukan: calon pengantin Endah — pemuda utara yang juga hilang malam kebocoran — ternyata ada di Daftar Empat Ratus. Belum giliran pemulangannya.
 
 Kabar itu disampaikan Ossian dengan hati-hati, sesuai protokol pemberitahuan berjenjang yang baru ia tulis — dan Endah menerimanya dengan cara yang membuat juru ukur itu mencatat di laporannya: "Keluarga utara bukan keluarga yang menunggu kabar. Mereka mengelola kabar."
 
-"Jadi Kak Endah memutuskan menunggu," kata Lissa kepada Ashvarok di menara, dengan senyum sedih yang bangga. "Delapan belas tahun dia kira tunangannya mati dan dia berkabung. Sekarang dia tahu tunangannya masih ada dan dia memilih NUNGGU lagi." Jeda perempuan itu. "Orang-orang bilang perempuan utara keras kepala. Mereka bukan setengahnya."
+"Jadi Kak Endah memutuskan menunggu," kata Lissa kepada Ashvarok di menara, dengan senyum sedih yang bangga. "Delapan belas tahun dia kira tunangannya mati dan dia berkabung. Sekarang dia tahu tunangannya masih ada dan dia memilih MENUNGGU lagi." Jeda perempuan itu. "Orang-orang bilang perempuan utara keras kepala. Mereka bukan setengahnya."
 
 Nama tunangan Endah langsung dinaikkan ke daftar prioritas oleh kedalaman sendiri — dengan alasan yang diterjemahkan Kovan dan membuat seluruh tim inti diam:
 
@@ -81,7 +81,7 @@ Jadwalnya ditulis Sela di peta nama, kolom baru:
 
 Malam sebelum kafilah pulang, Lissa mengajak Ashvarok ke alat tenun tua di menara — tempat selimut itu diselesaikan — dan menunjukkan satu hal yang tidak dilihat siapa pun: di sudut kain, ada pola kecil baru yang bukan bagian desain asli delapan belas tahun silam.
 
-"Itu aku tambahin," kata Lissa. "Pola matahari lembah. Buat nyatet bahwa selimut ini selesai bukan tahun pembuatannya — tapi tahun Caldrest datang." Ia menatap Ashvarok, ragu untuk pertama kalinya sejak pulang. "Boleh ya? Ubah karya orang hilang sedikit?"
+"Itu aku tambahin," kata Lissa. "Pola matahari lembah. Buat mencatat bahwa selimut ini selesai bukan tahun pembuatannya — tetapi tahun Caldrest datang." Ia menatap Ashvarok, ragu untuk pertama kalinya sejak pulang. "Boleh ya? Ubah karya orang hilang sedikit?"
 
 "Dia bukan lagi orang hilang," jawab Ashvarok. "Dia penenun yang baru saja selesai. Dan kalau dia lihat dari sana—" ia menunjuk ke arah tanah, ke kedalaman yang hangat, "—kupikir dia minta kamu tambah dua pola lagi. Satu untuk setiap musim yang tertunda."
 

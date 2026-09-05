@@ -9,13 +9,13 @@ Satu-dua-satu. Satu-dua-tiga. Pola name train yang diajarkan anak-anak di ruang 
 
 "Siapa?" Suara Ondar menyusul lewat dinding, pecah, tertahan supaya tidak bergema ke arah yang salah. "Siapa yang di sana?"
 
-Ashvarok meletakkan dahinya ke batu. Di dalam silent zone ini suara merambat aneh, datar, tanpa bayangan gema, dan ia harus mengukur sendiri seberapa keras ia boleh bicara supaya sampai ke satu dinding tanpa sampai ke retakan. "Nama kalian satu per satu," katanya. "Keras. Mulai dari yang paling dekat pintu."
+Ashvarok meletakkan dahinya ke batu. Di dalam zona sunyi ini suara merambat aneh, datar, tanpa bayangan gema, dan ia harus mengukur sendiri seberapa keras ia boleh bicara supaya sampai ke satu dinding tanpa sampai ke retakan. "Nama kalian satu per satu," katanya. "Keras. Mulai dari yang paling dekat pintu."
 
 Ada jeda panjang. Lalu Ondar berkata namanya sendiri lengkap, dengan nama tengahnya yang hampir tak pernah dipakai siapa pun, dan anak inspeksinya menyusul satu per satu, lalu empat pekerja troli timur, dan Ashvarok menghitung kesembilan nama sambil mencatat satu hal yang membuat dadanya dingin: dua suara terakhir terdengar lebih tipis dari yang seharusnya, seperti orang yang sudah mulai ragu apakah namanya masih miliknya.
 
 Retakan tahu itu juga. Ia bisa merasakan perhatiannya di ujung level, jauh di balik ambrukan lorong utama, sesuatu yang selama ini menghadap keluar kini menoleh ke dalam, ke arah ruangan tertutup yang tiba-tiba berisi sepuluh manusia penuh nama. Umpan metafisiknya sudah dibawa keluar ke timur atas oleh tangan-tangan panener, dan lapar itu tidak punya tempat lagi untuk pergi kecuali kemari.
 
-"Sekarang dengar baik-baik," kata Ashvarok ke dinding. "Lorong kalian mati. Jalan kalian tutup dari luar. Tapi ada satu pintu di dasar galeri yang mengenali nama-nama kalian, dan aku akan bawa kalian ke sana. Kegelapan di antara kita tidak bisa dibaca mata, jadi kalian akan berpegangan bahu seperti kereta. Tangan kiri ke bahu orang di depan. Yang paling belakang pegang dinding. Tidak ada yang dilepas."
+"Sekarang dengar baik-baik," kata Ashvarok ke dinding. "Lorong kalian mati. Jalan kalian tutup dari luar. Namun ada satu pintu di dasar galeri yang mengenali nama-nama kalian, dan aku akan bawa kalian ke sana. Kegelapan di antara kita tidak bisa dibaca mata, jadi kalian akan berpegangan bahu seperti kereta. Tangan kiri ke bahu orang di depan. Yang paling belakang pegang dinding. Tidak ada yang dilepas."
 
 "Dari mana kita tahu kamu bukan bagian dari sunyinya?" Itu suara salah satu pekerja troli, yang tua, yang suaranya berusaha keras untuk tidak gemetar.
 
@@ -31,7 +31,7 @@ Ashvarok berjalan paling depan dengan telapak kanan menyentuh nat kiri terus-men
 
 Pada pemberhentian kedua, di node keempat jalur katup, Ondar berbisik dari barisan tengah.
 
-"Lorong B tadi. Kamu masuk dari situ. Sendirian. Sebelum segelnya nutup sempurna."
+"Lorong B tadi. Kamu masuk dari situ. Sendirian. Sebelum segelnya menutup sempurna."
 
 "Aku masuk dari situ."
 
@@ -43,9 +43,9 @@ Ondar diam lama. Ketika ia bicara lagi suaranya lebih rendah, dan bukan kepada A
 
 "Maka datanglah aku," kata Ashvarok. "Simpan sisanya untuk di atas."
 
-Yang tidak ia katakan adalah bahwa setiap langkah di dalam wilayah ini menagih kepadanya dua kali. Pertama kepada the Remainder, yang tinggal separuh jari di atas lantai pra-Long Dusk dan kini menipis lagi pelan-pelan setiap kali ia menjadi satu-satunya hal hangat dalam radius retakan. Kedua kepada dirinya, dengan cara yang lebih curang, sebab di antara dua sapuan keempat dan kelima ada satu ingatan yang hilang tiga tarikan napas dan pulang sendiri, dan ingatan itu tentang musim, tentang nama musim ketika dia pertama kali menempa umpan metafisik itu, dan ia baru menyadarinya hilang ketika sudah kembali, seperti rumah yang baru dikenali bentuknya setelah kebanjiran. Harga seni raja tidak pernah berhenti di tempat pembayaran. Ia selalu menyisakan pertanyaan kecil di akhir struk.
+Yang tidak ia katakan adalah bahwa setiap langkah di dalam wilayah ini menagih kepadanya dua kali. Pertama kepada the Remainder, yang tinggal separuh jari di atas lantai pra-Long Dusk dan kini menipis lagi pelan-pelan setiap kali ia menjadi satu-satunya hal hangat dalam radius retakan. Kedua kepada dirinya, dengan cara yang lebih curang — sebab di antara dua sapuan keempat dan kelima ada satu ingatan yang hilang tiga tarikan napas dan pulang sendiri, dan ingatan itu tentang musim, tentang nama musim ketika dia pertama kali menempa umpan metafisik itu, dan ia baru menyadarinya hilang ketika sudah kembali, seperti rumah yang baru dikenali bentuknya setelah kebanjiran. Harga seni raja tidak pernah berhenti di tempat pembayaran. Ia selalu menyisakan pertanyaan kecil di akhir struk.
 
-Dan ada hal ketiga yang tidak ia ceritakan kepada siapa pun, termasuk kepada sembilan orang di belakangnya. Setiap kali retakan menyapu, sapuan itu sekarang berhenti sebentar di atas mereka. Tidak menyedot. Tidak membaca. Hanya berhenti, seperti lidah yang memutar rasa di sudut mulut, mengukur sepuluh wajah penuh nama di dalam ruangan yang dikiranya kosong. Orang-orang paling penuh nama di Caldrest sedang digiring menyeberangi dapur pemakan nama, dan satu-satunya pagar yang mereka bawa adalah hafalan.
+Dan ada hal ketiga yang tidak ia ceritakan kepada siapa pun, termasuk kepada sembilan orang di belakangnya. Setiap kali retakan menyapu, sapuan itu sekarang berhenti sebentar di atas mereka. Tidak menyedot. Tidak membaca. Hanya berhenti — seperti lidah yang memutar rasa di sudut mulut — mengukur sepuluh wajah penuh nama di dalam ruangan yang dikiranya kosong. Orang-orang paling penuh nama di Caldrest sedang digiring menyeberangi dapur pemakan nama, dan satu-satunya pagar yang mereka bawa adalah hafalan.
 
 "Jangan tidur," katanya pada pemberhentian kelima, karena salah satu pekerja troli mulai melamun berdiri. "Sebut nama kalian sendiri tiap kali aku mengetuk tiga kali. Pelan saja. Cukup untuk telinga sendiri."
 
@@ -57,13 +57,13 @@ Pada pemberhentian keenam hal yang ia takutkan terjadi pada yang tertua. Pekerja
 
 "Nama," kata Ashvarok. "Bukan yang panjang. Yang dipanggil ibumu dulu waktu kamu basah hujan."
 
-Ada tarikan napas yang sangat panjang. Lalu suara itu datang kecil sekali, seperti dikirim dari jauh di dalam sumur. "Mama memanggilku... Mamak. Bukan namaku. Tapi hanya dia yang boleh."
+Ada tarikan napas yang sangat panjang. Lalu suara itu datang kecil sekali, seperti dikirim dari jauh di dalam sumur. "Mama memanggilku... Mamak. Bukan namaku. Namun hanya dia yang boleh."
 
-"Berhenti di situ," kata Ashvarok. "Itu sudah pagar. Besok di atas kamu cari orang yang hafal nama panjangmu, dan kamu minta dia menyebutkannya sampai kamu bisa ikut menyebut." Ia mengetuk tiga kali. Kali ini jawabannya datang, nama lengkap, pelan tapi utuh, dan Ondar di belakang mengulanginya keras-keras seperti orang menitip barang.
+"Berhenti di situ," kata Ashvarok. "Itu sudah pagar. Besok di atas kamu cari orang yang hafal nama panjangmu, dan kamu minta dia menyebutkannya sampai kamu bisa ikut menyebut." Ia mengetuk tiga kali. Kali ini jawabannya datang, nama lengkap, pelan tetapi utuh, dan Ondar di belakang mengulanginya keras-keras seperti orang menitip barang.
 
 ---
 
-The Waiting Door terlihat sebelum terasa, yang merupakan hal yang mustahil di dalam kegelapan mutlak, dan itulah bukti pertama bagi sembilan orang itu bahwa dunia di sini sudah tidak mengindahi aturan. Bidang besi itu sedikit lebih hangat dari batu di sekelilingnya, dan sedikit lebih hadir, cara seseorang yang menunggu di stasiun angkut lebih hadir daripada tiang di sampingnya.
+The Waiting Door terlihat sebelum terasa, yang merupakan hal yang mustahil di dalam kegelapan mutlak — dan itulah bukti pertama bagi sembilan orang itu bahwa dunia di sini sudah tidak mengindahi aturan. Bidang besi itu sedikit lebih hangat dari batu di sekelilingnya, dan sedikit lebih hadir, cara seseorang yang menunggu di stasiun angkut lebih hadir daripada tiang di sampingnya.
 
 Ashvarok meletakkan kedua telapaknya ke permukaan itu. Delapan puluh enam nama. Ia tidak meminta pintunya melakukan apa pun yang belum pernah dimintanya. Hanya membuka, pada waktunya, untuk orang-orang yang ceritanya telah membuat pintu ini ada.
 

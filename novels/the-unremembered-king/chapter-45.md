@@ -71,7 +71,7 @@ Ashvarok naik ke permukaan pada lonceng ketiga, dengan cara berjalan yang disusu
 
 Orang-orang berkerumun di barak dan gang, membandingkan jam, membandingkan lilin. Brannoc sudah di tengah kerumunan, melakukan pekerjaan yang disepakati: "Gas," katanya, keras, berkali-kali, dengan wajah Foreman yang tidak menerima bantahan. "Kantong old gas di retakan bawah. Membuat pusing, membuat lilin cepat habis, membuat jam lo semua kacau. Besok regu pertama turun cek ventilasi. Sekarang semua tidur."
 
-Sebagian percaya. Sebagian tidak percaya tapi lelah. Sebagian kecil — mata-mata mata pencarian, penilai yang menghitung — diam dengan cara yang memberitahu Ashvarok bahwa cerita gas akan hidup sampai besok sore dan mati setelahnya.
+Sebagian percaya. Sebagian tidak percaya tetapi lelah. Sebagian kecil — mata-mata mata pencarian, penilai yang menghitung — diam dengan cara yang memberitahu Ashvarok bahwa cerita gas akan hidup sampai besok sore dan mati setelahnya.
 
 Yang membuat kakinya berhenti di tikungan terakhir menuju barak bukan kerumunan.
 

@@ -17,7 +17,7 @@ Dan catatan arsipis itu ditutup dengan kalimat yang membuat Ossian harus keluar 
 
 Ossian membaca salinan itu tiga kali di menara, di hadapan Maera dan para juru tulis, tanpa malu-malu lagi — orang ini telah belajar menangis di depan umum sejak name train raksasa jalan raya, dan tidak ada yang berhenti menghargainya untuk itu.
 
-Lalu ia melakukan sesuatu yang akan menjadi tradisi pribadinya: ia meminta izin Sareth untuk membaca satu gulungan arsap utara dengan telapaknya sendiri — dibimbing — dan memilih gulungan catatan dapur rumah keluarganya.
+Lalu ia melakukan sesuatu yang akan menjadi tradisi pribadinya: ia meminta izin Sareth untuk membaca satu gulungan arsip utara dengan telapaknya sendiri — dibimbing — dan memilih gulungan catatan dapur rumah keluarganya.
 
 Dan di sana, dalam rekaman batu, ia menemukan resep sup ayam Vessia. Utuh. Dituliskan oleh ibunya ke dinding dapur zaman kecil Ossian, direkam oleh seam karena semua yang terjadi di rumah itu tersimpan — dan Vessia benar: belum hilang.
 
@@ -47,13 +47,13 @@ Dan kedalaman menyimpan semuanya. Delapan belas tahun cerita cucu: pertama sekol
 Ketika hal ini diceritakan kepada ibu dari keluarga itu — kini lanjut usia, masih hidup, tinggal di rumah tepi lembah — wanita itu diam lama, lalu bertanya satu hal: "Jadi... anak-anakku DENGAR?"
 Ashvarok yang menjawab dengan Listen penuh: "Semua. Tidak ada satu pagi pun yang terlewat."
 
-"Kalau begitu," kata perempuan tua itu sambil bangkit pelan dari kursinya, "besok pagi kalian ikut aku ke sumur. Sudah delapan belas tahun aku ngomong sendirian. Sekarang giliran kalian jawab."
+"Kalau begitu," kata perempuan tua itu sambil bangkit pelan dari kursinya, "besok pagi kalian ikut aku ke sumur. Sudah delapan belas tahun aku berbicara sendirian. Sekarang giliran kalian jawab."
 
 ---
 
 Pagi berikutnya, di sumur keluarga itu, terjadi upacara yang tidak ada dalam protokol mana pun: perempuan tua membaca daftar cucu-cucunya kepada kedalaman untuk terakhir kalinya — dan kali ini, di akhir setiap nama, empat pendengar Caldrest menjawab "ada" dari batu. Nama demi nama. Delapan belas tahun satu arah menjadi percakapan dua arah dalam satu pagi.
 Ketika selesai, wanita itu menutup buku catatan kecilnya — buku yang ternyata ia pakai selama ini sebagai pengingat urutan cerita — dan berkata kepada Ashvarok:
-"Delapan belas tahun aku kira aku gila. Ternyata aku korresponden." Ia tersenyum senyum ibu-ibu yang tidak pernah menyerah. "Tolong bilang ke semua ibu di dunia: tidak apa-apa ngomong sendirian ke sumur. Kadang-kadang ada yang nyatet."
+"Delapan belas tahun aku kira aku gila. Ternyata aku korresponden." Ia tersenyum senyum ibu-ibu yang tidak pernah menyerah. "Tolong bilang ke semua ibu di dunia: tidak apa-apa berbicara sendirian ke sumur. Kadang-kadang ada yang mencatat."
 
 ---
 
@@ -83,7 +83,7 @@ Kedalaman menyebut mereka dengan istilah lain. Terjemahannya: penjaga-pintu-yang
 ---
 
 Sisa bab diisi penutup perjalanan pulang — dan satu detail yang membuat seluruh Caldrest paham bahwa utara sudah benar-benar berubah: di pos perhentian terakhir sebelum lembah, keluarga petani itu memberi mereka bawaan: sekantong biji dari kebun ibu tua, dengan pesan untuk "ditanam di tepi aula".
-Biji itu ditanam Sela dan murid-murid akademi pekan berikutnya, di sisi nat-nat lingkaran. Ibu Tamma menertawakannya — "siapa tanam bunga di tambang" — tapi tetap menyiraminya tiap pagi, dan kalau ditanya kenapa, jawabannya sudah menjadi legenda dapur:
+Biji itu ditanam Sela dan murid-murid akademi pekan berikutnya, di sisi nat-nat lingkaran. Ibu Tamma menertawakannya — "siapa tanam bunga di tambang" — tetapi tetap menyiraminya tiap pagi, dan kalau ditanya kenapa, jawabannya sudah menjadi legenda dapur:
 "Karena sumurnya menyuruh."
 
 ---
@@ -91,7 +91,7 @@ Biji itu ditanam Sela dan murid-murid akademi pekan berikutnya, di sisi nat-nat 
 Dan baris-baris terakhir bab 193 — entri Hourglass Ashvarok yang menutup semuanya:
 Hari 397. Neraca bulan utara: satu kategori arsip baru, satu daftar prioritas yang disusun kedalaman, satu keluarga penjaga-pintu ditemukan, dan sekantong biji bunga.
 Seribu tahun silam, wilayah ini ditutup dengan segel dan dikunci dengan takutan. Hari ini ia dibuka dengan sup, biji bunga, dan ibu tua yang delapan belas tahun menulis surat ke air.
-Sejarah akan mencatat bahwa utara dibuka oleh dua tradisi pendengar dan satu jabatan Spire. Tapi aku catat yang benar di sini: utara dibuka oleh seorang ibu yang tidak pernah berhenti berbicara.
+Sejarah akan mencatat bahwa utara dibuka oleh dua tradisi pendengar dan satu jabatan Spire. Namun aku catat yang benar di sini: utara dibuka oleh seorang ibu yang tidak pernah berhenti berbicara.
 
 ---
 

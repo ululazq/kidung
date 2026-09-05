@@ -55,7 +55,7 @@ Keputusan, ketika akhirnya dibacakan, dibacakan Hale dengan suara yang ia jaga t
 
 ---
 
-Tidak ada yang bersorak saat ruangan bubar, karena hasilnya bukan kemenangan siapa pun. Tapi Ossian, yang keluar lewat pintu samping sesuai rencana, mendengar di punggungnya bunyi yang lebih mahal daripada sorakan — empat ratus orang bangkit serempak dengan tenang, meliputi barang masing-masing, dan mulai mengatur ulang jadwal shift mereka di gang seperti orang yang baru diberi sepuluh hari dan berniat memakai semuanya sampai habis.
+Tidak ada yang bersorak saat ruangan bubar, karena hasilnya bukan kemenangan siapa pun. Namun Ossian, yang keluar lewat pintu samping sesuai rencana, mendengar di punggungnya bunyi yang lebih mahal daripada sorakan — empat ratus orang bangkit serempak dengan tenang, meliputi barang masing-masing, dan mulai mengatur ulang jadwal shift mereka di gang seperti orang yang baru diberi sepuluh hari dan berniat memakai semuanya sampai habis.
 
 Di kamarnya, sebelum tengah hari, ia membuka buku pribadinya di halaman kotak-kotak kosong dan menulis di bawah barisan silam yang kesembilan belas:
 

@@ -49,7 +49,7 @@ Daven — yang paling senior dan paling percaya pada rencana kerja — mengusulk
 
 "Pos nomor empat kalian taruh di tanah milik keluarga Wren. Keluarga itu delapan belas tahun silam menyelamatkan jiwa bernama Sova — dia sekarang bagian dari kami. Tanah itu bukan tempat pos. Tanah itu makam kenangan. Pindahkan dua puluh langkah ke barat, dekat batu datar. Di sanalah Sova dulu duduk menunggu hujan reda."
 
-"Kalian punya peta," kata Ashvarok kepada Daven, "dan mereka punya ingatan. Ingatan selalu menang. Tapi kabarnya baik: kalian boleh punya keduanya."
+"Kalian punya peta," kata Ashvarok kepada Daven, "dan mereka punya ingatan. Ingatan selalu menang. Namun kabarnya baik: kalian boleh punya keduanya."
 
 Denah revisi Daven menjadi denah resmi wilayah timur — dan ia sendiri yang meminta agar catatan koreksi Vess-Morath dilampirkan utuh di dokumen. "Supaya siswa-siswa berikutnya belajar lebih cepat dari saya," katanya. Kalimat itu dikutip Sela sebagai tanda pertama birokrasi Spire yang menuliskan kesalahannya sendiri dengan sukarela.
 
@@ -57,7 +57,7 @@ Pellia pekan kedua menemukan hal lain: ia ternyata pendengar alami — kategori 
 
 "Selamat," kata Barim ketika memberinya teh. "Sekarang hidupmu lebih sulit. Pendengar tidak pernah benar-benar libur."
 
-Thessa pekan kedua tidak menemukan bakat apa pun — dan justru itu yang membuatnya berharga: ia satu-satunya siswa yang tidak punya kemampuan khusus, sehingga melakukan semua hal dengan cara yang bisa dipelajari siapa pun. Ibu Tamma menaruhnya di dapur aula dan menemukan murid paling tekun dalam sejarah dapur: Thessa mencatat resep-resep sup bukan untuk dirinya, tapi untuk dibawa pulang ke Spire.
+Thessa pekan kedua tidak menemukan bakat apa pun — dan justru itu yang membuatnya berharga: ia satu-satunya siswa yang tidak punya kemampuan khusus, sehingga melakukan semua hal dengan cara yang bisa dipelajari siapa pun. Ibu Tamma menaruhnya di dapur aula dan menemukan murid paling tekun dalam sejarah dapur: Thessa mencatat resep-resep sup bukan untuk dirinya, tetapi untuk dibawa pulang ke Spire.
 
 "Kamu mau membuka dapur di Spire?" tanya ibu Tamma.
 
@@ -67,7 +67,7 @@ Thessa menjawab dengan kalimat yang oleh ibu Tamma diminta ditulis ulang agar bi
 
 ---
 
-Pekan ketiga: kunjungan mingguan Ondrath-Ilm. Giliran Caldrest jatuh pada murid akademi bernama Roshen — tapi ketiga siswa Spire meminta ikut, dan permintaan itu menimbulkan perdebatan kecil di tim inti.
+Pekan ketiga: kunjungan mingguan Ondrath-Ilm. Giliran Caldrest jatuh pada murid akademi bernama Roshen — tetapi ketiga siswa Spire meminta ikut, dan permintaan itu menimbulkan perdebatan kecil di tim inti.
 
 "Ondrath-Ilm bilang datang saat tidak butuh," kata Sela yang pro. "Siswa yang sedang belajar mendengar adalah definisi paling murni dari tidak butuh apa-apa."
 
@@ -89,7 +89,7 @@ Thessa pulang dengan wajah merah — dan malamnya ia menulis surat pertamanya ke
 
 Surat Thessa dibacakan di rapat Dewan Regional — oleh ketua majelis sendiri, tanpa diminta siapa pun — dan efeknya melampaui semua ekspektasi Caldrest.
 
-Karena ketua majelis tidak berhenti di pembacaan. Ia memutuskan — lewat suara majelis yang menurut kabar hampir bulat — bahwa Spire akan mengirim siswa ke Sekolah Mendengar SETIAP ANGKATAN secara permanen: tiga orang per dua belas pekan, dipilih bukan dari pejabat paling senior, tapi dari mereka yang kelak akan mengambil keputusan. "Masa depan birokrasi harus belajar mencuci piring sebelum menandatangani," kata ketua majelis dalam pidatonya, kalimat yang dalam sebulan menjadi poster tidak resmi di kantor-kantor Dewan wilayah lain.
+Karena ketua majelis tidak berhenti di pembacaan. Ia memutuskan — lewat suara majelis yang menurut kabar hampir bulat — bahwa Spire akan mengirim siswa ke Sekolah Mendengar SETIAP ANGKATAN secara permanen: tiga orang per dua belas pekan, dipilih bukan dari pejabat paling senior, tetapi dari mereka yang kelak akan mengambil keputusan. "Masa depan birokrasi harus belajar mencuci piring sebelum menandatangani," kata ketua majelis dalam pidatonya, kalimat yang dalam sebulan menjadi poster tidak resmi di kantor-kantor Dewan wilayah lain.
 
 Angkatan kedua sudah mendaftar sebelum angkatan pertama selesai: sembilan nama, termasuk dua notaris, satu arsiparis Spire, dan — mengejutkan semua orang — satu mantan penilai pajak yang dalam surat pendaftarannya menulis: "saya delapan tahun menghitung kerugian orang lain sebagai angka. Saya ingin belajar menghitungnya sebagai wajah."
 

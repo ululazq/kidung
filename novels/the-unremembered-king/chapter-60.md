@@ -5,7 +5,7 @@ chapter: 60
 
 Hari ketujuh puluh delapan terbuka tanpa angin, dan Caldrest menuruni tangga tambang dengan lilin-lilin stasiun yang menyala lebih tegak dari biasanya, seperti api pun tahu hari itu ada yang sedang dinilai.
 
-Prosesi bergerak pada jam ketujuh: enam penilai bersertifikat Spire dengan kotak-kotak bersegel, dua Shift Guard, Shift Guard Kovan dengan lempeng-lempeng cadangannya di punggung, Assayer Tull membawa kotak timbung mini di depan dada seperti orang membawa alibi, pejabat Ossian Vael berjalan sedikit di belakang barisan agar bisa membaca semua punggung sekaligus, dan di ujung formasi, di antara empat kuli regu ventilasi dengan peti-peti instrumen di pundak, seorang bocah lorong tujuh bernama Renn mengatur langkahnya menjadi persis seboring langkah kuli mana pun.
+Prosesi bergerak pada jam ketujuh: enam penilai bersertifikat Spire dengan kotak-kotak bersegel, dua Shift Guard, Shift Guard Kovan dengan lempeng-lempeng cadangannya di punggung, Assayer Tull membawa kotak timbung mini di depan dada seperti orang membawa alibi, pejabat Ossian Vael berjalan sedikit di belakang barisan agar bisa membaca semua punggung sekaligus, dan di ujung formasi, di antara empat kuli regu ventilasi dengan peti-peti instrumen di pundak, seorang bocah lorong tujuh bernama Renn mengatur langkahnya menjadi persis seiring langkah kuli mana pun.
 
 Brannoc berjalan paling akhir, dengan hak Foreman dan penyelenggara inspeksi ventilasi: sampai pintu zona penilaian, tidak lebih, sesuai dokumen yang ditandatangani dirinya sendiri. Sepanjang turunan, mandor itu tidak sekali pun menoleh ke arah bocah yang membawa petinya — dua orang yang sudah setahun saling memercayai hidup mereka justru menjaga jarak sempurna di hadapan saksi, dan jarak itu adalah bentuk kepercayaan yang paling sulit dilatih.
 
@@ -61,7 +61,7 @@ Ashvarok, memindahkan tali keranjang di sudut ruangan, merasakan kalimat itu bek
 
 "Dicatat," kata Maera, dan menulisnya.
 
-Dan Ossian Vael, yang mendapatkan semua yang dia inginkan, berdiri sedikit terlalu lama di tengah kemenangannya, dan Ashvarok — yang setahun belajar membaca punggung orang ini dari lubang ventilasi — melihat keraguan itu bekerja di bahu pejabat itu seperti air merembes di balik plester: terlalu mudah. Kata-kata itu bahkan tidak perlu diucapkan. Seorang Chorus-tier pengikat yang membeli kebenaran dengan harga politik selama setahun tidak pernah percaya kepada tagihan yang murah, dan ruangan ini baru menagihnya empat jam bekerja dan satu stempel.
+Dan Ossian Vael, yang mendapatkan semua yang dia inginkan, berdiri sedikit terlalu lama di tengah kemenangannya, dan Ashvarok — yang setahun belajar membaca punggung orang ini dari lubang ventilasi — melihat keraguan itu bekerja di bahu pejabat itu seperti air merembes di balik plester: terlalu mudah. Kata-kata itu bahkan tidak perlu diucapkan. Seorang Chorus-tier pengikat yang membeli kebenaran dengan harga politik selama setahun tidak pernah percaya kepada tagihan yang murah, dan ruangan ini baru menagihnya empat jam kerja dan satu stempel.
 
 "Semuanya terbaca normal," kata Ossian akhirnya, pelan, hampir kepada dirinya sendiri. "Sampai detik ini, semuanya terbaca normal."
 

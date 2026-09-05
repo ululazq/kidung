@@ -53,7 +53,7 @@ Kovan membaca surat Maera lalu membuka buku anomali. Ia menarik benang pembatas 
 
 Di menara, malam itu perawat tua menulis satu baris di bawah angka bulan: *Pengukur datang. Hanya angin yang ditunjukkan. Celah tidak.*
 
-Ia tidak menutup buku. Ia meninggalkannya terbuka di kursi kosong, seolah menunggu orang yang namanya kini ada di dua tempat — di arsip Spire sebagai saksi, dan di ruang tengah barak sebagai suara yang tidak pernah mereka lihat.
+Ia tidak menutup buku. Ia meninggalkannya terbuka di kursi kosong — seolah menunggu orang yang namanya kini ada di dua tempat — di arsip Spire sebagai saksi, dan di ruang tengah barak sebagai suara yang tidak pernah mereka lihat.
 
 Kereta pengukur berhenti di pos perantara saat senja. Dua dari tiga orang turun ke rumah makan kecil, sementara yang berkepala surat tetap di dalam kereta, menulis di buku catatan koordinasi. Penjaga pos yang sudah tua mendekat membawa sebatang teh hangat.
 
@@ -85,7 +85,7 @@ Sela menulis di papan kecilnya: *Spire mungkin turun. Kita tidak tunjukkan jalan
 
 ---
 
-Malam itu Kovan duduk di ruang tengah dengan buku anomali dan peta Ossian. Ia menarik benang dari barak ke menara, lalu ke Spire, dan untuk pertama kalinya melihat simpul kedua muncul di ujung Spire — bukan di arsip umum, melainkan di jalur yang sama dengan di mana baris arsip membaca lebih dulu.
+Malam itu Kovan duduk di ruang tengah dengan buku anomali dan peta Ossian. Ia menarik benang dari barak ke menara, lalu ke Spire, dan untuk pertama kalinya melihat simpul kedua muncul di ujung Spire — bukan di arsip umum — melainkan di jalur yang sama dengan di mana baris arsip membaca lebih dulu.
 
 "Ada simpul kedua," katanya pada Ashvarok-Renn. "Tidak di ruang panitia. Di jalur bawah tanah Spire. Sama seperti di sini: gradien utara punya ujung yang ditarik dari atas."
 
@@ -105,7 +105,7 @@ Ia mengetuk lantai serambi tiga kali, berhenti sehentakan, lalu memandang ke uta
 
 Mira duduk di ambang, menatap ke selatan. Angin malam masuk pelan, membawa napas yang sama dengan yang ia catat tiap subuh. Di utara, kereta pengukur telah jauh. Tetapi di arsip Spire, nama yang ia tulis sendiri kini duduk di atas meja yang membaca lebih dulu dari siapa pun — dan meja itu baru saja belajar bahwa ada besi yang belum mereka pegang, walau belum satu pun dari mereka yang pernah melihatnya.
 
-Ashvarok-Renn menutup pintu serambi. Benang pertama telah ditarik balik, bukan oleh jawaban, melainkan oleh rasa ingin tahu. Itu jenis tarikan yang lebih berbahaya daripada perintah, karena rasa ingin tahu tidak pernah puas dengan angka.
+Ashvarok-Renn menutup pintu serambi. Benang pertama telah ditarik balik — bukan oleh jawaban — melainkan oleh rasa ingin tahu. Itu jenis tarikan yang lebih berbahaya daripada perintah, karena rasa ingin tahu tidak pernah puas dengan angka.
 
 Pagi berikutnya di menara, Mira membuka buku catatan dan menulis angka seperti biasa: tiga, selatan ke utara. Pengukur dari utara tidak mengubah apa pun di atas kertas. Ia menatap baris yang ia tulis sehari sebelum kedatangan mereka, lalu baris yang ia tulis pagi ini. Sama.
 
@@ -115,7 +115,7 @@ Pagi berikutnya di menara, Mira membuka buku catatan dan menulis angka seperti b
 
 "Membuat mereka tahu angka, bukan orangnya. Orang yang menahan angka adalah yang bisa ditanya. Mereka tidak bisa bertanya pada pengukuran. Mereka hanya bisa bertanya pada kau."
 
-Mira mengangguk. Ia mengetuk tiga kali ke lantai menara, diam satu hentakan. Itu bukan untuk mereka. Itu untuk dirinya: agar ia ingat bahwa apa yang dicatatnya bukan milik pengukur, melainkan milik irama yang ia pelajari sejak hari pertama duduk di kursi itu.
+Mira mengangguk. Ia mengetuk tiga kali ke lantai menara, diam satu hentakan. Itu bukan untuk mereka. Itu untuk dirinya: agar ia ingat bahwa apa yang dicatatnya bukan milik pengukur — melainkan milik irama yang ia pelajari sejak hari pertama duduk di kursi itu.
 
 ---
 
@@ -125,7 +125,7 @@ Di barak utara, Harn mengirim kabar lewat kurir kampung: bel di rumah Brannoc ki
 
 "Benang diam," kata Ashvarok-Renn. "Ia hidup di tubuh orang yang tidak pernah membaca laporan. Itu kekuatan yang Spire tidak bisa ukur, karena mereka hanya menghitung apa yang lewat pos."
 
-Sela menambahkan baris ke name-map distrik di bawah nama Mira: *Ritme selaras barak utara. Benang bunyi.* Ia tidak menjelaskan kepada siapa pun bahwa itu berarti pengawasan kini tidak hanya di atas kertas, melainkan di udara antara dua tempat yang dipisahkan jarak berhari-hari.
+Sela menambahkan baris ke name-map distrik di bawah nama Mira: *Ritme selaras barak utara. Benang bunyi.* Ia tidak menjelaskan kepada siapa pun bahwa itu berarti pengawasan kini tidak hanya di atas kertas — melainkan di udara antara dua tempat yang dipisahkan jarak berhari-hari.
 
 ---
 

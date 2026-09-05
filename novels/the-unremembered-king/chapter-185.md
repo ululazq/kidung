@@ -17,11 +17,11 @@ Kabupaten utara tidak tampak seperti tempat tragedi. Itulah yang membuat semua o
 
 "Alam tidak menjaga," kata Sareth Vayin, turun dari gerobak pertama dengan telapak yang sudah siap. "Alam menunggu. Ada bedanya." Ia meletakkan telapaknya ke batu pertama di gerbang kabupaten, dan membaca lama, dan ketika mengangkat kepala matanya basah: "Mereka masih di sini. Semuanya. Delapan belas tahun dan tidak ada satu jiwa pun yang benar-benar pergi. Vel-Ghora menyimpan mereka seperti..." Ia mencari kata, dan menemukannya dari Caldrest: "...seperti name train. Menyebut nama satu sama lain supaya tidak ada yang hilang."
 
-Ashvarok maju, meletakkan kedua telapak ke batu gerbang, dan membuka the Walking Key untuk membaca — bukan menambal, bukan menutup, hanya mendengarkan, dan harganya ditagih tapi ia sudah membawa cadangan cukup untuk ini, dihitung Sela dua kali.
+Ashvarok maju, meletakkan kedua telapak ke batu gerbang, dan membuka the Walking Key untuk membaca — bukan menambal, bukan menutup, hanya mendengarkan, dan harganya ditagih tetapi ia sudah membawa cadangan cukup untuk ini, dihitung Sela dua kali.
 
 Utara mengalir masuk kepadanya.
 
-Empat ratus jiwa. Pasar pagi. Sekolah anak-anak dengan papan tulis asli (bukan kapur; batu tulis basah). Perkawinan, panen, musim dingin. Lalu malam kebocoran — bukan sebagai monster yang datang, tapi sebagai sunyi yang naik PERLAHAN dari bawah tanah selama berminggu-minggu, nama demi nama, dan orang-orang yang tersisa memilih tinggal karena tidak sanggup meninggalkan yang sudah dikunjungi sunyi. Mereka tidak lari dari rumah. Mereka tetap menyebut nama tetangga mereka sampai giliran mereka sendiri.
+Empat ratus jiwa. Pasar pagi. Sekolah anak-anak dengan papan tulis asli (bukan kapur; batu tulis basah). Perkawinan, panen, musim dingin. Lalu malam kebocoran — bukan sebagai monster yang datang, tetapi sebagai sunyi yang naik PERLAHAN dari bawah tanah selama berminggu-minggu, nama demi nama, dan orang-orang yang tersisa memilih tinggal karena tidak sanggup meninggalkan yang sudah dikunjungi sunyi. Mereka tidak lari dari rumah. Mereka tetap menyebut nama tetangga mereka sampai giliran mereka sendiri.
 
 Dan di akhir rekaman, sesuatu yang membuat Ashvarok harus berlutut:
 
@@ -35,17 +35,17 @@ Ashvarok membuka matanya di kegelapan lembah, dan menjawab dengan suara yang tid
 
 Lalu — dengan bimbingan Sareth dan telapak kedua milik Ashvarok — mereka melakukan pembacaan pertama armada utara: batu pertama dari sembilan, dibaca dua tradisi bersama-sama, di tempatnya.
 
-Suara yang keluar adalah perempuan muda. Ia menyebut namanya sendiri (nama yang akan dicatat Maera dan dikirim pulang kecalakan ibunya), lalu pekerjaannya (penenun), lalu — dan di sinilah Ossian Vael yang berdiri paling jauh harus ditopang Kovan — ia menyebut nama adiknya:
+Suara yang keluar adalah perempuan muda. Ia menyebut namanya sendiri (nama yang akan dicatat Maera dan dikirim pulang ke pelukan ibunya), lalu pekerjaannya (penenun), lalu — dan di sinilah Ossian Vael yang berdiri paling jauh harus ditopang Kovan — ia menyebut nama adiknya:
 
 "Ossi. Kalau kau dengar ini... bawa mantel tebal. Utara dingin."
 
 ---
 
-Mereka menginap di kabupaten itu satu malam — keputusan Barim, yang menolak membaca dan pulang di hari yang sama: "Orang-orang ini menunggu delapan belas tahun. Minimal kita nginep sekalian." Api unggun dinyalakan di pusat reruntuhan pasar, dan kelima pelopor menceritakan Caldrest kepada pendengar dari batu: panggung dapur, kereta nama, akademi, registri mimpi, raja bocah tungku, kedalaman yang belajar menyebut "penjaga".
+Mereka menginap di kabupaten itu satu malam — keputusan Barim, yang menolak membaca dan pulang di hari yang sama: "Orang-orang ini menunggu delapan belas tahun. Minimal kita menginap sekalian." Api unggun dinyalakan di pusat reruntuhan pasar, dan kelima pelopor menceritakan Caldrest kepada pendengar dari batu: panggung dapur, kereta nama, akademi, registri mimpi, raja bocah tungku, kedalaman yang belajar menyebut "penjaga".
 
 Dan pada tengah malam, ketika api kecil dan semua sudah setengah tidur, suara Vessia datang lagi dari batunya — bukan pengulangan. Kelanjutan.
 
-"Ossi. Aku tahu kau yang datang. Suaramu belum berubah sejak kamu sepuluh tahun." Jeda panjang, dan di dalamnya ada senyum. "Delapan belas tahun aku menyebut namamu ke batu, takut kau lupa utara pernah ada. Ternyata kau justru jadi pejabat besar yang urus nama orang hilang." Suaranya turun, lembut seperti surat-surat lamanya. "Ibu pasti bangga. Dan ya — kau benar tidak bawa mantel. Selalu begitu. Dengerin kakakmu sekali saja, Ossi."
+"Ossi. Aku tahu kau yang datang. Suaramu belum berubah sejak kamu sepuluh tahun." Jeda panjang, dan di dalamnya ada senyum. "Delapan belas tahun aku menyebut namamu ke batu, takut kau lupa utara pernah ada. Ternyata kau justru jadi pejabat besar yang urus nama orang hilang." Suaranya turun, lembut seperti surat-surat lamanya. "Ibu pasti bangga. Dan ya — kau benar tidak bawa mantel. Selalu begitu. Dengarkan kakakmu sekali saja, Ossi."
 
 Ossian Vael, birokrat terbesar generasinya, pemegang gembok Caldrest, pria yang tidak pernah kalah negosiasi — menjawab kakaknya dari utara dengan suara anak sepuluh tahun:
 
@@ -57,7 +57,7 @@ Suara Vessia tertawa kecil. Lalu batu itu sunyi — sunyi damai, sunyi rekaman y
 
 Perjalanan pulang memakan sembilan hari, dan setiap hari Kovan menambahkan satu entri ke Registri Mimpi jarak jauh yang baru ia ciptakan di jalanan: mimpi-mimpi utara yang sampai ke Caldrest lebih dulu dari kafilah, lewat tidur keluarga-keluarga yang menunggu. Sembilan kabar, sembilan keluarga, sembilan kali pintu diketuk subuh dengan kalimat "ada kabar dari batu".
 
-Dan ketika Caldrest akhirnya muncul di cakrawara pada hari kesembilan pulang — lilin-lilinnya menyala meski belum malam, karena seluruh kota sudah tahu dari registri bahwa pelopor mereka dalam perjalanan pulang — Ashvarok berdiri di gerobak terdepan dan membaca pemandangan itu dengan mata seribu tahun:
+Dan ketika Caldrest akhirnya muncul di cakrawala pada hari kesembilan pulang — lilin-lilinnya menyala meski belum malam, karena seluruh kota sudah tahu dari registri bahwa pelopor mereka dalam perjalanan pulang — Ashvarok berdiri di gerobak terdepan dan membaca pemandangan itu dengan mata seribu tahun:
 
 Sebuah kota kecil di lereng tambang, yang delapan bulan lalu adalah titik di peta tempat anomali L9B dicatat seorang Assayer muda.
 
@@ -86,9 +86,9 @@ Di kedalaman, empat puluh hasta lebih dalam, tamu tua yang kesunyian itu mendeng
 Yang tidak dicatat laporan resmi kunjungan utara adalah tiga peristiwa kecil yang justru paling diingat semua pelopor sampai puluhan tahun kemudian.
 Pertama, di reruntuhan sekolah kabupaten: Sela menemukan papan tulis asli utara — batu tulis basah era lama — masih tergantung di dinding kelas yang runtuh sebagian, dengan tulisan kapur yang belum sepenuhnya hilang: daftar hadir anak-anak, tertanggal delapan belas tahun silam. Ia menyalin seluruhnya dengan tangan gemetar ke buku Arsip: "Dua puluh satu nama. Semua masuk daftar empat ratus. Semua akan dibacakan."
 
-Kedua, di menara arsip: Kovan dan pengikat senior menemukan brankas ordo yang kombinasi angkanya hilang dari ingatan hidup mana pun — tapi tidak dari ingatan kedalaman. Ashvarok bertanya lewat Listen, dan jawaban kedalaman membuat orang tua itu tertawa setengah menit tanpa henti: kombinasinya adalah tanggal hari ordo itu didirikan, "karena pendiri ordo sama bodohnya dengan semua manusia dalam memilih kata sandi."
+Kedua, di menara arsip: Kovan dan pengikat senior menemukan brankas ordo yang kombinasi angkanya hilang dari ingatan hidup mana pun — tetapi tidak dari ingatan kedalaman. Ashvarok bertanya lewat Listen, dan jawaban kedalaman membuat orang tua itu tertawa setengah menit tanpa henti: kombinasinya adalah tanggal hari ordo itu didirikan, "karena pendiri ordo sama bodohnya dengan semua manusia dalam memilih kata sandi."
 
-Ketiga, di malam terakhir sebelum pulang: Barim mengetuk nat aula utara TIGA KALI untuk terakhir kalinya dalam kunjungan itu — dan kedalaman menjawab bukan dengan ketukan, melainkan dengan sesuatu yang baru: ia MEMINJAMKAN irama. Sapuan kecil naik ke permukaan lewat nat-nat jalanan sepanjang perjalanan pulang mereka, seperti suar rumah yang mengantar tamu sampai gerbang, dan hanya padam ketika Caldrest sudah terlihat di cakrawara.
+Ketiga, di malam terakhir sebelum pulang: Barim mengetuk nat aula utara TIGA KALI untuk terakhir kalinya dalam kunjungan itu — dan kedalaman menjawab bukan dengan ketukan, melainkan dengan sesuatu yang baru: ia MEMINJAMKAN irama. Sapuan kecil naik ke permukaan lewat nat-nat jalanan sepanjang perjalanan pulang mereka, seperti suar rumah yang mengantar tamu sampai gerbang, dan hanya padam ketika Caldrest sudah terlihat di cakrawala.
 "Dia mengantar kita pulang," kata Barim. "Delapan belas tahun dia tidak bisa antar siapa-siapa ke mana-mana." Ia mengusap wajahnya. "Sekarang dia bisa lagi."
 
 Pasar Caldrest melahirkan tren baru tanpa diminta: batu-batu kecil penggorengan diukir nama singkat pemiliknya, meniru tradisi batu batas ladang utara. Pedagang menyebutnya "batu janji". Ossian mencatat fenomena itu dengan komentar resmi pertamanya soal budaya jalanan: "ini bukan tiruan. Ini bahasa yang sedang menular — dan menular dengan baik."

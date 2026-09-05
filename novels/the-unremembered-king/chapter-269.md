@@ -15,17 +15,17 @@ Karena buku itu — buku sampul tenun Lompa — diletakkan Sela di ruang arsip b
 
 Orang datang membacanya sepanjang hari.
 
-Seorang pensiunan prajurit lima Thrones membaca pertanyaan nomor empat ratus dua belas — *apakah para pemberontak yang gugur juga punya makan malam terakhir, dan siapa yang memasakinya* — dan keluar dari ruang arsip dengan wajah orang yang baru sadar akan menghabiskan malam besok bukan sebagai penentang tapi sebagai pendengar.
+Seorang pensiunan prajurit lima Thrones membaca pertanyaan nomor empat ratus dua belas — *apakah para pemberontak yang gugur juga punya makan malam terakhir, dan siapa yang memasakinya* — dan keluar dari ruang arsip dengan wajah orang yang baru sadar akan menghabiskan malam besok bukan sebagai penentang tetapi sebagai pendengar.
 
 Perwakilan tiga wilayah pesisir yang datang "untuk memprotes secara hadir" membaca nomor tujuh ratus sembilan puluh satu — *kalau raja abu-abu jahat, kenapa lagunya bagian sahabat paling indah? Jahat tidak punya sahabat seperti itu* — dan ketiganya diam-diam memindahkan diri dari blok kursi protes ke blok kursi biasa, tanpa mengumumkan perubahan posisi, karena beberapa perubahan pendirian lebih sopan kalau tidak diumumkan.
 
-Dua belas murid delegasi menjadi penjaga buku bergilir, dan pekerjaan mereka ternyata bukan menjaga buku, tapi mendampingi pembaca — karena hampir semua orang yang selesai membaca butuh duduk sebentar setelahnya, dan anak-anak sudah belajar dari nat bahwa pendampingan yang benar adalah hadir tanpa buru-buru.
+Dua belas murid delegasi menjadi penjaga buku bergilir, dan pekerjaan mereka ternyata bukan menjaga buku, tetapi mendampingi pembaca — karena hampir semua orang yang selesai membaca butuh duduk sebentar setelahnya, dan anak-anak sudah belajar dari nat bahwa pendampingan yang benar adalah hadir tanpa buru-buru.
 
 ---
 
 Sore harinya, Ashvarok-Renn datang membaca buku itu sendiri.
 
-Ia membacanya berdiri, halaman demi halaman, dan murid-murid penjaga melihat sesuatu yang tidak akan dilupakan mereka: raja abu-abu membaca pertanyaan tentang dirinya sendiri, dan pada pertanyaan tertentu berhenti lama — bukan karena sulit, tapi karena jawabannya berat — dan pada pertanyaan tertentu tersenyum seperti bocah tambang lima belas tahun yang memang masih lima belas tahun di dalam.
+Ia membacanya berdiri, halaman demi halaman, dan murid-murid penjaga melihat sesuatu yang tidak akan dilupakan mereka: raja abu-abu membaca pertanyaan tentang dirinya sendiri, dan pada pertanyaan tertentu berhenti lama — bukan karena sulit, tetapi karena jawabannya berat — dan pada pertanyaan tertentu tersenyum seperti bocah tambang lima belas tahun yang memang masih lima belas tahun di dalam.
 
 Pertanyaan nomor delapan ratus enam puluh tiga membuatnya tertawa keras-keras untuk pertama kalinya di depan umum:
 
@@ -35,7 +35,7 @@ Pertanyaan nomor delapan ratus enam puluh tiga membuatnya tertawa keras-keras un
 
 Anak itu mempertimbangkan jawaban itu dengan kesungguhan hakim.
 
-"Bu Tamma bilang supnya dia yang menang," katanya akhirnya. "Tapi dia juga bilang kalau kau mau belajar, dia kasih kursi sudut kedua. Jadi pertanyaannya diubah: kapan kamu mulai belajar?"
+"Bu Tamma bilang supnya dia yang menang," katanya akhirnya. "Namun dia juga bilang kalau kau mau belajar, dia beri kursi sudut kedua. Jadi pertanyaannya diubah: kapan kamu mulai belajar?"
 
 "Malam ini," kata Ashvarok-Renn. "Setelah pembacaan. Kursi sudut kedua itu kutagih sekarang juga."
 
@@ -63,7 +63,7 @@ Subuh hari-H, sebelum kota bangun, dua penghuni barak utara sudah bangun lebih d
 
 Sela menemukan Ashvarok-Renn di depan nat lorong, berdiri diam, memandang nat tua itu yang menyala pelan menyambutnya.
 
-"Takut?" tanya Sela. Bukan pertanyaan pertama hari itu — pertanyaan pertamanya soal sarapan — tapi pertanyaan pertama yang penting.
+"Takut?" tanya Sela. Bukan pertanyaan pertama hari itu — pertanyaan pertamanya soal sarapan — tetapi pertanyaan pertama yang penting.
 
 "Dulu, kalau ditanya apa yang paling ditakuti, jawabanku: dikuburkan oleh versi yang salah tentang diriku." Ashvarok-Renn memandang nat tua itu. "Malam ini dunia akan mendengar versi yang benar. Dan ternyata itu lebih menakutkan, Sela. Karena versi yang salah tidak minta dijawab. Versi yang benar... meminta aku hidup selebihnya sebagai orang yang sudah didengar."
 
@@ -109,12 +109,12 @@ Dan di halaman terakhirnya, di bawah balasan Ashvarok-Renn, ada tambahan-tambaha
 
 Buku itu tidak pernah dimaksudkan menjadi arsip.
 
-Tapi arsip terbaik memang selalu begini, kata Sela malam itu sambil menutupnya: ditulis orang yang belum selesai bertanya.
+Namun arsip terbaik memang selalu begini, kata Sela malam itu sambil menutupnya: ditulis orang yang belum selesai bertanya.
 ---
 
 Siang harinya, sebelum rombongan Vel-Morra tiba, satu urusan kecil membawa Ashvarok-Renn dan Sela ke kantor Dewan sementara Caldrest — ruangan sempit di lantai dua balai kota yang oleh pegawainya sendiri dijuluki "lorong tujuh versi administrasi".
 
-Urutannya sederhana: pengesahan resmi buku seribu pertanyaan sebagai dokumen arsip negara. Usulan itu datang bukan dari keluarga the Quiet Vein, tapi dari Daven — koordinator Dewan Regional, kakak kelas Renn di Sekolah Mendengar — yang menyadari bahwa buku anak-anak itu berisi sesuatu yang tidak dimiliki seluruh arsip Hegemony: daftar hal yang dunia belum paham, ditulis tanpa rasa takut.
+Urutannya sederhana: pengesahan resmi buku seribu pertanyaan sebagai dokumen arsip negara. Usulan itu datang bukan dari keluarga the Quiet Vein, tetapi dari Daven — koordinator Dewan Regional, kakak kelas Renn di Sekolah Mendengar — yang menyadari bahwa buku anak-anak itu berisi sesuatu yang tidak dimiliki seluruh arsip Hegemony: daftar hal yang dunia belum paham, ditulis tanpa rasa takut.
 
 Prosesnya yang tidak sederhana.
 
@@ -127,7 +127,7 @@ Notaris tua itu memandangi mereka — dua bocah tambang yang delapan tahun silam
 *Jenis dokumen: PERTANYAAN RESMI NEGARA.*
 *Status hukum: wajib dijawab; tidak boleh diabaikan; tidak boleh dijawab setengah.*
 
-"Aku tambahkan statusnya sendiri," kata notaris itu, mencap. "Karena kalau hanya kalian yang menganggapnya penting, cukup penting untuk dicatat — tapi belum cukup untuk dijaga. Sekarang dia dijaga."
+"Aku tambahkan statusnya sendiri," kata notaris itu, mencap. "Karena kalau hanya kalian yang menganggapnya penting, cukup penting untuk dicatat — tetapi belum cukup untuk dijaga. Sekarang dia dijaga."
 
 Di jalan pulang, Sela menghitung sesuatu di papan tulis kecilnya.
 

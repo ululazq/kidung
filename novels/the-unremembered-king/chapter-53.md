@@ -3,7 +3,7 @@ title: "Bab 53: Sarung Tangan yang Bersih"
 chapter: 53
 ---
 
-Pesan itu tiba pada hari keenam puluh lima, ditulis dengan tangan sendiri oleh pejabat yang jarang menulis dengan tangannya sendiri, dan isinya hanya satu kalimat: Pukul tujuh malam. Ruang tamu meja bular. Datanglah dengan buku bekerja Anda yang resmi dan tidak membawa yang lain.
+Pesan itu tiba pada hari keenam puluh lima, ditulis dengan tangan sendiri oleh pejabat yang jarang menulis dengan tangannya sendiri, dan isinya hanya satu kalimat: Pukul tujuh malam. Ruang tamu meja bundar. Datanglah dengan buku kerja Anda yang resmi dan tidak membawa yang lain.
 
 Kel Tharrow membaca kalimat itu empat kali di dalam ruangannya, dan pada pembacaan keempat ia mengakui kepada dirinya sendiri bahwa pesan yang ditulis tangan lebih buruk daripada surat berstempel. Surat berstempel adalah prosedur, dan prosedur melindungi orang-orang di dalamnya. Tulisan tangan adalah niat, dan niat tidak punya pasal pelindung.
 
@@ -17,7 +17,7 @@ Ia datang pukul tujuh kurang sepuluh, dengan seragam tanpa satu kerutan dan saru
 
 Tharrow mendengar bentuk jebakan itu sebelum isi disebutkan, seperti penambang mendengar gema kosong sebelum amblas.
 
-"Nama penulis laporan yang sukses," kata Ossian, "adalah nama yang naik bersama laporannya. Nama penulis laporan kosong—" ia menutup kalimatnya dengan gerakan kecil ke arah buku bekerja resmi di bawah ketiak Tharrow, "—akan menemui karier yang cocok dengan isinya. Arsip cabang utara membutuhkan koordinator. Iklimnya cocok dengan sarung tangan Anda."
+"Nama penulis laporan yang sukses," kata Ossian, "adalah nama yang naik bersama laporannya. Nama penulis laporan kosong—" ia menutup kalimatnya dengan gerakan kecil ke arah buku kerja resmi di bawah ketiak Tharrow, "—akan menemui karier yang cocok dengan isinya. Arsip cabang utara membutuhkan koordinator. Iklimnya cocok dengan sarung tangan Anda."
 
 Tharrow menjaga suaranya tetap datar dengan usaha yang bisa diukur. "Faktor itu tidak meninggalkan nama karena faktor itu tidak mau ditemukan, Tuan Vael. Prosedur yang tersedia bagi saya adalah pengawasan, dan pengawasan—"
 
@@ -63,7 +63,7 @@ Kalimat terakhir itu yang membuatnya harus berdiri dan minum air, karena ia menu
 
 Prosedur, pikirnya sambil membersihkan meja, adalah sarung tangan yang dikenakan dunia agar dunia bisa memegang apa saja tanpa kotor. Dan malam ini tangannya berada di dalam sarung tangan itu, melakukan sesuatu yang tidak ada pasal mana pun yang izinkan — bukan karena pasal melarang, melainkan karena tidak ada pembuat pasal yang cukup jujur membayangkan bahwa orang sepertinya akan butuh diizinkan.
 
-Gudang perkakas tingkat dua milik Brannoc ia masuki keesokan malamnya, pada jendela inspeksi ventilasi yang jadwalnya ia susun sendiri sebagai koordinator karantina. Kunci induknya bekerja seperti yang dijanjikan jabatannya. Di dalam, gudang itu terang dan tertata dengan disiplin seorang mantan prajurit, dan Tharrow membutuhkan hanya empat puluh detik. Paket diletakkan di balik rak ketiga, tempat mata pencari pasti jatuh tapi mata pemakai jarang singgah. Ia keluar, mengunci, dan mencatat kunjungan inspeksinya di log resmi dengan jam yang benar — karena kebohongan yang paling tahan lama adalah kebohongan yang dicatat di dokumen yang benar.
+Gudang perkakas tingkat dua milik Brannoc ia masuki keesokan malamnya, pada jendela inspeksi ventilasi yang jadwalnya ia susun sendiri sebagai koordinator karantina. Kunci induknya bekerja seperti yang dijanjikan jabatannya. Di dalam, gudang itu terang dan tertata dengan disiplin seorang mantan prajurit, dan Tharrow membutuhkan hanya empat puluh detik. Paket diletakkan di balik rak ketiga, tempat mata pencari pasti jatuh tetapi mata pemakai jarang singgah. Ia keluar, mengunci, dan mencatat kunjungan inspeksinya di log resmi dengan jam yang benar — karena kebohongan yang paling tahan lama adalah kebohongan yang dicatat di dokumen yang benar.
 
 Surat itu ia jatuhkan ke slot pos Quota Office regional di distrik tengah pada subuh berikutnya, dengan jubah biasa dan langkah yang tidak tergesa.
 

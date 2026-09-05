@@ -21,7 +21,7 @@ Di bawahnya ada angka-angka. Bukan nama. Bukan gelar. Hanya tiga pasang ukuran d
 
 Sela duduk diam selama waktu yang cukup lama sehingga lilinnya menyusut dua jari.
 
-Lalu ia berdiri, melintasi lorong barak, dan mengetuk pintu ruang keluarga dengan irama tertentu — tiga pendek, satu panjang — yang artinya *aku punya sesuatu, dan sesuatu ini penting, tapi tidak bahaya.*
+Lalu ia berdiri, melintasi lorong barak, dan mengetuk pintu ruang keluarga dengan irama tertentu — tiga pendek, satu panjang — yang artinya *aku punya sesuatu, dan sesuatu ini penting, tetapi tidak bahaya.*
 
 Ashvarok-Renn membuka pintu. Sudah larut. Di dalam, ibu Tamma meninggalkan secangkir teh hangat di meja seperti biasa, meski jam segini tidak ada yang meminta teh.
 
@@ -29,7 +29,7 @@ Ashvarok-Renn membuka pintu. Sudah larut. Di dalam, ibu Tamma meninggalkan secan
 
 Ashvarok membacanya sekali. Lalu membacanya lagi.
 
-Wajahnya tidak banyak bergerak — wajah itu memang jarang bergerak, kebiasaan seribu tahun yang tidak akan pernah benar-benar lepas. Tapi Renn mengenali apa yang terjadi di balik diam itu. Ada satu hal di dunia ini yang membuat Ashvarok diam dengan cara tertentu, dan hal itu adalah masa lalunya sendiri.
+Wajahnya tidak banyak bergerak — wajah itu memang jarang bergerak, kebiasaan seribu tahun yang tidak akan pernah benar-benar lepas. Namun Renn mengenali apa yang terjadi di balik diam itu. Ada satu hal di dunia ini yang membuat Ashvarok diam dengan cara tertentu, dan hal itu adalah masa lalunya sendiri.
 
 "Vhal-Duren," kata Ashvarok akhirnya. "Menara jaga di dataran tinggi antara sini dan Spire. Era sebelum Hegemony, tempat itu adalah pos pengamat cuaca dan pos pengamat musuh sekaligus. Setelah Hegemony berdiri, menara itu..." Ia berhenti. Memilih kata. "Ditutup dengan cara yang tidak dicatat."
 
@@ -65,7 +65,7 @@ Nat tua di ujung lorong barak utara. Yang Dulu Sunyi.
 
 Sela membacakannya pelan, dari awal, seperti membacakan surat dari kerabat jauh. Nat tua itu menyala dalam irama yang tidak bisa lagi disebut aneh — delapan ratus tahun, dan dua tahun ini ia menjawab hampir semuanya.
 
-Tapi di tengah pembacaan, nat tua melakukan sesuatu yang belum pernah ia lakukan.
+Namun di tengah pembacaan, nat tua melakukan sesuatu yang belum pernah ia lakukan.
 
 Ia berdenyut tanpa ditanya. Sekali. Dua kali.
 
@@ -88,9 +88,9 @@ Ia menutup papan tulisnya. Di luar, Caldrest bangun seperti biasa — pasar cind
 Dunia belum tahu bahwa sejarahnya baru saja mengetuk pintu.
 ---
 
-Sebelum tengah hari, berita temuan itu sampai ke tiga orang — bukan karena direncanakan, tapi karena lorong barak tidak pernah bisa menyimpan rahasia lebih dari satu pagi.
+Sebelum tengah hari, berita temuan itu sampai ke tiga orang — bukan karena direncanakan, tetapi karena lorong barak tidak pernah bisa menyimpan rahasia lebih dari satu pagi.
 
-Kovan datang duluan, membawa papan hitungnya. Ia membaca angka-angka koordinat di halaman itu dua kali, menggerakkan jarinya seperti menghitung ulang sesuatu di udara, dan berkata: "Jarak tempuh ini tujuh hari jalan kalau lewat jalan kafilah. Empat hari kalau lewat jalur penggembala timur. Tapi jalur penggembala naik curam di sepertiga terakhir." Ia menatap Ashvarok. "Aku ikut. Seseorang harus menghitung makanan, dan kau akan lupa makan."
+Kovan datang duluan, membawa papan hitungnya. Ia membaca angka-angka koordinat di halaman itu dua kali, menggerakkan jarinya seperti menghitung ulang sesuatu di udara, dan berkata: "Jarak tempuh ini tujuh hari jalan kalau lewat jalan kafilah. Empat hari kalau lewat jalur penggembala timur. Namun jalur penggembala naik curam di sepertiga terakhir." Ia menatap Ashvarok. "Aku ikut. Seseorang harus menghitung makanan, dan kau akan lupa makan."
 
 Barim datang kedua, membawa laporan malamnya yang selalu satu kata: aman. Malam itu laporannya dua kata.
 
@@ -127,7 +127,7 @@ Ashvarok-Renn tersenyum — senyum kecil, hampir tak terlihat, jenis senyum yang
 
 Karena ada satu hal lagi yang terjadi malam itu, dan hal itu tidak masuk papan tulis Sela.
 
-Saat Ashvarok-Renn sudah kamar, dan lorong sudah gelap, nat tua berdenyut sekali lagi — irama jantung Renn yang dipinjamnya sore tadi. Tapi kali ini denyut itu tidak berhenti di nat.
+Saat Ashvarok-Renn sudah kamar, dan lorong sudah gelap, nat tua berdenyut sekali lagi — irama jantung Renn yang dipinjamnya sore tadi. Namun kali ini denyut itu tidak berhenti di nat.
 
 Ia merambat. Pelan, dari batu ke batu, lewat tanah yang delapan ratus tahun ini belajar satu bahasa. Melewati nat aula. Melewati nat-nat kecil yang tidur dengan jadwal tamu masing-masing. Melewati nat lereng yang menjaga jalur penggembala timur.
 
@@ -135,7 +135,7 @@ Dan jauh di dataran tinggi, di bawah reruntuhan yang tidak tercatat di peta mana
 
 ...membuka iramanya sedikit lebih lebar.
 
-Menunggu itu bukan pekerjaan yang mudah. Tapi menunggu sambil tahu bahwa kabar baik sedang dalam perjalanan — itu pekerjaan yang bisa dilakukan seribu tahun.
+Menunggu itu bukan pekerjaan yang mudah. Namun menunggu sambil tahu bahwa kabar baik sedang dalam perjalanan — itu pekerjaan yang bisa dilakukan seribu tahun.
 ---
 
 Esok paginya, sebelum matahari naik penuh, Sela menulis entri pertama untuk arsip baru. Ia memberi halaman itu judul dengan tinta yang sama seperti judul-judul penting lainnya:

@@ -3,7 +3,7 @@ title: "Bab 262: Persiapan yang Benar"
 chapter: 262
 ---
 
-Aturan pertama perjalanan jauh versi ibu Tamma bukan soal bekal, tapi soal siapa pamit ke siapa.
+Aturan pertama perjalanan jauh versi ibu Tamma bukan soal bekal, tetapi soal siapa pamit ke siapa.
 
 "Kalian akan melewati sembilan kamp dan dua pos jemput," katanya sambil menata kantong kain di atas meja dapur, satu per satu, sesuai isi. "Di setiap kamp ada orang yang mengenal kalian dari cerita nat. Kalau kalian lewat tanpa pamit, nat-nat itu akan bertanya kenapa, dan aku akan jadi orang yang menjawabnya lewat surat. Jadi pamitlah. Semuanya."
 
@@ -53,11 +53,11 @@ Lalu Barim, yang telinganya paling tua di antara pendengar alami mana pun, menga
 
 "Seperti detak jantung," selesaikan Ashvarok-Renn.
 
-Dan itulah yang ada di dalam angin dataran tinggi — bukan gema seam yang kasar, bukan nyanyian nat, tapi sesuatu yang jauh lebih sederhana dan jauh lebih tua: satu irama tetap, sabar, mengulang dirinya sendiri sejak sebelum ada yang ingat kapan mulainya.
+Dan itulah yang ada di dalam angin dataran tinggi — bukan gema seam yang kasar, bukan nyanyian nat, tetapi sesuatu yang jauh lebih sederhana dan jauh lebih tua: satu irama tetap, sabar, mengulang dirinya sendiri sejak sebelum ada yang ingat kapan mulainya.
 
 Seam saksi tidak tidur. Seam saksi tidak pernah berhenti berdetak. Dan sekarang, empat orang berdiri di lerengnya dan mendengarnya untuk pertama kalinya dalam seribu tahun.
 
-Kovan duduk di atas bekalnya, membuka papan hitung, dan mulai mencatat — bukan jarak, bukan makanan, tapi interval. "Tiga detik," katanya akhirnya. "Iramanya sama dengan anomali lorong tujuh tahun 731 silang. Angka yang sama."
+Kovan duduk di atas bekalnya, membuka papan hitung, dan mulai mencatat — bukan jarak, bukan makanan, tetapi interval. "Tiga detik," katanya akhirnya. "Iramanya sama dengan anomali lorong tujuh tahun 731 silang. Angka yang sama."
 
 "Angka yang sama," ulang Ashvarok-Renn pelan. "Retakan the Threshold belajar dari detak jantung tubuh ini. Dan seam saksi..." Ia melihat ke arah puncak. "...memiliki guru yang sama."
 
@@ -67,7 +67,7 @@ Mereka mencapai reruntuhan pada sore hari berikutnya.
 
 Menara Vhal-Duren bukan menara lagi — hanya sepertiga bagian bawahnya yang tersisa, dinding batu setinggi dua orang dewasa, ditumbuhi rumput kering. Tidak ada jalan menuju ke sana. Tidak ada penanda. Peta Liberation tidak pernah tahu tempat ini ada.
 
-Tapi kambing-kambing tahu, rupanya. Karena di sekeliling reruntuhan, tanah rata dan hangat, tanpa rumput — bekas ribuan tahun duduk menghadap satu arah.
+Namun kambing-kambing tahu, rupanya. Karena di sekeliling reruntuhan, tanah rata dan hangat, tanpa rumput — bekas ribuan tahun duduk menghadap satu arah.
 
 Di tengah reruntuhan, sebagian tenggelam ke dalam tanah, ada batu bundar sebesar meja besar. Permukaannya licin seperti permukaan nat yang terlalu sering disentuh manusia. Warnanya abu hangat. Dan meski sore itu dingin sampai tulang, udara di atas batu itu bergetar tipis seperti udara di atas roti yang baru keluar dari tungku.
 
@@ -83,7 +83,7 @@ Lalu batu itu berdenyut sekali — kuat, hampir marah, hampir menangis — dan i
 
 Irama malam Pembakaran Nama.
 
-Suara kerumunan. Suara api. Suara lima nama yang disebut satu per satu oleh lima orang yang sekarat. Dan di balik semuanya, paling dalam, paling pelan — suara seorang raja yang sedang membakar namanya sendiri, yang berbunyi bukan seperti jeritan, tapi seperti pintu besar yang ditutup dengan hati-hati agar tidak membangunkan siapa pun.
+Suara kerumunan. Suara api. Suara lima nama yang disebut satu per satu oleh lima orang yang sekarat. Dan di balik semuanya, paling dalam, paling pelan — suara seorang raja yang sedang membakar namanya sendiri, yang berbunyi bukan seperti jeritan, tetapi seperti pintu besar yang ditutup dengan hati-hati agar tidak membangunkan siapa pun.
 
 Sela melihat Ashvarok-Renn bergeming. Melihat air mata bocah tungku itu jatuh tanpa suara ke permukaan batu — air mata pertama yang pernah ia lihat jatuh dari wajah itu dalam dua tahun, mungkin pertama dalam seribu tahun.
 
@@ -114,11 +114,11 @@ Ashvarok-Renn memandang api kecil mereka. Di dalam tubuhnya, Renn — yang dua t
 
 Sela mengangguk, lalu membuka kotak arsip perjalanannya dan menyusun ulang isinya: halaman-halaman yang akan dibacakan besok, urutan yang tepat, yang mana dulu, yang mana kemudian.
 
-Arsiparis tidak tidur sebelum urutan bacaan benar. Aturan itu tidak tertulis di mana pun, tapi semua arsiparis mengenalinya.
+Arsiparis tidak tidur sebelum urutan bacaan benar. Aturan itu tidak tertulis di mana pun, tetapi semua arsiparis mengenalinya.
 
 Di atas mereka, bintang-bintang dataran tinggi lebih banyak dan lebih dekat daripada di mana pun di Karvess.
 
-Dan di tengah reruntuhan, batu bundar itu menunggu pagi — dengan kesabaran yang sudah pernah membuktikan dirinya, tapi malam ini, untuk pertama kalinya dalam sepuluh abad, kesabaran itu terasa seperti anak-anak menjelang hari besar.
+Dan di tengah reruntuhan, batu bundar itu menunggu pagi — dengan kesabaran yang sudah pernah membuktikan dirinya, tetapi malam ini, untuk pertama kalinya dalam sepuluh abad, kesabaran itu terasa seperti anak-anak menjelang hari besar.
 ---
 
 Subuhnya, sebelum matahari naik, batu bundar itu membangunkan mereka dengan cara yang tidak akan dilupakan siapa pun sampai akhir hidup masing-masing.

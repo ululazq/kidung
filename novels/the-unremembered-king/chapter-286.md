@@ -7,7 +7,7 @@ Kovan meletakkan lempeng hitung terakhir di atas meja panjang barak utara. Di se
 
 "Jadi ini penutup resmi?" tanya anak Pak Dekan.
 
-"Penutup bagi tambang," kata Kovan. "Bukan penutup bagi kita." Ia menyapu pandang ke ruangan itu: rak arsip angka the Quiet Vein yang sudah tidak lagi milik perusahaan tambang, melainkan milik kota. "Kita dinasifikasikan. Mulai hari ini, kita bukan penjaga shif. Kita Penghitung Musim Karvess."
+"Penutup bagi tambang," kata Kovan. "Bukan penutup bagi kita." Ia menyapu pandang ke ruangan itu: rak arsip angka the Quiet Vein yang sudah tidak lagi milik perusahaan tambang, melainkan milik kota. "Kita dinasifikasikan. Mulai hari ini, kita bukan penjaga shift. Kita Penghitung Musim Karvess."
 
 Anak Pak Dekan tersenyum tipis. "Nama jabatan yang panjang."
 
@@ -29,7 +29,7 @@ Anak Pak Dekan membuka lemari gelas di sudut ruangan — tempat ia dulu menyimpa
 
 "Map survei pertama," katanya. "Bab empat, waktu Maera Tull datang. Di sini tertulis: gema inti bor berjeda ritmis tiga detik."
 
-Kovan mengangguk. "Itu yang kucatat juga. Tapi lihat ini." Ia menunjuk baris lain, dari catatan Maera yang dipinjamkan ke barak. "Dia tulis 'tiga detik' sebagai anomali. Bukan dua, bukan empat. Tiga. Persis."
+Kovan mengangguk. "Itu yang kucatat juga. Namun lihat ini." Ia menunjuk baris lain, dari catatan Maera yang dipinjamkan ke barak. "Dia tulis 'tiga detik' sebagai anomali. Bukan dua, bukan empat. Tiga. Persis."
 
 "Berarti sejak survei pertama, irama itu sudah ada."
 
@@ -53,15 +53,15 @@ Ashvarok-Renn membaca. "Tiga detik. Sejak bab satu."
 
 "Sejak sebelum bab satu, kalau laporan hari ke-59 benar." Kovan duduk di seberang. "Aku ingin tahu apa itu. Bukan untuk kuota. Bukan untuk siapa pun. Hanya karena delapan belas tahun aku membiarkannya tidak cocok dan itu mengganggu tidurku."
 
-Ashvarok-Renn tersenyum kecil. "Itu pertanyaan penghitung sejati. Bukan 'berapa', tapi 'mengapa persis angka ini'."
+Ashvarok-Renn tersenyum kecil. "Itu pertanyaan penghitung sejati. Bukan 'berapa', tetapi 'mengapa persis angka ini'."
 
 "Kau tahu apa itu?"
 
-"Aku punya dugaan." Ashvarok-Renn mengembalikan kertas itu. "Tapi dugaan bukan fakta, dan kau mengajarkanku itu dulu — waktu kau kalah dua kali di lempeng pengukur dan tidak bisa menjelaskan. Kau bilang data berkata bocah biasa, pengalaman berkata ada suara. Dua fakta saling menolak. Sekarang giliranmu merasakan itu."
+"Aku punya dugaan." Ashvarok-Renn mengembalikan kertas itu. "Namun dugaan bukan fakta, dan kau mengajarkanku itu dulu — waktu kau kalah dua kali di lempeng pengukur dan tidak bisa menjelaskan. Kau bilang data berkata bocah biasa, pengalaman berkata ada suara. Dua fakta saling menolak. Sekarang giliranmu merasakan itu."
 
 Kovan mengerutkan dahi. "Kau tidak akan memberi tahu?"
 
-"Belum. Biar kau hitung sendiri. Itu pekerjaan Penghitung Musim, bukan pekerjaan raja." Ashvarok-Renn berdiri. "Tapi satu petunjuk: jangan cari di atas. Cari di bawah aula. Tiga detik itu irama kedalaman, bukan irama tambang."
+"Belum. Biar kau hitung sendiri. Itu pekerjaan Penghitung Musim, bukan pekerjaan raja." Ashvarok-Renn berdiri. "Namun satu petunjuk: jangan cari di atas. Cari di bawah aula. Tiga detik itu irama kedalaman, bukan irama tambang."
 
 Kovan menatap punggung Ashvarok-Renn yang menjauh. Lalu ia menulis satu baris di buku catatannya yang baru: *Tiga detik = bahasa kedalaman. Sumber: belum. Rumah: akhirnya ditemukan.*
 
@@ -91,7 +91,7 @@ Pegawai itu pergi tanpa kata. Anak Pak Dekan menatap Kovan dengan hormat yang ba
 
 Malamnya, Pak Dekan tua datang ke ruang arsip. Delapan belas tahun ia menjaga pintu galeri sembilan dari atas; kini, melihat rak-rak itu dipindahkan ke dinding timur dengan rapi, ia hanya berdiri di ambang pintu dan menangis pelan.
 
-"Anakku," katanya parau. "Kau hitung di sini, aku jaga di atas. Tempatnya beda, tapi kita tetap berpasangan."
+"Anakku," katanya parau. "Kau hitung di sini, aku jaga di atas. Tempatnya beda, tetapi kita tetap berpasangan."
 
 Anak Pak Dekan menghampiri ayah angkatnya, meletakkan satu tangan di bahu kurus itu. "Aku tidak pernah berhenti menghitungmu, Ayah. Tiap malam kucatat kau pulang utuh."
 
@@ -101,7 +101,7 @@ Ia menoleh ke Kovan. "Kau jaga dia baik-baik. Ia satu-satunya angka yang tidak p
 
 "Dia angka yang kau ajarkan pada kedalaman delapan belas tahun silam," kata Kovan. "Sekarang kedalaman yang menjaganya, bukan kau."
 
-Pak Dekan mengangguk pelan, lalu pergi ke malam, punggungnya makin membungkuk tapi langkahnya mantap. Anak Pak Dekan menatap sampai ayah angkatnya hilang di sudut lorong, lalu kembali ke meja.
+Pak Dekan mengangguk pelan, lalu pergi ke malam, punggungnya makin membungkuk tetapi langkahnya mantap. Anak Pak Dekan menatap sampai ayah angkatnya hilang di sudut lorong, lalu kembali ke meja.
 
 "Kita selesaikan pemindahan," katanya. "Besok aku mau mulai menghitung musim, bukan kuota."
 
@@ -151,4 +151,4 @@ Kovan tertawa, kali ini tanpa getir. "Delapan belas tahun untuk satu angka. Peng
 
 *TIDAK LAMBAT,* getar nat itu pelan. *TEPAT WAKTU. ANGKA MENCARI ORANG YANG MAU DIHITUNG. AKHIRNYA KAU YANG ITU.*
 
-Kovan menutup buku catatannya. Angin malam lembah utara menutup suara nat itu perlahan, tapi irama tiga detik tetap berdetak di kepala Kovan — bukan lagi angka yang tak cocok, melainkan detak pertama dari rumah baru yang baru saja ia temukan.
+Kovan menutup buku catatannya. Angin malam lembah utara menutup suara nat itu perlahan, tetapi irama tiga detik tetap berdetak di kepala Kovan — bukan lagi angka yang tak cocok, melainkan detak pertama dari rumah baru yang baru saja ia temukan.

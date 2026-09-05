@@ -11,7 +11,7 @@ Maka ia mengerjakan pekerjaannya dengan jujur penuh, karena separuh kejujuran pa
 
 Pengikat senior tiba ketika lonceng shift pertama masih bergaung samar di tingkat atas, dan suara lonceng itu mati di garis galeri meski langkah orang tua itu belum.
 
-Ia turun sendirian, seperti janjinya, dengan lampu yang lebih kecil dan mantel bekerja yang tidak membawa satu lambang pun dari lembaga mana pun. Di ambang ia berhenti sebentar, membaca galeri seperti orang membaca ruangan tamu yang pemiliknya baru keluar, lalu menoleh kepada Ashvarok.
+Ia turun sendirian, seperti janjinya, dengan lampu yang lebih kecil dan mantel kerja yang tidak membawa satu lambang pun dari lembaga mana pun. Di ambang ia berhenti sebentar, membaca galeri seperti orang membaca ruangan tamu yang pemiliknya baru keluar, lalu menoleh kepada Ashvarok.
 
 "Sudah kau membaca?"
 
@@ -27,9 +27,9 @@ Ashvarok telah menyiapkan jawaban untuk pertanyaan ini sejak subuh, dan kekuatan
 
 "Cara mengetuknya," kata Ashvarok. "Cara membaca irama seam. Cara menghitung jeda antara tarikan angin dan jawaban batu. Semua darinya."
 
-"Tapi?"
+"Namun?"
 
-"Tapi dia bukan penambal." Ashvarok membiarkan jeda itu bekerja sendiri. "Dia mencoba menambal satu kali. Salah tempat, salah umur, salah tangan. Tangannya dingin berbulan-bulan sampai akhir hayatnya. Yang dia wariskan bukan ilmu menambal, melainkan ilmu tentang kenapa percobaannya gagal."
+"Namun dia bukan penambal." Ashvarok membiarkan jeda itu bekerja sendiri. "Dia mencoba menambal satu kali. Salah tempat, salah umur, salah tangan. Tangannya dingin berbulan-bulan sampai akhir hayatnya. Yang dia wariskan bukan ilmu menambal, melainkan ilmu tentang kenapa percobaannya gagal."
 
 Pengikat senior mendiamkan itu sambil menatap ujung sepatunya sendiri. Di dalam Silent Gallery ini diam adalah satu-satunya bahasa yang sanggup dipakai panjang, dan keduanya memakainya dengan fasih.
 

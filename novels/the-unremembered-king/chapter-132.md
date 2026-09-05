@@ -29,7 +29,7 @@ Pertanyaan kedua, kenapa name map diminta arsip kota, dijawab ibu Tamma yang sed
 
 Pertanyaan ketiga Sela tanyakan kepada Renn, malamnya, di ambang gudang perkakas, karena pertanyaan ketiga selalu yang paling dalam dan hanya boleh ditanya ke tempat yang aman. "Kalau name map jadi milik arsip kota, apakah daftar-daftarku ikut jadi milik mereka?"
 
-Renn memikirkannya sungguh-sungguh, dan Sela selalu suka cara dia memikirkan sesuatu, mata turun sedikit, jeda yang panjang tapi tidak kosong. "Yang disalin hanya yang ada di depan papan. Baris nama, blok, tanggal centang." Ia menatap papan tulis kecilnya. "Belakang papan tetap milikmu. Itu aturan yang tidak tertulis di surat siapa pun."
+Renn memikirkannya sungguh-sungguh, dan Sela selalu suka cara dia memikirkan sesuatu, mata turun sedikit, jeda yang panjang tetapi tidak kosong. "Yang disalin hanya yang ada di depan papan. Baris nama, blok, tanggal centang." Ia menatap papan tulis kecilnya. "Belakang papan tetap milikmu. Itu aturan yang tidak tertulis di surat siapa pun."
 
 "Kalau nanti ada hari daftar-belakang itu perlu dibaca orang lain?"
 
@@ -37,13 +37,13 @@ Renn memikirkannya sungguh-sungguh, dan Sela selalu suka cara dia memikirkan ses
 
 ---
 
-Pagi berikutnya, kelas tambahan dimulai dengan hal yang belum pernah ada sebelumnya, yaitu sebuah nama yang boleh ditulis di papan.
+Pagi berikutnya, kelas tambahan dimulai dengan hal yang belum pernah ada sebelumnya — yaitu sebuah nama yang boleh ditulis di papan.
 
 Sela menulisnya besar-besar di sudut atas papan tulis ruang tunggu. Kelas Tambahan Klinik Barak Timur. Di bawahnya dia menulis jam belajarnya, dan di bawah jam belajar, karena kejujuran adalah pasal pertama sekolahnya, dia menulis juga sumber anggarannya. Kas kota. Triwulanan. Kecil.
 
 Harn membaca tulisan itu dari barisan depan dan mengangkat tangannya seperti selalu. "Kalau kelas kita sudah resmi, apakah aturannya ikut resmi?"
 
-"Aturannya sudah resmi dari dulu. Yang baru hanya namanya." Sela menepuk papan itu. "Nama resmi itu seperti jaket. Badannya tidak berubah, tapi orang lain mulai tahu badan itu ada."
+"Aturannya sudah resmi dari dulu. Yang baru hanya namanya." Sela menepuk papan itu. "Nama resmi itu seperti jaket. Badannya tidak berubah, tetapi orang lain mulai tahu badan itu ada."
 
 "Kenapa harus lewat wali kota?" Pertanyaan datang dari anak perempuan blok utara, yang tahun lalu masih takut bicara kepada orang dewasa mana pun. "Bukankah kelas ini milik kita?"
 
@@ -65,11 +65,11 @@ Hale menerima salinan name map itu dengan tangan kanan yang tenang, membuka lipa
 
 "Baris ini," kata Hale. "Namanya tidak diketahui siapa pun lagi?"
 
-"Sudah pernah dikenal banyak orang, Tuan Wali Kota. Sekarang namanya hidup di mulut anak-anak, dan badannya masih jalan di barak timur." Sela berdiri tegak di depan meja itu, rambut diikat tali kacanya seperti biasa. "Peta ini mencatat orang yang masih ada. Baris kosong artinya kami tidak menyerahkan dia pada sunyi. Bedanya tipis, tapi tipisnya penting."
+"Sudah pernah dikenal banyak orang, Tuan Wali Kota. Sekarang namanya hidup di mulut anak-anak, dan badannya masih jalan di barak timur." Sela berdiri tegak di depan meja itu, rambut diikat tali kacanya seperti biasa. "Peta ini mencatat orang yang masih ada. Baris kosong artinya kami tidak menyerahkan dia pada sunyi. Bedanya tipis, tetapi tipisnya penting."
 
 Hale memandangnya lama, lalu menyalin kata-kata itu ke kertas coretan di sudut mejanya, dan Sela melihat gerakan itu dan berpikir bahwa wali kota ini ternyata orang yang mengumpulkan kalimat. Lembar pengesahan kelas tambahan diserahkan kepadanya dengan dua cap, dan anggaran triwulanan pertama diumumkan jumlahnya dengan nada minta maaf, karena angka itu kecil, cukup untuk kapur dan minyak lampu dan tidak lebih.
 
-"Anggarannya kecil," kata Hale, dan tangan kanannya gemetar sekali, nyaris tidak kelihatan, saat ia mengetuk-ngetuk tepi meja. "Tapi kecil yang sah itu lebih besar daripada besar yang diam-diam. Kelas kamu sekarang tidak bisa dihapus tanpa surat, dan surat bisa dibaca orang."
+"Anggarannya kecil," kata Hale, dan tangan kanannya gemetar sekali, nyaris tidak kelihatan, saat ia mengetuk-ngetuk tepi meja. "Namun kecil yang sah itu lebih besar daripada besar yang diam-diam. Kelas kamu sekarang tidak bisa dihapus tanpa surat, dan surat bisa dibaca orang."
 
 "Kenapa bapak lakukan ini?" Sela bertanya langsung, karena kesempatan bertanya kepada kursi tidak datang dua kali. "Sebenarnya."
 
@@ -77,7 +77,7 @@ Jawaban Hale tidak datang cepat. Wali kota itu menatap name map yang masih terbu
 
 ---
 
-Malamnya Sela duduk sendirian di biliknya dengan papan tulis kecil di pangkuan, dan melakukan hal yang paling dia sukai dari semua pekerjaannya, yaitu menulis daftar.
+Malamnya Sela duduk sendirian di biliknya dengan papan tulis kecil di pangkuan, dan melakukan hal yang paling dia sukai dari semua pekerjaannya — yaitu menulis daftar.
 
 Di sisi depan papan dia mencatat hal-hal resmi. Salinan name map diserahkan, tanggal, dua cap, tanda terima arsip kota. Kelas tambahan disahkan, anggaran triwulan pertama, jatuh tempo pencairan. Semua hurufnya lurus dan rapi, layak dibaca siapa pun yang lewat.
 
@@ -89,7 +89,7 @@ Dia mengambil lembar pengesahan itu, memutar-balikkannya supaya capnya menempel 
 
 Ibu Tamma pasti akan menertawakannya kalau lihat. Dokumen pengesahan resmi pertama dalam hidupnya, dan dia menempelkannya di tempat tersembunyi, menghadap dinding, tidak bisa dibaca siapa pun. Tetapi Sela punya alasan yang dia tuliskan sendiri di bawahnya dengan kapur kecil, huruf-huruf yang hanya setengah ukuran biasanya.
 
-Agar hal yang resmi dan hal yang rahasia tahu letak masing-masing. Dan agar pengesahan itu belajar dari tetangganya, yaitu bahwa daftar-di-belakang-papan lebih tua, lebih jujur, dan lebih penting daripada dirinya.
+Agar hal yang resmi dan hal yang rahasia tahu letak masing-masing. Dan agar pengesahan itu belajar dari tetangganya — yaitu bahwa daftar-di-belakang-papan lebih tua, lebih jujur, dan lebih penting daripada dirinya.
 
 Dia memandangi hasil kerjanya sampai puas, lalu membalik papan ke sisi depan supaya dunia melihat yang seharusnya dilihat dunia, dan menyimpannya ke tempat biasa di samping tempat tidurnya.
 

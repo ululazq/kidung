@@ -25,19 +25,19 @@ Sela yang memecah keheningan, dengan suara kecil pencatat yang sedang menghitung
 
 "Hilang saat kebocoran?" tanya Brannoc dari pintu — tukang besi itu datang mengantar pesanan gagang kapak dan tidak sempat pergi karena telinganya tertempel pada percakapan.
 
-"Tidak tertulis." Sela menyelipkan pita pembatas di halaman itu. "Tapi ada satu hal lagi di bawahnya, tulisan pengamat yang sama, ditambahkan bertahun-tahun kemudian dengan tinta berbeda." Ia membacakan, dan kalimatnya membuat ruangan berhenti bernapas:
+"Tidak tertulis." Sela menyelipkan pita pembatas di halaman itu. "Namun ada satu hal lagi di bawahnya, tulisan pengamat yang sama, ditambahkan bertahun-tahun kemudian dengan tinta berbeda." Ia membacakan, dan kalimatnya membuat ruangan berhenti bernapas:
 
 "'Pembaruan subjek utama: murid alami tidak ditemukan pada malam kebocoran. Kemungkinan besar ikut masuk ke penyimpanan. Jika benar — subjek adalah salah satu penyimpanan TERDAFTAR kami. Dicari.'"
 
 Dicari. Ordo Penjaga Rekam mencari bocah itu delapan belas tahun silam — dan tidak pernah menemukannya, karena ordo sendiri dibubarkan tak lama kemudian, karena arsipnya disembunyikan, karena dunia lupa bahwa ordo itu pernah ada.
 
-Tapi kedalaman tidak pernah lupa apa yang tersimpan di dalamnya. Kedalaman tidak PERNAH lupa apa pun.
+Namun kedalaman tidak pernah lupa apa yang tersimpan di dalamnya. Kedalaman tidak PERNAH lupa apa pun.
 
 "Maka daftar pertanyaan armada utara bertambah satu," kata Ashvarok bangkit, "dan ini masuk prioritas atas: saat kita membaca batu-batu utara berikutnya, tanyakan tentang bocah lorong tujuh era lama — anak Pak Dekan. Pendengar alami kedua. Kalau dia benar-benar masuk ke penyimpanan pada malam kebocoran..."
 
 "...dia masih di sana," selesai Sela. "Delapan belas tahun. Seumur hidupnya yang sadar." Gadis itu menutup arsip dan berkata kalimat yang membuat seluruh keluarga tahu pekerjaan berikutnya sudah dipilih: "Kita sudah membawa pulang bayi tujuh bulan. Sekarang kita cari anak sembilan tahun yang sudah jadi lelaki tua."
 
-Brannoc meletakkan gagang kapak pesanannya di meja — pekerjaan yang dibawanya sudah lupa tujuannya — dan berkata dengan cara orang yang jarang berpikir keras tapi kalau berpikir langsung ke intinya: "Kalau dia pendengar alami, delapan belas tahun di dalam sana itu... dia dengar SEMUA. Tiap name train kalian. Tiap percakapan aula. Dia bukan tertidur seperti bayi." Ia menggeleng pelan. "Dia menunggu sambil mendengarkan. Delapan belas tahun."
+Brannoc meletakkan gagang kapak pesanannya di meja — pekerjaan yang dibawanya sudah lupa tujuannya — dan berkata dengan cara orang yang jarang berpikir keras tetapi kalau berpikir langsung ke intinya: "Kalau dia pendengar alami, delapan belas tahun di dalam sana itu... dia dengar SEMUA. Tiap name train kalian. Tiap percakapan aula. Dia bukan tertidur seperti bayi." Ia menggeleng pelan. "Dia menunggu sambil mendengarkan. Delapan belas tahun."
 
 Ruangan diam lagi, dan diam kali ini lebih berat, karena semua orang mencoba membayangkan bagaimana rasanya mendengarkan dunia lewat tembok selama hidup kedua — dan tidak ada yang sanggup.
 
@@ -53,13 +53,13 @@ Sebelum dikirim, surat itu dibacakan dulu di meja panjang akademi, dan Barim mem
 
 Kalimat itu masuk. Tulisan tangan Ashvarok.
 
-"Dan satu hal lagi," kata Ossian saat surat akan disegel. "Keluarga ini berhak tahu risikonya semua, termasuk yang jelek: delapan belas tahun dalam penyimpanan tidak mengubah umur tubuh, tapi dunia bergerak. Dia keluar nanti sebagai orang asing di zamannya sendiri — seperti Rina, seperti Sarneth. Kalau kita menyembunyikan bagian ini, kita mengulang kesalahan ordo lama."
+"Dan satu hal lagi," kata Ossian saat surat akan disegel. "Keluarga ini berhak tahu risikonya semua, termasuk yang jelek: delapan belas tahun dalam penyimpanan tidak mengubah umur tubuh, tetapi dunia bergerak. Dia keluar nanti sebagai orang asing di zamannya sendiri — seperti Rina, seperti Sarneth. Kalau kita menyembunyikan bagian ini, kita mengulang kesalahan ordo lama."
 
 Kalimat itu juga masuk. Dan balasan juru ukur, di paragraf terakhirnya, menjawabnya langsung: "Ibu saya menghabiskan delapan belas tahun tidak tahu apa-apa. Tidak ada informasi yang lebih kejam daripada tidak adanya informasi."
 
 Balasan datang sepuluh hari kemudian, tulisan tangan juru ukur yang rapi seperti semua orang keluarga itu:
 
-"Ayah tidak pernah menyebut punya anak laki-laki. Tapi ibu, waktu masih hidup, pernah cerita ada bocah yang dengar batu tinggal sebentar di rumah — sepupu jauh yang disayang ayah lebih dari sepupu biasanya. Bocah itu hilang suatu malam dan ayah berubah sejak itu. Dulu aku pikir cerita itu soal kehilangan biasa." Jeda; tulisannya makin besar: "Kalau bocah itu masih di bawah tanah utara... bawakan dia pulang. Dan bilang dia, rumah keluarga ini belum pernah pindah. Pintunya masih yang sama."
+"Ayah tidak pernah menyebut punya anak laki-laki. Namun ibu, waktu masih hidup, pernah cerita ada bocah yang dengar batu tinggal sebentar di rumah — sepupu jauh yang disayang ayah lebih dari sepupu biasanya. Bocah itu hilang suatu malam dan ayah berubah sejak itu. Dulu aku pikir cerita itu soal kehilangan biasa." Jeda; tulisannya makin besar: "Kalau bocah itu masih di bawah tanah utara... bawakan dia pulang. Dan bilang dia, rumah keluarga ini belum pernah pindah. Pintunya masih yang sama."
 
 Ashvarok membaca salinan balasan itu di gudang perkakas — tempat favoritnya berpikir, karena bau minyak mesin membuatnya ingat bahwa dunia punya bagian yang sederhana — dan menemukan potongan yang membuat seluruh teka-teki lama bergeser: bocah itu pernah tinggal di rumah Pak Dekan. Bukan sekadar murid jauh — keluarga angkat, atau kerabat yang diasuh. Dan "hilang suatu malam" delapan belas tahun silam cocok persis dengan tanggal kebocoran utara.
 
@@ -77,7 +77,7 @@ Ia bukan penjaga lokal misterius. Ia ayah yang menunggu dekat tempat penyimpanan
 
 Ashvarok menutup neraca bab itu dengan baris yang membuatnya sendiri harus berhenti menulis sebentar:
 
-Hari 393. Pak Dekan terjawab. Delapan tahun dia jaga galeri sembilan — bukan karena tradisi tua semata, tapi karena anak angkatnya ada DI DALAM penyimpanan kedalaman, dan mendekati aula adalah cara terdekat seorang ayah berdiri di samping anaknya.
+Hari 393. Pak Dekan terjawab. Delapan tahun dia jaga galeri sembilan — bukan karena tradisi tua semata, tetapi karena anak angkatnya ada DI DALAM penyimpanan kedalaman, dan mendekati aula adalah cara terdekat seorang ayah berdiri di samping anaknya.
 
 Dan pertanyaannya kini personal untukku: kedalaman menyimpan nama yang dibakar (milikku), bayi yang dititipkan (Rina), dan bocah pendengar (anak Pak Dekan). Berapa banyak lagi keluarga di dunia ini yang tidak tahu bahwa orang-orang mereka tidak hilang — hanya dititipkan ke penjaga paling sabar di dunia?
 

@@ -19,7 +19,7 @@ Ashvarok-Renn meletakkan kedua telapak di batu bundar. Listen dibuka penuh — h
 
 Penjepit itu mengenali dirinya.
 
-Seperti retakan the Threshold pernah mengenali detak jantung tubuh ini — aturan yang sama, usia yang sama, rasa kenal yang sama — penjepit itu terbuka bukan seperti kotak, tapi seperti tangan yang akhirnya boleh menyerahkan apa yang dipikulnya.
+Seperti retakan the Threshold pernah mengenali detak jantung tubuh ini — aturan yang sama, usia yang sama, rasa kenal yang sama — penjepit itu terbuka bukan seperti kotak, tetapi seperti tangan yang akhirnya boleh menyerahkan apa yang dipikulnya.
 
 Nada lima panglima naik ke permukaan batu.
 
@@ -29,7 +29,7 @@ Di tengah pekerjaan itu, lagu yang belum utama sempat bernyanyi sekali, setengah
 
 Ashvarok-Renn mendengar bagian sahabatnya.
 
-Bagian yang sepuluh abad hilang. Bagian tempat lima suara meninggalkan lagu kepada raja mereka dan beralih kepada sahabat mereka — dan bunyinya bukan nyanyian perpisahan, bukan doa, tapi lima orang yang sedang mengingatkan satu orang bahwa mereka pernah bahagia bersamanya, agar yang tertinggal tidak menguburkan versi yang salah tentang mereka.
+Bagian yang sepuluh abad hilang. Bagian tempat lima suara meninggalkan lagu kepada raja mereka dan beralih kepada sahabat mereka — dan bunyinya bukan nyanyian perpisahan, bukan doa, tetapi lima orang yang sedang mengingatkan satu orang bahwa mereka pernah bahagia bersamanya, agar yang tertinggal tidak menguburkan versi yang salah tentang mereka.
 
 Tiga hari tidak bisa didengar nat mana pun ternyata juga berarti tiga hari tidak bisa menangis ditemani siapa pun.
 
@@ -49,7 +49,7 @@ Kalimat yang dijanjikan Ashvarok-Renn akan dibacakan saat anak-anak selesai menu
 
 Jawaban Ashvarok-Renn malam itu, tertulis di arsip seam sebagai irama, bukan kata:
 
-*Belum. Tapi malam ini boleh didengar olehmu saja, saudaraku. Sepuluh abad kau menyimpannya untuk dunia. Sekali saja, dengarkan untuk dirimu sendiri.*
+*Belum. Namun malam ini boleh didengar olehmu saja, saudaraku. Sepuluh abad kau menyimpannya untuk dunia. Sekali saja, dengarkan untuk dirimu sendiri.*
 
 Dan seam saksi mendengarkannya.
 
@@ -57,7 +57,7 @@ Dan seam saksi mendengarkannya.
 
 Pagi harinya, dua hal terjadi hampir bersamaan di dua ujung dunia.
 
-Di Caldrest, Sela bangun dengan telinga berdenging tipis — bukan suara, tapi bekas suara, seperti telinga yang baru lelah mendengar sesuatu sangat penting. Barim mengalaminya juga. Semua pendengar alami Karvess mengalaminya. Nat lorong barak utara menyala dengan pola yang tidak bisa diterjemahkan siapa pun, dan Yang Dulu Sunyi, ketika ditanya, hanya berkata:
+Di Caldrest, Sela bangun dengan telinga berdenging tipis — bukan suara, tetapi bekas suara, seperti telinga yang baru lelah mendengar sesuatu sangat penting. Barim mengalaminya juga. Semua pendengar alami Karvess mengalaminya. Nat lorong barak utara menyala dengan pola yang tidak bisa diterjemahkan siapa pun, dan Yang Dulu Sunyi, ketika ditanya, hanya berkata:
 
 "DIA BAHAGIA. JANGAN DIGANGGU."
 
@@ -73,18 +73,18 @@ Dan menulis di bagian bawahnya, satu kalimat, dengan tinta yang sama:
 
 *Sampai.*
 
-Surat itu diletakkan kembali di laci. Menunggu kurir yang tepat. Karena jabatan ini hidup karena diam — tapi diam, seperti sudah diajari dunia oleh nat-nat Caldrest, bukan berarti tidak pernah menunggu saatnya bicara.
+Surat itu diletakkan kembali di laci. Menunggu kurir yang tepat. Karena jabatan ini hidup karena diam — tetapi diam, seperti sudah diajari dunia oleh nat-nat Caldrest, bukan berarti tidak pernah menunggu saatnya bicara.
 ---
 
 Kabar penyatuan nada sampai ke Caldrest sore harinya lewat jalur resmi: irama seam saksi merambat turun dari nat lereng ke nat lereng, dan Yang Dulu Sunyi menerjemahkannya untuk seluruh barak dengan gaya khasnya:
 
 "Lagu sudah utuh. Tamu kami di dataran tinggi sedang tidur dua hari berturut-turut dan tidak boleh dibangunkan. Nada lima panglima sudah pulang. Dan ada satu pesan pribadi untuk keluarga the Quiet Vein."
 
-Irama pesan itu diputar pelan. Barim yang menerjemahkannya, karena bagian terpentingnya bukan kata tapi cara disampaikannya:
+Irama pesan itu diputar pelan. Barim yang menerjemahkannya, karena bagian terpentingnya bukan kata tetapi cara disampaikannya:
 
 "'Kepada arsiparis kecilku — kalimatmu soal jalan dapur benar. Cari penyelundupnya lewat dapur-dapur sejarah, bukan pintu-pintu sejarah. Dan kepada raja yang membawa pulang nadaku: terima kasih. Sekarang aku tidak lagi menyimpan luka. Aku menyimpan lagu.'"
 
-Sela menuliskan kalimat itu di papan tulisnya, memandanginya lama, lalu menghapus kata "kecil" dari "arsiparis kecilku" — bukan karena tersinggung, tapi karena ia baru saja sadar bahwa ia sudah berumur tiga belas tahun, delapan belas bulan silam sudah menandatangani dokumen Dewan, dan saksi batu sepuluh abad masih memanggilnya seperti dulu ia memanggil adik angkatnya.
+Sela menuliskan kalimat itu di papan tulisnya, memandanginya lama, lalu menghapus kata "kecil" dari "arsiparis kecilku" — bukan karena tersinggung, tetapi karena ia baru saja sadar bahwa ia sudah berumur tiga belas tahun, delapan belas bulan silam sudah menandatangani dokumen Dewan, dan saksi batu sepuluh abad masih memanggilnya seperti dulu ia memanggil adik angkatnya.
 
 Ia memutuskan membiarkan panggilan itu tetap ada di arsip. Beberapa hal tidak boleh dibesarkan oleh jabatan.
 

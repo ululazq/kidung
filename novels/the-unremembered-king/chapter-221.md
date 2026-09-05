@@ -37,11 +37,11 @@ Jawaban Vess-Morath atas kalimat itu dibaca Kovan dengan suara pecah:
 
 ---
 
-Subuh harinya, sebelum semua persiapan terakhir dimulai, terjadi peristiwa kecil yang tidak masuk protokol mana pun tapi masuk setiap ingatan yang mendengarnya.
+Subuh harinya, sebelum semua persiapan terakhir dimulai, terjadi peristiwa kecil yang tidak masuk protokol mana pun tetapi masuk setiap ingatan yang mendengarnya.
 
 Ketua majelis Dewan Regional — orang tua formal yang memimpin putusan Ladang Utara — datang sendirian ke nat pusat aula pada jam lima pagi, duduk di lantai seperti duduk orang biasa, dan mulai bicara kepada kedalaman tanpa penerjemah, tanpa protokol, dengan bahasa manusia biasa:
 
-"Aku yang menandatangani dokumen pengakuan itu. Aku ingin kau tahu kenapa aku lakukan." Ia menarik napas. "Empat puluh tahun aku jadi birokrat. Aku sudah tanda tangan ribuan dokumen. Tapi dokumen itu satu-satunya yang kutandatangani sambil merasa takut."
+"Aku yang menandatangani dokumen pengakuan itu. Aku ingin kau tahu kenapa aku lakukan." Ia menarik napas. "Empat puluh tahun aku jadi birokrat. Aku sudah tanda tangan ribuan dokumen. Namun dokumen itu satu-satunya yang kutandatangani sambil merasa takut."
 
 Ia meletakkan telapak tangannya ke nat — hal yang tidak pernah dilakukan pejabat Dewan mana pun dalam sejarah.
 
@@ -67,7 +67,7 @@ Malam itu juga, Vess-Morath mengirim permintaan terakhir mereka dari dalam kedal
 
 "Dan kepada Rumah — penjaga kami selama ini:" irama berubah, lebih dalam. "Terima kasih sudah menyimpan kami tanpa pernah sekali pun membuat kami merasa disimpan. Kami datang sebagai orang hilang. Kami pulang sebagai tamu yang dihormati. Itu keahlianmu, dan kami bersaksi: tidak ada rumah mana pun di dunia ini yang lebih baik dalam pekerjaan itu."
 
-Jawaban the Patient House malam terakhir itu pendek — pendek sekali dibanding semua kalimat panjangnya sebelumnya — tapi pendeknya justru membuat seluruh Caldrest yang mendengarnya lewat nat lingkaran menangis:
+Jawaban the Patient House malam terakhir itu pendek — pendek sekali dibanding semua kalimat panjangnya sebelumnya — tetapi pendeknya justru membuat seluruh Caldrest yang mendengarnya lewat nat lingkaran menangis:
 
 "Sampai jumpa di atas, saudara-saudaraku. Aku yang menjaga pintunya."
 
@@ -75,7 +75,7 @@ Jawaban the Patient House malam terakhir itu pendek — pendek sekali dibanding 
 
 Malam itu juga, seluruh Caldrest melakukan hal yang tidak pernah dilakukan kota mana pun: begadang bersama — bukan untuk merayakan, melainkan untuk MENEMANI malam terakhir.
 
-Karena semua orang sadar: besok seratus orang naik ke dunia. Tapi malam ini adalah malam terakhir seratus suara itu berada di dalam kedalaman — dan tidak ada yang ingin melewatinya tanpa mengucapkan sesuatu.
+Karena semua orang sadar: besok seratus orang naik ke dunia. Namun malam ini adalah malam terakhir seratus suara itu berada di dalam kedalaman — dan tidak ada yang ingin melewatinya tanpa mengucapkan sesuatu.
 
 Orang-orang datang ke nat-nat satu per satu sepanjang malam. Ibu dengan bayi. Penjaga tua. Anak-anak yang dibangunkan sengaja supaya tidak ketinggalan. Setiap orang berkata sesuatu yang berbeda kepada nat — pamitan, terima kasih, cerita pendek, atau hanya "sampai besok". Dan setiap ucapan dijawab oleh Vess-Morath dengan irama panjangnya yang sabar.
 
@@ -113,4 +113,4 @@ Dan begitulah, malam terakhir Vess-Morath di dalam kedalaman diakhiri bukan deng
 
 "Kita putuskan besok: dua sendok untuk semua. Kalau ada yang kurang manis... tambah sendoknya sendiri. Itu hak setiap manusia yang sudah pulang."
 
-Ashvarok menemukan surat lama di antara dokumen Hegemony: permintaan maaf yang ditulis seribu tahun silam tapi tidak pernah dikirim. Ia membacanya dua kali sebelum menyimpannya di Arsip. Label barunya: "penyesalan yang akhirnya diberi tempat. Yang ini tidak sempat. Yang kita pegang hari ini."
+Ashvarok menemukan surat lama di antara dokumen Hegemony: permintaan maaf yang ditulis seribu tahun silam tetapi tidak pernah dikirim. Ia membacanya dua kali sebelum menyimpannya di Arsip. Label barunya: "penyesalan yang akhirnya diberi tempat. Yang ini tidak sempat. Yang kita pegang hari ini."

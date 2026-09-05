@@ -15,7 +15,7 @@ Gerobak Vosk sudah berdiri di tempat biasanya, diterangi satu lampu minyak yang 
 
 "Shift Guard?"
 
-"Kakinya berdiri seperti seragam, walau dadanya tidak." Vosk mengetuk tutup gerobaknya dua kali, pelan. "Aku hanya menjual barang, bocah. Tapi kalau aku punya pelanggan yang jalan pulangnya lewat lorong sempit, aku menyarankannya ganti jalur sesekali."
+"Kakinya berdiri seperti seragam, walau dadanya tidak." Vosk mengetuk tutup gerobaknya dua kali, pelan. "Aku hanya menjual barang, bocah. Namun kalau aku punya pelanggan yang jalan pulangnya lewat lorong sempit, aku menyarankannya ganti jalur sesekali."
 
 "Aku pulang lewat jalur yang membosankan."
 
@@ -33,7 +33,7 @@ Jawabannya bisa dibangun. Tetapi bangunan membutuhkan bahan, dan bahan itu ada d
 
 Hari keempat puluh dua, shift malam, lorong tujuh bagian dalam. Brannoc memberinya dua jam sunyi dengan cara mandor. Regu digeser ke cabang barat dengan alasan penyokongan yang masuk akal, dan tidak ada yang bertanya mengapa bocah tungku berjalan sendiri ke timur dengan lampu yang sumbunya dipendekkan.
 
-Udara makin dingin tiap puluhan hasta, dingin yang bukan suhu saja. Bau garam dan air batuan mengisi lorong, dan di kejauhan sebuah tetesan berdetak dengan irama yang tidak pernah sama dua kali — hampir sama, tapi tidak pernah sama. Ashvarok menghitung langkahnya dan tidak menyanyikan apa pun.
+Udara makin dingin tiap puluhan hasta, dingin yang bukan suhu saja. Bau garam dan air batuan mengisi lorong, dan di kejauhan sebuah tetesan berdetak dengan irama yang tidak pernah sama dua kali — hampir sama, tetapi tidak pernah sama. Ashvarok menghitung langkahnya dan tidak menyanyikan apa pun.
 
 Ceruk itu ada di lengkung keempat setelah titik di mana Ondar dahulu berhenti mengenali namanya sendiri. Lingkaran jelaga tua pada lantai. Bekas panggung api kecil, kayunya sudah lapuk menjadi serat. Batu penahan setinggi lutut yang disusun dengan kebiasaan tangan tambang, dan di belakangnya, terselip rapat, satu bungkusan kulit dijahit benang kasar dan dililin agar tidak basah.
 
@@ -59,7 +59,7 @@ Gudang perkakas tingkat dua, malam harinya, lampu ditutup keranjang terbalik seh
 
 "Orang-orang selalu mendengarnya lebih dulu. Yang berbeda hanya siapa yang menulis." Ashvarok meletakkan lembar jadwal curian dari memorinya di atas peti, di samping buku Pak Dekan. "Sekarang soal pekerjaan kita. Dua belas titik ukur. Mana yang kita biarkan benar?"
 
-Kebiasaan lamanya bertanya dengan jawaban yang sudah ia pegang tidak pernah gagal memancing lawan bicara, dan Brannoc bukan lawan — tapi mandor tetap berpikir lebih dulu, karena begitulah caranya menghargai pertanyaan.
+Kebiasaan lamanya bertanya dengan jawaban yang sudah ia pegang tidak pernah gagal memancing lawan bicara, dan Brannoc bukan lawan — tetapi mandor tetap berpikir lebih dulu, karena begitulah caranya menghargai pertanyaan.
 
 "Galeri atas," kata Brannoc. "Persimpangan utama. Tempat-tempat yang kalau dibaca salah malah membuat— " ia mengoreksi diri dengan gerakan kepala, "—membuat tim penilai curiga. Data yang jujur di tempat yang tak penting."
 

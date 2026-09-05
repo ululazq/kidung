@@ -17,7 +17,7 @@ Ashvarok-Renn mengulang posisi persis seperti biasa — lengan kanan terbuka di 
 
 Gella mengukur. Mengukur lagi. Lalu duduk di kursinya sendiri dan menatap kedua orang di ruang klinik itu dengan tatapan dokter tambang tua yang sedang memilih kata.
 
-"Delapan bulan terakhir," katanya akhirnya, "garis kanan kau diam. Aku pikir itu bagus — operasi besar terakhir kan sudah dua tahun. Tapi malam ini aku ukur ulang arsip lamaku, dan aku menemukan sesuatu yang harusnya kutemukan lebih awal." Ia meletakkan lembar-lembar Hourglass di meja, berurutan tanggal. "Lihat sendiri. Garisnya tidak hanya diam. Dia MUNDUR."
+"Delapan bulan terakhir," katanya akhirnya, "garis kanan kau diam. Aku pikir itu bagus — operasi besar terakhir kan sudah dua tahun. Namun malam ini aku ukur ulang arsip lamaku, dan aku menemukan sesuatu yang harusnya kutemukan lebih awal." Ia meletakkan lembar-lembar Hourglass di meja, berurutan tanggal. "Lihat sendiri. Garisnya tidak hanya diam. Dia MUNDUR."
 
 Sela membaca angka-angka itu dua kali, karena angka pertamanya tidak masuk akal.
 
@@ -51,9 +51,9 @@ Implikasi temuan itu tidak habis di ruang klinik malam itu — ia merambat ke se
 
 Karena selama ini pemahaman resminya begini: Hollowing terjadi pada jiwa yang diputuskan hubungannya dengan dunia. Obatnya: sapaan, name train, cerita — semua ditujukan kepada JIWA yang menderita.
 
-Tapi tubuh Ashvarok-Renn membuka kasus yang tidak masuk kategori: tubuh yang juga bisa "Hollowing" — vein-scar adalah bentuknya — dan tubuh itu pun bisa pulih dengan obat yang sama: didengarkan. Diperhatikan. Disapa. Diterima sebagai bagian dari rumah, bukan sekadar alat tempat tinggal.
+Namun tubuh Ashvarok-Renn membuka kasus yang tidak masuk kategori: tubuh yang juga bisa "Hollowing" — vein-scar adalah bentuknya — dan tubuh itu pun bisa pulih dengan obat yang sama: didengarkan. Diperhatikan. Disapa. Diterima sebagai bagian dari rumah, bukan sekadar alat tempat tinggal.
 
-"Berarti," kata Gella pelan, menyusun ulang seluruh buku medis lamanya di kepala, "semua tubuh the Hollowed yang kami rawat delapan tahun... kita sapa jiwanya, tapi tubuhnya kita perlakukan sebagai sisa." Ia memandang tangan-tuanya. "Kita beri mereka makan, kita bersihkan, tapi kita tidak pernah SEKALI PUN menyapa tubuh mereka. 'Bagaimana lenganmu hari ini?' Tidak pernah ada yang bertanya begitu."
+"Berarti," kata Gella pelan, menyusun ulang seluruh buku medis lamanya di kepala, "semua tubuh the Hollowed yang kami rawat delapan tahun... kita sapa jiwanya, tetapi tubuhnya kita perlakukan sebagai sisa." Ia memandang tangan-tuanya. "Kita beri mereka makan, kita bersihkan, tetapi kita tidak pernah SEKALI PUN menyapa tubuh mereka. 'Bagaimana lenganmu hari ini?' Tidak pernah ada yang bertanya begitu."
 
 Malam itu Gella menulis halaman baru untuk buku medisnya — halaman yang kelak dikutip setiap dokter Karvess dan diterjemahkan ke sembilan bahasa wilayah:
 
@@ -70,7 +70,7 @@ Malam itu Gella menulis halaman baru untuk buku medisnya — halaman yang kelak 
 *Hasil uji awal: akan kutulis sendiri bulan depan. Kalau teori bocah tungku itu benar — dan selama empat tahun bekerja dengannya, teori bocah tungku belum pernah salah — maka lima menit itu akan menjadi lima menit paling murah dalam sejarah pengobatan dunia.*
 ---
 
-Uji lapangan pertama dilakukan tiga hari kemudian, dan pilihannya jatuh pada Tovik — the Hollowed kedua dalam sejarah novel ini, penambang tua galeri sembilan yang delapan tahun lupa namanya sendiri tapi tubuhnya terus merawat klinik dengan kebiasaan yang tidak pernah ia mengerti.
+Uji lapangan pertama dilakukan tiga hari kemudian, dan pilihannya jatuh pada Tovik — the Hollowed kedua dalam sejarah novel ini, penambang tua galeri sembilan yang delapan tahun lupa namanya sendiri tetapi tubuhnya terus merawat klinik dengan kebiasaan yang tidak pernah ia mengerti.
 
 Protokol baru dijalankan utuh: sebelum menyentuhnya, sapa. Sebelum memandunya, terima kasih. Sebelum membasahi dahinya, ceritakan dulu apa yang akan dilakukan.
 
@@ -88,7 +88,7 @@ Kalimat. Tentang dirinya sendiri. Permintaan — bukan refleks, bukan kebiasaan 
 
 Gella menurunkan suhu airnya dua derajat.
 
-"Baik," katanya, suaranya datar seperti biasa tapi tangannya tidak. "Terima kasih sudah bilang, Pak Tovik. Tubuh Tuan akhirnya bicara juga."
+"Baik," katanya, suaranya datar seperti biasa tetapi tangannya tidak. "Terima kasih sudah bilang, Pak Tovik. Tubuh Tuan akhirnya bicara juga."
 
 Di pojok ruangan, Sela mencatat dengan tulisan yang olehnya sendiri dinilai "miring karena tangan tidak stabil, alasan: bukan dingin":
 
@@ -122,7 +122,7 @@ Ia berhenti di pintu, memandang kembali ke dalam ruangan — ke arsip-arsip tua,
 "Dunia ini butuh waktu lama untuk belajar satu hal," katanya pelan. "Bahwa mendengarkan itu bukan pekerjaan telinga. Itu pekerjaan seluruh diri — termasuk tubuh yang sedang melakukan pekerjaan mendengarkan itu."
 ---
 
-Malam itu, sebelum kamar, Ashvarok-Renn melakukan hal yang sudah menjadi rutinitas delapan bulan — tapi malam ini dengan tambahan satu kalimat baru.
+Malam itu, sebelum kamar, Ashvarok-Renn melakukan hal yang sudah menjadi rutinitas delapan bulan — tetapi malam ini dengan tambahan satu kalimat baru.
 
 Ia duduk di tepi kasur barak. Meletakkan kedua telapak tangan di kedua lutut tubuh bocah tujuh belas tahun itu. Dan menyapanya, seperti biasa: terima kasih pada kakinya yang berjalan jauh hari ini, pada paru-parunya yang menahan dingin dataran tinggi minggu lalu, pada kulitnya yang memegang matahari di ladang Vess-Morath.
 
@@ -132,13 +132,13 @@ Lalu kalimat barunya:
 
 Di dalam, Renn menjawab seperti biasa — hangat, ringan, penuh kebiasaan dua orang yang sudah lama hidup bersama.
 
-Tapi malam itu, sebelum tidur benar-benar datang, ada satu irama lagi dari dalam — bukan kata, hanya perasaan yang lewat begitu saja, seperti orang mengangguk di tengah gelap:
+Namun malam itu, sebelum tidur benar-benar datang, ada satu irama lagi dari dalam — bukan kata, hanya perasaan yang lewat begitu saja, seperti orang mengangguk di tengah gelap:
 
 Terima kasih sudah mulai.
 
 Di ruang sebelah, Sela yang masih bangun menulis entri terakhir harinya di arsip:
 
-*Hari 815. Temuan Gella dikonfirmasi. Tubuh sembuh karena didengar — dan teori ini lahir bukan dari laboratorium mana pun, tapi dari sebuah rumah yang isinya dua orang yang belajar menyapa.*
+*Hari 815. Temuan Gella dikonfirmasi. Tubuh sembuh karena didengar — dan teori ini lahir bukan dari laboratorium mana pun, tetapi dari sebuah rumah yang isinya dua orang yang belajar menyapa.*
 
 *Sekali lagi, untuk arsip: penyelamatan besar era ini tidak datang dari seni raja. Ia datang dari sopan santun.*
 ---

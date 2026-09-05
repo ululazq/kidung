@@ -47,7 +47,7 @@ Tidak ada yang menertawakan kalimat itu, meski kalimat semacam itu di kota lain 
 
 Rencana pemulangan anak Pak Dekan disusun malam itu juga dan berbeda dari semua sebelumnya dalam satu hal: ia tidak bisa dilakukan oleh armada.
 
-Karena anak sembilan tahun yang telah delapan belas tahun menjadi pendengar-kecil-yang-menghitung-bersama tidak akan mengenal siapa pun yang datang menjemupnya. Tidak ada ibu dengan lagunya. Tidak ada adik dengan selimutnya. Yang ada hanya satu orang di dunia ini yang berbicara bahasanya — bahasa hitungan, bahasa nat, bahasa menunggu tanpa jawaban:
+Karena anak sembilan tahun yang telah delapan belas tahun menjadi pendengar-kecil-yang-menghitung-bersama tidak akan mengenal siapa pun yang datang menjemputnya. Tidak ada ibu dengan lagunya. Tidak ada adik dengan selimutnya. Yang ada hanya satu orang di dunia ini yang berbicara bahasanya — bahasa hitungan, bahasa nat, bahasa menunggu tanpa jawaban:
 
 Kovan.
 
@@ -83,7 +83,7 @@ Lalu Kovan melanjutkan hitungannya dari empat puluh tiga. Dan mereka berdua meng
 
 Anak Pak Dekan tidak dibawa keluar malam itu. Kovan yang memutuskan, setelah hitungan mereka mencapai angka tiga ratus dua belas dan anak itu — lewat irama yang ia kirim — menyatakan hal yang diterjemahkan kemudian sebagai: "aku tidak mau keluar duluan sebelum ayahku tahu aku di sini. panggil dia ke nat ini. aku akan menunggu dia di sini. aku sudah terbiasa menunggu."
 
-Kovan naik ke permukaan membawa kalimat itu, dan yang ia katakan kepada Ashvarok di node pertama hanya satu kalimat, tapi kalimat itu membuat raja harus berpegang pada tepi lorong:
+Kovan naik ke permukaan membawa kalimat itu, dan yang ia katakan kepada Ashvarok di node pertama hanya satu kalimat, tetapi kalimat itu membuat raja harus berpegang pada tepi lorong:
 
 "Dia mengira delapan belas tahun ini adalah TUGAS dari ayahnya. Dia pikir disuruh menunggu." Kovan meletakkan buku hitungannya di dada seperti orang memegang barang pusaka. "Dia tidak pernah merasa tertinggal, Renn. Dia merasa ditugaskan. Dan dia sudah menyelesaikan tugasnya dengan sempurna tanpa sekali pun yakin akan ada yang datang mengecek."
 

@@ -49,7 +49,7 @@ Di lantai batu tersusun bahan bakunya: pecahan cinder-glass kelas bawah yang dib
 
 Ashvarok duduk bersila di depan tungku kedua, membuka celah bata yang hanya diketahuinya, dan membiarkan panas murah tambang mengalir ke dalam tubuhnya sebagai bahan mentah.
 
-Forge bekerja lebih pelan daripada Cinder dan lebih sabar daripada Ash. Ia mengambil pecahan gelang retak pertama antara kedua telapak, menenun kepastian ke dalam strukturnya sampai retakannya menutup dan bentuknya bergeser — bukan bentuk besar, melainkan bentuk-bentuk kecil yang selalu dicari tapi jarang dijumpai: mata pisau kaca-batu setelapak jari, ujung pahat penggores, keping timbangan yang rata sempurna. Barang-barang yang dijual penambang kepada penambang, harga seperempat shardmark hingga dua shardmark, barang yang tidak layak dinilai Guild dan karena itu tidak akan dinilai Guild.
+Forge bekerja lebih pelan daripada Cinder dan lebih sabar daripada Ash. Ia mengambil pecahan gelang retak pertama antara kedua telapak, menenun kepastian ke dalam strukturnya sampai retakannya menutup dan bentuknya bergeser — bukan bentuk besar, melainkan bentuk-bentuk kecil yang selalu dicari tetapi jarang dijumpai: mata pisau kaca-batu setelapak jari, ujung pahat penggores, keping timbangan yang rata sempurna. Barang-barang yang dijual penambang kepada penambang, harga seperempat shardmark hingga dua shardmark, barang yang tidak layak dinilai Guild dan karena itu tidak akan dinilai Guild.
 
 Harganya datang seperti biasa, tepat waktu dan tanpa sopan santun: lapar yang besar dan spesifik, sakit kepala di belakang mata, dan rasa hangat yang hilang dari lengannya satu demi satu seperti lampu-lampu yang dipadamkan petugas. Lemak tubuh ini sudah tipis. Ia menghitung setiap item dengan sisa-sisanya.
 
@@ -85,7 +85,7 @@ Gerobak Vosk, sore hari keempat puluh delapan, berdiri di tempat biasanya dengan
 
 "Tiga belas shardmark total, delapan persen untukmu."
 
-"Satu shardmark empat keping potonganku, dan satu saran gratis." Vosk mengetuk tutup gerobaknya, pelan, irama yang sama dengan malam ketika ia memberi peringatan pertama. "Orang yang menghitung soreku minggu ini bukan orang yang sama dengan minggu lalu. Yang lalu berdiri, yang sekarang membeli — kecil-kecil, selalu bertanya soal asal barang. Aku jawab semua dengan benar: barang bekas, warisan, tidak tahu-tahu. Tapi awas, bocah lorong tujuh. Pembeli yang rajin adalah pencuri yang lebih sabar."
+"Satu shardmark empat keping potonganku, dan satu saran gratis." Vosk mengetuk tutup gerobaknya, pelan, irama yang sama dengan malam ketika ia memberi peringatan pertama. "Orang yang menghitung soreku minggu ini bukan orang yang sama dengan minggu lalu. Yang lalu berdiri, yang sekarang membeli — kecil-kecil, selalu bertanya soal asal barang. Aku jawab semua dengan benar: barang bekas, warisan, tidak tahu-tahu. Namun awas, bocah lorong tujuh. Pembeli yang rajin adalah pencuri yang lebih sabar."
 
 "Aku akan mengirim cuaca," kata Ashvarok, "bukan badai."
 

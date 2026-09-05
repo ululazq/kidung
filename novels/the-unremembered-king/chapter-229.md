@@ -61,7 +61,7 @@ Kita tidak sedang menyelesaikan proyek. Kita sedang hidup di dunia yang sudah be
 
 Rapat penutup itu juga menghasilkan satu keputusan yang oleh Ossian disebut "yang paling lama kami tunda tanpa alasan": pembaruan resmi bible Caldrest — dokumen kanon yang delapan bulan ini tertinggal di belakang kenyataan.
 
-Sela memimpin sesinya dengan daftar yang sudah ia siapkan semalam, dan satu per satu nama-nama yang selama ini hidup di lapangan tapi belum hidup di kanon masuk ke tempatnya: Wida (penjaga pos, "kakak pos", sudah ditulis subuh tadi). Ilo (penjaga nat lereng timur, pekerjaan baru: bercerita). Marn (kepala kamp timur, penemu pasal cerita harian). Sovana (jiwa pertama timur, pemilik kalimat "kami hanya bab berikutnya"). Tarm (pemimpin penanam Vess-Morath, guru pencuci piring). Daven, Pellia, Thessa (siswa angkatan pertama Sekolah Mendengar — dicatat dengan gelar baru yang mereka dapat dari warga, bukan dari Spire: "anak-anak dapur").
+Sela memimpin sesinya dengan daftar yang sudah ia siapkan semalam, dan satu per satu nama-nama yang selama ini hidup di lapangan tetapi belum hidup di kanon masuk ke tempatnya: Wida (penjaga pos, "kakak pos", sudah ditulis subuh tadi). Ilo (penjaga nat lereng timur, pekerjaan baru: bercerita). Marn (kepala kamp timur, penemu pasal cerita harian). Sovana (jiwa pertama timur, pemilik kalimat "kami hanya bab berikutnya"). Tarm (pemimpin penanam Vess-Morath, guru pencuci piring). Daven, Pellia, Thessa (siswa angkatan pertama Sekolah Mendengar — dicatat dengan gelar baru yang mereka dapat dari warga, bukan dari Spire: "anak-anak dapur").
 
 Dan satu entri terakhir, yang oleh Sela ditulis pelan-pelan sambil membacanya keras-keras karena merasa sedang menutup lingkaran:
 
@@ -85,7 +85,7 @@ Di nat pasar, ia menemukan kejutan: ada orang lain yang datang lebih dulu. Seora
 
 Ashvarok menunggu sampai cerita selesai. Lalu mereka berpapasan di ambang pasar, dan pedagang itu mengenali dia (sulit tidak mengenali lelaki kurus tertinggi di kota), dan berkata tanpa malu:
 
-"Pagian, Pak Raja. Saya lagi ngobrol sama teman."
+"Pagian, Pak Raja. Saya lagi berbincang sama teman."
 
 "Aku lihat," jawab Ashvarok. "Dia pendengar yang bagus."
 
@@ -105,7 +105,7 @@ Pekan lalu, Thessa Vael datang kepada Ashvarok membawa pertanyaan terakhirnya se
 
 Ashvarok menjawab dengan hal yang ia sadar juga jawaban untuk dirinya sendiri:
 
-"Jadwal lama kita dulu adalah menunggu. Delapan bulan ini kita belajar pekerjaan yang tidak pernah selesai: menyapa, mendengar, makan bareng, mencatat nama." Ia memandang ladang utara dari jendela aula, tempat name train sore sedang disiapkan. "Proyek bisa tamat, Nak. Tapi cara hidup tidak kenal kata tamat."
+"Jadwal lama kita dulu adalah menunggu. Delapan bulan ini kita belajar pekerjaan yang tidak pernah selesai: menyapa, mendengar, makan bareng, mencatat nama." Ia memandang ladang utara dari jendela aula, tempat name train sore sedang disiapkan. "Proyek bisa tamat, Nak. Namun cara hidup tidak kenal kata tamat."
 
 Maka jawaban resmi atas pertanyaan "apa setelah semuanya selesai" kini tergantung di dinding sekolah mendengar, di samping tiga kalimat lulusan angkatan pertama, tulisan tangan ibu Tamma:
 
@@ -121,7 +121,7 @@ Bagi keluarga-keluarga timur, batch ini adalah bulan-bulan di mana delapan belas
 
 Bagi siswa Sekolah Mendengar, ini waktu ketika mereka belajar bahwa institusi bisa berubah asal ada orang yang berani dicuci tangannya dulu.
 
-Bagi kedalaman, ini masa ketika mereka tidak lagi hanya didengar saat dibutuhkan — tapi disapa juga saat tidak ada apa-apa. Yang kedua ternyata yang lebih berarti.
+Bagi kedalaman, ini masa ketika mereka tidak lagi hanya didengar saat dibutuhkan — tetapi disapa juga saat tidak ada apa-apa. Yang kedua ternyata yang lebih berarti.
 
 Bagi Ashvarok, ini batch ketika ia menyerahkan sebagian besar pekerjaannya kepada orang lain dan justru melihat semuanya berjalan lebih baik: rantai cerita mengalir tanpa dirinya, sekolah mendengar mengajar tanpa dirinya, nat-nat kecil disapa pedagang pasar tanpa dirinya.
 
@@ -129,7 +129,7 @@ Delapan bulan silam ia takut dunia lupa padanya setelah seribu tahun tidak bergu
 
 Ternyata kebalikannya yang terjadi: dunia menjadi tempat yang tidak membutuhkan penyelamat lagi — karena sudah penuh penyelamat kecil, tersebar di setiap dapur, pos jemput, lereng penggembalaan, dan meja makan.
 
-Itulah warisan era ketiga. Bukan dokumen. Bukan gelar. Tapi sebuah kota — dan pelan-pelan, sebuah benua — di mana tidak ada yang sunyi kecuali memang sedang memilih tidur.
+Itulah warisan era ketiga. Bukan dokumen. Bukan gelar. Namun sebuah kota — dan pelan-pelan, sebuah benua — di mana tidak ada yang sunyi kecuali memang sedang memilih tidur.
 
 
 

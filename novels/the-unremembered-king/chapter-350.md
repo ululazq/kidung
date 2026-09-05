@@ -15,9 +15,9 @@ Mereka menunggu sampai matahari naik tinggi, memperhatikan lima orang itu bekerj
 
 "Jubah abu-abu," bisik the Keeper. "Itu warna the Choir."
 
-"Tapi bukan jubah Choir yang kita kenal," kata Ossian. "Jubah Choir dijahit dengan benang timah di kelimnya. Jubah ini polos, tanpa benang. Ia bukan jubah resmi."
+"Namun bukan jubah Choir yang kita kenal," kata Ossian. "Jubah Choir dijahit dengan benang timah di kelimnya. Jubah ini polos, tanpa benang. Ia bukan jubah resmi."
 
-"Berarti mereka menyamar," kata the Seeker. "Mereka memakai warna the Choir, tapi bukan anggota the Choir."
+"Berarti mereka menyamar," kata the Seeker. "Mereka memakai warna the Choir, tetapi bukan anggota the Choir."
 
 "Atau," kata Ossian, "mereka adalah orang yang ingin terlihat seperti the Choir — agar siapa pun yang melihat mereka mengira mereka sedang bekerja atas nama Spire, padahal tidak."
 
@@ -25,7 +25,7 @@ Mereka mengamati sampai sore. Pada sore hari, lima orang itu berhenti menggali d
 
 "Benda itu," bisik the Keeper. "Benda bundar dengan tiga lubang — persis seperti yang kita temukan di tengah lingkaran."
 
-"Kita menggalinya dan menimbunnya kembali," kata the Seeker. "Tapi lelaki itu memegang satu di tangannya. Berarti ada lebih dari satu."
+"Kita menggalinya dan menimbunnya kembali," kata the Seeker. "Namun lelaki itu memegang satu di tangannya. Berarti ada lebih dari satu."
 
 "Atau," kata Ossian, "ia tidak menggali yang kita temukan. Ia membawa yang lain — dari tempat yang berbeda, dari orang yang berbeda."
 
@@ -33,7 +33,7 @@ Malam itu, mereka berkemah di sisi bukit yang tidak terlihat dari tanah kosong. 
 
 "Kita tidak punya kunci," kata the Seeker. "Kita hanya punya sketsa logam yang kita gali."
 
-"Kita punya tiga hal yang ia tidak punya." Ossian menatap mereka. "Tiga orang yang tahu irama tiga-satu-diam. Tiga orang yang sudah mengetuk batu-batu itu dan mendengar jawabannya. Lelaki itu punya kunci. Tapi kunci tanpa irama tidak bisa membuka pintu."
+"Kita punya tiga hal yang ia tidak punya." Ossian menatap mereka. "Tiga orang yang tahu irama tiga-satu-diam. Tiga orang yang sudah mengetuk batu-batu itu dan mendengar jawabannya. Lelaki itu punya kunci. Namun kunci tanpa irama tidak bisa membuka pintu."
 
 "Berarti kita harus mendekat," kata the Keeper. "Bukan untuk bertarung. Untuk mengetuk."
 
@@ -61,13 +61,13 @@ Yang tua melangkah maju. "Kalau kau tahu semua ini," katanya, "maka kau tahu jug
 
 Ossian menatapnya lama. "Dan kau butuh kami untuk itu?"
 
-"Kau membawa dua kain tenun," kata lelaki itu. "Aku membawa satu kunci. Yang muda dan the Keeper membawa irama yang sudah kuhafal sejak mereka mengetuk batu-batu itu kemarin. Kita tidak punya cukup bagian sendirian-sendirian. Tapi bersama — tiga kunci, tiga lubang, tiga-satu-diam — kita mungkin punya cukup untuk menutup apa yang selama seribu tahun tidak pernah ditutup."
+"Kau membawa dua kain tenun," kata lelaki itu. "Aku membawa satu kunci. Yang muda dan the Keeper membawa irama yang sudah kuhafal sejak mereka mengetuk batu-batu itu kemarin. Kita tidak punya cukup bagian sendirian-sendirian. Namun bersama — tiga kunci, tiga lubang, tiga-satu-diam — kita mungkin punya cukup untuk menutup apa yang selama seribu tahun tidak pernah ditutup."
 
 Di kejauhan, di bawah tanah kosong itu, garis di tanah berdenyut lebih cepat dari sebelumnya, dan untuk sesaat, ketiga batu tegak itu tampak bergeser — sangat pelan, hampir tidak terlihat, seperti sesuatu di bawahnya yang baru saja membuka matanya untuk melihat siapa yang berkumpul di atasnya.
 
 "Mereka bergerak," bisik the Seeker. "Batu-batu itu bergeser."
 
-"Itu bukan batu yang bergeser," kata lelaki berjubah abu-abu. "Itu engsel di bawahnya yang bergerak. Pintu ini sudah seribu tahun tidak dibuka — logamnya kaku, tanahnya mengeras di sekelilingnya. Tapi ia mengingat cara bergeraknya. Ia hanya butuh waktu."
+"Itu bukan batu yang bergeser," kata lelaki berjubah abu-abu. "Itu engsel di bawahnya yang bergerak. Pintu ini sudah seribu tahun tidak dibuka — logamnya kaku, tanahnya mengeras di sekelilingnya. Namun ia mengingat cara bergeraknya. Ia hanya butuh waktu."
 
 "Berapa lama?" tanya Ossian.
 
@@ -79,13 +79,13 @@ Di kejauhan, di bawah tanah kosong itu, garis di tanah berdenyut lebih cepat dar
 
 Ossian merasakan kain tenun di dalam jaketnya. "Kau yakin kita harus melakukan ini?"
 
-"Aku tidak yakin." Lelaki itu mengeluarkan benda bundar dari sakunya dan memegangnya di telapak tangannya — logam dingin, tiga lubang, sama persis dengan sketsa yang digambar the Seeker. "Aku tidak tahu apakah ini akan menutup pintu atau membukanya. Tapi aku tahu bahwa garis ini bernapas lebih cepat setiap hari, dan bahwa sesuatu di utara sedang menarik benang yang tidak seharusnya ditarik. Kalau kita tidak melakukan apa pun, suatu hari pintu ini akan terbuka dengan sendirinya — dan kita tidak akan punya kunci untuk menutupnya."
+"Aku tidak yakin." Lelaki itu mengeluarkan benda bundar dari sakunya dan memegangnya di telapak tangannya — logam dingin, tiga lubang, sama persis dengan sketsa yang digambar the Seeker. "Aku tidak tahu apakah ini akan menutup pintu atau membukanya. Namun aku tahu bahwa garis ini bernapas lebih cepat setiap hari, dan bahwa sesuatu di utara sedang menarik benang yang tidak seharusnya ditarik. Kalau kita tidak melakukan apa pun, suatu hari pintu ini akan terbuka dengan sendirinya — dan kita tidak akan punya kunci untuk menutupnya."
 
 "Atau kita akan menjadi kunci itu sendiri," kata the Seeker. "Tiga orang, tiga kunci, tiga-satu-diam. Mungkin kita bukan yang membawa kunci. Mungkin kita adalah kuncinya."
 
 Lelaki itu menatapnya lama. "Kalau itu benar," katanya, "maka kita harus memutuskan sekarang: apakah kita bersedia menjadi kunci yang menutup pintu, meskipun kita tidak tahu apa yang ada di dalamnya?"
 
-"Kita tidak perlu memutuskan sekarang," kata Ossian. "Kita perlu memutuskan sebelum garis ini berhenti bernapas. Dan garis ini masih bernapas — lebih cepat, tapi masih bernapas. Kita punya waktu."
+"Kita tidak perlu memutuskan sekarang," kata Ossian. "Kita perlu memutuskan sebelum garis ini berhenti bernapas. Dan garis ini masih bernapas — lebih cepat, tetapi masih bernapas. Kita punya waktu."
 
 "Berapa lama?"
 

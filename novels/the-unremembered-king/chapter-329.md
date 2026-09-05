@@ -5,7 +5,7 @@ chapter: 329
 
 Ossian mengirim kabar lewat Thessa: the Wanes telah meninggalkan cap tujuh garis di tiga desa berbeda, mencari keluarga dengan "tanda lahir tujuh titik". Mereka masih percaya teori darah purba, dan menangkap siapa pun yang punya bekas lingkaran di tubuh — termasuk yang bukan the Survivor of the Remainder.
 
-*Mereka salah jalan,* tulis Ossian. *Tapi mereka bergerak cepat. Di desa utara, mereka sudah bawa pergi dua orang dengan tanda lahir biasa, kira-kira pengikat. Kau harus lebih dulu temukan the true Survivor.*
+*Mereka salah jalan,* tulis Ossian. *Namun mereka bergerak cepat. Di desa utara, mereka sudah bawa pergi dua orang dengan tanda lahir biasa, kira-kira pengikat. Kau harus lebih dulu temukan the true Survivor.*
 
 Ashvarok-Renn membaca di serambi. "Mereka menangkap orang tak bersalah," katanya pelan. "Karena mereka cari darah, bukan napas. Itu kelemahan kita gunakan."
 
@@ -15,7 +15,7 @@ Ashvarok-Renn membaca di serambi. "Mereka menangkap orang tak bersalah," katanya
 
 "Berarti kita butuh orang di setiap desa yang bisa ukur napas," kata Sela.
 
-"Kita punya dua belas anak, murid timur, dua pendengar selatan, dan murid barat daya. Jaringan itu sekarang tugasnya berubah: bukan hanya awasi simpul, tapi awasi napas penduduk."
+"Kita punya dua belas anak, murid timur, dua pendengar selatan, dan murid barat daya. Jaringan itu sekarang tugasnya berubah: bukan hanya awasi simpul, tetapi awasi napas penduduk."
 
 Di sudut, Brannoc mendengar dan mengangguk. "Anak-anak akan senang," katanya. "Mereka pikir ini permainan detektif. Kita biarkan mereka percaya itu."
 
@@ -39,17 +39,17 @@ Kovan menatap peta tujuh simpul yang kini setengah menyala di benaknya. "Jika th
 
 "Dan bila the Wanes datang ke desa kita?" tanya Sela.
 
-"Mereka datang cari tanda lahir. Perawat tua dan aku bekas luka kami tertutup kulit tua. Mereka takkan kenali kami sebagai the Survivor." Ashvarok-Renn menatap peta. "Tapi kita tetap siaga. Bila mereka mulai ukur napas, berarti mereka belajar cara kita — dan saat itu kita lari."
+"Mereka datang cari tanda lahir. Perawat tua dan aku bekas luka kami tertutup kulit tua. Mereka takkan kenali kami sebagai the Survivor." Ashvarok-Renn menatap peta. "Namun kita tetap siaga. Bila mereka mulai ukur napas, berarti mereka belajar cara kita — dan saat itu kita lari."
 
 Di sudut, Gella duduk memilin benang bersama perawat tua. "Mereka buru darah," katanya pelan. "Kita buru napas. Selama mereka salah sasar, kita punya waktu."
 
-"Tapi bila mereka mulai ukur napas seperti kita?" bisik perawat tua. "Maka waktu itu habis."
+"Namun bila mereka mulai ukur napas seperti kita?" bisik perawat tua. "Maka waktu itu habis."
 
 "Maka kita kejar lebih cepat," kata Ashvarok-Renn yang mendengar. "Tiga anak sudah latif. Seminggu lagi kita petakan desa ini."
 
 ---
 
-Mira di menara membuka buku catatan halaman kesembilan. "Dentum berdenyut empat kali lalu jeda di barat daya," katanya pada perawat tua. "Tapi di utara, tempat the Wanes menangkap orang, dentum malah acak lebih pelan. Seperti simpul yang salah sasar."
+Mira di menara membuka buku catatan halaman kesembilan. "Dentum berdenyut empat kali lalu jeda di barat daya," katanya pada perawat tua. "Namun di utara, tempat the Wanes menangkap orang, dentum malah acak lebih pelan. Seperti simpul yang salah sasar."
 
 "Mereka pegang orang salah," kata perawat tua.
 
@@ -61,17 +61,17 @@ Di barak, Ashvarok-Renn menulis di bible: *The Wanes salah sasar (cari 7 darah, 
 
 Brannoc mengumpulkan dua belas anak di halaman. "Kalian dengar kabar the Wanes menangkap orang di utara?" tanya mereka.
 
-"Ya," jawab Brannoc. "Tapi mereka tangkap orang salah. Tugas kalian berubah: bukan hanya awasi simpul, tapi bantu Sela ukur napas pendudang di pasar tiap subuh. Cari yang napasnya berdenyut setengah hitungan lebih pendek."
+"Ya," jawab Brannoc. "Namun mereka tangkap orang salah. Tugas kalian berubah: bukan hanya awasi simpul, tetapi bantu Sela ukur napas penduduk di pasar tiap subuh. Cari yang napasnya berdenyut setengah hitungan lebih pendek."
 
 "Kalau the Wanes datang ke desa kita?" tanya anak angkatan keempat.
 
 "Mereka datang sebagai pembeli pola, bukan peneliti napas. Mereka tak akan ukur napas." Brannoc menatap mereka. "Kalian yang ukur. Itu keunggulan kita: kita tahu apa yang mereka tidak peduli lihat."
 
-Di sudut, Gella mengamati tiga anak yang dilatihnya mengukur napas Ashvarok-Renn saat ia terlelap sejenak di kursi sudut. "Mereka presisi," bisiknya pada Sela. "Tapi mereka terlalu serius. Biarkan Brannoc ajarkan itu sebagai permainan angka, bukan tugas."
+Di sudut, Gella mengamati tiga anak yang dilatihnya mengukur napas Ashvarok-Renn saat ia terlelap sejenak di kursi sudut. "Mereka presisi," bisiknya pada Sela. "Namun mereka terlalu serius. Biarkan Brannoc ajarkan itu sebagai permainan angka, bukan tugas."
 
-"Sudah kuberitahu," kata Sela. "Mereka hitung napas pendudang di pasar sambil pura-pura main kelereng. Tidak ada yang curiga."
+"Sudah kuberitahu," kata Sela. "Mereka hitung napas penduduk di pasar sambil pura-pura main kelereng. Tidak ada yang curiga."
 
-"Bagus. Semakin sedikit yang tahu mereka menjaga pintu, semakin aman mereka." Gella menutup buku pemulihan. "Tugas kita bukan hanya mencari keluarga, tapi merahasiakan bahwa kita mencarinya."
+"Bagus. Semakin sedikit yang tahu mereka menjaga pintu, semakin aman mereka." Gella menutup buku pemulihan. "Tugas kita bukan hanya mencari keluarga, tetapi merahasiakan bahwa kita mencarinya."
 
 ---
 
@@ -79,11 +79,11 @@ Maera tiba membawa koper pos, dan kain tenun dari anak pertama selatan yang tela
 
 Ashvarok-Renn membacanya, lalu menulis balasan: *Istirahat seminggu. Lalu bantu Sela ukur napas di pasar. Kau sudah jadi penjaga.*
 
-Ia menyerahkan kain ke Maera. "Generasi keempat kini punya tugas ganda," katanya pada Kovan. "Awasi simpul dan awasi napas. Jaringan diam kita bukan hanya telinga, tapi alat ukur hidup."
+Ia menyerahkan kain ke Maera. "Generasi keempat kini punya tugas ganda," katanya pada Kovan. "Awasi simpul dan awasi napas. Jaringan diam kita bukan hanya telinga, tetapi alat ukur hidup."
 
 Sela menulis di papan: *The Wanes ukur napas = mereka pelajari cara kita. Bila itu terjadi, barak lari. 3 anak + Sela + Gella = alat deteksi napas hidup.*
 
-Di menara, Mira menutup buku catatan dan menulis di sisi: *Dua cara mencari: the Wanes via darah (salah), barak via napas (benar). Kita lambat tapi tepat. 8 napas tersisa.* Perawat tua membubuhkan garis lurus di bawahnya, tiga.
+Di menara, Mira menutup buku catatan dan menulis di sisi: *Dua cara mencari: the Wanes via darah (salah), barak via napas (benar). Kita lambat tetapi tepat. 8 napas tersisa.* Perawat tua membubuhkan garis lurus di bawahnya, tiga.
 
 Ashvarok-Renn membuka bible kecil dan menulis: *The Wanes buru 7 darah (salah, tangkap tanda palsu). Barak buru 8 napas tersisa lewat pola napas the Survivor. Latif 3 anak ukur napas. the Escape Family = the Survivor barat daya (the Unclaimed Knot). Sisa: 7 keluarga.*
 
@@ -91,17 +91,17 @@ Di sudut, Gella duduk memilin benang bersama perawat tua di ambang menara. "Kau 
 
 "Tentang orang yang dibawa pergi karena tanda lahir?" kata perawat tua. "Aku dengar dari Maera saat ia lewat. Napasku berdenyut pelan sejak itu — seperti tahu ada the Survivor lain yang tertangkap."
 
-"Mereka tangkap orang salah," bisik Gella. "Bukan the true Survivor. Tapi bila the Wanes mulai belajar cara kita — ukur napas, bukan tanda — mereka akan temukan yang benar."
+"Mereka tangkap orang salah," bisik Gella. "Bukan the true Survivor. Namun bila the Wanes mulai belajar cara kita — ukur napas, bukan tanda — mereka akan temukan yang benar."
 
 "Maka kita harus lebih cepat," kata Ashvarok-Renn yang mendengar dari ambang. "Tiga anak sudah latif ukur napas. Bila mereka jago, kita petakan semua the Survivors di desa ini dalam seminggu."
 
-Sela menulis di papan: *Target: petakan napas seluruh pendudang desa dalam 7 hari via 3 anak + Gella. The Wanes masih buta (cari darah). Waktu krusial.*
+Sela menulis di papan: *Target: petakan napas seluruh penduduk desa dalam 7 hari via 3 anak + Gella. The Wanes masih buta (cari darah). Waktu krusial.*
 
 Kovan menatap peta, benang merah ke utara kini bergetar pelan. "Murid kita di utara laporkan the Wanes mulai bertanya soal napas," katanya. "Bukan hanya tanda. Mereka belajar."
 
 "Maka jendela kita menutup," kata Gella. "Kita kejar the Remnant Survivor di danau garam sebelum mereka sampai sana."
 
-Malam itu, Ashvarok-Renn berdiri di ambang barak menatap ke utara di mana kabut mulai turun. "Dua cara mencari," bisiknya. "Mereka via darah, kita via napas. Satu salah, satu benar. Tapi salah bisa lebih cepat dari benar bila kita lambat."
+Malam itu, Ashvarok-Renn berdiri di ambang barak menatap ke utara di mana kabut mulai turun. "Dua cara mencari," bisiknya. "Mereka via darah, kita via napas. Satu salah, satu benar. Namun salah bisa lebih cepat dari benar bila kita lambat."
 
 Sela mendekat membawa papan. "Besok kita mulai ukur napas di pasar," katanya. "Tiga anak sudah siap."
 
@@ -113,7 +113,7 @@ Fajar menyingsing. Di halaman, Brannoc mengumpulkan dua belas anak untuk latihan
 
 "Catat di papan Sela. Jangan sebut nama. Jangan dekati." Brannoc menatap mereka. "Kita hanya mata. Kita tidak pegang kunci apa pun."
 
-Di sudut, Gella mengukur napas Ashvarok-Renn yang duduk memilin benang. "Empat hitungan," bisiknya pada Sela. "Stabil. Tapi matanya masih merah."
+Di sudut, Gella mengukur napas Ashvarok-Renn yang duduk memilin benang. "Empat hitungan," bisiknya pada Sela. "Stabil. Namun matanya masih merah."
 
 "Catat di papan," kata Sela.
 
@@ -127,7 +127,7 @@ Ashvarok-Renn berdiri di ambang menatap ke utara. "Ossian bilang mereka mulai be
 
 "Kita tarik murid utara ke hutan payau," kata Gella. "Seminggu. Biarkan desa utara tenang sampai the Wanes bosan."
 
-Kovan mencatat di peta: benang merah ke utara kini digaris putus. "Murid utara aman di hutan," katanya. "Tapi the Remnant Survivor di danau garam tetap jadi target."
+Kovan mencatat di peta: benang merah ke utara kini digaris putus. "Murid utara aman di hutan," katanya. "Namun the Remnant Survivor di danau garam tetap jadi target."
 
 "Kirim dua belas anak ke danau garam besok," kata Ashvarok-Renn. "Bukan untuk mengukur — untuk berteman. Bila the Remnant Survivor butuh lari, anak-anak yang kabari barak lebih dulu dari the Wanes."
 

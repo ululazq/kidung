@@ -69,7 +69,7 @@ Mereka membiarkan bara padam pelan. Di luar, angin lembah utara membawa bau kapu
 
 "Sekarang kau yang takut pada apa?" tanya Brannoc pelan.
 
-Harn tersenyum di remang. "Pada hari kau tidak ada di sebelah waktu aku pukul. Tapi kau di dinding. Itu cukup."
+Harn tersenyum di remang. "Pada hari kau tidak ada di sebelah waktu aku pukul. Namun kau di dinding. Itu cukup."
 
 ---
 
@@ -85,7 +85,7 @@ Harn berhenti. "Itu dokumen bahwa ayahku dulu melunasi pendidikanku ke tambang. 
 
 Anak itu mengangguk pelan, lalu berlari ke perapian, memegang palu mainan yang dibuat Harn khusus untuk murid baru.
 
-Brannoc, yang mendengar dari ujung lorong, mencatat di buku kecilnya: *Harn mengajarkan bukan dari palu, tapi dari dinding. Itu lebih baik dari yang kupunya waktu muda.*
+Brannoc, yang mendengar dari ujung lorong, mencatat di buku kecilnya: *Harn mengajarkan bukan dari palu, tetapi dari dinding. Itu lebih baik dari yang kupunya waktu muda.*
 
 ---
 
@@ -95,7 +95,7 @@ Di rumah Harn, hari-hari pertama Brannoc merasa seperti beban. Ibu Harn — pere
 
 "Brannoc tidak biasa tidak kerja," jawabnya.
 
-"Maka cari kerja kecil." Ibu Harn menunjuk tumpukan serpihan besi di pojok bengkel kecil Harn. "Rakit sesuatu. Bukan untuk dijual. Untuk dibiarin di meja. Otak kau butuh bunyi palu, bukan bunyi sunyi."
+"Maka cari kerja kecil." Ibu Harn menunjuk tumpukan serpihan besi di pojok bengkel kecil Harn. "Rakit sesuatu. Bukan untuk dijual. Untuk dibiarkan di meja. Otak kau butuh bunyi palu, bukan bunyi sunyi."
 
 Brannoc akhirnya merakit sebuah bel kecil dari sisa besi — bukan bel untuk dipakai, hanya untuk didengar berdenting tiga kali tiap kali angin lembah mencapai jendela. Harn menatapnya malam itu.
 
@@ -125,9 +125,9 @@ Sebelum benar-benar menetap, Brannoc kembali sekali ke tambang — bukan untuk m
 
 "Kau datang dari mana, Pak Brannoc?" tanya salah satu penambang muda.
 
-"Dari rumah anakku." Brannoc berdiri di ambang galeri yang dulu ia jaga dengan nyawa. "Cuma mau lihat lorong ini masih bernapas."
+"Dari rumah anakku." Brannoc berdiri di ambang galeri yang dulu ia jaga dengan nyawa. "Hanya mau lihat lorong ini masih bernapas."
 
-"Masih, Pak. Tapi sekarang kami yang dengar, bukan kau yang perintah."
+"Masih, Pak. Namun sekarang kami yang dengar, bukan kau yang perintah."
 
 Brannoc tersenyum. "Itu yang benar. Penjaga lama harus bisa pergi supaya yang muda punya telinga sendiri."
 

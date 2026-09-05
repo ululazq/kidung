@@ -3,9 +3,9 @@ title: "Bab 314: Yang Membaca Balik"
 chapter: 314
 ---
 
-Sembilan hari setelah pemeriksaan Mira, surat dari Ossian tiba di barak lewat kurir kain, bukan pos Spire. Kain itu dilipat rapi, bertuliskan tangan miring yang sudah dikenal Sela sejak bab pertama kalinya Ossian mengirim pesan lewat tenun.
+Sembilan hari setelah pemeriksaan Mira, surat dari Ossian tiba di barak lewat kurir kain, bukan pos Spire. Kain itu dilipat rapi, bertuliskan tangan miring yang sudah dikenal Sela sejak pertama kalinya Ossian mengirim pesan lewat tenun.
 
-*Mira telah menjadi alamat. Spire kini memegang nama, bukan hanya angka. Itu yang kuingin sejak surat pertamaku kepadamu: ada saksi yang tidak kapegang. Sekarang mereka punya benang, dan benang itu ditarik dari dua arah. Jaga agar yang di Spire baca tetap angin. Kalau mereka membaca katup, mereka tahu besi yang tidak mereka kuasai. Aku tidak bisa menjaga ujung itu. Kau yang di barak yang memegang suaranya.*
+*Mira telah menjadi alamat. Spire kini memegang nama, bukan hanya angka. Itu yang kuingin sejak surat pertamaku kepadamu: ada saksi yang tidak kau pegang. Sekarang mereka punya benang, dan benang itu ditarik dari dua arah. Jaga agar yang di Spire baca tetap angin. Kalau mereka membaca katup, mereka tahu besi yang tidak mereka kuasai. Aku tidak bisa menjaga ujung itu. Kau yang di barak yang memegang suaranya.*
 
 Ashvarok-Renn membaca kain itu, lalu menyerahkannya ke Sela tanpa komentar. Sela menatap baris terakhir lama.
 
@@ -61,7 +61,7 @@ Gella menutup bukunya. "Bagus. Karena kalau diamnya terlalu berat, suatu hari ia
 
 Pagi itu dentum keras datang seperti biasa. Perawat tua mengetuk tiga kali ke lantai, diam satu hentakan, lalu mencatat. Di barak, Harn melakukan hal yang sama di halaman, dan dua belas sapu mengikutinya. Irama itu kini hidup di dua tempat yang dipisahkan jarak berhari-hari perjalanan, dan keduanya tidak tahu bahwa tempat lain melakukan hal yang sama.
 
-Sore harinya, kurir pos Guild mengetuk pintu menara. Ia membawa satu surat bertanda arsip Spire, dialamatkan bukan kepada Maera atau kepada panitia, melainkan kepada *Saksi Mira, the Northern Tower Nurse.* Perawat tua menerima surat itu dengan kedua tangan, membaliknya, lalu meletakkannya di bawah buku catatan Mira tanpa membukanya.
+Sore harinya, kurir pos Guild mengetuk pintu menara. Ia membawa satu surat bertanda arsip Spire, dialamatkan bukan kepada Maera atau kepada panitia — melainkan kepada *Saksi Mira, the Northern Tower Nurse.* Perawat tua menerima surat itu dengan kedua tangan, membaliknya, lalu meletakkannya di bawah buku catatan Mira tanpa membukanya.
 
 "Untukmu," katanya pelan ke kursi kosong di sebelahnya. "Spire menjawab namamu, bukan angkaku."
 
@@ -95,7 +95,7 @@ Anak itu mengetuk tiga kali ke lantai, salah satu jarinya meleset, lalu diam. As
 
 ---
 
-Malamnya, Kovan membawa papan kecilnya ke ruang tengah. Ia telah menghitung ulang jarak antara Caldrest dan Spire, kali ini bukan dalam hari perjalanan, melainkan dalam kecepatan jawaban.
+Malamnya, Kovan membawa papan kecilnya ke ruang tengah. Ia telah menghitung ulang jarak antara Caldrest dan Spire, kali ini bukan dalam hari perjalanan — melainkan dalam kecepatan jawaban.
 
 Ashvarok-Renn duduk di sudut ruangan, membuka buku anomali yang sejak bab pembuka arc ini menyimpan irama tiga detik yang bocor ke bilangan desa. Ia menulis satu baris di bagian bawah, di bawah catatan tentang benang yang menyambung seluruh Karvess:
 

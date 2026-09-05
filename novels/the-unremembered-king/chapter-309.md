@@ -73,7 +73,7 @@ Maera menatap peta, lalu menatap Mira.
 
 Mira menjawab, mengingat pesan Ossian kata per kata:
 
-"Ia bilang: aku tidak bisa tutup katup. Katup itu bukan milikku — ia milik arsip menara tua yang kini dipegang Pembaca Tua. Tetapi aku bisa kasih peta ke yang bisa menahan di selatan, agar mereka tahu yang mereka tahan bukan hanya benang, tetapi angin yang masuk lewat katup yang tidak mereka pegang. Dan ia bilang: jangan laporkan ke Dewan. Dewan akan bilang angin itu umur menara."
+"Ia bilang: aku tidak bisa tutup katup. Katup itu bukan milikku — ia milik arsip menara tua yang kini dipegang Pembaca Tua. Tetapi aku bisa memberi peta ke yang bisa menahan di selatan, agar mereka tahu yang mereka tahan bukan hanya benang, tetapi angin yang masuk lewat katup yang tidak mereka pegang. Dan ia bilang: jangan laporkan ke Dewan. Dewan akan bilang angin itu umur menara."
 
 Ashvarok-Renn menutup peta perlahan.
 

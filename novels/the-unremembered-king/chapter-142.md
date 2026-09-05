@@ -7,7 +7,7 @@ Persiapan penamaan itu dimulai di dapur barak blok timur pada malam hari keserat
 
 "Duduk yang nyaman," kata Sela kepada para pemilik cerita, dengan nada guru sekolah kliniknya yang sudah dikenal seluruh blok. "Aturannya sama seperti waktu batu troli timur. Aku tanya, kalian jawab pakai kalimatmu sendiri. Kalimat yang tidak kalian setujui tidak masuk."
 
-Yang duduk melingkar malam itu adalah Ondar, dua penambang tua galeri tujuh, dan perempuan bilik sebelas yang sudah sepuluh tahun memasak untuk shift malam. Ashvarok duduk paling tepi, menumpangkan teh, dan berkata sesedikit mungkin, sebab prinsip yang ia pelajari dengan harga mahal dari kegagalan pertama untaian raja adalah bahwa nama bukan barang yang bisa dipinjam dari arsip. Nama harus jatuh sendiri dari mulut orang yang punya ceritanya.
+Yang duduk melingkar malam itu adalah Ondar, dua penambang tua galeri tujuh, dan perempuan bilik sebelas yang sudah sepuluh tahun memasak untuk shift malam. Ashvarok duduk paling tepi, menumpangkan teh, dan berkata sesedikit mungkin — sebab prinsip yang ia pelajari dengan harga mahal dari kegagalan pertama untaian raja adalah bahwa nama bukan barang yang bisa dipinjam dari arsip. Nama harus jatuh sendiri dari mulut orang yang punya ceritanya.
 
 "Sekarang ceritakan tentang pintunya," kata Sela. "Pintu ujung lorong B. Yang digembok resmi bulan lalu. Apa yang kalian tahu dan kalian ceritakan soal pintu itu?"
 
@@ -15,7 +15,7 @@ Ondar menjawab lebih dulu, seperti biasa.
 
 "Pintu itu dulu jalan pulang kami." Ia mengunyah akar pahit pinjaman Brannoc. "Waktu lorong B masih dibuka, regu kami lewat situ tiap shift. Masuk lewat pintu itu, keluar juga lewat situ. Waktu dia digembok, rasanya seperti jalan kampung ditutup pagar orang luar. Bukan takut. Hanya hilang satu arah pulang."
 
-"Empat pulang," salah satu penambang tua menambahkan, dan kemudian bercerita tentang malam runtunan troli timur, tentang batu yang memberi jalan, tentang empat nama yang disebut bersama-sama sampai hangat. Cerita itu sudah pernah didengar Ashvarok, tetapi malam ini ia mendengarnya dengan telinga yang lain, karena malam ini cerita itu sedang bekerja. Perempuan dapur melanjutkan dengan bahasanya sendiri, tentang Renn yang masuk duluan dan keluar terakhir, tentang pintu-pintu tambang yang katanya suka menahan orang tapi tidak pernah menahan bocah lorong tujuh.
+"Empat pulang," salah satu penambang tua menambahkan, dan kemudian bercerita tentang malam runtunan troli timur, tentang batu yang memberi jalan, tentang empat nama yang disebut bersama-sama sampai hangat. Cerita itu sudah pernah didengar Ashvarok, tetapi malam ini ia mendengarnya dengan telinga yang lain, karena malam ini cerita itu sedang bekerja. Perempuan dapur melanjutkan dengan bahasanya sendiri, tentang Renn yang masuk duluan dan keluar terakhir, tentang pintu-pintu tambang yang katanya suka menahan orang tetapi tidak pernah menahan bocah lorong tujuh.
 
 Sela mencatat semua itu di papan tulisnya, membacakan ulang, dan meminta persetujuan satu per satu. Di akhir sesi, gadis itu membaca rangkaian kalimat yang sudah disetujui semua mulut, dan pada kalimat penutupnya, yang jatuh tanpa direncanakan siapa pun, keempat pemilik cerita mengangguk hampir serentak.
 
@@ -23,7 +23,7 @@ Sela mencatat semua itu di papan tulisnya, membacakan ulang, dan meminta persetu
 
 "The Door of Four Returns," ulang Ondar, dan nama itu terdengar bukan seperti keputusan melainkan seperti sesuatu yang sudah lama ada dan baru saja ditemukan.
 
-Ashvarok menyeruhut tehnya dan merasa bagian dalam dirinya yang tua dan jarang bersuara mencatat satu fakta baru tentang dunia. Dulu seni ini hidup dari memorinya, dari formula-formula era Hegemony yang teruji seribu tahun. Kini seni itu belajar hidup dari tempat lain. Kota ini mulai menulis untuknya, dan tulisannya benar.
+Ashvarok menyeruput tehnya dan merasa bagian dalam dirinya yang tua dan jarang bersuara mencatat satu fakta baru tentang dunia. Dulu seni ini hidup dari memorinya, dari formula-formula era Hegemony yang teruji seribu tahun. Kini seni itu belajar hidup dari tempat lain. Kota ini mulai menulis untuknya, dan tulisannya benar.
 
 ---
 
@@ -41,7 +41,7 @@ Brannoc mengunyah akar pahitnya lebih lama dari biasanya, dan mandor tua itu jar
 
 "Dengar," katanya akhirnya. "Aku sudah lihat kamu menamai batu sekali, dan batu itu jadi hidup. Sekarang kamu mau menamai pintu yang digembok resmi oleh orang yang memegang semua kertas tambang ini. Kalau dia suatu hari tahu pintunya bisa dibuka tanpa gemboknya rusak, dia tidak akan cari pencuri. Dia akan cari tukang sulap. Kamu sadar itu?"
 
-"Sadar." Ashvarok memeriksa simpul lampu matinya untuk terakhir kali. "Itu sebabnya nama ini harus dibayar dengan cerita yang benar, bukan dengan trik. Gemboknya tetap ada dan akan tetap sah sampai kapan pun dia mau. Yang berubah bukan keamanan lorongnya. Yang berubah adalah siapa yang dipercaya pintu itu kalau suatu hari ada orang di dalam sana yang butuh pulang lewat arah yang benar. Tovik tidak keluar lewat pintu ini, tapi kalau malam itu datang lagi ke orang lain, aku ingin ada satu pintu yang sisi dalamnya tidak buntu."
+"Sadar." Ashvarok memeriksa simpul lampu matinya untuk terakhir kali. "Itu sebabnya nama ini harus dibayar dengan cerita yang benar, bukan dengan trik. Gemboknya tetap ada dan akan tetap sah sampai kapan pun dia mau. Yang berubah bukan keamanan lorongnya. Yang berubah adalah siapa yang dipercaya pintu itu kalau suatu hari ada orang di dalam sana yang butuh pulang lewat arah yang benar. Tovik tidak keluar lewat pintu ini, tetapi kalau malam itu datang lagi ke orang lain, aku ingin ada satu pintu yang sisi dalamnya tidak buntu."
 
 Brannoc menatapnya lama, lalu mengangkat dagunya ke arah tangga, gerakan yang selama dua tahun ini sudah berarti izin dan doa sekaligus.
 
@@ -69,7 +69,7 @@ Jawaban datang tidak cepat dan tidak lambat. Hangat naik dari dalam bidang batu,
 
 Ia menguji dengan sopan santun penuh. Satu dorongan kecil, bukan paksaan, hanya penyebutan nama sekali lagi dari sisi dalam.
 
-Pintu itu bergeser sepersekian hasta tanpa satu bunyi pun, tanpa satu gram serbuk batu, dan udara aula masuk ke celahnya dengan napas dingin yang jujur. Gembok resmi di sisi satunya tidak bergeser, tidak bergetar, tidak sadar apa pun, sebab gembok mengunci daun pintu dari luar dan pintu kini tahu siapa dirinya, dan barang yang tahu siapa dirinya tidak perlu merusak apa pun untuk membuka jalurnya sendiri. Ashvarok menutupnya kembali dengan dorongan yang sama ringannya, dan bidang batu itu menutup rapat dengan kesetiaan lemari.
+Pintu itu bergeser sepersekian hasta tanpa satu bunyi pun, tanpa satu gram serbuk batu, dan udara aula masuk ke celahnya dengan napas dingin yang jujur. Gembok resmi di sisi satunya tidak bergeser, tidak bergetar, tidak sadar apa pun — sebab gembok mengunci daun pintu dari luar dan pintu kini tahu siapa dirinya, dan barang yang tahu siapa dirinya tidak perlu merusak apa pun untuk membuka jalurnya sendiri. Ashvarok menutupnya kembali dengan dorongan yang sama ringannya, dan bidang batu itu menutup rapat dengan kesetiaan lemari.
 
 Dia berdiri sebentar di depannya, menghitung artinya satu per satu dengan disiplin yang membuatnya tetap hidup selama dua tahun di kota ini. Tiga pintu digembok resmi oleh musuhnya. Mulai malam ini, satu pintu di antara tiga itu adalah milik namanya sendiri. Jalur katup samping yang sempit dan gelap bukan lagi satu-satunya jalan. Dan yang paling penting, yang paling mengganggu, harga yang dibayar seni ini malam itu bukan lagi harga yang lahir dari memorinya. Harga itu dibeli dengan cerita kota, dan cerita kota ternyata murah bagi yang jujur dan tak ternilai bagi yang tidak.
 

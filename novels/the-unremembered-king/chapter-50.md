@@ -19,7 +19,7 @@ Kebocoran itu tidak merayap lagi. Ia naik tangga.
 
 Sela sudah mengetahuinya lebih dulu, tentu saja, karena jejaring informasi anak-anak distrik timur tidak pernah tidur dan tidak pernah dibayar.
 
-Ia menunggu di barak dengan tiga lembar kertas klinik yang disusun rapi di atas papannya, dan wajah anak itu saat Ashvarok masuk adalah wajah orang yang membawa kabar buruk dengan tangan yang dingin tapi tegak.
+Ia menunggu di barak dengan tiga lembar kertas klinik yang disusun rapi di atas papannya, dan wajah anak itu saat Ashvarok masuk adalah wajah orang yang membawa kabar buruk dengan tangan yang dingin tetapi tegak.
 
 "Mimpi itu bukan milikku lagi," kata Sela langsung, tanpa sapaan, seperti gurunya. "Perempuan bilik tujuh mimpi sama: ash man, diam, menghitung orang. Anak juru obat juga. Dan anaknya keluarga lorong sebelas — dia gambar. Lihat."
 
@@ -35,7 +35,7 @@ Anak itu menatapnya. "Apa bedanya?"
 
 "Sela. Aku perlu kamu jawab jujur. Mimpi terakhirmu. Sampai angka berapa hitungannya?"
 
-"Lima belas." Anak itu menggigit bibirnya. "Itu milik anak juru obat. Punyaku masih dua belas, tapi beda sekarang. Dulu dia selalu berhenti di dua belas dan selesai. Belakangan dia diam lama di situ, seperti sedang menimbang apakah daftarnya sudah cukup panjang untuk ditambah lagi."
+"Lima belas." Anak itu menggigit bibirnya. "Itu milik anak juru obat. Punyaku masih dua belas, tetapi beda sekarang. Dulu dia selalu berhenti di dua belas dan selesai. Belakangan dia diam lama di situ, seperti sedang menimbang apakah daftarnya sudah cukup panjang untuk ditambah lagi."
 
 Ashvarok menutup matanya sebentar. Di balik kelopak itu, seribu tahun pengalaman menyusun ulang kalimatnya sendiri menjadi bentuk yang bisa didengar anak sebelas tahun tanpa membuatnya hancur. Dunia di bawah sana sedang melakukan pekerjaan lama yang dulu ia kenal dengan nama teknis dan harga yang ia bayar sekali untuk selamanya. Vel-Ghora sedang menghitung isi kota, dan hitungan yang berhenti makin lama di angka yang sama adalah ukuran seberapa jauh pintu itu terbuka.
 

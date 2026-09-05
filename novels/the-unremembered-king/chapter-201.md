@@ -13,11 +13,11 @@ Seorang murid — Harn, yang delapan bulan lalu tidak yakin dirinya berhak masuk
 
 "Dan kalau tetap mau memilih?" tanya murid perempuan dari blok tepian, yang ibunya dulu melarangnya dekat nat.
 
-"Maka pilihlah," kata Barim dari sudut ruangan, dan semua kepala menoleh karena penjaga malam itu jarang bicara duluan. "Tapi pilih dengan dua mata terbuka. Aku delapan tahun hanya punya satu cara dengar, dan aku pikir itulah seluruh dunia. Delapan tahun, anak-anak." Ia mengetuk telinganya pelan. "Jangan jadi aku."
+"Maka pilihlah," kata Barim dari sudut ruangan, dan semua kepala menoleh karena penjaga malam itu jarang bicara duluan. "Namun pilih dengan dua mata terbuka. Aku delapan tahun hanya punya satu cara dengar, dan aku pikir itulah seluruh dunia. Delapan tahun, anak-anak." Ia mengetuk telinganya pelan. "Jangan jadi aku."
 
-Ashvarok mengajar jalur untaian di pagi hari; Sareth dan Barim mengajar telapak di sorenya. Murid-murid berpindah ruang, dan objek-objek latihan ikut berpindah bersama mereka — benda-benda yang disumbangkan warga Caldrest setelah mendengar akademi butuh: alat tenun Lissa yang kedua, palu pandai besi tua, cangkir retak milik ibu Tamma yang ia sumbangkan dengan syarat "balikin setelah latihan, itu cangkir enak".
+Ashvarok mengajar jalur untaian di pagi hari; Sareth dan Barim mengajar telapak di sorenya. Murid-murid berpindah ruang, dan objek-objek latihan ikut berpindah bersama mereka — benda-benda yang disumbangkan warga Caldrest setelah mendengar akademi butuh: alat tenun Lissa yang kedua, palu pandai besi tua, cangkir retak milik ibu Tamma yang ia sumbangkan dengan syarat "kembalikan setelah latihan, itu cangkir enak".
 
-Hasil perbandingan pertama dicatat Kovan dengan angka-angkanya, dan pada malam Kapat, penghitung itu memaparkan temuannya di meja panjang dengan wajah orang yang menemukan angka yang salah tapi sudah dicek tiga kali. Ia membuka rapat tanpa salam, sesuatu yang tidak pernah ia lakukan:
+Hasil perbandingan pertama dicatat Kovan dengan angka-angkanya, dan pada malam Kapat, penghitung itu memaparkan temuannya di meja panjang dengan wajah orang yang menemukan angka yang salah tetapi sudah dicek tiga kali. Ia membuka rapat tanpa salam, sesuatu yang tidak pernah ia lakukan:
 
 "Sebelum kalian makan, aku mau kalian dengar ini dalam keadaan sadar dan duduk." Ia menyalakan lilin kedua di depannya — kebiasaan baru akademi: dua lilin artinya dua jalur, dan malam ini keduanya menyala untuk satu laporan. "Murid-murid jalur telapak membaca LEBIH DALAM darinya."
 
@@ -29,11 +29,11 @@ Sareth menutup matanya. Barim tidak — ia menatap Ashvarok lurus-lurus, dan yan
 
 Harn, yang hadir sebagai murid paling junior di rapat guru (ia duduk di pojok dengan alasan "numpang catat"), berkata tanpa sadar: "Berarti Kak Ashvarok tidak bisa lihat wajah?"
 
-Rapat diam. Ashvarok sendiri yang menjawab duluan, sambil tersenyum: "Tidak bisa. Delapan bulan aku belajar telapak dari Barim, dan wajah tetap tertutup bagiku. Aku bisa membaca sejarah seribu tahun sebuah nat. Tapi aku tidak bisa memberitahu kau sedang sedih atau lapar dari sentuhan." Wajah-wajah muridnya ia lewati satu per satu. "Itu bukan kekurangan seni. Itu batas seni. Bedanya penting."
+Rapat diam. Ashvarok sendiri yang menjawab duluan, sambil tersenyum: "Tidak bisa. Delapan bulan aku belajar telapak dari Barim, dan wajah tetap tertutup bagiku. Aku bisa membaca sejarah seribu tahun sebuah nat. Namun aku tidak bisa memberitahu kau sedang sedih atau lapar dari sentuhan." Wajah-wajah muridnya ia lewati satu per satu. "Itu bukan kekurangan seni. Itu batas seni. Bedanya penting."
 
 ---
 
-Ashvarok memproses kalimat-kalimat itu sepanjang malam — berjalan bolak-balik lorong aula seperti dulu ia berjalan lorong-lorong istana Hegemony, tapi kali ini tanpa apa pun yang perlu direbut, hanya sesuatu yang perlu dipahami — dan subuhnya ia menulis kesimpulan yang mengubah posisinya sendiri di akademi:
+Ashvarok memproses kalimat-kalimat itu sepanjang malam — berjalan bolak-balik lorong aula seperti dulu ia berjalan lorong-lorong istana Hegemony, tetapi kali ini tanpa apa pun yang perlu direbut, hanya sesuatu yang perlu dipahami — dan subuhnya ia menulis kesimpulan yang mengubah posisinya sendiri di akademi:
 
 Hari 385. Koreksi untuk diriku sendiri: aku bukan kepala akademi ini. Aku salah satu gurunya — dan bukan yang paling penting. Murid telapak membaca hal yang tidak akan pernah bisa kubaca dengan untaianku; murid untaian membaca tempat yang tidak akan pernah bisa mereka capai dengan telapak. Sareth benar sejak awal: penjaga dulu TIDAK bekerja sendirian, dan sekolah yang benar juga tidak.
 
@@ -45,7 +45,7 @@ Ia membacakannya keras-keras di depan kelas pagi itu, termasuk bagian "bukan yan
 
 Setelah kelas bubar, Barim menunggu Ashvarok di lorong. Penjaga malam tua itu menyerahkan satu benda kecil: batu asah pribadinya, yang dipakainya delapan tahun mengasah pisau jaga malam.
 
-"Aku dengar entri subuhmu," katanya. "Yang bilang aku benar sejak awal." Ia melihat Ashvarok hendak menjawab, dan mencegatnya dengan tangannya yang terangkat. "Jangan dibalas. Terima saja. Tapi kalau mau membalas dengan cara yang benar—" ia mengetuk batu asah di tangan raja itu, "—belajar wajah. Pelan-pelan tidak apa-apa. Aku butuh dua puluh tahun. Kau hanya punya satu dekade sebelum murid-muridmu melampauimu."
+"Aku dengar entri subuhmu," katanya. "Yang bilang aku benar sejak awal." Ia melihat Ashvarok hendak menjawab, dan mencegatnya dengan tangannya yang terangkat. "Jangan dibalas. Terima saja. Namun kalau mau membalas dengan cara yang benar—" ia mengetuk batu asah di tangan raja itu, "—belajar wajah. Pelan-pelan tidak apa-apa. Aku butuh dua puluh tahun. Kau hanya punya satu dekade sebelum murid-muridmu melampauimu."
 
 Ashvarok menutup tangannya di atas batu itu. "Tawaran atau tantangan?"
 
@@ -61,21 +61,21 @@ Kesunyian ruangan menelan habis kalimat itu. Di luar, terdengar kelas sore berla
 
 "Keluarga yang tidak tahu mereka punya kakek yang masih 'ada'," kata Brannoc pelan.
 
-"Tepat. Maka Kantor Penghubung menyusun program pemberitahuan berjenjang: kabar jiwa disampaikan kepada keluarga DULU, berminggu-minggu sebelum pemulangannya — supaya ketika orang itu kembali, yang menunggu bukan kerumunan asing, tapi keluarga yang sudah siap." Ossian memandang meja, dan untuk sesaat jabatannya yang selalu rapi tampak lelah. "Karena kita sudah belajar dari Rina: pulang ke pelukan yang siap itu beda dunia dengan pulang ke kerumunan yang kaget."
+"Tepat. Maka Kantor Penghubung menyusun program pemberitahuan berjenjang: kabar jiwa disampaikan kepada keluarga DULU, berminggu-minggu sebelum pemulangannya — supaya ketika orang itu kembali, yang menunggu bukan kerumunan asing, tetapi keluarga yang sudah siap." Ossian memandang meja, dan untuk sesaat jabatannya yang selalu rapi tampak lelah. "Karena kita sudah belajar dari Rina: pulang ke pelukan yang siap itu beda dunia dengan pulang ke kerumunan yang kaget."
 
 Barim, yang hadir duduk di sebelah jendela, bertanya pelan: "Dan kalau keluarganya menolak? Delapan belas tahun itu lama. Ada yang sudah pindah agama, pindah kota, pindah nama."
 
-"Itu pasal dua program," jawab Ossian. "Keluarga berhak menolak. Kabar tetap disampaikan, salinan arsip tetap dititipkan, tapi pemulangan tidak boleh dipaksakan ke rumah yang menutup pintunya." Ia menatap Barim. "Kau tahu kenapa pasal ini kutulis duluan? Karena kau yang pernah cerita soal delapan tahun tidak ada satu pun keluargamu datang. Aku tidak mau ada manusia lain yang pulang ke pintu seperti itu."
+"Itu pasal dua program," jawab Ossian. "Keluarga berhak menolak. Kabar tetap disampaikan, salinan arsip tetap dititipkan, tetapi pemulangan tidak boleh dipaksakan ke rumah yang menutup pintunya." Ia menatap Barim. "Kau tahu kenapa pasal ini kutulis duluan? Karena kau yang pernah cerita soal delapan tahun tidak ada satu pun keluargamu datang. Aku tidak mau ada manusia lain yang pulang ke pintu seperti itu."
 
-Barim mengangguk sekali, dan tidak berkata apa-apa lagi, tapi sore itu ia mengajari kelas telapak satu jam lebih lama dari biasanya.
+Barim mengangguk sekali, dan tidak berkata apa-apa lagi, tetapi sore itu ia mengajari kelas telapak satu jam lebih lama dari biasanya.
 
-Dan kabar kedua, kata Ossian, adalah yang luar biasa: "Dari enam puluh dua keluarga yang terpetakan... lima puluh delapan menjawab dalam seminggu pertama. Semuanya minta ikut proses. Semuanya mau belajar name train baru. Seorang cucu Sarneth — anak pedagang gerabah dari bandar selatan — mengirim surat: 'Kakek saya belum pernah saya kenal, tapi kalau dia akan pulang, saya mau jadi orang pertama di pintu.'"
+Dan kabar kedua, kata Ossian, adalah yang luar biasa: "Dari enam puluh dua keluarga yang terpetakan... lima puluh delapan menjawab dalam seminggu pertama. Semuanya minta ikut proses. Semuanya mau belajar name train baru. Seorang cucu Sarneth — anak pedagang gerabah dari bandar selatan — mengirim surat: 'Kakek saya belum pernah saya kenal, tetapi kalau dia akan pulang, saya mau jadi orang pertama di pintu.'"
 
 Ashvarok membaca salinan surat itu yang diselipkan Ossian ke atas mejanya, membacanya dua kali, lalu melipatnya dan menyelipkannya ke saku dada kanan — saku yang kini lebih mirip arsip cabang daripada kantong jaket:
 
-"Catatan raja: seribu tahun kesendirian sedang dibayar lunas dengan cara yang tidak pernah kuprediksi — bukan dengan satu pembalasan besar, tapi dengan enam puluh dua keluarga yang mendadak jadi lebih besar."
+"Catatan raja: seribu tahun kesendirian sedang dibayar lunas dengan cara yang tidak pernah kuprediksi — bukan dengan satu pembalasan besar, tetapi dengan enam puluh dua keluarga yang mendadak jadi lebih besar."
 
-Sebelum pergi, Ossian berhenti di pintu dan berkata hal yang jarang ia katakan dengan suara bukan birokrat: "Delapan belas tahun aku cari kebenaran tentang utara supaya bisa menyalahkan orang yang tepat. Ternyata jawabannya bukan siapa yang salah. Tapi enam puluh dua keluarga yang belum tahu bahwa mereka belum ditinggalkan." Ia membetulkan mapnya di lengannya. "Aku butuh waktu lama untuk jadi orang yang bisa membawa kabar baik, raja. Jangan sampai jabatan Kantor Penghubung ini kehilangan pemiliknya sebelum empat ratus jiwa pulang semua."
+Sebelum pergi, Ossian berhenti di pintu dan berkata hal yang jarang ia katakan dengan suara bukan birokrat: "Delapan belas tahun aku cari kebenaran tentang utara supaya bisa menyalahkan orang yang tepat. Ternyata jawabannya bukan siapa yang salah. Namun enam puluh dua keluarga yang belum tahu bahwa mereka belum ditinggalkan." Ia membetulkan mapnya di lengannya. "Aku butuh waktu lama untuk jadi orang yang bisa membawa kabar baik, raja. Jangan sampai jabatan Kantor Penghubung ini kehilangan pemiliknya sebelum empat ratus jiwa pulang semua."
 
 "Akan kupastikan kau melekat," kata Ashvarok.
 

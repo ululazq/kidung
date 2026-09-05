@@ -7,7 +7,7 @@ Gerakan nat asuhan dimulai dari dua anak berumur tujuh tahun — dan seperti sem
 
 Kembar Tami dan Tomi, anak pedagang asam-asaman, mendapat tugas nat asuhan: nat kecil di dekat warung orang mereka, yang oleh jadwal resmi adalah "nat milik blok pasar timur".
 
-Tapi kembar tujuh tahun tidak paham konsep "nat milik blok". Yang mereka paham: nat itu teman. Maka setiap pulang sekolah, keduanya mampir — cerita hari sekolah, diberi teh dingin (dari termos ayahnya, dengan izin), dan dilapori soal hal-hal penting dunia tujuh tahun:
+Namun kembar tujuh tahun tidak paham konsep "nat milik blok". Yang mereka paham: nat itu teman. Maka setiap pulang sekolah, keduanya mampir — cerita hari sekolah, diberi teh dingin (dari termos ayahnya, dengan izin), dan dilapori soal hal-hal penting dunia tujuh tahun:
 
 "Nat, hari ini aku dapat nilai bagus gambar."
 
@@ -29,7 +29,7 @@ ANAK-ANAK TIDAK PERLU DIAJARI MENYAPA. MEREKA YANG HARUS KITA JAGA JANGAN LUPA."
 
 Dalam sebulan, gerakan nat asuhan menyebar ke seluruh Karvess — dan berkembang menjadi sistem yang oleh Sela dicatat sebagai "protokol pertama yang lahir dari anak-anak":
 
-Setiap anak sekolah memilih satu nat asuhan (biasanya di jalur pulang). Setiap nat asuhan punya kartu perawatan: nama pengasuh, jadwal kunjung, catatan khusus ("suka teh dingin", "takut digeser", "senang diceritain ikan").
+Setiap anak sekolah memilih satu nat asuhan (biasanya di jalur pulang). Setiap nat asuhan punya kartu perawatan: nama pengasuh, jadwal kunjung, catatan khusus ("suka teh dingin", "takut digeser", "senang diceritakan ikan").
 
 Dan yang tak terduga: para pendengar alami mulai melapor bahwa nat-nat asuhan... tumbuh lebih cepat resonansinya. Batu yang tiap hari disapa anak tujuh tahun mengembangkan irama yang lebih hangat daripada nat serupa yang dibiarkan.
 
@@ -93,7 +93,7 @@ Nat asuhan: 89 dan bertambah. Nat pendamping: 16. Kartu perawatan aktif: 89. Ana
 
 Status jaringan resonansi Karvess: SEHAT.
 
-Status hati penduduknya: menurut ibu Tamma, "juga sehat, tapi itu bukan bidangku; bidangku sup".
+Status hati penduduknya: menurut ibu Tamma, "juga sehat, tetapi itu bukan bidangku; bidangku sup".
 
 ---
 
@@ -161,7 +161,7 @@ Tomi: "Kak Raja. Kak Renn. Kalian dua orang dalam satu badan, kan?"
 
 Renn (lewat Ashvarok): "Iya."
 
-Tami: "Kalau begitu pas kalian makan sup... itu artinya makan berdua tapi kelihatan satu orang makan banyak."
+Tami: "Kalau begitu pas kalian makan sup... itu artinya makan berdua tetapi kelihatan satu orang makan banyak."
 
 Sunyi.
 
@@ -197,7 +197,7 @@ Keajaiban tidak berjalan sendiri. Ia dibawa dua anak kembar yang diajari orang t
 
 Kau benar keajaiban jalan kaki.
 
-Tapi ingat: kakinya itu kita semua."
+Namun ingat: kakinya itu kita semua."
 
 ---
 
@@ -205,7 +205,7 @@ Dan Renn membalas sekali lagi — singkat, khas bocah tambang:
 
 "Oke. Kakinya kita semua.
 
-Tapi tetap aku yang mulai."
+Namun tetap aku yang mulai."
 
 ---
 

@@ -43,7 +43,7 @@ Brannoc meletakkan batu asahnya. "Satu hal nyambungnya ke sini. Kata dari Silent
 
 "Dan malam ini angka itu dapat lemari." Ashvarok mengangguk pelan ke arahnya. "Bahasa pinjaman untuk menyapa tubuh-kunci. Jabatan arsip yang mendahului tangga Resonance. Dua peninggalan dari zaman yang sama, atau setidaknya dari zaman yang satu rumah. Pak Dekan mencatat kata itu dengan dua centang, seperti orang mencatat sesuatu yang pernah diajarkan resmi kepadanya." Ia menatap mandor tua itu lama. "Guru-gurunya ada di lorong-lorong ini, Brannoc. Jejak latihannya tidak semua di Spire."
 
-Ashvarok menatap ketiga tumpukan kertas itu, dan untuk sesaat, sesuatu yang jarang terjadi pada dirinya terjadi, yaitu dia ragu-ragu memilih urutan kata.
+Ashvarok menatap ketiga tumpukan kertas itu, dan untuk sesaat, sesuatu yang jarang terjadi pada dirinya terjadi — yaitu dia ragu-ragu memilih urutan kata.
 
 "Kesimpulan besarnya begini," katanya akhirnya. "Kita setahun ini mencari orang. Mata internal, pemegang jabatan, tangan yang memotong map. Kita bayangkan musuh sebagai seseorang yang bisa ditemui, ditawari, ditakuti, atau digantikan." Ia meletakkan telapak tangannya di atas manual tua itu, pelan. "Salah alamat. Musuh bukan orang di dalam Choir. Musuh adalah ingatan Choir tentang apa yang lebih tua darinya. Jabatan itu tetap hidup karena Choir tidak berani membunuhnya dan tidak sanggup memahaminya, dan pemegangnya berganti-ganti seperti penjaga gudang berganti, karena yang penting bukan manusianya, yang penting tugasnya terus dipegang. Kamu tidak bisa membunuh musuh semacam ini dengan menggulingkan orang. Kamu hanya bisa mempelajarinya, dan berharap pelajaran itu cukup cepat."
 
@@ -51,7 +51,7 @@ Ashvarok menatap ketiga tumpukan kertas itu, dan untuk sesaat, sesuatu yang jara
 
 Sebelum Maera pulang, ia berdiri lama di ambang pintu gudang, memandangi lampu-lampu barak yang padam blok demi blok, dan bertanya satu hal yang bukan tentang kertas.
 
-"Aku akan tetap menolak permintaan salinannya lewat pasal, dan pasalku kuat. Tapi kalau yang kita lawan adalah ingatan yang lebih tua dari semua hukum yang kupakai, apa gunanya memorandumku?"
+"Aku akan tetap menolak permintaan salinannya lewat pasal, dan pasalku kuat. Namun kalau yang kita lawan adalah ingatan yang lebih tua dari semua hukum yang kupakai, apa gunanya memorandumku?"
 
 "Memorandummu menahan tangan," kata Ashvarok. "Tangan yang ditahan itu milik orang. Selama yang bekerja masih orang, hukummu masih berguna." Ia mengumpulkan salinan-salinan itu satu demi satu ke dalam kotak. "Yang harus kita mulai cari sekarang bukan nama pemegang jabatannya. Nama bisa disembunyikan seribu tahun, dan sudah dibuktikan. Yang harus dicari adalah jejak latihannya. Tradisi seperti itu butuh murid. Murid butuh guru. Guru butuh tempat berlatih, dan tempat meninggalkan bekas pada orang-orang yang keluar darinya."
 
@@ -59,7 +59,7 @@ Ia tidak memberi tahu Maera kenapa kalimat terakhir itu ia pilih, dan Maera tida
 
 Pintu gudang dikunci kembali setelah tamunya pergi, tetapi Ashvarok tidak langsung tidur. Ia mengeluarkan buku catatan Pak Dekan dari peti besinya, buku tua yang disimpan Brannoc setahun dan kini menjadi milik bersama tanpa sertifikat, lalu meletakkannya di bawah lampu di samping salinan surat Pembaca Tua.
 
-Ia membandingkan dua tulisan tangan itu sampai jauh malam. Nomor registrasi dua bagian pada kop Spire. Deret huruf asing dengan dua centang di margin Pak Dekan. Cara menandai yang berbeda tujuan tetapi satu kebiasaan bentuk, yaitu mencatat hal yang tidak boleh dibaca orang lain dengan sistem yang tidak diajarkan buku mana pun. Dua penjaga tradisi yang terpisah seribu hari jalan, dan tangannya menulis dengan irama yang sama.
+Ia membandingkan dua tulisan tangan itu sampai jauh malam. Nomor registrasi dua bagian pada kop Spire. Deret huruf asing dengan dua centang di margin Pak Dekan. Cara menandai yang berbeda tujuan tetapi satu kebiasaan bentuk — yaitu mencatat hal yang tidak boleh dibaca orang lain dengan sistem yang tidak diajarkan buku mana pun. Dua penjaga tradisi yang terpisah seribu hari jalan, dan tangannya menulis dengan irama yang sama.
 
 Guru butuh murid, dan murid meninggalkan bekas, pikirnya. Bekasnya sudah ada di gudang ini sejak lama. Yang baru saja berganti hanyalah nama penyakitnya.
 

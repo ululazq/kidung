@@ -49,7 +49,7 @@ Sebuah seam yang menyimpan rekaman telah mengenali dirinya dari rekaman, itu sud
 
 Dan bagian dari dirinya, bagian tua yang ia rawat paling jauh di dalam penyimpanan tertuanya, merasa hangat mendengarnya, dan hangat itu yang paling ia takutkan.
 
-Karena panggilan yang benar selalu punya dua ujung. Satu ujung di mulut yang memanggil, satu ujung di orang yang sudah lama menunggu dipanggil. Seribu tahun ia mengangkat dirinya dari kursi itu dan membakar jembatan di belakangnya sampai tidak ada abu pun tersisa untuk dibaca, dan kini sebuah kedalaman mengucapkan nama jabatannya dengan ejaan yang lebih tua dari bahasanya sendiri, dan sesuatu di dadanya menoleh seperti anjing tua mendengar langkah majikannya di ujung gang. Ia membenci bagian itu tanpa bisa memadamkannya, sebab bagian itu bukan kelemahan yang bisa ditutup pola seni mana pun, melainkan sisa bentuk asli dari dirinya, potongan yang dulu ditinggalkan di meja harga seribu tahun silam.
+Karena panggilan yang benar selalu punya dua ujung. Satu ujung di mulut yang memanggil, satu ujung di orang yang sudah lama menunggu dipanggil. Seribu tahun ia mengangkat dirinya dari kursi itu dan membakar jembatan di belakangnya sampai tidak ada abu pun tersisa untuk dibaca, dan kini sebuah kedalaman mengucapkan nama jabatannya dengan ejaan yang lebih tua dari bahasanya sendiri, dan sesuatu di dadanya menoleh seperti anjing tua mendengar langkah majikannya di ujung gang. Ia membenci bagian itu tanpa bisa memadamkannya — sebab bagian itu bukan kelemahan yang bisa ditutup pola seni mana pun — melainkan sisa bentuk asli dari dirinya, potongan yang dulu ditinggalkan di meja harga seribu tahun silam.
 
 Ia tidak menjawab. Tentu saja ia tidak menjawab. Aturan rumahnya sendiri melarangnya, dan aturan itu ia buang bukan untuk dilanggar oleh pembuatnya. Ia hanya berdiri, menghitung napasnya sampai sepuluh, membaca nat itu sekali lagi demi catatan, lalu berbalik pulang dengan langkah yang sengaja ia buat membosankan.
 
@@ -57,9 +57,9 @@ Pertanyaan yang menempel di punggungnya sepanjang jalan naik bukan pertanyaan te
 
 ---
 
-Renn pulang ke barak saat blok timur mulai padam, dan Sela masih menunggu di dapur dengan papan tulisnya yang sudah ditegakkan, karena gadis itu punya insting terhadap malam yang kakaknya pulang terlalu tenang. Ashvarok memberinya versi yang boleh diberikan, yaitu bahwa bunyi malam itu sudah terbaca sebagian, bahwa yang mengirimkannya bukan orang, dan bahwa pekerjaan selanjutnya adalah memastikan sapaan itu tidak pernah dijawab oleh siapa pun, termasuk oleh dirinya.
+Renn pulang ke barak saat blok timur mulai padam, dan Sela masih menunggu di dapur dengan papan tulisnya yang sudah ditegakkan, karena gadis itu punya insting terhadap malam yang kakaknya pulang terlalu tenang. Ashvarok memberinya versi yang boleh diberikan — yaitu bahwa bunyi malam itu sudah terbaca sebagian, bahwa yang mengirimkannya bukan orang, dan bahwa pekerjaan selanjutnya adalah memastikan sapaan itu tidak pernah dijawab oleh siapa pun, termasuk oleh dirinya.
 
-"Dia manggil siapa?" tanya Sela langsung, karena pertanyaan pertamanya selalu yang paling tajam.
+"Dia memanggil siapa?" tanya Sela langsung, karena pertanyaan pertamanya selalu yang paling tajam.
 
 "Pernyataan lama kita masih benar. Dia tidak memanggil nama siapa pun yang kita kenal." Ashvarok meletakkan cangkirnya di meja dengan posisi pegangan menghadap keluar, kebiasaan kecil yang tidak pernah ia jelaskan. "Cukuplah kita tahu dia memanggil. Nanti ikut ke gudang, aku tunjukkan letak catatannya, kamu cocokkan dengan sistem pencatatanmu sendiri. Angka dulu, arti belakangan. Kamu tahu aturanku."
 

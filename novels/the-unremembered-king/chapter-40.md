@@ -3,13 +3,15 @@ title: "Bab 40: Kursi di Spire"
 chapter: 40
 ---
 
----
-
 Hari keempat puluh sembilan ditutup di Quota Office dengan dua dokumen yang diletakkan berdampingan oleh sejarah kecil yang tidak disadari siapa pun.
 
 Dokumen pertama: laporan capaian galeri sembilan bawah — kuota baru yang dinaikkan di atas kewajaran ternyata tercapai pada jam terakhir shift, tipis, sah, tanpa insiden, dengan kuitansi pelunasan selisih setoran tertanggal tiga hari lebih awal dari tenggat audit. Dokumen kedua: salinan surat Guild untuk Assayer Tull, yang salinannya sampai ke meja pengawas melalui pegawai yang merasa melakukan pekerjaan rutin.
 
-Kel Tharrow membaca keduanya dua kali. Yang pertama membuatnya menandai berkas audit dengan catatan satu kalimat: "tidak ditemukan penyimpangan pada pemeriksaan awal" — kalimat yang akan ia membaca ulang nanti dengan rasa seperti menemukan pintu yang dikunci rapat tepat ketika ia datang membawa kuncinya. Yang kedua membuatnya berpikir tentang jaringan: penilai muda itu naik, komisi Caldrest akan berganti tangan, dan setiap pergantian tangan adalah celah — bagi orang yang tahu mencari celah.
+Kel Tharrow membaca keduanya dua kali. Yang pertama membuatnya menandai berkas audit dengan catatan satu kalimat:
+
+> Tidak ditemukan penyimpangan pada pemeriksaan awal.
+
+Kalimat itu akan ia baca ulang nanti dengan rasa seperti menemukan pintu yang dikunci rapat tepat ketika ia datang membawa kuncinya. Yang kedua membuatnya berpikir tentang jaringan: penilai muda itu naik, komisi Caldrest akan berganti tangan, dan setiap pergantian tangan adalah celah — bagi orang yang tahu mencari celah.
 
 Ia tidak menghubungkan dua dokumen itu satu sama lain. Tidak ada alasan menghubungkannya. Dunia yang ia kenal tidak pernah menyimpan benangnya dalam satu gulungan. Maka ia menyimpan keduanya di map yang berbeda, dan itulah cara dua kejadian yang kelak akan bertabrakan lolos dari satu-satunya meja di kota ini yang berwenang membacanya bersamaan.
 
@@ -23,11 +25,11 @@ Ashvarok mendengarnya dari Vosk sendiri, yang menyampaikannya dengan cara meneng
 
 "Apa isi suratnya?"
 
-"Kalau aku tahu isinya, aku akan menjualnya, bukan memberitahunya." Vosk mengetuk tutup gerobaknya, irama yang sudah menjadi tanda membaca. "Tapi kurir Guild sore tadi bilang satu frasa yang terlewat dari semua mulut lain. Kursi."
+"Kalau aku tahu isinya, aku akan menjualnya, bukan memberitahunya." Vosk mengetuk tutup gerobaknya, irama yang sudah menjadi tanda membaca. "Namun kurir Guild sore tadi bilang satu frasa yang terlewat dari semua mulut lain. Kursi."
 
 "Aku mengerti. Terima kasih."
 
-"Satu lagi." Penengah itu menurunkan suaranya satu tingkat, ke register yang biasanya ia pakai untuk nasihat penyimpanan barang. "Orang-orang yang menghitung soreku minggu ini berhenti menghitung kemarin. Pindah bekerja atau pindah perintah — aku tidak tahu yang mana dan tidak ingin tahu. Tapi kalau kau punya urusan dengan orang Guild itu, urus cepat. Jendela-jendela di kota ini punya kebiasaan menutup tanpa memberi tahu siapa-siapa."
+"Satu lagi." Penengah itu menurunkan suaranya satu tingkat, ke register yang biasanya ia pakai untuk nasihat penyimpanan barang. "Orang-orang yang menghitung soreku minggu ini berhenti menghitung kemarin. Pindah bekerja atau pindah perintah — aku tidak tahu yang mana dan tidak ingin tahu. Namun kalau kau punya urusan dengan orang Guild itu, urus cepat. Jendela-jendela di kota ini punya kebiasaan menutup tanpa memberi tahu siapa-siapa."
 
 ---
 
@@ -73,9 +75,9 @@ Ashvarok memandang adiknya di bawah lampu jalan pertama distrik barak. Anak-anak
 
 "Ya," kata Ashvarok. "Dia sudah memilih. Dia memilih dengan datang ke sini malam ini alih-alih menutup surat itu di kamarnya sendirian. Orang tidak menanyakan pendapat peti harta karun soal peta."
 
-"Tapi kursi itu bagus untuknya. Dia ingin sejak lama. Aku ingat dia cerita, waktu kita menilai pisau itu, bahwa dia masuk Guild dari kelas pembanding terendah." Sela menggeser papan tulisnya ke lengan yang lain. "Kenapa ini buruk?"
+"Namun kursi itu bagus untuknya. Dia ingin sejak lama. Aku ingat dia cerita, waktu kita menilai pisau itu, bahwa dia masuk Guild dari kelas pembanding terendah." Sela menggeser papan tulisnya ke lengan yang lain. "Kenapa ini buruk?"
 
-Karena aku sedang menyusun peta bohong di kedalaman yang hanya bisa dilindungi oleh satu penilai yang jujur di kota ini, pikir Ashvarok. Karena kanal lot Vosk adalah telingaku di dalam mesin survei, dan telinga itu akan dipasang di lantai empat puluh sebuah menara yang jaraknya sembilan hari kafilah. Karena Ossian Vael baru saja menyebutnya berguna dua kali dalam satu percakapan, dan orang yang berguna bagi mesin jarang diizinkan tinggal di dekat roda giginya sendiri.
+*Karena aku sedang menyusun peta bohong di kedalaman yang hanya bisa dilindungi oleh satu penilai yang jujur di kota ini*, pikir Ashvarok. *Karena kanal lot Vosk adalah telingaku di dalam mesin survei, dan telinga itu akan dipasang di lantai empat puluh sebuah menara yang jaraknya sembilan hari kafilah. Karena Ossian Vael baru saja menyebutnya berguna dua kali dalam satu percakapan, dan orang yang berguna bagi mesin jarang diizinkan tinggal di dekat roda giginya sendiri.*
 
 Ia tidak mengatakan yang mana pun dari itu. Yang ia katakan:
 
@@ -87,6 +89,6 @@ Ashvarok memandang angka itu dari tempat tidurnya, dan membiarkan dua hitungan m
 
 Dua hitungan itu tidak harus bertabrakan. Itu kesimpulan pertamanya, dan ia memegangnya seperti memegang bara: hati-hati, dengan jarak yang cukup, dan tanpa berharap ia tidak akan membakar sesuatu. Ada satu cara menahan orang seperti Maera Tull, dan itu bukan dengan permohonan, bukan dengan peringatan, dan bukan dengan mengungkap apa pun. Cara itu adalah memberinya pekerjaan yang tidak bisa ia serahkan kepada kursi mana pun — pekerjaan yang jawabannya tertanam di batu Caldrest, milik siapa pun yang berdiri tepat di atasnya.
 
-Besok, pikirnya, sebelum tidur menjemuk tubuh ini, aku mulai menulis lot yang panjang. Lot dengan pertanyaan yang hanya punya satu tempat untuk dijawab.
+*Besok*, pikirnya, sebelum tidur menjemput tubuh ini, *aku mulai menulis lot yang panjang. Lot dengan pertanyaan yang hanya punya satu tempat untuk dijawab.*
 
 Di luar, lonceng shift malam berbunyi jauh, dan lampu kecil Sela masih menyala — anak itu menyalin ulang kolom-kolomnya dengan huruf rapi, seolah tulisan yang benar bisa menjaga orang tetap tinggal. Ashvarok membiarkannya. Dari semua cara berdoa yang pernah ia saksikan sepanjang dua zaman, itu yang paling dekat dengan kebenaran.

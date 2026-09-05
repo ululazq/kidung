@@ -3,7 +3,7 @@ title: "Bab 73: Baca Jalan Keluar"
 chapter: 73
 ---
 
-Rapat besar distrik timur diadakan malam hari kesembilan puluh tiga di ruang tunggu klinik barak — ruangan yang sejak berbulan-bulan sudah berganti fungsi lebih cepat daripada namanya — pagi sekolah anak-anak, sore antrean pengukuran dokter tambang, malam rapat. Malam itu bangku-bangkunya penuh sampai ke pintu, dan yang tidak kebagian bangku berdiri di dinding, dan yang tidak muat di dinding mendengarkan dari halaman lewat jendela yang dibuka semua.
+Rapat besar distrik timur diadakan malam hari kesembilan puluh tiga di ruang tunggu klinik barak — ruangan yang sejak berbulan-bulan sudah berganti fungsi lebih cepat daripada namanya — pagi sekolah anak-anak, sore antrean pengukuran dokter tambang, malam rapat. Malam itu bangku-bangkunya penuh sampai ke pintu, dan yang tidak mendapat bagian bangku berdiri di dinding, dan yang tidak muat di dinding mendengarkan dari halaman lewat jendela yang dibuka semua.
 
 Kabar izin telah berjalan lebih cepat daripada kertasnya. Tidak ada yang membacakan izin itu — izin belum dibagikan kepada siapa pun yang akan memprotesnya — tetapi antrean santunan baru saja disusun ulang per blok, pos penimbangan digandakan, dan kontraktor troli terlihat mengukur jalur angkutan di lereng. Orang Caldrest tidak butuh membaca surat untuk tahu bahwa surat sedang ditulis tentang mereka.
 
@@ -23,7 +23,7 @@ Sebelum Ashvarok sempat berdiri, suara dari bangku galeri tujuh — lelaki tua y
 
 "Kita sudah setahun makan cerita! Ceritanya enak-enak saja sampai troli mereka datang mengukur lereng!"
 
-"Ramalan tidak menyelamatkan siapa pun," kata Ashvarok, sebelum rapat menyeretnya ke tempat yang salah. "Aku pernah tinggal di kota yang percaya penuh pada ramalan. Kota itu tetap jatuh. Yang menyelamatkan orang bukan tahu tanggalnya, tapi punya sesuatu untuk dipegang saat tanggalnya datang — dan yang bisa dipegang manusia hanya dua macam: batu dan kertas."
+"Ramalan tidak menyelamatkan siapa pun," kata Ashvarok, sebelum rapat menyeretnya ke tempat yang salah. "Aku pernah tinggal di kota yang percaya penuh pada ramalan. Kota itu tetap jatuh. Yang menyelamatkan orang bukan tahu tanggalnya, tetapi punya sesuatu untuk dipegang saat tanggalnya datang — dan yang bisa dipegang manusia hanya dua macam: batu dan kertas."
 
 Ashvarok merasakan permintaan itu jatuh ke atasnya seperti balok — bukan karena tak seharusnya, melainkan karena sudah seharusnya. Setahun ia membangun legenda ini sebagai tembok pelindung, dan malam ini tembok itu diminta bekerja untuk pertama kali secara terbuka, oleh mitra yang tahu persis apa yang disembunyikan di baliknya. Menolak berarti membiarkan rapat ini mati di tahap lesu. Menerima berarti berdiri di atas panggung yang ia hindari sejak hari pertama — dan ia tahu betul, dengan pengetahuan seorang raja yang pernah dikenali terlalu banyak, bahwa panggung adalah tempat semua penyamar akhirnya dipanggil maju.
 
@@ -59,7 +59,7 @@ Setelah rapat bubar, di ambang pintu klinik, Maera Tull menunggunya dengan kotak
 
 "Lalu kau akan memberitahuku sekarang apa yang sebenarnya kau membaca waktu mereka minta kau membaca masa depan?" Mata Maera mulai menghitung, kebiasaan yang tidak pernah tidur. "Aku kenal wajahmu sudah cukup lama, Renn. Wajah tadi malam bukan wajah orang yang sedang berimprovisasi."
 
-Ashvarok memandangi halaman klinik yang gelap, papan pengumuman dengan surat yang dipaku, jadwal sekolah di sebelahnya. "Yang kubaca tadi bukan ramalan. Kalau izin penutupan itu berdiri di atas asumsi bahwa tidak ada pemilik selain lisensi, maka seluruh beratnya bertumpu pada satu kaki. Cacat seperti itu selalu ada di setiap bangunan hukum yang didirikan terlalu cepat. Aku pernah melihat kerajaan-kerajaan jatuh bukan karena pedang, tapi karena satu pasal yang ditulis buru-buru." Ia menoleh kepadanya. "Temukan kertasnya, Assayer. Dokumen tanah pra-Liberation distrik timur, kalau ada. Dan bacalah baik-baik catatan pinggirnya — dokumen tua paling sering berkata jujur di margin, tempat tidak ada yang menuntut mereka formal."
+Ashvarok memandangi halaman klinik yang gelap, papan pengumuman dengan surat yang dipaku, jadwal sekolah di sebelahnya. "Yang kubaca tadi bukan ramalan. Kalau izin penutupan itu berdiri di atas asumsi bahwa tidak ada pemilik selain lisensi, maka seluruh beratnya bertumpu pada satu kaki. Cacat seperti itu selalu ada di setiap bangunan hukum yang didirikan terlalu cepat. Aku pernah melihat kerajaan-kerajaan jatuh bukan karena pedang, tetapi karena satu pasal yang ditulis buru-buru." Ia menoleh kepadanya. "Temukan kertasnya, Assayer. Dokumen tanah pra-Liberation distrik timur, kalau ada. Dan bacalah baik-baik catatan pinggirnya — dokumen tua paling sering berkata jujur di margin, tempat tidak ada yang menuntut mereka formal."
 
 Maera menatapnya lama, dan Ashvarok tahu pikirannya sedang menghitung mengapa sebuah instruksi yang tampak rutin diberikan dengan penekanan yang tidak rutin.
 

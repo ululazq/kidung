@@ -13,15 +13,15 @@ Malam itu, seluruh tim inti duduk di meja panjang: Ashvarok-Renn, Sela, Kovan, M
 
 Ketika ia selesai, meja itu hening beberapa saat. Kemudian Brannoc berbicara: "Kau percaya padanya?"
 
-"Aku tidak percaya." Ossian menatapnya. "Tapi aku percaya garis itu bernapas. Dan aku percaya bahwa sesuatu yang bernapas selama seribu tahun tanpa pernah berhenti tidak akan berhenti hanya karena kita mengabaikannya."
+"Aku tidak percaya." Ossian menatapnya. "Namun aku percaya garis itu bernapas. Dan aku percaya bahwa sesuatu yang bernapas selama seribu tahun tanpa pernah berhenti tidak akan berhenti hanya karena kita mengabaikannya."
 
 "Kalau begitu," kata Kovan, "kita punya dua pilihan: kita ikut lelaki itu menutup pintu, atau kita mengawasinya dari jauh dan memastikan ia tidak membuka apa yang seharusnya tetap terkunci."
 
-"Ada pilihan ketiga," kata Ashvarok-Renn. Semua orang menoleh. "Kita pelajari pintu itu sebelum kita memutuskan untuk menutupnya atau mengawasinya. Lelaki itu berkata ia punya kunci dan ingin menutup pintu. Tapi kunci itu — benda bundar dengan tiga lubang — aku pernah melihat bentuknya sekali, seribu tahun silam. Ia bukan kunci untuk menutup pintu. Ia adalah bagian dari mekanisme yang lebih besar."
+"Ada pilihan ketiga," kata Ashvarok-Renn. Semua orang menoleh. "Kita pelajari pintu itu sebelum kita memutuskan untuk menutupnya atau mengawasinya. Lelaki itu berkata ia punya kunci dan ingin menutup pintu. Namun kunci itu — benda bundar dengan tiga lubang — aku pernah melihat bentuknya sekali, seribu tahun silam. Ia bukan kunci untuk menutup pintu. Ia adalah bagian dari mekanisme yang lebih besar."
 
 "Bagian dari apa?" tanya the Seeker.
 
-"Aku tidak tahu." Ashvarok-Renn menatap peta spiral yang digantung di dinding. "Tapi aku tahu satu hal: benda seperti itu tidak pernah dibuat untuk menutup pintu sendirian. Ia dibuat untuk diputar — dan apa pun yang ia putar, entah menutup atau membuka, itu tergantung pada siapa yang memutarnya dan kapan."
+"Aku tidak tahu." Ashvarok-Renn menatap peta spiral yang digantung di dinding. "Namun aku tahu satu hal: benda seperti itu tidak pernah dibuat untuk menutup pintu sendirian. Ia dibuat untuk diputar — dan apa pun yang ia putar, entah menutup atau membuka, itu tergantung pada siapa yang memutarnya dan kapan."
 
 "Berarti lelaki itu bisa berbohong," kata Sela. "Ia bisa berkata ia ingin menutup pintu, padahal ia ingin membukanya."
 
@@ -31,7 +31,7 @@ Kovan membuka peta spiral dan menunjuk lingkaran-lingkaran tipis yang ia gambar.
 
 "Menguji?" tanya Mira.
 
-"Mencari titik lemahnya." Kovan menatap peta itu. "Sesuatu di utara tidak sedang menarik garis itu. Ia sedang mencari cara untuk membukanya — dan ia sudah mencari selama berapa lama, kita tidak tahu. Lelaki berjubah abu-abu itu berkata ia ingin menutup pintu. Tapi kalau ia benar-benar ingin menutupnya, mengapa ia datang membawa kunci, bukan membawa batu dan pasir untuk menguburnya?"
+"Mencari titik lemahnya." Kovan menatap peta itu. "Sesuatu di utara tidak sedang menarik garis itu. Ia sedang mencari cara untuk membukanya — dan ia sudah mencari selama berapa lama, kita tidak tahu. Lelaki berjubah abu-abu itu berkata ia ingin menutup pintu. Namun kalau ia benar-benar ingin menutupnya, mengapa ia datang membawa kunci, bukan membawa batu dan pasir untuk menguburnya?"
 
 "Karena kunci lebih cepat daripada penguburan," kata the Keeper. "Menutup pintu dengan kunci butuh satu putaran. Menguburnya butuh pekan. Kalau sesuatu di utara sedang mendekat, kunci adalah jawaban yang lebih cepat."
 
@@ -41,17 +41,17 @@ Malam itu, mereka tidak memutuskan apa pun. Sesuai aturan dapur yang sudah menja
 
 Di fajar berikutnya, Ashvarok-Renn berdiri di menara menatap ke utara. Sela datang membawa teh, berdiri di sampingnya tanpa berkata apa-apa. Mereka menatap langit yang mulai terang beberapa saat, sebelum Sela berbicara: "Kau sudah memutuskan, kan?"
 
-"Belum." Ashvarok-Renn memegang cangkir tehnya, menatap ke utara. "Tapi aku sudah memutuskan apa yang tidak akan kulakukan: aku tidak akan mengirim orang ke sana sendirian. Kalau kita pergi ke tiga batu tegak, kita pergi bersama-sama — dengan semua kunci yang kita miliki, dan dengan semua pertanyaan yang belum terjawab."
+"Belum." Ashvarok-Renn memegang cangkir tehnya, menatap ke utara. "Namun aku sudah memutuskan apa yang tidak akan kulakukan: aku tidak akan mengirim orang ke sana sendirian. Kalau kita pergi ke tiga batu tegak, kita pergi bersama-sama — dengan semua kunci yang kita miliki, dan dengan semua pertanyaan yang belum terjawab."
 
 "Dan kalau pintu itu ternyata harus ditutup?"
 
-"Maka kita menutupnya." Ashvarok-Renn menurunkan cangkirnya. "Tapi kita menutupnya dengan mata terbuka — bukan karena kita dipercaya lelaki berjubah abu-abu, tapi karena kita sendiri yang memutuskan bahwa garis ini harus berhenti bernapas."
+"Maka kita menutupnya." Ashvarok-Renn menurunkan cangkirnya. "Namun kita menutupnya dengan mata terbuka — bukan karena kita dipercaya lelaki berjubah abu-abu, tetapi karena kita sendiri yang memutuskan bahwa garis ini harus berhenti bernapas."
 
 Sela menatapnya lama. "Kau tahu," katanya, "untuk orang yang membakar namanya sendiri seribu tahun silam, kau berbicara seperti orang yang baru belajar mempercayai orang lain."
 
 "Mungkin aku sedang belajar." Ashvarok-Renn menatap ke utara. "Atau mungkin aku hanya lelah mengunci pintu sendirian."
 
-Di bawah menara, Gella datang membawa buku pemulihan dan duduk di bangku dekat gerbang, tidak ikut campur dalam percakapan itu. Ia membuka buku itu dan mencatat di bawah nama Ashvarok-Renn: *Napas masih tiga. Dua pekan tanpa operasi, tanpa pengeluaran besar. Tubuh ini pulih bukan karena dipakai, tapi karena tidak dipakai — dan untuk pertama kalinya, ia tidak terburu-buru untuk mengubahnya.*
+Di bawah menara, Gella datang membawa buku pemulihan dan duduk di bangku dekat gerbang, tidak ikut campur dalam percakapan itu. Ia membuka buku itu dan mencatat di bawah nama Ashvarok-Renn: *Napas masih tiga. Dua pekan tanpa operasi, tanpa pengeluaran besar. Tubuh ini pulih bukan karena dipakai, tetapi karena tidak dipakai — dan untuk pertama kalinya, ia tidak terburu-buru untuk mengubahnya.*
 
 Kovan keluar dari barak, melihat Gella menulis, dan duduk di sampingnya. "Kau mencatat sesuatu yang tidak pernah kau tulis sebelumnya," katanya.
 
@@ -61,7 +61,7 @@ Kovan keluar dari barak, melihat Gella menulis, dan duduk di sampingnya. "Kau me
 
 "Aku pikir itu pertumbuhan." Gella menatap ke arah menara. "Dan pertumbuhan selalu mahal. Yang belum kita tahu adalah siapa yang akan membayar harganya."
 
-Mira datang dari menara menjelang tengah hari, membawa buku anomali dan wajah yang tidak bisa menyembunyikan berita. "Angin berbalik lagi tadi pagi," katanya. "Tapi kali ini berbeda. Ia tidak berbalik dari utara ke selatan — ia berbalik dua kali dalam satu jam, seperti sesuatu yang sedang mencoba dua arah sekaligus, tidak bisa memutuskan mana yang benar."
+Mira datang dari menara menjelang tengah hari, membawa buku anomali dan wajah yang tidak bisa menyembunyikan berita. "Angin berbalik lagi tadi pagi," katanya. "Namun kali ini berbeda. Ia tidak berbalik dari utara ke selatan — ia berbalik dua kali dalam satu jam, seperti sesuatu yang sedang mencoba dua arah sekaligus, tidak bisa memutuskan mana yang benar."
 
 "Seperti sesuatu yang sedang mencari," kata Kovan pelan. "Bukan menarik. Mencari."
 
@@ -73,7 +73,7 @@ Mira datang dari menara menjelang tengah hari, membawa buku anomali dan wajah ya
 
 "Kita punya waktu selama garis itu masih bernapas," kata Ashvarok-Renn, yang turun dari menara dan bergabung dengan mereka. "Dan selama kita masih bisa memutuskan dengan kepala dingin, bukan dengan panik. Panik membuat orang mengetuk pintu tanpa irama yang benar — dan pintu yang diketuk tanpa irama tidak akan pernah membuka dirinya untuk siapa pun."
 
-Ia berhenti di depan Mira. "Kau mencatat angin berbalik dua kali dalam satu jam. Itu pola baru. Mulai sekarang, catat setiap kali angin berbalik — bukan hanya arahnya, tapi juga jaraknya dari menara. Kalau jarak itu semakin pendek setiap kali, kita tahu sesuatu sedang mendekat."
+Ia berhenti di depan Mira. "Kau mencatat angin berbalik dua kali dalam satu jam. Itu pola baru. Mulai sekarang, catat setiap kali angin berbalik — bukan hanya arahnya, tetapi juga jaraknya dari menara. Kalau jarak itu semakin pendek setiap kali, kita tahu sesuatu sedang mendekat."
 
 "Dan kalau jaraknya semakin jauh?" tanya Mira.
 
@@ -89,4 +89,4 @@ Di barak, fajar itu, keputusan akhir tidak ditulis di papan Sela. Ia hanya menul
 
 Di utara, di tiga batu tegak, lelaki berjubah abu-abu berdiri di tengah lingkaran, memegang benda bundar di tangannya, menatap garis yang berdenyut di tanah. Ia tahu mereka akan datang. Ia hanya tidak tahu kapan — dan apakah mereka akan datang sebagai kunci, atau sebagai penonton. Ia menunggu, dan garis di bawahnya terus bernapas, lebih cepat dari hari sebelumnya, seperti jantung yang baru saja mulai berlari setelah seribu tahun tertidur.
 
-Di kejauhan, di jalan selatan dari barak, Ossian berjalan sendirian di bawah bintang-bintang, merasakan dua kain tenun di dalam jaketnya — satu dari ibunya, satu dari raja yang membakar namanya — dan untuk pertama kalinya ia menyadari bahwa kedua kain itu, yang selama ini ia kira adalah warisan yang berbeda, ternyata ditenun dari benang yang sama. Ia tidak tahu apa artinya. Tapi ia tahu bahwa ia akan membawanya ke tiga batu tegak, dan bahwa di sana, ia akan tahu apakah benang yang sama itu akan menutup pintu — atau membukanya.
+Di kejauhan, di jalan selatan dari barak, Ossian berjalan sendirian di bawah bintang-bintang, merasakan dua kain tenun di dalam jaketnya — satu dari ibunya, satu dari raja yang membakar namanya — dan untuk pertama kalinya ia menyadari bahwa kedua kain itu, yang selama ini ia kira adalah warisan yang berbeda, ternyata ditenun dari benang yang sama. Ia tidak tahu apa artinya. Namun ia tahu bahwa ia akan membawanya ke tiga batu tegak, dan bahwa di sana, ia akan tahu apakah benang yang sama itu akan menutup pintu — atau membukanya.

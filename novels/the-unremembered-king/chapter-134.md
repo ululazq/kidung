@@ -3,9 +3,9 @@ title: "Bab 134: Garis yang Sama"
 chapter: 134
 ---
 
-Pengikat senior menemui bocah itu pada malam hari keseratus sembilan puluh lima, di tempat yang sudah lama ia pilih untuk pembicaraan semacam ini, yaitu di dalam Silent Gallery, sepuluh langkah melewati ambang yang memakan suara.
+Pengikat senior menemui bocah itu pada malam hari keseratus sembilan puluh lima, di tempat yang sudah lama ia pilih untuk pembicaraan semacam ini — yaitu di dalam Silent Gallery, sepuluh langkah melewati ambang yang memakan suara.
 
-Dia tiba lebih dulu, seperti semua orang yang berumur. Patroli inspeksi ventilasi bocah lorong tujuh masuk jadwal undian malam itu, dan orang-orang regunya ditinggal di tingkat empat sesuai kebiasaan baru, dan Renn turun sendirian dengan lampu mati dan langkah yang menghitung. Orang tua itu mendengar kedatangannya bukan dari bunyi langkah, karena galeri ini tidak menjual bunyi kepada siapa pun, melainkan dari cara sunyinya berubah. Sunyi ruangan yang sudah dihuni punya tekstur lain, dan tubuhnya sudah cukup tua untuk membaca tekstur.
+Dia tiba lebih dulu, seperti semua orang yang berumur. Patroli inspeksi ventilasi bocah lorong tujuh masuk jadwal undian malam itu, dan orang-orang regunya ditinggal di tingkat empat sesuai kebiasaan baru, dan Renn turun sendirian dengan lampu mati dan langkah yang menghitung. Orang tua itu mendengar kedatangannya bukan dari bunyi langkah, karena galeri ini tidak menjual bunyi kepada siapa pun — melainkan dari cara sunyinya berubah. Sunyi ruangan yang sudah dihuni punya tekstur lain, dan tubuhnya sudah cukup tua untuk membaca tekstur.
 
 "Aku tahu kau akan datang sendirian," katanya, dan suaranya mati dua hasta dari mulutnya, ditelan galeri sebelum sempat jadi bunyi. Di dalam sini mereka harus berbicara berdekatan, nyaris berbisik ke telinga, dan justru karena itulah dia memilih tempat ini. Tidak ada lempeng, tidak ada alat, tidak ada dinding yang mencatat. Hanya dua pembaca tua tradisi dan batu yang tidak bercerita kepada siapa pun.
 
@@ -65,7 +65,7 @@ Untuk pertama kali malam itu, orang tua itu tertawa, satu hembusan pendek yang d
 
 Mereka keluar dari galeri berurutan dengan jarak yang sopan, dan di ambang, tempat dunia mulai menjual bunyi lagi, mereka berdiri sebentar seperti dua pekerja tua yang kebetulan pulang shift sama. Dari luar, galeri sembilan terdengar seperti galeri mana pun yang sedang kosong. Hanya dua orang di Karvess tahu bahwa ruangan itu baru saja menyimpan percakapan paling mahal yang pernah diadakan kota ini, dan tidak menyimpannya di mana pun.
 
-Satu hal lagi yang ia tidak katakan, dan ia menyimpannya di tempat penyimpanan tertuanya, di samping nama-nama yang tidak boleh dipikirkan. Ia tidak menjelaskan kenapa dia peduli. Bocah itu tidak bertanya, dan itu membuat orang tua itu menghargainya, sebab pertanyaan itu punya jawaban, dan jawabannya miliknya sendiri, tertanam di tahun-tahun yang tidak akan ia ceritakan kepada siapa pun, bukan malam ini, bukan di tambang ini, mungkin tidak akan pernah.
+Satu hal lagi yang ia tidak katakan, dan ia menyimpannya di tempat penyimpanan tertuanya, di samping nama-nama yang tidak boleh dipikirkan. Ia tidak menjelaskan kenapa dia peduli. Bocah itu tidak bertanya — dan itu membuat orang tua itu menghargainya, sebab pertanyaan itu punya jawaban, dan jawabannya miliknya sendiri, tertanam di tahun-tahun yang tidak akan ia ceritakan kepada siapa pun, bukan malam ini, bukan di tambang ini, mungkin tidak akan pernah.
 
 Sebelum berpisah di persimpangan tingkat empat, Renn berkata satu kalimat terakhir, tanpa menoleh.
 

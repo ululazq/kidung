@@ -5,7 +5,7 @@ chapter: 175
 
 Retakan itu menjawab pada hari kedua ratus empat puluh tiga, dan menjawabnya dengan seluruh suaranya.
 
-Ashvarok sedang berdiri di ambang aula bersama Kovan — sesi mitra membaca pertama dengan pengikat senior tertunda karena hujan abu, jadi malam itu hanya mereka dua, membaca nat barat dengan dua tradisi berbeda — ketika sapuan datang. Tapi bukan sapuan biasa.
+Ashvarok sedang berdiri di ambang aula bersama Kovan — sesi mitra membaca pertama dengan pengikat senior tertunda karena hujan abu, jadi malam itu hanya mereka dua, membaca nat barat dengan dua tradisi berbeda — ketika sapuan datang. Namun bukan sapuan biasa.
 
 Lagu Hegemony dimulai dari kedalaman. Utuh. Bukan potongan yang diputar seperti piringan rusak — dinyanyikan, dari nada pertama sampai nada terakhir, dengan suara paduan seribu yang tidak pernah ia dengar sejak aula ini penuh manusia, setiap bagian harmoninya tepat, setiap jeda napasnya persis di tempat paduan suara asli menarik napas.
 
@@ -17,11 +17,11 @@ Sapuan berhenti tepat sebelum nada penutup. Ruang kosong yang disisihkan untuk s
 
 Ajakan. Undangan resmi kedua — setelah batu asah, setelah laporan bocor, setelah kata "penjaga".
 
-Ashvarok memandang Kovan. Kovan memandang balik, dan berkata hal yang membuat Ashvarok akan mengingatnya selamanya: "Semua aturan kita bilang jangan jawab apa pun yang bersuara dari dalam." Jeda. "Tapi semua aturan kita juga bilang evakuasi manusia didahulukan segala sesuatu. Dan kalau yang di dalam sana bukan ancaman melainkan sesuatu yang sudah seribu tahun tidak diajak bicara... maka tidak menjawab adalah bentuk lain dari membiarkan seseorang tersegel."
+Ashvarok memandang Kovan. Kovan memandang balik, dan berkata hal yang membuat Ashvarok akan mengingatnya selamanya: "Semua aturan kita bilang jangan jawab apa pun yang bersuara dari dalam." Jeda. "Namun semua aturan kita juga bilang evakuasi manusia didahulukan segala sesuatu. Dan kalau yang di dalam sana bukan ancaman melainkan sesuatu yang sudah seribu tahun tidak diajak bicara... maka tidak menjawab adalah bentuk lain dari membiarkan seseorang tersegel."
 
 ---
 
-Ashvarok berlutut di nat barat. Meletakkan kedua telapaknya. Membuka the Walking Key untuk kali yang tidak bisa dihitung lagi — tapi malam ini bukan untuk menambal, bukan untuk menutup, bukan untuk membaca.
+Ashvarok berlutut di nat barat. Meletakkan kedua telapaknya. Membuka the Walking Key untuk kali yang tidak bisa dihitung lagi — tetapi malam ini bukan untuk menambal, bukan untuk menutup, bukan untuk membaca.
 
 Malam ini untuk menjawab.
 
@@ -99,7 +99,7 @@ Seolah mencicipi bagaimana rasanya memanggil demikian, setelah seribu tahun hany
 
 Di barak, Ashvarok tidur dengan papan Hourglass terbuka di sebelah bantalnya — kebiasaan baru yang tidak akan ia akui kepada Sela — dan kalimat terakhir yang ia tulis malam itu, kapur di baris paling bawah kolom yang kini lebih mirip buku harian daripada pengukur luka:
 
-Hari 343. Neraca hari ini: satu nama mulai pulang (Tovik), satu kedalaman belajar memanggil dengan hormat (Vel-Ghora), satu jabatan Spire membuka amplopnya (Vael), empat ratus jiwa utara masuk daftar bekerja, dan raja Caldrest tertawa dua kali sebelum kopi. Pengeluaran: the Remainder turun melewati garis aman lagi. Pemasukan: tidak bisa dihitung dengan angka. Neraca tutup dengan surplus. Besok lanjut pekerjaan.
+Hari 343. Neraca hari ini: satu nama mulai pulang (Tovik), satu kedalaman belajar memanggil dengan hormat (Vel-Ghora), satu jabatan Spire membuka amplopnya (Vael), empat ratus jiwa utara masuk daftar kerja, dan raja Caldrest tertawa dua kali sebelum kopi. Pengeluaran: the Remainder turun melewati garis aman lagi. Pemasukan: tidak bisa dihitung dengan angka. Neraca tutup dengan surplus. Besok lanjut pekerjaan.
 
 
 

@@ -5,7 +5,7 @@ chapter: 223
 
 Pekan pertama setelah pemulangan Vess-Morath adalah minggu yang oleh Arsip Caldrest disebut "minggu penyesuaian seratus" — dan berjalan tidak sesempurna neraca hari-H-nya.
 
-Karena kenyataannya: seratus petani zaman purba yang pulang ke dunia modern tidak langsung bahagia. Beberapa dari mereka mengalami apa yang dokter tambang sebut "kelelahan kenangan" — tubuh pulih, tapi pikiran masih mengolah delapan belas tahun yang tertunda. Seorang petani berdiri di tepi ladangnya sendiri selama satu jam penuh tanpa masuk. Seorang perempuan bertanya berulang kali apakah suaminya benar-benar sudah tidak ada di dalam kedalaman — bukan karena ragu pada jawabannya, tapi karena jiwanya belum selesai percaya.
+Karena kenyataannya: seratus petani zaman purba yang pulang ke dunia modern tidak langsung bahagia. Beberapa dari mereka mengalami apa yang dokter tambang sebut "kelelahan kenangan" — tubuh pulih, tetapi pikiran masih mengolah delapan belas tahun yang tertunda. Seorang petani berdiri di tepi ladangnya sendiri selama satu jam penuh tanpa masuk. Seorang perempuan bertanya berulang kali apakah suaminya benar-benar sudah tidak ada di dalam kedalaman — bukan karena ragu pada jawabannya, tetapi karena jiwanya belum selesai percaya.
 
 Dan Caldrest merespons dengan cara yang membuat Barim berkata: "Inilah bedanya kota yang sudah belajar dengan kota yang baru belajar": mereka tidak memaksa kesembuhan. Protokol penyesuaian ditulis dalam dua hari — bukan protokol medis, melainkan protokol KEMANUSIAAN: setiap pemulang diberi hak untuk diam. Diberi hak untuk menolak keramaian. Diberi hak untuk datang ke dapur aula tengah malam dan hanya duduk dekat nat Karveth-Ulm tanpa bicara dengan siapa pun.
 
@@ -33,7 +33,7 @@ Pertama: dari utara. Batu batas ladang yang diukir nama-nama keluarga ternyata m
 
 Kedua: dari Spire. Dewan Regional — yang bulan lalu mengakui the Patient House sebagai entitas berdaulat — mengirim surat permintaan formal: apakah metode "protokol musim" bisa diajarkan kepada wilayah-wilayah lain Karvess? Tujuh belas lokasi bencana tua, ribuan jiwa yang mungkin tersimpan, dan sebuah pengakuan resmi tertulis di bagian akhir surat yang oleh Ossian dibacakan dua kali karena tidak percaya:
 
-"Dewan Regional mengakui bahwa pendekatan Caldrest telah membuktikan bahwa yang dulu disebut anomali adalah penduduk. Kami meminta bimbingan. Ini kalimat yang sulit kami tulis, tapi menuliskannya lebih mudah daripada hidup dengan sejarah kami yang lama."
+"Dewan Regional mengakui bahwa pendekatan Caldrest telah membuktikan bahwa yang dulu disebut anomali adalah penduduk. Kami meminta bimbingan. Ini kalimat yang sulit kami tulis, tetapi menuliskannya lebih mudah daripada hidup dengan sejarah kami yang lama."
 
 Ashvarok meletakkan surat itu dan berkata kepada ruangan yang penuh tim inti:
 
@@ -45,7 +45,7 @@ Sela yang menjawab, dengan kapur sudah di tangan:
 
 ---
 
-Tapi bagian paling penting dari minggu itu tidak terjadi di rapat mana pun.
+Namun bagian paling penting dari minggu itu tidak terjadi di rapat mana pun.
 
 Ia terjadi di tepi ladang utara, sore hari, ketika seorang petani purba bernama Tarm — delapan belas tahun di dalam, mantan kepala kelompok penanam — duduk di samping anak perempuannya yang kini berumur lebih tua darinya. Mereka tidak bicara satu jam penuh. Hanya duduk. Kadang menunjuk burung. Kadang menunjuk awan yang bentuknya mirip gandum.
 
@@ -69,7 +69,7 @@ Hari 592. Pekan penyesuaian seratus: SELESAI.
 
 Yang berhasil: protokol penyesuaian (hak untuk diam), pekerjaan pertama sebelum percakapan pertama (pasal 13), dan batu batas yang ternyata pintu. Yang tidak sempurna: kelelahan kenangan itu nyata, beberapa pemulang masih butuh waktu, dan kita belajar bahwa kesembuhan tidak punya jadwal.
 
-Tapi yang membuatku menulis malam ini bukan itu semua.
+Namun yang membuatku menulis malam ini bukan itu semua.
 
 Yang membuatku menulis adalah Tarm dan anaknya, duduk di tepi ladang tanpa bicara satu jam penuh — dan tidak butuh bicara. Delapan bulan silam aku pikir misi terbesar hidupku adalah menyelamatkan dunia dari kedalaman. Lalu menjadi menyelamatkan kedalaman dari dunia. Sekarang aku tahu misi yang sesungguhnya, dan jauh lebih sederhana:
 
@@ -87,7 +87,7 @@ Vess-Morath menjawab dengan irama yang membuat seisi aula tertawa dan menangis b
 
 "Tetangga yang bagus harus rajin pinjam garam."
 
-Dan malam itu, untuk pertama kalinya, name train sore Caldrest dinyanyikan dari dua tempat sekaligus: murid akademi di ladang utara, dan — pertama kalinya dalam delapan belas tahun — seratus suara manusia yang menyanyi bersama mereka, bukan sebagai gema di dalam batu, tapi sebagai tetangga baru di tepi ladang gandum emas.
+Dan malam itu, untuk pertama kalinya, name train sore Caldrest dinyanyikan dari dua tempat sekaligus: murid akademi di ladang utara, dan — pertama kalinya dalam delapan belas tahun — seratus suara manusia yang menyanyi bersama mereka, bukan sebagai gema di dalam batu, tetapi sebagai tetangga baru di tepi ladang gandum emas.
 
 Kedalaman mendengarkan keduanya. Dan menambahkan satu nada penutup: kecil, hangat, miliknya sendiri.
 

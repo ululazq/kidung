@@ -25,7 +25,7 @@ Rapat panjang. Karena pertanyaannya bukan lagi "siapa yang boleh masuk" — mela
 
 Sareth Vayin, guru tua yang jarang bicara duluan, bicara duluan:
 
-"Dulu, saat ordo Penjaga Rekam masih ada, kami punya aturan: ilmu menjaga tidak boleh diajarkan ke orang yang belum pernah kehilangan." Ia memandang sekeliling. "Tapi lihat sekeliling kita. Di ruangan ini ada mantan penghuni kedalaman, anak tambang, dokter tambang, raja seribu tahun, dan aku yang kehilangan murid-muridku empat puluh tahun silam." Jeda. "Siapa di sini yang belum pernah kehilangan?"
+"Dulu, saat ordo Penjaga Rekam masih ada, kami punya aturan: ilmu menjaga tidak boleh diajarkan ke orang yang belum pernah kehilangan." Ia memandang sekeliling. "Namun lihat sekeliling kita. Di ruangan ini ada mantan penghuni kedalaman, anak tambang, dokter tambang, raja seribu tahun, dan aku yang kehilangan murid-muridku empat puluh tahun silam." Jeda. "Siapa di sini yang belum pernah kehilangan?"
 
 Sunyi.
 
@@ -49,7 +49,7 @@ Dan satu catatan penutup dari Renn sendiri — ditulis dengan huruf miringnya, d
 
 Kedatangan 31 murid luar mengubah ritme Caldrest — dan memunculkan hal-hal yang tidak ada di panduan mana pun:
 
-Bahasa. Sembilan wilayah berarti sembilan logat, tiga bahasa tulis berbeda, dan satu murid Vel-Morra yang menulis namanya dengan aksara yang harus dibaca Lompa pelan-pelan ("ini aksara tenun, Nak — tiap huruf itu pola; nenek moyang dia menenun surat, bukan nulis").
+Bahasa. Sembilan wilayah berarti sembilan logat, tiga bahasa tulis berbeda, dan satu murid Vel-Morra yang menulis namanya dengan aksara yang harus dibaca Lompa pelan-pelan ("ini aksara tenun, Nak — tiap huruf itu pola; nenek moyang dia menenun surat, bukan menulis").
 
 Makanan. Keluarga angkat sementara berebut menu apa yang paling cocok untuk murid mereka — dan dapur ibu Tamma berubah menjadi laboratorium kuliner sembilan budaya. Sup Kamp Pertama mendapat saudara: sup Aru (asam, laut), bubur Kaveth (manis, gandum), dan satu resep Vel-Morra yang bahan utamanya... akar nat kering.
 
@@ -75,7 +75,7 @@ Mereka membawa murid-murid luar keliling nat-nat kecil — dan meminta setiap mu
 
 Murid Aru menyanyikan nyanyian nelayan. Murid Kaveth membacakan syair gandum. Murid Vel-Morra meletakkan tenunan kecil di atas nat dan diam.
 
-Dan semua nat menjawab — masing-masing dalam iramanya sendiri, tapi semuanya hangat.
+Dan semua nat menjawab — masing-masing dalam iramanya sendiri, tetapi semuanya hangat.
 
 "Ini pelajaran pertama," kata Ashvarok kepada para murid. "Tidak ada bahasa yang salah untuk menyapa. Yang salah hanya satu: tidak menyapa sama sekali."
 
@@ -168,7 +168,7 @@ Ashvarok menambahkan dari dalam, dan Renn mengulang dengan nada lain:
 
 Keesokan paginya, sebelum kelas dimulai, gadis Vel-Morra menemukan sesuatu di mejanya:
 
-Tenunan kecil — pola sederhana, benang belum sempurna rapi, tapi aksara tenunnya jelas dibaca Lompa untuknya di depan seluruh kelas:
+Tenunan kecil — pola sederhana, benang belum sempurna rapi, tetapi aksara tenunnya jelas dibaca Lompa untuknya di depan seluruh kelas:
 
 "KAMU SUDAH LAYAK. KAMU SELALU SUDAH.
 

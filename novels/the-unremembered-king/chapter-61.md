@@ -41,7 +41,7 @@ Daftar kedua ia beri judul tanpa kata-kata. Cukup satu tanda hubung, lalu:
 
 Jam sebelas, hari ketujuh puluh delapan. Ada suara. Bukan bunyi. Arah: dasar timur, bawah. Sasaran: tidak diketahui.
 
-Ia menatap baris itu lama, dan yang dilihatnya bukan tulisannya sendiri melainkan dua wajah dari setahun yang lalu. Wajah para regu di persimpangan utama ketika alatnya gagal membaca furnace boy untuk pertama kali — senyum-senyum kecil di sudut bibir, sopan, mematikan. Alat rusak lagi. Dan wajah pejabat Ossian Vael di ruang tamu meja bular ketika izin mengujinya dipangkas menjadi izin mengamati — kasihan yang dijahit rapi.
+Ia menatap baris itu lama, dan yang dilihatnya bukan tulisannya sendiri melainkan dua wajah dari setahun yang lalu. Wajah para regu di persimpangan utama ketika alatnya gagal membaca furnace boy untuk pertama kali — senyum-senyum kecil di sudut bibir, sopan, mematikan. Alat rusak lagi. Dan wajah pejabat Ossian Vael di ruang tamu meja bundar ketika izin mengujinya dipangkas menjadi izin mengamati — kasihan yang dijahit rapi.
 
 Melapor berarti memilih salah satu dari dua hal itu. Melapor dengan bukti tidak ada — karena apa buktinya? Telinga? — berarti menjadi lelucon resmi kota tambang, Shift Guard yang mendengar suara dari batu mati. Dan melapor dan benar, itu pun tidak lebih baik, karena kalau benar, maka fakta itu menjadi milik Ossian Vael, dan Kovan kembali menjadi alat — alat yang kebetulan sekali menghasilkan.
 
@@ -51,7 +51,7 @@ Ia menambahkan satu baris di daftar kedua — lempeng cadangan, tidak tercatat. 
 
 Kertas itu dilipat empat dan disembunyikan di sambungan meja, di bawah lembaran draf laporan kosong yang memang seharusnya ada di sana. Sebelum memadamkan lampu, ia membaca ulang kedua daftar itu dari atas ke bawah, tiga kali, dengan cara orang memeriksa perhitungan yang akan menentukan gaji orang lain.
 
-Daftar pertama aman. Daftar pertama harus tetap aman — itulah sarung tangannya di hadapan Quota Office, dan sarung tangan tidak boleh bocor lebih dulu daripada tangannya. Tapi untuk pertama kalinya ia melihat kedua daftar itu bukan sebagai satu dokumen yang terbelah, melainkan sebagai dua alat. Satu untuk dilaporkan kepada orang-orang yang membayar, satu untuk dipakai sendiri. Setahun penuh ia hanya punya satu daftar. Orang yang hanya punya satu daftar tidak sedang menyelidiki apa pun; orang itu sedang dilaporkan.
+Daftar pertama aman. Daftar pertama harus tetap aman — itulah sarung tangannya di hadapan Quota Office, dan sarung tangan tidak boleh bocor lebih dulu daripada tangannya. Namun untuk pertama kalinya ia melihat kedua daftar itu bukan sebagai satu dokumen yang terbelah, melainkan sebagai dua alat. Satu untuk dilaporkan kepada orang-orang yang membayar, satu untuk dipakai sendiri. Setahun penuh ia hanya punya satu daftar. Orang yang hanya punya satu daftar tidak sedang menyelidiki apa pun; orang itu sedang dilaporkan.
 
 Ia memikirkan bocah lorong tujuh. Uji pribadi yang ia janjikan pada dirinya sendiri masih tertunda, digeser oleh karantina, oleh surat perintah, oleh hari-hari yang selalu punya alasan prosedural. Malam ini rencana itu mendapat teman. Bukan lagi hanya kapan ia menguji bocah itu, melainkan apa yang harus diukur lebih dulu supaya uji itu berarti. Kalau ada suara di dasar timur, maka bocah itu, regu itu, seluruh barak the Quiet Vein adalah lingkaran pertama di sekeliling sumbernya — dan lingkaran pertama selalu tahu sesuatu yang tidak diketahui lingkaran kedua.
 
@@ -69,7 +69,7 @@ Kovan berdiri di ambangnya beberapa lama, tidak masuk — belum — dan melakuka
 
 Ia menghitung langkah.
 
-Dari garis karantina ke ambang, enam puluh satu langkah reguler, terukur tiga kali dengan panjang injak yang ia normalkan dulu di koridor datar. Dari ambang, menuruti denah reklasifikasi yang digantung di papan Quota Office — denah yang kini sah dan bisa dibaca siapa pun — ruangannya delapan banding tiga, dan titik yang ia tadapi kemarin berada di dasar timur. Ia menyalin denah itu ke buku catatannya dengan skala yang konsisten, menandai posisi dirinya kemarin dengan tanda silang kecil, dan menghitung sudutnya. Kira-kira empat puluh langkah dari ambang, timur-turun.
+Dari garis karantina ke ambang, enam puluh satu langkah reguler, terukur tiga kali dengan panjang injak yang ia normalkan dulu di koridor datar. Dari ambang, menuruti denah reklasifikasi yang digantung di papan Quota Office — denah yang kini sah dan bisa dibaca siapa pun — ruangannya delapan banding tiga, dan titik yang ia sadapi kemarin berada di dasar timur. Ia menyalin denah itu ke buku catatannya dengan skala yang konsisten, menandai posisi dirinya kemarin dengan tanda silang kecil, dan menghitung sudutnya. Kira-kira empat puluh langkah dari ambang, timur-turun.
 
 Angka-angka itu tidak menjelaskan apa pun. Angka-angka itu hanya ada, bulat dan sabar, dan itulah bedanya dengan ketakutan. Ketakutan berteriak, angka menunggu.
 

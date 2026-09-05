@@ -5,7 +5,7 @@ chapter: 121
 
 Kereta pos Guild meninggalkan lembah tengah sebelum fajar dan mencapai pelataran Anthema Spire ketika menara itu baru setengah keluar dari awan pagi. Ossian Vael turun dengan tas kulit yang isinya dapat ia sebutkan satu per satu tanpa melihat, kebiasaan seorang pejabat yang tahu bahwa pada hari seperti ini setiap barang di tasnya dapat menjadi barang bukti. Di dalam tas itu ada salinan laporan auditor, salinan perjanjian gencatan senjatanya yang tidak akan ia tunjukkan kepada siapa pun, dan satu lembar kertas berisi tiga kalimat pembelaan yang ia hafal luar kepala meski tetap dibawa dalam bentuk tulisan.
 
-Surat panggilan Dewan Regional tiba di Caldrest empat hari sebelumnya, ditulis dalam bahasa administratif yang sopan dan sengaja kosong. Perkara tidak disebut. Tanggal dan jam disebut dua kali. Orang yang menyusunnya ingin penerima tiba dengan tangan kosong dan pikiran yang mulai bekerja terlambat. Ossian menyiapkan jawabannya pada malam yang sama, karena bagi orang yang hidup dari prosedur, panggilan tanpa perkara bukanlah kejutan, melainkan pengumuman bahwa perkara itu sudah diputuskan di tempat lain dan kini tinggal dipentaskan.
+Surat panggilan Dewan Regional tiba di Caldrest empat hari sebelumnya, ditulis dalam bahasa administratif yang sopan dan sengaja kosong. Perkara tidak disebut. Tanggal dan jam disebut dua kali. Orang yang menyusunnya ingin penerima tiba dengan tangan kosong dan pikiran yang mulai bekerja terlambat. Ossian menyiapkan jawabannya pada malam yang sama, karena bagi orang yang hidup dari prosedur, panggilan tanpa perkara bukanlah kejutan — melainkan pengumuman bahwa perkara itu sudah diputuskan di tempat lain dan kini tinggal dipentaskan.
 
 Ruang sidang Dewan berada di lantai empat puluh dua, dua lantai di atas biro yang mempekerjakannya, dan bentuknya bukan aula melainkan lingkaran. Sebelas kursi tinggi tersusun mengelilingi meja cincin dari kayu gelap. Sepuluh kursi terisi. Tidak ada papan nama di sandaran mana pun, tidak ada wajah yang dikenalinya, dan para anggota tidak memperkenalkan diri. Selama sidang berlangsung mereka hanyalah suara-suara yang disebut menurut nomor kursi, dan sebuah notulis muda duduk di ceruk dinding dengan pena yang bergerak lebih cepat daripada percakapan mana pun yang pernah didengar Ossian di lantai-lantai bawah.
 
@@ -15,7 +15,7 @@ Satu kalimat itu cukup untuk memberitahunya bahwa kabar tentang map yang terbuka
 
 "Pekan lalu," kata suara kursi pertama, "sebuah map riset berkop biro Anda disita dari meja distribusi arsip lantai tiga puluh delapan. Isinya permintaan pencatatan tentang lima panglima era Long Dusk, lengkap dengan jalur verifikasi ke tiga bandar. Map itu ditemukan dalam keadaan terbuka. Segelnya dipotong rapi. Pemotongnya tidak bersembunyi. Ia menandatangani tindakannya dengan stempel jabatan, dan jabatan tersebut adalah Pembaca Tua."
 
-Di ruangan itu tidak ada satu pun kursi yang bergerak. Ossian memahami keheningan itu dengan benar. Pembaca Tua adalah nama jabatan yang semua pegawai lantai arsip tahu dan tidak pernah dilampirkan kepada wajah mana pun. Identitas pemegangnya dirahasiakan bahkan dari Dewan, dan itulah yang membuat kursi-kursi di sekelilingnya diam dengan sikap orang yang menyadari bahwa rumah mereka memiliki kamar yang tidak pernah mereka lihat kuncinya.
+Di ruangan itu tidak ada satu pun kursi yang bergerak. Ossian memahami keheningan itu dengan benar. Pembaca Tua adalah nama jabatan yang semua pegawai lantai arsip tahu dan tidak pernah dilampirkan kepada wajah mana pun. Identitas pemegangnya dirahasiakan bahkan dari Dewan — dan itulah yang membuat kursi-kursi di sekelilingnya diam dengan sikap orang yang menyadari bahwa rumah mereka memiliki kamar yang tidak pernah mereka lihat kuncinya.
 
 "Notaris akan membacakan surat keberatan," kata kursi pertama. "Tuan Vael, Anda akan mendapat giliran setelahnya."
 
@@ -51,11 +51,11 @@ Kata penjagaan tidak masuk ke dalam salah satu butir pun. Ossian mencatat absenn
 
 Kamarnya di lantai empat puluh menerima dirinya dengan gelap yang biasa. Ia menyalakan lampu meja, meletakkan salinan berita acara di atas meja, dan memeriksa lilin pada salinan surat keberatan yang ditempelkan padanya sebagai bagian dari dokumen. Lilin itu putih-abu. Tin threadnya dijalin rapi di tepi. Bentuknya sama persis dengan segel map risetnya sendiri yang dipotong rapi di meja distribusi, sama persis dengan lilin-lilin sitaan yang dulu ia kenal sampai hafal di Caldrest.
 
-Satu tangan memotong mapnya. Satu tangan menandatangani keberatan atas isi map itu. Dan kedua tangan itu tidak perlu berpapasan di lorong mana pun, sebab keduanya milik jabatan yang sama.
+Satu tangan memotong mapnya. Satu tangan menandatangani keberatan atas isi map itu. Dan kedua tangan itu tidak perlu berpapasan di lorong mana pun — sebab keduanya milik jabatan yang sama.
 
 Ia membuka buku pribadinya dan menulis fakta demi fakta dengan huruf tegak kecil. Tanggal sidang. Nomor-nomor butir putusan. Warna lilin. Usia kalimat-kalimat surat keberatan yang terasa lebih tua daripada perkara yang dikutipnya. Pada baris terakhir, setelah semua fakta selesai, ia menulis satu kalimat yang tidak akan ia bacakan di ruangan mana pun.
 
-"Dewan memberiku gembok dan menolak menyebutku penjaga. Pembaca Tua meminta dunia menutup mata dan menyebutnya doktrin. Keduanya berdebat tentang kuburan, dan tidak satupun dari mereka mau mengakui bahwa yang dikuburkan di sana belum tentu mati."
+> Dewan memberiku gembok dan menolak menyebutku penjaga. Pembaca Tua meminta dunia menutup mata dan menyebutnya doktrin. Keduanya berdebat tentang kuburan, dan tidak satu pun dari mereka mau mengakui bahwa yang dikuburkan di sana belum tentu mati.
 
 Ia menutup buku itu, lalu mengambil lembar kosong dan mulai menyusun pekerjaan pertama mandat barunya. Daftar pintu bawah tanah segmen Caldrest, urutan penguncian, estimasi waktu tiap pintu sampai gemboknya terpasang. Lorong B di Caldrest ia tulis paling atas, dengan garis di sampingnya, karena pintu-pintu tua selalu paling jujur tentang siapa yang biasa lewat.
 

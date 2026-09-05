@@ -37,7 +37,7 @@ Sela membaca surat itu tiga kali di ruang arsip, dengan Ashvarok-Renn di kursi s
 
 "Ini permintaan besar," kata Ashvarok-Renn akhirnya. "Membacakan arsip internal Choir di aula publik. Secte itu sendiri belum tentu siap."
 
-"Secte itu," kata Sela, "baru saja merevisi doktrin seribu tahunnya menjadi api dunia harus didengar. Kalau ada waktu untuk membaca arsip lama mereka di depan umum, waktunya sekarang — saat revisinya masih hangat dan semua orang masih ingat kenapa ia direvisi." Ia menata gulungan-gulungan salinan biara barat di mejanya. "Tapi aku tidak akan memutuskan sendirian. Aturan dapur."
+"Secte itu," kata Sela, "baru saja merevisi doktrin seribu tahunnya menjadi api dunia harus didengar. Kalau ada waktu untuk membaca arsip lama mereka di depan umum, waktunya sekarang — saat revisinya masih hangat dan semua orang masih ingat kenapa ia direvisi." Ia menata gulungan-gulungan salinan biara barat di mejanya. "Namun aku tidak akan memutuskan sendirian. Aturan dapur."
 
 Rapat dapur yang dimaksud digelar sore itu, dan keputusannya keluar dalam waktu rekor: undangan pembacaan akan dikirim kepada Anthema Spire, kepada Dewan, dan — usulan ibu Tamma yang langsung disetujui semua orang — kepada murid-murid dua belas cabang Sekolah Mendengar, "karena anak-anak berhak jadi saksi pertama sejarah yang jujur".
 
@@ -45,7 +45,7 @@ Rapat dapur yang dimaksud digelar sore itu, dan keputusannya keluar dalam waktu 
 
 Tiga hari kemudian, kurir nat tertua itu datang sekali lagi.
 
-Kali ini bukan membawa surat. Ia membawa balasan dari biara barat — tulisan tangan laki-laki tua itu, goyah tapi tegas:
+Kali ini bukan membawa surat. Ia membawa balasan dari biara barat — tulisan tangan laki-laki tua itu, goyah tetapi tegas:
 
 *Keputusan Nona Arsiparis benar. Jadikan pembacaan itu warisan bersama: arsipku dibacakan Caldrest, arsipmu dibacakan dunia.*
 
@@ -55,12 +55,12 @@ Kali ini bukan membawa surat. Ia membawa balasan dari biara barat — tulisan ta
 
 *Aku mau didengarkan juga, kalian tahu. Semua penjaga diam pada akhirnya hanya ingin itu.*
 
-Sela menyimpan surat itu di kotak arsip peribadi — kotak yang isinya kini bertambah satu dokumen setiap kali dunia berubah, dan mulai menyerupai apa yang oleh ibu Tamma disebut "arsip hati": tidak dirender situs, tidak masuk statistik, tapi isinya yang paling jujur dari semuanya.
+Sela menyimpan surat itu di kotak arsip pribadi — kotak yang isinya kini bertambah satu dokumen setiap kali dunia berubah, dan mulai menyerupai apa yang oleh ibu Tamma disebut "arsip hati": tidak dipajang situs, tidak masuk statistik, tetapi isinya yang paling jujur dari semuanya.
 ---
 
 Pembacaan arsip Choir dijadwalkan tiga pekan kemudian, dan persiapannya menghabiskan seluruh energi ruang arsip barak utara.
 
-Gulungan demi gulungan disalin, diterjemahkan dari kode birokrasi era lama ke bahasa yang bisa didengar orang biasa, diurutkan bukan menurut tanggal tapi menurut keberanian yang dibutuhkan pendengar — urutan yang disusun Sela dengan prinsip baru: paling ringan dulu, paling berat di tengah, dan di akhir, halaman-halaman yang membuat secte lamanya menangis.
+Gulungan demi gulungan disalin, diterjemahkan dari kode birokrasi era lama ke bahasa yang bisa didengar orang biasa, diurutkan bukan menurut tanggal tetapi menurut keberanian yang dibutuhkan pendengar — urutan yang disusun Sela dengan prinsip baru: paling ringan dulu, paling berat di tengah, dan di akhir, halaman-halaman yang membuat secte lamanya menangis.
 
 Halaman-halaman itu ada. Sela sudah membacanya sendirian pada malam-malam penyalinan, dan beberapa kali harus berhenti, keluar ke lorong, bernapas, lalu kembali.
 
@@ -95,7 +95,7 @@ Malam sebelum pembacaan, satu pengunjung tak terduga datang ke barak utara: kuri
 
 Laki-laki tua itu sakit.
 
-Bukan sakit yang datang mendadak — sakit yang sudah lama menunggu kesempatan, dan baru mengambil kesempatannya setelah pemiliknya selesai menyelesaikan semua pekerjaan. Ia masih bisa duduk, masih bisa menulis, tapi dokter biara — satu-satunya dokter dalam radius dua hari jalan — sudah menyebut angka-angka yang tidak boleh disebut di depan pasien.
+Bukan sakit yang datang mendadak — sakit yang sudah lama menunggu kesempatan, dan baru mengambil kesempatannya setelah pemiliknya selesai menyelesaikan semua pekerjaan. Ia masih bisa duduk, masih bisa menulis, tetapi dokter biara — satu-satunya dokter dalam radius dua hari jalan — sudah menyebut angka-angka yang tidak boleh disebut di depan pasien.
 
 "IA MINTA PESANNYA DISAMPAIKAN BEGINI," kata kurir nat itu, memutar irama aslinya persis:
 
@@ -114,7 +114,7 @@ Di bawahnya, tulisan tangan kedua, lebih muda:
 *Dan kolom kedua itu yang lebih awet. Tanya saja nat-nat.*
 ---
 
-Hari-hari menuju pembacaan berjalan dengan ritme yang oleh Sela dicatat sebagai "sibuk tapi tenang" — kombinasi yang jarang, dan selalu tanda sebuah peristiwa disiapkan dengan benar.
+Hari-hari menuju pembacaan berjalan dengan ritme yang oleh Sela dicatat sebagai "sibuk tetapi tenang" — kombinasi yang jarang, dan selalu tanda sebuah peristiwa disiapkan dengan benar.
 
 Gulungan-gulungan selesai disalin pada hari kesembilan. Diterjemahkan penuh pada kesebelas. Diuji baca keras-keras — dengan ibu Tamma sebagai pendengar uji, karena "kalau aku tidak mengerti, orang pasar juga tidak" — pada hari ketiga belas.
 
@@ -136,7 +136,7 @@ Maka undangan terakhir dikirim subuh itu — satu halaman, tanpa protokol, ditul
 
 *Kepada para penjaga biara barat dan seluruh anggota Choir yang masih bernafas:*
 
-*Malam ini arsip kalian akan dibacakan oleh tangan saya, yang bukan milik kalian. Tapi sebelum saya mulai, aula ini milik kalian dulu. Siapa pun dari kalian yang mau naik, boleh membacakan sendiri halaman mana pun — yang membuat bangga atau yang membuat malu, sama sahnya.*
+*Malam ini arsip kalian akan dibacakan oleh tangan saya, yang bukan milik kalian. Namun sebelum saya mulai, aula ini milik kalian dulu. Siapa pun dari kalian yang mau naik, boleh membacakan sendiri halaman mana pun — yang membuat bangga atau yang membuat malu, sama sahnya.*
 
 *Kalian didengarkan dulu. Baru kemudian dibacakan.*
 
@@ -157,7 +157,7 @@ Percakapan penyelesaian akhirnya, kata saksi dapur, hanya dua kalimat:
 
 "Kalau kau tidak terima, aku mati berutang."
 
-"Kalau begitu aku terima — tapi uang ini jadi tabungan supmu. Kau boleh minum gratis kalau mau naik ke sini lagi."
+"Kalau begitu aku terima — tetapi uang ini jadi tabungan supmu. Kau boleh minum gratis kalau mau naik ke sini lagi."
 
 Laki-laki tua itu tertawa pendek pertama dan terakhir kalinya di Caldrest, mengangguk, dan pergi.
 

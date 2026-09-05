@@ -9,7 +9,7 @@ Cahaya fajar menyentuh benang-benang itu, membuatnya bersinar pelan seperti sara
 
 Kovan mencatat di peta: *Barak memegang six of the Seven (5 napas hidup + 1 tanah the Hollow). The Wanes memegang the Unclaimed Knot tanpa kunci. Pintu dunia tertidur selama napas lari.*
 
-Di rawa utara, dua belas anak barak masih duduk di tepi danau garam, main kelereng bersama anak-anak desa. Murid Ossian di perahu melihat cap tujuh garis the Wanes kini di enam desa, menghitung napas dua orang tiap fajar. "Mereka makin presisi," bisiknya pada kain tenun. "Tapi masih mencari yang salah. Mereka mengukur napas orang, padahal kunci keempat tidur di pondok terapung, bukan di badan yang mereka pegang."
+Di rawa utara, dua belas anak barak masih duduk di tepi danau garam, main kelereng bersama anak-anak desa. Murid Ossian di perahu melihat cap tujuh garis the Wanes kini di enam desa, menghitung napas dua orang tiap fajar. "Mereka makin presisi," bisiknya pada kain tenun. "Namun masih mencari yang salah. Mereka mengukur napas orang, padahal kunci keempat tidur di pondok terapung, bukan di badan yang mereka pegang."
 
 Sela berdiri di serambi memegang papan napas. "Berarti jendela kita tinggal hari," katanya. "Bila mereka paham napas pendek adalah kunci, yang tersisa hanya the Ground — tanah yang tidak bisa mereka cabut dengan sekop."
 
@@ -25,9 +25,9 @@ Di barak, Kovan menatap peta benang emas yang kini menyambung enam titik. "Enam 
 
 "Dan kita?" tanya Sela.
 
-"Kita memegang dunia yang tertidur." Kovan menunjuk satu titik abu-abu di utara, dikelilingi cap tujuh garis. "Satu-satunya yang belum aman adalah the Unclaimed Stone itu. Tapi batu tanpa kunci tidak lebih berbahaya daripada batu biasa. Selama mereka tidak pernah tahu cara memutarnya, pintu tidak akan terbuka."
+"Kita memegang dunia yang tertidur." Kovan menunjuk satu titik abu-abu di utara, dikelilingi cap tujuh garis. "Satu-satunya yang belum aman adalah the Unclaimed Stone itu. Namun batu tanpa kunci tidak lebih berbahaya daripada batu biasa. Selama mereka tidak pernah tahu cara memutarnya, pintu tidak akan terbuka."
 
-Di the Hollow, Ossian melihat the Wanes menggali bukit keempat dengan sekop kasar sebelum mereka menyerah dan pergi. "Mereka percaya kunci dikubur," bisiknya pada kain. "Tapi the Ground Stone berdenyut tanpa napas. Yang mereka gali hanya tanah biasa." Ia menahan diri untuk tidak tersenyum — delapan belas tahun barak tahu kunci napas tidak pernah dikubur.
+Di the Hollow, Ossian melihat the Wanes menggali bukit keempat dengan sekop kasar sebelum mereka menyerah dan pergi. "Mereka percaya kunci dikubur," bisiknya pada kain. "Namun the Ground Stone berdenyut tanpa napas. Yang mereka gali hanya tanah biasa." Ia menahan diri untuk tidak tersenyum — delapan belas tahun barak tahu kunci napas tidak pernah dikubur.
 
 Fajar berikutnya, Ossian berjalan pulang ke utara. Sebelum meninggalkan lereng, ia menoleh sekali ke arah cekungan, memastikan batu kecil penandanya masih duduk di sela the Ground Stone. Masih ada. Ia membalikkan tubuhnya dan mulai berjalan, sepuluh fajar di depan.
 
@@ -35,7 +35,7 @@ Di barak, Brannoc melatih tiga anak angkatan keempat di halaman, memukul papan k
 
 "Bagaimana kalau musuh sudah belajar ketukan kami?" tanya anak paling kecil.
 
-"Mereka belum." Brannoc menurunkan papan itu. "Dan bila mereka belajar, kita akan mengajarkan yang baru. Selisih delapan belas tahun bukan soal siapa yang lebih cepat belajar, tapi siapa yang lebih dulu tahu bahwa ada sesuatu untuk dipelajari."
+"Mereka belum." Brannoc menurunkan papan itu. "Dan bila mereka belajar, kita akan mengajarkan yang baru. Selisih delapan belas tahun bukan soal siapa yang lebih cepat belajar, tetapi siapa yang lebih dulu tahu bahwa ada sesuatu untuk dipelajari."
 
 Di celah menara, perawat tua duduk di ambang, menyisir benang pertama dengan jari yang keriput. Pengrajin lonceng naik dari celah bawah membawa dua cangkir air hangat. "Delapan belas tahun kita menjaga ambang ini," kata perawat tua. "Dan baru sekarang aku tahu kau adalah kunci yang kedua."
 
@@ -59,11 +59,11 @@ Malam itu, Ashvarok-Renn berdiri di menara menatap ke utara lalu selatan. "Enam 
 
 Mira menutup buku catatannya. "Enam napas kecil dan satu tanah yang tidak tahu mereka menjaga dunia," bisiknya. "Pagar terbaik adalah yang tidak merasa dipagar."
 
-Kovan menatap peta benang emas. "Bila the Ground tertutup," katanya pada Ashvarok-Renn, "kita hanya perlu mengawasi the Unclaimed di tangan the Wanes. Batu itu tidak berarti. Tapi bila mereka memahami napas pendek, mereka bisa belajar mencari sisa napas."
+Kovan menatap peta benang emas. "Bila the Ground tertutup," katanya pada Ashvarok-Renn, "kita hanya perlu mengawasi the Unclaimed di tangan the Wanes. Batu itu tidak berarti. Namun bila mereka memahami napas pendek, mereka bisa belajar mencari sisa napas."
 
 "Karena itu kita menjaga jarak," jawab Ashvarok-Renn. "Bukan memutus mereka. Semakin jauh mereka dari kunci yang hidup, semakin lama mereka berputar di sekitar kunci yang mati."
 
-Di celah bawah, pengrajin lonceng memilin benang terakhir di jarinya, tahu bahwa esok fajar, bila the Ground dipastikan aman, ia akan membunyikan lonceng sekali — bukan untuk memanggil yang hilang, tapi untuk menutup pintu dunia selamanya.
+Di celah bawah, pengrajin lonceng memilin benang terakhir di jarinya, tahu bahwa esok fajar, bila the Ground dipastikan aman, ia akan membunyikan lonceng sekali — bukan untuk memanggil yang hilang, tetapi untuk menutup pintu dunia selamanya.
 
 Kovan membuka gulungan peta dan menjelaskan pada Brannoc bagaimana benang emas menyambung enam titik. "Ini bukan peta tanah," katanya. "Ini peta napas. Di mana benang emas berdenyut, di situ dunia masih tertidur. Bila suatu titik berhenti berdenyut, kita tahu kunci di tempat itu telah berpindah — atau telah dicabut."
 
@@ -83,10 +83,10 @@ Di utara, the Seeker berdiri di tepi danau garam, menatap buku catatan kasarnya.
 
 Di barak, Sela menulis di papan sisi: *World-state: Barak memegang six of the Seven napas. Sisa: the Unclaimed di tangan the Wanes tanpa kunci. Pintu dunia tertidur. Langkah berikut: pastikan mereka tidak pernah tahu bahwa yang mereka pegang hanyalah batu.*
 
-Sela membimbing tiga anak angkatan keempat cara meletakkan jari di pergelangan dan menghitung napas di dalam hati. "Napas the Survivor setengah hitungan lebih pendek di subuh," katanya. "Kalian bukan untuk mencurigai, tapi untuk memastikan kunci tetap hidup. Bila suatu hari kalian merasakan napas yang berbeda, kalian catat, kalian laporkan, kalian tidak bertindak sendiri. Mata tidak menangkap — mata hanya melihat."
+Sela membimbing tiga anak angkatan keempat cara meletakkan jari di pergelangan dan menghitung napas di dalam hati. "Napas the Survivor setengah hitungan lebih pendek di subuh," katanya. "Kalian bukan untuk mencurigai, tetapi untuk memastikan kunci tetap hidup. Bila suatu hari kalian merasakan napas yang berbeda, kalian catat, kalian laporkan, kalian tidak bertindak sendiri. Mata tidak menangkap — mata hanya melihat."
 
 Di celah bawah, perawat tua bercerita pada pengrajin lonceng tentang ibu Tamma yang delapan belas tahun lalu menyerahkan benang pertama. "Ia bilang lagu ini yang akan menjaga pintu," kata perawat tua. "Dan kini lagu itu selesai."
 
 "Lagu ini tidak akan pernah selesai," jawab pengrajin lonceng. "Ia hanya berubah bentuk. Dari benang ke lonceng, dari lonceng ke napas, dari napas ke cerita yang diceritakan kembali."
 
-Ashvarok-Renn menutup bible dan menulis baris terakhir: *Batch 4 hampir selesai: six of the Seven di tangan (5 napas + 1 tanah). Jendela menutup bila mereka memahami napas pendek. Kita lebih dulu — bukan karena kita lebih cepat, tapi karena kita tahu apa yang kita jaga.*
+Ashvarok-Renn menutup bible dan menulis baris terakhir: *Batch 4 hampir selesai: six of the Seven di tangan (5 napas + 1 tanah). Jendela menutup bila mereka memahami napas pendek. Kita lebih dulu — bukan karena kita lebih cepat, tetapi karena kita tahu apa yang kita jaga.*

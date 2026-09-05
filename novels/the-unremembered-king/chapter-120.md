@@ -3,7 +3,7 @@ title: "Bab 120: Melewati Angka Terendah"
 chapter: 120
 ---
 
-Pagi hari keseratus tujuh puluh dimulai di dapur barak blok timur dengan cara yang sama seperti sembilan hari sebelumnya dan tidak seperti hari-hari mana pun dalam seribu tahun terakhir, yaitu dengan seseorang menceritakan Renn kepada orang lain sambil menyiapkan sarapan.
+Pagi hari keseratus tujuh puluh dimulai di dapur barak blok timur dengan cara yang sama seperti sembilan hari sebelumnya dan tidak seperti hari-hari mana pun dalam seribu tahun terakhir — yaitu dengan seseorang menceritakan Renn kepada orang lain sambil menyiapkan sarapan.
 
 Pencerita pagi itu adalah Ondar, dan pendengarnya dua penambang muda galeri sebelas serta satu anak sekolah klinik yang datang lebih awal. Ceritanya bukan legenda besar tentang lubang yang menangis atau retakan yang bisa dilihat dari permukaan. Ceritanya kecil, jujur, dan bertanggal, tentang malam ketika lorong troli timur menelan empat orang dan satu kuli ventilasi masuk sendirian lalu keluar paling akhir.
 
@@ -11,15 +11,15 @@ Pencerita pagi itu adalah Ondar, dan pendengarnya dua penambang muda galeri sebe
 
 "Lalu tunggul itu," tanya anak sekolah itu. "Batunya, Om. Kata orang-orang batunya lahir malam itu."
 
-"Iya." Ondar mengangguk dengan wajah serius orang yang membicarakan kerabat. "The Stone of Four Returns, begitu regu menyebutnya sekarang. Bukan nama resmi, belum. Tapi tiap kali kami lewat lorong itu, yang muda-muda menyebut begitu, dan batunya diam sopan, seperti orang yang mendengar namanya dipanggil tapi belum mau menjawab karena belum yakin itu namanya."
+"Iya." Ondar mengangguk dengan wajah serius orang yang membicarakan kerabat. "The Stone of Four Returns, begitu regu menyebutnya sekarang. Bukan nama resmi, belum. Namun tiap kali kami lewat lorong itu, yang muda-muda menyebut begitu, dan batunya diam sopan, seperti orang yang mendengar namanya dipanggil tetapi belum mau menjawab karena belum yakin itu namanya."
 
 Ashvarok, yang sedang mencuci mangkuk di bak sebelahnya dengan identitas pinjaman yang sedang diceritakan, membiarkan tangannya tetap bergerak pada kecepatan yang benar untuk orang yang tidak mendengarkan. The Stone of Four Returns. Empat suku kata yang tumbuh sendiri dari mulut regu yang pulang, persis seperti prinsip yang ia tulis di margin kertasnya sepuluh hari lalu. Nama itu bahkan belum ditenun oleh siapa pun, dan tunggul di lorong troli timur sudah mendengarnya berkali-kali dari para pejalan. Saat yang tepat untuk penenaian akan datang nanti, dari tangan yang berhak, dan ia hanya perlu hadir sebagai salah satu telinga.
 
 "Cerita kamu naik terus panjangnya, Ondar," kata ibu Tamma dari meja panjang, tanpa menoleh dari daftar absennya. "Seminggu lagi batunya sudah punya silsilah."
 
-"Bukan silsilah, Bu. Catatan." Ondar menatahkan sendoknya ke pinggil mangkuk. "Bedanya, silsilah bisa ditambah-tambah. Catatan tidak boleh."
+"Bukan silsilah, Bu. Catatan." Ondar menatahkan sendoknya ke pinggir mangkuk. "Bedanya, silsilah bisa ditambah-tambah. Catatan tidak boleh."
 
-Kalimat itu membuat sesuatu di dada Ashvarok hangat dengan cara yang tidak ada hubungannya dengan tungku dapur, dan ia mencatat sensasi itu juga, karena hangat seperti ini ternyata punya sumber yang bisa dilacak, yaitu orang-orang yang menolak memalsukan cerita tentang dirinya meskipun memperbesarnya sedikit demi sedikit setiap pagi.
+Kalimat itu membuat sesuatu di dada Ashvarok hangat dengan cara yang tidak ada hubungannya dengan tungku dapur, dan ia mencatat sensasi itu juga, karena hangat seperti ini ternyata punya sumber yang bisa dilacak — yaitu orang-orang yang menolak memalsukan cerita tentang dirinya meskipun memperbesarnya sedikit demi sedikit setiap pagi.
 
 ---
 
@@ -51,7 +51,7 @@ Angka itu sudah ia hafal sepuluh hari. Angka pembandingnya juga. Sejak penyegela
 
 Untuk pertama kalinya sejak lima panglima jatuh satu per satu menahan retakan pertama, ia memiliki lebih banyak diri daripada yang ia miliki pada malam terburuk zaman lamanya.
 
-Dunia memang memberikan buktinya sendiri, dan bukti itu bukan angka. Warna lorong lebih padat dari minggu lalu, kuning lampu-lampu jauh kembali ke kuning yang punya berat, bunyi tetesan air di ujung kanal terdengar utuh lagi alih-alih bergema tipis. Dan ada satu bukti lagi yang lebih sulit diucapkan, yaitu bahwa ia sedikit kurang takut pada hal-hal kecil. Nama-nama orang di sekitarnya terasa lebih mudah dipegang, wajah-wajah barak lebih sulit melorot dari ingatan, dan godaan lama yang biasa berbisik dari sudut, bisikan bahwa dikenal adalah pintu menuju pengulangan yang dulu memusnahkan segalanya, malam ini bersuara lebih pelan dari biasanya.
+Dunia memang memberikan buktinya sendiri, dan bukti itu bukan angka. Warna lorong lebih padat dari minggu lalu, kuning lampu-lampu jauh kembali ke kuning yang punya berat, bunyi tetesan air di ujung kanal terdengar utuh lagi alih-alih bergema tipis. Dan ada satu bukti lagi yang lebih sulit diucapkan — yaitu bahwa ia sedikit kurang takut pada hal-hal kecil. Nama-nama orang di sekitarnya terasa lebih mudah dipegang, wajah-wajah barak lebih sulit melorot dari ingatan, dan godaan lama yang biasa berbisik dari sudut, bisikan bahwa dikenal adalah pintu menuju pengulangan yang dulu memusnahkan segalanya, malam ini bersuara lebih pelan dari biasanya.
 
 Lapar itu masih ada. Ia tahu lapar itu tidak akan pernah benar-benar pergi, dan ia sudah belajar tidak membohongi dirinya sendiri soal itu. Tetapi lapar yang kenyang adalah lapar yang bisa diatur, dan ia berdiri di lorong mati ciptaannya sendiri, mengatur.
 

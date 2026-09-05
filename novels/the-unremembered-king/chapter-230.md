@@ -7,7 +7,7 @@ Lembah selatan jauh mendapat namanya bukan karena jauh dari mana pun secara geog
 
 "Anggapan itu salah," kata Kovan saat rapat perencanaan, memasang peta baru di papan aula. "Yang benar: tidak pernah ada alasan untuk mencoba. Jalurnya ada — jalur penggembala, lebar cukup untuk gerobak kecil, sebelas hari jalan." Ia mengetuk garis putus-putus yang ia gambar sendiri setelah tiga kali turun bersama Ilo. "Yang membuatnya tampak mustahil hanya cerita. Dan kita sudah sering sekali menang melawan cerita."
 
-Perbedaan wilayah ketiga dari dua sebelumnya langsung terlihat dari angkanya: enam puluh tujuh jiwa, tapi tersebar di sembilan kamp kecil yang tidak saling bersebelahan — bukan satu komunitas besar seperti utara atau timur, melainkan sembilan keluarga besar yang saling berjarak setengah hari jalan, hidup sendiri-sendiri selama tiga ratus tahun.
+Perbedaan wilayah ketiga dari dua sebelumnya langsung terlihat dari angkanya: enam puluh tujuh jiwa, tetapi tersebar di sembilan kamp kecil yang tidak saling bersebelahan — bukan satu komunitas besar seperti utara atau timur, melainkan sembilan keluarga besar yang saling berjarak setengah hari jalan, hidup sendiri-sendiri selama tiga ratus tahun.
 
 "Ini artinya," kata Sela membaca implikasinya, "nat mereka kemungkinan juga terpisah-pisah. Bukan satu nat besar yang menyimpan semua, melainkan sembilan nat kecil yang masing-masing hanya mengenal keluarganya sendiri."
 
@@ -90,7 +90,7 @@ Irama balasan itu menyanyikan balasan pantun.
 ketupat dibungkus daun yang baru.
 Namamu kusebut setiap akhir bulan..."
 
-— dan nat ketujuh melanjutkan suku yang tidak pernah dicatat siapa pun, suara laki-laki tua yang gemetar tapi jelas:
+— dan nat ketujuh melanjutkan suku yang tidak pernah dicatat siapa pun, suara laki-laki tua yang gemetar tetapi jelas:
 
 "...Widur di dalam batu menunggu,
 dan hatiku tetap milikmu."
@@ -107,14 +107,14 @@ Jawaban perempuan tua itu tidak dibacakan Kovan — ia bicara langsung kepada na
 
 "Katanya dia ingat semua suku kata." Ia berdiri, memegang tangan cucu buyutnya untuk jalan. "Maka akhir bulan ini aku yang menyanyikan balasannya. Tiga ratus tahun pantun itu hanya setengah — bagian pertanyaan. Sekarang aku tulis bagiannya yang ditunggu-tunggu."
 
-Dan ia menulis balasan pantun Widur malam itu juga — diktahkan ke Sela supaya masuk arsip, karena "kalau aku sudah buta total, arsipmu yang baca":
+Dan ia menulis balasan pantun Widur malam itu juga — didiktekan ke Sela supaya masuk arsip, karena "kalau aku sudah buta total, arsipmu yang baca":
 
 "Ke lembah membawa ketupat,
 ketupat kubuka pelan-pelan.
 Namamu kutitip pada pantun,
 Widur, akhir bulan ini namamu panggil pulang ke selimut kelan."
 
-Suku terakhirnya memang tidak karman sempurna. Tidak ada yang peduli.
+Suku terakhirnya memang tidak sepenuhnya sempurna. Tidak ada yang peduli.
 
 Di lembah selatan jauh, tiga ratus tahun penantian resmi berakhir bukan dengan putusan hukum atau pengakuan berdaulat — melainkan dengan sepasang pantun yang akhirnya bertemu lagi.
 
@@ -122,7 +122,7 @@ Di lembah selatan jauh, tiga ratus tahun penantian resmi berakhir bukan dengan p
 
 Ashvarok menutup pekan pencarian itu dengan entri yang oleh Sela diminta masuk ke halaman depan arsip wilayah selatan:
 
-Hari 679. Wilayah ketiga belum memulangkan satu jiwa pun — tapi sudah mengajari kita dua hal yang tidak ada di tiga belas pasal protokol.
+Hari 679. Wilayah ketiga belum memulangkan satu jiwa pun — tetapi sudah mengajari kita dua hal yang tidak ada di tiga belas pasal protokol.
 
 Pertama: nama yang dititip bisa terselamatkan oleh LAGU, bukan oleh dokumen. Arsip kami ribuan halaman; pantun mereka empat baris. Keduanya menyelamatkan orang. Jangan pernah merendahkan cara orang lain menjaga ingatan.
 
@@ -132,4 +132,4 @@ Delapan bulan silam kita pikir sudah menulis protokol paling lengkap dunia.
 
 Lembah selatan jauh memperbaikinya dengan empat baris.
 
-Di margin neraca bab 230 itu, Sela menambahkan catatan kecil yang khas arsipnya: "hal-hal kecil hari ini yang layak diingat: teh habis dua teko lebih banyak dari kemarin; nat sudut pasar disapa tujuh orang (rekor baru); dan satu anak kecil berhenti di depan nat lorong barak untuk bilang 'malam, batu' sebelum pulang." Ashvarok membaca, mengangguk, dan membalas dengan satu kata di bawahnya: "bagus". Karena memang begitulah cara dunia yang baik berjalan: bukan lewat peristiwa besar, tapi lewat sapaan-sapaan kecil yang tidak pernah putus.
+Di margin neraca bab 230 itu, Sela menambahkan catatan kecil yang khas arsipnya: "hal-hal kecil hari ini yang layak diingat: teh habis dua teko lebih banyak dari kemarin; nat sudut pasar disapa tujuh orang (rekor baru); dan satu anak kecil berhenti di depan nat lorong barak untuk bilang 'malam, batu' sebelum pulang." Ashvarok membaca, mengangguk, dan membalas dengan satu kata di bawahnya: "bagus". Karena memang begitulah cara dunia yang baik berjalan: bukan lewat peristiwa besar, tetapi lewat sapaan-sapaan kecil yang tidak pernah putus.

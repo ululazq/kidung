@@ -5,11 +5,11 @@ chapter: 240
 
 Pertanyaannya datang dari Sela, pada malam biasa, di arsip yang baru ditutup — dan membuat Ashvarok berdiri diam lebih lama dari yang pernah ia lakukan di depan siapa pun.
 
-"Kak," kata Sela sambil merapikan kotak-kotak yang tidak perlu dirapikan. "Aku sudah tidak pernah tanya ini sejak bab enam belas. Karena waktu itu aku belum siap. Tapi sekarang aku harus tanya."
+"Kak," kata Sela sambil merapikan kotak-kotak yang tidak perlu dirapikan. "Aku sudah tidak pernah tanya ini sejak bab enam belas. Karena waktu itu aku belum siap. Namun sekarang aku harus tanya."
 
 Ashvarok menunggu.
 
-"Tubuh ini... tubuh Renn. Selama delapan bulan kamu memakainya untuk the Walking Key. Setiap kali kunci dipakai, vein-scar menyebar — aku lihat sendiri di lenganmu minggu ini, sampai bahu." Ia menutup kotak terakhir dan menghadapnya. "Aku sudah membaca semua arsip tentang pemulangan resonansi. Aku tahu nat bisa menyimpan jiwa. Aku tahu api bisa bicara. Tapi tidak ada satu pun dokumen yang menjawab pertanyaanku."
+"Tubuh ini... tubuh Renn. Selama delapan bulan kamu memakainya untuk the Walking Key. Setiap kali kunci dipakai, vein-scar menyebar — aku lihat sendiri di lenganmu minggu ini, sampai bahu." Ia menutup kotak terakhir dan menghadapnya. "Aku sudah membaca semua arsip tentang pemulangan resonansi. Aku tahu nat bisa menyimpan jiwa. Aku tahu api bisa bicara. Namun tidak ada satu pun dokumen yang menjawab pertanyaanku."
 
 Ia menarik napas.
 
@@ -23,7 +23,7 @@ Ashvarok duduk. Bukan di kursi — di lantai arsip, punggung ke rak, seperti ora
 
 Sela duduk di hadapannya, bersila, seperti mereka dulu — dua orang di ruang tungku tingkat lima bertukar rahasia.
 
-"Pertama: Renn yang asli tidak hilang karena aku datang. Dia sudah sekarat SEBELUM aku masuk — runtuhan lorong sembilan merusak gema dasarnya sampai tinggal sepertiga. Aku masuk ke tubuh yang pintunya sudah setengah terbuka." Ashvarok menatap vein-scar di lengannya sendiri. "Itu kebenaran yang dulu. Tapi pekan lama, saat ibu Tamma menyentuh bara Karveth-Ulm langsung dengan jarinya, aku sadar sesuatu: api purba bisa mengenali orang yang mengenalnya. Dan kalau API bisa kenal..."
+"Pertama: Renn yang asli tidak hilang karena aku datang. Dia sudah sekarat SEBELUM aku masuk — runtuhan lorong sembilan merusak gema dasarnya sampai tinggal sepertiga. Aku masuk ke tubuh yang pintunya sudah setengah terbuka." Ashvarok menatap vein-scar di lengannya sendiri. "Itu kebenaran yang dulu. Namun pekan lama, saat ibu Tamma menyentuh bara Karveth-Ulm langsung dengan jarinya, aku sadar sesuatu: api purba bisa mengenali orang yang mengenalnya. Dan kalau API bisa kenal..."
 
 Ia mengangkat wajah.
 
@@ -51,7 +51,7 @@ Ruangan itu sunyi sangat lama.
 
 Sela yang pertama bicara, suaranya pecah di tengah:
 
-"Jadi setiap kali kita nyanyi name train... dia ikut dengar. Semua nama. Semua cerita." Ia menatap Ashvarok. "Kak, Renn delapan bulan ini belajar dunia lewat lagu-lagu kita. Dia tidak tertinggal — dia IKUT."
+"Jadi setiap kali kita menyanyi name train... dia ikut dengar. Semua nama. Semua cerita." Ia menatap Ashvarok. "Kak, Renn delapan bulan ini belajar dunia lewat lagu-lagu kita. Dia tidak tertinggal — dia IKUT."
 
 Ashvarok menutup matanya.
 
@@ -87,7 +87,7 @@ Bukan disegel. Bukan dilarang. Ia sendiri yang menaruh kunci itu ke dalam kotak 
 
 Ketika Sela bertanya kenapa, jawabannya sederhana:
 
-"Setiap pemakaian kunci menambah vein-scar di tubuh Renn. Delapan bulan ini aku selalu bilang harganya pantas dibayar. Tapi sekarang aku tahu Renn mendengar semuanya..." Ia melipat tangannya. "...maka mulai hari ini, aku tidak mau tubuhnya membayar lagi untuk pekerjaanku. Kalau Karvess butuh resonansi, kita cari jalan lain. Kita punya seratus penyanyi, pendengar alami baru, nat-nat yang bangun, dan satu dunia yang sudah belajar."
+"Setiap pemakaian kunci menambah vein-scar di tubuh Renn. Delapan bulan ini aku selalu bilang harganya pantas dibayar. Namun sekarang aku tahu Renn mendengar semuanya..." Ia melipat tangannya. "...maka mulai hari ini, aku tidak mau tubuhnya membayar lagi untuk pekerjaanku. Kalau Karvess butuh resonansi, kita cari jalan lain. Kita punya seratus penyanyi, pendengar alami baru, nat-nat yang bangun, dan satu dunia yang sudah belajar."
 
 "Kalau tidak ada jalan lain?"
 
@@ -161,7 +161,7 @@ Ia mengusap matanya.
 
 Dan malam itu, untuk pertama kalinya sejak delapan bulan silam, Ashvarok bicara langsung kepada Renn — bukan lewat nat, bukan lewat penerjemah, melainkan duduk di tepi tempat tidurnya sendiri (yang kini jadi tempat tidur tubuh mereka berdua) dan berkata pelan:
 
-"Renn. Aku tahu kau dengar. Aku mau bilang: aku sudah berhenti pakai kunci. Tubuhmu istirahat. Supnya enak — bubur Sela kurang garam, tapi ibu Tamma yang latihan."
+"Renn. Aku tahu kau dengar. Aku mau bilang: aku sudah berhenti pakai kunci. Tubuhmu istirahat. Supnya enak — bubur Sela kurang garam, tetapi ibu Tamma yang latihan."
 
 Ia menarik napas.
 

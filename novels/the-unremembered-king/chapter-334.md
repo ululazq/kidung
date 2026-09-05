@@ -7,7 +7,7 @@ Brannoc mengumpulkan dua belas anak di halaman barak saat fajar menyingsing mera
 
 Sela berdiri di serambi memegang papan napas, mencatat satu per satu nama anak yang hari itu akan ke danau garam. "Dua belas," bisiknya. "Mata kecil kita. Bila mereka main, the Wanes melihat anak. Bila mereka kabari, barak tahu."
 
-"Dengar baik-baik," katanya. "Ketukan baru: dua pendek, satu panjang. Itu berarti lari ke benang. Bila kalian lihat someone di desa lain mengetuk itu, kabari barak tanpa nama. Jangan teriak. Jangan tunjuk. Bisik ke anak lain, dan biarkan kabar berjalan sendiri."
+"Dengar baik-baik," katanya. "Ketukan baru: dua pendek, satu panjang. Itu berarti lari ke benang. Bila kalian lihat seseorang di desa lain mengetuk itu, kabari barak tanpa nama. Jangan teriak. Jangan tunjuk. Bisik ke anak lain, dan biarkan kabar berjalan sendiri."
 
 Dua belas anak menirukan ketukan di atas papan: tok-tok... tok panjang. Sela berdiri di sudut memegang papan napas, mencatat kecepatan mereka. "Mereka makin lancar," bisiknya pada Gella. "Tiga hari lagi bisa utuh tanpa salah."
 
@@ -17,7 +17,7 @@ Satu anak angkatan keempat maju. "Pak Brannoc," katanya. "Bila the Wanes datang,
 
 Anak itu mengangguk serius, lalu kembali ke barisan menirukan ketukan. Di sudut, Gella tersenyum tipis. "Mereka bertanya hal yang benar," katanya pada Sela. "Anak yang paham mengapa mereka main, adalah mata yang tidak akan panik."
 
-Gella mendekat membawa buku pemulihan. Ia meletakkannya di pangkuan Ashvarok-Renn yang duduk di serambi. "Kau the Bearer," katanya. "Napas minggu ini tiga hitungan penuh. Tidak memburuk, tidak membaik. Tapi kau tahu batasku: bila turun ke dua, kau tidak boleh lagi ke utara."
+Gella mendekat membawa buku pemulihan. Ia meletakkannya di pangkuan Ashvarok-Renn yang duduk di serambi. "Kau the Bearer," katanya. "Napas minggu ini tiga hitungan penuh. Tidak memburuk, tidak membaik. Namun kau tahu batasku: bila turun ke dua, kau tidak boleh lagi ke utara."
 
 "Belum turun," kata Ashvarok-Renn. "Masih tiga. Cukup untuk mengawasi dari sini."
 
@@ -27,15 +27,15 @@ Kovan datang dari peta dinding. "Murid Ossian di danau garam bilang 12 anak kita
 
 Sela mencatat di papan: *12 anak di danau garam (berteman, bukan ukur). Ketukan darurat: 2 pendek 1 panjang = lari ke benang. Mata kecil di pasar, bukan perang.* 
 
-Di menara, perawat tua membuka buku catatan halaman keempat belas. Mira membacakan dentum utara. "Masih memanjang setengah hitungan," katanya. "Tapi sejak 12 anak tiba di danau garam, dentumnya lebih teratur — seperti the Stillness Knot mengenali kehadiran yang ramah, bukan yang mencurigakan."
+Di menara, perawat tua membuka buku catatan halaman keempat belas. Mira membacakan dentum utara. "Masih memanjang setengah hitungan," katanya. "Namun sejak 12 anak tiba di danau garam, dentumnya lebih teratur — seperti the Stillness Knot mengenali kehadiran yang ramah, bukan yang mencurigakan."
 
 "Anak-anak itu ramah tanpa sadar," kata perawat tua. "Itu yang menyelamatkan the Stillness."
 
-Gella melatih tiga anak angkatan keempat mengukur napas Ashvarok-Renn saat fajar. "Napas the Survivor berdenyut pelan tapi dalam," katanya pada mereka. "Orang biasa lebih cepat tapi dangkal. Bedanya setengah hitungan, cukup untuk memisahkan kunci dari kerumunan."
+Gella melatih tiga anak angkatan keempat mengukur napas Ashvarok-Renn saat fajar. "Napas the Survivor berdenyut pelan tetapi dalam," katanya pada mereka. "Orang biasa lebih cepat tetapi dangkal. Bedanya setengah hitungan, cukup untuk memisahkan kunci dari kerumunan."
 
 Satu anak menirukan di atas papan: *the Gate Breath (perawat tua) = 3 hitungan, dalam. Napas the Bearer = 3 hitungan, pelan. Kriteria the Survivor: 0,5 hitungan lebih pendek subuh.* 
 
-"Betul," kata Gella. "Tapi jangan ukur di depan umum. Bila the Wanes melihat kalian hitung napas orang, mereka belajar cara kita."
+"Betul," kata Gella. "Namun jangan ukur di depan umum. Bila the Wanes melihat kalian hitung napas orang, mereka belajar cara kita."
 
 Di sudut halaman, Brannoc duduk bersila di antara dua belas anak, memukul papan kayu dengan ritme lambat. "Ingat," katanya. "Ketukan darurat bukan untuk main. Bila kalian lihat cap tujuh garis the Wanes dekat danau garam, lari ke benang. Jangan berteriak, jangan tunjuk."
 
@@ -43,21 +43,21 @@ Anak-anak menirukan: tok-tok... tok panjang. Satu dari mereka tertawa. "Ini sepe
 
 "Lagunya barak," kata Brannoc. "Lagu yang menjaga pintu."
 
-Di pojok halaman, satu anak angkatan keempat duduk memegang kelereng, menirukan cara Gella mengukur napas pada boneka kain. "Napas pelan dalam," bisiknya pada kawannya. "Bukan cepat dangkal." Kawannya mengangguk serius, seolah itu pelajaran yang bisa membunuh bila salah.
+Di pojok halaman, satu anak angkatan keempat duduk memegang kelereng, menirukan cara Gella mengukur napas pada boneka kain. "Napas pelan dalam," bisiknya pada kawannya. "Bukan cepat dangkal." Kawannya mengangguk serius — seolah itu pelajaran yang bisa membunuh bila salah.
 
 Gella melihat mereka dan tersenyum tipis. "Mereka belajar lebih cepat dari Ossian," katanya pada Ashvarok-Renn. "Anak tidak takut salah."
 
 "Justru karena itu mereka berguna," kata Ashvarok-Renn. "The Wanes melihat anak main, bukan mata penjaga. Ketidaktahuan mereka adalah penyamaran."
 
-Ossian mengirim kain tenun lewat Thessa: *The Wanes di utara mulai hitung orang. Bukan ukur napas — masih terlalu kasar — tapi mereka pegang pergelangan tangan penduduk dan hitung detak dengan jari. Salah cara, tapi arah mereka benar. Bila satu dari mereka paham napas lebih pelan dari detak, jendela kita tertutup.*
+Ossian mengirim kain tenun lewat Thessa: *The Wanes di utara mulai hitung orang. Bukan ukur napas — masih terlalu kasar — tetapi mereka pegang pergelangan tangan penduduk dan hitung detak dengan jari. Salah cara, tetapi arah mereka benar. Bila satu dari mereka paham napas lebih pelan dari detak, jendela kita tertutup.*
 
-Ashvarok-Renn membacanya pada Kovan. "Mereka belajar," katanya. "Pelan, tapi belajar. Kita harus lebih cepat mengamankan the Stillness sebelum mereka tahu bedanya napas dan detak."
+Ashvarok-Renn membacanya pada Kovan. "Mereka belajar," katanya. "Pelan, tetapi belajar. Kita harus lebih cepat mengamankan the Stillness sebelum mereka tahu bedanya napas dan detak."
 
 "Berapa lama?" tanya Kovan.
 
 "Mungkin dua minggu. Mungkin sebulan. Tergantung siapa di antara mereka yang pertama sadar." Ashvarok-Renn menulis di bible kecil: *The Wanes mulai hitung detak pergelangan (masih kasar, bukan napas). Arah benar = jendela menutup. Kejar the Stillness via persahabatan sebelum mereka paham napas.* 
 
-Brannoc kembali ke halaman. "Anak-anak siap," katanya. "Tapi satu hal: jangan suruh mereka jaga malam. Mereka masih anak. Siang cukup untuk berteman."
+Brannoc kembali ke halaman. "Anak-anak siap," katanya. "Namun satu hal: jangan suruh mereka jaga malam. Mereka masih anak. Siang cukup untuk berteman."
 
 "Siang cukup," kata Ashvarok-Renn. "Malam biarkan perempuan tua itu tidur. Murid Ossian yang jaga dari jauh."
 
@@ -67,7 +67,7 @@ Keesokan pagi, dua belas anak barak berangkat ke danau garam bersama Brannoc. Me
 
 Murid Ossian mengirim kain: *Anak-anak bermain seperti tidak terjadi apa-apa. The Wanes lewat desa, lihat anak main, meneruskan. Mereka tidak tahu bahwa di antara tawa itu, napas the Stillness sedang dijaga.* 
 
-Ashvarok-Renn membacanya dan mengangguk pada Gella. "Itulah cara kita menang," katanya. "Bukan dengan pedang, tapi dengan anak yang main kelereng."
+Ashvarok-Renn membacanya dan mengangguk pada Gella. "Itulah cara kita menang," katanya. "Bukan dengan pedang, tetapi dengan anak yang main kelereng."
 
 Sela duduk di serambi memilin benang biru ke utara. "Empat the Survivor bila the Stillness resmi," bisiknya. "Satu, dua, tiga, empat. Tiga sudah di tangan kita, satu di danau garam hampir terjaga."
 
@@ -75,13 +75,13 @@ Sela duduk di serambi memilin benang biru ke utara. "Empat the Survivor bila the
 
 Gella mengangguk. "Itu bedanya kita dengan the Wanes. Mereka mau mengumpulkan kunci ke satu pintu. Kita mau menyebar kunci ke tujuh ambang."
 
-Di sudut lain, Gella memanggil tiga anak angkatan keempat yang paling presisi. "Kalian bertiga," katanya, "akan ukur napas dua belas anak lainnya tiap fajar. Bukan untuk mencurigai, tapi untuk melatih mata. Bila salah satu dari kalian napasnya berubah tiba-tiba, itu tanda the Wanes mulai mengamati barak."
+Di sudut lain, Gella memanggil tiga anak angkatan keempat yang paling presisi. "Kalian bertiga," katanya, "akan ukur napas dua belas anak lainnya tiap fajar. Bukan untuk mencurigai, tetapi untuk melatih mata. Bila salah satu dari kalian napasnya berubah tiba-tiba, itu tanda the Wanes mulai mengamati barak."
 
 "Kami ukur kawan kami?" tanya satu anak.
 
 "Kalian jaga kawan kalian," kata Gella. "Sama seperti murid Ossian jaga perempuan tua di danau. Kita semua adalah benang, bukan satu utas."
 
-Ashvarok-Renn mendengar dari serambi dan tersenyum tipis. "Gella membuat pasukan dari anak-anak," katanya pada perawat tua. "Tapi pasukan yang tidak memegang senjata."
+Ashvarok-Renn mendengar dari serambi dan tersenyum tipis. "Gella membuat pasukan dari anak-anak," katanya pada perawat tua. "Namun pasukan yang tidak memegang senjata."
 
 "Senjata paling tajam adalah yang tidak terlihat," kata perawat tua. "Napas tidak bisa diparang."
 
@@ -95,9 +95,9 @@ Ia mengetuk papan dua pendek satu panjang pelan, lalu membiarkan anak-anak tidur
 
 "Kita pegang empat napas bila the Stillness resmi," bisiknya. "The Wanes pegang batu tanpa kunci. Selama napas lari, pintu dunia tetap tertidur."
 
-Di sudut lain, Kovan duduk memeluk lutut menyimak dentum barat daya yang ia catat sejak pos jatuh. "Masih berdenyut acak," katanya pada Sela. "Batu di sana hidup, tapi pintu tidak terbuka. Seperti the Wanes duduk menunggu sesuatu yang tidak akan datang."
+Di sudut lain, Kovan duduk memeluk lutut menyimak dentum barat daya yang ia catat sejak pos jatuh. "Masih berdenyut acak," katanya pada Sela. "Batu di sana hidup, tetapi pintu tidak terbuka. Seperti the Wanes duduk menunggu sesuatu yang tidak akan datang."
 
-"Mereka menunggu kunci," kata Sela. "Tapi kunci ada pada napas, dan napas ada pada kita."
+"Mereka menunggu kunci," kata Sela. "Namun kunci ada pada napas, dan napas ada pada kita."
 
 Kovan mengangguk. "Maka selama kita jaga napas, mereka hanya penjaga batu yang sia-sia."
 

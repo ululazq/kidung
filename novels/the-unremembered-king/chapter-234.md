@@ -27,7 +27,7 @@ Permintaan itu membuat Sareth menulis catatan pengantar khusus untuk sesi mereka
 
 "Dulu kalian adalah yang dipanggil. Sekarang kalian belajar memanggil. Kalian akan jadi guru terbaik sekolah ini — karena kalian tahu persis bagaimana rasanya berada di ujung lain dari sebuah lagu. Ajari kami hal yang hanya diketahui orang yang pernah hilang."
 
-Dan pelajaran pertama yang mereka bawa justru membalik protokol: "jangan tunggu keluarga yang nyanyi dulu. Kadang yang hilang juga ingin jadi yang menyapa duluan — supaya terasa dia bukan hanya diterima, tapi juga DIHARAPKAN."
+Dan pelajaran pertama yang mereka bawa justru membalik protokol: "jangan tunggu keluarga yang menyanyi dulu. Kadang yang hilang juga ingin jadi yang menyapa duluan — supaya terasa dia bukan hanya diterima, tetapi juga DIHARAPKAN."
 
 Aturan baru itu langsung dicoba di latihan name train sore hari — dan berhasil melebihi harapan: jiwa-jiwa pemulang lama mulai ikut membuka lagu untuk pos-pos yang keluarganya belum lengkap, dan irama kedalaman merespons lebih cepat dari biasanya, seperti mendengar suara teman lama yang akhirnya bicara.
 
@@ -37,11 +37,11 @@ Sementara itu, di sisi lain dinding peta, empat wilayah kuning memasuki tahap ya
 
 Wilayah barat laut (52 jiwa): warisan lisannya sudah ditemukan — bukan pantun, melainkan kain tenun. Setiap keluarga menyimpan selendang tenunan yang pola-polanya ternyata kode: jumlah garis = jumlah anggota keluarga saat dititipkan. Arsip Caldrest dan penenun utara kini bekerja menerjemahkan pola demi pola.
 
-Wilayah dataran tengah (39 jiwa): nat mereka bangun oleh lagu timur, tapi menolak protokol standar — kamp-kampnya minta pemulangan digabung dengan perayaan panen mereka sendiri, "supaya orang pulang langsung lihat dunia sedang gembira". Ashvarok menyetujui tanpa debat: "protokol harus belajar ikut musim orang."
+Wilayah dataran tengah (39 jiwa): nat mereka bangun oleh lagu timur, tetapi menolak protokol standar — kamp-kampnya minta pemulangan digabung dengan perayaan panen mereka sendiri, "supaya orang pulang langsung lihat dunia sedang gembira". Ashvarok menyetujui tanpa debat: "protokol harus belajar ikut musim orang."
 
-Dan wilayah pesisir (44 jiwa): masih putih — karena satu masalah unik yang belum pernah ada: nat pesisir ternyata berada di bawah air pasang. Tim teknikal (Kovan + dua murid akademi + pandangan Ilo soal "batu yang suka basah") sedang merancang cara membaca yang aman untuk nat di dalam air — dan kemajuan pertamanya baru saja dilaporkan:
+Dan wilayah pesisir (44 jiwa): masih putih — karena satu masalah unik yang belum pernah ada: nat pesisir ternyata berada di bawah air pasang. Tim teknis (Kovan + dua murid akademi + pandangan Ilo soal "batu yang suka basah") sedang merancang cara membaca yang aman untuk nat di dalam air — dan kemajuan pertamanya baru saja dilaporkan:
 
-"Batunya menjawab lewat getar air," lapor Kovan. "Pelan. Tapi jelas. Dia bilang: 'jangan khawatir soal air. Aku sudah biasa basah. Yang penting lagunya sampai.'"
+"Batunya menjawab lewat getar air," lapor Kovan. "Pelan. Namun jelas. Dia bilang: 'jangan khawatir soal air. Aku sudah biasa basah. Yang penting lagunya sampai.'"
 
 Kalimat nat pesisir itu dikutip ibu Tamma di dapurnya, ditambah komentar:
 
@@ -53,7 +53,7 @@ Malam penutup tahun — kalender lama utara, yang kini dipakai tiga lembah sekal
 
 Satu malam penuh, Sela membacakan neraca setahun Karvess: bukan angka pemerintahan, melainkan CERITA — setiap pemulangan, setiap nama yang masuk bible, setiap nat kecil yang disapa pertama kali, setiap kesalahan yang jujur ditulis, setiap kutipan warga yang layak diingat.
 
-Pembacaan itu berlangsung empat jam. Orang datang-pulang sesuai kebutuhan, tapi tidak ada satu pun yang pulang sebelum bagian terakhir:
+Pembacaan itu berlangsung empat jam. Orang datang-pulang sesuai kebutuhan, tetapi tidak ada satu pun yang pulang sebelum bagian terakhir:
 
 PEMBACAAN NAMA SEMUA YANG PULANG SETAHUN INI.
 
@@ -73,7 +73,7 @@ Hari 733 — akhir tahun lama utara.
 
 Angka tahun ini: 271 jiwa pulang. 3 wilayah selesai. 1 sekolah berdiri. 47 nat kecil punya nama tidak resmi. 0 jiwa naik dengan tangan kosong.
 
-Tapi kalau boleh memilih satu angka saja untuk mewakili setahun ini, aku pilih yang tidak ada di laporan mana pun:
+Namun kalau boleh memilih satu angka saja untuk mewakili setahun ini, aku pilih yang tidak ada di laporan mana pun:
 
 Jumlah orang Caldrest yang sekarang otomatis menyapa batu saat lewat di jalan.
 
@@ -127,13 +127,13 @@ Dan batunya menjawab.
 
 Tahun berikutnya, di halaman pertama arsip era keempat, Sela membuka dengan kalimat yang menjelaskan segalanya:
 
-"Batch ini selesai. Tapi pekerjaannya — menyapa, mendengar, makan bareng — tidak pernah selesai. Itu bedanya antara proyek dan cara hidup."
+"Batch ini selesai. Namun pekerjaannya — menyapa, mendengar, makan bareng — tidak pernah selesai. Itu bedanya antara proyek dan cara hidup."
 
 ---
 
 Dan di bawah kalimat itu, satu baris penutup dari Ashvarok sendiri — yang oleh para pembaca arsip generasi-generasi kemudian selalu dianggap kalimat paling khas raja kurus mereka:
 
-"Setuju dengan Arsip. Tapi saya tambahkan: cara hidup yang baik itu butuh sarapan. Sampai jumpa besok pagi di dapur."
+"Setuju dengan Arsip. Namun saya tambahkan: cara hidup yang baik itu butuh sarapan. Sampai jumpa besok pagi di dapur."
 
 ---
 

@@ -3,11 +3,11 @@ title: "Bab 341: Lonceng yang Menutup Pintu"
 chapter: 341
 ---
 
-Fajar kedua belas sejak the Silence ditemukan, pengrajin lonceng di celah bawah akhirnya memukul ubin tiga kali, diam sehentakan — tanda laporan selesai yang perawat tua ajarkan delapan belas tahun lalu. Ia berdiri, mengambil lonceng kecil yang delapan belas tahun tak pernah dibunyikannya, dan menatap Ashvarok-Renn yang turun ke celah. Cahaya fajar menerangi wajah lelaki tua itu, dan untuk pertama kalinya ia memegang lonceng itu bukan sebagai benda, melainkan sebagai kunci penutup dunia.
+Fajar kedua belas sejak the Silence ditemukan, pengrajin lonceng di celah bawah akhirnya memukul ubin tiga kali, diam sehentakan — tanda laporan selesai yang perawat tua ajarkan delapan belas tahun lalu. Ia berdiri, mengambil lonceng kecil yang delapan belas tahun tak pernah dibunyikannya, dan menatap Ashvarok-Renn yang turun ke celah. Cahaya fajar menerangi wajah lelaki tua itu, dan untuk pertama kalinya ia memegang lonceng itu bukan sebagai benda — melainkan sebagai kunci penutup dunia.
 
 "Enam dari tujuh sudah di tangan," kata Ashvarok-Renn. "Tinggal pastikan the Ground di pangkal tak terganggu."
 
-Pengrajin lonceng mengangguk pelan. "Maka aku bunyikan sekali. Bukan untuk memanggil yang hilang, tapi untuk menutup pintu."
+Pengrajin lonceng mengangguk pelan. "Maka aku bunyikan sekali. Bukan untuk memanggil yang hilang, tetapi untuk menutup pintu."
 
 Di menara, perawat tua mendengar langkah mereka dan menyanyikan irama terakhir — baris yang delapan belas tahun hanya ia ingat setengahnya, kini lengkap karena pengrajin lonceng menyambungnya dengan ketukan ubin.
 
@@ -28,11 +28,11 @@ Gella mendekat membawa buku pemulihan dan meletakkannya di pangkuan Ashvarok-Ren
 
 "Tidak ke utara, tidak ke selatan," kata Ashvarok-Renn. "Kita kerjakan dari sini. Enam sudah cukup untuk membuat dunia lupa pada pintunya."
 
-Di utara, the Wanes yang memegang pergelangan nelayan tua itu menutup buku catatan kasar. "Tiga napas pendek di sini," kata the Seeker. "Tapi tidak satu pun yang membuka pintu." Kawannya menggeleng. "Mungkin kita salah cari. Mungkin kuncinya bukan orang." Mereka tidak tahu enam napas dijaga dari seribu mil jauh, dan satu lonceng dibunyikan sekali untuk menutup pintu selamanya.
+Di utara, the Wanes yang memegang pergelangan nelayan tua itu menutup buku catatan kasar. "Tiga napas pendek di sini," kata the Seeker. "Namun tidak satu pun yang membuka pintu." Kawannya menggeleng. "Mungkin kita salah cari. Mungkin kuncinya bukan orang." Mereka tidak tahu enam napas dijaga dari seribu mil jauh, dan satu lonceng dibunyikan sekali untuk menutup pintu selamanya.
 
-Ossian mengirim kain tenun dari selatan: *Mereka angkat kaki dari the Hollow dengan tangan kosong, yakin kunci belum mereka temukan. the Ground Stone berdenyut pelan, terikat benang emas kita. Lonceng tadi menguncinya dari sini.* Ashvarok-Renn membaca dan menggeleng pelan. "Mereka makin dekat cara, tapi tujuan mereka salah sejak awal."
+Ossian mengirim kain tenun dari selatan: *Mereka angkat kaki dari the Hollow dengan tangan kosong, yakin kunci belum mereka temukan. the Ground Stone berdenyut pelan, terikat benang emas kita. Lonceng tadi menguncinya dari sini.* Ashvarok-Renn membaca dan menggeleng pelan. "Mereka makin dekat cara, tetapi tujuan mereka salah sejak awal."
 
-Kovan mencatat di peta: benang emas dari menara kini menyambung enam titik — celah ganda, barat daya, timur, rawa, dan tanah selatan. Satu benang abu-abu ke utara dikelilingi cap tujuh garis, tapi ia buta, karena kunci tidak ada di sana.
+Kovan mencatat di peta: benang emas dari menara kini menyambung enam titik — celah ganda, barat daya, timur, rawa, dan tanah selatan. Satu benang abu-abu ke utara dikelilingi cap tujuh garis, tetapi ia buta, karena kunci tidak ada di sana.
 
 Ashvarok-Renn naik ke menara menatap ke utara lalu selatan. "Enam dari tujuh," bisiknya pada malam. "Mereka pegang batu tanpa nyawa. Kita pegang napas yang masih berjalan. Selama napas itu berjalan, pintu takkan pernah terbuka oleh siapa pun."
 
@@ -56,7 +56,7 @@ Di menara, perawat tua menyanyikan irama lama, dan pengrajin lonceng di celah ba
 
 Kovan menatap peta benang emas. "Enam titik menyala," bisiknya. "Lima napas dan satu tanah. Mereka pegang batu yang tak pernah jadi kunci."
 
-Di the Hollow, Ossian melihat the Wanes menggali bukit keempat lalu pergi dengan tangan kosong. "Mereka percaya kunci dikubur," bisiknya pada kain. "Tapi yang mereka gali hanya tanah biasa, dan mereka tidak akan pernah menemukannya."
+Di the Hollow, Ossian melihat the Wanes menggali bukit keempat lalu pergi dengan tangan kosong. "Mereka percaya kunci dikubur," bisiknya pada kain. "Namun yang mereka gali hanya tanah biasa, dan mereka tidak akan pernah menemukannya."
 
 "Enam napas kecil yang tidak tahu mereka menjaga dunia," bisiknya. "Pagar terbaik adalah yang tidak merasa dipagar."
 
@@ -68,19 +68,19 @@ Di rawa, dua belas anak barak main seolah tak terjadi apa-apa. Murid Ossian ters
 
 Fajar berikutnya, Ossian duduk di tepi the Hollow memutar benang abu-abu di jarinya, merasakan denyut the Ground Stone yang kini terkunci pelan oleh lonceng yang dibunyikan dari seribu mil jauh. "Aman," bisiknya. "Mereka yang gali tidak akan pernah mendengarnya."
 
-Sela membimbing tiga anak angkatan keempat cara meletakkan jari di pergelangan dan menghitung napas di dalam hati. "Napas the Survivor setengah hitungan lebih pendek di subuh," katanya. "Kalian bukan untuk mencurigai, tapi untuk memastikan kunci tetap hidup."
+Sela membimbing tiga anak angkatan keempat cara meletakkan jari di pergelangan dan menghitung napas di dalam hati. "Napas the Survivor setengah hitungan lebih pendek di subuh," katanya. "Kalian bukan untuk mencurigai, tetapi untuk memastikan kunci tetap hidup."
 
 Kovan membuka gulungan peta dan menjelaskan pada Brannoc bagaimana benang emas menyambung enam titik terang. "Ini peta napas," katanya. "Di mana benang berdenyut, di situ pintu dunia tertidur."
 
-Gella membuka buku pemulihan dan mencatat di bawah nama Ashvarok-Renn: *Napas stabil di angka tiga. Batch keempat tertutup. Kita menang bukan dengan pedang, tapi dengan napas yang dijaga.*
+Gella membuka buku pemulihan dan mencatat di bawah nama Ashvarok-Renn: *Napas stabil di angka tiga. Batch keempat tertutup. Kita menang bukan dengan pedang, tetapi dengan napas yang dijaga.*
 
 Di celah bawah, perawat tua bercerita pada pengrajin lonceng tentang ibu Tamma yang delapan belas tahun lalu menyerahkan benang pertama. "Ia bilang lagu ini yang akan menjaga pintu," kata perawat tua. "Dan kini lagu itu selesai."
 
 Di utara, the Seeker berdebat dengan kawannya tentang cara mengukur. "Kita hitung detak," kata yang satu. "Tidak, napas," kata the Seeker. Mereka belum tahu bahwa kunci telah ditutup seribu mil jauh, oleh satu lonceng yang dibunyikan sekali.
 
-Ashvarok-Renn menulis di bible baris terakhir strategi: *Bila the Ground tertutup, awasi the Unclaimed di tangan the Wanes. Batu itu tak berarti, tapi jaga jarak. Dunia tertidur selama kita jaga napas.*
+Ashvarok-Renn menulis di bible baris terakhir strategi: *Bila the Ground tertutup, awasi the Unclaimed di tangan the Wanes. Batu itu tak berarti, tetapi jaga jarak. Dunia tertidur selama kita jaga napas.*
 
-Di rawa utara, dua belas anak barak masih main kelereng di tepi danau. Murid Ossian di perahu melihat cap tujuh garis lewat, menghitung napas nelayan. "Mereka makin terlatih," bisiknya. "Tapi masih buta cari yang hidup."
+Di rawa utara, dua belas anak barak masih main kelereng di tepi danau. Murid Ossian di perahu melihat cap tujuh garis lewat, menghitung napas nelayan. "Mereka makin terlatih," bisiknya. "Namun masih buta cari yang hidup."
 
 Di menara, perawat tua menyanyikan irama lama. Pengrajin lonceng menyambung dari celah bawah.
 
@@ -88,7 +88,7 @@ Di menara, perawat tua menyanyikan irama lama. Pengrajin lonceng menyambung dari
 
 Sela menutup papan napasnya.
 
-Itu bedanya, dan itu yang menyelamatkan dunia dari pintu yang tak pernah seharusnya dibuka."
+Itu bedanya — dan itu yang menyelamatkan dunia dari pintu yang tak pernah seharusnya dibuka."
 
 
 Kovan menatap peta benang emas yang kini menyambung enam titik terang. "Lima napas hidup dan satu napas tanah di tangan kita," bisiknya pada Sela. "Mereka yang mengejar darah takkan pernah menyentuh pintu, karena kunci itu bukan darah, melainkan napas yang kita jaga dari seribu mil jauh."

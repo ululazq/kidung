@@ -13,9 +13,9 @@ Hukum lamanya: cerita yang benar memberi makan. Hukum barunya, ditulis di halama
 
 "Dan sekarang?"
 
-"Sekarang matematikanya berubah." Ashvarok meletakkan papan hitungannya di meja, terbuka untuk Brannoc karena kesepakatan pisau dengan Ossian sudah mengajarkan bahwa mitra yang tidak tahu angkanya adalah mitra yang akan panik di waktu salah. "Lihat. Pengeluaranku tetap besar — seni raja tidak pernah murah, dan kedalaman tidak pernah berhenti lapar. Tapi kalau setiap pekan aku punya dua-tiga penjagaan langsung seperti kasus Ondar, neracanya berbalik. Lambat. Tapi konsisten. Aku berhenti menjadi orang yang membakar cadangan dan mulai menjadi orang yang bekerja untuk makan."
+"Sekarang matematikanya berubah." Ashvarok meletakkan papan hitungannya di meja, terbuka untuk Brannoc karena kesepakatan pisau dengan Ossian sudah mengajarkan bahwa mitra yang tidak tahu angkanya adalah mitra yang akan panik di waktu salah. "Lihat. Pengeluaranku tetap besar — seni raja tidak pernah murah, dan kedalaman tidak pernah berhenti lapar. Namun kalau setiap pekan aku punya dua-tiga penjagaan langsung seperti kasus Ondar, neracanya berbalik. Lambat. Namun konsisten. Aku berhenti menjadi orang yang membakar cadangan dan mulai menjadi orang yang bekerja untuk makan."
 
-Brannoc mengunyah akar pahitnya, memandang angka-angka yang tidak sepenuhnya dia membaca tapi sepenuhnya dia percaya, dan berkata kalimat yang menunjukkan kenapa dia mandor:
+Brannoc mengunyah akar pahitnya, memandang angka-angka yang tidak sepenuhnya dia membaca tetapi sepenuhnya dia percaya, dan berkata kalimat yang menunjukkan kenapa dia mandor:
 
 "Maka kau butuh jadwal. Bukan kebetulan. Kebetulan artinya menunggu ada anak hilang atau balok mau jatuh. Jadwal artinya kita buat daftar pekerjaan penjagaan yang sah — yang bisa dilakukan terbuka tanpa satu pun orang curiga." Ia menoleh ke pintu, tempat Sela duduk mencatat sejak tadi, karena pencatat keluarga tidak perlu lagi diundang ke rapat yang menyangkut hidup kakaknya. "Gadis, tulis kolom baru. Nama kerjanya: jatah."
 
@@ -29,7 +29,7 @@ Ashvarok memandang adiknya, lalu setuju, dan menyadarinya kemudian bahwa pasal g
 
 Pekerjaan jatah pertama datang Rabat, dan datangnya tidak lewat daftar melainkan lewat tangisan.
 
-Anak juru obat — delapan tahun, yang gambarnya pernah menjadi salah satu bukti mimpi pria abu bab 50 — tidak pulang dari sekolah klinik. Kabarnya menyusul dalam sepuluh menit: ia dan dua anak lain masuk ke celah nat tua dekat kolong bekas galeri sembilan, mengejar bola kain, dan celah itu — celah yang oleh dewasa disebut sempit tapi oleh anak delapan tahun adalah gerbang petualangan — menelan mereka lebih dalam dari dugaan. Suara tangisan terdengar dari dalam, bergema salah arah, dan Shift Guard yang datang pertama berdiri di mulut celah dengan lampu dan tidak berani: nat tua itu tercatat tidak stabil sejak penutupan darurat, dan panggilan bantuan tambang berarti karantina, dan karantina di pekan kunjungan pasca-jabatan berarti panik kota.
+Anak juru obat — delapan tahun, yang gambarnya pernah menjadi salah satu bukti mimpi pria abu bab 50 — tidak pulang dari sekolah klinik. Kabarnya menyusul dalam sepuluh menit: ia dan dua anak lain masuk ke celah nat tua dekat kolong bekas galeri sembilan, mengejar bola kain, dan celah itu — celah yang oleh dewasa disebut sempit tetapi oleh anak delapan tahun adalah gerbang petualangan — menelan mereka lebih dalam dari dugaan. Suara tangisan terdengar dari dalam, bergema salah arah, dan Shift Guard yang datang pertama berdiri di mulut celah dengan lampu dan tidak berani: nat tua itu tercatat tidak stabil sejak penutupan darurat, dan panggilan bantuan tambang berarti karantina, dan karantina di pekan kunjungan pasca-jabatan berarti panik kota.
 
 Ashvarok tiba sebagai bagian rombongan warga yang wajar — warga selalu datang ketika anak hilang — dan membaca celah itu dengan satu sentuhan telapak di bingkainya, cepat, di bawah garis pandang. Nat tua, jalur udara, tiga sumber napas kecil masih naik. Jarak: enam belas hasta, satu tikungan. Anak-anak tidak terluka; yang kecil ketakutan, yang besar menjaga.
 
@@ -57,7 +57,7 @@ Di rak dapur aula kini ada buku catatan khusus berjudul "Teh" — isinya hanya h
 
 Laporan jatah pertama masuk ke neraca besar malam itu, di gudang perkakas, di hadapan tim inti yang kini beranggotakan enam: Ashvarok, Brannoc, Sela, Maera yang datang membawa kotak timbungnya, Kovan dengan buku sandinya, dan — hadir untuk pertama kalinya atas undangan resmi — pengikat senior, yang duduk paling lama diam sebelum akhirnya berkata satu kalimat pembuka: "Aku menunggu undangan ini empat puluh tahun. Ternyata meja yang kutunggu ada di gudang tambang."
 
-Mereka membagi dunia menjadi wilayah bacaan. Kovan memegang suara — semua gema, sapuan, klasifikasi, jalur Spire. Maera memegang kertas — Guild, lelang, formulir, Dewan. Ossian, tidak hadir tapi terwakili oleh satu lembar yang disampaikan Maera, memegang gembok dan prosedur. Pengikat senior memegang ingatan — garis-garis tua, ordo-ordo mati, cara-cara yang hilang. Dan Ashvarok, kata Sela yang menuliskannya di papan sambil dibaca keras, "memegang pekerjaan."
+Mereka membagi dunia menjadi wilayah bacaan. Kovan memegang suara — semua gema, sapuan, klasifikasi, jalur Spire. Maera memegang kertas — Guild, lelang, formulir, Dewan. Ossian, tidak hadir tetapi terwakili oleh satu lembar yang disampaikan Maera, memegang gembok dan prosedur. Pengikat senior memegang ingatan — garis-garis tua, ordo-ordo mati, cara-cara yang hilang. Dan Ashvarok, kata Sela yang menuliskannya di papan sambil dibaca keras, "memegang pekerjaan."
 
 "Itu jabatan paling banyak jam kerjanya," protes Ashvarok.
 
