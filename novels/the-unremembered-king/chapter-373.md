@@ -1,0 +1,50 @@
+---
+title: "Bab 373: Meja Bulan Pertama"
+chapter: 373
+---
+
+Meja yang disepakati itu bukan meja panel, bukan meja dapur, melainkan meja ketiga yang keduanya belum pernah pakai: meja kayu pendek di ruang arsip barak, yang Sela lap dan ibu Tamma tutupi dengan kain tenun yang tidak lagi bergetar — kain yang pensiun dari pekerjaan kabar dan kini bekerja sebagai taplak, yang menurut Ondar adalah promosi tertinggi yang bisa dicapai barang di barak itu. Kabar meja ini tidak dibocorkan ke panel, tidak ke Spire, tidak ke mana-mana: benih pintu kedua diteladankan lebih dulu di meja yang benar sebelum ditanam di gedung mana pun, karena beginilah barak membaca lembaga — barang yang penting selalu mulai dari taplak, bukan dari kop surat.
+
+Mereka bertemu pada malam bulan pertama, sesuai janji. Kurator itu datang dari utara dengan gerobak restorasi yang lewat dua pengiriman jalannya — dan Ashvarok-Renn datang dengan satu kotak yang tidak ia bawa ke mana-mana selama bertahun-tahun: kotak catatan nat tua.
+
+Mereka menaruh dua catatan itu berdampingan di atas taplak: salinan entri yang tidak pernah tiba, dan peta nat tua yang digambar Kovan selama bertahun-tahun dari lempengnya. Kurator menatap peta itu lama.
+
+"Kalian menggambar jaringan ini tanpa tahu namanya," katanya akhirnya. "Di arsip Spire, jaringan ini punya nama. Kode yang kutemukan di entri itu ditulis dengan format yang lebih tua dari format pengadaan — format pra-Requiem. Aku mengeceknya sepanjang perjalanan: kode itu bukan alamat biro. Kode itu bentuk. Tiga angka, tiga huruf, tiga angka lagi. Di arsip bentuk bangunan Hegemony yang masih tersimpan, format yang sama dipakai untuk menandai *posisi katup*."
+
+"Arsitektur katup yang kupahami," kata Ashvarok-Renn pelan. "Aku bekerja di dalamnya seumur hidupku."
+
+"Maka kau akan mengerti lebih cepat dari aku." Kurator menaruh salinan itu di tengah peta, di atas salah satu ujung garis yang digambar Kovan — ujung selatan, yang selama bertahun-tahun hanya berhenti di reruntuhan yang tidak bernama. "Kode itu menunjuk ke sini. Entri bilang barang dikirim ke arah ini dan tidak pernah tiba. Ada dua kemungkinan, dan aku sudah berhenti menyukai salah satunya: barang itu hilang di jalan, atau barang itu tiba di tempat yang tidak tercatat penerimaannya. Kalau yang kedua yang benar — maka di ujung selatan jaringan ini ada ruangan yang menerima kiriman delapan belas tahun lebih awal dari akun, dari tangan yang sama, dan tidak pernah melaporkan satu pun ke siapa pun."
+
+Ia berhenti sebentar, lalu menambahkan bagian yang jelas sudah ia putuskan jauh sebelum meja ini: "Dan ada hal ketiga yang membuatku harus bersikap jujur di meja yang benar ini. Kode jalur itu tercatat di entri sebagai jalur pengiriman *berulang*. Bukan satu kali. Berulang — sampai entri terakhir yang tidak pernah tiba. Artinya selama ini ada barang yang keluar dari lantai tiga puluh satu lewat pintu yang tidak kumengenalnya, di samping pintu yang kujaga. Dua puluh tahun aku mengira aku menghitung semua yang keluar dari gedung itu. Aku salah. Dan aku mau kalian tahu itu sebelum kalian berangkat, bukan sesudahnya — karena orang yang membawa kabar yang setengah akan selalu dikira membawa niat yang setengah."
+
+"Ruangan yang menerima tanpa melapor," kata Ondar dari sudutnya, pelan, seperti orang menimbang kalimat itu dengan telinga. "Itu bukan lemari. Itu penjaga yang ditinggalkan."
+
+Meja itu diam sebentar. Semua orang di meja itu pernah menjadi penjaga yang ditinggalkan dalam satu bentuk atau bentuk yang lain — barak itu sendiri pernah begitu — dan kalimat Ondar masuk ke tempat yang sama di dada mereka semua.
+
+"Aku bisa ceritakan satu hal tentang tangan yang menulis instruksi itu," kata kurator, dan meja menoleh kepadanya. "Tahun-tahun terakhir sebelum aku, tidak ada yang menulis lagi di berkas itu — aku sudah cek: semua arsipnya kosong satu generasi penuh. Tapi instruksi satu kalimat itu masih segar dilipatnya saat kuterima. Artinya tangan itu baru saja pergi ketika aku tiba. Baru saja. Dan orang yang baru saja pergi dari tugas delapan belas tahun itu tidak pergi entah ke mana. Orang seperti itu pergi ke tugas berikutnya. Kalau kalian menemukan ruangan yang masih menjalankan tugas, tanyakan padanya: siapa yang mengajarinya menunggu. Karena instruksi itu bukan ditulis untuk menyuruh. Instruksi itu ditulis untuk ditinggalkan sebagai pengganti orang. Itu tanda tangan seseorang yang tahu dia tidak akan kembali — dan tetap menyiapkan penggantinya dari barang."
+
+"Aku akan pergi melihatnya," kata Ashvarok-Renn.
+
+"Bukan kau sendirian," kata Brannoc, dan itu bukan tawaran, karena Brannoc tidak pernah menawarkan hal yang seharusnya sudah diputuskan. "Yang pergi ke bawah tanah itu pergi dua. Kau bilang sendiri pelajaran galeri sembilan: pekerjaan bawah tanah tidak pernah satu tangan."
+
+"Kupikir kau akan bilang begitu." Ashvarok-Renn menatap lintas meja. "Kova?"
+
+Sebelum Kovan menjawab, Ondar meletakkan lempengnya di atas meja — sisi baca ke bawah, dan itu artinya ia punya hal untuk dikatakan yang bukan dari lempeng. "Kupikirkan dari tadi siang. Restorasi berjalan di jalur utara, benang di sini dibaca Kovan, kain sudah pensiun. Yang tidak ada penjaganya cuma satu arah: selatan. Aku tidak bisa ikut juga — kaki ini sudah tidak setuju dengan tangga tambang sejak delapan tahun lalu — tapi aku bisa jadi ujung benangmu dari sini. Lempengku terhubung nat tua, dan nat tua itu bercabang ke arah yang ditunjuk kode. Kalau kalian membuka katup ketiga dan suasananya berubah — aku akan mendengarnya dari sini sebelum kalian selesai mengatakannya. Satu ketukan untuk lanjut, dua untuk berhenti. Seperti dulu."
+
+Kovan sudah membuka buku angkanya sebelum kalimat selesai — karena penghitung yang baik selalu tahu kapan pertanyaan sudah dijawab angka. "Jalurnya lewat tiga posisi katup yang masih hidup. Aku tidak bisa ikut: benang di sini butuh dibaca harian, terutama sejak restorasi jalan. Tapi aku bisa memberimu satu hal yang lebih baik daripada kehadiranku." Ia menyalin satu lembar dari peta itu — hanya ujung selatannya, yang belum pernah keluar dari bukunya. "Tiga posisi katup itu punya urutan putaran. Ashvarok tahu prinsipnya. Yang tidak dia tahu: urutan tiga katup ini berbeda dari yang dia kenal. Kupotretkan dari pola panas tanah — dan kau berutang kepadaku satu laporan bacaan katup ketiga, karena tidak ada yang pernah menulis bacaannya dari dalam."
+
+"Satu lagi," kata Kovan, dan ia menaruh di meja benda kecil yang membuat Ashvarok-Renn berhenti sebentar: pelat logam kecil bertanda empat titik, tempaan lamanya. "Umpan bab 135 sudah tidak berbunyi — umpannya habis sejak pintu terbuka. Tapi logamnya masih jujur. Tempelkan ke katup ketiga sebelum kau putar. Kalau katup itu terhubung ke jaringan yang sama, logam ini akan menjawab dulu sebelum katupnya bergerak. Aku tahu cara bacanya. Kau juga tahu."
+
+Sela menulis di buku catatannya, dan menyerahkan satu halaman kepadanya sebelum ia berangkat: "Kalau pintu kedua itu benar-benar ada dan benar-benar ditinggalkan — ia akan menunggu. Yang ditinggalkan terbiasa menunggu. Jadi jangan mengetuk seperti yang berutang. Ketuk seperti yang membawa kabar."
+
+Ibu Tamma menutup meja itu dengan caranya: ia memuat ke gerobak perbekalan yang tidak diminta siapa pun dan tidak bisa ditolak siapa pun — sup beku untuk dua orang tiga hari, roti yang dibakar lebih keras dari biasanya supaya awet, dan sebotol air garam yang disiapkan seperti resep, dengan selembar kertas tempel berisi satu kalimat: *untuk luka kecil dan hari yang panjang. yang besar, pulang saja.* Tidak ada yang tertawa membaca itu. Di barak ini, resep ibu Tamma untuk luka besar memang hanya satu, dan sudah terbukti dua puluh tahun bekerja: pulang.
+
+Kurator menonton semua itu dari sisi meja dengan tatapan orang yang mempelajari bukan barang, melainkan cara — dan ketika rombongan kecil itu akhirnya siap, ia berkata kepada Ashvarok-Renn dengan suara yang lebih rendah dari tadi, suara yang tidak untuk meja: "Delapan belas tahun aku mengira menyimpan adalah pekerjaan paling aman di dunia. Tadi malam kalian mengajariku istilah yang lebih jujur: menahan di tempat yang salah. Kalau kalian menemukan yang menahan di sana — beri tahu dia bahwa ada cara untuk berhenti tanpa menjadi pembangkang. Aku menemukannya terlambat delapan belas tahun. Tidak harus begitu untuk semua orang."
+
+Kurator itu yang terakhir bicara, di pintu, saat rombongan kecil itu sudah siap berangkat. Ia tidak memberi nasihat dan tidak memberi berkas. Ia memberi satu hal yang hanya ia punya: alamat lengkap kantornya di lantai tiga puluh satu, ditulis dengan namanya sendiri, dan satu kalimat di bawahnya.
+
+"Kalau kalian menemukan ruangan itu dan ruangan itu ternyata masih menjalankan tugasnya," katanya, "jangan bangunkan ia dari tugasnya. Datanglah kepadaku. Ada satu hal yang harus kulakukan sebelum pintu mana pun dijaring lagi: menemukan turunannya — tangan yang meninggalkan instruksi itu. Kalau ia masih ada di suatu tempat, delapan belas tahun yang tidak selesai itu harus selesai di hadapannya, bukan di belakangnya."
+
+Malam sebelum berangkat, Ashvarok-Renn memeriksa kotak catatannya sendiri — daftar tahu-tahuannya yang tidak ditulis di mana pun, yang ia hafal urutannya sejak lama. Di ujung daftar itu, di tempat yang selalu ia sisakan kosong untuk hal yang belum diberi nama, ia menambahkan satu baris dengan hitungan yang jujur: *kode pra-Requiem menunjuk ujung selatan. tiga katup, urutan tak tertulis. ada yang ditinggalkan menjaga — atau ada yang ditinggalkan menunggu dilupakan. dua-duanya tidak bisa ditanya dari jarak jauh.*
+
+Gerobak itu berangkat ke selatan pada fajar berikutnya, dua orang dan satu kotak catatan, melewati jalur yang sudah lama tidak dilewati siapa pun dengan niat selain lupa — dan di jalan itu, pada persimpangan yang sama tempat kurator pernah menoleh terakhir kali ke arah Spire, Ashvarok-Renn tidak menoleh ke belakang. Ia menatap ke depan, ke arah yang ditunjuk kode itu, tempat jaringan diamnya berujung pada sesuatu yang delapan belas tahun tidak melapor kepada siapa pun karena tidak pernah diminta berhenti.

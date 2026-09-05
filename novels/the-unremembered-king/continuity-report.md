@@ -1,7 +1,7 @@
 # Laporan Kontinuitas: The Unremembered King
 
-Tanggal: 2026-08-27
-Cakupan: bab 1–310 (arc 1 selesai 1–250, arc 2 berjalan 251–310)
+Tanggal: 2026-08-27 (diperbarui 2026-09-05)
+Cakupan: bab 1–310 (arc 1 selesai 1–250, arc 2 berjalan 251–310) + pembaruan benang aktif 311–372
 Metode: baca world-state/bible/outline + scripted scan (pipeline check, audit-arc, pipeline audit) + baca hook open/close 296–310 + grep nama & timeline
 
 ## Ringkasan
@@ -60,6 +60,76 @@ Novel serial 310 bab lolos QC struktural (53/53 OK) dan gate drift (OK semua dit
 ### State serial
 - world-state header 310 sinkron dengan disk 306; Arc aktif = Arc 2 The Choir's Summons benar (arc 2 = 251–500). Temuan K-8365e2/K-fbddfa "307–500 belum ditulis" adalah status arc yang belum selesai, bukan basi.
 - Item & aset dan Chekhov 1–150 sudah ditembak sesuai jadwal; Chekhov arc 2 belum jatuh tempo—tidak ada yang lewat jadwal.
+
+## Pembaruan 2026-09-05 — benang aktif bab 311–372
+
+Pipeline kini menghitung 372 bab (CI strict: OK, outline ok). Empat batch baru (353–357, 358–362, 363–367, 368–372) menutup busur sengketa Throne dan membuka benang-benang berikut. Semua baris outline 353–372 berstatus selesai; world-state & bible tersinkron ke bab 372; audit kanon 363–367 sudah dieksekusi (geometri lekukan utara, komposisi tiga piringan, kesaksian Resgar sebagai peramu logam).
+
+### Benang aktif 1 — Pintu kedua arah selatan (baru, ch372)
+- Bukti di kanon: satu entri pengiriman yang TIDAK PERNAH TIBA (±20 tahun lalu, sebelum posisi kurator sekarang), tanda tangan = posisi sebelumnya (tangan yang sama yang meninggalkan instruksi "simpan, jangan putar"), kode jalur tidak dikenal sistem manapun, arah selatan.
+- Janji naratif: Ashvarok-Renn membandingkan catatan nat tuanya dengan jadwal kurator "sekali sebulan, dengan sup" (ch372); kurator menahan salinan dari panel — "pekerja yang mengetuk dulu, bicara kemudian".
+- Kaitan kanon terbuka: nat tua yang lebih tua dari Hegemony; kata dua suku kata Silent Gallery; arsitektur katup berprinsip Walking Key (bukan Choir). Hipotesis kerja (belum tertulis di bab mana pun): pintu kedua = simpul jaringan diam sisi selatan dari era yang sama dengan pintu tiga batu.
+- Status: benih arc 373+, belum diketuk.
+
+### Benang aktif 2 — Tukang kunci tua berkikir serong (ch366–372)
+- Fakta kanon: kunci asli (piringan dipahat, tiga lubang segitiga, era Hegemony) dikenali Resgar lewat satu kebiasaan tak sadar pembuatnya — SUDUT KETIGA LUBANG DIGOSOK DUA KALI; wajah tukang tua TIDAK diingat siapa pun (Resgar membeli barangnya ±40 tahun lalu, tepi jalur tambang utara).
+- Pertanyaan terbuka Resgar (ch371): "siapa yang mengajari tukang kunci itu menarik kikirnya serong" — ia menyusuri jalur utara sambil mengikuti jadwal restorasi.
+- Pagar konsistensi: identitas tukang kunci tua belum diberi nama di mana pun (sengaja); jangan sampai bertentangan dengan kanon tubuh-kunci/arsitek katup era Hegemony.
+
+### Benang aktif 3 — Jadwal restorasi satu generasi (ch371–372, berjalan)
+- Putusan panel: kepemilikan berpindah via PENDENGARAN — diputar sekali di tempat asal, dicatat, dilepaskan; bejana kosong bebas dimiliki siapa pun.
+- Pelaksana: kurator (mantan tangan Throne) dengan NAMA SENDIRI + hak mendengar "tidak" — barang yang disimpan tanpa izin tidak boleh dikembalikan tanpa izin.
+- Progres: 1 selesai (Harnah, dapur batu tepi jalur utara; cucu sembilan tahun ikut bernyanyi); buku kedua Sela terbuka (hal. 1, aturan: "kembalikan selalu yang bernama lebih dulu"); KORD-4 bernama kedua "jalan pulang"; syarat dapur: makan malam di barak sebelum tiap pengiriman.
+- Belum selesai & butuh perlakuan khusus: 6 bejana IRAMA SEAM (bukan suara manusia) → PENANAMAN ulang di seam hidup, BERPASANGAN (Ashvarok-Renn memutar + pembaca memastikan diterima, bukan ditimbun — pelajaran galeri sembilan).
+
+### Benang aktif 4 — Panel & kurator: lembaga yang mendengar (ch368–371)
+- Panel Pemutusan Sengketa Kepemilikan Barang Khusus: terdaftar 31 hari sebelum panggilan; tiga anggota ditunjuk tangan yang sama (perekam tua Choir, penimbang pensiunan Guild, guru Sekolah Mendengar); musyawarah TERBUKA — "belum tahu caranya berbohong, juga belum tahu malu" (Ossian).
+- Preseden baru yang dibuat: kepemilikan ditentukan pendengaran, bukan angka; "akun yang tak bisa menjawab pertanyaan tentang tangan bukan pemilik — cuma lemari" (Resgar, di luar berkas).
+- Kurator: gelar Throne → perempuan tanpa nama → pelaksana bernama sendiri; bersaksi "akun itu warisan tugas yang tidak selesai"; uang 18 tahun TIDAK pernah keluar lantai 31 → tidak pernah ada pembelian; barang DIAMBIL.
+- Potensi terbuka: panel sebagai lembaga permanen "mendengar" (paralel Lengan Mendengar ch274) — belum diputuskan di bab mana pun.
+
+### Benang terbuka lain yang tetap hidup
+- Arsiparis = mata dalam di lantai tak bernama (ch361); Ossian & Mira masih di Spire.
+- Lelaki jubah abu-abu (penjaga kunci): tugas 18 tahunnya selesai (ch363) — penempatan lanjutannya belum ditulis.
+- the Wanes: tugas selesai; the Seeker/the Keeper bebas; batu penanda tetap di titik utara, di atas lekukan yang masih menunggu di kedalaman.
+- Sumur gema di bawah tiga batu: menunggu restorasi per gema; kain tenun Sela diam total (pesan sudah sampai — bukan mati).
+
+### Status pertanyaan lama (dari laporan 2026-08-27)
+- Isu 3 (kecepatan 0,041 napas/bulan sbg Chekhov): TERJAWAB arc 353+ — sumber detak bayangan = pintu tiga batu; jeda panjang selesai saat putaran kedua membuka pintu penuh (garis diam tenang, ch364); angka tidak lagi berfungsi hitung mundur.
+- Isu 1 (catatan kaki status "mati (tubuh dipakai)" Renn): masih disarankan, belum dieksekusi di world-state.
+- Isu 2 (Vosk/Tharrow/Bek/Hale off-stage): tetap terbuka — arc 311–372 memang fokus utara–selatan; mereka belum kembali ke panggung.
+- Isu 4 (pasalisasi "lapor hanya saat berubah"): masih menunggu di world-state.
+
+## Pembaruan 2026-09-05 (kedua) — bab 373–377
+
+Pipeline kini menghitung 377 bab (CI strict: OK, outline ok). Batch 373–377 mengeksekusi benang 1 dan 2 dari pembaruan pertama — dua status di bawah itu tertinggal: *pintu kedua "belum diketuk"* kini DITEMUKAN (ch374), dan *identitas tukang kunci tua* kini punya silsilah (ch374–377).
+
+### Garis silsilah empat tangan tukang kunci tua (ch374–377)
+
+Satu tarikan kikir serong menghubungkan empat tangan — dan pada akhirnya dua lembaga yang delapan belas tahun saling dicurigai ternyata murid dari meja yang sama:
+
+1. **Guru** — penghuni meja kerja di dasar perpustakaan selatan (ch374): kikir serong + buku besar berhenti di tengah kalimat ("...pulang ke sini harus lewat katup yang") + cangkir + sandal kaki kanan aus + jas kurus. WASIAT PENDIDIKAN-nya (dikutip buku besar, ch377): *"murid kedua tidak akan datang dari jalan; dia datang dari orang yang dijajah urusan yang bukan urusannya — ajar seluruh aturan, termasuk yang tidak penting."* Identitas: belum diberi nama; usia penunggu belum pasti (lihat status pintu kedua).
+2. **Murid pertama — tukang kunci utara** (ch375): pembuat kunci asli (piringan tiga lubang, sudut ketiga digosok dua kali); bengkelnya di lekuk jalur utara, PINTU DIKUNCI DARI DALAM; tiga kunci ukur = tradisi diwarisi; pergi pelan membawa barang-barangnya satu-satu; berjanji pada pemilik gembok: *"kalau rusak jangan dibuang — dia sendiri yang datang memperbaiki"*. Status: tidak pulang ±20 tahun; hidup/mati terbuka.
+3. **Murid kedua — posisi sebelum kurator** (ch370, 373, 377): menulis instruksi "simpan, jangan putar" + entri pengiriman yang tidak pernah tiba; MENGAJARI Hegemony (dijajah urusan yang bukan urusannya) = murid kedua dalam wasiat; mengirim bejana kecil bernama ke bengkel utara sebagai kiriman pribadi (ch377); tangan yang sama delapan belas tahun tanpa diganti. Status: tidak ditemukan; "pergi baru saja" saat kurator tiba (ch373).
+4. **Murid ketiga — kurator** (ch377): diterima di meja dapur dengan syaratnya sendiri — perpustakaan kelak menjadi SEKOLAH, bukan lemari ("ajar dari barang yang sudah pulang"); ia satu-satunya yang berlatih delapan belas tahun dari sisi yang salah.
+
+Bukti penghubung antar-tangan: tarikan serong (kunci asli ↔ kunci ukur ↔ pahatan katup selatan) + pelat logam dua alat yang dicocokkan di meja dapur (ch377). Kebiasaan tidak bisa ditiru sengaja — hanya diwarisi.
+
+### Status pintu kedua (per ch377)
+- DITEMUKAN ch374: bukan gudang — PERPUSTAKAAN GEMA BERNAMA di ujung selatan nat tua (3 katup dialek berbeda; katup 3 di reruntuhan menara jaga, 18 langkah dari batu penanda); akses hanya lewat katup ("yang di dalam tidak suka dinding" — dipahat serong).
+- Isi: ratusan ceruk bernama tanpa nomor (ceruk 47 = Harnah — dipanen sebelum akun berdiri via jalur tak tercatat); meja kerja guru di dasar; IRAMA PENUNGGU hidup (3 ketuk 1 diam) + menyisipkan satu ketuk saat disapa (ch374) dan saat sup dituang (ch377).
+- Siapa penunggunya: TERBUKA — dua kemungkinan yang belum diputuskan bab mana pun: murid kedua sendiri (hanya "pergi baru saja" dari posisinya) atau orang yang ia tempatkan menjaga. Tanda kehidupan di meja kerja (cangkir, sandal aus, kalimat terpotong) sengaja ambigu.
+- Pemahaman politik: panel BELUM tahu pintu kedua (keputusan kurator + barak, ch372 — "pekerja yang mengetuk dulu, bicara kemudian"); nat tua "berdenyut lebih tenang" setelah katup dibuka dengan kunci, bukan penggali (lempeng Ondar, ch374).
+- Dua pintu, satu jaringan: Kovan mencatat denyut selatan & dalam perpustakaan kini IRAMA SAMA (ch377) — selaras dengan sumur gema utara.
+
+### Restorasi — progres per ch377
+- 2 selesai: (1) Harnah, dapur batu jalur utara (ch372); (2) bengkel ukir kaki bukit selatan (ch376) — keluarga HIDUP menerima + menawarkan "teman keluarga" + meminta kasihan untuk pengembali-berikutnya; lelaki tua ikut mengetuk tanpa sadar (irama memilih tangan yang pernah bekerja).
+- Aturan Sela (buku kedua, hal. 2): "tidak ada pengembalian yang sama dengan yang sebelumnya"; hal. 3: "yang dicari selalu orangnya".
+- Jadwal berikutnya yang sudah dikunci: BEJANA KECIL bengkel utara (kiriman pribadi murid kedua, "menunggu pemutaran") DIPUTAR DULU — hutang pribadi dibayar sebelum daftar (ch377).
+- Menunggu: 6 bejana irama seam → penanaman berpasangan (belum berubah sejak ch371).
+
+### Benang 2 (pembaruan pertama) — status terkini
+Tukang kunci tua: bengkel ditemukan dan disimpan dengan kartu Resgar ("pemilik dipersilakan menagih tanpa bunga", ch375); pertanyaan "siapa yang mengajari tarikan serong" TERJAWAB (guru di selatan); pertanyaan baru yang menggantikannya: di mana murid pertama sekarang — hidup dan menepati janji datang sendiri, atau menunggu ditemukan?
 
 ## Pertanyaan untuk penulis
 
