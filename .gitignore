@@ -13,3 +13,7 @@ Thumbs.db.claude/
 .freebuff/
 novels/.tmp.drivedownload/
 novels/.tmp.driveupload/
+
+# file kerja konversi gaya (sementara, jangan commit)
+novels/the-unremembered-king/_gaya-lantern.md
+novels/*/_gaya-lantern.md
