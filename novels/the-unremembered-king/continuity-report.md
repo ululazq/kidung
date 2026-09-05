@@ -1,7 +1,7 @@
 # Laporan Kontinuitas: The Unremembered King
 
 Tanggal: 2026-08-27 (diperbarui 2026-09-05)
-Cakupan: bab 1–310 (arc 1 selesai 1–250, arc 2 berjalan 251–310) + pembaruan benang aktif 311–372
+Cakupan: bab 1–310 (arc 1 selesai 1–250, arc 2 berjalan 251–310) + pembaruan benang aktif 311–382
 Metode: baca world-state/bible/outline + scripted scan (pipeline check, audit-arc, pipeline audit) + baca hook open/close 296–310 + grep nama & timeline
 
 ## Ringkasan
@@ -130,6 +130,43 @@ Bukti penghubung antar-tangan: tarikan serong (kunci asli ↔ kunci ukur ↔ pah
 
 ### Benang 2 (pembaruan pertama) — status terkini
 Tukang kunci tua: bengkel ditemukan dan disimpan dengan kartu Resgar ("pemilik dipersilakan menagih tanpa bunga", ch375); pertanyaan "siapa yang mengajari tarikan serong" TERJAWAB (guru di selatan); pertanyaan baru yang menggantikannya: di mana murid pertama sekarang — hidup dan menepati janji datang sendiri, atau menunggu ditemukan?
+
+## Pembaruan 2026-09-05 (ketiga) — bab 378–382
+
+Pipeline kini menghitung 382 bab (CI strict: OK, outline ok). Batch 378–382 mengeksekusi dua status dari pembaruan kedua: *silsilah empat tangan* diperbarui (guru kini bernama), dan *siapa penunggu perpustakaan selatan* TERJAWAB (murid kedua, bukan teka-teki lagi).
+
+### Silsilah empat tangan — versi final (per ch380)
+Satu perubahan penting dari pembaruan kedua:
+1. **Guru = NILAM** (ch378 — nama terpahat di dasar bejana kecil): PEREMPUAN, tukang kunci terakhir dari aliran tak tercatat (kunci melindungi nama, dibuka irama bukan gigi). Tidak pernah meninggalkan jejak yang benar-benar berhenti — "jejak tukang yang pergi berubah menjadi sesuatu yang lain".
+2. **Murid pertama — tukang kunci utara**: tetap seperti pembaruan kedua; pembuat kunci asli (piringan tiga lubang).
+3. **Murid kedua — penjaga perpustakaan selatan** (ch379–380): pejabat Hegemony yang "disewa" (dijajah urusan yang bukan urusannya); Nilam tahu dan tetap mengajar; ia MENAMPAKKAN DIRI kepada Ashvarok-Renn (3 ujian sikap dilalui: jalur lama, kunci benar, tangan tak mengambil apa pun); sekutu kunci: "lembar uang yang tidak pernah keluar" = desain penjagaan, bukan kebohongan (ch379); menantikan kedatangan "kelanjutan" (ramalan Nilam — lihat di bawah) sambil menjaga meja; menyerahkan ruangan untuk dipulangkan dan menjadi GURU.
+4. **Murid ketiga — kurator**: tetap seperti pembaruan kedua.
+
+### Status NILAM (per ch382) — MUNGKIN HIDUP
+- Fakta: meninggalkan perpustakaan selatan dua puluh+ tahun lalu untuk pergi UTARA menemui murid pertama (sebelum "akun" berdiri); tidak pernah kembali; tidak ada tubuh, tidak ada barang yang ditinggalkan, tidak ada jejak yang berhenti (ch380).
+- Bejana asli Nilam (ceruk TANPA NAMA di dasar perpustakaan selatan) tidak pernah diisi untuk orang lain — untuk dirinya sendiri; belum pernah diputar 30 th; BERGETAR setelah penanaman pertama (ch381) — tanda tahu gilirannya akan datang.
+- Hassanah/dua pesan dari bejana kecil (ch378): (1) "kunci yang benar dipegang orang yang datang dari tambang di selatan" = menunjuk Ashvarok-Renn sbg KELANJUTAN aliran (bukan murid — ramalan ch380); (2) "jangan cari aku di utara; carilah aku di dalam barang yang kau kembalikan" — maknanya terbuka: (a) isi suaranya masih ada di bejana-bejana, atau (b) ia sendiri ada di jalur yang dipakai pemulangan.
+- PENUTUP ARC 382: sosok tua di JALUR UTARA (kurus, tas, tangan kanan bekerja / kiri diam di sisi — tanda aliran yang sama dengan murid kedua) berjalan menuju rumah makan pemilik gembok tiga lubang, membawa bejana bernada (3 turun 1 naik = lagu sekolah). Belum dikonfirmasi = Nilam; sengaja ambigu sampai bab berikut.
+- Pagar konsistensi: sampai ch382 BELUM ada satu kalimat pun yang menyebut Nilam sebagai orang yang kembali; jangan di-tulis-kan hidup sebelum bab penegasan; jika hidup, konsistensi umur/tubuh (kaki kanan aus vs sosok tua) harus dijaga.
+
+### Sekolah Nilam (ch382 — berdiri)
+- Lokasi: perpustakaan gema selatan; murid: Ashvarok-Renn, Kovan, kurator, Sela, Ondar (via nat/lempeng); guru: murid kedua.
+- Pelajaran pertama: hal yang tidak penting ("cara menyimpan api unggun tanpa kayu") — alasan: yang tidak penting menyelamatkan (tahu berhenti, tidak menyentuh, menjaga).
+- TIGA HUKUM PENDENGARAN (murid kedua, ch382): 1) jangan buka pintu paling dulu; 2) jangan tutup paling akhir; 3) jangan putar yang belum didengar dua kali. Sela mencatatnya sebagai "hukum pendengaran" (hal. 5).
+- Status politik: PANEL memutuskan TIDAK memutuskan — perpustakaan bukan urusan panel, "lembaga yang tumbuh dari mendengar tidak boleh mengatur yang mendengar" (ch382); pintu kedua kini DARI KURATOR+barak, bukan lagi rahasia dari panel (berbalik dari ch372 — panel kini tahu, karena laporan katup 3 dibacakan Ossian).
+
+### Penanaman irama seam — progres per ch381
+- 1/6 SELESAI: bejana lembah tak bernama ditanam BERPASANGAN di seam hidup selatan (Ashvarok memutar, murid kedua baca tanah: "jangan putar sampai ia naik — penanaman adalah berjalan pulang bersama"); SEAM MENJAWAB (gema suara sama, "ia ingat") — pelajaran: seam tidak pernah kosong, hanya menunggu isinya dikembalikan; Kovan: "ini bukan penanaman, ini pernikahan".
+- 5 PENANAMAN TERSISA; jadwal berikutnya: belum dikunci (dekat kembalinya milik ch381: beban berikutnya kemungkinan berpasangan pula, dgn pasangan yang sama atau berubah — belum diputuskan).
+- Keterkaitan: bejana asli Nilam ikut bergetar saat penanaman 1 selesai (ch381), jadi penanaman-bejana-Nilam bisa jadi bagian penanaman berikutnya ATAU restorasi terpisah (terbuka).
+
+### Restorasi — progres per ch382
+- 2 selesai (Harnah, bengkel ukir) + BEJANA KECIL bengkel utara DIPUTAR selesai (ch378) — dihitung sbg hutang pribadi, bukan restorasi resmi (daftar kurator); isinya = suara Nilam (pesan).
+- Jadwal berikutnya yang dikunci: BEJANA ASLI NILAM akan diputar "di meja yang benar, kursi yang benar" (ch380/382) — syarat: sekolah terbuka (sudah), kursi kosong milik pekerja (sudah diisi murid kedua sementara); belum dikunci kapan.
+- Aturan Sela: hal. 4 ("restorasi = mengambil orang dari gudang, bukan barang"), hal. 5 (tiga hukum pendengaran).
+
+### Benang 2 (pembaruan kedua) — status terkini
+Pertanyaan "di mana murid pertama sekarang" MASIH TERBUKA — ia bagian penting jalur utara (bengkel dikunci dari dalam, janji "datang sendiri"); sosok tua di jalur utara (ch382) berpotensi MURID PERTAMA atau NILAM sendiri; belum diputuskan.
 
 ## Pertanyaan untuk penulis
 
