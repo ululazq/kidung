@@ -1,6 +1,6 @@
 # Bible: The Unremembered King
 
-Terakhir diperbarui: bab 387
+Terakhir diperbarui: bab 392
 Sudah diungkap ke pembaca sampai: bab 315
 
 ## Premis
@@ -66,6 +66,7 @@ Ejaan baku. Semua nama proper di bab mana pun harus ada di sini.
 | Assayers' Guild | Guild penilai dan perantara artefak | stempel lilin ungu |
 | the Wanes | Faksi dalam arc the Misclaim (bab 321–331) | memburu "7 darah"/the Survivor lewat tanda lahir tujuh titik; cap tujuh garis di desa; SALAH SASAR — cari darah, bukan napas; barak (Ashvarok dkk) buru the Survivor lewat pola napas; rujukan pusat klaim = the Throne |
 | Sekolah Nilam | Aliran tukang kunci tak tercatat yang dibuka ulang sebagai sekolah (bab 382) | guru: murid kedua; murid: Ashvarok-Renn, Kovan, kurator (murid ketiga), Sela, Ondar-via-nat, Kanta (murid pertama, bab 385); tiga hukum: jangan buka pintu lebih dulu, jangan tutup paling akhir, jangan putar yang belum didengar dua kali |
+| Kursi Penjaga | Lembaga barak Caldrest tanpa mandat (bab 391–392): satu kursi, satu pemegang, satu daftar pengembalian | berdiri di sudut meja dapur, lebih rendah dari semua kursi; dibuat dari kayu papan nama bekas; satu pasak sengaja longgar; pasal pertama: pemegang tidak boleh pernah menjadi orang yang mengambil; Ossian Vael dilarang mengisinya; pengisi ditentukan barak |
 
 ### Item dan istilah
 | Nama baku | Apa itu |
