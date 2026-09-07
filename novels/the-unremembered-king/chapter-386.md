@@ -1,0 +1,52 @@
+---
+title: "Bab 386: Suara yang Menunggu Dua Telinga"
+chapter: 386
+---
+
+Malam itu, di perpustakaan selatan, dua murid menduduki satu meja dan menjalankan prosedur yang tidak tertulis di berkas mana pun tetapi tertulis di tubuh mereka berdua: mendengar dua kali sebelum memutar. Bejana kecil dari tas Kanta — salinan lagu sekolah yang dua puluh tahun lalu dikirim ke utara dan kembali hari ini di dalam tas murid pertama — diputar lebih dulu, oleh murid kedua, karena ia tuan rumah dan karena hukum ketiga tidak membedakan antara barang asli dan barang salinan: yang belum didengar dua kali tidak boleh diputar, dan keduanya tahu bahwa malam itu mereka sedang menghitung pendengaran mereka seperti penghitung menghitung napas, satu per satu, tanpa melompat.
+
+Lagu itu keluar — tiga nada turun, satu nada naik — dan ruangan yang selama tiga puluh tahun menyimpan suara itu sendirian akhirnya mendengarnya berdua. Tidak ada yang berkata apa pun selama pemutaran. Kovan tidak ada di sana; Sela tidak ada di sana; tidak ada pena yang bergerak, karena murid kedua sudah memutuskan hal itu di sore hari, ketika ia menata meja untuk malam itu: suara guru tidak boleh dicatat pada malam pertama ia bicara lagi. Catatan dibuat untuk orang yang tidak hadir, dan guru mereka tidak sedang tidak hadir — ia sedang dalam perjalanan, dan perjalanan bukan ketidakhadiran.
+
+Ketika lagu habis dan diam menempati ruangan seperti udara menempati ruang yang dikosongkan air, Kanta meletakkan tangannya di atas bejana kecil itu dan berkata: "Pendengaran pertama." Dan murid kedua mengangguk, dan berdiri, dan berjalan ke ceruk tanpa nama, dan membawa keluar bejana yang lain — bejana yang lebih tua, yang lebih dingin, yang dasarnya dipahat bukan dengan nama melainkan dengan tanda: tiga garis turun, satu garis naik, dipahat dengan tarikan pahat yang tidak buru-buru, dengan sudut yang hanya bisa dibuat oleh satu tangan di dunia ini.
+
+Ia meletakkannya di meja, di depan kursi kosong, tepat di tempat yang sama di mana ia meletakkannya di malam pelajaran pertama — dan kali ini ia tidak berbicara lama. "Aku sudah menunggu tiga puluh tahun untuk mendengarnya," katanya, "dan kau sudah menunggu dua puluh tahun untuk mencarinya, dan guru kita sudah menunggu lebih lama dari kita berdua untuk didengar. Maka tidak ada yang perlu kutambahkan. Putarlah, murid pertama. Aku yang mendengarkan."
+
+Kanta memutarnya.
+
+Suara yang keluar bukan lagu.
+
+Ia adalah suara orang bicara — suara perempuan yang tidak muda dan tidak tua, suara yang berjalan sambil bekerja, suara yang di dalamnya terdengar bunyi logam kecil yang bergerak pelan, seperti orang yang berbicara sambil tangannya tidak pernah benar-benar berhenti — dan suara itu berkata dengan tenang, seperti orang yang sudah lama menulis suratnya dan tinggal membacakannya:
+
+"Kalau bejana ini diputar, berarti kalian sudah bertemu. Aku tidak tahu kapan, dan aku tidak perlu tahu bagaimana. Aku hanya tahu bahwa aku mendidik kalian berdua untuk saling menemukan, dan murid-muridku terlalu teliti untuk gagal dalam pekerjaan yang panjang — kalian hanya butuh waktu, dan waktu adalah satu-satunya bahan yang tidak bisa kita hemat."
+
+Suara itu berhenti sebentar, dan di dalam jeda itu terdengar bunyi pahat yang jauh — satu tarikan, pelan, seperti orang yang bekerja sambil berbicara karena tangannya tidak percaya pada percakapan yang tidak disertai kerja — dan kemudian suara itu lanjut, dan kali ini ia berbicara kepada satu orang:
+
+"Untuk muridku yang menjaga: kau akan menjaga meja ini lebih lama dari janjiku, dan aku minta maaf untuk itu — bukan karena aku menyesal pergi, melainkan karena aku tahu kau akan mengira pergi itu adalah kegagalanmu. Bukan. Aku tidak mengirim kabar selama ini bukan karena aku lupa padamu, melainkan karena kabar akan membuatmu meninggalkan meja itu. Selama kau tidak tahu apa-apa, kau tetap menjaga. Dan meja itu harus dijaga oleh orang yang tidak tahu apa-apa, karena orang yang tahu akan berpikir ia tahu lebih baik daripada meja."
+
+Dan kemudian suara itu berbicara kepada orang lain, kepada orang yang belum pernah ia ajari apa pun kecuali dengan ketidakhadirannya:
+
+"Dan untuk muridku yang tidak pernah kudapat: kau yang bengkelnya kosong ketika aku tiba di utara. Aku tidak marah. Bengkel yang kosong adalah bengkel yang sedang bekerja di tempat lain — itu pelajaran pertamaku untukmu, yang tidak sempat kusampaikan: alat yang selalu ada di tempatnya adalah alat yang tidak pernah dipakai. Kau pergi mencariku, dan itu artinya kau sudah mengerti pelajaran itu tanpa aku. Kalau kau mendengar ini setelah mendengar lagu yang kecil, berarti kau sudah mengerti juga hal yang lain: aku tidak pernah berbicara dua kali dengan satu mulut. Yang kecil adalah pertanyaanku. Yang ini adalah jawabanku — dan jawabanku adalah: jangan cari aku di jalan. Aku tidak ada di jalan. Aku ada di dalam pekerjaan."
+
+Di sini suara itu turun — bukan suaranya yang turun, melainkan nadanya, seperti orang yang mendekati bagian surat yang ditulisnya paling akhir dan paling pelan — dan murid kedua, yang duduk dengan tangan di atas lutut seperti murid di hari pertama, merasakan hal yang tidak akan pernah masuk berkas mana pun: bahwa suara itu sedang mendekati dia, bukan sebagai gurunya, melainkan sebagai orang yang tahu dia akan duduk di kursi kayu itu pada malam tertentu dan mendengar kalimat tertentu, dan yang sudah menulis kalimat itu tiga puluh tahun lebih awal supaya tepat sampai.
+
+"Dan satu lagi, untuk kursi yang kosong. Kalian akan ingin mengisinya — murid-murid selalu ingin mengisi kursi gurunya, karena mereka pikir kursi kosong adalah tugas yang belum selesai. Jangan. Kursi itu kupasang untuk murid ketiga, yang akan datang lewat pintu yang bukan pintuku, dan ia tidak akan datang karena kalian memanggilnya. Ia akan datang karena pekerjaan ini ternyata lebih besar dari kalian berdua, dan pekerjaan yang lebih besar dari murid-muridnya selalu tahu cara merekrut. Biarkan kursi itu kosong sampai ia duduk sendiri."
+
+Kemudian ada bunyi yang tidak diduga siapa pun: bunyi kertas — halaman yang dibalik, pelan, dengan hati-hati orang yang tidak mau mengganggu apa pun yang sedang ia baca — dan suara Nilam berkata, dengan suara yang untuk pertama kalinya terdengar seperti orang yang tersenyum tanpa suara:
+
+"Dan kalau kalian, pada suatu hari, berdiri di depan buku besarku dan tergoda menyelesaikan kalimat terakhirku — jangan. Kalimat itu tidak selesai bukan karena aku tidak sempat. Kalimat itu kutulis untuk kubaca sendiri kalau aku pulang: pulang ke sini harus lewat katup yang — dan sisanya kutahukan sendiri, karena aku yang tahu katup yang mana. Aku menulisnya setengah supaya dunia tahu bahwa aku berniat kembali. Kalimat yang selesai adalah kalimat yang sudah tidak mengharapkan apa-apa lagi. Kalimatku masih mengharapkan. Jangan sentuh. Aku yang akan menyelesaikannya — kalau kaki ini masih setuju, seperti yang kutulis."
+
+Dan suara itu selesai — bukan berhenti mendadak seperti suara yang dipotong, melainkan menipis seperti jalan yang berbelok di balik bukit: masih terdengar, lalu tidak, dan yang tertinggal bukan keheningan kosong melainkan keheningan yang penuh, seperti meja yang baru ditinggalkan pemiliknya untuk waktu yang singkat.
+
+Kanta dan murid kedua duduk diam lama.
+
+Kemudian murid kedua berdiri, dan melakukan satu hal yang tidak ada dalam prosedur mana pun dan tidak ada dalam hukum mana pun dan karena itu tepat: ia mengambil cangkir yang tidak pernah dibersihkan itu dari meja kerja — cangkir yang tiga puluh tahun berdiri di tempat yang sama, yang isinya sudah lama bukan isi — dan ia tidak mencucinya. Ia mengisinya. Ia menuang ke dalamnya air panas dari teko kecil yang ia taruh menyala sejak sore, dan ia meletakkan cangkir itu kembali di tempatnya, di tepi meja yang menghadap kursi kosong, dengan uap yang naik pelan di bawah lampu minyak.
+
+"Meja yang lengkap," katanya, seperti orang yang menutup pembukuan. "Sekarang ia menunggu dengan benar."
+
+Kanta tidak berkata apa-apa. Ia meletakkan bejana salinan di samping bejana asli — dua benda dengan lagu yang sama, yang satu kelana dan yang satu menunggu — dan menyetel keduanya berdampingan dengan teliti orang yang menata dua bukti dari satu tangan. Kemudian ia melihat buku besar yang terbuka di ujung meja, pada halaman yang kalimatnya berhenti di tengah kata, dan ia membacanya sekali lagi dengan mata, pelan, sampai kata yang berhenti — dan ia menutup pembacaannya di sana, dan tidak menyentuhnya, karena ada kalimat yang tidak boleh diselesaikan oleh tangan yang salah, dan tangan yang salah, ia baru mengerti malam itu, adalah semua tangan kecuali satu.
+
+Tidak ada yang mencatat pemutaran itu. Bukan karena tidak ada yang hadir untuk mencatat, melainkan karena murid kedua sudah memutuskan bahwa suara ini tidak akan berubah menjadi berkas — berkas dibaca oleh orang yang tidak hadir, dan suara ini bukan untuk yang tidak hadir. Suara ini akan berubah menjadi hal yang lain, yang lebih tahan lama dari kertas: ia akan berubah menjadi kebiasaan. Kebiasaan membiarkan kursi kosong. Kebiasaan menuang satu cangkir. Kebiasaan tidak menyelesaikan kalimat orang lain.
+
+Dan malam itu, ketika murid kedua memadamkan lampu minyak dan naik tangga untuk melihat langit sebentar — kebiasaan yang belum ia lakukan tiga puluh tahun, dan yang ia lakukan malam itu tanpa alasan yang bisa ia sebut — buku besar itu tetap terbuka pada halamannya, dan kalimatnya tetap berhenti di tengah kata — bukan sebagai luka, bukan sebagai teka-teki, melainkan sebagai apa adanya: janji yang ditulis oleh orang yang tahu bahwa janji hanya bisa dibuktikan dengan datangnya penulisnya, dan yang memilih menulisnya di tempat yang paling terbaca di seluruh ruangan, supaya setiap orang yang lewat bisa memeriksa sendiri bahwa ia belum selesai.
+
+Dan di rumah makan di jalan raya utara, pada malam yang sama, pemiliknya tidak menutup pintu — kebiasaan yang mulai pada malam ketika seorang tua berhenti di mejanya, memperbaiki gembok yang dua puluh tahun menunggu, dan meneruskan jalan ke selatan; dan di paku dinding, gembok tiga lubang itu kini tergantung dalam keadaan yang seharusnya, tidak menunggu siapa-siapa, hanya mengingatkan kepada siapa pun yang melihatnya bahwa ada pekerjaan yang selesai karena orang yang dijanjikan benar-benar datang.

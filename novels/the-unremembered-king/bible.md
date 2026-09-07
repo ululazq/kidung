@@ -1,6 +1,6 @@
 # Bible: The Unremembered King
 
-Terakhir diperbarui: bab 382
+Terakhir diperbarui: bab 387
 Sudah diungkap ke pembaca sampai: bab 315
 
 ## Premis
@@ -40,6 +40,8 @@ Ejaan baku. Semua nama proper di bab mana pun harus ada di sini.
 | Vessik Halder | Penilai senior (pensiun) | 18 th lalu menulis klasifikasi "murmur semu" untuk wilayah utara tempat satu kabupaten hilang; sekarang damai di tepi danau — contoh "prosedur bekerja untuk siapa pun yang memegangnya" (disebut Ossian, bab 21) |
 | Vosk | Penengah kelas dua di pasar cinder-glass Caldrest | gendut, jari dingin (kebiasaan air kembang tawar); jalur resmi "technical reader" Renn, potongan 8% (bab 9) |
 | Ibu Tamma | Ibu penambang di galeri tujuh; suara komunitas barak distrik timur | tegas tapi tidak kejam; muncul saat rapat barak soal daftar pemindahan (bab 44) |
+| Kanta | Murid pertama Nilam; tukang kunci jalur utara | tangan kanan bekerja kiri diam (tanda aliran); kunci bengkelnya dikunci dari dalam 20 th; menepati janji gembok 3 lubang rumah makan (bab 383); menandai kunci ukur keempat "K-A-N" (bab 384); bertemu murid kedua di perpustakaan selatan (bab 385); membaca seam sbg kunci saat penanaman kedua (bab 387) |
+| Nilam | Guru aliran tukang kunci tak tercatat; guru murid pertama & kedua | perempuan; kunci untuk melindungi NAMA, dibuka irama bukan gigi; bejana aslinya diputar bab 386 — pesan terakhir: kursi ketiga untuk murid ketiga, JANGAN menyelesaikan kalimat buku besarnya; status hidup/mati TERBUKA ("ada di dalam pekerjaan") |
 | Tovik | Penambang tua galeri sembilan, blok timur barak | the Hollowed KEDUA: lupa nama sendiri saat sunyi presisi blok timur (bab 56); sehat & ramah tapi tidak pulih; namanya hanya hidup di ritual panggil-nama name-roll |
 | Corvan Hale | Wali kota Caldresh | lemah, ramah, berutang budi pada the Quiet Vein; gelisah saat terdesak antara lisensi besar dan rakyatnya; gemetar tangan kanan kalau berpura-pura tegas |
 
@@ -63,6 +65,7 @@ Ejaan baku. Semua nama proper di bab mana pun harus ada di sini.
 | Koordinasi Artefak Regional | Jabatan/biro Ossian Vael di lantai 40 Anthema Spire | nama sengaja dibuat membosankan; mengendalikan klasifikasi artefak regional |
 | Assayers' Guild | Guild penilai dan perantara artefak | stempel lilin ungu |
 | the Wanes | Faksi dalam arc the Misclaim (bab 321–331) | memburu "7 darah"/the Survivor lewat tanda lahir tujuh titik; cap tujuh garis di desa; SALAH SASAR — cari darah, bukan napas; barak (Ashvarok dkk) buru the Survivor lewat pola napas; rujukan pusat klaim = the Throne |
+| Sekolah Nilam | Aliran tukang kunci tak tercatat yang dibuka ulang sebagai sekolah (bab 382) | guru: murid kedua; murid: Ashvarok-Renn, Kovan, kurator (murid ketiga), Sela, Ondar-via-nat, Kanta (murid pertama, bab 385); tiga hukum: jangan buka pintu lebih dulu, jangan tutup paling akhir, jangan putar yang belum didengar dua kali |
 
 ### Item dan istilah
 | Nama baku | Apa itu |
