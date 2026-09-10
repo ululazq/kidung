@@ -1,6 +1,6 @@
 # Bible: The Unremembered King
 
-Terakhir diperbarui: bab 407
+Terakhir diperbarui: bab 412
 Sudah diungkap ke pembaca sampai: bab 315
 
 ## Premis
@@ -74,6 +74,8 @@ Ejaan baku. Semua nama proper di bab mana pun harus ada di sini.
 | Buku Besar (perpustakaan selatan) | Buku meja kerja guru: kalimat terakhir berhenti di tengah kata "pulang ke sini harus lewat katup yang—" | UJI TINTA bab 405: kalimat terakhir = TINTA JALUR (kulit kayu perhentian) → dimulai TIDAK SELESAI di jalan pada hari berangkat; janji yang masih berjalan tidak boleh ditutup tangan yang sudah tiba; penulisnya masih berjalan (memeriksa jalur pulang); DITUTUP + segel kapur "DIJAGA" bab 405; hanya tangan penulisnya boleh menyelesaikan — dan ia memilih tidak |
 | Nat Penghalus | Nat sepotong tak menghubungkan apa-apa; dinding dalamnya dihaluskan 30 th; penemuan jujur kedua musim (bab 406) | berbunyi pekerjaan penghalus bejana — cara bekerja yang dicabut dari pekerjanya; ujungnya: lekukan + tempat duduk bejana kosong = menunggu bejana yang dijanjikan; keputusan meja: DITINGGALKAN + disapa; nama panggilan dari ibu Tamma; tidak masuk daftar (cara bekerja tak bisa dikembalikan — hanya ditunggu bersama) |
 | Penunggu dari Dalam | Yang menjawab pintu kedua dari dalam (bab 402–404) — identitas terbuka | bukan murid kedua (ada di dalam, tidak mengetuk); menjawab BENTUK KERJA bukan nama (3 tunggal gagal, 3 bersama dijawab); hanya menjawab setelah jalur hidup; murid kedua merasa aman saat mendengarnya; tidak diidentifikasi — jangan disamakan dengan tamu tanpa nama |
+| Dalam (panggilan kerja) | Nama panggilan sekolah untuk tangan penghalus dari dalam (bab 410–411): bekerja di dalam bejana, tidak pernah keluar, hasilnya hanya terasa | menolak didaftar ("pekerjaan yang didaftar berhenti menjadi pekerjaan dan mulai menjadi jabatan"); ditulis tamu: namakan dgn PEKERJAANNYA bukan jabatan karangan; belum pernah dipanggil dgn nama itu — menunggu dibenarkan pekerjaannya sendiri; bekas gerakannya di semua dinding dalam bejana sekolah |
+| Penempatan Bejana Nat Penghalus | Bab 411–412: bejana kosong bengkel utara ditempatkan di nat penghalus lewat PINTU NAT | nat meminta dengan cara pekerjaan (bunyi mengarah + bidang halus + tanda tiga-garis-satu-naik di nat barak); syarat: tangan kurator (disetujui lewat piringan), tanpa dibunyikan, fajar dgn cahaya, tanpa kata; pekerjaan MENARIK bejana masuk dari dalam; bejana menjawab satu NADA BARU; daun kering ambang perpustakaan di dalamnya; urutan kanon: bentuk dibaca → izin diminta → tangan disetujui → cahaya → diam → penempatan oleh nat sendiri |
 
 ### Item dan istilah
 | Nama baku | Apa itu |
