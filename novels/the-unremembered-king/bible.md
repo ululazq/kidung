@@ -1,6 +1,6 @@
 # Bible: The Unremembered King
 
-Terakhir diperbarui: bab 397
+Terakhir diperbarui: bab 402
 Sudah diungkap ke pembaca sampai: bab 315
 
 ## Premis
@@ -67,7 +67,10 @@ Ejaan baku. Semua nama proper di bab mana pun harus ada di sini.
 | the Wanes | Faksi dalam arc the Misclaim (bab 321–331) | memburu "7 darah"/the Survivor lewat tanda lahir tujuh titik; cap tujuh garis di desa; SALAH SASAR — cari darah, bukan napas; barak (Ashvarok dkk) buru the Survivor lewat pola napas; rujukan pusat klaim = the Throne |
 | Sekolah Nilam | Aliran tukang kunci tak tercatat yang dibuka ulang sebagai sekolah (bab 382) | guru: murid kedua; murid: Ashvarok-Renn, Kovan, kurator (murid ketiga), Sela, Ondar-via-nat, Kanta (murid pertama, bab 385); tiga hukum: jangan buka pintu lebih dulu, jangan tutup paling akhir, jangan putar yang belum didengar dua kali |
 | Kursi Penjaga | Lembaga barak Caldrest tanpa mandat (bab 391–392): satu kursi, satu pemegang, satu daftar pengembalian; DIISI KANTA pada bab 396 (tanpa upacara; pasak longgar berbunyi sekali) | berdiri di sudut meja dapur, lebih rendah dari semua kursi; dibuat dari kayu papan nama bekas; satu pasak sengaja longgar (Kanta mengencangkannya sedikit: kursi tahu ia diduduki, pengisinya tahu ia bisa digantikan); pasal pertama: pemegang tidak boleh pernah menjadi orang yang mengambil; Ossian Vael dilarang mengisinya; tugas pemegang: mencatat siapa yang mengembalikan + menyerahkan daftar kepada siapa pun yang bertanya tanpa menyimpan satu pun suara; daftar = janji bukan utang |
-| Daftar Tak Selesai | Benih arc bab 397: daftar semua yang dicabut dari dunia tanpa pencatatan (irama kecil, lagu kerja, nama tanpa peta) — ditemukan satu di bawah ujung peta | tidak ditulis siapa pun, tidak disimpan lemari; tidak akan pernah selesai = aman (daftar selesai membuat orang berhenti mencari → mulai menyimpan); jadwal pengisian: SATU PENEMUAN JUJUR PER MUSIM (Brannoc); dicatat Kanta dari kursi penjaga: "disimpan oleh kursi penjaga, yang tidak menyimpan apa pun kecuali kejujuran tanggal-tanggalnya" |
+| Daftar Tak Selesai | Benih arc bab 397: daftar semua yang dicabut dari dunia tanpa pencatatan (irama kecil, lagu kerja, nama tanpa peta) — ditemukan satu di bawah ujung peta | tidak ditulis siapa pun, tidak disimpan lemari; tidak akan pernah selesai = aman (daftar selesai membuat orang berhenti mencari → mulai menyimpan); jadwal pengisian: SATU PENEMUAN JUJUR PER MUSIM (Brannoc); dicatat Kanta dari kursi penjaga: "disimpan oleh kursi penjaga, yang tidak menyimpan apa pun kecuali kejujuran tanggal-tanggalnya"; penemuan jujur pertama musim (bab 402): lagu kerja kecil di percabangan tak dipetakan — didengarkan 3x dan DITINGGALKAN di tempatnya + penanda ke-12 Resgar dengan kata "dengar" |
+| Daftar Kurator | Daftar resmi 6 entri irama yang dicabut (dibuat kurator); selesai bab 401 | entri 1–5 = irama tanah (dikembalikan bab 381/387/390/395/401); entri 6 = bejana Nilam, penanaman berpasangan tanpa kode + baris kedua tinta pengembara ("jangan datang dengan palu"); DIPINDAHKAN ke kursi penjaga bab 402 (arsip menunggu dibaca; ingatan menunggu diturunkan) |
+| Tamu Tanpa Nama | Penulis baris kedua entri ke-6 + tumpukan batu kedua; pulang bab 401 membawa bejana nada keempat | tangan kanan bekerja, kiri diam (tanda aliran sekolah); kikir serong terbaca di tangannya (guru Nilam ATAU murid pertama — sengaja tak dipastikan); mengetuk pintu kedua 3+1 dan DIJAWAB DARI DALAM; menolak kursi Nilam ("tetap kosong untuk yang datang seperti aku"); cangkir ketiga ditunggu di perpustakaan |
+| Lagu Empat Nada | Lagu bejana asli Nilam: 3 nada + jeda; kehilangan nada ke-4 selama 30 tahun | dibaca sbg pelajaran kunci (Ashvarok-Renn); jeda ke-3 = diam nat selatan (Kovan); nada ke-3 sama dengan lagu kain Sela; diselesaikan bab 401 oleh 3 arah (bejana asli + bejana tamu + kain Sela); ratusan ceruk perpustakaan bergetar bersama |
 
 ### Item dan istilah
 | Nama baku | Apa itu |
