@@ -1,6 +1,6 @@
 # Bible: The Unremembered King
 
-Terakhir diperbarui: bab 392
+Terakhir diperbarui: bab 397
 Sudah diungkap ke pembaca sampai: bab 315
 
 ## Premis
@@ -66,7 +66,8 @@ Ejaan baku. Semua nama proper di bab mana pun harus ada di sini.
 | Assayers' Guild | Guild penilai dan perantara artefak | stempel lilin ungu |
 | the Wanes | Faksi dalam arc the Misclaim (bab 321–331) | memburu "7 darah"/the Survivor lewat tanda lahir tujuh titik; cap tujuh garis di desa; SALAH SASAR — cari darah, bukan napas; barak (Ashvarok dkk) buru the Survivor lewat pola napas; rujukan pusat klaim = the Throne |
 | Sekolah Nilam | Aliran tukang kunci tak tercatat yang dibuka ulang sebagai sekolah (bab 382) | guru: murid kedua; murid: Ashvarok-Renn, Kovan, kurator (murid ketiga), Sela, Ondar-via-nat, Kanta (murid pertama, bab 385); tiga hukum: jangan buka pintu lebih dulu, jangan tutup paling akhir, jangan putar yang belum didengar dua kali |
-| Kursi Penjaga | Lembaga barak Caldrest tanpa mandat (bab 391–392): satu kursi, satu pemegang, satu daftar pengembalian | berdiri di sudut meja dapur, lebih rendah dari semua kursi; dibuat dari kayu papan nama bekas; satu pasak sengaja longgar; pasal pertama: pemegang tidak boleh pernah menjadi orang yang mengambil; Ossian Vael dilarang mengisinya; pengisi ditentukan barak |
+| Kursi Penjaga | Lembaga barak Caldrest tanpa mandat (bab 391–392): satu kursi, satu pemegang, satu daftar pengembalian; DIISI KANTA pada bab 396 (tanpa upacara; pasak longgar berbunyi sekali) | berdiri di sudut meja dapur, lebih rendah dari semua kursi; dibuat dari kayu papan nama bekas; satu pasak sengaja longgar (Kanta mengencangkannya sedikit: kursi tahu ia diduduki, pengisinya tahu ia bisa digantikan); pasal pertama: pemegang tidak boleh pernah menjadi orang yang mengambil; Ossian Vael dilarang mengisinya; tugas pemegang: mencatat siapa yang mengembalikan + menyerahkan daftar kepada siapa pun yang bertanya tanpa menyimpan satu pun suara; daftar = janji bukan utang |
+| Daftar Tak Selesai | Benih arc bab 397: daftar semua yang dicabut dari dunia tanpa pencatatan (irama kecil, lagu kerja, nama tanpa peta) — ditemukan satu di bawah ujung peta | tidak ditulis siapa pun, tidak disimpan lemari; tidak akan pernah selesai = aman (daftar selesai membuat orang berhenti mencari → mulai menyimpan); jadwal pengisian: SATU PENEMUAN JUJUR PER MUSIM (Brannoc); dicatat Kanta dari kursi penjaga: "disimpan oleh kursi penjaga, yang tidak menyimpan apa pun kecuali kejujuran tanggal-tanggalnya" |
 
 ### Item dan istilah
 | Nama baku | Apa itu |
