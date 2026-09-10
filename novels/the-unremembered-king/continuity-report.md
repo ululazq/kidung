@@ -1,7 +1,7 @@
 # Laporan Kontinuitas: The Unremembered King
 
-Tanggal: 2026-08-27 (diperbarui 2026-09-05, 2026-09-10)
-Cakupan: bab 1–310 (arc 1 selesai 1–250, arc 2 berjalan 251–310) + pembaruan benang aktif 311–402
+Tanggal: 2026-08-27 (diperbarui 2026-09-05, 2026-09-10, 2026-09-11)
+Cakupan: bab 1–310 (arc 1 selesai 1–250, arc 2 berjalan 251–310) + pembaruan benang aktif 311–407
 Metode: baca world-state/bible/outline + scripted scan (pipeline check, audit-arc, pipeline audit) + baca hook open/close 296–310 + grep nama & timeline
 
 ## Ringkasan
@@ -210,6 +210,43 @@ Pipeline kini menghitung 402 bab (CI strict: OK, outline ok). Laporan ketiga ber
 - Buku besar kalimat tak selesai: hanya tangan yang berhak boleh menyelesaikannya; murid kedua kini MEMELIHARA bukan MENUNGGU (ch402) — tamu belum memutuskan.
 - Penemuan jujur pertama musim (ch402): lagu kerja kecil di percabangan tak dipetakan — didengarkan 3x, DITINGGALKAN di tempatnya, penanda ke-12 Resgar dipasang dengan satu kata: *dengar*; penemuan jujur berikutnya menunggu musim.
 - Benang lama tetap terbuka: arsiparis sebagai mata dalam Spire; penempatan lanjutan lelaki jubah abu-abu; status the Wanes/batu penanda; sumur gema; status Nilam (hidup/ tidak — TIDAK dijawab oleh kemunculan tamu; pagar ch382 tetap berlaku).
+
+## Pembaruan 2026-09-11 (kelima) — bab 403–407
+
+Pipeline kini menghitung 407 bab (CI strict: OK, outline ok). Batch ini mengeksekusi penyelidikan jawaban dari dalam (benih ch402) dan menutup musim panen; empat benang di bawah menggantikan status laporan keempat.
+
+### Buku besar (per ch405) — terbaca benar untuk pertama kalinya
+- **Uji tinta** (Kovan): tinta kalimat terakhir ≠ tinta halaman-halaman kerja — halaman kerja = tinta tambang (kulit kayu nat direbus, kering jadi hitam); kalimat terakhir = cokelat muda = TINTA JALUR (kulit kayu perhentian, dibuat & dipakai di jalan).
+- Kesimpulan kanon: kalimat *pulang ke sini harus lewat katup yang—* TIDAK berhenti karena penulis gagal pulang. Ia DIMULAI tidak selesai — ditulis di jalan pada hari berangkat, sengaja, sebagai janji yang masih berjalan; *janji yang masih berjalan tidak boleh ditutup oleh tangan yang sudah tiba*.
+- Fakta pendukung: jejak telapak tamu di jalur hanya utara→pintu kedua, TIDAK pernah menuju meja kerja; tamu tidak pernah membuka buku besar — karena meja itu MEJA NILAM (kursi Nilam tetap kosong, dikatakan tamu sendiri: "bukan untuk yang pulang"); ada hal yang milik satu tangan walaupun tangan itu penulisnya.
+- **Jawaban penulis** via anjing pengendus rumah makan jalur membawa batu (tinta jalur, tulisan tangan yang sama): *"tinta di buku besarku kukenali karena aku yang membuatnya... kalimat itu tidak ditulis untuk diselesaikan. ia ditulis untuk tetap terbuka selama jalan itu masih ada yang belum pulang — dan jalan itu masih punya yang belum pulang: aku belum selesai berjalan."*
+- Tindakan murid kedua: MENUTUP buku besar (pertama kali dalam 30 th — buku terbuka = menunggu dibaca; buku tertutup = menjalankan janjinya di jalan) + segel kapur di sampul: *dijaga — jangan dibuka, jangan diselesaikan. penulisnya masih berjalan. pintu rumahnya tidak dikunci; bukunya dikunci oleh janjinya sendiri.*
+- Kovan memasang kotak-batu + kapur + pesan di percabangan: *"ketukanmu tercatat lima kali musim ini, semua setelah kami bergerak... silakan lewat dengan lebih tenang"* — penanda jenis baru: untuk hati orang yang tidak mau disebut namanya.
+- Pagar konsistensi: JANGAN menyelesaikan kalimat itu di bab mana pun; jangan tulis tamu membuka buku; kalau tamu menyelesaikannya suatu hari, itu harus diperjuangkan naratifnya sendiri (keputusan tamu, bukan keputusan meja).
+
+### Nat penghalus (per ch406) — penemuan jujur kedua musim
+- Lokasi: nat sepotong (±2 lengan) di jalur selatan yang TIDAK menghubungkan apa pun; ditemukan Kovan karena diamnya berbeda (bekerja terlalu pelan untuk didengar kecuali telapak yang mencari).
+- Bunyinya: BUKAN irama daftar, BUKAN lagu — melainkan PEKERJAAN PENGHALUS BEJANA: gerakan tangan menghaluskan dinding dalam bejana, pekerjaan yang dicabut dari pekerjanya (bukan iramanya). Melarikan diri ke nat kecil yang tak dianggap penting; bekerja 30 th tanpa barang/meja/hasil.
+- Bukti pekerjaannya: dinding nat halus seperti dinding dalam bejana; di ujungnya lekukan + TEMPAT DUDUK BEJANA yang kosong — menunggu bejana yang DIJANJIKAN (bukan menunggu diputar; menunggu ditempatkan).
+- Detail pendengaran (pagi ekstra): bunyi sesekali BERHENTI 2–3 tarikan napas lalu lanjut dari gerakan yang sama — bukan lelah/ragu: tangan yang mendengar sesuatu dari jauh.
+- Keputusan meja tiga suara: DITINGGALKAN di tempatnya — menaruh bejana pilihan sendiri = penipuan cara baik (rumah sudah dihaluskan untuk yang dijanjikan); cara bekerja tidak bisa dikembalikan, hanya bisa ditunggu bersama. Ashvarok-Renn menyapa pekerjaannya; kapur Kanta di dinding luar: *nat ini menyiapkan rumah untuk janji yang belum tiba. jangan isi. jangan ambil. hanya dengarkan.*
+- Nama panggilan dari ibu Tamma: **NAT PENGHALUS** — *"tempat yang pekerjaannya tidak kelihatan dan rumahnya belum ada isinya... kalau bunyinya senang, berarti janjinya dekat."* Nama panggilan ini dipakai meja, bukan istilah resmi.
+- Pagar: nat penghalus TIDAK masuk daftar kurator dan TIDAK masuk daftar tak selesai sebagai entri pencarian; jangan isi lekukannya dengan bejana apa pun sampai kanon menunjukkan bejana yang dijanjikan.
+
+### Penunggu dari dalam (per ch403–404, 407) — identitas tetap terbuka
+- Fakta yang terkunci: (1) bukan murid kedua — ia ada DI DALAM ruangan saat ketukan tamu dan tidak mengetuk; tidak salah dengar (30 th membedakan bunyi rumahnya); (2) murid kedua merasa AMAN (bukan takut) saat mendengarnya — *seolah penjagaan tidak pernah jadi tanggung jawabku sendirian*; (3) mencatat kolom ketukan-dari-dalam di buku penjagaannya: kosong 26 th, lalu frekuensinya NAIK mengikuti kegiatan barak — hanya pernah menjawab SETELAH jalur hidup, tidak pernah sebaliknya; (4) margin bukunya bergambar tanda kikir serong tanpa sadar — mengenali sebelum mengenali.
+- Hasil percobaan (ch404): 3 percobaan TUNGGAL (Ashvarok-Renn / Kovan / kurator) = tidak dijawab; 3 orang BERSAMA tanpa alat = DIJAWAB satu ketukan → pintu menjawab BENTUK KERJA (tiga jenis diam yang berbeda berdiri di satu tempat = SHIFT), bukan nama orang; *pintu itu menunggu shift, dan shift-nya dipilih pekerjaan yang sedang berjalan* (Kovan).
+- Interpretasi Ashvarok-Renn (ch403): penunggu dari dalam = penunggu yang mendengar yang ia tunggu dan tidak berani membukanya; penyelidikan bukan mencari siapa dia, melainkan SIAPA yang ia tunggu — dan jawabannya mungkin bukan orang.
+- Penutup (ch407, catatan kursi Kanta): identitas TIDAK diketahui; yang diketahui: *ia menunggu seperti kita — sama-sama tidak mau pulang lebih dulu dari yang belum selesai.* Ossian menutup berkas panel: tanpa temuan nama + jaminan gembok; catatan pribadinya di berkas lama peta salah (arsip terbuka): *yang menunggu tidak pernah bisa ditutup dari luar.*
+- Pagar: JANGAN identifikasi penunggu dari dalam; JANGAN samakan dia dengan tamu tanpa nama (tamu berada DI LUAR pintu saat itu); jika suatu hari keduanya dihubungkan, itu momen arc besar yang butuh bab sendiri.
+
+### Cangkir yang dijangkir (per ch407) — tamu pulang pelan-pelan
+- Di perpustakaan selatan, suatu fajar biasa: cangkir ketiga (cangkir tamu, diganti air panas tiap hari sejak ch402) ditemukan KOSONG dengan cara berbeda dari penguapan — airnya MINUM; diletakkan kembali dengan dasar menghadap atas seperti ucapan terima kasih; tidak ada jejak telapak baru, tidak ada ketukan terdengar, tidak ada tanda di batu.
+- Respons murid kedua: TIDAK mengirim nat, tidak menulis di catatan — kabar terlalu pribadi untuk denyut; mencuci cangkir, isi ulang, kembali ke tempatnya; *"kapan pun. pintunya tidak dikunci."*
+- Korelasi jalur utara (dilarang disimpulkan, hanya dicatat berdampingan oleh Kanta): ibu Tamma jalur melaporkan tamu tua lewat KELUAR dari arah bengkel utara menuju selatan dengan TAS LEBIH RINGAN dari semua kali yang pernah dilihat pengendus (bejana nada ke-4 sudah diberikan di ch401); Kanta menulis dua fakta berdampingan: *kedekatan bukan kesimpulan; ia hanya harapan yang ditulis dengan tangan yang jujur.*
+- Status benang tamu: ia pulang PELAN-PELAN ke semua tempat yang pernah ia tinggalkan (urutan tiga pesan: peringatan → pemeriksaan → keterbukaan — Kovan: *seperti tukang memilih urutan kuncinya: yang paling jauh dulu, yang paling pribadi terakhir*); ia belum pulang untuk tinggal; identitas tetap terbuka (guru Nilam ATAU murid pertama — pagar laporan keempat tetap berlaku).
+- Penutup musim lain yang tercatat ch407: jadwal troli resmi +4 detik di sambungan rel ke-14 (*jeda yang bukan keterlambatan; ia hormat* — Brannoc); Resgar membuat penanda ke-14 dan rak gudangnya mulai menjadi arsip; halaman margin Kovan berisi angka-angka yang tidak masuk laporan (*ukuran tahun yang benar*); Sela menulis benih: *kalau suatu hari ada yang datang lewat pintu yang tidak pernah diketuk — jangan tanya siapa dia. tanyakan apakah ia sudah makan.*
+- Daftar penemuan jujur musim panen: PENUH 2/2 (lagu kerja kecil ch402 + nat penghalus ch406) — dua-duanya DITINGGALKAN; Kanta: *musim ini tidak membawa pulang satu pun benda dari bawah tanah — dan musim yang paling banyak mengembalikan, karena yang dikembalikan adalah perhatian.*
 
 ## Pertanyaan untuk penulis
 
