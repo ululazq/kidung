@@ -1,6 +1,6 @@
 # Bible: The Unremembered King
 
-Terakhir diperbarui: bab 402
+Terakhir diperbarui: bab 407
 Sudah diungkap ke pembaca sampai: bab 315
 
 ## Premis
@@ -71,6 +71,9 @@ Ejaan baku. Semua nama proper di bab mana pun harus ada di sini.
 | Daftar Kurator | Daftar resmi 6 entri irama yang dicabut (dibuat kurator); selesai bab 401 | entri 1–5 = irama tanah (dikembalikan bab 381/387/390/395/401); entri 6 = bejana Nilam, penanaman berpasangan tanpa kode + baris kedua tinta pengembara ("jangan datang dengan palu"); DIPINDAHKAN ke kursi penjaga bab 402 (arsip menunggu dibaca; ingatan menunggu diturunkan) |
 | Tamu Tanpa Nama | Penulis baris kedua entri ke-6 + tumpukan batu kedua; pulang bab 401 membawa bejana nada keempat | tangan kanan bekerja, kiri diam (tanda aliran sekolah); kikir serong terbaca di tangannya (guru Nilam ATAU murid pertama — sengaja tak dipastikan); mengetuk pintu kedua 3+1 dan DIJAWAB DARI DALAM; menolak kursi Nilam ("tetap kosong untuk yang datang seperti aku"); cangkir ketiga ditunggu di perpustakaan |
 | Lagu Empat Nada | Lagu bejana asli Nilam: 3 nada + jeda; kehilangan nada ke-4 selama 30 tahun | dibaca sbg pelajaran kunci (Ashvarok-Renn); jeda ke-3 = diam nat selatan (Kovan); nada ke-3 sama dengan lagu kain Sela; diselesaikan bab 401 oleh 3 arah (bejana asli + bejana tamu + kain Sela); ratusan ceruk perpustakaan bergetar bersama |
+| Buku Besar (perpustakaan selatan) | Buku meja kerja guru: kalimat terakhir berhenti di tengah kata "pulang ke sini harus lewat katup yang—" | UJI TINTA bab 405: kalimat terakhir = TINTA JALUR (kulit kayu perhentian) → dimulai TIDAK SELESAI di jalan pada hari berangkat; janji yang masih berjalan tidak boleh ditutup tangan yang sudah tiba; penulisnya masih berjalan (memeriksa jalur pulang); DITUTUP + segel kapur "DIJAGA" bab 405; hanya tangan penulisnya boleh menyelesaikan — dan ia memilih tidak |
+| Nat Penghalus | Nat sepotong tak menghubungkan apa-apa; dinding dalamnya dihaluskan 30 th; penemuan jujur kedua musim (bab 406) | berbunyi pekerjaan penghalus bejana — cara bekerja yang dicabut dari pekerjanya; ujungnya: lekukan + tempat duduk bejana kosong = menunggu bejana yang dijanjikan; keputusan meja: DITINGGALKAN + disapa; nama panggilan dari ibu Tamma; tidak masuk daftar (cara bekerja tak bisa dikembalikan — hanya ditunggu bersama) |
+| Penunggu dari Dalam | Yang menjawab pintu kedua dari dalam (bab 402–404) — identitas terbuka | bukan murid kedua (ada di dalam, tidak mengetuk); menjawab BENTUK KERJA bukan nama (3 tunggal gagal, 3 bersama dijawab); hanya menjawab setelah jalur hidup; murid kedua merasa aman saat mendengarnya; tidak diidentifikasi — jangan disamakan dengan tamu tanpa nama |
 
 ### Item dan istilah
 | Nama baku | Apa itu |
