@@ -1,7 +1,7 @@
 # Laporan Kontinuitas: The Unremembered King
 
-Tanggal: 2026-08-27 (diperbarui 2026-09-05)
-Cakupan: bab 1–310 (arc 1 selesai 1–250, arc 2 berjalan 251–310) + pembaruan benang aktif 311–382
+Tanggal: 2026-08-27 (diperbarui 2026-09-05, 2026-09-10)
+Cakupan: bab 1–310 (arc 1 selesai 1–250, arc 2 berjalan 251–310) + pembaruan benang aktif 311–402
 Metode: baca world-state/bible/outline + scripted scan (pipeline check, audit-arc, pipeline audit) + baca hook open/close 296–310 + grep nama & timeline
 
 ## Ringkasan
@@ -167,6 +167,49 @@ Satu perubahan penting dari pembaruan kedua:
 
 ### Benang 2 (pembaruan kedua) — status terkini
 Pertanyaan "di mana murid pertama sekarang" MASIH TERBUKA — ia bagian penting jalur utara (bengkel dikunci dari dalam, janji "datang sendiri"); sosok tua di jalur utara (ch382) berpotensi MURID PERTAMA atau NILAM sendiri; belum diputuskan.
+
+## Pembaruan 2026-09-10 (keempat) — bab 383–402
+
+Pipeline kini menghitung 402 bab (CI strict: OK, outline ok). Laporan ketiga berhenti di 382; bagian ini menutup celah 383–397 secara ringkas lalu merinci empat benang yang diminta sampai 402.
+
+### Ringkasan celah 383–397 (status yang belum tercatat)
+- **Kanta = MURID PERTAMA** (ch383): tiba dari jalur utara, memperbaiki gembok tiga lubang (janji "datang sendiri" ditepati), membuka kembali bengkel utara (ch384), bertemu murid kedua 30 th (ch385); mengisi KURSI PENJAGA tanpa upacara (ch396 — pasak berbunyi sekali).
+- **Kursi penjaga** berdiri kosong (ch391–392) lalu diisi Kanta; pasal pertama terpenuhi sebelum kursi diisi; OSSIAN tetap dilarang mengisi.
+- **Penanaman 4/6** (ch395): seam terdalam TANPA PINTU di bawah ujung peta — suara tanpa gema, tanah menjawab dengan getar dan benar penuh pada putaran KESEMBILAN; palu panggilan diketukkan ke tanah ("tempat ini sudah diberi palu").
+- **Bejana asli Nilam DIPUTAR** (ch386): bukan lagu melainkan SUARA BICARA — "carilah aku di dalam barang yang kau kembalikan" dijawab sendiri; kemudian MENGHANGAT dari dalam (ch397).
+- **Hitungan kunci (diperbaiki ch392/397):** daftar kurator = 6 entri; 4 dikembalikan (381, 387, 390, 395); 2 tersisa = SATU PASANG berpasangan; bejana Nilam TIDAK PERNAH dicabut dari tanah — ia di LUAR daftar resmi.
+
+### Penanaman irama seam — SELESAI 6/6 (per ch401)
+- 1/6 (ch381) dan 2/6 (ch387: bel pagi lembah utara — dua pembacaan, dua bel satu irama) dan 3/6 (ch390: palu panggilan Lorong B — gembok dibuka Ossian sendiri, "maaf") sudah tercakup laporan sebelumnya.
+- 4/6 (ch395): seam terdalam tanpa pintu (lihat ringkasan celah); penanda ke-10 ditinggal dengan kapur menghadap KE DALAM GELAP — jalan pulang ditandai untuk yang datang lain kali.
+- 5/6 (ch398–401, dibacakan Kanta dari kursi penjaga): nat percabangan timur, seam di bawah rel, SAMBUNGAN REL KE-14 — tempat troli melambat; Kovan: *4 detik troli = tanah menghitung iramanya sendiri*; dikembalikan bersamaan dengan entri ke-6 pada fajar penanaman berpasangan.
+- 6/6 (ch401): entri ke-6 TANPA kode = bejana Nilam, ditanamkan ke dalam bejana (bukan tanah); penanaman berpasangan: *dibunyikan bersamaan atau tidak sama sekali* — diselesaikan TIGA ARAH (lihat lagu empat nada di bawah).
+- Kovan menulis DUA angka: *enam dari enam* (yang dikembalikan kepada pemiliknya) dan *lima dari enam* (irama yang dicabut dari tanah) — daftar jujur menyimpan dua definisi; jangan dipilih salah satunya di bab berikut tanpa alasan baru.
+- **Daftar kurator SELESAI dan DIPINDAHKAN** ke kursi penjaga (ch402): arsip menunggu dibaca; ingatan menunggu diturunkan; Kanta menyimpannya sebagai daftar pengajaran. Daftar pencarian kini = DAFTAR TAK SELESAI (ch397) dengan jadwal SATU PENEMUAN JUJUR PER MUSIM (Brannoc); penemuan jujur pertama tercatat ch402 (lihat di bawah).
+
+### Lagu empat nada (per ch400–401)
+- Lagu bejana asli Nilam = TIGA nada + jeda, dan telinga barak membacanya tiga cara pada pendengaran pertama (ch400): (1) Ashvarok-Renn — lagu adalah PELAJARAN KUNCI (tiga lubang, setengah putaran, diam sebelum menyerah); guru menulisnya untuk murid yang belum datang; (2) Kovan — jeda ke-3 sama panjangnya dengan diam nat selatan: Nilam menulis IRAMA TANAH yang ia cintai; (3) Sela — lagu TIDAK SELESAI: nada ke-4 tidak pernah datang; bukan lagu yang berhenti, melainkan lagu yang MENUNGGU; nada ke-3 lagu = nada ke-3 lagu kain Sela (diam-selesai).
+- Penyelesaian (ch401, fajar penanaman berpasangan) dilakukan TIGA ARAH: murid kedua memutar bejana asli + tamu mengetuk bejana kecil yang ia bawa pada jeda (nada ke-4) + kain Sela menyapa pada nada ke-3; lagu selesai PERTAMA KALI sejak ditulis; ratusan ceruk perpustakaan bergetar BERSAMA (bukan satu demi satu); denyut nat selatan + pintu kedua bertemu lagu.
+- Kain Sela berubah: lebih ringan — *diam-yang-pernah-menyanyi*, bukan lagi diam-selesai (ch401). Pagar: jangan kembalikan sifat kain ke diam-selesai di bab mana pun.
+- Pagar lain: tamu menyatakan nada ke-4 "pergi bersama penanamnya" — jadi pemilik nada ke-4 = TAMU (lihat di bawah), bukan tanah dan bukan murid kedua.
+
+### Tamu tanpa nama (per ch402) — IDENTITAS SENGAJA TERBUKA
+- Jejaknya di kanon: baris kedua entri ke-6 (tinta yang menulis sambil berjalan, ch398) + tumpukan batu kedua dengan goresan BARU di jalur selatan (ch399, tahu jadwal rombongan) + ketukan 3+1 di pintu perpustakaan pada fajar penanaman (ch401).
+- Fisik & tanda: orang tua, tas kecil, TANGAN KANAN BEKERJA / KIRI DIAM (tanda aliran sekolah); kurator membaca bekas KIKIR SERONG di tangannya (ch401) — artinya ia GURU NILAM ATAU MURID PERTAMA; TIDAK dipastikan, dan daftar tidak perlu tahu (*"daftar hanya perlu mencatat bahwa yang menunggu untuk ditemukan akhirnya datang, dan ia datang untuk pekerjaan, bukan untuk nama"*).
+- Perilaku kanon: menolak diakui ("diakui bukan bagian dari pekerjaan"); MENOLAK kursi Nilam — kursi itu tetap kosong "untuk yang datang seperti aku"; mengetuk pintu kedua 3+1 dan DIJAWAB DARI DALAM (ch402); meninggalkan cangkir tamu — perpustakaan menunggunya pulang lagi (cangkir ketiga, ch402).
+- Bukti besar yang DIBACA KURATOR tapi TIDAK diucapkan ke meja (ch401, halaman tak dibacakan): tamu tahu kikir serong SEBELUM kikir itu ditemukan → jika ia guru Nilam sendiri, buku besar yang kalimatnya berhenti di tengah sudah punya pemilik yang berhak menyelesaikannya — dan ia tidak akan menyelesaikannya (*kalimat yang selesai ditulis bukan lagi kalimat yang menunggu*).
+- Pagar konsistensi: JANGAN beri nama tamu sebelum bab penegasan; jangan tulis ulang identitasnya sebagai pasti; umur/tubuh harus konsisten dengan sosok tua jalur utara ch382 (kemungkinan orang yang sama — belum dinyatakan kanon).
+
+### Status pintu kedua (per ch402) — tiga lapis
+1. Ditemukan (ch374) sebagai perpustakaan gema bernama dengan irama penunggu; penunggu = murid kedua (ch379–380) — lapisan ini SELESAI dan terbuka bagi sekolah.
+2. Murid kedua kini GURU Sekolah Nilam (sejak ch382); meja keluarga, kursi bersaudara, dan lagu empat nada berada di lapisan ini.
+3. LAPISAN BARU (ch402): pintu kedua (katup ketiga) DIJAWAB DARI DALAM oleh ketukan penunggu yang TIDAK diidentifikasi — *didengar; aku di sini; tunggu atau masuk, keduanya benar* — padahal murid kedua ada di dalam ruangan. Ada pendengar lain di balik pintu selatan; tamu menjawabnya sekali lagi (1 ketukan: *aku pulang bukan untuk masuk*) dan pergi.
+- Pagar: penunggu dari dalam TIDAK diidentifikasi; jangan tulis siapa dia sampai bab penegasan; jangan gabungkan dia dengan tamu tanpa nama (tamu berada DI LUAR pintu saat itu).
+
+### Benang terbuka lain (masih hidup, per ch402)
+- Buku besar kalimat tak selesai: hanya tangan yang berhak boleh menyelesaikannya; murid kedua kini MEMELIHARA bukan MENUNGGU (ch402) — tamu belum memutuskan.
+- Penemuan jujur pertama musim (ch402): lagu kerja kecil di percabangan tak dipetakan — didengarkan 3x, DITINGGALKAN di tempatnya, penanda ke-12 Resgar dipasang dengan satu kata: *dengar*; penemuan jujur berikutnya menunggu musim.
+- Benang lama tetap terbuka: arsiparis sebagai mata dalam Spire; penempatan lanjutan lelaki jubah abu-abu; status the Wanes/batu penanda; sumur gema; status Nilam (hidup/ tidak — TIDAK dijawab oleh kemunculan tamu; pagar ch382 tetap berlaku).
 
 ## Pertanyaan untuk penulis
 
