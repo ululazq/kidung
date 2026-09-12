@@ -162,7 +162,7 @@ Ejaan baku. Semua nama proper di bab mana pun harus ada di sini.
   - **Vess-Morath** ("Yang Menunggu Musim") — gema kelompok; menunggu musim yang tepat untuk kembali.
   - **Kael-Uthar** ("Yang Dititip Api") — gema tunggal, terasa panas; nat Karveth-Ulm lembah selatan; berasal dari zaman api upacara.
   - **Ondrath-Ilm** ("Penjaga Malam Tertua") — gema tunggal paling dalam, bahasanya paling tua, jawabannya paling sabar.
-- **Nama akademi kanon**: the Veyl Akademie (julukan warga: "akademi batu" — hanya sebagai julukan lisan, bukan nama resmi).
+- **Nama akademi kanon**: **the Stone Academy** adalah nama resmi awal sejak pendirian (bab 181–189); **the Veyl Akademie** menjadi nama resmi sejak bab 199; julukan warga **"akademi batu"** tetap hanya julukan lisan.
 - **Bentuk fisik ruangnya**: 31 nat aktif membentuk lingkaran menghadap aula (konfigurasi pra-Requiem kelas tertinggi seni Listen — "kursi tamu").
 - **Gerakannya kini**: menjawab name train dengan detak tambahan; mengoreksi murid akademi; belajar bahasa manusia modern diam-diam 8 bulan agar bisa menjawab saat ditanya.
 - **Protokol interaksi**: the Law for Guests + pasal-pasal rapat rumah besar; pemulangan via protokol 5 pasal (3 orang, 1 lilin, sabar dulu, keluarga yang memanggil, datang dengan kerja).
