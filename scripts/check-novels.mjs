@@ -245,7 +245,7 @@ function mechanicalChecks(body) {
   const headings = [...body.matchAll(/^#{1,6}\s+.+$/gm)].map((m) => m[0].trim());
   if (headings.length) err(`heading di body (${headings.length}): "${headings[0].slice(0, 60)}"`);
 
-  const quotes = (body.match(/"/g) || []).length;
+  const quotes = (body.match(/["“”]/g) || []).length;
   if (quotes < 2) err(`dialog nyaris tidak ada (hanya ${quotes} tanda kutip)`);
 
   const sentences = (body.match(/[^.!?]{25,}[.!?]/g) || [])

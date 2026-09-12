@@ -1,8 +1,8 @@
 # Laporan Kontinuitas: The Unremembered King
 
-Tanggal: 2026-08-27 (diperbarui 2026-09-05, 2026-09-10, 2026-09-11)
-Cakupan: bab 1–310 (arc 1 selesai 1–250, arc 2 berjalan 251–310) + pembaruan benang aktif 311–407
-Metode: baca world-state/bible/outline + scripted scan (pipeline check, audit-arc, pipeline audit) + baca hook open/close 296–310 + grep nama & timeline
+Tanggal: 2026-08-27 (diperbarui 2026-09-05, 2026-09-10, 2026-09-11, 2026-09-13)
+Cakupan: bab 1–310 (arc 1 selesai 1–250, arc 2 berjalan 251–310) + pembaruan benang aktif 311–407 + audit bab 435–449
+Metode: world-state/bible/outline/arcs + audit drift otomatis + pembacaan penuh bab 435–449 terhadap timeline, tokoh, worldbuilding, perubahan status, pengetahuan, dan state serial
 
 ## Ringkasan
 
@@ -267,3 +267,26 @@ Pipeline kini menghitung 407 bab (CI strict: OK, outline ok). Batch ini mengekse
 - Alasannya berguna: mengunci istilah sebelum dipakai luas di desa-desa lain.
 
 Catatan: laporan ini pertanyaan, bukan vonis. Tidak mengubah satu baris bab/world-state; penulis yang memutuskan tindak lanjut.
+
+## Pembaruan 2026-09-13 — bab 435–449
+
+### Ringkasan
+
+Bab 435–449 konsisten pada timeline, rantai dokumen, aturan bukti, batas pengetahuan, dan state serial. Rangkaian bergerak dari catatan poros menuju sertifikat pembelian tanpa membuka identitas kursi 4T-09 atau menggabungkan pembelian dengan tekanan. Satu salah sebut gender KRL-209 pada bab 440 diperbaiki agar konsisten dengan perkenalannya pada bab 439.
+
+### Konsistensi terkonfirmasi
+
+- Harga Listen selesai dibayar satu hari penuh pada bab 435 tanpa memakai the Remainder.
+- Urutan prosedural konsisten: catatan poros 17.24.02, permintaan garis atas 17.24.09, serah depot 18.32, status 18.47, pasangan audit 19.06, status jaminan 19.19, penyerahan 19.33, dan sidang 19.48.
+- RAC-31-P/RESPONSE membentuk PA-NEW-7716; RAC-PH-437-1186 berkembang dari pembayaran penahanan menjadi pertimbangan pembelian sah hanya setelah jaminan dan konversi.
+- MU-31-N7-884 tetap berisi 64 takik dalam paket 69 takik; PG-44102 dan KL-11608 tetap utuh; paket tidak dibuka.
+- KRL-209, petugas penerimaan, biro perantara, depot pemroses, mandat 4T-09, dan pembeli tetap memiliki peran terpisah.
+- Bab 447 mendaftarkan hak, bab 448 mengesahkan sertifikat sisi dalam, dan bab 449 baru melepaskan salinan luar setelah verifikasi silang.
+- Identitas kursi di balik 4T-09 tetap tertutup. Anthema Spire tetap hanya ujung aktif tekanan yang diamati. Pembelian artefak tidak ditetapkan sebagai sumber, tujuan, atau penyebab tekanan.
+- State akhir bab 449 cocok dengan world-state, bible, outline, dan arcs: bukti formal tersedia untuk paket pembuktian publik; Arc 2 masih aktif.
+
+### Potensi masalah
+
+Tidak ada masalah kontinuitas tersisa dalam cakupan 435–449. Gender KRL-209 kini konsisten sebagai perempuan pada bab 439–440.
+
+Catatan: laporan ini pertanyaan, bukan vonis. Tidak mengubah ambiguitas identitas kursi, sumber tekanan, atau arah Arc 2.

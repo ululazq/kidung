@@ -531,3 +531,33 @@ Premis: Pasca arc Saksi Angin, celah menara utara ditutup dengan angka rutin. Pe
 | 432 | Ossian/Thessa Vael/Kovan | Catatan lantai 40 dan 31 diperiksa ulang terhadap poros layanan serta lantai tanpa nama yang telah dikenal. Rute lama dipersempit ke satu cabang tertutup di bawah susunan utara; ini bukan penemuan pertama poros atau lantai | pintu servis lama dibuka sebagai jalur pemeriksaan, bukan akses koleksi baru | selesai |
 | 433 | Ashvarok-Renn/Kovan/Ossian | Setelah arsip dan permukaan tidak cukup menentukan kedalaman, Ashvarok-Renn memakai Listen dengan harga satu hari perhatian penuh. Ia memisahkan gema koleksi dari tekanan hidup yang lewat di bawah fondasi; bejana tetap utuh dan tidak disentuh | tekanan melintas di bawah lantai menuju dasar Spire, lalu hilang dari jangkauan Listen | selesai |
 | 434 | Ossian/Ashvarok-Renn/Kovan | Waktu pembacaan dicocokkan dengan laporan Mira dan the Anomaly Book. Anthema Spire ditetapkan sebagai ujung aktif tekanan lama, sedangkan penyebab tetap tanpa nama dan dua rumah tetap bukan bukti atau sumber izin | setelah poros dikosongkan, satu tekanan melintas; Kovan mencatat waktunya lalu menutup the Anomaly Book | selesai |
+
+## TUJUH DETIK & MANIFEST UTARA (435–439)
+
+| Bab | POV / fokus | Perubahan status | Penutup | Status |
+|---|---|---|---|---|
+| 435 | Ashvarok-Renn/Kovan/Ossian | Ashvarok-Renn menuntaskan harga Listen selama satu hari penuh tanpa memakai the Remainder; catatan poros terdaftar pukul 17.24.02, dua permintaan garis atas muncul pukul 17.24.09, dan salinan baru tersedia pukul 17.24.41 | garis atas terbukti menunggu nomor catatan, bukan membaca isinya | selesai |
+| 436 | Ashvarok-Renn/Thessa Vael/Kovan/Ossian | Riwayat respons membuka aturan RAC-31-P/RESPONSE yang diaktifkan ulang 23 hari sebelumnya dan mengarahkan catatan poros ke meja otorisasi pengadaan; antrean PA-NEW-7716 terbentuk | antrean baru menunggu baris harga | selesai |
+| 437 | Ashvarok-Renn/Kovan/Ossian/Thessa Vael | Baris harga menjadi pembayaran penahanan kategori artefak The Draveth Hegemony; cap LINGKARAN UTUH mengikat voucher RAC-PH-437-1186 pada rekening mandat berjenis the Throne tanpa membuka kursi spesifik | voucher dijadwalkan masuk meja pengiriman pukul 16.40 | selesai |
+| 438 | Ashvarok-Renn/Kovan/Ossian | Riwayat fungsi membedakan cap administratif dari cap fungsi penuh; satu token mandat dan subrekening penahan 4T-09 konsisten sejak antrean dibentuk; voucher masuk paket fisik slot N-7 | manifest akan keluar lewat konter utara saat pergantian malam | selesai |
+| 439 | Ashvarok-Renn/Kovan/Ossian/Thessa Vael | Manifest MU-31-N7-884 mengikat paket 69 takik, segel PG-44102/KL-11608, kurir berlisensi KRL-209, dan surat susul FS-3-439-27 pada rantai audit sah | paket berangkat menuju the Procurement Reconciliation Depot; Ashvarok-Renn memegang duplikat audit dan titik serah berikutnya | selesai |
+
+## RANTAI KURIR & PENGADAAN (440–444)
+
+| Bab | POV / fokus | Perubahan status | Penutup | Status |
+|---|---|---|---|---|
+| 440 | Ashvarok-Renn/Kovan/Ossian/KRL-209 | Di meja timbang timur, FS-3-439-27 mempertahankan hak hadir; berat 69 takik dan segel PG-44102/KL-11608 cocok; serah pertama MU-31-N7-884 sah dan KRL-209 dibebaskan sebagai pembawa, bukan pembeli | DR-440-884 mencatat rekonsiliasi tertutup dan penerima akhir tetap kosong | selesai |
+| 441 | Ashvarok-Renn/Kovan/Ossian/petugas depot | Rekonsiliasi dibuka tanpa paket dibuka; catatan memisahkan mandat 4T-09, biro perantara, dan depot sebagai pemroses kecocokan, tanpa memindahkan hak akhir | status 18.47 menyatakan penerima akhir kosong | selesai |
+| 442 | Ashvarok-Renn/Kovan/Ossian | Duplikat audit, DR-440-884, status 18.47, MU-31-N7-884, dan 4T-09 menjadi satu pasangan audit sah; klasifikasi menyempit ke satu kategori kursi politik tanpa membuka identitas | pasangan masuk antrean pada 19.06 | selesai |
+| 443 | Ashvarok-Renn/Kovan/Ossian | Bukti pembelian formal ditolak karena status masih penahanan/rekonsiliasi; jalur konversi dipilih dengan biaya duplikat audit, lepas hak intervensi, dan tiga takik untuk slot terkunci | permohonan berubah menjadi MENUNGGU PENYERAHAN JAMINAN pukul 19.19 | selesai |
+| 444 | Ashvarok-Renn/Kovan/Ossian | Duplikat RAC-PH-437-1186 diserahkan sebagai jaminan tak dapat ditarik selama satu siklus; paket maju satu tahap tanpa hak intervensi, sementara depot wajib memberi keluaran sesuai hasil | KM-444-1948 dijadwalkan pukul 19.48 di ruang tiga; bukti formal belum terbit | selesai |
+
+## BUKTI FORMAL PEMBELIAN (445–449)
+
+| Bab | POV / fokus | Perubahan status | Penutup | Status |
+|---|---|---|---|---|
+| 445 | Ashvarok-Renn/Kovan/Ossian/petugas depot | KM-444-1948 dibuka tepat pukul 19.48; mandat 4T-09 dinyatakan sah, utuh, berlaku, berada dalam batas transaksi, dan cocok dengan kategori artefak The Draveth Hegemony | perintah konversi bersyarat masuk antrean dan tak dapat dihentikan, sementara pembayaran masih berstatus penahanan | selesai |
+| 446 | Ashvarok-Renn/Kovan/Ossian/petugas depot | Cap fungsi LINGKARAN UTUH, voucher RAC-PH-437-1186, kecocokan mandat-kategori, dan absennya hak intervensi memaksa pembayaran penahanan menjadi pembayaran pembelian | pertimbangan sah dilepas atas nama satu mandat the Throne bertanda 4T-09; hak milik belum tercatat | selesai |
+| 447 | Ashvarok-Renn/Kovan/Ossian/petugas depot | Meja menerima satu kursi politik, kapasitas satu mandat the Throne, dan penanda sah 4T-09 sebagai penerima akhir tanpa membuka identitas kursi; pemindahan hak didaftarkan | MU-31-N7-884 menjadi milik satu the Throne bertanda 4T-09, tetapi sertifikat formal belum bisa dibawa | selesai |
+| 448 | Ashvarok-Renn/Kovan/Ossian/petugas depot | Pasangan audit, penolakan formal lama, dan kewajiban keluaran memaksa rumusan persis `artefak The Draveth Hegemony`, `satu the Throne`, dan `pembelian selesai` | sertifikat sah tercetak di sisi dalam; salinan luar tertahan pemeriksaan kata | selesai |
+| 449 | Ashvarok-Renn/Kovan/Ossian/petugas depot | Salinan luar diverifikasi silang dengan RAC-PH-437-1186, MU-31-N7-884, DR-440-884, KM-444-1948, dan 4T-09; bukti formal menetapkan satu the Throne diam-diam membeli artefak Hegemony tanpa mengaitkannya dengan sumber tekanan | Ashvarok-Renn memerintahkan penyusunan paket pembuktian publik dan pengajuan ke sidang terbuka untuk menuntut konsekuensi pembelian; Arc 2 berlanjut | selesai |
