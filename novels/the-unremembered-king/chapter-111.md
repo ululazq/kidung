@@ -5,7 +5,7 @@ chapter: 111
 
 Subuh hari keseratus lima puluh tiga, Maera Tull duduk di mejanya dengan empat barang yang tidak seharusnya berkumpul dalam satu ruangan yang sama, dan ia menyusunnya berjajar seperti penilai menjajarkan bukti, karena itulah yang semuanya itu.
 
-Kotak kayu bersegel lilin ungu dari rak belakang, isi tas kurir bisu dan petugas slot. Fragmen bertanda empat titik, lilin-lilin putih-abu threaded with tin, lembar-lembar kode kotak garis miring atas nama delapan keluarga yang tidak pernah pindah, dan lipatan besar berkop KORD-4 di paling atas daftar isinya. Arsip Tharrow yang dicicil lewat gencatan senjata, kini barang Guild sepenuhnya. Permohonan audit saluran dana yang tiba disegel ibu jari seorang pegawai jatuh. Dan pernyataan fakta kolektif distrik timur, empat ratus keluarga yang menolak menjadi barang gudang dengan antrean tanda tangan yang melengkung sampai pintu.
+Kotak kayu bersegel lilin ungu dari rak belakang, isi tas kurir bisu dan petugas slot. Fragmen bertanda empat titik, lilin-lilin putih-abu threaded with tin, lembar-lembar kode kotak garis miring atas nama delapan keluarga yang tidak pernah pindah, dan lipatan besar berkop KORD-4 di paling atas daftar isinya. Arsip Tharrow yang dicicil lewat gencatan senjata, kini barang Guild sepenuhnya. Permohonan audit saluran dana yang tiba disegel ibu jari seorang pegawai jatuh. Dan district collective statement of fact timur, empat ratus keluarga yang menolak menjadi barang gudang dengan antrean tanda tangan yang melengkung sampai pintu.
 
 Empat kartu. Satu pemegang. Di ujung lain kota ada satu orang yang memegang kartu juga, dan selama dua tahun orang itulah yang menentukan kartu mana yang boleh dilihat meja mana.
 
@@ -19,11 +19,11 @@ Dua paket disusunnya pagi itu, dan penyusunannya memakan waktu lebih lama daripa
 
 Paket pertama pergi ke pusat Assayers' Guild. Laporan penyidik bidang, lengkap dengan kronologi yang tidak menyisakan celah, mulai dari surat edaran kuota yang tertanggal sebelum Vael menginjak Caldrest, rantai slot serahan malam, sampai gang belakang tempat kurir bisu ditutup mulutnya oleh telapak bocah tambang. Salinan semua kode digambarkan berskala. Gambar tanda empat titik dilampirkan dengan ukuran sebenarnya dan catatan bahwa aslinya terbaca instrumen. Yang asli tidak dikirim ke mana-mana. Aslinya tetap tidur di Caldrest, di dalam kotak yang stempel ungunya diakui dua biro sekaligus — sebab barang yang dipegang Guild tidak bisa dipanggil pulang oleh sekte tanpa perang kertas yang kalah duluan di halaman pertama.
 
-Paket kedua lebih tipis, dan tipisnya sengaja. Notifikasi resmi komisi kepada pihak berkepentingan. Pihak yang berkepentingan atas operasi lisensi tambang Caldrest, menurut register yang sah, adalah Koordinasi Artefak Regional, lantai empat puluh, Anthema Spire. Isinya tidak memuat satu kalimat tuduhan. Hanya tabel tanggal sayatan yang berpasangan dengan tanggal kiriman, tanggal pencairan yang berpasangan dengan kode kotak garis miring, dan kode penerima teratas di baris terakhir. Ditutup dengan satu kalimat yang sopan sampai menyakitkan, bahwa sesuai kewajiban pasal supervisi, salinan notifikasi ini wajib diteruskan kepada induk biro penerima.
+Paket kedua lebih tipis, dan tipisnya sengaja. Notifikasi resmi komisi kepada pihak berkepentingan. Pihak yang berkepentingan atas operasi lisensi tambang Caldrest, menurut register yang sah, adalah Regional Artifact Coordination, lantai empat puluh, Anthema Spire. Isinya tidak memuat satu kalimat tuduhan. Hanya tabel tanggal sayatan yang berpasangan dengan tanggal kiriman, tanggal pencairan yang berpasangan dengan kode kotak garis miring, dan kode penerima teratas di baris terakhir. Ditutup dengan satu kalimat yang sopan sampai menyakitkan, bahwa sesuai kewajiban pasal supervisi, salinan notifikasi ini wajib diteruskan kepada induk biro penerima.
 
 Jadi jalurnya begini. Surat itu tiba di Quota Office Caldrest. Pasal memaksa penerusannya ke lantai empat puluh. Pasal yang lain memaksa lantai empat puluh memberitahukan pusat sectenya bahwa biro miliknya sendiri sedang diperiksa lembaga lain. Kebetulan yang diatur oleh tangan yang menghitung.
 
-Pegawai pos tua menerima kedua paket itu pada jam kerja pertama, menimbang keduanya di kotak timbung kecilnya, dan menatap Maera dengan mata yang setahun ini sudah berhenti terkejut pada apa pun yang keluar dari ruangan itu.
+Pegawai pos tua menerima kedua paket itu pada jam kerja pertama, menimbang keduanya di weighing box kecil miliknya, dan menatap Maera dengan mata yang setahun ini sudah berhenti terkejut pada apa pun yang keluar dari ruangan itu.
 
 "Dua paket, Nona. Satu tebal, satu tipis."
 
@@ -71,9 +71,9 @@ Pintu pos Guild ditutup oleh tangan orang lain, dan Maera mencatat jam kunjungan
 
 Pada malam hari keseratus lima puluh enam, jawaban yang lebih besar dari pantulan mana pun tiba di Caldrest.
 
-Kurir besar the Quiet Vein masuk gerbang kota saat lonceng malam pertama, membawa surat berkop Dewan Regional yang disampaikan bukan kepada Quota Office melainkan kepada pos Guild sebagai lembaga pemberitahuan, sesuai etiket antarlembaga yang bahasa hukumnya lebih tua dari semua orang yang hidup di kota ini. Isinya dibacakan Maera dua kali di ruang kerjanya dengan lampu yang ditarik rendah.
+Kurir besar the Quiet Vein masuk gerbang kota saat lonceng malam pertama, membawa surat berkop the Regional Council yang disampaikan bukan kepada Quota Office melainkan kepada pos Guild sebagai lembaga pemberitahuan, sesuai etiket antarlembaga yang bahasa hukumnya lebih tua dari semua orang yang hidup di kota ini. Isinya dibacakan Maera dua kali di ruang kerjanya dengan lampu yang ditarik rendah.
 
-Menindaklanjuti pemberitahuan lembaga, Dewan Regional Anthema Spire telah menugaskan SATU AUDITOR untuk melakukan pemeriksaan administratif menyeluruh atas Koordinasi Artefak Regional cabang Caldrest, meliputi klasifikasi segmen, operasi lisensi, dan seluruh jalur administratif biro. Auditor tidak membawa nama individu ke wilayah tugasnya. Auditor hanya membawa mandat. Perjalanan menggunakan kereta pos Guild, dan kedatangan diperkirakan dalam tiga hari.
+Menindaklanjuti pemberitahuan lembaga, the Regional Council Anthema Spire telah menugaskan SATU AUDITOR untuk melakukan pemeriksaan administratif menyeluruh atas Regional Artifact Coordination cabang Caldrest, meliputi klasifikasi segmen, operasi lisensi, dan seluruh jalur administratif biro. Auditor tidak membawa nama individu ke wilayah tugasnya. Auditor hanya membawa mandat. Perjalanan menggunakan kereta pos Guild, dan kedatangan diperkirakan dalam tiga hari.
 
 Tiga hari. Surat Maera baru keluar dari kota empat hari lalu, dan sudah ada satu orang di dunia ini yang diberi mandat untuk membongkar biro Vael dari dalam, dikirim oleh majikan Vael sendiri, berjalan di atas rel yang dibiayai kas biro yang diperiksanya.
 

@@ -3,7 +3,7 @@ title: "Bab 294: Sengketa Tanpa Raja"
 chapter: 294
 ---
 
-Desa Karung baru di lembah timur memiliki satu masalah: dua lulusan Sekolah Mendengar, keduanya ditempatkan di sana, berbeda pendapat soal siapa yang berhak menyapa duluan.
+Desa Karung baru di lembah timur memiliki satu masalah: dua lulusan the Listening School, keduanya ditempatkan di sana, berbeda pendapat soal siapa yang berhak menyapa duluan.
 
 Yono, lulusan angkatan keempat, berpendapat penyapa harus bergiliran menurut urutan usia. Dila, lulusan angkatan yang sama, berpendapat penyapa harus dipilih tiap pagi secara sukarela. Keduanya sama-sama benar menurut kurikulum, dan keduanya sama-sama keras kepala.
 
@@ -13,7 +13,7 @@ Ashvarok-Renn membaca catatan itu, lalu meletakkannya. "Tidak."
 
 "Tidak apa?"
 
-"Tidak kita turun." Ashvarok-Renn menatap Sela. "Delapan belas tahun silam, setiap sengketa seperti ini aku yang memutus. Sekarang biarkan desa itu selesaikan sendiri. Itu ujian terakhir arc ini: apakah dunia bisa mendengar tanpa arbiter dari atas."
+"Tidak kita turun." Ashvarok-Renn menatap Sela. "Delapan belas tahun silam, setiap sengketa seperti ini aku yang memutus. Sekarang biarkan desa itu selesaikan sendiri. Itu ujian terakhir kita: apakah dunia bisa mendengar tanpa arbiter dari atas."
 
 Sela menatap papan. "Kalau mereka berkelahi?"
 
@@ -123,7 +123,7 @@ Mak Sur, beberapa hari kemudian, menulis surat pendek ke Sela di barak utara:
 
 *Kak, sengketa kami selesai tanpa kedatangan siapa pun dari kalian. Bukan karena kami tidak butuh. Karena kami tahu cara duduk di balai dan dengar satu sama lain. Itu pelajaran yang kalian tanam delapan belas tahun silam, tetapi kami yang panen sekarang. Terima kasih tidak datang.*
 
-Dan di barak utara, Yang Dulu Sunyi mencatat satu detak: *sengketa selesai dari bawah.* Getar itu merambat ke seluruh nat Karvess — seolah batu-batu tua mencatat bahwa era seorang raja memutus segalanya telah diganti era desa memutus dirinya sendiri.
+Dan di barak utara, the Once-Silent mencatat satu detak: *sengketa selesai dari bawah.* Getar itu merambat ke seluruh nat Karvess — seolah batu-batu tua mencatat bahwa era seorang raja memutus segalanya telah diganti era desa memutus dirinya sendiri.
 
 Ashvarok-Renn, malam itu, menutup buku kecilnya tanpa menulis apa-apa untuk Kasus Karung. Itu pertama kalinya ia biarkan sebuah sengketa tertulis selesai oleh orang lain, bukan olehnya. Dan itu, lebih dari perayaan apa pun, adalah tanda bahwa warisan benar-benar hidup.
 
@@ -145,9 +145,9 @@ Mereka diam. Di luar barak, angin lembah utara bertiup pelan. Di Karung jauh di 
 
 Seorang penduduk Karung, lewat warung malam, mencatat di buku desa: *Hari ini tidak ada sengketa. Dua penyapa jalan masing-masing. Kami tidak butuh raja untuk tenang. Kami butuh balai dan mau duduk.*
 
-Dan nat lorong di ujung desa menyala hangat, mencatat kalimat yang sama dengan Yang Dulu Sunyi di barak utara: *sengketa selesai dari bawah.* Dua batu di dua tempat berbeda, satu getaran yang sama — dunia mulai menjaga kebiasaannya tanpa menunggu satu pun suara dari atas.
+Dan nat lorong di ujung desa menyala hangat, mencatat kalimat yang sama dengan the Once-Silent di barak utara: *sengketa selesai dari bawah.* Dua batu di dua tempat berbeda, satu getaran yang sama — dunia mulai menjaga kebiasaannya tanpa menunggu satu pun suara dari atas.
 
-Pekan berikutnya, Mak Sur menulis buku kecil berjudul *Cara Karung Musyawarah* — lima halaman, tulisan tangan, isinya cara mereka selesaikan sengketa tanpa arbiter. Buku itu dikirim ke delapan desa tetangga lewat pos nat. Salah satu desa membalas: *Kami punya sengketa serupa. Boleh kami coba cara kalian?*
+Pekan berikutnya, Mak Sur menulis buku kecil berjudul *How Karung Deliberates* — lima halaman, tulisan tangan, isinya cara mereka selesaikan sengketa tanpa arbiter. Buku itu dikirim ke delapan desa tetangga lewat pos nat. Salah satu desa membalas: *Kami punya sengketa serupa. Boleh kami coba cara kalian?*
 
 Mak Sur membalas singkat: *Buku ini bukan aturan. Hanya cara kami. Tiap desa punya balainya sendiri. Duduk, dengar, putus bersama.*
 

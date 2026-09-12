@@ -21,7 +21,6 @@ Ia tidak memasuki ruangan itu malam itu. Ia duduk di luar, di atas tanah, mengha
 
 Di hadapan katup itu, sebelum suara apa pun turun dari baliknya, Ashvarok-Renn melakukan satu hal yang ia tidak lakukan di kunjungan pertama: ia meletakkan pelat empat titik itu di tanah, tepat di ambang, seperti orang meletakkan kartu namanya di depan pintu orang yang tidak dikenal — dan pelat itu tidak berbunyi. Pelat itu hanya bergetar, pelan dan panjang, dan getaran itu tidak berhenti sampai pintu berbicara. Kovan pernah berkata: logam yang jujur tidak berbohong. Malam ini, untuk pertama kalinya, Ashvarok-Renn mendengar logam yang jujur berbicara dengan bahasa orang yang sudah lama dikenal di kedua sisi pintu.
 
-Ia tidak memasuki ruangan itu malam itu. Ia duduk di luar, di atas tanah, menghadap pintu, seperti orang yang menunggu keluar dari rumah yang dikunci dari dalam — dan sebelum subuh, ia mendengar yang didengarnya juga dari dalam: bukan suara, bukan langkah. Irama penunggu itu mengetuk tiga kali, satu diam — lalu di dalam diam itu, sesuatu yang baru: bukan ketukan kecil, bukan lagu. Suara orang tua yang menghela napas, sekali, seperti orang yang akhirnya berhenti menahan napas karena tahu yang menunggu di luar sudah tidak asing.
 
 Suara itu berbicara, pelan, dari balik katup, dengan bahasa yang sama dengan wasiat di buku besar itu — bahasa seorang yang pernah diajar oleh Nilam:
 

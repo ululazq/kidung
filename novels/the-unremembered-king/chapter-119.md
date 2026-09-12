@@ -85,7 +85,7 @@ Anak itu berpikir sungguh-sungguh, lalu mengangkat tangan lagi.
 
 ---
 
-Malamnya, setelah ritual panggil-nama blok timur menutup lingkarannya dan dapur dikunci, Sela duduk sendirian di depan papan tulis besarnya di sudut ruang bersama. Kolom-kolom depan sudah penuh dengan catatan hari ini, produksi, kas, Hourglass yang tidak menambah garis baru minggu ini, kolom NAMA yang masih berhenti pada dua garis miring dan satu kata Salah alamat. Di halaman belakang, di kolom-kolom yang hanya dibaca dirinya, berbaris tulisan-tulisan kecil dari masa-masa penting, dari daftar hal yang tidak berubah sampai baris tentang tiga belas dan wajah kakaknya.
+Malamnya, setelah east-block name-calling ritual menutup lingkarannya dan dapur dikunci, Sela duduk sendirian di depan papan tulis besarnya di sudut ruang bersama. Kolom-kolom depan sudah penuh dengan catatan hari ini, produksi, kas, Hourglass yang tidak menambah garis baru minggu ini, kolom NAMA yang masih berhenti pada dua garis miring dan satu kata Salah alamat. Di halaman belakang, di kolom-kolom yang hanya dibaca dirinya, berbaris tulisan-tulisan kecil dari masa-masa penting, dari daftar hal yang tidak berubah sampai baris tentang tiga belas dan wajah kakaknya.
 
 Ia memegang kapurnya sebentar di atas halaman itu, lalu menulis satu baris saja, huruf kecil dan tegak, di bawah semua baris lama.
 

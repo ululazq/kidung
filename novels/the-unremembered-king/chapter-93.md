@@ -67,6 +67,4 @@ Rapat kecil terakhir diadakan berdiri, di gudang perkakas, dengan pintu tertutup
 
 Ashvarok tidak menjawab, karena kalimat itu sudah benar tanpa perlu didampingi apa pun.
 
-Di barak, subuh harinya, Sela mencatat satu baris pendek di kolom Hourglass setelah mengukurnya tanpa perlu diminta — denyut yang tidak maju, lapar yang sudah setengah dijawab roti. Ia menuliskan tanggalnya, kata kanal, dan satu garis miring yang artinya kecil. Baris paling ringkas yang pernah kolom itu terima, dan keduanya sama-sama tahu bahwa ringkas pada kolom itu adalah barang mahal.
-
-
+Di barak, subuh harinya, Sela mencatat satu baris pendek di kolom Hourglass setelah mengukurnya tanpa perlu diminta — denyut yang tidak maju, lapar yang sudah setengah dijawab roti. Ia menuliskan tanggalnya, kata kanal, dan satu garis miring yang artinya kecil. Baris paling ringkas yang pernah kolom itu terima, dan keduanya sama-sama tahu bahwa ringkas pada kolom itu adalah barang mahal. Maera menyimpan salinannya, sadar bahwa angka itu kini memiliki saksi.

@@ -17,7 +17,7 @@ Seorang murid — Harn, yang delapan bulan lalu tidak yakin dirinya berhak masuk
 
 Ashvarok mengajar jalur untaian di pagi hari; Sareth dan Barim mengajar telapak di sorenya. Murid-murid berpindah ruang, dan objek-objek latihan ikut berpindah bersama mereka — benda-benda yang disumbangkan warga Caldrest setelah mendengar akademi butuh: alat tenun Lissa yang kedua, palu pandai besi tua, cangkir retak milik ibu Tamma yang ia sumbangkan dengan syarat "kembalikan setelah latihan, itu cangkir enak".
 
-Hasil perbandingan pertama dicatat Kovan dengan angka-angkanya, dan pada malam Kapat, penghitung itu memaparkan temuannya di meja panjang dengan wajah orang yang menemukan angka yang salah tetapi sudah dicek tiga kali. Ia membuka rapat tanpa salam, sesuatu yang tidak pernah ia lakukan:
+Hasil perbandingan pertama dicatat Kovan dengan angka-angkanya, dan pada Malam Kapat, penghitung itu memaparkan temuannya di meja panjang dengan wajah orang yang menemukan angka yang salah tetapi sudah dicek tiga kali. Ia membuka rapat tanpa salam, sesuatu yang tidak pernah ia lakukan:
 
 "Sebelum kalian makan, aku mau kalian dengar ini dalam keadaan sadar dan duduk." Ia menyalakan lilin kedua di depannya — kebiasaan baru akademi: dua lilin artinya dua jalur, dan malam ini keduanya menyala untuk satu laporan. "Murid-murid jalur telapak membaca LEBIH DALAM darinya."
 
@@ -55,13 +55,13 @@ Ashvarok menutup tangannya di atas batu itu. "Tawaran atau tantangan?"
 
 Yang membuat pekan itu berbeda dari semua pekan sebelumnya adalah kedatangan Ossian Vael dengan map tebal dan ekspresi birokrat yang sedang membawa kabar ganda: satu rumit, satu luar biasa.
 
-"Rumit dulu," kata Ossian, duduk di meja panjang akademi — ia kini hadir tiap rapat sebagai Kantor Penghubung Utara, jabatan ciptaannya sendiri yang awalnya ditertawakan dan sekarang dikutip Dewan Regional. "Dari empat ratus jiwa utara, pemetaan silsilah selesai untuk tiga ratus empat puluh. Dan temuan besarnya—" Ia membuka mapnya, dan menarik napas sebelum kalimatnya, yang tidak dilakukan birokrat kalau kabarnya biasa saja. "Enam puluh dua jiwa punya keturunan langsung yang masih hidup — anak, cucu, keponakan — dan hampir semuanya TIDAK TAHU bahwa leluhur atau keluarganya ada di dalam penyimpanan kedalaman. Beberapa bahkan tinggal di Caldrest. Tetangga sendiri."
+"Rumit dulu," kata Ossian, duduk di meja panjang akademi — ia kini hadir tiap rapat sebagai the Northern Liaison Office, jabatan ciptaannya sendiri yang awalnya ditertawakan dan sekarang dikutip the Regional Council. "Dari empat ratus jiwa utara, pemetaan silsilah selesai untuk tiga ratus empat puluh. Dan temuan besarnya—" Ia membuka mapnya, dan menarik napas sebelum kalimatnya, yang tidak dilakukan birokrat kalau kabarnya biasa saja. "Enam puluh dua jiwa punya keturunan langsung yang masih hidup — anak, cucu, keponakan — dan hampir semuanya TIDAK TAHU bahwa leluhur atau keluarganya ada di dalam penyimpanan kedalaman. Beberapa bahkan tinggal di Caldrest. Tetangga sendiri."
 
 Kesunyian ruangan menelan habis kalimat itu. Di luar, terdengar kelas sore berlatih name train.
 
 "Keluarga yang tidak tahu mereka punya kakek yang masih 'ada'," kata Brannoc pelan.
 
-"Tepat. Maka Kantor Penghubung menyusun program pemberitahuan berjenjang: kabar jiwa disampaikan kepada keluarga DULU, berminggu-minggu sebelum pemulangannya — supaya ketika orang itu kembali, yang menunggu bukan kerumunan asing, tetapi keluarga yang sudah siap." Ossian memandang meja, dan untuk sesaat jabatannya yang selalu rapi tampak lelah. "Karena kita sudah belajar dari Rina: pulang ke pelukan yang siap itu beda dunia dengan pulang ke kerumunan yang kaget."
+"Tepat. Maka the Liaison Office menyusun program pemberitahuan berjenjang: kabar jiwa disampaikan kepada keluarga DULU, berminggu-minggu sebelum pemulangannya — supaya ketika orang itu kembali, yang menunggu bukan kerumunan asing, tetapi keluarga yang sudah siap." Ossian memandang meja, dan untuk sesaat jabatannya yang selalu rapi tampak lelah. "Karena kita sudah belajar dari Rina: pulang ke pelukan yang siap itu beda dunia dengan pulang ke kerumunan yang kaget."
 
 Barim, yang hadir duduk di sebelah jendela, bertanya pelan: "Dan kalau keluarganya menolak? Delapan belas tahun itu lama. Ada yang sudah pindah agama, pindah kota, pindah nama."
 
@@ -75,7 +75,7 @@ Ashvarok membaca salinan surat itu yang diselipkan Ossian ke atas mejanya, memba
 
 "Catatan raja: seribu tahun kesendirian sedang dibayar lunas dengan cara yang tidak pernah kuprediksi — bukan dengan satu pembalasan besar, tetapi dengan enam puluh dua keluarga yang mendadak jadi lebih besar."
 
-Sebelum pergi, Ossian berhenti di pintu dan berkata hal yang jarang ia katakan dengan suara bukan birokrat: "Delapan belas tahun aku cari kebenaran tentang utara supaya bisa menyalahkan orang yang tepat. Ternyata jawabannya bukan siapa yang salah. Namun enam puluh dua keluarga yang belum tahu bahwa mereka belum ditinggalkan." Ia membetulkan mapnya di lengannya. "Aku butuh waktu lama untuk jadi orang yang bisa membawa kabar baik, raja. Jangan sampai jabatan Kantor Penghubung ini kehilangan pemiliknya sebelum empat ratus jiwa pulang semua."
+Sebelum pergi, Ossian berhenti di pintu dan berkata hal yang jarang ia katakan dengan suara bukan birokrat: "Delapan belas tahun aku cari kebenaran tentang utara supaya bisa menyalahkan orang yang tepat. Ternyata jawabannya bukan siapa yang salah. Namun enam puluh dua keluarga yang belum tahu bahwa mereka belum ditinggalkan." Ia membetulkan mapnya di lengannya. "Aku butuh waktu lama untuk jadi orang yang bisa membawa kabar baik, raja. Jangan sampai jabatan the Liaison Office ini kehilangan pemiliknya sebelum empat ratus jiwa pulang semua."
 
 "Akan kupastikan kau melekat," kata Ashvarok.
 

@@ -35,13 +35,13 @@ Ia bangkit. Lelaki tua itu berdiri dengan punggung yang tidak sesuai usia sembil
 
 ---
 
-Mampiran itu terjadi malamnya juga, dan menjadi adegan yang Sela catat dengan tangan gemetar untuk world-state:
+Mampiran itu terjadi malamnya juga, dan menjadi adegan yang Sela catat dengan tangan gemetar untuk buku keadaan:
 
 Barim turun lewat the Door of Four Returns didampingi Ashvarok, sampai ambang aula. Tidak masuk. Hanya berdiri di ambang, di titik persis tempat ia dulu berdiri setiap malam delapan tahun silam, dan mengetuk nat sisi timur tiga kali.
 
 Irama penjaga malam. Irama lamanya.
 
-Dan dari kedalaman — dari retakan yang selama ini menyanyi lagu Hegemony dan menghitung murid-murid akademi — jawaban datang dalam bentuk yang tidak pernah dicatat siapa pun sebelumnya: sapuan kecil yang menirukan ketukan balik. Tiga kali. Persis. Seperti teman lama menjawab kode rahasia mereka yang tidak pernah resmi.
+Dan dari kedalaman — dari retakan yang selama ini menyanyi the Hegemony song dan menghitung murid-murid akademi — jawaban datang dalam bentuk yang tidak pernah dicatat siapa pun sebelumnya: sapuan kecil yang menirukan ketukan balik. Tiga kali. Persis. Seperti teman lama menjawab kode rahasia mereka yang tidak pernah resmi.
 
 Barim tertawa di kegelapan. Tawa tua yang jujur. "Dia inget," katanya. "Delapan belas tahun, dan dia inget kode kita."
 
@@ -69,7 +69,7 @@ HARI 326. BARIM. TEMAN BAWAH INGET SAYA. KODE KITA MASIH JALAN.
 
 Dan di bawahnya, kapur kedua (Ashvarok): "Dia juga ingat kamu. Delapan belas tahun. Tidak pernah sekali pun."
 
-Di bawahnya lagi, kapur ketiga (Sela), yang membuat kedua lelaki itu diam membaca lama: "Catatan keluarga: tambah satu baris di peta nama. Penjaga galeri bantu shift malam, delapan tahun — kembali dari perjalanan panjang. Status: pulang."
+Di bawahnya lagi, kapur ketiga (Sela), yang membuat kedua lelaki itu diam membaca lama: "Catatan keluarga: tambah satu baris di name map. Penjaga galeri bantu shift malam, delapan tahun — kembali dari perjalanan panjang. Status: pulang."
 
 
 
@@ -78,8 +78,7 @@ Di bawahnya lagi, kapur ketiga (Sela), yang membuat kedua lelaki itu diam membac
 Hari keenam dan ketujuh pemulihan Barim membawa ingatan yang tidak ditunggu siapa pun: keluarganya.
 Ia tidak punya istri. Ia tidak punya anak. Namun ia punya SEORANG — seorang keponakan, anak saudarinya yang pindah ke pelabuhan selatan dua puluh tahun silam, yang dulu mengirim surat tiap musim panen sampai suratnya berhenti datang delapan belas tahun silam.
 "Suratnya berhenti karena aku berhenti balas," kata Barim kepada Ashvarok malam itu, dengan kejernihan orang yang baru melihat lukanya sendiri dari jarak yang benar. "Bukan dia yang lupa aku. Aku yang hilang dari hidupnya. Dan dia pasti pikir aku mati. Mungkin dia sudah bakar kubur simbolis buatku." Jeda panjang. "Ada satu cara tahu dia masih hidup atau tidak."
-Ashvarok sudah menulis suratnya sebelum Barim selesai berkata "pelabuhan selatan" — dan menandatanganinya dengan jabatan yang membuat surat itu dijamin sampai: Kantor Penghubung Utara Caldrest, Ossian Vael.
-Lanjutan bab 182.
+Ashvarok sudah menulis suratnya sebelum Barim selesai berkata "pelabuhan selatan" — dan menandatanganinya dengan jabatan yang membuat surat itu dijamin sampai: the Caldrest Northern Liaison Office, Ossian Vael.
 
 ---
 
@@ -99,7 +98,7 @@ Ada hal yang tidak banyak diketahui warga Caldrest: ibu Tamma menyimpan satu can
 
 ---
 
-Entri Hourglass malam itu ditulis Ashvarok, dan isinya menutup bab ini dengan neraca yang tidak ada di laporan mana pun:
+Entri Hourglass malam itu ditulis Ashvarok, dengan neraca yang tidak ada di laporan mana pun:
 Hari 328. Dua kabar untuk Barim hari ini. Pertama: kode ketukannya masih hidup — kedalaman menjawabnya tadi malam dengan irama yang sama persis. Kedua: keponakannya hidup di pelabuhan selatan, punya dua anak, dan ibunya sampai mati percaya pamannya masih mengetuk nat di suatu tempat.
 Kesimpulan yang membuatku diam lama: delapan belas tahun yang kita anggap tragedi kosong ternyata penuh — penuh orang yang menolak berhenti percaya. Ibu yang yakin sampai akhir. Keponakan yang menyimpan surat-surat lama. Kedalaman yang menyimpan suara.
 Yang hilang itu sebenarnya tidak pernah ditinggalkan sendirian. Mereka selalu dijaga oleh orang-orang yang memilih terus percaya tanpa bukti.

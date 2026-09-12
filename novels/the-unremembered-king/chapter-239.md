@@ -21,7 +21,7 @@ Jawaban Kael-Uthar diteruskan lewat bara itu (protokol yang disiapkan Sareth dan
 
 ---
 
-Yang terjadi setelah itu oleh kronik disebut "malam dua api": bara Karveth-Ulm dibawa ke api unggun pegunungan, dan ketika keduanya bersentuhan, api pegunungan yang tiga ratus tahun dijaga tak mati itu menyala lebih tinggi dari malam mana pun dalam ingatan kamp.
+Yang terjadi setelah itu oleh kronik disebut "the Night of Two Fires": bara Karveth-Ulm dibawa ke api unggun pegunungan, dan ketika keduanya bersentuhan, api pegunungan yang tiga ratus tahun dijaga tak mati itu menyala lebih tinggi dari malam mana pun dalam ingatan kamp.
 
 Dua api purba — satu dari selatan, satu dari timur laut — terlihat saling menjilat lidah-lidahnya seperti dua orang tua yang bertemu kembali.
 
@@ -33,7 +33,7 @@ Pemulangan dua puluh empat jiwa dilakukan keesokan harinya — dengan cara yang 
 
 "Api kami adalah pintunya," kata Ulmek kepada Ashvarok. "Orang titipan masuk lewat api waktu dulu. Maka keluar juga lewat api."
 
-Dua puluh empat jiwa naik satu per satu dari nyala api unggun yang tidak panas menyentuh siapa pun — keluar dengan tenang, disambut tepuk tangan pegunungan (pola khusus: tujuh ketukan), dan disambung langsung ke Jalan Nama versi pegunungan: untaian api kecil yang dinyalakan untuk tiap nama.
+Dua puluh empat jiwa naik satu per satu dari nyala api unggun yang tidak panas menyentuh siapa pun — keluar dengan tenang, disambut tepuk tangan pegunungan (pola khusus: tujuh ketukan), dan disambung langsung ke the Path of Names versi pegunungan: untaian api kecil yang dinyalakan untuk tiap nama.
 
 Setelah semuanya selesai, Ulmek berdiri di depan api unggun yang kini tinggal bara — dan berkata kalimat yang oleh Ashvarok ditulis sebagai penutup resmi wilayah:
 
@@ -67,7 +67,7 @@ Hari 891. PEMULANGAN KARVESS: SELESAI.
 
 Empat ratus jiwa. Tujuh belas wilayah. Semua pulang, semua bernama lagi, semua punya meja makan.
 
-Yang tersisa dari proyek ini bukan sisa pekerjaan — melainkan warisan: protokol musim (16 pasal dan terus bertambah), Sekolah Mendengar (angkatan 3 mendaftar), sekolah menenun (Lompa masih guru, menolak jabatan), sistem nat kecil (47 batu dan bertambah), rantai cerita antar-wilayah, dan satu dunia yang tidak pernah lagi menyebut kedalaman dengan kata "gelap".
+Yang tersisa dari proyek ini bukan sisa pekerjaan — melainkan warisan: the Seasonal Protocol (16 pasal dan terus bertambah), the Listening School (angkatan 3 mendaftar), sekolah menenun (Lompa masih guru, menolak jabatan), sistem nat kecil (47 batu dan bertambah), rantai cerita antar-wilayah, dan satu dunia yang tidak pernah lagi menyebut kedalaman dengan kata "gelap".
 
 Kedalaman sekarang disebut dengan namanya masing-masing. Dan nama itu selalu diucapkan dengan hangat.
 
@@ -121,7 +121,7 @@ Ibu Tamma menyeruput tehnya dan mengangguk pada dunia yang sudah berubah itu:
 
 ---
 
-Dan di halaman terakhir neraca — halaman yang oleh Sela diberi judul "Untuk Pembaca Masa Depan" — tertulis kalimat-kalimat penutup dari semua tokoh proyek, masing-masing satu:
+Dan di halaman terakhir neraca — halaman yang oleh Sela diberi judul "Untuk the Future Reader" — tertulis kalimat-kalimat penutup dari semua tokoh proyek, masing-masing satu:
 
 Ashvarok: "Seribu tahun aku jaga dunia dari kedalaman. Tahun ini aku belajar cara yang benar: menjaga dunia BERSAMA kedalaman."
 
@@ -161,7 +161,7 @@ Proyek pemulangan Karvess: SELESAI. Era menyapa dimulai.
 
 Dan di bawahnya, satu baris dari ibu Tamma — yang oleh Sela ditempatkan persis di bawah kalimat itu, karena keduanya memang sepasang:
 
-"Sup Kamp Pertama sudah masak. Yang pulang, makan dulu. Yang belum, jangan khawatir — dapurnya tidak pernah tutup."
+"First Camp Soup sudah masak. Yang pulang, makan dulu. Yang belum, jangan khawatir — dapurnya tidak pernah tutup."
 
 Dan Ashvarok, membaca dua baris itu bersebelahan — kalimat resmi raja dan kalimat dapur ibu — tertawa lama di ruang arsip yang sunyi, lalu menulis catatan terakhirnya untuk buku ini:
 
@@ -179,6 +179,4 @@ Proyek pemulangan Karvess resmi: SELESAI. Era menyapa dimulai — dan tidak akan
 
 Dan kalau ada pembaca yang bertanya bagaimana rasanya berdiri di hari itu — hari ketika empat ratus nama akhirnya semua dipanggil dan semuanya menjawab — maka jawaban Ashvarok tertulis di halaman paling terakhir neraca, dengan tangan yang tenang:
 
-Rasanya seperti pulang dua kali.
-
-
+Rasanya seperti pulang dua kali. Sela melipat daftar itu dan menyimpannya di rak terbuka.

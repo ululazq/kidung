@@ -57,7 +57,7 @@ Di ayat ketiga, dari bawah lantai, sesuatu naik.
 
 Hangat. Kecil. Beratnya tepat seperti bayi tujuh bulan.
 
-Ashvarok tidak akan pernah bisa menjelaskan bagaimana caranya — dan ia berhenti mencoba menjelaskan hal-hal semacam ini sejak bab-bab pertama era kedua — tetapi buaian kayu galeri sembilan buatan Brannoc dan Harn bergoyang pelan, satu kali, dua kali, dengan bayi di dalamnya yang mulai menangis kecil karena lapar. Bukan tangis mistis. Tangis bayi tujuh bulan yang normal, yang lapar, yang hidup, yang tidak peduli sama sekali bahwa ia baru saja melewati delapan belas tahun tanpa menua satu hari pun.
+Ashvarok tidak akan pernah bisa menjelaskan bagaimana caranya — dan ia sudah lama berhenti mencoba menjelaskan hal-hal semacam ini — tetapi buaian kayu galeri sembilan buatan Brannoc dan Harn bergoyang pelan, satu kali, dua kali, dengan bayi di dalamnya yang mulai menangis kecil karena lapar. Bukan tangis mistis. Tangis bayi tujuh bulan yang normal, yang lapar, yang hidup, yang tidak peduli sama sekali bahwa ia baru saja melewati delapan belas tahun tanpa menua satu hari pun.
 
 Ibu Rina menggendong putrinya dari buaian itu dan menyusuinya langsung, tanpa ragu, tanpa hitungan delapan belas tahun, karena tubuh ibu memiliki logikanya sendiri yang tidak peduli fisika.
 
@@ -87,7 +87,7 @@ Di dapur aula ada aturan tak tertulis yang kini tertulis: setiap pekan, ibu Tamm
 
 Ashvarok menulis entri malam itu di ambang rumah utara, sambil mendengarkan suara paling biasa dan paling luar biasa di dunia:
 
-Hari 421. Pemulangan #3: Rina, bayi tujuh bulan. PULIH — digendong ibunya, menyusu, hidup. Protokol bertambah satu pasal: yang terlalu kecil untuk punya cerita, dipanggil dengan suara yang pernah didengarnya.
+Hari 421. Return #3: Rina, bayi tujuh bulan. PULIH — digendong ibunya, menyusu, hidup. Protokol bertambah satu pasal: yang terlalu kecil untuk punya cerita, dipanggil dengan suara yang pernah didengarnya.
 
 Tiga dari empat ratus. Dan yang ketiga ini mengajarkan hal yang tidak diajarkan dua yang pertama: bahwa kedalaman bukan kubur. Ia pengasuh. Delapan belas tahun bayi itu disimpan dan tetap bayi — tidak lapar, tidak sakit, tidak takut gelap, karena penjaganya merawat, dan merawat ternyata sudah dilakukan jauh sebelum manusia sadar akan dirawat.
 

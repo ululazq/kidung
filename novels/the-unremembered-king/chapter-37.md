@@ -3,88 +3,218 @@ title: "Bab 37: Amplop Tanpa Suara"
 chapter: 37
 ---
 
-Hari keempat puluh enam dibuka Kel Tharrow dengan cara yang paling ia sukai dari semua cara membuka hari: dengan tiga arsip yang terbuka di mejanya secara bersamaan.
+Hari 46, Kel Tharrow membuka tiga arsip sekaligus.
 
-Arsip pertama: kontrak kerja Renn, anak lorong tujuh, sisa utang sembilan puluh enam shardmark, penjamin tanggungan satu adik. Arsip kedua: pembagian shift galeri sembilan bawah, regu Foreman Brannoc, dua belas kepala. Arsip ketiga: kolom kuota bulanan galeri yang sama, dengan angka yang ditulis tangan atasan langsungnya di pinggir lembaran — angka yang harus dicapai, bukan angka yang wajar.
+Pertama, kontrak tujuh-belas-dua-koma: Renn, lorong tujuh, satu tanggungan, sisa utang tercatat. Kedua, pembagian shift galeri sembilan bawah di bawah Foreman Brannoc. Ketiga, kuota bulanan galeri yang sama, dengan koreksi baru dari pusat.
 
-Ia mengenakan sarung tangannya, memeriksa bahwa tidak ada satu pun ujung jarinya menyentuh kertas secara langsung, dan mulai bekerja.
+Ia mengenakan sarung tangan sebelum menyentuh kertas.
 
-Tidak ada yang ilegal dalam pekerjaan pagi itu. Itu yang membuatnya nyaman. Audit kontrak adalah hak Quota Office atas setiap kontrak yang berjalan. Rotasi shift adalah kewenangan pengawas. Koreksi kuota adalah kebijakan. Ia menulis memo pembukaan audit dengan bahasa yang sempurna: "peninjauan berkala atas konsistensi setoran pemegang kontrak nomor tujuh-belas-dua-koma." Tidak ada nama musuh di dalamnya. Tidak ada dendam. Hanya pasal.
+Tidak ada yang ilegal dalam pekerjaannya. Audit kontrak merupakan hak Quota Office. Rotasi adalah kewenangan Overseer. Koreksi kuota datang melalui jalur sah. Tharrow menyukai senjata yang dapat diletakkan di meja terbuka.
 
-Anak lorong tujuh itu telah membuatnya tampak bodoh dua kali — sekali di ruangan investigasinya sendiri dengan jawaban yang terlalu rapi untuk anak usia itu, sekali di depan meja Ossian Vael ketika barang tempaan yang seharusnya melewati kantornya malah membebaskan kontrak sandera yang menjadi pegangannya. Untuk kesalahan jenis ini tidak ada hukuman yang pantas disebut hukuman. Ada yang lebih bersih daripada itu. Ada rotasi. Ada persentase. Ada kolom yang perlahan-lahan dibuat sempit sampai orang di dalamnya tidak sadar ia telah dikuburkan dengan prosedur.
+Memo pertama berbunyi: *peninjauan berkala atas konsistensi setoran pemegang kontrak nomor tujuh-belas-dua-koma.* Tidak ada nama Renn di judul. Tidak ada tuduhan. Hanya nomor dan selisih.
 
-"Petugas," katanya kepada pegawai meja depan yang datang membawa tumpukan setoran. "Dua hal untuk hari ini. Pertama, regu galeri sembilan bawah masuk rotasi baru mulai besok — pola empat-hari-tiga, sesuai lampiran. Kedua, panggil pemegang kontrak nomor tujuh-belas-dua-koma untuk penjelasan tertulis atas selisih setoran pekan lalu. Tiga hari tenggat."
+Pegawai meja depan datang membawa buku setoran.
 
-"Pola empat-hari-tiga, Tuan Pengawas? Regu itu salah satu yang produktif—"
+"Regu galeri sembilan bawah masuk rotasi empat-hari-tiga mulai besok," kata Tharrow. "Lampiran sudah disahkan."
 
-"Produktivitas bukan kriteria rotasi. Keadilan distribusi beban yang menjadi kriterianya." Tharrow tidak mendongak dari memo itu. "Katakan pada mereka persis seperti itu."
+Pegawai membaca angka dua kali. "Empat hari kerja, tiga hari turun?"
 
-Pegawai itu pergi, dan Tharrow membiarkan dirinya merasakannya sebentar: kenikmatan dingin dari kalimat yang tidak bisa dibantah karena kalimat itu tidak berisi apa-apa. Rotasi untuk keadilan. Kuota untuk keselamatan kerja. Audit untuk kepastian hukum. Semua senjata yang baik selalu dipahat dengan bentuk perkakas.
+"Empat hari dalam siklus lama menjadi tiga shift efektif per pekan."
 
----
+"Regu Foreman Brannoc produktif."
 
-Sore harinya ia menerima laporan dari Kovan — singkat, seperti biasa, dititipkan lewat kurir kantor dan bukan lewat tangan langsung, sesuai aturan baru yang tidak pernah ditulis siapa pun. Jalur Guild ke pasar sedang diamati, maka jalur apa pun yang menyentuh pasar diamati juga. Isinya membosankan dan karena itu bernilai. Penjualan barang bekas di gerobak Vosk naik sedikit. Tidak ada pola pembacaan retakan yang terdeteksi. Tidak ada gerak mencurigakan dari bocah itu.
+"Produktivitas bukan satu-satunya ukuran distribusi."
 
-Bocah itu, pikir Tharrow, menandai halaman arsip dengan kuku sarung tangannya, tidak akan bergerak sebelum survei turun ke kedalaman. Orang-orang semacam itu selalu menunggu. Maka pekerjaannya bukan mengejar bocah itu keluar dari lubangnya — perintah atasan melarangnya, dan perintah atasan adalah dinding yang tidak ia tafsirkan dua kali — melainkan menutup satu per satu pintu-pintu lorongnya sampai lubang itu sendiri yang mengusirnya keluar. Kontrak. Shift. Kuota. Tiga pintu. Ia punya waktu.
+"Alasan yang dicatat?"
 
-Yang ia tidak punya adalah pengakuan. Dan di sinilah malam itu memberinya hadiah yang tidak ia minta.
+"Pemerataan beban dan penyesuaian keselamatan."
 
----
+Pegawai menulis. Kalimat itu tidak dapat dibantah karena tidak menjelaskan apa pun.
 
-Pukulan sepuluh, ketika Quota Office sudah gelap kecuali lampu kerjanya sendiri dan lampu jaga di lobi, seseorang mengetuk pintu sampingnya. Tiga kali, jeda, satu kali.
+"Panggil pemegang tujuh-belas-dua-koma besok pagi," lanjut Tharrow. "Penjelasan tertulis atas selisih pekan lalu. Tenggat tiga hari."
 
-Tharrow mengenal bunyi itu. Bunyi itu bagian dari pekerjaannya sama seperti lonceng shift. Slot serahan malam di pintu samping gedung adalah fitur administrasi tua yang tetap dipertahankan karena berguna — orang-orang yang membayar biaya "penyesuaian jadwal", para penengah yang tidak ingin urusan mereka masuk buku siang, semuanya menyetor lewat sana, dan sebagian kecil dari setiap amplop naik ke kolom biaya operasional yang ditandatanganinya. Ia tidak pernah bertanya isinya. Bertanya adalah pekerjaan orang yang punya waktu untuk risiko. Yang ia lakukan hanya memastikan persentasenya benar.
+"Selisihnya kecil."
 
-Namun malam ini langkah-langkahnya membawanya sendiri ke pintu samping — kebiasaan memeriksa penutupan yang ia wariskan kepada dirinya sebagai alasan yang dapat dibaca — dan ketika jendela serahan itu terbuka, yang ada di baliknya adalah wajah yang ia kenal dari banyak petang lainnya. Kurir itu. Pria biasa yang tidak pernah bicara, yang menyerahkan amplop dengan tangan kanan dan menerima kertas lunas dengan tangan kiri, yang jadwalnya lebih tepat daripada jam gedung.
+"Kalau kecil, mudah dijelaskan."
 
-Kurir itu menaruh amplop di nampan. Lalu, dan ini yang tidak pernah terjadi, ia tidak langsung pergi. Ia mengeluarkan selembar kertas kedua, lebih kecil, dan menggesernya ke dalam jendela dengan dua jari.
+Setelah pegawai pergi, Tharrow menyusun ulang tiga arsip. Anak lorong itu telah membuatnya tampak tidak perlu dua kali: di ruang pemeriksaan, lalu di hadapan Ossian ketika tempaan membebaskan sandera kontrak yang seharusnya tetap berguna. Tharrow tidak membutuhkan hukuman. Hukuman menciptakan peristiwa. Ia membutuhkan tekanan yang tampak seperti cuaca.
 
-Tharrow menatapnya. Kurir itu menunjuk kertas tersebut. Tidak ada kata — tidak akan pernah ada kata — dan kemudian jendela tertutup, dan langkah-langkahnya menghilang di gang.
+Shift turun. Kuota naik. Selisih diaudit. Tidak satu pun meninggalkan lebam.
 
-Di dalam kertas kedua itu hanya ada satu baris tulisan, huruf cetak yang rapi dan tanpa ciri: TURUN PERDANA MUNDUR SATU HARI.
+Ia memeriksa dasar angka sebelum menjadikannya tekanan. Setoran regu turun tiga persen pada pekan roda troli patah, lalu pulih. Selisih Renn berasal dari pembagian hasil per kepala, bukan hilangnya bijih. Audit tidak akan menemukan pencurian. Itu tidak masalah; audit dapat menemukan ketidaklengkapan pencatatan, dan ketidaklengkapan cukup untuk menunda permohonan apa pun.
 
-Tharrow berdiri di gang belakang gedungnya sendiri dengan dua kertas di dalam sarung tangannya dan perasaan yang butuh beberapa saat untuk dinamainya.
+Rotasi baru memerlukan alasan keselamatan. Tharrow mengambil laporan debu tingkat bawah dan memilih dua pembacaan yang masih di bawah batas bahaya tetapi lebih tinggi dari bulan lalu. Ia tidak mengubah angka. Ia memindahkan angka benar ke konteks yang berguna. Tiga shift disebut pengurangan paparan; kuota lebih tinggi disebut pemulihan produktivitas melalui konsentrasi tenaga.
 
-Amplop pertama adalah rutinitas: gulungan shardmark dengan jumlah yang selalu benar, potongan kolomnya sudah dipisahkan sesuai kesepakatan yang tidak pernah diucapkan. Kertas kedua adalah sesuatu yang lain. Kabar. Kabar yang dikirim kepadanya — kepadanya, bukan kepada slot, bukan kepada kolom, melainkan kepada orang di balik loket. Seseorang di hulu rantai ini memutuskan bahwa ia layak menerima informasi, bukan hanya persentase.
+Kedua kebijakan bertentangan bila dibaca bersama. Dokumen tidak akan dibaca bersama. Satu masuk arsip keselamatan, satu masuk sasaran produksi. Birokrasi memberi senjata melalui pemisahan meja.
 
-Ia naik kembali ke kamarnya, mengganti sarung tangan dengan yang bersih, dan meletakkan kertas itu di bawah lampu di samping jadwal resmi survei yang tergantung di dinding — salinan yang sah, milik kantor, tanggal-tanggalnya ia hafal di luar kepala. Turun perdana: hari keempat puluh lima. Sudah lewat. Tim Guild telah turun kemarin pagi ke titik-titik atas dan naik dengan laporan yang bersih.
+Tharrow menandatangani keduanya dengan tinta sama. Jika Ossian meninjau, semua sumber sah. Jika regu memprotes, masing-masing petugas hanya melihat satu alasan dan menganggap petugas lain memegang gambaran lengkap.
 
-Dan malam ini sebuah kertas bisu memberitahunya bahwa turun perdana itu mundur satu hari.
+Siang membawa laporan Kovan melalui kurir kantor. Jalur Guild ke pasar diamati. Vosk tetap memakai pola konsinyasi biasa. Maera Tull menerima posisi pembanding. Tidak ada pengujian terhadap Renn; batas instruksi dipatuhi. Tim Spire menyelesaikan titik atas tanpa anomali berarti.
 
-Mundur dari kapan? Pikirannya, yang terlatih menghitung selisih setoran, bekerja dengan dingin yang biasa. Dua kemungkinan. Pertama: kertas itu salah — klien di hulu menerima kabar buruk dari mata yang lambat, dan kurir itu hanya membawa kebodohan orang lain ke loketnya. Kedua: ada dua jadwal. Jadwal resmi yang ia pegang salinannya, dan jadwal lain yang bergerak di bawahnya, yang pemegangnya mengira perlu diberitahu kepadanya.
+Tharrow menandai satu kalimat: *tidak ada gerak mencurigakan dari pemegang kontrak.*
 
-Kemungkinan kedua itu menghangatkannya dengan cara yang tidak ia tunjukkan kepada siapa pun. Selama ini ia adalah pelaksana — kata yang digunakan surat-surat atasan, kata yang ia membaca dengan gigi yang rapat. Pelaksana menerima perintah. Tetapi penerima kabar, penerima kabar adalah simpul. Simpul adalah orang yang diperhitungkan.
+Ketiadaan gerak bukan ketiadaan rencana. Bocah itu menunggu survei mendekati kedalaman. Tharrow tidak boleh memaksanya dengan pemeriksaan langsung, tetapi kontrak dapat mempersempit ruang. Pendapatan lebih rendah membuat utang lebih lambat lunas. Kuota lebih tinggi membuat regu saling mengawasi. Audit memaksa Renn menulis versi peristiwa yang dapat dibandingkan kelak.
 
-Ia tidak akan meneruskan kertas itu ke mana pun. Melaporkannya berarti mengaku menerima sesuatu yang tidak ada di buku. Dan selain itu, kabar yang salah tidak dinaikkan ke atas oleh orang yang bercita-cita naik. Kabar yang salah disimpan, diuji, dan digunakan pada waktunya. Kalau tim Guild turun lagi esok pagi, kertas itu sampah. Kalau tim Guild tidak turun — maka ada jadwal kedua di kota ini, dan dia, Kel Tharrow, adalah satu dari segelintir orang yang memegang ujung benangnya.
+Ia memberi perintah kedua kepada pegawai.
 
-Ia memasukkan kertas itu ke dalam kotak arsip pribadinya, di antara dua map kosong, dan menutupnya dengan kunci kecil.
+"Salin seluruh setoran tujuh-belas-dua-koma selama enam pekan."
 
----
+"Semua?"
 
-Menjelang magrib, sebelum meninggalkan kantor, ia menyelesaikan kewajiban mingguannya kepada pusat: laporan kemajuan penyusunan daftar empat ratus keluarga distrik timur. Dua ratus enam puluh satu nama sudah terkumpul, terklasifikasi, dan diberi kode — keluarga dengan utang kontrak, keluarga tanpa utang, keluarga dengan anggota bersertifikat, keluarga yang menyewa, keluarga yang disewa. Setiap klasifikasi adalah pertanyaan yang belum ditanyakan: siapa yang akan melawan, siapa yang bisa dibeli murah, siapa yang akan hilang tanpa diperhitungkan siapa pun.
+"Termasuk koreksi kecil."
 
-"Pegawai," katanya ketika melewati meja depan, "berapa banyak kepala keluarga distrik timur yang kontraknya masih dipegang galeri sembilan?"
+"Untuk mencari apa?"
 
-Pegawai itu membuka bukunya. "Enam puluh empat, Tuan Pengawas. Termasuk regu Foreman Brannoc."
+"Selisih."
 
-"Berikan saya salinannya besok subuh. Susun berdasarkan sisa masa kontrak, yang tersingkat di atas."
+Pegawai menunggu penjelasan lebih panjang. Tharrow tidak memberinya.
 
-"Untuk apa urutannya, Tuan Pengawas?"
+Menjelang sore, daftar distrik timur tiba dari pusat penyusunan. Target empat ratus keluarga. Dua ratus enam puluh satu sudah diklasifikasi: utang kontrak, tanpa utang, pekerja bersertifikat, penyewa, kepala keluarga tak tetap. Tiap kategori menentukan siapa dapat dipindahkan, siapa harus dibeli, dan siapa menuntut biaya administratif terlalu besar.
 
-Tharrow mengancingkan mantelnya satu kancing, tepat di tengah. "Urutan adalah bentuk paling awal dari keputusan, Petugas. Yang tidak terurut tidak akan pernah diputuskan." Ia melangkah keluar ke udara malam yang berbau garam, dan membiarkan kalimat itu bekerja pada pegawai itu lebih lama daripada yang dibutuhkan kalimat biasa.
+"Berapa kepala keluarga distrik timur terikat galeri sembilan?" tanya Tharrow.
 
-Ia adalah pembuat daftar — ia sudah mengakuinya di ruangan kerja Ossian Vael, pada malam ketika permintaan purganya ditolak dengan sopan seperti menolak sepiring makanan. Tetapi ada perbedaan antara pembuat daftar yang menulis nama atas perintah orang lain dan pembuat daftar yang menerima kabar. Yang pertama adalah perkakas. Yang kedua, sekurang-kurangnya dalam hitungan seseorang di suatu tempat di hulu, adalah bagian dari mesin yang layak diberi makan informasi. Malam ini mesin itu memberinya makan.
+Pegawai membuka indeks. "Enam puluh empat, Overseer. Termasuk keluarga dalam regu Foreman Brannoc."
 
----
+"Urutkan berdasarkan sisa kontrak. Terpendek di atas."
 
-Esok paginya, hari keempat puluh tujuh, ia memulai perangnya dengan jendela yang terbuka.
+"Untuk prioritas pelepasan?"
 
-Renn, pemegang kontrak tujuh-belas-dua-koma, datang ke mejanya pukul delapan — tepat waktu, rambut berantakan, wajah bocah tambang yang biasa. Tharrow membacakan selisih setoran pekan lalu dengan suara yang tidak naik maupun turun satu nada, meminta penjelasan tertulis dalam tiga hari, dan mencatat permohonan penjadwalan ulang dengan stempel "ditunda menunggu hasil audit". Ketika bocah itu bertanya apakah rotasi shift regunya bisa ditinjau, Tharrow menjawab dengan kalimat yang sudah ia poles sejak subuh:
+"Untuk mengetahui pilihan."
 
-"Rotasi dinilai ulang tiap awal pekan berdasarkan capaian kuota galeri. Bantu galerimu mencapai angkanya, dan rotasinya akan bicara sendiri."
+Ia tidak menjelaskan pilihan siapa.
 
-Kuota yang dinaikkan di atas yang wajar. Shift yang dipotong sampai pendapatan menipis. Utang yang diaudit sampai tidurnya terbagi. Tidak satu pun langkah ini akan meninggalkan lebam. Itulah keindahannya. Orang yang dipukul dengan pasal tidak bisa menunjukkan luka kepada siapa pun, dan luka yang tidak bisa ditunjukkan pada akhirnya menjadi keyakinan bahwa yang gila adalah diri sendiri.
+Malam Hari 46, Quota Office gelap kecuali lampu lobi dan lampu mejanya. Tharrow memeriksa buku penerimaan malam ketika terdengar satu ketukan pada pintu samping ruangannya—bukan pintu pegawai, melainkan pintu sempit yang menghadap lorong slot.
 
-Ketika bocah itu keluar, Tharrow membuka kembali memo audinya dan menambahkan satu baris di daftar dokumen yang diminta: riwayat penyakit keluarga pemegang kontrak, untuk keperluan penilaian kesesuaian beban kerja. Adiknya, pikirnya, menutup map itu. Adikan tanggungannya. Setiap kontrak punya titik lengket, dan titik lengket selalu berupa orang lain.
+"Masuk."
 
-Di luar, lonceng shift siang berbunyi. Di dalam kotak arsip berkuncinya, satu kertas kecil menunggu dengan sabar untuk membuktikan dirinya benar atau salah, dan untuk pertama kalinya sejak ia ditempatkan di kota batu yang membosankan ini, Kel Tharrow pulang dengan perasaan bahwa malam berikutnya mungkin membawa kabar yang hanya diberikan kepada pemain.
+Kurir yang muncul tidak mengenakan tanda kantor. Wajahnya biasa, pakaiannya biasa, dan kebisuannya terlalu terlatih untuk disebut malu. Ia menutup pintu, menaruh satu amplop uang di meja, lalu menyelipkan kertas kecil di atasnya.
+
+Huruf cetak tanpa ciri memenuhi satu baris: *TURUN PERDANA MUNDUR SATU HARI.*
+
+Tharrow tidak menyentuh keduanya. "Siapa mengirimmu?"
+
+Kurir menatap lurus tanpa menjawab.
+
+"Kepada siapa pesan ini ditujukan?"
+
+Satu jari lelaki itu menunjuk permukaan meja Tharrow.
+
+"Kamu menunggu balasan?"
+
+Kurir mengeluarkan strip lunas standar dari saku, strip yang seharusnya diterbitkan petugas slot setelah setoran dihitung. Jadi uang sudah melewati alur biasa; penyimpangan malam ini hanya kertas dan tujuan akhirnya.
+
+Tharrow mengambil strip itu dengan penjepit, menorehkan tanda terima tanpa nama, lalu mengembalikannya. Kurir menyimpan strip, berbalik, dan pergi tanpa satu suara.
+
+Tharrow membandingkan pesan dengan jadwal resmi. Turun perdana sudah terjadi Hari 45. Tim Guild membaca titik atas dan kembali dengan laporan bersih. Pesan menyebut penundaan ke Hari 46—tanggal hari ini—seolah pengirim menerima jadwal berbeda atau menerima kabar terlambat.
+
+Bisa salah. Bisa umpan. Bisa bukti ada jalur survei kedua. Tidak satu kemungkinan pun layak dilaporkan sebelum diuji.
+
+Amplop uang yang menyertai pesan berisi potongan rutin dari operasi yang sengaja tidak ia ketahui rinciannya. Quota Office menerima biaya perantara dari banyak transaksi informal. Selama jumlah cocok dan tidak menciptakan perkara terbuka, Tharrow menganggap ketidaktahuan sebagai layanan administratif.
+
+Namun pesan mengubah bentuk hubungan. Seseorang di hulu menganggap meja Tharrow perlu mengetahui tanggal, dan kurir telah diperintahkan memastikan kertas itu sampai ke tangannya sendiri.
+
+Ia memeriksa segel. Tidak ada. Serat kertas umum. Tinta hitam kantor. Lipatan sempit sesuai slot. Pengiriman langsung membuktikan tujuan administratif, bukan hubungan pribadi; pengirim mungkin hanya mengenal jabatan yang menguasai meja ini.
+
+Kesimpulan itu tidak menyenangkan, maka ia mempertahankannya. Keinginan menjadi penting tidak boleh menyamar sebagai analisis.
+
+Ia menelusuri buku slot enam pekan. Tanda kotak-garis-miring muncul tujuh kali, selalu pada interval delapan sampai sepuluh hari. Jumlah shardmark berubah sedikit, tetapi potongan kantor tetap persentase sama. Pola itu cocok dengan operasi berkala, bukan suap tunggal. Tidak ada nama penerima akhir; petugas hanya memindahkan potongan ke biaya operasional dan sisanya ke amplop keluar.
+
+Tharrow dapat memanggil petugas satu per satu. Ia menolak. Pemeriksaan mendadak menghentikan aliran dan menghasilkan kebohongan defensif. Kanal yang tenang akan memberi angka kedelapan. Dari angka kedelapan ia dapat menguji interval, jumlah, dan hubungan dengan jadwal tambang tanpa menunjukkan minat.
+
+Ia menambahkan perintah lisan: tanda kotak-garis-miring diproses seperti biasa, tetapi waktu masuk dan keluar dicatat sampai menit. Tidak ada pembukaan ekstra. Tidak ada nama baru dalam buku. Pengawasan terbaik tidak mengubah objek yang diawasi.
+
+Pesan salah juga menimbulkan pertanyaan lain. Jika pengirim percaya survei mundur, sumbernya berada dekat tambang tetapi tidak dekat jadwal resmi. Jika pengirim sengaja berbohong, ia sedang menguji apakah Quota Office bereaksi. Dalam kedua kasus, reaksi terang adalah jawaban yang terlalu mahal.
+
+Tharrow membuka kotak arsip privat. Kertas tanggal bohong ditempatkan di antara dua map kosong, terpisah dari buku Quota Office. Di sampul map ia hanya menulis: *selisih jadwal, sumber belum dinilai.*
+
+Ia mengunci kotak.
+
+Jika survei resmi bergerak lagi malam ini, pesan mungkin merujuk tahap lain. Jika tidak, kabar itu basi atau palsu. Apa pun hasilnya, orang yang mengirim telah memperlihatkan kanal yang menganggap Quota Office simpul aman. Kanal itu lebih bernilai bila tidak disentuh.
+
+Hari 47, Renn datang tepat pada pukul delapan. Rambutnya berantakan, pakaian furnace boy bersih sekadarnya, wajah terlalu tenang untuk orang yang dipanggil audit.
+
+Tharrow membiarkannya berdiri.
+
+"Kontrak tujuh-belas-dua-koma," katanya. "Setoran pekan lalu berbeda dari proyeksi."
+
+"Regu kehilangan satu troli saat roda patah."
+
+"Kerusakan tercatat."
+
+"Waktu pemindahan muatan tidak."
+
+"Karena?"
+
+"Foreman mencatat hasil, bukan waktu yang hilang."
+
+"Jadi dokumen tidak lengkap."
+
+"Dokumen hasil benar."
+
+Tharrow menggeser formulir. "Tulis penjelasan. Tiga hari."
+
+Renn membaca sebelum mengambil pena. "Rotasi baru memotong shift kami?"
+
+"Menyesuaikan."
+
+"Dari empat menjadi tiga per minggu."
+
+"Pola empat-hari-tiga."
+
+"Nama panjang untuk satu hari yang hilang."
+
+Tharrow menatapnya. Bocah itu tahu kapan kalimat sederhana lebih tajam daripada bantahan.
+
+"Rotasi dinilai tiap awal pekan berdasarkan capaian kuota," kata Tharrow. "Capai angka, peninjauan tersedia."
+
+"Kuotanya naik."
+
+"Koreksi pusat."
+
+"Jadi kami bekerja lebih sedikit untuk menghasilkan lebih banyak."
+
+"Kalau itu kesimpulanmu, masukkan dalam penjelasan tertulis."
+
+Renn tidak terpancing. "Saya akan menulis roda patah, pemindahan muatan, dan angka hasil."
+
+"Tambahkan kondisi tanggungan keluarga. Penilaian beban kerja memerlukan riwayat kesehatan."
+
+Untuk pertama kali, ketenangan bocah itu mengeras.
+
+"Adik saya tidak bekerja di galeri."
+
+"Dia bagian kontrakmu."
+
+"Sebagai tanggungan."
+
+"Karena itu relevan."
+
+Renn mengambil formulir tanpa menjawab. Kemarahan yang tidak digunakan tetap berguna; ia menekan dari dalam.
+
+Setelah bocah itu pergi, Tharrow mencatat permohonan peninjauan rotasi: *ditunda menunggu hasil audit.* Ia menambahkan riwayat kesehatan keluarga ke daftar dokumen. Semua sah. Semua dapat dijelaskan kepada Ossian sebagai pemeliharaan kontrak.
+
+Siang itu, daftar distrik timur kembali dalam urutan baru. 261 dari 400 keluarga terpetakan; 64 kepala keluarga terkait galeri sembilan. Tharrow memberi tanda pada kontrak yang hampir selesai, bukan untuk membebaskan mereka, melainkan untuk menghitung berapa banyak yang dapat diperpanjang melalui selisih baru.
+
+Enam puluh empat bukan sekadar jumlah pekerja. Setiap kepala keluarga menghubungkan pendapatan galeri ke dua atau tiga orang lain. Memotong satu shift menyebarkan tekanan ke pasar makanan, pemilik kamar, dan pemberi pinjaman kecil. Tharrow tidak perlu menyentuh empat ratus rumah sekaligus; ia hanya perlu memilih simpul dengan kontrak yang cukup pendek untuk berharap bebas dan cukup besar untuk takut kehilangan jadwal.
+
+Ia membuat tiga kelompok. Kontrak di bawah tiga bulan mendapat tawaran perpanjangan sukarela dengan bonus kecil. Kontrak tiga sampai sembilan bulan menerima audit biasa. Kontrak lebih panjang tidak perlu disentuh; mereka belum punya pintu keluar untuk ditutup.
+
+Nama Renn tidak masuk daftar kepala keluarga, tetapi kontraknya terhubung pada satu tanggungan. Tharrow memberi tanda terpisah. Bukan tindakan sekarang. Hanya pengingat bahwa tekanan administratif selalu menemukan bentuk manusia pada ujung kolom.
+
+Pegawai melihat tanda itu. "Perlu surat ke klinik?"
+
+"Belum."
+
+"Kapan?"
+
+"Kalau penjelasan audit tidak cocok dengan setoran."
+
+Tharrow menutup daftar. Ancaman yang belum dikirim tidak meninggalkan bukti, tetapi tetap membantu pembuatnya memilih urutan.
+
+Sore membawa laporan singkat: tim Guild tidak turun lagi ke kedalaman. Kertas dalam arsip privat terbukti salah tentang jadwal resmi. Itu tidak membuatnya tak berguna. Informasi palsu mengungkap apa yang diyakini pengirim, atau apa yang ingin mereka paksa penerima percayai.
+
+Tharrow tidak membuangnya. Ia menambahkan tanggal penerimaan dan hasil pembanding, lalu mengunci kembali kotak.
+
+Di meja terbuka tersisa tiga instrumen yang dapat dipertanggungjawabkan: audit tujuh-belas-dua-koma, rotasi empat-hari-tiga, dan kuota baru. Di meja tertutup tersimpan satu kebohongan yang belum diketahui pemiliknya.
+
+Malam Hari 47, Tharrow memerintahkan pengawasan diam-diam atas kanal Vosk dan menyelesaikan daftar selisih. Perang administratif tidak membutuhkan peluit. Cukup satu kolom dipersempit setiap hari sampai orang di dalamnya kehabisan ruang untuk berdiri.

@@ -15,9 +15,9 @@ Ia membuka papan catatan besar dan membacakan:
 
 "Satu: akademi batu. Targetku melihat tiga puluh pendengar tingkat dua sebelum aku pergi. Kovan dan pengikat senior akan melanjutkannya — kontrak pengajaran sudah disepakati keduanya."
 
-"Dua: registri mimpi. Berjalan sendiri sekarang. Pencatat bergilir sudah mandiri."
+"Dua: the Dream Registry. Berjalan sendiri sekarang. Pencatat bergilir sudah mandiri."
 
-"Tiga: armada utara. Empat ratus panggilan itu pekerjaan sepuluh sampai lima belas tahun. Aku akan ikut sebanyak yang tubuh izinkan, tetapi sistemnya harus bisa berjalan tanpa aku — dan itu kenapa Barim dan Ondar dan Maera harus dibiasakan memimpin pembacaan mulai sekarang."
+"Tiga: the Northern Reader Fleet. Empat ratus panggilan itu pekerjaan sepuluh sampai lima belas tahun. Aku akan ikut sebanyak yang tubuh izinkan, tetapi sistemnya harus bisa berjalan tanpa aku — dan itu kenapa Barim dan Ondar dan Maera harus dibiasakan memimpin pembacaan mulai sekarang."
 
 "Empat: percakapan kedalaman. Ini yang paling penting." Ia menatap Sela tegak. "Kalau suatu hari aku tidak ada, jangan biarkan tamu tua itu sendirian lagi. Kamu, atau murid-muridmu, atau anak-anak name train generasi berikutnya — seseorang harus tetap menjawab ketukan malamnya. Seribu tahun kesendirian sudah cukup untuk satu makhluk."
 
@@ -27,7 +27,7 @@ Sela mencatat semuanya tanpa gemetar — gadis itu telah belajar menulis sambil 
 
 Ashvarok memikirkan pertanyaan itu dengan seluruh seribu tahunnya, dan menemukan bahwa jawabannya sudah ada sejak lama, hanya belum pernah diucapkan.
 
-"Sebaliknya," kata Ashvarok akhirnya, dan suaranya tidak sepenuhnya datar untuk kedua kalinya dalam dua kehidupan. "Aku minta kau menyebutnya SETIAP kali kalian berkabung untukku. Di panggung dapur. Kepada murid-muridmu. Kepada anak-anak name train mereka nanti." Ia meletakkan tangannya di atas papan Sela. "Seribu tahun aku percaya nama yang dibakar harus tetap mati supaya segel aman. Delapan bulan terakhir mengajarkan kebenaran yang berlawanan: nama itu aman JUSTRU karena disebut orang. Semakin banyak mulut menyimpannya, semakin tidak bisa apa pun menghapusnya lagi — bukan kedalaman, bukan Choir, bahkan tidak kematianku."
+"Sebaliknya," kata Ashvarok akhirnya, dan suaranya tidak sepenuhnya datar untuk kedua kalinya dalam dua kehidupan. "Aku minta kau menyebutnya SETIAP kali kalian berkabung untukku. Di the Kitchen Stage. Kepada murid-muridmu. Kepada anak-anak name train mereka nanti." Ia meletakkan tangannya di atas papan Sela. "Seribu tahun aku percaya nama yang dibakar harus tetap mati supaya segel aman. Delapan bulan terakhir mengajarkan kebenaran yang berlawanan: nama itu aman JUSTRU karena disebut orang. Semakin banyak mulut menyimpannya, semakin tidak bisa apa pun menghapusnya lagi — bukan kedalaman, bukan Choir, bahkan tidak kematianku."
 
 Ia tersenyum — senyum Caldrest, senyum yang ia pelajari dari ibu Tamma dan Ondar dan Barim.
 
@@ -35,7 +35,7 @@ Ia tersenyum — senyum Caldrest, senyum yang ia pelajari dari ibu Tamma dan Ond
 
 Sela menulis semuanya. Lalu menutup papannya dan berkata kalimat yang menutup percakapan itu dengan cara keluarga Caldrest menutup hal-hal besar: praktis, hangat, tanpa air mata yang diakui.
 
-"Neraca warisan tercatat. Empat item, semua berjalan, satu pasal tambahan dari saya: tiap tahun pada hari ini kita membaca ulang daftar warisan ini di panggung dapur — supaya tidak ada yang lupa isinya, termasuk kamu selagi masih ada." Ia bangkit, membawa papannya, dan di ambang pintu berbalik sekali lagi. "Dan Kak. Terima kasih sudah bicara sekarang, bukan nanti. Kamu memilih jalan yang lebih sulit — bicara soal kematianmu dengan orang yang paling sayang kamu."
+"Neraca warisan tercatat. Empat item, semua berjalan, satu pasal tambahan dari saya: tiap tahun pada hari ini kita membaca ulang daftar warisan ini di the Kitchen Stage — supaya tidak ada yang lupa isinya, termasuk kamu selagi masih ada." Ia bangkit, membawa papannya, dan di ambang pintu berbalik sekali lagi. "Dan Kak. Terima kasih sudah bicara sekarang, bukan nanti. Kamu memilih jalan yang lebih sulit — bicara soal kematianmu dengan orang yang paling sayang kamu."
 
 "Aku belajar dari seseorang," kata Ashvarok. "Katanya bicara yang benar lebih murah daripada menjaga yang membosankan."
 
@@ -75,7 +75,6 @@ Perjalanan pulang mereka, kata pengikat senior di tengah hari pertama, akan lebi
 "Membawa apa?" tanya Ondar.
 
 "Kabar," kata orang tua itu. "Dan kabar itu berat baginya yang menunggunya lama."
-Lanjutan bab 184.
 
 ---
 
@@ -105,8 +104,8 @@ Ashvarok memandang mantan Foreman itu — orang yang dulu menutup galeri sembila
 
 ---
 
-Neraca warisan final malam itu — ditulis tangan Sela, disetujui semua yang hadir, digantung di paku gudang perkakas di samping peta nama:
-WARISAN ASHVAROK (diperbarui): 1. Akademi Batu. 2. Registri Mimpi. 3. Armada utara mandiri. 4. Percakapan kedalaman tidak boleh putus. 5. Neraca tubuh bulanan bersaksi dua. 6. Seni bertahan tambang diajarkan Brannoc & Ondar.
+Neraca warisan final malam itu — ditulis tangan Sela, disetujui semua yang hadir, digantung di paku gudang perkakas di samping name map:
+ASHVAROK'S LEGACY (diperbarui): 1. the Stone Academy. 2. the Dream Registry. 3. the Northern Reader Fleet mandiri. 4. Percakapan kedalaman tidak boleh putus. 5. Neraca tubuh bulanan bersaksi dua. 6. Seni bertahan tambang diajarkan Brannoc & Ondar.
 Tujuh item. Enam penjaga. Satu kota. Dan satu raja yang, untuk pertama kalinya dalam seribu tahun, tidur tanpa mimpi buruk karena tahu persis apa yang akan ditinggalkannya: bukan kekosongan — melainkan sebuah mesin hidup yang sudah menyala dan tidak butuh kuncinya lagi untuk terus berjalan.
 
 ---
@@ -115,4 +114,4 @@ Subuh sebelum keberangkatan, satu pengunjung terakhir datang ke gudang perkakas:
 The Hollowed tua itu berdiri di pintu dengan sapu di tangannya — masih membawa sapu ke mana-mana, kebiasaan yang tidak pernah hilang bahkan setelah namanya pulih — dan meletakkan sesuatu di meja Ashvarok: sepotong nat kecil, sepanjang telapak tangan, dipotong rapi dari lorong galeri sembilan.
 "Dari nat tempat aku dulu jaga," kata Tovik. "Buat perjalanan. Kalau di utara nanti ada yang ragu sama kalian... tunjukin potongan ini. Mereka kenal galeri sembilan. Semua orang utara kenal." Ia menggaruk kepala, malu sedikit. "Aku tidak punya barang mahal. Hanya itu."
 
-Ashvarok menerima potongan nat itu dengan dua tangan — karena ia tahu persis apa artinya: penjaga lama memberikan SEGMEN DIRINYA untuk melindungi penjaga baru. Dalam tradisi mana pun di dunia ini, tidak ada hadiah yang lebih besar dari itu.
+Ashvarok menerima potongan nat itu dengan dua tangan — karena ia tahu persis apa artinya: penjaga lama memberikan SEGMEN DIRINYA untuk melindungi penjaga baru. Dalam tradisi mana pun di dunia ini, tidak ada hadiah yang lebih besar dari itu. Di ambang, pemimpi terakhir menoleh dan mengucapkan terima kasih sekali lagi.

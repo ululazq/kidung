@@ -5,7 +5,7 @@ chapter: 248
 
 Kabar dari Spire datang lewat burung pos resmi — dan oleh Ossian dibacakan di aula dengan ekspresi yang delapan bulan ini tidak pernah dipakainya: kagum total.
 
-"Angkatan pertama lulusan Sekolah Mendengar cabang Spire — dua puluh siswa, semuanya pegawai dewan — baru saja melakukan hal yang tidak masuk akal." Ia menurunkan surat. "Mereka menolak gaji lembur."
+"Angkatan pertama lulusan the Listening School cabang Spire — dua puluh siswa, semuanya pegawai dewan — baru saja melakukan hal yang tidak masuk akal." Ia menurunkan surat. "Mereka menolak gaji lembur."
 
 "Menolak gaji?" Kovan mencengkeram mejanya. "Siapa yang MENOLAK GAJI?"
 
@@ -27,7 +27,7 @@ SATU: Meja makan dewan sudah resmi. Setiap rapat pleno dimulai setelah makan ber
 
 DUA: Ruang tunggu pengaduan rakyat dilengkapi nat kecil (dibawa dari Caldrest, disertai izin resmi the Patient House). Pengaduan yang ditulis sambil didampingi batu pendengar... ternyata lebih jujur dan lebih jarang kasarnya.
 
-TIGA: Dan yang paling besar — Dewan Regional Anthema Spire baru saja mengesahkan "Pasal Menyapa" sebagai bagian dari konstitusi wilayah:
+TIGA: Dan yang paling besar — the Regional Council Anthema Spire baru saja mengesahkan "Pasal Menyapa" sebagai bagian dari konstitusi wilayah:
 
 "Setiap warga Spire berhak didengar. Setiap pegawai dewan berkewajiban mendengar. Dan setiap keputusan yang menyentuh hidup rakyat harus dibacakan ulang kepada perwakilan rakyat SEBELUM disahkan — supaya rakyat bukan hanya diberi tahu, tetapi benar-benar didengar."
 
@@ -83,7 +83,40 @@ titik-titik yang mau belajar.
 
 ---
 
-Dan satu keputusan penting keluar dari rapat itu — diusulkan Renn, disetujui Ashvarok sebelum kalimatnya selesai:
+
+Sebelum keputusan diambil, Ossian membuka tiga surat permintaan itu di atas meja. Segelnya berbeda-beda, tetapi isinya membawa kegelisahan yang sama.
+
+Wilayah pertama meminta Caldrest mengirim enam pengajar dan satu pejabat untuk mengawasi penerapan. Wilayah kedua meminta hak menyalin seluruh aturan Spire kata demi kata. Wilayah ketiga bahkan sudah menyiapkan gelar untuk utusan Caldrest: Penata Kebiasaan Rakyat.
+
+Kovan membaca gelar terakhir, lalu mendorong suratnya menjauh. "Kita baru saja lolos dari kebiasaan mengatur orang. Sekarang mereka hendak memberi kita kursi untuk melakukannya lagi."
+
+"Kalau kita menolak mentah-mentah, mereka bisa menganggap Caldrest menyimpan pengetahuan untuk diri sendiri," kata Ossian. Jarinya berhenti di atas permintaan enam pengajar. "Spire mengenal kita karena Thessa pernah tinggal di sini. Tiga wilayah ini hanya mengenal hasil akhirnya. Mereka melihat perselisihan turun, pengaduan selesai, pegawai bekerja tanpa lembur. Mereka akan mengira ada tata cara yang tinggal dipasang."
+
+Sela menarik ketiga surat ke sisinya. Ia membaca bagian yang diberi garis bawah oleh para pengirim: *mengawasi*, *menyalin*, *menata*.
+
+"Tak satu pun menulis kata mendengar," katanya.
+
+Ruangan yang tadi hangat oleh kabar Thessa mendadak terasa sempit. Dari nat di bawah jendela datang satu ketukan pendek, lalu dua ketukan yang tidak rata. Batu itu tidak menerjemahkan kata; ia hanya meniru irama orang yang mengetuk pintu dan belum tahu apakah akan dipersilakan masuk.
+
+Ashvarok menutup mata sejenak. Seribu tahun lalu, tiga surat seperti itu akan terasa seperti penyerahan. Ia akan mengirim pejabat, segel, serta daftar hukuman bagi siapa pun yang menerapkan titah dengan keliru. Bahkan kebaikan, di tangannya, selalu tiba dengan barisan penjaga.
+
+"Kita bisa kirim kelompok kecil," kata Kovan, lebih pelan sekarang. "Tanpa pejabat. Dua murid the Listening School untuk tiap wilayah. Mereka tinggal sebulan, lalu pulang."
+
+"Dan siapa yang menentukan dua murid itu berhasil?" tanya Sela.
+
+Kovan membuka mulut, kemudian melihat lagi tiga kata yang digarisbawahi. "Kita."
+
+"Berarti mereka tetap belajar menunggu penilaian Caldrest," kata Ossian. "Bukan mendengarkan rakyat mereka sendiri."
+
+Sela membalik surat wilayah kedua dan menaruh halaman kosongnya menghadap ke atas. "Bagaimana kalau kita tidak menjawab permintaan mereka?"
+
+"Kita harus menjawab," kata Ashvarok.
+
+"Bukan menolak. Menjawab pertanyaan yang seharusnya mereka ajukan." Sela menulis tiga baris: *Apa yang bisa kami mulai sendiri? Apa yang harus kami tanyakan kepada rakyat kami? Kapan kami boleh meminta bantuan?* "Kalau mereka benar-benar ingin belajar, mereka akan menulis kembali. Kalau yang mereka inginkan cuma cap Caldrest, mereka akan marah. Itu juga jawaban."
+
+Renn bergerak di dalam tubuh bersama mereka; jari Ashvarok mengetuk meja dua kali, irama yang kini dikenali tim inti sebagai dua pikiran sedang mencapai tempat yang sama dari arah berbeda.
+
+Keputusan penting keluar dari rapat itu — diusulkan Renn, disetujui Ashvarok sebelum kalimatnya selesai:
 
 "Jangan kirim guru."
 
@@ -91,7 +124,7 @@ Sunyi. Semua menatap tubuh Renn yang bicara dua suara sekaligus — hal yang han
 
 Renn melanjutkan:
 
-"Dulu Spire mengirim pengawas ke kita, dan kita takut. Sekolah Mendengar mengirim jadwal ke kita, dan kita tenang. Bedanya: pengawas datang untuk MENILAI; jadwal datang untuk MENGAJAK." Ia mengetuk meja satu kali. "Jadi kalau tiga wilayah mau belajar... jangan kirim orangnya. Kirim buku 'Dunia Sejak Kamu Tidur'. Kirim resep Sup Kamp Pertama. Kirim kode ketukan. Dan bilang: pelajari dulu di rumah kalian. Kalau ada yang bingung, kami datang — NAMUN HANYA KALAU DIMINTA."
+"Dulu Spire mengirim pengawas ke kita, dan kita takut. the Listening School mengirim jadwal ke kita, dan kita tenang. Bedanya: pengawas datang untuk MENILAI; jadwal datang untuk MENGAJAK." Ia mengetuk meja satu kali. "Jadi kalau tiga wilayah mau belajar... jangan kirim orangnya. Kirim buku 'Dunia Sejak Kamu Tidur'. Kirim resep First Camp Soup. Kirim kode ketukan. Dan bilang: pelajari dulu di rumah kalian. Kalau ada yang bingung, kami datang — NAMUN HANYA KALAU DIMINTA."
 
 Ashvarok menambahkan penjelasannya untuk arsip:
 
@@ -107,7 +140,7 @@ Perubahan harus diminta. Karena hanya permintaan yang bisa dijawab dengan hormat
 
 Paket-paket pertama dikirim pekan itu — dan isinya oleh ibu Tamma disebut "paling mewah yang pernah keluar dari dapurku":
 
-Buku "Dunia Sejak Kamu Tidur" (40 halaman, dilipatgandakan murid akademi). Resep Sup Kamp Pertama dan turunannya. Kode ketukan lengkap dengan ilustrasi. Satu nat kecil per wilayah — ditemani izin resmi dari nat asalnya ("anak ini dikirim belajar; perlakukan seperti anak sendiri").
+Buku "Dunia Sejak Kamu Tidur" (40 halaman, dilipatgandakan murid akademi). Resep First Camp Soup dan turunannya. Kode ketukan lengkap dengan ilustrasi. Satu nat kecil per wilayah — ditemani izin resmi dari nat asalnya ("anak ini dikirim belajar; perlakukan seperti anak sendiri").
 
 Dan di setiap paket, satu kartu kecil tulisan tangan Ashvarok-Renn:
 
@@ -129,13 +162,13 @@ Guru yang dikirim: 0. Alat yang dikirim: lengkap.
 Pertanyaan yang dijawab lewat nat pos: ratusan.
 Murid yang datang sendiri ke Caldrest: terus mengalir.
 
-Dan satu baris penutup dari Sela:
+Sela menambahkan satu baris:
 
 "Peta dinding aula kini punya dua jenis tanda: titik wilayah (yang pernah kami jemput) dan bintang (yang minta diajari). Setahun silam peta ini penuh tanda tangis. Sekarang penuh bintang."
 
 ---
 
-Dan satu adegan penutup — di nat aula, malam itu:
+Malam itu di nat aula:
 
 Ashvarok-Renn duduk bersama dua jam setelah semua orang pulang, membaca ulang surat Thessa dan kartu-kartu balasan dari tiga wilayah baru.
 
@@ -151,47 +184,8 @@ Ashvarok diam lama.
 
 "Lalu aku bertemu anak tungku yang pintunya terbuka, arsiparis yang tidak berhenti bertanya, ibu dapur yang tidak kenal tutup... dan satu dunia yang ternyata hanya menunggu diajak bicara." Ia tersenyum. "Imajinasiku yang selama ini salah. Bukan dunianya."
 
----
 
-Dan Renn menutup percakapan itu — serta bab ini — dengan kalimat yang oleh nat aula diteruskan ke arsip dan oleh Sela diberi garis emas:
-
-"Seribu tahun silam orang takut pada raja yang membakar namanya.
-
-Sekarang mereka mengirim surat minta diajari oleh raja yang memasak sup.
-
-Dunia tidak berubah karena raja berubah, Kak.
-
-Dunia berubah karena raja mau belajar."
-
----
-
-Dan Ashvarok menulis balasannya kecil di bawah entri itu — untuk arsip, untuk Renn, dan untuk siapa pun di masa depan yang membaca:
-
-"Setuju semua. Namun satu koreksi terakhir:
-
-Aku tidak pernah 'raja yang mau belajar'.
-
-Aku tamu yang beruntung — karena rumah yang kutempati punya dua arsiparis cilik: satu menulis papan tulis, satu mendengar dari dalam.
-
-Kalian berdua yang mengajariku dunia tidak selesai saat orangnya tidur."
-
----
-
-Dan satu paragraf terakhir — dari ibu Tamma, tentu saja, yang membaca semua arsip itu dan menambahkan catatan di halaman paling belakang:
-
-"Semua yang ditulis di atas benar. Namun ada yang terlewat:
-
-Anak-anak Spire yang sekarang jadi pegawai dewan itu, waktu makan siang pertama mereka di sini, tidak ada satu pun yang habis makan supnya. Semua takut ambil tambahan.
-
-Aku yang isi ulang mangkuk mereka satu per satu tanpa ditanya.
-
-Itu juga pelajaran, Nak-nak: kadang orang tidak butuh diajari mendengarkan. Mereka hanya butuh seseorang mengisi mangkuknya tanpa diminta."
-
-— Ibu Tamma. Dapur tetap buka.
-
----
-
-Dan satu kabar penutup yang datang tepat saat bab ini ditutup — dari Dewan Regional Spire, ditandatangani Ketua Majelis langsung:
+Kabar berikutnya datang dari the Regional Council Spire, ditandatangani Ketua Majelis langsung:
 
 "Kepada kota Caldrest:
 
@@ -207,7 +201,7 @@ Dan kalimat terakhir surat ini kami kutip dari murid termuda angkatan pertama ka
 
 ---
 
-Dan Ashvarok menutup bab ini dengan entri neraca yang pendeknya tidak biasa:
+Ashvarok mencatat dalam neraca:
 
 Hari 940.
 
@@ -221,21 +215,9 @@ Hari ini jawabannya datang dari seberang gunung:
 
 Tidak ada yang lebih baik dari itu.
 
----
 
-Dan satu baris dari Renn di bawahnya:
+Subuh berikutnya, Renn-Ashvarok masuk ke dapur dan menemukan ibu Tamma sudah mengaduk sesuatu yang bukan sup.
 
-"Setuju. Namun aku tambahkan: dunia tidak hanya belajar menyapa dari kita.
-
-Kita juga sedang belajar sesuatu dari mereka — bahwa dunia yang lebih besar itu ada, dan mau mendekat, kalau kita cukup jujur untuk membuka pintu."
-
-— Bab 248 selesai. Dapur tetap asap. Peta dinding bertambah bintang.
-
----
-
-Dan satu adegan terakhir — di dapur, subuh, sebelum bab ini benar-benar ditutup:
-
-Renn-Ashvarok masuk dan menemukan ibu Tamma sudah mengaduk sesuatu yang bukan sup.
 
 "Ini apa, Bu?"
 

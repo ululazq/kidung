@@ -9,7 +9,7 @@ Ashvarok bekerja dalam kegelapan penuh, tanpa lampu, karena lampu adalah pernyat
 
 Pola itu kecil. Itulah seninya. Forge yang besar akan membentuk, mengangkat, mencipta; Forge tipis hanya membujuk. Ia meminta batu untuk mengingat dirinya sebagai satu tubuh utuh — monolit, tanpa lipatan, tanpa rongga di belakang — dan batu, yang sudah seribu tahun lupa bahwa ia pernah menjadi pintu, bersedia mempercayai kebohongan itu karena kebohongan itu lebih nyaman daripada ingatannya sendiri.
 
-Harga datang seperti biasa, tanpa drama. Panas disedot dari udara lorong, dari lempeng kulitnya, dari ujung jarinya yang membiru sesaat di kegelapan. Di pergelangan kanan, garis parut tua itu berdenyut satu ketukan dan berhenti — masih di bawah siku, menempel di batasnya seperti air menempel di bendungan. Lapar menyala di perutnya seketika, tajam, spesifik: ia tiba-tiba tahu persis bagaimana rasanya roti hitam barak pagi tadi, dan betapa sudah lenyap dari lambungnya.
+Harga datang pada bahan, seperti selalu terjadi saat Forge dipakai: permukaan yang baru dibujuk itu menua di bawah telapak tangannya, serat batu mengering, dan sudut kanan atas menjadi getas setipis kulit telur. Ia harus menjaga lapisan tempaan cukup tipis agar pengelupasan nanti menyerupai retakan lama, bukan kegagalan baru. Dingin lorong membuat ujung jarinya membiru. Lapar menyala di perutnya—tagihan tubuh yang bekerja sejak subuh dengan setengah porsi roti, bukan harga Forge. Di pergelangan kanan, garis parut tua tetap di bawah siku, diam di batasnya seperti air di bendungan.
 
 "Sudah?" Suara Brannoc datang dari tikungan sepuluh langkah di belakang, pelan, sesuai kesepakatan.
 
@@ -35,7 +35,7 @@ Hari kelima puluh dua subuh, tim survei turun untuk kedua kalinya — dan untuk 
 
 Ashvarok mengetahui susunannya sebelum mereka menyelesaikan pemeriksaan tali: lima orang tim Spire, juru catat dengan kotak instrumen bersegel, perempuan tua berjambul abu yang cincin-cincin verifikasinya berdenting pelan setiap kali tangannya bergerak, dua penjaga tambang bayaran Quota Office, dan Kovan. Shift Guard itu berdiri paling belakang barisan, bersertifikat untuk mengamati, dilarang menguji — dan wajahnya, dari jarak dua puluh hasta, terbaca oleh Ashvarok seperti lembar yang sudah dibaca seribu kali: wajah orang yang datang bukan untuk survei.
 
-Maera Tull turun bersama mereka dengan status pembanding internal, membawa kotak timbung mininya, yang hari ini berisi sesuatu yang bukan timbangan: lot catatan-panjang yang Ashvarok serahkan lewat Vosk dua malam lalu, dengan pertanyaan-pertanyaan yang hanya bisa dijawab dengan berdiri di atas batu Caldrest — kedalaman arsip lama, jarak antargaleri versi mandor, irama ketukan era Pak Dekan. Pekerjaan yang tidak bisa dinaikkan ke lantai empat puluh sebuah menara. Pekerjaan yang menjaga kakinya di sini, di bawah, tepat di tempat satu-satunya pembaca jujur dibutuhkan.
+Maera Tull turun bersama mereka dengan status pembanding internal, membawa mini weighing box miliknya, yang hari ini berisi sesuatu yang bukan timbangan: lot catatan-panjang yang Ashvarok serahkan lewat Vosk dua malam lalu, dengan pertanyaan-pertanyaan yang hanya bisa dijawab dengan berdiri di atas batu Caldrest — kedalaman arsip lama, jarak antargaleri versi Foreman, irama ketukan era Pak Dekan. Pekerjaan yang tidak bisa dinaikkan ke lantai empat puluh sebuah menara. Pekerjaan yang menjaga kakinya di sini, di bawah, tepat di tempat satu-satunya pembaca jujur dibutuhkan.
 
 Titik ukur kedalaman pertama berada di galeri utara bawah, empat puluh hasta dari persimpangan. Juru catat membuka segel instrumennya, menancapkan penyuara logam ke celah batu, dan ruangan kecil itu diisi bunyi halus yang tidak bisa didengar telinga biasa — gema yang dibaca mesin, bukan manusia.
 
@@ -43,7 +43,7 @@ Angka muncul di pelat pembaca. Perempuan tua mencatatnya. Angka itu salah.
 
 Ia salah dengan cara yang indah: kedalaman terbaca tujuh hasta lebih dangkal dari kenyataan, karena endapan garam yang Ashvarok pindahkan semalam telah membujuk gelombang gema memantul lebih awal. Salah yang kecil. Salah yang masuk akal — peta lama memang sering salah, dan tujuh hasta adalah jenis kesalahan yang tidak membuat siapa pun menyalakan lampu darurat di kepala.
 
-Mereka turun ke titik kedua. Salah lagi, tiga hasta, ke arah barat. Titik ketiga, di pangkal lorong sembilan bawah: benar — karena Ashvarok membiarkannya benar. Titik yang jujur di tempat yang tidak penting. Titik tujuh milik Maera harus tetap cocok dengan arsipnya sendiri, dan cocoklah ia, irama tiga detik itu, setia seperti jam yang tidak tahu dia sedang menjadi alibi.
+Titik kedua salah lagi, tiga hasta ke barat. Titik ketiga terbaca dua lapis batu lebih tebal. Titik keempat memindahkan batas garam sejauh lima hasta. Empat kesalahan dari lima titik kedalaman, semuanya kecil, semuanya dapat dipersalahkan pada peta tua dan endapan yang bergeser. Hanya titik tujuh milik Maera yang sengaja dibiarkannya benar: irama tiga detik itu cocok dengan arsip pembanding, setia seperti jam yang tidak tahu sedang menjadi alibi.
 
 Di tingkat troli, tempat rel-rel tua berkilau di bawah lampu karbid, Ashvarok bekerja beberapa meter di belakang tim sebagai "Renn", regu Brannoc yang kebetulan diserahkan tugas angkut di jalur yang sama. Tidak ada yang aneh. Jalur troli adalah jalur troli, dan penambang muda yang menarik troli kosong adalah bagian dari dekorasi dunia ini selama generasi.
 
@@ -67,7 +67,7 @@ Perempuan tua tidak langsung puas. Ia mengeluarkan cincin verifikasi dari jariny
 
 "Aku akan mengeceknya." Tetapi ia memasukkan cincin itu kembali ke jarinya ketika berkata begitu, dan orang yang benar-benar hendak memeriksa tidak memasukkan alatnya kembali.
 
-Maera berdiri di tengah lorong dengan kotak timbungnya, dan dari jarak sepuluh hasta Ashvarok bisa membaca gerakan matanya — mata yang menghitung, selalu menghitung. Ia menghitung dinding itu juga, mungkin. Menghitung kemungkinan bahwa tambalan retakan usia memiliki kepadatan resonansi sehalus ini, serapi ini, sebohong ini. Lalu matanya bertemu arah troli di tikungan, sebentar saja, tidak berhenti — dan Assayer Tull membuka formulirnya dan menandai baris anomali nol dengan tanda paraf yang sama rapinya dengan baris-baris lainnya.
+Maera berdiri di tengah lorong dengan weighing box miliknya, dan dari jarak sepuluh hasta Ashvarok bisa membaca gerakan matanya — mata yang menghitung, selalu menghitung. Ia menghitung dinding itu juga, mungkin. Menghitung kemungkinan bahwa tambalan retakan usia memiliki kepadatan resonansi sehalus ini, serapi ini, sebohong ini. Lalu matanya bertemu arah troli di tikungan, sebentar saja, tidak berhenti — dan Assayer Tull membuka formulirnya dan menandai baris anomali nol dengan tanda paraf yang sama rapinya dengan baris-baris lainnya.
 
 Kovan tidak menandai apa pun hari itu. Shift Guard itu berdiri di ambang lorong B selama pembacaan dinding, tangan kosong karena dilarang menguji, dan matanya bergerak dari pelat pembaca ke dinding ke troli di tikungan — tiga titik yang oleh orang lain tidak pernah dibaca bersamaan. Ia pulang paling akhir, menghitung anak tangga lebih keras daripada yang diperlukan untuk naik.
 
@@ -75,26 +75,26 @@ Tim naik. Titik demi titik, laporan kedalaman pertama itu terkunci dalam bentukn
 
 ---
 
-Malam harinya, di barak, tubuh Renn membayar tagihannya.
+Malam harinya, di barak, tubuh Renn menagih kekurangan makan dan dua malam kerja.
 
-Ashvarok duduk di bangku panjang sambil memakan dua porsi bubur jagung yang tidak ia ingat pernah memesannya — Sela yang memesankan, tanpa bertanya, dan itu sendiri sudah menjadi laporan. Lemak tubuhnya menipis. Tangan gemetar sekali di tengah suapan ketiga. Ia memperbaikinya dengan menopang pergelangan kiri menggunakan pinggir mangkuk, cara bocah lemah, cara yang tidak menimbulkan pertanyaan.
+Ashvarok duduk di bangku panjang sambil memakan dua porsi bubur jagung yang tidak ia ingat pernah memesannya — Sela yang memesankan, tanpa bertanya, dan itu sendiri sudah menjadi laporan. Lemak tubuhnya menipis karena shift panjang dan jatah yang tak pernah cukup. Tangan gemetar sekali di tengah suapan ketiga. Ia memperbaikinya dengan menopang pergelangan kiri menggunakan pinggir mangkuk, cara bocah lemah, cara yang tidak menimbulkan pertanyaan.
 
 Sela membuka papan tulisnya di bawah lampu kecil dan menyalakan kapur ke kolom Hourglass.
 
-"Garis kanan," kata anak itu. "Kemarin: dua jari di bawah siku. Malam ini..." Ia memiringkan kepala, membandingkan dengan tanda lama. "Masih di bawah siku. Namun naik. Hampir nyentuh."
+"Garis kanan," kata anak itu. "Kemarin: dua jari di bawah siku. Malam ini..." Ia memiringkan kepala, membandingkan dengan tanda lama. "Masih di bawah siku. Namun naik. Hampir menyentuh."
 
 "Hampir," ulang Ashvarok. "Bukan menyentuh."
 
 "Aturan kita bilang diukur tiap malam. Bukan ditebak." Anak itu mencatat, lalu menoleh, dan di wajah sebelas tahun itu ada ketegasan yang dipinjam dari orang dewasa yang jauh lebih besar. "Kenapa naik?"
 
-"Karena kupinjam tenangnya dari batu."
+"Karena aku bekerja dua malam dan satu shift dengan makanan setengah dari yang dibutuhkan tubuh ini."
 
-"Batunya bayar pakai badanmu." Sela menutup kolom itu dengan garis, tegas. "Besok kalau nyentuh siku, aku panggil dokter tambang. Itu aturan. Kamu yang setuju duluan."
+"Batunya menua. Kamu yang kelaparan." Sela menutup kolom itu dengan garis, tegas. "Besok kalau garisnya menyentuh siku, aku panggil dokter tambang. Itu aturan. Kamu yang setuju duluan."
 
-"Itu aturan," kata Ashvarok, dan membiarkan anak itu memenangkan malam ini, karena anak itu benar, dan karena besok dinding itu akan terbaca monolit di arsip Guild, dan karena the Remainder di dalamnya tidak berkurang sedikit pun hari ini — Forge tidak menyentuhnya. Yang berkurang adalah daging, dan daging, tidak seperti diri, bisa diisi ulang dengan bubur jagung.
+"Itu aturan," kata Ashvarok, dan membiarkan anak itu memenangkan malam ini, karena anak itu benar, dan karena besok dinding itu akan terbaca monolit di arsip Guild, dan karena Forge tidak menyentuh the Remainder atau mendorong garis Hourglass. Harga Forge tertinggal pada batu yang menua. Yang berkurang dari tubuhnya adalah daging akibat kerja dan lapar, dan daging, tidak seperti diri, bisa diisi ulang dengan bubur jagung.
 
 Ia berbaring dan mendengarkan barak bernapas. Empat puluh hasta di bawah sana, di balik dinding yang kini bersumpah telah menjadi dinding sepanjang umurnya, retakan tua itu menunggu dengan kesabaran yang lebih tua daripada kesabaran yang ia miliki.
 
 Biarkan mereka membaca kebohongannya, pikirnya di ambang tidur. Selama kebohongan itu menutup pintu yang benar, ia rela menjadi penulisnya.
 
-Di kegelapan, Sela menambahkan satu angka di kolom HARI MAERA: enam. Dan satu angka lain di kolom yang lebih kecil, huruf-hurufnya hampir tidak terbaca: blind door, aman.
+Di kegelapan, Sela mengubah angka pada kolom HARI MAERA menjadi tujuh — tujuh hari penuh sebelum tenggat berakhir pada malam hari kelima puluh sembilan. Di bawahnya ia menulis satu catatan lebih kecil: blind door terbaca aman; sudut kanan mulai getas.

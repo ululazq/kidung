@@ -9,7 +9,7 @@ Ashvarok mendengar kabarnya sebelum melihat suratnya, karena kabar di Caldrest b
 
 Di ruang bersama blok timur, peti itu dibuka di atas meja tengah, dan isinya diperiksa seperti barang curian yang dikembalikan. Satu lembar untuk setiap pemegang kontrak kerja the Quiet Vein cabang Caldrest. Ribuan lembar. Semua bertanggal sama, semuanya memakai kalimat pembuka yang sama, dan semuanya ditandatangani atas nama biro yang namanya sengaja dibuat membosankan.
 
-Koordinasi Artefak Regional.
+Regional Artifact Coordination.
 
 Brannoc membacakan satu lembar keras-keras dari depan, karena banyak yang tidak bisa membaca dan semua berhak mendengar kalimat persisnya. Pemindahan seluruh kontrak kerja lisensi dari sekte kepada badan supervisi, efektif tanggal cetak, tanpa perubahan bagi pemegang kontrak sekolah anak berkat pasal perlindungan dua tahun. Lalu bagian kedua, yang dibacakan Brannoc lebih lambat supaya tidak ada yang salah dengar: kuota produksi masuk skema restrukturisasi transisi. Setoran mingguan diganti setoran tiga harian. Penalti administratif baru diperkenalkan dengan bahasa yang halus — denda keterlambatan yang dihitung per shift, rotasi regu atas kebijakan pengelola baru, dan hak revisi unilateral atas ketentuan kontrak selama masa transisi dinyatakan berlaku.
 
@@ -27,7 +27,7 @@ Malamnya Ashvarok membaca lembar pemberitahuannya sendiri di gudang perkakas tin
 
 "Itu artinya?" tanya Sela.
 
-"Artinya dia belajar dari kekalahannya." Ashvarok meletakkan lembar itu di atas kotak alat. "Setahun lalu ia ingin membeli izin lalu mengosongkan distrik, dan kita membunuh rencana itu dengan dokumen warisan. Sekarang ia tidak menyentuh tanah dan tidak menyentuh rumah. Ia membeli orang-orangnya. Tanah jasa tetap milik distrik, tetapi kalau semua yang menjaganya dipindahkan secara hukum ke bawah kendali biro yang sama yang mengawasi seam, maka penetapan kemarin jadi pagar yang dijaga oleh penjaga yang digaji lawannya."
+"Artinya dia belajar dari kekalahannya." Ashvarok meletakkan lembar itu di atas kotak alat. "Setahun lalu ia ingin membeli izin lalu mengosongkan distrik, dan kita membunuh rencana itu dengan inheritance documents. Sekarang ia tidak menyentuh tanah dan tidak menyentuh rumah. Ia membeli orang-orangnya. Tanah jasa tetap milik distrik, tetapi kalau semua yang menjaganya dipindahkan secara hukum ke bawah kendali biro yang sama yang mengawasi seam, maka penetapan kemarin jadi pagar yang dijaga oleh penjaga yang digaji lawannya."
 
 Brannoc mengunyah akar pahitnya sampai habis — tanda bahwa percakapan sudah memasuki bagian yang menurutnya serius. "Kita lawan kertasnya?"
 
@@ -47,7 +47,7 @@ Strateginya Ashvarok susun dalam tiga langkah dan satu larangan. Larangannya dik
 
 Langkah pertama, pernyataan kolektif. Bukan sanggahan, bukan keberatan, karena dua kata itu sudah punya riwayat kalah cepat. Sebuah pernyataan fakta — satu lembar, ditandatangani sebanyak mungkin pemegang kontrak — isinya sederhana: bahwa para penanda tangan tinggal dan bekerja di distrik timur sebagai pelaksana service grant yang statusnya baru ditetapkan permanen, dan bahwa perpindahan kontrak kerja mereka kepada badan apa pun harus melalui verifikasi komisi atas kesesuaiannya dengan penetapan itu. Fakta dulu. Kesimpulan belakangan.
 
-Langkah kedua, jalurnya lewat Guild — bukan Quota Office dan bukan balai kota — karena Guild adalah satu-satunya institusi yang stempelnya masih menakuti kedua pihak sekaligus. Lembar itu akan diserahkan ke Assayer Tull sebagai penyidik bidang komisi verifikasi dokumen warisan, satu-satunya orang di kota ini yang berhak dan berani membuka pertanyaan tentang apa yang terjadi ketika dua kertas besar bertabrakan di atas kepala ribuan orang.
+Langkah kedua, jalurnya lewat Guild — bukan Quota Office dan bukan balai kota — karena Guild adalah satu-satunya institusi yang stempelnya masih menakuti kedua pihak sekaligus. Lembar itu akan diserahkan ke Assayer Tull sebagai penyidik bidang komisi verifikasi inheritance documents, satu-satunya orang di kota ini yang berhak dan berani membuka pertanyaan tentang apa yang terjadi ketika dua kertas besar bertabrakan di atas kepala ribuan orang.
 
 Langkah ketiga, tulisannya. Ashvarok menoleh ke Brannoc untuk bagian ini. "Surat itu harus tegak. Pasal, tanggal, kalimat yang tidak bisa disalahartikan. Kita tidak punya orang yang menulis seperti itu."
 

@@ -35,7 +35,7 @@ Ashvarok-Renn menatap peta di dinding. "Maka kita biarkan mereka curiga. Curiga 
 
 ---
 
-Malam itu Kovan membuka buku anomali di samping peta Ossian. Ia menarik garis dari simpul kedua Spire ke arah selatan, ke beberapa titik yang pernah ia baca di laporan barang lewat pos.
+Malam itu Kovan membuka the Anomaly Book di samping peta Ossian. Ia menarik garis dari simpul kedua Spire ke arah selatan, ke beberapa titik yang pernah ia baca di laporan barang lewat pos.
 
 "Ada satu pola," katanya. "Simpul kedua di Spire bukan hanya menarik benang Mira. Ia juga menarik artefak Hegemony yang lewat jalur pos utara. Dalam setahun terakhir, tujuh artefak hilang dari brankas Guild di tiga kota, dan semua jalurnya bermuara ke Spire."
 
@@ -47,7 +47,7 @@ Ashvarok-Renn mengangguk. "Itu gejalanya. Satu Throne diam-diam membeli atau mem
 
 "Throne?" tanya Sela. "Bukan Choir?"
 
-"Choir adalah payung. Throne adalah yang duduk di bawahnya. Arc ini mencari jejak pertama tangan yang menyedot. Tangan itu mungkin duduk di satu Throne, bukan di ruang panitia."
+"Choir adalah payung. Throne adalah yang duduk di bawahnya. Kita mencari jejak pertama tangan yang menyedot. Tangan itu mungkin duduk di satu Throne, bukan di ruang panitia."
 
 Ia mengetuk tiga kali ke lantai, diam satu hentakan. "Mira aman selama ia hanya kirim angka. Kita aman selama kita tidak sebut katup. Dan musuh kita sekarang bukan Ossian. Musuh kita adalah sesuatu di Spire yang memanen diam-diam lewat jalur yang baru saja kita jadikan hidup."
 
@@ -59,7 +59,7 @@ Di menara, tiga hari kemudian, cap penerimaan tiba dari arsip Spire, dialamatkan
 
 Ia tidak tahu bahwa di ujung lain, pola itu sedang dibandingkan dengan catatan tarikan lama yang belum pernah dilihat Mira — dan bahwa kecocokan pertamanya telah menarik perhatian sebuah institusi yang belum punya nama di atas kertas mana pun, tetapi sudah lama memegang gunting di ujung benang yang sama.
 
-Ashvarok-Renn menutup buku anomali di ruang tengah barak. Di dalamnya, satu baris baru tertulis di bawah jejak pertama:
+Ashvarok-Renn menutup the Anomaly Book di ruang tengah barak. Di dalamnya, satu baris baru tertulis di bawah jejak pertama:
 
 *Pola angka Mira cocok dengan catatan tarikan lama Spire. Gejala: satu Throne memanen artefak Hegemony lewat pos utara. Kita tidak sebut nama. Kita hanya catat bahwa benang kita kini bergetar di tangan yang memanen.*
 
@@ -109,11 +109,11 @@ Pagi berikutnya di menara, Mira mencatat sesuatu yang belum pernah ia tulis seja
 
 Mira menulis catatan kecil di sisi buku: *Ritme celah lebih seragam sejak pola dikirim.* Ia tidak mengirim catatan itu ke Spire. Catatan kecil adalah milik menara, bukan arsip.
 
-Di barak, Ashvarok-Renn membaca laporan Maera tentang pengamatan Mira. Ia menatap buku anomali dan menulis satu baris:
+Di barak, Ashvarok-Renn membaca laporan Maera tentang pengamatan Mira. Ia menatap the Anomaly Book dan menulis satu baris:
 
 *Simpul kedua Spire tidak hanya membaca. Ia mulai menarik. Ritme celah menara kini lebih seragam = benang yang kami kirim sedang ditarik balik secara aktif. Celah menara adalah salah satu dari tujuh seam pengikat the Threshold. Tangan yang memanen di Spire menyambung ke jaringan yang sama dengan seam Testament.*
 
-"Tujuh seam," kata Kovan membaca baris itu. "Buku arcs menyebutnya. Seam Testament adalah satu. Celah menara adalah yang kedua kita temui."
+"Tujuh seam," kata Kovan membaca baris itu. "Buku arsip menyebutnya. Seam Testament adalah satu. Celah menara adalah yang kedua kita temui."
 
 "Dan yang memanen di Spire memanen lewat semua tujuh," jawab Ashvarok-Renn. "Kita tidak turun. Kita tidak sebut katup. Tetapi kita sekarang tahu bahwa benang yang kita kirim menyambung ke jaringan yang lebih tua dari Choir itu sendiri."
 
@@ -125,6 +125,6 @@ Ia menarik peta Ossian dan menambah satu penanda di bawah titik Spire: simpul ke
 
 Ia mengetuk lantai serambi tiga kali, lalu diam sehentakan. Di luar, angin selatan masuk pelan membawa napas yang sama dengan yang Mira catat tiap subuh — tetapi kini napas itu tidak sepenuhnya milik menara. Sebagian ditarik dari ruang bawah Spire, oleh tangan yang belum bernama, lewat benang yang baru saja kita jadikan hidup. Ashvarok-Renn menutup pintu. Disiplin bukan lagi sekadar menjaga rahasia. Disiplin kini adalah menjaga agar benang yang kita tarik sendiri tidak menjadi tali yang menjerat leher kita.
 
-Ia kembali ke ruang tengah, menatap Sela yang masih memegang papan kecil. "Tulis di world-state barak," katanya. "Tiga simpul aktif. Kita pegang yang tidak bernama. Itu keuntungan yang tidak bisa mereka panggil."
+Ia kembali ke ruang tengah, menatap Sela yang masih memegang papan kecil. "Tulis di papan keadaan barak," katanya. "Tiga simpul aktif. Kita pegang yang tidak bernama. Itu keuntungan yang tidak bisa mereka panggil."
 
 Sela menulis baris itu di bawah catatan benang resmi. Di luar, bel barak utara berdenting tiga detik tanpa satu pun yang menyuruhnya — isyarat bahwa kurir utara mungkin lewat malam itu, atau hanya angin selatan yang mencapai puncaknya. Baik mana pun, benang itu hidup, dan hidup adalah hal yang tidak bisa diputus tanpa memutus suara yang menahannya.

@@ -5,11 +5,11 @@ chapter: 105
 
 Berkas itu tiba di pos Guild distrik tengah pada siang hari keseratus empat puluh tiga, dalam sampul pos resmi yang tebalnya tidak biasa — dan Maera Tull tahu isinya sebelum membuka segelnya, hanya dari alamat pengirimnya.
 
-Koordinasi Artefak Regional. Biro yang namanya sengaja dibuat membosankan itu jarang menulis surat, karena pekerjaannya lebih suka berjalan lewat kop surat institusi lain. Ketika biro itu menulis langsung kepada Guild, artinya ada barang yang ingin dicatatkan — dan barang yang ingin dicatatkan selalu butuh satu hal dari Guild.
+Regional Artifact Coordination. Biro yang namanya sengaja dibuat membosankan itu jarang menulis surat, karena pekerjaannya lebih suka berjalan lewat kop surat institusi lain. Ketika biro itu menulis langsung kepada Guild, artinya ada barang yang ingin dicatatkan — dan barang yang ingin dicatatkan selalu butuh satu hal dari Guild.
 
 Stempelnya.
 
-Ia membuka berkas itu di ruang kerjanya dengan tata cara yang sudah menjadi otot: mencatat waktu penerimaan, menghitung jumlah lembar, memeriksa utuhnya segel. Isinya dua bagian. Bagian pertama, salinan perjanjian pengalihan yang telah ditandatangani pusat sekte the Quiet Vein dan Koordinasi Artefak Regional — dengan angka-angka yang membuatnya berhenti sejenak pada baris nilai transaksi, karena angka itu terlalu rapi untuk pembelian yang mendesak dan terlalu besar untuk tambang yang produksinya nol. Ribuan kontrak kerja tenaga lisensi Caldrest, fasilitas, gudang, Quota Office, semua berganti pemilik dalam satu tanggal cetak.
+Ia membuka berkas itu di ruang kerjanya dengan tata cara yang sudah menjadi otot: mencatat waktu penerimaan, menghitung jumlah lembar, memeriksa utuhnya segel. Isinya dua bagian. Bagian pertama, salinan perjanjian pengalihan yang telah ditandatangani pusat sekte the Quiet Vein dan Regional Artifact Coordination — dengan angka-angka yang membuatnya berhenti sejenak pada baris nilai transaksi, karena angka itu terlalu rapi untuk pembelian yang mendesak dan terlalu besar untuk tambang yang produksinya nol. Ribuan kontrak kerja tenaga lisensi Caldrest, fasilitas, gudang, Quota Office, semua berganti pemilik dalam satu tanggal cetak.
 
 Bagian kedua lebih tipis dan lebih penting. Lampiran verifikasi.
 
@@ -73,7 +73,7 @@ Tiga halaman. Tidak satu kata tentang aula. Tidak satu kata tentang apa yang ben
 
 Lembar verifikasi yang dicetak itu ia biarkan kosong. Seluruhnya kosong. Kolom kondisi, kolom penyimpangan, kolom verifikator — semua menunggu dengan sabarnya seperti sebelumnya, dan kekosongan itulah jawabannya.
 
-Pagi itu juga ia berjalan ke Quota Office dengan memorandum di bawah lengan dan kotak timbung mininya di tangan, melewati meja-meja pegawai yang tidak menoleh, sampai ke ruang kerja pejabat Koordinasi yang diketahui pegawai-pegawai selalu disiapkan meski pemiliknya sering tidak ada di kota. Meja itu bersih, lurus, dan kosong seperti pemiliknya yang efisien. Kabar pos menyebut kereta Koordinasi akan memasuki gerbang kota menjelang malam — maka memorandum itu akan menemukan pembacanya di pagi pertama setelah kepemilikan baru, dan tidak ada pengiriman yang lebih tepat daripada itu.
+Pagi itu juga ia berjalan ke Quota Office dengan memorandum di bawah lengan dan mini weighing box miliknya di tangan, melewati meja-meja pegawai yang tidak menoleh, sampai ke ruang kerja pejabat Koordinasi yang diketahui pegawai-pegawai selalu disiapkan meski pemiliknya sering tidak ada di kota. Meja itu bersih, lurus, dan kosong seperti pemiliknya yang efisien. Kabar pos menyebut kereta Koordinasi akan memasuki gerbang kota menjelang malam — maka memorandum itu akan menemukan pembacanya di pagi pertama setelah kepemilikan baru, dan tidak ada pengiriman yang lebih tepat daripada itu.
 
 Ia meletakkan memorandum tiga halaman di tengah meja itu. Di atasnya, sejajar dan rapi, ia meletakkan lembar verifikasi yang kosong, dengan kolom-kolomnya menghadap ke kursi.
 

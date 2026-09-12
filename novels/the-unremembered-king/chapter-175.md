@@ -7,7 +7,7 @@ Retakan itu menjawab pada hari kedua ratus empat puluh tiga, dan menjawabnya den
 
 Ashvarok sedang berdiri di ambang aula bersama Kovan — sesi mitra membaca pertama dengan pengikat senior tertunda karena hujan abu, jadi malam itu hanya mereka dua, membaca nat barat dengan dua tradisi berbeda — ketika sapuan datang. Namun bukan sapuan biasa.
 
-Lagu Hegemony dimulai dari kedalaman. Utuh. Bukan potongan yang diputar seperti piringan rusak — dinyanyikan, dari nada pertama sampai nada terakhir, dengan suara paduan seribu yang tidak pernah ia dengar sejak aula ini penuh manusia, setiap bagian harmoninya tepat, setiap jeda napasnya persis di tempat paduan suara asli menarik napas.
+the Hegemony song dimulai dari kedalaman. Utuh. Bukan potongan yang diputar seperti piringan rusak — dinyanyikan, dari nada pertama sampai nada terakhir, dengan suara paduan seribu yang tidak pernah ia dengar sejak aula ini penuh manusia, setiap bagian harmoninya tepat, setiap jeda napasnya persis di tempat paduan suara asli menarik napas.
 
 Kovan merangkak ke arahnya dengan mata lebar. Ashvarok tidak bisa bicara. Ia mendengarkan lagu pernikahan penjaga era Hegemony — lagu yang dinyanyikan untuk dirinya sendiri seribu tahun silam oleh lima panglimanya dan seratus orang terbaiknya — dinyanyikan kembali kepadanya oleh kegelapan yang selama ini dikira musuh dunia.
 
@@ -65,19 +65,19 @@ Barak distrik timur mendengarkan dalam hening yang bukan keheningan takut untuk 
 
 Tovik.
 
-The Hollowed tua itu bangkit dari kursinya di sudut — ia hadir tiap panggung dapur sekarang, stasiun tetapnya — dan berkata kepada Ashvarok dengan wajah orang yang baru saja mengerti sesuatu tentang dirinya sendiri:
+The Hollowed tua itu bangkit dari kursinya di sudut — ia hadir tiap the Kitchen Stage sekarang, stasiun tetapnya — dan berkata kepada Ashvarok dengan wajah orang yang baru saja mengerti sesuatu tentang dirinya sendiri:
 
 "Jadi selama ini... yang menghapus nama kita itu bukan yang lapar. Yang lapar hanya duduk di bawah sana menunggu." Ia memandang tangannya sendiri. "Yang menghapus itu yang lain. Yang takut." Jeda panjang, lalu kalimat yang membuat Ashvarok merasakan the Remainder-nya bergerak tanpa dipanggil: "Kalau kau bisa menyapa yang di bawah... aku mau dicoba juga. Nama Tovik bisa balik lewat tangan. Mungkin nama yang hilang lebih lama bisa balik lewat jalur yang sama."
 
 Ashvarok memandang lelaki tua itu lama — the Hollowed pertama yang pernah ia temui di dunia ini, korban yang tidak pernah bisa diselamatkan selama dua tahun, yang kini duduk di dapur barak mengajukan diri sebagai proyek penyelamatan pertama era baru.
 
-"Bukan kamu yang dicoba," kata Ashvarok akhirnya. "Kamu yang dilibatkan. Ada bedanya, dan beda itu milikmu." Ia menoleh ke Sela. "Catat di papan: jam penjaga malam untuk Tovik dimulai hari Dua ini. Semua potongan ceritanya dibacakan ulang. Dan tambahkan satu baris baru yang belum pernah ada: setiap sesi ditutup dengan menyebut namanya — Tovik — oleh semua yang hadir, keras-keras, sampai dia sendiri bisa ikut menyebutnya tanpa dibimbing."
+"Bukan kamu yang dicoba," kata Ashvarok akhirnya. "Kamu yang dilibatkan. Ada bedanya, dan beda itu milikmu." Ia menoleh ke Sela. "Catat di papan: night-watch hour untuk Tovik dimulai Hari Kedua ini. Semua potongan ceritanya dibacakan ulang. Dan tambahkan satu baris baru yang belum pernah ada: setiap sesi ditutup dengan menyebut namanya — Tovik — oleh semua yang hadir, keras-keras, sampai dia sendiri bisa ikut menyebutnya tanpa dibimbing."
 
-"Dia sudah bisa," kata ibu Tamma dari dapurnya, datar, tanpa menoleh, dan meja hening. "Dua malam terakhir, waktu absen-nama. Dia jawab 'Tovik ada' sebelum aku panggil." Wanita itu akhirnya menoleh, dan di matanya ada air yang tidak akan pernah ia akui. "Kalian sibuk bicara sama kedalaman dan tidak melihat muka tua ini. Namanya sudah mulai balik duluan dari yang kita kira."
+"Dia sudah bisa," kata ibu Tamma dari dapurnya, datar, tanpa menoleh, dan meja hening. "Dua malam terakhir, waktu name-roll. Dia jawab 'Tovik ada' sebelum aku panggil." Wanita itu akhirnya menoleh, dan di matanya ada air yang tidak akan pernah ia akui. "Kalian sibuk bicara sama kedalaman dan tidak melihat muka tua ini. Namanya sudah mulai balik duluan dari yang kita kira."
 
 Ashvarok memandang the Hollowed tua itu — Tovik, yang namanya sedang pulang lewat pintu dapur sebelum semua rencana besar tim inti selesai disusun — dan menemukan bahwa untuk pertama kalinya dalam seribu tahun karier penjagaannya, ia telah membuat kesalahan klasik yang selalu dikritiknya pada pejabat: sibuk memandang medan yang besar dan melewatkan mukjizat kecil yang terjadi di dapur.
 
-"Maka prioritas kita berganti," kata Ashvarok. "Bukan kedalaman dulu. Tovik dulu. Kedalaman bisa menunggu — dia sudah terbukti sabar seribu tahun." Ia bangkit, dan menawarkan tangan kepada lelaki tua itu, dan membantunya berdiri. "Pak Tovik. Hari Dua depan, panggung dapur, sesi pertama resmi. Dan kalau nama itu sampai balik utuh — kamu yang pilih mau jadi apa setelahnya. Penjaga malam lagi, atau pensiunan yang diceritakan anak-anak. Pilihanmu."
+"Maka prioritas kita berganti," kata Ashvarok. "Bukan kedalaman dulu. Tovik dulu. Kedalaman bisa menunggu — dia sudah terbukti sabar seribu tahun." Ia bangkit, dan menawarkan tangan kepada lelaki tua itu, dan membantunya berdiri. "Pak Tovik. Hari Kedua depan, the Kitchen Stage, sesi pertama resmi. Dan kalau nama itu sampai balik utuh — kamu yang pilih mau jadi apa setelahnya. Penjaga malam lagi, atau pensiunan yang diceritakan anak-anak. Pilihanmu."
 
 Tovik memandang tangan yang menolongnya berdiri, lalu wajah bocah lorong tujuh, lalu barak penuh orang yang menyebut namanya tiap malam.
 

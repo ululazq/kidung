@@ -3,7 +3,7 @@ title: "Bab 214: Dapur di Atas Zaman Purba"
 chapter: 214
 ---
 
-Dapur aula resmi dibuka pada hari kedua ratus lima puluh enam — dan berbeda dari semua pembukaan institusi Caldrest sebelumnya, acaranya bukan pidato, melainkan sarapan.
+Dapur aula resmi dibuka—dan berbeda dari semua pembukaan institusi Caldrest sebelumnya, acaranya bukan pidato, melainkan sarapan.
 
 Keputusan itu dijelaskan ibu Tamma dengan logika dapurnya yang tidak pernah bisa dibantah: "Pidato bisa dilakukan siapa saja. Sarapan hanya bisa dilakukan orang yang punya dapur. Kita buka dapur — berarti kita buktikan dulu, baru omong-omong."
 
@@ -45,7 +45,7 @@ Kovan mencatat kalimat itu di neracanya dengan catatan pinggir: "Delapan bulan s
 
 Sore pembukaan, menu perdana disiapkan oleh tiga generasi: sup resep lama ibu Tamma, roti gandum murid akademi (hasil latihan sabtu pagi yang akhirnya layak disajikan), dan teh — teh ibu Tamma tentu saja, yang diseduh langsung di atas tungku Karveth-Ulm dan oleh para penjual teh kota tetangga kelak digosipkan sebagai "teh paling hangat di Karvess; hangatnya sampai ke hati lebih dulu".
 
-Menu keempat adalah ide Sareth Vayin, yang datang membawa satu nampan kecil: bubur dari resep ordo Penjaga Rekam — makanan para penjaga malam empat generasi. "Supaya tradisi lama ikut duduk di meja ini," kata wanita tua itu. "Dapur yang hanya menyajikan masa kini itu dapur yang melupakan setengah tamunya."
+Menu keempat adalah ide Sareth Vayin, yang datang membawa satu nampan kecil: bubur dari resep the Record Wardens — makanan para penjaga malam empat generasi. "Supaya tradisi lama ikut duduk di meja ini," kata wanita tua itu. "Dapur yang hanya menyajikan masa kini itu dapur yang melupakan setengah tamunya."
 
 Semua warga Caldrest diundang. Semua datang bergelombang dari jam empat sore — dan antrean sup yang melintasi aula menjadi antrean paling tertib dalam sejarah kota, karena tidak ada satu pun yang mau tergesa-gesa di tempat yang terasa seperti rumah makan zaman purba.
 

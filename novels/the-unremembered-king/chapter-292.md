@@ -3,7 +3,7 @@ title: "Bab 292: Guru yang Pernah Bisu"
 chapter: 292
 ---
 
-Tovik berdiri di depan kelas Sekolah Mendengar angkatan keenam, bukan sebagai tamu, bukan sebagai pasien teladan, melainkan sebagai guru. Di tangannya sehelai daun catatan. Di hadapannya, dua puluh murid yang delapan belas tahun silam belum lahir saat Tovik kehilangan suaranya.
+Tovik berdiri di depan kelas the Listening School angkatan keenam, bukan sebagai tamu, bukan sebagai pasien teladan, melainkan sebagai guru. Di tangannya sehelai daun catatan. Di hadapannya, dua puluh murid yang delapan belas tahun silam belum lahir saat Tovik kehilangan suaranya.
 
 Sembilan tahun ia bisu. Sembilan tahun ia hanya menyapa lewat tulisan dan isyarat. Sekarang suaranya kembali utuh, tetapi ia tidak bicara banyak.
 
@@ -25,7 +25,7 @@ Murid-murid mencatat. Salah satu dari mereka, anak laki-laki bernama Pell (tidak
 
 Istirahat, Gella mampir ke kelas membawa kotak periksa vein. Ia duduk di bangku belakang, mengamati Tovik mengajar.
 
-"Vain-scar-mu sudah tidak merambat," kata Gella pelan saat murid keluar. "Namun suaramu masih berderak."
+"Vein-scar-mu sudah tidak merambat," kata Gella pelan saat murid keluar. "Namun suaramu masih berderak."
 
 "Engsel lama," jawab Tovik. "Bukan masalah. Yang penting aku bisa ajarkan bahwa penyembuhan datang dari DIDENGAR, bukan diobati."
 
@@ -85,7 +85,7 @@ Malam, Tovik menulis di buku harian yang delapan belas tahun silam ia mulai seba
 
 *Hari pertama mengajar. Dua puluh murid. Satu dari mereka mungkin akan jadi guru juga suatu hari. Aku tidak ajarkan mereka jadi seperti aku. Aku ajarkan mereka jadi orang yang duduk di sebelah yang bisu. Itu warisanku — bukan suaraku, tetapi ruang yang kutinggalkan untuk yang tidak bicara.*
 
-Ia menutup buku. Di sudut barak, Yang Dulu Sunyi mencatat satu detak pelan — bukan nama Tovik, tetapi kalimat: *yang disembuhkan jadi pengajar.* Getar itu merambat ke seluruh nat Karvess, seolah batu-batu tua mengangguk bahwa siklus itu benar: orang yang pernah hancur kini yang menjahit yang lain.
+Ia menutup buku. Di sudut barak, the Once-Silent mencatat satu detak pelan — bukan nama Tovik, tetapi kalimat: *yang disembuhkan jadi pengajar.* Getar itu merambat ke seluruh nat Karvess, seolah batu-batu tua mengangguk bahwa siklus itu benar: orang yang pernah hancur kini yang menjahit yang lain.
 
 Dan Tovik, untuk pertama kalinya sejak sembilan tahun lalu kehilangan suara, tertidur tanpa rasa bahwa besok ia harus membuktikan dirinya bisa bicara. Ia sudah bicara. Ia sudah didengar. Sisanya adalah mengajarkan orang lain cara mendengar.
 
@@ -119,7 +119,7 @@ Tovik terdiam sejenak. Lalu ia duduk di kursi sudut — kursi yang delapan belas
 
 "Betul." Tovik berdiri kembali. "Orang bisa pergi. Cara yang ditinggalinya yang tetap mengajar. Itu pelajaran terakhir hari ini. Catat itu, bukan namaku."
 
-Murid-murid mencatat. Di papan, Tovik menulis kalimat penutup: *Warisan hidup = cara yang diajarkan bertahan walau yang mengajarkan sudah tidak ada.*
+Pena-pena bergerak. Di papan, Tovik menulis kalimat penutup: *Warisan hidup = cara yang diajarkan bertahan walau yang mengajarkan sudah tidak ada.*
 
 Lalu lonceng kecil sekolah berbunyi. Murid-murid bubar. Tovik menghapus papan, menyimpan daun catatan, dan untuk pertama kalinya merasa bahwa delapan belas tahun bisu bukan rugi waktu, melainkan kurikulum yang akhirnya ia selesaikan.
 
@@ -135,4 +135,4 @@ Di ambang, Wida menunggu. Perempuan yang delapan belas tahun silam orang pertama
 
 Wida tertawa kecil. "Bukan tertutup. Diperluas. Dulu hanya kau yang kujaga. Sekarang seluruh sekolah."
 
-Mereka berpisah di lorong. Tovik ke rumahnya, Wida ke pos jemput. Di barak utara, Yang Dulu Sunyi mencatat satu detak hangat terakhir hari itu: *yang disembuhkan jadi pengajar, dan yang mengajar pertama kali kini mengajar yang lain.*
+Mereka berpisah di lorong. Tovik ke rumahnya, Wida ke pos jemput. Di barak utara, the Once-Silent mencatat satu detak hangat terakhir hari itu: *yang disembuhkan jadi pengajar, dan yang mengajar pertama kali kini mengajar yang lain.*

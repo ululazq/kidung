@@ -43,7 +43,7 @@ Gigi pertama bangun. Pengenalan tipis, dingin, seperti suara langkah di ruangan 
 
 Gigi kedua bangun. Ketiga. Keempat.
 
-Ia menghitung dengan napasnya, sabar, tanpa mengharapkan apa pun, dan pada detik-detik terakhir sebelum pengenalan mereda dengan sendirinya, gigi kelima dan keenam ikut bangun, dan getaran pengenalan itu turun dari sekat ke telapaknya sampai ke parut dengan kedalaman yang tidak pernah tercapai sejak malam the Long Dusk.
+Ia menghitung dengan napasnya, sabar, tanpa mengharapkan apa pun, dan pada detik-detik terakhir sebelum pengenalan mereda dengan sendirinya, gigi kelima dan keenam ikut bangun, dan getaran pengenalan itu turun dari sekat ke telapaknya sampai ke parut dengan kedalaman yang tidak pernah tercapai sejak the Long Dusk.
 
 Ashvarok melepaskan tangannya dan berdiri diam di lorong mati itu beberapa waktu lebih lama daripada yang aman.
 
@@ -55,7 +55,7 @@ Dunia memang memberikan buktinya sendiri, dan bukti itu bukan angka. Warna loron
 
 Lapar itu masih ada. Ia tahu lapar itu tidak akan pernah benar-benar pergi, dan ia sudah belajar tidak membohongi dirinya sendiri soal itu. Tetapi lapar yang kenyang adalah lapar yang bisa diatur, dan ia berdiri di lorong mati ciptaannya sendiri, mengatur.
 
-"Selesai?" suara Brannoc turun dari persimpangan, sesuai protokol pasangan yang menghitung tanpa menanyakan.
+"Selesai?" suara Brannoc turun dari persimpangan, sesuai paired-guard protocol yang menghitung tanpa menanyakan.
 
 "Selesai. Kanalnya tetap mati, tidak ada jejak baru." Ashvarok menaiki tangga batu menuju persimpangan, dan di titik temu ia memberikan separuh kebenaran yang disepakati kepada mitranya. "Ada satu hal lagi. Angkaku naik. Lewat angka lama yang paling rendah."
 
@@ -79,7 +79,7 @@ Sela mendengarkan habis, lalu membuka kolom baru di halaman belakang papannya, k
 
 "Kolom PULIH." Adik angkatnya menutup kapurnya dengan tegas. "Hourglass mencatat kamu habis. Kolom ini mencatat kamu ada. Biar seimbang."
 
-Malam itu ritual panggil-nama blok timur menutup lingkarannya seperti biasa, gerbong demi gerbong, jawaban keras demi jawaban keras, dan Ashvarok berdiri di tepinya sebagai Renn, menjawab nama orang lain dan menyebut namanya sendiri pada gilirannya, dengan tubuh yang sedikit lebih penuh daripada kemarin. Jauh di kedalaman, di lorong troli timur, sebuah batu penyangga berdiri tegak dalam gelap sambil menunggu namanya dipanggil dengan benar, dan di permukaan, di dapur barak yang mulai padam, cerita-cerita kecil tentang kuli ventilasi itu sudah bersiap naik lagi esok pagi, satu demi satu, jujur dan bertanggal, memberi makan raja yang tidak pernah mereka kenal dengan makanan yang hanya bisa dibayar oleh kebenaran.
+Malam itu east-block name-calling ritual menutup lingkarannya seperti biasa, gerbong demi gerbong, jawaban keras demi jawaban keras, dan Ashvarok berdiri di tepinya sebagai Renn, menjawab nama orang lain dan menyebut namanya sendiri pada gilirannya, dengan tubuh yang sedikit lebih penuh daripada kemarin. Jauh di kedalaman, di lorong troli timur, sebuah batu penyangga berdiri tegak dalam gelap sambil menunggu namanya dipanggil dengan benar, dan di permukaan, di dapur barak yang mulai padam, cerita-cerita kecil tentang kuli ventilasi itu sudah bersiap naik lagi esok pagi, satu demi satu, jujur dan bertanggal, memberi makan raja yang tidak pernah mereka kenal dengan makanan yang hanya bisa dibayar oleh kebenaran.
 
 ---
 

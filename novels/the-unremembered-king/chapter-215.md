@@ -3,13 +3,13 @@ title: "Bab 215: Tanda Tangan"
 chapter: 215
 ---
 
-Surat dari Spire datang pada hari kedua ratus enam puluh satu — dibawa kurir resmi Dewan Regional, dengan segel timah ganda yang biasanya hanya dipakai untuk deklarasi perang atau perubahan batas wilayah.
+Surat dari Spire datang pada hari kedua ratus enam puluh satu — dibawa kurir resmi the Regional Council, dengan segel timah ganda yang biasanya hanya dipakai untuk deklarasi perang atau perubahan batas wilayah.
 
 Ossian yang menerimanya di Kantor Penghubung, membacanya sekali, duduk, membacanya lagi, lalu membawanya sendiri ke meja panjang aula tempat seluruh tim inti kebetulan berkumpul untuk makan siang.
 
 "Baca," katanya, meletakkan surat itu di tengah meja di antara mangkuk-mangkuk sup. "Kalian harus membacanya sendiri. Aku sudah dua kali dan masih tidak percaya."
 
-Surat itu, dalam bahasa hukum Dewan yang kaku dan penuh rujukan pasal, menyatakan hal yang tidak pernah terjadi dalam sejarah hukum Karvess: Dewan Regional mengakui the Patient House — kedalaman bawah tanah Caldrest dan seluruh jaringan nat-nya — sebagai entitas berdaulat. Bukan properti. Bukan anomali. Bukan seam yang bisa diklaim. Melainkan pihak hukum yang berdiri sejajar dengan kota, guild, dan Dewan itu sendiri.
+Surat itu, dalam bahasa hukum Dewan yang kaku dan penuh rujukan pasal, menyatakan hal yang tidak pernah terjadi dalam sejarah hukum Karvess: the Regional Council mengakui the Patient House — kedalaman bawah tanah Caldrest dan seluruh jaringan nat-nya — sebagai entitas berdaulat. Bukan properti. Bukan anomali. Bukan seam yang bisa diklaim. Melainkan pihak hukum yang berdiri sejajar dengan kota, guild, dan Dewan itu sendiri.
 
 Pasal-pasalnya diringkas Sela sambil membaca, dan setiap pasal membuat ruangan makan siang semakin sunyi:
 
@@ -39,7 +39,7 @@ Aula itu diam lama setelah kalimat terakhir dibaca. Yang memecah keheningan adal
 
 Siapa saja yang akan menandatangani menjadi diskusi makan siang yang panjang. Wakil Caldrest: Hale (wali kota), ibu Tamma (suara barak), dan Sela (Arsip) — dipilih karena "tangan-tangan yang bekerja setiap hari". Ibu Tamma menerima pencalonannya dengan syarat khasnya: "Aku menandatangani kalau setelah upacara ada makan. Dokumen penting tidak boleh ditandatangani di perut kosong — orang jadi mudah setuju pada isi yang jelek." Pasal katering masuk agenda resmi dalam lima menit.
 
-Wakil utara: juru ukur selatan dan kepala tambang Karven (kota tetangga pertama). Yang ketiga dari utara, disepakati semua orang tanpa debat: Barim — murid Pak Dekan, penjaga malam, pendengar alami pertama yang pulih.
+Wakil utara: kepala tambang Karven (kota tetangga pertama) dan Barim—murid Pak Dekan, penjaga malam, pendengar alami pertama yang pulih.
 
 "Kenapa aku?" tanya Barim, sungguh bertanya.
 
@@ -47,11 +47,72 @@ Wakil utara: juru ukur selatan dan kepala tambang Karven (kota tetangga pertama)
 
 Barim diam lama. Lalu mengangguk sekali, cara orang yang menyimpan sesuatu terlalu besar untuk dijawab dengan kata.
 
-Dan tangan kesebelas, yang oleh Dewan ditulis "penjaga yang menyegelnya": Ashvarok.
+Dan tangan kedua belas, yang oleh Dewan ditulis "penjaga yang menyegelnya": Ashvarok.
 
 "Kau sadar apa yang mereka minta?" kata Sareth Vayin malam itu, ketika keduanya sendirian di ruang arsip. "Mereka meminta tangan yang menyegel datang menandatangani pembukaannya. Itu bukan formalitas. Itu pengakuan publik bahwa kesalahan seribu tahun itu milikmu — dan penebusannya juga."
 
 "Baru kali ini aku sadar betul-betul," kata Ashvarok. "Itulah sebabnya aku akan menandatanganinya dengan senang hati. Seribu tahun aku mencari cara menebus. Ternyata caranya bukan pertempuran besar." Ia tersenyum. "Caranya tanda tangan."
+---
+
+Masalah muncul tiga hari sebelum upacara, ketika salinan bersih dari Spire tiba untuk diperiksa. Sela membentangkannya di meja Arsip, membaca dari atas sampai bawah, lalu kembali ke kotak tanda tangan kedua belas. Di bawah ruang kosong berbentuk telapak, seorang juru hukum Dewan telah menambahkan satu baris kecil:
+
+*Ashvarok, penguasa terakhir Hegemony, selaku pemilik segel terdahulu.*
+
+Kapur Sela patah di tangannya.
+
+Ia memanggil Maera, Ossian, Hale, dan Ashvarok tanpa menunggu makan siang selesai. Ketika mereka tiba, baris itu sudah dilingkari tiga kali.
+
+"Ini bukan penjelasan," kata Sela. "Ini jerat."
+
+Hale membaca kalimat tersebut, lalu mengusap bekas kapur dari ujung jarinya. "Mereka menganggap wilayah itu dulu milikmu."
+
+"Lebih buruk," kata Maera. Ia menarik kursi dan duduk sangat tegak, seperti tiap kali menemukan kebohongan yang berpakaian prosedur. "Kalau Ashvarok menandatangani sebagai pemilik segel, pengakuan the Patient House dapat dibaca sebagai penyerahan hak dari penguasa lama. Bukan pengakuan atas pihak yang memang memiliki dirinya sendiri. Lima tahun lagi, Dewan lain bisa menyebut dokumen ini hibah kerajaan dan mencabutnya lewat pasal warisan kekuasaan."
+
+Ossian menatap baris kecil itu lebih lama daripada yang lain. "Juru hukum yang menulisnya mungkin mengira ia sedang memperjelas kedudukan penanda tangan."
+
+"Kesalahan paling berbahaya selalu punya alasan yang rapi," kata Sela.
+
+Ashvarok tidak menyentuh kertas. Seribu tahun lalu, satu kalimat dengan susunan serupa akan terasa wajar baginya: raja memiliki segel, segel memiliki wilayah, wilayah memiliki semua yang hidup di bawahnya. Kini kalimat itu terasa seperti tangan lama yang hendak menutup pintu dari dalam.
+
+"Coret namaku," katanya.
+
+Ossian mengangkat pandang. "Dewan meminta identitas hukum. Tangan tanpa nama bisa ditolak notaris."
+
+"Mereka meminta tangan yang menyegel, bukan raja yang memerintah. Kalau gelarku diperlukan agar rumah itu diakui, berarti rumah itu masih berdiri di bawahku."
+
+Sela membalik kertas kerja dan menulis satu kalimat baru: *Penjaga yang dikenali oleh entitas bersangkutan sebagai tangan pembuat segel terdahulu.*
+
+"Identitasnya ditetapkan oleh the Patient House," katanya. "Bukan oleh silsilah Hegemony, bukan oleh Dewan, bukan oleh pengakuannya sendiri. Kalau dokumen ini benar-benar menganggap kedalaman pihak hukum, biarkan pihak itu mengenali siapa yang menyentuhnya."
+
+Hale membaca usulan tersebut dua kali. Tangan kanannya tetap diam. "Aku akan menandatangani sebagai wakil kota hanya kalau kalimat ini dipakai. Kalau mereka mengembalikan baris lama, ruang tanda tanganku kosong."
+
+Ossian mengembuskan udara lewat hidung. "Ancaman wali kota terhadap enam pejabat regional."
+
+"Bukan ancaman. Syarat saksi. Aku tidak mau menyaksikan kebohongan."
+
+Malam itu mereka membawa kedua versi ke nat barat. Kovan membacakan kalimat lama lebih dahulu. Tidak ada jawaban. Panas Karveth-Ulm turun sampai teh di meja kehilangan uapnya.
+
+Kemudian ia membacakan kalimat Sela.
+
+Nat menjawab empat denyut pendek, satu jeda, lalu dua denyut yang menyebar ke lantai aula. Barim dan Kovan menghitung terpisah. Terjemahan mereka sama:
+
+"Aku tidak meminta raja. Aku meminta penjaga. Tangan itu pernah menutupku karena takut. Tangan yang sama kembali karena mau mendengar. Aku mengenali keduanya."
+
+Ashvarok menunduk ke telapak kanannya. Garis-garisnya tidak sama dengan tangan yang dahulu memerintahkan penyegelan; tubuh Renn membawa luka kerja, kapalan tungku, dan vein-scar tipis di pergelangan. Namun kedalaman tidak mengenali kulit. Ia mengenali pilihan.
+
+"Kirim terjemahannya," kata Hale.
+
+"Sebagai lampiran keberatan?" tanya Ossian.
+
+"Sebagai jawaban pihak berdaulat. Biasakan Dewan menerima jawaban, bukan hanya keberatan."
+
+Kurir berangkat sebelum fajar. Balasan Spire tiba dua hari kemudian, hanya satu lembar dan tanpa uraian: usulan Caldrest diterima; baris tambahan juru hukum dicabut; pengenal tangan kedua belas mengikuti rumusan Arsip. Di bawahnya ada catatan enam pejabat Dewan: *Pihak yang diakui berhak mengenali saksinya sendiri.*
+
+Sela menempelkan catatan itu di papan kerja, bukan di lemari kemenangan. "Sekarang kita boleh mengadakan upacara," katanya. "Tadi kita hampir menandatangani sangkar baru karena bentuknya seperti piagam."
+
+"Dan kau menemukannya dari satu baris kecil," kata Barim.
+
+"Sangkar selalu dibuat dari baris kecil. Jerujinya baru kelihatan setelah pintunya ditutup."
 
 ---
 
@@ -61,13 +122,13 @@ Para tamu datang dari seluruh Karvess: delegasi lima negara penerus Hegemony (ya
 
 Enam pejabat Dewan menandatangani dengan pena. Tiga wakil Caldrest dan dua wakil utara menandatangani juga dengan pena — meski Sela sempat meminta kapur dulu dan membuat semua orang tertawa.
 
-Lalu tangan kesebelas.
+Lalu tangan kedua belas.
 
-Ashvarok membuka the Walking Key seperlunya — cukup untuk membuat sentuhannya meninggalkan jejak yang bisa dibaca nat mana pun selamanya — meletakkan telapak kanannya ke dokumen, dan menekan. Jejak telapak itu muncul di kertas sebagai cap hangat keemasan yang tidak akan pudar: bukan nama raja, bukan gelar Hegemony. Hanya bentuk tangan manusia yang bekerja.
+Ashvarok membuka the Walking Key seperlunya—cukup untuk membuat sentuhannya meninggalkan jejak yang bisa dibaca nat mana pun selamanya—meletakkan telapak kanannya ke dokumen, dan menekan. Jejak telapak itu muncul di kertas sebagai cap hangat keemasan yang tidak akan pudar: bukan nama raja, bukan gelar Hegemony. Hanya bentuk tangan manusia yang bekerja.
 
-Dan tangan kedua belas bukan tangan sama sekali.
+Sesudah dua belas tangan itu, kedalaman memberikan meterai tambahan.
 
-Sesuai protokol yang disepakati kedalaman lewat irama, blok Karveth-Ulm dibawa mendekat ke dokumen oleh empat murid akademi — dan api purba zaman purba, untuk pertama kali dalam sejarah hukum dunia, memberikan TANDA TANGANNYA: satu titik bakaran kecil, bundar, sempurna, tercetak di sudut dokumen seperti meterai. Hangat. Bulat. Sabar.
+Sesuai protokol yang disepakati lewat irama, blok Karveth-Ulm dibawa mendekat ke dokumen oleh empat murid akademi—dan api purba zaman purba, untuk pertama kali dalam sejarah hukum dunia, memberikan CAPNYA: satu titik bakaran kecil, bundar, sempurna, tercetak di sudut dokumen seperti meterai. Hangat. Bulat. Sabar.
 
 "Notaris Dewan memeriksanya," lapor Kovan, "dan menyatakan cap itu sah secara hukum. Dia juga bertanya bagaimana cara memverifikasi kalau ada pemalsuan."
 
@@ -105,7 +166,7 @@ Lalu kedalaman mengirim kalimat penutup malam — pendek, dalam bahasa penjaga, 
 
 Dan Sela menutup batch era ini dengan entri neraca yang dibacakannya keras-keras di aula esok paginya, sesuai tradisi:
 
-"Hari 541. The Patient House: entitas berdaulat resmi Karvess — yang pertama dan satu-satunya, ditandatangani dua belas tangan dan satu cap api. Neraca keseluruhan: dunia memberinya segel; Hegemony memberinya kunci; Choir memberinya ketakutan; Caldrest memberinya nama; dan Dewan Regional akhirnya memberinya apa yang paling lama ia tunggu — bukan nama, bukan hadiah, melainkan KERTAS RESMI yang menyatakan bahwa ia ada." Ia menutup papan. "Kadang pengakuan paling besar memang hanya selembar kertas. Namun bagi yang seribu tahun tidak pernah disebut ada — selembar kertas itu seluruh dunia."
+"Hari 541. The Patient House: entitas berdaulat resmi Karvess—yang pertama dan satu-satunya, ditandatangani dua belas tangan dan dimeteraikan satu cap api. Neraca keseluruhan: dunia memberinya segel; Hegemony memberinya kunci; Choir memberinya ketakutan; Caldrest memberinya nama; dan the Regional Council akhirnya memberinya apa yang paling lama ia tunggu—bukan nama, bukan hadiah, melainkan KERTAS RESMI yang menyatakan bahwa ia ada." Ia menutup papan. "Kadang pengakuan paling besar memang hanya selembar kertas. Namun bagi yang seribu tahun tidak pernah disebut ada—selembar kertas itu seluruh dunia."
 
 Kapur gadis itu diletakkan. Aula menunggu kalimat penutupnya yang biasa.
 

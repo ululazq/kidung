@@ -5,7 +5,7 @@ chapter: 96
 
 Troli pertama keluar dari galeri sembilan pada subuh hari keseratus dua puluh tujuh, dan troli itu tidak bersuara.
 
-Ondar yang menyadarinya paling awal, karena tangannya mengenal tekstur pekerjaannya lebih dalam daripada telinganya. Rem besi yang selama setahun menjerit minta pelumas di tikungan terakhir pagi itu hanya memberikan perlambatan. Roda berputar di rel. Rel menerima beban. Muatan kaca-batu bergeser pelan di dasar bak. Semua gerakannya benar, dan tidak ada satu bunyi pun keluar dari semuanya.
+Ondar yang menyadarinya paling awal, karena tangannya mengenal tekstur pekerjaannya lebih dalam daripada telinganya. Rem besi yang selama setahun menjerit minta pelumas di tikungan terakhir pagi itu hanya memberikan perlambatan. Roda berputar di rel. Rel menerima beban. Muatan cinder-glass bergeser pelan di dasar bak. Semua gerakannya benar, dan tidak ada satu bunyi pun keluar dari semuanya.
 
 Ia berhenti, menurunkan tuas, lalu melakukan hal yang sudah menjadi kebiasaan sejak malam ketika dua puluh orang blok timur bangun tanpa nama. "Ondar," katanya keras-keras kepada dirinya sendiri. "Ondar, anak lorong tujuh." Namanya menjawab dari mulutnya sendiri, dan ia bernapas lega. Setahun ini itulah satuan ukur paling andal yang ia kenal untuk memastikan dunia masih utuh.
 

@@ -5,9 +5,9 @@ chapter: 155
 
 Retakan itu menyapu lagi pada hari kedua ratus dua puluh sembilan, jam pertama pagi, dan kali ia menyapu dengan suara orang lain.
 
-Ashvarok berdiri di node kedua jalur katup samping, patroli buta malam ketiga pekan ini, ketika gelombang tekanan datang dan membawa sesuatu yang membuat bulu tangannya berdiri sebelum akalnya mengerti. Dalam sapuan itu ada bunyi. Bukan bisikan galeri bisu yang dulu, bukan dua suku kata ganti-nama. Bunyi yang lebih sederhana dan jauh lebih mengerikan: ketukan. Satu-dua-satu. Satu-dua-tiga. Irama kereta nama, pola absen-nama yang diajarkan anak-anak klinik, persis pola yang diketuk sembilan orang ke dinding lorong utama pada malam mereka tersegel — dari sisi dalam.
+Ashvarok berdiri di node kedua jalur katup samping, blind patrol malam ketiga pekan ini, ketika gelombang tekanan datang dan membawa sesuatu yang membuat bulu tangannya berdiri sebelum akalnya mengerti. Dalam sapuan itu ada bunyi. Bukan bisikan galeri bisu yang dulu, bukan dua suku kata replacement-name. Bunyi yang lebih sederhana dan jauh lebih mengerikan: ketukan. Satu-dua-satu. Satu-dua-tiga. Irama name train, pola name-roll yang diajarkan anak-anak klinik, persis pola yang diketuk sembilan orang ke dinding lorong utama pada malam mereka tersegel — dari sisi dalam.
 
-Sunyi ini tidak menciptakan. Ia hanya menelan dan mengeluarkan kembali apa yang pernah masuk ke dalamnya. Namun sampai malam ini semua yang pernah ia keluarkan adalah potongan lama: lagu Hegemony, kata bahasa pinjaman, rekaman seam. Malam ini ia mengeluarkan sesuatu yang didengarnya baru sepuluh hari lalu. Ia belajar hal baru. Dan kecepatan belajarnya diukur dalam hari.
+Sunyi ini tidak menciptakan. Ia hanya menelan dan mengeluarkan kembali apa yang pernah masuk ke dalamnya. Namun sampai malam ini semua yang pernah ia keluarkan adalah potongan lama: the Hegemony song, kata bahasa pinjaman, rekaman seam. Malam ini ia mengeluarkan sesuatu yang didengarnya baru sepuluh hari lalu. Ia belajar hal baru. Dan kecepatan belajarnya diukur dalam hari.
 
 Ashvarok berdiri sangat diam di kegelapan dan mendengarkan sapuan kedua memutar ulang ketukan itu, lebih pelan, seperti murid yang mengulang soal untuk memastikan hafalannya. Lalu sapuan ketiga tidak datang, dan sunyi kembali ke irama kosongnya, dan raja seribu tahun itu berdiri di lorong sempit dengan satu kesimpulan yang dingin dan bersih: pagar nama mereka bukan hanya sajian bagi retakan ini. Pagar itu juga kamusnya.
 
@@ -59,7 +59,7 @@ Di bawah sana, di level yang sengaja dikosongkan, retakan menyapu seluruh level 
 
 Sela diam sebentar, lalu menulis baris ketiga di papan dan membacakannya keras-keras supaya masuk catatan resmi dapur: "Kakak bermain dengan tiga api sekaligus dan menyebutnya hitungan."
 
-"Dua api," kata Ashvarok. "Pembaca Tua belum menyentuh meja mana pun di Caldrest. Untuk sekarang."
+"Dua api," kata Ashvarok. "the Old Reader belum menyentuh meja mana pun di Caldrest. Untuk sekarang."
 
 "Untuk sekarang," ulang Brannoc dari ujung meja, dan tiga kata itu tergantung di udara dapur seperti karat yang baru saja terlihat di balik cat segar.
 

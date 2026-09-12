@@ -74,7 +74,7 @@ Dalam dua pekan: sembilan belas pantun baru ditemukan, sembilan belas nama baru 
 
 "Delapan puluh enam," kata Ashvarok saat rapat evaluasi. "Wilayah terjauh ternyata wilayah dengan temuan paling banyak." Ia memandang nenek buta itu yang duduk di pojok aula sebagai tamu kehormatan, didampingi Ilo. "Nenek, boleh saya tanya satu hal? Kenapa pantunnya tidak pernah ditulis?"
 
-Jawaban nenek itu oleh Sela dicatat sebagai kutipan pekan — dan kemudian digantung di Sekolah Mendengar di samping kalimat-kalimat lulusan:
+Jawaban nenek itu oleh Sela dicatat sebagai kutipan pekan — dan kemudian digantung di the Listening School di samping kalimat-kalimat lulusan:
 
 "Yang ditulis bisa hilang dibakar, Nak. Yang dihafal hidup di mulut orang. Selama masih ada cucu yang malu-malu minta diajar pantun... suaminya Widur tidak akan pernah benar-benar tak bernama lagi."
 

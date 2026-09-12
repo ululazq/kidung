@@ -3,9 +3,9 @@ title: "Bab 301: Surat yang Tidak Menyebut Nama"
 chapter: 301
 ---
 
-Subuh hari ketiga belas sejak buku anomali dibuka. Barak utara belum bergerak. Di sudut ruangan, nat tua tidak mencatat apa pun; ia hanya ada, seperti dinding.
+Subuh hari ketiga belas sejak the Anomaly Book dibuka. Barak utara belum bergerak. Di sudut ruangan, nat tua tidak mencatat apa pun; ia hanya ada, seperti dinding.
 
-Ashvarok-Renn duduk di kursi sudut. Di pangkuannya, selembar kain kosong. Ia tidak menulis untuk buku anomali kali ini. Ia menulis untuk utara.
+Ashvarok-Renn duduk di kursi sudut. Di pangkuannya, selembar kain kosong. Ia tidak menulis untuk the Anomaly Book kali ini. Ia menulis untuk utara.
 
 Surat yang hendak dikirim tidak boleh menyebut irama. Tidak boleh menyebut retakan. Tidak boleh menyebut pengikat. Jika Spire membaca kata-kata itu, mereka akan membaca retakan yang hampir terbuka, dan mereka akan datang dengan pasukan, bukan dengan mata.
 
@@ -45,9 +45,9 @@ Kovan duduk di bangku, buku hitung terbuka. Sembilan desa telah mengirim angka. 
 
 "Justru karena ia di sana, matanya dekat dengan ujung benang. Kita hanya perlu tahu apakah benang itu makin tipis di ujung itu."
 
-Kovan menulis di buku anomali halaman lima. *Rencana observasi utara: surat tenun ke Ossian via Maera. Tanya: dentum nat menara makin keras? Jawaban = ukuran tarikan di ujung Spire. Rahasia dari Dewan.*
+Kovan menulis di the Anomaly Book halaman lima. *Rencana observasi utara: surat tenun ke Ossian via Maera. Tanya: dentum nat menara makin keras? Jawaban = ukuran tarikan di ujung Spire. Rahasia dari Dewan.*
 
-Di sudut ruangan, Yang Dulu Sunyi tidak mencatat apa pun. Hening. Lalu satu baris menggema rendah, bukan dari dunia melainkan dari kedalaman yang sama dengan seam: TIGA DETIK. Lalu senyap.
+Di sudut ruangan, the Once-Silent tidak mencatat apa pun. Hening. Lalu satu baris menggema rendah, bukan dari dunia melainkan dari kedalaman yang sama dengan seam: TIGA DETIK. Lalu senyap.
 
 Bukan panggilan. Bukan ancaman. Hanya kehadiran yang tidak mengenal musim.
 
@@ -75,7 +75,7 @@ Kovan membaca. "Sampai ke ikan," katanya datar.
 
 Mereka diam. Di luar, angin bertukar arah; bau rumput kering dari lembah utara tidak lagi sampai ke ambang. Di kejauhan, seorang penyapa di kampung tiga jalur menutup pintu dengan tiga ketukan — kebiasaan yang muncul sendiri, tidak diajarkan. Dunia menjaga dirinya. Dan di bawah kaki, dua nadi berdetak, satu menunggu, satu lari.
 
-Ashvarok-Renn berdiri. Ia berjalan ke rak, mengambil buku anomali, membuka ke halaman pertama. Di sana tersimpan baris pembuka delapan belas tahun silam: *Tiga detik. Ia muncul tanpa musim, tidak punya rumah di dalam hitungan dunia.*
+Ashvarok-Renn berdiri. Ia berjalan ke rak, mengambil the Anomaly Book, membuka ke halaman pertama. Di sana tersimpan baris pembuka delapan belas tahun silam: *Tiga detik. Ia muncul tanpa musim, tidak punya rumah di dalam hitungan dunia.*
 
 Ia menatap kata *rumah.* Dunia ini dihitung dengan musim. Hujan, panen, masa sepi, masa ramai. Tiap bilangan punya tempat. Irama ini tidak. Ia datang sendiri, berhenti, lalu datang lagi — seolah ada yang menghitung tanpa memperhitungkan musim orang-orang.
 
@@ -91,9 +91,9 @@ Kovan menutup catatannya. "Surat ke Ossian baru dikirim. Jawaban paling cepat lu
 
 "Kita tunggu."
 
-Malam. Barak kembali ke rutinnya. Tami-Tomi menutup dapur. Harn pulang ke tepi lembah. Murid-murid Sekolah Mendengar kembali ke asrama. Di sudut ruangan, Yang Dulu Sunyi mencatat detak pelan, dan baris yang tertulis hanya satu: TIGA DETIK. Lalu senyap.
+Malam. Barak kembali ke rutinnya. Tami-Tomi menutup dapur. Harn pulang ke tepi lembah. Murid-murid the Listening School kembali ke asrama. Di sudut ruangan, the Once-Silent mencatat detak pelan, dan baris yang tertulis hanya satu: TIGA DETIK. Lalu senyap.
 
-Ashvarok-Renn duduk di kursi sudut, buku anomali di pangkuan. Ia tidak membaca. Ia hanya duduk, dan di bawah telapak tangannya lantai barak berdenyut tiga hentakan lalu jeda, sama dengan denyut purba yang kini milik seluruh Karvess.
+Ashvarok-Renn duduk di kursi sudut, the Anomaly Book di pangkuan. Ia tidak membaca. Ia hanya duduk, dan di bawah telapak tangannya lantai barak berdenyut tiga hentakan lalu jeda, sama dengan denyut purba yang kini milik seluruh Karvess.
 
 Ia tidak lagi merasa itu miliknya. Itu kemajuan. Raja yang membakar namanya seharusnya tidak memiliki apa pun, termasuk denyut dunia.
 
@@ -125,7 +125,7 @@ Itu pemikiran yang Ashvarok-Renn sudah curigai sejak membaca peta selisih. Tanga
 
 Kovan menutup jilid catatannya. Malam penuh. Di sudut ruangan, nat tua tidak mencatat; ia hanya ada.
 
-Ashvarok-Renn berdiri dari kursi sudut. Ia berjalan ke rak, meletakkan buku anomali ke samping buku-buku delapan belas tahun. Di punggung buku itu, tulisan tangan Kovan: *Buku Anomali.* Tiga kata, tidak lebih. Mereka sepakat tidak memberi judul yang lebih panjang. Judul panjang adalah hasrat memberi nama, dan yang mereka catat belum layak diberi nama.
+Ashvarok-Renn berdiri dari kursi sudut. Ia berjalan ke rak, meletakkan the Anomaly Book ke samping buku-buku delapan belas tahun. Di punggung buku itu, tulisan tangan Kovan: *the Anomaly Book.* Tiga kata, tidak lebih. Mereka sepakat tidak memberi judul yang lebih panjang. Judul panjang adalah hasrat memberi nama, dan yang mereka catat belum layak diberi nama.
 
 Ia kembali duduk. Ia tidak turun. Ia hanya mencatat, dan pencatatan itu, pada akhirnya, adalah bentuk penjagaan yang lain — orang yang menerima dunia tanpa mengklaim setiap bunyinya sebagai miliknya.
 
@@ -137,4 +137,4 @@ Ashvarok-Renn memejam. Dalam gelap tipis di balik kelopak mata, benang panjang m
 
 Retakan di bawah lantai berdenyut pelan, tertutup Forge tipis. Ia menunggu satu hal yang Ashvarok-Renn juga tunggu: siapa yang menghitung lebih dulu.
 
-Dan di sudut ruangan, Yang Dulu Sunyi mencatat detak terakhir sebelum malam sunyi benar: TIGA DETIK. Lalu senyap yang tidak berumur.
+Dan di sudut ruangan, the Once-Silent mencatat detak terakhir sebelum malam sunyi benar: TIGA DETIK. Lalu senyap yang tidak berumur.

@@ -43,13 +43,13 @@ Ia sedang membaca Maera.
 
 ---
 
-Sesi barang dimulai petang harinya: lot-lot konsinyasi pasar yang dinilai triwulanan untuk keperluan lisensi penengah. Barang-barang biasa — pecahan kaca-batu kelas rendah, perkakas tua, perhiasan aus — dan di antara baris-baris biasa itu, enam item yang membuat jari-jari Maera berhenti di atas kotak timbung mininya.
+Sesi barang dimulai petang harinya: lot-lot konsinyasi pasar yang dinilai triwulanan untuk keperluan lisensi penengah. Barang-barang biasa — pecahan cinder-glass kelas rendah, perkakas tua, perhiasan aus — dan di antara baris-baris biasa itu, enam item yang membuat jari-jari Maera berhenti di atas mini weighing box miliknya.
 
 Enam tempaan cinder-glass. Mata pisau, dua ujung pahat, tiga keping. Semua berlabel asal-usul yang sama: barang bekas, warisan, pernyataan pemilik.
 
 Ia mengenal tanda tangan lot ini tanpa membuka arsip lisensinya. Jumlah yang kecil dan tetap. Jenis yang sama pekan demi pekan. Tanpa cerita. Cuaca, kata seseorang dalam kepala itu, memakai suara yang bukan suaranya.
 
-Ia mengangkat mata pisau itu ke arah lampu dan membiarkan ilmunya berkata apa yang selalu dikatakannya. Urat kaca mengalir tanpa putus. Usia material nyata — puluhan tahun, mungkin lebih, usia yang tidak bisa dipalsukan pada kaca-batu. Tetapi bentuknya baru. Bentuk dan usia tidak pernah cocok pada benda alami, hanya pada benda yang lahir dua kali.
+Ia mengangkat mata pisau itu ke arah lampu dan membiarkan ilmunya berkata apa yang selalu dikatakannya. Urat kaca mengalir tanpa putus. Usia material nyata — puluhan tahun, mungkin lebih, usia yang tidak bisa dipalsukan pada cinder-glass. Tetapi bentuknya baru. Bentuk dan usia tidak pernah cocok pada benda alami, hanya pada benda yang lahir dua kali.
 
 Dia bertanya kepada dirinya sendiri, untuk kedua kali hari itu: berapa harga kebenaran di ruangan ini?
 
@@ -61,7 +61,9 @@ Semua kata di dalamnya benar. Semua kata di dalamnya sudah pernah tertulis sekal
 
 Juru catat Spire menyalin catatannya kata demi kata tanpa satu pun pertanyaan. Orang-orang yang dibayar ribuan tidak memeriksa baris dua puluh shardmark. Itulah kelemahan semua pembukuan yang besar, dan malam ini kelemahan itu bekerja untuk seseorang yang bahkan tidak hadir di ruangan ini.
 
-"Assayer Tull." Suara dari sudut ruangan. Ossian Vael bergerak untuk pertama kalinya sejak sore. "Struktur tanpa palu. Menarik, di sebuah kota tambang yang tidak punya satu pun penempa kaca-batu terdaftar."
+Maera membubuhkan paraf pembanding pada keenam baris itu. Sekarang kebenaran kecil tersebut tidak bisa dihapus tanpa meninggalkan bekas pada salinan Guild dan salinan lisensi pasar.
+
+"Assayer Tull." Suara dari sudut ruangan. Ossian Vael bergerak untuk pertama kalinya sejak sore. "Struktur tanpa palu. Menarik, di sebuah kota tambang yang tidak punya satu pun penempa cinder-glass terdaftar."
 
 "Menarik dan tercatat, Tuan Vael." Ia tidak mendongak dari formulirnya. "Arsip menunjukkan temuan serupa triwulan lalu, dinilai penuh, dilaporkan penuh, dan ditutup penuh. Pola yang sudah memiliki berkas tidak membutuhkan penyelidikan baru. Ia membutuhkan pembanding, dan itulah pekerjaan saya."
 
@@ -69,13 +71,13 @@ Juru catat Spire menyalin catatannya kata demi kata tanpa satu pun pertanyaan. O
 
 "Pembanding yang baik bertanya berapa banyak." Kini ia mendongak, dan membiarkan matanya melakukan hal yang paling jujur yang bisa dilakukan mata seorang assayer: menghitung. "Enam item kelas dua, total nilai kurang dari dua puluh shardmark. Komisi survei Anda bernilai ribuan. Tuan Vael, dalam pembukuan mana pun yang pernah saya pelajari, ancaman terbesar tidak pernah bersembunyi di baris yang paling kecil."
 
-Hening sebentar — hening yang ia isi dengan memindahkan kotak timbung mininya satu inci ke kiri, tepat sejajar tepi meja, gerakan kecil orang yang tidak sedang bersembunyi dari apa pun.
+Hening sebentar — hening yang ia isi dengan memindahkan mini weighing box miliknya satu inci ke kiri, tepat sejajar tepi meja, gerakan kecil orang yang tidak sedang bersembunyi dari apa pun.
 
 Ossian tersenyum. Senyum yang tidak sampai ke matanya, atau justru sampai penuh — sulit memastikannya, dan itulah masalah orang-orang seperti dia. "Pembukuan yang rapi," katanya. "Spire senang bekerja dengan pembukuan yang rapi."
 
 ---
 
-Setelah tim Spire pamit, ia meninggalkan ruangan terakhir dan Ossian jatuh berjalan berdampingan dengannya sejauh satu blok — jarak yang dihitungnya pasti sudah dihitung orang itu juga.
+Setelah tim Spire pamit, ia meninggalkan ruangan terakhir dan Ossian berjalan berdampingan dengannya sejauh satu blok — jarak yang dihitungnya pasti sudah dihitung orang itu juga.
 
 "Hasil turun perdana memuaskan," kata Ossian, seolah melanjutkan percakapan yang tidak pernah dimulai. "Tujuh titik atas, semuanya bersih. Kota ini akhirnya mulai berbicara bahasa yang bisa saya catat."
 
@@ -83,10 +85,10 @@ Setelah tim Spire pamit, ia meninggalkan ruangan terakhir dan Ossian jatuh berja
 
 "Tentu saja tidak." Orang itu melihat lurus ke jalan di hadapan mereka. "Atas selalu bersih, Assayer Tull. Atas adalah bagian bangunan yang diperlihatkan kepada tamu. Yang saya beli dari komisi ini bukan tujuh titik yang bersih — saya beli izin untuk membaca sisanya, pelan-pelan, sesuai prosedur, tanpa seorang pun di kota ini merasa perlu bertanya kenapa." Ia berbalik kepadanya tepat di tikungan jalan, dan untuk sepersekian detik wajahnya adalah wajah seseorang yang lelah oleh kesabaran sendiri. "Anda tidak bertanya kenapa. Itu membuat Anda berguna. Teruslah berguna."
 
-Ia pergi ke arah distrik atas, dan Maera berdiri sebentar di tikungan dengan kotak timbung mininya di tangan, menghitung ulang percakapan itu seperti menghitung timbangan yang seimbang.
+Ia pergi ke arah distrik atas, dan Maera berdiri sebentar di tikungan dengan mini weighing box miliknya di tangan, menghitung ulang percakapan itu seperti menghitung timbangan yang seimbang.
 
 Lolos. Malam ini ia lolos — buktinya tidak ada pertanyaan lanjutan, tidak ada surat, tidak ada kunjungan kedua. Tetapi lolos dengan tagihan: kata berguna, diucapkan dua kali, adalah cara orang seperti Ossian Vael menyimpan barang di gudang orang lain tanpa membayar ongkos. Ia telah membeli keselamatannya sendiri malam ini dengan mata uang yang benar — kebenaran yang kecil, angka yang jujur, arsip yang konsisten — dan ia tahu bahwa setiap transaksi jenis ini menulis namanya lebih dalam lagi di dalam komisi yang bukan miliknya.
 
-Di penginapan, ia membuka kotak timbung mini, memastikan salinan jawaban lamanya masih di dasar kotak, di bawah beban timbungan, dan menutupnya kembali.
+Di penginapan, ia membuka mini weighing box, memastikan salinan jawaban lamanya masih di dasar kotak, di bawah beban timbungan, dan menutupnya kembali.
 
-Satu hal tidak ia hitung tuntas malam itu, dan karena itu ia membawanya ke tidur. Enam item kelas dua itu akan laku, penjualnya akan menerima potongan delapan persen yang layak, dan di suatu tempat di kota ini seseorang yang tidak pernah meminta disebut namanya akan membaca catatan "bekerja tanpa palu" di salinan lisensi dan mengerti — persis sebesar yang dimaksudkan — bahwa penilai muda itu masih menutup pintu, bukan membukanya.
+Satu hal tidak ia hitung tuntas malam itu, dan karena itu ia membawanya ke tidur. Enam item kelas dua itu akan laku, penjualnya akan menerima potongan delapan persen yang layak, dan di suatu tempat di kota ini seseorang yang tidak pernah meminta disebut namanya akan membaca catatan "bekerja tanpa palu" di salinan lisensi dan mengerti — persis sebesar yang dimaksudkan — bahwa Assayer muda itu masih menutup pintu, bukan membukanya.

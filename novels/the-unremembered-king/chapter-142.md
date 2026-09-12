@@ -3,7 +3,7 @@ title: "Bab 142: Pintu yang Empat Pulang"
 chapter: 142
 ---
 
-Persiapan penamaan itu dimulai di dapur barak blok timur pada malam hari keseratus sembilan, dan kali ini Ashvarok tidak menyusun satu kalimat pun dari ingatannya sendiri.
+Persiapan penamaan itu dimulai di dapur barak blok timur pada malam hari kedua ratus sembilan, dan kali ini Ashvarok tidak menyusun satu kalimat pun dari ingatannya sendiri.
 
 "Duduk yang nyaman," kata Sela kepada para pemilik cerita, dengan nada guru sekolah kliniknya yang sudah dikenal seluruh blok. "Aturannya sama seperti waktu batu troli timur. Aku tanya, kalian jawab pakai kalimatmu sendiri. Kalimat yang tidak kalian setujui tidak masuk."
 
@@ -57,7 +57,7 @@ Pintu lama itu berdiri di ujung lorong B sisi dalam, tertutup rapat sejak zaman 
 
 Batu itu membaca tua, dingin, dan sunyi, dengan satu halusiran kecil di tepi bawah yang terbaca seperti telinga.
 
-Dalam kepala yang menyimpan arsip lengkap seni yang telah mati bersama negerinya, Ashvarok membandingkan malam ini dengan segala malam serupa yang pernah ia jalani dalam tubuh yang lain. Dulu penamaan adalah upacara negara. Dulu sebuah pintu gerbang dinamai oleh sepuluh juru bahasa dan disahkan dengan darah yang setuju tanpa ditanya, dan pintu-pintu itu menerima namanya seperti pekerja menerima seragam, rapi, patuh, dan tanpa suka. Malam ini tidak ada upacara. Yang ada hanya empat orang tua di dapur barak, satu papan tulis kecil, secangkir teh yang ia seduh sendiri, dan sebuah nama yang jatuh karena empat mulut kebetulan sama-sama tahu rasanya pulang. Ia tidak bisa memutuskan mana dari dua cara itu yang lebih layak dipercaya sebuah pintu, dan kegagalan formula Hegemony bulan lalu sudah menjawabnya untuknya.
+Dalam kepala yang menyimpan arsip lengkap seni yang telah mati bersama negerinya, Ashvarok membandingkan malam ini dengan segala malam serupa yang pernah ia jalani dalam tubuh yang lain. Dulu penamaan adalah upacara negara. Dulu sebuah pintu gerbang dinamai oleh sepuluh juru bahasa dan disahkan dengan darah yang setuju tanpa ditanya, dan pintu-pintu itu menerima namanya seperti pekerja menerima seragam, rapi, patuh, dan tanpa suka. Malam ini tidak ada upacara. Yang ada hanya empat orang tua di dapur barak, satu papan tulis kecil, secangkir teh yang ia seduh sendiri, dan sebuah nama yang jatuh karena empat mulut kebetulan sama-sama tahu rasanya pulang. Ia tidak bisa memutuskan mana dari dua cara itu yang lebih layak dipercaya sebuah pintu.
 
 Ia membuka untaian keempat.
 
@@ -75,7 +75,7 @@ Dia berdiri sebentar di depannya, menghitung artinya satu per satu dengan disipl
 
 ---
 
-Subuh hari keseratus sepuluh ia cek ulang lewat vein-scar dari ambang atas, dan getaran pintu itu tegak, hangat, milik batu sendiri.
+Subuh hari kedua ratus sepuluh ia cek ulang lewat vein-scar dari ambang atas, dan getaran pintu itu tegak, hangat, milik batu sendiri.
 
 Di dapur barak, saat ibu Tamma membagi roti pagi, Ondar bertanya sopan kepada ruangan apakah ada yang tahu kenapa lorong B semalam terasa beda, dan perempuan dapur menjawab bahwa pintu tua memang begitu, kalau sudah diberi nama dia jadi ramah. Cerita itu langsung hidup, berpindah antarmeja dalam hitungan satu sarapan, dan Ashvarok mendengarkannya sambil makan tanpa mengomentari satu kata pun.
 

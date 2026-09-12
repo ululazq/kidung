@@ -3,7 +3,7 @@ title: "Bab 145: Orang-orang yang Dibayar untuk Tinggal"
 chapter: 145
 ---
 
-Dua kabar itu datang berjarak setengah hari satu dari yang lain pada hari keseratus empat belas, dan keduanya cocok satu sama lain seperti dua keping tulang seam yang dipotong dari batang yang sama.
+Dua kabar itu datang berjarak setengah hari satu dari yang lain pada hari kedua ratus empat belas, dan keduanya cocok satu sama lain seperti dua keping seam-bone yang dipotong dari batang yang sama.
 
 Kabar pertama datang lewat lot Vosk di pasar cinder-glass, lot kosong dengan catatan panjang, bahasa kode tertua mereka. Isinya tiga kalimat dan satu daftar. Seorang penengah besar dari luar kota menanyakan harga sewa penginapan distrik tengah untuk enam sampai delapan orang selama dua pekan, membayar muka tanpa menawar, meminta ruangan terpisah dari tamu lain, dan bertanya apakah Caldrest punya tukang giling mata pisau yang bisa mengerjakan baja karbida. Penengah lokal menjawab semua pertanyaan itu dengan senang hati, sebab uangnya benar, dan Vosk menambahkan satu baris untuk pembaca lot ini saja, bahwa orang luar itu membayar dengan shardmark cetakan bandar pantai barat, dan bahwa dia pernah melihat jenis pembeli seperti ini sekali dalam hidupnya, tahun-tahun ketika sebuah tambang di utara ditutup dengan cara yang tidak wajar.
 
@@ -35,7 +35,7 @@ Brannoc mengunyah akar pahitnya habis-habisan.
 
 "Pilihan kita tiga," kata mandor itu. "Menunggu di sempitan dan tangkap seperti dulu. Rusuhkan alat mereka sampai bekerja mereka gagal. Atau pakai protokol."
 
-"Pasal protokol kita mengatur gema asing, bukan manusia berbayaran," kata Ashvarok. "Tetapi pasal ketiganya mengatur urutan prioritas kalau ada korban, dan delapan profesional dengan bor gigi halus di dekat pasak-pasak tua itu risiko korban yang nyata, baik untuk regu mana pun yang kebetulan lewat. Aku belum memutuskan soal Vael. Yang kuputuskan malam ini adalah ini. Jadwal patroli digeser, dua malam buta jadi tiga. Sempitan kanal dicek tiap malam oleh dua orang, bukan satu. Dan tidak ada satu orang pun dari kita yang mendekati nat timur itu sendirian sampai urusan ini selesai."
+"Pasal protokol kita mengatur gema asing, bukan manusia berbayaran," kata Ashvarok. "Tetapi pasal ketiganya mengatur urutan prioritas kalau ada korban, dan delapan profesional dengan bor gigi halus di dekat pasak-pasak tua itu risiko korban yang nyata, baik untuk regu mana pun yang kebetulan lewat. Aku belum memutuskan soal Vael. Yang kuputuskan malam ini adalah ini. Jadwal patroli digeser, dua blind night jadi tiga. Sempitan kanal dicek tiap malam oleh dua orang, bukan satu. Dan tidak ada satu orang pun dari kita yang mendekati nat timur itu sendirian sampai urusan ini selesai."
 
 Sela menulis semuanya di kolom baru papan tulisnya dengan kepala tegak, lalu membacakan ulang daftar itu untuk disetujui dua suara di ruangan, dan setelah disetujui, gadis itu menambahkan satu baris usulannya sendiri.
 

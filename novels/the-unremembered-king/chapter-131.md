@@ -65,9 +65,9 @@ Empat puluh nama. Tidak satu pun jatuh malam itu.
 
 Sebelum siang keesokan harinya, dia membawa rencana yang sama ke gudang perkakas, dan meletakkannya di meja di hadapan Renn tanpa basa-basi, karena mitranya tidak butuh basa-basi dan tidak pernah minta.
 
-Renn membacanya lama, lebih lama dari yang dibutuhkan orang biasa untuk gambar arang secukup ini. "Tiga malam buta per pekan masih muat di susunan ini?" tanyanya akhirnya.
+Renn membacanya lama, lebih lama dari yang dibutuhkan orang biasa untuk gambar arang secukup ini. "Tiga blind night per pekan masih muat di susunan ini?" tanyanya akhirnya.
 
-"Muat. Malam-malam buta kuselipkan di antara tanggal rotasi, dan tanggal rotasi membuat pola undian jadi ramai. Ramai itu baik. Pola yang ramai sulit diingat orang, apalagi dihitung orang." Brannoc menyender ke balik pintu, lengan terlipat. "Ada satu lagi. Kalau manajemen menolak skema ini, aku mau ajukan versi kedua yang lebih jelek, yaitu regu bisu digabung penuh ke segmen aman dengan upah setengah. Aku ajukan yang bagus dulu supaya yang jelek terlihat seperti pengampunan."
+"Muat. Malam-blind night kuselipkan di antara tanggal rotasi, dan tanggal rotasi membuat pola undian jadi ramai. Ramai itu baik. Pola yang ramai sulit diingat orang, apalagi dihitung orang." Brannoc menyender ke balik pintu, lengan terlipat. "Ada satu lagi. Kalau manajemen menolak skema ini, aku mau ajukan versi kedua yang lebih jelek, yaitu regu bisu digabung penuh ke segmen aman dengan upah setengah. Aku ajukan yang bagus dulu supaya yang jelek terlihat seperti pengampunan."
 
 Renn menatapnya sedetik lebih lama dari biasanya, dan sudut mulutnya bergerak seperti orang yang menahan sesuatu yang bukan tawa. "Kau baru saja belajar berpura-pura kalah."
 

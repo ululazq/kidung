@@ -9,7 +9,7 @@ Laporan itu tidak panjang. Barang: terkonfirmasi asli. Pintu: dibuka sekali, dit
 
 Di baris terakhir, dengan tinta yang sama, penilai itu telah menambahkan satu kalimat untuk akun yang membayarnya — kalimat yang tidak diminta dan tidak akan dibayar: *Aku mendengar barang-barang dalam daftarmu untuk pertama kalinya. Mereka lebih tua darimu, dan mereka tidak sedang menunggu dijual.*
 
-Surat panggilan yang dikirim ke selatan tiga hari kemudian dibawa oleh kurir yang menunggu jawaban — dan itu sendiri sudah merupakan pesan, karena biro yang takut tidak menunggu. Surat itu ditujukan bukan kepada barak, bukan kepada panel daerah, melainkan kepada MIRA, juru catat sidang, di Anthema Spire, dengan salinan kepada OSARIAN VELL, Koordinasi Artefak Regional, dan satu baris yang membuat Mira membacanya keras-keras dua kali di ruang sidang yang kosong: *Panel memanggil kedua pihak yang mengklaim. Barang yang diperselisihkan: satu pintu, dengan isinya. Tempat sidang: akan ditentukan oleh panel setelah mendengar kedua pihak. Tanda tangan: satu, tangan yang sama.*
+Surat panggilan yang dikirim ke selatan tiga hari kemudian dibawa oleh kurir yang menunggu jawaban — dan itu sendiri sudah merupakan pesan, karena biro yang takut tidak menunggu. Surat itu ditujukan bukan kepada barak, bukan kepada panel daerah, melainkan kepada MIRA, juru catat sidang, di Anthema Spire, dengan salinan kepada OSARIAN VELL, Regional Artifact Coordination, dan satu baris yang membuat Mira membacanya keras-keras dua kali di ruang sidang yang kosong: *Panel memanggil kedua pihak yang mengklaim. Barang yang diperselisihkan: satu pintu, dengan isinya. Tempat sidang: akan ditentukan oleh panel setelah mendengar kedua pihak. Tanda tangan: satu, tangan yang sama.*
 
 "Sidang tentang pintu," kata Mira kepada ruangan kosong itu, karena ada kebiasaan yang hanya bisa dilakukan dengan suara. "Tiga puluh tahun aku mencatat sidang tentang pasak, tarif, dan karantina. Sekarang panel yang tak bernama memanggil dunia untuk memutuskan siapa pemilik sebuah pintu."
 
@@ -37,6 +37,60 @@ Delegasi disusun malam itu seperti regu disusun untuk kerja dalam: Brannoc memim
 
 Kovan mengangguk sekali, dan itu adalah salah satu penghormatan tertinggi yang bisa diberikan penghitung: dipercaya dengan angka di saat semua orang pergi.
 
+Persoalan berikutnya muncul ketika Brannoc mulai membagi isi meja ke dalam kotak. Ia meletakkan buku irama Sela di antara buku hadir dan salinan laporan bulanan, lalu menulis *bukti utama* pada tutupnya.
+
+Sela menarik buku itu kembali.
+
+"Yang masuk berkas salinannya. Buku ini tetap di tanganku."
+
+"Panel akan meminta asli."
+
+"Panel boleh melihat asli. Melihat bukan menyimpan." Sela membuka halaman pertama. Di tepi kertas, serat kain yang menempel pada tinta membentuk garis halus, bekas malam ketika ia menulis terlalu dekat dengan tenunan yang bergetar. "Kalau buku ini masuk gudang bukti mereka, kita kembali melakukan hal yang sama: menyerahkan suara kepada lemari dan berharap lemari punya hati nurani."
+
+Brannoc menahan jawabannya. Di barak, ia biasa menang dengan angka yang bisa disalin dan diperiksa. Delapan puluh satu halaman tulisan tangan tidak punya pengganti sebaik itu.
+
+"Kalau kau memegangnya saat bersaksi," katanya, "mereka bisa bilang bukti tidak pernah lepas dari pihak yang berkepentingan."
+
+"Aku memang berkepentingan. Aku mendengarnya setiap malam. Menyamar sebagai orang netral tidak membuat catatanku lebih benar."
+
+Ashvarok-Renn menggeser lampu mendekat. "Keduanya benar. Jadi jangan beri panel pilihan antara percaya pada Sela dan percaya pada kertas. Buat mereka memeriksa keduanya."
+
+Malam itu mereka menyalin buku irama halaman demi halaman. Ondar membacakan tanda gelombang; Kovan mencocokkan jeda; Brannoc memberi nomor pada setiap lembar; Sela tidak membiarkan satu garis pun lewat sebelum bentuknya sama. Bau tinta memenuhi dapur dan membuat sup terakhir terasa getir. Ketika dua salinan selesai, ibu Tamma menjahit salah satunya dengan benang dapur merah, lalu menekan simpulnya ke lilin penutup.
+
+"Sekarang kalau mereka membukanya sebelum sidang, kita tahu," katanya.
+
+"Dan kalau mereka tidak mengembalikannya?" tanya Kovan.
+
+Ibu Tamma menyodorkan jarum kepadanya. "Mereka boleh menyimpan salinan. Yang asli pulang bersama Sela. Orang waras tidak menyerahkan satu-satunya ingatan kepada pihak yang sedang menggugatnya."
+
+Di ujung meja, Resgar tidak ikut menyalin. Ia mengeluarkan keping logam polos dari kotaknya, mengukur diameter piringan kunci dengan seutas kawat, lalu bekerja di tungku kecil sampai larut. Palunya tidak mengikuti irama benang. Setiap pukulan sengaja dibuat terlalu rata, terlalu bersih. Ketika keping itu dingin, bentuknya menyerupai piringan asli bagi mata yang belum pernah memegang keduanya, tetapi permukaannya tidak menyimpan tarikan kikir serong atau sudut lubang ketiga yang digosok dua kali.
+
+Penilai seni, yang masih menunggu keberangkatan gerobaknya, datang saat bunyi palu berhenti. Ia menimbang tiruan di tangan kiri dan piringan asli di tangan kanan.
+
+"Beratnya hanya berbeda sedikit," katanya.
+
+"Mata dan timbanganmu akan menerima yang ini," jawab Resgar, menunjuk tiruan. "Tanganmu tidak, kalau kau berhenti membaca angka."
+
+"Kau membuat barang palsu untuk sidang kepemilikan?"
+
+"Aku membuat pertanyaan." Resgar membalik keping itu. Sisi belakangnya kosong. "Kalau panel tidak bisa membedakan benda yang dibuat untuk membuka sesuatu dari benda yang dibuat untuk menyerupainya, panel belum berhak bicara tentang asal."
+
+Penilai itu mengembalikan kedua keping tanpa membantah. Sebelum pergi, ia meminta Resgar membungkus tiruan terpisah dan menandai waktu pembuatannya. Permintaan itu mengubah nada di meja. Penilai yang datang untuk akun kini membantu mereka menjaga rantai bukti.
+
+Brannoc mencatat jamnya. "Kau akan mengakui di depan panel bahwa kau menyuruh kami membawa ini?"
+
+"Aku akan mengakui bahwa pembanding diperlukan," kata penilai itu. "Jangan memintaku menjadi pihak kalian. Aku sudah cukup sulit menjadi saksi bagi pekerjaanku sendiri."
+
+"Saksi cukup," kata Ashvarok-Renn. "Pihak biasanya datang membawa keputusan. Saksi membawa sesuatu yang masih bisa mengubahnya."
+
+Menjelang tengah malam, tiga kotak sudah tersegel. Kotak pertama berisi dokumen yang boleh tinggal di Spire. Kotak kedua berisi asli yang hanya boleh dibuka di hadapan panel. Kotak ketiga memuat alat Resgar, piringan tiruan, dan kain pembungkus yang simpulnya diketahui Sela. Brannoc menuliskan isi tiap kotak pada dua daftar, lalu menyerahkan satu kepada Kovan.
+
+"Kalau kami pulang dengan daftar yang berbeda?" tanya Kovan.
+
+"Kau kirim milikmu ke Mira," jawab Brannoc. "Bukan ke panel. Bukan ke akun."
+
+Kovan melipatnya ke dalam sampul tahan lembap. Keputusan itu kecil, tetapi sejak saat itu barak tidak lagi berangkat hanya dengan bukti. Mereka berangkat dengan cara membuktikan apa yang mungkin hilang.
+
 Mereka berangkat pada fajar ketiga — lima orang, satu gerobak pinjaman, kotak-kotak berisi kertas yang lebih banyak daripada yang pernah dibawa barak ini ke mana pun: buku hadir dua puluh tahun, catatan rotasi, salinan laporan bulanan bertangan Mira, margin peta penggambar dalam salinan bersumpah, dan di kotak paling dalam, dilapisi kain ganda, buku irama Sela dengan halaman-halamannya yang terisi gelombang demi gelombang.
 
 Perjalanan itu ditempuh dengan disiplin yang sudah menjadi tubuh mereka: malam dikendarai, siang diistirahatkan, dan setiap perhentian Kovan yang tinggal dilapori lewat kurir pos biasa dengan satu baris angka — benang hari ini, panjang jeda, arah. Baris-baris itu datang teratur sampai hari kedua, lalu pada hari ketiga satu baris datang berbeda, dan Ashvarok-Renn membacanya tiga kali sebelum menunjukkannya kepada yang lain: *benang tidak berubah. tetapi pagi ini ia berdetak satu kali lebih banyak sebelum jeda pertama. seperti seseorang menambah satu langkah pada kalimat yang sudah hafal.*
@@ -45,17 +99,17 @@ Perjalanan itu ditempuh dengan disiplin yang sudah menjadi tubuh mereka: malam d
 
 "Atau ada yang datang lebih dulu dari kita," kata Brannoc, dan tidak ada yang menjawabnya, karena kalimat itu tidak perlu dijawab — hanya perlu diingat.
 
-Anthema Spire menyambut mereka dengan cara yang tidak pernah mereka bayangkan dari gedung yang pernah memenjarakan irama: pengawal pintu sisi membuka tanpa meminta daftar, karena daftar mereka sudah di tangan — dan di sepanjang lorong naik, saat rombongan melewati pintu poros layanan yang mengarah ke lantai yang tidak bernama, semua lima orang merasakan hal yang sama pada waktu yang sama: benang di dinding, yang selama ini hanya bergetar, kini mengikuti langkah mereka dengan getaran pelan, seperti anjing tua yang mengenali pola langkah keluarganya dari balik pintu.
+Anthema Spire menyambut mereka dengan cara yang tidak pernah mereka bayangkan dari gedung yang pernah memenjarakan irama: pengawal pintu sisi membuka tanpa meminta daftar, karena daftar mereka sudah di tangan — dan di sepanjang lorong layanan, saat rombongan melewati pintu poros yang mengarah ke lantai yang tidak bernama, semua lima orang merasakan hal yang sama pada waktu yang sama: benang di dinding, yang selama ini hanya bergetar, kini mengikuti langkah mereka dengan getaran pelan, seperti anjing tua yang mengenali pola langkah keluarganya dari balik pintu.
 
 Ossian menunggu di ujung lorong itu, dan ia melihat wajah-wajah mereka berhenti. "Sudah begitu sejak kalian berangkat," katanya. "Sistem pemanas dinding di lantai itu — jaringan panen, garis kalian menyebutnya — tidak bisa lagi dijalankan seperti dulu. Teknisi menyebutnya kerusakan. Tapi kerusakan tidak memilih arah. Getaran itu mengikuti arah kalian, dari selatan ke utara, dan berhenti ketika kalian berhenti. Aku mencatatnya di log inventaris sebagai: merindukan barang yang dipesan." Ia melirik Ashvarok-Renn. "Log tidak bohong. Log hanya memilih kata."
 
 Ibu Tamma tidak ikut. Ia berdiri di pintu dapur ketika gerobak itu keluar dari gerbang, dan kalimatnya dikirim menyusul tanpa diperbesar suaranya, cukup untuk didengar lima punggung: "Ingat, kalian makan sebelum sidang. Dan kalau ada kursi kosong di ruangan mereka — duduki. Ruangan mengalah pada orang yang duduk seolah-olah di rumah sendiri."
 
-Di Anthema Spire, pada hari yang sama, Ossian menerima delegasi itu di pintu sisi dengan wajah yang sudah menyiapkan dua belas berkas dan satu rencana yang tidak ia tulis di mana pun. Sebelum menuntun mereka naik, ia menutup pintu ruang kerjanya dan meletakkan satu lembar di meja — bukan berkas resmi, hanya lembar riset pribadi yang kalimatnya khas Ossian: padat, bertanggal, dan tidak menyembunyikan apa yang tidak enak.
+Ossian membawa delegasi itu ke ruang kerjanya, menutup pintu, lalu meletakkan satu lembar di meja — bukan berkas resmi, hanya lembar riset pribadi yang kalimatnya khas Ossian: padat, bertanggal, dan tidak menyembunyikan apa yang tidak enak.
 
-"Panel itu baru," katanya. "Aku memeriksa registrasi lembaga malam ini juga, karena aku tidak tidur kalau ada tanda tangan yang tidak kukenal. Panel Pemutusan Sengketa Kepemilikan Barang Khusus — terdaftar tiga puluh satu hari lalu, dengan kewenangan yang diambil dari tiga pasal yang berbeda dan tidak pernah dirancang bertemu. Pendirinya: akun yang kalian tahu. Artinya: lembaga ini tidak mewarisi satu pun putusan lama. Tidak ada preseden. Tidak ada arsip kasus. Ia lahir delapan belas tahun kemudian dari seharusnya, dan ia lahir karena pemilik akun panik." Ia menatap satu per satu wajah delegasi itu. "Lembaga seperti itu punya satu kelemahan yang tidak dimiliki lembaga tua: ia belum tahu caranya berbohong. Prosedurnya masih jujur karena belum sempat dibelokkan. Manfaatkan itu. Tapi jangan lupakan sisi bahayanya: lembaga yang belum tahu berbohong juga belum tahu malu. Ia bisa memutuskan apa pun dengan tulus, termasuk hal yang salah."
+"Panel itu baru," katanya. "Aku memeriksa registrasi lembaga malam ini juga, karena aku tidak tidur kalau ada tanda tangan yang tidak kukenal. the Special Property Dispute Panel — terdaftar tiga puluh satu hari lalu, dengan kewenangan yang diambil dari tiga pasal yang berbeda dan tidak pernah dirancang bertemu. Pendirinya: akun yang kalian tahu. Artinya: lembaga ini tidak mewarisi satu pun putusan lama. Tidak ada preseden. Tidak ada arsip kasus. Ia lahir delapan belas tahun kemudian dari seharusnya, dan ia lahir karena pemilik akun panik." Ia menatap satu per satu wajah delegasi itu. "Lembaga seperti itu punya satu kelemahan yang tidak dimiliki lembaga tua: ia belum tahu caranya berbohong. Prosedurnya masih jujur karena belum sempat dibelokkan. Manfaatkan itu. Tapi jangan lupakan sisi bahayanya: lembaga yang belum tahu berbohong juga belum tahu malu. Ia bisa memutuskan apa pun dengan tulus, termasuk hal yang salah."
 
-"Kalian akan suka ruang sidangnya," katanya kemudian, sambil menuntun mereka naik. "Lantai tiga puluh delapan. Meja panjang, satu kursi saksi. Tapi ada yang berubah sejak panggilan terbit: panel meminta ruangan yang lain. Lantai satu. Di bawah. Ruangan paling tua yang masih punya pintu yang bisa dibuka dari dua sisi."
+"Kalian akan suka ruang sidangnya," katanya setelah pengarahan selesai, sambil menuntun mereka naik. "Lantai tiga puluh delapan. Meja panjang, satu kursi saksi. Tapi ada yang berubah sejak panggilan terbit: panel meminta ruangan yang lain. Lantai satu. Di bawah. Ruangan paling tua yang masih punya pintu yang bisa dibuka dari dua sisi."
 
 "Apa artinya itu?" tanya Sela.
 

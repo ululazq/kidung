@@ -3,9 +3,9 @@ title: "Bab 169: Dua Jabatan, Satu Meja"
 chapter: 169
 ---
 
-Panggilan Dewan Regional untuk Maera Tull tiba dengan kafilah pengawal — bukan karena dia disangka buronan, tetapi karena Dewan ingin semua orang di Caldrest melihat bahwa Assayer mereka dipanggil ke Spire seperti saksi.
+the Regional Council summons untuk Maera Tull tiba dengan kafilah pengawal — bukan karena dia disangka buronan, tetapi karena Dewan ingin semua orang di Caldrest melihat bahwa Assayer mereka dipanggil ke Spire seperti saksi.
 
-Isi panggilannya sederhana dan berbisa: menjelaskan dasar hukum penolakan atas permintaan salinan jabatan Pembaca Tua. Permintaan itu telah naik ke Dewan lewat jalur yang tidak diketahui Maera — dan jawaban Maera sejauh ini ("menunggu putusan pengadilan Guild") telah dibaca di Spire sebagai keangkuhan biro kecil, bukan benteng hukum yang sebenarnya.
+Isi panggilannya sederhana dan berbisa: menjelaskan dasar hukum penolakan atas permintaan salinan jabatan the Old Reader. Permintaan itu telah naik ke Dewan lewat jalur yang tidak diketahui Maera — dan jawaban Maera sejauh ini ("menunggu putusan pengadilan Guild") telah dibaca di Spire sebagai keangkuhan biro kecil, bukan benteng hukum yang sebenarnya.
 
 Kafilah berangkat Dua, sembilan hari perjalanan, dan Ashvarok mengantarnya sampai stasiun angkut. Yang mereka bicarakan di sana, singkat, di antara dua gerobak:
 
@@ -15,9 +15,9 @@ Kafilah berangkat Dua, sembilan hari perjalanan, dan Ashvarok mengantarnya sampa
 
 ---
 
-Sidang dengar pendapat berlangsung di ruang sidang lantai dua puluh delapan Anthema Spire — ruangan dengan langit-langit tinggi yang dirancang agar suara siapa pun terdengar kecil — dan Maera Tull masuk membawa kotak timbung mini dan tidak membawa pengacara, karena tidak ada pengacara Guild yang mau, dan karena ia sudah memutuskan bahwa meja ini butuh sesuatu yang lain.
+Sidang dengar pendapat berlangsung di ruang sidang lantai dua puluh delapan Anthema Spire — ruangan dengan langit-langit tinggi yang dirancang agar suara siapa pun terdengar kecil — dan Maera Tull masuk membawa mini weighing box dan tidak membawa pengacara, karena tidak ada pengacara Guild yang mau, dan karena ia sudah memutuskan bahwa meja ini butuh sesuatu yang lain.
 
-Dewan Regional berjumlah tujuh kursi. Enam terisi. Kursi ketujuh — paling belakang, paling teduh, posisi yang dalam protokol disebut "kursi arsip" dan secara resmi kosong sejak tiga dekade — terisi oleh sosok berjubah abu polos tanpa benang timah, dan tidak satu pun dari enam anggota Dewan menoleh ke arahnya, karena tidak melihat kursi itu adalah bagian dari protokol.
+the Regional Council berjumlah tujuh kursi. Enam terisi. Kursi ketujuh — paling belakang, paling teduh, posisi yang dalam protokol disebut "kursi arsip" dan secara resmi kosong sejak tiga dekade — terisi oleh sosok berjubah abu polos tanpa benang timah, dan tidak satu pun dari enam anggota Dewan menoleh ke arahnya, karena tidak melihat kursi itu adalah bagian dari protokol.
 
 Maera melihatnya. Dan memahami aturan permainan baru itu dalam satu detik: hari ini ia tidak diuji oleh Dewan. Ia diuji oleh pembaca di kursi arsip, dan Dewan adalah panggungnya.
 
@@ -37,7 +37,7 @@ Dan dari kursi arsip, suara tua yang tenang naik untuk pertama kalinya di ruanga
 
 Enam kepala Dewan mengangguk cepat — keputusan jabatan arsip tentang metode arsip berada di luar kompetensi mereka dan semua orang tahu itu — dan sidang beralih ke agenda berikutnya, dan Maera duduk kembali dengan denyut nadi yang baru turun setelah ia keluar dari ruangan.
 
-Yang tidak diketahuinya sampai malam harinya — saat ia membuka kotak timbung mini di kamar penginapan dan menemukan lembar kertas yang tidak ia letakkan di sana, tulisan tangan tua yang tenang, tanpa kop tanpa tanda tangan:
+Yang tidak diketahuinya sampai malam harinya — saat ia membuka mini weighing box di kamar penginapan dan menemukan lembar kertas yang tidak ia letakkan di sana, tulisan tangan tua yang tenang, tanpa kop tanpa tanda tangan:
 
 "Assayer Tull. Pertanyaan Anda hari ini adalah pertanyaan pertama tentang TUJUAN yang pernah diajukan kepada jabatan saya dalam sejarah jabatan itu. Jawaban jujurnya: tujuan saya adalah menemukan apakah seni yang saya cari empat puluh tahun masih memiliki pewaris yang layak — dan Caldrest menjawabnya bukan dengan dokumen, melainkan dengan cara Anda menolak. Ordo saya berutang dua kali kepada kota kecil itu sekarang. Jaga standar Anda. Ada yang memperhatikan, dan bukan semua yang memperhatikan adalah ancaman."
 
@@ -57,7 +57,7 @@ Di permukaan meja kursi arsip, tersusun rapi menunggu pemulung atau pembersih ru
 
 Pesan yang hanya bisa dibaca satu orang di gedung ini, dan isinya, diterjemahkan dari bahasa barang ke bahasa manusia, kurang lebih begini: "Ini gema palsu kedua yang kalian buat. Saya tahu. Dan sekarang milik saya juga — supaya permainan kita adil. Tidak ada yang diburu. Semua dihitung."
 
-Maera mengambil batang itu. Memasukkannya ke lapisan bawah kotak timbung mini — di samping geometri aula, di samping salinan aman berita acara, arsip pribadinya yang terus bertambah seperti tanda hidup sebuah karier yang tidak pernah ia rencanakan begini — dan menulis baris terakhir untuk pekan Spire-nya:
+Maera mengambil batang itu. Memasukkannya ke lapisan bawah mini weighing box — di samping geometri aula, di samping salinan aman berita acara, arsip pribadinya yang terus bertambah seperti tanda hidup sebuah karier yang tidak pernah ia rencanakan begini — dan menulis baris terakhir untuk pekan Spire-nya:
 
 "Hari 291. Kursi kosong itu tidak kosong dan tidak berbahaya seperti semua orang takutkan. Dia pembaca tua yang kesepian, mencari penjaga baru setelah semua penjaganya mati seribu tahun, dan Caldrest — dapurnya, pasarnya, bocah tungkunya — sedang menjadi jawaban yang tidak dia sangka bentuknya." Ia menutup buku hitam. "Saya mulai berpikir kita semua sedang mendaftar ke ordo yang sama tanpa diundang."
 

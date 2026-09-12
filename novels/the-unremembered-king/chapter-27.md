@@ -3,72 +3,218 @@ title: "Bab 27: Yang Menahan"
 chapter: 27
 ---
 
-Runtuhan itu datang pada hari ketiga puluh tiga, dua jam sebelum gantian shift, dan datangnya bukan seperti batu yang lelah melainkan seperti batu yang disuruh.
+Kayu blok empat belas berbunyi tiga kali di bawah telapak kaki Ashvarok.
 
-Ashvarok sudah tahu lorong utama hidup di atas pinjaman waktu. Prediksinya sendiri menyebut galeri timur dan lorong sebelas, musim hujan abu. Lorong utama tidak masuk daftar itu, karena lorong utama dipasang tebal dan diperiksa ganda setiap pekan sejak runtuhan tujuh. Justru karena itu, ketika telapak kakinya membaca sesuatu yang salah pagi itu, kesalahan membacanya bukan pada lokasi — melainkan pada asumsi bahwa hanya alam yang bisa mempercepat jadwal.
+Ketukan pertama pendek. Ketukan kedua menyusul pada jarak yang sama. Ketukan ketiga terputus di tengah, ditelan geretak troli yang melintasi lorong utama. Bukan irama penyangga menyesuaikan beban. Bukan air formasi mencari celah. Seseorang sedang mengayunkan pisau tambang ke pangkal balok, berhenti setiap kali roda besi mendekat, lalu bekerja lagi setelah bunyinya lewat.
 
-Ia sedang berjalan di belakang troli ketika telapak kakinya membaca sesuatu yang belum pernah ia baca di tambang ini. Getaran berirama dari arah penyangga blok empat belas — bukan gemuruh troli, bukan air formasi, melainkan tiga ayunan pendek beruntun yang berhenti bersamaan. Ayunan pisau yang memotong kayu.
+Ashvarok menjatuhkan karung bijih.
 
-Ia sudah membuka mulut untuk berseru ketika dinding selatan menghela napas.
+"Brannoc, hentikan troli."
 
-Tidak ada waktu untuk memikirkan siapa dan kenapa. Yang ada hanya geometri. Lorong utama, empat puluh hasta, dua belas orang regu Brannoc tersebar dari mulut sampai tikungan kedua, dan satu titik amblas di blok empat belas yang akan menarik seluruh rangkaian penyangga seperti domino yang disusun terlalu rapat. Jika titik itu jatuh, tikungan kedua tertutup — dan dua belas orang terbagi dua, dengan enam di sisi yang salah.
+Foreman itu menoleh dari depan barisan. Dua belas orang regunya memenuhi lorong di antara blok dua belas dan tikungan kedua: enam mendorong troli penuh, empat membawa alat, Ondar menjaga anak baru yang kakinya belum hafal rel, dan Brannoc menghitung semuanya tanpa perlu melihat daftar.
 
-Ashvarok melepas karungnya dan berlari ke arah yang salah.
+"Kenapa?"
 
-"Sisi dalam! Keluar semua!" teriaknya, dan untunglah, di tambang ini suara bocah yang berteriak lebih dulu didahulukan daripada dipertanyakan. Enam orang di sisi dalam mulai bergerak. Cukup cepat untuk kaki; tidak cukup cepat untuk batu.
+Debu halus merembes dari sambungan langit-langit. Ashvarok mengenal lorong tua. Debu akibat usia turun tak teratur; yang ini membentuk garis, lurus dari dinding selatan menuju penyangga blok empat belas.
 
-Ondar lewat pertama, menyeret anak baru dengan satu tangan, dan ketika lampunya bersilangan dengan lampu Ashvarok ia sempat membuka mulut untuk bertanya — "Renn, kau kan—"
+"Karena orang yang memotong balok itu belum jauh."
 
-"Ikuti Ondar! Sekarang!"
+Dinding mengentak sebelum Brannoc sempat menjawab.
 
-Titik amblas itu turun lebih dahulu. Bunyinya aneh — bukan ledakan, melainkan derit panjang yang naik nadanya, bunyi kayu bertahan di ambang patah selama hampir dua detik penuh, seolah formasi itu memberi waktu bagi siapa pun yang sanggup memanfaatkannya. Dalam dua detik itu, Ashvarok sudah di bawah balok induk, kedua telapak tangannya menempel pada kayu penyangga terakhir sebelum tikungan, dan pola-pola keluar dari kepalanya tanpa diminta. Cinder menarik panas dari tubuhnya sendiri, Forge menyusunnya menjadi jalinan di sepanjang serat kayu — bukan menambal, melainkan memberi kayu itu ingatan tentang masa ketika ia masih pohon yang belum tahu artinya menyerah.
+Rantai troli terlepas. Muatannya meluncur setengah hasta, menghantam penahan, dan suara benturannya disusul patahan serempak dari belakang. Batu menutup jalan menuju mulut tambang. Udara mendorong debu panas ke wajah mereka. Lampu-lampu mengecil, lalu tegak lagi.
 
-Forge pada kayu hidup ternyata berbeda dari Forge pada besi. Besi menerima ingatan dengan diam. Kayu membicarakannya. Serat demi serat menghangat, menguat, dan sesekali berderit seperti menyampaikan keberatan tentang beban yang tidak pernah diminta pohon mana pun. Ashvarok menahan semuanya — beban balok, keberatan kayu, dan gemetar sendiri yang mulai naik dari tumit.
+Mereka terkurung.
 
-Balok induk bergidik. Debu turun seperti tirai. Dan kayu penyangga itu, yang seharusnya sudah serpihan, menahan.
+"Hitung!" teriak Brannoc.
 
-Ada momen — mungkin setengah detik, mungkin dua — ketika beban itu turun sepenuhnya ke kedua telapak tangannya dan Forge harus memutuskan siapa yang lebih kuat. Serat kayu yang diberi ingatan pohon, atau tulang belulang bocah lima belas tahun yang baru makan sekali hari itu. Forge menjawab dengan cara yang tidak sopan. Ia menarik cadangannya dari mana saja yang tersisa, dan tubuh Renn adalah sisa yang paling dekat. Dingin menyala dari tumit naik ke tengkorak. Pendengarannya mendesing. Dan di tengah tirai debu, lutut kiri Ashvarok menekuk satu kali sebelum ia menggigitnya tegak kembali.
+Nama-nama dijawab dalam gelap keruh. Dua belas suara, termasuk Ashvarok. Belum ada yang tertimbun. Belum.
 
-"Jangan lihat! Lari!" teriaknya dari balik debu, suaranya nyaris tidak keluar.
+Langit-langit di blok empat belas turun selebar satu telapak. Penyangga utamanya miring ke dalam. Jika balok itu patah, beban akan merambat ke tikungan kedua dan meratakan kantong lorong tempat mereka berdiri. Jalur keluar lama sudah hilang. Satu-satunya celah berada di sisi dalam: saluran angkut sempit di balik tikungan, cukup untuk orang merangkak satu per satu sebelum batu susulan menutup mulutnya.
 
-Enam orang lalu. Delapan. Sepuluh. Ondar lewat terakhir sambil menyeret anak baru yang kakinya kaku, dan di antara debu yang menutupi semuanya, tidak ada satu pun yang benar-benar melihat apa yang terjadi di balik tirai itu — hanya mendengar derit yang menolak selesai, dan bayangan bocah kurus yang berdiri dengan kedua lengan terangkat seperti menopang langit.
+Brannoc melihat arah tatapannya. "Saluran angkut muat berapa?"
 
-Ketika yang kedua belas hilang ke arah terang, Ashvarok menurunkan tangannya pelan-pelan. Balok induk turun tiga hasta dan berhenti di tumpukan reruntuhan yang kebetulan berbentuk kebetulan. Pola Forge padam. Kedua lengannya tidak mau mendengar perintah selama sepuluh detik penuh, dan di dalam tubuh pinjaman ini, tagihan dibacakan dengan tenang: lemak habis untuk beberapa hari ke depan, urat parut kanan menjalar satu jengkal lagi sampai ke siku bagian dalam, dan pandangan matanya berkabut dua kali sebelum berhasil fokus.
+"Semua, kalau balok itu memberi kita waktu."
 
-Ia duduk. Untuk beberapa saat, debu dan sunyi menjadi miliknya sendiri.
+"Berapa lama?"
 
-Lalu ada cahaya, dan bunyi langkah yang dikenalinya bahkan sebelum terlihat — langkah prajurit tua yang berbalik arah, melanggar perintahnya sendiri, datang ke arah yang salah tepat setelah memastikan semua anak buahnya ada di arah yang benar.
+Kayu mengerang. Serat luarnya sudah lepas seperti rambut kasar.
 
-Brannoc menemukannya begitu saja. Duduk di bawah balok raksasa yang nyaris menewaskannya, wajah abu-abu, kedua lengan tergeletak seperti milik orang lain.
+"Tidak cukup."
 
-"Mataku," kata foreman tua itu pelan. Ia tidak bertanya apa yang terjadi. Ia sudah membaca lorong ini sejak pagi — dan sekarang membaca sisanya: bocah kurus, kayu yang tidak patah, reruntuhan yang jatuh dengan cara yang terlalu sopan. "Kau menahan ini?"
+Brannoc tidak meminta jawaban yang lebih baik. Ia menunjuk Ondar. "Buka jeruji saluran. Orang baru dulu. Jangan tunggu alat."
 
-"Aku menumpang pegangan."
+Ondar menyambar bahu anak di sebelahnya. "Dengar aku. Lutut dulu, lalu siku. Kalau gelap, terus maju."
 
-Brannoc tidak menjawab lelucon itu. Ia berlutut dan memeriksa bocah itu dengan kecepatan dokter lapangan: mata, napas, kedua lengan, garis di pergelangan kanan yang kini sudah mencium siku. Ketika selesai, mandor tua itu duduk juga, di atas reruntuhan, di samping bocah yang baru saja menyelamatkan enam nyawa tanpa satu pun saksi yang bisa bicara.
+"Troli bagaimana?" tanya salah seorang pendorong.
 
-"Dinding blok empat belas itu dipotong," kata Brannoc akhirnya. "Tiga sayatan rapi, miring ke bawah, ukuran pisau tambang pusat. Aku temukan pas aku mundur terakhir tadi. Ini bukan musim hujan abu, Renn. Ini pekerjaan manusia."
+"Troli tidak punya ibu yang menunggu," kata Brannoc. "Tinggalkan."
 
-Ashvarok menatap reruntuhan itu, dan di kepalanya, potongan-potongan yang selama ini berdiri terpisah mulai saling merapat dengan bunyi yang tidak menyenangkan. Distrik timur yang harus "dinilai ulang". Daftar empat ratus keluarga. Survei Guild yang tinggal hitungan hari. Dan sekarang sebuah runtuhan yang sempurna sebagai alasan — karena lorong yang runtuh tidak boleh dihuni, dan tambang yang tidak aman harus dibersihkan, dan orang-orang yang bersih dari tambang yang tidak aman harus dipindahkan ke mana pun sang pembuat daftar menginginkannya.
+Mereka bergerak. Gerak yang cepat di tambang tidak pernah tampak cepat: tubuh membungkuk, kaki mencari rel, tangan meraba batu sebelum memindahkan berat. Ondar dan tiga orang mencapai tikungan. Jeruji saluran berkarat tidak mau terangkat. Dua orang menariknya bersama-sama sementara bunyi di atas mereka berubah dari derit menjadi letupan kecil. Setiap letupan berarti satu sambungan kayu menyerah.
 
-Pertanyaannya tinggal satu: pembuat daftar itu memanggil siapa untuk memotong penyangga? Orang-orangnya sendiri tidak akan sempurna secepat ini. Pemotongan tadi punya irama latihan.
+Ashvarok berlari ke blok empat belas.
 
-"Aku tahu," kata Ashvarok pelan. "Dan mereka gagal mendapatkan yang mereka inginkan. Yang mereka inginkan mayat atau kepanikan. Yang mereka dapat hanya lorong mati."
+"Renn!" Brannoc menangkap belakang bajunya. "Ke saluran. Itu perintah."
 
-"Lorong mati itu cukup untuk mereka." Brannoc bangkit, menawarkan tangannya sekali lagi — dan kali ini Ashvarok menerimanya, karena keduanya memang tidak dalam kondisi untuk gengsi. "Besok pagi, cerita resminya begini: runtuhan kecil, tidak ada korban, penyangga lama, cuaca. Aku yang tulis. Sayatan di blok empat belas tidak masuk laporan — karena kalau masuk, yang ditanya pertama adalah siapa yang menemukan sayatan itu, dan jawaban 'foreman yang mundur terakhir' hanya akan membuatku jadi saksi yang harus hilang." Ia berkata seperti membaca daftar belanja. Dua puluh tahun prajurit membuat kemungkinan buruk terdengar seperti jadwal. "Kamu istirahat. Dua hari. Tiga kalau perlu. Kau sudah membelanjakan dirimu terlalu jauh, dan aku tidak akan jadi orang yang menontonmu habis."
+"Kalau aku ikut, tidak ada saluran dalam satu menit."
 
-"Kamu sudah pernah bilang itu."
+"Kalau kau tinggal, aku kehilangan satu orang di daftar."
 
-"Dan belum kamu turuti sekali pun." Brannoc menatap garis di pergelangan kanannya yang kini mencium siku, lalu ke wajah bocah itu, dan kalimat berikutnya keluar lebih pelan daripada semuanya. "Dulu aku minta satu hal: kalau aku panggil dan kamu tidak jawab, aku yang datang. Hari ini aku datang tanpa dipanggil, dan ternyata tepat juga. Jadi sekarang janjinya ganti arah. Kalau suatu hari kamu butuh ditutupi, aku yang tutup — seperti tadi. Tetapi jangan pernah buat aku harus memilih antara daftar lorong amanmu dan nyawa anak-anakku. Karena hari ini pilihannya mudah. Dua-duanya selamat. Tidak semua hari akan sebaik ini."
+"Kalau aku pergi, kamu kehilangan dua belas."
 
-Mereka berjalan ke arah terang bersama-sama, lambat, dua siluet dalam debu yang perlahan turun menutupi lorong utama dan segala yang baru saja terjadi di dalamnya.
+Mata Brannoc beralih ke balok, lalu ke garis debu yang kian tebal. Ia melepaskan kain baju Ashvarok.
 
-Di permukaan, kabar menyusul mereka lebih cepat daripada langkah. Dua belas nama dibacakan di barak dan dua belas kali jawabannya "hidup" — dan setiap kali satu nama dijawab, ada satu tarikan napas yang dilepaskan di antara orang-orang yang menunggu. Ibu Dolm tidak ikut bersyukur karena anaknya bukan dari shift itu, tetapi dia tetap memasak roti untuk semua orang, karena duka yang tua kadang bekerja seperti itu. Ondar menceritakan versinya pada tiga regu sekaligus — bagaimana Renn berteriak lebih dulu sebelum siapa pun mendengar apa pun, bagaimana bocah itu berlari ke arah runtuhan ketika semua orang berlari keluar — dan setiap kali bercerita, bagian terakhirnya bertambah sedikit. Pada penceritaan ketiga, bayangan di balik debu itu sudah terlihat memiliki empat lengan.
+"Apa yang kau butuhkan?"
 
-Ashvarok tidak mengoreksi satu versi pun. Ia menghabiskan bubur yang disodorkan Sela dalam gelas kaca pecah itu, membiarkan tangannya gemetar di balik meja tempat tidak ada yang melihat, dan menyimpan satu catatan untuk besok — bahwa legenda, ternyata, bisa tumbuh bahkan di lorong yang gagal dibunuh.
+Pertanyaan itu menghidupkan janji lama di antara mereka: bawa orang keluar dulu, bertanya belakangan.
 
-Sela juga tidak mengoreksi apa pun. Ia hanya mengisi ulang gelasnya dua kali, dan ketika malam makin dalam dan barak makin sunyi, ia menulis di sisi belakang papan tulisnya — daftar rahasianya, daftar hal-hal yang tidak berubah — satu baris tambahan dengan huruf kecil:
+"Jangan biarkan siapa pun menoleh. Dan setelah enam orang masuk, kamu bawa sisanya melewati sini secepat mungkin."
 
-> Kakakku menyelamatkan enam orang hari ini. Itu pun tidak berubah.
+"Melewati bawah balok itu?"
 
-Di belakang mereka, di tengah reruntuhan, sebatang serpihan kayu berbaring di antara batu — penyangga yang seharusnya patah, dengan serat-serat yang mengeras aneh di garis tempat ia menolak menyerah — dan tidak ada satu pun petugas investigasi yang akan tahu harus membuat formulir apa untuk barang bukti jenis itu.
+"Selama masih berbentuk balok."
+
+Jeruji saluran lepas dengan jeritan logam. Ondar mendorong anak baru ke dalam. Orang kedua menyusul. Brannoc berdiri di tengah lorong dan mengubah kepanikan menjadi urutan: satu masuk, satu menunggu, satu menjaga lampu. Ashvarok menempatkan kedua telapak pada kayu penyangga.
+
+Dingin.
+
+Balok itu ditebang puluhan tahun silam dan dikeringkan sampai tak menyimpan getah. Tiga sayatan miring membelah pangkalnya dari sisi yang tak terlihat jalur inspeksi. Penambang marah akan memukul tergesa-gesa; pelaku ini menghentikan setiap luka tepat sebelum serat penahan, membiarkan balok berdiri sampai beban troli penuh melintas. Sabotase yang menyamar sebagai usia.
+
+Tharrow menyusun daftar empat ratus keluarga. Pagi ini seseorang memberinya alasan untuk memindahkan mereka.
+
+Ashvarok membuka Cinder.
+
+Sembilan simpul menyala dalam benaknya, lalu dua belas jalur. Ia tidak menciptakan panas. Seni itu tak pernah memberi apa pun secara cuma-cuma. Ia menarik panas dari darah di lengan, dari lemak tipis di rusuk, dari napas yang baru sempat masuk separuh. Kehangatan berkumpul di kedua telapak dan menembus kayu.
+
+Tubuh Renn langsung menagih. Giginya beradu. Kulit punggungnya basah, tetapi jari-jarinya mati rasa oleh dingin dari dalam.
+
+Ia menautkan Forge pada aliran panas itu.
+
+Besi mudah diperintah karena besi pernah cair. Kayu memiliki riwayat yang lebih keras kepala. Serat-seratnya pernah tumbuh mengikuti musim, menahan angin dari satu arah, mengangkat dahan yang beratnya berubah setiap tahun. Ashvarok tidak menambal tiga sayatan. Ia merajut serat di sekelilingnya menjadi jalinan spiral, memaksa kayu mengingat cara membagi beban ketika masih hidup.
+
+Harga Forge muncul seketika. Warna cokelat di bawah telapak menggelap. Puluhan tahun tambahan melintas pada bahan dalam beberapa tarikan napas. Balok menguat sekarang, tetapi setelah tenunan lepas ia akan lebih tua, lebih kering, lebih dekat pada kehancuran.
+
+Batu di atasnya turun.
+
+Tekanan menghantam pola Forge dan memantul ke lengan Ashvarok. Lututnya menyentuh lantai. Urat parut kanan menyala dari pergelangan menuju siku, garis dingin yang merayap di bawah kulit sementara Cinder mengalir melalui jalur tubuh yang terlalu sempit.
+
+"Renn!" suara Ondar datang dari tikungan. "Enam masuk!"
+
+Ashvarok mendengar balok, bukan suara itu. Jalinan di sisi kiri terlalu renggang. Ia memindahkan satu jalur Cinder, menghanguskan cadangan terakhir di pinggang, lalu mengunci Forge lebih dalam. Kayu membengkok. Tidak patah.
+
+"Bawa sisanya!" serunya.
+
+Brannoc mengirim orang ketujuh. Penambang itu melintas sambil menunduk, kedua tangan melindungi kepala. Orang kedelapan tersandung rel. Brannoc mengangkatnya dari kerah dan melemparkannya ke arah tikungan.
+
+"Jangan lihat dia," bentak Foreman itu. "Lihat saluran!"
+
+Orang kesembilan lewat. Kesepuluh.
+
+Balok induk di atas penyangga bergeser sejengkal. Suaranya rendah, cukup kuat untuk terasa di gigi. Debu memenuhi mulut Ashvarok dengan rasa kapur dan besi. Cinder berkedip. Forge kehilangan satu simpul, lalu simpul kedua.
+
+Ondar kembali dari saluran.
+
+"Kenapa kau balik?" Brannoc mendorong Ondar melewatinya.
+
+"Anak baru sudah di sisi sana. Aku bantu Renn."
+
+"Kau bantu dia dengan tetap hidup. Masuk."
+
+"Tapi—"
+
+"Itu perintah yang akan kau benci besok. Masuk!"
+
+Ondar mundur ke tikungan. Sebelum hilang, wajahnya mengarah pada siluet Ashvarok di balik debu: bocah kurus dengan dua tangan pada kayu yang bercahaya samar dari dalam. Ashvarok memadamkan pijar di permukaan, tetapi tatapan Ondar sudah telanjur diam terlalu lama.
+
+Brannoc menjadi orang kesebelas yang harus lewat. Ia tidak bergerak.
+
+"Sekarang kamu," kata Ashvarok.
+
+"Setelah kau lepas, lari ke mana?"
+
+Ashvarok melirik tumpukan batu hasil runtuhan pertama. Ada cekungan sempit di bawah sisi rel, cukup untuk tubuh Renn bila ia menjatuhkan balok pada sudut tepat. Bukan jalan keluar. Hanya tempat untuk tidak langsung remuk.
+
+"Aku punya ruang."
+
+"Itu bukan jawaban."
+
+"Itu yang tersedia."
+
+Patahan keras terdengar di atas mereka. Brannoc mengumpat, lalu berlari melewati bawah balok. Begitu ia mencapai tikungan, Ashvarok memutus dua jalur Forge sekaligus.
+
+Balok jatuh.
+
+Ia memelintir jalinan terakhir ke kanan. Kayu yang diperkuat menyalurkan beban ke dinding utara, menggeser runtuhan menjauh dari mulut saluran. Ashvarok melepaskan tangan dan menjatuhkan diri ke cekungan rel. Batu menghantam punggungnya, bukan bongkah besar, tetapi cukup untuk menghapus napas. Cahaya lenyap. Gemuruh berlangsung selama enam hitungan panjang.
+
+Setelah itu, lorong menyisakan bunyi kerikil dan napasnya sendiri.
+
+Ashvarok mencoba menggerakkan lengan kanan. Tidak ada jawaban. Lengan kiri bergerak dua jari. Tubuh Renn telah dipakai melampaui batas. Garis kanan kini menyentuh siku. Sela akan mengukurnya malam ini, dan aturan mereka tidak menyediakan cara untuk berbohong pada angka.
+
+Cahaya muncul dari sela batu.
+
+"Kalau kau mati," suara Brannoc terdengar serak, "aku akan menggali hanya untuk memukulmu."
+
+"Ancaman buruk. Mayat tidak belajar."
+
+Batu kecil bergeser. Brannoc merangkak masuk dari celah yang baru dibuka orang-orang di saluran, lalu menarik Ashvarok keluar dengan memegang sabuknya. Di sisi lain tikungan, dua belas orang duduk atau berbaring dalam ruang angkut. Wajah mereka putih oleh debu. Tidak ada darah selain goresan dangkal di dahi seorang pendorong troli.
+
+Brannoc menghitung mereka lagi. Kali ini jarinya berhenti pada Ashvarok.
+
+"Dua belas," katanya.
+
+"Tadi juga dua belas."
+
+"Tadi aku belum yakin kau termasuk orang."
+
+Mereka menunggu sampai getaran susulan reda. Setelah saluran angkut dibuka ke jalur luar, Brannoc menyuruh Ondar memimpin regu naik. Ia sendiri kembali bersama Ashvarok ke tepi blok empat belas. Lampu mereka memperlihatkan penyangga tunggal yang tetap utuh di tengah kayu-kayu patah. Batangnya membengkok, mengeras dalam spiral rapat, dan masih mengeluarkan hangat tipis.
+
+Brannoc menyentuh salah satu sayatan di pangkalnya. "Pisau tambang pusat. Tiga tebasan miring. Alat begini keluar dari gudang atas hanya dengan tanda Quota Office."
+
+"Tharrow."
+
+"Atau orang yang dibayarnya. Bedanya tidak berguna bagi orang yang hampir dikubur." Brannoc membersihkan debu dari luka kayu dengan ibu jari. "Kalau sayatan ini masuk laporan, dia tahu kita membacanya. Kalau tidak masuk, Maera akan menyebut kayu tua sebagai penyebab."
+
+Ashvarok memandang spiral Forge. Jejak itu lebih berbahaya daripada sayatan. Maera sudah membaca struktur yang sama pada pisau upacara. Jika ia turun untuk menilai runtuhan, kayu ini akan menyelesaikan garis yang selama ini ia tarik menuju Renn.
+
+"Kamu tidak bisa menyembunyikan penyangga itu," katanya.
+
+"Aku bisa menutup akses sampai besok. Tidak lebih."
+
+"Cukup. Cerita resmi: penyangga tua, beban troli, tidak ada korban. Sayatan tetap di sini."
+
+Brannoc menatapnya. "Kau sengaja meninggalkan bukti untuk Assayer?"
+
+"Aku meninggalkan pilihan. Maera lebih berbahaya kalau kita memaksanya buta."
+
+Foreman itu mengikat tali kuning melintasi lorong. "Dan kalau pilihannya salah?"
+
+"Kita akan tahu siapa yang datang lebih dulu: dia atau jubah abu."
+
+---
+
+Di barak, dua belas nama dibacakan dan dua belas jawaban terdengar. Ondar menceritakan bagaimana Renn berlari ke arah runtuhan ketika semua orang mencari jalan keluar. Pada cerita kedua, ia mengaku hanya melihat cahaya di kayu. Pada cerita ketiga, ia bersumpah tidak melihat apa-apa. Kedua versi itu menyebar sama cepat.
+
+Sela menunggu sampai pintu kamar mereka tertutup. Ia mengambil papan Hourglass, membuka ikatan kain di lengan kanan Ashvarok, lalu menempelkan arang ukur pada ujung garis parut.
+
+Arang berhenti tepat di lipatan siku.
+
+"Aturannya apa?" tanyanya.
+
+"Kalau garis menyentuh siku, dokter tambang."
+
+"Kapan?"
+
+"Setelah Guild pergi."
+
+"Itu bukan aturan."
+
+Tangannya masih gemetar saat ia menerima mangkuk bubur. Sela melihat getaran itu, menambahkan separuh isi mangkuknya sendiri, lalu mendorong papan ke hadapannya.
+
+"Besok kamu tidak turun. Kalau turun, aku bawa papan ini ke Brannoc dan kubacakan semua angka."
+
+Ancaman yang baik selalu memiliki saksi dan akibat. Ashvarok mengangguk.
+
+Sela membalik papan ke sisi rahasianya. Di bawah daftar hal-hal yang tidak berubah, ia menulis satu baris baru: *Kakakku menyelamatkan enam orang hari ini. Itu pun tidak berubah.*
+
+Ashvarok tidak membetulkan hitungannya. Enam orang terakhir memang hidup karena kayu itu bertahan; enam yang pertama hidup karena seluruh regu menuruti suara seorang bocah sebelum memahami alasannya. Kerajaan lamanya pernah membutuhkan dekret untuk menggerakkan ribuan orang. Di Caldrest, satu teriakan cukup karena kepercayaan sudah dibayar sedikit demi sedikit.
+
+Jauh di bawah mereka, penyangga blok empat belas mendingin dalam lekuk yang mustahil. Serat spiralnya tetap terbuka di balik tali kuning Brannoc, menunggu pembaca pertama yang cukup teliti untuk mengenali tangan yang menahannya.

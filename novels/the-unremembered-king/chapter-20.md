@@ -3,98 +3,268 @@ title: "Bab 20: Yang Tidak Boleh Ditulis"
 chapter: 20
 ---
 
-Lempeng pengukur batu di persimpangan utama sudah dinyatakan rusak secara resmi, dan Maera Tull menolak percaya pada barang yang dinyatakan rusak oleh orang yang diuntungkan kerusakannya.
+Maera Tull menemukan bekas jari pada measuring plate sebelum menemukan kerusakannya.
 
-Aturan pertamanya sebagai assayer — diajarkan bukan oleh Guild, melainkan oleh tiga tahun menimbang karung curiga — berbunyi sederhana: barang pecah punya arah pecahnya. Retakan bercerita tentang dari mana tekanan datang. Dan retakan yang "halus internal" — jenis yang diklaim Kovan dalam laporannya, jenis yang mustahil dilihat tanpa alat — selalu menjadi cerita favorit orang yang tidak ingin ada yang memeriksa lebih jauh.
+Lima ujung jari, telapak kiri, ditekan terlalu rata untuk sentuhan uji biasa. Debu tambang mengumpul di sekelilingnya, tetapi bagian yang tersentuh berwarna kelabu pucat dan menolak cahaya lampu. Di belakang Maera, sepatu Kovan berderit setiap kali Shift Guard itu memindahkan berat badan.
 
-Ia datang ke persimpangan itu pagi hari kedua puluh tiga, sebelum shift pertama turun, dengan izin komisi di satu tangan dan kotak alatnya di tangan lain. Udara pagi di tingkat dasar bercampur bau garam dan besi lembap; tetes air dari balok atas jatuh dengan irama yang sama sudah berpuluh tahun, dan lempeng itu masih berdiri di tempatnya — lempengan batu gema kelas pengukuran, umur puluhan tahun, dipasang oleh generasi tambang yang lebih teliti dari yang sekarang. Kovan berdiri di sampingnya dengan dua pekerja Quota Office dan ekspresi orang yang sedang menunggu dokter menyatakan kuda matinya benar-benar mati.
+"Retaknya ada di dalam," katanya. "Laporan saya sudah menjelaskan."
 
-"Assayer Tull. Kalau mau melihat alat rusak, silakan. Namun laporan teknisnya sudah kami tulis: retak halus internal."
+Maera tidak menoleh. Ia mengetuk sisi lempeng dengan gagang kuningan alat ukurnya. Nada pertama bulat. Nada kedua sedikit lebih rendah karena sambungan lantai lembap. Nada ketiga kembali bulat dan bertahan selama empat hitungan.
 
-"Retak halus internal tidak bisa dilihat mata," kata Maera, berlutut di depan lempeng itu tanpa menyapa balik. "Kalau bisa, kau tidak perlu menyebut kata halus."
+"Batu retak tidak sembuh karena ditulis rusak."
 
-Ia menjalankan prosedurnya seperti biasa — pemeriksaan visual, ketukan kalibrasi tiga titik, pembacaan gema dasar lempeng — dan membiarkan Kovan menunggu sampai prosedur selesai sebelum menyentuh bagian yang sebenarnya ia datangi.
+"Saya membaca kegagalan alatnya sendiri. Dua kali."
 
-Permukaan lempeng, di area kontak standar selepas telapak tangan, memiliki sesuatu yang bukan debu.
+"Kau membaca sesuatu gagal dua kali." Maera menaruh telinga dekat permukaan batu. Dingin lempeng menembus rambut di pelipisnya. "Belum tentu alatnya."
 
-Abu. Setipis embun, warna kelabu muda, menempel pada batu dengan cara yang salah — debu tambang bisa diseka; ini tidak bergeser ketika kukunya digesek pelan di tepinya. Maera membuka kotak kayunya, mengambil kaca pembesar dan lilin perekam kecil, dan bekerja dalam sunyi selama sepuluh menit penuh, sementara Kovan di belakangnya berganti posisi berdiri empat kali.
+Pagi baru menyentuh mulut the Underfold, tetapi persimpangan utama sudah berbau besi basah, minyak lampu, dan pakaian kerja yang belum kering. Dua petugas Quota Office berdiri dekat pagar jalur troli. Keduanya mengawasi dengan minat orang yang berharap pemeriksaan selesai tanpa membuat nama mereka masuk catatan.
 
-Ketika ia akhirnya menempelkan ujung jari kirinya ke abu itu dan membukanya dengan Voice-tier-nya, dunia memberinya jawaban yang tidak ada satu pun kotak centang di formulir laporan Guild untuk menampungnya.
+Maera membuka kotak kayunya. Kovan berdeham.
 
-Abu itu mengingat.
+"Lempeng itu aset the Quiet Vein. Jangan mengambil bagian tanpa izin."
 
-Bukan metafora. Gema meninggalkan bekas pada apa pun yang cukup halus untuk menahannya, dan abu — abu khusus ini, abu yang tidak berasal dari pembakaran mana pun yang tercatat — menyimpan rekaman dua peristiwa dalam irama yang sangat rapi. Peristiwa pertama: alur gema Voice-tier segaris, teknik sekolah pusat, penekanan profesional yang menahan napas saat konsentrasi... dipadamkan di tengah alur. Bukan ditangkis, tidak diblokir, tidak dilawan. Dipadamkan — seperti api yang ditemukan sudah tidak memiliki oksigen. Peristiwa kedua: alur yang sama, penyapu yang sama, dua kali lebih kasar karena panik.
+"Kalau saya bisa mengambil bagian lempeng dengan kuas, laporanmu punya masalah lebih besar daripada retak halus."
 
-Padam lagi. Di titik yang sama persis.
+Ia menyentuhkan bulu kuas ke tepian bekas telapak. Debu cokelat terangkat. Lapisan kelabu tetap melekat. Bukan kerak lampu; tak ada minyak. Bukan serbuk seam; tidak menjawab ketukan rendah. Butirannya halus, lebih halus daripada abu tungku terbaik, dan dinginnya bertahan di ujung pinset.
 
-Dan tentang apa yang memadamkannya, abu itu hanya menyimpan satu informasi lagi — dan inilah yang membuat jari-jari Maera berhenti bekerja di atas lilin perekamnya. Pemadamnya tidak meninggalkan gema. Sama sekali. Semua seni yang pernah dicatat manusia meninggalkan tanda tangan: Resonance meninggalkan denyut vein, artefak meninggalkan resonansi sumber, bahkan murmur semu meninggalkan jejak formasi. Yang memadamkan gema Kovan tidak meninggalkan apa-apa selain hasilnya. Kekosongan yang bersih, presisi, dan sangat, sangat tua.
+Kovan maju setengah langkah. "Itu ada kemarin?"
 
-* *Yang menghapus tanpa meninggalkan nama... dunia sudah lama tidak melihat kamu.* *
+Pertanyaan yang salah. Seorang penjaga yang yakin alatnya rusak akan bertanya apakah abu menyebabkan kerusakan. Kovan justru bertanya tentang waktu.
 
-"Jadi?" Suara Kovan di belakangnya. "Retak, kan? Bilang retak supaya urusan ini selesai."
+Maera mengangkat kaca pembesar. "Siapa yang terakhir diuji?"
 
-Maera menoleh, dan menimbang orang ini selama dua detik penuh. Penjaga muda yang dikirim pusat, yang ingin naik, yang kemarin mendadak menulis laporan "alat rusak" dengan kecepatan orang yang lebih takut pada pertanyaan daripada pada jawaban. Dia juga tidak ingin menulis ini. Menarik.
+"Regu dasar."
 
-"Permukaannya aus," kata Maera. "Tidak ada retakan struktural. Lempeng ini berfungsi normal."
+"Nama."
 
-"Normal? Dia—"
+"Ada dua puluh orang."
 
-"Berfungsi. Normal." Ia bangkit, membersihkan lutut, dan menatap Kovan lurus dengan tatapan assayer yang sedang menawarkan transaksi tanpa mengucapkannya. "Aku akan tuliskan di laporan surveiku. Lempeng pengukur persimpangan utama menunjukkan degradasi permukaan non-struktural, rekomendasi penggantian berkala, tidak mempengaruhi validitas data komisi. Kalimat itu bisa dibaca dua arah. Kamu boleh memotongnya sesuai kebutuhanmu."
+"Kalau dua puluh orang membuat alatmu gagal, kantor pusat akan mengirim pengganti lempeng, bukan mengganti jadwal seluruh tambang." Ia menatapnya melewati lingkar kaca. Wajah Kovan masih muda bila mulutnya tidak sedang mengeras. "Siapa?"
 
-Kovan menatapnya lama, mencoba menghitung apakah ini bantuan atau jebakan, dan gagal — karena memang bukan keduanya, atau keduanya sekaligus.
+Salah satu petugas di pagar pura-pura memeriksa roda troli. Yang lain ikut menunduk. Kovan mengetukkan tin ring pada ibu jarinya sekali, lalu berhenti ketika menyadari bunyinya terdengar.
 
-"Kenapa kamu mau membantu—"
+"Renn. Furnace boy."
 
-"Aku tidak membantu siapa-siapa. Aku menjaga laporanku tetap bersih dari hal-hal yang tidak bisa kubuktikan." Maera mengemas kotaknya. Dan di bawah napasnya, hampir tanpa suara, ia menambahkan kalimat yang tidak dimaksudkan untuk didengar siapa pun — "Dan ada hal-hal yang lebih baik hilang daripada ditemukan oleh orang yang salah."
+Nama itu masuk ke tempat yang sudah tersedia di kepala Maera.
 
-Kovan masih berdiri di sana ketika ia melangkah menuju tangga naik, dan Maera menyimpan satu catatan terakhir tentang penjaga muda itu untuk arsip pribadinya. Dia takut bukan pada anomali, tidak pada lempeng yang gagal, bahkan tidak pada kemungkinan ada sesuatu di tambang ini yang lebih kuat dari dirinya.
+Ia menyiapkan recording wax sebesar ruas jari, meletakkannya pada dudukan kecil, lalu mengapit abu di antara batu dan lilin. Prosedur Guild menyarankan sarung tangan untuk residu tak dikenal. Sarung tangan juga mematikan separuh rincian. Maera menempelkan dua jari telanjang ke lempeng dan membuka Voice-tier-nya selebar benang.
 
-Dia takut pada laporan.
+Dunia menyempit menjadi sisa.
 
-Orang yang takut pada laporan adalah orang yang tahu isi sebenarnya. Dan itu membuat Kovan bukan lagi sekadar alat kantor pusat, melainkan saksi yang bisa ditawar — jenis barang paling rapuh dan paling berharga dalam setiap investigasi.
+Gema lama merayap dari batu ke tulang jarinya. Langkah shift, benturan sekop, roda troli yang pernah pincang, ratusan telapak dengan denyut berbeda—semuanya bertumpuk sebagai suara kusut. Ia menyisihkannya satu per satu. Bekas terbaru berada di atas lapisan itu, rapi dan kuat: sapuan Voice-tier berlatih, bergerak dari telapak menuju pergelangan seseorang. Sapuan itu menekan. Menunggu. Lalu lenyap.
+
+Tidak pecah. Tidak dipantulkan.
+
+Lenyap.
+
+Maera mengikuti tepi kematiannya. Di sana seharusnya ada benturan antara dua gema, sisa artefak penghambat, panas, perubahan urat, apa pun yang membayar hasil. Ia hanya menemukan abu dan ruang bersih tempat gema Kovan pernah berada. Kebersihan itu lebih mengganggu daripada bekas serangan. Alam meninggalkan serpih. Orang ceroboh meninggalkan niat. Yang bekerja di sini telah menghapus keduanya.
+
+Rekaman kedua menyusul. Sapuan serupa, kali ini lebih keras dan sempit. Napas penyapunya tertahan di hitungan ketiga. Tekanan masuk melalui titik yang sama.
+
+Mati lagi.
+
+Dingin menyusup ke gigi Maera. Ia menutup Voice-tier sebelum lapisan abu menyentuh balik lebih jauh. Lilin perekam di dudukan telah berubah dari ungu keruh menjadi kelabu tanpa kilap.
+
+"Nah?" Kovan bertanya.
+
+Maera mengusap ujung jarinya dengan kain. Rasa logam tinggal di lidahnya. "Kau menguji orang yang sama dua kali."
+
+"Pembacaan pertama gagal. Pengulangan diwajibkan."
+
+"Kau menekan lebih dalam pada pengulangan. Itu bukan uji kesesuaian."
+
+"Saya berwenang memastikan hasil."
+
+"Dan hasilnya memastikan apa?"
+
+Kovan melirik dua petugas di dekat troli. "Kalian kembali ke kantor."
+
+Mereka pergi terlalu cepat. Derak roda dari lorong bawah mengisi tempat yang baru kosong. Ketika langkah terakhir menghilang, Kovan merendahkan suara.
+
+"Vein anak itu memberi jawaban yang tidak cocok. Luka lama, katanya. Tapi umur lukanya berubah semakin saya tekan."
+
+"Lalu kemampuanmu padam."
+
+"Alat ini gagal."
+
+"Kemampuanmu padam," ulang Maera. "Kau menyalahkan batu supaya tidak perlu menulis siapa yang membuatmu gagal."
+
+Rahang Kovan bergerak. Ia bisa menyangkal, memanggil petugas kembali, atau menutup akses komisi. Semua pilihan itu membuat catatan lebih banyak. Maera membiarkannya menghitung.
+
+"Apa yang ada di abu?" tanyanya akhirnya.
+
+"Pertanyaanmu. Dua kali."
+
+"Jawab dengan bahasa Guild."
+
+"Bahasa Guild mahal."
+
+Kovan menatap kotak alat, lalu recording wax kelabu. "Apa harganya?"
+
+"Uji kesesuaian ditunda karena degradasi permukaan lempeng. Tidak ada nama pekerja dalam lampiranmu. Sebagai gantinya, saya tidak menulis bahwa seorang Shift Guard mengubah pemetaan rutin menjadi pemeriksaan paksa tanpa saksi resmi."
+
+"Itu ancaman."
+
+"Itu dua laporan yang sama-sama belum dibuat. Pilih yang paling sedikit berbohong."
+
+Ia berjalan mengitari lempeng, menilai sambungan bawah dan pasak penahan. Tidak ada retak. Tidak ada aus yang cukup untuk memengaruhi bacaan. Hanya residu yang mustahil dimasukkan ke formulir tanpa mengundang pemeriksa lain.
+
+Kovan berdiri kaku di sisi lain. "Dan abunya?"
+
+Maera mencabut lilin dari dudukan. "Residu non-struktural."
+
+"Itu bukan jawaban."
+
+"Itu bahasa Guild. Kau yang meminta."
+
+Ia memasukkan recording wax ke tabung sampel, tetapi tidak mengambil seluruh abu. Lapisan paling tebal di bekas pangkal ibu jari ia angkat memakai kertas serat, cukup untuk dibaca ulang. Sisanya ia campur dengan debu cokelat dari tepi lempeng sampai mata biasa tak mampu memilih warna.
+
+Kovan memperhatikan tangannya. "Kalau pusat mengganti lempeng, mereka akan membacanya."
+
+"Kalau pusat mengganti lempeng, residu ini akan dinilai sebagai kontaminasi kerja. Kecuali ada orang yang menuliskan alasan untuk mencari lebih dalam."
+
+"Saya mengerti."
+
+"Belum." Maera mengunci kotaknya. "Kalau kau mengerti, kau tidak akan menguji bocah itu untuk ketiga kali."
+
+Kovan tidak berjanji. Diamnya cukup jujur untuk dicatat.
 
 ---
 
-Sepanjang jalan naik menuju stasi survei lorong B, kepala Maera melakukan apa yang selalu dilakukannya saat menemukan angka yang tidak cocok. Menghitung ulang dari awal, pelan-pelan, tanpa melewatkan satu baris.
+Di stasi survei lorong B, Maera menutup pintu, menaruh kotak di meja, dan membuka tiga catatan sekaligus.
 
-Fakta satu. Anomali kedalaman L9B — irama tiga detik, sifat organik, "seperti paru" — direkam lengkap minggu lalu, lalu lenyap sempurna dalam semalam. Fakta dua. Kehilangan sinyal itu terjadi tepat sebelum survei Guild tiba, oleh penutupan, bukan oleh peluruhan. Fakta tiga. Hari yang sama, gema Voice-tier seorang penjaga resmi padam dua kali di tengah alur, dipadamkan sesuatu yang tidak meninggalkan tanda tangan. Fakta empat. Satu-satunya titik kontak yang sama di antara semua peristiwa itu adalah anak tungku lima belas tahun bernama Renn — satu-satunya the Survivor lorong tujuh, yang jawaban-jawabannya terlalu berstruktur, yang titik ukurnya terlalu tepat, yang kepalanya "kosong" persis di bagian-bagian yang paling penting.
+Peta pertama memuat titik ukur L9B dengan irama tiga detik yang pernah dibaca inti bor Guild. Peta kedua memuat garis datar dari pengukuran setelah malam kedelapan belas: anomali lenyap tanpa fase peluruhan. Buku lapangannya memuat keterangan tentang Renn—jawaban terlalu tepat, jeda yang dipilih dengan sadar, dan satu nasihat yang terus mengganggunya: tulis siapa yang mendapat untung.
 
-Empat fakta. Satu kesimpulan yang tidak boleh ditulis.
+Kini ada bukti keempat.
 
-Ia mencoba membongkar kesimpulan itu dengan cara-cara biasa. Mungkin abu itu berasal dari lampu yang terbakar tidak sempurna. Mungkin gema Kovan memang gagal karena lempeng aus. Mungkin bocah itu hanya kebetulan berada di persimpangan setiap kali sesuatu terjadi — seperti orang yang kebetulan selalu basah setiap kali hujan. Semua penjelasan itu bisa ditulis. Semuanya masuk formulir. Dan semuanya membutuhkan dia untuk percaya pada kebetulan empat kali berturut-turut, yang secara statistik memiliki kemungkinan lebih kecil daripada menemukan shardmark di jalan.
+Abu itu menyimpan cara, bukan wajah. Siapa pun dapat saja meletakkan tangan pada lempeng sebelum atau sesudah Renn. Namun Kovan telah memberi batas waktu dan nama. Orang yang sama mungkin telah menghentikan anomali L9B, mungkin pula hanya kebetulan berada dekat dua kejadian yang sama-sama berakhir dalam ketiadaan jejak.
 
-Karena jika kesimpulan sebenarnya ditulis — "ada individu di tambang Caldrest yang menggunakan teknik penghapusan gema di luar seluruh registri pengetahuan" — maka laporan itu naik ke biro, biro meneruskannya ke Spire, dan di Spire laporan semacam itu tidak dibaca oleh assayer. Dibaca oleh mereka yang berjubah abu dengan tin thread. the Grey Censure tidak mengirim surat permintaan penjelasan; mereka mengirim daftar nama, dan nama-nama di sekitar nama pertama ikut masuk daftar. Delapan belas tahun silam di utara, yang pertama kali masuk daftar adalah tetangga-tetangga orang yang dicurigai.
+Empat kecocokan bukan kepastian. Empat kecocokan juga bukan kebetulan yang layak dibiarkan tanpa harga.
 
-Maera membayangkan Renn — bocah kurus yang menghitung waktu kematian temannya dengan detik, yang memberinya titik ukur dengan harga perlindungan arsip, yang adiknya menunggu di tangga barak dengan gelas pecah — berdiri di hadapan inkuisitor yang bertanya dengan nada sopan.
+Maera menarik formulir komisi ke tengah meja. Kolom klasifikasi menawarkan pilihan yang sudah dicetak: murmur semu, peluruhan seam alami, gangguan alat, campur tangan artefak, atau eskalasi untuk pemeriksaan secte. Pilihan terakhir akan membawa salinan ke Anthema Spire. Dari sana, satu dugaan tentang seni tak terdaftar cukup untuk memanggil the Grey Censure.
 
-Lalu ia membayangkan dirinya sendiri menjelaskan kepada biro kenapa laporannya memuat "degradasi permukaan non-struktural".
+Ia pernah membaca salinan laporan wilayah utara. Kertasnya sempurna. Stempel lengkap. Angka korban mula-mula dikosongkan, lalu baris kabupatennya hilang dari daftar tahun berikutnya. Kesalahan sebesar itu tidak mungkin dikerjakan satu pembohong; diperlukan banyak orang benar yang menulis hanya bagian aman.
 
-Dua pilihan itu sama-sama buruk, dan itulah definisi dilema yang sesungguhnya. Bukan memilih antara benar dan salah, melainkan antara dua jenis salah dengan korban yang berbeda.
+Ujung pena Maera menggantung di atas kotak eskalasi.
 
-Di stasi survei, ia membuka buku catatan pribadinya — buku hitam kecil yang isinya tidak akan pernah masuk arsip mana pun — dan menulis, setelah lama menimbang setiap kata:
+Jika ia menandainya, bukti terlindungi arsip dan Renn menjadi sasaran. Jika ia tidak menandainya, ia melakukan hal yang selama ini paling dibencinya: membiarkan formulir menentukan batas kenyataan.
 
-"L9B. Tertutup malam ke-18, tangan manusia, tanpa tanda tangan seni mana pun. Persimpangan. Gema Voice-tier dipadamkan dua kali, tanpa tanda tangan. Metode sama. Pelaku sama, kemungkinan besar. Pertanyaan untuk saya sendiri: kenapa seseorang menutup lubang yang membunuh nama, lalu menyembunyikan dirinya dari orang-orang yang seharusnya berterima kasih?"
+Ia menulis di lembar resmi:
 
-Ia membaca kalimat terakhir itu dua kali. Kemudian, di bawahnya, dengan tinta abu-abu yang berbeda dari tinta resminya, ia menulis jawaban sementara yang tidak akan pernah ia ucapkan keras.
+*Pembacaan ulang tidak menghasilkan sinyal berulang. Klasifikasi sementara: murmur semu dengan peluruhan alami. Lempeng persimpangan mengalami degradasi permukaan non-struktural; penggantian berkala disarankan, data komisi tetap sah.*
 
-"Karena orang yang pernah dikenali salah pernah dihukum. Mungkin seribu kali. Mungkin lebih lama dari umur Guild."
+Tiap kalimat dapat dipertahankan dalam pemeriksaan silang. Tidak satu pun memuat bagian terpenting.
 
-Di kantong terdalam tasnya, sepotong kertas berisi usapan abu dari lempeng itu terlipat rapi, disegel dengan lilin pribadi yang bukan ungu — lilin polos tanpa lambang, jenis yang tidak menarik perhatian di pintu pemeriksaan mana pun.
+Maera membenci laporan itu karena rapi.
 
-Di tangga naik menuju permukaan sore itu, ia bertemu Renn — turun shift, wajah lelah, sekop di bahu, langkah kiri lebih dahulu seperti selalu. Keduanya saling menoleh sekali; dua pembaca fakta yang sama-sama tahu ada pertanyaan menggantung di udara antara mereka.
+Ketukan terdengar dua kali di pintu. Seorang petugas Quota Office menyodorkan lembar konfirmasi uji, menunggu stempel, lalu mencoba membaca meja dari ambang.
 
-"Assayer." Bocah itu mengangguk sopan.
+"Hasilnya aman, Assayer?"
 
-"Renn." Maera membalas. Lalu, ketika mereka sudah sejajar dan bersiap lewat, ia menambahkan satu kalimat — pelan, tanpa berhenti melangkah, dengan nada petugas kesehatan yang menyebut jadwal vaksin — "Lorong-lorong tua di sini banyak debu anehnya. Kalau kulitmu tersentuh sesuatu yang tidak kamu kenal, bersihkan sebelum ditanya orang."
+"Hasilnya selesai."
 
-"...Siap, Assayer."
+"Itu bukan hal yang sama."
 
-"Dan Renn." Kali ini ia benar-benar berhenti, setengah badan sudah lebih tinggi. "Terima kasih untuk titik ukurnya minggu lalu. Datanya... mengubah cara saya membaca tambang ini."
+Maera menempelkan stempel Guild. "Bagus. Berarti kau masih bisa membaca."
 
-"Aku hanya menunjukkan tempat."
+Petugas menerima lembar dan pergi tanpa bertanya lagi.
 
-"Iya." Mata assayer itu menghitungnya sekali lagi, dari rambut sampai sepatu, dan senyum kecilnya muncul sebentar seperti goresan pensil. "Tempat yang tepat selalu soal siapa yang menunjuk."
+Setelah pintu tertutup, Maera mengambil buku hitam kecil dari dasar kotak. Buku itu tidak bernomor, tidak memiliki lambang, dan tidak pernah tinggal di kamar saat ia keluar. Ia mencatat waktu, lokasi, dua pemadaman, napas Kovan yang tertahan pada hitungan ketiga, serta sifat residu: abu tanpa sumber pembakaran; menyimpan gema yang dimakan; tindakan lawan tak meninggalkan tanda tangan.
 
-Mereka lanjut masing-masing. Satu naik menuju cahaya, satu turun menuju gelap, dan tidak satu pun menoleh — karena keduanya cukup pintar untuk tahu bahwa menoleh adalah bentuk pertanyaan, dan pertanyaan di antara mereka baru boleh diajukan saat keduanya siap dengan jawabannya.
+Di bawahnya, ia menarik empat garis.
 
-Bukti pertama terlipat rapi di tas Maera. Keputusan belum diambil. Dan di bawah sana, di kedalaman tempat surveinya hampir selesai, orang yang menjadi pusat empat fakta itu sedang mengangkut batu seperti bocah tambang biasa — tidak tahu bahwa namanya sudah masuk ke dalam pertanyaan paling berbahaya di Karvess, pertanyaan yang jawabannya, untuk pertama kalinya dalam karier Maera Tull, sengaja ia biarkan kosong.
+L9B hidup. Seseorang menutupnya.
+
+Penutupan terjadi sebelum survei Guild.
+
+Renn mengetahui titik ukurnya dan jadwal pembacaan.
+
+Residu abu memadamkan penyelidikan Kovan saat penyelidikan menyentuh tubuh Renn.
+
+Kata *residu* membuat pena berhenti. Istilah itu dapat masuk indeks Assayers' Guild, tetapi tidak menjelaskan ketiadaan panas, sumber pembakaran, atau tanda tangan seni. Ia menggores satu garis tipis di bawahnya. Buku pribadi yang ikut berbohong tidak berguna.
+
+Lalu ia menulis pertanyaan yang tak memiliki kotak:
+
+*Mengapa orang yang mampu menghapus bukti memilih menutup lubang yang mengambil nama orang lain?*
+
+Jawaban paling mudah adalah kepentingan. Renn tinggal di barak, bekerja di tambang, melindungi dirinya sendiri. Namun penutupan dilakukan malam sebelum survei, ketika membiarkan anomali terbaca justru dapat menghentikan pekerjaan dan menjauhkan semua orang dari kedalaman. Orang yang hanya ingin selamat akan membiarkan Guild menemukan bahaya.
+
+Orang itu memilih menyelamatkan tambang dari pembacanya juga.
+
+Maera menutup buku sebelum kesimpulan berubah menjadi simpati. Simpati menurunkan standar bukti. Ketakutan menaikkannya sampai tak ada manusia yang lolos. Ia membutuhkan ukuran lain.
+
+Ia menyegel kertas serat dan recording wax dalam dua tabung terpisah. Tabung resmi dikembalikan ke kotak sebagai sampel degradasi. Tabung kedua dibungkus kain, diberi lilin polos tanpa stempel ungu, lalu masuk ke saku tersembunyi di bawah lapisan tas.
+
+Bukti tetap ada. Jalur menuju bukti diputus.
+
+Untuk hari ini, itu salah yang dapat ia tanggung.
+
+---
+
+Menjelang pergantian shift, Maera menunggu di tangga sempit antara tingkat survei dan persimpangan. Batu dinding melepas dingin melalui mantel. Dari bawah datang dentang kait troli, batuk para pekerja, dan bau garam yang terinjak sepatu basah.
+
+Renn muncul bersama regu Brannoc, sekop melintang di bahu. Tubuh bocah itu terlalu kurus untuk langkah setenang itu. Saat melihat Maera, ia tidak berhenti; hanya bergeser memberi jalan.
+
+"Assayer."
+
+"Renn."
+
+Regunya terus naik. Maera menunggu hingga suara mereka tertutup tikungan.
+
+"Uji kesesuaianmu kemarin menghasilkan catatan buruk."
+
+"Saya kira alatnya rusak."
+
+Jawaban patuh, dengan jarak yang sengaja dibangun. Maera mengeluarkan kain pembersih dari saku luar dan mengulurkannya. Ada satu noda kelabu di sudut kain—debu biasa, bukan sampel.
+
+"Lorong tua meninggalkan kotoran yang tidak selalu tampak. Bersihkan tanganmu sebelum orang lain memutuskan membacanya."
+
+Renn menatap kain itu. Tidak mengambilnya.
+
+"Orang lain sudah membaca?"
+
+Pertanyaan tenang tersebut mengubah dugaan menjadi sesuatu yang lebih berat. Maera melipat kain sekali.
+
+"Orang lain membaca apa yang dapat dipertahankan. Sisanya menunggu."
+
+"Menunggu apa?"
+
+"Alasan untuk percaya bahwa lubang di L9B tertutup oleh orang yang sama yang membuat Kovan kehilangan suaranya."
+
+Mata Renn bergerak ke tasnya, tepat ke sisi tempat saku tersembunyi dijahit. Terlalu tepat. Ia lalu memandang ke bawah tangga.
+
+"Kalau alasan itu ditemukan, apa yang Assayer lakukan?"
+
+"Tergantung jawaban satu pertanyaan."
+
+"Pertanyaan apa?"
+
+Maera telah menuliskannya. Mengucapkannya akan memberi Renn kesempatan menyiapkan kebohongan—atau memberinya kebenaran yang belum sanggup ia lindungi.
+
+Ia memasukkan kain kembali ke saku. "Bukan pertanyaan yang aman diajukan di tangga."
+
+Renn mengangguk kecil. "Berarti jangan ajukan di laporan."
+
+"Itu nasihat atau permintaan?"
+
+"Penilaian tempat yang tepat."
+
+Untuk sesaat, Maera hampir tertawa. Bocah itu mengembalikan bahasa yang pernah ia pakai di ruang sampel, lalu menggunakannya sebagai pagar.
+
+"Lempeng persimpangan akan tetap dipakai," katanya. "Kovan tidak akan mengujimu lagi selama ia masih menghargai kariernya. Tidak lama, mungkin."
+
+"Cukup."
+
+"Belum tentu. Ada orang di atas Kovan yang menandatangani perintahnya."
+
+Kali ini wajah Renn tidak memberi apa pun. Hanya jemarinya mengencang sekali pada gagang sekop, lalu lepas.
+
+"Terima kasih atas peringatannya, Assayer."
+
+"Saya belum memperingatkanmu." Maera melangkah melewatinya. "Saya sedang memastikan bukti berikutnya tidak ditemukan orang yang lebih bodoh."
+
+Ia naik tanpa menoleh. Di dalam tas, tabung tanpa lambang mengetuk pelan kotak kayu setiap dua langkah. Laporan resmi akan masuk jalur Guild pagi berikutnya, rapi dan dapat dibela. Buku hitam akan tetap bersamanya. Abu akan tetap mampu bicara.
+
+Pada bordes terakhir, Maera berhenti dan menambahkan satu keputusan pada susunan fakta di kepalanya: sampai Renn menjawab mengapa ia menutup lubang pembunuh nama, pertanyaan itu tidak menjadi milik arsip, the Resonant Choir, atau pemeriksa mana pun dari Anthema Spire.
+
+Untuk sementara, pertanyaan itu tetap bersamanya.

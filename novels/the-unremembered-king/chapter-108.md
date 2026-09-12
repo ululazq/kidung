@@ -57,7 +57,7 @@ Mereka berjalan lagi sampai ujung galeri dan berhenti di dekat nat dasar tempat 
 
 "Dan kebenaranmu?"
 
-"Kejujuranku tetap di sol sepatuku, di mana selama ini." Ia memandang Renn lama, dan tatapan itu mengukur, bukan menuduh, seperti tukang timbang menimbang benda yang tidak diketahuinya jenisnya tetapi tahu beratnya penting. "Empat puluh tahun aku mencari seni yang dibunuh bersama negerinya, dan aku menemukan jejaknya di tambang kaca-batu yang dijaga bocah tungku yang menjawab pertanyaan era lama dengan benar. Aku bisa menjadikan temuan itu mahal di banyak meja. Spire. Biro. Bahkan Guild. Aku memilih menaruhnya di sol sepatu. Kau pernah bertanya kenapa, di dalam kepalamu, dengan cara yang sopan. Inilah jawabannya. Hukuman salah lihat adalah kota. Salah menyerahkan fakta kepada meja yang salah, dan yang mati bukan pemilik fakta. Yang mati kota tempat fakta itu hidup."
+"Kejujuranku tetap di sol sepatuku, di mana selama ini." Ia memandang Renn lama, dan tatapan itu mengukur, bukan menuduh, seperti tukang timbang menimbang benda yang tidak diketahuinya jenisnya tetapi tahu beratnya penting. "Empat puluh tahun aku mencari seni yang dibunuh bersama negerinya, dan aku menemukan jejaknya di tambang cinder-glass yang dijaga bocah tungku yang menjawab pertanyaan era lama dengan benar. Aku bisa menjadikan temuan itu mahal di banyak meja. Spire. Biro. Bahkan Guild. Aku memilih menaruhnya di sol sepatu. Kau pernah bertanya kenapa, di dalam kepalamu, dengan cara yang sopan. Inilah jawabannya. Hukuman salah lihat adalah kota. Salah menyerahkan fakta kepada meja yang salah, dan yang mati bukan pemilik fakta. Yang mati kota tempat fakta itu hidup."
 
 "Kalau begitu peringatanmu malam ini juga demi kota," kata Renn.
 

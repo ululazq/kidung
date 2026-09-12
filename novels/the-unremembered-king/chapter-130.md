@@ -25,9 +25,9 @@ Sela, yang duduk di peti paling rendah dengan papannya di lutut, mengangkat tang
 
 "Lalu kalau kamu belum pulang saat subuh?" Sela bertanya dengan nada yang sudah berlatih, dan jawabannya pun sudah berlatih.
 
-"Maka kamu centang telat di name map, ibu Tamma kabarkan jam itu juga, dan Brannoc buka gudang perkakas ini pakai caranya. Aturan rumah tidak berubah karena pintunya berganti." Ia menatap gadis itu sampai benar-benar diterima, lalu menoleh kepada mandor tua itu. "Masalah sesungguhnya ada di jadwal, bukan di lorong. Patroli lewat jalur katup butuh dua jam empat puluh menit bolak-balik, dan mulai besok setiap menit kita di bawah ada buku catatannya. Susun ulang undian inspeksinya. Aku mau malam-malam yang regunya tertulis tidak turun, dan jam-jam pergantian jaga yang bukunya sedang dipegang orang yang mengantuk."
+"Maka kamu centang telat di name map, ibu Tamma kabarkan jam itu juga, dan Brannoc buka gudang perkakas ini pakai caranya. Aturan rumah tidak berubah karena pintunya berganti." Ia menatap gadis itu sampai benar-benar diterima, lalu menoleh kepada mandor tua itu. "Masalah sesungguhnya ada di jadwal, bukan di lorong. Patroli lewat jalur katup butuh dua jam empat puluh menit bolak-balik, dan mulai besok setiap menit kita di bawah ada buku catatannya. Susun ulang inspection lotterynya. Aku mau malam-malam yang regunya tertulis tidak turun, dan jam-jam pergantian jaga yang bukunya sedang dipegang orang yang mengantuk."
 
-Brannoc mengunyah akar pahitnya, mengangguk sekali, dan berkata bahwa dia sudah mulai menyusunnya sejak gembok pertama naik, karena dia juga bisa membaca arah angin administrasi. Malam-malam buta akan kembali ke jadwal undian, dua pekan sekali, sah di atas kertas, kosong di bawah tanah.
+Brannoc mengunyah akar pahitnya, mengangguk sekali, dan berkata bahwa dia sudah mulai menyusunnya sejak gembok pertama naik, karena dia juga bisa membaca arah angin administrasi. Malam-blind night akan kembali ke jadwal undian, dua pekan sekali, sah di atas kertas, kosong di bawah tanah.
 
 ---
 
@@ -53,7 +53,7 @@ Sejak malam itu, hitungan Ashvarok tercatat begini, dan ia menyimpannya di tempa
 
 Ruang geraknya menyempit menjadi lebar satu telapak tangan, dan anehnya, dari semua tempat di dunia ini, hanya di lorong semacam itu ia merasa tidak asing.
 
-Malamnya Brannoc menyerahkan jadwal undian versi baru di gudang perkakas, tiga malam buta per pekan diselipkan di antara tanggal yang semuanya sah, dan kertas itu digantung balik pintu seperti biasa. Ashvarok membacanya sekali, menyetujui dengan dagu, lalu berdiri lama di depan pintu gudang yang setengah terbuka, memandangi lampu-lampu barak yang padam blok demi blok.
+Malamnya Brannoc menyerahkan jadwal undian versi baru di gudang perkakas, tiga blind night per pekan diselipkan di antara tanggal yang semuanya sah, dan kertas itu digantung balik pintu seperti biasa. Ashvarok membacanya sekali, menyetujui dengan dagu, lalu berdiri lama di depan pintu gudang yang setengah terbuka, memandangi lampu-lampu barak yang padam blok demi blok.
 
 "Pintu-pintu besar sudah milik dia," kata Brannoc di belakangnya. "Cukup untuk membuat kita khawatir?"
 

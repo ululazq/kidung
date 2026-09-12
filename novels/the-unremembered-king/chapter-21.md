@@ -3,90 +3,216 @@ title: "Bab 21: Dua Agenda"
 chapter: 21
 ---
 
-Ossian Vael memasuki Caldrest pada hari kedua puluh lima dengan rombongan yang sengaja dibuat tidak mengesankan: dua gerobak tertutup, empat penjaga berjubah abu yang berpura-pura menjadi pelayan, dan satu dirinya sendiri dengan jubah perjalanan yang tin thread-nya dipilih khusus karena warnanya mirip debu jalan. Kekuasaan yang benar, kata orang-orang yang bekerja untuknya, tidak perlu dikenali sebelum waktunya; ia hanya perlu tiba.
+Caldrest mengumumkan dirinya lewat debu sebelum atap pertamanya tampak.
 
-Sembilan hari di gerobak memberinya banyak waktu untuk membaca, dan dia sudah membaca semuanya dua kali. Laporan bulanan Tharrow yang penuh kalimat sopan tanpa isi. Profil junior assayer Tull beserta riwayat komisinya yang pendek tetapi tajam. Dan daftar pendataan ulang the Quiet Vein untuk seluruh Caldrest — enam ratus dua puluh satu nama, umur, vein status, utang. Enam ratus dua puluh satu manusia yang hidupnya sedang bergeser sedikit demi sedikit karena keputusan yang dibuat di lantai empat puluh sebuah menara jauh di barat. Dia tidak merasa bersalah tentang itu. Rasa bersalah adalah kemewahan orang yang punya waktu.
+Debu cinder-glass masuk dari celah gerobak, menggesek lidah seperti garam halus. Ossian Vael menutup map di pangkuannya lalu menyeka sampul abu-abu itu dengan ibu jari. Bekas usapannya bertahan kurang dari satu tarikan napas. Jalan menanjak, roda berderak, dan debu datang lagi.
 
-Kota tambang menerima kedatangan itu seperti kota kecil menerima segala sesuatu yang lebih besar dari dirinya — dengan diam yang terlalu teratur. Pasar tetap buka, tetapi suara tawar-menawarnya turun setengah tingkat. Anak-anak masih berlari, tetapi berlari ke arah lain. Dan di depan Quota Office, Kel Tharrow menunggu di tangga dengan busana resmi yang disetrika dua kali pagi itu, senyumnya sudah terpasang sejak fajar dan mulai terlihat lelah di sudut-sudutnya.
+Sembilan hari dari Anthema Spire. Cukup lama untuk membaca laporan Kel Tharrow tiga kali dan tetap tidak menemukan satu kalimat yang ditulis tanpa niat menyenangkan atasan. Cukup lama untuk menghafal daftar pendataan ulang: enam ratus dua puluh satu nama, beserta umur, utang, status vein, dan rumah tanggungan. Juga cukup lama untuk menyadari ada satu hal yang tidak ikut bergerak bersama rombongannya.
 
-"Tuan Vael. Kehormatan—"
+Gema dari bawah lereng.
 
-"Overseer Tharrow." Ossian menjabat tangan itu dengan tekanan yang tepat untuk dikenali sebagai sesama orang yang membaca angka. "Perjalanan sembilan hari membuatku menginginkan dua hal: angka dan tempat duduk yang lurus. Kita bisa mulai dari angka."
+Ossian menempelkan dua jari ke dinding gerobak. Resonance Chorus-tier menyebar melalui kayu, turun ke besi roda, lalu meraba batu jalan. Caldrest menjawab dengan getaran tambang, pukulan troli, dan ribuan langkah yang saling menimpa. Di bawah semua itu seharusnya ada tarikan panjang yang direkam peta awal enam pekan lalu—napas seam berpotensi Testament.
 
-Mereka bekerja dua jam di ruang dalam Quota Office, dan Ashvarok — yang tidak berada di dalam ruangan, tidak mendengar apa pun, dan hanya mengetahui isi pertemuan itu dari cara Tharrow keluar dengan punggung sedikit lebih rendah dari saat masuk — kemudian merekonstruksinya dari jejak-jejaknya. Laporan bulanan dibaca ulang dua kali, peta tambang dibuka di halaman yang salah, dan satu cawan teh yang diseduh penuh dikembalikan belum disentuh. Teh yang dingin menyampaikan lebih banyak daripada orang yang menolak minumnya.
+Tidak ada.
 
-Yang ia tahu pasti hanyalah kabar yang beredar lebih cepat dari semua rekonstruksi. Orang berjubah abu itu akan tinggal. Selama survei berlangsung. Mungkin lebih.
+Ketiadaan itu terlalu rata. Peluruhan alami meninggalkan sisa, seperti suara lonceng yang masih menggantung setelah pemukul berhenti. Yang ini dipotong sampai ke pangkal.
 
----
+Ia menarik jarinya saat roda depan melewati gerbang kota.
 
-Maera Tull menerima undangan audiens pada sore harinya, di ruang tamu Quota Office yang disiapkan dengan meja bundar — pilihan furnitur yang tidak pernah tidak disengaja oleh orang seperti Ossian Vael. Meja bundar berarti tidak ada yang memimpin. Juga berarti tidak ada yang duduk di ujung, tempat orang bisa pergi tanpa melewati tuan rumah.
+Dua gerobak, empat penjaga yang mengenakan mantel pelayan, satu pejabat tanpa tanda jabatan. Rombongan itu sengaja tampak cukup kaya untuk tidak diganggu dan cukup biasa untuk cepat dilupakan. Namun pasar Caldrest mengenali kekuasaan melalui akibatnya. Pedagang tetap menawar, hanya volumenya turun. Anak-anak tidak berhenti berlari; mereka memindahkan permainan dari tepi jalan. Seorang pengangkut melepas cincin besi ibu jari dari tali leher dan memasangnya sebelum gerobak lewat.
 
-"Assayer Tull." Ossian berdiri menyambut — bukan duduk lebih dulu. Dia selalu memberi orang kesempatan melihatnya berdiri, karena tinggi badan adalah data juga. "Komisi pertamamu, dan langsung menemukan sesuatu yang membuat pusat mengirimku. Itu rekor yang jarang."
+Di tangga Quota Office, Kel Tharrow menunggu dalam seragam tanpa kerutan. Debu sudah mengaburkan sepatu orang-orang di jalan. Sepatunya masih hitam.
 
-"Atau buruk, tergantung definisi 'sesuatu'." Maera duduk setelah ditunjukkan kursi, kotak kayunya di pangkuan seperti tas perempuan desa. "Tuan Vael datang sembilan hari jalan untuk sebuah anomali yang menurut doktrin klasifikasi hanya murmur semu."
+"Tuan Vael." Tharrow turun dua anak tangga, senyum resminya tiba lebih dahulu. "Caldrest menerima kedatangan Tuan dengan kehormatan—"
 
-"Mungkin aku tidak sepenuhnya percaya pada doktrin kami sendiri." Senyum Ossian kecil, rapi, seperti lipatan surat yang baru dibuka. "Orang yang bekerja di arsip tahu: doktrin adalah ringkasan. Ringkasan selalu memakan detailnya."
+"Simpan kehormatannya untuk laporan triwulan." Ossian turun tanpa menerima tangan yang disodorkan. "Aku perlu kursi yang tidak miring, teh tanpa gula, dan daftar pendataan versi terbaru."
 
-"Kalimat yang aneh dari pejabat secte."
+"Tentu. Kami menyiapkan jamuan kecil."
 
-"Saya bukan pejabat doktrin. Saya pejabat koordinasi artefak." Ia menuangkan air untuk mereka berdua sendiri — gerakan yang disengaja, jenis yang membuat orang merasa sedang bicara dengan manusia, bukan institusi. "Dan saya datang karena koordinasi pekerjaan saya menuntut satu hal. Hasil komisi Anda tidak boleh jatuh ke tangan yang salah. Anomali di bawah kota ini, Assayer Tull, jika diklasifikasi naik — akan bernilai sangat besar. Nilai besar menarik pemburu. Pemburu tidak peduli pada prosedur Guild."
+"Batalkan."
 
-"Karena itu saya bekerja dengan prosedur Guild."
+Senyum Tharrow bertahan, tetapi telunjuknya menyentuh jahitan celana sekali. "Daftar itu belum melalui pemeriksaan akhir."
 
-"Luar biasa sekali." Ossian meletakkan gelasnya, dan dari map abunya — yang sudah menunggu di meja sebelum Maera masuk — ia mengeluarkan satu lembar bersampel resmi, lengkap dengan stempel tin thread. "Surat penawaran. Komisi lanjutan di bawah perlindungan langsung Koordinasi Artefak. Anda melanjutkan penilaian seam ini sebagai proyek bersama, dengan akses arsip penuh secte, perlindungan status, dan honor yang membuat pensiun Anda terjamin pada umur tiga puluh."
+"Karena itu aku meminta versi terbaru, bukan versi selesai."
 
-Maera membaca lembar itu. Semua barisnya. Dua kali. Mata assayer itu menghitung sesuatu di balik huruf-huruf, dan Ashvarok — kalau saja ia ada di ruangan itu — akan mengenali ekspresi tersebut sebagai versi profesional dari wajah Sela membaca kontrak utang.
+Ruang dalam Quota Office berbau lem kertas dan kain lembap. Peta the Underfold memenuhi satu dinding, dengan tambalan perkamen berbeda warna di bagian timur bawah. Ossian memilih kursi menghadap pintu. Tharrow duduk di seberangnya dan membuka buku laporan yang sudah diberi penanda kain pada terlalu banyak halaman.
 
-"Perlindungan status," ulang Maera. "Dari siapa perlindungannya?"
+Dua jam berikutnya membenarkan isi perjalanan sembilan hari: Overseer itu berguna selama setiap tugas dapat diubah menjadi angka, dan berbahaya ketika angka menuntut keberanian. Hasil panen turun setelah survei Guild masuk. Laporan Shift Guard menyebut alat ukur bermasalah. Daftar pekerja memiliki sebelas entri yang diperbaiki dengan tinta berbeda. Tharrow menjelaskan semuanya sebelum ditanya dan tidak satu kali pun menyebut lorong B.
 
-"Dunia."
+Ossian menutup buku.
 
-"Dunia tidak punya pasukan. Yang punya pasukan biasanya butuh sesuatu digembok." Ia meletakkan surat itu kembali di tengah meja bundar, tepat di garis batas wilayah antara mereka. "Tuan Vael, saya akan jujur secara prosedural. Komisi saya milik Assayers' Guild. Hasilnya masuk arsip Guild dengan jalur yang sudah ditulis di surat tugas saya. Kolaborasi lintas lembaga membutuhkan persetujuan biro — yang bisa diminta Tuan Vael lewat jalur resmi, bukan lewat meja bundar ini."
+"Besok pagi bawa sebelas berkas pekerja yang kutandai. Malam ini kirim daftar lengkap ke penginapan."
 
-"Prosedural sampai akhir. Saya menghargai itu." Ossian memutar gelas airnya seperempat putaran di atas meja; bayangannya ikut berputar, pelan, seperti jarum yang menghitung. "Maka izinkan satu pertanyaan prosedural. Dalam laporan Anda, anomali kedalaman diklasifikasikan sesuai buku pegangan — murmur semu, peluruhan alami. Apakah Anda menulisnya karena Anda mempercayainya... atau karena Anda tahu persis kalimat apa yang aman untuk ditulis?"
+"Enam ratus dua puluh satu nama?"
 
-Ruangan itu sunyi. Di luar jendela, terompet shift sore bersuara jauh, dan suara troli pertama yang turun ke tambang terdengar seperti napas panjang yang dihela tanpa gemuruh yang terukur.
+"Kalau jumlahnya berubah selama perjalanan dari kantor ini ke kamarku, ikut kirim alasan perubahan."
 
-"Saya menulis klasifikasi yang didukung data yang bisa saya pertahankan di bawah pemeriksaan silang," jawab Maera, dengan hati-hati seorang penambang melangkah di atas retakan. "Itu definisi bekerja setiap assayer."
+Tharrow membasahi bibir. "Ada hal tertentu yang Tuan cari?"
 
-"Tentu. Tentu saja." Kepala Ossian tertunduk sedikit — pengakuan, atau tiruannya. "Hanya saja, delapan belas tahun silam ada assayer senior yang menulis klasifikasi yang sama untuk wilayah utara. Namanya Vessik Halder. Dia pensiun dengan pensiun penuh, rumah di tepi danau, dan meninggal damai umur tujuh puluh." Jeda. Satu tarikan napas. "Empat puluh ribu orang di kabupaten itu tidak mendapat kesempatan pensiun, tetapi laporannya tetap rapi. Prosedur, Assayer Tull, adalah alat yang bekerja untuk siapa pun yang memegangnya."
+"Ada." Ossian berdiri. "Kepatuhanmu."
 
-Maera Tull tidak menjawab. Tetapi tangannya yang letih di pangkuan bergeser sedikit — menutup kotak kayunya lebih rapat — dan Ossian mencatat pergerakan kecil itu dengan ketelitian yang sama seperti ia mencatat semuanya. Gadis ini tahu tentang utara. Tidak semuanya. Cukup.
+Ia meninggalkan cawan teh tetap penuh. Di lorong luar, salah satu pelayannya menunggu dengan map tipis yang tidak tercantum di daftar barang bawaan. Surat penawaran bagi Maera Tull masih tersegel. Tanggal di bawahnya ditulis sebelum Assayer muda itu tiba di Caldrest.
 
-Keheningan setelah kalimat itu panjangnya tepat. Cukup lama untuk sopan, cukup pendek untuk jujur.
-
-"Anda tahu," kata Ossian akhirnya, dan nadanya tidak berubah sama sekali, "bahwa anomali di lorong B hilang seminggu sebelum survei Anda sampai. Laporan Anda menyebutnya peluruhan alami sesuai klasifikasi. Data saya dari jalur lain menyebutkan hal yang sama, di hari yang sama." Ia berdiri, meluruskan jubahnya, dan tersenyum senyum yang sudah dipakainya untuk tiga puluh dua tahun tanpa pernah sekali pun bocor. "Saya percaya data Anda, Assayer Tull. Saya hanya ingin Anda ingat satu hal ketika menimbang surat ini. Kebetulan yang terlalu rapi jarang alami. Dia biasanya diatur."
-
-Ia meninggalkan ruangan dengan rombongan yang menyesuaikan langkahnya, dan meninggalkan Maera Tull duduk sendirian dengan meja bundar, surat penawaran yang tidak diambil, dan kesadaran dingin bahwa orang berjubah abu itu baru saja memberitahunya — dengan bahasa kesopanan penuh — bahwa dia tahu anomali itu ditutup tangan manusia, tahu waktunya, dan memilih untuk tidak bertanya selama jawabannya masih bisa diarahkan ke mana pun yang dia mau.
-
-Maera duduk beberapa saat lagi dengan dua gelas air di depannya — satu milik tuan rumah, satu dituangkan untuknya dan tidak disentuh. Kemewahan yang sama, dipakai dengan cara yang sama, oleh orang-orang yang menganggap kesopanan adalah investasi. Di luar, sore perlahan menguning; bau batu yang panas sepanjang hari mulai melepaskan kembali dinginnya ke udara.
-
-Dia membaca ulang surat penawaran itu sekali lagi sebelum meninggalkan ruangan, dan kali ini tidak membaca isi tawarannya; dia membaca asumsinya. Surat ini ditulis jauh sebelum audiens ini — tanggalnya lebih tua dari kedatangan Ossian Vael di Caldrest, bahkan mungkin lebih tua dari kedatangan dirinya sendiri. Orang itu datang ke kota tambang yang belum dia lihat, untuk anomali yang belum dinilai tuntas, sambil membawa surat yang sudah selesai ditulis.
-
-Di Caldrest minggu ini ada empat jenis orang, kata orang itu: pencari batu, pencari uang, pencari jalan pulang, dan pencari tahu.
-
-"Dan Tuan Vael," gumam Maera pada ruangan kosong, menyimpan surat itu ke dalam kotak kayunya bersama bukti-bukti lain yang tidak boleh ditemukan siapa pun, "adalah yang kelima. Pencari yang menulis akhir ceritanya lebih dulu."
-
-Dua agenda bertemu sore itu, dan keduanya pulang dengan kesimpulan yang sama tentang lawannya. Terlalu tajam untuk dibeli murah.
+Rencana yang baik tidak menunggu data terakhir. Rencana yang bertahan adalah rencana yang bisa memakan data baru tanpa mengubah bentuk.
 
 ---
 
-Di penginapan distrik atas, kamar yang disewa atas nama fiktif, Ossian membuka catatan tinta abunya dan menulis tiga baris malam itu:
+Ruang tamu Quota Office dipasangi meja bundar untuk audiensi sore. Ossian tidak menyukai meja bundar, tetapi orang lain sering menganggap bentuk itu menjanjikan kesetaraan. Kesalahan kecil semacam itu membuat percakapan lebih murah.
 
-Caldrest — survei Guild hampir selesai, hasil bisa diarahkan. Junior assayer tidak bisa dibeli dengan uang — cari harga yang benar. Overseer lokal — patuh tetapi bocor, jangan diberi lebih banyak dari yang perlu.
+Maera Tull datang tepat waktu, membawa mini weighing box di kedua tangan. Tidak ada asisten Guild, tidak ada juru tulis. Mantelnya menyimpan bau batu basah dari tambang. Pada tepi manset kiri, serbuk putih menempel di satu garis sempit, sementara kukunya bersih. Ia telah bekerja lalu mencuci tangan dengan tergesa.
 
-Lalu ia duduk di jendela untuk beberapa waktu, memperhatikan kota tambang itu memasuki malamnya. Dari lantai empat puluh Anthema Spire, kota-kota tampak seperti diagram. Angka-angka yang bergerak, garis-garis pasokan, kotak-kotak dengan nama. Dari jendela penginapan di Caldrest, mereka adalah cahaya-cahaya kecil di mana ada orang-orang makan malam, menghitung upah, menidurkan anak. Jarak membuat orang objektif; kedekatan membuat orang efektif. Ossian sudah lama memilih efektif.
+"Assayer Tull." Ossian tetap berdiri sampai Maera memilih kursi. "Komisi lapangan pertama, lalu pusat mengirim pejabat sembilan hari perjalanan. Kebanyakan orang memasukkan itu ke riwayat kerja."
 
-Tetapi malam itu, untuk alasan yang tidak dia catat, matanya berhenti pada satu cahaya di distrik penambang — barak kayu rendah dengan jendela yang menyala kuning hangat — lebih lama dari fungsi pengamatan mana pun. Di dalamnya pasti ada keluarga. Ada selalu keluarga di tempat-tempat seperti itu. Dunia terus memproduksinya tanpa diminta, seperti rumput di reruntuhan.
+"Kebanyakan orang menunggu tahu apakah pejabatnya datang membawa pujian atau sapu." Maera meletakkan kotak di pangkuan. "Tuan Vael membawa empat penjaga. Sapu biasanya tak butuh sebanyak itu."
 
-Dia mengedipkan cahaya itu dari pikirannya dan kembali ke meja.
+"Dua penjaga."
 
-Satu hal lagi yang tidak dia tulis di catatan mana pun. Di gerobak menuju kota, melewati lereng timur, dia pernah menutup mata dan merasakan tambang di bawahnya — kebiasaan pengikat, membaca gema besar sebuah tempat seperti membaca suhu ruangan. Dan yang dia rasakan adalah kota bawah tanah yang sunyi dengan cara yang salah. Tidak ada anomali. Tidak ada murmur liar, tidak ada sinyal seam purba yang bocor — padahal peta awal bersumpah ada sesuatu di sana enam pekan lalu.
+"Kalau begitu dua pelayan Tuan punya bahu orang yang dibayar untuk mematahkan pintu."
 
-Kesimpulan yang bisa dipilih ada dua. Satu, peta awal salah. Dua, seseorang sudah bekerja di kedalaman itu dengan tingkat kerapian yang membuat seluruh arsip secte-nya terlihat seperti coretan anak.
+Ossian menuangkan air. Maera memperhatikan gelasnya, bukan tangannya.
 
-Ossian Vael sudah dua puluh tahun tidak percaya pada kemungkinan nomor satu.
+"Laporan sementaramu menyebut murmur semu," katanya. "Doktrin kami sepakat. Mengapa kotakmu masih penuh?"
 
-Lalu, setelah berpikir, baris keempat:
+"Karena komisi saya belum selesai."
 
-Daftar nama pendataan minta besok. Baca sendiri. Faktor tak dikenal selalu punya nama — kadang hanya nama pinjaman.
+"Kalau hasilnya sudah diketahui, empat hari sisanya pemborosan."
+
+"Kalau hasilnya sudah diketahui sebelum pengukuran selesai, seluruh komisinya pemborosan."
+
+Jawaban itu bersih. Tidak cepat, tidak lambat. Ossian mendorong gelas ke sisi meja yang dekat dengannya. Maera tidak menyentuhnya.
+
+Ia membuka map tipis, memutar surat penawaran agar stempel tin thread menghadap tamunya. "Regional Artifact Coordination menawarkan komisi lanjutan. Akses arsip Choir, perlindungan status, laboratorium Spire, honor penuh selama satu tahun. Kau tetap menilai objek yang sama."
+
+"Untuk siapa?"
+
+"Untuk pihak yang mampu menjaganya."
+
+"Bukan itu pertanyaan saya."
+
+"Pihak yang membayar biasanya menjadi jawaban prosedural."
+
+Maera mematahkan segel dengan kuku ibu jari. Ia membaca dari baris pertama sampai ruang tanda tangan, membalik lembar, memeriksa bagian belakang, lalu kembali ke tanggal.
+
+"Surat ini berumur hampir dua pekan."
+
+"Persiapan menghemat waktu."
+
+"Komisi saya bahkan belum menghasilkan klasifikasi sementara ketika surat ini ditulis."
+
+"Namun kini menghasilkan klasifikasi yang kami duga."
+
+"Jadi Tuan tidak datang karena laporan saya." Maera mengembalikan lembar itu ke meja. "Tuan datang untuk memastikan laporan saya berakhir di tempat yang sudah Tuan siapkan."
+
+Di luar jendela, terompet pergantian shift membelah sore. Sesaat kemudian tanah mengirim getaran troli-troli yang mulai turun. Irama kerja biasa; padat, kasar, mudah dibaca. Di bawahnya, kerapian kosong itu tetap ada.
+
+Ossian merapatkan tutup kendi. "Aku datang karena benda bernilai besar mengundang orang yang tidak menghormati stempel ungu Guild. Perlindungan bukan penghinaan, Assayer."
+
+"Perlindungan yang mensyaratkan hasil masuk ke meja Tuan lebih dulu punya nama lain."
+
+"Kerja sama."
+
+"Pengambilalihan."
+
+Satu kata itu dibiarkan di meja. Maera tidak meninggikan suara. Tangannya pun tidak berubah posisi di atas kotak. Hanya ibu jari kirinya menutup pengait kuningan, memastikan benda di dalam tidak dapat terbuka tanpa bunyi.
+
+Ossian menunjuk surat. "Honor di sana cukup untuk membuatmu berhenti menerima tugas tambang sampai umur tiga puluh."
+
+"Saya menyukai tugas tambang."
+
+"Semua orang punya harga."
+
+"Benar. Itu sebabnya saya membaca syarat, bukan angkanya."
+
+Ia hampir tersenyum. Bukan karena jawaban itu lucu. Maera baru saja memberitahunya bahwa tawaran bisa bekerja bila ia menemukan mata uang yang tepat, dan pada saat yang sama memperingatkan bahwa uang bukan mata uang tersebut.
+
+"Kalau begitu kita bicara prosedur," kata Ossian. "Laporanmu mencatat anomali lorong B lenyap karena peluruhan alami. Catatan jalurku menyebut sinyalnya ada, lalu hilang dalam satu malam. Tidak menurun. Hilang. Kau tetap bersedia mempertahankan kata alami dalam pemeriksaan silang?"
+
+Mata Maera berpindah dari surat ke wajahnya. "Saya mempertahankan data yang bisa dibuktikan."
+
+"Itu jawaban berbeda."
+
+"Itu jawaban seorang Assayer."
+
+"Delapan belas tahun lalu, Vessik Halder memberi jawaban serupa tentang wilayah utara. Murmur semu, peluruhan musiman, tidak ada dasar intervensi." Ossian menahan ujung jarinya tetap diam di meja. "Dia pensiun penuh. Rumah di tepi danau. Satu kabupaten yang hilang dari pembukuan tidak mendapat apa pun."
+
+Pengait kotak Maera berbunyi lirih. Tekanannya terlalu kuat.
+
+"Apakah Tuan menuduh laporan saya akan membunuh orang?" tanyanya.
+
+"Aku mengingatkan bahwa laporan rapi dapat mengubur lebih banyak daripada laporan salah."
+
+"Dan surat Tuan akan mencegah itu?"
+
+"Suratku menempatkan hasilmu di tangan orang yang tahu apa nilainya."
+
+"Itulah bagian yang saya takutkan."
+
+Tidak ada amarah dalam kalimat tersebut. Ketepatannya lebih buruk. Ossian memandang Assayer muda di seberang meja: mantel murah, kotak kecil, karier yang masih cukup pendek untuk dihancurkan satu keberatan dari Spire. Ia seharusnya mudah digeser. Alih-alih, Maera memakai kelemahannya sebagai tempat berdiri. Orang tanpa jabatan besar dapat berlindung di balik aturan karena tak punya apa pun selain aturan.
+
+"Komisimu milik Guild," katanya.
+
+"Ya."
+
+"Arsipnya dapat diminta melalui perjanjian lintas lembaga."
+
+"Benar."
+
+"Biro pusatmu menyukai dana kami."
+
+"Kemungkinan besar."
+
+"Jadi penolakanmu hanya menambah meja yang harus kulewati."
+
+"Kemudian lewatilah." Maera mendorong surat itu ke tengah, tetapi tidak melepasnya. "Ajukan permintaan resmi. Cantumkan tingkat akses, batas wewenang, hak salinan, dan siapa yang bertanggung jawab jika objek rusak selama pemindahan. Kalau biro menyetujui, saya patuh. Sampai saat itu, data komisi tidak keluar dari jalur Guild."
+
+Ossian mengetuk satu kali pada permukaan meja. "Kau baru saja memberiku petunjuk cara mengambil pekerjaanmu."
+
+"Saya baru saja memberi Tuan cara gagal mengambilnya diam-diam."
+
+Terompet shift telah berhenti. Dari jalan naik bau minyak lampu dan logam panas. Ossian mendengar seorang pegawai menutup daun jendela di ruang sebelah, kait bawah lebih dahulu, lalu atas. Orang-orang Caldrest menutup sesuatu dengan urutan yang sama setiap hari. Kebiasaan menciptakan jalur masuk bagi siapa pun yang sabar mengamatinya.
+
+"Bawa suratnya," katanya.
+
+"Saya belum menerima tawaran."
+
+"Bawa sebagai bahan pertimbangan."
+
+"Kalau begitu saya catat sebagai dokumen yang diterima selama audiensi." Maera memasukkannya ke bawah tutup kotak. "Bukan perjanjian."
+
+Kotak itu terkunci. Kini suratnya berada bersama benda-benda yang tidak mau diperlihatkan Maera. Bukan hasil yang ia rencanakan, tetapi hasil berguna: secarik kertas Choir baru saja memperoleh jalur sah masuk ke arsip pribadi Assayer.
+
+"Lima hari lagi komisi selesai," kata Ossian. "Sebelum itu, pikirkan satu hal. Kebetulan yang terlalu bersih biasanya hasil pekerjaan. Apa pun yang menutup lorong B mengetahui jadwalmu, atau cukup kuat untuk tidak memedulikannya."
+
+Maera berdiri. "Tuan juga datang membawa surat sebelum hasilnya ada. Saya akan memikirkan kebetulan mana yang lebih bersih."
+
+Ia pergi dengan kotak dipeluk dekat tubuh. Ossian menunggu sampai langkahnya hilang di lorong, lalu menyentuh gelas di hadapan kursi kosong. Airnya masih penuh.
+
+Assayer itu tidak bisa dibeli murah. Belum berarti tidak bisa diarahkan.
+
+---
+
+Malam menekan Caldrest ke lereng dalam petak-petak cahaya kuning. Dari jendela penginapan distrik atas, Ossian dapat membedakan Quota Office, mulut jalan menuju the Underfold, dan barak panjang di timur. Di Anthema Spire, kota-kota tampak sebagai simpul pasokan. Dari jarak ini, orang membuka pintu, membawa mangkuk, mengangkat anak yang tertidur dari bangku.
+
+Ia menutup tirai.
+
+Daftar pendataan menunggu di meja, masih hangat dari tangan kurir. Enam ratus dua puluh satu nama. Sebelas lembar berpenanda. Laporan Tharrow. Salinan survei sementara Maera. Ia menyusun semuanya berdasarkan tanggal, bukan sumber.
+
+Pola pertama muncul sebelum lilin turun selebar kuku: anomali lenyap sesudah seorang pekerja lorong tujuh memberi titik ukur tepat kepada Guild. Pola kedua: uji vein penjaga pusat gagal dua kali pada pekerja yang sama, lalu alat dinyatakan rusak. Pola ketiga: laporan bulanan Tharrow menyebut faktor tak dikenal dengan tata bahasa orang yang takut menulis nama.
+
+Ossian membuka daftar pada bagian R.
+
+Renn. Lima belas tahun. Pekerja tungku. the Survivor lorong tujuh. Vein besar kosong. Utang sembilan puluh enam shardmark. Satu tanggungan.
+
+Nama pinjaman tidak selalu palsu. Kadang nama itu pernah milik seseorang, lalu dipakai sesuatu yang membutuhkan pintu.
+
+Ia mengambil kertas instruksi.
+
+Pertama, pertemuan kedua dengan Tharrow besok pagi. Tidak diundang lewat jalur resmi. Kedua, berkas prioritas dikirim menggunakan kurir barak lorong tujuh yang biasa dipakai kantor pos. Jika pekerja bernama Renn hanya bocah tambang, surat sampai tanpa akibat. Jika seseorang mengawasi jalur antara penginapan dan Quota Office, jalur itu akan bergerak. Ketiga, Kovan tidak diberi jawaban—hanya fakta bahwa alatnya gagal dua kali. Orang yang malu akan menggali lebih dalam daripada orang yang diperintah.
+
+Di bawah ketiga baris itu, Ossian menulis untuk dirinya sendiri:
+
+Semua gerakan berikutnya diam-diam. Jangan sentuh faktor sebelum tahu apa yang disentuh balik.
+
+Ia melipat instruksi bagi petugas pos, lalu menggeser daftar enam ratus dua puluh satu nama ke sisi kanan meja. Renn tetap terbuka di tengah, ditahan pemberat tinta.
+
+Di bawah lantai, jauh melewati pondasi penginapan, Caldrest masih sunyi dengan kerapian buatan. Ossian memadamkan lilin terakhir. Nama pada halaman itu menjadi satu-satunya benda yang tetap tertangkap cahaya dari celah tirai.

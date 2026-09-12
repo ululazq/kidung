@@ -15,9 +15,9 @@ Ashvarok-Renn memandang ke arah batu itu lama.
 
 "Tidak," jawab Ashvarok-Renn. "Dia bilang *penerus*. Dan dia benar." Ia bangkit, meluruskan pakaian bocah tungku yang sudah dua tahun ini tidak pernah benar-benar rapi, dan berkata kepada ketiga temannya: "Kalian dengar dari tempat duduk kalian. Yang ini untukku duduk dekat."
 
-Maka malam itu terjadi: empat orang duduk melingkar di reruntuhan menara jaga yang tidak tercatat peta mana pun, api kecil menyala rendah sesuai aturan pegunungan, dan seam saksi tertua dunia membacakan laporan pertamanya.
+Maka malam itu terjadi: empat orang duduk melingkar di reruntuhan menara jaga yang tidak tercatat peta mana pun, api kecil menyala rendah sesuai aturan pegunungan, dan the Witness Seam tertua dunia membacakan laporan pertamanya.
 
-Laporannya dimulai bukan dari malam Pembakaran Nama.
+Laporannya dimulai bukan dari malam the Name-Burning.
 
 Ia dimulai delapan puluh tahun lebih awal — dari hari ketika seekor kambing liar pertama kali duduk menghadapnya, dan seorang penjaga muda menara tertawa dan berkata, "Nah, kau punya langganan pertama."
 
@@ -29,7 +29,7 @@ Dan Sela, yang mendengarkan sambil mencatat, menyadari di sepertiga jalan bahwa 
 
 Ini bukan cerita tentang menara.
 
-Ini cara makhluk penyimpan mengatakan *inilah keluargaku* — dan malam Pembakaran Nama, yang semua orang tunggu-tunggu, baru akan datang setelah para pendengar mengenal dulu orang-orang yang akan hilang di malam itu.
+Ini cara makhluk penyimpan mengatakan *inilah keluargaku* — dan malam the Name-Burning, yang semua orang tunggu-tunggu, baru akan datang setelah para pendengar mengenal dulu orang-orang yang akan hilang di malam itu.
 
 ---
 
@@ -73,7 +73,7 @@ Namun malam ini ia tidak langsung mendengarkan. Ia duduk dengan telapak di permu
 
 Irama batu menunggu.
 
-"Anak-anak Sekolah Mendengar dari dua belas cabang minta cerita asli tentang raja abu-abu. Dunia mulai bertanya, dan pertanyaannya datang dari arah yang benar kali ini. Anak-anak. Yang belum memutuskan apa pun." Ia berhenti sebentar. "Dan ibu dapur Caldrest menyuruhku menyampaikan: supnya harus ada saat cerita itu dibacakan pertama kali. Bukan simbol. Sup."
+"Anak-anak the Listening School dari dua belas cabang minta cerita asli tentang raja abu-abu. Dunia mulai bertanya, dan pertanyaannya datang dari arah yang benar kali ini. Anak-anak. Yang belum memutuskan apa pun." Ia berhenti sebentar. "Dan ibu dapur Caldrest menyuruhku menyampaikan: supnya harus ada saat cerita itu dibacakan pertama kali. Bukan simbol. Sup."
 
 Irama yang menjawab begitu panjang sampai Barim — yang terbangun oleh getaran tanah dan mendekat pelan dari tendanya — harus duduk untuk menerjemahkannya bertahap.
 
@@ -90,7 +90,7 @@ Di atas mereka, bintang-bintang dataran tinggi berputar pelan seperti ribuan mal
 Bedanya, malam ini, ada empat orang dan satu batu yang tidur dengan tenang di bawahnya — dan jauh di selatan, di sudut kamar barak utara, sebuah kotak timah berisi nada lima panglima menunggu gilirannya dibaca, tidak sadar sedikit pun bahwa enam pekan lagi ia akan pulang ke lagunya.
 ---
 
-Pagi harinya, sebelum berangkat, empat orang menyelesaikan hal yang oleh protokol musim disebut penutup batch, dan oleh ibu Tamma disebut "beres-beres dapur".
+Pagi harinya, sebelum berangkat, empat orang menyelesaikan hal yang oleh the Seasonal Protocol disebut penutup batch, dan oleh ibu Tamma disebut "beres-beres dapur".
 
 Kovan menyusun ulang hitungan bekal dengan temuan baru: sisa sup kering cukup untuk dua pekan, jalur pulang lewat pos jemput utara bisa memangkas dua hari, dan musim hujan abu diperkirakan turun tepat setelah mereka tiba di Caldrest — angka yang olehnya dicatat dengan garis bawah ganda, karena hujan abu di atas kota yang punya jaringan nat tiga generasi bukan lagi bencana kecil.
 
@@ -108,14 +108,14 @@ Batu bundar menjawab sebelum Barim sempat menerjemahkan — iramanya sudah begit
 
 Mereka berangkat subuh. Di tepi reruntuhan, tiga kambing gunung berdiri dan menghadapi arah perjalanan mereka sampai hilir di balik bukit pertama.
 
-Dan di bawah tanah, merambat pelan mengikuti jejak kaki empat orang itu, sebuah kabar berjalan menuju seluruh nat Karvess — kabar yang oleh nat-nat diteruskan dalam irama yang belum pernah dipakai siapa pun sebelumnya, irama yang oleh Yang Dulu Sunyi di barak utara menerima dan langsung mengenali sebagai kabar baik:
+Dan di bawah tanah, merambat pelan mengikuti jejak kaki empat orang itu, sebuah kabar berjalan menuju seluruh nat Karvess — kabar yang oleh nat-nat diteruskan dalam irama yang belum pernah dipakai siapa pun sebelumnya, irama yang oleh the Once-Silent di barak utara menerima dan langsung mengenali sebagai kabar baik:
 
 *Saudaraku yang ketujuh sudah didengar. Mulai sekarang, tujuh-tujuhnya.*
 ---
 
 Perjalanan pulang hari pertama berlangsung dengan suasana yang tidak pernah mereka alami pada perjalanan berangkat.
 
-Setiap nat lereng yang mereka lewati menyala lebih dulu sebelum mereka tiba. Setiap kamp menyediakan air hangat tanpa diminta. Di pos jemput utara, Wida sang kakak pos sudah menunggu dengan sup panas dan pertanyaan yang langsung ke intinya: "Kabar dari dataran tinggi sampai kemarin malam. Yang Dulu Sunyi tidak tidur semalaman, terus mengulang irama baru itu. Sekarang ceritakan semuanya dari awal, Nak. Dan pelan-pelan. Kabar sebagus ini sayang kalau habis cepat."
+Setiap nat lereng yang mereka lewati menyala lebih dulu sebelum mereka tiba. Setiap kamp menyediakan air hangat tanpa diminta. Di pos jemput utara, Wida sang kakak pos sudah menunggu dengan sup panas dan pertanyaan yang langsung ke intinya: "Kabar dari dataran tinggi sampai kemarin malam. the Once-Silent tidak tidur semalaman, terus mengulang irama baru itu. Sekarang ceritakan semuanya dari awal, Nak. Dan pelan-pelan. Kabar sebagus ini sayang kalau habis cepat."
 
 Mereka bercerita sampai larut.
 

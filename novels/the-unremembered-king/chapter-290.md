@@ -17,13 +17,13 @@ Pellia Muda tersenyum. "Bukan tertutup. Diperluas. Dulu lingkaran itu hanya bara
 
 ---
 
-Hari Utara kelima tidak dipimpin oleh tokoh-tokoh lama.
+Northern Day kelima tidak dipimpin oleh tokoh-tokoh lama.
 
-Untuk pertama kalinya sejak delapan belas tahun perayaan itu lahir, yang berdiri di atas panggung aula bukan Ashvarok-Renn, bukan ibu Tamma, bukan Brannoc. Yang berdiri adalah murid-murid Sekolah Mendengar angkatan keempat — mereka yang delapan belas tahun silam masih anak-anak di barak, kini dewasa, memegang daftar nama di tangan.
+Untuk pertama kalinya sejak delapan belas tahun perayaan itu lahir, yang berdiri di atas panggung aula bukan Ashvarok-Renn, bukan ibu Tamma, bukan Brannoc. Yang berdiri adalah murid-murid the Listening School angkatan keempat — mereka yang delapan belas tahun silam masih anak-anak di barak, kini dewasa, memegang daftar nama di tangan.
 
 "Kami yang baca tahun ini," kata Pellia Muda ke aula penuh. "Bukan karena yang tua tidak bisa. Namun karena delapan belas tahun lalu mereka yang mulai. Sekarang giliran kami meneruskan napas mereka."
 
-Daven, yang duduk di baris pertama sebagai tamu, mengangguk pelan. Di sebelahnya, Sela mencatat di papan kecilnya: *Hari Utara ke-5 dipimpin murid. Generasi bergeser, nama tetap dinyanyikan.*
+Daven, yang duduk di baris pertama sebagai tamu, mengangguk pelan. Di sebelahnya, Sela mencatat di papan kecilnya: *Northern Day ke-5 dipimpin murid. Generasi bergeser, nama tetap dinyanyikan.*
 
 ---
 
@@ -31,7 +31,7 @@ Pembacaan nama berlangsung dalam tiga gelombang, seperti delapan belas tahun sil
 
 "Mereka belum pergi," kata Pellia Muda. "Namun nama mereka sudah kami catat, supaya kelak kalau mereka pergi, tidak ada yang perlu mencari dari nol."
 
-Yang Dulu Sunyi, di barak utara, menyala terang mendengar nama-nama itu. Getarnya berirama pelan, lalu perlahan berubah menjadi lagu yang belum pernah dinyanyikan siapa pun.
+the Once-Silent, di barak utara, menyala terang mendengar nama-nama itu. Getarnya berirama pelan, lalu perlahan berubah menjadi lagu yang belum pernah dinyanyikan siapa pun.
 
 Bukan name train biasa. Ini lagu baru — daftar semua yang sudah pergi sejak era dimulai, disusun bukan menurut wilayah, melainkan menurut siapa yang mengenang mereka terakhir.
 
@@ -65,7 +65,7 @@ Saat matahari mulai turun, Pellia Muda menutup pembacaan dengan kalimat yang del
 
 Lalu ia menyerahkan daftar itu ke murid angkatan kelima yang duduk di lantai depan — anak-anak yang delapan belas tahun lagi akan berdiri di panggung yang sama.
 
-Yang Dulu Sunyi menutup lagunya dengan satu detak panjang, lalu sunyi. Bukan sunyi kosong seperti delapan ratus tahun silam. Sunyi yang berisi, sunyi yang tahu ada ribuan nama menemaninya.
+the Once-Silent menutup lagunya dengan satu detak panjang, lalu sunyi. Bukan sunyi kosong seperti delapan ratus tahun silam. Sunyi yang berisi, sunyi yang tahu ada ribuan nama menemaninya.
 
 Barim, yang duduk paling dekat dengan nat itu, membacakan getar terakhir dengan suara pelan agar semua di aula mendengar terjemahannya: *Kalian masuk lagu. Itu tempat paling awet.*
 
@@ -123,15 +123,15 @@ Malamnya, di meja yang sama di barak the Quiet Vein, tokoh-tokoh tua duduk berje
 
 Ossian mengangguk pelan, lalu mengangkat cangkir teh tanpa kata — salam dari pensiunan untuk pensiunan. Maera menyentuh cangkirnya ke cangkir Ossian, pelan.
 
-Yang Dulu Sunyi, di barak utara, menutup malam dengan satu denyut hangat yang bisa didengar sampai ke meja mereka. Bukan nama. Bukan lagu. Hanya satu detak yang berarti: *masih ada.*
+the Once-Silent, di barak utara, menutup malam dengan satu denyut hangat yang bisa didengar sampai ke meja mereka. Bukan nama. Bukan lagu. Hanya satu detak yang berarti: *masih ada.*
 
-Sela menutup papan tulisnya dan menulis satu baris terakhir di bawah semua catatan Hari Utara ke-5: *Generasi bergeser. Lagu tetap. Rumah tetap rumah.*
+Sela menutup papan tulisnya dan menulis satu baris terakhir di bawah semua catatan Northern Day ke-5: *Generasi bergeser. Lagu tetap. Rumah tetap rumah.*
 
 Lalu lampu aula dipadamkan, dan untuk pertama kalinya, yang menjaga nyala bukan lagi satu raja yang tidak tidur, melainkan ribuan nama yang sudah diajarkan cara menjaga dirinya sendiri.
 
 ---
 
-Keesokan paginya, Sela duduk di bangku sekolah menyusun semua papan tulis kecilnya dari delapan belas tahun perayaan Hari Utara. Satu papan untuk tiap tahun, bertumpuk rapi di atas meja.
+Keesokan paginya, Sela duduk di bangku sekolah menyusun semua papan tulis kecilnya dari delapan belas tahun perayaan Northern Day. Satu papan untuk tiap tahun, bertumpuk rapi di atas meja.
 
 Ashvarok-Renn lewat, berhenti sejenak. "Kau simpan semua itu?"
 
@@ -139,4 +139,4 @@ Ashvarok-Renn lewat, berhenti sejenak. "Kau simpan semua itu?"
 
 Ashvarok-Renn mengangguk. "Itu satu-satunya pelajaran yang tidak pernah usang."
 
-Ia berjalan lagi, meninggalkan Sela dengan tumpukan papan yang menyimpan delapan belas tahun napas sebuah kota — dan di barak utara, nat-nat menyala satu per satu, mencatat Hari Utara kelima ke dalam ingatan batu mereka, sebagai hari ketika generasi yang diajar akhirnya jadi yang mengajar.
+Ia berjalan lagi, meninggalkan Sela dengan tumpukan papan yang menyimpan delapan belas tahun napas sebuah kota — dan di barak utara, nat-nat menyala satu per satu, mencatat Northern Day kelima ke dalam ingatan batu mereka, sebagai hari ketika generasi yang diajar akhirnya jadi yang mengajar. Di dapur, sup tetap hangat sampai rombongan terakhir kembali bersama.

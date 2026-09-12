@@ -7,9 +7,9 @@ Komisi audit peta hari-H dibuka pada pagi hari kedelapan puluh tujuh di ruang be
 
 Maera sudah memahami sejak surat Spire turun bahwa audit tahun ini tidak akan seperti audit tahun-tahun sebelumnya. Peta hari-H bukan lagi sekadar peta. Dalam sembilan hari terakhir peta itu berubah menjadi fondasi — dasar bagi klasifikasi yang kini disupervisi Koordinasi, dasar bagi izin-izin yang sedang dipersiapkan di balai kota, dan kelak dasar bagi panen resmi yang harus dicatat triwulanan. Fondasi yang dicap dua institusi dan diaudit satu komisi — itulah cara dunia besar membangun di atas kertas, dan kertas yang menjadi fondasi selalu dikunjungi ulang oleh orang-orang yang membawa obor.
 
-Ia duduk di kursi pembanding internal, dan sejak menandatangani perannya bulan-bulan lalu ia belajar satu hal tentang kursi itu. Kursinya paling rendah di ruangan, dan justru karena itu paling sulit digeser.
+Ia duduk di kursi pembanding internal, dan sejak menandatangani perannya sekitar tujuh pekan lalu ia belajar satu hal tentang kursi itu. Kursinya paling rendah di ruangan, dan justru karena itu paling sulit digeser.
 
-Pembaca komisi datang tepat waktu. Pejabat audit regional — lelaki paruh baya dengan cincin Guild di ibu jari kanan dan kebiasaan membalik setiap lembar dari pojok, bukan dari pinggir — dan juru ukur komisi, perempuan tua yang jarinya masih hitam tinta pemetaan meski sudah bertahun-tahun tidak turun ke lapangan. Yang keluar dari urutan hanya satu. Di sudut ruangan duduk juru tulis muda bersampul abu, utusan supervisi administratif Koordinasi Artefak Regional, yang haknya di ruangan ini hanya satu — mendengar.
+Pembaca komisi datang tepat waktu. Pejabat audit regional — lelaki paruh baya dengan cincin Guild di ibu jari kanan dan kebiasaan membalik setiap lembar dari pojok, bukan dari pinggir — dan juru ukur komisi, perempuan tua yang jarinya masih hitam tinta pemetaan meski sudah bertahun-tahun tidak turun ke lapangan. Yang keluar dari urutan hanya satu. Di sudut ruangan duduk juru tulis muda bersampul abu, utusan supervisi administratif Regional Artifact Coordination, yang haknya di ruangan ini hanya satu — mendengar.
 
 "Pasal baru," kata pejabat audit itu saat menyapa Maera, dengan nada orang yang tidak suka pada pasal baru tetapi patuh pada pasal mana pun. "Klasifikasi segmen kedalaman Caldrest kini ada di bawah supervisi biro mereka. Jadi mereka boleh mendengar. Mereka tidak boleh menulis."
 
@@ -53,7 +53,7 @@ Diskusi yang mengikutinya berlangsung empat puluh menit, dan Maera menghitungnya
 
 "Atas nama Guild," jawab Maera sebelum siapa pun sempat, "perbaikan ini bukan redaksional. Ini perbaikan substansi tentang apa yang dikatakan saksi dan apa yang tidak."
 
-Pasal yang ia pegang sudah ia hafal sejak mal sebelum komisi dibuka. Berita acara yang terbukti mengandung suntingan pasca-segel dapat diperbaiki oleh komisi audit lewat pembacaan ulang saksi, dan perbaikan itu menjadi bagian tak terpisahkan dari naskah, lengkap dengan tanggal dan tanda tangan semua pembaca yang hadir. Pasal tua. Pasal yang hampir tidak pernah dipakai karena hampir tidak perlu — dan justru karena itu tidak bisa dibantah siapa pun.
+Pasal yang ia pegang sudah ia hafal sejak malam sebelum komisi dibuka. Berita acara yang terbukti mengandung suntingan pasca-segel dapat diperbaiki oleh komisi audit lewat pembacaan ulang saksi, dan perbaikan itu menjadi bagian tak terpisahkan dari naskah, lengkap dengan tanggal dan tanda tangan semua pembaca yang hadir. Pasal tua. Pasal yang hampir tidak pernah dipakai karena hampir tidak perlu — dan justru karena itu tidak bisa dibantah siapa pun.
 
 Pada akhirnya pejabat audit mundur dengan cara orang yang mundur ke benteng: "Bacakan ulang kalimat Anda, Assayer Tull. Persis."
 
@@ -65,7 +65,7 @@ Ia tidak menambahkan apa pun tentang dais. Tidak tentang geometri, tidak tentang
 
 ---
 
-Selesai rapat, di ruang kerja sewaannya, Maera membuka kotak timbung mini, mengambil salinan berita acara yang sah — satu-satunya salinan yang berbunyi sama dengan naskah induk — dan meletakkannya di lapisan bawah kotak, di bawah sketsa dari selatan, tempat barang-barang penting tidur. Di buku hitamnya ia menulis satu baris:
+Selesai rapat, di ruang kerja sewaannya, Maera membuka mini weighing box, mengambil salinan berita acara yang sah — satu-satunya salinan yang berbunyi sama dengan naskah induk — dan meletakkannya di lapisan bawah kotak, di bawah sketsa dari selatan, tempat barang-barang penting tidur. Di buku hitamnya ia menulis satu baris:
 
 Hari 87. Halaman 9, baris 14: dua tinta. Diperbaiki. Salinan aman.
 

@@ -9,15 +9,15 @@ Namun iramanya berbeda.
 
 Delapan bulan silam, irama yang sama membawa kabar sakit — pelan, hati-hati, seperti orang melaporkan cuaca yang belum pasti. Kali ini iramanya tenang. Selesai. Dan karena itu, bagi semua pendengar alami Karvess, lebih berat dari kabar apa pun.
 
-"IA TIDAK SAKIT LAGI," kata Yang Dulu Sunyi meneruskan pesan biara barat. "ITU KABAR BAIKNYA. KABAR BURUKNYA: KAMI KEHILANGAN GURU TERBAIK KAMI SOAL CARA MENUTUP MATA."
+"IA TIDAK SAKIT LAGI," kata the Once-Silent meneruskan pesan biara barat. "ITU KABAR BAIKNYA. KABAR BURUKNYA: KAMI KEHILANGAN GURU TERBAIK KAMI SOAL CARA MENUTUP MATA."
 
-Pembaca Tua wafat sebelum subuh, dalam tidurnya, di kamar menara arsip biara barat — di antara gulungan-gulungan yang tidak pernah ia hentikan merawat, dengan surat-surat keluarga the Quiet Vein tersimpan rapi di laci yang olehnya ditunjuk sebagai "kotak hati" sejak kunjungan pertama Arsiparis muda itu.
+the Old Reader wafat sebelum subuh, dalam tidurnya, di kamar menara arsip biara barat — di antara gulungan-gulungan yang tidak pernah ia hentikan merawat, dengan surat-surat keluarga the Quiet Vein tersimpan rapi di laci yang olehnya ditunjuk sebagai "kotak hati" sejak kunjungan pertama Arsiparis muda itu.
 
 Ia meninggalkan tiga wasiat. Semuanya singkat, sesuai hidupnya.
 
-Wasiat pertama: seluruh arsip jabatan — empat puluh generasi rekaman kematian api, salinan-salinan diam, kotak pertanyaan dua belas gulungan — diwariskan bukan kepada penerus jabatannya (yang sudah pensiun), tetapi kepada Akademi Arsip the Quiet Vein. "Karena arsip diam sudah selesai bekerja. Sekarang ia harus belajar tinggal di tempat yang bicara."
+Wasiat pertama: seluruh arsip jabatan — empat puluh generasi rekaman kematian api, salinan-salinan diam, kotak pertanyaan dua belas gulungan — diwariskan bukan kepada penerus jabatannya (yang sudah pensiun), tetapi kepada the Quiet Vein Archive Academy. "Karena arsip diam sudah selesai bekerja. Sekarang ia harus belajar tinggal di tempat yang bicara."
 
-Wasiat kedua: semua buku milik pribadinya dibagikan kepada murid-murid Sekolah Mendengar cabang terdekat, "supaya anak-anak tahu bahwa orang tua punya masa muda yang juga bingung".
+Wasiat kedua: semua buku milik pribadinya dibagikan kepada murid-murid the Listening School cabang terdekat, "supaya anak-anak tahu bahwa orang tua punya masa muda yang juga bingung".
 
 Dan wasiat ketiga — satu kalimat, ditulisan tangan yang sudah goyah:
 
@@ -29,7 +29,7 @@ Rapat keluarga the Quiet Vein untuk pengantaran digelar siang itu, dan keputusan
 
 Yang berangkat: Ashvarok-Renn, Sela, dan Barim. Pilihan yang oleh Sela dicatat di arsip dengan penjelasan yang setengah lucu setengah benar: "Arsiparis (karena wasiatnya soal arsip), pendengar (karena yang wafat adalah penjaga mendengarkan), dan raja (karena yang wafat adalah orang pertama yang memverifikasinya secara resmi). Plus sup kering dua belas hari, karena ibu Tamma tidak percaya hitungan Kovan soal durasi duka."
 
-Sebelum berangkat, satu tamu datang ke barak: murid Maera — kepala Lengan Mendengar kedua, perempuan muda hasil rekomendasi Guild — membawa sumbangan secte lamanya untuk prosesi pemakaman: segel lilin putih-abu baru, tanpa jahitan tin, dengan satu lambang sederhana yang oleh secte diciptakan khusus untuk mantan Pembaca Tua terakhir mereka:
+Sebelum berangkat, satu tamu datang ke barak: murid Maera, perempuan muda hasil rekomendasi Guild, membawa sumbangan secte lamanya untuk prosesi pemakaman: segel lilin putih-abu baru, tanpa jahitan tin, dengan satu lambang sederhana yang oleh secte diciptakan khusus untuk mantan the Old Reader terakhir mereka:
 
 Gambar telinga terbuka di atas buku tertutup.
 
@@ -50,7 +50,7 @@ Di biara barat, jenazah laki-laki tua itu sudah disiapkan sesuai permintaannya: 
 
 "Katanya," kata kepala biara muda yang menggantikan jabatannya, "tambalan itu bukti dia pernah bekerja cukup lama sampai bajunya kalah."
 
-Pengiriman ke Vhal-Duren dilakukan dengan formasi yang oleh Ashvarok-Renn disusun ulang dari protokol musim: bukan tiga pendengar dan lilin, tetapi empat orang pengangkut bergantian (Ashvarok-Renn, Sela, Barim, dan kepala biara muda yang meminta ikut), satu nat pengiring lewat jalur tanah, dan satu aturan baru yang dibuat Sela khusus untuk perjalanan ini:
+Pengiriman ke Vhal-Duren dilakukan dengan formasi yang oleh Ashvarok-Renn disusun ulang dari the Seasonal Protocol: bukan tiga pendengar dan lilin, tetapi empat orang pengangkut bergantian (Ashvarok-Renn, Sela, Barim, dan kepala biara muda yang meminta ikut), satu nat pengiring lewat jalur tanah, dan satu aturan baru yang dibuat Sela khusus untuk perjalanan ini:
 
 *Setiap kali rombongan berhenti beristirahat, bacakan satu cerita tentang yang wafat. Supaya ia tidak menempuh perjalanan terakhirnya sebagai nama asing.*
 
@@ -65,7 +65,7 @@ Batu bundar itu sudah menyiapkan tempat.
 
 Di sisi timurnya — persis menghadap arah yang diminta delapan tahun silam — tanah rata seluas dua orang dewasa, bersih rumput, hangat seperti permukaannya sendiri. Disiapkan bukan hari itu. Tanah rata itu tua; bekas dudukan puluhan tahun, dirawat diam-diam oleh kambing-kambing langganan yang kebetulan — atau tidak kebetulan — memang suka duduk di situ.
 
-"IA MEMESANNYA PADAKU," kata Yang Mendengar Sampai Habis lewat jalur tanah, nadanya pelan sekali. "DELAPAN TAHUN SILANG. DIA BILANG: 'SAUDARAKU YANG BUNDAR, KALAU SUATU HARI AKU BERHENTI BICARA, SISIHKAN SEBUAH TEMPAT DI SISIMU. AKU INGIN PERTAMA KALI DALAM HIDUPKU DIDENGARKAN SECARA PERMANEN.'"
+"IA MEMESANNYA PADAKU," kata the Listener to the End lewat jalur tanah, nadanya pelan sekali. "DELAPAN TAHUN SILANG. DIA BILANG: 'SAUDARAKU YANG BUNDAR, KALAU SUATU HARI AKU BERHENTI BICARA, SISIHKAN SEBUAH TEMPAT DI SISIMU. AKU INGIN PERTAMA KALI DALAM HIDUPKU DIDENGARKAN SECARA PERMANEN.'"
 
 "Ia tidak pernah bilang itu permintaan kubur," kata Barim.
 
@@ -81,7 +81,7 @@ Lalu name train pertama untuknya naik dari empat telapak tangan yang menyentuh t
 
 Nama yang selama delapan puluh tahun disembunyikan jabatannya.
 
-Nama yang oleh Sela akhirnya boleh ditulis di arsip resmi, karena jabatan Pembaca Tua telah resmi berakhir dan segala rahasianya menjadi milik dunia.
+Nama yang oleh Sela akhirnya boleh ditulis di arsip resmi, karena jabatan the Old Reader telah resmi berakhir dan segala rahasianya menjadi milik dunia.
 
 Dan nama itu — kata Barim yang menerjemahkan irama balasan dari semua nat — oleh batu-batu disambut dengan kalimat yang sama:
 
@@ -90,7 +90,7 @@ Dan nama itu — kata Barim yang menerjemahkan irama balasan dari semua nat — 
 
 Sebelum rombongan pulang dari dataran tinggi, satu hal terakhir dilakukan di makam itu — bukan upacara, hanya kunjungan tetangga.
 
-Yang Mendengar Sampai Habis memutar sesuatu yang belum pernah diputarkannya kepada siapa pun: rekaman yang selama empat puluh tahun ia simpan diam-diam tanpa diminta, karena saksi memang tidak pernah memilih apa yang layak disimpan.
+the Listener to the End memutar sesuatu yang belum pernah diputarkannya kepada siapa pun: rekaman yang selama empat puluh tahun ia simpan diam-diam tanpa diminta, karena saksi memang tidak pernah memilih apa yang layak disimpan.
 
 Suara tawa.
 
@@ -98,11 +98,11 @@ Tawa laki-laki tua itu — direkam tanpa sepengetahuannya oleh batu bundar pada 
 
 Empat pendengar duduk di rumput dan mendengarkan tawa itu dua kali.
 
-"IA MEMINTA SATU TEMPAT DI SISIKU," kata Yang Mendengar Sampai Habis. "DIA TIDAK MEMINTA KUBURAN YANG SUNYI. MAKA SETIAP MALAM AKU AKAN MEMUTARKAN INI SEKALI — SUPAYA DIA TIDAK PERLU MULAI MENJADI PENJAGA DIAM LAGI."
+"IA MEMINTA SATU TEMPAT DI SISIKU," kata the Listener to the End. "DIA TIDAK MEMINTA KUBURAN YANG SUNYI. MAKA SETIAP MALAM AKU AKAN MEMUTARKAN INI SEKALI — SUPAYA DIA TIDAK PERLU MULAI MENJADI PENJAGA DIAM LAGI."
 
 Sela menutup arsip perjalanannya dengan entri terakhir:
 
-*Hari 846. Pembaca Tua terakhir dimakamkan di Vhal-Duren, menghadap timur, dekat sahabatnya. Namanya kini boleh ditulis di mana pun; aku pilih menulisnya di sini sekali saja, karena dia lebih suka pekerjaan bicara daripada nama.*
+*Hari 846. the Old Reader terakhir dimakamkan di Vhal-Duren, menghadap timur, dekat sahabatnya. Namanya kini boleh ditulis di mana pun; aku pilih menulisnya di sini sekali saja, karena dia lebih suka pekerjaan bicara daripada nama.*
 
 *Rekaman tawanya disimpan batu sahabatnya, diputar tiap malam.*
 

@@ -3,342 +3,236 @@ title: "Bab 255: Dua Tahun Era Menyapa"
 chapter: 255
 ---
 
-Neraca tahun kedua era menyapa dibuka di aula Caldrest — dan untuk pertama kalinya, dibacakan oleh TIGA orang:
+Neraca tahun kedua era menyapa dibuka di aula Caldrest setelah matahari tenggelam. Meja panjang yang biasanya dipenuhi buku latihan malam itu hanya menampung satu buku besar, tiga cangkir teh, dan sebuah nat pos dari Spire.
 
-Ashvarok-Renn (dua suara satu kalimat) dan Sela lewat nat pos dari Spire, suaranya disiarkan resonansi langsung.
+Ashvarok-Renn berdiri di belakang meja. Di dalam tubuh yang sama, keduanya sudah membagi halaman yang akan dibaca. Sela mendapat bagian ketiga dari kejauhan. Ibu Tamma, yang menolak duduk karena masih mengawasi panci di dapur aula, mendapat hak menyela kapan saja.
 
-Tiga keluarga the Quiet Vein. Satu neraca. Terpisah jarak, bersatu irama.
+"Hak menyela bukan bagian protokol," kata Kovan dari bangku depan.
 
----
+"Sekarang bagian protokol," jawab ibu Tamma. "Catat."
 
-"TAHUN KEDUA," mulai Ashvarok, "adalah tahun sekolah."
+Kovan membuka buku kecilnya. "Sudah."
 
-Renn melanjutkan: "Angkatan 3: 52 murid dari 10 wilayah. Angkatan pertama Sekolah Mendengar cabang Vel-Morra berdiri — dengan guru tamu Gorvel yang enam puluh dua tahun baru belajar membaca tenunan."
+Tawa bergerak mengitari aula. Murid-murid tiga angkatan duduk bercampur dengan guru, pekerja lorong, pedagang, para pendatang Vel-Morra, dan keluarga yang merawat nat asuhan. Tidak ada kursi kehormatan. Renn yang meminta susunannya begitu: neraca milik semua orang, jadi semua orang duduk pada tinggi yang sama.
 
-Sela dari Spire: "Akademi Arsip Tinggi menerima metode 'Arsip = Ingatan yang Dibagi' sebagai mata pelajaran wajib semester ini. Guru saya mengaku belajar dari seorang murid dua belas tahun."
+Nat pos di atas meja menyala. Irama Sela datang jernih dari Spire.
 
-Ashvarok: "Nat asuhan berkembang dari 73 menjadi 156. Jaringan batu tiga generasi kini hadir di setiap barak, pasar, dan jalur pendakian."
+"Kak, aku dengar aula."
 
-Renn: "Pasal Menyapa resmi di tiga wilayah lagi. Dunia luar tidak lagi bertanya 'apakah batu bisa bicara'. Mereka bertanya 'bagaimana cara mendengarkannya'."
+Renn mendekatkan wajah ke batu. "Kami juga dengar kamu."
 
-Sela: "Dan Caldrest... Caldrest menjadi tempat yang didatangi dunia bukan untuk minta tolong — tetapi untuk belajar cara menolong."
+"Ibu Tamma ada?"
 
-Ibu Tamma (dari dapur, berseru): "DAN SUPNYA ENAK!"
+"Aku di sini," sahut ibu Tamma dari pintu dapur. "Kamu sudah makan?"
 
-Aula tertawa. Lalu hening untuk bagian terakhir.
+"Sudah, Bu."
 
----
+"Jawaban terlalu cepat. Berarti belum cukup."
 
-Ashvarok melangkah maju. Renn bersiap di dalam — kesepakatan mereka: bagian terakhir dibacakan BERSAMA.
+Tawa kedua lebih keras. Jarak antara Caldrest dan Spire menyusut menjadi satu meja, satu suara, dan satu ibu yang tetap dapat memeriksa isi perut anaknya dari kota lain.
 
-"Empat ratus jiwa dipulangkan. Empat puluh sembilan anak lahir. Dua sekolah berdiri. Tiga generasi nat saling menjaga. Satu dunia yang setahun silam tidak tahu Caldrest ada... sekarang mengirim anak-anaknya untuk belajar menyapa."
+Ashvarok mengetuk sampul buku besar tiga kali. Aula tenang.
 
-Irama nat aula menghangat.
+"Tahun kedua," katanya, "adalah tahun sekolah."
 
-"Dan keluarga the Quiet Vein bertumbuh: satu adik di menara langit, dua penghuni satu tubuh, satu ibu dapur yang supnya tidak pernah dingin, dan tujuh puluh tiga batu kecil yang menganggap lorong barak ini rumah."
+Renn mengambil kalimat berikutnya. "Angkatan ketiga: lima puluh dua murid dari sepuluh wilayah. Mereka datang dengan bahasa, kebiasaan, dan cara menyapa yang berbeda. Mereka lulus tanpa diminta menjadi sama."
 
-Jeda. Ashvarok dan Renn bicara bersama:
+Daven dan Pellia, yang kini lebih sering berdiri di sisi guru daripada di bangku murid, saling menepukkan telapak tangan. Di belakang mereka, murid-murid angkatan ketiga menjawab dengan tiga ketukan panen pada permukaan bangku.
 
-"Dua tahun era menyapa.
+"Cabang the Listening School di Vel-Morra berdiri," lanjut Ashvarok. "Guru tamunya Gorvel, yang membuktikan bahwa terlambat belajar bukan alasan untuk terus memilih tidak tahu."
 
-Dan kalimat penutupnya tetap sama seperti hari pertama:
+Gorvel mengangkat tangan dari sisi aula. "Tulis juga bahwa murid-muridku lebih cepat membaca tenunan daripada gurunya."
 
-Kita masih di sini. Semua."
+"Itu sudah masuk lampiran," kata Kovan.
 
----
+Vessia menahan senyum. "Lampirannya tebal."
 
-Seluruh aula berdiri. Tepuk tangan panen — tiga ketukan, satu hentakan — bergema dari ratusan dada.
+Nat pos menghangat, lalu suara Sela mengambil giliran.
 
-Nat-nat kecil di seluruh kota menyala serentak, meneruskan irama itu ke seluruh jaringan batu Karvess.
+"Dari the High Archive Academy Spire: metode ‘Arsip adalah Ingatan yang Dibagi’ diterima sebagai mata pelajaran wajib. Guru saya masih menyebutnya prinsip baru. Saya sudah tiga kali menjelaskan bahwa prinsip itu lahir di barak, dari keluarga yang takut kehilangan nama satu sama lain."
 
-Dan Kael-Uthar, api purba lembah selatan, menjawab dari jauh dengan nyala yang terlihat sampai langit malam:
+"Mereka percaya?" tanya Renn.
 
-"DUA TAHUN ERA MENYAPA. SERIBU TAHUN MENUNGGU SELESAI.
+"Setelah aku tunjukkan surat-surat kalian yang selalu datang dalam tiga hari."
 
-SELAMAT, KARVESS.
+"Termasuk cerita lucunya?"
 
-DUNIA YANG KALIAN BANGUN... ADALAH DUNIA YANG DULU KAMI MIMPIKAN."
+"Terutama cerita lucunya. Kisah ibu Tamma membuat sup tenun sekarang dipakai guru saya untuk menjelaskan catatan lapangan yang tidak boleh dibersihkan sampai kehilangan bentuk asalnya."
 
----
+Ibu Tamma muncul di pintu dengan sendok kayu terangkat. "Itu bukan sup gagal. Itu penelitian."
 
-Dan penutup bab — dari ibu Tamma, tentu saja:
+"Aku mencatat persis begitu, Bu," kata Sela.
 
-"Neraca tahun kedua sudah dibaca. Bagus. Lengkap. Menyentuh.
+Ashvarok menunggu aula kembali tenang. Kehangatan nat pos menetap di telapak tangannya. Sela tidak berdiri di antara mereka, tetapi suaranya mengisi tempat yang telah disiapkan untuknya. Kursinya di barak tetap kosong; kedudukannya di keluarga tidak pernah kosong.
 
-Namun aku mau tambahkan satu hal yang tidak masuk angka:
+Renn membuka halaman berikutnya.
 
-Tahun ini dapur kami memasak untuk sembilan budaya, tiga generasi, dua dunia, dan satu api purba.
+"Nat asuhan berkembang dari tujuh puluh tiga menjadi seratus lima puluh enam. Jaringan batu tiga generasi kini hadir di barak, pasar, sekolah, dan jalur pendakian. Anak-anak tetap menjadi penyapa pertama. Orang dewasa bertugas memastikan semangat mereka tidak berubah menjadi pekerjaan tanpa istirahat."
 
-Tidak ada satu pun yang pulang dengan perut kosong.
+Kembar Tami-Tomi serentak mengangkat tangan.
 
-Itu neraca yang paling aku banggakan."
+"Kami juga membuat jadwal cadangan," kata Tami.
 
-Ia menutup buku dapurnya.
+"Dan jadwal cadangan untuk jadwal cadangan," sambung Tomi.
 
-"Selamat tahun baru era menyapa. Sekarang semua pulang tidur — besok dapur buka lagi."
+"Kalian membuat tujuh jadwal," kata Kovan.
 
----
+"Karena orang dewasa sering lupa jadwal pertama."
 
-Dan di halaman terakhir neraca tahunan — halaman yang oleh Sela dikirim khusus dari Spire untuk dibacakan malam itu — tertulis pesan penutup dari keluarga the Quiet Vein:
+Tak seorang pun membantah. Ashvarok menunduk sejenak agar senyumnya tidak mengganggu pembacaan resmi.
 
-"UNTUK PEMBACA DI MASA DEPAN:
+Namun Tami tidak menurunkan tangannya. Tomi pun berhenti tersenyum.
 
-Dua tahun ini kami belajar bahwa dunia bisa berubah lewat hal-hal kecil: bertanya, mendengar, memasak, menenun, dan mengetuk meja tiga kali.
+"Ada alasan lain kami membuat tujuh," kata Tami. "Nat kecil di jalur pendakian timur tidak menjawab dua pagi lalu. Kami kira dia marah karena penyapanya terlambat."
 
-Tidak ada yang besar. Namun semuanya nyata.
+Suara bangku yang berderit mendadak terdengar jelas. Ashvarok menutup halaman dengan telapak tangan. Angka seratus lima puluh enam kehilangan kilaunya; di dalam jaringan, satu kesunyian tetap harus dihitung sebagai satu kehidupan yang membutuhkan perhatian.
 
-Kalau duniamu sedang rusak — mulailah dari satu pertanyaan kecil pada satu orang di sebelahmu.
+"Kalian naik sendiri?" tanya Renn.
 
-Kami jamin: delapan bulan kemudian, dunia tidak akan sama lagi.
+Tomi mengangguk. "Kami membawa teh hangat untuk tangan. Bukan untuk nat. Kami tahu nat tidak minum."
 
-— Keluarga the Quiet Vein
-Ashvarok. Renn. Sela.
-(dan ibu Tamma, yang supnya membuat semuanya mungkin)"
+"Siapa orang dewasa yang mendampingi?"
 
----
+Kedua anak itu saling pandang. Jawaban mereka tidak perlu keluar.
 
-Dan satu baris terakhir dari nat lorong barak utara — Yang Dulu Sunyi, Teman Semua Anak, Jembatan Sejarah, Nat Keluarga the Quiet Vein:
+Ibu Tamma meletakkan sendok kayunya di ambang pintu. Bunyi kecil itu memotong aula lebih tajam daripada bentakan. "Jadwal cadangan bukan pengganti orang dewasa," katanya.
 
-"BUKU BESAR PEMULANGAN KARVESS: SELESAI.
+"Kalau menunggu, nat itu bisa tetap sendirian," balas Tami. Nada suaranya tidak menantang; justru itulah yang membuat Ashvarok sulit menyela. Anak itu telah memilih risiko karena orang yang semestinya menjaga tidak hadir.
 
-NERACA ERA MENYAPA: BERJALAN.
+Vessia bergeser ke tepi bangku. "Apa yang kalian temukan?"
 
-CERITA KELUARGA THE QUIET VEIN: MASIH DITULIS.
+"Salju menutup sisi yang menghadap jalan," jawab Tomi. "Dia masih menyala di bawahnya, tapi terlalu lemah untuk meneruskan sapaan. Kami membersihkan salju dan duduk sampai iramanya kembali."
 
-DAN AKU? AKU AKAN DI SINI. MENYIMPAN SEMUANYA. SAMPAI SELAMANYA."
+"Berapa lama?" tanya Kovan.
 
----
+"Empat jam," kata Tami.
 
-Dan subuh berikutnya — pagi pertama tahun ketiga era menyapa dimulai seperti semua hari baik Karvess:
+Renn memandang para guru dan pekerja lorong, bukan kedua anak itu. "Mulai besok, setiap jadwal anak punya satu nama pendamping. Bukan kolom 'orang dewasa tersedia'. Nama. Kalau nama itu tidak datang, giliran dibatalkan dan pemeriksa jalur yang mengambil alih."
 
-Ibu Tamma membuka dapur. Nat-nat kecil disapa anak-anak. Pintu Sekolah Mendengar terbuka lebar. Sela mengirim kabar dari Spire. Brannoc mengecek lorong. Kovan mulai menghitung sesuatu yang belum pernah dihitung.
+"Kalau nat sedang butuh?" Tomi bertanya.
 
-Dan dua jiwa dalam satu tubuh berjalan di tengah semuanya —
+Ashvarok membuka kembali buku besar, lalu mendorongnya ke arah Kovan. "Maka anak melapor dan orang dewasa bergerak. Keberanian mereka tidak boleh menjadi alasan kita menyerahkan bahaya kepada mereka. Catat sebagai koreksi neraca, bukan teguran."
 
-menjaga dunia dari dalam,
+Kovan menulis cepat. Ibu Tamma mengambil sendoknya lagi.
 
-bersama keluarga yang tidak pernah berhenti bertanya.
+"Dan dua penyapa jalur timur bebas tugas selama tujuh hari," katanya.
 
----
+"Tujuh?" protes Tami-Tomi bersamaan.
 
-Dan kalau ada yang bertanya kapan cerita ini benar-benar berakhir —
+"Satu hari untuk setiap jadwal yang kalian buat karena kami lalai. Kalian boleh datang ke dapur dan mengajari orang dewasa cara membaca jadwal pertama."
 
-jawabannya sudah tertulis di papan aula Caldrest, tulisan tangan Sela yang dikirim dari Spire, ditempel di samping sembilan bahasa "selamat belajar":
+Kali ini tawa aula tidak menutupi kesalahan. Tawa itu menerimanya, lalu memberi tempat bagi aturan baru.
 
-"Cerita ini tidak berakhir.
+"Pasal Menyapa diterapkan di tiga wilayah lagi," lanjutnya. "Utusan yang datang ke Caldrest tidak lagi bertanya apakah batu dapat berbicara. Mereka bertanya berapa lama manusia harus belajar diam agar mampu mendengar."
 
-Ia hanya menunggu bab berikutnya ditulis oleh siapa pun yang datang dengan hati terbuka.
+"Apa jawaban resmi kita?" tanya seorang murid dari bangku belakang.
 
-Mungkin itu kamu."
+Renn menjawab sebelum Ashvarok sempat membuka lampiran. "Selama yang dibutuhkan orang di depanmu."
 
-— Keluarga the Quiet Vein dan seluruh Karvess
+"Itu tidak terukur," protes Kovan, meski penanya sudah bergerak.
 
----
+"Bagus," kata Vessia. "Tidak semua hal perlu dipaksa masuk tabel."
 
-Dan satu kalimat terakhir dari ibu Tamma — yang menutup buku neraca tahunan dan sekaligus menutup bab 255:
+"Kalimat itu juga saya catat."
 
-"Semua sudah bagus.
+Sela tertawa melalui resonansi. Suara itu sempat pecah menjadi dengung kecil, lalu kembali utuh.
 
-Sarapan dulu."
+"Bagian Spire belum selesai," katanya. "Tahun ini Caldrest didatangi pelajar dari wilayah yang dahulu bahkan tidak mencantumkannya di peta pendidikan. Mereka datang bukan untuk meminta penyelamatan. Mereka datang untuk belajar cara menolong tanpa mengambil suara orang yang ditolong."
 
----
+Aula tidak langsung bertepuk tangan. Beberapa orang menunduk, mengingat masa ketika bantuan selalu berarti perintah dari luar. Lompa menyentuh tepi kain yang tergantung di dinding. Vessia merapatkan kedua tangannya di pangkuan. Tepuk pertama datang dari Gorvel, lambat dan tunggal. Yang lain menyusul sampai bunyinya memenuhi langit-langit batu.
 
-Dan kalimat itu — "sarapan dulu" — oleh Sela dikutip di halaman pertama arsip era ketiga, dengan catatan:
+Ashvarok membalik halaman. Bagian angka selalu paling berat karena tiap bilangan membawa wajah.
 
-"Ini bukan sekadar kalimat.
+"Empat ratus jiwa dipulangkan," katanya.
 
-Ini filosofi Karvess: sebelum menghadapi dunia besar apa pun — perang, pemulangan, perubahan konstitusi, perpisahan anak —
+Renn meneruskan, "Empat puluh sembilan anak lahir."
 
-manusia butuh tiga hal: sup hangat, meja panjang, dan orang yang bertanya 'kamu sudah makan?'.
+Sela berkata dari Spire, "Dua sekolah berdiri."
 
-Kami punya ketiganya.
+Ashvarok membaca, "Tiga generasi nat saling menjaga."
 
-Maka kami bisa menghadapi apa pun."
+Renn menambahkan, "Dan satu kota yang dahulu dikenal karena kedalamannya sekarang dikenal karena pintunya terbuka."
 
----
+Mereka berhenti. Tidak ada angka yang dapat memuat malam-malam menunggu, mangkuk yang dibagikan, nama yang diulang agar tidak hilang, atau surat yang menempuh jarak panjang lewat batu. Buku besar hanya menjaga bentuk luarnya. Orang-orang di aula menjaga sisanya.
 
-Dan di bawahnya — satu baris terakhir dari Ashvarok-Renn, ditulis bersama untuk menutup buku besar era menyapa:
+"Ada koreksi," kata ibu Tamma.
 
-"Seribu tahun menunggu. Delapan bulan mendengar. Dua tahun menyapa.
+Kovan mengangkat pena. "Angka mana?"
 
-Sekarang: selamanya hidup."
+"Bukan angka. Neraca itu belum mencatat berapa banyak orang datang ke dapur dalam keadaan takut lalu pulang setelah bisa tertawa."
 
-— Keluarga the Quiet Vein
-— Kota Caldrest
-— Dunia Karvess
+"Ibu punya jumlahnya?"
 
-Dan ketika subuh datang — seperti setiap subuh di Karvess — dapur ibu Tamma berasap, nat-nat kecil disapa anak-anak, sekolah membuka pintu, dan dua jiwa dalam satu tubuh berjalan ke tengah kota yang mereka bangun bersama.
+"Tidak. Kalau sempat kuhitung, berarti aku kurang sibuk memasak."
 
-Tidak ada yang besar terjadi hari itu.
+"Lalu bagaimana memasukkannya?"
 
-Hanya sebuah dunia yang hidup.
+Ibu Tamma memandang meja-meja yang malam itu diisi sembilan budaya, tiga generasi, dan terlalu banyak ragam mangkuk untuk dicocokkan. "Tulis begini: tidak ada yang pulang dengan perut kosong."
 
-Dan itu cukup.
+Kovan mencatat tanpa bertanya lagi.
 
----
+Ashvarok sampai pada halaman keluarga the Quiet Vein. Untuk halaman itu tidak ada angka kemajuan, hanya daftar keadaan sekarang.
 
-Dan di nat lorong barak utara — Yang Dulu Sunyi — irama pagi mengalir pelan dan hangat:
+"Satu adik belajar di menara langit," katanya.
 
-irama yang artinya:
+"Dua penghuni belajar berbagi satu tubuh tanpa berebut sendok terlalu sering," kata Renn.
 
-selamat pagi, dunia.
+"Terlalu sering?" Ashvarok mengulang dari mulut yang sama.
 
-selamat pagi, keluarga.
+"Nanti kita bahas setelah neraca."
 
-kita masih di sini.
+Sela menyela melalui nat pos, "Satu ibu dapur masih menganggap semua masalah dapat diperkecil dengan sup."
 
----
+"Karena memang bisa," kata ibu Tamma.
 
-Dan ketika malam datang lagi — seperti setiap malam di Karvess — keluarga the Quiet Vein mengetuk meja makan tiga kali sebelum tidur:
+"Dan seratus lima puluh enam batu kecil," lanjut Sela, "menganggap lorong, pasar, sekolah, dan jalur pendakian sebagai rumah selama ada yang datang menyapa."
 
-satu untuk Sela yang jauh,
-satu untuk nat lorong yang dekat,
-dan satu untuk dunia yang terus berjalan.
+Renn menatap kursi kosong yang sengaja diletakkan di sisi meja. "Rumah kita sekarang tersebar."
 
-Kita masih di sini. Semua.
+"Bukan tersebar," kata Sela. "Pintunya bertambah."
 
----
+Ashvarok membiarkan kalimat itu tinggal beberapa saat. Dahulu ia mengenal rumah sebagai wilayah yang dijaga batas. Renn mengenalnya sebagai tubuh yang dirawat selagi pemiliknya tertidur. Sela kini mengenalnya sebagai ingatan yang dapat dibagi tanpa berkurang.
 
-Dan satu hal terakhir — yang membuat bab 255 menjadi penutup yang sempurna untuk dua tahun era menyapa:
+"Kalau pintunya bertambah," tanya Renn, "mana yang disebut rumah utama?"
 
-Di subuh setelah perayaan, seluruh nat kecil di Karvess (156 ekor) menyalak serentak dengan irama yang sama:
+"Yang ada supnya," jawab ibu Tamma.
 
-irama name train versi pagi.
+"Bu."
 
-Yang artinya: "selamat pagi, semua. Kami masih di sini. Dan hari ini kami akan mendengarkan kalian lagi."
+"Baik. Yang membuat anak tidak perlu minta izin untuk pulang. Sup hanya penandanya."
 
-Delapan bulan silam, itu adalah hal yang Renn butuhkan paling banyak.
+Nat pos berdenyut tiga kali. Sela memakai kode malam keluarga mereka: kita masih di sini. Ashvarok-Renn membalas pada permukaan meja. Dari dinding aula, nat-nat kecil meneruskan irama itu, bukan sebagai pengumuman ke seluruh dunia, melainkan sebagai jawaban untuk seorang anak yang malam itu berada jauh dari kursinya.
 
-Sekarang... itu milik semua anak di Karvess.
+Sela bicara lebih pelan ketika resonansi reda. "Kamar aku masih ada?"
 
-Selamanya.
+"Masih," jawab Renn.
 
----
+"Kotak arsip pertama di rak kiri," tambah Ashvarok.
 
-Dan satu adegan terakhir yang benar-benar terakhir — di barak the Quiet Vein:
+"Selimutmu dijemur tiap pekan," kata ibu Tamma. "Dan jangan kira jarak membuatmu bebas dari tugas mencuci mangkuk saat pulang."
 
-Ashvarok-Renn dan ibu Tamma duduk bersama sarapan. Tiga orang (empat jiwa). Sup Kamp Pertama hangat di tengah.
+"Bagus. Berarti rumah masih rumah."
 
-Dan Ashvarok berkata — kalimat penutup dua tahun era menyapa:
+Ashvarok menutup buku besar, tetapi tidak menutup pertemuan. Ia memandang orang-orang yang memenuhi aula: mereka yang pulang dari kedalaman, mereka yang datang dari luar, mereka yang baru belajar menyapa, dan mereka yang sudah terlalu lama menunggu sapaan.
 
-"Bu. Dua tahun silam kita mulai dari pertanyaan 'ada siapa di sana?'."
+"Neraca tahun kedua diterima?" tanyanya.
 
-Ibu Tamma mengangguk.
+"Belum," kata Sela.
 
-"Jawaban hari ini: SEMUA ORANG. Dan pertanyaannya sudah berubah jadi 'kalian sudah makan?'."
+Renn mendekat ke nat pos. "Ada yang kurang?"
 
-Ia tersenyum pada keluarga kecilnya.
+"Kalimat keluarga. Kalian berjanji membacanya bersama."
 
-"Itu... perubahan terbaik yang pernah ada."
+Ashvarok dan Renn sudah memilih kalimat itu sejak siang. Mereka mengucapkannya dengan dua suara melalui satu mulut:
 
----
+"Dua tahun era menyapa. Kita masih di sini. Semua."
 
-Dan ibu Tamma menjawab — kalimat terakhirnya untuk buku besar ini:
+Kali ini aula menjawab dengan tepuk panen: tiga ketukan, satu hentakan. Irama menjalar dari bangku ke lantai, dari lantai ke dinding, lalu masuk ke jaringan nat. Kael-Uthar menjawab dari lembah selatan dengan nyala panjang yang memerahkan tepi jendela.
 
-"Betul, Nak.
+Ibu Tamma menunggu gema terakhir hilang sebelum mengangkat sendok kayunya.
 
-Dulu pertanyaan dunia: 'siapa yang kuat?'
-Sekarang pertanyaan dunia: 'kalian sudah makan?'
+"Neraca diterima. Sekarang meja dipindah. Sup sudah matang."
 
-Itu bukan dunia yang lemah. Itu dunia yang sudah paham."
+Orang-orang bangkit, menyusun bangku, dan membawa mangkuk dari dapur. Buku besar tetap di meja sampai Kovan mengeringkan tinta halaman terakhir. Nat pos tidak dimatikan. Sela makan malam di Spire sambil mendengarkan bunyi sendok dan percakapan keluarganya di Caldrest.
 
-Mangkuknya ia angkat.
-
-"DUNIA YANG PAHAM ITU... ADALAH DUNIA YANG BAIK."
-
----
-
-Dan kalimat itu — oleh Sela dikutip di Spire, oleh Thessa dikutip di konstitusi, oleh Lompa ditenun ke kain aula, oleh Kael-Uthar menyala di langit selatan —
-
-menjadi penutup resmi dua tahun era menyapa:
-
-"DUNIA YANG PAHAM ITU... ADALAH DUNIA YANG BAIK."
-
----
-
-Dan di bawahnya — satu baris dari Renn, yang menutup jurnal pribadinya:
-
-"Delapan bulan silam aku pikir ceritaku berakhir di lorong tambang.
-
-Ternyata itu hanya halaman pertama."
-
----
-
-Dan Ashvarok menambahkan baris terakhirnya — untuk Renn, untuk Sela, untuk ibu Tamma, dan untuk dunia:
-
-"Halaman pertamamu indah, Nak Renn.
-
-Namun halaman-halaman berikutnya — yang kita tulis BERSAMA —
-
-itu yang membuat bukunya layak dibaca selamanya."
-
----
-
-Dan kalimat itu — oleh ibu Tamma — mendapat balasan terakhir yang menutup buku besar dua tahun era menyapa:
-
-"Bagus, Nak. Bagus semua.
-
-Sekarang tutup bukunya dan makan supmu.
-
-SEBELUM DINGIN."
-
-Dan mereka makan.
-
-Bersama-sama.
-
-Di rumah yang tidak pernah dingin.
-
----
-
-— BAB 255 SELESAI —
-
-— Dua tahun era menyapa: TUNTAS —
-
-— Dan dunia Karvess berjalan terus, seperti yang dijanjikan. —
-
----
-
-Dan satu adegan epilog — bertahun-tahun kemudian:
-
-Seorang anak kecil berdiri di depan nat lorong barak utara. Nat tua yang sudah sangat, sangat tua — tetapi iramanya masih hangat seperti hari pertama.
-
-Anak itu membaca plakat di sampingnya:
-
-"DI SINI PERNAH TINGGAL KELUARGA THE QUIET VEIN.
-
-ASHVAROK — RAJA YANG MEMILIH MENJADI TAMU.
-RENN — ANAK TUNGGU YANG MEMILIH MENDENGAR.
-SELA — ARSIPARIS YANG MEMILIH BERTANYA.
-
-DAN IBU TAMMA — YANG SUPNYA TIDAK PERNAH DINGIN."
-
-Anak itu menatap nat tua itu lama. Lalu berkata:
-
-"Halo, Kakek Batu. Nenek Sela bilang kamu suka cerita."
-
-Nat tua menjawab dengan irama yang delapan ratus tahun tidak pernah berubah — hangat dan sabar:
-
-"DATANG TERUS SETIAP HARI, NAK. AKU PUNYA BANYAK SEKALI CERITA UNTUKMU."
-
----
-
-Dan anak itu datang lagi. Dan lagi. Dan lagi.
-
-Sampai suatu hari ia cukup besar untuk menenun sendiri — dan menenun cerita nat tua itu ke kain, supaya tidak pernah hilang.
-
-Karena itulah cara Karvess menyimpan sejarah:
-
-bukan di menara.
-
-Di hati anak-anak yang didengarkan.
-
-
----
-
-Dan satu baris terakhir — dari nat tua itu, untuk semua anak yang pernah datang:
-
-"KAU TANYA APA CERITAKU?
-
-CERITAKU ADALAH CERITA KALIAN.
-
-DAN SELAMA KAU MASIH DATANG... CERITA ITU TIDAK AKAN PERNAH BERAKHIR."
+Kursinya kosong. Tempatnya tidak.

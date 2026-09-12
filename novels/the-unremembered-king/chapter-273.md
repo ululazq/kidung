@@ -50,7 +50,7 @@ Ia berdiri, dan memberi hormat dua ketukan di dada — hormat dapur, hormat yang
 "Utangku kepada pesisir belum lunas. Aku akan membayarnya dengan pekerjaan, bukan kata-kata, sampai kalian sendiri yang menyatakan lunas — atau memutuskan tidak pernah akan lunas. Keduanya sah. Aku yang akan hidup dengan keduanya."
 ---
 
-Dua kamp lain menyusul dalam sepuluh hari — masing-masing dengan caranya sendiri, karena duka tidak bisa diseragamkan: kamp kedua minta pendengar tetap (Barim dititipkan dua pekan untuk membacakan Rak Semua Versi), kamp ketiga minta satu hal saja — bahwa nama-nama 214 korban pesisir dibacakan name train di aula Caldrest tiap Hari Utara, di antara nama-nama 400 jiwa utara.
+Dua kamp lain menyusul dalam sepuluh hari — masing-masing dengan caranya sendiri, karena duka tidak bisa diseragamkan: kamp kedua minta pendengar tetap (Barim dititipkan dua pekan untuk membacakan the Shelf of All Versions), kamp ketiga minta satu hal saja — bahwa nama-nama 214 korban pesisir dibacakan name train di aula Caldrest tiap Northern Day, di antara nama-nama 400 jiwa utara.
 
 Permintaan itu disetujui Dewan dalam satu rapat, dan oleh Sela dicatat sebagai preseden hukum baru Karvess: *duka pemberontak dan duka korban Hegemony sama sahnya; arsip Karvess memuat semua versi; name train milik semua yang hilang.*
 
@@ -69,7 +69,7 @@ Satu lampiran kecil untuk laporan misi, ditulis Barim dari kamp kedua tempat ia 
 
 *Catatan pendengar lapangan.*
 
-*Malam keenam, setelah pembacaan Rak Semua Versi di balai kamp, seorang perempuan tua mendekatiku. Ia cucu dari keluarga yang kapalnya dibawa Hegemony. Ia bertanya apakah aku bisa memainkan bagian sahabat lagunya sekali lagi — katanya dia mau mencoba sesuatu.*
+*Malam keenam, setelah pembacaan the Shelf of All Versions di balai kamp, seorang perempuan tua mendekatiku. Ia cucu dari keluarga yang kapalnya dibawa Hegemony. Ia bertanya apakah aku bisa memainkan bagian sahabat lagunya sekali lagi — katanya dia mau mencoba sesuatu.*
 
 *Aku mainkan. Dia mendengarkan sampai habis, mata tertutup.*
 
@@ -79,12 +79,12 @@ Satu lampiran kecil untuk laporan misi, ditulis Barim dari kamp kedua tempat ia 
 
 *"Suara orang-orang yang saling sayang," katanya. "Seribu tahun kami dilarang menganggap mereka manusia. Dan mereka juga dilarang menganggap kami manusia. Dua sisi sama-sama dilucuti kemanusiaannya oleh satu sistem." Dia membuka matanya. "Aku masih marah. Jangan salah paham. Marahku tidak hilang karena lagu. Namun malam ini aku bisa marah sambil tahu bahwa musuh nenekku punya istri yang menyanyinya pulang. Itu... beda rasanya dengan marah versi lama. Lebih berat. Dan lebih benar."*
 
-*Ia minta pesannya disampaikan ke Caldrest: "Katakan pada raja itu, utangnya belum lunas dan tidak akan pernah lunas. Namun katakan juga: mulai hari ini kami mau dia hadir tiap Hari Utara. Duduk bersama kami. Karena kalau dua kebenaran sudah duduk di meja yang sama, makan malam selalu lebih benar daripada pidato."*
+*Ia minta pesannya disampaikan ke Caldrest: "Katakan pada raja itu, utangnya belum lunas dan tidak akan pernah lunas. Namun katakan juga: mulai hari ini kami mau dia hadir tiap Northern Day. Duduk bersama kami. Karena kalau dua kebenaran sudah duduk di meja yang sama, makan malam selalu lebih benar daripada pidato."*
 ---
 
-Dan satu entri terakhir untuk bab hari ini — bukan dari laporan, tetapi dari arsip pribadi Ashvarok-Renn yang oleh Sela dibiarkan masuk ke arsip resmi tanpa diedit, karena aturan Rak Semua Versi berlaku juga untuk penulisnya:
+Dan satu entri terakhir untuk bab hari ini — bukan dari laporan, tetapi dari arsip pribadi Ashvarok-Renn yang oleh Sela dibiarkan masuk ke arsip resmi tanpa diedit, karena aturan the Shelf of All Versions berlaku juga untuk penulisnya:
 
-*Aku sudah seribu tahun mengira harga terberat dari Pembakaran Namaku adalah kesepian.*
+*Aku sudah seribu tahun mengira harga terberat dari the Name-Burningku adalah kesepian.*
 
 *Salah. Kesepian itu ringan dibanding ini: mendengar nama-nama korban sistemku dibacakan satu per satu, dan sadar bahwa tidak ada satu pun dari mereka yang pernah kupikirkan bahkan sekali.*
 
@@ -105,13 +105,13 @@ Tetuanya bukan orang tua. Tetuanya seorang perempuan berumur mungkin tiga puluh,
 
 Ia membawa mereka ke balai kamp. Di dindingnya, ditulis kapur pada papan hitam tua, ada daftar itu: dua ratus empat belas nama, ditulis ulang tiap tahun oleh pemegang daftar bergantian, karena kapur memudar dan "nama tidak boleh ikut memudar".
 
-"Aku dengar kalian punya name train," kata tetua muda itu. "Batu-batu menyanyi nama orang hilang. Bagus untuk kalian yang punya batu." Matanya tajam. "Kami tidak punya batu. Kami tidak pernah punya apa-apa yang cukup penting buat Hegemony kecuali anak-anak kami. Jadi pertanyaanku satu: sistem baru kalian — yang seribu nat dan sekolah mendengar dan protokol musim itu — apa gunanya untuk kamp yang tidak punya apa-apa?"
+"Aku dengar kalian punya name train," kata tetua muda itu. "Batu-batu menyanyi nama orang hilang. Bagus untuk kalian yang punya batu." Matanya tajam. "Kami tidak punya batu. Kami tidak pernah punya apa-apa yang cukup penting buat Hegemony kecuali anak-anak kami. Jadi pertanyaanku satu: sistem baru kalian — yang seribu nat dan sekolah mendengar dan the Seasonal Protocol itu — apa gunanya untuk kamp yang tidak punya apa-apa?"
 
 Hening panjang. Dan yang menjawab bukan Ashvarok-Renn.
 
 Ibu Tamma.
 
-"Pertanyaan bagus," katanya. "Jawaban jujur: kalau kalian hanya butuh meja makan, kalian sudah lebih maju dari semua kota. Kalian menjaga nama tanpa nat, tanpa arsip, tanpa Dana — pakai kapur dan disiplin hati." Ia memandang papan hitam itu lama. "Yang bisa kami bawa bukan sistem. Sistem kalian sudah jalan seratus tahun dan bekerja. Yang bisa kami bawa hanya ini: janji bahwa mulai Hari Utara depan, dua ratus empat belas nama itu dibacakan bersama 400 jiwa utara dan 214 korban pesisir lainnya — dibacakan oleh murid-murid Sekolah Mendengar yang datang ke sini belajar cara kalian menjaganya."
+"Pertanyaan bagus," katanya. "Jawaban jujur: kalau kalian hanya butuh meja makan, kalian sudah lebih maju dari semua kota. Kalian menjaga nama tanpa nat, tanpa arsip, tanpa Dana — pakai kapur dan disiplin hati." Ia memandang papan hitam itu lama. "Yang bisa kami bawa bukan sistem. Sistem kalian sudah jalan seratus tahun dan bekerja. Yang bisa kami bawa hanya ini: janji bahwa mulai Northern Day depan, dua ratus empat belas nama itu dibacakan bersama 400 jiwa utara dan 214 korban pesisir lainnya — dibacakan oleh murid-murid the Listening School yang datang ke sini belajar cara kalian menjaganya."
 
 "Belajar? Dari kami?"
 

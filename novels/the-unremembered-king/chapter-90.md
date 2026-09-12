@@ -30,7 +30,7 @@ Ashvarok sudah hendak melepaskan telapaknya ketika ia merasakan hal yang tidak p
 
 Hangat.
 
-Bukan panas batu — batu Caldrest dingin seperti biasa. Bukan sisa Cinder miliknya sendiri. Hangat itu datang dari dalam, dari alamat yang hanya ia kenali karena seribu tahun lamanya ia mengukurnya seperti orang mengukur lubang kosong di dirinya: the Remainder, sisa dirinya, bahan bakar the Walking Key, angka yang sejak malam penutupan titik bocor hanya mengenal satu arah. Ia berdiri sangat diam di dekat dais yang bohong itu dan melakukan sesuatu yang belum pernah ia lakukan dengan harapan — ia memeriksa.
+Bukan panas batu — batu Caldrest dingin seperti biasa. Bukan sisa Cinder miliknya sendiri. Hangat itu datang dari dalam, dari alamat yang hanya ia kenali karena seribu tahun lamanya ia mengukurnya seperti orang mengukur lubang kosong di dirinya: the Remainder, the Remainder, bahan bakar the Walking Key, angka yang sejak malam penutupan titik bocor hanya mengenal satu arah. Ia berdiri sangat diam di dekat dais yang bohong itu dan melakukan sesuatu yang belum pernah ia lakukan dengan harapan — ia memeriksa.
 
 Pemeriksaannya dilakukan cara-cara lama, hati-hati, seperti orang menyentuh burung yang mungkin hanya angin. Dan angin itu bukan angin. Ada lebih banyak dirinya di sana malam ini daripada semalam — tipis, hampir tak layak disebut pertumbuhan, sepersekian persen yang hanya bisa dideteksi pemiliknya, tetapi nyata, seperti garis cahaya di bawah pintu. Sesuatu yang kosong selama seribu tahun sedang mengisi, dan ia tahu persis mekanismenya karena ia yang menuliskan hukumnya zaman dunia masih memakai namanya untuk sumpah: the Remainder pulih lewat cerita orang tentangnya. Kebaikan, ketakutan, legenda yang jujur.
 
@@ -62,7 +62,7 @@ Dan malam ini, di lorong troli timur, pagar itu berbunyi retak — kecil, hampir
 
 Retak pertama itu tidak sakit. Itu yang membuatnya takut.
 
-Karena di belakang retakan itu, ia bisa mendengar bentuk baru ketakutannya sedang berpindah tempat — pelan, seperti air mencari level. Selama ini ia takut dikenal. Sekarang, berdiri di gelap dengan sisa dirinya yang hangat untuk pertama kalinya sejak ia masih punya nama, ia mendapati ketakutannya sudah tidak tinggal di sana lagi. Ia mulai takut pada hal yang lain: betapa laparnya ini. Betapa lapar rasanya dikenal — betapa cepat hangat itu menemukan jalurnya, betapa mudah tubuhnya yang tua dan lelah mengenal kembali rasa ada, dan betapa jauh yang akan ia tempuh besok, dan lusa, dan bulan depan, supaya mendengar satu potongan cerita lagi jatuh dari sumbu angka seperti tetesan.
+Karena di belakang retakan itu, ia bisa mendengar bentuk baru ketakutannya sedang berpindah tempat — pelan, seperti air mencari level. Selama ini ia takut dikenal. Sekarang, berdiri di gelap dengan the Remainder yang hangat untuk pertama kalinya sejak ia masih punya nama, ia mendapati ketakutannya sudah tidak tinggal di sana lagi. Ia mulai takut pada hal yang lain: betapa laparnya ini. Betapa lapar rasanya dikenal — betapa cepat hangat itu menemukan jalurnya, betapa mudah tubuhnya yang tua dan lelah mengenal kembali rasa ada, dan betapa jauh yang akan ia tempuh besok, dan lusa, dan bulan depan, supaya mendengar satu potongan cerita lagi jatuh dari sumbu angka seperti tetesan.
 
 Orang yang takut dikenal bisa menyelamatkan dirinya dengan diam. Orang yang lapar dikenal tidak punya tempat aman yang sama, karena lapar ikut ke mana-mana, termasuk ke dalam diam itu sendiri.
 

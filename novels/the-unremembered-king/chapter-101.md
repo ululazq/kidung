@@ -13,7 +13,7 @@ Pada rentang tahun yang diminta, register itu memuat enam puluh tujuh pemakaman 
 
 Sampul kedua, dari bandar timur laut, lebih tebal. Notulen markas the Liberation disalin utuh sepanjang masa perang dan dua tahun sesudahnya — ratusan halaman yang penuh nama seperti jejak kaki orang-orang yang berjalan ke arah yang sama. Ossian membacanya dua kali dengan kecepatan yang sama, dan menemukan bahwa catatan tentang pembagian gelar serta service grant pasca-perang lengkap sampai baris demi baris, kecuali satu halaman. Halaman itu tidak hilang. Halaman itu terpotong rapi di dekat punggung buku — pisau yang bekerja sekali dan tidak menggigiti kertas-kertas tetangganya. Orang yang memotongnya punya waktu, dan tidak punya gugup.
 
-Sampul ketiga, dari kota pelabuhan selatan, paling tipis — dan justru sampul itulah yang membuatnya berdiri. Manifes kapal selama empat generasi, dicari dengan kata kunci yang ia minta lewat kop surat Koordinasi Artefak Regional, menghasilkan satu entri yang tampaknya tidak berhubungan dengan apa pun. Sebuah kiriman darat, hampir seratus tahun lalu, dicatat sebagai barang pecah. Relief patah, lima keping, batu hitam berlapis endapan garam. Asal pelabuhan selatan. Tujuan akhir sebuah kuil perhentian di lembah tengah, di jalur raya menuju Anthema Spire.
+Sampul ketiga, dari kota pelabuhan selatan, paling tipis — dan justru sampul itulah yang membuatnya berdiri. Manifes kapal selama empat generasi, dicari dengan kata kunci yang ia minta lewat kop surat Regional Artifact Coordination, menghasilkan satu entri yang tampaknya tidak berhubungan dengan apa pun. Sebuah kiriman darat, hampir seratus tahun lalu, dicatat sebagai barang pecah. Relief patah, lima keping, batu hitam berlapis endapan garam. Asal pelabuhan selatan. Tujuan akhir sebuah kuil perhentian di lembah tengah, di jalur raya menuju Anthema Spire.
 
 Lima keping batu hitam diangkut melintasi separuh benua dengan biaya besar, dicatat dingin oleh pegawai pelabuhan sebagai barang pecah — padahal yang dibawa orang itu, Ossian mulai mengerti, bukanlah barang yang bisa pecah: nama yang tidak punya mayat.
 
@@ -67,7 +67,7 @@ Pada tepi itulah ia menemukan hal yang membuat jarinya berhenti di atas lilin. P
 
 Seseorang telah mencoba menghapus orang ini dari batu, dan seseorang yang sama, atau orang lain dengan kesabaran yang sama, telah membiarkan satu hal tersisa agar tidak semuanya mati.
 
-Ossian membungkus kedua cetakan itu dengan kain lilin, menuliskan labelnya dengan huruf tegak kecilnya sendiri, dan menyelesaikan urusan administratif dengan lelaki tua itu di ruang depan: nilai klasifikasi sementara atas artefak wilayah, kop Koordinasi Artefak Regional, imbalan sewa ruang dan keheningan yang masuk akal bagi semua pihak. Lelaki tua itu menerima kertasnya dengan dua tangan dan menanyakan satu hal sebelum tamunya pergi.
+Ossian membungkus kedua cetakan itu dengan kain lilin, menuliskan labelnya dengan huruf tegak kecilnya sendiri, dan menyelesaikan urusan administratif dengan lelaki tua itu di ruang depan: nilai klasifikasi sementara atas artefak wilayah, kop Regional Artifact Coordination, imbalan sewa ruang dan keheningan yang masuk akal bagi semua pihak. Lelaki tua itu menerima kertasnya dengan dua tangan dan menanyakan satu hal sebelum tamunya pergi.
 
 "Tuan sedang cari orangnya, ya. Si perajin tanpa muka itu."
 

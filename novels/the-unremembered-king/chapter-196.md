@@ -3,115 +3,244 @@ title: "Bab 196: Lima Potongan yang Menunggu"
 chapter: 196
 ---
 
-Sarneth pulang pada hari kedua ratus tiga puluh delapan — dan pemulangan pertamanya menjadi pelajaran bagi semua yang akan datang, karena hampir gagal.
+Gudang gerabah itu tidak menolak mereka dengan pintu, suara, atau cahaya. Ia menolak mereka dengan tetap menjadi gudang.
 
-Kesalahannya sederhana: rombongan pertama terlalu bersemangat. Mereka tiba di gudang gerabah utara dengan empat puluh orang, name train lengkap, dan semangat upacara besar. Ashvarok membuka the Walking Key, Sareth membaca dengan telapak, keluarga menyebut nama — dan tidak ada apa pun.
+Empat puluh orang memenuhi halaman dan ambangnya. Keluarga Sarneth membawa kain upacara. Hale datang dengan panji kota. Para pembaca berdiri dalam dua baris, masing-masing memegang salinan daftar. Lilin menyala begitu banyak hingga bau lemaknya menutupi bau tanah liat lama. Di tengah semua persiapan itu, lima potongan gerabah mentah tergeletak pada papan dekat tungku, berdebu tetapi utuh.
 
-Suara Sarneth tidak menjawab. Batu diam. Delapan belas tahun penyimpanan, dan pintunya tidak terbuka oleh kerumunan.
+Ashvarok membuka the Walking Key.
 
-Mereka hampir pulang dengan kegagalan pertama di punggung ketika Barim — yang dari awal menolak ikut rombongan besar dan hanya mengikuti dari jarak belakang — maju dan berkata satu kalimat yang membetulkan segalanya:
+Sareth membaca lantai dengan telapak. Adik Sarneth memanggil nama kakaknya. Empat puluh orang menahan napas bersama-sama, lalu melepaskannya hampir serempak ketika tidak ada jawaban.
 
-"Salah jumlah orang. Penjaga malam tidak pernah bekerja ramai-ramai."
+Mereka mencoba lagi. Kali ini name train dilantunkan pelan dari halaman. Batu di bawah lutut Ashvarok tetap dingin. Listen memberinya ribuan gesekan kecil—sol sepatu, kain, orang menelan ludah, gagang peralatan yang beradu—tetapi tidak satu pun suara berasal dari tempat penyimpanan.
 
-Ia menyuruh semua keluar kecuali tiga: Ashvarok, seorang keluarga (adik Sarneth), dan dirinya sendiri. Lalu ia mematikan semua lilin kecuali satu. Dan duduk di lantai gudang gerabah itu seperti duduk di pos jaga — telapak rata, napas lambat, sabar sampai batu lupa malu.
+"Dia menjawab waktu pembacaan di pasar," kata adik Sarneth. "Aku dengar sendiri. Jangan bilang suaranya hilang lagi."
 
-Delapan puluh tahun tradisi penjaga malam bekerja dalam sepuluh menit.
+"Tidak hilang." Sareth mengangkat tangannya dari lantai. Debu menempel sampai pergelangan. "Kita yang tidak bisa mendengarnya."
 
-Gudang itu hangat. Suara Sarneth datang bukan sebagai gema ajaib melainkan sebagai kebiasaan: bunyi tangan membentuk tanah, senandung pasar, dan kalimatnya sendiri — "siapa yang buka gudangku?" — dengan nada marah-tetapi-terima-kasih yang khas pembuat gerabah.
+Hale melirik orang-orang di belakangnya. "Kalau perlu lebih banyak pembaca, kita punya dua belas."
 
-Adiknya menjawab sambil menangis. Barim menjaga irama. Dan Ashvarok melakukan Name-nya: bukan menciptakan nama — namanya sudah ada di mulut adiknya — tetapi MENYAMBUNGKAN nama itu ke tubuh yang sudah lama merindukannya, dengan seluruh cerita malam ini sebagai jalurnya.
+"Itulah masalahnya," ujar Barim dari luar lingkaran. "Kalian selalu mengira kegagalan perlu ditambah orang."
 
-Harga: besar. The Remainder turun melewati dua garis aman sekaligus, dingin sampai tulang, dan Ashvarok harus duduk satu jam setelahnya sebelum bisa berdiri. Namun ketika bangkit, di gudang gerabah utara itu, seorang lelaki tua bernama Sarneth sedang memegang lima potongan gerabah belum dibakarnya — potongan-potongan yang masih ada, masih utuh, menunggu delapan belas tahun untuk diselesaikan —
+Ia tidak ikut mengenakan kain upacara. Mantelnya masih menyimpan debu jalan, dan sebelah telapak sepatunya retak. Sejak tiba, ia memilih duduk di bawah dinding halaman, cukup jauh dari nyala lilin. Sekarang ia masuk, memadamkan lilin terdekat dengan dua jari basah, lalu lilin berikutnya.
 
-— dan ia berkata kepada adiknya: "Aku inget cara membuatnya. Bantu aku bakar sekarang. Delapan belas tahun menunda pekerjaan sudah cukup."
+"Apa yang kaulakukan?" Hale menangkap lengannya sebelum lilin ketiga padam.
 
----
+"Mengurangi kebisingan."
 
-Pelajaran pemulangan pertama ditulis Sela di neraca dan menjadi protokol resmi armada utara selamanya:
+"Mereka diam."
 
-"PROTOKOL PEMULANGAN (dari kegagalan yang nyaris terjadi):
-1. Maksimal TIGA orang pendamping. Bukan rombongan.
-2. Satu lilin. Kegelapan adalah bahasa asli tempat-tempat itu.
-3. Duduk dulu, diam dulu, sabar sampai batu lupa malu — baru panggil.
-4. Yang memanggil wajib keluarga atau penjaga lama. Bukan pejabat.
-5. Dan yang paling penting: jangan datang dengan upacara. Datanglah dengan bekerja."
+Barim memandang empat puluh wajah yang sedang berusaha tampak tidak mengganggu. "Orang bisa ribut tanpa membuka mulut."
 
-Protokol itu disalin ke Registri Mimpi, dikirim ke Spire lewat Ossian, dibacakan di akademi oleh Sareth — dan pada malam yang sama, kedalaman merespons protokol barunya dengan irama yang Sareth terjemahkan dengan senyum:
+Adik Sarneth maju. "Berapa orang?"
 
-"Bagus. Kalian belajar cepat. Orang pertama kalian hampir gagal karena bawa rombongan. Ingat: aku juga tidak suka keramaian. Kalau mau menjemput sisanya... datangi aku seperti dia datang kepadaku dulu. Sendirian. Malam. Dengan sabar."
+"Tiga. Kau, Renn, aku."
 
-Ashvarok menutup Hourglass malam itu dengan entri singkat:
+Sareth tidak tersinggung ketika namanya tidak disebut. Ia justru berdiri lebih dulu dan mengarahkan para pembaca keluar. Hale melepaskan tangan Barim, tetapi masih memandang panjinya seolah benda itu baru saja dipermalukan.
 
-Hari 381. Pemulangan #1: BERHASIL setelah hampir gagal. Sarneth pulang, lima gerabahnya akan dibakar minggu depan. Protokol 5 pasal lahir dari kegagalan yang nyaris terjadi. Dan tamu tua kita memberi umpan balik kurikulum untuk pertama kalinya.
+"Kota membiayai perjalanan ini," katanya.
 
-Seribu tahun kesepian ternyata membuat dia paham soal keramahan lebih dalam dari kita semua.
-Lanjutan bab 196.
+"Maka kota berhak mendapat hasil, bukan kursi depan." Barim menyerahkan lilin terakhir kepada Ashvarok. "Penjaga malam tidak pernah bekerja ramai-ramai. Orang yang ia jaga perlu mendengar langkah yang benar, bukan tepuk tangan."
+
+Hale membawa panjinya keluar.
 
 ---
 
-Kegagalan nyaris terjadi itu mengajarkan sesuatu yang lebih dalam dari protokol: tentang perbedaan antara kerumunan dan kehadiran.
+Pintu gudang ditutup. Cahaya satu lilin hanya mencapai separuh rak. Udara berubah dingin tanpa puluhan tubuh, dan bau tanah basah muncul dari tumpukan gerabah. Di luar, seseorang batuk lalu ditegur berbisik. Setelah itu halaman benar-benar sunyi.
 
-Empat puluh orang yang datang dengan niat baik tetap saja empat puluh suara, empat puluh napas, empat puluh harapan yang berdesakan — dan batu penyimpan yang sudah delapan belas tahun sunyi tidak bisa membuka dirinya untuk kerumunan. Ia bisa membuka dirinya untuk SATU orang yang benar-benar datang untuknya.
+Barim duduk bersila di depan tungku. Ia tidak memberi aba-aba. Telapak kanannya rata pada lantai, tangan kiri di lutut. Adik Sarneth mencoba memanggil sekali lagi, tetapi Barim menggeleng.
 
-"Seperti ruang perawatan," kata dokter tambang malamnya, merangkum pelajaran itu. "Tidak peduli berapa banyak orang peduli — pasien hanya butuh satu dokter yang benar-benar memeriksanya, bukan lima puluh yang menonton."
+"Tunggu apa?" bisiknya.
+
+"Sampai kau tidak sedang menunggu jawaban."
+
+"Aku menunggu delapan belas tahun."
+
+"Itu sebabnya sepuluh menit lagi tidak akan mengalahkanmu."
+
+Perempuan itu merapatkan kedua tangan di pangkuan. Pada menit pertama, kakinya bergerak. Pada menit ketiga, bahunya turun. Ashvarok menahan the Walking Key tetap tertutup dan memakai Listen saja. Tanpa kerumunan, gudang memiliki lapisan suara sendiri: pasir jatuh dari dinding, serangga menggesek di bawah rak, kayu tungku menyusut dalam udara malam. Lebih dalam lagi, sesuatu berulang dengan irama lambat—tekan, putar, angkat. Tangan membentuk tanah liat pada roda yang sudah lama berhenti.
+
+Barim mengetukkan kuku ke lantai satu kali.
+
+Adik Sarneth tidak memanggil seperti pembaca daftar. Ia berkata, "Kak, pot besar di rumah bocor lagi. Aku menambalnya dua kali dan hasilnya tetap jelek. Kalau kau masih mau mengejek pekerjaanku, pulang dan lakukan sendiri."
+
+Roda yang tak terlihat itu berhenti.
+
+Dari dekat papan berdebu terdengar suara serak, jengkel, dan sangat jelas. "Siapa yang buka gudangku?"
+
+Perempuan itu menutup mulut. Air matanya lolos di sela jari, tetapi suaranya tetap bekerja. "Aku. Karena pemiliknya terlalu lama pergi."
+
+"Kau tidak pernah bisa menunggu pembakaran selesai."
+
+"Delapan belas tahun cukup belum?"
+
+Kehangatan menjalar dari bawah papan. Lima potongan tanah liat mengeluarkan aroma mineral tajam, seperti baru diangkat dari roda. Ashvarok membuka Name, bukan untuk menciptakan atau memerintah. Nama Sarneth sudah memiliki bentuk lengkap: suara adiknya, keluhan tentang pot bocor, lima pekerjaan yang belum selesai, tangan yang masih diingat tanah.
+
+Ia menyambungkan bentuk itu ke tubuh yang menunggu.
+
+The Remainder jatuh melewati satu garis aman, lalu garis kedua. Dingin menggigit dari tulang belakang sampai gigi. Ashvarok hampir menarik diri, tetapi Barim menahan bahunya dan mengetuk lantai dengan irama yang sama: tekan, putar, angkat. Adik Sarneth terus bicara, bukan memohon, melainkan mengomel tentang tungku yang tak pernah dibersihkan, harga kayu bakar, dan satu rak yang roboh karena kakaknya dahulu terlalu pelit membeli pasak.
+
+Nama itu menemukan jalan pulang melalui pekerjaan.
+
+Seorang lelaki tua berlutut di depan papan. Rambutnya penuh debu putih. Kedua tangannya mencengkeram tepi kayu, kuku-kukunya menyimpan tanah liat basah yang tidak mungkin masih basah setelah delapan belas tahun. Tarikan napas pertamanya pendek. Tarikan kedua membawa batuk. Pada tarikan ketiga ia melihat adiknya.
+
+"Kau tua," katanya.
+
+Adiknya memukul bahunya, lalu memeluknya begitu keras hingga keduanya nyaris jatuh. "Kau juga."
+
+"Aku baru pergi satu malam."
+
+Kalimat itu menghentikan pelukan mereka. Di luar pintu, empat puluh orang menunggu dalam dunia yang sudah berjalan delapan belas tahun.
+
+Sarneth menoleh ke lima potongan di papan. "Belum dibakar. Bagus." Ia mencoba berdiri. Kakinya gagal menahan tubuhnya, tetapi matanya sudah menuju tungku. "Bantu aku nyalakan api."
+
+"Tidak malam ini," kata Ashvarok. Suaranya gemetar oleh dingin.
+
+"Tanahnya siap."
+
+"Tubuhmu belum. Tungkunya juga retak di sisi timur."
+
+Sarneth meraba bata tungku, menemukan celah selebar kuku, lalu mengumpat pelan. "Siapa yang membiarkannya begini?"
+
+"Pemiliknya pergi," jawab adiknya.
+
+Untuk pertama kalinya, Sarneth memandang gudang sebagai tempat yang telah ditinggalkan, bukan ruangan yang baru ia masuki pagi tadi. Jarinya terhenti pada debu tebal di bibir tungku.
+
+"Besok kita perbaiki," katanya.
+
+"Besok kau tidur. Lusa kita perbaiki."
+
+"Besok siang."
+
+"Besok sore."
+
+Mereka berjabat tangan untuk menutup tawar-menawar itu. Keputusan pertama Sarneth setelah pulang bukan tentang masa lalu. Ia memilih satu waktu di masa depan.
 
 ---
 
-Pembakaran lima gerabah Sarneng — Sarneth, kata koreksi keluarganya, "S-a-r-n-e-t-h, jangan sampai salah lagi" — dilakukan pekan berikutnya dan menjadi peristiwa kecil yang paling ramai di utara: seluruh keluarga datang, Barim menyalakan tungku pertama, dan ketika gerabah-gerabah itu akhirnya dingin dan diangkat, bentuknya bukan pot biasa.
-Lima potong itu adalah SET PERSEDIAAN dapur lengkap — ukuran keluarga besar. Dibuat delapan belas tahun silam untuk rumah yang ia kira akan segera penuh cucu.
-"Sarneth," kata adiknya pelan saat melihat bentuknya.
-"Iya." Lelaki tua itu mengusap permukaan gerabahnya. "Delapan belas tahun silam aku membuat set ini sambil bilang ke diri sendiri, ah nanti dipakai waktu cucu-cucu datang. Terus kejadian malam itu." Ia mengisi satu pot dengan air dan meletakkannya di tengah meja panjang keluarga. "Ya sudah. Mumpung masih panas tungkunya. Cucu-cucu boleh telat delapan belas tahun. Airnya tidak perlu."
+Ketika pintu dibuka, sorak pertama membuat Sarneth mundur satu langkah. Barim segera berdiri di depannya.
+
+"Jangan," katanya kepada halaman.
+
+Sorak itu mati dengan buruk, beberapa suara terlambat berhenti. Hale menurunkan panji. Sareth menyuruh orang membuka jalan, bukan mendekat. Adik Sarneth membawa kakaknya melewati kerumunan sambil menyebut satu per satu wajah yang masih ia kenali dan melewati yang tidak ia kenali tanpa penjelasan panjang.
+
+Ashvarok tetap duduk di ambang. Warna malam menipis di tepi pandangannya. Sela datang membawa selimut dan air hangat, tetapi tidak bertanya berapa besar harga yang dibayar sampai ia melihat dua garis pada Hourglass.
+
+"Kak. Dua?"
+
+"Dua."
+
+"Untuk satu orang?"
+
+"Untuk satu orang setelah kami mengetuk pintunya dengan empat puluh tangan."
+
+Sela menatap rombongan yang kini berdiri kikuk jauh dari Sarneth. "Berarti bukan cuma boros. Cara pertama tadi membuat pemulangan lebih mahal."
+
+"Dan hampir menutup jalannya. Catat itu lebih besar daripada keberhasilan."
+
+Ia membuka neraca di lantai, menulis judul, lalu berhenti setelah kata pertama. "Aturannya apa?"
+
+Barim menjawab sambil memeras kain untuk dahi Ashvarok. "Tiga orang."
+
+"Selalu tiga? Bagaimana kalau orang yang pulang takut pada salah satunya?"
+
+"Maksimal tiga," koreksi Ashvarok. "Satu boleh. Dua boleh. Jangan mengubah kebiasaan menjadi angka suci."
+
+Sareth bergabung dan menunjuk lilin-lilin mati. "Satu cahaya. Tidak harus lilin, tetapi satu sumber. Tempat penyimpanan perlu tetap mengenali dirinya."
+
+"Pemanggilnya keluarga," kata Sela sambil menulis.
+
+Adik Sarneth, yang mendengar dari beberapa langkah jauhnya, menggeleng. "Kalau keluarganya sudah tidak ada?"
+
+Barim menjawab, "Orang yang mengenali pekerjaannya. Penjaga lama, kawan, murid. Seseorang yang bisa mengatakan hal yang tidak tercetak di daftar."
+
+"Bukan pejabat," tambah Hale.
+
+Semua mata beralih kepadanya. Wali kota itu menggulung panjinya sendiri. "Tulis. Aku perlu aturan yang mencegah orang sepertiku mengira dana perjalanan memberi hak untuk masuk."
+
+Sela menulis lima pasal dengan huruf besar. Maksimal tiga pendamping. Satu cahaya. Diam sebelum memanggil. Pemanggil membawa ingatan hidup, bukan jabatan. Datang untuk melanjutkan pekerjaan, bukan mengadakan upacara.
+
+"Pasal terakhir terlalu puitis," kata Ossian dari belakang kerumunan.
+
+"Bagus," jawab Sela. "Berarti pejabat akan terpaksa bertanya artinya sebelum melanggar."
+
+Protokol itu dibacakan sekali. Bukan kepada hadirin, melainkan kepada gudang. Dari bawah lantai datang satu sapuan hangat. Kovan menempelkan telapak, mendengarkan, lalu menerjemahkannya.
+
+"Bagus. Kalian belajar cepat. Tapi yang ramai tadi jangan dibawa lagi. Aku menyimpan orang, bukan menerima parade."
+
+Hale memasukkan panji yang sudah tergulung ke gerobaknya.
 
 ---
 
-Entri Hourglass Ashvarok untuk bab ini — ditulis setelah makan malam di rumah Sarneth, di meja panjang keluarga, dengan air dari gerabah delapan belas tahun yang akhirnya dipakai:
-Hari 384. Pemulangan pertama: SARNETH. Pulih. Dan malam ini aku makan di rumahnya, dari persediaan yang dibuatnya sebelum hilang.
-Pelajaran terbesar pemulangan pertama bukan tentang protokol. Ternyata tentang WAKTU: kedalaman menyimpan jiwa Sarneth utuh — tetapi delapan belas tahun dunia tidak menunggu. Cucu-cucu yang ia harapkan sudah dewasa dan punya anak sendiri. Rumahnya direnovasi orang lain. Tungkunya dingin.
-Pemulangan bukan mengembalikan masa lalu. Ia menyambungkan masa lalu ke masa kini — dengan semua jahitannya. Dan pekerjaan kita selanjutnya adalah membantu jahitan itu rapi: satu keluarga, satu bulan, satu pot air pada suatu waktu.
+Perbaikan tungku berlangsung tiga hari, bukan satu sore. Sarneth menemukan cerobongnya tersumbat sarang serangga dan dua bata landasan telah melesak. Ia ingin membongkar sendiri. Adiknya memberinya bangku, alat kecil, dan larangan mengangkat apa pun yang lebih berat daripada kendi.
+
+Pada hari pertama ia memprotes semua perubahan. Pegangan pintu gudang dipasang terlalu tinggi. Kayu bakar baru berasap pahit. Harga garam glasir membuatnya menuduh pedagang masa kini tidak punya leluhur. Pada hari kedua, dua orang muda dari keluarga datang meminta diajari menambal tungku. Sarneth berhenti mengeluh cukup lama untuk memeriksa telapak mereka.
+
+"Kalian pernah pegang tanah?"
+
+"Belum."
+
+"Bagus. Berarti belum punya kebiasaan buruk. Ambil bata itu—yang kecil. Kalau adikku lihat kalian kasih aku yang besar, kita bertiga diusir."
+
+Mereka bekerja sampai matahari menyentuh dinding lembah. Sarneth mengajari mereka mendengar bata berongga dengan buku jari. Sebagai gantinya, mereka menunjukkan cara memakai pengukur panas baru yang tidak membutuhkan tangan mendekati mulut tungku. Ia menyebut alat itu pengecut, lalu meminta dibuatkan satu.
+
+Hari ketiga, lima potongan gerabah masuk api.
+
+Salah satunya mengeluarkan bunyi retak sebelum panas penuh. Adik Sarneth meraih tuas untuk menurunkan aliran udara, tetapi Sarneth menahan tangannya.
+
+"Kalau kita turunkan sekarang, empat lainnya matang tidak rata."
+
+"Kalau diteruskan, yang itu pecah."
+
+"Mungkin."
+
+"Kak, kau menunggu delapan belas tahun untuk lima-limanya."
+
+Sarneth mengamati garis panas melalui lubang tungku. "Aku menunggu untuk menyelesaikan pekerjaan, bukan memaksa semua tanah selamat. Teruskan api."
+
+Mereka mempertahankan panas sampai malam. Ketika tungku cukup dingin untuk dibuka, kelima benda masih utuh. Pot yang berbunyi retak memiliki garis tipis dari bibir sampai bahu, tetapi retaknya berhenti sebelum dasar.
+
+Sarneth tidak menyembunyikan garis itu dengan glasir. Ia mengisinya dengan pengikat gelap, menggosok permukaan sampai halus, lalu menaruh pot tersebut di tengah set. Kelima pot ternyata wadah persediaan dapur: satu untuk air, dua untuk bahan kering, satu untuk garam, dan yang retak untuk sendok masak.
+
+"Yang retak jangan untuk air," katanya. "Bukan berarti dibuang. Cuma pekerjaannya berubah."
+
+Adiknya menyentuh garis gelap itu. "Seperti pemiliknya?"
+
+"Pemiliknya masih bisa menyimpan air. Hanya lebih sering bocor dari mata."
+
+Kali ini tawa keluarganya tidak membuat ia mundur. Sarneth ikut tertawa, terlambat setengah detik, lalu mengisi pot terbesar dan membawanya ke meja dengan kedua tangan.
 
 ---
 
-Sisa bab diisi satu adegan yang melengkapi gambaran pemulangan pertama — sisi yang jarang diceritakan: kesulitan Sarneth beradaptasi.
-Dua pekan setelah pulang, lelaki tua itu datang ke gudang perkakas dengan wajah jujur yang lelah: "Renn. Aku mau berbicara jujur. Pulang itu indah tiga hari pertama. Hari keempat mulai berat. Semuanya berubah — jalanan, muka orang, harga di pasar. Aku delapan belas tahun ketinggalan dunia, dan tiap hari ada saja yang membuat aku kerasa bodoh."
-Ashvarok mendengarkan sampai selesai, lalu menjawab dengan pengalaman dua kehidupan: "Pak Sarneth, seribu tahun silam aku terbangun di tubuh bocah lain, di dunia yang sudah lupa seniku, dengan nama yang dibakar dari sejarah. Tiga bulan pertamanya aku juga kerasa bodoh tiap hari." Ia menepuk meja. "Bedanya kamu punya keluarga dan seluruh Caldrest. Dan punya tempat bercerita ini. Pintunya buka jam berapa saja."
+Malam itu Ashvarok makan di rumah Sarneth. Air di meja berbau samar tanah bakar. Sarneth mencicipinya seperti penilai menguji hasil kerja, mengangguk, lalu mendorong cangkir kedua kepada Ashvarok.
 
----
+"Pulang itu indah sampai orang mulai menjelaskan apa saja yang berubah," katanya. "Setiap penjelasan membuatku merasa bodoh di rumah sendiri."
 
-Kelompok pendukung pemulang pertama terbentuk malam itu tanpa direncanakan: Sarneth, Barim (yang tahu rasanya kehilangan delapan belas tahun), Tovik (yang tahu rasanya dibangunkan), dan Lissa (yang tahu rasanya menemukan karyanya sudah setengah jadi) — empat orang yang menyebut diri mereka "Klub Delapan Belas Tahun". Syarat masuknya satu: pernah ketinggalan dunia.
-"Dapur kita di rumah Sarneth, tiap Kapat," kata Tovik. "Ibunya yang masak." Jeda. "Bukan ibunya aku — maksudku ibu Sarneth. Eh." Ia menyerah pada kalimatnya. "Pokoknya ada yang masak."
+"Besok akan ada lebih banyak."
 
----
+"Itu caramu menghibur?"
 
-Dan penutup bab — catatan Sela di Hourglass yang merangkum pemulangan pertama dengan angka yang tidak akan pernah masuk laporan resmi:
-"Neraca pemulangan #1 (versi pencatat, bukan versi resmi):
-- 1 jiwa dipulangkan: Sarneth.
-- 5 gerabah dibakar setelah menunggu 18 tahun.
-- 1 keluarga dapat meja panjang penuh lagi tiap malam makan.
-- 1 klub baru berdiri (Klub Delapan Belas Tahun; anggota 4; jadwal Kapat; tempat rumah Sarneth).
-- 1 raja mendapat teman bercerita baru.
-- Protokol diperbaiki dari kegagalan nyaris: mahal harganya, tetapi sepadan."
+"Bukan. Aku pernah bangun di tubuh bocah, seribu tahun terlambat, lalu dimarahi anak sebelas tahun karena tidak tahu harga roti. Penghiburan tidak membantu. Orang yang menjawab pertanyaan tanpa menertawakan membantu."
 
----
+Sarneth memutar cangkirnya. "Kalau pemulangan berikutnya datang kepadaku?"
 
-Sisa tiga ratus kata — diisi satu adegan yang menutup lingkaran emosional pemulangan pertama: kunjungan kedalaman terakhir sebelum bab berakhir.
-Ashvarok turun malam itu untuk melapor — sesuai pasal baru: setiap pemulangan dilaporkan langsung kepada penitipnya, dengan hasil.
-"Sarneth sudah pulang," katanya lewat Listen. "Gerabahnya dipakai. Keluarganya berkumpul. Dia ikut klub Kapat."
-Sapuan menjawab dengan irama panjang yang diterjemahkan Kovan besoknya — dan terjemahannya ditulis Sela di dinding gudang perkakas, di samping peta nama, karena kalimat itu pantas dibaca semua orang:
-"Terima kasih. Delapan belas tahun aku jaga dia supaya tidak rusak. Kalian yang menjaganya supaya tidak kesepian. Kerja bagus, kedua tim."
+"Jawab satu hal yang ia tanyakan. Jangan sepuluh hal yang ingin kaujelaskan."
 
----
+"Dan kalau dia tidak tahu harus bertanya apa?"
 
-Sisa dua ratus kata — diisi satu adegan terakhir yang menutup bab dengan cara Caldrest: malam Kapat pertama Klub Delapan Belas Tahun, di dapur rumah Sarneth.
-Anggota: empat. Menu: sup resep lama utara (dibawa Lissa). Agenda: tidak ada — dan justru karena tidak ada, percakapannya mengalir tiga jam: soal harga yang naik, soal anak ayam yang sekarang warnanya beda, soal lagu yang dulu enak tetapi sekarang terdengar aneh.
-Di tengah percakapan, Tovik berkata kalimat yang dirangkum Sela sebagai inti seluruh klub:
-"Kalian tidak merasa aneh kan, kita empat orang yang paling ketinggalan zaman di Karvess berkumpul makan sup?"
-"Tidak," jawab Barim. "Aku malah merasa ini kelompok paling paling mutakhir. Kita saja yang tahu rasanya kehilangan delapan belas tahun DAN mendapatkannya kembali. Orang lain belum pernah dua-duanya."
+Ashvarok menunjuk pot bergaris gelap di dekat tungku rumah. "Beri pekerjaan kecil. Sesuatu yang selesai hari itu juga."
 
-Angka catatan teh akhirnya masuk arsip resmi — dengan keterangan yang ibu Tamma minta ditulis persis: "bukan statistik. Ini bukti bahwa orang masih punya waktu." Sela menambahkannya tanpa diedit, karena beberapa kalimat memang sudah sempurna dari asalnya.
+Sarneth mengangguk. "Suruh mereka datang kemari. Tapi jangan empat puluh sekaligus."
 
----
+Dengan itu, protokol mendapat pasal yang tidak ditulis di gudang: orang pulang memerlukan tempat untuk mengaku bahwa pulang juga berat. Sarneth menawarkan dapurnya setiap Kapat. Barim akan datang. Tovik juga, bila malamnya tidak berbenturan dengan name-roll. Tidak ada nama resmi, daftar anggota, atau pejabat penanggung jawab. Hanya sup, tanah bakar, dan orang-orang yang pernah kehilangan bagian waktu.
 
-Dan baris penutup bab 196 — entri Hourglass terakhir, ditulis Ashvarok setelah pulang dari dapur Sarneth:
-Hari 386. Malam ini aku belajar definisi pemulangan yang benar dari empat orang tua di atas sup: bukan kembali ke dunia seperti dulu — karena dunia sudah jalan delapan belas tahun tanpa menunggu.
-Pemulangan yang benar adalah: menemukan tempat baru di dunia yang baru, bersama orang-orang yang paham harga tiketnya.
-Klub Delapan Belas Tahun, Kapat pertama: resmi berdiri. Dan Caldrest punya institusi ke-35.
+Sebelum tidur, Ashvarok turun ke gudang gerabah dan menempelkan telapak ke lantai.
+
+"Sarneth sudah pulang," katanya melalui Listen. "Lima pekerjaannya selesai. Satu retak dan mendapat tugas baru."
+
+Kedalaman menjawab dengan sapuan panjang. Kovan baru menerjemahkannya keesokan pagi, tetapi Ashvarok telah memahami nadanya malam itu: lega yang kelelahan.
+
+"Delapan belas tahun aku menjaganya supaya tidak rusak. Sekarang kalian menjaganya supaya tidak sendirian. Kerja bagus, kedua tim."
+
+Di atas, Sela menyiapkan perlengkapan pemulangan kedua. Ia mengeluarkan tiga puluh sembilan lilin dari peti, meninggalkan satu. Mencoret angka empat puluh pada daftar pendamping, menulis tiga. Panji kota tetap tergulung di gerobak.
+
+Paling akhir, ia meletakkan gulungan benang biru laut di samping daftar nama Lissa.

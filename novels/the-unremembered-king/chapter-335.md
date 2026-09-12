@@ -101,4 +101,4 @@ Mira di menara menutup buku catatannya. "Mereka mencatat angka," katanya pada pe
 
 Ashvarok-Renn menoleh pada Gella. "Sembilan napas di dadaku," katanya pelan. "Empat sudah di ambang. Sisa the Silence dan the Ground yang menunggu. Kita lebih dulu dari mereka yang buta."
 
-Gella mengangguk pelan. "Maka kita kejar the Silence dan the Ground sebelum mereka paham napas," katanya. "Empat sudah di ambang. Sisa tiga simpul menunggu."
+Gella mengangguk pelan. "Maka kita kejar the Silence dan the Ground sebelum mereka paham napas," katanya. "Empat kini telah mencapai ambang. Sisa tiga simpul menunggu."

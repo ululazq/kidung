@@ -5,13 +5,13 @@ chapter: 205
 
 Tiga pemulangan pertama berjalan dalam enam pekan — Sarneth dengan gerabahnya yang akhirnya dibakar di tungku keluarganya sendiri, Lissa dan Endah dengan selimut dan pernikahan yang diadakan ulang (seluruh Caldrest diundang; Lissa mengirim undangan kepada kedalaman juga, lewat batu asah, karena "dia simpan benangku delapan belas tahun, dia harus lihat hasilnya" — dan batu itu menjawab dengan irama yang diterjemahkan Kovan sebagai "aku datang"), dan Rina yang kini punya mainan baru buatan Harn serta tawa kecil yang membuat seluruh kota berhenti bekerja sebentar setiap kali terdengar.
 
-Armada utara bekerja seperti mesin yang dipelihara dengan cinta: protokol matang, pembaca bertambah (tiga puluh satu lulusan tingkat dua), keluarga-keluarga yang menunggu tersusun rapi dalam jadwal Ossian. Juru ukur selatan sudah berkali-kali menulis surat menanyakan kabar saudaranya; jawaban yang bisa diberikan Kantor Penghubung masih sama setiap kali: pencarian aktif, prioritas atas, sabar.
+the Northern Reader Fleet bekerja seperti mesin yang dipelihara dengan cinta: protokol matang, pembaca bertambah (tiga puluh satu lulusan tingkat dua), keluarga-keluarga yang menunggu tersusun rapi dalam jadwal Ossian. Juru ukur selatan sudah berkali-kali menulis surat menanyakan kabar saudaranya; jawaban yang bisa diberikan the Liaison Office masih sama setiap kali: pencarian aktif, prioritas atas, sabar.
 
 Delapan belas tahun keterlambatan mulai dilunasi satu per satu.
 
 Lalu pada hari kedua ratus empat puluh lima, kedalaman mengirim kalimat yang membuat semua rencana harus digambar ulang.
 
-Ashvarok sedang membaca nat barat bersama Telinga Dua ketika iramanya datang — panjang, hati-hati, disampaikan dengan struktur bahasa penjaga yang sudah jauh lebih lancar dari bulan-bulan pertama, bahasa yang kini berirama seperti orang yang sudah lama tidak perlu memikirkan cara berjalan ketika berjalan. Ia memanggil Kovan, dan penghitung itu menerjemahkannya malam itu juga, menulisnya dengan huruf besar di halaman yang nanti akan menjadi halaman paling terkenal dalam tiga jilid buku sandinya:
+Ashvarok sedang membaca nat barat bersama Two Ears ketika iramanya datang — panjang, hati-hati, disampaikan dengan struktur bahasa penjaga yang sudah jauh lebih lancar dari bulan-bulan pertama, bahasa yang kini berirama seperti orang yang sudah lama tidak perlu memikirkan cara berjalan ketika berjalan. Ia memanggil Kovan, dan penghitung itu menerjemahkannya malam itu juga, menulisnya dengan huruf besar di halaman yang nanti akan menjadi halaman paling terkenal dalam tiga jilid buku sandinya:
 
 "Tiga sudah pulang. Bagus. Namun kau harus tahu sesuatu sebelum kalian melanjutkan." Jeda. "Yang kutitipkan itu bukan semua milik utara kalian. Ada lebih banyak dari empat ratus. Aku juga menyimpan yang LEBIH TUA — dari sebelum Hegemony, dari sebelum ordo kalian, dari zaman yang bahkan tidak kuingat kapan dimulainya. Mereka datang padaku sendiri, zaman-zaman sulit dunia, dan aku menyimpan mereka karena tidak ada tempat lain." Jeda yang sangat panjang — cukup panjang sampai Kovan menoleh ke Ashvarok untuk memastikan kalimatnya belum selesai. "Datanglah dengan hati yang besar, penjaga. Yang di dalam sini lebih banyak ceritanya dari yang kalian bayangkan."
 
@@ -45,7 +45,7 @@ Aula itu sunyi lama. Yang akhirnya bicara adalah ibu Tamma, dari arah dapurnya: 
 
 Ashvarok memandang meja panjang itu — semua wajah yang delapan bulan lalu adalah musuh, asing, atau orang yang takut — dan berkata kalimat yang menjadi arah era berikutnya:
 
-"Maka pekerjaan kita bukan proyek dekade lagi. Ini warisan yang akan kita kerjakan selamanya, dan itu baik — karena sekarang kita tahu cara kerjanya: sabar, protokol, keluarga, dan tamu tua yang menjaga semuanya untuk kita." Ia menutup rapat dengan kalimat yang ditulis Sela dan akan dibacakan ulang tiap tahun hingga ratusan tahun kemudian: "Caldrest tidak lagi kota penjaga segel. Caldrest adalah kota yang menjemput semua yang dikira dunia hilang. Mulai besok, kita bekerja."
+"Maka pekerjaan kita bukan the Decade Project lagi. Ini warisan yang akan kita kerjakan selamanya, dan itu baik — karena sekarang kita tahu cara kerjanya: sabar, protokol, keluarga, dan tamu tua yang menjaga semuanya untuk kita." Ia menutup rapat dengan kalimat yang ditulis Sela dan akan dibacakan ulang tiap tahun hingga ratusan tahun kemudian: "Caldrest tidak lagi kota penjaga segel. Caldrest adalah kota yang menjemput semua yang dikira dunia hilang. Mulai besok, kita bekerja."
 
 ---
 
@@ -67,7 +67,7 @@ Rencana sepuluh tahun disusun ulang malam itu juga — kali ini dengan kolom yan
 
 Yang terakhir malam itu, seperti biasa, Ashvarok turun ke nat barat sendirian — dan menemukan tamu tua itu sudah menunggu dengan irama yang tidak pernah ia dengar sebelumnya: pelan, ganda, seperti pertanyaan yang sudah tahu jawabannya tetapi tetap bertanya.
 
-"Ya," kata Ashvarok, menjawabnya dengan Telinga Dua. "Kami akan datang dengan hati yang besar. Dan kau harus tahu satu hal juga — sesuatu yang belum pernah kukatakan langsung."
+"Ya," kata Ashvarok, menjawabnya dengan Two Ears. "Kami akan datang dengan hati yang besar. Dan kau harus tahu satu hal juga — sesuatu yang belum pernah kukatakan langsung."
 
 Ia meletakkan kedua telapaknya lebih rapat ke batu.
 
@@ -81,6 +81,6 @@ Ashvarok yang mendengarnya dari nat barat tertawa pelan di kegelapan aula, karen
 
 Sapuan menjawab dengan denyut tambahan itu lagi. Setia. Sabar.
 
-Ia akan memberitahu Sela besok pagi, dan gadis itu akan membuka halaman baru di peta nama — gerbong terakhir name train Caldrest, yang namanya belum diberikan manusia mana pun tetapi sudah menjawab "ada" setiap malam selama seribu tahun. Dan untuk pertama kalinya, pekerjaan memberinya nama tidak terasa seperti memberi. Terasa seperti membalas.
+Ia akan memberitahu Sela besok pagi, dan gadis itu akan membuka halaman baru di name map — gerbong terakhir name train Caldrest, yang namanya belum diberikan manusia mana pun tetapi sudah menjawab "ada" setiap malam selama seribu tahun. Dan untuk pertama kalinya, pekerjaan memberinya nama tidak terasa seperti memberi. Terasa seperti membalas.
 
-Pasar Caldrest melahirkan tren baru tanpa diminta: batu-batu kecil penggorengan diukir nama singkat pemiliknya, meniru tradisi batu batas ladang utara. Nama yang melekat di pasar: "batu janji". Ossian akhirnya menulis komentar resmi pertamanya tentang budaya jalanan Karvess: "ini bukan sekadar tiruan. Bahasa ini sedang menyebar — dan penyebarannya justru sehat."
+Pasar Caldrest melahirkan tren baru tanpa diminta: batu-batu kecil penggorengan diukir nama singkat pemiliknya, meniru tradisi batu batas ladang utara. Nama yang melekat di pasar: "promise stone". Ossian akhirnya menulis komentar resmi pertamanya tentang budaya jalanan Karvess: "ini bukan sekadar tiruan. Bahasa ini sedang menyebar — dan penyebarannya justru sehat."

@@ -27,7 +27,7 @@ Ashvarok-Renn menganggukkan kepala sekali.
 
 Bagian kedua: lagu utuh.
 
-Ia dimainkan oleh kedalaman bersama seam saksi lewat jalur tanah — tujuh penjaga malam Karvess bersahutan, dari nat-nat aula sampai nat lorong barak utara, dan lagu satu malam seribu tahun silam mengalun lagi di dunia yang akhirnya siap mendengarnya.
+Ia dimainkan oleh kedalaman bersama the Witness Seam lewat jalur tanah — tujuh penjaga malam Karvess bersahutan, dari nat-nat aula sampai nat lorong barak utara, dan lagu satu malam seribu tahun silam mengalun lagi di dunia yang akhirnya siap mendengarnya.
 
 Aula itu gelap kecuali tenunan Lompa dan kain Vel-Morra yang digantung melingkari dinding, keduanya memancarkan aksara tenun yang bisa dibaca siapa pun yang duduk di mana pun: seluruh lagu, ditenun, agar pendengaran punya teman.
 
@@ -51,7 +51,7 @@ Tidak ada yang bergerak di aula itu selama beberapa detik setelahnya.
 
 Lalu, dari baris belakang, terdengar bunyi kursi kayu digeser pelan — dan Anthema Spire berdiri, menghadap pintu, bahu tegang seperti orang yang bertarung dengan keputusannya sendiri.
 
-Sebelum pemimpin Choir itu sampai ke pintu, dua belas murid delegasi sudah bergerak duluan. Bukan menghalangi. Anak-anak itu hanya berdiri di sepanjang jalurnya menuju pintu, satu per satu, diam — bukan pagar, tetapi lorong. Dan di ujung lorong anak-anak itu, murid termuda — sembilan tahun, cabang pegunungan timur laut — mengangkat buku seribu pertanyaan itu dengan kedua tangan, terbuka pada satu halaman.
+Sebelum pemimpin Choir itu sampai ke pintu, dua belas murid delegasi sudah bergerak duluan. Bukan menghalangi. Anak-anak itu hanya berdiri di sepanjang jalurnya menuju pintu, satu per satu, diam — bukan pagar, tetapi lorong. Dan di ujung lorong anak-anak itu, murid termuda — sembilan tahun, cabang pegunungan timur laut — mengangkat the Book of a Thousand Questions itu dengan kedua tangan, terbuka pada satu halaman.
 
 Anthema Spire berhenti.
 
@@ -63,7 +63,7 @@ Lalu ia berbalik, kembali ke kursi baris belakangnya, dan duduk sampai malam sel
 
 ---
 
-Bagian keempat: surat Pembaca Tua, dibacakan Sela sesuai permintaan penulisnya — setelah lagu, setelah cerita, setelah semua orang selesai marah pada versi yang salah.
+Bagian keempat: surat the Old Reader, dibacakan Sela sesuai permintaan penulisnya — setelah lagu, setelah cerita, setelah semua orang selesai marah pada versi yang salah.
 
 Isinya empat generasi jabatan menyimpan benda-benda benar di dalam sistem yang salah. Daftar koreksi-koreksi yang tidak boleh diucapkan. Dan di bagian akhirnya, jawaban atas misteri penyelundup nada:
 
@@ -88,7 +88,7 @@ Seribu orang mengikutinya tanpa diminta.
 
 Bagian terakhir malam itu tetap kosong sampai akhir — dan keputusannya datang dari tempat yang sudah dijanjikan.
 
-Dua belas murid delegasi berdiri di depan buku seribu pertanyaan, berunding pelan selama satu menit penuh, tidak peduli seribu pasang mata menunggu. Lalu murid termuda — sembilan tahun, cabang pegunungan timur laut, yang pertanyaannya soal sup dan kursi sudut kedua — maju ke tengah aula membawa selembar kertas hasil putusan.
+Dua belas murid delegasi berdiri di depan the Book of a Thousand Questions, berunding pelan selama satu menit penuh, tidak peduli seribu pasang mata menunggu. Lalu murid termuda — sembilan tahun, cabang pegunungan timur laut, yang pertanyaannya soal sup dan kursi sudut kedua — maju ke tengah aula membawa selembar kertas hasil putusan.
 
 Ia membacakannya dengan suara anak sembilan tahun yang berlatih sepanjang jalan dari pegunungan:
 
@@ -124,7 +124,7 @@ Name train seribu orang, untuk nama-nama yang seribu tahun menunggu.
 
 Di baris belakang, Anthema Spire menyebutkan satu nama juga — pelan sekali, hanya untuk dirinya sendiri, tetapi nat lorong yang menyelinap mendengar dari jendela tinggi bersumpah sampai akhir hidupnya bahwa nama itu adalah nama seorang adik.
 
-Dan di dataran tinggi Vhal-Duren, seam saksi menerima seluruh malam itu lewat jalur tanah, dan menjawab dengan detak tujuh-tujuhnya — tujuh-tujuhnya, karena sekarang lagunya utuh dan saudaranya didengar:
+Dan di dataran tinggi Vhal-Duren, the Witness Seam menerima seluruh malam itu lewat jalur tanah, dan menjawab dengan detak tujuh-tujuhnya — tujuh-tujuhnya, karena sekarang lagunya utuh dan saudaranya didengar:
 
 *AKHIRNYA. AKHIRNYA. AKHIRNYA.*
 

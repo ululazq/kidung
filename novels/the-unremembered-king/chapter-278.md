@@ -7,7 +7,7 @@ Kabar dari kedalaman datang pada pagi berkabut, lewat jalur yang sudah menjadi k
 
 "Ada permintaan," katanya. "Dari dalam. Dari penghuninya sendiri."
 
-Ruang tamu besar disiapkan sore itu — aula kecil di tepi pos jemput utara, dengan nat-nat penghubung yang menghadap ke bawah. Protokol musim dipasang penuh: tiga orang pendengar, lilin, sabar dulu, keluarga yang memanggil, dan datang dengan kerja.
+Ruang tamu besar disiapkan sore itu — aula kecil di tepi pos jemput utara, dengan nat-nat penghubung yang menghadap ke bawah. the Seasonal Protocol dipasang penuh: tiga orang pendengar, lilin, sabar dulu, keluarga yang memanggil, dan datang dengan kerja.
 
 Yang muncul di irama lagu itu bukan jiwa tua seperti biasa pemulangan.
 
@@ -25,9 +25,9 @@ Hening di aula kecil itu.
 
 ---
 
-Pertanyaan itu dibawa ke rapat rumah besar pada malam yang sama — dan untuk pertama kalinya dalam sejarah protokol musim, rapat tidak membahas cara memulangkan, tetapi apakah pemulangan boleh DITUNDA atas permintaan penghuninya sendiri.
+Pertanyaan itu dibawa ke rapat rumah besar pada malam yang sama — dan untuk pertama kalinya dalam sejarah the Seasonal Protocol, rapat tidak membahas cara memulangkan, tetapi apakah pemulangan boleh DITUNDA atas permintaan penghuninya sendiri.
 
-"Protokol musim pasal satu sampai enam tidak menyentuh kasus ini," kata Ossian, membuka buku hukumnya lalu menutupnya lagi. "Semua pasal mengatur tentang keluarga yang memanggil. Tidak ada satu pun yang membayangkan bahwa yang dipanggil minta waktu dulu."
+"the Seasonal Protocol pasal satu sampai enam tidak menyentuh kasus ini," kata Ossian, membuka buku hukumnya lalu menutupnya lagi. "Semua pasal mengatur tentang keluarga yang memanggil. Tidak ada satu pun yang membayangkan bahwa yang dipanggil minta waktu dulu."
 
 "Karena seribu tahun tidak ada yang sanggup bertanya," kata Ashvarok-Renn. "Yang dititipkan selalu dianggap barang titipan yang menunggu diambil. Tidak ada yang bertanya apa yang MAU mereka." Ia memandang keliling meja panjang. "Padahal prinsipnya sudah kita pegang sejak awal: rumah tidak gagal ketika penghuninya belum pulang. Dan rumah yang baik..." Ia tersenyum tipis. "...tidak juga menyeret penghuninya keluar sebelum dia siap, hanya karena pintunya sudah terbuka."
 
@@ -50,7 +50,6 @@ Di akhir hari, ketika matahari turun dan ladang selesai, Vess-Morath menyanyikan
 Ibu Tamma mendengar itu sambil memegang sendok aduk yang berhenti di udara.
 
 "Seribu tahun," katanya akhirnya, suaranya tidak stabil untuk pertama kalinya di depan banyak orang. "Seribu tahun mereka di dalam sana, dan yang sampai ke mereka dari dunia luar hanya cerita soal sup." Ia mengucek matanya dengan pergelangan tangan, cara lama perempuan dapur yang tidak mau disebut menangis. "Baiklah. Besok kita masak bersama. Berapa pun jumlahnya, pancinya cukup."
-EOF
 ---
 
 Malam memasak bersama itu menjadi legenda sebelum gandum panen berikutnya menguning.
@@ -65,7 +64,7 @@ Dan ibu Tamma sendiri, ketika ditanya resep apa yang ia pakai, menjawab dengan j
 
 ---
 
-Laporan musim ditutup Ashvarok-Renn dengan kunjungan pribadi ke nat lorong barak utara — kebiasaan baru yang tidak dijadwalkan siapa pun tetapi sudah berjalan tiga pekan berturut-turut: setiap ada kabar musim dari dalam, raja itu datang membacakan kepada Yang Dulu Sunyi, karena nat tua ini adalah satu-satunya pendengar di Karvess yang seribu tahun lalu juga pernah menunggu di sisi yang sama.
+Laporan musim ditutup Ashvarok-Renn dengan kunjungan pribadi ke nat lorong barak utara — kebiasaan baru yang tidak dijadwalkan siapa pun tetapi sudah berjalan tiga pekan berturut-turut: setiap ada kabar musim dari dalam, raja itu datang membacakan kepada the Once-Silent, karena nat tua ini adalah satu-satunya pendengar di Karvess yang seribu tahun lalu juga pernah menunggu di sisi yang sama.
 
 "Mereka minta ikut panen," katanya malam itu. "Seribu tahun menunggu, dan permintaan pertama mereka begitu mereka sadar pintunya terbuka: bolehkah bekerja dulu."
 
@@ -107,11 +106,11 @@ Pesan itu panjang. Barim menerjemahkannya bertahap, dan bagian-bagian yang palin
 
 "'Jangan siapkan pidato. Jangan siapkan upacara besar. Kami sudah mendengar cukup banyak kata-kata indah dari dalam, lewat lagu kalian.'"
 
-"'Siapkan kursi saja. Banyak kursi. Dan sup — sup ibu Tamma, sup kamp pertama, resep aslinya. Karena kami seribu tahun menunggu dengan perut yang tidak bisa lapar, dan kami mau merasakan sekali lagi hal paling manusia di dunia:'"
+"'Siapkan kursi saja. Banyak kursi. Dan sup — sup ibu Tamma, First Camp Soup, resep aslinya. Karena kami seribu tahun menunggu dengan perut yang tidak bisa lapar, dan kami mau merasakan sekali lagi hal paling manusia di dunia:'"
 
 "'Datang ke meja makan sebagai orang yang punya nama... dan disajikan makanan.'""
 
-Di barak utara, Yang Dulu Sunyi meneruskan irama itu ke semua nat di jaringan — dan untuk pertama kalinya, jawaban balasan datang serentak dari ratusan batu, bukan berupa kata:
+Di barak utara, the Once-Silent meneruskan irama itu ke semua nat di jaringan — dan untuk pertama kalinya, jawaban balasan datang serentak dari ratusan batu, bukan berupa kata:
 
 Irama meja disusun. Irama mangkuk diletakkan. Irama kursi digeser.
 

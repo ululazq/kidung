@@ -58,7 +58,7 @@ Hangat menjalar di bawah telapaknya, lalu tenang. Formasi gema di balik besi ber
 
 "Habis?" tanya Brannoc.
 
-"Habis." Ashvarok membuka mata dan memandangi pintu itu, yang kini, dalam cahaya pelita buta, tampak persis seperti sebelumnya, tua, diam, tidak penting, dan itulah keindahan terbesar yang bisa dimiliki sebuah pintu darurat. "Ujinya besok. Kalau segel Dewan turun dan pintu ini masih nurut pada aturannya sendiri, berarti barak timur baru saja membeli jalan keluar dengan harga dua malam bercerita."
+"Habis." Ashvarok membuka mata dan memandangi pintu itu, yang kini, dalam cahaya blind lantern, tampak persis seperti sebelumnya, tua, diam, tidak penting, dan itulah keindahan terbesar yang bisa dimiliki sebuah pintu darurat. "Ujinya besok. Kalau Council Seal turun dan pintu ini masih nurut pada aturannya sendiri, berarti barak timur baru saja membeli jalan keluar dengan harga dua malam bercerita."
 
 Mereka menutup susunan bata itu kembali dengan Forge tipis, menyapu jejak, dan naik lewat jalur yang sama. Di persimpangan terakhir sebelum permukaan, Brannoc berhenti sebentar dan memandang ke bawah, ke arah yang tidak terlihat.
 

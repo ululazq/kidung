@@ -3,100 +3,236 @@ title: "Bab 32: Mesin yang Menyala"
 chapter: 32
 ---
 
-Pagi hari ketiga puluh enam, hujan abu turun tipis di atas Caldrest, dan Ossian Vael memulai pekerjaannya sebagaimana ia memulai segala sesuatunya: dengan meja yang rapi, tinta yang tidak terlalu pekat, dan dua surat yang ditulis dalam urutan yang keliru menurut orang awam.
+Pagi Hari 36, hujan abu menutupi Caldrest, dan Ossian Vael menulis surat pertama sebelum tehnya dingin.
 
-Surat pertama pendek, ditujukan kepada Overseer the Quiet Vein, hanya memberitahukan bahwa penilaian triwulanan atas aset seam the Underfold akan dilaksanakan lebih awal dari kalender biasa, demi kepentingan klasifikasi. Surat kedua panjang, disegel lilin tin thread, dialamatkan ke lantai empat puluh Anthema Spire — ke Koordinasi Artefak Regional, yaitu ke dirinya sendiri melalui jalur yang membuatnya tampak datang dari atas, sebab izin paling mahal selalu dibuat untuk tampak datang dari atas.
+Surat itu ditujukan kepada Overseer the Quiet Vein. Tiga paragraf, tanpa penjelasan yang dapat diperdebatkan: penilaian triwulanan seam the Underfold dimajukan; distrik timur tetap terbatas; seluruh akses menuju lorong B memerlukan daftar personel dan cap Regional Artifact Coordination.
 
-Ia mengeringkan tinta dengan pasir halus, lalu membaca ulang paragraf inti surat kedua itu, karena kata-kata adalah mata uang yang tidak boleh dicetak berlebihan:
+Surat kedua lebih panjang. Segelnya tin thread, alamatnya lantai empat puluh Anthema Spire. Secara resmi surat itu meminta persetujuan atas tindakan Ossian. Secara prosedural, jalurnya membuat persetujuan tampak seperti perintah yang turun dari atas ketika kembali nanti.
 
-> Menimbang kebutuhan pemetaan menyeluruh atas anomali L9B, Koordinasi Artefak Regional membuka kontrak survei bersertifikat kepada tim Assayers berlisensi penuh. Imbalan tidak diberikan dalam bentuk pembayaran segar. Imbalan berupa akses klasifikasi penuh ke arsip regional selama masa kontrak, termasuk klasifikasi artefak tingkat tinggi yang dinilai tim tersebut, serta satu pencalonan kursi pada komisi penilaian besar berikutnya bagi kepala tim yang menghasilkan peta lolos audit.
+Ia membaca paragraf inti dua kali.
 
-Ia membacanya sekali lagi dan menemukannya cukup jujur. Uang segar bisa dilacak, dikenai pajak, dan yang lebih buruk — bisa dibandingkan. Akses klasifikasi tidak bisa dihargai siapa pun, karena nilainya bergantung pada siapa yang belum memilikinya, dan setiap Assayer yang pernah tersandung satu klasifikasi tertutup tahu betapa dinginnya berdiri di depan pintu itu. Bertahun-tahun menilai barang di pasar pinggiran membuat seorang Assayer lapar bukan pada shardmark, melainkan pada deret huruf yang dilarang dibacanya. Ossian sudah lama belajar bahwa profesi apa pun menyimpan satu pintu yang diketuk pemiliknya setiap malam sebelum tidur, dan harga seseorang adalah nama pintu itu.
+> Regional Artifact Coordination membuka kontrak survei bersertifikat untuk anomali L9B. Imbalan diberikan sebagai akses klasifikasi penuh selama kontrak, termasuk arsip artefak tingkat tinggi yang dinilai tim, serta satu pencalonan kursi pada komisi penilaian besar bagi kepala tim yang menghasilkan peta lolos audit.
 
-Surat ketiga ditulisnya siang itu, paling pendek dari semuanya, kepada Bureau Chief Assayers' Guild dengan salinan kepada kepala biro penilaian lapangan yang dahulu mengirim seorang Assayer muda bernama Maera Tull ke Caldrest. Isinya satu paragraf: Koordinasi Artefak Regional meminta Guild mengajukan tim penilai terbaik yang tersedia untuk kontrak survei seam, syarat kepala tim berpengalaman menangani anomali kedalaman, dengan catatan bahwa nama-nama yang diajukan akan diperiksa kesesuaiannya oleh biro Ossian sendiri.
+Tidak ada uang segar. Uang dapat dihitung, dibandingkan, dikenai pajak, dan ditolak. Akses klasifikasi memiliki harga berbeda bagi setiap orang yang belum memilikinya. Assayer pinggiran dapat bertahan sepuluh tahun dengan honor kecil, tetapi satu deret huruf tertutup akan mengetuk kepalanya tiap malam.
 
-Syarat terakhir tidak diperlukan. Itu sebabnya wajib ada.
+Setiap profesi mempunyai satu pintu terlarang. Harga seseorang sering kali nama pintu itu.
 
----
+Ossian menaburkan pasir pada tinta. Di meja sebelah, pencatat kontrak menunggu dengan buku terbuka.
 
-Balasan pertama tiba subuh hari ketiga puluh tujuh, dibawa kurir cepat yang kudanya mati kelelahan di halaman penginapan distrik atas. Ossian membuka segel itu di ruang tamu meja bundar, di tengah aroma teh hitam murah dan gemuruh rendah cerobong. Tulisannya rapi, angkanya presisi — tanda tangan kepala biro penilaian lapangan.
+"Tidak ada honor dasar?" tanyanya.
 
-Guild menerima dengan satu revisi. Tim akan beranggotakan enam orang: satu Assayer senior sebagai kepala tim, dua pembaca pola bersertifikat, satu juru ukur kedalaman, satu juru arsip lapangan, dan satu pembawa standar gema. Revisinya terletak pada pasal imbalan: akses klasifikasi diminta diperluas hingga mencakup arsip era pra-Liberation milik Choir, "demi pembandingan historis".
+"Ada biaya perjalanan sesuai tabel."
 
-Ossian membaca kalimat itu dua kali, dan mulutnya membentuk sesuatu yang di tempat lain mungkin disebut senyum.
+"Mereka akan meminta lebih."
 
-Tentu saja mereka meminta arsip pra-Liberation. Setiap penilai tua di Karvess menyimpan satu nama yang hilang dari buku yang ingin dibacanya sekali sebelum mati. Begitu pula dirinya sendiri, pada arsip yang tidak boleh ia sebut. Ia menulis balasan sebelum tehnya dingin. Akses diperluas, dengan satu pengecualian yang tidak disertai alasan, dan pengecualian itu akan diumumkan setelah tim tiba serta bersumpah pada protokol kontrak. Pintu yang dibuka seluruhnya membuat orang masuk lalu pergi. Pintu yang dibiarkan retak membuat orang tinggal.
+"Tentu." Ossian melipat surat. "Permintaan mereka memberi tahu pintu mana yang harus dibiarkan setengah terbuka."
 
-Pada lampiran bawah, dengan tinta yang sama, ia menetapkan kerangka jadwal. Survei akan mencakup dua belas titik ukur, dari galeri atas sampai kedalaman lorong sembilan bawah, dengan turun perdana pada hari keempat puluh lima. Angka itu dipilih bukan dari keinginan melainkan dari kalender: delapan hari persiapan, empat hari cadangan cuaca buruk, sisanya untuk hal-hal yang tidak bisa direncanakan tetapi pasti datang — tambang ini telah membuktikan bahwa ia punya penduduk yang tidak tercatat.
+Surat ketiga pergi kepada Bureau Chief Assayers' Guild. Salinan dikirim ke kepala biro lapangan yang pernah menugaskan Maera Tull ke Caldrest. Isinya meminta tim terbaik untuk survei kedalaman, dengan syarat nama kepala tim harus mendapat persetujuan Ossian.
 
-Jadwal itu disalinnya ke dua lembar. Satu untuk Spire. Satu untuk laci mejanya, di atas daftar empat ratus keluarga distrik timur yang tiap malam bertambah tebal seperti endapan garam di lorong.
+Syarat itu tidak diperlukan. Karena itu, syarat tersebut wajib ditulis.
 
----
+Balasan pertama tiba subuh Hari 37. Kuda kurir roboh di halaman penginapan; kurirnya sendiri masih sanggup menyerahkan tabung surat dengan kedua tangan. Ossian membuka segel di ruang meja bundar, ditemani teh murah dan gemuruh cerobong.
 
-Assayer Tull datang pada sore hari ketiga puluh tujuh, dipanggil dengan surat resmi berkop Koordinasi Artefak Regional, dan duduk di kursi yang telah disiapkan. Ossian menyodorkan teh. Maera Tull menolak dengan angkat kepala kecil dan meletakkan kotak timbung mini di lututnya, kebiasaan seorang Assayer yang tidak pernah duduk jauh dari alat timbangnya.
+Guild menerima kontrak dengan satu revisi. Tim akan terdiri atas enam orang: Assayer senior, dua pembaca pola, juru ukur kedalaman, juru arsip lapangan, dan pembawa resonance standard. Sebagai imbalan, akses klasifikasi harus mencakup arsip Choir era pra-Liberation untuk pembandingan historis.
 
-"Asumsi saya," katanya sebelum Ossian sempat membuka mulut, "penawaran ini bukan tentang teh."
+Ossian tersenyum tipis.
 
-"Tidak pernah ada penawaran saya yang tentang teh." Ossian menggelindingkan lembar tawaran di meja dan menggesernya menyeberangi permukaan kayu. "Koordinasi Artefak Regional membutuhkan satu posisi: pembanding internal. Seorang Assayer yang sudah mengenal anomali L9B sebelum tim mana pun tiba, bekerja di sisi Guild, tetapi melapor ke prosedur kontrak — memastikan hasil tim Spire tidak menyimpang dari standar penilaian yang Anda kenal lebih baik daripada saya."
+"Pintu yang mana?" tanya pencatat kontrak.
+
+"Pra-Liberation."
+
+"Itu di luar wewenang regional."
+
+"Sebagian."
+
+"Kalau Anda buka seluruhnya, Spire akan meminta alasan."
+
+"Kalau saya tutup seluruhnya, Guild menolak." Ossian mengambil pena. "Buka, kecuali satu koleksi. Nama pengecualian diberikan setelah sumpah kontrak."
+
+Pencatat menatapnya. "Koleksi mana?"
+
+"Belum penting."
+
+Pintu yang terbuka seluruhnya membuat orang masuk lalu pergi. Pintu yang menyisakan celah membuat mereka tinggal dan membayangkan ruangan di belakangnya.
+
+Pada lampiran, Ossian menetapkan dua belas titik ukur. Survei dimulai Hari 45. Delapan hari untuk personel dan alat, satu hari cadangan administratif. Cuaca buruk tidak menerima jatah sendiri; jika abu menutup jalan, regu mengurangi bagasi, bukan tanggal.
+
+Pencatat membandingkan tanggal dengan daftar pengiriman. "Peti pengikat baru tiba Hari 44 kalau jalan utara bersih."
+
+"Pakai peti yang ada untuk turun pertama."
+
+"Setelah tiga pembacaan kosong?"
+
+"Terutama setelah tiga pembacaan kosong. Kegagalan alat lama memberi pembanding bagi alat baru."
+
+Ossian menambahkan urutan pada margin: titik satu sampai tiga tanpa klaim; titik empat sampai enam dengan resonance standard; titik tujuh hanya dibuka setelah dua hasil sebelumnya cocok. Prosedur itu membatasi petugas yang bersemangat dan, lebih penting, menciptakan alasan sah untuk menghentikan survei sebelum penjaga tak terlihat merasa dikepung.
+
+"Titik ketujuh ini dari laporan Tull?"
+
+"Dari ketebalan tintanya."
+
+"Itu bukan satuan ukur."
+
+"Bagi Assayer yang memilih setiap kata, tekanan pena adalah catatan tambahan."
+
+Pencatat menyalin urutannya. Ossian menambahkan dua syarat: tidak ada pengambilan sampel tanpa tanda kepala tim; setiap gema tak berbalas dicatat sebagai peristiwa, bukan kekosongan. Ia tidak percaya aula tersebut kosong. Mengubah istilah berarti mengubah apa yang dicari regu. Administrasi terbaik bekerja sebelum sepatu menyentuh tanah.
+
+Ia menyalin jadwal menjadi dua lembar. Satu untuk Spire. Satu untuk laci di atas daftar empat ratus keluarga distrik timur. Daftar itu tumbuh setiap malam, nama demi nama, sedangkan satu nama yang paling ia cari sengaja dihapus dari kertas resmi.
+
+Sore Hari 37, Maera Tull datang memenuhi panggilan berkop Regional Artifact Coordination. Ia meletakkan mini weighing box di pangkuan sebelum duduk. Gerakan itu tampak seperti kebiasaan; bagi Ossian, itu pernyataan wilayah.
+
+Ia menawarkan teh.
+
+"Penawaran ini bukan tentang teh," kata Maera.
+
+"Tidak pernah."
+
+Ossian menggeser lembar kontrak menyeberangi meja. "Saya membutuhkan pembanding internal. Assayer yang mengenal L9B sebelum tim Spire datang, bekerja menurut standar Guild, dan menguji apakah hasil survei menyimpang dari data dasar."
 
 "Mengapa saya?"
 
-"Sebab Anda menulis laporan lorong B yang saya membaca tiga kali, dan laporan itu jujur sampai ke baris yang merugikan jabatan saya sendiri. Orang sebesar itu langka, Assayer Tull. Saya mengumpulkan mereka."
+"Anda menulis laporan yang merugikan kepentingan saya tanpa mengubah satu angka pun."
 
-Mata Maera bergerak menghitung — ke kanan, ke bawah, kembali — dan Ossian menunggu, karena hitungan itu bukan keraguan melainkan pembagian. Gadis ini membagi dunia menjadi yang tertulis dan yang tidak.
+"Itu tugas Assayer."
 
-"Pasal mana," tanya Maera akhirnya, "yang mengatur kepemilikan laporan pembanding internal?"
+"Banyak orang memiliki tugas. Sedikit yang tetap melakukannya ketika kerugian punya nama."
 
-"Pasal kontrak. Semua catatan, salinan, dan pembacaan pribadi yang dihasilkan selama masa kontrak menjadi dokumen prosedur Koordinasi Artefak Regional."
+Mata Maera turun ke pasal pertama, lalu bergerak kanan-kiri dengan ritme tetap. Ia tidak membaca seperti orang mencari makna. Ia membagi kontrak menjadi wilayah yang dapat dimiliki, dipinjam, atau dirampas.
 
-"Termasuk catatan yang saya buat sebelum kontrak dimulai?"
+"Siapa memiliki catatan pembanding?" tanyanya.
 
-Ossian menahan dorongan untuk menghargai pertanyaan itu secara terbuka. "Kontrak hanya mengambil masa depan, Assayer Tull. Masa lalu Anda milik Anda sendiri."
+"Catatan yang dibuat selama kontrak menjadi dokumen prosedur Regional Artifact Coordination."
 
-"Saya akan membaca pasalnya." Maera mengambil lembar tawaran itu, melipatnya sekali, dan memasukkannya ke samping kotak timbung. "Jawaban saya bukan ya dan bukan tidak. Sesuai tata tertib Guild, saya berhak atas waktu pertimbangan tujuh hari sejak penawaran tertulis diterima. Hari ini hari pertama."
+"Salinan Guild?"
 
-"Tujuh hari."
+"Satu salinan terkunci setelah audit."
 
-"Anda mengenal tata tertib kami lebih baik daripada yang Anda tunjukkan, Tuan Vael. Tujuh hari."
+"Catatan sebelum kontrak?"
 
-"Tujuh hari," kata Ossian sambil mengetuk meja sekali, pelan, seperti menyetujui harga yang memang sudah ia hitung. Ia tahu tepat apa yang dilakukan gadis itu. Dengan tidak menjawab, Maera Tull tetap berdiri di dalam perlindungan prosedur Guild, tetapi juga tidak keluar dari jangkauan prosedurnya sendiri. Jawaban netral adalah jawaban termahal yang dapat dibeli, dan gadis ini memberikannya gratis. "Satu hal lagi sebelum Anda pergi. Posisi ini bukan perangkap."
+"Milik pembuatnya."
 
-"Saya tidak ingat pernah mengatakan itu perangkap, Tuan Vael."
+"Termasuk data L9B yang sudah saya segel?"
 
-"Tidak. Itu yang membuat Anda pantas mendapatkannya."
+"Kontrak tidak mengambil masa lalu."
 
-Maera berdiri, membungkuk tepat sepuluh derajat — ukuran yang dihitung, tentu saja — dan keluar meninggalkan aroma tinta Guild serta dingin udara sore di ruangan yang terlalu hangat. Ossian duduk diam beberapa saat. Kalau gadis itu menerima, semua laporan masa depannya mengalir ke meja ini, dan mata internal Choir akan terpasang di sisi Guild. Kalau gadis itu menolak, ia kehilangan perlindungan komisi dan harus menghadapi musim tanpa payung — dan orang tanpa payung dapat dibeli dengan kasus. Dua cabang jalan, keduanya menuju meja yang sama. Kesimpulan itu tidak ia tulis di mana pun. Kesimpulan sebaik ini tidak membutuhkan kertas.
+Maera membuka weighing box. Di dalamnya bukan bobot logam, melainkan tiga gulung kertas dan satu stempel kecil. Ia mengeluarkan kaca pembesar, memeriksa serat lembar tawaran, lalu mengukur lebar margin dengan kuku.
 
----
+Ossian membiarkannya. Orang yang memeriksa kertas sedetail itu akan memeriksa seam dengan kekejaman yang sama.
 
-Hari ketiga puluh delapan, pagi, Quota Office Caldrest. Ruangan berbau lilin murah dan kertas lama, dan Shift Guard Kovan berdiri di depan mejanya dengan sikap tegak orang yang dua kali dipermalukan oleh alatnya sendiri dan belum tahu harus menyalahkan siapa.
+"Pasal akses penuh menyebut semua titik," kata Maera. "Apakah saya dapat menolak pembacaan yang membahayakan struktur?"
 
-"Laporan tiga harian Anda berlanjut," kata Ossian. "Format sama. Tanpa potongan."
+"Anda dapat mencatat keberatan."
+
+"Bukan pertanyaan saya."
+
+"Tim kepala memutuskan tindakan. Anda memutuskan apakah keputusan mereka mendapat tanda pembanding."
+
+"Jadi saya tidak dapat menghentikan mereka."
+
+"Anda dapat membuat tindakan mereka mahal setelah dilakukan."
+
+Maera menutup kotak. "Itu fungsi auditor, bukan pembanding."
+
+"Nama jabatan lebih murah daripada kewenangannya."
+
+Untuk pertama kali, ekspresinya berubah sedikit. Bukan senyum. Pengakuan bahwa lawan bicara tidak membuang waktunya.
+
+"Saya berhak tujuh hari untuk mempertimbangkan penawaran tertulis," katanya.
+
+"Tujuh hari membuat jawaban jatuh setelah survei dimulai."
+
+"Kalau prosedur Anda tidak tahan terhadap prosedur Guild, kontraknya cacat."
+
+Ossian mengetuk meja sekali. "Tujuh hari."
+
+Maera memasukkan tawaran ke sisi weighing box. "Saya akan menjawab sesuai tata tertib."
+
+"Posisi ini bukan perangkap."
+
+"Saya tidak menyebutnya perangkap."
+
+"Itu sebabnya saya mengatakannya."
+
+Ia berdiri dan membungkuk secukupnya, lalu pergi membawa kontrak. Maera belum menerima. Itu tidak mengganggu Ossian. Selama tujuh hari, ia berada di dalam lingkaran prosedur. Jika menerima, laporan masa depannya mengalir ke meja Ossian. Jika menolak, alasan penolakan menjadi data. Jawaban netral hanya menunda cabang, bukan menghapus jalan.
+
+Pagi Hari 38, Kovan berdiri di Quota Office dengan punggung terlalu lurus. Dua kali alatnya gagal membaca bocah dari the Quiet Vein. Kegagalan kedua terjadi di aula saat lutut tak terlihat membentur batu. Rasa malu membuat pengamat lebih tekun daripada bayaran.
+
+"Laporan tiga harian berlanjut," kata Ossian. "Format lama. Tanpa ringkasan."
 
 "Ya, Tuan Vael."
 
-"Tambahkan satu hal." Ossian membuka buku besar pendataan di mejanya, lalu tidak membacanya — hanya meletakkan telapak tangan di atas halaman. "Ada satu nama yang tidak ada lagi di kertas resmi distrik ini. Nama itu dikeluarkan dari daftar atas perintah saya, dan saya tidak ingin ia kembali tertulis pada kertas mana pun milik siapa pun sampai saya sendiri yang menuliskannya. Tetapi saya ingin gerakannya. Ke mana bocah itu pergi, siapa yang memanggilnya, barang apa yang lewat tangannya. Tanpa nama. Sebut dia faktor lorong tujuh."
+"Tambahkan satu faktor. Namanya tidak boleh muncul di kertas resmi. Catat gerakan, orang yang menemuinya, barang yang dibawa, dan jarak pengamatan. Sebut faktor lorong tujuh."
 
-Kovan menelan ludahnya. "Faktor itu, Tuan Vael... dua kali alat saya kosong ketika membacanya. Bila saya mendekat lagi—"
+"Frekuensi laporan?" tanya Kovan.
 
-"Bila alatmu kosong untuk ketiga kalinya pada faktor yang sama, kamu tidak akan menulis kosong. Kamu akan menulis tanggal, jam, dan jarakmu kepadanya. Itu saja. Jangan mendekat. Jangan menguji. Faktor yang sadar sedang diuji berubah menjadi faktor yang berpindah, dan saya lebih menyukainya tinggal di tempat yang saya tahu." Ossian menutup buku besar itu. "Kel Tharrow menerima salinan instruksi ini tanpa paragraf terakhir. Paragraf terakhir hanya milik kita berdua."
+"Tiga hari untuk berkas. Setiap hari untuk ingatanmu."
 
-"Paragraf mana, Tuan Vael? Suratnya belum—"
+"Batas pengamatan?"
 
-"Ini percakapan, Shift Guard. Percakapan tidak meninggalkan paragraf. Itulah gunanya."
+"Ruang umum, jalur kerja, transaksi yang dilakukan terbuka. Jangan masuk barak, jangan menahan orang yang bicara dengannya, jangan menyentuh barangnya."
 
-Kovan mengangguk, dan di matanya ada sesuatu yang dikenali Ossian dari ribuan pegawai yang pernah berdiri di hadapannya — kelegaan orang yang akhirnya diberi musuh yang sah. Orang yang dua kali gagal pada alatnya akan mengejar faktor lorong tujuh dengan ketelitian penagih utang, dan tidak membutuhkan bayaran untuk itu — hanya izin. Ossian baru saja memberikan izin itu tanpa membayar apa pun. Pembelian termurah selalu yang dibayar oleh rasa penasaran orang lain.
+Kovan mengerutkan dahi. "Itu membatasi hasil."
 
-Di ambang pintu Kovan berhenti. "Tuan Vael. Bila faktor itu... bukan orang biasa?"
+"Itu menjaga faktor tetap berperilaku alami. Kita bukan mencari alasan penangkapan."
 
-"Bila ia bukan orang biasa," kata Ossian, "maka laporan tiga harianmu adalah benda paling berharga di distrik ini. Jagalah seperti menjaga nyawa. Secara harfiah."
+"Lalu apa?"
 
----
+Ossian membiarkan pertanyaan itu menggantung. Ia mencari pola yang menjelaskan aula: bocah tanpa gema, Shift Guard yang kehilangan pembacaan, retakan yang menelan klaim, dan Assayer yang mengubah murmur menjadi benteng prosedural. Belum ada garis yang berhak disebut kesimpulan.
 
-Malam harinya ia duduk sendirian di ruang tamu meja bundar, dengan hujan abu yang turun kembali menggesek atap penginapan seperti telapak kering mengusap kertas, dan menyelesaikan pekerjaan yang mengubah bentuk seluruh bulan depan.
+"Perubahan," katanya. "Siapa yang mengubah rute setelah bertemu dia. Barang apa yang berpindah. Hari mana kebiasaan rusak. Fakta dahulu, teori nanti."
 
-Dua belas titik ukur dituliskannya satu per satu pada lembar jadwal final: kedalaman galeri atas, persimpangan utama, lorong B, dan sembilan titik lain naik-turun mengikuti peta survei pertama — termasuk titik ketujuh, enam puluh hasta di bawah batas pemetaan, yang dalam laporan Assayer Tull dahulu tertulis dengan tinta lebih tebal daripada titik mana pun. Turun perdana ditetapkan: hari keempat puluh lima, regu pertama, tim Assayers dari Anthema Spire bersertifikat penuh, dikawal personel Koordinasi Artefak Regional. Lembar itu disegelnya dengan lilin tin thread, stempel ditekan dengan telapak yang tenang.
+"Kalau Kel meminta nama?"
 
-Selama setengah tahun segala yang ia kerjakan di Caldrest berupa peta: daftar, nama, garis, dugaan. Malam ini garis-garis itu mulai berjalan. Jadwal turun menjadi tanggal, tanggal menjadi regu, regu menjadi langkah di lorong yang tidak pernah diam. Mesin prosedural — lambat, membosankan, tak terkalahkan oleh apa pun kecuali kesabaran yang lebih panjang — menyala dengan suara paling sunyi yang ada.
+"Katakan tidak ada nama dalam tugasmu. Itu benar."
 
-Di bawah sana, empat ratus keluarga tidur di atas tambang yang mulai dipetakan ulang, dan satu nama yang tidak boleh ditulis siapa pun sedang tidur di antara mereka. Ossian memadamkan lampu. Hari pertama dari sembilan hari menuju turun perdana telah selesai, dan mesin itu, seperti semua mesin yang dibangunnya, tidak akan berhenti lagi karena diminta dengan sopan.
+Kovan mengangguk lebih lambat. Batasan membuatnya tidak puas, dan ketidakpuasan itu berguna. Pengamat yang dilarang menyentuh akan belajar melihat.
+
+Kovan menggeser berat badan. "Bila alat saya kosong lagi?"
+
+"Catat tanggal, jam, jarak, dan kondisi alat sebelum serta sesudah. Jangan tulis kosong sebagai kesimpulan."
+
+"Apakah saya mendekat?"
+
+"Tidak."
+
+"Di aula, saya hampir—"
+
+"Di aula Anda hampir mengubah pengamatan menjadi bentrokan." Ossian menutup buku besar. "Jangan menguji. Faktor yang sadar diuji akan berpindah. Saya lebih suka ia tinggal di tempat yang saya ketahui."
+
+Kovan menatap halaman kosong tempat nama seharusnya ditulis. "Kel Tharrow menerima laporan ini?"
+
+"Versi tanpa instruksi jarak."
+
+"Kenapa?"
+
+"Karena Kel membutuhkan administrasi. Saya membutuhkan mata."
+
+Kovan mengangguk, tetapi belum bergerak. "Kalau faktor itu bukan orang biasa?"
+
+"Semua laporan bernilai sampai dibuktikan biasa."
+
+"Dan kalau ia berbahaya?"
+
+"Jaga jarak. Jangan menjadi alasan ia menunjukkan seberapa berbahaya."
+
+Kovan keluar dengan langkah orang yang akhirnya menerima bentuk resmi untuk rasa penasarannya. Ossian tidak memintanya menangkap, menguji, atau menamai. Mata internal paling berguna ketika lupa bahwa dirinya bagian dari tangan.
+
+Malam Hari 38, Ossian menyelesaikan jadwal final.
+
+Dua belas titik tersusun dari galeri atas ke lorong sembilan bawah. Titik ketujuh berada enam puluh hasta di bawah batas peta lama, tempat laporan Maera memakai tinta lebih tebal. Turun perdana: Hari 45. Tim Assayers bersertifikat, dikawal Regional Artifact Coordination. Kontrak Anthema Spire berlaku saat regu pertama melewati cap distrik timur.
+
+Pencatat kontrak membaca lembar itu. "Kalau Assayer Tull belum menjawab?"
+
+"Survei tetap turun."
+
+"Kalau ia menolak?"
+
+"Kita catat penolakan."
+
+"Kalau penjaga aula menolak?"
+
+Ossian menekan stempel ke lilin tin thread. "Kita membawa harga lebih pantas."
+
+Selama setengah tahun pekerjaannya di Caldrest hanya daftar, garis, dan dugaan. Kini jadwal menjadi tanggal; tanggal menjadi regu; regu menjadi langkah. Mesin prosedural menyala tanpa suara dramatis. Mesin semacam itu lambat, membosankan, dan sulit dihentikan karena setiap bagiannya hanya melakukan tugas yang tampak wajar.
+
+Di bawah penginapan, empat ratus keluarga tidur di atas tambang yang sedang dipetakan ulang. Di antara mereka, faktor tanpa nama tidur atau berpura-pura tidur. Ossian memadamkan lampu. Mesin tidak perlu mengenal orang yang akan digilingnya. Cukup tahu kapan roda berikutnya bergerak.

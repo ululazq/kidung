@@ -3,7 +3,7 @@ title: "Bab 62: Batu Polos"
 chapter: 62
 ---
 
-Dokumen reklasifikasi turun ke barak the Quiet Vein pada pagi hari kedelapan puluh, dibawa seorang pegawai Quota Office yang menempelkannya di papan dengan empat paku — empat paku, seolah satu kebohongan sebesar ini perlu dipasang dengan kokoh.
+Dokumen reklasifikasi turun ke barak the Quiet Vein pada pagi hari ketujuh puluh sembilan, dibawa seorang pegawai Quota Office yang menempelkannya di papan dengan empat paku — empat paku, seolah satu kebohongan sebesar ini perlu dipasang dengan kokoh.
 
 Ashvarok membacanya sambil mengunyah roti pagi yang terlalu tipis untuk harganya sendiri. Pasal demi pasal berjalan seperti yang sudah ia duga sejak malam stempel itu dilelehkan. Segmen lorong B, termasuk ruangan delapan banding tiga di ujungnya, masuk wilayah lisensi normal. Segmen berlisensi normal wajib terbuka bagi setiap pemegang lisensi sah. Dilarang memalang, dilarang menutup, dilarang mengatur jadwal masuk atas nama keselamatan tanpa dokumen geoteknik yang ditandatangani Assayer.
 
@@ -11,17 +11,17 @@ Ia berdiri lama di depan papan sampai seorang penambang tua bertanya apakah kaba
 
 "Kabar baik," jawab Ashvarok. "Pintu kita tidak boleh dikunci lagi."
 
-Setahun penuh lorong B menjadi pintu: blind door, pintu karantina, pintu yang hanya bisa dibuka dengan surat tanda Ossian Vael. Pintu itu telah menyelamatkan aula lebih sering daripada semua tenunan yang pernah ia buat. Dan kini, karena kemenangannya bekerja terlalu sempurna, pintu itu wajib terbuka — dan siapa pun dengan lisensi sah boleh berjalan empat puluh langkah ke dalam ruangan tempat retakan purba itu berdenyut dengan irama jantung tubuhnya sendiri.
+Dua bulan penuh lorong B menjadi pintu: blind door, pintu karantina, pintu yang hanya bisa dibuka dengan surat tanda Ossian Vael. Pintu itu telah menyelamatkan aula lebih sering daripada semua tenunan yang pernah ia buat. Dan kini, karena kemenangannya bekerja terlalu sempurna, pintu itu wajib terbuka — dan siapa pun dengan lisensi sah boleh berjalan empat puluh langkah ke dalam ruangan tempat retakan purba itu berdenyut dengan irama jantung tubuhnya sendiri.
 
 Kebaikan datang kembali sebagai tagihan. Seperti biasa.
 
-Tagihannya sudah terlihat sebelum tengah hari. Pada jam kesebelas, mandor lubang sewaan distrik barat — orang yang setahun lalu membayar jasa ramal tambang sebelas shardmark untuk tiga bacaan — berdiri di depan loket Quota Office dengan salinan dokumen reklasifikasi di tangannya, bertanya secara resmi tentang biaya sewa pemakaian segmen untuk "survei cadangan pribadi". Pada jam dua, menurut kabar yang berjalan lebih cepat dari troli, dua penilai muda Spire yang tertinggal di kota membeli lilin tambahan dan bertanya soal izin dokumentasi ruangan yang "belum selesai difoto". Pada sore hari, lot kode dari Vosk sampai ke gudang perkakas — lot biasa, catatan pendek, tulisan tangan penengah itu miring seperti selalu — pasar mulai tahu ada ruangan baru yang bisa disewa. Yang punya mata, semua sedang menghitung pintu yang sama.
+Tagihannya sudah terlihat sebelum tengah hari. Pada jam kesebelas, Foreman lubang sewaan distrik barat — orang yang beberapa minggu lalu membayar jasa ramal tambang sebelas shardmark untuk tiga bacaan — berdiri di depan loket Quota Office dengan salinan dokumen reklasifikasi di tangannya, bertanya secara resmi tentang biaya sewa pemakaian segmen untuk "survei cadangan pribadi". Pada jam dua, menurut kabar yang berjalan lebih cepat dari troli, dua Assayer muda Spire yang tertinggal di kota membeli lilin tambahan dan bertanya soal izin dokumentasi ruangan yang "belum selesai difoto". Pada sore hari, lot kode dari Vosk sampai ke gudang perkakas — lot biasa, catatan pendek, tulisan tangan penengah itu miring seperti selalu — pasar mulai tahu ada ruangan baru yang bisa di…
 
 ---
 
 Malam harinya, lewat jalur yang kini sepenuhnya legal dan justru karena itu aman, Ashvarok turun ke aula bersama Brannoc, membawa lampu, keranjang kosong, dan muka dua kuli yang sedang lembur memindahkan peralatan penilaian sisa.
 
-"Jadi begini rasanya punya rumah besar," kata Brannoc di ambang bersisi pendek, suaranya bergema kecil. Mandor itu melangkah masuk dengan sikap orang memasuki rumah tetangga yang lebih luas daripada rumahnya sendiri. "Setahun aku pikir tempat ini akan membunuh kita semua. Sekarang hukumnya bilang harus terbuka untuk umum."
+"Jadi begini rasanya punya rumah besar," kata Brannoc di ambang bersisi pendek, suaranya bergema kecil. Foreman itu melangkah masuk dengan sikap orang memasuki rumah tetangga yang lebih luas daripada rumahnya sendiri. "Dua bulan aku pikir tempat ini akan membunuh kita semua. Sekarang hukumnya bilang harus terbuka untuk umum."
 
 "Hukum tidak salah," kata Ashvarok. "Hukum hanya belum tahu apa yang ada di dalamnya. Tugas kita membuat apa yang ada di dalamnya tidak layak diketahui."
 
@@ -61,19 +61,19 @@ Sampulnya sudah ada dan cantik — undian inspeksi ventilasi berkala, program re
 
 "Kamu penerima laporannya."
 
-Mandor itu mengunyah akar pahitnya sekali, memikirkan posisinya sendiri di tengah struktur ini, dan mengangguk. "Dan kalau ada orang lain yang turun tanpa undian?"
+Foreman itu mengunyah akar pahitnya sekali, memikirkan posisinya sendiri di tengah struktur ini, dan mengangguk. "Dan kalau ada orang lain yang turun tanpa undian?"
 
 "Lisensi normal artinya kita tidak bisa melarang mereka masuk," kata Ashvarok. "Namun tidak ada pasal yang melarang kita ikut masuk bersama mereka, tersesat sedikit, berisik, bertanya banyak, dan bekerja sangat lambat di lorong-lorong yang salah." Ia menatap Brannoc tegak. "Patroli bukan penjagaan. Patroli adalah kehadiran. Batu polos butuh saksi yang ramai."
 
 Jadwal bergilir itu ditulis malam juga di selembar kertas karbon: empat regu ventilasi, empat giliran, nama-nama asli, tanggal-tanggal asli — kertas yang akan dibaca siapa pun yang menemukannya dan tetap kelihatan seperti apa adanya, program keselamatan kerja yang rajin. Kertas kedua, dengan kode yang hanya dimengerti tiga orang, digantung di balik pintu gudang — garis pendek untuk malam-malam ketika dais harus disentuh ulang oleh tangan yang tahu cara menenun.
 
-Brannoc membaca daftar giliran itu dua kali, lalu bertanya hal terakhir, pertanyaan yang sudah menunggu sejak ambang: "Kalau suatu malam ada yang masuk dan langsur berjalan lurus ke dais — bukan mengelilingi, bukan mengukur sana-sini, tetapi lurus, seperti orang yang sudah tahu letaknya —"
+Brannoc membaca daftar giliran itu dua kali, lalu bertanya hal terakhir, pertanyaan yang sudah menunggu sejak ambang: "Kalau suatu malam ada yang masuk dan berjalan lurus ke dais — bukan mengelilingi, bukan mengukur sana-sini, tetapi lurus, seperti orang yang sudah tahu letaknya —"
 
 "Maka orang itu bukan sedang memanfaatkan lisensi," kata Ashvarok. "Orang itu sedang melanjutkan pekerjaan lamanya. Laporkan kepadaku pada pagi harinya, jangan pernah pada malamnya, dan jangan ikuti dia ke dalam." Ia memadamkan lampu meja. "Yang satu itu tugasku."
 
 Ashvarok mengambil giliran pertama untuk dirinya sendiri. Tidak ada yang memprotes. Tidak ada yang berani, dan lebih jujur lagi, tidak ada yang ingin mengambil bagian malam-malam pertama dari sebuah tempat yang baru saja berhenti bernama blind door.
 
-Esok paginya, Sela mencatat Hourglass di papan tulis dengan muka yang ia pakai setiap kali harga badan kakaknya naik jenis — bibir digigit dari dalam, kapur ditulis pelan-pelan, tanpa satu pun pertanyaan di ruangan yang didengar orang lain. Baris baru itu panjang dalam arti yang salah — tanpa rambat, hanya mahal. Di kolom belakang papan, daftar 19 nama mendapat tetangga baru — tulisan kecil milik Sela: PINTU TIDAK BOLEH DIKUNCI LAGI. KITA YANG JAGA.
+Keesokan harinya, Sela mencatat Hourglass di papan tulis dengan muka yang ia pakai setiap kali harga badan kakaknya naik jenis — bibir digigit dari dalam, kapur ditulis pelan-pelan, tanpa satu pun pertanyaan di ruangan yang didengar orang lain. Baris baru itu panjang dalam arti yang salah — tanpa rambat, hanya mahal. Di kolom belakang papan, daftar 19 nama mendapat tetangga baru — tulisan kecil milik Sela: PINTU TIDAK BOLEH DIKUNCI LAGI. KITA YANG JAGA.
 
 Dan malam itu, pada giliran pertama jadwal yang tidak resmi itu, Ashvarok berdiri sendirian di aula delapan banding tiga yang secara hukum kini milik siapa pun, mendengarkan langkah-langkah imajiner para pemegang lisensi yang kelak datang, dan meraba tepi daisnya — dingin, kasar, tidak menarik untuk disentuh dua kali. Batu paling polos di seluruh the Underfold, dan satu-satunya batu di dunia ini yang berhak dibaca begitu oleh semua orang.
 

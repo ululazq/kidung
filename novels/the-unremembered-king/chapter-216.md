@@ -25,7 +25,7 @@ Murid termuda yang berkata apa yang semua orang pikirkan: "Kami sudah siapkan se
 
 Pertanyaan itu dibawa pulang ke Caldrest dan dibuka di meja Arsip — dan jawabannya, setelah empat hari penelusuran Sela bersama arsip Maera, adalah jawaban yang membuat rapat rumah besar berikutnya berlangsung tanpa ada yang menyentuh supnya.
 
-"Ladang itu masih ada," kata Sela. "Gandumnya masih ditanam. Panennya bagus-bagus saja." Ia meletakkan dua dokumen berdampingan. "Namun pemilik resminya sekarang: Perkebunan Timur Dewan Regional. Surat haknya diterbitkan era Hegemony — tahun ketiga belas setelah kebocoran utara."
+"Ladang itu masih ada," kata Sela. "Gandumnya masih ditanam. Panennya bagus-bagus saja." Ia meletakkan dua dokumen berdampingan. "Namun pemilik resminya sekarang: Perkebunan Timur the Regional Council. Surat haknya diterbitkan era Hegemony — tahun ketiga belas setelah kebocoran utara."
 
 "Tahun ketiga belas," ulang Barim pelan.
 

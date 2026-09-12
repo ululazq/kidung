@@ -23,7 +23,7 @@ Dibuka saat kau butuh. Bukan saat kau penasaran.
 
 Ossian duduk memandanginya lama. Amplop itu ringan — satu lembar, paling banyak dua — dan beratnya tidak ada hubungannya dengan isinya. Beratnya adalah fakta bahwa wanita tua itu masuk ke kamarnya yang dijaga, meletakkannya, dan pergi tanpa mengambil apa pun, dan bahwa pesan itu adalah deklarasi: aku bisa sampai ke mana saja di Caldrest, dan aku memilih memberi, bukan mengambil. Untuk kedua kalinya dalam sebulan, jabatan itu melakukan hal yang tidak masuk taksonomi ancaman mana pun yang pernah ia pelajari.
 
-Ia tidak membukanya. Malam pertama karena disiplin. Malam kedua karena harga — membuka artinya butuh, dan butuh di hadapan Pembaca Tua adalah utang yang dibayar bunga. Malam ketiga ia menyimpannya di laci berkunci yang sama dengan log eksekusi prematurnya, jerat-jeratnya sendiri, dan menyadari bahwa laci itu telah menjadi museum pilihan-pilihan yang belum selesai, dan bahwa wanita tua itu pasti tahu persis laci macam apa yang akan ia punya.
+Ia tidak membukanya. Malam pertama karena disiplin. Malam kedua karena harga — membuka artinya butuh, dan butuh di hadapan the Old Reader adalah utang yang dibayar bunga. Malam ketiga ia menyimpannya di laci berkunci yang sama dengan log eksekusi prematurnya, jerat-jeratnya sendiri, dan menyadari bahwa laci itu telah menjadi museum pilihan-pilihan yang belum selesai, dan bahwa wanita tua itu pasti tahu persis laci macam apa yang akan ia punya.
 
 Yang membuat malam ketiga sulit bukan amplopnya. Yang membuat malam ketiga sulit adalah surat dari pusat secte yang datang sorenya juga: pemberitahuan rutin jadwal rotasi teknisi — dan nama teknisi bernama panjang yang tidak pernah salah formulir itu tertera dengan tujuan baru: mutasi ke Anthema Spire, efektif pekan depan, mendapat tempat di divisi arsip.
 
@@ -41,7 +41,7 @@ Belum. Katanya kepada dirinya setiap pagi di depan cermin. Belum butuh.
 
 ---
 
-Yang tidak diketahui Ossian — yang tidak diketahui siapa pun di Caldrest — adalah bahwa amplop itu bukan satu-satunya hal yang ditinggalkan Pembaca Tua selama kunjungan tiga hari.
+Yang tidak diketahui Ossian — yang tidak diketahui siapa pun di Caldrest — adalah bahwa amplop itu bukan satu-satunya hal yang ditinggalkan the Old Reader selama kunjungan tiga hari.
 
 Juru tulis arsip muda yang menemani pembacaan di Quota Office — pegawai Spire yang menyaksikan jabatannya membaca utuh seribu halaman Caldrest — pulang ke Anthema Spire dengan tugas resmi: menyalin ringkasan. Tugas yang ia jalankan dengan setia sampai ia menyadari bahwa di antara halaman-halaman yang harus diringkasnya ada satu yang atasannya memerintahkan dilewatkan tanpa dicatat: berita acara hari-H, dengan dua warna tinta dan keberatan Assayer Tull. Perintah lisan dari pejabat divisi yang bukan atasan langsungnya, disampaikan pelan, di koridor.
 
@@ -49,7 +49,7 @@ Ia patuh. Ia melewatkan halaman itu dari ringkasannya.
 
 Dan malam itu, di kamarnya sendiri, juru tulis muda itu membuka buku catatan pribadinya dan menulis satu baris dalam sandi yang dipelajarinya dari kakeknya — orang arsip tua yang mengajarkan bahwa arsipis punya dua tugas, mencatat untuk lembaga dan mengingat untuk sejarah: "Hari 246. Saya diminta tidak mencatat sebuah halaman. Halaman itu justru halaman paling penting yang pernah saya membaca. Dicatat."
 
-Begitulah cara kebenaran bertahan di dalam institusi yang takut padanya: bukan lewat pintu besar yang dijaga, melainkan lewat satu juru tulis yang kakeknya mengajarkan bedanya mencatat dan mengingat. Pembaca Tua, kalau saja tahu, akan senang. Ordo itu selalu bilang: rekaman yang benar adalah bentuk penjagaan yang paling awet. Mereka hanya jarang menyebut bahwa penjagaan seperti itu tidak butuh izin.
+Begitulah cara kebenaran bertahan di dalam institusi yang takut padanya: bukan lewat pintu besar yang dijaga, melainkan lewat satu juru tulis yang kakeknya mengajarkan bedanya mencatat dan mengingat. the Old Reader, kalau saja tahu, akan senang. Ordo itu selalu bilang: rekaman yang benar adalah bentuk penjagaan yang paling awet. Mereka hanya jarang menyebut bahwa penjagaan seperti itu tidak butuh izin.
 
 Setiap malam sebelum tutup dapur, ibu Tamma menghitung sisa cangkir kotor sebagai cara mengukur hari: semakin banyak, semakin ramah hari itu. Pekan ini rekor pecah dua kali. Ia tidak mengeluh soal pencucian. Justru ia yang meminta supaya tidak ada yang membantu — "cuci piring untuk tamu adalah doa bentuk lain."
 
@@ -73,11 +73,11 @@ Ossian pulang melewati lorong barak distrik timur tanpa alasan, dan mendengar na
 
 Di kamarnya, sebelum tidur, ia mengeluarkan amplop itu, memutarnya sekali di antara dua jari — membaca sampulnya untuk kesekian kali: dibuka saat kau butuh, bukan saat kau penasaran — lalu meletakkannya kembali dan mengunci laci.
 
-Namun malam itu, untuk pertama kalinya, ia mengetahui perbedaan antara kedua kata itu. Penasaran adalah tentang isi. Butuh adalah tentang diri. Dan jabatannya yang terlatih membaca dokumen menemukan apa yang selama ini luput: wanita tua itu tidak menulis "jangan dibuka". Ia menulis "kau akan tahu sendiri momennya". Itu bukan larangan seorang musuh yang menyimpan tuas. Itu penilaian seorang pembaca tentang kapan halaman berikutnya akan berguna — dan Pembaca Tua tidak pernah salah menaksir halaman.
+Namun malam itu, untuk pertama kalinya, ia mengetahui perbedaan antara kedua kata itu. Penasaran adalah tentang isi. Butuh adalah tentang diri. Dan jabatannya yang terlatih membaca dokumen menemukan apa yang selama ini luput: wanita tua itu tidak menulis "jangan dibuka". Ia menulis "kau akan tahu sendiri momennya". Itu bukan larangan seorang musuh yang menyimpan tuas. Itu penilaian seorang pembaca tentang kapan halaman berikutnya akan berguna — dan the Old Reader tidak pernah salah menaksir halaman.
 
 Satu pertanyaan terakhir yang ia ajukan kepada langit-langit kamarnya sebelum tidur, dan yang tidak dijawab siapa pun: kalau wanita itu bisa masuk ke kamar berpengawalnya untuk meninggalkan amplop, seberapa jauh sebenarnya jalannya sampai ke meja gudang perkakas tingkat dua — dan kenapa, dari semua pintu yang bisa dimasukinya, jabatan itu memilih mengetuk pintunya sendiri?
 
-Ia tidak punya jawabannya. Yang ia punya hanya firasat yang tumbuh setiap pekan, firasat yang membuat pejabat paling rasional di Karvess menyimpan surat tanpa kop seperti orang menyimpan surat keluarga: bahwa Pembaca Tua tidak sedang memburu penambal Caldrest.
+Ia tidak punya jawabannya. Yang ia punya hanya firasat yang tumbuh setiap pekan, firasat yang membuat pejabat paling rasional di Karvess menyimpan surat tanpa kop seperti orang menyimpan surat keluarga: bahwa the Old Reader tidak sedang memburu penambal Caldrest.
 
 Dia sedang mendaftar untuk bergabung.
 

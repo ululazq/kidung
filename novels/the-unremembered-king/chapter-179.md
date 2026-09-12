@@ -39,11 +39,11 @@ Empat puluh tujuh nama. Semuanya tercatat ulang di dunia.
 
 Dan ketika upacara selesai dan kerumunan mulai bubar dalam keheningan yang bukan keheningan sedih, Ossian Vael berdiri di tempatnya dan melakukan hal terakhir yang membuat malam itu masuk sejarah:
 
-Ia mengeluarkan surat resmi Koordinasi Artefak Regional yang sudah ia tandatangani subuh harinya, dan membacakannya keras-keras kepada balai kota: klasifikasi baru untuk wilayah utara — bukan lagi "zona kebocoran musiman terkontrol", melainkan status baru yang belum pernah ada dalam hukum Karvess: "TANAH PENGINGAT — wilayah yang wajib dikunjungi dan dibaca setiap tahun oleh jabatan arsip, sampai semua nama tersimpannya kembali ke dunia."
+Ia mengeluarkan surat resmi Regional Artifact Coordination yang sudah ia tandatangani subuh harinya, dan membacakannya keras-keras kepada balai kota: klasifikasi baru untuk wilayah utara — bukan lagi "zona kebocoran musiman terkontrol", melainkan status baru yang belum pernah ada dalam hukum Karvess: "TANAH PENGINGAT — wilayah yang wajib dikunjungi dan dibaca setiap tahun oleh jabatan arsip, sampai semua nama tersimpannya kembali ke dunia."
 
 Tepuk tangan tidak pecah. Yang pecah adalah tangis — puluhan tangis sekaligus dari sudut-sudut kerumunan, keluarga-keluarga yang selama delapan belas tahun tidak boleh berkabung karena orang-orang mereka "belum pasti mati secara resmi".
 
-Ibu Tamma yang memandu mereka satu per satu ke kursi depan, dan Panggung Dapur — versi balai kota pertamanya — berjalan sampai larut.
+Ibu Tamma yang memandu mereka satu per satu ke kursi depan, dan the Kitchen Stage — versi balai kota pertamanya — berjalan sampai larut.
 
 ---
 
@@ -65,7 +65,7 @@ Ia masuk dan menulis entri terakhir malam itu di Hourglass, dan menutup neraca d
 
 Hari 329. Upacara pencatatan utara: empat puluh tujuh nama dibacakan balai kota penuh. Kedalaman ikut menyebut delapan dari mereka, serempak, dari bawah. Kesimpulan resmi pembukuan malam ini — perang tidak diakhiri oleh perjanjian, gencatan senjata, atau kemenangan siapa pun.
 
-Dia diakhiri oleh sebuah kereta nama yang ternyata lebih panjang dari yang kita kira.
+Dia diakhiri oleh sebuah name train yang ternyata lebih panjang dari yang kita kira.
 
 Dan di kedalaman, pada jam yang sama, sapuan malam itu tidak datang sebagai sapuan. Ia datang sebagai ketukan: tiga kali, pelan, pada nat bawah balai kota — irama penjaga malam era lama yang dulu dimiliki seorang lelaki bernama yang baru saja dibacakan kerumunan tadi.
 
@@ -89,7 +89,7 @@ Setuju. Besok kita bertanya. Dan untuk pertama kalinya dalam sejarah dunia ini �
 
 Pertanyaan itu dijawab lebih cepat dari perkiraan semua orang — dan bukan oleh kedalaman.
 
-Malam berikutnya, saat Panggung Dapur versi balai kota baru saja selesai dan kerumunan mulai bubar, seorang perempuan tua dari keluarga korban utara — ibunda salah satu dari empat puluh tujuh nama — berjalan ke depan dengan langkah yang sudah diputuskan jauh sebelum ia sampai, dan berbicara kepada ruangan tanpa diminta:
+Malam berikutnya, saat the Kitchen Stage versi balai kota baru saja selesai dan kerumunan mulai bubar, seorang perempuan tua dari keluarga korban utara — ibunda salah satu dari empat puluh tujuh nama — berjalan ke depan dengan langkah yang sudah diputuskan jauh sebelum ia sampai, dan berbicara kepada ruangan tanpa diminta:
 
 "Aku mau cerita satu hal yang tidak masuk daftar mana pun." Suaranya pelan tetapi balai kota mendengar semuanya. "Anakku Sarneth, pembuat gerabah. Tadi malam setelah upacara, aku pulang dan tidur. Dan aku mimpi — pertama kali dalam delapan belas tahun aku mimpi tentang dia dengan WAJAH yang benar, bukan wajah yang kupaksakan." Tangannya meremas ujung kain. "Di mimpi itu dia tidak bicara. Dia hanya duduk di meja buatannya, membentuk tanah, dan sesekali dia melihat ke bawah — ke lantai — seperti orang yang mendengar tetangganya bergerak di lantai bawah. Terus dia senyum. Dan dia bilang satu kalimat, dan aku hafal karena tidak mungkin kulupa."
 
@@ -101,4 +101,4 @@ Hening panjang. Dan di barisan belakang, Ashvarok merasakan the Remainder-nya na
 
 Kedalaman menyimpan. Ibu mendengar lewat mimpi. Dan rantai penghabaran antara dua dunia baru saja menemukan jalurnya: bukan lewat pengikat, bukan lewat alat, bukan lewat raja.
 
-Lewat ibu.
+Lewat ibu. Kovan menutup buku, tetapi telunjuknya tetap menjaga baris nama itu.

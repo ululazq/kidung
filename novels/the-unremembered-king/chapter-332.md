@@ -89,7 +89,7 @@ Ashvarok-Renn menoleh. "Belum kaukatakan itu."
 
 Ia membiarkan benang diam hidup tanpa namanya, tahu bahwa di utara danau garam, seorang perempuan tua penjaga perahu mulai diperhatikan oleh mata-mata kecil yang belum tahu mereka menjaga pintu.
 
-Sela menutup papan napasnya dan menulis di sisi: *World-state note: Batch 2 dimulai. 3 the Survivor dikenali (the Gate celah, the Escape barat daya lolos, the Remnant timur). Sisa the Stillness utara, the Silence celah?, the Ground the Hollow. Strategi jaga di ambang, kejar tanpa nama.* 
+Sela menutup papan napasnya dan menulis di sisi: *Catatan keadaan: Batch 2 dimulai. 3 the Survivor dikenali (the Gate celah, the Escape barat daya lolos, the Remnant timur). Sisa the Stillness utara, the Silence celah?, the Ground the Hollow. Strategi jaga di ambang, kejar tanpa nama.* 
 
 Ashvarok-Renn melihat catatan itu dan mengangguk. "Tulis juga bahwa the Wanes pegang the Unclaimed Knot tanpa kunci," katanya. "Mereka duduk di batu, kita duduk di napas. Selama napas lari, pintu dunia tertidur."
 

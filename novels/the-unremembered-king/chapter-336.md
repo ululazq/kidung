@@ -79,13 +79,13 @@ Di menara, perawat tua memilin benang dan menyanyikan setengah irama lama. Napas
 
 Mira mencatat di buku: *Perawat tua nyanyikan irama lama (warisan ibu Tamma). the Gate Breath berdenyut pelan dalam — kunci pertama yang delapan belas tahun di ambang.* 
 
-Sela mengambil papan napas dan menulis di sisi: *World-state: Barak pegang four of the Seven napas (the Gate Survivor celah, the Escape barat daya lolos, the Remnant timur, the Stillness danau garam/rawa). The Wanes pegang the Unclaimed Knot tanpa kunci. Tinggal the Silence (celah?) dan the Ground di pangkal the Hollow. Pintu dunia tetap tertidur.* 
+Sela mengambil papan napas dan menulis di sisi: *Keadaan: Barak pegang four of the Seven napas (the Gate Survivor celah, the Escape barat daya lolos, the Remnant timur, the Stillness danau garam/rawa). The Wanes pegang the Unclaimed Knot tanpa kunci. Tinggal the Silence (celah?) dan the Ground di pangkal the Hollow. Pintu dunia tetap tertidur.* 
 
 Ashvarok-Renn menutup bible dan menulis baris terakhir: *Batch 3 selesai: the Stillness (danau garam) terjaga di rawa via persahabatan. Barak kini memegang empat dari tujuh napas. Sisa the Silence (celah?) & the Ground (the Hollow). the Wanes memegang batu the Unclaimed tanpa kunci. Pintu dunia tetap tertidur selama napas lari.* 
 
 Ia membiarkan benang diam hidup tanpa namanya, tahu bahwa di rawa utara, seorang perempuan tua penjaga perahu tidur nyenyak tanpa tahu ia adalah napas keempat yang menjaga pintu dunia agar tak pernah dibuka.
 
-Di barak, Ashvarok-Renn menutup buku world-state dan menatap ke celah menara di mana perawat tua berdiri. "Satu lagi di sini," bisiknya. "Mungkin the Silence. Bila ya, kita pegang lima dari tujuh. The Wanes hanya batu."
+Di barak, Ashvarok-Renn menutup buku keadaan dan menatap ke celah menara di mana perawat tua berdiri. "Satu lagi di sini," bisiknya. "Mungkin the Silence. Bila ya, kita pegang lima dari tujuh. The Wanes hanya batu."
 
 Sela mencatat di papan: *Batch 3 selesai. four of the Seven napas terjaga. Belum: the Silence (celah?) dan the Ground di tengah cekungan. Arc berikut: pastikan the Silence, lalu hadapi the Ground di pangkal.* 
 

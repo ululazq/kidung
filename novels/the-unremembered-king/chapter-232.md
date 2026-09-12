@@ -23,7 +23,7 @@ Dua puluh tujuh orang yang tidak akan dipanggil oleh siapa pun.
 
 Rapat malam itu panjang, dan keputusannya menjadi pasal baru dalam protokol antar-wilayah — pasal yang oleh Ashvarok ditulis dengan tangan sendiri dan oleh Sela dicatat sebagai "pasal yang paling susah kami tulis":
 
-"PASAL 14 — JIWA TANPA PEMANGGIL. Jiwa yang naik tanpa keluarga penunggu tetap berhak atas seluruh protokol: meja makan, sup hangat dua menit, name train penuh. Keluarga penunggu digantikan oleh: warga Caldrest sukarela (pendaftaran dibuka), murid Sekolah Mendengar angkatan berjalan, dan — jika wilayah itu punya — kedalaman mentornya sendiri. Tidak ada yang naik dengan tangan kosong."
+"PASAL 14 — JIWA TANPA PEMANGGIL. Jiwa yang naik tanpa keluarga penunggu tetap berhak atas seluruh protokol: meja makan, sup hangat dua menit, name train penuh. Keluarga penunggu digantikan oleh: warga Caldrest sukarela (pendaftaran dibuka), murid the Listening School angkatan berjalan, dan — jika wilayah itu punya — kedalaman mentornya sendiri. Tidak ada yang naik dengan tangan kosong."
 
 Pendaftaran keluarga pengganti dibuka subuh harinya dan penuh sebelum sore. Bukan hanya warga timur dan utara; siswa Spire angkatan dua mendaftar delapan orang; bahkan ketua majelis Dewan mendaftarkan namanya sendiri untuk satu jiwa, dengan tulisan di kolom keterangan: "saya sudah pernah jadi tetangga bagi salah satu dari mereka. Sekarang saya mau jadi keluarga."
 
@@ -51,7 +51,7 @@ Dan the Patient House, mendengar latihan itu meresap ke bawah, mengirim komentar
 
 ---
 
-Pekan terakhir persiapan, satu hal kecil terjadi di Sekolah Mendengar yang oleh ibu Tamma disebut "alasan kenapa sekolah ini harus terus jalan":
+Pekan terakhir persiapan, satu hal kecil terjadi di the Listening School yang oleh ibu Tamma disebut "alasan kenapa sekolah ini harus terus jalan":
 
 Angkatan kedua — sembilan siswa Spire — pada giliran mencuci piring mereka, menerima tamu pencuci: nenek buta selatan, yang sedang menunggu kafilah pulangnya dari aula. Nenek itu tidak bisa melihat piring-piringnya, tetapi tangannya menghitung setiap piring yang disodorkan, dan mulutnya bercerita soal zaman purba ketika "mencuci piring masih pakai pasir sungai dan lagu".
 

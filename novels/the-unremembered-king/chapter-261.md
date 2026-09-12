@@ -15,7 +15,7 @@ Ia mengenali tulisan tangannya sendiri sebelum mengenali artinya. Tulisan tangan
 
 Dan di sini, di balik sampul pajak, kalimat itu dilanjutkan:
 
-*saksi malam Pembakaran Nama. Enam yang lain menahan beban. Yang ketujuh mendengar. Koordinatnya tidak dicatat di mana pun oleh kebijakan istana; penulis halaman ini menyimpannya di kepala, dan kepala penulis sudah menjadi bagian dari fondasi menara jaga Vhal-Duren.*
+*saksi malam the Name-Burning. Enam yang lain menahan beban. Yang ketujuh mendengar. Koordinatnya tidak dicatat di mana pun oleh kebijakan istana; penulis halaman ini menyimpannya di kepala, dan kepala penulis sudah menjadi bagian dari fondasi menara jaga Vhal-Duren.*
 
 Di bawahnya ada angka-angka. Bukan nama. Bukan gelar. Hanya tiga pasang ukuran dan satu arah mata angin.
 
@@ -35,7 +35,7 @@ Wajahnya tidak banyak bergerak — wajah itu memang jarang bergerak, kebiasaan s
 
 "Ditutup atau dikubur?"
 
-"Keduanya. Itu bedanya." Ashvarok menarik napas tubuh muda itu, napas yang masih terasa asing setelah dua tahun dipakai bergantian. "Seam pengikat itu bukan tempat penyimpanan jiwa seperti kedalaman. Kalau halaman ini benar, seam itu menyimpan suara. Malam Pembakaran Nama punya banyak saksi mati dan satu saksi batu. Batu itu masih hidup. Batu itu masih..."
+"Keduanya. Itu bedanya." Ashvarok menarik napas tubuh muda itu, napas yang masih terasa asing setelah dua tahun dipakai bergantian. "Seam pengikat itu bukan tempat penyimpanan jiwa seperti kedalaman. Kalau halaman ini benar, seam itu menyimpan suara. Malam the Name-Burning punya banyak saksi mati dan satu saksi batu. Batu itu masih hidup. Batu itu masih..."
 
 Ia tidak menyelesaikan kalimatnya.
 
@@ -47,7 +47,7 @@ Ashvarok mengangguk sekali.
 
 Mereka bertiga duduk sampai subuh. Ini kebiasaan keluarga the Quiet Vein yang tidak pernah dicatat di protokol mana pun: ketika sebuah temuan besar datang, tidak ada yang boleh memutuskan apa pun di malam yang sama. Ibu Tamma menyebutnya aturan dapur. "Orang yang lapar membuat keputusan soal makanan yang salah. Orang yang lelah membuat keputusan soal sejarah yang salah juga."
 
-Jadi mereka bicara hal kecil dulu. Sela cerita soal murid baru Akademi Arsip yang mencatat daftar isi arsip Hegemony dengan huruf begitu rapi sampai terlihat seperti cetakan. Ashvarok-Renn cerita soal retakan mikro ketiga yang mereka temukan di nat aula pekan silam dan bagaimana Kovan menghitung ulang tiga kali karena tidak percaya hasilnya.
+Jadi mereka bicara hal kecil dulu. Sela cerita soal murid baru the Archive Academy yang mencatat daftar isi arsip Hegemony dengan huruf begitu rapi sampai terlihat seperti cetakan. Ashvarok-Renn cerita soal retakan mikro ketiga yang mereka temukan di nat aula pekan silam dan bagaimana Kovan menghitung ulang tiga kali karena tidak percaya hasilnya.
 
 Dan di sela-sela hal kecil, hal besar itu duduk di meja di antara mereka, sabar, tidak ke mana-mana.
 
@@ -61,7 +61,7 @@ Paginya, mereka membawa halaman itu kepada yang paling berhak mendengarnya lebih
 
 Bukan Dewan. Bukan Spire. Bukan para tetua.
 
-Nat tua di ujung lorong barak utara. Yang Dulu Sunyi.
+Nat tua di ujung lorong barak utara. the Once-Silent.
 
 Sela membacakannya pelan, dari awal, seperti membacakan surat dari kerabat jauh. Nat tua itu menyala dalam irama yang tidak bisa lagi disebut aneh — delapan ratus tahun, dan dua tahun ini ia menjawab hampir semuanya.
 
@@ -75,7 +75,7 @@ Irama itu cocok dengan detak jantung Renn.
 
 Bukan mirip. Cocok. Seperti dua alat musim yang sama disetel ke nada yang sama.
 
-Retakan the Threshold, seribu tahun silam, pernah belajar satu hal dari kuncinya: irama detak jantung pemiliknya. Dan malam itu, mendengar cerita tentang seam saksi, nat tua meneruskannya — dari retakan ke nat, dari nat ke dada, seperti kabar baik yang tidak mau menunggu dibacakan habis.
+Retakan the Threshold, seribu tahun silam, pernah belajar satu hal dari kuncinya: irama detak jantung pemiliknya. Dan malam itu, mendengar cerita tentang the Witness Seam, nat tua meneruskannya — dari retakan ke nat, dari nat ke dada, seperti kabar baik yang tidak mau menunggu dibacakan habis.
 
 "Nat ini bilang," kata Ashvarok akhirnya, suaranya pelan sekali, "'kunci harus pulang ke gilirannya.'"
 
@@ -140,7 +140,7 @@ Menunggu itu bukan pekerjaan yang mudah. Namun menunggu sambil tahu bahwa kabar 
 
 Esok paginya, sebelum matahari naik penuh, Sela menulis entri pertama untuk arsip baru. Ia memberi halaman itu judul dengan tinta yang sama seperti judul-judul penting lainnya:
 
-*Hari 731. Ditemukan: lanjutan halaman terpotong. Status: belum diverifikasi lapangan. Yang tahu: empat orang, satu ibu dapur, dan semua nat di jalur utara — karena nat memang tidak pernah bisa menyimpan rahasia, dan sampai hari ini tidak ada yang sungguh-sungguh berusaha mengubahnya.*
+*Ditemukan: lanjutan halaman terpotong. Status: belum diverifikasi lapangan. Yang tahu: empat orang, satu ibu dapur, dan semua nat di jalur utara — karena nat memang tidak pernah bisa menyimpan rahasia, dan sampai hari ini tidak ada yang sungguh-sungguh berusaha mengubahnya.*
 
 Ia membaca ulang baris terakhirnya, mempertimbangkan sejenak, lalu mencoret "berusaha" dan menggantinya dengan "berhasil".
 

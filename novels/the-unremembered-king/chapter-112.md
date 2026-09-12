@@ -15,7 +15,7 @@ Ruang bekerja pejabat Koordinasi disiapkan sepanjang malam oleh dua pegawai yang
 
 Auditor masuk tepat pada jam yang tertulis, membawa satu kotak dokumen, dan tidak ada apa pun pada orang itu yang bisa dicatat. Usia yang sulit ditebak. Mantel abu yang tidak tua dan tidak baru. Suara yang tidak naik dan tidak turun. Wajah yang dibaca ribuan kali oleh Ossian dalam lima menit pertama dan menyerahkan tidak ada apa pun, seperti dinding tambang yang baik.
 
-"Pemeriksaan administratif Koordinasi Artefak Regional cabang Caldrest," kata auditor, membacakan mandat dari kertasnya sendiri tanpa perlu membacanya. "Cakupannya klasifikasi segmen, operasi lisensi, dan jalur administratif biro. Anda adalah kepala biro."
+"Pemeriksaan administratif Regional Artifact Coordination cabang Caldrest," kata auditor, membacakan mandat dari kertasnya sendiri tanpa perlu membacanya. "Cakupannya klasifikasi segmen, operasi lisensi, dan jalur administratif biro. Anda adalah kepala biro."
 
 "Saya."
 
@@ -55,7 +55,7 @@ Dan di sinilah, tepat di tengah meja antara kotak dokumen dan cahaya jendela pag
 
 "Arsip dijaga oleh arsiparis," kata auditor. "Bukan oleh biro yang barusaja diperiksanya."
 
-"Institusi penjaganya harus ada, ya. Itu bagian dari usulan saya." Ossian membuka tasnya sendiri, dan mengeluarkannya bukan dokumen biro, melainkan satu lembar yang ditulis tangannya sendiri, tanpa kop, dengan judul yang sengaja membosankan. "Usulan reorganisasi fungsi Koordinasi Artefak Regional cabang Caldrest. Dari biro supervisi klasifikasi menjadi biro penjagaan aset kelas Testament. Personel intinya satu. Syaratnya satu, yaitu orang yang sudah membaca segmen itu lebih lama dan lebih dalam daripada siapa pun di Karvess, yang sudah membayar harganya sekali, dan yang tidak punya kepentingan menambangnya karena kepentingan menambang itulah yang membuatnya kehilangan segalanya satu kali."
+"Institusi penjaganya harus ada, ya. Itu bagian dari usulan saya." Ossian membuka tasnya sendiri, dan mengeluarkannya bukan dokumen biro, melainkan satu lembar yang ditulis tangannya sendiri, tanpa kop, dengan judul yang sengaja membosankan. "Usulan reorganisasi fungsi Regional Artifact Coordination cabang Caldrest. Dari biro supervisi klasifikasi menjadi biro penjagaan aset kelas Testament. Personel intinya satu. Syaratnya satu, yaitu orang yang sudah membaca segmen itu lebih lama dan lebih dalam daripada siapa pun di Karvess, yang sudah membayar harganya sekali, dan yang tidak punya kepentingan menambangnya karena kepentingan menambang itulah yang membuatnya kehilangan segalanya satu kali."
 
 Ia meletakkan lembar itu di tengah meja dan menyebut sisanya tanpa mengalunkannya.
 

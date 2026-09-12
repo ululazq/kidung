@@ -13,7 +13,7 @@ Bukan perintah. Bukan penawaran. Sebuah daftar.
 
 Empat puluh tujuh nama. Nama keluarganya.
 
-Ayahnya, ibunya, kakak perempuannya dan suami kakaknya, tiga keponakan dengan umur yang tidak akan pernah tercapai, paman-tante-sepupu — empat puluh tujuh nama orang yang hilang dalam kebocoran utara delapan belas tahun silam, nama yang selama ini hanya hidup sebagai luka di dadanya tanpa pernah tertulis di kertas mana pun karena mencatatnya terasa seperti menguburkan mereka dua kali. Di samping setiap nama, dengan tinta yang sama, tertulis tanggal dan satu baris data dari arsip pra-Requiem yang berhasil direkonstruksi jabatan Pembaca Tua dari rekaman sisa wilayah utara: siapa meninggal pada malam mana, siapa namanya terakhir disebut oleh siapa, dan — untuk sembilan dari empat puluh tujuh — satu kalimat tambahan yang membuat Ossian harus meletakkan kertas itu dan berdiri di depan jendela selama sepuluh menit sebelum sanggup melanjutkan.
+Ayahnya, ibunya, kakak perempuannya dan suami kakaknya, tiga keponakan dengan umur yang tidak akan pernah tercapai, paman-tante-sepupu — empat puluh tujuh nama orang yang hilang dalam kebocoran utara delapan belas tahun silam, nama yang selama ini hanya hidup sebagai luka di dadanya tanpa pernah tertulis di kertas mana pun karena mencatatnya terasa seperti menguburkan mereka dua kali. Di samping setiap nama, dengan tinta yang sama, tertulis tanggal dan satu baris data dari arsip pra-Requiem yang berhasil direkonstruksi jabatan the Old Reader dari rekaman sisa wilayah utara: siapa meninggal pada malam mana, siapa namanya terakhir disebut oleh siapa, dan — untuk sembilan dari empat puluh tujuh — satu kalimat tambahan yang membuat Ossian harus meletakkan kertas itu dan berdiri di depan jendela selama sepuluh menit sebelum sanggup melanjutkan.
 
 Kakak perempuannya, tertulis di sana, adalah satu dari tiga orang yang namanya masih DISINGGUNG dalam rekaman sisa — disebut oleh tetangga pada hari sebelum kebocoran, dalam konteks yang damai. Rekaman seam menyimpannya. Namanya tidak hilang di dunia. Ia masih ada, tersimpan di batu, sama seperti lagu-lagu Caldrest tersimpan di seam Testament.
 
@@ -23,7 +23,7 @@ Di bawah daftar, satu kalimat penutup dari tangan tua itu:
 
 ---
 
-Ossian Vael tidak tidur malam itu. Ia membaca daftar itu sampai hafal urutannya, lalu melipatnya dan menyimpannya di saku dada — posisi yang selama ini milik dokumen negara — dan menjalani pagi dengan efisiensi biasa sampai jam kesepuluh, ketika ia melakukan sesuatu yang tidak pernah masuk jadwal Koordinasi Artefak Regional sepanjang sejarah biro itu:
+Ossian Vael tidak tidur malam itu. Ia membaca daftar itu sampai hafal urutannya, lalu melipatnya dan menyimpannya di saku dada — posisi yang selama ini milik dokumen negara — dan menjalani pagi dengan efisiensi biasa sampai jam kesepuluh, ketika ia melakukan sesuatu yang tidak pernah masuk jadwal Regional Artifact Coordination sepanjang sejarah biro itu:
 
 Ia berjalan ke barak distrik timur, mencari Ashvarok, dan berkata: "Aku perlu bicara. Bukan sebagai pejabat. Kalau kamu tidak keberatan, juga tidak sebagai penjaga. Hanya dua orang."
 
@@ -46,7 +46,7 @@ Ibu Tamma punya teori soal angka cangkir: setiap tamu baru menambah dua sampai t
 
 ---
 
-Sorenya, tanpa dijadwalkan, dua pengunjung lagi datang satu per satu ke halaman gudang, karena Caldrest memiliki radar untuk orang yang sedang menggali luka: pertama Maera Tull dengan kotak timbungnya — "Lot Vosk bilang ada cerita utara hari ini. Aku bawa salinan arsip utara milik Guild; mungkin cocok dengan daftarmu" — lalu, lebih pelan, lebih tua, Tharrow, yang berdiri di ambang halaman dengan kotak kain di tangannya.
+Sorenya, tanpa dijadwalkan, dua pengunjung lagi datang satu per satu ke halaman gudang, karena Caldrest memiliki radar untuk orang yang sedang menggali luka: pertama Maera Tull dengan weighing box miliknya — "Lot Vosk bilang ada cerita utara hari ini. Aku bawa salinan arsip utara milik Guild; mungkin cocok dengan daftarmu" — lalu, lebih pelan, lebih tua, Tharrow, yang berdiri di ambang halaman dengan kotak kain di tangannya.
 
 "Kubilang dulu ke kamu semua," kata bekas Kel itu, "kalau aku menyimpan daftar gaji dan penempatan the Quiet Vein wilayah utara dari masa itu. Berkas bekerja lama. Aku pikir... mungkin ada nama yang bisa dicocokkan." Ia meletakkan kotak itu di meja, mundur setengah langkah. "Aku bukan datang minta dimaafkan. Datang membawa kertas. Kertas adalah satu-satunya bahasa yang aku fasih."
 

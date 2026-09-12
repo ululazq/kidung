@@ -9,7 +9,7 @@ Pagi hari keseratus sembilan belas, papan pengumuman Quota Office memuat lembar 
 
 "Kemenangan punya bentuk?"
 
-"Semua punya bentuk. Perlindungan bisa ditetapkan sebagai pengecualian kecil, mudah dicabut generasi berikutnya. Atau sebagai preseden, yang menjadi tangga bagi wilayah lain. Bedanya hanya satu atau dua kalimat dalam naskah penetapan." Maera menutup kotak timbung mininya. "Kalimat seperti itu tidak jatuh dari langit. Kalimat seperti itu ditimbang."
+"Semua punya bentuk. Perlindungan bisa ditetapkan sebagai pengecualian kecil, mudah dicabut generasi berikutnya. Atau sebagai preseden, yang menjadi tangga bagi wilayah lain. Bedanya hanya satu atau dua kalimat dalam naskah penetapan." Maera menutup mini weighing box miliknya. "Kalimat seperti itu tidak jatuh dari langit. Kalimat seperti itu ditimbang."
 
 Ashvarok mengangguk dan menyimpan hitungan itu ke tempatnya, di samping semua hitungan lain. Sepanjang jalan pulang melewati pasar yang pelan-pelan hidup lagi, dan di pasar itu legenda bekerja lebih cepat daripada birokrasi. Seorang pembeli tua bercerita kepada penjual sayur bahwa bocah lorong tujuh pernah berdebat dengan lubang tambang dan lubang itu menyerah lebih dulu. Versinya bertambah setiap pekan. Ondar yang dulu menyebar benihnya kini hanya salah satu pendengar, dan pendengar selalu menulis ulang lebih bebas daripada sumbernya.
 
@@ -51,7 +51,7 @@ Meja mendadak menoleh. Ada pintu terbuka di situ, besar, dengan udara hangat men
 
 Penambang muda tertawa puas, dan cerita itu mati di sana — tidak bertambah sayap, tidak menangis, tidak melihat retakan dari permukaan. Ashvarok makan lanjut dengan tenggorokan yang agak kaku, dan malam itu, saat melakukan pemeriksaan fajar di tempat yang sama seperti semalam, angkanya bergerak. Tipis lagi. Separuh sepersekian persen mungkin, lebih kecil dari kemarin, tetapi arahnya jelas dan hangatnya familiar seperti jari yang menghangat di dekat api kecil.
 
-Dua malam, dua hasil, satu variabel yang bersih. Ia duduk memandangi dinding gudang dan merumuskan dengan cara bekerja era lamanya menyusun dekrit. Hukumnya sederhana sampai hampir menghina. Yang memberi makan bukan cerita tentang dirinya. Yang memberi makan cerita yang benar tentang dirinya. Legenda adalah uang palsu, dan sisa dirinya, ternyata, tidak bisa ditipu — ia menolak pembayaran apa pun yang tidak sungguh-sungguh. Barang yang selama seribu tahun hanya menerima kerugian ternyata tetap punya standar.
+Dua malam, dua hasil, satu variabel yang bersih. Ia duduk memandangi dinding gudang dan merumuskan dengan cara bekerja era lamanya menyusun dekrit. Hukumnya sederhana sampai hampir menghina. Yang memberi makan bukan cerita tentang dirinya. Yang memberi makan cerita yang benar tentang dirinya. Legenda adalah uang palsu, dan the Remainder, ternyata, tidak bisa ditipu — ia menolak pembayaran apa pun yang tidak sungguh-sungguh. Barang yang selama seribu tahun hanya menerima kerugian ternyata tetap punya standar.
 
 Lalu ia memikirkan sisi lain dari hukum itu, dan bagian ini tidak menenangkan. Kalau hanya kebenaran yang menyehatkan, maka cara paling cepat mengisi kembali dirinya adalah memastikan orang-orang terus mengetahui kebenaran tentang dirinya — dan kebenaran tentang dirinya yang paling dalam adalah barang yang paling berbahaya untuk diketahui. Jalur pemulihan ini bermuara tepat ke jurang yang ia hindari seribu tahun. Semakin lapar ia akan dikenal, semakin besar godaan membuka kertas-kertas yang harusnya tetap terlipat.
 

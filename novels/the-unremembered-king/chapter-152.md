@@ -11,7 +11,7 @@ Ossian membaca ketiga-tiganya dua kali di kamar distrik tengah, lalu meletakkann
 
 Pintu yang menjawab tanpa disentuh.
 
-Ia mengenal kata untuk hal ini dari masa belajarnya, dari guru-guru yang mengajarinya bahwa pengikatan adalah percakapan dengan batu, dan batu yang menjawab pertanyaan yang belum diajukan adalah batu yang sedang bicara dengan pihak lain. Segel Dewan yang dipasang teknisi Choir adalah pernyataan tertutup, tiga titik, bata-gema, sesuatu yang hanya bisa dibuka dari luar dengan kunci resmi atau dari dalam dengan kehancuran. Kehancuran meninggalkan serpihan. Serpihan tidak ada. Yang ada adalah sembilan manusia keluar lewat mulut yang seharusnya tertutup, rapi, tanpa marah, seperti rumah yang membukakan pintu untuk tamu.
+Ia mengenal kata untuk hal ini dari masa belajarnya, dari guru-guru yang mengajarinya bahwa pengikatan adalah percakapan dengan batu, dan batu yang menjawab pertanyaan yang belum diajukan adalah batu yang sedang bicara dengan pihak lain. Council Seal yang dipasang teknisi Choir adalah pernyataan tertutup, tiga titik, echo-brick, sesuatu yang hanya bisa dibuka dari luar dengan kunci resmi atau dari dalam dengan kehancuran. Kehancuran meninggalkan serpihan. Serpihan tidak ada. Yang ada adalah sembilan manusia keluar lewat mulut yang seharusnya tertutup, rapi, tanpa marah, seperti rumah yang membukakan pintu untuk tamu.
 
 Dan di bawah fakta itu ada fakta kedua yang lebih kecil dan lebih tajam, yang sudah ia pegang sejak malam eksekusi dan baru malam ini berani diletakkan di atas meja. Ia telah memberi perintah dengan tangannya sendiri, ditulis di baris tambahan perintah persiapan: eksekusi tidak sebelum konfirmasi evakuasi total. Ia juga memberi instruksi lisan tentang lonceng evakuasi. Log lonceng dicatat jam sepuluh kurang. Log eksekusinya dicatat jam sepuluh lewat. Selisihnya empat puluh menit lebih pendek dari hitungan dasar galeri ke permukaan, dan hitungan itu adalah hitungannya sendiri. Sembilan orang masih di dalam ketika ia menutup. Semua orang di galeri tahu. Sekarang kertasnya tahu juga.
 
@@ -39,7 +39,7 @@ Ossian mengambil jaketnya. Ia tidak membawa pengikat, tidak membawa surat tanda,
 
 Di dapur barak distrik timur, kabar sembilan orang sudah menjadi tiga versi pada jam sarapan, dan ketiganya salah dengan cara yang berbeda, dan Ashvarok mendengarkan ketiganya sambil mengunyah tanpa berkomentar.
 
-Versi dapur: pintu itu dibuka dari luar oleh Brannoc dengan tenaga enam orang dan dongkrak. Versi klinik: pintu itu sudah lama rusak gemboknya dan Dewan menutupi kecerobohannya. Versi anak-anak, yang paling dekat dan karena itu paling berbahaya: pintu itu mengenali orang-orangnya, seperti kereta nama, seperti stasiun, seperti semua hal di tambang ini yang hafal namanya orang.
+Versi dapur: pintu itu dibuka dari luar oleh Brannoc dengan tenaga enam orang dan dongkrak. Versi klinik: pintu itu sudah lama rusak gemboknya dan Dewan menutupi kecerobohannya. Versi anak-anak, yang paling dekat dan karena itu paling berbahaya: pintu itu mengenali orang-orangnya, seperti name train, seperti stasiun, seperti semua hal di tambang ini yang hafal namanya orang.
 
 Sela tidak ikut berspekulasi. Sela menunggu di ambang barak sampai kakaknya lewat, lalu berjalan berdampingan dengannya sepanjang lorong blok tanpa berkata apa-apa, sampai mereka jauh dari telinga dapur, dan baru berkata satu kalimat.
 
@@ -63,7 +63,7 @@ Sela mengangguk pelan, menerima jawaban itu seperti menerima angka buruk dari do
 
 Ia berbalik masuk barak meninggalkan kakaknya berdiri di lorong. Ashvarok berdiri cukup lama sampai Ondar lewat memanggul sekop dan mengucapkan selamat pagi dua kali, sekali dengan nama panggilannya, sekali dengan nama lengkapnya, seperti orang mengetok pagar dua kali untuk memastikan rumahnya dijawab.
 
-Pekerjaan itu dilakukannya malam harinya juga, karena pekerjaan yang ditunda adalah pekerjaan yang dilakukan oleh orang yang masih punya waktu, dan dia bukan lagi orang itu. Di gudang perkakas tingkat dua, di bawah lampu minyak yang dipangkas supaya tidak terbaca dari jendela, Ashvarok membongkar pertanyaannya sendiri menjadi tiga bagian dan menimbang tiap bagian seperti menimbang tulang seam.
+Pekerjaan itu dilakukannya malam harinya juga, karena pekerjaan yang ditunda adalah pekerjaan yang dilakukan oleh orang yang masih punya waktu, dan dia bukan lagi orang itu. Di gudang perkakas tingkat dua, di bawah lampu minyak yang dipangkas supaya tidak terbaca dari jendela, Ashvarok membongkar pertanyaannya sendiri menjadi tiga bagian dan menimbang tiap bagian seperti menimbang seam-bone.
 
 Bagian pertama: retakan belajar. Apa pun yang menyapa dari dalam seam ini, ia kini punya satu pengamatan baru tentang wilayah sunyi — bahwa ia memetakan pintu-pintunya, dan bahwa pemetaan itu bertambah setiap ada hal bernama di dalam radiusnya. Berarti setiap benda bernama berikutnya yang ia tempa di level bawah adalah pelajaran gratis untuk lawan. Berarti juga, dibaca arah sebaliknya, bahwa kecepatan belajarnya terbatas pada apa yang bisa disapunya. Sunyi tidak membaca kertas. Sunyi tidak mendengar dapur barak. Segala sesuatu yang diketahui retakan tentang Caldrest harus lewat sapuan, dan sapuan bisa diberi sesuatu untuk disapu.
 

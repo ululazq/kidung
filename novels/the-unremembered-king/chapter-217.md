@@ -9,13 +9,13 @@ Rapat penyelesaian kasus tanah utara diadakan bukan di balai kota, bukan di Kant
 
 "Karena yang bersidang bukan hanya manusia," jawab undangan itu, ditulis tangan Sela. "Dan karena di aula ada teh."
 
-Meja panjang itu, kata ibu Tamma kemudian, adalah meja paling aneh yang pernah ia lihat: satu sisi duduk wakil perkebunan Timur dengan dokumen-dokumen mereka; sisi lain Caldrest; ujungnya Dewan Regional sebagai penengah hukum; dan nat-nat lingkaran mengelilingi semuanya — hadir sebagai pihak yang tanahnya sedang dibicarakan, sekaligus rumah tempat sidang berlangsung.
+Meja panjang itu, kata ibu Tamma kemudian, adalah meja paling aneh yang pernah ia lihat: satu sisi duduk wakil perkebunan Timur dengan dokumen-dokumen mereka; sisi lain Caldrest; ujungnya the Regional Council sebagai penengah hukum; dan nat-nat lingkaran mengelilingi semuanya — hadir sebagai pihak yang tanahnya sedang dibicarakan, sekaligus rumah tempat sidang berlangsung.
 
 Ashvarok membuka sidang dengan satu kalimat yang membuat juru tulis resmi menulis ulang dua kali karena tidak percaya itu masuk notula:
 
 "Sidang ini tidak akan memutuskan siapa menang. Sidang ini akan memutuskan bagaimana semua pihak bisa tetap benar pada akhirnya — kalau memang mungkin. Dan kalau tidak mungkin, kita akan mengatakannya juga."
 
-Dewan Regional yang menjabat sebagai penengah hukum membuka berkas kasusnya dan membaca klaim resmi Caldrest — disampaikan atas nama Vess-Morath (gema kelompok, pemilik asli), dengan bukti arsip Arsip Caldrest, saksi Guild, dan kesaksian the Patient House sendiri. Jurutulis Dewan mencatat status para pihak untuk pertama kali dalam sejarah sidang tanah Karvess: "Pihak pertama hadir secara fisik. Pihak kedua hadir secara resonansi."
+the Regional Council yang menjabat sebagai penengah hukum membuka berkas kasusnya dan membaca klaim resmi Caldrest — disampaikan atas nama Vess-Morath (gema kelompok, pemilik asli), dengan bukti arsip Arsip Caldrest, saksi Guild, dan kesaksian the Patient House sendiri. Jurutulis Dewan mencatat status para pihak untuk pertama kali dalam sejarah sidang tanah Karvess: "Pihak pertama hadir secara fisik. Pihak kedua hadir secara resonansi."
 
 ---
 
@@ -77,10 +77,10 @@ Ketua majelis Dewan meminta jeda lima belas menit untuk menyusun putusan — dan
 
 "Maka sekarang kita dua-duanya sudah dapat katanya." Garm mengangkat mangkuknya sedikit. "Baguslah. Kata-kata itu berat kalau dibawa sendirian selama delapan belas tahun."
 
-Putusan Dewan disusun setelah makan siang dan dibacakan sebelum matahari tenggelam — putusan yang kemudian dikenal sebagai "Putusan Ladang Utara", preseden pertama hukum Karvess yang mengakui resonansi sebagai keterangan sah:
+Putusan Dewan disusun setelah makan siang dan dibacakan sebelum matahari tenggelam — putusan yang kemudian dikenal sebagai "the Northern Field Ruling", preseden pertama hukum Karvess yang mengakui resonansi sebagai keterangan sah:
 
 Satu. Hak milik Vess-Morath atas tanah-tanah utara dikembalikan penuh, dengan status "menunggu pemulangan pemegang jiwa" sesuai protokol Arsip Caldrest.
-Dua. Perkebunan Timur dicatat sebagai Penjaga Titipan tiga generasi, dengan hak panen tahun berjalan dan gelar resmi yang tidak bisa dicabut.
+Dua. Perkebunan Timur dicatat sebagai the Custodial Warden tiga generasi, dengan hak panen tahun berjalan dan gelar resmi yang tidak bisa dicabut.
 Tiga. Panen pertama setelah pemulangan pertama kelompok utara dibagi: enam puluh persen untuk keluarga-keluarga pemilik asli, dua puluh persen untuk Caldrest (sebagai penjaga jalan pulang), dua puluh persen untuk perkebunan (sebagai penjaga titipan).
 Empat. Pola penyelesaian yang sama berlaku untuk tujuh belas wilayah bencana lainnya — tanpa perlu sidang ulang satu per satu, karena polanya sudah terbukti sistemik.
 
@@ -100,7 +100,7 @@ Sela mencatat terjemahan itu dan memberinya judul di papan Arsip:
 
 Ashvarok menutup neraca sidang dengan entri yang pendek dan berat:
 
-Hari 556. Putusan Ladang Utara: sah, dibacakan, ditandatangani semua pihak termasuk cap api. Tujuh belas wilayah lain mengikuti polanya secara otomatis.
+Hari 556. the Northern Field Ruling: sah, dibacakan, ditandatangani semua pihak termasuk cap api. Tujuh belas wilayah lain mengikuti polanya secara otomatis.
 
 Yang membuatku diam hari ini bukan putusannya — melainkan cara para pihak makan siang bersama di tengah persidangan mereka sendiri. Seribu tahun silam aku pikir hukum bekerja dengan memenangkan salah satu pihak atas yang lain. Hari ini aku melihat hukum bekerja dengan membuat semua pihak duduk di meja panjang yang sama cukup lama sampai mereka sadar bahwa yang mereka perjuangkan sebenarnya satu hal yang sama.
 

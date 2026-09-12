@@ -27,13 +27,43 @@ Penguasa Tanah Tinggi Vel-Morra mengirim lima utusan ke Caldrest. Bukan untuk be
 
 Surat itu dibacakan Ossian di rapat darurat — dan reaksi pertama datang dari arah yang tidak disangka:
 
-Renn bangkit. Dan suara bocah tambang lima belas tahun itu bergemuruh seperti belum pernah sepanjang novel ini:
+Ossian tidak langsung meminta keputusan. Ia melipat surat tuntutan itu sepanjang bekas lipatan lama, lalu memandang Vessia yang berdiri di ujung meja bersama Lompa.
+
+"Sebelum ruangan ini bicara atas namamu," katanya, "apa terjemahannya tepat?"
+
+Vessia mendekat. Jemarinya menyusuri pola benang pada lembar tuntutan, berhenti di simpul yang diletakkan tepat di bawah cap Vel-Morra.
+
+"Kata-katanya tepat. Wewenangnya tidak." Ia mengangkat tenunan itu agar semua orang melihat simpul tersebut. "Ini simpul persetujuan lima rumah. Hanya empat helai yang ditarik kencang. Rumah kelima menolak, lalu penenunnya menyembunyikan penolakan di balik cap penguasa. Delegasi ini dikirim tergesa-gesa. Mereka takut sebelum sempat sepakat tentang apa yang mereka takuti."
+
+Sela berdiri di kursinya untuk melihat lebih jelas. "Mereka takut Kak Vessia membawa rahasia tenun?"
+
+"Aku tidak membawa rahasia mereka." Vessia menyentuh tenunan di pintu aula, buatannya sendiri. "Aku membawa bahasa yang mereka larang dipakai. Itu berbeda. Pola sakral bukan milik penguasa. Nenekku mengajariku sebelum orang-orangnya menyita alat tenun kami."
+
+"Mengapa bahasa kepada batu harus dilarang?" tanya Kovan.
+
+Vessia menatap nat aula. "Karena batu menjawab siapa pun. Tidak peduli rumahnya, hartanya, atau cap di suratnya. Penguasa Vel-Morra tidak takut rahasia kami tersebar. Ia takut rakyat mendengar jawaban tanpa izinnya."
+
+Ruangan berubah setelah itu. Tuntutan di tangan Ossian tidak lagi terdengar seperti perkara adat; itu terdengar seperti pintu yang seseorang tahan dengan seluruh berat tubuhnya.
+
+"Aku tidak akan kembali untuk dihukum," lanjut Vessia. "Namun jangan usir utusannya. Biarkan mereka masuk dan melihat aku berdiri di sini. Kalau kalian menolak sebelum mereka melihat wajahku, penguasa akan berkata aku ditawan Caldrest."
+
+Renn mencondongkan tubuh. "Dan kalau mereka mencoba membawamu paksa?"
+
+"Maka aku ingin penolakanku didengar dari mulutku sendiri." Vessia menarik surat tuntutan itu dari tangan Ossian, menggulungnya, lalu meletakkannya di depan kursinya. "Aku sudah terlalu lama disebut kabur oleh orang yang menutup setiap jalan pulang. Hari ini mereka akan belajar perbedaan antara kabur dan memilih pergi."
+
+Ossian mengangguk sekali. "Delegasi masuk tanpa senjata dan tanpa hak menahan. Vessia bicara lebih dahulu. Keputusan perlindungan dibacakan sesudahnya."
+
+"Mengapa sesudahnya?" tanya Sela.
+
+"Karena kalau kita mengaku mendengar," jawab Ossian, "kita tidak boleh memulai dengan menenggelamkan suara orang yang hendak kita lindungi."
+
+Renn bangkit. Suara bocah tambang lima belas tahun itu memenuhi ruang rapat:
 
 "DIHUKUM? Karena menenun surat ke ayahnya sendiri?"
 
 Ia menatap Ashvarok.
 
-"Kak Raja. Aku tahu aku hanya anak tungku yang pendapatannya soal hukum internasional tidak ada. Namun aku pernah jadi anak yang tidak bisa bicara delapan bulan." Suaranya bergetar. "Kalau sekarang ada orang yang menyuruh anak lain kembali diam... aku tidak akan setuju bahkan kalau itu disegel emas."
+"Kak Raja. Aku tahu aku hanya anak tungku yang pendapatannya soal hukum internasional tidak ada. Namun aku pernah jadi anak yang tidak bisa bicara delapan bulan." Suaranya bergetar. "Kalau sekarang ada orang yang menyuruh anak lain kembali diam, aku tidak akan setuju bahkan kalau itu disegel emas."
 
 ---
 
@@ -43,7 +73,7 @@ Ashvarok berdiri di sampingnya — dan untuk pertama kalinya, keduanya bicara BE
 
 Ossian menambahkan dasar hukumnya (tentu saja):
 
-"Preseden: the Patient House, pengakuan berdaulat bab 215. Wilayah yang menitipkan jiwa ke nat tidak boleh dituntut balik oleh penguasa yang dulu mengabaikannya. Vel-Morra mengabaikan Vessia selama ia hidup di sana. Maka klaim mereka atas tubuhnya... tidak sah."
+"Preseden: pengakuan berdaulat sebelumnya. Wilayah yang menitipkan jiwa ke nat tidak boleh dituntut balik oleh penguasa yang dulu mengabaikannya. Vel-Morra mengabaikan Vessia selama ia hidup di sana. Maka klaim mereka atas tubuhnya... tidak sah."
 
 Dan ibu Tamma menutup rapat dengan cara yang hanya bisa dilakukan ibu Tamma:
 
@@ -59,9 +89,61 @@ Ketika ditanya kenapa, jawabannya membuat delegasi Caldrest ikut terdiam:
 
 "Sup ini rasanya seperti masakan ibu saya. Ibu saya dulu bilang, kampung kita dulu punya batu yang bicara. Semua orang tertawa dia. Sampai penguasa melarang." Pandangannya jatuh ke kedua telapak tangannya sendiri. "Delapan puluh tahun saya percaya itu hanya cerita gila orang tua."
 
+Vessia, yang sejak tadi berdiri di ambang dapur, maju ketika mendengar kalimat terakhir. Gorvel melihatnya dan mangkuk di tangannya bergeser sedikit. Kuah panas tumpah ke buku jarinya, tetapi ia tidak bereaksi.
+
+"Anak Morra," katanya.
+
+"Namaku Vessia." Ia menarik bangku, duduk berhadapan dengannya, dan tidak menawarkan senyum. "Kau pernah datang ke rumah kami saat musim dingin batu. Ayah memberimu tempat dekat tungku."
+
+Gorvel menaruh mangkuk. "Aku ingat."
+
+"Lalu kau berdiri di ruang ini membawa surat yang menyebutku pencuri."
+
+Utusan lain bergerak hendak menyela, tetapi Gorvel mengangkat satu tangan. "Ayahmu diberi tahu bahwa kau mati di jalur bawah."
+
+Benang yang sedang dililitkan Vessia pada jarinya putus.
+
+"Oleh siapa?"
+
+"Rumah penguasa. Mereka bilang tubuhmu tidak ditemukan karena longsor." Gorvel menatap kuah di mangkuknya. "Tenunanmu tiba melalui nat tiga pekan lalu. Ayahmu membawanya ke alun-alun dan memaksa pembaca pola membacakannya di depan semua orang. Malam itu, nat gunung menjawab. Satu ketukan. Cukup keras untuk didengar seluruh lembah. Esok paginya kami diperintah berangkat."
+
+Vessia meluruskan punggung. "Jadi tuntutan ini bukan karena aku membuka rahasia."
+
+"Tuntutan ini karena gunung menjawabmu." Gorvel mengucapkannya nyaris tanpa suara. "Dan karena orang-orang mulai bertanya mengapa gunung baru bicara setelah anak yang disebut mati menulis dari luar."
+
+Renn hendak berkata sesuatu, tetapi Ashvarok menahannya dari dalam. Kali ini Vessia tidak membutuhkan orang lain mengambil percakapannya.
+
+"Ayahku percaya aku?" tanyanya.
+
+"Ia memukul pembaca pola yang menyebut tenunanmu palsu." Sudut mulut Gorvel bergerak, sedih dan bangga sekaligus. "Sesudah itu ia duduk di depan nat sampai subuh. Dia memintaku menemukanmu sebelum pengawal lain sempat menyeretmu pulang."
+
+"Namun kau tetap membacakan tuntutan mereka."
+
+"Aku pengawal. Tiga puluh tahun aku mengira kesetiaan berarti membawa kata penguasa tanpa mengubah satu simpul pun."
+
+Vessia mendorong gulungan kecil ke arahnya. Tenunan untuk ayahnya.
+
+"Bawa ini tanpa mengubah satu simpul pun," katanya. "Bacakan di alun-alun, bukan di rumah penguasa. Katakan aku akan pulang suatu hari sebagai guru. Bukan sebagai tahanan. Kalau kau tidak sanggup, tinggalkan tenunan itu di sini."
+
+Gorvel memandangi gulungan tersebut cukup lama hingga supnya berhenti mengepul. Kemudian ia melepaskan segel utusan dari bahunya dan menaruhnya di meja, jauh dari tenunan.
+
+"Aku akan membacakannya sendiri."
+
+"Kalau mereka mencabut pangkatmu?"
+
+"Berarti untuk pertama kalinya aku kehilangan sesuatu karena menyampaikan kebenaran, bukan karena menyembunyikannya."
+
+Vessia tidak memaafkannya. Belum. Namun ia mendorong mangkuk itu kembali ke depan Gorvel.
+
+"Habiskan. Perjalanan pulang menanjak."
+
+Gorvel memegang mangkuk dengan kedua tangan. "Pesan apa yang harus kubawa selain tenunan?"
+
+"Katakan kepada ayah bahwa aku mendengar ia menungguku." Suara Vessia pecah pada kata terakhir, tetapi ia tidak menunduk. "Katakan kali ini aku yang meminta dia menunggu sedikit lagi."
+
 ---
 
-Ashvarok duduk di sebelah utusan tua itu. Tidak bicara dulu — pelajaran dari Sekolah Mendengar: agar orang selesai sendiri.
+Ashvarok duduk di sebelah utusan tua itu. Tidak bicara dulu — pelajaran dari the Listening School: agar orang selesai sendiri.
 
 Setelah lama, utusan itu melanjutkan:
 
@@ -83,7 +165,7 @@ Dan jawaban nat aula — yang oleh Kovan diterjemahkan dengan bantuan Vessia (sa
 
 Gorvel pulang ke Tanah Tinggi keesokan harinya — bukan sebagai utusan yang gagal menagih, tetapi sebagai saksi yang tidak bisa lagi berbohong untuk penguasanya.
 
-Yang ia bawa: satu tenunan dari Vessia (untuk ayahnya), satu resep Sup Kamp Pertama (untuk ibunya, yang katanya "sudah terlalu lama makan tanpa cerita"), dan satu kalimat yang akan mengubah gunung:
+Yang ia bawa: satu tenunan dari Vessia (untuk ayahnya), satu resep First Camp Soup (untuk ibunya, yang katanya "sudah terlalu lama makan tanpa cerita"), dan satu kalimat yang akan mengubah gunung:
 
 "BATU ITU INGAT IBU IBU KITA. SEMUA MEREKA. DAN BATU ITU MENUNGGU KITA PULANG."
 
@@ -127,11 +209,11 @@ KITA SEMUA SUDAH DENGAR."
 
 ---
 
-Neraca penutup kasus Vel-Morra — ditulis Ossian, dengan catatan pinggir ibu Tamma:
+Neraca kasus Vel-Morra ditulis Ossian, dengan catatan pinggir ibu Tamma:
 
 Hari 1.012. Tanah Tinggi Vel-Morra: WILAYAH KEEMPAT yang resmi meminta diajari. Metode pembukaan: satu sup, satu anak berani, dan delapan puluh tahun kesabaran nat gunung.
 
-Biaya diplomasi: tiga mangkuk Sup Kamp Pertama.
+Biaya diplomasi: tiga mangkuk First Camp Soup.
 
 Margin ibu Tamma:
 
@@ -139,9 +221,9 @@ Margin ibu Tamma:
 
 ---
 
-Dan satu adegan penutup — di nat aula, malam itu:
+Malam itu, di dekat nat aula, Vessia Morra mulai menenun pola baru.
 
-Vessia Morra menenun sesuatu yang baru: pola besar, dikerjakan seminggu penuh, dibantu Lompa dan seluruh kelas menenun.
+Pola besar itu dikerjakan seminggu penuh, dibantu Lompa dan seluruh kelas menenun.
 
 Ketika selesai, ia menggantungkannya di dinding aula — di samping tenunan "AKU TIDAK AKAN PERNAH LAGI SEPI" miliknya sendiri.
 
@@ -165,21 +247,7 @@ Dan di bawahnya, satu baris dari ibu Tamma:
 
 ---
 
-Dan satu baris terakhir dari Ashvarok-Renn:
-
-"Bab ini ditulis untuk semua orang di dunia yang disuruh diam tentang hal yang benar.
-
-Kalian tidak sendirian. Batu-batunya ingat.
-
-Dan pintu Caldrest — seperti kata ibu Tamma — tidak pernah tutup."
-
-— Bab 252 selesai. Gunung terbuka. Ayo.
-
----
-
-Dan satu adegan terakhir — di nat aula, subuh sebelum bab ini ditutup:
-
-Gorvel kembali ke Caldrest. Bukan sebagai utusan penguasa.
+Subuh berikutnya, Gorvel kembali ke nat aula, bukan untuk membawa tuntutan penguasa.
 
 Sebagai murid baru angkatan 3 — yang tertua, umur enam puluh dua tahun, dan oleh Lompa dudukkan di bangku paling depan "supaya dengar jelas".
 
@@ -197,70 +265,16 @@ Dan Gorvel — pengawal keras enam puluh dua tahun yang tidak pernah menangis di
 
 Kali ini semua orang menemaninya.
 
-Karena di Sekolah Mendengar, menangis bukan aib. Menangis adalah bukti bahwa seseorang akhirnya didengar.
+Karena di the Listening School, menangis bukan aib. Menangis adalah bukti bahwa seseorang akhirnya didengar.
+
+"Kalau aku diterima sebagai murid," kata Gorvel, "aku ingin mulai dari pelajaran pertama."
+
+"Pelajaran pertama berbeda untuk setiap orang," jawab Pellia.
+
+Gorvel memandang nat aula yang masih mengirim irama gunungnya. "Kalau begitu, pelajaranku mungkin bertanya tanpa membawa ancaman."
+
+Renn menggeser satu kursi untuknya. "Duduk dulu. Bertanya setelah sup."
+
+Gorvel duduk. Untuk pertama kalinya sejak tiba dari Vel-Morra, ia meletakkan segel utusannya di meja dan tidak menyentuhnya lagi.
 
 ---
-
-Dan satu baris terakhir dari ibu Tamma — di buku dapur, halaman resep sup Vel-Morra yang baru:
-
-"Resep ke-12 masuk registri: Sup Gorvel — dibuat oleh ibu-ibu gunung, dikirim untuk utusan yang menangis.
-
-Catatan khusus: resep ini WAJIB dimasak setiap kali ada murid baru yang jauh. Karena semua anak jauh itu punya ibu di gunung yang belum tahu mereka aman.
-
-Sup membuat mereka tahu."
-
----
-
-Dan satu kalimat penutup dari Ashvarok-Renn:
-
-"Delapan bulan silam, dunia datang ke kami karena butuh diselamatkan.
-
-Tahun ini, dunia datang ke kami karena mau belajar menyapa.
-
-Dan tahun depan — kami yakin — dunia akan datang untuk tinggal."
-
----
-
-Dan kalimat itu — oleh ibu Tamma — mendapat balasan yang menjadi penutup bab:
-
-"Biar saja mereka datang untuk apa pun.
-
-Yang penting pintunya terbuka dan supnya hangat."
-
-Dan ketika subuh datang, nat aula menyala lebih hangat dari biasanya — karena di dalam resonansinya, untuk pertama kalinya, ada irama gunung: pelan, dalam, dan sabar seperti delapan puluh tahun menunggu.
-
-Irama Vel-Morra sudah masuk jaringan.
-
-Dan dunia menjadi sedikit lebih luas lagi.
-
----
-
-Dan satu kalimat penutup dari Renn — untuk Vessia, yang membacanya keesokan paginya dan tersenyum sepanjang hari:
-
-"Vessia. Delapan puluh tahun gunungmu diam bukan karena batunya tidak bisa bicara.
-
-Karena tidak ada yang cukup berani bertanya.
-
-Kamu bertanya. Kamu berjalan. Kamu menenun.
-
-Sekarang gunungmu bicara."
-
----
-
-Dan Ashvarok menambahkan satu kalimat terakhir — untuk menutup kasus yang dimulai dari surat ancaman dan berakhir dengan sup:
-
-"Dan aku menambahkan satu hal sebagai raja tua yang seribu tahun silam juga pernah disuruh diam:
-
-Yang disuruh diam selalu punya hal paling penting untuk dikatakan.
-
-Selamat datang di dunia yang mendengar, Vel-Morra."
-
----
-
-Dan satu baris terakhir dari ibu Tamma — yang menutup kasus ini di buku dapurnya:
-
-"Sup Gorvel masuk daftar menu permanen. Nama lainnya: Sup Pendengar.
-
-Karena semua yang memakannya jadi pendengar.
-
-Terbukti."

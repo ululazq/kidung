@@ -3,11 +3,11 @@ title: "Bab 154: Berkas yang Dipanggil Pulang"
 chapter: 154
 ---
 
-Suratnya tiba di Caldrest pada hari kedua ratus dua puluh enam, kop Koordinasi Artefak Regional, lilin putih-abu tanpa benang timah, satu lembar, tiga kalimat. Kovan membacanya berdiri di loket pos Quota Office dan tidak mengubah wajahnya sedikit pun, karena wajah yang berubah adalah wajah yang dicatat orang.
+Suratnya tiba di Caldrest pada hari kedua ratus dua puluh enam, kop Regional Artifact Coordination, lilin putih-abu tanpa benang timah, satu lembar, tiga kalimat. Kovan membacanya berdiri di loket pos Quota Office dan tidak mengubah wajahnya sedikit pun, karena wajah yang berubah adalah wajah yang dicatat orang.
 
 Berkas klasifikasi Orphan Murmur nomor satu dipanggil naik ke Anthema Spire. Pemegang berkas diperintahkan menyertai. Keberangkatan kafilah Guild pekan ini.
 
-Tiga kalimat, dan Kovan membutuhkan seluruh perjalanan pulang ke kamar sewaan untuk memahami apa yang sebenarnya sedang terjadi: ada jabatan di Spire yang mengetahui keberadaan berkas itu, memilihnya dari ribuan arsip, dan memanggilnya bukan ke biro mana pun melainkan ke atas, melewati kepala semua orang, ke meja yang bahkan Dewan tidak tahu siapa yang duduk di baliknya. Pembaca Tua. Ia belum pernah menulis nama itu di laporan mana pun. Sekarang jabatan itu menulis namanya lebih dulu.
+Tiga kalimat, dan Kovan membutuhkan seluruh perjalanan pulang ke kamar sewaan untuk memahami apa yang sebenarnya sedang terjadi: ada jabatan di Spire yang mengetahui keberadaan berkas itu, memilihnya dari ribuan arsip, dan memanggilnya bukan ke biro mana pun melainkan ke atas, melewati kepala semua orang, ke meja yang bahkan Dewan tidak tahu siapa yang duduk di baliknya. the Old Reader. Ia belum pernah menulis nama itu di laporan mana pun. Sekarang jabatan itu menulis namanya lebih dulu.
 
 Ia membongkar buku sandi pribadinya malam itu juga. Dua deret irama tetap berdiri di halaman kesembilan belas, tertulis dalam sandi dua alfabet mati yang hanya bisa dibaca orang yang hafal keduanya: bisikan jam sebelas hari-H dari galeri bisu, dan getar telapak pengikat senior di pasak selatan. Dua suara dari satu tradisi, cocok sampai jeda tertahan. Fakta yang ia pegang sendirian selama seratus hari, fakta yang membuatnya dari alat menjadi penyelidik.
 
@@ -17,7 +17,7 @@ Ia sudah mendengar ceritanya di debrief Ossian lima hari lalu, disampaikan datar
 
 Kecuali dengan dua deret di halaman sembilan belas.
 
-Kovan duduk sampai jauh malam dengan dua pilihan yang saling meniadakan. Pilihan pertama: menaiki kafilah, menyerahkan berkas, menjawab apa yang ditanyakan dengan kebenaran prosedural — gema tak terklasifikasi, sumber tidak diketahui — dan pulang dengan berkas kosong dan dirinya yang telah dipetakan oleh pembaca terbaik sekte itu. Pilihan kedua: tidak pergi, dan menjadi orang pertama dalam sejarah klasifikasi itu yang menolak panggilan Pembaca Tua, yang berarti berkasnya disita paksa, isinya dibaca tanpa konteksnya, dan dia berubah dari pemegang menjadi tersangka dalam satu putaran kafilah.
+Kovan duduk sampai jauh malam dengan dua pilihan yang saling meniadakan. Pilihan pertama: menaiki kafilah, menyerahkan berkas, menjawab apa yang ditanyakan dengan kebenaran prosedural — gema tak terklasifikasi, sumber tidak diketahui — dan pulang dengan berkas kosong dan dirinya yang telah dipetakan oleh pembaca terbaik sekte itu. Pilihan kedua: tidak pergi, dan menjadi orang pertama dalam sejarah klasifikasi itu yang menolak panggilan the Old Reader, yang berarti berkasnya disita paksa, isinya dibaca tanpa konteksnya, dan dia berubah dari pemegang menjadi tersangka dalam satu putaran kafilah.
 
 Ada pilihan ketiga yang baru ia lihat subuh harinya, setelah lilinnya mati dua kali. Pilihan ketiga bukan memilih antara kejujuran dan keselamatan. Pilihan ketiga adalah menulis ulang bentuk kebenarannya sendiri sebelum ada yang menulis untuknya.
 
@@ -35,7 +35,7 @@ Pemanggilan datang bukan lewat pintu depan. Pintu samping terbuka oleh tangan da
 
 "Isinya sudah saya hafal," kata Kovan, duduk tetap dengan tangan di pangkuan.
 
-"Tentu saja. Anda menulisnya dengan cara yang jarang saya temukan: setiap gema dicatat dengan apa yang tidak cocok, bukan hanya apa yang terjadi." Halaman dibalik sekali lagi, lalu berhenti. "Saya akan bertanya tiga hal, dan Anda akan menjawab dengan kebenaran yang Anda pilih sendiri. Saya sudah cukup tua untuk tahu bahwa kebenaran yang dipilih juga informasi." Jari tua itu menunjuk satu baris. "Gema pertama. Bisikan jam sebelas, hari kedua ratus sembilan puluh delapan menurut kalender kota Anda. Anda menulis: tidak cocok dengan tradisi mana pun. Saya bertanya: apakah Anda mencocokkannya dengan semua tradisi, atau semua tradisi yang Anda ketahui?"
+"Tentu saja. Anda menulisnya dengan cara yang jarang saya temukan: setiap gema dicatat dengan apa yang tidak cocok, bukan hanya apa yang terjadi." Halaman dibalik sekali lagi, lalu berhenti. "Saya akan bertanya tiga hal, dan Anda akan menjawab dengan kebenaran yang Anda pilih sendiri. Saya sudah cukup tua untuk tahu bahwa kebenaran yang dipilih juga informasi." Jari tua itu menunjuk satu baris. "Gema pertama. Bisikan jam sebelas menurut catatan Anda. Anda menulis: tidak cocok dengan tradisi mana pun. Saya bertanya: apakah Anda mencocokkannya dengan semua tradisi, atau semua tradisi yang Anda ketahui?"
 
 Ruangan itu diam menunggu, dan Kovan merasakan pertanyaan itu dengan tepatnya seperti pernah merasakan lempeng cadangan di tangannya: instrumen yang benar, digunakan oleh tangan yang benar, pada waktu yang salah untuk berbohong.
 
@@ -61,7 +61,7 @@ Wanita tua itu memandanginya lama, lalu — dan ini yang tidak dipersiapkan Kova
 
 Di gerobak pulang, di antara kotak-kotak arsip yang sama, Kovan membuka buku sandinya di halaman sembilan belas dan menambahkan deret keempat dengan tangan yang stabil, lalu satu baris penutup dalam sandi yang hanya bisa dibaca orang yang tahu bahwa sandi itu ada:
 
-Salinan ketiga disimpan. Bukan untuk Vael, bukan untuk Pembaca Tua. Untuk hari ketika keluarga itu benar-benar bernama, dan seseorang harus membuktikan siapa yang mendengarnya lebih dulu.
+Salinan ketiga disimpan. Bukan untuk Vael, bukan untuk the Old Reader. Untuk hari ketika keluarga itu benar-benar bernama, dan seseorang harus membuktikan siapa yang mendengarnya lebih dulu.
 
 ---
 

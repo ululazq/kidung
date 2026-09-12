@@ -69,7 +69,7 @@ Mereka tinggal di sekitar nat-nat kamp — dan mulai MENENUN. Bukan kain warisan
 
 "Peta keluarga kami dulu hanya nama," kata kepala kamp pertama saat memegang ujung kain panjang itu. "Sekarang ini dia buku. Dan bukunya kita tulis bareng-bareng dengan orang yang tadinya hanya nama."
 
-Kain panjang itu akhirnya membentang lebih dari dua ratus langkah, menghubungkan pos satu ke sembilan — dan oleh warga dinamai "Jalan Nama".
+Kain panjang itu akhirnya membentang lebih dari dua ratus langkah, menghubungkan pos satu ke sembilan — dan oleh warga dinamai "the Path of Names".
 
 Ashvarok berjalan di sepanjangnya menjelang senja, membaca potongan demi potongan yang baru ditenun sore itu, dan di ujung terakhir — dekat nat kesembilan yang paling muda — ia menemukan satu pola kecil yang baru ditambahkan seseorang:
 
@@ -81,7 +81,7 @@ Ashvarok berdiri di depan pola itu lama. Lalu berkata kepada kepala kamp yang me
 
 "Ini aku ya?"
 
-"Ini kamu," kata kepala kamp itu. "Lompa yang nunun semalam. Katanya, kalau ada orang yang tiap hari menyapa nat-nat kami lewat lagu dan tidak pernah minta dibalas... dia juga pantas masuk Jalan Nama."
+"Ini kamu," kata kepala kamp itu. "Lompa yang nunun semalam. Katanya, kalau ada orang yang tiap hari menyapa nat-nat kami lewat lagu dan tidak pernah minta dibalas... dia juga pantas masuk the Path of Names."
 
 Ashvarok memberi jeda sebentar sebelum bicara.
 
@@ -93,7 +93,7 @@ Kepala kamp tertawa. "Dia bilang pasti begitu. Makanya sudah disiapkan benangnya
 
 Dan neraca resmi pemulangan keempat — wilayah barat laut — ditulis Ashvarok malam itu:
 
-Hari 788. Barat laut: ENAM PULUH SATU JIWA (naik dari 52 setelah pembacaan kain). SEMUA NAIK. Media: TENUNAN — pasal 15 terbukti. Sekolah menenun: berdiri, 19 murid + 1 guru tua yang menolak jabatan. Kain panjang "Jalan Nama": dua ratus langkah dan bertambah setiap hari.
+Hari 788. Barat laut: ENAM PULUH SATU JIWA (naik dari 52 setelah pembacaan kain). SEMUA NAIK. Media: TENUNAN — pasal 15 terbukti. Sekolah menenun: berdiri, 19 murid + 1 guru tua yang menolak jabatan. Kain panjang "the Path of Names": dua ratus langkah dan bertambah setiap hari.
 
 Total proyek: TIGA RATUS TIGA DUA dari empat ratus jiwa pulang. Tiga belas wilayah tersisa.
 
@@ -105,7 +105,7 @@ Dan balasan Ashvarok pada kain itu — ditenun sendiri olehnya semalam butuh sep
 
 "TERIMA KASIH. SAMPAI JUMPA."
 
-Kain itu dikirim kembali ke barat laut sebagai penutup resmi wilayah — dan oleh Lompa digantung di ujung Jalan Nama, di posisi terdepan dari semua kain, supaya "siapa pun yang datang dari jalan tahu: orang yang menyapa batu kecil sekalipun akan dibalas."
+Kain itu dikirim kembali ke barat laut sebagai penutup resmi wilayah — dan oleh Lompa digantung di ujung the Path of Names, di posisi terdepan dari semua kain, supaya "siapa pun yang datang dari jalan tahu: orang yang menyapa batu kecil sekalipun akan dibalas."
 
 Dan satu catatan terakhir untuk arsip wilayah barat laut, dari ibu Tamma — yang menolak datang ke pemulangan dengan alasan "dapur tidak bisa ditinggal", tetapi diam-diam mengirim dua puluh wadah sup dalam gerobak khusus:
 
@@ -127,19 +127,19 @@ Dan sejak pekan itu, dapur aula punya murid-murid baru dari barat laut: delapan 
 
 Pada yang ketiga, iramanya panjang dan tenang:
 
-"INI DIA. RASA YANG HILANG TIGA RATUS TAHUN. CATAT BAIK-BAIK, ANAK-ANAK. INI SUP KAMP PERTAMA."
+"INI DIA. RASA YANG HILANG TIGA RATUS TAHUN. CATAT BAIK-BAIK, ANAK-ANAK. INI First Camp Soup."
 
 Dan resep itu kemudian diberi nama resmi di buku dapur aula:
 
-"Sup Kamp Pertama — dari barat laut, dibalas rasa tiga ratus tahun."
+"First Camp Soup — dari barat laut, dibalas rasa tiga ratus tahun."
 
 Ibu Tamma menambahkan catatan di bawahnya: "resep ini tidak boleh diubah sedikit pun. Yang kurang asin dan kurang manis itu sudah lewat. Sekarang dia sempurna."
 
-Dan sup Kamp Pertama itu — sampai jauh setelah buku ini ditutup — selalu menjadi menu wajib setiap perayaan pemulangan wilayah mana pun. Karena kata kepala kamp pertama: "sup ini bukti bahwa rasa bisa pulang juga. Bukan hanya orang."
+Dan First Camp Soup itu — sampai jauh setelah buku ini ditutup — selalu menjadi menu wajib setiap perayaan pemulangan wilayah mana pun. Karena kata kepala kamp pertama: "sup ini bukti bahwa rasa bisa pulang juga. Bukan hanya orang."
 
 ---
 
-Sore yang sama, satu adegan kecil terjadi di tepi Jalan Nama yang oleh Harn dicatat di buku harian sekolah:
+Sore yang sama, satu adegan kecil terjadi di tepi the Path of Names yang oleh Harn dicatat di buku harian sekolah:
 
 Seorang anak laki-laki lima tahun — generasi baru barat laut, lahir setelah kabur malam itu — berhenti di depan kain panjang, menunjuk satu pola, dan bertanya kepada ibunya: "Ini siapa?"
 
@@ -149,5 +149,5 @@ Anak itu mempertimbangkan informasinya dengan keseriusan lima tahun, lalu berkat
 
 "Kalau begitu besok aku bawa gambar kucingku ke sini. Biar kakek buyut juga kenal dia."
 
-Kain-kain itu tidak pernah selesai diceritakan. Dan justru itu gunanya: Jalan Nama adalah tempat generasi baru bertemu generasi lama lewat pertanyaan-pertanyaan paling sederhana di dunia.
+Kain-kain itu tidak pernah selesai diceritakan. Dan justru itu gunanya: the Path of Names adalah tempat generasi baru bertemu generasi lama lewat pertanyaan-pertanyaan paling sederhana di dunia.
 

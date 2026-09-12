@@ -15,7 +15,7 @@ Yang muda berlutut di tepi tanah kosong itu. "Tanah ini mati," katanya. "Namun b
 
 Di barak, dua belas fajar telah berlalu sejak mereka berangkat. Ashvarok-Renn berdiri di menara menatap ke utara, dan untuk pertama kalinya dalam pekan itu ia membiarkan dirinya bertanya: apakah garis itu panjang, atau berhenti?
 
-Mira datang membawa buku anomali. "Angin berbalik tadi pagi," katanya. "Dari utara ke selatan, untuk pertama kalinya dalam sembilan hari."
+Mira datang membawa the Anomaly Book. "Angin berbalik tadi pagi," katanya. "Dari utara ke selatan, untuk pertama kalinya dalam sembilan hari."
 
 "Apa artinya?"
 
@@ -53,7 +53,7 @@ Malam itu, mereka berkemah di tepi tanah kosong itu, di luar jangkauan tiga batu
 
 "Kita tidak membukanya." Yang tua menutup kertas itu. "Kita hanya mengetuk. Dan penunggu di dalamnya menjawab satu ketukan — bukan untuk menyambut kita, tetapi untuk mencatat bahwa kita datang. Sekarang kita tahu bahwa tempat ini hidup, dan bahwa ia mencatat. Itu sudah lebih dari yang kita tahu kemarin."
 
-Di barak, fajar berikutnya, Ashvarok-Renn membuka buku anomali dan menulis: *Dua belas fajar telah berlalu. Dua orang di jalan ke utara. Angin berbalik tanpa dentum untuk pertama kalinya dalam sembilan hari. Garis menunggu jawaban — atau jawaban sedang menunggu kita.*
+Di barak, fajar berikutnya, Ashvarok-Renn membuka the Anomaly Book dan menulis: *Dua belas fajar telah berlalu. Dua orang di jalan ke utara. Angin berbalik tanpa dentum untuk pertama kalinya dalam sembilan hari. Garis menunggu jawaban — atau jawaban sedang menunggu kita.*
 
 Kovan datang membawa secangkir teh dan duduk di seberang meja. "Kau menulis soal angin," katanya. "Namun aku menghitung sesuatu yang lain. Tiga batu tegak, kata penggambar peta, adalah penanda pra-Hegemony. Kalau begitu, jalan di belakangnya juga pra-Hegemony. Dan kalau jalan itu pra-Hegemony, maka tempat yang ditujunya juga pra-Hegemony — lebih tua dari the Choir, lebih tua dari semua yang kita kenal."
 
@@ -85,4 +85,4 @@ Mereka menimbun kembali tanah itu dengan hati-hati, menyusun gumpalan-gumpalan s
 
 "Kita mencatat apa yang kita lihat," kata the Keeper ketika mereka berjalan ke selatan, meninggalkan bukit yang tidak bernama itu di belakang. "Kita tidak membuka apa pun. Kita pulang membawa pertanyaan — bukan untuk menjawabnya, tetapi agar ada yang tahu pertanyaan itu ada."
 
-Di kejauhan, di balik tiga batu itu, angin berbalik lagi dari utara ke selatan, membawa satu ketukan yang tidak pernah dikirim siapa pun — dan di barak, dua belas fajar perjalanan di selatan, Mira mencatatnya di buku anomali dengan tulisan yang sedikit bergetar: *Katup menara menjawab untuk pertama kalinya sejak ia dibangun.*
+Di kejauhan, di balik tiga batu itu, angin berbalik lagi dari utara ke selatan, membawa satu ketukan yang tidak pernah dikirim siapa pun — dan di barak, dua belas fajar perjalanan di selatan, Mira mencatatnya di the Anomaly Book dengan tulisan yang sedikit bergetar: *Katup menara menjawab untuk pertama kalinya sejak ia dibangun.*

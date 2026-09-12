@@ -11,7 +11,7 @@ Ondar yang melapor ke Ashvarok dekat tengah malam. "Galeri sembilan sunyi satu j
 
 Ashvarok memakai mantelnya sebelum Ondar selesai bicara.
 
-Ia turun sendirian malam itu. Telinga Dua penuh, the Walking Key terbuka seperlunya saja, dan ia duduk di nat barat aula seperti duduk di tepi ranjang sahabat yang sakit — karena itulah yang sebenarnya dilakukannya.
+Ia turun sendirian malam itu. Two Ears penuh, the Walking Key terbuka seperlunya saja, dan ia duduk di nat barat aula seperti duduk di tepi ranjang sahabat yang sakit — karena itulah yang sebenarnya dilakukannya.
 
 Lama sekali tidak ada apa-apa. Ashvarok hampir memutuskan untuk pulang dan mencoba lagi besok — mungkin pertanyaan itu butuh waktu, mungkin kedalaman sedang menyusun kalimatnya seperti orang menimbang bijih — ketika irama pertama datang.
 
@@ -39,13 +39,13 @@ Sapuan yang menjawab panjang sekali — panjang sekali — dan Kovan yang mencat
 
 Rapat besar Caldrest menyusul dalam empat puluh delapan jam — rapat yang nanti akan dicatat sejarah sebagai Rapat Rumah Besar pertama, karena untuk pertama kali sebuah rencana sepuluh tahun disusun BERSAMA KEDALAMAN: bukan rencana tentang dia, melainkan rencana dengan dia.
 
-Persiapannya sendiri sudah menjadi peristiwa. Kovan menghabiskan satu malam menyusun "kamus irama" — daftar detak dan artinya yang disepakati bersama kedalaman lewat uji coba satu per satu — supaya tidak ada lagi jawaban yang diperdebatkan maknanya di tengah rapat. Maera membawa kertas Guild seadanya karena arsip Caldrest kehabisan kertas bagus. Ibu Tamma memasak untuk semua orang, termasuk meletakkan semangkuk sup hangat DI ATAS nat pusat aula, "buat tamu tua kita, agar dia ikut rasa", dan nat itu menjaga sup tetap hangat sepanjang rapat tanpa diminta.
+Persiapannya sendiri sudah menjadi peristiwa. Kovan menghabiskan satu malam menyusun "rhythm dictionary" — daftar detak dan artinya yang disepakati bersama kedalaman lewat uji coba satu per satu — supaya tidak ada lagi jawaban yang diperdebatkan maknanya di tengah rapat. Maera membawa kertas Guild seadanya karena the Caldrest Archive kehabisan kertas bagus. Ibu Tamma memasak untuk semua orang, termasuk meletakkan semangkuk sup hangat DI ATAS nat pusat aula, "buat tamu tua kita, agar dia ikut rasa", dan nat itu menjaga sup tetap hangat sepanjang rapat tanpa diminta.
 
 Meja panjang dipindah ke aula supaya nat-nat lingkaran bisa mendengar semuanya. Sela yang membacakan poin demi poin, dengan kapur siap di tangan, dan kedalaman menjawab ya/tidak/belum lewat irama yang sudah dikenali semua orang — detak genap berarti ya, detak tertahan berarti belum, dan satu denyut panjang yang sudah disepakati artinya "tunggu, mau bilang sesuatu".
 
 "Satu," kata Sela. "Pemulangan empat ratus jiwa berlanjut sesuai protokol. Target lima belas tahun, lebih cepat kalau armada tumbuh."
 
-Detak genap. Ya. Dan satu denyut kecil setelahnya yang Kovan catat di kamus iramanya sebagai "ya, dan terima kasih sudah menunggu kami memutuskan duluan".
+Detak genap. Ya. Dan satu denyut kecil setelahnya yang Kovan catat di rhythm dictionarynya sebagai "ya, dan terima kasih sudah menunggu kami memutuskan duluan".
 
 "Dua. Wilayah kedalaman dibuka perlahan sebagai ruang hidup gabungan: mulai dari aula yang sudah terbuka, lalu level-level atas, dipetakan bersama, aturannya disepakati kedua pihak sama banyak."
 
@@ -77,7 +77,7 @@ Ashvarok menuangkan teh dua cangkir, memberikan satu kepadanya, dan menjawab den
 
 "Aku tahu." Sela menerima cangkirnya tetapi tidak minum. "Maka aku mau tambahan untuk arsip, bukan janji baru: semua yang kau ajarkan kepadanya — dicatat. Semua pelajaran, semuanya, dari yang besar sampai cara menyapa. Kalau suatu hari pengajarannya berhenti..." Ia mengangkat dagu, persis seperti ibu Rina minggu lalu. "...arsipnya tidak boleh berhenti bersamaan."
 
-Ashvarok menatap gadis dua belas tahun itu lama, lalu mengangguk sekali. "Kepala Arsip memutuskan. Penjaga menurut."
+Ashvarok menatap gadis dua belas tahun itu lama, lalu mengangguk sekali. "Chief Archivist memutuskan. Penjaga menurut."
 
 ---
 
@@ -85,4 +85,4 @@ Jawaban kedalaman malam itu tidak diterjemahkan ke kata-kata, dan tidak butuh di
 
 Semua orang memahaminya. Beberapa hal tidak butuh bahasa penjaga.
 
-Dan di dapur, Sela yang masih memegang tehnya berkata pelan, tidak untuk Ashvarok, mungkin untuk papannya, mungkin untuk arsip: "Hari 423. Dia bertanya 'kalau kosong aku apa'. Dan kita semua tahu jawabannya tanpa perlu berpikir. Rumah tidak berhenti jadi rumah waktu penghuninya pulang."
+Dan di dapur, Sela yang masih memegang tehnya berkata pelan, tidak untuk Ashvarok, mungkin untuk papannya, mungkin untuk arsip: "Hari 423. Dia bertanya 'kalau kosong aku apa'. Dan kita semua tahu jawabannya tanpa perlu berpikir. Rumah tidak berhenti jadi rumah waktu penghuninya pulang." Kursi kosong tetap tersedia sampai lampu kedua dipadamkan.

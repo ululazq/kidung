@@ -59,7 +59,7 @@ Ossian menyimpan kain itu di dalam jaketnya, di sebelah kain tenun ibunya yang s
 
 Di barak, setelah mereka pergi, Sela duduk di depan peta spiral dan menggambar ulang lingkaran-lingkaran Kovan dengan kapur di papan besarnya. Ia menggambar lima lingkaran — lingkaran-lingkaran yang Kovan catat dari dua pekan angin berbalik — lalu meletakkan kapur dan menatap hasilnya lama.
 
-"Lima lingkaran," katanya pada Mira yang datang membawa buku anomali. "Dan kafilah dari Spire itu berjumlah lima orang. Kebetulan?"
+"Lima lingkaran," katanya pada Mira yang datang membawa the Anomaly Book. "Dan kafilah dari Spire itu berjumlah lima orang. Kebetulan?"
 
 "Tidak ada kebetulan di tempat ini," kata Mira. "Hanya pola yang belum kita baca."
 
@@ -85,4 +85,4 @@ Di barak, Ashvarok-Renn membaca salinan surat itu dan mengangguk. "Bahasa angin,
 
 Di luar, angin bertiup dari utara, dan untuk sesaat, irama tiga ketuk itu terdengar di antara pepohonan — bukan sebagai jawaban, tetapi sebagai pengingat bahwa pintu di utara itu masih terbuka, dan bahwa siapa pun yang mengetuknya lebih dulu akan menentukan apa yang akan keluar darinya.
 
-Di jalan ke utara, Ossian berhenti di puncak bukit pertama dan menoleh ke belakang, ke arah barak yang semakin kecil di kejauhan. Ia merasakan kain tenun tua di dalam jaketnya — kain yang diberikan Ashvarok-Renn, yang konon dijaga sebelum barak ada — dan untuk pertama kalinya ia menyadari bahwa ia membawa sesuatu yang lebih tua daripada semua yang ia kenal. Ia tidak tahu apa yang akan ia temukan di tiga batu tegak. Namun ia tahu bahwa ia membawa dua kain tenun di dadanya: satu dari ibunya, satu dari raja yang membakar namanya — dan bahwa keduanya, entah bagaimana, berbicara dalam bahasa yang sama.
+Di jalan ke utara, Ossian berhenti di puncak bukit pertama dan menoleh ke belakang, ke arah barak yang semakin kecil di kejauhan. Ia merasakan kain tenun tua di dalam jaketnya — kain yang diberikan Ashvarok-Renn, yang konon dijaga sebelum barak ada — dan untuk pertama kalinya ia menyadari bahwa ia membawa sesuatu yang lebih tua daripada semua yang ia kenal. Ia tidak tahu apa yang akan ia temukan di tiga batu tegak. Namun ia tahu bahwa ia membawa dua kain tenun di dadanya: satu dari ibunya, satu dari raja yang membakar namanya — dan bahwa keduanya, entah bagaimana, berbicara dalam bahasa yang sama. Penjaga itu menunggu sampai kedua jejak hilang dari jalan.

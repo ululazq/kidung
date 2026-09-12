@@ -69,7 +69,7 @@ Lalu berkata kepada Kovan yang duduk sebelahnya:
 
 "Yang pertama apa?"
 
-"Sup Kamp Pertama. Jangan sampai ibu Tamma dengar urutan ini."
+"First Camp Soup. Jangan sampai ibu Tamma dengar urutan ini."
 
 ---
 
@@ -119,7 +119,7 @@ Dan sejak pekan itu, dapur aula punya murid-murid baru dari dataran tengah juga 
 
 "Kalau sup kita naik peringkat dari kedua, baru kita pulang dengan kepala tegak."
 
-Ibu Tamma menerima tantangan itu dengan gembira. Dan dalam dua pekan, persaingan Sup Kamp Pertama vs Sup Dataran menjadi acara pekan aula yang paling ramai — juri-jurinya bergilir: murid akademi, pemulang lama, dan satu nat tua barat laut yang pendapat soal rasa dianggap paling berwibawa.
+Ibu Tamma menerima tantangan itu dengan gembira. Dan dalam dua pekan, persaingan First Camp Soup vs Sup Dataran menjadi acara pekan aula yang paling ramai — juri-jurinya bergilir: murid akademi, pemulang lama, dan satu nat tua barat laut yang pendapat soal rasa dianggap paling berwibawa.
 
 Sampai saat buku ini ditulis: peringkat masih bergantian. Dan kedua pihak menolak berdamai.
 
@@ -129,7 +129,7 @@ Ibu Tamma, tentang persaingan itu:
 
 ---
 
-Dan di tengah persaingan sup Kamp Pertama vs Sup Dataran yang makin memanas, muncul juri tamu yang tidak terduga: Kael-Uthar.
+Dan di tengah persaingan First Camp Soup vs Sup Dataran yang makin memanas, muncul juri tamu yang tidak terduga: Kael-Uthar.
 
 Api purba lembah selatan — lewat nat aula — minta ikut menilai kedua sup. Ketika ditanya bagaimana api menilai rasa, jawabannya membuat semua orang diam lama:
 
@@ -154,13 +154,13 @@ Ketiga. Protokol wilayah-wilayah berikutnya kini mewajibkan satu langkah baru: w
 
 Keempat — dan ini yang paling penting: jangan pernah mengira daftar resmi adalah batas pekerjaan kita. Nat dataran tengah menyimpan sebelas jiwa yang tidak ada di daftar siapa pun — dan dunia menjawabnya dengan berebut menjadi keluarga mereka.
 
-Kesebelas jiwa itu sendiri — setelah dibangunkan pelan-pelan selama dua pekan oleh nat dataran bersama siswa Sekolah Mendengar — ternyata adalah PENGELANA: kelompok pedagang karavan kecil yang kebetulan berdagang di dataran saat gunung meletus, dan tertitip bukan oleh keluarga, melainkan oleh KEPALA KAMP yang terlalu baik hati untuk menolak orang asing yang panik.
+Kesebelas jiwa itu sendiri — setelah dibangunkan pelan-pelan selama dua pekan oleh nat dataran bersama siswa the Listening School — ternyata adalah PENGELANA: kelompok pedagang karavan kecil yang kebetulan berdagang di dataran saat gunung meletus, dan tertitip bukan oleh keluarga, melainkan oleh KEPALA KAMP yang terlalu baik hati untuk menolak orang asing yang panik.
 
 "Kepala kamp kami dulu," kata kepala kamp sekarang (cucunya), "terkenal tidak bisa menolak siapa pun yang minta dititipkan."
 
 Nat dataran menambahkan: "dan saya senang dia begitu. Karena berkat kebaikan itu, kesebelas orang ini selamat dari abu. Mereka bukan beban catatan. Mereka bukti kamp ini pernah sangat baik hati."
 
-Kesebelas pengelana itu kini tinggal di dataran tengah — diterima keluarga-keluarga panen sebagai "saudara dagang" — dan salah satu dari mereka, perempuan penjual rempah tertua, membuka lapak rempah pertama lembah dalam tiga ratus tahun di tepi Jalan Nama.
+Kesebelas pengelana itu kini tinggal di dataran tengah — diterima keluarga-keluarga panen sebagai "saudara dagang" — dan salah satu dari mereka, perempuan penjual rempah tertua, membuka lapak rempah pertama lembah dalam tiga ratus tahun di tepi the Path of Names.
 
 Lapaknya langsung ramai. Rempahnya habis dalam dua hari.
 

@@ -25,7 +25,7 @@ Empat ratus suara menjawab serentak, membaca nama demi nama bersama Ashvarok. Se
 
 Malam sebelum panen, aula menyelenggarakan ritual yang khas Caldrest: membacakan putusan kepada yang berhak tahu lebih dulu.
 
-Ashvarok turun sendirian ke nat barat, membawa salinan Putusan Ladang Utara, dan membacakannya seluruhnya kepada kedalaman — bukan ringkasannya, seluruhnya, termasuk semua pasal dan catatan kaki hukumnya. Karena itulah janji arsip: dokumen dibacakan utuh kepada sumbernya sebelum disegel.
+Ashvarok turun sendirian ke nat barat, membawa salinan the Northern Field Ruling, dan membacakannya seluruhnya kepada kedalaman — bukan ringkasannya, seluruhnya, termasuk semua pasal dan catatan kaki hukumnya. Karena itulah janji arsip: dokumen dibacakan utuh kepada sumbernya sebelum disegel.
 
 Ketika selesai, nat menjawab dengan irama panjang yang diterjemahkan Kovan pagi harinya:
 

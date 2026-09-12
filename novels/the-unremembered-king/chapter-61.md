@@ -7,7 +7,7 @@ Prosesi penilaian menaiki tangga-tangga the Underfold pada jam empat sore dengan
 
 Sepanjang turunan, kepalanya melakukan pekerjaan yang biasa ia kerjakan setiap malam. Menyusun kronologi. Jam tujuh pagi, blind door dibuka. Jam sembilan, klaim dibacakan dan dicap. Jam sebelas —
 
-Jam sebelas adalah masalahnya. Jam sebelas, di tengah ruangan yang baru saja diumumkan mati oleh empat institusi, telinganya dipanggil dari arah yang tidak menghasilkan bunyi apa pun, dan kakinya berhenti di tengah langkah di hadapan seluruh prosesi. Ia sudah menjawab pengikat tua itu dengan kalimat yang ia poles tiga detik penuh sebelum mengeluarkannya. Kalau suatu saat ada yang terjadi dan alatnya tidak membacanya, ia akan bilang. Kalimat itu lolos. Kalimat itu bahkan dipuji dengan anggukan.
+Jam sebelas adalah masalahnya. Jam sebelas, di tengah ruangan yang baru saja diumumkan mati oleh dua institusi, telinganya dipanggil dari arah yang tidak menghasilkan bunyi apa pun, dan kakinya berhenti di tengah langkah di hadapan seluruh prosesi. Ia sudah menjawab pengikat tua itu dengan kalimat yang ia poles tiga detik penuh sebelum mengeluarkannya. Kalau suatu saat ada yang terjadi dan alatnya tidak membacanya, ia akan bilang. Kalimat itu lolos. Kalimat itu bahkan dipuji dengan anggukan.
 
 Yang tidak lolos adalah tidurnya.
 
@@ -29,29 +29,29 @@ Lalu orang itu pergi, mengikuti troli terakhir, dan tidak sekali pun menyentuh d
 
 Troli terakhir bergerak menuju lift angkut, dan Kovan menandai baris ketujuh di buku muatan dengan tanda tangan yang sama rapi seperti biasa. Tangan yang menandatangani itu tidak gemetar. Yang gemetar adalah keyakinannya bahwa pekerjaan yang ditandatangani tangan itu masih ada artinya.
 
-Mengapa saya harus percaya kepada Anda, hendaknya ia bertanya. Pertanyaan itu tidak sempat keluar, dan malam itu, di kamarnya, ia sadar bahwa tidak bertanya adalah jawaban yang paling jujur, karena tidak ada satu pun di kota ini yang bisa ia percayai sepenuhnya, dan orang tua itu setidaknya tidak pernah berbohong tentang apa yang tidak ia membaca.
+Mengapa saya harus percaya kepada Anda, hendaknya ia bertanya. Pertanyaan itu tidak sempat keluar, dan malam itu, di kamarnya, ia sadar bahwa tidak bertanya adalah jawaban yang paling jujur, karena tidak ada satu pun di kota ini yang bisa ia percayai sepenuhnya, dan orang tua itu setidaknya tidak pernah berbohong tentang apa yang tidak dibacanya.
 
 ---
 
 Lampu minyaknya ia atur ke nyala terkecil, dan di atas meja, di atas kertas buram yang biasa ia pakai untuk draf laporan yang gagal, Shift Guard Kovan menulis dua judul.
 
-Daftar pertama ia beri judul LAPOR. Di bawahnya, dengan huruf tegas ukuran laporan resmi. Degradasi permukaan segmen lorong B, non-struktural, sesuai temuan penilaian triwulan II. Ketidakterbacaan sonde radius lima puluh hasta pada kedalaman tingkat empat, hari lima puluh dua. Anomali troli tingkat empat dua, hari lima puluh tiga, penyebabnya kegagalan poros. Semua yang sudah masuk kertas. Semua yang aman, terverifikasi, milik prosedur — deretan fakta yang selama setahun menjadi tubuhnya, dan yang sejak jam sebelas pagi terasa seperti seragam yang tidak lagi pas.
+Daftar pertama ia beri judul LAPOR. Di bawahnya, dengan huruf tegas ukuran laporan resmi. Degradasi permukaan segmen lorong B, non-struktural, sesuai temuan penilaian triwulan II. Ketidakterbacaan sonde radius lima puluh hasta pada kedalaman tingkat empat, hari lima puluh dua. Anomali troli tingkat empat dua, hari lima puluh tiga, penyebabnya kegagalan poros. Semua yang sudah masuk kertas. Semua yang aman, terverifikasi, milik prosedur — deretan fakta yang sejak penempatannya menjadi tubuhnya, dan yang sejak jam sebelas pagi terasa seperti seragam yang tidak lagi pas.
 
 Daftar kedua ia beri judul tanpa kata-kata. Cukup satu tanda hubung, lalu:
 
 Jam sebelas, hari ketujuh puluh delapan. Ada suara. Bukan bunyi. Arah: dasar timur, bawah. Sasaran: tidak diketahui.
 
-Ia menatap baris itu lama, dan yang dilihatnya bukan tulisannya sendiri melainkan dua wajah dari setahun yang lalu. Wajah para regu di persimpangan utama ketika alatnya gagal membaca furnace boy untuk pertama kali — senyum-senyum kecil di sudut bibir, sopan, mematikan. Alat rusak lagi. Dan wajah pejabat Ossian Vael di ruang tamu meja bundar ketika izin mengujinya dipangkas menjadi izin mengamati — kasihan yang dijahit rapi.
+Ia menatap baris itu lama, dan yang dilihatnya bukan tulisannya sendiri melainkan dua wajah dari beberapa minggu lalu. Wajah para regu di persimpangan utama ketika alatnya gagal membaca furnace boy untuk pertama kali — senyum-senyum kecil di sudut bibir, sopan, mematikan. Alat rusak lagi. Dan wajah pejabat Ossian Vael di ruang tamu meja bundar ketika izin mengujinya dipangkas menjadi izin mengamati — kasihan yang dijahit rapi.
 
 Melapor berarti memilih salah satu dari dua hal itu. Melapor dengan bukti tidak ada — karena apa buktinya? Telinga? — berarti menjadi lelucon resmi kota tambang, Shift Guard yang mendengar suara dari batu mati. Dan melapor dan benar, itu pun tidak lebih baik, karena kalau benar, maka fakta itu menjadi milik Ossian Vael, dan Kovan kembali menjadi alat — alat yang kebetulan sekali menghasilkan.
 
-Ia memikirkan itu semua dengan tenang, sistematis, seperti menyusun jadwal shift. Dan di ujung pemikirannya ada sesuatu yang baru, sesuatu yang tidak pernah ada di kepalanya selama setahun terakhir. Kemarahanku adalah milikku. Fakta ini milikku sampai aku tahu apa artinya.
+Ia memikirkan itu semua dengan tenang, sistematis, seperti menyusun jadwal shift. Dan di ujung pemikirannya ada sesuatu yang baru, sesuatu yang tidak pernah ada di kepalanya sejak penempatan terakhir. Kemarahanku adalah milikku. Fakta ini milikku sampai aku tahu apa artinya.
 
 Ia menambahkan satu baris di daftar kedua — lempeng cadangan, tidak tercatat. Dan satu baris lagi, lebih kecil — uji bocah lorong tujuh, masih tertunda. Masih milikku.
 
 Kertas itu dilipat empat dan disembunyikan di sambungan meja, di bawah lembaran draf laporan kosong yang memang seharusnya ada di sana. Sebelum memadamkan lampu, ia membaca ulang kedua daftar itu dari atas ke bawah, tiga kali, dengan cara orang memeriksa perhitungan yang akan menentukan gaji orang lain.
 
-Daftar pertama aman. Daftar pertama harus tetap aman — itulah sarung tangannya di hadapan Quota Office, dan sarung tangan tidak boleh bocor lebih dulu daripada tangannya. Namun untuk pertama kalinya ia melihat kedua daftar itu bukan sebagai satu dokumen yang terbelah, melainkan sebagai dua alat. Satu untuk dilaporkan kepada orang-orang yang membayar, satu untuk dipakai sendiri. Setahun penuh ia hanya punya satu daftar. Orang yang hanya punya satu daftar tidak sedang menyelidiki apa pun; orang itu sedang dilaporkan.
+Daftar pertama aman. Daftar pertama harus tetap aman — itulah sarung tangannya di hadapan Quota Office, dan sarung tangan tidak boleh bocor lebih dulu daripada tangannya. Namun untuk pertama kalinya ia melihat kedua daftar itu bukan sebagai satu dokumen yang terbelah, melainkan sebagai dua alat. Satu untuk dilaporkan kepada orang-orang yang membayar, satu untuk dipakai sendiri. Sejak tiba ia hanya punya satu daftar. Orang yang hanya punya satu daftar tidak sedang menyelidiki apa pun; orang itu sedang dilaporkan.
 
 Ia memikirkan bocah lorong tujuh. Uji pribadi yang ia janjikan pada dirinya sendiri masih tertunda, digeser oleh karantina, oleh surat perintah, oleh hari-hari yang selalu punya alasan prosedural. Malam ini rencana itu mendapat teman. Bukan lagi hanya kapan ia menguji bocah itu, melainkan apa yang harus diukur lebih dulu supaya uji itu berarti. Kalau ada suara di dasar timur, maka bocah itu, regu itu, seluruh barak the Quiet Vein adalah lingkaran pertama di sekeliling sumbernya — dan lingkaran pertama selalu tahu sesuatu yang tidak diketahui lingkaran kedua.
 
@@ -61,9 +61,9 @@ Lampu dipadamkan. Untuk pertama kalinya sejak ia ditempatkan di Caldrest, Shift 
 
 Subuh hari ketujuh puluh sembilan, ia turun ke garis karantina dengan surat tanda pengamat yang masih berlaku, secara teknis untuk memverifikasi kondisi segmen pasca-penilaian, secara faktual untuk pekerjaan yang tidak ada di surat mana pun.
 
-Blind Door kini terbuka. Itulah kabar yang menyebar di antrean santunan semalam, kabar yang membuat mandor lubang sewaan saling menukar pandang. Segmen lorong B masuk wilayah lisensi normal, dan segmen berlisensi normal tidak boleh dipalang. Di papan Quota Office, dokumen reklasifikasi sudah tergantung di samping denah, lengkap dengan pasal-pasalnya, dan Kovan membacanya dua kali sambil pura-pura memeriksa jadwal shift.
+Blind door kini terbuka. Itulah kabar yang menyebar di antrean santunan semalam, kabar yang membuat para Foreman lubang sewaan saling menukar pandang. Segmen lorong B masuk wilayah lisensi normal, dan segmen berlisensi normal tidak boleh dipalang. Di papan Quota Office, dokumen reklasifikasi sudah tergantung di samping denah, lengkap dengan pasal-pasalnya, dan Kovan membacanya dua kali sambil pura-pura memeriksa jadwal shift.
 
-Pasal akses menyebutkan bahwa segmen berlisensi normal wajib terbuka bagi setiap pemegang lisensi tambang yang sah. Pasal pengawasan menyebutkan bahwa penutupan, pemalangan, atau pembatasan non-dokumen atas segmen demikian adalah pelanggaran lisensi wilayah — dilaporkan ke Quota Office, didenda per hari. Ia menghitung siapa saja yang memegang lisensi sah di Caldrest dan berhenti pada angka yang tidak nyaman. Hampir semua orang yang punya kontrak. Penilai sewaan. Kurir. Siapa pun yang dibayar untuk melihat.
+Pasal akses menyebutkan bahwa segmen berlisensi normal wajib terbuka bagi setiap pemegang lisensi tambang yang sah. Pasal supervisi menyebutkan bahwa penutupan, pemalangan, atau pembatasan non-dokumen atas segmen demikian adalah pelanggaran lisensi wilayah — dilaporkan ke Quota Office, didenda per hari. Ia menghitung siapa saja yang memegang lisensi sah di Caldrest dan berhenti pada angka yang tidak nyaman. Hampir semua orang yang punya kontrak. Assayer sewaan. Kurir. Siapa pun yang dibayar untuk melihat.
 
 Kovan berdiri di ambangnya beberapa lama, tidak masuk — belum — dan melakukan hal yang bisa dilakukan dari sini.
 
@@ -73,7 +73,7 @@ Dari garis karantina ke ambang, enam puluh satu langkah reguler, terukur tiga ka
 
 Angka-angka itu tidak menjelaskan apa pun. Angka-angka itu hanya ada, bulat dan sabar, dan itulah bedanya dengan ketakutan. Ketakutan berteriak, angka menunggu.
 
-Di koridor timur, pada perjalanan kembali, ia berhenti setiap lima puluh langkah dan meletakkan lempeng cadangannya yang tidak tercatat ke dinding — bukan karena percaya alatnya, melainkan karena orang tua itu menyentuh batu setiap lima puluh langkah, dan sampai Kovan menemukan metode yang lebih baik, ia akan meniru metode orang yang empat puluh tahun bertahan. Lempleng itu membaca batu biasa. Batu biasa. Batu biasa.
+Di koridor timur, pada perjalanan kembali, ia berhenti setiap lima puluh langkah dan meletakkan lempeng cadangannya yang tidak tercatat ke dinding — bukan karena percaya alatnya, melainkan karena orang tua itu menyentuh batu setiap lima puluh langkah, dan sampai Kovan menemukan metode yang lebih baik, ia akan meniru metode orang yang empat puluh tahun bertahan. Lempeng itu membaca batu biasa. Batu biasa. Batu biasa.
 
 Seorang Shift Guard reguler dari giliran malam menghampirinya di persimpangan kedua, memeriksa surat tandanya dengan tatapan yang sudah hafal, dan bertanya apa yang dilihatnya di dinding. "Retakan rambut," jawab Kovan, dan kalimat itu bahkan bukan kebohongan penuh. Dinding-dinding tua selalu punya retakan rambut, dan tidak satu pun dari retakan itu yang penting. Reguler itu mencatat sesuatu di log patroli dan berlalu. Kovan menatap punggungnya sampai hilang di tikungan, lalu sadar sedang melakukan hal baru dalam hidupnya. Berbohong bukan karena disuruh, bukan karena takut, melainkan karena ada pekerjaan yang tidak boleh diganggu.
 
@@ -83,4 +83,4 @@ Ia mencatatnya begitu sampai kamar — hari ketujuh puluh sembilan, koridor timu
 
 Ada yang memanggil. Aku belum tahu siapa yang disapa. Aku akan menghitung sampai tahu.
 
-Buku catatan itu masuk ke tempat yang sama dengan daftar kedua, dilipat bersama-sama, ditimbang oleh lembaran-lembaran kosong di atasnya. Ia meniup lampu. Di gelap, untuk pertama kalinya dalam setahun, Shift Guard Kovan tidak merasa dirinya pecah. Ia merasa dirinya sedang dikalibrasi ulang.
+Buku catatan itu masuk ke tempat yang sama dengan daftar kedua, dilipat bersama-sama, ditimbang oleh lembaran-lembaran kosong di atasnya. Ia meniup lampu. Di gelap, untuk pertama kalinya sejak penempatannya di Caldrest, Shift Guard Kovan tidak merasa dirinya pecah. Ia merasa dirinya sedang dikalibrasi ulang.

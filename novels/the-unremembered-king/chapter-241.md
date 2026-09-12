@@ -17,7 +17,7 @@ Ia memeriksa Ashvarok dari ujung rambut sampai ujung kaki, membaca vein-scar di 
 
 ---
 
-Temuan Gella mengubah rencana menjadi protokol resmi — yang oleh ibu Tamma dinamai "Protokol Menjaga Rumah", karena katanya semua metafora medis terlalu rumit padahal intinya sama dengan merawat rumah:
+Temuan Gella mengubah rencana menjadi protokol resmi — yang oleh ibu Tamma dinamai "the Housekeeping Protocol", karena katanya semua metafora medis terlalu rumit padahal intinya sama dengan merawat rumah:
 
 PASAL 1: TIDAK ADA KUNCI. Sudah berlaku; ditulis supaya permanen.
 
@@ -33,7 +33,7 @@ PASAL 5: BICARA PADA RENN SETIAP SORE. Satu cerita minimum. Topik bebas. Yang pe
 
 Pasal lima ternyata jadi yang paling sulit dilakukan Ashvarok.
 
-Bukan karena tidak mau — karena setiap kali ia duduk di tepi tempat tidur dan membuka mulut, semua pidato seribu tahunnya hilang. Ia bisa berdebat dengan Dewan Regional. Ia bisa menenangkan empat ratus keluarga. Namun bicara pada bocah lima belas tahun yang tidur di dalam tubuhmu sendiri?
+Bukan karena tidak mau — karena setiap kali ia duduk di tepi tempat tidur dan membuka mulut, semua pidato seribu tahunnya hilang. Ia bisa berdebat dengan the Regional Council. Ia bisa menenangkan empat ratus keluarga. Namun bicara pada bocah lima belas tahun yang tidur di dalam tubuhmu sendiri?
 
 Malam pertama ia hanya bilang: "Eh. Halo."
 
@@ -43,7 +43,7 @@ Sela yang mengintip dari pintu tertawa sampai tersedak. "Seribu tahun hidup, Kak
 
 "Coba kau saja kalau hebat," jawab Ashvarok tanpa menoleh.
 
-"Mau." Sela masuk, duduk di lantai sebelah tempat tidur, dan mulai bercerita soal hari itu — soal murid baru Sekolah Mendengar yang salah duduk, soal perselisihan dua pedagang soal harga asam-asaman yang diselesaikan Kovan dengan menghitung ulang sampai kedua pedagang malu sendiri, soal apa pun yang terjadi.
+"Mau." Sela masuk, duduk di lantai sebelah tempat tidur, dan mulai bercerita soal hari itu — soal murid baru the Listening School yang salah duduk, soal perselisihan dua pedagang soal harga asam-asaman yang diselesaikan Kovan dengan menghitung ulang sampai kedua pedagang malu sendiri, soal apa pun yang terjadi.
 
 Ashvarok mendengarkan dari kursi. Dan menyadari sesuatu yang membuatnya senyum:
 
@@ -95,7 +95,7 @@ Lalu berkata kepada Sela, suaranya tidak stabil untuk pertama kalinya di depan a
 
 ---
 
-Neraca Protokol Menjaga Rumah — pekan pertama, ditulis Kovan:
+Neraca the Housekeeping Protocol — pekan pertama, ditulis Kovan:
 
 Hari 796. Vein-scar: mundur setengah jari (periksa Gella). Tidur sebelum tengah malam: 11 dari 14 malam (Ashvarok protes di pasal tiga: dicatat, ditolak). Menu ibu Tamma: berjalan sesuai rencana. Cerita sore untuk Renn: total 19 pencerita dari 12 orang.
 
@@ -157,7 +157,7 @@ Ashvarok membaca catatan Kovan itu keesokan paginya, tertawa sampai terbatuk —
 
 ---
 
-Pekan berikutnya, cerita sore mendapat penambahan tak terduga: siswa Sekolah Mendengar angkatan kedua minta giliran.
+Pekan berikutnya, cerita sore mendapat penambahan tak terduga: siswa the Listening School angkatan kedua minta giliran.
 
 "Kami belajar dari nat-nat kecil bahwa bicara pada yang mendengar itu keterampilan," jelas perwakilan mereka (Daven, dengan semangat berlebihan khas anak Spire). "Dan kalau ada satu orang di Karvess yang paling perlu didengarkan... secara teknis dia ada DI SINI. Maka kami minta jadwal resmi."
 

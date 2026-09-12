@@ -3,120 +3,260 @@ title: "Bab 6: Harga Satu Nyala"
 chapter: 6
 ---
 
-Tungku ventilasi the Underfold butuh dua penjaga tiap malam — satu mengisi, satu memantau tekanan. Malam itu penjaga keduanya sakit gigi, dan nama penggantinya yang paling murah di daftar barak adalah Renn, furnace boy yang kembali ke tungkunya sendiri, kata Brannoc yang menandatangani surat gantian itu dengan ekspresi orang yang tidak percaya keberuntungan sekecil ini pernah ada.
+Ruang tungku tingkat lima seharusnya dijaga dua orang. Satu mengisi bahan bakar. Satu lagi mengawasi tekanan pada tiga pipa ventilasi. Malam itu penjaga kedua sakit gigi, dan Brannoc menulis nama Renn pada surat pengganti.
 
-Ruang tungku berada di tingkat kelima, setengah terbuka ke lorong ventilasi — tiga tungku bata bertingkat, pipa-pipa tanah lihat yang menjalar seperti urat ke dalam gelap, dan panas yang bukan panas api biasa. Panas di sini adalah panas bekas, sisa pembakaran seam tua yang dialirkan naik untuk menggerakkan angin tambang. Panas yang sudah dibayar orang lain. Ashvarok hampir bisa mendengar uangnya berdesir di antara bata itu, setiap kali udara hangat melewatinya.
+Ashvarok menerima surat itu tanpa bertanya. Kesempatan tidak perlu dibuat mencurigakan dengan rasa syukur.
 
-Ashvarok membaca tungku itu sepuluh menit sebelum menyentuhnya, karena pola yang ia bawa dalam kepala sudah seribu tahun tidak dipakai, dan tubuh yang membawanya baru lima belas musim. Ia berdiri di depan bata itu seperti orang yang sedang berjabat tangan dengan kenangan — hormat, dan agak takut.
+Tiga tungku bata berdiri sepanjang dinding. Pipa tanah liat membawa udara panas ke lorong-lorong bawah the Underfold. Setiap beberapa saat, salah satu katup bergetar dan jarum tekanan bergerak setengah garis. Penjaga pertama bekerja di ruang bahan bakar di balik dinding. Dari sana hanya terdengar bunyi sekop dan batuk.
 
-Cinder. Untaian pertama Emberweave. Ofensif: panas, ledakan, pedang api. Dahulu ia menyalakannya dari udara yang dibakar, dari batu yang dipanggang, dari lemak prajurit yang menyerahkan diri untuk ditempa menjadi senjata. Polanya masih utuh dalam ingatannya, rapi seperti huruf pada batu nisan — sembilan simpul, dua belas jalur, satu pintu buang.
+Ashvarok memeriksa panel, mencatat tekanan, lalu mengisi tungku paling dekat pintu. Ia melakukan dua putaran sebelum menyentuh celah panas di sisi tungku ketiga. Jika seseorang masuk, catatan kerjanya tetap benar.
 
-Yang tidak utuh adalah bahan bakunya. Tubuh Renn adalah tungku kosong dengan sedikit arang di dasarnya.
+Celah itu mengembuskan panas sisa. Tidak cukup untuk membakar batu, tetapi cukup untuk menggerakkan Cinder paling kecil.
 
-"Maka kita mulai dari yang paling murah," katanya pada tungku, karena berbicara dengan barang membuat jam kerja terasa lebih pendek — kebiasaan lama yang anehnya tetap masuk akal. "Panasmu. Yang sudah dibayar. Aku hanya pinjam bentuknya."
+Pola tersebut masih utuh dalam ingatannya: sembilan simpul, dua belas jalur, satu pintu buang. Dahulu ia dapat membuka Cinder sambil berjalan. Tubuh Renn belum pernah membawa satu pun simpul Emberweave.
 
-Ia meletakkan telapak kanan di atas celah bata tempat panas mengalir keluar, dan mulai merajut.
+Ashvarok mengangkat telapak kanan ke depan celah. Panas menyentuh kulitnya.
 
-Sembilan simpul. Jalur pertama terbuka. Panas mengalir masuk melalui kulit, dan rasanya seperti menelan air mendidih lewat hidung. Jalur kedua. Ketiga. Di jalur keempat, tubuh ini memberontak — resonant vein besar menolak membawa pola yang tidak dikenal zaman ini, mengetat seperti otot yang kram, dan seluruh rajutan itu runtuh menjadi panas liar yang menyambar balik ke tangannya.
+"Kita mulai dari sedikit," katanya.
 
-Ashvarok mundur satu langkah, mengibaskan tangan, dan memeriksa kulitnya di cahaya bara. Tidak luka. Hampir. Vein-scar di pergelangan kiri terasa lebih dingin dari sekitarnya, seperti benang basah di malam salju.
+Tungku tidak membantah.
 
-"Tubuh bodoh," katanya. "Kau yang belum diajar."
+Ia membangun simpul pertama di bawah pangkal ibu jari. Simpul kedua mengikuti denyut nadi. Jalur pertama terbuka, lalu jalur kedua. Panas masuk melalui telapak tanpa membakar kulit. Pada jalur keempat, resonant vein besar di lengan Renn menegang.
 
-Masalahnya bukan tubuh, dan ia tahu. Masalahnya adalah hukum harga. Cinder tidak menciptakan panas. Cinder memindahkan panas dan menandatanganinya dengan bentuk. Panas tungku ini boleh dipinjam. Tetapi pola itu butuh wadah yang membakar sesuatu miliknya sendiri sebagai sumbu — dahulu kehormatan para panglima, kini apa yang tersedia.
+Rasa sakit menjalar sampai bahu. Jalur itu menolak pola asing.
 
-Yang tersedia adalah tubuh lima belas tahun dengan cadangan lemak tipis seperti emas warisan.
+Ashvarok mencoba menahan simpul kelima. Vein tersebut berdenyut sekali, keras. Semua simpul lepas bersamaan. Panas menyambar kembali ke telapak dan membuatnya menarik tangan.
 
-Ia menimbang pilihan itu selama waktu yang dibutuhkan bara untuk turun satu warna. Lalu ia kembali ke celah bata, meletakkan telapak tangannya, dan kali ini membuka pintu buang lebih awal, menyempitkan jalur masuk sampai selebar jarum — dan menawarkan tubuhnya sebagai sumbu untuk nyala sebesar korek api.
+Ia menunggu. Tidak ada langkah dari ruang sebelah.
 
-Jalur-jalur menyala satu per satu. Sembilan simpul terkunci. Pintu buang terbuka.
+Kulit telapaknya merah, tetapi tidak melepuh. Vein-scar di pergelangan kiri terasa dingin. Kegagalan itu tidak menyentuh parut lama. Tubuh ini hanya menolak jalan yang belum dikenalnya.
 
-Di ujung jari tengahnya, di atas udara dingin lorong ventilasi, muncul butiran api sebesar kacang hijau — tenang, tegak, patuh, tidak bergoyang meski angin tambang lewat. Api yang tidak datang dari kayu, tidak datang dari minyak, tidak datang dari seam mana pun. Api yang hanya bisa dibuat oleh satu seni yang sudah mati bersama sejarahnya.
+"Baik," kata Ashvarok. "Kau ingin diajar satu jalur sekali."
 
-Ashvarok menatapnya lama. Seribu tahun, lebih tepatnya. Dan untuk sebentar, di sela gemuruh mesin, ada rasanya sesuatu yang hilang itu kembali duduk di sisi lamanya.
+Ia memeriksa panel tekanan, memutar katup pipa tengah seperempat putaran, kemudian mencatat angka baru. Tangannya berhenti gemetar sebelum ia kembali ke tungku.
 
-Lalu harganya datang menagih, dan datangnya bukan lewat tangan. Dingin menyala di dalam tulang punggung, menjalar naik seperti air surut terbalik. Lapar menyerang dari arah perut sampai pandangan tepinya berkabut. Dan tubuh ini — yang tadi sore makan dua porsi bubur dan tetap lapar — mulai gemetar dengan cara yang bukan takut. Lemak. Sumbu itu membakar lemaknya sendiri, cepat sekali, boros sekali, seperti semua hal yang dilakukan tubuh muda tanpa pengalaman.
+Cinder tidak menciptakan panas. Ia mengambil panas dari udara, batu, atau tubuh pembawanya, lalu memberinya bentuk. Tungku dapat menyediakan sebagian besar panas. Namun pola tetap membutuhkan harga dari wadah yang membawanya. Pada tubuh Renn, cadangan yang tersedia hanya lemak dan tenaga.
 
-Ia menutup pola itu dengan paksa. Butiran api padam tanpa suara, meninggalkan bau samar seperti roti hangus.
+Ashvarok menghitung isi perutnya: dua mangkuk bubur sebelum shift, sepotong roti saat siang, dan tubuh yang masih terlalu kurus untuk ukuran pekerja tambang.
 
-Satu nyala sebesar kacang hijau, tahan waktu satu tarikan napas. Harganya kurang lebih satu hari penuh makanan bocah tambang, ditambah sisa tenaga besok pagi.
+Harga tak dapat dihapus. Hanya dapat dibatasi.
 
-"Neraca yang buruk," kata Ashvarok pada tungku, dan duduk di lantai sebelum lututnya memutuskan sendiri. "Namun neraca yang bisa dihitung."
+Ia menempelkan telapak ke celah lagi. Kali ini ia mempersempit jalur masuk. Pintu buang dibuka sejak awal agar panas tidak tertahan di vein. Simpul pertama terkunci. Lalu kedua dan ketiga.
 
-Ia belum selesai menghitung ketika langkah datang dari lorong utama — dua pasang, cepat, terlalu cepat untuk jam gantian.
+Vein besar menegang pada jalur keempat.
 
-Ashvarok bangkit dengan cara yang paling tidak mencurigakan. Berjalan miring ke panel tekanan, memegang tuas pengatur seperti orang yang sedang sibuk, dan membiarkan gemetarnya tersamar sebagai lelah shift. Detik-detik itu ia pakai untuk hal yang lebih penting daripada keseimbangan — memindai ruangan. Tidak ada abu aneh. Butiran api tidak meninggalkan jejak selain bau roti hangus yang sudah bercampur bau tungku sejati. Pola sembilan simpul tidak meninggalkan cahaya. Emberweave bersih, itulah salah satu alasan seni ini dahulu disebut sempurna, dan zaman ini menyebutnya bidah.
+Ashvarok tidak melawannya. Ia mengalihkan beban melalui jalur yang lebih kecil, memberi tubuh waktu menerima bentuknya. Simpul kelima menyala di dalam benaknya. Keenam. Ketujuh. Keringat turun dari pelipis meski udara lorong dingin.
 
-Dua penambang masuk membawa obor dan keluhan.
+Simpul kedelapan terkunci.
 
-"Tungku lima tekanannya naik terus," kata yang besar. "Kami naik lihat, katanya penjaga malam—"
+Pada simpul kesembilan, lapar menghantam perutnya.
 
-"Penjaga malam di sini." Ashvarok menunjuk panel, memutar tuas seperlunya. "Tekanan turun tiga derajat kalau pipa timur dibuka lebar. Ada endapan di tikungan. Sudah saya atur."
+Pintu buang terbuka.
 
-"Sejak kapan bocah hafal pipa timur?"
+Butiran api muncul di ujung jari tengahnya.
 
-"Sejak malam ini." Ia menatap mereka dengan wajah bocah yang sangat muak bekerja. "Ada lagi? Kalau tidak ada, jangan berdiri di depan angin. Aku masih harus isi dua tungku sebelum pagi."
+Besarnya tidak lebih dari kacang hijau. Nyala itu tegak meski udara ventilasi bergerak. Warnanya kuning di tengah, merah pada tepi. Tidak ada kayu, minyak, atau serpihan seam di bawahnya.
 
-Dua penambang itu saling melihat, menyerahkan nasib tekanan kepada anak yang ditunjuk surat, dan pergi sambil bergumam soal gigi berlubang yang lebih bisa dipercaya daripada penggantian mendadak. Ashvarok mengisi kedua tungku itu sungguhan — pekerjaan yang juga menyelamatkannya. Gerakan rutin menyembunyikan tubuh yang sedang memakan dirinya sendiri dari dalam, satu sendok tenaga demi satu sendok.
+Cinder.
 
-Pelajaran malam itu ia simpan di samping neraca biayanya. Polanya berhasil pada percobaan kedua, tubuh ini butuh latihan agar tidak boros, dan yang paling penting — Cinder tidak meninggalkan jejak bagi mata zaman ini, tetapi lapar ekstrem pasti kelihatan. Kesenjangan antara apa yang bisa dilakukan dan apa yang boleh dilihat harus ditutup dengan makanan.
+Ashvarok menahan satu tarikan napas. Tubuh Renn menggigil. Dingin muncul di sepanjang tulang belakang, berlawanan dengan panas pada jarinya. Pandangan di sisi kanan mulai gelap.
 
-Banyak makanan. Teratur. Dan murah.
+Ia menutup pintu buang.
 
-Tidak ada yang murah di Caldrest. Itu membuat daftar prioritas besok paginya pendek dan tajam.
+Api padam tanpa letupan. Bau tipis seperti roti hangus hilang dalam embusan tungku.
 
----
+Lutut Ashvarok lemas. Ia duduk bersandar pada bata sebelum jatuh. Perutnya mengeras karena lapar. Tenaga yang tadi cukup untuk menyelesaikan shift kini terasa tinggal separuh.
 
-Dia pulang subuh dengan cara berjalan sambil bersandar ke dinding distrik, dan Sela sudah bangun, sudah merebus air, dan sudah menghitung dia dari atas kepala sampai sepatu sebelum dia sempat duduk.
+Satu butiran. Satu tarikan napas. Harganya kira-kira makanan satu hari untuk tubuh seusia Renn, ditambah tenaga hari berikutnya.
 
-"Kau kurus," kata Sela.
+"Mahal," katanya. "Tapi berhasil."
 
-"Aku shift malam."
+Ia meraba telapak, lengan, dan vein-scar. Tidak ada luka baru. Lalu ia memejamkan mata dan mencari sisa gema seperti yang biasa ditinggalkan The Resonance.
 
-"Shift malam membuat orang hitam, bukan kurus." Dia menyodorkan mangkuk bubur, lalu, ketika Ashvarok menerimanya dengan tangan yang gemetar kecil, mangkuk itu tertahan di udara. Mata anak itu turun ke tangannya, naik ke wajahnya, dan berhenti di titik antara alis. "Kau demam?"
+Tidak ada.
 
-"Kelelahan."
+Tungku tetap tungku. Pipa tetap berdengung pada nada yang sama. Cinder telah menyala di ruangan itu tanpa menyentuh gema seam, artefak, atau resonant vein dengan cara yang dapat dibaca zaman ini.
 
-"Renn." Nama itu dipakai sebagai palu. "Dari semalam kau makan dua porsi. Kemarin dua setengah. Pekan lalu satu saja dan tidak habis. Orang yang tiba-tiba dobel makan sambil kurus itu bukan kelelahan. Itu penyakit atau penyelundupan."
+Itulah kesempurnaannya. Itu pula alasan orang yang mengetahui Emberweave akan menyebutnya bidah.
 
-Ashvarok menyendok buburnya dengan tempo orang yang sedang membeli waktu. Anak sebelas tahun ini menghitung porsi makan kakaknya. Tentu saja dia menghitung. Semua angka keluarga ada di kepala bocah ini, termasuk jumlah suapan.
+Langkah sepatu terdengar dari lorong.
 
-"Ada pekerjaan sampingan," kata dia akhirnya. Kebohongan parsial terbaik — bagian yang benar harus cukup berat untuk menutup bagian yang hilang. "Tidak legal, tetapi tidak melawan kontrak. Butuh tenaga dan membuat kurus. Dan bayarannya shardmark."
+Dua orang.
 
-Sela menaruh mangkuknya. Bunyi keramik ke meja kayu di barak pagi hari adalah bunyi yang membuat tetangga kasur pura-pura tidur lebih dalam.
+Ashvarok memaksa diri berdiri. Ia mengambil lembar catatan, berjalan ke panel tekanan, dan memegang tuas pipa timur. Rasa laparnya tidak dapat disembunyikan, tetapi orang lebih mudah mengabaikan pekerja yang tampak sibuk.
 
-"Berapa?"
+Dua penambang masuk membawa obor. Yang bertubuh besar melihat jarum panel, lalu melihat Ashvarok.
 
-"Lima shardmark seminggu, kalau lancar."
+"Tekanan tungku lima naik," katanya. "Kami disuruh periksa penjaga malam."
 
-"Dengan risiko apa? Jawab pakai angka, jangan pakai wajah."
+"Penjaga malam ada di depanmu."
 
-Ashvarok menaikkan pandangan ke adik angkat yang tidak punya darah dengannya. "Risiko satu. Ketahuan, dipecat dari daftar shift, utang ditarik sekaligus. Risiko dua. Badan rusak pelan-pelan, seperti vein-scar, tetapi bukan vein-scar. Angka ketiganya tidak akan aku sebut, karena tidak terjadi."
+"Kau Renn?"
 
-"Tidak terjadi karena kamu hati-hati, atau tidak terjadi karena kamu tidak tahu?" Sela menarik kembali mangkuknya, menuang separuh isinya ke piring kecil, mendorong piring itu ke meja Ashvarok. "Bagi dua. Kalau kamu mau mati demi lima shardmark, minimal kita mati sama-sama kenyang."
+"Nama itu yang tertulis di surat."
 
-Mereka makan berdua dalam sunyi yang bukan sunyi dinding — sunyi dua orang yang sedang menimbang beban yang tidak bisa dibagi.
+Penambang kedua mengangkat obornya. Cahaya menyapu tungku ketiga, lantai, dan tangan Ashvarok. "Ada bau hangus."
 
-"Seminggu," kata Sela akhirnya, menandatangani kesepakatan yang tidak pernah dimintanya. "Coba seminggu. Kalau badanmu turun lagi satu ukuran ikat pinggang, aku bilang Brannoc."
+Ashvarok menunjuk mulut tungku. "Bahan bakar lembap. Tarikan pipa timur juga sempit."
 
-"Itu pemerasan."
+"Kau sudah periksa?"
 
-"Itu keluarga." Dia berdiri, mengambil gelas kaca pecah milik mereka, dan mengisinya dengan air untuk dibagi dua. "Dan minggu depan pendataan ulang. Jangan mati sebelum nama kita rapi di buku mereka. Baru boleh setelah itu."
+"Kalau belum, jarumnya masih naik."
 
-Ashvarok menghabiskan airnya. Di dalam tubuh yang baru saja kehilangan satu hari cadangan, di bawah tulang yang masih berdenging dingin, pola sembilan simpul itu sudah duduk diam seperti pedang yang baru pertama kali diasah dan belum pernah digunakan.
+Penambang besar mendekati panel. "Sejak kapan bocah tungku hafal pipa timur?"
 
-"Satu lagi," kata Sela di ambang pintu, memegang gelas kaca pecahnya dengan dua tangan. "Pekerjaan sampinganmu itu — kalau suatu hari kau tidak pulang subuh, aku tidak akan menunggu di tangga seperti dulu."
+"Sejak orang yang hafal tidak masuk kerja." Ashvarok membuka katup seperempat putaran. Jarum turun satu garis. "Mau menunggu sampai stabil, atau mau kembali sebelum mandor mengira kalian ikut sakit gigi?"
 
-"Kau akan lapor?"
+Keduanya saling pandang. Penambang kedua menurunkan obor.
 
-"Aku akan cari." Matanya tenang, dan tidak ada sedikit pun main-main. "Bedanya menunggu dan cari, kakakku yang dulu mengajari aku. Katanya orang yang menunggu hanya numpang harapan. Orang yang cari bawa mata."
+"Catat kenaikannya," kata yang besar.
 
-Dia keluar ke pagi yang mulai ramai, dan Ashvarok menatap pintu yang tertutup itu lebih lama dari biasanya.
+Ashvarok mengangkat lembar yang sudah terisi. "Sudah."
 
-Tier-nol. Nyala sebesar kacang hijau. Namun itu Cinder asli — seni yang dunia ini sebut mitos, bidah, atau dosa, tergantung siapa yang bicara.
+Mereka pergi. Langkah mereka menjauh ke lorong utama tanpa berhenti di pintu.
 
-*Bicara saja dulu sebentar*, pikirnya. *Jangan lupa cara tidak diam.*
+Ashvarok baru melepaskan tuas setelah bunyi sepatu hilang. Tidak ada bekas api di lantai. Tidak ada gema yang dapat mereka rasakan. Hanya tubuhnya yang menjadi bukti, dan bukti itu akan makin jelas jika ia terus menyusut.
 
-Malam depan, ia pikir sambil menyangga punggung ke tembok, kita hitung ulang resepnya. Tubuh ini butuh makan lebih banyak, tidur lebih banyak, dan panas yang lebih murah. Ada tiga tungku di ruang ventilasi, dan hanya satu yang dijaga benar.
+Ia menyelesaikan shift dengan gerak lambat. Mengangkat sekop dua tangan. Menunggu pusing lewat sebelum membuka pintu tungku. Mencatat tekanan setiap putaran agar tidak ada alasan bagi siapa pun memeriksa ulang ruang itu.
 
-Yang lain pasti punya celah.
+Menjelang subuh, ia telah mendapat tiga kesimpulan. Vein besar Renn perlu dibiasakan pada pola asing. Cinder tier-nol dapat lolos tanpa jejak gema. Dan latihan berikutnya membutuhkan makanan yang belum mampu ia beli.
+
+Di Caldrest, kesimpulan ketiga adalah yang paling berbahaya.
+
+Ashvarok pulang saat barak mulai bangun. Ia memakai dinding lorong sebagai penopang pada dua tikungan terakhir. Ketika membuka pintu, Sela sudah duduk di dekat tungku kecil dengan dua mangkuk bubur.
+
+Matanya bergerak dari wajah Ashvarok ke ikat pinggangnya.
+
+"Kau makin kurus."
+
+Ashvarok duduk. "Aku baru pulang dari shift malam."
+
+"Shift malam membuatmu kotor." Sela mendorong mangkuk kepadanya. "Bukan mengecil."
+
+Ia meraih mangkuk. Jarinya gemetar dan sendok beradu dengan tepi keramik.
+
+Sela menahan mangkuk itu. "Demam?"
+
+"Tidak."
+
+"Tanganmu bilang lain."
+
+"Tanganku lelah."
+
+Sela tidak melepaskan mangkuk. "Kemarin kau makan dua porsi. Sebelumnya dua setengah. Sekarang ikat pinggangmu longgar. Pilih: sakit atau ada pekerjaan yang tidak kau ceritakan."
+
+Ashvarok menatap bubur di antara mereka. Kebohongan penuh akan pecah sebelum mangkuk itu dingin. Kebenaran penuh akan membawa bahaya yang tidak dapat Sela hitung.
+
+"Ada pekerjaan sampingan," katanya.
+
+"Di mana?"
+
+"Di tambang."
+
+"Itu bukan jawaban."
+
+"Itu jawaban yang bisa kuberi. Pekerjaannya tidak tercatat, tetapi tidak melanggar kontrak shift."
+
+Sela akhirnya melepaskan mangkuk. "Berapa bayarannya?"
+
+"Lima shardmark per pekan kalau berhasil."
+
+"Kalau gagal?"
+
+"Tidak dibayar."
+
+"Risikonya?"
+
+Ashvarok makan satu suap. Perutnya sakit ketika menerima makanan. "Kalau ketahuan, aku bisa dikeluarkan dari daftar shift. Utang kita bisa ditarik."
+
+"Itu risiko untuk kita." Sela menarik bangku lebih dekat. "Risiko untuk badanmu?"
+
+"Tenagaku habis lebih cepat. Aku perlu makan lebih banyak."
+
+"Berapa banyak?"
+
+"Belum tahu."
+
+Sela mengetuk meja sekali. "Kau selalu tahu angka."
+
+"Kali ini belum."
+
+"Berarti pekerjaan itu baru."
+
+Ashvarok tidak menjawab. Sela mengambil kesunyian itu sebagai jawaban yang benar.
+
+"Lima shardmark tidak cukup kalau kau jatuh sebelum dibayar," katanya.
+
+"Karena itu aku sedang makan."
+
+"Bubur ini tidak dibeli dengan lelucon."
+
+Ashvarok memandangnya. "Itu bukan lelucon. Itu rencana yang murah."
+
+Sela mendorong mangkuknya sendiri ke tengah meja. "Ambil separuh."
+
+"Jangan."
+
+"Kau yang perlu."
+
+"Kau juga bekerja."
+
+"Aku tidak gemetar memegang sendok."
+
+Ashvarok hendak menolak lagi. Sela sudah menuangkan separuh buburnya ke mangkuk Ashvarok. Gerakannya cepat dan tidak memberi ruang untuk perundingan.
+
+"Seminggu," katanya.
+
+"Apa?"
+
+"Kau boleh menjalankan pekerjaan itu satu minggu. Kalau badanmu makin kurus, aku lapor kepada Brannoc."
+
+"Kau tidak tahu apa yang hendak kau laporkan."
+
+"Aku tahu Renn mengambil pekerjaan gelap, pulang gemetar, dan tidak mau menyebut tempatnya. Brannoc bisa mencari sisanya."
+
+"Itu ancaman."
+
+"Itu batas."
+
+Ashvarok makan lagi. Tubuh Renn menuntut suapan berikutnya sebelum ia selesai menelan.
+
+Sela melihatnya tanpa berkedip. "Setuju?"
+
+"Seminggu."
+
+"Dan kau makan sebelum pergi."
+
+"Kalau ada makanan."
+
+"Kita cari."
+
+Dari lorong barak terdengar orang membicarakan pendataan ulang. Kata Quota Office berpindah dari pintu ke pintu bersama bunyi sepatu pekerja yang berangkat. Sela menoleh sebentar, lalu kembali menatap Ashvarok.
+
+"Minggu ini nama kita harus tetap rapi," katanya. "Jangan beri mereka alasan mengubah kontrak."
+
+"Aku tidak berniat memberi mereka apa pun."
+
+"Mereka biasa mengambil tanpa diberi."
+
+Kalimat itu tidak membutuhkan jawaban. Sela memahami Quota Office lebih baik daripada anak seusianya seharusnya.
+
+Ia berdiri dan mengambil mangkuk kosongnya. Di ambang pintu, ia berhenti.
+
+"Kalau besok kau tidak pulang, aku tidak menunggu."
+
+"Kau akan memanggil Brannoc?"
+
+"Aku akan mencarimu dulu. Lalu memanggil Brannoc kalau perlu."
+
+"Urutannya buruk."
+
+"Pulang tepat waktu, lalu perbaiki urutannya sendiri."
+
+Sela keluar menuju lorong. Ashvarok tetap duduk sampai langkahnya hilang.
+
+Pola sembilan simpul masih terasa di bawah kulit, lemah tetapi utuh. Emberweave yang kosong kini memegang satu nyala. Tier-nol, sebesar kacang hijau, bertahan satu tarikan napas. Kecil, mahal, dan cukup nyata untuk mengubah perhitungannya.
+
+Ia mengencangkan ikat pinggang satu lubang. Jika ingin mencoba lagi, ia membutuhkan panas, waktu, dan makanan. Jika ingin melindungi Sela, ia membutuhkan shardmark sebelum Quota Office menulis syarat baru atas nama mereka.
+
+Di luar pintu, petugas barak mulai memanggil nomor kontrak untuk pendataan ulang.

@@ -3,220 +3,244 @@ title: "Bab 247: Nat Asuhan"
 chapter: 247
 ---
 
-Gerakan nat asuhan dimulai dari dua anak berumur tujuh tahun — dan seperti semua hal besar di Karvess, tidak ada yang menyadari ia besar sampai sudah terlambat dikatakan kecil.
+Sepulang dari kelas, Tami dan Tomi selalu melewati warung asam-asaman milik orang tua mereka. Hari itu hujan baru reda. Air menetes dari ujung kain tenda, mengisi parit pasar dengan bunyi kecil yang teratur. Di antara dua tiang penyangga, sebuah nat setinggi lutut berdiri dalam lingkaran batu pembatas.
 
-Kembar Tami dan Tomi, anak pedagang asam-asaman, mendapat tugas nat asuhan: nat kecil di dekat warung orang mereka, yang oleh jadwal resmi adalah "nat milik blok pasar timur".
+Kartu inventaris yang digantungkan petugas kota menyebutnya NAT BLOK PASAR TIMUR—17. Tami menganggap itu nama yang buruk. Tomi menganggap semua tulisan petugas kota buruk karena terlalu banyak garis lurus.
 
-Namun kembar tujuh tahun tidak paham konsep "nat milik blok". Yang mereka paham: nat itu teman. Maka setiap pulang sekolah, keduanya mampir — cerita hari sekolah, diberi teh dingin (dari termos ayahnya, dengan izin), dan dilapori soal hal-hal penting dunia tujuh tahun:
+Mereka menaruh tas sekolah di bawah meja warung. Tami mengeluarkan cangkir timah berisi teh dingin, lalu meletakkannya di depan nat.
 
-"Nat, hari ini aku dapat nilai bagus gambar."
+"Jangan diminum," katanya. "Batu tidak punya mulut. Ini supaya kamu tidak sendirian waktu kami minum."
 
-"Nat, Tomi ketularan batuk."
+Tomi duduk bersila di tanah yang masih lembap. Batuknya tersangkut dua kali sebelum ia berhasil bicara. "Hari ini gambar Tami dipuji guru. Gambarku dibilang terlalu banyak asap. Padahal kalau tungkunya besar, asapnya memang banyak."
 
-"Nat, kata ibu besok hujan. Tolong jangan biarkan air masuk retakanmu."
+Nat menjawab dengan dua ketuk hangat dari dalam tubuhnya.
 
----
+Tami menempelkan telapak ke permukaan batu. Irama pertama selalu datang cepat untuknya: dua ketuk, jeda, satu ketuk panjang. Untuk Tomi, nat memberi tiga ketuk pendek yang ujungnya bergetar seperti tawa tertahan.
 
-Hal yang membuat gerakan ini meledak menjadi nasional adalah laporan nat lorong barak utara — yang selama setahun menjadi saksi semua peristiwa besar Karvess.
+"Kamu membedakan kami," kata Tami.
 
-Ia memberi kesaksian resmi (lewat irama yang diterjemahkan Sela) tentang apa artinya didatangi anak-anak setiap hari, dan kalimat penutupnya dikutip seluruh dunia:
+Tomi menyeka hidung dengan lengan. "Ibu juga bisa. Kadang."
 
-"SEBELUM ADA ANAK-ANAK, AKU ADALAH BATU DI LORONG.
-SESUDAH ANAK-ANAK, AKU ADALAH TEMPAT PULANG.
-ANAK-ANAK TIDAK PERLU DIAJARI MENYAPA. MEREKA YANG HARUS KITA JAGA JANGAN LUPA."
+"Kalau kita berdiri diam, Ibu memanggil kita 'yang dekat pintu'."
 
----
+"Itu tetap benar."
 
-Dalam sebulan, gerakan nat asuhan menyebar ke seluruh Karvess — dan berkembang menjadi sistem yang oleh Sela dicatat sebagai "protokol pertama yang lahir dari anak-anak":
+Tami membuka kartu tugas dari sekolah. Setiap murid angkatan tiga diminta memilih satu nat di jalur pulang dan mencatat kunjungan selama tujuh hari: kondisi permukaan, perubahan irama, kebutuhan perawatan. Sela membuat kolom-kolom rapi. Anak-anak mengabaikan hampir semuanya dan menulis hal lain.
 
-Setiap anak sekolah memilih satu nat asuhan (biasanya di jalur pulang). Setiap nat asuhan punya kartu perawatan: nama pengasuh, jadwal kunjung, catatan khusus ("suka teh dingin", "takut digeser", "senang diceritakan ikan").
+Pada kolom kondisi hari pertama, Tami menulis: SUKA DICERITAKAN SEKOLAH.
 
-Dan yang tak terduga: para pendengar alami mulai melapor bahwa nat-nat asuhan... tumbuh lebih cepat resonansinya. Batu yang tiap hari disapa anak tujuh tahun mengembangkan irama yang lebih hangat daripada nat serupa yang dibiarkan.
+Tomi menambahkan: TIDAK SUKA KEHUJANAN SENDIRIAN.
 
-Sareth menjelaskannya di rapat dengan cara yang membuat semua orang diam:
+"Itu belum tentu," kata Tami.
 
-"Resonansi itu seperti otot. Dan seperti hati. Semakin sering dipakai untuk hal yang disayang... semakin besar."
+"Kalau kamu batu, kamu mau kehujanan sendirian?"
 
----
+Tami memikirkan pertanyaan itu dengan serius. Lalu ia mengambil pecahan genting dari samping warung dan menyandarkannya pada sisi nat yang retak, membuat atap kecil yang buruk tetapi cukup menahan tetes dari tenda.
 
-Ashvarok dan Renn — yang secara resmi adalah "konsultan nat asuhan" (gelar yang mereka minta sendiri) — melakukan turunan inspeksi ke dua puluh nat asuhan pertama.
+Irama di bawah telapak mereka berubah. Dua pola datang berurutan—pola Tami, lalu pola Tomi—tanpa saling menimpa.
 
-Temuan mereka berdua dicatat Kovan, dan satu di antaranya membuat rapat hening:
+Kovan kebetulan melintas membawa kotak ukur. Ia berhenti begitu mendengarnya.
 
-Nat asuhan milik kembar Tami-Tomi ternyata sudah bisa MENGENALI keduanya secara terpisah — irama berbeda untuk Tami dan untuk Tomi, padahal kembar itu nyaris tak terbedakan bahkan oleh ibunya.
+"Ulangi apa yang kalian lakukan."
 
-"Batu itu membedakan dua anak kembar," kata Kovan pelan. "Sedangkan manusia tidak."
+Tami memeluk cangkir tehnya. "Tidak bisa. Kami cuma datang."
 
-Renn menjawab lewat mulut Ashvarok — kesepakatan tanpa kata:
+"Sebelum irama itu, kalian melakukan sesuatu."
 
-"Itu karena batu mendengarkan lebih lama dari manusia. Manusia berhenti mendengar begitu merasa sudah mengenali." Jeda. "Batu tidak pernah merasa selesai mengenali siapa pun."
+"Aku membuat atap," jawab Tami. "Tomi mengeluh soal gambar."
 
----
+"Aku menjelaskan gambar," kata Tomi. "Mengeluh itu kalau tidak ada alasan."
 
-Gerakan nat asuhan kemudian mendapat tambahan tak terduga: nat-nat tua ikut mendaftar.
+Kovan berlutut dan menempelkan lempeng ukurnya. Nat diam terhadap alat itu. Saat Tami menyebut nilainya sekali lagi, dua ketuk dan satu ketuk panjang muncul. Ketika Tomi membela asap dalam gambarnya, tiga ketuk pendek menyusul.
 
-Bukan sebagai asuhan — sebagai PENDAMPING. Nat-nat tua seperti Yang Dulu Sunyi menawarkan diri menjadi "kakak nat" bagi nat-nat kecil asuhan anak-anak: mengajari irama, menjawab pertanyaan resonansi yang belum bisa dijawab batu muda, dan melapor kalau ada retakan yang butuh diperiksa.
+Kovan menatap si kembar bergantian. Bahkan ia perlu memeriksa pita merah di pergelangan Tami sebelum yakin siapa yang sedang bicara.
 
-Jaringan nat Karvess — yang setahun silam hanya peta lokasi batu — kini adalah keluarga tiga generasi: nat purba, nat pendamping, dan nat asuhan.
+"Batu ini mengenali kalian secara terpisah," katanya.
 
-Sela menulis neraca jaringan itu dan memberinya judul yang dikutip Spire:
+"Ya," jawab keduanya.
 
-"Pohon Keluarga Batu: 1 nat pendamping tertua (Yang Dulu Sunyi), 14 nat pendamping, 73 nat asuhan, dan bertambah setiap pekan."
+"Kalian tidak terkejut?"
 
-Dan satu baris dari Renn di margin:
-
-"Dulu aku pikir aku satu-satunya manusia yang didengar batu. Ternyata semua anak di Karvess sekarang punya batu yang mendengarnya. Itu warisan terbesar proyek ini — bukan protokolnya. Kebiasaannya."
+Tomi mengangkat cangkir ke bibir. "Kak Kovan saja yang terlambat tahu."
 
 ---
 
-Dan satu adegan penutup — dari nat asuhan kembar Tami-Tomi, dicatat Kovan karena terlalu penting untuk tidak:
+Keesokan harinya, Kovan membawa catatan itu ke ruang kelas kosong. Sareth membaca deret iramanya, lalu meminta Tami dan Tomi datang bersama nat mereka—permintaan yang segera ditolak si kembar karena nat tidak suka digeser.
 
-Suatu sore, Tomi sakit demam dan Tami datang sendirian. Ia duduk di depan nat, tidak bercerita apa pun — hanya menempelkan dahinya ke batu, seperti orang yang butuh didengar tanpa bicara.
+"Kalau guru mau bertemu, guru yang datang," kata Tami.
 
-Nat itu menjawab dengan irama yang belum pernah ada di katalog resonansi mana pun.
+Maka rapat berpindah ke lorong pasar. Sareth, Sela, Kovan, dan Renn-Ashvarok berjongkok di antara peti akar nat kering dan gentong asam. Pedagang terus berteriak di sekeliling mereka. Bau cuka menusuk hidung; roda troli menggerus batu jalan. Nat kecil itu tetap mampu memisahkan langkah Tami dari langkah Tomi sebelum kedua anak terlihat di tikungan.
 
-Kovan butuh dua jam menerjemahkannya — dan ketika selesai, ia menulis hasilnya di neraca dengan tangan yang menurut Sela "tidak stabil":
+"Bukan kebetulan," kata Kovan. "Lima kali uji, lima jawaban berbeda."
 
-Iramanya artinya: "TOMI AKAN SEMBUH. DAN MALAM INI AKU MENJAGANYA DARI SINI. BILANG KE DIA: TEMANNYA YANG DI LORONG PASAR TIDAK PERGI KE MANA-MANA."
+Sareth meraba retakan yang kini terlindung genting. "Berapa lama kalian mengunjunginya?"
 
-Tomi sembuh tiga hari kemudian.
+"Sejak sebelum tugas sekolah," jawab Tami. "Tujuh belas hari."
 
-Dan kembar itu sejak saatnya tidak pernah lagi menyebut nat mereka "nat asuhan".
+"Delapan belas," koreksi Tomi. "Hari pertama Tami tidak bicara karena marah padaku, tetapi dia tetap duduk di sini. Duduk termasuk berkunjung."
 
-Mereka menyebutnya "teman".
+"Kenapa kalian datang sebelum ada tugas?" tanya Renn.
 
----
+Tomi memandang nat, seakan jawaban Renn terlalu mudah. "Karena kami lewat sini."
 
-Neraca resmi gerakan nat asuhan — pekan kedua, ditulis Kovan dan ditandatangani dua penghuni:
+"Banyak orang lewat sini."
 
-Nat asuhan: 89 dan bertambah. Nat pendamping: 16. Kartu perawatan aktif: 89. Anak pengasuh: 112 (beberapa nat diurus lebih dari satu anak; tidak ada yang keberatan).
+"Mereka lewat," kata Tami. "Kami mampir."
 
-Status jaringan resonansi Karvess: SEHAT.
+Ashvarok terdiam di dalam tubuh Renn. Perbedaan satu kata itu menekan lebih kuat daripada laporan Kovan. Seribu tahun lalu, jalan dibuat untuk mencapai gerbang, tambang, atau medan perang. Di Caldrest, dua anak baru saja memberi jalan fungsi lain: tempat berhenti untuk seseorang yang tak bisa mengikuti mereka pulang.
 
-Status hati penduduknya: menurut ibu Tamma, "juga sehat, tetapi itu bukan bidangku; bidangku sup".
+Sareth meminta keduanya menjauh beberapa langkah. Ia mengetuk pola salam resmi the Listening School. Nat menjawab sopan, datar, lalu kembali hangat ketika Tomi batuk.
 
----
+"Resonansi bukan hanya kemampuan menjawab," kata Sareth. "Ia tumbuh dari kebiasaan mengenali. Seperti otot, kalau Kovan butuh istilah untuk laporannya. Seperti hati, kalau ia mau menulis yang sebenarnya."
 
-Dan satu hal terakhir yang membuat gerakan ini lengkap — usulan dari anak-anak sendiri, disampaikan lewat kembar Tami-Tomi sebagai juru bicara tidak resmi:
+Kovan tidak membantah. Ia mencoret judul CATATAN ANOMALI dan menggantinya dengan CATATAN HUBUNGAN.
 
-"Kalau nat kami punya kartu perawatan... boleh nat kami juga punya KARTU IDENTITAS? Dengan nama resmi? Soalnya 'nat milik blok pasar timur' itu bukan nama, itu alamat."
+Sela mengangkat kartu tugas si kembar. "Kalau ini dijadikan kegiatan tetap, kita perlu jadwal perawatan. Anak-anak tidak boleh menangani retak besar sendiri. Setiap nat juga perlu pendamping tua untuk melapor bila ada bahaya."
 
-Usulan itu diteruskan ke rapat protokol — dan disetujui tanpa debat.
+"Dan nama," kata Tami.
 
-Maka dibuatlah REGISTRI NAT KECIL KARVESS: setiap nat asuhan berhak atas satu nama resmi (dipilih pengasuhnya, dikonfirmasi batunya), satu entri arsip, dan satu baris di peta dinding aula.
+Sela menoleh. "Nomor registrinya sudah ada."
 
-Nat pertama yang terdaftar resmi: milik kembar Tami-Tomi. Nama pilihannya — dan oleh Sela dicatat sebagai "paling tepat dalam sejarah penamaan":
+"Itu alamat." Tami menunjuk kartu inventaris. "Kalau aku memanggilmu 'anak di meja arsip', kamu tetap datang, tetapi itu bukan namamu."
 
-"Teman."
+Renn batuk untuk menutupi tawanya. Sela menyipitkan mata kepadanya, kemudian mencabut kartu inventaris dari tali.
 
-Bukan nama puitis. Bukan nama megah. Cukup satu kata yang benar.
+"Baik. Kalian mengusulkan tiap nat memilih nama?"
 
----
+"Anak yang memilih," kata Tomi.
 
-Dan di bawah entri pertama registri itu, ibu Tamma menulis catatan pinggir yang dikutip seluruh Karvess:
+Nat mengeluarkan bunyi rendah yang membuat cangkir timah bergetar.
 
-"Registri ini dimulai dengan satu nama: Teman.
+"Anak mengusulkan," Tami memperbaiki. "Nat bilang iya atau tidak."
 
-Semoga seratus tahun lagi, saat daftarnya sudah penuh dan halamannya bertambah banyak... orang-orang masih tahu bahwa semua nama di sini bermula dari dua anak tujuh tahun yang menganggap batu di depan warung ayahnya layak didatangi setiap hari.
+"Lebih baik," kata Ashvarok melalui mulut Renn. "Nama yang diberikan tanpa jawaban hanyalah cap. Aku pernah membuat terlalu banyak cap."
 
-Karena memang layak."
+Sela membalik kartu itu. "Apa usulan kalian?"
 
----
+Tami dan Tomi tidak berunding. "Teman."
 
-Sepekan kemudian, gerakan nat asuhan mendapat ujian pertamanya — dan lulus dengan nilai yang tidak ada skala ukurnya.
+Nat menjawab dengan dua pola yang kini dikenal semua orang di sana, satu untuk setiap anak, disusul satu getaran panjang yang merambat ke gentong asam.
 
-Hujan besar selama tiga hari. Banjir kecil di distrik pasar. Dan nat asuhan kembar Tami-Tomi ("Teman") terendam setengah badan air keruh.
+Sela menulis nama itu di atas nomor lama.
 
-Kembar itu panik. Berlari ke barak sambil menangis, minta tolong siapa saja: "TEMAN KEBANJIRAN!"
+Sebelum pekan berakhir, lahirlah the Karvess Small-Joint Registry. Kartu perawatannya tidak hanya memuat retak, lumut, atau paparan air, tetapi hal-hal yang dulu dianggap tak layak masuk arsip: suka teh dingin, takut digeser, senang mendengar cerita ikan, tenang bila ada orang duduk tanpa bicara. the Once-Silent menawarkan diri sebagai pendamping pertama. Empat belas nat tua menyusul, memeriksa batu-batu muda lewat jaringan resonansi setiap malam.
 
-Yang datang bukan hanya satu-dua orang.
-
-Dalam satu jam: Brannoc dengan regu tambang (ahli saluran air), Gella dengan tim medis kecil (untuk memeriksa apakah "batu bisa kesehatannya terganggu" — pertanyaan yang setahun silam akan ditertawakan), dua belas murid Sekolah Mendengar, dan ibu Tamma membawa sup untuk semua pekerja.
-
-Nat "Teman" diselamatkan dalam empat jam: air dialihkan, batu dibersihkan lumpur, retakan kecil yang baru muncul diperiksa Renn-Ashvarok langsung.
-
-Dan ketika semuanya selesai — nat itu mengeluarkan irama panjang yang tidak butuh penerjemah:
-
-Semua orang yang bekerja malam itu merasakannya sampai tulang.
-
-Kovan tetap mencoba menerjemahkannya resmi untuk arsip. Hasilnya hanya tiga kata, dan ia menulisnya sambil tersenyum:
-
-"TERIMA KASIH, KELUARGA."
+Anak-anak tidak menyebut kegiatan itu gerakan. Mereka menyebutnya mampir sepulang sekolah.
 
 ---
 
-Dan malam itu juga, Sela membuka halaman baru arsip dengan judul yang oleh Ashvarok disetujui tanpa revisi:
+Ujian pertama datang tiga pekan kemudian, bersama hujan yang tidak berhenti selama dua malam.
 
-"PELAJARAN BANJIR: yang setahun silam kita sebut 'bencana kecil di distrik pasar' — hari ini disebut 'hari ketika seluruh kota datang untuk satu batu'.
+Parit pasar meluap menjelang petang. Air keruh merayap melewati kaki meja warung, membawa kulit akar dan pecahan arang. Ayah Tami-Tomi menutup tenda lebih awal. Saat kedua anak diperintah masuk rumah, Tami melihat genting kecil di atas Teman hanyut.
 
-Itu bukan perubahan protokol.
+Air sudah mencapai separuh tubuh nat.
 
-Itu perubahan jiwa."
+"Kita angkat," kata Tomi.
+
+Mereka mencoba. Batu itu tidak bergerak. Lumpur mengisap kaki mereka sampai mata kaki, dan arus dari gang barat terus naik.
+
+"Jangan paksa!" Tami menarik lengan saudaranya. Di sisi nat, retakan lama memanjang setipis rambut.
+
+Teman memberi tiga ketuk pendek untuk Tomi, tetapi ketuk terakhir melemah.
+
+Si kembar berlari ke barak. Mereka masuk ke aula dalam keadaan kuyup, meninggalkan jejak lumpur di antara murid-murid yang sedang makan.
+
+"Teman kebanjiran!" teriak Tomi.
+
+Brannoc berdiri lebih dulu. "Setinggi apa?"
+
+Tami menunjukkan pinggangnya. "Tadi segini. Air masih naik. Retaknya bertambah."
+
+"Regu tambang, ambil sekop dan papan saluran. Jangan angkat batunya sebelum tanah diperiksa." Brannoc menoleh kepada Gella. "Batu bisa sakit karena air?"
+
+"Aku dokter manusia."
+
+"Itu bukan jawaban."
+
+Gella meraih tasnya. "Itu jawaban yang berarti aku ikut dan mencari tahu."
+
+Renn-Ashvarok sudah mengambil mantel. Sela menahan mereka di pintu.
+
+"Kalau retaknya merambat ke inti, jangan gunakan Forge untuk menutupnya," katanya. "Nat muda bisa menyimpan pola panas sebagai luka."
+
+"Kami tahu," jawab Ashvarok.
+
+"Kamu tahu banyak hal dan tetap perlu diingatkan."
+
+"Itu juga benar," kata Renn, mengambil alih suara. "Kami dengarkan batunya dulu."
+
+Ibu Tamma tiba membawa panci besar. "Siapa pun yang mau menyelamatkan batu dalam hujan tetap harus makan. Anak-anak, tunjukkan jalan."
+
+Di pasar, air sudah menyentuh tulisan nama pada kartu Teman. Brannoc membagi orang tanpa pidato. Enam penambang membongkar sumbatan parit; murid-murid the Listening School membentuk rantai ember; dua pedagang mengorbankan papan lapak untuk membuat saluran baru. Tami dan Tomi diminta berdiri di tempat kering. Mereka menolak sampai Gella menggambar garis kapur dan mengancam akan mengikat keduanya ke tiang bila melewatinya.
+
+"Bicara kepadanya dari sana," kata Renn. Ia berlutut dalam air, kedua tangan pada batu. "Suara kalian lebih berguna daripada tangan kecil kalian sekarang."
+
+Tami menggigil, entah karena dingin atau marah. "Teman, Brannoc sedang membuka parit. Kak Renn memeriksa retakmu. Kami tidak pergi."
+
+Tiga ketuk lemah menjawab—pola Tomi, bukan Tami.
+
+Tomi maju sampai ujung sepatunya menyentuh garis kapur. "Aku di sini. Tami juga. Kalau kamu salah memanggil karena pusing, tidak apa-apa. Ibu juga begitu kalau baru bangun."
+
+Kali ini dua pola datang berurutan. Lemah, tetapi terpisah.
+
+Ashvarok meraba tepi retak dari dalam kesadaran Renn. Tidak ada panas liar, tidak ada pecah pada inti. Masalahnya tekanan air dari bawah. Jika ditambal, air akan mencari jalur lain dan membelah batu.
+
+"Jangan tutup retaknya," katanya kepada Brannoc. "Kita harus turunkan air dulu."
+
+"Saluran lama mampat sampai tikungan," jawab Brannoc. "Perlu empat jam kalau kita gali lurus."
+
+"Dua jam kalau pakai lorong buangan warung," kata ayah si kembar. "Dinding belakang boleh dibongkar."
+
+Ia mengatakannya sambil memandang rak dagangan yang akan terendam bila dinding dibuka. Brannoc memastikan ia memahami akibatnya.
+
+"Asamku bisa dibuat lagi," jawab pedagang itu. "Teman mereka tidak. Bongkar."
+
+Papan belakang warung dilepas. Air menemukan jalan baru, menerjang lorong buangan dan turun ke parit bawah. Bau cuka bercampur lumpur memenuhi pasar. Ketinggian air susut selebar satu jari, lalu dua. Menjelang tengah malam, nama Teman muncul kembali di atas permukaan.
+
+Renn membersihkan retaknya dengan kain, membiarkan rongga itu bernapas. Gella memeriksa perubahan warna batu seperti memeriksa lebam. Ketika yakin tekanan telah hilang, mereka mengikat penyangga tipis dari cinder-glass tanpa panas.
+
+"Sembuh?" tanya Tami.
+
+"Belum," kata Gella. "Selamat dulu. Sembuh perlu waktu. Kalian jaga tetap kering tujuh hari dan laporkan kalau iramanya berubah."
+
+"Jadi batu bisa sakit."
+
+Gella menutup tasnya. "Sekarang aku punya jawaban yang lebih baik: bisa."
+
+Teman bergetar.
+
+Bunyi itu tidak keras. Ia turun melalui genangan, merambat ke papan warung, sekop, dan telapak orang-orang yang berdiri kelelahan. the Once-Silent menjawab dari kejauhan. Satu demi satu nat pasar menyambung irama, sampai seluruh distrik timur berdengung rendah.
+
+Kovan datang terlambat dengan lempeng ukur dan langsung berlutut. Setelah beberapa saat, ia meletakkan alatnya.
+
+"Apa katanya?" tanya Tomi.
+
+"Alatku memberi tujuh kemungkinan."
+
+"Yang benar yang mana?"
+
+Kovan memandang penambang berlumpur, murid dengan ember penyok, pedagang yang dinding warungnya terbuka, dan dua anak yang masih berdiri di belakang garis kapur.
+
+"Keluarga," jawabnya. "Ia bilang terima kasih, keluarga."
 
 ---
 
-Dan satu penutup kecil dari kembar Tami-Tomi, disampaikan kepada Ashvarok-Renn langsung saat mereka pulang lelah dan basah kuyup:
+Pagi berikutnya, Sela membuka halaman baru registri. Ia menambahkan aturan yang tidak ada sehari sebelumnya: setiap nat asuhan wajib punya jalur evakuasi air, satu nat pendamping, dan dua pengasuh cadangan bila anak utamanya sakit. Laporan banjir Teman dikirim ke semua blok sebagai petunjuk perawatan, bukan kisah kepahlawanan.
 
-Tomi: "Kak Raja. Kak Renn. Kalian dua orang dalam satu badan, kan?"
+Tami dan Tomi datang ke dapur untuk menyerahkan kartu yang basah di sudut. Renn-Ashvarok sedang menghabiskan mangkuk kedua setelah bekerja semalaman.
 
-Renn (lewat Ashvarok): "Iya."
+Tomi memperhatikan mereka dengan curiga. "Kak Raja dan Kak Renn dua orang dalam satu badan, kan?"
 
-Tami: "Kalau begitu pas kalian makan sup... itu artinya makan berdua tetapi kelihatan satu orang makan banyak."
+"Iya," jawab Renn.
 
-Sunyi.
+"Kalau makan, kalian berdua kenyang?"
 
-Ashvarok: "...secara teknis ya."
+Ashvarok mengambil alih. "Secara teknis, ya."
 
-Kembar itu bersorak seperti baru menemukan hukum alam: "BERARTI KALIAN BOLEH AMBIL TAMBAHAN DUA KALI!"
+Tami menoleh kepada ibu Tamma. "Berarti mereka boleh tambah dua kali. Bukan rakus. Mengurus dua orang."
 
-Dan itulah cerita kenapa malam itu dapur ibu Tamma mengeluarkan aturan baru:
+Ibu Tamma menunjuk sendok kayu kepada si kembar. "Penghuni ganda mendapat tambahan sekali. Sekali saja. Kembar tidak boleh ikut menghitung."
 
-"Penghuni ganda dapat tambahan sekali. Sekali saja. Kembar tidak boleh ikut-ikutan menghitung."
+Saat semua tertawa, Sela membalik kartu Teman. Tulisan lama NAT BLOK PASAR TIMUR—17 masih tampak di balik noda air. Ia mencoretnya satu garis, cukup tipis agar sejarahnya tetap terbaca, lalu menulis nama yang dipilih dua anak dan dijawab satu batu.
 
----
-
-Dan satu entri penutup dari Renn di jurnalnya — yang oleh Ashvarok dibaca dan langsung disetujui tanpa revisi:
-
-"Delapan bulan silam aku pikir keajaiban itu hal besar: segel seribu tahun terbuka, empat ratus jiwa naik dari kedalaman, dunia mengubah hukumnya untuk resonansi.
-
-Tahun ini aku belajar keajaiban sebenarnya lebih kecil:
-
-Dua anak kembar memutuskan bahwa batu di depan warung ayahnya layak didengar setiap hari.
-
-Dan karena itu — bukan karena raja, bukan karena protokol — Karvess sekarang punya seratus batu bernama.
-
-Keajaiban tidak turun dari gunung. Keajaiban jalan kaki dari rumah anak-anak, lewat lorong pasar, membawa termos teh dingin."
-
----
-
-Dan di bawahnya, Ashvarok menambahkan satu paragraf balasan — pertama kalinya ia menulis di jurnal Renn tanpa diminta:
-
-"Setuju dengan semuanya, kecuali satu.
-
-Keajaiban tidak berjalan sendiri. Ia dibawa dua anak kembar yang diajari orang tuanya untuk peduli; didorong nat tua yang memutuskan mendengarkan; ditertawakan dan disambut kota yang setahun silam memilih belajar.
-
-Kau benar keajaiban jalan kaki.
-
-Namun ingat: kakinya itu kita semua."
-
----
-
-Dan Renn membalas sekali lagi — singkat, khas bocah tambang:
-
-"Oke. Kakinya kita semua.
-
-Namun tetap aku yang mulai."
-
----
-
-Dan Ashvarok menutup perdebatan jurnal itu dengan kalimat yang oleh Sela (pembaca tanpa izin yang sudah resmi diizinkan) disalin ke arsip utama:
-
-"Benar. Kamu yang mulai.
-
-Dan aku — seribu tahun menunggu seseorang memulai — bersyukur seumur hidup bahwa yang memulai adalah kamu."
-
----
-
-Dan di halaman paling akhir jurnal, satu baris dari ibu Tamma — yang entah bagaimana selalu tahu di mana harus menulis:
-
-"Jurnal ini sudah selesai. Sekarang kalian berdua cuci tangan dan makan malam. Sejarah bisa menunggu, sup tidak."
+TEMAN—selamat dari banjir pertama. Jalur pulangnya kini dijaga seluruh kota.

@@ -11,7 +11,7 @@ Ashvarok menunggu.
 
 "Tubuh ini... tubuh Renn. Selama delapan bulan kamu memakainya untuk the Walking Key. Setiap kali kunci dipakai, vein-scar menyebar — aku lihat sendiri di lenganmu minggu ini, sampai bahu." Ia menutup kotak terakhir dan menghadapnya. "Aku sudah membaca semua arsip tentang pemulangan resonansi. Aku tahu nat bisa menyimpan jiwa. Aku tahu api bisa bicara. Namun tidak ada satu pun dokumen yang menjawab pertanyaanku."
 
-Ia menarik napas.
+Ia menahan napas sejenak.
 
 "Renn yang asli — jiwanya — dia ke mana? Apakah dia masih ada DI DALAM sana? Atau..." suaranya turun. "...apakah dia sudah hilang karena kamu datang?"
 
@@ -41,7 +41,7 @@ Mereka membawa pertanyaan itu ke nat aula keesokan paginya — dan untuk pertama
 
 Pertanyaannya disampaikan lewat the Walking Key: apakah nat-nat Karvess bisa merasakan jejak jiwa yang tidur di dalam tubuh manusia?
 
-Jawaban datang dari arah yang tidak diduga — bukan dari the Patient House, melainkan dari nat lorong barak utara. Yang Dulu Sunyi. Nat tua yang selama setahun ini disapa tiap malam oleh anak-anak barak.
+Jawaban datang dari arah yang tidak diduga — bukan dari the Patient House, melainkan dari nat lorong barak utara. the Once-Silent. Nat tua yang selama setahun ini disapa tiap malam oleh anak-anak barak.
 
 Iramanya pendek, dan oleh Kovan diterjemahkan dengan mata membesar:
 
@@ -95,13 +95,13 @@ Ketika Sela bertanya kenapa, jawabannya sederhana:
 
 ---
 
-Neraca penutup bab ditulis malam itu — dan oleh Sela dicatat sebagai entri yang membuatnya menangis di arsip:
+Neraca perjalanan ditulis malam itu — dan oleh Sela dicatat sebagai entri yang membuatnya menangis di arsip:
 
 Hari 775. Hari ini aku berhenti memakai the Walking Key.
 
 Bukan karena kehilangan kemampuan. Karena belajar hal baru: bahwa pekerjaan terbesar seorang penjaga bukan selalu bertindak — kadang ia berhenti, supaya orang lain bisa bangun dengan utuh.
 
-Delapan bulan silam Renn mendengar dunia lewat lagu-lagu kita. Ia tahu soal the Patient House. Soal pemulangan 400 jiwa. Soal sekolah mendengar, sistem nat kecil, dan sup Kamp Pertama.
+Delapan bulan silam Renn mendengar dunia lewat lagu-lagu kita. Ia tahu soal the Patient House. Soal pemulangan 400 jiwa. Soal sekolah mendengar, sistem nat kecil, dan First Camp Soup.
 
 Ia sudah mengenal dunia barunya tanpa pernah membuka mata.
 
@@ -129,7 +129,7 @@ Sela menatap mangkuk kosongnya, lalu tertawa sambil mengusap mata:
 
 ---
 
-Dan satu adegan terakhir di tepi Jalan Nama barat laut — dicatat Harn di buku harian sekolah:
+Dan satu adegan terakhir di tepi the Path of Names barat laut — dicatat Harn di buku harian sekolah:
 
 Seorang anak laki-laki lima tahun — generasi baru barat laut, lahir setelah kabur malam itu — berhenti di depan kain panjang, menunjuk satu pola, dan bertanya kepada ibunya: "Ini siapa?"
 
@@ -139,7 +139,7 @@ Anak lima tahun itu mencerna kabar tersebut dengan sungguh-sungguh, lalu berkata
 
 "Kalau begitu besok aku bawa gambar kucingku ke sini. Supaya kakek buyut ikut mengenal dia."
 
-Cerita pada kain-kain itu memang tidak ada habisnya. Di situlah gunanya Jalan Nama: generasi baru dan generasi lama bertemu lewat pertanyaan-pertanyaan sesederhana mungkin.
+Cerita pada kain-kain itu memang tidak ada habisnya. Di situlah gunanya the Path of Names: generasi baru dan generasi lama bertemu lewat pertanyaan-pertanyaan sesederhana mungkin.
 
 ---
 
@@ -163,7 +163,7 @@ Dan malam itu, untuk pertama kalinya sejak delapan bulan silam, Ashvarok bicara 
 
 "Renn. Aku tahu kau dengar. Aku mau bilang: aku sudah berhenti pakai kunci. Tubuhmu istirahat. Supnya enak — bubur Sela kurang garam, tetapi ibu Tamma yang latihan."
 
-Ia menarik napas.
+Napasnya tertahan.
 
 "Dan aku mau janji satu hal: kalau kau bangun nanti dan dunia terasa terlalu berubah... aku yang akan menjelaskan semuanya. Satu per satu. Pelan-pelan. Seperti orang menjelaskan rumah kepada pemiliknya yang baru pulang."
 

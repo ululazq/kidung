@@ -3,7 +3,7 @@ title: "Bab 253: Pelajaran dari Api"
 chapter: 253
 ---
 
-Renn datang ke nat Karveth-Ulm sendirian — tanpa Ashvarok, tanpa penerjemah, tanpa alasan resmi.
+Renn datang ke nat Karveth-Ulm sendirian — tanpa Ashvarok memegang depan, tanpa penerjemah, tanpa alasan resmi.
 
 Hanya dengan satu permintaan yang ia tulis di kertas dan letakkan di depan api purba:
 
@@ -31,13 +31,13 @@ Jeda panjang.
 
 "DELAPAN RATUS TAHUN AKU MENDENGAR ORANG MATI DI LORONG, ANAK LAHIR DI PERMUKAAN, CINTA PUTUS, HARAPAN PADAM. DAN AKU TIDAK BISA MELAKUKAN APA-APA SELAIN MENYALA LEBIH HANGAT.
 
-AWALNYA AKU PIKIR ITU KELEM AHAN."
+AWALNYA AKU PIKIR ITU KELEMAHAN."
 
 Irama berikutnya lebih dalam:
 
 "NAMUN LAMA-KELAMAAN AKU PAHAM: MENDENGARKAN TANPA IKUT CAMPUR BUKAN BERARTI TIDAK PEDULI.
 
-"ITU BERARTI: MEMPERCAYAI ORANG LAIN BISA MEMPERBAIKI DIRINYA SENDIRI."
+ITU BERARTI: MEMPERCAYAI ORANG LAIN BISA MEMPERBAIKI DIRINYA SENDIRI."
 
 ---
 
@@ -59,6 +59,116 @@ Dan jawaban Kael-Uthar — yang oleh nat aula diteruskan sampai ke arsip, karena
 
 "Itu pekerjaan paling besar di dunia."
 
+Pelajaran itu belum sempat mengendap ketika pintu aula terbuka keras.
+
+Seorang murid perempuan berdiri di ambang dengan napas putus-putus. Debu putih menempel sampai ke lutut celananya. Di tangannya ada lempeng latihan resonansi, terbelah pada salah satu sudut.
+
+"Renn, kau bisa ikut? Nat di ruang timur tidak mau menjawabku. Kovan sedang di kelas lain."
+
+Renn sudah bangkit sebelum kalimatnya selesai. "Tentu. Tunjukkan—"
+
+Api Karveth-Ulm melontarkan satu ketukan tajam. Panas menyapu punggung tangan Renn dan memaksanya berhenti.
+
+"DUDUK, ANAK TUNGGU."
+
+"Kak Uthar, dia butuh bantuan."
+
+"DIA MEMINTA KAU IKUT. DIA BELUM MEMINTA KAU MEMPERBAIKI."
+
+Murid itu memandang bergantian antara Renn dan api. "Aku tidak keberatan diperbaiki. Asal natnya bicara lagi."
+
+Renn duduk kembali, meski kedua kakinya menegang ingin bergerak. Ia menunjuk tempat kosong di sebelahnya. "Ceritakan dari awal. Aku tidak akan menyentuh lempengmu dulu."
+
+Murid itu tidak langsung mendekat. "Biasanya kau langsung punya tiga rencana."
+
+"Biasanya itu masalahku."
+
+Jawaban tersebut membuat bahunya turun sedikit. Ia duduk, tetapi lempeng retak itu tetap dipeluk ke dada.
+
+Nat ruang timur, katanya, menjawab semua murid lain sejak pagi. Saat gilirannya tiba, batu itu hanya mengirim dengung rendah. Ia mengulang sapaan resmi dari papan kelas. Tidak ada perubahan. Ia memperbaiki tekanan telapak, mengatur napas, bahkan menyalin irama murid sebelumnya. Nat itu tetap diam.
+
+"Mungkin aku tidak cocok belajar di sini," katanya. "Di rumah, kami menyapa batu dengan buku jari. Guruku bilang telapak lebih mudah dibaca. Jadi aku berhenti memakai cara rumah. Sekarang cara sekolah juga tidak didengar."
+
+"Itu tidak berarti kau tidak cocok." Renn meraih lempeng itu.
+
+Murid tersebut menariknya menjauh.
+
+Gerakan kecil itu lebih keras daripada bentakan. Renn menurunkan tangannya ke lutut.
+
+"Maaf," katanya.
+
+"Aku tidak mau kau buktikan lempengku rusak."
+
+"Lalu apa yang kau mau?"
+
+"Aku tidak tahu." Jemarinya menyusuri retakan di sudut lempeng. "Aku cuma tidak mau disuruh mencoba lebih keras. Aku sudah mencoba sampai jariku kebas."
+
+Renn menoleh ke Karveth-Ulm, menunggu irama nasihat. Api purba itu tidak memberinya apa-apa. Hanya bunyi minyak mendesis dan kehangatan yang menetap di sisi wajahnya.
+
+Ashvarok berbicara dari dalam, cukup pelan agar hanya Renn yang mendengar. *Jangan buru-buru mengisi ruang kosong. Dia masih ada di dalamnya.*
+
+Maka Renn mengatupkan mulut. Keheningan pertama terasa sepanjang lorong tambang. Pada keheningan kedua ia menyadari murid itu menggoyangkan kaki. Pada keheningan ketiga, goyangan itu berhenti.
+
+"Kalau aku kembali ke sana," kata murid itu akhirnya, "maukah kau duduk di dekat pintu? Jangan bicara pada natnya. Jangan bicara untukku."
+
+"Aku bisa melakukan itu."
+
+"Dan kalau tetap tidak menjawab?"
+
+Jawaban lama sudah siap di lidah Renn: mereka akan mencari Kovan, mengganti lempeng, memeriksa jalur resonansi. Ia membiarkannya lewat tanpa diucapkan.
+
+"Kalau tetap diam," katanya, "aku tetap duduk di sana sampai kau memutuskan mau apa."
+
+Murid itu menyerahkan lempengnya, bukan untuk diperiksa, melainkan agar Renn membawanya. "Baik. Sekarang kau boleh ikut."
+
+---
+
+Ruang timur dingin dan berbau batu basah. Nat kecil di tengah dinding tampak biasa saja, urat mineralnya redup di bawah cahaya lampu. Renn mengambil tempat di dekat pintu sesuai permintaan. Lempeng latihan ia letakkan di lantai, jauh dari tangannya.
+
+Murid itu menempelkan telapak pada nat.
+
+"Selamat sore," katanya dengan irama resmi.
+
+Dengung rendah menjalar di lantai. Lalu hilang.
+
+Renn tidak bergerak.
+
+Percobaan kedua menghasilkan dengung yang sama. Murid itu mengusap jemarinya yang memerah, lalu melirik Renn. Renn ingin mengatakan bahwa ia melakukannya dengan benar. Janjinya menahan kata-kata itu.
+
+Pada percobaan ketiga, murid itu tidak membuka telapak. Ia mengetuk batu dengan buku jari: dua cepat, satu lambat, jeda, lalu dua cepat lagi. Bunyi sederhana, tidak serapi pola kelas.
+
+Nat menjawab.
+
+Resonansinya kecil dan kasar, tetapi iramanya mengikuti ketukan murid itu. Dua cepat. Satu lambat. Jeda. Dua cepat.
+
+Murid itu menekan kedua tangan ke mulut. "Ia mendengar cara rumahku."
+
+Dari aula, Karveth-Ulm mengirim panas melalui jalur batu. Nat kecil membalas dengan pola baru yang bisa dipahami tanpa penerjemah: ULANG.
+
+Murid itu mengetuk lagi, kali ini lebih kuat. Jawaban nat menggetarkan debu dari sela dinding.
+
+"Besok aku akan bilang kepada guruku," katanya. "Aku mau belajar telapak. Tapi aku tidak akan membuang buku jari."
+
+Renn bangkit dan menyerahkan lempengnya. "Kalau gurumu keberatan, kau mau aku ikut?"
+
+Ia mempertimbangkan tawaran itu, lalu menggeleng. "Duduk di dekat pintu saja, kalau aku minta. Sisanya biar aku yang bicara."
+
+"Sepakat."
+
+Ketika mereka kembali, Karveth-Ulm menyambut dengan nyala rendah.
+
+"APA YANG KAU PERBAIKI, ANAK TUNGGU?"
+
+Renn memandangi tangannya yang tidak melakukan apa-apa sepanjang percobaan itu. "Tidak ada."
+
+"LALU APA YANG BERUBAH?"
+
+"Dia menemukan jawabannya sendiri."
+
+Api naik setinggi bahunya, hangat tanpa membakar.
+
+"DAN KAU MENJAGA PINTUNYA. SEKARANG KAU MULAI PAHAM."
+
 ---
 
 Renn menatap api itu — api yang delapan bulan silam menyelamatkan hidupnya lewat sup, dan sekarang mengajarinya cara mencintai dengan benar.
@@ -77,7 +187,7 @@ NAMUN SETIAP KALI AKU HAMPIR RUSAK, ADA SAJA SATU ORANG YANG DATANG DAN MENYAPAK
 
 SATU ANAK KECIL DENGAN ROTI MANIS. SATU IBU DENGAN DOA. SATU PENGGEMBALA YANG TIDAK PERNAH PAHAM KENAPA KAMBINGNYA MENOLAK DEKATKAN KE AKU.
 
-MEREKA MENYELAMATKANKU TANPA TAHO MEREKA MENYELAMATKANKU."
+MEREKA MENYELAMATKANKU TANPA TAHU MEREKA MENYELAMATKANKU."
 
 Irama terakhir:
 
@@ -127,7 +237,7 @@ Mereka menyelamatkan kita berdua, Renn — tanpa tahu mereka menyelamatkan dua j
 
 ---
 
-Dan satu penutup dari ibu Tamma — yang membaca kedua tulisan itu (karena arsip keluarga lewat dapurnya, katanya) dan menambahkan:
+Ibu Tamma membaca kedua tulisan itu—karena arsip keluarga lewat dapurnya, katanya—lalu menambahkan:
 
 "Untuk dua anakku:
 
@@ -141,9 +251,9 @@ Dan pekerjaanku hanya satu: memastikan supnya tetap hangat supaya kalian kuat sa
 
 ---
 
-Dan satu adegan penutup — subuh berikutnya:
+Subuh berikutnya, Renn datang ke nat Karveth-Ulm lagi sambil membawa dua cangkir teh.
 
-Renn datang ke nat Karveth-Ulm lagi. Kali ini membawa dua cangkir teh.
+Satu diletakkan di dekat nat; satu lagi dipegangnya.
 
 Satu untuk dirinya.
 
@@ -155,7 +265,7 @@ Satu diletakkan di dekat api — "untuk Kak Uthar", katanya, meski api tidak min
 
 Ia menatap api purba yang menyala hangat.
 
-"...tetapi karena teman baru layak diajak minum kopi rutin."
+"...tetapi karena teman baru layak diajak minum teh rutin."
 
 ---
 
@@ -171,9 +281,9 @@ API INI TIDAK PERNAH KEHABISAN TEMPAT DUDUK."
 
 ---
 
-Dan neraca penutup bab — ditulis Renn, disetujui Ashvarok, dibaca ibu Tamma:
+Renn menulis neraca pelajaran, disetujui Ashvarok dan dibaca ibu Tamma:
 
-Hari 1.030. Pelajaran dari api purba selesai (untuk pekan ini — akan diulang selamanya).
+Hari 1.030. Pelajaran dari api purba usai untuk pekan ini.
 
 Yang kupelajari: mendengarkan tanpa ikut campur itu bukan kelemahan. Menjaga hangat itu kerja terbesar. Dan tidak ada yang menjaga sendirian.
 
@@ -183,128 +293,51 @@ Kesimpulan bersama: dunia ini penuh guru yang tidak kita sadari — dan semuanya
 
 ---
 
-Dan di bawah neraca itu, satu baris dari ibu Tamma — yang menutup semuanya:
+Ibu Tamma menambahkan catatan di bawah neraca itu:
 
 "Anakku Renn baru tahu api bisa jadi teman minum teh.
 
 Tunggu sampai dia tahu nat juga bisa diajak masak."
 
----
-
-Dan keesokan harinya — kabar pelajaran Renn dari api purba menyebar ke Sekolah Mendengar, dan murid-murid angkatan 3 memutuskan sesuatu:
-
-Mereka mengadakan "PEKAN GURU TAK TERDUGA" — satu pekan penuh belajar dari guru-guru yang tidak pernah dianggap guru:
-
-Hari 1: Kael-Uthar (api purba) — sabar.
-Hari 2: Yang Dulu Sunyi (nat lorong) — setia.
-Hari 3: ibu-ibu barak (dapur) — kasih tanpa syarat.
-Hari 4: kambing-kambing Ilo (padang timur) — insting.
-Hari 5: hujan pertama musim (langit) — datang tanpa diminta.
-
-Setiap hari satu tema. Setiap tema satu halaman arsip.
-
-Dan oleh Sela dicatat:
-
-"Delapan bulan silam kita pikir guru harus punya gelar.
-
-Sekarang kita tahu: guru adalah siapa pun yang membuat kita jadi lebih baik — meski dia api, batu, kambing, atau hujan."
-
----
-
-Dan di akhir Pekan Guru Tak Terduga, murid-murid menyusun daftar resmi "GURU TANPA GELAR KARVESS" — yang oleh Ossian dimasukkan ke dokumen resmi Kantor Penghubung (karena katanya "ini penting secara administratif dan emosional"):
-
-1. Kael-Uthar — sabar.
-2. Yang Dulu Sunyi — setia.
-3. Ibu-ibu barak — kasih tanpa syarat.
-4. Kambing-kambing Ilo — insting.
-5. Hujan — datang tanpa diminta.
-6. Ibu Tamma — sup.
-7. Nat-nat kecil (73 ekor) — mendengarkan.
-8. Kembar Tami-Tomi — berani mulai.
-9. Gorvel — tidak terlambat untuk berubah.
-10. Vessia Morra — berani bicara dalam bahasa sendiri.
-
-Dan di bawah daftar itu, satu baris dari ibu Tamma:
-
-"Nomor 11: siapa pun yang membaca daftar ini dan merasa 'aku bukan guru'.
-
-Salah. Kamu nomor 11. Mulai sekarang."
-
----
-
-Dan Ashvarok-Renn menambahkan baris terakhir mereka:
-
-"Setuju nomor 11. Namun dengan koreksi:
-
-Kamu bukan nomor 11.
-
-Kamu nomor 12 — karena sebelum bisa jadi guru untuk orang lain, kamu harus jadi murid dulu. Dan kamu sudah mulai membaca daftar ini.
-
-Selamat menjadi guru, murid baru."
-
----
-
-Dan di bawahnya — satu baris terakhir dari ibu Tamma:
-
-"Dua-duanya benar.
-
-Namun tetap sarapan dulu."
-
----
-
-Dan satu penutup terakhir — dari Kael-Uthar, yang mendengar seluruh perdebatan "siapa nomor berapa" dan mengirimkan irama terakhirnya untuk pekan itu:
-
-"ANAK-ANAK.
-
-NOMOR TIDAK PENTING. DAFTAR TIDAK PENTING.
-
-YANG PENTING: KALIAN SUDAH BELAJAR BAHWA DUNIA INI PENUH GURU — DAN SEMUA GURU PADA AKHIRNYA HANYA MENGAJAR SATU HAL YANG SAMA:
-
-CARA MENJADI MANUSIA YANG BAIK.
-
-PELAJARANNYA SELESAI UNTUK PEKAN INI.
-
-SUPNYA MASIH HANGAT SAMPAI PEKAN DEPAN."
-
-— Kael-Uthar, api purba, guru nomor 1 (menurut daftar; menurut dia sendiri "hanya batu hangat")
-
----
-
-Dan Ashvarok menutup dengan satu kalimat — yang oleh Sela disalin ke halaman depan arsip sekolah:
-
-"Delapan ratus tahun dia menyebut dirinya hanya batu hangat.
-
-Dan delapan ratus tahun itu dunia butuh lebih banyak dari apapun: batu yang hangat.
-
-Terima kasih, Kak Uthar. Untuk semuanya."
-
----
-
-Dan satu adegan penutup yang benar-benar terakhir — di nat Karveth-Ulm, sore itu:
-
-Renn datang lagi dengan dua cangkir teh. Kali ini bukan sendirian:
-
-Sela ikut.
+Sore itu Renn datang lagi ke nat Karveth-Ulm dengan dua cangkir teh. Kali ini Sela ikut.
 
 "Kak Uthar," kata Sela, "aku mau ikut belajar juga."
 
-Api purba menyala lebih hangat — irama tertawanya jelas.
+Api purba menyala lebih hangat. Irama tertawanya jelas.
 
 "ANAK ARSIP. AKHIRNYA."
 
-"Sudah setahun aku menulis semua cerita kalian tetapi tidak pernah bicara langsung," kata Sela duduk. "Hari ini giliranku."
+Sela duduk di sebelah Renn. "Sudah setahun aku menulis semua kisah kalian tetapi tidak pernah bicara langsung. Hari ini giliranku."
 
-Dan tiga makhluk itu — anak arsip, bocah tungku dengan raja di dalamnya, dan api purba — duduk bercerita sampai matahari tenggelam.
+"Apa yang mau kamu tanyakan?" kata Renn.
 
-Tentang segala hal. Tentang tidak ada apa pun.
+Sela meletakkan buku arsipnya dalam keadaan tertutup. "Hari ini aku tidak mau mencatat. Aku mau mendengar."
 
-Karena itulah cara Sekolah Mendengar belajar: bukan dari buku.
+Renn menggeser cangkir kedua mendekati api. "Aku tadi belajar bahwa diam tidak sama dengan meninggalkan orang."
 
-Dari duduk bersama.
+"Aku tahu," kata Sela.
+
+"Kau tahu dari mana?"
+
+"Karena waktu aku menangis di hari jadi keluarga, kalian tidak mencoba menghentikanku." Ia menatap api. "Kalian tetap di sana. Ternyata itu cukup."
+
+Kael-Uthar mengirim tiga ketukan lambat.
+
+"DIA SUDAH PAHAM LEBIH DULU DARIMU, ANAK TUNGGU."
+
+Renn tertawa. "Semua orang paham lebih dulu dariku."
+
+"Itu sebabnya kau datang belajar," kata Sela. "Bukan supaya paling cepat. Supaya tidak berhenti."
+
+Api merendah sebentar, lalu menyala lagi. Sela tidak meminta terjemahan. Ia menunggu sampai irama selesai sebelum menjawab dengan ketukan kecil pada lantai.
+
+Mereka duduk sampai matahari tenggelam. Sela beberapa kali meraih buku arsipnya, lalu mengembalikan tangan ke pangkuan. Renn menjaga kedua cangkir tetap hangat tanpa memotong irama Kael-Uthar. Kali itu, mereka membiarkan api menyelesaikan setiap jawaban dengan waktunya sendiri.
+
+Dalam perjalanan pulang, Sela tidak membuka bukunya. Renn juga tidak mencoba menyimpulkan pelajaran mereka. Keduanya berjalan mengikuti ketukan nat lorong, membiarkan suara batu menempati jarak di antara langkah mereka.
 
 ---
 
-Dan satu baris terakhir — dari ibu Tamma, yang menutup semuanya:
+Ibu Tamma mencatat kepulangan mereka:
 
 "Tiga anakku pulang larut malam dan kena marah.
 

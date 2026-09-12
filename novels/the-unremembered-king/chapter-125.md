@@ -55,7 +55,7 @@ Untuk siapa kata itu diucapkan, ia tidak tahu. Ia hanya tahu bahwa lima orang du
 
 ---
 
-Lonceng shift subuh terdengar saat ia naik, dan pagi itu ia melapor dua kali dengan dua versi yang berbeda. Versi pertama kepada Brannoc, di gudang perkakas, singkat dan utuh. Sunyi galeri bicara satu kata. Lima saksi. Tidak ada celah baru. Jejaknya mengikuti nat tua dari dalam.
+Lonceng shift subuh terdengar saat ia naik, dan pagi itu ia melapor dua kali dengan dua versi yang berbeda. Versi pertama kepada Brannoc, di gudang perkakas, singkat dan utuh. Sunyi galeri bicara satu kata. Lima saksi. Tak muncul celah baru. Jejaknya mengikuti nat tua dari dalam.
 
 "Maka pagar kita," kata Brannoc pelan, "baru saja diberi tahu untuk apa ia dipagari."
 

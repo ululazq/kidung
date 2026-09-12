@@ -5,7 +5,7 @@ chapter: 174
 
 Ia dimulai dengan pertanyaan Sela di rapat dapur, diajukan dengan cara yang membuat semua sendok berhenti:
 
-"Tovik bisa dibacakan dirinya karena kita semua ingat dia. Namun the Hollowed pertama — rekan Dolm itu, yang ditemukan di lorong B — tidak ada satu pun dari kita yang ingat namanya. Namanya hilang dari SEMUA ingatan sebelum pagar-pagar kita dibangun." Ia memandang meja. "Pertanyaanku bukan retoris. Kalau Panggung Dapur adalah mesin pengembalian nama... apakah mesin itu bekerja pada nama yang sudah benar-benar habis? Atau hanya pada nama yang masih ada sisanya untuk dikembalikan?"
+"Tovik bisa dibacakan dirinya karena kita semua ingat dia. Namun the Hollowed pertama — rekan Dolm itu, yang ditemukan di lorong B — tidak ada satu pun dari kita yang ingat namanya. Namanya hilang dari SEMUA ingatan sebelum pagar-pagar kita dibangun." Ia memandang meja. "Pertanyaanku bukan retoris. Kalau the Kitchen Stage adalah mesin pengembalian nama... apakah mesin itu bekerja pada nama yang sudah benar-benar habis? Atau hanya pada nama yang masih ada sisanya untuk dikembalikan?"
 
 Hening. Ashvarok meletakkan mangkoknya. "Itu pertanyaan paling penting yang pernah diajukan di ruangan ini," katanya pelan. "Dan jawabannya tidak ada sampai kita coba."
 
@@ -13,9 +13,9 @@ Hening. Ashvarok meletakkan mangkoknya. "Itu pertanyaan paling penting yang pern
 
 Persiapan butuh dua pekan, dan berbeda dari semua operasi Caldrest sebelumnya karena musuhnya bukan orang — melainkan kekosongan.
 
-The Hollowed pertama tinggal di klinik barak sejak bab 14: lelaki ramah yang tersenyum kepada semua orang, sehat, bekerja sukarela menyapu halaman, dan tidak memiliki nama — tidak di buku daftar (baris ke-6 yang tak terbaca), tidak di ingatan siapa pun, tidak bahkan di mulutnya sendiri. Ia telah ditanya dengan lembut berkali-kali selama bertahun-tahun oleh Maera, oleh dokter tambang, oleh Ossian yang menjanjikan "kita akan mencarinya bersama". Semua jalan mati. Nama itu tidak disembunyikan; ia dihapus.
+The Hollowed pertama sudah lama tinggal di klinik barak: lelaki ramah yang tersenyum kepada semua orang, sehat, bekerja sukarela menyapu halaman, dan tidak memiliki nama — tidak di buku daftar (baris ke-6 yang tak terbaca), tidak di ingatan siapa pun, tidak bahkan di mulutnya sendiri. Ia telah ditanya dengan lembut berkali-kali selama bertahun-tahun oleh Maera, oleh dokter tambang, oleh Ossian yang menjanjikan "kita akan mencarinya bersama". Semua jalan mati. Nama itu tidak disembunyikan; ia dihapus.
 
-Namun data baru mengubah persamaannya. Pertama: hukum baru panggung dapur — cerita yang dibawa tubuh memberi makan dua kali lipat. Kedua: kedalaman sendiri baru saja mengaku menyimpan nama-nama. Ketiga — dan inilah yang membuat Ashvarok mengetuk-ngetuk mejanya malam perencanaan — Name-nya sendiri kini bekerja dari cerita benar orang banyak, dan hukumnya telah terbukti tiga kali pada benda.
+Namun data baru mengubah persamaannya. Pertama: hukum baru the Kitchen Stage — cerita yang dibawa tubuh memberi makan dua kali lipat. Kedua: kedalaman sendiri baru saja mengaku menyimpan nama-nama. Ketiga — dan inilah yang membuat Ashvarok mengetuk-ngetuk mejanya malam perencanaan — Name-nya sendiri kini bekerja dari cerita benar orang banyak, dan hukumnya telah terbukti tiga kali pada benda.
 
 "Kalau nama orang juga bisa dipanggil ulang lewat cerita benar yang cukup banyak," kata Ashvarok, "maka ini bukan operasi penyembuhan. Ini penenaian ulang — seperti tunggul batu, seperti pintu darurat. Bedanya satu: subjeknya manusia, dan manusia harus setuju."
 
@@ -47,7 +47,7 @@ Ketukan tiga kali. Ashvarok membaca catatan itu dan merasakan dingin bukan dari 
 
 ---
 
-Malam penenaian datang pada hari kedua ratus tiga puluh sembilan. Panggung Dapur penuh — bukan enam puluh orang seperti biasa, melainkan lebih: Maera datang dari pos Guild, pengikat senior dari kamarnya, bahkan Kovan yang resmi tidak boleh hadir ke acara apa pun datang dan berdiri paling belakang.
+Malam penenaian datang pada hari kedua ratus tiga puluh sembilan. the Kitchen Stage penuh — bukan enam puluh orang seperti biasa, melainkan lebih: Maera datang dari pos Guild, pengikat senior dari kamarnya, bahkan Kovan yang resmi tidak boleh hadir ke acara apa pun datang dan berdiri paling belakang.
 
 Urutannya dirancang Sela dengan presisi notulis besar: cerita-cerita dibacakan dulu — nyanyian pelan, luka bakar dingin, delapan tahun, ketukan tiga kali — dibacakan KEPADA lelaki tua itu yang duduk di kursi tengah panggung, tangannya di pangkuan, mendengarkan kisah dirinya yang tidak ia ingat dengan tatapan orang mendengarkan dongeng tentang tokoh yang disukainya.
 
@@ -57,7 +57,7 @@ Bukan pada benda. Pada keheningan tempat nama seharusnya ada. Ia membaca cerita-
 
 Nama tidak datang. Bukan malam itu. Bukan pekan itu.
 
-Yang datang lebih kecil, dan karena lebih kecil, lebih pasti: pada malam kedua puluh satu — setiap Dua-Kapat-Rabat panggung dapur tetap membacakan empat potongan itu, tradisi baru yang dinamai warga "jam penjaga malam" — lelaki tua itu, tepat setelah bagian ketukan tiga kali dibacakan, mengangkat tangannya sendiri dan mengetuk meja depannya tiga kali.
+Yang datang lebih kecil, dan karena lebih kecil, lebih pasti: pada malam kedua puluh satu — setiap Two–Kapat–Rabat cycle the Kitchen Stage tetap membacakan empat potongan itu, tradisi baru yang dinamai warga "night-watch hour" — lelaki tua itu, tepat setelah bagian ketukan tiga kali dibacakan, mengangkat tangannya sendiri dan mengetuk meja depannya tiga kali.
 
 Irama sempurna. Irama aslinya.
 
@@ -67,7 +67,7 @@ Dan ketika barak hening memandangnya, lelaki tanpa nama itu memandang tangannya 
 
 ---
 
-Laporan resmi operasi ditulis Sela untuk world-state dapur dan dibacakan rapat tim inti malam berikutnya, dan kesimpulannya mengubah status perang selamanya:
+Laporan resmi operasi ditulis Sela untuk buku keadaan dapur dan dibacakan rapat tim inti malam berikutnya, dan kesimpulannya mengubah status perang selamanya:
 
 Satu: Hollowing dapat digigit balik — tidak dengan memaksa nama kembali, tetapi dengan membuka jalur tubuh: ingatan tubuh (ketukan, nyanyian, kebiasaan tangan) bertahan di bawah level yang dihapus oleh sunyi, dan bisa dipanggil naik lewat ritual cerita yang konsisten.
 
@@ -85,7 +85,7 @@ Rapat bubar hampir subuh. Yang terakhir tinggal di halaman gudang adalah Ashvaro
 
 Ashvarok memandang orang tua itu. "Maka kau masuk daftar urutan kerja juga."
 
-"Aku sudah masuk sejak aku datang ke kota ini," kata pengikat senior, dan untuk pertama kalinya sejak Caldrest mengenalnya, orang itu terdengar muda — bukan usianya, bebannya. "Empat puluh tahun mencari seni penambalan ternyata hanya bab pembuka. Bab berikutnya jauh lebih besar: membawa pulang semua yang dikira mati."
+"Aku sudah masuk sejak aku datang ke kota ini," kata pengikat senior, dan untuk pertama kalinya sejak Caldrest mengenalnya, orang itu terdengar muda — bukan usianya, bebannya. "Empat puluh tahun mencari seni penambalan ternyata baru pembuka. Pekerjaan berikutnya jauh lebih besar: membawa pulang semua yang dikira mati."
 
 Ashvarok mengangkat kepala ke bintang-bintang di atas lereng timur, dan untuk pertama kalinya dalam seribu tahun, langit malam Karvess terasa bukan seperti atap penjara yang menutup rahasianya, melainkan seperti peta pekerjaan yang baru dimulai: dua the Hollowed di klinik, empat ratus jiwa di utara, sembilan suara dalam batu, satu kedalaman yang belajar menyapa, sebuah kota yang sudah tahu cara menjaga nama — dan di tengah semuanya, dirinya, yang akhirnya setelah seribu tahun berhenti menjadi segel dan mulai menjadi apa yang seharusnya.
 

@@ -25,7 +25,7 @@ Sore itu, Kovan menggali benda bundar kedua dari dalam tanah — benda yang dite
 
 "Aku tidak pernah percaya kebetulan," kata Ashvarok-Renn. "Aku hanya belum pernah melihat tali yang mengikatnya."
 
-Kovan mengangkat alatnya ke atas garis yang berdenyut di tanah — dan berhenti. Ia menutup alat itu, membukanya lagi, menempelkannya ke tanah, lalu menatap buku anomali yang dibawa Mira sepanjang perjalanan. Ia menoleh ke arah Ashvarok-Renn dengan wajah yang tidak bisa menyembunyikan apa pun.
+Kovan mengangkat alatnya ke atas garis yang berdenyut di tanah — dan berhenti. Ia menutup alat itu, membukanya lagi, menempelkannya ke tanah, lalu menatap the Anomaly Book yang dibawa Mira sepanjang perjalanan. Ia menoleh ke arah Ashvarok-Renn dengan wajah yang tidak bisa menyembunyikan apa pun.
 
 "Bukan tiga ketuk," katanya. "Ini bukan irama pasif yang kita dengar di desa-desa, bukan detak utama yang bocor ke bilangan. Ini yang lain. Ini detak bayangan — yang 'lari ke depan', yang memanggil yang belum datang. Garis di pintu ini berdetak dengan irama yang sama dengan yang selama ini kita buru dari ujung selatan."
 
@@ -35,7 +35,7 @@ Mira menoleh. "Berarti..."
 
 Keheningan yang mengikuti kalimat itu terasa seperti keheningan yang diikuti sesuatu. Sela meletakkan kapurnya pelan-pelan, seperti orang yang takut memecahkan apa yang baru saja terbentuk. Ossian, yang sejak tadi berdiri di tepi lingkaran dengan dua kain tenun di saku jaketnya, berjalan mendekat dan berkata: "Kau yakin?"
 
-"Aku yakin dengan angkanya." Kovan menunjuk buku anomali, lalu tanah, lalu batu-batu itu. "Aku tidak yakin apa artinya. Tetapi sejak babak pertama, kita selalu mengira kita sedang melacak tangan yang menarik. Sekarang kita tahu di mana tangan itu memulai langkahnya."
+"Aku yakin dengan angkanya." Kovan menunjuk the Anomaly Book, lalu tanah, lalu batu-batu itu. "Aku tidak yakin apa artinya. Tetapi sejak babak pertama, kita selalu mengira kita sedang melacak tangan yang menarik. Sekarang kita tahu di mana tangan itu memulai langkahnya."
 
 "Kami pernah mengetuk batu-batu ini sekali," kata the Seeker pelan, "dan batu itu menjawab satu ketukan — satu, bukan tiga. Waktu itu kami mengira itu cara batu memberi tahu bahwa ia dijaga. Sekarang aku mengerti: ia tidak menjawab kami. Ia mengingatkan kami bahwa kami baru membunyikan satu bagian dari keseluruhan, dan sisanya masih menunggu." Ia menatap dua benda logam yang berkilau di atas kain putih. "Delapan belas tahun kami membawa penanda tanpa pernah bertanya apa yang ia tandai. Ternyata ia menandai sesuatu yang sedang menunggu untuk diputar."
 
@@ -51,7 +51,7 @@ Sela tidak menjawab. Ia menatap papan napasnya, tempat catatan-catatan lamanya t
 
 Ossian menatap jauh ke utara, ke arah tempat tiga batu itu menunjuk. "Aku juga tidak pernah percaya," katanya. "Aku hanya belum pernah melihat tali yang mengikat semuanya menjadi satu — dan aku takut melihatnya, karena kalau tali itu ada, berarti delapan belas tahun yang lalu bukan kebetulan yang menimpa kami. Sesuatu yang menenun."
 
-Mereka memutuskan pada senja itu, bukan karena lelaki itu meyakinkan mereka, tetapi karena garis di tanah terus berdetak lebih cepat dan Sela mencatat bahwa sejak matahari naik, garis itu telah memendekkan jeda diamnya dari satu hitungan penuh menjadi setengah. Sesuatu sedang menunggu dengan sabar yang mulai habis. Ashvarok-Renn meletakkan syaratnya di tengah lingkaran, disaksikan semua orang, seperti orang yang menaruh hukum di depan pintu yang akan ia buka: satu putaran, bersama-sama, pada ketukan yang sama. Dua benda logam diputar oleh dua tangan — lelaki itu dan the Seeker. Kain tenun, kunci yang lebih tua, dipegang oleh Ossian dan Ashvarok-Renn sebagai satu tangan keempat yang tidak perlu memutar. Dan bila pintu itu tidak berbicara dalam denyut, mereka berhenti dan menimbun semuanya kembali.
+Mereka memutuskan pada senja itu, bukan karena lelaki itu meyakinkan mereka, tetapi karena garis di tanah terus berdetak lebih cepat dan Sela mencatat bahwa sejak matahari naik, garis itu telah memendekkan jeda diamnya dari satu hitungan penuh menjadi setengah. Sesuatu sedang menunggu dengan sabar yang mulai habis. Ashvarok-Renn meletakkan syaratnya di tengah lingkaran, disaksikan semua orang, seperti orang yang menaruh hukum di depan pintu yang akan ia buka: satu putaran, bersama-sama, pada ketukan yang sama. Dua benda logam diputar oleh dua tangan — lelaki itu dan the Seeker. Kain tenun, kunci yang lebih tua, dipegang oleh Ossian dan Ashvarok-Renn sebagai satu tangan keempat yang tidak perlu memutar.
 
 "Dan kalau pintu itu berbicara?" tanya lelaki itu.
 

@@ -3,94 +3,178 @@ title: "Bab 30: Nama yang Tersimpan"
 chapter: 30
 ---
 
-Subuh hari ketiga puluh empat, pintu tua di ujung lorong B sudah terbuka, dan Ashvarok turun melewatinya ke dalam aula delapan puluh kali tiga puluh untuk pertama kalinya dalam seribu tahun.
+Subuh Hari 35, Ashvarok membuka pintu tua di ujung lorong B dan memasuki aula pengikat untuk pertama kali dalam seribu tahun.
 
-Ruangan itu lebih rendah daripada ingatannya, dan jauh lebih sunyi. Dahulu di lantainya berdiri dua belas pengikat dan sebuah dais batu tempat sumpah dibacakan. Kini lantai itu tertutup endapan garam setebal mata kaki, putih seperti salju yang gosong, dan di tengahnya — tepat di tengahnya, karena pembangun era Hegemony tidak tahu kata kebetulan — retakan besar menyala redup dari dalam, selebar dua lengan manusia, memancarkan gema yang tidak terasa seperti bunyi melainkan seperti tarikan napas pertama sesudah tenggelam.
+Langit-langitnya lebih rendah daripada ingatan. Endapan garam menutupi lantai sampai mata kaki, putih kusam di bawah lampu kapur. Dua belas ceruk pengikat mengelilingi ruangan delapan puluh kali tiga puluh hasta. Dais batu di sisi utara masih berdiri, tetapi tepinya habis dimakan tetesan mineral. Udara berbau garam, logam dingin, dan ruang tertutup yang terlalu lama menunggu.
 
-the Threshold. Segel yang menjadi dirinya sendiri selama seribu tahun, dipandang untuk pertama kalinya dari luar.
+Di tengah aula, retakan selebar dua lengan memancarkan cahaya kelabu.
 
-Ashvarok berdiri di bibirnya dan mendengarkan. Kondisinya bisa dibaca seperti laporan. Pengikat utama bertahan, tetapi kurus — helai demi helai telah digigit dari sisi dalam selama bertahun-tahun oleh sesuatu yang bekerja dengan sabar dan alat yang rapi. Jejak kerjanya ada di sekeliling aula ini: bekas penyangga alat, lubang pasak berumur beda-beda, dan satu jalur gesekan di lantai yang menuju ke arah lorong sembilan bawah. Jalur itu dipakai berulang-ulang.
+the Threshold.
 
-Bau di ruangan ini juga tidak seperti bagian tambang yang lain. Bukan bau debu atau minyak. Bau garam dan sesuatu yang lebih tua daripada garam — bau ruangan yang menunggu.
+Dulu Ashvarok hanya memandangnya dari dalam, sebagai batas yang dikunci pada nama dan darahnya. Kini ia berdiri di luar segel yang telah menjadi seam, mendengar napasnya merambat melalui telapak kaki.
 
-Ia mengambil data yang dibutuhkan Maera: kedalaman, irama, arah tarikan, posisi pasti retakan terhadap peta tambang atas. Semua dicatat dengan kapur pada lempeng pribadinya. Pekerjaan selesai dalam satu jam.
+Pengikat utama masih bertahan. Kurus, tidak utuh. Helai-helainya digerogoti dari sisi aula oleh alat yang dipasang dan dipindah berulang kali. Lubang pasak membentuk tiga usia berbeda. Jalur gesekan memanjang ke lorong sembilan bawah. Pekerjanya sabar, teratur, dan mengetahui bagian mana yang tidak boleh disentuh.
 
-Yang tidak selesai adalah pertanyaan siapa pelakunya — dan jawabannya datang sendiri pada tengah hari, dari arah lorong B, berupa bunyi langkah banyak orang dan cahaya lampu kuil yang terlalu putih untuk tambang.
+Ashvarok menahan keinginan mengikuti jejak itu. Hari ini milik data, bukan jawaban.
 
-Tim berjubah itu masuk enam jam lebih awal. Persis seperti yang ia hitung.
+Ia menempatkan kapur ukur pada dua belas titik sesuai urutan Maera. Kedalaman endapan. Irama gema. Arah tarikan. Posisi retakan terhadap penyangga timur. Setiap angka masuk lempeng tipis yang akan ditinggalkan di kotak batu L9B. Kerja itu selesai saat cahaya pagi di lorong atas belum mencapai warna penuhnya.
 
-Dan di antara mereka, membawa lempeng pengukur baru, berjalan sosok yang membuat Ashvarok menyempitkan perhatian — Kovan, Shift Guard Voice-tier dari Quota Office — orang yang dua kali gagal membacanya di persimpangan utama, orang yang alatnya "rusak" karena abu. *Tharrow tidak mengenalmu*, pikir Ashvarok. *Namun orang ini datang untukmu secara pribadi.* Orang-orang yang pernah ditipu selalu kembali ke tempat kejahatannya.
+Titik ketujuh memberi bacaan berbeda. Tarikannya datang dari bawah, lalu membelok menuju lubang pasak termuda. Seseorang telah menanam pemandu di bawah garam dan mencabut perangkatnya setelah setiap panen. Pemandu itu tidak melukai segel secara kasar; ia mengajari seam mengalir ke arah salah. Keahlian semacam ini membutuhkan arsip rancangan Hegemony atau pengamatan selama puluhan tahun.
 
-Ashvarok tidak bersembunyi di balik batu. Ia bersembunyi di balik abu.
+Ashvarok mengorek garam dengan ujung kapur. Ia menemukan serat tin thread setipis rambut, putus pada pangkalnya. Bahan modern di dalam konstruksi berumur seribu tahun. Bukti itu terlalu kecil untuk laporan Maera dan terlalu berharga untuk ditinggal. Ia membungkusnya dengan kain, lalu menandai lokasi memakai goresan yang hanya terlihat dari dais.
 
-Sebelum langkah pertama terdengar, ia sudah membakar separuh cadangan panas tubuhnya ke dalam pola Ash terbesar yang pernah ia jalankan pada tubuh pinjaman ini — lapisan tipis abu kelabu menyelimuti kulitnya, pakaiannya, bahkan udara di sekitarnya — dan abu itu memakan gema. Setiap bunyi langkahnya mati sebelum lahir. Setiap bayangan tubuhnya menjadi kabur seperti asap di ruangan berasap. Orang-orang zaman ini tidak punya kata untuk teknik itu, karena seni yang membuatnya sudah mati bersama kerajaannya. Yang mereka miliki hanya firasat buruk yang tak bisa dijelaskan.
+Mulut penyedot berada di dalam aula, seperti dugaannya. Namun jalur gesekan menunjukkan perangkat dibawa keluar setelah dipakai. Pelakunya tidak tinggal di sini. Ia datang mengikuti jadwal, mengambil bagian kecil, lalu membiarkan the Threshold menutup luka sebisanya. Itu menjelaskan mengapa kebocoran bertahan begitu lama tanpa berubah menjadi keruntuhan.
 
-Kovan, dari semua orang, adalah satu-satunya yang menoleh sekali ke arah kolom batu dekat dais — menatap kegelapan itu dua detik dengan mata orang yang pernah merasakan hal serupa dan belum sembuh — lalu memaksakan dirinya melihat ke tempat lain.
+Ashvarok mencatat satu angka terakhir: kehilangan irama antara titik tujuh dan retakan utama, empat denyut dalam seratus. Cukup kecil untuk disembunyikan. Cukup tetap untuk menjadi tanda tangan.
 
-Dari celah kolom batu, Ashvarok memperhatikan mereka bekerja: enam orang. Empat berjubah abu dengan tin thread, pengikat muda membawa peti pengikat klaim, dan di tengah-tengah mereka — berjalan dengan ketenangan orang yang sedang memeriksa properti sendiri —
+Ia masih memeriksa mulut penyedot di sisi dalam aula ketika pipa angkut berbunyi.
 
-Ossian Vael.
+Tiga ketukan. Jeda. Dua.
 
-Lebih muda daripada suara yang dibayangkan dari cerita-cerita, lebih tenang, dan matanya melakukan hal yang membuat Ashvarok mengencangkan pegangan. Matanya menghitung aula. Tiang, keluaran, arah angin, posisi gelap. Pengikat Chorus-tier tidak datang ke mana pun tanpa membaca medan tempur lebih dahulu.
+Tim datang sebelum tengah hari, enam jam lebih awal daripada jadwal resmi.
 
-Pengikat muda membuka petinya di tepi retakan besar itu dan mulai bekerja. Gema klaim dialirkan ke dalam seam, prosedur pemakaian resmi yang butuh waktu berminggu-minggu dan dimulai dengan pembacaan awal. Pembacaan itulah yang tidak boleh terjadi. Pembacaan itulah yang akan merekam bahwa seam ini bukan seam biasa, bahwa di dalamnya tersimpan rekaman seribu tahun — termasuk malam ketika lima nama diteriakkan dan satu nama dibakar.
+Ashvarok menyelipkan lempeng data ke kantong minyak, menaruhnya di celah batu dekat pintu, lalu kembali ke dais. Lorong B terlalu panjang untuk dikejar tanpa bertemu mereka. Jalur sembilan tidak ia kenal cukup baik. Satu-satunya jalan keluar adalah bertahan di ruang yang sama sampai mereka mundur.
 
-Maka Ashvarok memadamkannya.
+Ia mengambil panas dari udara.
 
-Bukan dengan ledakan. Ash tidak bekerja seperti itu. Ia hanya membuka pola pembusukan pada udara di antara pengikat muda dan retakan, dan membiarkan abu halus yang menyelimutinya menelan gema klaim itu sama seperti ia menelan bunyi langkah — diam-diam, tanpa benturan, tanpa saksi teknis. Alat pengikat muda itu mendadak mencatat kekosongan.
+Dingin merambat dari lantai, menaiki betis. Lapisan abu kelabu menutup kulit, pakaian, dan ruang selebar satu lengan di sekelilingnya. Pola Ash besar tidak membuat tubuh hilang. Ia membusukkan gema sebelum gema itu sempat kembali kepada pembacanya. Langkah kehilangan bunyi. Napas tidak memberi pantulan. Bayangan melebur dengan kolom batu karena mata para pemburu bergantung pada indra yang lebih tajam daripada penglihatan.
 
-"Pembacaan kosong," kata pengikat muda itu. "Ulangi."
+Panas tubuh pinjaman itu ikut tersedot. Jari-jari kanan mulai kaku.
 
-Kedua. Kosong lagi. Ketiga. Kosong, dan kali ini gema Voice-tier sang pengikat ikut padam di tengah alurnya, seperti lilin ditelan air. Kovan, yang berdiri paling dekat dengan lempeng pengukur cadangan, memeriksa alat itu dua kali — dan Ashvarok melihat ekspresi yang ia kenali. Wajah orang yang untuk kedua kalinya dalam sebulan menyalahkan alat, dan mulai tidak percaya dirinya sendiri.
+Cahaya putih memasuki aula.
 
-Pria pengikat itu mundur satu langkah dengan wajah putih. "Sesuatu memakan gema kita," katanya. "Ada—"
+Ossian Vael datang bersama enam orang lain: Kovan; seorang pengikat klaim Voice-tier; dua petugas berjubah abu yang membawa peti tin thread; dua Shift Guard bersenjata gema; dan pencatat kontrak dengan lempeng bersegel. Tujuh orang seluruhnya. Formasi mereka rapi, tidak saling menutup pandangan.
 
-"Ambil posisi." Suara Ossian tenang, dan regunya bergerak profesional: punggung ke punggung, lampu ke segala arah, senjata gema disiapkan. Kovan bergerak paling cepat di antara mereka, dan posisi yang diambilnya bukan posisi acak — punggung ke kolom batu, pandangan ke dais, jalur mundur dihitung. Prajurit yang pernah dikalahkan sesuatu selalu membaca ruangan seperti orang yang kembali ke rumah hantu. Mereka memindai aula itu selama satu menit penuh dan menemukan apa yang memang dirancang untuk tidak ditemukan — aula kosong, endapan garam, retakan purba, dan tidak ada satu pun makhluk hidup.
+Kovan berhenti satu langkah melewati ambang. Kepalanya menoleh ke kolom dekat dais—tempat Ashvarok berdiri—lalu kembali ke retakan. Bekas dua pembacaan yang padam telah mengajarinya takut pada ruang kosong.
 
-Tetapi Ossian Vael tidak puas pada temuan mata. Ia berjalan sendirian ke tengah aula, berhenti di atas jejak gesekan lantai yang menuju lorong sembilan, berlutut, dan menyentuh garis itu dengan dua jarinya.
+Ossian tidak menatap retakan lebih dulu. Ia membaca pintu, tiang, lubang pasak, arah udara, dan jalur mundur. Tatapannya bergerak tanpa terburu-buru. Ashvarok mengenali kebiasaan panglima di balik pakaian birokrat itu: hitung medan sebelum mengakui tujuan.
 
-"Lantai ini dipakai," katanya pelan, bagi aula, bagi penghuninya, bagi sesuatu yang tidak terlihat. "Sudah lama. Dan baru saja." Ia bangkit, menoleh mengelilingi kegelapan dengan mata yang menghitung kegelapan itu sendiri. "Kepada tuan atau nyonya yang tidak suka tamu: saya tidak membawa permusuhan. Saya membawa transaksi. Seam ini butuh perlindungan profesional; saya menjual perlindungan profesional. Berikan saya satu tanda — apa pun — dan saya akan kembali dengan harga yang layak."
+"Tidak ada pekerja," kata salah satu Shift Guard.
 
-Ashvarok, dari balik abu, hampir menghargai kalimat itu. Hampir. Lalu pengikat muda yang panik, yang gema padamnya tadi belum pulih, menyerahkan jawaban lebih dulu. Ia menyalurkan paniknya menjadi gelombang gema penuh ke segala arah — sonar paksa, cara murid sekolah pusat mencari musuh tak terlihat.
+"Bukan berarti kosong," jawab Kovan.
 
-Gelombang itu menyapu aula. Menyapu abu. Menyapu Ashvarok.
+Ossian menatapnya. "Anda membaca sesuatu?"
 
-Dan di titik itu, pertahanan Ashvarok nyaris runtuh bukan karena teknik, melainkan karena matematika. Gelombang gema sebanyak itu membutuhkan abu sepuluh kali lipat, dan cadangan panas tubuhnya tinggal untuk tiga detik. Ia membuka pola pembusukan maksimal, membakar gelombang itu sampai mati sebelum sampai ke dinding, dan membayar harganya secara langsung — dingin menusuk dari tulang dada, pandangan berkabut, lutut kanan gagal satu ketukan —
+"Tidak." Jeda kecil. "Itu masalahnya."
 
-satu ketukan yang cukup keras untuk bergema.
+Pengikat klaim berlutut di bibir retakan. Ia menata tiga batang tin thread membentuk segitiga, menghubungkan ujungnya dengan kawat putih, lalu membuka peti resonansi.
 
-Enam kepala berputar ke arah dais. Lampu-lampu menyala. Senjata gema terisi. Dan di tengah kekacauan itu, Ossian Vael mengangkat satu tangannya — dan semua orang berhenti, karena perintah tunggal dari Chorus-tier punya bobot yang tidak diajarkan di sekolah mana pun.
+"Pembacaan dasar dahulu," kata Ossian. "Tidak ada klaim sebelum saya melihat irama."
 
-"Cukup," kata Ossian. Ia menatap kegelapan di atas dais — tepat ke arah Ashvarok, atau ke arah yang kebetulan berisi Ashvarok — dengan tatapan yang tidak marah dan tidak takut, melainkan menimbang. "Kita sudah diberi jawaban. Jawabannya: tempat ini tidak kosong, pemiliknya tidak mau bertransaksi malam ini, dan memaksakan klaim kepada penjaga yang tidak kita kenal adalah cara paling mahal untuk kehilangan investasi." Ia menurunkan tangannya. "Tarik peralatan. Kami pulang."
+Pengikat menyentuhkan telapak pada lempeng.
 
-"Malam, Tuan Vael?" protes pengikat muda, suaranya masih bergetar. "Klaimnya—"
+Gema tipis mengalir ke retakan.
 
-"Teratur, kataku."
+Ashvarok membuka pola pembusukan di udara antara lempeng dan seam. Abu memakan getaran itu helai demi helai. Jarum alat bergerak setengah ruas, lalu jatuh ke nol.
 
-Mereka mundur persis seperti perintahnya. Teratur, satu per satu, lampu-lampu putih menyusuri lorong B yang gelap sampai hilang. Yang terakhir keluar adalah Ossian Vael sendiri, dan di ambang pintu tua itu ia berhenti, tanpa menoleh, dan meninggalkan satu kalimat di aula yang sunyi:
+"Pembacaan kosong," kata pengikat.
 
-"Sampai jumpa di penilaian triwulan, penjaga. Saya akan bawa harga yang lebih pantas."
+"Periksa sambungan," kata Kovan.
 
-Langkah-langkahnya pun sirna.
+Sambungan utuh. Pengikat mengganti kawat, memutar lempeng, dan mencoba lagi. Ashvarok menarik lebih banyak panas dari batu di belakangnya. Garam di sekitar sepatu membeku menjadi kerak.
 
-Ashvarok menunggu seratus hitungan penuh sebelum melepaskan pola abu. Ia jatuh berlutut di atas endapan garam, dingin sampai ke tulang, lelah sampai dunia bergoyang pelan. Tetapi pekerjaan hari itu berhasil. Tim berjubah pulang tanpa klaim, Maera akan memiliki rekaman penyalahan klaim dari alatnya di titik ukur — ia merasakan denyut alat itu tadi, menyala, merekam — dan distrik timur mendapat penundaan enam bulan yang dibayar dengan doktrin musuh sendiri.
+Jarum naik. Turun.
 
-Ia bangkit untuk pulang. Dan ketika kakinya sudah mengarah ke pintu tua itu, ketika debu dan sunyi sudah kembali menjadi milik aula —
+"Kedua kosong."
 
-retakan besar itu bernapas.
+Ossian berjongkok, memeriksa kawat tanpa menyentuhnya. "Ulangi dengan aliran mandiri. Jangan pakai gema ruangan."
 
-Bukan irama tiga detik. Bukan tarikan lapar yang serak. Napas panjang, dalam, penuh — napas sesuatu yang sangat besar dan sangat tua yang selama seribu tahun menahan diri untuk tidak berbicara, dan hari ini, melihat kuncinya berlutut di depannya setelah menolak tawaran musuh, akhirnya tidak menahan lagi.
+Percobaan ketiga lebih kuat. Voice-tier pengikat masuk bersama arus klaim, tajam dan berlapis. Ashvarok membesarkan Ash sampai batas yang sanggup ditanggung cadangan panasnya. Gema menyentuh abu, pecah menjadi serpih tak bersuara, lalu lenyap.
 
-Gema itu naik dari dasar seam, melewati endapan garam, melewati kedua telapak tangan yang pernah membuatnya, dan menyentuh Ashvarok bukan sebagai getaran melainkan sebagai kata.
+Pengikat menarik tangan seolah lempeng menggigitnya. Wajahnya pucat.
+
+"Sesuatu memakan gema."
+
+"Ambil posisi," kata Ossian.
+
+Dua Shift Guard memutar punggung ke retakan. Petugas peti menjaga sayap. Kovan bergerak ke kolom dekat dais, menutup jalur keluar Ashvarok tanpa menyadarinya. Senjata gema terangkat. Tidak ada teriakan, tidak ada orang berlari. Regu itu tahu cara takut tanpa kehilangan bentuk.
+
+Mereka menyapu aula dengan lampu. Ashvarok mengatur napas mengikuti denyut seam. Abu menahan pantulan tubuhnya, tetapi panas semakin tipis. Dingin telah mencapai tulang dada.
+
+Ossian berjalan ke jalur gesekan di lantai. Ia menyingkirkan garam dengan ujung sepatu, lalu menyentuh batu yang terbuka.
+
+"Dipakai," katanya. "Sudah lama. Dan baru saja."
+
+Pencatat kontrak mendekat. "Jejak orang?"
+
+"Jejak alat. Orangnya cukup cermat untuk tidak meninggalkan ukuran kaki." Ossian berdiri dan menghadap kegelapan aula. "Kepada penjaga tempat ini: saya tidak datang membawa permusuhan. Seam ini sedang dipanen oleh pihak yang merusaknya. Saya dapat menjual perlindungan, personel, dan kerahasiaan."
+
+Ashvarok tidak bergerak.
+
+"Harga dibicarakan setelah tanda pertama," lanjut Ossian. "Berikan satu jawaban. Saya akan kembali dengan tawaran yang pantas."
+
+Pengikat klaim menelan ludah. "Tuan Vael, izinkan pembacaan sebar. Kalau ada tubuh—"
+
+"Tidak."
+
+Kovan menoleh dari kolom. "Pembacaan sebar bisa memastikan jalur mundur."
+
+Ossian menimbang ruang selama satu tarikan napas. "Satu gelombang. Rendah."
+
+Pengikat terlalu takut untuk mematuhi kata terakhir. Ia menghantamkan gema penuh ke lantai.
+
+Gelombang menyapu garam, tiang, retakan, dan abu.
+
+Ashvarok membuka pola maksimal. Panas terakhir di udara lenyap. Lampu terdekat meredup. Abu di kulitnya menebal, menelan gelombang sebelum pantulannya kembali. Harga datang seketika: tulang rusuk dingin seperti logam, pandangan menyempit, lutut kanan kehilangan kekuatan.
+
+Lutut itu menyentuh dais.
+
+Tok.
+
+Tujuh kepala berputar.
+
+Kovan mengangkat senjata ke arah bunyi. Kedua Shift Guard mengapitnya. Pengikat mulai membentuk gelombang baru.
+
+"Cukup," kata Ossian.
+
+Tidak keras. Semua gerak berhenti.
+
+Ia menatap sisi gelap dais, tepat melalui ruang yang menyimpan Ashvarok. "Kita sudah mendapat jawaban. Tempat ini tidak kosong. Penjaganya mampu menelan tiga pembacaan dan tidak ingin bertransaksi hari ini."
+
+"Kita hampir menemukannya," kata Kovan.
+
+"Tidak. Kita hampir membuatnya menganggap kita musuh."
+
+"Kalau dibiarkan, klaim—"
+
+"Klaim yang tidak bisa kita baca bukan aset." Ossian menunjuk peti. "Tarik alat. Catat tiga kegagalan sebagai gangguan sumber tak dikenal. Tidak ada spekulasi."
+
+Pengikat memandang retakan. "Tuan, saya bisa mencoba pola Chorus kalau—"
+
+"Dan kalau pola itu ikut dimakan, Anthema Spire menerima laporan bahwa kita merusak pengikat mereka sebelum kontrak dimulai." Ossian menatapnya sampai pria itu menutup peti. "Mundur teratur."
+
+Regu bergerak sesuai perintah. Pencatat keluar dahulu bersama peti. Dua Shift Guard menutup sisinya. Pengikat mengikuti, kemudian petugas tin thread. Kovan menjadi orang kedua terakhir. Di ambang ia menatap kolom sekali lagi, rahangnya keras, tetapi tidak menguji.
+
+Ossian keluar paling akhir.
+
+Ia berhenti tanpa menoleh. "Sampai penilaian triwulan, penjaga. Lain kali saya membawa harga yang tidak menghina kita berdua."
+
+Cahaya putih menyusut di lorong B. Langkah mereka hilang satu per satu.
+
+Ashvarok menghitung sampai seratus. Baru kemudian ia menutup pola Ash.
+
+Abu lepas dari kulit dan jatuh tipis ke garam. Ia berlutut, bukan memilih, melainkan karena tubuhnya belum menerima perintah berdiri. Dingin menggigit sumsum. Tangan kanan mati rasa sampai pergelangan, tetapi vein-scar tetap di bawah kain dan tidak maju. Ash tidak menagih jalur itu; ia mengambil panas dan meninggalkan kelemahan yang sama berbahayanya.
+
+Ia memeriksa abu di lantai. Terlalu sedikit untuk dibaca, cukup untuk mengingat sisa bunyi lututnya. Ashvarok mengumpulkannya dengan kain dan memasukkan kain itu ke kantong kosong.
+
+Tiga pembacaan gagal. Ossian mundur tanpa klaim. Di atas sana, alat Maera seharusnya merekam penyalahan klaim dalam radius lima puluh hasta. Itu bukan kemenangan. Hanya penundaan, persis yang mereka butuhkan.
+
+Ashvarok berdiri dengan bantuan tepi dais. Ia mengambil satu langkah menuju pintu.
+
+Retakan menarik napas.
+
+Bukan denyut lapar yang sejak tadi ia ukur. Napas itu panjang, dalam, dan teratur. Endapan garam bergetar membentuk lingkaran-lingkaran kecil. Gema naik dari dasar seam, melewati batu, lalu masuk ke tulang Ashvarok tanpa melalui telinga.
 
 Satu kata.
 
-Nama aslinya.
+Ashvarok.
 
-Nama yang dibakar seribu tahun silam di hadapan lima panglima dan delapan ribu prajurit; nama yang tidak tertulis di buku mana pun karena semua bukunya ikut terbakar bersama kerajaannya; nama yang tidak diketahui siapa pun yang hidup — diucapkan oleh retakan itu dengan suara yang hanya bisa dibuat oleh sesuatu yang hadir ketika nama itu terakhir kali diucapkan dengan benar.
+Nama yang dibakar di hadapan lima panglima dan delapan ribu prajurit. Nama yang dihapus dari kitab, cap, makam, dan mulut orang hidup. Nama yang tidak mungkin diketahui Renn, Maera, Ossian, maupun dunia yang tumbuh setelah the Long Dusk.
 
-Ashvarok berdiri sangat diam di atas endapan garam putih, di aula delapan puluh kali tiga puluh, dan untuk pertama kalinya sejak the Long Dusk, seseorang memanggil namanya.
+Ashvarok tidak menjawab.
 
-Dan yang memanggil bukan manusia.
+Retakan kembali diam. Ia berdiri di aula delapan puluh kali tiga puluh dengan lampu yang hampir mati, mendengar darah tubuh pinjaman itu bergerak terlalu lambat.
 
-Ia berdiri diam lama setelah itu, menghitung langkah dari bibir retakan sampai pintu lorong B, dan menemukan dirinya menghafal jarak itu tanpa pernah diminta siapa pun.
+Untuk pertama kalinya sejak the Name-Burning, sesuatu telah memanggilnya dengan benar.
+
+Sesuatu itu bukan manusia.

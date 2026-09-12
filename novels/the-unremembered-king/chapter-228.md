@@ -35,7 +35,7 @@ Sovana diam sebentar, lalu berkata hal yang langsung ditulis Sela dan dikirim ke
 
 ---
 
-Perbedaan ketiga adalah yang paling mengharukan bagi tim inti: siswa Sekolah Mendengar bekerja di pemulangan ini bukan sebagai penonton belajar, tetapi sebagai pelaksana penuh.
+Perbedaan ketiga adalah yang paling mengharukan bagi tim inti: siswa the Listening School bekerja di pemulangan ini bukan sebagai penonton belajar, tetapi sebagai pelaksana penuh.
 
 Daven mengkoordinasi seluruh logistik enam puluh satu pos — tanpa satu pun kesalahan kayu meja. Ketika Ashvarok menanyakan rahasianya, jawabannya dicatat Sela: "tidak ada rahasia. Aku bertanya ke nat-nat timur setiap subuh: 'ada yang berubah lagi?' Mereka jawab tiap kali. Birokrasi aku sekarang: bertanya sebelum yakin."
 

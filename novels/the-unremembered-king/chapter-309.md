@@ -9,7 +9,7 @@ Dibawa perawat menara sendiri. Perempuan muda itu turun dari kafilah pagi, kain 
 
 "Aku yang mencatat menara," katanya. "Namaku Mira. Aku yang tulis 3 tiap hari."
 
-Ashvarok-Renn mempersilakan duduk. Sela menyiapkan papan, Kovan membuka buku anomali, Gella berdiri di sisi.
+Ashvarok-Renn mempersilakan duduk. Sela menyiapkan papan, Kovan membuka the Anomaly Book, Gella berdiri di sisi.
 
 Mira membuka kain. Bukan angka. Peta.
 
@@ -25,7 +25,7 @@ Kovan menatap peta, matanya menyipit.
 
 Ashvarok-Renn menatap garis itu lama. Ia membayangkan seam di bawah barak — pengikat yang menyambung seluruh Karvess, dari barak selatan sampai Spire utara. Jika benang ditarik dari utara, bukan hanya benang yang menegang. Udara di atasnya ikut.
 
-"Tekanan Spire," kata Sela pelan. Ia mengingat arsip: Spire adalah kursi the Resonant Choir, kota di atas gunung yang mengendalikan klasifikasi artefak, tempat Pembaca Tua menyimpan arsip. "Jika Spire menarik, bukan hanya seam yang ditarik. Prosedur juga."
+"Tekanan Spire," kata Sela pelan. Ia mengingat arsip: Spire adalah kursi the Resonant Choir, kota di atas gunung yang mengendalikan klasifikasi artefak, tempat the Old Reader menyimpan arsip. "Jika Spire menarik, bukan hanya seam yang ditarik. Prosedur juga."
 
 Maera datang siang, terkejut melihat Mira.
 
@@ -35,15 +35,15 @@ Maera datang siang, terkejut melihat Mira.
 
 Maera membuka lipatan peta lebih lebar. Di baliknya, ada tulisan kecil tangan Ossian, tidak seperti tulisan resmi. Tulisan itu miring, cepat:
 
-*Maera — aku tidak bisa tulis di kain resmi. Dewan mengawasi semua kain pos. Mira adalah murid Sekolah Mendengar angkatan pertama yang kutitip di menara — ia mencatat bukan karena perintah, tetapi karena ia mau. Peta ini bukan peta menara. Peta ini peta angin yang kutemukan di arsip menara tua: celah menara utara adalah katup angin era Hegemony. Saat benang ditarik, katup itu terbuka. Angin selatan ke utara = tarikan. Angin utara ke selatan = lepas. Jika ini benar, Spire tidak hanya menarik benang. Spire membuka katup.*
+*Maera — aku tidak bisa tulis di kain resmi. Dewan mengawasi semua kain pos. Mira adalah murid the Listening School angkatan pertama yang kutitip di menara — ia mencatat bukan karena perintah, tetapi karena ia mau. Peta ini bukan peta menara. Peta ini peta angin yang kutemukan di arsip menara tua: celah menara utara adalah katup angin era Hegemony. Saat benang ditarik, katup itu terbuka. Angin selatan ke utara = tarikan. Angin utara ke selatan = lepas. Jika ini benar, Spire tidak hanya menarik benang. Spire membuka katup.*
 
 Maera membaca keras-keras, lalu diam.
 
-"Katup angin Hegemony," kata Kovan. "Seperti katup samping lorong B — satu-satunya jalur patroli rahasia selebar telapak tangan. Tetapi ini di menara. Dan katup lorong B kami jaga dengan jadwal dan pelita, bukan dengan kain. Katup menara dijaga oleh arsip yang tidak pernah dibuka siapa pun sejak Hegemony jatuh — kecuali Pembaca Tua."
+"Katup angin Hegemony," kata Kovan. "Seperti katup samping lorong B — satu-satunya jalur patroli rahasia selebar telapak tangan. Tetapi ini di menara. Dan katup lorong B kami jaga dengan jadwal dan pelita, bukan dengan kain. Katup menara dijaga oleh arsip yang tidak pernah dibuka siapa pun sejak Hegemony jatuh — kecuali the Old Reader."
 
 Maera mengangguk. Ia mengingat buku arsip Hegemony yang pernah Sela temukan — halaman terpotong tujuh seam pengikat, salah satunya saksi. Arsip menara tua itu sama: bangunan yang menyimpan, bukan merusak.
 
-"Jika katup itu Hegemony, maka ia bukan milik Spire sekarang," kata Maera. "Ia milik yang lebih tua dari Spire. Dan Pembaca Tua adalah penjaga rekaman kematian api — ia pasti tahu katup itu ada, bahkan mungkin ia yang membuka untuk mendengar."
+"Jika katup itu Hegemony, maka ia bukan milik Spire sekarang," kata Maera. "Ia milik yang lebih tua dari Spire. Dan the Old Reader adalah penjaga rekaman kematian api — ia pasti tahu katup itu ada, bahkan mungkin ia yang membuka untuk mendengar."
 
 Ashvarok-Renn menatap Mira.
 
@@ -55,7 +55,7 @@ Mira mengangguk.
 
 Sela menulis di arsip, tetapi kali ini lebih panjang dari biasanya. Ia tidak hanya menulis peta angin, ia menulis siapa yang merasakan:
 
-*Peta angin Ossian: benang ditarik = angin selatan→utara (tarikan, katup buka). Benang lepas = angin utara→selatan (lepas, katup tutup). Celah menara = katup Hegemony. Spire = pemegang katup. Saksi angin = Mira, perawat menara, murid Sekolah Mendengar angkatan pertama — bukan perawat biasa, ia mencatat karena mau, bukan perintah. Satu-satunya yang pusing saat angin berbalik.*
+*Peta angin Ossian: benang ditarik = angin selatan→utara (tarikan, katup buka). Benang lepas = angin utara→selatan (lepas, katup tutup). Celah menara = katup Hegemony. Spire = pemegang katup. Saksi angin = Mira, perawat menara, murid the Listening School angkatan pertama — bukan perawat biasa, ia mencatat karena mau, bukan perintah. Satu-satunya yang pusing saat angin berbalik.*
 
 Gella menatap Mira, memeriksa tangannya — tidak lecet, hanya kering karena angin. Ia menyentuh punggung tangan Mira, memastikan hangat.
 
@@ -73,7 +73,7 @@ Maera menatap peta, lalu menatap Mira.
 
 Mira menjawab, mengingat pesan Ossian kata per kata:
 
-"Ia bilang: aku tidak bisa tutup katup. Katup itu bukan milikku — ia milik arsip menara tua yang kini dipegang Pembaca Tua. Tetapi aku bisa memberi peta ke yang bisa menahan di selatan, agar mereka tahu yang mereka tahan bukan hanya benang, tetapi angin yang masuk lewat katup yang tidak mereka pegang. Dan ia bilang: jangan laporkan ke Dewan. Dewan akan bilang angin itu umur menara."
+"Ia bilang: aku tidak bisa tutup katup. Katup itu bukan milikku — ia milik arsip menara tua yang kini dipegang the Old Reader. Tetapi aku bisa memberi peta ke yang bisa menahan di selatan, agar mereka tahu yang mereka tahan bukan hanya benang, tetapi angin yang masuk lewat katup yang tidak mereka pegang. Dan ia bilang: jangan laporkan ke Dewan. Dewan akan bilang angin itu umur menara."
 
 Ashvarok-Renn menutup peta perlahan.
 
@@ -83,13 +83,13 @@ Mira mengangguk. Ia tidak mengerti kalimat itu sepenuhnya, tetapi ia merasa lega
 
 Sore itu, peta angin ditempel di papan arsip di samping aturan satu hentakan. Bukan untuk dibaca semua orang — hanya untuk tim inti: Ashvarok-Renn, Sela, Kovan, Gella, Maera, Brannoc.
 
-Kovan menatap peta, lalu buku anomali halaman delapan yang masih menunjukkan 1 di barat laut.
+Kovan menatap peta, lalu the Anomaly Book halaman dua belas yang masih menunjukkan 1 di barat laut.
 
 "Besok papan kosong di barat laut akan lepas satu hentakan, kita lihat 1 kembali ke 3 atau tidak," katanya. "Tetapi sekarang kita tahu: bahkan jika 1 kembali ke 3 di selatan, angin di utara tetap masuk jika katup terbuka. Jaringan diam kita menahan benang, tetapi tidak menutup katup."
 
 "Apakah kita bisa tutup katup?" tanya Sela.
 
-"Tidak dari selatan," jawab Ashvarok-Renn. Ia menatap titik besar Spire di peta. "Katup ada di menara utara, arsipnya dipegang Pembaca Tua. Kita hanya bisa menahan di ujung. Menutup katup butuh tangan di Spire."
+"Tidak dari selatan," jawab Ashvarok-Renn. Ia menatap titik besar Spire di peta. "Katup ada di menara utara, arsipnya dipegang the Old Reader. Kita hanya bisa menahan di ujung. Menutup katup butuh tangan di Spire."
 
 Maera menatap peta, lalu menatap Mira yang sudah bersiap kembali ke menara sore itu juga.
 
@@ -109,11 +109,11 @@ Ashvarok-Renn menatap Maera, lalu Mira.
 
 Malam itu, Mira kembali ke menara dengan kain kosong untuk balasan besok. Maera menyalin peta angin ke kertas Guild tipis, bukan kain — kertas yang bisa masuk arsip Spire tanpa lewat pos Choir.
 
-Ashvarok-Renn menulis di buku anomali halaman sembilan:
+Ashvarok-Renn menulis di the Anomaly Book halaman tiga belas:
 
-*Peta angin: katup Hegemony di menara utara. Tarikan = selatan→utara, lepas = utara→selatan. Jaringan diam menahan benang di ujung, tetapi katup di tengah tetap buka. Solusi bukan tahan lebih lama — solusi adalah tutup katup. Tangan di Spire = Pembaca Tua.*
+*Peta angin: katup Hegemony di menara utara. Tarikan = selatan→utara, lepas = utara→selatan. Jaringan diam menahan benang di ujung, tetapi katup di tengah tetap buka. Solusi bukan tahan lebih lama — solusi adalah tutup katup. Tangan di Spire = the Old Reader.*
 
-Di sudut ruangan, Yang Dulu Sunyi mencatat: di barak 3 (tahan), di menara 3 + angin selatan→utara, di barat laut 1 (lepas). Lalu jeda satu hentakan — dan di dalam jeda itu, angin masuk lewat celah yang tidak dipegang siapa pun di selatan.
+Di sudut ruangan, the Once-Silent mencatat: di barak 3 (tahan), di menara 3 + angin selatan→utara, di barat laut 1 (lepas). Lalu jeda satu hentakan — dan di dalam jeda itu, angin masuk lewat celah yang tidak dipegang siapa pun di selatan.
 
 Retakan di bawah tidak menjawab. Ia hanya berdenyut, tiga hentakan lalu jeda, sama dengan denyut purba yang kini milik seluruh Karvess. Tetapi malam itu, denyut itu terdengar seperti napas menara — masuk dari selatan, keluar ke selatan, menegang dan mengendur, menunggu tangan di Spire yang memegang katup untuk memutuskan apakah akan menutup atau membiarkan angin terus masuk.
 

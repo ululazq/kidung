@@ -53,7 +53,7 @@ Yang tua duduk di kursi, untuk pertama kalinya sebagai bagian dari meja itu. "La
 
 "Kita memutuskan apakah kita akan mengikuti garis ini," kata Ashvarok-Renn. "Atau membiarkannya tidur. Penggambar peta menulis: bila garis panjang, jangan ikuti. Bila garis berhenti, ikuti. Garis ini belum berhenti — ia masih bernapas, lebih cepat dari sebelumnya. Namun kita sudah menyentuhnya. Dan sesuatu di ujungnya sudah tahu bahwa kita ada di sini."
 
-Mira membuka buku anomali dan menulis satu baris, tanpa menunjukkannya kepada siapa pun: *Kita mengetuk pintu yang tidak pernah diketuk selama seribu tahun. Dan pintu itu menjawab. Sekarang kita harus memutuskan apakah kita akan membukanya — atau berpura-pura tidak mendengar jawabannya.*
+Mira membuka the Anomaly Book dan menulis satu baris, tanpa menunjukkannya kepada siapa pun: *Kita mengetuk pintu yang tidak pernah diketuk selama seribu tahun. Dan pintu itu menjawab. Sekarang kita harus memutuskan apakah kita akan membukanya — atau berpura-pura tidak mendengar jawabannya.*
 
 Malam itu, setelah the Keeper dan the Seeker tidur di gudang perkakas, Ashvarok-Renn duduk sendirian di meja dengan sketsa logam bundar di depannya. Ia mengenali bentuk itu. Tiga lubang, diatur dalam segitiga sama sisi, terlalu rapi untuk tangan manusia — ia pernah melihat benda serupa sekali, seribu tahun silam, di gudang arsip istana, di antara barang-barang yang tidak pernah dijelaskan kepada siapa pun. Ia tidak pernah tahu apa fungsinya. Sekarang ia melihatnya lagi, digambar tangan dua orang the Wane dari tempat yang tidak tercatat, dan ia tahu bahwa sesuatu dari eranya telah selamat — bukan di istana, bukan di tambang, melainkan di utara, di bawah tiga batu yang tidak bernama.
 

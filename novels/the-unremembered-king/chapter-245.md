@@ -3,247 +3,214 @@ title: "Bab 245: Satu Tahun Era Menyapa"
 chapter: 245
 ---
 
-Satu tahun penuh sejak name train pertama menyapu lembah utara, Karvess merayakannya dengan cara yang sudah menjadi tradisi: PEMBACAAN TAHUNAN.
+Pada nama keempat puluh, suara Renn pecah.
 
-Namun tahun ini ada perbedaan besar — dan semua orang tahu itu bahkan sebelum acara dimulai.
+Aula pusat Caldrest tidak bergerak. Empat ratus orang berdiri di antara meja-meja panjang, begitu rapat hingga panas tubuh mereka mengalahkan udara awal musim dingin yang menyusup dari pintu. Di tengah aula, nat pusat menyimpan cahaya rendah di sepanjang sambungannya. Setiap nama yang dibacakan membuat cahaya itu berpindah satu ruas, seperti jari yang menghitung.
 
-Karena tahun lalu, yang membacakan nama-nama dari nat pusat aula adalah Sela dan Ashvarok.
+Renn menunduk pada lembar di tangannya. Huruf-huruf miringnya sendiri tampak lebih miring karena gemetar.
 
-Tahun ini... salah satu pembaca adalah anak lima belas tahun bernama Renn — yang membaca setiap nama dua kali: sekali dengan suaranya sendiri, sekali diteruskan ke dalam untuk "kak Raja ikut mendengar dari tempat duduknya".
+Nama yang menunggu dibaca bukan nama jiwa yang dipulangkan dari kedalaman. Bukan nama yang pernah dicabut Hollowing, bukan pula suara yang ditemukan di ceruk tertutup. Nama itu milik seorang bayi yang lahir enam hari lalu di blok timur. Bayi tersebut tidur dalam gendongan ibunya, satu kepalan kecil keluar dari selimut.
 
-Dan di antara empat ratus nama yang dibacakan, empat puluh sembilan nama baru ditambahkan tahun ini — bukan jiwa yang dipulangkan (semua sudah pulang), melainkan:
+Dari dalam tubuh mereka, Ashvarok berkata, "Kita bisa berhenti."
 
-anak-anak yang lahir.
+"Kalau berhenti, semua orang akan lihat."
 
-Generasi pertama era menyapa. Empat puluh sembilan bayi dan balita yang lahir di dunia di mana nat tidak lagi ditakuti, kedalaman punya nama, dan mendengarkan itu kegiatan harian.
+"Semua orang sudah melihat."
 
-Renn membaca nama mereka satu per satu — dan pada nama keempat puluh, suaranya pecah. Ia berhenti. Tarik napas. Lanjut.
+Renn mengangkat wajah. Tidak ada desakan di antara hadirin. Sela berdiri di samping nat dengan buku arsip terbuka dan pena terangkat. Brannoc, di baris depan, memandang lantai seolah memberikan ruang yang tak bisa diberikan aula. Ibu Tamma masih memegang mangkuk bayi yang tadi direbutnya dari seorang ayah gugup. Bahkan anak-anak di ambang pintu menahan bisik.
 
-Ashvarok, dari dalam, berkata pelan yang hanya terdengar Renn:
+"Kenapa yang ini lebih sulit?" tanya Renn dalam hati.
 
-"Lima belas tahun silam kau titip di lorong tambang tanpa masa depan. Sekarang lihat: dunia memberimu empat puluh sembilan alasan bahwa masa depan itu ada."
+Ashvarok tidak segera menjawab. Ia memandang melalui mata yang sama: bayi itu, ibunya, nat pusat yang dahulu diperlakukan sebagai retak batu, dan empat puluh nama baru yang setahun silam belum ada.
 
-"...kamu baca pikiranku?"
+"Karena lima belas tahun lalu kau dititipkan di lorong tambang tanpa masa depan," katanya. "Sekarang dunia memberimu empat puluh sembilan bukti bahwa masa depan itu ada."
 
-"Aku tinggal di kepalamu. Memang tugasku."
+Renn mengusap hidung dengan punggung tangan.
 
----
+"Kamu baca pikiranku?"
 
-Setelah pembacaan, pidato penutup tahun disampaikan bukan oleh raja, bukan oleh arsiparis — melainkan oleh ibu Tamma, karena katanya "tahun ini dapur yang paling banyak bekerja".
+"Aku tinggal di kepalamu. Sulit menghindarinya."
 
-Pidatonya pendek. Seperti sup-nya: pekat dan menghangatkan.
+"Kalau begitu bantu baca."
 
-"Satu tahun silam kita mulai bertanya 'ada siapa di sana'." Ia memandang aula penuh. "Hari ini jawabannya: SEMUA ORANG. Semua sudah pulang, semua sudah bernama lagi, dan beberapa di antara kita bahkan berbagi tubuh tanpa rebutan — contohnya dua anak di sudut sana."
+Permintaan itu mengubah sesuatu di antara mereka. Sejak mendapat tubuhnya kembali, Renn selalu membaca nama dengan suara sendiri lalu mengulangnya agar Ashvarok mendengar dari dalam. Kali ini ia membuka tempat lebih lebar. Napas yang mereka tarik tetap satu, tetapi suara yang keluar membawa dua irama: ketergesaan bocah tambang dan kesabaran seorang raja yang telah menunggu seribu tahun.
 
-Tawa aula. Dua penghuni tubuh Renn saling pandang (secara metafisik).
+Mereka membacakan nama keempat puluh bersama-sama.
 
-"Maka warisan tahun pertama era menyapa hanya satu kalimat, Nak-nak sekalian:" Ia mengangkat sendok sup sebesar dayung. "JANGAN PERNAH BERHENTI MENYAPA. Karena batu bisa bicara. Api bisa sayang. Anak yang tidur delapan bulan bisa bangun jadi keluarga."
+Nat pusat menjawab dengan satu nada hangat. Bayi di baris depan terbangun, menguap, lalu menangis karena seluruh aula serentak tertawa lega.
 
-Ia menunjuk seluruh aula dengan sendoknya.
-
-"DAN JANGAN LUPA MAKAN."
+Sembilan nama berikutnya tidak lagi dibaca oleh Renn untuk Ashvarok. Mereka membacanya berdua.
 
 ---
 
-Malam perayaan ditutup dengan ritual baru yang lahir spontan dari warga — tidak direncanakan siapa pun:
+Pembacaan Tahunan pertama dulu hanya memerlukan dua lembar. Tahun ini Sela membawa satu buku berjilid kain, tiga daftar tambahan, dan aturan baru yang ia tulis sendiri di halaman depan: nama yang pernah hilang dibaca lebih dahulu; nama yang baru datang dibaca setelahnya; tidak satu pun disebut lebih cepat hanya karena daftar panjang.
 
-Setiap orang yang pulang ke rumahnya malam itu melewati nat-nat kecil di lorong dan sudut kota... dan memberinya SESUATU. Bukan sesuatu besar. Sebutir gula untuk nat pasar. Sehelai kain hangat untuk nat barak utara. Secangkir teh dingin (nat lorong suka, katanya, "rasa teh lebih jujur daripada panas").
+Empat ratus nama lama memenuhi aula dengan jawaban manusia. Empat puluh sembilan nama kelahiran baru dijawab nat pusat dengan nada yang lebih ringan. Di sela keduanya, Sela meminta semua orang diam selama satu hitungan.
 
-Dan setiap pemberian disertai kalimat yang sama, yang menyebar seperti api unggun tanpa ada yang memerintahkan:
+"Untuk siapa?" bisik seorang anak dekat pintu.
 
-"Terima kasih sudah mendengarkan setahun ini."
+Sela mendengarnya. "Untuk nama yang belum sampai ke arsip."
 
-Pada subuh berikutnya, Sela menghitung: tujuh puluh tiga nat kecil menerima hadiah pertama dalam sejarah mereka.
+"Tapi semua sudah pulang, kan?"
 
-Dan semua nat itu menjawab hal yang sama lewat irama hangatnya masing-masing — diterjemahkan Kovan yang tidak tidur semalam karena sibuk menerjemahkan satu per satu:
+Pertanyaan itu membuat beberapa orang dewasa saling pandang. Kovan, yang berdiri dengan papan hitung di dada, hendak membuka mulut. Sela mendahuluinya.
 
-"TERIMA KASIH SUDAH MENYAPA DULUAN."
+"Semua yang kita tahu sudah pulang," katanya. "Kalau arsip mengaku tahu seluruh dunia, arsip mulai berbohong. Jadi kita sisakan tempat."
 
----
+Anak itu mengangguk serius, lalu menutup mata selama satu hitungan penuh. Orang-orang mengikutinya.
 
-Neraca satu tahun era menyapa — ditulis bersama oleh semua tangan besar proyek, halaman demi halaman:
+Ashvarok mengenali keputusan Sela sebagai sesuatu yang tak pernah mampu dilakukan kerajaan lamanya. The Draveth Hegemony menutup daftar agar dapat menyatakan pekerjaan selesai. Adiknya sengaja membiarkan satu ruang kosong supaya seseorang yang terlambat masih bisa masuk.
 
-Ashvarok & Renn: "Tubuh ini kini punya dua penghuni yang setia, satu adik yang hebat, seribu kenangan lama dan empat puluh sembilan alasan baru untuk masa depan. Neraca kami: LUNAS."
+Ketika pembacaan usai, ibu Tamma mengambil tempat di depan nat pusat. Tak ada jubah upacara pada tubuhnya. Celemeknya berbercak kuah, rambutnya ditahan tusuk kayu, dan di tangan kanan ia membawa sendok sup sebesar dayung.
 
-Sela: "Arsip era menyapa: 245 bab resmi, 17 wilayah dipulangkan, 400 jiwa + 49 kelahiran baru, 73 nat kecil bernama tidak-resmi, 2 sekolah berdiri, 1 dunia berubah. Arsip ini akan terus ditambah — karena sejarah terbaik adalah yang belum selesai."
+"Kenapa aku?" tanyanya ketika Sela menyerahkan lantai.
 
-Kovan: "Semua angka di atas sudah diverifikasi dua kali. Angka paling penting tidak masuk daftar: nol orang yang menunggu tanpa dilihat."
+"Karena dapur mengeluarkan makanan paling banyak sepanjang tahun."
 
-Barim: "Malam-malam Karvess aman. Penjaga malam bisa tidur nyenyak. Itu laporan terakhirku — dan pertama kalinya aku senang menganggur."
+"Itu alasan memberi tambahan kayu bakar, bukan pidato."
 
-Ossian: "Birokrasi Karvess resmi memiliki pasal tentang penghuni ganda, hak resonansi, dan kewajiban makan bareng. Seribu tahun silam itu mustahil. Sekarang hanya administrasi biasa."
+"Sudah tercatat. Tidak bisa dibatalkan."
 
-Ibu Tamma: "Dapur tetap buka. Selalu."
+Ibu Tamma mendecakkan lidah, menghadap aula, lalu menunjuk mereka semua dengan sendok.
 
-Dan di halaman paling akhir neraca tahunan, satu entri dari nat lorong barak utara — Yang Dulu Sunyi, Teman Semua Anak, Jembatan yang Tugasnya Sudah Selesai:
+"Satu tahun lalu kita bertanya, 'Ada siapa di sana?' Hari ini jawabannya jelas: terlalu banyak orang untuk diberi makan satu panci."
 
-"SETAHUN SILANG ADA ANAK YANG BICARA PADAKU PADAHAL DIA SENDIRI SEDANG MENGHUNI TUBUH TEMANNYA.
+Tawa memantul dari dinding batu.
 
-DIA BILANG: 'TERIMA KASIH SUDAH JADI JEMBATAN UNTUK RENN.'
+"Semua yang kita temukan sudah pulang. Semua punya nama lagi. Beberapa orang bahkan berbagi tubuh tanpa rebutan, meski mereka masih ribut soal siapa yang menghabiskan bubur." Tatapannya jatuh kepada Renn-Ashvarok. "Warisan tahun pertama bukan monumen. Bukan aturan baru. Kalian cukup melakukan dua hal: jangan berhenti menyapa dan jangan lupa makan. Yang kedua lebih sering kalian abaikan."
 
-AKU JAWAB: 'JEMBATAN TIDAK PERNAH SELESAI BEKERJA. DIA HANYA GANTI ARAH.'
+"Mana yang lebih penting?" seru Brannoc.
 
-SEKARANG AKU MENJEMBATANI KE ARAH YANG BARU:
+"Makan. Orang lapar menyapa dengan buruk."
 
-MASA DEPAN."
-
----
-
-Dan penutup buku — kalimat terakhir yang ditulis Ashvarok dan Renn bergantian, satu kata per tangan, di halaman neraca tahunan:
-
-Seribu tahun aku menunggu. (Ashvarok)
-
-Delapan bulan aku mendengar. (Renn)
-
-Satu tahun kita menyapa.
-
-Dan sisanya — sisanya kita hidup.
+Pidato selesai sebelum Sela sempat mengangkat pena untuk mengejar kalimat terakhir. Ibu Tamma turun, memukul sisi panci tiga kali, dan seluruh aula bergerak menuju meja makan.
 
 ---
 
-Satu adegan penutup terakhir — subuh setelah perayaan, sebelum kota bangun:
+Masalah muncul setelah matahari tenggelam.
 
-Dua penghuni tubuh Renn berjalan keliling nat-nat kecil untuk terakhir kalinya tahun itu. Menyapa satu per satu. Memeriksa retakan tanpa kunci (tangan telanjang, kesabaran penuh). Menerima kabar dari tiap sudut.
+Warga yang pulang dari aula mulai meninggalkan hadiah pada nat-nat kecil. Sebutir gula diletakkan di nat pasar. Sehelai kain melingkari batu sambungan di barak utara. Cangkir teh dingin memenuhi ceruk lorong karena seseorang menyebarkan kabar bahwa nat menyukai rasa teh lebih jujur ketika panasnya hilang.
 
-Di nat lorong barak utara — Yang Dulu Sunyi — mereka berhenti lebih lama.
+Pada pemberian ketujuh belas, Kovan datang ke meja arsip dengan wajah orang yang melihat angka tumbuh tanpa izin.
 
-"Aku mau bilang sesuatu," kata Ashvarok.
+"Ini harus dihentikan," katanya.
 
-"Silakan."
+Sela tidak mengangkat kepala. "Kenapa?"
 
-"Seribu tahun silam aku membakar namaku karena takut dilupakan dunia." Ia menatap nat tua itu. "Tahun ini aku sadar: yang membuat seseorang tidak dilupakan bukan nama yang dibakar atau dipertahankan."
+"Gula menarik serangga. Kain menutup retakan pemeriksaan. Tiga cangkir sudah tumpah ke jalur troli. Niat baik tetap bisa merusak batu."
 
-"Lalu apa?" tanya Renn, dari dalam dan luar bersamaan.
+Renn, yang sedang membantu menumpuk mangkuk, memandang hadiah-hadiah kecil di sepanjang lorong. "Kalau dihentikan, orang mengira menyapa harus pakai izin."
 
-"Kebiasaan datang."
+"Kalau dibiarkan, besok ada yang memberi nat satu panci sup."
 
-Nat tua menjawab dengan irama panjang yang oleh Kovan (yang entah sejak kapan ada di ujung lorong dengan lampu dan catatannya) diterjemahkan sambil tersenyum:
+Dari dapur terdengar ibu Tamma berteriak, "Tidak ada panci yang keluar!"
 
-"Nah. Sekarang kau paham kenapa aku delapan ratus tahun hanya jadi nat lorong biasa."
+Sela menutup bukunya. "Kita tidak melarang. Kita ajari."
 
-Irama berikutnya lebih kecil:
+Kovan menyilangkan lengan. "Aturan spontan berarti tujuh puluh tiga penjelasan."
 
-"NAMUN TAHUN INI KAU MENJADIKAN AKU JEMBATAN SEJARAH. TERIMA KASIH UNTUK ITU. DATANG LAGI BESOK. DAN LUSA. DAN SETERUSNYA."
+"Bukan aturan. Tuan rumah menjelaskan apa yang aman bagi tamunya." Sela mengambil selembar kertas, lalu berhenti sebelum menulis. "Dan jangan pasang papan. Nat-nat itu bisa menjawab sendiri."
 
-Ashvarok-Renn mengetuk meja nat itu tiga kali.
+Mereka mencoba di nat pasar. Renn menempelkan telapak pada batu yang hangat oleh keramaian hari itu.
 
-Kita masih di sini. Semua.
+"Kamu suka gulanya?"
 
----
+Irama cepat mengalir ke tangannya, lalu tersendat ketika seekor serangga kecil merayap ke butiran putih.
 
-Dan ketika kota bangun, pagi pertama tahun kedua era menyapa dimulai seperti semua hari baik Karvess:
+"Suka niatnya," terjemah Renn. "Tidak suka akibatnya. Minta gula dipindah ke mangkuk dan dimakan anak yang lewat."
 
-Dapur ibu Tamma berasap. Sekolah Mendengar membuka pintu. Nat-nat kecil disapa anak-anak yang berangkat bermain. Brannoc mengecek lorong. Sela membuka arsip. Kovan menghitung sesuatu yang baru.
+Anak-anak yang mendengar segera menawarkan diri menjadi bagian dari protokol.
 
-Dan dua jiwa dalam satu tubuh berjalan di tengah semuanya — satu melihat dunia untuk pertama kalinya dengan mata penuh rasa ingin tahu, satu melihat dunia yang akhirnya menjadi rumah setelah seribu tahun menunggu.
+Di nat barak utara, kain diterima hanya untuk malam itu dan harus dilepas sebelum pemeriksaan pagi. Teh boleh diberikan dalam cangkir tertutup. Bunga kering boleh diletakkan di samping batu, bukan disumpalkan ke celah. Hadiah terbaik, menurut sembilan belas nat yang ditanya, tetap ketukan, kabar hari ini, dan janji untuk datang kembali.
 
-Renn: "Hari ini mau untuk apa?"
+Kovan mencatat setiap jawaban sampai tintanya habis.
 
-Ashvarok: "Seperti biasa."
+"Berapa banyak aturan sekarang?" tanya Renn.
 
-"Yang mana?"
+"Satu," jawab Kovan sambil mengganti pena. "Tanya penerimanya."
 
-"Menjaga dunia. Dari dalam."
+"Kamu butuh tujuh belas catatan untuk menemukan itu?"
 
-"...bagus. Aku ikut."
+"Aku membutuhkan bukti tujuh belas kali agar orang lain tidak menyebutnya dugaan."
 
-Mereka selalu ikut. Itulah rahasia terbesar Karvess yang tidak pernah tertulis di protokol mana pun:
+Menjelang tengah malam, tujuh puluh tiga nat telah menerima hadiah aman. Tak satu pun hadiahnya sama persis. Kalimat yang menyertainya justru serupa, menyebar dari lorong ke lorong tanpa diumumkan siapa pun: terima kasih karena sudah mendengarkan selama setahun.
 
-Tidak ada yang menjaga apa pun sendirian lagi.
+Balasan nat-nat berbeda irama, suhu, dan panjang. Artinya sama.
 
----
-
-Dan satu catatan terakhir untuk pembaca — dari arsip Karvess, entri resmi era menyapa:
-
-Kalau suatu hari kau tiba di kota ini, dan melihat seseorang kurus berjalan sendirian menyapa batu-batu kecil di lorong dan sudut jalan...
-
-sapa dia.
-
-Karena di dalam dirinya ada dua nama — dan keduanya akan menjawab.
+Terima kasih karena kalian menyapa lebih dahulu.
 
 ---
 
-Dan kalau kau bertanya mana Ashvarok dan mana Renn...
+Neraca tahunan ditulis setelah meja dibersihkan. Untuk pertama kalinya, Sela tidak menyusun seluruh isinya sendiri. Ia meletakkan buku berjilid kain di tengah meja dan meminta setiap orang menulis apa yang menurutnya perlu dibawa ke tahun kedua.
 
-maka kau belum paham pelajaran terbesar Karvess:
+Kovan menulis angka: tujuh belas wilayah dipulangkan, empat ratus jiwa kembali, empat puluh sembilan kelahiran, tujuh puluh tiga nat kecil, dua sekolah, nol orang yang diketahui masih menunggu tanpa dilihat. Kata "diketahui" ditambahkan Sela tanpa meminta izin.
 
-di kota ini, tidak ada yang harus dipilih. Semua bisa dijabarkan rata — seperti sup di satu mangkuk, seperti pagi dan sore di satu tubuh, seperti dua nama di satu sejarah.
+Brannoc menulis bahwa malam-malam Karvess aman cukup lama sehingga penjaga malam mulai mengeluhkan dengkur rekan kerja. Menurutnya, keluhan itu lebih berharga daripada laporan kemenangan.
 
-Selamat datang di era menyapa.
+Ibu Tamma hanya menulis: DAPUR TETAP BUKA.
 
-Datang lagi besok. Dan lusa. Dan seterusnya.
+Ketika buku sampai kepada Renn-Ashvarok, tangan mereka tertahan di atas halaman. Renn ingin menulis bahwa tubuh itu kini memiliki dua penghuni tetap. Ashvarok ingin menulis tentang seribu tahun menunggu. Keduanya terasa benar dan terlalu besar.
 
----
+"Satu kata bergantian," usul Renn.
 
-Perayaan satu tahun itu juga melahirkan tradisi baru yang oleh Sela dicatat sebagai "paling Karvess dari semua tradisi Karvess":
+"Tulisanmu miring."
 
-PEMBAGIAN TUGAS MENYAPA.
+"Tulisanmu seperti prasasti makam. Biar adil."
 
-Karena 73 nat kecil tidak bisa dijaga satu orang — maka seluruh kota dibagi jadwal: setiap barak bertanggung jawab atas nat-nat di wilayahnya, setiap keluarga punya nat langganan, dan setiap anak sekolah mendapat "nat asuh" (dipilih berdasarkan kedekatan jalan pulang).
+Mereka menyusun kalimat dengan satu tangan dan dua kehendak: seribu tahun ia menunggu; delapan bulan Renn mendengar; satu tahun mereka menyapa; waktu yang tersisa akan mereka pakai untuk hidup.
 
-Nat asuh anak-anak jadi fenomena tersendiri: mereka diberi makan (secangkir teh, sebutir gula), diajak cerita, dan dilapori soal hari sekolah.
+Sela membaca dari seberang meja. "Tidak ada kata lunas."
 
-Ibu Tamma meninjau satu nat asuhan — milik kembar tujuh tahun anak pedagang — dan bertanya kenapa memilih nat itu.
+Ashvarok mengambil kendali suara. "Haruskah ada?"
 
-"Karena dia paling dekat sama warung ibu," jawab salah satu kembar. "Jadi kalau kami sakit dan tidak bisa datang, dia tetap didatangi ibu."
+"Tahun lalu kamu selalu menghitung harga. Remainder, ingatan, tahun, utang."
 
-Ibu Tamma diam lama. Lalu berkata kepada Ashvarok-Renn yang kebetulan lewat:
+Renn menunggu jawaban dari dalam. Ashvarok memandang bekas luka tipis di pergelangan kiri mereka, lalu halaman yang dipenuhi tulisan orang lain.
 
-"Nak. Dengar itu? Anak tujuh tahun sudah paham konsep cadangan perawatan."
+"Tidak," katanya. "Neraca ini tidak perlu lunas. Kalau lunas, kita bisa menutup bukunya."
 
-Renn: "Dia lebih maju dari Dewan Regional."
+Sela menyentuhkan ujung pena pada ruang kosong yang tadi ia sisakan untuk nama-nama yang belum datang. "Bagus. Tahun depan kita tambah halaman."
 
-Ashvarok: "Dewan Regional butuh tiga rapat untuk keputusan yang sama."
-
----
-
-Dan malamnya, sebelum tidur, satu percakapan pendek antara dua penghuni — dicatat nat lorong lewat irama (karena suara sudah terlalu pelan):
-
-Renn: 'Kak. Seribu tahun silam kamu sendirian. Delapan bulan aku sendirian di dalam. Sekarang kita berdua... tidak ada yang sendirian lagi.'
-
-Ashvarok: 'Itu kesimpulan tahun ini?'
-
-Renn: 'Bukan. Kesimpulan tahun ini: sup Kamp Pertama paling enak kalau dimakan berdua.'
-
-Ashvarok: '...itu juga benar.'
-
-Dan tubuh itu tertidur — dua napas, satu irama, hangat.
+Mereka meninggalkan ruang itu kosong.
 
 ---
 
-Dan subuhnya — sebelum semua orang bangun, seperti biasa — satu entri terakhir ditulis di neraca tahunan oleh tangan yang sudah menjadi milik bersama:
+Subuh pertama tahun kedua menemukan Renn-Ashvarok di lorong barak utara. Mereka membawa dua cangkir teh dingin. Satu diletakkan di sisi nat the Once-Silent. Satu lagi di ujung meja batu, untuk siapa pun yang lewat dan membutuhkannya.
 
-Hari 891 + 365 = 1.256.
+Kota belum bangun sepenuhnya. Dari dapur terdengar kayu tungku patah dan suara ibu Tamma memarahi panci. Di kejauhan Brannoc membuka kisi lorong. Udara mencium batu basah, teh pahit, dan asap pertama pagi.
 
-Satu tahun era menyapa. Empat ratus jiwa pulang. Empat puluh sembilan lahir. Dua jiwa berbagi satu rumah. Nol yang menunggu tanpa dilihat.
+Renn mengetuk nat tiga kali.
 
-Tahun depan: lebih banyak nat asuhan, lebih banyak angkatan sekolah, lebih banyak sup.
+"Setahun lalu aku bertanya ada siapa di sana," kata Ashvarok.
 
-Dan kalau ada yang bertanya kapan semuanya ini akan selesai...
+"Dan batu menjawab," sahut Renn.
 
-jawabannya tetap yang dulu:
+"Tidak. Yang pertama menjawab adalah kau, dari dalam tubuh ini. Batu-batu setelahnya hanya menunjukkan jalan agar aku mau mendengar."
 
-Tidak akan pernah. Karena menyapa bukan proyek. Menyapa adalah cara hidup.
+Nat menghangat di bawah telapak mereka. Irama panjang bergerak melalui batu, akrab hingga Kovan tak diperlukan untuk menerjemahkannya.
 
-— Akhir buku besar pemulangan Karvess.
-— Awal dari segala hal lainnya.
+Kebiasaan datang lebih kuat daripada nama yang dipahat.
 
----
+"Aku pernah membakar namaku karena takut dunia melupakanku," kata Ashvarok. "Ternyata cara agar tidak dilupakan jauh lebih sederhana."
 
-Subuh itu juga, sebelum menutup neraca selamanya, Ashvarok dan Renn melakukan hal yang sama seperti setahun silam — berjalan ke nat lorong barak utara.
+"Datang lagi besok?"
 
-Namun kali ini bukan untuk meminta.
+"Dan lusa."
 
-Mereka datang membawa dua cangkir teh dingin. Satu untuk nat. Satu diletakkan di sisi kosong — "untuk siapa pun yang lewat dan butuh".
+"Setelah sarapan."
 
-"Setahun yang lalu aku bertanya 'ada siapa di sana'," kata Ashvarok.
+"Kau selalu menambahkan syarat itu."
 
-"Dan batu menjawab," kata Renn.
+"Karena orang lapar menyapa dengan buruk. Sudah jadi pidato resmi."
 
-"Tidak." Ashvarok menggeleng pelan, senyum kecil di wajah tubuh mereka. "Yang menjawab adalah KAU — dari dalam sana. Semua jawaban setelah itu hanya gema."
+Mereka duduk sampai langkah pertama terdengar di ujung lorong. Seorang anak yang hendak menuju the Listening School berhenti, mengucapkan selamat pagi kepada nat, lalu mengambil cangkir di sisi kosong. Sebelum pergi, ia mengisinya kembali dari kendi kecil miliknya.
 
-Nat tua menyala hangat. Dan iramanya — oleh kedua penghuni tidak perlu diterjemahkan lagi:
+Tak ada protokol yang menyuruhnya.
 
-Selamat tahun baru, anak-anak. Datang lagi kapan saja.
+Renn menyandarkan kedua siku di meja batu. "Hari ini kita menjaga apa?"
 
-Pintunya tidak pernah tutup.
+Ashvarok membuka tangan mereka di atas nat. Tidak ada kunci untuk diputar, tidak ada nama yang harus dibakar. Hanya satu retakan rambut di tepi sambungan, cukup kecil untuk ditandai dan diperiksa bersama Brannoc setelah sarapan.
+
+"Yang ini dulu," katanya.
+
+Mereka menandai retakan dengan kapur, menghabiskan teh, lalu mengetuk meja tiga kali sebelum beranjak. Di belakang mereka, nat membalas. Di depan, pintu the Listening School mulai terbuka untuk hari pertama tahun kedua.

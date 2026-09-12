@@ -5,7 +5,7 @@ chapter: 72
 
 Surat izin itu sampai ke meja Ossian pada pagi hari kesembilan puluh satu dengan cap balai kota yang masih lembut, dan ia membacanya dua kali bukan karena isinya sulit dipahami, melainkan karena isinya terlalu mudah. Empat puluh hari. Efektif sejak tanda tangan wali kota. Alasannya tertulis dalam bahasa sanitasi dan pemetaan yang tidak bisa dibantah siapa pun. Penilaian ulang struktur kedalaman memerlukan pengosongan sementara distrik timur demi keselamatan penduduk. Tidak ada kata tambang. Tidak ada kata panen. Kertas itu bersih seperti kertas yang sudah dibersihkan dua kali.
 
-Ia menyusun tiga lembar untuk audiensi sore: salinan izin, rancangan peraturan pelaksanaan pemindahan, dan lampiran kompensasi. Lampiran itulah yang ia membaca paling lama. Angka-angkanya murah, dan kemurahan itu harus dikemas dengan cara yang membuat kemurahannya sendiri tidak kelihatan. Dalam drafnya, setiap kepala keluarga penerima akan menerima "dana pemulihan" — nama yang indah untuk jumlah yang hanya cukup membayar troli angkutan dan bulan pertama sewa di tempat yang lebih buruk. Nama-nama besar selalu gratis. Angka-angka kecilnya yang dibayar orang.
+Ia menyusun tiga lembar untuk audiensi sore: salinan izin, rancangan peraturan pelaksanaan pemindahan, dan lampiran kompensasi. Lampiran itulah yang ia baca paling lama. Angka-angkanya murah, dan kemurahan itu harus dikemas dengan cara yang membuat kemurahannya sendiri tidak kelihatan. Dalam drafnya, setiap kepala keluarga penerima akan menerima "dana pemulihan" — nama yang indah untuk jumlah yang hanya cukup membayar troli angkutan dan bulan pertama sewa di tempat yang lebih buruk. Nama-nama besar selalu gratis. Angka-angka kecilnya yang dibayar orang.
 
 Tengah hari, utusan Koordinasi datang membawa kabar bahwa Tharrow sudah menyiapkan sesuatu tanpa diperintahkan — jadwal antrean penerima santunan versi baru, disusun per blok, dengan kolom tanda terima yang bisa ditandatangani sekali untuk seluruh paket pemindahan. Efisien. Terlalu efisien. Ossian memandangi jadwal itu beberapa waktu dan merasakan sesuatu yang jarang ia rasakan atas pekerjaan orang lain — kebanggaan yang disertai gelisah, seperti pemilik tungku melihat api yang sudah tidak butuh dikendalikan.
 
@@ -41,7 +41,7 @@ Di koridor Quota Office, ketika ia mampir sebelum kembali ke penginapan, Kel Tha
 
 "Tanda terima paket dibuka hari ketiga setelah izin efektif," kata Tharrow, membacakan sambil berjalan, dengan kecepatan pegawai yang sudah hafal isinya. "Antrean per blok, timur lebih dulu supaya tidak ada yang mengantre dua kali. Pos penimbangan dua, bukan satu, karena kemarin antrean santunan macet empat puluh menit dan empat keluarga pulang tanpa ditimbang. Kurir troli dikontrak per pekan, bukan per perjalanan — lebih murah sepertiga." Ia menyerahkan lembar itu. "Semua sudah saya paraf. Anda hanya perlu tanda tangan terakhir kalau Anda setuju, atau catatan kalau Anda tidak."
 
-Ossian membaca daftar itu di tempat. Semua benar. Bukan benar yang patuh — benar yang paham. Orang-orang ini sudah diajari cara berpikirnya, urutan prioritasnya, bahkan caranya memperkirakan apa yang akan ia tanyakan sebelum ia bertanya. Belum dua bulan lalu lelaki ini menanam bukti di gudang mandor karena tidak sanggup menang dengan cara lain. Kini lelaki ini memangkas waktu antrean.
+Ossian membaca daftar itu di tempat. Semua benar. Bukan benar yang patuh — benar yang paham. Orang-orang ini sudah diajari cara berpikirnya, urutan prioritasnya, bahkan caranya memperkirakan apa yang akan ia tanyakan sebelum ia bertanya. Belum dua bulan lalu lelaki ini menanam bukti di gudang Foreman karena tidak sanggup menang dengan cara lain. Kini lelaki ini memangkas waktu antrean.
 
 "Empat puluh hari," kata Ossian. "Menurut Anda, apa yang bisa membuatnya gagal?"
 
@@ -49,7 +49,7 @@ Tharrow memikirkannya sungguh-sungguh, dan itu juga jawaban yang diajari — per
 
 "Dokumen seperti itu tidak ada," kata Ossian.
 
-"Saya juga pikir begitu, Tuan. Namun barak barusan mendapat mandor yang mengajari mereka bahwa ada harga untuk segala sesuatu — termasuk untuk menolak." Tharrow menunduk sedikit, sopan sampai akhir. "Kalau izin sudah efektif, saya mulai buka antrean besok lusa."
+"Saya juga pikir begitu, Tuan. Namun barak baru saja belajar dari Foreman mereka bahwa ada harga untuk segala sesuatu — termasuk untuk menolak." Tharrow menunduk sedikit, sopan sampai akhir. "Kalau izin sudah efektif, saya mulai buka antrean besok lusa."
 
 Malam itu, di penginapan distrik atas, mesin pemindahan berjalan di sekeliling Ossian tanpa perlu digerakkan.
 
@@ -63,7 +63,7 @@ Ia menjawabnya dengan cara biasa, dengan fakta. Butuh. Masih butuh. Panen resmi 
 
 Ia menulis jadwal di buku pribadinya — hari kesembilan puluh dua sebagai hari nol, empat puluh kotak kosong di depannya. Pada kotak keempat puluh ia berhenti. Di sana, menurut hitungannya sendiri, distrik timur harus sudah sunyi, panen resmi harus sudah dimulai, dan bagi hasil triwulanan pertama harus sudah tercatat — semua sebelum Spire bertanya kenapa belum. Mesin tidak boleh berhenti; mesin yang berhenti menanyakan siapa yang menyalakannya.
 
-Yang menarik perhatiannya justru satu baris kecil di laporan Tharrow, hampir sampingannya. Tiga keluarga galeri sembilan menolak paket pertama dengan alasan "sumur kami baru digali ulang, airnya enak". Alasan yang bodoh. Alasan yang tidak bisa dilawan dengan pasal mana pun, karena pasal tidak bisa menjawab soal rasa air.
+Yang menarik perhatiannya justru satu baris kecil di laporan Tharrow, hampir sampingannya. Tiga keluarga galeri sembilan menyatakan akan menolak paket pertama dengan alasan "sumur kami baru digali ulang, airnya enak". Alasan yang bodoh. Alasan yang tidak bisa dilawan dengan pasal mana pun, karena pasal tidak bisa menjawab soal rasa air.
 
 Ossian membaca baris itu dua kali, seperti pagi tadi ia membaca izin itu dua kali, dan menandainya dengan garis tipis. Orang-orang yang menolak demi rasa air adalah orang yang masih merasa tempat itu milik mereka — dan kepemilikan semacam itu, menurut seluruh pengalamannya, jauh lebih sulit dibeli daripada kelaparan.
 

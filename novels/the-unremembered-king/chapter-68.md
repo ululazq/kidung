@@ -3,13 +3,13 @@ title: "Bab 68: Lempeng Cadangan"
 chapter: 68
 ---
 
-Ashvarok sudah lama tahu malam itu akan datang, karena janji yang diucapkan orang yang merasa dipermalukan adalah janji yang paling tepat waktu. Tiga tanda muncul dalam sepuluh hari: Kovan berhenti mengintip pasar dan mulai membeli barang-barang kecil dengan uang pribadinya — seutas kawat tembaga, dua keping mangkuk logam tipis, lilin penyegel murah. Lempeng pengukur resminya dikirim turun ke bawah untuk kalibrasi pada hari yang tidak masuk jadwal kalibrasi. Dan pada sore Kapat, penjaga shift lorong tujuh berganti lebih cepat dari biasa, dengan rotasi yang meninggalkan persimpangan kosong selama seperempat jam pada pergantian malam Rabat.
+Ashvarok sudah lama tahu malam itu akan datang, karena janji yang diucapkan orang yang merasa dipermalukan adalah janji yang paling tepat waktu. Tiga tanda muncul dalam sepuluh hari: Kovan berhenti mengintip pasar dan mulai membeli barang-barang kecil dengan uang pribadinya — seutas kawat tembaga, dua keping mangkuk logam tipis, lilin penyegel murah. Lempeng pengukur resminya dikirim turun ke bawah untuk kalibrasi pada hari yang tidak masuk jadwal kalibrasi. Dan pada sore Kapat, Shift Guard lorong tujuh berganti lebih cepat dari biasa, dengan rotasi yang meninggalkan persimpangan kosong selama seperempat jam pada pergantian malam Rabat.
 
 Semua tanda menunjuk satu jam — malam Rabat, hari kedelapan puluh enam, pergantian shift. Tanpa izin, tanpa catatan, tanpa saksi. Persis seperti yang disusun orang itu dalam kepala sejak lama.
 
 Yang berubah adalah jawabannya.
 
-Setahun penuh Ashvarok menjawab perangkat-perangkat seperti itu dengan cara yang sama — memadamkan gema sebelum dibaca, membungkus kebohongan dengan Ash, meninggalkan ruangan yang bersih karena dibersihkan paksa. Cara itu mahal, meninggalkan abu yang mengingat, dan setiap pemakaian adalah undangan bagi pembaca yang cukup tua untuk membaca abu. Malam ini ia memilih jalan yang belum pernah ia pilih di hadapan alat mana pun — tidak melakukan apa-apa. Biarkan tubuh ini dibaca apa adanya — gema bocah tambang yang tipis, jalur parut tua di pergelangan kiri, kelelahan akhir pekan yang jujur. Tanpa Cinder, tanpa Ash, tanpa satu helai pun tenunan raja. Penyamarannya bukan lagi topeng yang harus ditopang. Sudah setahun tubuh ini hidup sebagai Renn, dan malam ini ia bertaruh bahwa kebenaran permukaannya sendiri sudah cukup membosankan.
+Dua bulan penuh Ashvarok menjawab perangkat-perangkat seperti itu dengan cara yang sama — memadamkan gema sebelum dibaca, membungkus kebohongan dengan Ash, meninggalkan ruangan yang bersih karena dibersihkan paksa. Cara itu mahal, meninggalkan abu yang mengingat, dan setiap pemakaian adalah undangan bagi pembaca yang cukup tua untuk membaca abu. Malam ini ia memilih jalan yang belum pernah ia pilih di hadapan alat mana pun — tidak melakukan apa-apa. Biarkan tubuh ini dibaca apa adanya — gema bocah tambang yang tipis, jalur parut tua di pergelangan kiri, kelelahan akhir pekan yang jujur. Tanpa Cinder, tanpa Ash, tanpa satu helai pun tenunan raja. Penyamarannya bukan lagi topeng yang harus ditopang. Sudah dua bulan tubuh ini hidup sebagai Renn, dan malam ini ia berdiri tanpa menahan satu pun bagiannya.
 
 "Kamu diam sekali," kata Sela sebelum ia berangkat, menatapnya dari atas papan tulisnya. "Diam yang macam apa?"
 
@@ -17,7 +17,7 @@ Setahun penuh Ashvarok menjawab perangkat-perangkat seperti itu dengan cara yang
 
 Sebelum berangkat ia sempat singgah ke gudang perkakas, karena rencana semacam ini wajib diberitahu kepada satu orang — orang yang akan mengatur cerita kalau malam ini salah jalannya.
 
-"Malam ini bocah lorong tujuh diuji," katanya. "Tanpa izin, tanpa catatan. malam Rabat, pergantian shift."
+"Malam ini bocah lorong tujuh diuji," katanya. "Tanpa izin, tanpa catatan. Malam Rabat, pergantian shift."
 
 Brannoc menoleh dari raknya pelan-pelan. "Kamu tahu dari mana?"
 
@@ -27,11 +27,11 @@ Brannoc menoleh dari raknya pelan-pelan. "Kamu tahu dari mana?"
 
 "Tidak. Malam ini aku tidak memakai apa pun untuk menjawabnya. Tidak ada pemadaman, tidak ada pembungkus. Biar dibaca apa adanya."
 
-Gudang itu hening cukup lama sampai bunyi tungku jauh di tingkat bawah terdengar seperti pasang surut. Brannoc meletakkan palunya, dan ketika bicara lagi suaranya turun setengah nada. "Setahun kamu selalu pakai sesuatu. Sekarang mau berdiri telanjang. Kenapa sekarang?"
+Gudang itu hening cukup lama sampai bunyi tungku jauh di tingkat bawah terdengar seperti pasang surut. Brannoc meletakkan palunya, dan ketika bicara lagi suaranya turun setengah nada. "Dua bulan kamu selalu pakai sesuatu. Sekarang mau berdiri telanjang. Kenapa sekarang?"
 
 "Karena semua cara lain sudah pernah dipakai dan semuanya meninggalkan sisa. Ash mengingat. Pemadaman punya tepi. Satu-satunya jawaban yang tidak bisa dibalik oleh pembaca mana pun adalah jawaban yang memang benar: tubuh ini tubuh bocah tambang yang rusak. Aku hanya harus sanggup berdiri diam ketika alat itu menyentuhnya." Ashvarok memandang Foreman itu lurus. "Namun kalau aku salah hitung, dan malam ini ada yang terbaca yang seharusnya tidak —"
 
-"Kalau kau salah hitung," kata Brannoc, memotong, dengan suara mandor yang tidak menerima argumen, "besok pagi ada runtuhan kecil di lorong aman, regu keluar lengkap, dan ceritanya milikku. Seperti biasa. Kamu tinggal jadi bocah yang lewat."
+"Kalau kau salah hitung," kata Brannoc, memotong, dengan suara Foreman yang tidak menerima argumen, "besok pagi ada runtuhan kecil di lorong aman, regu keluar lengkap, dan ceritanya milikku. Seperti biasa. Kamu tinggal jadi bocah yang lewat."
 
 "Satu hal lagi. Jangan dekat persimpangan. Kalau dia melihatmu menunggu di dekat situ, uji pribadinya berubah jadi sidang, dan sidang butuh terdakwa. Biarkan dia merasa sendirian. Orang yang merasa sendirian menguji lebih cepat dan mencatat lebih sedikit."
 
@@ -81,11 +81,11 @@ Hening. Lampu gantung berderit pelan digoyang angin tingkat atas. Lalu Kovan men
 
 "Kau tersandung tepat ketika suara itu terjadi."
 
-"Aku tersandung setiap hari," kata Ashvarok. "Itu kenapa aku jadi kuli, bukan penjaga shift."
+"Aku tersandung setiap hari," kata Ashvarok. "Itu kenapa aku jadi kuli, bukan Shift Guard."
 
 Kovan menatapnya lama — tatapan orang yang memegang dua lembar fakta yang saling menolak dan tidak boleh membuang salah satunya. Pengalaman bilang ada suara di dasar timur, dan suara itu disapa seseorang. Angka bilang bocah di depannya kosong, lelah, dan lututnya buruk. Salah satu harus salah, dan orang itu sudah dua kali dihukum dunia karena memilih angka yang keliru, dan sekarang ditawari angka yang keliru lagi oleh instrumennya sendiri.
 
-"Ujianya selesai," kata Kovan akhirnya, memungut lempengnya. "Pergi."
+"Ujiannya selesai," kata Kovan akhirnya, memungut lempengnya. "Pergi."
 
 Ashvarok berjalan ke arah troli, langkah bocah tambang yang ingin istirahat, tidak lebih cepat dari biasa, tidak lebih lambat. Di belakangnya, ia mendengar Kovan tidak langsung pergi: bunyi lempeng disusun ulang, bunyi kawat tembaga digulung pelan-pelan, dan lama sekali tidak ada langkah yang meninggalkan persimpangan. Orang itu masih berdiri di sana ketika belokan lorong menutup pandangan — berdiri di tengah teorinya yang habis, dengan dua daftar di sakunya yang kini keduanya bilang hal yang berbeda.
 

@@ -31,7 +31,7 @@ Brannoc mengunyah akar pahitnya lebih pelan dari biasanya.
 
 "Nama apa yang hanya boleh dipakai satu tujuan?"
 
-"Ganti-nama." Ashvarok memandang lampu yang bergetar tipis di cermin minyaknya. "Ada nama yang tidak boleh diucapkan bukan karena sakral, tetapi karena sudah tidak ada. Kalau nama seseorang dibakar sampai akarnya, maka setiap ritus yang masih butuh menyapa orang itu akan memakai nama pengganti, supaya panggilan itu sampai ke jabatannya tanpa menyentuh luka bekas namanya. Ganti-nama itu bukan julukan. Ia kunci pintu cadangan. Selama aku mengenal tradisi itu, ganti-nama itu hanya pernah dipakai untuk satu jabatan, yaitu jabatan yang tubuhnya menjadi kunci bagi pengikat-pengikat besar."
+"Ganti-nama." Ashvarok memandang lampu yang bergetar tipis di cermin minyaknya. "Ada nama yang tidak boleh diucapkan bukan karena sakral, tetapi karena sudah tidak ada. Kalau nama seseorang dibakar sampai akarnya, maka setiap ritus yang masih butuh menyapa orang itu akan memakai nama pengganti, supaya panggilan itu sampai ke jabatannya tanpa menyentuh luka bekas namanya. Ganti-nama itu bukan julukan. Ia kunci pintu cadangan. Selama aku mengenal tradisi itu, replacement-name itu hanya pernah dipakai untuk satu jabatan, yaitu jabatan yang tubuhnya menjadi kunci bagi pengikat-pengikat besar."
 
 Ruangan itu diam. Di luar, troli terakhir malam berbunyi samar di tingkat atas, dan bunyi itu terdengar sangat hidup dibandingkan isi kepala kedua orang di gudang ini.
 
@@ -41,7 +41,7 @@ Ruangan itu diam. Di luar, troli terakhir malam berbunyi samar di tingkat atas, 
 
 ---
 
-Ia turun sendirian malam itu juga lewat jalur patroli yang sah, dengan izin undian mingguan miliknya, dan Brannoc berjalan sampai titik persimpangan sesuai protokol pasangan lalu berhenti di sana. Lorong menuju galeri sembilan dingin seperti biasa, gelap seperti biasa, dan nat tua di dindingnya tetap kosong bagi telapak tangannya, tetapi malam ini ia membaca batu itu dengan cara yang berbeda, karena ia kini tahu bahasa apa yang pernah lewat di atasnya.
+Ia turun sendirian malam itu juga lewat jalur patroli yang sah, dengan izin undian mingguan miliknya, dan Brannoc berjalan sampai titik persimpangan sesuai paired-guard protocol lalu berhenti di sana. Lorong menuju galeri sembilan dingin seperti biasa, gelap seperti biasa, dan nat tua di dindingnya tetap kosong bagi telapak tangannya, tetapi malam ini ia membaca batu itu dengan cara yang berbeda, karena ia kini tahu bahasa apa yang pernah lewat di atasnya.
 
 Jejak arah dari dua malam lalu sudah memudar, seperti jejak kaki di debu halus yang disentuh angka. Yang tersisa hanya arahnya, dari dalam ke luar, menyusuri urat tua yang sama, berhenti di garis ambang. Ia berdiri lama di luar garis itu, pada jarak yang selalu ia hormati, dan membiarkan dirinya menghitung apa yang sekarang bisa dihitung.
 

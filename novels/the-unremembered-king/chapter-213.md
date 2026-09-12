@@ -82,7 +82,7 @@ Dan pertanyaan baru untuk daftar pekan depan, ditulis tangan Sela: "kalau api bi
 
 Kabar pembacaan Karveth-Ulm sampai ke tempat yang tidak disangka siapa pun: Anthema Spire.
 
-Suratnya datang seminggu kemudian, dengan segel Dewan Regional — dan bukan berisi pertanyaan atau keberatan, melainkan permintaan: apakah the Patient House bersedia menerima kunjungan belajar dari para penilai Guild? "Wilayah Karvess memiliki artefak-artefak zaman purba yang selama ini diklasifikasikan mati," tulis surat itu, "jika benar bahwa objek non-manusia dapat menyimpan penitipan aktif, maka ribuan klasifikasi perlu ditinjau ulang."
+Suratnya datang seminggu kemudian, dengan segel the Regional Council — dan bukan berisi pertanyaan atau keberatan, melainkan permintaan: apakah the Patient House bersedia menerima kunjungan belajar dari para penilai Guild? "Wilayah Karvess memiliki artefak-artefak zaman purba yang selama ini diklasifikasikan mati," tulis surat itu, "jika benar bahwa objek non-manusia dapat menyimpan penitipan aktif, maka ribuan klasifikasi perlu ditinjau ulang."
 
 Ashvarok membawa surat itu kepada kedalaman lewat nat barat, membacakannya, lalu bertanya: "Maukah kau menerima mereka? Mereka orang-orang yang dulu mengukur dan menilai seperti mengukur barang."
 
@@ -92,7 +92,7 @@ Jawaban kedalaman datang setelah jeda yang panjang — dan isinya membuat Ashvar
 
 Kalimat itu diteruskan ke Spire tanpa diedit, dan balasannya tiga hari kemudian, hanya dua baris, yang oleh Maera dibacakan dua kali karena tidak percaya:
 
-"Dewan Regional menerima syarat tersebut. Ini surat pertama dalam sejarah Spire yang mengajari kita sopan santun. Kunjungan pertama bulan depan. Kami akan membawa makan malam."
+"the Regional Council menerima syarat tersebut. Ini surat pertama dalam sejarah Spire yang mengajari kita sopan santun. Kunjungan pertama bulan depan. Kami akan membawa makan malam."
 
 Sela menutup arsip pekan itu dengan entri yang tidak akan ia baca ulang tanpa tersenyum:
 

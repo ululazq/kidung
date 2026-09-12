@@ -9,11 +9,11 @@ Sela berdiri di lorong yang bukan lorong mana pun — lantainya batu tambang, te
 
 Satu. Dua. Tiga.
 
-Setahun penuh mimpi ini, dan Sela sudah hafal hukum-hukumnya seperti menghafal kolom-kolom papannya. Ash Man tidak pernah mendekat. Ash Man tidak pernah menoleh. Dan hitungannya selalu, tanpa gagal, berhenti di angka dua belas — dulu dengan bunyi yang tuntas seperti pintu ditutup, belakangan dengan diam panjang yang menakutkan, seperti orang yang menimbang apakah daftarnya cukup panjang untuk ditambah satu nama lagi.
+Enam malam mimpi ini, dan Sela sudah hafal hukum-hukumnya seperti menghafal kolom-kolom papannya. Ash Man tidak pernah mendekat. Ash Man tidak pernah menoleh. Dan hitungannya selalu, tanpa gagal, berhenti di angka dua belas — dulu dengan bunyi yang tuntas seperti pintu ditutup, belakangan dengan diam panjang yang menakutkan, seperti orang yang menimbang apakah daftarnya cukup panjang untuk ditambah satu nama lagi.
 
 Tujuh. Delapan.
 
-Malam itu ada sesuatu yang berbeda pada suara hitungannya. Bukan bunyi — ash man tidak pernah bersuara — melainkan bobotnya, seolah setiap angka kini ditulis dengan kapur yang lebih besar. Dan lorong itu, yang selama setahun tetap pada jarak yang sama, malam ini sedang menyempit dengan cara yang tidak bisa disebut bergerak.
+Malam itu bobot hitungannya berbeda. Bukan bunyi — ash man tidak pernah bersuara — melainkan tekanan yang membuat setiap angka terasa ditulis dengan kapur lebih besar. Dan lorong itu, yang selama enam malam tetap pada jarak yang sama, malam ini sedang menyempit dengan cara yang tidak bisa disebut bergerak.
 
 Sepuluh. Sebelas. Dua belas.
 
@@ -21,7 +21,7 @@ Diam panjang yang biasa itu datang. Sela menghitung tarikan napasnya sendiri unt
 
 Tiga belas.
 
-Angka itu tidak bersuara. Angka itu hanya jatuh ke tempatnya, seperti keping timbangan terakhir yang membuat neraca memutuskan, dan Sela mendengar dirinya sendiri berkata, di dalam mimpinya, dengan suara bocah sebelas tahun yang tidak mau takut lagi:
+Angka itu tidak bersuara. Angka itu hanya jatuh ke tempatnya, seperti keping timbangan terakhir yang membuat neraca memutuskan, dan Sela mendengar dirinya sendiri berkata di dalam mimpi:
 
 "Kau berbalik sekarang."
 
@@ -29,7 +29,7 @@ Dan ash man berbalik.
 
 Wajahnya adalah wajah kakaknya.
 
-Bukan mirip. Bukan menyerupai. Wajah itu adalah wajah Renn yang dicuci dari semua usia dan semua kelelahan — wajah yang lebih tua daripada lima belas tahun dengan cara yang tidak bisa dijelaskan pakai umur, wajah yang sedang sangat, sangat lelah. Tidak ada gigi. Tidak ada taring. Tidak ada apa pun yang layak masuk cerita hantu anak barak. Ada hanya mata kakaknya sendiri, yang menatapnya melintasi setahun diam, dan mulutnya yang bergerak membentuk dua suku kata tanpa suara — namanya, Sela tahu pasti itu namanya, meski mimpinya tidak memberikan bunyinya.
+Bukan mirip. Bukan menyerupai. Wajah itu adalah wajah Renn yang dicuci dari semua usia dan semua kelelahan — wajah yang lebih tua daripada lima belas tahun dengan cara yang tidak bisa dijelaskan pakai umur, wajah yang sedang sangat, sangat lelah. Tidak ada gigi. Tidak ada taring. Tidak ada apa pun yang layak masuk cerita hantu anak barak. Ada hanya mata kakaknya sendiri, yang menatapnya melintasi enam malam diam, dan mulutnya yang bergerak membentuk dua suku kata tanpa suara — namanya, Sela tahu pasti itu namanya, meski mimpinya tidak memberikan bunyinya.
 
 Lalu lorong itu padam seperti lilin ditiup, dan Sela terbangun.
 
@@ -37,7 +37,7 @@ Lalu lorong itu padam seperti lilin ditiup, dan Sela terbangun.
 
 Ia tidak berteriak. Barak telah mempelajari perbedaan antara teriakan dan urusan, dan Sela telah mempelajarinya lebih dulu daripada semua orang.
 
-Yang ia lakukan adalah turun dari ranjangnya, melewati empat blok tidur dengan langkah yang dilatih, dan berlutut di samping ranjang kakaknya. Kakinya dingin. Jantungnya tidak. Protokol itu disepakati dua kali dalam setahun terakhir, pertama sebagai janji anak-anak, kedua sebagai janji yang lebih tua dan lebih berat: kalau tiga belas, bangunkan aku.
+Yang ia lakukan adalah turun dari ranjangnya, melewati empat blok tidur dengan langkah yang dilatih, dan berlutut di samping ranjang kakaknya. Kakinya dingin. Jantungnya tidak. Protokol itu disepakati dua kali selama dua bulan terakhir, pertama sebagai janji anak-anak, kedua sebagai janji yang lebih tua dan lebih berat: kalau tiga belas, bangunkan aku.
 
 "Tiga belas," bisiknya, sambil menarik bahu Renn dengan dua tangan. "Kak. Tiga belas."
 
@@ -47,7 +47,7 @@ Bukan padam karena habis minyak. Padam yang benar punya ritme: berkedip, melemah
 
 Dan kemudian nama-nama mulai rontok.
 
-Sela merasakannya bekerja pada dirinya sendiri, dan itulah bagian paling jujur dari malam itu. Bukan pada orang lain, melainkan pada dirinya. Nama kakaknya ada di kepalanya — Renn, Renn — dan untuk tiga tarikan napas, kata itu adalah bunyi saja, sebuah batu yang digulirkan di lidah tanpa isi. Ia tahu orang di ranjang depannya adalah ibu Tamma, tetapi "ibu" adalah gelas kosong dan isinya sudah diminum sesuatu. Di ranjang-ranjung sebelah, orang-orang bangkit dengan gerakan lambat orang yang lupa kenapa mereka bangun, dan mulut-mulut yang setengah terbuka mencari nama sendiri dan tidak menemukan.
+Nama kakaknya ada di kepala Sela — Renn, Renn — tetapi selama tiga tarikan napas, kata itu hanya bunyi, batu yang digulirkan di lidah tanpa isi. Ia tahu orang di ranjang depannya adalah ibu Tamma, tetapi "ibu" menjadi gelas kosong yang isinya sudah diminum sesuatu. Di ranjang-ranjang sebelah, orang-orang bangkit dengan gerakan lambat karena lupa kenapa mereka bangun, mulut setengah terbuka mencari nama sendiri dan tidak menemukannya.
 
 Kalau dinding mulai diam, jangan pernah diam sendirian. Aturan Brannoc, dari malam yang tidak pernah diceritakan utuh kepada siapa pun.
 
@@ -63,21 +63,22 @@ Sunyi itu bergolak. Di suatu tempat, sebuah kepala berputar ke arah suara.
 
 "Ibu Tamma! Nama lengkapmu!"
 
-Dan barak yang setahun dibiasakan memanggil nama tiap malam — barak yang mengeluh, barak yang menertawakan aturan itu, barak yang menyebutnya pemborosan waktu — barak itu malam ini melakukan hal yang dibuat untuk dilakukan aturan itu, tanpa ada satu pun dari mereka yang tahu alasannya. Ibu Tamma menjawab dengan suara yang menebal setiap suku kata. Lalu ibu Tamma, yang daftarnya tersimpan di bawah bantal seperti kitab, bangkit dan mulai memanggil baris demi baris, dan jawaban-jawaban itu datang satu per satu seperti lilin dinyalakan ulang di ruangan yang sama. Renn bangkit dan memanggil nama blok sebelah. Blok sebelah menjawab. Sunyi itu mundur dengan cara air surut — tidak kabur, melainkan menurun — dan ketika lampu-lampu kecil menyala kembali serentak, empat puluh orang berdiri di tengah malam, memegang nama masing-masing seperti memegang barang yang baru direbut kembali dari pencuri.
+Dan barak yang enam malam dibiasakan memanggil nama tiap malam — barak yang mengeluh, barak yang menertawakan aturan itu, barak yang menyebutnya pemborosan waktu — barak itu malam ini melakukan hal yang dibuat untuk dilakukan aturan itu, tanpa ada satu pun dari mereka yang tahu alasannya. Ibu Tamma menjawab dengan suara yang menebal setiap suku kata. Lalu ibu Tamma, yang daftarnya tersimpan di bawah bantal seperti kitab, bangkit dan mulai memanggil baris demi baris, dan jawaban-jawaban itu datang satu per satu seperti lilin dinyalakan ulang di ruangan yang sama. Renn bangkit dan memanggil nama blok sebelah. Blok sebelah menjawab. Sunyi itu mundur dengan cara air surut — tidak kabur, melainkan menurun — dan ketika lampu-lampu kecil menyala kembali serentak, empat puluh orang di barak itu tahu nama mereka lagi, meski beberapa masih harus mengucapkannya dua kali sebelum kata itu terasa milik sendiri.
 
 Seorang perempuan bilik tujuh menangis tanpa suara, karena selama sunyi itu, katanya, ia sudah mencoba mengingat nama anaknya sendiri dan menemukan rak kosong.
 
 ---
 
-Setelahnya, ketika Brannoc tiba berlari dari blok jaga dan barak perlahan dipulangkan ke ranjang masing-masing dengan perintah-perintah pendek yang tidak menerima diskusi, Sela duduk di samping kakaknya di ujung bangku panjang, dan barulah menangis — sebentar saja, dengan tangan yang menutup mulutnya sendiri supaya tidak mengganggu, seorang juru ukur kecil yang selesai mengukur sesuatu yang besar.
+Setelahnya, ketika Brannoc tiba berlari dari blok jaga dan barak perlahan dipulangkan ke ranjang masing-masing dengan perintah-perintah pendek yang tidak menerima diskusi, Sela duduk di samping kakaknya di ujung bangku panjang, dan barulah menangis — sebentar saja, tangan menutup mulut supaya tidak mengganggu.
 
 "Ash Man itu," katanya akhirnya, ketika suaranya bisa dipercaya. "Aku sudah tahu dari awal, tahu? Aku hanya tidak mau mengatakannya, karena selama belum diucapkan, dia bisa jadi siapa saja." Ia menatap Renn tegak-lurus, seperti menatap soal ujian. "Malam ini dia berbalik. Wajahnya wajahmu, Kak. Dan dia menyebut namaku tanpa suara. Hitungan itu bukan tentang orang asing. Hitungan itu tentang kita — tentang barak ini, satu-satu, dan dia sedang memutuskan siapa yang masuk daftar."
 
 Ia menghitung sisanya di ujung jarinya, kebiasaan orang yang belajar menimbang dari Assayer.
 
-"Aku tahu tubuhmu sekarat pelan-pelan dan garis di lenganmu adalah jamnya. Aku tahu kamu menjaga lubang yang bocor di bawah sana dan harganya dibayar dari badanmu sendiri. Aku tahu legenda soal dirimu tumbuh karena kamu menolak jadi dikenal, dan aku tahu kamu melakukannya bukan karena malu." Suaranya tidak naik satu nada pun. Ia telah berlatih kalimat-kalimat ini di kepalanya tanpa sadar, berminggu-minggu, seperti semua hal yang dicatatnya dua kali. "Yang tidak aku tahu hanya dua. Siapa dirimu yang sesungguhnya sebelum kamu masuk ke tubuh kakakku. Dan kenapa ash man dalam mimpiku punya wajahmu padahal setahun penuh dia tidak punya apa-apa."
+"Aku tahu tubuhmu sekarat pelan-pelan dan garis di lenganmu adalah jamnya. Aku tahu ada empat untaian yang menahanmu di tubuh ini, masing-masing dengan harga sendiri. Aku tahu kamu menjaga lubang yang bocor di bawah sana dan harganya dibayar dari badanmu sendiri. Aku tahu nama aslimu pernah ada dan kamu membakarnya sendiri. Aku tahu legenda soal dirimu tumbuh karena kamu menolak jadi dikenal, dan aku tahu kamu melakukannya bukan karena malu." Suaranya tidak naik satu nada pun. Ia telah berlatih kalimat-kalimat ini di kepalanya tanpa sadar, berminggu-minggu, seperti semua hal yang dicatatnya dua kali. "Yang tidak aku tahu hanya dua. Siapa dirimu yang sesungguhnya sebelum kamu masuk ke tubuh kakakku. Dan kenapa ash man dalam mimpiku punya wajahmu padahal enam malam penuh dia tidak punya apa-apa."
 
-Renn tidak membantahnya. Setahun penuh jawaban parsial dan kalimat yang diselesaikan setengah, dan malam ini tubuh kakaknya hanya duduk di sana dengan lelah yang bukan lelah pekerjaan, dan diamnya mengakui segalanya.
+Renn tidak membantahnya. Dua bulan jawaban parsial dan kalimat yang diselesaikan setengah, dan malam ini tubuh kakaknya hanya duduk di sana dengan lelah yang bukan lelah pekerjaan, dan diamnya mengakui segalanya.
+Pengakuan diam itu tidak memberinya nama yang hilang dari mimpi. Ia hanya mempertebal bentuk bahaya yang sudah Sela ukur sejak tubuh kakaknya berhenti menjadi milik satu orang.
 
 "Kamu akan jawab keduanya," kata Sela, "di giliran masing-masing. Aku tidak minta malam ini."
 
@@ -87,7 +88,7 @@ Lalu ia mengeluarkan kapur dari sakunya — kapur yang entah sejak kapan ia bawa
 
 "Malam ini aku memanggil empat puluh nama dan tidak satu pun hilang." Sela menulis di baris terakhir kolomnya, tekanan kapurnya mantap: 13 — DIA BERBALIK. WAJAHNYA WAJAH KAKAKKU. "Aku pikir aku cukup kuat untuk satu pertanyaan, Kak. Kamu yang harus putuskan apakah kamu cukup kuat untuk satu jawaban."
 
-Renn memandangi gadis itu lama — pandangan yang tidak pernah ia dapat dari siapa pun selama setahun, campuran kagum dan sesuatu yang lebih tua daripada kagum — lalu mengangguk sekali, gerakan kecil yang tidak perlu dikatakan apa-apa lagi.
+Renn memandangi gadis itu lama — pandangan yang tidak pernah ia dapat dari siapa pun selama dua bulan, campuran kagum dan sesuatu yang lebih tua daripada kagum — lalu mengangguk sekali, gerakan kecil yang tidak perlu dikatakan apa-apa lagi.
 
 Di seberang barak, Brannoc berdiri di pintu dengan akar pahit yang tidak dikunyah, menimbang baraknya satu per satu seperti menimbang pasukan seusai pertempuran yang tidak ada dalam buku mana pun, dan matanya bertemu mata Sela sebentar — dua orang yang tahu, saling mengangkat dagu sedikit, dan tidak mengatakan apa-apa.
 

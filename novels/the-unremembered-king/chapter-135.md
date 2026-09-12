@@ -41,7 +41,7 @@ Sela menahan dirinya sebentar, lalu mengangguk, dan mencatat harga latihan perta
 
 ---
 
-Penempatan dilakukan malam hari keseratus tujuh, lewat jalur yang sudah hafal oleh tubuhnya lebih daripada jalur-jalur rumahnya sendiri.
+Penempatan dilakukan malam hari keseratus sembilan puluh tujuh, lewat jalur yang sudah hafal oleh tubuhnya lebih daripada jalur-jalur rumahnya sendiri.
 
 Kanal gesekan itu gelap seperti biasa, dingin seperti biasa, dan enam node-nya menjawab pengenalan seperti biasa, getar tipis yang setia di vein-scar. Malam ini jawaban-jawaban kecil itu punya arti baru. Mereka bukan lagi sekadar sapaan pagar kepada pemilik rumah. Mereka sampel. Bahan mentah yang tadi pagi sudah ia makan dengan Ash, dan kini sebagian dirinya yang mengingat sedang dibawa pulang ke rumah semuanya.
 
@@ -53,7 +53,7 @@ Forge menenun pembungkusnya pelan-pelan, simpul demi simpul, dan Ash meletakkan 
 
 Batang batu tua yang tidak penting itu akhirnya diletakkan di ceruk, diputar sedikit supaya permukaannya menjawab gelap seperti tembok, dan ditinggalkan.
 
-Sebelum pergi, ia melakukan satu pemeriksaan terakhir dengan telapak tangannya sendiri, membaca umpan itu dari luar, dengan cara Pembaca Tua membaca, dengan cara pengikat senior membaca, dengan cara segala tradisi tua membaca. Hasilnya tiga lapis. Alat akan membaca batang cinder-glass tua yang wajar. Telinga yang mencari kunci akan membaca gema tidur yang cocok dengan jawaban yang mereka tunggu. Dan mata yang paling tajam sekalipun hanya akan membaca batu tua yang ditinggalkan pekerja malas, barang yang tidak pantas dilaporkan siapa pun kepada siapa pun.
+Sebelum pergi, ia melakukan satu pemeriksaan terakhir dengan telapak tangannya sendiri, membaca umpan itu dari luar, dengan cara the Old Reader membaca, dengan cara pengikat senior membaca, dengan cara segala tradisi tua membaca. Hasilnya tiga lapis. Alat akan membaca batang cinder-glass tua yang wajar. Telinga yang mencari kunci akan membaca gema tidur yang cocok dengan jawaban yang mereka tunggu. Dan mata yang paling tajam sekalipun hanya akan membaca batu tua yang ditinggalkan pekerja malas, barang yang tidak pantas dilaporkan siapa pun kepada siapa pun.
 
 Harganya ia catat malam juga, sendiri, di kolom Hourglass dengan kapur yang ia pinjam tanpa izin dari papan Sela, karena kejujuran pencatatan tidak boleh menunggu esok. Hari 197. Umpan. Lapar tiga hari. Garis parut tetap. Dua seni sekali tempa.
 

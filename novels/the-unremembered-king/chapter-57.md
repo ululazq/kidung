@@ -15,19 +15,19 @@ Tidak ada kaitan dengan zona kedalaman. Dalam delapan pekan karantina, ia belum 
 
 "Ceritakan versi yang tidak masuk laporan."
 
-Kovan memilih kata-katanya dengan hati-hati orang yang pernah salah dua kali dan tidak berniat menambah koleksinya. "Barak itu punya aturan name-roll. Pemborosan waktu — saya catat begitu bulan lalu. Malam ini aturan itu menyelamatkan tujuh belas dari dua puluh orang. Yang menarik bukan itu." Ia berhenti sebentar. "Yang menarik adalah siapa yang masuk lebih dulu ke blok gelap itu. Bukan Foreman. Foreman tiba belakangan dari luar halaman. Yang pertama masuk sendirian ke dalam dua puluh orang yang hilang adalah furnace boy lorong tujuh. Saya tanya empat saksi. Keempatnya menjawab sama persis: dia hanya membantu. Kata yang sama. Nada yang sama. Empat orang tidak berlatih bisa mengeluarkan kalimat yang identik hanya kalau ada satu orang yang mengingatkan mereka bahwa itu cerita yang benar."
+Kovan memilih kata-katanya dengan kehati-hatian orang yang pernah salah dua kali dan tidak berniat menambah koleksinya. "Barak itu punya aturan name-roll. Pemborosan waktu — saya catat begitu bulan lalu. Malam tadi aturan itu menyelamatkan tujuh belas dari dua puluh orang. Yang menarik bukan itu." Ia berhenti sebentar. "Yang menarik adalah siapa yang masuk lebih dulu ke blok gelap itu. Bukan Foreman. Foreman tiba belakangan dari luar halaman. Yang pertama masuk sendirian ke dalam dua puluh orang yang hilang adalah furnace boy lorong tujuh. Saya tanya empat saksi. Keempatnya menjawab sama persis: dia hanya membantu. Kata yang sama. Nada yang sama. Empat orang tidak berlatih bisa mengeluarkan kalimat yang identik hanya kalau ada satu orang yang mengingatkan mereka …
 
 Ossian menimbang hal itu dalam diam. Di luar jendela, Caldrest bergerak pelan seperti kota yang sedang menahan napas. Karantina masih berlaku, dan jawaban Anthema Spire atas permohonan pengikat Anthem-tier masih menunggu di lorong-lorong birokrasi lantai empat puluh yang mulai terasa jauh baginya seperti ibu kota di negeri lain.
 
 "Dan ketiganya," kata Ossian, "yang tidak pulih?"
 
-"Dua pulih sebelum tengah hari. Satu tidak. Lelaki tua galeri sembilan." Kovan merendahkan suaranya tanpa alasan teknis apa pun. "Saya lihat sendiri di halaman. Dia sehat, Tuan. Jalan tegak, makan habis, tertawa sopan. Dia hanya tidak punya nama lagi — dan yang membuat saya tidak tidur, dia tidak kehilangan nama seperti orang lupa. Dia kehilangan nama seperti orang dibohongi bahwa namanya tidak pernah ada."
+"Dua pulih sebelum fajar. Satu tidak. Lelaki tua galeri sembilan." Kovan merendahkan suaranya tanpa alasan teknis apa pun. "Saya lihat sendiri di halaman. Dia sehat, Tuan. Jalan tegak, makan habis, tertawa sopan. Dia hanya tidak punya nama lagi — dan yang membuat saya tidak tidur, dia tidak kehilangan nama seperti orang lupa. Dia kehilangan nama seperti orang dibohongi bahwa namanya tidak pernah ada."
 
 ---
 
 Ossian pergi melihat lelaki itu sendiri pada sore hari, karena ada perbedaan besar antara membaca tentang luka dan berdiri satu hasta darinya, dan dirinya sudah terlalu lama memilih laporan daripada lorong.
 
-Barak sisi barat bau bubur dan lilin murah. Lelaki tua itu duduk dekat jendela dengan selimut yang diberikan tiga orang berbeda padanya, dan ketika Ossian memperkenalkan dirinya dengan jabatan lengkap Koordinasi Artefak Regional, lelaki itu menunduk hormat dan bertanya dengan keramahan yang utuh:
+Barak sisi barat bau bubur dan lilin murah. Lelaki tua itu duduk dekat jendela dengan selimut yang diberikan tiga orang berbeda padanya, dan ketika Ossian memperkenalkan dirinya dengan jabatan lengkap Regional Artifact Coordination, lelaki itu menunduk hormat dan bertanya dengan keramahan yang utuh:
 
 "Maaf, Tuan. Apakah Anda tahu nama saya? Mereka bilang dulu saya punya satu, dan rasanya memang ada tempat kosong di kepala ini yang bentuknya seperti nama."
 
@@ -39,7 +39,7 @@ Ia telah menandatangani penutupan berkas itu karena sectenya memintanya, karena 
 
 "Tidak," jawabnya akhirnya kepada lelaki tua itu, dan suaranya tidak goyah karena latihan panjang dalam tidak goyah. "Tetapi kita akan mencarinya bersama. Itu janji pejabat, dan pejabat yang menjanji di hadapan saksi harus menepati."
 
-Di ambang pintu barak, Brannoc menunggunya dengan sikap mandor yang datang membicarakan kontrak.
+Di ambang pintu barak, Brannoc menunggunya dengan sikap Foreman yang datang membicarakan kontrak.
 
 "Tiga pertanyaan, Tuan," kata Brannoc, tanpa basa-basi, sesuai faksinya. "Aku jawab tiga. Lebih dari itu, surat resmi."
 
@@ -49,13 +49,13 @@ Di ambang pintu barak, Brannoc menunggunya dengan sikap mandor yang datang membi
 
 "Siapa yang mengajarkan aturan itu?"
 
-Brannoc mengunyah akar pahitnya satu kali. "Aturan barak tidak punya guru, Tuan. Aturan barak punya kebiasaan, dan kebiasaan itu tumbuh sendiri kalau orang cukup takut." Tatapan mandor itu tenang, tua, dan menutup seperti pintu besi. "Pertanyaan ketiga Anda?"
+Brannoc mengunyah akar pahitnya satu kali. "Aturan barak tidak punya guru, Tuan. Aturan barak punya kebiasaan, dan kebiasaan itu tumbuh sendiri kalau orang cukup takut." Tatapan Foreman itu tenang, tua, dan menutup seperti pintu besi. "Pertanyaan ketiga Anda?"
 
 "Kalau anak-anak di barak ini hilang ingatan satu blok penuh, kenapa tidak ada satu pun yang panik sampai lari ke lereng?"
 
 "Karena mereka sudah dilatih diam dan disebut namanya," kata Brannoc. "Itu bukan jawaban, itu pengamatan. Terima kasih atas kunjungan resminya, Tuan."
 
-Mandor itu berbalik masuk, dan Ossian membiarkannya pergi, karena tiga jawaban itu justru telah memberinya lebih banyak daripada tiga puluh. Ada orang di barak ini yang mengantisipasi gejala sebelum gejala punya nama, dan orang semacam itu tidak mungkin penduduk. Penduduk bereaksi. Hanya penjaga yang menyiapkan pagar sebelum serigala datang.
+Foreman itu berbalik masuk, dan Ossian membiarkannya pergi, karena tiga jawaban itu justru telah memberinya lebih banyak daripada tiga puluh. Ada orang di barak ini yang mengantisipasi gejala sebelum gejala punya nama, dan orang semacam itu tidak mungkin penduduk. Penduduk bereaksi. Hanya penjaga yang menyiapkan pagar sebelum serigala datang.
 
 ---
 
@@ -64,6 +64,7 @@ Malamnya, di kamar penginapan distrik atas yang lampunya satu sumbu dan mejanya 
 Fakta pertama: anomali kedalaman ditutup manusia, tepat sebelum survei tiba, berkali-kali, dengan presisi yang hanya dimungkinkan oleh pengetahuan jadwal lawannya sendiri. Fakta kedua: gema yang dipadamkan di lempeng ukur tanpa tanda tangan seni mana pun — kekosongan bersih, sangat tua. Fakta ketiga: sosok yang berjalan tenang menuju tambang pada jam yang hilang. Fakta keempat: bocah lorong tujuh yang selalu berada satu langkah di belakang setiap kejadian, terlalu tepat untuk kebetulan dan terlalu rendah profil untuk tersangka, yang empat saksi mengingatkannya untuk berkata "hanya membantu".
 
 Ia menulis fakta kelima malam ini, dan tulisannya lambat, karena menulisnya sama dengan mengaku sesuatu yang mengubah seluruh peta perburuannya.
+Lima fakta itu tidak menunjuk nama. Namun bentuk ruang kosong di antara semuanya sudah cukup untuk menyingkirkan tersangka yang hidup dari untung cepat, dendam singkat, atau jabatan sementara.
 
 Bukan penyelundup. Penyelundup memanen dan lari. Anomali ini ditutup, bukan dipanen — ditambal, bukan dibuka. Bukan pencuri. Pencuri meninggalkan lubang, tetapi lubang-lubang ini justru berhenti bernapas. Metodenya tua — bukan tua seperti usia satu manusia, tua seperti tradisi yang tidak diajarkan lagi di mana pun: irama, geometri, kesabaran menunggu lawan datang sendiri ke pintunya. Orang yang bekerja dengan cara ini tidak belajar dari buku sekarang, karena buku-bukunya sudah tidak ada.
 

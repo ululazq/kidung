@@ -3,7 +3,7 @@ title: "Bab 303: Suara yang Hilang di Lantai"
 chapter: 303
 ---
 
-Ketiga puluh tiga hari setelah buku anomali dibuka. Lapisan baru dari pesisir tiba di simpul Caldrest, membawa kabut dari barat laut dan sepuluh angka baru — bukan angka suhu, melainkan hitungan jeda: berapa kali irama utama berubah di tengah malam.
+Ketiga puluh tiga hari setelah the Anomaly Book dibuka. Lapisan baru dari pesisir tiba di simpul Caldrest, membawa kabut dari barat laut dan sepuluh angka baru — bukan angka suhu, melainkan hitungan jeda: berapa kali irama utama berubah di tengah malam.
 
 Kovan duduk di bangku, menempatkan tiap angka ke dalam kolom yang sudah terbiasa: pagi, siang, malam. Angka di barat laut tidak sesuai pola: *3, 1, 4, 1, 5* — urutan yang tidak pernah muncul dalam setahun penugasan sebelumnya.
 
@@ -15,7 +15,7 @@ Ashvarok-Renn mendengarkan dari kursi sudut. "Barat laut jauh. Ombak membuat ira
 
 Sela duduk di serambi dengan lampu kecil menyala di sudut kamar. Ia menulis ke buku arsip dengan kalimat pendek: *Frekuensi barat laut: 3, 1, 4, 1, 5. Tidak ada pola tahunan. Mungkin angin. Mungkin sungai. Mungkin hanya laut itu sendiri yang berbunyi.*
 
-Di sudut ruangan, Yang Dulu Sunyi mencatat detak pelan. Satu baris menggema: sembunyi. Lalu senyap.
+Di sudut ruangan, the Once-Silent mencatat detak pelan. Satu baris menggema: sembunyi. Lalu senyap.
 
 "Sembunyi?" kata Ashvarok-Renn. "Atau hanya diam?"
 
@@ -41,7 +41,7 @@ Ashvarok-Renn berdiri, berjalan ke sudut barat laut barak. Ia menempelkan telapa
 
 "Apa kita perbaiki lantai?" tanya Brannoc.
 
-"Tidak," jawab Ashvarok-Renn. "Kita catat bedanya. Buku anomali bukan untuk menyamakan. Ia untuk mencatat yang tidak sama, dan memberi alasan kenapa."
+"Tidak," jawab Ashvarok-Renn. "Kita catat bedanya. the Anomaly Book bukan untuk menyamakan. Ia untuk mencatat yang tidak sama, dan memberi alasan kenapa."
 
 Kovan menulis di halaman tujuh. *Barat laut: 3,1,4,1,5 — bukan pola sumber, melainkan saringan lantai kayu basah. Kayu barat menyimpan air, menelan setengah denyut. Koreksi: tambah 0,5 detik pada tiap jeda barat laut bila dibandingkan dengan lantai batu tengah. Catatan Brannoc: papan barat dari lembah barat, delapan belas tahun silam.*
 
@@ -69,7 +69,7 @@ Bocah itu mengetuk lantai barat laut dengan tumit. "Kalau begitu, suara yang hil
 
 Bocah itu tersenyum, lalu pergi. Ashvarok-Renn menatap punggungnya. Delapan belas tahun silam, anak seusia itu tidak akan diajarkan soal retakan. Kini mereka tumbuh dengan tahu bahwa lantai pun punya ingatan.
 
-Malam. Tami-Tomi menutup tungku dengan abu basah. Harn telah pulang. Murid-murid Sekolah Mendengar kembali ke asrama, langkah pelan di papan barak yang berdenyut tiga hentakan lalu jeda.
+Malam. Tami-Tomi menutup tungku dengan abu basah. Harn telah pulang. Murid-murid the Listening School kembali ke asrama, langkah pelan di papan barak yang berdenyut tiga hentakan lalu jeda.
 
 Menjelang tengah malam, Kovan tidak tidur. Ia duduk di bangku dengan lampu kecil, membuka kembali angka barat laut 3,1,4,1,5. Ia menulis ulang tanpa saringan kayu: *3 menjadi 6 bila kayu tidak menelan, 1 menjadi 2, 4 menjadi 8.* Hasilnya: 6,2,8,2,10 — urutan yang mendekati kelipatan tiga detik, hanya terpotong di tengah.
 
@@ -89,17 +89,17 @@ Sela yang mendengar dari serambi mencatat di arsip: *Pesisir dikoreksi: angin da
 
 "Hal yang tidak berubah," kata Sela sambil menulis. "Cara kayu barat menahan air tidak berubah delapan belas tahun. Cara seng pesisir memantulkan angin juga tidak berubah. Yang berubah hanya kacamata kita membacanya."
 
-Ashvarok-Renn tersenyum tipis. "Maka buku anomali bukan buku angka. Ia buku bahan. Angka hanya ikut."
+Ashvarok-Renn tersenyum tipis. "Maka the Anomaly Book bukan buku angka. Ia buku bahan. Angka hanya ikut."
 
-Di sudut ruangan, Yang Dulu Sunyi tidak mencatat lagi; ia hanya ada, seperti dinding, seperti retakan yang tertutup Forge tipis.
+Di sudut ruangan, the Once-Silent tidak mencatat lagi; ia hanya ada, seperti dinding, seperti retakan yang tertutup Forge tipis.
 
-Ashvarok-Renn duduk di kursi sudut. Di pangkuannya, buku anomali terbuka di halaman tujuh. Ia tidak membaca ulang. Ia hanya duduk, dan di bawah telapak tangannya lantai barak berdenyut sama dengan denyut purba yang kini milik seluruh Karvess — hanya di barat laut, denyut itu datang lebih pelan, tertahan kayu yang menyimpan air, menunggu di dalam papan seperti yang dikatakan bocah tadi.
+Ashvarok-Renn duduk di kursi sudut. Di pangkuannya, the Anomaly Book terbuka di halaman tujuh. Ia tidak membaca ulang. Ia hanya duduk, dan di bawah telapak tangannya lantai barak berdenyut sama dengan denyut purba yang kini milik seluruh Karvess — hanya di barat laut, denyut itu datang lebih pelan, tertahan kayu yang menyimpan air, menunggu di dalam papan seperti yang dikatakan bocah tadi.
 
 Ia memejam. Di barat laut, ombak menahan bunyi yang sama, tidak menambah, tidak mengurangi. Di barak, pencatat duduk menghitung frekuensi dari yang diam, dan tidak memberi nama pada apa pun, karena nama adalah hak milik, dan yang berdetak belum layak dimiliki siapa pun.
 
 Di dinding, Brannoc menempelkan kembali papan kayu kecil itu dengan dua paku baru. Bukan untuk memperbaiki. Hanya untuk menandai: di sini, lantai pernah menelan suara, dan kita mencatatnya, bukan menyalahkannya.
 
-Menjelang senja, Ashvarok-Renn memanggil Harn dan dua murid Sekolah Mendengar yang sedang menyapu. Ia tidak memberi ceramah. Ia hanya meminta mereka menempelkan telapak tangan ke lantai barat laut dan ke lantai tengah, bergantian, dan menyebut apa yang mereka rasa.
+Menjelang senja, Ashvarok-Renn memanggil Harn dan dua murid the Listening School yang sedang menyapu. Ia tidak memberi ceramah. Ia hanya meminta mereka menempelkan telapak tangan ke lantai barat laut dan ke lantai tengah, bergantian, dan menyebut apa yang mereka rasa.
 
 "Barat laut pelan," kata Harn.
 
@@ -123,4 +123,4 @@ Kovan mengangguk. "Maka 3,1,4,1,5 bukan lagi misteri. Ia hanya angka yang belum 
 
 Sela mencatat: *Simpan mentah + koreksi — dua angka, satu kebenaran.*
 
-Retakan di bawah tidak menjawab. Ia hanya berdenyut, tiga hentakan lalu jeda, sama dengan denyut purba yang kini milik seluruh Karvess. Di barat laut, hentakan itu hilang setengah di dalam kayu basah, menunggu — bukan hilang, hanya menunggu di dalam bahan yang menahannya, seperti benang yang menunggu di dalam ikatan yang tidak punya nama. Dan di situlah barak belajar menahan, bukan melawan, menunggu di dalam kayu basah bersama benang yang menunggu di dalam ikatan, sampai yang menarik lelah sendiri dan benang tetap utuh. Hari ini. Benang masih utuh hari ini, dan barak menahan bersama kayu basah sampai yang menarik lelah.
+Retakan di bawah tidak menjawab. Ia hanya berdenyut, tiga hentakan lalu jeda, sama dengan denyut purba yang kini milik seluruh Karvess. Di barat laut, hentakan itu hilang setengah di dalam kayu basah, menunggu — bukan hilang, hanya menunggu di dalam bahan yang menahannya, seperti benang yang menunggu di dalam ikatan yang tidak punya nama. Dan di situlah barak belajar menahan, bukan melawan, menunggu di dalam kayu basah bersama benang yang menunggu di dalam ikatan, sampai yang menarik lelah sendiri dan benang tetap utuh. Hari ini. Benang masih utuh hari ini, dan barak menahan bersama kayu basah sampai yang menarik lelah. Ashvarok-Renn menyimpan pesan itu di bawah peta yang belum selesai.

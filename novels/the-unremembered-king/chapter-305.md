@@ -3,7 +3,7 @@ title: "Bab 305: Jaringan yang Diam Bersama"
 chapter: 305
 ---
 
-Subuh hari kedua puluh sejak buku anomali dibuka. Ashvarok-Renn duduk di kursi sudut, di pangkuannya selembar kain kosong dan buku anomali terbuka di halaman delapan.
+Subuh hari kedua puluh sejak the Anomaly Book dibuka. Ashvarok-Renn duduk di kursi sudut, di pangkuannya selembar kain kosong dan the Anomaly Book terbuka di halaman delapan.
 
 Ia telah memahami arah, frekuensi, dan bentuk ikatannya. Yang belum: kecepatan. Kecepatan butuh ukuran berulang, dan ukuran berulang butuh orang di setiap simpul yang tidak lupa menghitung.
 
@@ -11,13 +11,13 @@ Ia telah memahami arah, frekuensi, dan bentuk ikatannya. Yang belum: kecepatan. 
 
 "Maka buatlah jaringan yang diam," kata Kovan. "Bukan laporan tiap hari. Hanya saat angka berubah."
 
-"Itu cara Sekolah Mendengar bekerja," sela Sela dari serambi. "Mereka tidak memanggil tiap hari. Mereka memanggil saat ada yang mati, atau saat ada yang lahir. Kita pakai pola itu: panggil saat selisih berubah, bukan saat tetap."
+"Itu cara the Listening School bekerja," sela Sela dari serambi. "Mereka tidak memanggil tiap hari. Mereka memanggil saat ada yang mati, atau saat ada yang lahir. Kita pakai pola itu: panggil saat selisih berubah, bukan saat tetap."
 
 Ashvarok-Renn mengangguk. Itu bentuk yang masuk akal. Dunia yang diajarkan mendengar sudah punya ritme pelaporan; mereka tinggal meminjamnya, bukan membangun yang baru.
 
-"Maka buku anomali tidak lagi buku harian," kata Ashvarok-Renn. "Ia buku kejadian. Desa menulis hanya bila selisih utara naik, atau jeda panjang bertambah."
+"Maka the Anomaly Book tidak lagi buku harian," kata Ashvarok-Renn. "Ia buku kejadian. Desa menulis hanya bila selisih utara naik, atau jeda panjang bertambah."
 
-Kovan menulis di halaman sembilan: *Sistem: jaringan diam. Desa lapor HANYA saat angka berubah (selisih utara naik / frekuensi jeda naik). Buku anomali = buku kejadian, bukan harian. Kurangi beban, jaga kualitas angka.*
+Kovan menulis di halaman sembilan: *Sistem: jaringan diam. Desa lapor HANYA saat angka berubah (selisih utara naik / frekuensi jeda naik). the Anomaly Book = buku kejadian, bukan harian. Kurangi beban, jaga kualitas angka.*
 
 Lalu Ashvarok-Renn mengambil kain kosong itu. Ia menulis untuk utara, lagi, lewat Maera, lewat Ossian.
 
@@ -63,7 +63,7 @@ Sela berangkat ke tiang pos, membawa kain itu. Saat diselipkan, tiang berkedip d
 
 ---
 
-Menjelang senja, Gella memeriksa buku anomali, bukan untuk angka, melainkan untuk beban.
+Menjelang senja, Gella memeriksa the Anomaly Book, bukan untuk angka, melainkan untuk beban.
 
 "Kalian menambah beban lagi," kata Gella. "Jaringan diam memang mengurangi laporan harian, tetapi menambah beban lain: menunggu. Menunggu lebih melelahkan dari menulis. Orang yang menunggu tanpa tahu kapan harus bersuara akan gelisah, dan gelisah membuat hitungan salah."
 
@@ -81,9 +81,9 @@ Gella menyimpan buku, menatap kain yang baru dikirim ke utara. "Surat kedua ini 
 
 "Siap," jawab Kovan. "Karena jaringan diam tidak kaget oleh angka baru. Ia hanya mencatat saat angka baru datang. Seperti pintu yang hanya dibuka saat ada yang mengetuk."
 
-Malam. Tami-Tomi mengunci dapur. Harn telah pulang ke tepi lembah. Murid-murid Sekolah Mendengar kembali ke asrama, pelita satu per satu padam hingga barak hanya diterangi api perapian yang tidak ikut berdenyut. Di sudut ruangan, Yang Dulu Sunyi mencatat detak pelan: tiga detik. Lalu senyap.
+Malam. Tami-Tomi mengunci dapur. Harn telah pulang ke tepi lembah. Murid-murid the Listening School kembali ke asrama, pelita satu per satu padam hingga barak hanya diterangi api perapian yang tidak ikut berdenyut. Di sudut ruangan, the Once-Silent mencatat detak pelan: tiga detik. Lalu senyap.
 
-Ashvarok-Renn duduk di kursi sudut, buku anomali di pangkuan. Di dalamnya kini sembilan desa, satu anak, satu penjaga malam, satu surat dari utara, dan satu keputusan: jaringan diam. Dua ujung benang yang sama kini sama-sama menghitung, dan musuh yang menarik ikatan tidak akan tahu bahwa ikatan itu diawasi dari dua arah yang tidak saling menyebut.
+Ashvarok-Renn duduk di kursi sudut, the Anomaly Book di pangkuan. Di dalamnya kini sembilan desa, satu anak, satu penjaga malam, satu surat dari utara, dan satu keputusan: jaringan diam. Dua ujung benang yang sama kini sama-sama menghitung, dan musuh yang menarik ikatan tidak akan tahu bahwa ikatan itu diawasi dari dua arah yang tidak saling menyebut.
 
 Ia memejam. Di menara utara, Ossian belum menerima kain itu. Tetapi nat di dindingnya berdenyut lebih keras dari hari sebelumnya, dan ia, seperti Ashvarok-Renn, hanya duduk, menghitung, menunggu — dua pencatat di dua ujung benang yang sama, sepakat tanpa kata untuk tidak menyebut nama yang mereka kejar.
 

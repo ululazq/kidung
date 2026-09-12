@@ -3,7 +3,7 @@ title: "Bab 231: Angkatan Kedua"
 chapter: 231
 ---
 
-Angkatan kedua Sekolah Mendengar berbeda dari angkatan pertama dalam satu hal besar: mereka datang dengan HARAPAN.
+Angkatan kedua the Listening School berbeda dari angkatan pertama dalam satu hal besar: mereka datang dengan HARAPAN.
 
 Bukan harapan kabur semacam "ingin belajar". Sembilan siswa baru tiba di Caldrest dengan daftar pertanyaan tertulis, jadwal kunjungan yang sudah mereka susun sendiri, dan — pada kasus seorang arsiparis Spire bernama Odell — sebuah kotak berisi dua ratus salinan formulir yang ia buat sendiri "untuk dipelajari kenapa ditolak warga timur".
 
@@ -15,13 +15,13 @@ Odell ditempatkan di pos pencatatan pantun lembah selatan — dan dalam dua peka
 
 Sementara itu, Daven, Pellia, dan Thessa menjalani masa transisi mereka sebagai lulusan — status yang oleh Caldrest disebut "sahabat sekolah": boleh pulang ke Spire, boleh tetap tinggal, dan kebanyakan memilih yang ketiga: bolak-balik.
 
-Daven kini resmi menjadi koordinator pemulangan wilayah untuk Dewan Regional — pekerjaan yang membuatnya berkeliling tujuh belas wilayah dengan peta nat Kovan, dan namanya mulai dikenal para kepala kamp sebagai "anak muda yang selalu bertanya dulu".
+Daven kini resmi menjadi koordinator pemulangan wilayah untuk the Regional Council — pekerjaan yang membuatnya berkeliling tujuh belas wilayah dengan peta nat Kovan, dan namanya mulai dikenal para kepala kamp sebagai "anak muda yang selalu bertanya dulu".
 
 Pellia tinggal di Caldrest penuh, belajar langsung dari Barim dan Kovan — jalur pendengar yang kini punya tiga anggota dan satu aturan tak tertulis: pendengar makan terakhir, karena telinga mereka tidak pernah benar-benar selesai bekerja.
 
 Dan Thessa membuka meja makannya di Spire.
 
-Bukan dapur — Spire belum siap menerima ide sebanyak itu — melainkan satu meja panjang di aula kantor Dewan Regional, dilengkapi empat kursi, teko, dan plakat kayu tulisan tangannya sendiri:
+Bukan dapur — Spire belum siap menerima ide sebanyak itu — melainkan satu meja panjang di aula kantor the Regional Council, dilengkapi empat kursi, teko, dan plakat kayu tulisan tangannya sendiri:
 
 "MEJA INI BUKAN RAPAT. Kalau kau duduk di sini, jabatanmu tinggal di tas."
 
@@ -83,7 +83,7 @@ Dalam sebulan, Caldrest punya peta nat kecil lengkap buatan murid akademi (diper
 
 Nama-namanya tidak resmi dan tidak seragam:
 
-Nat tangga arsip disebut "Kawan Baca" — karena arsiparis selalu baca sambil bersandar padanya. Nat sudut pasar tetap "Teman Garam". Nat lorong barak utara, yang memulai semuanya, dipanggil "Yang Dulu Sunyi" — nama yang oleh Barim dinilai "paling jujur dari semua".
+Nat tangga arsip disebut "Kawan Baca" — karena arsiparis selalu baca sambil bersandar padanya. Nat sudut pasar tetap "Teman Garam". Nat lorong barak utara, yang memulai semuanya, dipanggil "the Once-Silent" — nama yang oleh Barim dinilai "paling jujur dari semua".
 
 Dan ketika Sela bertanya apakah nama-nama ini harus masuk kanon resmi, jawaban datang dari tempat tak terduga: nat-nat itu sendiri. Melalui irama yang diterjemahkan Kovan dengan senyum:
 

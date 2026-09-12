@@ -53,7 +53,7 @@ Sore itu, Mira menemui Ashvarok-Renn di serambi menara dengan satu pertanyaan ya
 
 Mira mengangguk pelan. "Jadi penjagaan kita bukan tentang menyembunyikan kunci. Tentang membuat kunci itu tidak terlihat di tempat yang paling jelas."
 
-"Persis." Ashvarok-Renn menutup buku anomali. "Kunci yang paling aman adalah kunci yang tidak terlihat seperti kunci. Seperti perawat tua yang menjaga benang sambil menyapu serambi, atau pengrajin lonceng yang menjaga irama sambil membuat lonceng yang tidak pernah dibunyikan."
+"Persis." Ashvarok-Renn menutup the Anomaly Book. "Kunci yang paling aman adalah kunci yang tidak terlihat seperti kunci. Seperti perawat tua yang menjaga benang sambil menyapu serambi, atau pengrajin lonceng yang menjaga irama sambil membuat lonceng yang tidak pernah dibunyikan."
 
 Malam itu, Ashvarok-Renn berdiri di menara menatap ke utara lalu selatan. "Enam dari tujuh," bisiknya pada malam. "Satu di sini bersama kuncinya yang kedua, satu di barat daya, satu di timur, satu di rawa, satu di tanah selatan. The Wanes memegang batu. Selama napas menyimpan dunia, pintu takkan pernah terbuka."
 
@@ -75,13 +75,13 @@ Brannoc menatap peta itu lama. "Dan titik yang abu-abu di utara?"
 
 "Kalau mereka melemparkannya," kata Kovan, "maka kita tinggal mengambilnya kembali dan menidurkannya di tempat yang lebih aman. Batu tanpa kunci tidak punya kekuatan sendiri. Kekuatannya hanya muncul ketika pemegangnya tahu cara menggunakannya — dan mereka tidak tahu."
 
-Di barak, Sela menambahkan satu baris di bawah catatan world-state-nya: *Jaga jarak dari the Unclaimed. Jangan beri mereka alasan untuk bertanya lebih jauh. Yang paling berbahaya dari batu bukan batu itu sendiri, melainkan pertanyaan yang muncul dari memegangnya.*
+Di barak, Sela menambahkan satu baris di bawah catatan keadaannya: *Jaga jarak dari the Unclaimed. Jangan beri mereka alasan untuk bertanya lebih jauh. Yang paling berbahaya dari batu bukan batu itu sendiri, melainkan pertanyaan yang muncul dari memegangnya.*
 
 Gella membuka buku pemulihan dan mencatat di bawah nama Ashvarok-Renn: *Napas stabil di angka tiga. Batas aman. Batch keempat menuju penutupan.* Ia menutup buku itu dan menghela napas.
 
 Di utara, the Seeker berdiri di tepi danau garam, menatap buku catatan kasarnya. *Batu di tengah cekungan berdenyut tanpa napas,* tulisnya. *Mereka tidak pernah menggali ke arahnya. Mungkin kuncinya bukan benda yang dikubur.* Ia menutup buku sebelum the Keeper melihat, dan untuk pertama kalinya ia bertanya pada dirinya sendiri apakah yang mereka kejar selama ini pernah berbentuk apa yang mereka cari. Ia tidak tahu bahwa pertanyaan itulah yang paling dekat dengan pintu — dan bahwa di ujung selatan, enam napas sedang dijaga oleh orang-orang yang lebih dulu bertanya delapan belas tahun silam.
 
-Di barak, Sela menulis di papan sisi: *World-state: Barak memegang six of the Seven napas. Sisa: the Unclaimed di tangan the Wanes tanpa kunci. Pintu dunia tertidur. Langkah berikut: pastikan mereka tidak pernah tahu bahwa yang mereka pegang hanyalah batu.*
+Di barak, Sela menulis di papan sisi: *Keadaan: Barak memegang six of the Seven napas. Sisa: the Unclaimed di tangan the Wanes tanpa kunci. Pintu dunia tertidur. Langkah berikut: pastikan mereka tidak pernah tahu bahwa yang mereka pegang hanyalah batu.*
 
 Sela membimbing tiga anak angkatan keempat cara meletakkan jari di pergelangan dan menghitung napas di dalam hati. "Napas the Survivor setengah hitungan lebih pendek di subuh," katanya. "Kalian bukan untuk mencurigai, tetapi untuk memastikan kunci tetap hidup. Bila suatu hari kalian merasakan napas yang berbeda, kalian catat, kalian laporkan, kalian tidak bertindak sendiri. Mata tidak menangkap — mata hanya melihat."
 

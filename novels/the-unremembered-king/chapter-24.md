@@ -3,96 +3,250 @@ title: "Bab 24: Besi yang Menua"
 chapter: 24
 ---
 
-Belatinya dibeli tiga shardmark di lorong tepi pasar — patah dua bagian, gagang kayunya dimakan serangga, dan pemiliknya menjualnya dengan wajah orang yang menyingkirkan kenangan buruk. "Besi tua," kata penjualnya. "Dulu punya bapakku, patah waktu dia jatuh dari troli. Tidak laku diperbaiki."
+Garis patah pada belati itu cukup bersih untuk mengingat bentuk lamanya.
 
-"Semua besi bisa diperbaiki," kata Ashvarok, membayar tanpa menawar — dan penjual itu menatapnya seperti orang yang baru melihat seseorang membeli batu nisan untuk dipakai masak.
+Ashvarok memutar kedua potongan di bawah lampu cinder-glass. Separuh bilah masih melekat pada gagang kayu yang longgar; separuh lain berujung gerigi pendek, kusam oleh minyak dan debu pasar. Karat telah masuk ke retaknya, tetapi belum memakan bagian dalam. Penjual di lorong tepi meminta empat shardmark, menyebutnya pusaka. Ashvarok menunjukkan lubang serangga pada gagang, lalu membayar tiga. Benda itu kini terbaring di atas lempeng baja ruang tungku tingkat lima, menunggu malam menjadi cukup sepi.
 
-Dia memilih belati itu dengan sengaja, bukan karena murah — meski memang murah — melainkan karena besi adalah guru yang paling jujur untuk pelajaran pertama. Cinder-glass akan menjadi karyanya yang sesungguhnya, tetapi kaca-batu punya selera humor: di dunia ini dia makin bernilai ketika menua, sehingga tidak akan pernah bisa mengajarkan Ashvarok apa artinya harga Forge. Besi berbeda. Besi membenci usia. Besi akan menunjukkan tagihan itu dengan jujur, sampai bunyinya terdengar.
+Ia tidak membeli senjata. Ia membeli kegagalan yang sederhana.
 
-Malam ini shift tungkunya lagi, dan ruang ventilasi tingkat lima menerima mereka berdua seperti teman lama yang tidak bertanya-tanya — udara hangat yang sama, bau debu garam yang sama, kuning lampu cinder-glass yang sama yang seakan ikut menahan napas menunggu. Ashvarok menunggu sampai tengah malam — jam-jam ketika bahkan tikus mengambil jeda — lalu meletakkan dua potongan besi patah itu di atas lempeng baja pinggir tungku, dan memandanginya lama.
+Di balik dinding, tungku ventilasi menderu rendah. Panasnya merayap melalui sol sepatu, membawa bau arang garam dan logam basah. Shift terakhir telah naik hampir satu jam lalu. Troli sesekali menggeram jauh di tingkat bawah, lalu lenyap di antara ketukan pipa. Tak ada yang punya alasan mendatangi ruang ini sebelum fajar.
 
-Forge. Untaian kedua. Seni yang membuat era Hegemony terkenal bukan perangnya, melainkan jembatan-jembatannya. Jembatan besi yang tidak disambut paku, yang ditempa utuh dari ujung ke ujung dalam satu malam oleh para Forge-tier yang kemudian menua lebih cepat daripada karyanya. Dunia zaman ini mengingat legenda tentang besi yang mengalir. Yang tidak diingat dunia ini adalah harganya, karena harganya tidak pernah ditulis di jembatan mana pun.
+Tak ada, selain dirinya.
 
-Harga Forge adalah usia. Benda yang ditenun ikut menua — besi menjadi getas dalam hitungan hari, batu menjadi rapuh dalam hitungan minggu — kecuali pembawa memberinya gema penguat, jenis penyaluran yang butuh vein sehat dan tahun-tahun latihan. Itulah sebabnya para Forge-tier dulu hidup pendek dan matanya abu-abu. Setiap karya mereka mencuri sedikit dari kalender mereka sendiri.
+Forge merupakan untaian kedua Emberweave. Cinder memindahkan panas. Forge memindahkan kesetiaan bahan kepada bentuknya. Pada tingkat yang pernah ia kuasai, perbedaan itu dapat menegakkan jembatan tanpa paku atau menutup retak pada dinding benteng sebelum pasukan di atasnya sempat jatuh. Tier-nol tidak memiliki kemewahan tersebut. Ia tidak menciptakan materi, tidak menghapus bagian yang hilang, dan tidak menguatkan sesuatu yang sejak awal buruk. Ia hanya meminta dua permukaan yang pernah menjadi satu untuk mengenali satu sama lain lagi.
 
-`*Setiap karya mencuri hari,*` bisik ingatan itu. `*Dan malam ini, yang mencuri adalah aku.*`
+Permintaan tetap memiliki harga.
 
-Ashvarok meletakkan kedua telapak tangannya pada kedua potongan belati, dan mulai menenun.
+Ashvarok membersihkan patahan dengan kain dan minyak tungku. Serbuk karat meninggalkan noda cokelat pada ibu jarinya. Ia mengikisnya memakai ujung kawat sampai gerigi yang sehat terbuka, lalu menyatukan kedua bagian di atas lempeng. Sambungannya cocok, tetapi bilah miring selebar kuku.
 
-Pola Forge tier-nol bukan pola menciptakan; itu pola menyambung. Sembilan simpulnya bekerja mundur dibanding Cinder. Alih-alih menarik panas masuk, ia mendorong kehangatan keluar — ke dalam logam, sampai besi lupa bahwa dirinya keras. Di bawah jemari Ashvarok, garis patahan itu melembut seperti lilin di matahari, dan kedua potongan belati saling merapat satu milimeter demi satu milimeter, mencari bekasnya sendiri, mengenali bentuk yang dulu pernah mereka jadi.
+Tubuh Renn lapar sejak sore. Bagus. Perut kosong membuat pembayaran mudah dihitung.
 
-Tidak ada palu. Tidak ada bunyi tempa. Hanya bunyi tungku, napas seorang bocah, dan suara besi yang nyaris tidak terdengar — bunyi seperti garam menyatu dengan air. Ruangan itu menyaksikan, dan untuk pertama kalinya dalam seribu tahun, Ashvarok merasa sedang mengajar sesuatu, bukan sekadar memerintahnya.
+Ia menempatkan telunjuk dan jari tengah pada kedua sisi retakan. Sembilan simpul Forge lama muncul dalam ingatan sebagai urutan tekanan: tahan, longgarkan, balikkan; tiga rangkaian yang masing-masing menuntut arah berbeda. Tubuh ini belum pernah membawanya. Resonant vein di lengan kanan sudah lecet oleh Cinder dan the Walking Key. Memaksa gema melewati jalur itu akan mengubah latihan menjadi pengakuan tertulis di kulit.
 
-Ketika garis patah itu akhirnya hilang sepenuhnya, Ashvarok mengangkat belati itu ke cahaya bara — satu bilah utuh, lurus, dengan tepian yang bahkan lebih rapi daripada sebelum patahnya. Forge tier-nol tidak bisa membuat barang baru, tetapi bisa membuat barang rusak pulih lebih baik dari ingatannya sendiri, karena seni ini bekerja pada gagasan bentuk, bukan pada materinya.
+Karena itu ia tidak memakai gema.
 
-Lalu ia meletakkannya dan menunggu, dan inilah bagian yang tidak akan pernah dipahami siapa pun yang hanya mendengar legenda jembatan. Usia datang menagih dengan suara yang nyaris tidak ada. Bunyi halus dari lempeng baja — bunyi besi yang sedang menjadi tua, seperti rumah kayu yang berbunyi malam hari. Di sepanjang bilah yang lima menit silam sempurna itu, warna mulai berubah: dari hitam besi menjadi kelabu pucat, dari kelabu menjadi abu keabuan. Dan ketika Ashvarok mengetuk bilahnya dengan kukunya pagi harinya, bunyinya sudah berbeda — lebih tinggi, lebih kering. Getas yang datang dalam hitungan hari, kata bible-nya sendiri yang tertanam di kepalanya. Belati ini akan patah lagi dalam empat hari, di tempat lain, dan kali ini tidak akan bisa ditenun ulang tanpa harga tambahan.
+Forge tier-nol dapat dibayar dengan panas tubuh dan cadangan daging, asalkan pekerjaan kecil dan bahannya mau kembali. Lebih lambat. Lebih boros. Lebih aman bagi vein-scar.
 
-Satu karya, empat hari umur. Matematika yang buruk untuk dagangan; matematika yang menarik untuk pelajaran.
+Ashvarok menahan napas pada hitungan keempat dan menekan simpul pertama.
 
-Karena pelajaran itulah tujuan malam ini. Ia tidak butuh belatinya. Ia butuh tahu apakah tubuh Renn sanggup menahan pola Forge sama sekali — dan jawabannya, dicatat dengan gemetar ringan di benaknya, adalah bisa, dengan biaya lemak dua hari dan sakit kepala yang belum selesai sampai pagi. Pola kedua Cinder memakan urat gema. Pola pertama Forge memakan seluruh tubuh secara merata, seperti penyakit. Keduanya meninggalkan catatan di badan yang sama.
+Panas meninggalkan telapak tangannya.
 
-Dan catatan-catatan itu, entah bagaimana, selalu ditemukan oleh adiknya.
+Bukan panas tungku. Panas dari bawah kulitnya sendiri mengalir ke besi dalam benang-benang setipis rambut. Jari-jarinya segera dingin meski ruangan membuat keringat berkumpul di tengkuk. Permukaan patahan menggelap. Minyak di dalam celah mendesis, mengeluarkan bau pahit.
 
-Tetapi di antara sakit kepala dan lemak yang hilang, malam ini menyimpan satu keajaiban kecil yang tidak masuk neraca mana pun. Belati besi tua itu menua dengan anggun. Ashvarok memeriksanya ulang tiga kali untuk memastikan — getasnya datang, ya, tetapi warna abu keabuannya bukan warna kerusakan. Itu patina. Di besi biasa, usia Forge berarti kematian. Tetapi jika bahan bakunya cinder-glass — benda yang dunia ini bayar lebih mahal justru karena umurnya — maka harga Forge dan nilai pasar berjalan ke arah yang sama untuk pertama kalinya dalam sejarah dua seni. Menua bukan lagi tagihan. Menua adalah keuntungan.
+Simpul kedua masuk terlalu tajam.
 
-`*Rumah bagi yang tua,*` pikirnya pelan, dan kata-kata itu terasa seperti menemukan pintu yang selama ini tersembunyi di balik dinding. `*Bukan kuburan.*`
+Bilah bergeser. Gerigi beradu, dan salah satu ujung mengelupas sebesar butir garam.
 
-Dunia zaman ini mengira dirinya menjauhi bidah. Padahal dia hanya belum pernah melihat bidah yang menguntungkan.
+Ashvarok melepaskan pola.
 
----
+Dingin menusuk sampai pergelangan. Ia menunggu denyut tangan kembali teratur, lalu memeriksa kerusakannya. Bagian yang hilang kecil, tetapi Forge tidak dapat berpura-pura benda itu masih ada. Jika ia menyatukan patahan sekarang, bilah akan memendek sedikit dan punggungnya melengkung. Dulu ia akan membuang bahan seperti ini. Dulu gudangnya memiliki besi dari enam provinsi dan para pandai yang dibayar untuk menyortir kegagalan sebelum kegagalan itu mencapai mejanya.
 
-"Aku bawa makan," kata Sela dari pintu ruang tungku, jam ketiga malam, dengan keranjang dan wajah orang yang sudah berhenti pura-pura tidak curiga sejak seminggu lalu. "Ibu Vess kirim roti. Dia berkata anak tungku kurus harus—"
+Kini ia memiliki tiga shardmark yang sudah dibelanjakan dan satu tubuh pinjaman yang menggigil.
 
-Dia berhenti bicara. Keranjangnya turun pelan ke lantai, dan bunyi anyaman bambu menyentuh batu itu terdengar seperti sesuatu yang pecah tanpa suara.
+Ia mengikir gerigi di sekitar bagian yang hilang. Bukan sampai rata—rata akan menghapus jejak pasangan—hanya cukup agar kedua sisi dapat bertemu tanpa berebut ruang. Ketika dipasang ulang, ujung belati bergeser setengah ruas jari ke arah gagang. Pendek, sedikit tebal pada sambungan, tetapi jujur.
 
-Ashvarok menoleh terlambat. Seharusnya ia mendengar langkah bocah itu dari lorong — dan biasanya memang dia mendengar. Telapak tangannya bisa membaca gema batu dari empat puluh hasta, tetapi ternyata buta terhadap suara adik sendiri yang berjalan dengan cara baru yang dia pelajari minggu ini: berjalan pelan, sengaja, seperti orang yang sedang menyelidiki.
+Percobaan kedua berjalan lebih pelan.
 
-Di atas lempeng baja, di bawah cahaya bara, tergeletak belati yang tidak mungkin ada — besi tua patah yang pulih tanpa palu, dengan tepian yang berkilau seperti baru ditempa pandai besi terbaik Karvess — dan di sampingnya, di atas selembar kertas bekas, dua serpih besi kelabu pucat yang kemarin masih bagian dari belati itu, menua sendirian tanpa ditemani.
+Simpul pertama melunakkan batas. Simpul kedua membawa kedua tepi saling mendengar. Pada simpul ketiga, getaran halus naik dari lempeng baja ke tulang jarinya. Besi itu tidak mencair. Warnanya tidak membara. Serat-serat di dalamnya bergeser satu demi satu, merapat sepanjang patahan seperti pekerja menutup barisan setelah seorang rekan tumbang.
 
-Sela memandangi semua itu. Lalu memandangi kakaknya. Lalu — dan ini yang membuat dadanya sesak — memandangi lengan kanan kakaknya, di mana garis Hourglass berbaris di bawah kulit, dan menghubungkan semuanya dengan kecepatan yang selalu membuat Ashvarok takjub dan takut. Anak ini membaca orang seperti dia membaca besi: dari dalam ke luar.
+Simpul keempat menguras rasa hangat dari lengannya.
 
-"Bukan sulap," katanya pelan. Bukan pertanyaan. "Sulap menggunakan trik. Ini... seperti kata Brannoc soal komandannya yang membaca rumput rebah. Kamu membaca besi. Dan besi menurut."
+Kelima mengambil tenaga dari bahu.
 
-"Sela."
+Saat simpul keenam terbentuk, pintu ruang tungku berderit.
 
-"Dulu kamu berkata pekerjaan sampinganmu butuh tenaga. Aku pikir angkut batu gelap." Dia maju satu langkah, lalu satu lagi, dan berlutut di depan lempeng itu — tidak takut, tidak menjauh. Anak ini tidak pernah menjauh dari apa pun yang mau dia pahami. "Ini yang membuat kamu kurus. Bukan angkut batu. Kamu bayar dengan badan."
+Ashvarok tidak menoleh. Memutus pola saat dua sisi baru setengah terjalin akan meninggalkan tegangan yang memecahkan bilah begitu disentuh. Ia meneruskan urutan, sementara langkah kecil berhenti di ambang.
 
-"Sela."
+"Renn?"
 
-"DAN—" suaranya naik sekali, lalu dia sendiri yang menurunkannya, ingat lokasi, ingat jam, ingat semua aturan barak tentang bunyi. Dia menarik napas panjang melalui hidung, seperti Brannoc sebelum mengatakan sesuatu yang penting. "Dan garis di tanganmu itu juga bagian dari harganya, kan. Sebab itu diukur tiap malam."
+Sela.
 
-Ashvarok menimbang kebohongan yang tersisa di gudangnya, dan menemukan raknya sudah hampir kosong.
+Simpul ketujuh masuk di bawah suaranya. Ashvarok menahan bilah tetap lurus. Setetes keringat jatuh ke lempeng dan menguap.
 
-"Iya," katanya.
+"Jangan mendekat," katanya.
 
-"Berapa lama lagi badanmu bisa bayar?"
+"Tanganmu kenapa?"
 
-"Tidak tahu. Sebab itu dicatat."
+"Sela. Di pintu."
 
-"Dan besi ini—" sentuhan jarinya pada bilah yang sempurna itu, ringan seperti menyentuh kupu-kupu, "—ini barang yang mau kamu jual ke orang besar?"
+Anak itu diam, tetapi tidak pergi. Cahaya lampu meletakkan bayangannya di lantai, pendek dan kaku. Sebuah keranjang tergantung di satu tangan. Bau roti hangat menyusup melewati arang dan minyak.
 
-"Barang begini yang mau aku membuat banyak. Untuk melunasi kontrak." Ia tidak menyebut nama siapa; tidak perlu. Anak ini hafal daftar semua kontrak di Caldrest yang punya wajah. "Kontrak yang tidak boleh dinilai ulang."
+Simpul kedelapan menuntut bagian terakhir dari cadangan panas yang telah ia izinkan. Lambung Ashvarok mengencang. Titik-titik gelap mengerumuni pinggir penglihatannya.
 
-Sela terdiam lama. Ketika bicara lagi, suaranya adalah suara anak yang sedang menimbang sesuatu di timbangan yang tidak pernah dia miliki sebelumnya — pilihan antara marah pada kakaknya dan bangga pada kakaknya, dengan takut sebagai pemberat di kedua sisi.
+Ia bisa berhenti. Sambungan akan bertahan beberapa jam, cukup untuk membuktikan pola hidup. Namun bentuk setengah jadi tidak akan menunjukkan harga yang sebenarnya. Ia membutuhkan simpul kesembilan—penutup yang memaksa waktu menagih pada benda, bukan membiarkan tegangan menagih pada tangan pembuatnya.
 
-"Besi ini akan rapuh, kan," katanya tiba-tiba, bukan pertanyaan. Jarinya masih di atas bilah, dan anak itu merasakan apa yang tidak bisa dijelaskan orang dewasa mana pun — bunyi besi yang sedang menua. "Aku pegang. Rasanya seperti... kayunya sudah tua padahal bentuknya baru. Kamu membuat barang yang langsung jadi antik."
+"Ada yang harus kulakukan?" tanya Sela.
 
-"Antik yang bagus malah makin mahal kalau tua."
+Pertanyaan itu tepat. Tidak menuntut penjelasan, tidak mengganggu hitungan.
 
-"Ini besi, Renn. Bukan cinder-glass." Dan di situlah anak sebelas tahun itu menatapnya dengan tatapan yang membuat raja seribu tahun merasa sudah diperiksa: "Kamu tidak asal memilih bahan latihan, kan? Kamu berlatih dengan besi supaya nanti saat bekerja yang sesungguhnya, kamu memakai kaca. Yang makin tua makin laku."
+"Kalau aku jatuh, tarik aku dari lempeng. Jangan sentuh besinya."
 
-Ashvarok membiarkan hening menjawab, karena hening adalah satu-satunya jawaban yang tidak menambah jumlah hal yang harus disembunyikan.
+Keranjang menyentuh lantai. "Kalau kamu tidak jatuh?"
 
-"Kalau begitu," Sela bangkit, mengambil keranjangnya dan mengeluarkan roti Ibu Vess, "makan. Semua. Sampai habis. Karena besok kamu mau bayar badan lagi untuk membuat barang buat anak Pak Brannoc, dan aku tidak mau barangnya jadi tetapi kakaknya tinggal nama."
+"Tunggu."
 
-Dia berhenti sebentar di ambang pintu, setengah keluar, dan berkata tanpa menoleh:
+Ashvarok membalik urutan tekanan terakhir. Sembilan simpul mengunci.
 
-"Aku saksi pertamamu, ya. Jadi nanti kalau kamu sudah hebat dan orang-orang bertanya mulai dari mana — jawabannya aku. Catat itu."
+Retakan menutup.
 
-Pintu tertutup. Ashvarok duduk sendirian dengan roti Ibu Vess di satu tangan dan belati yang sedang menua di tangan lain, dan menemukan dirinya tersenyum kecil pada ruangan kosong — ekspresi yang tidak pernah tercatat dalam sejarah Hegemony mana pun.
+Tak ada kilat. Tak ada pukulan palu. Bunyi yang lahir hanya satu decit kecil, lebih lembut daripada kuku menggores kaca. Garis hitam di tengah bilah menyempit, terputus, lalu hilang di bawah permukaan. Punggung belati melurus. Logam yang semula terdiri dari dua bagian menjadi satu lagi, pendek setengah ruas dari bentuk awal dan lebih berat di dekat gagang.
 
-Saksi pertama. Seribu tahun silam, saksi-saksinya adalah para panglima dan juru tulis kerajaan. Mereka mencatat karyanya di lempeng tembaga dan menyegelnya dengan lilin raja. Saksi pertamanya di zaman ini adalah anak perempuan sebelas tahun yang membawa roti dan menghitung porsi makannya.
+Ashvarok mengangkat kedua tangan.
 
-Dan entah bagaimana, versi yang kedua ini terasa lebih sulit untuk dilupakan.
+Dunia miring.
 
-Di pojok ruangan, belati itu berbunyi sekali lagi — bunyi halus besi yang menua — seperti jam pasir kecil yang mulai bekerja, mengingatkan bahwa karya pertama Forge di zaman ini sudah lahir dengan umurnya yang pendek: empat hari lagi sampai patah, dua pekan sampai debu, dan selamanya sampai dunia siap memahami apa yang dibuat malam ini.
+Ia menahan tepi meja sampai lantai kembali ke tempatnya. Mulutnya dipenuhi rasa logam. Dingin masih tinggal di ruas jari, sedangkan pelipisnya berdetak mengikuti tungku.
+
+Sela sudah berada dua langkah lebih dekat.
+
+"Kamu menyuruhku di pintu."
+
+"Aku juga tidak jatuh."
+
+"Hampir." Matanya beralih ke bilah. "Aku lihat garisnya hilang."
+
+"Kamu tidak boleh berada di sini malam-malam."
+
+"Kamu juga tidak boleh pingsan malam-malam." Sela menunjuk belati tanpa menyentuh. "Itu tadi apa?"
+
+Kebohongan mudah tersedia: panas membuat patri lama melunak; lempeng menutupi sambungan; pandangan dari pintu menipu. Semuanya buruk. Anak itu melihat kedua potongan terpisah. Ia melihat tidak ada palu, penjepit, atau patri. Lebih buruk lagi, ia bertanya sambil mengamati tangannya, bukan benda hasilnya.
+
+"Pekerjaan lama," kata Ashvarok.
+
+"Pekerjaan siapa?"
+
+"Orang-orang yang sudah tidak ada."
+
+"Tapi kamu ada."
+
+Sela mengucapkannya tanpa kemenangan. Itu membuat kalimat tersebut lebih sukar ditangkis.
+
+Ashvarok mengambil kain dengan tangan kiri dan membungkus gagang belati. "Yang kamu lihat tidak boleh kamu ceritakan. Bukan kepada Brannoc, bukan kepada temanmu, bukan kepada siapa pun yang menawarkan uang."
+
+"Brannoc juga tidak tahu?"
+
+"Tidak tentang ini."
+
+"Kenapa aku harus menurut kalau kamu belum menjawab?"
+
+Dulu, orang yang menanyakan itu di ruang kerjanya akan dikeluarkan oleh penjaga. Di Caldrest, penjaga terdekat adalah anak sebelas tahun yang membawa makan malam dan menolak diperintah tanpa alasan.
+
+"Karena pekerjaan ini dilarang oleh orang yang akan membunuh pembuatnya sebelum bertanya untuk apa ia membuat," jawab Ashvarok. "Dan karena tubuh ini belum kuat membayarnya."
+
+Pandangan Sela jatuh ke pinggangnya. Ikat pinggang Renn telah turun satu lubang sejak latihan Cinder terakhir.
+
+"Bayarnya pakai makan?"
+
+"Cadangan tubuh. Dua hari, untuk sambungan sekecil ini. Sakit kepala mungkin sampai besok malam."
+
+"Garis kanan?"
+
+"Tidak bertambah. Aku menjauhkan pola dari resonant vein."
+
+Sela mendekat ke papan Hourglass di dinding. Kapur terselip pada bingkainya. "Kalau begitu kenapa tidak dicatat?"
+
+"Belum selesai."
+
+"Belatinya sudah utuh."
+
+"Pekerjaan bukan cuma bentuk. Tunggu."
+
+Ia meletakkan belati di bagian lempeng yang dingin. Selama beberapa tarikan napas, benda itu tampak biasa: bilah kusam dengan gagang buruk dan sambungan yang mustahil ditemukan. Lalu terdengar tik.
+
+Sela menoleh.
+
+Tik kedua lebih pelan. Warna gelap bergerak dari bekas patahan ke ujung. Karat tidak tumbuh secepat itu; kelabu ini muncul dari dalam. Permukaan bilah kehilangan kilap minyaknya. Serat kayu pada gagang tetap sama; hanya besi yang berubah. Dalam waktu sepuluh menit, patina abu-abu menyelimuti kedua sisi.
+
+"Kamu merusaknya lagi," kata Sela.
+
+"Aku membayar hasilnya. Forge mempercepat usia bahan."
+
+"Berapa cepat?"
+
+Ashvarok mengetuk punggung bilah dengan kawat. Nadanya kering, setengah tingkat lebih tinggi daripada sebelum ditempa. "Empat hari sebelum cukup getas untuk patah jika dipakai. Dua pekan sebelum karat memakannya sampai tak berguna. Mungkin kurang."
+
+"Tiga shardmark untuk pisau empat hari?"
+
+"Untuk pelajaran yang bertahan lebih lama."
+
+"Pelajaranmu mahal."
+
+"Tiga shardmark bukan mahal."
+
+"Orang yang belum makan malam tidak boleh menentukan mahal atau tidak."
+
+Sela membuka keranjangnya. Dua potong roti, akar rebus, dan semangkuk kaldu bertutup kain muncul di meja. Ia mendorong roti pertama ke tangan Ashvarok, baru kemudian kembali memandangi bilah.
+
+"Kalau semua yang kamu buat cepat tua, barang buat kontrak Harn juga akan rusak."
+
+Nama itu menutup sisa ruang untuk menghindar. Sela telah menyusun tujuan latihan dari ancaman kepada Brannoc, kerja rahasia di tungku, dan tiga shardmark yang hilang dari simpanan mereka.
+
+"Bahan berikutnya bukan besi," kata Ashvarok.
+
+"Cinder-glass."
+
+Ia diam.
+
+"Yang tua lebih mahal," lanjut Sela. "Vosk bilang warna cinder-glass turun makin bagus kalau umurnya panjang. Kamu mau membuatnya tua sebelum dijual."
+
+"Aku mau tahu apakah bisa."
+
+"Dan kalau tidak bisa?"
+
+"Tujuh keping seam-bone terbuang. Kontrak tetap jatuh akhir bulan. Brannoc kehilangan pilihan untuk Harn."
+
+"Kalau bisa, badanmu bayar berapa?"
+
+Pertanyaan itu menggeser percakapan. Sela bukan lagi anak yang memergoki rahasia. Ia sedang menuntut tempat di dalam hitungan.
+
+"Belum tahu. Lebih banyak daripada malam ini."
+
+"Jadi aku ikut mencatat."
+
+"Tidak."
+
+"Kamu tadi hampir jatuh dan tetap bilang tidak. Itu jawaban bodoh."
+
+Ashvarok menggigit roti agar tidak menjawab terlalu cepat. Hangat makanan menyakitkan giginya yang dingin. Di hadapannya, Sela mengambil kapur dan menulis pada kolom Hourglass dengan huruf tegak: FORGE—DUA HARI MAKAN, KEPALA SATU MALAM. Setelah berpikir, ia menambahkan: GARIS TETAP.
+
+"Aku tidak perlu tahu cara kerjanya," katanya. "Aku perlu tahu kapan berhenti. Kalau kamu mau bayar badan lagi, aku yang hitung makan dan garis."
+
+"Dan jika aku melarangmu?"
+
+"Aku tetap tahu. Bedanya cuma kamu tidak tahu bahwa aku tahu."
+
+Ancaman itu disampaikan sambil membagi akar rebus menjadi dua. Sangat rapi. Sangat masuk akal.
+
+Ashvarok pernah memerintah para Forge-tier yang dapat menuangkan benteng ke dalam bentuk baru. Semua pekerjaan mereka dicatat juru tulis kerajaan, disaksikan pejabat, lalu disegel atas namanya. Tak satu pun saksi pernah bertanya apakah pembuatnya sudah makan.
+
+"Kamu tidak bicara kepada siapa pun," katanya. "Kamu tidak datang saat proses dimulai. Kamu tidak menyentuh bahan sampai aku menyatakan aman. Jika garis kanan berubah atau aku kehilangan kesadaran, kamu panggil Brannoc dan tidak mencoba menolong sendiri."
+
+Sela menyodorkan separuh akar kepadanya. "Berarti aku boleh mencatat."
+
+"Berarti kamu saksi."
+
+Kapur berhenti di tangannya.
+
+"Saksi pertama?"
+
+Ashvarok melihat belati yang terus memucat di atas lempeng. Satu karya kecil, buruk, dan berumur pendek. Cukup untuk membuktikan Forge masih menjawab tangannya. Cukup pula untuk memberi seorang anak jalan masuk ke rahasia yang selama ini ia jaga dengan mengurangi jumlah orang di dekatnya.
+
+"Saksi pertama," katanya.
+
+Sela menulis satu baris lagi di papan: SAKSI—SELA. Lalu ia menggarisbawahinya sekali, menaruh kapur, dan menunjuk roti kedua.
+
+"Habiskan. Saksi memerintah sekarang."
+
+"Saksi mencatat."
+
+"Kalau pembuatnya keras kepala, saksi menyesuaikan tugas."
+
+Ashvarok menghabiskan roti itu.
+
+Menjelang fajar, sakit kepala menetap di belakang mata, tetapi gemetar tangannya sudah berhenti. Belati latihan berubah kelabu sepenuhnya. Ketika diketuk, bunyinya ringkih dan tua. Ashvarok menaruhnya di rak terpisah agar tak ada pekerja mengira benda itu aman dipakai.
+
+Di bawah catatan Sela, ia menambahkan hasil terakhir dengan kapur kecil: BESI—EMPAT HARI. Lalu, sesudah satu hitungan, ia menulis bahan untuk percobaan berikutnya: CINDER-GLASS—TIGA KEPING.
+
+Sela membaca baris itu, menghapus kata KEPING, dan menggantinya dengan YANG TERBAIK.
+
+Kali ini Ashvarok tidak mengoreksinya.

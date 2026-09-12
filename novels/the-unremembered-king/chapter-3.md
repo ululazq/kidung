@@ -3,134 +3,282 @@ title: "Bab 3: Pria Abu"
 chapter: 3
 ---
 
-Kantor kuota Caldrest dulunya adalah gudang penimbangan, dan masih berperilaku seperti itu. Semua orang yang masuk ditimbang — hanya saja timbangannya tidak terlihat. Timbangan itu ada di meja, di kursi, di jarak antara dua orang yang duduk berhadapan, dan di cara seorang pengawas membiarkan keheningan bekerja untuknya.
+Kel Tharrow membiarkan Ashvarok menunggu sampai cahaya pagi mencapai kaki meja.
 
-Ashvarok duduk di kursi kayu di hadapan meja Kel Tharrow selagi matahari belum selesai naik. Di atas meja ada buku besar terbuka, pena bersih, dan segelas air yang tidak pernah disentuh siapa pun — air yang diletakkan di sana bukan untuk diminum, tetapi untuk mengukur berapa lama orang yang duduk di hadapannya bertahan tanpa meraihnya. Tharrow membaca lembar laporan sambil membiarkan keheningan bekerja untuknya. Ashvarok membiarkan keheningan bekerja untuknya juga. Dua pembaca fakta duduk berhadapan, dan ruangan itu menjadi sangat sunyi — sunyi yang bukan kosong, sunyi yang penuh dengan hal-hal yang belum diucapkan.
+Caldrest Quota Office menempati bekas gudang timbang. Kait-kait besi masih tergantung di balok atap. Bau tinta bercampur debu cinder-glass yang terbawa dari halaman. Di belakang Tharrow, rak buku besar memenuhi dinding sampai langit-langit. Setiap punggung buku memuat satu tahun utang, setoran, kecelakaan, dan nama pekerja yang masih bernilai bagi the Quiet Vein.
 
-"Mulai dari awal," kata Tharrow tanpa mengangkat kepala. "Jam berapa kalian turun?"
+Ashvarok duduk di kursi tanpa sandaran. Paha kirinya berdenyut di balik balutan. Di atas meja tersedia segelas air, tetapi tidak ada gelas untuk Tharrow.
+
+Pengawas itu membaca laporan lorong tujuh untuk kedua kali. Seragamnya licin. Sarung tangan putihnya tidak terkena tinta meski satu jari mengikuti tiap baris.
+
+"Mulai dari awal," katanya. "Jam berapa regumu turun?"
 
 "Shift mulai tengah malam. Kami sampai di lorong tujuh sebelum jam pertama."
 
-"Apa yang kau kerjakan?"
+"Tugasmu?"
 
-"Mengangkut batu ke troli. Troli lorong tujuh rusak rodanya, jadi angkutan manual."
+"Mengangkut batu dari muka galian ke troli."
 
-Tharrow mengangkat kepala sedikit. "Troli tujuh dicatat rusak dua minggu lalu. Permintaan perbaikanmu yang mana?"
+"Laporan foreman menyebut angkutan manual."
 
-"Kepalaku kosong di situ," kata Ashvarok. "Aku ingat trolinya rusak. Aku tidak ingat suratnya."
+"Roda troli rusak."
 
-Pena Tharrow bergerak mencatat. "Ceritakan suara dari dinding."
+Tharrow membuka buku lain. "Troli lorong tujuh sudah rusak dua minggu. Nomor permintaan perbaikannya?"
 
-"Panjang, rendah, seperti napas yang ditarik pelan. Berhenti bersamaan dengan semua bunyi lain. Sunyinya bukan hilangnya suara." Ashvarok menatap gelas air itu. "Seperti dunia kehilangan ruangnya untuk bunyi."
+Sela telah memberinya jawaban aman untuk lubang seperti ini.
 
-"Lalu runtuhan."
+"Kepalaku kosong di situ. Aku ingat rodanya macet. Aku tidak ingat suratnya."
 
-"Satu detik setelah sunyi."
+Ujung pena Tharrow berhenti, lalu menulis satu baris. "Siapa yang pertama mendengar suara dari dinding?"
 
-Tharrow menutup laporan itu. Untuk pertama kalinya pagi ini, ia menatap Ashvarok penuh, dan tatapannya seperti sarung tangan: bersih, tanpa jejak, tetapi pasti menyentuh.
+"Aku tidak tahu. Semua orang berhenti bekerja hampir bersamaan."
 
-"Anak tambang yang ketakutan bercerita berantakan. Menambah hal yang tak terjadi, melupakan yang terjadi. Kamu menceritakan urutan, detik demi detik. Orang lupa tidak punya urutan, Renn."
+"Kamu mendengarnya?"
 
-"Orang yang hampir mati menghitung," jawab Ashvarok. "Semalam aku menghitung lagi supaya bisa tidur. Hitungan itu tinggal."
+"Ya."
 
-Tharrow diam sejenak. "Satu lagi. Dolm Vekk. Rekan shiftmu. Apa yang kau ingat tentang pagi terakhirnya?"
+"Jelaskan."
 
-Ashvarok membiarkan keheningan itu panjang seperti keheningan orang yang benar-benar merakit ingatan dari pecahan. "Suara batuknya," katanya. "Dan dia berhutang padaku dua shardmark untuk rokok daun. Kalau Quota Office bisa menagihnya ke keluarganya, aku tidak keberatan jadi saksi."
+Ashvarok tidak memerlukan ingatan Renn untuk bagian itu. "Rendah dan panjang. Seperti satu tarikan napas. Sesudahnya, semua bunyi berhenti."
 
-Pena Tharrow mencatat sesuatu yang mungkin bukan tentang Dolm. Sesuatu bergerak di belakang mata Tharrow — bukan kepercayaan, tetapi penjadwalan ulang, seperti orang yang menggeser potongan di papan catur yang tidak pernah ia sebut namanya.
+"Lampu padam?"
 
-"Pendataan ulang hari ketujuh. Urutanmu nomor tiga." Dia menandai buku besarnya. "Datang dengan kontrakmu. Dan Renn — orang yang menghitung berguna di tambang. Orang yang menghitung lebih banyak dari yang seharusnya, kurang berguna. Kupilih mana yang kamu jadi setelah pendataan."
+"Tidak."
+
+"Orang pingsan?"
+
+"Tidak ada."
+
+"Berapa lama?"
+
+"Kurang dari satu detik. Lalu penyangga patah."
+
+Tharrow menutup buku kedua. "Kepalamu terluka. Ingatanmu hilang di beberapa tempat. Namun urutan ini kamu simpan sampai hitungan detik."
+
+"Orang yang hampir mati menghitung."
+
+"Anak lima belas tahun yang tertimpa atap tambang biasanya tidak menghitung."
+
+Ashvarok menatap air di meja. Debu tipis mengapung pada permukaannya. "Semalam aku mengulangnya supaya bisa tidur. Itu yang tinggal."
+
+"Mengapa suara itu tidak tertulis di laporan foreman?"
+
+"Tanyakan kepada Brannoc."
+
+"Saya bertanya kepadamu."
+
+"Kalau begitu, kepalaku kosong di situ."
+
+Tharrow menunggu. Ashvarok membalas dengan diam. Pengawas itu mencari gerak tangan, perubahan napas, atau pandangan yang lari menuju pintu. Ashvarok pernah diperiksa oleh orang yang membawa pisau, racun, dan sumpah pengikat. Seorang pejabat dengan pena bersih belum layak membuatnya gelisah.
+
+"Dolm Vekk," kata Tharrow. "Apa yang kamu ingat tentang dia sebelum runtuhan?"
+
+Ingatan tubuh memberi suara batuk, punggung lebar di depan troli, dan asap rokok daun yang pahit.
+
+"Dia batuk. Dia juga berutang dua shardmark kepadaku untuk rokok daun."
+
+"Itu saja?"
+
+"Kalau kantor ini dapat menagih keluarganya, tuliskan aku sebagai saksi."
+
+Pena Tharrow bergerak lagi. "Kamu bercanda tentang orang mati."
+
+"Aku mengingat utangnya. Berarti aku menjawab pertanyaanmu."
+
+Untuk pertama kali, Tharrow menyandarkan punggung. Tatapannya berpindah dari balutan paha ke contract ring di ibu jari Ashvarok.
+
+"Pendataan ulang dilaksanakan hari ketujuh. Urutanmu nomor tiga. Bawa kontrak dan tunjukkan semua tanda tubuh yang terdaftar." Ia memberi tanda pada buku besar. "Orang yang teliti berguna di tambang, Renn. Orang yang terlalu teliti membuat pekerjaan orang lain bertambah. Saya akan menentukan kamu termasuk yang mana."
+
+"Setelah pendataan?"
+
+"Kalau datamu cocok."
+
+Tharrow mendorong gelas air ke tepi meja. Wawancara selesai. Ashvarok berdiri tanpa menyentuhnya.
+
+Di ambang pintu, suara Tharrow menahannya.
+
+"Kalau kepalamu pulih sebelum hari ketujuh, laporkan bagian yang kembali. Bahkan hal kecil."
+
+Ashvarok menoleh. "Tentu, Overseer."
+
+Keduanya tahu ia baru saja berbohong.
 
 ---
 
-Brannoc menemukannya di pintu tambang saat gantian shift sore.
+Saat pergantian shift sore, Brannoc menunggu di pintu tambang dengan surat kecil terlipat di satu tangan. Para pekerja melewati mereka menuju lift. Rantai pengangkat berderak, lampu cinder-glass berayun, dan debu dari pakaian regu pagi memenuhi udara.
 
-"Kau minta shift dasar." Foreman itu tidak bertanya. Ia menyampaikan isi surat kecil yang sudah sampai ke mejanya lewat petugas kuota. "Bocah yang baru keluar dari lorong amblas minta diturunkan lagi. Ke bawah. Kau tahu bagaimana kalimat itu dibaca orang?"
+"Kau meminta shift dasar." Brannoc menyerahkan surat itu. "Bocah yang baru keluar dari lorong amblas minta turun lebih dalam. Kau tahu cara Quota Office membacanya?"
 
-"Seperti bocah yang butuh upah dasar."
+Ashvarok melihat tanda persetujuan di bawah permohonannya. "Pekerja butuh upah lebih tinggi."
 
-"Upah dasar naik dua puluh lima persen juga," kata Brannoc. "Semuanya naik kecuali alasan." Ia mengunyah akar pahitnya, menimbang. "Kenapa dasar?"
+"Kuota dasar ikut naik dua puluh lima persen. Semuanya naik kecuali alasan." Brannoc menggigit akar pahit. "Kenapa dasar?"
 
-"Karena di atas aku hanya mengangkut apa yang orang lain pilih untukku," kata Ashvarok. "Di dasar aku bisa memilih sendiri batu mana yang bernilai."
+Di bagian atas tambang, Ashvarok hanya akan menyentuh batu yang sudah dipilah orang lain. Ia membutuhkan dinding utuh, arah urat, dan jalur menuju retakan.
 
-Kebenaran itu disajikan sebagai ambisi, dan ambisi adalah satu-satunya kebohongan yang tidak perlu ditebus harganya di the Quiet Vein. Brannoc menatapnya dengan cara yang sama seperti di ruang persimpangan. Lama, tanpa terburu-buru, seorang prajurit membaca medan — dan di dalam tatapan itu, Ashvarok melihat sesuatu yang tidak sering ia lihat di mata manusia: kesabaran. Kesabaran orang yang tidak sedang menilai, tetapi sedang menunggu untuk melihat apa yang akan dilakukan orang di depannya dengan kebenaran yang ia berikan.
+"Di atas, aku mengangkut pilihan orang lain. Di bawah, aku bisa memilih batu yang bernilai."
 
-"Shift dasar butuh pasangan," kata foreman itu akhirnya. "Tidak ada yang mau turun berdua saja sama bocah baru. Jadi kau ikut reguku, dua hari dari sekarang, lorong sembilan bawah. Satu syarat." Jarinya menunjuk mata Ashvarok. "Kalau dinding bicara lagi — apa pun bunyinya — kau bilang duluan sebelum aku dengar sendiri. Bukan sesudah. Sebelum."
+Ambisi merupakan alasan yang dapat diterima di kota yang mengukur hidup dengan setoran. Brannoc tetap memeriksanya beberapa saat. Bekas patah membuat bahu kanannya lebih rendah. Matanya tidak turun ke surat.
 
-"Kenapa sebelum?"
+"Shift dasar tidak menerima pekerja seorang diri. Kau ikut reguku. Lorong sembilan bawah."
 
-"Karena orang yang melapor duluan masih bisa dipercaya soal sisanya," kata Brannoc, berlalu. "Dan aku belum putus soal kamu."
+"Kapan?"
+
+"Dua hari lagi. Kaki itu harus bisa menahan tangga."
+
+"Bisa."
+
+"Aku yang memutuskan." Brannoc meraih balutan pahanya dan menekan satu titik.
+
+Nyeri menusuk sampai pinggul. Lutut Ashvarok tidak lemas.
+
+Brannoc melepaskan tangan. "Satu syarat. Kalau dinding bicara lagi, apa pun bunyinya, bilang sebelum aku mendengarnya sendiri. Bukan sesudah."
+
+"Kenapa harus sebelum?"
+
+"Orang yang melapor lebih dulu masih bisa dipercaya untuk sisanya."
+
+"Dan sekarang kamu percaya kepadaku?"
+
+"Belum." Brannoc berbalik menuju lift. "Jangan paksa aku memutuskan terlalu cepat."
+
+Ashvarok menyimpan surat persetujuan di balik bajunya. Lorong sembilan bawah akan membawanya dekat dengan dasar pemetaan resmi. Mungkin cukup dekat untuk membaca arah aliran yang menyedot pengikat the Threshold.
+
+Mungkin juga cukup dekat untuk membunuh tubuh Renn.
 
 ---
 
-Malam kedua di barak, Ashvarok menunggu napas Sela merata — menunggu sampai irama tidur anak itu tenang seperti permukaan air yang tidak diganggu — lalu duduk bersila di lantai dengan batu asah kecil milik Renn di telapak tangannya.
+Malam itu, Sela tertidur dengan papan tulis di samping kasur. Angka utang dan jadwal pendataan memenuhi permukaannya. Baris terakhir berbunyi: *Renn — urutan 3. Jangan menjawab cepat.*
 
-Ujiannya sederhana. Setiap benda di dunia ini punya gema — begitulah cara zaman ini membaca harta. Resonant seam di tambang, artefak di pasar, cincin kontrak yang berdenyut pelan di ibu jarinya. Batu asah ini punya gema tipis, seperti sendok di dasar panci kosong. Cukup untuk latihan.
+Ashvarok menunggu sampai napasnya teratur. Ia menutup celah bawah pintu dengan kain, mengecilkan api tungku, lalu duduk di lantai. Batu asah milik Renn terletak di telapak kirinya.
 
-Ia menyalurkan sedikit kesadaran ke urat gema tubuh ini dan langsung menemukan masalahnya. Jalur besar tubuh Renn kosong dan sehat — tetapi jalur itulah yang tidak boleh ia pakai. Penyaluran meninggalkan catatan: pola panas yang khas, tanda tangan teknik. Orang Voice-tier mana pun yang menyentuh sisa gemanya akan membaca gaya seorang pemula zaman ini, bukan gaya raja era Hegemony. Itu bisa diterima. Yang tidak bisa diterima adalah gaya yang tidak dimiliki siapa pun yang hidup.
+Zaman ini membaca dunia melalui The Resonance. Artefak, resonant seam, bahkan contract ring menyimpan gema yang dapat dialirkan melalui urat tubuh. Batu asah itu hanya menyimpan sisa gesekan: logam, minyak, dan tekanan tangan yang berulang. Gema kecil. Cukup untuk menguji jalur Renn.
 
-Jadi ia pakai jalur yang salah dengan sengaja: urat kecil di pergelangan kiri, yang sudah parut.
+Main resonant vein tubuh ini kosong dan belum terlatih. Ashvarok tidak menyentuhnya. Penyaluran meninggalkan pola pada tubuh dan benda. Pembaca Voice-tier dapat mengenali kebiasaan, kekuatan, bahkan sekolah pemakainya. Teknik seorang bocah pemula akan aman. Teknik yang telah hilang seribu tahun akan memanggil penyelidikan.
 
-Gema batu asah itu merambat masuk seperti air mencari celah, dan parut itu menahannya tepat seperti parut menahan air — sebagian kecil lolos, sisanya tertahan dengan rasa mati rasa yang menjalar sampai lutut. Ashvarok menahan diri untuk tidak mengumpat. Satu tetes gema. Satu tetes, dan jalurnya sudah protes.
+Ia memilih resonant vein kecil di pergelangan kiri, tepat di bawah vein-scar lama.
 
-Tetapi satu tetes itu cukup untuk sebuah kesimpulan, dan kesimpulannya buruk. Tubuh ini bisa menyalur — nyaris tidak sama sekali. Resonance zaman ini, dengan harga lecetnya, tidak akan pernah membuatnya kuat sebelum pendataan, sebelum kuota naik, sebelum apa pun. Kalau ia ingin kekuatan nyata dalam hitungan pekan, bukan tahun, ia harus memakai seni yang tidak meninggalkan tanda tangan zaman ini karena seni itu sudah tidak ada. Emberweave.
+Ashvarok menekan satu serpih kesadaran ke batu.
 
-Dan Emberweave punya tagihan sendiri. Cinder butuh panas dari sesuatu. Forge menua benda. Ash meninggalkan abu yang bisa dibaca. Name memotong diri. Ia mengenal keempat untaian itu seperti mengenal lima jari tangannya sendiri — dan tahu bahwa tubuh lima belas tahun yang kelaparan ini adalah tungku yang hampir kosong.
+Gema masuk melalui telapak, tersangkut pada jaringan parut, lalu pecah. Ujung jarinya mati rasa. Sengatan tipis merambat ke siku dan berhenti. Ia memutus aliran sebelum lecet baru terbentuk.
 
-Bukan malam ini, pikirnya lagi, dan sadar malam itu sudah menjadi jawabannya untuk semuanya.
+Hasilnya buruk.
+
+Tubuh Renn dapat menyalurkan gema, tetapi jalur parutnya hampir tertutup. Jalur utama memerlukan latihan bertahun-tahun. Pendataan tinggal beberapa hari, kuota sudah naik, dan sesuatu terus mengambil tenaga dari segel di bawah kota. The Resonance tidak akan membuatnya cukup kuat dalam waktu yang tersedia.
+
+Ia membuka dan menutup tangan kiri. Mati rasa surut lambat.
+
+Pilihan yang tersisa adalah The Emberweave, seni yang dianggap punah karena para pemenang telah membakar pengajarnya. Ashvarok masih menyimpan empat untaiannya. Cinder mengambil panas dari udara, batu, atau tubuh. Forge mempercepat usia bahan. Ash meninggalkan abu yang dapat dibaca. Name memotong bagian dari diri pemakainya.
+
+Semua punya harga. Tubuh lima belas tahun ini sudah lapar sebelum dipakai kembali oleh orang mati.
+
+Ia membungkus batu asah dan menyimpannya ke karung Renn. Latihan pertama memberi satu jawaban: jangan memakai The Resonance untuk mengejar waktu.
+
+Dari bawah lantai, sangat jauh, datang satu denyut.
+
+Jantung Renn menjawab.
+
+Ashvarok menghitung jarak di antara keduanya. Tiga detik. Denyut berikutnya datang pada jarak yang sama.
+
+Lalu Sela menjerit.
 
 ---
 
-Sela menjerit jam ketiga malam.
+Jerit itu pendek. Ashvarok sudah berlutut di sisi kasur saat Sela membuka mata.
 
-Bukan jerit panjang — jerit pendek, tertahan, seperti orang yang dilatih dunia untuk tidak membuat onar saat takut. Ashvarok sudah di sisi kasurnya sebelum jerit itu selesai, seperti bayangan yang sudah lama belajar bergerak lebih cepat daripada suara. Di barak lain, orang berbalik posisi dan kembali tidur; di tambang, mimpi buruk bukan acara umum.
+Anak itu mencengkeram selimut. Pandangannya terpaku pada sudut kamar yang kosong. Rambutnya lepas dari tali kaca dan menempel di pipi yang basah oleh keringat.
 
-Sela membuka mata dan menatapnya tanpa melihatnya beberapa saat lamanya.
+"Sela. Lihat aku."
 
-"Ash Man," katanya akhirnya. Suaranya serak. "Dia berdiri di ujung lorong. Lorong rumah kami yang dulu, di distrik lama, waktu aku kecil. Semua orang berjalan lewat dia seperti dia tiang. Namun aku bisa lihat dia menghitung. Jari dia gerak. Satu, dua, tiga." Tangannya meniru gerakan itu di selimut. "Terus dia sampai ke aku, dan kakiku mau lari, dan dia bilang—"
+Ia berkedip dua kali. "Ash Man."
 
-Dia berhenti. Rahangnya mengeras.
+"Di mana?"
 
-"Bilang apa?"
+"Ujung lorong." Napasnya masih cepat. "Lorong rumah lama kita, di distrik lama. Semua orang lewat dekat dia. Tidak ada yang melihat. Dia berdiri dan menghitung dengan jari. Satu, dua, tiga."
 
-"Tidak bilang apa-apa. Itu bagian paling buruknya. Dia tidak bersuara sama sekali, dan tetap saja kupikir dia bilang namaku." Sela duduk, menarik selimut ke pundaknya, marah pada dirinya sendiri. "Aku mimpi ini dari kecil. Biasa hanya sekali bulan. Sekarang dua kali seminggu. Terus minggu ini yang kumimpi bukan lorong rumah lagi. Yang kumimpi lorong tujuh."
+Sela menggerakkan telunjuknya di atas selimut. Gerak itu berhenti mendadak.
 
-Di dalam tubuh Ashvarok, sesuatu yang berumur seribu tahun berdiri dengan sangat tenang. Ash Man yang diam dan menghitung. Wilayah yang sunyi dan menolak dicatat ingatan. Ondar yang melupakan namanya sendiri dua detik di lorong tujuh. Potongan-potongan itu tidak minta disusun. Mereka menyusun sendiri, dan hasilnya adalah kata yang sudah ia kenal sebelum kota ini dibangun — kata yang ia harap tidak akan pernah ia dengar lagi setelah seribu tahun.
+"Lalu?"
 
-Hollowing. Kebocoran kecil tidak datang sebagai ledakan. Datangnya sebagai mimpi anak-anak, dulu, jauh sebelum batunya ikut retak. Selalu begitu — dunia tidak pernah mulai retak di batu. Dunia mulai retak di tempat yang paling tidak dijaga: di tidur anak-anak, di nama yang mulai lupa diri, di keheningan yang mulai terasa seperti rumah.
+"Dia sampai kepadaku. Kakiku tidak bisa bergerak." Sela menyeka wajah dengan lengan. "Dia tidak bicara, tapi aku dengar namaku. Bukan pakai suara. Itu bagian terburuknya."
 
-"Sela. Ash Man itu — mukanya pernah kamu lihat?"
+"Kamu pernah memimpikannya sebelum malam ini?"
 
-"Tidak ada mukanya. Seperti orang lupa dirinya sendiri sampai wajahnya ikut hilang."
+Sela menatapnya, kesal karena pertanyaan datang sebelum hiburan. "Sejak kecil. Dulu sekali sebulan. Belakangan dua kali seminggu."
 
-"Kalau dia menghitung, dia berhenti di angka berapa?"
+"Apa yang berubah?"
 
-Sela menatapnya aneh. Pertanyaan itu bukan pertanyaan penghibur, dan anak itu cukup pintar untuk tahu bedanya.
+"Lorongnya." Suaranya mengecil. "Minggu ini bukan rumah lama. Lorong tujuh. Ada lampu tambang dan penyangga yang patah."
 
-"Dua belas," kata dia pelan. "Selalu dua belas. Kenapa?"
+Ashvarok duduk di lantai. Ondar melupakan namanya sendiri di bagian dalam lorong tujuh. Tempat itu menolak tinggal dalam ingatan. Sekarang mimpi lama Sela berpindah ke sana.
 
-"Karena kalau suatu hari dia berhenti di angka tiga belas," kata Ashvarok, "kau bangunkan aku, apa pun jamnya."
+Ia mengenali urutannya.
 
-"Renn. Jawab yang benar. Mimpi ini artinya apa?"
+Hollowing tidak dimulai ketika batu pecah atau tubuh lenyap dari ingatan. Tanda awalnya masuk melalui tidur: sosok tanpa wajah, nama yang terdengar tanpa suara, dan hitungan yang berhenti pada batas tertentu. Ashvarok pernah menerima laporan serupa sebelum kebocoran pertama the Threshold. Saat itu ia terlambat memahami polanya. Setelahnya, satu permukiman kehilangan nama dalam semalam.
 
-Ashvarok memandangi adik angkat yang tidak punya darah dengannya dan memiliki lebih banyak keberanian daripada yang bisa dilindungi siapa pun. Ada dua jalan di depannya malam ini, dan ia sudah melihat keduanya sejak sore. Jalan utara keluar dari Caldrest sebelum pendataan, sebelum investigasi, sebelum tubuh pinjaman ini dipakai habis oleh dunia yang tidak mengenalinya — jalan yang aman untuk raja tanpa nama. Jalan yang tidak akan pernah membuat bocah ini menangis lagi karena menunggu di tangga.
+"Wajah Ash Man pernah terlihat?" tanyanya.
 
-Dan jalan yang tinggal di atas retakan, bersama bocah yang dihitung oleh ash man. Jalan yang tidak aman untuk siapa pun — tetapi jalan yang membuat bocah ini tidak perlu menunggu sendirian.
+"Tidak ada wajah." Sela merapatkan selimut ke dada. "Bagian itu kosong, seperti dia lupa bentuknya sendiri."
 
-"Artinya kita perlu uang lebih cepat dari jadwal," katanya akhirnya. "Dan aku butuh shift dalam lagi. Yang dekat dasar."
+"Dia berhenti menghitung pada angka berapa?"
 
-"Dasar?" Sela tertawa pendek tanpa suara. "Semua orang turun dari dasar hanya dua hal: batu atau mayat."
+"Dua belas. Selalu dua belas." Sela menajamkan mata. "Kenapa?"
 
-"Maka tidak ada yang curiga kalau aku pulang bawa dua-duanya."
+"Kalau dia mencapai tiga belas, bangunkan aku. Apa pun jamnya. Jangan keluar kamar. Jangan menjawab kalau dia memanggil."
 
-Sela menatapnya lama, mencoba menemukan leluconnya, tidak menemukannya, dan menyimpan wajahnya adik yang sudah memutuskan sesuatu.
+"Kenapa?"
 
-"Besok aku ikut ke pasar," katanya bangkit kembali tidur. "Kalau kau mau main-main di dasar, paling tidak kau makan dulu yang layak. Dan Renn—" suaranya sudah setengah tertidur, "kalau mimpi aku benar dan lorong tujuh memang dihitung... jangan jadi angka ketiga belas."
+"Lakukan saja."
 
-Ashvarok duduk menjaga sampai subuh. Di luar, malam bergerak pelan melewati Caldrest, membawa bau tanah dan asap dan sesuatu yang lebih tua dari keduanya — sesuatu yang berjalan di bawah kota ini, menghitung, menunggu.
+"Kenapa tiga belas?"
 
-Kabur dari Caldrest, ia hitung ulang di kepala yang sama dengan hasil yang sama. Tiga hari sebelum nama ini tertangkap buku besar, empat purnama jalan sebelum kabar tentang bocah selamat lorong tujuh kehilangan nilainya, dan nol kemungkinan membawa serta satu-satunya alasan yang tersisa untuk membangun apa pun. Retakan ada di sini. Ash Man menghitung di sini. Tangan yang menyedot pengikatnya, ke mana pun asalnya, pada akhirnya bergerak lewat sini.
+"Karena dua belas berarti dia masih mencari jalan."
 
-Keputusan itu tidak terasa seperti pilihan. Terasa seperti kembali menandatangani kontrak lama dengan harga baru — kontrak yang ditulis bukan di atas kertas, tetapi di atas nama yang sudah ia bakar, di atas lima nama yang sudah ia kubur, dan sekarang, di atas satu nama baru yang belum sempat ia kenal tetapi sudah belajar ia jaga.
+Sela diam sesaat. "Dan tiga belas?"
 
-Empat puluh hasta di bawah kakinya, retakan itu berdenyut, dan malam ini denyutnya terdengar berbeda: seperti pertanyaan yang menunggu dijawab — seperti sesuatu yang telah menunggu seribu tahun untuk bertanya, dan akhirnya menemukan seseorang yang bisa mendengar.
+Ashvarok tidak akan memberi anak sebelas tahun gambaran orang-orang yang tetap bernapas setelah seluruh dunia lupa siapa mereka.
+
+"Berarti dia menemukan satu."
+
+Sela menurunkan selimut. "Renn. Jawab yang benar. Mimpi ini artinya apa?"
+
+Ia bisa menyebutnya akibat benturan, demam, atau kecemasan setelah runtuhan. Sela akan mengenali jahitan kebohongan itu. Namun mengatakan *Hollowing* hanya mengganti ketakutan dengan nama yang belum dapat ia jelaskan.
+
+"Artinya lorong tujuh belum selesai dengan kita," katanya. "Dan kita harus punya uang sebelum pendataan."
+
+"Itu bukan jawaban penuh."
+
+"Itu bagian yang bisa kita kerjakan."
+
+"Bagaimana?"
+
+"Aku ambil shift dasar. Lorong sembilan bawah."
+
+Sela bangkit duduk. "Semua yang naik dari dasar cuma batu atau mayat."
+
+"Kalau aku membawa keduanya, Quota Office akan menganggapku rajin."
+
+"Tidak lucu."
+
+"Aku tidak bercanda."
+
+Ia memukul lengan Ashvarok dengan bantal, lalu memeluknya. Gerak tubuh Renn mendahului pikiran Ashvarok sekali lagi; tangannya menahan bahu kecil itu sampai napas Sela melambat.
+
+"Besok aku ikut ke pasar," kata Sela. "Kau makan sebelum turun. Tidak pakai alasan utang."
+
+"Kita memang punya utang."
+
+"Kau juga punya tulang. Aku mau tetap begitu." Ia melepaskan pelukan. "Dan kalau Ash Man menghitung lorong tujuh, jangan jadi angka tiga belas."
+
+Sela berbaring lagi, tetapi baru tertidur setelah meminta Ashvarok mengulang tiga aturan: bangunkan dia, jangan keluar, jangan menjawab.
+
+Ashvarok tetap duduk di dekat pintu sampai jendela berubah abu-abu.
+
+Jalan keluar Caldrest masih terbuka. Ia dapat pergi sebelum pendataan mencocokkan nama Renn dengan wajahnya. Dalam beberapa purnama, cerita tentang satu bocah yang selamat dari lorong tujuh akan kehilangan nilainya. Ia bisa mencari tubuh yang lebih kuat, sumber gema lain, dan jalan aman menuju the Threshold.
+
+Namun kebocoran ada di sini. Mimpi Sela ada di sini. Tangan yang menyedot pengikat lama bekerja melalui kedalaman ini. Pergi hanya memberi lawannya waktu dan meninggalkan Sela pada hitungan yang sudah mencapai dua belas.
+
+Ashvarok mengambil surat shift dasar dari balik baju dan meratakannya di atas papan tulis Sela. Di bawah baris *Renn — urutan 3*, ia menulis dengan kapur:
+
+*Lorong sembilan bawah. Tetap di Caldrest.*
+
+Tiga detik kemudian, lantai berdenyut sekali di bawah telapak kakinya.

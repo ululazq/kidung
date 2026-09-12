@@ -17,7 +17,7 @@ Pegawai pos yang menjaganya malam itu — lelaki tua dengan kacamata dua lingkar
 
 Dibuang, pikir Maera, atau diselamatkan oleh seseorang yang paham nilainya sebelum pembuangan itu terjadi — dan ia memikirkan sebuah tabung timah di dalam kotaknya, dikirim seorang juru ukur muda dari kota pelabuhan selatan, warisan ayah yang mati di lorong tujuh. Empat jam ia membolak-balik kertas yang semua isinya mulus, dan kemulusan itulah yang akhirnya membuatnya berhenti. Arsip wilayah yang mulus bukan arsip yang bersih; arsip yang bersih menyimpan jejak pergantian tangan. Yang ini seperti laporan tanpa lampiran. Sesuatu telah dipindahkan keluar dari rak sebelum rak diaudit.
 
-Maera duduk diam beberapa waktu, mata menghitung, lalu mengambil tabung timah dari lapisan bawah kotak timbung mini.
+Maera duduk diam beberapa waktu, mata menghitung, lalu mengambil tabung timah dari lapisan bawah mini weighing box.
 
 Kain peta pra-Liberation terbuka di atas mejanya di bawah dua lampu — peta yang dikirim juru ukur muda cabang selatan, warisan Pak Dekan, salinan yang geometrinya pernah dibacanya bersama Renn sampai satu hasta. Malam itu mereka membaca bentuknya — ruang delapan banding tiga, ambang bersisi pendek, lambang ikatan Hegemony di pintunya. Malam ini ia tidak membaca bentuknya. Malam ini ia membaca pinggirnya.
 

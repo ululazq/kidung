@@ -67,7 +67,7 @@ Setiap pekan, satu orang dari Caldrest akan datang ke kedalaman Ondrath-Ilm tanp
 
 "Karena kau mencatat semuanya," kata Ashvarok, "dan aku menyebalkannya semua. Ondrath-Ilm harus kenal dua sisi keluarganya yang baru."
 
-Ketua majelis Dewan Regional, yang mendengar laporan kunjungan itu, menambahkan satu hal ke dokumen resmi:
+Ketua majelis the Regional Council, yang mendengar laporan kunjungan itu, menambahkan satu hal ke dokumen resmi:
 
 "Wilayah kedalaman Ondrath-Ilm juga diakui sebagai wilayah bersahutan — dan Dewan berkomitmen mengunjunginya tiap musim panen, sebagai tamu, sesuai tradisi baru Caldrest." Ia menatap delegasi Caldrest dan menambahkan kalimat yang membuat Barim menoleh: "Empat puluh tahun aku jadi birokrat yang hanya tahu menandatangani. Delapan bulan ini aku belajar bahwa dokumen terpenting adalah yang membuatku datang ke tempat yang dulunya kutakuti. Terima kasih sudah mengajariku itu."
 

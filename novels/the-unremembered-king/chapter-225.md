@@ -17,11 +17,11 @@ Yang ada hanya jadwal kegiatan: dua belas pekan, dan setiap pekan siswa melakuka
 
 Nama sekolahnya dicetuskan ibu Tamma saat mendengar draf baru itu dibacakan: "Jadi ini sekolah mendengar ya. Kasih nama yang jujur."
 
-Maka lahir Sekolah Mendengar Caldrest — institusi pertama di Karvess yang tidak mengajari muridnya apa pun, hanya memberi mereka dua belas pekan kesempatan untuk memperhatikan.
+Maka lahir the Listening School Caldrest — institusi pertama di Karvess yang tidak mengajari muridnya apa pun, hanya memberi mereka dua belas pekan kesempatan untuk memperhatikan.
 
 ---
 
-Siswa pertama tiga hari kemudian — lebih cepat dari jadwal karena Spire tampaknya sudah lama menunggu: tiga pejabat muda Dewan Regional yang oleh Ossian diperkenalkan dengan jabatan panjang masing-masing, dan oleh ibu Tamma dipotong habis dengan satu kalimat: "Di sini kalian hanya tiga anak muda yang mau belajar. Taruh gelar kalian di tas."
+Siswa pertama tiga hari kemudian — lebih cepat dari jadwal karena Spire tampaknya sudah lama menunggu: tiga pejabat muda the Regional Council yang oleh Ossian diperkenalkan dengan jabatan panjang masing-masing, dan oleh ibu Tamma dipotong habis dengan satu kalimat: "Di sini kalian hanya tiga anak muda yang mau belajar. Taruh gelar kalian di tas."
 
 Ketiganya menaruh segel jabatan mereka ke dalam satu tas kanvas yang digantung di pintu dapur aula — tas yang sejak hari itu bernama "lemari arsip" oleh para murid akademi, karena isinya memang catatan resmi tentang orang-orang yang sedang belajar menjadi manusia lagi.
 
@@ -83,13 +83,13 @@ Pertanyaan itu membuat presensia tua itu sunyi cukup lama sampai Ashvarok hampir
 
 Thessa pulang dengan wajah merah — dan malamnya ia menulis surat pertamanya kepada Spire sejak tiba di Caldrest, yang kalimat pembukanya oleh Sela dikutip ke arsip tanpa diedit:
 
-"Kepada Dewan Regional yang saya hormati: hari ini saya bertanya kepada penjaga malam tertua dunia apakah ia bosan, dan ia menjawab dengan seribu tahun data. Saya ingin melapor bahwa pendidikan saya yang sesungguhnya baru dimulai tujuh hari silam, di sebuah dapur, oleh seorang ibu yang memaksa saya mencuci tangan."
+"Kepada the Regional Council yang saya hormati: hari ini saya bertanya kepada penjaga malam tertua dunia apakah ia bosan, dan ia menjawab dengan seribu tahun data. Saya ingin melapor bahwa pendidikan saya yang sesungguhnya baru dimulai tujuh hari silam, di sebuah dapur, oleh seorang ibu yang memaksa saya mencuci tangan."
 
 ---
 
-Surat Thessa dibacakan di rapat Dewan Regional — oleh ketua majelis sendiri, tanpa diminta siapa pun — dan efeknya melampaui semua ekspektasi Caldrest.
+Surat Thessa dibacakan di rapat the Regional Council — oleh ketua majelis sendiri, tanpa diminta siapa pun — dan efeknya melampaui semua ekspektasi Caldrest.
 
-Karena ketua majelis tidak berhenti di pembacaan. Ia memutuskan — lewat suara majelis yang menurut kabar hampir bulat — bahwa Spire akan mengirim siswa ke Sekolah Mendengar SETIAP ANGKATAN secara permanen: tiga orang per dua belas pekan, dipilih bukan dari pejabat paling senior, tetapi dari mereka yang kelak akan mengambil keputusan. "Masa depan birokrasi harus belajar mencuci piring sebelum menandatangani," kata ketua majelis dalam pidatonya, kalimat yang dalam sebulan menjadi poster tidak resmi di kantor-kantor Dewan wilayah lain.
+Karena ketua majelis tidak berhenti di pembacaan. Ia memutuskan — lewat suara majelis yang menurut kabar hampir bulat — bahwa Spire akan mengirim siswa ke the Listening School SETIAP ANGKATAN secara permanen: tiga orang per dua belas pekan, dipilih bukan dari pejabat paling senior, tetapi dari mereka yang kelak akan mengambil keputusan. "Masa depan birokrasi harus belajar mencuci piring sebelum menandatangani," kata ketua majelis dalam pidatonya, kalimat yang dalam sebulan menjadi poster tidak resmi di kantor-kantor Dewan wilayah lain.
 
 Angkatan kedua sudah mendaftar sebelum angkatan pertama selesai: sembilan nama, termasuk dua notaris, satu arsiparis Spire, dan — mengejutkan semua orang — satu mantan penilai pajak yang dalam surat pendaftarannya menulis: "saya delapan tahun menghitung kerugian orang lain sebagai angka. Saya ingin belajar menghitungnya sebagai wajah."
 

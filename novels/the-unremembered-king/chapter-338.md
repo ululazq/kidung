@@ -5,13 +5,13 @@ chapter: 338
 
 Di desa ketiga dari utara, the Seeker membuka buku catatan kasar dan menulis satu baris yang tidak akan pernah ia tunjukkan kepada the Keeper: *Napas pendek di subuh = pola yang dicari. Tiga orang di desa ini napasnya setengah hitungan lebih pendek dari orang biasa.* Jari-jarinya berhenti di atas angka itu, dan untuk pertama kalinya ia membiarkan dirinya meragukan perintah yang ia terima. The Keeper masih berpegang pada cap tujuh garis, tanda lahir, darah. Namun the Seeker sudah melihat bahwa di menara selatan, penduduk mengukur napas, bukan mengukur kulit, dan mereka melakukannya dengan ketenangan orang yang tidak sedang mencari musuh. Ia menutup buku sebelum the Keeper melihat, karena ia belum siap menjelaskan perbedaan antara perintah dan kebenaran.
 
-Di menara, Mira membaca dentum yang dikirim the Northern Listener dan mencatat di buku anomali: *Dua desa utara kini mengukur napas subuh, bukan tanda lahir. Metode masih kasar — mereka memegang pergelangan terlalu lama, menghitung napas dua kali, lalu menulis angka yang setengahnya salah — tetapi arah mulai benar. Jendela menyempit dari pekan ke hari.* Ia menyapu serambi, lalu menyapu lagi, kebiasaan lama yang membuat tangannya sibuk saat pikirannya tidak. Angin pagi bertiup dari selatan, dan ia menutup mata sejenak, merasakan irama yang tidak pernah berhenti.
+Di menara, Mira membaca dentum yang dikirim the Northern Listener dan mencatat di the Anomaly Book: *Dua desa utara kini mengukur napas subuh, bukan tanda lahir. Metode masih kasar — mereka memegang pergelangan terlalu lama, menghitung napas dua kali, lalu menulis angka yang setengahnya salah — tetapi arah mulai benar. Jendela menyempit dari pekan ke hari.* Ia menyapu serambi, lalu menyapu lagi, kebiasaan lama yang membuat tangannya sibuk saat pikirannya tidak. Angin pagi bertiup dari selatan, dan ia menutup mata sejenak, merasakan irama yang tidak pernah berhenti.
 
 Ashvarok-Renn membaca laporan itu dua kali di meja barak, jari telunjuknya menelusuri baris kedua sisi kiri. "Mereka belajar," katanya pada Kovan. "Namun belum paham bedanya antara tahu pola dan memahami arti. Mereka mengukur napas orang, padahal yang kita jaga bukan hanya napas orang."
 
 "Berapa lama selisih itu bertahan?" tanya Kovan. Ia membuka peta benang emas di depannya dan mulai menandai titik-titik baru.
 
-"Selama mereka yakin kunci berbentuk orang." Ashvarok-Renn menutup buku anomali. "Dan selama kita menjaga agar mereka tidak pernah melihat bentuk sebenarnya. Kunci yang dicari di kulit tidak akan pernah ditemukan di udara."
+"Selama mereka yakin kunci berbentuk orang." Ashvarok-Renn menutup the Anomaly Book. "Dan selama kita menjaga agar mereka tidak pernah melihat bentuk sebenarnya. Kunci yang dicari di kulit tidak akan pernah ditemukan di udara."
 
 Sela berdiri di serambi memegang papan napas. "Berarti kita ke the Ground sebelum mereka paham," katanya. "Lima sudah di tangan. Sisa satu di pangkal, dan itu yang paling sulit dicabut karena ia bukan orang."
 

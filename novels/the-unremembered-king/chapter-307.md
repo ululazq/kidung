@@ -11,7 +11,7 @@ Tulisan tangan Gella, disalin Kovan dengan huruf besar agar terbaca dari serambi
 
 Sela membaca dari kursi arsip.
 
-"Ini bukan protokol Sekolah Mendengar," katanya. "Ini protokol dapur."
+"Ini bukan protokol the Listening School," katanya. "Ini protokol dapur."
 
 "Memang," jawab Gella dari meja pemeriksaan. Ia baru selesai memeriksa pergelangan Harn yang lecet karena sapu. Kulitnya kemerahan, garis sapu menekan. "Karena yang menahan bukan telinga. Yang menahan adalah tubuh yang lelah. Dan tubuh yang lelah butuh aturan yang tidak membuatnya lebih lelah."
 
@@ -19,7 +19,7 @@ Ashvarok-Renn berdiri di dekat jendela, menatap halaman barak yang baru disapu. 
 
 "Setengah napas dalam setahun," katanya. "Ossian menghitung 0,041 per bulan. Jika kita menahan terlalu lama, kita yang putus."
 
-"Jika kita tidak menahan, benang yang putus," jawab Kovan. Ia membuka buku anomali halaman enam. Di sana angka-angka utara dan selatan berdampingan: 3, 3, 3, 2, 3, 3. Di bawahnya, catatan kecil: *Utara makin keras 0,5 napas/tahun.* Di sebelahnya, hitungan tangannya sendiri: 0,5 dibagi 12 = 0,0416, dibulatkan 0,041.
+"Jika kita tidak menahan, benang yang putus," jawab Kovan. Ia membuka the Anomaly Book halaman sepuluh. Di sana angka-angka utara dan selatan berdampingan: 3, 3, 3, 2, 3, 3. Di bawahnya, catatan kecil: *Utara makin keras 0,5 napas/tahun.* Di sebelahnya, hitungan tangannya sendiri: 0,5 dibagi 12 = 0,0416, dibulatkan 0,041.
 
 "Teorinya," lanjut Kovan, "jeda panjang terjadi saat seluruh Karvess menahan bersama. Tetapi seluruh Karvess tidak bisa menahan terus. Tubuh butuh makan, tidur, menyapu. Jadi menahan harus punya jeda juga. Jika tidak, yang menahan akan jatuh sebelum benang putus — dan itu sama saja."
 
@@ -55,7 +55,7 @@ Sela menulis ketiga aturan itu di arsip, di bawah pasal jaringan diam. Tulisanny
 
 *Pasal lelah: satu hentakan, giliran, anak mencatat. Alasan: tubuh yang dipaksa menahan akan putus sendiri sebelum benang putus.*
 
-"Apakah ini tidak melemahkan jaringan?" tanya Kovan. Ia menutup buku anomali, tetapi jarinya tetap di halaman. "Jika tidak semua menahan, jeda panjang tidak tercapai. Teorinya jeda panjang butuh seluruh Karvess menahan bersama."
+"Apakah ini tidak melemahkan jaringan?" tanya Kovan. Ia menutup the Anomaly Book, tetapi jarinya tetap di halaman. "Jika tidak semua menahan, jeda panjang tidak tercapai. Teorinya jeda panjang butuh seluruh Karvess menahan bersama."
 
 Ashvarok-Renn menatap angka di papan. 3, 3, 3, 2, 3. Ia sudah melihat angka yang sama di menara utara, di lantai barat laut, di tabel Brannoc yang dibawa Harn. Semuanya sama — tetapi tidak semua keras di hentakan yang sama.
 
@@ -93,17 +93,17 @@ Maera datang menjelang senja, membawa kain ketiga dari utara — bukan angka, me
 
 Maera menyerahkan kain itu ke Ashvarok-Renn, lalu ke Gella. Gella membaca, mengangguk, menempelkan di papan di bawah aturan.
 
-"Apakah kita akan menguji?" tanya Sela pada Ashvarok-Renn setelah Maera pergi. Ia menatap buku anomali halaman tujuh yang masih kosong. "Menguji apa jadinya jika satu hentakan tidak cukup?"
+"Apakah kita akan menguji?" tanya Sela pada Ashvarok-Renn setelah Maera pergi. Ia menatap the Anomaly Book halaman sebelas yang masih kosong. "Menguji apa jadinya jika satu hentakan tidak cukup?"
 
-"Belum," jawab Ashvarok-Renn. Ia menutup buku anomali. "Kita jalankan satu pekan dulu. Catat siapa lelah, siapa tidak. Siapa pusing, siapa tetap bisa menyapu. Baru kita tahu apakah satu hentakan cukup. Jaringan diam bukan dinding yang langsung jadi. Ia napas yang dilatih pekan demi pekan."
+"Belum," jawab Ashvarok-Renn. Ia menutup the Anomaly Book. "Kita jalankan satu pekan dulu. Catat siapa lelah, siapa tidak. Siapa pusing, siapa tetap bisa menyapu. Baru kita tahu apakah satu hentakan cukup. Jaringan diam bukan dinding yang langsung jadi. Ia napas yang dilatih pekan demi pekan."
 
 Ia menatap Harn yang masih memegang sapu di halaman, Kovan yang mencatat 0,041 di sudut papan, Gella yang memeriksa pergelangan yang tadi lecet — semua gerakan kecil yang delapan belas tahun menjaga barak, kini ditambah satu hentakan.
 
-Malam itu, Ashvarok-Renn menulis di buku anomali halaman tujuh, hurufnya kecil, tidak seperti tulisan resmi:
+Malam itu, Ashvarok-Renn menulis di the Anomaly Book halaman sebelas, hurufnya kecil, tidak seperti tulisan resmi:
 
 *Aturan penjaga: satu hentakan, giliran, anak mencatat. Alasan: menjaga penjaga. Jaringan diam bukan dinding. Jaringan diam adalah napas bersama. Dan napas yang dipaksa bukan napas — ia hanya menahan yang akan putus lebih cepat.*
 
-Di sudut ruangan, Yang Dulu Sunyi mencatat pelan: 3. Lalu jeda satu hentakan yang ditahan bersama — bukan karena diperintah, melainkan karena sapu berhenti, lalu lanjut. Di luar, angin Karvess malam membawa debu halus dari lorong tambang, menempel di papan arsip, menandakan bahwa aturan yang baru ditempel bukan teori — ia sapu yang nyata, bisa disentuh tangan.
+Di sudut ruangan, the Once-Silent mencatat pelan: 3. Lalu jeda satu hentakan yang ditahan bersama — bukan karena diperintah, melainkan karena sapu berhenti, lalu lanjut. Di luar, angin Karvess malam membawa debu halus dari lorong tambang, menempel di papan arsip, menandakan bahwa aturan yang baru ditempel bukan teori — ia sapu yang nyata, bisa disentuh tangan.
 
 Retakan di bawah tidak menjawab. Ia hanya berdenyut, tiga hentakan lalu jeda, sama dengan denyut purba yang kini milik seluruh Karvess. Di dua ujung benang, sapu berhenti satu hentakan, lalu lanjut, lalu berhenti lagi — ritme baru yang tidak melelahkan, tetapi tetap menahan agar benang tidak putus di ujung mana pun.
 

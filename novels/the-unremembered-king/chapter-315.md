@@ -87,7 +87,7 @@ Ia menatap peta di dinding. Garis benang dari barak ke menara kini lurus ke Spir
 
 "Biar mereka panggil," kata Ashvarok-Renn. "Selama yang mereka panggil hanya angin, kita aman. Yang berbahaya bukan dipanggil. Yang berbahaya adalah membawa cerita saat dipanggil."
 
-Kovan membawa buku anomali ke meja dan membukanya di samping laporan bulanan Mira. Ia menarik benang pembatas ke halaman catatan irama tiga detik yang bocor ke bilangan desa.
+Kovan membawa the Anomaly Book ke meja dan membukanya di samping laporan bulanan Mira. Ia menarik benang pembatas ke halaman catatan irama tiga detik yang bocor ke bilangan desa.
 
 "Laporan resmi Mira bilang tiga, selatan ke utara," kata Kovan. "Buku ini bilang irama bocor juga tiga detik. Dua catatan dari dua tempat berbeda, satu angka. Itu bukan kebetulan. Itu berarti angin di menara dan irama di bawah tanah menyambung melalui benang yang sama."
 
@@ -103,7 +103,7 @@ Maera menatap angka-angka itu lama. "Ossian tahu ini sejak awal. Ia yang suruh M
 
 Subuh harinya, pos Guild mengambil kertas itu dari tangan kurir barak. Mira berdiri di gerbang, mengetuk tiga kali ke kayu gerbang, lalu diam satu hentakan, sebelum kurir itu pergi.
 
-Di belakangnya, dua belas anak Sekolah Mendengar berbaris diam di halaman, Sela di depan memegang papan kecil. Saat kurir itu bergerak, Sela mengangkat tangan, dan dua belas anak mengetuk tiga kali ke paha masing-masing, lalu diam satu hentakan. Bunyinya tidak keras. Tidak perlu. Irama itu kini milik mereka, bukan lagi rahasia seorang perawat di menara utara.
+Di belakangnya, dua belas anak the Listening School berbaris diam di halaman, Sela di depan memegang papan kecil. Saat kurir itu bergerak, Sela mengangkat tangan, dan dua belas anak mengetuk tiga kali ke paha masing-masing, lalu diam satu hentakan. Bunyinya tidak keras. Tidak perlu. Irama itu kini milik mereka, bukan lagi rahasia seorang perawat di menara utara.
 
 "Mereka ikut mengiringi," kata Mira pelan.
 
@@ -113,7 +113,7 @@ Ashvarok-Renn berdiri di serambi, tidak ikut berbaris, hanya menatap kurir yang 
 
 "Benangnya pergi," katanya, lebih pada dirinya sendiri daripada pada siapa pun. "Tidak ditarik balik. Tidak diputus. Hanya dijaga di dua ujung yang tidak saling kenal. Itu cara jaringan diam bekerja: tidak dengan menghilang, melainkan dengan tetap menjadi angka."
 
-Ia masuk kembali ke ruang tengah. Di atas meja, buku anomali masih terbuka di halaman terakhir, dan di bawah tulisannya sendiri terdapat satu baris kecil yang tidak ia tulis: coretan kapur Sela di tepi papan, dibawa ke kertas sebagai pengingat. *Tiga. Selatan ke utara. Diam bukan kosong.*
+Ia masuk kembali ke ruang tengah. Di atas meja, the Anomaly Book masih terbuka di halaman terakhir, dan di bawah tulisannya sendiri terdapat satu baris kecil yang tidak ia tulis: coretan kapur Sela di tepi papan, dibawa ke kertas sebagai pengingat. *Tiga. Selatan ke utara. Diam bukan kosong.*
 
 Angka itu kini punya nama, punya tangan, punya irama yang diulang oleh dua belas anak di halaman. Dan di ujung utara, jantung Choir baru saja menerima benang pertama yang akan mereka jawab bila waktunya tiba — dengan pertanyaan yang belum mereka ajukan, kepada suara yang sudah belajar tidak menjawab lebih dari yang ia catat.
 
@@ -123,8 +123,8 @@ Ia tidak menutup buku. Ia meninggalkannya terbuka di kursi kosong — seolah men
 
 Ashvarok-Renn menutup pintu serambi, menatap ke utara lewat celahnya. Di sana, di balik bukit yang tidak terlihat, jantung Choir baru saja menerima benang pertama yang ditarik dari sebuah menara kecil di tepi jalan. Dan benang itu, untuk pertama kalinya, memiliki nama yang bisa mereka jawab bila suatu hari mereka memutuskan untuk bertanya lebih dari sekadar angin.
 
-Ia kembali ke ruang tengah, membuka buku anomali, dan menulis satu baris di bagian paling bawah, di bawah tulisan bab sebelumnya tentang benang yang sampai ke jantung Choir:
+Ia kembali ke ruang tengah, membuka the Anomaly Book, dan menulis satu baris di bagian paling bawah, di bawah catatan tentang benang yang sampai ke jantung Choir:
 
-*Bab penutup Saksi Angin: laporan bulanan pertama bertangan telah dikirim. Nama di arsip: Mira. Angka cocok dengan irama bawah tanah. Keputusan tetap: tidak turun, tidak sebut katup, biarkan mereka membaca angin. Jaringan diam kini punya simpul resmi di Spire. Ujung barak tetap tidak bernama. Itu keuntungan kami.*
+*Laporan bulanan pertama bertangan telah dikirim. Nama di arsip: Mira. Angka cocok dengan irama bawah tanah. Keputusan tetap: tidak turun, tidak sebut katup, biarkan mereka membaca angin. Jaringan diam kini punya simpul resmi di Spire. Ujung barak tetap tidak bernama. Itu keuntungan kami.*
 
 Ia menutup buku itu dan meletakkannya di rak bersama buku-buku lain yang tidak pernah dibaca siapa pun kecuali tangannya. Di luar, angin malam masuk dari selatan melalui celah yang tidak disebut namanya di kertas mana pun, membawa napas yang sama dengan yang Mira catat tiap subuh. Benang pertama telah ditarik penuh, dijawab, dan dibiarkan hidup sebagai angka. Sisanya — seperti yang selalu dikatakan Ashvarok-Renn — bukan urusan mereka yang memegang ujung yang tidak punya nama.

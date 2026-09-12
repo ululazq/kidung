@@ -3,9 +3,9 @@ title: "Bab 48: Seni yang Seharusnya Mati"
 chapter: 48
 ---
 
-Undi kedua menarik nama Ondar, dua pemuda galeri sebelas, dan — atas permintaan khusus yang disetujui surat tanda karantina karena "kebutuhan pembacaan teknis" — bocah tungku lorong tujuh.
+Undi kedua menarik nama Ondar, satu pemuda galeri sebelas, dan Brannoc; atas permintaan khusus yang disetujui surat tanda karantina karena "kebutuhan pembacaan teknis", furnace boy lorong tujuh menjadi anggota keempat.
 
-Begitulah cara paling resmi di seluruh Karvess untuk masuk ke tempat yang seharusnya tidak boleh dimasuki siapa pun: dengan kertas yang bertanda tangan orang yang ingin kamu mengintipnya. Kel Tharrow menandatangani daftar giliran inspeksi tanpa membaca namanya sampai baris terakhir, dan pada pagi hari keenam puluh, ketika empat anggota regu itu turun melalui lompat utama dengan lampu karbid dan peralatan ventilasi yang hanya dipakai untuk kelihatan sibuk, Ashvarok berjalan paling belakang, menghitung langkahnya sendiri seperti orang pulang ke rumah yang alamatnya ia sendiri yang hapus seribu tahun silam.
+Begitulah cara paling resmi di seluruh Karvess untuk masuk ke tempat yang seharusnya tidak boleh dimasuki siapa pun: dengan kertas yang bertanda tangan orang yang ingin kamu intip. Kel Tharrow menandatangani daftar giliran inspeksi tanpa membaca namanya sampai baris terakhir, dan pada pagi hari keenam puluh, ketika empat anggota regu itu turun melalui lompat utama dengan lampu karbid dan peralatan ventilasi yang hanya dipakai untuk terlihat sibuk, Ashvarok berjalan paling belakang, menghitung langkahnya sendiri seperti orang pulang ke rumah yang alamatnya ia sendiri yang hapus seribu tahun silam.
 
 "Inspeksi bawah tingkat empat," kata Shift Guard di gerbang, mencocokkan nama. "Jangan lewat persimpangan utama ke arah timur. Perintah tertulis."
 
@@ -19,13 +19,13 @@ Menurut kenyataannya, mereka turun ke L9B, ke titik-titik sayatan panen, dan Ash
 
 ---
 
-Sayatan pertama sudah ia kenal sejak babak awal hidupnya di tubuh ini: tepi rapi, sudut ekonomis, tukang yang bayaran bukan panggilan. Tetapi hari ini ia tidak membaca sayatannya. Ia membaca apa yang ada di sekitarnya, karena karantina memberinya sesuatu yang tidak pernah diberikan survei Guild: izin untuk diam lama di satu tempat tanpa harus menjelaskan kenapa.
+Sayatan pertama sudah ia kenal sejak babak awal hidupnya di tubuh ini: tepi rapi, sudut ekonomis, tukang yang bekerja demi bayaran, bukan panggilan. Tetapi hari ini ia tidak membaca sayatannya. Ia membaca apa yang ada di sekitarnya, karena karantina memberinya sesuatu yang tidak pernah diberikan survei Guild: izin untuk diam lama di satu tempat tanpa harus menjelaskan kenapa.
 
 Enam lubang pasak. Itu hal pertamanya.
 
 Di dinding lengkung sepuluh hasta dari sayatan termuda, enam lubang bulat berdiameter kepalan tersusun dalam busur yang teratur — terlalu teratur untuk geologi, terlalu tua untuk tambang zaman ini. Isinya sudah kosong sejak lama. Debu di dasar lubang berumur generasi. Ashvarok memasukkan jarinya ke salah satunya dan membaca hal-hal yang hanya bisa dibaca oleh orang yang pernah memasang pasak sendiri: diameter lubang sedikit lebih besar dari pasaknya, artinya pemasangan memakai penyisipan dingin dengan toleransi geser. Arah serat retakan mikroskopis di bibir lubang berpilin, artinya pasak itu pernah diputar — tidak dipukul, diputar, seperti kunci.
 
-"Bukan tambang," kata Brannoc di belakangnya. Mandor itu sudah belajar membaca wajah Ashvarok lebih baik daripada membaca batu. "Kamu menemukan apa?"
+"Bukan tambang," kata Brannoc di belakangnya. Foreman itu sudah belajar membaca wajah Renn lebih baik daripada membaca batu. "Kamu menemukan apa?"
 
 "Tunggu."
 
@@ -35,19 +35,19 @@ Ashvarok berdiri di tengah kanal itu, memandang ke ujung gelapnya, dan merasakan
 
 Karena ia mengenali tata bahasanya.
 
-Pasak yang diputar, bukan dipukul. Kanal tarik yang menuntut irama tetap. Enam titik ikatan pada busur yang fungsinya bukan menahan dinding, melainkan menahan sesuatu agar tetap pada posisi relatifnya — dan semua itu hanya punya satu logika di dunia, logika yang dulu diajarkan kepada tujuh orang di seluruh kekaisaran dan dibawa mati oleh empat di antaranya di malam the Long Dusk. Membuka dan mengikat bukan pekerjaan alat, melainkan pekerjaan tubuh-kunci. Sesuatu harus melewatinya. Sesuatu yang berdenyut. Jalur gesekan ini adalah lintasan untuk tubuh yang menjadi bagian dari putaran — prinsip the Walking Key, ditulis dalam batu oleh tangan yang tidak mungkin lagi hidup.
+Pasak yang diputar, bukan dipukul. Kanal tarik yang menuntut irama tetap. Enam titik ikatan pada busur yang fungsinya bukan menahan dinding, melainkan menahan sesuatu agar tetap pada posisi relatifnya — dan semua itu hanya punya satu logika di dunia, logika yang dulu diajarkan kepada tujuh orang di seluruh kekaisaran dan dibawa mati oleh empat di antaranya pada the Long Dusk. Membuka dan mengikat bukan pekerjaan alat, melainkan pekerjaan tubuh-kunci. Sesuatu harus melewatinya. Sesuatu yang berdenyut. Jalur gesekan ini adalah lintasan untuk tubuh yang menjadi bagian dari putaran — prinsip the Walking Key, ditulis dalam batu oleh tangan yang tidak mungkin lagi hidup.
 
-"Ashvarok." Suara Brannoc rendah di belakangnya, memakai nama samaran itu dengan hati-hati orang yang sadar sedang berdiri di tempat yang salah untuk berteriak. "Wajah kamu membuat aku ingin naik duluan. Katakan ada apa."
+"Renn." Suara Brannoc rendah di belakangnya, memakai nama yang dikenal barak. "Wajah kamu membuat aku ingin naik duluan. Katakan ada apa."
 
 Ada tangan lain, pikir Ashvarok. Itulah kalimat yang tidak bisa ia katakan, karena begitu dikatakan ia harus menjelaskan seni raja mana yang dimaksud, dan milik siapa seni itu, dan kenapa satu-satunya manusia yang seharusnya mengenalnya sedang berlutut di lorong tambang dengan parut yang melewati siku.
 
-"Tukang kunci," katanya akhirnya. "Yang sangat, sangat tua. Pasak-pasak ini bukan bekerja panener. Panener hanya memotong di tempat yang sudah disiapkan orang lain — lihat, sayatan mereka selalu jatuh tepat di antara dua lubang pasak. Mereka tidak tahu apa artinya. Mereka hanya diberi tahu: potong di sini, jangan sentuh yang besar. Yang membuat semua ini—" ia menyapukan tangannya melintasi kanal dipoles, "—paham pekerjaan yang sudah seribu tahun tidak ada lagi."
+"Tukang kunci," katanya akhirnya. "Yang sangat, sangat tua. Pasak-pasak ini bukan pekerjaan panener. Panener hanya memotong di tempat yang sudah disiapkan orang lain — lihat, sayatan mereka selalu jatuh tepat di antara dua lubang pasak. Mereka tidak tahu apa artinya. Mereka hanya diberi tahu: potong di sini, jangan sentuh yang besar. Yang membuat semua ini—" ia menyapukan tangannya melintasi kanal yang dipoles, "—paham pekerjaan yang sudah seribu tahun tidak ada lagi."
 
 "Orang?"
 
 "Sebuah tangan." Ia bangkit, membersihkan lututnya. "Tangan bisa menempel pada badan yang masih hidup. Bisa juga pada buku. Belum tahu mana yang lebih buruk."
 
-Brannoc memandangi kanal itu lama, lalu melakukan hal yang membuat Ashvarok untung memiliki mandor ini: ia tidak bertanya lagi, dan hanya berkata, "Berapa lama kamu butuh di sini?" — yang artinya: selesaikan pekerjaanmu, aku jaga waktu.
+Brannoc memandangi kanal itu lama, lalu melakukan hal yang membuat Ashvarok beruntung memiliki Foreman ini: ia tidak bertanya lagi, dan hanya berkata, "Berapa lama kamu butuh di sini?" — yang artinya: selesaikan pekerjaanmu, aku jaga waktu.
 
 Ia butuh empat puluh menit, dan empat puluh menit itu memberinya peta kedua yang tidak terbuat dari kertas.
 
@@ -75,12 +75,12 @@ Di permukaan, sore hari itu, mereka membersihkan peralatan inspeksi yang tidak p
 
 Brannoc berhenti menggulung tali. "Dan sekarang karantina menutup semuanya. Kalau kebiasaannya masih hidup—"
 
-"—dia akan kelaparan juga," kata Ashvarok. "Dan yang kelaparan melakukan salah satu dari dua hal: berhenti, atau mencari jalan lain masuk." Ia memandang lereng tambang yang diam itu dengan mata penilai risiko. "Tugas kita malam-malam depan adalah tahu duluan dia memilih yang mana."
+"—dia akan kelaparan juga," kata Ashvarok. "Dan yang kelaparan melakukan salah satu dari dua hal: berhenti, atau mencari jalan lain masuk." Ia memandang lereng tambang yang diam itu dengan tatapan orang yang menimbang risiko. "Tugas kita malam-malam depan adalah tahu duluan dia memilih yang mana."
 
 ---
 
-Ondar menulis laporan inspeksi sore itu dengan kesungguhan seorang biarawan muda, dan laporan itu — tujuh baris tentang tirisan garam, dua baris tentang troli tua, satu gambar kasar dirinya sendiri yang tersenyum di sudut kertas — lolos pembacaan Kel Tharrow tanpa satu pun alis terangkat. Sejarah Caldrest kelak mungkin mencatat bahwa karantina ringan musim itu menghasilkan nol temuan teknis, dan catatan itu akan benar, karena semua temuan penting tidak pernah masuk laporan.
+Ondar menulis catatan lapangan sore itu dengan kesungguhan seorang biarawan muda: tujuh baris tentang tirisan garam, dua baris tentang troli tua, satu gambar kasar dirinya sendiri yang tersenyum di sudut kertas. Catatan itu menjadi lampiran laporan resmi Brannoc dan lolos pembacaan Kel Tharrow tanpa satu alis terangkat. Sejarah Caldrest kelak mungkin mencatat bahwa karantina ringan musim itu menghasilkan nol temuan teknis, dan catatan itu akan benar, karena semua temuan penting tidak pernah masuk laporan.
 
-Malam harinya Ashvarok menulis laporan palsu tentang tirisan garam untuk arsip karantina, lalu menambahkan satu kalimat pribadi di buku catatannya sendiri, huruf kecil, tanpa judul: Hitung ulang semua pintu. Kali ini termasuk yang dibuat untuk dikunci oleh orang.
+Malam harinya Ashvarok menyusun lampiran teknis hambar tentang tirisan garam untuk ditandatangani Brannoc dan dimasukkan ke berkas karantina yang memuat pasal saksi prosedur Maera. Di buku catatannya sendiri ia menambahkan satu kalimat, huruf kecil, tanpa judul: Hitung ulang semua pintu. Kali ini termasuk yang dibuat untuk dikunci oleh orang.
 
 

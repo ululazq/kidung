@@ -3,17 +3,17 @@ title: "Bab 177: Nama di Meja Panjang"
 chapter: 177
 ---
 
-Kunjungan bekerja kedua Pembaca Tua ke Caldrest dimulai dengan hal yang tidak pernah terjadi dalam sejarah jabatan itu: jabatan itu memperkenalkan nama aslinya.
+Kunjungan bekerja kedua the Old Reader ke Caldrest dimulai dengan hal yang tidak pernah terjadi dalam sejarah jabatan itu: jabatan itu memperkenalkan nama aslinya.
 
-"Sebelum kita mulai," kata wanita tua itu, berdiri di kepala meja panjang gudang perkakas — meja yang kini telah ditambah dua bangku lagi supaya semua muat — "satu koreksi protokol. Kalian memanggil saya Pembaca Tua sejak awal, dan saya membiarkannya karena jabatan memang harus dipisahkan dari manusianya. Namun rapat ini bukan sidang. Ini meja kerja. Dan di meja kerja, nama jabatan boleh digantung di pintu."
+"Sebelum kita mulai," kata wanita tua itu, berdiri di kepala meja panjang gudang perkakas — meja yang kini telah ditambah dua bangku lagi supaya semua muat — "satu koreksi protokol. Kalian memanggil saya the Old Reader sejak awal, dan saya membiarkannya karena jabatan memang harus dipisahkan dari manusianya. Namun rapat ini bukan sidang. Ini meja kerja. Dan di meja kerja, nama jabatan boleh digantung di pintu."
 
 Ia duduk. Ruangan menunggu.
 
-"Nama saya Sareth Vayin." Ia mengatakannya seperti menyebut cuaca. "Saya masuk ordo Penjaga Rekam umur sembilan tahun, sebagai anak yatim hasil seleksi arsip. Saya menjadi Pembaca Tua empat puluh satu tahun silam, setelah guru saya mati tanpa pewaris karena semua muridnya sudah lebih dulu dikirim keluar mencari seni penambalan yang hilang. Saya adalah yang terakhir dari garis itu. Dan alasan saya akhirnya datang ke Caldrest dengan nama, bukan dengan jabatan, adalah karena minggu lalu seorang bocah lorong tujuh menulis kalimat di papan tulisnya: 'Pintunya batu asah.'" Ia memandang Sela. "Tidak ada jabatan yang bisa dibuat mengetuk pintu dengan hormat. Hanya manusia bisa. Maka hari ini saya manusia."
+"Nama saya Sareth Vayin." Ia mengatakannya seperti menyebut cuaca. "Saya masuk the Record Wardens umur sembilan tahun, sebagai anak yatim hasil seleksi arsip. Saya menjadi the Old Reader empat puluh satu tahun silam, setelah guru saya mati tanpa pewaris karena semua muridnya sudah lebih dulu dikirim keluar mencari seni penambalan yang hilang. Saya adalah yang terakhir dari garis itu. Dan alasan saya akhirnya datang ke Caldrest dengan nama, bukan dengan jabatan, adalah karena minggu lalu seorang bocah lorong tujuh menulis kalimat di papan tulisnya: 'Pintunya batu asah.'" Ia memandang Sela. "Tidak ada jabatan yang bisa dibuat mengetuk pintu dengan hormat. Hanya manusia bisa. Maka hari ini saya manusia."
 
 Hening sopan. Lalu ibu Tamma, tentu saja dia: "Sareth Vayin. Teh?"
 
-"Manis," kata Pembaca Tua — kata Sareth — dan Caldrest resmi menerima anggota baru tanpa formulir, hanya dengan segelas teh.
+"Manis," kata the Old Reader — kata Sareth — dan Caldrest resmi menerima anggota baru tanpa formulir, hanya dengan segelas teh.
 
 ---
 
@@ -29,7 +29,7 @@ Temuan kedua, yang datang saat sesi membaca batu asah tua bersama — telapak Sa
 
 Ruangan diam menyerapnya. Maera yang pertama bicara, suara Assayer yang menghitung cepat: "Kalau batu asah itu fragmen seam Testament utara, maka membacanya utuh = membaca rekaman kebocoran utara dari sisi dalam. Termasuk sembilan suara. Termasuk—" ia berhenti, memandang Ossian, "—mungkin termasuk Vessia."
 
-Ossian Vael, yang selama ini duduk paling ujung, berdiri. Dan pejabat Koordinasi Artefak Regional, birokrat paling rapi Karvess, berkata kepada ruangan dengan suara yang tidak stabil:
+Ossian Vael, yang selama ini duduk paling ujung, berdiri. Dan pejabat Regional Artifact Coordination, birokrat paling rapi Karvess, berkata kepada ruangan dengan suara yang tidak stabil:
 
 "Maka aku mengajukan permintaan pertamaku sebagai anggota meja ini. Baca batu itu. Sekarang. Aku akan tunggu di luar sampai selesai, karena aku tidak sanggup mendengarnya sambil duduk, tetapi tolong—"
 
@@ -47,7 +47,7 @@ Tidak ada yang bisa direproduksi kata demi kata — rekaman kematian tidak beker
 
 Suara kesembilan menyebut: "Vessia. Vessia. Vessia."
 
-Ossian Vael tidak keluar ruangan. Ia tinggal. Ia mendengar sampai selesai. Dan ketika pembacaan berakhir dan kedua telapak lepas dari batu itu, pejabat Koordinasi Artefak Regional yang selama ini tidak pernah goyah duduk diam dengan air muka yang sudah melampaui segala prosedur.
+Ossian Vael tidak keluar ruangan. Ia tinggal. Ia mendengar sampai selesai. Dan ketika pembacaan berakhir dan kedua telapak lepas dari batu itu, pejabat Regional Artifact Coordination yang selama ini tidak pernah goyah duduk diam dengan air muka yang sudah melampaui segala prosedur.
 
 "Vessia," katanya akhirnya. Kakaknya. Namanya masih bersuara. Delapan belas tahun dikira hilang, ternyata tersimpan, menunggu, menyebut dirinya sendiri kepada siapa pun yang mau mendengar batu.
 
@@ -89,7 +89,7 @@ Lalu ia berhenti sebelum keluar barak, kembali, dan menambahkan satu kalimat lag
 
 Catatan untuk pencatat keluarga: mulai hari ini, semua catatan tentang utara pakai nama asli korban kalau sudah diketahui. Vessia dulu, bukan "korban sembilan". Nama yang sudah pulang tidak boleh dikembalikan ke anonim.
 
-Ia keluar ke udara pagi dengan papan itu, dan Caldrest menyambutnya seperti biasa — pasar yang membuka, anak-anak name train yang menyebut nama satu sama lain, ibu Tamma yang membersihkan bangku panggung dapur untuk sesi malam. Kota ini tidak tahu bahwa pagi ini penjaganya baru saja menemukan bahwa seninya belum lengkap, dan bahwa di utara ada empat ratus alasan untuk melanjutkan.
+Ia keluar ke udara pagi dengan papan itu, dan Caldrest menyambutnya seperti biasa — pasar yang membuka, anak-anak name train yang menyebut nama satu sama lain, ibu Tamma yang membersihkan bangku the Kitchen Stage untuk sesi malam. Kota ini tidak tahu bahwa pagi ini penjaganya baru saja menemukan bahwa seninya belum lengkap, dan bahwa di utara ada empat ratus alasan untuk melanjutkan.
 
 Tidak tahu, tetapi tetap berjalan. Itulah hal terbaik tentang Caldrest: ia melangkah duluan, mengerti belakangan, dan tetap benar.
 

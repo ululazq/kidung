@@ -3,9 +3,9 @@ title: "Bab 284: Mendengarkan yang Tidak Bicara"
 chapter: 284
 ---
 
-Angkatan empat Sekolah Mendengar dibuka dengan daftar mata pelajaran yang membuat dua calon murid mundur di hari pertama — dan oleh kepala sekolahnya dianggap tanda kurikulum bekerja dengan baik.
+Angkatan empat the Listening School dibuka dengan daftar mata pelajaran yang membuat dua calon murid mundur di hari pertama — dan oleh kepala sekolahnya dianggap tanda kurikulum bekerja dengan baik.
 
-"Yang mundur bukan kehilangan," kata Daven, yang kini memimpin Sekolah Mendengar setelah Thessa pindah permanen ke Spire. "Sekolah ini tidak untuk semua orang. Itu sejak awal kejujurannya."
+"Yang mundur bukan kehilangan," kata Daven, yang kini memimpin the Listening School setelah Thessa pindah permanen ke Spire. "Sekolah ini tidak untuk semua orang. Itu sejak awal kejujurannya."
 
 Daftar itu:
 
@@ -23,13 +23,13 @@ Empat musim. Satu tahun penuh. Dan di akhirnya, ujian yang oleh angkatan-angkata
 
 Ia melihat wajah-wajah muda itu satu per satu.
 
-"Delapan ratus tahun Yang Dulu Sunyi bertanya tanpa dijawab. Delapan puluh tahun batu Vhal-Duren menunggu tanpa tamu. Kalian diminta satu tahun. Jangan mengeluh di depan mereka."
+"Delapan ratus tahun the Once-Silent bertanya tanpa dijawab. Delapan puluh tahun batu Vhal-Duren menunggu tanpa tamu. Kalian diminta satu tahun. Jangan mengeluh di depan mereka."
 
 ---
 
 Mata pelajaran musim ketiga — mendengarkan yang tidak bicara — ternyata kelas yang paling banyak mengubah murid-muridnya.
 
-Pekan pertama: praktik di klinik Gella, menyapa tubuh pasien the Hollowed yang mengizinkan. Pekan kedua: ziarah makam-makam tanpa nama di tepi tambang lama, membaca daftar-daftar yang ditulis kapur, belajar dari kamp-kamp pesisir cara menjaga nama tanpa batu. Pekan ketiga: Akademi Arsip, membaca arsip diam Pembaca Tua — dua belas gulungan pertanyaan kotak hati yang sampai hari ini masih tujuh belum terjawab.
+Pekan pertama: praktik di klinik Gella, menyapa tubuh pasien the Hollowed yang mengizinkan. Pekan kedua: ziarah makam-makam tanpa nama di tepi tambang lama, membaca daftar-daftar yang ditulis kapur, belajar dari kamp-kamp pesisir cara menjaga nama tanpa batu. Pekan ketiga: the Archive Academy, membaca arsip diam the Old Reader — dua belas gulungan pertanyaan kotak hati yang sampai hari ini masih tujuh belum terjawab.
 
 Murid termuda angkatan itu — laki-laki lima belas tahun, anak pedagang ikan pasar Caldrest yang dulu membacakan jawaban nomor sembilan belas di atas meja — mengajukan pertanyaan pada minggu ketiga yang oleh Sela dicatat langsung ke arsip resmi:
 
@@ -43,7 +43,7 @@ Pertanyaan bagus. Jawabannya datang dari tempat yang tidak diduga murid mana pun
 
 "Nah. Arsip yang selesai bicara itu resep." Ia melambaikan keranjangnya sambil pergi. "Kamu tidak mendengar supnya lagi. Kamu MEMASAKNYA. Itu cara mendengarkan yang sudah selesai bicara — kamu jalankan."
 
-Kelas itu diam sampai Daven menutup sesi lebih awal, dan arsiparis Akademi mencatat bahwa hari itu tujuh murid langsung naik gunung ke Vhal-Duren tanpa jadwal — untuk "memasak" arsip Pembaca Tua: menjalankan pertanyaan-pertanyaan yang tertinggal.
+Kelas itu diam sampai Daven menutup sesi lebih awal, dan arsiparis Akademi mencatat bahwa hari itu tujuh murid langsung naik gunung ke Vhal-Duren tanpa jadwal — untuk "memasak" arsip the Old Reader: menjalankan pertanyaan-pertanyaan yang tertinggal.
 ---
 
 Musim empat — mendengarkan diri sendiri — ternyata musim yang paling sedikit materinya dan paling banyak air matanya.
@@ -119,7 +119,7 @@ Sorenya, setelah tamu-tamu pulang, Ashvarok-Renn dan Sela duduk di halaman sekol
 
 "Delapan tahun," kata Sela. "Dari barak sewaan jadi sekolah dengan kurikulum empat musim."
 
-"Delapan ratus," kata Ashvarok-Renn. "Itu yang lebih aneh. Yang Dulu Sunyi butuh delapan ratus tahun untuk belajar bertanya. Generasi ini butuh delapan tahun untuk belajar menerimanya jawaban bisa 'belum'." Ia menggeleng pelan. "Aku seribu tahun dan baru sekarang paham urutannya: bertanya itu mudah. Sabar menunggu jawabannya itu mata pelajarannya."
+"Delapan ratus," kata Ashvarok-Renn. "Itu yang lebih aneh. the Once-Silent butuh delapan ratus tahun untuk belajar bertanya. Generasi ini butuh delapan tahun untuk belajar menerimanya jawaban bisa 'belum'." Ia menggeleng pelan. "Aku seribu tahun dan baru sekarang paham urutannya: bertanya itu mudah. Sabar menunggu jawabannya itu mata pelajarannya."
 ---
 
 Dan satu entri penutup untuk bab ini — dari buku pos sekolah, ditulis Wida yang kini membagi tugas kakak-pos antara utara dan halaman sekolah:
@@ -143,10 +143,10 @@ Satu paragraf tambahan — karena ada satu kabar yang masuk malam itu juga dan t
 
 Kovan melaporkan bahwa dari empat puluh nat muda angkatan uji, TIGA menunjukkan pola yang belum pernah dicatat: mereka tidak hanya menjawab — mereka BERTANYA BALIK kepada penjaganya. Pertanyaan-pertanyaan kecil: soal jadwal, soal keluarga murid, soal kenapa sup mingguan berubah rasa.
 
-"Nat bertanya kepada manusia bukan hal baru," kata Kovan. "Namun nat MUDA bertanya balik dalam tahun pertamanya... itu data baru." Ia menutup papan hitungnya dengan gerakan final. "Yang Dulu Sunyi delapan ratus tahun untuk belajar bertanya. Nat-nat ini butuh setahun."
+"Nat bertanya kepada manusia bukan hal baru," kata Kovan. "Namun nat MUDA bertanya balik dalam tahun pertamanya... itu data baru." Ia menutup papan hitungnya dengan gerakan final. "the Once-Silent delapan ratus tahun untuk belajar bertanya. Nat-nat ini butuh setahun."
 
 "Karena lingkungannya sudah bicara duluan," kata Sela. "Anak apa pun — batu atau bukan — belajar cepat kalau rumahnya sudah ramai."
 
-Dan di barak utara, ketika laporan itu dibacakan, Yang Dulu Sunyi menyala lebih terang dari biasanya dan berkata kalimat yang oleh Barim ditulis besar-besar di arsip:
+Dan di barak utara, ketika laporan itu dibacakan, the Once-Silent menyala lebih terang dari biasanya dan berkata kalimat yang oleh Barim ditulis besar-besar di arsip:
 
 "BAGUS. ANAK-ANAK YANG BERTANYA BALIK ARTINYA RUMAHNYA AMAN. DELAPAN RATUS TAHUN PEKERJAANKU AKHIRNYA ADA HASIL SAMPINGNYA: GENERASI NAT YANG TIDAK PERNAH TAHU RASA TAKUT BERTANYA."

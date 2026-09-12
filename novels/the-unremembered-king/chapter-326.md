@@ -3,94 +3,192 @@ title: "Bab 326: Pintu Tanpa Kunci"
 chapter: 326
 ---
 
-Pihak ketiga mencapai the Hollow pada hari ke sembilan belas. Ossian mengirim kabar lewat Thessa: pendengar danau garam melihat tujuh orang berseragam tanpa cap Choir berdiri di tengah lembah tak bernama, tangan menyentuh tujuh batu yang bertemu di satu titik.
+Pihak ketiga mencapai the Hollow pada hari kesembilan belas.
 
-*Mereka coba tekan batu secara berurutan — satu, dua, tiga, empat, lima, enam, tujuh. Namun setelah batu keenam, tidak ada apa-apa. Batu ketujuh hanya berdenyut, tidak bergerak. Mereka ribut, lalu pergi meninggalkan cap tujuh garis di tanah.*
+Thessa datang menjelang tengah hari dengan lumpur garam mengering sampai lutut. Ia tidak meminta minum. Dari lapisan dalam mantelnya, ia mengeluarkan kain tenun Ossian dan membentangkannya di meja serambi. Tujuh simpul hitam mengitari satu simpul abu-abu; benang terakhir putus sebelum mencapai tepi kain.
 
-Ashvarok-Renn membaca di serambi, lalu menatap Kovan. "Mereka tidak punya kunci. Tujuh pintu butuh urutan yang bukan satu-satu. Ibu Tamma bilang tujuh pintu tanpa kunci — mungkin maksudnya kunci itu bukan urutan, tetapi sesuatu yang hilang delapan belas tahun silam."
+Ashvarok-Renn membaca pesan di sela anyaman. *Pendengar danau garam melihat tujuh orang berseragam tanpa cap Choir. Mereka berdiri di tengah lembah tak bernama, masing-masing menyentuh satu batu. Mereka menekan batu secara berurutan. Setelah batu keenam, tanah berdengung. Batu ketujuh berdenyut, tetapi tidak bergerak. Mereka bertengkar, meninggalkan cap tujuh garis, lalu mundur ke jalur utara.*
 
-"Semua yang hilang saat sembilan napas pergi," kata Sela. "Termasuk cara menutup pangkal."
+Kovan menahan ujung kain yang terangkat angin. "Tidak ada bentrokan dengan Choir?"
 
-"Tepat. Pihak ketiga punya peta, punya tangan, tetapi tidak punya sembilan napas yang dibawa pergi. Maka pintu tetap tertutup bagi mereka." Ashvarok-Renn menulis di bible: *Pihak cap 7 garis gagal buka the Hollow — batu ke-7 hanya berdenyut, tidak gerak. Kunci = sesuatu yang hilang saat 9 napas pergi. Pintu tanpa kunci bagi mereka.*
+"Tidak terlihat cap baru selain tujuh garis," jawab Thessa. "Pendengar Ossian mencium damar terbakar di jalur timur, tetapi tidak melihat orang. Ia tidak berani mendekat setelah batu berdengung."
 
----
+"Benar untuk tidak mendekat." Ashvarok-Renn menyentuh simpul ketujuh pada kain. Seratnya kasar di ujung jari. "The Wanes punya peta dan tujuh tangan. Mereka tetap gagal."
 
-Malamnya, Ashvarok-Renn membaca laporan Ossian pelan di serambi, suara hampir tak terdengar angin selatan. "Mereka tekan batu satu sampai enam, lalu batu ketujuh hanya berdenyut," ulangnya. "Batu ketujuh adalah kunci, tetapi kunci itu bukan batu. Ia adalah sembilan napas yang dihisap delapan belas tahun silam."
+Sela berdiri di samping papan keadaan dengan kapur belum menyentuh permukaan. "Karena urutannya salah?"
 
-"Mereka punya tangan, punya peta, punya tujuh batu," kata Kovan. "Namun tidak punya sembilan nyawa yang hilang. Maka pintu tetap tertutup."
+"Itu jawaban yang mereka inginkan." Kovan mengambil tujuh kerikil dari pot tanaman dan menyusunnya mengikuti gambar Ossian. "Kalau urutan satu sampai tujuh gagal, mereka tinggal mencoba susunan lain. Tujuh batu memberi ribuan kemungkinan. Mereka akan kembali."
 
-"Tepat. Dan bila mereka sadar butuh sembilan napas, mereka akan cari kita." Ashvarok-Renn menatap Sela yang memegang papan napas. "Itu sebabnya kau ukur aku tiap fajar. Aku salah satu dari sembilan. Bila mereka tahu, mereka datang bukan untuk celah, tetapi untuk tubuhku."
+Ashvarok-Renn memindahkan kerikil ketujuh ke tengah. Dentum lemah menekan tulang dadanya, lalu lenyap. "Ibu Tamma tidak pernah berkata tujuh pintu berkunci. Ia berkata tujuh pintu tanpa kunci. Mungkin urutan tidak pernah menjadi persoalan."
 
-"Kita tidak akan biarkan," kata Gella datar. "Sembilan napas tersebar di sembilan orang. Mereka harus tangkap semua, dan kita tak bernama di arsip. Mustahil mereka temukan sembilan yang tak tercatat."
+"Lalu apa yang kurang?" tanya Thessa.
 
----
+"Sesuatu yang sudah tidak berada di the Hollow." Ia memandang Gella. "Sembilan napas pergi pada malam the Remainder. Sejak itu pangkal tidak pernah terbuka."
 
-Di barak, Brannoc menyalakan lampu minyak lebih terang malam itu, dan dua belas anak duduk melingkar. "Malam ini kita rayakan kecil," katanya. "Bukan karena menang, tetapi karena lima simpul kini punya mata. Dua tahun lalu kita hanya jaga celah menara. Sekarang kita dengar selatan, timur, utara, dan bayang the Hollow."
+Gella menaruh dua jari di pergelangan tangannya sebelum menjawab. "Jangan ubah kebetulan menjadi kepastian. Sembilan napasmu hilang delapan belas tahun lalu. Kita belum tahu ke mana perginya, apalagi apakah batu-batu itu memerlukannya."
 
-"Kapan kita jaga barat daya?" tanya anak angkatan keempat.
+"Namun the Hollow bereaksi ketika mereka menekan batu keenam."
 
-"Barat daya bekas pos Hegemony," jawab Ashvarok-Renn yang duduk di tepi lingkaran. "Tempat mati sejak perang. Namun simpul ke-enam dari tujuh mungkin berdenyut di sana, karena Hegemony dulu pakai seam sebagai jalan. Kita kirim mata ke sana bila selatan dan timur aman."
+"Dan dadamu bereaksi sekarang karena kau kurang tidur." Gella menghitung empat denyut, berhenti, lalu menghitung lagi. "Tulis sebagai dugaan. Bukan kunci."
 
-"Berarti masih dua simpul buta," kata Sela.
+Sela menurunkan kapurnya ke papan. *The Wanes gagal membuka the Hollow. Batu ketujuh berdenyut. Kemungkinan: urutan salah atau sesuatu hilang sejak the Remainder.*
 
-"Dua dari tujuh. Namun kita tahu bentuknya sekarang. Itu lebih dari yang Choir atau the Wanes punya." Ashvarok-Renn menatap lingkaran anak-anak. "Kalian adalah generasi yang akan tutup pintu tanpa pernah melihatnya. Itu warisan yang tak perlu nama."
-
-Di sudut, Gella menyuap sup ke mulut Ashvarok-Renn tanpa diminta, seperti ibu Tamma dulu. "Makan sebelum menjawab," katanya. "Itu pasal pertama di buku ini."
+Ashvarok-Renn membiarkan kalimat itu tanpa koreksi. Gella benar; memberi nama pada jawaban terlalu cepat sama berbahayanya dengan membuka pintu.
 
 ---
 
-Kovan menarik benang putih di peta, menyambung lima titik berdenyut ke satu garis tak kasat mata. "Lima simpul buta kini punya suara," katanya. "Kita dengar semua, tidak pegang satu pun. Namun bila the Wanes temukan tujuh keluarga pengikat, mereka punya setengah kunci. Kita harus tahu siapa tujuh keluarga itu duluan."
+Menjelang senja, Mira mengirim ketukan dari menara: tiga cepat, satu lambat, lalu rangkaian tak beraturan. Bukan pola latihan.
 
-"Mulai dari ibu Tamma," kata Ashvarok-Renn. "Ia menangis soal tujuh pintu. Mungkin garisnya salah satu dari tujuh. Tanya Gella siapa keluarga di desa ini yang punya tanda lahir berdenyut — itu ciri pengikat purba menurut legenda the Wanes."
+Ashvarok-Renn sedang membawa ember melintasi halaman ketika dentum pertama menghantam. Air melompat melewati bibir kayu. Dua belas anak yang berlatih tali ketukan membeku, telapak mereka masih menempel pada simpul masing-masing.
 
-Gella mengangguk pelan. "Aku pernah lihat tanda itu di punggung ibu Tamma. Lingkaran tujuh titik. Aku kira tahi lalat biasa."
+"Duduk," kata Brannoc. "Punggung ke dinding. Jangan ikut menjawab."
 
-"Maka ibu Tamma adalah satu dari tujuh keluarga," bisik Sela. "Dan ia telah tiada. Satu kunci hilang bersamanya."
+Dentum kedua datang dari bawah tanah. Lampu minyak di serambi bergetar; nyalanya memendek sampai biru. Ashvarok-Renn menaruh ember, tetapi tekanan di dadanya menahan napas pada hitungan ketiga. Gella sudah berada di depannya sebelum ia sempat memanggil.
 
-"Tidak hilang," kata Ashvarok-Renn. "Ia wariskan ke kita lewat bible kecil dan kata-kata saat demam. Tujuh pintu tanpa kunci. Kunci adalah mereka yang ingat pintu itu."
+"Empat masuk, tiga keluar," perintahnya.
+
+"Aku masih bisa berdiri."
+
+"Itu bukan jawaban atas hitunganku. Empat masuk."
+
+Ia menurut. Udara membawa bau jelaga lampu dan sup akar dari dapur. Pada hitungan ketiga, dentum menyebar menjadi getaran halus di papan lantai. Benang-benang pada peta Kovan bergerak sendiri, yang putih lebih dulu, lalu abu-abu dari arah selatan.
+
+Kovan menahan peta dengan kedua tangan. "Lima simpul menjawab pangkal. Tidak serentak—selatan terlambat dua ketukan, timur satu."
+
+"Batu keenam," kata Ashvarok-Renn setelah napasnya kembali. "Laporan Ossian tiba terlambat. Yang kita dengar sekarang adalah sisa tarikan dari percobaan mereka."
+
+Sela berlutut di dekat ember dan menandai papan kecil dengan arang. "Tiga dentum keras, satu getaran panjang. Tidak teratur."
+
+"Berarti pintu tidak terbuka," kata Ashvarok-Renn. "Jika pangkal jatuh, menara akan berdentum teratur untuk pertama kali sejak celah ditutup."
+
+Salah satu anak angkatan keempat mengangkat tangan tanpa bangkit. "Kalau kami mendengar pola teratur, kami harus lari ke menara?"
+
+"Tidak." Brannoc menjawab sebelum Ashvarok-Renn sempat membuka mulut. "Kalian pergi berpasangan ke titik yang sudah dibagi. Satu orang membawa angka, satu orang menghapus jejak. Menara bisa direbut. Pola harus tetap hidup di luar bangunan."
+
+Anak itu menatap tali di tangannya. "Jadi kami tidak menjaga menara?"
+
+"Kalian menjaga agar menara tidak menjadi satu-satunya telinga."
+
+Ketika getaran mereda, Ashvarok-Renn melihat perubahan kecil di lingkaran mereka. Tidak ada anak yang kembali memainkan tali sebagai permainan. Mereka memeriksa simpul, menghitung pasangan, dan bergeser supaya tak seorang pun duduk sendirian.
+
+Mira tiba dari menara setelah gelap. Debu batu melekat pada rambutnya dan ujung penanya patah. "Catatan halaman ketujuh melompat dari meja," katanya. "Perawat tua menahan rak. Dentum datang dari lantai, bukan dari celah."
+
+"Teratur?" tanya Sela.
+
+"Tiga keras, satu panjang, lalu pecah. Celah menara tidak membuka. Namun selama satu napas, semua ubin terasa hangat."
+
+Kovan menunjuk lima benang pada peta. "Lima mata mendengar tarikan yang sama. Selatan, timur, utara melalui Ossian, menara, dan barak. Barat daya masih buta."
+
+"Lima mata bukan lima simpul yang kita pegang," kata Mira. "Kita mendengar dari jauh. Jangan tulis seolah tempat-tempat itu milik kita."
+
+Sela menghapus kata *punya* yang baru ditulisnya. Ia menggantinya dengan *terdengar*.
 
 ---
 
-Maera tiba membawa koper pos terakhir batch ini, dan kain tenun dari anak pertama selatan yang tinggal: *Simpul selatan stabil 3 napas subuh. Orang luar tidak datang 10 hari. Kepala desa beri kami beras sebelum anak kedua pulang. Desa sayang pada mata kami. Aku pulang minggu depan bawa angka di kepala.*
+Brannoc tetap menyalakan lampu minyak lebih terang malam itu. Sup dibagi ke dua belas mangkuk kecil, encer tetapi panas. Anak-anak duduk melingkar, sebagian masih melirik lantai setiap kali papan berderit.
 
-Ashvarok-Renn membacanya, lalu melipat kain itu ke tangan Maera untuk disimpan di laci tenun barak. "Generasi keempat mulai berdenyut," katanya pada Kovan. "Mereka berirama, tetapi belum dipanen oleh siapa pun. Itu bedanya dengan desa selatan yang dijual polanya pada pembeli malam."
+"Malam ini kita rayakan kecil," kata Brannoc. "Bukan kemenangan. Lima tempat yang dulu buta sekarang punya telinga, dan telinga itu tidak berada di satu kepala."
 
-Di menara, dentum berdenyut liar selama satu jam penuh sejak kabar Ossian tiba — Mira membuka buku catatan halaman ketujuh, penanya bergetar mengikuti irama yang tidak biasa. "Mereka tekan batu di the Hollow," katanya pada perawat tua. "Pangkal bergetar, tetapi tidak dibuka. Simpul lain ikut berdenyut lalu diam."
+"Barat daya kapan mendapat telinga?" tanya anak angkatan keempat.
 
-"Mereka gagal," kata perawat tua.
+Ashvarok-Renn menerima mangkuk dari Gella. Uapnya terasa asin di bibir. "Bekas pos Hegemony berdiri di sana. Tempat itu mati sejak perang, tetapi seam pernah dipakai sebagai jalan. Kita kirim mata setelah anak dari selatan pulang dan napasnya pulih."
 
-"Mereka gagal karena tidak punya kunci. Namun sekarang mereka tahu batu ketujuh ada. Lain kali mereka cari kuncinya." Mira menulis di sisi: *Batch the Misclaim selesai. Lima mata kini satu jaringan diam. Kunci the Hollow = 9 napas hilang (atau 7 keluarga menurut the Wanes). Barak pegang ingatan, bukan tubuh. Arc berikutnya: cari 7 keluarga pengikat sebelum the Wanes.* Perawat tua menyilang baris bawah, tiga, seperti biasa. Mira menutup buku, lalu mengetuk ubin tiga kali, diam sehentakan — gerakan yang kini menghubungkan menara ke barak, ke selatan, ke timur, ke danau garam, satu jaringan diam yang tak perlu nama.
+"Mengapa tidak kirim kami besok?" Anak itu menunjuk dua temannya. "Kami sudah hafal ketukan."
 
-Ashvarok-Renn, di barak, merasakan dentum di dada saat jam yang sama berdenyut liar. Ia berhenti menyapu, meletakkan sapu di dinding. "Mereka coba buka," katanya pelan pada Sela. "Namun pintu tidak memberi. Kunci memang bukan milik mereka."
+"Karena hafal bukan berarti siap menghilang," jawab Brannoc. "Di selatan, kepala desa hampir menemukan papan. Di barat daya tidak ada kepala desa yang bisa memilih diam. Hanya reruntuhan dan siapa pun yang menunggu di dalamnya."
 
-"Bagaimana kau tahu mereka gagal?" tanya Sela.
+Anak itu hendak membantah, tetapi seorang anak lain menarik ujung bajunya. Pertanyaan berikutnya datang lebih pelan. "Kalau the Wanes membuka pintu sebelum kami siap?"
 
-"Karena dentum kembali acak. Bila the Hollow jatuh, menara akan berdentum teratur untuk pertama kalinya sejak kita tutup celah. Ini hanya berdenyut, lalu lepas. Mereka tidak pegang apa pun."
+Ashvarok-Renn menatap wajah-wajah di lingkaran. "Maka kalian tidak datang menyelamatkanku. Kalian bawa pola menjauh dari barak."
 
-Gella mendekat, buku pemulihan di tangan. "Napasmu ikut berdenyut saat dentum liar," katanya. "Sembilan napas yang hilang itu memang simpul di tubuhmu. Bila pangkal dibuka, kau akan merasakannya lebih dulu dari siapa pun."
+Beberapa sendok berhenti berdenting.
 
-"Maka aku penjaga pertama dan korban pertama," jawab Ashvarok-Renn datar. "Itu sebabnya barak tak boleh jadi satu nama. Bila mereka datang untuk tubuhku, mereka temukan ruang kosong, karena aku bukan tempat. Aku adalah benang yang kaubiarkan hidup tanpa nama."
+"Kau bilang kita jaringan," kata Sela dari dekat papan. "Jaringan tidak meninggalkan simpulnya."
 
-Di sudut, dua belas anak berhenti berlatih ketukan, merasakan dentum aneh di udara. Brannoc memberi isyarat agar mereka tetap diam. "Ini bukan latihan," bisiknya. "Ini dentum asli. Kalian kini mendengar musuh menarik tali yang sama dengan kita."
+"Jaringan yang seluruhnya mati untuk satu simpul hanyalah jerat." Ashvarok-Renn menahan mangkuk saat Gella hendak menyuapinya. "Kalau mereka mencari sembilan napas dan aku salah satunya, barak akan menjadi umpan. Kalian harus tetap tanpa nama."
+
+"Kau belum terbukti salah satu dari kunci apa pun," kata Gella. Ia mendorong mangkuk kembali ke tangannya. "Dan kau belum makan tiga suap."
+
+"Itu tidak mengubah rencana."
+
+"Tidak. Itu mengubah apakah kau pingsan sebelum selesai menjelaskan rencana." Gella menunggu sampai ia menyuap sup. "Pasal pertama: tubuh bukan catatan yang boleh kausimpan di rak sampai berdebu."
+
+Tawa kecil pecah di lingkaran, cukup untuk membuat sendok bergerak lagi. Brannoc memakai suara itu untuk mengubah latihan. Setiap pasangan harus menukar tali, lalu mengulang pola dengan mata tertutup. Kesalahan tidak dihukum; pasangan lain wajib mengenalinya dan meneruskan ketukan dari titik terakhir.
+
+Pada putaran ketiga, seorang anak kehilangan satu ketukan. Tiga pasangan mengisi kekosongan dengan urutan berbeda. Bunyi simpul kayu bertabrakan.
+
+"Berhenti," kata Sela. "Kalau semua memperbaiki dengan ingatan sendiri, kita membuat empat pola."
+
+Brannoc menyerahkan keputusan kepadanya. "Lalu aturanmu?"
+
+Sela menimbang kapur di telapak. "Yang mendengar kesalahan tidak langsung menjawab. Tunggu satu jeda. Pasangan asal mendapat kesempatan mengulang. Jika tetap diam, pasangan terdekat meneruskan."
+
+"Mengapa satu jeda?" tanya anak yang tadi keliru.
+
+"Supaya bantuan tidak terdengar seperti perebutan." Sela menulis aturan itu. "The Wanes menekan semua batu karena tiap tangan ingin menjadi jawaban. Kita tidak meniru mereka."
+
+Ashvarok-Renn menghabiskan supnya. Aturan Sela lebih berguna daripada pidato warisan apa pun yang hendak ia berikan.
 
 ---
 
-Ashvarok-Renn duduk di serambi setelah dentum kembali acak, bible kecil di pangkuan. Ia ingat malam delapan belas tahun silam ketika ibu Tamma menangis di pelukan Gella, mulutnya menyebut tujuh pintu tanpa kunci berulang kali sebelum napasnya putus sebagian. Saat itu ia mengira itu delirium dari the Remainder. Kini, dengan peta Ossian di dinding dan cap tujuh garis di tanah the Hollow, ia tahu itu adalah pesan yang ibu Tamma wariskan lewat demam — pintu memang ada, tetapi kuncinya tersebar di sembilan napas yang pergi bersamanya.
+Setelah anak-anak tidur, Kovan membentangkan peta lagi. Lima benang putih menuju titik abu-abu the Hollow. Dua arah belum mempunyai laporan langsung: barat daya dan pangkal itu sendiri.
 
-"Kita akan cari enam keluarga lain," katanya pada Sela yang duduk di sebelahnya. "Bukan untuk membuka pintu, tetapi agar the Wanes tidak membukanya lebih dulu. Kunci yang kita pegang dalam ingatan lebih aman daripada kunci yang mereka paksa dari darah."
+"The Wanes akan kembali," katanya. "Mereka sudah membuat batu ketujuh berdenyut. Jika benar kuncinya sembilan napas, mereka akan mencari orang yang selamat dari malam itu."
 
-"Bagaimana bila kita temukan keluarga itu dan mereka tidak tahu garisnya?" tanya Sela.
+"Mereka tidak tahu nama sembilan orang," kata Sela.
 
-"Maka kita ajarkan mereka seperti kita ajarkan dua belas anak ini. Tidak dengan cap, tetapi dengan ketukan. Bila tujuh keluarga berdenyut dalam irama yang sama, pintu tak perlu dibuka — ia sudah terjaga." Ashvarok-Renn menutup bible sejenak, menatap malam selatan. "Ibu Tamma tidak meninggalkan kunci. Ia meninggalkan cara menjaga tanpa pernah memegangnya."
+"Kita juga tidak."
+
+Ashvarok-Renn membuka bible kecil pada halaman the Remainder. Tinta delapan belas tahun lalu telah meresap ke sisi belakang: sembilan napas hilang, satu celah ditutup, tidak ada nama yang dicatat. Saat itu ketiadaan nama melindungi mereka. Kini ketiadaan yang sama menghalangi pencarian.
+
+"Arsip the Wanes menyebut tujuh keluarga pengikat," kata Kovan. "Mereka akan mengikuti darah. Kita mengikuti napas. Bisa jadi dua jalan menuju orang yang sama."
+
+"Atau keduanya salah," kata Gella dari ambang. Ia membawa buku pemulihan ibu Tamma, sampulnya menghitam karena bertahun-tahun disentuh tangan berjelaga. "Ibu Tamma bukan satu-satunya yang mengigau setelah the Remainder. Orang lain menyebut air asin, lonceng tanpa suara, dan pintu di bawah akar. Demam mencampur ingatan dengan rasa sakit."
+
+Ashvarok-Renn menutup bible. "Namun ia menyebut tujuh pintu sebelum kita pernah melihat peta tujuh seam."
+
+"Itu sebabnya aku membawa ini." Gella membuka halaman lama. Tulisan pada bagian awal jauh lebih rapat daripada catatan terakhir hidup ibu Tamma. "Pada malam ketiga setelah serangan, ia mengeluh punggungnya terbakar. Aku menulis tujuh luka kecil mengitari tulang belikat. Kukira serpihan batu. Luka itu menutup sebelum bulan berganti."
+
+Sela mendekat. "Tujuh titik?"
+
+"Melingkar." Gella mengusap catatan dengan ibu jari. "Aku tidak pernah melihatnya lagi. Ia selalu meminta diperiksa dalam gelap, dan setelah sembuh tidak ada alasan membuka pakaiannya."
+
+"Tanda lahir pengikat purba," kata Kovan.
+
+"Luka," koreksi Gella. "Catatanku jelas: kulitnya utuh sebelum the Remainder. Kalau bekas itu masih ada, ia bukan tanda lahir."
+
+Keheningan kali ini bukan kebingungan. Hipotesis darah the Wanes retak di depan mereka.
+
+Ashvarok-Renn bangkit. "Kita periksa sekarang."
+
+Gella menutup buku. "Tidak. Ibu Tamma dirawat untuk pemakaman, bukan dijadikan peta saat tengah malam. Sela dan aku memeriksanya saat fajar di ruang mayat. Hanya kami."
+
+"Jika tandanya sama dengan cap tujuh garis—"
+
+"Maka kau akan mendapat laporan satu jam kemudian tanpa menginjak martabat orang yang membesarkan setengah barak ini." Suara Gella tetap datar. "Kita menjaga orang agar tidak dijadikan kunci. Mulai dari yang sudah mati."
+
+Ashvarok-Renn menerima batas itu. "Baik. Sela ikut. Kovan mencari semua catatan penyintas lain, tetapi jangan mendatangi keluarga mereka."
+
+"Dan jika lukanya ada?" tanya Sela.
+
+"Kita berhenti menyebut ibu Tamma satu dari tujuh darah," jawab Gella. "Kita cari tahu apa yang meninggalkan bekas pada tubuhnya."
+
+Sela menghapus satu baris di papan: *Ibu Tamma = satu keluarga pengikat.* Di bawah serpih kapur yang jatuh, ia menulis: *Ibu Tamma = kemungkinan penyintas bertanda setelah the Remainder. Periksa bekas, jangan simpulkan darah.*
 
 ---
 
-Ashvarok-Renn membuka bible kecil di rak buku barak, halaman chekhov, dan menulis di bawah semua catatan the Hollow:
+Sebelum fajar, Maera tiba dengan kain terakhir dari selatan. Anak pertama melaporkan simpul stabil tiga napas, orang luar tidak kembali selama sepuluh hari, dan kepala desa memberi beras sebelum anak kedua pulang. Mata di selatan akan ditarik bertahap sesuai rencana.
 
-*Arc the Misclaim tertutup sementara: kelima simpul buta kini terdengar (selatan/timur bergetar, utara diawasi Ossian, barat daya & the Hollow belum dipegang). Pihak ketiga (the Wanes, cap 7 garis) gagal buka pangkal — kunci = 9 napas hilang / 7 keluarga pengikat. Ibu Tamma = 1 dari 7 keluarga (tanda 7 titik di punggung). Arc berikutnya: cari 6 keluarga lain sebelum the Wanes. Benang diam kini jaringan 5 mata.*
+Ashvarok-Renn menyimpan kain itu tanpa menyalin seluruh isinya. Pada bible kecil ia menulis singkat: *Lima arah kini terdengar. The Wanes gagal di batu ketujuh. Kunci sembilan napas masih dugaan. Catatan Gella: tujuh luka muncul di punggung ibu Tamma sesudah the Remainder, bukan sejak lahir.*
 
-Ia menutup bible, lalu menatap papan world-state barak. Di bawah semua catatan, Sela telah menulis rapi: *Lima simpul buta terdengar. the Hollow gagal dibuka the Wanes (tanpa kunci). Kunci = 9 napas/7 keluarga. Ibu Tamma 1 dari 7. Cari 6 keluarga lain. Jangan kirim kaki ke tengah.*
+Di halaman, Brannoc membangunkan dua belas anak untuk latihan satu jeda. Tidak ada yang membicarakan pintu. Mereka mengetuk, menunggu, lalu membiarkan pasangan asal memperbaiki kesalahannya.
 
-Di menara, Mira menutup buku catatan dan menulis di sisi terakhir: *Batch the Misclaim usai. Lima mata satu jaringan. Arc berikutnya: temukan enam keluarga pengikat sebelum the Wanes — bukan untuk membuka, tetapi agar pintu terjaga tanpa pernah dipegang.* Perawat tua membubuhkan garis lurus di bawahnya, tiga, menutup hari.
+Sela berdiri di ambang ruang mayat bersama Gella. Udara di dalam berbau minyak pahit dan kain yang baru direbus. Gella menyerahkan lampu kepadanya, lalu membuka palang.
 
-Ashvarok-Renn bangkit, menyapu halaman bersama dua belas anak, dan membiarkan benang diam hidup tanpa namanya — tahu bahwa pintu tujuh seam tetap tertutup bagi semua pihak yang memperebutkannya, karena kuncinya bukan di tangan, melainkan di sembilan napas yang delapan belas tahun silam pergi dan belum kembali. Mereka yang mencarinya dengan cap dan peta akan selalu gagal; hanya yang mencari dengan telinga yang bisa menjaganya.
+"Kita cari luka, bukan jawaban," katanya.
+
+Sela mengangkat nyala lampu. "Dan kalau luka itu menjawab lebih banyak daripada yang kita tanyakan?"
+
+"Kita tetap menulis apa yang ada. Bukan apa yang kita takutkan."
+
+Palang kayu terangkat. Mereka masuk, dan pintu menutup sebelum ketukan pertama dari halaman selesai menempuh satu jeda.

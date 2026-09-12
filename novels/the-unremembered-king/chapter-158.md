@@ -9,13 +9,13 @@ Sela membuka percakapan itu dengan cara yang sudah ia siapkan sejak tiga malam: 
 
 "Kamu membaca surat yang bukan ditujukan kepadamu."
 
-"Saya pencatat resmi keluarga ini. Semua kertas lewat mejaku. Itu aturanmu sendiri, bab sembilan puluh." Sela menarik napas, dan Ashvarok melihat pembukaan hafalannya habis di titik ini, dan yang tersisa adalah adik sebelas tahun yang datang untuk hal yang paling sulit. "Sekarang giliranku bertanya, dan aku pakai janji. Janji satu-pertanyaan. Yang dari malam sunyi barak. Yang masih belum pernah aku pakai."
+"Saya pencatat resmi keluarga ini. Semua kertas lewat mejaku. Itu aturanmu sendiri sejak awal." Sela menarik napas, dan Ashvarok melihat pembukaan hafalannya habis di titik ini, dan yang tersisa adalah adik sebelas tahun yang datang untuk hal yang paling sulit. "Sekarang giliranku bertanya, dan aku pakai janji. Janji satu-pertanyaan. Yang dari malam sunyi barak. Yang masih belum pernah aku pakai."
 
-Ruangan diam. Di kolom paling bawah papan tulis kecilnya, tertulis sejak bab 144 pertanyaan yang disimpannya tanpa dibacakan: Kalau aku masuk ke dalam hitunganmu, apa yang kamu bawa aku keluar dari? Ia pernah menuliskannya supaya tidak berubah bentuk di kepala. Malam ini ia datang menagih jawabannya, dan mereka berdua tahu itu.
+Ruangan diam. Di kolom paling bawah papan tulis kecilnya, tertulis sejak malam mimpi itu pertanyaan yang disimpannya tanpa dibacakan: Kalau aku masuk ke dalam hitunganmu, apa yang kamu bawa aku keluar dari? Ia pernah menuliskannya supaya tidak berubah bentuk di kepala. Malam ini ia datang menagih jawabannya, dan mereka berdua tahu itu.
 
 "Tanyakan," kata Ashvarok.
 
-"Dua tahun kamu menjaga kami. Aku sudah berhenti bertanya kenapa — aku dapat jawabannya pelan-pelan: karena menjaga itu kerjaanmu, karena kau orang yang tidak bisa tidak menjaga, karena barak ini bagian dari tambang dan tambang ini bagian dari sesuatu yang lebih besar." Sela meletakkan kedua tangannya di meja, rata, seperti meletakkan kartu. "Namun minggu ini ada tiga hal baru dan semuanya cocok jadi satu gambar kalau ditarik garisnya. Mangkokku sisa. Dingin yang tidak hilang waktu kau pulang pagi — aku sentuh pundakmu hari Dua, kak, jangan kaget, aku anak dapur, aku tahu suhu manusia. Dan angka baru di Hourglass. Angka, kak. Bukan garis. Kamu baru menulis angka untuk hal yang dihitung sampai habis."
+"Dua tahun kamu menjaga kami. Aku sudah berhenti bertanya kenapa — aku dapat jawabannya pelan-pelan: karena menjaga itu kerjaanmu, karena kau orang yang tidak bisa tidak menjaga, karena barak ini bagian dari tambang dan tambang ini bagian dari sesuatu yang lebih besar." Sela meletakkan kedua tangannya di meja, rata, seperti meletakkan kartu. "Namun minggu ini ada tiga hal baru dan semuanya cocok jadi satu gambar kalau ditarik garisnya. Mangkokku sisa. Dingin yang tidak hilang waktu kau pulang pagi — aku sentuh pundakmu Hari Kedua, kak, jangan kaget, aku anak dapur, aku tahu suhu manusia. Dan angka baru di Hourglass. Angka, kak. Bukan garis. Kamu baru menulis angka untuk hal yang dihitung sampai habis."
 
 Lilin bergoyang dari napas mereka sendiri. Ashvarok tidak bergerak, dan pada ketidbergerakan itulah Sela mengambil napas dan akhirnya membacakan pertanyaannya, keras-keras, kata demi kata seperti yang ditulisnya:
 
@@ -27,7 +27,7 @@ Jawaban yang benar tidak pendek. Ashvarok mencoba beberapa versi di kepala — v
 
 Sela mengangguk sekali, dan tangannya di meja menggenggam.
 
-"Pertama. Hitungan yang kamu maksud bukan hitunganmu. Kamu tidak pernah masuk ke hitunganku sebagai beban — kamu masuk sebagai alasan. Ada beda, dan bedanya penting: beban dipikul, alasan dipakai untuk tetap berdiri. Pria abu dalam mimpiimu membawa orang keluar lorong gelap dan hitungannya naik tanpa berhenti. Itu hitunganku. Kamu ada di baris awalnya, sebelum barak, sebelum kota. Jadi tidak, kamu tidak akan masuk ke dalam hitungan yang habis, karena kamu bukan isinya. Kamu alasannya."
+"Pertama. Hitungan yang kamu maksud bukan hitunganmu. Kamu tidak pernah masuk ke hitunganku sebagai beban — kamu masuk sebagai alasan. Ada beda, dan bedanya penting: beban dipikul, alasan dipakai untuk tetap berdiri. Pria abu dalam mimpimu membawa orang keluar lorong gelap dan hitungannya naik tanpa berhenti. Itu hitunganku. Kamu ada di baris awalnya, sebelum barak, sebelum kota. Jadi tidak, kamu tidak akan masuk ke dalam hitungan yang habis, karena kamu bukan isinya. Kamu alasannya."
 
 "Lalu kenapa angkanya ditulis?" suara Sela kecil tetapi tegak. "Alasan tidak perlu dihitung habis."
 

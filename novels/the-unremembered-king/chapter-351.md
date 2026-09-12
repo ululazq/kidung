@@ -61,7 +61,7 @@ Kovan keluar dari barak, melihat Gella menulis, dan duduk di sampingnya. "Kau me
 
 "Aku pikir itu pertumbuhan." Gella menatap ke arah menara. "Dan pertumbuhan selalu mahal. Yang belum kita tahu adalah siapa yang akan membayar harganya."
 
-Mira datang dari menara menjelang tengah hari, membawa buku anomali dan wajah yang tidak bisa menyembunyikan berita. "Angin berbalik lagi tadi pagi," katanya. "Namun kali ini berbeda. Ia tidak berbalik dari utara ke selatan — ia berbalik dua kali dalam satu jam, seperti sesuatu yang sedang mencoba dua arah sekaligus, tidak bisa memutuskan mana yang benar."
+Mira datang dari menara menjelang tengah hari, membawa the Anomaly Book dan wajah yang tidak bisa menyembunyikan berita. "Angin berbalik lagi tadi pagi," katanya. "Namun kali ini berbeda. Ia tidak berbalik dari utara ke selatan — ia berbalik dua kali dalam satu jam, seperti sesuatu yang sedang mencoba dua arah sekaligus, tidak bisa memutuskan mana yang benar."
 
 "Seperti sesuatu yang sedang mencari," kata Kovan pelan. "Bukan menarik. Mencari."
 
@@ -85,7 +85,7 @@ Ia berhenti di depan Mira. "Kau mencatat angin berbalik dua kali dalam satu jam.
 
 "Keseimbangan yang bisa dipegang," ulang Ashvarok-Renn, "selama kita tidak memutarnya lebih dulu." Ia menatap meja panjang. "Besok kita siapkan perbekalan. Kita berangkat ke tiga batu tegak dalam tiga fajar — bersama, dengan semua kunci, dengan semua pertanyaan. Dan kita tidak akan mengetuk apa pun sampai kita melihat dengan mata kita sendiri apa yang selama seribu tahun bernapas di bawah tanah itu."
 
-Di barak, fajar itu, keputusan akhir tidak ditulis di papan Sela. Ia hanya menulis satu baris di bawah catatan world-state-nya: *Kita pergi ke tiga batu tegak bersama-sama, dengan semua kunci, dengan semua pertanyaan. Bukan untuk membuka pintu. Bukan untuk menutupnya. Untuk melihat apa yang selama seribu tahun bernapas di bawah tanah itu — dan untuk memutuskan, dengan mata terbuka, apa yang harus kita lakukan terhadapnya.*
+Di barak, fajar itu, keputusan akhir tidak ditulis di papan Sela. Ia hanya menulis satu baris di bawah catatan keadaannya: *Kita pergi ke tiga batu tegak bersama-sama, dengan semua kunci, dengan semua pertanyaan. Bukan untuk membuka pintu. Bukan untuk menutupnya. Untuk melihat apa yang selama seribu tahun bernapas di bawah tanah itu — dan untuk memutuskan, dengan mata terbuka, apa yang harus kita lakukan terhadapnya.*
 
 Di utara, di tiga batu tegak, lelaki berjubah abu-abu berdiri di tengah lingkaran, memegang benda bundar di tangannya, menatap garis yang berdenyut di tanah. Ia tahu mereka akan datang. Ia hanya tidak tahu kapan — dan apakah mereka akan datang sebagai kunci, atau sebagai penonton. Ia menunggu, dan garis di bawahnya terus bernapas, lebih cepat dari hari sebelumnya, seperti jantung yang baru saja mulai berlari setelah seribu tahun tertidur.
 

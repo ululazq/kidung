@@ -35,7 +35,7 @@ Ashvarok-Renn mencoba menghitung mundur delapan bulan — pekerjaan, musim, kunj
 
 Yang menemukan jawabannya justru Renn — lewat hal yang paling sederhana, seperti biasanya.
 
-"Dia bilang," kata Ashvarok-Renn perlahan, mendengarkan suara kedua dalam tubuhnya, "ingat waktu kita bicara soal seam saksi. Waktu dia tanya kenapa batu itu bisa menunggu seribu tahun tanpa rusak."
+"Dia bilang," kata Ashvarok-Renn perlahan, mendengarkan suara kedua dalam tubuhnya, "ingat waktu kita bicara soal the Witness Seam. Waktu dia tanya kenapa batu itu bisa menunggu seribu tahun tanpa rusak."
 
 Sela ingat. Semua ingat — jawaban itu sudah masuk arsip: karena didengar. Makhluk yang didengar tidak rusak; Hollowing adalah gejala pemutusan hubungan, bukan serangan.
 
@@ -44,7 +44,6 @@ Sela ingat. Semua ingat — jawaban itu sudah masuk arsip: karena didengar. Makh
 Ia memandang vein-scar kanannya yang menipis.
 
 "Ternyata tubuh ikut aturan yang sama dengan jiwa. Yang didengarkan... ikut pulih."
-EOF
 ---
 
 Implikasi temuan itu tidak habis di ruang klinik malam itu — ia merambat ke seluruh pemahaman dunia tentang Hollowing, seperti air menemukan jalurnya.
@@ -57,7 +56,7 @@ Namun tubuh Ashvarok-Renn membuka kasus yang tidak masuk kategori: tubuh yang ju
 
 Malam itu Gella menulis halaman baru untuk buku medisnya — halaman yang kelak dikutip setiap dokter Karvess dan diterjemahkan ke sembilan bahasa wilayah:
 
-*Protokol Menjaga Rumah, revisi kedua.*
+*the Housekeeping Protocol, revisi kedua.*
 
 *Tubuh bukan wadah jiwa. Tubuh adalah penghuni kedua dari rumah yang sama.*
 
@@ -117,7 +116,7 @@ Lalu Ashvarok-Renn tertawa kecil — tawa lelah, bahagia, jenis tawa orang yang 
 
 "Tepat." Ashvarok-Renn bangkit, merapikan gulungan-gulungan arsip dengan gerakan yang dua tahun ini semakin santai. "Maka besok kita mulai halaman baru proyek: bukan seribu jawaban untuk pertanyaan tentang raja. Seribu sapaan untuk tubuh-tubuh yang belum pernah disapa."
 
-Ia berhenti di pintu, memandang kembali ke dalam ruangan — ke arsip-arsip tua, kotak timah berisi nada lima panglima, rak Semua Versi yang terus bertambah.
+Ia berhenti di pintu, memandang kembali ke dalam ruangan — ke arsip-arsip tua, kotak timah berisi nada lima panglima, the Shelf of All Versions yang terus bertambah.
 
 "Dunia ini butuh waktu lama untuk belajar satu hal," katanya pelan. "Bahwa mendengarkan itu bukan pekerjaan telinga. Itu pekerjaan seluruh diri — termasuk tubuh yang sedang melakukan pekerjaan mendengarkan itu."
 ---
@@ -145,7 +144,7 @@ Di ruang sebelah, Sela yang masih bangun menulis entri terakhir harinya di arsip
 
 Pagi berikutnya, sebelum matahari naik, kabar baik kedua datang tanpa diminta — lewat jalur yang membuatnya lebih manis.
 
-Gorvel, murid tertua Sekolah Mendengar, tiba dari Vel-Morra membawa laporan bulanan nat-gunung. Di halaman terakhirnya, di bawah data-data rutin, ada satu catatan tambahan yang ditulis tangan ibu-ibu tenun Tanah Tinggi:
+Gorvel, murid tertua the Listening School, tiba dari Vel-Morra membawa laporan bulanan nat-gunung. Di halaman terakhirnya, di bawah data-data rutin, ada satu catatan tambahan yang ditulis tangan ibu-ibu tenun Tanah Tinggi:
 
 *Kami dengar cerita protokol menyapa tubuh. Kami sudah mempraktikkannya sejak lama tanpa tahu namanya — setiap kali menenun untuk orang sakit, kami menyapa benangnya: "bekerjalah baik, kainmu akan menjaga orang yang kita cintai."*
 

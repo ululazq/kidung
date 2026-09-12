@@ -3,7 +3,7 @@ title: "Bab 203: Bocah Lorong Tujuh Era Lama"
 chapter: 203
 ---
 
-Temuan itu datang dari tempat yang tidak disangka siapa pun: daftar pendengar alami ordo Penjaga Rekam, halaman yang telah diserahkan Sareth kepada Arsip Caldrest — dan kini dibaca ulang oleh Sela dengan mata Kepala Arsip yang baru terlatih membaca antarbaris.
+Temuan itu datang dari tempat yang tidak disangka siapa pun: daftar pendengar alami the Record Wardens, halaman yang telah diserahkan Sareth kepada the Caldrest Archive — dan kini dibaca ulang oleh Sela dengan mata Chief Archivist yang baru terlatih membaca antarbaris.
 
 "Guru." Panggilan gadis itu suatu sore, dan nada suaranya membuat Ashvarok meninggalkan neraca yang sedang ia sunting. Sela jarang memanggilnya dengan nada seperti itu — nada orang yang menemukan sesuatu dan tidak yakin ingin benar. Ia menunjuk satu baris di halaman yang sudah dibaca semua orang berkali-kali — baris yang dulu hanya menarik karena satu kata: Caldrest.
 
@@ -11,7 +11,7 @@ Temuan itu datang dari tempat yang tidak disangka siapa pun: daftar pendengar al
 
 "Baru saja kita bahas ini. Pak Dekan memang pendengar alami. Itu sebabnya dia bisa mendengar kedalaman tanpa alat."
 
-"Baca lanjutannya." Jari gadis itu menunjuk catatan pinggir dengan tinta yang lebih muda — tambahan pengamat ordo yang ditulis belakangan: "Subjek melaporkan murid alami satu orang: kerabat sendiri, anak jantannya, laki-laki, umur pencatatan sembilan tahun. Bakat sama dengan subjek. Pemantauan direkomendasikan. TIDAK DISETEJUI Dewan Choir regional — 'cukup satu pendengar per wilayah; dua akan saling bicara.'"
+"Baca lanjutannya." Jari gadis itu menunjuk catatan pinggir dengan tinta yang lebih muda — tambahan pengamat ordo yang ditulis belakangan: "Subjek melaporkan murid alami satu orang: kerabat sendiri, anak jantannya, laki-laki, umur pencatatan sembilan tahun. Bakat sama dengan subjek. Pemantauan direkomendasikan. TIDAK DISETUJUI the Regional Choir Council — 'cukup satu pendengar per wilayah; dua akan saling bicara.'"
 
 Ruangan diam. Ashvarok membaca baris itu tiga kali, karena kata-katanya tidak berubah pada bacaan kedua dan ketiga.
 
@@ -29,11 +29,11 @@ Sela yang memecah keheningan, dengan suara kecil pencatat yang sedang menghitung
 
 "'Pembaruan subjek utama: murid alami tidak ditemukan pada malam kebocoran. Kemungkinan besar ikut masuk ke penyimpanan. Jika benar — subjek adalah salah satu penyimpanan TERDAFTAR kami. Dicari.'"
 
-Dicari. Ordo Penjaga Rekam mencari bocah itu delapan belas tahun silam — dan tidak pernah menemukannya, karena ordo sendiri dibubarkan tak lama kemudian, karena arsipnya disembunyikan, karena dunia lupa bahwa ordo itu pernah ada.
+Dicari. the Record Wardens mencari bocah itu delapan belas tahun silam — dan tidak pernah menemukannya, karena ordo sendiri dibubarkan tak lama kemudian, karena arsipnya disembunyikan, karena dunia lupa bahwa ordo itu pernah ada.
 
 Namun kedalaman tidak pernah lupa apa yang tersimpan di dalamnya. Kedalaman tidak PERNAH lupa apa pun.
 
-"Maka daftar pertanyaan armada utara bertambah satu," kata Ashvarok bangkit, "dan ini masuk prioritas atas: saat kita membaca batu-batu utara berikutnya, tanyakan tentang bocah lorong tujuh era lama — anak Pak Dekan. Pendengar alami kedua. Kalau dia benar-benar masuk ke penyimpanan pada malam kebocoran..."
+"Maka daftar pertanyaan the Northern Reader Fleet bertambah satu," kata Ashvarok bangkit, "dan ini masuk prioritas atas: saat kita membaca batu-batu utara berikutnya, tanyakan tentang bocah lorong tujuh era lama — anak Pak Dekan. Pendengar alami kedua. Kalau dia benar-benar masuk ke penyimpanan pada malam kebocoran..."
 
 "...dia masih di sana," selesai Sela. "Delapan belas tahun. Seumur hidupnya yang sadar." Gadis itu menutup arsip dan berkata kalimat yang membuat seluruh keluarga tahu pekerjaan berikutnya sudah dipilih: "Kita sudah membawa pulang bayi tujuh bulan. Sekarang kita cari anak sembilan tahun yang sudah jadi lelaki tua."
 
@@ -47,7 +47,7 @@ Sela membuka papannya dan menulis judul baru di halaman bersih: MISI PRIORITAS �
 
 ---
 
-Kabar itu dibawa ke juru ukur kota pelabuhan selatan — anak perempuan Pak Dekan yang selama ini hanya tahu ayahnya sebagai penjaga galeri misterius yang mati di lorong tujuh — lewat surat resmi Kantor Penghubung Utara yang ditandatangani Ossian dan Maera bersama-sama, karena kabarnya terlalu besar untuk satu institusi.
+Kabar itu dibawa ke juru ukur kota pelabuhan selatan — anak perempuan Pak Dekan yang selama ini hanya tahu ayahnya sebagai penjaga galeri misterius yang mati di lorong tujuh — lewat surat resmi the Northern Liaison Office yang ditandatangani Ossian dan Maera bersama-sama, karena kabarnya terlalu besar untuk satu institusi.
 
 Sebelum dikirim, surat itu dibacakan dulu di meja panjang akademi, dan Barim meminta satu perubahan: "Tambahkan kalimat: 'Ayah Anda dikenal dan dihormati di sini.' Bukan untuk protokol. Ayah saya... Pak Dekan delapan tahun menyapa aku tiap malam jaga, dan aku pikir tidak ada yang tahu selain galeri. Keluarganya harus tahu dia bukan orang asing di kota ini."
 
@@ -75,13 +75,13 @@ Maka kronologi lengkapnya kini terbaca: Pak Dekan, pendengar alami, mengasuh mur
 
 Ia bukan penjaga lokal misterius. Ia ayah yang menunggu dekat tempat penyimpanan anaknya — delapan tahun, sampai matinya.
 
-Ashvarok menutup neraca bab itu dengan baris yang membuatnya sendiri harus berhenti menulis sebentar:
+Ashvarok menulis di neraca dengan tangan yang membuatnya sendiri harus berhenti sebentar:
 
 Hari 393. Pak Dekan terjawab. Delapan tahun dia jaga galeri sembilan — bukan karena tradisi tua semata, tetapi karena anak angkatnya ada DI DALAM penyimpanan kedalaman, dan mendekati aula adalah cara terdekat seorang ayah berdiri di samping anaknya.
 
 Dan pertanyaannya kini personal untukku: kedalaman menyimpan nama yang dibakar (milikku), bayi yang dititipkan (Rina), dan bocah pendengar (anak Pak Dekan). Berapa banyak lagi keluarga di dunia ini yang tidak tahu bahwa orang-orang mereka tidak hilang — hanya dititipkan ke penjaga paling sabar di dunia?
 
-Armada utara bertambah satu misi prioritas: temukan bocah lorong tujuh era lama. Anak guru kita.
+the Northern Reader Fleet bertambah satu misi prioritas: temukan bocah lorong tujuh era lama. Anak guru kita.
 
 Malam itu, untuk pertama kalinya sejak pemulihan parsialnya, Barim berdiri sendirian di galeri sembilan yang telah direnovasi, meletakkan telapaknya ke nat lantai, dan mengetuk tiga kali — bukan untuk kedalaman, yang selalu menjawab, melainkan untuk guru tuanya yang delapan tahun mengetuk pola yang sama ke tembok yang tidak pernah menjawab balik.
 
@@ -93,6 +93,6 @@ DIA ADA. DAN DIA MENGINGAT KETUKANNYA.
 
 Sela menambahkan satu baris di bawahnya, dengan kapur biru yang hanya ia pakai untuk hal-hal yang tidak boleh pernah hilang:
 
-Catatan Kepala Arsip: ketukan tiga kali kini resmi bagian arsip — bukan sebagai tradisi penambang, melainkan sebagai nama keluarga. Yang punya nama itu sudah dua: yang di atas tanah dan yang di bawah. Kami sedang bekerja supaya mereka bertemu lagi.
+Catatan Chief Archivist: ketukan tiga kali kini resmi bagian arsip — bukan sebagai tradisi penambang, melainkan sebagai nama keluarga. Yang punya nama itu sudah dua: yang di atas tanah dan yang di bawah. Kami sedang bekerja supaya mereka bertemu lagi.
 
 Ketika hujan turun sore itu, murid-murid akademi panik menjaga nat-nat luar ruangan — dan mendapati kedalaman sudah lebih dulu mengurus semuanya: setiap nat dilindungi irama penutup yang membuat air hujan mengalir melewatinya seperti melewati batu biasa. "Kalian belajar cepat," kata Barim. Jawaban dari bawah datang seketika: "kalian yang mengajari."

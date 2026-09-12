@@ -39,13 +39,141 @@ Dari hari itu, kerja pagi Ashvarok berubah: bukan lagi menyapa, melainkan MEMERI
 
 Mereka menemukan tiga retakan mikro yang terlewat semua pemeriksaan sebelumnya. Ketiganya ditambal dalam seminggu.
 
+Retakan pertama itu tidak mau ditambal.
+
+Mereka kembali ke nat pasar setelah kios tutup. Bau gula hangus masih menempel pada papan-papan meja, bercampur debu cinder-glass yang dingin di sela lantai. Sela membawa lampu, kapur, dan neraca kecilnya. Kovan membawa tiga alat ukur, lalu menaruh dua di antaranya kembali ketika melihat Ashvarok melirik.
+
+"Aku sedang belajar menahan diri," katanya.
+
+"Catat tanggalnya," sahut Sela. "Peristiwa langka."
+
+Ashvarok berlutut di depan sambungan batu sisi utara. Panas yang tadi terasa setipis demam kini bergerak di bawah telapak: dua denyut pendek, satu tarikan panjang. Ia membuka Listen, membiarkan suara pasar yang sudah kosong surut sampai tinggal gesekan pasir, air pipa jauh di bawah, dan irama nat.
+
+Tidak ada retakan.
+
+Setidaknya, tidak bagi dirinya.
+
+"Di kiri," kata Renn dari dalam.
+
+Ashvarok menggeser tangan selebar dua jari.
+
+"Bukan kiri tanganmu. Kiriku."
+
+"Kita memakai tangan yang sama."
+
+"Tapi aku mengingat dinding dari arah sebaliknya. Beri aku depan."
+
+Ashvarok menahan telapak di batu. "Kau baru tiga hari bangun."
+
+"Dan delapan bulan belajar tempat ini tanpa mata."
+
+"Tubuhmu belum terbiasa berganti saat membuka Listen. Kalau iramanya putus—"
+
+"Kalau tidak berganti, kita cuma punya raja yang bilang tidak ada retakan dan anak tambang yang tidak boleh menunjukkannya." Suara Renn merendah. "Aku sudah cukup lama jadi suara yang memberi petunjuk dari belakang pintu."
+
+Kata-kata itu tidak terdengar oleh Sela atau Kovan, tetapi tubuh mereka pasti membocorkannya. Jari yang menempel pada nat mengeras. Sela menurunkan lampu hingga cahayanya tidak lagi menyilaukan wajah mereka.
+
+"Ada masalah?" tanyanya.
+
+Ashvarok hampir menjawab tidak. Kebiasaan lama, cepat dan rapi. Di dalam, Renn tidak protes. Diamnya lebih buruk.
+
+"Ada perbedaan pendapat," kata Ashvarok. "Renn ingin mengambil kendali saat Listen terbuka. Aku menilai risikonya belum terukur."
+
+"Aku menilai," kata Renn melalui mulut yang sama, suaranya kasar dan lebih cepat, "kalau semua keputusan soal tubuhku tetap dibuat Ash, pembagian setengah-setengah cuma tulisan bagus di dinding."
+
+Kovan meraih buku catatan, tetapi Sela menutup sampulnya dengan satu tangan.
+
+"Bukan data dulu," katanya. Ia duduk di lantai pasar, tepat di hadapan kedua kakaknya. "Apa risiko terburuk?"
+
+Ashvarok mengambil depan kembali. Pergantian itu membuat lampu seperti bergeser setengah langkah meski tubuh tidak bergerak. "Listen bisa lepas mendadak. Pusing, kehilangan keseimbangan, mungkin gema balik dari nat."
+
+"Bisa membunuh?"
+
+"Tidak sampai sejauh itu."
+
+"Bisa membuat Renn tidur lagi?"
+
+Pertanyaan itu menghantam lebih tepat daripada teguran. Ashvarok memeriksa semua pengetahuan yang ia punya, lalu semua ketakutan yang menyamar sebagai pengetahuan.
+
+"Tidak," katanya. "Sejauh yang kupahami, tidak."
+
+"Berarti ini bukan larangan." Sela mengambil kapur, menggambar garis pendek di lantai. "Ini percobaan. Renn pegang depan selama tiga hitungan. Ash tetap mendengar dan ambil alih kalau lutut lemas. Kovan mengukur nat, bukan kakakku. Aku menghitung. Ada keberatan yang berasal dari fakta?"
+
+Ashvarok tidak punya satu pun.
+
+"Tak ada."
+
+"Renn?"
+
+"Tiga hitungan terlalu pendek."
+
+"Empat. Jangan menawar kepala arsip."
+
+Pergantian kali ini dilakukan perlahan. Ashvarok tidak mundur ke tempat gelap; kesadarannya tetap di balik mata, tetapi cara tubuh menimbang berat berubah. Tumit terangkat sedikit. Bahu condong ke depan. Renn memang selalu duduk seperti hendak lari. Ternyata ia juga berlutut begitu.
+
+Telapak mereka bergeser—bukan ke kiri, melainkan memutar sehingga pangkal ibu jari menyentuh sisi bawah nat.
+
+Satu.
+
+Listen berubah bentuk. Bagi Ashvarok, batu adalah lapisan, usia, tekanan, dan bekas tangan pembuatnya. Bagi Renn, batu itu lorong. Panas di nat pasar bukan garis patah, melainkan embusan yang menyusup dari ruang kosong sebesar ruas jari di belakang mortar.
+
+Dua.
+
+"Ada rongga," kata Renn. "Bukan retak dari luar. Mortarnya terkikis dari belakang. Air pipa pasar menetes kalau malam dingin."
+
+Kovan melihat jarum alat ukurnya melonjak. "Dia benar. Gema kembali terlambat seperempat ketuk."
+
+Tiga.
+
+Nat mendadak mengirim panas sampai siku. Tubuh mereka oleng. Ashvarok bersiap merebut kendali, tetapi Renn menekan lutut ke lantai dan bertahan.
+
+Empat.
+
+Ia melepaskan tangan sendiri.
+
+Pergantian kembali meninggalkan rasa logam di lidah. Ashvarok menggerakkan jari satu per satu. Tidak ada mati rasa baru. Di dalam, napas Renn cepat, tetapi ia tertawa pendek.
+
+"Nah," katanya. "Dinding."
+
+Sela menghapus garis kapur dengan ujung sepatu. "Keputusan baru: pemeriksaan dilakukan berdua. Yang paling jelas mendengar memegang depan. Yang lain tidak boleh menyebut rasa takut sebagai fakta."
+
+"Pasal ketujuh," kata Renn.
+
+"Pasal keenam baru dibuat pekan depan," kata Ashvarok.
+
+"Kalau begitu ini pasal enam lebih dulu. Hukum boleh tidak urut."
+
+Kovan akhirnya membuka bukunya. "Hukum tidak boleh tidak urut."
+
+"Kamu boleh mengurutkannya nanti. Sekarang cari tukang mortar sebelum kios buka."
+
+Mereka membongkar satu batu pinggir malam itu. Rongga di belakangnya penuh serbuk mortar basah dan berbau mineral asam. Seutas pipa tua telah bergesek pada dinding setiap kali pasar menyalakan pompa pagi. Tiga bulan lagi, rongga itu akan merambat ke tiang kios tengah; lantai bisa ambles saat pasar penuh.
+
+Ashvarok memegang lampu sementara Renn, tetap di depan, menunjukkan bagian yang harus dikikis. Sela menulis daftar perbaikan. Kovan berhenti menghitung setelah angka ketujuh dan ikut mengangkat batu.
+
+Menjelang subuh, nat itu sudah dingin. Ketika telapak mereka ditempelkan sekali lagi, Ashvarok mendengar sambungan yang utuh. Renn mendengar dinding yang tidak lagi kemasukan air.
+
+Untuk pertama kalinya sejak berbagi tubuh, mereka tidak bergantian memakai dunia. Mereka mengerjakan hal yang sama dari dua sisi.
+
+Pasal baru ditempel di bawah kesepakatan penghuni saat pulang:
+
+6. Penghuni rumah ini punya hak yang sama untuk memegang depan. Kekhawatiran wajib disebut kekhawatiran, bukan aturan.
+
+Di bawahnya, Ashvarok menambahkan satu baris dengan tulisan tegak:
+
+Jika salah satu mendengar sesuatu yang tidak didengar yang lain, yang lain wajib percaya cukup lama untuk memeriksa.
+
+Renn membaca kalimat itu melalui mata mereka, lalu mengambil tangan untuk menulis dua kata:
+
+Nah. Belajar.
+
 Brannoc menangis di lorong sembilan ketika diberi laporannya. "Delapan bulan silam aku pikir anak ini hanya bisa dijaga," katanya. "Ternyata dia balik bukan untuk dijaga — dia balik buat ikut menjaga."
 
 ---
 
 Masalah ketiga: sekolah.
 
-Renn lima belas tahun dan tidak pernah sekolah formal — anak tambang dulu belajar di lorong, bukan di ruang kelas. Sekarang ia bisa masuk Sekolah Mendengar... tetapi ada satu masalah administratif yang oleh Ossian disebut "kasus paling unik dalam sejarah birokrasi Karvess":
+Renn lima belas tahun dan tidak pernah sekolah formal — anak tambang dulu belajar di lorong, bukan di ruang kelas. Sekarang ia bisa masuk the Listening School... tetapi ada satu masalah administratif yang oleh Ossian disebut "kasus paling unik dalam sejarah birokrasi Karvess":
 
 Siapa yang didaftarkan? Renn? Ashvarok? Keduanya?
 
@@ -53,7 +181,7 @@ Rapat kecil diselesaikan Ashvarok-Renn dengan satu kalimat bersama (suara bergan
 
 "Daftarkan dua nama, satu bangku. Kami berbagi."
 
-Dan begitulah Sekolah Mendengar mendapat murid pertamanya dengan dua identitas: Renn-Ashvarok, kelas sore, kursi ganda yang digabung dari dua bangku (permintaan Renn; "agar kelihatan kami dua orang, bukan satu orang gila berbicara sendiri").
+Dan begitulah the Listening School mendapat murid pertamanya dengan dua identitas: Renn-Ashvarok, kelas sore, kursi ganda yang digabung dari dua bangku (permintaan Renn; "agar kelihatan kami dua orang, bukan satu orang gila berbicara sendiri").
 
 Daven menjadi kakak kelaskannya. Lompa sesekali mengajari menenun ("anak tungku harus punya kerja tangan"). Dan setiap kali guru bertanya sesuatu yang sulit...
 
@@ -101,7 +229,7 @@ kita masih di sini. semua.
 
 ---
 
-Neraca penutup bab — ditulis bergantian dua tangan, satu halaman:
+Neraca pekan ketiga — ditulis bergantian dua tangan, satu halaman:
 
 Hari 861 (Ashvarok): Pekan ketiga hidup berdua. Tidak ada lagi pertanyaan 'siapa yang seharusnya ada di sini'. Pertanyaannya berubah: apa yang mau kita lakukan hari ini?
 
@@ -111,9 +239,9 @@ Kovan (margin): Data resmi: populasi tubuh Renn = 2. Status: stabil, bahagia, da
 
 ---
 
-Dan satu adegan penutup — yang terjadi tanpa saksi selain nat lorong barak utara:
+Malam itu, tanpa saksi selain nat lorong barak utara:
 
-Malam itu, sebelum tidur, Ashvarok dan Renn bicara pelan di dalam. Percakapan pribadi pertama mereka yang tidak lewat ketukan, tidak lewat penerjemah, tidak dicatat siapa pun.
+Sebelum tidur, Ashvarok dan Renn bicara pelan di dalam. Percakapan pribadi pertama mereka yang tidak lewat ketukan, tidak lewat penerjemah, tidak dicatat siapa pun.
 
 Kecuali... nat lorong menangkap potongan terakhirnya, dan meneruskannya kepada Sela subuhnya (karena "sepertinya penting untuk arsip"):
 
@@ -195,41 +323,10 @@ Terima kasih sudah menjadi alasan sup pertamaku enak walau keasinan.
 
 — Penghuni kedua"
 
----
 
-Dan penutup bab — dari nat lorong barak utara, diteruskan kepada Sela untuk arsip resmi:
+Dan malam itu, sebelum tidur, kesepakatan penghuni rumah mendapat tambahan pasal ketujuh — diusulkan Renn, disetujui Ashvarok dalam tiga detik (rekor):
 
-"MALAM INI ADA DUA IRAMA NAPAS YANG TENANG. DAN KEDUANYA SALING MENGENAL.
-
-DELAPAN BULAN SILANG AKU MENERUSKAN CERITA KE DALAM. SEKARANG TIDAK PERLU LAGI.
-
-MEREKA SUDAH BICARA LANGSUNG.
-
-TUGAS SAYA SEBAGAI JEMBATAN: SELESAI.
-
-TUGAS SAYA SEBAGAI TEMAN: BARU DIMULAI."
-
----
-
-Satu adegan terakhir — sore itu, di nat pasar:
-
-Renn (di depan) menyapa pedagang asam-asaman yang dulu berselisih dengan Kovan. Ashvarok (di dalam) menambahkan komentar pelan soal harga yang tidak masuk akal.
-
-Renn menjawab keras-keras supaya keduanya terdengar:
-
-"Kak Raja bilang hargamu tidak masuk akal. Namun aku bilang ke dia: harga bukan segalanya — asam-asamanmu enak."
-
-Pedagang tua itu tertawa, memberi dua porsi gratis.
-
-Dan dalam tubuh yang sama, dua jiwa makan asam-asaman sambil berdebat soal definisi "enak" — dengan nat pasar mencatat semuanya lewat irama hangat yang tidak bisa dipahami siapa pun, tetapi semua orang tahu artinya:
-
-ini dia. keluarga.
-
----
-
-Dan malam itu, sebelum tidur, kesepakatan penghuni rumah mendapat tambahan pasal keenam — diusulkan Renn, disetujui Ashvarok dalam tiga detik (rekor):
-
-6. Kalau suatu hari nanti ada anak lain yang seperti kami — jiwa yang tertidur, tubuh yang menunggu — kita yang datang menjemput. Karena kami tahu persis rasanya. Dan tidak boleh ada lagi anak yang mendengar dunia delapan bulan tanpa pernah dilihat matanya.
+7. Kalau suatu hari nanti ada anak lain yang seperti kami — jiwa yang tertidur, tubuh yang menunggu — kita yang datang menjemput. Karena kami tahu persis rasanya. Dan tidak boleh ada lagi anak yang mendengar dunia delapan bulan tanpa pernah dilihat matanya.
 
 Di bawahnya, tulisan tangan Ashvarok:
 

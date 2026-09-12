@@ -3,250 +3,305 @@ title: "Bab 249: Hari Jadi Adik-Kakak"
 chapter: 249
 ---
 
-Ada satu tanggal yang oleh Sela dicatat di arsip dengan tinta merah — satu-satunya entri arsip resmi yang memakai warna selain hitam:
+Ketukan Renn datang dari dalam tepat ketika Ashvarok hendak menyuapkan bubur pertama. Tiga ketukan cepat pada kesadaran yang mereka bagi, lalu satu dorongan kecil ke jari telunjuk. Sendok itu berhenti di depan mulut.
 
-Hari 34. Tanggal pertama kali seorang bocah tambang lima belas tahun bertanya kepada gadis sebelas tahun: "Kamu mau jadi adikku?"
+*Meja,* kata Renn.
 
-Delapan bulan silam, tanggal itu tidak pernah dirayakan. Ada pekerjaan besar, ada dunia yang harus dijaga, dan siapa pun bisa memaklumat bahwa perayaan keluarga kecil kalah urgensinya.
+Ashvarok menyerahkan kendali tangan. Renn mengetukkan sendok ke meja kayu sampai Sela mendongak dari buku arsipnya.
 
-Tahun ini tidak.
+"Hari ini hari jadi kita jadi adik-kakak," katanya melalui mulut yang sama. Suara bocah itu masih kasar setelah berbulan-bulan tidur, tetapi sekarang tidak lagi terdengar seperti tamu. "Aku mau merayakan. Ibu Tamma sudah kuberi tahu."
 
-Karena Renn — yang sudah bangun, sudah punya suara, dan sudah punya pendapat tentang segala hal — mengetuk meja sarapan dan mengumumkan:
+Sela menutup bukunya perlahan. Ashvarok mengambil kembali suara sebelum gadis itu sempat menjawab.
 
-"Hari ini hari jadi kita jadi adik-kakak. Aku mau rayakan. Dan aku sudah bilang ke ibu Tamma."
+"Kau sudah memberi tahu ibu Tamma sebelum membicarakannya denganku?"
 
-Ashvarok menatap Sela. Sela menatap Ashvarok.
+"Kalau kubicarakan dulu, Kak Raja akan bilang tidak perlu repot."
 
-"...kau sudah BILANG ke ibu Tamma?" kata Ashvarok. "Sebelum bilang padaku?"
+"Aku tidak selalu berkata begitu."
 
-"Iya. Karena kalau aku tanya duluan, kamu pasti bilang 'tidak usah repot-repot'." Renn menyandar. "Sekarang bukan lagi pertanyaan. Ibu Tamma sudah masak."
+Sela dan Renn menjawab bersamaan, "Selalu."
 
-Dan benar — dari dapur tercium Sup Kamp Pertama, resep lengkap, plus sesuatu yang manis yang belum pernah ada sebelumnya.
+Dari dapur barak terdengar dasar panci menggesek tungku. Bau kaldu umbi dan garam batu menyusup melalui celah pintu, disusul aroma gula hangus yang tidak termasuk sarapan biasa. Rencana itu rupanya sudah jauh melewati tahap bisa dibatalkan.
 
----
+"Kapan kau mengaturnya?" tanya Ashvarok.
 
-Perayaannya kecil. Persis seperti yang diminta kesepakatan penghuni rumah pasal 5: hanya barak the Quiet Vein, nat lorong, dan orang-orang tertentu.
+"Saat kau tidur tiga malam lalu. Aku meminjam tangan kita untuk menulis catatan."
 
-Yang datang: ibu Tamma (dengan sup dan puding), Brannoc (dengan kayu bakar terbaik dari stoknya), Kovan (dengan buku catatan — "seseorang harus mencatat sejarah keluarga"), dan Ossian (dengan hadiah resmi dari Kantor Penghubung).
+"Tulisannya miring," kata Sela. "Aku tahu bukan Kak Ash."
 
-Hadiah Ossian membuat semua orang diam:
+Renn mendengus. "Yang penting terbaca."
 
-Dua dokumen resmi bersegel.
+Sela bangkit, membuka lemari dinding, lalu menarik selembar arsip bertepi merah. Hanya satu tanggal dalam seluruh catatannya memakai warna selain hitam.
 
-"Dokumen pertama," katanya, "adalah surat penetapan resmi bahwa status keluarga Renn-Sela-Ashvarok diakui administrasi Karvess sebagai SATU KELUARGA — dengan catatan khusus 'penghuni ganda' yang kini punya dasar hukum."
+Hari 34. Hari ketika seorang bocah tungku lima belas tahun bertanya kepada gadis sebelas tahun apakah ia mau menjadi adiknya.
 
-"Dan yang kedua?"
+Delapan bulan silam, tanggal itu lewat tanpa sup, tanpa lilin, tanpa satu menit pun sengaja disisihkan. Kedalaman sedang bergeser. Orang-orang kehilangan nama. Dunia meminta dijaga lebih cepat daripada sebuah keluarga baru sempat menyadari dirinya lahir.
 
-Ossian tersenyum — senyum jarangan mantan antagonis yang akhirnya merasa berguna:
+"Tahun lalu kita tidak merayakannya," kata Sela.
 
-"Surat kedua adalah... pengesahan nama. Kalian bertiga boleh memilih nama keluarga. Resmi. Terdaftar. Bukan nama Hegemony, bukan nama barak. Nama kalian sendiri."
+"Karena itu tahun ini dihitung dua kali," jawab Renn. "Aku sudah memutuskan."
 
----
+Ashvarok membiarkan tangan mereka mengambil sendok lagi. "Sejak kapan kau berhak memutuskan?"
 
-Sunyi panjang di barak the Quiet Vein.
+"Sejak aku kakaknya juga."
 
-Sela memegang dokumen itu dengan dua tangan — gadis sebelas tahun yang dulu mencatat perbedaan "kakaknya" di papan tulis, kini memegang hak legal untuk menamai keluarganya.
-
-"Nama keluarga," bisiknya. "Kami tidak pernah punya. Orang tua kami... orang-orang barak biasanya hanya dipanggil dari blok asal."
-
-"Karena itu aku datang," kata Ossian. "Birokrasi bisa mengambil banyak hal. Hari ini dia memberi."
-
-Mereka bertiga (empat, kalau menghitung yang di dalam) duduk melingkar untuk memilih nama — dan prosesnya berlangsung seperti semua rapat keluarga kecil di dunia mana pun:
-
-Renn mengusulkan sesuatu yang terlalu jujur ("Keluarga Sup"?). Ditolak ibu Tamma dengan alasan "itu jabatanku, bukan namamu".
-
-Ashvarok mengusulkan sesuatu yang terlalu megah ("Vel-Karvess"). Ditolak Sela: "kita bukan dinasti, Kak; kita barak".
-
-Lalu Sela sendiri diam lama — cara arsiparisnya berpikir — dan berkata:
-
-"Bagaimana dengan 'the Quiet Vein'? Bukan nama baraknya. Artinya kata-katanya: 'urat yang tenang'." Ia memandang mereka. "Tambang ini tempat pertama kali kita saling mendengar. Dan urat tenang... itu apa yang kita punya sekarang. Tidak ada lagi yang menyala atau meledak. Semuanya mengalir pelan dan hidup."
-
-Sunyi.
-
-Lalu Ashvarok berkata — untuk keluarganya, bukan untuk kerajaannya:
-
-"the Quiet Vein. Keluarga Urat Tenang."
-
-Renn mengetuk meja satu kali: setuju.
-
-Ibu Tamma mengusap mata dengan celemeknya dan berkata "aku tidak menangis, ini uap sup" — dan semua orang pura-pura percaya.
-
-Ossian menandatangani dokumen itu di tempat, lalu membaca ulang nama resmi mereka untuk arsip:
-
-"Keluarga the Quiet Vein: Ashvarok. Renn. Sela." Ia berhenti, lalu menambahkan dengan senyum: "Dan penghuni dalam — tercatat sebagai 'hadir tanpa alamat terpisah'."
+Argumen itu tidak menyediakan celah.
 
 ---
 
-Setelah Ossian pergi, sisa perayaan berjalan dengan cara yang oleh Renn disebut "paling enak sepanjang dua kehidupan":
+Menjelang siang, meja dapur tak lagi terlihat di bawah mangkuk. Ibu Tamma membawa First Camp Soup dalam panci hitam yang pegangannya sudah dibalut kain tiga kali. Di belakangnya, Brannoc masuk sambil memanggul kayu bakar kering dari simpanan terbaik. Kovan tiba dengan buku catatan kosong dan dua pena.
 
-Mereka makan Sup Kamp Pertama bersama. Bercerita soal hari-hari awal — saat Ashvarok masih pura-pura jadi Renn yang kasar, saat Sela mencatat 27 perbedaan di papan tulis, saat semua orang tidak tahu bahwa bocah tambang kurus itu menyimpan raja seribu tahun.
+"Tidak ada pemeriksaan," kata Ashvarok ketika melihat buku itu.
 
-Dan lalu Sela mengambil satu kotak tua dari bawah tempat tidurnya.
+"Ini sejarah keluarga," jawab Kovan. "Bahaya terbesar sejarah keluarga adalah semua orang yakin ingatannya paling benar."
 
-"Kak. Aku mau tunjukkan sesuatu yang belum pernah kutunjukkan ke siapa pun."
+"Hari ini kau makan, bukan mengaudit."
 
-Di dalamnya: lembaran arsip pertama yang pernah ia tulis — umur sebelas tahun, tulisan tangan kecil-kecil dan sangat rapi:
+Kovan menyimpan satu pena. "Kompromi."
 
-"Hari 34. Kak Renn bertanya apakah aku mau jadi adiknya.
-Aku menjawab iya SEBELUM dia selesai bertanya, karena aku takut dia berubah pikiran.
-Catatan pribadi: orang barak tidak biasa ditanya mau atau tidak. Biasanya hanya diperintah.
-Hari ini ada orang menanyakan MAU AKU.
-Aku akan menyimpan pertanyaan ini selamanya."
+Ibu Tamma menaruh puding Aru di ambang jendela agar dingin. Permukaannya miring dan satu sisinya lebih gelap.
 
+"Eksperimen pertama," katanya sebelum siapa pun berkomentar. "Kalau gagal, kalian tetap makan."
 
+Pintu terbuka lagi. Ossian berdiri di sana dengan mantel resmi dan tabung dokumen di bawah lengan. Ia tidak membawa pengawal. Sepatunya juga telah dibersihkan sebelum menginjak lantai barak, perubahan kecil yang tidak luput dari Ashvarok.
 
+"Aku diundang sebagai Ossian atau sebagai Kantor Penghubung?" tanyanya.
 
-Ashvarok membaca lembar itu — dan di dalam, dari tempat yang tidak bisa dilihat siapa pun, Renn berkata sesuatu yang hanya untuk Ashvarok:
+"Sebagai orang yang membawa hadiah," kata Renn cepat.
 
-"Kau boleh bilang ke dia. Atas namaku juga."
+"Renn," tegur Sela.
 
-Maka Ashvarok menjawab Sela — dua suara, bergantian, satu kalimat:
+Ossian melepas mantel. "Jawaban paling jujur yang kuterima pekan ini."
 
-"Renn mau kubilang: pertanyaannya tidak pernah berubah. Dan jawabanmu tidak perlu disimpan 'selamanya supaya tidak hilang' — karena yang bertanya masih ada, dan akan terus bertanya setiap hari:
+Tabung itu mengeluarkan bunyi padat saat diletakkan di meja. Dua gulungan ada di dalamnya, masing-masing diikat benang kelabu dan disegel. Ashvarok mengenali bentuk huruf resmi sebelum membacanya. Bertahun-tahun lalu, dokumen dengan tata letak serupa menentukan siapa boleh memiliki rumah, siapa menjadi milik tambang, dan nama siapa cukup murah untuk dicoret.
 
-'Sela, hari ini mau jadi adik kami lagi?'
+Tangannya tidak menyentuh gulungan.
 
-Dan jawabanmu boleh berubah-ubah. Iya, iya, dan iya."
+"Apa harganya?" tanyanya.
 
----
+Senyum Ossian hilang. "Tidak ada."
 
-Sela menangis — dan untuk pertama kalinya tidak menyembunyikannya dengan catatan atau arsip. Ia menangis seperti anak sebelas tahun yang akhirnya boleh menangis, lalu tertawa, lalu berkata:
+"Semua kertas resmi punya harga. Kalau bukan uang, kewajiban. Kalau bukan kewajiban, pintu yang sengaja dibiarkan terbuka."
 
-"Jawabanku tetap sama juga.
+"Dulu, ya." Ossian mendorong tabung itu ke tengah meja, tetapi tidak lebih dekat. "Karena orang seperti aku memastikan demikian. Hari ini kau boleh memeriksa setiap pasal, mencari catatan samping, bahkan membakarnya kalau menemukan satu kalimat yang mengikat."
 
-Iya. Iya. Dan iya."
+Sela menarik gulungan pertama. Ia mematahkan segel, membentangkan kertas, lalu membaca dari judul sampai ruang tanda tangan. Kovan mencondongkan badan, berhenti ketika Sela menutup sebagian teks dengan siku, kemudian duduk tegak lagi.
 
-Mereka bertiga (empat) berpelukan di barak kecil itu — keluarga the Quiet Vein yang resmi dan sah, dengan segel Kantor Penghubung dan semuanya — dan nat lorong meneruskan suara pelukan mereka ke seluruh jaringan batu Karvess:
+"Surat penetapan keluarga," kata Sela. Ujung jarinya mengikuti baris ketiga. "Renn, Sela, dan Ashvarok diakui administrasi Karvess sebagai satu keluarga. Ada catatan penghuni ganda, tetapi bukan pembatasan hak. Tempat tinggal bersama. Waris bersama. Hak saling mewakili kalau salah satu tidak bisa bicara."
 
-irama hangat yang artinya: ada keluarga baru hari ini.
+Renn begitu diam hingga Ashvarok dapat mendengar desir api tungku melalui telinga mereka.
 
----
+"Baca lagi bagian nama," katanya.
 
-Neraca hari jadi adik-kakak pertama — ditulis Kovan atas permintaan keluarga (karena "kalau bukan aku, siapa lagi yang rajin mencatat"):
+Sela membacanya lagi. Kali ini suaranya retak pada nama mereka sendiri.
 
-Hari 967. Keluarga the Quiet Vein resmi terdaftar: 3 nama, 1 penghuni dalam, 1 nat keluarga (Yang Dulu Sunyi, jabatan baru: nat keluarga).
+Ashvarok menatap Ossian. "Siapa yang menolak?"
 
-Perayaan: sup Kamp Pertama, puding Aru (ibu Tamma bereksperimen), kayu bakar Brannoc, dokumen Ossian.
+"Tiga pegawai mengembalikan berkas karena tak ada kolom untuk satu tubuh dengan dua penghuni. Pegawai keempat mengusulkan satu nama dihapus agar formulir rapi." Ossian merapikan ujung sarung tangannya. "Aku meminta mereka membacakan Pasal Menyapa sebelum memberi keputusan. Setelah itu kami membuat kolom baru."
 
-Tangisan: 3 orang (ibu Tamba tidak mengaku).
+"Kau bisa memerintah mereka sejak awal," kata Brannoc.
 
-Dan satu kalimat penutup dari Sela untuk arsip:
+"Bisa. Lalu kolom itu hanya bertahan selama jabatanku." Ossian menunjuk kertas di depan Sela. "Sekarang kolomnya ada karena mereka mengerti siapa yang akan dilukai bila tidak ada. Orang berikutnya tidak perlu mengenalku untuk memakainya."
 
-"Orang lain merayakan kemenangan perang. Keluarga kami merayakan pertanyaan 'mau jadi adikku?'. Menurutku... keluarga kami yang punya prioritas benar."
+Jawaban itu mengubah sesuatu di meja. Ashvarok meraih dokumen. Kertasnya dingin, seratnya kasar di bawah ibu jari. Tidak ada gema klaim pada segel, tidak ada simpul tersembunyi dalam kalimat. Hanya pekerjaan membosankan yang telah dilakukan dengan benar.
 
----
+"Dan gulungan kedua?" tanya Renn.
 
-Dan malamnya, sebelum semua orang tidur, Renn meminta satu hal terakhir dari Ashvarok:
+Ossian menyerahkannya kepada Sela. "Pengesahan nama keluarga. Kalian boleh memilih sendiri. Bukan nama Hegemony, bukan sebutan blok, bukan tanda kepemilikan kantor. Nama yang akan menjawab ketika Karvess bertanya kalian berasal dari rumah mana."
 
-"Kak Raja. Besok — hari pertama kita jadi keluarga RESMI — boleh kita lakukan satu hal?"
+Ibu Tamma mematikan api tungku. Dalam sunyi yang menyusul, puding di jendela mengeluarkan bunyi kecil saat permukaannya retak karena dingin.
 
-"Sebutkan."
-
-"Buka mata. Dua-duanya. Aku mau lihat dunia bareng kamu... bukan bergantian. Sekali saja, satu detik. Aku mau tahu rasanya melihat yang kamu lihat, sementara kamu lihat yang aku mau lihat."
-
-Ashvarok diam.
-
-Dua kesadaran membuka mata dalam satu tubuh itu secara teori mustahil — tetapi sejak hari pemulangan Vess-Morath, kata "mustahil" sudah tidak dipakai lagi di Karvess.
-
-Subuh berikutnya, mereka mencoba.
-
-Dan nat lorong barak utara — saksi resmi — melaporkan bahwa selama tepat satu detik, irama tubuh itu menjadi SATU: tidak ada dua napas, tidak ada dua denyut, tidak ada suara ganda.
-
-Satu detik satu jiwa utuh.
-
-Lalu kembali menjadi dua — dan kedua suara itu bicara bersamaan, tertawa bersamaan:
-
-"...kita harus ulangi lagi."
+"Birokrasi pernah mengambil banyak hal dari tempat ini," kata Ossian. "Hari ini biarkan ia mengembalikan satu."
 
 ---
 
-Dan penutup bab — dari ibu Tamma, yang menulisnya di papan dapur untuk semua orang:
+Memilih nama ternyata lebih sulit daripada menjaga retakan dunia.
 
-"Hari ini keluarga the Quiet Vein resmi terbentuk. Tiga nama, satu tubuh berdua isi, satu nat keluarga, dan satu aturan rumah yang tidak pernah tertulis:
+Renn mengusulkan Keluarga Sup. Ibu Tamma menolaknya sebelum Kovan selesai menulis.
 
-Datanglah lapar — dalam arti apa pun.
+"Sup itu jabatanku," katanya. "Kalian cari nama sendiri."
 
-Karena di rumah ini, semua yang datang lapar akan diberi makan: perut, telinga, dan hati."
+Ashvarok menawarkan Vel-Karvess, nama yang menurutnya cukup tua untuk membawa sejarah dan cukup baru untuk tidak mewarisi takhta mana pun.
 
-— Ibu Tamma
+Sela mengerutkan hidung. "Kita bukan dinasti."
 
----
+"Vel tidak selalu berarti dinasti."
 
-Dan di halaman terakhir arsip keluarga — halaman yang oleh Sela diberi judul "Untuk Kita, Tahun Depan" — tertulis satu janji bersama yang akan dibaca ulang setiap hari jadi adik-kakak berikutnya:
+"Kedengarannya seperti nama yang dipahat di gerbang supaya orang kecil takut mengetuk."
 
-"Keluarga bukan orang yang selalu ada.
+Brannoc menutup batuk dengan kepalan. Kovan gagal menyembunyikan garis tinta yang melonjak ketika penanya ikut bergerak karena tertawa.
 
-Keluarga adalah orang yang setiap hari memutuskan untuk tetap ada.
+Mereka mencoba nama dari nat lorong, nama dari hari pertama, nama yang memuat rumah, api, dan pintu. Semuanya terasa seperti gelar atau penjelasan. Sela mencoret tiap usulan pada kertas bekas, bukan pada formulir resmi. Satu halaman habis. Sup mendingin sampai lemak tipis terbentuk di tepinya.
 
-Dan kita — tiga nama, dua jiwa, satu rumah — memutuskan itu lagi besok. Dan lusa. Dan seterusnya."
+"Kalau tak ada nama hari ini, suratnya tetap berlaku," kata Ossian. "Pilihan bukan tenggat."
 
----
+Sela memandang panci, kayu Brannoc, buku Kovan, dan dinding barak yang natnya membawa ketukan orang pulang dari lorong. Pandangannya berhenti pada lambang lama di atas lemari: tanda the Quiet Vein, sekte tambang yang pernah memiliki kontrak orang-orang di tempat ini.
 
-Dan satu adegan terakhir — sore itu, di nat lorong barak utara:
+"Bagaimana kalau kita mengambil nama mereka?" katanya.
 
-Keluarga the Quiet Vein datang berempat (tiga manusia, satu jiwa dalam) untuk memperkenalkan diri resmi kepada nat keluarga mereka.
+Brannoc menegang. "Nama siapa?"
 
-Sela membaca surat pengesahannya. Ashvarok menyampaikan salam dari kedalaman. Dan Renn...
+"the Quiet Vein."
 
-Renn bercerita soal hari pertama mereka bertemu: bocah tambang lima belas tahun yang pulang kerja dan mendengar suara aneh dari kamar sendiri, dan gadis kecil sebelas tahun yang menatapnya dengan penuh pertanyaan.
+Udara dapur mengeras. Ashvarok masih ingat cincin besi di ibu jari para mandor lama, daftar kuota, dan cara nama itu diucapkan seperti palang pintu. Sela tidak mundur.
 
-"Dan aku pikir waktu itu," kata Renn, "'siapa dua orang berisik ini dan kenapa mereka ada di rumahku.'"
+"Mereka memakainya untuk bilang urat tambang harus diam saat diambil," lanjutnya. "Kita membuatnya berarti lain. Tambang ini tempat pertama kita saling mendengar. Uratnya sekarang tenang karena tidak dipaksa bungkam. Ia mengalir pelan, membawa suara, dan tetap hidup."
 
-Tawa. Lalu Renn melanjutkan:
+"Orang bisa mengira kita milik sekte itu," kata Ashvarok.
 
-"Ternyata dua orang berisik itu adalah satu-satunya alasan rumahku tidak pernah sepi lagi."
+"Kalau begitu kita jawab sampai mereka paham sektenya yang gagal memiliki nama ini." Sela menaruh pena di depan mereka. "Mereka mengambil orang barak bertahun-tahun. Boleh sekali orang barak mengambil sesuatu kembali."
 
-Nat keluarga menjawab dengan irama panjang yang oleh Sela diterjemahkan sambil menangis:
+Renn mengetukkan jari mereka satu kali di meja.
 
-"SELAMAT DATANG DI RUMAH, KELUARGA URAT TENANG.
+*Setuju,* katanya di dalam.
 
-DARI HARI INI, SETIAP YANG PULANG KE LORONG INI TIDAK PERNAH BICARA SENDIRIAN.
+Ashvarok memandang lambang lama itu lagi. Penguasa sering meruntuhkan panji musuh lalu menggantinya dengan panji sendiri. Sela menawarkan sesuatu yang lebih sukar: membiarkan bekasnya ada, tetapi mencabut hak bekas itu untuk menentukan arti.
 
-ITU JANJI BATU."
+"the Quiet Vein," katanya. "Keluarga Urat Tenang."
 
----
+Brannoc mengangkat mangkuk. "Sekarang namanya milik orang yang tetap tinggal. Aku bisa minum untuk itu."
 
-Dan Ashvarok menutup perayaan hari jadi itu dengan satu permintaan kepada nat keluarga — permintaan pertama keluarga the Quiet Vein:
+Ossian mengisi formulir, lalu memutarnya agar Sela memeriksa setiap huruf sebelum tinta segel diteteskan. Ia membaca hasilnya keras-keras.
 
-"Nat. Kami mau minta satu hal.
+"Keluarga the Quiet Vein: Ashvarok, Renn, Sela. Penghuni dalam tercatat sebagai hadir tanpa alamat terpisah."
 
-Kalau suatu hari kami bertiga sudah tidak ada lagi — sudah lama sekali, setelah hidup penuh dan selesai...
+"Bukan tanpa alamat," kata Renn.
 
-tolong ingatkan dunia bahwa kami pernah saling bertanya 'mau jadi keluargaku?' — dan jawabannya selalu iya."
+Ossian berhenti dengan cap masih di tangan.
 
-Jawaban nat lorong:
+"Alamatku sama dengan Kak Ash. Tulis itu."
 
-"ITU PEKERJAAN BATU YANG PALING BAIK: MENYIMPAN JAWABAN ORANG YANG SALING SAYANG.
+Sela menunjuk ruang catatan. "Bisa ditambahkan tanpa mengubah pasal."
 
-DITERIMA. SELAMANYA."
+Ossian mencoret frasa lama dengan satu garis resmi, lalu menulis: *dua penghuni, satu alamat, hak setara.* Ia menyerahkan pena kepada Renn. Tangan mereka membubuhkan tanda yang sedikit miring.
 
----
-
-Dan satu kalimat terakhir dari Renn — pelan, untuk keluarganya, sambil mengetuk nat itu tiga kali:
-
-"Selamat hari jadi, adikku. Kakakmu. Dan saudara dalam kami.
-
-Sampai tahun depan — dan setiap hari di antaranya."
+Dokumen itu baru disegel setelah Renn mengangguk.
 
 ---
 
-Dan satu adegan penutup yang benar-benar terakhir — dari Sela, untuk arsip keluarga:
+Sup dimakan terlambat, tetapi ibu Tamma memanaskannya tanpa mengeluh. Puding Aru ternyata terlalu padat dan harus dipotong dengan pisau roti. Renn meminta potongan kedua. Eksperimen pertama dinyatakan berhasil atas dasar itu.
 
-Malam itu, setelah semua orang tertidur, Sela menulis entri terakhir di arsip pribadinya:
+Kovan mencatat hadiah: dua dokumen Ossian, kayu bakar Brannoc, sup dan puding ibu Tamma. Ia juga mencatat jumlah tangisan nol, lalu terpaksa mengubahnya menjadi satu ketika ibu Tamma mengusap mata dengan celemek.
 
-"Hari 967. Keluarga kami resmi bernama the Quiet Vein.
+"Uap sup," katanya.
 
-Kak Raja seribu tahun. Kak Renn lima belas tahun dan delapan bulan mendengar dari dalam. Dan aku — sebelas tahun (hampir dua belas!), arsiparis, tetangga seumur hidup.
+"Supnya di sisi lain ruangan," kata Kovan.
 
-Orang lain punya silsilah leluhur.
+"Kalau ingin makan lagi, angka itu nol."
 
-Kami punya silsilah pertanyaan: 'mau jadi adikku?', 'mau tinggal dengan kami?', 'mau jadi keluarga resmi?'.
+Kovan mencoret angka tersebut.
 
-Semua silsilah kami dimulai dari seseorang berani bertanya.
+Setelah tamu pulang dan mangkuk ditumpuk, Sela menarik kotak kayu dari bawah tempat tidurnya. Engselnya berderit. Di dalamnya terbaring lembar arsip pertama yang ia tulis tentang mereka, kertasnya telah lembut pada lipatan.
 
-Maka kalau suatu hari ada anak lain yang tidak pernah ditanya apa-apa...
+"Aku belum pernah menunjukkan ini kepada siapa pun." Ia menyerahkannya kepada Ashvarok. "Bahkan ibu Tamma."
 
-aku akan jadi orang pertama yang bertanya kepadanya."
+Tulisan kecil umur sebelas memenuhi setengah halaman.
 
-— Sela
-Keluarga the Quiet Vein.
+*Hari 34. Kak Renn bertanya apakah aku mau menjadi adiknya. Aku menjawab iya sebelum dia selesai bertanya karena aku takut dia berubah pikiran. Orang barak biasanya diperintah. Hari ini ada orang menanyakan mau aku. Aku akan menyimpan pertanyaan ini selamanya.*
+
+Di bawahnya, dengan tinta lebih muda, tertulis satu janji: ia akan masuk the High Archive Academy, bukan untuk pergi dari barak, melainkan agar pertanyaan semacam itu disimpan dengan benar.
+
+Renn meminta membaca halaman itu dua kali. Pada pembacaan kedua, kendalinya atas mata goyah dan huruf-huruf mengabur.
+
+"Kau masih mau masuk akademi?" tanyanya.
+
+"Mau."
+
+"Kalau mereka menolak karena umurmu?"
+
+"Kukirim arsip sampai mereka kehabisan alasan."
+
+"Kalau mereka bilang orang barak tidak punya pendidikan cukup?"
+
+Sela mengangkat dagu. "Kukirim salinan nilai dan daftar guru yang bersedia menguji mereka balik."
+
+Ashvarok tertawa pendek. "Mereka akan menyerah."
+
+"Bukan itu tujuannya. Mereka harus menerimaku dengan sadar, bukan karena lelah."
+
+Jawaban itu milik arsiparis, bukan lagi gadis yang takut sebuah pertanyaan ditarik kembali. Ashvarok melipat kertas mengikuti bekas lama dan mengembalikannya ke kotak.
+
+Renn bicara hanya kepadanya dari ruang dalam.
+
+*Bilang pertanyaannya tidak pernah berubah. Atas namaku juga.*
+
+Ashvarok menyerahkan suara. Renn memakainya lebih dulu.
+
+"Sela, hari ini kau masih mau jadi adikku?"
+
+Sela memeluk kotak itu ke dada. "Iya."
+
+Ashvarok mengambil giliran. "Besok?"
+
+"Tanya besok."
+
+"Jawabanmu boleh berubah," kata Renn.
+
+"Aku tahu." Air mata melewati pipi Sela tanpa sempat diseka. "Itu sebabnya aku bisa menjawab iya."
+
+Ia memeluk mereka. Satu lengan Ashvarok mengitarinya; Renn mengendalikan tangan lain. Nat dinding mengirim irama hangat ke lorong, tidak lebih keras daripada bunyi sendok menyentuh mangkuk. the Once-Silent menjawab dari batu dekat dapur dengan dua ketukan pelan.
+
+Keluarga baru itu tidak memerlukan pengumuman lain.
+
+---
+
+Malam hampir habis ketika Renn mengajukan permintaan terakhir.
+
+"Besok, saat kita bangun sebagai keluarga resmi, aku mau membuka mata bersama. Dua-duanya."
+
+Ashvarok duduk di ranjang sempit. Sela telah tidur di balik sekat, kotak arsip di bawah lengannya.
+
+"Kita bergantian agar tubuh tidak menerima dua kehendak sekaligus," katanya.
+
+"Aku tahu. Sekali saja, satu detik. Aku mau melihat dunia yang kaulihat sambil kau melihat dunia yang ingin kulihat."
+
+"Kalau gagal, kita bisa kehilangan kendali tubuh."
+
+"Kalau mulai sakit, aku lepas lebih dulu."
+
+"Tidak. Aku yang lepas. Kau pemilik tubuh ini."
+
+Renn terdiam, lalu mengetuk kesadaran mereka dua kali. *Dua penghuni, satu alamat, hak setara. Tadi kau setuju.*
+
+Kertas resmi pertama mereka sudah menjadi senjata melawannya.
+
+"Satu detik," kata Ashvarok. "Sela dan ibu Tamma harus mengawasi."
+
+"Setuju."
+
+Pada subuh, mereka duduk di lantai dapur dengan punggung bersandar pada nat keluarga. Ibu Tamma memegang pergelangan mereka. Sela menghitung memakai jam pasir kecil.
+
+"Kalau kukatakan berhenti, kalian berhenti," kata ibu Tamma.
+
+"Bahkan kalau belum satu detik?" tanya Renn.
+
+"Terutama kalau belum satu detik."
+
+Sela membalik jam.
+
+Ashvarok membuka jalur penglihatan. Renn tidak mundur ke ruang dalam seperti biasa. Selama satu hentakan jantung, mata mereka menangkap dua dunia sekaligus: serat meja dan gema usia kayunya; wajah Sela yang tegang dan ribuan garis pilihan yang membawanya ke kursi itu; uap panci yang putih dan irama hangat nat yang melintas di balik batu.
+
+Tidak ada rebutan. Tidak ada batas yang pecah.
+
+Hanya satu pandangan yang cukup luas untuk menampung keduanya.
+
+"Sekarang," kata Sela.
+
+Mereka memisahkan kendali. Tubuh terhuyung, lalu ibu Tamma menahannya sebelum kepala membentur meja.
+
+"Jangan ulangi," katanya.
+
+Dua suara menjawab bersamaan, "Kita harus ulangi lagi."
+
+Sela tertawa sampai jam pasir jatuh miring. Ketika napas semua orang pulih, ia membuka arsip merah dan mencatat laporan nat: tepat satu detik, irama tubuh menjadi tunggal, kemudian kembali dua tanpa kehilangan apa pun.
+
+Ibu Tamma mengambil arang dan menulis aturan baru pada papan dapur:
+
+*Hari ini keluarga the Quiet Vein resmi terbentuk. Tiga nama, satu tubuh berdua isi, satu nat keluarga.*
+
+Di bawahnya ia menambah satu baris, menekan arang sampai bunyinya menggesek kayu.
+
+*Datanglah lapar. Di rumah ini, semua yang datang lapar diberi makan.*
+
+Ia meletakkan mangkuk di depan mereka sebelum tinta arsip Sela kering.
+

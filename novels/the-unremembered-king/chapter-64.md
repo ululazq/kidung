@@ -29,11 +29,11 @@ Tharrow tertawa sekali, pendek, bunyi yang paling tidak sedih yang keluar dariny
 
 "Kamu punya alasan untuk memilih malam ini," kata Ashvarok. "Katakan. Aku tidak membeli barang tanpa tahu kenapa penjualnya tergesa."
 
-Jawaban itu, ironisnya, membuat bahu Overseer itu lebih lurus — orang administratif selalu lebih percaya kepada prosedur daripada kepada belas kasihan. "Tenggatkku lewat," kata Tharrow. "Penilaian triwulan II sukses tanpa namaku di dalamnya. Vael tidak mengucapkannya, tetapi kalimat-kalimatnya sudah mengatakannya. Laporan kosong diganti nama sampulnya, atau arsip cabang utara menunggu. Arsip utara artinya akhir jabatan dengan rapi, jauh dari kota ini, jauh dari semua yang pernah kubangun." Sarung tangannya yang bersih itu mengepal. "Empat belas bulan aku bekerja untuk rantai itu. Amplop demi amplop. Aku tahu aku bisa disingkirkan — aku hanya tidak mau disingkirkan sendirian, membawa semuanya sendirian, seperti kertas mati yang dibakar diam-diam."
+Jawaban itu, ironisnya, membuat bahu Overseer itu lebih lurus — orang administratif selalu lebih percaya kepada prosedur daripada kepada belas kasihan. "Tenggatku lewat," kata Tharrow. "Penilaian triwulan II sukses tanpa namaku di dalamnya. Vael tidak mengucapkannya, tetapi kalimat-kalimatnya sudah mengatakannya. Laporan kosong diganti nama sampulnya, atau arsip cabang utara menunggu. Arsip utara artinya akhir jabatan dengan rapi, jauh dari kota ini, jauh dari semua yang pernah kubangun." Sarung tangannya yang bersih itu mengepal. "Empat belas bulan aku bekerja untuk rantai itu. Amplop demi amplop. Aku tahu aku bisa disingkirkan — aku hanya tidak mau disingkirkan sendirian, membawa semuanya sendirian, seperti kertas mati yang dibakar diam-diam."
 
 "Dan kamu berpikir tambang ini punya kapal yang cukup kokoh untuk ditumpangi."
 
-"Aku berpikir apa pun yang membuat kalian bertahan setahun melawan Vael lebih layak dipercaya daripada dia."
+"Aku berpikir apa pun yang membuat kalian bertahan dua bulan melawan Vael lebih layak dipercaya daripada dia."
 
 Ashvarok hampir menghargai kejujuran itu. Hampir.
 
@@ -51,7 +51,7 @@ Angin karantina membawa abu halus melintasi gang. Ashvarok memikirkan penawaran 
 
 "Aku mendengar semuanya. Dan aku menolak menjadi sekutumu." Ashvarok melangkah lebih dekat satu langkah, sehingga wajah mereka cukup dekat untuk saling membaca, karena itulah inti dari malam ini. "Sekutu adalah orang yang berbagi nasib, Tharrow. Nasibmu sedang jatuh, dan nasibku belum. Aku tidak akan mengikat milikku pada milikmu. Namun informasimu — itu barang lain. Informasi bisa dibeli tanpa menikah."
 
-Tharrow menatapnya, dan di matanya bekerja perhitungan yang sama yang selama setahun memakai audit, jerat, dan daftar sebagai senjata — menghitung nilai jual. "Berapa?"
+Tharrow menatapnya, dan di matanya bekerja perhitungan yang sama yang selama berbulan-bulan memakai audit, jerat, dan daftar sebagai senjata — menghitung nilai jual. "Berapa?"
 
 "Bukan uang." Ashvarok menyandar ke dinding gudang, santai seperti percakapan pasar, dan itu pun bagian dari harga. "Bacakan padaku. Semua yang ada dalam kepalamu — isi amplop, kode slot, tanggal-tanggalnya, siapa menerima berapa. Kertas boleh tetap milikmu; aku tidak mau menjadi pemegang bukti. Bukti yang pindah tangan berubah pemilik."
 
@@ -59,9 +59,9 @@ Tharrow menatapnya, dan di matanya bekerja perhitungan yang sama yang selama set
 
 "Kertas bisa disita. Ingatan tidak."
 
-Tharrow diam lama. Lalu, dengan suara mesin ketik yang sudah setahun dipakai tanpa oli, ia mulai membacakan — tanggal-tanggal kiriman, jumlah persentase per bulan, kode kotak garis miring, jam serahan, deskripsi kurir bisu yang wajahnya selalu sama, dan satu nama jabatan yang menjadi penerima bagian akhir — kolom operasional Quota Office, ditandatangani tidak langsung, tetapi ditandatangani. Di tengah pembacaan itu, sekali saja, suara Tharrow tersendat pada tanggal kedua belas bulan ketiga, tanggal kiriman terbesar, dan Overseer itu menelan sesuatu sebelum melanjutkan. Ashvarok tidak bertanya, karena ada harga yang tidak pantas ditanyakan orang lain.
+Tharrow diam lama. Lalu, dengan suara mesin ketik yang lama dipakai tanpa oli, ia mulai membacakan — tanggal-tanggal kiriman, jumlah persentase per bulan, kode kotak garis miring, jam serahan, deskripsi kurir bisu yang wajahnya selalu sama, dan satu nama jabatan yang menjadi penerima bagian akhir — kolom operasional Quota Office, ditandatangani tidak langsung, tetapi ditandatangani. Di tengah pembacaan itu, sekali saja, suara Tharrow tersendat pada tanggal kedua belas bulan ketiga, tanggal kiriman terbesar, dan Overseer itu menelan sesuatu sebelum melanjutkan. Ashvarok tidak bertanya, karena ada harga yang tidak pantas ditanyakan orang lain.
 
-Ashvarok mendengarkan dengan cara orang menimbun — sekali untuk urutan, sekali untuk angka, sekali untuk celah-celah yang belum terisi. Ketika Tharrow selesai, ia mengulang tiga hal yang paling penting balik kepada penuturnya, benar kata demi kata, dan melihat bahu Overseer itu turun sedikit — bukan lega, melainkan berat oleh kesadaran bahwa kini ada satu orang lagi di dunia ini yang tahu isinya tanpa memegang kertasnya.
+Ashvarok mendengarkan dengan cara orang menimbun — sekali untuk urutan, sekali untuk angka, sekali untuk celah-celah yang belum terisi. Ketika Tharrow selesai, ia mengulang kembali tiga hal yang paling penting kepada penuturnya, tepat dan benar kata demi kata, tanpa mengurangi satu angka, lalu melihat bahu Overseer itu turun sedikit — bukan lega, melainkan berat oleh kesadaran bahwa kini ada satu orang lagi di dunia ini yang tahu isinya tanpa memegang kertasnya.
 
 "Itu pembayarannya," kata Ashvarok. "Aku tahu. Kamu tahu aku tahu. Sekarang harganya."
 
@@ -69,7 +69,7 @@ Ashvarok mendengarkan dengan cara orang menimbun — sekali untuk urutan, sekali
 
 "Bukan. Hargaku tiga kalimat." Ia mengangkat satu jari. "Pertama: namamu tidak akan keluar dari mulutku kepada Vael, kepada Guild, atau kepada siapa pun — selama arsip itu masih hidup dan kamu belum menjualnya kepada orang yang salah." Jari kedua. "Kedua: kalau hari jatuhmu datang, dan ia akan datang, serahkan arsip itu kepada prosedur Guild, bukan kepada Vael. Assayer Tull, komisi resmi, saksi-saksi bersampul. Kertas yang dibaca komisi bertahan. Kertas yang diberikan kepada pejabat akan hilang bersama pejabat itu." Jari ketiga, dan untuk kalimat terakhir suaranya turun seperempat nada. "Ketiga: berhenti menggali soal bocah lorong tujuh. Bukan karena dia takut padamu. Karena kamu tidak sanggup membayar apa yang akan kamu temukan."
 
-Tharrow menatap kalimat terakhir itu lebih lama daripada dua kalimat sebelumnya, mencari ancaman di dalamnya, dan tidak menemukan apa pun kecuali geometri. Orang itu sudah setahun memburu jawaban soal Renn. Hanya malam ini ia sadar bahwa semua jawaban yang berhasil ia beli murah, dan yang mahal tidak pernah masuk daftar harganya.
+Tharrow menatap kalimat terakhir itu lebih lama daripada dua kalimat sebelumnya, mencari ancaman di dalamnya, dan tidak menemukan apa pun kecuali geometri yang dingin. Orang itu sudah berbulan-bulan memburu jawaban soal Renn. Hanya malam ini ia sadar bahwa semua jawaban yang berhasil ia beli murah, dan yang mahal tidak pernah masuk daftar harganya.
 
 "Dia milik Vael," kata Tharrow pelan, mengulang keyakinan lamanya seperti orang memeriksa ranting yang sudah patah.
 

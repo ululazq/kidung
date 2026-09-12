@@ -7,7 +7,7 @@ Kurir itu datang pada hari keempat belas bulan ketiga, lewat jalur yang tidak ad
 
 Ia bukan manusia — setidaknya bukan lagi dalam pengertian sehari-hari. Ia adalah nat. Nat tua yang sudah tidak tercatat kapan mulai hidup, yang jalurnya bukan jalan tanah melainkan rangkaian batu-batu purba di kedalaman tanah Karvess, jalur yang oleh para pendengar disebut "jalur tertua" dan oleh nat-nat sendiri tidak pernah dinamakan, karena bagi mereka jalur itu sama seperti napas: tidak perlu nama.
 
-Pesan yang dibawanya dititipkan dalam irama panjang yang oleh Yang Dulu Sunyi diteruskan ke barak utara dengan pengantar singkat:
+Pesan yang dibawanya dititipkan dalam irama panjang yang oleh the Once-Silent diteruskan ke barak utara dengan pengantar singkat:
 
 "ADA SURAT UNTUK ARSIPARIS KALIAN. PENGIRIMNYA MENUNGGU JAWABAN SELAMA EMPAT GENERASI. SARANKU: JANGAN BACA SENDIRIAN."
 
@@ -39,7 +39,7 @@ Sela membaca surat itu tiga kali di ruang arsip, dengan Ashvarok-Renn di kursi s
 
 "Secte itu," kata Sela, "baru saja merevisi doktrin seribu tahunnya menjadi api dunia harus didengar. Kalau ada waktu untuk membaca arsip lama mereka di depan umum, waktunya sekarang — saat revisinya masih hangat dan semua orang masih ingat kenapa ia direvisi." Ia menata gulungan-gulungan salinan biara barat di mejanya. "Namun aku tidak akan memutuskan sendirian. Aturan dapur."
 
-Rapat dapur yang dimaksud digelar sore itu, dan keputusannya keluar dalam waktu rekor: undangan pembacaan akan dikirim kepada Anthema Spire, kepada Dewan, dan — usulan ibu Tamma yang langsung disetujui semua orang — kepada murid-murid dua belas cabang Sekolah Mendengar, "karena anak-anak berhak jadi saksi pertama sejarah yang jujur".
+Rapat dapur yang dimaksud digelar sore itu, dan keputusannya keluar dalam waktu rekor: undangan pembacaan akan dikirim kepada Anthema Spire, kepada Dewan, dan — usulan ibu Tamma yang langsung disetujui semua orang — kepada murid-murid dua belas cabang the Listening School, "karena anak-anak berhak jadi saksi pertama sejarah yang jujur".
 
 ---
 
@@ -64,7 +64,7 @@ Gulungan demi gulungan disalin, diterjemahkan dari kode birokrasi era lama ke ba
 
 Halaman-halaman itu ada. Sela sudah membacanya sendirian pada malam-malam penyalinan, dan beberapa kali harus berhenti, keluar ke lorong, bernapas, lalu kembali.
 
-Yang paling berat ternyata bukan dokumen penyiksaan atau penindasan — itu sudah diduga dunia dan sudah setengah diketahui. Yang paling berat adalah dokumen-dokumen KECIL. Catatan biaya makan tahanan bidah yang oleh seorang petugas diam-diam dibuat lebih besar agar mereka tidak lapar. Daftar nama orang-orang yang "dibebaskan malam hari" — kata halus untuk dieksekusi diam-diam — ditulis oleh seorang juru tulis yang menyelipkan doa kecil di margin tiap nama. Dan satu lembar tunggal, bertanggal seribu tahun silam, isinya hanya satu kalimat dari seorang Pembaca Tua generasi pertama:
+Yang paling berat ternyata bukan dokumen penyiksaan atau penindasan — itu sudah diduga dunia dan sudah setengah diketahui. Yang paling berat adalah dokumen-dokumen KECIL. Catatan biaya makan tahanan bidah yang oleh seorang petugas diam-diam dibuat lebih besar agar mereka tidak lapar. Daftar nama orang-orang yang "dibebaskan malam hari" — kata halus untuk dieksekusi diam-diam — ditulis oleh seorang juru tulis yang menyelipkan doa kecil di margin tiap nama. Dan satu lembar tunggal, bertanggal seribu tahun silam, isinya hanya satu kalimat dari seorang the Old Reader generasi pertama:
 
 *Hari ini aku memalsukan klasifikasi untuk menyelamatkan satu keluarga. Aku jabatan pertama yang berbohong. Semoga yang datang sesudahku lebih berani.*
 
@@ -78,11 +78,11 @@ Undangan pembacaan dikirim, dan jawaban pertama yang datang membuat seluruh bara
 
 Anthema Spire membalas dalam dua hari, dengan surat yang oleh Ossian dinilai "paling jujur yang pernah ditulis jabatan itu":
 
-*Saya hadir. Dan saya minta satu perubahan protokol: jangan sediakan kursi terpisah untuk saya. Letakkan saya di antara murid-murid Sekolah Mendengar. Kalau arsip secte saya akan dibacakan di depan dunia, saya mau mendengarnya duduk di tempat yang sama dengan anak-anak yang secte saya dulu takutkan.*
+*Saya hadir. Dan saya minta satu perubahan protokol: jangan sediakan kursi terpisah untuk saya. Letakkan saya di antara murid-murid the Listening School. Kalau arsip secte saya akan dibacakan di depan dunia, saya mau mendengarnya duduk di tempat yang sama dengan anak-anak yang secte saya dulu takutkan.*
 
 *Dan tolong, jangan ringankan bacanya. Empat puluh generasi jabatan itu membayar harganya supaya halaman-halaman itu bisa dibacakan UTUH.*
 
-Jawaban Dewan Regional: hadir penuh, tanpa syarat.
+Jawaban the Regional Council: hadir penuh, tanpa syarat.
 
 Jawaban murid-murid dua belas cabang: sebuah gulungan kolektif yang isinya hanya satu kalimat, ditulis seribu tangan:
 
@@ -99,7 +99,7 @@ Bukan sakit yang datang mendadak — sakit yang sudah lama menunggu kesempatan, 
 
 "IA MINTA PESANNYA DISAMPAIKAN BEGINI," kata kurir nat itu, memutar irama aslinya persis:
 
-*"Jangan tunda pembacaan demi menunggu saya. Saya sudah dengar lagunya utuh; cukup untuk seumur hidup. Bacakan arsipnya tanpa saya — dan kalau ada satu halaman yang membuat aula diam terlalu lama, bacakan juga surat Pembaca Tua pertama tentang kebohongannya yang pertama. Biarkan dunia tahu bahwa penjaga diam pun belajar berbohong dari nol, sama seperti mereka."*
+*"Jangan tunda pembacaan demi menunggu saya. Saya sudah dengar lagunya utuh; cukup untuk seumur hidup. Bacakan arsipnya tanpa saya — dan kalau ada satu halaman yang membuat aula diam terlalu lama, bacakan juga surat the Old Reader pertama tentang kebohongannya yang pertama. Biarkan dunia tahu bahwa penjaga diam pun belajar berbohong dari nol, sama seperti mereka."*
 
 *"Dan kepada Nona Arsiparis: batu kecilku di Vhal-Duren jangan dibuat megah. Batu biasa. Yang penting bukan ukurannya — yang penting posisinya, menghadap timur, dekat temanku. Kalau suatu hari ada anak penggembala lewat dan bertanya siapa orang di batu ini... jawab saja: orang yang menunggu didengarkan, dan akhirnya didengarkan."*
 
@@ -143,7 +143,7 @@ Maka undangan terakhir dikirim subuh itu — satu halaman, tanpa protokol, ditul
 *Itu seluruh isi doktrin baru kalian, kalau dipikir ulang. Maka mari kita mulai dari diri sendiri.*
 ---
 
-Satu lampiran untuk bab yang sudah lewat — dicatat Sela belakangan saat menata ulang arsip, karena ada satu detail kunjungan terakhir Pembaca Tua ke Caldrest yang luput dicatat dan tidak boleh hilang:
+Satu lampiran untuk bab yang sudah lewat — dicatat Sela belakangan saat menata ulang arsip, karena ada satu detail kunjungan terakhir the Old Reader ke Caldrest yang luput dicatat dan tidak boleh hilang:
 
 Sebelum pulang ke biara pada pagi itu, laki-laki tua itu sempat singgah ke dapur aula. Tidak bicara dengan siapa pun. Ia hanya meletakkan sejumlah uang di meja ibu Tamma — jumlah yang oleh Kovan, ketika menghitungnya belakangan, terbukti persis sama dengan biaya sup dua orang selama empat puluh hari.
 
@@ -163,6 +163,6 @@ Laki-laki tua itu tertawa pendek pertama dan terakhir kalinya di Caldrest, menga
 
 Uang itu masih disimpan ibu Tamma di kaleng khusus bertuliskan tinta: *TABUNGAN SUP P.T. — JANGAN DIPAKAI SEBELUM BELIAU NAIK LAGI.*
 
-Malam itu, setelah kabar wafat sampai, ibu Tamma mengambil kaleng tersebut, membawanya ke dapur aula, dan memasukkannya ke adonan roti akademi terbesar yang pernah dibuat kota itu — cukup untuk semua murid Sekolah Mendengar dua belas cabang.
+Malam itu, setelah kabar wafat sampai, ibu Tamma mengambil kaleng tersebut, membawanya ke dapur aula, dan memasukkannya ke adonan roti akademi terbesar yang pernah dibuat kota itu — cukup untuk semua murid the Listening School dua belas cabang.
 
 "Beliau bilang jangan dipakai sebelum beliau naik lagi," katanya kepada Sela yang melihat. "Dan dia baru saja naik ke dataran tinggi. Menurutku itu termasuk."

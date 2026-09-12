@@ -17,7 +17,7 @@ Ashvarok menyampaikan pertanyaan itu kepada Vess-Morath lewat nat aula, dan jawa
 
 "Kami sudah berbicara dengan Rumah soal itu. Ia yang akan menjaga nat-nat ladang setelah kami pergi — seperti ia menjaga semua nat lainnya. Dan kami meminta satu tambahan: biarkan murid-murid kalian tetap menyanyi tiap sore. Suara mereka dari permukaan, penjagaan Rumah dari bawah. Ladang tidak boleh kembali sunyi. Anak-anak tidak boleh kembali ditakutkan pada tempatnya sendiri."
 
-Maka pasal dua belas protokol musim ditulis malam itu juga:
+Maka pasal dua belas the Seasonal Protocol ditulis malam itu juga:
 
 "Pasal 12. Penjagaan nat ladang pasca-pemulangan: the Patient House (penjaga utama), the Veyl Akademie (name train harian), Arsip Caldrest (pemantauan bulanan). Ladang-ladang utara dinyatakan wilayah bersahutan permanen."
 
@@ -39,7 +39,7 @@ Jawaban Vess-Morath atas kalimat itu dibaca Kovan dengan suara pecah:
 
 Subuh harinya, sebelum semua persiapan terakhir dimulai, terjadi peristiwa kecil yang tidak masuk protokol mana pun tetapi masuk setiap ingatan yang mendengarnya.
 
-Ketua majelis Dewan Regional — orang tua formal yang memimpin putusan Ladang Utara — datang sendirian ke nat pusat aula pada jam lima pagi, duduk di lantai seperti duduk orang biasa, dan mulai bicara kepada kedalaman tanpa penerjemah, tanpa protokol, dengan bahasa manusia biasa:
+Ketua majelis the Regional Council — orang tua formal yang memimpin the Northern Field Ruling — datang sendirian ke nat pusat aula pada jam lima pagi, duduk di lantai seperti duduk orang biasa, dan mulai bicara kepada kedalaman tanpa penerjemah, tanpa protokol, dengan bahasa manusia biasa:
 
 "Aku yang menandatangani dokumen pengakuan itu. Aku ingin kau tahu kenapa aku lakukan." Ia menarik napas. "Empat puluh tahun aku jadi birokrat. Aku sudah tanda tangan ribuan dokumen. Namun dokumen itu satu-satunya yang kutandatangani sambil merasa takut."
 
@@ -53,7 +53,7 @@ Dari nat, jawaban datang — dan karena ketua majelis tidak mengerti irama apa p
 
 Ketua majelis itu tertawa — tawa pendek kaget — lalu menangis sebentar, lalu bangkit, membersihkan celananya, dan berkata kepada Ashvarok dengan suara birokrat yang pulih:
 
-"Pasal itu. Yang tentang penjagaan ladang. Tambahkan satu kalimat dari saya secara pribadi: 'Penjagaan wilayah bersahutan didukung penuh Dewan Regional — dan ketua yang sekarang akan datang tiap musim panen, sebagai tamu, bukan pejabat.'"
+"Pasal itu. Yang tentang penjagaan ladang. Tambahkan satu kalimat dari saya secara pribadi: 'Penjagaan wilayah bersahutan didukung penuh the Regional Council — dan ketua yang sekarang akan datang tiap musim panen, sebagai tamu, bukan pejabat.'"
 
 Kalimat itu ditambahkan. Ditulis Sela dengan huruf besar.
 

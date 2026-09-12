@@ -3,7 +3,7 @@ title: "Bab 316: Pengukur dari Utara"
 chapter: 316
 ---
 
-Satu bulan setelah laporan bulanan pertama dikirim, sebuah kereta kecil berhenti di menara utara. Bukan kurir pos. Bukan pemeriksa panitia. Tiga orang turun membawa kotak ukur bersegel Koordinasi Artefak Regional, dan seorang di antaranya membawa cap verifikasi yang sama dengan yang pernah dilihat Kovan di lilin pos Guild.
+Satu bulan setelah laporan bulanan pertama dikirim, sebuah kereta kecil berhenti di menara utara. Bukan kurir pos. Bukan pemeriksa panitia. Tiga orang turun membawa kotak ukur bersegel Regional Artifact Coordination, dan seorang di antaranya membawa cap verifikasi yang sama dengan yang pernah dilihat Kovan di lilin pos Guild.
 
 Perawat tua membuka pintu menara dengan tangan yang tidak gemetar. Di belakangnya, Mira berdiri memegang buku catatan harian.
 
@@ -43,7 +43,7 @@ Di barak, Ashvarok-Renn menerima kabar itu lewat surat pendek Maera di pos Guild
 
 "Maka kita jawab dengan angka yang sama. Tiga. Selatan ke utara. Selama kita hanya punya satu jawaban, mereka tidak punya pintu."
 
-Kovan membaca surat Maera lalu membuka buku anomali. Ia menarik benang pembatas ke halaman gradien utara.
+Kovan membaca surat Maera lalu membuka the Anomaly Book. Ia menarik benang pembatas ke halaman gradien utara.
 
 "Sejak laporan bulanan dikirim, tarikan di ujung Spire makin terasa," katanya. "Bukan karena mereka turun. Karena benang yang kita kirim kini hidup di sana. Setiap kali mereka baca namanya, benang itu menegang."
 
@@ -85,7 +85,7 @@ Sela menulis di papan kecilnya: *Spire mungkin turun. Kita tidak tunjukkan jalan
 
 ---
 
-Malam itu Kovan duduk di ruang tengah dengan buku anomali dan peta Ossian. Ia menarik benang dari barak ke menara, lalu ke Spire, dan untuk pertama kalinya melihat simpul kedua muncul di ujung Spire — bukan di arsip umum — melainkan di jalur yang sama dengan di mana baris arsip membaca lebih dulu.
+Malam itu Kovan duduk di ruang tengah dengan the Anomaly Book dan peta Ossian. Ia menarik benang dari barak ke menara, lalu ke Spire, dan untuk pertama kalinya melihat simpul kedua muncul di ujung Spire — bukan di arsip umum — melainkan di jalur yang sama dengan di mana baris arsip membaca lebih dulu.
 
 "Ada simpul kedua," katanya pada Ashvarok-Renn. "Tidak di ruang panitia. Di jalur bawah tanah Spire. Sama seperti di sini: gradien utara punya ujung yang ditarik dari atas."
 
@@ -95,7 +95,7 @@ Malam itu Kovan duduk di ruang tengah dengan buku anomali dan peta Ossian. Ia me
 
 "Tangan yang menyedot pengikat. Bukan Ossian. Bukan kita. Tangan yang memanen lewat jalur yang sama dengan yang kita gunakan untuk mengirim angin. Spire tidak hanya membaca laporan Mira. Spire menarik benang yang sama ke tempat lain yang tidak kita kenal."
 
-Kovan menutup buku anomali. "Maka benang kita tidak hanya sampai ke jantung Choir. Ia menyambung ke sesuatu yang lebih tua di dalamnya."
+Kovan menutup the Anomaly Book. "Maka benang kita tidak hanya sampai ke jantung Choir. Ia menyambung ke sesuatu yang lebih tua di dalamnya."
 
 "Benar," jawab Ashvarok-Renn. "Dan itu sebabnya kita tidak pernah menyebut katup. Kalau kita sebut, kita memberi mereka nama untuk ditarik. Sekarang mereka hanya punya angin. Angin tidak cukup untuk menemukan mekanisme di bawah barak."
 
@@ -129,7 +129,7 @@ Sela menambahkan baris ke name-map distrik di bawah nama Mira: *Ritme selaras ba
 
 ---
 
-Malamnya Ashvarok-Renn membuka buku anomali dan menulis satu baris di bawah catatan tentang simpul kedua Spire:
+Malamnya Ashvarok-Renn membuka the Anomaly Book dan menulis satu baris di bawah catatan tentang simpul kedua Spire:
 
 *Jejak pertama: di ujung jalur yang sama dengan laporan Mira, ada simpul kedua yang menarik dari dalam. Bukan panitia. Bukan Ossian. Sesuatu yang lebih tua memanen lewat pos utara sejak brankas artefak pos pernah kosong satu malam (gejala, bukan nama). Kita tidak sebut institusinya. Kita hanya catat bahwa benang kita kini menyambung ke sesuatu yang memanen diam-diam. Disiplin tetap: angin, bukan besi.*
 

@@ -9,29 +9,29 @@ Ashvarok tiba pada pagi keenam puluh empat sebagai pasien kesembilan dalam antre
 
 "Duduk. Lengan." Dokter itu tua, kurus, berkacamata besi yang digosok sampai bening, dan kotak alat kuningannya tersusun sedemikian rupa sehingga setiap instrumen punya lubang sendiri dan tidak satu pun lubang kosong. "Ceritakan sekali. Aku tidak suka mendengar cerita yang sama dua kali."
 
-"Luka bakar uap," kata Ashvarok, sesuai naskah. "Pipa inspeksi ventilasi, level empat. Pipa melepas uap lebih dulu dari yang tertulis di daftar periksa. Aku jatuh menindih lenganku."
+"Luka bakar seam," kata Ashvarok, sesuai naskah. "Pipa inspeksi ventilasi, level empat. Ada seam terbuka di dekat pipa. Aku jatuh dan menindihnya dengan lengan."
 
 Kacamata besi itu menurun ke lengan yang dibuka pelan-pelan, dan untuk beberapa waktu ruangan hanya berisi bunyi kertas yang digeser dan napas orang tua yang teratur. Jari-jari dokter itu dingin, tepat, dan bergerak sepanjang garis merah yang masih berdenyut samar dengan kehati-hatian orang yang sudah tiga puluh tahun membaca kulit penambang seperti membaca batu.
 
-"Uap," kata dokter itu akhirnya, bukan sebagai pertanyaan.
+"Seam," kata dokter itu akhirnya, bukan sebagai pertanyaan.
 
-"Uap."
+"Seam."
 
-"Uap meninggalkan bekas yang buram. Uap tidak peduli arah." Jari itu berhenti di tepi atas garis, empat jari di atas siku, tempat merahnya mulai memudar seperti sesuatu yang kehabisan bahan bakar. "Bekas ini punya arah. Satu garis, dari bawah ke atas. Dan di sepanjangnya—" kapur medis kecil menyentuh titik-titik parut pucat dari bulan-bulan sebelumnya, "—ada persimpangan. Tiga persimpangan, mungkin empat. Luka bakar tidak membuat persimpangan, Nak. Luka bakar lama sudah mati. Yang ini tumbuh."
+"Luka bakar seam menyebar dari titik sentuh. Ia tidak memilih arah." Jari itu berhenti tepat di lipatan siku, tempat merahnya mulai memudar seperti sesuatu yang kehabisan bahan bakar. "Bekas ini punya arah. Satu garis, dari bawah ke atas. Dan di sepanjangnya—" kapur medis kecil menyentuh titik-titik parut pucat dari bulan-bulan sebelumnya, "—ada persimpangan. Tiga persimpangan, mungkin empat. Luka bakar tidak membuat persimpangan, Nak. Luka bakar lama sudah mati. Yang ini tumbuh."
 
 Ashvarok membiarkan keheningan berlangsung cukup lama untuk terlihat seperti kelelahan, karena kelelahan adalah separuh kebenaran yang paling murah.
 
-"Tubuhku aneh," kata ia akhirnya. "Sejak runtuhan lorong utama. Kadang aku merasakan seam lebih dulu daripada alat kalian. Garis-garis ini muncul kalau aku terlalu dekat dengan yang hidup di bawah. Aku pikir itu semacam alergi."
+"Tubuhku aneh," katanya akhirnya. "Sejak runtuhan lorong utama. Kadang aku merasakan seam lebih dulu daripada alat kalian. Garis-garis ini muncul kalau aku terlalu dekat dengan yang hidup di bawah. Aku pikir itu semacam alergi."
 
 Dokter tambang itu tidak menaikkan alis. Tidak juga menatapnya terlalu lama, dan justru itulah yang membuat tengkuk Ashvarok berdiri: orang yang bertanya dua kali bisa dipuaskan dengan jawaban kedua. Orang yang tidak bertanya sama sekali sedang menjawab pertanyaannya sendiri di tempat lain.
 
-"Alergi," ulang dokter itu datar. Ia membuka lemari kecil, mengeluarkan salep cokelat berbau belerang, dan menulis di buku besar resmi perusahaan dengan tulisan tegak dan hemat. "Luka bakar tingkat dua, bekas lama memburuk, pekerjaan inspeksi ventilasi. Salep dua kali sehari. Jangan bekerja panas." Pena itu terangkat dari kertas. "Itu masuk catatan perusahaan. Sekarang yang tidak masuk catatan perusahaan."
+"Alergi," ulang dokter itu datar. Ia membuka lemari kecil, mengeluarkan salep cokelat berbau belerang, dan menulis di buku besar resmi perusahaan dengan tulisan tegak dan hemat. "Luka bakar seam tingkat dua, bekas lama memburuk, pekerjaan inspeksi ventilasi. Salep dua kali sehari. Jangan bekerja panas." Pena itu terangkat dari kertas. "Itu masuk catatan perusahaan. Sekarang yang tidak masuk catatan perusahaan."
 
-Ia mengeluarkan buku kecil bersampul kulit dari laci bawah — buku yang tidak akan ditemukan di daftar inventaris klinik mana pun — dan mulai menulis dengan kecepatan orang yang mencatat sesuatu yang sudah lama ditunggunya. Ashvarok, yang membaca gerakan tangan lebih cepat daripada huruf, menangkap potongan-potongan: angka ukuran, tanggal, dan di pinggir halaman satu kata yang digarisbawahi dua kali. Jalur.
+Ia mengeluarkan buku kecil bersampul kulit dari laci bawah — buku yang tidak akan ditemukan di daftar inventaris klinik mana pun — dan mulai menulis dengan kecepatan orang yang mencatat sesuatu yang sudah lama ditunggunya. Ashvarok, yang membaca gerakan tangan lebih cepat daripada huruf, menangkap potongan-potongan: tanggal, ukuran vein-scar dari pergelangan sampai siku, dan di pinggir halaman satu kata yang digarisbawahi dua kali. Jalur.
 
-"Tiga puluh tahun aku mencatat tangan para penambang Caldrest," kata dokter itu sambil menulis, tanpa menoleh. "Vein-scar adalah penyakit pekerjaan kami. Setiap orang yang menyalurkan gema untuk bekerja punya risikonya, dan polanya selalu sama: lecet acak, di mana pun urat bekerja keras. Acak, Nak. Itu kata kuncinya." Buku kecil itu ditutup, diikat tali kulitnya, dan dikembalikan ke laci. "Punyamu bukan acak. Punyamu sedang melakukan perjalanan dalam satu jalur, dari pergelangan ke atas, dengan jadwal yang bisa dicatat. Dalam tiga puluh tahun, aku melihat dua hal yang berjalan seperti itu. Yang pertama pada seorang juru ukur tua yang meninggal di lorong tujuh."
+"Tiga puluh tahun aku mencatat tangan para penambang Caldrest," kata dokter itu sambil menulis, tanpa menoleh. "Vein-scar adalah penyakit pekerjaan kami. Setiap orang yang menyalurkan gema untuk bekerja punya risikonya, dan polanya selalu sama: lecet acak, di mana pun urat bekerja keras. Acak, Nak. Itu kata kuncinya." Buku kecil itu ditutup, diikat tali kulitnya, dan dikembalikan ke laci. "Punyamu bukan acak. Punyamu sedang melakukan perjalanan dalam satu jalur, dari pergelangan sampai siku, dengan jadwal yang bisa dicatat. Dalam tiga puluh tahun, aku melihat dua hal yang berjalan seperti itu. Yang pertama pada seorang juru ukur tua yang meninggal di lorong tujuh."
 
-Ruangan itu menjadi sangat diam. Di luar, antrean santunan berserakuh pelan tentang harga minyak goreng.
+Ruangan itu menjadi sangat diam. Di luar, antrean santunan bergumam pelan tentang harga minyak goreng.
 
 "Siapa yang kedua?" tanya Ashvarok.
 
@@ -53,34 +53,34 @@ Satu hal lagi yang ia catat sambil menunggu: dokter tambang tidak pernah menyent
 
 ---
 
-Di jalan pulang dari klinik, melewati antrean santunan yang bergerak seperti air dingin dan ibu Tamma yang memanggil nama demi nama dari daftarnya, Ashvarok melakukan penilaian yang biasa ia lakukan terhadap musuh, sekutu, dan alat — tiga kotak yang untuk dokter tambang itu belum tentu berbeda. Fakta pertama: catatan resmi perusahaan kini berisi luka bakar uap, dan luka bakar uap adalah cerita yang tidak menarik siapa pun. Fakta kedua: ada sebuah buku kulit di laci bawah klinik yang berisi pengukuran tubuhnya, bertanggal, dengan kata jalur digarisbawahi dua kali — dokumen yang tidak dimiliki Assayers' Guild, tidak dimiliki the Resonant Choir, dan tidak dimiliki Ossian Vael. Dokumen yang, jika dibaca mata yang tepat, adalah peta menuju kesimpulan bahwa tubuh Renn sedang menjalani sesuatu yang belum pernah dicatat sejarah.
+Di jalan pulang dari klinik, melewati antrean santunan yang bergerak seperti air dingin dan ibu Tamma yang memanggil nama demi nama dari daftarnya, Ashvarok melakukan penilaian yang biasa ia lakukan terhadap musuh, sekutu, dan alat — tiga kotak yang untuk dokter tambang itu belum tentu berbeda. Fakta pertama: catatan resmi perusahaan kini berisi luka bakar seam, dan luka bakar seam adalah cerita yang tidak menarik siapa pun. Fakta kedua: ada sebuah buku kulit di laci bawah klinik yang berisi ukuran vein-scar-nya, bertanggal, dengan kata Jalur digarisbawahi dua kali — dokumen yang tidak dimiliki Assayers' Guild, tidak dimiliki the Resonant Choir, dan tidak dimiliki Ossian Vael. Dokumen yang, jika dibaca mata yang tepat, adalah peta menuju kesimpulan bahwa tubuh ini sedang dihabiskan oleh sesuatu yang tidak dikenal ilmu kedokteran zaman ini.
 
 Saksi medis, pikirnya. Benteng atau bilah, dan tidak ada cara untuk mengetahui mana sebelum hari pemakaiannya tiba.
 
-Yang menarik — dan ia mencatat ini dengan kejujuran yang sama dinginnya dengan fakta-fakta lain — adalah bahwa dokter tua itu telah menyebutkan Pak Dekan tanpa dibujuk, tanpa dibayar, tanpa ditekan. Juru ukur tua dengan luka bakar dingin di kedua tangan, mati di lorong tujuh. Sebuah benang yang tidak Ashvarok cari baru saja diperlihatkan kepadanya secara hanya-hanya oleh orang yang tidak bertanya dua kali.
+Yang menarik — dan ia mencatat ini dengan kejujuran yang sama dinginnya dengan fakta-fakta lain — adalah bahwa dokter tua itu telah menyebutkan Pak Dekan tanpa dibujuk, tanpa dibayar, tanpa ditekan. Juru ukur tua yang tangannya dingin terbakar tanpa api, lalu mati di lorong tujuh. Sebuah benang yang tidak Ashvarok cari baru saja diperlihatkan kepadanya secara cuma-cuma oleh orang yang tidak bertanya dua kali.
 
 ---
 
 Di barak, sore itu, Sela menunggunya dengan kapur yang sudah disiapkan.
 
-"Nah?" kata gadis itu, padahal jawabannya sudah dibacanya dari cara kakaknya masuk: pucat karena lapar, bukan karena kabar.
+"Nah?" kata gadis itu, padahal jawabannya sudah dibacanya dari cara kakaknya masuk: pucat karena kurang makan, bukan karena kabar.
 
-"Catatan resmi: luka bakar uap. Salep dua kali sehari." Ashvarok meletakkan tube salep itu di atas meja, di samping papan tulis. "Catatan tidak resmi: aku dipanggil balik tiap pekan. Dia mengukur garis itu dan menyebutnya jalur."
+"Catatan resmi: luka bakar seam. Salep dua kali sehari." Ashvarok meletakkan tabung salep itu di atas meja, di samping papan tulis. "Catatan tidak resmi: aku dipanggil balik tiap pekan. Dia mengukur garis itu dan menyebutnya Jalur."
 
 Sela terdiam sebentar, dan otak cepat anak itu bekerja dengan urutan yang bisa didengar. "Dia tahu itu bukan luka bakar."
 
-"Dia tahu lebih baik daripada itu. Dia menyebut Pak Dekan tanpa kugiring ke sana. Luka bakar dingin, katanya. Juru ukur tua itu adalah kasus serupa yang pernah dia lihat."
+"Dia tahu lebih baik daripada itu. Dia menyebut Pak Dekan tanpa kugiring ke sana. Tangannya dingin terbakar tanpa api, katanya. Juru ukur tua itu adalah kasus serupa yang pernah dia lihat."
 
 "Pak Dekan meninggal di lorong tujuh," kata Sela pelan. "Lorong yang sama dengan—"
 
-"Dengan banyak hal," potong Ashvarok, lembut tetapi tegas, dan gadis itu menelan sisanya tanpa protes karena aturan rumah tangga mereka soal kalimat yang tidak diselesaikan sudah tua lebih dahulu daripada keduanya. "Untuk sekarang, dokter itu adalah mata yang mencatat tubuhku secara gratis. Aku tidak bisa menghentikannya tanpa membuat pencatatan itu menjadi rahasia — dan barang rahasia selalu dicari. Biarkan bukunya terbuka, biarkan ukurannya rutin, biarkan dia percaya bahwa aku datang karena takut." Ia membuka tube salep dan mengusapkannya dengan gerakan yang tidak perlu, hanya untuk memberi tangan pekerjaan. "Orang yang percaya dirinya sedang merawat tidak pernah bertanya apakah dia sedang digunakan."
+"Dengan banyak hal," potong Ashvarok, lembut tetapi tegas, dan gadis itu menelan sisanya tanpa protes karena aturan rumah tangga mereka soal kalimat yang tidak diselesaikan sudah tua lebih dahulu daripada keduanya. "Untuk sekarang, dokter itu adalah mata yang mencatat tubuhku secara gratis. Aku tidak bisa menghentikannya tanpa membuat pencatatan itu menjadi rahasia — dan barang rahasia selalu dicari. Biarkan bukunya terbuka, biarkan ukurannya rutin, biarkan dia percaya bahwa aku datang karena takut." Ia membuka tabung salep dan mengusapkannya dengan gerakan yang tidak perlu, hanya untuk memberi tangan pekerjaan. "Orang yang percaya dirinya sedang merawat tidak pernah bertanya apakah dia sedang digunakan."
 
-Sela memandangi tube salep itu lama, lalu menulis satu baris baru di kolom belakang papannya, di daftar yang hanya dibaca dua orang: Dokter tambang — tahu garis, tidak tahu artinya. Datang lagi pekan depan.
+Sela memandangi tabung salep itu lama, lalu menulis satu baris baru di kolom belakang papannya, di daftar yang hanya dibaca dua orang: Dokter tambang — tahu garis, tidak tahu artinya. Datang lagi pekan depan.
 
 "Kalau dia tahu artinya suatu hari nanti?" tanya gadis itu.
 
 "Maka kita akan berutang kepadanya," kata Ashvarok, "dan utang kepada orang yang mencatat rapi adalah utang yang selalu bisa dilunasi dengan kebenaran. Untuk ukuran dunia ini, itu hampir murah."
 
-Malam itu, setelah lampu dipadamkan dan napas barak menjadi seragam, Ashvarok berbaring memandangi kasur di atasnya dan menyelesaikan penilaiannya. Lengan kanannya berdenyut samar di bawah salep belerang, empat jari di atas siku, dan jam pasirnya berjalan seperti biasa.
+Malam itu, setelah lampu dipadamkan dan napas barak menjadi seragam, Ashvarok berbaring memandangi kasur di atasnya dan menyelesaikan penilaiannya. Lengan kanannya berdenyut samar di bawah salep belerang, tepat di lipatan siku, dan jam pasirnya berjalan seperti biasa.
 
 Tetapi untuk pertama kalinya sejak ia terbangun dalam tubuh bocah ini, ada satu orang di permukaan dunia yang memiliki angka-angka tubuhnya, tertulis rapi, bertanggal, dan disimpan di tempat yang tidak diketahui siapa pun. Ashvarok memejamkan mata dan menemukan bahwa perasaan yang paling mendekati kebenaran adalah lega yang hati-hati — jenis lega milik orang yang baru saja memberikan separuh bebannya kepada orang asing, hanya karena orang asing itu mencatat barang-barang dengan rapi.

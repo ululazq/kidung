@@ -103,11 +103,11 @@ Renn: "Kalau kau mau tinggal... bagi rata. Setengah-setengah. Tidur bergantian. 
 Ashvarok: "...setengah-setengah."
 Renn: "Setengah-setengah. Dan satu syarat lagi."
 Ashvarok: "Sebutkan."
-Renn: "Sup Kamp Pertama. Sekarang. Delapan bulan aku cium baunya saja."
+Renn: "First Camp Soup. Sekarang. Delapan bulan aku cium baunya saja."
 
 ---
 
-Sup Kamp Pertama disajikan dalam sepuluh menit — rekor dapur ibu Tamma yang sebelumnya tiga puluh.
+First Camp Soup disajikan dalam sepuluh menit — rekor dapur ibu Tamma yang sebelumnya tiga puluh.
 
 Dan tubuh Renn makan dua mangkuk. Yang pertama dimakan oleh tangan Renn (dia minta 'aku dulu, delapan bulan nafsu lihat orang makan'), yang kedua — setelah pergantian yang tidak terlihat siapa pun, hanya terasa — dimakan dengan cara Ashvarok: pelan, dihargai, seperti menilai juri.
 
@@ -165,7 +165,7 @@ Sela: "Aku bukan penghuni rumah ini, tetapi aku tetangga seumur hidup. Dan aku m
 
 ---
 
-Neraca penutup bab — ditulis dua tangan, satu lembar:
+Neraca wilayah — ditulis dua tangan, satu lembar:
 
 Hari 833 (Ashvarok): Hari ini Renn bangun. Semua protokol berjalan. Sup dimakan dua mangkuk. 214 perkenalan selesai (Sela memotong jadi 214 karena "yang lain besok-besok saja, dia butuh istirahat"). Kesepakatan penghuni ditandatangani.
 
@@ -180,7 +180,7 @@ Ternyata aku hanya dipindahkan ke kamar paling dalam — untuk mendengar sejarah
 
 Keesokan harinya, kabar "Renn bangun" menyebar ke seluruh Karvess — dan hari itu disebut oleh warga "hari kedua pulang".
 
-Sekolah Mendengar libur satu hari (Daven: "secara kurikulum, mendengarkan sejarah langsung dari dua sumber sekaligus itu pelajaran; tetapi kami libur saja supaya bisa merayakan"). Nat-nat kecil menyala lebih hangat dari biasanya. the Patient House mengirim pesan resmi:
+the Listening School libur satu hari (Daven: "secara kurikulum, mendengarkan sejarah langsung dari dua sumber sekaligus itu pelajaran; tetapi kami libur saja supaya bisa merayakan"). Nat-nat kecil menyala lebih hangat dari biasanya. the Patient House mengirim pesan resmi:
 
 "Selamat datang, Renn. Rumah besar ini pernah menyimpan 400 jiwa. Kami tahu rasanya bangun setelah lama. Kalau kau butuh teman bicara yang paham — pintunya terbuka."
 

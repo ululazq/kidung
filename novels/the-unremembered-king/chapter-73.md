@@ -13,7 +13,7 @@ Suara-suara yang keluar panas dan saling menumpuk. Seorang pekerja galeri tujuh 
 
 Brannoc membiarkan rapat meleleh selama sepuluh menit penuh. Ketika suara mulai berubah dari marah menjadi lesu — tahap yang paling berbahaya dari setiap rapat — ia berdiri, dan ruangan mereda dengan cara yang selalu mereda untuknya.
 
-"Aku tidak punya jawaban," katanya langsung. "Tidak ada mandor di kota ini yang punya. Yang kupunya hanya satu hal yang belum kita coba." Ia menoleh ke arah tepi ruangan, ke bangku tempat Renn duduk di antara regu ventilasi. "Dengar. Kota ini sudah setahun bilang bocah lorong tujuh bisa bicara sama lubang. Aku sendiri sudah lihat dia tahu lorong mana runtuh sebelum runtuh. Maka sekarang, di depan semua orang, aku minta resmi: Renn. Baca jalan keluar."
+"Aku tidak punya jawaban," katanya langsung. "Tidak ada Foreman di kota ini yang punya. Yang kupunya hanya satu hal yang belum kita coba." Ia menoleh ke arah tepi ruangan, ke bangku tempat Renn duduk di antara regu ventilasi. "Dengar. Selama ini kota bilang bocah lorong tujuh bisa bicara sama lubang. Aku sendiri sudah lihat dia tahu lorong mana runtuh sebelum runtuh. Maka sekarang, di depan semua orang, aku minta resmi: Renn. Baca jalan keluar."
 
 Sunyi jatuh begitu total sampai kedengaran lilin di meja tengah.
 
@@ -21,11 +21,11 @@ Sebelum Ashvarok sempat berdiri, suara dari bangku galeri tujuh — lelaki tua y
 
 "Orang butuh makan," jawab seseorang dari belakang.
 
-"Kita sudah setahun makan cerita! Ceritanya enak-enak saja sampai troli mereka datang mengukur lereng!"
+"Kita sudah berminggu-minggu makan cerita! Ceritanya enak-enak saja sampai troli mereka datang mengukur lereng!"
 
 "Ramalan tidak menyelamatkan siapa pun," kata Ashvarok, sebelum rapat menyeretnya ke tempat yang salah. "Aku pernah tinggal di kota yang percaya penuh pada ramalan. Kota itu tetap jatuh. Yang menyelamatkan orang bukan tahu tanggalnya, tetapi punya sesuatu untuk dipegang saat tanggalnya datang — dan yang bisa dipegang manusia hanya dua macam: batu dan kertas."
 
-Ashvarok merasakan permintaan itu jatuh ke atasnya seperti balok — bukan karena tak seharusnya, melainkan karena sudah seharusnya. Setahun ia membangun legenda ini sebagai tembok pelindung, dan malam ini tembok itu diminta bekerja untuk pertama kali secara terbuka, oleh mitra yang tahu persis apa yang disembunyikan di baliknya. Menolak berarti membiarkan rapat ini mati di tahap lesu. Menerima berarti berdiri di atas panggung yang ia hindari sejak hari pertama — dan ia tahu betul, dengan pengetahuan seorang raja yang pernah dikenali terlalu banyak, bahwa panggung adalah tempat semua penyamar akhirnya dipanggil maju.
+Ashvarok merasakan permintaan itu jatuh ke atasnya seperti balok — bukan karena tak seharusnya, melainkan karena sudah seharusnya. Selama ini ia membangun legenda sebagai tembok pelindung, dan malam ini tembok itu diminta bekerja untuk pertama kali secara terbuka, oleh mitra yang tahu persis apa yang disembunyikan di baliknya. Menolak berarti membiarkan rapat ini mati di tahap lesu. Menerima berarti berdiri di atas panggung yang ia hindari sejak hari pertama — dan ia tahu betul, dengan pengetahuan seorang raja yang pernah dikenali terlalu banyak, bahwa panggung adalah tempat semua penyamar akhirnya dipanggil maju.
 
 Ia berdiri.
 
@@ -47,17 +47,17 @@ Ruangan itu berubah. Ashvarok sudah ribuan kali melihat perubahan semacam ini di
 
 Ashvarok duduk kembali di bangku tepi dan membiarkan rapat menyelesaikan sisanya tanpa dia, karena begitulah cara sebuah gerakan menjadi milik orang-orangnya: pemimpinnya harus bisa duduk.
 
-Yang tidak ia katakan kepada siapa pun adalah betapa murahnya harga yang mereka bayar malam ini dibandingkan dengan yang ia tahu. Mereka mengira sedang meminjam keajaiban bocah lorong tujuh. Kenyataannya mereka baru saja menandatangani diri mereka ke dalam peperangan hukum yang akan berjalan berminggu-minggu, dengan lawan yang bisa mencetak uang prosedur sebanyak yang ia mau. Dan legenda itu, sekali dipakai resmi, tidak bisa dikembalikan ke gudang. Mulai malam ini setiap keputusan distrik timur akan ditanyakan lebih dahulu kepada Renn — dan di belakang Renn, kepada apa pun yang sebenarnya duduk di sana. Ia telah membangun pagar dari nama orang lain selama setahun. Malam ini namanya sendiri, nama pinjaman itu, resmi dipaku ke gerbang.
+Yang tidak ia katakan kepada siapa pun adalah betapa murahnya harga yang mereka bayar malam ini dibandingkan dengan yang ia tahu. Mereka mengira sedang meminjam keajaiban bocah lorong tujuh. Kenyataannya mereka baru saja menandatangani diri mereka ke dalam peperangan hukum yang akan berjalan berminggu-minggu, dengan lawan yang bisa mencetak uang prosedur sebanyak yang ia mau. Dan legenda itu, sekali dipakai resmi, tidak bisa dikembalikan ke gudang. Mulai malam ini setiap keputusan distrik timur akan ditanyakan lebih dahulu kepada Renn — dan di belakang Renn, kepada apa pun yang sebenarnya duduk di sana. Ia telah membangun pagar dari nama orang lain selama ini. Malam ini namanya sendiri, nama pinjaman itu, resmi dipaku ke gerbang.
 
 ---
 
-Setelah rapat bubar, di ambang pintu klinik, Maera Tull menunggunya dengan kotak timbung mini di tangan — ia datang tanpa diundang, atau diundang oleh instingnya sendiri.
+Setelah rapat bubar, di ambang pintu klinik, Maera Tull menunggunya dengan mini weighing box di tangan — ia datang tanpa diundang, atau diundang oleh instingnya sendiri.
 
 "Kau memakai namaku di depan publik," katanya. Datangnya tidak marah; Maera tidak pernah marah pada prosedur.
 
 "Aku memakai pasalmu. Namamu tinggal ikut pasal."
 
-"Lalu kau akan memberitahuku sekarang apa yang sebenarnya kau membaca waktu mereka minta kau membaca masa depan?" Mata Maera mulai menghitung, kebiasaan yang tidak pernah tidur. "Aku kenal wajahmu sudah cukup lama, Renn. Wajah tadi malam bukan wajah orang yang sedang berimprovisasi."
+"Lalu kau akan memberitahuku sekarang apa yang sebenarnya kau baca waktu mereka minta kau membaca masa depan?" Mata Maera mulai menghitung, kebiasaan yang tidak pernah tidur. "Aku kenal wajahmu sudah cukup lama, Renn. Wajah tadi malam bukan wajah orang yang sedang berimprovisasi."
 
 Ashvarok memandangi halaman klinik yang gelap, papan pengumuman dengan surat yang dipaku, jadwal sekolah di sebelahnya. "Yang kubaca tadi bukan ramalan. Kalau izin penutupan itu berdiri di atas asumsi bahwa tidak ada pemilik selain lisensi, maka seluruh beratnya bertumpu pada satu kaki. Cacat seperti itu selalu ada di setiap bangunan hukum yang didirikan terlalu cepat. Aku pernah melihat kerajaan-kerajaan jatuh bukan karena pedang, tetapi karena satu pasal yang ditulis buru-buru." Ia menoleh kepadanya. "Temukan kertasnya, Assayer. Dokumen tanah pra-Liberation distrik timur, kalau ada. Dan bacalah baik-baik catatan pinggirnya — dokumen tua paling sering berkata jujur di margin, tempat tidak ada yang menuntut mereka formal."
 
@@ -65,7 +65,7 @@ Maera menatapnya lama, dan Ashvarok tahu pikirannya sedang menghitung mengapa se
 
 "Peta tua itu," kata Maera pelan. "Peta dari tabung. Aku belum selesai membaca semua lapisannya." Ia tidak bertanya lebih jauh — disiplin lamanya, geometri di buku hitam, sisanya tidak di kertas — dan itu justru yang membuat Ashvarok percaya padanya lebih jauh dari banyak orang yang pernah ia beri seluruh kebenaran. "Besok malam aku buka arsip. Kalau kertasnya ada, distrik timur berhutang padaku satu penilaian gratis."
 
-"Mereka sudah membayarmu," kata Ashvarok. "Kau menilai ikan kolong galeri sembilan minggu lalu dan tidak menagih."
+"Mereka sudah membayarmu," kata Ashvarok. "Kau sudah bekerja untuk distrik ini dan tidak menagih."
 
 "Itu pekerjaan rutin."
 

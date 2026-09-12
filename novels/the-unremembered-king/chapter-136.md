@@ -33,7 +33,7 @@ Empat puluh satu lembar keberatan kompensasi terhampar di lantai kamarnya, disus
 
 Dan malam itu, di lantai kamar sewaan yang dingin, fakta-fakta itu akhirnya berbicara.
 
-Setiap surat penagihan denda mengutip pasal yang sama, pasal revisi unilateral masa transisi. Setiap pencairan kompensasi santunan mengalir lewat formulir yang sama, formulir yang kopnya mencantumkan Koordinasi Artefak Regional tetapi nomor registrasinya masih memakai format lama the Quiet Vein, format yang seharusnya mati bersama pengalihan kontrak. Setiap denda masuk ke satu titik setoran terpusat, dan titik setoran terpusat itu, menurut salinan kwitansi yang dilampirkan seorang kepala regu yang lebih hati-hati dari yang lain, adalah slot dengan kode kotak garis miring.
+Setiap surat penagihan denda mengutip pasal yang sama, pasal revisi unilateral masa transisi. Setiap pencairan kompensasi santunan mengalir lewat formulir yang sama, formulir yang kopnya mencantumkan Regional Artifact Coordination tetapi nomor registrasinya masih memakai format lama the Quiet Vein, format yang seharusnya mati bersama pengalihan kontrak. Setiap denda masuk ke satu titik setoran terpusat, dan titik setoran terpusat itu, menurut salinan kwitansi yang dilampirkan seorang kepala regu yang lebih hati-hati dari yang lain, adalah slot dengan kode kotak garis miring.
 
 Slot itu sudah tidak ada. Slot itu tertangkap bersama kurir bisunya, petugasnya, dan kop surat teratasnya, dan seluruh barang buktinya kini tidur di dalam kotak bersegel lilin ungu milik Guild.
 

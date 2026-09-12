@@ -3,7 +3,7 @@ title: "Bab 187: Menara yang Menolak Runtuh"
 chapter: 187
 ---
 
-Kunjungan utara kedua berangkat hari 368 dengan rombongan lebih besar: kafilah dua puluh orang — murid akademi tingkat dua (semua enam), para ibu pembawa persediaan, Maera dengan alat Guild, Ossian dengan map keluarganya, dan Sareth Vayin yang membawa sesuatu yang belum pernah ditunjukkan kepada siapa pun: segel lilin asli ordo Penjaga Rekam, warisan terakhir jabatannya.
+Kunjungan utara kedua berangkat hari 368 dengan rombongan lebih besar: kafilah dua puluh orang — murid akademi tingkat dua (semua enam), para ibu pembawa persediaan, Maera dengan alat Guild, Ossian dengan map keluarganya, dan Sareth Vayin yang membawa sesuatu yang belum pernah ditunjukkan kepada siapa pun: segel lilin asli the Record Wardens, warisan terakhir jabatannya.
 
 "Untuk apa?" tanya Ashvarok di jalan.
 
@@ -17,7 +17,7 @@ Sareth berdiri di ambang ruang pertama dan tidak masuk-masuk selama satu menit p
 
 ---
 
-Tiga pekan mereka bekerja di menara — katalogisasi, verifikasi, pencocokan dengan daftar empat puluh tujuh nama Ossian dan registri mimpi Caldrest. Hasilnya melebihi harapan:
+Tiga pekan mereka bekerja di menara — katalogisasi, verifikasi, pencocokan dengan daftar empat puluh tujuh nama Ossian dan the Caldrest Dream Registry. Hasilnya melebihi harapan:
 
 Semua empat ratus jiwa utara TERIDENTIFIKASI: nama lengkap, tanggal, keluarga, pekerjaan. Bukan lagi "korban sembilan" atau "jiwa nomor" — tetapi manusia bernama, dengan rumah dan cerita, siap dipanggil pulang satu per satu sesuai jadwal armada yang disusun Maera.
 
@@ -25,7 +25,7 @@ Dan di rak terakhir, di kotak tertutup terpisah dengan tanda khusus ordo ("ARSIP
 
 Catatan lengkap penjaga galeri bantu Caldrest era lama. Barim. Delapan tahun shift malam — dicatat oleh ordo secara rahasia, karena ordo memantau semua pendengar alami di Karvess. Dan di halaman terakhir catatan itu, tulisan tangan pengamat ordo:
 
-"Subjek terbukti mampu percakapan satu arah dengan entitas bawah selama delapan tahun tanpa insiden. Subjek adalah BUKTI bahwa koeksistensi damai dimungkinkan. Rekomendasi ordo: lindungi subjek ini. Rekomendasi ditolak Dewan Choir regional: subjek diklasifikasi ulang sebagai 'terpapar bidah', pemantauan dihentikan, subjek dibiarkan." Tanggal catatan terakhir: tiga pekan sebelum kebocoran utara.
+"Subjek terbukti mampu percakapan satu arah dengan entitas bawah selama delapan tahun tanpa insiden. Subjek adalah BUKTI bahwa koeksistensi damai dimungkinkan. Rekomendasi ordo: lindungi subjek ini. Rekomendasi ditolak the Regional Choir Council: subjek diklasifikasi ulang sebagai 'heresy-exposed', pemantauan dihentikan, subjek dibiarkan." Tanggal catatan terakhir: tiga pekan sebelum kebocoran utara.
 
 Barim tidak dilupakan kebetulan. Barim DIBIARKAN — karena dia terlalu penting bagi doktrin takut.
 
@@ -35,7 +35,7 @@ Ashvarok membawa salinan temuan itu pulang ke Caldrest lebih dulu — kafilah ce
 
 Ia meletakkan salinan di bangku. Menunggu lelaki tua itu membaca.
 
-Barim membaca lama. Dua kali. Ketiga kalinya ia berhenti di kalimat "subjek diklasifikasi ulang sebagai terpapar bidah", dan Ashvarok melihat sesuatu bekerja di balik wajah tua itu — bukan kemarahan, yang lebih dalam: pemahaman.
+Barim membaca lama. Dua kali. Ketiga kalinya ia berhenti di kalimat "subjek diklasifikasi ulang sebagai heresy-exposed", dan Ashvarok melihat sesuatu bekerja di balik wajah tua itu — bukan kemarahan, yang lebih dalam: pemahaman.
 
 "Jadi begitu ceritanya," kata Barim akhirnya. "Aku pikir aku hanya kebetulan selamat." Ia meletakkan kertas itu, meratakannya dengan telapak tangan seperti meratakan adonan. "Ternyata mereka TAHU aku bisa bicara sama dia. Tahu dan pilih diam, agar nanti bilang 'lihat, bidah membuat orang hilang'." Jeda. "Delapan belas tahun aku jadi alat bukti untuk doktrin takut, dan tidak ada satu orang pun yang bilang."
 
@@ -43,7 +43,7 @@ Barim membaca lama. Dua kali. Ketiga kalinya ia berhenti di kalimat "subjek dikl
 
 "Bukan. Namun aku minta kau janji satu hal." Barim menatapnya — penjaga malam kepada raja-penjaga, setara. "Kalau akademi kita nanti punya murid yang seperti aku dulu — pendengar alami, tidak punya siapa-siapa — murid itu harus dilindungi duluan sebelum dipakai. Karena ordo gagal jaga aku. Dan Choir sengaja biarkan aku jadi bahan ceramah."
 
-"Janji diterima dan ditulis," kata Ashvarok, dan malam itu pasal baru masuk Hukum Akademi Batu sebagai Pasal Sembilan — ditulis tangan Barim sendiri di papan klinik di bawah peta nama: "Murid pendengar alami dilindungi sebelum dimanfaatkan. Yang melanggar berhadapan dengan seluruh Caldrest."
+"Janji diterima dan ditulis," kata Ashvarok, dan malam itu pasal baru masuk the Stone Academy Code sebagai Pasal Sembilan — ditulis tangan Barim sendiri di papan klinik di bawah name map: "Murid pendengar alami dilindungi sebelum dimanfaatkan. Yang melanggar berhadapan dengan seluruh Caldrest."
 
 Sareth Vayin membaca pasal itu saat kafilah utama pulang seminggu kemudian. Orang tua itu berdiri di depannya lama, lalu berkata kepada Ashvarok: "Ordo saya empat generasi gagal membuat pasal ini." Ia menyentuh tulisan kapur Barim dengan ujung jarinya seperti menyentuh pusaka. "Dan dia membuatnya dalam satu sore setelah pulih."
 
@@ -53,7 +53,7 @@ Sareth Vayin membaca pasal itu saat kafilah utama pulang seminggu kemudian. Oran
 
 ---
 
-Entri terakhir bab ini dari Hourglass, ditulis Ashvarok hari 379:
+Ashvarok menulis entri Hourglass pada hari 379:
 
 Utara kunjungan kedua: SELESAI. Arsip ordo utuh (400 jiwa teridentifikasi penuh: nama, tanggal, silsilah). Barim dibuktikan korban doktrin, bukan kebetulan — pasal sembilan lahir. Vessia Vael: pembacaan penuh dijadwalkan bulan depan dengan Ossian hadir.
 
@@ -79,14 +79,14 @@ Sela pernah meminjam buku catatan teh itu untuk arsip, dan mengembalikannya deng
 
 Sisa pekan itu dihabiskan untuk persiapan yang tidak glamor: dua puluh satu keluarga anak-anak diberi tahu lebih awal dari jadwal (pemberitahuan berjenjang versi dipercepat, dengan persetujuan Ossian dan saksi Guild), kamar-kamar lama direnovasi gotong royong, dan ibu Tamma melatih sebelas ibu dapur membuat makanan era delapan belas tahun silam — "sup yang mereka ingat harus terasa sama," katanya. "Anak tidak akan ingat wajahmu. Namun dia akan ingat rasanya sup ibunya."
 
-Dan Ashvarok melakukan satu hal pribadi: ia pergi ke kedalaman malam harinya, lewat Listen, dan meminta satu hal yang belum pernah diminta siapa pun — bahwa ketika anak-anak utara dibangunkan nanti, hal PERTAMA yang mereka dengar dari dunia bukanlah nama mereka yang disebut orang asing... melainkan lagu pengantar tidur kedalaman sendiri. Lagu yang sudah mengiringi mereka delapan belas tahun.
+Ashvarok pergi ke kedalaman malam harinya dan meminta satu hal yang belum pernah diminta siapa pun — bahwa ketika anak-anak utara dibangunkan nanti, hal PERTAMA yang mereka dengar dari dunia bukanlah nama mereka yang disebut orang asing... melainkan lagu pengantar tidur kedalaman sendiri. Lagu yang sudah mengiringi mereka delapan belas tahun.
 "Jangan ganti lagunya dengan suara kami," kata Ashvarok. "Mereka bangun dari rumahmu. Biarkan rumahmu yang bicara duluan."
 
 Jawaban kedalaman malam itu diterjemahkan Kovan dan ditulisnya di Hourglass dengan satu kalimat yang membuat seluruh tim inti diam membaca lama:
 
 "Bilang pada mereka: tidak ada satu pun anak yang menangis sendirian di dalam sana. Delapan belas tahun aku menyanyikan lagu yang sama, dan delapan belas tahun mereka menjawab dengan napas pelan. Aku tahu semua nama mereka sebelum kalian tahu. Sekarang kita bangun bersama."
 
-Ashvarok menutup neraca bab itu di bawah terjemahan Kovan, dengan tulisan tangan yang perlahan tetapi pasti:
+Ashvarok menulis di bawah terjemahan Kovan, dengan tulisan tangan yang perlahan tetapi pasti:
 Hari 380. Seribu tahun aku menyebut kedalaman dengan nama-nama yang salah: ancaman, kekuatan alam, segel yang harus dijaga. Hari ini dia memberi kami daftar anak-anak yang ia nyanyikan tidur selama delapan belas tahun — dan kupahami bahwa sejak awal, kita tidak pernah menjaga dunia dari dia.
 Kita selalu terlambat belajar bahwa yang benar adalah: dia yang sudah lebih dulu menjaga mereka dari kita.
 

@@ -15,7 +15,7 @@ Mira memahami perbedaan itu sekarang. Di menara, ia adalah saksi. Di jalan, ia h
 
 Hari ketiga, kafilah berhenti di pos perantara. Seorang penumpang lain bertanya Mira dari mana. Mira hampir menjawab bahwa ia menjaga celah angin di menara utara, celah yang sebenarnya katup besi era Hegemony.
 
-"Menara utara," sela Maera tenang. "Ia merawat buku catatan angin."
+"the Northern Tower," sela Maera tenang. "Ia merawat buku catatan angin."
 
 Mira menutup mulutnya. Ia baru saja nyaris menyebut kata yang dilarang Ossian: katup. Maera tidak menegurnya di depan orang. Ia hanya mengalihkan, seperti mengalihkan dentum dengan ketukan.
 
@@ -55,7 +55,7 @@ Hari kelima mereka melihat Anthema Spire dari kejauhan. Bangunan itu bukan menar
 
 Sela telah menulis surat untuk Thessa Vael. Mira menyimpannya di saku dalam sejak barak. Di gerbang dalam, seorang perempuan muda menyambut mereka dengan kertas lipat di tangan.
 
-"Kau Mira?" tanya perempuan itu. "Sela tulis kau datang. Aku Thessa. Meja makanku terbuka untuk angkatan pertama, katanya. Kau angkatan pertama Sekolah Mendengar, bukan?"
+"Kau Mira?" tanya perempuan itu. "Sela tulis kau datang. Aku Thessa. Meja makanku terbuka untuk angkatan pertama, katanya. Kau angkatan pertama the Listening School, bukan?"
 
 "Ya," jawab Mira.
 
@@ -189,4 +189,4 @@ Mira menatap ke arah selatan, ke arah menara yang tidak terlihat dari sini, ke a
 
 Ia mengetuk tiga kali ke dinding lorong Spire, lalu diam satu hentakan.
 
-"Tiga ketuk," bisiknya. "Satu diam. Diam bukan kosong."
+"Tiga ketuk. Satu diam," bisiknya. "Diam bukan kosong."

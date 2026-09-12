@@ -45,7 +45,7 @@ Brannoc berdiri di kepala meja panjang, dan Sela, dari bangku paling ujung, memp
 
 Suara meninggi di titik itu, dan Sela mendengar Brannoc menurunkannya dengan satu tangan yang diangkat — bukan suara, hanya tangan — dan itulah saat Foreman itu mengatakan hal yang membuat seluruh ruangan berhenti:
 
-"Nama anakku ada di lembar itu. Asrama utara. Kontraknya sudah lunas dua bulan lalu, kertasnya ada di rumah, dilipat, di bawah kotak perkakas istrinya yang sudah mati. Tetapi tetap ditandai." Ia berhenti sebentar. "Jadi aku tidak akan memilih jalur sebagai mandor kalian. Aku memilih sebagai ayah. Kita sanggah. Semua. Satu paket, dikirim bersama, supaya tidak ada satu nama yang berdiri sendirian di depan."
+"Nama anakku ada di lembar itu. Asrama utara. Kontraknya sudah lunas dua bulan lalu, kertasnya ada di rumah, dilipat, di bawah kotak perkakas istrinya yang sudah mati. Tetapi tetap ditandai." Ia berhenti sebentar. "Jadi aku tidak akan memilih jalur sebagai Foreman kalian. Aku memilih sebagai ayah. Kita sanggah. Semua. Satu paket tiga puluh satu keluarga, dikirim bersama, supaya tidak ada satu nama yang berdiri sendirian di depan."
 
 Hening, lalu bunyi kertas-kertas yang digeser, dan ruangan itu mulai bekerja.
 
@@ -107,6 +107,6 @@ Karena potongan lain membuat orang dewasa marah, pikir Ashvarok, sedangkan sekol
 
 "Aku bilang bukan barang yang bisa kutempa," kata Ashvarok. "Aku tidak bilang tidak ada yang bisa dilakukan."
 
-Sela menatapnya lama, membaca kalimat itu dua kali seperti membaca lembar papan Quota Office, lalu mengangguk sekali dan memadamkan lampu. Tetapi sebelum tidur menjemputnya, di kegelapan, terdengar bunyi kapur yang pelan sekali, dan pagi harinya di sudut belakang papan tulis itu ada sembilan belas nama baru, ditulis rapi, dengan satu judul kecil: ANAK-ANAK YANG SEKOLAHNYA DIBAYAR ORANG DEWASA YANG CAPEK.
+Sela menatapnya lama, membaca kalimat itu dua kali seperti membaca lembar Quota Office, lalu mengangguk sekali dan memadamkan lampu. Namun sebelum tidur menjemputnya, di kegelapan, terdengar bunyi kapur pelan. Pagi harinya sembilan belas nama anak berdiri rapi di belakang papan, di bawah judul kecil: ANAK-ANAK YANG SEKOLAHNYA DIBAYAR ORANG DEWASA YANG CAPEK.
 
-Di kolom "Hari Maera", satu garis miring memotong angka empat.
+Di kolom HARI MAERA, Sela menulis angka lima — lima hari penuh sebelum tenggat malam hari kelima puluh sembilan. Di samping daftar sembilan belas nama, ia menulis: SATU SANGGAHAN. TIGA PULUH SATU KELUARGA.

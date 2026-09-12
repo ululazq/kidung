@@ -3,100 +3,312 @@ title: "Bab 7: Kontrak Berlapis"
 chapter: 7
 ---
 
-Kantor kuota Caldrest membuka lembar baru pada pagi kedelapan, dan Kel Tharrow membacanya dua kali sebelum matahari naik — bukan karena sulit, tetapi karena angka yang bagus harus dinikmati perlahan, seperti roti yang masih hangat, seperti nama yang baru saja diucapkan orang lain dengan hormat.
+Pada pagi kedelapan, Kel Tharrow sudah berdiri di belakang mejanya sebelum terompet shift pertama selesai berbunyi.
 
-Kuota triwulan naik dua puluh lima persen. Produksi lorong atas sudah menyesuaikan dalam sepuluh hari. Pendataan ulang berjalan sesuai jadwal, tiga nama pertama diverifikasi tanpa masalah. Dan di halaman terakhir, satu baris yang membuatnya mengisi gelas air lebih penuh dari biasanya. Hasil investigasi pribadi soal lorong tujuh, ditulis tangannya sendiri, masih kosong di kolom kesimpulan.
+Ia meratakan lembar kuota dengan kedua tangan. Sarung tangannya bersih. Kerah seragamnya lurus. Di sisi kanan meja, roti keras dan air akar panas menunggu tanpa disentuh.
 
-Tharrow tidak menyukai kolom kosong. Kolom kosong adalah utang. Dan utang adalah satu-satunya hal yang membuatnya bangun lebih awal dari yang seharusnya.
+Kuota triwulan naik dua puluh lima persen. Lorong atas mulai mengejar kenaikan itu. Pendataan ulang berjalan sesuai jadwal. Tiga nama pertama telah diverifikasi. Semua angka dapat disalin ke surat triwulan tanpa koreksi besar.
 
-Ia menatap kolom itu selagi sarapan selesai sendiri di mejanya — roti keras dan air panas beraroma akar, dimakan berdiri supaya tidak ada alasan untuk duduk lebih lama dari jadwal. Seragamnya sudah rapi sejak subuh; seragam selalu rapi sejak subuh. Orang-orang Caldrest mengira itu kesombongan. Kesombongan adalah bonus kecilnya. Alasan sebenarnya sederhana. Di kantor pusat the Quiet Vein, orang dinilai dari hal-hal yang bisa dicek dari jauh — laporan yang datang tepat waktu, angka yang naik, kerah yang bersih. Jarak membesarkan detail. Tharrow bercita-cita dilihat dari jarak yang jauh.
+Semua kecuali satu kolom.
 
-Panggilan pagi itu sudah ia siapkan sejak semalam: tiga nama, tiga tujuan. Foreman Brannoc untuk formalitas investigasi yang harus dicatat pernah dilakukan. Ondar untuk ketakutan yang harus dicatat pernah ditanyakan. Dan bocah lorong tujuh — ia berhenti lompat di kata itu. Bocah itu masalah lain. Bocah itu kolom kosong yang berjalan.
+Pada halaman terakhir map investigasi, bagian kesimpulan untuk lorong tujuh masih kosong.
 
-Ia memanggil ketiganya pagi itu satu per satu. Foreman Brannoc masuk lebih dulu, menjawab dua belas pertanyaan investigasi dengan jawaban yang semuanya benar dan tidak ada satupun yang berguna — prajurit tua yang tahu persis mana pertanyaan yang punya gigi. Tharrow mencatat semuanya, menutup map, dan menyimpan kesimpulannya sendiri. Foreman ini melindungi sesuatu. Dan yang dilindungi bukan dirinya.
+Tharrow memeriksa ujung penanya, lalu meletakkannya sejajar dengan tepi map. Kolom kosong akan menarik pertanyaan saat Assayers' Guild datang. Pertanyaan akan menarik pemeriksaan. Pemeriksaan akan sampai ke kantor pusat the Quiet Vein, tempat orang menilai pengawas distrik dari laporan, hasil produksi, dan kesalahan yang gagal disembunyikan.
 
-Ondar datang berikutnya, gemetar, menjawab sembilan pertanyaan dengan tujuh "tidak tahu, Overseer" yang nyaris bisa dipercaya. Sebelum keluar, anak muda itu berhenti di ambang pintu, dan untuk sejenak Tharrow melihat lututnya menahan sesuatu yang bukan rasa takut pada atasan.
+Ia tidak berniat mengirim kesalahan.
 
-"Maaf, Overseer. Boleh bertanya satu hal yang bukan urusan saya?"
+Daftar panggilan pagi itu berisi tiga nama. Brannoc. Ondar. Renn.
 
-"Urusanmu memang tidak pernah jadi urusanku sebelum kau bicara."
+Tharrow menarik tali bel.
 
-"Lorong tujuh itu... kalau kita turun lagi ke sana, bawa lampu dua kali lipat ya." Ondar menatap lantai. "Bukan takut gelapnya. Takut sunyinya."
+Brannoc masuk lebih dulu. Mandor itu berhenti di depan meja dengan bahu kanan sedikit lebih rendah. Ada potongan akar pahit di sudut mulutnya.
 
-Tharrow menandai kata "sunyi" itu di sudut pikirannya, tanpa menuliskannya — kata-kata seperti itu tidak boleh masuk dokumen resmi sebelum ia tahu harganya. Ia mengusir Ondar dengan anggukan dan memanggil nama ketiga.
+"Keluarkan itu."
 
-Yang ketiga duduk seperti orang yang sudah menghitung semua pertanyaan beserta urutannya.
+Brannoc mengambil akar tersebut dan menggenggamnya.
 
-"Kontrakmu," kata Tharrow, mendorong lembaran itu melewati meja. "Bacakan paragraf delapan."
+"Duduk."
 
-Renn membaca tanpa menggulung kertas. Kewajiban produksi, sanksi kekurangan kuota, dan hak the Quiet Vein menarik jaminan kontrak berlapis bila kekurangan berulang tiga bulan berturut-turut.
+"Lebih cepat berdiri."
 
-"Jaminan kontrakmu siapa?"
+"Duduk."
+
+Brannoc menarik kursi. Kakinya menggesek lantai, kemudian diam.
+
+Tharrow membuka lembar pemeriksaan. "Kau memimpin regu yang menemukan Renn setelah lorong tujuh amblas?"
+
+"Benar."
+
+"Siapa yang turun lebih dahulu?"
+
+"Saya."
+
+"Siapa menyentuh tubuhnya?"
+
+"Saya."
+
+"Siapa memeriksa napasnya?"
+
+"Saya."
+
+Tharrow mencatat setiap jawaban. Ia melanjutkan dari waktu runtuh, jumlah pekerja, posisi lampu, kondisi penyangga, sampai jalur yang dipakai untuk mengangkat Renn. Brannoc menjawab dua belas pertanyaan. Tidak ada jeda panjang. Tidak ada pertentangan dengan laporan shift.
+
+Tidak ada jawaban yang berguna.
+
+"Kau hafal laporanmu," kata Tharrow.
+
+"Saya yang menulis."
+
+"Kau menulis bahwa Renn ditemukan hidup dan kebingungan. Kebingungan seperti apa?"
+
+"Baru tertimpa batu."
+
+"Itu sebab, bukan bentuk."
+
+Brannoc memandang lurus ke depan. "Salah sebut nama. Lambat menjawab. Bisa berdiri setelah dibantu."
+
+"Ia mengatakan sesuatu dari bawah?"
+
+"Tidak yang saya dengar."
+
+"Ia membawa sesuatu?"
+
+"Pakaian kerja. Luka. Debu."
+
+Tharrow menahan pena di atas kertas. "Kau melindungi bocah itu?"
+
+Brannoc tidak mengubah posisi. "Lindungi pekerja. Jaga kuota. Itu tugas."
+
+Jawaban benar lagi. Tharrow menulis titik di akhir baris.
+
+"Kau boleh pergi."
+
+Brannoc berdiri.
+
+"Mandor."
+
+Ia berhenti sebelum pintu.
+
+"Jika ada bagian laporan yang sengaja kau hilangkan, aku akan menemukannya."
+
+"Temukan," kata Brannoc. Ia memasukkan kembali akar pahit ke mulut, lalu keluar.
+
+Tharrow menutup lembar wawancara. Brannoc melindungi sesuatu. Bukan dirinya sendiri; mandor itu terlalu siap menanggung akibat. Kesimpulan tersebut belum layak masuk laporan, tetapi cukup untuk menentukan pertanyaan berikutnya.
+
+Ondar masuk saat dipanggil. Penambang muda itu mencengkeram topinya dengan kedua tangan. Getaran pada jarinya membuat kain kotor itu bergerak.
+
+"Nama."
+
+"Ondar, Pengawas."
+
+"Shift."
+
+"Malam."
+
+"Kau paling cepat menuruni lorong tujuh sebelum ambruk. Mengapa?"
+
+"Giliran saya di depan."
+
+"Bukan karena kau tahu jalurnya aman?"
+
+"Tidak tahu, Pengawas."
+
+Tharrow menanyakan bunyi sebelum runtuh, arah debu, posisi Renn, dan keadaan lorong ketika Ondar mundur. Tujuh dari sembilan jawaban dimulai dengan tidak tahu. Dua sisanya mengulang laporan Brannoc.
+
+"Pernah lupa namamu sendiri di lorong itu?"
+
+Jari Ondar berhenti gemetar.
+
+"Tidak."
+
+"Kau menjawab terlalu cepat."
+
+"Saya ingat lagi."
+
+"Berapa lama kau tidak ingat?"
+
+Ondar menunduk. "Tidak lama."
+
+"Hitungannya."
+
+"Mungkin dua detik."
+
+Tharrow membiarkan ruangan diam. Ondar mengusap tepi topi dengan ibu jari.
+
+"Apa yang terjadi tepat sebelum itu?"
+
+"Aku tidak bisa memastikannya, Pengawas."
+
+"Apa yang kau dengar?"
+
+"Tidak ada."
+
+"Runtuhan selalu bersuara."
+
+"Bukan runtuhannya." Ondar menelan ludah. "Sebelumnya."
+
+"Jelaskan."
+
+Ondar melihat pintu, lalu meja. "Kalau kami turun lagi, boleh bawa lampu dua kali lipat?"
+
+"Lampu tidak membantu ingatan."
+
+"Saya tahu."
+
+"Kau takut gelap?"
+
+"Bukan gelapnya." Suara Ondar mengecil. "Sunyinya."
+
+Tharrow tidak menulis kata itu. Ia hanya menggeser lembar wawancara ke tumpukan kiri.
+
+"Kembali ke shift-mu. Jangan bicarakan pemeriksaan ini."
+
+"Ya, Pengawas."
+
+Ketika pintu menutup, Tharrow membuka map investigasi lagi. Kolom kesimpulan tetap kosong. Ia menaruh satu jari di atasnya, lalu menarik lembar kontrak Renn dari laci bawah.
+
+Renn masuk beberapa menit kemudian. Bocah lima belas tahun itu masih tampak terlalu kurus untuk baju kerjanya. Ia duduk setelah Tharrow menunjuk kursi. Tatapannya singgah pada map, pena, dan lembar kontrak sebelum kembali kepada Tharrow.
+
+"Bacakan paragraf delapan," kata Tharrow.
+
+Ia mendorong kontrak itu ke seberang meja.
+
+Renn membaca kewajiban produksi, sanksi kekurangan kuota, dan hak the Quiet Vein menarik jaminan kontrak berlapis setelah kekurangan berulang tiga bulan.
+
+"Utangmu tersisa sembilan puluh enam shardmark," kata Tharrow. "Siapa jaminan kontrakmu?"
 
 "Sela."
 
-"Umurnya sebelas." Tharrow mencatat sesuatu yang tidak penting, supaya keheningannya terdengar resmi. "Dia belum punya vein yang cukup untuk dikontrakkan sebagai pekerja. Jadi kalau aku menarik jaminan itu, yang terjadi bukan dia bekerja melunasi utangmu. Yang terjadi dia masuk daftar barang."
+"Umurnya?"
 
-Di kursi seberang, ada perubahan kecil. Bahu Renn turun setengah senti, napas ketiga tertahan sepersekian detik lebih lama. Kecil. Terukur. Nyaris sempurna.
+"Sebelas."
 
-Nyaris.
+"Belum cukup umur untuk kontrak pekerja. Belum punya vein yang dapat dinilai. Jika jaminan ditarik, dia tidak masuk shift untuk membayar utangmu." Tharrow membalik lembar dan menunjuk klausul di sisi bawah. "Dia masuk daftar barang milik the Quiet Vein."
 
-"Tenang," kata Tharrow, dan suaranya turun menjadi tingkat yang ia pakai untuk pekerjaan halus — tingkat yang pelan, hangat, dan jauh lebih berbahaya daripada teriakan. "Aku tidak memanggilmu untuk mengancam. Aku memanggilmu untuk menawarkan. Kuota barumu naik dua puluh lima persen. Tubuhmu kurus, shift-mu penuh, dan hitungan sederhana bilang kau tidak akan capai. Kalau gagal sekali, teguran. Kalau gagal dua kali, potongan upah. Kalau gagal tiga kali—" Ia mengetuk kolom kosong itu. "—kontrak berlapis. Aku tidak mau sampai ke sana. Bocah yang selamat dari lorong amblas itu aset, dan aku tidak suka aset hilang karena aritmetika."
+Bahu Renn turun sedikit. Tangannya tetap diam di atas paha.
 
-"Orang yang lupa tidak punya urutan," kata Tharrow, mengulang catatan investigasinya dari memori tanpa membuka lembar itu. "Namun kau punya. Mari kita uji ingatmu sampai ke mana." Ia menyandarkan punggung, dan sandaran itu berbunyi pelan seperti tulang yang ikut menunggu. "Pekan lalu. Lorong sembilan bawah. Kamu turun dengan regu Brannoc. Ceritakan jam demi jam."
+Tharrow merapikan lembar yang sudah rapi. "Kau memahami akibatnya?"
 
-Renn menceritakan: turun subuh, antrian troli tingkat tiga, dua jam gali, satu jam angkut, naik sebelum matahari tenggelam. Semua benar, semua terukur, semua aman.
+"Saya memahami ancamannya."
 
-"Sekarang bagian yang menarik." Tharrow membuka buku besarnya pada halaman kosong, pena siap. "Seorang kolektor barang tua di pasar bilang minggu ini ada anak tambang menjual fragmen retakan berkualitas tinggi. Fragmen jenis itu hanya ada di kedalaman. Kau ada di kedalaman minggu ini."
+"Ini penjelasan kontrak."
 
-"Aku ada di kedalaman setiap minggu, Overseer. Itu pekerjaan saya."
+"Pengawas memanggil saya sendiri, menaruh nama Sela di meja, lalu menyebut daftar barang. Penjelasan tidak perlu semua itu."
 
-"Tentu." Pena itu tidak bergerak. "Jadi kalau aku minta kau buka karungmu sekarang, isinya batu biasa."
+Tharrow menatapnya. Bocah lain akan memohon atau marah. Renn memilih membedakan istilah.
 
-Ashvarok menatap mata Tharrow dengan ketenangan yang ia hitung dulu — cukup tenang untuk tidak bersalah, cukup lelah untuk tidak licik. Karungnya memang berisi batu biasa. Fragmen pertama hasil bacaannya belum akan dijual sebelum jalur jualnya rapi. Orang yang berbohong tentang masa depan lebih sulit ditangkap daripada orang yang berbohong tentang masa lalu.
+"Baik. Ini ancaman yang disertai penawaran." Tharrow menarik buku kuota mendekat. "Produksimu tidak akan mencapai kenaikan dua puluh lima persen dengan tubuh dan shift-mu sekarang. Gagal sekali menghasilkan teguran. Gagal dua kali menghasilkan potongan. Gagal tiga kali mengaktifkan klausul yang baru kau baca."
 
-"Buka saja," katanya. "Kalau Quota Office mulai periksa karung batu, berarti tarif tulang seam yang Overseer tawarkan kemarin sudah resmi berlaku. Berarti juga aku bisa minta tarif premium untuk waktu pemeriksaan."
+"Apa penawarannya?"
 
-Pena itu akhirnya bergerak, mencatat sesuatu yang mungkin tidak penting. Tharrow hampir tersenyum. Kalau bocah ini benar-benar penjual fragmen gelap, dia baru saja melihat penjual yang terlalu cerdik untuk tertangkap basah dan terlalu miskin untuk berhenti. Jenis aset yang paling murah dikendalikan.
+"Sebelum itu, aku ingin memeriksa ingatanmu. Pekan lalu, lorong sembilan bawah. Uraikan shift-mu."
 
-"Kembali ke penawaran." Ia menutup buku besar. "Angka. Seam-seam tua di bawah sering menyimpan fragmen berkualitas di retakannya — orang-orang lama menyebutnya tulang seam. Assayers' Guild akan datang minggu depan untuk survei kedalaman. Sampai mereka tiba, semua temuan fragmen wajib disetor ke Quota Office dengan tarif premium. Kau anak dasar. Kamu turun ke tempat yang jarang disentuh. Bawa aku tulang seam, dan kuotamu aku anggap capai."
+Renn menyebut waktu turun, antrean troli tingkat tiga, dua jam menggali, satu jam mengangkut, dan waktu regunya naik. Urutannya sesuai laporan Brannoc.
 
-"Aku bawa, kamu catat," kata Renn pelan. "Dan kolom investigasi lorong tujuh?"
+"Siapa berdiri di sebelah kirimu saat penggalian kedua?"
 
-Tangan Tharrow berhenti di udara sepersekian detik.
+Renn menjawab.
 
-"Kolom itu milikku."
+"Berapa lampu padam?"
 
-"Tentu, Overseer. Aku hanya mau ingatkan: kolom yang kosong lama-lama dibaca orang lain juga." Mata bocah itu tenang, dan Tharrow mendapati dirinya menilai kalimat itu dua kali — sekali sebagai kepolosan tambang, sekali sebagai sesuatu yang tidak pernah diajarkan lorong mana pun. "Surat-surat dari Spire mulai sering lewat, katanya. Assayers' Guild. Orang-orang yang digaji untuk menemukan angka yang tidak cocok."
+"Satu. Dinyalakan lagi sebelum troli datang."
 
-"Kau tahu soal Guild dari mana?"
+"Apa yang dibawa regu ke atas?"
 
-"Dari papan pengumuman barak. Surat komisi lewat Quota Office dulu sebelum turun ke tambang." Renn mengangkat bahu. "Kalau kota ini akan didatangi orang yang membaca angka, aku hanya mau jadi orang yang sudah membacanya duluan."
+Renn menyebut jumlah karung batu biasa dan satu alat yang rusak. Tidak ada jawaban yang dapat Tharrow tandai sebagai salah.
 
-Ruangan itu sunyi empat detik. Tharrow menghitungnya; ia menghitung segalanya.
+"Orang yang kehilangan ingatan biasanya kehilangan urutan," kata Tharrow. "Kau justru lebih teliti setelah lorong tujuh."
 
-Papan pengumuman barak memang menampilkan salinan surat komisi — standar prosedur, tidak dirahasiakan. Tetapi tidak ada satu penambang pun dalam sepuluh tahun kerjanya di sini yang membaca papan itu sampai selesai, apalagi menyimpulkan siapa yang datang dan kenapa. Bocah ini baru saja mengajari dia sesuatu tentang dirinya sendiri — bahwa ia lebih suka lawan bicara yang paham aturan daripada yang menggigitnya buta.
+"Saya berutang sembilan puluh enam shardmark. Ketelitian membantu hitungan."
 
-"Kau terlalu pintar untuk tungku, Renn." Ia menutup map itu. "Terlalu pintar itu berbahaya, tetapi berbahaya bisa diatur harganya. Bawa tulang seam minggu ini, dan kita dua-duanya punya tahun yang bagus. Gagal—" senyumnya tipis seperti garis pensil, "—dan kita bicara lagi soal jaminan."
+"Ketelitian juga membantu menemukan barang bernilai di kedalaman. Seorang kolektor pasar menerima fragmen retakan berkualitas tinggi minggu ini. Jenis itu tidak berasal dari lorong atas."
 
-Renn bangkit, menyalami persis secukupnya, dan keluar dengan langkah bocah kurus yang lelah. Pintu tertutup. Ruangan menjadi sangat sunyi — sunyi jenis yang terasa lebih besar karena baru saja ditinggalkan suara.
+"Pengawas ingin memeriksa karung saya?"
 
-Tharrow duduk diam selama waktu yang biasa ia pakai untuk menulis tiga paragraf.
+"Jika perlu."
 
-Penawaran yang ia berikan tadi bukan kemurahan hati. Itu jebakan yang bagus, jenis yang paling aman karena korannya ikut untung. Anak itu akan turun mencari tulang seam — dan setiap kali dia turun, Tharrow punya mata di kedalaman tempat yang tidak pernah bisa dipantau kantor. Kalau ada memang benar-benar faktor tak dikenal di bawah sana, bocah ini akan menyentuhnya lebih dulu daripada siapa pun, dan lapor ke meja yang tepat. Kalau tidak ada, kuota tetap tercapai dan namanya masuk laporan triwulan sebagai inovasi pengelolaan.
+Renn mendorong karung kecil di dekat kakinya dengan ujung sepatu. "Silakan. Isinya batu biasa. Kalau pemeriksaan karung sudah masuk tugas Quota Office, waktu saya harus dicatat juga."
 
-Semua jalur menuju angka yang naik. Ia mengulang kalimat itu dalam kepala sampai terasa benar.
+"Kau menawar tarif pemeriksaan?"
 
-Yang mengganggu hanyalah satu hal, dan ia menolak menyebutnya kekhawatiran. Dari semua orang yang pernah duduk di kursi seberang meja itu — penambang, foreman, penipu lisensi, bahkan kolektor utang pusat — baru kali ini ia keluar dari percakapan dengan rasa telah ditimbang balik. Bocah itu menjawab semuanya dengan benar. Terlalu benar. Seperti jawaban yang sudah dibayar mahal untuk dipelajari.
+"Saya menghitung waktu yang diambil dari kuota."
 
-Tharrow menatap kolom investigasi yang kosong itu lama, lalu menulis satu kalimat di dalamnya, huruf-huruf kecil dan rapi:
+Tharrow menutup buku. Ia belum punya bukti bahwa Renn menjual fragmen. Namun ia punya bocah yang turun ke kedalaman, membaca papan pengumuman, dan tidak goyah ketika jaminannya disebut.
+
+Itu lebih berguna daripada bukti.
+
+"Seam tua menyimpan fragmen premium di dalam retakannya," kata Tharrow. "Tulang seam. Assayers' Guild akan datang untuk survei kedalaman. Sebelum mereka tiba, bawa temuan semacam itu kepadaku. Setor melalui kantor ini. Jika nilainya memadai, kuotamu kuanggap tercapai."
+
+"Berapa banyak?"
+
+"Cukup untuk membuktikan kau dapat menemukannya."
+
+"Nilai memadai menurut siapa?"
+
+"Menurut catatanku."
+
+"Jadi saya mencari, Pengawas menilai, lalu Pengawas memutuskan apakah Sela tetap orang atau masuk daftar barang."
+
+"Sela tetap aman selama kau memenuhi kontrak. Aku memberimu jalur untuk melakukannya."
+
+Renn melirik halaman terakhir map investigasi. "Dan Pengawas mendapat temuan sebelum Guild."
+
+"Quota Office menerima hasil tambang. Itu bukan rahasia."
+
+"Kolom lorong tujuh masih kosong?"
+
+Tharrow meletakkan telapak tangan di atas map. "Kolom itu bukan urusanmu."
+
+"Belum."
+
+"Pilih kata berikutnya dengan hati-hati."
+
+Renn kembali menatapnya. "Surat dari Anthema Spire melewati kantor ini. Salinannya ada di papan barak. Assayers' Guild datang untuk mencari angka yang tidak cocok. Kolom kosong akan menjadi urusan mereka."
+
+"Kau membaca surat komisi?"
+
+"Saya membaca pengumuman."
+
+"Penambang lain tidak membacanya sampai selesai."
+
+"Penambang lain mungkin tidak punya jaminan berumur sebelas tahun."
+
+Tharrow menahan diam selama empat hitungan. Ucapan itu bukan penolakan. Renn sedang menetapkan bahwa ia memahami kedua sisi pertukaran.
+
+"Kesepakatannya tetap," kata Tharrow. "Tulang seam sebelum survei Guild. Aku catat kuotamu tercapai. Tidak ada penarikan jaminan."
+
+"Kalau saya setor melalui kantor ini, salinan penerimaan untuk saya."
+
+"Kau mendapat tanda terima standar."
+
+"Dengan nilai dan tanggal."
+
+"Standar mencantumkan keduanya."
+
+Renn berdiri. "Kalau begitu kita sepakat."
+
+"Belum." Tharrow mengangkat lembar kontrak. "Kau sepakat karena pilihan lain tertulis di sini. Jangan salah mengira ini kemitraan."
+
+Renn memandang nama Sela pada lembar itu. "Saya tidak salah mengira apa pun."
+
+Ia mengambil karungnya dan pergi. Langkahnya tetap teratur sampai pintu tertutup.
+
+Tharrow menunggu suara itu menjauh. Kemudian ia memindahkan kontrak Renn ke atas buku kuota.
+
+Kesepakatan tersebut memberi Renn alasan turun mencari retakan premium. Setiap setoran akan menunjukkan kedalaman yang dapat ia capai, jenis batu yang dapat ia kenali, dan apa yang muncul sebelum survei resmi dimulai. Jika lorong tujuh hanya kecelakaan, kantor mendapat produksi tambahan. Jika ada sesuatu di bawah sana, Renn akan mendekatinya lebih dahulu.
+
+Brannoc melindungi bocah itu. Ondar takut pada sunyi. Renn tahu kapan kolom kosong menjadi ancaman bagi orang yang memegang pena.
+
+Tiga wawancara. Tidak ada pengakuan. Cukup untuk pemantauan.
+
+Tharrow membuka map investigasi. Dengan huruf kecil dan rapi, ia mengisi kolom kesimpulan:
 
 > Faktor tak dikenal di the Underfold. Belum bernama. Sudah belajar bicara.
 
-Ia meniup tintanya kering, melipat lembar itu ke saku dalam map bekerja — bukan ke arsip, arsip bisa dibaca orang lain — dan mulai menyusun surat triwulan untuk pusat. Angka-angkanya bagus. Angka-angkanya selalu dibuat bagus, dan itu pekerjaan yang tidak pernah selesai. Di baris catatan tambahan, pena berhenti sebentar di atas kertas, seperti penari yang ragu pada anak tangga terakhir.
+Ia menunggu tinta kering, lalu menyimpan lembar itu di saku dalam map kerja, bukan di tumpukan arsip.
 
-Luar jendela, asap tungku ventilasi naik miring ke langit Caldrest, dan di bawahnya kota-kota kecil distrik penambang mulai bergerak. Troli pertama, terompet shift kedua, anak-anak menuju gudang belajar angka yang setengah dari mereka akan tinggalkan untuk timbangan batu. Semua mesin yang ia kelola. Semua angka yang ia naikkan.
+Surat triwulan ke pusat sudah menunggu di sebelah kanan meja. Tharrow menyalin angka produksi, kenaikan kuota, dan jadwal survei Assayers' Guild. Pada bagian catatan tambahan, ia menulis: "Satu aset manusia potensial teridentifikasi di the Underfold. Rekomendasi pemantauan lanjutan."
 
-Lalu ia menulis: "Satu aset manusia potensial teridentifikasi di the Underfold. Rekomendasi pemantauan lanjutan."
+Ia menggarisbawahi frasa satu aset manusia potensial satu kali.
 
-Aset. Kata yang paling aman untuk sesuatu yang belum mau ia sebut nama lain.
+Di luar kantor, terompet shift kedua berbunyi. Tharrow meluruskan kembali kerahnya, menutup surat untuk pusat, dan meletakkan kontrak Renn paling atas pada berkas kuota pekan itu.

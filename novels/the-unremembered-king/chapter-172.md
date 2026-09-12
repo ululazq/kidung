@@ -7,7 +7,7 @@ Kabar "penjaga" mengubah prioritas semua orang, dan yang pertama menyadari impli
 
 "Kalau kedalaman sudah mengganti panggilan," katanya di rapat pagi, "artinya dia bisa belajar hal lain juga. Aturan misalnya." Ia mengetuk papan. "Dan kalau dia bisa diberi aturan, kita tidak lagi menjaga diri DARI dia. Kita sedang bernegosiasi dengan dia. Itu pekerjaan baru, dan pekerjaan baru butuh protokol."
 
-Protokol itu dirancang dalam tiga rapat dan dinamai sederhana oleh ibu Tamma: Hukum untuk Tamu. Tiga pasal, ditulis dua kali — versi lengkap di Hourglass dalam sandi rumah tangga, versi objek di dunia nyata lewat penanda.
+Protokol itu dirancang dalam tiga rapat dan dinamai sederhana oleh ibu Tamma: the Law for Guests. Tiga pasal, ditulis dua kali — versi lengkap di Hourglass dalam sandi rumah tangga, versi objek di dunia nyata lewat penanda.
 
 Pasal satu: batu asah tua tetap di ambang jendela, dibersihkan harian, tidak pernah dipindah — penanda bahwa pintu terbuka. Pasal dua: setiap sapuan yang membawa suara akan DIJAWAB sekali per malam oleh jaringan pendengar, bukan oleh Ashvarok — jawaban selalu sama, tiga nada balasan yang Kovan rancang dari akhiran "penjaga" itu, supaya kedalaman belajar ada banyak mulut di rumah ini, bukan satu. Pasal tiga: jika sapuan pernah mencoba meniru suara manusia untuk memanggil orang ke bawah, jawabannya berhenti total selama tujuh malam — hukuman yang harus bisa dirasakan tamu yang pintar.
 
@@ -15,11 +15,11 @@ Pasal satu: batu asah tua tetap di ambang jendela, dibersihkan harian, tidak per
 
 "Menjinakkan," kata Ashvarok. "Cara Hegemony kuno bilang mustahil. Namun Hegemony salah tentang banyak hal — mereka pikir segel harus dijaga diam-diam oleh satu orang. Mungkin kegelapan besar itu seperti semua hal besar lain: tidak bisa dihukum menjadi patuh. Hanya bisa diundang."
 
-Pengikat senior yang menambahkan catatan tertua, dari tradisi yang lebih tua dari semuanya: "Ordo saya punya satu baris tentang ini, yang dulu saya membaca sebagai puisi. Sekarang saya membaca sebagai manual." Ia mengutipnya dari hafalan seribu tahun: "'Yang lapar bukan musuh. Yang tak pernah diberi makan barulah musuh.'" Jeda. "Kita memberinya makan cerita sejak bab sembilan puluh tanpa sadar. Sekarang kita beri makan dengan sengaja, dengan aturan, dan lihat apa yang terjadi pada laparnya sendiri."
+Pengikat senior yang menambahkan catatan tertua, dari tradisi yang lebih tua dari semuanya: "Ordo saya punya satu baris tentang ini, yang dulu saya membaca sebagai puisi. Sekarang saya membaca sebagai manual." Ia mengutipnya dari hafalan seribu tahun: "'Yang lapar bukan musuh. Yang tak pernah diberi makan barulah musuh.'" Jeda. "Kita memberinya makan cerita sejak the Kitchen Stage berdiri tanpa sadar. Sekarang kita beri makan dengan sengaja, dengan aturan, dan lihat apa yang terjadi pada laparnya sendiri."
 
 ---
 
-Hukum untuk Tamu dijalankan pertama kali malam harinya, dan Caldrest belajar bahwa negosiasi dengan kegelapan purba ternyata berisi banyak menunggu.
+the Law for Guests dijalankan pertama kali malam harinya, dan Caldrest belajar bahwa negosiasi dengan kegelapan purba ternyata berisi banyak menunggu.
 
 Sapuan datang jam pertama pagi seperti biasa. Menyusuri wilayahnya. Berhenti di batu asah — lebih lama lagi, seolah sudah mengenali posisi benda itu sebagai tempat berhenti resmi. Lalu, untuk pertama kalinya sejak jaringan pendengar ada, jawaban tiga nada dikirim dari lima titik sekaligus: Kovan di koridor timur, pengikat senior di nat barat, Brannoc dan Ondar di galeri aman, ibu Tamma dengan telapaknya di dinding dapur barak — karena pasal dua tidak mengecualikan siapa pun, dan wanita itu bersikeras.
 
@@ -35,7 +35,7 @@ Hari 299. Eksperimen hari pertama: tamu dijawab oleh lima mulut. Reaksi: diam pa
 
 ---
 
-Pekan berikutnya, Hukum untuk Tamu dijalankan setiap malam, dan datanya berkembang seperti semua data yang diberi perhatian.
+Pekan berikutnya, the Law for Guests dijalankan setiap malam, dan datanya berkembang seperti semua data yang diberi perhatian.
 
 Sapuan mulai membawa variasi: tiga nada jawaban kadang dibalas dengan dua nada, yang Kovan identifikasi pekan kemudian sebagai bentuk singkat kata yang sama — seperti orang mulai memanggil nama panjang dengan panggilan akrab. Titik tajam sapuan berhenti mengikuti Ashvarok sepenuhnya; sekarang ia berputar antara batu asah, nat barat tempat pengikat senior biasa duduk, dan dinding dapur barak — lima titik lima telapak, dipelajari satu per satu, seperti tamu yang menghafal wajah keluarga tuan rumah.
 
@@ -63,7 +63,7 @@ Lalu, untuk pertama kalinya dalam sejarah pencatatan Caldrest, kedalaman menjawa
 
 SELESAI.
 
-Di Hourglass malam itu, Ashvarok menulis entri yang kelak dibacakan Sela di Panggung Dapur pekan berikutnya dan diterima barak dengan hening yang bukan takut:
+Di Hourglass malam itu, Ashvarok menulis entri yang kelak dibacakan Sela di the Kitchen Stage pekan berikutnya dan diterima barak dengan hening yang bukan takut:
 
 Hari 302. Sistem pelaporan dua arah dengan Vel-Ghora: AKTIF. Laporan pertama diajukan kedalaman, ditindaklanjuti kita, dikonfirmasi kedalaman. Seribu tahun aku percaya tugas penjaga adalah menahan pintu tertutup. Ternyata tugas yang lebih tua dari itu — tugas yang bahkan mendahului segel — adalah menjaga agar rumah tetap utuh, apa pun bentuk penghuninya. Segel adalah alat. Rumah adalah tujuannya. Aku baru saja pulang ke pekerjaan asli keluargaku.
 

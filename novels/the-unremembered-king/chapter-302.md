@@ -13,7 +13,7 @@ Ashvarok-Renn membaca kain itu dua kali. Wajahnya tidak berubah.
 
 "Maka ujung benang di sana memang makin tipis," kata Ashvarok-Renn. "Bukan karena kita mulai mendengar. Karena ia memang makin keras."
 
-"Ossian tidak tahu sejak kapan," kata Kovan. "Itu berarti tarikan di utara sudah lama berjalan. Lebih lama dari buku anomali kita."
+"Ossian tidak tahu sejak kapan," kata Kovan. "Itu berarti tarikan di utara sudah lama berjalan. Lebih lama dari the Anomaly Book milik kita."
 
 "Lebih lama dari delapan belas tahun," jawab Ashvarok-Renn. "Mungkin sejak retakan pertama terbuka di utara. Sejak lima panglima gugur."
 
@@ -25,9 +25,9 @@ Ia menatap kain itu lagi. Satu baris membuatnya berhenti: *Maera yang pertama be
 
 "Tidak." Ashvarok-Renn melipat kain. "Ossian menulis kepada kita, bukan kepada jabatan. Surat orang, bukan laporan. Kita hormati itu. Dan Maera yang menyuruh ia berkata — Maera tahu batasnya. Ia tidak akan laporkan ke Dewan selama ini masih bisa dibaca sebagai umur menara."
 
-Kovan menulis di buku anomali halaman enam. *Balasan Ossian: dentum nat menara makin keras (bukan umur, menurut Maera). Tarikan utara sudah lama, lebih dari delapan belas tahun. Konfirmasi: ujung benang di Spire memang makin tipis.* Lalu satu baris di bawah: *Maera curiga lebih dulu. Ia gerbang. Maka Spire sudah hitung, dengan nama lain.*
+Kovan menulis di the Anomaly Book halaman enam. *Balasan Ossian: dentum nat menara makin keras (bukan umur, menurut Maera). Tarikan utara sudah lama, lebih dari delapan belas tahun. Konfirmasi: ujung benang di Spire memang makin tipis.* Lalu satu baris di bawah: *Maera curiga lebih dulu. Ia gerbang. Maka Spire sudah hitung, dengan nama lain.*
 
-Di sudut ruangan, Yang Dulu Sunyi mencatat detak pelan. Bukan tiga detik kali ini. Satu baris lain: dua nadi. Lalu senyap.
+Di sudut ruangan, the Once-Silent mencatat detak pelan. Bukan tiga detik kali ini. Satu baris lain: dua nadi. Lalu senyap.
 
 Ashvarok-Renn menatap catatan itu. Dua nadi — yang menunggu, yang lari. Di utara, yang lari makin cepat. Di barak, yang menunggu tetap tiga detik.
 
@@ -39,7 +39,7 @@ Ashvarok-Renn menatap catatan itu. Dua nadi — yang menunggu, yang lari. Di uta
 
 ---
 
-Pagi menjelang siang, Maera tiba tanpa pemberitahuan. Ia tidak membawa kotak timbung. Ia hanya membawa selembar kain lain, dilipat empat, disisipkan di dalam lengan baju.
+Pagi menjelang siang, Maera tiba tanpa pemberitahuan. Ia tidak membawa weighing box. Ia hanya membawa selembar kain lain, dilipat empat, disisipkan di dalam lengan baju.
 
 "Aku tidak mencatat balasan Ossian," kata Maera begitu duduk. "Tetapi aku mencatat wajahnya ketika menulis. Tangan kanannya berhenti dua kali di tengah kalimat. Bukan ragu. Ia menimbang apakah ia masih boleh menulis sebagai orang, bukan sebagai pensiunan Dewan."
 
@@ -53,7 +53,7 @@ Sela menuang air hangat. "Apakah Dewan akan tahu?"
 
 Kovan mengangkat kepala. "Maka selisih utara tidak pernah dicatat sebagai angka. Hanya sebagai kata — keras, pelan, biasa."
 
-"Betul," kata Maera. "Dan kata tidak bisa dihitung. Baru sekarang, karena buku anomali kalian meminta angka, Ossian akan mulai meminta perawat menara menulis angka. Detik, bukan kata."
+"Betul," kata Maera. "Dan kata tidak bisa dihitung. Baru sekarang, karena the Anomaly Book kalian meminta angka, Ossian akan mulai meminta perawat menara menulis angka. Detik, bukan kata."
 
 Ashvarok-Renn menatap kain di tangan Maera. "Kau sudah minta?"
 
@@ -67,7 +67,7 @@ Maera tersenyum tipis. Senyuman itu tidak ada di laporan. "Ossian juga bilang sa
 
 "Tidak bohong," ulang Maera. "Hanya tidak lengkap. Dan tidak lengkap adalah cara paling jujur untuk tetap diam."
 
-Maera berdiri. "Aku kembali ke pos sebelum pergantian penjaga. Satu hal lagi — Braunri mengirim pesan lewat jalur pos biasa: perawat menara yang baru, anak angkatan keempat Sekolah Mendengar yang ditempatkan di Spire sebagai juru rawat batu, sudah ada di sana sejak musim lalu. Ia yang akan menulis angka. Kalian tidak perlu mengirim orang lagi."
+Maera berdiri. "Aku kembali ke pos sebelum pergantian penjaga. Satu hal lagi — Braunri mengirim pesan lewat jalur pos biasa: perawat menara yang baru, anak angkatan keempat the Listening School yang ditempatkan di Spire sebagai juru rawat batu, sudah ada di sana sejak musim lalu. Ia yang akan menulis angka. Kalian tidak perlu mengirim orang lagi."
 
 "Kabar baik," kata Kovan. "Maka utara dan selatan sudah sama-sama punya murid yang mencatat."
 
@@ -77,7 +77,7 @@ Maera menatap catatan Sela, lalu mengangguk. "Tulis itu. Suatu hari arsip akan d
 
 Setelah Maera pergi, barak kembali senyap. Kovan membuka buku hitung, menambah satu kolom baru: *Spire — perawat menara — angka harian — via Maera — tanpa nama.*
 
-"Kolom baru," kata Kovan. "Maka buku anomali kini punya dua kaki. Selatan: desa-desa. Utara: menara."
+"Kolom baru," kata Kovan. "Maka the Anomaly Book kini punya dua kaki. Selatan: desa-desa. Utara: menara."
 
 "Dua kaki, satu benang," jawab Ashvarok-Renn. "Itu yang kita harapkan sejak membuka buku. Bahwa kita tidak sendirian."
 
@@ -95,7 +95,7 @@ Sore harinya, Sela duduk di serambi menyusun ringkasan balasan Ossian ke buku ar
 
 Kovan mengangguk pelan. Ia menutup buku hitung. "Maka kita punya dua pencatat sekarang. Barak, dan menara. Dua ujung benang yang sama, keduanya menghitung tanpa menyebut nama."
 
-"Dua ujung, satu benang," kata Ashvarok-Renn. "Itu sebenarnya yang kita harapkan sejak membuka buku anomali. Bahwa kita tidak sendiri di ujung benang ini."
+"Dua ujung, satu benang," kata Ashvarok-Renn. "Itu sebenarnya yang kita harapkan sejak membuka the Anomaly Book. Bahwa kita tidak sendiri di ujung benang ini."
 
 Di dapur, Tami-Tomi membakar sisa roti yang tidak jadi untuk esok. Asapnya tipis, dan di balik asap itu api perapian tidak ikut berdenyut — satu-satunya benda di barak yang menolak irama, dan Ashvarok-Renn, menatapnya dari kursi sudut, sekali lagi ingat bahwa irama yang tidak universal pasti punya sumber yang memilih. Api memilih untuk tidak. Maka sumber itu, entah apa, memilih untuk ya. Pilihan itulah yang belum mereka pahami.
 
@@ -107,7 +107,7 @@ Kovan menatap dari bangku. "Tetapi api juga memilih. Dan api tidak kami takuti."
 
 Mereka diam. Di luar, angin lembah utara tidak membawa apa pun ke ambang; rumput kering sudah jauh. Di kejauhan, penyapa kampung tiga jalur menutup pintu dengan tiga ketukan — kebiasaan yang kini milik dunia, bukan milik barak.
 
-Ashvarok-Renn berdiri, berjalan ke rak, mengambil buku anomali. Ia membuka ke halaman pertama, menatap baris delapan belas tahun silam: *Tiga detik. Ia muncul tanpa musim, tidak punya rumah di dalam hitungan dunia.*
+Ashvarok-Renn berdiri, berjalan ke rak, mengambil the Anomaly Book. Ia membuka ke halaman pertama, menatap baris delapan belas tahun silam: *Tiga detik. Ia muncul tanpa musim, tidak punya rumah di dalam hitungan dunia.*
 
 Ia menutup buku. Rumah bukan tempat. Rumah adalah arah. Dan irama ini punya arah: ke utara, ke Spire, ke retakan pertama.
 
@@ -117,11 +117,11 @@ Kovan mengangguk. "Separuh jalan menuju apa?"
 
 "Menuju tahu siapa yang menghitung lebih dulu."
 
-Malam. Tami-Tomi menutup dapur dengan lap kering. Harn berjalan ke tepi lembah, palu di bahu. Murid-murid Sekolah Mendengar kembali ke asrama masing-masing, saling menyapa dengan anggukan. Di sudut ruangan, Yang Dulu Sunyi tidak mencatat lagi; ia hanya ada, seperti dinding, seperti retakan yang tertutup Forge tipis di bawah lantai.
+Malam. Tami-Tomi menutup dapur dengan lap kering. Harn berjalan ke tepi lembah, palu di bahu. Murid-murid the Listening School kembali ke asrama masing-masing, saling menyapa dengan anggukan. Di sudut ruangan, the Once-Silent tidak mencatat lagi; ia hanya ada, seperti dinding, seperti retakan yang tertutup Forge tipis di bawah lantai.
 
-Ashvarok-Renn duduk di kursi sudut. Di pangkuannya, kain balasan Ossian. Ia tidak melipatnya ke buku anomali. Ia simpan di saku, di balik lengan baju yang sudah lusuh.
+Ashvarok-Renn duduk di kursi sudut. Di pangkuannya, kain balasan Ossian. Ia tidak melipatnya ke the Anomaly Book. Ia simpan di saku, di balik lengan baju yang sudah lusuh.
 
-Surat yang tidak menyebut nama tetap tidak disebut. Tetapi jawabannya sudah tiba, dan jawaban mengatakan hal yang sama dengan buku anomali, hanya dengan bahasa menara: sesuatu di utara memang makin keras, dan itu bukan umur.
+Surat yang tidak menyebut nama tetap tidak disebut. Tetapi jawabannya sudah tiba, dan jawaban mengatakan hal yang sama dengan the Anomaly Book, hanya dengan bahasa menara: sesuatu di utara memang makin keras, dan itu bukan umur.
 
 Sore menjelang senja, Kovan kembali mengukur selisih dengan alat barunya — lempeng cadangan yang ia pinjam dari gudang perawat. Ia menempelkan lempeng ke dinding barak, menunggu tiga detik, mencatat, menunggu lagi. Angka tetap: tiga. Ia mengangguk, menulis di margin: *Barak tetap tiga. Menara makin keras menurut Ossian. Maka selisih memang di utara, bukan di kita.*
 

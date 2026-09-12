@@ -27,7 +27,7 @@ Meja itu diam sebentar. Semua orang di meja itu pernah menjadi penjaga yang diti
 
 "Bukan kau sendirian," kata Brannoc, dan itu bukan tawaran, karena Brannoc tidak pernah menawarkan hal yang seharusnya sudah diputuskan. "Yang pergi ke bawah tanah itu pergi dua. Kau bilang sendiri pelajaran galeri sembilan: pekerjaan bawah tanah tidak pernah satu tangan."
 
-"Kupikir kau akan bilang begitu." Ashvarok-Renn menatap lintas meja. "Kova?"
+"Kupikir kau akan bilang begitu." Ashvarok-Renn menatap lintas meja. "Kovan?"
 
 Sebelum Kovan menjawab, Ondar meletakkan lempengnya di atas meja — sisi baca ke bawah, dan itu artinya ia punya hal untuk dikatakan yang bukan dari lempeng. "Kupikirkan dari tadi siang. Restorasi berjalan di jalur utara, benang di sini dibaca Kovan, kain sudah pensiun. Yang tidak ada penjaganya cuma satu arah: selatan. Aku tidak bisa ikut juga — kaki ini sudah tidak setuju dengan tangga tambang sejak delapan tahun lalu — tapi aku bisa jadi ujung benangmu dari sini. Lempengku terhubung nat tua, dan nat tua itu bercabang ke arah yang ditunjuk kode. Kalau kalian membuka katup ketiga dan suasananya berubah — aku akan mendengarnya dari sini sebelum kalian selesai mengatakannya. Satu ketukan untuk lanjut, dua untuk berhenti. Seperti dulu."
 

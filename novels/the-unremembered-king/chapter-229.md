@@ -15,7 +15,7 @@ Jawaban Wida masuk daftar kutipan pekan: "Sudah lama aku ada, Nak. Baru kali ini
 
 ---
 
-Pekan itu juga, angkatan pertama Sekolah Mendengar resmi tamat.
+Pekan itu juga, angkatan pertama the Listening School resmi tamat.
 
 Upacara penamatannya — kalau bisa disebut upacara — berbentuk makan malam di aula: meja panjang, sup resep ibu Tamma, dan satu tradisi baru yang dibuat khusus: setiap lulusan diminta meninggalkan SATU kalimat untuk dinding sekolah. Bukan pidato. Satu kalimat, tulisan tangan, digantung apa adanya.
 
@@ -39,9 +39,9 @@ Hari 664. Neraca era ketiga — batch "Musim yang Tepat".
 
 JIWA: 185 dari 400 jiwa utara telah pulang (124 Vess-Morath + 61 timur). Sisa 215 jiwa, tersebar di lima belas wilayah. Jadwal rantai cerita berjalan: selatan jauh dalam dua bulan, sisanya bergilir dengan mentor antar-wilayah.
 
-INSTITUSI BARU: Sekolah Mendengar (angkatan 1 tamat, angkatan 2 sembilan siswa), Kantor Penghubung Utara resmi, jalur pendengar alami (murid pertama: Pellia), posisi penjaga nat lereng (pekerjaan baru: Ilo).
+INSTITUSI BARU: the Listening School (angkatan 1 tamat, angkatan 2 sembilan siswa), Kantor Penghubung Utara resmi, jalur pendengar alami (murid pertama: Pellia), posisi penjaga nat lereng (pekerjaan baru: Ilo).
 
-HUKUM & PROTOKOL: protokol musim 13 pasal berlaku antar-wilayah; revisi sambutan "meja makan dulu"; pasal mentoring antar-kedalaman; preseden Putusan Ladang Utara diterapkan tanpa sidang ulang.
+HUKUM & PROTOKOL: the Seasonal Protocol 13 pasal berlaku antar-wilayah; revisi sambutan "meja makan dulu"; pasal mentoring antar-kedalaman; preseden the Northern Field Ruling diterapkan tanpa sidang ulang.
 
 KEDALAMAN: the Patient House (rumah), Kael-Uthar (api), Ondrath-Ilm (malam) — tiga penjaga dengan gelar sah dan tetangga yang datang tanpa urusan. Nat timur: bangun penuh, aktif, siap jadi mentor.
 
@@ -61,7 +61,7 @@ Kita tidak sedang menyelesaikan proyek. Kita sedang hidup di dunia yang sudah be
 
 Rapat penutup itu juga menghasilkan satu keputusan yang oleh Ossian disebut "yang paling lama kami tunda tanpa alasan": pembaruan resmi bible Caldrest — dokumen kanon yang delapan bulan ini tertinggal di belakang kenyataan.
 
-Sela memimpin sesinya dengan daftar yang sudah ia siapkan semalam, dan satu per satu nama-nama yang selama ini hidup di lapangan tetapi belum hidup di kanon masuk ke tempatnya: Wida (penjaga pos, "kakak pos", sudah ditulis subuh tadi). Ilo (penjaga nat lereng timur, pekerjaan baru: bercerita). Marn (kepala kamp timur, penemu pasal cerita harian). Sovana (jiwa pertama timur, pemilik kalimat "kami hanya bab berikutnya"). Tarm (pemimpin penanam Vess-Morath, guru pencuci piring). Daven, Pellia, Thessa (siswa angkatan pertama Sekolah Mendengar — dicatat dengan gelar baru yang mereka dapat dari warga, bukan dari Spire: "anak-anak dapur").
+Sela memimpin sesinya dengan daftar yang sudah ia siapkan semalam, dan satu per satu nama-nama yang selama ini hidup di lapangan tetapi belum hidup di kanon masuk ke tempatnya: Wida (penjaga pos, "kakak pos", sudah ditulis subuh tadi). Ilo (penjaga nat lereng timur, pekerjaan baru: bercerita). Marn (kepala kamp timur, penemu pasal cerita harian). Sovana (jiwa pertama timur, pemilik kalimat "kami hanya bab berikutnya"). Tarm (pemimpin penanam Vess-Morath, guru pencuci piring). Daven, Pellia, Thessa (siswa angkatan pertama the Listening School — dicatat dengan gelar baru yang mereka dapat dari warga, bukan dari Spire: "anak-anak dapur").
 
 Dan satu entri terakhir, yang oleh Sela ditulis pelan-pelan sambil membacanya keras-keras karena merasa sedang menutup lingkaran:
 
@@ -119,7 +119,7 @@ Yang dibawa pulang setiap orang dari batch ini berbeda-beda, dan oleh karena itu
 
 Bagi keluarga-keluarga timur, batch ini adalah bulan-bulan di mana delapan belas tahun kosong mulai terisi — satu cerita per sore, satu sup per pemulang.
 
-Bagi siswa Sekolah Mendengar, ini waktu ketika mereka belajar bahwa institusi bisa berubah asal ada orang yang berani dicuci tangannya dulu.
+Bagi siswa the Listening School, ini waktu ketika mereka belajar bahwa institusi bisa berubah asal ada orang yang berani dicuci tangannya dulu.
 
 Bagi kedalaman, ini masa ketika mereka tidak lagi hanya didengar saat dibutuhkan — tetapi disapa juga saat tidak ada apa-apa. Yang kedua ternyata yang lebih berarti.
 

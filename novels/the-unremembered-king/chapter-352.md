@@ -3,7 +3,7 @@ title: "Bab 352: Jalan yang Berdenyut"
 chapter: 352
 ---
 
-Mereka berangkat sebelum fajar, ketika barak masih bernapas pelan dan lampu-lampu terakhir masih menggantung di ambang pintu seperti mata yang enggan terpejam. Empat belas orang: Ashvarok-Renn di depan, Sela membawa papan napasnya di punggung, Kovan dengan gulungan peta di dada, Mira dengan buku anomali yang sudah ia bawa sejak angin pertama berbalik. Di belakang mereka, Brannoc memimpin rombongan pengawal, dan di ujung barisan, the Seeker serta the Keeper berjalan berdampingan — dua orang yang delapan belas tahun lalu saling percaya pada batu, dan kini saling percaya pada jalan.
+Mereka berangkat sebelum fajar, ketika barak masih bernapas pelan dan lampu-lampu terakhir masih menggantung di ambang pintu seperti mata yang enggan terpejam. Empat belas orang: Ashvarok-Renn di depan, Sela membawa papan napasnya di punggung, Kovan dengan gulungan peta di dada, Mira dengan the Anomaly Book yang sudah ia bawa sejak angin pertama berbalik. Di belakang mereka, Brannoc memimpin rombongan pengawal, dan di ujung barisan, the Seeker serta the Keeper berjalan berdampingan — dua orang yang delapan belas tahun lalu saling percaya pada batu, dan kini saling percaya pada jalan.
 
 Udara pagi terasa seperti air dingin yang baru saja dibasuh ke wajah. Bau tanah basah, akar yang terluka, dan garam dari danau di kejauhan menempel di pakaian mereka. Sela menarik napas dalam-dalam dan merasakan sesuatu yang tidak biasa: irama tiga ketuk yang selama ini ia dengar di papan napasnya, kali ini datang dari dalam tanah, dari bawah telapak kakinya, seperti jantung yang tertidur di kedalaman dan baru saja mengingat bahwa ia masih hidup.
 
@@ -41,7 +41,7 @@ Di tengah lingkaran itu, berdiri lelaki berjubah abu-abu. Ia tidak terkejut meli
 
 "Aku tidak datang karena jalan ini menarikku," kata Ashvarok-Renn. "Aku datang karena aku membawa sesuatu yang harus kau lihat."
 
-Ia mengeluarkan dua kain tenun dari dalam jaketnya — kain pertama yang ia jaga sebelum barak ada, dan kain kedua yang diberikan Sela sebelum mereka berangkat. Keduanya ditenun dengan pola yang sama: tiga ketuk, satu diam. Di bawah cahaya senja, benang-benang itu tampak berdenyut pelan, seperti jantung yang baru saja mulai berdetak setelah tidur panjang.
+Ossian mengeluarkan dua kain tenun dari dalam jaketnya — kain ibunya dan kain yang diberikan Ashvarok-Renn. Keduanya ditenun dengan pola yang sama: tiga ketuk, satu diam. Di bawah cahaya senja, benang-benang itu tampak berdenyut pelan, seperti jantung yang baru saja mulai berdetak setelah tidur panjang.
 
 Lelaki itu menatap kain-kain itu, dan untuk pertama kalinya, ekspresinya berubah. Bukan takut. Bukan senang. Tetapi sesuatu yang lebih dalam — seperti orang yang melihat kunci yang sudah lama ia cari, dan menyadari bahwa kunci itu tidak pernah hilang. Hanya menunggu di tangan yang tepat.
 

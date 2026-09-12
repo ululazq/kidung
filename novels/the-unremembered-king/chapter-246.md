@@ -3,189 +3,248 @@ title: "Bab 246: Murid dari Seberang Gunung"
 chapter: 246
 ---
 
-Pendaftaran angkatan ketiga Sekolah Mendengar membuka satu hal yang tidak pernah direncanakan siapa pun:
+Surat ketiga puluh satu tiba dengan noda garam pada lipatannya dan sehelai rumput gunung terselip di bawah segel.
 
-surat masuk dari luar Karvess.
+Sela menaruhnya di atas meja aula, terpisah dari dua belas formulir warga Caldrest dan delapan permohonan para pemulang. Selama setahun, meja itu dipakai mencatat siapa yang pulang dari kedalaman. Pagi ini, orang-orang yang belum pernah menginjak Karvess meminta izin datang.
 
-Bukan dari Spire — Spire sudah punya kuota angkatan sejak awal. Melainkan dari wilayah-wilayah jauh yang selama ini hanya dikenal lewat peta: kerajaan pantai Selat Aru, federasi lembah Kaveth, bahkan satu surat bersegel emas dari wilayah yang oleh Sela harus dicari dulu di arsip lama ("Tanah Tinggi Vel-Morra — oh. Yang ini katanya tidak mau berhubungan dengan siapa pun sejak Hegemony").
+Ashvarok membaca surat terakhir melalui mata Renn. Tulisan dari kerajaan pantai Selat Aru miring ke kanan, seperti didorong angin laut.
 
-Total: tiga puluh satu pendaftar dari sembilan wilayah luar.
+"Mereka tidak menyebut resonansi," kata Renn.
 
-Ashvarok membaca surat-surat itu satu per satu, dan menemukan pola yang membuatnya memanggil rapat tim inti:
+"Tak satu pun?" Brannoc menarik kursi dengan ujung sepatu. Serbuk batu masih melekat pada lengan bajunya.
 
-"Semua surat ini menyebut hal yang sama." Ia meletakkan tumpukan di meja. "Bukan 'kami ingin belajar resonansi'. Bukan 'kami tertarik protokol pemulangan'."
+Renn membalik tiga surat teratas. Ashvarok mengambil suara mereka sebelum anak itu selesai menyusun kalimat. "Kaveth mengirim enam calon. Vel-Morra mengirim satu. Aru mengirim lima. Semua memakai alasan berbeda, tetapi permintaannya sama: ajari kami mendengarkan sebelum kami mencoba memperbaiki apa pun."
 
-"Terus?" tanya Brannoc.
+Sela menyentuh segel emas dari Vel-Morra. Lilinnya berbau akar pahit meski sudah menempuh perjalanan berminggu-minggu. "Wilayah ini menutup jalur sejak Hegemony. Arsip terakhir menyebut utusan mereka meninggalkan perundingan tanpa mengambil kembali kursinya."
 
-"'Kami mendengar ada kota yang mengajari orang mendengarkan. Kami butuh itu.'" Ashvarok menatap mereka. "Dunia luar tidak mau belajar teknik kita. Dunia luar mau belajar CARA KITA MENYAPA."
+"Lalu kenapa suratnya sampai?" tanya Renn.
 
----
+"Karena seseorang di sana membuka pintu yang seharusnya tetap tertutup." Sela mendorong surat itu ke tengah meja. "Pertanyaannya, apakah kita membukakan pintu dari sisi kita."
 
-Rapat panjang. Karena pertanyaannya bukan lagi "siapa yang boleh masuk" — melainkan "apakah sekolah ini siap menjadi sesuatu yang lebih besar dari proyek Caldrest".
+Jumlahnya kecil dibanding empat ratus jiwa yang pernah menunggu nama dipulangkan. Namun tiga puluh satu orang asing membawa sesuatu yang tidak bisa dihitung Kovan: sembilan kebiasaan, tiga bahasa tulis, dan sembilan cara salah memahami keramahan Karvess.
 
-Sareth Vayin, guru tua yang jarang bicara duluan, bicara duluan:
+Ashvarok membaca lagi kalimat yang berulang di surat-surat itu. Kami mendengar ada kota yang mengajari orang mendengarkan. Kami butuh itu.
 
-"Dulu, saat ordo Penjaga Rekam masih ada, kami punya aturan: ilmu menjaga tidak boleh diajarkan ke orang yang belum pernah kehilangan." Ia memandang sekeliling. "Namun lihat sekeliling kita. Di ruangan ini ada mantan penghuni kedalaman, anak tambang, dokter tambang, raja seribu tahun, dan aku yang kehilangan murid-muridku empat puluh tahun silam." Jeda. "Siapa di sini yang belum pernah kehilangan?"
+Ia pernah membakar namanya agar dunia tidak melupakannya. Sekarang dunia mengetuk rumah yang dibangun dari akibat kesalahan itu.
 
-Sunyi.
+"Kita adakan rapat," katanya.
 
-"Maka syarat lama sudah terpenuhi oleh semua calon murid mana pun," kata Sareth. "Yang harus kita pastikan bukan penerimaannya — melainkan pengajarannya. Kalau dunia luar datang belajar menyapa... kita harus yakin apa yang kita ajarkan bisa hidup tanpa kita."
+"Itu jawaban raja atau guru?" tanya Renn dari dalam.
 
----
+"Jawaban orang yang takut mengatakan ya terlalu cepat."
 
-Keputusan akhir dirumuskan Sela dalam format arsip resmi:
-
-ANGKATAN 3 SEKOLAH MENDENGAR:
-- Kuota dibuka: 31 pendaftar luar + 12 kuota lokal + 8 kuota pemulang = 51 murid.
-- Kurikulum tetap: tanpa materi tulis; jadwal kegiatan nyata.
-- TAMBAHAN BARU: setiap murid luar wajib satu musim tinggal bersama keluarga Caldrest SEBELUM kelas pertama. ("Belajar menyapa dimulai dari rumah, bukan ruang kelas.")
-- Pengajar tetap: Sela (arsip), Sareth (resonansi), ibu Tamma (dapur — mata pelajaran wajib), Lompa (menenun), dan dua guru tamu baru: Renn-Ashvarok ("penghuni ganda", mata pelajaran: mendengar dua sisi sekaligus).
-
-Dan satu catatan penutup dari Renn sendiri — ditulis dengan huruf miringnya, disetujui Ashvarok dalam tiga detik:
-
-"Kalau murid luar bertanya kenapa belajar menyapa penting... jawabannya bukan teori. Jawabannya aku: anak yang delapan bulan silam hanya didengar batu, sekarang punya keluarga, sekolah, dan masa depan. Itu bukan kurikulum. Itu bukti."
+"Bagus. Aku takut kamu akan bilang tidak."
 
 ---
 
-Kedatangan 31 murid luar mengubah ritme Caldrest — dan memunculkan hal-hal yang tidak ada di panduan mana pun:
+Rapat berlangsung sampai sup pertama ibu Tamma kehilangan uap.
 
-Bahasa. Sembilan wilayah berarti sembilan logat, tiga bahasa tulis berbeda, dan satu murid Vel-Morra yang menulis namanya dengan aksara yang harus dibaca Lompa pelan-pelan ("ini aksara tenun, Nak — tiap huruf itu pola; nenek moyang dia menenun surat, bukan menulis").
+Brannoc menolak membuka semua kuota sekaligus. Ia mengetuk peta dengan jari yang kuku-kukunya retak oleh tambang. "Tiga puluh satu tamu berarti tempat tidur, penerjemah, dan jalur evakuasi. Kalau satu orang membawa perintah tersembunyi dari penguasanya, ia belajar letak setiap nat sebelum kita tahu siapa dia."
 
-Makanan. Keluarga angkat sementara berebut menu apa yang paling cocok untuk murid mereka — dan dapur ibu Tamma berubah menjadi laboratorium kuliner sembilan budaya. Sup Kamp Pertama mendapat saudara: sup Aru (asam, laut), bubur Kaveth (manis, gandum), dan satu resep Vel-Morra yang bahan utamanya... akar nat kering.
+"Kalau kita memperlakukan mereka sebagai penyusup," kata Sela, "mereka akan pulang membawa pelajaran pertama yang salah."
 
-"Akar nat?" Ashvarok menatap resep itu.
+"Kalau kita tak memeriksa mereka, bisa jadi tidak ada yang sempat pulang."
 
-"Katanya pohon di Tanah Tinggi tumbuh di atas nat purba," kata ibu Tamma. "Akarnya menyentuh batu seratus tahun. Rasanya..." Ia mencicipi. "...seperti sup yang ditenun."
+Sareth Vayin duduk di ujung meja. Guru tua itu membiarkan perdebatan mengitari dirinya sampai semua orang kehabisan kalimat yang sama. Baru kemudian ia mendorong mangkuk supnya yang belum disentuh.
 
-Dan tidur. Murid luar tidak biasa dengan hening malam Karvess — karena malam di wilayah mereka dipenuhi suara laut atau angin gunung. Maka nat-nat kecil, atas inisiatif sendiri, mulai "bernapas" pelan di malam hari: irama rendah yang meniru deburan ombak atau desah angin, sesuai kampung asal murid yang tinggal terdekat.
+"the Record Wardens punya syarat sebelum mengajarkan ilmu menjaga," katanya. "Calon murid harus pernah kehilangan sesuatu yang tidak dapat diganti. Kami menganggap kehilangan membuat seseorang berhati-hati."
 
-Kovan mencatat fenomena itu dan berkata kepada Ashvarok:
+Ibu Tamma mendecakkan lidah. "Kelaparan juga membuat orang berhati-hati. Supmu dingin."
 
-"Raja. Batu-batu itu menyesuaikan diri untuk murid baru. Tidak ada yang memerintahkan."
+Sareth mengangkat mangkuk, meminum seteguk, lalu melanjutkan. "Aturan itu tidak menyelamatkan ordo. Kami tetap menyimpan ilmu sampai yang tersisa hanya orang-orang yang pandai menyimpannya. Murid-muridku mati membawa pengetahuan yang tidak sempat diwariskan. Aku tidak akan mengulangi itu karena takut pada tiga puluh satu pasang sepatu asing."
 
-Ashvarok memandang lorong barak tempat nat-nat kecil bersuara lembut.
+Brannoc menyilangkan lengan. "Kau mengusulkan menerima semuanya?"
 
-"Delapan bulan silam kita pikir kita yang mengajari dunia mendengar," katanya. "Ternyata lebih dulu... dunia sudah belajar mendengarkan kita."
+"Aku mengusulkan mengubah pertanyaannya. Bukan apakah mereka layak belajar dari kita. Apakah pelajaran kita mampu hidup tanpa bergantung pada kita?"
 
----
+Ruangan diam. Dari dinding utara, nat aula berdetak rendah. Renn mengenali iramanya sebagai bunyi menunggu, bukan persetujuan.
 
-Kelas pertama angkatan 3 dibuka Renn-Ashvarok dengan pelajaran yang tidak ada di jadwal:
+Sela membuka lembar kosong. "Kalau mereka langsung masuk kelas, jawabannya belum. Mereka akan menyalin gerakan tanpa mengerti kebiasaan."
 
-Mereka membawa murid-murid luar keliling nat-nat kecil — dan meminta setiap murid menyapa SATU nat, dengan bahasa kampung halamannya masing-masing.
+"Maka jangan mulai dari kelas," kata ibu Tamma. "Taruh mereka di rumah-rumah. Suruh mereka mengupas akar, mengangkat air, mendengar pertengkaran keluarga, dan belajar bahwa tamu tetap harus mencuci mangkuknya sendiri."
 
-Murid Aru menyanyikan nyanyian nelayan. Murid Kaveth membacakan syair gandum. Murid Vel-Morra meletakkan tenunan kecil di atas nat dan diam.
+Brannoc menatapnya. "Itu kurikulum atau hukuman?"
 
-Dan semua nat menjawab — masing-masing dalam iramanya sendiri, tetapi semuanya hangat.
+"Tergantung seberapa kotor mangkukmu."
 
-"Ini pelajaran pertama," kata Ashvarok kepada para murid. "Tidak ada bahasa yang salah untuk menyapa. Yang salah hanya satu: tidak menyapa sama sekali."
+Tawa singkat memecah ketegangan, tetapi usulan itu tinggal di meja.
 
-Renn melanjutkan dari dalam, dan Ashvarok mengulanginya keras-keras:
+Renn meminta tangan. Ashvarok melepaskan kendali jari mereka, membiarkannya menulis sendiri di bagian bawah lembar Sela. Huruf anak itu miring dan beberapa kali bertabrakan.
 
-"Delapan bulan silam aku hanya didengar satu batu. Satu batu itu cukup untuk menyelamatkan hidupku. Sekarang kalian punya tujuh puluh tiga."
+Tinggal satu musim bersama keluarga Caldrest sebelum kelas pertama.
 
----
+"Kenapa satu musim?" tanya Sela.
 
-Neraca pekan pembukaan angkatan 3 — ditulis Kovan:
+"Karena orang bisa berpura-pura mendengar selama sehari," jawab Renn. "Sulit berpura-pura sebulan kalau tiap pagi orang yang sama bertanya apakah kamu tidur nyenyak."
 
-Hari 905. Murid: 51 (31 luar, 12 lokal, 8 pemulang). Keluarga angkat sementara: 31. Bahasa baru teridentifikasi: 9. Menu dapur baru: 4 resep. Nat yang belajar "bernapas" malam: 19.
+Ashvarok menambahkan, "Keluarga angkat boleh menghentikan masa tinggal jika merasa terancam. Murid juga boleh pindah rumah tanpa kehilangan tempat di sekolah. Keramahan yang tak bisa ditolak adalah penjara."
 
-Insiden: nol. Keluhan: satu (murid Aru kedinginan; diberi selimut tenunan Lompa; selesai).
+Brannoc membaca dua kalimat itu, lalu menghapus garis yang tadi ia tarik melintasi jalur Vel-Morra. "Dengan pemeriksaan di gerbang dan daftar tempat tinggal, aku setuju."
 
-Dan satu observasi penutup yang oleh Kovan ditulis dengan garis bawah:
+Sela menulis keputusan akhir: tiga puluh satu kuota luar, dua belas lokal, delapan pemulang. Kurikulum tetap berupa kegiatan nyata, bukan materi tulis. Sela mengajar arsip; Sareth, resonansi; Lompa, tenun dan pembacaan pola; ibu Tamma, dapur. Renn-Ashvarok mendapat pelajaran baru: mendengar dua sisi sekaligus.
 
-"Untuk pertama kalinya, Caldrest menjadi tempat yang didatangi orang — bukan tempat yang datang mendatangi masalah."
+"Nama mata pelajarannya buruk," kata Renn.
 
-Status kota: bukan lagi kota yang sedang memulihkan diri.
-Status kota: mercusuar.
+"Kita penghuni ganda," jawab Ashvarok. "Setidaknya bukan dua mata pelajaran."
 
----
+Di bawah daftar, Renn menambahkan satu catatan: Jika mereka bertanya kenapa menyapa penting, jangan beri teori. Tunjukkan orang yang selamat karena pernah disapa.
 
-Dan satu adegan terakhir pekan itu — di dapur, malam, setelah semua murid tidur:
-
-Ibu Tamma membagikan resep-resep baru ke empat tangan yang mau membantu menyalinnya ke buku dapur resmi: Sela, Thessa, dan Renn (Ashvarok mengawal dari dalam).
-
-Di halaman sup Aru, ibu Tamma menambahkan catatan:
-
-"Resep dari murid jauh. Asamnya jangan dikurangi walau aneh buat lidah Caldrest. Orang jauh itu seperti asam — kalau kita ubah dia jadi manis agar nyaman, kita bukan lagi menerima dia; kita mengganti dia."
-
-Sela membaca catatan itu dan diam lama.
-
-"Laporan ini akan masuk arsip resmi," katanya akhirnya.
-
-"Bukan laporan," jawab ibu Tamma, menutup buku dapur. "Itu pasal."
+Kali ini tak seorang pun menyunting tulisannya.
 
 ---
 
-Dan subuhnya, sebelum kelas kedua dimulai, satu pendaftar terakhir datang tanpa surat — berjalan kaki dari arah Tanah Tinggi Vel-Morra selama tiga pekan, membawa tenunan namanya sendiri (aksara tenun, ditulis Lompa dibaca: "AKU MAU BELAJAR MENDENGAR SEBELUM SUARAKU HILANG").
+Murid luar datang dalam tiga rombongan. Mereka membawa udara asal masing-masing pada pakaian: garam kering dari Aru, debu gandum Kaveth, dan bau akar pahit Vel-Morra. Caldrest yang terbiasa menerima orang terluka mendapati tugas baru yang lebih sulit—menerima orang sehat tanpa terlebih dahulu mencari bagian yang perlu diperbaiki.
 
-Ia anak perempuan Vel-Morra yang katanya wilayahnya "tidak mau berhubungan dengan siapa pun".
+Pada malam pertama, keluarga angkat terlalu banyak bertanya. Pada malam kedua, seorang murid Aru mengaku tak dapat tidur karena Karvess sunyi seperti perahu yang kehilangan laut.
 
-Ternyata yang tidak mau berhubungan adalah penguasanya — bukan rakyatnya. Dan gadis itu kabur membawa satu tenunan untuk mendaftar sekolah yang dia dengar ceritanya dari... nat-nat kecil di pegunungan, yang mendengar kabar dari nat-nat lembah, yang mendengar dari nat aula.
+"Sunyi membuat telingaku mencari bahaya," katanya kepada Renn di lorong barak. "Di rumah, ombak memukul tiang sepanjang malam. Kalau ombak berhenti, kami bangun."
 
-Rantai resonansi. Delapan bulan silam kita bangun jaringan batu bicara.
+Renn duduk di lantai di samping nat kecil. Batu itu dingin menembus kain celananya. "Di sini kami dulu bangun kalau batu mulai bersuara."
 
-Hari ini jaringan itu menerima pendaftar pertamanya yang berjalan tiga pekan hanya untuk didengar.
+"Lalu bagaimana kalian tidur?"
 
-Ia diterima. Tentu saja.
+"Kami belajar bunyi mana yang minta tolong dan bunyi mana yang cuma ingin ditemani."
 
-Lompa yang menandatangani penerimaannya, dengan kalimat yang dikutip seluruh sekolah:
+Murid itu menatap nat. "Bisa ajari batu ini suara ombak?"
 
-"Anak yang menenun permohonannya sendiri tidak pernah ditolak di mana pun."
+"Aku tidak tahu. Tanya sendiri."
 
----
+Ia ragu, lalu menempelkan telapak pada permukaan kasar. Dalam bahasa Aru, ia menyanyikan empat nada pendek. Nat menjawab terlalu cepat, bunyinya menyerupai ember jatuh.
 
-Neraca akhir bab — dua tangan:
+Murid itu tertawa. Ia mengulang nada dengan tempo lebih lambat. Nat mencoba lagi.
 
-Hari 912 (Ashvarok): Murid angkatan 3: 52. Yang paling muda: gadis Vel-Morra yang menenun permohonannya. Nama: Vessia Morra — dan ya, kami sadar kemiripannya dengan Vess-Morath; katanya itu nama leluhur yang sama. Dunia lebih kecil dari yang kita kira.
+Menjelang tengah malam, lorong berdenyut dalam rentang panjang dan pendek. Bukan laut, belum. Namun cukup dekat untuk membuat bahu murid Aru turun dari telinganya. Malam berikutnya, tiga nat lain ikut belajar. Di barak Kaveth, batu-batu meniru desah angin yang melewati ladang. Tidak ada guru yang memasukkan hal itu ke jadwal.
 
-Hari 912 (Renn): Delapan bulan silam aku hanya bocah tambang yang didengar satu batu. Hari ini ada anak yang berjalan tiga pekan untuk didengar sekolahku.
+Bahasa memberi kesulitan lain. Tiga sistem tulisan memenuhi meja arsip, sedangkan murid Vel-Morra menyerahkan nama dalam sebidang kain selebar dua jari. Lompa meraba simpul-simpulnya sebelum membaca.
 
-Kita tidak sedang membangun sekolah lagi, Kak Raja.
+"Setiap huruf adalah pola," jelasnya kepada Sela. "Kalau kau menyalinnya dengan tinta, kau hanya mendapat bayangannya."
 
-Kita sedang membangun alasan orang untuk tetap hidup.
+Sela menutup botol tinta. "Berarti arsip perlu kain."
 
----
+"Arsip perlu tangan yang sabar. Kainnya mudah."
 
-Dan malam harinya, satu adegan kecil di kelas kosong:
+Di dapur, perbedaan lebih cepat selesai. Ibu Tamma menolak mengurangi asam sup Aru meski separuh warga Caldrest meringis pada suapan pertama. Ia juga memasak akar nat kering dari Vel-Morra. Uapnya meninggalkan rasa logam di lidah dan aroma tanah basah pada rambut.
 
-Renn-Ashvarok kembali ke ruang kelas yang sepi, duduk di kursi ganda mereka, dan membaca papan tulis bekas pelajaran pertama. Di sudut papan ada tulisan murid Vel-Morra yang belum terhapus — aksara tenunnya, ditulis pelan dan rapi.
+"Ini seperti meminum dinding," kata Renn.
 
-Lompa sudah menerjemahkannya untuk buku arsip:
+"Dinding sudah menolongmu delapan bulan," sahut ibu Tamma. "Habiskan."
 
-"AKU TIDAK PERNAH PUNYA TEMAN YANG BISA DIAJAK BICARA. KALAU DI SINI ADA BATU YANG BISA BICARA... MOHON AJARI AKU CARA MENJADI ORANG YANG LAYAK DIBICARAKAN."
+Ashvarok mengambil alih mulut mereka untuk suapan kedua. "Rasanya membaik."
 
-Dua penghuni membaca itu lama.
+"Kamu bohong," kata Renn dari dalam.
 
-Lalu Renn berkata — dan Ashvarok membiarkan suaranya keluar apa adanya, kasar dan muda:
+"Aku sedang menjaga hubungan antarwilayah."
 
-"Dia tidak perlu jadi layak dibicarakan. Dia sudah layak sejak dia berjalan tiga pekan."
+Ibu Tamma meletakkan sendok kayu. "Orang jauh itu seperti asam. Kalau kita ubah menjadi manis supaya lidah kita nyaman, kita tidak menerima mereka. Kita mengganti mereka."
 
-Ashvarok menambahkan dari dalam, dan Renn mengulang dengan nada lain:
+Sela, yang sedang menyalin resep, membalik halaman dan menuliskan kalimat tersebut di bagian atas.
 
-"Dan kita akan pastikan dia tahu itu sebelum kelas berakhir."
+"Itu bukan resep," kata ibu Tamma.
 
----
-
-Keesokan paginya, sebelum kelas dimulai, gadis Vel-Morra menemukan sesuatu di mejanya:
-
-Tenunan kecil — pola sederhana, benang belum sempurna rapi, tetapi aksara tenunnya jelas dibaca Lompa untuknya di depan seluruh kelas:
-
-"KAMU SUDAH LAYAK. KAMU SELALU SUDAH.
-
-— Dua penghuni satu rumah, teman barumu"
-
-Gadis itu memegang tenunan itu sepanjang pelajaran pertama. Tidak meletakkannya sekali pun.
-
-Dan ketika Lompa bertanya kenapa tidak ditaruh di asrama yang lebih aman, jawabannya membuat seluruh kelas diam lama:
-
-"Kalau ditaruh, dia jadi barang. Kalau digenggam, dia jadi bukti."
+"Mulai hari ini, itu pasal."
 
 ---
 
-Dan penutup resmi bab — dari neraca Kovan, dengan margin yang ditulis ibu Tamma:
+Kelas pertama berlangsung di luar ruangan. Lima puluh satu murid berdiri tersebar di antara nat-nat kecil, canggung dengan tugas yang tidak memiliki jawaban benar.
 
-Hari 919. Vessia Morra: murid ke-52, diterima penuh. Tenunan "kamu sudah layak" kini digantung di dinding kelas — Lompa memutuskan "kalau digenggam terus, tangannya tidak akan pernah bekerja menenun; sekarang dia jadi milik semua murid yang butuh membacanya".
+"Pilih satu nat," kata Ashvarok melalui suara yang ia bagi dengan Renn. "Sapa memakai bahasa yang kalian gunakan saat takut. Bukan bahasa resmi."
 
-Margin ibu Tamma:
+Seorang murid Kaveth mengangkat tangan. "Bagaimana kalau batu tidak mengerti?"
 
-"Buku dapur halaman 41: resep sup akar nat Vel-Morra. Catatan pinggir dari aku: resep ini dibuat pertama kali untuk anak yang berjalan tiga pekan. Semua yang makan hari ini ikut memberi makan perjalanan itu. Selamat datang di dunia yang layak, Nak Vessia."
+"Kau mengerti semua bahasa di halaman ini?" tanya Renn.
+
+"Tidak."
+
+"Tetapi kau tahu mereka sedang mencoba bicara. Mulai dari sana."
+
+Nyanyian nelayan Aru terdengar lebih dulu. Syair Kaveth menyusul, pelan dan berirama seperti langkah di tanah lunak. Murid Vel-Morra meletakkan tenunan kecil di atas nat dan diam. Nat-nat menjawab dengan irama berbeda—ragu, patah, kadang meleset—tetapi tidak satu pun tetap dingin.
+
+Renn membiarkan kesunyian setelahnya bertahan. Delapan bulan sebelumnya, ia pernah menjadi suara tanpa tubuh yang hanya dikenali sebuah batu. Lima puluh satu murid kini menunggu penjelasan darinya.
+
+"Satu nat cukup untuk menyelamatkanku," katanya. "Kalian punya tujuh puluh tiga. Jangan habiskan waktu mencari sapaan sempurna. Sapaan yang terlambat tidak menolong siapa pun."
+
+Kovan mencatat pekan pembukaan: lima puluh satu murid, sembilan bahasa baru, empat resep baru, sembilan belas nat yang belajar bernapas pada malam hari. Nol insiden. Satu keluhan tentang dingin, selesai dengan selimut buatan Lompa.
+
+Di bawah angka-angka itu ia menulis: Caldrest kini didatangi orang. Kota ini tidak lagi hanya mengejar masalah ke tempat masalah bersembunyi.
+
+Catatan itu belum kering ketika penjaga gerbang memanggil mereka sebelum matahari terbit pada hari berikutnya.
+
+---
+
+Gadis yang berdiri di gerbang tidak membawa surat. Lumpur gunung mengeras sampai lututnya. Sol sepatunya terikat benang tenun, dan tangan kirinya menggenggam gulungan kain yang dilindungi di balik baju. Ia menolak duduk sebelum seseorang membaca kain itu.
+
+Lompa datang dengan napas pendek akibat berlari. Begitu gulungan dibuka, wajahnya berubah.
+
+"Namanya Vessia Morra," katanya. "Tulisan berikutnya: Aku mau belajar mendengar sebelum suaraku hilang."
+
+Sela memandang jalan kosong di belakang Vessia. "Di mana rombonganmu?"
+
+"Tidak ada."
+
+"Surat Vel-Morra menyebut satu murid, dan murid itu sudah tiba bersama rombongan kedua."
+
+Vessia menggenggam tepi mantelnya. "Surat itu milik penguasa. Permohonan ini milikku."
+
+Brannoc melirik dua penjaga, lalu kembali kepadanya. "Berapa lama kau berjalan?"
+
+"Tiga pekan."
+
+"Siapa yang memberitahumu tentang sekolah?"
+
+"Nat kecil di jalur gunung." Suaranya serak, tetapi ia tidak menunduk. "Mereka mendengar dari nat lembah. Nat lembah mendengar dari batu aula. Penguasa kami menutup jalan bagi manusia. Mereka lupa batu tidak memakai jalan."
+
+Ashvarok diam di dalam tubuh Renn. Jaringan resonansi dibangun untuk mencari orang hilang. Kini kabar melintasi batas yang dijaga tanpa membawa pasukan, izin, atau segel.
+
+"Kalau kami menerimamu," kata Sela, "Vel-Morra mungkin meminta kami memulangkanmu."
+
+"Kalau kalian memulangkanku, mereka tak perlu meminta."
+
+"Bukan itu pertanyaannya," potong Brannoc. "Apakah seseorang mengejarmu?"
+
+"Belum saat aku meninggalkan gunung. Setelah mereka menemukan alat tenunku hilang, mungkin."
+
+Jawaban itu mengubah gerbang menjadi keputusan politik. Sela meminta waktu untuk rapat. Vessia menggeleng.
+
+"Kalian mengajar orang mendengarkan, tetapi aku harus menunggu di luar sementara kalian bicara tentang suaraku?"
+
+Tak ada yang segera menjawab.
+
+Lompa mengambil papan penerimaan dari tangan Sela. "Anak yang menenun permohonannya sendiri tidak ditolak di hadapanku. Kalau Vel-Morra mengirim tuntutan, suruh mereka menulisnya di kain. Biar aku membaca apakah benangnya berbohong."
+
+Ia menandatangani ruang kosong, lalu menyerahkan pena kepada Vessia. Gadis itu tak mengambilnya. Sebagai gantinya, ia melepaskan seutas benang dari gulungan nama dan mengikatkannya pada papan.
+
+"Itu tanda tanganku," katanya.
+
+Sela memeriksa simpul tersebut. "Mulai hari ini, arsip menerima tanda tangan tenun."
+
+Brannoc menggerakkan dua penjaga ke jalur gunung, bukan untuk menangkap Vessia, melainkan mengawasi siapa yang menyusul. Keputusan penerimaan dibuat di gerbang. Konsekuensinya mulai berjalan pada saat yang sama.
+
+---
+
+Vessia tidur hampir sehari. Ketika bangun, ia meminta melihat kelas sebelum meminta makan.
+
+Di papan tulis, tangannya menyalin pola kain menjadi deretan garis dan simpul. Lompa membacanya untuk Renn-Ashvarok: Aku tidak pernah punya teman yang bisa diajak bicara. Kalau di sini ada batu yang bisa bicara, ajari aku menjadi orang yang layak dibicarakan.
+
+"Siapa bilang kau belum layak?" tanya Renn.
+
+Vessia menatap papan. "Di Vel-Morra, suara yang tidak diundang dianggap gangguan."
+
+"Di Karvess, suara yang tidak diundang mungkin tanda seseorang terlalu lama menunggu."
+
+"Itu aturan sekolah?"
+
+Ashvarok menjawab dari dalam, lalu membiarkan Renn mengucapkannya dengan suara mereka berdua. "Belum. Kau baru saja membantu kami menulisnya."
+
+Malam itu, Renn belajar membuat aksara tenun. Simpulnya terlalu longgar, garisnya bengkok, dan Ashvarok beberapa kali mengambil alih jari mereka sebelum Renn menyuruhnya berhenti membantu. Menjelang subuh, sepotong kain kecil tergeletak di meja Vessia.
+
+KAMU SUDAH LAYAK. KAMU SELALU SUDAH.
+
+— Dua penghuni satu rumah, teman barumu.
+
+Vessia membawanya ke pelajaran berikutnya. Lompa menyarankan agar kain itu disimpan di asrama supaya tidak rusak oleh hujan.
+
+"Kalau disimpan, ia jadi barang," jawab Vessia. Ia mengikatkan tenunan itu pada pergelangan tangannya, tepat di samping bekas lecet perjalanan. "Kalau kubawa, ia jadi bukti."
+
+Di luar jendela, nat kelas menyampaikan kabar baru dari jalur utara: tiga penunggang Vel-Morra baru saja melewati batas gunung.
+
+Vessia mengencangkan simpul pemberian Renn, lalu masuk ke kelas dan menutup pintu di belakangnya.

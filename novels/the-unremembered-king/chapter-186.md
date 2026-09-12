@@ -3,101 +3,216 @@ title: "Bab 186: Murid Pertama yang Dikoreksi Tamu"
 chapter: 186
 ---
 
-Tingkat dua Akademi Batu dimulai dengan enam murid — mereka yang lulus tingkat satu lebih cepat: Kovan (guru sekaligus murid; "guru boleh belajar," kata Sareth, "atau guru berhenti tumbuh"), Harn, janda Sarneth, pedagang garam tua, satu Shift Guard, dan ibu Tamma yang menolak pindah ke kelas lanjutan tetapi diam-diam sudah membaca tingkat dua sejak lama.
+Pada malam pertama tingkat dua the Stone Academy, Sareth Vayin melarang enam murid membawa buku catatan ke nat barat gudang perkakas.
 
-Materi pertamanya sederhana dan nyata: nat barat gudang perkakas — tempat kedalaman rutin mengetuk batu asah. Tugasnya: membaca peristiwa. Apa yang terjadi di nat itu, bukan bagaimana rasanya.
+Larangan itu langsung diprotes Kovan. Ia berdiri di depan bangku dengan tiga batang kapur masih mencuat dari saku, seorang guru tingkat satu yang kini harus duduk sebagai murid lagi. Di belakangnya ada Harn, janda Sarneth, pedagang garam tua, seorang Shift Guard, dan ibu Tamma yang bersikeras ia hanya datang untuk memastikan semua orang makan.
 
-Enam murid membaca selama sembilan malam. Hasil mereka berbeda-beda dan semuanya benar sebagian: Kovan membaca irama (rutinitas, ketepatan waktu), Harn membaca kesabaran (durasi berhenti yang memanjang tiap pekan), janda Sarneth membaca kerinduan (kualitas hangat di ujung sapuan).
+"Kalau tidak dicatat, bagaimana kami membandingkan bacaan?" tanya Kovan.
 
-Lalu pada malam kesepuluh, hal yang tidak masuk kurikulum terjadi.
+"Dengan mengingatnya."
 
-Murid termuda dalam kelompok lanjutan — anak pedagang garam, umur empat belas, yang membacanya terlalu cepat dan salah menekan telapaknya — mendapat jawaban dari nat itu: irama singkat yang tidak bisa disebut sapuan. Tajam. Pendek. Seperti orang mengoreksi.
+"Itu cara yang buruk untuk mengajar ketepatan."
 
-Sareth Vayin, yang mengawasi dari kursinya, bangkit pelan dan membaca ulang nat itu sendiri. Lama. Lalu tertawa kecil yang membuat semua murid menoleh.
+Sareth mengulurkan tangan. "Kalau begitu, serahkan kapurmu dan buktikan ingatanmu lebih baik daripada mulutmu."
 
-"Kalian diperhatikan," kata wanita tua itu. "Dia mengoreksi cara murid termuda menyentuh batu. Terlalu kasar." Ia memandang murid-muridnya satu per satu. "Dalam empat generasi ordo saya, tidak pernah ada tamu yang mengajar bersama guru. Malam ini Akademi Batu memiliki dua guru: saya, dan yang di bawah sana."
+Kovan menyerahkan ketiga batang itu. Ibu Tamma menaruh bungkusan kapurnya sendiri di telapak Sareth tanpa diminta.
 
-Ia kemudian melakukan hal yang akan dicatat Sela sebagai keputusan pendidikan terbesar abad ini: ia menjadikan umpan balik kedalaman bagian resmi penilaian. Setiap latihan murid dibaca oleh nat barat — dan irama jawabannya (tekan lembut = benar; tajam = ulangi) menjadi penilaian yang tidak bisa dimanipulasi siapa pun.
+"Saya cuma bawa untuk menulis daftar teh," katanya.
 
-"Batu tidak kenal nepotisme," kata Sareth kepada Ashvarok yang menyaksikan dari ambang. "Dan tidak kenal jabatan. Rajamu baru saja dikoreksi dua kali minggu ini."
+"Tentu."
 
-"Dua kali?" Ashvarok tersentak. "Kapan?"
+Nat yang dipilih Sareth membelah lantai dan naik setinggi lutut pada dinding barat. Bekas roda troli menghitamkan kedua sisinya. Dari celah itu tercium logam basah dan minyak batu asah, dan setiap beberapa menit getaran kecil naik ke telapak kaki. Kedalaman biasa mengetuk di sana ketika batu asah diputar pada pergantian shift. Semua orang di kelas telah mendengar iramanya. Justru karena akrab, nat itu berbahaya: mereka mudah membaca apa yang sudah mereka harapkan.
 
-"Kemarin, saat kau membaca terlalu cepat karena ingin sebelum hujan. Dan tiga hari lalu, saat kau menyentuh sambil pikiranmu di tempat lain." Senyum kering orang tua itu. "Dia mengenalimu sudah seribu tahun, raja. Dia tahu beda sentuhanmu yang jujur dan yang sibuk."
+"Tugas kalian bukan memberi nama pada perasaan," kata Sareth. "Baca peristiwa. Apa yang terjadi pada batu ini?"
 
-Ashvarok membuka Hourglass malam itu dan menulis entri dengan ironi yang sudah menjadi bahasa aslinya di Caldrest:
+Pedagang garam menyentuh lebih dulu. Belum sampai dua puluh hitungan, ia menarik tangan.
 
-Hari 361. Kabar pendidikan: tamu tua kita kini juga guru kedua Akademi Batu. Murid-murid dinilai oleh irama jawabannya. Dan aku — raja seribu tahun, pemegang the Walking Key — dikoreksi dua kali dalam seminggu oleh batu karena tergesa-gesa dan melamun.
+"Batu asah dipakai tiga kali hari ini."
 
-Komentar Sela di bawahnya, kapur kedua: "Sistem penilaian objektif akhirnya ada di Caldrest. Tidak ada yang bisa protes."
+"Itu dugaan dari jadwal gudang. Ulangi."
 
-Komentar ketiga, kapur ketiga (Barim): "DIA YANG MENGASUHI KITA SELAMA INI SECARA RESMI SEKARANG."
+Shift Guard bertahan lebih lama dan menyimpulkan roda terakhir diputar oleh orang bertangan berat. Janda Sarneth menemukan jeda yang memanjang di antara tiap putaran. Kovan membaca rutinitas yang sangat teratur, lalu mengubah jawabannya sendiri menjadi ketepatan waktu ketika Sareth menatapnya terlalu lama.
 
----
+Harn mendapat giliran terakhir. Anak itu berlutut, menempelkan telapak kanan, lalu segera mengangkatnya.
 
-Rapat tim inti memproses implikasi besar malam yang sama, dan kesimpulannya disusun Sela dalam tiga kalimat:
+"Dia tidak suka."
 
-"Satu: kedalaman kini berpartisipasi aktif dalam pendidikan Caldrest. Dua: itu berarti dia terikat pada masa depan murid-murid — tamu yang mengajar tidak biasa pergi. Tiga: dan itu artinya..." gadis itu menatap kakaknya, "...kalau suatu hari kita berhasil membuka segel dengan benar, dia sudah punya alasan untuk tetap dekat, bukan hilang ke kedalaman lagi."
+Sareth mengetuk tongkatnya sekali. "Siapa?"
 
-Ashvarok memandang adiknya — pencatat sebelas tahun (dua belas, musim berganti) yang baru saja merumuskan tujuan akhir seluruh cerita ini lebih ringkas daripada seribu tahun filosofi Hegemony:
+"Yang di bawah."
 
-"Kau baru saja menjawab pertanyaan yang membuatku jadi segel," kata Ashvarok pelan. "Seribu tahun silam aku pikir pilihannya hanya dua: dunia hancur atau aku dikubur hidup-hidup sebagai penutup. Kau baru tunjukkan pilihan ketiga." Ia menutup papan. "Tetangga. Tetap tinggal di rumah yang sama, saling menyapa tiap hari."
+"Itu juga perasaan. Peristiwanya?"
 
-Rapat ditutup ibu Tamma dengan teh dan satu putusan dapur: "Maka tugas kita semua sekarang sederhana. Jaga anak-anak akademi, jaga tamu tua, dan jaga rajanya supaya tidak mati duluan sebelum semua ini selesai." Ia memandang Ashvarok. "Terutama yang ketiga."
+Harn menatap nat seperti berharap garis itu menjawab dengan suara manusia. "Aku tidak tahu."
 
-Ashvarok membaca neraca tubuhnya sendiri di Hourglass malam itu — vein-scar kanan yang telah mencapai bahu, the Remainder yang berfluktuasi mengikuti musim kerja, dingin yang kini tetangga lamanya — dan menulis jawaban jujur untuk pertama kalinya, karena rapat ini bukan tempat menyembunyikan:
+"Bagus. Itu bacaan pertama yang sepenuhnya benar malam ini."
 
-Terutama yang ketiga. Kutahu. Dan untuk pertama kalinya aku tidak melawannya sendirian: ada dokter tambang dengan buku medisnya, Sela dengan jam pasirnya, Kovan dengan hitungannya, ibu Tamma dengan buburnya, dan tamu tua di bawah sana yang — kata Kovan minggu lalu — mulai mengirim irama tenang ke nat gudang setiap kali sapuan mendeteksi sakitku naik.
-
-Seribu tahun kesendirian, dan sekarang sampai kedalaman ikut menjaga kesehatanku. Kalau lima panglimaku melihat dari sana... mereka akan tertawa paling keras.
-
-Entri terakhir bab ini ditulis Sela esok paginya, kapur biru di halaman Hourglass yang sama, satu kalimat yang menutup semuanya:
-
-"Catatan pencatat: kakakku sekarang punya dokter, pencatat, penghitung, juru masak, dan kedalaman yang menjaga kesehatannya. Seribu tahun jadi segel tanpa satupun itu. Neraca kehidupan resmi mulai hari ini: DIA TIDAK SENDIRIAN."
+Mereka pulang tanpa jawaban. Kovan meminta kapurnya kembali; Sareth hanya mengembalikan satu.
 
 ---
 
-Sistem penilaian dua guru itu diuji langsung pada murid tersulit kelas: Harn.
-Anak Brannoc membaca batu dengan cara yang membuat kedua gurunya berselisih — Sareth menilai tekniknya kasar, Ashvarok menilai intuisinya luar biasa. Mereka membawanya ke nat barat untuk ujian objektif: kedalaman sendiri yang menilai.
-Jawaban nat itu, diterjemahkan Kovan, berbunyi: "Kasar. Namun jujur. Kasar bisa diasah. Jujur tidak bisa diajarkan. Terima dia."
-Brannoc — yang mendengar cerita itu malamnya di dapur — pura-pura tidak menangis dengan cara yang sama seperti ia pura-pura tidak bangga selama delapan tahun terakhir: "Ya sudah. Bagus. Cuci piring kamu sendiri mulai sekarang, orang besar."
+Selama sembilan malam, nat yang sama membuat enam murid semakin tidak yakin.
+
+Malam kedua, mereka membaca dengan mata ditutup. Malam ketiga, gudang dikosongkan dari perkakas agar bunyi rantai dan roda tidak menipu telinga. Malam keempat, Sareth menyuruh mereka datang satu per satu tanpa mengetahui bacaan murid sebelumnya. Jawaban mereka tetap berpisah: rutinitas, penantian, tekanan roda, sapuan kedalaman yang berhenti terlalu lama di satu titik.
+
+Pada malam keenam, Kovan membawa tabel meski kapurnya disita. Ia menggurat garis-garis dengan arang dari lampu.
+
+"Jeda bertambah seperempat napas setiap dua hari," katanya. "Ada perubahan terukur."
+
+"Ada," jawab Sareth. "Namun kau masih mengukur jawaban, bukan penyebab."
+
+"Kalau penyebabnya tidak bisa dibaca, jawaban adalah bukti terbaik."
+
+"Kalimat seperti itu yang membuat empat generasi ordo salah mengira kesedihan sebagai kerusakan batu."
+
+Kovan menghapus tabelnya dengan lengan baju. Ia tidak membantah lagi, tetapi malam berikutnya datang paling awal.
+
+Harn mengalami kegagalan yang berbeda. Ia selalu menemukan bagian terhangat dari sapuan, selalu tahu kapan kedalaman mendekat, lalu menekan telapak lebih keras seperti anak yang meninggikan suara kepada orang tua yang kurang jelas mendengar. Tiap kali itu terjadi, getaran di nat putus.
+
+"Kau mengejarnya," kata Sareth pada malam kedelapan.
+
+"Kalau tidak, dia pergi."
+
+"Mungkin dia pergi karena kau mengejar."
+
+"Orang dewasa selalu bilang tunggu kalau mereka belum punya jawaban."
+
+"Benar." Sareth duduk di lantai di sebelahnya, sendi lututnya berbunyi pelan. "Dan anak-anak selalu mengira cepat sama dengan berani. Kita berdua membawa kebiasaan buruk ke batu. Coba lagi."
+
+Harn menaruh telapak tanpa menekan. Sapuan datang, menyentuh, lalu surut.
+
+"Hampir," katanya.
+
+"Hampir apa?"
+
+"Hampir tinggal."
+
+Sareth tidak membenarkan ataupun menyalahkan. Ia hanya menyuruh Harn mengingat bagian itu.
+
+Malam kesepuluh turun bersama hujan abu tipis. Bau basah masuk dari halaman, bercampur debu besi gudang. Ashvarok berdiri di ambang bersama Sela, keduanya dilarang membantu. Sela memegang papan kecil di dada, sudah diberi hak mencatat karena ia bukan murid; Ashvarok tidak membawa the Walking Key. Sareth ingin kelas itu menyelesaikan pekerjaannya tanpa raja, untaian, atau harga yang dibayar tubuh Renn.
+
+Enam murid bergiliran. Bacaan mereka mulai bertemu: sesuatu berubah dekat titik tempat batu asah bertumpu; perubahan itu kecil, bertahap, dan membuat kedalaman kembali memeriksanya setiap malam.
+
+Harn berlutut terakhir. Ia menaruh telapak terlalu cepat.
+
+Nat menjawab.
+
+Satu hentakan tajam menusuk pangkal tangannya. Bukan sapuan panjang yang biasa mereka kenal, melainkan teguran singkat. Harn tersentak dan nyaris jatuh ke belakang.
+
+"Dia memukulku."
+
+"Tidak," kata ibu Tamma. "Kalau itu pukulan, kau sudah ada di klinik."
+
+Harn hendak menempelkan tangan lagi, kali ini dengan muka menantang. Sareth menahan pergelangannya.
+
+"Apa yang berubah sebelum jawaban datang?"
+
+Anak itu mengerutkan dahi. "Aku menyentuh lebih cepat."
+
+"Dan?"
+
+"Menekan."
+
+"Maka jangan lakukan keduanya."
+
+Harn mengembalikan telapak perlahan. Jari-jarinya terbuka, berat tangannya ditahan pada tumit telapak. Lama tidak ada apa-apa. Kovan sampai menahan napas. Lalu getaran lembut muncul di bawah jari tengah Harn, bergeser dua ruas ke kiri, berhenti, dan mengulang jalur yang sama.
+
+"Bukan batu asah," kata Harn.
+
+Sareth membungkuk. "Lanjutkan."
+
+"Di bawah dudukannya. Ada sesuatu yang terbuka saat roda diputar. Kecil sekali." Harn memindahkan satu jari mengikuti getaran, tetapi tidak mengejarnya ketika sapuan surut. "Dia bukan menunggu kita. Dia bolak-balik ke sini karena mau menunjukkan tempatnya."
+
+Kovan berlutut di sisi lain nat. Dengan izin Sareth, ia menyentuh batu dan membaca jalur yang baru ditunjukkan Harn. Ketika mengangkat tangan, arang dari tabelnya masih mengotori lengan.
+
+"Retakan mikro," katanya. "Di bawah baut barat. Tekanan roda membukanya sedikit demi sedikit."
+
+Shift Guard mengambil lampu dan perkakas. Mereka melepas batu asah dari dudukannya. Baut pertama utuh. Baut kedua berkarat tetapi masih menggigit. Di bawah baut ketiga, setelah minyak lama dikerik, muncul garis setipis rambut yang menjalar ke dasar lantai.
+
+Tak seorang pun bersorak. Bunyi hujan abu pada atap terlalu jelas di dalam gudang.
+
+Harn menatap garis itu, lalu telapak tangannya sendiri. "Dia sudah bilang sejak malam pertama."
+
+"Ya," kata Sareth.
+
+"Kenapa tidak bilang lebih keras?"
+
+Dari nat, satu hentakan tajam datang lagi.
+
+Ibu Tamma tertawa paling dulu. Kovan menutup muka dengan tangan berarang. Bahkan Sareth harus menoleh agar murid-muridnya tidak melihat sudut mulutnya bergerak.
 
 ---
 
-Pekan yang sama, Maera datang ke akademi dengan permintaan resmi Guild — dan permintaan itu menandai babak baru: "Assayers Guild ingin mengirim dua pemeriksa untuk belajar tingkat satu. Bukan untuk jadi pendengar. Supaya pemeriksa kami berhenti menilai tambang hanya dari angka." Ia meletakkan formulirnya. "Aku sudah isi formulirnya sendiri. Satu nama di dalamnya aku." Jeda. "Aku umur tiga puluhan dan baru mau belajar duduk diam. Jangan tertawa."
-Tidak ada yang tertawa. Kovan malah berkata kalimat yang membuat Assayer itu harus memandang ke lantai sebentar: "Duduk diam satu jam lebih sulit dari semua uji vein yang pernah saya lihat, Nona Tull. Selamat bergabung."
+Retakan itu tidak berbahaya malam itu. Dalam tiga pekan, tekanan roda akan memperpanjangnya sampai saluran air perkakas; dalam dua bulan, lantai barat bisa ambles dan membawa dua rak pahat bersamanya. Brannoc menutup bagian gudang sebelum pergantian shift pagi. Harn menulis laporan temuan pertamanya di meja mandor, sementara Maera memeriksa garis tersebut dengan mini weighing box dan membubuhkan pengesahan Guild.
+
+"Kau menemukannya sebelum alat saya," kata Maera.
+
+Harn memandang formulir, curiga pada setiap kolom. "Bukan aku. Dia."
+
+"Alat tidak menulis laporan. Pembaca menulis. Namamu masuk di sini."
+
+"Kalau namaku masuk, namanya juga masuk."
+
+Maera berhenti di kolom sumber temuan. Ia mencoret istilah pemeriksaan rutin, lalu menulis: laporan bersama murid the Stone Academy dan pendengar bawah.
+
+"Begini?"
+
+Harn membaca dua kali sebelum mengangguk. Hubungan yang selama ini hanya disebut tamu kini memiliki tempat pada kertas Guild, meskipun tempat itu cuma satu baris.
+
+Sareth membawa enam murid kembali ke nat setelah lantai diamankan. Kali ini kapur dibagikan. Di papan, ia menulis dua tanda: garis melengkung untuk tekanan lembut, garis patah untuk hentakan tajam.
+
+"Mulai malam ini," katanya, "setiap bacaan tingkat dua mendapat tanggapan dari dua guru. Saya menilai teknik kalian. Pendengar bawah menilai apakah kalian sungguh menyimak jawabannya. Tekanan lembut berarti teruskan. Hentakan tajam berarti ulangi dari awal."
+
+Pedagang garam mengangkat tangan. "Bagaimana kalau dia yang keliru?"
+
+Nat memberi satu hentakan tajam.
+
+"Pertanyaan sah," kata Sareth, tanpa menoleh ke lantai. "Karena itu bukti fisik tetap diperiksa. Kita tidak mengganti satu dogma dengan dogma lain. Namun kalau pembaca dan yang dibaca berbeda pendapat, pembaca wajib memeriksa kesombongannya lebih dulu."
+
+Ashvarok, masih di ambang, melipat tangan. "Aturan itu berlaku juga untuk guru?"
+
+"Terutama raja yang berdiri di pintu dan berharap tidak disebut murid."
+
+"Aku tidak berharap demikian."
+
+Hentakan tajam naik dari nat.
+
+Kali ini semua orang tertawa, termasuk Ashvarok. Sareth mencatat koreksi itu di papan sebagai contoh pertama sistem penilaian baru.
 
 ---
 
-Dan pada malam terakhir pekan itu, terjadi hal yang membuat seluruh Caldrest — bukan hanya akademi — berhenti sebentar: kedalaman mengirim irama baru yang belum pernah ada dalam kamus terjemahan Kovan. Irama itu panjang, rumit, dan Kovan butuh dua hari penuh menerjemahkannya dengan bantuan Sareth.
-Hasilnya ditulisnya di papan Hourglass dengan tangan yang tidak stabil:
-"Terjemahan lengkap. Dia bilang: dulu, sebelum semua nama dibakar, dia punya GURU juga. Seorang penjaga malam dari zaman pertama, yang mengajarinya cara menyimak manusia. Gurunya sudah tiada ribuan tahun. Dan hari ini, melihat kelas kita..." Ia berhenti membaca. "Kalimat terakhirnya: terima kasih sudah menjadi guru lagi. Aku hampir lupa bahwa aku pernah jadi murid. Ternyata masih ada bagian diriku yang senang belajar."
+Rapat tim inti malam itu dimulai dengan temuan retakan dan berakhir pada perkara yang lebih besar. Sela menyusun tiga baris di papan kecilnya: kedalaman mengenali kesalahan sentuhan; kedalaman memilih memberi tahu; kedalaman peduli apakah murid belajar.
 
-Ruangan gudang perkakas hening lama setelah pembacaan itu. Ashvarok menutupnya dengan satu kalimat yang ditulis pelan di Hourglass:
-Maka akademi ini punya tiga guru: Sareth untuk telapak, aku untuk untaian, dan The Patient House untuk hal yang tidak diajarkan keduanya — kesabaran sepanjang zaman.
+"Kak," katanya kepada Ashvarok, "tamu yang mau mengajar berarti dia punya urusan dengan hari esok."
 
----
+"Atau dia hanya tidak tahan melihat teknik buruk," jawab Ashvarok.
 
-Sisa pekan diisi hal-hal kecil yang justru paling menentukan masa depan akademi: pembuatan SERAGAM (ditolak seluruh murid; Sareth setuju dengan penolakan itu — "pendengar tidak butuh seragam, mereka butuh kaki yang tidak kaku"), penetapan uang saku murid dari anggaran kota (disetujui Hale tanpa debat), dan pembagian jadwal jaga malam bergilir — karena aturan baru akademi menyatakan bahwa setiap tingkat satu wajib ikut satu patroli pendengaran sebulan sekali, berpasangan, untuk membaca tambang hidup bukan hanya nat latihan.
+"Dua-duanya bisa benar." Sela menggarisbawahi baris ketiga. "Kalau segelnya suatu hari dibuka dengan benar, kita tidak perlu memilih antara menguburnya lagi atau membiarkannya pergi. Dia sudah punya murid di sini."
 
-Jadwal pertama memasangkan hal yang membuat seluruh Caldrest mengangguk-angguk: Harn dengan Maera Tull. Anak Brannoc dan Assayer Guild. Kekacauan dan prosedur. Brannoc mendengar kabar itu di dapur dan berkata hanya satu kalimat:
-"Kasihan nat-natnya."
-Lanjutan bab 186.
+Ashvarok memandang telapak kanan Harn yang masih merah oleh teguran pertama. Seribu tahun lalu ia membangun jawabannya dari dua pilihan: dunia hancur, atau seorang raja hidup sebagai penutup sampai namanya terkikis. Tidak ada akademi dalam hitungannya. Tidak ada anak mandor yang berani menuntut nama kedalaman dicantumkan pada laporan. Tidak ada tamu yang mengoreksi tekanan jari.
 
----
+"Tetangga," katanya. "Bukan tahanan. Bukan bencana. Tetangga yang memilih tetap dekat karena ada yang menunggunya besok malam."
 
-Patroli pertama Harn–Maera menghasilkan laporan yang kemudian dibacakan di rapat dan disimpan sebagai dokumen pendirian akademi. Isinya, selain data teknis (tiga nat pasif terdeteksi aktif kembali di kanal utara), ada paragraf penutup yang ditulis tangan dua orang bergantian:
+Ibu Tamma menuangkan teh ke enam cangkir murid dan satu cangkir tambahan yang diletakkannya di lantai dekat nat.
 
-Tulisan Maera: "Murid saya lebih berani dari saya dalam semua hal kecuali satu: dia masih takut pada angka produksi. Saya dulu juga begitu. Sekarang tidak lagi. Itu satu-satunya hal yang akademi ini berikan padaku sejauh ini, tetapi itu segalanya."
+"Kalau begitu jangan buat tetangga baru kita kerja tanpa makan," katanya.
 
-Tulisan Harn, dengan tulisan tangan besar-besar anak tambang: "Nona Assayer salah sebut nama nat terus. Namun dia tetap datang tiap minggu dan tidak pernah nyerah. Kalau itu bukan definisi pendengar, aku tidak tahu apa."
+"Dia tidak minum teh," kata Kovan.
 
----
+"Kamu juga tidak kalau terus membantah."
 
-Ashvarok menutup bab ini dengan entri Hourglass yang merangkum semuanya:
-Hari 366. Neraca pekan: satu murid diterima atas perintah kedalaman sendiri, dua pemeriksa Guild mendaftar kelas malam, satu patroli baru berdiri, dan satu laporan yang membuatku membaca ulang tiga kali.
-Seribu tahun aku memerintah dengan dekrit. Delapan belas bulan terakhir aku belajar bahwa dunia bisa diubah juga dengan jadwal patroli, uang saku anak-anak, dan laporan yang ditulis dua tangan.
-Yang kedua ternyata bekerja lebih cepat.
+Rapat menyetujui tiga keputusan: tanggapan kedalaman menjadi bagian resmi tingkat dua; semua temuan tetap wajib diverifikasi tangan dan alat; murid berhak menghentikan pembacaan kapan pun tubuh atau batu memberi tanda sakit. Tidak ada seragam, gelar baru, atau upacara. Sareth menolak ketiganya sebelum diusulkan.
 
-Sisa dua puluh dua kata untuk hal terakhir — dan paling penting: sebelum tidur, Ashvarok lewat ke dapur, mengetuk meja tiga kali sebagai kode keluarga yang baru saja ditemukan Sela punya makna lebih dalam dari yang mereka kira, dan ibu Tamma menjawab tanpa menoleh:
-"Ada. Selalu ada. Pergi tidur."
+Ashvarok membuka Hourglass dan menulis:
+
+Hari 361. Murid pertama tingkat dua menemukan retakan mikro yang kami lewatkan karena ia akhirnya berhenti memaksa batu menjawab. Pendengar bawah mengoreksi tangannya, lalu mengoreksi rajanya. the Stone Academy sekarang memiliki guru kedua yang tidak dapat disuap, diangkat, atau dibuat terkesan oleh jabatan.
+
+Barim, yang datang terlambat setelah ronda, membaca entri itu dan menambahkan dengan kapur lain: DIA YANG MENGASUHI KITA SELAMA INI SEKARANG PUNYA KELAS RESMI.
+
+Sela menulis di bawahnya: Dan punya alasan tinggal.
+
+Menjelang tengah malam, murid-murid meninggalkan gudang satu per satu. Harn bertahan paling akhir. Ia menempelkan telapak dengan tekanan yang benar, menunggu sapuan mendekat, lalu mengetuk tiga kali pada batu.
+
+"Besok aku coba lagi," katanya.
+
+Dari bawah baut baru yang menutup retakan, tekanan lembut menjawab sekali dan tinggal di telapaknya sampai lampu terakhir dipadamkan.

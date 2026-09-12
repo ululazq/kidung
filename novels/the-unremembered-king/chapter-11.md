@@ -3,114 +3,312 @@ title: "Bab 11: Dua Pembaca"
 chapter: 11
 ---
 
-Maera Tull menemukannya pada hari ketiga belas, di titik yang oleh Ashvarok sudah dihitung sebagai kemungkinan kedua paling mungkin. Lorong sembilan bawah, tempat survei kedalaman mengambil sampel, tempat anak dasar ditugaskan membantu angkut kotak alat assayer karena tidak ada yang lain mau.
+Pada hari ketiga belas, gagang kotak survei menggesek telapak Ashvarok sampai kulitnya panas.
 
-Ia sudah mempersiapkan pertemuan ini dua malam — bukan isinya, yang selalu bisa disiapkan di jalan, melainkan pilihannya. Bertemu sebagai musuh potensial atau sebagai pasar. Musuh potensial lebih aman dan lebih mahal. Pasar lebih berbahaya dan lebih murah. Ashvarok sudah seribu tahun hidup dengan memilih yang mahal. Mungkin sudah waktunya mencoba portofolio baru.
+Maera Tull berjalan empat langkah di depan. Lampu di helmnya menyapu lorong sembilan bawah, menangkap bekas pahat, paku penyangga, dan serbuk cinder-glass yang melekat seperti jelaga basah. Ia membawa tas kulit tipis. Semua benda berat diserahkan kepada Renn.
 
-"Kau tahu batu," kata Maera tanpa pembuka, menurunkan kotak kayunya ke batu datar dan membuka kuncinya dengan gerakan orang membuka rumah sendiri. "Brannoc bilang kau bisa lihat retakan sebelum retakannya jadi."
+Tubuh lima belas tahun memang berguna untuk membuat orang lain merasa berhak memberinya beban.
 
-"Brannoc bicara banyak."
+Mereka melewati dua pekerja yang sedang memasang rusuk penyangga. Setelah tikungan terakhir, bunyi palu meredup. Ruang sampel survei menempel pada dinding lorong, sempit dan kering, dengan meja batu serta rak inti bor. Maera masuk, lalu menarik palang kuningan melintasi pintu.
 
-"Brannoc tidak bicara sama sekali. Itu kenapa aku bayar dia tiga pertanyaan." Ia mengeluarkan dari dalam kotak. Timbangan mini, satu set inti bor dalam kain, lilin ungu, dan terakhir — keping cinder-glass sebesar telapak tangan yang permukaannya dipoles seperti cermin buruk. "Kau pernah lihat alat begini?"
+Ashvarok meletakkan kotak di meja.
 
-"Bacaan resmi pakai alat," kata Renn. "Aku hanya anak tungku."
+"Palang itu untuk debu?" tanyanya.
 
-"Maka ini latihan. Aku butuh pembanding." Maera meletakkan keping cermin itu di antara mereka, permukaannya memantulkan lampu tambang menjadi garis kuning tipis. "Aturan mainnya sederhana. Aku pegang satu inti bor, aku membaca dengan cara Guild, aku tulis hasilnya dan tidak tunjukkan. Kamu membaca dengan cara kamu, tulis di debu. Kalau hasilnya cocok, kamu dapat upah bantu resmi untuk sisa survei — tarif tinggi, dicatat legal. Kalau tidak cocok—"
+"Untuk orang yang suka membantu tanpa diminta."
 
-"Tidak cocok bagaimana? Aku anak tungku. Tidak ada yang bisa mendakwa anak tungku soal bacaan."
+"Brannoc menyebutnya mengawasi."
 
-"—maka aku punya jawaban untuk pertanyaan yang selama ini mengganggu saya," lanjut Maera, seolah tidak didengar, "tentang kenapa satu-satunya saksi hidup lorong tujuh menjawab semua pertanyaanku dengan struktur kalimat seorang assayer."
+"Brannoc tidak ada di sini."
 
-Tambang berdengung di sekitar mereka. Air formasi, gemuruh troli jauh, napas panas pipa ventilasi. Ashvarok menimbang lantai yang tersedia, dan menemukan bahwa lantai yang tersedia sebenarnya menarik. Junior assayer ini tidak melaporkannya ke Tharrow — jika ia mau, kesepakatan itu sudah lewat surat resmi. Ia datang sendirian, ke kedalaman, membawa aturan main. Orang yang datang sendirian bukan sedang menyidik; orang yang datang sendirian sedang berdagang.
+Maera membuka kotak. Di dalamnya ada tiga inti bor sepanjang lengan bawah, masing-masing dibungkus kain minyak dan diberi segel lilin Guild. Ia menyusunnya sejajar. Kapur putih, timbangan pegas, jarum dengar, dan sebuah palu kecil menyusul di sampingnya.
 
-"Satu syaratku," kata Ashvarok. "Hasil bacaanku yang cocok, kau tulis di laporanmu sebagai 'perkiraan foreman Brannoc'. Nama saya tidak masuk kertas mana pun."
+Tidak ada formulir wawancara.
 
-"Kenapa?"
+Maera mengunci tas kulitnya, menyimpan kunci di saku, lalu menatap Ashvarok.
 
-"Karena nama di kertas itu alamat," kata Ashvarok. "Aku tidak ingin dilamat siapa pun."
+"Tadi pagi kamu menjawab pertanyaanku seperti orang yang sudah membaca laporan sebelum laporan itu ditulis."
 
-"Semua orang di tambang ini dilamat setiap hari. Kuota, pajak, kontrak." Maera menyusun inti bor pertama di atas kain seperti perawat menata alat bedah. "Namun baiklah. Aku paham satu jenis ketakutan kalau lihat satu. Syaratku: kebohonganmu jangan sampai membuat laporan survei saya salah. Kalau salah karena kamu, aku batal, dan kamu jadi cerita yang kubawa pulang ke Spire."
+"Aku menjawab yang kutahu."
 
-"Sepakat."
+"Dan menjatuhkan toples pada saat yang sangat tepat."
 
-Sesuatu yang sangat kecil bergerak di wajah Maera Tull — bukan senyum. Lebih mirip penjual yang menemukan pembeli membawa uang jenis yang belum pernah dilihatnya. Ia menyodorkan inti bor pertama.
+"Lantai licin."
 
----
+"Lantainya kering."
 
-Mereka bekerja satu jam, dan satu jam itu adalah percakapan terlama yang pernah Ashvarok jalani tanpa satu kata pun benar-benar diucapkan.
+Ashvarok mengangkat bahu. Gestur Renn tampak lebih meyakinkan daripada bantahan.
 
-Inti pertama. Maera memegangnya sepuluh detik, mata menghitung sesuatu yang tidak kasat, lalu menulis. Ashvarok membacanya dengan telapak tangan dan ketukan, menulis di debu. Usia normal, gema rata, aman. Maera membuka catatannya dan menulis hasil pembacaannya sendiri. Angkanya sama persis. Keduanya saling melihat, dan tidak ada yang berkomentar apa pun, karena komentar akan mengubah ini dari pengukuran menjadi pertandingan.
+Maera menyentuh inti bor pertama. "Tiga sampel. Aku sudah mencatat pembacaanku. Kamu membaca tanpa alat. Kalau hasilmu cocok, aku anggap itu kebetulan yang berguna. Kalau lebih baik, kita membicarakan lorong tujuh tanpa sandiwara."
 
-Inti kedua memicu perselisihan pertama.
+"Kalau lebih buruk?"
 
-Ashvarok membaca, mengetuk, mendengarkan dengan seluruh kulit telapaknya, dan menulis di debu: retak halus dalam, jangan dibor lebih dari setengah hasta. Maera membuka catatannya dan menggeleng.
+"Kamu kembali mengangkut kotak."
 
-"Struktur utuh. Layak bor sampai dua hasta."
+Ia mendorong inti pertama ke tengah meja.
 
-"Satu setengah."
+Batuan abu-abu itu dipotong dari lapisan biasa. Garis pucat membelahnya miring, tipis seperti goresan kuku. Ashvarok menempelkan dua jari. Dingin batu masuk ke kulit, disusul getar halus dari pekerjaan jauh di atas. Ia menutup bunyi itu dari perhatian dan mengikuti tekanan yang tersimpan di dalam sampel.
 
-"Dua." Ia menunjukkan catatannya, dan di atas kertas itu ada angka-angka Guild yang sudah berumur prosedur seratus tahun. "Instrumen saya tidak membaca retakan halus di bawah toleransi. Tidak ada yang tercatat."
+"Resonant seam rendah," katanya. "Stabil. Sedikit cinder-glass di sisi yang tidak ditandai. Tidak cukup untuk ditambang."
 
-"Instrumenmu tidak salah," kata Ashvarok. "Dia hanya tidak diajari takut." Ia bangkit, membawa pahat dan palu kecil dari kotak alat survei, dan menunjuk titik pada dinding dekat lokasi inti kedua diambil. "Boleh? Satu ketukan."
+Maera tidak berubah wajah. Ia membalik inti. Setitik hitam mengilap muncul di dekat dasar.
 
-Maera menimbang dua detik. "Lakukan."
+"Kedalaman?"
 
-Satu ketukan — dan garis retak halus sepanjang dua hasta menjalar dari titik itu seperti akar mencari air, tepat mengikuti jalur yang Ashvarok tulis di debu, berhenti tepat sebelum batu datar tempat mereka bekerja. Debu turun pelan dari garis itu. Maera menatap retakan barunya, lalu catatannya sendiri, lalu menghapus satu angka dan menuliskan angka lain dengan tekanan pena yang lebih keras dari biasanya.
+"Dua puluh tiga hasta dari muka lorong saat diambil."
 
-"Instrumen tidak membaca retak halus di bawah toleransi," katanya akhirnya, tanpa nada kalah maupun menang — nada orang yang baru memperbarui tabel. "Itu catatan biaya komisi yang harus kutulis, 'metode taktil perlu ditambahkan.' Kau bahaya buat anggaran Guild."
+"Dua puluh dua setengah."
 
-"Aku hanya murah."
+"Bor mengikis setengah hasta sebelum inti utuh masuk tabung."
 
-Inti ketiga mulai berbeda lagi — kali ini searah. Ashvarok membaca lebih lama, lalu menulis di debu. Gema tua tetapi jalurnya dipotong. Ada bekas sayatan. Maera membuka catatannya, membacanya dua kali, dan untuk pertama kali pagi itu ia menghapus satu kata sebelum diganti.
+Maera membuka lipatan kertas kecil di bawah segel. Angka yang tertulis di sana membuat mulutnya diam satu ketukan lebih lama.
 
-"Kamu bilang dipotong," katanya. "Alat Guild bilang anomali resonansi tak terjelaskan. Kata 'potong' butuh pelaku."
+"Dasar bersama," katanya. "Belum kemenangan."
 
-"Anomali butuh pelaku juga. Hanya malas disebut namanya."
+Ia mengganti sampel.
 
-"Lorong sembilan bawah." Maera tidak bertanya. Ia menandai lokasi di peta lipatnya, tepat di titik yang sudah ditandai sebelumnya, dan Ashvarok mencatat ada dua lingkaran tinta di situ sekarang. "Dan lorong tujuh sebelumnya. Kau tahu apa yang kupikirkan, anak tungku?"
+Inti kedua berwarna lebih gelap. Empat garis kapur mengitari permukaannya. Bekas jarum Guild membentuk lubang-lubang kecil dengan jarak teratur. Ashvarok tidak langsung menyentuhnya.
 
-"Banyak kemungkinan."
+"Bacaanmu?" tanyanya.
 
-"Saya pikirkan: entah tambang ini punya penyakit, atau tambang ini punya dokter." Mata itu naik dari peta, lurus, tenang. "Dan kedua-duanya datang malam-malam tanpa izin."
+"Aturannya kamu lebih dulu."
 
-Hening panjang. Di kedalaman empat puluh hasta, di bawah kaki mereka, retakan itu berdenyut sinkron dengan detak jantung tubuh pinjaman ini, dan Ashvarok mendapati dirinya berdiri di persimpangan yang jarang. Di hadapan satu-satunya orang di Caldrest yang bisa membuktikan teori mana yang benar, yang menawarkan perdagangan setara, yang belum pernah berbohong padanya — hanya karena belum sempat.
+"Berarti kamu tidak yakin."
 
-"Kalau aku beri satu data," kata Ashvarok pelan, "yang tidak bisa kamu dapat dari alatmu — kamu tukar apa?"
+"Berarti aku mengenali usaha menawar."
 
-"Data apa?"
+Ashvarok menempelkan kuku ibu jari pada salah satu garis kapur. Getar batu terasa padat pada permukaan, tetapi ketegangan di bagian dalam tidak menyebar rata. Ada celah sempit yang berhenti tepat sebelum kulit inti, tertutup oleh tekanan dari dua arah. Bor telah memotong sepanjang retakan, bukan melintasinya. Sampel tampak utuh karena mata melihat sisi yang salah.
 
-"Ada irama di kedalaman. Tiga detik tarik, tiga detik diam. Alatmu pasti sudah nyaris menyambarnya tetapi kehilangan ritme karena sampelnya kecil. Aku bisa tunjukkan titik ukurnya. Titik yang membuat irama itu kelihatan."
+"Batas amanmu terlalu dalam," katanya.
 
-Maera Tull tidak bergerak selama waktu yang cukup lama bagi gemuruh troli untuk datang dan pergi dua kali. Lalu ia berkata:
+Maera menyilangkan lengan. "Berapa?"
 
-"Tukarnya. Laporan surveiku tentang lorong tujuh, versi asli sebelum difilter Tharrow, masuk arsip Guild sebagai lampiran komisi — dengan namamu di dalamnya, tetapi di halaman yang tidak dibaca siapa pun. Perlindungan arsip. Tidak ada yang bisa memanggilmu bersaksi atas dokumen yang tidak dibaca."
+"Enam hasta."
 
-"Arsip Guild bisa dibeli."
+"Pembacaan Guild sembilan."
 
-"Semua arsip bisa dibeli. Namun lampiran komisi kedalaman harus dirujuk utuh tiap kali survei berikutnya dibuka — membelinya berarti membeli seluruh riwayat komisi, dan itu mahal bahkan untuk jubah abu." Maera mengulurkan tangannya di atas debu, menunggu. "Kau tahu tentang jubah abu."
+"Kalau kamu menggali sembilan, lapisan ini membuka pada tujuh."
 
-"Aku tahu lilinnya."
+"Inti itu tidak retak."
 
-"Pertukaran, maka. Data muat di kepala, nama muat di arsip." Tangan itu tetap terulur. "Kita tidak berteman, ya. Kita saling berguna. Itu lebih tahan lama."
+"Sudah. Retaknya belum punya ruang."
 
-Ashvarok menatap tangan itu — tangan junior assayer yang membawa kotak kayu terikat terpisah, yang membayar foreman tua dengan tiga pertanyaan, yang menyelundupkan satu inti bor keluar dari kotak buktinya sendiri, karena ia juga menyimpan sebagian kebenaran untuk dirinya.
+Maera mengambil jarum dengar dan menempelkannya pada batu. Ia menggeser ujung logam dari garis pertama ke garis keempat. Wajahnya tetap tenang. Tangannya mengulang jalur kedua kali.
 
-Ada dua jenis orang di dunia ini, menurut pengalaman seribu tahun yang jarang salah: orang yang ingin tahu supaya bisa memakai, dan orang yang ingin tahu supaya bisa tidur. Yang pertama berbahaya sampai dibeli. Yang kedua berbahaya karena tidak pernah bisa dibeli — tetapi bisa diajak bekerja, dan pekerjaannya selalu benar.
+"Jarum tidak menangkap rongga."
 
-Ia menjabat.
+"Karena itu bukan rongga."
 
-"Titik ukurnya kutunjukkan besok," kata Ashvarok. "Dan Maera — kalau suatu hari kau menemukan siapa yang memotong seam ini, jangan tulis namanya duluan. Tulis siapa yang untung."
+Ashvarok mengangkat inti, memutarnya seperempat lingkaran, lalu menunjuk dinding timur ruang sampel. Lapisan di sana berasal dari jalur yang sama; tanda nomor bor masih tercetak merah dekat lantai.
 
-"Kau bicara seperti orang yang sudah pernah kalah sama kertas."
+"Ketuk di bawah paku ketiga."
 
-"Aku hanya rajin membaca," kata Ashvarok, mengulang kebohongan favoritnya, "dan rajin lihat."
+"Kamu yang membaca. Kamu yang ketuk."
 
-Maera membungkus kotaknya, memasukkan inti-inti itu satu per satu dengan urutan yang sama seperti keluar, dan di ambang menutupnya berkata, tanpa menoleh:
+Palu kecil terlalu ringan. Ashvarok mengambil gagangnya dekat kepala, berjongkok, dan memukul dinding sekali. Bunyi tajam memantul. Ia bergeser selebar dua jari, lalu mengetuk dua kali lagi dengan tenaga sama.
 
-"Satu lagi. Gratis, karena kamu murah. Klien kedua technical reader minggu ini — foreman lubang sewaan distrik barat — dia datang ke saya kemarin, minta diverifikasi bacaan 'anak tambang' tentang lorongnya yang katanya akan amblas enam puluh hari." Kunci kotak itu berbunyi klik. "Aku verifikasi. Dia benar akan amblas. Aku tidak menulis kapan."
+Ketukan kedua terdengar tumpul.
 
-Pintu ruang sampel tertutup setelah assayer itu keluar, dan Ashvarok berdiri sendirian di lorong sembilan bawah dengan dua kebenaran yang duduk berdampingan di dadanya. Pertukaran pertama sudah terjadi, dan junior assayer itu baru saja membayar lebih mahal daripada yang ia tahu — karena dengan menyembunyikan angka enam puluh hari dari laporan resmi, Maera Tull baru saja melakukan dosa pertamanya untuk kepentingan orang yang belum dia kenal.
+Pada ketukan ketiga, garis hitam muncul di bawah paku penyangga. Debu tipis merembes keluar. Retak itu berlari sejengkal, berbelok mengikuti urat batu, lalu berhenti. Tidak ada runtuhan. Hanya sekeping serpih sebesar kuku yang jatuh ke lantai.
 
-Ashvarok pernah melihat jalur itu sebelumnya, seribu tahun silam, pada lima orang yang akhirnya memilih mati menahan pintu untuk dunia yang tidak pernah mencatat nama mereka.
+Maera berlutut tanpa menyentuh retakan. Ia mengangkat lampu helm, memeriksa arah debu, kemudian mencoret angka pada kertasnya.
 
-Dia mengangkat kotak alat survei dan mulai naik ke permukaan, sambil mulai menghitung ulang, kali ini dengan hati-hati, berapa jauh dirinya bersedia membiarkan orang lain dekat dengan kebenaran yang sama. Angka itu, seperti kebiasaan lama yang menolak mati, tidak akan ia tulis di mana pun.
+"Enam setengah," katanya.
+
+"Enam."
+
+"Batas kerja memerlukan jarak aman."
+
+"Batas kerja memerlukan angka yang benar sebelum jarak aman ditambahkan."
+
+Maera menatapnya. "Kamu selalu sekeras ini pada orang yang baru mengakui kesalahan?"
+
+"Hanya pada orang yang membawa segel."
+
+Ia memasang tanda kapur merah di bawah paku ketiga. Satu garis pendek. Tidak ada permintaan maaf. Ashvarok lebih menghargai koreksi yang benar daripada penyesalan yang indah.
+
+Sampel ketiga diletakkan di meja.
+
+Batu itu pucat, hampir putih. Tidak ada kandungan berharga. Salah satu ujungnya pecah kasar, sedangkan ujung lain dipotong rapi oleh mata bor. Ashvarok menyentuh permukaannya dan segera menemukan sesuatu yang tidak dibuat tekanan bumi.
+
+Jalur gema di dalam batu berakhir datar.
+
+Bukan retak. Bukan rongga. Seseorang telah menyayat lapisan resonan dengan alat sempit, lalu membiarkan tekanan menutup bekas masuknya. Seperti urat yang diputus dan disembunyikan di bawah kulit.
+
+"Ada potongan," katanya.
+
+"Di mana?"
+
+"Tiga jari dari ujung patah. Miring ke bawah."
+
+"Alamiah?"
+
+"Kamu sudah tahu bukan."
+
+Maera mengambil kapur biru dan menarik garis mengikuti sudut yang ia sebutkan. Garis itu bertemu tanda kecil yang nyaris hilang di sisi belakang sampel.
+
+"Apa yang bisa memotong jalur gema tanpa memecah inti?" tanyanya.
+
+"Alat yang dibuat untuk menyentuh tekanan, bukan batu."
+
+"Siapa yang punya?"
+
+"Kamu menguji pembacaanku, bukan daftar musuhku."
+
+"Jawaban itu berarti daftarnya ada."
+
+"Pertanyaanmu berarti Guild juga punya."
+
+Mereka membiarkan nama tetap tidak terucap. Di Caldrest, nama yang diucapkan terlalu cepat sering tiba di telinga yang membayarnya.
+
+Maera membungkus inti ketiga. Kali ini ia tidak mengembalikannya ke kotak. Ia memasukkannya ke tas kulit tipis dan mengunci gesper.
+
+"Sekarang lorong tujuh," katanya.
+
+Ashvarok berdiri dengan punggung ke meja. Pintu tetap dipalang. Dari luar terdengar gerobak lewat, rodanya menghantam sambungan rel tiga kali, lalu menjauh.
+
+"Apa tentang lorong tujuh?"
+
+"Kamu mendengar bunyi rendah. Semua bunyi lain hilang. Irama tiga detik. Sesudah runtuh, ingatanmu kabur, tetapi jawabanmu tersusun berdasarkan urutan sebab." Maera mengangkat satu jari untuk tiap bagian. "Saksi yang bingung tidak memilah bukti dari tafsir. Pembaca melakukannya."
+
+"Aku bekerja di tambang."
+
+"Pekerja tambang bilang dinding bernapas. Kamu memberiku selang waktu."
+
+"Maera Tull datang dari Guild untuk memperdebatkan pilihan kata seorang bocah tungku?"
+
+"Aku datang karena laporan pertama lorong tujuh berubah tiga kali sebelum sampai ke mejaku."
+
+Itu pembayaran kecil, sengaja diletakkan agar ia membalas.
+
+Ashvarok tidak mengambilnya langsung. "Bagian mana?"
+
+"Waktu hening dipendekkan. Posisi pekerja dipindah. Bunyi berirama menjadi gesekan penyangga."
+
+"Siapa yang mengubah?"
+
+"Salinan terakhir melewati kantor Kel Tharrow."
+
+Bukan jawaban, tetapi batas jawaban. Maera bersedia menunjuk jalur, belum tangan.
+
+"Dan salinanmu?" tanyanya.
+
+"Masih punya bekas angka awal."
+
+"Masih?"
+
+"Selama belum diperiksa orang berjubah abu."
+
+Lampu di helm Maera membuat retak baru di dinding tampak lebih hitam. Ashvarok mengingat catatan yang terlalu bersih, petugas yang mendengar tanpa bertanya, dan orang-orang yang membeli ketidaktahuan dengan harga lebih murah daripada membeli tambang.
+
+"Apa yang kamu mau?" katanya.
+
+"Titik tempat irama itu paling kuat."
+
+"Untuk laporan?"
+
+"Untuk mengukur kedalamannya."
+
+"Lalu laporan."
+
+"Kalau ukurannya dapat diulang."
+
+Ashvarok mengetuk meja dengan satu kuku. Tiga detik. Ketukan kedua. Tiga detik. Maera tidak melihat tangannya; ia melihat wajah Renn.
+
+"Ada tempat di bawah sambungan lorong tujuh," katanya. "Bukan lokasi runtuh. Dua belas langkah dari penyangga bercap lama. Tempelkan jarum ke sisi utara saat pergantian pompa. Kamu akan mendapat irama dari bawah jalur tambang."
+
+"Seberapa bawah?"
+
+"Itu bagian yang kamu ukur."
+
+"Dan kalau tidak ada apa-apa?"
+
+"Kamu tetap punya tiga inti bor dan seorang pengangkut kotak."
+
+Maera mendekati pintu, tetapi belum mengangkat palang. "Laporan asli lorong tujuh bisa kumasukkan sebagai lampiran komisi kedalaman. Utuh. Nomor berkasnya akan terikat pada riwayat komisi, daftar sampel, dan segel pembaca. Kel Tharrow masih bisa menekan kesimpulan. Ia tidak bisa memisahkan lampiran tanpa meninggalkan lubang pada tiga buku."
+
+"Lubang bisa dibeli."
+
+"Bisa. Tiga buku lebih mahal daripada satu."
+
+"Jubah abu punya uang."
+
+"Karena itu aku tidak menawarkan keselamatan." Maera mengetuk gesper tas yang menyimpan sampel ketiga. "Aku menawarkan biaya."
+
+Tawaran yang masuk akal selalu lebih berbahaya daripada janji besar. Ia tidak meminta kepercayaan. Ia meminta agar musuh mereka harus bekerja lebih keras.
+
+"Aku beri titik ukur," kata Ashvarok. "Kamu beri perubahan apa pun yang terjadi pada laporan sebelum masuk ke Tharrow atau Spire."
+
+"Tidak semua berkas melewatiku."
+
+"Yang melewatimu."
+
+"Kamu juga beri anomali yang kamu temukan di jalur Quiet Vein sebelum Brannoc menutupnya."
+
+"Yang berkaitan dengan lorong tujuh."
+
+"Yang berkaitan dengan potongan jalur gema."
+
+Ashvarok memandang tas kulitnya. "Kamu belum membuktikan keduanya sama."
+
+"Karena itu aku butuh pembaca kedua."
+
+"Dan aku butuh mata di Guild."
+
+Maera mengulurkan tangan. Telapak tangannya bersih kecuali debu kapur biru di sisi jari telunjuk.
+
+Ashvarok tidak menyambutnya.
+
+"Kesepakatan tidak perlu terlihat seperti persahabatan," katanya.
+
+Maera menurunkan tangan. "Bagus. Persahabatan buruk untuk pencatatan."
+
+Ia mengambil lembar bacaan inti kedua. Angka sembilan dicoret satu garis; enam setengah ditulis di bawahnya. Ashvarok menunjuk ruang kosong di tepi kertas.
+
+"Kalau kamu menulis tentang potongan itu, jangan hanya tulis siapa yang mampu."
+
+"Apa lagi?"
+
+"Tulis siapa yang untung."
+
+Maera tidak mencatat kalimat itu. Ia melipat kertas dan menyelipkannya ke saku dalam.
+
+Baru kemudian ia mengangkat palang.
+
+Lorong di luar lebih bising. Dua pengangkut mendorong gerobak bijih ke arah tanjakan. Maera menunggu mereka lewat, lalu menyerahkan kotak survei kepada Ashvarok. Bebannya lebih ringan satu inti.
+
+Mereka berjalan sampai persimpangan lorong sembilan. Di bawah papan penanda, Maera berhenti dan membuka buku kecil. Ia menulis koreksi batas bor, nomor penyangga, serta perintah pemeriksaan lanjutan. Ujung pensilnya menggantung pada baris terakhir.
+
+"Ada lubang sewaan di distrik barat," katanya. "Pemiliknya meminta pembacaan karena lantai turun setebal satu jari."
+
+Ashvarok menunggu.
+
+"Pembaca tak terdaftar bilang penyangganya akan amblas."
+
+"Berapa lama?"
+
+"Enam puluh hari, kurang lebih."
+
+"Dan bacaanmu?"
+
+"Sama."
+
+Pensil Maera turun. Ia menulis bahwa penyangga memerlukan penguatan segera, mencantumkan arah retak dan beban lantai. Angka enam puluh tidak masuk ke halaman.
+
+"Kenapa kamu memberitahuku?" tanya Ashvarok.
+
+"Pembayaran pertama. Juga ujian."
+
+"Ujian apa?"
+
+"Apakah besok pemilik lubang itu mendadak membeli kayu sebelum salinan resmi tiba."
+
+Maera menutup buku, menyelipkannya ke tas, lalu mengambil jalur menuju kantor survei tanpa menoleh.
+
+Ashvarok tetap di persimpangan dengan kotak di tangan. Ia kini punya angka yang bisa menyelamatkan pekerja, memperkaya pedagang kayu, atau memperingatkan orang yang sedang menghapus jejak. Maera punya titik ukur menuju irama di bawah lorong tujuh. Masing-masing telah memberi sesuatu yang baru bernilai setelah pihak lain memilih cara memakainya.
+
+Ia tidak akan mengirim angka itu kepada siapa pun hari ini.
+
+Sebagai gantinya, ia menghafal garis kapur biru pada inti ketiga, jalur laporan yang melewati Kel Tharrow, dan batas pengetahuan yang sengaja ditunjukkan Maera. Mata di dalam Guild telah terbuka.
+
+Ashvarok mengangkat kotak survei dan kembali bekerja sebelum mata itu sempat mengira ia dipercaya.

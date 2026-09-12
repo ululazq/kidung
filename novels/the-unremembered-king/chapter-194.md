@@ -49,9 +49,9 @@ Hipotesis itu — "Hollowing = gejala pemutusan, bukan serangan" — dibahas dal
 
 UJI LAPANGAN. Jika Hollowing adalah gejala pemutusan hubungan, maka membangun HUBUNGAN dengan wilayah yang terkena seharusnya meringankannya. Uji coba: satu wilayah, satu bulan, name train harian + pendengar tetap + cerita.
 
-Wilayah uji yang dipilih: kolong galeri sembilan lama — tempat air mati bersuara sejak bab 90, wilayah pertama yang "diserahkan" dan mulai merasa milik kedalaman.
+Wilayah uji yang dipilih: kolong galeri sembilan lama — tempat air mati sudah lama bersuara, wilayah pertama yang "diserahkan" dan mulai merasa milik kedalaman.
 
-Persiapannya dimulai segera: ibu Tamma menyusun jadwal kunjungan dapur harian (orang makan di dekat kolong, bercerita, hidup di dekatnya); Sela menempatkan peta nama mini di ambang; Barim menjadi pendengar tetap pertamanya; dan Ashvarok membuka untaian kelima setiap malam untuk mengukur perubahan.
+Persiapannya dimulai segera: ibu Tamma menyusun jadwal kunjungan dapur harian (orang makan di dekat kolong, bercerita, hidup di dekatnya); Sela menempatkan name map mini di ambang; Barim menjadi pendengar tetap pertamanya; dan Ashvarok membuka untaian kelima setiap malam untuk mengukur perubahan.
 
 Hasil minggu pertama dicatat Kovan dengan angka:
 
@@ -76,7 +76,6 @@ Uji lapangan kolong galeri sembilan memasuki pekan kedua dengan hasil yang memak
 Ibu Tamma, yang jaga dapur harian di dekat kolong, adalah yang pertama menyadarinya: seorang pekerja tua regu barat, yang delapan belas tahun dipanggil "Bang Tua" karena namanya sendiri hilang dari ingatan semua orang... tiba-tiba dipanggil nama aslinya oleh rekan kerjanya yang tidak sadar sedang mengoreksi kebiasaan. "Sori, Pak Darmo, kebiasaan."
 
 "Pak Darmo" berhenti bekerja. Memegang sekopnya. Dan bertanya apakah orang lain juga masih ingat namanya itu — dan ketika lima orang menjawab ya sambil terus memanggilnya begitu, lelaki tua itu duduk di tanah tambang dan menangis untuk pertama kalinya dalam kenangan siapa pun.
-Lanjutan bab 194.
 
 ---
 
@@ -93,22 +92,22 @@ Kesimpulan resmi: obat Hollowing bukan seni. Obatnya kehadiran."
 
 ---
 
-Entri Hourglass Ashvarok menutup bab ini — dan kalimat terakhirnya kelak menjadi yang paling sering dikutip dari semua tulisannya:
-Hari 408. Seribu tahun Hegemony melawan kegelapan dengan seni terkuat yang pernah ada: untaian raja, segel hidup, pengorbanan nama.
-Caldrest mengalahkannya dalam tiga puluh hari dengan sup, cerita dapur, dan orang-orang yang mau makan di dekat tempat gelap.
+Ashvarok menulis di Hourglass malam itu:
+Seribu tahun Hegemony melawan kegelapan dengan seni terkuat yang pernah ada: untaian raja, segel hidup, pengorbanan nama.
+Caldrest mengalahkannya dengan sup, cerita dapur, dan orang-orang yang mau makan di dekat tempat gelap.
 Kalau lima panglimaku bisa lihat dari sana, mereka akan tertawa paling keras dalam delapan belas bulan ini. Dan aku akan ikut tertawa. Karena mereka tahu betul: aku selalu ini jenis rajanya — yang solusinya sederhana tetapi butuh delapan belas abad untuk berani mencobanya.
 
 ---
 
-Sisa bab diisi penutup dari Sela — catatan biru di bawah entri kakaknya, yang merangkum perubahan terbesarnya sendiri:
+Sela menambahkan catatan biru di bawah entri kakaknya:
 "Catatan pencatat: dulu aku takut menulis di kolom Hourglass karena kakakku orang penting dan tulisanku bocah. Sekarang papan itu penuh tulisan semua orang — murid, janda, pedagang garam, kedalaman lewat terjemahan Kovan.
 Kesimpulan: rahasia terbesar penyembuhan kota ini ternyata bukan seni raja. Namun papan yang boleh ditulis siapa saja."
 
 ---
 
-Dan satu adegan terakhir yang menutup bab dengan benar — malamnya, Ashvarok kembali ke kolong galeri sembilan sendirian, duduk di tanah yang dua puluh hari lalu disucikan kehadiran dapur ibu Tamma, meletakkan telapak, dan berbicara langsung kepada kedalaman untuk pertama kalinya sejak uji dimulai:
+Malamnya, Ashvarok kembali ke kolong galeri sembilan sendirian, duduk di tanah yang disucikan kehadiran dapur ibu Tamma, meletakkan telapak, dan berbicara langsung kepada kedalaman untuk pertama kalinya sejak uji dimulai:
 "Kamu dengar semua kan? Sup-nya, ceritanya, nama Pak Darmo yang bangun?"
-Sapuan menjawab panjang — dan terjemahannya besok paginya membuat Sela menempelkannya di dinding gudang perkakas, di samping peta nama:
+Sapuan menjawab panjang — dan terjemahannya besok paginya membuat Sela menempelkannya di dinding gudang perkakas, di samping name map:
 "Dengar. Delapan belas bulan ini aku belajar satu hal dari kalian: ternyata aku tidak perlu ditakuti supaya dihormati. Cukup dibiasakan. Itu lebih tahan lama."
 
 ---
@@ -119,4 +118,4 @@ Sisa tujuh puluh lima kata — penutup paling kecil dan paling Caldrest: paginya
 
 "Ya sudah." Lelaki tua itu mengangkat sekopnya, berbalik, lalu berhenti di pintu tanpa menoleh: "Terima kasih banyak, Bang Tua."
 
-Kovan menghitung ulang seluruh protokol musim dengan matematika barunya dan menemukan sesuatu yang membuatnya senyum-senyum seharian: total waktu yang dihabiskan Caldrest untuk menolong kedalaman delapan bulan ini LEBIH SEDIKIT dari waktu yang dihabiskan kedalaman untuk menolong Caldrest dalam delapan hari. Angka itu ia tulis besar-besar di papan aula, tanpa komentar.
+Kovan menghitung ulang seluruh the Seasonal Protocol dengan matematika barunya dan menemukan sesuatu yang membuatnya senyum-senyum seharian: total waktu yang dihabiskan Caldrest untuk menolong kedalaman delapan bulan ini LEBIH SEDIKIT dari waktu yang dihabiskan kedalaman untuk menolong Caldrest dalam delapan hari. Angka itu ia tulis besar-besar di papan aula, tanpa komentar tambahan apa pun. Ibu Tamma membacanya dua kali. Tak ada yang menambahkan tafsir setelah pembacaan itu.

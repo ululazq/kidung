@@ -3,102 +3,231 @@ title: "Bab 13: Peta Awal"
 chapter: 13
 ---
 
-Di lantai empat puluh Anthema Spire, salju turun ke arah atas.
+Asisten meletakkan map abu-abu di atas meja Ossian Vael, lalu tidak menarik tangannya.
 
-Tidak ada orang di lantai itu yang lagi-lagi menganggapnya aneh. Angin Karvess utara memutar mengelilingi menara seperti ular besar yang malas, dan pada ketinggian tertentu salju yang jatuh dari langit bertemu arus panas dari ventilasi bawah tanah — lalu berbalik naik. Beribu serpihan putih melayang ke atas, melewati jendela-jendela kaca timah, menuju langit yang tak pernah memutuskan apakah ingin menampungnya. Pada jam seperti ini, kaca berembun tipis di bagian bawah, dan Ossian harus mengusapnya dengan ujung lengan baju kalau ingin melihat dunia dengan jelas. Embun itu dingin di kulit — dingin yang halus, seperti sentuhan orang yang sudah lama pergi.
+Benang hitam yang mengikat map itu memiliki dua simpul. Simpul pertama rapat dan seragam, buatan mesin penyegel di lantai bawah. Simpul kedua lebih kecil. Seseorang telah berusaha menirunya dengan tangan.
 
-Ossian Vael menonton salju itu selama waktu yang biasa ia pakai untuk membaca setengah laporan. Ada aturan pribadinya. Sebelum membuka pekerjaan yang mengubah hidup orang, lihat dulu sesuatu yang tidak bisa dipersoalkan. Salju yang naik tidak bisa dipersoalkan. Itu membuatnya tenang — atau setidaknya, tenang dengan cara yang cukup.
+"Dari Regional Artifact Coordination," kata asisten. "Peta awal Caldrest."
 
-Lantai empat puluh adalah milik "Koordinasi Artefak Regional" — judul yang dibuat agar tidak terdengar penting, karena di the Resonant Choir, jabatan paling kuat selalu memakai nama yang paling membosankan. Orang-orang lantai bawah mengenal ruangan itu sebagai tempat permohonan masuk dan tidak pernah keluar. Orang-orang lantai atas mengenalnya sebagai meja Ossian Vael, Chorus-tier pengikat tangan, tiga puluh dua tahun umurnya, dan satu-satunya pejabat muda dalam dua dekade yang naik tanpa keluarga besar di belakangnya.
+Ossian menutup dokumen kuota yang sedang dibacanya. "Siapa yang membawanya?"
 
-Tanpa keluarga sama sekali, sebenarnya. Namun itu bukan kalimat yang dipakai orang untuk naik.
+"Kurir internal dari lantai dua puluh enam. Map berpindah lewat empat meja. Semua tanda terima ada di dalam."
 
-Meja kerjanya bersih dengan cara yang butuh waktu setiap pagi. Tiga tumpukan kertas — masuk, diproses, keluar — satu tinta hitam untuk dokumen resmi dan satu tinta abu untuk catatan yang bukan urusan siapa pun, dan sebuah cawan air dingin yang ia isi sendiri, karena tidak suka ada yang mendekat dari belakang saat ia bekerja. Bau tinta itu menempel di ruangan seperti cuaca sendiri; setelah setahun, ia tidak lagi menciumnya, hanya merasakan lapangnya. Lampu cinder-glass di sudut meja menyala kuning redup, dan kadang-kadang, kalau malam terlalu sunyi, nyala itu berdenyut pelan — seakan lampu itu ikut membaca bersamanya, seakan cahaya pun ingin tahu apa yang ada di halaman berikutnya.
+"Itu bukan jawaban atas pertanyaan saya."
 
-Peta awal datang lewat tumpukan masuk, dalam map bersampul abu dengan tin thread melintang — segel sectenya sendiri, yang berarti dokumen ini sudah dibaca dua mata di atasnya sebelum sampai, dan kedua mata itu jarang membaca tanpa maksud.
+Asisten melepaskan tangan dari map. "Kurir bernomor tujuh belas. Ia menerimanya dari petugas malam. Petugas malam mengaku segelnya sudah seperti itu."
 
-Ia membukanya.
+"Bagus. Sekarang kita tahu bagian mana yang belum kita ketahui."
 
-Isinya bukan laporan. Isinya undangan. Sebuah seam purba terdeteksi di timur, di bawah kota tambang bernama Caldrest, di lisensi the Quiet Vein yang selalu lapar dan selalu diam. Kedalaman anomali enam puluh hasta di bawah pemetaan mana pun. Kualitas gema belum dinilai. Dan di baris terakhir, ditulis oleh tangan yang lebih tua daripada jabatan penulisnya:
+Jendela lantai empat puluh Anthema Spire memperlihatkan salju bergerak ke arah yang salah. Serpih-serpih putih turun melewati lantai bawah, masuk ke arus panas dinding luar, lalu terangkat kembali seperti abu yang menolak jatuh. Di dalam ruangan, dua lampu cinder-glass menyala tanpa asap. Cahayanya membuat benang tambahan pada map tampak mengilap.
 
-> "Potensi klasifikasi: Testament."
+Ossian membuka simpul dengan pisau surat. Ia tidak memotongnya. Benda yang dibuka tergesa-gesa sering kali menjadi bukti yang buruk.
 
-Ossian membaca kata itu dua kali, seperti semua orang di Spire membacanya, karena kata Testament punya bobot yang tak bisa diserap sekali jalan. Seam-seam besar punya nama sesuai fungsi mereka bagi dunia. Seam Kelima yang menyimpan angin, Seam Perjanjian yang menyimpan sumpah lama. Dan Testament — kalau klasifikasi itu benar — menyimpan rekaman. Bukan gema biasa. Gema yang berisi apa yang pernah terjadi di dekatnya, tersimpan dalam batu seperti lilin menyimpan ibu jari.
+Di dalam map terdapat tiga lembar kalkir, satu tabel pembacaan gema, dan surat pengantar tanpa nama penilai. Denah teratas menunjukkan jaringan lorong the Quiet Vein. Garis-garis tambang merayap di bawah Caldrest, saling tindih seperti retakan pada kaca hitam. Batas pemetaan resmi berhenti pada satu garis merah.
 
-Ia pernah membaca tentang kemungkinan itu di arsip lantai tiga puluh delapan, pada malam-malam ketika masih ada yang bisa ia baca tanpa izin. Catatan pengikat tua yang menyebut tujuh seam pengikat besar mengelilingi sesuatu yang tak boleh dinamai, dan salah satu dari tujuh itu — hanya satu, menurut catatan itu — bukan sekadar pengikat, melainkan saksi. Catatan itu berakhir setengah halaman, karena halaman berikutnya sudah dipotong rapi sebelum Ossian lahir.
+Satu titik hitam terletak jauh di bawahnya.
 
-Orang-orang Spire memotong halaman dengan cara yang sama seperti mereka memotong keluarga. Bersih, prosedural, tanpa satu pun serpihan yang bisa dituntut.
+Ossian menaruh pemberat di empat sudut kalkir. "Sudah dibandingkan dengan arsip?"
 
-Sebuah seam yang mengingat adalah barang paling berbahaya di Karvess. Bisa membuktikan. Bisa menjatuhkan. Bisa membangkitkan nama-nama yang sudah mati dua kali — sekali sebagai manusia, sekali sebagai sejarah.
+"Dengan peta lisensi terakhir dan dua survei triwulan. Kedalamannya tidak cocok."
 
-Dan karena itu juga barang paling bernilai.
+"Peta mana yang salah?"
 
-Doktrin sectenya tertulis di dinding setiap lantai. Api dunia tidak boleh kembali. Ossian menghafalnya di usia lima, sebelum ia bisa membaca apa pun yang lebih panjang dari namanya sendiri. Tetapi doktrin tidak menjelaskan siapa yang memutuskan mana yang termasuk api, dan pengalaman — yang ia kumpulkan lebih cepat daripada jabatannya — mengajarkan bahwa setiap klasifikasi adalah pintu, dan setiap pintu dimiliki seseorang. Seam yang diklasifikasikan Testament akan ditutup untuk dunia dan dibuka untuk meja seperti mejanya. Yang memegang rekaman memegang masa lalu. Dan di Karvess, masa lalu adalah satu-satunya mata uang yang nilainya tak pernah turun.
+"Kami belum bisa memastikan."
 
-Kursi dewan regional kosong tahun ini. Dua calon. Dirinya, dan anak seorang penjaga arsip yang punya kelebihan satu hal saja — kelahiran. Seam Testament, diamankan dengan rapi, akan menutup perbedaan itu seperti tangan menutup buku.
+"Kalau begitu, jangan sebut tidak cocok. Sebut belum terbukti sama. Bahasa menentukan siapa yang harus membayar pemeriksaan berikutnya."
 
-*Dan kalau seam itu benar-benar mengingat,* pikirnya, tanpa suara, sementara jempolnya menekan tepi map sampai putih. *Kalau batu di timur itu menyimpan suara... maka wajah ibu mungkin masih ada di suatu tempat. Tersimpan. Menunggu.*
+Asisten mengangguk, lalu mencatat koreksi itu.
 
-Ia menepis pikiran itu seperti menepis embun di kaca. Pagi.
+Ossian menumpuk lembar kedua di atas denah. Titik hitam tersebut bergeser setengah ruas jari ke timur. Bukan kesalahan besar bagi juru gambar. Bagi sebuah seam yang tak terdaftar, pergeseran itu dapat menentukan apakah Guild, pemegang tambang, atau kota berhak menutup akses pertama.
 
-Ia menuangkan air dingin, minum seperempat, dan mulai bekerja.
+Lembar ketiga memuat pola gema. Garis-garis tipis berulang dalam kelompok yang tidak rata: tiga pendek, satu panjang, jeda, lalu dua pendek. Di sampingnya, seseorang menulis satu kata dengan tinta cokelat.
 
-Perintah resmi yang ia susun sendiri dan tandatangani sendiri berbunyi sederhana. Amankan seam Testament. Di bawahnya, tiga baris pelaksanaan yang hanya ia pahami seluruhnya.
+*Testament?*
 
-Pertama. Kuota tambang dinaikkan. Bukan kejam — prosedural. Orang yang lelah tidak bertanya. Orang yang sibuk mengejar angka tak menghitung gerobak yang lewat malam-malam. Dan kota tambang yang lapar selalu menjual apa pun dengan harga yang bisa dihitung jari. Surat edaran untuk itu sudah ia rancang dua bulan silam, sebelum ada anomali, karena surat edaran seperti itu berguna di mana-mana dan tak pernah kedaluwarsa.
+Tanda tanya itu lebih penting daripada kata di depannya.
 
-Kedua. Pendataan ulang seluruh penambang. Daftar nama adalah peta pertama dari semua peta, dan Ossian tidak pernah bekerja tanpa peta. Siapa yang punya vein sehat, siapa yang utangnya panjang, siapa yang hilang tanpa diperhatikan — data itu, sekali terkumpul, bisa dipakai untuk segalanya, mulai dari produksi sampai penguburan.
+Ossian membaca tabel sampai akhir. Pembacaan pertama lemah. Pembacaan kedua muncul setelah jarak tiga hari. Pada pembacaan ketiga, alat menangkap pola serupa dengan urutan berbeda. Batu biasa mengembalikan tenaga. Seam resonan mempertahankan jejak. Kelas Testament, jika dugaan itu benar, melakukan sesuatu yang lebih berharga: menyimpan susunan kejadian cukup lama untuk dibaca kembali.
 
-Ketiga. Beli jalur survei dari Assayers' Guild lewat pintu yang sudah ada. Guild itu murah jika kau tahu komisinya, mahal hanya jika kau salah membeli, dan sampul abu dengan tin thread adalah cara paling murah untuk membaca isi meja orang sebelum isinya dibacakan.
+Bukan kebenaran. Tidak ada alat yang memberikan barang semahal itu tanpa tafsir. Namun rekaman yang dapat dibeli, dipindahkan, dan disahkan sering kali bekerja lebih baik daripada kebenaran.
 
-Yang keempat tidak ia tulis, karena tulisan bisa dicuri. Cari tahu siapa yang sudah menyentuh seam itu sebelum kita. Peta awal menyebut pembacaan anomali "terdeteksi pertama kali triwulan ini", dan Ossian Vael tidak percaya pada kata pertama kali. Anomali sebesar itu tidak muncul kemarin seperti jamur. Ia ada di sana sejak lama, diam, dan diam yang panjang selalu punya penonton.
+"Siapa yang memberi klasifikasi sementara?" tanya Ossian.
 
-Ada ketukan di pintu. Satu — asisten. Dua — atasan. Malam ini: satu.
+"Tidak ada tanda tangan."
 
-"Masuk."
+"Tulisan tangan?"
 
-Asistennya muda, rapi, takut dengan cara profesional. Lampu cinder-glass jatuh pada wajahnya dan membuat bayang-bayang di bawah mata terlihat lebih tua dari umurnya. "Laporan dari Caldrest sudah di meja Anda, Tuan Vael. Overseer lokal menulis soal... satu faktor tak dikenal."
+"Belum dikenali."
 
-"Kutahu. Sudah kubaca."
+"Kertas?"
 
-"Overseer itu minta pandangan Anda soal—"
+"Stok Guild."
 
-"Overseer itu minta naik jabatan," kata Ossian, tanpa nada kasar. Kesalahan terbesar orang muda adalah mengira dia tak melihat motif. "Dia dapat faktor tak dikenalnya, aku dapat matanya di tempat. Balas suratnya: lanjutkan pemantauan, laporan bulanan, jangan turun sendirian ke kedalaman." Ia menutup peta awal itu dan meletakkan tangannya di atas sampul abu, dan tin thread di segelnya menangkap cahaya lampu seperti garis dingin. "Faktor tak dikenal tak boleh diganggu sebelum kita tahu itu faktor siapa."
+"Tinta?"
 
-Asisten mencatat dua baris, lalu berhenti dengan pena masih terangkat — ragu dengan cara yang di Spire disebut sopan dan di tempat lain disebut ingin hidup lebih lama.
+Asisten berhenti mencatat. "Belum diuji."
 
-"Ada lagi?"
+Ossian mengangkat pandangannya.
 
-"Komisi survei Assayers' Guild sudah berangkat ke Caldrest, Tuan. Field assayer nama Tull. Jalur pembelian kami lewat Bureau Chief." Pena itu turun sedikit. "Tetapi ada catatan kecil di laporan jalur. Map survei awal Caldrest sempat dibuka sebelum sampai ke biro. Segel penggantinya sudah standar kami."
+"Saya akan mengirimkannya ke meja bahan," kata asisten.
 
-"Sudah standar kalian," ulang Ossian. "Berarti bukan pekerjaanmu."
+"Kirim serpihan dari tepi surat pengantar, bukan lembar peta. Orang yang membuka map ini mungkin mengharapkan pemeriksaan. Jangan beri tahu mereka apa yang kita anggap penting."
 
-"Bukan saya, Tuan."
+Ia menggeser lampu lebih dekat. Di bawah cahaya hijau cinder-glass, beberapa lekuk pena muncul pada surat pengantar. Lembar yang pernah berada di atasnya telah dibawa pergi, tetapi tekanan tulisan tertinggal. Ossian memiringkan kertas. Ia bisa membaca potongan angka, tanda rute, dan dua huruf dari kode arsip wilayah utara.
 
-"Tentu saja bukan." Ossian menatap asistennya selama waktu yang cukup untuk membuat orang mengakui dosa yang belum dilakukan. "Maka mulai hari ini, semua map yang menuju atau keluar dari Caldrest dicatat perjalanannya. Siapa memegang, berapa lama, di ruangan mana. Bukan karena aku curiga pada kamu. Karena aku curiga pada semuanya, dan kamu yang paling dekat."
+Jari telunjuknya berhenti di sana.
 
-Asisten itu mencatat instruksi baru dengan tangan yang tak gemetar sama sekali — anak yang tepat untuk pekerjaan ini. Ketakutannya bisa diatur.
+Kode yang sama pernah tercetak pada kotak-kotak laporan yang dikeluarkan dari rumah keluarganya. Kotak itu kembali tiga hari kemudian dalam keadaan lebih ringan. Tidak ada satu pun nama di dalamnya. Secta menyebut kejadian tersebut penataan ulang arsip setelah kebocoran Hollowing. Mereka tidak pernah menjelaskan mengapa orang mati masih boleh tercatat sementara orang yang selamat harus dihapus.
 
-"Dan assayer Tull?"
+Ia tidak menyentuh lekukan itu lagi.
 
-"Muda. Rekam jejak bersih. Menemukan pemalsuan di karung yang dilewatkan senior." Ossian membuka lagi satu halaman profil yang sudah ia baca sebelum ditanyakan. "Orang seperti itu tak bisa dibeli dengan uang. Beli dengan sesuatu yang lebih mahal. Kasus besar. Kalau seam Testament benar, dia akan butuh penilaian besar pertamanya — dan kita butuh assayer yang hasil kerjanya bisa dipercaya publik. Siapkan surat penawaran. Jangan dikirim dulu."
+"Ada sesuatu?" tanya asisten.
 
-Asisten itu keluar dengan bunyi pintu yang sopan — derit kecil yang pamit sebelum pintunya pamit.
+"Ada dokumen yang hilang dari rangkaian ini."
 
-Ossian kembali ke jendela. Salju masih naik, ribuan serpihan putih yang gagal jatuh dua kali. Di kaca, bayangannya sendiri berdiri di atas bayangan kota — dua dunia tipis yang hanya dipisahkan embun. Dingin merambat dari kaca ke dahinya, dan ia membiarkannya. Ada yang jujur pada dingin; dingin tidak pernah berpura-pura peduli.
+"Saya maksud kode di bawah lampu."
 
-Ada kebiasaan lama yang tak pernah ia hentikan. Sebelum menyebut nama wilayah mana pun, ia menghitung dulu apa yang hilang di sana. Utara. Wilayah utara Karvess, satu kabupaten penuh yang delapan belas tahun silam berubah sunyi dalam semalam — dan sectenya menulis laporan resmi bahwa "tak ada korban yang bisa diidentifikasi". Frasa yang sempurna. Frasa yang artinya: tak ada lagi yang ingat mereka untuk bisa diidentifikasi.
+"Saya tahu apa yang Anda maksud."
 
-Ia sendiri tak bisa mengingat wajah ibunya. Bukan karena lupa — Ossian Vael tidak pernah lupa apa pun yang penting — tetapi karena wajah itu memang sudah tak ada di dunia ini untuk diingat. Yang tersisa hanya fakta-fakta: sebuah rumah di tepi lembah, sebuah cincin kuningan di jari ketiga tangan kiri, sebuah kalimat tentang salju yang naik. Fakta-fakta kecil yang ia bawa seperti orang membawa kunci rumah yang pintunya sudah tak ada.
+Asisten menurunkan mata ke buku catatan. Ia cukup cerdas untuk menerima batas, dan cukup ambisius untuk mengingat letaknya.
 
-Fakta tak cukup untuk rindu. Tetapi cukup untuk bekerja.
+Ossian membuka laci kanan meja. Di dalamnya tersimpan kartu-kartu perkara yang secara resmi sudah ditutup. Ia menarik satu kartu tanpa judul, mencocokkan dua huruf itu, lalu mengembalikannya. Kecocokan bukan bukti. Kemiripan bahkan belum menjadi kecocokan sebelum seseorang mempertaruhkan capnya.
 
-"Testament," katanya pada kaca, pelan, dan untuk sesaat wajah yang terbiasa menjadi meja kerja orang lain menunjukkan sesuatu yang belum sempurna. Seam yang mengingat akan menemukan mereka lagi. Nama-nama itu. Dan orang yang membawa rekaman itu pulang akan menjadi orang yang memutuskan versi mana dari masa lalu yang dijual kepada dunia sebagai yang asli.
+Namun seam yang dapat menyimpan rekaman memberi jenis pertaruhan lain.
 
-Ia mengambil pena abunya, dan menulis di catatan yang bukan urusan siapa pun satu kalimat yang akan menggerakkan banyak hal dalam beberapa bulan ke depan:
+Jika pola di bawah Caldrest benar-benar Testament, the Resonant Choir dapat menawarkan akses kepada orang-orang yang memiliki kursi di Karvess dan ketakutan yang ingin mereka kubur. Satu pembacaan terverifikasi dapat membeli hak survei. Tiga dapat membeli kewenangan penutupan. Lebih dari itu dapat memaksa meja politik menyediakan tempat bagi pihak yang memegang kunci.
 
-> Caldrest. Sembilan hari jalan. Mulai dari daftar nama.
+Kursi adalah perlindungan yang diberi nama terhormat. Tanpanya, perintah hanya berlaku sampai pihak yang lebih kaya menulis perintah tandingan.
 
-Tinta abu itu mengering lambat di udara dingin — satu nama kota, satu arah, satu keputusan yang dibungkus rapi seperti semua keputusannya.
+"Status Assayers' Guild?" tanya Ossian.
 
-Di luar, salju terus naik — setiap serpihan membawa dirinya ke arah yang salah, dan tetap bersinar.
+Asisten membalik dua halaman catatannya. "Mereka sudah mengirim penilai. Maera Tull. Eastern Branch Licensing Commission."
+
+"Sudah berangkat?"
+
+"Kafilahnya meninggalkan Anthema dua hari lalu."
+
+Ossian mengetukkan kuku sekali pada meja. Jadi jalur survei telah bergerak sebelum map ini tiba. Entah Guild lebih cepat membaca anomali, atau seseorang memastikan mereka mendapat salinan lebih dahulu.
+
+"Mengapa Maera Tull?"
+
+"Penilai junior. Belum punya patron yang tercatat. Tiga kali menemukan ketidaksesuaian lot yang dilewatkan penilai senior."
+
+"Harga murah dan mata mahal."
+
+"Haruskah komisinya ditahan?"
+
+"Tidak. Orang yang dihentikan akan bertanya siapa yang takut pada hasilnya. Biarkan dia bekerja. Kita hanya perlu memastikan pekerjaannya masuk melalui meja yang benar."
+
+Ossian membuka map kerja yang telah disiapkannya sebelum laporan ini tiba. Di dalamnya ada dua salinan perintah, masing-masing telah bercap dan bertanggal.
+
+Perintah pertama menaikkan kuota hasil the Quiet Vein sebesar seperempat. Caldrest telah menerimanya hampir dua pekan lalu. Kuota yang naik memaksa lebih banyak shift turun dan lebih banyak batu dibawa ke permukaan. Kejam, jika dibaca sebagai satu kalimat. Berguna, karena setiap muatan tercatat dan setiap lorong yang menghasilkan perubahan harus dilaporkan. Pemegang tambang menerima alasan dagang. Keselamatan regional menerima alasan pemantauan. Tidak seorang pun perlu membaca kata Testament.
+
+Perintah kedua memerintahkan pendataan ulang seluruh penambang terikat: nama, umur, tanda tubuh, utang, dan penempatan shift. Tenggat awalnya sudah lewat. Salinan daftar sedang bergerak naik melalui meja-meja wilayah.
+
+"Daftar seperti itu menahan kontrak yang tidak cocok," kata asisten.
+
+"Ya."
+
+"Caldrest baru kehilangan pekerja dalam runtuhan. Mereka akan membacanya sebagai tekanan setelah kecelakaan."
+
+"Surat itu tiba sebelum runtuhan." Ossian merapikan kedua lembar. "Keberatan mereka akan menunjukkan siapa yang menganggap urutan tanggal tidak penting."
+
+"Dan nama yang rusak karena kesalahan buku?"
+
+"Periksa sebelum kontraknya diulang. Saya membutuhkan orang yang menyembunyikan diri, bukan orang yang disembunyikan juru tulis."
+
+Asisten mencatat instruksi tindak lanjut itu.
+
+Langkah ketiga belum masuk surat edaran. Ossian menulisnya pada nota terpisah untuk meja perolehan.
+
+
+*Dapatkan akses pada seluruh rute survei Assayers' Guild menuju dan dari Caldrest. Beli hak salin jika tersedia. Beli utang pemegang hak jika tidak.*
+
+Ia menunggu tinta mengering sebelum membalik nota tersebut. Di sisi belakang, tanpa lambang Choir, ia menulis instruksi keempat.
+
+*Cari orang pertama yang menyentuh anomali.*
+
+Bukan penemu pertama. Penemuan dapat terjadi di meja, lama setelah tangan yang salah memindahkan batu dari tempatnya.
+
+"Kel Tharrow masih memegang pengawasan lapangan?" tanyanya.
+
+"Ya. Catatan operasi menyebut tidak ada pelanggaran aktif."
+
+"Catatan operasi ditulis olehnya."
+
+"Anda ingin dia diganti?"
+
+"Saya ingin dia berguna. Penggantian hanya mengajari pejabat lain menyembunyikan hal yang sama dengan tulisan tangan berbeda."
+
+Ossian mendikte surat kedua. Kel Tharrow harus melanjutkan pemantauan tanpa perubahan jabatan. Laporan bulanan dikirim langsung ke Regional Artifact Coordination, bukan hanya ke pemegang operasi. Semua pembacaan di bawah batas lisensi harus disalin sebelum alat dikalibrasi ulang. Tidak ada perjalanan tunggal ke kedalaman.
+
+Asisten berhenti pada kalimat terakhir. "Tharrow akan menganggap itu penghinaan."
+
+"Beri dia kewenangan memilih dua pendamping. Harga dirinya akan menyebutnya perluasan staf."
+
+"Dan faktor tak dikenal?"
+
+Ossian memandang titik hitam pada peta. Seseorang telah membuka map ini. Seseorang telah mengirim Maera sebelum klasifikasi sampai di mejanya. Di Caldrest, mungkin sudah ada penambang yang mendengar pola di dalam batu dan menganggapnya bunyi tambang tua.
+
+"Jangan diganggu," katanya.
+
+Asisten mengangkat pena, menunggu sisanya.
+
+"Sampai diketahui itu faktor apa?"
+
+"Sampai diketahui itu faktor siapa."
+
+Pena bergerak lagi.
+
+Ossian menyusun ulang isi map berdasarkan urutan tanda terima. Bekas lipatan pada kalkir tidak mengikuti urutan tersebut. Lembar pola gema pernah diletakkan paling luar, bukan di tengah. Orang yang membuka map tidak sekadar melihat. Ia mencari halaman tertentu, menemukannya, lalu menyegel ulang semuanya dengan benang yang hampir tepat.
+
+"Mulai hari ini, catat rantai penguasaan setiap peta yang masuk atau keluar Caldrest," katanya. "Bukan hanya dokumen Choir. Guild, meja lisensi, perusahaan angkut, semua salinan kerja."
+
+"Kita tidak punya hak meminta daftar internal Guild."
+
+"Benar. Karena itu jangan meminta. Beli jadwal kurirnya, cocokkan tanda terima, dan biarkan mereka mempertahankan hak yang tidak lagi menyembunyikan apa pun."
+
+Asisten menutup buku catatan separuh. "Bagaimana dengan Maera Tull?"
+
+Ossian mengambil satu lembar kop surat pribadi. Uang tidak akan membeli penilai yang menahan pembayaran pedagang demi satu ketidaksesuaian kecil. Uang hanya akan membuatnya memeriksa pembeli. Status bekerja lebih halus, terutama bagi seseorang yang terlalu lama diberi pekerjaan dekat pintu.
+
+Ia mendikte penawaran komisi bersama: hak memimpin verifikasi artefak regional, cap lapangan atas namanya sendiri, akses arsip terbatas, dan kesempatan membawa temuan besar ke meja pusat. Imbalannya tidak disebut. Orang teliti akan menemukannya tanpa bantuan.
+
+"Kirim ke Guild?" tanya asisten setelah selesai.
+
+"Belum."
+
+"Kalau laporannya tiba lebih dahulu, kita kehilangan kesempatan."
+
+"Kalau surat ini tiba terlalu cepat, dia tahu kita menginginkan sesuatu sebelum dia tahu nilainya. Simpan tanpa segel. Kita kirim setelah pertanyaan pertamanya dari Caldrest."
+
+Asisten meletakkan draf itu di sisi kiri meja, terpisah dari perintah resmi.
+
+Ossian membaca seluruh rangkaian sekali lagi. Kuota akan memperbanyak gerak. Pendataan akan memberi nama pada gerak itu. Jalur Guild akan menunjukkan siapa yang mencoba melihat tanpa tercatat. Tharrow akan tetap di tempat, cukup dihargai untuk patuh dan cukup diawasi untuk berhati-hati.
+
+Belum ada bukti bahwa titik hitam tersebut Testament. Belum ada dasar menutup tambang. Belum ada hak bagi Choir untuk mengambil apa pun dari bawah Caldrest.
+
+Namun hak jarang muncul utuh. Hak dirakit dari surat, daftar, cap, dan orang yang terlambat menyadari bahwa setiap pilihan mereka telah disediakan sebelumnya.
+
+Ossian mengambil cap Chorus dari kotak cinder-glass. Logamnya hangat karena lampu meja. Ia menekannya ke lilin pada perintah pertama, menunggu tepinya padat, lalu mengangkatnya lurus.
+
+"Masukkan kalimat utama ke register terpisah," katanya.
+
+Asisten membuka halaman baru.
+
+Ossian tidak meninggikan suara.
+
+"Amankan seam Testament."
+
+Kalimat itu masuk ke buku tanpa tanda tanya.
+
+Ia menyerahkan instruksi Kel Tharrow dan nota akses Guild. Draf untuk Maera tetap di meja. Map abu-abu masuk ke laci berkunci bersama kartu perkara tanpa judul.
+
+"Salinan daftar pertama seharusnya tiba dua hari lagi," kata asisten.
+
+"Sembilan hari sejak permintaan awal, kalau tak ada yang berusaha menghilangkan nama."
+
+Ossian mendorong buku kosong ke arahnya.
+
+"Buka daftar pertama sekarang. Mulai dengan semua orang yang menyentuh map ini."

@@ -3,114 +3,242 @@ title: "Bab 10: Orang Ungu"
 chapter: 10
 ---
 
-Orang Assayers' Guild masuk Caldrest pada hari kedua belas, dan kota yang biasanya menghitung semuanya dengan batu mendadak menghitung mereka: dua gerobak, empat kuda, satu junior assayer perempuan dengan kotak kayu terikat di punggung, dan stempel lilin ungu yang dipajang di meja Quota Office seperti pedang upacara.
+Roda gerobak depan menghantam lubang terakhir sebelum gerbang Caldrest dan membuat stempel lilin ungu di pangkuan Maera retak pada satu sudut.
 
-Ashvarok mengetahuinya lebih dulu dari suara pasar. Kabar di kota kecil berjalan lewat mulut penjual roti, dan pagi itu semua roti habis sebelum subuh karena orang-orang ingin jadi ada di depan Quota Office saat "orang ungu" turun dari gerobak.
+Ia menangkap kotak stempel sebelum jatuh, lalu menghitung kerusakannya: satu garis sepanjang kuku, tidak menembus lambang Assayers' Guild. Masih sah. Di luar jendela, debu abu menelan kaki empat kuda dan mengubah dua gerobak Guild menjadi bayangan kelabu dengan warna ungu kecil di pintunya.
 
-Ia sendiri menonton kedatangan itu dari tepian lereng, dengan kesabaran orang membaca formasi musuh masuk ke lembah. Gerobak depan membawa peti-peti bersegel ungu. Gerobak belakang membawa air, pakan, dan satu kotak kayu kecil yang diikat terpisah dari semua barang lain — cara orang membawa alat yang harganya bukan uang. Empat pengawal tidak memakai seragam Guild. Mereka memakai seragam tanpa lambang, yang selalu lebih mahal. Dan junior assayer itu turun lebih dulu daripada semua orangnya, menghitung atap-atap Caldrest sekali dengan tatapan yang tidak menyisakan apa pun untuk dikira-kira, lalu berjalan ke Quota Office dengan langkah seseorang yang sudah tahu berapa langkah lagi.
+Hari kedua belas sejak ia meninggalkan Anthema Spire. Sembilan hari perjalanan kafilah, sesuai catatan. Tiga pegas gerobak aus, satu tali peti diganti, tidak ada segel muatan yang rusak. Angka-angka itu rapi.
 
-Kel Tharrow menyambutnya di tangga dengan busana resmi dan senyum yang disetrika. Dari jarak seratus hasta, Ashvarok bisa membaca pertemuan itu seperti membaca dua batu yang saling digesek. Masing-masing menguji kekerasan yang lain, dan masing-masing meninggalkan debu.
+Caldrest tidak.
 
-"Field assayer," kata Vosk sore sebelumnya, ketika ia datang sendiri ke gudang Brannoc membawa bayaran klien kedua. Jarinya tidak dingin hari ini; dinginnya sudah dipindahkan ke nadanya. "Muda. Perempuan. Nama Tull. Datang buat survei kedalaman triwulanan, tetapi dia bawa surat komisi yang aneh — aku tidak boleh tahu isinya, dan karena aku tidak boleh tahu, aku tahu." Ia melihat Ashvarok dengan mata penengah yang sedang menghitung risiko baru di pasarnya. "Technical reader saya jangan sampai bertemu pembaca bersertifikat dalam kondisi memalukan. Kamu paham maksudku."
+Kota tambang itu bertumpuk di lereng seperti muatan yang diikat terburu-buru. Atap seng, cerobong tungku, jalur angkut, dan mulut lorong saling menindih tanpa garis yang mau disebut jalan utama. Orang-orang sudah menunggu di depan Quota Office sebelum gerobak berhenti. Mereka menghitung peti, kuda, penjaga, dan mungkin umur Maera.
 
-"Aku anak tungku yang merenung," kata Ashvarok. "Kita tidak akan bertemu."
+Ia turun sambil mengenakan mini weighing box di punggung. Peti peralatan lain tetap di gerobak depan. Kotak kecil itu tidak pernah ia serahkan kepada kusir.
 
-Mereka bertemu keesokan harinya, tentu saja, karena tambang adalah tempat yang sama untuk semua pekerjaan, dan dunia terlalu kecil untuk dua jenis pembaca yang saling menghindar.
+Seorang lelaki berbusana resmi menunggu di tangga. Debu belum sempat melekat pada bahunya. Berarti ia baru keluar sesaat sebelum rombongan tampak, atau seseorang menyikatnya di balik pintu.
 
-Sebelum pertemuan resmi itu, ada satu perjumpaan yang tidak dihitung siapa pun kecuali keduanya. Malam sebelum survei dimulai, Ashvarok pulang lewat tepian pasar yang sudah tutup dan menemukan junior assayer itu berdiri sendirian di lorong barang jadi, mengangkat satu gelas lampu cinder-glass dari deretan meja kosong — tidak membelinya, hanya mengangkatnya, mendekatkan telinga seperti pendeta mendengarkan pengakuan dosa. Ashvarok berhenti tiga langkah, menimbang untuk maju atau mundur.
+"Penilai Tull." Senyumnya terbuka dengan ukuran yang tepat. "Kel Tharrow. Caldrest menyambut Assayers' Guild."
 
-Assayer itu meletakkan gelas lampu tanpa menoleh.
+"Maera Tull, penilai lapangan." Ia menunjukkan surat komisi tanpa menyerahkannya. "Dua ruang kerja, akses ke catatan runtuhan, daftar shift dasar selama tiga puluh hari, dan jalan bebas ke titik ukur yang ditandai di lampiran. Sudah tersedia?"
 
-"Kaca ini berumur lebih muda daripada harganya," katanya, pada udara, pada kota, pada siapa pun yang bersedia dengar. "Tiga musim panen, bukan sepuluh. Pedagang di sini menjual usia palsu dengan harga usia asli." Sekarang ia menoleh, dan mata yang menghitung itu menemukan wajah bocah kurus dengan karung batu. "Kau setuju atau tidak?"
+Kel menahan pandangannya pada segel surat sepersekian detik terlalu lama.
 
-"Saya hanya anak tungku yang pulang bekerja."
+"Hampir semuanya."
 
-"Semua orang di kota ini hanya sesuatu yang sedang pulang bekerja." Maera meletakkan gelas itu kembali persis pada posisi semula, diputar sampai arah yang sama. "Aku hitung malam ini: enam belas pedagang menjual umur palsu, tiga menjual asal-usul palsu, dan satu menjual jasa membaca retakan yang tidak terdaftar di mana pun. Yang terakhir paling menarik. Sayangnya dia tidak pernah saya temui."
+"Yang belum?"
 
-"Semoga cepat bertemu," kata Ashvarok. "Kalau dia tidak bahaya."
+"Daftar shift sedang disalin. Arsip kami teliti, tetapi tambang tidak berhenti hanya karena kertas datang dari Spire."
 
-"Semua hal yang bisa dibayar selalu ada orang yang bilang bahaya." Assayer itu mengangkat kotak kayunya dan melangkah melewati dia, dan baunya adalah baunya lilin ungu dan tinta murah — "Selamat malam, anak tungku."
+Maera melihat ke belakangnya. Di balik jendela Quota Office, dua juru tulis sedang memindahkan bundel dari lemari bawah ke meja. Teliti, tetapi baru dimulai.
 
-Ashvarok berdiri di pasar yang sunyi cukup lama untuk menghitung ulang semua rencananya. Jalur Vosk sudah bocor ke telinga Guild dalam sebelas jam kerja. Bukan karena Vosk bicara — penengah seperti itu tidak bicara, tetapi karena mata assayer menghitung apa yang dilihatnya di pasar, dan pasar Caldrest terlalu kecil untuk menyembunyikan arah uang.
+"Tambang juga tidak berhenti karena penyangga patah," katanya. "Namun orang tetap berharap catatan dibuat sebelum langit-langit jatuh. Saya perlu daftar itu sebelum malam."
 
----
+Senyum Kel tidak berubah. Ketegangan di rahangnya berubah.
 
-Survei resmi dimulai dari ruang persimpangan tingkat tiga, diubah menjadi kantor sementara dengan dua meja lipat dan lampu cinder-glass yang disetor khusus dari permukaan. Penambang dipanggil bergilir. Nama dibacakan, pertanyaan diajukan, jawaban dicatat dengan huruf kecil yang rapi. Semua orang tahu jenis jawaban yang aman — "tidak tahu", "biasa saja", "sudah lama, lupa" — dan hampir semua orang memberikan jenis itu dengan kesetiaan orang memberikan upah kepada pemungut.
+"Tentu."
 
-Sela tidak dipanggil, tetapi datang juga, duduk di barisan panjang dekat pintu dengan alasan mengantar bekal kakaknya — alasan yang tidak ditolak siapa pun karena bekal di tambang adalah bahasa yang universal.
+Maera naik melewatinya. Orang-orang di halaman bergeser memberi jalan bagi warna ungu pada kerahnya. Seseorang berbisik, "Orang ungu." Yang lain mengulanginya. Sebelum peti pertama masuk, Caldrest sudah memberinya nama yang lebih sederhana daripada pangkat.
 
-Ashvarok dipanggil nomor sembilan.
+Di ruang yang disediakan, Maera memeriksa segel muatan satu per satu. Cinder-glass kalibrasi, echo needle, timbangan lipat, peta tingkat. Terakhir, ia membuka lapisan terdalam tas pribadinya.
 
-"Renn." Junior assayer itu menoleh dari catatannya, dan matanya melakukan sesuatu yang membuat Ashvarok memperketat perhatian: mata itu menghitung. Bukan menghitung dia — menghitung segalanya, jumlah orang di ruangan, tinggi tumpukan karung, detik antara satu nama dan nama berikutnya, seperti dunia baginya adalah buku besar yang belum selesai dicocokkan. "Duduk. Maera Tull, Assayers' Guild, komisi survei kedalaman. Jawab singkat. Kau di shift malam lorong tujuh waktu amblasnya?"
+Bungkusan tanpa label masih di sana.
+
+Ia tidak membukanya. Ujung jarinya cukup mengenali bentuk inti bor ketiga dari titik ukur 7, lorong sembilan bawah: batu yang memberi gema naik, diam tiga detik, lalu naik lagi. Temuan itu tidak tercantum dalam salinan laporan resmi yang dibawa Kel. Tidak tercantum di surat komisi. Belum.
+
+Apakah Caldrest akan memberi angka yang mengubah dugaan menjadi bukti?
+
+Maera menutup tas. Pertanyaan itu belum pantas dijawab.
+
+Menjelang senja, daftar shift tiba dengan dua nama dicoret, empat dipindahkan tanpa tanggal, dan satu halaman berbau tinta segar. Maera menandai semuanya. Ia lalu meninggalkan Quota Office tanpa pengawal.
+
+Pasar Caldrest sedang tutup. Kain peneduh diturunkan, laci uang dikunci, dan pedagang terakhir menyapu serpih kaca ke selokan. Tempat semacam itu sering lebih jujur setelah transaksi selesai. Barang tidak lagi tertutup tangan pemiliknya.
+
+Di satu meja, enam gelas lampu cinder-glass tersusun di atas kain hitam. Papan harga menyebut umur sepuluh musim panen. Maera mengangkat satu, memutarnya di bawah cahaya tungku, lalu mengetuk bibirnya dengan kuku.
+
+Nada terlalu terang. Gelembung bagian bawah terlalu rapat. Tiga musim, paling banyak empat.
+
+"Kaca muda memakai harga kaca tua," katanya.
+
+"Pedagangnya sudah pulang."
+
+Suara itu datang dari lorong sempit di antara dua meja. Seorang pemuda kurus berdiri di sana dengan karung batu di bahu. Rambutnya menyimpan debu tungku. Pakaian kerja biasa, sepatu ditambal dua bahan, langkah yang tadi berhenti tepat di luar jangkauan tangan.
+
+Maera meletakkan gelas pada bekas lingkaran debunya.
+
+"Saya tidak bicara kepada pedagangnya."
+
+"Lalu kepada siapa?"
+
+"Kepada orang yang berhenti karena tahu saya benar." Ia menatap karungnya. Fragmen kecil di dasar, bukan jatah seam utuh. "Kau pekerja tungku?"
+
+"Renn. Anak tungku."
+
+Nama itu muncul dua kali dalam salinan shift: korban selamat lorong tujuh, lalu dipindahkan ke tugas dasar setelah cedera kepala. Maera belum menghafal wajah, tetapi ia menghafal ketidakrapian.
+
+"Kau setuju soal umur kaca ini, Renn?"
+
+"Saya setuju pedagangnya bakal marah kalau tahu barangnya dipegang orang Guild setelah tutup."
+
+Jawaban yang menghindari kaca tanpa menyangkal penilaian. Maera menyimpan bentuknya.
+
+"Enam belas meja menjual usia palsu malam ini," katanya. "Tiga menjual asal barang palsu. Ada juga satu jasa membaca retakan yang tidak tercatat sebagai usaha, tidak membayar biaya sertifikasi, tetapi baru menerima uang melalui penengah pasar."
+
+Mata Renn tidak beralih ke kanan atau kiri. Bahunya juga tidak menegang. Hanya ibu jarinya berhenti mengusap jahitan karung.
+
+"Pasar punya banyak cerita."
+
+"Uang biasanya meninggalkan cerita yang lebih pendek."
+
+"Kalau pembaca itu ada, mungkin dia cuma penambang yang beruntung."
+
+"Keberuntungan yang dijual berulang menjadi klaim teknis. Klaim teknis bisa diperiksa."
+
+Renn tersenyum tipis, terlalu lelah untuk disebut ramah. "Kalau begitu semoga orang ungu cepat menemukannya."
+
+Julukan itu sudah berjalan lebih cepat daripada Maera.
+
+"Semoga dia tidak berbahaya," lanjut Renn.
+
+"Bahaya bukan ukuran keahlian." Maera mengangkat weighing box miliknya. "Selamat malam, anak tungku. Besok datang saat namamu dipanggil."
+
+Ia berjalan tanpa menoleh. Setelah dua puluh langkah, bunyi sepatu Renn belum bergerak. Pemuda itu sedang menunggu kepergiannya, atau menghitung sesuatu. Keduanya berguna.
+
+Pagi hari ketiga belas, ruang persimpangan tingkat tiga menjadi kantor sementara. Dua meja lipat berdiri di bawah lampu cinder-glass. Dinding batu mengembalikan setiap batuk dan goresan pena. Maera menempatkan daftar resmi di kanan, lembar pribadi kosong di bawah weighing box, lalu memanggil penambang satu per satu.
+
+Delapan orang pertama memberi jawaban yang telah mereka latih bersama.
+
+Tidak ada bunyi aneh. Tidak melihat apa-apa. Runtuhan datang mendadak. Ingatan buruk. Batu biasa.
+
+Kesamaan kata mereka lebih menarik daripada isinya. Maera memberi tanda kecil pada setiap frasa berulang.
+
+"Renn," panggilnya.
+
+Pemuda dari pasar masuk dan duduk di kursi seberang. Di dekat pintu, seorang anak perempuan membawa bekal dan papan tulis kecil. Rambutnya diikat tali kaca. Ia tidak ada di daftar, tetapi mengamati meja Maera dengan perhatian terbuka.
+
+Maera kembali kepada Renn. "Kau berada di shift malam lorong tujuh saat runtuhan?"
 
 "Iya."
 
-"Ceritakan apa yang kau dengar, tiga puluh detik terakhir sebelum runtuhan."
+"Ceritakan tiga puluh detik terakhir sebelum langit-langit turun. Mulai dari bunyi pertama."
 
-"Suaranya panjang, rendah, dari dinding timur. Seperti tarikan napas pelan. Lalu semua bunyi lain berhenti bersamaan."
+Renn menatap sisi meja, bukan Maera. "Ada suara panjang dari dinding timur. Rendah. Seperti orang menarik napas pelan."
 
-"Bersamaan," ulang Maera. Matanya berhenti menghitung sesaat, dan itu justru terasa lebih buruk. "Bukan berangsur? Suara lain biasanya mati berangsur."
+Maera menulis kata yang dipakainya, bukan tafsirnya.
 
-"Ini langsung. Kakak lilin ditiup."
+"Lalu?"
 
-Maera mencatat. Di antara satu huruf dan huruf berikutnya, ia bertanya tanpa mengangkat kepala:
+"Semua suara berhenti."
 
-"Kau bilang 'tarikan napas'. Napas punya irama. Irama berapa detik?"
+"Suara apa saja?"
 
-Hening sebentar — dan Ashvarok menimbang tiga pintu dalam hening itu — bohong buta, jawab kabur, atau jawab benar dengan wajah bocah yang takut. Yang ketiga selalu termurah untuk dibeli.
+"Pahat. Rantai angkut. Batu kecil yang jatuh. Semuanya."
 
-"Tiga detik," katanya. "Aku hitung waktu itu. Orang yang hampir mati suka menghitung."
+"Berangsur?"
 
-Pena itu berhenti sepenuhnya. Untuk beberapa detik, satu-satunya bunyi di ruangan adalah lampu cinder-glass yang berdenging tipis.
+"Serentak. Seperti nyala lilin ditiup."
 
-"Kepala kosong di mana lagi?" tanya Maera, mendongak, dan kalimat itu jatuh ke meja seperti koin asing.
+Delapan saksi sebelumnya menyebut gemuruh, retak, atau teriakan. Tidak seorang pun menyebut keheningan. Maera meletakkan pena.
 
-"Maaf?"
+"Tarikan napas punya irama," katanya. "Berapa lama jedanya?"
 
-"Brannoc menyebut cedera kepalamu. Laporan medis menyebut amnesia segmental pasca-trauma. Jadi ceritakan versimu, lalu tunjukkan bagian mana yang kosong. Aku tidak menilai ingatan; aku menilai konsistensi. Ingatan yang kosong itu pola. Ingatan yang direkonstruksi itu pola juga, hanya saja polanya lebih rapi daripada yang asli."
+Renn akhirnya menatapnya. Keheningan di antara mereka cukup panjang untuk menjadi pilihan, bukan lupa.
 
-Di barisan pintu, Ashvarok mendengar Sela menggeser posisi duduknya — bunyi kecil yang hanya terdengar oleh telinga yang sejak subuh menghitung letak adiknya.
+"Tiga detik."
 
-Dia menjawab dengan cara yang sudah dilatih. Urutan benar untuk yang dia tahu, lubang jujur untuk sisanya, dan di ujung, ketika Maera bertanya soal suara kedua dari dinding yang ia sebutkan dalam laporan awal namun hilang dari ingatannya — dia menjawab "kepalaku kosong di situ" dengan intonasi tepat setengah permintaan maaf.
+Batu tanpa label terasa berat di dalam tas Maera meski tas itu bersandar di dinding.
 
-Pena itu bergerak lagi. Wajah assayer itu tidak memberi apa-apa.
+Titik ukur 7. Enam puluh hasta di bawah batas pemetaan. Gema naik, jeda tiga detik, gema naik lagi. Bukan seam. Seperti paru.
 
-"Terakhir. Ada yang aneh di tambang ini selain runtuhan tujuh?" Maera melipat tangannya. "Pertanyaan standar komisi. Jawaban standar juga diterima."
+"Kau yakin?" tanyanya.
 
-"Lorong sembilan bawah sempit dan gelap," kata Renn. "Itu anehnya hanya itu."
+"Aku menghitung. Orang yang hampir tertimbun mencari sesuatu buat dihitung."
 
-"Terima kasih. Tinggallah mudah dijangkau — survei kedalaman butuh sampel dari shift dasar, dan kau anak dasar yang masih hidup. Itu daftar pendek."
+Pena Maera masih di meja. Ia tidak memasukkan angka itu ke lembar resmi.
 
-Ashvarok bangkit, menyalami persis secukupnya, dan berbalik — dan itulah kenapa ia melihatnya. Sela di barisan pintu sudah berdiri, sudah setengah melangkah maju, sudah membuka mulut dengan wajah anak yang baru menemukan orang yang bisa menghargai angka-angkanya, dan kata-kata yang keluar setengahnya sudah terlihat di bibirnya: "Kakakku bisa membaca—"
+Apakah dua pengamatan dengan metode berbeda dapat disebut kecocokan? Belum. Apakah kecocokan itu dapat dibuang sebagai kebetulan? Juga belum.
 
-Ashvarok memutar badan, menjatuhkan toples air minum dari meja petugas dengan siku — pecahan, keributan, semua kepala menoleh, petugas berseru soal hati-hati, dan dalam dua detik kekacauan sempurna itu ia sudah berdiri di samping Sela dengan tangan di pundaknya, tertawa kecil seperti bocah yang malu.
+Ia mengambil laporan medis. "Cedera kepala. Amnesia segmental pascaruntuh. Bagian mana yang hilang?"
 
-"Dia mau bilang aku bisa membaca wajah orang," katanya pada ruangan, seraya menggiring adiknya keluar. "Tanda-tanda marah foreman, tanda-tanda hujan abu. Trik tungku, bukan ilmu."
+"Sesudah suara berhenti sampai aku bangun di ruang rawat."
 
-Maera Tull menatap mereka melewati ambang pintu, dan pena kecilnya bergerak sekali lagi di atas kertas — satu baris, dua kata paling banyak, yang tidak akan dibacakan pada siapa pun.
+"Laporan awalmu menyebut suara kedua dari dinding."
 
-Di luar, menghadap lereng yang penuh debu, Sela menarik napasnya yang tertahan.
+Renn mengerutkan kening dengan ukuran yang tampak wajar. "Kalau aku bilang begitu waktu itu, mungkin benar. Sekarang kosong."
 
-"Aku hampir," kata dia.
+"Ingatan kosong punya tepi. Ceritakan hal terakhir sebelum kosong dan hal pertama setelahnya."
 
-"Hampir."
+Ia menjawab tanpa bergegas: cahaya lampu di rel, debu terangkat, lalu rasa obat pahit dan suara Sela di ruang rawat. Susunannya bersih, tetapi tidak terlalu bersih. Ada koreksi kecil, satu urutan yang dibalik lalu diperbaiki. Orang yang berbohong sering menambahkan jahitan. Renn justru tahu tempat membiarkan kain robek.
 
-"Kenapa tidak boleh? Dia orang yang menghitung. Dia bakal hargai—"
+Anak perempuan di pintu berhenti menulis di papan kecilnya ketika nama Sela disebut.
 
-"Sela." Ashvarok berjongkok sejajar matanya. "Orang yang menghitung adalah orang yang paling cepat sadar kalau ada angkanya yang tidak cocok. Jangan pernah memberi dia angka gratis."
+"Adikmu?" tanya Maera.
 
-Sela memandangi debu di sepatunya sendiri, dan rahang kecilnya maju mundur seperti sedang menimbang protes. Yang keluar akhirnya bukan protes.
+"Adik angkat."
 
-"Jadi dia bahaya?"
+"Dia sering ikut kerja?"
 
-"Dia akurat." Ashvarok bangkit, melihat kembali pintu ruang persimpangan tempat pena kecil itu masih bergerak. "Bahaya bisa ditebak arahnya. Akurat... dia bakal menemukan apa yang dicarinya cepat atau lambat."
+"Dia mengantar bekal."
 
-"Terus kita apa?"
+Sela mengangkat bungkusan roti sebagai bukti, lalu memandang weighing box Maera. "Itu buat menilai batu?"
 
-"Kita jadi orang yang tidak menarik." Ia mengambil bekal dari tangan Sela — roti keras dan air dalam gelas kaca pecah mereka, barang-barang yang tidak punya angka menarik. "Sudah dua hari kau tidak ikut pasar. Besok juga tidak. Sampai orang ungu ini pulang ke Spire-nya."
+"Sela," tegur Renn.
 
-Sela mengangguk dengan wajah anak yang patuh sambil tidak setuju, kombinasi yang sudah dikuasainya sejak umur tujuh. Mereka turun ke barak lewat jalur belakang, dan di ujung lorong, Ashvarok mencatat satu hal terakhir hari itu untuk arsip pribadinya. Dari semua pertanyaan assayer itu pagi tadi, satu-satunya yang ia ajukan tanpa membuka catatan resmi adalah soal irama tiga detik.
+"Ya," jawab Maera. "Berat, gema, kepadatan, dan kebohongan pedagang, kalau hari sedang baik."
 
-Pertanyaan yang sama, dengan angka yang sama, yang tidak tertulis di laporan mana pun.
+Mata anak itu membesar. "Kenapa kotaknya kecil?"
 
-Yang berarti ada dua pembaca yang sudah mendengar napas di kedalaman itu — dan Guild baru datang sembilan hari.
+"Agar bisa dibawa turun."
+
+"Kenapa pakai dua pengunci?"
+
+"Agar anak yang bertanya tiga kali tidak membukanya."
+
+Sela menutup mulut, lalu tersenyum karena menangkap hitungannya. Renn tidak ikut tersenyum.
+
+Maera membuka halaman baru. "Pertanyaan terakhir. Ada hal lain di tambang yang bunyinya tidak sesuai dengan batunya? Lorong sembilan bawah, misalnya."
+
+"Lorong sembilan bawah sempit, gelap, dan membuat semua bunyi terdengar salah," kata Renn. "Kalau itu aneh, seluruh Caldrest aneh."
+
+"Jawaban yang aman."
+
+"Pertanyaannya resmi."
+
+Jadi ia tahu bedanya pertanyaan resmi dan pertanyaan yang sengaja tidak ditulis. Maera menutup laporan.
+
+"Tetap mudah dijangkau. Survei dasar memerlukan pengangkut untuk kotak alat dan sampel. Nama pekerja yang selamat dari lorong tujuh masuk daftar pendek."
+
+Renn berdiri. Sela sudah maju satu langkah, menatap Maera dengan kegembiraan yang belum belajar menyembunyikan diri.
+
+"Kalau Kak Renn ikut, dia bisa bantu. Kakakku bisa membaca—"
+
+Siku Renn menyentuh toples air di ujung meja.
+
+Toples jatuh. Kaca pecah di lantai, air menyebar ke sepatu Maera, dan petugas di meja sebelah bangkit sambil memaki. Renn sudah meraih bahu Sela sebelum pecahan terakhir berhenti bergerak.
+
+"Membaca wajah," katanya. Nada malu muncul tepat waktu. "Dia mau bilang aku bisa membaca wajah foreman sebelum dimarahi. Kadang tanda hujan abu juga. Trik anak tungku."
+
+Sela memandangnya. Protes sempat tampak, lalu lenyap di bawah tekanan tangannya.
+
+"Keluar lewat sisi kiri," kata Maera. "Jangan injak kaca."
+
+Renn menggiring Sela menuju pintu. "Kau tidak ke pasar sampai orang Guild pergi."
+
+"Tapi—"
+
+"Tidak ke pasar."
+
+Dari ambang, anak itu menoleh sekali pada weighing box, bukan pada pecahan. Maera menunggu sampai langkah mereka menjauh.
+
+Ia menarik lembar resmi agar tidak terkena air. Tidak menulis irama tiga detik. Tidak menulis kalimat Sela. Sebagai gantinya, ia membuka buku catatan pribadi dan membuat dua baris di halaman tanpa nomor:
+
+`Renn—L7: hening serentak; jeda ±3 detik.`
+
+`Sela: "bisa membaca—"; pengalihan disengaja.`
+
+Catatan itu masuk ke lapisan tas yang sama dengan inti bor tanpa label.
+
+Apakah Renn pembaca retakan milik pasar? Bukti belum cukup. Apakah ia tahu sesuatu tentang suara di bawah Caldrest? Tiga detik cukup untuk pemeriksaan kedua.
+
+Maera mengambil daftar tugas Hari 13. Di bawah tujuan `lorong sembilan bawah—ruang sampel`, ia mencoret nama pengangkut yang disiapkan Kel Tharrow dan menulis satu pengganti.
+
+`Renn. Kotak alat.`

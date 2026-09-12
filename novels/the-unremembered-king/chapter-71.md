@@ -7,7 +7,7 @@ Pagi hari kesembilan puluh, laporan datang ke meja Brannoc sebelum laporan itu s
 
 Brannoc menyampaikannya kepada Ashvarok dengan cara orang menyampaikan cuaca. "Ikan mati. Satu malam. Airnya jernih."
 
-"Yang hidup tidak mati serum itu kalau airnya buruk," kata Ashvarok. "Yang mati serum itu biasanya bukan karena airnya."
+"Yang hidup tidak mati serentak kalau airnya buruk," kata Ashvarok. "Yang mati serentak biasanya bukan karena airnya."
 
 "Maka aku mau kau lihat sendiri. Jalur inspeksi ventilasi hari ini lewat persimpangan galeri sembilan. Dua puluh menit menyimpang, tidak ada yang bertanya."
 
@@ -21,7 +21,7 @@ Undian inspeksi hari itu jatuh pada regu galeri sebelas, dan Ashvarok masuk ke d
 
 Ruang kolong galeri sembilan adalah ceruk lebar di sisi lorong, tempat air rembesan terkumpul selama puluhan tahun menjadi kolam seluas meja panjang — sumber minum blok, tempat para perempuan mengisi gentong, tempat ikan diternak di keranjang-keranjang tenggelam. Beberapa penambang masih berdiri di tepinya ketika mereka tiba, tidak melakukan apa-apa, hanya berdiri, seperti orang menjenguk.
 
-Di antara mereka Tovik. Lelaki tua itu duduk di atas batu rendah dengan keranjang kosong di pangkuannya, ramah seperti biasa, dan ia mengangkat tangannya kepada Renn dengan senyum yang tidak berubah. "Anak baik," katanya. "Mereka bilang ikan-ikuannya mati. Aku datang mau membantu mengangkat, tetapi lupa untuk apa keranjang ini kalau semua sudah diangkat." Ia tertawa kecil pada dirinya sendiri, dan tidak ada yang ikut tertawa, dan senyumnya tetap bertahan karena tidak tahu harus ke mana.
+Di antara mereka Tovik. Lelaki tua itu duduk di atas batu rendah dengan keranjang kosong di pangkuannya, ramah seperti biasa, dan ia mengangkat tangannya kepada Renn dengan senyum yang tidak berubah. "Anak baik," katanya. "Mereka bilang ikan-ikannya mati. Aku datang mau membantu mengangkat, tetapi lupa untuk apa keranjang ini kalau semua sudah diangkat." Ia tertawa kecil pada dirinya sendiri, dan tidak ada yang ikut tertawa, dan senyumnya tetap bertahan karena tidak tahu harus ke mana.
 
 Ashvarok berlutut di tepi kolong, seolah memeriksa air, dan membiarkan indranya turun lebih dalam daripada mata.
 
@@ -29,13 +29,13 @@ Airnya benar-benar jernih. Tidak ada lapisan minyak, tidak ada busa, tidak ada b
 
 Sebab yang tidak normal bukan di air. Di batu.
 
-Selama setahun ini ia belajar membaca sunyi seperti orang lain membaca tulisan, dan sunyi punya dialek. Sunyi lorong yang aman adalah sunyi batu yang tidur — tebal, bodoh, damai. Sunyi bekas kebocoran yang telah ia tutup adalah sunyi luka yang sembuh — tipis di tengah, tebal di tepi. Dan sunyi ruang ini adalah sesuatu yang belum pernah ia dengar sejak seribu tahun: sunyi ruangan yang sudah dihuni. Batu-batu di sekeliling kolong masih utuh, masih kuat, tidak retak sedikit pun — tetapi gemanya tidak lagi mengalir keluar. Ia berputar ke dalam. Seperti dapur yang api dipindahkan ke tungku lain; seperti rumah yang perabotnya sudah disusun ulang oleh tangan yang bukan tangan penghuninya.
+Selama dua bulan ini ia belajar membaca sunyi seperti orang lain membaca tulisan, dan sunyi punya dialek. Sunyi lorong yang aman adalah sunyi batu yang tidur — tebal, bodoh, damai. Sunyi bekas kebocoran yang telah ia tutup adalah sunyi luka yang sembuh — tipis di tengah, tebal di tepi. Dan sunyi ruang ini adalah sesuatu yang belum pernah ia dengar dalam seribu tahun: sunyi ruangan yang sudah dihuni. Batu-batu di sekeliling kolong masih utuh, masih kuat, tidak retak sedikit pun — tetapi gemanya tidak lagi mengalir keluar. Ia berputar ke dalam. Seperti dapur yang api dipindahkan ke tungku lain; seperti rumah yang perabotnya sudah disusun ulang oleh tangan yang bukan tangan penghuninya.
 
 Wilayah itu tidak rusak. Wilayah itu mulai merasa sudah dimiliki.
 
-Ashvarok mengambil kerikil dari tepi kolong dan menjatuhkannya ke air. Bunyi kecilnya jatuh lurus ke bawah dan tidak kembali. Di kolong yang sehat, gemanya akan menyentuh langit-langit ceruk, memantul dua kali, dan matanya — telinganya, yang lebih tua daripada tubuh ini — akan menerimanya seperti penerimaan kiriman. Malam ini kiriman itu tidak diambil siapa-siapa. Atau sudah diambil, oleh pemilik baru.
+Ashvarok mengambil kerikil dari tepi kolong dan menjatuhkannya ke air. Bunyi kecilnya jatuh lurus ke bawah dan tidak kembali. Di kolong yang sehat, gemanya akan menyentuh langit-langit ceruk, memantul dua kali, dan matanya — telinganya, yang lebih tua daripada tubuh ini — akan menerimanya seperti penerimaan kiriman. Kali ini kiriman itu tidak diambil siapa-siapa. Atau sudah diambil, oleh pemilik baru.
 
-Dia berdiri pelan-pelan, dan menemukan Brannoc sudah berdiri di sampingnya, membaca wajahnya dengan cara mandor membaca wajah orang yang baru keluar dari lorong yang salah.
+Dia berdiri pelan-pelan, dan menemukan Brannoc sudah berdiri di sampingnya, membaca wajahnya dengan cara Foreman membaca wajah orang yang baru keluar dari lorong yang salah.
 
 "Bukan gas," kata Ashvarok, cukup pelan untuk mereka berdua.
 
@@ -43,7 +43,7 @@ Dia berdiri pelan-pelan, dan menemukan Brannoc sudah berdiri di sampingnya, memb
 
 "Tempat ini mulai diperebutkan," kata Ashvarok. "Tidak oleh manusia."
 
-Brannoc diam mengamatinya beberapa detik penuh. Setahun perjanjian diam membuat percakapan seperti ini tidak perlu dimulai dari nol. "Lubang yang sama yang ambil nama Tovik?"
+Brannoc diam mengamatinya beberapa detik penuh. Hampir dua bulan perjanjian diam membuat percakapan seperti ini tidak perlu dimulai dari nol. "Lubang yang sama yang ambil nama Tovik?"
 
 "Lubang yang sama. Tetapi ini tahap berikutnya." Ashvarok memandangi permukaan air yang tidak bergoyang. "Dulu ia mengambil nama orang. Satu orang, satu blok, satu jam. Sekarang..." Ia tidak menyelesaikan kalimatnya dengan kata-kata, melainkan dengan gerakan tangan yang memutar mencakup ceruk, lorong, dinding, seluruh sayap timur tambang. "Tempat. Nama orang hilang dari ingatan orang. Tempat yang begini hilang dari dunia — perlahan, tanpa luka, tanpa retakan yang bisa kunutup. Aku bisa mengunci sebuah retakan. Aku tidak bisa mengunci sebuah kepemilikan."
 
@@ -51,15 +51,15 @@ Brannoc diam mengamatinya beberapa detik penuh. Setahun perjanjian diam membuat 
 
 "Belum ada harga yang bisa kukeluarkan untuk yang sebesar itu, dan itu bukan kabar terburuknya. Kabar terburuknya — kalau aku mencoba, ia tahu aku ada di sini."
 
-Brannoc mengunyah akar pahitnya dua kali, dan Ashvarok tahu mandor itu sedang menghitung dengan cara Brannoc menghitung — bukan teori, tetapi barisan. Orang-orang minum dari kolong ini. Anak-anak mandi airnya. Empat ratus keluarga di atas kepala mereka berdua.
+Brannoc mengunyah akar pahitnya dua kali, dan Ashvarok tahu Foreman itu sedang menghitung dengan cara Brannoc menghitung — bukan teori, tetapi barisan. Orang-orang minum dari kolong ini. Anak-anak mandi airnya. Empat ratus keluarga di atas kepala mereka berdua.
 
 "Kalau ini masuk laporan," kata Brannoc akhirnya, "apa yang terjadi?"
 
-"Instrumen datang. Instrumen tidak menemukan apa pun, karena tidak ada yang bisa mereka membaca di air jernih. Namun kata 'anomali' sudah cukup untuk karantina total sayap timur — bukan karantina ringan yang sekarang, yang bisa dihitung-hitung. Karantina sungguhan. Shift berhenti, santunan jadi satu-satunya makanan, dan Vael mendapat alasan resmi untuk memindahkan kalian 'untuk keselamatan' empat puluh hari sebelum jadwalnya." Ashvarok menoleh. "Atau kita tidak melapor, dan kita pindahkan sumber minum ini sendiri, malam ini juga."
+"Instrumen datang. Instrumen tidak menemukan apa pun, karena tidak ada yang bisa mereka baca di air jernih. Namun kata 'anomali' sudah cukup untuk karantina total sayap timur — bukan karantina ringan yang sekarang, yang bisa dihitung-hitung. Karantina sungguhan. Shift berhenti, santunan jadi satu-satunya makanan, dan Vael mendapat alasan resmi untuk memindahkan kalian 'untuk keselamatan' empat puluh hari sebelum jadwalnya." Ashvarok menoleh. "Atau kita tidak melapor, dan kita pindahkan sumber minum ini sendiri, malam ini juga."
 
 "Pindah ke mana?"
 
-"Ke mata air kecil di galeri sebelas, sisi barat. Rembesannya murni, jalurnya pendek, batunya belum tersentuh." Ia mengatakannya dengan keyakinan yang bukan ramalan — geometri, bukan nasib, dan geometri bisa dibuktikan malam ini juga. "Aku tunjukkan titiknya. Kalian gali parit pengarah selebar dua telapak tangan, tutup jalur lama dengan tanah lihat. Tiga shift kerja, dan blok minum dari tempat yang masih diisi."
+"Ke mata air kecil di galeri sebelas, sisi barat. Rembesannya murni, jalurnya pendek, batunya belum tersentuh." Ia mengatakannya dengan keyakinan yang bukan ramalan — geometri, bukan nasib, dan geometri bisa dibuktikan malam ini juga. "Aku tunjukkan titiknya. Kalian gali parit pengarah selebar dua telapak tangan, tutup jalur lama dengan tanah liat. Tiga shift kerja, dan blok minum dari tempat yang masih diisi."
 
 "Dan kolong ini?"
 
@@ -75,7 +75,7 @@ Ashvarok pulang paling akhir. Di depan ceruk yang sudah kosong ia berhenti seben
 
 Sunyi itu tidak mengancam. Tidak bernapas keras. Ia hanya berada di sana, tenang dan sabar seperti pemilik rumah yang tidak perlu mengusir tamu, karena tamu akan pergi sendiri.
 
-"Galeri sebelas malam ini," kata Brannoc di belakangnya, bukan bertanya. "Besok galeri tujuh. Aku mau daftar lengkap: semua sumber minum blok, semua mata air, urut dari yang paling banyak diminum." Ia berhenti, lalu menambahkan hal yang selama setahun tidak pernah ia minta secara langsung: "Dan kalau ada tempat lain yang berhenti bersuara — apa pun tempatnya, sekecil apa pun — laporkan kepadaku, dan aku lapor ke kamu. Bukan ke kertas. Kertas tidak tahu bedanya tempat yang mati dan tempat yang diambil."
+"Galeri sebelas malam ini," kata Brannoc di belakangnya, bukan bertanya. "Besok galeri tujuh. Aku mau daftar lengkap: semua sumber minum blok, semua mata air, urut dari yang paling banyak diminum." Ia berhenti, lalu menambahkan hal yang selama ini tidak pernah ia minta secara langsung: "Dan kalau ada tempat lain yang berhenti bersuara — apa pun tempatnya, sekecil apa pun — laporkan kepadaku, dan aku lapor ke kamu. Bukan ke kertas. Kertas tidak tahu bedanya tempat yang mati dan tempat yang diambil."
 
 "Catat juga yang sebaliknya," kata Ashvarok. "Kalau ada tempat yang mulai terasa hangat tanpa sebab, atau batu yang gemanya balik terlalu cepat. Pemilik baru meninggalkan tanda di mana ia sudah menandatangani."
 

@@ -19,7 +19,7 @@ Brannoc, yang sedang mencatat rotasi di papan gudangnya, tidak bertanya kenapa. 
 
 "Mau mendengarkan. Dan kalau perlu, menutup mulutnya." Ia berhenti di pintu, dan berkata sisanya dengan kejujuran yang berat di lidah: "Kalau aku tidak naik sebelum lonceng ketiga, jangan turun mencariku. Kumpulkan orang. Naikkan semua."
 
-Brannoc menatapnya satu detik lebih lama dari biasa, lalu mengangguk sekali — angguk prajurit, bukan mandor — dan tidak menyuruhnya berhati-hati, karena keduanya tahu hati-hati sudah bukan barang yang tersedia malam ini.
+Brannoc menatapnya satu detik lebih lama dari biasa, lalu mengangguk sekali — angguk prajurit, bukan Foreman — dan tidak menyuruhnya berhati-hati, karena keduanya tahu hati-hati sudah bukan barang yang tersedia malam ini.
 
 ---
 
@@ -29,7 +29,7 @@ Retakan itu mengisi dirinya. Sesuatu di seberang segel sedang mengumpulkan napas
 
 Ia berlari.
 
-Tubuh lima belas tahun itu berlari sebaik yang bisa dilakukan tubuh lima belas tahun — paru-paru sempit, lutut yang dua hari lalu dibayar habis oleh Forge — melewati persimpangan utama yang hampir kosong, turun jalur servis yang hanya dihafal empat orang hidup, sampai galeri bantu timur dua, sampai lorong B, sampai dinding yang empat hari lalu bersumpah telah menjadi dinding sepanjang umurnya.
+Tubuh lima belas tahun itu berlari sebaik yang bisa dilakukan tubuh lima belas tahun — paru-paru sempit, lutut yang masih lemah karena dua malam kerja dan jatah makan yang kurang — melewati persimpangan utama yang hampir kosong, turun jalur servis yang hanya dihafal empat orang hidup, sampai galeri bantu timur dua, sampai lorong B, sampai dinding yang empat hari lalu bersumpah telah menjadi dinding sepanjang umurnya.
 
 Di balik dinding itu, empat puluh hasta lebih jauh, bibir retakan the Threshold sedang bernyanyi pelan kepada dirinya sendiri.
 
@@ -37,7 +37,7 @@ Bukan metafora. Bunyi itu belum menembus batu. Ia mendengarnya melalui tulangnya
 
 Ashvarok berdiri di hadapan dinding palsunya dan menghitung pilihan yang tidak ada.
 
-Menutup retakan sepenuhnya berarti the Walking Key, satu putaran penuh, dan the Remainder-nya tinggal segenggam — harga yang mungkin tidak menyisakan cukup dirinya untuk tetap menjadi seseorang. Membuka jarak berarti membiarkan lagu itu selesai diputar, dan lagu yang selesai akan merambat naik melalui setiap sumur ventilasi, setiap rel, setiap retakan pipa air, ke permukaan yang sedang tidur dengan empat ratus keluarga di daftar sebuah Overseer.
+Menutup retakan sepenuhnya berarti memakai Walking Key untuk satu putaran penuh, membakar the Remainder yang tinggal segenggam dan mungkin tidak menyisakan cukup dirinya untuk tetap menjadi seseorang. Membiarkan jarak terbuka berarti lagu selesai diputar dan merambat melalui setiap sumur ventilasi, rel, serta retakan pipa air menuju permukaan yang sedang tidur dengan empat ratus keluarga di daftar Overseer.
 
 Di lorong di belakangnya, jauh, lampu karbid pertama mulai meredup tanpa alasan.
 
@@ -45,7 +45,7 @@ Sunyi datang merayap naik dari kedalaman — bukan sunyi troli yang tujuh detik,
 
 Ash.
 
-Harga abu adalah ingatan. Harga tubuh adalah mati rasa yang merambat. Ia sudah mengetahui kedua harga itu sejak lempeng pengukur persimpangan, dan ia membayarnya lagi, karena tidak ada diskon untuk penjaga.
+Harga Ash adalah ingatan yang diserapnya dan mati rasa pada tubuh yang menjadi wadah. Harga itu berbeda dari bahan Forge yang menua dan berbeda dari the Remainder yang dibakar Walking Key. Ia mengetahuinya sejak junction measuring plate, lalu membayarnya lagi karena tidak ada diskon bagi penjaga.
 
 Ia meletakkan kedua telapak tangan pada celah tirisan garam di dasar dinding — jalur mikro yang sama tempat dulu titik bocor kecil disegel — membuka jalurnya selebar jari, dan menuangkan Ash ke dalamnya seperti menuangkan air dingin ke tenggorokan yang bernyanyi.
 
@@ -69,15 +69,15 @@ Hampir semua.
 
 Ashvarok naik ke permukaan pada lonceng ketiga, dengan cara berjalan yang disusun sedemikian rupa agar terlihat seperti lelah biasa, padahal lengan kanannya tidak lagi miliknya dari siku ke bawah — bukan mati rasa biasa, melainkan kehilangan peta, jarinya bergerak tetapi kabar dari jari ke kepala harus menempuh jalan lebih panjang.
 
-Orang-orang berkerumun di barak dan gang, membandingkan jam, membandingkan lilin. Brannoc sudah di tengah kerumunan, melakukan pekerjaan yang disepakati: "Gas," katanya, keras, berkali-kali, dengan wajah Foreman yang tidak menerima bantahan. "Kantong old gas di retakan bawah. Membuat pusing, membuat lilin cepat habis, membuat jam lo semua kacau. Besok regu pertama turun cek ventilasi. Sekarang semua tidur."
+Orang-orang berkerumun di barak dan gang, membandingkan jam, membandingkan lilin. Brannoc sudah di tengah kerumunan, melakukan pekerjaan yang disepakati: "Gas," katanya, keras, berkali-kali, dengan wajah Foreman yang tidak menerima bantahan. "Kantong gas tua di retakan bawah. Membuat pusing, membuat lilin cepat habis, membuat jam kalian kacau. Besok regu pertama turun memeriksa ventilasi. Sekarang semua tidur."
 
-Sebagian percaya. Sebagian tidak percaya tetapi lelah. Sebagian kecil — mata-mata mata pencarian, penilai yang menghitung — diam dengan cara yang memberitahu Ashvarok bahwa cerita gas akan hidup sampai besok sore dan mati setelahnya.
+Sebagian percaya. Sebagian tidak percaya tetapi lelah. Sebagian kecil — mata-mata pencarian, Assayer yang menghitung — diam dengan cara yang memberitahu Ashvarok bahwa cerita gas akan hidup sampai besok sore dan mati setelahnya.
 
 Yang membuat kakinya berhenti di tikungan terakhir menuju barak bukan kerumunan.
 
-Ossian Vael berdiri sendirian di tepi lereng timur, tanpa pengawal, tanpa lampu, menghadap mulut tambang yang gelap. Pejabat Koordinasi Artefak Regional itu tidak tampak terburu-buru, tidak tampak takut. Ia tampak seperti orang yang baru saja menemukan bab yang selama ini hilang dari buku yang ia sedang membaca.
+Ossian Vael berdiri sendirian di tepi lereng timur, tanpa pengawal, tanpa lampu, menghadap mulut tambang yang gelap. Pejabat Regional Artifact Coordination itu tidak tampak terburu-buru, tidak tampak takut. Ia tampak seperti orang yang baru saja menemukan bab yang selama ini hilang dari buku yang sedang ia baca.
 
-"Assayer muda bilang ada insiden gas," kata Ossian tanpa menoleh, karena ia tentu sudah mendengar langkah botol tambang di belakangnya. "Cerita yang efisien. Sayangnya saya mendengar bagian yang tidak ditutup cerita mana pun." Kini ia menoleh, dan di wajah sopan itu ada hal yang belum pernah Ashvarok lihat di sana: kesungguhan polos, nyaris anak-anak. "Rekaman. Bukan komposisi. Orang yang menyanyi itu sedang diupacarakan, bukan sedang mencipta. Seam di bawah kota Anda, Renn, adalah saksi hidup — dan malam ini ia bersaksi di depan separuh kota."
+"Assayer muda bilang ada insiden gas," kata Ossian tanpa menoleh, karena ia tentu sudah mendengar langkah sepatu bot tambang di belakangnya. "Cerita yang efisien. Sayangnya saya mendengar bagian yang tidak ditutup cerita mana pun." Kini ia menoleh, dan di wajah sopan itu ada hal yang belum pernah Ashvarok lihat di sana: kesungguhan polos, nyaris anak-anak. "Rekaman. Bukan komposisi. Orang yang menyanyi itu sedang diupacarakan, bukan sedang mencipta. Seam di bawah kota Anda, Renn, adalah saksi hidup — dan malam ini ia bersaksi di depan separuh kota."
 
 "Gas bisa membuat orang mendengar apa saja," kata Ashvarok.
 
@@ -99,12 +99,12 @@ Ashvarok mengulurkan lengannya. Anak itu mengukur dengan dua jari, dari pergelan
 
 "Kenapa?" Suara anak itu pecah di satu titik, lalu dikumpulkan kembali. "Kenapa malam ini naik sejauh itu? Kamu pakai apa?"
 
-Ashvarok memandang telapak tangan kanannya. Di garis-garis tangannya, jika diterangi benar, ada lapisan abu sangat tipis yang tidak mau dibersihkan — dan abu itu, di kegelapan, bergoyang pelan mengikuti melodi yang hanya ia bisa dengar. Seratus suara mati kini tinggal di kulitnya, mengingat lagu, dan lagu itu bisa dibaca oleh pembaca yang tepat dengan harga yang tepat.
+Ashvarok memandang telapak tangan kanannya. Di garis-garis kulitnya, jika diterangi benar, ada lapisan abu sangat tipis yang tidak mau dibersihkan. Abu itu bergoyang mengikuti melodi yang hanya bisa ia dengar. Abu pengingat-lagu itu berisi seratus suara era Hegemony; garis Hourglass yang melewati siku adalah harga Ash menyimpan rekaman itu, bukan harga Forge, Resonance, atau Walking Key.
 
-"Aku pakai jalan pintas," katanya akhirnya. "Besok aku cerita semuanya. Bukan besok pagi. Besok, waktu kamu tidak mengantuk dan tidak ada yang bisa dengar."
+"Aku memakai Ash untuk menelan lagunya," katanya. Kebohongan akan merusak janji sebelum dibuat. "Besok aku ceritakan yang bisa kuceritakan: tubuh Renn, empat untaian, dan harga masing-masing. Bukan sekarang, saat semua orang masih bangun dan kamu hampir tertidur."
 
 Sela menatapnya lama, menimbang janji dengan alat miliknya sendiri, lalu membuka kolom Hourglass dan menulis dengan huruf yang ditekan keras: LONJAKAN. SIKU LEWAT. TANGGAL. Di bawahnya, tanpa diminta, ia menambahkan satu baris kecil: DIA JANJI CERITA.
 
-"Colom HARI MAERA tinggal dua," kata anak itu sambil memadamkan lampu, dan kalimat itu jatuh di kegelapan barak sebagai pengingat bahwa dunia memiliki lebih dari satu hitungan mundur, dan tidak satu pun dari mereka berhak memilih yang mana yang boleh berdetak lebih dulu.
+"Kolom HARI MAERA tinggal empat," kata anak itu sambil memadamkan lampu, dan kalimat itu jatuh di kegelapan barak sebagai pengingat bahwa dunia memiliki lebih dari satu hitungan mundur, dan tidak satu pun dari mereka berhak memilih yang mana yang boleh berdetak lebih dulu.
 
 Di luar, Caldrest berbalik tidur dengan satu jam lebih sedikit, dan di penginapan distrik atas, menurut yang akan diceritakan pegawai bersih-bersih esok paginya, lampu di kamar tamu penting menyala sampai subuh.

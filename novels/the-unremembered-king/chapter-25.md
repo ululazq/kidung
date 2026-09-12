@@ -3,80 +3,220 @@ title: "Bab 25: Barang yang Menua"
 chapter: 25
 ---
 
-Tiga malam terakhir bulan itu, ruang tungku tingkat lima bekerja dua kali lipat: sekali untuk the Quiet Vein, sekali untuk seorang raja tanpa nama. Tungku itu sendiri tampak tidak keberatan — ia hanya meradang lebih kuning, lebih dalam, seperti lampu cinder-glass yang dipanggil untuk menjaga dua urusan sekaligus.
+Pada malam pertama, keping cinder-glass itu menolak disentuh.
 
-Bahan bakunya bukan besi lagi. Di atas kain bersih di samping tungku, Ashvarok menyusun karunia yang sudah setahun tidak diminta siapa pun: tujuh keping tulang seam premium dari lorong-lorong tua — fragmen cinder-glass dengan gema dalam dan warna madu gelap, jenis yang kalau dijual mentah akan membuat Tharrow tersenyum untuk pertama kali tahun ini. Dia memilih tiga yang terbaik. Empat sisanya tetap menunggu di karung, sebagai kelanjutan kesepakatan yang tidak boleh macet.
+Bukan dengan kekerasan. Ia hanya mempertahankan tiga riwayat yang berbeda: pecahan pertama pernah terbenam di aliran panas, pecahan kedua tumbuh dekat kantong garam, pecahan ketiga dicabut dari seam yang sudah lama mati. Di bawah telapak Ashvarok, ketiganya berdenging dengan nada yang tidak mau bertemu.
 
-Forge pada cinder-glass ternyata berbeda rasanya daripada pada besi. Besi melawan lalu mengalah. Kaca-batu ini bernyanyi — gema alaminya begitu tua dan sabar sampai pola-pola Forge masuk ke dalamnya seperti air menemukan dasar sungai lama. Tidak ada perlawanan; hanya penerimaan, seperti rumah yang sudah lama menunggu penghuninya pulang. Ashvarok menempa ketiga keping itu menjadi satu bilah pendek sepanjang telapak tangan — pisau upacara, bentuk yang tidak dipakai manusia zaman ini untuk apa pun yang praktis, sehingga tidak ada yang bertanya fungsinya apa. Bentuknya ia ambil dari ingatan seribu tahun silam — gagang segel minor Hegemony, jenis yang dulu dibawa para juru tulis kerajaan saat membubuhkan dokumen yang tidak boleh dipalsukan.
+Tungku ventilasi tingkat lima mengembuskan hawa kering ke wajahnya. Jelaga pahit melekat di lidah. Di atas lempeng baja, tiga seam-bone pilihan terbaring membentuk kipas kecil, cokelat madu dan bening pada tepi. Bahan itu cukup berharga untuk dijual mentah, tetapi tidak cukup untuk membeli kebebasan Harn sebelum penilaian ulang esok lusa.
 
-Prosesnya memakan tiga malam, dan setiap malam tubuh Renn mengirim tagihannya dengan cara yang berbeda dari Cinder. Forge tidak mengambil satu jalur; ia mengambil sedikit dari semuanya. Setelah malam pertama, jemari kanannya gemetar sampai fajar. Setelah malam kedua, laparnya bisa dimakan empat porsi tanpa rasa bersalah dan tetap terbangun jam kedua. Setelah malam ketiga, ia menemukan dirinya menghitung ulang neraca hidupnya di tengah pekerjaan — tanda tubuh yang sudah memasuki wilayah yang seharusnya tidak didatangi lagi minggu ini. Ashvarok mencatat harga itu di kolom Hourglass dengan kode yang hanya mereka berdua pahami: "mkn x4", lalu di bawahnya, lebih kecil — "jangan 2x lagi bulan ini."
+Ashvarok menyusun sembilan simpul Forge di kepala, lalu membuka simpul pertama.
 
-Disiplin baru itu rasanya aneh. Seribu tahun silam, dia bisa membakar setengah kerajaan dalam satu malam dan bangun pagi menandatangani dekrit. Sekarang, satu bilah kecil memakan tiga hari dan seluruh tabungan lemak bocah tambang. Dunia telah mengecil — tetapi justru karena itu, setiap barang yang berhasil dibuat kini punya bobot yang tidak pernah dimiliki jembatan-jembatan Hegemony. Bobot harga yang benar-benar dibayar sendiri.
+Panas keluar dari jemarinya. Bukan api; tidak ada cahaya yang dapat dilihat penjaga di bawah pintu. Struktur dalam pecahan pertama melunak, garis-garis gelapnya bergeser sepersekian kuku. Keping kedua menjawab dengan nada lebih tinggi. Ketika ia memaksa keduanya menyatu, sakit menusuk dari pangkal ibu jari sampai bahu.
 
-Ketika malam ketiga usai dan bilah itu selesai, ia memeriksanya di cahaya bara dan menemukan hasil yang melebihi hitungan. Forge tier-nol pada bahan prasejarah ternyata tidak sekadar menyambut — ia menyempurnakan. Garis-garis gema dalam kaca-batu itu, yang dulu tersusun acak seperti urat daun, kini tertata dalam pola spiral halus yang hanya muncul pada artefak istana Hegemony kelas atas. Barang ini tidak akan terlihat sebagai buatan tangan zaman ini. Barang ini akan terlihat sebagai buatan zaman lain.
+Ia menghentikan pola.
 
-Ia menempanya selama tiga malam. Dan setiap malam, harga Forge bekerja persis seperti yang dia hitung: bilah itu menua. Bukan rusak — menua. Warnanya turun dari madu gelap menjadi amber tua, lalu menjadi merah jambu pucat khas cinder-glass prasejarah yang hanya muncul di seam yang mati sebelum the Liberation. Struktur dalamnya mengeras sempurna; tidak ada satu garis getas. Pada malam ketiga, barang yang lima hari silam adalah tiga fragmen mentah itu sudah terlihat seperti artefak yang baru digali dari reruntuhan era yang tidak pernah diketahui Caldrest.
+Menang terhadap bahan bukan tujuan Forge. Benda yang dipaksa hanya menyimpan bentuk penakluknya; benda yang dibaca akan menyimpan bentuknya sendiri. Dulu ia punya penempa istana untuk mengingatkan hal sesederhana itu. Kini tidak ada siapa pun selain tungku, tubuh bocah berusia lima belas tahun, dan tenggat seorang anak yang bahkan belum pernah ditemuinya.
 
-Barang yang menua jadi lebih mahal. Untuk pertama kalinya dalam hidup kedua seninya, harga dan nilai berjalan searah.
+Ashvarok mengubah urutan. Ia tidak meminta ketiga keping menjadi satu. Ia mencari cerita terpendek yang masih dapat mereka akui bersama: berasal dari kedalaman yang sama, dipatahkan tangan manusia, dibawa naik untuk dijual.
 
-Masalahnya tinggal satu. Barang antik tidak punya harga sampai ada yang menilainya resmi. Dan satu-satunya assayer resmi di Caldrest sedang menyelesaikan survei yang tujuannya membongkar pekerjaan pemilik barang.
+Nada-nada itu mendekat.
+
+Menjelang fajar, ketiga keping telah menjadi satu bongkah kasar. Belum bilah. Belum berharga. Tubuh Renn gemetar ketika Ashvarok menutup simpul terakhir. Ia menghabiskan dua roti dingin sebelum naik dari tingkat lima dan tetap lapar.
+
+Di belakang papan Hourglass malam itu, Sela menulis: `mkn x4`.
+
+Ashvarok menambahkan: `malam pertama—bentuk dasar`.
+
+Sela membaca catatan itu sambil berdiri di atas bangku. "Berapa malam?"
+
+"Tiga."
+
+"Tubuhmu sanggup?"
+
+"Kalau aku berhenti setiap bentuknya mulai melawan."
+
+Sela menatap garis di lengan kanannya, lalu bongkah cinder-glass yang dibungkus kain. "Jawaban raja. Aku tanya tubuhmu."
+
+Ashvarok mengambil kapur dari tangannya. "Tubuh ini sanggup tiga malam. Tidak empat."
+
+"Tulis itu."
+
+Ia menulisnya. Sela baru turun dari bangku setelah melihat titik terakhir.
+
+Malam kedua dipakai untuk menemukan bilah di dalam bongkah. Ashvarok tidak mengiris atau memukul. Forge melipat struktur cinder-glass ke pusat, merapatkan rongga tanpa menghapus urat tiap keping. Bentuk yang muncul panjangnya satu telapak tangan: pisau upacara, terlalu pendek untuk senjata tambang, terlalu seimbang untuk hiasan murahan. Pada pangkalnya ia membentuk gagang segel minor, rancangan lama yang pernah dipakai juru tulis Hegemony untuk membuka lilin dokumen tanpa merusak serat kertas.
+
+Ia memilih bentuk itu bukan untuk memanggil masa lalu. Barang yang tak punya kegunaan mudah disebut tiruan. Pisau ini punya pekerjaan yang dapat diperagakan.
+
+Ketika malam berakhir, warna madu di bilah telah turun menjadi amber gelap. Harga Forge mulai bekerja. Bahan itu menua puluhan tahun dalam beberapa jam, tetapi cinder-glass tidak menjadi getas seperti besi latihan. Urat dalamnya mengeras. Gema yang semula menyebar kini berputar rapat mengelilingi pusat bilah.
+
+Pada malam ketiga, Ashvarok menyenapainya.
+
+Ia meratakan tepi, mengunci spiral gema, lalu membiarkan umur masuk tanpa ditahan. Patina merah jambu pucat merambat dari gagang ke ujung. Setiap ruas yang berubah mengambil panas dari tubuhnya. Lantai batu menggigit telapak kakinya meski tungku hanya dua langkah di depan. Pada simpul kedelapan, pandangannya menyempit dan bunyi api terdengar jauh.
+
+Satu simpul lagi.
+
+Ia menutup telapak di pangkal bilah. Bentuk lama itu mengenali sentuhan yang dahulu menciptakannya di bengkel-bengkel kerajaan, dan selama satu tarikan napas ruangan berbau logam panas serta lilin segel. Bukan kenangan. Hanya bahan yang menemukan tata kerjanya.
+
+Simpul kesembilan terkunci.
+
+Pisau itu selesai tanpa satu bekas palu. Tiga seam-bone dari tambang zaman ini kini membawa umur benda yang terkubur jauh sebelum the Liberation. Ashvarok membungkusnya sebelum rasa dingin membuat jarinya tak mampu dilipat.
+
+Pagi datang bersama empat porsi makanan, sakit kepala, dan batas yang dipatuhi. Ia mencoret rencana Forge berikutnya dari papan. Tubuh ini tidak akan membayar lagi bulan ini.
 
 ---
 
-"Letakkan di kain."
+Maera Tull menolak menyentuh bungkusan itu sebelum Vosk meninggalkan meja survei.
 
-Maera Tull datang sendiri, sore hari terakhir bulan itu, karena Vosk — dengan kemampuan penengah yang membuatnya layak mendapat potongan delapan persen seumur hidup — telah menyebarkan kabar yang tepat ke telinga yang tepat. "Ada barang timunan. Kelas yang tidak pernah Assayer lihat. Pemiliknya mau dinilai formal agar bisa melunasi kontrak ke Quota Office tanpa drama."
+Penengah tersebut sudah menegosiasikan potongannya, memperoleh tanda tangan Ashvarok, dan menempatkan dua kain putih di bawah barang. Ia mengucapkan, "Aku ada di pasar," lalu menutup pintu dari luar. Kemampuannya menghilang tepat saat pertanyaan sulit dimulai mungkin merupakan bakat termahal di Caldrest.
 
-Sekarang barang itu tergeletak di atas kain putih di meja survei, dan Maera Tull sedang membacanya dengan cara yang Ashvarok kenal baik. Mata menghitung, tangan tidak menyentuh selama empat menit penuh, lalu alat-alat kecil keluar satu per satu — kaca pembesar, lilin perekam, timbangan mini, dan akhirnya Voice-tier-nya sendiri, ujung jarinya menyentuh gagang segel itu dengan lembut seperti dokter meraba nadi. Udara di ruangan itu berbau lilin perekam yang baru dipanaskan, dan keheningan yang digosok sampai mengilap.
+Maera berdiri di seberang meja dengan lengan baju digulung. Bau recording wax bercampur debu cinder-glass. Kotak alat Guild terbuka di kanan; buku hitam kecil tergeletak tertutup di kiri.
 
-Sunyi panjang. Terompet shift sore datang dan pergi.
+"Siapa yang membersihkannya?" tanyanya.
 
-"Ini," kata Maera akhirnya, dan suaranya adalah suara orang yang memaksa dirinya tetap presisi, "cinder-glass kelas tertinggi yang pernah saya pegang. Umur bacaannya..." Ia berhenti, menghitung ulang, dan Ashvarok menonton angka-angka itu jatuh di matanya seperti salju. "...prasejarah. Sebelum the Liberation. Mungkin sebelum Hegemony tua. Warna merah jambu pucat begini hanya muncul pada seam yang mati ribuan tahun." Ia mengangkat bilah itu ke cahaya. "Struktur tempaan sempurna. Tanpa bekas palu sama sekali — bukan gaya pandai besi zaman ini, bukan gaya Clans, bukan gaya Sects. Saya hanya pernah melihat struktur seperti ini satu kali. Di inti bor yang saya simpan."
+"Tidak dibersihkan."
 
-Hening. Di luar jendela persimpangan, gemuruh troli terakhir malam itu menjauh — suara yang pergi seperti nama yang tidak sempat ditanyakan.
+"Semua barang temuan dibersihkan."
 
-"Inti bor mana?" tanya Ashvarok, dengan rasa ingin tahu yang disetel sempurna.
+"Kalau begitu, ini pengecualian pertama hari ini."
 
-"Tidak penting." Maera meletakkan bilah itu, dan tangannya menutup kotak kayunya lebih lambat dari biasanya. "Nilainya, kalau lelang resmi lewat Guild di Spire — enam ratus hingga delapan ratus shardmark. Kalau dijual cepat di Caldrest lewat penengah yang benar — empat ratus lima puluh, dan pembeli datang dalam seminggu." Ia menulis sesuatu di sertifikat penilaian — angka, tanggal, stempel lilin ungu — lalu berhenti sebelum baris "asal-usul". "Kolom asal-usul wajib diisi untuk lelang resmi. Kolom itu mau diisi apa?"
+Maera membuka kain paling atas.
 
-"Temuan tambang," kata Ashvarok. "Dari lorong tua yang tidak tercatat."
+Ia tidak menunjukkan takjub. Tarikan napasnya berhenti setengah hitungan, kemudian tangannya bergerak seperti biasa: kaca pembesar, timbangan, jarum uji, recording wax. Ujung jarinya menyentuh gagang terakhir. Voice-tier yang tipis merambat ke dalam pisau dan kembali melalui pergelangannya.
 
-"Semua temuan tambang harus dilaporkan pemegang lisensi dalam tiga hari."
+Ashvarok duduk diam. Maera menguji bilah dari empat arah. Pada uji kelima ia mengambil inti bor kecil dari kotak terpisah, meletakkannya sejajar dengan pisau, lalu menempelkan jarum yang sama pada keduanya.
 
-"Lalu laporkan. Ke Brannoc. Dia foremannya."
+Dua nada nyaris serupa terdengar dari lempeng baca.
 
-Maera menatapnya — tatapan assayer yang sedang menghitung, dan kali ini Ashvarok bisa membaca hasil hitungan itu di wajahnya tanpa alat. Anomali ditutup tangan manusia, gema Voice-tier padam tanpa tanda tangan, dan sekarang artefak prasejarah muncul dari gudang foreman yang sama, dibawa furnace boy yang sama. Tiga titik. Satu garis lurus. Dan assayer itu, untuk alasan yang belum sepenuhnya dia pahami, memilih untuk tidak menggambar garisnya di atas kertas.
+Maera segera mengangkat jarumnya. "Di mana barang ini ditemukan?"
 
-"Sertifikatnya," kata Maera akhirnya, mendorong lembar itu melintasi meja, "sah di seluruh Karvess. Asal-usul 'temuan lorong tua' saya catat sebagai pernyataan pemilik, bukan verifikasi assayer — itu prosedur standar untuk barang tanpa sejarah tertulis. Tidak ada yang bisa mempersoalkannya." Ia berhenti di ambang pintu, setengah berbalik. "Renn. Barang seperti ini tidak muncul dua kali di kota yang sama dalam satu generasi. Kalau ada yang kedua... pastikan assayernya orang yang sudah kenal wajahmu."
+"Di antara hasil yang masuk lewat gudang Brannoc."
+
+"Itu jalur pencatatan, bukan lokasi."
+
+"Lokasi tepatnya tidak tercatat."
+
+"Kebetulan yang rajin mengikutimu." Ia membalik bilah. "Anomali hilang sebelum survei. Alat uji rusak saat membaca tubuhmu. Sekarang struktur tanpa palu muncul dari gudang Foreman yang melindungimu."
+
+"Kalau itu tuduhan, tulis."
+
+Maera melirik buku hitamnya, tetapi tidak membukanya. "Kalau kutulis sebagai tuduhan, orang yang datang tidak akan membawa alat penilaian."
+
+"Karena itu kau belum menulis."
+
+"Jangan mengira diam saya sama dengan tidak tahu."
+
+"Aku mengira kau memilih bukti yang bisa bertahan setelah pembacanya datang."
+
+Ujung jarinya kembali ke gagang. Kali ini Voice-tier masuk lebih pelan. Wajah Maera mengeras ketika gema menemukan spiral di dalam bilah.
+
+"Umurnya tidak masuk akal," katanya. "Lapisan luar membaca lebih tua daripada pecahan seam yang masih punya tepi tambang. Bagian dalamnya padat, seragam, dan baru berubah bentuk. Dua jawaban itu seharusnya tidak hidup dalam barang yang sama."
+
+Ashvarok menahan laparnya agar tangannya tidak meraih roti di saku. "Nilai barang tidak ditentukan oleh rasa masuk akal."
+
+"Benar." Maera mengangkat bilah ke lampu. Warna merah jambu pucat menyala pada ujungnya. "Cinder-glass prasejarah kelas tertinggi. Bentuk upacara, fungsi pembuka segel, struktur tempaan tanpa sambungan. Nilai resmi empat ratus lima puluh sampai delapan ratus shardmark. Nilai transaksi cepat di Caldrest: empat ratus lima puluh."
+
+Jumlah itu cukup. Bahkan batas terendahnya cukup.
+
+Maera menangkap perubahan kecil pada napasnya. "Kau sudah tahu kisarannya."
+
+"Aku tahu Harn tidak punya waktu menunggu lelang."
+
+Untuk pertama kali sejak pemeriksaan dimulai, pandangannya meninggalkan pisau. "Anak Brannoc?"
+
+"Kontrak pendidikannya dinilai ulang besok. Barang ini membeli kontrak itu hari ini."
+
+Maera menarik lembar sertifikat dari map. "Asal-usul tetap wajib. Saya bisa mencatatnya sebagai pernyataan pemilik. Itu melindungi penilaian saya, bukan ceritamu."
+
+"Tulis yang benar: barang timunan dari gudang Foreman, lokasi temuan tidak tercatat, pernyataan pemilik."
+
+"Kalimat itu membuat Brannoc ikut berada di garisnya."
+
+"Dia sudah di sana. Bedanya, sekarang garis itu membebaskan anaknya."
+
+Pena Maera menyentuh kertas. Nilai empat ratus lima puluh ditulis sebagai harga dasar transaksi cepat; rentang lelang dicantumkan di bawahnya. Stempel lilin ungu Guild ditekan sampai serat kertas berderak.
+
+Sebelum menyerahkan sertifikat, Maera menahan ujungnya. "Renn, kalau barang kedua datang dengan pola yang sama, saya tidak bisa menyebutnya kebetulan lagi."
+
+"Kau tidak menyebut yang pertama kebetulan."
+
+"Tidak." Suaranya turun. "Saya menyebutnya waktu. Kau punya sedikit."
+
+Ia melepaskan sertifikat, lalu membuka buku hitam di sisi kiri. Tiga baris masuk di bawah tanggal hari itu: `pola spiral`, `tanpa bekas palu`, `gudang Brannoc—Renn hadir`. Tidak ada kesimpulan. Ashvarok tahu tiga fakta itu sudah cukup menunggu pembaca yang tepat.
 
 ---
 
-Pelunasannya terjadi pagi terakhir bulan itu, di loket Quota Office, dengan antrean biasa dan petugas yang biasa.
+Loket Quota Office memiliki jeruji besi, dua kursi untuk pemegang lisensi, dan papan pasal yang sengaja digantung terlalu tinggi bagi pekerja. Brannoc datang membawa sertifikat. Ashvarok membawa pisau dalam kotak Vosk. Di luar, Vosk menunggu sebagai penengah sah dan pemegang barang sampai pembeli akhir ditemukan.
 
-Brannoc meletakkan di atas loket: sertifikat penilaian Guild bersampul ungu, dan surat permintaan pelunasan penuh kontrak pendidikan nomor Harn-748, ditandatangani foreman shift sebagai penjamin bayaran barang temuan tambang. Petugas membaca sertifikat itu dua kali. Memanggil atasan. Atasan membacanya tiga kali, lalu mengirim orang memanggil Tharrow dari ruang dalam.
+Petugas loket membaca angka empat ratus lima puluh, memeriksa stempel ungu, lalu menghilang ke ruang belakang. Kel Tharrow keluar beberapa menit kemudian dengan cincin besi di ibu jarinya.
 
-Ashvarok tidak berada di sana. Dia hanya mendengar rekonstruksinya dari Brannoc, sore harinya, di gudang perkakas yang sudah menjadi balai kotanya berdua.
+"Temuan tambang milik pemegang lisensi," katanya. "Barang diserahkan. Nilainya masuk kas. Kontrak anak tetap dinilai menurut jadwal."
 
-"Dia mencoba menolak," kata Brannoc, dan ada bunyi baru di suaranya, bunyi yang jarang: lega. "Katanya barang temuan itu hak tambang, jadi nilainya masuk kas the Quiet Vein dulu, baru bagianku dicicil. Aku jawab dengan pasalnya sendiri — pasal sembilan belas lisensi — temuan oleh pekerja kontrak, dilaporkan lewat foreman, berhak potongan enam puluh persen. Dia yang menyuruh aku mencatat semua hasil tak resmi lewat kantorku, ingat? Nah. Sudah tercatat. Enam puluh persen dari empat ratus lima puluh." Senyum tua itu akhirnya muncul. "Dua ratus tujuh puluh. Cukup untuk melunasi Harn plus sisa utangku. Ditambah sisa barangnya masih di tangan penengah."
+Brannoc menunjuk papan tinggi tanpa menoleh. "Pasal sembilan belas."
 
-"Terus?"
+"Aku tahu pasalku."
 
-"Terus dia tanda tangani juga, jam sebelas pagi, sebelum tenggat penilaian ulang yang dia umumkan sendiri." Brannoc mengeluarkan sesuatu dari dalam jaketnya — selembar dokumen dengan segel lilin hitam yang sobek di sudutnya — sobekan, bukan potongan, cara dokumen dilepaskan dari buku besar secara sah. "Kontrak Harn. Lunas. Anak itu resmi jadi murid pandai besi tanpa utang satu shardmark pun ke siapa-siapa."
+"Kalau tahu, bacakan bagian pembagian pekerja."
 
-Dia meletakkan dokumen itu di peti kayu di antara mereka, dan selama beberapa detik, dua orang itu hanya memandangi kertas lusuh berwarna abu-abu itu seperti memandangi sesuatu yang jauh lebih mahal.
+Tharrow tidak bergerak. Ashvarok membacanya dari bawah: "Enam puluh persen nilai dasar dibayarkan kepada pekerja penemu setelah pelaporan melalui Foreman bersertifikat. Hak jual tetap pada pemegang lisensi sampai transaksi selesai."
 
-"Aku janji barang," kata Ashvarok pelan.
+"Kau bukan penemu tercatat," kata Tharrow.
 
-"Dan aku janji menjaga kamu." Brannoc mengambil dokumen itu kembali, melipatnya dengan hati-hati yang tidak pernah dia berikan pada apa pun di tambang ini. "Berarti kita dua-duanya tidak gagal. Sekarang dengarkan, karena ini penting. Mulai besok, kau bukan lagi bocah misterius yang aman karena diabaikan. Kau bocah yang barang temuannya membuat Quota Office rugi dua ratus tujuh puluh shardmark dalam sehari. Tharrow tidak akan lupa wajahmu. Orang-orangnya juga." Ia meletakkan tangannya di pundak Ashvarok — stempel lilin hitam yang kedua kalinya. "Jalanmu dari sekarang makin sempit. Namun ingat: sekarang ada anak sembilan tahun di distrik utara yang seluruh hidupnya tidak akan pernah masuk tambang. Itu tidak ada di neraca siapa pun kecuali kita berdua."
+Brannoc meletakkan lembar gudang di loket. Tiga pecahan masuk melalui regunya, dilaporkan lewat gudangnya, dengan dirinya sebagai Foreman penjamin. Semua yang diminta Tharrow pada hari kedua puluh satu kini berdiri sebagai bukti melawannya.
 
-Malam itu, di barak, kolom Hourglass mendapat entri yang bukan ukuran garis dan bukan catatan kepulangan:
+"Enam puluh persen dari empat ratus lima puluh," kata Brannoc. "Dua ratus tujuh puluh. Alihkan seluruhnya ke kontrak pendidikan Harn-748. Hari ini."
 
-"Hari ini kakakmu membuat anak Pak Brannoc bebas. Garis masih di tempat. Bagus."
+"Kontrak itu tidak dapat dibeli oleh pihak yang terikat pada lisensi tambang yang sama."
 
-Ashvarok membacanya dua kali. Lalu, di bawahnya, ia menulis satu kata dalam bahasa tua Hegemony — bahasa yang sudah mati bersama kerajaannya, lima suku kata yang dulu dituturkan para juru tulis saat menyegel dokumen terakhir sebuah era. Kata untuk perasaan yang lebih tua dari syukur dan lebih dingin dari lega — rasa seorang raja ketika utang pertamanya kepada zaman baru lunas dibayar bukan dengan takhta, melainkan dengan masa depan seorang anak.
+"Bukan aku pembelinya." Brannoc mendorong sertifikat Maera ke bawah jeruji. "Hak bagi hasil membelinya. Hasil itu sudah lahir menurut pasalmu sebelum masuk kasmu."
 
-Ia menatap huruf-huruf itu, lalu menghapusnya dengan ibu jari. Tidak ada gunanya menulis kata mati di papan hidup.
+Tharrow memandang Ashvarok. Tidak ada kemarahan terbuka di wajahnya; hanya perhatian penuh yang jauh lebih berbahaya.
 
-Di tempatnya, dengan kapur Sela, ia menulis versi zaman ini.
+"Kau menemukan barang prasejarah," katanya.
 
-"Bersyukur."
+"Gudang Brannoc menemukannya," jawab Ashvarok.
+
+"Dan Assayer Guild kebetulan menilainya pada hari terakhir bulan."
+
+"Kantormu menetapkan tenggatnya."
+
+Hening bertahan sampai petugas di belakang loket menggeser berat badan. Tharrow mengambil stempel. Ia membubuhkan tiga cap: penerimaan temuan, pengalihan dua ratus tujuh puluh shardmark, pelunasan kontrak Harn-748. Cap terakhir berbunyi lebih keras.
+
+Petugas menarik dokumen kontrak dari buku besar, merobeknya pada garis sah, dan menyerahkannya kepada Brannoc. Di sudut bawah tertulis `LUNAS`; di bawahnya, kewajiban pendidikan tetap berjalan tanpa hak penarikan kembali oleh the Quiet Vein.
+
+Brannoc membaca setiap baris. "Hak tempat asrama?"
+
+"Tetap sampai masa belajar selesai," kata petugas.
+
+"Hak memilih pandai besi?"
+
+"Kembali kepada wali."
+
+"Utang turunan?"
+
+"Nol."
+
+Brannoc melipat dokumen sekali. Tangannya yang biasa menahan kayu penyangga besar harus mencoba lagi karena lipatan pertama miring.
+
+Tharrow mendorong kotak pisau kembali kepada Vosk di luar loket. Menurut pasal yang baru dijalankan, the Quiet Vein memegang hak jual, tetapi barang tetap pada penengah sampai pembeli membayar. Kantor menanggung kewajiban dua ratus tujuh puluh lebih dulu. Itulah luka sebenarnya: uang keluar hari ini, barang belum menjadi uang.
+
+"Selesai," kata Tharrow. Matanya tetap pada Ashvarok. "Aku akan mengingat prosesnya."
+
+"Prosedur dibuat untuk diingat," kata Ashvarok.
+
+Di gudang perkakas sore itu, Brannoc mengeluarkan kontrak tersebut dan meletakkannya di peti di antara mereka.
+
+"Sembilan tahun," katanya. "Sejak ibunya mati, semua keputusan untuk Harn punya catatan utang di belakangnya. Sekarang tidak ada."
+
+"Bakar kontraknya."
+
+Brannoc menggeleng. "Tidak. Aku bawa ke dia. Anak harus tahu kebebasannya bukan hadiah kantor." Ia memasukkan kertas ke balik jaket. "Kau menepati janjimu. Mulai malam ini, aku menepati bagianku lebih keras."
+
+"Tharrow sudah melihat wajahku."
+
+"Ya. Besok dia akan bergerak."
+
+Dari koridor terdengar roda troli dan suara pergantian shift. Ashvarok memandang peti kosong tempat kontrak tadi terbaring. Tiga malam Forge telah menghabiskan cadangan tubuhnya, menarik Maera satu langkah dari kebenaran, dan memberi Tharrow pola yang tak akan ia lupakan. Harga itu tidak kecil.
+
+Namun di distrik utara, Harn akan bangun esok tanpa satu pun pasal yang dapat menyeretnya ke tambang.
+
+Brannoc menepuk saku dadanya untuk memastikan kontrak masih ada, lalu berangkat mengantarkannya kepada anaknya.

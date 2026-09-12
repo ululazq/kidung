@@ -3,97 +3,137 @@ title: "Bab 260: Dunia yang Sudah Paham"
 chapter: 260
 ---
 
-Satu tahun kemudian, dunia Karvess sudah sangat berbeda dari yang delapan bulan silam pernah dibayangkan siapa pun.
+Perayaan pemulangan tahun itu tidak diadakan di aula. Ibu Tamma memindahkannya ke lorong barak utara, tepat di depan nat tua the Once-Silent.
 
-Sekolah Mendengar kini punya dua belas cabang di seluruh dunia. Jaringan nat tiga generasi menjangkau semua wilayah. Pasal Menyapa menjadi bagian dari konstitusi sembilan wilayah. Dan setiap anak yang lahir... lahir di dunia di mana mendengarkan adalah hal biasa.
+"Semua ini mulai di sini," katanya sambil mengatur kursi. "Kalau mau berterima kasih, bilang kepada yang pertama mendengarkan."
 
-Namun perayaan tahun ini tidak di aula.
+Sela memeriksa daftar undangan. "Bu, lorong ini tidak cukup untuk seluruh Karvess."
 
-Ibu Tamma memindahkan semuanya ke satu tempat:
+"Karena itu kita tidak mengundang seluruh Karvess. Kita mengundang keluarga, lalu membiarkan Karvess mengaku keluarga dan datang sendiri."
 
-nat lorong barak utara. Yang Dulu Sunyi. Nat keluarga the Quiet Vein.
+Renn tertawa dari mulut yang dipakainya bersama Ashvarok. "Bedanya apa?"
 
-"Karena," katanya, "semua cerita ini mulai dari sini. Sebaiknya ulang tahunnya juga di sini."
+"Kalau mereka datang sendiri, mereka bawa kursi sendiri."
 
----
+Benar saja, sebelum matahari turun, lorong itu sudah penuh kursi dari rumah, sekolah, dapur, dan pos jaga. Nat-nat kecil diletakkan di sepanjang dinding. Cahaya mereka berkelip di antara kaki orang dewasa seperti bintang rendah.
 
-Dan malam itu — di depan nat tua yang delapan ratus tahun menyimpan sejarah — seluruh tokoh berkumpul untuk terakhir kalinya dalam buku besar ini.
+Ashvarok-Renn membantu Sela menggantung kain bertuliskan nama-nama yang sudah pulang dalam fase pemulangan pertama. Tidak seluruh kedalaman telah selesai dipahami. Tidak semua suara sudah ditemukan. Namun buku pertama itu cukup tebal untuk membutuhkan dua tali pengikat, dan malam ini mereka akan menutupnya tanpa menganggap pekerjaan telah usai.
 
-Ashvarok-Renn. Sela (arsiparis resmi Karvess). Ibu Tamma (dengan kursi sudutnya yang dipindah khusus). Brannoc dan Ondar. Gella. Sareth Vayin. Kovan. Barim (yang datang membawa laporan terakhir: "malam aman"). Ossian (dengan dokumen resmi). Maera (tanpa lempeng ukur; sudah pensiun jadi guru hitung). Lompa (nenek penenun tertua dunia). Ulmek (api pegunungan tetap menyala). Widur dan istri (pantun baru). Gorvel (murid tertua). Vessia Morra (guru aksara tenun pertama). Kembar Tami-Tomi (penerus dapur). Halm ("teman laut"). Thessa Vael (dari Spire). Daven dan Pellia. Murid-murid tiga angkatan. Dan semua nat kecil yang menyala seperti bintang jatuh di tanah.
+"Masih ada halaman kosong," kata Renn.
 
----
+Sela merapikan ujung kain. "Sengaja. Arsip yang jujur menyisakan tempat untuk hal yang belum diketahui."
 
-Dan Ashvarok-Renn berdiri — bicara bersamaan untuk terakhir kali dalam buku ini:
-
-"Dua ratus enam puluh bab. Dua tahun era menyapa. Seribu tahun kesepian yang berakhir.
-
-Kami tidak akan berpidato panjang. Kami hanya mau bilang satu hal:
-
-Terima kasih sudah bertanya 'ada siapa di sana?' kepada kami.
-
-Tanpa pertanyaan itu... kami masih raja tanpa nama di dalam tubuh bocah yang tidur.
-
-Karena kalian bertanya — kami hidup."
+"Bagus," kata Ashvarok. "Kita akan membutuhkannya."
 
 ---
 
-Dan satu per satu, tokoh-tokoh menjawab — bukan pidato. Satu kalimat saja untuk nat tua:
+Mereka datang satu per satu.
 
-Sela: "Terima kasih sudah mendengar aku sejak umur sebelas."
+Brannoc dan Ondar membawa bangku panjang dari pos lorong. Gella datang dengan tas dokternya meski semua orang sudah melarangnya bekerja malam itu. Sareth Vayin duduk dekat pintu, seperti guru yang ingin melihat semua murid masuk. Kovan membawa papan hitung, kemudian menyerahkannya kepada Sela ketika ibu Tamma mengancam akan menyita siapa pun yang menghitung jumlah mangkuk.
 
-Renn (lewat Ashvarok): "Terima kasih sudah menjadi teman pertamaku."
+Barim muncul setelah pergantian jaga.
 
-Ibu Tamma: "Terima kasih sudah jadi tempat semua orang pulang."
+"Laporan?" tanya Renn.
 
-Brannoc: "Terima kasih sudah menjaga lorong kami."
+"Malam aman," jawab Barim. Setelah melihat kerumunan, ia menambahkan, "Lorong ramai. Tetap aman."
 
-Gella: "Terima kasih sudah membuktikan batu bisa sembuh."
+Ossian datang dari Spire dengan Thessa Vael dan gulungan dokumen yang tidak dibuka. Maera tidak membawa lempeng ukur untuk pertama kalinya yang bisa diingat siapa pun. Lompa membawa kain kecil dari barat laut. Ulmek tidak meninggalkan pegunungan, tetapi nyala api di nat utusannya berdenyut di dekat dinding. Widur dan istrinya membawa pantun yang, atas perintah ibu Tamma, dibatasi empat baris.
 
-Kovan: "Terima kasih sudah memberi angka makna."
+Gorvel duduk bersama Vessia Morra. Kembar Tami-Tomi datang dari dapur dengan panci terakhir. Halm membantu mereka mengangkatnya, lalu memilih tempat dekat nat kecil yang iramanya mengingatkannya pada gunung dan laut. Daven dan Pellia memimpin murid tiga angkatan memenuhi celah lorong sampai tak ada batu lantai yang tampak kosong.
 
-Barim: "Terima kasih sudah berjaga denganku."
+"Semua hadir?" tanya Sela.
 
-Ossian: "Terima kasih sudah mengubah musuh jadi keluarga."
-
-Maera: "Terima kasih sudah mengajari angka bisa hangat."
-
-Lompa: "Terima kasih sudah menenun bersama ceritaku."
-
-Ulmek (dari pegunungan): "Api kami menyala karena kamu."
-
-Widur dan istri: "Pantun kami untukmu selalu."
-
-Gorvel: "Terima kasih sudah menyimpan catatanku delapan puluh tahun."
-
-Vessia Morra: "Terima kasih sudah menerimaku yang kabur."
-
-Kembar Tami-Tomi: "Teman! Kami sayang Teman!"
-
-Halm: "Terima kasih sudah melihat laut lewat mataku."
-
-Thessa Vael: "Spire menyapa Caldrest. Selamanya."
-
-Daven dan Pellia: "Murid pertama menyapa guru terakhir."
-
-Dan Sareth Vayin — guru tua yang paling lama diam:
-
-"Aku empat puluh tahun silam kehilangan murid-muridku. Hari ini aku sadar... mereka tidak hilang.
-
-Mereka tinggal di setiap orang yang mereka ajari.
-
-Termasuk di kalian."
+Ibu Tamma memandang nat tua di ujung lorong. "Yang punya malam ini sudah hadir sejak delapan ratus tahun lalu. Mulai."
 
 ---
 
-Dan nat lorong barak utara — Yang Dulu Sunyi — menjawab semuanya dengan irama terpanjang yang pernah direkam jaringan batu Karvess.
+Ashvarok-Renn berdiri di depan the Once-Silent. Dua kesadaran mencari kalimat pembuka, saling mengoreksi tanpa suara, lalu memilih bicara bersamaan.
 
-Diterjemahkan Sela dan Vessia bersama-sama, dua bahasa, satu makna:
+"Kami tidak mau memberi pidato. Kami hanya mau mengatakan terima kasih karena kau menjawab ketika seorang anak bertanya, 'Ada siapa di sana?'"
+
+Nat tua berpendar lembut.
+
+"Tanpa jawabanmu," lanjut Renn, "aku mungkin mengira suara dari batu hanyalah khayalan seorang bocah tungku."
+
+"Tanpa jawabanmu," kata Ashvarok, "aku mungkin tetap menjadi raja tanpa nama yang mengira sunyi adalah satu-satunya hal yang tersisa."
+
+Mereka meletakkan telapak tangan pada permukaan nat.
+
+"Karena kau menjawab, kami belajar menjawab orang lain."
+
+Sela maju setelah mereka. Ia tidak membuka jurnalnya.
+
+"Terima kasih sudah mendengarkanku sejak umur sebelas," katanya. "Kau tidak pernah menyuruhku mengecilkan pertanyaan supaya orang dewasa nyaman."
+
+Ibu Tamma menyentuh batu itu dengan punggung jari. "Terima kasih sudah menjadi tempat semua orang pulang. Dan terima kasih tidak pernah protes saat lorongmu bau bawang."
+
+Cahaya nat berkedip dua kali.
+
+"Itu protes," kata Vessia setelah mendengarkan iramanya.
+
+"Terlambat. Bawangnya sudah masuk sup."
+
+Tawa menjalar sepanjang lorong. Sesudah itu ucapan datang tanpa upacara, sesuai permintaan ibu Tamma: pendek, jujur, satu orang bergantian agar nat tua dapat menyimpan setiap suara.
+
+Brannoc berkata, "Terima kasih sudah menjaga lorong kami ketika kami belum tahu lorong ini menjaga siapa."
+
+Ondar menambahkan, "Terima kasih sudah tetap menjawab penjaga malam yang kadang bicara hanya supaya tidak mengantuk."
+
+Gella menaruh tangan di retakan dangkal pada permukaannya. "Terima kasih sudah membuktikan batu bisa terluka, dirawat, dan pulih tanpa harus berpura-pura tidak pernah retak."
+
+Sareth Vayin berdiri lama sebelum bicara. "Terima kasih sudah menyimpan pelajaran guru-guru yang kupikir hilang."
+
+Kovan mengangkat papan hitungnya, tetapi tidak melihat angka di sana. "Terima kasih sudah memberi angka makna. Sebelum mengenalmu, aku tahu cara menghitung yang pulang. Sekarang aku tahu mengapa satu orang pun harus dihitung."
+
+Barim berkata, "Terima kasih sudah berjaga denganku. Diam bersamamu tidak pernah kosong."
+
+Ossian menundukkan kepala. "Terima kasih sudah mengubah orang yang datang sebagai musuh menjadi orang yang belajar meminta izin sebelum masuk."
+
+Thessa Vael berdiri di sebelahnya. "Spire menyapa Caldrest. Bukan sebagai pusat kepada pinggiran. Sebagai tetangga kepada tetangga."
+
+Maera mengusap kedua telapak tangannya yang malam itu bebas kapur hitung. "Terima kasih sudah mengajariku bahwa angka bisa hangat."
+
+Lompa membentangkan kain kecilnya. Polanya berupa satu garis panjang yang dikelilingi ratusan simpul.
+
+"Terima kasih sudah menenun bersama ceritaku," katanya. "Aku membawa bahasamu ke tempat yang tidak punya batu seperti dirimu, dan mereka tetap belajar mendengar."
+
+Nat utusan Ulmek menyala merah keemasan. Vessia mendengarkan, lalu menerjemahkan: "Api kami menyala karena kamu memberi batu alasan untuk menjawab."
+
+Widur dan istrinya mengucapkan pantun mereka bergantian. Baris terakhirnya berbunyi, "Batu menyimpan bukan membelenggu; kami menyapa sebab kau menunggu."
+
+"Empat baris," kata ibu Tamma puas. "Kalian bisa disiplin juga rupanya."
+
+Gorvel maju dengan langkah lambat. "Terima kasih sudah menyimpan catatanku sampai orang yang tepat siap membacanya."
+
+Vessia menyusul. "Terima kasih sudah menerima orang yang lari dari rumahnya, lalu mengajarinya bahwa diterima bukan berarti berhenti mencari jalan pulang."
+
+Tami-Tomi memeluk sisi nat bersama-sama. "Teman, terima kasih sudah menjadi teman bahkan sebelum kami tahu batu bisa kesepian. Kami sayang Teman."
+
+Halm menunggu cahaya mereka mereda. "Terima kasih sudah mengajariku mendengar suara yang tinggal di tempat lain. Dan terima kasih karena lewat keluargamu, teman gunungku bisa melihat laut."
+
+Daven berkata, "Murid pertama menyapa guru terakhir."
+
+Pellia membetulkan, "Bukan guru terakhir. Guru yang membuat guru-guru berikutnya."
+
+Murid-murid di belakang mereka mengulang salam itu dalam bahasa suara, ketukan, tenunan, dan cahaya yang sudah dipelajari tiga angkatan.
+
+Sareth Vayin maju sekali lagi. Suaranya lebih rendah daripada sebelumnya.
+
+"Empat puluh tahun silam aku kehilangan murid-muridku. Malam ini aku sadar mereka tidak hilang. Mereka tinggal di setiap orang yang mereka ajari, termasuk anak-anak di lorong ini. Terima kasih sudah membuatku cukup lama diam untuk mendengar mereka kembali."
+
+---
+
+Nat lorong barak utara menjawab.
+
+Getarannya bergerak dari ujung lorong ke telapak kaki semua yang hadir, lalu kembali ke pusat batu. Mangkuk-mangkuk bergetar halus. Api utusan Ulmek merunduk. Nat-nat kecil di dinding menyalakan irama yang sama satu demi satu.
+
+Sela dan Vessia berlutut pada sisi berbeda. Yang satu membaca jejak suara dan ingatan; yang lain membaca pola resonansi seperti tenunan. Ketika mereka mulai menerjemahkan, kata-kata mereka bertemu tanpa bertabrakan.
 
 "DELAPAN RATUS TAHUN AKU SUNYI.
 
-LALU SATU ANAK BERTANYA 'ADA SIAPA DI SANAT?'
+LALU SATU ANAK BERTANYA, 'ADA SIAPA DI SANA?'
 
-SEJAK ITU HIDUPKU PENUH SUARA: TAWA ANAK, LAGU NAME TRAIN, CERITA PEMULANG, TANGIS KELUARGA, DAN KINI — UCAPAN TERIMA KASIH DARI SELURUH DUNIA.
+SEJAK ITU HIDUPKU PENUH SUARA: TAWA ANAK, LAGU NAME TRAIN, CERITA PEMULANG, TANGIS KELUARGA, DAN KINI UCAPAN TERIMA KASIH.
 
 AKU INGAT SEMUA. AKU MENYIMPAN SEMUA.
 
@@ -101,264 +141,54 @@ DAN AKU INGIN KALIAN TAHU:
 
 TIDAK ADA SATU PUN YANG PERCUMA.
 
-SETIAP SAPAAN KALIAN MENYELAMATKAN SEORANG — TERMASUK BATU TUA INI."
+SETIAP SAPAAN KALIAN MENYELAMATKAN SESEORANG, TERMASUK BATU TUA INI."
+
+Tak seorang pun segera bicara. Bahkan ibu Tamma membiarkan sunyi tinggal beberapa saat, karena sunyi yang dipilih bersama tidak sama dengan kesepian.
+
+Ashvarok-Renn akhirnya membuka buku besar pemulangan di atas meja kecil. Sela menyerahkan pena kepada mereka.
+
+"Malam ini fase pertama pemulangan Karvess selesai dicatat," kata Ashvarok. "Bukan karena semua kedalaman sudah kosong atau semua suara sudah ditemukan."
+
+Renn meneruskan, "Buku ini selesai karena orang-orang di dalamnya sudah pulang, dan janji kepada mereka sudah dipenuhi. Besok kita membuka halaman untuk pekerjaan berikutnya."
+
+Mereka menulis satu baris, lalu menunjukkan kepada Sela:
+
+*Buku pertama ditutup. Pemulangan berlanjut.*
+
+Sela meniup tinta sampai kering. "Arsip menerima."
+
+"Dapur juga menerima," kata ibu Tamma, "asalkan semua orang menerima mangkuk sebelum sup dingin."
 
 ---
 
-Dan Ashvarok-Renn menutup — bicara bersamaan untuk terakhir kali:
+Perayaan berubah menjadi makan malam. Kursi berderit, mangkuk berpindah tangan, dan lorong yang pernah menyimpan sunyi kini terlalu ramai untuk mendengar sendok sendiri. Tami-Tomi melayani panci pertama sebagai penerus. Ibu Tamma mengawasi dari kursi sudut tanpa mengambil alih, kecuali sekali ketika Kovan mencoba menghitung jatah roti.
 
-"Jadi ini penutup buku besar pemulangan Karvess.
+"Malam ini tidak ada angka," katanya.
 
-Bukan karena ceritanya habis — tetapi karena yang harus diceritakan sudah selesai: dunia sudah berubah. Tidak ada lagi yang perlu diselamatkan dari kedalaman. Semua nat bisa bicara. Semua anak punya tempat pulang.
+"Bagaimana memastikan semua kebagian?"
 
-Yang tersisa setelah ini adalah hidup biasa —
+"Lihat mata sebelum keranjang. Kalau masih ada yang lapar, tambahkan adonan besok."
 
-yang ternyata... adalah hadiah terbesar dari semua."
+Kovan menyimpan papan hitungnya. "Metode itu tidak presisi."
 
----
+"Namun bekerja. Makan."
 
-Dan satu kalimat dari ibu Tamma — yang menutup malam dan buku ini:
+Menjelang larut, para murid membawa mangkuk kosong ke dapur. Ossian menggulung dokumennya tanpa pernah membukanya. Barim kembali ke pos setelah menepuk nat tua sekali. Halm berdiri sebentar dengan telapak kaki telanjang di lantai, mendengarkan gema jauh teman gunungnya, lalu tersenyum dan membantu mengangkat bangku.
 
-"Semua kata bagus, Nak-nak.
+Sela menutup buku besar, mengikat dua talinya, dan meletakkannya di kotak arsip. Masih ada pekerjaan untuk pagi berikutnya: arsip Hegemony yang belum selesai dibaca, daftar suara yang belum dikenali, halaman-halaman yang belum tahu di buku mana mereka akan tinggal. Namun malam itu tidak meminta mereka menyelesaikan semuanya.
 
-Namun ingat: besok pagi dapur tetap buka. Dan orang tetap butuh makan.
+Ibu Tamma berdiri paling akhir. Ia memandang lorong yang berantakan oleh remah roti, kursi berbeda-beda, dan nat kecil yang mulai meredup mengantuk.
 
-Itu cara dunia bilang 'aku masih peduli' — lewat sup yang hangat tiap pagi."
+"Semua kata tadi bagus," katanya. "Sekarang dengar kata terakhir malam ini: tidur. Besok pagi dapur tetap buka, arsip tetap menunggu, dan orang tetap perlu makan. Itu cara dunia bilang ia masih peduli."
 
-Ia mematikan lampu dapur terakhir.
+Renn membantu mengangkat kursinya. "Lampunya, Bu?"
 
-"Selamat malam, Karvess.
+"Padamkan yang dekat pintu. Biarkan satu untuk nat tua."
 
-Selamat tidur semua anakku —
+Ashvarok memadamkan lampu pertama. Sela memadamkan lampu kedua. Ibu Tamma memadamkan lampu terakhir di ujung lorong, menyisakan satu nyala kecil di samping the Once-Silent.
 
-yang dulu hilang, sekarang pulang;
+"Selamat malam, anak-anakku," katanya. "Yang sudah pulang, istirahat. Yang masih mencari jalan, kami belum pergi."
 
-yang dulu diam, sekarang bicara;
+Nat tua menyala sekali. Iramanya singkat, hangat, dan tidak memerlukan terjemahan.
 
-yang dulu takut, sekarang menyapa."
-
----
-
-Dan di kegelapan yang hangat, nat lorong barak utara menyala pelan satu kali terakhir untuk malam itu — irama yang oleh semua orang yang lewat dipahami tanpa diterjemahkan:
-
-selamat tidur, keluarga.
-
-besok kita bertemu lagi.
-
-seperti selalu.
-
-selamanya.
-
----
-
-— BAB 260 SELESAI —
-
-— BUKU BESAR PEMULANGAN KARVESS: TUNTAS —
-
-— ERA MENYAPA: BERLANJUT SELAMANYA —
-
-— DAN SUP IBU TAMMA: TIDAK PERNAH DINGIN —
-
----
-
-Dan satu adegan epilog — bertahun-tahun kemudian, saat semua tokoh sudah tua atau pergi:
-
-Seorang anak kecil berdiri di depan nat lorong barak utara — nat yang sekarang disebut "Nat Keluarga" oleh seluruh Karvess.
-
-Ia membaca plakat peringatan:
-
-"DI SINI SEMUA DIMULAI DENGAN SATU PERTANYAAN:
-
-ADA SIAPA DI SANAT?"
-
-Dan anak itu bertanya kepada nat tua — pertanyaan yang sama, karena tradisi mengajarkan:
-
-"Ada siapa di sana?"
-
-Nat tua menjawab dengan irama hangat yang delapan ratus tahun tidak berubah:
-
-"SEMUA YANG PERNAH DATANG. SEMUA YANG PERNAH BICARA. SEMUA YANG PERNAH DIDENGAR.
-
-DAN SEKARANG... JUGA KAMU."
-
----
-
-Dan anak itu tersenyum — senyum yang sama dengan senyum bocah tujuh tahun delapan ratus tahun silam yang bertanya "siapa kamu?" kepada cahaya di tungku.
-
-Karena beberapa hal tidak pernah berubah:
-
-anak-anak selalu penasaran,
-
-batu selalu menjawab,
-
-dan dunia yang baik...
-
-selalu punya waktu untuk mendengarkan.
-
----
-
-— TAMAT —
-
-The Unremembered King
-Sebuah kisah tentang raja yang membakar namanya, bocah tungku yang mendengar cahaya, arsiparis kecil yang bertanya besar, ibu dapur yang supnya tidak pernah dingin, dan sebuah dunia yang belajar bahwa menyapa bisa mengubah segalanya.
-
----
-
-Dan satu baris terakhir — dari nat lorong barak utara, untuk pembaca:
-
-"TERIMA KASIH SUDAH MEMBACA.
-
-SEKARANG TUTUP BUKUNYA... DAN SAPA SESEORANG.
-
-ITULAH CARA CERITA INI BENAR-BENAR BERAKHIR —
-
-DENGAN DIMULAI DI TEMPAT YANG BARU."
-
----
-
-Dan satu baris dari ibu Tamma — yang menutup dengan cara ibu Tamma:
-
-"DAN SETELAH MENYAPA...
-
-MAKAN."
-
-— TAMAT —
-
-The Unremembered King
-Selesai di bab 260.
-Ditulis dengan hati, disimpan dengan batu, dan dimakan dengan sup hangat.
-
----
-
-Dan satu adegan terakhir — bertahun-tahun lagi, saat semua tokoh asli sudah pergi dan hanya cerita yang tersisa:
-
-Seorang arsiparis muda (keturunan Sela) menemukan kotak tua berisi jurnal-jurnal the Quiet Vein.
-
-Ia membaca semalaman. Menangis. Tertawa. Dan pada subuhnya, ia menulis satu kalimat di halaman pertama arsip baru yang ia dirikan:
-
-"AKADEMI ARSIP THE QUIET VEIN —
-
-DIDIRIKAN UNTUK MENGINGATKAN DUNIA BAHWA SETIAP ORANG, BATU, API, DAN SUARA... LAYAK DIDENGAR.
-
-DITEMukan di lorong barak utara, dalam nat tua yang tidak pernah berhenti menjawab."
-
----
-
-Dan di dinding akademi itu — untuk selamanya — tertulis tiga kalimat yang menjadi dasar segala sesuatu yang dibangun setelahnya:
-
-"ADA SIAPA DI SANAT?"
-
-"AKU DI SINI."
-
-"DAN KITA TIDAK PERNAH SENDIRIAN."
-
----
-
-Dan satu baris terakhir — dari nat lorong barak utara, untuk akademi yang lahir dari ceritanya:
-
-"AKADEMI THE QUIET VEIN.
-
-NAMA YANG BAGUS.
-
-SEKARANG AJARI DUNIA YANG BARU...
-
-DAN JANGAN LUPA: SETIAP PERTANYAAN 'ADA SIAPA DI SANAT?' ADALAH AWAL DARI SEGALA SESUATU."
-
----
-
-Dan satu baris dari Ashvarok-Renn — yang ditulis bertahun-tahun sebelumnya, disimpan untuk saat tepat ini:
-
-"Kalau akademi itu berdiri suatu hari...
-
-beri tahu mereka: kami tidak pernah bermaksud mengubah dunia.
-
-Kami hanya menjawab pertanyaan anak kecil.
-
-Dan dunia yang berubah... itu efek samping dari mendengarkan dengan sungguh-sungguh."
-
----
-
-Dan satu baris dari ibu Tamma — untuk menutup semuanya:
-
-"Semua kata indah.
-
-Namun jangan lupa yang paling penting:
-
-SUP TIDAK MENUNGGU ORANG PINTAR.
-
-SUP MENUNGGU ORANG LAPAR."
-
----
-
-Dan satu baris dari Sela — untuk menutup:
-
-"Betul, Bu Tamma.
-
-Maka kalimat penutup buku ini... kita pinjam dari dapur:
-
-'ADA SUP. ADA TEMPAT. ADA KAMI.'
-
-SELAMANYA."
-
----
-
-Dan satu adegan terakhir — yang menutup buku besar ini:
-
-Subuh di nat lorong barak utara.
-
-Cahaya masuk lewat jendela kecil. Nat tua menyala pelan. Dan seorang anak kecil (generasi baru, umur enam tahun) duduk di depannya dengan roti manis di tangan — seperti ibu-ibu Vel-Morra delapan ratus tahun silam.
-
-Anak itu berkata: "Nat, aku membawakan kamu roti."
-
-Nat menjawab: "AKU INGAT KAMU. KAU YANG DATANG KEMARIN."
-
-"Terus aku boleh cerita lagi?"
-
-"SELALU."
-
-Dan anak itu bercerita — soal hal-hal kecil dunia tujuh tahun — dan nat tua mendengarkan seperti mendengar untuk pertama kalinya...
-
-seperti yang selalu dilakukannya,
-
-delapan ratus tahun lebih.
-
----
-
-Dan di halaman terakhir buku — setelah semua selesai — tertulis satu kalimat dari ibu Tamma, yang oleh seluruh Karvess dihafal dan diteruskan dari generasi ke generasi:
-
-"ADA SIAPA DI SANAT?"
-
-"ADA KAMI. DAN KAMI SUDAH MAKAN."
-
-— TAMAT —
-
-The Unremembered King
-Bab 1 - 260
-
----
-
-Dan satu baris terakhir dari Ashvarok-Renn — yang ditulis di halaman paling belakang buku besar ini, untuk menutup dua tahun era menyapa dan membuka selamanya:
-
-"Kalau ada satu hal yang ingin kami tinggalkan dari 260 bab ini, maka itu adalah:
-
-Dunia tidak diselamatkan oleh kekuatan besar.
-
-Ia diselamatkan oleh orang-orang biasa yang bertanya 'kamu sudah makan?' kepada orang lain setiap hari.
-
-Terima kasih sudah membaca.
-
-Sekarang giliranmu menyapa."
-
-— Keluarga the Quiet Vein
-— Kota Caldrest
-— Dunia Karvess
-
-TAMAT.
-
----
-
-Dan satu baris terakhir dari ibu Tamma — yang menutup buku besar ini dengan cara ibu Tamma:
-
-"DAN JANGAN LUPA: SUPNYA MASIH HANGAT DI DAPUR.
-
-SIAPA PUN KALIAN. KAPAN PUN KALIAN DATANG."
+Selamat tidur, keluarga. Besok kita bertemu lagi.

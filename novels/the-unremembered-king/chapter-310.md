@@ -33,7 +33,7 @@ Ashvarok-Renn berdiri di halaman, mendengar percakapan itu. Ia memanggil Kovan, 
 
 "Kita ajarkan menahan tanpa takut," katanya. "Sela, kau yang ajarkan. Bukan aku. Anak mendengar anak lebih baik daripada mendengar raja yang tidak dikenal."
 
-Sela menatap Harn, lalu anak-anak lain yang sudah berkumpul: dua belas anak barak, murid Sekolah Mendengar angkatan muda, semua memegang sapu kecil atau papan catat. Mereka sudah mendengar cerita 1 semalam dari Harn — dan mereka takut juga.
+Sela menatap Harn, lalu anak-anak lain yang sudah berkumpul: dua belas anak barak, murid the Listening School angkatan muda, semua memegang sapu kecil atau papan catat. Mereka sudah mendengar cerita 1 semalam dari Harn — dan mereka takut juga.
 
 Sela berdiri. Ia tidak mengambil kapur. Ia mengambil sapu Harn.
 
@@ -41,7 +41,7 @@ Sela berdiri. Ia tidak mengambil kapur. Ia mengambil sapu Harn.
 
 Anak-anak melihat.
 
-"Ulang," kata Sela. Ia mengetuk lantai: ketuk, ketuk, ketuk, diam. "Ketuk, ketuk, ketuk, diam. Diam bukan kosong. Diam adalah ketuk keempat yang tidak dibunyikan, tetapi tetap dihitung. Seperti jeda di buku anomali: tiga hentakan lalu jeda. Jeda itu bukan hilang. Jeda itu yang ditahan bersama."
+"Ulang," kata Sela. Ia mengetuk lantai: ketuk, ketuk, ketuk, diam. "Ketuk, ketuk, ketuk, diam. Diam bukan kosong. Diam adalah ketuk keempat yang tidak dibunyikan, tetapi tetap dihitung. Seperti jeda di the Anomaly Book: tiga hentakan lalu jeda. Jeda itu bukan hilang. Jeda itu yang ditahan bersama."
 
 Harn mencoba: ketuk, ketuk, ketuk, diam. Kayu basah di serambi menelan ketukan ketiga, tetapi diam keempat terdengar sebagai hening yang disengaja — bukan hilang, tetapi ditahan.
 
@@ -51,7 +51,7 @@ Gella menambahkan dari sisi.
 
 "Dan diam yang ditahan tidak sakit," katanya. "Karena ia hanya satu hentakan — tiga detik. Tiga detik tidak membuat pusing. Yang membuat pusing adalah menahan tanpa tahu kapan lepas. Sekarang kita tahu: tahan satu, lepas, tahan lagi saat keras. Ada ritme. Ritme tidak menakutkan — ritme menenangkan."
 
-Kovan membuka buku anomali halaman sembilan — peta angin masih ditempel, angka 1 di barat laut masih tercatat. Ia menambahkan di bawahnya:
+Kovan membuka the Anomaly Book halaman tiga belas — peta angin masih ditempel, angka 1 di barat laut masih tercatat. Ia menambahkan di bawahnya:
 
 *Hari setelah uji lepas: Harn takut menahan lagi. Sela ajarkan: diam sebagai ketuk keempat. Gella: ritme yang menenangkan.*
 
@@ -59,7 +59,7 @@ Ashvarok-Renn menatap anak-anak yang kini mengetuk bersama: dua belas sapu, tiga
 
 "Apakah kita akan tulis pasal baru?" tanya Sela pada Ashvarok-Renn.
 
-"Ya," jawabnya. "Pasal menahan tanpa takut."
+"Ya," jawabnya. "the Holding Without Fear Clause."
 
 Sela menulis di arsip, di bawah pasal lelah. Tulisannya kali ini lebih besar, agar anak-anak bisa baca dari serambi:
 
@@ -75,7 +75,7 @@ Siang, Maera datang membawa kabar: Mira di menara mencatat 3 + angin selatan→u
 
 "Menara juga menahan tanpa takut," kata Maera. "Mira bilang: sekarang ia tidak menunggu dentum keras baru tahan. Ia mengetuk tiga, diam satu, lalu catat. Diamnya bukan reaksi, tetapi ritme. Dentum keras hanya kebetulan jatuh di diam itu. Dan ia bilang perawat lain ikut mengetuk karena mendengar Mira mengetuk — bukan karena disuruh, tetapi karena ritme itu terdengar seperti sapu, dan sapu menular."
 
-Kovan menatap papan kosong di barat laut, lalu buku anomali. Ia menunjuk angka 1 yang masih tercatat kemarin.
+Kovan menatap papan kosong di barat laut, lalu the Anomaly Book. Ia menunjuk angka 1 yang masih tercatat kemarin.
 
 "Jika diam adalah ritme, bukan reaksi, maka 1 kemarin bukan gagal menahan," katanya. "1 kemarin adalah bukti reaksi tidak cukup. Reaksi menunggu dentum baru tahan — telat. Ritme tidak menunggu — ia sudah diam sebelum dentum datang. Itu mengapa Mira tidak pusing: ia diam sebelum angin masuk, bukan setelah."
 
@@ -95,11 +95,11 @@ Sore, papan kosong di barat laut yang kemarin lepas tanpa tahan kini dicatat kem
 
 Harn mengangguk. Ia menatap dua belas sapu yang kini bersandar di dinding, siap untuk besok. Tiga ketuk, satu diam — ia hafal bukan sebagai angka, tetapi sebagai lagu yang ia dengungkan pelan sambil pulang: ketuk ketuk ketuk diam.
 
-Malam itu, Ashvarok-Renn menulis di buku anomali halaman sepuluh. Tulisannya pelan, seperti menulis lagu, bukan laporan:
+Malam itu, Ashvarok-Renn menulis di the Anomaly Book halaman empat belas. Tulisannya pelan, seperti menulis lagu, bukan laporan:
 
-*Pasal menahan tanpa takut: diam = ketuk keempat. Tiga ketuk, satu diam. Anak tidak menahan karena takut benang putus — anak menahan karena lagu butuh diam. Gella: ritme menenangkan. Brannoc: napas bagian langkah. Menara: Mira juga mengetuk tiga diam satu tanpa disuruh. Jaringan diam bukan reaksi — ia ritme yang kebetulan menahan.*
+*the Holding Without Fear Clause: diam = ketuk keempat. Tiga ketuk, satu diam. Anak tidak menahan karena takut benang putus — anak menahan karena lagu butuh diam. Gella: ritme menenangkan. Brannoc: napas bagian langkah. Menara: Mira juga mengetuk tiga diam satu tanpa disuruh. Jaringan diam bukan reaksi — ia ritme yang kebetulan menahan.*
 
-Di sudut ruangan, Yang Dulu Sunyi mencatat: di barak 3 (ketuk diam), di menara 3 + angin selatan→utara (ketuk diam), di barat laut 3 (ketuk diam, papan kosong kembali), di papan Harn 3 (ketuk diam, tidak takut lagi). Lalu jeda satu hentakan yang bukan ditahan karena takut, melainkan karena lagu butuh diam — dan di dalam diam itu, benang menegang lalu mengendur, seperti napas. Di luar, angin Karvess membawa suara ketukan yang masih tersisa di kayu: tiga ketuk, satu diam, diulang tanpa perintah, hanya karena tubuh sudah hafal lagu — dan di dalam hafalan itu, barak dan menara akhirnya menahan dengan cara yang sama tanpa saling melihat.
+Di sudut ruangan, the Once-Silent mencatat: di barak 3 (ketuk diam), di menara 3 + angin selatan→utara (ketuk diam), di barat laut 3 (ketuk diam, papan kosong kembali), di papan Harn 3 (ketuk diam, tidak takut lagi). Lalu jeda satu hentakan yang bukan ditahan karena takut, melainkan karena lagu butuh diam — dan di dalam diam itu, benang menegang lalu mengendur, seperti napas. Di luar, angin Karvess membawa suara ketukan yang masih tersisa di kayu: tiga ketuk, satu diam, diulang tanpa perintah, hanya karena tubuh sudah hafal lagu — dan di dalam hafalan itu, barak dan menara akhirnya menahan dengan cara yang sama tanpa saling melihat.
 
 Retakan di bawah tidak menjawab. Ia hanya berdenyut, tiga hentakan lalu jeda, sama dengan denyut purba yang kini milik seluruh Karvess. Tetapi malam itu, denyut itu terdengar seperti lagu barak — tiga ketuk, satu diam — ritme yang tidak melelahkan, tidak menakutkan, hanya lagu yang sudah delapan belas tahun ada, kini dengan diam sebagai ketuk keempat yang menjaga benang tetap utuh. Dan di sela denyut itu, pasal baru menunggu ditulis: diam bukan karena takut, tetapi karena lagu butuh diam — dan anak yang menulisnya adalah Harn yang kemarin melihat 1.
 

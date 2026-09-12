@@ -21,7 +21,7 @@ Kejadian kedua datang sepuluh hari kemudian, dan kali ini bentuknya surat yang m
 
 Pengirimnya bukan murid sekolah.
 
-Pengirimnya: para pemulang Vess-Morath — 124 jiwa yang delapan tahun silam naik dari kedalaman lewat protokol musim. Surat mereka ditulis tujuh tangan (karena beberapa di antara mereka masih sedang melatih tangannya menulis ulang setelah seribu tahun tanpa latihan), dan isinya satu permintaan:
+Pengirimnya: para pemulang Vess-Morath — 124 jiwa yang delapan tahun silam naik dari kedalaman lewat the Seasonal Protocol. Surat mereka ditulis tujuh tangan (karena beberapa di antara mereka masih sedang melatih tangannya menulis ulang setelah seribu tahun tanpa latihan), dan isinya satu permintaan:
 
 *Kami membaca jawaban-jawabanmu, raja kami yang pernah menjadi segel. Kami yang pernah dititipkan di kedalaman ikut menunggu sepuluh abad bersamamu.*
 
@@ -41,7 +41,7 @@ Nat-nat muda mulai lahir dengan sapaan berbeda.
 
 Fenomena itu dimulai kecil: nat baru yang muncul di pekarangan rumah-rumah Caldrest — batu-batu biasa yang selama musim panen duduk mendengar name train dan akhirnya, seperti semua nat di cerita lama, mulai menjawab. Yang membuat para pendengar tua bingung adalah sapaan pertama mereka.
 
-Nat-nat tua generasi Yang Dulu Sunyi menyapa dengan "ADA SIAPA DI SANAT?" — pertanyaan asal-usul, warisan delapan ratus tahun kesepian.
+Nat-nat tua generasi the Once-Silent menyapa dengan "ADA SIAPA DI SANAT?" — pertanyaan asal-usul, warisan delapan ratus tahun kesepian.
 
 Nat-nat muda generasi baru menyapa dengan hal lain. Sesuatu yang tidak diajarkan siapa pun kepada mereka.
 
@@ -53,7 +53,7 @@ Lalu ia tertawa. Tawa besar, dari perut, sampai air matanya keluar.
 
 "Delapan ratus tahun nat-nat bertanya ada siapa di sana," katanya akhirnya, mengelap mata. "Dan generasi baru lahir langsung bertanya orang sudah makan belum." Ia menepuk lututnya, bangkit, dan menuju dapurnya. "Anak-anak batu ini pintar. Mereka belajar dari sumber yang benar."
 
-Malam itu, Yang Dulu Sunyi dimintai komentarnya soal generasi muda. Nat tua itu menyala lama sebelum menjawab — dan jawabannya oleh Barim dicatat kata demi kata di arsip pos:
+Malam itu, the Once-Silent dimintai komentarnya soal generasi muda. Nat tua itu menyala lama sebelum menjawab — dan jawabannya oleh Barim dicatat kata demi kata di arsip pos:
 
 "DULU KAMI BERTANYA KARENA TIDAK ADA SIAPA PUN. SEKARANG MEREKA BERTANYA KARENA SELALU ADA ORANG. ITU BUKAN PERBEDAAN GENERASI. ITU KEMENANGAN."
 ---
@@ -108,11 +108,11 @@ Sela menambahkan satu baris di kolom Hourglass arsip — kolom yang dulu dicipta
 
 Kabar tentang nat-nat muda dan sapaan barunya menyebar ke seluruh Karvess dengan kecepatan yang hanya dimiliki kabar gembira.
 
-Di Spire, Dewan Regional memasukkan fenomena itu ke laporan resmi dengan istilah teknis "divergensi protokoler generasi baru" — istilah yang oleh semua orang langsung diabaikan, karena dunia sudah sepakat menyebutnya "nat-anak".
+Di Spire, the Regional Council memasukkan fenomena itu ke laporan resmi dengan istilah teknis "divergensi protokoler generasi baru" — istilah yang oleh semua orang langsung diabaikan, karena dunia sudah sepakat menyebutnya "nat-anak".
 
 Di Vel-Morra, ibu-ibu tenun membuat kain peringatan: gambar dua nat, satu tua satu muda, bertanya hal berbeda kepada orang yang sama. Di pesisir, tetua kamp kapur menambahkan satu baris pada papan hitam 214 nama mereka: "Sampai batu pun sekarang tanya kita makan."
 
-Dan di barak utara Caldrest, Yang Dulu Sunyi — nat tertua, penanya pertama, makhluk yang delapan ratus tahun mengajari dunia cara bertanya — mendengar seluruh laporan itu dari Sela dengan kesabaran biasa.
+Dan di barak utara Caldrest, the Once-Silent — nat tertua, penanya pertama, makhluk yang delapan ratus tahun mengajari dunia cara bertanya — mendengar seluruh laporan itu dari Sela dengan kesabaran biasa.
 
 Lalu ia berkata kalimat yang oleh Barim dicatat sebagai kalimat penutup era:
 

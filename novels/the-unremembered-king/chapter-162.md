@@ -5,11 +5,11 @@ chapter: 162
 
 Temuan Ondar mengubah arah musim.
 
-Ashvarok memverifikasinya seminggu penuh dengan ketelitian orang yang tidak percaya pada keberuntungan: setiap kali ia melakukan penjagaan yang menyentuh manusia secara langsung — membimbing regu tersesat keluar lorong gelap, menahan balok di galeri sebelas sebelum runtuh, membaca jalan aman untuk regu malam dan berjalan bersama mereka melewatinya — the Remainder naik sedikit. Setiap kali penjagaan dilakukan dari jauh — Forge tipis, umpan, patroli buta sendirian — angka itu diam, atau turun sesuai harga seninya.
+Ashvarok memverifikasinya seminggu penuh dengan ketelitian orang yang tidak percaya pada keberuntungan: setiap kali ia melakukan penjagaan yang menyentuh manusia secara langsung — membimbing regu tersesat keluar lorong gelap, menahan balok di galeri sebelas sebelum runtuh, membaca jalan aman untuk regu malam dan berjalan bersama mereka melewatinya — the Remainder naik sedikit. Setiap kali penjagaan dilakukan dari jauh — Forge tipis, umpan, blind patrol sendirian — angka itu diam, atau turun sesuai harga seninya.
 
 Hukum lamanya: cerita yang benar memberi makan. Hukum barunya, ditulis di halaman tersembunyi kertas daftar pribadinya dalam sandi rumah tangga: cerita yang dibawa tubuh memberi makan dua kali lipat. Kehadiran adalah bumbunya. Legenda bekerja seperti uang kertas; tindakan bekerja seperti emas.
 
-"Jadi selama ini aku bisa pulih sambil bekerja," katanya kepada Brannoc di gudang perkakas, malam Kapat, "dan aku menghabiskan setahun mengira pemulihan itu harus datang dari luar — panggung, pengakuan, kota yang bercerita."
+"Jadi selama ini aku bisa pulih sambil bekerja," katanya kepada Brannoc di gudang perkakas, Malam Kapat, "dan aku menghabiskan setahun mengira pemulihan itu harus datang dari luar — panggung, pengakuan, kota yang bercerita."
 
 "Dan sekarang?"
 
@@ -29,11 +29,11 @@ Ashvarok memandang adiknya, lalu setuju, dan menyadarinya kemudian bahwa pasal g
 
 Pekerjaan jatah pertama datang Rabat, dan datangnya tidak lewat daftar melainkan lewat tangisan.
 
-Anak juru obat — delapan tahun, yang gambarnya pernah menjadi salah satu bukti mimpi pria abu bab 50 — tidak pulang dari sekolah klinik. Kabarnya menyusul dalam sepuluh menit: ia dan dua anak lain masuk ke celah nat tua dekat kolong bekas galeri sembilan, mengejar bola kain, dan celah itu — celah yang oleh dewasa disebut sempit tetapi oleh anak delapan tahun adalah gerbang petualangan — menelan mereka lebih dalam dari dugaan. Suara tangisan terdengar dari dalam, bergema salah arah, dan Shift Guard yang datang pertama berdiri di mulut celah dengan lampu dan tidak berani: nat tua itu tercatat tidak stabil sejak penutupan darurat, dan panggilan bantuan tambang berarti karantina, dan karantina di pekan kunjungan pasca-jabatan berarti panik kota.
+Anak juru obat — delapan tahun, yang gambarnya pernah menjadi salah satu bukti mimpi pria abu — tidak pulang dari sekolah klinik. Kabarnya menyusul dalam sepuluh menit: ia dan dua anak lain masuk ke celah nat tua dekat kolong bekas galeri sembilan, mengejar bola kain, dan celah itu — celah yang oleh dewasa disebut sempit tetapi oleh anak delapan tahun adalah gerbang petualangan — menelan mereka lebih dalam dari dugaan. Suara tangisan terdengar dari dalam, bergema salah arah, dan Shift Guard yang datang pertama berdiri di mulut celah dengan lampu dan tidak berani: nat tua itu tercatat tidak stabil sejak penutupan darurat, dan panggilan bantuan tambang berarti karantina, dan karantina di pekan kunjungan pasca-jabatan berarti panik kota.
 
 Ashvarok tiba sebagai bagian rombongan warga yang wajar — warga selalu datang ketika anak hilang — dan membaca celah itu dengan satu sentuhan telapak di bingkainya, cepat, di bawah garis pandang. Nat tua, jalur udara, tiga sumber napas kecil masih naik. Jarak: enam belas hasta, satu tikungan. Anak-anak tidak terluka; yang kecil ketakutan, yang besar menjaga.
 
-Ia menoleh ke Brannoc. Brannoc memandangnya, dan di antara dua mantan mitra yang berbagi aturan sejak bab 8, percakapan lengkap terjadi tanpa suara: ini bukan wilayah sunyi, ini nat mati biasa, risiko teknis, bukan risiko Vel-Ghora — dan tetap saja, jika ada yang salah, bocah itu akan menjadi orang yang terakhir masuk dan orang yang paling disalahkan, seperti selalu.
+Ia menoleh ke Brannoc. Brannoc memandangnya, dan di antara dua mantan mitra yang berbagi aturan sejak perjanjian diam mereka, percakapan lengkap terjadi tanpa suara: ini bukan wilayah sunyi, ini nat mati biasa, risiko teknis, bukan risiko Vel-Ghora — dan tetap saja, jika ada yang salah, bocah itu akan menjadi orang yang terakhir masuk dan orang yang paling disalahkan, seperti selalu.
 
 "Biar saya," kata Ashvarok keras-keras. "Tubuh saya yang paling kecil di sini."
 
@@ -55,7 +55,7 @@ Di rak dapur aula kini ada buku catatan khusus berjudul "Teh" — isinya hanya h
 
 ---
 
-Laporan jatah pertama masuk ke neraca besar malam itu, di gudang perkakas, di hadapan tim inti yang kini beranggotakan enam: Ashvarok, Brannoc, Sela, Maera yang datang membawa kotak timbungnya, Kovan dengan buku sandinya, dan — hadir untuk pertama kalinya atas undangan resmi — pengikat senior, yang duduk paling lama diam sebelum akhirnya berkata satu kalimat pembuka: "Aku menunggu undangan ini empat puluh tahun. Ternyata meja yang kutunggu ada di gudang tambang."
+Laporan jatah pertama masuk ke neraca besar malam itu, di gudang perkakas, di hadapan tim inti yang kini beranggotakan enam: Ashvarok, Brannoc, Sela, Maera yang datang membawa weighing box miliknya, Kovan dengan buku sandinya, dan — hadir untuk pertama kalinya atas undangan resmi — pengikat senior, yang duduk paling lama diam sebelum akhirnya berkata satu kalimat pembuka: "Aku menunggu undangan ini empat puluh tahun. Ternyata meja yang kutunggu ada di gudang tambang."
 
 Mereka membagi dunia menjadi wilayah bacaan. Kovan memegang suara — semua gema, sapuan, klasifikasi, jalur Spire. Maera memegang kertas — Guild, lelang, formulir, Dewan. Ossian, tidak hadir tetapi terwakili oleh satu lembar yang disampaikan Maera, memegang gembok dan prosedur. Pengikat senior memegang ingatan — garis-garis tua, ordo-ordo mati, cara-cara yang hilang. Dan Ashvarok, kata Sela yang menuliskannya di papan sambil dibaca keras, "memegang pekerjaan."
 

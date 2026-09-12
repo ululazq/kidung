@@ -17,7 +17,7 @@ Tami-Tomi meletakkan ember. "Aku belum pernah masak penuh sendirian."
 
 ---
 
-Dapur aula pagi itu panik dengan cara yang tenang — semua orang tahu ibu Tamma sakit, tidak ada yang tahu apa yang harus diubah. Murid-murid Sekolah Mendengar yang biasa menyapu berhenti di ambang, ragu masuk. Wida, yang lewat membawa surat pos, ikut berdiri di sudut seolah menghitung berapa banyak orang yang kehilangan sarapan.
+Dapur aula pagi itu panik dengan cara yang tenang — semua orang tahu ibu Tamma sakit, tidak ada yang tahu apa yang harus diubah. Murid-murid the Listening School yang biasa menyapu berhenti di ambang, ragu masuk. Wida, yang lewat membawa surat pos, ikut berdiri di sudut seolah menghitung berapa banyak orang yang kehilangan sarapan.
 
 Tami-Tomi membuka buku catatan dapur ibu Tamma. Resep sup pertama yang ia warisi tertulis di halaman depan, tulisan ibu Tamma yang tegak: *Tiga putaran, jeda satu tarikan napas. Kurang pecah, lebih kental.*
 
@@ -141,4 +141,4 @@ Ibu Tamma tertawa kecil, pertama kalinya hari itu. "Brannoc mengajarkan anaknya 
 
 Harn pergi tertawa, roti di tangan, langkahnya mantap menuju barak utara di bawah cahaya nat yang menyala pelan.
 
-Ibu Tamma menutup buku catatan dapur, meletakkannya di atas meja, dan untuk pertama kalinya membiarkan dapur dalam kegelapan tanpa rasa bersalah. Di kursi sudut, bayangan delapan belas tahun dirinya sendiri masih duduk — tetapi kini ada bayangan baru di kompor: Tami-Tomi, yang mulai belajar bahwa memasak bukan soal rasa yang sama — melainkan soal prinsip yang diwariskan.
+Ibu Tamma menutup buku catatan dapur, meletakkannya di atas meja, dan untuk pertama kalinya membiarkan dapur dalam kegelapan tanpa rasa bersalah. Di kursi sudut, bayangan delapan belas tahun dirinya sendiri masih duduk — tetapi kini ada bayangan baru di kompor: Tami-Tomi, yang mulai belajar bahwa memasak bukan soal rasa yang sama — melainkan soal prinsip yang diwariskan. Kovan menulis jumlah akhirnya tanpa membulatkan satu pun.

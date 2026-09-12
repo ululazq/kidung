@@ -5,9 +5,9 @@ chapter: 282
 
 Tahun pertama batu kecil itu ditutup dengan satu tradisi baru yang lahir tanpa direncanakan siapa pun.
 
-Pada tanggal kematiannya, Yang Mendengar Sampai Habis memutar tawa empat puluh tahun silamnya seperti biasa — dan kambing-kambing langganan, yang sudah mengenali irama malam itu, duduk lebih rapat dari biasanya di sisi batu kecil. Kebetulan penduduk kamp bawah melihatnya, menceritakannya ke atas; kabarnya naik; dan tahun berikutnya orang-orang datang khusus pada tanggal itu untuk duduk BERSAMA kambing-kambing mendengarkan tawa laki-laki tua.
+Pada tanggal kematiannya, the Listener to the End memutar tawa empat puluh tahun silamnya seperti biasa — dan kambing-kambing langganan, yang sudah mengenali irama malam itu, duduk lebih rapat dari biasanya di sisi batu kecil. Kebetulan penduduk kamp bawah melihatnya, menceritakannya ke atas; kabarnya naik; dan tahun berikutnya orang-orang datang khusus pada tanggal itu untuk duduk BERSAMA kambing-kambing mendengarkan tawa laki-laki tua.
 
-Tahun ketiga, jumlah pengunjung malam tawa itu melebihi kapasitas pos. Maka dibangunlah tribun kayu kecil menghadap makam — dibangun murid-murid Akademi Arsip sebagai proyek praktikum, dengan pahatan kecil di tiap sandaran: nama-nama murid yang mengerjakannya.
+Tahun ketiga, jumlah pengunjung malam tawa itu melebihi kapasitas pos. Maka dibangunlah tribun kayu kecil menghadap makam — dibangun murid-murid the Archive Academy sebagai proyek praktikum, dengan pahatan kecil di tiap sandaran: nama-nama murid yang mengerjakannya.
 
 Dan oleh Sela, tradisi itu akhirnya masuk kalender resmi Karvess dengan nama yang tidak perlu penjelasan:
 
@@ -30,9 +30,9 @@ Ia tidak bisa membuat batu tidak dikasihi manusia.
 
 Tahun-tahun berikutnya membawa perkembangan yang tidak bisa diprediksi siapa pun — dan justru itu yang membuatnya layak dicatat.
 
-Batu kecil itu menjadi titik awal jalur ziarah baru: orang-orang datang ke Vhal-Duren bukan lagi hanya untuk Yang Mendengar Sampai Habis, tetapi untuk dua makhluk sekaligus — sahabat bundar dan sahabat kecil — dan pos pendengar memperluas bangkunya dua kali dalam lima tahun.
+Batu kecil itu menjadi titik awal jalur ziarah baru: orang-orang datang ke Vhal-Duren bukan lagi hanya untuk the Listener to the End, tetapi untuk dua makhluk sekaligus — sahabat bundar dan sahabat kecil — dan pos pendengar memperluas bangkunya dua kali dalam lima tahun.
 
-Murid-murid Akademi Arsip menjadikan makam itu tempat sumpah kelulusan: bukan sumpah pada jabatan atau negara, tetapi satu kalimat yang diucapkan dengan tangan menyentuh batu kecil: *"Aku akan menjaga pertanyaannya."*
+Murid-murid the Archive Academy menjadikan makam itu tempat sumpah kelulusan: bukan sumpah pada jabatan atau negara, tetapi satu kalimat yang diucapkan dengan tangan menyentuh batu kecil: *"Aku akan menjaga pertanyaannya."*
 
 Dan pada tahun ketujuh, terjadi hal yang oleh Sela dicatat dengan tinta merah — warna tanggal-tanggal penting:
 
@@ -62,11 +62,11 @@ Suratnya selalu sama panjangnya: satu halaman. Isinya selalu berbeda. Namun penu
 
 Tahun-tahun berlalu, dan batu kecil itu menemukan perannya dalam sejarah yang panjang — peran yang tidak direncanakan siapa pun tetapi cocok sekali dengan pemiliknya.
 
-Ia menjadi tempat para pendengar muda datang ketika mendengarkan terasa gagal. Setiap kali seorang murid Akademi Arsip kehabisan jawaban untuk keluarga yang berduka, setiap kali seorang penjaga pos lelah oleh cerita orang lain, setiap kali seorang dokter kehilangan pasien — mereka naik ke Vhal-Duren. Duduk di sisi timur. Menyentuh kalimat yang menipis.
+Ia menjadi tempat para pendengar muda datang ketika mendengarkan terasa gagal. Setiap kali seorang murid the Archive Academy kehabisan jawaban untuk keluarga yang berduka, setiap kali seorang penjaga pos lelah oleh cerita orang lain, setiap kali seorang dokter kehilangan pasien — mereka naik ke Vhal-Duren. Duduk di sisi timur. Menyentuh kalimat yang menipis.
 
 Dan pulang dengan satu hal: bukan semangat baru, bukan nasihat — tetapi izin. Izin untuk tidak sempurna. Karena laki-laki di bawah batu ini empat puluh tahun hanya bisa diam, dan diamnya saja sudah cukup menyelamatkan nama-nama.
 
-Yang Mendengar Sampai Habis menghitung pengunjung makam itu seperti ia menghitung segalanya: teliti, sabar, tanpa memberi tahu siapa pun angkanya sampai ditanya.
+the Listener to the End menghitung pengunjung makam itu seperti ia menghitung segalanya: teliti, sabar, tanpa memberi tahu siapa pun angkanya sampai ditanya.
 
 Pertanyaannya akhirnya diajukan Sela pada tahun kesepuluh: "Berapa banyak yang sudah datang?"
 
@@ -78,14 +78,14 @@ Jawabannya, diterjemahkan Barim, adalah kalimat yang kemudian diukir pada papan 
 
 Dan arsip Karvess — institusi yang hidup dari angka dan daftar — untuk pertama kalinya dalam sejarahnya mencatat sesuatu dengan kolom kosong:
 
-*Pengunjung makam Pembaca Tua: tidak dihitung.*
+*Pengunjung makam the Old Reader: tidak dihitung.*
 
 *Karena beliau akan lebih suka begitu.*
 ---
 
 Tahun-tahun berlalu menjadi dasawarsa, dan batu kecil itu perlahan menjalani transformasi yang tidak pernah direncanakan siapa pun: dari makam menjadi tempat, dan dari tempat menjadi cerita, dan dari cerita menjadi bagian dari cara Karvess memahami dirinya.
 
-Anak-anak belajar membaca dengan kalimat di batunya. Pasangan-pasangan muda datang menikah di dekat reruntuhan — "agar pernikahan kami didengarkan yang sudah terbukti sabar," kata mereka, dan Yang Mendengar Sampai Habis menyanyikan lagu pernikahan pertama dalam sejarahnya, irama pinjaman dari lagu pengantar tidur kedalaman yang disesuaikan.
+Anak-anak belajar membaca dengan kalimat di batunya. Pasangan-pasangan muda datang menikah di dekat reruntuhan — "agar pernikahan kami didengarkan yang sudah terbukti sabar," kata mereka, dan the Listener to the End menyanyikan lagu pernikahan pertama dalam sejarahnya, irama pinjaman dari lagu pengantar tidur kedalaman yang disesuaikan.
 
 Para pemimpin dunia — Dewan, Spire, utusan-utusan wilayah jauh — belajar naik ke sini tanpa protokol, karena satu-satunya aturan di pos ini adalah aturan dapur ibu Tamma: semua orang duduk sama rendahnya, semua orang makan sama hangatnya.
 
@@ -108,7 +108,7 @@ Di halaman terakhir arsip pos pendengar Vhal-Duren tahun kesepuluh, Barim menuli
 
 Dan satu adegan terakhir untuk batu kecil ini — jauh di masa depan, saat hampir semua nama era besar sudah masuk lagu:
 
-Seorang arsiparis muda Akademi Arsip the Quiet Vein — generasi yang lahir setelah Pembaca Tua wafat, yang mengenalnya hanya sebagai bab dalam buku pelajaran — naik ke Vhal-Duren untuk tugas praktikumnya: membersihkan nisan dan memeriksa kondisi tulisan.
+Seorang arsiparis muda the Quiet Vein Archive Academy — generasi yang lahir setelah the Old Reader wafat, yang mengenalnya hanya sebagai bab dalam buku pelajaran — naik ke Vhal-Duren untuk tugas praktikumnya: membersihkan nisan dan memeriksa kondisi tulisan.
 
 Ia membersihkan kalimat pertama dengan kuas halus. Lalu sampai di kalimat kedua.
 

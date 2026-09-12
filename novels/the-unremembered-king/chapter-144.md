@@ -3,7 +3,7 @@ title: "Bab 144: Hitungan yang Menunggu"
 chapter: 144
 ---
 
-Mimpi itu datang pada malam hari keseratus dua belas, dan Sela tahu sejak detik pertama bahwa malam ini mimpinya berjalan menurut hukum lamanya.
+Mimpi itu datang pada malam hari kedua ratus dua belas, dan Sela tahu sejak detik pertama bahwa malam ini mimpinya berjalan menurut hukum lamanya.
 
 Lorong gelap seperti biasa, lorong yang tidak pernah sama dua kali tetapi selalu terasa milik satu tempat. Ash Man berdiri di mulutnya dengan punggung lebar yang sudah ia kenal lebih lama daripada ia rela mengaku. Orang-orang keluar satu per satu dari kegelapan itu, dan setiap kali satu badan mencapai ujung terang, hitungan naik. Empat belas. Lima belas. Dua puluh satu. Angka-angka itu tidak disebut siapa pun, angka itu hanya ada — seperti ada panas di dekat tungku — dan Sela berdiri di sisi lorong seperti biasa, menghitung bersama tanpa pernah ikut masuk.
 
@@ -51,7 +51,7 @@ Sarapan pagi itu di dapur barak berisi cerita yang sama seperti dua pagi sebelum
 
 "Kakakku bermimpi pintunya lagi," kata anak juru obat kepada meja panjang, bangga seperti orang baru pulang dari tempat jauh. "Katanya kali ini pintunya menyebut namaku dua kali." Dua orang lain menimpali dengan versi masing-masing, dan ibu Tamma menghitung ulang dengan arang di tepi meja sambil berseru kepada ruangan bahwa mimpi bagus boleh diceritakan sekali, bukan tiga kali per sarapan.
 
-Sela makan buburnya dan mendengarkan, dan mendengarkan itu pekerjaannya, dan pekerjaannya pagi itu menyampaikan satu hal yang tidak ia tulis di mana pun. Kota sedang jatuh cinta pada sebuah pintu yang tidak ada satu pun dari mereka yang pernah lihat. Ceritanya tumbuh sendiri tiap pagi, hangatnya bertambah, panggilan namanya makin akrab, dan tidak ada satu kepala pun di ruangan ini yang tahu siapa penulis pertamanya. Kakaknya sudah membuat aturan untuk dirinya sendiri soal hal itu, dua malam lalu, dan Sela ikut menyetujui setiap pasalnya. Tetapi duduk di tengah cerita yang tumbuh seperti rumput hujan ini, gadis itu merasakan untuk pertama kalinya betapa besar barang yang kakaknya pegang, sampai-sampai kota sepenuhnya bisa bermimpi karena satu tarikan napas kapurnya.
+Sela makan buburnya dan mendengarkan, dan mendengarkan itu pekerjaannya, dan pekerjaannya pagi itu menyampaikan satu hal yang tidak ia tulis di mana pun. Kota sedang jatuh cinta pada sebuah pintu yang tidak ada satu pun dari mereka yang pernah lihat. Ceritanya tumbuh sendiri tiap pagi, hangatnya bertambah, panggilan namanya makin akrab, dan tidak ada satu kepala pun di ruangan ini yang tahu siapa penulis pertamanya. Kakaknya sudah membuat aturan untuk dirinya sendiri soal hal itu, dua malam lalu, dan Sela ikut menyetujui setiap pasalnya. Tetapi duduk di tengah cerita yang tumbuh seperti rumput hujan ini, gadis itu merasakan untuk pertama kalinya betapa besar barang yang kakaknya pegang, sampai-sampai kota sepenuhnya bisa bermimpi.
 
 Ia juga mencatat satu hal kecil yang lain, tentang dirinya sendiri. Dari seluruh dapur yang penuh orang bercerita soal pintu hangat, hanya dia satu-satunya yang malam ini tidak memimpikan pintu apa pun. Mimpinya punya lorongnya sendiri, dan lorongnya sedang menunggu.
 
@@ -63,7 +63,9 @@ Kereta nama berangkat jam sembilan, Harn menyeret gerbong belakang dengan papan 
 
 Namun pagi itu, untuk pertama kalinya, gadis itu menghitung anak-anak di name trainnya dua kali, dan kedua kalinya ia menghitung lebih lambat.
 
-Renn menemukannya saat istirahat, di ambang klinik, dan bocah itu tidak bertanya kenapa wajah adiknya begini, sebab mereka berdua sudah lama sepakat bahwa beberapa hal tidak dibicarakan pagi-pagi. Yang dikatakannya hanya, "Kamu kelihatan kurang tidur.""Aku tidak apa-apa." Sela memandang anak-anaknya memutar ujung jalur. "Aku hanya memikirkan soal pekerjaanku. Guru itu harus hafal semua nama muridnya, kan?"
+Renn menemukannya saat istirahat, di ambang klinik, dan bocah itu tidak bertanya kenapa wajah adiknya begini, sebab mereka berdua sudah lama sepakat bahwa beberapa hal tidak dibicarakan pagi-pagi. Yang dikatakannya hanya, "Kamu kelihatan kurang tidur."
+
+"Aku tidak apa-apa." Sela memandang anak-anaknya memutar ujung jalur. "Aku hanya memikirkan soal pekerjaanku. Guru itu harus hafal semua nama muridnya, kan?"
 
 "Hafal."
 

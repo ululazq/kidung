@@ -77,7 +77,7 @@ Kepala desa kembali ke beranda dua hari kemudian, membawa mangkuk sup. "Kau hitu
 
 "Guru suruh," jawab anak itu, menutup papan.
 
-"Guru di mana? Sekolah Mendengar di utara?" Kepala desa duduk di bangku sebelah. "Aku pernah dengar sekolah itu. Mereka ajar anak hitung napas, tetapi tidak kirim murid sejauh ini tanpa kabar ke kepala desa."
+"Guru di mana? the Listening School di utara?" Kepala desa duduk di bangku sebelah. "Aku pernah dengar sekolah itu. Mereka ajar anak hitung napas, tetapi tidak kirim murid sejauh ini tanpa kabar ke kepala desa."
 
 "Guru tidak minta kabar. Hanya minta aku belajar." Anak pertama menunduk, menghitung napas sendiri di dalam dada supaya tidak terbaca di wajah.
 
@@ -109,10 +109,10 @@ Di barak, Gella mengukur napas Ashvarok-Renn saat fajar, sebelum ia membuka bibl
 
 "Catat di papan," kata Sela.
 
-"Tidur tidak bisa diukur napas. Namun bisa dihitung jam." Gella menulis: *the Bearer tidur 3 jam/malam sejak arc the Misclaim. Napas stabil 4, tetapi kelelahan kronis. Bahaya bukan hari ini, tetapi sebulan lagi.*
+"Tidur tidak bisa diukur napas. Namun bisa dihitung jam." Gella menulis: *the Bearer tidur 3 jam/malam sejak the Hollow mulai diburu. Napas stabil 4, tetapi kelelahan kronis. Bahaya bukan hari ini, tetapi sebulan lagi.*
 
 ---
 
 Ashvarok-Renn menutup bible kecil dan menulis: *Choir mundur dari the Hollow; pihak cap 7 garis (the Wanes) maju sendiri. Kesempatan baca pola bila hanya satu pihak buka. Strategi: biarkan mereka pegang pintu tanpa kunci, kita catat dari jauh.*
 
-Ia bangkit, menyapu halaman bersama dua belas anak, dan membiarkan benang diam hidup tanpa namanya — tahu bahwa di tengah Karvess, sebuah pangkal tujuh seam kini dipegang tangan yang sama butanya dengan barak, dan hanya ketenangan yang akan menentukan siapa yang benar-benar melihat. Di menara, Mira menutup buku catatan halaman keenam, lalu menulis di sisi: *The Wanes lebih tua dari Choir, cari 7 keluarga. Kita cari 9 napas. Dua jalan ke pintu sama, satu punya kunci.*
+Ia bangkit, menyapu halaman bersama dua belas anak, dan membiarkan benang diam hidup tanpa namanya — tahu bahwa di tengah Karvess, sebuah pangkal tujuh seam kini dipegang tangan yang sama butanya dengan barak, dan hanya ketenangan yang akan menentukan siapa yang benar-benar melihat. Di menara, Mira menutup buku catatan halaman keenam, lalu menulis di sisi: *The Wanes lebih tua dari Choir, mencari 7 keluarga. Sembilan napas tetap kita cari. Dua jalan ke pintu sama, satu punya kunci.*

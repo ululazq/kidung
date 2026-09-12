@@ -61,7 +61,7 @@ Kovan menulis balasan: *Jangan kirim kaki. Amati cap tujuh garis itu. Kirim gamb
 
 Malamnya, Ashvarok-Renn duduk di serambi, bible kecil di pangkuan. Ia membuka halaman tujuh seam dan menulis di bawah catatan Ossian: *the Hollow = pangkal 7 seam (konfirmasi catatan Throne + ingatan ibu Tamma 'tujuh pintu tanpa kunci'). Lebih dari satu pihak mencari (cap 7 garis vs Choir). Belum diklaim. Strategi: amati dengan mata, jangan kirim kaki. Tutup butuh penemu pertama — kita upayakan jadi penemu pertama secara pengetahuan.*
 
-Ia menutup bible, lalu menatap peta di dinding. Lima simpul buta kini punya nama sementara: selatan (diawasi), utara (Ossian), timur (belum disentuh), barat daya (bekas pos Hegemony), dan tengah (the Hollow, pangkal). Empat masih di luar jangkauan tangan, hanya dalam jangkauan telinga.
+Ia menutup bible, lalu menatap peta di dinding. Lima simpul buta kini punya nama sementara: selatan (diawasi), utara (Ossian), timur (belum disentuh), barat daya (bekas pos Hegemony), dan tengah (the Hollow, pangkal). Empat selain selatan masih di luar jangkauan tangan, hanya dalam jangkauan telinga.
 
 Di menara, Mira menutup buku catatan dan menulis di sisi: *Empat simpul buta di luar jangkauan. Kita jaga dengan telinga, bukan tangan.* Perawat tua menyilang baris bawah, tiga, seperti biasa.
 

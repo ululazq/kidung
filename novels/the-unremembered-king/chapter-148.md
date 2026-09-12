@@ -5,13 +5,13 @@ chapter: 148
 
 Lot Vosk yang datang pada pagi hari kedua ratus dua puluh berisi tiga kata saja di kolom catatan, harga timah naik, bawa telinga malam ini, dan Ashvarok membacanya dua kali karena Maera Tull tidak pernah memboroskan kata pada barang yang tidak penting.
 
-Mereka bertemu di ruang belakang pos Guild setelah tutup layanan, dengan peta Caldrest tergulung di meja sebagai alasan resmi dan kotak timbung mini kecil itu terbuka di sampingnya sebagai alasan yang sebenarnya. Di dalamnya ada lembaran salinan bersampel lilin abu, dua belas halaman, dan wajah Assayer itu, ketika menyerahkannya, adalah wajah orang yang sudah lama tidak tidur dengan mudah.
+Mereka bertemu di ruang belakang pos Guild setelah tutup layanan, dengan peta Caldrest tergulung di meja sebagai alasan resmi dan mini weighing box kecil itu terbuka di sampingnya sebagai alasan yang sebenarnya. Di dalamnya ada lembaran salinan bersampel lilin abu, dua belas halaman, dan wajah Assayer itu, ketika menyerahkannya, adalah wajah orang yang sudah lama tidak tidur dengan mudah.
 
 "Saksi prosedur menerima salinan semua dokumen keamanan seam," katanya. "Pasal pelindungku dari karantina dulu. Vael mengirimkannya hari ini juga, tertib prosedur, tanpa satu pun upaya menyembunyikan isinya." Ia menjeda, dan mata yang selalu menghitung itu berhenti menghitung sesaat. "Itu bagian yang membuatku tidak bisa tidur. Orang yang menyembunyikan rencana masih bisa dilawan dengan cara biasa."
 
 Ashvarok membaca. Ia membaca pelan, halaman demi halaman, dengan cara ia membaca batu, dan semakin jauh kertas itu membawanya, semakin tenang wajahnya — sebab tenang adalah bentuk kesabaran yang dipaksa bekerja.
 
-Prosedur penutupan darurat level bawah. Mandat Dewan Regional, diperluas atas dasar insiden kedua ratus enam belas. Lampiran teknis biro Choir. Dan di jantung dokumen itu, diagram satu halaman yang lebih jujur daripada semua pasalnya, tiga titik hitam di gambar potongan the Underfold. Lorong utama. Persimpangan troli timur. Dasar galeri sembilan. Ketiganya dihubungkan garis tipis menuju satu kata dalam kotak kecil.
+Prosedur penutupan darurat level bawah. Mandat the Regional Council, diperluas atas dasar insiden kedua ratus enam belas. Lampiran teknis biro Choir. Dan di jantung dokumen itu, diagram satu halaman yang lebih jujur daripada semua pasalnya, tiga titik hitam di gambar potongan the Underfold. Lorong utama. Persimpangan troli timur. Dasar galeri sembilan. Ketiganya dihubungkan garis tipis menuju satu kata dalam kotak kecil.
 
 Eksekusi.
 
@@ -33,7 +33,7 @@ Maera menutup matanya sebentar. "Berapa banyak orang yang bekerja di bawah tingk
 
 "Kamu mau apa?" tanya Maera langsung, sebab dia selalu begitu pada akhirnya. "Melawan mandat Dewan?"
 
-"Tidak. Mandat itu sah, dan melawannya di kertas berarti kalah dua kali." Ashvarok memandang kotak timbung mini itu, lalu wajah perempuan yang telah memilih berkali-kali untuk tetap di kota ini. "Yang kumau adalah pintu. Segel itu menutup dari luar, dan tidak ada pasal mana pun di dokumen dua belas halaman ini yang tahu cara membuka dirinya dari dalam. Maka kita akan membuat satu pintu yang bisa."
+"Tidak. Mandat itu sah, dan melawannya di kertas berarti kalah dua kali." Ashvarok memandang mini weighing box itu, lalu wajah perempuan yang telah memilih berkali-kali untuk tetap di kota ini. "Yang kumau adalah pintu. Segel itu menutup dari luar, dan tidak ada pasal mana pun di dokumen dua belas halaman ini yang tahu cara membuka dirinya dari dalam. Maka kita akan membuat satu pintu yang bisa."
 
 ---
 
@@ -45,7 +45,7 @@ Ia cukup melewati gerobak kedua dalam jalan pulangnya, menyentuh sisi petinya se
 
 Satu peti tergelincir sedikit saat dipindahkan, bersentuhan dengan batu tepi jalan, dan bunyi sentuhannya mati begitu saja tanpa gema, seperti kata yang ditelan. Orang-orang berjubah itu tidak menoleh. Warga gang yang lewat subuh itu juga tidak menoleh, sebab bagi kota, ini hanyalah kiriman biasa milik biro yang membosankan.
 
-Ashvarok melanjutkan jalan pulangnya dengan hitungan baru di kepala, bahwa bahan segel sudah tiba di Caldrest hari kedua ratus dua puluh, artinya pasal persiapan dokumen itu sudah lewat, artinya tinggal pemasaran, tinggal aba-aba, tinggal satu takutan lagi dari Spire atau satu kabar buruk lagi dari kedalaman. Ia memandangi asap dapur pertama barak timur yang mulai naik di atas atap-atap, ratusan tungku kecil yang masing-masing punya nama pemiliknya di name map klinik, lalu mempercepat langkahnya menuju gudang perkakas — sebab hitungan mundur tidak menunggu rapat dimulai.
+Ashvarok melanjutkan jalan pulangnya dengan hitungan baru di kepala, bahwa bahan segel sudah tiba di Caldrest hari kedua ratus dua puluh, artinya pasal persiapan dokumen itu sudah lewat, artinya tinggal pemasaran, tinggal aba-aba, tinggal satu ketakutan lagi dari Spire atau satu kabar buruk lagi dari kedalaman. Ia memandangi asap dapur pertama barak timur yang mulai naik di atas atap-atap, ratusan tungku kecil yang masing-masing punya nama pemiliknya di name map klinik, lalu mempercepat langkahnya menuju gudang perkakas — sebab hitungan mundur tidak menunggu rapat dimulai.
 
 ---
 

@@ -7,7 +7,7 @@ Surat itu tiba pagi hari keseratus tujuh puluh tujuh, dibawa oleh pegawai muda K
 
 "Apa isinya?" tanya Kovan.
 
-"Saya hanya kurir hari ini, Pak Shift Guard." Pegawai itu tersenyum sopan. "Namun kata orang di pos, surat dari Spire yang pakai segel Dewan jarang isinya jelek untuk orang yang namanya dicantumkan di dalamnya."
+"Saya hanya kurir hari ini, Pak Shift Guard." Pegawai itu tersenyum sopan. "Namun kata orang di pos, surat dari Spire yang pakai Council Seal jarang isinya jelek untuk orang yang namanya dicantumkan di dalamnya."
 
 Ia pergi sebelum pertanyaan kedua sempat terbentuk. Kovan memegang amplop itu sebentar di telapak tangannya. Lima belas tahun bekerja di tambang membuatnya mengenal berat kertas, dan kertas ini lebih berat dari isi biasa. Ia membuka segelnya dengan pisau surat yang tepiannya sudah tidak rata, membuka lipatan pertama, dan membaca salam pembukanya dua kali karena ia tidak yakin nama jabatannya sendiri yang tertulis di sana.
 
@@ -45,7 +45,7 @@ Tinta pada sampul itu butuh beberapa saat untuk kering di udara malam, dan ia me
 
 Keesokan harinya, saat pemeriksaan rutin koridor timur, ia bertemu pengikat senior di tingkat tiga seperti biasa. Orang tua itu berdiri di depan nat dinding dengan telapak kanan rata di batu, napasnya lambat seperti selalu, dan ia tidak menoleh ketika langkah Kovan berhenti di sebelahnya.
 
-"Dewan Spire memberiku pekerjaan baru," kata Kovan. "Gema yang tidak bisa dipetakan ke tradisi mana pun sekarang punya nama klasifikasi. Orphan Murmur."
+"the Spire Council memberiku pekerjaan baru," kata Kovan. "Gema yang tidak bisa dipetakan ke tradisi mana pun sekarang punya nama klasifikasi. Orphan Murmur."
 
 Telapak tua itu tetap menempel di batu selama beberapa tarikan napas. "Yatim," ulang pengikat senior. Kata itu ia rasakan di lidahnya seperti orang mencicipi buah yang belum tentu manis. "Mereka menemukan sesuatu yang tidak punya keluarga, lalu yang mereka kerjakan adalah memberi nomor padanya."
 

@@ -5,11 +5,11 @@ chapter: 168
 
 Masalahnya muncul dari keberhasilan, seperti biasanya di Caldrest.
 
-Panggung Dapur menyebar ke pasar timur lewat jalur yang tidak bisa dicegah siapa pun: cerita. Warga yang datang ke dapur barak pulang membawa cara baru itu, dan pasar — makhluk hidup yang menelan dan menjual ulang segala sesuatu dalam seminggu — melahirkan versinya sendiri: bangku panjang di depan kedai kopi Vosk, setiap sore, tempat pedagang bercerita tentang sesama pedagang. Dan dalam dua pekan, versi pasar itu berubah menjadi sesuatu yang lain, karena pasar tidak punya ibu Tamma.
+the Kitchen Stage menyebar ke pasar timur lewat jalur yang tidak bisa dicegah siapa pun: cerita. Warga yang datang ke dapur barak pulang membawa cara baru itu, dan pasar — makhluk hidup yang menelan dan menjual ulang segala sesuatu dalam seminggu — melahirkan versinya sendiri: bangku panjang di depan kedai kopi Vosk, setiap sore, tempat pedagang bercerita tentang sesama pedagang. Dan dalam dua pekan, versi pasar itu berubah menjadi sesuatu yang lain, karena pasar tidak punya ibu Tamma.
 
 Cerita-ceritanya mulai membesar sendiri. Pedagang garam yang katanya menyembunyikan timbangan curang. Kafilah yang konon membawa barang terlarang di gerobak ketiga. Cerita tentang "penjaga tua tambang" yang sudah berkembang tiga kepala dan empat lengan di mulut-mulut anak buah — legenda yang menular dari cerita asli Ondar seperti api merambat jerami. Dan yang paling berbahaya menurut ukuran yang hanya beberapa orang paham: nama-nama mulai dilekatkan pada cerita yang tidak benar, dan nama yang ditempel pada kebohongan adalah nama yang sedang dimakan palsu.
 
-Ashvarok mendengarnya langsung suatu sore di pasar, ketika seorang penjual muda bercerita keras kepada kerumunan bahwa "Renn bocah tungku itu bisa bicara sama batu, batu-batunya menyanyi diajak" — cerita yang berakar benar tetapi telah tumbuh lima jengkal melewati kebenaran, dan kerumunan tertawa senang, dan the Remainder dalam dadanya merespons cerita palsu itu dengan cara yang telah dibuktikan bab 91: tidak ada apa-apa. Uang palsu ditolak. Tetapi orang-orang di kerumunan itu tidak menolaknya. Mereka membeli, mengingat, dan akan menceritakan ulang — dan cerita yang salah tentang penjaga adalah cerita yang bisa membunuh penjaga kalau sampai ke telinga yang mencari dia.
+Ashvarok mendengarnya langsung suatu sore di pasar, ketika seorang penjual muda bercerita keras kepada kerumunan bahwa "Renn bocah tungku itu bisa bicara sama batu, batu-batunya menyanyi diajak" — cerita yang berakar benar tetapi telah tumbuh lima jengkal melewati kebenaran, dan kerumunan tertawa senang, dan the Remainder dalam dadanya merespons cerita palsu itu seperti telah terbukti sebelumnya: tidak ada apa-apa. Uang palsu ditolak. Tetapi orang-orang di kerumunan itu tidak menolaknya. Mereka membeli, mengingat, dan akan menceritakan ulang — dan cerita yang salah tentang penjaga adalah cerita yang bisa membunuh penjaga kalau sampai ke telinga yang mencari dia.
 
 Kovan yang hadir sebagai pembeli kecil menangkap pandangannya. Ibu Tamma yang berjualan sayur di sebelah mengepalkan tangannya sekali. Malam itu rapat dapur berlangsung dengan agenda tunggal, dan Sela yang membuka dengan papannya sudah ditulis penuh:
 
@@ -37,7 +37,7 @@ Yang tidak masuk catatan siapa pun adalah sesi penilaian ulang yang terjadi diam
 
 Ia bercerita tentang Kovan — Shift Guard yang dulu ditertawakan karena alatnya "rusak" dua kali, yang dihina bocah lorong tujuh tanpa bisa membalas, yang menghilang setahun dan kembali sebagai orang asing yang jalan pelan-pelan sambil menyentuh dinding — dan pedagang tua itu menutup ceritanya dengan kalimat yang membuat beberapa orang menoleh mencari orang yang disebutnya: "Aku salah dia dulu. Aku ikut menertawakan. Sekarang aku tahu dia satu-satunya yang benar waktu semuanya salah. Cerita ini kubayar dengan malu, dan malu itu mahal, jadi dengarkan baik-baik."
 
-Dan dari baris belakang, seorang pembeli kecil yang selalu hadir di bangku-panjang-sore itu — pembeli kecil yang bertanya asal barang, yang sudah lama menjadi bagian pasar tanpa pernah menjual apa pun — berdiri, mengangkat tangan seperti saksi yang diminta aturan baru, dan berkata cukup keras untuk didengar semua: "Benar. Saya ada."
+Dan dari baris belakang, seorang pembeli kecil yang selalu hadir di evening-long-bench itu — pembeli kecil yang bertanya asal barang, yang sudah lama menjadi bagian pasar tanpa pernah menjual apa pun — berdiri, mengangkat tangan seperti saksi yang diminta aturan baru, dan berkata cukup keras untuk didengar semua: "Benar. Saya ada."
 
 Kovan. Menyaksikan dirinya dibenarkan oleh orang yang dulu menertawakannya, di institusi yang tidak ia rancang tetapi telah melindunginya.
 
@@ -61,7 +61,7 @@ Dan yang tidak ia katakan kepada siapa pun, karena tidak bisa dijelaskan tanpa c
 
 Kualitasnya tidak jauh berbeda. Harganya jauh lebih murah.
 
-Dan di Hourglass malam itu, di bawah angka pemulihan pekan ini yang naik lagi — panggung dapur, versi pasar yang jujur, dan satu pedagang tua yang membayar dengan malu — Ashvarok menambahkan baris yang membuat Sela membacanya dua kali esok pagi dan akhirnya tersenyum ke arah kakaknya yang pura-pura sibuk:
+Dan di Hourglass malam itu, di bawah angka pemulihan pekan ini yang naik lagi — the Kitchen Stage, versi pasar yang jujur, dan satu pedagang tua yang membayar dengan malu — Ashvarok menambahkan baris yang membuat Sela membacanya dua kali esok pagi dan akhirnya tersenyum ke arah kakaknya yang pura-pura sibuk:
 
 Hari 285. Kota ini menemukan cara melindungi dirinya dari legenda palsu: dengan menjual yang benar lebih mahal. Aku tidak mengajarkan itu. Mereka menemukannya sendiri. Ini bagian favoritku sejauh ini.
 

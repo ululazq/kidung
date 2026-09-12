@@ -3,7 +3,7 @@ title: "Bab 226: Ujian yang Tidak Diumumkan"
 chapter: 226
 ---
 
-Pekan-pekan berikutnya Sekolah Mendengar berjalan dengan ritme yang membuat Sareth berkomentar bahwa sekolah itu "terasa lebih seperti musim daripada institusi" — datang dan pergi tanpa drama, mengubah sesuatu sedikit setiap kali lewat.
+Pekan-pekan berikutnya the Listening School berjalan dengan ritme yang membuat Sareth berkomentar bahwa sekolah itu "terasa lebih seperti musim daripada institusi" — datang dan pergi tanpa drama, mengubah sesuatu sedikit setiap kali lewat.
 
 Pekan empat: latihan name train bersama murid akademi. Ketiga siswa Spire diminta ikut menyanyikan satu gerbong — dan gagal semua dengan cara yang berbeda. Daven kehilangan nada di suku kedua karena terlalu fokus pada teknik. Pellia menyanyikannya sempurna tetapi terlalu pelan, seperti minta izin. Thessa menolak mencoba di depan orang dan akhirnya menyanyikannya sendirian di dapur aula jam sebelas malam — didengar ibu Tamma yang bangun minum air.
 

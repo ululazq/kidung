@@ -7,7 +7,7 @@ Tiga malam Kovan bekerja di meja barak, menerjemahkan angka-angka penggambar pet
 
 Sela datang lebih dulu, membawa teh. "Kau menemukan sesuatu," katanya, bukan pertanyaan.
 
-"Lihat ini." Kovan membentangkan kertas itu. "Angka-angka di buku catatan bukan sekadar hitungan. Arah angin, selisih tarikan, jeda diam — kalau diterjemahkan dengan benar, semuanya berubah menjadi jarak. Dan jarak ini, kalau dihitung dari titik tengah peta tujuh titik, menunjuk ke satu tempat."
+"Lihat ini." Kovan membentangkan kertas itu. "Angka-angka di buku catatan bukan sekadar hitungan. Arah angin, selisih tarikan, jeda diam — kalau diterjemahkan dengan benar, semuanya berubah menjadi jarak. Dan jarak ini, kalau dihitung dari titik tengah the Seven-Point Map, menunjuk ke satu tempat."
 
 Ia menunjuk titik di ujung garis. "Di sini. Tiga hari perjalanan di utara Spire, lewat jalur yang tidak ada di peta resmi. Namun ada satu penanda yang penggambar peta ini tulis berulang kali: batu tegak, sejajar dengan dua batu lain, seperti pintu yang setengah terkubur."
 
@@ -63,9 +63,9 @@ Di fajar berikutnya, dua orang the Wanes berjalan ke utara, membawa peta kecil d
 
 "Kita baru saja mengirim dua orang yang tahu cara membaca garis," kata Ashvarok-Renn. "Itu lebih berharga daripada seratus orang yang hanya tahu cara mengikuti."
 
-Di menara, Mira mencatat di buku anomali: *Dua the Wanes berangkat ke utara. Mereka membawa pertanyaan yang sama dengan yang kita bawa sejak buku anomali dibuka: siapa yang menarik benang itu? Untuk pertama kalinya, pertanyaan itu punya alamat.*
+Di menara, Mira mencatat di the Anomaly Book: *Dua the Wanes berangkat ke utara. Mereka membawa pertanyaan yang sama dengan yang kita bawa sejak the Anomaly Book dibuka: siapa yang menarik benang itu? Untuk pertama kalinya, pertanyaan itu punya alamat.*
 
-Sebelum kembali ke menara, Mira berhenti di ambang barak dan menatap peta tujuh titik yang tergantung di dinding. "Ada satu hal yang belum kuceritakan tentang pertemuanku dengan ruang arsip," katanya. "Perempuan tua itu menyebut garis arsip 'pembaca kedua'. Bukan pembaca pertama. Pembaca pertama, katanya, adalah orang yang menulis dokumen itu sendiri — dan pembaca kedua adalah orang yang membacanya sebelum panitia. Namun malam itu, ketika aku bertanya siapa pembaca pertama surat-surat penggambar peta, ia menjawab: 'Penggambar peta itu sendiri. Ia menulis agar ada yang bisa membacanya nanti.'"
+Sebelum kembali ke menara, Mira berhenti di ambang barak dan menatap the Seven-Point Map yang tergantung di dinding. "Ada satu hal yang belum kuceritakan tentang pertemuanku dengan ruang arsip," katanya. "Perempuan tua itu menyebut garis arsip 'pembaca kedua'. Bukan pembaca pertama. Pembaca pertama, katanya, adalah orang yang menulis dokumen itu sendiri — dan pembaca kedua adalah orang yang membacanya sebelum panitia. Namun malam itu, ketika aku bertanya siapa pembaca pertama surat-surat penggambar peta, ia menjawab: 'Penggambar peta itu sendiri. Ia menulis agar ada yang bisa membacanya nanti.'"
 
 "Jadi penggambar peta ini menulis untuk masa depan," kata Sela pelan. "Bukan untuk the Throne, bukan untuk ruang arsip. Untuk siapa pun yang akan menemukan dokumennya dan memutuskan untuk membacanya dengan benar."
 

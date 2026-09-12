@@ -3,110 +3,196 @@ title: "Bab 31: Arsip yang Mengenaliku"
 chapter: 31
 ---
 
-Malam hari ketiga puluh lima, tubuh pinjaman itu membayar tagihan siangnya dengan cara paling jujur: menolak bergerak. Ashvarok duduk di tepi kasur barak selama sepuluh hitungan sebelum sanggup melepas sepatunya, dan sepuluh hitungan adalah waktu yang cukup lama bagi seorang raja untuk merasakan sesuatu yang mirip malu. Tiga pembacaan klaim telah dipadamkan, sebuah penundaan enam bulan telah dimenangkan, dan kini semua yang tersisa dari kemenangan itu adalah lutut kanan yang enggan diluruskan serta dingin yang duduk di tulang dada seperti penyewa yang tidak punya rencana pindah.
+Malam Hari 35, tubuh Renn menolak bangkit dari tepi kasur.
 
-Aroma bubur jagung mendahului langkah Sela.
+Ashvarok telah melepas satu sepatu. Sepatu kedua masih menempel ketika Sela masuk membawa bubur. Uap tipis naik dari mangkuk; aromanya jagung hangus dan garam. Hangat itu lebih menarik daripada harga diri.
 
-"Tiga porsi," katanya, meletakkan mangkuk kayu di atas peti. "Sesuai janji. Satu untukmu, satu untukku, satu untuk pagimu kalau kamu bangun lebih dulu daripadaku."
+"Tiga porsi," kata Sela. "Satu untuk janji pulang. Dua untuk kebodohan turun lagi setelah runtuhan."
 
-Ashvarok menerima mangkuk itu dengan kedua tangan. Hangatnya menjalar sampai ke pergelangan, dan beberapa saat ia hanya membiarkan jari-jarinya mempelajari lagi arti suhu manusia. "Kau mencatat jam makan juga sekarang?"
+"Aku pulang sebelum tengah hari."
 
-"Sela mencatat segala hal." Adiknya duduk bersila di kasur seberang, papan tulis di pangkuannya. Di kolom kanan atas, huruf besar HOURGLASS masih berdiri tegak, di bawahnya deretan tanggal dan tanda pendek yang naik-turun seperti denyut jantung yang rajin. "Garis kanan masih menempel siku. Kemarin sama, hari ini sama. Aku centang dua kali."
+"Tubuhmu pulang. Sisanya belum tentu."
 
-"Dua kali berarti diam. Itu bagus."
+Ia menaruh mangkuk di peti, lalu berlutut di depan Ashvarok. Garam putih menempel pada sol dan ujung celana. Sela mengambil Hourglass dari bawah kasurnya, mengangkat lengan kanan Ashvarok tanpa meminta izin, dan membandingkan garis di kaca dengan vein-scar di bawah kulit.
 
-"Diam yang baik atau diam yang buruk?"
+"Masih di siku," katanya.
 
-"Diam yang mahal," kata Ashvarok. "Namun dibayar lunas."
+"Di bawah siku."
 
-Sela memperhatikannya makan dengan mata yang menghitung — kebiasaan yang jelas ditirunya dari Assayer Tull — dan Ashvarok membiarkan dirinya dinilai. Kelemahan yang disembunyikan selalu terbaca lebih jauh daripada kelemahan yang dipajang. Maka ia makan pelan, benar-benar pelan, seperti bocah tungku yang lapar biasa, sampai mangkuk kayu itu kosong dan dingin di dadanya surut satu tingkat.
+"Jangan tawar satu ruas denganku."
 
-"Kakak," kata Sela akhirnya sambil mengencangkan tali kaca di rambutnya, "hari ini kamu pulang lebih cepat dari biasanya. Dan ada garam di sepatumu."
+Ashvarok menerima mangkuk dengan kedua tangan. Panasnya menyengat jari yang belum pulih dari Ash besar. "Tidak maju."
 
-"Endapan lorong B. Zona terbatas itu lembap."
+"Dinginmu?"
 
-"Zona terbatas itu ditutup untuk kita."
+"Berkurang."
 
-Ashvarok menaruh sendoknya. Di luar, angin Caldrest menggeser abu dari satu atap ke atap lain, dan bunyinya mengisi ruangan lebih lama dari yang diperlukan. "Ada hal yang harus kupastikan sebelum orang berjubah itu pulang membawa alat yang lebih banyak," katanya. "Hal yang hanya bisa dipastikan dari dekat."
+"Lutut?"
 
-Sela menatapnya lama. Kemudian ia membalik papan tulisnya ke sisi belakang, daftar yang tidak untuk orang lain, dan menulis satu baris tanpa membacakannya. "Kalau kamu turun malam ini, bangunkan aku dulu. Bukan supaya aku ikut. Supaya aku tahu sejak jam berapa harus menghitung."
+"Bisa dipakai."
 
-"Menghitung apa?"
+"Untuk tidur?"
 
-"Tiga belas."
+Ashvarok makan satu sendok. "Untuk turun."
 
-Ashvarok menatap adik angkatnya dan sempat ingin bertanya dari mana bocah sebesar itu belajar membaca wajah orang. Pertanyaan itu tidak perlu diajukan. Jawabannya sudah bertahun-tahun tidur satu barak dengannya.
+Sela duduk di kasur seberang. Papan tulisnya terbuka pada sisi belakang. Empat baris teratas berisi aturan yang tidak pernah meminta persetujuannya: makan, tidur, tidak turun, dokter. Di bawahnya, daftar mimpi berhenti pada angka dua belas.
 
-"Ia tidak akan menyentuhmu," katanya.
+"Apa yang memanggilmu tadi?" tanyanya.
 
-"Bukan aku yang takut." Sela menutup papan tulisnya. "Namun mimpi itu masih berhenti di dua belas. Kalau sampai tiga belas, kamu janji bangunkan aku, bukan sebaliknya."
+Sendok Ashvarok tertahan.
 
----
+"Aku tidak bilang ada yang memanggil."
 
-Ia menepati setengah janji itu pada jam paling sunyi, ketika bahkan regu malam sudah kehabisan topik keluhan. Tangannya menyentuh bahu adiknya sekali, ringan.
+"Wajahmu bilang. Wajahmu kalau takut berbeda dengan wajahmu kalau menemukan sesuatu. Yang ini kedua."
 
-"Aku turun," bisiknya.
+Angin menggeser abu di atap seng. Sela menunggu tanpa memandang Hourglass.
 
-Dari dalam selimut, tanpa membuka mata sepenuhnya, Sela menjawab, "Sudah kuhitung satu."
+"Ada gema di aula," kata Ashvarok. "Gema yang seharusnya sudah mati."
 
-Lorong B menerima tubuh lelah itu dengan kesabaran batu tua. Udara di dalam mencicipi dingin dengan cara yang berbeda dari permukaan: dingin yang basah, bergaram, berbau besi lapuk dan air yang tidak pernah sampai ke mana-mana. Setiap tetesan jauh di kedalaman terdengar seperti dikte yang lambat. Ashvarok berjalan dengan lampu rendah, menghitung langkah bukan karena tersesat — geometri aula ini pernah digambar ulang oleh tangannya sendiri seribu tahun silam — melainkan karena angka membuat tubuh tetap miliknya.
+"Bahaya?"
 
-Pintu tua itu terbuka tanpa suara. Aula delapan puluh kali tiga puluh terbentang di baliknya, datar, putih oleh endapan garam, dan di tengahnya retakan besar menyala redup seperti bara yang dikubur tetapi tidak mau mati.
+"Belum tahu."
 
-Retakan itu menunggunya. Ia bisa merasakan penantian itu sejak ambang pintu — bukan sebagai bunyi, melainkan sebagai arah: seluruh ruangan sedikit condong ke tengah, seperti telinga.
+"Kenapa harus malam ini?"
 
-Ashvarok berhenti sepuluh hasta dari bibir retakan, duduk di atas tumit, dan menurunkan denyut napasnya ke irama orang tidur. Lalu ia melakukan hal yang seharusnya tidak dilakukan siapa pun kepada seam mana pun. Ia berbicara lebih dulu, dengan sengaja, memakai irama yang bukan miliknya — irama pengukuran era Hegemony, ketukan panjang-pendek-pendek yang dulu dipakai juru ukur kerajaan untuk menyapa mesin-mesin catat, irama yang hanya tinggal hidup di kepalanya dan di catatan lapangan seorang penambang tua yang sudah mati.
+"Karena orang berjubah akan kembali dengan alat lebih tajam. Aku perlu tahu apa yang mereka temukan kalau mereka berhasil membaca."
 
-"Satu tarikan napas," kata Ashvarok dalam irama itu, pelan. "Dua tarikan. Beri aku satu pembacaan. Apa kau?"
+"Dan kalau yang dibaca itu kamu?"
 
-Jawaban yang datang bukan jawaban.
+Pertanyaan tepat. Terlalu tepat untuk dibayar dengan kebohongan.
 
-Gema naik dari dasar seam seperti air yang mendapat izin, melewati endapan garam, masuk melalui telapak tangan dan lutut — dan aula itu mulai mengingat dengan keras. Dinding-dindingnya mengembalikan akustik yang bukan akustik ruangan kosong: hembusan ribuan paru-paru yang menahan napas pada saat yang sama, gemerisik delapan ribu seragam yang berdiri lurus, gema seorang juru sumpah membacakan kalimat pengikat dari dais yang sekarang tinggal alas kosong. Suasana aula ketika sumpah dibacakan hadir utuh dalam gelap — termasuk lima suara yang menjawab satu per satu, lima nama yang disebut, lima panglima yang malam itu masih hidup.
+"Aku tidak akan menjawab apa pun di sana."
 
-Kemudian aula itu memutar balik suara yang paling Ashvarok kenal — suaranya sendiri. Suara muda, belum retak oleh seribu tahun, mengucapkan kata terakhir sumpah itu — kata nama — dan pada titik itu rekaman terpotong rapi, persis seperti ingatannya, karena memang di sanalah bakarannya dimulai.
+"Itu bukan janji pulang."
 
-Ashvarok duduk diam di atas garam putih, mendengarkan gema usainya sendiri memudar ke dalam retakan.
+"Aku bangunkan kau sebelum pergi. Kalau hitungan mimpimu mencapai tiga belas, bangunkan aku, bukan sebaliknya."
 
-Bukan penyapa. Bukan kebetulan. Retakan ini tidak mengenalinya dari luar; retakan ini membacanya dari dalam. Ia bukan tamu yang datang ke arsip ini. Ia adalah berkas terbesarnya.
+Sela menulis sesuatu pada papan. "Kalau kamu belum kembali sebelum lonceng pertama, aku panggil Brannoc."
 
----
+"Dia akan menutup lorong B."
 
-Seam Testament. Selama ini ia mengira kata itu berarti saksi — batu yang sekali mendengar dan diam selamanya. Salah. Batu ini tidak pernah berhenti mendengar. Setiap gema yang lewat disimpannya, dilapiskan seperti endapan garam itu sendiri: aula, sumpah, nama, api, kehancuran. Arsip hidup yang tidak bisa dibaca siapa pun karena kuncinya ikut terbakar di dalam berkasnya sendiri.
+"Berarti pulang sebelum ditutup."
 
-Dan arsip inilah yang sedang diperebutkan.
+Ashvarok menghabiskan bubur sampai dasar mangkuk bersih. Ia tidur satu jam dengan sepatu kedua masih terpasang. Ketika barak sunyi dan regu malam berhenti bertukar keluhan, ia menyentuh bahu Sela.
 
-Ashvarok menimbang gagasan itu dingin demi dingin, seperti menimbang logam. Jika rekaman-rekaman ini bisa diekstraksi — dibaca oleh alat zaman ini, diputar untuk telinga yang hidup — maka sejarah resmi lima takhta akan retak dari dalamnya. Dunia yang menyebutnya the World-Ending Flame akan diminta menjelaskan suara muda yang tadi terdengar di aula ini, dan the Liberation akan diminta menjelaskan lima nama yang dulu mereka bakar dari buku. Kebohongan terbesar Karvess tersimpan utuh di bawah Caldrest, lengkap dengan bukti suaranya.
+"Aku turun."
 
-Tambangnya pun jelas. Ossian Vael tidak ingin memiliki tambang. Ossian Vael ingin memiliki arsip ini — potong demi potong, dikirim ke Anthema Spire, dijual sebagai kebenaran kepada orang-orang yang sanggup membayar harga kebenaran.
+Mata anak itu terbuka setengah. "Sudah kuhitung satu."
 
-Dan menambang arsip ini berarti satu hal yang tidak boleh dilakukan: memperlebar segel yang menjadi dirinya. Setiap sayatan pada seam adalah sayatan pada pengikat the Threshold. Setiap pembacaan adalah pintu yang diketuk dari sisi dalam. Ashvarok menyimpan kesimpulan itu ke ruang paling aman di kepalanya, di samping peta-peta lama, lalu bangkit.
+Lorong B menerima lampu kecilnya tanpa gema. Udara basah merayap di balik kerah, membawa bau garam dan besi lapuk. Ashvarok berjalan pelan agar lutut kanan tidak mengunci. Setiap langkah ia hitung. Bukan untuk arah; geometri tempat ini hidup lebih lama dalam kepalanya daripada seluruh kota Caldrest. Angka menjaga tubuh Renn tetap terpisah dari denyut di bawah batu.
 
-Retakan berdenyut sekali — pelan, hati-hati, seperti orang mengetuk pintu tetangga — dan mengulang tawarannya. Satu kata lagi. Nama itu lagi, lebih lembut, lebih dekat, digulung di akustik seribu tahun seperti sesuatu yang sudah lama disiapkan untuk diberikan.
+Pintu tua terbuka pada dorongan kedua.
 
-Nalurinya sempat membentuk jawaban itu — *nama yang dipanggil harus dijawab*. Itulah tata krama istana, itulah hukum Name, itulah cara dunia dahulu bekerja sebelum dunia belajar mengutuknya.
+Aula membentang putih dan rendah. Bekas kerja tim Ossian masih terlihat: tiga lekuk tin thread di tepi retakan, jejak sepatu yang dipotong rapi saat mundur, lingkaran garam beku tempat Ashvarok menyerap panas. Retakan di tengah ruangan menyala redup. Cahayanya menguat saat ia melewati ambang.
 
-Ia memotong refleks itu di tengah tenggorokan.
+Bukan makhluk yang membuka mata. Bukan pula alat yang menyala. Seluruh aula condong kepadanya dalam bentuk tarikan sangat halus, seperti telinga raksasa.
 
-"Tidak," katanya — bukan kepada nama, melainkan kepada retakan, dalam iramanya sendiri yang kini sudah tua dan pecah. "Kau benar mengenaliku, dan aku tahu dari mana kau mengenalku. Kau membaca berkasku. Tetapi ada hal yang belum bisa kaubaca." Ia maju satu langkah, sampai ujung sepatunya menyentuh garis garam yang lebih putih dari garam lain, batas yang ia tentukan sendiri. "Aku tidak akan menjawab nama itu sampai aku tahu siapa lagi yang mendengarnya."
+Ashvarok berhenti sepuluh hasta dari bibir seam. Ia menurunkan lampu, duduk di atas tumit, lalu mengatur napas mengikuti irama pengukuran Hegemony: panjang, pendek, pendek. Ketukan yang dahulu dipakai juru ukur untuk membuka mesin catat kerajaan.
 
-Karena itulah pertanyaannya. Alat-alat tim berjubah merekam radius lima puluh hasta. Penilaian triwulan akan turun dengan instrumen yang lebih tajam. Shift Guard bernama Kovan telah dua kali mendengar kekosongan dan mulai percaya pada kekosongan itu. Sebuah nama yang dijawab di aula ini bukan lagi bisikan antara segel dan kuncinya — sebuah nama yang dijawab adalah data.
+"Satu tarikan," katanya dengan irama lama. "Dua tarikan. Beri satu pembacaan. Apa kau?"
 
-Retakan menunggu. Ashvarok memberinya keheningan sebagai jawaban kedua, lalu melakukan satu-satunya seni yang masih gratis baginya malam ini. Ia memperlambat napasnya, menurunkan denyut tubuh Renn, dan mematahkan sinkron. Sejak hari pertama di tubuh ini, detak jantung bocah itu dan denyut retakan berjalan beriringan seperti dua drum yang dimainkan satu tangan. Sekarang, tarikan demi tarikan, ia menyeret detaknya keluar dari barisan. Gema sinkron itu kendur, bergeser, lalu putus dengan bunyi kecil yang hanya bisa dirasakan di gigi.
+Retakan menjawab bukan dengan kata, melainkan ruangan.
 
-Cahaya merah redup di dalam retakan meredup setinggi lilin yang tertutup tutup.
+Dinding kosong mengembalikan napas delapan ribu orang. Kain seragam bergesek. Logam tombak menyentuh batu. Dais yang retak memantulkan suara juru sumpah dari seribu tahun silam, jernih sampai tarikan napas di antara dua pasal. Lima panglima menjawab satu per satu. Nama mereka, lama terhapus dari kitab masa kini, berdiri utuh dalam gema.
 
-Harganya datang seperti biasanya, tanpa ditunda. Dingin naik dari tulang dada ke rahang. Dunia kehilangan satu lapis warna lagi — nyala lampu rendahnya tampak lebih jauh, suara tetesan air lebih tipis — dan ia tahu the Remainder tinggal sedikit lebih kurus dari enam persen. Di lengan kanan, vein-scar berdenyut hangat-dingin sampai siku, tiga kali, seperti penagih yang mencatat jam kunjungan. Tubuh ini menua bukan dari umur. Tubuh ini menua dari tiap kali ia bersikap jujur kepada geometri dunia.
+Lalu suara keenam memenuhi aula.
 
-Ashvarok mundur dari bibir retakan dengan langkah seragam, tidak sekali pun membelakanginya secara kasar — sopan santun terakhir yang tersisa untuk bekas rumahnya. Di ambang pintu tua ia berhenti, menghitung sekali lagi jarak pintu ke retakan: empat puluh dua langkah penuh, delapan setengah langkah pendek. Angka itu disalinnya ke ingatan, karena angka-angka seperti ini kelak akan dibutuhkan oleh salah satu dari dua pihak yang sedang menghitung, dan ia lebih memilih pihaknya yang memegangnya lebih dulu.
+Suara Ashvarok sendiri—lebih muda, belum dikikis the Long Dusk—mengucapkan akhir sumpah. Rekaman mencapai nama dan terputus tepat ketika the Name-Burning dimulai.
 
-Pintu tua ditutup. Pasak kayu dipasang. Aula delapan puluh kali tiga puluh kembali menjadi sunyi yang menunggu.
+Sunyi jatuh begitu cepat hingga bunyi darah Renn terdengar di telinga.
 
----
+Retakan tidak mengenali orang yang datang malam ini. Ia memutar berkas lama yang cocok dengan irama, tubuh, dan gema yang berdiri di depannya. Ashvarok bukan tamu arsip tersebut. Ia adalah isi terbesarnya.
 
-Lonceng shift pertama berbunyi ketika ia masih empat puluh anak tangga dari permukaan, dan cahaya subuh hari ketiga puluh enam menemukan barak the Quiet Vein dalam keadaan yang tepat: Sela masih tidur, papan tulis di pelukan, dan di sisi belakangnya deret hitungan malam berhenti di angka dua belas.
+Ia mengubah ketukan. Pendek, panjang, pendek—pertanyaan pemisah yang dipakai the Old Reader untuk meminta lapisan berikutnya.
 
-Ashvarok duduk di tepi kasurnya, mengambil mangkuk kayu ketiga yang sudah dingin, dan makan bubur jagung basi itu sampai habis tanpa mengeluh sekali pun — makanan dingin adalah masalah paling kecil yang diselesaikannya minggu ini. Kemudian ia mengambil kapur dari kotak adiknya, membuka kolom Hourglass, dan untuk pertama kalinya menulis satu tanda dengan tangannya sendiri: tanggal baru, garis kanan, posisi sama dengan kemarin.
+Aula memutar rekaman lain.
 
-Persis catatan yang akan dibuat Renn. Tidak lebih, tidak kurang.
+Bukan sumpah. Bunyi pahat pada batu, jauh lebih baru. Dua orang berbisik di tepi retakan. Kata-kata mereka rusak oleh jarak, tetapi angka jadwal terdengar utuh: sembilan hari. Logam ditanam. Sesuatu ditarik. Salah satu suara melarang menyentuh retakan utama.
 
-Di bawah sana, empat puluh dua langkah dan delapan setengah dari pintu tua, sebuah arsip berumur seribu tahun menyimpan satu nama yang belum dijawab, dan mulai malam itu juga belajar menunggu seperti pemiliknya.
+Lapisannya berhenti.
+
+Ashvarok menahan napas. Seam Testament bukan saksi pasif yang menyimpan satu kejadian. Ia terus merekam setiap gema yang melewatinya—sumpah, api, penggalian, percakapan, dan nama. Endapan waktu bertumpuk seperti garam di lantai, menunggu kunci pembacaan yang dunia modern sudah lupa.
+
+Ia membutuhkan batas. Arsip tanpa batas dapat disalahartikan sebagai kecerdasan, dan kecerdasan mengundang pertanyaan yang salah.
+
+Ashvarok menggeser lampu tiga hasta ke kiri, lalu mengulangi irama pemisah dengan kata yang tidak pernah dipakai dalam protokol lama. Retakan tetap memutar bunyi pahat. Ia mengganti kata, mempertahankan ketukan. Hasilnya sama. Ketika ia mempertahankan kata tetapi merusak ketukan terakhir, rekaman berhenti.
+
+"Kau mengikuti alamat, bukan makna," katanya.
+
+Ia mengetuk permukaan garam dua kali. Arsip mengembalikan dua ketukan dengan jeda yang pernah ada, tidak menambahkan apa pun. Ia menyebut pertanyaan tentang Ossian. Retakan memutar lapisan terdekat yang memuat suara pria itu: tawaran transaksi siang tadi, lengkap dengan bunyi peti ditutup. Tidak ada jawaban mengenai niat, asal, atau tujuan. Hanya yang pernah terdengar.
+
+Uji terakhir memakai kebohongan.
+
+"Namaku Renn," katanya dalam irama pembuka.
+
+Arsip tidak membantah. Ia membuka rekaman sumpah yang sama, karena irama meminta lapisan dan kata-kata tidak dinilai. Bukti cukup. Seam tidak mengenali kebenaran. Ia mengurutkan gema menurut alamat lama.
+
+Ashvarok menyimpan empat aturan: irama memilih lapisan; jarak mengubah kejernihan; arsip tidak memahami pertanyaan; arsip tidak membedakan dusta. Aturan itu lebih berguna daripada rasa takjub. Dengan aturan, ia bisa membangun counter-map tanpa mengira batu sebagai sekutu.
+
+"Putar sumber nama," katanya dalam irama panjang-pendek-pendek.
+
+Aula mengembalikan sumpah lagi, bukan informasi baru. Suara mudanya mengucapkan nama. Rekaman putus.
+
+Arsip, bukan pikiran. Ia tidak mengetahui Ashvarok. Ia hanya memiliki Ashvarok.
+
+Kesimpulan itu tidak membuatnya aman. Jika alat Anthema Spire belajar memisahkan lapisan, sejarah resmi the Five Thrones dapat dibelah oleh suara orang mati. Lima nama panglima yang dibakar dari buku masih tersimpan. Sumpah sebelum the Liberation masih utuh. Bahkan pekerjaan panener modern meninggalkan jadwal dan larangan. Kebenaran di bawah Caldrest bukan peninggalan; ia bukti yang terus bertambah.
+
+Ossian tidak menginginkan batu tambang. Ia menginginkan arsip yang bisa dijual potong demi potong.
+
+Setiap pengambilan juga melukai the Threshold. Pahat modern di rekaman kedua tidak menyentuh retakan utama, tetapi pemandu yang mereka pasang mengalihkan aliran segel. Mereka cukup tahu untuk takut pada luka besar, tidak cukup peduli pada luka kecil. Puluhan tahun panen kecil dapat membuka pintu sama pasti dengan satu hantaman.
+
+Retakan berdenyut.
+
+Nama itu datang lagi, lebih lembut, memakai suara Ashvarok muda.
+
+Tubuh Renn hampir menjawab. Bukan karena kehendak, melainkan hukum lama yang tertanam lebih dalam daripada bahasa: nama yang dipanggil dengan benar menuntut jawaban. Rahangnya mengeras. Kata pertama berhenti di belakang gigi.
+
+"Aku tidak menjawab."
+
+Cahaya seam bergetar.
+
+"Kau memiliki rekamanku. Itu bukan berarti kau mengenaliku." Ashvarok berdiri, menahan nyeri lutut. "Aku tidak menjawab sampai tahu telinga siapa yang dapat mendengar."
+
+Alat Guild milik Maera merekam radius lima puluh hasta. Instrumen Anthema Spire akan lebih tajam. Kovan sudah dua kali mendengar kekosongan dan belajar mencurigainya. Satu jawaban di aula dapat berubah menjadi data, lalu nama, lalu rantai.
+
+Retakan memanggil sekali lagi.
+
+Ashvarok mematahkan sinkron.
+
+Ia menurunkan denyut jantung Renn di bawah irama seam, menahan satu ketukan, mempercepat dua, lalu menahan lagi. Walking Key menolak dipisahkan dari gemboknya. Tekanan memenuhi gigi dan tulang rahang. Ia menyeret detak tubuh keluar dari pola sedikit demi sedikit sampai dua irama yang sejak kebangkitannya berjalan bersama akhirnya terlepas.
+
+Bunyi kecil pecah di dalam kepalanya.
+
+Cahaya retakan turun setipis nyala lampu yang ditutup kaca.
+
+Harga menyusul. Dingin naik dari tulang dada ke pangkal lidah. Warna kuning lampu memucat. the Remainder, yang tinggal sekitar enam persen, terkikis sedikit lagi. Bukan Forge. Bukan Ash. Walking Key membakar sisa identitas lama untuk memutus sambungan yang dibangun dari identitas itu sendiri.
+
+Vein-scar di lengan kanan berdenyut sampai siku—tiga kali—tetapi tidak melampauinya. Tubuh lelah tetap tubuh lelah. Tidak ada harga yang menghapus harga sebelumnya.
+
+Ashvarok mundur. Retakan tidak memanggil lagi.
+
+Dari bibir seam ke pintu tua ia menghitung empat puluh dua langkah penuh. Ruang tersisa menuntut delapan setengah langkah pendek. Ia mengulang jarak itu dua kali dalam kepala: empat puluh dua ditambah delapan setengah. Angka operasional. Batas radius. Kelak, perlindungan aula harus dibangun dari ukuran itu.
+
+Ia menutup pintu dan memasang pasak kayu.
+
+Lonceng shift pertama berbunyi saat ia masih menapaki tangga terakhir. Subuh Hari 36 menyusup ke barak sebagai cahaya abu-abu. Sela tidur dengan papan tulis di pelukan. Deret hitungannya berhenti pada dua belas.
+
+Ashvarok duduk, mengambil porsi bubur terakhir yang telah dingin, dan makan tanpa memanaskannya. Sesudahnya ia membuka kolom Hourglass. Dengan kapur Sela, ia menambahkan tanggal baru serta garis kanan pada posisi sama: tepat di bawah siku.
+
+Sela membuka satu mata. "Tiga belas?"
+
+"Tidak."
+
+"Yang memanggil?"
+
+"Arsip."
+
+"Arsip bisa memanggil orang?"
+
+"Kalau menyimpan suara yang tepat."
+
+Sela memandang wajahnya, tahu ada jawaban lain yang tidak akan ia dapat pagi itu. Ia tidak memaksa. "Kamu pulang."
+
+"Renn pulang."
+
+Empat puluh dua langkah dan delapan setengah di bawah mereka, seam Testament menyimpan nama yang belum dijawab. Untuk pertama kalinya Ashvarok memahami bahayanya: arsip itu tidak perlu hidup untuk menunggu.

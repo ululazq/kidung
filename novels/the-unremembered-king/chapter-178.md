@@ -50,7 +50,7 @@ Keesokan paginya, Sela menambahkan satu baris terakhir di halaman tertutup papan
 
 Ashvarok membaca balasan itu, melipat papan, dan menyimpannya di tempatnya — samping ranjang, jarak satu tangan, kebiasaan baru yang sudah menjadi aturan tidak tertulis. Lalu ia keluar menjalani paginya: patroli jatah, laporan kedalaman, neraca Hourglass, semua pekerjaan raja-penjaga-bocah-tungku yang kini berjalan dalam tiga nama sekaligus.
 
-Dan untuk pertama kalinya sejak malam the Long Dusk seribu tahun silam, semua nama itu terasa seperti milik orang yang sama: dirinya.
+Dan untuk pertama kalinya sejak the Long Dusk seribu tahun silam, semua nama itu terasa seperti milik orang yang sama: dirinya.
 
 ---
 

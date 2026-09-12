@@ -5,7 +5,7 @@ chapter: 65
 
 Sekolah itu dimulai karena tidak ada yang menghentikannya, dan menurut Sela itulah cara paling jujur segala sesuatu di barak ini dimulai.
 
-Pagi hari kedelapan puluh dua — hari kedua puluh delapan kalau dihitung dengan cara Sela sendiri, yang tidak masuk akal bagi siapa pun kecuali papan tulisnya dan satu orang dewasa yang tinggal di rumahnya — perawat klinik menyingkirkan dua bangku pasien dari ruang tunggu, meletakkan papan lebar di atas peti obat, dan berkata kepada Sela: "Jam sembilan sampai sebelas, ruangan ini milikmu. Jam sebelas dia jadi ruang tunggu lagi." Lalu dia pergi merawat orang, karena di klinik semua orang sibuk, dan anak-anak datang seperti air mencari lubang — empat dari galeri tujuh, dua dari blok timur, satu sepupu dari galeri sebelas, dan Harn.
+Pagi hari kedelapan puluh dua, perawat klinik menyingkirkan dua bangku pasien dari ruang tunggu, meletakkan papan lebar di atas peti obat, dan berkata kepada Sela: "Jam sembilan sampai sebelas, ruangan ini milikmu. Jam sebelas dia jadi ruang tunggu lagi." Lalu dia pergi merawat orang, karena di klinik semua orang sibuk, dan anak-anak datang seperti air mencari lubang — empat dari galeri tujuh, dua dari blok timur, satu sepupu dari galeri sebelas, dan Harn.
 
 Kenapa Sela? Pertanyaan itu ia tanyakan pada dirinya sendiri tiga kali bulan lalu, dan ketiga kalinya jawabannya sama. Karena dia yang punya waktu pagi, dia yang punya papan tulis, dan dia yang sudah terbiasa menjelaskan hal-hal sulit kepada dirinya sendiri sehingga bisa menjelaskannya kepada siapa saja. Sanggahan kolektif tiga puluh satu keluarga masih duduk di kertas Quota Office seperti batu yang menunggu digulingkan. Sekolah tidak boleh menunggu batu yang sama.
 
@@ -15,7 +15,7 @@ Harn datang lebih pagi dari semua orang, berjalan kaki dari asrama distrik utara
 
 "Ayahmu benar," kata Sela. "Duduk. Buku apa pun yang kamu punya?"
 
-"Aku punya daftar barang gudang. Ditulis tangan Foreman. Hurufnya jelek."
+"Aku punya daftar barang gudang. Ditulis tangan Foreman. Hurufnya jelek dan beberapa angka hampir hilang."
 
 "Bagus. Huruf jelek adalah latihan terbaik. Huruf yang rapi hanya dilatih oleh orang yang tidak bekerja."
 
@@ -47,7 +47,7 @@ Sela mempertimbangkan tiga jawaban selama satu tarikan napas — bohong, alihkan
 
 Dan di situlah, di tengah ruang tunggu klinik yang bau obat, Sela menemukan dirinya harus menjelaskan hal yang tidak pernah ia jelaskan kepada siapa pun secara langsung — "Ingatan itu aneh. Ada hari-hari ketika ingatan orang-orang hilang — bukan lupa biasa, tetapi benar-benar hilang, seperti baris yang terhapus. Kalau nama seseorang hanya ada di kepala satu orang, dan kepala itu sakit, namanya ikut sakit. Kalau namanya ditulis dan dihafal banyak orang, dia punya rumah cadangan."
 
-"Seperti uang yang disimpan dua orang," kata Harn, serius, anak mandor sungguhan.
+"Seperti uang yang disimpan dua orang sekaligus," kata Harn, serius, anak Foreman sungguhan.
 
 "Persis seperti itu."
 
@@ -65,13 +65,13 @@ Jam sebelas masih jauh ketika anak kecil galeri tujuh menguasai ruangan untuk ke
 
 "Kalau ingatan bisa hilang," katanya, "bagaimana cara kita melatihnya supaya kuat? Seperti latihan angka?"
 
-Dan Sela — yang setahun lalu hanya gadis sebelas tahun dengan papan tulis dan daftar rahasia, dan sekarang merasa dirinya semacam guru, jabatan yang tidak pernah ia minta dan ternyata tidak buruk — meletakkan kapurnya.
+Dan Sela — yang dua bulan lalu hanya gadis sebelas tahun dengan papan tulis dan daftar rahasia, dan sekarang merasa dirinya semacam guru, jabatan yang tidak pernah ia minta dan ternyata tidak buruk — meletakkan kapurnya.
 
 "Berdiri. Semua berbaris. Kereta nama."
 
 Aturannya ia karang di tempat, dari potongan-potongan ritual barak yang selama ini dilakukan orang dewasa dengan muka serius — anak-anak berbaris seperti gerbong. Setiap gerbong memanggil nama lengkap gerbong di depannya. Yang dipanggil harus menjawab "ada" dengan keras sebelum boleh memanggil berikutnya. Dan gerbong terakhir memanggil gerbong pertama supaya keretanya menutup menjadi lingkaran. Salah hafal atau jawab pelan, kereta mundur satu stasiun dan mengulang.
 
-Anak-anak menganggapnya permainan. Tentu saja mereka menganggapnya permainan; itulah desainnya, meskipun desainer sendiri tidak pernah menyebut kata desain. Mereka berbaris di antara bangku pasien, tertawa, salah-salah sengaja supaya bisa mundur satu stasiun, dan suara "ada!" mereka naik-turun seperti lagu yang belum punya nada tetap. Harn, yang paling serius dari semua, memanggil nama-nama dengan suara Foreman-nya ayahnya, dan setiap kali seseorang menjawab lambat dia berkata "dicoret satu poin", sistem nilai yang tidak ada dan langsung diterima semua orang.
+Anak-anak menganggapnya permainan. Tentu saja mereka menganggapnya permainan; itulah desainnya, meskipun desainer sendiri tidak pernah menyebut kata desain. Mereka berbaris di antara bangku pasien, tertawa, salah-salah sengaja supaya bisa mundur satu stasiun, dan suara "ada!" mereka naik-turun seperti lagu yang belum punya nada tetap. Harn, yang paling serius dari semua, memanggil nama-nama dengan suara Foreman ayahnya, dan setiap kali seseorang menjawab lambat dia berkata "dicoret satu poin", sistem nilai yang tidak ada dan langsung diterima semua orang.
 
 Dua putaran pertama hanya latihan nama. Pada putaran kedua setengah — putaran yang Sela karang begitu melihat anak-anak mulai bosan — aturan berubah. Panggilan harus dilakukan sambil menatap mata orangnya, bukan ke lantai. "Nama itu tidak masuk lewat telinga saja," katanya, mengulang kalimat ibu Tamma yang pernah didengarnya di antrean santunan, "nama masuk kalau ada mata yang ikut menjaga." Anak-anak menemukan bahwa menatap mata sambil tertawa adalah hal paling sulit di dunia, dan karena itulah mereka melakukannya terus-menerus sampai jadi mudah.
 
@@ -81,7 +81,7 @@ Anak kecil galeri tujuh, yang berdiri sebelum Tovik, berbalik, memanggil namanya
 
 "Ada."
 
-Suaranya pecah di suku kata kedua. Tidak ada anak yang tertawa. Harn, entah bagaimana, mengangkat dagunya sedikit, dan Sela mencatat di kolom belakang papan bahwa name train mulai hari itu punya satu stasiun permanen, dan stasiun itu lebih penting daripada semua stasiun lainnya digabung.
+Suaranya pecah di suku kata kedua. Tidak ada anak yang tertawa. Harn, entah bagaimana, mengangkat dagunya sedikit. Anak-anak di belakangnya menunggu sampai Tovik selesai menjawab, menjaga nama itu tetap utuh di antara mereka tanpa mengubah permainan menjadi upacara. Bahkan anak terkecil mengulang jawabannya pelan, memastikan bunyinya tidak hilang. Sela mencatat di kolom belakang papan bahwa name train mulai hari itu punya satu stasiun permanen, dan stasiun itu lebih penting daripada semua stasiun lainnya digabung.
 
 ---
 

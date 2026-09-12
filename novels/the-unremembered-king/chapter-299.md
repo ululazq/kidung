@@ -3,7 +3,7 @@ title: "Bab 299: Suara yang Memanggil ke Depan"
 chapter: 299
 ---
 
-Pekan pertama buku anomali disebar lewat jaringan Sekolah Mendengar berakhir dengan sembilan desa melapor. Delapan menjawab *ya, tiga detik*. Satu desa di lembah selatan jauh menjawab dengan cara yang tidak diajarkan siapa pun: seorang anak sembilan tahun bernama Widur Kecil — bukan anak Widur si jiwa selatan, hanya kebetulan nama — mengirim lewat nat desanya satu kalimat yang dibacakan Guru Mendengar setempat lalu diteruskan ke Caldrest.
+Pekan pertama the Anomaly Book disebar lewat jaringan the Listening School berakhir dengan sembilan desa melapor. Delapan menjawab *ya, tiga detik*. Satu desa di lembah selatan jauh menjawab dengan cara yang tidak diajarkan siapa pun: seorang anak sembilan tahun bernama Widur Kecil — bukan anak Widur si jiwa selatan, hanya kebetulan nama — mengirim lewat nat desanya satu kalimat yang dibacakan Guru Mendengar setempat lalu diteruskan ke Caldrest.
 
 *Detak utama ada. Tetapi aku dengar yang cepat bicara. Ia bilang ke depan, bukan ke belakang. Ia panggil orang yang belum datang.*
 
@@ -11,7 +11,7 @@ Ashvarok-Renn membaca kalimat itu di serambi barak, di antara Sela dan Kovan. "A
 
 "Anak sering dengar lebih tajam," kata Sela. "Mereka belum terbiasa menganggap dunianya tenang."
 
-Kovan menulis di buku anomali: *Lembah selatan jauh: anak 9 th mendengar detak bayangan "bicara ke depan, memanggil yang belum datang". Metafora atau penglihatan? Catat, jangan tilang gila.*
+Kovan menulis di the Anomaly Book: *Lembah selatan jauh: anak 9 th mendengar detak bayangan "bicara ke depan, memanggil yang belum datang". Metafora atau penglihatan? Catat, jangan tilang gila.*
 
 "Jangan bilang gila," ulang Ashvarok-Renn. "Delapan belas tahun kita ajarkan dunia mendengar tanpa menghakimi. Anak itu mendengar, dan itu cukup."
 
@@ -53,7 +53,7 @@ Dua hari kemudian, laporan kesepuluh datang, kali ini dari rumah penjaga malam l
 
 Kovan menerjemahkan baris itu dengan suara berderak yang kini dianggap wajar. "Jadi penjaga malam sudah tahu sejak purba. Ia bilang tarikan di jeda dulu pelan, sekarang keras. Berarti tangan itu makin mahir."
 
-Ashvarok-Renn menatap buku anomali yang kini tebal tiga halaman. "Kita punya sembilan desa, satu anak, dan penjaga malam. Semuanya bilang hal sama dengan kata berbeda: ada yang menghitung lebih dulu, dan ia makin kuat."
+Ashvarok-Renn menatap the Anomaly Book yang kini tebal tiga halaman. "Kita punya sembilan desa, satu anak, dan penjaga malam. Semuanya bilang hal sama dengan kata berbeda: ada yang menghitung lebih dulu, dan ia makin kuat."
 
 "Lalu apa yang kita lakukan?" tanya Sela.
 
@@ -63,9 +63,9 @@ Ia berdiri, berjalan ke rak, mengambil buku kecilnya. Di halaman kosong yang ter
 
 Lalu ditambahkannya satu baris di bawah, ditujukan ke anak lembah selatan: *Widur Kecil, terima kasih sudah mendengar. Kau tidak gila. Kau yang pertama.*
 
-Sela menyalin rencana itu ke buku arsip besar dunia, di bawah catatan penutup minggu pertama. Di sudut barak, Yang Dulu Sunyi mencatat detak yang merambat ke seluruh nat Karvess — dan untuk pertama kalinya, detak itu tidak sendirian: ada satu getar lebih cepat yang ikut merambat, pelan tetapi pasti, seperti orang yang menghitung uang sebelum dagangan dijual.
+Sela menyalin rencana itu ke buku arsip besar dunia, di bawah catatan penutup minggu pertama. Di sudut barak, the Once-Silent mencatat detak yang merambat ke seluruh nat Karvess — dan untuk pertama kalinya, detak itu tidak sendirian: ada satu getar lebih cepat yang ikut merambat, pelan tetapi pasti, seperti orang yang menghitung uang sebelum dagangan dijual.
 
-Ashvarok-Renn berdiri, berjalan ke rak buku kecilnya, mengambil selembar kain kosong. Ia tidak menulis ke buku anomali kali ini, melainkan ke arah selatan, kepada seorang anak yang tidak ia kenal namanya wajahnya.
+Ashvarok-Renn berdiri, berjalan ke rak buku kecilnya, mengambil selembar kain kosong. Ia tidak menulis ke the Anomaly Book kali ini, melainkan ke arah selatan, kepada seorang anak yang tidak ia kenal namanya wajahnya.
 
 "Kau mau kirim surat ke anak itu?" tanya Sela.
 
@@ -81,13 +81,13 @@ Sela mengangguk, membawa kain itu ke tiang pos. Saat kain diselipkan, tiang berk
 
 "Maka jeda panjang itu menyambung ke nat," kata Kovan. "Bukan hanya tubuh dan batu. Seluruh jaringan menahan napas bersama."
 
-Mereka diam. Di sudut barak, Yang Dulu Sunyi mencatat detak yang kini punya lubang di tengahnya — bukan rusak, hanya berhenti sesaat lalu jalan. TIGA DETIK. SENYAP. TIGA DETIK.
+Mereka diam. Di sudut barak, the Once-Silent mencatat detak yang kini punya lubang di tengahnya — bukan rusak, hanya berhenti sesaat lalu jalan. TIGA DETIK. SENYAP. TIGA DETIK.
 
 "Berarti," kata Ashvarok-Renn pelan, "setiap kali seluruh Karvess menahan napas, tangan di bawah ikut berhenti mengambil. Jeda panjang itu mungkin satu-satunya saat pengikat aman."
 
-Kovan menulis di buku anomali halaman empat, di bawah temuan desa timur: *Hipotesis: jeda panjang = seluruh jaringan berhenti = tangan di bawah ikut berhenti mengambil. Saat dunia menahan napas, pengikat tak tersedot. Maka frekuensi jeda = ukuran aman.*
+Kovan menulis di the Anomaly Book halaman empat, di bawah temuan desa timur: *Hipotesis: jeda panjang = seluruh jaringan berhenti = tangan di bawah ikut berhenti mengambil. Saat dunia menahan napas, pengikat tak tersedot. Maka frekuensi jeda = ukuran aman.*
 
-Sela duduk di serambi dengan tumpukan kain laporan yang sudah disalin ke buku anomali. Ia menghitung desa satu per satu, menyusun ringkasan minggu pertama dengan tulisan rapi yang delapan belas tahun ia ajarkan pada murid-muridnya.
+Sela duduk di serambi dengan tumpukan kain laporan yang sudah disalin ke the Anomaly Book. Ia menghitung desa satu per satu, menyusun ringkasan minggu pertama dengan tulisan rapi yang delapan belas tahun ia ajarkan pada murid-muridnya.
 
 "Sepuluh laporan masuk," kata Sela. "Sembilan ya. Satu anak di selatan. Belum ada yang bilang tidak."
 
@@ -101,10 +101,10 @@ Sela duduk di serambi dengan tumpukan kain laporan yang sudah disalin ke buku an
 
 "Biarkan mereka tahu lewat nat mereka, bukan lewat mulut kita," jawab Ashvarok-Renn. "Kita bukan pengadu. Kita penjaga yang cukup sabar untuk menghitung dulu."
 
-Sela mengangguk, melipat ringkasan itu ke dalam buku arsip, tidak ke surat luar. Di sudut barak, Yang Dulu Sunyi mencatat detak yang kini punya jeda panjang di tengahnya — dan untuk pertama kalinya sejak babak ini dibuka, getar di dalamnya ikut berhenti sejenak saat dunia menahan napas, seolah bahkan bayangan itu tunduk pada hentakan bersama.
+Sela mengangguk, melipat ringkasan itu ke dalam buku arsip, tidak ke surat luar. Di sudut barak, the Once-Silent mencatat detak yang kini punya jeda panjang di tengahnya — dan untuk pertama kalinya sejak babak ini dibuka, getar di dalamnya ikut berhenti sejenak saat dunia menahan napas, seolah bahkan bayangan itu tunduk pada hentakan bersama.
 
-Ashvarok-Renn kembali ke kursi sudut, buku anomali di pangkuan. Ia tidak tidur segera. Ia membaca ulang setiap laporan — delapan ya, satu anak, satu penjaga malam — dan merasa, untuk pertama kalinya dalam seribu tahun, bahwa menjaga bukan pekerjaan satu orang yang membakar namanya. Ia punya seluruh dunia yang kini belajar menghitung bersamanya. Itu tidak menghentikan tarikan di bawah. Tetapi itu berarti, kalau suatu hari ia harus menjawab panggilan itu, ia tidak menjawab sendirian.
+Ashvarok-Renn kembali ke kursi sudut, the Anomaly Book di pangkuan. Ia tidak tidur segera. Ia membaca ulang setiap laporan — delapan ya, satu anak, satu penjaga malam — dan merasa, untuk pertama kalinya dalam seribu tahun, bahwa menjaga bukan pekerjaan satu orang yang membakar namanya. Ia punya seluruh dunia yang kini belajar menghitung bersamanya. Itu tidak menghentikan tarikan di bawah. Tetapi itu berarti, kalau suatu hari ia harus menjawab panggilan itu, ia tidak menjawab sendirian.
 
 Ia ingat lima panglimanya, yang tewas satu per satu menahan retakan pertama saat ia memilih membakar namanya. Dulu ia pikir mereka hilang sia-sia. Sekarang, membaca laporan sembilan desa yang berdetak bersama, ia tahu ada yang mereka tinggalkan: kebiasaan menjaga yang hidup di tangan orang lain. Tarikan di bawah mungkin menggerogoti pengikatnya, tetapi pengikat itu bukan lagi milik satu raja. Ia milik seluruh Karvess yang diajarkan mendengar.
 
-"Mereka tidak mati untuk aku saja," bisik Ashvarok-Renn pada buku anomali. "Mereka mati agar dunia punya cara menjaga diri saat aku tidak ada."
+"Mereka tidak mati untuk aku saja," bisik Ashvarok-Renn pada the Anomaly Book. "Mereka mati agar dunia punya cara menjaga diri saat aku tidak ada."

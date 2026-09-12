@@ -55,11 +55,11 @@ Lalu Barim, yang telinganya paling tua di antara pendengar alami mana pun, menga
 
 Dan itulah yang ada di dalam angin dataran tinggi — bukan gema seam yang kasar, bukan nyanyian nat, tetapi sesuatu yang jauh lebih sederhana dan jauh lebih tua: satu irama tetap, sabar, mengulang dirinya sendiri sejak sebelum ada yang ingat kapan mulainya.
 
-Seam saksi tidak tidur. Seam saksi tidak pernah berhenti berdetak. Dan sekarang, empat orang berdiri di lerengnya dan mendengarnya untuk pertama kalinya dalam seribu tahun.
+the Witness Seam tidak tidur. the Witness Seam tidak pernah berhenti berdetak. Dan sekarang, empat orang berdiri di lerengnya dan mendengarnya untuk pertama kalinya dalam seribu tahun.
 
 Kovan duduk di atas bekalnya, membuka papan hitung, dan mulai mencatat — bukan jarak, bukan makanan, tetapi interval. "Tiga detik," katanya akhirnya. "Iramanya sama dengan anomali lorong tujuh tahun 731 silang. Angka yang sama."
 
-"Angka yang sama," ulang Ashvarok-Renn pelan. "Retakan the Threshold belajar dari detak jantung tubuh ini. Dan seam saksi..." Ia melihat ke arah puncak. "...memiliki guru yang sama."
+"Angka yang sama," ulang Ashvarok-Renn pelan. "Retakan the Threshold belajar dari detak jantung tubuh ini. Dan the Witness Seam..." Ia melihat ke arah puncak. "...memiliki guru yang sama."
 
 ---
 
@@ -81,7 +81,7 @@ Selama tiga detik tidak terjadi apa-apa.
 
 Lalu batu itu berdenyut sekali — kuat, hampir marah, hampir menangis — dan irama yang keluar dari dalam batu dan masuk lewat telapak tangan dan naik ke dada adalah irama yang hanya dimiliki satu malam dalam sejarah dunia:
 
-Irama malam Pembakaran Nama.
+Irama malam the Name-Burning.
 
 Suara kerumunan. Suara api. Suara lima nama yang disebut satu per satu oleh lima orang yang sekarat. Dan di balik semuanya, paling dalam, paling pelan — suara seorang raja yang sedang membakar namanya sendiri, yang berbunyi bukan seperti jeritan, tetapi seperti pintu besar yang ditutup dengan hati-hati agar tidak membangunkan siapa pun.
 

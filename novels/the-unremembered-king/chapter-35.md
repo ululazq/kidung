@@ -3,142 +3,258 @@ title: "Bab 35: Tangan Pertama"
 chapter: 35
 ---
 
-Hari keempat puluh empat, sore, lorong sembilan bawah. Ashvarok berlutut di depan sayatan yang sama yang ditemukannya hampir empat puluh hari silam, dan menghitung.
+Sore Hari 44, di lorong sembilan bawah, Ashvarok menghitung jarak antara tujuh sayatan.
 
-Bukan menghitung sayatannya. Menghitung jarak antar sayatan.
+Bekas panen tertua mengeras oleh garam. Yang terbaru masih menyimpan hangat tipis dalam seam. Ia membaca sisa getar dengan telapak kanan: sembilan hari, sembilan, sembilan, jeda dua belas, lalu sembilan. Sayatan terakhir sudah delapan hari tua.
 
-Tujuh bekas panen tersusun sepanjang seam seperti tulisan pada gulungan yang dibaca dari kanan ke kiri: yang paling tua mengeras oleh endapan garam, yang termuda masih menyimpan semburat hangat samar di dalam urat batunya. Ia meletakkan telapak kanan di atas masing-masing satu per satu, membaca usia lewat sisa getar yang belum padam, dan mencatat angka-angkanya di kepala dengan cara yang dulu ia pakai memeriksa laporan panen orang lain — pekerjaan yang dahulu ia bayari dengan gelar, dan kini ia bayari dengan lutut yang kering kontak.
+Pemanen datang malam ini.
 
-Sembilan hari. Sembilan hari lagi. Sembilan berikutnya. Satu jeda dua belas — musim hujan abu, kemungkinan, atau sakit — lalu sembilan hari lagi, dan yang terakhir: delapan hari, hitungan itu sudah jatuh tempo tiga malam silam.
+Jadwal bukan sekadar disiplin. Jadwal menyamarkan kehadiran sebagai kebiasaan. Penjaga mengingat gangguan; mereka berhenti melihat sesuatu yang berulang pada jam sama.
 
-Ia mengenal irama seperti ini. Era mana pun yang pernah ia kunjungi lewat arsipnya memiliki pekerja jenis ini: orang yang sabar, yang datang dengan jadwal bukan karena disiplin, melainkan karena jadwal adalah cara menyamar. Penjaga tidak bisa mengawasi setiap malam. Maka pencuri memilih malam-malam yang sama, agar kehadirannya menjadi kebiasaan, dan kebiasaan tidak dicatat siapa pun.
+Di gudang tingkat dua, Brannoc mendengarkan hitungannya sambil mengunyah akar pahit.
 
-Pola ini sabar. Pola ini tua. Dan pola ini bilang: malam ini.
+"Kita tidak tahu pintu masuknya," kata Brannoc.
 
----
+"Tidak perlu. Seam ini tujuan akhirnya."
 
-Gudang perkakas tingkat dua, lampu ditutup keranjang seperti biasanya. Brannoc mendengarkan seluruh hitungan itu tanpa memotong sekali pun, lalu mengunyah akar pahitnya sampai habis sebelum berkata apa pun.
+"Kita ambil sebelum dia memotong?"
 
-"Sembilan hari," kata mandor itu akhirnya. "Berarti malam ini dia masuk lewat pintu yang kita tidak tahu."
+"Sesudah satu inti lepas. Aku ingin melihat cara kerja dan alatnya."
 
-"Atau lewat pintu yang katanya bukan pintu." Ashvarok meletakkan lembar rencana di atas peti. "Aku tidak butuh tahu pintunya malam ini. Aku hanya butuh dia merasa aman sampai sayatannya selesai. Kita ambil dia sesudah satu sayatan penuh. Kalau lebih cepat, polanya hilang, dan aku kehilangan satu pelajaran gratis tentang bagaimana mereka bekerja."
+"Dia harus hidup."
 
-"Dia bersenjata?"
+"Hidup, berjalan keluar, tanpa catatan."
 
-"Pisau seam. Mungkin pisau kedua. Orang yang bekerja sembilan hari sekali tidak membawa banyak besi; besi berbunyi."
+Brannoc memandangnya lama. "Besok survei dimulai."
 
-Brannoc mengangguk lambat, lalu meluruskan bahu kanannya yang turun — kebiasaan yang selalu muncul tepat sebelum ia mengambil keputusan yang berat. "Aturan lama tetap jalan. Bawa orang keluar dulu, bertanya belakangan. Dia hidup, atau ini batal."
-
-"Hidup." Ashvarok melipat lembar itu. "Terutama malam ini. Besok pagi tim Assayers' Guild turun perdana. Kalau dia mati di dalam, jenazahnya adalah hadiah untuk alat-alat mereka — semua yang dia sentuh, semua yang menyentuhnya, terbaca segar dan rapi. Kalau dia raib, bekas pergulatannya tetap ada di debu. Dia harus keluar dari tambang ini dengan kakinya sendiri, tampak seperti pekerja yang pulang shift, dan tidak boleh ada satu pun catatan tentang kenapa."
+"Karena itu tidak boleh ada mayat, darah, atau bekas seret. Instrumen Spire akan membaca residu segar sebelum membaca batu."
 
 "Lampu?"
 
-"Tidak ada lampu. Aku tidak akan membakar apa-apa juga — seni apa pun di radius lima puluh hasta dari lorong B, dua malam berturut-turut, terlalu banyak kebetulan untuk satu pekan." Ia berdiri. "Mataku cukup di kegelapan ini. Telingamu lebih penting malam ini. Hitung untukku."
+"Tidak. Forge juga tidak. Satu lapisan kemarin sudah cukup dekat dengan radius kerja mereka."
 
-"Apa yang dihitung?"
+Brannoc meluruskan bahu yang turun. "Kalau dia berteriak?"
 
-"Segala yang berdetak. Tetesan air. Gesekan troli di atas. Napas kita sendiri kalau perlu. Aku mau tahu kapan lorong ini berhenti berdetak seperti biasa."
+Ashvarok menyentuh vein-scar di bawah lengan. "Aku hentikan suara. Kamu hentikan tubuh."
 
-Brannoc menyisihkan tangkai akar yang terakhir ke saku jaket — jaket yang di kantong luarnya masih membawa bungkusan lilin berumur empat puluh hari. "Mulai detik ini," katanya.
+"Dan bayarannya?"
 
----
+"Abu harus kita bawa keluar."
 
-Lorong sembilan bawah tengah malam adalah tempat yang dingin dengan cara yang salah. Dinginnya bukan suhu udara saja. Dingin itu naik dari batu ke telapak kaki, dari telapak kaki ke tulang tumit, dan membawa bau garam tua serta air batuan yang manis-semu, aroma yang membuat mulut terasa basi. Ashvarok duduk menyamping di ceruk bekas penyangga kayu, sepuluh hasta dari seam yang dipanen. Brannoc berbaring di balik tumpukan balast dua hasta di belakangnya, tubuh besar itu dipaksa menjadi bentuk yang rendah.
+Brannoc mengembuskan napas melalui hidung. Ia tidak menyukai jawaban itu, tetapi tidak meminta jawaban yang lebih nyaman.
 
-Tanpa cahaya, dunia menyusut menjadi pendengaran dan kulit. Tetesan air di ujung timur lorong jatuh dengan jeda yang tidak pernah sama dua kali. Di kejauhan atas, sesekali kereta troli menggelinding di tingkat troli, suara yang merambat turun lewat batu sebagai gemuruh pendek dan jujur. Ashvarok membuka sedikit jalur parut di lengannya — bukan menyalurkan apa pun, hanya meminjam kepekaan urat yang sudah rusak itu sebagai kulit kedua — dan membaca lorong lewat getaran udara: arus ventilasi yang lemah, denyut seam yang jauh, dan tidak ada langkah.
+Mereka masuk sebelum pergantian shift. Ashvarok memilih ceruk bekas penyangga sepuluh hasta dari seam. Brannoc berbaring di balik balast. Tanpa lampu, lorong tersusun dari tetesan air, arus ventilasi, denyut batu, dan tekanan jari Brannoc yang menghitung detik.
 
-Brannoc menghitung detik dengan jarinya di atas batu, satu tekanan tiap detik, kebiasaan prajurit menunggu yang tidak mau tidur. Tekanan-tekanan itu menjadi irama. Ashvarok menghitung bersamanya tanpa suara.
+Dua ratus. Empat ratus. Lewat enam ratus, tetesan timur berhenti di antara dua jatuh.
 
-Dua ratus detik. Empat ratus. Pada detik keenam ratus lebih sedikit, tetesan timur berhenti di antara dua jeda, dan hal itu seharusnya tidak terjadi.
+Udara terdorong mundur. Bau keringat dan lilin tiba sebelum langkah. Orang itu berjalan tanpa cahaya, berhenti tiga kali, lalu menaruh logam pada seam.
 
-Kemudian udara lorong bergerak salah. Arus ventilasi yang lemah tadi tertekan mundur sesaat — dorongan kecil, hangat, berbau keringat dan lilin — dan Ashvarok tahu sebelum telinga Brannoc tahu. Ada orang yang baru saja melewati belokan jauh, berjalan dengan irama orang yang hafal jaraknya, tanpa lampu, tanpa besi yang berbunyi selain satu.
+Pisau bekerja dengan ketukan pendek. Jeda antarketukan sama. Pemanen tahu kedalaman tiap sayat dan tidak pernah menguji dua kali. Seratus lebih ketukan kemudian, inti terlepas dengan bunyi lunak.
 
-Langkah itu datang dalam hitungan yang sabar. Tidak buru-buru. Berhenti tiga kali — memeriksa, kemungkinan, cara orang yang bekerja di tempat yang bukan miliknya selalu memeriksa — lalu sampai di depan seam.
+Ashvarok menunggu napas puas. Orang itu meraih seam untuk sayatan kedua.
 
-Ashvarok merasakan lebih daripada melihat: bunyi kain disingkap, bunyi kecil logam bertumpu pada batu, dan napas seseorang yang ditarik panjang dan dikeluarkan pelan, kebiasaan pekerja menenangkan diri sebelum bekerja presisi. Pisau seam itu menyentuh batu.
+Brannoc bergerak.
 
-Sayatan pertama tidak berbunyi keras. Bunyinya pendek, bersih, diulang dengan jeda yang persis sama — seratus dua puluh ketukan, kira Ashvarok, untuk satu sayat selebar dua jempol. Kerja yang mahal. Kerja orang yang dibayar per inti, bukan per hari.
+Balast bergeser sekali. Tangan besarnya mengunci mulut dan leher pemanen. Lelaki itu memutar pinggul, menendang batu, lalu menarik napas untuk berteriak.
 
-Di belakangnya, tekanan jari Brannoc pada batu berhenti.
+Ashvarok membuka jalur Ash setipis benang. Kekosongan kecil menutup gema di tenggorokan. Teriakan keluar sebagai desah mati.
 
-Mereka menunggu sampai sayatan itu tuntas — sampai bunyi inti dipisahkan dari seam, bunyi lembut seperti roti dilepas dari cetakan, dan pria itu mengeluarkan napas puas kecil yang memberitahu mereka bahwa satu unit pekerjaan telah selesai dan akan dimulai unit kedua.
+Abu kelabu jatuh di antara kaki mereka.
 
-Baru kemudian lorong itu runtuh ke atasnya.
+Dingin menggigit urat kanan Ashvarok. Vein-scar berdenyut menuju siku tetapi tidak melewatinya. Harga Ash bukan harga Forge semalam dan bukan the Remainder; suara yang dimakan meninggalkan residu sendiri. Ia menutup aliran segera setelah napas pertama gagal.
 
-Brannoc bergerak seperti air bah: tidak cepat secara teatrikal, tetapi tak bisa ditahan, dua hasta balast dilewati tanpa bunyi yang pantas untuk ukurannya, dan tangan-tangan mantan prajurit itu menemukan leher dan mulut orangnya dalam satu tarikan. Pria itu melawan dengan kepanikan pekerja yang kuat, bukan pejuang — tumitnya menghantam batu, pinggulnya memutar —
+Pemanen berhenti melawan.
 
-— dan ia menarik napas untuk berteriak.
+"Hidup," bisik Brannoc.
 
-Ashvarok sudah bergerak sebelum napas itu penuh. Jalur parut kanannya terbuka, untaian Ash keluar setipis dan sekecil yang bisa ia paksa: bukan angin, bukan api, hanya kekosongan kecil yang diletakkan tepat di tenggorokan teriakan itu, memakan gemanya di tempat lahir sehingga yang lolos dari bibir hanyalah desah mati yang tidak sanggup berkelana ke lorong mana pun. Harga datang seketika. Abu tipis berjatuhan dari kekosongan itu, kelabu, hangat sebentar di udara dingin sebelum mendarat di lantai batu di antara kaki mereka — abu yang mengingat nada suara pria itu, mengingat ketakutannya, dan akan menunggu di sana sampai mata yang tahu datang membaca. Mati rasa menjalar di sepanjang urat parut kanan, dingin dan pasti, satu langkah lagi menuju siku.
+"Kunci kedua tangannya."
 
-Pria itu lemas dalam genggaman Brannoc seperti karung yang talinya dipotong.
+Ashvarok berlutut dan mengumpulkan abu dengan lipatan kain bersih. Ia menyapu sela batu memakai ujung jari, memeriksa dua kali. Satu butir yang tertinggal dapat menyimpan bentuk suara bagi alat yang tepat. Semua abu masuk kantong kain, lalu kantong itu dimasukkan tabung besi kecil.
 
-"Selesai satu sayatan," bisik Brannoc, napasnya pendek tetapi teratur. "Hidup. Masih hidup."
+"Tidak ada sisa?" tanya Brannoc.
 
-"Bagus." Ashvarok menunduk ke arah lantai, menemukan letak abu kelabu itu dengan jemarinya, dan menyapunya perlahan-lahan ke telapak tangannya sendiri dengan gerakan orang mengumpulkan garam yang tumpah. Tidak ada sapu iji di kedalaman ini. Abu itu harus ikut mereka keluar, seluruhnya, dan dibawa ke tempat yang tidak akan pernah dibaca siapa pun.
+"Satu garis di bawah tumitmu."
 
-Di bawah mereka, dengan suara yang tercekat oleh lengan Brannoc, pria itu mulai menawar dengan cara orang tambang: tubuhnya berhenti melawan.
+Brannoc mengangkat kaki. Ashvarok mengambil garis kelabu terakhir.
 
----
+Mereka membawa pemanen menuju cabang barat. Pegangan Brannoc tampak seperti rekan membantu pekerja mabuk bila dilihat dari jauh.
 
-Interogasinya berjalan sambil bergerak, karena berdiri diam di lorong ini terlalu lama adalah kesalahan pertama yang akan dilakukan semua pihak. Brannoc menyeret pria itu ke arah cabang barat dengan pegangan yang nyaman dan kejam sekaligus. Ashvarok berjalan setengah langkah di depan, di kegelapan yang bagi pria itu pasti tampak seperti kedalaman tanpa dasar.
+"Satu aturan," kata Ashvarok. "Jawab pendek. Kamu tetap naik dengan kaki sendiri kalau jawabanmu berguna."
 
-"Satu aturan," kata Ashvarok. "Suaramu seperlunya, dan kamu tetap naik dari tambang ini dengan kakimu sendiri. Dua aturan sebenarnya. Suara seperlunya. Naik dengan kakimu sendiri."
+Lelaki itu mengangguk.
 
-Pria itu mengangguk dengan cepat. Usianya mungkin tiga puluhan. Tangannya kasar milik pekerja sungguhan, dan bahunya punya lekuk orang yang biasa memikul. Bau lilin menguar dari jaketnya.
+"Siapa membayar?"
 
-"Siapa yang mengirimmu."
+"Tidak tahu nama."
 
-Tidak ada jawaban. Brannoc mengencangkan pegangannya sedikit, dan pria itu bergidik.
+Brannoc mengencangkan tangan.
 
-"Aku tidak tahu namanya," kata pria itu cepat. "Itu benar, itu benar semua. Aku kontraktor. Bayaran per inti, inti kecil, disetor ke aku lewat—" napasnya tersengal, "—lewat kurir. Kurir yang sama sejak awal. Wajahnya selalu wajah yang sama, aku kenal kalau lihat, tetapi dia tidak pernah bicara sama sekali. Tidak satu kata. Dia hanya nunjuk jumlah di kertas, aku angkat jari setuju, dia taruh kantong shardmark, selesai."
+"Benar. Kurir tidak bicara. Dia tunjuk angka, aku angkat jari, dia taruh shardmark."
 
-"Kapan terakhir kurirmu muncul."
+"Wajah sama?"
 
-"Empat malam silam. Seperti biasa, di persimpangan atas, saat pergantian shift. Dia tahu jadwal shift lebih dalam dari para Foreman sendiri." Pria itu menelan ludah, dan bunyi telannya terlalu keras di kegelapan. "Dia kasih instruksi tambahan minggu lalu. Kata dia: ambil inti kecil, jaga ukurannya. Jangan sentuh retakan besar, sebesar apa pun godaannya. Dan jangan turun ke aula."
+"Selalu."
 
-Udara lorong seolah turun satu derajat. Ashvarok tidak menggerakkan apa pun di wajahnya, dan berterima kasih kepada kegelapan karena kegelapan itu memegang wajahnya untuknya.
+"Tempat serah?"
 
-Jangan turun ke aula. Seorang kontraktor buta nama diberi larangan tentang ruang delapan puluh kali tiga puluh hasta yang tidak tercantum di peta resmi mana pun — artinya pemberi perintah tahu aula itu ada, tahu letaknya, dan tahu bahwa jalan menuju ke sana melewati lorong-lorong ini. Pelanggan itu tidak sedang menebak-nebak di permukaan. Pelanggan itu tahu lokasi mulut utama.
+"Persimpangan atas, pergantian shift. Tidak setiap panen. Kadang hasil kutaruh dalam slot, bayaran muncul malam berikutnya."
 
-"Kantongmu," kata Ashvarok. "Buka pelan. Serahkan ke temanku."
+"Slot mana?"
 
-Pria itu menggeletakkan barang-barangnya satu per satu ke telapak Brannoc yang diulurkan: inti seam kecil segar yang masih hangat, dua keping tulang seam tua, pisau seam dengan gagang dililit kain, dan sebuah batang pendek yang permukaannya licin oleh pemakaian. Ashvarok meraba-rabanya di kegelapan. Lilin. Putih-abu, lunak di ujung yang sering digenggam, dan di sepanjang badannya, terasa oleh ujung jari: tin thread yang dijahit ke dalam lilin, halus, rapi, satu.
+Pemanen ragu.
 
-"Temanku punya lilin yang sama," kata Ashvarok. "Ditemukan meleleh di dekat sayatanmu yang lama, empat puluh hari silam. Kamu mau membandingkan?"
+"Kalau kami sudah tahu, pertanyaan ini tidak perlu," kata Ashvarok. "Jadi jawabanmu masih bernilai."
 
-Pria itu terdiam, lalu terkekeh — bunyi kecil yang penuh keputusasaan. "Semua lilinku begitu. Datangnya dari kurir, bareng bayaran. Aku hanya pekerja, tuan. Aku potong, aku setor, aku pulang. Yang berjubah-jubah itu bukan urusanku."
+"Slot samping bangunan Quota Office. Celah dokumen malam. Tidak ada tanda."
 
-"Kamu tahu mereka berjubah."
+Brannoc menoleh sedikit. Ashvarok tidak bereaksi. Tempat penyerahan bukan identitas pengendali. Banyak tangan dapat memakai slot yang sama.
 
-"Aku tahu orang-orang yang membayar lilin macam itu tidak memakainya buat menerangi jalan."
+"Kapan kurir terakhir datang?"
 
----
+"Empat malam lalu. Dia beri instruksi tambahan."
 
-Keputusan itu sudah matang di kepala Ashvarok sejak kata aula keluar dari mulut pria itu, dan ia membiarkannya matang sempurna selama sisa jalan ke stasiun troli tingkat enam.
+"Apa?"
 
-Menyerahkan pria ini kepada siapa pun adalah membakar surat sebelum dibaca. Kepada Guild — Maera akan melakukan prosedurnya dengan sempurna, dan prosedur itu akan memberitahu Ossian Vael bahwa mata tambang sedang terbuka malam ini, tepat sebelum survei turun. Kepada Kel Tharrow — lebih buruk lagi. Tharrow akan menjual penemuan itu ke meja yang salah demi membeli kembali posisinya. Pria ini bernilai hanya sebagai jendela, dan jendela tidak dibongkar dari rangkanya. Jendela dibiarkan terpasang.
+"Inti kecil. Ukuran sama. Jangan sentuh retakan besar." Lelaki itu menelan ludah. "Jangan turun ke aula."
 
-"Malam ini kamu bekerja lambat," kata Ashvarok ketika mereka berhenti di tepi lubang stasiun troli, di tempat kegelapan mulai tersedot oleh secercah lampu jauh dari atas. "Sayatan pertamamu gagal, intinya pecah, kamu butuh waktu. Kamu turun lagi sembilan hari dari sekarang, jadwalmu biasa, dan kamu lupa wajah kami berdua selamanya. Mengerti?"
+Lorong terasa lebih dingin.
 
-"Mengerti. Terima kasih, tuan, terima—"
+Aula tidak tercantum pada peta resmi. Pemberi perintah mengetahui ruang itu, atau setidaknya mengetahui larangan yang diwariskan orang lain. Itu belum membuktikan siapa pun pernah masuk.
 
-"Satu lagi. Pesan gratis untuk kurirmu, kalau kamu berhasil menyampaikan kabar kepadanya seperti kamu selalu menyampaikan hasil panenmu — lewat cara yang tidak kamu sadari kamu punya." Ashvarok mendekatkan mulutnya ke telinga pria itu, dan memilih setiap kata dengan timbangan. "Survei Guild mundur satu hari. Turun perdana bukan besok pagi. Besok lusa. Katakan dengan caramu, agar sampai ke telinga yang membayar."
+"Kantongmu," kata Ashvarok. "Serahkan satu per satu."
 
-"Itu benar?" pria itu bertanya, pelan.
+Brannoc menerima inti baru, dua keping seam lama, pisau pendek, uang, dan batang lilin putih-abu. Tin thread dijahit sepanjang badan lilin, halus dan rapi.
 
-"Kalau bukan benar, apa ruginya mereka percaya?"
+Ashvarok mengeluarkan lilin lama dari bungkus Brannoc. Pola jahitan sama: satu benang, putaran sempit dekat dasar, simpul ditanam dalam lilin.
 
-Troli pengangkut kosong datang dengan derit yang bisa didengar dari tiga lorong. Brannoc menyorongkan pria itu ke dalam bak troli seperti memuat karung beras yang sah — pekerja shift malam yang pulang, tidak lebih — dan tali penarik di atas mulai berdenyut. Pria itu tidak menoleh sekali pun. Orang yang diberi izin hidup jarang menoleh.
+"Dari kurir?"
 
-"Kurirnya akan bergerak," kata Brannoc ketika troli itu melayang naik meninggalkan jangkauan suara. "Besok pagi, kalau pesanmu sampai, dia harus laporkan pergeseran jadwal itu ke atas. Siapa pun yang bergerak besok untuk mengejar tanggal bohong itu — dia salah satunya."
+"Bersama bayaran. Selalu satu."
 
-"Itu maksudnya." Ashvarok membuka telapak kanannya di kegelapan. Abu kelabu masih menempel di garis-garis telapaknya, hangat lebih lambat daripada kulitnya sendiri, dan ia menutup jari-jarinya di atasnya perlahan. "Tanggal bohong adalah umpan paling murah yang pernah kutabur. Sekarang kita tunggu siapa yang lapar."
+"Untuk apa?"
 
----
+"Katanya nyalanya tidak goyah di kedalaman."
 
-Subuh hari keempat puluh lima turun ke Caldrest sebagai warna kelabu yang dingin di mulut lubang tambang, dan lonceng shift pertama berbunyi tepat seperti setiap subuh lain — dunia permukaan tidak tahu apa-apa, dan itulah rancangannya. Di stasiun angkut, regu pagi menerima troli-troli pertama: bijih, balast, satu troli kosong berisi seorang pekerja yang mengaku tertinggal shift dan membayar dendamnya dengan uang pribadi, cerita yang terlalu membosankan untuk diingat siapa pun sampai malam.
+"Pernah menerima dua?"
 
-Ashvarok menyaksikan dari celah gudang pengangkutan, di kegelapan yang belum sepenuhnya kalah oleh subuh, dan tidak dihitung oleh siapa pun. Jauh di bawah, lorong B menunggu tim Assayers' Guild yang akan turun beberapa jam lagi untuk membaca titik-titik atas yang memang boleh jujur. Di saku jaket Brannoc, dua lilin bertanda tin thread kini tidur berdampingan — satu tua berumur empat puluh hari, satu baru dipanen dari kantong seorang tukang potong yang hidup karena berguna.
+"Tidak."
 
-Abu di telapak tangannya belum sempat disapu ke mana pun. Ia menggenggamnya lebih erat, merasakan sisa hangatnya padam satu per satu, dan mulai menghitung jam sampai kurir yang tak pernah bicara dipaksa bergerak oleh sebuah tanggal yang tidak pernah ada.
+"Pernah membeli sendiri?"
+
+"Tidak ada kios menjual macam itu."
+
+Ashvarok membungkus lilin baru terpisah. Bukti lama dan baru tidak boleh saling mengikis. Inti segar masuk kantong lain. Pisau dikembalikan kepada pemanen dalam keadaan terbungkus; pekerja tanpa alat akan tampak dirampok.
+
+Ia mengukur lilin dengan ruas jari. Panjangnya sama, tetapi lilin baru lebih ringan sedikit. Tin thread bukan sekadar penguat sumbu; benang itu berhenti satu jari dari ujung bakar, menjaga bagian bawah tetap utuh setelah nyala habis. Seseorang ingin sisa lilin kembali bersama hasil, atau ingin memastikan tanda pembuat tidak ikut terbakar.
+
+"Kurir mengambil batang bekas?" tanya Ashvarok.
+
+"Kadang. Kalau tinggal pendek, kutaruh bersama inti."
+
+"Kalau hilang?"
+
+"Potong bayaran."
+
+Jadi lilin juga penghitung. Satu batang per turun, satu sisa per setoran. Pemberi kerja dapat memeriksa jumlah perjalanan tanpa hadir di tambang. Ashvarok memutar lilin lama. Dasarnya pernah dipotong rapi, mungkin untuk mengambil simpul thread sebagai bukti tugas selesai.
+
+"Kamu pernah membuka benangnya?"
+
+Pemanen menggeleng cepat. "Aku dibayar untuk batu."
+
+Itu mungkin benar. Pekerja yang memahami satu bagian jaringan lebih murah dan lebih aman daripada agen. Orang ini tangan pertama—menyentuh seam—tetapi bukan kepala, mata, atau bahkan mulut rantai.
+
+"Kenapa jadwal sembilan hari?" tanya Brannoc.
+
+"Bukan pilihanku," jawab lelaki itu. "Kertas pertama tulis sembilan. Kalau hasil kurang, bayaran kurang. Kalau telat, lilin tidak datang."
+
+"Siapa mengajar cara masuk?"
+
+"Peta arang di balik kertas. Kubakar setelah hafal."
+
+"Pintu?"
+
+"Saluran buangan dekat pompa enam. Kisi bawah longgar."
+
+Ashvarok mencatat dalam ingatan, bukan kertas. Jalur itu bisa diperiksa setelah survei permukaan, bukan sekarang. Perubahan pada kisi malam ini akan memberi tahu pengawas jaringan bahwa pemanen tertangkap.
+
+Di stasiun troli tingkat enam, cahaya dari atas menjadi garis pucat. Mereka berhenti sebelum wajah dapat dibaca jelas.
+
+Ashvarok memutuskan menggunakan pemanen, bukan menyerahkannya. Guild akan mencatat, Ossian akan menghubungkan, dan kanal lawan akan tutup. Kel Tharrow akan melihat nilai administratif lalu mengubah temuan menjadi alat tawar. Jendela berguna selama tetap pada dindingnya.
+
+"Kamu turun lagi kapan?" tanya Ashvarok.
+
+"Sembilan hari."
+
+"Tidak. Malam ini intimu pecah. Kamu pulang kosong dan menunggu kurir."
+
+"Aku membawa inti."
+
+"Tidak lagi." Brannoc menunjukkan kantong bukti.
+
+Wajah pemanen menegang.
+
+"Kamu akan hidup," kata Ashvarok. "Sebagai gantinya, sampaikan kabar: survei Guild mundur satu hari. Bukan Hari 45. Hari 46."
+
+"Itu benar?"
+
+"Kerjamu menyampaikan, bukan menilai."
+
+"Kalau mereka tahu bohong?"
+
+"Mereka akan mengira kamu salah dengar. Kalau percaya, seseorang harus mengubah jadwal pengambilan. Gerak itu yang kami tunggu."
+
+Pemanen memandang Brannoc, lalu kegelapan di belakang mereka. "Aku bilang kepada kurir kalau dia datang."
+
+"Jangan mencari. Gunakan kebiasaan yang sama."
+
+"Dan kalau tidak datang?"
+
+"Masukkan pesan ke slot biasa. Tidak lebih."
+
+Troli kosong mendekat. Brannoc melepas ikatan tangan, merapikan kerah pemanen, lalu menyelipkan dua shardmark ke sakunya.
+
+"Untuk cerita apa?" tanya lelaki itu.
+
+"Kamu tertinggal shift dan membayar denda angkut pribadi," kata Brannoc. "Cerita murah perlu uang kecil."
+
+Pemanen naik ke bak. Sebelum tali menariknya, ia berkata, "Aku tidak tahu siapa mereka."
+
+Ashvarok menjawab, "Karena itu kamu masih hidup."
+
+Troli naik.
+
+Brannoc menunggu bunyi rodanya hilang. "Kalau dia lari?"
+
+"Jalur panen tertutup baginya. Kalau kembali, kita dapat kurir. Kalau lari, lawan kehilangan tangan."
+
+"Dan tanggal bohong?"
+
+"Memaksa orang memilih berdasarkan informasi yang hanya mereka terima dari kanal ini."
+
+Mereka membersihkan jalur pulang. Balast dikembalikan. Bekas tumit diratakan mengikuti jejak troli. Ashvarok memeriksa lokasi tangkapan sekali lagi dan tidak menemukan abu.
+
+Di tempat sayatan, inti yang hilang meninggalkan rongga segar. Mereka tidak menutupnya. Menambal seam beberapa jam sebelum survei akan menjadi tanda lebih jelas daripada panen lama. Ashvarok menggosok tepi rongga dengan debu garam dari sayatan sebelumnya, cukup untuk menyamakan kilap tanpa mengubah bentuk. Bila alat membaca lokasi ini kelak, ia akan menemukan pola panen yang memang sudah berlangsung berminggu-minggu.
+
+Brannoc menemukan satu serat kain pada balast. "Punya dia?"
+
+"Warna jaketnya."
+
+Serat masuk tabung bersama abu, tidak dibakar. Api meninggalkan suhu dan jelaga; membawa bukti keluar lebih bersih. Mereka juga mengambil tetes lilin baru dekat seam, membungkusnya terpisah dari batang utuh. Tetes itu dapat menghubungkan bahan penerangan ke lokasi tanpa bergantung pada pengakuan pemanen.
+
+"Pisau kita kembalikan, inti kita ambil, lilin kita ambil," kata Brannoc. "Dia menjelaskan hasil kosong bagaimana?"
+
+"Inti pecah dan jatuh ke saluran. Lilinnya habis ketika mencari. Cerita buruk, tetapi rasa takut membuat cerita buruk wajar."
+
+"Kalau kurir menghukumnya?"
+
+"Kemungkinan itu ada." Ashvarok tidak menghaluskannya. "Melepas dia bukan menyelamatkannya. Kita memilih risiko yang membuat jaringan tetap bergerak."
+
+Brannoc diam cukup lama untuk menunjukkan ia mendengar perbedaannya. Lalu ia meratakan debu dengan sisi sepatu, meniru arah jejak kerja biasa, bukan jejak sapuan.
+
+Subuh Hari 45, mulut tambang menjadi kelabu. Regu pagi menerima troli bijih, balast, dan satu pekerja yang mengaku tertinggal shift. Ceritanya masuk buku denda, tidak buku keamanan.
+
+Di gudang, Brannoc menyimpan dua lilin tin thread dalam bungkusan terpisah. Inti segar dikunci bersama abu di kotak besi. Ashvarok menulis hanya tiga hal pada counter-map: jalur pompa enam, slot samping Quota Office, tanggal bohong Hari 46.
+
+Tim survei resmi akan turun beberapa jam lagi ke titik atas yang dibiarkan jujur. Aula belum disentuh lagi. Counter-map belum selesai.
+
+Di permukaan, seorang pemanen hidup membawa kabar palsu menuju tangan yang belum mereka lihat. Ashvarok menutup kotak abu ketika hangat terakhirnya padam, lalu mulai menghitung siapa yang bergerak sebelum malam.

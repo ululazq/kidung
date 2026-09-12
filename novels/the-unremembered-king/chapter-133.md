@@ -11,7 +11,7 @@ Malamnya gudang perkakas tingkat dua ditutup dari dalam, lampu satu, dan meja di
 
 "Mulai dari yang paling sederhana," kata Ashvarok, meletakkan salinan pertama di tengah meja. "Permintaan salinan dokumen Caldrest yang dikirim ke Maera. Kopnya, stempelnya, nomor registrasinya. Kita sudah membaca isinya sampai hafal. Malam ini kita membaca tubuhnya."
 
-Maera menarik salinan itu ke arahnya dan mengeluarkan kaca pembesar kecil dari kotak timbung mini, kebiasaan tangannya yang tidak pernah mati. "Tubuhnya sudah kutandai tiga hal sejak hari pertama. Nomor registrasinya memakai sistem dua bagian, huruf lalu angka, padahal standar biro sekarang angka tunggal. Stempelnya dicap miring lima derajat, bukan tegak, dan lilin segelnya ditekan dari sudut, bukan dari atas. Dan kop suratnya kosong satu kolom." Ia mengetuk bagian bawah kop tanpa menyentuh kertasnya dengan jari. "Kolom tanggal pendirian instansi. Semua surat Koordinasi mengisi kolom itu. Surat ini dibiarkan kosong, dan tidak satu pegawai pun yang berani mencoretnya karena dianggap rahasia."
+Maera menarik salinan itu ke arahnya dan mengeluarkan kaca pembesar kecil dari mini weighing box, kebiasaan tangannya yang tidak pernah mati. "Tubuhnya sudah kutandai tiga hal sejak hari pertama. Nomor registrasinya memakai sistem dua bagian, huruf lalu angka, padahal standar biro sekarang angka tunggal. Stempelnya dicap miring lima derajat, bukan tegak, dan lilin segelnya ditekan dari sudut, bukan dari atas. Dan kop suratnya kosong satu kolom." Ia mengetuk bagian bawah kop tanpa menyentuh kertasnya dengan jari. "Kolom tanggal pendirian instansi. Semua surat Koordinasi mengisi kolom itu. Surat ini dibiarkan kosong, dan tidak satu pegawai pun yang berani mencoretnya karena dianggap rahasia."
 
 "Surat yang tidak mengaku umurnya," kata Brannoc dari pintu, tanpa berhenti mengasah.
 
@@ -19,9 +19,9 @@ Maera menarik salinan itu ke arahnya dan mengeluarkan kaca pembesar kecil dari k
 
 Maera membaca, dan Ashvarok menonton wajahnya melakukan perjalanan yang sama dengan wajah orang yang menemukan bahwa lantai yang selama ini diinjak ternyata punya ruang di bawahnya. Mata penilai itu berhenti, mundur, membaca lagi, lalu diam lebih lama dari yang dibutuhkan untuk membaca dua kali.
 
-"Sistem dua bagian, huruf lalu angka," katanya akhirnya, suaranya turun setengah nada. "Ini format registrasi yang lebih tua dari Guild sendiri. Buku ini menulisnya sebagai warisan praktik, dipakai lembaga-lembaga sebelum penyeragaman, dan catatan tepinya bilang sumbernya tidak direkam." Ia mengangkat wajah. "Surat permintaan Pembaca Tua memakai format arsip yang lebih tua dari the Resonance yang sekarang. Lebih tua dari tangga Murmur sampai Requiem yang kita pakai untuk mengukur segala-galanya."
+"Sistem dua bagian, huruf lalu angka," katanya akhirnya, suaranya turun setengah nada. "Ini format registrasi yang lebih tua dari Guild sendiri. Buku ini menulisnya sebagai warisan praktik, dipakai lembaga-lembaga sebelum penyeragaman, dan catatan tepinya bilang sumbernya tidak direkam." Ia mengangkat wajah. "Surat permintaan the Old Reader memakai format arsip yang lebih tua dari the Resonance yang sekarang. Lebih tua dari tangga Murmur sampai Requiem yang kita pakai untuk mengukur segala-galanya."
 
-"Bukan lebih tua sedikit," kata Ashvarok. "Lebih tua secara prinsip. Tangga Resonance adalah bahasa zaman ini untuk gema. Format registrasi adalah cara sebuah lembaga mencatat ingatannya sendiri. Surat itu lahir dari lembaga yang sudah punya cara mencatat ingatan sebelum bahasa gema zaman ini selesai dibuat." Ia menarik salinan kedua dari tumpukan, salinan daftar isi arsip Pembaca Tua yang menjadi lampiran balasan resmi komisi, dan meletakkannya di samping manual. "Dan lihat nama koleksinya. Bukan nama orang, bukan nama biro. Satu frasa yang diulang di tiga entri berbeda. Rekaman kematian api."
+"Bukan lebih tua sedikit," kata Ashvarok. "Lebih tua secara prinsip. Tangga Resonance adalah bahasa zaman ini untuk gema. Format registrasi adalah cara sebuah lembaga mencatat ingatannya sendiri. Surat itu lahir dari lembaga yang sudah punya cara mencatat ingatan sebelum bahasa gema zaman ini selesai dibuat." Ia menarik salinan kedua dari tumpukan, salinan daftar isi arsip the Old Reader yang menjadi lampiran balasan resmi komisi, dan meletakkannya di samping manual. "Dan lihat nama koleksinya. Bukan nama orang, bukan nama biro. Satu frasa yang diulang di tiga entri berbeda. Rekaman kematian api."
 
 Ruangan itu sunyi sebentar, dan sunyinya jenis yang bekerja, bukan jenis yang kosong.
 
@@ -57,7 +57,7 @@ Sebelum Maera pulang, ia berdiri lama di ambang pintu gudang, memandangi lampu-l
 
 Ia tidak memberi tahu Maera kenapa kalimat terakhir itu ia pilih, dan Maera tidak bertanya, karena penilai yang baik tahu kapan sebuah kalimat ditujukan kepada seseorang yang bukan dia.
 
-Pintu gudang dikunci kembali setelah tamunya pergi, tetapi Ashvarok tidak langsung tidur. Ia mengeluarkan buku catatan Pak Dekan dari peti besinya, buku tua yang disimpan Brannoc setahun dan kini menjadi milik bersama tanpa sertifikat, lalu meletakkannya di bawah lampu di samping salinan surat Pembaca Tua.
+Pintu gudang dikunci kembali setelah tamunya pergi, tetapi Ashvarok tidak langsung tidur. Ia mengeluarkan buku catatan Pak Dekan dari peti besinya, buku tua yang disimpan Brannoc setahun dan kini menjadi milik bersama tanpa sertifikat, lalu meletakkannya di bawah lampu di samping salinan surat the Old Reader.
 
 Ia membandingkan dua tulisan tangan itu sampai jauh malam. Nomor registrasi dua bagian pada kop Spire. Deret huruf asing dengan dua centang di margin Pak Dekan. Cara menandai yang berbeda tujuan tetapi satu kebiasaan bentuk — yaitu mencatat hal yang tidak boleh dibaca orang lain dengan sistem yang tidak diajarkan buku mana pun. Dua penjaga tradisi yang terpisah seribu hari jalan, dan tangannya menulis dengan irama yang sama.
 

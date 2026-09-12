@@ -9,7 +9,7 @@ Ashvarok menerima kabar itu dari arah yang tidak bisa dihindari. Ondar, di antre
 
 Dua puluh tujuh hari. Permohonan itu diucapkan pada subuh yang dingin bulan lalu, dengan perkiraan jawaban sembilan hari. Perkiraan itu meleset tiga kali lipat, dan Ashvarok tidak percaya satu pun birokrasi sebesar Spire bisa lambat selama itu tanpa alasan. Jawaban yang datang terlambat bukan jawaban yang sedang ditulis; itu jawaban yang sedang ditawar.
 
-Siang harinya, papan pengumuman Quota Office menambahkan satu lembar baru di bawah susunan karantina. Pemeriksaan lanjutan segmen kedalaman akan dilakukan oleh "pengawas yang ditetapkan pusat", dengan hak akses penuh atas seluruh segmen yang terbuka menurut lisensi. Kalimat itu tidak menyebut nama. Tidak ada satu orang pun di antrean santunan yang membutuhkan nama. Mereka yang pernah melihat prosesi hari-H masih ingat orang tua yang berlutut menyentuh ambang aula dan berkata empat kata tentang batu itu.
+Siang harinya, papan pengumuman Quota Office menambahkan satu lembar baru di bawah susunan karantina. Pemeriksaan lanjutan segmen kedalaman akan dilakukan oleh "Overseer yang ditetapkan pusat", dengan hak akses penuh atas seluruh segmen yang terbuka menurut lisensi. Kalimat itu tidak menyebut nama. Tidak ada satu orang pun di antrean santunan yang membutuhkan nama. Mereka yang pernah melihat prosesi hari-H masih ingat orang tua yang berlutut menyentuh ambang aula dan berkata empat kata tentang batu itu.
 
 Sore harinya Ashvarok sengaja memanjangkan jalan pulangnya melewati distrik tengah, membawa dua pahat tumpul yang memang harus dibawa ke penajaman di sana, sehingga kehadirannya punya alasan yang bisa dijawab kepada siapa pun. Alasan itu tidak terpakai. Tidak ada yang menanyanya.
 
@@ -23,7 +23,7 @@ Di depan penginapan distrik atas berdiri sebuah troli pos yang belum dibongkar, 
 
 Ashvarok lewat di seberang jalan dengan langkah bocah tambang yang tidak ingin terlibat, dan tidak satu kali menoleh. Namun ia mendengar semuanya, dan satu kalimat itu ia bawa pulang bersama pahat-pahat tumpulnya. Orang yang membaca kayu untuk tahu isi peti akan membaca kota ini sama mudahnya, dan malam ini secara resmi dia punya hak untuk tinggal selama yang dia mau.
 
-Malamnya, di belakang gudang pengangkutan, Maera Tull menunggu di tempat yang sudah setahun menjadi meja rapat mereka — dinding batu setinggi pinggang, udara yang bau abu dingin, dan jarak pandang cukup untuk melihat siapa pun yang datang dari tiga arah.
+Malamnya, di belakang gudang pengangkutan, Maera Tull menunggu di tempat yang selama dua bulan menjadi meja rapat mereka — dinding batu setinggi pinggang, udara yang bau abu dingin, dan jarak pandang cukup untuk melihat siapa pun yang datang dari tiga arah.
 
 "Aku dipanggil sebagai saksi prosedur pembacaan jawaban," katanya pembuka, karena Maera tidak pernah membuang waktu dengan salam ketika ada angka yang harus disampaikan. "Aku saksi di semua dokumen karantina, jadi dokumen ini ikut daftar itu. Kamu punya waktu sebentar saja sebelum aku harus pulang."
 
@@ -33,11 +33,11 @@ Malamnya, di belakang gudang pengangkutan, Maera Tull menunggu di tempat yang su
 
 "Panen resmi," Ashvarok mengulang dua kata itu perlahan, merasakan bobotnya. "Berarti dia wajib memanen. Dengan kertas. Setiap sayatan masuk pembukuan."
 
-"Setiap sayatan masuk pembukuan," sahut Maera. "Pasal kedua: klasifikasi segmen berada di bawah supervisi administratif Koordinasi Artefak Regional. Semua laporan pengawas lapangan naik langsung ke meja biro itu, dan biro itu berhak membuka ulang klasifikasi kapan pun ia mau."
+"Setiap sayatan masuk pembukuan," sahut Maera. "Pasal kedua: klasifikasi segmen berada di bawah supervisi administratif Regional Artifact Coordination. Semua laporan Overseer lapangan naik langsung ke meja biro itu, dan biro itu berhak membuka ulang klasifikasi kapan pun ia mau."
 
 "Meja biro itu mejanya sendiri."
 
-"Mejanya sendiri. Itu bagian harganya. Spire memberi dia senjatanya, lalu menempelkan tanda tangannya sendiri pada rantai senjata itu. Pasal ketiga:" Maera berhenti sebentar, dan Ashvarok belajar setahun ini bahwa jeda Maera selalu lebih penting daripada kalimatnya. "Pengikat senior yang telah menyelesaikan penilaian hari-H ditetapkan sebagai pengawas tetap Caldrest. Kamar tetap disediakan di distrik tengah. Hak akses penuh. Dan jadwal pengikatan ulang tidak ditetapkan oleh surat ini — jadwal itu akan ditetapkan berdasarkan laporan pengawas."
+"Mejanya sendiri. Itu bagian harganya. Spire memberi dia senjatanya, lalu menempelkan tanda tangannya sendiri pada rantai senjata itu. Pasal ketiga:" Maera berhenti sebentar, dan Ashvarok belajar selama dua bulan ini bahwa jeda Maera selalu lebih penting daripada kalimatnya. "Pengikat senior yang telah menyelesaikan penilaian hari-H ditetapkan sebagai Overseer tetap Caldrest. Kamar tetap disediakan di distrik tengah. Hak akses penuh. Dan jadwal pengikatan ulang tidak ditetapkan oleh surat ini — jadwal itu akan ditetapkan berdasarkan laporannya."
 
 Angin malam membawa abu halus melintasi dinding rendah itu. Ashvarok membiarkan keheningan bekerja dulu, karena ada tiga hal yang sedang ia susun dan ketiganya perlu tempat.
 
@@ -51,7 +51,7 @@ Maera memandang ke arah lampu-lampu distrik tengah sebelum menjawab, dan pertany
 
 "Maka dia akan memanen secepat mungkin," kata Ashvarok. "Secara resmi. Setiap potongannya dicatat, jadi setiap potongannya harus nyata. Surat ini membuatnya jujur dengan paksa, dan kejujuran paksa itu berarti jadwal."
 
-"Dan jadwalnya ada di tangan orang tua itu." Maera menoleh kepadanya. Di mata penilai itu bekerja hitungan yang tidak akan pernah ia tulis di kertas mana pun. "Pengawas tetap. Dia bukan lagi tamu yang pulang. Dia tetangga."
+"Dan jadwalnya ada di tangan orang tua itu." Maera menoleh kepadanya. Di mata Assayer itu bekerja hitungan yang tidak akan pernah ia tulis di kertas mana pun. "Overseer tetap. Dia bukan lagi tamu yang pulang. Dia tetangga."
 
 "Itu bagian yang paling mahal harganya," kata Ashvarok, "dan bukan untuk dia."
 
@@ -63,13 +63,13 @@ Maera mengangguk pelan, lalu menambahkan satu hal lagi, dengan suara yang lebih 
 
 "Karena orang yang kalah tawar menyimpan dendam dan dendam bisa diprediksi. Orang yang mengajukan harganya sendiri sedang membeli sesuatu yang lain — dan belum terlihat barang apa yang dia bawa pulang."
 
-Maera diam sebentar, menghitung dengan matanya, kebiasaan yang tidak pernah ia sadari sendiri. "Aku harus pulang. Besok komisi audit peta hari-H dibuka. Kalau kamu punya pesan untuk prosedur, sampaikan sekarang atau simpan sampai minggu depan."
+Maera diam sebentar, menghitung dengan matanya, kebiasaan yang tidak pernah ia sadari sendiri. "Aku harus pulang. Tiga hari lagi komisi audit peta hari-H dibuka. Kalau kamu punya pesan untuk prosedur, sampaikan sekarang atau simpan sampai minggu depan."
 
 ---
 
 Brannoc menunggunya di gudang perkakas dengan lampu setengah nyala dan akar pahit yang sudah digigit di dua tempat. Foreman itu tidak bertanya. Ia hanya menggeser satu-satunya kursi ke arah meja, dan Ashvarok duduk, dan menceritakan tiga pasal itu urut dari awal.
 
-Brannoc mendengarkan dengan cara orang menghitung kerugian regunya. Ketika cerita selesai, dia mengunyah akarnya lebih dulu, baru bertanya — urutan yang tidak pernah berubah sejak perjanjian diam mereka setahun silam.
+Brannoc mendengarkan dengan cara orang menghitung kerugian regunya. Ketika cerita selesai, dia mengunyah akarnya lebih dulu, baru bertanya — urutan yang tidak pernah berubah sejak perjanjian diam mereka dua bulan silam.
 
 "Orang tua itu boleh turun kapan pun?"
 
@@ -91,7 +91,7 @@ Foreman itu bangkit, mengambil kertas kode yang tergantung di balik pintu gudang
 
 TETANGGA BARU. KERJAKAN SEPERTI DILIHAT. LAPOR BATU, BUKAN ORANG.
 
-Ia menggantungnya kembali di paku yang sama, tepat di tempat kertas lama menggantung, dan memandanginya beberapa tarikan napas. Setahun lalu musuhnya datang dengan jerat dan daftar. Musuh tahun ini datang dengan surat yang disetujui, bagi hasil yang dicatat, dan orang tua yang membaca batu dengan telapak tangannya — dan dari keduanya, yang kedua lebih sulit dibohongi.
+Ia menggantungnya kembali di paku yang sama, tepat di tempat kertas lama menggantung, dan memandanginya beberapa tarikan napas. Dua bulan lalu musuhnya datang dengan jerat dan daftar. Musuh kali ini datang dengan surat yang disetujui, bagi hasil yang dicatat, dan orang tua yang membaca batu dengan telapak tangannya — dan dari keduanya, yang kedua lebih sulit dibohongi.
 
 "Kamu sudah menghitung semuanya," kata Brannoc dari ambang pintu, bukan pertanyaan, hanya penilaian.
 

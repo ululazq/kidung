@@ -13,7 +13,7 @@ Sela sedang berdiri di depan name map yang ditempel empat lembar kertas bungkus 
 
 Sela membuka segelnya pelan-pelan, karena hal-hal resmi yang datang tanpa diundang punya dua kemungkinan, dan setahun ini kedua kemungkinannya pernah terjadi padanya bergantian. Isinya satu halaman, ditulis tangan yang rapi dengan kop wali kota, dan dia membacanya dua kali sambil merasa dadanya melakukan sesuatu yang aneh.
 
-Isinya dua hal. Pertama, wali kota Corvan Hale meminta salinan Peta Nama Distrik Timur untuk arsip kota, sebagai dokumen pencatatan penduduk tingkat komunitas yang pertama di Karvess yang disusun bukan oleh biro mana pun. Kedua, atas usulan penilaian sendiri meja wali kota, kegiatan belajar anak-anak di ruang tunggu klinik diakui sebagai Kelas Tambahan resmi dalam pembukuan pendidikan kota, dengan anggaran kecil dari kas kota, dibayarkan triwulanan, untuk kapur, kertas, dan penerangan.
+Isinya dua hal. Pertama, wali kota Corvan Hale meminta salinan Eastern District Name Map untuk arsip kota, sebagai dokumen pencatatan penduduk tingkat komunitas yang pertama di Karvess yang disusun bukan oleh biro mana pun. Kedua, atas usulan penilaian sendiri meja wali kota, kegiatan belajar anak-anak di ruang tunggu klinik diakui sebagai Supplemental Class resmi dalam pembukuan pendidikan kota, dengan anggaran kecil dari kas kota, dibayarkan triwulanan, untuk kapur, kertas, dan penerangan.
 
 Di bawahnya ada lembar pengesahan terpisah, dicap dua kali, dan satu kalimat tangan Hale sendiri yang miring sedikit. Arsip kota menyimpan apa yang benar-benar ada. Terima kasih sudah membuat kotaknya tidak kosong.
 
@@ -37,9 +37,9 @@ Renn memikirkannya sungguh-sungguh, dan Sela selalu suka cara dia memikirkan ses
 
 ---
 
-Pagi berikutnya, kelas tambahan dimulai dengan hal yang belum pernah ada sebelumnya — yaitu sebuah nama yang boleh ditulis di papan.
+Pagi berikutnya, Supplemental Class dimulai dengan hal yang belum pernah ada sebelumnya — yaitu sebuah nama yang boleh ditulis di papan.
 
-Sela menulisnya besar-besar di sudut atas papan tulis ruang tunggu. Kelas Tambahan Klinik Barak Timur. Di bawahnya dia menulis jam belajarnya, dan di bawah jam belajar, karena kejujuran adalah pasal pertama sekolahnya, dia menulis juga sumber anggarannya. Kas kota. Triwulanan. Kecil.
+Sela menulisnya besar-besar di sudut atas papan tulis ruang tunggu. East Barracks Clinic Supplemental Class. Di bawahnya dia menulis jam belajarnya, dan di bawah jam belajar, karena kejujuran adalah pasal pertama sekolahnya, dia menulis juga sumber anggarannya. Kas kota. Triwulanan. Kecil.
 
 Harn membaca tulisan itu dari barisan depan dan mengangkat tangannya seperti selalu. "Kalau kelas kita sudah resmi, apakah aturannya ikut resmi?"
 
@@ -67,7 +67,7 @@ Hale menerima salinan name map itu dengan tangan kanan yang tenang, membuka lipa
 
 "Sudah pernah dikenal banyak orang, Tuan Wali Kota. Sekarang namanya hidup di mulut anak-anak, dan badannya masih jalan di barak timur." Sela berdiri tegak di depan meja itu, rambut diikat tali kacanya seperti biasa. "Peta ini mencatat orang yang masih ada. Baris kosong artinya kami tidak menyerahkan dia pada sunyi. Bedanya tipis, tetapi tipisnya penting."
 
-Hale memandangnya lama, lalu menyalin kata-kata itu ke kertas coretan di sudut mejanya, dan Sela melihat gerakan itu dan berpikir bahwa wali kota ini ternyata orang yang mengumpulkan kalimat. Lembar pengesahan kelas tambahan diserahkan kepadanya dengan dua cap, dan anggaran triwulanan pertama diumumkan jumlahnya dengan nada minta maaf, karena angka itu kecil, cukup untuk kapur dan minyak lampu dan tidak lebih.
+Hale memandangnya lama, lalu menyalin kata-kata itu ke kertas coretan di sudut mejanya, dan Sela melihat gerakan itu dan berpikir bahwa wali kota ini ternyata orang yang mengumpulkan kalimat. Lembar pengesahan Supplemental Class diserahkan kepadanya dengan dua cap, dan anggaran triwulanan pertama diumumkan jumlahnya dengan nada minta maaf, karena angka itu kecil, cukup untuk kapur dan minyak lampu dan tidak lebih.
 
 "Anggarannya kecil," kata Hale, dan tangan kanannya gemetar sekali, nyaris tidak kelihatan, saat ia mengetuk-ngetuk tepi meja. "Namun kecil yang sah itu lebih besar daripada besar yang diam-diam. Kelas kamu sekarang tidak bisa dihapus tanpa surat, dan surat bisa dibaca orang."
 

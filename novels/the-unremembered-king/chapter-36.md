@@ -3,116 +3,212 @@ title: "Bab 36: Tanggal Bohong"
 chapter: 36
 ---
 
-Hari keempat puluh lima datang dengan dua kejadian yang tidak saling mengenal: lonceng shift pagi membunyikan dirinya seperti biasa, dan tim Assayers' Guild turun ke the Underfold untuk pertama kalinya. Ashvarok menyaksikan yang kedua dari kejauhan yang aman — dari galeri atas tingkat dua, di balik tumpukan balast, sambil pura-pura memeriksa penyangga yang tidak perlu ia periksa.
+Hari 45, tim Guild turun ke the Underfold saat lonceng pagi selesai berbunyi.
 
-Tujuh orang turun lewat persimpangan utama. Lima membawa peti instrumen; dua mengenakan jubah kerja Guild dengan lengan digulung rapi. Mereka bekerja dengan cara yang membuatnya mengangguk dalam hati: setiap titik ukur dibaca dua kali, catatan dibacakan ulang oleh orang kedua, dan tidak ada satu pun dari mereka yang berdiri menghadap arah yang sama terlalu lama. Tim yang kompeten. Tim yang dilatih untuk tidak percaya pada satu pembacaan.
+Ashvarok mengamati dari galeri tingkat dua sambil memeriksa penyangga yang tidak rusak. Enam orang, sesuai kontrak: dua Assayer Spire, dua petugas instrumen, satu pencatat, satu pembawa peti. Kovan terlihat di persimpangan atas, menjaga jarak yang diperintahkan. Ia tidak menyentuh alat dan tidak mendekati Renn.
 
-Mereka membaca galeri atas dan persimpangan utama — titik-titik yang ia dan Brannoc biarkan jujur. Data jujur diletakkan di tempat yang tak penting. Pada tengah hari, tim itu naik kembali dengan tubuh yang tenang, dan Ashvarok tahu tanpa perlu melihat lembarannya. Angka-angka atas akan masuk laporan sebagai normal, karena memang normal. Aula di bawah sana tidak tersentuh siapa pun hari ini.
+Tim bekerja kompeten. Setiap titik dibaca dua kali. Posisi standar ditandai kapur. Angka diulang oleh pencatat sebelum peti ditutup. Mereka memulai galeri atas dan persimpangan utama—titik yang counter-map biarkan benar.
 
-Sisa pekerjaannya adalah menunggu tanggal bohong melakukan tugasnya.
+Maera berdiri sebagai pembanding di luar lingkar alat. Ia tidak memberi isyarat kepada Ashvarok. Pada titik pertama, salah satu Assayer meminta pembacaan ulang karena pantulan troli melintasi batu. Maera menunggu troli hilang, mencatat waktu gangguan, lalu menyetujui angka kedua. Ia menjaga prosedur tetap akurat, bukan membantu kebohongan secara terang.
 
----
+Ossian tidak turun bersama tim. Segel kontraknya tetap terlihat pada peti utama, cukup untuk membuat setiap orang memperlakukan jadwal sebagai perintah pribadi. Ketiadaan itu lebih berbahaya daripada pengawasan langsung: ia menerima hasil tanpa memberi tahu titik mana yang paling diminati.
 
-Pergantian shift petang membawa banjir manusia ke stasiun angkut permukaan: wajah-wajah kelabu debu, troli-troli kosong yang dinaikkan, bunyi cincin besi kontrak yang beradu di pergelangan ribuan tangan. Ashvarok berdiri di antrean air minum barak — tempat berdiri paling alami bagi bocah tungku yang mengantuk — dan membiarkan matanya menghitung.
+Kovan bertahan dekat stasiun. Sekali ia melihat ke arah penyangga Ashvarok, lalu beralih ke pencatat. Tidak ada panggilan, pendekatan, atau tes. Batasnya masih berlaku.
 
-Brannoc bersandar pada tiang penyangga dua langkah darinya, mengunyah akar pahit dengan irama seorang mandor yang tidak memikirkan apa-apa. Mereka tidak saling menoleh. Perjanjian lama: jangan pernah tampak satu kelompok ketika sedang menghitung orang lain.
+Pembacaan ketiga menghasilkan selisih kecil akibat air. Tim tidak menghapusnya. Mereka mengambil suhu dinding, menandai aliran, dan menyimpan kedua angka. Ashvarok mengingat caranya. Counter-map harus bertahan terhadap orang yang menyimpan anomali, bukan petugas malas yang merapikannya.
 
-"Regu barat baru turun," kata Brannoc kepada udara, seolah mengeluh tentang jadwal. "Troli keenam."
+Menjelang tengah hari, tujuh pembacaan selesai. Tidak ada satu pun alat mendekati lorong B. Hari 45 membuka survei; tidak menyelesaikannya.
 
-Troli keenam regu barat adalah posisi yang mereka sepakati: sudut pandang ke seluruh lapangan stasiun, termasuk tangga cabang utara yang jarang dipakai orang. Panener berkata kurir itu selalu muncul di persimpangan atas saat pergantian shift, dan mengenal jadwal lebih dalam daripada para Foreman sendiri.
+"Normal?" tanya Brannoc kemudian, di antrean air.
 
-Ashvarok menghitung detik dengan napasnya. Empat ratus. Enam ratus. Banjir manusia menyusut menjadi genangan, genangan menjadi tetesan, dan lampu-lampu stasiun mulai diklaim kembali oleh keheningan.
+"Normal karena kita tidak menyentuhnya."
 
-Lalu ia melihatnya.
+"Bagian mudah."
 
-Orang itu datang dari tangga cabang utara — arah yang tidak menghubungkan lorong mana pun dengan jam kerja mana pun — dan berjalan melintasi stasiun dengan langkah yang tidak terburu-buru namun juga tidak sia-sia. Sedang, kurus, wajah biasa jenis yang tidak pernah diingat siapa pun. Bahkan pakaiannya biasa, bahkan cara ia menghindari troli biasa. Hanya satu hal yang tidak biasa: di tangan kirinya ada kantong kulit kecil, dan kantong itu tidak pernah bergoyang mengikuti langkah. Orang yang membawa kantong kosong melangkah begitu. Kantong berisi logam tidak.
+"Bagian yang harus tampak mudah."
 
-Empat malam silam kurir itu terakhir terlihat, kata panener. Dan malam ini, tepat beberapa jam setelah kabar tanggal bohong sempat beredar di kedalaman, ia berdiri di stasiun angkut di luar jadwalnya sendiri.
+Mereka tidak berdiri sebagai kelompok. Brannoc bersandar dua tiang dari Ashvarok, mengunyah akar. Sela menunggu di barak dengan counter-map. Tugas berikutnya bukan aula. Mereka menunggu tanggal bohong menggerakkan kanal pemanen.
 
-Umpan itu dimakan.
+Pada pergantian shift petang, lapangan stasiun dipenuhi tubuh kelabu, troli kosong, dan contract ring. Pemanen sudah membawa tanggal bohong itu ke jalur atas setelah dilepas malam sebelumnya. Jika jaringan percaya, seseorang harus meneruskan atau mengubah instruksi sebelum Hari 46 lewat.
 
-"Aku ikut yang belakang," bisik Ashvarok tanpa menggerakkan bibirnya lebih dari perlu, menunduk seolah mengikat tali sepatu. "Kamu ambil lingkar luar. Kalau aku hilang dari pandanganmu lebih dari lima ratus langkah, kembali ke gudang dan tunggu. Jangan mencari."
+"Regu barat, troli keenam," kata Brannoc kepada udara.
 
-"Mengapa lima ratus?"
+Posisi itu memberi pandangan ke tangga utara. Ashvarok menghitung dengan napas. Empat ratus detik. Enam ratus. Arus pekerja menyusut.
 
-"Karena orang yang diikuti dua orang terasa berbeda daripada yang diikuti satu. Dia tidak akan menghitung satu." Ashvarok meluruskan diri, menguap dengan mahir, dan menyisipkan dirinya ke arus pulang shift seperti benang jatuh ke gulungan benang lainnya.
+Seorang lelaki kurus muncul dari tangga utara. Wajah biasa, mantel biasa, langkah tanpa pemborosan. Kantong kulit di tangan kirinya tidak bergoyang seperti kantong berisi logam.
 
----
+Ia tidak menuju persimpangan tempat pemanen biasa bertemu kurir. Ia melewati stasiun, keluar pintu timur, dan naik ke kota.
 
-Kurir itu meninggalkan wilayah tambang lewat pintu timur dan memasuki jaringan jalan kaki Caldrest, dan di sinilah pekerjaan menjadi halus. Di bawah tanah, Ashvarok adalah bayangan yang sah. Di permukaan, ia hanya bocah kurus berusia lima belas tahun yang berjalan sendirian di malam kota tambang, dan bocah semacam itu menarik perhatian jenis yang salah.
+Umpan bekerja, tetapi belum memberi jawaban.
 
-Maka ia tidak mengikuti. Ia memotong.
+"Aku ambil belakang," bisik Ashvarok sambil membetulkan tali sepatu. "Lingkar luar. Kalau aku hilang lima ratus langkah, kembali."
 
-Tiga kali kurir itu berbelok, dan tiga kali Ashvarok sudah ada di ujung belokan itu lebih dulu — melewati jalur-jalur pendek yang ia hafalkan sejak minggu pertamanya di tubuh ini, karena geometri kota adalah geometri kota di era mana pun: manusia membangun sesuai kemalasan, dan kemalasan bisa dipetakan. Ia melihat kurir itu melewati pasar yang sudah tutup, membelok menghindari dermaga kayu yang berderit, dan kemudian, pada persimpangan keempat, berhenti di depan bangunan yang lampunya masih menyala di satu jendela.
+"Kenapa bukan tiga ratus?"
 
-Quota Office.
+"Karena pada tiga ratus kamu akan mencoba melihatku."
 
-Bangunan itu dikenalinya dari luar sejak lama — tempat utang bernapas, tempat kontrak ditandatangani dua kali, tempat di mana Tharrow menjaga seragamnya bebas kerutan. Yang tidak ia kenali adalah pintu sampingnya: pintu kayu kecil di celah antara tembok dan tumpukan tong cadangan, dengan jendela menerima berukuran selebar tangan di ketinggian dada. Kurir itu mengetuk tiga kali, jeda, satu kali. Jendela terbuka sebentar. Kantong kulit itu masuk. Selembar kertas kecil keluar. Jendela tertutup.
+"Dan pada lima ratus?"
 
-Tanpa satu kata pun. Tidak pernah bicara, kata panener, dan kini Ashvarok melihat bentuk lengkapnya: sebuah sistem yang tidak butuh suara karena semua pihaknya sudah hafal angka-angkanya.
+"Aku sudah berganti jalur."
 
-Kurir itu berbalik dan berjalan pulang ke arah distrik pelabuhan. Ashvarok membiarkannya pergi. Yang dicarinya bukan lagi orangnya. Yang dicarinya adalah isi kertas kecil itu, dan jalurnya.
+Ashvarok masuk arus pulang shift. Di permukaan, bocah lima belas tahun yang mengikuti pria dewasa akan diingat. Maka ia tidak mengikuti. Ia memotong lewat gang pasar, jembatan kayu, dan halaman pembuat tong. Tiga kali ia kehilangan kurir; tiga kali ia melihatnya lagi dari arah berbeda.
 
----
+Kurir berhenti di samping Quota Office.
 
-Mereka menangkapnya di gang sempit antara Quota Office dan gudang garam, sepuluh menit kemudian, saat kurir itu kembali lewat jalur yang sama — karena ia tidak langsung pulang, dan hal itu sendiri adalah jawaban. Ia menunggu di gang, kebiasaan orang yang memastikan serahannya tidak menimbulkan gerak susulan.
+Bukan pintu utama. Di celah antara dinding dan tong cadangan ada slot dokumen selebar telapak, terlindung lis seng. Pemanen benar. Lelaki itu memasukkan kertas terlipat. Tidak mengetuk. Tidak menunggu orang.
 
-Brannoc keluar dari kegelapan seperti musim yang berganti. Satu lengan melingkar di dada kurir itu, satu telapak menutup mulut yang tidak akan berteriak, dan mereka bergeser ke ceruk gelap di antara tong garam dalam waktu yang tidak cukup lama untuk disaksikan siapa pun.
+Ia berjalan ke kios seberang, membeli air, lalu duduk dengan pandangan ke slot.
 
-Kurir itu tidak melawan seperti panener. Ia melawan seperti orang yang pernah dilatih melawan: ringan, efisien, tiga gerakan yang dirancang untuk lepas dari genggaman — dan ketiga gerakan itu gagal terhadap bahu kanan Brannoc yang turun dan berat prajurit tua. Lalu, terpojok, dadanya naik-turun, orang itu mendongak dan membuka mulutnya untuk hal yang pasti membuat bunyi.
+Ashvarok mengambil posisi di bawah tangga rumah makan. Brannoc muncul di ujung jalan tanpa menoleh. Mereka menunggu.
 
-Ashvarok sudah siap. Jalur parut kanannya terbuka, dan untaian Ash menelan seruan peluit pendek itu di tenggorokan sebelum peluitnya sampai ke logam di gigi orang itu. Kekosongan kecil. Bunyi yang mati di tempat lahirnya. Harga menjalar dingin di sepanjang urat parut, satu tarikan napas lagi menuju siku, dan segenggam abu kelabu baru berjatuhan ke telapak tangannya yang sudah menunggu.
+Dua belas menit kemudian, panel dalam slot bergerak. Kertas hilang. Tangan yang mengambilnya hanya terlihat sampai pergelangan: manset kerja abu-abu, tanpa tanda pangkat.
 
-Kurir itu mengerang tanpa suara — nafas saja, bentuk teriakan yang kehilangan seluruh isinya — dan berhenti melawan.
+Lima menit berikutnya, sebuah amplop kecil didorong keluar. Kurir mengambilnya dan pergi menuju distrik pelabuhan.
 
-"Peluit bagus," kata Ashvarok, pelan. "Logam kecil di gigi, bukan? Orang bisu dengan peluit adalah orang yang tidak bisu sama sekali — dia hanya memilih kapan dunia boleh mendengarnya. Kami mengambil pilihan itu darimu selama satu menit. Satu menit saja, lalu kamu pergi dengan segalanya yang kamu miliki."
+Tidak ada bukti bahwa Kel Tharrow menyentuh amplop. Tidak ada bukti ia mengetahui slot dipakai. Quota Office adalah bangunan dengan juru tulis malam, petugas kas, kurir kontrak, dan banyak celah prosedur. Menyimpulkan kepala dari satu tangan adalah cara tercepat kehilangan kepala yang benar.
 
-Dari kantong jaket kurir itu, Brannoc mengeluarkan isi tas kulit yang masih terselip di sabuknya: tiga gulungan shardmark yang disampir kain, selembar kertas lipatan, dan satu batang lilin pendek. Brannoc menggenggam lilin itu ke arah lampu jalan yang paling jauh, meraba benang tipis di sepanjang badannya dengan ibu jari, dan mengangguk sekali.
+Ashvarok mengikuti sampai dua persimpangan. Kurir membuka amplop di bawah lampu umum. Isinya satu strip kertas, dibaca sekali lalu dimasukkan ke mulut. Ia mengunyah dan menelannya dengan air kios, kemudian berbelok menuju distrik pelabuhan.
 
-"Sama," katanya. "Tin thread. Jahitan identik dengan dua yang kupunya. Tidak ada tukang lilin di Caldrest yang menjual begini."
+Brannoc menyusul lewat sisi lain. "Kita ambil?"
 
-"Wajahmu selalu sama, kata kontraktormu. Kami tidak bisa memastikannya dari cerita saja. Lilin ini memastikannya." Ashvarok membuka telapak kanannya di depan wajah orang itu. Abu kelabu tergeletak di garis-garis telapaknya, hangat, hidup dengan cara yang hanya dimengerti mereka yang pernah menyentuhnya. "Sentuh. Kamu akan mengerti kenapa kita menangkapmu dengan lembut, dan kenapa kamu akan lupa wajah kami."
+"Di gang berikutnya. Singkat."
 
-Kurir itu menatap abu itu lama — lama sekali untuk orang yang tidak bisa bertanya. Kemudian jarinya menyentuh gumpalan kelabu itu, dan Ashvarok menyaksikan ingatan bekerja: serangan panik panener di lorong sembilan bawah, desah yang dimatikan di tenggorokannya sendiri, rasa tangan besar di leher. Wajah yang tidak pernah diingat siapa pun berubah untuk pertama kalinya malam ini menjadi wajah yang menunjukkan sesuatu yang jujur.
+Brannoc mendahului lewat lorong penjual garam. Ketika kurir memasuki gang sempit di belakang rumah pewarna, tubuh besar Foreman itu menutup jalan keluar. Ashvarok muncul di belakangnya. Kurir tidak bertanya. Tangannya masuk ke kerah, menemukan peluit logam, lalu menggigitnya.
 
-Orang itu mengangkat jarinya, lalu — perlahan, dengan kesadaran penuh — mengangkat tiga jarinya, menunjuk ke arah kertas lipatan di tangan Brannoc, lalu menunjuk matanya sendiri.
+Ashvarok membuka Ash setipis rambut. Peluit bergerak di antara gigi, tetapi seruannya lenyap sebelum menyentuh dinding. Abu baru jatuh di atas sepatu kurir. Dingin pada vein-scar kanan maju satu tarikan napas menuju siku. Ashvarok menutup aliran, mengumpulkan residu dengan kain, dan Brannoc mengunci kedua lengan lelaki itu tanpa menjatuhkan tasnya.
 
-"Ia minta dibacakan," kata Brannoc.
+"Tas," kata Ashvarok.
 
-"Baca."
+Kurir membukanya sendiri. Di bawah dua formulir angkut ada satu batang lilin putih-abu dengan tin thread: putaran sempit dekat dasar, simpul ditanam di dalam lilin. Sama dengan dua batang dari pemanen. Ashvarok tidak mengambilnya. Ia mengembalikan formulir yang sempat diangkat Brannoc, merapatkan penutup, lalu menggantungkan tas utuh ke bahu pemiliknya.
 
-Brannoc membuka lipatan itu di bawah cahaya yang nyaris tidak ada. Angka-angka, kolom-kolom pendek, tanda-tanda yang bukan huruf. "Jumlah bayaran. Tanda centang tujuh baris — tujuh kali serahan. Dan satu lambang di pojok: kotak dengan satu garis miring."
+Dari saku dalam, Ashvarok mengeluarkan tabung berisi abu penangkap suara pemanen. Ia menempelkan logam dingin itu ke pergelangan kurir. Residu di dalamnya mengingat desah mati lelaki yang semalam memilih bicara.
 
-"Slot serahan malam," kata Ashvarok. "Kotak penerimaan di pintu samping Quota Office, dan garis miring untuk membedakannya dari slot siang. Kurir ini tidak mengantar uang kepada satu orang. Dia mengantar uang kepada sebuah loket." Ia menoleh kepada kurir itu. "Dan di balik loket itu ada yang menerima bagiannya tanpa bertanya. Betul?"
+"Pekerjamu hidup," kata Ashvarok. "Kanalmu juga boleh hidup. Ganti keduanya, dan suara berikutnya tidak berhenti di tabung."
 
-Satu anggukan, kecil, hati-hati.
+Kurir menatap abu baru di sepatunya, lalu tabung lama. Ia mengangguk sekali.
 
-Ashvarok memikirkan bangunan itu dengan lampu yang menyala di satu jendela. Tempat utang bernapas. Tempat seragam tidak pernah kerut. Sebuah operasi panen yang berjalan berbulan-bulan tidak bisa berjalan melewati kota ini tanpa membayar diamnya kota ini — dan tidak ada yang lebih murah daripada membeli diam di loket yang sudah berdiri, dengan buku yang sudah rapi, di bawah orang yang sudah terbiasa menerima amplop tanpa bertanya isi kolomnya.
+Brannoc melepaskan lengan. Kurir mengambil peluitnya, menyimpan tanpa meniup, dan berjalan ke distrik pelabuhan dengan tas, uang, serta rutenya tetap utuh. Mereka membiarkannya pergi. Misi malam itu membaca kanal, bukan menutupnya; tangkapan singkat memberi verifikasi, pelepasan membuat simpul berikutnya tetap bergerak.
 
-Kel Tharrow. Atau orang-orang di bawahnya. Atau keduanya. Jejaknya tidak penting malam ini. Yang penting, rantai bayarannya terbaca dari ujung ke ujung: pelanggan berjubah, lilin bertanda tin thread, kurir tanpa suara, loket yang membosankan. Setiap mata rantai menjual satu hal yang sama: ketidaktahuan yang terorganisir.
+Mereka kembali ke gang Quota Office setelah satu jam, berganti sisi jalan dan langkah. Slot tampak seperti celah dokumen biasa. Di bawahnya ada goresan kotak dengan garis miring, hampir tertutup cat. Simbol yang sama tertera pada kertas pembayaran pemanen.
 
-"Lepaskan dia," kata Ashvarok.
+Ashvarok tidak menyentuh slot. Debu pada bibir seng menunjukkan penggunaan rutin. Serat merah tertangkap di sudut bawah, mungkin dari segel amplop, mungkin dari kain petugas. Mengambilnya berisiko mengubah debu yang dapat diperiksa orang lain. Ia menyimpan posisi dalam ingatan.
 
-Brannoc melonggarkan lengannya. Kurir itu membetulkan jaketnya, mengambil kembali tasnya — gulungan shardmark dan kertas lipatan dibiarkan tetap di dalamnya, hitungan mereka tidak boleh berubah — dan berdiri sebentar di depan mereka dengan sikap orang yang menimbang sesuatu.
+"Jadi uang lewat sini," kata Brannoc.
 
-Lalu ia mengangkat jarinya sekali lagi, menunjuk abu di telapak Ashvarok, lalu mengarahkan jarinya ke bawah — ke arah tanah, ke arah tambang.
+"Atau instruksi. Kita melihat kertas masuk dan kertas keluar."
 
-"Tidak," kata Ashvarok. "Yang di bawah bukan urusanmu lagi, dan justru itu yang menjagamu hidup. Kamu tidak pernah tahu apa-apa. Itu pekerjaanmu, dan kamu melakukannya dengan baik. Teruslah melakukannya."
+"Di Quota Office."
 
-Orang itu menatapnya sekali — tatapan pertama dan terakhir yang jujur — lalu pergi ke gelap, dengan langkah yang tidak berbunyi.
+"Di slot samping bangunan Quota Office."
 
----
+Mereka memetakan arus kaki tanpa berdiri diam. Pintu utama menerima pegawai sampai lonceng kedua. Pintu belakang dipakai pembersih dan pembawa batu bara. Slot samping berada di jalur yang tak terlihat dari meja kas depan, tetapi terlihat dari jendela lantai dua bila tirainya terbuka. Malam ini tirai tetap tertutup.
 
-Gudang perkakas tingkat dua, jauh malam. Lampu ditutup keranjang, seperti biasa, dan dua teh akar pahit menguap di atas peti.
+Brannoc membeli garam di gudang seberang dan kembali membawa kantong kecil. "Pemilik bilang petugas dokumen mengosongkan slot tiap seperempat jam."
 
-"Jadi uang panen itu lewat Quota Office," kata Brannoc. "Dan si berseragam itu mungkin makan darinya."
+"Nama?"
 
-"Kemungkinannya besar, bukan sekadar mungkin. Pergantian shift, jadwal yang lebih dalam daripada Foreman, slot yang hafal — semua itu bahasa orang di dalam." Ashvarok menggulung tehnya pelan. "Dan lihat ironinya, Brannoc. Orang yang sedang menyusun daftar empat ratus keluarga untuk dibongkar rumahnya — orang yang mengaudit kontrak dan memotong shift untuk memburu kami — ternyata memungut upah dari lubang yang sama dengan yang kami tangani. Alat yang merasa jadi pemain."
+"Tiga orang bergiliran. Dia tidak tahu siapa malam ini."
 
-"Kalau begitu kita pakai dia."
+"Bagus. Jangan tanya lagi."
 
-"Kita sudah memakainya. Dia hanya belum tahu." Ashvarok meletakkan cangkirnya. "Malam ini kita dapat tiga hal. Rantai bayarannya. Bukti bahwa tanggal bohong bekerja — kurir itu keluar di luar polanya dalam hitungan jam. Dan satu kebiasaan baru yang bisa kita membaca: setiap kali kabar bergerak di dalam, kantong itu bergerak di luar. Mulai sekarang, gang itu adalah termometer kami."
+Pertanyaan kedua akan membuat pedagang mengingat pembeli. Satu fakta prosedural cukup: tangan bermanset bukan anomali; mengambil pesan merupakan tugas bergilir. Kanal lawan bersembunyi bukan dengan menyuap satu penjaga tetap, melainkan dengan memasukkan tanda yang dikenali siapa pun yang bertugas—atau hanya satu di antara mereka.
 
-"Dan kurirnya?"
+Ashvarok memperhatikan bentuk amplop biasa. Semua dokumen malam memakai lipatan sempit agar lolos slot. Pesan pemanen tidak dibedakan dari ukuran, warna, atau segel luar. Tanda kotak miring mungkin berada di sudut dalam, terlihat setelah petugas membuka. Artinya orang pertama dapat sekadar penyortir tanpa tahu isi.
 
-"Terus bekerja. Orang yang membawa uang tidak pernah menjadi musuh selama uangnya terus mengalir." Ashvarok menatap sisa abu kelabu yang masih menempel di lipatan telapak kanannya, sisa yang tidak ia buang, dan menutup tangannya. "Besok kota ini akan membaca laporan survei pertama dan mendapati semuanya normal. Biar mereka senang dulu. Orang yang puas tidak memeriksa gang."
+"Lebih banyak tangan," kata Brannoc.
+
+"Lebih sedikit pengetahuan per tangan."
+
+"Sulit dipotong."
+
+"Dan mudah diawasi kalau jadwalnya tetap."
+
+Brannoc mendengus. "Bedanya tipis."
+
+"Bedanya antara bukti dan cerita."
+
+Mereka mengawasi satu siklus lagi. Juru tulis muda keluar dari pintu utama membawa buku, tidak mendekati slot. Petugas kas menutup jendela depan. Seorang pembersih membuang abu tungku lewat pintu belakang. Tidak satu pun dapat dihubungkan ke manset abu-abu.
+
+Pada malam penuh, seorang pembawa dokumen datang, memasukkan tiga amplop tanpa simbol, lalu pergi. Panel dalam mengambil semuanya dalam waktu yang sama seperti pesan pemanen. Slot itu bagian operasi kantor yang sah. Kanal gelap menumpang pada alur biasa.
+
+"Kalau kita tutup celahnya, mereka pindah," kata Brannoc.
+
+"Kalau kita biarkan, kita dapat jam geraknya."
+
+"Dan kalau isi amplop besok memerintahkan pemanen dibunuh?"
+
+Ashvarok diam satu napas. "Kita tidak tahu. Risiko melepasnya tetap ada."
+
+"Tidak nyaman."
+
+"Karena ini bukan penyelamatan. Ini pengawasan."
+
+Brannoc menerima jawaban tanpa menyukainya.
+
+Di gudang, Sela menyalin hasil pada lembar terpisah dari counter-map tambang. Ia menggambar Quota Office sebagai persegi tanpa nama, slot di sisi timur, kios air di seberang, dan waktu pengambilan.
+
+"Kurir keluar karena tanggal bohong?" tanyanya.
+
+"Waktunya cocok. Itu korelasi pertama."
+
+"Bukan bukti?"
+
+"Belum. Kita butuh gerak kedua dengan informasi yang hanya lewat kanal pemanen."
+
+"Kenapa tidak kirim kabar palsu lagi?"
+
+"Dua umpan berdekatan menjadi pola. Sekarang kita amati kegiatan biasa."
+
+Sela membuat kolom bukti dan dugaan. Di bawah bukti: slot dipakai pemanen; kurir datang setelah tanggal palsu; balasan dihancurkan; operasi kantor biasa memakai slot sama. Di bawah dugaan: pegawai internal mengenali tanda; uang mungkin lewat buku kuota; pemberi perintah mengetahui jadwal tambang.
+
+"Tharrow masuk kolom mana?" tanyanya.
+
+"Tidak masuk."
+
+"Dia menjalankan kantor."
+
+"Menjalankan bukan membaca setiap amplop."
+
+"Tapi mungkin tahu."
+
+"Mungkin juga sedang dipakai orang di bawahnya. Tulis pertanyaan, bukan nama."
+
+Sela menulis: *siapa menerima kotak-garis-miring?* Pertanyaan itu lebih berguna daripada tuduhan. Tuduhan membuat mereka mengawasi satu orang; pertanyaan menjaga seluruh kantor tetap terbuka.
+
+Sela memberi tanda kosong pada nama penerima.
+
+Brannoc mengeluarkan dua lilin tin thread dari bungkus terpisah. "Ini menghubungkan kurir dengan panen."
+
+"Pola lilinnya identik," kata Ashvarok. "Satu pemasok, atau satu aturan pemasokan. Bukan pemesan akhir."
+
+"Tapi kurirnya benar."
+
+"Kurirnya benar."
+
+Ashvarok menyusun rantai yang benar-benar mereka punya. Pemanen memakai lilin tin thread. Pemanen mengaku menerima dari kurir. Tanggal bohong disampaikan melalui pemanen. Pada Hari 45, kurir keluar dari pola, memakai slot samping Quota Office, menerima balasan, lalu membawa lilin dengan jahitan identik. Ia sudah ditangkap singkat, diperingatkan, dan dilepas dengan tas utuh.
+
+Yang tidak mereka punya tetap panjang: isi balasan, identitas tangan internal, asal uang, pemesan inti, dan hubungan Kel Tharrow.
+
+Nama Tharrow tidak ditulis.
+
+"Besok?" tanya Sela.
+
+"Amati slot pada dua pergantian shift. Jangan orang yang sama, jangan posisi yang sama."
+
+"Survei?"
+
+"Tim Guild tetap di titik atas. Kita tidak mengganggu."
+
+"Pemanen?"
+
+"Dibiarkan hidup. Kalau bergerak, Brannoc tahu jalurnya."
+
+Brannoc menyandarkan punggung. "Banyak membiarkan."
+
+"Jaringan bergerak hanya saat tidak merasa ditarik."
+
+Ashvarok menambahkan satu garis pada lembar kanal: panah dari tambang ke slot, lalu tanda tanya setelah dinding. Bukan panah menuju Tharrow. Bukan tuduhan.
+
+Di luar, lampu Quota Office masih menyala. Seorang juru tulis mungkin sedang menjumlah kuota. Orang lain mungkin sedang membaca tanggal palsu. Bangunan yang sama dapat memuat keduanya tanpa membuat keduanya bersekutu.
+
+Hari 45 berakhir dengan tujuh titik survei normal, satu kurir bergerak, dan satu slot yang kini punya jam. Tanggal bohong tidak mengungkap dalang. Ia hanya membuka pintu prosedural cukup lama untuk melihat tangan masuk.

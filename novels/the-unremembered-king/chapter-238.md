@@ -69,7 +69,7 @@ Regu itu terdiri dari: dua murid akademi, satu pemulang Vess-Morath, dan — ten
 
 "Api ini sudah jadi anak angkat saya sejak dia izin masak di dapur saya," katanya. "Kalau dia mau jalan-jalan ke gunung, ibunya yang mengantar."
 
-Maka rombongan pemulangan pegunungan timur laut berangkat dengan susunan yang tidak akan pernah ada dalam sejarah mana pun: tim inti, siswa Sekolah Mendengar, murid akademi, dan seorang kepala dapur membawa bara purba dalam wadah tembaga sambil sesekali mengetuk wadahnya sambil berkata "sabar ya, Nak, sebentar lagi sampai".
+Maka rombongan pemulangan pegunungan timur laut berangkat dengan susunan yang tidak akan pernah ada dalam sejarah mana pun: tim inti, siswa the Listening School, murid akademi, dan seorang kepala dapur membawa bara purba dalam wadah tembaga sambil sesekali mengetuk wadahnya sambil berkata "sabar ya, Nak, sebentar lagi sampai".
 
 Dan di nat pusat aula, sebelum rombongan pergi, the Patient House mengirim pesan perpisahan untuk ekspedisi pertama lintas-lembah ini:
 
@@ -143,7 +143,6 @@ Catatan terakhir untuk batch ini — ditulis dari kemah di kaki pegunungan timur
 
 Hari 850, catatan tambahan dari kemah pesisir: semua empat puluh empat jiwa sudah naik dan sudah makan hangat. Protokol lagu-lewat-air terbukti sempurna. Total proyek kini tiga ratus tujuh puluh enam jiwa dari empat ratus jiwa utara yang menunggu.
 
-Sisa: DUA WILAYAH. Dua puluh empat jiwa.
 
 Besok pagi kita naik gunung — membawa bara purba dalam wadah tembaga, membawa resep ibu Tamma, membawa lagu-lagu tiga lembah, dan membawa harapan yang sudah tidak perlu lagi disembunyikan di balik bahasa formal.
 
@@ -151,4 +150,4 @@ Empat ratus jiwa menunggu. Tiga ratus tujuh puluh enam sudah pulang.
 
 Dua puluh empat tersisa.
 
-Dan kalau semuanya berjalan seperti seharusnya... batch berikutnya adalah batch terakhir.
+Dan kalau semuanya berjalan seperti seharusnya... batch berikutnya adalah batch terakhir. Brannoc mengunci pintu setelah memastikan semua orang telah keluar.

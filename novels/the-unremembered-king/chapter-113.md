@@ -9,7 +9,7 @@ Kabar itu sampai kepada Ashvarok pada siang hari keseratus enam puluh, dari sumb
 
 "Siapa yang mengirim?"
 
-"Dewan Regional sectenya sendiri." Maera membaca ekspresi bocah itu dan menambahkan bagian yang paling berat dengan suara yang datar seperti membaca angka lot. "Kemarin, di sidang tertutup Quota Office, Vael tidak membantah satu lembar pun dari rantai panen. Dia mengaku utuh. Lalu dia berbalik dan menawarkan dirinya sebagai penjaga profesional permanen untuk seam Testament. Biro Koordinasi ia usulkan diubah menjadi biro penjagaan, personel inti satu orang, yaitu dirinya."
+"the Regional Council sectenya sendiri." Maera membaca ekspresi bocah itu dan menambahkan bagian yang paling berat dengan suara yang datar seperti membaca angka lot. "Kemarin, di sidang tertutup Quota Office, Vael tidak membantah satu lembar pun dari rantai panen. Dia mengaku utuh. Lalu dia berbalik dan menawarkan dirinya sebagai penjaga profesional permanen untuk seam Testament. Biro Koordinasi ia usulkan diubah menjadi biro penjagaan, personel inti satu orang, yaitu dirinya."
 
 Ashvarok berdiri diam cukup lama sehingga kereta troli lewat dua kali di seberang tembok.
 
@@ -21,7 +21,7 @@ Ia pergi sesuai jadwalnya, dan Ashvarok berjalan ke gudang perkakas tingkat dua 
 
 Sepanjang jalan ia menimbang keanehan yang membuat orang lain mungkin tertawa kalau tahu. Dalam satu tahun terakhir ini musuhnya berubah wujud empat kali. Pertama pejabat sekte yang membeli peta dan izin. Kedua pemilik lisensi yang membeli kontrak ribuan orang termasuk namanya sendiri yang dipinjam. Ketiga pemain bayangan yang menggoyang pasak lewat kanal gelap. Dan kini, calon penjaga. Setiap kali satu wujudnya dibunuh oleh kertas atau telapak atau umpan, wujud berikutnya datang lebih bersih daripada yang lalu, memakai lebih banyak hukum, dan berdiri lebih dekat ke pintu yang selama ini ia jaga diam-diam. Ada logika dalam kemajuan itu yang hampir indah dilihat dari jauh, seperti air yang selalu menemukan celah rendah berikutnya.
 
-Yang tidak indah adalah hitungan di ujungnya. Penjarah yang gagal bisa ditangkap tanpa siapa pun menangis. Penjaga yang gagal akan menutup tambang demi keselamatan, dan karantina baru bukan lagi jendela bagi pencuri melainkan kebijakan resmi yang ditandatangani Dewan. Kalau sampai titik itu, semua bekerja setahun, dokumen warisan, pernyataan kolektif, dan name map, harus bertahan bukan melawan kejahatan melainkan melawan kebijakan. Perlawanan terhadap kebijakan adalah nama lain untuk perang panjang.
+Yang tidak indah adalah hitungan di ujungnya. Penjarah yang gagal bisa ditangkap tanpa siapa pun menangis. Penjaga yang gagal akan menutup tambang demi keselamatan, dan karantina baru bukan lagi jendela bagi pencuri melainkan kebijakan resmi yang ditandatangani Dewan. Kalau sampai titik itu, semua bekerja setahun, inheritance documents, pernyataan kolektif, dan name map, harus bertahan bukan melawan kejahatan melainkan melawan kebijakan. Perlawanan terhadap kebijakan adalah nama lain untuk perang panjang.
 
 ---
 

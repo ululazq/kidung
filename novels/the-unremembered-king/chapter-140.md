@@ -3,7 +3,7 @@ title: "Bab 140: Protokol Dua Tangan"
 chapter: 140
 ---
 
-Jawaban atas tawaran Ossian Vael disiapkan malam hari keseratus dua puluh empat di gudang perkakas, dan penyusunannya memakan waktu lebih lama daripada penempaan umpan metafisik yang dulu hampir menghabiskan badannya.
+Jawaban atas tawaran Ossian Vael disiapkan malam hari kedua ratus lima di gudang perkakas, dan penyusunannya memakan waktu lebih lama daripada penempaan umpan metafisik yang dulu hampir menghabiskan badannya.
 
 "Kemitraan," kata Brannoc, membaca kata itu dari lembar kecil yang dibawa pulang oleh Ashvarok dari Quota Office, meski lembar itu tidak memuat satu kata pun dari percakapan sebenarnya. "Dia minta kemitraan."
 
@@ -11,7 +11,7 @@ Jawaban atas tawaran Ossian Vael disiapkan malam hari keseratus dua puluh empat 
 
 Sela, yang duduk di ambang pintu dengan papan tulisnya di pangkuan, bertanya dengan tiga arah khasnya. "Kalau ditolak mentah-mentah, dia cari cara lain?"
 
-"Dia akan mencari cara lain," jawab Ashvarok. "Itu pasti. Orang seperti Vael tidak pernah punya niat kedua, ia punya lima. Tetapi ingat hitungannya sendiri. Mandatnya hanya gembok, Spire mengawasinya, Pembaca Tua membaca dokumennya lebih cepat daripada dia, dan pekan ini skema uangnya runtuh di hadapan wali kota. Dia sedang kelaparan satu hal, yaitu kertas resmi yang membuat namanya berdiri di samping kata penjagaan. Selama kelaparan itu hidup, dia lebih murah dibeli dengan kertas daripada dengan pengakuan."
+"Dia akan mencari cara lain," jawab Ashvarok. "Itu pasti. Orang seperti Vael tidak pernah punya niat kedua, ia punya lima. Tetapi ingat hitungannya sendiri. Mandatnya hanya gembok, Spire mengawasinya, the Old Reader membaca dokumennya lebih cepat daripada dia, dan pekan ini skema uangnya runtuh di hadapan wali kota. Dia sedang kelaparan satu hal, yaitu kertas resmi yang membuat namanya berdiri di samping kata penjagaan. Selama kelaparan itu hidup, dia lebih murah dibeli dengan kertas daripada dengan pengakuan."
 
 "Dan kalau kelaparannya selesai?" tanya Brannoc.
 

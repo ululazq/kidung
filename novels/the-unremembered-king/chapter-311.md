@@ -61,9 +61,9 @@ Kafilah itu berhenti di menara, dan Mira turun membawa dua benda: amplop bersege
 
 "Laporan yang tidak antre adalah laporan yang ditunggu. Seseorang di Spire tahu laporan ini akan datang sebelum laporan ini datang." Kovan menatap amplop itu. "Kita tidak mengirim laporan. Kita mengirim umpan yang kebetulan berbentuk laporan."
 
-Maera membuka amplop. Isinya satu halaman: panggilan saksi. Panitia verifikasi Guild meminta keterangan lisan dari Mira, perawat menara, tentang anomali angin di celah menara utara. Tempat pemeriksaan: Anthema Spire. Waktu: sepuluh hari dari tanggal surat.
+Maera membuka amplop. Isinya satu halaman: Witness Summons. Panitia verifikasi Guild meminta keterangan lisan dari Mira, perawat menara, tentang anomali angin di celah menara utara. Tempat pemeriksaan: Anthema Spire. Waktu: sepuluh hari dari tanggal surat.
 
-"Panggilan saksi," kata Maera. "Mereka tidak menolak angin. Mereka meminta orangnya."
+"Witness Summons," kata Maera. "Mereka tidak menolak angin. Mereka meminta orangnya."
 
 Mira membaca surat itu sampai habis, lalu melipatnya mengikuti bekas lipatan semula. "Aku naik ke Spire?"
 
@@ -71,21 +71,21 @@ Mira membaca surat itu sampai habis, lalu melipatnya mengikuti bekas lipatan sem
 
 Sela membuka kain tenun. Di dalamnya ada selembar catatan kecil, tulisan Ossian, miring, ditulis cepat seperti orang yang tidak ingin tulisannya dikenali:
 
-*Mira — panggilan saksi adalah prosedur, tetapi prosedur tidak lahir dari udara. Laporanmu dibaca baris arsip lebih dulu, sebelum panitia. Baris arsip tahu katup menara itu ada. Ia tidak akan bertanya apakah angin itu nyata. Ia akan bertanya apa yang kau rasakan. Jawab seperti mencatat: apa yang terlihat, bukan apa yang diduga. Jangan sebut kain. Jangan sebut katup. Sebut angin.*
+*Mira — Witness Summons adalah prosedur, tetapi prosedur tidak lahir dari udara. Laporanmu dibaca baris arsip lebih dulu, sebelum panitia. Baris arsip tahu katup menara itu ada. Ia tidak akan bertanya apakah angin itu nyata. Ia akan bertanya apa yang kau rasakan. Jawab seperti mencatat: apa yang terlihat, bukan apa yang diduga. Jangan sebut kain. Jangan sebut katup. Sebut angin.*
 
 Ashvarok-Renn membaca catatan itu, lalu menyerahkannya kembali kepada Sela.
 
-"Ossian benar," katanya. "Panggilan saksi bukan tanya jawab. Panggilan saksi adalah pembacaan. Mereka akan membaca Mira seperti kita membaca papan: tiga, angin selatan ke utara. Yang mereka cari bukan jawaban. Mereka mencari irama yang cocok dengan angka yang sudah mereka pegang."
+"Ossian benar," katanya. "Witness Summons bukan tanya jawab. Witness Summons adalah pembacaan. Mereka akan membaca Mira seperti kita membaca papan: tiga, angin selatan ke utara. Yang mereka cari bukan jawaban. Mereka mencari irama yang cocok dengan angka yang sudah mereka pegang."
 
 "Berarti mereka sudah punya angka," kata Kovan. "Mereka ingin mencocokkan."
 
-Ia menatap catatan Ossian sekali lagi. "Arsip menara tua dulu dipegang Pembaca Tua. Setelah jabatan itu selesai, arsipnya berpindah ke Akademi Arsip kita. Tetapi yang membaca lebih dulu bukan kita." Ia berhenti. "Yang membaca lebih dulu adalah baris yang masih punya salinan arsip itu di Spire."
+Ia menatap catatan Ossian sekali lagi. "Arsip menara tua dulu dipegang the Old Reader. Setelah jabatan itu selesai, arsipnya berpindah ke the Archive Academy milik kita. Tetapi yang membaca lebih dulu bukan kita." Ia berhenti. "Yang membaca lebih dulu adalah baris yang masih punya salinan arsip itu di Spire."
 
 "Berarti baris itu masih ada," kata Maera. "Walaupun jabatannya selesai, yang memegang catatannya tetap membaca. Ia membaca sebelum panitia, sebelum Dewan, sebelum siapa pun yang menunggu giliran. Itu cara garis tua bekerja: membaca tidak menunggu izin."
 
 Ashvarok-Renn tidak menjawab. Ia menatap peta angin yang masih menempel di papan, garis benang yang ditarik lurus dari barak ke menara, lalu ke titik besar Spire. Katup di menara dibuka oleh tangan yang memegang arsip. Laporan ini tidak menutup katup. Laporan ini hanya memberi nama pada angin yang melewatinya.
 
-"Panggilan saksi adalah prosedur," katanya akhirnya. "Prosedur membaca orang seperti kita membaca papan. Biarkan mereka membaca. Yang harus kita jaga bukan isi pembacaan. Kita jaga irama yang dibawa Mira: tiga, angin selatan ke utara. Selama angin itu yang ia bawa, pembacaan tidak bisa menjadi sesuatu yang lain."
+"Witness Summons adalah prosedur," katanya akhirnya. "Prosedur membaca orang seperti kita membaca papan. Biarkan mereka membaca. Yang harus kita jaga bukan isi pembacaan. Kita jaga irama yang dibawa Mira: tiga, angin selatan ke utara. Selama angin itu yang ia bawa, pembacaan tidak bisa menjadi sesuatu yang lain."
 
 ---
 
@@ -109,7 +109,7 @@ Mira menunggu.
 
 "Jawab apa yang kau catat. Angin masuk dari selatan saat dentum keras. Angin keluar ke selatan saat dentum pelan. Itu semua. Tiga ketuk, satu diam. Diam itu bukan kosong. Diam itu yang kau tahan. Kalau pertanyaan datang dan kau tidak tahu jawabannya, tahan diamnya. Diam yang ditahan lebih jujur daripada jawaban yang diisi karena takut sunyi."
 
-Mira menghafal itu seperti menghafal irama. Tiga ketuk, satu diam.
+Mira menghafalnya sebagai irama: tiga ketuk diikuti satu diam.
 
 Ibu Tamma datang dari dapur membawa botol sup hangat yang dibungkus kain. "Di jalan, makan dulu sebelum apa pun," katanya. "Bahkan sebelum menjawab pertanyaan. Meja makan lebih dulu."
 
@@ -141,6 +141,6 @@ Ia tidak menambah keterangan. Tidak perlu.
 
 Sore itu dentum keras datang, dan perawat itu mengetuk tiga kali lalu diam satu hentakan sebelum mencatat. Gerakan itu tidak ia pelajari dari buku. Ia mempelajarinya dengan meniru orang yang duduk di sebelahnya selama berbulan-bulan.
 
-Ia tidak pusing saat angin berbalik. Ia tidak pernah pusing. Ia mencatat karena menara butuh angka yang sama pada hari yang sama, dan angka itu tidak berubah karena tangan yang menulisnya berbeda. Tiga. Angin selatan ke utara. Halaman berikutnya akan ditulis oleh siapa pun yang duduk di kursi itu, dan angka itu akan tetap tiga.
+Ia tidak pusing saat angin berbalik. Ia tidak pernah pusing. Ia mencatat karena menara butuh angka yang sama pada hari yang sama, dan angka itu tidak berubah karena tangan yang menulisnya berbeda. Tiga. Angin bergerak dari selatan menuju utara. Halaman berikutnya akan ditulis oleh siapa pun yang duduk di kursi itu, dan angka itu akan tetap tiga.
 
 Angin masuk dari selatan, seperti biasa. Di Spire, satu halaman kosong menunggu di meja panitia. Angin belum berubah. Yang berubah, ia kini punya nama di kertas; nama itu punya alamat; dan alamat itu sedang bergerak ke utara — mengetuk tiga kali di kayu kafilah, diam satu hentakan, membawa satu nama yang tidak akan bisa disebut umur lagi.

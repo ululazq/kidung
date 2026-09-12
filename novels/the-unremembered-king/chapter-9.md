@@ -3,106 +3,308 @@ title: "Bab 9: Jasa Ramal Tambang"
 chapter: 9
 ---
 
-Pasar cinder-glass Caldrest dibuka saat kabut masih menempel di lereng, dan tutup sebelum matahari tinggi, karena kaca-batu yang terlama dipanaskan matahari mulai berbisik — begitu kata para pedagang, dan untuk sekali ini orang-orang yang menghitung untung tidak berbohong. Ashvarok datang saat gerbang kayu baru terbuka seperempat, dengan karung batu biasa di punggung, Sela di sampingnya membawa papan tulis kecil seperti senjata yang tidak perlu dibunuh untuk terlihat berbahaya.
+Lima fragmen cinder-glass beradu di dasar karung setiap kali Ashvarok melangkah.
 
-"Aturan pasar," kata Sela, menghitung barisan meja tanpa menoleh. "Jangan bilang harga duluan. Jangan sentuh barang sebelum ditawarkan. Dan kalau pedagang pura-pura tidak lihat kita, artinya dia sudah didekati pembeli lebih besar — tunggu dia lelah."
+Bunyinya tipis. Terlalu jernih untuk batu buangan, terlalu kusam untuk meja Assayers' Guild. Cukup bagus bagi pasar Caldrest, tempat mutu ditentukan oleh siapa yang paling lama sanggup menatap tanpa berkedip.
 
-"Kamu belajar itu dari mana?"
+Kabut Hari Kesembilan belum terangkat dari atap-atap seng. Gerbang pasar baru dibuka separuh, tetapi para pedagang sudah memancang kain peneduh. Cahaya pagi yang mengenai tumpukan cinder-glass pecah menjadi garis merah, kuning, dan hitam di tanah.
 
-"Dari ikut kamu beli sayur tiga tahun." Dia mengetuk papan tulisnya, dan ketukan itu terdengar seperti denyut kecil, pasti. "Angka hari ini: kita butuh minimal dua puluh shardmark agar minggu pertama pekerjaan sampinganmu tidak bohong."
+Sela berjalan di sisi Ashvarok. Rambutnya terikat tali kaca. Papan tulis kecil terjepit di ketiak.
 
-Dua puluh. Ashvarok menyimpan angka itu di tempat angka lain disimpan — di dekat nama-nama yang masih ia ingat, dan di dekat yang sudah ia lupa — lalu mulai berjalan menuju tujuan yang sudah ia tandai sejak kemarin.
+"Lima fragmen buat dijual," katanya. "Empat seam-bone buat Quota Office. Jangan tertukar."
 
-Pasar itu sendiri adalah kota kecil dengan hukum sendiri. Deretan meja membentuk tiga lorong — lorong fragmen mentah untuk pedagang besar, lorong barang jadi untuk lampu dan jendela, dan lorong tepi tempat penjual tanpa meja berdiri dengan karung dan harapan. Di lorong pertama, dua pemegang lisensi Assayers' Guild memakai stempel lilin ungu mereka seperti hak kelahiran, menimbang ulang setiap karung yang mau masuk harga resmi. Di lorong tepi, tidak ada yang menimbang apa pun; di sinilah kemiskinan saling menilai dengan mata telanjang. Ashvarok memilih lorong tepi sebagai jalan masuk dan lorong pertama sebagai tujuan akhirnya — karena satu-satunya cara masuk pasar resmi tanpa lisensi adalah membuat pasar resmi butuh padamu.
+"Aku bisa menghitung sampai sembilan."
 
-Tujuannya — meja Vosk, penengah kelas dua, orang yang membeli apa pun selama marginnya ada dan mulutnya rapat.
+"Kemarin kamu bilang seorang raja pernah salah menghitung tiga belas provinsi."
 
-Vosk adalah pria gendut dengan jari-jari yang selalu dingin karena kebiasaan mencelupkan ujungnya ke air kembang tawar — cara orang kota menjaga tangan tetap bersih dari debu tambang, dan cara penengah menjaga tangannya bebas dari segala sesuatu yang bisa dibaca. Ia melihat karung Renn, lalu melihat wajah bocah itu, dengan urutan yang memberi tahu Ashvarok mana yang dinilai duluan.
+"Itu bukan aku. Itu penerus yang tidak kompeten."
 
-"Anak lorong tujuh," kata Vosk. "Yang selamat. Kabar jalan-jalan cepat di kota kecil."
+Sela memandangnya dari samping. Ashvarok tidak menjelaskan lebih jauh. Penjelasan hanya membuat kebohongan membutuhkan kaki tambahan.
 
-"Kabar juga bawa untung kalau mau." Ashvarok meletakkan lima fragmen di atas kain meja — bukan yang terbaik. Yang terbaik sedang menunggu di karung bagian dalam untuk tuas yang lebih mahal. "Tulang seam, kelas atas bawah. Bukan hasil bor. Cium saja, tidak ada minyak asah."
+Mereka masuk bersama arus buruh shift malam, pemilik lubang sewaan, dan pembeli yang membawa timbangan sendiri. Pasar cinder-glass menempati bekas halaman peleburan. Tungku-tungku mati menjadi kios. Rel tua dipakai sebagai batas lorong. Di dekat gerbang, dua petugas Guild menguji fragmen mahal dengan resonance fork. Di bagian belakang, orang menguji barang murah dengan kuku, gigi, atau keyakinan.
 
-Vosk mengambil satu fragmen dengan dua jari dinginnya, mengangkat ke matahari yang belum cukup tinggi untuk berbahaya, dan diam selama waktu yang membuat Sela menggigit bibirnya dari samping.
+Ashvarok memilih lorong belakang.
 
-"Retakannya mati," kata Vosk akhirnya. "Gema rendah. Sepuluh shardmark semuanya."
+Tubuh Renn masih ringan setelah Cinder tier-nol membakar tenaga setara satu hari makan. Karung itu tidak berat, tetapi tali pada bahunya terasa seperti kawat. Ia mengubah posisi beban sebelum Sela sempat melihat.
 
-"Sembilan belas. Dan aku bukan penjual yang butuh cepat — aku anak kontrak yang kuotanya naik seperempat, artinya aku akan turun lagi minggu depan dan minggu depannya juga. Kamu bisa beli dari aku tiap minggu, atau beli dari orang lain sekali." Ashvarok tidak menggerakkan fragmen itu sedikit pun — tangan, mata, bahkan napas tidak bergoyang. "Sepuluh itu harga orang panik. Aku tidak panik. Aku selamat dari lorong amblas."
+"Vosk di sana," kata Sela.
 
-"Kelihatannya." Sudut mulut Vosk naik milimeter. "Empat belas."
+Penengah itu duduk di balik meja rendah, tubuhnya mengisi kursi dan sebagian jalan keluar. Semangkuk air kembang tawar berada di kanan timbangan. Setiap beberapa saat ia mencelupkan ujung jarinya, lalu mengeringkannya pada kain putih. Kebiasaan orang yang menyentuh batu milik banyak pihak dan tidak ingin debu satu penjual melekat pada barang penjual berikutnya.
 
-"Tujuh belas, dan satu pertanyaan gratis."
+Vosk melihat Sela lebih dulu, lalu karung, baru Ashvarok. Urutan yang masuk akal. Anak dengan papan catatan lebih berbahaya daripada anak dengan batu.
 
-Pedagang itu tertawa pendek, bunyinya seperti karung diduduki. "Kamu aneh, anak tambang. Baik. Tujuh belas, pertanyaanmu."
+"Renn dari the Quiet Vein," katanya. "Orang mulai ingat namamu."
 
-Ashvarok mencondongkan tubuh, dan suaranya turun sampai hanya cukup untuk dua telinga plus satu papan tulis yang pura-pura mencatat di kejauhan.
+"Itu biasanya tidak lama."
 
-"Pertanyaannya, kalau ada foreman kecil atau pemilik lubang sewaan yang mau tahu retakan mana di klaimnya yang punya gema dan retakan mana yang bakal amblas sebelum musim hujan abu — di mana dia cari orang yang bisa bacakan?"
+Ashvarok menaruh lima fragmen di atas kain hitam. Bentuknya tidak beraturan, masing-masing sepanjang ruas jari. Ia telah membersihkan lumpur, tetapi membiarkan kerak abu di satu sisi. Batu yang terlalu bersih akan mengundang tuduhan sebagai barang curian.
 
-Pasar bergerak mengelilingi keheningan mereka: tawar-menawar, gemuruh troli, terompet shift kedua. Vosk menaruh fragmen itu pelan-pelan, dan pagi itu, untuk sesaat, melihat wajah bocah itu lebih lama daripada barangnya.
+Vosk mencelupkan jari. Dingin menempel saat ia mengambil fragmen pertama. Ia memutarnya ke cahaya, mengetuk ujungnya pada anak timbangan, lalu melakukan hal yang benar-benar berguna: menutup satu telinga dan mendengarkan.
 
-"Itu bukan jualan barang," katanya. "Itu jualan mata."
+"Lima keping kelas bawah," katanya. "Sepuluh shardmark."
 
-"Iya."
+Sela menggeser kapur di antara jari. Tidak menulis.
 
-Di meja sebelah, seorang pembeli tua sedang memeriksa cinder-glass dengan cara yang membuat Ashvarok mengamati balik: pencahayaan lilin dari bawah, putaran perlahan, telinga mendekat di akhir — orang yang membaca gema dengan alat, bukan bakat, cara zaman ini meniru apa yang dulu bisa dilakukan anak-anak era Hegemony tanpa berdiri. Pasar ini penuh bahasa yang setengah dilupakan; hanya pelakunya yang sudah berganti.
+Ashvarok berkata, "Sembilan belas."
 
-"Yang bayar jasa begini biasanya orang yang takut rugi lebih besar dari harga takutnya. Mereka juga biasanya tidak mau nama mereka nyambung ke ramalan." Jari dingin itu mengetuk meja tiga kali, ritme penengah menghitung persentase. "Lima belas persen buatku, dan kamu bukan peramal. Kamu 'technical reader' — kata itu punya izin, ramal tidak. Klien datang lewat aku, bayaran lewat aku, dan kamu tidak pernah tahu siapa mereka. Itu bagian yang membuat semua orang tetap hidup."
+Vosk mengangkat alis. "Aku belum sarapan. Jangan buat aku tersedak udara."
 
-"Delapan persen, dan klien pertama gratis untukku. Aku butuh nama baik lebih daripada aku butuh potonganmu minggu ini."
+"Seratnya utuh. Tidak direndam minyak agar berkilau. Dua punya jejak resonant seam. Kamu bisa pecah jadi keping uji dan menjualnya lebih mahal dari bentuk sekarang."
 
-Vosk menatapnya lama, lalu menoleh sebentar ke arah Sela yang sengaja mendongak ke langit.
+"Kalau aku melakukan kerja pecahnya."
 
-"Kamu bawa adik sendiri sebagai saksi harga?" katanya pelan. "Cara lama penjual ikan. Oke — delapan persen, klien pertama kamu pilih. Namun satu syarat, anak muda: apa pun yang kamu bacakan, jangan pernah janji. Angka boleh. Janji membuat orang balik minta ganti rugi, dan ganti rugi di kota ini dibayar dengan darah."
+"Kamu akan menyuruh orang lain."
 
-Sebelum meninggalkan pasar, Ashvarok menyelesaikan urusan yang lebih penting dari semua yang tadi. Di meja petugas keliling Quota Office yang ditempatkan di gerbang timur untuk menerima setoran fragmen premium, ia menyerahkan empat tulang seam terbaik dari karung bagian dalam — disegel kain, ditimbang, dicatat dalam buku setoran dengan tarif yang sudah dinaikkan surat edaran. Petugas itu mencocokkan berat dengan daftar kuotanya.
+Jari Vosk berhenti di atas mangkuk. Orang di meja sebelah menawar bongkah lampu dengan suara keras. Roda troli berdecit di belakang mereka. Tak satu pun menutupi jeda kecil ketika penengah memutuskan apakah bocah kurus di depannya berani atau sekadar bodoh.
 
-"Renn. Lorong tujuh." Petugas membaca nama dari bukunya seperti membaca barang. "Kesepakatan overseer?"
+"Empat belas," kata Vosk.
 
-"Iya."
+"Tujuh belas. Ditambah satu jawaban."
 
-"Kamu setor empat. Overseer biasanya minta lima."
+"Jawaban untuk apa?"
 
-"Overseer juga bilang tarif premium." Ashvarok membiarkan hening bekerja sebentar. "Hitungan lima fragmen kelas ini tidak akan beda jauh sama empat plus nama baik anak yang setor duluan tanpa disuruh dua kali."
+"Belum kutanyakan."
 
-Petugas itu mendongak sekali, menilai bocah kurus dengan karung batu yang berani menghitung ulang kesabaran atasannya, lalu menandai bukunya. "Setoran lengkap," katanya, dan bunyi stempel lilin hitam itu adalah suara paling murah yang pernah membeli keselamatan seorang raja.
+Vosk mengambil fragmen kedua. Ketukan kali ini lebih pelan. Ia sudah mendengar apa yang dimaksud Ashvarok, meski barangkali tidak tahu namanya.
 
----
+"Tujuh belas," katanya. "Satu jawaban pendek. Kalau pertanyaanmu bodoh, jawabanku lebih pendek."
 
-Klien pertama datang sore yang sama, lebih cepat daripada yang Ashvarok hitung, yang berarti kemiskinan Caldrest lebih efektif daripada semua iklan.
+Lima keping logam berpindah dulu, disusul satu lempeng bernilai dua belas. Sela menghitung semuanya di depan Vosk. Tidak sopan, tetapi kemiskinan jarang diberi kemewahan untuk sopan.
 
-Seorang foreman lubang sewaan dari distrik barat — pria kurus dengan tiga puluh persen seragam resmi dan sisanya harapan — datang lewat Vosk dengan langkah orang yang sudah kehabisan opsi tetapi belum kehabisan utang. Klaimnya — satu lubang tua kelas empat, kuota naik, timnya tinggal enam hari sebelum kontrak berlapis menyedot jaminan alat mereka.
+Ashvarok memasukkan uang ke saku dalam.
 
-"Mereka bilang kamu bisa membaca batu," kata foreman itu. Tangannya gemetar bukan karena takut tetapi karena kopi murah. "Aku tidak percaya ramal-ramalan. Namun Vosk bilang kamu bukan peramal."
+"Di pasar ini," katanya, "siapa yang mempertemukan pemilik lubang kecil dengan pembaca retakan?"
 
-"Bukan. Aku technical reader." Ashvarok memeriksa tiga keping sampel yang dibawa foreman itu, satu per satu, dengan telapak tangan dan ketukan jarinya, lalu meletakkannya berderet di meja Vosk. "Keping satu. Gema mati, jangan buang tenaga. Keping dua. Gema tipis tetapi hidup — ikuti arah retaknya tiga hasta ke selatan, ada cabang. Keping tiga—" ia menahan diri untuk tidak tersenyum pada kebenaran yang enak dibaca, "—keping ini dari lorong yang dalam enam puluh hari akan amblas. Bukan bahaya besok. Namun jangan bekerja bagian situ saat musim hujan abu."
+Vosk menunggu. Jarinya masuk ke air kembang tawar lagi.
 
-"Amblas?" Foreman itu mengecek keping ketiga seperti mengecek mata uang palsu. "Dasarnya kokoh, memang begitu."
+"Guild."
 
-"Air formasi tidak peduli dasarnya kokoh. Dia makan sambungannya." Ashvarok mengulurkan tangan. "Bayaran depan. Delapan persen Vosk sudah termasuk, dia yang nanti tagih saya."
+"Guild memeriksa klaim besar. Pemilik lubang kelas empat menunggu dua pekan dan membayar lebih dari nilai hasilnya. Aku bertanya tentang mereka yang tidak bisa menunggu."
 
-Uang yang masuk malam itu — setelah potongan penengah, setelah dua shardmark "biaya surat" yang tidak pernah ada suratnya — adalah sebelas shardmark dari satu jam membaca. Sebelas. Hampir separuh target mingguan Sela, dari satu klien, dan klien itu sudah bertanya kapan bisa datang lagi dengan sampel yang lebih banyak.
+"Mereka menyewa penipu."
 
-Ashvarok menghitung ulang neraca hari itu di jalan pulang, dan menemukan dirinya nyaris tersenyum pada ironinya. Seribu tahun lalu, kekayaan Karvess diukur dengan berapa provinsi yang membayar upeti sebelum musim tanam. Hari ini, kekayaan yang sama diukur dengan sebelas keping logam kecil hasil mendengarkan batu bercerita — dan jujur saja, sistem yang sekarang lebih sulit ditipu.
+"Sekarang mereka bisa menyewa aku."
 
-Yang tidak bisa dihitung ulang adalah sisa lemak tubuh Renn, yang belum bertambah meski dompet mulai berisi. Makan malam nanti harus tiga porsi, dan harga tiga porsi harus masuk hitungan besok juga, dan besoknya lagi. Kekuatan yang tumbuh dari tubuh bocah kelaparan ternyata bukan tangga. Itu tangga yang tiap anak tangganya dimakan setelah dipijak.
+Sela menunduk ke papan tulis. Kapurnya bergerak sekali: satu garis pendek, mungkin angka, mungkin peringatan.
 
-Di jalan pulang gang menuju barak, Sela membuka papan tulisnya di bawah lampu jalan yang setia menyala setengah.
+Vosk bersandar. Lemak di lehernya berlipat di atas kerah. "Kamu baru menjual lima fragmen kelas bawah. Sekarang mau menjual mata?"
 
-"Enam belas koma lima bersih hari ini," katanya, menulis. "Tambah lima upah shift, dua puluh satu koma lima. Target dua puluh lewat." Dia berhenti menulis, mendongak, dan wajahnya menunjukkan pertanyaan nomor tiga yang khas. "Renn. Yang kamu membaca di keping ketiga itu — amblas enam puluh hari — itu hitungan atau firasat?"
+"Bukan mata. Bacaan teknis. Sampel dibawa tanpa nama. Aku baca arah gema, air formasi, sambungan mati, dan risiko runtuh. Kamu atur orang dan bayaran."
 
-"Hitungan."
+"Ramal tambang."
 
-"Hitungannya pakai apa?"
+"Sebut itu di dekat petugas Guild dan meja ini hilang sebelum siang."
 
-Ashvarok memandangi adik angkatnya di bawah lampu yang setengah mati, dan memilih memberi sesuatu yang benar, karena anak itu sudah terlalu sering membeli kebohongan parsial dengan iman penuh.
+Vosk tersenyum kecil. "Technical reader. Itu istilah yang cukup membosankan untuk terdengar resmi."
 
-"Pola," katanya. "Batu yang sakit kelihatan sama seperti orang sakit kalau kamu rajin lihat. Aku rajin lihat."
+Ia menarik kain hitam menutupi lima fragmen yang baru dibeli. Gerakannya lambat, memberi waktu pada hitungan di kepalanya.
 
-"Dan kalau ada batunya yang tidak bisa kamu membaca?"
+"Lima belas persen," katanya. "Klien anonim. Mereka tidak tahu asalmu, kamu tidak simpan nama mereka, semua urusan lewat aku. Kamu juga dilarang berjanji. Tidak ada ‘pasti kaya’, tidak ada ‘pasti aman’. Angka boleh. Arah boleh. Janji tidak."
 
-"Ada satu," kata Ashvarok, dan kalimat itu keluar lebih jujur dari rencananya. "Kedalaman tertentu. Batu di sana tidak bicara. Dia bernyanyi."
+"Delapan persen."
 
-Sela menatapnya tiga detik penuh, lalu mencatat sesuatu yang pendek di pojok papan tulis, dan menutupnya.
+"Dua belas."
 
-"Kalau begitu besok aku ikut lagi," katanya. "Orang sakit juga butuh yang tidak hanya rajin lihat. Butuh yang menghitung obatnya."
+"Delapan. Aku yang menanggung salah baca. Kamu hanya menyediakan meja dan wajah yang sudah dikenal orang."
+
+"Wajah dikenal itu mahal."
+
+"Wajahmu cukup besar. Bukan berarti nilainya dua belas persen."
+
+Sela menutup mulut dengan punggung tangan. Batuknya tidak meyakinkan.
+
+Mata Vosk menyempit, tetapi suaranya tetap rata. "Sepuluh."
+
+Ashvarok mengambil satu langkah mundur. "Aku bisa bertanya di lorong depan."
+
+"Tidak dengan pakaian itu."
+
+"Besok pakaianku masih sama. Kebutuhan mereka juga."
+
+Vosk mengetuk meja dengan tiga jari dingin. Sekali. Dua kali. Tiga kali.
+
+"Delapan," katanya. "Klien tetap anonim. Dilarang berjanji. Bayaran lewat aku. Kalau kamu membuat orang mati, aku tidak pernah mengenalmu."
+
+"Kalau bacaanku menyelamatkan orang, kamu akan bilang sudah mengenalku sejak lahir."
+
+"Tentu. Itu fungsi penengah."
+
+Sela mencatat angka delapan dalam lingkaran. Kesepakatan lahir tanpa segel, tetapi disaksikan pasar. Di Caldrest, saksi yang berharap laba sering lebih dapat dipercaya daripada lilin.
+
+Mereka meninggalkan meja Vosk setelah ia berjanji mencari klien pertama. Ashvarok tidak memberinya janji balik.
+
+Meja setoran Quota Office berdiri dekat gerbang timur, di bawah papan bertuliskan TARIF PREMIUM BERLAKU. Petugasnya duduk di balik sangkar kawat. Di sebelah tangannya ada buku besar, timbangan pegas, dan stempel besi yang diikat rantai.
+
+Ashvarok mengeluarkan bungkusan kedua.
+
+Empat seam-bone terbaring di kain kelabu. Warnanya pucat dengan garis gelap di tengah, seperti ruas tulang yang dibelah rapi. Kel Tharrow meminta setoran sebelum survei Guild. Setoran memuaskan membuat kuota dianggap tercapai. Lebih penting lagi, nama Sela keluar dari jaminan kontrak berlapis untuk putaran ini.
+
+Petugas menimbang setiap keping. Jarum bergerak, berhenti, bergerak lagi.
+
+"Empat," katanya.
+
+"Empat premium."
+
+"Overseer biasanya meminta lima."
+
+Ashvarok menunjuk papan tarif. "Papan itu tidak bilang lima."
+
+"Papan itu juga tidak mengenal kebiasaan overseer."
+
+"Buku perjanjian mengenalnya. Lihat nama Renn, catatan Hari Kedelapan. Setoran seam-bone premium sebelum survei. Tidak ada jumlah lima."
+
+Petugas membuka buku lain dengan enggan. Sela mendekat ke kawat, papan tulis siap. Halaman bergeser. Debu naik. Jari petugas berhenti pada satu baris.
+
+"Kesepakatan khusus," gumamnya.
+
+"Tandai lengkap."
+
+Petugas memeriksa empat keping itu sekali lagi, seolah jumlahnya mungkin bertambah karena dipelototi. Lalu ia mencelupkan pena.
+
+"Empat seam-bone. Kelas premium. Setoran lengkap."
+
+"Tanda terima. Nilai dan tanggal."
+
+"Aku tahu caranya bekerja."
+
+"Bagus. Jadi tidak akan lama."
+
+Stempel menghantam kertas. Petugas menulis nilai setoran, Hari Kesembilan, lalu mendorong lembar itu melewati celah kawat. Ashvarok membacanya sampai baris terakhir. Nama Renn tercantum. Status lengkap tercantum. Empat fragmen tercantum. Sela juga membaca, lebih lambat tetapi tidak kurang teliti.
+
+Ia melipat tanda terima dua kali dan menyimpannya di balik papan tulis.
+
+"Kalau hilang, aku hafal angkanya," katanya.
+
+"Kalau kita hilang, angka itu tidak banyak membantu."
+
+"Makanya jangan hilang."
+
+Saat mereka kembali ke lorong Vosk, penengah itu sudah menunggu dengan seorang pria tanpa tanda nama.
+
+Pria tersebut mengenakan jaket mandor yang lengan kanannya ditambal kain penambang biasa. Debu abu di sepatu menunjukkan distrik barat. Ia membawa kotak kayu kecil dengan tiga ruang. Di tiap ruang terletak satu keping sampel dibungkus jerami.
+
+Vosk menurunkan kain samping kios. Keramaian pasar masih terdengar, tetapi wajah mereka tertutup dari lorong.
+
+"Klien pertama," katanya. "Mandor lubang sewaan kelas empat. Nama tidak perlu."
+
+Mandor itu menaruh kotak di meja. "Kontrak alatku jatuh enam hari lagi. Kalau lubang ini kosong, pemberi sewa ambil penyangga, bor, dan pompa. Aku tidak mau dongeng."
+
+"Bagus," kata Ashvarok. "Dongeng lebih mahal."
+
+Pria itu tidak tertawa. "Vosk bilang kamu bisa baca tiga sampel."
+
+"Aku bisa membaca yang dibawa. Hasilnya mungkin tidak kamu suka. Bayaran tidak berubah."
+
+"Dan kamu menjamin?"
+
+"Tidak."
+
+Vosk mengangguk kecil. Syarat pertama sudah dipatuhi.
+
+Ashvarok membuka ruang pertama. Kepingnya hitam kusam, tepinya berkilau karena baru dipahat. Ia menaruh dua jari pada permukaan. Resonansi kecil masuk melalui kulit: tekanan, usia, jalur yang sudah putus. Tidak ada jawaban dari kedalaman, hanya sisa benturan alat.
+
+Ia mengetuknya sekali.
+
+"Gema mati," katanya. "Jangan gali jalur asal keping ini. Batu di belakangnya habis atau terpotong patahan tua. Keduanya sama-sama membuang upah."
+
+Rahang mandor mengeras. "Timku sudah dua hari di sana."
+
+"Berhenti hari ini."
+
+Keping kedua lebih tipis. Ada getar lemah, hampir tertutup gurat bor. Ashvarok memutarnya. Garis mineral di sisi bawah membelok sedikit.
+
+"Ini hidup," katanya. "Tipis, tetapi tersambung. Cabangnya tiga hasta ke selatan dari titik ambil. Jangan ikuti muka lurus. Belok setelah lapis abu keras."
+
+Mandor membungkuk, menatap arah jari Ashvarok. "Kenapa selatan?"
+
+"Karena tekanan dari utara menutup pori. Serpih ini pecah ke sisi yang masih memberi ruang."
+
+Jawaban itu cukup benar untuk alat Guild dan cukup sederhana untuk orang yang harus memberi perintah sebelum shift berikutnya.
+
+Ashvarok menyentuh keping ketiga.
+
+Dingin naik ke pergelangan. Bukan dingin udara. Air formasi telah masuk melalui sambungan batu, sedikit demi sedikit, menggerus perekat mineral. Di bawah semua itu ada nada rendah yang patah setiap tujuh denyut. Struktur masih menahan beban. Belum gagal. Namun setiap hujan abu menambah tekanan pada jalur yang sama.
+
+Ia menarik tangannya.
+
+"Dari bagian terdalam?"
+
+Mandor itu mengangguk. "Dasarnya paling kokoh."
+
+"Permukaan kokoh. Sambungannya dimakan air formasi. Dalam enam puluh hari bagian itu amblas. Pasang tanda sekarang. Saat hujan abu datang, jangan biarkan siapa pun masuk."
+
+"Enam puluh?"
+
+"Lebih cepat jika pompamu mati. Enam puluh hari batas akhirnya, bukan janji batu akan menunggu."
+
+Mandor mengambil keping itu, membaliknya, lalu meletakkannya lagi. "Kalau kamu salah, aku meninggalkan jalur terbaikku."
+
+"Kalau aku benar dan kamu mengabaikannya, kamu meninggalkan orang di bawah sana. Pilih kerugian yang bisa dihitung."
+
+Keheningan bertahan sampai Vosk berdeham. Mandor mengeluarkan kantong uang. Ia menghitung pembayaran di meja. Vosk mengambil potongan delapan persen dan biaya surat yang namanya lebih besar daripada pekerjaannya. Sebelas shardmark bersih berpindah ke tangan Ashvarok untuk tiga bacaan.
+
+Mandor memasukkan sampel kedua dan ketiga ke kotak. Sampel pertama ia biarkan.
+
+"Buang," katanya. "Aku sudah bayar terlalu mahal untuk batu mati."
+
+"Kamu membayar agar tidak menggali kubur," kata Ashvarok.
+
+Pria itu berhenti sebelum membuka kain kios. "Kalau cabang selatannya ada, aku bawa sampel lagi."
+
+Vosk menjawab lebih dulu. "Lewat aku. Tanpa nama."
+
+Itu bukan iklan, tetapi dua pedagang di lorong sebelah mendengarnya. Sebelum Ashvarok pergi, satu orang sudah bertanya kepada Vosk apa arti technical reader. Vosk menjelaskan dengan suara cukup pelan untuk tampak rahasia dan cukup keras untuk menjangkau tiga kios.
+
+Jalur itu hidup.
+
+Malam turun saat Ashvarok dan Sela meninggalkan pasar. Lampu-lampu cinder-glass di tepi jalan menyala merah redup. Sela berjalan sambil menulis. Kapur bergerak cepat: uang fragmen, ongkos makan, kewajiban barak, bagian yang tidak boleh disentuh, bayaran bacaan.
+
+"Kas hari ini dua puluh satu setengah shardmark," katanya. "Enam belas setengah yang bersih dari pasar setelah semua yang harus keluar. Tambah lima upah shift yang belum dipakai."
+
+"Cukup?"
+
+"Untuk minggu ini." Sela menggarisbawahi angka itu. "Kalau kamu makan tiga porsi malam ini, masih cukup. Kamu makan tiga. Bukan dua lalu bilang lupa."
+
+Perut Renn menegang mendengar kata makan. Cinder telah mengambil satu hari makanan dari tubuh ini. Kekuasaan dahulu dibayar dengan tentara. Sekarang dibayar dengan bubur tambahan dan seorang anak sebelas tahun yang memeriksa mangkuk.
+
+Mereka memasuki gang menuju barak. Di belakang, pasar menutup satu lorong demi satu. Di depan, jendela the Quiet Vein memantulkan cahaya seperti gigi kusam.
+
+Sela menutup papan, lalu membukanya lagi.
+
+"Keping ketiga," katanya. "Kamu tidak melihat lubangnya. Kok bisa tahu enam puluh hari?"
+
+"Dari pola kerusakan."
+
+"Kenapa pola itu bicara ke kamu, bukan ke mandornya?"
+
+Pertanyaan pertama.
+
+"Dia mencari batu keras. Aku mencari sambungan yang lemah."
+
+"Kenapa kamu tahu cabang kedua tiga hasta ke selatan?"
+
+Pertanyaan kedua.
+
+"Arah pecahannya."
+
+Sela memperlambat langkah. "Kenapa waktu kamu pegang keping terakhir, tanganmu ikut dingin?"
+
+Pertanyaan ketiga.
+
+Ashvarok menyentuh saku dada. Pecahan cinder-glass dari perjanjian dengan Brannoc masih di sana. Tanda terima Quota Office yang disimpan Sela di balik papan tulis mengamankannya dari satu jenis jerat. Tidak ada kertas yang bisa melindunginya dari semua yang sedang bangun di bawah Caldrest.
+
+Namun kebohongan penuh telah kehilangan kegunaannya.
+
+"Batu tertentu bicara lewat tekanan," katanya. "Retak, air, panas, arah beban. Aku bisa mendengarnya lebih jelas daripada orang lain."
+
+Sela menunggu.
+
+Ashvarok menambahkan, "Di kedalaman tertentu, batu tidak bicara. Dia bernyanyi."
+
+Sela mengangkat papan ke bawah lampu. Ia menulis, `batu di kedalaman tertentu nggak bicara, dia nyanyi`, mengurung kalimat itu dalam kotak, lalu menambahkan angka delapan persen di sampingnya.
+
+"Besok aku ikut lagi," katanya. "Kalau batunya bernyanyi, tetap harus ada yang menghitung bayarannya."
+
+Ia melangkah menuju pintu barak.
+
+Ashvarok mengikutinya, dengan sebelas shardmark dari tiga bacaan di saku dan satu jalan baru menuju telinga seluruh Caldrest telah terbuka di belakang mereka.

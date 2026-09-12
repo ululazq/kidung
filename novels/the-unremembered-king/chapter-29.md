@@ -3,92 +3,230 @@ title: "Bab 29: Peta Perang Kecil"
 chapter: 29
 ---
 
-Dua hari istirahat yang dijanjikan Brannoc berakhir lebih cepat daripada janjinya, karena pada hari kedua, kabar besar turun dari Quota Office dan menempel di papan pengumuman dengan paku baru:
+Paku pada papan pengumuman masih mengilap. Surat yang ditahannya kering dan resmi, berbeda dari kayu lembap di belakangnya. Ashvarok membaca baris pertama sebelum kerumunan pekerja sempat rapat.
 
-> Atas dasar hasil investigasi runtuhan lorong utama dan rekomendasi Assayers' Guild, distrik timur the Underfold — termasuk galeri timur, lorong sebelas, dan seluruh jalur dasar — dinyatakan zona terbatas. Akses ditutup untuk semua pekerja kontrak. Operasi lanjutan akan dilakukan oleh tim khusus bersertifikat di bawah pengawasan Koordinasi Artefak Regional.
+> Atas dasar hasil investigasi runtuhan lorong utama dan rekomendasi Assayers' Guild, distrik timur the Underfold—termasuk galeri timur, lorong sebelas, dan seluruh jalur dasar—dinyatakan zona terbatas. Akses pekerja kontrak dihentikan. Operasi lanjutan dilaksanakan tim khusus bersertifikat di bawah Regional Artifact Coordination.
 
-Ashvarok membacanya tiga kali, dan setiap pembacaan memperjelas hal yang sama: mereka tidak sedang menutup tambang. Mereka sedang mengosongkan ruangan.
+Malam Hari 34 baru turun. Penutupan berlaku saat surat edaran menerima cap akhir esok sore, tetapi dua Shift Guard sudah berdiri di jalur timur. Satu memegang daftar nama; satu lagi mengukur kerumunan seperti memilih wajah yang layak diingat.
 
-Tim khusus bersertifikat itu sudah ada di Caldrest sejak seminggu lalu — orang-orang berjubah abu yang berpura-pura jadi pelayan, yang gerobaknya membawa peti-peti bersegel tin thread. Ashvarok sudah dua kali melihat salah satunya berdiri di depan Quota Office dengan papan catatan kecil, mencatat sesuatu tentang lalu-lalang distrik timur. Daftar empat ratus keluarga itu bukan pekerjaan yang bisa ditunggu, melainkan sedang disusun secara paralel. Survei Guild tinggal dua hari sebelum berangkat. Setelah itu, aula pengikat di bawah sana akan menjadi milik Ossian Vael tanpa satu pun saksi independen, dan pengikat Chorus-tier butuh waktu berminggu-minggu untuk pekerjaan yang sudah tertunda seribu tahun itu.
+Ashvarok pergi sebelum salah satu dari mereka melihatnya membaca untuk kedua kali.
 
-Artinya, ia punya dua hari. Dan karena jadwal musuh tidak pernah menghormati rencana siapa pun — pelajaran yang cukup mahal ia bayar sepanjang karier pertamanya — mungkin lebih sedikit daripada itu.
+Mereka tidak sedang menutup tambang. Mereka sedang mengosongkan panggung.
 
-Malam itu, di gudang perkakas tingkat dua, Ashvarok menyusun peta perang terkecil dalam sejarah kariernya — di atas papan tulis Sela, karena hanya papan itu yang bisa dihapus dalam tiga detik. Kapurnya berbunyi kering di kayu, dan bunyi itu terdengar terlalu kecil untuk ukuran keputusan yang sedang ditulisnya.
+Orang berjubah abu telah tiba lebih dulu. Peti bertin thread tersimpan di penginapan distrik atas. Daftar empat ratus keluarga sedang disusun. Begitu pekerja disingkirkan, aula pengikat di dasar akan menjadi ruang tanpa saksi, dan Ossian Vael dapat menyebut apa pun yang ditemukannya sebagai temuan pertama.
 
-Yang hadir: Brannoc, Maera Tull yang kebetulan belum pulang sampai besok pagi, dan — setelah perdebatan panjang yang dimenangkan oleh argumen "aku sudah tahu separuhnya dan sisa separuhnya akan aku ceritakan sendiri kalau kau diam" — Sela, dengan tugas resmi mencatat dan tugas tidak resmi menjaga pintu.
+Jendela yang tersisa bukan dua hari. Hanya malam ini dan satu shift sebelum cap turun.
 
-"Begini," kata Ashvarok. "Zona terbatas mulai esok pagi. Namun penutupan resmi baru efektif setelah surat edaran dicap — dan pencapan surat di Caldrest selalu sore, karena petugasnya setengah hari. Jadi kita punya jendela: besok subuh sampai sore. Satu shift."
+Gudang perkakas tingkat dua bau minyak tengik, kapur, dan kulit basah. Brannoc menutup pintu, lalu menyelipkan gagang palu di antara cincin pengunci. Maera meletakkan kotak ukur di meja. Ia belum mengenakan mantel perjalanan; kafilahnya baru berangkat pagi berikutnya. Sela duduk di atas peti paku dengan papan tulis di lutut.
 
-"Shift untuk apa?" tanya Brannoc.
+Ashvarok menggambar empat garis dengan kapur: lorong utama, lorong B, Quota Office, aula di dasar.
 
-"Dua hal. Pertama. Aku harus turun ke dasar sekali lagi, sebelum mereka masuk — memastikan kondisi segel dengan cara yang hanya bisa kulakukan. Kedua" — ia berhenti sebentar, menimbang berapa banyak kebenaran yang bisa dibagi di meja ini, lalu memilih jumlah yang biasa — "kedua, kita harus membuat kunjungan pertama tim khusus itu menjadi kunjungan yang gagal. Bukan dengan kekerasan. Dengan data."
+"Zona terbatas efektif setelah cap akhir," katanya. "Cap itu turun esok sore. Sampai saat itu, surat ini ancaman yang belum lengkap."
 
-Maera mendongak. "Data macam apa?"
+Brannoc mengunyah akar pahit. "Shift Guard sudah berjaga."
 
-"Kalian punya laporan surveiku. Lorong utama amblas, blok 14 disabotase, galeri timur rapuh. Kalau assayer pembanding datang kembali triwulan depan dan mencatat bahwa 'zona terbatas' ternyata stabil dan justru aktif secara gema — dunia akan bertanya kenapa tambang ditutup." Ia menatap Maera. "Kau bisa menulis sesuatu yang membuat penutupan ini terlihat seperti yang sebenarnya?"
+"Di jalur resmi." Ashvarok mengetuk lorong B. "Bukan di sini."
 
-Assayer muda itu diam sebentar, matanya menghitung. "Saya bisa menulis bahwa anomali L9B adalah fenomena berulang yang perlu dipantau jangka panjang oleh Guild — klasifikasi ilmiah yang melarang campur tangan pihak ketiga selama studi berlangsung. Doktrin the Resonant Choir bilang murmur semu tidak berbahaya; saya bisa memakai doktrin mereka sendiri sebagai perisai." Ia membuka buku hitamnya sebentar, memeriksa satu halaman, lalu menutupnya. "Namun ada batasnya, Renn. Klasifikasi itu sah selama data pendukung ada. Dan data pendukung harus diambil langsung dari dasar — titik ukur yang kamu tunjuk dulu. Tanpa bacaan baru dari sana, klaim 'fenomena berulang' saya hanya kata-kata."
+Maera mencondongkan tubuh. "Mereka akan menempatkan orang setelah inspeksi pertama."
 
-"Maka itu pekerjaan besok," kata Ashvarok. "Ambil data langsung dari dasar. Data yang membuat klaim 'murmur semu' kalian jadi senjata, bukan tempelan."
+"Karena itu kita bergerak sebelum inspeksi pertama."
 
-Brannoc, yang mengikuti separuh percakapan ini dengan kesabaran prajurit tua, akhirnya mengetuk meja.
+"Kita?" tanya Sela.
 
-"Aku tidak paham setengah dari yang kalian bahas," katanya. "Namun aku paham satu hal. Besok subuh kamu mau turun ke zona yang besok sore jadi milik orang-orang berjubah, dan kamu mau keluar sebelum mereka masuk. Itu berarti kamu butuh reguku di permukaan sebagai penunggu waktu, dan jalur keluar yang bukan lorong utama." Ia menatap papan tulis. "Lorong B."
+"Tiga cerita resmi. Empat orang yang membuatnya konsisten."
 
-"Lorong B," setuju Ashvarok.
+Ia menulis angka satu di sisi papan.
 
-"Pintunya yang ditutup itu masih bisa dibuka?"
+"Brannoc menjaga permukaan. Regumu bekerja di galeri barat, cukup dekat untuk mengawasi mulut lorong B tanpa terlihat melindunginya. Kalau ada orang turun sebelum jadwal, kau kirim tanda."
 
-"Sudah aku buka kemarin malam."
+"Jadwal resmi berkata lusa," kata Brannoc.
 
-Ruangan sunyi sebentar. Maera menatap Ashvarok dengan ekspresi orang yang baru menambahkan titik kelima di garisnya, dan kali ini garis itu tidak mengejutkannya lagi.
+"Ossian tidak percaya jadwal yang bisa dibaca orang lain."
 
-"Kalau begitu bagianku jelas," kata assayer itu bangkit. "Besok pagi, saat kalian di dasar, aku menyerahkan laporan penutupan komisi ke Quota Office secara personal — supaya jam serah terima tercatat resmi, dan kalau tim berjubah masuk duluan, itu tercatat sebagai pelanggaran prosedur Guild." Ia mengambil kotak kayunya. "Dan Renn. Ambil data apa pun yang kamu ambil itu secepatnya. Aku sudah melanggar banyak pasal demi kamu. Jangan buat pasal-pasal itu jadi sia-sia."
+"Masuk akal." Brannoc mengusap rahang. "Tanda apa?"
 
-"Satu lagi untukmu," kata Ashvarok menahannya sebentar. "Ketika tim berjubah itu datang — dan mereka akan datang lebih awal daripada jadwal resmi, karena orang yang menyusun rencana ini tidak percaya pada jadwal — mereka pasti membawa pengikat untuk memasang klaim atas seam. Pengikat butuh waktu bekerja. Selama prosesnya berjalan, gema seam akan terbaca oleh alat apa pun dalam radius lima puluh hasta." Ia menatap Maera dengan tegak. "Kalau kamu masih di Caldrest ketika itu terjadi, dan alatmu merekamnya... itu bukan murmur semu yang hilang. Itu rekaman langsung penyalahan klaim."
+"Tiga ketukan pada pipa angkut. Jeda. Dua ketukan. Kalau aku belum keluar menjelang tengah hari, tutup lorong B."
 
-Maera memandanginya lama. "Kamu mau aku merekam kejahatan mereka dengan alat Guild."
+Sela berhenti menulis. "Menutupnya saat kamu masih di dalam?"
 
-"Aku hanya mau kamu di tempat yang tepat, dengan alat yang nyala."
+"Kalau tim mereka sudah turun, pintu terbuka akan menjadi petunjuk."
 
-"Dan kalau mereka sadar alatku menyala?"
+"Bukan jawaban."
 
-"Maka mereka harus memilih dua hal yang sama-sama mahal. Diam seperti mereka mendiamkan saya, atau menambah satu nama di daftar yang harus dibungkam." Ashvarok menoleh ke Brannoc. "Dia paling aman di antara kita semua, foreman. Orang berjubah tidak bisa menghilangkan assayer Guild tanpa membuat seluruh Guild menjadi saksi."
+Ashvarok menatapnya. "Ya. Tutup meski aku masih di dalam."
 
-Brannoc mengunyah akar pahitnya pelan-pelan, menimbang, lalu mengangguk sekali.
+Ujung kapur Sela patah. Ia menyimpan pecahannya, mengambil potongan lain, lalu menulis kalimat itu tanpa komentar.
 
-"Bagus," katanya. "Berarti besok ada tiga cerita resmi yang saling menutupi. Milikku di permukaan, miliknya di Quota Office, milikmu di bawah sana. Kalau satu gagal, dua lainnya tetap jalan." Ia berhenti sebentar, dan suaranya turun ke level gudang tutup. "Namun dengar baik-baik bagian ini. Kalau semuanya gagal — kalau kamu tertangkap di dasar dengan apa pun yang tidak bisa dijelaskan — aku tidak mengenalmu. Aku akan bilang kamu bocah nakal yang menyelundup masuk zona terbatas demi mencuri fragmen. Penjara lisensi tiga bulan itu masih lebih hangat daripada apa pun yang orang-orang berjubah lakukan pada barang curiga."
+Ashvarok memberi angka dua di samping Quota Office.
 
-"Aku tahu."
+"Maera menyerahkan laporan komisi secara pribadi pagi-pagi. Jam serah harus masuk buku. Klasifikasi L9B tetap murmur semu."
 
-"Bukan sekadar tahu. Kamu harus sanggup melihatku mengatakannya sambil menatap matamu." Mata foreman itu tidak bergeser. "Dua puluh tahun silam aku pernah melihat komandanku membaca nama anak buahnya sebagai pengkhianat dengan suara yang tidak goyah sedikit pun. Tiga hari kemudian baru ketahuan kalau dia melakukannya untuk menyelamatkan enam puluh orang lainnya. Suara yang tidak goyah itu, Renn. Itu yang paling mahal harganya di dunia mana pun."
+"Sudah tertulis dan disegel," kata Maera. "Namun laporan itu tidak menghentikan tim khusus. Paling jauh, laporan memaksa mereka mencatat alasan ketika mengambil alih."
 
-Sela, yang selama ini mencatat dengan huruf besar agar terbaca di gelap, menutup papan tulisnya dan berkata kepada Brannoc:
+"Alasan menjadi rantai kalau setiap mata rantainya direkam."
 
-"Foreman. Kamu tahu kan sekarang, kalau besok gagal, yang paling rugi anak-anak regumu? Distrik timur itu rumah empat ratus keluarga. Termasuk teman-teman sekolah Harn."
+"Apa yang ingin kamu rekam?"
 
-Brannoc menatap anak sebelas tahun itu lama, lalu tertawa pendek tanpa suara.
+Ashvarok menggambar lingkaran kecil pada aula. "Penyalahan klaim."
 
-"Bocah ini," katanya pada Ashvarok, "mengajarimu hitung risiko, atau kau yang mengajari dia?" Ia bangkit, merapikan jaketnya. "Subuh. Reguku jaga mulut lorong B. Kalau tengah hari kamu belum naik, aku turun. Dan kalau aku turun—" tatapan matanya lurus, "—jaga dirimu, karena artinya aku juga butuh dijaga."
+Maera tidak segera menjawab. Brannoc memandang keduanya, menunggu bahasa teknis berubah menjadi sesuatu yang bisa dipukul atau dihindari.
 
----
+"Tim itu membawa pengikat," lanjut Ashvarok. "Mereka akan memasang klaim pada seam. Selama pengikatan, gema menyebar sekurangnya lima puluh hasta. Alat Guild milikmu bisa mencatat percobaan dan kegagalannya."
 
-Setelah semua pergi, Sela tinggal, membersihkan papan tulis dengan gerakan pelan sambil membelakangi kakaknya.
+"Kamu yakin klaim mereka gagal?"
 
-"Tiga hal yang tidak kamu tulis di papan itu," katanya akhirnya. "Satu. Kamu nyaris tidak balik waktu runtuhan kemarin, dan sekarang mau turun lagi. Dua. Orang berjubah itu bukan hanya mau tambangnya — dia mau sesuatu yang kamu jaga. Tiga. Kalau semua ini berhasil pun, kamu tetap tidak akan pernah bisa cerita ke siapa-siapa kecuali aku dan foreman dan assayer itu."
+"Aku akan berada di sana."
 
-Ashvarok tidak membantah satu pun. Melihat adik angkatnya merangkum posisi strategisnya lebih ringkas daripada rapat perang lima panglima dahulu membuatnya merasa sesuatu yang berada di antara bangga dan malu.
+Maera memutar resonance fork kecil di antara jari. "Itu bukan kepastian ilmiah."
 
-"Jadi rencanamu hanya satu," lanjut Sela, membalik badan. "Jangan jadi pahlawan. Jadi orang yang pulang. Pahlawan itu pekerjaannya legenda, dan legenda tidak bisa dimasakkan bubur."
+"Itu kepastian yang kupunya."
 
-Ashvarok menatap adiknya, dan di dalam kepalanya, kalimat itu disalin ke arsip paling dalam bersama kalimat-kalimat Brannoc tentang pintu dan Maera Tull tentang stempel. Tiga orang. Tiga aturan bertahan hidup yang berbeda, semuanya bermuara ke tempat yang sama: jaga dirimu, pulanglah, tetap hidup.
+"Dan kalau mereka menemukanmu?"
 
-"Satu hal terakhir untuk daftarmu," katanya akhirnya. "Tambahkan: kakakmu tidak pernah berjanji jadi pahlawan. Kakakmu hanya pernah berjanji jadi Renn. Dan besok, Renn pulang."
+"Cerita ketiga mulai berlaku." Ia menulis angka tiga di lorong B. "Furnace boy masuk zona terlarang untuk mencari fragmen. Bertindak sendiri. Tidak tahu apa pun tentang laporan, Guild, atau regu Brannoc."
 
-Sela menatapnya lama, mengukur janji itu dengan timbangan yang tidak pernah salah soal kakaknya sendiri.
+Brannoc mengeluarkan akar pahit dari mulutnya. "Tidak."
 
-"Kalau kamu berhasil menepati," katanya akhirnya, "besok malam aku masak tiga porsi lagi."
+"Kita memerlukan cerita saat rencana gagal."
 
-Ia keluar membawa papan tulisnya — daftar rahasia itu, daftar hal-hal yang tidak berubah — dan meninggalkan Ashvarok sendirian dengan peta perang terkecil di dunia yang kini kosong karena telah dihapus.
+"Kita memerlukan cerita yang membuatmu hidup. Penyelundup fragmen mendapat penjara lisensi tiga bulan. Penyusup yang membawa alat aneh ke klaim Choir menghilang sebelum makan malam." Ia menunjuk Ashvarok dengan akar itu. "Kau tidak membawa apa pun yang tak bisa dibuang."
 
-Malam itu ia tidur awal, makan tiga porsi penuh, dan memeriksa benang Hourglass dua kali. Besok ia akan menagih utang seribu tahun. Malam ini, tubuh pinjaman ini berhak tidur seperti manusia. Di bawahnya, jauh di dalam batu, the Underfold bernapas pelan seperti biasa, tidak tahu bahwa sebagian jadwalnya sudah ditulis ulang oleh tangan yang paling tidak punya hak untuk itu.
+"Setuju."
+
+"Dan kalau tertangkap, aku tidak mengenalmu."
+
+Sela mengangkat kepala. Maera berhenti memutar garpu.
+
+Brannoc meneruskan dengan suara tetap datar. "Aku akan menyebutmu bocah tungku yang mencuri jalan masuk. Aku akan bilang kau sering berbohong, pernah menjual serpihan tanpa izin, dan mungkin memotong segel lorong B sendiri. Aku akan menatapmu ketika mengatakannya."
+
+"Aku mengerti."
+
+"Belum." Brannoc mendekat sampai bau akar pahit menembus minyak gudang. "Dua puluh tahun lalu, komandanku menyebut satu anak buahnya pengkhianat di depan pemeriksa militer. Suaranya tidak goyah. Tiga hari kemudian kami tahu tuduhan itu menyelamatkan enam puluh orang dari pemeriksaan berikutnya. Orang yang dituduh tidak tahu sampai pintu penjara tertutup. Jadi kalau besok aku menyangkalmu, jangan membela diri. Jangan cari tanda di wajahku. Terima."
+
+Ashvarok pernah mendengar sumpah delapan ribu prajurit mengguncang halaman istana. Peringatan Brannoc lebih berat karena tidak menjanjikan kehormatan apa pun.
+
+"Aku akan terima," katanya.
+
+Brannoc mundur. "Bagus."
+
+Maera membuka laporan di halaman lampiran. "Ada celah lain. L9B sudah saya klasifikasikan sebagai murmur semu yang perlu pemantauan. Kalau alat saya menangkap gema klaim asing saat data dasar masih aktif, Regional Artifact Coordination harus memilih: mencatat intervensi mereka, atau membantah alat Guild."
+
+"Mana yang akan mereka pilih?" tanya Sela.
+
+"Mereka akan menunda jawaban."
+
+"Menunda cukup," kata Ashvarok. "Kita butuh waktu, bukan kemenangan."
+
+Ia menghapus sebagian lingkaran aula, menyisakan garis patah. Tujuan esok bukan merebut seam. Ia hanya perlu melihat kondisinya, membaca mulut penyedot di dalam aula, lalu membuat klaim pertama Ossian gagal cukup keras untuk meninggalkan jejak.
+
+"Data dasar diambil sebelum mereka datang," kata Maera. "Dua belas pembacaan dari titik yang pernah kita pakai, jarak sama. Bawa lembar saya, jangan mengubah urutan."
+
+"Saya?" Ashvarok mengangkat alis.
+
+"Kalau mau memakai pekerjaan Assayer, kamu boleh belajar sapaan yang benar."
+
+Sela menutup mulut dengan tangan, tetapi suara tawanya tetap lolos.
+
+Ashvarok menerima lembar ukur. "Baik, Assayer."
+
+"Setelah itu tinggalkan salinan di kotak batu persimpangan L9B. Saya ambil sebelum menyerahkan laporan."
+
+"Tidak," kata Brannoc. "Terlalu banyak lintasan. Saya yang ambil. Seorang Foreman memeriksa penyangga sebelum penutupan; tidak ada yang heran."
+
+Maera menimbangnya, lalu mengangguk. "Bungkus dengan kain minyak. Serbuk seam merusak angka kalau kertas basah."
+
+Ashvarok menulis garis akhir: lorong B menuju aula, lalu kembali ke titik masuk. "Tiga cerita. Brannoc menjaga jalur dan membawa data. Maera menyerahkan laporan serta merekam klaim. Aku membaca aula dari dalam."
+
+"Empat," kata Sela.
+
+Ashvarok menatap papan.
+
+"Cerita keempat," lanjutnya. "Aku duduk di sini sampai pagi, lalu pulang ke barak seperti anak yang tidak tahu apa-apa. Kalau Shift Guard bertanya, Renn tidur karena dilarang turun setelah runtuhan."
+
+Brannoc mengangguk pelan. "Cerita paling mudah dipercaya malam ini."
+
+"Aku juga pegang Hourglass," kata Sela. "Kamu tidak membawanya ke bawah."
+
+"Itu alat ukur."
+
+"Itu bukti. Garis di dalamnya sudah sampai siku. Kalau orang berjubah mengambilnya, mereka akan tahu tubuhmu mencatat sesuatu."
+
+Maera memandang lengan kanan Ashvarok, tertutup kain. "Sampai siku?"
+
+"Belum lewat," jawabnya.
+
+"Buka."
+
+"Tidak ada waktu."
+
+"Kalau kamu jatuh sebelum aula, tidak ada rencana."
+
+Ashvarok membuka ikatan pergelangan. Vein-scar gelap menjalar di bawah kulit sampai lipatan siku. Ujungnya tidak bergerak sejak malam sebelumnya, tetapi tangan masih menyimpan tremor halus. Maera menyentuh kulit di sekitarnya dengan dua jari dingin.
+
+"Tidak ada Forge besok," katanya. "Tidak ada Resonance. Apa pun yang kamu lakukan, jangan bayar dengan jalur ini."
+
+"Aku punya cara lain."
+
+"Jawaban buruk."
+
+"Jawaban yang tersedia."
+
+Maera mengikat kembali kainnya lebih ketat. "Kalau garis melewati siku, saya serahkan laporan lalu menyeretmu ke dokter tambang sendiri."
+
+"Sela sudah memegang ancaman yang sama."
+
+"Sekarang ancamannya punya stempel."
+
+Brannoc memeriksa jam pasir kecil di rak. "Kita selesai. Subuh, reguku pindah ke galeri barat. Tengah hari batas pulang. Sore cap penutupan turun."
+
+"Tim mereka mungkin datang sebelum tengah hari," kata Ashvarok.
+
+"Karena itu aku akan mendengar mereka." Brannoc mencabut palu dari cincin pintu. "Dan Renn—kalau tiga ketukan datang, jangan mencoba menyelamatkan rencana. Selamatkan nama yang masih bisa kau pakai."
+
+Ia pergi lebih dulu. Maera memasukkan laporan dan resonance fork ke kotak, lalu berhenti di ambang.
+
+"Saya akan berada di Quota Office sampai kafilah berangkat," katanya. "Kalau alat saya menyala, rekamannya masuk arsip Guild sebelum siapa pun bisa menyitanya."
+
+"Kenapa memberitahuku?"
+
+"Supaya kamu tahu stempel tidak bekerja sendirian."
+
+Pintu menutup di belakangnya.
+
+Sela menunggu suara langkah mereka hilang, lalu membalik papan tulis. Sisi belakang memuat daftar pendek dalam tulisannya sendiri: makan, tidur, jangan turun, dokter. Di bawahnya ada baris dari malam runtuhan: *menyelamatkan enam orang—itu pun tidak berubah.*
+
+"Kamu melanggar dua aturan sebelum fajar," katanya.
+
+"Aku makan."
+
+"Belum cukup."
+
+"Aku tidur setelah ini."
+
+"Belum tentu." Sela menghapus peta depan dengan kain. Lorong, kantor, dan aula hilang satu demi satu. "Tiga orang tadi bicara tentang laporan, klaim, dan cerita kalau gagal. Tidak satu pun bicara soal pulang selain Brannoc, dan dia bicara seperti orang yang siap menutup pintu di belakangmu."
+
+"Itu tugasnya."
+
+"Tugasmu?"
+
+Ashvarok melihat sisa kapur pada papan. Seribu tahun lalu, peta perangnya membutuhkan meja sepanjang dua belas hasta. Malam ini seluruh wilayah yang harus dipertahankan muat di lutut anak sebelas tahun.
+
+"Mengambil data. Membuat klaim gagal. Keluar sebelum tengah hari."
+
+"Itu daftar kerja." Sela menaruh kain. "Aku tanya tugasmu."
+
+Ia tahu jawaban yang diminta.
+
+"Renn pulang."
+
+"Ulangi."
+
+"Besok Renn pulang."
+
+Sela menyerahkan piring tertutup dari bawah peti. Bubur dingin, tiga porsi dipadatkan menjadi satu. "Kalau janji itu putus, aku tidak peduli siapa pun kamu sebenarnya. Aku marah pada Renn."
+
+Ashvarok makan sampai piring bersih. Sesudahnya ia memeriksa kain muka, kapur ukur, dan dua kantong kosong. Tidak membawa Hourglass. Tidak membawa pisau upacara. Semua yang masuk bersamanya harus dapat dibuang tanpa meninggalkan nama.
+
+Sela menghapus garis terakhir di papan. Debu kapur jatuh ke lantai, menyisakan kayu hitam tanpa jejak perang.
+
+Jauh di bawah gudang, seam berdenyut terlalu lambat untuk telinga manusia. Ashvarok menghitung jarak antardenyut sambil menunggu fajar—bukan sebagai raja yang hendak merebut kembali miliknya, melainkan sebagai Renn yang sudah berjanji pulang sebelum pintu ditutup.

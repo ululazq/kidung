@@ -19,13 +19,13 @@ Renn berhenti dua langkah darinya, tidak terkejut, tidak mundur. Bocah itu meman
 
 Ia merasakan bocah itu menegang, sedikit saja, di tempat yang hanya terasa oleh tangan yang dilatih membaca orang, bukan batu.
 
-"Aku pernah bilang padamu," lanjutnya pelan, kata demi kata diserahkan seperti orang menyerahkan barang pecah belah, "bahwa seni penambalan di tambang ini kupandangi sekali seumur hidupku, di tempat yang tidak akan kunamai. Itu benar, dan setengah kebenaran. Yang tidak kukatakan adalah siapa yang memandangi bersamaku waktu itu." Ia menarik napas, dan napasnya keluar lebih lambat dari masuknya, latihan lagi. "Aku dilatih di garis yang sama dengan Pembaca Tua."
+"Aku pernah bilang padamu," lanjutnya pelan, kata demi kata diserahkan seperti orang menyerahkan barang pecah belah, "bahwa seni penambalan di tambang ini kupandangi sekali seumur hidupku, di tempat yang tidak akan kunamai. Itu benar, dan setengah kebenaran. Yang tidak kukatakan adalah siapa yang memandangi bersamaku waktu itu." Ia menarik napas, dan napasnya keluar lebih lambat dari masuknya, latihan lagi. "Aku dilatih di garis yang sama dengan the Old Reader."
 
 Sunyi galeri itu menerima kalimatnya tanpa gema, dan untuk beberapa tarikan napas tidak ada yang menambah apa-apa.
 
 "Bukan sekolah yang sama. Bukan guru yang sama. Garis." Ia mengetuk dinding sekali, pelan, dan galeri memakan ketukannya juga. "Ordo yang mendahului Choir. Lebih tua dari tangga Resonance, lebih tua dari nama-nama tingkat yang sekarang dipakai untuk mengukur anak-anak. Kami disebut dengan banyak nama di zaman-zaman berbeda, dan tidak satu pun nama itu sah, sebab nama resmi berarti alamat, dan alamat berarti pintu. Kami belajar membaca seperti kau belajar membaca, bocah muda. Dari catatan setengah hilang, dari guru yang mati sebelum selesai mengajar, dari batu yang lebih sabar dari manusia. Bedanya, garis kami masuk lewat pintu depan secte besar dan hidup di dalamnya sampai sekarang. Seperti cacing dalam kayu. Kayunya berganti, cacingnya tetap satu garis."
 
-"Pembaca Tua," kata Renn. Dua kata itu diucapkan tanpa nada, dan justru tanpa nada itulah orang tua itu yakin bocah ini sudah menghitung jauh sebelum malam ini.
+"the Old Reader," kata Renn. Dua kata itu diucapkan tanpa nada, dan justru tanpa nada itulah orang tua itu yakin bocah ini sudah menghitung jauh sebelum malam ini.
 
 "Sekarang jabatannya begitu di Spire. Dulu namanya lain, seratus tahun kemudian namanya lain lagi. Jabatannya yang tidak pernah berganti, dan jabatan itu tidak diciptakan Choir. Choir menemukan kami sudah ada, dan membuat pilihan yang cerdas. Tidak dibunuh, tidak diusir. Ditelan utuh, diberi kursi, dan dilupakan asal-usulnya." Ia menoleh, dan di gelap galeri matanya hanya bayangan yang berkedip. "Aku keluar dari garis itu muda, dengan alasan yang tidak akan kuceritakan malam ini dan mungkin tidak akan pernah. Aku membawa keluar cara membacanya dan tidak membawa apa pun yang bertuliskan. Empat puluh tahun aku mencari seni yang hilang dari garis kami, dan bulan lalu aku menemukannya hidup di tambang batubara kota kecil, dipakai anak berusia lima belas tahun untuk menambal retakan dengan benar."
 
@@ -47,7 +47,7 @@ Renn diam lama. Ketika bersuara, suaranya masih datar, tetapi orang tua itu memb
 
 Ia maju satu langkah, dekat sekali, dan berbicara dengan irama orang menghafalkan, lambat, tiap kata diletakkan.
 
-"Kalian sedang mencari nama panglima kelima, kau dan orang-orangmu, entah bagaimana caranya kalian tahu harus mencari. Orang lain juga sedang mencarinya. Ossian Vael mencarinya dengan surat dan cetakan lilin. Dan sejak map riset itu dipotong segelnya, garis kami ikut membaca." Ia berhenti sebentar. "Jangan biarkan Pembaca Tua menemukan nama itu lebih dulu. Apa pun harganya. Lebih baik nama itu hilang selama seribu tahun lagi daripada jatuh ke tangan jabatan itu."
+"Kalian sedang mencari nama panglima kelima, kau dan orang-orangmu, entah bagaimana caranya kalian tahu harus mencari. Orang lain juga sedang mencarinya. Ossian Vael mencarinya dengan surat dan cetakan lilin. Dan sejak map riset itu dipotong segelnya, garis kami ikut membaca." Ia berhenti sebentar. "Jangan biarkan the Old Reader menemukan nama itu lebih dulu. Apa pun harganya. Lebih baik nama itu hilang selama seribu tahun lagi daripada jatuh ke tangan jabatan itu."
 
 "Kenapa?" Pertanyaan itu keluar cepat dari Renn. "Namanya hanya nama. Sejarah menyebut dia mati, atau tidak dikubur, tergantung buku mana yang dibaca. Apa bahayanya sebuah nama?"
 

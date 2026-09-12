@@ -3,7 +3,7 @@ title: "Bab 212: Nat yang Masih Hangat"
 chapter: 212
 ---
 
-Gema Kael-Uthar — "yang dititip api", menurut terjemahan sementara katalog — tidak tinggal diam di arsip. Tiga hari setelah misi Karven, Sela menemukan jejaknya lagi — kali ini bukan di katalog kedalaman, melainkan di lembar catatan ordo Penjaga Rekam yang sudah menguning: satu wilayah dicoret dengan tinta berbeda dari sisanya, dan di margin halaman, tulisan tangan yang sama dengan yang selama ini mereka kenal sebagai catatan Pak Dekan:
+Gema Kael-Uthar — "yang dititip api", menurut terjemahan sementara katalog — tidak tinggal diam di arsip. Tiga hari setelah misi Karven, Sela menemukan jejaknya lagi — kali ini bukan di katalog kedalaman, melainkan di lembar catatan the Record Wardens yang sudah menguning: satu wilayah dicoret dengan tinta berbeda dari sisanya, dan di margin halaman, tulisan tangan yang sama dengan yang selama ini mereka kenal sebagai catatan Pak Dekan:
 
 "Lembah Selatan. Jangan dipetakan musim hujan. Api tidak suka diganggu saat hujan."
 
@@ -71,13 +71,13 @@ Murid akademi yang termuda — laki-laki lima belas tahun dari blok timur yang d
 
 "Aku mau pulihkan," kata ia di perkemahan, belum selesai menangis tetapi sudah selesai memutuskan. "Api itu. Aku mau jadi orang yang bawa dia pulang."
 
-Tidak ada yang menjawab "nanti kita lihat dulu". Bahkan Ashvarok. Sela hanya menuliskan nama murid itu di papan kecilnya, di bawah judul baru yang ia garis bawahi dua kali: Daftar Titipan yang Belum Dikembalikan.
+Tidak ada yang menjawab "nanti kita lihat dulu". Bahkan Ashvarok. Sela hanya menuliskan nama murid itu di papan kecilnya, di bawah judul baru yang ia garis bawahi dua kali: the List of Deposits Not Yet Returned.
 
 ---
 
 Ashvarok duduk di tepi lingkaran reruntuhan sampai matahari benar-benar tenggelam, dan malam turun, dan dingin datang seperti biasanya datang ke mana-mana di Karvess.
 
-Semua orang sudah masuk tenda kecuali Sela. Gadis dua belas tahun itu datang duduk di sebelahnya, membawa dua cangkir teh dari perapihan murid-murid, dan untuk waktu yang lama tidak berkata apa-apa.
+Semua orang sudah masuk tenda kecuali Sela. Gadis sebelas tahun itu datang duduk di sebelahnya, membawa dua cangkir teh dari perapihan murid-murid, dan untuk waktu yang lama tidak berkata apa-apa.
 
 "Kamu menghitung sesuatu," katanya akhirnya. "Aku kenal wajah hitungmu. Mana yang tidak pas?"
 

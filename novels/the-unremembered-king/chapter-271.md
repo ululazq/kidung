@@ -37,7 +37,7 @@ Jawaban nomor satu, untuk pertanyaan *apakah kamu pernah takut gelap*:
 
 Jawaban itu sampai di cabang pegunungan timur laut dalam dua hari, dibacakan keras-keras di depan seluruh murid, dan balasannya datang seminggu kemudian — ditulis semua anak cabang itu bersama-sama:
 
-"Terima kasih. Kami sekarang tahu kenapa kami menyalakan api unggun setiap malam tanpa pernah ditanya kenapa. Pertanyaan lanjutan nomor satu: apa lagu kesukaan Panglima termuda? Kami mau memainkannya tiap Hari Utara."
+"Terima kasih. Kami sekarang tahu kenapa kami menyalakan api unggun setiap malam tanpa pernah ditanya kenapa. Pertanyaan lanjutan nomor satu: apa lagu kesukaan Panglima termuda? Kami mau memainkannya tiap Northern Day."
 
 Dari balasan itu lahir pertanyaan lanjutan. Dari pertanyaan lanjutan lahir jawaban baru. Kovan, setelah menghitung laju pertumbuhan percabangan pertanyaan dengan wajah orang yang melihat utangnya berbunga, menyampaikan temuannya kepada keluarga:
 
@@ -83,7 +83,7 @@ Karena murid-murid pesisir meneruskannya ke tetua-tetua mereka. Tetua-tetua mene
 
 Arsip Karvess yang semula hanya milik pemenang dan kemudian diperbaiki oleh saksi batu, kini untuk pertama kalinya memuat versi para korban — ditulis tangan mereka sendiri, dalam aksara mereka masing-masing.
 
-Sela mendirikan rak baru untuknya di ruang arsip. Rak terpanjang. Ia memberinya nama resmi sesuai prosedur arsip: "Rak Semua Versi".
+Sela mendirikan rak baru untuknya di ruang arsip. Rak terpanjang. Ia memberinya nama resmi sesuai prosedur arsip: "the Shelf of All Versions".
 
 Dan ibu Tamma, ketika melihat rak itu pertama kali, berkata kalimat yang langsung diukir di tepinya oleh Lompa dengan pahat kayu:
 

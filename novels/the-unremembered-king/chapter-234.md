@@ -19,7 +19,7 @@ Dinding itu, kata Ashvarok, "kini berisi peta wilayah DAN menu masa depan" — d
 
 ---
 
-Sementara itu, angkatan kedua Sekolah Mendengar memasuki pekan keenam dari dua belas pekan mereka — dan angkatannya ternyata istimewa karena komposisinya: sembilan siswa Spire PLUS enam siswa non-Spire yang diterima atas permintaan khusus.
+Sementara itu, angkatan kedua the Listening School memasuki pekan keenam dari dua belas pekan mereka — dan angkatannya ternyata istimewa karena komposisinya: sembilan siswa Spire PLUS enam siswa non-Spire yang diterima atas permintaan khusus.
 
 Enam itu adalah warga lembah yang sudah pulang — Vess-Morath muda, pemuda timur, dan tiga orang selatan termasuk jiwa muda sembilan belas tahun dari pos sembilan — yang meminta "belajar cara mendengar dari sisi yang dulu didengar".
 
@@ -103,7 +103,7 @@ Satu per satu. Seperti nat-nat kecil.
 
 Seperti semua orang Caldrest sekarang.
 
-Dan di nat lorong barak utara — Yang Dulu Sunyi, tamu malam ini seorang murid akademi yang baru pulang dari perayaan — irama kecil naik untuk terakhir kali tahun ini, diterjemahkan si murid sambil tersenyum mengantuk:
+Dan di nat lorong barak utara — the Once-Silent, tamu malam ini seorang murid akademi yang baru pulang dari perayaan — irama kecil naik untuk terakhir kali tahun ini, diterjemahkan si murid sambil tersenyum mengantuk:
 
 "Dia bilang: selamat tahun baru juga. Dan... terima kasih sudah jadi kota yang tidak punya nat sunyi lagi."
 
@@ -131,7 +131,7 @@ Tahun berikutnya, di halaman pertama arsip era keempat, Sela membuka dengan kali
 
 ---
 
-Dan di bawah kalimat itu, satu baris penutup dari Ashvarok sendiri — yang oleh para pembaca arsip generasi-generasi kemudian selalu dianggap kalimat paling khas raja kurus mereka:
+Dan di bawah kalimat itu, satu catatan dari Ashvarok sendiri:
 
 "Setuju dengan Arsip. Namun saya tambahkan: cara hidup yang baik itu butuh sarapan. Sampai jumpa besok pagi di dapur."
 
@@ -151,6 +151,6 @@ Ashvarok menyelesaikan mangkuknya sampai habis, menaruh sendoknya, dan berkata v
 
 "Enak. Masakannya selalu enak di dunia yang sudah tidak punya nat sunyi lagi."
 
-— Akhir batch "Musim yang Tepat & Sekolah Mendengar" —
+— Akhir batch "Musim yang Tepat & the Listening School" —
 
 Di margin neraca bab 234 itu, Sela menambahkan catatan kecil yang khas arsipnya: "hal-hal kecil hari ini yang layak diingat: teh habis dua teko lebih banyak dari kemarin; nat sudut pasar disapa tujuh orang (rekor baru); dan satu anak kecil berhenti di depan nat lorong barak untuk bilang 'malam, batu' sebelum pulang." Ashvarok membaca sampai habis tanpa berkomentar — dan justru itu yang membuat Sela yakin surat itu penting. Dan dunia yang baik punya cara berjalan sendiri: pelan, sederhana, lewat sapaan yang tidak pernah putus.

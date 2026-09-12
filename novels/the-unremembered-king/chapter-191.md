@@ -5,7 +5,7 @@ chapter: 191
 
 Kotak-kotak cerita muncul di empat distrik Caldrest pada hari yang sama, dibuat oleh tukang kayu sekolah klinik dari sisa papan name train: kotak kayu dengan celah di atas dan satu aturan tertulis di sisinya — "Masukkan cerita tentang tamu tua HANYA kalau kamu pernah mendengarnya langsung dari bawah. Legenda tidak diterima. Yang dengar, tulis. Yang hanya dengar cerita orang, tunggu."
 
-Aturan itu menyaring dengan sempurna, karena dalam tiga bulan pertama, kotak-kotak itu mengumpulkan dua ratus enam belas cerita — dan hampir semuanya datang dari orang-orang yang tidak pernah sadar bahwa mereka pernah "mendengar" kedalaman sampai mereka menuliskannya.
+Sejak kotak-kotak itu dibuka, terkumpul dua ratus enam belas cerita — dan hampir semuanya datang dari orang-orang yang tidak pernah sadar bahwa mereka pernah "mendengar" kedalaman sampai mereka menuliskannya.
 
 Petugas kebersihan yang ingat nat galeri selalu "bergetar pelan" setiap kali ia lewat sendirian malam-malam, seperti disapa. Anak troli tua yang mengingat bunyi ganda di rel timur yang ia sebut "balasan" — ia selalu mengetuk balik tanpa tahu kenapa, kebiasaan dua puluh tahun. Perempuan pencuci lorong yang mengingat "hangat aneh" di satu tikungan tertentu, tempat ia selalu berhenti karena merasa "seperti didengar". Satu per satu, cerita-cerita ini menunjukkan hal yang tidak pernah direkam sejarah: kedalaman telah menyapa ratusan manusia kecil selama seribu tahun — lembut, terpisah-pisah, tak pernah cukup untuk jadi kabar — dan manusia-manusia itu menjawab tanpa sadar.
 
@@ -39,7 +39,7 @@ Kedalaman mendengarkan semuanya. Dan di akhir pembacaan, jawabannya adalah irama
 
 Sela menutup catatan sesi itu dengan kalimat yang akan dibacakan di setiap pelajaran sejarah Caldrest kelak:
 
-"Hari 372. Kami pikir kami sedang menamai tamu tua. Ternyata dia sedang pulih dari amnesia seribu tahun — dan kotak-kotak kayu kami adalah obatnya."
+"Kami pikir kami sedang menamai tamu tua. Ternyata dia sedang pulih dari amnesia seribu tahun — dan kotak-kotak kayu kami adalah obatnya."
 
 ---
 
@@ -63,7 +63,6 @@ Cerita yang masuk kotak itu ditulis keponakan Wida: "Tante selalu bilang satu ka
 Kasus Wida membuka program yang tidak direncanakan: PEMERIKSAAN the Hollowed ringan seluruh kota — bukan untuk mengobati (belum bisa), tetapi untuk mencatat pola. Hasil tiga pekan pemeriksaan oleh dokter tambang dan pengikat senior menghasilkan temuan yang membuat Ashvarok menulis di Hourglass dengan huruf tebal:
 HARI 368. TEMUAN: dari lima the Hollowed Caldrest, SEMUANYA punya ritual berulang tanpa sadar — Wida menyapa sumur, dua lainnya selalu memutar ke arah aula sebelum tidur, satu tidak pernah mau tinggal di ruangan tanpa nat. Tubuh mereka lupa nama tetapi TIDAK PERNAH lupa arah rumah.
 Kesimpulan: Hollowing tidak memutus hubungan manusia-kedalaman sepenuhnya. Ia memutus ingatan TENTANG hubungan itu. Benangnya tetap ada — hanya mata kita buta melihatnya.
-Lanjutan bab 191.
 
 ---
 
@@ -80,27 +79,27 @@ Kabar itu menyebar ke seluruh kota dalam sehari dan mengubah status the Hollowed
 
 ---
 
-Entri penutup bab di Hourglass:
+Entri Hourglass:
 Hari 371. Ringkasan bulan ketiga kotak cerita: 461 cerita masuk. Satu legenda palsu disimpan untuk sejarah. Tiga the Hollowed ringan terpetakan ritualnya. Satu Wida BICARA.
 Dan satu kesadaran yang mengubah cara kami membaca seluruh masa lalu: selama delapan belas tahun, yang kita anggap sisa-sisa manusia rusak ternyata adalah orang-orang yang setengah jiwanya sedang bertahan di tempat yang paling aman di Karvess. Mereka bukan gagal pulang dari kegelapan.
 Mereka penjaga gerbang — setengah di dunia, setengah di rumah — dan tidak seorang pun dari kita pernah berterima kasih kepada mereka untuk itu.
 
 ---
 
-Penutup terakhir bab — perbuatan kecil yang dilakukan Caldrest tanpa rapat, tanpa dekrit: pada pekan berikutnya, kelima the Hollowed ringan menerima kunjungan rutin bergilir dari murid akademi. Bukan terapi. Hanya teman duduk.
+Pada pekan berikutnya, Caldrest mengatur agar kelima the Hollowed ringan menerima kunjungan rutin bergilir dari murid akademi. Bukan terapi. Hanya teman duduk.
 
 Dan di papan Hourglass, Sela menambahkan kolom baru dengan judul yang membuat kakaknya tersenyum saat membacanya:
 "DAFTAR ORANG YANG SETENGAH DI SANA — status: ditunggu pulang. Dijaga oleh: semua kita. Waktu mereka butuh: tidak ada batasnya."
 
 ---
 
-Sisa tujuh puluh empat kata — untuk satu detail yang menutup lingkaran bab ini: Wida, sejak hari bicaranya yang pertama, kini setiap purnama tetap berdiri di sumur klinik. Namun kalimatnya sudah berubah.
+Sejak hari bicaranya yang pertama, Wida kini setiap purnama tetap berdiri di sumur klinik. Namun kalimatnya sudah berubah.
 "Tunggu" menjadi: "Sudah tidak sabar lagi."
 
 ---
 
-Dan satu kalimat penutup dari Ashvarok di Hourglass, yang menutup bab 191 tepat:
-Hari 372, tambahan. Kotak cerita lahir untuk menamai tamu tua. Ternyata hadiahnya jauh lebih besar: ia mengajari kami melihat orang-orang yang selama ini ada di tengah kota tetapi tidak pernah kita lihat. Wida bicara lagi hari ini. Empat kata. Delapan belas tahun.
+Ashvarok menambahkan satu catatan di Hourglass:
+Kotak cerita lahir untuk menamai tamu tua. Ternyata hadiahnya jauh lebih besar: ia mengajari kami melihat orang-orang yang selama ini ada di tengah kota tetapi tidak pernah kita lihat. Wida bicara lagi hari ini. Empat kata. Delapan belas tahun.
 Tidak ada seni raja mana pun yang bisa melakukan itu.
 
-Di pos jemput nomor tujuh, keluarga keturunan membangun bangku kayu kecil menghadap ladang — untuk siapa pun yang ingin duduk menonton gandum bergoyang seperti pesan Vess-Morath dulu. Bangku itu tidak pernah kosong lebih dari satu jam. Caldrest menemukan bahwa menonton gandum ternyata konten, jauh sebelum kata itu populer.
+Di pos jemput nomor tujuh, keluarga keturunan membangun bangku kayu kecil menghadap ladang — untuk siapa pun yang ingin duduk menonton gandum bergoyang seperti pesan Vess-Morath dulu. Bangku itu tidak pernah kosong lebih dari satu jam pada siang hari. Caldrest menemukan bahwa menonton gandum ternyata konten, jauh sebelum kata itu populer. Menjelang senja, jawaban itu masih terasa cukup untuk menemani bangku yang tidak pernah lama kosong.

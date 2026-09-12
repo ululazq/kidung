@@ -23,7 +23,7 @@ Dua kursi kayu. Satu meja kecil. Dan di dinding, nat tua galeri sembilan yang su
 
 Anthema Spire datang tepat waktu, sendirian, jubah abunya kali ini tanpa jahitan apa pun — warna polos, seperti orang yang menanggalkan seragam untuk percakapan yang menuntut kejujuran.
 
-"Aku mulai," katanya, duduk. "Doktrin Choir tentang api dunia berumur seribu tahun: api dunia tidak boleh kembali. Ia ditulis oleh generasi pertama setelah Pembakaran Nama, oleh orang-orang yang benar-benar ketakutan — dan ketakutan mereka sah. Aku membaca arsip pendirian secte minggu lalu, semua versi, termasuk yang tidak pernah diajarkan ke murid." Ia meletakkan gulungan di meja. "Tahu apa yang kutemukan? Doktrin aslinya panjangnya dua halaman. Yang diajarkan sembilan belas tahun ini hanya kalimat pertamanya. Halaman kedua... halaman kedua adalah syaratnya."
+"Aku mulai," katanya, duduk. "Doktrin Choir tentang api dunia berumur seribu tahun: api dunia tidak boleh kembali. Ia ditulis oleh generasi pertama setelah the Name-Burning, oleh orang-orang yang benar-benar ketakutan — dan ketakutan mereka sah. Aku membaca arsip pendirian secte minggu lalu, semua versi, termasuk yang tidak pernah diajarkan ke murid." Ia meletakkan gulungan di meja. "Tahu apa yang kutemukan? Doktrin aslinya panjangnya dua halaman. Yang diajarkan sembilan belas tahun ini hanya kalimat pertamanya. Halaman kedua... halaman kedua adalah syaratnya."
 
 Ashvarok-Renn membuka gulungan itu.
 
@@ -31,7 +31,7 @@ Dan membaca halaman kedua doktrin asli Choir — yang disembunyikan dari dunia o
 
 *Api dunia tidak boleh kembali — kecuali ia kembali sebagai sesuatu yang didengarkan, dijaga, dan diberi makan; kecuali ia kembali bersama para penjaganya yang diakui namanya; kecuali dunia telah membuktikan bahwa ia bisa mendengar sebelum memutuskan.*
 
-"Dunia sudah memenuhi syaratnya," kata Anthema pelan. "Delapan ratus nat yang mendengarkan name train tiap sore. Protokol musim. Sekolah Mendengar di dua belas cabang. Seribu kursi yang duduk mendengar lagu sampai habis termasuk bagian yang membuat marah." Pemimpin Choir itu memandang Ashvarok-Renn. "Aku memimpin secte yang menunggu bukti bahwa dunia layak menerima kembalinya api. Dan buktinya datang... dari kota tambang yang dulu kucoba hancurkan lewat utusanku."
+"Dunia sudah memenuhi syaratnya," kata Anthema pelan. "Delapan ratus nat yang mendengarkan name train tiap sore. the Seasonal Protocol. the Listening School di dua belas cabang. Seribu kursi yang duduk mendengar lagu sampai habis termasuk bagian yang membuat marah." Pemimpin Choir itu memandang Ashvarok-Renn. "Aku memimpin secte yang menunggu bukti bahwa dunia layak menerima kembalinya api. Dan buktinya datang... dari kota tambang yang dulu kucoba hancurkan lewat utusanku."
 
 "Ossian," kata Ashvarok-Renn.
 
@@ -62,9 +62,9 @@ Nat menjawab dengan irama pendek yang sudah ribuan tahun usianya.
 
 Ia mengambil pena, dan di lembar terakhir doktrin revisi menulis usul yang kelak disebut sejarawan sebagai keputusan institusi paling aneh dalam sejarah Karvess:
 
-*Lengan baru Choir: Lengan Mendengar. Tugasnya bukan memburu kesalahan, tetapi mencari hal-hal yang belum didengar — keluhan yang belum sampai, versi yang belum tercatat, orang yang belum pernah ditanya. Laporan bulanannya bukan daftar pelanggar, tetapi daftar pertanyaan yang belum terjawab.*
+*Lengan baru Choir: the Listening Arm. Tugasnya bukan memburu kesalahan, tetapi mencari hal-hal yang belum didengar — keluhan yang belum sampai, versi yang belum tercatat, orang yang belum pernah ditanya. Laporan bulanannya bukan daftar pelanggar, tetapi daftar pertanyaan yang belum terjawab.*
 
-*Kepalanya bukan jabatan yang ditunjuk Dewan, melainkan gilir: satu tahun dari Choir, satu tahun dari Guild, satu tahun dari Sekolah Mendengar, bergantian tanpa akhir, agar tidak ada yang memilikinya cukup lama untuk mengubahnya menjadi takhta.*
+*Kepalanya bukan jabatan yang ditunjuk Dewan, melainkan gilir: satu tahun dari Choir, satu tahun dari Guild, satu tahun dari the Listening School, bergantian tanpa akhir, agar tidak ada yang memilikinya cukup lama untuk mengubahnya menjadi takhta.*
 
 "Anggarannya?" tanya Anthema, sudah membaca dengan mata pejabat berpengalaman.
 
@@ -76,7 +76,7 @@ Lalu pemimpin seribu tahun ortodoksi Choir tertawa — tawa sungguhan, lelah dan
 
 "Kau sadar ini akan gagal spektakuler kalau salah kepala pertamanya."
 
-"Karena itu kepala pertamanya harus orang yang sudah membuktikan dirinya tidak bisa dibeli oleh jabatan." Ashvarok-Renn menandatangani di bawah nama Anthema. "Kau. Satu tahun. Sebagai lengan mendengar yang pertama. Bukan hukuman — kau yang mengajari Karvess bahwa bahkan ortodoksi bisa belajar. Biarkan satu tahun terakhirmu di jabatan jadi satu tahun pertamanya di pekerjaan yang benar."
+"Karena itu kepala pertamanya harus orang yang sudah membuktikan dirinya tidak bisa dibeli oleh jabatan." Ashvarok-Renn menandatangani di bawah nama Anthema. "Kau. Satu tahun. Sebagai the Listening Arm yang pertama. Bukan hukuman — kau yang mengajari Karvess bahwa bahkan ortodoksi bisa belajar. Biarkan satu tahun terakhirmu di jabatan jadi satu tahun pertamanya di pekerjaan yang benar."
 ---
 
 Mereka keluar dari galeri sembilan menjelang subuh, dan di pintu tambang, Anthema Spire berhenti sebentar — memandang lorong gelap yang delapan tahun silam ia izinkan dihancurkan lewat utusannya.
@@ -104,22 +104,22 @@ Sebelum Anthema berangkat, satu tamu tak terduga masuk ke galeri sembilan — ke
 
 Maera Tull. Pensiun dari Guild. Guru hitung.
 
-"Aku dengar dari Daven ada rapat penting di bawah tanah dan tidak diundang siapa-siapa," katanya, duduk tanpa izin pada kursi ketiga yang ditambahkan Barim diam-diam. "Delapan tahun silam aku penilai pertama yang menyadari ada sesuatu aneh di lorong tujuh. Delapan tahun silam aku memilih melindungi kalian dengan menutupi data. Dan malam pembacaan itu..." Ia membuka kotak timbung mininya, mengeluarkan lempeng ukur tua bertanda stempel ungu Guild. "...aku sadar satu hal yang belum pernah kukatakan kepada siapa pun."
+"Aku dengar dari Daven ada rapat penting di bawah tanah dan tidak diundang siapa-siapa," katanya, duduk tanpa izin pada kursi ketiga yang ditambahkan Barim diam-diam. "Delapan tahun silam aku penilai pertama yang menyadari ada sesuatu aneh di lorong tujuh. Delapan tahun silam aku memilih melindungi kalian dengan menutupi data. Dan malam pembacaan itu..." Ia membuka mini weighing box miliknya, mengeluarkan lempeng ukur tua bertanda stempel ungu Guild. "...aku sadar satu hal yang belum pernah kukatakan kepada siapa pun."
 
 "Lempeg ini," kata Maera, meletakkannya di meja antara mereka. "Di permukaannya masih ada sisa abu Ash dari duel Kovan delapan tahun silam. Abu yang mengingat. Selama delapan tahun aku menyimpannya — bukan sebagai bukti, bukan lagi. Sebagai pengingat: bahwa kebenaran bisa diselamatkan oleh orang yang cukup takut untuk tidak menyerahkannya."
 
 Ia memandang Anthema Spire — dua mantan institusi musuh, duduk di galeri bawah tanah tempat semuanya dimulai.
 
-"Kau sedang mendirikan Lengan Mendengar. Aku dengar tadi dari lorong — maaf, nat-nat di sini bocornya parah." Barim, dari pos jaga, batuk kecil yang tidak meyakinkan. "Aku pensiunan Guild. Jabatanku habis, tetapi telapak tanganku belum. Ada satu pekerjaan yang tidak bisa dilakukan nat, tidak bisa dilakukan murid sekolah, dan butuh empat puluh tahun pengalaman membaca lempeng: memverifikasi bahwa yang didengar itu benar. Mendengar tanpa verifikasi itu sama saja dengan doktrin lama versi sopan — percaya dulu, cek belakangan, atau tidak sama sekali."
+"Kau sedang mendirikan the Listening Arm. Aku dengar tadi dari lorong — maaf, nat-nat di sini bocornya parah." Barim, dari pos jaga, batuk kecil yang tidak meyakinkan. "Aku pensiunan Guild. Jabatanku habis, tetapi telapak tanganku belum. Ada satu pekerjaan yang tidak bisa dilakukan nat, tidak bisa dilakukan murid sekolah, dan butuh empat puluh tahun pengalaman membaca lempeng: memverifikasi bahwa yang didengar itu benar. Mendengar tanpa verifikasi itu sama saja dengan doktrin lama versi sopan — percaya dulu, cek belakangan, atau tidak sama sekali."
 
 Anthema Spire memandang perempuan penilai tua itu lama.
 
-"Struktur bergilir kepala Lengan Mendengar adalah Choir, Guild, Sekolah Mendengar," katanya akhirnya. "Guild belum menunjuk perwakilannya karena semua kandidatnya masih jabatan aktif dan Dewan tidak mau melepas mereka."
+"Struktur bergilir kepala the Listening Arm adalah Choir, Guild, the Listening School," katanya akhirnya. "Guild belum menunjuk perwakilannya karena semua kandidatnya masih jabatan aktif dan Dewan tidak mau melepas mereka."
 
 "Maka jangan pilih yang aktif," kata Maera. "Pilih yang sudah tidak punya apa-apa untuk dipertaruhkan dan punya lempeng abu delapan tahun. Kau tidak akan menemukan kandidat lain yang motivasinya sudah diaudit seumur hidupnya oleh kemiskinan pensiun."
 
 Ashvarok-Renn, yang mendengarkan percakapan ini dari kursinya dengan ekspresi orang menonton sejarah kecil terjadi di depan matanya, akhirnya berkata:
 
-"Jabatan kedua setelah kepala pertama: verifikator lapangan pertama Lengan Mendengar. Gaji: honor dapur aula, makan dua kali, dan lempengmu dipajang di kantor baru dengan label 'bukti bahwa orang bisa berubah' — kalau kamu mau."
+"Jabatan kedua setelah kepala pertama: verifikator lapangan pertama the Listening Arm. Gaji: honor dapur aula, makan dua kali, dan lempengmu dipajang di kantor baru dengan label 'bukti bahwa orang bisa berubah' — kalau kamu mau."
 
 "Labelnya yang membuat aku terima," kata Maera Tull, dan mengulurkan tangannya kepada Anthema Spire — jabatan-jabatan saling bergandengan di atas meja kecil di galeri sembilan, delapan ratus kaki di bawah dunia yang pagi ini akan bangun dan menemukan doktrin seribu tahunnya sudah diganti.

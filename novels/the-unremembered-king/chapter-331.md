@@ -79,7 +79,7 @@ Di menara, Mira menutup buku catatan dan menulis di sisi terakhir: *Batch cari k
 
 Ashvarok-Renn membuka bible kecil dan menulis di bawah catatan keluarga: *Arc pencarian keluarga (batch 1): the Gate perawat tua (celah menara/barak), the Escape barat daya (lolos serangan the Wanes), the Remnant pemulung timur. The Wanes pegang the Unclaimed Knot tanpa kunci. Strategi menang: jaga the Survivor di ambang simpul masing-masing, bukan kumpulkan di satu tempat.*
 
-Ia menutup bible, lalu menatap papan world-state. Sela telah menulis: *the Gate Family=#perawat tua, the Escape=barat daya(lolos), the Remnant=timur. Sisa the Stillness,the Silence,the Ground. Jaga the Survivor di ambang, bukan kumpul.*
+Ia menutup bible, lalu menatap papan keadaan. Sela telah menulis: *the Gate Family=#perawat tua, the Escape=barat daya(lolos), the Remnant=timur. Sisa the Stillness,the Silence,the Ground. Jaga the Survivor di ambang, bukan kumpul.*
 
 Di sudut, Gella duduk memilin benang bersama perawat tua di ambang menara. "Kita temukan tiga dalam seminggu," katanya. "Ibu Tamma, pemulung timur, dan engkau. Delapan belas tahun kalian bersembunyi tanpa tahu kunci ada pada kalian."
 
@@ -121,7 +121,7 @@ Kovan mencatat di peta: benang abu-abu ke barat daya kini digaris merah tebal. "
 
 Sela menulis di papan: *the Escape Survivor lolos (ketukan darurat). the Unclaimed Knot jatuh tetapi tanpa kunci = pola kosong. Kita pegang napas, mereka pegang batu.*
 
-Mira di menara membuka buku catatan halaman kesebelas. "Dentum di barat daya berdenyut liar saat the Wanes masuk, lalu kembali acak setelah the Escape Survivor lolos," katanya pada perawat tua. "the Unclaimed Knot hidup, tetapi tidak terbuka."
+"Dentum di barat daya berdenyut liar saat the Wanes masuk, lalu kembali acak setelah the Escape Survivor lolos," kata Mira pada perawat tua sambil membuka halaman kesebelas. "the Unclaimed Knot hidup, tetapi tidak terbuka."
 
 "Mereka pegang batu, bukan napas," kata perawat tua.
 

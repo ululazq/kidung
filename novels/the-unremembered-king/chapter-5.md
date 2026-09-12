@@ -3,114 +3,250 @@ title: "Bab 5: Panen"
 chapter: 5
 ---
 
-Turun ke dasar the Underfold adalah pelajaran anatomi yang tidak diminta siapa-siapa. Setiap tingkat lorong punya nama pekerjaan dan bahunya sendiri — tingkat troli gemuruhnya di gigi, tingkat bor getarannya di tulang, tingkat tungku panas yang masuk lewat kulit lalu tinggal di sana seperti rumah yang tidak mau menutup pintunya. Regu Brannoc menuruni semua itu dengan ritme orang yang hafal tangga rumahnya sendiri, dan Ashvarok menghitung setiap tingkat sambil membaca hal-hal yang tidak diperlihatkan siapa pun: kemiringan formasi, arah retak yang masih berumur, cara batu menelan bunyi langkah seperti makhluk yang berpura-pura tidak mendengar.
+Tangga menuju lorong sembilan bawah bergetar di bawah sepatu tiga puluh pekerja.
 
-Di antrian tingkat troli, regu lain menyeret dua belas gerobak batu kelas tiga lewat dengan roda yang menjerit. Semacam menjerit setengah kecil, setengah lelah — bunyi yang sudah menjadi bagian dari udara, seperti degaman tubuh ketika berbaring. Ondar mengikis peluhnya dengan lengan, dan bau garamnya bergabung dengan bau debu dan minyak.
+Ashvarok turun bersama regu Brannoc sambil menghitung getaran yang kembali melalui tulang kering Renn. Tingkat troli mengirim dentang roda dan rantai. Tingkat bor mengguncang gigi. Di tingkat tungku, udara kering membawa bau bata panas dan seam terbakar. Setelah itu hanya tersisa debu basah, akar pahit dari mulut Brannoc, dan napas orang-orang yang menyimpan tenaga untuk jalan pulang.
 
-"Kata orang tua dulu, tambang ini tidak habis-habis," katanya. "Benar tidak, Foreman?"
+Tubuh Renn mengenal tangga tersebut. Kaki kirinya mencari pijakan yang aus. Bahunya miring saat melewati pipa rendah. Ingatan itu berguna. Ashvarok membiarkan tubuh memilih jalan, sementara ia membaca susunan the Underfold.
 
-"Orang tua juga bilang kuota tidak naik-naik." Brannoc tidak menoleh. "Lihat mana yang lebih cepat terbukti bohong."
+Tambang tersebut pernah dibangun dengan rencana. Lorong-lorong tua mengikuti resonant seam pada sudut yang tepat, membagi tekanan ke batu induk, lalu berbelok sebelum resonant seam menipis. Galian baru memotong pola itu demi jarak lebih pendek. Tiang kayu menggantikan perhitungan. Besi dipasang untuk menahan kesalahan yang dibuat besi sebelumnya.
 
-Tawa pendek berhamburan di barisan lalu cepat mati lagi, seperti semua tawa di kedalaman — sesuatu yang harus dibayar dengan tenaga, tidak dibagi gratis. Ashvarok berjalan paling belakang, menyentuh tiang penyangga setiap kali melewatinya. Kayu-kayu itu bercerita kepadanya tanpa diminta, umur, beban, arah tekanan, dan satu per satu ia menyusun kesimpulan yang membuatnya ingin turun lebih cepat. Penyangga-penyangga di sisi timur menahan beban yang tidak sebanding dengan lorong di atasnya. Ada ruang kosong besar di bawah sana — ruang yang tidak tercatat di peta mana pun, atau peta yang tercatat salah.
+Ashvarok menyentuh satu penyangga saat antrean berhenti di tingkat troli. Kayunya lembap pada sisi utara, tetapi sisi timurnya menanggung beban jauh lebih besar. Ia menekan telapak pada tiang berikutnya. Sama. Tiang ketiga juga demikian.
 
-Ia mengucapkannya dalam hati seperti orang yang sedang mengulang jumlah sisa uang. Empat puluh dua hasta. Tiga puluh satu. Enam belas.
+Di bawah sisi timur ada rongga lebar.
 
-Di kedalaman itu, geometri tambang berhenti menjadi pekerjaan dan mulai menjadi peta. Ashvarok bisa merasakannya tanpa membuka bakat apa pun — cukup telapak tangan menyentuh dinding. Urat gema dalam formasi mengalir ke satu arah, seperti akar air yang dipetakan ratusan tahun lalu oleh orang-orang yang membanggakan namanya di atas peta. Arah itu menurun, condong ke timur, menuju titik yang membuat tulang tubuh pinjaman ini tahu lebih dulu daripada kepala. *Kau ingat, kan.* Bukan pertanyaan. Hanya tebasan ingatan yang lewat lalu pergi.
+Bukan lorong tambang. Tidak ada jalur angkut yang membutuhkan atap sebesar itu.
 
-Dia menarik tangannya dari dinding tepat sebelum Brannoc menoleh.
+Dua belas gerobak dari regu lain lewat di persimpangan. Rodanya menjerit pada rel. Ondar menutup satu telinga dengan bahu dan menyeka peluh memakai lengan.
 
-"Lorong sembilan bawah," kata Brannoc, menggantung dua lampu cinder-glass pada pasak. Cahayanya kuning, hangat, kualitas cahaya yang tidak pernah benar-benar menembus gelap — hanya menahan gelap sejauh satu lengan. "Aturan reguku: satu menggali, satu mengawas, bergantian tiap jam. Ondar, kau dengan saya di depan. Renn, kau angkutan. Kalau aku angkat tangan —" dia mengangkat tangan, dan lampu-lampu di barisan terasa ikut menahan napas, "—semua diam dan lampu mati. Pertanyaan nanti. Di atas."
+"Orang tua bilang tambang ini tidak akan habis," katanya. "Benar, Foreman?"
 
-"Kenapa lampu mati?" tanya Ondar.
+Brannoc tetap menghadap antrean. "Orang tua juga bilang kuota tidak akan naik. Pilih kebohongan yang paling membuatmu nyaman."
 
-"Karena gelap murah dan hidup mahal." Brannoc sudah berjalan. "Ayo."
+Dua pekerja tertawa. Tawa itu lenyap ketika gerobak berikutnya melintas.
 
-Jeda adegan `---`
+Ashvarok mengangkat tangan dari penyangga.
 
-Lorong sembilan bawah adalah lorong tua yang bekerja setengah mati — seam sempit, cinder-glass kelas tiga, dan udara yang terasa seperti diminum melalui kain basah. Mereka menggali dua jam sesuai aturan, dan selama dua jam itu Ashvarok menyelesaikan pekerjaan sampingan yang tidak dicatat siapa pun.
+Brannoc menoleh. "Ada masalah?"
 
-Ia mengukur tambang ini dengan standar lain. Standar dirinya.
+"Beban sisi timur terlalu besar."
 
-Formasi the Underfold, ia putuskan di jam pertama, adalah bangunan yang didesain ulang berkali-kali oleh orang-orang yang tidak saling bicara. Lorong-lorongnya mengikuti urat gema seperti harus, tetapi ada pola bekas di bawah pola resmi — jejak pengambilan material yang tidak mengikuti kuota mana pun. Alur potong yang terlalu rapi untuk sekop, terlalu dangkal untuk serius, dan selalu berada di tempat yang sama pada uratnya. Seperti buah yang dipetik, bukan pohon yang ditebang.
+"Kamu memeriksa kayu sekarang?"
 
-Jam kedua, tangannya menemukan alur itu lagi. Kali ini segar.
+"Aku memeriksa apa yang akan jatuh di kepalaku."
 
-"Apa itu?" Brannoc sudah berada di sisinya tanpa dipanggil, lampunya diturunkan mendekati dinding, dan untuk sesaat cahaya itu membentuk wajahnya menjadi lebih tua dari yang seharusnya.
+Brannoc memindahkan akar pahit ke sisi mulut yang lain. "Dan?"
 
-Di permukaan seam, deretan sayatan kecil berjajar seperti sisir. Enam baris, tiap baris tujuh goresan, sedalam kuku, presisi seperti dibuat oleh alat yang tidak pernah dijual di Caldrest. Batu di sekelilingnya tetap utuh. Yang diambil hanya lapisan tipis tempat gema paling padat tinggal.
+Ashvarok menunjuk tiga penyangga tanpa menyentuhnya lagi. "Ada ruang kosong di bawah kita. Lebarnya paling sedikit empat puluh hasta."
 
-"Pemula tidak memotong begini," kata Ondar dari belakang, suaranya turun sendiri tanpa disuruh. "Ini bekerja orang yang latihan."
+Ondar melihat lantai batu di antara sepatunya. "Kamu tahu dari kayu?"
 
-"Ini bukan bekerja tambang." Brannoc menyentuh sayatan itu dengan ibu jari, lalu mencium ujung jarinya. Wajah foreman itu berubah perlahan menjadi sesuatu yang lebih tua, lebih sunyi. "Tidak ada debu bor. Tidak ada minyak asah. Dipotong dingin."
+"Aku tahu kayu itu menahan sesuatu yang tidak ada di peta shift."
 
-"Dipotong bagaimana?"
+"Peta dasar sudah diperiksa kantor pusat," kata Brannoc.
 
-"Tidak tahu. Dan itu yang membuat aku tidak suka." Ia menyapu lampu sepanjang dinding, dan sayatan-sayatan itu ternyata bukan satu-dua — deretan demi deretan, beberapa sudah menutup rapuh dengan endapan garam, beberapa masih hitam baru, berkilat tipis seperti luka yang belum bisa tidur. "Berapa lama ini dilakukan, menurut kalian?"
+"Mereka memeriksa gambar. Kayu memeriksa bebannya setiap hari."
 
-Ashvarok menghitung umur endapan garamnya seperti menghitung umur pada luka seseorang — dengan hati-hati, dengan tangan yang tidak ingin menyakitkan. "Yang tertua musim panas. Yang termuda —" ia menyentuh satu sayatan, menekan kuku di pinggirnya, "—kurang dari delapan hari."
+Antrean bergerak. Brannoc menyuruh Ondar maju dengan satu gerak dagu, lalu berjalan di samping Ashvarok.
 
-"Delapan hari." Brannoc melepaskan napas pelan, dan napas itu keluar sebagai kabut kecil di udara dingin. "Itu shift kita."
+"Jangan katakan itu kepada petugas Quota Office," katanya pelan.
 
-"Hampir," kata Ashvarok. "Kita turun enam hari lalu, lorong tujuh. Ini lorong sembilan. Namun panen ini dan runtuhan tujuh mungkin satu tukang."
+"Karena mereka akan memeriksa?"
 
-Ruangan sempit itu jadi sangat sunyi — jenis sunyi yang berbeda dari sunyi dinding. Sunyi tiga orang yang bersama-sama baru sadar bahwa tambang mereka punya tamu.
+"Karena mereka akan menambah kolom, lalu menyuruh kita menggali kolom itu."
 
-Lampu Brannoc berhenti di sudut lorong, di lekukan alami tempat pekerja biasa meninggalkan bejana minum. Yang ditemukan foreman itu bukan bejana.
+Ia mempercepat langkah sebelum Ashvarok menjawab.
 
-"Nah ini." Ia mengangkat sesuatu dengan ujung pisaunya. Sisa lilin, setinggi dua ruas jari, menetes dan mengeras di atas lempengan batu yang rata. Putih keabu-abuan. Dingin, padat, kualitas lilin yang tidak pernah dibeli orang tambang — lilin jenis yang digosok perlahan di ruangan yang tenang, bukan yang dinyalakan untuk terang.
+Di ujung tangga terakhir, Brannoc menggantung dua lampu cinder-glass pada pasak. Cahaya kuning menyingkap lorong sempit, rel tunggal, dan dinding seam yang basah oleh endapan garam.
 
-"Orang memotong seam pakai lampu cinder-glass," kata Ondar. "Kenapa bawa lilin?"
+"Lorong sembilan bawah," katanya. "Satu menggali, satu mengawasi. Berganti tiap jam. Ondar bersama saya di muka. Renn mengangkut. Kalau tangan saya naik, semua berhenti. Lampu mati. Tak ada pertanyaan sampai kita di atas."
 
-"Karena dia tidak mau percikan." Ashvarok berjongkok di samping lekukan itu tanpa menyentuh apa pun. "Cinder-glass memancarkan gema kalau dinyalakan. Kalau kamu bekerja dengan gema — memotongnya, membawanya — kamu tidak mau ada gema lain yang mengacaukan tanganmu."
+Ondar mengencangkan tali sarung tangannya. "Kenapa lampu ikut mati?"
 
-"Sejak kapan furnace boy tahu soal gema?" Brannoc menoleh tajam, dan lampu di tangannya bergeser, membentuk bayangan panjang di dinding.
+"Gelap murah. Pemakaman tidak."
 
-"Sejak dinding tujuh bicara," kata Ashvarok. "Orang mulai belajar hal-hal aneh setelah mati sekali."
+Brannoc mengambil beliung. "Kerja."
 
-Foreman itu menatapnya dua detik lebih lama dari yang nyaman, lalu memilih menunda. Pisaninya mengikis sedikit lagi lilin itu, dan di dasar tetesan yang ia angkat mendekati lampu, terlihat sesuatu yang membuat Brannoc berhenti mengunyah — benang. Satu helai benang tipis warna timah, tertanam melintang di dalam badan lilin, seperti ditancapkan sengaja sebelum lilinnya dicairkan.
+---
+
+Udara lorong sembilan terlalu basah untuk debu beterbangan. Serbuk batu melekat pada kulit dan membentuk lumpur tipis di bawah kerah. Setiap ayunan beliung dibalas gema pendek dari dinding kanan. Dinding kiri tidak menjawab sekeras itu.
+
+Selama jam pertama, Ashvarok mendorong troli dari muka galian ke jalur angkut. Ia menghitung langkah, kemiringan, dan selisih bunyi roda. Lorong tersebut turun ke timur lebih tajam daripada yang tampak. Resonant seam di dinding bergerak ke arah sama, mengalir jauh ke bawah rongga yang tadi ia temukan lewat penyangga.
+
+Ia tidak membuka the Walking Key. Menyentuh the Threshold dari jarak ini akan menghabiskan the Remainder dan mungkin membiarkan retakan mengenali tubuh Renn lagi. Batu biasa sudah memberi cukup informasi.
+
+Pada perjalanan ketujuh, ujung jarinya menemukan alur pada seam.
+
+Ashvarok berhenti seakan hendak membetulkan pegangan troli. Ia menyapu lumpur dari permukaan batu. Tujuh sayatan pendek muncul di bawahnya, sejajar dan sama dalam. Di bawah baris pertama ada lima baris lain. Bukan bekas beliung. Mata alat tambang akan meremukkan tepi cinder-glass; sayatan ini mengangkat lapisan tipis tanpa melukai batu di sekelilingnya.
+
+Seseorang telah mengambil bagian paling padat dari seam.
+
+"Troli penuh tidak jadi ringan kalau kamu tatap," kata Ondar.
+
+Ashvarok mendorong lagi. "Aku menemukan bekas potong."
+
+Beliung Brannoc berhenti.
+
+Foreman itu datang tanpa membawa lampu. "Tunjukkan."
+
+Ashvarok menggeser troli. Brannoc menurunkan lampu dari pasak terdekat dan mendekatkannya ke dinding. Cahaya menyapu enam baris sayatan. Setelah tahu apa yang dicari, mereka melihat bekas serupa sepanjang beberapa hasta: sebagian pucat tertutup garam, sebagian masih hitam dan tajam.
+
+Ondar menyentuh gagang pisaunya, bukan batu. "Itu kerja orang terlatih."
+
+"Bukan kerja penambang," kata Brannoc.
+
+Ia mengusap satu sayatan dengan ibu jari, lalu mencium debu yang melekat. Ondar menunggu. Ashvarok memeriksa wajah foreman tersebut dan melihat rahangnya mengeras.
+
+"Tidak ada minyak asah," lanjut Brannoc. "Tidak ada debu bor. Potongannya dingin."
+
+"Alat apa yang bisa begitu?" tanya Ondar.
+
+"Alat mahal."
+
+Brannoc mengarahkan lampu ke Ashvarok. "Berapa umurnya?"
+
+Pertanyaan itu ujian, bukan permintaan bantuan. Ashvarok berjongkok. Endapan garam tumbuh dari air yang sama, tetapi tebalnya berbeda. Ia mengikis tepi satu alur dengan kuku, lalu membandingkannya dengan retak alami di bawahnya.
+
+"Yang tertua dibuat sebelum musim panas," katanya. "Yang termuda belum delapan hari."
+
+"Shift kita turun ke lorong tujuh enam hari lalu," kata Ondar.
+
+"Saya masih bisa berhitung." Brannoc memeriksa lorong di belakang mereka. "Tak ada regu resmi bekerja di sini selama jeda itu."
+
+Ashvarok berdiri. "Orang yang memotong lorong tujuh bisa memakai jalur timur untuk mencapai tempat ini."
+
+"Kamu bilang runtuhan itu disengaja?"
+
+"Aku bilang waktunya berdekatan. Orang yang masih hidup karena berhati-hati tidak mengubah kemungkinan menjadi fakta."
+
+Brannoc menatapnya. "Kepalamu memang membaik dengan cara yang menyusahkan."
+
+Suara logam beradu terdengar dari jalur utama, jauh dan teredam. Brannoc langsung mengangkat tangan.
+
+Ondar memadamkan lampu pertama. Ashvarok menutup lampu kedua. Gelap memenuhi lorong. Tak ada langkah mendekat. Setelah tiga puluh hitungan, suara logam terdengar lagi, lalu bergerak menjauh bersama derit troli.
+
+Brannoc menyalakan satu lampu saja.
+
+"Kenapa kita sembunyi dari regu lain?" tanya Ondar.
+
+"Kita belum tahu siapa yang perlu dihindari."
+
+Mereka menyisir dinding tanpa bercakap. Di lekukan dekat muka galian, Brannoc menemukan lempeng batu datar yang biasa dipakai untuk meletakkan bejana minum. Ada lilin setinggi dua ruas jari di atasnya, putih keabu-abuan, dengan sumbu yang sudah tenggelam dalam lelehan.
+
+"Orang membawa lampu ke tambang," kata Ondar. "Bukan lilin."
+
+Ashvarok mencium udara di dekat lempeng. Bau lemak dingin dan mineral menutupi sisa asap. "Cinder-glass memancarkan gema ketika menyala. Lilin tidak."
+
+Brannoc menahan ujung pisaunya di bawah tetesan lilin. "Teruskan."
+
+"Kalau alatnya membaca Resonance, lampu akan mengganggu. Ia butuh cahaya tanpa gema."
+
+"Sejak kapan furnace boy paham alat pemanen seam?"
+
+Pertanyaan Brannoc datar. Ondar menatap Ashvarok, menunggu jawaban yang juga ingin ia dengar.
+
+"Sejak dinding lorong tujuh mengeluarkan suara sebelum runtuh," kata Ashvarok. "Aku memilih mendengarkan setelah itu."
+
+"Mendengar dan menjelaskan bukan hal yang sama."
+
+"Tidak. Namun orang yang hampir mati punya alasan belajar cepat."
+
+Brannoc mengangkat tetesan lilin dengan pisaunya. Sehelai benang warna timah terbenam di tengah lilin, lurus dari satu sisi ke sisi lain. Foreman itu berhenti mengunyah.
 
 "Tanda pembuat?" tanya Ondar.
 
-"Atau tanda izin." Brannoc membungkus sisa lilin dan tetesannya dalam kain, menyimpannya jauh di dalam jaket, di tempat yang bukan kantong surat resmi. "Yang jelas, ini bukan barang pencuri miskin. Pencuri miskin memotong kasar, bawa banyak, lalu lari. Ini bekerja sabar. Kerja sabar artinya bakal balik."
+"Mungkin," jawab Brannoc.
 
-"Terus biarkan saja?"
+"Atau izin," kata Ashvarok.
 
-"Tidak lapor dulu." Brannoc memutar badannya pelan-pelan, dan suaranya turun sampai level yang hanya cukup untuk tiga orang. "Seam ini lisensi the Quiet Vein. Ada yang memotong seam kami tanpa kontrak, tanpa kuota, tanpa catat — kalau kabarnya keluar, yang disoal duluan bukan pencurinya. Yang disoal foreman yang tidak lihat. Kalian. Saya. Dan kalau pencuri ini punya teman di Quota Office, laporan kita hanya jadi tinta untuk mengubur kita lebih rapi." Ia mengeluarkan pisaunya, mengikis sedikit endapan garam dari salah satu sayatan termuda, dan membungkus serpihannya di kain lain. "Kita cari tahu dulu siapa. Diam-diam. Kalian dua ini tidak pernah memotong begini, ya?"
+Brannoc membungkus lilin dalam secarik kain. Ia menyimpannya di balik jaket, jauh dari kantong laporan shift. Serpihan endapan dari sayatan termuda masuk ke bungkusan terpisah.
 
-"Bahkan kalau iya, tidak akan serapi itu," kata Ashvarok.
+"Kita bawa ini ke Quota Office?" Ondar bertanya.
 
-"Bagus. Berarti daftar tersangkanya pendek." Brannoc menyalakan lampunya penuh lagi, dan suara foreman kembali ke ukuran normal, keras, milik siapa-siapa. "Ondar, troli. Renn, angkat. Jam bekerja belum selesai, dan kalau ada yang tanya, hari ini kita hanya gagal capai kuota seperti biasa."
+"Tidak."
 
-Mereka bekerja satu jam lagi. Ashvarok mengangkut batu, dan di antara angkutan, saat kedua penambang lain membelakanginya, ia meletakkan telapak tangannya sekali lagi pada dinding seam — di bawah titik panen terdalam.
+"Ada orang mencuri seam the Quiet Vein."
 
-Gema formasi mengalir ke bawah. Condong timur. Dan di ujung arus itu, empat puluh hasta lebih dalam, sesuatu menyerap dengan irama yang sama persis dengan jeda tiga detik yang tidak akan dia kenal namanya sampai banyak hari kemudian — tarik, tahan, tarik, tahan.
+"Dan saat kantor bertanya kenapa pencurian berlangsung berbulan-bulan, siapa yang pertama mereka ikat? Pencuri yang belum punya nama, atau foreman yang namanya ada di semua laporan?"
 
-Seperti paru. Seperti napas milik sesuatu yang sedang tidur dan tidak boleh dibangunkan.
+Ondar menurunkan suara. "Kalau pencurinya orang kantor?"
 
-Ashvarok menegakkan tubuh yang pegal dan menyusun dua fakta itu berdampingan di kepala tempat semua pola Emberweave juga tinggal. Fakta pertama. Ada orang yang memanen urat gema the Underfold secara ilegal, sabar, bersenjata alat yang tidak dijual di mana pun. Fakta kedua. Jauh di bawah panen mereka, segel lamanya sedang dihisap oleh sesuatu yang tidak pernah bisa ditangkap Quota Office. Dua pencuri dalam satu rumah — atau satu pencuri dengan dua mulut, yang atasnya memakan daging dan yang bawahnya menyerap darah.
+"Maka laporan kita sampai kepadanya lebih cepat daripada bantuan sampai kepada kita." Brannoc menunjuk sayatan dengan pisaunya. "Kalian tak melihat ini. Hari ini seam tipis. Batu buruk. Kuota gagal. Itu saja."
 
-Kalau kedua mulut itu milik satu kepala, maka para pemotong sayatan rapi itu tahu persis apa yang ada di bawah mereka. Dan orang-orang yang tahu tentang the Threshold, di zaman yang sudah lupa namanya, adalah orang-orang paling berbahaya di Karvess — bukan karena jumlahnya banyak, tetapi karena setiap kali satu dari mereka muncul, hitungan hidupnya selalu naik.
+"Lalu kita diam?" tanya Ondar.
 
-Dia mencatat kemungkinan itu untuk malam-malam berikutnya, lalu mengangkat troli seperti bocah tambang yang seharusnya hanya lelah.
+"Kita menunggu dia kembali. Kerja serapi ini tidak dilakukan sekali."
 
-Saat naik, di tingkat troli yang bising, Brannoc berjalan di sebelahnya tanpa menoleh.
+Ashvarok memandang bungkusan di balik jaket Brannoc. "Jika kita mengubah lorong, dia tahu bekasnya ditemukan."
 
-"Renn. Kamu bilang sunyi total sebelum runtuhan tujuh."
+"Karena itu kita lanjut bekerja." Brannoc menggantung lampu kembali. "Satu jam. Ambil batu secukupnya agar laporan kegagalan kita tampak jujur."
 
-"Iya."
+Ondar meraih troli. "Laporan gagal tak pernah sulit dipercaya."
 
-"Orang yang memotong seam itu pasti butuh tempat senyap buat bekerja." Mata foreman itu lurus ke depan, tetapi nada suaranya lebih rendah dari kata-kata yang ia pilih. "Dan kamu anak pertama yang selamat dari tempat senyap. Jadi mulai sekarang, kalau kupanggil dan kamu tidak jawab, aku yang datang. Bukan karena aku sayang kamu."
+"Buktikan dengan bekerja."
 
-"Karena aku barang bukti," kata Ashvarok.
+---
 
-"Karena kamu satu-satunya yang pernah dengar mereka bekerja." Brannoc melangkah lebih cepat, naik ke terang, lalu menambahkan satu kalimat lagi tanpa menoleh, pelan sekali sampai nyaris tertelan gemuruh troli — "Dan kalau suatu hari kamu hilang di dalam sana, adik kecil yang menunggu di barak itu tidak akan pernah tahu kenapa. Itu bukan cara mati yang layak buat keluarga siapa pun."
+Saat Brannoc dan Ondar kembali ke muka galian, Ashvarok menempelkan telapak pada dinding di bawah sayatan terdalam.
 
-Ashvarok berhenti satu langkah di tangga.
+Dingin menembus kapalan Renn. Ia menutup mata dan membatasi perhatian pada batu, tanpa menyentuh pengikat di dalam dirinya.
 
-Bukan karena peringatannya. Karena kata gantinya.
+Resonant seam tidak diam. Gema mengalir menurun ke timur, melewati lorong dan rongga besar di bawah penyangga. Di kedalaman sekitar empat puluh hasta, aliran itu tersendat.
 
-Keluarga.
+Tarik.
 
-Brannoc sudah jauh di depan, dan Ashvarok menyusulnya naik ke terang dengan satu fakta baru yang tersimpan rapi di samping semua yang lain. Foreman tua itu sudah memutuskan bahwa bocah tambang bernama Renn punya sesuatu yang bisa hilang — dan untuk alasan yang belum ia pahami, foreman itu memutuskan ikut menjaganya. Mungkin karena rasa kalah. Mungkin karena rasa ingat. Tetapi di dunia yang sunyi, sebuah keputusan tidak selalu butuh alasan untuk menjadi benar.
+Tahan.
 
-"Jaga mata kamu," kata Brannoc saat mereka berpisah di tingkat troli, kembali dengan suara keras milik siapa-siapa. "Gaji kamu belum sepadan."
+Tarik.
+
+Tahan.
+
+Sesuatu menyerap gema dengan irama teratur. Jeda antarserapan sama panjang, hampir tiga detik. Bukan kerja alat potong di dinding ini. Sayatan mengambil lapisan dari luar; tarikan di bawah meminum dari pusat formasi.
+
+Ashvarok membuka mata dan menarik tangannya.
+
+Dua pencurian. Di atas, seseorang memanen seam memakai alat dingin dan cahaya tanpa gema. Di bawah, sesuatu menyedot pengikat the Threshold melalui batu. Keduanya berada pada garis yang sama.
+
+Kebetulan tidak bekerja serapi itu.
+
+"Renn." Suara Brannoc datang dari muka galian. "Kalau sudah selesai tidur berdiri, bawa trolinya."
+
+Ashvarok mendorong muatan terakhir. Tubuh Renn letih, paha kirinya masih nyeri, tetapi pikirannya telah menyusun bentuk masalah tersebut. Pemanen akan kembali. Saat itu terjadi, ia perlu berada cukup dekat untuk melihat alat, tangan, dan tujuan mereka. Sebelum itu, ia membutuhkan sesuatu yang tidak dimiliki bocah tungku: kekuatan untuk bertahan jika pengamatan berubah menjadi perkelahian.
+
+Pola Cinder masih utuh dalam ingatannya. Sembilan simpul. Dua belas jalur. Satu pintu buang.
+
+Yang belum ia punya adalah panas yang mampu dibayar tubuh ini.
+
+Dalam perjalanan naik, tingkat-tingkat the Underfold mengembalikan bunyinya satu per satu. Bor. Troli. Rantai lift. Di tingkat tungku, gelombang panas menyentuh wajah Ashvarok dan bertahan di bajunya.
+
+Brannoc berjalan di sampingnya. "Kamu bilang semua bunyi hilang sebelum lorong tujuh runtuh."
+
+"Ya."
+
+"Orang yang memotong seam butuh tempat tanpa gema. Kamu satu-satunya yang pernah keluar dari sunyi semacam itu." Brannoc menatap lurus ke depan. "Mulai sekarang, kalau saya panggil dan kamu tidak jawab, saya datang mencari."
+
+"Karena aku barang bukti."
+
+"Karena kamu pekerja regu saya. Jangan buat kalimatnya lebih indah."
+
+Mereka menaiki beberapa anak tangga. Gemuruh troli menutup percakapan dari pekerja lain.
+
+"Kalau aku hilang," kata Ashvarok, "kamu kehilangan kuota satu orang."
+
+"Saya kehilangan lebih banyak waktu untuk menjelaskan kepada Sela kenapa kakaknya tidak pulang." Brannoc menoleh singkat. "Saya tidak mau pekerjaan itu."
+
+Tubuh Renn bereaksi sebelum Ashvarok: langkahnya tersendat, lalu kembali teratur.
+
+"Jadi ini soal menghindari adikku."
+
+"Akhirnya kepalamu berguna."
+
+Di persimpangan, Brannoc menyerahkan laporan muatan kepada petugas dan berjalan pergi tanpa pamit. Ondar menyusulnya sambil mendorong troli kosong.
+
+Ashvarok tertinggal dekat kisi ventilasi. Panas bekas dari tiga tungku mengalir melalui celah bata, dibuang sepanjang malam agar tekanan lorong tetap stabil. Tak ada yang menghitung sisa panas. Tak ada yang menagihnya kepada pekerja.
+
+Ia menahan telapak satu jari dari kisi. Kulit Renn segera menghangat.
+
+Di bawahnya, pemanen tanpa nama akan kembali ke lorong sembilan. Jauh lebih dalam, pengikat lama terus kehilangan gema dalam tarikan tiga detik.
+
+Ashvarok menghafal jalan menuju ruang tungku tingkat lima, lalu naik ke permukaan sebelum shift malam dimulai.

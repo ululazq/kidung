@@ -3,102 +3,262 @@ title: "Bab 8: Bahasa Batu"
 chapter: 8
 ---
 
-Brannoc menemukan dia di gudang perkakas tingkat dua, tempat para pekerja menitipkan sekop pribadi dan jarang datang kecuali mau mencuri waktu. Foreman itu masuk tanpa salam, menutup pintu dengan kakinya, dan berdiri membelakangi kayunya seperti orang yang sudah menghitung kalimat pembuka sejak subuh.
+Ujung pahat berhenti selebar kuku dari jari Ashvarok.
 
-Ashvarok sudah mengantre kemungkinan ini dua hari. Kesepakatan dengan Tharrow punya tenggat. Tulang seam disetor sebelum Guild tiba, dan mencari fragmen premium di kedalaman tanpa izin foreman sama dengan berjalan di atas retakan sambil bersiul. Dia butuh Brannoc membuka pintu — dan memilih menunggu foreman itu menyadarinya sendiri, karena orang yang merasa menemukan selalu lebih murah hati daripada orang yang merasa ditawari.
+Brannoc menahannya di atas meja gudang perkakas. Di antara mereka tergeletak sekeping cinder-glass kusam, sisa sortir yang terlalu tipis untuk masuk karung setoran. Cahaya lampu memantul pada permukaannya, memperlihatkan goresan alat dan lumpur kering—tetapi tidak memperlihatkan garis yang baru saja disebut Ashvarok.
 
-"Kantor kuota memanggilku tadi pagi," kata Brannoc. "Dua belas pertanyaan soal lorong tujuh. Semua jawab aku bawa dari jawabanmu dulu, waktu persimpangan. Jadi sekarang aku mau tanya satu hal yang tidak ditanya mereka."
+"Di sini?" tanya Brannoc.
 
-"Tanyakan."
+"Sedikit ke kiri."
 
-"Kamu tahu tambang ini akan runtuh lebih cepat dari laporannya." Mata foreman itu lurus, tanpa nada tuduhan — nada seorang akuntan yang sudah cocokkan angkanya. "Waktu amblas tujuh, kamu tidak panik. Kamu menyelamatkan diri dengan urutan orang yang sudah tahu ke mana harus lari. Dan kemarin di sembilan bawah, kamu pegang dinding seperti dokter pegang nadi."
+Pahat bergeser.
 
-Ashvarok menimbang jarak antara kebenaran dan kegunaan, dan memilih yang biasanya lebih murah: keduanya.
+"Terlalu jauh."
 
-"Iya," kata dia. "Aku bisa membaca retakan batu."
+Rahang Brannoc mengeras. Ia mengembalikan mata pahat setebal rambut. "Kalau keping ini hancur, kau yang menyapu."
 
-"Baca bagaimana?"
+"Kalau hancur, kita tidak perlu melanjutkan percakapan."
 
-"Seperti kau membaca formasi musuh." Ashvarok meletakkan sekopnya, memungut satu pecahan cinder-glass dari lantai gudang, dan menyerahkan kepada Brannoc bersama pahat kecil dari rak. "Pukul tepat di garis putih itu. Pelan saja."
+Mandor itu mengetuk pangkal pahat dengan palu kecil.
 
-Brannoc melihatnya — semua orang melihatnya, karena permukaan kaca-batu itu tidak punya garis putih. Tetapi ia prajurit cukup lama untuk tahu kapan harus percaya pada orang yang tenang tanpa alasan. Pahat menyentuh, diketuk sekali.
+Kaca-batu terbelah. Bukan pecah berhamburan, melainkan membuka sepanjang bidang tipis yang sebelumnya tersembunyi di bawah kulit mineral. Satu belahan tetap di meja. Belahan lain meluncur dan berhenti di depan Ashvarok. Permukaan dalam keduanya halus, dengan seutas cahaya kemerahan terperangkap di tengah.
 
-Pecahan itu terbelah rapi di tengah, dua bidang licin seperti dipotong pisau, tepat pada garis yang hanya dilihat oleh satu pasang mata di ruangan itu.
+Brannoc meletakkan palu. Di luar gudang, rantai lift berderak menyambut regu pagi. Para pekerja berteriak meminta kait, lampu, atau ruang lewat. Tak satu pun suara masuk utuh melalui pintu yang sudah Brannoc ganjal dengan sekop.
 
-Foreman tua itu menatap dua potongan di telapak tangannya lama sekali. Ketika mendongak, sesuatu dalam wajahnya sudah bergeser dari pertanyaan ke perhitungan.
+"Sekali bisa kebetulan," katanya.
 
-"Melakukan lagi," katanya. "Di dinding sungguhan."
+"Karena itu kau membawa pahat."
 
-Mereka keluar ke lorong tingkat dua, sepi di jam pergantian. Brannoc menunjuk satu bidang dinding antara dua penyangga. Ashvarok meletakkan telapak tangannya pada batu, membaca dengan mata telanjang — garis mikro, suhu permukaan, bunyi ketukan jarinya sendiri — lalu mengambil kapur dari saku Brannoc dan menarik satu lingkaran tidak rapi selebar kepala.
+"Aku membawa pahat karena dua hari lalu kau menyentuh penyangga di lorong sembilan dan menyebut rongga yang tidak ada di peta. Pagi tadi Tharrow menanyaiku apakah kepalamu berubah setelah runtuhan." Brannoc memutar salah satu belahan di bawah lampu. "Lalu kau keluar dari kantornya dengan kesepakatan yang tidak mau kau ceritakan. Kebetulannya mulai berdesakan."
 
-"Yang dalam lingkaran ini jatuh kalau dipukul tiga kali. Yang di luarnya tetap. Coba."
+Ashvarok memasukkan kedua tangan ke saku celana kerja. Brannoc belum datang untuk melaporkannya. Orang yang hendak melapor tidak menutup pintu dan menguji bukti terlebih dahulu.
 
-Brannoc memukul sekali. Batu bergetar. Dua kali. Debu turun dari garis lingkaran seperti tepung. Ketiga — sebidang batu selebar kepala lepas tanpa suara, terguling ke kaki mereka, dan bidang dinding yang tersisa licin sempurna. Tidak ada satu retakan pun menjalar keluar lingkaran itu. Presisi seperti itu bukan pekerjaan pahat; itu pekerjaan pengertian.
+"Tharrow ingin seam-bone sebelum penilai Guild tiba," katanya. "Setoran cukup membuat kuotaku dianggap lunas pekan ini."
 
-Foreman tua itu menatap lubang bersih di dindingnya, lalu menatap bocah kurus di sebelahnya, dan barulah malam itu ia tampak benar-benar menghitung kemungkinan yang tidak diajarkan siapa-siapa di tambang.
+"Sebagai gantinya?"
 
-"Berapa lama kamu bisa begini?"
+"Ia mendapat batu lebih dahulu daripada Guild."
 
-"Seumur hidup. Yang susah bukan bacanya." Ashvarok mengambil kembali salah satu potongan, membaliknya. "Yang susah adalah apa yang kulihat. Tambang ini punya jam pasir, Brannoc. Bukan semua lorong, tetapi sisi timur bawah sedikit demi sedikit menyerap air formasi, dan penyangga-penyangga kayu di sana dipasang untuk beban lima puluh tahun lalu. Lorong tujuh hanya yang pertama — dia paling muda karena paling dekat jalur angkutan. Yang berikutnya menurut perhitunganku lorong sebelas dan galeri timur, musim hujan abu kalau pola bekerja tidak berubah."
+"Dan kalau kau gagal?"
 
-"Bisa kamu tunjukkan?"
+"Nama Sela pindah dari kolom jaminan ke daftar barang."
 
-"Sudah." Ashvarok menunjuk lubang bersih hasil tiga ketukan itu. "Bukan itu yang kumaksud. Maksudku bisa — pelan-pelan, lorong demi lorong, tanpa satu pun orang perlu tahu kenapa penyangga diganti lebih awal. Kau suruh ganti, kau punya alasan teknis. Aku kasih daftarnya."
+Akar pahit di mulut Brannoc berhenti bergerak. Ia menunduk pada pecahan cinder-glass, lalu mendorong satu belahan ke tengah meja.
 
-Brannoc menimbang kalimat itu seperti menimbang batuan: beratnya asli atau tidak.
+"Jadi kau berniat turun, mencari retakan yang tidak ditemukan regu lain, dan membawa hasilnya lewat kantor orang yang baru mengancam adikmu."
 
-"Ke mana kamu lapor hal segitu?"
+"Aku berniat memakai pintu yang ia buka tanpa memberinya ruangan di baliknya."
 
-"Ke Quota Office?" Ashvarok tertawa pendek tanpa suara. "Suratmu akan dibaca Tharrow, disimpulkan sebagai alasan naikkan kuota, lalu disegel sebagai rahasia dagang. Kau tahu itu."
+"Kalimat macam itu yang membuatku curiga. Renn yang kukenal akan menyebut Tharrow bangsat, lalu mencari batu sampai punggungnya patah."
 
-"Aku tahu." Brannoc mengunyah akar pahitnya lebih cepat. Rahangnya bekerja seperti sedang menggiling keputusan. "Lalu kenapa kamu cerita ke aku?"
+"Kepalanya tertimpa tambang. Barangkali itu memperbaiki kosakatanya."
 
-Pertanyaan yang benar, dan Ashvarok menghargainya dengan setengah kebenaran lagi.
+Brannoc tidak tertawa. "Renn yang kukenal juga tidak membaca beban dari arah serat kayu."
 
-"Karena kau satu-satunya di tambang ini yang kalau bilang 'semua turun' semua orang benar-benar turun." Ashvarok berjongkok, menyusun kedua potongan kaca-batu itu di lantai menjadi satu garis lurus. "Dan karena aku butuh bekerja diam. Aku akan sering sentuh dinding, sering berhenti di tikungan, sering pilih sendiri batu mana yang kuangkat. Regu lain akan catat aku malas atau aneh. Kau tidak."
+Ashvarok melihat garis patahan pada keping di meja. Menyangkal akan memaksa Brannoc mencari bukti lain. Memberi terlalu banyak kebenaran akan mengubah mandor itu menjadi bahaya bagi dirinya sendiri.
 
-"Satu hal lagi yang mau kutanya, dan ini yang penting." Brannoc berjongkok di seberangnya, dan suaranya turun ke level gudang tutup. "Sayatan-sayatan di sembilan bawah. Yang rapi itu. Kamu bisa membaca siapa pemakainya?"
+"Aku mendengar dinding sebelum lorong tujuh turun," katanya. "Sesudahnya, aku berhenti menganggap bunyi batu sebagai gangguan."
 
-"Bisa membaca apa yang dia cari dan seberapa pandai dia. Pemakai, jam kerja, arah gerak — bisa. Nama tidak tertulis di batu."
+"Kau tidak hanya mendengar."
 
-"Seberapa pandai?"
+"Tidak."
 
-Ashvarok mengingat sayatan-sayatan itu — presisi alat yang tidak dijual di mana pun, irama tangan yang tidak pernah tergesa, pilihan titik potong yang hanya masuk akal bagi orang yang bisa merasakan arah gema seperti merasakan angin.
+"The Resonance?"
 
-"Cukup pandai untuk membayar lebih mahal daripada harga batunya," katanya. "Dan cukup hati-hati untuk tidak pernah bekerja dua kali di lorong yang sama dalam seminggu. Orang begitu bukan pencuri yang kita tangkap. Orang begitu adalah tamu yang harus dipastikan makan malamnya di mana."
+"Kalau aku memakai Resonance, kau akan merasakan gema pada keping itu."
 
-Brannoc menatapnya lama. "Kau bicara tentang tamu seperti pernah punya tamu begini sebelumnya."
+Brannoc menyentuh permukaan belahan dengan dua jari, lalu mengangkatnya ke dekat telinga. Tidak ada dengung. Tidak ada denyut sisa. Hanya cinder-glass mati yang telah membuka tepat di tempat yang disebutkan.
 
-"Semua tempat pernah," kata Ashvarok, dan membiarkan kalimat itu berhenti tepat sebelum menjadi cerita.
+"Lalu apa?"
 
-"Karena mulai besok, tiap kali regumu turun, aku beri tahu dulu lorong mana yang aman hari itu. Tanpa surat. Tanpa jejak. Angka kematian shift-mu turun, produksi naik, dan nama Brannoc yang dicatat pusat sebagai foreman yang angkanya bagus." Ashvarok bangkit. "Aku minta dua hal sebagai balasannya. Satu. Kalau ada yang tanya, aku anak tungku yang suka merenung. Dua. Kalau suatu hari aku minta kamu bawa orang keluar tanpa alasan yang bisa dijelaskan — kamu bawa orang keluar dulu, bertanya belakangan."
+"Tekanan. Air. Panas. Cara retak bercabang. Perubahan bunyi dari satu penyangga ke penyangga berikutnya." Ashvarok mengetuk meja pada empat titik. Tiga ketukan menghasilkan nada rapat. Yang terakhir terdengar kosong. "Batu memberi jawaban sebelum jatuh. Orang biasanya bertanya terlambat."
 
-Brannoc diam. Gemuruh troli dari atas mengisi sunyi untuknya — gemuruh yang menyaring masuk seperti air dingin, mengisi ruang yang tidak mau ia ratapi.
+Brannoc mengambil sekop pengganjal. "Tunjukkan pada sesuatu yang bisa membunuh orang."
 
-"Aku punya anak," kata foreman itu akhirnya, dan kalimat itu keluar seperti barang dari karung yang jarang dibuka. "Laki-laki. Umurnya sembilan. Ibunya mati waktu dia lahir, jadi dia tinggal di asrama distrik utara — bayarannya dari potong gajiku." Ia menatap lubang bersih di dinding itu. "Kontrak pendidikannya pegang the Quiet Vein. Bukan bekerja paksa, tetapi jenis kontrak yang naik harganya tiap tahun, seperti semua milik mereka. Angka shift yang bagus satu-satunya cara bayar dia jadi pandai besi, bukan tambang."
+---
 
-"Pandai besi lebih mahal daripada tambang?"
+Mereka memasuki lorong perawatan tingkat dua saat pergantian shift memenuhi jalur utama. Brannoc berjalan lebih dahulu, memilih tikungan yang tidak dilalui troli. Udara di sana lebih dingin. Air menetes dari pipa ventilasi dan membuat lumut mineral tumbuh pada kepala baut.
 
-"Semua yang tidak bunuh diri pelan-pelan lebih mahal." Brannoc mengembalikan pahat ke rak dengan gerakan yang terlalu hati-hati untuk sekadar meletakkan alat. "Jadi jangan jual aku mimpi. Aku sudah terlalu tua buat mimpi. Namun angka mati turun sambil produksi naik — itu bukan mimpi. Itu matematika yang belum pernah aku lihat hidup."
+Ia berhenti di depan sebuah ceruk penyimpanan. Atapnya ditopang dua tiang kayu tua dan satu rangka besi baru. Tiga peti mata bor kosong ditumpuk di dalamnya.
 
-Gudang itu sunyi selain gemuruh samar troli dari atas.
+"Gudang cadangan," katanya. "Tak dipakai sejak musim hujan abu lalu. Baca."
 
-"Kamu minta aku percaya sama orang yang nyaris pasti bukan Renn." Brannoc mengatakannya datar, seperti membaca isi karung. "Anak itu dulu tidak bisa diam sepuluh detik. Sekarang dia bicara seperti pengacara utang."
+Ashvarok tidak langsung menyentuh dinding. Ia memeriksa kerak garam pada lantai, warna lembap di kedua tiang, dan debu yang berkumpul di tepi rangka besi. Tiang kiri menanggung beban dari atas. Rangka besi menerima dorongan menyamping yang tidak dirancang untuk ditahannya. Di balik dinding ceruk, sebuah lapisan batu lunak telah berubah menjadi lumpur padat.
 
-"Renn mati di lorong tujuh," kata Ashvarok. "Yang keluar hanya tubuhnya. Sisanya... belajar ulang."
+Ia menempelkan buku-buku jari pada rangka. Getarannya kembali melalui tulang tangannya, terpotong pada sisi kanan.
 
-Ia mengira kalimat itu akan mengakhiri semuanya — dan siap untuk itu juga, karena perjanjian semacam ini tidak bisa diminta, hanya bisa ditawarkan. Tetapi Brannoc hanya mengangguk pelan, satu kali, seperti menandatangani sesuatu di dalam kepala.
+"Keluarkan petinya," kata Ashvarok.
 
-"Dua puluh tahun lalu aku prajurit di benteng timur," kata foreman itu, mengembalikan pahat ke rak. "Komandanku bisa lihat jalur pasukan musuh dari cara rumput rebah. Orang-orang bilang dia punya bakat. Dia bilang dia hanya rajin lihat." Ia mengambil sekopnya, membuka pintu dengan kaki, dan berhenti setengah badan di ambang. "Besok shift sembilan bawah lagi. Tulang seam yang dicari Quota Office banyak di situ. Kamu membaca, kami angkat, hasilnya lewat gudangku dulu sebelum ke kantor — agar angkanya kelihatan bekerja regu, bukan bekerja bocah ajaib. Namun Renn—"
+"Kenapa?"
+
+"Kau minta bacaan, bukan kuliah."
+
+Brannoc memindahkan peti satu per satu. Ashvarok mengambil kapur dari kantong mandor itu dan menarik garis pendek di lantai, satu hasta di luar mulut ceruk.
+
+"Berdiri di sini. Pukul tiang kiri sekali dengan gagang sekop."
+
+"Seberapa keras?"
+
+"Seperti membangunkan pekerja yang pura-pura tidur."
+
+Brannoc berdiri di belakang garis dan memukul.
+
+Tiang mengeluh. Serbuk putih jatuh dari sambungan atap. Sesaat tidak terjadi apa-apa. Lalu lempeng batu di sisi kanan ceruk turun setengah jengkal dan menjepit rangka besi. Bunyi patahnya pendek, kalah oleh gemuruh troli dari jalur utama.
+
+Brannoc memandang peti-peti yang tadi berada tepat di bawah lempeng.
+
+"Kalau pekerja masuk mengambil mata bor?"
+
+"Berat tubuhnya cukup mengganggu lantai. Atap turun ketika ia berada di tengah."
+
+"Kapan?"
+
+"Hari ini jika dua orang masuk bersamaan. Tiga atau empat hari jika dibiarkan kosong. Lebih cepat bila pipa itu bocor lagi."
+
+Mandor tersebut memeriksa pipa, kemudian mengusap embun pada sambungannya. "Pipa ini ditambal dua pekan lalu."
+
+"Tambalannya menahan air di luar. Bocornya masuk ke batu."
+
+Brannoc mencungkil kerak dengan ujung pisau. Air cokelat merembes dari bawah lilitan pipa. Ia mencium ujung jarinya, lalu membersihkannya pada celana.
+
+"Kau sudah tahu ceruk ini rusak?"
+
+"Aku belum pernah masuk lorong ini."
+
+"Namun kau bisa memberi hitungan hari."
+
+"Hitungan dapat berubah. Bacaan hanya benar selama bebannya tidak berubah. Kau pindahkan troli, memasang penyangga, atau membiarkan air bertambah—waktunya ikut berubah."
+
+"Jadi prediksimu bukan janji."
+
+"Janji tidak menahan atap. Kayu menahannya."
+
+Brannoc menatap garis kapur, lempeng yang turun, dan tiga peti di luar ceruk. Kecurigaan belum meninggalkan wajahnya. Bentuknya saja yang berubah. Ia tidak lagi mencari cara membuktikan Ashvarok berbohong. Ia sedang menghitung berapa orang yang mungkin diselamatkan oleh kebohongan yang berguna.
+
+"Lorong tujuh," katanya. "Bisa kau ketahui sebelum amblas?"
+
+Tubuh Renn mengingat bunyi panjang itu, lari para pekerja, lalu berat batu. Ashvarok mengurai ingatan tersebut tanpa menyentuh apa yang berdenyut jauh di bawah the Underfold.
+
+"Beberapa jam sebelumnya, mungkin. Sehari jika aku memeriksa seluruh jalurnya. Ada penyangga yang salah arah dan rongga baru di balik dinding timur. Namun sunyi yang datang sebelum runtuh bukan gejala batu."
+
+"Sunyi yang membuat Ondar lupa namanya."
 
 "Ya."
 
-"Kalau bacaanmu membuat anak-anakku selamat, itu bukan utangmu pada mereka. Itu utang mereka padamu. Jangan sampai kamu lupa itu, apa pun yang kamu sekarang."
+"Bisa kauprediksi itu juga?"
 
-Pintu tertutup. Di gudang perkakas yang kembali sunyi itu, Ashvarok menatap garis lurus dua potongan kaca-batu di lantai, dan untuk pertama kalinya dalam seribu tahun, seseorang baru saja memberinya utang tanpa menanyakan namanya.
+"Belum."
 
-Dulu, perjanjian ditandatangani dengan darah dan disegel dengan nama — nama orang lain, biasanya, nama orang yang akan menanggung akibatnya. Ia pernah mengatur aliansi lima bangsa dengan satu kalimat dan tiga kuburan. Perjanjian hari ini lebih kecil dari semua itu. Satu foreman, satu tambang, satu daftar lorong aman. Tetapi harganya aneh — tidak dibayar dengan kekuasaan atau ketakutan, melainkan dengan sesuatu yang belum ia punya kata-katanya. *Mungkin kata-kata memang bukan bahasa untuk hal ini*, pikirnya.
+Brannoc menerima jawaban tersebut dengan anggukan kecil. Jawaban yang tidak menjanjikan keselamatan rupanya lebih berguna baginya daripada keberanian palsu.
 
-Dia memungut pecahan itu dan menyimpannya di saku dada — bukan untuk nilai materialnya, yang hampir nol, tetapi karena bukti perjanjian pertama di zaman asing ini ternyata bukan tanda tangan, melainkan sepotong kaca yang dipercayakan pada orang yang salah.
+Ia mencabut kapur dari tangan Ashvarok dan memberi tanda silang besar pada kedua tiang. "Ceruk ditutup hari ini. Alasannya kebocoran pipa. Tidak ada nama Renn di laporan."
 
-Malam itu, sebelum tidur, ia membuka papan tulis kecil milik Sela dan menambahkan satu baris kecil di pojok bawah, tulisan tiruan tangan Renn yang sudah ia kuasai: "Brannoc: aman. Anaknya: asrama utara." Dua kata dan satu lokasi. Modal terkecil yang pernah dicatatnya dalam satu dekade perencanaan — dan satu-satunya yang ia tulis dengan tangan sendiri tanpa merasa sedang memalsukan apa pun.
+"Itu keputusan yang masuk akal."
+
+"Jangan terdengar terkejut."
+
+"Aku belum memutuskan apakah kau biasa mengambil keputusan semacam itu."
+
+"Kalau terus bicara begitu, kau tidak akan sempat memutuskan."
+
+Mereka kembali ke gudang tanpa berjalan berdampingan. Brannoc mendahului tiga puluh langkah, berhenti di persimpangan seolah memeriksa jadwal, lalu membiarkan Ashvarok masuk melalui pintu lain. Kehati-hatian itu lebih meyakinkan daripada sumpah.
+
+---
+
+Di gudang, Brannoc meletakkan daftar jalur di atas meja. Kertas tersebut berisi penempatan regu untuk enam hari berikutnya. Ujung jarinya menekan tiga nama lorong bawah.
+
+"Kau mau apa?" tanyanya.
+
+"Akses pada dinding sebelum regu memukulnya. Waktu untuk berhenti tanpa dituduh memperlambat kuota. Kalau aku mengatakan satu jalur harus kosong, kau keluarkan orang lebih dahulu. Pertanyaan menyusul setelah semua naik."
+
+"Kau minta kuasa mandor tanpa menanggung laporan mandor."
+
+"Aku memberi peringatan yang tidak dimiliki mandor."
+
+"Dan seam-bone untuk Tharrow?"
+
+"Retakan aman sering menyimpan pecahan yang tidak tersentuh alat. Aku tunjukkan tempatnya. Regumu mengambil, menimbang, dan mencatatnya sebagai hasil bersama. Bagian yang dibutuhkan kuotaku masuk setoran. Sisanya milik regu."
+
+Brannoc menggeser daftar itu kembali. "Kalau angkamu salah, orangku mati sambil percaya pada bocah yang tidak mengenal mereka."
+
+"Kalau kita tidak membuat perjanjian, mereka bekerja memakai peta yang salah dan penyangga yang terlambat diganti. Pilihanmu bukan antara risiko dan aman. Pilihanmu risiko mana yang dapat dibaca."
+
+"Lorong sebelas dan galeri timur menyusul saat musim hujan abu jika pola ini tidak berubah."
+
+Suara rantai lift berhenti. Dalam jeda itu terdengar air menitik dari talang luar, teratur dan lambat.
+
+"Ada syarat dariku," kata Brannoc. "Kau tidak menyembunyikan lorong berbahaya demi mencari batu bagus. Kau tidak menguji bacaanmu dengan tubuh pekerja. Kalau ada dua kemungkinan, aku memilih yang membuat regu pulang meski kuota gagal."
+
+"Setuju."
+
+"Belum selesai. Sayatan di lorong sembilan—kalau kau memahami tujuan orang yang membuatnya, aku tahu sebelum Tharrow."
+
+"Kalau informasi itu tidak membuatmu dibunuh karena memilikinya."
+
+"Aku yang menentukan apa yang sanggup kutanggung."
+
+"Tidak. Orang mati sering keliru soal itu." Ashvarok menahan tatapannya. "Aku memberimu informasi yang dapat kaupakai. Sisanya tetap padaku sampai ada cara bertindak."
+
+Brannoc meremas akar pahit di antara geraham. "Kau pandai sekali memberi perintah untuk anak lima belas tahun."
+
+"Jangan salah paham," kata Brannoc. "Aku nyaris yakin kau bukan Renn. Renn yang kukenal tidak membaca batu dan tidak bicara seperti orang tua."
+
+"Namun kau masih menawar."
+
+"Lorong tidak peduli nama orang yang menyelamatkan reguku."
+
+"Kau pandai sekali menawar untuk orang yang datang meminta bantuan."
+
+Akar itu berpindah ke sisi lain mulut. Hampir berupa senyum, tetapi terlalu letih untuk mencapainya.
+
+"Namanya Harn," kata Brannoc.
+
+Ashvarok menunggu.
+
+"Anakku. Sembilan tahun. Tinggal di asrama distrik utara. Kontrak pendidikannya milik the Quiet Vein karena aku tidak punya uang muka waktu ibunya mati." Brannoc meratakan sudut daftar dengan kuku yang pecah. "Kalau catatan reguku bagus dua tahun lagi, potongan upah cukup untuk memindahkannya ke magang pandai besi. Kalau catatannya buruk, biaya asrama naik. Kalau aku mati, kontraknya menentukan pekerjaan untuknya. Tambang selalu butuh tubuh kecil."
+
+Kini meja, pecahan cinder-glass, dan daftar lorong membentuk perhitungan yang lengkap. Brannoc tidak menginginkan kuasa atau pujian kantor pusat. Ia membutuhkan dua tahun tanpa cukup banyak mayat untuk merusak angka seorang anak.
+
+"Kau ingin Harn tidak turun ke sini," kata Ashvarok.
+
+"Aku ingin dia membuat benda yang tidak mencoba menguburnya."
+
+"Besi juga membunuh."
+
+"Besi menunggu tangan. Batu tidak."
+
+Ashvarok memandang garis patah yang berkilau merah. Dahulu, orang meminta perjanjian kepadanya demi tanah, gelar, atau umur yang lebih panjang. Brannoc meminta agar seorang anak mendapat pekerjaan yang masih mungkin menyisakan punggung utuh.
+
+"Mulai shift berikutnya," katanya, "beri aku rute sebelum terompet pertama. Aku baca lorong, titik air, arah beban, dan perkiraan runtuh. Kau memilih cara mengubah jadwal tanpa menuliskan namaku. Jika bahaya tidak berasal dari batu, aku akan mengatakannya. Aku tidak menjanjikan bisa menghentikannya."
+
+"Dan jika kau suruh semua keluar?"
+
+"Kau keluarkan mereka."
+
+"Tanpa bertanya dulu."
+
+"Sebelum bertanya."
+
+Brannoc mengambil dua belahan cinder-glass. Ia menyatukannya; garis temu menghilang kecuali satu urat merah setipis benang. Lalu ia menyerahkan belahan kecil kepada Ashvarok dan memasukkan belahan besar ke saku dalam jaketnya.
+
+"Bukti," katanya. "Kalau nanti aku mulai mengira percakapan ini keputusan bodoh, aku punya sesuatu yang bisa dipatahkan sekali lagi."
+
+"Belahan itu tidak akan membuka pada garis yang sama."
+
+"Bagus. Berarti bukti juga punya batas."
+
+Brannoc membuka pintu. Kebisingan tambang masuk: sepatu, kait besi, roda troli, orang memanggil nomor regu. Sebelum keluar, ia menandai lorong sembilan bawah pada daftar dengan ujung kapur.
+
+"Besok. Kau turun lima belas menit lebih awal. Aku akan menahan regu di pemeriksaan lampu. Temukan jalan yang aman dan seam-bone untuk setoranmu."
+
+"Hasilnya lewat gudangmu."
+
+"Semua hasil regu lewat gudangku. Itu yang tertulis."
+
+Ia pergi membawa separuh pecahan.
+
+Ashvarok menyimpan belahan miliknya di saku dada. Satu bidang halus, satu sisi tajam, nilainya tak sampai seperempat shardmark. Cukup kecil untuk lolos dari pemeriksaan. Cukup tepat untuk mengubah seorang mandor yang mengawasinya menjadi orang pertama yang membuka jalan.
+
+Di meja, tanda kapur Brannoc masih melingkari lorong sembilan bawah. Ashvarok menambahkan dua garis kecil: satu untuk jalur masuk sebelum shift, satu untuk retakan premium yang akan mereka bawa ke pasar setelah kuota Tharrow terpenuhi.
+
+Besok, Brannoc akan menahan tiga puluh pekerja selama lima belas menit. Ashvarok akan memakai waktu itu untuk menentukan siapa yang pulang.

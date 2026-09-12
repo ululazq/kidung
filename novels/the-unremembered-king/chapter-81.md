@@ -43,15 +43,15 @@ Malam kedua adalah malam umur.
 
 Hari keseratus dua berlalu dengan cara hari-hari karantina — antrean santunan yang tersusun rapi oleh mesin pemindahan yang kini berjalan tanpa operatornya, kontraktor troli yang mengukur lereng dengan penuh kesabaran birokratis, dan di barak, gerakan dokumen yang mengumpulkan ingatan leluhur lembar demi lembar. Ashvarok menjalani shiftnya sebagai kuli ventilasi, makan tiga porsi dengan disiplin orang yang tahu malam ini tubuhnya akan digali, dan menunggu lampu-lampu barak padam satu per satu.
 
-Pukul sebelas ia turun. Brannoc menunggu di pintu zona dengan lentera yang disetel rendah. "Satu tarikan napas tiap sepuluh hitungan," kata mandor tua itu. "Aku yang hitung. Kalau kau lewat, aku memadamkan ini dengan tanganku sendiri."
+Pukul sebelas ia turun. Brannoc menunggu di pintu zona dengan lentera yang disetel rendah. "Satu tarikan napas tiap sepuluh hitungan," kata Foreman tua itu. "Aku yang hitung. Kalau kau lewat, aku memadamkan ini dengan tanganku sendiri."
 
-"Pintu buangnya sudah kukunci di pola," kata Ashvarok. "Kali ini bukan Cinder. Forge tidak meledak. Forge hanya menghisap."
+"Pintu buangnya sudah kukunci di pola," kata Ashvarok. "Kali ini bukan Cinder. Forge tidak meledak. Forge hanya mengisap."
 
 "Itulah yang membuat aku tidak percaya sama sekali."
 
-Ia mulai pada jam sebelas lewat sedikit. Pola umur-sungguhan adalah sepuluh simpul yang tidak boleh ditarik sekaligus. Setiap simpul meminjam satu potongan waktu — setahun, lima tahun, satu dekade — dan menyuntikkannya ke kisi kisi cinder-glass sampai kaca itu mengingat seluruh masa yang tidak dialaminya. Simpul demi simpul, matriks di alas batu mulai berubah bukan bentuknya melainkan kenyataannya. Permukaannya memunculkan mikroskopis yang hanya lahir dari abad, warnanya turun satu nada ke abu yang lebih tua, dan di tepi delapan sisinya tumbuh kelelahan yang jujur — kelelahan yang tidak bisa dipalsukan karena ia baru saja benar-benar terjadi, di dalam kaca, dipercepat seribu kali.
+Ia mulai pada jam sebelas lewat sedikit. Pola umur-sungguhan adalah sepuluh simpul yang tidak boleh ditarik sekaligus. Setiap simpul meminjam satu potongan waktu — setahun, lima tahun, satu dekade — dan menyuntikkannya ke kisi-kisi cinder-glass sampai kaca itu mengingat seluruh masa yang tidak dialaminya. Simpul demi simpul, matriks di alas batu mulai berubah bukan bentuknya melainkan kenyataannya. Permukaannya memunculkan retakan mikroskopis yang hanya lahir setelah berabad-abad, warnanya turun satu nada ke abu yang lebih tua, dan di tepi delapan sisinya tumbuh kelelahan yang jujur — kelelahan yang tidak bisa dipalsukan karena ia baru saja benar-benar terjadi, di dalam kaca, dipercepat seribu kali.
 
-Harga datang seperti yang selalu datang. Bukan ledakan, melainkan tagihan yang sopan dan tak tertunda. Panas keluar dari tubuh melalui jalur yang sama tempat vein-scar kanan sudah menulis lima jari seperempat di luar siku. Dingin naik dari jari ke siku seperti air surut yang mundur ke arah yang salah. Ia menghitung napas bersama hitungan Brannoc di pintu, dan di antara simpul keenam dan ketujuh dunia sempat menjadi tipis seperti kertas basah — bukan sunyi Hollowing, hanya tubuh yang cadangannya habis dan memberitahu dengan cara satu-satunya yang ia tahu.
+Harga datang seperti yang selalu datang. Bukan ledakan, melainkan tagihan yang sopan dan tak tertunda. Panas keluar dari tubuh melalui jalur yang sama tempat vein-scar kanan sudah menulis lima jari seperempat di luar siku. Dingin naik dari jari ke siku seperti air surut yang mundur ke arah yang salah. Ia menghitung napas bersama hitungan Brannoc di pintu, dan di antara simpul keenam dan ketujuh dunia sempat menjadi tipis seperti kertas basah — bukan sunyi Hollowing, hanya tubuh yang cadangannya habis dan memberi tahu dengan cara satu-satunya yang ia tahu.
 
 "Bocah." Suara Brannoc, dekat, lentera sudah di tangannya. "Dua simpul lagi. Katakan bisa."
 
@@ -77,7 +77,7 @@ Maera Tull datang dua hari kemudian, subuh hari keseratus empat, lewat jalur yan
 
 Ashvarok meletakkan matriks itu di atas kain kasar di antara mereka, bersama tiga keping cinder-glass tua lain dari persediaan pasar sebagai pembanding, dan mundur satu langkah dengan wajah kuli yang menemukan barang dan tidak paham nilai.
 
-Maera membacanya dengan caranya — kotak timbung mini dibuka, jarum pembanding dilekatkan, mata menghitung. Lama sekali. Lebih lama dari yang nyaman bagi Brannoc di pintu, kurang lama dari yang mengganggu bagi Ashvarok, yang telah menghitung sendiri hasilnya sebelum jarum pertama menyentuh permukaan.
+Maera membacanya dengan caranya — mini weighing box dibuka, jarum pembanding dilekatkan, mata menghitung. Lama sekali. Lebih lama dari yang nyaman bagi Brannoc di pintu, kurang lama dari yang mengganggu bagi Ashvarok, yang telah menghitung sendiri hasilnya sebelum jarum pertama menyentuh permukaan.
 
 "Delapan sisi, matriks segel minor," kata Maera akhirnya, datar, prosedural, kepada catatan lapangannya sendiri. "Runik pra-Liberasi konsisten dengan gaya arsip timur. Usia..." Jarum itu bergetar sekali dan kembali. "Usia tidak bisa saya persengketakan di lapangan. Bukan usia yang buru-buru, itu pasti. Ini bukan barang yang menua di dalam tong asam." Ia mengangkat matriks itu, membaliknya, membaca goresan pangkal yang kecil, dan untuk sepersekian detik matanya berhenti menghitung dan mulai melihat. Lalu ia meletakkannya kembali dengan hati-hati yang tidak pernah ia berikan pada barang palsu. "Asal-usulnya?"
 
@@ -85,7 +85,7 @@ Maera membacanya dengan caranya — kotak timbung mini dibuka, jarum pembanding 
 
 "Ceruk itu sudah dicari orang."
 
-"Barang yang benar kadang menunggu pencari yang benar," kata Brannoc dari pintunya, dengan nada mandor yang tidak mempersilakan pertanyaan lanjutan.
+"Barang yang benar kadang menunggu pencari yang benar," kata Brannoc dari pintunya, dengan nada Foreman yang tidak mempersilakan pertanyaan lanjutan.
 
 Maera menatap mereka berdua bergantian, dan Ashvarok hampir bisa mendengar hitungan internalnya menyusun tiga titik menjadi satu garis — dan memilih, untuk alasan yang mereka berdua tahu, untuk tidak menyelesaikan garis itu. "Verifikasi komisi butuh formulir penemuan, tanggal, dan dua saksi yang tidak saling berutang," katanya saja. "Formulirnya bisa saya sediakan lewat pasal pembacaan untuk komunitas terancam. Tanggal penemuannya..." senyum kecil, pertama sejak negosiasi dimulai, "...tidak pernah bisa dipastikan siapa pun, untuk temuan mana pun, dalam sejarah Guild ini."
 

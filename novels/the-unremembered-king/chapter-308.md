@@ -3,11 +3,11 @@ title: "Bab 308: Satu Hentakan yang Dilepas"
 chapter: 308
 ---
 
-Tujuh hari setelah aturan satu hentakan ditempel. Kovan membuka buku anomali halaman tujuh dan menatap angka pekan itu.
+Tujuh hari setelah aturan satu hentakan ditempel. Kovan membuka the Anomaly Book halaman sebelas dan menatap angka pekan itu.
 
 Barak: 3, 3, 3, 3, 3, 3, 3 — tujuh hari, semua 3. Tidak ada jeda panjang, tidak ada yang lelah, tidak ada yang pusing. Giliran bekerja.
 
-Menara utara: 3, 3, 3, 3, 3, 3, 3 — sama. Kain harian perawat muda selalu: *3. Satu hentakan tahan saat keras.* Tidak ada angka 2 lagi.
+the Northern Tower: 3, 3, 3, 3, 3, 3, 3 — sama. Kain harian perawat muda selalu: *3. Satu hentakan tahan saat keras.* Tidak ada angka 2 lagi.
 
 Barat laut: 3, 3, 3, 3, 3, 3, 3 — setelah koreksi kayu basah, semua kembali 3. Harn mencatat rapi, tetapi di catatan pinggir ia tulis: *Kayu tetap telan satu, tetapi kami tahan satu, jadi 3.*
 
@@ -47,7 +47,7 @@ Harn mengangguk, tetapi wajahnya tegang. Tiga hari ia belajar menahan satu henta
 
 "Tidak," kata Gella. Ia berjongkok lagi. "Karena barak dan menara masih menahan. Satu desa lepas satu hentakan tidak akan putus. Tetapi kita akan tahu seberapa kuat yang menarik di ujung sana, dari seberapa cepat angka di barat laut berubah."
 
-Malam itu, Ashvarok-Renn menulis di buku anomali:
+Malam itu, Ashvarok-Renn menulis di the Anomaly Book:
 
 *Uji lepas: barat laut satu hari tanpa tahan. Barak + menara tetap satu hentakan. Tujuan: lihat detak bayangan tanpa penahan selatan.*
 
@@ -57,7 +57,7 @@ Pagi di barat laut, Harn mengetuk lantai kayu basah tiga kali. Kayu menelan hent
 
 Siang, Sela datang memeriksa. Ia mengetuk sendiri: 3, 1, 4 — mentah 3, 1, 4, tetapi setelah koreksi kayu seharusnya 3. Tanpa tahan, angka mentah menunjukkan kebocoran bahan, bukan kebocoran benang. Ia mencatat: *Mentah: 2,2,2,4. Koreksi kayu: 3,3,3,4.*
 
-Sore, dari barak, Kovan mengetuk natnya sendiri: 3. Menara utara via kain: *3. Satu hentakan tahan.* Tidak ada perubahan di dua ujung yang menahan.
+Sore, dari barak, Kovan mengetuk natnya sendiri: 3. the Northern Tower via kain: *3. Satu hentakan tahan.* Tidak ada perubahan di dua ujung yang menahan.
 
 Tetapi di barat laut, pada ketukan keempat sore, sesuatu berubah.
 
@@ -125,11 +125,11 @@ Harn mendengar itu, bahunya turun. Ia tersenyum kecil, pertama kali sejak meliha
 
 "Besok aku tahan lagi," katanya. "Satu hentakan, seperti barak."
 
-Malam itu, Ashvarok-Renn duduk di kursi sudut, buku anomali di pangkuan. Ia menulis halaman delapan, lebih panjang dari biasanya:
+Malam itu, Ashvarok-Renn duduk di kursi sudut, the Anomaly Book di pangkuan. Ia menulis halaman dua belas, lebih panjang dari biasanya:
 
 *Uji lepas: benar. Detak bayangan = tarikan. Satu hentakan tahan = satu tarikan tertahan. Jaringan diam bukan hiasan — ia satu-satunya yang menahan. Dan yang menarik tidak tidur. Ia hanya menunggu satu hentakan yang tidak ditahan.*
 
-Di sudut ruangan, Yang Dulu Sunyi mencatat: di barak 3 (tahan), di menara 3 (tahan), di barat laut 1 (lepas). Lalu jeda satu hentakan yang tidak ditahan di satu tempat — dan di dalam jeda itu, benang menegang. Papan kosong besok akan mencatat yang lepas, Harn akan menahan seperti biasa, dan barak akan melihat apakah 1 kembali ke 3 hanya karena satu hentakan bersama yang tidak lagi dilepas.
+Di sudut ruangan, the Once-Silent mencatat: di barak 3 (tahan), di menara 3 (tahan), di barat laut 1 (lepas). Lalu jeda satu hentakan yang tidak ditahan di satu tempat — dan di dalam jeda itu, benang menegang. Papan kosong besok akan mencatat yang lepas, Harn akan menahan seperti biasa, dan barak akan melihat apakah 1 kembali ke 3 hanya karena satu hentakan bersama yang tidak lagi dilepas.
 
 Retakan di bawah tidak menjawab. Ia hanya berdenyut, tiga hentakan lalu jeda, sama dengan denyut purba yang kini milik seluruh Karvess. Tetapi malam itu, denyut itu terasa sedikit lebih cepat di barat laut — satu hentakan yang tidak ditahan, dan benang menegang satu garis lagi. Dan di sela denyut itu, papan kosong menunggu besok untuk mencatat tanpa tahan, sementara Harn — yang sudah menahan tiga hari — akhirnya diizinkan menahan lagi seperti barak, satu hentakan bersama tanpa dilepas. Dan di dinding arsip, pasal baru menunggu: papan kosong sebagai saksi, anak tetap menahan.
 

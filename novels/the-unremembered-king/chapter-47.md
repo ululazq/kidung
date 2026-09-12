@@ -7,7 +7,7 @@ Karantina ringan hari pertama terlihat dari barak sebagai sesuatu yang sederhana
 
 Hari kedua terlihat sebagai sesuatu yang lebih mahal: tidak ada yang berangkat bekerja, dan tidak ada uang untuk menutupi kenyataan itu. Santunan simbolis dari Quota Office — dua shardmark per kepala per hari, dibayar dengan antre satu jam di bawah matahari yang menyengat — cukup untuk roti dan tidak cukup untuk apa pun yang biasa dibeli orang Caldrest supaya lupa bahwa mereka tinggal di atas tambang. Pasar cinder-glass mengikuti hukumnya sendiri dengan kesetiaan seorang penadah: Vosk melapor lewat lot kosong ketiga bahwa pembeli utama kota ini adalah penambang bergaji mingguan, dan penambang tanpa gaji membeli cerita lebih murah daripada mata pisau.
 
-Kas regu turun ke sembilan shardmark dalam tiga hari, meskipun pabrik kecil Ashvarok tetap produksi. Barang-barang tempaan murah itu menumpuk di peti gudang perkakas seperti ikan yang tidak ada yang mau membeli di musim puasa, dan Sela mencatatnya di kolom PRODUKSI dengan angka nol tujuh kali berturut-turut sampai anak itu menolak menulis nol kedelapan karena, katanya, papan tulis bukan tempat menyimpan aib.
+Kas regu turun ke sembilan shardmark dalam tiga hari, meskipun pabrik kecil Ashvarok tetap berproduksi. Barang-barang tempaan murah itu menumpuk di peti gudang perkakas seperti ikan yang tidak ada yang mau membeli di musim puasa, dan Sela mencatatnya di kolom PRODUKSI dengan angka nol tujuh kali berturut-turut sampai anak itu menolak menulis nol kedelapan karena, katanya, papan tulis bukan tempat menyimpan aib.
 
 "Angka nol juga data," kata Ashvarok.
 
@@ -21,11 +21,11 @@ Karantina membeli Ossian kendali akses. Ternyata ia juga memberi hadiah kepada i
 
 Brannoc pulang dari Quota Office pada sore hari kelima puluh delapan dengan wajah yang membuat seluruh ruang makan barak memutuskan untuk makan lebih cepat.
 
-"Regu inspeksi ventilasi," katanya, melempar gulungan perintah ke meja. "Empat orang, giliran, bayaran santunan sama dengan nganggur. Nama kita di atasnya sebagai penyelenggara. Ada lagi: distrik barat menawarkan tim pengganti kalau regu timur menolak. Bayaran penuh."
+"Regu inspeksi ventilasi," katanya, melempar gulungan perintah ke meja. "Empat orang, bergiliran, bayaran santunan sama dengan tidak bekerja. Nama kita di atasnya sebagai penyelenggara. Ada lagi: distrik barat menawarkan tim pengganti kalau regu timur menolak. Bayaran penuh."
 
 "Dari kantong siapa?" tanya ibu Tamma.
 
-"Kantong karantina. Yang isinya uang Choir." Brannoc mengunyah akar pahitnya sampai bunyinya, dan hanya Ashvarok yang tahu bunyi itu artinya marah. "Jadi begini posisi saya. Perusahaan bilang saya pegang regu inspeksi atau diganti. Regu bilang saya pemimpinnya atau mereka cari mandor lain. Dan empat puluhan keluarga di timur hitung shardmark santunan sambil menunggu daftar pemindahan yang belum dicoret. Semua mau saya pilih jalannya, semua tidak mau ikut tanggung biayanya."
+"Kantong karantina. Yang isinya uang Choir." Brannoc mengunyah akar pahitnya sampai bunyinya, dan hanya Ashvarok yang tahu bunyi itu artinya marah. "Jadi begini posisi saya. Perusahaan bilang saya pegang regu inspeksi atau diganti. Regu bilang saya Foreman-nya atau mereka cari Foreman lain. Dan empat puluh keluarga di timur hitung shardmark santunan sambil menunggu daftar pemindahan yang belum dicoret. Semua mau saya pilih jalannya, semua tidak mau ikut tanggung biayanya."
 
 "Maka jangan pilih," kata Ashvarok.
 
@@ -43,7 +43,7 @@ Malam itu undi pertama diadakan di ruang makan dengan mangkuk besar dan empat pu
 
 Legenda itu tidak datang seperti badai. Ia merembes seperti air kaki tambang, dari arah yang paling rendah dan paling tidak dicurigai.
 
-Bentuk pertamanya masih bisa dibantah: dua pemuda galeri sebelas menunggu di dekat gudang perkakas, meminta Renn "hanya lihat sekilas" balok penyangga dapur barak mereka yang katanya berbunyi aneh. Bentuk keduanya sudah lebih sulit: seorang ibu dari galeri sembilan menitipkan pahat kekasarannya lewat Sela, dengan pesan bahwa barang itu akan lebih tajam kalau disentuh orang yang lubang kenal dia. Bentuk ketiganya datang langsung, dan datangnya dengan uang: seorang mandor lubang sewaan dari distrik barat — bukan mandor yang dulu, tetapi satu jenis manusia dengan harga pasar yang sama — menemukan Renn di dekat stasiun angkut dan membuka negosiasi tanpa basa-basi.
+Bentuk pertamanya masih bisa dibantah: dua pemuda galeri sebelas menunggu di dekat gudang perkakas, meminta Renn "hanya lihat sekilas" balok penyangga dapur barak mereka yang katanya berbunyi aneh. Bentuk keduanya sudah lebih sulit: seorang ibu dari galeri sembilan menitipkan pahat kekasarannya lewat Sela, dengan pesan bahwa barang itu akan lebih tajam kalau disentuh orang yang lubang kenal dia. Bentuk ketiganya datang langsung, dan datangnya dengan uang: seorang Foreman lubang sewaan dari distrik barat — bukan Foreman yang dulu, tetapi satu jenis manusia dengan harga pasar yang sama — menemukan Renn di dekat stasiun angkut dan membuka negosiasi tanpa basa-basi.
 
 "Sepuluh shardmark untuk satu bacaan. Lorong sewaan saya mau dibuka lagi begitu karantina selesai. Kata orang kamu bisa tanya ke bawah sana, mana yang akan runtuh dan mana yang tidak."
 
@@ -53,15 +53,15 @@ Bentuk pertamanya masih bisa dibantah: dua pemuda galeri sebelas menunggu di dek
 
 Ashvarok menimbang banyak hal dalam dua detik — di antaranya betapa mudahnya uang itu, dan betapa cepat uang dengan bacaan palsu akan membunuh orang yang percaya — lalu melakukan hal yang paling mirip kebohongan tetapi sebenarnya kejujuran: ia menolak uangnya, dan memberi satu nasihat gratis.
 
-"Balok penyangga sisi barat lorongmu punya retakan rambut sejajar sayap, tiga hasta dari sambungan. Kalau mau hidup lebih lama dari kontrakmu, surat pasang penyangga baru sebelum dibuka. Itu bukan bisikan lubang. Itu cara membaca kayu."
+"Balok penyangga sisi barat lorong sewaanmu punya retakan rambut sejajar sayap, tiga hasta dari sambungan. Kalau mau hidup lebih lama dari kontrakmu, suruh pasang penyangga baru sebelum dibuka. Itu bukan bisikan lubang. Itu cara membaca kayu."
 
-Mandor itu menatapnya curiga, membawa uangnya pergi, dan — menurut laporan Sela tiga hari kemudian, yang bersumber dari jejaring informasi anak-anak distrik timur yang efisiensinya menyaingi arsip Guild — memasang penyangga itu, dan lorongnya tidak runtuh, dan legenda bertumbuh satu tingkat lagi. Bocah tungku itu tidak menerima uang, artinya ia bukan pencari untung. Artinya ia benar. Artinya ia sungguh bisa bicara sama lubang.
+Foreman itu menatapnya curiga dan membawa uangnya pergi. Keesokan sore, sebelum malam hari kelima puluh sembilan, Sela membawa kabar dari jejaring anak-anak distrik timur: balok lama pecah saat beban uji pertama, tetapi penyangga baru menahan atap lorong sewaan barat. Tak satu pekerja pun tertimpa. Legenda bertumbuh satu tingkat lagi: furnace boy tidak menerima uang, membaca bahaya sebelum retak terbuka, dan menyelamatkan satu regu.
 
 Penolakan kredit, pikir Ashvarok saat mendengar laporan itu dengan perasaan campur aduk antara profesional dan tersesat, ternyata bahan bakar yang lebih baik daripada pembuktian. Kebohongan lamanya bekerja lagi, dan untuk pertama kalinya ia merasa kebohongan itu sedang bekerja melawan dirinya sendiri.
 
 ---
 
-Kovan ada di garis karantina setiap kali Ashvarok lewat, dan setiap kali itu penjaga shift Voice-tier itu melakukan hal yang sama: tidak melakukan apa-apa. Matanya yang bekerja. Ia memperhatikan siapa yang antre santunan dengan paling marah, siapa yang menjual barang, siapa yang dipanggil ke gudang perkakas. Uji pribadi yang kertasnya tidak akan pernah ditulis itu tertunda oleh perintah tertulis Ossian, dan dari cara Kovan berdiri — berat di tumit, dagu sedikit turun, seperti petinju yang diminta menonton pertandingan orang lain — Ashvarok tahu penundaan itu tidak membatalkan apa pun. Ia hanya memindahkan tanggalnya.
+Kovan ada di garis karantina setiap kali Ashvarok lewat, dan setiap kali itu Shift Guard Voice-tier itu melakukan hal yang sama: tidak melakukan apa-apa. Matanya yang bekerja. Ia memperhatikan siapa yang antre santunan dengan paling marah, siapa yang menjual barang, siapa yang dipanggil ke gudang perkakas. Uji pribadi yang kertasnya tidak akan pernah ditulis itu tertunda oleh perintah tertulis Ossian, dan dari cara Kovan berdiri — berat di tumit, dagu sedikit turun, seperti petinju yang diminta menonton pertandingan orang lain — Ashvarok tahu penundaan itu tidak membatalkan apa pun. Ia hanya memindahkan tanggalnya.
 
 "Dia menghitung kita," kata Ashvarok kepada Brannoc malam itu, pelan, di gudang perkakas.
 
@@ -73,13 +73,13 @@ Brannoc tidak bertanya untuk apa. Dua puluh pekan kemitraan telah memotong juga 
 
 ---
 
-Jam malam hari kelima puluh sembilan, Ashvarok menepati janjinya, dan menepatinya dengan cara yang paling dekat dengan benar. Ia duduk di seberang Sela, di bawah lampu kecil, dengan papan tulis tertutup di pangkuan gadis itu seperti perisai yang belum diputuskan fungsinya, dan ia menceritakan.
+Jam malam hari kelima puluh sembilan, setelah tiga malam karantina tanpa ruang aman untuk bicara, Ashvarok menepati janji yang terlambat. Ia mengakui keterlambatan itu sebelum duduk di seberang Sela, di bawah lampu kecil, dengan papan tulis tertutup di pangkuan gadis itu seperti perisai yang belum diputuskan fungsinya. Di kolom HARI MAERA, angka nol menandai tenggat yang berakhir malam itu.
 
-Tidak semuanya. Ia menceritakan tubuh Renn yang sekarat sejak runtuhan, dan tentang dirinya yang datang terlambat seribu tahun ke dalam tubuh itu — bagian ini disampaikan dengan kalimat-kalimat pendek yang ia latih sepanjang sore, dan tetap saja terdengar seperti pengakuan yang dipotong dengan kapak. Ia menceritakan seninya, empat untaian, dan harga-harganya, dan menunjukkan garis di lengan kanannya yang kini melewati siku. Ia menceritakan lubang besar di bawah aula, dan bahwa lubang itu bocor, dan bahwa selama ini yang menempelkan jarinya ke retakannya adalah dia.
+Tidak semuanya. Ia menceritakan tubuh Renn yang sekarat sejak runtuhan dan dirinya yang datang terlambat seribu tahun ke dalam tubuh itu — bagian ini disampaikan dengan kalimat pendek yang dilatihnya sepanjang sore, tetapi tetap terdengar seperti pengakuan yang dipotong kapak. Ia menceritakan empat untaian: Ash memakan ingatan dan membuat mati rasa merambat; Forge memaksa bentuk sambil menua-getaskan bahan; Cinder membakar yang tersisa setelah api; Resonance menagih lewat gema, urat, serta perhatian pembaca lain. Walking Key bukan untaian kelima, katanya, melainkan cara memakai the Remainder sebagai tubuh-kunci, dan harganya adalah dirinya sendiri. Ia menunjukkan garis di lengan kanan yang kini melewati siku. Ia menceritakan lubang besar di bawah aula, kebocorannya, dan bahwa selama ini dialah yang menempelkan jari ke retakan.
 
-Sela mendengarkan tanpa memotong sekali pun, yang pada anak itu adalah bentuk kesopanan yang paling mahal.
+Sela mendengarkan tanpa memotong sekali pun, yang pada anak itu adalah bentuk kesopanan paling mahal.
 
-Lalu ia menutup bagian terakhirnya dengan pintu yang sengaja tidak dikunci rapat: ada nama yang pernah dimilikinya, kata Ashvarok, dan nama itu dibakarnya sendiri, dan cerita tentang nama itu bukan cerita untuk malam ini.
+Lalu ia menutup bagian terakhir dengan pintu yang sengaja tidak dikunci rapat: ada nama asli yang pernah dimilikinya, tetapi nama itu dibakarnya sendiri. Ia tidak mengucapkan nama tersebut. Cerita tentangnya bukan cerita untuk malam ini.
 
 "Ash Man," kata Sela akhirnya. Suaranya datar, hati-hati, seperti orang menguji lantai es. "Di mimpi. Yang menghitung. Itu kamu."
 
@@ -87,7 +87,7 @@ Lalu ia menutup bagian terakhirnya dengan pintu yang sengaja tidak dikunci rapat
 
 Anak itu menunduk ke papannya, membuka tutupnya, dan membaca ulang kolom-kolomnya sendiri — Hourglass, HARI MAERA, PRODUKSI, daftar sembilan belas nama di sudut belakang — inventaris lengkap dari segala yang ia catat tanpa pernah tahu tentang apa. Ketika ia mengangkat kepala, matanya merah tetapi suaranya sudah dikumpulkan habis.
 
-"Aku butuh waktu," kata Sela. "Bukan untuk percaya. Aku sudah lama percaya. Untuk... menyusun ulang." Ia mengambil kapurnya, dan di bawah kolom HARI MAERA ia menulis kolom baru dengan judul yang membuat tenggorokan Ashvarok sempit: HAL YANG AKU TAHU SEKARANG. Baris pertamanya hanya satu kalimat. Kakaku bukan kakakku, tetapi dia yang menjaga.
+"Aku butuh waktu," kata Sela. "Bukan untuk percaya. Aku sudah lama percaya. Untuk... menyusun ulang." Ia mengambil kapurnya, dan di bawah kolom HARI MAERA ia menulis kolom baru dengan judul yang membuat tenggorokan Ashvarok sempit: HAL YANG AKU TAHU SEKARANG. Baris pertamanya hanya satu kalimat. Kakakku bukan kakakku, tetapi dia yang menjaga.
 
 "Untuk sekarang," kata Sela, memadamkan lampu, memakai kata penutup lamanya seperti memakai selimut. "Besok kita hitung berapa hari masih tersisa."
 

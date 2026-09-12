@@ -53,9 +53,9 @@ Dan di situlah, di barak kecil dengan papan tulis yang penuh kolom, Ashvarok dih
 
 ---
 
-Pekerjaan barak itu dimulai keesokan paginya, dan dilakukan dengan cara yang tidak akan pernah masuk laporan mana pun.
+Pekerjaan barak itu dimulai sebelum santunan hari itu dibagikan, dengan cara yang tidak akan pernah masuk laporan mana pun.
 
-Di ruang makan, sebelum santunan dibagikan, Brannoc memanggil seluruh barak berdiri dan mengumumkan aturan baru dengan nada Foreman yang tidak menerima diskusi: setiap regu yang turun untuk inspeksi ventilasi wajib absen dengan nama — nama lengkap, diucapkan keras, didengar dua orang. Setiap malam sebelum tidur, satu blok memanggil satu blok: nama, jawab, giliran berikutnya. Terdengar seperti kedisiplinan baru untuk masa karantina. Terdengar seperti mandor tua yang tidak mau ada anak buahnya kabur diam-diam di musim sulit.
+Di ruang makan, sebelum santunan dibagikan, Brannoc memanggil seluruh barak berdiri dan mengumumkan aturan baru dengan nada Foreman yang tidak menerima diskusi: setiap regu yang turun untuk inspeksi ventilasi wajib absen dengan nama — nama lengkap, diucapkan keras, didengar dua orang. Setiap malam sebelum tidur, satu blok memanggil satu blok: nama, jawab, giliran berikutnya. Terdengar seperti kedisiplinan baru untuk masa karantina. Terdengar seperti Foreman tua yang tidak mau ada anak buahnya kabur diam-diam di musim sulit.
 
 Tidak seorang pun di ruangan itu kecuali tiga orang tahu bahwa aturan itu adalah pagar.
 
@@ -71,7 +71,7 @@ Malam harinya, Ashvarok berdiri sendirian di tepi lereng timur, di tempat Ossian
 
 Lereng itu diam. Bukan diam yang salah — bukan pula diam yang benar. Diam tubuh yang besar sedang tidur ringan, dengan telinga yang satu sisi ditempel ke lantai dunia, dan mimpi-mimpi di permukaannya dipakai sebagai alat hitung.
 
-Tujuh detik di troli. Satu jam di shift. Nama-nama di pasar. Mimpi yang bertambah angkanya. Ia menyusun deret itu di kepala seperti menyusun hasil ukuran, dan deret itu tidak menyisakan ruang untuk optimisme. Gejala berikutnya tidak akan datang ke lorong, tidak akan datang ke barak, dan mungkin tidak akan datang sebagai sunyi. Gejala berikutnya akan datang ke tempat orang-orang berkumpul, dan bentuknya akan lebih besar dari yang bisa ditelan dengan Ash sebesar apapun.
+Tujuh detik di troli. Satu jam di shift. Nama-nama di pasar. Mimpi yang bertambah angkanya. Ia menyusun deret itu di kepala seperti hasil ukuran, dan deret itu tidak menyisakan ruang untuk optimisme. Gejala berikutnya tidak akan datang ke lorong, tidak akan datang ke barak, dan mungkin tidak akan datang sebagai sunyi. Gejala berikutnya akan datang ke tempat orang-orang berkumpul, dan bentuknya akan lebih besar daripada yang bisa ditelan dengan Ash sebesar apa pun.
 
 Jadi pekerjaannya bukan lagi menahan pintu dengan bahu. Pekerjaannya adalah memindahkan orang-orang menjauhi pintu sebelum deret itu selesai — dan memindahkan empat ratus keluarga tanpa izin, tanpa uang, tanpa terlihat sebagai panik, adalah pekerjaan yang bahkan tidak punya nama di keempat untainya.
 

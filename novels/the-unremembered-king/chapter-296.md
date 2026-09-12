@@ -3,9 +3,9 @@ title: "Bab 296: Satu Hitungan yang Tidak Punya Musim"
 chapter: 296
 ---
 
-Pagi berikutnya datang tanpa upacara, seperti yang diajarkan delapan belas tahun silam bukan untuk dirayakan. Ashvarok-Renn berjalan mengelilingi barak saat fajar belum penuh. Di dapur, Tami-Tomi sudah mengaduk sup; di halaman, murid Sekolah Mendengar membawa daftar nama untuk latihan pembacaan; di ujung lembah, Harn sudah berdiri di depan parit tempa. Tidak satu pun dari mereka menoleh mencari perintah. Kebiasaan itu berjalan di tangan sendiri, tepat seperti yang ditutupkan malam sebelumnya.
+Pagi berikutnya datang tanpa upacara, seperti yang diajarkan delapan belas tahun silam bukan untuk dirayakan. Ashvarok-Renn berjalan mengelilingi barak saat fajar belum penuh. Di dapur, Tami-Tomi sudah mengaduk sup; di halaman, murid the Listening School membawa daftar nama untuk latihan pembacaan; di ujung lembah, Harn sudah berdiri di depan parit tempa. Tidak satu pun dari mereka menoleh mencari perintah. Kebiasaan itu berjalan di tangan sendiri, tepat seperti yang ditutupkan malam sebelumnya.
 
-Ia berhenti sejenak di ambang barak utara. Di sudut ruangan, Kovan duduk dengan buku hitung musim terbuka di pangkuan, sebatang arang di tangan kanan, sebaris angka di ujung lidah. Sejak pensiun dari hitungan kuota tambang, Kovan mengambil jabatan baru — Penghitung Musim Karvess. Tugasnya sederhana di atas kertas: mencatat setiap angka yang dilewati dunia. Musim punya ritme, katanya dulu; ia hanya duduk dan mencatat ritme itu.
+Ia berhenti sejenak di ambang barak utara. Di sudut ruangan, Kovan duduk dengan buku hitung musim terbuka di pangkuan, sebatang arang di tangan kanan, sebaris angka di ujung lidah. Sejak pensiun dari hitungan kuota tambang, Kovan mengambil jabatan baru — the Karvess Season Counter. Tugasnya sederhana di atas kertas: mencatat setiap angka yang dilewati dunia. Musim punya ritme, katanya dulu; ia hanya duduk dan mencatat ritme itu.
 
 Ashvarok-Renn mendekat tanpa suara. Kovan mengangkat wajah, bukan terkejut, hanya mengangguk seperti kepada tetangga tua yang kebetulan berusia seribu tahun.
 
@@ -15,7 +15,7 @@ Ashvarok-Renn mendekat tanpa suara. Kovan mengangkat wajah, bukan terkejut, hany
 
 "Angka tidak berhenti cari rumah." Kovan menunjuk baris terakhir di buku. "Namun satu ini sejak tadi tidak mau duduk. Aku taruh di sini supaya kau lihat."
 
-Ashvarok-Renn mencondongkan tubuh. Baris yang ditunjuk Kovan bukan angka panen, bukan hitungan penduduk, bukan catatan musim. Itu satu deret kecil: tiga, jeda, tiga, jeda, tiga. Irama yang sama persis dengan yang Kovan temukan di arsip bab ke-286 — detak tiga detik yang ternyata berdetak di sendok ibu Tamma, di palu di dinding, di napas orang tua yang mulai pelan.
+Ashvarok-Renn mencondongkan tubuh. Baris yang ditunjuk Kovan bukan angka panen, bukan hitungan penduduk, bukan catatan musim. Itu satu deret kecil: tiga, jeda, tiga, jeda, tiga. Irama yang sama persis dengan yang Kovan temukan di arsip lama — detak tiga detik yang ternyata berdetak di sendok ibu Tamma, di palu di dinding, di napas orang tua yang mulai pelan.
 
 "Kau ingat irama ini," kata Ashvarok-Renn pelan.
 
@@ -25,7 +25,7 @@ Ashvarok-Renn menatap deret itu lama. "Berarti ia tidak hanya berdetak di ruanga
 
 "Tidak." Kovan menutup buku separuh. "Ia berdetak di mana-mana, tetapi tidak punya musim. Aku sudah petakan angka Karvess delapan belas tahun. Setiap hitungan punya rumah: hujan, panen, masa sepi, masa ramai. Satu ini tidak punya rumah. Ia datang sendiri, tiga detik, lalu pergi, lalu datang lagi. Seolah ada sesuatu yang menghitung tanpa peduli musim dunia."
 
-Di sudut barak, Yang Dulu Sunyi mencatat detak itu dengan tenang. Satu baris menggema rendah dari kedalaman: TIGA DETIK. Lalu senyap.
+Di sudut barak, the Once-Silent mencatat detak itu dengan tenang. Satu baris menggema rendah dari kedalaman: TIGA DETIK. Lalu senyap.
 
 Ashvarok-Renn tak menjawab seketika. Ia ingat retakan pertama di bawah kaki, ingat seam yang pernah menyapanya dengan suaranya sendiri yang masih muda, ingat harga yang dibayarnya untuk menutup segel hidup. Dunia kira-kira percaya kebiasaan menjaga dirinya sendiri. Namun kebiasaan tidak menutup retakan. Hanya menyembunyikan suaranya di bawah rutin harian.
 
@@ -71,27 +71,27 @@ Ia ingat satu hal dari bertahun-tahun silam, saat seam di bawah kaki pernah meny
 
 Ia berdiri, berjalan ke rak sudut di mana buku-buku catatan delapan belas tahun disusun rapi. Diambilnya satu buku kosong, belum bertinta. Malam sebelumnya buku itu masih kosong karena dunia sudah cukup dengan dirinya sendiri. Sekarang ia tahu kosong bukan akhir.
 
-"Mulai hari ini," kata Ashvarok-Renn, "kita buka buku lain. Bukan catatan musim. Buku anomali — setiap hitungan yang tidak punya rumah, setiap irama yang datang dari luar, kita taruh di sini. Kau yang pegang angkanya, Kovan. Sela yang pegang ceritanya. Aku yang pegang namanya kalau suatu hari nama itu muncul."
+"Mulai hari ini," kata Ashvarok-Renn, "kita buka buku lain. Bukan catatan musim. the Anomaly Book — setiap hitungan yang tidak punya rumah, setiap irama yang datang dari luar, kita taruh di sini. Kau yang pegang angkanya, Kovan. Sela yang pegang ceritanya. Aku yang pegang namanya kalau suatu hari nama itu muncul."
 
 Kovan menerima buku kosong itu dengan dua tangan, seperti menerima mangkuk sup dari Tami-Tomi. "Berarti aku tidak perlu lagi sembunyikan angka yang tidak cocok."
 
 "Tidak perlu." Ashvarok-Renn mengangguk, bahu sedikit turun. "Delapan belas tahun kau simpan irama ini sendirian karena kau pikir ia milikmu. Sekarang kita akui ia milik dunia, dan dunia sedang bicara lewat bilangan."
 
-Sela menulis satu baris di papan: *Buku anomali dibuka. Satu hitungan tak berumah masuk pertama, datang dari tiga desa sekaligus. Penjaga: Kovan (angka), Sela (cerita), Ashvarok (nama bila muncul).* Ia menatap guru tuanya. "Kalau irama ini dari retakan bawah, apakah kita buka segel lagi?"
+Sela menulis satu baris di papan: *the Anomaly Book dibuka. Satu hitungan tak berumah masuk pertama, datang dari tiga desa sekaligus. Penjaga: Kovan (angka), Sela (cerita), Ashvarok (nama bila muncul).* Ia menatap guru tuanya. "Kalau irama ini dari retakan bawah, apakah kita buka segel lagi?"
 
 "Belum." Ashvarok-Renn menutup rak dengan pelan. "Kali ini kita tidak turun dulu. Kita catat. Kita pelajari nadanya sebelum kita jawab. Dulu aku selalu membuka sebelum mengerti. Sekarang kebiasaan dunia mengajarkan aku boleh mendengar lebih dulu."
 
-Ia menulis baris pertama di buku anomali dengan arang yang dipinjam dari Kovan: *Tiga detik. Datang dari luar, tidak punya musim. Berdetak di bilangan tiga desa yang tidak saling kenal. Belum dijawab.*
+Ia menulis baris pertama di the Anomaly Book dengan arang yang dipinjam dari Kovan: *Tiga detik. Datang dari luar, tidak punya musim. Berdetak di bilangan tiga desa yang tidak saling kenal. Belum dijawab.*
 
 Lalu ditambahkannya satu baris di bawahnya, ditujukan ke dirinya sendiri: *Kirim catatan tenun ke Vhal-Duren dan rumah penjaga malam. Tanya apakah kedalaman mereka juga berdetak tiga detik. Kalau ya, ia bukan milik satu tempat. Ia milik seluruh Karvess.*
 
-Tinta belum kering saat Yang Dulu Sunyi mencatat detak lain dari sudut barak — bukan lagu, bukan ratapan, hanya satu irama yang merambat ke seluruh nat Karvess, ke Vhal-Duren di mana kambing masih duduk di sisi batu, ke Karung di mana dua penyapa sudah di ujung desa, ke pesisir di mana nama korban dibacakan tiap Hari Utara. Satu detak, tiga detik, sama di mana pun batu berdenyut.
+Tinta belum kering saat the Once-Silent mencatat detak lain dari sudut barak — bukan lagu, bukan ratapan, hanya satu irama yang merambat ke seluruh nat Karvess, ke Vhal-Duren di mana kambing masih duduk di sisi batu, ke Karung di mana dua penyapa sudah di ujung desa, ke pesisir di mana nama korban dibacakan tiap Northern Day. Satu detak, tiga detik, sama di mana pun batu berdenyut.
 
 Kovan menutup buku hitungnya. "Aneh," katanya. "Dulu aku takut angka yang tidak cocok berarti aku salah hitung. Sekarang aku tahu angka yang tidak cocok berarti dunia belum selesai bicara."
 
 "Dunia tidak pernah selesai," jawab Ashvarok-Renn. "Kita yang belajar berhenti menyimak. Buku ini cara kita tidak berhenti."
 
-Anak Pak Dekan, yang masih berdiri memegang gulungan, mengangguk pelan pada keduanya lalu berlari keluar menuju kampung tiga jalur untuk menyampaikan bahwa ayahnya tidak salah tulis. Sela membawa papan ke serambi dan mulai menyalin baris anomali ke buku arsip besar dunia. Kovan membuka buku anomali di pangkuannya dan mulai memindahkan tiga lembar bukti ke dalamnya, satu per satu, dengan arang yang tidak lagi ia sembunyikan.
+Anak Pak Dekan, yang masih berdiri memegang gulungan, mengangguk pelan pada keduanya lalu berlari keluar menuju kampung tiga jalur untuk menyampaikan bahwa ayahnya tidak salah tulis. Sela membawa papan ke serambi dan mulai menyalin baris anomali ke buku arsip besar dunia. Kovan membuka the Anomaly Book di pangkuannya dan mulai memindahkan tiga lembar bukti ke dalamnya, satu per satu, dengan arang yang tidak lagi ia sembunyikan.
 
 Ashvarok-Renn kembali berjalan mengelilingi barak, bukan untuk memimpin, hanya untuk melihat. Di dapur, Tami-Tomi menyendok sup ke mangkuk dan membawanya ke kursi sudut ibu Tamma. Di halaman, murid-murid lewat membawa daftar nama. Di ujung lembah, palu Harn berdentam pada besi dingin.
 

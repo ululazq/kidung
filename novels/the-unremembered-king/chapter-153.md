@@ -33,7 +33,7 @@ Ossian mengangguk sekali, seperti orang menerima tiket yang benar. "Pembagian se
 
 "Dan kalau aku menolak?"
 
-"Kalau kau menolak, aku mengirim laporan itu besok pagi, Spire mengirim tim pemeriksa dalam sembilan hari, Pembaca Tua membaca namanya di baris pertama, dan kita berdua berhenti menjadi orang yang memegang kendali dan menjadi orang yang diperiksa." Ossian mengatakannya datar, tanpa ancaman, cara orang menyebut cuaca. "Aku tidak ingin itu. Namun aku juga sudah belajar, di kota ini, bahwa orang yang menjaga sendirian akhirnya menjaga kuburan. Termasuk diriku."
+"Kalau kau menolak, aku mengirim laporan itu besok pagi, Spire mengirim tim pemeriksa dalam sembilan hari, the Old Reader membaca namanya di baris pertama, dan kita berdua berhenti menjadi orang yang memegang kendali dan menjadi orang yang diperiksa." Ossian mengatakannya datar, tanpa ancaman, cara orang menyebut cuaca. "Aku tidak ingin itu. Namun aku juga sudah belajar, di kota ini, bahwa orang yang menjaga sendirian akhirnya menjaga kuburan. Termasuk diriku."
 
 Ashvarok diam lama. Ada banyak versi penolakan di kepalanya, dan semuanya bagus, dan semuanya dibangun untuk melindungi hal yang sama yang telah dilindungi seribu tahun: jangan dikenal, jangan bermitra, jangan beri jam. Tetapi sembilan orang keluar kemarin. Dan ingatan tentang musim yang hilang itu masih kosong di tempatnya, dan Sela berkata jangan membuat pintu lagi, dan di bawah sana sesuatu belajar lebih cepat daripada kedua penjaga di ruangan ini digabungkan.
 

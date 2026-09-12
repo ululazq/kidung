@@ -5,9 +5,9 @@ chapter: 167
 
 Surat pertanyaan dari Spire datang pada hari kedua ratus tujuh puluh, dan Ossian membacanya dua kali sebelum sadar bahwa ia sedang tersenyum — hal yang terjadi kira-kira sekali per musim, dan selalu di momen yang salah.
 
-Pertanyaannya ditulis dengan kejujuran administratif yang tajam: perbandingan rutin antara salinan arsip Caldrest dan pusat menemukan ketidaksinkronan pada satu item. Batang cinder-glass non-katalog nomor sita tertentu: tercatat diterima di Caldrest, tidak pernah tercatat tiba di gudang pusat, dan kini muncul dalam daftar lelang kelas tiga Guild — terjual, harga mencurigakan, pembeli penengah pasar yang dikenal. Formulir pemusnahan yang menyertainya bertanggal sebelum lelang. Barang yang sudah dimusnahkan tidak bisa dilelang. Salah satu dokumen itu bohong, dan prosedur ingin tahu yang mana.
+Pertanyaannya ditulis dengan kejujuran administratif yang tajam: perbandingan rutin antara salinan the Caldrest Archive dan pusat menemukan ketidaksinkronan pada satu item. Batang cinder-glass non-katalog nomor sita tertentu: tercatat diterima di Caldrest, tidak pernah tercatat tiba di gudang pusat, dan kini muncul dalam daftar lelang kelas tiga Guild — terjual, harga mencurigakan, pembeli penengah pasar yang dikenal. Formulir pemusnahan yang menyertainya bertanggal sebelum lelang. Barang yang sudah dimusnahkan tidak bisa dilelang. Salah satu dokumen itu bohong, dan prosedur ingin tahu yang mana.
 
-Ossian meletakkan surat itu dan memikirkan posisinya dengan jernihnya pemain catur yang baru menyadari bahwa dirinya sedang dimainkan oleh dua lawan sekaligus. Di satu sisi: Dewan Regional, mesin prosedur yang menemukan jahitan longgar dan akan menariknya sampai kertas robek atau dunia runtuh. Di sisi lain: Pembaca Tua, yang pasti — pasti — sudah tahu isi batang itu jauh sebelum formulir apa pun ditandatangani, dan yang membiarkan pertanyaan Dewan berjalan karena ingin melihat bagaimana Ossian menjawabnya.
+Ossian meletakkan surat itu dan memikirkan posisinya dengan jernihnya pemain catur yang baru menyadari bahwa dirinya sedang dimainkan oleh dua lawan sekaligus. Di satu sisi: the Regional Council, mesin prosedur yang menemukan jahitan longgar dan akan menariknya sampai kertas robek atau dunia runtuh. Di sisi lain: the Old Reader, yang pasti — pasti — sudah tahu isi batang itu jauh sebelum formulir apa pun ditandatangani, dan yang membiarkan pertanyaan Dewan berjalan karena ingin melihat bagaimana Ossian menjawabnya.
 
 Jawaban jujur: aku menghancurkan seni raja untuk menyelamatkan penambal dari jabatanmu sendiri. Jawaban itu membunuh semua orang.
 
@@ -37,7 +37,7 @@ Buku catatan "Teh" itu kini punya pendamping di rak yang sama: buku "Sup", buku 
 
 Di Caldrest, kabar tertutupnya berkas sampai lewat tiga jalur dalam dua hari — Maera resmi, Ossian dengan catatan tepinya sendiri, dan Kovan yang membaca gerakan arsip Spire dari getaran surat-menyurat di jalur pos. Rapat kecil gudang perkakas malam itu tidak merayakan; mereka menginventarisasi.
 
-"Jadi sekarang ada tiga hal yang tahu batang itu pernah hidup," kata Sela, menghitung di papannya. "Kita. Vael. Dan Pembaca Tua." Ia menoleh. "Empat. Juru tulis muda yang mencatat halaman terlarang — kalau dia masih menyimpannya."
+"Jadi sekarang ada tiga hal yang tahu batang itu pernah hidup," kata Sela, menghitung di papannya. "Kita. Vael. Dan the Old Reader." Ia menoleh. "Empat. Juru tulis muda yang mencatat halaman terlarang — kalau dia masih menyimpannya."
 
 "Lima," kata Kovan pelan, dan semua kepala menoleh padanya. Penjaga shift itu membuka buku sandinya pada halaman yang jarang dibuka: daftar orang-orang di Spire yang pernah menyentuh berkas Orphan Murmur atau turunannya, dibaca dari stempel dan tanggal penerimaan. "Setiap dokumen yang naik ke pusat melewati lima meja sebelum arsip. Lima pegawai. Aku punya pola jam kerja mereka dari cap-kapnya." Ia menutup buku. "Aku belum tahu siapa yang membaca apa. Namun aku tahu jumlah pintunya."
 

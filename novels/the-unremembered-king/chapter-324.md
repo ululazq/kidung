@@ -43,7 +43,7 @@ Gella mendekat, buku pemulihan di tangan. "Kau memikul pola lima pihak sekaligus
 
 ---
 
-Maera tiba membawa koper pos dari timur kali ini, bukan utara. "Kurir desa timur menyelipkan ini untukmu," katanya pada Ashvarok-Renn, menyerahkan kain tenun kecil. "Bukan dari Ossian. Dari murid Sekolah Mendengar angkatan ketiga yang kutempatkan di sana tahun lalu."
+Maera tiba membawa koper pos dari timur kali ini, bukan utara. "Kurir desa timur menyelipkan ini untukmu," katanya pada Ashvarok-Renn, menyerahkan kain tenun kecil. "Bukan dari Ossian. Dari murid the Listening School angkatan ketiga yang kutempatkan di sana tahun lalu."
 
 Ashvarok-Renn membukanya di serambi. *Timur bergetar sejak dua minggu. Pola empat napas tiap senja, bukan subuh. Berbeda dari selatan. Penduduk kira itu burung migrasi, tetapi burung tidak berirama tiga-satu. Aku hitung sendiri, tidak lapor ke siapa pun kecuali guru.*
 
@@ -83,7 +83,7 @@ Di sudut lain, dua belas anak berlatih ketukan di bawah sinar lampu. Salah satu 
 
 Di sudut menara, perawat tua membuka peta kasar yang dikirim Kovan. "Hutan payau di timur itu rawa beracun," katanya. "Siapa pun yang masuk tanpa penunjuk akan hilang dalam lumpur. The Wanes atau Choir takkan kirim kaki ke sana. Maka simpul timur aman dari tangan, hanya terbuka bagi mata seperti murid kita."
 
-"Mata yang tak bernama," ulang Mira. "Itu keunggulan kita. Mereka tidak tahu ada murid Sekolah Mendengar di sana, karena desa itu tak tercatat di arsip Spire."
+"Mata yang tak bernama," ulang Mira. "Itu keunggulan kita. Mereka tidak tahu ada murid the Listening School di sana, karena desa itu tak tercatat di arsip Spire."
 
 ---
 

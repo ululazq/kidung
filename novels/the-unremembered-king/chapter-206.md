@@ -5,13 +5,13 @@ chapter: 206
 
 Masalahnya sederhana dan besar sekaligus: kedalaman berkata ia menyimpan penitipan dari zaman pra-Hegemony — tetapi tidak ada yang tahu DI MANA saja nat-nat tua itu berada, karena Karvess belum pernah memetakan lantai bawahnya sendiri.
 
-"Maka kita buat peta," kata Sela dalam rapat Kepala Arsip, dan meletakkan tiga sumber di meja: daftar nat ordo Penjaga Rekam (lengkap tetapi empat generasi basi), laporan patroli Guild (baru tetapi dangkal), dan halaman kosong ketiga. "Sumber ketiga inilah yang belum ada: wawancara pendengar alami. Orang-orang yang selama puluhan tahun tahu nat mana yang 'bicara' — tanpa pernah dicatat siapa pun."
+"Maka kita buat peta," kata Sela dalam rapat Chief Archivist, dan meletakkan tiga sumber di meja: daftar nat the Record Wardens (lengkap tetapi empat generasi basi), laporan patroli Guild (baru tetapi dangkal), dan halaman kosong ketiga. "Sumber ketiga inilah yang belum ada: wawancara pendengar alami. Orang-orang yang selama puluhan tahun tahu nat mana yang 'bicara' — tanpa pernah dicatat siapa pun."
 
 "Kenapa tidak pernah dicatat?" tanya juru tulis mudanya.
 
 "Karena yang tahu biasanya anak-anak, perempuan dapur, penjaga malam — orang-orang yang kalau bicara soal batu bersuara dulu disuruh diam." Sela menyusun daftar wawancaranya dengan huruf rapi, dan jumlah namanya membuat juru tulis itu menoleh: dua puluh enam orang, hanya dari Caldrest dan lingkungannya. "Dua puluh enam," kata Sela. "Dan ini baru yang KUkenal. Bayangkan lima kota tetangga." Ia mengemas peralatan wawancaranya. "Arsip resmi bilang pendengar alami itu langka. Arsip resmi keliru. Yang langka bukan pendengarnya — yang langka adalah orang yang mau bertanya ke mereka."
 
-Wawancara dimulai pekan itu. Barim mewawancarai para penjaga malam tua di lima kota tetangga (perjalanan pertamanya sejak pemulihan; pengiringnya Ondar, yang menolak membiarkan gurunya bepergian tanpa orang yang tahu cara membawa mantel yang benar). Di kota pertama, seorang penjaga malam pensiunan mendengar pertanyaan Barim, diam lama, lalu menjawab: "Kau pendengar alami juga, ya?" Dan setelah Barim mengangguk, lelaki tua itu membuka buku catatan pribadinya yang berisi empat puluh tahun pengamatan nat — dicatat dalam kode sendiri, karena "kalau ketahuan menulis beginian, dipecat". Ia menyerahkannya ke Arsip Caldrest malam itu juga, dengan syarat satu-satunya: namanya tidak perlu disebut. "Empat puluh tahun aku disebut orang aneh. Cukup sekali."
+Wawancara dimulai pekan itu. Barim mewawancarai para penjaga malam tua di lima kota tetangga (perjalanan pertamanya sejak pemulihan; pengiringnya Ondar, yang menolak membiarkan gurunya bepergian tanpa orang yang tahu cara membawa mantel yang benar). Di kota pertama, seorang penjaga malam pensiunan mendengar pertanyaan Barim, diam lama, lalu menjawab: "Kau pendengar alami juga, ya?" Dan setelah Barim mengangguk, lelaki tua itu membuka buku catatan pribadinya yang berisi empat puluh tahun pengamatan nat — dicatat dalam kode sendiri, karena "kalau ketahuan menulis beginian, dipecat". Ia menyerahkannya ke the Caldrest Archive malam itu juga, dengan syarat satu-satunya: namanya tidak perlu disebut. "Empat puluh tahun aku disebut orang aneh. Cukup sekali."
 
 "Catatan ini akan diajar di akademi," kata Barim saat menerima buku itu.
 
@@ -31,19 +31,19 @@ Pak Dekan meninggalkan catatan yang dibaca Sela — arsip pribadi sang guru yang
 
 "Dan nat di bawah pasar?" tanya Ashvarok.
 
-Sela membuka catatan wawancara: "Penjaga lapak ikan. Kata ibunya dulu, jangan pernah buang air kotor ke situ dan tiap tahun ganti lilinnya — dan keluarga itu nurut tanpa tahu kenapa, empat generasi." Gadis itu menatap catatannya sendiri. "Mereka jaga nat itu lebih lama dari umur ordo Penjaga Rekam. Tanpa satu pun dokumen. Hanya karena nenek moyang mereka bilang begitu."
+Sela membuka catatan wawancara: "Penjaga lapak ikan. Kata ibunya dulu, jangan pernah buang air kotor ke situ dan tiap tahun ganti lilinnya — dan keluarga itu nurut tanpa tahu kenapa, empat generasi." Gadis itu menatap catatannya sendiri. "Mereka jaga nat itu lebih lama dari umur the Record Wardens. Tanpa satu pun dokumen. Hanya karena nenek moyang mereka bilang begitu."
 
 "Maka di halaman penghargaan peta ini," kata Ashvarok, "tulis dua nama keluarga itu juga. Penjaga lapak ikan dan keluarganya. Empat generasi penjaga tanpa jabatan adalah penjaga yang paling tulus, dan arsip yang adil harus bilang begitu."
 
 Dan hasil akhir bulan pertama adalah dokumen yang Sela beri judul resmi dan Ashvarok beri julukan:
 
-Judul resmi: "PETA NAT AKTIF WILAYAH CALDREST DAN SEKITARNYA — Arsip Caldrest, disusun Kepala Arsip Sela."
+Judul resmi: "ACTIVE SEAM MAP OF CALDREST AND SURROUNDING REGION — the Caldrest Archive, disusun Chief Archivist Sela."
 
-Julukan yang langsung menempel dan tidak akan pernah hilang: "Peta Tempat Duduk Tamu."
+Julukan yang langsung menempel dan tidak akan pernah hilang: "Guest Seating Map."
 
 Karena itulah yang ditemukan Sela saat memplot titik-titiknya di atas denah bawah tanah: nat-nat aktif itu tidak tersebar acak. Mereka membentuk pola melingkar di sekitar aula — seperti kursi-kursi yang disusun menghadap meja panjang yang sama.
 
-Penemuannya hampir tidak terjadi: gadis itu sudah tiga malam gagal melihat polanya, dan pada malam keempat ia hampir menyerah dan menulis "persebaran acak" di kesimpulannya. Yang menghentikannya adalah kebiasaan lama ibunya, yang datang mampir membawa roti dan melihat kertas-kertas berisi titik itu berserakan. "Ini seperti susunan meja pesta," kata ibunya sambil memutar selembar kertas setengah putaran — dan Sela membeku, karena dari arah itu titik-titiknya membentuk lingkaran yang sempurna. "Ma," katanya, "kau baru saja menemukan pola yang dilewatkan ordo empat generasi." Ibu Sela menjawab dengan hal yang akan dikutip Kepala Arsip di setiap kuliahnya bertahun-tahun kemudian: "Ya sudah. Tulis nama ibu di dokumennya."
+Penemuannya hampir tidak terjadi: gadis itu sudah tiga malam gagal melihat polanya, dan pada malam keempat ia hampir menyerah dan menulis "persebaran acak" di kesimpulannya. Yang menghentikannya adalah kebiasaan lama ibunya, yang datang mampir membawa roti dan melihat kertas-kertas berisi titik itu berserakan. "Ini seperti susunan meja pesta," kata ibunya sambil memutar selembar kertas setengah putaran — dan Sela membeku, karena dari arah itu titik-titiknya membentuk lingkaran yang sempurna. "Ma," katanya, "kau baru saja menemukan pola yang dilewatkan ordo empat generasi." Ibu Sela menjawab dengan hal yang akan dikutip Chief Archivist di setiap kuliahnya bertahun-tahun kemudian: "Ya sudah. Tulis nama ibu di dokumennya."
 
 Ashvarok memandang peta itu lama, dan yang ia lihat membuatnya memanggil Sareth Vayin malam itu juga.
 
@@ -77,6 +77,6 @@ Yang terjadi kemudian dilaporkan Kovan dengan angka yang dicek empat kali: selam
 
 Sareth Vayin menonton latihan itu sampai selesai, lalu berkata kepada Ashvarok dengan suara yang sudah tenang karena sudah selesai menggigil: "Aku empat puluh tahun mencari peninggalan kelas tertinggi seni ini di arsip-arsip kota besar. Ternyata dia bukan di arsip mana pun. Dia di bawah aula kita, menunggu murid." Wanita tua itu tertawa pendek. "Dan guru yang menyusun kursinya tidak minta bayaran. Hanya minta murid datang."
 
-Sejak hari itu, murid tingkat dua berlatih di lingkaran nat tiap pekan. Kursi-kursi tua itu mulai mengenal bunyi kelas — dan Sela menambahkan satu baris di Peta Tempat Duduk Tamu, dengan kapur biru:
+Sejak hari itu, murid tingkat dua berlatih di lingkaran nat tiap pekan. Kursi-kursi tua itu mulai mengenal bunyi kelas — dan Sela menambahkan satu baris di Guest Seating Map, dengan kapur biru:
 
-"Catatan arsip: kursi-kursi ini tidak dibangun untuk upacara. Dibangun untuk SEKOLAH. Penyusunnya hanya salah hitung waktu satu-dua ribu tahun. Muridnya datang."
+"Catatan arsip: kursi-kursi ini tidak dibangun untuk upacara. Dibangun untuk SEKOLAH. Penyusunnya hanya salah hitung waktu satu-dua ribu tahun. Muridnya datang." Ondar menjaga denyut itu sampai pergantian shift berikutnya.

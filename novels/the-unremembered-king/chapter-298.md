@@ -3,9 +3,9 @@ title: "Bab 298: Detak yang Berlari Lebih Dahulu"
 chapter: 298
 ---
 
-Pagi setelah dua balasan tiba, Sela berdiri di depan barak dengan gulungan kain di tangan. Di hadapannya, lima murid Sekolah Mendengar angkatan muda sudah berbaris membawa daftar nama masing-masing. Mereka bukan lagi anak-anak yang belajar menyapa; delapan belas tahun membuat mereka penjaga mendengar yang sesungguhnya, dan sekarang mereka diberi tugas yang lebih aneh dari sekadar membacakan nama orang mati.
+Pagi setelah dua balasan tiba, Sela berdiri di depan barak dengan gulungan kain di tangan. Di hadapannya, lima murid the Listening School angkatan muda sudah berbaris membawa daftar nama masing-masing. Mereka bukan lagi anak-anak yang belajar menyapa; delapan belas tahun membuat mereka penjaga mendengar yang sesungguhnya, dan sekarang mereka diberi tugas yang lebih aneh dari sekadar membacakan nama orang mati.
 
-"Kalian sudah baca catatan tenun kemarin," kata Sela. "Buku anomali bukan rahasia barak lagi. Ini milik seluruh jaringan. Tugas kalian: bawa satu simpul buku ke desa masing-masing. Ajari mereka hitung nadinya, hitung batunya, kirim satu kata tiap subuh."
+"Kalian sudah baca catatan tenun kemarin," kata Sela. "the Anomaly Book bukan rahasia barak lagi. Ini milik seluruh jaringan. Tugas kalian: bawa satu simpul buku ke desa masing-masing. Ajari mereka hitung nadinya, hitung batunya, kirim satu kata tiap subuh."
 
 Seorang murid laki-laki di ujung baris mengangkat tangan. "Kalau desa tidak punya nat kecil?"
 
@@ -19,7 +19,7 @@ Ashvarok-Renn menonton dari ambang. "Delapan belas tahun lalu, kalau aku mau tah
 
 "Tetapi kunci tetap di tanganku kalau sesuatu membuka," jawab Ashvarok-Renn pelan. "Doa terbaik kita: ia tidak membuka. Ia hanya berdetak."
 
-Tiga hari berlalu. Laporan mulai mengalir lewat nat pos seperti air kecil yang menjadi sungai. Tiap subuh, simpul Caldrest berkedip menerima kain tipis dari desa yang baru belajar menghitung dirinya. Sela menyalin setiap kata ke buku anomali, halaman demi halaman, dan Kovan membantu menyusun angkanya di bangku barak.
+Tiga hari berlalu. Laporan mulai mengalir lewat nat pos seperti air kecil yang menjadi sungai. Tiap subuh, simpul Caldrest berkedip menerima kain tipis dari desa yang baru belajar menghitung dirinya. Sela menyalin setiap kata ke the Anomaly Book, halaman demi halaman, dan Kovan membantu menyusun angkanya di bangku barak.
 
 Hari pertama: desa Karung mengirim *ya, tiga detik, dua penyapa kami hitung bersama*. Hari kedua: pesisir mengirim *ya, batu karang kami berdetak, tetapi napas kami lebih cepat*. Hari ketiga: wilayah barat laut mengirim kain tenun bergambar tiga garis dan satu lubang di tengah — kode yang berarti *iya, tetapi ada yang tidak kami pahami*.
 
@@ -37,19 +37,19 @@ Malam itu, Ashvarok-Renn tidak tidur di kursi sudut. Ia duduk di ambang barak, t
 
 Ia menarik tangan. "Ada dua," bisiknya pada ruang kosong. "Yang satu kita. Yang satu... menghitung lebih dulu."
 
-Yang Dulu Sunyi, di sudut barak, mencatat detak pelan. Satu baris menggema: DUA NADI. Lalu senyap.
+the Once-Silent, di sudut barak, mencatat detak pelan. Satu baris menggema: DUA NADI. Lalu senyap.
 
-Keesokan pagi, laporan keempat datang dari Sekolah Mendengar cabang pesisir — bukan sekadar ya, melainkan satu catatan panjang dari seorang pendengar tua yang sudah empat puluh tahun mendengar laut:
+Keesokan pagi, laporan keempat datang dari the Listening School cabang pesisir — bukan sekadar ya, melainkan satu catatan panjang dari seorang pendengar tua yang sudah empat puluh tahun mendengar laut:
 
 *Kami hitung batu karang tiap subuh. Tiga detik, seperti kata kalian. Tetapi sejak seminggu lalu, ada detak kedua di bawahnya. Lebih cepat. Saat detak utama berhenti di jeda, detak kedua sudah lanjut satu langkah. Seolah sesuatu menghitung masa depan kami sebelum kami sampai. Kami takut, tetapi kami catat. Itu yang kalian suruh.*
 
 Ashvarok-Renn membaca catatan itu dua kali di depan Kovan dan Sela. "Jadi bukan hanya di sini," katanya. "Pesisir juga lihat detak kedua. Berarti ia bukan gema tubuhku. Ia ada di mana-mana bersama denyut utama."
 
-Kovan menulis angka di buku anomali: *Detak utama 3 detik. Detak bayangan ~2,4 detik (lebih cepat). Selisih 0,6 detik. Ia menarik di jeda.* "Aku belum tahu persis angkanya," kata Kovan. "Tetapi selisihnya konsisten. Ia tidak acak. Ia punya ritme sendiri yang lebih pendek."
+Kovan menulis angka di the Anomaly Book: *Detak utama 3 detik. Detak bayangan ~2,4 detik (lebih cepat). Selisih 0,6 detik. Ia menarik di jeda.* "Aku belum tahu persis angkanya," kata Kovan. "Tetapi selisihnya konsisten. Ia tidak acak. Ia punya ritme sendiri yang lebih pendek."
 
 "Berarti tangan itu tidak asal tarik," kata Ashvarok-Renn. "Ia punya nadinya sendiri. Dan nada yang lebih cepat selalu menang di jeda, karena dunia sedang berhenti saat ia lanjut."
 
-Malam itu, setelah laporan keempat dari pesisir disalin ke buku anomali, Kovan memanggil anak Pak Dekan ke bangku barak. Bocah itu duduk dengan kaki menggantung, penasaran melihat buku hitung yang biasanya hanya dibaca orang tua.
+Malam itu, setelah laporan keempat dari pesisir disalin ke the Anomaly Book, Kovan memanggil anak Pak Dekan ke bangku barak. Bocah itu duduk dengan kaki menggantung, penasaran melihat buku hitung yang biasanya hanya dibaca orang tua.
 
 "Taruh jari di sini," kata Kovan, menunjuk pergelangan anak itu. "Raba. Satu, dua, tiga — berhenti — satu, dua, tiga. Itu nadimu."
 
@@ -65,7 +65,7 @@ Kovan menatap Ashvarok-Renn yang memperhatikan dari ambang. "Anak sembilan tahun
 
 "Dengan rutin kita," kata Kovan. "Delapan belas tahun kita ajarkan dunia bekerja tanpa berhenti. Maka nadinya sendiri menutupi yang lebih pelan. Sekarang kita suruh mereka hitung, mereka jadi dengar."
 
-Malam semakin dalam. Di sudut barak, Yang Dulu Sunyi mencatat detak pelan, dan kali ini ada satu getar kedua yang ikut merambat — pelan, tetapi nyata, seolah sesuatu di bawah mulai bosan menunggu dunia selesai berhenti.
+Malam semakin dalam. Di sudut barak, the Once-Silent mencatat detak pelan, dan kali ini ada satu getar kedua yang ikut merambat — pelan, tetapi nyata, seolah sesuatu di bawah mulai bosan menunggu dunia selesai berhenti.
 
 Ashvarok-Renn, yang masih duduk di ambang, merasakan telapak tangannya sendiri berdenyut dua irama sekaligus: nadi tubuh Renn yang tiga detik, dan di bawahnya satu denyut lebih cepat yang ia tahu bukan miliknya. Ia menarik napas, tidak panik. Dulu, seribu tahun silam, ia akan langsung turun dan membakar apa pun yang mengganggu segelnya. Sekarang ia hanya mencatat.
 
@@ -93,15 +93,15 @@ Mereka menatap satu sama lain. Selama delapan belas tahun, rutin barak dan dunia
 
 "Tulis ke semua simpul," kata Ashvarok-Renn pada Sela. "Tanya: pernahkah detak kalian berhenti sepenuhnya, satu napas, lalu jalan lagi? Jangan sebut itu menakutkan. Sebut itu jeda panjang. Kita perlu tahu berapa sering ia terjadi."
 
-Sela menulis kain baru, melipatnya ke simpul Caldrest, mengetuk tiang dua kali. Di sudut barak, Yang Dulu Sunyi mencatat detak pelan, lalu satu jeda yang lebih panjang dari biasanya — seolah ia sendiri sedang meniru apa yang diceritakan desa timur. TIGA DETIK. TIGA DETIK. SENYAP. TIGA DETIK.
+Sela menulis kain baru, melipatnya ke simpul Caldrest, mengetuk tiang dua kali. Di sudut barak, the Once-Silent mencatat detak pelan, lalu satu jeda yang lebih panjang dari biasanya — seolah ia sendiri sedang meniru apa yang diceritakan desa timur. TIGA DETIK. TIGA DETIK. SENYAP. TIGA DETIK.
 
-Ashvarok-Renn menatap catatan itu. "Ia meniru," bisiknya. "Yang Dulu Sunyi pun dengar jeda itu."
+Ashvarok-Renn menatap catatan itu. "Ia meniru," bisiknya. "the Once-Silent pun dengar jeda itu."
 
 "Berarti bukan khayalan desa kecil," kata Kovan. "Ia nyata. Dan nat purba pun catat."
 
-Malam itu, buku anomali halaman tiga tidak lagi cukup. Kovan membuka halaman empat, menulis: *Temuan: irama utama kadang berhenti sepenuhnya satu napas (desa timur + Yang Dulu Sunyi). Bukan jeda biasa. Tombol ada. Sumber berhenti = tangan, atau pengikat menarik diri? Perlu data frekuensi.*
+Malam itu, the Anomaly Book halaman tiga tidak lagi cukup. Kovan membuka halaman empat, menulis: *Temuan: irama utama kadang berhenti sepenuhnya satu napas (desa timur + the Once-Silent). Bukan jeda biasa. Tombol ada. Sumber berhenti = tangan, atau pengikat menarik diri? Perlu data frekuensi.*
 
-Siang itu, Sela duduk dengan seorang murid Sekolah Mendengar yang baru lulus, mengajarinya cara menulis laporan anomali tanpa menambah cerita.
+Siang itu, Sela duduk dengan seorang murid the Listening School yang baru lulus, mengajarinya cara menulis laporan anomali tanpa menambah cerita.
 
 "Kau tulis apa yang kau dengar," kata Sela. "Bukan apa yang kau takut. Kalau kau tulis takut, desa lain ikut takut, dan ketakutan menutupi nada yang sebenarnya."
 

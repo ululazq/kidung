@@ -5,7 +5,7 @@ chapter: 150
 
 Gempa gema itu datang pada jam ketiga malam hari kedua ratus dua puluh tiga, dan datangnya bukan dari satu arah lagi.
 
-Ashvarok sedang berdiri di node keempat jalur katup samping, tiga puluh menit dari awal patroli buta, ketika seluruh tulang tambang berdenyut seperti dipukul dari tiga sisi bersamaan. Pasak utara aula digetarkan. Dinding dasar galeri disayat dengan tenunan klaim yang kasar dan besar. Dan di troli timur, sesuatu yang berat diturunkan ke rel tanpa peduli bunyinya — sebab malam ini tidak ada lagi usaha untuk diam, malam ini penyedot sudah berhenti bersembunyi dan mulai mengambil.
+Ashvarok sedang berdiri di node keempat jalur katup samping, tiga puluh menit dari awal blind patrol, ketika seluruh tulang tambang berdenyut seperti dipukul dari tiga sisi bersamaan. Pasak utara aula digetarkan. Dinding dasar galeri disayat dengan tenunan klaim yang kasar dan besar. Dan di troli timur, sesuatu yang berat diturunkan ke rel tanpa peduli bunyinya — sebab malam ini tidak ada lagi usaha untuk diam, malam ini penyedot sudah berhenti bersembunyi dan mulai mengambil.
 
 Ia membaca arah serangan itu dalam dua denyut jantung, lalu membaca sesuatu yang lain yang membuat lututnya menahan beban tubuh ini lebih keras — yaitu gema pengenalan tubuh-kunci yang tertanamnya sendiri di ceruk nat bahu timur, gema umpan yang selama pekan ini menjadi umpan segalanya, sedang bergerak menjauh. Diangkat. Digondol keluar lewat nat tua oleh tangan-tangan yang akhirnya datang untuk barang itu. Batang cinder-glass tempaannya dibawa pergi ke arah timur atas dengan irama yang senang, dan di belakangnya retakan the Threshold kehilangan penyeimbang yang selama ini membuat laparnya terbelah.
 
@@ -23,7 +23,7 @@ Hitungan pertama datang buruk. Empat puluh enam keluar dari tingkat empat. Hitun
 
 Ashvarok melewati mereka pada larinya berikutnya, dua teknisi berjubah abu yang berdiri di samping tembok batanya masing-masing seperti pengawal peti mati yang belum tahu isinya, dan ia membaca pekerjaan mereka dalam sekali lewat — yaitu tenunan siaga yang tinggal menunggu satu tarikan napas untuk dibangunkan. Ia tidak berhenti. Tidak ada kalimat yang bisa ia belikan kepada orang-orang berseragam itu yang lebih berguna daripada suara Ondar dari kedalaman, dan suara itu sendiri sudah melakukan semua pembelaan, sembilan nama yang diteriakkan ke lorong dengan pola name-roll penuh, lengkap dengan blok asalnya — sebab penambang yang menghitung kepala selalu menyebut blok asal supaya daftarnya bisa dicocokkan.
 
-Ashvarok sudah berlari menuju lorong B sebelum hitungan itu selesai — sebab the Door of Four Returns adalah jalan satu-satunya menuju sisi dalam, dan di ujung lorong itu ia mendengar hal yang membuat seluruh tubuhnya dingin lebih cepat daripada takutan mana pun.
+Ashvarok sudah berlari menuju lorong B sebelum hitungan itu selesai — sebab the Door of Four Returns adalah jalan satu-satunya menuju sisi dalam, dan di ujung lorong itu ia mendengar hal yang membuat seluruh tubuhnya dingin lebih cepat daripada ketakutan mana pun.
 
 Pelu-pelu. Tiga nada pendek dari atas, dari stasiun angkut, kode yang baru diciptakan dunia ini beberapa hari lalu dan sayangnya sudah hafal oleh telinga semua orang. Aba-aba penutupan.
 
@@ -43,7 +43,7 @@ Di bibir atas lorong B, Shift Guard muda berdiri di depan gerbang gembok dengan 
 
 "Saya tahu ada orang di bawah! Saya juga tahu apa yang terjadi kalau sunyi itu sampai ke atas! Eksekusi!"
 
-Ashvarok mendengar jawaban tambang kepada perintah itu sebelum mendengar aba-abanya, sebab gema bata-gema tidak bertanya. Jauh di bawah, di tiga titik sekaligus, ratusan balok gema pengikat terbangun bersama dalam satu tarikan napas yang sama, dan tambang menyesuaikan diri pada hukum barunya. Bunyi lorong utama mati. Bunyi troli timur mati. Bunyi dasar galeri mati. Sunyi itu tidak berjalan, ia menggantung, dan kemudian merambat melalui setiap nat yang menyambungkan titik-titik itu, gelombang kekosongan yang menelan langkah, lonceng, teriakan, dan napas yang bernyanyi, menuju setiap sudut level bawah, termasuk lorong B.
+Ashvarok mendengar jawaban tambang kepada perintah itu sebelum mendengar aba-abanya, sebab gema echo-brick tidak bertanya. Jauh di bawah, di tiga titik sekaligus, ratusan balok gema pengikat terbangun bersama dalam satu tarikan napas yang sama, dan tambang menyesuaikan diri pada hukum barunya. Bunyi lorong utama mati. Bunyi troli timur mati. Bunyi dasar galeri mati. Sunyi itu tidak berjalan, ia menggantung, dan kemudian merambat melalui setiap nat yang menyambungkan titik-titik itu, gelombang kekosongan yang menelan langkah, lonceng, teriakan, dan napas yang bernyanyi, menuju setiap sudut level bawah, termasuk lorong B.
 
 Termasuk the Door of Four Returns.
 
@@ -65,7 +65,7 @@ Lorong B menerimanya dalam kegelapan yang makin sempit bunyinya, langkah kakinya
 
 Delapan puluh enam nama. Satu tugas. The Waiting Door.
 
-The Door of Four Returns mengenali tangannya, mengenali ceritanya, mengenali kepalanya yang paling penuh nama di seluruh Caldrest ini, dan membuka tanpa suara, dan di belakangnya, tepat pada tarikan napas yang sama, gelombang kekosongan tiba, menyapu ambang lorong, dan mati menabrak larangan yang ditanam delapan puluh enam orang di dapur barak dua malam lalu. Segel Dewan menemukan satu pintu di level bawah yang tidak mau digembok oleh siapa pun, dan sunyi sempurna berhenti di garis besi itu seperti laut berhenti di pintu kapal.
+The Door of Four Returns mengenali tangannya, mengenali ceritanya, mengenali kepalanya yang paling penuh nama di seluruh Caldrest ini, dan membuka tanpa suara, dan di belakangnya, tepat pada tarikan napas yang sama, gelombang kekosongan tiba, menyapu ambang lorong, dan mati menabrak larangan yang ditanam delapan puluh enam orang di dapur barak dua malam lalu. Council Seal menemukan satu pintu di level bawah yang tidak mau digembok oleh siapa pun, dan sunyi sempurna berhenti di garis besi itu seperti laut berhenti di pintu kapal.
 
 Aspal kegelapan di sisi dalam berbeda dari sisi luar. Lebih tebal, lebih diam, milik sepenuhnya. Ashvarok melangkah melewati bidang pintu dan mendengar pintu itu menutup di belakangnya dengan lembut, tanpa gembok, tanpa kunci, hanya menunggu lagi, dan dunia di sekelilingnya kini adalah ruangan tertutup sempurna selebar satu level tambang, tempat udara-gema mati dan waktu dihitung dalam jam.
 

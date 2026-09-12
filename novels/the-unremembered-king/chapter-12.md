@@ -3,92 +3,278 @@ title: "Bab 12: Hourglass"
 chapter: 12
 ---
 
-Tungku kedua di ruang ventilasi punya celah bata di sisi timur yang menghisap angin lebih cepat dari yang seharusnya, dan siapa pun yang memperbaikinya akan mendapat pujian dari Quota Office serta tambahan pekerjaan tanpa upah. Tidak ada yang memperbaikinya. Caldrest punya cara sendiri untuk menghormati celah.
+Batu di samping tungku kedua tetap dingin meski besi pintunya memerah.
 
-Ashvarok berlutut di depan celah itu pada malam kelima belas, dengan perut penuh — tiga hari terakhir ia makan seperti orang bersiap berperang, karena memang iya — dan pola kedua Cinder sudah terbuka di kepalanya seperti pintu gudang tua yang menunggu lama untuk dibuka.
+Ashvarok menempelkan punggung jari ke permukaannya. Kering, kasar, tanpa jelaga baru. Cocok.
 
-Pola pertama adalah nyala. Api sebesar kacang hijau, patuh, cukup untuk membakar benang atau menandai jalan. Pola kedua adalah tarikan. Bukan mengeluarkan panas, melainkan memindahkannya — dari satu tempat ke satu titik, melewati tubuh pembawa sebagai saluran. Dahulu, seni ini dipakai untuk menarik panas dari tembok benteng yang terbakar dan melemparkannya kembali ke pengepung. Malam ini, tujuannya lebih sederhana. Membuktikan bahwa tubuh ini bisa menjadi pipa, bukan hanya lilin.
+Di balik celah bata, api memakan batu bara dengan suara rendah. Udara malam menyusup dari lorong ventilasi, menyapu tengkuknya, lalu lenyap ke mulut tungku. Pergantian sif sudah lewat. Para pengangkut tidur atau berjudi di barak. Ruang ini akan kosong sampai penjaga fajar datang menghitung sekop.
 
-Ia meletakkan satu telapak tangan pada celah bata dan satu telapak lagi di atas batu bata dingin di lantai. Sembilan simpul pertama menyala seperti biasa. Lalu dua belas jalur kedua terbuka satu per satu, dan panas mulai berjalan — masuk dari tungku, melewati lengannya, berputar di dada, turun melalui tulang punggung, keluar melalui telapak kedua ke batu dingin itu.
+Ia punya waktu kurang dari satu jam.
 
-Batu bata dingin berubah warna. Abu-abu menjadi abu hangat, hangat menjadi merah samar, dan dalam sepuluh detik ada lingkaran bara selebar piring di lantai ruang tungku yang tidak tersambung ke tungku mana pun.
+Tubuh Renn sudah dipersiapkan selama dua hari: porsi lemak yang disisihkan dari mangkuk Sela, kerak roti tambahan hasil pertukaran, tidur tanpa latihan Cinder. Persiapan seorang raja pernah membutuhkan kereta persediaan dan seratus juru tulis. Kini bentuknya sepotong lemak dingin yang ditelan tanpa garam.
 
-Ashvarok menahan napas dan menghitung. Lima belas detik. Dua puluh. Panas itu mengalir dengan kestabilan yang membuatnya ingin tertawa — seribu tahun, dan seni ini masih bekerja seperti kuda tua yang mengenali jalannya sendiri.
+Hasilnya tetap sama. Perang dimulai ketika cadangan dianggap cukup.
 
-Ia menguji kontrolnya. Mengecilkan aliran sampai lingkaran itu menyusut menjadi cincin, membesarkan lagi sampai menyentuh tepi piring, lalu — bagian yang sebenarnya dia latih — memindahkan titik keluarnya dari telapak ke ujung jemari, membentuk lima nyala kecil yang berdiri seperti lilin altar. Pola kedua bukan senjata. Pola kedua adalah tangan kedua. Kemampuan memegang panas di satu tempat sambil bekerja dengan yang lain. Fondasi untuk semua pola besar setelahnya, dari pedang api sampai pintu Forge.
+Ashvarok duduk bersila. Tangan kiri ia dekatkan ke celah tungku. Tangan kanan menyentuh batu dingin.
 
-Lalu harga datang, dan kali ini ia belajar bahwa harga pola kedua tidak datang dari arah yang sama.
+Pola pertama Cinder melahirkan panas di dalam tubuh, lalu memaksanya keluar. Pola kedua tidak menciptakan apa pun. Ia hanya mengambil panas yang sudah ada, memberinya jalan, dan menentukan tempat pembuangan.
 
-Yang pertama terasa seperti lapar biasa. Yang kedua seperti seseorang menarik selimutnya di musim salju. Dingin naik dari dalam tulang, bukan dari kulit. Yang ketiga adalah suara — bunyi tipis, nyaris manis, dari lengan kanannya, seperti es di danau yang mulai menyerah.
+Lebih hemat, menurut kitab-kitab lama.
 
-Ia memutus pola itu dengan paksa. Lingkaran bara di lantai padam menjadi hitam. Dan Ashvarok duduk miring di lantai ruang tungku, mendengarkan jantungnya berlomba, sambil memegang lengan kanan yang sekarang berdenyut dengan rasa aneh: mati rasa yang tidak diam di tempat.
+Kitab-kitab lama ditulis untuk tubuh yang tidak pernah menjadi milik Renn.
 
-Vein-scar di pergelangan kiri sudah pernah dia pelajari. Yang ini baru. Jalur mati rasa menjalar dari pergelangan kanan naik ke arah siku, tipis seperti benang laba-laba, putih pucat di bawah kulit terbakar matahari tambang. Ia mengetuk jalurnya dengan kuku. Tidak ada rasa. Mengetuk di sebelahnya. Rasa normal. Garis antara keduanya tajam seperti digambar.
+Ia menyusun sembilan simpul dalam benaknya. Masing-masing menahan satu titik aliran. Di antara simpul itu terbentang dua belas jalur: sempit di jemari, lebar di dada, berbelok di bawah tulang selangka. Terakhir, satu pintu buang. Tanpanya, panas akan berhenti di dalam saluran. Pembuluh matang. Jantung mendidih. Kematian bodoh, tetapi setidaknya singkat.
 
-"Tubuh ini menolak seni raja," katanya pada tungku, dan malam itu kalimat kepada barang itu sama sekali tidak terdengar ironis. "Tidak apa. Aku juga."
+Sembilan. Dua belas. Satu.
 
-Ia memeriksa harga malam itu dengan teliti, karena raja yang baik membaca korban sebelum membaca kemenangan. Satu hari tenaga hilang — bisa diganti dengan tidur. Lemak cadangan berkurang lagi — bisa dibeli dengan bubur. Dan satu benang urat gema mati rasa di lengan kanan — tidak bisa dibeli dengan apa pun. Tiga jenis tagihan untuk satu pola. Zaman ini benar-benar mengubah segalanya menjadi pasar.
+Ashvarok mengulang hitungan sampai tubuhnya berhenti berusaha menelan ludah.
 
-Matematika yang ia susun di lantai itu sederhana dan buruk. Pola pertama memakan lemak. Pola kedua memakan jalur gema — setiap kali dijalankan, sedikit lebih banyak urat yang mati rasa, permanen, tidak kembali. Tubuh ini punya jumlah jalur yang terbatas, dan setiap latihan adalah potongan dari masa depan kemampuannya. Jam pasir. Bukan berapa banyak yang bisa ia lakukan, tetapi berapa sering sebelum wadahnya habis.
+Lalu ia membuka simpul pertama.
 
-Dia menghitung mundur dari jumlah yang tidak diketahui, dan menemukan dirinya melakukan hal yang belum pernah dilakukan sepanjang karier sebagai raja: berhemat pada dirinya sendiri.
+Panas dari tungku menyentuh telapak kirinya tanpa membakar kulit. Ia masuk lebih dalam daripada sentuhan, merambat mengikuti jalur yang tidak dapat dilihat mata. Pergelangan. Lengan bawah. Bahu.
 
-Ada ironi yang layak dicatat di sini, dan Ashvarok mencatatnya, karena arsip adalah satu-satunya kemewahan yang tidak diminta bayaran. Dahulu, tubuhnya adalah argumen. Orang-orang berperang untuk tubuh itu. Lima panglima mati membelinya waktu. Dan setiap potongan diri yang ia bakar untuk the Threshold dibayar dengan keyakinan bahwa sisanya akan cukup untuk segalanya yang penting. Sekarang tubuh yang dia pakai bukan miliknya, cadangannya bisa dihitung dengan benang dari jahitan kasur, dan setiap keputusan besar harus lolos lewat pertanyaan yang dulu tidak pernah muncul di rapat perang: apakah ini sepadan dengan satu hari makan?
+Naluri tubuh menyuruhnya menarik tangan. Ashvarok membiarkannya menjerit sendiri.
 
-Raja-raja tidak pernah belajar harga. Mereka hanya belajar tagihan. Dan tagihan selalu dikirim kepada orang lain.
+Simpul kedua terbuka. Ketiga. Panas menyilang di belakang tulang dada, dan napasnya terpotong. Untuk satu detik, ia mencium daging terbakar. Bukan dari kulit. Kenangan tubuh lain, mungkin, atau peringatan dari tubuh ini.
 
-Malam itu, sebelum meninggalkan ruang tungku, ia membersihkan lingkaran bara palsu di lantai dengan cara paling kuno yang ada. Menyekapnya dengan debu, menggosoknya dengan sepatu, dan menaburkan abu asli tungku di atasnya supaya kelihatan seperti noda puluhan malam. Emberweave tidak meninggalkan jejak gema — tetapi jejak fisik tidak peduli pada gema, dan petugas kuota yang bosan lebih takut pada noda aneh daripada pada angka.
+Ia membuka jalur berikutnya.
+
+Panas turun lewat sisi kanan. Dada menjadi lorong. Tulang menjadi dinding. Tubuh Renn tidak menghasilkan api; tubuh ini menyalurkan api milik tungku.
+
+Pintu buang terbuka di telapak kanannya.
+
+Batu dingin di bawah tangan mendesis.
+
+Setitik merah muncul, sebesar kepala paku. Ashvarok menjaga aliran. Merah itu melebar menjadi koin, lalu mangkuk, lalu lingkaran bara selebar piring. Cahaya rendahnya menyapu lantai dan memperlihatkan bekas sepatu, serbuk batu bara, serta seekor kumbang yang berbalik menjauhi panas.
+
+Berhasil.
+
+Kata itu tidak boleh mengganggu hitungan.
+
+Ashvarok mempersempit dua jalur. Lingkaran merah mengerut tanpa padam. Ia menggeser pintu buang dari pusat telapak menuju pangkal jari. Bara di batu mengikuti, berubah menjadi busur tipis. Sedikit lagi. Panas berkumpul di telunjuk, lalu berpindah ke jari tengah saat ia mengubah simpul keenam.
+
+Kontrol, bukan kekuatan. Itulah gunanya pola kedua. Api dapat ditaruh di tempat yang dipilih, bukan sekadar dilempar ke tempat yang dibenci.
+
+Ia mencoba memindahkan panas sekali lagi.
+
+Sesuatu berbunyi di lengan kanan.
+
+Retak kecil. Bunyi es tipis diinjak dari jauh.
+
+Telapak kanannya kehilangan rasa.
+
+Ashvarok menutup pintu buang lebih dulu, lalu simpul-simpul lain dalam urutan terbalik. Panas terputus. Bara di batu bertahan sekejap sebelum menggelap, tetapi dingin tidak kembali ke tubuhnya. Dingin justru muncul dari dalam sumsum, menyebar ke rahang dan lutut. Giginya beradu satu kali.
+
+Ia menahan tangan kanan di depan wajah.
+
+Jari-jarinya masih bergerak. Kulitnya utuh. Ketika kuku kiri menekan telapak kanan, tekanan itu terasa tumpul. Di pergelangan, sebuah garis pucat membelah kulit ke arah lengan bawah. Tipis, bercabang pendek, berhenti jauh sebelum siku.
+
+Ashvarok menekan titik awalnya.
+
+Tidak ada rasa.
+
+Ia menekan kulit selebar kuku di sebelah garis.
+
+Sakit tajam menjawab.
+
+Batasnya jelas.
+
+Vein-scar lama milik Renn ada di pergelangan kiri, bekas kerja yang sudah dibawa tubuh ini sebelum Ashvarok bangun di dalamnya. Garis kanan ini baru. Ia mengikuti salah satu jalur pola kedua dengan ketepatan yang terlalu rapi untuk disebut luka biasa.
+
+Ia mencoba menghidupkan simpul paling kecil tanpa menarik panas.
+
+Tidak ada jawaban dari bagian yang memucat.
+
+Ashvarok duduk diam sampai napasnya kembali teratur. Tenaga yang hilang dapat dibayar dengan tidur. Lemak yang terbakar dapat diganti makanan, bila ada koin. Namun jalur kanan itu telah mati. Bukan lelah. Bukan tertutup sementara. Mati.
+
+Pola kedua berhasil, dan keberhasilan itu menghabiskan bagian tubuh yang dibutuhkan untuk mengulanginya.
+
+Harga yang elegan. Hampir terasa dirancang oleh musuh.
+
+Ia memandang jarak antara pergelangan dan siku. Belum sampai seperempatnya. Tidak ada cara mengetahui apakah satu tarikan berikutnya akan mengambil selebar benang atau selebar telapak. Tidak ada kitab yang menyebut tubuh berumur lima belas tahun, kurang makan, dipaksa membawa seni yang dahulu membutuhkan pelatihan bertahun-tahun.
+
+Panas bisa diambil dari udara, batu, atau lemak tubuh. Jalan keluarnya bisa dipilih. Jumlah jalur yang tersedia tidak bisa ditambah.
+
+Jam sudah mulai berjalan tanpa memberi tahu berapa banyak pasir yang disediakan.
+
+Ashvarok berdiri. Lututnya hampir gagal menahan berat badan, tetapi ia meraih tepi meja sebelum jatuh. Kelaparan datang terlambat, ganas dan bersih. Ia mengeluarkan kerak roti dari saku, mengunyahnya sampai lunak, lalu menjilat remah di ibu jari.
+
+Di lantai, lingkaran percobaannya masih meninggalkan batu yang lebih hitam daripada sekelilingnya.
+
+Bukti lebih berbahaya daripada rasa sakit.
+
+Ia menyeret sekop ke dekat tungku, mengambil abu, dan menutup batu itu. Setelahnya ia menumpahkan sedikit batu bara di atas noda, menginjaknya, lalu mengembalikan sekop dengan gagang menghadap arah semula. Penjaga yang rajin akan melihat kekacauan. Penjaga Caldrest hanya akan melihat pekerjaan esok hari.
+
+Sebelum pergi, ia mengukur garis kanan dengan ruas jari kiri.
+
+Dua ruas dari lipatan pergelangan.
+
+Angka pertama. Ia menyimpannya.
 
 ---
 
-Sela menemukan garis itu dua malam kemudian, bukan lewat mata yang curiga — mata bocah ini sudah lama terlatih — tetapi lewat kebiasaan barunya. Mencengkeram lengan kakaknya waktu tertawa, tepat di bawah siku, dan kakaknya yang tertawa paling keras justru kaku seperti dicurangi.
+Dua malam kemudian, Sela menjatuhkan mangkuk timah.
 
-"Angkat lengan," kata Sela.
+Bunyinya membelah percakapan barak. Dua orang menoleh, mendapati tidak ada makanan tumpah, lalu kembali berdebat soal upah. Sela tidak memungut mangkuk. Tatapannya tertahan pada tangan kanan Ashvarok.
 
-"Bukan urusanmu."
+Ia baru saja menyentuh bara lampu dengan ujung jari tanpa bereaksi.
 
-"Semua yang membuat kamu tidak bisa bekerja itu urusanku, karena yang nanggung kamu kalau kamu roboh itu aku." Suara bocah itu datar, dan itu yang paling menakutkan. Sela yang marah berteriak, Sela yang takut bicara datar. "Angkat. Lengan."
+"Renn," katanya.
 
-Ashvarok mempertimbangkan tiga versi kebohongan, menemukan semuanya rapuh di hadapan anak yang menghitung porsi makannya sendiri, dan memilih sesuatu yang lebih mahal. Setengah kebenaran, disajikan utuh.
+Ashvarok memindahkan jari. Kulitnya tidak melepuh. Bara tadi terlalu kecil untuk melukai, tetapi seharusnya cukup untuk membuat orang tersentak.
 
-Ia menarik lengan bajunya sampai siku. Di bawah lampu barak, garis pucat itu terlihat seperti akar yang salah tumbuh.
+"Mangkukmu jatuh."
 
-"Vein-scar," kata Sela langsung. Dia sudah pernah lihat. Semua orang tambang pernah, pada ayah, pada paman, pada orang yang berhenti bisa bekerja dan berubah jadi penjaga gerobak. "Kamu memakai vein tanpa izin."
+"Gulung lengan baju."
 
-"Aku belajar alat baru. Alatnya minta bayaran."
+"Tidak."
 
-"Alat apa yang bayarnya badan orang?"
+Sela menendang mangkuk ke bawah ranjang. "Kalau kamu mau bohong, jangan pilih bohong yang bikin aku harus memeriksa mayatmu nanti. Gulung."
 
-"Alat yang satu-satunya yang bisa kupakai." Ashvarok menarik lengan bajunya turun, perlahan, supaya gesturnya terbaca sebagai keputusan, bukan penyembunyian. "Dengarkan. Aku tidak akan berhenti. Namun aku janji satu hal: aku catat. Tiap malam, ukuran garisnya. Kalau maju lebih dari—"
+Suara anak itu tidak naik. Justru itu tanda buruk. Ketika marah, Sela bicara cepat. Ketika takut, setiap katanya mendapat tempat sendiri.
 
-"Lebih dari apa? Kamu bahkan tidak tahu batasnya."
+Ashvarok memandang penghuni barak lain. Mereka sibuk dengan urusan masing-masing, tetapi telinga orang miskin bekerja bahkan saat matanya sopan. Ia berdiri dan memberi isyarat ke lorong sempit di belakang rak alat.
 
-"Iya." Itu bagian yang paling jujur dari malam itu, dan Sela mendengarnya seperti mendengar retakan pertama di dinding rumah. "Tidak ada yang tahu batasnya. Jadi kita yang membuat aturannya sekarang, sebelum batasnya yang membuat aturan buat kita."
+Sela mengikutinya. Begitu terhalang papan dan karung, dia mengulurkan tangan.
 
-Mereka berdua diam. Di kasur sebelah, tetangga barak mendengkur dengan ketulusan orang yang tidak tahu apa-apa.
+"Sekarang."
 
-Ashvarok memakai sunyi itu untuk menimbang sesuatu yang lebih berat daripada garis di lengannya — bahwa adik angkat ini, tanpa sadar, baru saja melakukan apa yang tidak berhasil dilakukan lima panglima dan seluruh istana Hegemony — membuatnya setuju pada aturan. Bukan karena kekuatan. Karena anak ini satu-satunya makhluk di dua zaman yang kehilangannya akan terasa seperti kehilangan.
+Ashvarok menggulung kain sampai bawah siku.
 
-Dia tidak menyebut pemikiran itu pada siapa pun. Beberapa kebenaran terlalu besar untuk tubuh lima belas tahun; bahkan untuk wajah raja.
+Garis pucat itu tidak lagi bisa dianggap goresan. Dari pergelangan kanan, ia menjalar ke atas seperti akar yang mencari air, masih pendek, tetapi terang di bawah cahaya lampu minyak. Sela memegang tangannya tanpa menyentuh garis. Matanya bergerak ke pergelangan kiri, membandingkan bekas lama dengan luka baru.
 
-Sela bangkit, mengambil papan tulis kecilnya, menghapus dua baris angka upah di pojok bawah — pojok yang ternyata sudah lama dicadangkan — dan menulis dengan huruf besar agar terbaca di gelap: GARIS KANAN. Di bawahnya, tanggal hari ini dan ukuran yang dia ukur sendiri dengan benang dari jahitan kasurnya, dua jari di atas pergelangan.
+"Kapan?"
 
-"Aturan pertama," katanya, tanpa menoleh. "Tiap malam kamu ukur, aku catat. Aturan kedua. Kalau garis nyentuh siku, kita cari dokter tambang, mau kamu mau tidak. Aturan ketiga—" sekarang dia menoleh, dan mata anak sebelas tahun itu sudah kembali ke suhu yang benar, "—kamu ceritakan ke aku alat apa yang kau belajar. Tidak semua. Cukup bagian yang membuat kamu berpikir kamu bisa melampaui batas."
+"Dua malam lalu."
 
-"Kenapa harus itu?"
+"Kamu sembunyikan dua malam."
 
-"Karena orang yang berpikir begitu biasanya sudah pernah melampaui batas sekali," kata Sela, meniup lilin meja. "Dan orang yang pernah menang lawan aturan selalu lupa kalau tagihannya menyusul belakangan."
+"Aku menunggu untuk tahu apakah garisnya bergerak sendiri. Tidak bergerak."
 
-Ashvarok berbaring menghadap tembok, lengan kanan diletakkan di atas selimut seperti barang yang sedang dipantau, dan di gelap ia mendengar Sela masih menulis di papan tulisnya — bunyi kapur kecil, rajin, dua baris, tiga.
+"Itu bukan jawaban yang bikin dua malamnya hilang."
 
-"Renn." Suara bocah itu datang setelah lama, dari kegelapan, sudah setengah tidur. "Gariskan namanya apa?"
+"Tetap tidak."
 
-"Apa maksudmu?"
+Sela melepaskan tangannya. "Kamu pakai apa?"
 
-"Papan tulis itu punya nama buat tiap kolom. Kolom utang kita namanya 'Utang'. Kolom upah namanya 'Masuk'." Bunyi kapur berhenti. "Aku menulis kolom garis itu tanpa nama. Terasa salah."
+"Alat baru."
 
-Ashvarok menatap tembok barak di kegelapan, dan untuk sesaat ia melihat sesuatu yang tidak pernah dilihat siapa pun. The Unremembered King memiliki satu-satunya arsip resmi tentang kematiannya sendiri, dan arsip itu ditulis dengan kapur bocah oleh anak sebelas tahun yang belum tahu siapa yang sedang dia catat.
+"Palu tidak bikin urat mati. Sekop juga tidak."
 
-"Tulis 'Hourglass'," katanya. "Namanya Hourglass."
+"Karena itu bukan palu atau sekop."
 
-Bunyi kapur dimulai lagi. Empat kata. Satu judul. Dan di bawah lampu jalan yang tidak pernah masuk ke barak ini, entri pertama dalam daftar kematian raja terakhir Hegemony resmi mempunyai nama.
+"Jangan bikin aku menebak."
+
+Ashvarok menurunkan lengan, tetapi Sela menahan kain bajunya tetap terbuka. Cengkeramannya kecil. Tekadnya tidak.
+
+Ia dapat memberi kebohongan yang nyaman: kecelakaan tungku, serpihan batu, racun dari terowongan. Semua akan runtuh saat garis itu memanjang. Kebohongan buruk bukan hanya dosa. Ia juga pekerjaan tambahan.
+
+"Alat itu memindahkan panas," katanya. "Dari tungku ke benda lain. Tubuhku menjadi jalannya."
+
+Wajah Sela tidak berubah, tetapi jarinya mengencang pada kain. "Buat apa?"
+
+"Supaya suatu hari panasnya bisa dipakai untuk membuka jalan yang tidak bisa dibuka dengan tangan."
+
+"Jalan ke mana?"
+
+"Belum bisa kuceritakan."
+
+"Berarti kamu cerita bagian yang membuatmu terdengar gila, lalu menyimpan bagian yang mungkin membuatnya masuk akal."
+
+"Strategi lama. Sering berhasil di dewan perang."
+
+Sela menatapnya.
+
+Ashvarok mengoreksi diri. "Pada orang yang suka memberi perintah."
+
+"Kamu salah satu orang itu?"
+
+"Kadang."
+
+Jawaban itu membuat sunyi di antara mereka berubah bentuk. Sela menimbangnya, seperti menimbang koin yang mungkin palsu, lalu menarik papan tulis dari rak. Papan itu biasa dipakai mencatat upah, jatah, dan utang pada penjual roti. Setiap kolom mempunyai garis lurus. Setiap angka diberi tanggal. Bagi Sela, ketakutan yang belum diberi kolom masih bisa tumbuh sesuka hati.
+
+Dia menghapus ruang di sisi kanan papan.
+
+"Kita bikin aturan," katanya.
+
+"Kita?"
+
+"Garisnya di tanganmu. Kalau kamu tidak bisa kerja, laparnya punya kita. Jadi kita."
+
+Ashvarok tidak membantah. Kekuasaan yang didukung hitungan makanan lebih kukuh daripada mahkota.
+
+Sela mengambil seutas benang lepas dari tepi selimut. Ia melilitkannya dari lipatan pergelangan sampai ujung garis, menandai panjangnya dengan arang, lalu membentangkan benang di papan.
+
+"Pertama," katanya, "tiap malam kamu ukur. Aku yang catat. Bukan kamu, karena kamu sudah terbukti suka menyimpan dua malam."
+
+"Disetujui."
+
+"Kedua, kalau garis ini sampai siku, kita cari dokter tambang."
+
+"Dokter tambang akan bertanya."
+
+"Biar dia bertanya."
+
+"Dia juga akan meminta bayaran."
+
+"Biar aku yang pikirkan bayarannya. Mau kamu menolak atau tidak, kita pergi."
+
+Ashvarok mengamati wajahnya. Ketakutan Sela telah berubah menjadi pekerjaan: mengukur, mencatat, mencari biaya. Itu caranya menahan dunia agar tidak merampas orang lagi. Menghentikan latihan sekarang mungkin menenangkannya, tetapi janji itu akan palsu. Cinder terlalu penting, dan batas garis hanya bisa dipahami dengan mendekatinya.
+
+"Kalau menyentuh siku," katanya, "kita pergi. Bahkan jika aku menolak saat waktunya tiba."
+
+"Bagus. Aturan ketiga." Sela meletakkan arang. "Kamu ceritakan bagian yang kamu sembunyikan. Bukan semua. Bagian yang bikin kamu yakin alat itu bisa melewati batas."
+
+"Batas apa?"
+
+"Batas badanmu." Tatapan Sela turun ke garis. "Kamu tahu ini menghabiskanmu, tapi wajahmu masih seperti orang yang merasa menang. Berarti kamu percaya ada sesuatu di ujungnya. Aku mau tahu apa."
+
+Pertanyaan tepat lebih berbahaya daripada tuduhan.
+
+Ashvarok menyentuh batu di dinding. Dingin. Di bawah telapak kirinya, ia dapat membayangkan panas tersimpan di sana: sedikit, tersebar, tetap dapat ditarik. Pola kedua tidak peduli dari mana panas berasal. Udara, batu, lemak tubuh — semuanya bahan. Jika sembilan simpul bertahan, dua belas jalur dapat membawa cukup banyak panas menuju satu pintu buang. Dan jika pintu itu bisa dipindah dengan presisi, kelak ia dapat memberi daya pada pola yang lebih besar daripada tubuh Renn sanggup nyalakan sendiri.
+
+Ia memilih bagian kebenaran yang tidak membuka nama lamanya.
+
+"Alat itu tidak meminta tubuhku menghasilkan seluruh kekuatannya," katanya. "Ia bisa mengambil panas yang sudah ada di sekitar. Aku hanya menjadi saluran. Artinya tubuh ini kecil, tapi yang bisa dipindahkannya tidak harus kecil."
+
+Sela mengerutkan dahi. "Dan salurannya rusak."
+
+"Iya."
+
+"Jadi kamu bukan melewati batas. Kamu memindahkan batas ke uratmu."
+
+Ashvarok menatapnya cukup lama hingga Sela mulai tidak nyaman.
+
+"Apa?"
+
+"Aku pernah punya penasihat yang dibayar mahal untuk mengatakan hal yang kurang berguna dari itu."
+
+"Kamu pernah punya penasihat?"
+
+"Tidak yang bagus."
+
+Sela mendengus, lalu menulis di kepala kolom baru: GARIS KANAN. Di bawahnya ia menyalin tanggal dan panjang benang. Garis arang pertama pendek, berhenti jauh sebelum tanda siku yang dia tambahkan di tepi papan.
+
+"Kolom ini perlu nama," katanya.
+
+"Sudah ada. Garis Kanan."
+
+"Itu isinya. Kolom upah isinya angka upah, tapi namanya Masuk. Kolom makanan namanya Bertahan." Dia menunjuk ruang kosong di atas tulisan. "Nama bikin kita tahu angka itu sedang menuju apa."
+
+Ashvarok memandang tanda pergelangan dan tanda siku. Ruang di antaranya tidak mengukur jarak. Ruang itu mengukur berapa banyak penggunaan yang masih dapat dibeli sebelum harga berikutnya menjadi terlalu besar.
+
+Setiap malam, satu angka akan jatuh ke bawah angka sebelumnya. Tidak ada yang tahu kapan butir terakhir lewat.
+
+"Hourglass," katanya.
+
+Sela mengucapkannya pelan, menguji bunyinya. "Hourglass."
+
+Dia menulis nama itu di atas GARIS KANAN, menekan arang sampai hurufnya lebih hitam daripada semua kolom lain.
+
+Ashvarok menurunkan lengan bajunya. Besok ia akan mengurangi durasi tarikan, mempersempit jalur, dan mencari tahu apakah panas dari batu memberi harga lebih kecil daripada panas tungku. Ia tidak akan berhenti. Kini ia juga tidak akan berlatih tanpa hitungan.
+
+Sela menggantung papan di tiang ranjang, tepat setinggi mata.
+
+Entri pertama Hourglass menunjukkan dua ruas dari pergelangan. Jauh dari siku. Dekat dari awal.
+
+Malam itu, sebelum tidur, Ashvarok mengukur garisnya lagi dan menyerahkan benang kepada Sela.

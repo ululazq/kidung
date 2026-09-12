@@ -3,102 +3,244 @@ title: "Bab 18: Jaminan"
 chapter: 18
 ---
 
-Pendataan ulang selesai pada hari kedua puluh tanpa satu pun nama yang dicoret, dan selama satu hari penuh Caldrest bernapas seperti orang yang baru saja lolos dari mimpi buruk — hati-hati, sebab mimpi seperti itu punya kebiasaan menunggu di sudut kamar yang sama. Pada hari kedua puluh satu, Kel Tharrow memanggil Brannoc ke kantornya. Ashvarok tahu isi pertemuan itu lebih dulu daripada yang seharusnya, karena pintu ruang dalam Quota Office punya celah ventilasi di ketinggian lutut, dan anak tungku yang disuruh membawa berkas surat boleh berlutut sangat lama untuk mengikat tali sepatunya.
+Berkas laporan bulanan itu terlalu tipis untuk menutupi tangan Ashvarok.
 
-Lututnya sudah mengenal dingin lantai itu. Batu menyentuh tulang seperti kertas tua menyentuh tangan — kering, dan tidak pernah benar-benar hangat.
+Ia membawanya menyusuri lorong Quota Office pada hari kedua puluh satu, melewati dua petugas yang sibuk menimbang hasil shift pagi. Bau tinta besi bertumpuk dengan debu cinder-glass dan wol basah. Di balik pintu ruang dalam, suara Kel Tharrow berhenti tepat ketika sol Ashvarok menyentuh lantai batu.
 
-Alasan pemanggilan itu sendiri sudah terbaca dari arah angin. Surat laporan bulanan pertama untuk kantor pusat harus berangkat minggu ini — surat yang wajib menjawab pertanyaan dari Spire soal "faktor tak dikenal", dan faktor tak dikenal itu, sejak survei Guild turun ke lorong B, sudah dua pekan tidak memberikan apa pun yang bisa ditulis dengan huruf. Tulang seam berhenti mengalir sejak survei mulai. Penambang-penambang mulai berani bicara tentang sunyi, sebab assayer ungu membuat mereka merasa dilindungi. Dan Tharrow — orang yang naik dengan memeluk angka — mendadak memegang laporan yang isinya hanya kalimat sopan tanpa isi.
+"Taruh di luar," kata Tharrow.
 
-Orang seperti itu, pada titik seperti itu, selalu mencari tuas. Ashvarok sudah menebak tuas mana sebelum bunyi kertas pertama terdengar lewat celah.
+Ashvarok menurunkan berkas di dekat ambang. Tali pengikatnya ia biarkan lepas. Saat berlutut untuk mengikat ulang, ia mendengar kursi bergeser di dalam. Celah ventilasi serendah betis membawa suara dengan jelas, beserta bau akar pahit yang dikunyah Brannoc.
 
-* *Bukan batu. Tidak pernah batu. Selalu yang dicintai orang.* *
+"Laporanmu kosong," kata Tharrow.
 
-"Kondisi tambang timur membaik," suara Tharrow, datar seperti orang membaca tagihan. "Produksi naik. Angka mati turun. Foreman yang sama, regu yang sama, batu yang sama. Menarik."
+"Laporan saya berisi hasil produksi, jumlah pekerja, dan kondisi lorong."
 
-"Regu bekerja lebih hati-hati sekarang, Overseer."
+"Tidak ada seam-bone sejak survei Guild dimulai. Tidak ada penjelasan tentang lorong B. Tidak ada satu kata pun mengenai faktor tak dikenal yang kau tulis sendiri bulan lalu." Ujung kuku mengetuk meja tiga kali. "Aneh. Angka mati turun, rute shift berubah tepat sebelum dua retakan jatuh, lalu regumu mendadak kehilangan keberuntungan ketika seorang Assayer datang."
 
-"Hati-hati." Kata itu diulang dengan rasa seperti orang mencicipi mata uang palsu. "Atau ada pembaca retakan yang memberi tahu regumu lorong mana yang aman. Kau tahu, foreman, hal yang paling mahal dari sebuah keberuntungan adalah betapa jarang dia datang dua kali."
+Ashvarok menahan simpul tali di antara dua jari. Maera telah menyerahkan laporan yang benar sehari sebelumnya: tak ada keluaran terukur pada saat survei. Kebenaran itu meninggalkan ruang kosong, dan Tharrow sedang mencari manusia untuk dijejalkan ke dalamnya.
 
-Hening panjang. Bunyi kertas yang dipindahkan, pelan sekali, seperti seseorang menyusun papan catur.
+Brannoc meludah kecil ke wadah akar. "Orang bekerja lebih hati-hati setelah melihat rekan mereka pulang tanpa nama."
 
-"Aku akan langsung ke angka, karena kita dua-duanya orang yang sibuk. Kontrak pendidikan anakmu — Harn, sembilan tahun, asrama distrik utara, jurusan pandai besi — masih dipegang the Quiet Vein dengan tarif tahun 748." Kertas lagi. Pergulangan pelan. "Tarif itu sudah tidak sesuai. Sesuai aturan lisensi, kontrak lama boleh dinilai ulang tiap triwulan, dan penilaian ulang biasanya... menyesuaikan diri dengan kondisi pasar. Atau dengan bekerja sama pemegang kontrak terkait."
+"Ketakutan biasanya menurunkan hasil. Regumu malah melampaui kuota."
 
-Ashvarok, berlutut di lorong luar dengan berkas di pangkuan, merasakan tubuh pinjaman ini mendingin dari arah yang bukan angin. Dingin itu bukan milik batu. Dingin itu milik kalimat.
+"Mungkin angka lebih patuh daripada orang."
 
-"Ini pemerasan, Overseer."
+Ketukan kuku berhenti.
 
-"Ini administrasi." Nada Tharrow bahkan tidak naik. Itulah yang membuatnya nyaris nyaman didengar — suara rutinitas, suara kantor — kalau saja isinya tidak seperti itu. "Aku tidak minta apa-apa yang aneh. Aku minta tiga hal yang wajar dari seorang foreman. Satu. Semua hasil tak resmi yang lewat gudangmu dicatat lewat kantorku dulu — bukan disita, dicatat. Dua. Kalau ada kejadian aneh di bawah sana, aku dengar versimu sebelum aku dengar versi korban. Tiga—" jeda, dan Ashvarok bisa membayangkan senyum tipis garis pensil itu, "—kau tetap jaga bocah lorong tujuh itu. Dia asetku. Aset bagus harus dijaga orang yang sudah terbukti menjaga barang."
+Ashvarok mengenal jeda semacam itu. Para pemungut upeti di istananya dahulu memakai diam untuk membuat pejabat kecil mengisi ancaman dengan imajinasi sendiri. Tharrow tidak memiliki singgasana, tetapi kekuasaan selalu menemukan perabot yang cocok.
 
-"Tiga permintaan," kata Brannoc pelan. "Bukan satu pun tentang batu."
+Kertas tebal diseret di atas meja.
 
-"Lima puluh tahun terakhir aku belajar satu hal di tambang, foreman: batu tidak pernah butuh diurus. Yang butuh diurus selalu manusianya." Bunyi kursi digeser; pertemuan secara resmi selesai. "Kontrak Harn kutahan dari penilaian ulang sampai akhir bulan. Waktuku murah. Kontrakmu tidak."
+"Harn," kata Tharrow. "Sembilan tahun. Asrama distrik utara. Jalur pendidikan pandai besi. Kontraknya dibuat dengan tarif tahun 748."
 
----
+Tidak ada suara dari Brannoc. Hanya akar pahit yang pecah di antara gigi.
 
-Brannoc keluar dari Quota Office dengan langkah prajurit yang mundur tertib dari medan yang kalah. Ashvarok mengikutinya sampai mereka berdua berhenti di gudang perkakas tingkat dua — tempat perjanjian pertama mereka, yang kini terasa seperti milik zaman lain. Aroma minyak bekas dan serbuk kayu menggantung di udara yang tidak pernah bergerak; satu lampu cinder-glass kecil menyala di dinding, kuningnya tenang, seperti menunggu.
+"Nilainya belum pernah disesuaikan," lanjut Tharrow. "The Quiet Vein berhak menilai ulang kontrak pendidikan pada akhir triwulan. Kondisi pasar sudah berubah. Biaya asrama naik. Besi latihan naik. Tenaga pengajar naik."
 
-Foreman tua itu duduk di atas peti kayu tanpa membuka percakapan. Mengunyah akar pahitnya. Menatap dinding, sebab dinding tidak pernah menuntut jawaban.
+"Apa maumu?"
 
-"Kau dengar," katanya akhirnya. Bukan pertanyaan.
+Brannoc tidak memanggilnya Overseer. Perubahan kecil, tetapi ruangan mendadak terasa lebih sempit.
 
-"Celah ventilasi rendah. Aku bawa berkas."
+"Tiga bentuk kerja sama. Pertama, seluruh hasil tak resmi yang melewati gudang perkakasmu harus masuk catatan kantorku sebelum berpindah tangan. Kedua, kejadian ganjil di bawah dilaporkan kepadaku melalui dirimu, bukan dari mulut korban atau Assayer luar. Ketiga, bocah lorong tujuh tetap berada dalam regumu dan dalam jangkauanku. Kau jaga dia sebagai aset the Quiet Vein."
 
-"Semua orang di kota ini punya celah, dan semua celah dipakai Tharrow." Brannoc menatap tangannya sendiri — tangan besar dengan bekas-bekas yang sudah tidak bercerita lagi. "Dia tidak minta aku jual kamu, kau sadar itu? Dia minta aku menjaga kamu. Untuk dia." Tawa pendek tanpa bunyi. "Foreman yang jadi anjing penjaga, dan bayaran anjingnya adalah masa depan anaknya."
+"Namanya Renn."
 
-"Kamu akan jawab tiga permintaan itu?"
+"Di buku kontrak, ya."
 
-"Jawab mana yang bisa dijawab. Catatan hasil tak resmi lewat kantorku — itu bisa, toh catatan kosong juga catatan. Kejadian aneh dia terima duluan dari aku — bisa juga, asalkan aku yang memilih kejadian mana yang dianggap aneh." Ia menepuk jaketnya, tempat bungkusan lilin tin thread disimpan sejak lorong sembilan. "Namun menjaga bocah lorong tujuh buat dia... itu yang membuat rasa pahitku naik sampai ke mata."
+Tangan Ashvarok menegang pada tali. Tubuh ini sudah mati sekali sebagai angka yang bisa dicoret. Sekarang seorang Overseer berniat menyimpan nama Renn hanya agar mudah mengikat benda di bawahnya.
 
-"Kenapa? Justru itu yang paling murah. Aku memang tidak ke mana-mana."
+Brannoc berkata, "Kalau saya menolak?"
 
-"Justru itu." Brannoc menoleh, dan matanya tua sekali di cahaya gudang. "Tharrow tidak butuh anjing buat jaga aset yang tidak mau lari. Dia butuh anjing yang merasa punya tugas, agar dia bisa mencabut tugasnya kapan pun dia mau. Hari ini jaga Renn. Besok — tangkap Renn. Lusa — seret Renn ke kedalaman buat dihitung sebagai faktor tak dikenal. Dan tiap kali perintahnya berganti, aku yang disalahkan gagal nurut." Akar pahit itu dipindahkan dari pipi kiri ke kanan. "Aku pernah dinas sama komandan seperti begitu. Dua puluh tahun silam. Benteng timur jatuh bukan karena musuhnya kuat. Karena komandannya main perintah bolak-balik untuk mengoleksi kesalahan orang."
+"Tidak ada penolakan. Hanya penilaian ulang sesuai aturan."
 
-"Berapa banyak yang mati waktu benteng itu jatuh?"
+"Kau menggantung sekolah anakku di atas kepalaku lalu menyebut talinya aturan."
 
-"Enam ratus empat puluh." Angka itu keluar tanpa jeda — angka yang sudah dibaca ribuan kali di kepala, sampai hurufnya hilang dan yang tersisa hanya beratnya. "Termasuk komandannya sendiri. Dia mati terakhir, setelah pasti semua salahnya dibayar orang lain. Itu satu-satunya hal yang dia lakukan dengan urutan yang benar."
+"Aku menyebutnya administrasi karena itu memang administrasi." Kursi Tharrow berderit. "Aku bahkan memberimu waktu. Kontrak lama tetap berlaku sampai akhir bulan. Penuhi tiga hal itu, dan berkas Harn tidak perlu naik ke meja Assayer."
 
-Gudang itu menahan napas bersama mereka. Di lantai bawah, gemuruh troli berlalu dan berlalu, indiferen, seperti laut yang tidak peduli kapal mana yang bocor.
+"Lalu bulan depan?"
 
-Ashvarok menimbang situasi itu dari semua sisinya, dan setiap sisi menunjukkan hal yang sama. Perjanjian diam mereka baru saja dipakai sebagai alat pemerasan oleh orang ketiga. Mitra yang kemarin saling menutupi kini sama-sama memakai tali di leher, dan tali itu dipegang satu tangan yang bersih.
+"Bulan depan ditentukan oleh sebaik apa kau memahami hari ini."
 
-"Brannoc. Kalau kontrak Harn bisa dilunasi penuh — habis, nol utang, dokumen lepas dari tangan the Quiet Vein — Tharrow tidak punya jaminan lagi."
+Ashvarok mengikat simpulnya terlalu rapat. Ujung jari bocah itu memutih. Ia pernah melihat kota menyerah karena gerbang dihantam, pasukan dikepung, sumur diracun. Cara Tharrow lebih kecil dan karena itu lebih kotor: sembilan tahun kehidupan seorang anak diperas menjadi tiga perintah.
 
-"Melunasi?" Foreman itu menoleh dengan ekspresi orang mendengar anak kecil menawarkan membeli benteng. "Kontrak pendidikan kelas pandai besi nilainya ratusan shardmark. Aku bekerja dua puluh tahun untuk tabungan yang bahkan tidak menutup sepertiganya. Dan sekarang, waktu dia dinilai ulang, angkanya bakal dinaikkan lebih dulu sebelum sempat dilunasi. Itu cara mereka bermain. Utang yang bisa dibayar tidak pernah dibiarkan bisa dibayar."
+Pintu terbuka. Ashvarok meraih berkas dan berdiri sebelum bayangan Brannoc jatuh melintasi celah ventilasi.
 
-"Kalau barang lunasnya bukan uang?"
+Foreman itu keluar dengan wajah datar. Rahangnya bergerak sekali, menelan sisa rasa pahit. Ia tidak melihat Ashvarok, tetapi berkata ke lorong kosong, "Gudang tingkat dua. Setelah hitungan terakhir."
 
-"Terus apa? Batu? Batu mereka sudah punya banyak."
+Tharrow muncul di belakangnya. Cincin besi di ibu jarinya berkilat saat ia mengambil berkas dari tangan Ashvarok.
 
-"Barang yang mereka tidak punya dan tidak bisa membuat." Ashvarok membiarkan kalimat itu berdiri sebentar di udara dingin gudang, lalu memangkasnya sebelum tumbuh menjadi janji yang tidak bisa ia tebus. "Aku belum bisa menjelaskan. Bukan tidak mau — belum bisa, karena barangnya belum ada, dan membuatnya butuh waktu, alat, dan tempat yang aman. Yang aku minta sekarang hanya dua. Pertama, jangan jawab Tharrow apa pun sampai akhir bulan. Tunda. Kamu kan jago menunda — dua belas pertanyaan investigasi kemarin kamu jawab semuanya tanpa memberi apa-apa."
+"Kau mendengar sesuatu, Renn?"
 
-"Dan kedua?"
+"Suara petugas menimbang batu."
 
-"Kedua, kalau akhir bulan datang dan barangku tidak jadi juga, kamu serahkan semuanya. Semua. Daftar lorong amanku, aku, semuanya. Anakmu tidak memakai harga yang dibayar rahasia orang lain."
+"Hanya itu?"
 
-Brannoc menimbang kalimat-kalimat itu dalam sunyi gudang, dan di tengah penimbangan, tanpa diminta, dia menceritakan sesuatu yang tidak pernah diceritakannya kepada siapa pun di tambang ini.
+Ashvarok menatap noda tinta pada manset Tharrow. "Kalau ada suara lain, mungkin pintu Anda terlalu tipis."
 
-"Ibunya Harn," katanya, "penempa kecil di pasar timur. Bukan pandai besi besar — meja kerja selebar pintu, dua tangga besi sebulan. Namun besinya rapi. Dia berkata, 'Bes yang baik itu jujur, Bren. Kalau dipukul dia bilang patahnya di mana.'" Ia mengunyah akar pahitnya sampai habis, lalu meludahkan seratnya ke telapak tangan dan memandanginya seperti memandang sisa surat. "Dia mati waktu melahirkan Harn. Jadi kontrak pendidikan itu bukan mimpi aku soal anakku. Itu wasiat ibunya, yang kebetulan ditulis di atas kertas milik the Quiet Vein karena kami tidak punah uang untuk membayar dukun bersalin."
+Mata Overseer turun ke simpul tali, lalu kembali ke wajahnya. Ashvarok membiarkan tubuh Renn tampak sebagaimana orang-orang mengingatnya: kurus, lelah, terlalu muda untuk menjadi ancaman. Tharrow mendengus dan masuk lagi.
 
-Ah. Ashvarok menutup sesuatu yang jauh di dalam dada. Sebuah penempa kecil yang besinya jujur — dan sekarang putranya ditebus oleh orang yang menjual kejujuran per lembar.
-
-"Ashvarok." Nama aslinya nyaris keluar. Foreman tua itu menangkapnya setengah jalan dan menggantinya dengan gerakan kepala. "...Renn. Kalau barang yang kamu maksud itu ada, dan bisa dilunasi sebelum akhir bulan, apa yang kamu minta sebagai balasan?"
-
-"Nol," kata Ashvarok. "Kamu sudah membayar lebih dulu, waktu lorong tujuh."
-
-"Dulu aku bilang kamu barang bukti. Lalu aku bilang kamu aset. Sekarang aku berkata pada diriku sendiri, 'kalau gagal, serahkan aku', seolah kamu tabungan keluarga." Brannoc bangkit dari peti, meletakkan tangan besar di pundak Ashvarok sekali — berat, singkat, seperti stempel lilin hitam. "Jangan gagal, Renn. Bukan demi aku. Demi bocah sembilan tahun yang tidak pernah melihat tambang dan tidak boleh pernah."
-
-Ia keluar. Langkahnya di tangga terdengar seperti mundur dalam barisan — tertib, tidak berlari, dan kehilangan sesuatu di setiap anak tangga.
+Berkas tipis itu lenyap bersamanya.
 
 ---
 
-Ashvarok berdiri sendirian di antara sekop-sekop milik orang lain, menimbang janji yang baru saja ia ucapkan. Lampu cinder-glass kecil masih menyala di dinding, dan cahayanya jatuh pada bilah-bilah sekop seperti cahaya jatuh pada tulang. Gudang ini pernah menjadi tempat dua orang bertukar sepotong kaca-batu dan sedikit kepercayaan. Malam ini tempat itu menampung janji yang jauh lebih berat — dan janji, seperti utang, tumbuh dengan bunga yang tidak terlihat.
+Pada hitungan terakhir, gudang perkakas tingkat dua kosong kecuali peti paku, sekop tumpul, dan satu lampu cinder-glass yang membuat bayangan perkakas memanjang di dinding. Brannoc duduk di meja kerja dengan kedua tangan terbuka. Di hadapannya tergeletak bungkus akar pahit yang belum disentuh.
 
-Forge. Untaian kedua Emberweave: menempa, menyenapai artefak, memperkuat benda yang ada. Harganya benda yang ditenun ikut menua — besi menjadi getas dalam hitungan hari. Tetapi di dunia ini, satu-satunya benda yang nilainya justru naik ketika menua adalah cinder-glass. Dan cinder-glass yang ditempa ulang oleh tangan yang tahu pola lamanya, dikembalikan ke umur aslinya — bukan sekadar fragmen. Artefak kecil dengan gema yang bisa dinilai Assayers' Guild ratusan shardmark.
+Ashvarok menutup pintu.
 
-Rencananya tersusun sendiri di kepalanya, seperti semua rencana baik. Karangan tulang seam yang belum disetor, dipakai sebagai bahan baku, bukan barang jadi. Tungku ventilasi tingkat lima pada shift paling sepi. Pola-pola Forge yang sudah seribu tahun tidak pernah dipanggil siapa pun. Dan satu risiko yang harus dihitung dua kali: Forge meninggalkan jejak panas yang berbeda dari Cinder — lebih dalam, lebih tua, seperti dapur purba yang menyala — dan assayer Voice-tier yang sedang berada di kota, dengan alat perekamnya, mungkin akan mendengarnya bila salah waktu.
+"Kau dengar semuanya," kata Brannoc.
 
-* *Seribu tahun, dan yang paling saya takuti bukan sekali lagi... panas yang ternyata masih ingat saya.* *
+"Ya."
 
-Dia butuh tungku yang lebih baik dari tungku ventilasi. Butuh bahan baku tulang seam yang masih tersimpan di karungnya. Butuh waktu — yang tenggatnya berjalan mundur seperti air pasang.
+"Seharusnya kukirim kau pergi sebelum survei."
 
-Dan dia butuh semuanya tanpa seorang pun melihat api yang tidak seharusnya ada di zaman ini. Bukan Brannoc. Bukan Maera. Terutama bukan Sela — anak itu menghitung segalanya, dan api yang menghitung dirinya sendiri adalah api yang tidak boleh ada.
+"Ke mana?"
+
+"Tempat yang tidak punya Quota Office."
+
+"Tempat seperti itu biasanya juga tidak punya makanan."
+
+Brannoc tidak tersenyum. "Tharrow tidak meminta aku menyerahkanmu. Belum. Ia menyuruhku menjaga. Kedengarannya murah sampai kau tahu cara perintah berubah. Hari ini aku memastikan kau tetap bekerja. Besok aku memastikan kau tidak bicara. Lusa aku memastikan kau turun ke lubang yang tidak punya jalan pulang. Semua bisa disebut menjaga, tergantung siapa yang memegang pena."
+
+Ashvarok mendekati meja. Serbuk besi memenuhi retakan kayu. "Dua tuntutan pertama bisa kau beri tanpa memberinya isi."
+
+"Hasil tak resmi dicatat sebelum berpindah tangan. Berarti setiap pecahan, setiap alat, setiap benda dari reguku melewati matanya."
+
+"Catat yang sudah ia ketahui."
+
+"Dan kejadian ganjil?"
+
+"Kau laporkan versi paling sempit yang tetap benar."
+
+Brannoc mengangkat pandangannya. "Seperti Maera? Lorong B normal saat diperiksa. Tidak menyebut apa yang terjadi sebelum pemeriksaan."
+
+"Tepat."
+
+"Kebenaran yang dipotong rapi tetap bisa menjerat leher."
+
+"Kebohongan lebih mudah dikenali."
+
+Brannoc mendorong kursinya ke belakang. "Kau bicara seperti kita sedang tawar-menawar kuota. Itu anakku. Satu tanda tangan bisa mengeluarkannya dari asrama, menambah utang yang tak sanggup kubayar, atau memindahkannya ke kontrak kerja sebelum ia cukup tinggi untuk mencapai landasan tempa."
+
+Amarahnya tidak naik. Ia merapat, padat seperti batu sebelum retak. Ashvarok membiarkannya berdiri. Bantahan cepat hanya akan memperkecil harga yang sedang disebutkan.
+
+"Harn tahu?" tanya Ashvarok.
+
+"Ia tahu sekolahnya dibayar kontrak. Ia tidak tahu kontrak bisa berubah tiap kali ayahnya membuat orang penting tidak nyaman." Brannoc mengambil bungkus akar, lalu meletakkannya lagi. "Ibunya menyusun kontrak itu sebelum melahirkan. Ia punya bengkel kecil di pasar timur. Meja selebar pintu, tungku yang bocor di sisi kiri, pesanan dua engsel kalau minggu sedang baik. Ia mau Harn belajar menempa tanpa menghabiskan paru-parunya di tambang."
+
+"Dia meninggal saat Harn lahir."
+
+Brannoc menatapnya tajam. "Siapa yang memberitahumu?"
+
+"Kontrak menyebut wali tunggal. Tharrow membacakan cukup banyak."
+
+Ketajaman itu surut. "Benar. Ia mati, dan aku menandatangani sisanya karena biaya tabib belum lunas. Harn tidak pernah mengenalnya. Sekolah itu satu-satunya wasiat yang bisa kuberikan. Sekarang Tharrow menyimpannya di laci bersama laporan produksi."
+
+Lampu berdetak halus ketika gelembung panas pecah di dalam kaca. Cahaya kuningnya tetap pucat bagi Ashvarok. The Remainder masih nyaris habis; warna dunia belum pulih meski kisah Brannoc memberinya sesuatu yang layak dipertahankan.
+
+"Berapa nilai pelunasannya?" tanyanya.
+
+"Ratusan shardmark. Tabunganku belum mencapai sepertiga. Begitu aku mengajukan pelunasan, kantor akan menilai ulang lebih dulu. Mereka memastikan utang bergerak lebih cepat daripada orang yang mengejarnya."
+
+"Kalau dibayar dengan barang?"
+
+Brannoc memicingkan mata. "Barang apa?"
+
+"Sesuatu yang nilainya dapat disahkan Guild. Bukan uang. Bukan hasil tambang biasa."
+
+"Kau punya barang itu?"
+
+"Belum."
+
+"Bisa membuatnya?"
+
+Ashvarok memandang kepala palu yang berkarat di rak. Ingatan tentang Emberweave bergerak di bawah benaknya: api tidak penting; pola itulah yang mengajari bahan untuk menjadi bentuk lain. Forge ada di sana, tertutup, belum sanggup ia panggil. Ia tidak boleh menjanjikan kemampuan yang belum bangun. Namun seam-bone, cinder-glass, dan pengetahuan seribu tahun memberinya jalan yang tak dimiliki siapa pun di Caldrest.
+
+"Aku tahu apa yang harus dibuat," katanya. "Aku belum tahu apakah tubuh ini mampu membuatnya."
+
+"Itu bukan jawaban yang menenangkan."
+
+"Jawaban menenangkan adalah mata uang Tharrow. Aku memberi jawaban benar."
+
+Brannoc berdiri dan berjalan ke rak, lalu kembali. Gudang sempit itu hanya memberinya enam langkah untuk menimbang masa depan anaknya.
+
+"Kau meminta apa dariku?"
+
+"Tahan Tharrow sampai akhir bulan. Beri dua laporan pertama dengan isi sesedikit mungkin. Untuk tuntutan ketiga, katakan kau masih menilai apakah aku layak dijaga sebagai aset. Minta instruksi tertulis. Ia akan enggan menulis maksud yang bisa dibaca kantor pusat."
+
+"Dan selama aku mengulur?"
+
+"Aku mencari bahan, tempat, dan cara membuat pembayaran yang tidak bisa ditolak."
+
+"Kau tidak boleh memakai Cinder di tempat yang bisa direkam."
+
+"Aku tahu."
+
+"Tidak boleh melibatkan Sela atau Maera. Mereka sudah membawa cukup risiko."
+
+"Mereka tidak akan kulibatkan."
+
+Brannoc mengetuk meja dengan dua ruas jari. "Kau terlalu cepat setuju. Apa harga yang tidak kau sebutkan?"
+
+Ashvarok memilih kata-katanya tanpa melindungi diri sendiri. "Jika aku gagal sebelum penilaian ulang, serahkan semua yang kau tahu. Lorong aman, benda yang kusimpan, perubahan setelah lorong tujuh. Serahkan aku jika itu membebaskan Harn."
+
+"Tidak."
+
+"Itu jalan keluarmu."
+
+"Itu jalan keluar Tharrow."
+
+"Anakmu tidak boleh membayar rahasia kita."
+
+"Dan kau mengira aku bisa menukar satu anak dengan anak lain lalu pulang tidur?"
+
+Tubuh Renn membuat kata itu terasa berbeda. Anak. Ashvarok telah hidup terlalu lama untuk menerimanya, tetapi Brannoc tidak melihat usia yang hilang di balik wajah ini. Ia melihat bocah lorong tujuh yang pernah diangkat dari reruntuhan.
+
+"Aku bukan anak," kata Ashvarok.
+
+"Bagi Tharrow, kau barang. Bagi dirimu, mungkin kau raja yang kehilangan singgasana atau hantu yang lupa mati. Bagiku, kau orang yang bekerja dalam reguku." Brannoc menancapkan telunjuk ke meja. "Jangan menawarkan dirimu seolah nyawamu receh. Kalau rencanamu gagal, aku yang memilih apa yang kuberikan."
+
+"Kalau pilihanmu membuat Harn dikeluarkan?"
+
+"Maka aku hidup dengan pilihan itu. Bukan kau."
+
+Ashvarok menahan jawaban. Dahulu, perintahnya mengakhiri perdebatan. Sekarang ia tidak memiliki mahkota, pasukan, bahkan nama yang diingat dengan utuh. Yang tersisa hanya janji, dan janji tidak bisa dipaksakan kepada orang yang menolak menerimanya.
+
+"Baik," katanya. "Kau memilih jika aku gagal. Tetapi sampai akhir bulan, izinkan aku mencoba."
+
+Brannoc menatap lampu, lalu pintu, lalu wajah Renn. "Apa balasan yang kau minta kalau berhasil?"
+
+"Tidak ada."
+
+"Semua orang meminta sesuatu."
+
+"Kau sudah membayar di lorong tujuh. Setelahnya juga."
+
+"Menutup mulut bukan pembayaran."
+
+"Di Caldrest, itu barang mahal."
+
+Kali ini sudut mulut Brannoc bergerak. Bukan senyum. Gerakan itu mengakui ketepatan kalimat Ashvarok. Ia membuka bungkus akar pahit, mematahkan sepotong, dan menyelipkannya di pipi.
+
+"Sampai akhir bulan," katanya. "Aku ulur. Kau mencari jalanmu. Tidak ada aksi tanpa memberitahuku jika bisa membunuh orang lain."
+
+"Disepakati."
+
+"Dan Renn—"
+
+Ashvarok menunggu.
+
+"Jangan gagal demi aku. Gagal demi Harn kalau memang harus, supaya setidaknya kau tahu siapa yang menanggung akibatnya."
+
+Kalimat itu lebih berat daripada ancaman Tharrow karena tidak menawarkan musuh untuk dibenci.
+
+Brannoc mengambil lampunya dan meninggalkan gudang. Di tangga, langkahnya tetap teratur, tetapi hubungan mereka tidak lagi berjalan berdampingan. Tharrow telah memasukkan tenggat di antara mereka. Brannoc masih melindungi Ashvarok; kini setiap perlindungan juga memperpanjang tali yang melilit masa depan Harn.
+
+Ashvarok tinggal dalam cahaya cinder-glass dinding yang meredup.
+
+Ia tidak mencoba memanggil Forge. Untaian itu belum menjawab, dan memaksanya sekarang hanya akan membakar waktu, tubuh, atau keduanya. Ia menyusun kebutuhan yang bisa dikerjakan tanpa api: menghitung sisa seam-bone yang belum masuk catatan, mencari tungku dengan ventilasi terpisah, mempelajari jadwal kosong tiap shift, dan menentukan Assayer Guild yang dapat mengesahkan artefak tanpa mengirim kabar ke Tharrow lebih dulu.
+
+Ratusan shardmark. Sembilan hari tersisa sebelum akhir bulan. Satu benda bernilai lebih tinggi daripada bahan asalnya, dibuat tanpa meninggalkan gema yang dapat didengar Anthema Spire.
+
+Di sisi belakang lembar inventaris bekas, ia membuat tiga kolom: bahan, tempat, waktu. Di bawah kolom pertama ia menulis seam-bone. Di bawah kolom kedua, belum ada jawaban. Di bawah kolom ketiga, ia membagi sembilan hari menjadi shift dan jam.
+
+Sebelum meninggalkan gudang, Ashvarok melipat lembar itu hingga sekecil ruas jari dan menyelipkannya di lapisan sepatu. Besok ia akan mulai dari tungku-tungku yang tidak tercantum dalam jadwal. Malam ini, rencana itu belum menghasilkan satu shardmark pun, tetapi sudah memiliki batas, kebutuhan, dan harga kegagalan.

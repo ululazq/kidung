@@ -3,7 +3,7 @@ title: "Bab 137: Yang Berjalan Malam"
 chapter: 137
 ---
 
-Malam hari keseratus dua puluh satu, Ashvarok belajar bahwa pagar yang dibangun dari nama hanya bisa menahan orang yang masih mengenali namanya sendiri.
+Malam hari kedua ratus satu, Ashvarok belajar bahwa pagar yang dibangun dari nama hanya bisa menahan orang yang masih mengenali namanya sendiri.
 
 Pelajarannya datang dalam bentuk paling sederhana yang bisa diminta oleh malam. Selesai patroli undian di tingkat empat, ia baru saja melewati ambang gerbang utama ketika Ondar menabraknya hampir berlari dari arah troli, napasnya berantakan, dan anak muda itu sudah cukup lama di tambang ini untuk membuat Ashvarok membaca kabar buruk dari cara kakinya berhenti.
 

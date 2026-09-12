@@ -59,7 +59,7 @@ Ia mengetuk tiga kali ke ambang, diam satu hentakan, lalu menyerahkan kertas itu
 
 Perawat tua menulis di buku catatan: *Saksi menolak narasi dengan batas pelaporan. Tidak bohong. Tidak cerita. Hanya batas.*
 
-Malam itu, di barak, Ashvarok-Renn membuka buku anomali dan menulis satu baris di bawah catatan tiga simpul:
+Malam itu, di barak, Ashvarok-Renn membuka the Anomaly Book dan menulis satu baris di bawah catatan tiga simpul:
 
 *Spire minta narasi, ditolak dengan batas pelaporan. Pintu tidak dibuka. Institusi penghisap kini tahu ada dinding di ujung benang yang mereka panen. Dinding itu bukan batu. Ia adalah ketaatan pada angka. Selama Mira hanya angka, mereka tidak punya cerita untuk diputar.*
 
@@ -83,7 +83,7 @@ Maera mengangguk. "Maka kita harus pastikan surat yang mereka bawa hanya menyebu
 
 ---
 
-Di halaman barak, Sela mengumpulkan dua belas anak Sekolah Mendengar. Ia berdiri di depan dengan papan kecil, lalu berpura-pura menjadi pemeriksa.
+Di halaman barak, Sela mengumpulkan dua belas anak the Listening School. Ia berdiri di depan dengan papan kecil, lalu berpura-pura menjadi pemeriksa.
 
 "Kau," kata Sela pada anak angkatan keempat. "Mengapa angin berbalik?"
 
@@ -99,7 +99,7 @@ Ashvarok-Renn mengamati dari serambi tanpa mengganggu. Generasi berikutnya kini 
 
 ---
 
-Malamnya Ashvarok-Renn membuka buku anomali dan menulis di bawah catatan tentang penolakan narasi:
+Malamnya Ashvarok-Renn membuka the Anomaly Book dan menulis di bawah catatan tentang penolakan narasi:
 
 *Eskalasi: arsip kirim pemeriksa lapangan ke menara (bukan panggil ke Spire). Ini cara institusi penghisap turun ke seam tanpa lewat panitia. Tujuh seam pengikat the Threshold adalah jaringan mereka; celah menara adalah simpul kedua yang kini mereka sentuh. Mira hanya tunduk prosedur Assayer: arah dan napas. Kalau surat mereka sebut katup, arahkan kembali ke angin. Kita tidak sebut nama institusinya. Kita hanya catat bahwa tangan memanen akan datang ke celah.*
 
@@ -139,4 +139,4 @@ Sela menatapnya. "Kau ke menara?"
 
 Ia mengetuk tiga kali ke lantai, diam satu hentakan. Di luar, angin selatan bergerak pelan, membawa napas yang sama dengan yang Mira catat tiap subuh. Dan di ujung benang yang memanen, langkah pemeriksa lapangan makin dekat ke celah yang namanya baru mereka temukan — tanpa tahu bahwa di ambang menara itu kelak mereka akan bertemu bukan hanya seorang saksi — melainkan seorang penjaga irama yang tidak punya nama di atas kertas mana pun, dan yang tidak bisa dipanggil oleh siapa pun.
 
-Sela menulis baris terakhir di papan world-state barak di bawah catatan tiga simpul: *Pemeriksa lapangan akan datang ke menara. Ashvarok-Renn ke sana sebagai penjaga irama yang tak bernama. Dua suara, satu irama, tanpa cerita.* Ia meletakkan kapur di tepi papan. Di halaman, dua belas anak masih menghafal ketukan, suara mereka belum satu pun tercatat di arsip mana pun — dan itu adalah perlindungan yang tidak bisa dibeli dengan cap resmi.
+Sela menulis baris terakhir di papan keadaan barak di bawah catatan tiga simpul: *Pemeriksa lapangan akan datang ke menara. Ashvarok-Renn ke sana sebagai penjaga irama yang tak bernama. Dua suara, satu irama, tanpa cerita.* Ia meletakkan kapur di tepi papan. Di halaman, dua belas anak masih menghafal ketukan, suara mereka belum satu pun tercatat di arsip mana pun — dan itu adalah perlindungan yang tidak bisa dibeli dengan cap resmi.

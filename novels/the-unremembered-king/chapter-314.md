@@ -83,7 +83,7 @@ Ashvarok-Renn berdiri di serambi, menatap peta di dinding. Penanda di titik Spir
 
 ---
 
-Hari itu Ashvarok-Renn memanggil murid-murid Sekolah Mendengar ke serambi. Dua belas anak duduk bersila, Sela di depan memegang papan kecil. Ashvarok-Renn mengetuk tiga kali ke lantai, diam satu hentakan.
+Hari itu Ashvarok-Renn memanggil murid-murid the Listening School ke serambi. Dua belas anak duduk bersila, Sela di depan memegang papan kecil. Ashvarok-Renn mengetuk tiga kali ke lantai, diam satu hentakan.
 
 "Kalian sudah tahu irama ini," katanya. "Sekarang kuberitahu mengapa. Irama adalah cara mencatat tanpa menuduh. Di Spire nanti, beberapa dari kalian mungkin dipanggil seperti Mira. Bila itu terjadi, bawa irama, bukan cerita. Cerita bisa diputar. Irama hanya bisa dibandingkan."
 
@@ -97,15 +97,15 @@ Anak itu mengetuk tiga kali ke lantai, salah satu jarinya meleset, lalu diam. As
 
 Malamnya, Kovan membawa papan kecilnya ke ruang tengah. Ia telah menghitung ulang jarak antara Caldrest dan Spire, kali ini bukan dalam hari perjalanan — melainkan dalam kecepatan jawaban.
 
-Ashvarok-Renn duduk di sudut ruangan, membuka buku anomali yang sejak bab pembuka arc ini menyimpan irama tiga detik yang bocor ke bilangan desa. Ia menulis satu baris di bagian bawah, di bawah catatan tentang benang yang menyambung seluruh Karvess:
+Ashvarok-Renn duduk di sudut ruangan, membuka the Anomaly Book yang sejak penyelidikan ini dimulai menyimpan irama tiga detik yang bocor ke bilangan desa. Ia menulis satu baris di bagian bawah, di bawah catatan tentang benang yang menyambung seluruh Karvess:
 
-*Bab ini: benang pertama jaringan diam telah sampai ke jantung Choir. Alamatnya adalah nama seorang perawat menara. Keputusan: tidak turun. Tidak beri nama musuh. Tidak sebut katup di kertas resmi. Biarkan mereka membaca angin, bukan besi.*
+*Temuan: benang pertama jaringan diam telah sampai ke jantung Choir. Alamatnya adalah nama seorang perawat menara. Keputusan: tidak turun. Tidak beri nama musuh. Tidak sebut katup di kertas resmi. Biarkan mereka membaca angin, bukan besi.*
 
 Ia menutup buku itu. Di dalamnya, angka-angka terus bertambah tiap hari, dan tidak satu pun yang menyebut kata yang dilarang. Itu adalah disiplin yang membuat benang itu bisa hidup tanpa menjadi tali jerat.
 
 "Besok," kata Ashvarok-Renn pelan, "kita kirim laporan bulanan lewat pos, bukan kain. Pertama kalinya nama Mira yang menandatanganinya. Setelah itu, Spire tahu ke mana menarik balasnya."
 
-Pagi berikutnya, Sela menulis satu baris di papan world-state barak yang digantung di dinding ruang tengah: *Benang resmi aktif. Ujung Spire: nama Mira. Ujung barak: tidak bernama.*
+Pagi berikutnya, Sela menulis satu baris di papan keadaan barak yang digantung di dinding ruang tengah: *Benang resmi aktif. Ujung Spire: nama Mira. Ujung barak: tidak bernama.*
 
 Ashvarok-Renn membaca baris itu dan berkata, "Yang akan membaca balik bukan panitia. Panitia hanya catat. Yang membaca balik adalah baris arsip yang sejak semula membaca lebih dulu dari siapa pun. Mereka yang akan memutus apakah nama Mira cukup sebagai jawaban, atau mereka ingin besi di balik angin itu."
 

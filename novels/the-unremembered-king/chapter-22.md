@@ -3,94 +3,240 @@ title: "Bab 22: Nama Rencana"
 chapter: 22
 ---
 
-Hari kedua puluh enam, berkas surat yang harus dibawa Ashvarok ke Quota Office bertuliskan dua kata di sampulnya: PRIORITAS TINGGI. Pengirimnya bukan biro lisensi, bukan gudang pusat, dan bukan siapa pun yang biasa menulis surat kepada Kel Tharrow dengan tinta hitam pekat itu.
+Pada hari kedua puluh enam, Ashvarok mendapat tugas mengantar map bersegel abu ke Quota Office.
 
-Pengirimnya adalah ruang tamu penginapan distrik atas, tempat tamu bernama lain membayar kamar dengan uang tanpa wajah.
+Petugas pos menyerahkannya dengan dua tangan. "Ke ruang dalam. Jangan ditinggal di meja depan."
 
-Ashvarok sudah tahu surat itu sebelum sampulnya jadi — petugas pos distrik diberi tahu kemarin malam bahwa "kurir dari barak lorong tujuh" yang dipercaya mengantar surat penting ke Quota Office besok pagi. Pilihan yang tidak membutuhkan kebetulan untuk dijelaskan. Tharrow sedang menggunakan matanya. Orang-orang seperti Tharrow selalu memakai semua alat yang ada di mejanya, termasuk alat yang tidak sadar mereka miliki.
+"Penerimanya?"
 
-Pertanyaannya bukan apakah surat itu jebakan. Isinya akan dia serahkan apa adanya, dan isi surat dari Ossian Vael kepada Tharrow pastilah hal-hal resmi yang aman. Pertanyaannya adalah apakah kesempatan mendengar ruangan yang sama ketika dua pembaca angka berkumpul layak dengan risikonya.
+"Kel Tharrow. Kalau dia sedang bersama tamu, tunggu. Katanya begitu."
 
-Jawabannya sudah ia putuskan sejak semalam, di gelap gang, ketika menyadari satu fakta sederhana. Dalam sepuluh hari terakhir, musuhnya telah membaca daftar enam ratus nama, mewawancarai seorang assayer, mengirim instruksi kepada seorang overseer — dan Ashvarok belum mendengar satu pun suaranya secara langsung. Dia sedang berperang melawan kaligrafi. Seorang raja tidak pernah menang perang dengan membaca tulisan tangan lawannya di dinding. Dia harus mendengar bagaimana lawannya bicara saat merasa aman.
+Instruksi itu terlalu khusus untuk sebuah map yang pada sampulnya hanya tertulis PRIORITAS TINGGI. Ashvarok memasukkan tali tas ke bahu, mengucapkan terima kasih dengan suara Renn, lalu berangkat melalui jalur yang biasa dipakai kurir barak. Ia tidak mempercepat langkah. Anak lima belas tahun yang berutang sembilan puluh enam shardmark tidak punya alasan tertarik pada surat orang berkuasa.
 
-Maka Ashvarok membawa berkas itu turun dari kantor pos distrik lewat jalur yang biasa, dan pada titik biasa — lorong luar Quota Office dengan celah ventilasi di ketinggian lutut — ia berlutut untuk mengikat tali sepatu yang tidak kendur, kali ini dengan berkas tetap tergantung di bahunya supaya kelihatan jujur. Batu lorong itu dingin dan familiar; lututnya sudah hafal dinginnya seperti hafal doa-doa tua yang tidak pernah dipanjatkan lagi.
+Ia punya banyak alasan.
 
-Di dalam, suara yang tidak biasanya ada sedang bicara dengan Kel Tharrow.
+Sejak Ossian Vael tiba kemarin, kota berubah tanpa satu perintah diumumkan. Penjaga Quota Office berdiri lebih tegak. Petugas loket menutup buku ketika penambang mendekat. Di penginapan distrik atas, dua kamar dibayar memakai uang tanpa cap keluarga. Semua itu kecil. Ashvarok pernah melihat pasukan mengambil sebuah ibu kota dengan tanda-tanda yang lebih halus: dapur istana memesan garam dua kali lipat, pengantar pesan mengganti sepatu, dan orang-orang yang biasanya berteriak mendadak bicara pelan.
 
-"...daftar pendataan sudah saya baca semalam. Enam ratus dua puluh satu nama. Saya butuh klarifikasi untuk sebelas." Suara itu tenang, terlatih, dan setiap kalimatnya dibangun seperti meja yang dirancang agar tidak goyang. "Namun daftar bukan alasan saya datang. Survei junior assayer itu akan selesai dalam lima hari, dan ketika laporannya naik, klasifikasi anomali di bawah kota ini akan berpindah tangan — dari Guild ke kami, secara prosedural, tanpa satu pun tinta yang bisa dipersoalkan."
+Quota Office berbau tinta besi, wol basah, dan batu kapur yang terbawa sol pekerja. Di meja depan, petugas menerima mapnya, memeriksa segel, lalu menunjuk bangku dekat lorong samping.
 
-"Dan setelah klasifikasi pindah?" Suara Tharrow lebih rendah dari biasanya. Orang berbicara lebih pelan ketika sadar sedang menjadi peralatan. "Lisensi tambang tetap milik kita?"
+"Tunggu di sana. Overseer sedang menerima Tuan Vael."
 
-"Lisensi tetap milik kalian. Akses yang akan berubah." Bunyi kertas yang ditumpuk dengan tepat. "Seam dengan potensi kelas Testament bukan komoditas, Overseer. Dia saksi. Dan saksi tidak boleh tinggal di ruang tunggu tempat siapa pun bisa mendengarnya bicara. Setelah penilaian resmi selesai, akses dasar tambang akan dibatasi ke personel bersertifikat Choir — dan distrik penambang di atasnya akan dinilai ulang untuk... pemindahan yang lebih efisien."
+Jadi umpan itu tidak disembunyikan.
 
-"Pemindahan." Kata itu diulang Tharrow dengan hati-hati seorang pria mengulang kata yang baru saja dia lihat punya gigi. "Ada empat ratus keluarga di distrik timur."
+Ashvarok duduk. Dari balik pintu dalam terdengar suara, tetapi kata-katanya pecah oleh dua dinding dan derit loket. Ia menghitung lalu lintas ruangan: seorang juru tulis menuju arsip setiap tujuh atau delapan menit; penjaga depan berjalan sampai jendela tiap lima menit; petugas meja membunyikan lonceng kecil bila butuh pengantar. Lorong samping berujung pada gudang kertas dan saluran ventilasi rendah. Dalam kunjungan-kunjungan sebelumnya, Ashvarok pernah melihat kisi besinya dibuka untuk mengeringkan kelembapan.
 
-"Empat ratus keluarga bisa dipindahkan. Sebuah seam yang menyimpan rekaman segala sesuatu tidak bisa." Jeda singkat, jenis jeda yang dipakai orang untuk membiarkan fakta bekerja sendiri. "Saya tidak minta kau melakukan apa pun yang kasar, Overseer. Itu pekerjaan nanti, pekerjaan resmi, dengan izin dan kompensasi dan semua kata bagus lainnya. Yang saya minta sekarang hanya tiga hal kecil. Pertama. Hasil survei Guild yang masuk ke kantormu dilaporkan kepadaku sebelum naik ke biro. Kedua. Penjaga barumu, Kovan — dia akan menerima instruksi tambahan langsung dariku mulai minggu depan. Ketiga..."
+Menunggu tidak akan memberinya apa pun kecuali penampilan patuh. Bergerak bisa memberinya suara lawan—atau jerat.
 
-Jeda kedua. Lebih panjang. Jenis jeda yang membuat orang di ruangan duduk lebih tegak.
+Petugas meja menunduk mencari stempel. Ashvarok berdiri sambil menekan perut.
 
-"Ketiga, tentang bocah lorong tujuh yang kau tulis sebagai 'aset manusia potensial' di laporan bulananmu. Renn. Satu-satunya the Survivor." Kertas bergerak lagi — daftar pendataan dibuka, mungkin, pada halaman tertentu. "Umur lima belas. Vein besar kosong, tak terlatih, tetapi sehat. Utang sembilan puluh enam shardmark. Tanggungan. Satu adik angkat, calon pekerja tahun depan. Dan catatan investigasimu sendiri. Jawaban terlalu berstruktur, faktor tak dikenal 'sudah belajar bicara'." Suara itu turun sepersekian nada, dan justru itu yang membuatnya dingin. "Kau menulis laporan yang sangat baik, Overseer. Terlalu baik. Laporan seperti ini biasanya ditulis oleh orang yang sudah menjawab pertanyaannya sendiri tetapi belum yakin mau percaya pada jawabannya. Jadi aku akan bertanya langsung: apa yang kamu lihat di anak itu?"
+"Jamban belakang?"
 
-Sunyi panjang. Ashvarok, berlutut di lorong yang dingin, mendengarkan jantungnya sendiri dengan kesabaran orang menghitung langkah musuh di atas kepala.
+Petugas itu mengibaskan tangan ke lorong tanpa menatapnya.
 
-"Aku lihat..." Suara Tharrow mencari pijakan dan menemukan yang paling aman: angka. "...bocah yang selamat dari runtuhan yang seharusnya membunuhnya. Bocah yang produksinya naik, hitungannya tajam, dan tidak pernah sekali pun membuat masalah. Kalau Tuan Vael bertanya apa yang aku lihat — aku lihat aset yang berhasil dikendalikan."
+Ashvarok berjalan dengan bahu sedikit membungkuk, peran bocah yang takut mengotori lantai kantor lebih mudah daripada peran raja yang pernah menyusup ke ruang dewan sendiri. Di tikungan, ia melewati pintu jamban. Kisi ventilasi berada tiga langkah sesudahnya, setinggi lutut, tertutup bayangan rak kosong. Salah satu sekrupnya sudah hilang. Kisi itu dapat ditarik selebar dua jari tanpa bunyi jika bebannya ditahan dari bawah.
 
-"Bagus. Simpan kalimat itu." Kertas ditutup. "Karena kalau suatu hari data survei menunjukkan bahwa faktor tak dikenal di tambangmu dan aset yang berhasil dikendalikan itu ternyata orang yang sama, maka keputusan tentang dia tidak akan lagi menjadi milikmu — atau milikku. Anomali kelas Testament punya aturan penanganan tersendiri di arsip pusat, dan aturan itu ditulis zaman nenek moyang kita masih percaya api bisa diadili."
+Terlalu mudah.
 
-"Bisa saya tahu isinya?"
+Ia tidak menyentuhnya. Ia berlutut di depan tali sepatu, mendekatkan sisi kepala ke batu, dan mendengar melalui celah yang sudah ada. Suara di ruang dalam menjadi utuh.
 
-"Bisa. Namun kau tidak akan tidur semalam, dan aku butuh overseer yang tidur." Kursi bergeser; pertemuan secara resmi berakhir. "Berkas prioritas itu dibaca, ya. Dan Tharrow — mulai besok, jangan tulis apa pun soal bocah itu. Apa pun. Kalau dia penting, aku yang akan menemukannya. Kalau dia tidak, catatanmu hanya akan membuat namanya ikut terbakar saat distrik ini dinilai ulang."
+"—enam ratus dua puluh satu nama," kata Ossian Vael. Tenang, tanpa perlu mengeraskan nada. "Sebelas perlu penjelasan. Daftar ini berguna, Overseer, tetapi bukan alasan utama aku datang."
 
-Sebelum pintu benar-benar terbuka, suara Ossian menambahkan satu kalimat lagi dengan nada administratif yang hampir lembut:
+"Daftar itu disusun sesuai format pusat." Tharrow terdengar lebih kaku daripada saat mengancam pekerja. "Kalau ada kesalahan, saya bisa panggil petugas pendataan."
 
-"Dan penjaga Kovanmu minggu ini gagal membaca vein seorang bocah dua kali berturut-turut karena 'alat rusak'. Survei Guild mencatatnya sebagai degradasi permukaan. Aku mencatatnya sebagai pola. Bilang ke dia. Alat tidak rusak dua kali di tangan orang yang sama kecuali ada yang tidak mau dibaca. Biarkan dia memikirkannya sendiri. Orang yang memikirkan sendiri lebih bisa dipercaya daripada orang yang diberi tahu."
+"Tidak perlu. Kesalahan manusia membuat daftar dapat dipercaya. Daftar yang sempurna hanya membuktikan seseorang takut pada pemeriksa."
 
-Pintu ruang dalam terbuka. Ashvarok bangkit dari lututnya sebelum cahaya ruangan sampai ke lorong, melangkah ke ujung lorong dengan berkas di bahu dan wajah bocah kurus yang membawa surat — dan rombongan dua orang itu keluar tanpa menoleh kepadanya sama sekali, karena pelayan dan kurir dan anak-anak tambang adalah furnitur yang tidak perlu dilihat orang penting.
+Kertas bergeser di atas meja. Ashvarok menahan napas ketika langkah terdengar dari ujung lorong. Juru tulis lewat sambil membawa dua bundel, melihat bocah yang sedang mengikat sepatu, lalu meneruskan langkah. Ashvarok menarik simpul, membukanya lagi, dan mengikat ulang lebih lambat.
 
-Tetapi ketika Ossian Vael melewatinya — jarak dua hasta, cukup untuk satu tarikan napas — langkah pria itu tidak mengubah iramanya sedikit pun, dan mata yang tidak menoleh tetap tidak menoleh, dan justru kesempurnaan itulah yang membuat punggung Ashvarok terasa dingin sampai ia keluar dari Quota Office.
+Di balik batu, Tharrow berkata, "Lalu alasan utama Tuan Vael?"
 
-Orang yang benar-benar tidak curiga akan menatap kurir sekali. Orang yang sedang mencari akan menatap dua kali.
+"Survei Guild selesai dalam lima hari, bila Assayer-nya tidak menemukan alasan baru untuk menunda. Begitu laporan masuk, klasifikasi anomali akan berpindah ke yurisdiksi Choir. Resmi, bersih, dan tercatat."
 
-Yang ini tidak menatap sama sekali.
+"Lisensi the Quiet Vein?"
 
-Dia menyerahkan berkas itu kepada petugas depan, pamit sopan, dan berjalan pulang dengan kecepatan yang persis sama dengan biasanya. Kecepatan itu adalah satu-satunya hal yang tidak boleh berubah; segala sesuatu yang lain di dalam dirinya sedang berdiri sangat diam, seperti kota yang mendengar langkah pasukan.
+"Tetap berlaku. Aku tidak datang untuk mengambil tambangmu."
+
+Jawaban yang memilih kata tambang, bukan kendali.
+
+Tharrow menangkap celah yang sama. "Apa yang berubah?"
+
+"Akses. Jika potensinya terkonfirmasi, tingkat dasar hanya boleh dimasuki personel bersertifikat Choir. Jalur angkut akan diawasi. Distrik timur dinilai ulang untuk pemindahan yang lebih efisien."
+
+Untuk sesaat, yang terdengar hanya gores ujung kuku atau pena pada kayu.
+
+"Empat ratus keluarga tinggal di sana," kata Tharrow.
+
+"Karena empat puluh tahun lalu seseorang membangun barak di atas jalur tambang. Itu keputusan buruk, bukan hak abadi."
+
+"Mereka pekerja saya. Memindahkan mereka akan menghentikan produksi."
+
+"Sementara. Kompensasi bisa dihitung. Produksi bisa dipulihkan. Yang ada di bawah Caldrest tidak bisa diganti."
+
+Nada Ossian tetap datar. Justru itu yang membuat kalimatnya berbahaya. Orang marah dapat dipancing. Orang yang mengubah rumah menjadi angka akan menunggu sampai tinta izin kering.
+
+Ashvarok menempelkan dua jari pada lantai. Tidak ada getaran langkah dari ruang dalam. Keduanya masih duduk.
+
+Tharrow bertanya, "Apa sebenarnya yang ada di bawah tambang saya?"
+
+Jeda muncul, pendek tetapi disengaja.
+
+"Potensi seam kelas Testament."
+
+Kata itu masuk melalui celah ventilasi dan menghapus lorong di sekitar Ashvarok.
+
+Testament.
+
+Istilah itu tidak berasal dari era Hegemony. Namun akar maknanya dikenali pikirannya: kesaksian, catatan yang bertahan setelah pembuatnya mati. Ia mengingat aula pengikat yang dibangun untuk mencatat tekanan, sumpah, kegagalan segel; batu-batu yang menyimpan daya sekaligus bekas kejadian. Jika penerus zaman ini memberi nama Testament pada sesuatu di bawah Caldrest, mereka mungkin telah membaca fungsi yang bahkan belum berani ia pastikan.
+
+"Seam itu menyimpan rekaman?" tanya Tharrow.
+
+"Mungkin."
+
+"Rekaman apa?"
+
+"Itulah gunanya survei."
+
+"Tuan Vael datang sembilan hari dari Anthema Spire untuk sebuah mungkin?"
+
+Ossian tertawa sekali, tanpa kehangatan. "Aku datang karena kata mungkin pada benda semacam ini lebih mahal daripada kepastian pada seratus tambang biasa. Bila batu itu saksi, aku ingin menjadi orang pertama yang mendengar kesaksiannya. Bila bukan, aku kehilangan perjalanan dan beberapa lembar izin."
+
+Ashvarok memaksa tangannya tetap longgar di atas tali sepatu. Saksi dari zaman the Name-Burning dapat menyimpan suara panglimanya. Perintahnya. Bentuk asli pengikat the Threshold. Bahkan kegagalan yang dikubur para pemenang bersama namanya.
+
+Di ujung lorong, kursi berderit. Petugas arsip keluar membawa baki cangkir. Ia akan melewati Ashvarok dalam beberapa detik.
+
+Ashvarok berdiri, masuk ke jamban, dan menutup pintu tanpa menguncinya. Dari sana suara audiensi menghilang. Ia menuang sedikit air dari tempayan ke tangannya, membasahi wajah, lalu menunggu baki lewat. Saat kembali ke lorong, ia menjatuhkan koin tembaga di dekat rak. Koin itu memantul sekali dan bergulir ke bawah kisi.
+
+Bunyi kecil memberi alasan baru untuk berlutut.
+
+Ia menarik kisi selebar kuku saat meraih koin. Suara di dalam datang lebih jelas.
+
+"Aku butuh tiga hal," kata Ossian. "Hasil sementara Guild sampai kepadaku sebelum masuk biro. Tidak ada salinan tambahan."
+
+"Saya tidak mengendalikan Assayer Tull."
+
+"Kau mengendalikan pintu yang dia lewati, pekerja yang dia tanya, dan meja tempat sampelnya singgah. Jangan merendahkan jabatanmu hanya karena orang lain memakai stempel lebih indah."
+
+Tharrow tidak segera menjawab.
+
+"Kedua," lanjut Ossian, "Kovan menerima instruksi dariku mulai pekan depan. Kau tetap mengatur shift. Pengujiannya bukan lagi urusanmu."
+
+"Dia ditempatkan pusat untuk membantu disiplin saya."
+
+"Sekarang dia membantuku membaca pola. Dua kegagalan pada bocah yang sama, lalu laporan Guild menyebut degradasi permukaan pada alat itu. Satu kegagalan adalah alat. Dua adalah kebiasaan. Tiga akan menjadi pilihan."
+
+Dingin batu menembus lutut Ashvarok. Abu di lempeng sudah dibaca Maera, lalu disimpan. Ossian belum punya bukti, tetapi ia telah menyandingkan dua kekosongan dan melihat bentuk di antaranya.
+
+"Bocah lorong tujuh," kata Tharrow. "Renn."
+
+Namanya sendiri—nama pinjaman tubuh ini—terdengar asing dari mulut orang di balik dinding.
+
+"Laporan bulananmu menyebutnya aset manusia potensial. Vein besar, hasil kerja naik, jawaban rapi. Kau juga menulis faktor tak dikenal di the Underfold sudah belajar bicara." Suara lembar dibalik. "Kau sangat rajin ketika gugup, Overseer."
+
+"Saya mencatat apa yang perlu dicatat."
+
+"Kau mencatat kesimpulan sebelum punya bukti. Itu kebiasaan yang bisa membakar sumber informasi. Mulai hari ini, jangan tulis apa pun lagi tentang Renn."
+
+"Kalau dia faktor itu?"
+
+"Aku yang akan menentukannya."
+
+"Dan kalau dia membahayakan tambang?"
+
+"Kau lapor tanpa nama. Tanpa penahanan. Tanpa uji mendadak. Orang yang mampu menutup sinyal kelas Testament sebelum Guild tiba bukan pencuri seam-bone. Menakutinya hanya akan membuatnya pergi—atau menyerang. Aku tidak menginginkan keduanya."
+
+Ashvarok mendengar napas Tharrow tertahan sesaat. Overseer itu terbiasa memegang nasib pekerja melalui kontrak; larangan menyentuh satu bocah pasti terasa seperti tangan lain mengambil pisau dari mejanya.
+
+"Tuan Vael menganggap dia mampu melakukan itu?"
+
+"Aku menganggap ketidaktahuan sebagai alasan untuk berhati-hati. Kau sebaiknya mencoba."
+
+Langkah datang lagi, kali ini dari arah ruang depan. Ashvarok mendorong kisi ke posisi semula dan menutup jarinya pada koin. Tali sepatunya sudah tak dapat dijadikan alasan ketiga.
+
+Di dalam, kursi bergeser.
+
+"Berkas prioritas saya belum tiba?" tanya Ossian.
+
+Ashvarok bangkit tepat ketika petugas meja muncul di tikungan.
+
+"Hei. Kamu belum selesai?"
+
+Ia menunjukkan koin di telapak. "Jatuh ke bawah kisi."
+
+Petugas itu memandang celana kerjanya yang berdebu, wajahnya yang masih basah, lalu mendecakkan lidah. "Mapmu sudah dibawa masuk. Kembali ke depan."
+
+Mereka berjalan bersama. Ashvarok mengatur napas pada irama bocah yang baru berlari kecil, bukan seseorang yang baru mendengar rencana pengosongan distrik. Di ruang depan, pintu audiensi terbuka.
+
+Kel Tharrow keluar lebih dulu. Wajahnya telah dikembalikan ke bentuk resmi, tetapi ibu jari bercincin besinya menggosok sisi telunjuk—gerak kecil orang yang ingin mencoret angka dan tidak diizinkan. Di belakangnya berjalan Ossian Vael, jubah abu bersih dari debu kantor.
+
+Ashvarok menunduk seperti kurir semestinya.
+
+Keduanya melewatinya.
+
+Tharrow melirik sekali, cepat, lalu memalingkan muka. Ossian tidak menoleh. Langkahnya tidak lambat, napasnya tidak berubah, dan ujung jubahnya lewat sejengkal dari sepatu Ashvarok tanpa menyentuh.
+
+Ketidakpedulian sempurna itu lebih buruk daripada pemeriksaan.
+
+Orang yang tidak mencari akan melihat benda yang menghalangi jalannya. Orang yang sedang berburu dapat sengaja membiarkan mangsa percaya dirinya belum terlihat.
+
+Ashvarok meminta tanda terima, mengucapkan salam, lalu pulang melalui jalan yang sama. Ia tidak memeriksa apakah diikuti. Sebagai gantinya, ia memakai kaca kios yang sudah tutup, genangan air cucian, dan bayangan di dinding tikungan. Tidak ada langkah yang menetap di belakangnya. Itu tidak membuktikan apa pun.
 
 ---
 
-Di bawah cahaya lampu pertama di gang barak, ia berhenti sebentar dan mengizinkan dirinya berpikir dengan bahasa sebenarnya.
+Malam merapat di barak ketika Sela menaruh dua mangkuk sup di meja. Papan tulis mereka bersandar dekat tungku, sisi depan penuh angka makanan, upah, dan garis Hourglass. Ashvarok memandangi papan itu lebih lama daripada mangkuknya.
 
-Musuhnya punya nama rencana. Testament. Seam yang menyimpan rekaman — dan jika klaim klasifikasi itu benar, maka di bawah Caldrest ada saksi yang bisa bercerita tentang dunia seribu tahun silam. Tentang Hegemony. Tentang malam ketika lima panglima mati dan seorang raja membakar namanya sendiri. Segala sesuatu yang telah dihapus dari sejarah, masih tersimpan utuh di sana, menunggu dibaca.
+"Orang besar itu memanggil Kakak?" tanya Sela.
 
-Dan orang-orang berjubah abu ingin memindahkan empat ratus keluarga supaya bisa berbicara dengan saksi itu tanpa didengar siapa pun.
+"Tidak. Aku mengantar surat."
 
-Ada ironi yang membuatnya hampir ingin tertawa di gang yang gelap. Selama ini ia mengira dirinya penjaga pintu — orang yang menjaga agar apa yang ada di balik the Threshold tidak keluar. Ternyata pintunya juga arsip. Dan kini dua jenis pencuri mengincarnya sekaligus. Satu yang lapar dari bawah, yang makan nama sedikit demi sedikit. Satu yang sopan dari atas, yang membawa surat, izin, dan kata-kata bagus tentang pemindahan yang efisien.
+"Lalu kenapa Kakak pulang lewat tiga jalan?"
 
-Sela pernah bertanya kenapa dia mau tinggal di Caldrest. Jawabannya waktu itu — karena retakan, ash man, dan tangan penyedot semua lewat sini. Jawabannya sekarang lebih sederhana lagi — karena tidak ada siapa pun lain yang tahu betapa mahal isi ruang bawah tanah itu, dan barang yang mahal tanpa penjaga hanya butuh beberapa pekan untuk menjadi milik orang pertama yang tahu.
+Sendok Ashvarok berhenti sebelum menyentuh sup. "Kamu melihat?"
 
-"Rekaman," gumam Ashvarok pada gelap gang, sambil melanjutkan langkah. "Seribu tahun aku pikir tugasku menjaga dunia dari apa yang ada di balik pintu. Ternyata pintunya juga mencatat siapa yang pernah datang."
+"Aku menunggu di kios air. Kakak lewat di kaca, terus balik lewat gang kain." Sela meniup supnya. "Kalau tidak dikejar, Kakak sedang memastikan tidak dikejar."
 
-Ia memasuki barak ketika Sela sudah merebus air — bau air panas dan kayu api menggantung rendah di ruangan kecil itu, hangat seperti lengan yang memeluk. Di papan tulis mereka, kolom Hourglass mendapat entri malam itu yang bukan ukuran benang:
+Sebelas tahun, dan sudah membaca pengintaian dari pantulan toko. Kebanggaan bukan emosi aman untuk seorang penjaga, tetapi ia membiarkannya hidup satu tarikan napas.
 
-"Hari ini kamu dipanggil orang besar?" — tulisan tangan Sela, kecil, di pojok.
+"Mulai besok, kalau orang asing bertanya, kamu Sela, umur sebelas, tidak punya tabungan, dan tidak tahu apa-apa tentang pekerjaanku selain shift dan upah. Jawab cepat. Jangan mencoba terdengar bodoh."
 
-Tatapan Ashvarok menempel padanya agak terlalu lama. Adiknya menghitung gerobak Quota Office yang datang, petugas yang saling menegur, dan jam-jam ketika kakaknya tidak di rumah. Tentu dia menghitung. Anak itu menghitung segalanya — sebab bagi anak yang pernah kehilangan, angka adalah cara mencintai tanpa harus menangis.
+"Kita akan kabur?"
 
-Ia mengambil kapur, dan menjawab pertanyaan dengan kebenaran yang bisa dibagi:
+"Belum."
 
-"Iya. Dan mulai sekarang, kalau ada orang asing bertanya namamu — kamu namamu Sela, umur sebelas, tidak punya kakak ipar, tidak punya tabungan. Jawab cepat, jangan tambah-tambah."
+"Itu bukan tidak."
 
-Di seberang meja, Sela berhenti mengaduk air.
+"Memang bukan." Ashvarok menarik papan mendekat. "Orang berjubah abu sedang membaca nama-nama di kota. Dia juga menyiapkan pemindahan distrik timur. Empat ratus keluarga."
 
-"Itu bukan jawaban soal orang besar," katanya pelan. "Itu jawaban soal kabur-buruan."
+Sela memegang mangkuk dengan kedua tangan. "Karena tambang?"
 
-Ashvarok duduk di kursinya. Sup malam ini panas, dan panas adalah barang yang harus dinikmati ketika ada — pelajaran lama yang tidak pernah usang.
+"Karena sesuatu di bawah tambang. Mereka menyebutnya Testament. Mereka pikir batu itu bisa menyimpan kesaksian."
 
-"Kamu benar," kata dia akhirnya, karena anak itu sudah terlalu sering menerima setengah kebenaran dan terlalu jarang menerima pengakuan. "Ada orang besar datang ke Caldrest. Orang-orangnya mulai membaca semua nama di kota ini. Dan kakakmu ada di salah satu halaman daftarnya." Ia menyeruput supnya. "Jadi ya. Jawabanku memang soal kabur-buruan. Namun bukan kita yang kabur. Kita hanya berlatih supaya kalau suatu hari harus — kita tidak perlu latihan lagi."
+Ia tidak menjelaskan kesaksian siapa. Tidak menyebut kemungkinan suara seribu tahun, aula pengikat, atau malam lima panglima mati. Kebenaran yang terlalu besar tidak melindungi anak; ia hanya memberinya lebih banyak hal untuk disembunyikan.
 
-Sela menatapnya lama dengan mata yang menghitung, lalu menuang sup untuk dirinya sendiri dan duduk berhadapan dengannya.
+"Nama itu ada di daftar kita?" Sela menunjuk papan.
 
-"Kalau begitu aku menambah aturan," katanya. "Aturan nomor empat. Kalau kita kabur-buruan, aku yang bawa papan tulisnya."
+"Tidak ada."
 
-"Kenapa papannya?"
+"Kalau orang-orang datang memindahkan barak, papan ini ikut?"
 
-"Karena semua angka kita ada di situ." Sela meniup supnya sekali, serius seperti orang menjelaskan strategi perang. "Orang bisa ganti nama. Angka tidak."
+"Kita bawa makanan dan mantel lebih dulu."
+
+"Papan juga." Nada Sela tidak naik, tetapi dagunya mengeras. "Semua hitungan ada di sini. Kalau ditinggal, mereka bisa bilang utang kita berapa saja. Mereka bisa bilang garis tangan Kakak belum sampai mana-mana."
+
+Ashvarok mengambil kapur. Di bawah tiga aturan keluarga yang sudah ada, ia menulis angka 4.
+
+"Kalau kita harus pergi mendadak," katanya, "kamu membawa papan. Aku membawa kita keluar."
+
+Sela membaca kalimat itu, lalu menghapus kata *harus* dan menggantinya dengan *kabur-buruan*. Istilah anak-anak untuk permainan mengejar di sela barak; ringan, mudah diingat, cukup aman bila dilihat orang lain.
+
+"Begini," katanya. "Biar orang asing tidak tahu."
+
+Ashvarok menyerahkan kapur kepadanya. "Begini."
+
+Setelah Sela tidur, ia duduk di depan papan hingga api tungku turun menjadi merah. Kata Testament tidak ia tulis. Ia menempatkannya dalam ingatan bersama suara Ossian, jumlah keluarga, lima hari sebelum survei selesai, dan larangan kepada Tharrow untuk mencatat Renn.
+
+Musuh telah memberinya nama rencana sekaligus tenggat.
+
+Besok malam ia akan kembali ke geometri yang selama dua pekan dibacanya dari getaran sekop, arah sayatan panen, dan keluhan penyangga timur. Jika batu di bawah Caldrest memang saksi, maka saksi itu berada dekat the Threshold. Jika Choir hendak mendengarnya, ia harus lebih dulu menemukan ruang tempat kesaksian itu disimpan.
+
+Di papan, aturan keempat mengering di bawah debu kapur:
+
+**Kalau kabur-buruan, Sela bawa papan.**

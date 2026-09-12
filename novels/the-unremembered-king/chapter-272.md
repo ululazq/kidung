@@ -5,7 +5,7 @@ chapter: 272
 
 Balasan untuk surat kurir yang tepat ditulis Sela dalam tiga draf. Draf pertama terlalu hormat. Draf kedua terlalu santai. Draf ketiga, final, dimulai seperti ini:
 
-*Kepada jabatan Pembaca Tua — individu yang datang ke Caldrest dengan jalan kaki dan pulang dengan jalan kaki.*
+*Kepada jabatan the Old Reader — individu yang datang ke Caldrest dengan jalan kaki dan pulang dengan jalan kaki.*
 
 *Aku bukan kurir yang kau tunggu. Aku yang menemukan kotak pajakmu. Namun keluargaku mengajarkan satu hal tentang surat: yang penting bukan siapa yang membawa, tetapi apakah isinya sampai.*
 
@@ -31,11 +31,11 @@ Nama itu tidak akan dicatat di bab ini, sesuai permintaannya: "Namaku milik jaba
 
 Pekerjaannya dimulai sore itu, di ruang arsip biara barat — ruangan yang oleh Sela digambarkan dalam laporannya sebagai "rak-rak yang disusun oleh orang yang mencintai keteraturan lebih dari hidupnya sendiri".
 
-"Arsipku," kata Pembaca Tua, meletakkan gulungan pertama di meja, "mencatat malam Pembakaran Nama dari sisi istana: siapa masuk, siapa keluar, apa yang diperintahkan, apa yang dilaporkan. Arsipmu mencatatnya dari sisi batu: apa yang terdengar. Ada perbedaan di tujuh tempat." Ia melihat gadis tiga belas tahun itu. "Aku sudah tua untuk membaca tujuh perbedaan itu berhadapan dengan seseorang. Mulailah dari nomor lima. Nomor lima yang membuatku memilih diam empat puluh tahun."
+"Arsipku," kata the Old Reader, meletakkan gulungan pertama di meja, "mencatat malam the Name-Burning dari sisi istana: siapa masuk, siapa keluar, apa yang diperintahkan, apa yang dilaporkan. Arsipmu mencatatnya dari sisi batu: apa yang terdengar. Ada perbedaan di tujuh tempat." Ia melihat gadis tiga belas tahun itu. "Aku sudah tua untuk membaca tujuh perbedaan itu berhadapan dengan seseorang. Mulailah dari nomor lima. Nomor lima yang membuatku memilih diam empat puluh tahun."
 
 Perbedaan nomor lima ternyata soal satu jam.
 
-Arsip istana mencatat bahwa pada jam kesembilan malam Pembakaran Nama, gerbang istana ditutup "atas perintah tertulis raja". Arsip batu mencatat bahwa pada jam kesembilan, lagu sedang berada di bagian sahabat — bagian yang dicuri pemenang dan diselundupkan keluar — sehingga tidak ada catatan bunyi gerbang sama sekali.
+Arsip istana mencatat bahwa pada jam kesembilan malam the Name-Burning, gerbang istana ditutup "atas perintah tertulis raja". Arsip batu mencatat bahwa pada jam kesembilan, lagu sedang berada di bagian sahabat — bagian yang dicuri pemenang dan diselundupkan keluar — sehingga tidak ada catatan bunyi gerbang sama sekali.
 
 Artinya: perintah tertulis itu bisa jadi palsu. Gerbang bisa saja ditutup oleh orang lain. Dan kalau gerbang istana terbuka satu jam lebih lama... lima panglima bisa saja punya jalan keluar yang tidak dipakainya.
 
@@ -51,7 +51,7 @@ Lalu ia berkata hal yang membuat laki-laki tua itu — penjaga rekaman kematian 
 
 Ruang arsip itu sunyi lama.
 
-"Empat puluh tahun," kata Pembaca Tua akhirnya, suaranya pelan seperti orang baru sadar beratnya beban yang sudah dilepaskan. "Empat puluh tahun jabatan ini menyimpan perbedaan nomor lima tanpa bisa membacanya. Kita pikir ini misteri gerbang. Ternyata ini..." Ia berhenti. "...ini cerita tentang lima orang yang diberi pintu keluar dan memilih sahabatnya."
+"Empat puluh tahun," kata the Old Reader akhirnya, suaranya pelan seperti orang baru sadar beratnya beban yang sudah dilepaskan. "Empat puluh tahun jabatan ini menyimpan perbedaan nomor lima tanpa bisa membacanya. Kita pikir ini misteri gerbang. Ternyata ini..." Ia berhenti. "...ini cerita tentang lima orang yang diberi pintu keluar dan memilih sahabatnya."
 
 Ia bangkit, mengambil gulungan-gulungan lain, dan meletakkannya seluruhnya di depan Sela.
 
@@ -60,7 +60,7 @@ Ia bangkit, mengambil gulungan-gulungan lain, dan meletakkannya seluruhnya di de
 
 Penyalinan berlangsung tiga hari.
 
-Sela menyalin dengan tangan sendiri — aturan arsip yang tidak tertulis: salinan penting tidak boleh dikerjakan orang kedua. Pembaca Tua membukakan gulungan demi gulungan, dan di antara gulungan, untuk pertama kalinya, dua arsiparis itu bicara bukan sebagai jabatan.
+Sela menyalin dengan tangan sendiri — aturan arsip yang tidak tertulis: salinan penting tidak boleh dikerjakan orang kedua. the Old Reader membukakan gulungan demi gulungan, dan di antara gulungan, untuk pertama kalinya, dua arsiparis itu bicara bukan sebagai jabatan.
 
 "Kenapa biara?" tanya Sela di hari kedua. "Kau bisa bekerja di Spire. Arsip terbesar Karvess."
 
@@ -68,7 +68,7 @@ Sela menyalin dengan tangan sendiri — aturan arsip yang tidak tertulis: salina
 
 "Apa rasanya?"
 
-"Pelajaranmu nomor berapa soal mendengarkan panci?" tanya balik Pembaca Tua, dan Sela tersenyum mengenali gaya menjawab keluarganya dipakai orang luar.
+"Pelajaranmu nomor berapa soal mendengarkan panci?" tanya balik the Old Reader, dan Sela tersenyum mengenali gaya menjawab keluarganya dipakai orang luar.
 
 "Sudah masuk pelajaran mendengar nat."
 
@@ -89,15 +89,15 @@ Balasan datang paginya, ditulis tangan ibu Tamma:
 *Kirim alamat biaranya. Kiriman bulanan dari dapur aula mulai bulan depan. Jabatan mana pun yang merawat kebenaran sampai empat puluh tahun layak disuapi.*
 ---
 
-Hari keempat, sebelum berangkat, Pembaca Tua menemani Sela sampai gerbang biara — hal yang oleh protokol jabatannya tidak pernah dilakukan kepada tamu mana pun, termasuk kedua tamu buruk itu.
+Hari keempat, sebelum berangkat, the Old Reader menemani Sela sampai gerbang biara — hal yang oleh protokol jabatannya tidak pernah dilakukan kepada tamu mana pun, termasuk kedua tamu buruk itu.
 
-Di ambang gerbang, ia menyerahkan benda terakhir: segel lilin putih-abu dengan jahitan tin, lambang jabatan Pembaca Tua — stempel resmi yang selama seribu tahun dipakai menyegel rekaman kematian api.
+Di ambang gerbang, ia menyerahkan benda terakhir: segel lilin putih-abu dengan jahitan tin, lambang jabatan the Old Reader — stempel resmi yang selama seribu tahun dipakai menyegel rekaman kematian api.
 
 "Jabatan ini akan selesai bulan depan. Penerusnya sudah ditunjuk dan sudah belajar semua yang bisa diajarkan." Ia meletakkan stempel itu di tangan Sela. "Yang satu-satunya yang belum diajarkan adalah bagian ini: kapan harus berhenti diam. Itu tidak bisa diajarkan. Itu harus diserahkan oleh orang yang sudah pernah melakukannya."
 
 "Aku tidak bisa menerima stempel jabatan Choir," kata Sela. "Aku arsiparis Karvess."
 
-"Kau salah baca benda ini." Laki-laki tua itu melihat telapak tangan gadis muda yang memegang seribu tahun sejarah. "Ini bukan stempel untuk menyegel. Ini tanda pengakuan dari satu arsiparis kepada arsiparis lain: pekerjaanmu sah. Kalau suatu hari ada yang meragukan Rak Semua Versi-mu, tunjukkan ini dan katakan bahwa jabatan tertua dunia sudah memverifikasimu."
+"Kau salah baca benda ini." Laki-laki tua itu melihat telapak tangan gadis muda yang memegang seribu tahun sejarah. "Ini bukan stempel untuk menyegel. Ini tanda pengakuan dari satu arsiparis kepada arsiparis lain: pekerjaanmu sah. Kalau suatu hari ada yang meragukan the Shelf of All Versions-mu, tunjukkan ini dan katakan bahwa jabatan tertua dunia sudah memverifikasimu."
 
 Ia mengangguk, berbalik, dan berjalan kembali ke halaman berumputnya.
 
@@ -110,13 +110,13 @@ Karena ada satu makhluk di dataran tinggi itu yang mendengar lima langkah turun 
 
 Ada satu malam lagi di biara barat yang tidak masuk laporan Sela ke Dewan — karena bukan urusan Dewan, tetapi urusan keluarga, dan keluarga punya jalur arsipnya sendiri.
 
-Malam itu, setelah hari ketiga penyalinan selesai, Pembaca Tua mengundangnya ke menara arsip bagian atas — ruangan kecil dengan satu jendela menghadap barat, di mana seluruh dataran Karvess terbentang sampai garis laut.
+Malam itu, setelah hari ketiga penyalinan selesai, the Old Reader mengundangnya ke menara arsip bagian atas — ruangan kecil dengan satu jendela menghadap barat, di mana seluruh dataran Karvess terbentang sampai garis laut.
 
 "Aku mau tunjukkan sesuatu yang tidak ada di katalog," katanya. "Karena kau satu-satunya tamu ketiga dalam seribu tahun, dan tamu pertama dan kedua tidak pantas menerimanya."
 
 Di sudut ruangan ada kotak kayu kecil tanpa segel. Di dalamnya: dua belas gulungan mungil, masing-masing selebar jari.
 
-"Laporan tahunan jabatan ini kepada dirinya sendiri," kata Pembaca Tua. "Setiap pemegang jabatan menulis satu — bukan untuk arsip resmi, tetapi untuk penerusnya, dibaca hanya saat serah terima. Empat generasi terakhir isinya sama: 'belum ditemukan, teruskan.'"
+"Laporan tahunan jabatan ini kepada dirinya sendiri," kata the Old Reader. "Setiap pemegang jabatan menulis satu — bukan untuk arsip resmi, tetapi untuk penerusnya, dibaca hanya saat serah terima. Empat generasi terakhir isinya sama: 'belum ditemukan, teruskan.'"
 
 Ia mengeluarkan gulungan terakhir — tulisannya sendiri, ditulis empat puluh tahun silam saat ia baru memegang jabatan:
 

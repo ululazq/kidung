@@ -3,108 +3,292 @@ title: "Bab 14: Yang Tidak Dipanggil"
 chapter: 14
 ---
 
-Lorong B bukan namanya resmi. Namanya resmi lorong itu adalah "galeri bantu timur dua", tetapi tak ada satu pun orang tambang Caldrest yang mengingatnya, karena lorong ini pendek, mati ujung, dan hanya dipakai untuk menitipkan gerobak rusak. Nama yang dipakai semua orang lebih jujur: lorong B, untuk buntu.
+Lorong B menelan bunyi roda terlebih dahulu.
 
-Pada hari ketujuh belas, lorong B berhenti menjadi tempat yang membosankan.
+Gerobak bijih melintas di persimpangan tingkat tiga, rodanya menghantam sambungan rel satu demi satu. Tak. Tak. Tak. Ketika gerobak melewati mulut galeri bantu timur dua, satu ketukan hilang. Roda tetap berputar; Ashvarok melihat besi itu membentur sambungan. Namun lorong tidak mengembalikan suaranya.
 
-Ashvarok tahu lebih dulu, dengan cara yang mulai ia anggap biasa dan sesekali masih membuat tulangnya dingin. Pagi itu, ketika regunya melewati mulut lorong B untuk menuju seam utama, denyut dari kedalaman berubah. Retakan itu — empat puluh hasta di bawah, sabar seperti bunga yang tak butuh matahari — berdenyut dua kali lebih cepat selama tiga detik, lalu kembali normal. Seperti jantung yang terkejut. Atau seperti mulut yang baru saja mengunyah.
+Ia berhenti.
 
-Ia berhenti setengah langkah. Regu lewat di depannya tanpa menyadari apa pun, dan di ujung barisan, Ondar juga berhenti setengah langkah — lama, terlalu lama untuk kebiasaan — sebelum berlari mengejar yang lain.
+Penambang di belakangnya menyenggol keranjang pada pinggangnya. "Jalan, Renn."
 
-Di persimpangan tingkat tiga, penilaian Guild sudah mengubah sudut kerja menjadi laboratorium kecil: kotak kayu terbuka, inti bor berbaring di kain putih kusam, dan Maera Tull berdiri dengan mata yang menghitung sesuatu di dalam batu. Bau lilin dan logam hangat mengambang di udara lembap itu — bau asing di tambang, bau orang yang datang untuk mendengar. Ashvarok melewatinya sesuai kesepakatan — tak menoleh, tak melambat — tetapi tangan assayer itu berhenti di udara sepersekian detik ketika ia lewat, dan itu cukup sebagai sapaan pagi antara dua orang yang saling berguna.
+Ashvarok maju setengah langkah agar barisan tidak tertahan. Lampu-lampu regu bergoyang menuju seam utama, membawa bau minyak hangus dan keringat malam. Di ujung barisan, Ondar menoleh ke lorong B. Tangannya mencengkeram gagang sekop sampai buku-buku jarinya memucat.
 
-Titik ukur irama sudah ia tunjukkan kemarin, di celah sempit tempat gema kedalaman paling jelas naik ke permukaan. Hari ini, dari arah kotak kayunya, terdengar bunyi kecil yang baru: alat perekam gema Guild, jarum menggores lilin silinder. Maera sedang merekam.
+"Kamu dengar?" tanya Ashvarok.
 
-*Semoga irama tiga detik itu layak ditukar,* pikir Ashvarok, tanpa tahu bahwa sebelum shift ini usai, harga yang lebih besar daripada satu pertukaran sudah menunggu empat puluh hasta di bawah kaki mereka semua.
+Ondar memandangnya, lalu mulut lorong. "Dengar apa?"
 
-Mereka bekerja tiga jam di seam utama sebelum suara datang dari arah lorong B. Suara manusia. Dua suara, satu keras satu bengong, dan bunyi kerikil yang diseret — suara orang yang masuk ke lorong mati tanpa alasan yang bisa dijelaskan siapa pun.
+Jawaban itu terlalu cepat.
 
-Brannoc mendengar lebih dulu daripada semua orang, karena pekerjaan foreman adalah mendengar yang salah. Ia berdiri, mengangkat lampu, dan berjalan ke mulut lorong B dengan langkah yang tak cepat tetapi tak bisa ditiru. Ashvarok mengikutinya dari belakang, dan Ondar mengikutinya dari belakang Ashvarok, dan ketiganya menemukan dua penambang dari regu lain di dalam lorong yang buntu itu — satu duduk di atas gerobak rusak seperti menunggu kuda, dan satu berdiri di depannya dengan wajah orang yang sedang mencari kata di saku yang bolong.
+Nama resmi tempat tersebut tertulis pada pelat besi di atas penyangga: GALERI BANTU TIMUR DUA. Para pekerja menyebutnya lorong B—B untuk buntu. Jalurnya hanya belasan langkah, berakhir pada dinding garam hitam, dan kini menjadi tempat menaruh gerobak retak serta kayu penyangga yang belum dipilah. Tempat mati seharusnya mengembalikan gema lebih keras daripada jalur terbuka.
 
-"Kenapa kalian di sini?" tanya Brannoc.
+Pagi itu, lorong B menyimpan semuanya.
 
-Yang berdiri menoleh dengan lega. "Foreman! Syukur. Ini... ini rekan saya mau minta tolong. Dia tak bisa bilang."
+Jauh di bawah telapak Ashvarok, rembesan yang telah ia petakan selama dua minggu berdenyut dua kali dalam satu tarikan napas. Denyut pertama naik melalui batu. Denyut kedua menarik turun. Sehelai debu jatuh dari pelat nama tanpa suara.
 
-"Bicara apa?" Yang di gerobak itu mendongak, wajah kosong yang bersih dari rasa takut, dan itu juga salah. Orang yang ketahuan masuk lorong buntu seharusnya malu atau takut. "Saya... dia bawa saya ke sini."
+Kebocoran itu sudah menemukan makanan.
 
-"Siapa 'dia'?"
+Di sisi lain persimpangan, Maera Tull berjongkok di depan alat perekam Guild. Jarum logam menggores silinder lilin, merekam irama tiga detik dari kedalaman yang beberapa hari lalu ditukar Ashvarok dengan perlindungan arsip. Kotak sampel terbuka di dekat lututnya. Bau lilin panas bersaing dengan udara asin tambang.
 
-Yang berdiri itu menunjuk temannya. "Ini. Rekan saya. Shift sama sejak—"
+Maera mengangkat kepala ketika jarumnya meloncat. Tatapannya berpindah dari skala alat ke lorong B, lalu singgah pada Ashvarok. Ia tidak memanggil. Kesepakatan mereka membutuhkan jarak saat orang lain melihat.
 
-Dia berhenti. Mulutnya tetap terbuka sebentar, seperti pintu yang engselnya lepas.
+Ashvarok menyentuh dinding sambil lewat. Batu yang biasanya memukul telapak dengan ratusan getar kecil kini memberi satu bagian kosong, selebar dua ruas jari, empat puluh hasta di bawah tingkat mereka. Kosong itu membuka dan menutup seperti insang.
 
-"Sejak apa?" tanya Brannoc.
+"Renn."
 
-"Sejak..." Penambang itu memandangi temannya sendiri dengan tatapan orang yang melihat furnitur asing di rumahnya. "Maaf, Foreman. Nama dia siapa?"
+Brannoc menunggu di depan regu.
 
-Sunyi di lorong B itu punya tekstur yang pernah didengar Ashvarok sekali — di persimpangan, fajar hari pertama, ketika Ondar berkata namanya hilang dua detik. Tetapi yang ini tak pulih dalam dua detik. Yang ini bertahan, dan bertahan dengan cara yang mengerjakan sesuatu pada udara. Lampu-lampu tampak lebih redup, gemuruh troli yang jauh terdengar seperti dari bawah air, dan napas empat orang dewasa plus satu bocah terasa seperti satu napas saja.
+Ashvarok melepaskan tangannya dari batu. "Penyangga sambungan ketiga longgar."
 
-"Nama dia," ulang Brannoc pelan. "Nama kamu sendiri."
+Brannoc melihat sambungan yang ditunjuk, kemudian wajahnya. "Kamu bohong lebih rapi kalau tidak buru-buru. Kerja dulu. Bicara nanti."
 
-"Bek." Jawabannya keluar cepat, bersyukur. "Nama saya Bek, Foreman. Itu pasti. Yang saya tidak ingat namanya dia." Ia menunjuk teman di gerobak. "Dan yang aneh, Foreman — saya coba ingat, rasanya ada, seperti ada kata di situ, tetapi katanya tak mau keluar. Seperti orang bicara di balik kaca."
+Mereka masuk seam utama.
 
-Yang di gerobak tersenyum tipis. "Saya baik-baik saja," katanya, dan senyum itu adalah bagian paling buruk dari pagi itu, karena senyumnya benar-benar tulus.
+Selama tiga jam, tambang kembali berpura-pura biasa. Pahat menggigit urat cinder-glass. Sekop mengeruk serpihan ke keranjang. Troli penuh lewat tiap dua puluh menit. Ashvarok bekerja di sisi Ondar dan menghitung bunyi, sebab bunyi yang hadir dapat mengukur sunyi yang akan datang.
 
-Brannoc melakukan sesuatu yang membuat Ashvarok menaikkan nilai foreman tua itu satu tingkat lagi. Ia tak berteriak, tak memukul, tak memanggil-panggil nama yang mungkin tak akan datang. Ia mengeluarkan buku catatan kecil dari jaketnya, membukanya di halaman shift, dan menyodorkannya kepada yang berdiri.
+Ondar salah memasukkan batu biasa ke karung premium dua kali.
 
-"Baca daftar regumu."
+Pada kesalahan ketiga, Ashvarok menahan pergelangan tangannya. "Itu batu mati."
 
-Penambang itu membaca. Bibirnya bergerak menyusul huruf-huruf: enam nama. Enam. Dan di baris keenam ada goresan tinta yang jelas-jelas sebuah nama, ditulis tangan yang sama dengan lima nama di atasnya, tetapi ketika sampai di situ, bibirnya berhenti membaca dan matanya terus bergerak seperti melewati noda air.
+"Aku tahu."
 
-"Aku tak bisa membaca yang terakhir," kata Bek pelan. "Foreman. Aku tak bisa membaca yang terakhir."
+"Tanganmu tidak."
 
-Brannoc menutup buku itu sangat perlahan, dan ketika ia bangkit, tangannya menarik kedua penambang itu keluar dari lorong B dengan lembut yang tak bisa dibantah, seperti menggiring anak dari tepi sumur. Di mulut lorong, ia berbalik, memandangi gelap di dalamnya selama sepuluh detik penuh — dan Ashvarok, berdiri paling dekat, melihat wajah foreman itu melakukan perhitungan yang sama yang dilakukan orang pada rumput rebah — membaca musuh yang tak kelihatan.
+Ondar menarik tangannya. "Lorong itu bikin kepalaku gatal."
 
-Ashvarok sendiri sedang sibuk dengan pembacaan yang tak bisa dibagikan kepada siapa pun.
+"Kamu pernah kehilangan namamu di dekat sini."
 
-Dia pernah melihat the Hollowed — dulu, seribu tahun silam, di era sebelum segel, ketika kebocoran kecil masih sesuatu yang dijawab dengan pasukan dan nama. Korban selalu berjalan, makan, bekerja. Tubuh tak peduli bahwa dunia sudah berhenti memegang namanya. Yang membuat bulu tengkuk raja-raja berdiri bukanlah penderitanya, melainkan efek sampingnya pada orang lain: mulut yang terbuka di tengah kalimat, mata yang mencari wajah yang tak ada di antara mereka, tinta yang mengalir melewati satu baris tanpa berhenti. Kehilangan itu tak menyakiti siapa pun. Itu yang membuatnya paling kejam — tak ada luka untuk dirawat, tak ada musuh untuk dibenci.
+Ujung sekop Ondar berhenti di atas lantai. "Dua detik. Sudah selesai."
 
-Dan sekarang ia berdiri di tambang kelas empat di tepi dunia, menonton penyakit tua itu belajar jalan lagi di sebuah lorong yang dipakai untuk menitipkan gerobak rusak.
+"Apa yang terjadi sebelum kamu ingat lagi?"
 
-"Regu lanjut bekerja," kata Brannoc akhirnya, keras, milik siapa-siapa. "Dua orang ini antar ke permukaan. Sakit kepala. Kata begitu saja. Siapa pun yang tanya kenapa mereka di lorong B — mereka tersesat, sudah." Ia berhenti, lalu menambahkan dengan suara yang turun separuh: "Dan siapa pun yang mimpi buruk malam ini, cerita ke saya. Bukan ke orang lain."
+"Brannoc memanggil." Ondar menendang batu mati ke tumpukan buangan. "Keras sekali. Saya kira dia marah."
 
-Semua orang bergerak melakukan yang disuruh, dan semua orang bergerak dengan cepat supaya tak perlu berpikir tentang apa yang baru saja terjadi.
+"Dia memang marah."
 
-Kecuali dua orang. Ketika Ashvarok melewati mulut lorong B, Brannoc menangkap lengannya sekali, singkat.
+"Ya. Itu membantu."
 
-"Kamu dengar iramanya?"
+Dari arah lorong B terdengar seseorang berseru. Suara pertama keras, patah oleh napas. Suara kedua menjawab dengan nada ringan. Lalu tak ada apa-apa—percakapan itu terpotong oleh lubang bersih di antara bunyi tambang.
 
-"Irama apa, Foreman?"
+Brannoc mengangkat lampu. "Semua tetap di tempat. Ondar, Renn, ikut."
 
-"Jangan sok bodoh sama aku. Kamu yang hitung semuanya." Mata tua itu lurus, dan di kedalaman mereka ada pertanyaan yang sudah lama tertunda. "Tadi saat kita masuk, kamu diam. Kamu tidak takut. Kamu menghitung."
+Mereka menemukan dua penambang dari regu angkut di antara gerobak rusak. Seorang lelaki berdiri dengan satu tangan menekan pelipis. Lelaki lain duduk di bibir gerobak, kaki menggantung, lampunya masih menyala di lantai. Debu pada lutut mereka menunjukkan keduanya sempat jatuh.
 
-"...Empat detik," kata Ashvarok akhirnya. "Sunyinya empat detik, naik dari lorong dalam, terus turun lagi. Seperti tarikan napas yang kenyang."
+Brannoc berhenti di ambang. "Bek. Jelaskan."
 
-Brannoc melepaskan lengannya. Ia menatap lorong B sekali lagi, dan kali ini Ashvarok melihat sesuatu yang jarang. Foreman tua itu takut, dan memilih untuk tak menyembunyikannya dari satu orang saja.
+Lelaki yang berdiri menoleh cepat. Kelegaan melonggarkan rahangnya. "Kami disuruh ambil pasak cadangan. Dia jatuh. Saya bantu duduk, lalu—" Ia menunjuk temannya. "Lalu dia tanya saya siapa."
 
-"Lorong tujuh, waktu kamu selamat," katanya pelan. "Sunyinya begitu juga, kan."
+"Sekarang kamu tahu siapa dia?"
 
-"Bukan begitu juga, Brannoc." Ashvarok memandang gelap yang buntu itu, dan di bawahnya, retakan itu berdenyut santai seperti perut yang baru kenyang. "Waktu itu hanya satu napas. Tadi pagi... itu sudah seperti orang yang makan terus tiap hari."
+Bek membuka mulut.
 
-"Dan kalau dia makin kenyang?"
+Tak ada jawaban.
 
-"Maka lorong-lorong lain akan ikut sunyi. Nama-nama akan hilang satu-satu, mulai dari yang paling jarang dipanggil." Ashvarok mengucapkan ramalan itu dengan suara teknis, seperti membaca retakan, karena itulah satu-satunya cara untuk mengatakannya tanpa menakuti siapa pun termasuk dirinya sendiri. "Namun masih awal, Brannoc. Yang muda selalu lapar. Yang lapar itu bisa dikunci — kalau ada orang yang tahu lokasi gemboknya."
+Lampu minyak di tangan Brannoc mendesis, tetapi desisnya terpotong begitu cahaya masuk lebih dalam. Tetes air menggantung pada ujung akar batu. Tetes itu jatuh; Ashvarok melihatnya pecah di lantai. Tak terdengar sentuhan air dengan debu.
 
-Brannoc memandangnya cukup lama sampai jawabannya jadi tak perlu. Pertanyaan "kamu tahu dari mana" sudah berdiri di antara mereka sejak minggu-minggu sebelumnya. Foreman tua itu tak pernah mengucapkannya, dan hari ini juga tidak.
+Sunyi mengembang dari dinding ujung.
 
-"Kalau kamu butuh sesuatu untuk mengunci apa pun," katanya akhirnya, "bilang duluan ke aku. Bukan sesudahnya."
+Ashvarok menghitung dengan denyut tubuh pinjamannya. Satu. Dua. Pada hitungan ketiga, napas Ondar lenyap dari telinganya walau bahu pemuda itu naik turun. Pada hitungan keempat, vein-scar di pergelangan Ashvarok menjadi dingin.
 
-"Itu sudah aturan kita."
+Lalu tambang kembali sekaligus. Air memercik. Api mendesis. Dari seam utama, pahat menghantam batu dengan bunyi yang terlambat dan kasar.
 
-"Aku mengingatkan saja." Brannoc mengambil lampunya dan berjalan ke arah seam utama, lalu berhenti tanpa menoleh. "Renn. Anak-anak di regu ini satu-satunya keluarga yang punya saya selain bocah asrama. Jaga mereka seperti jaga milikmu."
+Bek mundur satu langkah. "Foreman, siapa orang ini?"
 
-Ashvarok berjalan di belakangnya menuju cahaya seam — cahaya kuning yang setia, yang tak pernah bertanya kenapa seorang anak membawa rahasia sebesar tambang itu sendiri — membawa sekop dan satu keputusan baru yang sudah selesai disusun di kepalanya sebelum langkah kelimanya. Titik bocor kecil itu harus ditutup — malam ini juga, sebelum ia kehilangan kesempatan, sebelum ia berubah pikiran.
+Lelaki di gerobak memeriksa bajunya sendiri, seakan jawabannya mungkin dijahit pada kerah. "Tadi kamu memanggil saya."
 
-Dan menutupnya hanya ada satu cara. Satu seni. Satu nama yang tak boleh disebut.
+"Saya tidak ingat."
 
-Harga yang harus dibayar sudah ia hafal di luar kepala.
+"Kita turun bersama."
 
-Di permukaan, jauh di atas, lonceng shift ketiga berbunyi. Bek dan temannya — dua orang yang keluar dari lorong B dengan diagnosis "sakit kepala" yang tak akan ditanya dua kali oleh petugas klinik barak — sedang digotong naik tangga.
+"Saya tahu." Bek mengusap pelipis lebih keras. "Saya ingat dua mangkuk bubur di meja. Ingat kamu mengeluh tali sepatu putus. Ingat jalan ke sini. Nama kamu saja yang—"
 
-Yang duduk di gerobak ikut naik juga, berjalan sendiri, rapi, senyum tipisnya tetap tulus.
+Ia memejamkan mata. Wajahnya menegang karena tenaga yang tak menghasilkan apa-apa.
 
-Dan itulah bagian yang tak akan pernah masuk laporan mana pun. Semua yang melihat dia naik mengingat kejadiannya dengan sempurna. Ingat gerobaknya, ingat sakit kepala, ingat lonceng shift. Semua orang setuju dia ada.
+Lelaki di gerobak tersenyum untuk menenangkannya. "Tidak apa-apa. Mungkin terbentur."
 
-Tidak satu pun dari mereka — bukan Bek, bukan Brannoc, bahkan bukan buku daftar regu — mampu menyebut namanya.
+Ketulusan itu lebih buruk daripada panik. Korban tidak menyadari bahwa dunia baru saja melepaskan pegangannya.
 
-Ada dua orang yang masuk lorong B pagi itu. Dua yang keluar. Dan satu yang mulai hilang dari dunia sambil tetap berjalan di dalamnya.
+Brannoc mengeluarkan buku shift dari saku dada. Ia membuka halaman regu angkut, menahan buku di bawah lampu, lalu memberikannya kepada Bek.
+
+"Baca dari atas."
+
+Bek membaca lima baris tanpa salah. Pada baris keenam, pandangannya bergerak dari tanda nomor ke kolom jam. Tinta di antara keduanya utuh: beberapa huruf gelap, ditulis tangan Brannoc sendiri. Mata Bek melewatinya.
+
+"Ulang baris terakhir," kata Brannoc.
+
+"Jam masuk, shift kedua."
+
+"Kolom nama."
+
+Bek mendekatkan halaman ke lampu. "Kosong."
+
+"Tidak kosong."
+
+"Saya lihat tinta." Suaranya turun. "Tapi bukan kata."
+
+Brannoc mengambil buku itu. Matanya menyipit pada baris keenam. Untuk sesaat, Ashvarok melihat pengenalan hendak terbentuk. Kemudian perhatian mandor bergeser ke tanda jam di sebelahnya.
+
+"Renn. Baca."
+
+Ashvarok menerima buku.
+
+Huruf-huruf tersebut ada, tetapi pikiran tubuh ini menolak menyatukannya. Matanya mengenali tiap goresan sebagai bentuk. Begitu bentuk itu hampir menjadi bunyi, sesuatu menarik bunyi tersebut melalui retakan di bawah. Ia pernah menyaksikan prasasti kerajaan kehilangan seratus nama dalam satu malam dengan cara serupa. Tinta bertahan lebih lama daripada ingatan. Tidak pernah cukup lama untuk menyelamatkan pemiliknya.
+
+"Saya tidak bisa," katanya.
+
+Ondar meraih buku tanpa diminta. "Itu—"
+
+Wajahnya mengeras. Ia membalik halaman, kembali lagi, lalu menekan kuku pada tinta sampai kertas berlekuk.
+
+"Saya makan berhadapan dengan dia tadi pagi." Suaranya serak. "Dia kasih saya garam."
+
+"Siapa?" tanya lelaki di gerobak.
+
+Ondar memandangnya dan tak mampu menjawab.
+
+Ashvarok mendekati dinding ujung. Tirisan garam menutup batu seperti lemak pucat. Di baliknya, aliran halus bergerak turun melawan kemiringan tambang, menuju ceruk jauh di bawah titik ukur Maera. Telapak tangannya menangkap tarikan pendek: retakan menyedot tempat korban di dalam setiap orang yang pernah mengenalnya.
+
+Hollowing.
+
+Dulu, sebelum the Long Dusk, satu regu penjaga akan mengepung silent zone. Para pencatat menyebut nama setiap orang bergiliran agar tak ada yang terlepas. Lima panglimanya menutup jalur, sementara Ashvarok mencari mulut kebocoran dengan the Walking Key. Mereka punya lonceng, tali nama, dan ribuan saksi.
+
+Kini ia punya tubuh bocah yang vein-nya merambat rusak, satu mandor yang tidak menuntut jawaban, dan sebuah buku yang tak bisa lagi dibaca.
+
+Dari luar lorong terdengar langkah Maera. Jarumnya pasti merekam empat detik kosong. Ashvarok berbalik sebelum ia mencapai ambang.
+
+"Ada orang jatuh," kata Brannoc cepat. "Benturan kepala."
+
+Maera menatap dua penambang, buku di tangan Ondar, kemudian dinding yang disentuh Ashvarok. "Alat saya kehilangan seluruh gema selama empat detik. Benturan kepala tidak melakukan itu."
+
+"Kalau alat Guild mau memeriksa pekerja, bawa perintah klinik."
+
+"Kalau lorong menelan sinyal, saya punya perintah survei."
+
+"Besok." Brannoc berdiri memenuhi ambang. "Sekarang saya bawa orang hidup ke atas."
+
+Maera tidak bergerak. "Berapa orang?"
+
+Pertanyaan itu memotong lebih tajam daripada tuduhan.
+
+"Dua," jawab Brannoc.
+
+"Nama?"
+
+"Bek dan—"
+
+Mandor berhenti.
+
+Lelaki di gerobak menunggu. Tidak marah, tidak takut. Hanya menunggu seseorang mengembalikan benda yang semestinya paling dekat dengannya.
+
+Maera membuka buku lapangannya. "Saya catat satu nama terbaca, satu tidak terbaca."
+
+"Catat sakit kepala," kata Brannoc.
+
+"Saya tidak mencatat diagnosis palsu."
+
+"Maka jangan catat mereka. Catat alatmu. Empat detik. Tempatnya di persimpangan, bukan di lorong ini."
+
+Maera melihat Ashvarok. Ia tidak meminta penjelasan. "Sinyal datang dari bawah dinding ujung. Lusa pagi titik ini masuk urutan pertama."
+
+Lusa pagi terlalu lambat.
+
+Ashvarok berkata, "Kalau dindingnya rapuh, alat Anda bisa memperlebar retakan."
+
+"Bacaanmu?"
+
+"Nasihat pekerja. Gratis."
+
+Maera menutup bukunya. "Saya tidak menerima nasihat gratis darimu. Saya menagihnya nanti."
+
+Ia pergi tanpa memperoleh nama kedua. Bunyi langkahnya kembali terdengar setelah melewati ambang lorong B.
+
+Brannoc mengambil alih sebelum ketakutan membuat orang banyak bicara. Bek disuruh menopang rekannya. Ondar membawa kedua lampu. Cerita untuk klinik hanya satu: dua pekerja salah jalan, seorang jatuh, keduanya sakit kepala. Brannoc mengulang cerita sampai tiap orang dapat mengucapkannya tanpa berpikir.
+
+"Kalau petugas tanya namanya?" Bek menunjuk lelaki yang ia topang.
+
+Brannoc merobek baris keenam dari buku shift, melipatnya, lalu memasukkan kertas ke saku. "Bilang tinta kena air."
+
+"Namanya, Foreman. Bukan tulisannya."
+
+"Saya tahu."
+
+Mereka membawa lelaki itu keluar. Ketika melewati pelat besi, ia menoleh ke dalam lorong, mungkin menunggu ingatan tertinggal menyusulnya. Lorong B tidak mengembalikan apa pun.
+
+Ashvarok hendak ikut, tetapi Brannoc menahan bahunya.
+
+"Empat detik," kata mandor.
+
+"Ya."
+
+"Sama dengan yang Ondar alami waktu runtuhan?"
+
+"Itu baru sentuhan. Ini gigitan pertama."
+
+Brannoc mengeluarkan sobekan daftar. "Kertasnya masih ada. Kenapa kita tidak bisa baca?"
+
+"Karena nama bukan hanya tinta. Nama hidup di tempat yang disediakan orang lain untuk memanggilnya. Kebocoran mengambil tempat itu lebih dulu. Tulisan menyusul."
+
+"Apa dia bisa dipulihkan?"
+
+Ashvarok memandang Bek dan rekannya menjauh menuju tangga. Ondar terus berbicara kepada korban, kalimat-kalimat pendek tanpa sapaan, seperti bunyi suaranya sendiri dapat menggantikan nama.
+
+"Tidak dari lubang sekecil ini setelah penghapusan selesai."
+
+Brannoc meremas kertas, lalu meratakannya lagi. "Jadi kita punya orang hidup yang tidak bisa dipanggil."
+
+"Kita punya satu. Kalau retakan makan lagi malam ini, besok bisa dua. Sesudah itu ia belajar mengambil lebih jauh dari lorong."
+
+"Kamu tahu cara menghentikannya."
+
+Bukan pertanyaan.
+
+Ashvarok menempelkan telapak ke batu. Denyut pendek itu sudah lebih kuat. Setiap tarikan mencari hubungan lain: rekan shift, mandor, petugas pembagian makan, siapa pun yang menyimpan korban dalam ingatan. Mulut kecil, tetapi jalurnya tersambung pada kelaparan yang telah ia kurung seribu empat puluh tujuh tahun lalu.
+
+"Titik bocornya empat puluh hasta lebih dalam," katanya. "Bukan di balik dinding ini. Lorong B hanya meja makannya."
+
+"Apa yang kamu perlukan?"
+
+"Jalur kosong setelah shift ketiga. Daftar inspeksi yang menaruh aku di tingkat bawah tanpa saksi. Dan kalau aku belum naik menjelang fajar, kunci akses timur jangan diberikan kepada siapa pun."
+
+Brannoc mengunyah jawaban itu sebelum mengangguk. "Katamu aturan kita: bawa orang keluar dulu, bertanya belakangan."
+
+"Orangnya sudah keluar."
+
+"Sekarang aku bertanya. Apa pekerjaan ini bakal membunuhmu?"
+
+Ashvarok menghitung the Remainder. Sekitar dua belas persen, mungkin kurang. Penutupan kecil seharusnya mengambil separuh. Kata seharusnya telah mengubur banyak penjaga.
+
+"Tidak malam ini."
+
+"Jawaban jelek."
+
+"Tetapi jujur."
+
+Brannoc menyerahkan lampunya. "Kalau kamu perlu sesuatu buat mengunci apa pun, bilang duluan. Bukan sesudahnya."
+
+"Aku baru bilang."
+
+"Belum semuanya."
+
+Ashvarok memandang mandor itu. Brannoc tidak tahu nama seni yang akan dipakai, harga the Remainder, atau alasan seorang bocah tambang memahami wabah yang bahkan buku Guild tak mampu baca. Namun ia sudah memindahkan tubuh korban sebelum mencari keterangan dan sudah berdiri menghalangi Maera tanpa diminta.
+
+"Jaga Sela di barak malam ini," kata Ashvarok. "Pastikan dia tidak turun mencariku."
+
+Brannoc menarik napas melalui hidung. "Nah. Itu baru bagian yang kamu takutkan."
+
+Denyut lain naik dari bawah. Kali ini pelat GALERI BANTU TIMUR DUA bergetar pada paku kirinya. Tidak ada bunyi.
+
+Ashvarok menyerahkan lampu kembali. "Tutup lorong dengan alasan penyangga rusak. Jangan biarkan seorang pun masuk sampai fajar."
+
+"Dan kamu?"
+
+"Aku masuk dari tingkat troli setelah malam penuh."
+
+Mereka berjalan ke seam utama. Di persimpangan, jarum alat Maera kembali menggores lilin. Garis hitam bergerak dalam irama tiga detik, lalu membuat satu lekukan tambahan tepat ketika Ashvarok melintas. Bukti pertama sudah tersimpan di depan mata orang yang cukup keras kepala untuk membacanya.
+
+Di tangga naik, Bek masih mencoba mengingat. Ia menyebut mangkuk, tali sepatu, garam, dan posisi rekannya saat apel. Setiap rincian tetap utuh. Hanya pusatnya yang hilang.
+
+Korban mendengarkan daftar kehidupannya sendiri sambil tersenyum sopan.
+
+Sebelum lonceng shift ketiga, Brannoc menggantung rantai di mulut lorong B dan menulis PENYANGGA RETAK pada pelat kayu.
+
+Ashvarok menghitung waktu sampai malam penuh. Setelah Sela tertidur, ia akan turun sendiri melalui tingkat troli. Sebelum fajar, the Walking Key harus menutup titik bocor itu—atau lorong B akan memilih nama kedua.

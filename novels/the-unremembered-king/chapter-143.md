@@ -3,7 +3,7 @@ title: "Bab 143: Tulisan di Dinding Mimpi"
 chapter: 143
 ---
 
-Kabar itu datang ke dapur barak pada pagi hari keseratus sebelas dengan bentuk yang paling tidak berbahaya di dunia — yaitu bahan cerita sarapan.
+Kabar itu datang ke dapur barak pada pagi hari kedua ratus sebelas dengan bentuk yang paling tidak berbahaya di dunia — yaitu bahan cerita sarapan.
 
 "Aku mimpi aneh tadi malam," kata perempuan bilik sebelas kepada meja panjang sambil mengangkat panci bubur. "Mimpi soal pintu. Pintu tua, besar, hangat seperti tungku waktu habis dipanasi. Dan pintunya kenal aku. Bukan aku kenal dia. Dia yang kenal aku, seperti orang tua yang sudah lama menunggu anaknya pulang lalu berkata, kamu akhirnya datang. Aku bangun rasanya enak sekali."
 
@@ -11,7 +11,7 @@ Meja menjawab dengan gelak dan dua cerita serupa yang langsung muncul. Anak juru
 
 Ashvarok mendengarkan seluruh pagi itu dari ujung meja dengan mangkuk yang tidak berkurang isinya, dan di dalam dadanya ada sesuatu yang bekerja seperti air mendidih dalam tutupan rapat.
 
-Ia tahu mimpi itu. Ia mengenali teksturnya seperti mengenali tulisan tangannya sendiri, karena hangat yang digambarkan para pemimpi adalah hangat yang keluar dari bidang batu di bawah telapak tangannya malam Rabat, dan nama yang dipanggil para mimpi itu adalah nama yang ia tenun sendiri ke dalam batu dengan harga satu potongan diri. Seni raja itu tidak berhenti di batu. Batu menerimanya, batu hidup darinya, dan kota yang memberi makan seninya lewat cerita ternyata ikut minum dari sumur yang sama. Puluhan orang tidur semalam dengan kepala penuh satu pintu yang sama — bukan karena mereka pernah melihat pintu itu — melainkan karena penamaannya bocor ke arah yang tidak ia kendalikan, masuk ke tempat tidur, masuk ke kepala anak-anak, masuk ke lapisan kota tempat manusia meletakkan barang-barang yang tidak mereka tahu mereka bawa.
+Ia tahu mimpi itu. Ia mengenali teksturnya seperti mengenali tulisan tangannya sendiri, karena hangat yang digambarkan para pemimpi adalah hangat yang keluar dari bidang batu di bawah telapak tangannya Malam Rabat, dan nama yang dipanggil para mimpi itu adalah nama yang ia tenun sendiri ke dalam batu dengan harga satu potongan diri. Seni raja itu tidak berhenti di batu. Batu menerimanya, batu hidup darinya, dan kota yang memberi makan seninya lewat cerita ternyata ikut minum dari sumur yang sama. Puluhan orang tidur semalam dengan kepala penuh satu pintu yang sama — bukan karena mereka pernah melihat pintu itu — melainkan karena penamaannya bocor ke arah yang tidak ia kendalikan, masuk ke tempat tidur, masuk ke kepala anak-anak, masuk ke lapisan kota tempat manusia meletakkan barang-barang yang tidak mereka tahu mereka bawa.
 
 Ia bangun dari meja tanpa menyelesaikan makanannya, dan tidak ada satu orang pun yang menoleh — sebab bocah lorong tujuh memang dikenal suka pergi begitu saja.
 
@@ -35,7 +35,7 @@ Di jalur pulang, Ashvarok menyusun peta mimpinya sendiri dalam kepala, satu nama
 
 Sela dan Brannoc dikumpulkannya malam itu di gudang perkakas tingkat dua, dan kali ini ia menutup pintu lebih dulu sebelum bicara.
 
-"Mimpi itu milikku," kata Ashvarok tanpa pembukaan. "Pintu yang mereka mimpikan itu pintu yang kunamai malam Rabat. Hangatnya, panggilan namanya, rasa dikenalnya, semuanya sama. Aku baru sadar kemarin siang, setelah sembilan belas cerita cocok satu sama lain."
+"Mimpi itu milikku," kata Ashvarok tanpa pembukaan. "Pintu yang mereka mimpikan itu pintu yang kunamai Malam Rabat. Hangatnya, panggilan namanya, rasa dikenalnya, semuanya sama. Aku baru sadar kemarin siang, setelah sembilan belas cerita cocok satu sama lain."
 
 Brannoc berhenti mengunyah.
 

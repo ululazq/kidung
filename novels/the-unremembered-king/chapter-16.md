@@ -3,114 +3,318 @@ title: "Bab 16: Daftar Belakang"
 chapter: 16
 ---
 
-Sela tahu tiga cara bangun di barak Caldrest: dibangunkan suara shift, dibangunkan dingin, atau dibangunkan karena sesuatu yang salah. Pagi itu dia terbangun dengan cara ketiga, dan sesuatu yang salah itu ternyata hanya selembar tulisan kapur di papan tulis mereka:
+Debu kapur masih menempel di bawah kuku Sela ketika ia membaca pesan itu untuk ketujuh kalinya.
 
 "Keluar fajar. Jangan cari."
 
-Tulisan tangan kakaknya. Sempurna. Itu yang pertama membuat dia tak percaya — karena Renn tidak pernah menulis rapi. Tulisan Renn miring ke kanan seperti orang yang selalu buru-buru, sedangkan huruf-huruf di papan itu berdiri lurus satu per satu seperti prajurit diperiksa komandan.
+Empat kata. Tidak ada alasan, tujuan, atau waktu pulang. Lebih buruk lagi, huruf-hurufnya tegak dan berjarak sama. Renn lama menulis seperti menuruni lereng—cepat, miring, dua huruf kadang bertabrakan. Tulisan di papan itu tampak sudah ditimbang sebelum dibuat.
 
-Sela duduk diam di kasurnya, merapikan selimut sampai sudutnya benar-benar siku — kebiasaan dari asrama yang tak pernah hilang — dan memikirkan perintah itu dari semua sisi. Jangan cari. Dia tidak akan cari. Dia lebih pintar daripada ikut instruksi orang tanpa bertanya, dan instruksi tanpa alasan paling tidak boleh ditanya tiga kali.
+Sela menekan ibu jari ke kata *cari*. Kapurnya belum sepenuhnya mengeras. Renn menulisnya belum lama.
 
-Kenapa keluar malam-malam? Kenapa harus bilang jangan cari? Dan kenapa tulisannya mendadak rapi?
+Ia tidak keluar menyusul. Itu bukan berarti ia patuh. Mencari tanpa tahu arah hanya membuang waktu, dan membuang waktu tidak menghasilkan jawaban. Ia menarik bangku ke dekat pintu, meletakkan papan tulis kecil di atas lutut, lalu mendengarkan barak menjelang pergantian shift.
 
-Dia tak bisa menjawab satu pun, jadi dia melakukan hal yang paling tidak sama dengan "mencari". Duduk dekat jendela, menghadap pintu barak, dan mulai menghitung.
+Pipa air batuk dua kali di balik dinding. Sepatu pekerja malam menggesek lorong. Dari dapur bersama datang bau jelaga basah dan gandum yang dimasak terlalu lama. Semua bunyi menempati tempat biasa kecuali napas dari kasur Renn.
 
-Sementara menghitung, daftar yang selama ini tinggal di kepala dia memaksa untuk ditulis ulang, dan Sela mengalah pada paksaan itu seperti biasa. Dia membuka papan tulis di pangkuan, punggung membelakangi pintu supaya tulisannya tak terbaca siapa pun lewat bahu, dan mengecek ulang item-item yang sudah dikumpulkan sejak musim panen, satu per satu, dengan tanggal.
+Sela membuka daftar yang ia sembunyikan di bawah hitungan belanja.
 
-Pekan pertama panen. Renn berhenti bernyanyi saat mencuci. Dulu lagunya tak pernah benar, tetapi ada. Kenapa hilang? Kenapa orang berhenti bernyanyi?
+Dua puluh tujuh.
 
-Dua minggu. Cara jalan di ambang pintu berubah. Dulu kakinya mulai dari kanan, lompat sedikit, seperti anak yang buru-buru ke mana-mana. Sekarang kiri dulu, rapi, seperti Brannoc. Kenapa kakakku jalan seperti prajurit tua?
+Ia menghitung lagi, sebab angka yang diperiksa lebih aman daripada perasaan yang dibiarkan tumbuh.
 
-Tiga minggu. Kata-kata baru. "Neraca." "Hitung mundur." Kalimat pendek yang berdiri lurus, seperti tulisannya sekarang. Anak tambang umur lima belas tak belajar kata begitu dari lorong mana pun. Dari mana?
+Pertama: tulisan Renn menjadi rapi dalam satu pekan.
 
-Empat minggu. Uang mulai ada, tetapi badan makin kurus. Uang masuk ke mana kalau bukan ke makanan? Dan kenapa yang makan banyak malah menyusut?
+Keempat: ia berhenti bersenandung ketika mencuci gelas. Renn yang dulu hanya tahu setengah lagu, tetapi setengah lagu tetap lebih banyak daripada diam.
 
-Kelima, keenam, ketujuh... sampai item terakhir yang dicatatnya tiga hari sebelumnya. Tiap malam sebelum tidur, kakaknya mengukur garis di lengan kanannya dengan seutas benang dari jahitan kasur, menatap hasilnya lama seperti assayer melihat barang cacat, lalu menulis di papan dengan wajah yang tak menunjukkan apa-apa. Orang yang mengukur luka sendiri tiap malam adalah orang yang sedang hidup dengan jam pasir di dalam badannya — kalimat itu dia baca di buku cerita lama Ibu Vess, dan dia tak pernah sangka akan memikirkannya tentang kakak sendiri.
+Kedelapan: ia memakai kata *neraca* untuk orang, bukan barang.
 
-Semua item punya tanggal. Tak satu pun punya jawaban. Dan setiap item, seperti biasa, ditanya kenapa tiga kali oleh kepalanya sendiri, dan ketiganya diam.
+Kesebelas: ia tidur menghadap pintu.
 
----
+Kelima belas: ia dapat melihat batu yang akan patah sebelum mandor menyuruh orang mundur.
 
-Renn pulang saat langit Caldrest sudah berubah abu-abu muda tetapi belum berani biru.
+Kesembilan belas: uang lebih sering ada, sementara tulang di pipinya makin jelas.
 
-Sela melihatnya dari jendela sebelum ia masuk, dan ada sesuatu pada cara kakaknya berjalan pagi itu yang membuat tangannya sendiri dingin. Bukan pincang. Bukan tergesa. Justru terlalu rapi — setiap langkah sama panjangnya, seperti orang yang sangat lelah tetapi memaksa tubuhnya tetap bekerja sesuai ukuran. Wajahnya pucat bukan pucat lelah. Pucatnya jenis lain, jenis yang membuat kulit tampak seperti kertas yang dicuci.
+Kedua puluh tiga: ia mulai memeriksa semua jalan keluar saat memasuki ruangan.
 
-Dan yang paling aneh: dia tak bau tambang.
+Kedua puluh tujuh: garis gelap di lengan kanan diukur tiap malam dan dicatat dalam kolom *Hourglass*.
 
-Renn selalu bau tambang — batu, keringat, sedikit minyak lampu. Yang pulang pagi itu bau batu dalam, dingin, dan di baliknya semacam wangi hangus yang manis, seperti gula yang jatuh ke bara. Sela tak pernah mencium kombinasi itu dari siapa pun sepanjang hidupnya.
+Sela membuat satu titik di samping angka terakhir, lalu segera menghapusnya. Titik tanpa arti adalah hiasan. Maera tidak akan menaruh hiasan pada laporan penilaian.
 
-Dia pura-pura tidur lagi ketika pintu terbuka. Melalui bulu mata setengah tertutup, dia memperhatikan kakaknya meletakkan sekop dengan hati-hati, mencuci tangan sampai bersih dua kali, lalu berdiri di tengah kamar hampir satu menit penuh tanpa melakukan apa-apa — hanya berdiri, menghadap tembok, seperti orang yang lupa kenapa dia masuk ruangan.
+Tiga pertanyaan mengisi ruang kosong di bawah daftar.
 
-Lalu Renn merasakan pandangannya. Tanpa menoleh.
+Kenapa Renn berubah?
 
-"Kau sudah bangun sejak kapan?"
+Kenapa ia menyembunyikan sebabnya?
 
-"Dari sebelum kau pergi," kata Sela, menyerah pada sandiwara. Dia duduk tegak di kasur. "Kamu menulis jangan cari. Aku tidak cari. Aku hitung."
+Kenapa Sela masih tahu kapan ia berbohong, tetapi kadang tidak tahu siapa yang sedang berbohong kepadanya?
 
-"Hitung apa?"
+Pertanyaan ketiga membuat ujung kapur patah.
 
-"Kamu pergi empat jam empat puluh menit." Sela menatap wajah kakaknya yang pucat itu, dan pertanyaan-pertanyaan di kepalanya berebut keluar seperti penumpang panik. Dia memilih yang paling kecil dulu, karena kalimat besar biasanya membuat orang menutup pintu. "Kamu sakit? Wajah kamu seperti kertas dicuci."
+Sela menaruh kedua potongnya di ambang jendela. Langit di luar mulai memucat. Shift malam pulang dalam kelompok kecil, membawa bau minyak lampu dan batu panas. Ia mengamati setiap bahu yang lewat. Renn tidak ada.
 
-"Kelelahan. Pekerjaan sampingan butuh begadang."
+Kemudian pintu bergerak.
 
-Jawaban kedua yang dia dapatkan minggu ini juga jawaban yang sama. Kelelahan. Kata ampuh untuk semua penyakit yang tak mau diceritakan.
+Sela menoleh. Tak seorang pun berdiri di sana.
 
-"Renn." Dia memanggil nama itu dengan nada yang biasa dipakai guru-guru asrama sebelum menghukum salinan. "Boleh bertanya yang jujur tidak? Kamu jawab yang jujur juga."
+Ia kembali ke papan, kesal karena engsel tua bisa mengecohnya. Baru ketika setetes air jatuh ke lantai, ia melihat jejak sepatu basah: satu dekat pintu, satu di tengah kamar, satu lagi di samping kasur Renn.
 
-"Coba."
+Renn sedang berdiri di ujung jejak itu.
 
-"Kamu berubah." Sela menghitung di jarinya, satu per satu, supaya tak ada yang lolos. "Dari dua bulan sebelumnya. Kamu makan tiga kali lipat tetapi badan kamu makin kurus. Kamu tidur menghadap pintu sekarang, dulu menghadap tembok karena katanya tembok hangat. Kamu tak bersenandung lagi saat mencuci. Kamu jawab pertanyaan dengan pertanyaan. Kamu bisa membaca retakan batu seperti Brannoc membaca peta. Dan tangan kanan kamu—" dia berhenti sebentar di angka terakhir, yang paling berat, "—tiap malam kamu ukur pakai benang, terus kamu catat di papan. Kamu kira aku tak lihat. Aku lihat."
+Jarak mereka tidak sampai empat langkah. Sela tidak tahu sejak kapan ia masuk.
 
-Ruangan kecil itu sunyi. Dari luar terdengar roda troli pertama dan terompet shift pagi, bunyi-bunyi kota yang tak peduli pada isi satu barak.
+Tubuh kakaknya condong sedikit, seolah tulang-tulangnya terlambat menerima perintah untuk tegak. Debu pucat melekat pada lutut dan siku. Tidak ada sekop. Tidak ada kantong upah. Napasnya tipis, nyaris tanpa bunyi.
 
-Renn duduk di kasurnya sendiri, berhadapan dengan dia, dan Sela memperhatikan wajah itu mencari ekspresi yang cocok seperti dia mencari kata yang hilang — dan menemukan satu yang tenang.
+Sela berdiri terlalu cepat. Bangku menggesek lantai.
 
-"Lanjut," kata kakaknya. "Daftarmu masih pendek. Ada lagi?"
+"Kamu masuk kapan?"
 
-"Itu saja yang bisa aku buktikan."
+Renn memandang jejak di bawah kakinya, lalu pintu. "Baru saja."
 
-"Bagus. Berarti kamu tidak mengarang." Renn — atau orang yang tinggal di badan Renn, bisik sesuatu di kepala Sela yang tak dia izinkan keluar — mengangguk pelan ke arahnya. "Semua yang kamu daftar itu benar. Aku berubah. Aku belajar hal-hal baru yang bahaya kalau banyak orang tahu, dan beberapa di antaranya meninggalkan tanda di badanku. Itu harga belajarnya. Aku bayar, aku catat, aku jaga supaya tak sampai ke siku."
+"Aku melihat pintunya."
 
-"Sampai ke siku kenapa?"
+"Ya."
 
-"Karena kalau sampai ke siku, kita panggil dokter tambang. Kita sudah sepakat."
+"Aku tidak melihat kamu."
 
-"Itu aturan soal garis. Aku bertanya soal berubah." Sela maju ke tepi kasur, lutut menyentuh lantai dingin, dan mengeluarkan pertanyaan yang paling berat terakhir, yang dia simpan dari hari sebelumnya, yang dia takuti dan penasaran bergantian sampai keduanya jadi satu. "Renn. Kalau kamu bukan Renn... dia di mana?"
+Ada jeda kecil sebelum ia menjawab. "Aku tahu."
 
-Pertanyaan itu jatuh di antara mereka seperti shardmark yang dijatuhkan di tengah pasar sepi.
+Jawaban itu membuat tengkuk Sela lebih dingin daripada lantai.
 
-Wajah kakaknya tak kaget. Itu yang paling mengejutkan — tak ada kedipan panik, tak ada tawa penolakan, tak ada cerita panjang tentang kepala yang kena batu. Hanya diam yang panjang, dan mata yang menatapnya dengan sesuatu yang belum pernah dia lihat di wajah Renn yang dulu: kesedihan yang sudah selesai dihitung.
+Renn melepas sepatu dan menaruhnya sejajar di bawah kasur. Gerakannya teliti, tetapi tangan kanannya gemetar saat menarik simpul. Warna kulitnya menyerupai abu tungku setelah hujan. Bukan hanya pucat. Seolah sesuatu telah mengambil lapisan tipis darinya dan tidak berniat mengembalikannya.
 
-"Renn tidak hilang, Sel." Suaranya pelan dan benar-benar jujur, dan Sela bisa membedakannya, dia bisa membedakan semua jenis suara kakaknya. "Aku yang ada di sini. Yang jaga kamu, yang bayar utang, yang isi kolom Hourglass tiap malam, yang pulang tiap pagi. Kalau ada bagian dari dia yang tak bisa aku beri balik..." Kakaknya berhenti sebentar, memilih kata seperti memilih pijakan batu. "...aku jaga semua yang tersisa. Itu janjinya. Cukup?"
+"Duduk," kata Sela.
 
-Tidak cukup, kata kepala Sela. Tidak cukup, tidak cukup, kenapa tak cukup, kenapa kamu tak bilang apa-apa yang jelas, kenapa—
+Satu alis Renn terangkat.
 
-"Tidak," jawab mulutnya, jujur juga. "Namun baiklah. Untuk sekarang."
+"Bukan permintaan. Kalau jatuh, kamu lebih berat daripada aku."
 
-"Untuk sekarang." Kakaknya mengulang seperti menandatangani kontrak yang isinya belum selesai.
+Renn duduk.
 
----
+Sela mengambil gelas mereka—kaca pecah yang tepinya ditutup damar—dan menuangkan air. Ia menyerahkannya, lalu memperhatikan sampai Renn minum. Air menetes dari sudut bibir ke dagu. Renn tidak menyadarinya.
 
-Setelah kakaknya akhirnya tertidur — langsung, seperti lilin dimatiikan, tanpa fase gelisah seperti manusia biasa — Sela duduk di meja dengan papan tulis kecilnya dan berpikir lama.
+"Kamu pergi berapa lama?" tanya Sela.
 
-Sebelum menyentuh papan, dia melakukan satu hal yang sudah dia tunda tiga hari. Lewat ke depan klinik barak dengan alasan mengambil air, dan melihat orang dari lorong B itu.
+"Tidak lama."
 
-Dia duduk di depan pintu klinik, di kursi panjang, memandangi jalan dengan wajah yang tenang. Petugas klinik memberinya makan. Orang-orang lewat menyapanya dengan kepala. Tak ada satu pun yang memanggil namanya — dan Sela, yang mendengar cerita Bek dari bisik-bisik dapur, baru paham kenapa. Bukan karena mereka jahat. Karena mereka tak bisa. Nama itu ada di buku daftar regu, tertulis jelas dengan tinta — dan tak ada satu pun mata yang sanggup membacanya sampai selesai.
+"Salah. Empat jam lebih. Ke mana?"
 
-Orang itu menoleh ke arah Sela. Mereka saling memandang beberapa detik, dua anak yang satu tak dipanggil siapa-siapa dan yang satu sedang diam-diam mencari tahu soal kakaknya sendiri. Lalu orang itu tersenyum, senyum tipis dan sepenuhnya tulus, lalu kembali memandangi jalan.
+"Bekerja."
 
-Sela berjalan pulang lebih cepat dari rencana, membawa ember air yang setengah tumpah, dan di dalam kepalanya pertanyaan-pertanyaannya mendadak punya suara yang berbeda. Kalau seseorang bisa hilang dari ingatan semua orang hanya karena sebuah lorong sunyi — kalau nama bisa mati duluan daripada badannya — maka "kamu siapa" mungkin bukan pertanyaan terpenting.
+"Kerja apa?"
 
-Pertanyaan yang lebih penting mungkin: apa yang sedang melawan hal-hal yang bisa membuat orang hilang begitu? Dan berapa lama dia bisa menang?
+"Yang tidak boleh dilakukan anak sebelas tahun."
 
-Papan tulis kecil itu punya dua sisi. Sisi depan adalah sisi resmi: upah, utang, Hourglass, aturan. Sisi belakang biasanya kosong, kadang dipakai coretan hitung sayur.
+"Aku tidak bertanya apakah aku boleh ikut. Kenapa pergi sendiri?"
 
-Dia membaliknya, dan di sisi belakang itu, dengan huruf sekecil yang bisa dia tulis, dia membuat daftar baru. Bukan daftar perbedaan — daftar itu sudah dia hafal di kepala, dua puluh tujuh item sejak musim panen. Daftar yang ini lebih penting. Nama-nama hal yang tak berubah.
+"Karena lebih aman begitu."
 
-Makan pagi selalu sisakan sedikit buat dia. Gelas kaca pecah dicuci bersama. Jawab "nanti aku cerita" kalau dia minta cerita masa kecil yang bagus. Dan tiga kali sepekan, tanpa gagal, kakaknya cek papan tulis sebelum tidur, seperti orang mengecek anaknya bernapas.
+"Kenapa?"
 
-Di bawah daftar itu, setelah waktu lama, dia menulis satu kalimat penutup, huruf kecil, hampir tak berani dibaca ulang:
+"Sela."
 
-"Aku tak tahu kamu siapa. Namun kamu keluarga yang jaga keluarga. Jadi aku tunggu kamu cerita, apa pun bentuk kamu nanti."
+"Itu baru kenapa kedua. Masih ada satu."
 
-Dia meniup debu kapurnya, membalik papan ke sisi resmi, dan mulai menyiapkan bubur pagi. Di dapur barak, air sudah dia taruh semalam, dan hari itu dia masak tiga porsi — seperti tiga bulan terakhir ini, seperti yang dibutuhkan badan yang menyimpan seseorang yang sedang membayar sesuatu dengan dirinya sendiri. Uap bubur naik pelan di cahaya pagi yang masih ragu, dan untuk sesaat, dapur kecil itu terasa seperti satu-satunya tempat di Caldrest yang berhenti menghitung.
+Renn menutup mata sesaat. Saat membukanya lagi, tatapannya tetap tajam, tetapi kelelahan mengikis bagian tepinya. "Kepalaku kosong di situ."
+
+Sela berhenti.
+
+Mereka membuat aturan itu setelah terlalu banyak cerita Renn tidak cocok satu sama lain. Jika ada lubang dalam ingatan, ia harus menyebut lubang, bukan mengisinya dengan kebohongan. Kalimat tadi mengikuti aturan, tetapi tidak menjawab apa pun. Renn tahu ke mana ia pergi. Sela yakin. Namun ia juga tahu kapan sebuah aturan sedang dipakai sebagai pintu tertutup.
+
+"Baik," katanya. "Ganti pertanyaan."
+
+Ia mengambil papan tulis kecil. Ketika berbalik, matanya melewati Renn dan menemukan kasur kosong. Selama satu denyut, ia lupa mengapa gelas kedua berada di tangannya.
+
+Lalu Renn batuk.
+
+Sela hampir menjatuhkan papan.
+
+Ia menatap wajah kakaknya, memaksa setiap bagian masuk ke kepala: rambut hitam yang perlu dipotong, bekas luka kecil di dagu, garis letih di bawah mata, satu serpih debu pada kerah. Semuanya ada. Hanya perhatiannya yang tadi meluncur pergi seperti air dari batu berminyak.
+
+"Apa?" tanya Renn.
+
+Sela menulis satu kata baru di bawah angka dua puluh tujuh.
+
+*Luput.*
+
+"Tidak ada."
+
+"Kamu buruk dalam berbohong."
+
+"Bagus. Berarti mudah diperiksa." Ia duduk berhadapan dengannya. "Aku punya dua puluh tujuh perbedaan sejak musim panen. Mau dengar semuanya atau versi pendek?"
+
+"Versi yang punya bukti."
+
+"Semuanya punya bukti."
+
+Untuk pertama kalinya pagi itu, sesuatu hampir menyerupai senyum lewat di wajah Renn. Hampir. "Tentu saja."
+
+Sela membacakan delapan butir. Tulisan. Lagu. Kata-kata baru. Cara tidur. Cara melihat batu. Uang. Tubuh yang makin kurus. Garis di lengan. Ia menambahkan kejadian di pintu, meski belum memberinya nomor karena satu kejadian belum menjadi pola.
+
+Renn tidak menyela. Ia juga tidak menyangkal.
+
+"Sekarang jawab," kata Sela. "Kenapa semua berubah bersama-sama?"
+
+"Aku belajar hal-hal yang berbahaya."
+
+"Dari siapa?"
+
+"Bukan jawaban yang bisa kuberikan."
+
+"Garis itu harga belajar?"
+
+Renn melirik lengan kanannya. Kain menutupinya sampai pergelangan, tetapi Sela tahu letak tiap cabang gelap di bawahnya. Mereka mengukurnya bersama. Jika menyentuh siku, dokter tambang harus dipanggil. Tidak boleh ditawar.
+
+"Sebagiannya," jawab Renn.
+
+"Dan tadi? Aku melihat pintu terbuka, tetapi tidak melihat kamu. Itu juga harga?"
+
+Diamnya cukup lama untuk menjadi jawaban.
+
+Sela merapatkan jari pada bingkai papan. Takut menyuruhnya berhenti. Penasaran menyuruhnya membongkar semua. Keduanya sama keras kepala.
+
+"Renn," katanya, lebih pelan. "Kalau kamu bukan Renn, dia di mana?"
+
+Di luar, roda troli menghantam sambungan rel. Suaranya menembus dinding, lalu menjauh. Renn tidak tertawa. Tidak marah. Tidak bertanya dari mana gagasan itu datang. Ia hanya memandang Sela seolah pertanyaan itu telah lama menunggu di antara mereka dan akhirnya mendapat nama.
+
+"Renn tidak hilang," katanya. "Aku jaga semua yang tersisa."
+
+Sela menunggu kelanjutan. Tidak ada.
+
+"Itu jawaban setengah."
+
+"Memang."
+
+"Kamu sengaja memberiku setengah?"
+
+"Setengah yang benar lebih baik daripada utuh yang palsu."
+
+Kalimat itu terdengar seperti Renn sekarang: pendek, rapi, menyebalkan karena sulit dibantah.
+
+"Yang tersisa itu apa?" tanya Sela.
+
+Renn menurunkan pandangan pada gelas damar di tangannya. "Kebiasaan tubuh. Beberapa ingatan. Utang. Janji. Kamu."
+
+Dada Sela mengencang pada kata terakhir. Ia membencinya. Bukan kata itu—cara kata itu membuat amarahnya kehilangan satu kaki.
+
+"Kamu menjaga aku karena janji?"
+
+"Pada awalnya mungkin begitu."
+
+"Sekarang?"
+
+Renn mengangkat mata. "Sekarang karena kamu Sela."
+
+Ia tampak terlalu lelah untuk membuat jawaban bagus. Karena itu Sela mempercayainya.
+
+Tetap saja jahitannya terlihat. Ada bagian sebelum *awal*, ada orang di balik *aku*, dan ada alasan garis hitam terus merambat. Semua sengaja ditinggalkan di luar percakapan.
+
+"Tidak," kata Sela.
+
+Renn menunggu.
+
+"Itu belum cukup. Tapi oke. Untuk sekarang."
+
+"Untuk sekarang," ulangnya.
+
+Sela menunjuk kasur. "Tidur. Setelah bangun, kita ukur garisnya."
+
+"Kamu memberi perintah terlalu banyak."
+
+"Kamu menaati terlalu banyak. Itu bukan salahku."
+
+Renn berbaring tanpa membantah lagi. Biasanya ia membutuhkan waktu untuk diam; pagi itu matanya tertutup sebelum Sela selesai menarik selimut ke bahunya. Satu tangannya tetap dekat tepi kasur, mudah dijangkau jika harus bangun cepat.
+
+Kaki kirinya tadi melewati ambang lebih dahulu. Sela baru mengingatnya sekarang.
+
+Kebiasaan lama.
+
+Ia belum tahu apakah itu menenangkan.
+
+***
+
+Sela membawa ember kosong ke klinik setelah matahari naik di balik asap tungku. Ia tidak membutuhkan air. Namun orang yang ditemukan dari lorong B duduk di bangku depan setiap pagi, dan Sela membutuhkan pembanding.
+
+Orang itu ada di sana, memegang mangkuk kayu dengan kedua tangan. Tubuhnya tampak sehat. Matanya mengikuti gerobak yang lewat. Ketika petugas klinik menjatuhkan kain lap, ia membungkuk mengambilkannya. Gerakan biasa. Wajah biasa. Senyum terima kasih yang biasa.
+
+Tak seorang pun menyebut namanya.
+
+Di meja dekat pintu terbuka, buku penerimaan klinik tergeletak di samping botol obat. Sela berhenti seolah hendak memperbaiki ikatan rambutnya. Satu baris diberi tanda merah. Nomor regu dapat dibaca. Lorong dapat dibaca. Jam masuk dapat dibaca.
+
+Nama di tengah baris itu tidak mau tinggal.
+
+Sela mulai dari huruf pertama. Pandangannya sampai ke huruf kedua, lalu tiba-tiba ia sedang membaca angka di kolom sebelah. Ia mencoba lagi. Hasilnya sama. Tinta tidak kabur; matanya tidak sakit. Perhatiannya menolak berada di sana.
+
+"Kamu cari siapa?" tanya petugas klinik.
+
+Sela menunjuk baris merah. "Orang ini namanya siapa?"
+
+Petugas itu menunduk. Bibirnya terbuka. Dahinya berkerut.
+
+"Korban dari lorong B," katanya akhirnya.
+
+"Itu bukan nama."
+
+"Ambil airmu, Sela. Jangan mengganggu."
+
+"Kalau dia keluar, bagaimana kamu memanggilnya pulang?"
+
+Petugas menatap buku sekali lagi. Wajahnya berubah jengkel, tetapi bukan kepada Sela. "Dia tidak keluar."
+
+Jawaban buruk untuk menutup pertanyaan buruk.
+
+Sela menoleh ke bangku. Orang dari lorong B sedang memandangnya. Bukan kosong. Bukan bingung. Ia tampak memahami percakapan itu sepenuhnya. Ia mengangkat satu tangan sebagai salam.
+
+Sela membalas, lalu mengambil ember air yang sudah ditaruh petugas di dekat pintu.
+
+Lima langkah setelah meninggalkan klinik, ia mencoba mengingat wajah orang itu dan hanya mendapat mangkuk kayu serta sepasang tangan. Ia berhenti. Berbalik. Orang itu masih di bangku, masih nyata, masih memandang jalan.
+
+Renn tadi juga masih nyata.
+
+Pikiran itu membuat Sela berlari pulang sampai air dari ember pinjamannya menampar betis. Ia membuka pintu barak dan langsung mencari kasur.
+
+Renn ada di sana. Napasnya tipis tetapi teratur. Tangan dekat tepi kasur. Rambut hitam. Bekas luka di dagu. Garis di lengan kanan tersembunyi kain.
+
+Sela duduk di lantai dan mengeluarkan papan tulis.
+
+Sisi depan penuh angka: utang, jatah gandum, ukuran *Hourglass*, dua puluh tujuh perbedaan, dan kata *luput*. Semua yang berubah berada di sana, terbuka untuk diperiksa.
+
+Ia membalik papan.
+
+Sisi belakang hampir bersih. Sela mengangkat kapur dan menulis judul kecil di sudut atas:
+
+*Yang tidak berubah.*
+
+Ia mulai dengan hal yang dapat dibuktikan.
+
+*Kaki kiri lebih dulu melewati ambang.*
+
+*Mencuci gelas damar setelah kupakai.*
+
+*Menyisakan bagian bubur yang tidak gosong untukku.*
+
+*Memeriksa kait jendela dua kali saat angin timur.*
+
+*Tidak menambal lubang ingatan dengan cerita palsu.*
+
+Ia berhenti pada butir kelima. Renn yang sekarang kadang memakai aturan untuk bersembunyi, tetapi ia masih menghormati bentuknya. Itu belum baik. Itu juga belum hilang.
+
+Di bawah daftar, Sela menulis lebih lambat:
+
+*Aku akan menunggu sampai kamu bisa memberi jawaban utuh. Apa pun bentuknya.*
+
+Ia membaca kalimat itu sekali, lalu menghapus kata *bisa* dan menggantinya dengan *mau*. Kemampuan dan kemauan tidak boleh dicampur. Maera pasti setuju.
+
+Dari kasur terdengar tarikan napas lebih dalam. Sela membalik papan ke sisi depan sebelum Renn membuka mata.
+
+"Sudah berapa lama aku tidur?" tanyanya.
+
+"Belum cukup."
+
+"Itu bukan angka."
+
+"Bagus. Berarti kamu harus tidur lagi sampai aku punya angka yang kusukai."
+
+Mata Renn tertutup kembali. Kali ini Sela tetap memandang sampai napas berikutnya datang.
+
+Di dapur bersama, ia mengisi tiga mangkuk bubur: satu untuk dirinya, dua untuk Renn. Mangkuk ketiga biasanya disebut tambahan. Mulai pagi itu, Sela menaruhnya sejajar dengan dua yang lain, bukan di dekat panci.
+
+Lalu ia kembali ke kamar, meletakkan papan dengan sisi belakang menghadap dinding, dan mencatat jam Renn pulang sebelum ingatan pagi itu sempat memilih bagian mana yang hendak dilepaskan.

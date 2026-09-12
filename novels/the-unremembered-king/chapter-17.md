@@ -3,80 +3,256 @@ title: "Bab 17: Data yang Terlalu Rapi"
 chapter: 17
 ---
 
-Survei Guild tiba di lorong B pada hari kesembilan belas, dan Ashvarok, sesuai kesepakatan, berdiri dua langkah di belakang kotak kayu itu sebagai "tenaga bantu resmi" — jabatan yang dibayar tinggi, dicatat legal, dan tak memberinya hak bicara kecuali ditanya.
+Jarum Guild menyelesaikan satu putaran tanpa bergeser.
 
-Upah tenaga bantu ternyata datang dengan aturan main yang tak ditulis. Jangan sentuh alat, jangan duduk di kotak, dan jangan bertanya kenapa Guild mengukur lorong yang tak punya seam dua kali lebih lama daripada seam yang punya. Ondar, dibayar untuk mengangkut inti bor, menjalankan tugasnya dengan ketulusan orang yang baru pertama kali dekat-dekat orang ungu. Setiap kali Maera memberi instruksi, dia mengangguk dua kali dan menambahkan "siap, Assayer" seperti prajurit magang. Ashvarok mengamatinya sekali dan menyimpan satu catatan kecil. Anak muda ini pulih dari malam-malamnya dengan cara yang sehat — takut sedikit, lupa banyak.
+Maera Tull mengangkat silinder lilin dari alat perekam, memeriksa alur tipis di permukaannya, lalu memasangnya kembali. Roda kuningan berderik. Ujung jarum turun ke lilin. Di lorong B, tetes air jatuh dari langit-langit dan pecah di atas rel mati; roda gerobak rusak menahan debu seperti tulang rusuk yang terbuka.
 
-Maera bekerja seperti orang yang membongkar jam. Satu lapisan per waktu, tak ada alat yang dilempar, tak ada ekspresi yang bocor. Inti bor diambil dari dinding lorong B dengan presisi yang membuat Ondar — ditugaskan mengangkut — berbisik bahwa assayer itu lebih sayang batu daripada manusia. Lilin silinder perekam diputar pelan, jarum menggores jalannya sendiri, dan bunyi jarum itu seperti orang menulis surat yang tak yakin mau dikirim ke mana.
+Jarum berputar sekali lagi.
 
-Ashvarok sudah tahu apa yang akan dia temukan. Dia yang menutup pintunya; dia yang tahu bunyi jarum akan berhenti menemukan napas.
+Tetap lurus.
 
-Yang tak ia hitung adalah betapa cepat Maera menyadarinya.
+Ashvarok berdiri enam langkah darinya dengan peti inti bor di kedua tangan. Beban itu tak sampai dua puluh pon. Tubuh pinjamannya memperlakukan berat tersebut seperti utang yang sudah lewat jatuh tempo. Sejak penutupan, warna lampu tampak dicuci abu, udara dingin mencapai tulang lebih cepat, dan orang-orang perlu satu detik tambahan untuk menyadari keberadaannya.
 
-"Aneh." Kata pertama pagi itu, setelah empat puluh menit bekerja. Ia memegang lilin silinder terakhir ke arah lampu, membaca goresan-goresan seperti membaca tulisan tangan. "Seminggu sebelumnya, titik ukur yang kutandai menghasilkan irama jelas. Tiga detik tarik, tiga detik diam — kamu ingat, kau yang memberi titiknya." Ia memutar lilin itu lagi. "Kemarin sore, iramanya melemah setengah. Malam ini—" ia menurunkan tangannya, "—tak ada. Bukan lemah. Tidak ada. Gema batunya normal sempurna, seperti lorong mana pun yang tak punya cerita."
+Satu detik cukup untuk lolos dari pengawasan. Satu detik juga cukup untuk jatuh tanpa ada yang menangkap.
 
-"Batuan bisa begitu?" tanya Ashvarok, dengan rasa ingin tahu yang disetel pada tingkat yang benar: cukup untuk pekerja bantu, tak cukup untuk rekan.
+"Putar lagi," kata Maera.
 
-"Batu tidak sembuh." Maera meletakkan lilin itu ke dalam kotaknya, dan gerakan itu lebih hati-hati dari biasanya. "Retakan yang bocor bisa tertutup sedimen dalam ratusan tahun. Anomali gema tak hilang dalam dua malam. Kecuali..."
+Ondar, yang berjongkok di dekat engkol, menatap silinder. "Sudah tiga kali."
 
-Ia berhenti. Dan Ashvarok melihat — dengan kejelasan yang tak ia minta — junior assayer itu berdiri tepat di ambang sebuah kalimat, menimbang apakah kalimat itu layak diucapkan di depan seorang anak tambang.
+"Karena itu saya bilang lagi, bukan pertama kali."
 
-"Kecuali ditutup," selesai Ashvarok, karena diam yang panjang lebih berbahaya daripada kata-kata. "Itu maksud Ibu Assayer, kan? Kecuali ditutup orang."
+Ondar memutar engkol. Roda kuningan kembali berjalan. Ia berusaha menjaga putaran tetap rata, tetapi matanya berulang kali menuju ujung gelap lorong, ke gerobak tempat seorang penambang duduk dua hari lalu sambil tersenyum karena tak tahu dunia telah melepas namanya.
 
-"Jangan panggil saya ibu. Saya umurnya dua puluh tiga." Maera menoleh, dan matanya melakukan hal yang biasa: menghitung. Kali ini, Ashvarok yakin, yang dihitung adalah dirinya. "Namun benar. Ada dua kemungkinan. Satu. Data minggu lalu salah, alat saya bocor, irama tiga detik itu hanya gemuruh troli yang kebetulan berirama. Dua. Data benar, dan seseorang menutup lubang itu antara kemarin sore dan hari ini."
+Ashvarok meletakkan peti di atas batu datar. Bunyi kayunya membuat Ondar menoleh terlalu cepat.
 
-"Kemungkinan mana yang Ibu— yang Assayer pilih?"
+"Renn. Dari tadi kamu di situ?"
 
-"Keduanya buruk." Maera duduk di atas kotak alatnya, dan postur assayer itu tampak lelah dengan cara yang tak prosedural, hal yang belum pernah Ashvarok lihat padanya. "Kalau data salah, berarti metode saya salah, komisi ini gagal, dan saya pulang bawa laporan kosong. Kalau data benar..." Dia menatap dinding lorong B — dinding polos, tanpa tirisan garam, tanpa apa pun. "...maka ada orang di tambang ini yang bisa menutup anomali gema kelas Testament dengan tangan kosong dalam satu malam. Dan orang itu tak masuk daftar pegawai siapa pun."
+"Saya yang bawa petinya."
 
-Lorong B sunyi di sekitar mereka, sunyi yang benar-benar hanya sunyi batu, dan Ashvarok merasakan kepuasan aneh bercampur bahaya seperti minum air yang terlalu dingin.
+Ondar melihat peti, lalu tangan Ashvarok, seakan hubungan antara keduanya baru saja disusun di depannya. "Ya. Benar."
 
-Ia menimbang tiga pintu keluar dari percakapan ini. Pintu pertama. Diam dan biarkan junior assayer menggulir sendiri kemungkinan-kemungkinannya sampai salah satu menyentuh nama Renn — lambat, tetapi pasti, seperti air merobek jalan. Pintu kedua. Arahkan dia ke musuh yang benar, the Choir, supaya mata tajamnya sibuk memotret kapal yang memang layak ditenggelamkan. Pintu ketiga. Ceritakan sebagian kebenaran, cukup untuk menjadi rekan yang tak tergantikan, tak cukup untuk menjadi tersangka.
+Maera tidak ikut menoleh. "Pertahankan kecepatannya. Kalau berubah, kita ulang dari awal."
 
-Dia sudah memilih pintu ketiga sejak babak persimpangan minggu sebelumnya. Yang dilakukan sekarang hanya menjaga agar kakinya tetap di jalurnya.
+Silinder menyelesaikan putaran keempat. Jarum hanya merekam tetes air, getar pipa ventilasi, dan derit kecil pada roda gerobak ketika batu di bawahnya menerima beban. Tidak ada tarikan tiga detik. Tidak ada jeda. Tidak ada gema yang naik kembali seperti paru jauh di bawah tanah.
 
-"Ada satu data lagi," kata Maera akhirnya, bangkit, membersihkan debu dari rok kerjanya dengan dua tepukan yang sama panjang. "Dan ini yang membuat saya tak tidur kemarin. Doktrin resmi the Resonant Choir tentang anomali kedalaman — buku pegangan klasifikasi, edisi yang diedarkan ke semua biro lisensi — menyebut jenis pembacaan seperti milikku minggu lalu dengan istilah "murmur semu". Gema liar dari formasi tua yang tak berbahaya dan akan hilang sendiri." Ia membuka map bersampul birunya, memperlihatkan satu halaman yang sudut-sudutnya lusuh dibaca. "Hilang sendiri, tanpa jejak, tanpa bekas, dalam hitungan pekan. Persis seperti yang terjadi di sini."
+Ashvarok sudah tahu apa yang tidak akan mereka temukan. Ia menutup mulut itu dua malam lalu dengan tubuhnya sendiri. Napas nama telah berhenti; batu kembali menjadi batu. Ia sengaja membiarkan Maera membaca kehilangan tersebut. Kini ia perlu mengetahui harga yang ditetapkan assayer itu untuk sebuah angka yang lenyap.
 
-"Nah, beres kan?" kata Ashvarok. "Data kemarin salah. Kata bukunya."
+Maera mengangkat jarum. "Ganti kaki penyangga kiri dengan yang pendek."
 
-"Kata bukunya." Maera menutup map itu perlahan. "Nah sekarang hitung bersama saya, karena angka adalah satu-satunya bahasa yang tak bisa berbohong tanpa ketahuan. Murmur semu muncul di wilayah timur rata-rata sebelas kali setahun. Semua tercatat hilang sendiri. Semua lokasi ditutup dokumen Choir sebagai tak berbahaya." Ia mengangkat satu jarinya. "Termasuk satu lokasi di utara Karvess, delapan belas tahun silam, yang ternyata — menurut catatan sipil yang tak dikendalikan Choir — kehilangan satu kabupaten penuh penduduknya dari pembukuan."
+"Lantainya miring ke kanan," kata Ondar.
 
-Ashvarok menjaga wajahnya tetap berupa wajah bocah yang mendengarkan cerita menakutkan di ruang tunggu. Di dalam, sesuatu yang seribu tahun usianya mencatat kata utara dan kabupaten penuh, dan menyimpannya di samping nama keluarga yang tak pernah diceritakan junior assayer ini padanya.
+"Saya sedang menguji apakah kamu benar."
 
-"Jadi bukumu," kata Ashvarok pelan, "buku yang bilang semua aman... ditulis oleh orang-orang yang sama dengan yang menutup mata?"
+Ondar membuka tas alat. Jemarinya menyentuh tiga kaki kuningan sebelum memilih yang diminta. Maera memasangnya, meratakan alat dengan bejana air kecil, lalu memindahkan seluruh dudukan sejauh satu hasta. Setelah itu ia mengusap permukaan lilin sampai bersih dan menyuruh Ondar memutar lagi.
 
-"Sekarang kau paham kenapa saya tak tidur." Maera mengemas kotaknya, satu per satu, rapat. "Setiap kali data lapangan cocok sempurna dengan klaim resmi, ada dua kemungkinan. Dunia sedang baik-baik saja, atau seseorang sudah bekerja lebih dulu supaya dunia kelihatan baik-baik saja. Hari ini datanya cocok sempurna. Dan aku tak percaya kebetulan yang selamat waktu."
+Hasilnya sama.
 
-"Assayer lain tak pernah curiga?"
+Maera menguji pegas jarum dengan resonance fork. Nada tinggi membuat air di dinding bergetar. Jarum menyimpang empat garis, tepat sesuai cap kalibrasi. Ia menukar silinder, mengganti ujung jarum, dan menyuruh Ashvarok mengetuk dinding pada jarak yang ditandainya.
 
-"Perjalananku ke Caldrest adalah komisi pertamaku. Sebelum ini aku menimbang karung di meja dekat pintu." Senyum kecil, satu detik, seperti goresan pensil. "Senior-senior saya membaca buku klasifikasi yang sama selama puluhan tahun dan menandatangani apa pun yang sudah ditandatangani orang sebelum mereka. Itu bukan kebodohan; itu pensiun yang nyaman. Aku belum cukup tua untuk menginginkannya."
+"Tiga ketukan. Jeda tiga detik. Tiga lagi," katanya.
 
-Mereka naik bersama ke persimpangan, tenaga bantu dan assayer, dua pembawa barang yang tak saling melihat. Di tengah tangga, Maera berkata tanpa menoleh:
+Ashvarok melakukannya. Alat menangkap keenam ketukan dengan alur bersih.
 
-"Pertanyaan saya yang tak akan masuk laporan. Kalau anomali itu benar ditutup orang — penutupnya pakai apa? Alat Guild tak punya metode. Tradisi Sects tak punya. Bahkan pengikat Chorus-tier butuh sembilan hari dan artefak pengikat untuk pekerjaan sekelas itu."
+"Jadi alatnya bekerja," kata Ondar, lega karena menemukan ketakutan yang bisa dikecilkan menjadi sekrup dan pegas.
 
-"Mungkin penutupnya kecil," kata Ashvarok. "Orang kecil, celahnya juga kecil."
+"Alat ini bekerja," jawab Maera. "Itu bukan jawaban yang sama."
 
-"Mungkin." Bunyi langkah Maera berubah sepersekian di anak tangga — hampir tersendat, hampir tertawa, hampir marah, tak jadi mana-mana. "Tahu tidak, Renn, apa yang paling menggangguku dari semua ini? Bukan anomalinya. Bukan Choir-nya. Waktu penutupan."
+Ia mengambil inti bor pertama dari peti. Sampel itu berasal dari lubang baru di dinding lorong B, dua belas hasta di atas titik bocor yang telah ditutup. Maera membungkus separuhnya dengan kain, menempelkan separuh lain ke cinder-glass pembaca, lalu menutup mata.
 
-"Waktu?"
+Tidak ada perubahan di wajahnya. Hanya ibu jarinya bergerak mengikuti serat batu, lambat, berhenti, lalu kembali ke pangkal.
 
-"Tepat semalam sebelum survei saya turun ke lorong ini." Assayer itu berhenti di bibir cahaya persimpangan, siluet di depan lampu-lampu kuning, dan suaranya datar seperti membaca angka. "Seseorang menutup pintu itu tepat sebelum saya tiba untuk membukanya. Entah dia sangat mengenal jadwal Guild... atau dia duduk di ruangan yang sama dengan saya waktu surat komisi itu dibaca."
+"Rata," katanya.
 
-Dia melanjutkan naik, dan Ashvarok mengikutinya, dan di antara mereka berdua ada empat anak tangga yang ditempuh tanpa satu pun kata — empat anak tangga tempat kebohongan terbaik Ashvarok bergeser sedikit dari posisinya, tak jatuh, tetapi tak lagi duduk sepenuhnya nyaman.
+Inti kedua dibaca lebih lama. "Rata."
 
-Di persimpangan, Maera membuka buku catatan pribadinya sekali lagi, menulis satu baris yang tak ia bacakan, dan menutupnya dengan punggung tangan menutupi huruf-hurufnya seperti orang melindungi api dari angin.
+Pada inti ketiga, ia membuka mata sebelum pembacaan selesai. Ia menimbang sampel itu di telapak, membalik ujungnya, dan mengulangi pembacaan.
 
-Ashvarok pulang sore itu lewat jalur panjang — bukan karena perlu, tetapi karena butuh waktu untuk menghitung ulang posisi.
+"Ini dari titik lama?"
 
-Neraca hari itu, ditimbang dengan jujur di kepala yang setengah dingin. Pertukaran informasi dengan Maera sudah berjalan lebih jauh dari rencana. Dia sekarang tahu anomali itu ditutup tangan manusia dalam satu malam, tahu waktunya persis sebelum surveinya, dan — yang paling berbahaya — dia mulai bertanya dengan cara yang bukan pertanyaan. Assayers' Guild tak menyerang dengan tuduhan. Ia menyerang dengan data, dan data Ashvarok sendiri yang sedang dipakai sebagai senjata.
+"Bor pagi ini," kata Ondar. "Saya lihat sendiri."
 
-Tetapi ada sisi lain yang tak boleh dilupakan. Junior assayer itu baru saja mengaku, dengan kalimat-kalimat yang diselipkan seperti benang dijahit malam, bahwa dia tak percaya pada buku resmi secte-nya sendiri. Orang-orang utara yang hilang delapan belas tahun silam sudah masuk ke hitungannya. Jika suatu hari Ossian Vael datang ke Caldrest dengan sampul abu dan senyum yang disetrika — Maera Tull akan menjadi orang pertama yang mencium kebohongan itu, dan Ashvarok ingin berada di dekatnya saat itu terjadi.
+"Bukan yang itu. Yang dibungkus hitam di kotak kecil."
 
-Musuh potensial, mitra sewa-menyewa, dan sekarang: alat deteksi kebohongan yang tak bisa dibeli dengan uang mana pun.
+Ondar mencari di antara kain dan pengganjal kayu. "Tidak ada kotak kecil."
 
-Dia memasuki barak ketika langit sudah gelap, dan di meja, Sela sudah menyiapkan makanan untuk tiga orang. Aroma bubur hangat menyambutnya lebih dulu daripada adiknya — bau yang menempel di dinding barak seperti tanda bahwa rumah ini, berapa kalipun tipis, tetap dijaga. Di pojok bawah papan tulis, kolom Hourglass mendapat entri baru dengan tulisan kecil yang bukan angka:
+"Ada di tas saya. Ambil. Jangan buka kainnya."
 
-"Garisan sama. Kamu pulang lebih pagi. Bagus."
+Ondar merangkak ke luar lorong menuju meja perlengkapan di persimpangan. Begitu bunyi sepatunya hilang, Maera menghadap Ashvarok.
 
-Ashvarok membacanya dua kali, dan untuk sesuatu yang seribu tahun usianya, dua kata terakhir itu terasa seperti upah yang belum pernah diberikan siapa pun.
+"Apa yang kamu lakukan?"
+
+Ia menanyakan itu tanpa meninggikan suara. Tidak ada tuduhan pada nadanya, hanya ruang kosong yang telah diukur dan menunggu diisi.
+
+"Mengangkut peti. Mengetuk dinding."
+
+"Saya punya rekaman dari titik yang kamu tunjukkan. Tiga detik naik, jeda, tiga detik naik. Saya mengambilnya empat kali sebelum alat dikemas dua malam lalu. Pagi berikutnya, nol. Hari ini, tetap nol." Maera menunjuk lantai dengan dagunya. "Bukan turun. Bukan berpindah. Berhenti."
+
+"Batu berubah."
+
+"Batu berubah dengan meninggalkan akibat. Tekanan pindah. Air mencari jalan lain. Serat pecah. Gema melemah dari tepi sebelum pusatnya mati." Maera mengetuk sisi alat perekam. "Ini bukan bekas penyakit yang sembuh. Ini bekas sesuatu yang dipotong rapi."
+
+Ashvarok menatap alur lurus pada lilin. Seribu tahun lalu, pembaca istana membutuhkan tiga ruang instrumen dan dua belas teknisi untuk menghasilkan kesimpulan yang sama. Maera Tull sampai ke sana dengan satu kotak kayu, satu gulung lilin, dan ketidakmampuan membiarkan angka patuh tanpa alasan.
+
+"Mungkin pembacaan awalmu salah," katanya.
+
+"Tidak."
+
+"Jawaban cepat."
+
+"Saya menghabiskan dua hari membuktikannya lambat."
+
+Langkah Ondar terdengar kembali. Maera menutup percakapan dengan satu gerak tangan, lalu menerima kotak kecil darinya. Kain hitam di dalamnya memegang inti bor tua dari Anthema Spire—sampel yang telah menjawab hitungan tiga detik di kamar terkunci sebelum ia berangkat ke Caldrest.
+
+Maera meletakkan inti lama di samping inti baru. Bentuknya serupa, tetapi batu lama lebih pucat pada tepi, bekas pengeborannya sudah tumpul karena perjalanan. Ia meminta Ondar mematikan lampu kedua. Lorong menyusut menjadi lingkaran cahaya dari lampu kerja, cukup kecil untuk membuat gelap di ujung buntu terasa maju.
+
+"Pegang cinder-glass ini," katanya kepada Ondar. "Jangan pindahkan tangan meski terasa dingin."
+
+"Seberapa dingin?"
+
+"Kalau berbahaya, saya tidak akan memberikannya kepadamu."
+
+Ondar menerima keping itu dengan kehati-hatian orang yang tidak sepenuhnya percaya pada definisi bahaya milik Guild.
+
+Maera menempelkan inti lama ke satu sisi kaca, inti baru ke sisi lain. Cahaya lampu pecah menjadi dua garis: garis pertama berdenyut samar, menguat, lenyap, lalu menguat lagi; garis kedua tetap tipis dan mati.
+
+Ondar menahan napas. "Yang kiri seperti—"
+
+"Jangan beri nama sebelum dihitung."
+
+Mereka menghitung dalam diam. Tiga detik. Jeda. Tiga detik. Pola pada inti lama bertahan, tersimpan dalam batu seperti memar yang menolak pudar. Inti baru tidak menjawab.
+
+Maera mengambil kembali cinder-glass. "Pembacaan awal benar. Sumbernya tidak ada lagi."
+
+"Kalau sudah tidak ada, itu kabar baik, kan?" tanya Ondar.
+
+"Untuk orang yang bekerja di lorong ini, ya."
+
+"Untuk siapa itu kabar buruk?"
+
+"Untuk orang yang harus menandatangani kenapa sesuatu hilang tanpa sebab."
+
+Ondar mengusap telapak pada celananya. "Mungkin jangan tulis bagian itu."
+
+Maera memandangnya.
+
+"Maksud saya, kalau aman," lanjutnya. "Semua orang mau aman. Tuliskan aman."
+
+Ashvarok mengenali logika tersebut. Kerajaan runtuh di atas logika yang sama, hanya dengan meja lebih besar dan tinta lebih mahal.
+
+Maera menyalakan kembali lampu kedua. "Bawa tiga inti baru ke meja persimpangan. Nomori sesuai lubang. Setelah itu tunggu dekat tangga. Jangan biarkan siapa pun menyentuhnya."
+
+"Bagaimana dengan yang lama?"
+
+"Yang lama milik arsip saya."
+
+Ondar memasukkan sampel baru ke peti. Sebelum pergi, ia melihat ujung lorong sekali lagi. "Assayer, orang yang sakit kepala dua hari lalu—dia sakit karena ini?"
+
+"Saya belum punya ukuran untuk menjawabnya."
+
+Jawaban itu tidak menenangkan, tetapi cukup tegas untuk menggerakkan kaki. Ondar mengangkat peti dan pergi. Kali ini Maera menunggu sampai gema langkahnya mencapai tangga.
+
+Kemudian ia mengeluarkan dua buku dari tas. Buku pertama bersampul abu dengan formulir Guild dijahit di dalamnya. Buku kedua lebih kecil, hitam, tanpa lambang.
+
+"Buku klasifikasi Choir menyebut pola semacam ini *murmur semu*," katanya. "Pantulan teratur dari kantong mineral yang menerima gema jauh. Aman. Tidak tumbuh. Tidak punya sumber tunggal."
+
+"Kedengarannya menenangkan."
+
+"Itu fungsi kalimatnya." Ia membuka buku abu pada halaman bertanda. Di sana tercantum diagram gelombang yang terlalu halus, tiap puncak terpisah sama lebar. "Kalau sumber hilang, pantulan semu seharusnya tetap ada selama struktur batu tidak berubah. Struktur di sini tidak berubah. Namun sekarang lapangan cocok sempurna dengan kesimpulan resmi: tidak ada anomali."
+
+"Kau curiga karena hasilnya benar?"
+
+"Saya curiga pada hasil yang baru menjadi benar tepat sebelum saya harus menandatanganinya."
+
+Ashvarok membiarkan diam mengisi satu tarikan napas. Maera belum tahu cara penutupan. Ia tidak tahu ada pintu di balik batu, atau kelaparan di balik pintu, atau bahwa anak yang berdiri di depannya telah membayar separuh the Remainder untuk memutar kunci. Namun ia sudah menemukan bentuk absensi tersebut. Itu lebih banyak daripada yang aman, dan mungkin tepat sebanyak yang dibutuhkan.
+
+"Siapa tahu survei akan datang?" tanyanya.
+
+"Kantor Guild. Pemegang lisensi. Quota Office. Komisi yang mengirim saya." Maera membuka buku hitam. "Dan pihak yang membuka map komisi sebelum cap ungu dipasang."
+
+Ia menunjukkan sketsa halaman peta bawah yang terpotong. Di sampingnya ada salinan kata-kata yang tersisa: *…bukan seam, tolong turunkan…* Pada tepi kertas, ia telah menggambar sehelai benang melintang cap lilin.
+
+"Tin thread," kata Ashvarok.
+
+"Lilin putih keabu-abuan. Izin tanpa nama. Ciri Choir, tetapi ciri bukan tanda tangan." Maera menutup separuh halaman dengan telapak sebelum Ashvarok dapat membaca catatan di bawahnya. Batas yang sengaja dipasang. Bagus. "Itu cukup untuk bertanya, tidak cukup untuk menuduh."
+
+"Lalu kau menemukan tempat ini kosong."
+
+"Saya menemukan tempat ini dibuat kosong. Dalam satu malam, antara rekaman terakhir dan pengukuran ulang."
+
+"Kau tidak punya bukti ada orang di bawah."
+
+"Jejak sepatu bisa dibersihkan. Perubahan tekanan tidak bisa. Karena tak ada perubahan tekanan, siapa pun yang melakukannya tidak menambang sumber itu, tidak memecahnya, dan tidak memindahkannya." Matanya berhenti pada Ashvarok. "Ia menutupnya."
+
+Kata itu jatuh lebih tepat daripada pahat.
+
+Ashvarok mempertimbangkan kebohongan yang tersedia. Menolak akan membuatnya tampak bodoh. Mengaku akan memberi Maera jalan menuju rahasia yang belum sanggup ditanggung tubuhnya jika harus dibungkam. Kebenaran kecil tetap menjadi mata uang termurah.
+
+"Kalau sesuatu bisa ditutup," katanya, "lebih baik kau nilai hasilnya daripada mencari tangan yang menutup."
+
+"Itu nasihat atau pengakuan?"
+
+"Perhitungan. Orang yang menutupnya mungkin tahu kenapa harus cepat. Orang yang membiarkannya terbuka mungkin tahu surveimu datang. Tulis siapa yang untung."
+
+Maera menatapnya tanpa berkedip. "Kamu pernah memberi nasihat itu."
+
+"Masih berlaku."
+
+"Kali ini semua pihak tampak untung. Tambang dapat laporan aman. Guild dapat komisi selesai. Choir dapat klasifikasi yang terbukti. Pekerja dapat lorong tanpa kejadian lain." Ia mengetuk buku hitam. "Itu masalahnya. Data palsu paling tahan lama bukan data yang menguntungkan satu pembohong. Data itu memberi setiap orang alasan untuk tidak membongkarnya."
+
+Dari persimpangan terdengar Ondar memindahkan peti, disusul batuk yang sengaja dikeraskan agar lorong tahu ia masih di luar jangkauan dengar. Anak itu belajar tata krama rahasia lebih cepat daripada yang sehat.
+
+Maera membuka halaman lain. Di sana hanya ada satu baris nama wilayah, tanggal delapan belas tahun lalu, dan angka populasi yang dicoret hingga nol.
+
+"Kabupaten utara," katanya. "Catatan sipil menyebut seluruh permukiman hilang dalam satu musim. Bukan mati. Hilang dari daftar rumah, catatan pajak, dan silsilah setempat. Laporan Choir tiga bulan sebelumnya mencatat pola gema teratur sebagai *murmur semu*. Aman. Tidak tumbuh."
+
+Dingin di punggung Ashvarok tidak berasal dari lorong. Ia mengenal bentuk akibatnya, bukan kabupatennya. Sebuah kebocoran dibiarkan cukup lama dapat memakan lebih dari satu nama. Ia dapat mengosongkan tempat sambil menyisakan jalan, dinding, dan orang-orang yang tidak lagi mampu menjelaskan siapa yang pernah tinggal di sana.
+
+"Satu kasus tidak membuat hukum," katanya.
+
+"Benar. Namun satu kasus membuat kata 'aman' perlu dibuktikan lagi." Maera menyimpan halaman itu sebelum ia bisa melihat lebih jauh. "Saya tidak tahu apakah Choir salah, malas, atau sedang menamai bahaya dengan kata yang membuatnya mudah disimpan. Saya tahu buku mereka gagal sekali. Hari ini, lapangan berubah tepat waktu agar buku itu tampak benar."
+
+"Apa yang akan kau tulis?"
+
+Maera menarik formulir resmi dari buku abu. Pena menyentuh tiga kotak dengan gerakan bersih: struktur stabil, pembacaan aktif nihil, tidak ada seam tambahan yang dapat dinilai. Pada kolom klasifikasi ia berhenti.
+
+"Tidak ada keluaran terukur pada saat survei," katanya sambil menulis. "Bukan *murmur semu*. Bukan aman. Bukan ancaman. Hanya yang bisa dibuktikan hari ini."
+
+"Quota Office akan membaca nihil sebagai aman."
+
+"Quota Office membaca apa pun sebagai angka yang bisa ditagih. Saya tidak mengendalikan kebiasaan buruk mereka."
+
+Ia menandatangani formulir, menaburkan pasir, lalu meniup sisa butir dari tinta. Laporan itu benar. Itulah sisi tajamnya. Tidak ada hasil yang bisa dijadikan alasan menahan produksi, tidak ada seam baru untuk menjelaskan selisih panen, dan tidak ada faktor tak dikenal yang masih memberi keluaran untuk ditulis pada laporan bulanan. Lorong B akan dianggap normal. Orang di atas akan melihat ruang kosong pada tabel dan mencari sesuatu yang dapat ditekan agar angka kembali patuh.
+
+Di Caldrest, sesuatu yang dapat ditekan hampir selalu manusia.
+
+"Laporan itu akan melindungi tambang hari ini," kata Ashvarok.
+
+"Hari ini saja."
+
+"Besok mereka butuh jawaban lain."
+
+"Maka jangan beri mereka jawaban palsu."
+
+Maera mencabut halaman paling bawah dari tindasan kertas karbon. Salinan resmi masuk map abu. Lembar kedua masuk kotak komisi. Lembar ketiga, yang memuat waktu hilangnya sinyal dan perbandingan inti lama, ia lipat dua.
+
+Bukan ke map.
+
+Ia membuka jahitan kecil pada alas tas alat, menyelipkan lembar itu di bawah papan penyangga, lalu mengikatnya kembali dengan benang hitam. Inti lama menyusul ke ruang sempit yang sama. Setelah itu ia menutup buku klasifikasi Choir, membungkusnya dengan tali, dan memasukkannya paling bawah seolah benda tersebut tak lagi layak berada dekat alat ukur.
+
+"Yang resmi menyebut apa yang ada," katanya. "Yang ini menyimpan apa yang hilang."
+
+Ashvarok mengangkat peti alat yang kosong. Tubuhnya goyah sepersekian detik, tetapi Maera sedang menekan cap Guild pada map dan tidak melihat—atau memilih tidak melihat.
+
+Di luar lorong B, Ondar menunggu di samping tiga inti baru. Di atas mereka, jauh melewati lapisan batu, kantor the Quiet Vein sedang menyiapkan laporan bulanan pertama untuk pusat. Mereka akan menerima hasil survei yang bersih, klasifikasi tanpa keluaran, dan satu ruang kosong yang tak bisa diisi batu.
+
+Maera menyerahkan map resmi kepada Ondar, tetapi mempertahankan tas hitam pada bahunya sendiri.
+
+"Bawa ini ke kantor Tharrow," katanya. "Jangan buka. Jangan tambah cerita. Katakan lorong B normal pada saat pemeriksaan. Tepat begitu."
+
+Ondar mengangguk dan mulai naik.
+
+Ashvarok mengikuti dua langkah di belakang. Sebelum meninggalkan persimpangan, ia menoleh. Maera masih berdiri di mulut lorong B, satu tangan menahan tas beralas palsu, menghitung sempitnya jarak antara rekaman terakhir dan pengukuran ulang.
+
+Pertanyaan itu belum ia tulis. Belum perlu.
+
+Ia sudah menyimpan buktinya.

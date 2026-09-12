@@ -7,7 +7,7 @@ Pos pendengar permanen Vhal-Duren dibuka pada hari ke-772, dan pembukaannya tida
 
 Ia dilakukan dengan cara satu-satunya yang pantas untuk tempat itu: gotong royong.
 
-Selama dua pekan, orang-orang datang dari semua arah — pemulangan musim membawa kayu dari pegunungan timur laut (yang ditebang sesuai aturan: pohon muda, dengan izin nat lereng), Lompa dan ibu-ibu Vel-Morra menenun atap dari kain tebal, murid-murid Sekolah Mendengar membangun rumah nat pertama di luar kamp mana pun, dan Kovan menghitung ulang fondasi tujuh kali karena dataran tinggi punya angin yang menurut dia "tidak bisa dipegang hitungannya".
+Selama dua pekan, orang-orang datang dari semua arah — pemulangan musim membawa kayu dari pegunungan timur laut (yang ditebang sesuai aturan: pohon muda, dengan izin nat lereng), Lompa dan ibu-ibu Vel-Morra menenun atap dari kain tebal, murid-murid the Listening School membangun rumah nat pertama di luar kamp mana pun, dan Kovan menghitung ulang fondasi tujuh kali karena dataran tinggi punya angin yang menurut dia "tidak bisa dipegang hitungannya".
 
 Ibu Tamma mendirikan dapurnya di sudut reruntuhan pada hari pertama, tanpa diminta, seperti orang mendirikan tenda di halaman sendiri.
 
@@ -31,10 +31,9 @@ Namanya sendiri.
 
 Yang oleh name train seribu batu disebutkan bukan dalam gelar atau jabatan, tetapi dalam bentuk paling tua di dunia: nama yang lahir dari cerita orang-orang yang punya ceritanya.
 
-*YANG MENDENGAR SAMPAI HABIS.*
+*the Listener to the End.*
 
 Batu bundar itu menerima namanya dengan cara yang membuat tiga ratus orang tertawa dan menangis bersamaan: ia memainkan kembali desis sup — rekaman pertama yang pernah ia minta — sebagai tanda tangan.
-EOF
 ---
 
 Setelah penamaan, satu per satu, tokoh-tokoh memberikan kalimat masing-masing — tradisi yang lahir di perayaan bab 250 dan kini menjadi cara Karvess menutup sesuatu:
@@ -63,10 +62,10 @@ Ibu Tamma: "Dapur pos ini resmi dibuka. Menu pertama: sup kamp. Yang paling lama
 
 Ashvarok-Renn bicara terakhir.
 
-"Saudaraku," katanya, "seribu tahun silam aku membangun segel agar dunia aman dari apa pun yang keluar dari kedalaman. Tiga tahun ini dunia mengajariku hal yang lebih benar: kedalaman tidak perlu ditakuti. Kedalaman perlu didengar. Tujuh saudara kita di bawah sana — Vess-Morath yang menunggu musimnya, Kael-Uthar yang dititip api, Ondrath-Ilm yang menjaga malam, dan engkau yang mendengar sampai habis — kalian bukan ancaman purba yang dikubur sejarah." Ia memberi hormat dua ketukan. "Kalian adalah penjaga-penjaga tertua dunia. Dan mulai hari ini, dunia tahu namamu satu per satu."
+"Saudaraku," katanya, "seribu tahun silam aku membangun segel agar dunia aman dari apa pun yang keluar dari kedalaman. Tiga tahun ini dunia mengajariku hal yang lebih benar: kedalaman tidak perlu ditakuti. Kedalaman perlu didengar. Tujuh saudara kita di bawah sana — Vess-Morath yang menunggu musimnya, Kael-Uthar yang dititip api, Ondrath-Ilm yang menjaga malam, dan engkau the Listener to the End — kalian bukan ancaman purba yang dikubur sejarah." Ia memberi hormat dua ketukan. "Kalian adalah penjaga-penjaga tertua dunia. Dan mulai hari ini, dunia tahu namamu satu per satu."
 ---
 
-Malamnya, api unggun kecil menyala di tengah pos pendengar yang baru — sesuai aturan pegunungan, kayu muda, dengan izin nat lereng — dan tiga ratus orang duduk melingkari batu bundar yang kini bernama Yang Mendengar Sampai Habis.
+Malamnya, api unggun kecil menyala di tengah pos pendengar yang baru — sesuai aturan pegunungan, kayu muda, dengan izin nat lereng — dan tiga ratus orang duduk melingkari batu bundar yang kini bernama the Listener to the End.
 
 Lagu utuh dimainkan sekali lagi. Kali ini bukan sebagai pembuktian, bukan sebagai pengadilan versi sejarah, tidak untuk menagih duka seribu tahun.
 
@@ -86,7 +85,7 @@ Subuhnya, ketika tamu-tamu mulai turun gunung dan pos pendengar pertama Karvess 
 
 *Arc ini dimulai dari halaman yang terpotong. Berakhir di nama yang utuh.*
 
-*Yang belum selesai (dan mungkin memang tidak selesai-selesai, dan mungkin itu justru intinya): seribu jawaban baru 31 dari 4000; surat balasan Pembaca Tua untuk kurir tepatnya masih di laci; kursi sudut kedua jam lima pagi masih kosong kalau muridnya telat; dan dunia, seperti biasa, masih punya lebih banyak pertanyaan daripada jawaban.*
+*Yang belum selesai (dan mungkin memang tidak selesai-selesai, dan mungkin itu justru intinya): seribu jawaban baru 31 dari 4000; surat balasan the Old Reader untuk kurir tepatnya masih di laci; kursi sudut kedua jam lima pagi masih kosong kalau muridnya telat; dan dunia, seperti biasa, masih punya lebih banyak pertanyaan daripada jawaban.*
 
 *Alhamdulillah—* 
 
@@ -122,7 +121,7 @@ Anak itu mengangguk-angguk serius, seperti orang menerima nasihat karier pada um
 "SELALU."
 ---
 
-Dan di bawah tanah, merambat pelan lewat jalur yang tujuh penjaga purba kini gunakan setiap malam seperti tetangga menyapa tetangga, kabar pembukaan pos itu tiba di Caldrest — dan Yang Dulu Sunyi, nat lorong barak utara, menjawab dengan irama yang delapan ratus tahun menjadi irama rumah keluarga the Quiet Vein:
+Dan di bawah tanah, merambat pelan lewat jalur yang tujuh penjaga purba kini gunakan setiap malam seperti tetangga menyapa tetangga, kabar pembukaan pos itu tiba di Caldrest — dan the Once-Silent, nat lorong barak utara, menjawab dengan irama yang delapan ratus tahun menjadi irama rumah keluarga the Quiet Vein:
 
 Irama pintu yang dibiarkan terbuka.
 
@@ -131,9 +130,9 @@ Karena era nama baru dimulai, dan pintu-pintunya — semua pintunya — kini ter
 
 Sebelum lagu terakhir dimainkan, ada satu upacara kecil yang tidak masuk daftar acara resmi — karena yang mengadakannya bukan panitia, tetapi tiga kambing gunung.
 
-Langganan pertama Yang Mendengar Sampai Habis, yang selama dua pekan pembangunan duduk setia di tepi reruntuhan memperhatikan pekerja, mendekat ke batu bundar saat senja tiba. Satu di antaranya — yang tertua, tanduknya paling melengkung — mengangkat kepala dan bersuara sekali: bunyi pendek, kasar, seperti semua suara kambing.
+Langganan pertama the Listener to the End, yang selama dua pekan pembangunan duduk setia di tepi reruntuhan memperhatikan pekerja, mendekat ke batu bundar saat senja tiba. Satu di antaranya — yang tertua, tanduknya paling melengkung — mengangkat kepala dan bersuara sekali: bunyi pendek, kasar, seperti semua suara kambing.
 
-Yang Mendengar Sampai Habis memainkan kembali bunyi itu.
+the Listener to the End memainkan kembali bunyi itu.
 
 Sempurna. Tersimpan. Ditambahkan ke katalog antara desis sup dan tawa dua penjaga yang jatuh dari tangga.
 
@@ -143,7 +142,7 @@ Kambing itu tampak menerima kabar ini dengan ketidakpedulian khas makhluk yang s
 
 Barim mencatat di buku pos pendengar halaman pertama:
 
-*Daftar penghuni tetap Vhal-Duren hari pembukaan: satu seam bernama Yang Mendengar Sampai Habis. Empat pendengar manusia gilir (jadwal terlampir). Satu dapur (tidak bisa ditawar). Tiga kambing (senioritas tertinggi; dibayar dengan roti).*
+*Daftar penghuni tetap Vhal-Duren hari pembukaan: satu seam bernama the Listener to the End. Empat pendengar manusia gilir (jadwal terlampir). Satu dapur (tidak bisa ditawar). Tiga kambing (senioritas tertinggi; dibayar dengan roti).*
 
 *Catatan: delapan puluh tahun silam batu ini punya langganan kambing sebelum punya tamu manusia. Ada pelajaran di situ tentang kesetiaan yang tidak menunggu diakui, tetapi aku belum sanggup merumuskannya. Kovan bilang tunggu sampai kita tua. Ibu Tamma bilang rumuskan sambil masak. Semua orang di dunia ini punya teori soal cara kerja hati, dan semuanya benar, dan semuanya belum lengkap.*
 
@@ -154,7 +153,7 @@ Kebetulan — atau bukan kebetulan, karena pos pendengar memang tidak mengenal k
 
 Seorang anak penggembala dari lereng timur, umur mungkin sepuluh tahun, naik membawa roti dan satu pertanyaan yang sudah disimpannya selama perjalanan: "Kakek saya bilang ada batu baru yang punya nama. Namanya benar-benar panjang seperti itu?"
 
-"Benar," kata Sela. "Yang Mendengar Sampai Habis. Enam suku kata. Kau mau menghitungnya?"
+"Benar," kata Sela. "the Listener to the End. Enam suku kata. Kau mau menghitungnya?"
 
 Anak itu menghitung dengan jarinya, serius, dua kali karena hitungan pertama tidak cocok.
 
@@ -164,4 +163,4 @@ Barim menuliskan kalimat itu di buku pos pendengar, persis di bawah catatan tent
 
 Hari pembukaan resmi ditutup ibu Tamma dengan cara semua hari besar di Karvess ditutup: ia mencuci panci terbesarnya di air dingin dataran tinggi, menggantungnya terbalik di rak dapur pos, dan berkata kepada siapa pun yang masih mendengarkan:
 
-"Dapur pos ini resmi beroperasi. Besok pagi jam lima, sup pertama untuk para penjaga. Yang mendengar sampai habis juga dapat porsi — dia sudah lama tidak makan."
+"Dapur pos ini resmi beroperasi. Besok pagi jam lima, sup pertama untuk para penjaga. the Listener to the End juga dapat porsi — dia sudah lama tidak makan."

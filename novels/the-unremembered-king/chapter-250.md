@@ -3,251 +3,252 @@ title: "Bab 250: Perayaan Dua Ratus Lima Puluh"
 chapter: 250
 ---
 
-Perayaan bab 250 — yang oleh Sela disebut "perayaan seperempat ribu sejarah" — dirayakan di aula Caldrest dengan seluruh tokoh yang pernah menyentuh cerita ini.
+Masalah pertama perayaan tahun pertama era menyapa adalah meja.
 
-Semua. Benar-benar semua.
+Brannoc telah menyambung enam meja aula Caldrest menjadi satu, tetapi bangku terakhir masih menjorok sampai pintu dapur. Setiap kali ibu Tamma keluar membawa panci, orang yang duduk di ujung harus berdiri dan mengangkat bangkunya. Bau First Camp Soup, rempah Aru, dan bubur Kaveth memenuhi ruangan, bercampur dengan aroma kayu panas dari tungku yang dipaksa bekerja dua kali lebih keras.
 
-Ashvarok-Renn (dua penghuni satu tubuh, tuan rumah). Sela (arsiparis kepala, dua belas tahun sekarang). Ibu Tamma (kepala dapur, pemilik kalimat penutup sejarah). Brannoc dan Ondar (mandor tambang the Quiet Vein). Gella (dokter tubuh berdua isi). Sareth Vayin (guru tua). Kovan (penghitung resmi). Barim (penjaga malam yang kini boleh menganggur). Ossian (birokrasi yang belajar). Maera Tull (pembaca angka yang melunasi hutang). Harn (jembatan generasi muda). Lompa (nenek guru menenun). Ulmek (penjaga api pegunungan). Widur dan istri (pasangan pantun selatan). Thessa Vael (dari Spire, datang khusus). Daven dan Pellia (murid pertama). Kembar Tami-Tomi ("jurubicara nat asuhan"). Dan — lewat resonansi nat aula — Kael-Uthar dari selatan, Yang Dulu Sunyi dari lorong barak, nat lereng dari timur, dan Teman (nat asuhan kembar) sebagai perwakilan batu.
+Masalah kedua adalah daftar tamu.
 
-Dua ratus lima puluh bab sejarah dalam satu ruangan.
+Sela berdiri dekat pintu dengan buku arsip di pangkuan. Ia sudah mencentang Brannoc, Ondar, Gella, Sareth Vayin, Kovan, Barim, Ossian, Maera Tull, Harn, Lompa, Ulmek, Widur dan istrinya, Thessa Vael, Daven, Pellia, serta Tami-Tomi. Nama-nama lain hadir lewat getaran nat aula: Kael-Uthar dari selatan dan the Once-Silent dari lorong barak utara.
 
-Dan pembukaannya oleh ibu Tamma, sesuai tradisi:
+Masalah ketiga muncul ketika Ossian membawa gulungan pidato setebal dua jari.
 
-"Makan dulu. Pidato setelahnya."
+Ibu Tamma melihat gulungan itu, lalu menunjuk panci dengan sendok kayu.
 
----
+"Kalau kau membuka itu sebelum semua makan, aku masukkan ke tungku."
 
-Setelah makan — sup Kamp Pertama, sup Aru, bubur Kaveth, puding Vel-Morra: satu meja sembilan budaya — Ashvarok berdiri untuk pidato yang sudah diminta semua orang.
+"Ini sambutan resmi Kantor Penghubung," kata Ossian. "Ada tiga bagian dan satu lampiran."
 
-Ia tidak bawa kertas.
+"Bagus. Kayu bakar kita kurang satu gulung."
 
-"Seribu tahun silam aku membakar namaku karena pikir itu cara terbaik menjaga dunia." Aula hening total. "Delapan bulan silam aku tidur di tubuh bocah tambang dan mendengar dunia menyelamatkan dirinya sendiri lewat lagu, pantun, tenunan, sup, dan tepuk tangan panen."
+Ossian menatap Thessa Vael, mencari dukungan. Perempuan dari Spire itu menarik bangkunya mendekati meja.
 
-Ia memandang Renn — di dalam.
+"Pasal Menyapa mengakui hak tuan rumah mengatur urutan pertemuan," katanya. "Dapur menang."
 
-"Tahun ini kami berdua belajar hal final: dunia tidak diselamatkan oleh pahlawan tunggal. Dunia diselamatkan oleh kota yang saling bertanya 'kamu sudah makan?'."
+Sela mencoret susunan acara yang telah ia tulis rapi. Di baris paling atas, ia mengganti *pidato pembukaan* dengan keputusan ibu Tamma:
 
-Ia mengangkat mangkuknya.
-
-"Dua ratus lima puluh bab sejarah. Dan kesimpulannya hanya satu kalimat:
-
-Kita masih di sini. Semua."
+MAKAN DULU. SEJARAH BISA MENUNGGU SUP DITUANG.
 
 ---
 
-Aula meledak — dan yang terjadi setelahnya tidak bisa disebut pidato lagi, melainkan PERAYAAN BERANTAI: setiap tokoh bangun dan memberi satu kalimat untuk 250 bab sejarah, bergantian tanpa urutan, seperti orang menabur bunga:
+Selama setengah jam pertama, aula tidak membicarakan perang, kedalaman, atau raja yang kembali setelah seribu tahun. Mereka membicarakan mangkuk.
 
-Sela: "Aku masuk cerita ini umur sebelas tahun dengan papan tulis. Aku keluar dari tahun ini dengan keluarga terdaftar resmi. Arsip terbaik hidupku."
+Puding Vel-Morra harus dijauhkan dari Tami-Tomi setelah keduanya mencoba mengambil porsi ketiga. Barim menyatakan mangkuk sup Aru miliknya bocor karena selalu kosong terlalu cepat. Pellia memeriksa dasar mangkuk itu dan menyimpulkan kebocorannya terletak pada pemilik. Di ujung lain, Maera Tull dan Kovan berdebat apakah sembilan hidangan untuk sembilan budaya harus dihitung sebagai sembilan keberhasilan atau satu meja.
 
-Kovan: "Empat ratus jiwa, sembilan belas nat asuhan, dua sekolah, nol yang tertinggal. Angka itu tidak akan pernah aku lupa — dan aku yang paling rajin menghitung."
+"Satu meja," kata Kovan.
 
-Barim: "Aku pernah bilang penjaga malam paling lelah adalah yang bekerja sendirian. Tahun ini aku pensiun dari lelah."
+"Sembilan dapur memberi bahan," bantah Maera. "Angkanya sembilan."
 
-Ossian: "Dulu aku musuh di bab-bab awal. Hari ini aku menandatangani surat keluarga mereka. Birokrasi Karvess berkembang; begitu juga aku."
+"Orang memakannya bersama. Hasilnya satu."
 
-Maera Tull: "Hutang angka lorong tujuh sudah kulunasi — dengan jadi guru hitung resonansi di Sekolah Mendengar. Terima kasih sudah memaksa."
+Maera mengetuk sendok ke bibir mangkuk. "Kalau muridku memberi jawaban seperti itu dalam pelajaran hitung, kukurangi nilainya."
 
-Brannoc: "Lorong sembilan aman. Selama-lamanya. Itu kalimat yang dulu takut kubilang."
+"Kalau muridku menghitung tanpa melihat apa yang dihitung, kukurangi juga."
 
-Gella: "Tubuh berdua isi itu tubuh paling sehat yang pernah kuperiksa. Kesimpulan medis: kasih sayang menyembuhkan."
+Mereka saling menatap, lalu menutup buku masing-masing. Ibu Tamma mengisi ulang mangkuk keduanya tanpa diminta.
 
-Sareth Vayin: "Murid-muridku empat puluh tahun silam sudah pulang ke debu. Murid-muridku sekarang masih hidup dan bertanya. Itu kenapa aku masih mengajar."
+Sela berusaha mencatat percakapan penting, tetapi halaman di pangkuannya terkena setitik kuah ketika Renn menggeser kursi. Ashvarok sedang memegang tubuh mereka; Renn terdengar dari dalam, mengomentari setiap rasa dengan begitu lantang hingga Ashvarok beberapa kali harus mengulanginya untuk meja.
 
-Thessa Vael: "Spire punya Pasal Menyapa karena Caldrest tidak pernah menyerah pada kami. Aku bukti hidupnya."
+"Renn bilang puding ini lebih baik daripada dokumen keluarga kita," kata Ashvarok.
 
-Lompa: "Yang ditenun bersama tidak pernah putus. Termasuk cerita ini."
+Ossian meletakkan sendok. "Dokumen itu mengesahkan Keluarga the Quiet Vein."
 
-Ulmek (lewat nat aula): "Api pegunungan menyala setahun penuh untuk kalian. Dan akan menyala seribu tahun lagi."
+"Renn bilang puding tidak meminta tiga tanda tangan."
 
-Widur dan istri: pantun singkat yang membuat seluruh aula tertawa dan menangis:
+"Puding juga tidak melindungi hak waris, tempat tinggal, dan pengakuan penghuni ganda."
 
-"Ke lembah membawa ketupat,
-ketupat dibungkus daun baru.
-Cerita kita tidak habis,
-karena kita saling hadir selalu."
+Ashvarok terdiam untuk mendengar jawaban dari dalam. "Dia bertanya apakah puding dapat dimasukkan sebagai penghuni kelima."
 
----
+Sela tertawa sampai noda kuah di halamannya melebar. Sehari sebelumnya, segel pada dokumen itu terasa seperti benda paling berat yang pernah ia pegang. Malam ini segel tersebut berada aman di rumah, sementara nama keluarga baru mereka dipakai untuk menggoda seorang pejabat. Rupanya menjadi keluarga resmi tidak membuat mereka lebih khidmat. Hanya lebih sulit dibantah.
 
-Lalu giliran Renn dan Ashvarok — dan mereka melakukan hal yang belum pernah: BICARA BERSAMAAN, dua suara menyatu jadi satu kalimat, di depan semua orang:
+Ketika mangkuk pertama kosong, ibu Tamma mengizinkan pidato dimulai. Ossian meraih gulungannya.
 
-"Seribu tahun menunggu. Delapan bulan mendengar. Satu tahun menyapa.
+"Bukan kau," katanya. "Tuan rumah dulu. Dan pendek."
 
-Dan kalau dunia bertanya siapa kita..."
+Ashvarok berdiri tanpa kertas. Punggungnya tegak seperti saat memberi perintah, tetapi tangannya tetap memegang mangkuk Renn.
 
-Suara itu — kasar dan tenang bergantian menjadi satu —
+"Seribu tahun silam, aku membakar namaku karena mengira satu orang harus hilang agar dunia selamat." Suara percakapan surut. Bahkan sendok Tami-Tomi berhenti beradu. "Ketika bangun di tubuh seorang bocah tambang, aku menemukan dunia tidak menungguku. Kalian menjaganya dengan lagu, pantun, tenunan, hitungan, sup, dan kesediaan mengetuk batu yang lama diam."
 
-"...kita adalah bukti bahwa tidak ada yang hilang selamanya. Tidak ada anak yang didengar sia-sia. Tidak ada rumah yang terlalu penuh untuk satu tamu lagi."
+Ia menoleh kepada Sela, lalu ke pintu dapur, ke meja yang sambungannya tidak rata, dan ke nat aula di dinding.
 
-Sunyi total di aula.
+"Tahun ini mengajariku bahwa dunia tidak diselamatkan pahlawan tunggal. Dunia bertahan karena seseorang bertanya, 'Kau sudah makan?' lalu bersedia mendengar jawaban sebenarnya."
 
-Lalu ibu Tamma bangun, mengangkat sendoknya, dan memberikan vonis final sejarah:
+Ashvarok mengangkat mangkuk.
 
-"DENGAR-SUP-MASIH-HANGAT. MAKAN."
+"Kita masih di sini. Semua."
 
----
+Ketukan pertama datang dari nat aula, dalam dan hangat. Kael-Uthar menjawab dari jauh. the Once-Silent menyusul sepersekian detik kemudian, membuat permukaan sup bergetar dalam lingkaran-lingkaran kecil.
 
-Makan pun dimulai. Dan malam itu aula Caldrest menjadi tempat yang oleh murid-murid Sekolah Mendengar digambarkan dalam tugas menulis mereka dengan kata yang sama:
+Lalu seluruh aula menyentuhkan sendok ke mangkuk.
 
-"rasa rumah".
-
-Renn dan Ashvarok duduk di meja keluarga — Sela di antara mereka (secara fisik hanya satu kursi; secara keluarga cukup), ibu Tamma di ujung, dan nat lorong barak utara "hadir" lewat resonansi dari lorongnya.
-
-Percakapan mereka malam itu tidak masuk arsip resmi. Karena percakapan keluarga tidak untuk arsip.
-
-Namun satu kalimat bocor — dari Sela, kepada Kovan, sambil tersenyum mengantre tambahan sup:
-
-"Kalian tahu apa perubahan terbesar kakakku selama 250 bab?
-
-Dulu dia bertanya 'ada siapa di sana?' karena ingin MENOLONG.
-
-Sekarang dia bertanya 'kalian sudah makan?' karena sudah merasa jadi BAGIAN."
+Sela tidak mencatat bunyinya. Tidak ada ejaan yang cukup tepat.
 
 ---
 
-Dan ketika malam makin larut, semua orang pulang satu per satu — menyapa nat-nat kecil di sepanjang jalan seperti tradisi mengajari — sampai tinggal keluarga the Quiet Vein dan ibu Tamma yang mematikan tungku terakhir.
+Pidato berikutnya seharusnya berlangsung teratur. Kovan telah menyusun daftar. Sela telah memberi nomor. Ibu Tamma bahkan telah menetapkan batas: satu orang, satu kalimat, sebelum makanan dingin.
+
+Aturan itu bertahan sampai Barim.
+
+"Aku pernah bilang penjaga malam paling lelah adalah yang bekerja sendirian," katanya. "Tahun ini aku pensiun dari lelah."
+
+"Kau masih bertugas tiga malam sepekan," kata Gella.
+
+"Aku pensiun dari bagian sendirian."
+
+Gella mengangguk. "Secara medis, itu keputusan yang lebih masuk akal."
+
+Setelah itu, satu kalimat berubah menjadi percakapan. Brannoc menyatakan lorong sembilan aman; Ondar mengingatkannya agar tidak menantang batu dengan kata *selamanya*. Maera Tull mengumumkan hutang angka lorong tujuh lunas karena ia sekarang mengajar hitung resonansi. Sareth Vayin berkata murid-murid lamanya telah pulang ke debu, sedangkan murid-murid barunya masih hidup untuk menyela penjelasan.
+
+"Menyela hanya kalau penjelasannya salah," kata Daven.
+
+"Nah," sahut Sareth. "Bukti hidup."
+
+Thessa Vael mengangkat cangkir. "Spire punya Pasal Menyapa karena Caldrest tidak berhenti mengetuk pintu kami. Aku datang untuk memastikan kalian tahu: pasal itu dipakai. Pekan lalu, dua keluarga yang tak berbagi bahasa menyelesaikan sengketa air dengan makan bersama sebelum sidang."
+
+"Apa putusannya?" tanya Ossian.
+
+"Mereka membangun saluran kedua."
+
+"Berarti aturan hukumnya bekerja."
+
+"Berarti bubur bekerja," kata ibu Tamma.
+
+Ossian membuka mulut, mempertimbangkan perlawanan, lalu mengangkat cangkir kepada dapur. "Catatan resmi akan menyebut keduanya."
+
+Di sebelahnya, Lompa membimbing Tami-Tomi mengikat dua sisa benang. Kedua anak itu menarik ujung masing-masing sampai simpul mengeras dan kain mengerut.
+
+"Lebih kuat," kata Tami.
+
+"Lebih rusak," kata Lompa. Ia menyelipkan kuku ke bawah simpul dan melonggarkannya. "Tenunan harus memberi tempat bagi orang di dalamnya untuk bernapas."
+
+Tomi menahan satu ujung sementara Tami menggerakkan yang lain. Kali ini simpulnya tidak rapi, tetapi kain tetap datar.
+
+"Begini?"
+
+"Begitu. Bergantian bukan berarti salah satu kalah."
+
+Ashvarok menunduk sedikit. Dari perubahan kecil di wajahnya, Sela tahu Renn mengatakan sesuatu dari dalam.
+
+"Apa katanya?" tanya Sela.
+
+"Katanya Lompa seharusnya mengajar kami."
+
+"Aku mengajar siapa pun yang terlalu keras menarik benang," jawab Lompa tanpa menoleh. "Raja termasuk. Bocah tambang juga."
+
+Untuk sekali itu, dua penghuni tubuh tersebut tidak menyampaikan bantahan.
 
 ---
 
-Di jalan pulang menuju barak, Sela berjalan di tengah — tangan kiri dipegang Ashvarok-Renn (secara teknis hanya satu tangan; secara keluarga cukup), dan nat-nat kecil menyala lewat satu per satu seperti lampu jalan yang sadar mereka lewat.
+Kesulitan yang sebenarnya datang saat giliran Renn dan Ashvarok berbicara bersama.
 
-"Kak. Boleh bertanya?"
+Mereka sudah berlatih sejak subuh. Satu detik melihat dengan dua kesadaran pada pagi sebelumnya telah membuat mereka yakin dua suara juga dapat keluar serentak tanpa salah satunya tenggelam. Ashvarok meletakkan mangkuk dan menunggu Renn mengambil bagian yang sama dari napas mereka.
 
-"Kapan pun."
+"Seribu tahun menunggu," kata suara pertama.
 
-"Kalau 250 bab ini disimpulkan jadi SATU kata... kata apa yang kamu pilih?"
+"Delapan bulan mendengar," kata suara kedua, terlambat setengah ketukan.
 
-Ashvarok dan Renn menjawab hampir bersamaan — lalu tertawa karena jawabannya sama:
+Keduanya berhenti. Tami-Tomi menahan tawa dengan telapak tangan.
 
-"PULANG."
+"Ulang," kata Renn melalui mulut yang sama.
 
----
+"Kita telah sepakat tidak memaksa," jawab Ashvarok.
 
-Dan di pintu barak the Quiet Vein, sebelum masuk, Sela berbalik kepada nat lorong dan berkata kalimat yang menjadi penutup resmi bab ke-250:
+"Kak Raja, semua orang menunggu."
 
-"Nat. Terima kasih sudah jadi saksi semua ini dari awal sampai akhir.
+"Mereka sudah menunggu seribu tahun. Satu napas tambahan tidak merugikan."
 
-Nat menjawab dengan irama yang sudah tidak perlu diterjemahkan siapa pun lagi:
+Tawa kecil memecah tegang di meja. Ashvarok menutup mata. Sela melihat jari tangan kanan mereka mengetuk paha: sekali untuk Renn, sekali untuk Ashvarok, lalu jeda. Bukan usaha menyatukan dua orang. Hanya memberi keduanya ruang yang sama.
 
-TERIMA KASIH KEMBALI. DATANG TERUS. RUMAH INI MILIK KITA SEMUA.
+Mereka membuka mata.
 
----
+"Seribu tahun menunggu. Delapan bulan mendengar. Satu tahun menyapa."
 
-Dan di dalam barak, sebelum tidur, satu ritual terakhir keluarga the Quiet Vein — yang akan mereka ulangi setiap malam selama-lamanya:
+Dua suara itu tidak melebur. Nada Renn tetap kasar, nada Ashvarok tetap tenang. Keduanya berjalan berdampingan, seperti benang berbeda yang menahan kain tanpa kehilangan warna.
 
-Ashvarok meniup lilin pertama: "Seribu tahun sudah selesai."
+"Kalau dunia bertanya siapa kami, jawabannya sederhana: kami bukti bahwa rumah dapat bertambah tanpa mengusir penghuni lama."
 
-Renn meniup lilin kedua: "Delapan bulan juga sudah selesai."
+Nat aula bergetar terlalu keras.
 
-Sela meniup lilin ketiga: "Dan hari ini... sudah selesai dengan sempurna."
+Cawan-cawan bergeser. Salah satu lilin padam. Getaran Kael-Uthar dan the Once-Silent bertemu di dinding, berlipat, lalu kembali sebagai dentang rendah yang membuat gigi Sela ngilu. Harn segera memindahkan mantel yang menumpuk di depan nat. Kovan berlutut dan menempelkan telapak ke lantai.
 
-Kegelapan hangat. Suara nat lorong dari lorong. Napas tiga orang (dan dua jiwa) yang pelan dan tenang.
+"Terlalu banyak jawaban masuk bersamaan," katanya. "Nat aula tidak bisa memisahkan siapa menyapa siapa."
 
-Bab 250 selesai.
+"Putuskan sambungan selatan," kata Ossian.
 
-Ceritanya tidak.
+"Jangan," sahut Sela. "Kael-Uthar bagian dari perayaan."
 
----
+"Kalau resonansinya meningkat, mangkuk pecah."
 
-Dan di halaman terakhir neraca tahunan — halaman yang oleh Sela diberi garis emas ganda dan judul "UNTUK SIAPA PUN YANG MEMBACA DI MASA DEPAN" — tertulis pesan penutup dari keluarga the Quiet Vein:
+Sela memandang meja. Semua orang ingin hadir; justru kehadiran mereka membuat batu kewalahan. Ashvarok-Renn masih berdiri di tengah getaran, satu tangan menekan tepi meja.
 
-"Kalau kau membaca ini, artinya dunia masih jalan. Artinya nat-nat kecil masih disapa, dapur masih buka, dan tidak ada yang tidur tanpa didengar.
+"Berhenti bicara," kata Pellia.
 
-Itu kabar baik.
+Tak seorang pun mendengarnya pada kali pertama.
 
-Dan kalau kau sedang merasa seperti Renn dulu — hilang, tak didengar, sekarat pelan di lorong mana pun dalam hidupmu —
+Pellia naik ke bangku. "Semua diam. Jangan kirim jawaban. Dengarkan satu-satu."
 
-ingat ini:
+Ibu Tamma memukul tutup panci dengan sendok. Dentangnya memotong seluruh suara. Aula senyap.
 
-Suatu saat, seseorang akan datang dan bertanya 'ada siapa di sana?'.
+Getaran pertama datang dari selatan: tiga ketukan panjang Kael-Uthar. Kovan menerjemahkannya pelan. "Masih menyala. Masih menjaga. Selamat satu tahun."
 
-Jawab saja.
+Mereka menunggu sampai gema terakhir hilang.
 
-Meski suaramu pecah. Meski jawabanmu hanya satu ketukan.
+the Once-Silent mengirim dua ketukan pendek dan satu panjang. Sela mengenali iramanya tanpa bantuan. *Keluarga mendengar.*
 
-Karena di balik pertanyaan itu, selalu ada kemungkinan bahwa yang datang bukan pencari — melainkan keluarga yang belum tahu namanya."
+Nat aula akhirnya menjawab dengan satu denyut hangat. Tidak ada cawan yang bergeser.
 
-— Keluarga the Quiet Vein
-Ashvarok. Renn. Sela.
-Caldrest, tahun pertama era menyapa.
+Pellia turun dari bangku. "Menyapa bukan berarti semua harus bicara bersamaan."
 
----
+Sareth Vayin mengambil buku kecil dari sakunya. "Itu masuk pelajaran musim kedua."
 
-Dan satu baris terakhir dari ibu Tamma — karena sejarah Karvess selalu ditutup oleh dapur:
+"Dengan namaku," kata Pellia.
 
-"Sup tetap hangat sampai kalian selesai membaca.
+"Dengan namamu. Kau yang mengajar."
 
-Selamat makan."
+Keputusan itu mengubah cara semua orang memandangnya. Pellia yang tadi duduk di antara murid kini menarik buku Sareth, menuliskan judul pelajaran, lalu mengembalikannya.
 
----
-
-Dan di halaman terakhir neraca tahunan itu, tertulis kalimat yang oleh Sela diberi garis emas ganda — penutup bab ke-250 sekaligus janji untuk semua bab setelahnya:
-
-Cerita Caldrest tidak berakhir di sini.
-
-Ia hanya berhenti sebentar — supaya pembacanya bisa menarik napas —
-
-lalu berjalan lagi, menyapa lagi, makan bareng lagi,
-
-selamanya.
+MENDENGAR ORANG: MEMBERI WAKTU SAMPAI SUARA SELESAI.
 
 ---
 
-Dan subuh berikutnya — pagi pertama setelah perayaan — ibu Tamma membuka pintu dapur seperti biasa, menyalakan tungku seperti biasa, dan meletakkan mangkuk pertama di meja seperti biasa.
+Menjelang tengah malam, tamu-tamu pertama berdiri. Brannoc memasukkan separuh kayu terbaiknya ke tungku, lalu mengembalikan separuh lain setelah Ondar menyebut musim dingin. Maera dan Kovan sepakat neraca malam itu akan memuat satu meja, sembilan budaya, dan nol mangkuk pecah. Ossian menggulung pidatonya tanpa pernah membacakan lampiran.
 
-Karena di Caldrest, tidak ada yang lebih penting dari memastikan hal ini:
+"Kau tidak keberatan?" tanya Sela.
 
-kalau ada yang bangun dan lapar...
+"Sangat keberatan," jawabnya. "Namun lampiran itu menjelaskan tujuan pertemuan. Pertemuan ini sudah membuktikannya lebih baik."
 
-ada sup yang menunggu.
+Ia menyerahkan gulungan tersebut kepada ibu Tamma.
 
----
+"Untuk tungku?" tanyanya.
 
-Dan kalau ada yang bertanya kapan cerita ini benar-benar berakhir...
+"Untuk arsip. Jangan kejam."
 
-jawabannya sudah ditulis Sela di halaman terakhir arsipnya, dengan tinta merah yang hanya dipakai untuk hal paling penting:
+"Kalau musim dingin buruk, aku tak janji."
 
-"Cerita ini berakhir kalau Caldrest berhenti menyapa.
+Saat aula hampir kosong, Tami-Tomi menghilang melalui pintu samping. Mereka kembali membawa tenunan kecil yang disembunyikan sejak sore. Polanya miring, simpulnya longgar di satu sisi, dan dua warna di tengah tidak pernah benar-benar bertemu. Lompa membacanya keras-keras:
 
-Dan Caldrest tidak akan pernah berhenti menyapa.
+"SELAMAT TAHUN PERTAMA, KELUARGA THE QUIET VEIN. KAMI SAYANG KALIAN."
 
-Maka cerita ini tidak akan pernah berakhir."
+Kedua anak itu menggantungnya di antara nat aula dan nat asuhan bernama Teman yang mereka tuntun dari lorong.
 
----
+"Teman mau ikut pesta," kata Tami.
 
-Dan satu kalimat terakhir dari Ashvarok dan Renn — yang menutup bab 250 dan membuka semua bab setelahnya:
+"Dia tidak punya tangan untuk membawa hadiah," tambah Tomi.
 
-"Terima kasih sudah membaca sampai sini.
+Renn mengambil alih tubuh mereka dan berjongkok di depan nat kecil itu. Gerakannya lebih ringan daripada Ashvarok, bahunya miring seperti bocah tambang yang masih terbiasa berbicara kepada batu dari jarak dekat.
 
-Sekarang tutup bukunya, keluar rumah, dan sapa seseorang.
+"Kehadiran sudah hadiah," katanya. "Kami belajar itu sepanjang tahun."
 
-Karena itu yang kami lakukan setiap hari —
+Teman mengetuk lantai sekali. Nat aula menjawab setelah menunggu gema selesai. Kael-Uthar menyusul dari selatan, lalu the Once-Silent dari barak utara. Tidak bertumpuk. Satu suara, jeda, suara berikutnya.
 
-dan itu cukup untuk mengubah dunia."
+Sela membuka buku arsip pada halaman baru. Noda sup dari awal malam telah mengering di sudut kertas. Ia tidak menghapusnya.
 
----
+"Apa judul catatanmu?" tanya Renn.
 
-Dan malam itu, sebelum lilin ketiga ditiup, Sela menulis satu kalimat terakhir di arsipnya — kalimat yang menjadi jawaban untuk pertanyaan pembaca mana pun di masa depan:
+Sela menulis sambil mengucapkannya. "Tahun pertama era menyapa: malam ketika semua orang belajar bahwa mendengar juga memerlukan giliran."
 
-"Bab 250 bukan akhir.
+Ibu Tamma membuka panci sekali lagi. Uap terakhir naik membawa bau rempah dan dasar sup yang mulai mengental.
 
-Bab 250 adalah titik di mana kami sadar: cerita ini sudah berhenti menjadi kisah tentang menyelamatkan dunia...
+"Kalau batunya belum pulang, pestanya belum selesai," katanya. "Ambil mangkuk."
 
-dan mulai menjadi kisah tentang tinggal di dalamnya."
-
----
-
-Dan satu hal terakhir — yang membuat bab 250 menjadi bab favorit seluruh Caldrest untuk generasi:
-
-Di akhir perayaan, ketika semua orang sudah pulang dan lilin tinggal satu, kembar Tami-Tomi datang berlari ke aula membawa sesuatu:
-
-tenunan kecil buatan mereka sendiri — pola kacau, benang tidak rapi, tetapi jelas dibaca Lompa:
-
-"SELAMAT 250 BAB, KELUARGA URAT TENANG. KAMI SAYANG KALIAN."
-
-Tenunan itu digantung di nat aula — di samping plakat "AKHIRNYA." milik Kael-Uthar.
-
-Dan dua batu itu — api purba dan nat asuhan — sejak malam itu selalu menjawab bersamaan kalau disapa.
-
-Karena di Karvess, keluarga baru selalu diterima dua dunia: manusia dan batu.
-
-— Bab 250 selesai dengan lengkap.
+Kursi-kursi yang sudah didorong mundur ditarik kembali. Sela meletakkan arsipnya, mengambil mangkuk, lalu duduk di antara Renn-Ashvarok dan nat kecil yang tidak bisa makan. Di atas mereka, tenunan Tami-Tomi bergoyang setiap kali batu berikutnya mendapat giliran menyapa.

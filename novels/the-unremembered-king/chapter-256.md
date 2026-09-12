@@ -3,336 +3,276 @@ title: "Bab 256: Kembalinya Sela"
 chapter: 256
 ---
 
-Sela pulang di pagi musim semi — tanpa pemberitahuan, seperti semua orang penting di Karvess.
+Nat lorong barak utara membangunkan Caldrest dengan tiga dentang yang begitu keras hingga sendok Ashvarok-Renn jatuh ke mangkuk.
 
-Ashvarok-Renn sedang sarapan ketika nat lorong barak utara mengirim irama yang oleh Kovan diterjemahkan dengan tiba-tiba berdiri:
+Kovan menerobos pintu aula sambil membawa batu penerima di kedua tangan. Rambutnya masih miring oleh bantal, satu sepatu belum terikat.
 
-"DIA DI GERBANG. DIA PULANG."
+"Dia di gerbang," katanya. "Sela pulang."
 
-Renn bangun lebih cepat dari Ashvarok untuk pertama kalinya. Tubuh itu hampir menabrak meja.
+Renn merebut kendali kaki sebelum Ashvarok sempat meletakkan serbet. Tubuh mereka bangkit, menyenggol meja, lalu hampir menabrak Kovan. Di dalam, Ashvarok memprotes martabat yang ditinggalkan bersama mangkuk sarapan. Renn tidak mengurangi langkah.
 
----
+"Martabat bisa menyusul," katanya melalui mulut mereka.
 
-Di gerbang Caldrest, seorang gadis tiga belas tahun berdiri dengan tas yang sama, kotak arsip yang sama, dan sesuatu yang baru: jubah arsiparis muda Spire — biru gelap bersulam perak, diberikan hanya kepada lulusan terbaik angkatan.
+"Kalian bicara kepada siapa?" tanya Kovan, berlari di belakang.
 
-Ia tersenyum kepada dua kakaknya yang datang berlari (secara tidak wajar untuk raja seribu tahun dan bocah tambang).
+"Diri sendiri. Jangan catat."
 
-"Aku pulang," kata Sela. "Dan aku bawa sesuatu."
+"Sudah tercatat."
 
-Ia membuka kotak arsipnya.
+Udara pagi membawa bau tanah basah dan bunga pucat yang baru tumbuh di sela batu jalan. Warga keluar ketika nat-nat depan rumah meneruskan kabar. Di tikungan pasar, dua murid the Listening School ikut berlari. Seorang penjual roti meninggalkan lapaknya kepada tetangga dan menyusul dengan tepung masih melekat di lengan.
 
-Di dalamnya: sertifikat kelulusan tertinggi akademi (nilai sempurna, pertama dalam dua puluh tahun), satu salinan prinsip "Arsip = Ingatan yang Dibagi" yang kini tercetak di buku teks akademi...
+Gerbang Caldrest terbuka. Sela berdiri di luar lengkung batu dengan tas perjalanan yang pernah dibawanya ke Spire. Kotak arsip menggantung di bahu satunya. Jubah biru gelap menutupi pakaian perjalanannya; benang perak di kerah membentuk lambang the High Archive Academy.
 
-...dan satu hal lagi yang membuat Ashvarok-Renn diam:
+Ia tampak lebih tinggi. Mungkin cuma karena jubah itu. Mungkin karena caranya berdiri tidak lagi meminta izin kepada tempat mana pun.
 
-surat penunjukan resmi dari Akademi Arsip Tinggi — mengangkat Sela sebagai ARSIPARIS RESMI KARVESS, kantor kedudukan: barak the Quiet Vein, atas permintaan pribadi sang murid.
+Ashvarok-Renn berhenti dua langkah di depannya. Semua kalimat yang mereka siapkan dalam surat selama berbulan-bulan lenyap.
 
-"Kalian pikir aku mau tinggal di menara langit?" kata Sela. "Aku belajar setahun supaya bisa pulang bekerja di rumah."
+Sela menurunkan kotak arsip. "Kalau kalian hanya menatap, aku bisa kembali ke gerbang dan mencoba masuk sekali lagi."
 
----
+Renn memeluknya begitu cepat sampai kotak itu terjepit di antara mereka. Ashvarok sempat menjaga lengan agar tidak menghantam bahunya, lalu menyerah dan ikut merapatkan pelukan.
 
-Ashvarok bicara pertama — suara raja seribu tahun yang tidak stabil untuk kedua kalinya dalam sejarah:
+"Kamu tidak bilang akan pulang hari ini," kata Renn.
 
-"Kamu... menolak posisi arsiparis kekaisaran Spire?"
+"Kalau kubilang, ibu Tamma akan memasak untuk separuh kota."
 
-"Ditolaknya kemarin." Sela mengangkat bahu. "Ketua Majelis hampir pingsan. Katanya belum pernah ada lulusan terbaik yang memilih 'kota tambang di ujung dunia'."
+"Dia tetap akan memasak untuk separuh kota."
 
-Renn menjawab dari dalam, dan Ashvarok mengulang dengan nada bangga yang tidak tersembunyi:
+"Benar. Tapi sekarang dia hanya punya waktu setengah pagi."
 
-"Bukan kota tambang. Kota yang mengajari dunia menyapa."
+Sela tertawa ke bahu mereka. Di belakang, orang-orang yang mengikuti dari aula dan pasar memilih saat itu untuk bersorak. Nat gerbang menyala dari dasar sampai puncaknya, hangatnya terasa pada telapak kaki.
 
-"Iya itu juga," kata Sela. "Makanya aku pulang — supaya dunia tahu dari mana semua itu mulai."
+IRAMA ANAK PULANG, diterjemahkan Kovan dengan napas putus-putus. BUKAN TAMU. BUKAN UTUSAN. ANAK PULANG.
 
----
+Sela melepaskan pelukan dan menyeka ujung hidungnya. "Aku membawa surat penunjukan."
 
-Perjalanan dari gerbang ke barak the Quiet Vein berubah menjadi pesta keliling kota yang tidak direncanakan siapa pun:
+"Tunjukkan nanti," kata Ashvarok.
 
-Pedagang pasar menutup lapak sebentar untuk menyapa. Murid Sekolah Mendengar mengiringi sambil bertanya soal Spire. Nat-nat kecil menyala satu per satu sepanjang jalan — dan nat lorong barak utara, ketika keluarganya akhir sampai di depannya, menyala paling terang dalam sejarahnya.
+"Kak Raja menolak arsip resmi?"
 
-Irama yang diteruskan ke arsip:
+"Raja ini belum sarapan selesai dan adiknya baru menempuh perjalanan panjang. Urutannya: rumah, makan, baru dokumen."
 
-"ANAK PERTAMA PULANG DENGAN SAYAP.
+Renn menambahkan dari dalam, "Peluk lagi juga boleh masuk sebelum makan."
 
-DAN SAYAPNYA DIA PAKAI UNTUK PULANG, BUKAN PERGI.
+Kali ini Sela yang memulai.
 
-ITU BEDANYA ANAK YANG DIBESARKAN RUMAH YANG BAIK."
+Perjalanan dari gerbang ke barak memakan waktu hampir satu jam. Setiap beberapa langkah seseorang menghentikan Sela untuk menyambut, menanyakan Spire, atau menyentuh ujung jubahnya dengan takjub. Murid-murid mengerubungi kotak arsip sampai Sela berjanji membukanya di aula pada sore hari. Pedagang roti membagi dagangannya tanpa meminta bayaran. Nat-nat kecil menyala berurutan di sepanjang jalan, meneruskan kepulangannya lebih cepat daripada rombongan.
 
----
+Di depan barak the Quiet Vein, ibu Tamma menunggu dengan tangan berlumur adonan.
 
-Di barak, ibu Tamma sudah menyiapkan meja: Sup Kamp Pertama, puding Aru, teh nat utara, dan satu kursi baru yang selama setahun ditaruh di sudut kosong — sekarang ditarik ke tempatnya.
+"Kurus," katanya.
 
-Mereka makan.
+Sela menatap lengannya sendiri. "Beratku bertambah."
 
-Dan percakapan keluarga pertama setelah setahun berjalan seperti tidak pernah ada jarak: kabar nat-nat kecil, cerita murid-murid baru, perdebatan soal cara memasak yang benar (Sela vs ibu Tamma; Ashvarok-Renn jadi juri netral yang ketakutan).
+"Spire menimbang tulang. Aku menimbang anak. Masuk."
 
-Sampai Sela mengangkat satu topik terakhir — dengan nada arsiparis resminya:
+Kursi yang selama ini diletakkan di sisi rak sudah kembali ke meja. Semangkuk First Camp Soup mengepul di depannya, disertai puding Aru dan teh nat utara. Sela duduk, mencicipi satu sendok, lalu menutup mata cukup lama hingga ibu Tamma berhenti mengomel.
 
-"Kak. Ada satu hal yang harus kalian tahu dari Spire. Kabar besar."
-
-Ashvarok-Renn menatapnya.
-
-"Spire menemukan sesuatu di arsip Hegemony lama. Sesuatu yang... berkaitan dengan kamu, Kak Raja."
-
-Ia meletakkan salinan di atas meja.
-
-"Dan ini bisa mengubah semua yang kita tahu tentang seribu tahun itu."
+"Nah," kata ibu Tamma. "Sekarang baru kelihatan pulang."
 
 ---
 
-Ashvarok membaca salinan itu.
+Surat penunjukan dibuka setelah mangkuk kedua kosong. Segel Akademi berkilau di bawah cahaya jendela. Di dalamnya tercantum kelulusan tertinggi, nilai sempurna pertama dalam dua puluh tahun, dan tawaran kursi arsiparis kekaisaran Spire.
 
-Dua kali. Tiga kali.
+Garis tinta melintang pada tawaran terakhir. Di bawahnya, dengan tulisan tangan Sela, tertulis pilihan: Arsiparis Resmi Karvess. Kantor kedudukan: barak the Quiet Vein, Caldrest.
 
-Renn membaca dari dalam — dan untuk pertama kalinya, keduanya berhenti pada kata yang sama di waktu yang sama:
+Ashvarok membaca bagian itu dua kali. "Mereka mengizinkanmu mencoret penunjukan Majelis?"
 
-"...tidak mungkin."
+"Tidak. Itu sebabnya rapat perpisahanku berlangsung enam jam."
 
-"Bukan tidak mungkin," kata Sela pelan. "Tertulis jelas. Arsip Hegemony tahun seribu silam — laporan resmi yang disegel dan disembunyikan sampai sekarang."
+"Kamu menolak menara langit untuk berkantor di bekas gudang alat?"
 
-Ia menunjuk satu paragraf:
+Sela menyandarkan siku di meja. "Ketua Majelis bertanya hal yang sama, hanya dengan lebih banyak kata."
 
-"'Subjek: Ashvarok, raja terakhir. Status setelah Pembakaran Nama: TIDAK TERKONFIRMASI MATI. Jejak resonansi terdeteksi bertahan di... [bagian yang rusak] ...tungku. Rekomendasi: pemantauan.'"
+"Apa jawabanmu?"
 
-Sunyi panjang.
+"Aku pergi untuk belajar supaya bisa pulang bekerja di rumah. Kalau semua arsip terbaik disimpan di tempat yang sudah punya segalanya, kota kecil akan terus diminta melupakan dirinya sendiri."
 
-Lalu Renn berkata — pelan, dari dalam:
+Ibu Tamma mendorong puding ke arahnya. "Jawaban bagus. Tetap makan."
 
-"Kak Raja. Tungku itu.
+Renn bersuara dari dalam, cukup jelas untuk diulang Ashvarok. "Kami senang kamu memilih pulang. Tapi kami tidak mau menjadi alasan kamu mengecilkan hidupmu."
 
-Yang mereka maksud tungku itu...
+Sela memandang wajah yang dipakai kedua kakaknya. Keceriaan di matanya mereda, bukan hilang. "Kalian bukan alasan aku mengecilkan hidup. Kalian alasan aku tahu hidup bisa dibesarkan tanpa meninggalkan tempat asalnya. Akademi akan menerima salinan pekerjaanku. Karvess menyimpan yang asli. Kali ini pinggir peta menentukan apa yang dibaca pusat."
 
-itu tungku barak kita."
+Ashvarok melipat surat itu mengikuti bekas lipatan lama. "Kalau begitu, Arsiparis Resmi Karvess, kantor di rak mana yang kamu mau?"
 
----
+"Rak kiri. Kotak pertamaku masih di sana, kan?"
 
-Dan bab ditutup dengan satu kalimat dari Sela — arsiparis muda yang baru pulang, membawa pulang juga sebuah pertanyaan yang akan mengubah bab-bab berikutnya:
+"Tidak ada yang memindahkannya."
 
-"Kak Raja. Delapan bulan silam, kamu pikir kamu yang datang ke tubuh Renn.
+"Bagus." Sela menarik kotak arsip ke atas meja. "Karena pekerjaan pertamaku sudah datang dari Spire."
 
-Namun arsip ini bilang: jejak resonansimu sudah ada di tungku barak itu SEBELUM runtuhan lorong sembilan.
+Di bawah sertifikat dan dua buku teks yang memuat prinsip Arsip adalah Ingatan yang Dibagi, tersimpan sebuah map abu-abu. Tepi kertasnya menghitam, sebagian permukaan berbau logam tua. Segel Hegemony sudah pecah, tetapi cap salinan Akademi menjamin tiap goresan sesuai dokumen asal.
 
-Maka pertanyaannya bukan lagi 'bagaimana kamu masuk ke tubuh Renn'.
+"Ditemukan di ruang penyitaan," kata Sela. "Tidak masuk katalog umum. Seorang pengajar mengenali lambang the Name-Burning dan memanggilku."
 
-Pertanyaannya... siapa yang MEMANGGILMU datang?"
+Ashvarok tidak menyentuh map itu. "Namaku?"
 
----
+"Yang tersisa darinya."
 
-Dan satu baris penutup dari Ashvarok — ditulis di neraca malam itu:
+Ibu Tamma mengambil mangkuk kosong dan berhenti di ambang dapur. "Kalian mau aku tinggal?"
 
-Hari 1.100. Sela pulang. Keluarga lengkap lagi.
+Ashvarok hendak menjawab bahwa laporan seribu tahun tidak layak membebani pagi kepulangan. Renn lebih cepat.
 
-Untuk pertama kalinya dalam sepuluh abad... aku punya pertanyaan tentang masa laluku sendiri yang tidak kubawa sendirian.
+"Tinggal, Bu."
 
-Kita akan cari jawabannya. Bersama-sama.
+Ibu Tamma kembali duduk.
 
----
+Sela membuka halaman pertama. Laporan itu singkat, disusun oleh seseorang yang belajar menyembunyikan ketakutan di balik kolom. Subjek: Ashvarok, raja terakhir. Tindakan: the Name-Burning. Status: tidak terkonfirmasi mati. Jejak resonansi terdeteksi bertahan pada tungku barak the Quiet Vein. Rekomendasi: pemantauan tanpa kontak.
 
-Dan satu adegan penutup — subuh berikutnya:
+Panas dari dapur mendadak terasa terlalu dekat. Ashvarok membaca lagi kata tungku. Ingatannya tentang akhir kerajaannya terdiri atas api, bunyi retak, lalu jarak panjang tanpa bentuk. Ia selalu mengira kesadarannya muncul di lorong sembilan ketika runtuhan membuka tubuh Renn.
 
-Keluarga the Quiet Vein duduk melingkar di nat lorong. Ashvarok-Renn, Sela, dan Yang Dulu Sunyi.
+"Tanggal laporan," katanya.
 
-Pertanyaan besar itu dibawa ke tempat yang paling mungkin punya jawaban.
+Sela menunjuk sudut atas.
 
-"Nat. Delapan ratus tahun silam... apakah kau ingat ada resonansi aneh di tungku barak ini? Sebelum runtuhan lorong sembilan?"
+Renn menghitung lebih cepat. "Ini sebelum runtuhan."
 
-Nat tua merespons panjang — dan oleh Sela (kini arsiparis resmi dengan ilmu akademi) diterjemahkan dengan presisi yang tidak pernah ada sebelumnya:
+"Seratus hari sebelumnya," jawab Sela. "Jejak Kak Raja sudah berada di tungku ketika Renn masih datang bekerja di barak."
 
-"INGAT. ADA IRAMA YANG TIDAK PERNAH KU PAHAMI. BUKAN MANUSIA, BUKAN NAT, BUKAN API.
+Ashvarok menahan lembar itu dengan dua jari. Kertas berdesis tipis. "Kalau laporan ini benar, aku tidak masuk bersama runtuhan."
 
-IRAMANYA SEPERTI... PANGGILAN.
+"Tidak," kata Sela. "Runtuhan hanya menyatukan dua hal yang sudah berada di tempat sama."
 
-DAN AKU PIKIR WAKTU ITU: SESUATU DI GUNUNG LAIN MEMANGGIL ORANG DI LORONG INI."
+"Lalu siapa yang membawaku ke sana?"
 
-Sela menatap kakak-kakaknya.
+"Bagian itu rusak." Sela menggeser lampu dekat tulisan. Bekas air atau bahan pelarut telah memakan tiga baris. "Tapi ada pola tekanan di balik serat. Penulis menyalin sumber resonansi dari catatan lain. Aku dapat membaca dua bagian: 'pos gunung' dan 'arah barat laut'."
 
-"Gunung lain."
+Renn membentuk nama itu di benak mereka. Ashvarok mengucapkannya.
 
 "Vel-Morra."
 
----
+Ibu Tamma berdiri. "Kalau gunung ikut campur urusan keluarga, gunung itu bisa menjelaskan sendiri."
 
-Dan di ujung lorong, ibu Tamma yang mendengar semuanya berkata — sambil membawa nampan sarapan:
+"Belum tentu gunungnya yang memanggil," kata Sela. "Kita tanya saksi yang masih ada lebih dulu."
 
-"Kalau jawabannya di Vel-Morra...
-
-maka kalian bertiga berangkat bersama-sama.
-
-DAN SEMUA KALIAN MAKAN DULU SEBELUM BERANGKAT."
-
-Keluarga the Quiet Vein menatap satu sama lain.
-
-Perjalanan pertama mereka bersama-sama — raja, bocah tungku, dan arsiparis muda —
-
-menuju gunung yang memanggil.
+Mereka membawa laporan ke lorong utara.
 
 ---
 
-Dan satu baris terakhir dari Ashvarok:
+the Once-Silent berdiam di dinding dekat tungku lama. Permukaannya kusam oleh jelaga berumur puluhan tahun, tetapi saat Ashvarok-Renn menyentuhkan telapak tangan, cahaya muncul dari retakan dalamnya.
 
-Seribu tahun aku pikir aku datang ke tubuh Renn karena kebetulan.
+Sela berlutut dengan buku terbuka. Jubah akademinya ia lipat agar tidak menyapu debu. Kovan berdiri membawa lampu. Vessia datang setelah nat pasar memanggilnya, masih mengenakan celemek dari kelas tenun pagi.
 
-Hari ini arsip bilang: ada yang MEMANGGIL.
+"Tanyakan tanpa memberi jawaban di dalam pertanyaan," kata Vessia. "Ingatan nat mengikuti bentuk sapaan."
 
-Dan untuk pertama kalinya... aku takut tahu jawabannya.
+Sela mengangguk. "the Once-Silent, sebelum runtuhan lorong sembilan, irama apa yang tinggal di tungku ini?"
 
-Namun keluargaku di sini. Maka kita cari bersama.
+Batu itu berdenyut. Satu ketukan rendah menjalar sepanjang lantai, disusul rentetan yang membuat abu lama turun dari celah dinding. Sela menulis cepat, lalu berhenti. Vessia menempelkan dua jari pada batu dan memejamkan mata.
 
-Dan ketika subuh datang — keluarga the Quiet Vein bersiap untuk perjalanan pertama mereka bersama-sama:
+"Ada bagian yang tidak kukenal," kata Sela.
 
-raja yang dibakar namanya,
-bocah tungku yang menjadi rumahnya,
-dan arsiparis muda yang membawa pertanyaan dari menara langit.
+"Dialek gunung lama," jawab Vessia. "Bukan kata. Lapisan arah."
 
-Tujuan: Tanah Tinggi Vel-Morra. Gunung yang memanggil.
+"Bisa kamu pisahkan?"
 
----
+"Kalau kau berhenti memaksanya masuk tata bahasa Spire. Dengarkan jedanya."
 
-Dan satu baris terakhir dari ibu Tamma — di gerbang, saat mereka berangkat:
+Sela meletakkan pena. Nat mengulang irama. Kali ini ia tidak menulis sampai getaran terakhir padam.
 
-"Bawa bekal cukup. Istirahat yang cukup. Dan jangan lupa:
+"Aku dengar," katanya. "Ada tiga lapisan."
 
-kalian bertiga pulang untuk makan malam."
+Vessia menerjemahkan perlahan. "Yang pertama setenang batu. Yang kedua sebesar api. Yang ketiga..."
 
-Bukan permintaan. Janji keluarga.
+Irama kecil bergetar di bawah ketukan lain, nyaris tenggelam.
 
----
+Renn mendekat dari dalam tubuh bersama itu. Ada kesedihan di dalam pola tersebut yang dikenalnya tanpa tahu sebabnya—kesedihan anak yang memanggil ke gelap dan tidak memperoleh jawaban.
 
-Dan satu baris penutup dari nat lorong barak utara — untuk keluarganya yang akan berangkat:
+"Sedih anak muda," kata Sela.
 
-"PERGI LAH. AKU MENJAGA RUMAH.
+the Once-Silent menyala terang sebagai penegasan.
 
-DAN KALIAN TAHU ATURANNYA:
+Ashvarok menekan telapak lebih kuat. "Apakah ketiga irama itu memanggilku?"
 
-PULANG SEBELUM SUP DINGIN."
+Jawaban nat datang sebagai satu gelombang panjang.
 
-Dan Ashvarok-Renn menjawab nat lorong dengan tiga ketukan:
+YA. DARI GUNUNG LAIN. PANGGILAN TIBA DI TUNGKU. API MENJAWAB. ANAK DATANG MENDENGAR.
 
-Kami pulang. Kami janji.
+Renn menjadi sangat diam.
 
----
+"Anak siapa?" tanya Ashvarok.
 
-Dan satu adegan terakhir — malam sebelum berangkat, di nat aula:
+Nat mencoba menjawab, tetapi iramanya pecah di antara nama dan bunyi tungku. Vessia menggeleng.
 
-Keluarga the Quiet Vein bertanya pada nat aula satu hal terakhir:
+"Ingatan tempat ini tidak menyimpan wajah," katanya. "Kita butuh nat yang mengirim panggilan, bukan yang menerimanya."
 
-"Nat. Apakah kau tahu siapa yang memanggilku?"
+Sela menutup buku. "Tanah Tinggi Vel-Morra."
 
-Jawaban nat aula — diterjemahkan Sela dengan seluruh ilmu barunya:
+"Aku tetap di Caldrest sampai kalian memanggil," kata Vessia.
 
-"AKU TIDAK TAHU SIAPA.
+"Perjalanan sembilan hari," Ashvarok mengingatkan. "Kalau bahasanya tidak bisa dibaca—"
 
-NAMUN AKU TAHU BENTUKNYA:
+"Kovan bisa memegang penerjemahan kota. Panggil aku lewat nat kalau dialek gunungnya terlalu tua."
 
-PANGGILAN ITU BUKAN DARI NAT. BUKAN DARI MANUSIA.
+Sela mengangguk. "Aku membawa metode Spire. Vessia tetap menjadi jalan menuju bahasa yang tak pernah sampai ke sana."
 
-IRAMANYA SEPERTI... GABUNGAN.
+Keputusan itu belum sempat dicatat ketika Gorvel muncul dari tikungan lorong. Langkahnya lambat, tetapi wajahnya berubah begitu melihat map abu-abu.
 
-SEPERTI SESUATU YANG SETENANG BATU, SEBESAR API, DAN SEDIH ANAK MUDA."
+"Dari mana kalian mendapatkannya?"
 
-Sela membaca ulang terjemahannya, pelan.
+Sela berdiri. "Ruang penyitaan Akademi. Anda mengenal laporan ini?"
 
-'Setenang batu. Sebesar api. Sedih anak muda.'
+Gorvel tidak menjawab. Ia mengambil lampu dari Kovan dan mendekatkannya ke sudut bawah halaman. Di sana, di bawah noda yang selama ini dianggap bekas segel, tersisa lekuk tanda tangan.
 
-'Itu... bukan deskripsi satu makhluk, Kak.'
+"Aku yang menulis," katanya.
 
-'Itu deskripsi TIGA.'
+Tak seorang pun bergerak.
 
----
+"Delapan puluh tahun larangan, bukan usia laporan." Kovan memeriksa penanggalannya sekali lagi. "Salinan ini memakai penanggalan Hegemony lama."
 
-Dan Ashvarok-Renn menjawab — suara bergantian, satu kesimpulan:
+"Tahun kedelapan puluh larangan," kata Gorvel. "Aku masih pengawal pos gunung. Kami diperintah mencatat cahaya yang tidak punya bahan bakar. Aku mengirim laporan resmi, lalu diberi tahu bahwa tungku sudah diperiksa dan tak ada apa-apa."
 
-"Setenang batu... itu nat gunung Vel-Morra.
+Ashvarok menunjukkan baris status. "Kamu menulis tidak terkonfirmasi mati."
 
-Sebesar api... itu sesuatu seperti Kael-Uthar.
+"Atasanku menyuruhku menggantinya menjadi musnah. Aku menolak." Gorvel mengembalikan lampu. "Itu keberanian terbesar yang sanggup kulakukan waktu itu. Tidak cukup besar untuk kembali dan bertanya kepada batu."
 
-Sedih anak muda..."
+Sela membalik halaman terakhir ke arah cahaya. "Ada lapisan segel di dalam serat. Akademi tidak membukanya."
 
-Sunyi.
+Jari Gorvel berhenti di tepi map. "Catatan pribadiku. Seratus hari pengamatan. Aku menyegelnya terpisah di balik laporan karena takut membakarnya dan terlalu takut menyerahkannya terang-terangan. Nat gunung tahu cara membacanya; petugas Hegemony tidak."
 
-"...itu anak yang delapan bulan didengar batu tetapi tidak pernah bisa bicara balik."
+"Anda ikut dengan kami," kata Sela.
 
-Sela menutup buku catatannya.
+Gorvel menatap lorong yang dahulu dilarang menyapa. "Itu perintah arsiparis?"
 
-"Kak. Ada makhluk di Vel-Morra yang sudah menunggu lama untuk didengarkan.
+"Permintaan orang yang tidak mau menerjemahkan rasa takut Anda tanpa mendengar suaranya."
 
-Dan mungkin... dia yang memanggilmu ke tubuh Renn."
-
+Gorvel mengangguk sekali. "Aku ikut."
 
 ---
 
-Dan satu baris penutup dari ibu Tamma — yang mendengar semuanya dari dapur dan keluar membawa nampan:
+Malam kepulangan Sela berubah menjadi malam persiapan. Kovan menyusun daftar bekal. Vessia menyalin kosakata tenun lama dan kode panggilan untuk dibawa rombongan. Gorvel mengambil mantel gunung yang tersimpan sejak ia datang ke Caldrest. Ibu Tamma memenuhi empat wadah tertutup dengan sup, lalu menambahkan wadah kelima setelah mendengar lama perjalanan.
 
-"Kalau memang ada makhluk di gunung yang sudah menunggu delapan ratus tahun untuk didengar...
+Sela menempati kembali kamarnya. Kotak arsip pertama masih berada di rak kiri, tepat seperti yang dijanjikan. Ia memasukkan laporan Hegemony ke dalamnya hanya untuk satu malam, di antara surat pertama dari rumah dan buku catatan akademinya.
 
-maka kalian bertiga berangkat BESOK PAGI.
+Ashvarok-Renn berdiri di ambang pintu.
 
-Dan bawa sup. Semua makhluk — manusia, batu, api, atau apapun itu — lebih gampang bicara setelah makan."
+"Kamu pulang pagi ini," kata Renn. "Besok kami membawamu pergi lagi."
 
-— Ibu Tamma
+Sela mengikat rambutnya untuk tidur. "Aku tidak pergi dari rumah. Aku berangkat dari rumah. Beda."
 
----
+Ashvarok bersandar pada kusen. "Di gunung nanti, mungkin kamu menemukan sesuatu tentang kami yang tidak ingin kami dengar."
 
-Dan satu baris penutup terakhir dari Sela — untuk arsip keluarga:
+"Tugasku bukan memilihkan ingatan yang nyaman."
 
-"Bab 256 ditutup dengan tiga keputusan:
+"Aku tahu."
 
-1. Vessia tetap di Caldrest sebagai penerjemah resonansi pertama dunia.
-2. Keluarga the Quiet Vein berangkat ke Vel-Morra besok pagi — misi pertama bersama.
-3. Ibu Tamma menyiapkan sup untuk dibawa.
+Sela melunak. "Tapi aku tidak akan membiarkan kalian mendengarnya sendirian. Itu juga tugas arsiparis keluarga."
 
-Dan satu hal yang tidak masuk protokol tetapi penting:
+Nat pos di meja berdenyut tiga kali. Dari aula, lorong, pasar, lalu cabang-cabang jauh di luar Caldrest, jaringan menjawab kode keluarga yang sama: kita masih di sini.
 
-Untuk pertama kalinya dalam 256 bab... aku, Kak Raja, dan Kak Renn akan menghadapi sesuatu BERSAMA-sama. Bukan bergantian. Bukan satu menjaga yang lain.
+Subuh datang dengan kabut rendah. Di gerbang, ibu Tamma memeriksa tali tas, tutup wadah sup, mantel Gorvel, dan sepatu Sela. Sela menerima gulungan tenun penanda arah. Kovan menyerahkan peta jalur sembilan hari kepada Ashvarok-Renn.
 
-Bersama.
+"Pulang untuk makan malam," kata ibu Tamma.
 
-Itu rasanya... seperti keluarga sungguhan."
+Sela menatap bekal sebanyak perjalanan sebulan. "Makan malam hari keberapa?"
 
----
+"Jangan tawar-menawar dengan ibu yang memegang sendok. Kirim kabar setiap malam."
 
-Dan satu baris terakhir dari nat lorong barak utara — yang mendengar semuanya:
+Ashvarok-Renn menyentuh nat gerbang. "Kami akan pulang."
 
-"PERGI LAH ANAK-ANAK.
+Panggilan dari Vel-Morra terasa sangat tipis di bawah telapak mereka—batu, api, dan suara muda yang bertahan di sela keduanya. Kali ini Ashvarok tidak membiarkannya lewat tanpa jawaban.
 
-GUNUNG YANG MENUNGGU DELAPAN RATUS TAHUN LAYAK DITEMUI OLEH KELUARGA YANG SALING SAYANG.
+Ia mengetuk tiga kali.
 
-DAN INGAT: AKU SELALU MENERUSKAN KABAR KALIAN KE SELURUH JARINGAN.
+Kami datang.
 
-KALIAN TIDAK PERNAH BICARA SENDIRIAN. BAHKAN DI GUNUNG SEKALIPUN."
-
----
-
-Dan satu kalimat terakhir dari Ashvarok — untuk menutup bab 256:
-
-"Delapan bulan silam aku bertanya 'ada siapa di sana?'.
-
-Besok, untuk pertama kalinya... kami bertiga yang menjawab: 'KAMI DATANG.'"
-
----
-
-Dan satu adegan terakhir yang benar-benar terakhir — di nat aula, malam sebelum berangkat:
-
-Keluarga the Quiet Vein duduk bersama untuk terakhir kali sebelum perjalanan. Sela membaca arsip Hegemony sekali lagi — dan menemukan satu detail kecil yang terlewat semua orang:
-
-Di bawah laporan "jejak resonansi bertahan di tungku" ada TANDA TANGAN pelapor.
-
-Nama pelapor itu:
-
-"Pengawal muda Gorvel, pos gunung Vel-Morra, tahun pertama larangan."
-
-Sunyi panjang.
-
-Lalu Renn berkata dari dalam — dan Ashvarok mengulanginya keras-keras:
-
-"Gorvel... adalah orang pertama yang melihat jejakmu."
-
-
----
-
-Dan Ashvarok menambahkan — suaranya pelan:
-
-"Orang pertama yang melihat jejakku delapan puluh tahun silam... adalah orang yang tadi malam menangis kena sup kami.
-
-Dunia ini kecil, Nak Renn. Dunia ini kecil dan sabar.
-
-Dan dia selalu menyimpan jawabannya untuk orang yang cukup berani bertanya."
+Di barat laut, jauh melampaui jalur pendakian, sebuah gunung membalas.

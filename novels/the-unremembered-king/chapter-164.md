@@ -5,15 +5,15 @@ chapter: 164
 
 Ia dimulai, seperti kebanyakan hal yang bertahan di Caldrest, tanpa pengumuman.
 
-Malam Dua, ibu Tamma selesai membersihkan dapur lebih awal, memutar satu bangku panjang ke tengah ruangan, duduk di atasnya, dan berkata kepada barak yang setengah mengantuk: "Duduk. Ada yang mau kuceritakan. Cerita benar tentang orang yang masih hidup." Lalu ia menceritakan tentang Brannoc — bukan mandor, tetapi anak muda berandal dua puluh tahun silam yang pernah menolongnya memikul air sepanjang musim kering tanpa diminta, yang bahunya patah bukan di tambang melainkan karena tertabrak gerobak saat membawa obat untuk anak orang lain — dan barak mendengarkan dengan cara yang berbeda dari mendengarkan kabar, dan ketika selesai, beberapa orang menyebut nama Brannoc keras-keras seperti mengetok pintunya, dan malam berlanjut normal.
+Malam Kedua, ibu Tamma selesai membersihkan dapur lebih awal, memutar satu bangku panjang ke tengah ruangan, duduk di atasnya, dan berkata kepada barak yang setengah mengantuk: "Duduk. Ada yang mau kuceritakan. Cerita benar tentang orang yang masih hidup." Lalu ia menceritakan tentang Brannoc — bukan mandor, tetapi anak muda berandal dua puluh tahun silam yang pernah menolongnya memikul air sepanjang musim kering tanpa diminta, yang bahunya patah bukan di tambang melainkan karena tertabrak gerobak saat membawa obat untuk anak orang lain — dan barak mendengarkan dengan cara yang berbeda dari mendengarkan kabar, dan ketika selesai, beberapa orang menyebut nama Brannoc keras-keras seperti mengetok pintunya, dan malam berlanjut normal.
 
 Malam Rabat, giliran perempuan bilik tujuh menceritakan ibu Tamma: bagaimana wanita itu diam-diam membayar sekolah anak janda dari uang santunannya sendiri selama dua tahun, dan baru ketahuan karena bukti pembayaran terlupa di saku mantel bekas.
 
-Malam Kapat, Ondar bercerita tentang Dolm Vekk — dan kali ini tidak sendirian di tepi galeri tua, melainkan di atas bangku panjang, dengan tiga puluh pendengar, dan ketika ia selesai, seluruh barak menyebut nama itu bersama-sama, termasuk mereka yang tidak pernah bertemu orang matinya, dan Dolm Vekk resmi menjadi penduduk kedua peta nama yang datang dari dunia sebelah.
+Malam Kapat, Ondar bercerita tentang Dolm Vekk — dan kali ini tidak sendirian di tepi galeri tua, melainkan di atas bangku panjang, dengan tiga puluh pendengar, dan ketika ia selesai, seluruh barak menyebut nama itu bersama-sama, termasuk mereka yang tidak pernah bertemu orang matinya, dan Dolm Vekk resmi menjadi penduduk kedua name map yang datang dari dunia sebelah.
 
-Ashvarok memahami apa yang sedang dibangun adiknya pada malam Keenam, ketika Sela naik ke bangku panjang dengan daftar di tangannya.
+Ashvarok memahami apa yang sedang dibangun adiknya pada Malam Keenam, ketika Sela naik ke bangku panjang dengan daftar di tangannya.
 
-"Ini namanya Panggung Dapur," kata gadis itu kepada barak, formal seperti notulis yang membacakan pasal. "Aturannya tiga. Satu: cerita harus benar, bisa dicek siapa pun yang hadir, dan kalau ada yang salah, yang hadir boleh mengoreksi langsung. Dua: yang diceritakan adalah orang yang masih hidup atau baru saja mati — kita ceritakan orang di depan mata kita, agar mereka dengar sendiri sementara masih bisa. Tiga: setiap malam Dua, Kapat, Rabat. Tidak ada paksaan. Yang tidak mau diceritakan, namanya dilewati, dan dilewati pun tetap disayang."
+"Ini namanya the Kitchen Stage," kata gadis itu kepada barak, formal seperti notulis yang membacakan pasal. "Aturannya tiga. Satu: cerita harus benar, bisa dicek siapa pun yang hadir, dan kalau ada yang salah, yang hadir boleh mengoreksi langsung. Dua: yang diceritakan adalah orang yang masih hidup atau baru saja mati — kita ceritakan orang di depan mata kita, agar mereka dengar sendiri sementara masih bisa. Tiga: setiap Malam Kedua, Kapat, Rabat. Tidak ada paksaan. Yang tidak mau diceritakan, namanya dilewati, dan dilewati pun tetap disayang."
 
 Lalu ia menoleh ke arah Ashvarok yang duduk paling belakang dekat pintu, sebagaimana selalu, dan berkata kalimat yang membuat seluruh barak berbalik:
 
@@ -43,7 +43,7 @@ Ia pulang larut. Di ambang ranjang, Sela menyergapnya satu kali terakhir, kapur 
 
 ---
 
-Kabar Panggung Dapur menyebar ke luar barak lebih cepat dari perkiraan siapa pun, karena Caldrest lapar akan jenis kejutan ini tanpa menyadarinya.
+Kabar the Kitchen Stage menyebar ke luar barak lebih cepat dari perkiraan siapa pun, karena Caldrest lapar akan jenis kejutan ini tanpa menyadarinya.
 
 Pekan pertama, pengunjung luar: dua orang. Perempuan bilik sebelas yang membawa sepupunya untuk "lihat cara orang di sini jaga nama". Pekan kedua: Maera datang — duduk paling belakang, tidak menceritakan apa pun, hanya mendengarkan enam cerita tentang warga yang tidak ia kenal, dan pulang dengan catatan satu kalimat di buku hitamnya yang kelak ia tunjukkan kepada Ashvarok bertahun-tahun kemudian: "Hari 252. Kota ini membangun arsip hidupnya sendiri. Guild kami butuh seratus tahun dan gedung; mereka butuh bangku."
 
@@ -53,7 +53,7 @@ Pekan ketiga, hal yang tidak terduga terjadi di dalam barak sendiri: Tovik dibaw
 
 Dan barak menceritakan Tovik kepada Tovik: penambang tua galeri sembilan yang tangannya paling stabil waktu mengetuk pasak, yang memberi nama pada burung tambang, yang tersenyum ke semua anak walau dunia sudah melupakan namanya — cerita demi cerita, dikoreksi di tengah ("bukan galeri sembilan, itu lorong tujuh!", "betul, betul, maaf"), ditambahkan, dipanaskan, sampai lelaki tua itu tertawa pada bagian yang tak ia ingat pernah terjadi tetapi kini miliknya lagi karena tiga puluh orang bersaksi.
 
-Ashvarok yang duduk di pintu malam itu melihat the Hollowed kedua menutup matanya sambil tersenyum, dan memahami sesuatu yang membuatnya harus keluar sebentar ke udara malam untuk berdiri diam bersalju napas: bahwa pagarnya — name-roll, kereta nama, peta nama — selama ini dirancang untuk mencegah hilangnya nama. Sedangkan panggung dapur ini bukan pagar. Ini kebalikannya. Ini mesin yang MENGEMBALIKAN nama yang sudah hilang.
+Ashvarok yang duduk di pintu malam itu melihat the Hollowed kedua menutup matanya sambil tersenyum, dan memahami sesuatu yang membuatnya harus keluar sebentar ke udara malam untuk berdiri diam bersalju napas: bahwa pagarnya — name-roll, name train, name map — selama ini dirancang untuk mencegah hilangnya nama. Sedangkan the Kitchen Stage ini bukan pagar. Ini kebalikannya. Ini mesin yang MENGEMBALIKAN nama yang sudah hilang.
 
 Vel-Ghora mengambil. Dapur mengembalikan. Perang di level itu baru saja mendapat medan tempurnya sendiri, dan medannya adalah sebuah dapur dengan satu bangku panjang.
 

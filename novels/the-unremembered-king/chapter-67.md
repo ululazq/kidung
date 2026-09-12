@@ -11,7 +11,7 @@ Orang tua itu turun pada sore hari kedelapan puluh lima, ketika shift berganti d
 
 Shift Guard itu tidak bertanya lagi. Orang-orang yang dibayar pusat selalu seperti ini — sopan, sedikit, dan tidak bisa diajak bicara lebih dari kebutuhan.
 
-Kovan menunggunya di tingkat empat, tepat di bawah papan garis karantina. Muda itu berdiri tegak, dengan lempeng resminya tersampir di punggung seperti senjata, dan orang tua itu membaca sikapnya sebelum membaca wajahnya. Ada yang ingin ditanya, ditahan sejak lama.
+Kovan menunggunya di tingkat empat, tepat di bawah papan garis karantina. Pemuda itu berdiri tegak, dengan lempeng resminya tersampir di punggung seperti senjata, dan orang tua itu membaca sikapnya sebelum membaca wajahnya. Ada yang ingin ditanya, ditahan sejak lama.
 
 "Bersama saya sampai ambang?" tanya Kovan.
 
@@ -51,7 +51,7 @@ Bagi mata, bagi alat, bagi semua pembacaan resmi, dais itu batu polos — altar 
 
 Ia tidak menyentuh dais dua kali. Satu sentuhan sudah cukup mahal bagi kedua belah pihak. Bagi batunya, karena batu yang dibohongi akan ingat tangan yang membaca kebohongannya. Baginya, karena pembaca yang ketahuan membaca adalah pembaca yang mati lebih dulu. Sebagai gantinya ia bekerja pada bagian aula yang tidak berbohong, satu per satu, seperti juru uang memeriksa koinnya sendiri.
 
-Endapan garam di sisi utara: jujur. Umurnya panjang dan bertingkat, lapisan demi lapisan, tidak ada yang dipindah dari tempatnya — garam yang dipindahkan selalu punya arah letak yang terlalu sopan. Geometri ruangan — membosankan dengan cara yang benar. Sudut-sudutnya menjawab pertanyaan alat dengan angka-angka yang sama yang dicatat para penilai. Retakan jauh di timur — mati, rapi, dan rapi itulah yang tidak jujur. Ia menyusuri dinding timur dengan telapak yang tidak lagi menempel, hanya melayang sehelai kulit dari permukaan, dan di sekitar blind door lorong B ia berhenti lebih lama. Batu pintu itu menua dengan jujur juga — kelupas di tempat yang wajar, gelap di tempat yang wajar — tetapi menuanya seragam, seragam seperti usia yang ditunggu sampai tiba. Ia tidak menemukan apa yang bisa ia tulis tentang hal itu, dan hal-hal yang tidak bisa ditulis selalu ia simpan untuk versi kedua. Ia bangkit, mengambil lampunya, dan memutar badan menghadap retakan jauh di sisi timur aula.
+Endapan garam di sisi utara: jujur. Umurnya panjang dan bertingkat, lapisan demi lapisan, tidak ada yang dipindah dari tempatnya — garam yang dipindahkan selalu punya arah letak yang terlalu sopan. Geometri ruangan — membosankan dengan cara yang benar. Sudut-sudutnya menjawab pertanyaan alat dengan angka-angka yang sama yang dicatat para Assayer. Retakan jauh di timur — mati, rapi, dan rapi itulah yang tidak jujur. Ia menyusuri dinding timur dengan telapak yang tidak lagi menempel, hanya melayang sehelai kulit dari permukaan, dan di sekitar blind door lorong B ia berhenti lebih lama. Batu pintu itu menua dengan jujur juga — kelupas di tempat yang wajar, gelap di tempat yang wajar — tetapi menuanya seragam, seragam seperti usia yang ditunggu sampai tiba. Ia tidak perlu menyentuh untuk tahu ada tangan yang pernah mempercepat waktu di sini.
 
 Retakan itu terbaca mati. Formasi gagal, seperti kesimpulan para alat. Namun kematian yang ia kenal selalu berantakan — kematian meninggalkan sisa, dan sisa bersuara kalau didekati cukup dekat. Kematian ini rapi. Rapi seperti ranjang yang sudah lama tidak ditiduri tetapi masih disisir tiap pagi.
 
@@ -65,7 +65,7 @@ Vael membayar mahal agar ia tinggal. Orang tua itu tidak salah membaca harga itu
 
 Ia menulis laporan pada malam yang sama, karena laporan yang ditulis besok pagi adalah laporan yang sudah diedit dua kali oleh tidur.
 
-Laporan pertama ia tulis untuk dikirim — empat baris, sesuai kebutuhan. Segmen sesuai klasifikasi. Struktur terbaca konsisten dengan penetapan. Tidak ditemukan hal yang mengubah status. Disarankan pengukuran ulang berkala oleh pengawas tetap. Kalimat terakhir penting. Tanpa pekerjaan rutin, tidak ada alasan tinggal; tanpa alasan tinggal, tidak ada hak masuk.
+Laporan pertama ia tulis untuk dikirim — empat baris, sesuai kebutuhan. Segmen sesuai klasifikasi. Struktur terbaca konsisten dengan penetapan. Tidak ditemukan hal yang mengubah status. Disarankan pengukuran ulang berkala oleh Overseer tetap. Kalimat terakhir penting. Tanpa pekerjaan rutin, tidak ada alasan tinggal; tanpa alasan tinggal, tidak ada hak masuk.
 
 Laporan kedua tidak untuk dikirim. Untuk yang kedua ia memakai kertas tipis dan huruf yang sudah tidak dipakai siapa pun, tulisan miring yang ia rangkai sendiri dari dua alfabet mati, dan isinya bukan temuan — temuan boleh dicuri; pertanyaan lebih sulit dijual. Ia menulis:
 
@@ -75,6 +75,6 @@ Ia melipat kertas itu tiga kali, mengangkat sol kanan sepatunya, menyingkap lapi
 
 Lampu dipadamkan. Sebelum tidur, ia kembali sebentar ke ambang kamarnya yang menghadap jalan distrik tengah, dan menyentuh batu pintu sekali, ringan, seperti orang mengetuk kayu sebelum meninggalkan rumah. Kepada batu, bukan kepada siapa pun. Batu pintu itu batu biasa, batu potongan pasar, tidak pernah ditempa siapa-siapa — dan justru karena itu ia boleh menyentuhnya tanpa harga.
 
-Satu hal lagi ia lakukan sebelum matahari kota ini padam. Ia berdiri di jendela, memandang ke arah lereng timur yang gelap di balik atap-atap, dan menghitung — lima puluh langkah dari garis karantina ke ambang, dan berapa pun dari ambang ke ruangan tengah itu. Angka pertama milik Kovan. Ia mendengarnya dari cara muda itu melangkah. Angka kedua miliknya sendiri. Dua pembaca, satu batu, dan tidak ada satu pun dari mereka yang boleh tahu lebih dulu daripada yang lain.
+Satu hal lagi ia lakukan sebelum matahari kota ini padam. Ia berdiri di jendela, memandang ke arah lereng timur yang gelap di balik atap-atap, dan menghitung — enam puluh satu langkah dari garis karantina ke ambang, dan berapa pun dari ambang ke ruangan tengah itu. Angka pertama milik Kovan. Ia mendengarnya dari cara muda itu melangkah. Angka kedua miliknya sendiri. Dua pembaca, satu batu, dan tidak ada satu pun dari mereka yang boleh tahu lebih dulu daripada yang lain.
 
 Di bawah tanah, di ujung koridor timur, sesuatu yang rapi sedang menunggu dibaca. Orang tua itu tidur dengan telinga kanan di atas bantal, seperti biasa, sejak zaman yang tidak pernah ia ceritakan kepada siapa pun.

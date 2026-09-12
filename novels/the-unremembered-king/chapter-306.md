@@ -13,7 +13,7 @@ Kovan membaca dua kolom itu lama. Ia tidak langsung menghitung. Ia menempelkan t
 
 "Berapa per bulan?" tanya Sela.
 
-Kovan menulis di buku anomali halaman sepuluh. *Setahun = 0,5 napas. Sebulan = 0,041 napas. Sepekan = 0,009 napas. Tidak terlihat dalam sehari, terlihat dalam setahun. Tarikan lambat, tetapi terus.*
+Kovan menulis di the Anomaly Book halaman sepuluh. *Setahun = 0,5 napas. Sebulan = 0,041 napas. Sepekan = 0,009 napas. Tidak terlihat dalam sehari, terlihat dalam setahun. Tarikan lambat, tetapi terus.*
 
 Ashvarok-Renn menatap angka 0,041. "Lambat adalah yang paling berbahaya. Yang cepat terlihat, yang lambat tidak. Delapan belas tahun setengah napas per tahun = sembilan napas. Sembilan napas adalah tiga kali tiga detik. Tiga kali jeda panjang."
 
@@ -21,7 +21,7 @@ Ashvarok-Renn menatap angka 0,041. "Lambat adalah yang paling berbahaya. Yang ce
 
 "Tidak," jawab Ashvarok-Renn. "Tetapi cukup untuk tipis. Tempat lima panglima gugur adalah yang paling tipis. Sembilan napas di sana mungkin sudah setengah dari yang dibutuhkan untuk membuka."
 
-Ia menutup buku anomali. Di sudut ruangan, Yang Dulu Sunyi mencatat pelan: tiga detik. Lalu senyap. Senyap itu bukan jeda yang ditahan. Ia hanya jeda biasa — dunia dan kedalaman bernapas normal, belum menahan.
+Ia menutup the Anomaly Book. Di sudut ruangan, the Once-Silent mencatat pelan: tiga detik. Lalu senyap. Senyap itu bukan jeda yang ditahan. Ia hanya jeda biasa — dunia dan kedalaman bernapas normal, belum menahan.
 
 ---
 
@@ -29,7 +29,7 @@ Siang, Maera datang membawa perawat menara itu sendiri — bukan fisiknya, melai
 
 *Aku tidak ingat angka setahun silam. Aku hanya ingat kerasnya. Setahun silam aku masih bisa dengar dentum sambil menyapu. Kini aku harus berhenti menyapu untuk dengar. — Juru Rawat Batu, angkatan keempat.*
 
-"Juru rawat itu murid kita," kata Sela pelan. "Angkatan keempat Sekolah Mendengar, ditempatkan di Spire sebagai perawat batu. Ia yang menulis 3,2,3 tiga hari lalu."
+"Juru rawat itu murid kita," kata Sela pelan. "Angkatan keempat the Listening School, ditempatkan di Spire sebagai perawat batu. Ia yang menulis 3,2,3 tiga hari lalu."
 
 "Betul," kata Maera. "Dan kini ia menulis bahwa ia harus berhenti menyapu untuk dengar. Itu berarti dentum menara bukan lagi di latar. Ia di depan. Yang dulu bisa diabaikan sambil menyapu, kini harus dihadapi dengan berhenti."
 
@@ -57,7 +57,7 @@ Kovan menatap sapu itu. "Harn juga harus berhenti menyapu untuk dengar. Sama sep
 
 "Betul," kata Brannoc. "Maka dua ujung benang — barak dan menara — sama-sama punya anak yang harus berhenti menyapu untuk dengar. Itu bukan kebetulan. Itu tanda benang di dua ujung sama-sama menegang."
 
-Ashvarok-Renn berdiri, berjalan ke rak, mengambil buku anomali halaman sepuluh. Ia menulis di bawah angka 0,041: *Harn (barak) dan juru rawat (menara) sama-sama berhenti menyapu saat dentum keras. Dua ujung, satu tanda: benang menegang serentak. Kecepatan 0,041 napas/bulan konsisten di dua tempat.*
+Ashvarok-Renn berdiri, berjalan ke rak, mengambil the Anomaly Book halaman sepuluh. Ia menulis di bawah angka 0,041: *Harn (barak) dan juru rawat (menara) sama-sama berhenti menyapu saat dentum keras. Dua ujung, satu tanda: benang menegang serentak. Kecepatan 0,041 napas/bulan konsisten di dua tempat.*
 
 "Apakah kita laporkan ke Dewan?" tanya Brannoc.
 
@@ -71,7 +71,7 @@ Kovan menutup buku hitung. "Satu napas adalah jeda panjang. Saat setengah menjad
 
 "Dan saat tangan di bawah berhenti, kita tahu pengikat aman satu hentakan," sambung Sela.
 
-Sore menjelang malam, Gella memeriksa buku anomali bukan untuk angka, melainkan untuk napas.
+Sore menjelang malam, Gella memeriksa the Anomaly Book bukan untuk angka, melainkan untuk napas.
 
 "Setengah napas dalam setahun," kata Gella, menatap angka 0,041. "Itu bukan angka besar. Tetapi napas bukan angka. Napas adalah tubuh. Setengah napas yang hilang dari menara berarti setengah napas yang harus ditahan oleh tubuh yang ada di menara — perawat itu. Ia menahan setengah napas lebih lama tiap subuh tanpa sadar."
 
@@ -91,7 +91,7 @@ Ashvarok-Renn mencatat di halaman sepuluh bawah: *Gella: menahan setengah napas 
 
 Di luar, angin lembah utara tidak membawa apa pun ke ambang. Rumput kering sudah jauh. Di kejauhan, penyapa kampung tiga jalur menutup pintu dengan tiga ketukan — kebiasaan yang kini milik dunia, bukan milik barak.
 
-Malam. Tami-Tomi menutup tungku dengan abu basah. Murid-murid Sekolah Mendengar kembali ke asrama, langkah pelan di papan barak yang berdenyut tiga hentakan lalu jeda. Di sudut ruangan, Yang Dulu Sunyi mencatat detak pelan: tiga detik. Lalu senyap. Senyap itu bukan ditahan. Ia hanya lewat — normal, tipis, menunggu.
+Malam. Tami-Tomi menutup tungku dengan abu basah. Murid-murid the Listening School kembali ke asrama, langkah pelan di papan barak yang berdenyut tiga hentakan lalu jeda. Di sudut ruangan, the Once-Silent mencatat detak pelan: tiga detik. Lalu senyap. Senyap itu bukan ditahan. Ia hanya lewat — normal, tipis, menunggu.
 
 Ashvarok-Renn duduk di kursi sudut. Di pangkuannya, kain kedua dari utara dan sapu Harn yang masih berdebu. Dua benda dari dua ujung benang yang sama — kain yang berisi ingatan setahun dan sapu yang berhenti di tengah menyapu — keduanya mengatakan hal yang sama tanpa menyebut nama: benang menegang setengah napas dalam setahun, dan yang menahan di dua ujung sama-sama harus berhenti menyapu untuk dengar.
 

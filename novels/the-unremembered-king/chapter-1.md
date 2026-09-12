@@ -3,120 +3,242 @@ title: "Bab 1: Yang Selamat"
 chapter: 1
 ---
 
-Yang pertama kali diketahui Ashvarok tentang tubuh barunya adalah beratnya.
+Batu menahan paha kiri Ashvarok.
 
-Batu menekan dari tiga arah. Sebuah lempeng cinder-glass sebesar perisai mengunci paha kirinya, dan debu halus mengisi mulut sampai setiap tarikan napas terasa seperti mengunyah tanah yang basah. Di dalam kehidupan yang terakhir ia ingat — api putih, lima nama yang diteriakkan satu per satu, lalu keheningan yang ia pilih sendiri — beban sebesar ini tidak pernah sampai ke nadinya. Bagi tubuh ini, beban itu segalanya. Tubuh ini kecil. Tulangnya tipis. Jantungnya berlari seperti binatang kecil yang ketakutan di dalam karung.
+Ia mengetahui itu sebelum mengetahui tubuh yang terjepit bukan tubuhnya.
 
-Tubuh panik. Ia tidak. Panik itu milik pemilik aslinya, dan pemilik asli sudah tiada.
+Debu memenuhi mulut. Setiap napas menggesek tenggorokan. Jantung kecil memukul rusuk terlalu cepat, mencoba lari dari beban yang tidak bisa dihindarinya. Ashvarok membiarkannya panik. Kepanikan itu milik daging; ia tidak perlu ikut serta.
 
-Ashvarok membuka mata. Gelap total — bukan gelap malam yang masih punya arah, melainkan gelap batu yang menelan segalanya, yang menahan napasnya sendiri seperti ruangan yang belum pernah disentuh cahaya. Ia menggerakkan jemari kanan satu per satu, lalu kiri. Tangan ini kecil, penuh luka bakar tua di punggung tangan, kapalan tebal di pangkal telapak. Tangan pekerja tungku, atau tangan pengangkut batu. Bukan tangannya. Tangannya sudah selesai dipakai seribu tahun silam, dibayar untuk sebuah segel, dan tidak pernah dikembalikan.
+Ia membuka mata. Gelap batu, tanpa jarak dan tanpa arah. Jemari kanannya bergerak. Lalu kiri. Keduanya kecil, penuh kapalan dan luka bakar lama. Pergelangan kurus. Bahu belum selesai tumbuh. Tubuh pekerja tungku yang dipaksa dewasa sebelum waktunya.
 
-Ia menarik napas, menahan, lalu mendorong kesadarannya turun — melewati batu, melewati urat-urat yang mati dalam formasi, turun ke tempat yang ia tahu ada karena dialah yang dulu menguncinya. Di kedalaman itu, sesuatu menyapanya.
+Tubuh seorang anak.
 
-The Threshold menyapunya seperti gelombang hangat menyapu pergelangan kaki orang yang berdiri di air dangkal. Gema itu mengenalinya — tidak dengan nama, karena namanya sudah lama dimakan sendiri, tetapi dengan cara gembok mengenali kuncinya. Satu getaran pendek yang berjalan naik dari dasar tambang, melewati lorong-lorong mati, dan berhenti tepat di tulang dada tubuh pinjaman ini.
+Tubuh terakhir yang ia miliki telah habis seribu empat puluh tujuh tahun lalu, bersama api putih, lima nama, dan segel yang dibayar dengan seluruh kerajaan.
 
-Ashvarok membaca getaran itu selagi ia bisa. Retakan. Tipis, selebar sehelai rambut, terbuka di dasar the Underfold tepat di atas bibir segel tua itu. Pengikat yang ia tanam masih memegang — tetapi pengikat itu kurus. Kurus dengan cara yang salah. Seribu tahun harusnya membuatnya mengeras seperti arang tertua. Yang ia rasakan malah seperti tali yang telah digigit-gigit sesuatu dari sisi lain, helai demi helai, pelan dan sabar, seperti sesuatu yang punya banyak waktu dan tidak terburu-buru.
+Ashvarok menekan telapak ke lantai. Batu pecah menusuk kulit. Sebuah lempeng cinder-glass mengunci paha, beratnya cukup untuk menghancurkan tulang tubuh ini. Nyeri menjalar saat ia mencoba bergeser. Tulangnya masih utuh. Itu kabar baik pertama dari zaman baru.
 
-Ada yang minum darinya. Sudah lama. Masih berlangsung.
+Ia menarik kesadarannya turun.
 
-Ia mencoba menjulurkan bakatnya lebih dalam — membuka geometri retakan itu, menghitung berapa jauh bocornya — dan dunia memberi jawaban berupa harga. Sesuatu di dadanya terkoyak tipis, seperti kain tua yang robek sedikit saat ditarik. the Remainder. Sisa dirinya yang tersisa untuk membakar bakat raja. Ia berhenti sebelum menghitung habis apa yang belum mau ia ketahui.
+Lapisan batu terbuka dalam benaknya: lorong-lorong galian, urat mati, rongga yang baru runtuh. Lebih dalam lagi, di bawah the Underfold, berdiri sesuatu yang pernah ia bangun untuk menahan akhir dunia.
 
-Cukup. Bukan malam ini. Malam ini ia hanya perlu keluar dari bawah batu ini.
+The Threshold menyentuhnya.
 
-Sebelum ia menarik diri, retakan itu menyentuhnya sekali lagi — lembut, mencoba, seperti jari bayi yang menggenggam sesuatu di dalam tidurnya. Ashvarok menutup pintu itu di dalam dirinya, rapat, sunyi, dan baru setelah itu ia mengizinkan tubuh ini untuk pingsan.
+Gema hangat naik melalui batu dan berhenti di tulang dadanya. Tidak menyebut nama. Nama dapat hilang, dipalsukan, atau dikubur. Gembok mengenali bentuk kuncinya tanpa membutuhkan semua itu.
+
+*the Walking Key.*
+
+Pengakuan itu hanya berlangsung satu denyut. Cukup untuk menunjukkan kerusakan.
+
+Retakan setipis rambut membelah batu di atas bibir segel. Pengikat lama masih memegang, tetapi tenaganya menipis helai demi helai. Bukan aus. Bukan umur. Sesuatu di sisi lain menyedotnya dengan sabar.
+
+Ada yang minum dari segel.
+
+Ashvarok mendorong lebih dalam, mencari bentuk dan arah kebocoran. Sakit mengiris dadanya. the Remainder terkoyak seperti kain tua yang ditarik terlalu keras. Ia memutus sentuhan sebelum harga berikutnya ditagih.
+
+Ia belum punya cukup tubuh untuk mati dua kali pada pagi yang sama.
+
+Retakan itu berdenyut lagi. Mencoba. Mengenalinya.
+
+Ashvarok menutup jalan menuju kesadarannya. Sesudah itu, barulah ia membiarkan tubuh bocah tersebut pingsan.
 
 ---
 
-Suara datang sebelum cahaya. Sekop besi mengikis batu, lalu suara manusia yang saling berseru di antara debu yang masih menggantung.
+Besi mengikis batu.
 
-"...lorong tujuh saja yang amblas! Yang lain masih berdiri!"
+"Lorong tujuh saja yang amblas! Lorong lain masih berdiri!"
 
-"Lorong tujuh tempat enam orang bekerja, Bodak. Enam."
+"Enam orang bekerja di lorong tujuh."
 
-"Empat sudah keluar. Tinggal dua. Foreman bilang gali sampai—"
+"Empat sudah keluar. Foreman bilang gali sampai—"
 
-"Foreman juga bilang kuota naik seperempat mulai shift depan. Kau percaya mana, kata foreman atau kataku sendiri?"
+"Foreman juga bilang kuota naik seperempat. Simpan napasmu untuk sekop."
 
-Ashvarok membuka mata pada cahaya kuning kerucut — lampu cinder-glass yang digantung di ujung galungan. Cahaya itu menusuk otak tubuh ini sampai air mata bercampur debu di pelupuk. Ia membiarkan tubuh batuk. Batuk yang asli, tak perlu akting.
+Cahaya kuning menembus kelopak Ashvarok. Ia membuka mata dan langsung batuk. Debu keluar bersama ludah hitam.
 
-Dua kepala bertengger muncul di bibir lubang. Yang satu tua, bahu kanan turun lebih rendah dari kiri, mengunyah sesuatu yang pahit sampai rahangnya berbunyi. Yang lain muda dan gemetar — bukan karena dingin.
+Dua wajah muncul di celah reruntuhan. Pemuda di depan memegang lampu cinder-glass dengan tangan gemetar. Lelaki tua di belakangnya mengunyah akar pahit. Bahu kanannya turun lebih rendah daripada kiri.
 
-"Ya Tuhan batu," bisik si muda. "Yang itu hidup. Foreman! Hidup satu!"
+Ingatan tubuh mengenali lelaki itu lebih dahulu: Brannoc, foreman shift.
 
-Yang tua — Brannoc, kata ingatan samar tubuh ini tentang suara foreman shift — merangkak masuk tanpa ragu, menimbang reruntuhan dengan telapak tangan seperti penjual buah menimbang mangga. Ia memindahkan lempeng cinder-glass dari paha Ashvarok dengan satu dorongan pinggul, cara orang yang sudah tahu batu mana boleh disentuh dan batu mana yang harus dibiarkan tidur.
+"Dia hidup," kata si pemuda. Suaranya pecah. "Foreman, Renn hidup."
 
-"Jemari," katanya. "Gerakkan jemari kaki."
+Brannoc menyelip masuk. Telapak tangannya meraba dua batu, lalu lempeng yang menahan paha Ashvarok.
 
-Ashvarok menggerakkannya. Paha kiri menyala sakit, tetapi tulang utuh.
+"Ondar, tahan lampu. Jangan sentuh batu di atas kepalanya."
 
-"Berani mati kau di sini, nak. Satu langkah lagi runtuhannya turun." Brannoc menyentaknya ke bahu yang sehat, mengangkatnya seperti karung beras, dan bergerak mundur dengan langkah yang anehnya sangat tenang. "Napas. Jangan bicara dulu. Debu seam ini membuat orang bodoh kalau diminum banyak."
+"Yang hitam?"
 
-Mereka keluar ke ruang persimpangan yang cukup luas untuk lima lampu dan sepuluh orang yang tidak melakukan apa-apa. Sepuluh wajah menoleh. Tidak ada yang bersorak. Di tambang, orang selamat dihitung dengan cara mengurangi, bukan menambah — dan malam itu, ruangan itu terasa seperti tempat di mana angka-angka sedang dihitung ulang dalam diam.
+"Yang retak. Kalau kau tak bisa membedakan, jangan sentuh apa pun."
 
-Brannoc menurunkannya di dekat tungku ventilasi, menyangga punggungnya dengan kantong karung, lalu berdiri di hadapannya dengan tangan menyilang. "Sekarang bicara. Siapa kau, shift berapa, dan siapa lagi di bawah sana waktu amblas?"
+Ondar membeku. Lampunya berhenti bergoyang.
 
-"Renn," kata Ashvarok.
+Brannoc menyandarkan pinggul ke tepi lempeng dan mendorong. Tekanan terangkat dari paha. Nyeri menyala sampai pinggang, bersih dan tajam.
 
-Nama itu datang begitu saja, dan ia mengambilnya seperti orang menangkap kantong yang dilempar. Baru setelah keluar ia sadar nama itu benar — terukir di memori otot tubuh ini, di cara lidah menyebutnya, di cincin besi hitam kontrak the Quiet Vein di ibu jari kanan yang bergetar pelan mengikuti denyut jantung pemilik barunya.
+"Gerakkan jemari kaki," kata Brannoc.
 
-"Shift malam, lorong tujuh, dekat tungku," lanjut Ashvarok. "Aku mengangkut batu ke troli. Ada suara dulu dari dinding timur. Bunyi panjang, rendah. Lalu sunyi total. Lalu semua turun."
+Ashvarok menurut.
 
-"Sunyi total," ulang salah satu penambang. Suaranya turun separuh. "Seperti waktu lorong sembilan, musim panas lalu."
+"Lagi."
 
-"Jangan mulai," potong seorang lain.
+Lima jemari bergerak.
 
-Brannoc tidak ikut bergidik dan tidak ikut membantah. Matanya menghitung Ashvarok dari rambut sampai sepatu, lambat, seperti assayer menghitung barang curiga. "Enam orang shift-mu. Empat keluar. Kau yang kelima." Ia berhenti. "Yang keenam namanya Dolm. Ke mana Dolm?"
+"Tulang utuh." Brannoc mencengkeram lengannya. "Napas pendek. Jangan bantu aku kecuali ingin atap ini memilih korban keenam."
 
-Di situlah jebakannya, dan Ashvarok melihatnya seperti melihat anak tangga patah di kegelapan. Tubuh ini tahu jawabannya. Ia tidak.
+Ia menarik Ashvarok melewati celah. Ondar bergerak mundur cepat, satu tangan menjaga lampu, tangan lain menyingkirkan pecahan dari jalur mereka. Beberapa saat kemudian mereka mencapai persimpangan bertiang besi. Lima lampu tergantung di sana. Belasan pekerja berdiri di bawahnya dengan sekop diam.
 
-"Aku tidak ingat," katanya. "Ada batu besar di antara kami waktu amblas. Aku sempat dengar dia teriak, lalu tidak."
+Tak seorang pun bersorak. Penambang menghitung keselamatan dengan pengurangan.
 
-Kebenaran parsial, disajikan dengan wajah bocah yang baru lolos dari kuburan. Brannoc menatapnya lama sekali. Di ruang persimpangan itu, hanya tungku yang berbunyi — dan di bawah bunyi itu, samar-samar, sesuatu yang lain ikut bernapas, menunggu.
+Brannoc mendudukkan Ashvarok di dekat tungku ventilasi. Panas kering menyentuh wajahnya. Dari kisi tungku terdengar kipas tua memukul bantalan yang aus.
 
-"Ondar," kata Brannoc akhirnya, tanpa menoleh. "Ambil tali. Bawa dua orang. Kalau Dolm masih bernapas di bawah sana, dia punya waktu sampai lampumu habis, tidak lebih. Aku janji sama ibunya satu hal saja: kami tidak menutup lorong sebelum hitungan genap."
+"Lihat aku," kata Brannoc. "Nama. Shift. Posisi sebelum runtuh."
 
-Tiga orang bergerak. Yang gemetar tadi — Ondar — paling cepat.
+Ashvarok mencari ke dalam daging yang ia pakai. Ingatan datang sebagai gerak, bukan cerita: tangan mendorong troli; pundak menghindari pipa rendah; suara seorang anak perempuan memaki gelas yang pecah.
 
-Selagi tali-tali dibentangkan, Ashvarok memeriksa tubuh pinjaman ini dengan kesabaran orang membaca laporan musuh. Pergelangan kiri: seurat gema kecil yang mengeras seperti parut, mati rasa di ujungnya — vein-scar, lecet kumulatif penyaluran The Resonance zaman ini. Tubuh ini sudah pernah menyalur, dan sudah kena harganya. Ibu jari kanan: cincin besi hitam kontrak, hangat, berdenyut pelan mengikuti jantung — alat ukur utang the Quiet Vein yang tidak bisa dilepas tanpa melunasi. Dan di mana-mana yang lain: kelaparan tua, tidur yang tidak cukup, tulang yang tumbuh lebih cepat daripada makanannya. Tubuh lima belas tahun yang sudah dipakai bertahun-tahun oleh dunia ini, yang baru sekarang mulai bernapas untuk pertama kalinya.
+"Renn," katanya.
 
-Satu hal lagi, dan ini yang membuatnya diam sedetik lebih lama. Urat gema besar tubuh ini — jalur yang dulu ia pakai untuk seni raja — kosong. Bukan lemah. Kosong, seperti tungku yang belum pernah dinyalakan. Bagus. Kosong berarti belum dicatat siapa pun.
+Nama itu pas di lidah.
 
-Brannoc baru kemudian berjongkok sejajar mata Ashvarok. Suaranya turun sampai tingkat yang tidak akan ditangkap lampu paling jauh.
+"Shift malam. Lorong tujuh, dekat tungku. Aku mengangkut batu."
 
-"Sekarang dengar aku, Renn. Sebentar lagi rombongan Quota Office turun ke sini menghitung kerugian, dan yang mereka hitung bukan orang. Kuota shift kalian naik seperempat bulan depan, suratnya sudah turun, dan Kel Tharrow butuh angka yang rapi supaya surat itu tidak terlihat seperti pembunuhan berencana." Jempolnya mengunyah akar pahit itu lebih cepat. "Enam masuk, empat keluar, artinya dua mati dalam satu shift. Tharrow akan panggil yang selamat, tanya sembilan puluh pertanyaan, dan tulis sembilan puluh jawabanmu di kertas yang nanti dipakai memotong upah orang. Jadi pikirkan baik-baik setiap kata sebelum keluar dari mulutmu. Termasuk kata-kata soal suara dari dinding."
+"Siapa bersamamu?"
 
-"Aku hanya bilang apa yang kudengar."
+Nama-nama bergerak di balik kabut memori tubuh. Satu tidak dapat diraih.
 
-"Tentu. Dan aku hanya bilang apa yang kualami." Mata Brannoc tenang dan sangat tua. "Aku pernah prajurit, anak muda. Aku tahu wajah orang yang baru saja memutuskan sesuatu. Wajahmu barusan begitu."
+"Aku tidak ingat semuanya."
 
-Ashvarok membiarkan hening bekerja untuknya. Di bawah mereka, empat puluh hasta lebih dalam, retakan itu berdenyut pelan — dan ia baru sadar denyutnya cocok dengan detak jantung tubuh ini, detik demi detik, seperti sesuatu yang belajar irama dari kuncinya, yang menunggu di kedalaman dengan kesabaran yang tidak pernah dimiliki makhluk hidup.
+Brannoc berjongkok. "Apa yang kauingat?"
 
-"Kakakmu menunggu di barak," kata Brannoc bangkit, membersihkan lututnya dari debu. "Sela. Dia duduk di depan pintu dari senja, bawa gelas kaca pecah milik kalian berdua, katanya mau menuang teh kalau kau naik hidup-hidup. Anak itu lebih keras dari atap kota ini."
+"Suara dari dinding timur. Panjang. Rendah." Ashvarok menatap lelaki itu. "Lalu semua bunyi hilang. Setelah itu lorong turun."
 
-Sela. Nama itu jatuh ke dalam tubuh ini seperti kunci ke gembok kedua: adik angkat, sebelas tahun, bukan darah tetapi lebih pekat dari darah. Ingatan tubuh menyodorkan wajahnya, dan Ashvarok menemukan sesuatu yang tidak dia duga di malam pertamanya abad ini — sesuatu seperti berat, di tempat yang dulu menyimpan nama lima orang mati. Sesuatu seperti hangat, di tempat yang selama seribu tahun hanya ia isi dengan keheningan.
+Seorang pekerja di dekat tiang membuat tanda dengan dua jari. Yang lain menyuruhnya berhenti dengan tatapan.
 
-"Naik ke atas pakai kakimu sendiri," kata Brannoc. "Orang yang digotong keluar dari lorong tujuh tidak akan pernah dapat shift bagus lagi di Caldrest."
+"Enam masuk," kata Brannoc. "Empat keluar sebelum kami tiba. Kau kelima. Dolm Vekk keenam. Di mana dia?"
 
-Ashvarok berdiri. Paha kirinya protes; ia mengabaikannya dengan cara yang dulu membuat lima panglimanya tercengang. Tubuh ini lemah, lapar, dan bocor di satu urat gema kecil di pergelangan kiri — tetapi berdiri bisa. Berdiri, dan belajar berjalan lagi.
+Tubuh Renn mungkin tahu. Ashvarok tidak akan mengarang jawaban di depan orang yang menghafal kebohongan untuk hidup.
 
-Ondar naik dari lorong tujuh lebih cepat dari yang semestinya, wajah abu-abu di bawah lampu.
+"Ada batu di antara kami. Aku mendengar Dolm berteriak sekali. Sesudah itu tidak."
 
-"Foreman." Suaranya nyaris tidak keluar. "Kami temukan Dolm. Dia sudah tidak bernapas sejak lama. Dan... dinding lorong tujuh bagian dalam itu sunyi. Bukan tenang. Sunyi. Lampu kami menyala, batu ada, tetapi tempat itu seperti tidak mau dicatat ingatan. Aku dua kali lupa kenapa aku di sana."
+Brannoc menahan tatapannya. Akar pahit berpindah dari satu sisi mulut ke sisi lain.
 
-"Nama siapa yang kau lupa?" tanya salah satu penambang dari belakang, cepat, terlalu cepat.
+"Ondar. Ambil tali. Bawa dua orang."
 
-"Bukan nama siapa-siapa. Namaku sendiri, dua detik saja."
+Pemuda itu sudah meraih gulungan sebelum namanya selesai disebut.
 
-Ruangan itu menahan napasnya bersama-sama — seperti satu tubuh yang sama-sama merasakan dingin yang tiba-tiba turun. Brannoc menatap Ondar lama, lalu menoleh pada para penambangnya.
+"Lorong dalam belum diperiksa," kata salah satu pekerja.
 
-"Tidak ada yang mendengar hal itu," katanya. "Bukan perintah. Nasihat. Laporan soal suara dan sunyi akan kutulis sebagai runtuhan biasa, karena kalau kata 'sunyi' masuk surat resmi, orang-orang berjubah datang ke Caldrest, dan hari itu terakhir kali kalian digaji."
+"Karena itu dia membawa tali," jawab Brannoc. "Dolm hidup atau mati, hitungan kita harus genap sebelum Quota Office turun. Bergerak."
 
-"Satu lagi, Renn." Brannoc sudah setengah berbalik. "Waktu kau bilang sunyi total tadi — kau pasti, sunyinya bukan hanya hilangnya suara?"
+Ondar memilih dua orang. Mereka menyalakan lampu tambahan lalu menghilang ke lorong tujuh.
 
-"Lebih dari itu," kata Ashvarok. "Seperti hilangnya tempat untuk bunyi."
+Ashvarok menunduk seolah kehabisan tenaga. Ia memeriksa tubuh Renn selagi perhatian beralih.
 
-Brannoc mengangguk pelan, dan rahangnya yang sejak penyelamatan terus bekerja akhirnya diam. Untuk sesaat, di bawah lampu kuning itu, dua orang yang tidak saling percaya saling mengakui sesuatu yang tidak perlu diucapkan: bahwa keduanya tahu apa artinya ketika dunia mulai kehilangan suaranya.
+Lima belas tahun. Lapar yang telah tinggal lama. Otot dibentuk kerja berulang, bukan makanan. Di pergelangan kiri terbentang vein-scar tipis, keras dan mati rasa pada ujungnya. Tubuh ini pernah menyalurkan The Resonance dan membayar dengan jaringan yang terbakar.
 
-"Kalau dinding mulai diam," katanya, "jangan pernah diam sendirian."
+Cincin besi hitam melingkari ibu jari kanan: kontrak the Quiet Vein. Logam itu hangat, menghitung utang lewat denyut pemakainya. Tidak dapat dilepas sebelum angka di dalamnya lunas.
 
-Di bawah kaki mereka, sabar dan tipis, retakan itu menunggu kuncinya pulang — dan di dalam dada tubuh pinjaman ini, untuk pertama kalinya dalam seribu tahun, sesuatu yang sudah lama tidur mulai mengingat bahwa ia masih punya nama untuk dijaga.
+Ia mencari main resonant vein.
+
+Kosong.
+
+Bukan rusak atau lemah. Belum pernah dinyalakan. Belum dicatat.
+
+Ashvarok hampir tersenyum. Dunia baru telah memberinya tubuh buruk dengan satu keuntungan yang sangat baik.
+
+Brannoc menghalangi cahaya tungku. "Pergelanganmu sakit?"
+
+"Tidak lebih dari biasanya."
+
+"Jawaban itu milik pekerja yang ingin tetap bekerja." Ia merendahkan suara. "Dengar, Renn. Saat subuh penuh, Quota Office akan turun menghitung kerugian. Yang mereka hitung bukan orang. Surat Kel Tharrow sudah datang. Kuota naik seperempat mulai shift berikutnya."
+
+Ashvarok memutar contract ring. Cincin itu tidak bergeser. "Runtuhan tidak mengubah kuota?"
+
+"Runtuhan memberi mereka alasan menaikkannya lagi."
+
+"Bijaksana. Membunuh pekerja membuat pekerjaan selesai lebih cepat."
+
+Mata Brannoc menyempit. "Kepalamu terbentur, tetapi lidahmu masih milikmu. Bagus. Pakai dengan hati-hati. Tharrow akan bertanya sembilan puluh kali sampai jawabanmu berguna baginya. Jangan beri dia suara dari dinding, sunyi, atau alasan mendatangkan orang berjubah ke Caldrest."
+
+"Kalau ia bertanya apa penyebab runtuh?"
+
+"Batu tua. Penyangga buruk. Pilih salah satu kebohongan yang sudah mereka bayar."
+
+"Dan Dolm?"
+
+Rahang Brannoc berhenti sesaat. "Dolm bukan kebohongan."
+
+Itu mengubah ukurannya di mata Ashvarok. Sedikit.
+
+Di bawah tungku, jauh melampaui lantai, retakan berdenyut. Jantung Renn menjawab pada saat yang sama.
+
+Sekali.
+
+Dua kali.
+
+Sinkron.
+
+Ashvarok menahan napas untuk menguji hubungan itu. Jantung melambat. Denyut dari kedalaman ikut melambat sepersekian kemudian.
+
+Segel tidak sekadar mengenalinya. Retakan sedang belajar tubuh barunya.
+
+"Kau memutuskan sesuatu," kata Brannoc.
+
+Ashvarok mengangkat mata.
+
+"Aku pernah jadi prajurit," lanjut lelaki itu. "Aku kenal wajah orang sebelum ia melakukan hal bodoh."
+
+"Kalau begitu kamu tentu sering melihatnya."
+
+"Setiap kali aku bercermin. Itu sebabnya aku masih hidup."
+
+Suara langkah berlari memotong jawaban Ashvarok. Ondar muncul dari lorong tujuh terlalu cepat. Wajahnya abu-abu di bawah debu. Kedua orang yang pergi bersamanya menyusul sambil membawa tandu. Kain menutupi bentuk di atasnya.
+
+"Dolm sudah mati," kata Ondar. "Bukan baru."
+
+Brannoc berdiri. "Apa lagi?"
+
+Ondar melihat pekerja lain. Tangannya kembali gemetar.
+
+"Bicara," perintah Brannoc.
+
+"Dinding bagian dalam sunyi. Lampu menyala. Kami bisa melihat batu, tetapi..." Ondar menelan ludah. "Tempat itu tidak mau tinggal di kepala. Aku lupa kenapa aku masuk. Dua kali."
+
+"Kau ingat Dolm?"
+
+"Ya."
+
+"Kau lupa siapa?"
+
+Ondar menatap lantai. "Namaku sendiri. Dua detik saja."
+
+Kipas tungku terus memukul. Tak ada pekerja yang bergerak.
+
+Brannoc mencabut akar pahit dari mulutnya. "Tidak ada yang mendengar itu. Laporan menyebut runtuhan biasa dan satu korban mati."
+
+"Dua korban," kata seseorang. "Mereka mengira Renn—"
+
+"Renn berdiri. Jadi satu." Brannoc menunjuk tandu. "Bawa Dolm ke lift. Ondar, kau ikut aku saat menulis laporan. Jangan masuk lorong tujuh lagi."
+
+Perintah itu mengembalikan gerak ke ruangan. Empat orang mengangkat tandu. Dua lainnya mengumpulkan tali. Tak seorang pun memandang dinding timur.
+
+Brannoc kembali kepada Ashvarok. "Sela menunggu di barak sejak senja. Membawa gelas kaca pecah milik kalian. Katanya mau menuang teh kalau kau pulang hidup-hidup."
+
+Sela.
+
+Ingatan tubuh akhirnya membuka pintu: sebelas tahun, adik angkat, rambut dipotong sendiri dengan pisau tumpul, tangan kecil mempertahankan gelas retak karena hanya itu yang mereka miliki berdua. Rasa takut yang bukan milik Ashvarok bergerak di dada. Daging Renn telah mati, tetapi kasihnya belum tahu cara ikut mati.
+
+"Dia kakakku?" tanya Ashvarok, menguji ingatan yang terbalik.
+
+"Adikmu. Kalau kau lupa itu, jangan biarkan dia tahu." Brannoc mengulurkan tangan. "Berdiri. Quota Office menghargai orang yang bisa berjalan karena lebih mudah dikirim kembali bekerja."
+
+Ashvarok menerima tangan itu. Paha kirinya gemetar saat menahan berat. Ia berdiri juga.
+
+"Waktu kau bilang semua bunyi hilang," kata Brannoc, "apa maksudmu hanya sunyi?"
+
+"Tidak." Ashvarok menatap mulut lorong tujuh. "Tempat untuk bunyi ikut hilang."
+
+Brannoc memasukkan akar pahit baru ke mulutnya. Bahu kanannya turun makin rendah ketika ia mengambil beban tandu dari pekerja termuda.
+
+"Kalau dinding mulai diam," katanya, "jangan diam sendirian."
+
+Lift berderak menunggu di ujung persimpangan. Di bawah kaki Ashvarok, retakan berdetak mengikuti jantung Renn.
+
+Ia melangkah menuju Sela sebelum retakan itu sempat belajar langkahnya.

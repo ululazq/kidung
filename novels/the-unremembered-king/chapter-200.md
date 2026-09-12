@@ -3,7 +3,7 @@ title: "Bab 200: Rumah yang Bernyanyi"
 chapter: 200
 ---
 
-Hari Utara kedua jatuh bersamaan dengan hari keseribu sembilan ratus sembilan puluh sembilan sejak seorang bocah tungku bernama Renn terbangun di kegelapan lorong tujuh dengan ingatan seribu tahun di kepalanya.
+Northern Day kedua jatuh bersamaan dengan hari keseribu sembilan ratus sembilan puluh sembilan sejak seorang bocah tungku bernama Renn terbangun di kegelapan lorong tujuh dengan ingatan seribu tahun di kepalanya.
 
 Dan Caldrest merayakan keduanya sekaligus, karena pada titik ini tidak ada lagi yang bisa memisahkan mana sejarah kota dan mana sejarah penjaganya.
 
@@ -15,7 +15,7 @@ Brannoc yang mengatur turun-naiknya meja, karena pria itu menolak semua bantuan 
 
 Semua hadir.
 
-Tim inti. Akademi Batu dengan dua puluh dua murid dan tiga guru — Harn berdiri paling tegak, karena malam ini ia salah satu dari murid yang ditugasi menjaga lilin. Registri Mimpi dengan arsip nasionalnya. Armada utara. Keluarga Sarneth (gerabah barunya sudah dibakar dan dipajang), Lissa dan Endah (selimut upacara dipakai sebagai hiasan meja panjang, dan tidak ada yang berani menyentuhnya tanpa izin), ibu Rina dengan Rina yang kini berumur beberapa bulan lebih tua dari kemarin dan tertawa untuk pertama kalinya — tawa yang membuat seisi aula berhenti bicara selama sepuluh detik, karena ternyata itulah bunyi yang selama ini hilang dari dunia. Hale dan Dewan kota. Maera dan stempel Guild. Kovan dengan buku sandinya yang sudah tiga jilid. Ossian Vael — yang minggu lalu resmi mengundurkan diri dari Koordinasi untuk mendirikan Kantor Penghubung Utara Caldrest, jabatan yang ia ciptakan sendiri dan dijabat dengan tenaga penuh. Tharrow dengan kotak-kotak arsipnya. Dokter tambang. Dan Sareth Vayin, pengikat senior, Barim, serta Tovik — yang pemulihannya berjalan indah dan kini bisa menceritakan dirinya sendiri kepada anak-anak sekolah tiap pekan, lengkap dengan bagian lucu tentang lupa nama kepala tambangnya sendiri.
+Tim inti. the Veyl Akademie dengan dua puluh dua murid dan tiga guru — Harn berdiri paling tegak, karena malam ini ia salah satu dari murid yang ditugasi menjaga lilin. the Dream Registry dengan arsip nasionalnya. the Northern Reader Fleet. Keluarga Sarneth (gerabah barunya sudah dibakar dan dipajang), Lissa dan Endah (selimut upacara dipakai sebagai hiasan meja panjang, dan tidak ada yang berani menyentuhnya tanpa izin), ibu Rina dengan Rina yang kini berumur beberapa bulan lebih tua dari kemarin dan tertawa untuk pertama kalinya — tawa yang membuat seisi aula berhenti bicara selama sepuluh detik, karena ternyata itulah bunyi yang selama ini hilang dari dunia. Hale dan Dewan kota. Maera dan stempel Guild. Kovan dengan buku sandinya yang sudah tiga jilid. Ossian Vael — yang minggu lalu resmi mengundurkan diri dari Koordinasi untuk mendirikan the Caldrest Northern Liaison Office, jabatan yang ia ciptakan sendiri dan dijabat dengan tenaga penuh. Tharrow dengan kotak-kotak arsipnya. Dokter tambang. Dan Sareth Vayin, pengikat senior, Barim, serta Tovik — yang pemulihannya berjalan indah dan kini bisa menceritakan dirinya sendiri kepada anak-anak sekolah tiap pekan, lengkap dengan bagian lucu tentang lupa nama kepala tambangnya sendiri.
 
 Sembilan suara utara telah dibawa turun dan "duduk" di kursi-kursi khusus dekat dais — hadir sebagai gema batu, didengarkan bergantian oleh pembaca-pembaca muda, supaya mereka tidak hanya dirayakan tetapi benar-benar hadir di perayaan mereka sendiri.
 
@@ -67,9 +67,9 @@ Perayaan berlangsung sampai subuh.
 
 Ashvarok menutup malam di ambang aula bersama Sela yang tertidur di kursinya setengah jam lalu setelah mencatat semuanya, Brannoc yang menunggunya sambil mengunyah akar pahit, dan kedalaman yang bernyanyi pelan di bawah.
 
-"Neraca dua ratus bab," kata Ashvarok kepada Brannoc, "adalah ini: aku datang ke dunia ini untuk menahan sesuatu. Aku keluar dari dunia ini punya segalanya."
+"Neraca masa kerjaku," kata Ashvarok kepada Brannoc, "adalah ini: aku datang ke dunia ini untuk menahan sesuatu. Aku keluar dari dunia ini punya segalanya."
 
-"Terus bab dua ratus satu membicarakan apa?"
+"Terus besok kita mengerjakan apa?"
 
 Ashvarok tersenyum senyum Caldrest yang sudah sepenuhnya miliknya.
 

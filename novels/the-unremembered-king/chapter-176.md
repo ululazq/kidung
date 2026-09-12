@@ -11,7 +11,7 @@ Pagi Rabat, ibu Tamma mendapati lantai klinik sudah bersih — sapuan searah, ra
 
 Lelaki tua itu memandang sapunya. "Tangan saya yang pilih ini." Ia mengangkat wajah, dan untuk pertama kalinya sejak mereka mengenalnya, senyum ramahnya punya arah: "Berarti tangan saya tahu lebih banyak dari kepala saya. Bagus. Berarti ada yang bisa dicocokkan."
 
-Jam penjaga malam Dua itu menjadi sesi yang semua orang ingat bertahun-tahun. Empat potongan cerita dibacakan seperti biasa — nyanyian troli, luka dingin, delapan tahun, ketukan tiga kali — tetapi setelahnya Sela melakukan hal baru: membuka papan pertanyaan. "Malam ini kita tidak hanya membaca ke kamu. Kita tanya. Jawab kalau teringat. Tidak jawab juga boleh."
+Jam penjaga Malam Kedua itu menjadi sesi yang semua orang ingat bertahun-tahun. Empat potongan cerita dibacakan seperti biasa — nyanyian troli, luka dingin, delapan tahun, ketukan tiga kali — tetapi setelahnya Sela melakukan hal baru: membuka papan pertanyaan. "Malam ini kita tidak hanya membaca ke kamu. Kita tanya. Jawab kalau teringat. Tidak jawab juga boleh."
 
 Pertanyaan pertama: "Kamu tinggal di blok mana dulu?"
 
@@ -63,7 +63,7 @@ Sela memandang balik, dan perlahan kedua kakak beradik itu sampai pada pemahaman
 
 "Aku," kata Ashvarok. "Aku satu-satunya yang masih hidup dari pihak yang menyegel. Aku satu-satunya yang bisa minta maaf atas nama mereka semua."
 
-Sela mengangguk pelan, lalu menulis di papannya kalimat yang menjadi judul rapat besar Caldrest pekan berikutnya — rapat yang akan menentukan arah novel ini untuk seribu bab berikutnya:
+Sela mengangguk pelan, lalu menulis di papannya kalimat yang menjadi judul rapat besar Caldrest pekan berikutnya — rapat yang akan menentukan arah pekerjaan mereka:
 
 "RAPAT: APA ARTINYA MINTA MAAF KEPADA KEDALAMAN DUNIA."
 
@@ -83,11 +83,11 @@ Nama lelaki tua itu harus pulang duluan. Lalu giliranku minta maaf. Lalu — kal
 
 Ia menutup papan. Membawa piring buburnya ke dapur. Dan Caldrest tidur di sekelilingnya, lilin demi lilin, sebuah kota yang tidak tahu bahwa arah sejarahnya baru saja ditulis ulang oleh percakapan sarapan antara raja dan gadis pencatat berusia sebelas tahun.
 
-Di kedalaman, pada jam pertama pagi, sapuan datang tepat waktu. Berhenti di batu asah. Dan — untuk pertama kalinya sejak segel dipasang — tidak pergi setelah berhenti. Ia tinggal di sana sampai subuh, tenang, seperti tamu yang akhirnya mengerti bahwa rumah ini tidak keberatan ia menunggu sampai pagi.
+Di kedalaman, pada jam pertama pagi, sapuan datang tepat waktu. Sapuan itu berhenti di batu asah. Dan — untuk pertama kalinya sejak segel dipasang — tidak pergi setelah berhenti. Ia tinggal di sana sampai subuh, tenang, seperti tamu yang akhirnya mengerti bahwa rumah ini tidak keberatan ia menunggu sampai pagi.
 
 ---
 
-Rapat besar itu digelar dua hari kemudian di gudang perkakas tingkat dua, dan untuk pertama kalinya dalam sejarah novel ini, meja panjangnya tidak cukup.
+Rapat besar itu digelar dua hari kemudian di gudang perkakas tingkat dua, dan untuk pertama kalinya sepanjang rapat-rapat Caldrest, meja panjangnya tidak cukup.
 
 Yang hadir: tim inti (Ashvarok, Sela, Brannoc), Maera Tull (Guild), Kovan (jaringan pendengar + berkas Orphan Murmur), pengikat senior (tradisi tua), Ossian Vael (Koordinasi + gembok), Tharrow (arsip kerja lama), ibu Tamma (dapur, suara distrik), dan dokter tambang yang datang tanpa diundang dengan alasan "aku pegang buku medis kota ini dan aku berhak tahu kalau dunia mau runtuh". Dua belas kursi. Semua terisi.
 
@@ -99,7 +99,7 @@ Hening. Panjang.
 
 Yang pertama pecahkan adalah ibu Tamma, dengan cara dapurnya sendiri: "Jadi bocah tungku lorong tujuh ini rajanya tambang." Ia memandang Ashvarok dari atas ke bawah. "Seribu tahun umur dan masih kelihatan kurus begitu. Masa depanmu banyak harus makan."
 
-Tawa pecah — tegang tetapi jujur — dan setelah itu, yang mengejutkan Ashvarok lebih dari segalanya terjadi: tidak ada yang berubah. Brannoc mengangguk seperti mendengar kabar cuaca ("Aku sudah tahu kamu bukan Renn sejak bab delapan. Nama barunya tidak penting."). Maera hanya berkata "Catatanku sudah mengasumsikan itu" (buku hitamnya membuktikan). Kovan mengangguk sekali. Pengikat senior berkata "Selamat datang di garis tua" kepada sesama penjaga. Ossian menjabat tangannya lagi, kali ini dengan nama aslinya. Dokter tambang hanya mencatat sesuatu dan berkata "ukuran scar-mu tetap kucek tiap pekan, rajanya atau bukan".
+Tawa pecah — tegang tetapi jujur — dan setelah itu, yang mengejutkan Ashvarok lebih dari segalanya terjadi: tidak ada yang berubah. Brannoc mengangguk seperti mendengar kabar cuaca ("Aku sudah tahu kamu bukan Renn sejak awal. Nama barunya tidak penting."). Maera hanya berkata "Catatanku sudah mengasumsikan itu" (buku hitamnya membuktikan). Kovan mengangguk sekali. Pengikat senior berkata "Selamat datang di garis tua" kepada sesama penjaga. Ossian menjabat tangannya lagi, kali ini dengan nama aslinya. Dokter tambang hanya mencatat sesuatu dan berkata "ukuran scar-mu tetap kucek tiap pekan, rajanya atau bukan".
 
 Dan Sela, pencatat keluarga, menulis satu baris terakhir di papannya dan membacanya keras:
 

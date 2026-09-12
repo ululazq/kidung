@@ -78,7 +78,7 @@ Kabar kode ketukan menyebar ke seluruh Karvess dalam tiga hari — dan dunia ber
 
 Kali ini bukan bahasa wilayah. Bahasa satu orang.
 
-Sekolah Mendengar menambahkan mata pelajaran "ketukan" (Daven mengusulkan; Lompa menyetujui dengan catatan "yang pelan-pelan, ini bukan lagu, ini percakapan"). Sistem nat kecil ikut serta — beberapa nat kini bisa meneruskan pertanyaan tertulis dari papan aula ke tubuh Renn lewat resonansi, dan meneruskan ketukan balasan ke arah sebaliknya. Jembatan komunikasi pertama antara dunia dan anak yang tidur di dalam dirinya sendiri.
+the Listening School menambahkan mata pelajaran "ketukan" (Daven mengusulkan; Lompa menyetujui dengan catatan "yang pelan-pelan, ini bukan lagu, ini percakapan"). Sistem nat kecil ikut serta — beberapa nat kini bisa meneruskan pertanyaan tertulis dari papan aula ke tubuh Renn lewat resonansi, dan meneruskan ketukan balasan ke arah sebaliknya. Jembatan komunikasi pertama antara dunia dan anak yang tidur di dalam dirinya sendiri.
 
 Dan pertanyaan-pertanyaan yang datang dari seluruh kota, disaring Sela supaya tidak melelahkan:
 
@@ -139,7 +139,7 @@ SATU: Buku "Dunia Sejak Kamu Tidur" — Sela menulis, 40 halaman, bahasa lima be
 DUA: Kamar lama Renn di barak the Quiet Vein TIDAK diubah sedikit pun — ibu Tamma memerintahkan; sudah ditepati sejak hari pertama.
 TIGA: Semua orang yang menyapa Renn setelah bangun wajib perkenalan ulang: nama, kerjaan, hubungan dengan Renn versi dulu. Dilarang anggap dia ingat.
 EMPAT: Ashvarok yang membuka pintunya sendiri — tanpa pengawal, tanpa upacara. "Anak ini bangun," kata Ashvarok, "harus lihat wajah yang pertama: orang yang tidur di rumahnya."
-LIMA: Sup Kamp Pertama dimasak pagi itu. Ibu Tamma: "orang bangun dari tidur panjang tidak boleh sarapan sembarangan."
+LIMA: First Camp Soup dimasak pagi itu. Ibu Tamma: "orang bangun dari tidur panjang tidak boleh sarapan sembarangan."
 
 ---
 
@@ -169,7 +169,7 @@ Surat itu diletakkan di bawah bantal — tempat yang oleh nat lorong barak utara
 
 Dan malam itu, ketukan balasan datang tanpa pertanyaan:
 
-Satu ketuk.
+Satu ketukan.
 
 Dua detik jeda.
 
@@ -179,7 +179,7 @@ Sela, yang menerjemahkan untuk arsip: "Dia bilang terima kasih. Dan... 'sampai j
 
 ---
 
-Neraca penutup bab — ditulis Ashvarok, tangan sedikit gemetar:
+Neraca pemulangan — ditulis Ashvarok, tangan sedikit gemetar:
 
 Hari 812. Vein-scar: mundur satu jari penuh (Gella: "laju pemulihan tidak masuk akal; teruskan saja"). Kode ketukan berjalan. Renn menjawab pertanyaan dengan tepat. Dan malam ini ia membuat bahasa sendiri untuk pertama kalinya.
 
@@ -213,7 +213,7 @@ Ibu Tamma tertawa, mengetuk meja dua kali (kode lama, makna baru):
 
 Neraca akhir pekan — ditulis Sela di arsip, dengan satu baris yang membuat Kovan menambahkan "setuju" kecil di margin:
 
-Hari 819. Semua siap. Buku 40 halaman selesai (judul oleh murid-murid: "Dunia Sejak Kamu Tidur"). Kamar tidak berubah. Daftar perkenalan ulang: 214 nama (dan bertambah). Sup Kamp Pertama: resep sudah ditulis di papan dapur.
+Hari 819. Semua siap. Buku 40 halaman selesai (judul oleh murid-murid: "Dunia Sejak Kamu Tidur"). Kamar tidak berubah. Daftar perkenalan ulang: 214 nama (dan bertambah). First Camp Soup: resep sudah ditulis di papan dapur.
 
 Sisa waktu: satu pekan.
 

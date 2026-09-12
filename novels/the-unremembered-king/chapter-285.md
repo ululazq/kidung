@@ -83,7 +83,7 @@ Sela tidak berkata apa-apa. Ia hanya meletakkan sepotong kain ke tangan kakak an
 
 ---
 
-Sorenya, Ashvarok-Renn membawa tumpukan itu ke barak utara. Ia duduk di depan Yang Dulu Sunyi, meletakkan empat puluh tujuh lembar di atas batu agar bisa dibaca nat itu dalam cahaya hangatnya.
+Sorenya, Ashvarok-Renn membawa tumpukan itu ke barak utara. Ia duduk di depan the Once-Silent, meletakkan empat puluh tujuh lembar di atas batu agar bisa dibaca nat itu dalam cahaya hangatnya.
 
 "Kau pernah bilang delapan ratus tahun pekerjaanmu akhirnya punya hasil sampingan," kata Ashvarok-Renn. "Generasi nat yang tidak takut bertanya. Hari ini aku dapat hadiah dari empat puluh tujuh orang yang bilang aku tidak berubah. Aku tidak tahu mana yang lebih aneh: batu yang belajar bertanya, atau manusia yang belajar tinggal."
 
@@ -115,7 +115,7 @@ Malam turun ketika mereka keluar dari barak nat muda. Angin lembah utara membawa
 
 ---
 
-Malamnya, di meja makan barak the Quiet Vein — meja yang sudah jadi tempat duduk resmi Dewan Regional, nama train ibu kota, dan sup sembilan budaya — keluarga QV berkumpul lengkap untuk pertama kalinya sejak perayaan bab 250.
+Malamnya, di meja makan barak the Quiet Vein — meja yang sudah jadi tempat duduk resmi the Regional Council, nama train ibu kota, dan sup sembilan budaya — keluarga QV berkumpul lengkap untuk pertama kalinya sejak perayaan bab 250.
 
 Ibu Tamma meletakkan mangkuk di depan Ashvarok-Renn. "Makan. Ulang tahun tanpa makan itu seperti upacara tanpa nama. Kosong."
 

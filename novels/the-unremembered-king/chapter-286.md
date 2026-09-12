@@ -7,7 +7,7 @@ Kovan meletakkan lempeng hitung terakhir di atas meja panjang barak utara. Di se
 
 "Jadi ini penutup resmi?" tanya anak Pak Dekan.
 
-"Penutup bagi tambang," kata Kovan. "Bukan penutup bagi kita." Ia menyapu pandang ke ruangan itu: rak arsip angka the Quiet Vein yang sudah tidak lagi milik perusahaan tambang, melainkan milik kota. "Kita dinasifikasikan. Mulai hari ini, kita bukan penjaga shift. Kita Penghitung Musim Karvess."
+"Penutup bagi tambang," kata Kovan. "Bukan penutup bagi kita." Ia menyapu pandang ke ruangan itu: rak arsip angka the Quiet Vein yang sudah tidak lagi milik perusahaan tambang, melainkan milik kota. "Kita dinasifikasikan. Mulai hari ini, kita bukan penjaga shift. Kita the Karvess Season Counter."
 
 Anak Pak Dekan tersenyum tipis. "Nama jabatan yang panjang."
 
@@ -57,7 +57,7 @@ Ashvarok-Renn tersenyum kecil. "Itu pertanyaan penghitung sejati. Bukan 'berapa'
 
 "Kau tahu apa itu?"
 
-"Aku punya dugaan." Ashvarok-Renn mengembalikan kertas itu. "Namun dugaan bukan fakta, dan kau mengajarkanku itu dulu — waktu kau kalah dua kali di lempeng pengukur dan tidak bisa menjelaskan. Kau bilang data berkata bocah biasa, pengalaman berkata ada suara. Dua fakta saling menolak. Sekarang giliranmu merasakan itu."
+"Aku punya dugaan." Ashvarok-Renn mengembalikan kertas itu. "Namun dugaan bukan fakta, dan kau mengajarkanku itu dulu — waktu kau kalah dua kali di measuring plate dan tidak bisa menjelaskan. Kau bilang data berkata bocah biasa, pengalaman berkata ada suara. Dua fakta saling menolak. Sekarang giliranmu merasakan itu."
 
 Kovan mengerutkan dahi. "Kau tidak akan memberi tahu?"
 
@@ -85,7 +85,7 @@ Pegawai itu pergi tanpa kata. Anak Pak Dekan menatap Kovan dengan hormat yang ba
 
 "Kau belajar itu dari mana?"
 
-"Dari bocah tungku yang kalah dua kali darinya di lempeng pengukur," jawab Kovan kering. "Ia ajarkan aku bahwa kertas yang salah tidak boleh dihitung sebagai fakta."
+"Dari bocah tungku yang kalah dua kali darinya di measuring plate," jawab Kovan kering. "Ia ajarkan aku bahwa kertas yang salah tidak boleh dihitung sebagai fakta."
 
 ---
 
@@ -141,7 +141,7 @@ Kovan menatap lempeng hitung terakhir di tangannya. Angka tiga detik masih terca
 
 Ia memasukkan lempeng itu ke rak paling atas, di sebelah arsip angka lama the Quiet Vein yang sudah tidak lagi menuntut siapa pun pergi ke bawah.
 
-Sebelum pulang, Kovan mampir ke barak utara. Ia berdiri di depan Yang Dulu Sunyi, meletakkan buku catatannya terbuka di atas batu agar nat itu bisa membaca baris terakhir: *Tiga detik = bahasa kedalaman.*
+Sebelum pulang, Kovan mampir ke barak utara. Ia berdiri di depan the Once-Silent, meletakkan buku catatannya terbuka di atas batu agar nat itu bisa membaca baris terakhir: *Tiga detik = bahasa kedalaman.*
 
 Nat itu menyala lebih terang. Getarnya datang dalam tiga denyut, jeda satu tarikan napas, tiga denyut lagi. Persis irama yang sudah mengganggu Kovan sejak delapan belas tahun silam.
 

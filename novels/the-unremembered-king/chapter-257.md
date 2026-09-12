@@ -3,39 +3,85 @@ title: "Bab 257: Gunung yang Menunggu"
 chapter: 257
 ---
 
-Perjalanan ke Tanah Tinggi Vel-Morra memakan waktu sembilan hari — dan setiap harinya, nat-nat di sepanjang jalan menyapa mereka dengan irama yang makin kuat:
+Perjalanan ke Tanah Tinggi Vel-Morra memakan waktu sembilan hari. Sejak pagi pertama, nat-nat di sepanjang jalan menyapa mereka dengan irama yang makin kuat. Kabar tentang keluarga the Quiet Vein berjalan lebih cepat daripada kaki mereka.
 
-kabar tentang keluarga the Quiet Vein sudah berjalan lebih cepat dari kaki mereka.
+Gorvel ikut sampai ke kaki gunung. Ia sudah menunggu di luar gerbang ketika Ashvarok-Renn dan Sela berangkat, membawa tongkat tua serta salinan izin jalan yang tak lagi berlaku sejak puluhan tahun silam.
 
-Hari ketujuh, jalan mulai menanjak. Udara tipis. Pohon-pohon menenun — kata Lompa dulu, "pohon di gunung ini tumbuh seperti benang di alat tenun".
+"Kau tidak wajib datang," kata Ashvarok.
 
-Dan pada hari kedelapan, tepat saat matahari terbenam...
+"Laporan itu memakai tanganku. Ketakutan di dalamnya juga milikku." Gorvel memasukkan izin usang itu ke sakunya. "Kalau gunung hendak membacanya, aku harus ada ketika ia sampai pada bagian yang tidak kutulis."
 
-nat-gunung pertama bicara.
+Sela mengangkat kotak arsipnya. "Ada bagian yang tidak Bapak tulis?"
+
+"Ada bagian yang kutulis lalu kusegel sendiri." Gorvel tidak menatapnya. "Waktu itu, aku cukup berani untuk mencatat. Belum cukup berani untuk menyerahkan."
+
+Pengakuan itu mengubah perjalanan. Sela berhenti memperlakukan laporan tersebut sebagai benda mati. Setiap malam ia duduk dekat api, membandingkan lekuk tinta pada salinan dengan ingatan Gorvel: pergantian penjaga, bau logam dari tungku barak, satu cahaya yang tetap hidup meski bahan bakarnya habis.
+
+Pada malam ketiga, ia menemukan tekanan pena yang berbeda di tepi halaman terakhir.
+
+"Ini bukan kerusakan," katanya. "Ada lembar tipis yang pernah direkatkan di belakangnya. Seratnya masih tertinggal."
+
+Gorvel mengaduk bara dengan ujung tongkat. "Catatan pribadi. Kusisipkan sebelum arsip dikirim, lalu kusangka sudah dibakar petugas penyegel."
+
+"Isinya?"
+
+"Kalau aku sanggup mengucapkannya, aku tidak akan menyembunyikannya hampir setahun."
+
+Sela hendak mendesak, tetapi Renn berbicara dari mulut Ashvarok. "Biarkan gunung membacanya dulu. Ada pengakuan yang hanya bisa keluar kalau seseorang tidak dipaksa."
+
+Gorvel mengangguk sekali. Malam itu ia mengambil giliran jaga tanpa diminta.
+
+Hari ketujuh, jalan mulai menanjak. Udara menipis, meninggalkan rasa besi di lidah. Pohon-pohon tenun tumbuh rapat di kedua sisi jalur; batang mereka saling melilit seperti benang pada alat tenun, persis cerita Lompa dahulu. Akar-akar pucat menonjol dari tanah dan berbunyi lirih ketika diinjak.
+
+Menjelang siang, irama nat di bawah jalan berubah. Ketukannya terlalu rapat bagi Sela, sedangkan Ashvarok hanya menangkap desakan tanpa kata. Pesan itu melompat dari batu ke batu menuju Caldrest, lalu kembali dua jam kemudian bersama suara yang mereka kenal.
+
+"Jangan terjemahkan apa pun sebelum aku tiba," kata Vessia lewat nat pos. "Itu aksara tenun lama. Satu jeda keliru bisa mengubah 'pulang' menjadi 'dikubur'."
+
+"Keputusan awalmu tetap di Caldrest," jawab Sela.
+
+"Keputusan dibuat sebelum gunung memilih bahasa ibuku." Nada Vessia memotong dengung nat. "Kovan mengambil giliran penerjemah kota. Aku sudah di jalur timur dan membawa mantel. Tunggu di penanda batu ketiga."
+
+Ia menyusul sebelum gelap, napasnya pendek karena mendaki tetapi langkahnya tidak melambat. Pada pergelangan tangannya terikat tiga pita tenun. Ia menempelkan dua jari ke nat terdekat, mendengarkan, lalu menoleh kepada Sela.
+
+"Mereka bukan menyuruh kita pergi," katanya. "Mereka sedang menghitung siapa yang datang. Empat orang, tapi lima irama."
+
+Renn terdiam di dalam. Ashvarok menutup tangan di atas dadanya, tempat dua kesadaran berbagi satu denyut.
+
+"Mereka tahu tentang kami," kata Renn.
+
+"Mereka sudah tahu sebelum kita sampai," jawab Vessia. "Pertanyaannya: mengapa mereka meminta anak arsip lebih dulu?"
+
+Jawaban datang pada hari kedelapan, tepat saat matahari tenggelam di balik punggung gunung.
+
+Tanah bergetar di bawah kaki Sela. Kerikil bergulir naik, bukan turun, dan berkumpul mengitari sebuah nat setinggi lutut yang separuh tertanam di lereng. Permukaannya menghangat sampai salju tipis di sekelilingnya menguap. Irama pertama menghantam telapak kaki mereka, dalam dan terukur.
 
 Bukan kepada Ashvarok. Bukan kepada Renn.
 
 Kepada Sela.
 
-"ANAK ARSIP. AKU TAHU KAMU MEMBAWA ARSIP HEGOMONY. AKU SUDAH MENUNGGU DELAPAN RATUS TAHUN UNTUK DIBACA."
+Vessia merentangkan pita-pita di pergelangan tangannya. Setiap simpul bergetar saat ia menerjemahkan:
 
----
+"ANAK ARSIP. AKU TAHU KAMU MEMBAWA ARSIP HEGEMONY. AKU SUDAH MENUNGGU DELAPAN RATUS TAHUN UNTUK DIBACA."
 
-Sela membuka kotak arsipnya dengan tangan gemetar.
+Sela berlutut di depan nat-gunung. Jemarinya gemetar ketika membuka kait kotak, tetapi ia tidak menjatuhkan satu lembar pun.
 
-Salinan laporan Hegemony itu ia letakkan di depan nat-gunung — dan nat-gunung "membacanya" lewat resonansi, halaman demi halaman, sambil seluruh keluarga menunggu dalam hening.
+"Aku membawanya," katanya. "Namun pemilik tulisan juga datang. Apakah kau bersedia membacanya di hadapan kami semua?"
 
-Sampai nat-gunung berhenti di satu paragraf.
+Nat itu menjawab dengan tiga denyut. Vessia memejamkan mata untuk memastikan jedanya.
 
-Dan iramanya — oleh Vessia (yang ikut sebagai penerjemah) diterjemahkan dengan suara tidak stabil:
+"Ia bilang: 'Tulisan yang disembunyikan sendirian harus dikembalikan di depan keluarga.'"
 
-"PARAGRAF INI... DISEGEL TERPISAH. INI BUKAN LAPORAN HEGEMONY.
+Gorvel melepas topinya. "Kalau begitu, bacalah. Jangan lunakkan satu kata pun demi aku."
+
+Sela meletakkan salinan laporan Hegemony di atas batu. Resonansi merambat melalui kertas, halaman demi halaman. Bau tinta tua terangkat dari seratnya meski salinan itu baru dibuat beberapa bulan. Semua menunggu tanpa bicara sampai getaran berhenti pada bagian yang tampak kosong.
+
+Di bawah cahaya nat, bekas lem menghitam. Huruf-huruf tipis muncul dari tekanan yang tertinggal pada lembar di bawahnya.
+
+Irama nat-gunung tersendat. Vessia menerjemahkan dengan suara yang kehilangan ketegasannya:
+
+"PARAGRAF INI DISEGEL TERPISAH. INI BUKAN LAPORAN HEGEMONY.
 
 INI CATATAN PRIBADI GORVEL. YANG MUDA."
-
----
-
-Catatan itu dibaca nat-gunung pelan-pelan — dan setiap kalimatnya oleh Vessia diterjemahkan dengan semakin lama jeda:
 
 "Hari pertama larangan. Saya melihat cahaya di tungku barak bawah. Bukan api biasa.
 
@@ -69,7 +115,7 @@ Ashvarok, dari dalam, berbisik yang hanya terdengar Renn:
 
 "Dan yang jawab..."
 
-"...adalah kau. Anak tujuh tahun yang tidak takut gelap."
+"...adalah kau. Anak empat belas tahun yang tidak takut gelap."
 
 
 
@@ -77,27 +123,27 @@ Ashvarok, dari dalam, berbisik yang hanya terdengar Renn:
 
 Sela mencatat semuanya — tangan arsiparisnya stabil meski matanya basah:
 
-"Hari 347. Penemuan besar: Ashvarok tidak masuk ke tubuh Renn secara kebetulan.
+"Penemuan besar: Ashvarok tidak masuk ke tubuh Renn secara kebetulan.
 
-Delapan puluh tahun sebelum runtuhan, Renn (umur tujuh tahun) sudah berkomunikasi dengan jejak resonansi Ashvarok yang tersimpan di tungku barak. Mereka sudah saling mengenal — tanpa sadar — delapan puluh tahun sebelum menjadi satu tubuh."
+Sebelum runtuhan, Renn yang berumur empat belas tahun sudah berkomunikasi dengan jejak resonansi Ashvarok yang tersimpan di tungku barak. Mereka sudah saling mengenal tanpa sadar sebelum menjadi satu tubuh."
 
 Ia menutup bukunya dan berkata kepada kedua kakaknya:
 
 "Kalian bukan raja dan bocah tambang yang kebetulan digabung.
 
-Kalian adalah dua sahabat yang dipisahkan delapan puluh tahun... lalu dipertemukan kembali oleh runtuhan yang sama."
+Kalian adalah dua sahabat yang pernah bertemu dalam gelap... lalu dipertemukan kembali oleh runtuhan yang sama."
 
 ---
 
-Dan satu baris penutup dari Ashvarok-Renn — ditulis bersama di neraca malam itu:
+Ashvarok-Renn menulis bersama di neraca malam itu:
 
-"Delapan puluh tahun silam, seorang anak tujuh tahun mendengar cahaya yang tidak dipahami siapa pun.
+"Saat masih berumur empat belas tahun, seorang anak mendengar cahaya yang tidak dipahami siapa pun.
 
 Cahaya itu ternyata raja seribu tahun yang baru saja membakar namanya.
 
 Anak itu bertanya: 'siapa kamu?'
 
-Dan delapan puluh tahun kemudian... kami akhirnya bisa menjawab dengan benar:
+Setelah runtuhan menyatukan kami, akhirnya kami bisa menjawab dengan benar:
 
 'Kami sahabat. Selalu sudah.'
 
@@ -111,17 +157,16 @@ Cerita kalian membuatku masak sup dua kali malam ini. Satu untuk menangis, satu 
 
 Besok lanjutkan perjalanan. Dan ingat:
 
-Sahabat yang dipisahkan delapan puluh tahun dan tetap bertemu lagi... itu bukan kebetulan.
+Sahabat yang lama kehilangan suara satu sama lain dan tetap bertemu lagi... itu bukan kebetulan.
 
 Itu janji yang sudah lama tertulis."
 
 ---
 
-Dan satu adegan penutup — di nat-gunung yang sama, sebelum rombongan tidur:
+Sebelum rombongan tidur, Gorvel yang tua berdiri di depan nat-gunung dan bertanya:
 
-Gorvel yang tua (yang datang menyusul dari Caldrest dengan kaki setengah muda) berdiri di depan nat-gunung dan bertanya satu hal:
 
-"Nat. Catatan itu... aku yang menulis waktu muda. Aku tidak pernah berani menyerahkannya ke siapa pun.
+"Nat. Catatan itu... aku yang menulis menjelang akhir larangan. Aku tidak pernah berani menyerahkannya ke siapa pun.
 
 Kenapa baru SEKARANG kamu bacakan?"
 
@@ -131,9 +176,9 @@ Jawaban nat-gunung:
 
 DELAPAN RATUS TAHUN AKU MENUNGGU BUKAN KARENA AKU TIDAK MAU BICARA.
 
-KARENA TIDAK ADA YANG CUKUR PEDULI UNTUK MENDENGAR."
+KARENA TIDAK ADA YANG CUKUP PEDULI UNTUK MENDENGAR."
 
-Gorvel mengangguk — dan berkata kalimat yang menjadi penutup bab:
+Gorvel mengangguk.
 
 "Maka pekerjaan kita bukan membuat batu bicara.
 
@@ -141,9 +186,7 @@ Membuat manusia mau mendengar."
 
 ---
 
-Dan satu baris terakhir — dari Sela, untuk arsip:
-
-"Bab 257 ditutup dengan satu pemahaman:
+Sela mencatat pemahaman itu dalam arsipnya:
 
 Delapan bulan silam, kami pikir proyek kami adalah membuat batu bicara.
 
@@ -153,7 +196,7 @@ Proyek kami yang sebenarnya adalah membuat manusia berhenti memilih tuli."
 
 ---
 
-Dan satu baris terakhir dari Ashvarok-Renn — untuk menutup:
+Ashvarok-Renn menambahkan rencana esok hari:
 
 "Besok kita naik ke puncak Tanah Tinggi. Ke nat-gunung tertua. Ke sumber panggilan itu.
 
@@ -203,7 +246,7 @@ Semua diam.
 
 "BUKAN KARENA PINTUNYA TERBUKA. BUKAN KARENA KEKEBETULAN.
 
-KARENA DELAPAN PULUH TAHUN SEBELUMNYA, ANAK ITU SUDAH MENYIMPAN SEPOTONG DIRIMU DI TUNGGUNYA — DENGAN SETIA, TANPA TAHU ITU SIAPA.
+KARENA SEBELUM RUNTUHAN, ANAK ITU SUDAH MENYIMPAN SEPOTONG DIRIMU DI TUNGGUNYA — DENGAN SETIA, TANPA TAHU ITU SIAPA.
 
 KAU TIDAK MASUK KE TUBUH ASING, RAJA.
 
@@ -213,7 +256,7 @@ KAU PULANG KE RUMAH ORANG YANG SUDAH LAMA MENANTIKANMU."
 
 Renn — dari dalam — bicara kepada Ashvarok yang hanya terdengar keduanya:
 
-"Kak Raja. Delapan puluh tahun aku main ke tungku tiap malam karena 'cahaya memanggilku'...
+"Kak Raja. Sejak kecil aku main ke tungku tiap malam karena 'cahaya memanggilku'...
 
 Ternyata aku hanya anak kecil yang menemani kesepianmu sebelum kau bahkan tahu kau kesepian."
 
@@ -257,7 +300,7 @@ Ashvarok-Renn menatap satu sama lain — di dalam tubuh yang sama.
 
 "...dan AKU sendiri," selesaikan Renn.
 
-"Anak yang tersenyum ke cahaya... itu aku. Umur tujuh tahun. Aku ikut memanggil tanpa sadar."
+"Anak yang tersenyum ke cahaya... itu aku. Umur empat belas tahun. Aku ikut memanggil tanpa sadar."
 
 Sela menutup mulutnya dengan dua tangan.
 
@@ -267,7 +310,7 @@ Nat-gunung tertua menjawab dengan irama yang paling hangat dari semua resonansi 
 
 "DAN DOA ITU DIJAWAB, ANAK-ANAK.
 
-DELAPAN PULUH TAHUN KESABARAN BATU.
+KESABARAN BATU YANG PANJANG.
 
 SERIBU TAHUN KESEPIAN API.
 
@@ -279,47 +322,35 @@ DAN DUNIA MENDENGAR BAHWA TIDAK ADA SAHABAT YANG TERPISAH SELAMANYA."
 
 ---
 
-Dan satu adegan penutup — matahari terbenam kedua di puncak Tanah Tinggi:
+Matahari terbenam untuk kedua kalinya di puncak Tanah Tinggi.
 
 Keluarga the Quiet Vein duduk melingkar di depan nat-gunung tertua.
 
-Gorvel yang tua duduk di samping nat yang sama — delapan puluh tahun setelah menulis catatannya.
+Gorvel yang tua duduk di samping nat yang sama tempat catatannya tersimpan.
 
 Vessia duduk di sebelah ayahnya yang datang menyusul dari kampung (yang membawa tenunan putrinya, dilipat rapi di dadanya).
 
-Dan mereka semua bercerita sampai bintang keluar — delapan puluh tahun cerita gunung, seribu tahun cerita raja, delapan bulan cerita bocah tungku, dua tahun cerita kota kecil yang mengajari dunia menyapa.
+Dan mereka semua bercerita sampai bintang keluar — cerita gunung, seribu tahun cerita raja, delapan bulan cerita bocah tungku, dua tahun cerita kota kecil yang mengajari dunia menyapa.
 
-Sela mencatat semuanya. Namun halaman terakhir jurnalnya malam itu bukan catatan.
+Sela mencatat semuanya. Di halaman terakhir jurnalnya malam itu, ia menulis untuk dirinya sendiri:
 
-Ia pesan untuk dirinya sendiri di masa depan:
-
-"Kalau suatu hari aku merasa cerita ini sudah cukup besar dan tidak perlu dilanjutkan...
-
-ingat puncak gunung ini. Ingat bahwa tiga sahabat bisa dipisahkan delapan puluh tahun dan tetap bertemu.
-
-Maka jangan pernah bilang 'cukup'.
-
-Bilang saja: 'lanjutkan'."
+"Kalau suatu hari catatan ini terasa terlalu besar untuk kutata, aku akan ingat puncak gunung ini. Tiga suara yang terpisah dapat saling menemukan ketika seseorang bersedia mendengar."
 
 ---
 
-Dan di bawahnya, dua tangan menulis balasan bergantian — Ashvarok dulu, lalu Renn:
+Ashvarok-Renn membaca catatan itu dari balik bahunya.
 
-"Setuju, adikku.
+"Simpan halaman itu baik-baik," kata Renn.
 
-Dan kalau suatu hari kami berdua sudah tidak ada lagi — ingat bahwa cerita ini tidak pernah milik kami.
+"Aku arsiparis," jawab Sela. "Semua halaman kusimpan baik-baik."
 
-Ia milik semua yang pernah bertanya 'ada siapa di sana?'.
+Ashvarok menambahkan dari mulut yang sama, "Yang ini simpan dekat halaman keluarga."
 
-Kau arsiparisnya. Kau penjaganya.
-
-Lanjutkan untuk kami."
-
-— Kak Raja dan Kak Renn
+Sela membuka kotak arsipnya dan meletakkan catatan tersebut di bagian depan, di antara surat penerimaan akademi dan balasan pertama dari rumah.
 
 ---
 
-Dan satu kalimat terakhir dari ibu Tamma — lewat nat pos, subuhnya:
+Subuhnya, ibu Tamma mengirim pesan lewat nat pos:
 
 "Anak-anakku di gunung.
 
@@ -331,12 +362,12 @@ Sekarang pulanglah. Sup sudah dimasak ulang tiga kali dan aku mulai kesal."
 
 ---
 
-Dan satu baris terakhir dari Sela — untuk menutup:
+Sela membalas:
 
 "Kami pulang, Bu.
 
-Bawa satu cerita: sahabat sejati tidak pernah benar-benar terpisah.
+Kami membawa catatan Gorvel, jawaban gunung, dan satu halaman untuk arsip keluarga.
 
-Mereka hanya menunggu dunia cukup baik untuk mempertemukan mereka lagi.
+Sisakan tempat di meja. Ceritanya panjang."
 
-Dan dunia kita... sudah cukup baik."
+Nat-gunung di belakang mereka berdenyut tiga kali. Irama yang sama menyusuri jalan pulang, mendahului langkah mereka menuju Caldrest.

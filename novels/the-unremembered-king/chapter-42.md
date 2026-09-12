@@ -17,7 +17,7 @@ Ashvarok menuruni tangga bekerja dengan tali troli di tangannya dan pikiran yang
 
 Tingkat troli menerima tim survei dengan cara semua tingkat troli menerima pengunjung: lampu karbid yang bergoyang, bau garam dan besi basah, rel-rel tua yang memantulkan suara lebih jauh daripada yang diperlukan. Juru catat Spire membuka kotak instrumennya di stasiun angkut utama. Perempuan tua berjambul abu mengatur cincin-cincinnya. Dua penjaga bayaran menjaga ambang. Kovan berdiri di tempat orang yang dilarang menguji selalu berdiri — dua langkah di belakang garis, tangan kosong.
 
-Dan di antara mereka ada penilai muda tim Spire, lelaki kurus tanpa wajah yang khas, salah satu dari enam orang yang namanya tidak pernah disebut siapa pun sepanjang dua pekan komisi — bukan karena disembunyikan, tetapi karena jabatan-jabatan Spire memakan nama pemakainya. Orang-orang seperti itu tidak punya wajah di Caldrest. Mereka punya fungsi.
+Dan di antara mereka ada Assayer muda tim Spire, lelaki kurus tanpa wajah yang khas, salah satu dari enam orang yang namanya tidak pernah disebut siapa pun sepanjang dua pekan komisi — bukan karena disembunyikan, tetapi karena jabatan-jabatan Spire memakan nama pemakainya. Orang-orang seperti itu tidak punya wajah di Caldrest. Mereka punya fungsi.
 
 Pembacaan titik troli pertama berjalan bersih. Titik kedua, di dekat persimpangan naik, bersih. Ashvarok menarik trolinya melewati mereka dua kali dalam peran dekorasi, dan pada lintasan kedua ia merasakannya datang — bukan bunyi, bukan bayangan, melainkan penipisan. Udara tingkat troli mulai kehilangan sesuatu yang tidak punya nama, seperti lilin yang api belum padam tetapi cahayanya sudah mundur.
 
@@ -25,15 +25,15 @@ Parut kanannya berdenyut sekali. Panjang.
 
 Sunyi tiba pada hitungan ketujuh belas detik setelah itu, dan sunyi itu punya bentuk: bunyi rel, bunyi napas, bunyi karbid — semuanya tidak mati, hanya ditarik mundur tujuh detik penuh, seperti dunia menahan diri untuk mendengarkan sesuatu yang tidak ditujukan bagi telinga mana pun.
 
-Di tengah sunyi itu, juru catat menyodorkan lembar verifikasi kepada penilai muda tim Spire dan berkata, prosedural, tanpa beban:
+Di tengah sunyi itu, juru catat menyodorkan lembar verifikasi kepada Assayer muda tim Spire dan berkata, prosedural, tanpa beban:
 
 "Nama lengkap untuk lembar lapangan."
 
-Penilai muda itu membuka mulut.
+Assayer muda itu membuka mulut.
 
-Tidak ada yang keluar. Wajahnya tidak berubah menjadi ketakutan — itulah bagian yang paling buruk. Wajahnya berubah menjadi kosong, rapi, seperti meja yang baru dilap dan belum diberi barang. Matanya menatap lembar itu tanpa membacanya. Sembilan detik. Ashvarok menghitungnya dengan detak jantungnya sendiri, karena sunyi membuat semua jam lain bohong: sembilan detik seorang pegawai Spire tidak tahu siapa dirinya.
+Tidak ada yang keluar. Wajahnya tidak berubah menjadi ketakutan — itulah bagian yang paling buruk. Wajahnya berubah menjadi kosong, rapi, seperti meja yang baru dilap dan belum diberi barang. Matanya menatap lembar itu tanpa membacanya. Pada detik ketujuh bunyi rel dan karbid kembali, tetapi kekosongan di wajahnya bertahan dua detik lagi. Ashvarok menghitung dengan detak jantungnya sendiri: sunyi tujuh detik, lupa diri sembilan detik.
 
-Kemudian dunia bernapas kembali. Bunyi rel mengalir balik. Dan penilai muda itu mengedip, sekali, seperti orang bangun di meja kerjanya sendiri, dan berkata dengan suara yang sempurna datarnya:
+Pada detik kesembilan, Assayer muda itu mengedip, sekali, seperti orang bangun di meja kerjanya sendiri, dan berkata dengan suara yang sempurna datarnya:
 
 "Maaf. Kelelahan. Nama saya—" dan ia menyebut sebuah nama, lengkap, gelar, nomor sertifikat, semuanya tersusun benar.
 
@@ -45,7 +45,7 @@ Kecuali jika seseorang sudah menunggunya.
 
 Ashvarok membiarkan trolinya menabrak rel sambungan.
 
-Bukan keras — cukup untuk bunyi logam yang berderit panjang dan memaksa semua kepala menoleh ke arah sumber gangguan, yang adalah penambang muda yang kehilangan pegangan troli di tikungan. "Awas!" serunya, dan trolinya bergeser setengah hasta, dan salah satu penjaga bayaran melangkah maju menghardik, dan juru catat menurunkan lembar verifikasinya untuk menulis catatan tentang penambang yang ceroboh — karena catatan tentang kesalahan penambang adalah jenis catatan yang paling aman di dunia.
+Bukan keras — cukup untuk bunyi logam yang berderit panjang dan memaksa semua kepala menoleh ke arah sumber gangguan, yang adalah furnace boy yang kehilangan pegangan troli di tikungan. "Awas!" serunya, dan trolinya bergeser setengah hasta, dan salah satu penjaga bayaran melangkah maju menghardik, dan juru catat menurunkan lembar verifikasinya untuk menulis catatan tentang pekerja ceroboh — karena catatan tentang kesalahan pekerja adalah jenis catatan yang paling aman di dunia.
 
 Brannoc muncul dari tikungan berikutnya dalam dua puluh detik, seorang Foreman yang datang memarahi anak buahnya, dan selama empat puluh detik berikutnya tingkat troli milik regu Brannoc: hardikan, hukuman potong shift, permintaan maaf, tertawa pendek. Ketika tim survei kembali ke instrumen mereka, insiden sembilan detik itu sudah terkubur di bawah insiden troli, dan juru catat Spire menuliskan baris nama yang sempurna tanpa satu pun goresan ragu.
 
@@ -53,7 +53,7 @@ Semua orang bergerak. Semua orang percaya pagi itu biasa.
 
 Kecuali dua orang.
 
-Maera Tull berdiri di dekat stasiun angkut dengan formulir di tangannya, dan matanya — mata yang menghitung — tidak sedang menghitung troli. Ia menatap penilai muda itu dengan tatapan yang tidak bertahan lebih dari dua detik, lalu menunduk ke formulirnya, dan Assayer Tull tidak bertanya apa-apa kepada siapa pun. Ashvarok membaca punggungnya dari jarak lima belas hasta dan tahu. Perempuan itu menghitung sesuatu, dan tidak menuliskannya, dan tidak memberitahu siapa pun. Untuk alasan yang tidak bisa ia uji, penilai muda itu memilih membiarkan hitungan itu tak tertulis.
+Maera Tull berdiri di dekat stasiun angkut dengan formulir di tangannya, dan matanya — mata yang menghitung — tidak sedang menghitung troli. Ia menatap Assayer muda itu dengan tatapan yang tidak bertahan lebih dari dua detik, lalu menunduk ke formulirnya, dan Assayer Tull tidak bertanya apa-apa kepada siapa pun. Ashvarok membaca punggungnya dari jarak lima belas hasta dan tahu. Perempuan itu menghitung sesuatu, tidak menuliskannya, dan membiarkan hitungan itu tetap menjadi miliknya.
 
 Dan Kovan. Shift Guard itu menatap titik kosong di udara tempat sunyi tadi berada, dengan ekspresi orang yang baru saja merasakan angin dingin di dalam ruangan tertutup. Lalu matanya bergerak — lambat, sistematis, melewati setiap wajah di tingkat itu — dan berhenti, sebentar saja, pada arah troli di tikungan.
 
@@ -67,15 +67,15 @@ Malamnya, gudang perkakas tingkat dua berisi satu lampu, dua orang, dan percakap
 
 "Dari mana kamu tahu angkanya?" Brannoc duduk di atas peti perkakas, bahu kanan turun seperti biasa, akar pahitnya tergigit di sudut rahang.
 
-"Badanku ikut ditarik. Yang lain hanya kehilangan bunyi. Aku kehilangan bunyi dan sesuatu yang lebih dalam." Ashvarok menatap lampunya. "Yang penting bukan angkanya. Yang penting siapa. Dia bukan penambang kita. Dia bukan orang yang hidup di dekat seam. Dia pegawai Spire yang turun ke kedalaman untuk kedua kalinya dalam hidupnya — dan dia tetap terkena."
+"Badanku ikut ditarik. Yang lain hanya kehilangan bunyi. Aku kehilangan bunyi dan sesuatu yang lebih dalam." Ashvarok menatap lampunya. "Yang penting bukan angkanya. Yang penting siapa. Dia bukan pekerja kita. Dia bukan orang yang hidup di dekat seam. Dia pegawai Spire yang turun ke kedalaman untuk kedua kalinya dalam hidupnya — dan dia tetap terkena."
 
-Brannoc mengunyah. Lama. "Dulu hanya penambang. Yang di lorong tujuh dulu, yang di lorong B dulu. Sekarang orang luar."
+Brannoc mengunyah. Lama. "Dulu hanya pekerja tambang. Yang di lorong tujuh dulu, yang di lorong B dulu. Sekarang orang luar."
 
 "Sekarang orang luar." Ashvarok mengizinkan kalimat itu berdiri sebentar di antara mereka, karena kalimat itu perlu didengar bunyinya oleh keduanya. "Kebocorannya melebar, Brannoc. Dulu ia hanya menyentuh orang yang tinggal menempel di tambang. Kini ia menyentuh siapa pun yang cukup lama di dekat bibirnya. Dan yang terkena bukan lupa permanen — dia pulih, sembilan detik, lupa sesaat, seperti Ondar dulu. Namun itu artinya hanya satu hal: yang berikutnya tidak akan sesaat."
 
 "Kamu bisa menutupnya lagi?" Pertanyaan itu datang tanpa pembuka, cara Foreman itu bertanya soal hal yang sudah dipikirkannya sejak tingkat troli. "Seperti dulu. Yang di lorong B."
 
-"Aku bisa." Ashvarok menatap pergelangan kanannya, di mana garis parut tua itu tergeletak di bawah siku, diam, menunggu. "Menutupnya berarti memakai kunci. Memakai kunci berarti membakar sisa diriku yang tinggal segenggam itu. Dan kalau aku membakarnya habis, tidak ada yang tahu apa yang tersisa dari orang yang memegang kuncinya." Ia berhenti, lalu berkata dengan jujur yang jarang ia izinkan: "Aku tidak mampu membayar harga menutupnya sekarang. Itu jawabannya."
+"Aku bisa." Ashvarok menatap pergelangan kanannya, di mana garis parut tua itu tergeletak di bawah siku, diam, menunggu. "Menutupnya berarti memakai kunci. Memakai kunci berarti membakar the Remainder yang tinggal segenggam itu. Dan kalau aku membakarnya habis, tidak ada yang tahu apa yang tersisa dari orang yang memegang kuncinya." Ia berhenti, lalu berkata dengan jujur yang jarang ia izinkan: "Aku tidak mampu membayar harga menutupnya sekarang. Itu jawabannya."
 
 Hening. Lampu berbunyi kecil.
 
@@ -99,9 +99,9 @@ Ia berkata itu sebagai penutup, dengan keyakinan yang tidak ia miliki.
 
 ---
 
-Di barak, Sela tidak menanyakan kenapa kakinya gemetar naik tangga. Anak itu hanya menyalakan lampu kecilnya, membuka kolom Hourglass, mengukur garis kanan dengan dua jarinya sendiri, dan berkata: "Belum nyentuh siku. Malam ini tidak naik." Lalu, setelah jeda yang dihitungnya sendiri: "Hari ini ada apa di bawah?"
+Di barak, Sela tidak menanyakan kenapa kakinya gemetar naik tangga. Anak itu hanya menyalakan lampu kecilnya, membuka kolom Hourglass, mengukur garis kanan dengan dua jarinya sendiri, dan berkata: "Belum menyentuh siku. Malam ini tidak naik." Lalu, setelah jeda yang dihitungnya sendiri: "Hari ini ada apa di bawah?"
 
-"Troli rusak," kata Ashvarok. "Sudah kuperbaiki."
+"Troli tersangkut," kata Ashvarok. "Sudah kuperbaiki."
 
 Sela menatapnya tiga detik penuh — lama untuk anak sebesar itu — lalu mencatat sesuatu yang pendek di kolom yang tidak diperlihatkan kepada siapa pun, dan memadamkan lampunya.
 

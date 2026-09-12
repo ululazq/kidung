@@ -3,13 +3,13 @@ title: "Bab 280: Semua Nama dalam Satu Lagu"
 chapter: 280
 ---
 
-Hari Utara keempat dibuka bukan dengan pidato, bukan dengan lagu, tetapi dengan kursi.
+Northern Day keempat dibuka bukan dengan pidato, bukan dengan lagu, tetapi dengan kursi.
 
-Seratus kursi baru dipasang berjajar di tepi ladang-ladang utara — dibuat sepanjang musim oleh tangan-tangan yang datang dari semua arah: keturunan petani, murid Sekolah Mendengar, pemulang era musim, bahkan rombongan pesisir yang membawa kursinya sendiri dilukis cangkang. Setiap kursi kosong, dan di sandaran masing-masing tertulis satu nama.
+Dua ratus empat belas kursi baru dipasang berjajar di tepi ladang-ladang utara — dibuat sepanjang musim oleh tangan-tangan yang datang dari semua arah: keturunan petani, murid the Listening School, pemulang era musim, bahkan rombongan pesisir yang membawa kursinya sendiri dilukis cangkang. Setiap kursi kosong, dan di sandaran masing-masing tertulis satu nama.
 
 Dua ratus empat belas nama. Korban-korban kapal perang Hegemony dari teluk-teluk pesisir yang tubuhnya tidak pernah kembali.
 
-Kursi-kursi itu menghadap ke ladang gandum yang siap dipanen — karena janji Ashvarok-Renn kepada tetua pesisir adalah janji kerja: hadir tiap Hari Utara, duduk bersama, tanpa pidato. Maka hari ini ia duduk di kursi paling ujung barisan, di antara tetua tua itu dan ibu pos pesisir, seperti orang menunggu panen biasa.
+Kursi-kursi itu menghadap ke ladang gandum yang siap dipanen — karena janji Ashvarok-Renn kepada tetua pesisir adalah janji kerja: hadir tiap Northern Day, duduk bersama, tanpa pidato. Maka hari ini ia duduk di kursi paling ujung barisan, di antara tetua tua itu dan ibu pos pesisir, seperti orang menunggu panen biasa.
 
 "Kau tahu," kata tetua tua itu tanpa menoleh, "seribu tahun kami membenci namamu."
 
@@ -22,7 +22,6 @@ Kursi-kursi itu menghadap ke ladang gandum yang siap dipanen — karena janji As
 Tetua tua itu memandangi ladangnya lama. Lalu mengangguk sekali — anggukan orang yang memutuskan sesuatu yang tidak akan diumumkannya sampai bertahun-tahun kemudian.
 
 "Baik," katanya. "Maka duduklah. Panen mulai saat matahari tinggi."
-EOF
 ---
 
 Panen berlangsung sepanjang pagi — dan seperti musim-musim sebelumnya, tangan-tangan tak terlihat bekerja bersama tangan yang ada. Berkas-berkas gandum tersusun rapi. Anak-anak mengejar bunyi tawa di antara batang. Di pos jemput nomor tujuh, bangku kayu kecil tidak pernah kosong.
@@ -35,7 +34,7 @@ Lalu — untuk pertama kalinya dalam sejarah dunia — lagu itu tidak berhenti d
 
 Dari arah selatan, lewat nat-nat pantai yang delapan bulan ini belajar menyanyikan nama-nama kapal, irama kedua bergabung: 214 nama pesisir, dibawa masuk ke dalam name train yang sama, disisipkan di antara gerbong-gerbong utara seakan mereka memang sejak awal satu daftar.
 
-Dan di tengah-tengah keduanya, ketika lagu mencapai bagian yang oleh para penyanyi disebut bagian sahabat, lima nama lain naik — bukan dari kedalaman, bukan dari laut, tetapi dari dataran tinggi Vhal-Duren: nama lima panglima, disanyikan oleh seam saksi dan Yang Mendengar Sampai Habis bergantian, sehingga bagi siapa pun yang mendengar, lima orang itu akhirnya dinyanyikan bukan sebagai monumen atau musuh...
+Dan di tengah-tengah keduanya, ketika lagu mencapai bagian yang oleh para penyanyi disebut bagian sahabat, lima nama lain naik — bukan dari kedalaman, bukan dari laut, tetapi dari dataran tinggi Vhal-Duren: nama lima panglima, disanyikan oleh the Witness Seam dan the Listener to the End bergantian, sehingga bagi siapa pun yang mendengar, lima orang itu akhirnya dinyanyikan bukan sebagai monumen atau musuh...
 
 ...tetapi sebagai tetangga.
 
@@ -50,7 +49,7 @@ Kovan: "Hitungan terakhir musim ini: nol kesalahan. Delapan tahun lalu aku mengh
 
 Barim: "Semua pos terisi. Semua nat mendengar. Malam aman — untuk seluruh Karvess, pertama kali bisa kukatakan tanpa kecuali."
 
-Gella: "Protokol menyapa tubuh: sembilan ratus pasien baru bulan ini. Tovik tadi pagi menyebut namanya sendiri. Aku dokter yang paling banyak dibantah teorinya oleh kenyataan, dan itu jabatan terbaikku."
+Gella: "Protokol menyapa tubuh: sembilan ratus pasien baru bulan ini. Tovik tadi pagi mengucapkan satu kalimat utuh. Aku dokter yang paling banyak dibantah teorinya oleh kenyataan, dan itu jabatan terbaikku."
 
 Brannoc: "Lorong-lorong aman. Anak-anak besi belajar bagus. Dan janji-janjimu..." ia menatap Ashvarok-Renn, "...semua sudah lunas. Yang tidak bisa dibayar dengan apa pun, dibayar dengan hadir. Kau hadir cukup."
 
@@ -70,9 +69,9 @@ Ibu Tamma terakhir — seperti biasanya, seperti selalu.
 
 Ia berdiri di depan seribu kursi yang tidak kosong lagi, memegang sendok aduk terbesarnya seperti orang memegang tongkat jabatan, dan berkata:
 
-"Empat Hari Utara yang lalu, kita hanya kota tambang yang takut kedalaman. Sekarang kita dunia yang punya meja panjang." Ia melihat sekeliling — ladang, kursi-kursi bernama, orang-orang dari tujuh belas wilayah, batu-batu yang menyanyi. "Makanan sudah di meja. Nama-nama sudah disebut. Kursi sudah penuh."
+"Empat Northern Day yang lalu, kita hanya kota tambang yang takut kedalaman. Sekarang kita dunia yang punya meja panjang." Ia melihat sekeliling — ladang, kursi-kursi bernama, orang-orang dari tujuh belas wilayah, batu-batu yang menyanyi. "Makanan sudah di meja. Nama-nama sudah disebut. Kursi sudah penuh."
 
-Lalu ia menambahkan kalimat yang kelak diukir di gerbang aula Caldrest, di gerbang pos Vhal-Duren, dan di setiap dapur Sekolah Mendengar di dua belas cabang:
+Lalu ia menambahkan kalimat yang kelak diukir di gerbang aula Caldrest, di gerbang pos Vhal-Duren, dan di setiap dapur the Listening School di dua belas cabang:
 
 "SATU HAL TERAKHIR DARI IBU-IBU: JANGAN PERNAH BIARKAN ADA KURSI YANG TIDAK PUNYA NAMA. KALAU ADA... TANYAIN NAMANYA. ITU SAJA PEKERJAAN KITA. SELAMANYA ITU SAJA."
 ---
@@ -103,7 +102,7 @@ Mereka diam sebentar. Angin datang lagi dari laut.
 
 Ia bangkit, melipat kerudungnya, dan untuk terakhir kalinya hari itu membaca arsipnya — bukan gulungan, bukan papan tulis, tetapi ladang penuh kursi bernama di hadapannya.
 
-"Hari 830," katanya. "Hari Utara keempat: selesai. Era Nama: berjalan. Dan untuk halaman pertama arsip baru..."
+"Hari 830," katanya. "Northern Day keempat: selesai. Era Nama: berjalan. Dan untuk halaman pertama arsip baru..."
 
 Ia menulis dengan tinta biasa, karena tidak semua hal besar butuh tinta merah:
 
@@ -116,7 +115,7 @@ Ia menulis dengan tinta biasa, karena tidak semua hal besar butuh tinta merah:
 
 Kabar hari itu menyebar ke seluruh Karvess dalam seminggu, dan setiap wilayah merayakannya dengan caranya sendiri:
 
-Spire membacakan laporan lengkap Hari Utara keempat di aula dewan — dengan Anthema Spiri duduk di antara murid-murid, sesuai permintaannya tahun lalu, dan tidak ada yang memindahkannya lagi sejak itu.
+Spire membacakan laporan lengkap Northern Day keempat di aula dewan — dengan Anthema Spire duduk di antara murid-murid, sesuai permintaannya tahun lalu, dan tidak ada yang memindahkannya lagi sejak itu.
 
 Vel-Morra menenun kain baru: seribu kursi di ladang, dengan satu kursi sengaja dibuat lebih besar — untuk tetua tua pesisir yang katanya "butuh tempat sandaran bagus kalau mau datang tiap tahun".
 
@@ -128,7 +127,7 @@ Pesisir mengirim kabar paling pendek dan paling berat sekaligus, ditulis tetua k
 
 *Itu bukan maaf. Itu kursi.*
 
-Dan dari Vhal-Duren, pesan penutup musim dari Yang Mendengar Sampai Habis — irama panjang yang oleh Barim diterjemahkan bertahap, dan olehnya dicatat sebagai "pesan yang harus dibaca berdiri":
+Dan dari Vhal-Duren, pesan penutup musim dari the Listener to the End — irama panjang yang oleh Barim diterjemahkan bertahap, dan olehnya dicatat sebagai "pesan yang harus dibaca berdiri":
 
 "'Empat daftar kini satu: utara, pesisir, panglima, dan semua yang dititipkan sejak zaman purba. Seribu tahun aku menyimpan mereka TERPISAH karena dunia yang menyimpannya terpisah-pisah.'"
 

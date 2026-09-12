@@ -21,13 +21,13 @@ Menyerahkannya kepada kedalaman secara sadar, dengan upacara kecil yang direkam 
 
 ---
 
-Ruangan rapat yang dihentikannya adalah ruangan yang sedang membahas armada utara ketiga. Ashvarok masuk membawa salinan terjemahan itu, meletakkannya di tengah meja panjang, dan menunggu semua membaca.
+Ruangan rapat yang dihentikannya adalah ruangan yang sedang membahas the Northern Reader Fleet ketiga. Ashvarok masuk membawa salinan terjemahan itu, meletakkannya di tengah meja panjang, dan menunggu semua membaca.
 
 Yang pertama berdiri adalah pengikat senior — orang tua yang empat puluh tahun mencari seni penambalan dan baru mengetahui bahwa bocah pendengar alami lain pernah ada di garis yang sama dengan murid-muridnya sendiri: "Anak Pak Dekan." Suaranya serak. "Pendengar alami kedua Caldrest. Dan Choir MENOLAK memantau karena takut mereka saling bicara — lalu kebocoran datang, dan sang ayah..."
 
 "...menyimpannya satu-satunya cara yang dia tahu," selesai Ashvarok. "Sama seperti keluarga-keluarga utara lainnya. Hanya dia melakukannya lebih dulu dari semuanya, dengan sadar, dan meninggalkan rekamannya supaya suatu hari bisa ditemukan."
 
-Maera menutup buku hitamnya. "Maka daftar prioritas pemulangan berganti. Sebelum bayi, sebelum siapa pun:" ia mengetuk salinan itu, "anak Pak Dekan. Karena dia satu-satunya yang ada di dalam sana BERSAMA gurunya — dan delapan belas tahun adalah waktu yang sangat lama untuk anak sembilan tahun yang bisa mendengar segalanya."
+Maera menutup buku hitamnya. "Maka daftar prioritas pemulangan berganti:" ia mengetuk salinan itu, "anak Pak Dekan. Karena dia satu-satunya yang ada di dalam sana BERSAMA gurunya — dan delapan belas tahun adalah waktu yang sangat lama untuk anak sembilan tahun yang bisa mendengar segalanya."
 
 ---
 
@@ -35,19 +35,19 @@ Yang membuat pencarian ini berbeda dari semua pemulangan sebelumnya: mereka tida
 
 Barim tidak ingat (ia baru datang ke Caldrest setelah bocah itu hilang). Arsip ordo hanya mencatat "kerabat sendiri, anak jantannya". Dan kedalaman, ketika ditanya namanya lewat Listen, menjawab dengan irama yang Kovan butuh semalaman untuk menerjemahkan — dan hasil terjemahannya dibawa Kovan sendiri ke gudang perkakas, diserahkan dengan dua tangan:
 
-"Dia tidak memberi nama. Dia memberi DESKRIPSI." Kovan membaca catatannya: "Bocah itu di dalam penyimpanan disebut dengan gelar, bukan nama — dan gelarnya dalam bahasa penjaga artinya... pendengar-kecil-yang-menghitung-bersama." Ia menutup catatannya. "Delapan belas tahun di dalam sana dia menghitung bersama kedalaman, Renn. Seorang anak sembilan tahun, sendirian di kegelapan, dan yang dia lakukan adalah MENGHITUNG — karena itulah satu-satunya yang bisa dia lakukan dengan bakatnya."
+"Dia tidak memberi nama. Dia memberi DESKRIPSI." Kovan membaca catatannya: "Bocah itu di dalam penyimpanan disebut dengan gelar, bukan nama — dan gelarnya dalam bahasa penjaga artinya... little-listener-who-counts-along." Ia menutup catatannya. "Delapan belas tahun di dalam sana dia menghitung bersama kedalaman, Renn. Seorang anak sembilan tahun, sendirian di kegelapan, dan yang dia lakukan adalah MENGHITUNG — karena itulah satu-satunya yang bisa dia lakukan dengan bakatnya."
 
 Ashvarok memandang Kovan — penghitung sunyi, orang yang hidupnya dibangun dari menghitung hal-hal yang tidak bisa dijelaskan kepada siapa pun — dan melihat pengakuan di wajah pria itu sebelum kata-katanya keluar:
 
-"Aku akan jadi orang pertama yang menyebutnya," kata Kovan. "Pendengar-kecil-yang-menghitung-bersama. Kita sama."
+"Aku akan jadi orang pertama yang menyebutnya," kata Kovan. "little-listener-who-counts-along. Kita sama."
 
-Tidak ada yang menertawakan kalimat itu, meski kalimat semacam itu di kota lain mungkin ditertawakan. Di Caldrest, delapan bulan setelah bayi dipulangkan lewat lagu dan janda-janda Karven mendengar pamitan suami mereka dari dalam batu, kalimat "kita sama" adalah klaim yang bisa diverifikasi.
+Tidak ada yang menertawakan kalimat itu, meski kalimat semacam itu di kota lain mungkin ditertawakan. Di Caldrest, setelah bayi dipulangkan lewat lagu dan janda-janda Karven mendengar pamitan suami mereka dari dalam batu, kalimat "kita sama" adalah klaim yang bisa diverifikasi.
 
 ---
 
 Rencana pemulangan anak Pak Dekan disusun malam itu juga dan berbeda dari semua sebelumnya dalam satu hal: ia tidak bisa dilakukan oleh armada.
 
-Karena anak sembilan tahun yang telah delapan belas tahun menjadi pendengar-kecil-yang-menghitung-bersama tidak akan mengenal siapa pun yang datang menjemputnya. Tidak ada ibu dengan lagunya. Tidak ada adik dengan selimutnya. Yang ada hanya satu orang di dunia ini yang berbicara bahasanya — bahasa hitungan, bahasa nat, bahasa menunggu tanpa jawaban:
+Karena anak sembilan tahun yang telah delapan belas tahun menjadi little-listener-who-counts-along tidak akan mengenal siapa pun yang datang menjemputnya. Tidak ada ibu dengan lagunya. Tidak ada adik dengan selimutnya. Yang ada hanya satu orang di dunia ini yang berbicara bahasanya — bahasa hitungan, bahasa nat, bahasa menunggu tanpa jawaban:
 
 Kovan.
 
@@ -59,7 +59,7 @@ Kovan memegang buku sandinya lebih erat. Dan berkata satu kalimat yang membuat A
 
 ---
 
-Malam pemulangan anak Pak Dekan datang pada hari kedua ratus tiga puluh delapan — dan berjalan dengan keheningan yang disengaja.
+Malam kontak dengan anak Pak Dekan berjalan dengan keheningan yang disengaja.
 
 Sebelum turun, Kovan melakukan satu hal yang tidak ada di protokol mana pun: ia menyerahkan salinan buku hitungannya — tiga jilid penuh, setiap angka yang pernah dicatatnya di Caldrest — kepada Sela. "Kalau aku tidak naik dalam dua malam," kata penghitung itu dengan tenang seorang akuntan membaca neraca, "arsipku sudah rapi. Tidak ada yang perlu diselesaikan."
 
@@ -97,8 +97,8 @@ Maka pemulangan resminya dijadwalkan bersama kunjungan keluarga: juru ukur selat
 
 Dan pertemuan itu, kata Sela yang menulisnya dari kesaksian semua saksi, adalah satu-satunya acara dalam sejarah Caldrest yang membuat kedalaman sendiri MEMELUK: hangat kedalaman naik mengelilingi dua orang di nat terdalam saat mereka saling menemukan — ayah angkat yang sudah tiada hadir lewat rekaman seam yang diputar ulang oleh batu pada jam yang tepat, anak yang menunggu delapan belas tahun, dan saudara yang baru tahu ia punya saudara.
 
-Nama bocah itu — nama aslinya, yang direkam seam dari mulut Pak Dekan sendiri di upacara penitipan — dibacakan Kovan kepada keluarga yang datang, dan ditulis Sela ke peta nama dengan tinta resmi Arsip Caldrest:
-Anak Pak Dekan. Pendengar alami. Penyimpanan kedalaman sejak umur sembilan tahun. PULIH melalui persahabatan hitungan.
+Nama bocah itu tetap menjadi miliknya sendiri. Kedalaman hanya memberi gelar little-listener-who-counts-along, dan Sela menulis yang sudah terbukti ke name map dengan tinta resmi the Caldrest Archive:
+Anak Pak Dekan. Nama asli: dirahasiakan. Pendengar alami. Penyimpanan kedalaman sejak umur sembilan tahun. PULIH melalui persahabatan hitungan.
 Dan di Hourglass malam itu Ashvarok menutup neracanya:
-Hari 438. Anak guru tua kita pulang. Delapan belas tahun menghitung bersama kedalaman — dan justru itulah yang menyelamatkannya: dia tidak pernah dilupakan karena dia terus berkegiatan.
+Anak guru tua kita pulang. Delapan belas tahun menghitung bersama kedalaman — dan justru itulah yang menyelamatkannya: dia tidak pernah dilupakan karena dia terus berkegiatan.
 Pelajaran untuk seribu tahun catatanku: kesendirian tidak disembuhkan oleh kehadiran orang banyak. Kesendirian disembuhkan oleh SATU orang yang mau duduk menghitung bersamamu.

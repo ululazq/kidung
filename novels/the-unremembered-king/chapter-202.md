@@ -5,7 +5,7 @@ chapter: 202
 
 Program pemberitahuan berjenjang dimulai dengan kasus uji pertama yang dipilih Ossian dengan hati-hati: keluarga di distrik utara yang leluhurnya adalah perempuan penenun — bukan dari empat ratus besar, tetapi dari daftar pendengar alami ordo. Kasus kecil untuk menguji sistem sebelum sistem mengangkat beban besar.
 
-"Uji pertama harus kecil," katanya kepada tim di meja panjang Kantor Penghubung yang baru berdiri seminggu dan masih memakai meja pinjaman balai kota. "Kalau sistemnya gagal, gagal pada kasus yang lembut. Kalau berhasil, kita punya preseden. Birokrasi hidup dari preseden."
+"Uji pertama harus kecil," katanya kepada tim di meja panjang the Liaison Office yang baru berdiri seminggu dan masih memakai meja pinjaman balai kota. "Kalau sistemnya gagal, gagal pada kasus yang lembut. Kalau berhasil, kita punya preseden. Birokrasi hidup dari preseden."
 
 "Dan kalau keluarganya bertanya kenapa harus lewat lima tahap?" tanya juru tulis muda yang baru direkrutnya, anak distrik pelabuhan yang menulis cepat dan bertanya lebih cepat.
 
@@ -15,11 +15,11 @@ Pendampingnya: Ossian sendiri (prosedur), Maera (saksi Guild), dan — atas perm
 
 Sistemnya lima tahap, dan tiap tahap punya ruang mundur:
 
-Tahap satu: surat resmi Kantor Penghubung — "keluarga Anda teridentifikasi dalam arsip pemulihan utara; ada kabar; apakah Anda bersedia menerima informasi lebih lanjut?" Surat itu ditulis ulang tujuh kali karena versi-versi awalnya terlalu birokratis; versi final dibacakan ibu Tamma dan vonisnya: "Sekarang terdengar seperti manusia." Tahap dua: kunjungan pribadi, penjelasan tentang penyimpanan kedalaman (istilah publiknya: "dititipkan", kata yang ibu Rina ciptakan tanpa sengaja dan langsung disukai semua orang karena tidak menuduh siapa pun). Tahap tiga: pertemuan dengan keluarga lain yang sudah melalui hal sama. Tahap empat: pembacaan suara leluhur oleh armada. Tahap lima — kalau jiwa itu kuat dan keluarga siap: pemulangan.
+Tahap satu: surat resmi the Liaison Office — "keluarga Anda teridentifikasi dalam arsip pemulihan utara; ada kabar; apakah Anda bersedia menerima informasi lebih lanjut?" Surat itu ditulis ulang tujuh kali karena versi-versi awalnya terlalu birokratis; versi final dibacakan ibu Tamma dan vonisnya: "Sekarang terdengar seperti manusia." Tahap dua: kunjungan pribadi, penjelasan tentang penyimpanan kedalaman (istilah publiknya: "dititipkan", kata yang ibu Rina ciptakan tanpa sengaja dan langsung disukai semua orang karena tidak menuduh siapa pun). Tahap tiga: pertemuan dengan keluarga lain yang sudah melalui hal sama. Tahap empat: pembacaan suara leluhur oleh armada. Tahap lima — kalau jiwa itu kuat dan keluarga siap: pemulangan.
 
 "Kenapa lima?" tanya juru tulis muda lagi. "Bukan tiga? Tiga lebih efisien."
 
-"Karena tiga tidak cukup untuk ruang mundur," kata Ossian. "Program yang tidak memberi orang jalan keluar bukan program. Itu tekanan." Ia menuliskannya di papan Kantor Penghubung, dan kalimat itu akan tetap tergantung di sana bertahun-tahun setelah Ossian sendiri tidak lagi bekerja di sana: "Yang punya pintu adalah keluarganya. Kita hanya penjaga lorongnya saja."
+"Karena tiga tidak cukup untuk ruang mundur," kata Ossian. "Program yang tidak memberi orang jalan keluar bukan program. Itu tekanan." Ia menuliskannya di papan the Liaison Office, dan kalimat itu akan tetap tergantung di sana bertahun-tahun setelah Ossian sendiri tidak lagi bekerja di sana: "Yang punya pintu adalah keluarganya. Kita hanya penjaga lorongnya saja."
 
 Kasus uji pertama berjalan sampai tahap empat tanpa jeda. Di setiap tahap ada titik di mana keluarganya bisa berhenti, dan di setiap titik itu keluarga justru maju sendiri sebelum ditawari. Pada tahap tiga, ketika mereka bertemu keluarga lain yang sudah melalui hal sama, pertemuan yang dijadwalkan satu jam berlangsung empat jam — dan berakhir dengan kedua keluarga masak bersama di dapur ibu Tamma, karena itulah satu-satunya ruangan yang tidak terasa seperti rapat.
 
@@ -53,11 +53,11 @@ Kepala keluarganya, seorang tukang besi teguh bernama Dorel, berkata kepada Ossi
 
 Maera mengambil napas. Ibu Tamma meletakkan tangannya di lengan Ossian — tunggu.
 
-Yang dilakukan Ossian Vael pada detik itu akan diajarkan kembali bertahun-tahun kemudian di kelas-kelas Kantor Penghubung sebagai contoh tertinggi pekerjaan birokrat: ia menerima penolakan itu dengan protokol yang ia tulis sendiri. Mengangguk. Berterima kasih untuk waktunya.
+Yang dilakukan Ossian Vael pada detik itu akan diajarkan kembali bertahun-tahun kemudian di kelas-kelas the Liaison Office sebagai contoh tertinggi pekerjaan birokrat: ia menerima penolakan itu dengan protokol yang ia tulis sendiri. Mengangguk. Berterima kasih untuk waktunya.
 
 "Tidak akan ada kunjungan ulang tanpa permintaan Anda," katanya. "Itu janji tertulis, dan saya orang yang jarang menulis sesuatu yang tidak bisa ditepati."
 
-Namun sebelum pergi, ia meletakkan satu hal di ambang — tidak dipaksakan ke tangan, cukup diletakkan supaya bisa diambil atau dibiarkan: salinan satu halaman dari registri mimpi, entri mimpi ibunda Sarneth, dan konfirmasi kedalamannya ("benar, lima potong, aku jaga").
+Namun sebelum pergi, ia meletakkan satu hal di ambang — tidak dipaksakan ke tangan, cukup diletakkan supaya bisa diambil atau dibiarkan: salinan satu halaman dari the Dream Registry, entri mimpi ibunda Sarneth, dan konfirmasi kedalamannya ("benar, lima potong, aku jaga").
 
 "Bukan untuk dibuka sekarang," kata Ossian. "Simpan saja. Kalau suatu hari keluarga Anda mengubah pikiran — bulan ini atau sepuluh tahun lagi — kertas ini tetap benar. Kabarnya tidak kedaluwarsa."
 
@@ -71,11 +71,11 @@ Mereka meninggalkan distrik tengah tanpa menoleh. Maera baru bicara setelah tiga
 
 "Membujuk itu melawan pasal satu program," kata Ossian. Dan setelah jeda: "Namun aku mencatat mukanya. Orang yang marah seperti itu tidak marah pada kita. Dia marah pada delapan belas tahun kesedihannya sendiri. Kertas itu... biarlah bekerja pelan."
 
-Tiga hari kemudian, melalui ibu Tamma — yang jalur informasinya lebih cepat dari kurir resmi mana pun di Karvess — kabarnya sampai ke Kantor Penghubung: kertas itu sudah digantung di dinding rumah tukang besi. Belum dibicarakan. Belum dibuka diskusinya. Namun tergantung.
+Tiga hari kemudian, melalui ibu Tamma — yang jalur informasinya lebih cepat dari kurir resmi mana pun di Karvess — kabarnya sampai ke the Liaison Office: kertas itu sudah digantung di dinding rumah tukang besi. Belum dibicarakan. Belum dibuka diskusinya. Namun tergantung.
 
 Ibu Tamma menyampaikan satu detail tambahan yang membuat Ashvarok diam lama: "Digantung di dapur. Bukan ruang tamu. Yang digantung di dapur artinya dilihat tiap hari."
 
-"Kau yakin dia tidak tahu kau yang menyampaikan ke Kantor Penghubung?" tanya Ashvarok.
+"Kau yakin dia tidak tahu kau yang menyampaikan ke the Liaison Office?" tanya Ashvarok.
 
 "Ibu Tamma tidak pernah yakin," kata ibu itu, sambil mengambil teh tanpa ditawari. "Ibu Tamma hanya pernah benar."
 
@@ -93,6 +93,6 @@ Catatan pribadi: delapan bulan silam aku pikir pekerjaan terbesar era ini adalah
 
 Keesokan paginya, satu kabar kecil datang lewat jalur yang sudah biasa: ibu Tamma membawa kabar bahwa keluarga tukang besi itu memesan name train pelatihan untuk seorang anak — "bukan buat kakeknya," kata sumbernya, "kata si bapak, 'buat anakku. Biar kalau nanti dia bertemu, dia tidak butuh diterjemahkan.'"
 
-Ossian membaca pesan itu dua kali, lalu meletakkannya di atas papan berisi kalimat-kalimat penting Kantor Penghubung, tepat di bawah "Yang punya pintu adalah keluarganya. Kita hanya penjaga lorongnya."
+Ossian membaca pesan itu dua kali, lalu meletakkannya di atas papan berisi kalimat-kalimat penting the Liaison Office, tepat di bawah "Yang punya pintu adalah keluarganya. Kita hanya penjaga lorongnya."
 
 "Catat di arsip," katanya kepada juru tulis mudanya. "Judulnya: pintu sedang terbuka sendiri. Kecepatannya: kecepatan tukang besi."

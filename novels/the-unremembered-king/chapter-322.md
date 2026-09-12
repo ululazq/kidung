@@ -13,7 +13,7 @@ Anak kedua mencoreng angka di papan, lalu menghapusnya sebelum orang lain membac
 
 Di ujung desa, sebuah pondok kayu berderit tiap angin selatan lewat. Penduduk tua yang memberi mereka teduh memperhatikan cara mereka menghitung. "Kalian murid sekolah?" tanya penduduk itu suatu senja.
 
-"Murid Sekolah Mendengar," jawab anak pertama tanpa berbohong. "Kami belajar hitung napas angin."
+"Murid the Listening School," jawab anak pertama tanpa berbohong. "Kami belajar hitung napas angin."
 
 "Napas angin di sini memang aneh," kata penduduk itu. "Sejak sebulan, tiap subuh bunyinya sama. Dulu kami kira itu biasa, tetapi kepala desa mulai catat di buku. Katanya ada yang membayar untuk pola itu."
 

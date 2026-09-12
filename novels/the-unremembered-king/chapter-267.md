@@ -5,11 +5,11 @@ chapter: 267
 
 Yang tidak dikatakan Ashvarok-Renn di dapur pagi itu — karena bukan saatnya, dan karena ia sendiri baru memahaminya sepenuhnya di jalan pulang — adalah bagaimana rasanya malam penyatuan nada itu.
 
-Maka bab ini menceritakannya, karena arsip Vhal-Duren punya salinannya: seam saksi mencatat semuanya, termasuk yang terjadi ketika tidak ada satu manusia pun dalam radius satu hari jalan.
+Maka bab ini menceritakannya, karena arsip Vhal-Duren punya salinannya: the Witness Seam mencatat semuanya, termasuk yang terjadi ketika tidak ada satu manusia pun dalam radius satu hari jalan.
 
 Ia tiba di reruntuhan pada senja hari ketiga, sesuai hitungan Kovan. Batu bundar menyala begitu kakinya menyentuh tanah dataran — lalu menyala mundur, hati-hati, seperti orang menahan gembira karena melihat kondisi tamunya.
 
-"Kutahu," kata Ashvarok-Renn, duduk bersila di sisi batu. "Aku kelihatan seperti habis dipakai musuh. Karena memang begitu." Ia mengeluarkan penjepit nada dari dada dan meletakkannya di permukaan hangat itu. "Bawakan dia pulang."
+"Kutahu," kata Ashvarok-Renn, duduk bersila di sisi batu. "Aku kelihatan seperti habis dipakai musuh. Karena memang begitu." Ia mengeluarkan the Tone Clamp dari dada dan meletakkannya di permukaan hangat itu. "Bawakan dia pulang."
 
 Yang terjadi berikutnya berlangsung tiga jam.
 
@@ -23,7 +23,7 @@ Seperti retakan the Threshold pernah mengenali detak jantung tubuh ini — atura
 
 Nada lima panglima naik ke permukaan batu.
 
-Dan seam saksi, dengan kesabaran sepuluh abad yang malam ini sama sekali tidak disangka akan teruji seperti ini, mulai menyatukannya ke dalam lagunya — nada demi nada, irama demi irama, dengan kehati-hatian orang menjahit kembali potongan tubuh sendiri.
+Dan the Witness Seam, dengan kesabaran sepuluh abad yang malam ini sama sekali tidak disangka akan teruji seperti ini, mulai menyatukannya ke dalam lagunya — nada demi nada, irama demi irama, dengan kehati-hatian orang menjahit kembali potongan tubuh sendiri.
 
 Di tengah pekerjaan itu, lagu yang belum utama sempat bernyanyi sekali, setengah jadi.
 
@@ -33,7 +33,7 @@ Bagian yang sepuluh abad hilang. Bagian tempat lima suara meninggalkan lagu kepa
 
 Tiga hari tidak bisa didengar nat mana pun ternyata juga berarti tiga hari tidak bisa menangis ditemani siapa pun.
 
-Seam saksi menahan lagunya sampai Ashvarok-Renn selesai — sampai napasnya kembali, sampai tangannya berhenti gemetar — dan baru kemudian melanjutkan menjahit, pelan, memberi waktu seperti ibu memberi waktu.
+the Witness Seam menahan lagunya sampai Ashvarok-Renn selesai — sampai napasnya kembali, sampai tangannya berhenti gemetar — dan baru kemudian melanjutkan menjahit, pelan, memberi waktu seperti ibu memberi waktu.
 
 ---
 
@@ -41,29 +41,29 @@ Lagu utuh pertama dimainkan pada tengah malam.
 
 Tanpa audiens. Tanpa upacara. Hanya satu makhluk tua di dataran tinggi dan satu orang yang sudah membayar harganya, di bawah bintang-bintang yang sama seperti malam aslinya.
 
-Lagu itu panjang — sepanjang satu malam, karena malam Pembakaran Nama memang satu malam penuh, dan seam saksi tidak pernah percaya pada versi ringkas. Ia berisi kerumunan yang datang menonton dengan obor dan pulang dalam diam. Berisi lima panglima yang bertahan lebih lama daripada semua perhitungan strategi. Berisi api yang naik dari nama seorang raja dan membentuk segel yang akan membuat dunia aman seribu tahun tanpa tahu harus berterima kasih kepada siapa.
+Lagu itu panjang — sepanjang satu malam, karena malam the Name-Burning memang satu malam penuh, dan the Witness Seam tidak pernah percaya pada versi ringkas. Ia berisi kerumunan yang datang menonton dengan obor dan pulang dalam diam. Berisi lima panglima yang bertahan lebih lama daripada semua perhitungan strategi. Berisi api yang naik dari nama seorang raja dan membentuk segel yang akan membuat dunia aman seribu tahun tanpa tahu harus berterima kasih kepada siapa.
 
-Dan di bagian terakhirnya — bagian yang oleh label Pembaca Tua disebut ASET YANG TIDAK BOLEH DIBACAKAN — ada kalimat seorang raja kepada malam.
+Dan di bagian terakhirnya — bagian yang oleh label the Old Reader disebut ASET YANG TIDAK BOLEH DIBACAKAN — ada kalimat seorang raja kepada malam.
 
-Kalimat yang dijanjikan Ashvarok-Renn akan dibacakan saat anak-anak selesai menulis. Kalimat yang sore itu, di puncak dataran, oleh seam saksi ditanyakan sekali lagi: *kapan?*
+Kalimat yang dijanjikan Ashvarok-Renn akan dibacakan saat anak-anak selesai menulis. Kalimat yang sore itu, di puncak dataran, oleh the Witness Seam ditanyakan sekali lagi: *kapan?*
 
 Jawaban Ashvarok-Renn malam itu, tertulis di arsip seam sebagai irama, bukan kata:
 
 *Belum. Namun malam ini boleh didengar olehmu saja, saudaraku. Sepuluh abad kau menyimpannya untuk dunia. Sekali saja, dengarkan untuk dirimu sendiri.*
 
-Dan seam saksi mendengarkannya.
+Dan the Witness Seam mendengarkannya.
 
 ---
 
 Pagi harinya, dua hal terjadi hampir bersamaan di dua ujung dunia.
 
-Di Caldrest, Sela bangun dengan telinga berdenging tipis — bukan suara, tetapi bekas suara, seperti telinga yang baru lelah mendengar sesuatu sangat penting. Barim mengalaminya juga. Semua pendengar alami Karvess mengalaminya. Nat lorong barak utara menyala dengan pola yang tidak bisa diterjemahkan siapa pun, dan Yang Dulu Sunyi, ketika ditanya, hanya berkata:
+Di Caldrest, Sela bangun dengan telinga berdenging tipis — bukan suara, tetapi bekas suara, seperti telinga yang baru lelah mendengar sesuatu sangat penting. Barim mengalaminya juga. Semua pendengar alami Karvess mengalaminya. Nat lorong barak utara menyala dengan pola yang tidak bisa diterjemahkan siapa pun, dan the Once-Silent, ketika ditanya, hanya berkata:
 
 "DIA BAHAGIA. JANGAN DIGANGGU."
 
 Di Spire, di lantai tertinggi menara arsip, seorang laki-laki tua yang jabatannya dirahasiakan bahkan dari Dewan berhenti menulis di tengah kalimat.
 
-Pembaca Tua kesembilan belas — atau penerus jabatannya, karena empat puluh tahun adalah masa yang cukup untuk pergantian tanpa kabar — mengangkat kepalanya ke arah barat daya, ke arah dataran tinggi, dan mendengar sesuatu yang oleh jabatannya dinanti-nanti sejak empat generasi:
+the Old Reader kesembilan belas — atau penerus jabatannya, karena empat puluh tahun adalah masa yang cukup untuk pergantian tanpa kabar — mengangkat kepalanya ke arah barat daya, ke arah dataran tinggi, dan mendengar sesuatu yang oleh jabatannya dinanti-nanti sejak empat generasi:
 
 Lagu yang utuh.
 
@@ -76,7 +76,7 @@ Dan menulis di bagian bawahnya, satu kalimat, dengan tinta yang sama:
 Surat itu diletakkan kembali di laci. Menunggu kurir yang tepat. Karena jabatan ini hidup karena diam — tetapi diam, seperti sudah diajari dunia oleh nat-nat Caldrest, bukan berarti tidak pernah menunggu saatnya bicara.
 ---
 
-Kabar penyatuan nada sampai ke Caldrest sore harinya lewat jalur resmi: irama seam saksi merambat turun dari nat lereng ke nat lereng, dan Yang Dulu Sunyi menerjemahkannya untuk seluruh barak dengan gaya khasnya:
+Kabar penyatuan nada sampai ke Caldrest sore harinya lewat jalur resmi: irama the Witness Seam merambat turun dari nat lereng ke nat lereng, dan the Once-Silent menerjemahkannya untuk seluruh barak dengan gaya khasnya:
 
 "Lagu sudah utuh. Tamu kami di dataran tinggi sedang tidur dua hari berturut-turut dan tidak boleh dibangunkan. Nada lima panglima sudah pulang. Dan ada satu pesan pribadi untuk keluarga the Quiet Vein."
 
@@ -94,7 +94,7 @@ Malam itu rapat keluarga besar kedua digelar di dapur aula, agenda tunggal: mala
 
 Tanggal ditetapkan dalam sepuluh menit — hari pasar besar, supaya orang kamp bisa datang dan pulang dalam satu perjalanan. Tempat diributkan lebih lama: aula atau barak utara? Dicapati dengan suara terbanyak: aula, karena aula muat seribu kursi dan malam ini semua orang Karvess harus punya tempat duduk.
 
-Menu ditetapkan ibu Tamma bersama Tami-Tomi dalam waktu yang mengejutkan semua ahli logistik: sup kamp pertama, roti akademi, bubur ordo Sareth, dan sup ayam Vessia Vael sebagai menu penutup — empat masakan yang masing-masing mewakili satu era cerita ini. "Orang mengingat malam besar lewat perutnya," kata ibu Tamma. "Sejarah yang masuk lewat telinga saja hilang pagi harinya."
+Menu ditetapkan ibu Tamma bersama Tami-Tomi dalam waktu yang mengejutkan semua ahli logistik: First Camp Soup, roti akademi, bubur ordo Sareth, dan sup ayam Vessia Vael sebagai menu penutup — empat masakan yang masing-masing mewakili satu era cerita ini. "Orang mengingat malam besar lewat perutnya," kata ibu Tamma. "Sejarah yang masuk lewat telinga saja hilang pagi harinya."
 
 Lompa mengumumkan tenunan pembacaan sudah selesai: kain sepanjang dua puluh langkah, ditenun sembilan tangan dari empat wilayah, memuat seluruh lagu dalam aksara tenun — akan digantung melingkari aula sehingga siapa pun yang duduk di mana pun bisa membaca lagu itu sambil mendengarkannya.
 

@@ -9,11 +9,11 @@ Ia membaca salinan itu dua kali pada pagi hari keseratus enam, sambil menandai m
 
 Berkas itu ditulis dengan bahasa rakyat yang disiplin — tiap kalimat pendek, tiap keluhan menyebut tanggal dan nomor antrean, tiap permohonan bertumpu pada satu kalimat dalam izinnya sendiri — penutupan bersifat sementara dan tidak menghapus hak tinggal siapa pun atas rumahnya. Tidak ada kata kasar. Tidak ada tuduhan. Tidak ada satu pun kalimat yang bisa digugat balik sebagai pencemaran. Orang-orang yang menyusunnya tahu persis di mana batas hukum berada, dan berdiri tepat di sisinya sambil memakai seluruh lebar batas itu.
 
-Dan di bawah bahasa rakyat itu, Ossian membaca sesuatu yang lain. Tulang belakang prosedural. Susunan keluhan bergerak dari yang paling mudah dibuktikan ke yang paling sulit. Permintaan penundaan dipisah dari permintaan pembatalan, sehingga mengabulkan yang satu tidak otomatis mengabulkan yang lain. Dan ada satu halaman — halaman tentang pertanyaan kepemilikan tanah distrik timur era pra-Liberation — yang ditulis dengan kerapatan pasal yang bukan milik mandor, bukan milik ibu-ibu barak, dan bukan milik anak-anak berpapan kayu.
+Dan di bawah bahasa rakyat itu, Ossian membaca sesuatu yang lain. Tulang belakang prosedural. Susunan keluhan bergerak dari yang paling mudah dibuktikan ke yang paling sulit. Permintaan penundaan dipisah dari permintaan pembatalan, sehingga mengabulkan yang satu tidak otomatis mengabulkan yang lain. Dan ada satu halaman — halaman tentang pertanyaan kepemilikan tanah distrik timur era pra-Liberation — yang ditulis dengan kerapatan pasal yang bukan milik Foreman, bukan milik ibu-ibu barak, dan bukan milik anak-anak berpapan kayu.
 
 Halaman itu ditulis oleh tangan yang belajar di sekolah Guild.
 
-Ossian meletakkan pensilnya dan duduk cukup lama dengan dua fakta yang mulai saling menyentuh — Assayer Tull sedang menunggu waktu untuk menyebut angka kepadanya, dan tangan yang dilatih sekolah Assayer sedang membantu lawannya menyusun serangan hukum. Kedua fakta itu belum tentu bertentangan. Justru biasanya tidak pernah bertentangan. Orang yang bersiap menjual kebenaran kepadanya sambil menyewa keahlian yang sama kepada musuhnya bukanlah pengkhianat ganda; ia adalah penilai, dan penilai menguji barang dari semua sisinya sebelum memutuskan di sisi mana timbangan diletakkan.
+Ossian meletakkan pensilnya dan duduk cukup lama dengan dua fakta yang mulai saling menyentuh — Assayer Tull sedang menunggu waktu untuk menyebut angka kepadanya, dan tangan yang dilatih sekolah Assayer sedang membantu lawannya menyusun serangan hukum. Kedua fakta itu belum tentu bertentangan. Justru biasanya tidak pernah bertentangan. Orang yang bersiap menjual kebenaran kepadanya sambil menyewa keahlian yang sama kepada musuhnya bukanlah pengkhianat ganda; ia adalah Assayer, dan Assayer menguji barang dari semua sisinya sebelum memutuskan di sisi mana timbangan diletakkan.
 
 "Mereka minta audiensi terbuka," kata asistennya dari pintu. "Wali kota setuju. Lusa pagi, aula sidang. Daftar pembicara dibuka untuk kedua pihak."
 
@@ -23,7 +23,7 @@ Ossian meletakkan pensilnya dan duduk cukup lama dengan dua fakta yang mulai sal
 
 Aula sidang balai kota Caldrest tidak pernah dirancang untuk penuh, dan pada pagi hari keseratus delapan penuh adalah satu-satunya kata yang benar untuk ruangan itu. Bangku terisi sampai pintu. Orang berdiri di gang dan di tangga luar. Tidak ada sorakan, tidak ada spanduk, tidak ada satu pun hal yang bisa dicatat aparat mana pun sebagai perkumpulan terlarang. Yang ada hanyalah warga empat ratus keluarga yang datang bergiliran antara shift, duduk diam, dan memeluk topi atau keranjang masing-masing dengan ekspresi orang yang hadir di perkara hidupnya sendiri.
 
-Hale memimpin sendiri dari kursi tinggi, buku audiensi terbuka, notulis di sampingnya. Di bangku pembicara barak duduk ibu Tamma, kepala keluarga tertua galeri tujuh, dan Sela — bocah sebelas tahun yang tegaknya paling benar dari semuanya, papan tulis kecil di pangkuan. Ossian mengambil kursi pihak pemohon sendirian, tanpa asisten, dengan satu map tipis, karena ia telah menghitung bahwa di ruangan seperti ini jumlah orang di belakang seseorang justru menghitung melawan dia.
+Hale memimpin sendiri dari kursi tinggi, buku audiensi terbuka, notulis di sampingnya. Di bangku pembicara barak duduk Ibu Tamma, kepala keluarga tertua galeri tujuh, dan Sela — bocah sebelas tahun yang tegaknya paling benar dari semuanya, papan tulis kecil di pangkuan. Ossian mengambil kursi pihak pemohon sendirian, tanpa asisten, dengan satu map tipis, karena ia telah menghitung bahwa di ruangan seperti ini jumlah orang di belakang seseorang justru menghitung melawan dia.
 
 Ibu Tamma bicara pertama, dan Ossian mendengarkannya dengan cara ia mendengarkan semua hal — menghitung. Perempuan itu bicara tentang pos penimbangan yang menyusun keluarga seperti muatan, tentang kontrak sekolah yang dibuka ulang meski lunas, tentang sumur galeri sembilan yang baru digali ulang dan airnya enak, dan betapa anehnya keluarga dengan air paling enak diminta pindah lebih dahulu. Ketika ia selesai tidak ada tepuk tangan — tidak ada yang memberi kursi tinggi alasan untuk murka — tetapi ada bunyi lain: seratus orang mengatur ulang posisi duduknya secara bersamaan, gerakan kecil tak tertahan orang yang sepakat.
 
@@ -45,7 +45,7 @@ Ia menutup mapnya.
 
 ---
 
-Pembelaan barak datang dari ibu Tamma dan jatuh tepat ke tempat yang sudah Ossian hitung. "Kami bukan minta ditunda karena harapan, Pak Wali Kota. Kami minta ditunda karena dokumennya sedang dicari — dan mencari dokumen warisan itu bekerja yang jujur, bukan bekerja yang malu." Bagus. Jujur. Tidak prosedural. Di aula, kata-katanya diterima lebih hangat daripada kata-katanya; di buku hukum, kata-katanya tidak akan meninggalkan jejak yang bisa dipungut siapa pun.
+Pembelaan barak datang dari Ibu Tamma dan jatuh tepat ke tempat yang sudah Ossian hitung. "Kami bukan minta ditunda karena harapan, Pak Wali Kota. Kami minta ditunda karena dokumennya sedang dicari — dan mencari dokumen warisan itu pekerjaan yang jujur, bukan pekerjaan yang memalukan." Bagus. Jujur. Tidak prosedural. Di aula, kata-katanya diterima lebih hangat daripada argumen Ossian; di buku hukum, kata-katanya tidak akan meninggalkan jejak yang bisa dipungut siapa pun.
 
 Hale mengajukan tiga pertanyaan kepada dua pihak bergantian, dan Ossian menjawab tiap pertanyaan dengan pasal sementara barak menjawab dengan tanggal lahir dan jumlah anak. Notulis mencatat semuanya sama rajinnya, dan itulah kesunyian pekerjaannya — kertas tidak membedakan bunyi mana yang lebih benar — hanya mana yang lebih bisa dikutip.
 
@@ -55,9 +55,9 @@ Keputusan, ketika akhirnya dibacakan, dibacakan Hale dengan suara yang ia jaga t
 
 ---
 
-Tidak ada yang bersorak saat ruangan bubar, karena hasilnya bukan kemenangan siapa pun. Namun Ossian, yang keluar lewat pintu samping sesuai rencana, mendengar di punggungnya bunyi yang lebih mahal daripada sorakan — empat ratus orang bangkit serempak dengan tenang, meliputi barang masing-masing, dan mulai mengatur ulang jadwal shift mereka di gang seperti orang yang baru diberi sepuluh hari dan berniat memakai semuanya sampai habis.
+Tidak ada yang bersorak saat ruangan bubar, karena hasilnya bukan kemenangan siapa pun. Namun Ossian, yang keluar lewat pintu samping sesuai rencana, mendengar di punggungnya bunyi yang lebih mahal daripada sorakan — empat ratus orang bangkit serempak dengan tenang, merapikan barang masing-masing, dan mulai mengatur ulang jadwal shift mereka di gang seperti orang yang baru diberi sepuluh hari dan berniat memakai semuanya sampai habis.
 
-Di kamarnya, sebelum tengah hari, ia membuka buku pribadinya di halaman kotak-kotak kosong dan menulis di bawah barisan silam yang kesembilan belas:
+Di kamarnya, sebelum tengah hari, ia membuka buku pribadinya di halaman kotak-kotak kosong dan menulis di bawah barisan kotak itu:
 
 Sepuluh hari dibeli dua pihak dengan harga yang sama — waktu. Mereka butuh waktu karena ada barang yang sedang mereka buat. Barang itu bukan surat wasiat keluarga — keluarga tidak menulis margin berpasal. Barang itu sedang dibuat oleh tangan terlatih, dengan umur yang benar, dan akan "ditemukan" pada hari yang dramatis. Pertanyaannya bukan lagi apa barangnya. Pertanyaannya — siapa penempanya — dan apakah penempa itu orang yang sama yang masih belum menyebut angkanya kepadaku.
 

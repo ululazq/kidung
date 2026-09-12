@@ -5,13 +5,13 @@ chapter: 165
 
 Sapuan itu datang pada hari kedua ratus lima puluh delapan, jam pertama pagi, dan kali ia membawa lagu.
 
-Bukan bisikan, bukan ketukan, bukan kata ganti-nama. Lagu. Potongan seremonial era Hegemony — melodi yang dulu dinyanyikan seratus suara di aula itu setiap kali seorang penjaga mengucapkan sumpahnya, lagu yang hanya ada dua tempat di dunia: di arsip mati seam Testament, dan di kepala satu orang.
+Bukan bisikan, bukan ketukan, bukan kata replacement-name. Lagu. Potongan seremonial era Hegemony — melodi yang dulu dinyanyikan seratus suara di aula itu setiap kali seorang penjaga mengucapkan sumpahnya, lagu yang hanya ada dua tempat di dunia: di arsip mati seam Testament, dan di kepala satu orang.
 
 Ashvarok terbangun bukan karena suara. Suara tidak menembus ke barak. Ia terbangun karena the Remainder bergerak — bara dalam dadanya bergolak menjawab sesuatu seperti anjing mendongak sebelum gempa — dan ia keluar dari ranjang sudah tahu, sudah membaca arahnya lewat telapak yang menyentuh dinding barak: sapuan besar, jauh di bawah, memutar potongan lagu itu sekali, pelan, lengkap sampai nada terakhir yang dulu ditutup oleh napas panjang seluruh paduan suara.
 
 Lalu memutarnya lagi.
 
-Ia duduk di ambang ranjang di kegelapan dan mendengarkan lewat tulangnya, dan menghitung, dan hitungan itu memberinya dua fakta yang masing-masing lebih buruk dari sebelumnya. Fakta pertama: kedalaman kini memiliki potongan lagu Hegemony yang TIDAK pernah bocor keluar — tidak lewat panener, tidak lewat pengikat, tidak lewat alat mana pun. Satu-satunya jalur masuknya adalah dirinya sendiri. Setiap malam patroli buta, setiap kali ia menyentuh retakan dengan the Walking Key, seam membaca balik — dan salah satu yang ia bawa adalah ingatan musiknya sendiri. Selama ini ia pikir ia mendengar kedalaman. Kedalaman juga mendengarkan dia. Sudah bertahun-tahun.
+Ia duduk di ambang ranjang di kegelapan dan mendengarkan lewat tulangnya, dan menghitung, dan hitungan itu memberinya dua fakta yang masing-masing lebih buruk dari sebelumnya. Fakta pertama: kedalaman kini memiliki potongan the Hegemony song yang TIDAK pernah bocor keluar — tidak lewat panener, tidak lewat pengikat, tidak lewat alat mana pun. Satu-satunya jalur masuknya adalah dirinya sendiri. Setiap malam blind patrol, setiap kali ia menyentuh retakan dengan the Walking Key, seam membaca balik — dan salah satu yang ia bawa adalah ingatan musiknya sendiri. Selama ini ia pikir ia mendengar kedalaman. Kedalaman juga mendengarkan dia. Sudah bertahun-tahun.
 
 Fakta kedua: lagu itu diputar dengan tujuan. Sapuan pertama utuh. Sapuan kedua lebih pelan, dengan jeda di titik-titik yang sama persis di mana paduan suara dulu menarik napas. Itu bukan pemutaran. Itu latihan. Retakan itu sedang belajar menyanyikannya.
 
@@ -55,11 +55,11 @@ Brannoc mengangkat tangannya seperti murid sekolah: "Aku yang pegang giliran ber
 
 Tawa kecil pecah di ruangan — tiga orang, tepatnya, karena Maera tertawa paling pelan dan Kovan hanya menghembuskan napas tetapi tetap dihitung — dan Ashvarok menyetujui pasal itu, dan merasakan bagaimana aturan dapur, yang tidak punya satu pun pasal tentang seni raja atau segel atau takdir dunia, baru saja melakukan hal yang tidak dilakukan lima panglima dan sepuluh ribu prajurit: memaksa raja menerima bahwa dia butuh ditemani.
 
-Di bawah sana, lagu Hegemony diputar lagi kepada ruangan kosong, pelan, latihan ketujuh, dan tidak ada yang menjawab. Di atas sana, di nat-nat dan pasak-pasak level atas, enam telapak tangan manusia mulai belajar irama mendengarkan, dan batu Caldrest — batu tua, cerewet, yang selalu bercerita kalau pendengarnya cukup sabar — mulai bercerita.
+Di bawah sana, the Hegemony song diputar lagi kepada ruangan kosong, pelan, latihan ketujuh, dan tidak ada yang menjawab. Di atas sana, di nat-nat dan pasak-pasak level atas, enam telapak tangan manusia mulai belajar irama mendengarkan, dan batu Caldrest — batu tua, cerewet, yang selalu bercerita kalau pendengarnya cukup sabar — mulai bercerita.
 
 ---
 
-Malam itu juga, Brannoc dan Ashvarok menuruni jalur katup samping berdua, dan patroli buta pertama dengan dua orang berjalan berbeda dari semua patroli sebelumnya dengan cara yang tidak diperkirakan keduanya: lebih cepat. Ternyata dua orang saling menggantikan membaca nat dengan telapak telanjang lebih cepat daripada satu orang yang harus membaca semuanya sendiri, dan ternyata kegelapan level empat ke bawah terasa berbeda ketika di dalamnya ada napas manusia kedua yang iramanya dikenal.
+Malam itu juga, Brannoc dan Ashvarok menuruni jalur katup samping berdua, dan blind patrol pertama dengan dua orang berjalan berbeda dari semua patroli sebelumnya dengan cara yang tidak diperkirakan keduanya: lebih cepat. Ternyata dua orang saling menggantikan membaca nat dengan telapak telanjang lebih cepat daripada satu orang yang harus membaca semuanya sendiri, dan ternyata kegelapan level empat ke bawah terasa berbeda ketika di dalamnya ada napas manusia kedua yang iramanya dikenal.
 
 Mereka berhenti di node keenam, titik balik, dan Brannoc memandang ke arah kegelapan aula untuk pertama kalinya dari jarak dekat — delapan banding tiga, ambang bersisi pendek, lambang ikatan yang dilapisi batu polos — dan mandor tua itu diam lama, lalu berkata tanpa menoleh:
 
@@ -83,7 +83,4 @@ Seribu tahun silam dia membakar namanya sendiri untuk mengunci kegelapan di dala
 
 "Om," kata Ashvarok akhirnya, mencicipi kata itu. "Baiklah. Namun aku pilih hadiahnya."
 
-Brannoc tertawa besar di tengah malam, keras, tanpa peduli tambang mendengar, dan suara itu memantul di dinding lembah seperti gema yang sehat — dan jauh di bawah mereka, empat puluh hasta lebih dalam, sesuatu yang sedang berlatih menyanyi terhenti sebentar oleh bunyi itu, mencatatnya sebagai suara baru dari permukaan, dan tidak mengerti bahwa yang baru saja jatuh ke dalam radiusnya bukan pelajaran, melainkan hal yang tidak akan pernah bisa ditiru oleh apa pun yang tidak pernah punya keluarga.
-
-
-
+Brannoc tertawa besar di tengah malam, keras, tanpa peduli tambang mendengar, dan suara itu memantul di dinding lembah seperti gema yang sehat — dan jauh di bawah mereka, empat puluh hasta lebih dalam, sesuatu yang sedang berlatih menyanyi terhenti sebentar oleh bunyi itu, mencatatnya sebagai suara baru dari permukaan, dan tidak mengerti bahwa yang baru saja jatuh ke dalam radiusnya bukan pelajaran, melainkan hal yang tidak akan pernah bisa ditiru oleh apa pun yang tidak pernah punya keluarga. Ibu Tamma menaruh mangkuk terakhir, lalu membiarkan meja memilih diamnya sendiri.

@@ -3,122 +3,228 @@ title: "Bab 328: Pos yang Mati di Barat Daya"
 chapter: 328
 ---
 
-Kovan menarik benang abu-abu ke arah barat daya di peta Ossian, ke bekas pos Hegemony yang mati sejak perang. "Simpul keenam mungkin berdenyut di sana," katanya. "Dan bila the Escape Survivor ada di dekatnya, maka tempat dan kunci memang berpasangan."
+Benang abu-abu yang ditarik Kovan ke barat daya tidak mau rebah di atas peta. Seratnya terangkat setinggi kuku, menegang ke arah bekas pos Hegemony yang ditinggalkan sejak perang, lalu bergetar empat kali.
 
-"Kita tidak kirim kaki," kata Ashvarok-Renn. "Namun kita kirim mata. Ossian punya murid di perbatasan barat daya, bukan?"
+Kovan menahan ujungnya dengan gagang pisau. Getaran berhenti. Begitu gagang diangkat, benang kembali mengetuk meja: empat dentum kecil, jeda panjang.
 
-Maera mengangguk. "Satu murid Sekolah Mendengar ditempatkan di desa pinggiran, sehari jalan dari pos. Aku bisa suruh ia amati reruntuhan saat subuh, tanpa masuk."
+"Simpul keenam," katanya. "Atau seseorang di dekatnya."
 
-"Tanpa masuk," ulang Ashvarok-Renn. "Pos itu mungkin masih diawasi the Wanes atau sisa Hegemony. Mata dari jauh, bukan tangan di dalam."
+Ashvarok-Renn berdiri di seberang meja dengan kain tenun Ossian di tangan. Pesan dari murid barat daya itu singkat: reruntuhan berdenyut saat senja; ada sosok di ambang; bekas luka melingkar tampak di leher ketika sosok itu menimba air dari rawa.
 
-Sela menulis di papan: *Cari the Escape Survivor di barat daya via murid Ossian (pengamat jauh). the Unclaimed Knot mungkin berdenyut di pos mati. Jangan kirim kaki.*
+"Satu bekas luka tidak menjadikan siapa pun the Escape Survivor," kata Gella. Ia baru datang dari ruang pemulihan, masih membawa bau pahit rebusan akar pada lengan bajunya. "Bekas ibu Tamma memberi arah. Bukan vonis."
 
-Di sudut, Brannoc mendengar dan ikut menatap peta. "Bila the Survivor tersebar di sekitar simpul," katanya, "maka tiap desa yang kita jaga diam-diam sebenarnya punya kunci di dekatnya. Kita tidak sadar menjaga pintu di banyak tempat sekaligus."
+"Tetapi tempat dan jejaknya berimpit." Kovan menggeser gagang pisau dari benang. Empat getaran kembali merambat. "Kita tidak pernah mendapat respons sejelas ini dari simpul yang belum disentuh."
 
-"Tepat," kata Gella. "Itulah mengapa the Wanes bingung. Mereka cari satu keluarga, padahal kunci ada di tujuh ambang."
+Sela menunggu dengan kapur terangkat di depan papan. "Apa yang harus kutulis?"
+
+"Tulis bahwa pos layak diamati," jawab Ashvarok-Renn. "Tidak lebih."
+
+Kovan menatapnya. "Kalau the Wanes datang lebih dulu, pengamatan tidak akan menyelamatkan orang itu."
+
+"Kalau kita mengirim rombongan, rombongan kita akan menunjukkan jalan kepada mereka."
+
+"Kita bisa kirim dua orang."
+
+"Dua pasang kaki tetap meninggalkan jejak."
+
+Gella mengambil kapur dari tangan Sela dan menulis sendiri: *Mata dari jauh. Tidak ada kaki masuk ke pos.* Debu putih jatuh ke lantai. "Murid Ossian sudah berada sehari jalan dari sana. Biarkan ia melihat tanpa mengubah apa yang dilihatnya."
+
+"Ia sudah terlihat oleh calon itu," kata Kovan.
+
+"Belum tentu. Dan jangan panggil calon seolah kita sudah tahu jawabannya."
+
+Ketukan benang berhenti sesaat ketika Maera membuka pintu serambi. Udara malam masuk bersama bau tanah basah. Ia menyerahkan sepotong kain baru yang masih lembap oleh kabut perjalanan.
+
+Tulisan tenunnya lebih rapat daripada pesan pertama.
+
+*Bayangan di ambang melihatku. Tidak mengejar. Mengetuk batu tiga kali, diam, lalu sekali. Aku belum membalas. Menunggu perintah.*
+
+Sela membaca dari bahu Ashvarok-Renn. "Ia sudah tahu ketukan tiga-satu."
+
+"Atau ia hanya mengetuk batu," kata Gella.
+
+"Pola yang sama dengan dentum simpul?" Kovan menunjuk benang yang kini bergerak lagi. "Kebetulan mulai berkurang."
+
+Ashvarok-Renn membalik kain dan menulis dengan arang pada sela tenunan: *Balas sekali. Besok mendekat hanya sampai rawa. Jangan masuk pos. Jangan tanya nama atau bekas. Bertemanlah sebelum mengukur apa pun.*
+
+Maera mengangkat kain itu, tetapi Kovan menahan sudutnya.
+
+"Tambahkan ketukan darurat," katanya. "Dua pendek, satu panjang. Bila ada pengejar, lari ke benang."
+
+"Belum," jawab Ashvarok-Renn. "Ketukan darurat berarti kita mengaku tahu ada bahaya. Orang asing tidak akan percaya peringatan dari orang yang bahkan tak mau menyebut diri."
+
+Sela memandang pesan, lalu ke peta. "Kalau murid itu hanya membalas sekali, ia tidak memerintah. Ia menjawab. Setelah itu, orang di rawa memilih apakah percakapan berlanjut."
+
+Ashvarok-Renn melepaskan kain. "Kirim seperti itu. Satu balasan. Tidak lebih."
+
+Keputusan itu membuat Kovan mundur dari meja, meski rahangnya tetap keras. Maera memasukkan kain ke koper pos. Di bawah gagang pisau, benang abu-abu mengetuk empat kali lagi.
 
 ---
 
-Gella mendatangi Ashvarok-Renn di serambi saat senja. "Kau bicara keluarga pengikat, tetapi kau lupa satu hal," katanya. "Tanda tujuh titik di punggung ibu Tamma bukanlah tanda lahir. Itu bekas luka dari the Remainder delapan belas tahun silam. Sembilan napas yang hilang — mereka yang selamat punya bekas serupa, hanya beda letak."
+Kabut subuh menutupi rawa sampai batang-batang pohon tampak putus di tengah. Murid Ossian berbaring di balik akar terangkat, satu telinga menempel pada tanah yang dingin. Dari pos mati di seberang air terdengar bunyi batu menyentuh batu.
 
-Ashvarok-Renn terdiam. "Berarti keluarga pengikat bukan darah," katanya pelan. "Melainkan mereka yang selamat dari pengisapan napas. Sembilan napas hilang, tetapi yang bertahan hidup membawa bekasnya."
+Tiga ketukan. Jeda. Satu.
 
-"Tepat," kata Gella. "Ibu Tamma selamat dengan sebagian napas yang dihisap. Anak-anaknya bukan pengikat karena darah, tetapi karena mereka tumbuh di dekat tubuh yang pernah dihisap. Bekas itu menular pelan ke yang tinggal dekat."
+Ia mengangkat buku jarinya dan mengetuk akar sekali.
 
-"Maka the Escape Survivor bukan cucu anak kedua," kata Kovan. "Namun siapa pun di pos barat daya yang pernah selamat dari the Remainder."
+Tidak ada jawaban. Hanya dengung serangga rawa dan air yang mengisap tiang jembatan lapuk. Pos Hegemony itu berdiri miring di atas tanah tinggi, dinding luarnya runtuh separuh. Tujuh tiang batu mengelilingi halaman tengah. Masing-masing menghitam pada ketinggian dada, seperti pernah terendam asap yang tidak menyentuh bagian lain.
 
-"Lebih luas dari yang kukira," bisik Ashvarok-Renn. "Kita cari bukan garis keturunan, tetapi jejak napas yang dihisap."
+Murid itu menunggu sampai kabut menipis. Sosok dari ambang muncul membawa dua jeriken kayu. Kain lusuh menutup kepala dan lehernya. Ia berjalan menyusuri papan yang dilempar di atas lumpur tanpa sekalipun menoleh ke akar tempat pengamat bersembunyi.
 
-Di sudut, Gella duduk memilin benang bersama perawat tua. "Enam napas hidup," katanya pelan. "Ibu Tamma tiada, dua sudah kita temukan. Tiga lagi bersembunyi di utara, di celah, dan mungkin di the Hollow."
+Pada papan terakhir, ia berhenti.
 
-"Jika yang di the Hollow sudah hilang," bisik perawat tua, "maka kita hanya punya lima. Namun lima cukup untuk menjaga pintu tetap tertidur."
+"Kau bernapas terlalu keras untuk menjadi burung rawa," katanya.
+
+Murid Ossian bangkit perlahan dengan kedua tangan terbuka. "Aku tidak sedang berburu."
+
+"Pemburu selalu bilang begitu sebelum bertanya harga kulit."
+
+"Aku tak membawa pisau."
+
+Sosok itu menunjuk pinggangnya. "Tali pun bisa mencekik. Tinggalkan di akar."
+
+Murid itu melepas tali gulung dan menaruhnya di lumpur. Perintah Ashvarok-Renn melarangnya mendekati pos, bukan mendekati orang di rawa. Ia berhenti dengan air setinggi mata kaki di antara mereka.
+
+"Kemarin kau mengetuk," katanya.
+
+"Kemarin kau mengintip."
+
+"Aku membalas pagi ini."
+
+"Terlambat satu malam."
+
+Sosok itu berjongkok untuk mengisi jeriken. Ketika kain lehernya bergeser, tampak bagian sebuah lingkaran bekas luka: bukan tujuh titik yang rapi, melainkan bintik-bintik pucat yang saling menyambung sampai ke tulang selangka. Murid itu memalingkan mata sebelum tatapannya ketahuan.
+
+"Pos itu kosong?" tanyanya.
+
+Jeriken pertama terisi. "Kalau kosong, kau tidak akan bertanya."
+
+"Ada orang lain di dalam?"
+
+"Kalau ada, aku tidak akan menjawab. Kalau tidak ada, aku juga tidak akan menjawab."
+
+Murid itu menerima teguran tersebut. Ia mengambil kerikil pipih dari air dan mengetukkannya pada akar: tiga kali, lalu satu. "Di desaku, ini permainan. Satu orang membuat pola, yang lain mengubah ketukan terakhir."
+
+Sosok itu menutup jeriken. "Di sini, itu bukan permainan."
+
+"Apa artinya?"
+
+Untuk pertama kalinya orang itu menatap lurus kepadanya. Matanya kemerahan akibat kurang tidur. "Artinya tanah di bawah pos belum mati. Empat bunyi berarti menjauh dari halaman."
+
+Informasi itu mengubah tujuan murid tersebut. Ia datang untuk memperkenalkan ketukan, tetapi orang di hadapannya telah memakai pola serupa lebih lama daripada pesan barak sampai kepadanya.
+
+"Siapa yang mengajarimu?"
+
+"Tanah. Setiap senja. Kadang saat ada orang asing mendekat."
+
+"Hegemony?"
+
+"Mereka sudah pergi. Perang mengambil seragam mereka, bukan perangkapnya."
+
+Sosok itu mengangkat jeriken kedua. Di bawah air keruh dekat tiang jembatan, murid Ossian melihat kilat kawat hijau. Kawat itu mengarah ke celah batu pos. Jika tadi ia memilih jalur lurus, kakinya akan menyentuhnya.
+
+"Kau yang memasang itu?"
+
+"Aku yang belajar tidak menyentuhnya."
+
+Dari dalam reruntuhan terdengar empat dentum berat. Air di sekitar papan membentuk lingkaran-lingkaran kecil meski angin telah reda. Sosok itu meraih jeriken dan mundur dari halaman, bukan ke arahnya.
+
+Murid Ossian mengetuk akar dua kali pendek dan sekali panjang tanpa berpikir.
+
+"Itu apa?" tanya sosok tersebut.
+
+"Peringatan untuk lari ke tempat aman."
+
+"Tempat amanmu di mana?"
+
+Murid itu teringat larangan menyebut barak. "Bukan di pos. Itu cukup."
+
+Sosok tersebut menimbang jawaban itu, lalu membalas pola yang sama pada gagang jeriken: dua pendek, satu panjang. "Kalau kau dengar ini besok, jangan datang lewat jembatan. Ada mata di jalan utara."
+
+"Mata siapa?"
+
+"Orang yang mencatat punggung penduduk. Mereka belum sampai rawa, tetapi mereka membeli cerita di desa."
+
+The Wanes. Murid Ossian tidak mengucapkan nama itu. Ia mengambil kembali talinya dan mundur ke kabut.
+
+"Besok aku akan berada di akar ini," katanya.
+
+"Besok aku mungkin tidak."
+
+"Kalau begitu, ketuk dari mana pun kau berada."
+
+Sosok itu membawa jeriken menuju hutan, menjauhi pos. Sebelum hilang di antara batang gelap, ia memukul kayu tiga kali dan satu. Kali ini murid Ossian menjawab satu ketukan tanpa menunggu perintah kedua.
 
 ---
 
-Mira di menara membuka buku catatan halaman kedelapan, membaca angka yang dikirim perawat tua. "Dentum masih acak," katanya. "Namun sejak kabar barat daya dibicarakan, napas antara keras dan pelan berdenyut empat kali lalu jeda panjang. Seperti ada simpul keenam mulai bergetar di kejauhan."
+Laporan itu tiba di barak pada senja berikutnya. Maera membacakannya karena tenunan murid Ossian dibuat terburu-buru dan beberapa simpul huruf bertumpuk.
 
-"Pos barat daya berdenyut," kata perawat tua.
+"Tanah memberi empat dentum. Tujuh tiang. Kawat Hegemony masih hidup. Orang berbekas lingkaran tinggal di hutan, mengambil air dekat pos, dan sudah memahami pola tiga-satu sebagai peringatan menjauh." Ia menurunkan kain. "Ada pengumpul cerita di jalan utara yang menanyakan tanda di tubuh penduduk."
 
-"Maka the Escape Survivor dan the Unclaimed Knot di tempat sama." Mira menulis: *the Unclaimed Knot (barat daya/pos Hegemony) berdenyut 4x lalu jeda sejak kabar dibicarakan. the Escape Survivor = the Survivor of the Remainder di pos, bukan darah. Cari jejak napas dihisap.* Ia mengetuk ubin tiga kali, diam sehentakan.
+Kovan mencabut gagang pisau dari peta. Benang abu-abu tidak lagi perlu ditahan; ia melayang lurus ke barat daya.
 
-Di barak, Ashvarok-Renn menutup bible dan menulis: *Revisi: keluarga pengikat = 9 the Survivors of the Remainder (bukan 7 darah). Ibu Tamma = the Gate (alm). the Escape Candidate = pos barat daya (the Unclaimed Knot). The Wanes cari 7 darah — mereka salah jalan. Kita cari jejak napas dihisap.*
+"Kita harus memindahkan orang itu malam ini," katanya.
+
+"Ke mana?" tanya Gella.
+
+"Ke desa lain. Ke salah satu rumah jaringan Ossian."
+
+"Lalu the Wanes mengikuti jejak dari rawa ke rumah tersebut."
+
+"Membiarkannya di sana juga berbahaya."
+
+Ashvarok-Renn membaca ulang bagian tentang jeriken dan kawat. "Ia tinggal di hutan, bukan di pos. Ia tahu jalur aman. Ia melihat pencari datang sebelum murid kita melihat mereka. Membawanya pergi akan menghapus keunggulan yang sudah ia punya."
+
+"Kita bahkan tidak tahu ia penyintas," kata Sela. "Kalau kita memindahkannya karena sebuah luka, kita memakai cara berpikir the Wanes."
+
+Kovan memandang ketiganya bergantian. "Lalu apa guna jaringan ini kalau kita hanya mencatat orang sampai musuh mengambil mereka?"
+
+Pertanyaan itu membuat serambi sunyi. Dari halaman terdengar anak-anak Brannoc berlatih ketukan pada balok kayu. Beberapa terlalu cepat; Brannoc menyuruh mereka mengulang dari awal.
+
+Gella meletakkan dua mangkuk di atas peta, satu di sisi gambar pos dan satu di sisi hutan. "Kita perlu memisahkan denyut tempat dari denyut orang. Murid Ossian mengamati dari akar saat sosok itu datang mengambil air. Besok ia tetap di akar, tetapi sosok itu jangan mendekati pos. Jika dentum tetap empat, poslah yang berdenyut. Jika berubah mengikuti jarak sosok itu, kita punya alasan lebih kuat untuk menjaga orangnya."
+
+"Itu menjadikan mereka umpan," kata Kovan.
+
+"Tidak. Orang itu sudah memilih menjauh. Murid kita hanya mendengar dari tempat yang sama. Tidak ada yang masuk, tidak ada yang dipanggil."
+
+Ashvarok-Renn mengangguk. "Dan ketukan darurat sudah berpindah tanpa nama barak. Itu perlindungan yang bisa kita beri tanpa mencabut siapa pun dari rumahnya."
+
+Sela mengubah tulisan di papan: *Amati dua jarak. Pos tidak disentuh. Orang di hutan tidak dipanggil. Dua-pendek-satu-panjang = mata di jalan; menjauh.*
+
+Kovan membaca tulisan tersebut lama. "Satu hari," katanya akhirnya. "Kalau pengumpul cerita mendekati rawa, pengamatan selesai. Murid Ossian membantu orang itu masuk lebih jauh ke hutan."
+
+"Disepakati," jawab Ashvarok-Renn.
+
+Keputusan bergeser: bukan membawa calon ke barak, melainkan memperkuat jarak yang telah dipilihnya sendiri.
 
 ---
 
-Brannoc mengumpulkan dua belas anak di halaman saat fajar. "Ketukan baru untuk hari ini," katanya. "Tiga pendek lalu satu panjang berarti 'simpul keenam berdenyut'. Bila kalian dengar itu dari arah barat, ketuk balik sekali pelan supaya barak tahu kalian aman."
+Hari berikutnya, benang abu-abu diam sepanjang pagi. Kovan memeriksanya setiap kali melewati peta. Sela mencatat ketiadaan denyut tanpa mencoba memberi arti. Menjelang senja, Maera masuk membawa kain selebar telapak tangan.
 
-"Kalau the Wanes ada di pos itu?" tanya anak angkatan keempat.
+*Ia tidak datang ke pos. Mengetuk dari hutan. Empat dentum tetap terdengar dari tujuh tiang, lebih lemah karena jarak. Ketika dua orang berkuda berhenti di jalan utara, kami bertukar dua-pendek-satu-panjang. Ia membawa jeriken menjauh melalui rawa. Mereka tidak melihatnya. Aku tidak mengikuti.*
 
-"Maka kalian tidak mendekat. Kalian hanya hitung napas di sini, dan biarkan benang memberi tahu kita." Brannoc menatap mereka. "Mata yang jauh lebih berharga daripada kaki yang mati di pos terlarang."
+Di bawah kalimat itu terdapat dua simpul tambahan, berlainan warna. Murid Ossian menjelaskan maknanya pada tepi kain: *Ia bertanya apakah besok aku membawa batu pipih untuk permainan ketukan. Aku menjawab ya.*
 
-Di sudut, Gella mengajari Sela cara membaca bekas luka the Remainder di punggung seseorang. "Tujuh titik bukan pola tetap," katanya. "Bisa tiga, bisa sembilan, tergantung berapa napas yang pergi. Yang penting: lingkaran tertutup. Bila kau lihat lingkaran bekas luka di punggung siapa pun, itu the Survivor."
+Gella menyentuh kedua simpul itu. "Persahabatan, bukan pemindahan."
 
-"Dan kita jaga mereka," kata Sela.
+"Dan pos berdenyut tanpa orangnya di ambang," kata Kovan. Kecurigaan belum hilang dari suaranya, tetapi ia menggeser mangkuk penanda dari halaman pos ke hutan. "the Unclaimed Knot mungkin memang berada di bawah tujuh tiang. Sosok itu dekat dengannya, belum tentu terikat padanya."
 
-"Kita jaga mereka tanpa nama. Seperti kita jaga segalanya."
+"Belum tentu the Escape," tambah Sela.
 
----
+"Belum tentu," Kovan mengakui.
 
-Maera tiba membawa koper pos dari utara, dan kain tenun Ossian: *Murid di barat daya laporkan reruntuhan pos berdenyut saat senja, pola empat napas seperti yang kau duga. Ia lihat bayangan orang di ambang, tetapi tidak masuk. Satu dari mereka punya bekas lingkaran di leher — the Survivor, seperti kau bilang.*
+Ashvarok-Renn menyerahkan kain kepada Maera. "Balas: lanjutkan permainan. Jangan ukur napasnya. Jangan minta melihat luka. Jika penunggang datang lagi, murid mundur bersama orang itu hanya bila diminta."
 
-Ashvarok-Renn membacanya di serambi. "the Survivors di pos barat daya," katanya pada Kovan. "the Escape Family ditemukan, secara jejak napas. Namun kita tidak tarik mereka ke sini. Kita ajarkan dari jauh."
+"Tanpa nama barak?" tanya Maera.
 
-"Bagaimana mengajar dari jauh?" tanya Sela.
+"Tanpa nama siapa pun."
 
-"Melalui murid Ossian. Ia bisa ajarkan ketukan tiga-satu pada the Survivor di sana, pelan-pelan, tanpa menyebut barak." Ashvarok-Renn menyerahkan kain ke Maera. "Suruh Ossian suruh muridnya berteman dengan mereka. Persahabatan lebih aman dari perintah."
+Malam turun sebelum pesan berangkat. Di menara, Mira membuka halaman kedelapan ketika empat dentum merambat melalui lantai, teratur dan jauh. Perawat tua menghitung dengan ujung jarinya: satu, dua, tiga, empat; lalu jeda.
 
-Kovan menatap peta, benang abu-abu ke barat daya masih tergantung. "Kalau the Escape Survivor di pos itu, dan the Wanes belum datang, kita punya jendela kecil," katanya. "Namun bila mereka baca catatan Throne soal tujuh lingkaran, mereka akan menuju sana."
+"Posnya yang berbunyi," kata Mira.
 
-"Choir punya peta itu, bukan the Wanes," kata Ashvarok-Renn. "The Wanes punya cap tujuh garis, tetapi tidak peta lengkap. Mereka mencari buta. Itu keuntungan kita."
+"Dan orangnya memilih hutan," jawab perawat tua.
 
-Di sudut, Gella duduk memilin benang bersama perawat tua yang sejak tadi diam di ambang menara. "Kau dengar semua?" tanya Gella pelan.
+Mira menulis kedua fakta itu pada baris terpisah agar tak ada yang mengikatnya terlalu cepat. Di barak, Sela melakukan hal sama. Brannoc mengubah latihan anak-anak: tiga-satu untuk simpul yang terdengar, dua-pendek-satu-panjang untuk mata di jalan. Tak seorang pun disuruh menuju barat daya.
 
-"Sejak aku jaga celah delapan belas tahun silam," kata perawat tua. "Aku merasa napasku pelan sejak the Remainder datang. Namun baru kau yang bilang itu tanda the Survivor."
-
-"Kau the Gate Survivor," bisik Gella. "Namun biarkan itu rahasia. Bila kau tahu, napasmu berubah, dan the Wanes bisa mendeteksinya dari jauh."
-
-Perawat tua tersenyum tipis. "Maka aku tetap perawat tua yang menghitung angin. Itu penyamaran terbaik."
-
-Brannoc sendiri mendekat, membawa peta kasar pos barat daya yang digambar murid Ossian. "Ini bentuk reruntuhan," katanya. "Tujuh tiang batu di tengah, seperti tujuh garis cap yang ditinggalkan the Wanes di the Hollow. Mungkin pos itu memang dibangun di atas the Unclaimed Knot sejak purba."
-
-"Maka Hegemony dulu tahu," kata Kovan. "Mereka pakai pos sebagai jalur, tidak tahu mereka berdiri di atas the Survivor."
-
-"Kita tidak akan ulangi kesalahan mereka," kata Ashvarok-Renn. "Kita jaga the Survivor tanpa mengklaim tempatnya. Biarkan pos tetap mati, biarkan the Survivor tetap di hutan."
-
-Di menara, Mira membuka buku catatan halaman kedelapan dan menulis di sisi: *the Escape Family = the Survivor of the Remainder di pos barat daya (the Unclaimed Knot). Pos Hegemony dibangun di atas the Unclaimed Knot. The Wanes salah jalan cari 7 darah. Barak cari jejak napas.* Perawat tua membubuhkan garis lurus di bawahnya, tiga.
-
-Ashvarok-Renn membuka bible kecil dan menulis: *the Escape Family = the Survivor barat daya (the Unclaimed Knot). Diajarkan dentum via murid Ossian, tanpa nama. Sisa: 7 the Survivors lagi tersebar. The Wanes cari 7 darah — kita cari 8 napas tersisa.*
-
-Maera tiba membawa koper pos terbaru dari utara. "Ossian kirim ini," katanya. "Murid barat daya sudah berteman dengan the Escape Survivor. Mereka main ketukan bersama di rawa, tanpa menyebut barak."
-
-"Persahabatan berjalan," kata Ashvarok-Renn. "Itu yang the Wanes takkan baca — bukan perintah, tetapi ikatan."
-
-Kovan menatap peta, benang abu-abu ke barat daya masih menyala pelan. "the Unclaimed Knot berdenyut di pos mati," katanya. "Namun the Survivor's di hutan. Selama ia di luar pos, the Wanes hanya punya batu."
-
-"Maka kita jaga jaraknya," kata Gella. "Jangan tarik dia ke sini. Biarkan rawa jadi rumahnya."
-
-Sela menulis di papan: *the Escape Survivor di hutan (bukan pos). Murid Ossian berteman via ketukan. the Unclaimed Knot = batu mati tanpa dia. Jaga jarak.*
-
-Malam itu, Ashvarok-Renn duduk di serambi sendirian setelah semua anak tidur. Ia menatap benang merah ke utara yang tak lagi berdenyut, dan benang abu-abu ke barat daya yang masih menyala pelan. "Enam kunci," bisiknya pada malam. "Tiga sudah kita temukan. Tiga lagi bersembunyi. Jika the Wanes belajar cara kita, mereka akan temukan sebelum kita."
-
-Fajar menyingsing. Di halaman, Brannoc mengumpulkan dua belas anak untuk latihan pertama mengukur napas. "Kalian akan berpasangan," katanya. "Satu hitung napas yang lain saat tidur siang. Cari yang berdenyut setengah hitungan lebih pendek."
-
-"Dan bila kami temukan?" tanya anak angkatan ketiga.
-
-"Catat di papan Sela. Jangan sebut nama. Jangan dekati." Brannoc menatap mereka. "Kita hanya mata. Kita tidak pegang kunci apa pun."
-
-Di sudut, Gella mengukur napas perawat tua yang duduk memilin benang. "Tiga hitungan," bisiknya pada Sela. "Stabil. Ia the oldest Survivor kita."
-
-"Catat di papan," kata Sela.
-
-Kovan menatap peta, benang abu-abu ke barat daya kini putus karena pos jatuh. "the Unclaimed Knot jatuh ke tangan mereka," katanya. "Namun tanpa the Escape Survivor, ia hanya batu berdenyut."
-
-"Tepat," kata Ashvarok-Renn. "Mereka pegang simpul, bukan kunci."
-
-Sela menulis di papan: *3 anak + Gella = alat deteksi napas hidup. Latihan pertama hari ini. the Escape Survivor lolos, the Unclaimed Knot jatuh tanpa kunci.*
-
-Mira di menara membuka buku catatan. "Dentum barat daya berdenyut liar saat the Wanes masuk, lalu kembali acak setelah the Survivor lolos," katanya. "the Unclaimed Knot hidup, tetapi tak terbuka."
-
-"Mereka pegang simpul, bukan kunci," kata perawat tua.
-
-Ia menutup bible dan membiarkan benang diam hidup tanpa namanya — tahu bahwa di barat daya, seorang the Survivor dengan bekas lingkaran di leher kini mulai belajar ketukan yang sama dengan barak, tanpa pernah tahu ia adalah kunci yang diburu dua pihak.
+Sesaat sebelum lampu dipadamkan, benang abu-abu pada peta menegang. Empat denyut melintas dari ujung yang menunjuk pos mati. Setelah jeda panjang, datang satu getaran kecil dari arah hutan—jawaban, bukan panggilan.

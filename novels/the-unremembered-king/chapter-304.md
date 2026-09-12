@@ -29,7 +29,7 @@ Itu pemikiran yang baru kali ini ia ucapkan. Raja yang membakar namanya bukan pe
 
 "Tidak. Ia menarik benangnya, bukan pemiliknya. Itu sebabnya aku aman dan benang tidak."
 
-Ashvarok-Renn berdiri. Ia berjalan ke rak, mengambil buku anomali, membuka ke halaman baru — halaman delapan, yang belum ia tulis. Ia menulis pelan:
+Ashvarok-Renn berdiri. Ia berjalan ke rak, mengambil the Anomaly Book, membuka ke halaman baru — halaman delapan, yang belum ia tulis. Ia menulis pelan:
 
 *Seam = benang penyambung seluruh Karvess, terbentuk saat retakan pertama + gugurnya 5 panglima + segel tanpa nama. Yang menyedot menarik benang, bukan pemilik. Segel tanpa nama = benang tidak terikat pada siapa pun, pemilik aman, ikatan yang rapuh. Tempat terbentuknya (utara, 5 panglima gugur) = paling tipis.*
 
@@ -89,9 +89,9 @@ Setelah bocah pergi, Kovan menutup buku hitung. "Kalau benang putus di utara, se
 
 "Betul. Dan jaga ujung ini dengan menghitungnya, bukan menyerangnya."
 
-Malam. Tami-Tomi menutup tungku dengan abu basah. Harn telah pulang. Murid-murid Sekolah Mendengar kembali ke asrama, langkah pelan di papan barak yang berdenyut tiga hentakan lalu jeda. Di sudut ruangan, Yang Dulu Sunyi tidak mencatat lagi; ia hanya ada, seperti dinding, seperti retakan yang tertutup Forge tipis.
+Malam. Tami-Tomi menutup tungku dengan abu basah. Harn telah pulang. Murid-murid the Listening School kembali ke asrama, langkah pelan di papan barak yang berdenyut tiga hentakan lalu jeda. Di sudut ruangan, the Once-Silent tidak mencatat lagi; ia hanya ada, seperti dinding, seperti retakan yang tertutup Forge tipis.
 
-Ashvarok-Renn duduk di kursi sudut. Di pangkuannya, buku anomali terbuka di halaman delapan. Ia tidak membaca ulang. Ia hanya duduk, dan di bawah telapak tangannya lantai barak berdenyut sama dengan denyut purba yang kini milik seluruh Karvess.
+Ashvarok-Renn duduk di kursi sudut. Di pangkuannya, the Anomaly Book terbuka di halaman delapan. Ia tidak membaca ulang. Ia hanya duduk, dan di bawah telapak tangannya lantai barak berdenyut sama dengan denyut purba yang kini milik seluruh Karvess.
 
 Benang panjang membentang dari lantai ini ke utara, ke Spire, ke tempat lima panglimanya gugur. Mereka tidak mati untuknya. Mereka mati agar dunia punya cara menjaga diri saat ikatannya tipis. Dan kini ikatan itu tipis di ujung utara, dan seluruh Karvess menghitung bersamaan.
 
@@ -105,7 +105,7 @@ Ashvarok-Renn menatap angka 1 di tengah. "Satu bukan hilangnya benang. Satu adal
 
 "Jadi menara juga menahan?" tanya Sela.
 
-"Menara menahan karena perawatnya menahan," jawab Maera. "Perawat baru itu murid Sekolah Mendengar. Ia diajarkan menahan napas satu hentakan saat mendengar yang keras. Tanpa sadar, ia ikut menahan benang dari ujung utara, sama seperti desa timur menahan dari selatan."
+"Menara menahan karena perawatnya menahan," jawab Maera. "Perawat baru itu murid the Listening School. Ia diajarkan menahan napas satu hentakan saat mendengar yang keras. Tanpa sadar, ia ikut menahan benang dari ujung utara, sama seperti desa timur menahan dari selatan."
 
 Ashvarok-Renn menulis di halaman delapan bawah. *Menara juga menahan: perawat murid menahan napas 1 hentakan saat dentum keras. Utara dan selatan sama-sama menahan. Benang ditahan dari dua ujung — maka yang menarik tidak selesai.*
 
@@ -119,6 +119,6 @@ Kovan menatap angka 1 itu lama. "Kalau utara dan selatan sama-sama menahan, maka
 
 "Delapan belas tahun itu bukan menunggu kosong," kata Ashvarok-Renn. "Ia latihan menahan. Dan latihan itu kini menjaga benang."
 
-Di sudut ruangan, Yang Dulu Sunyi mencatat pelan: dua nadi. Yang menunggu, yang lari. Lalu senyap. Senyap itu bukan kosong. Senyap itu jeda yang ditahan bersama — dunia dan kedalaman, menahan napas satu hentakan, agar yang menarik tidak selesai pekerjaannya.
+Di sudut ruangan, the Once-Silent mencatat pelan: dua nadi. Yang menunggu, yang lari. Lalu senyap. Senyap itu bukan kosong. Senyap itu jeda yang ditahan bersama — dunia dan kedalaman, menahan napas satu hentakan, agar yang menarik tidak selesai pekerjaannya.
 
 Ashvarok-Renn memejam. Untuk pertama kalinya, ia tidak merasa benang itu miliknya. Benang itu milik lima orang yang gugur, dan milik dunia yang kini menghitung tanpa menyebut siapa pun. Dan di ujungnya, di menara, Ossian duduk mendengar dentum yang makin keras, sekutu yang terlambat, dua pencatat di dua ujung benang yang sama. Hari ini benang utuh. Dua ujung menahan bersama, dan jaringan diam menjaga. Malam ini, barak dan menara menahan satu napas bersama, dan benang tidak putus di ujung mana pun.

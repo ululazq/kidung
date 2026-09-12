@@ -3,132 +3,222 @@ title: "Bab 320: Irama yang Kembali Biasa"
 chapter: 320
 ---
 
-Satu bulan setelah pemeriksa pulang, buku catatan menara telah mengisi halaman penuh kedua. Perawat tua meratakan tinta di halaman terakhir, lalu menyilang baris bawah dengan garis lurus: tiga, angin selatan ke utara, enam puluh hari berturut-turut tanpa kecuali. Di sebelahnya, Mira menulis namanya di kertas pos, di bawah angka yang sama sejak bulan pertama.
+Satu bulan setelah pemeriksa pulang, buku catatan menara utara mencapai baris terakhir halaman kedua. Perawat tua menahan sudut kertas dengan ruas jarinya yang kaku sementara Mira meniup tinta agar cepat kering. Bau logam dari celah bercampur dengan minyak lampu dan debu jalan. Di luar, angin selatan mendesak masuk melalui batu retak, mendinginkan punggung tangan mereka.
 
-"Laporan bulanan kedua," kata Mira. "Kali ini tanpa ketegangan."
+Enam puluh baris. Semuanya memuat arah yang sama. Tidak satu pun menjelaskan sebab.
 
-"Ketegangan bukan milik laporan," jawab perawat tua. "Ia milik orang yang membacanya. Kita hanya mengirim angka."
+Perawat tua menarik garis lurus di bawah catatan terakhir. "Baca lagi."
 
-Mira menyerahkan kertas itu ke kurir pos di gerbang menara. Sebelum kurir pergi, ia mengetuk tiga kali ke kayu gerbang, diam satu hentakan — gerakan yang kini ia lakukan tanpa berpikir, seperti perawat tua, seperti Harn di barak utara, seperti dua belas anak di halaman.
+Mira mengikuti kolom dengan ujung pena. "Tiga napas. Selatan ke utara saat dentum keras. Kembali saat dentum pelan. Enam puluh hari berturut-turut."
 
-"Kau tidak takut lagi?" tanya kurir.
+"Kau melewatkan sesuatu."
 
-"Takut bukan untuk laporan," jawab Mira. "Laporan hanya angka. Yang takut adalah yang punya cerita untuk disembunyikan. Aku tidak punya."
+Mira memeriksa tanggal, arah, dan tanda tangan. Dulu pertanyaan semacam itu membuat tengkuknya panas. Kini ia tahu perawat tua tidak sedang menguji ingatan, melainkan kebiasaan. "Jarak antara dentum keras dan pelan kembali tidak seragam sejak pemeriksa pergi."
 
----
+"Dan itu masuk laporan?"
 
-Di barak, kabar laporan kedua dikirim tiba lewat Maera. Ashvarok-Renn membacanya di meja tengah, lalu meletakkannya di sebelah buku anomali yang sudah tebal.
+"Tidak. Laporan bulanan meminta arah dan jumlah napas, bukan pola jeda. Perubahan jeda tinggal di buku menara."
 
-"Siklus kembali biasa," katanya pada Sela. "Spire menerima angka, kita tidak sebut katup, benang tetap hidup sebagai irama bukan cerita."
+Perawat tua mengangguk. "Sekarang kau boleh menandatangani."
 
-"Apakah mereka berhenti mencari?" tanya Kovan.
+Mira menulis namanya pada lembar pos. Tinta sempat berkumpul di lengkung huruf terakhir, tetapi tangannya tidak gemetar. Pada laporan pertama, ia merasa namanya seperti gagang pintu yang diserahkan kepada orang asing. Bulan ini nama itu hanya memastikan angka berasal dari seseorang yang hadir dan menghitung.
 
-"Mereka tidak berhenti. Mereka hanya kehilangan kaki di celah ini. Lima simpul seam lain masih tersebar di Karvess, dan institusi yang memanen akan cari simpul yang lebih mudah dibuka."
+Derak roda terdengar dari jalan. Kurir Maera menghentikan kereta kecil di depan gerbang, turun, lalu mengusap debu abu dari lengan bajunya. Mira membawa lembar laporan keluar tanpa buku menara.
 
-"Kita akan tahu bila mereka temukan?"
+Kurir memeriksa cap, tanggal, dan lipatan. "Hanya satu halaman?"
 
-"Kita akan tahu bila irama di tempat lain berubah," jawab Ashvarok-Renn. "Seperti di sini: saat mereka menarik, dentum jadi teratur. Saat mereka lepas, dentum kembali acak. Kovan, pasang penanda di peta untuk lima simpul yang belum kita kenal. Bila salah satu bergetar, kita tahu ke mana mereka menyasar."
+"Permintaannya satu halaman."
 
-Kovan menarik peta Ossian dan menandai lima titik kosong di berbagai penjuru Karvess dengan lingkaran putus-putus. "Lima simpul buta," katanya. "Kita awasi dari jauh."
+"Bulan lalu ada pemeriksa. Koordinasi biasanya menyukai tambahan setelah kunjungan lapangan. Keterangan keadaan celah, mungkin."
 
----
+Mira tidak melepaskan kertas itu. "Apakah ada permintaan tertulis untuk tambahan?"
 
-Ibu Tamma menyajikan sup di meja tengah, sendok kayu berbunyi sama seperti sebulan silam. "Meja ini tetap pusat kendali," katanya. "Laporan naik, pemeriksa datang, pemeriksa pulang. Kita tetap makan dulu sebelum menjawab."
+"Tidak. Aku hanya mencoba mencegah surat balik."
 
-"Pasal itu," kata Ashvarok-Renn, dan supnya hangat di tenggorokan.
+"Kalau surat balik datang, kami jawab yang diminta." Mira baru menyerahkan laporan setelah kurir membuka tas bersegel. "Hari ini mereka meminta angka."
 
-Gella duduk di sudut, membuka buku pemulihan. "Tangan Mira masih bisa menulis," katanya. "Dan tangan yang memikul di sini masih utuh, walau lebih tipis. Kita lewati ujian pertama tanpa kehilangan siapa pun."
+Kurir menyelipkannya di antara dua bundel dagang. Tatapannya jatuh pada bekas kapur tiga garis di ambang. "Kau tidak takut lagi?"
 
-"Belum selesai," kata Ashvarok-Renn. "Ini baru simpul kedua dari tujuh. Lima lagi menunggu."
+"Takut bukan kolom laporan."
 
-Sela menulis di papan world-state barak di bawah catatan pemeriksa pulang: *Laporan bulanan ke-2 terkirim. Siklus biasa. Lima simpul seam buta diawasi dari jauh. Kita tetap tak bernama.*
+Jawaban itu membuat kurir mendengus kecil, entah geli atau kesal. "Baik. Satu halaman, tanpa cerita."
 
----
-
-Malam itu Ashvarok-Renn membuka buku anomali dan menulis satu baris di bagian paling bawah, menutup catatan arc jejak pertama:
-
-*Penutup mini: celah menara (simpul ke-2 dari 7 seam) kini aman sebagai laporan bulanan rutin. Institusi penghisap gagal dapat narasi/mekanisme lewat sini. Jejak pertama mereka: memanen artefak Hegemony + tarikan celah lewat pos utara, satu Throne di balik Choir (kita tidak sebut nama). Lima simpul lain belum dikenal — Kovan pasang penanda buta. Benang diam kini jadi institusi di barak: dua belas anak + bel barak utara + ketukan tiga-satu. Kita tetap tak bernama di arsip = tak bisa dipanggil. Arc berikutnya: cari di mana lima simpul itu bergetar.*
-
-Di barak utara, Brannoc berdiri di samping Harn yang sedang menggantungkan pengait besi ke dinding. "Bel itu kini bukan alat," kata Brannoc. "Ia jadi sistem peringatan. Tiap kali kurir utara lewat, anak-anak memukulnya tiga kali. Kau tahu itu berarti apa?"
-
-"Berarti kita diawasi tanpa menyebut nama," jawab Harn. "Seperti yang kau ajarkan: jaga irama, jangan jaga orang."
-
-"Betul. Dan irama itu kini milik dua belas anak, bukan hanya aku. Kalau suatu hari aku tiada, bel itu tetap berdenting."
-
-Gella mendengar dari sudut ruangan, lalu berkata tanpa menatap, "Yang memikul di sini makin tipis tiap kali benang ditarik. Sembilan napas yang hilang delapan belas tahun silam belum kembali. Jangan kira karena pemeriksa pulang, beban itu hilang. Ia hanya berhenti sejenak."
-
-"Tidak hilang," jawab Ashvarok-Renn pelan. "Hanya ditahan. Seperti diam yang kita jaga di ambang."
-
-Pagi setelah laporan kedua dikirim, Mira membuka buku catatan di menara dan mendapati dentum keras kembali sepenuhnya acak. Tiga napas antara keras dan pelan berjarak berbeda setiap hari, seperti sebelum pola pertama dikirim.
-
-"Mereka benar-benar lepas," kata perawat tua.
-
-"Siapa?"
-
-"Yang memanen di ujung benang. Setelah dua laporan hanya angka, mereka tidak punya alasan menarik terus. Simpul kedua di Spire mati rasanya."
-
-Mira menulis di sisi buku: *Ritme celah kembali sepenuhnya acak. Simpul kedua Spire lepas.* Catatan kecil itu milik menara. Ia mengetuk tiga kali ke ambang, diam satu hentakan. Irama itu kembali sepenuhnya miliknya, bukan milik benang yang ditarik dari ruang bawah.
+Sebelum kereta bergerak, Mira mengetuk kayu gerbang tiga kali, lalu diam satu hentakan. Perawat tua membalas dari dalam dengan gagang sapu. Roda melindas kerikil. Untuk pertama kalinya, Mira tidak menghitung berapa lama tas pos terlihat di tikungan.
 
 ---
 
-Di halaman barak, dua belas anak Sekolah Mendengar berlatih skenario kedua: pemeriksa datang lagi. Sela berdiri di depan memegang papan kecil.
+Maera tiba di barak menjelang tengah hari. Ia tidak membawa laporan—lembar itu harus terus menuju Anthema Spire—hanya menyampaikan bahwa laporan bulanan kedua telah masuk jalur pos tanpa lampiran. Ashvarok-Renn menerima kabar tersebut di meja tengah, tempat Kovan sedang menambal tepi peta Ossian dengan lem tipis.
 
-"Kali ini dua pemeriksa," kata Sela. "Satu bertanya arah, satu bertanya mekanisme."
+"Satu halaman," kata Maera. "Kurir mencoba meminta keterangan tambahan. Mira meminta surat resmi. Tidak ada, jadi tidak ada yang diberi."
 
-Anak angkatan keempat maju. "Tiga, selatan ke utara," katanya pada yang pertama.
+Sela berhenti menulis di papan keadaan. "Kurir itu bekerja untuk siapa?"
 
-Pada yang kedua: "Katup bukan yang kami catat. Kami hanya merawat angin."
+"Untuk upah perjalanan." Maera melepas sarung tangan berdebu. "Ia menghindari kiriman bolak-balik. Jangan jadikan setiap pertanyaan sebagai tangan Spire. Nanti kalian tak bisa membedakan rasa ingin tahu dengan perintah."
 
-"Dan kalau mereka bawa surat yang menyebut celah sebagai milik Koordinasi?"
+Ashvarok-Renn mengetuk sampul the Anomaly Book sekali. Koreksi itu perlu. Ketakutan yang diberi terlalu banyak wajah akan memaksa mereka menyerang semua orang. "Catat tindakannya, bukan dugaan tentang orangnya. Kurir meminta tambahan tanpa surat. Mira menolak. Laporan tetap satu halaman."
 
-"Celah milik jalan raya, bukan milik kami," jawab anak itu tanpa ragu. "Kami hanya mencatat angin yang lewatnya."
+Sela menghapus kata *tekanan* yang telanjur ditulisnya. Ia mengganti baris itu: *Laporan bulanan ke-2 terkirim. Hanya ukuran yang diminta dan diberi.*
 
-Ashvarok-Renn mengamati dari serambi. Generasi berikutnya kini tidak hanya menghafal ketukan, tetapi cara berdiri di ambang saat lebih dari satu suara asing datang menekan. Disiplin itu akan hidup saat tubuhnya sendiri telah lama habis dihisap the Remainder — itulah yang membuatnya rela memikul di menara kemarin, dan rela memikul lagi bila simpul lain bergetar.
+"Siklus kembali biasa," kata Kovan. "Apakah itu berarti simpul menara aman?"
+
+"Aman sebagai laporan rutin," jawab Ashvarok-Renn. "Bukan aman untuk selamanya. Pemeriksa kehilangan jalan masuk di celah ini karena kita tidak memberinya narasi. Institusi yang memanen masih punya lima simpul lain dari tujuh seam."
+
+Kovan meratakan peta. Dua tanda telah memiliki bentuk: seam Testament di bawah barak dan celah menara di jalur utara. Ruang kosong di sekelilingnya jauh lebih luas daripada garis yang mereka kenal. "Kita bahkan tidak tahu di mana lima sisanya."
+
+"Maka jangan gambar kepastian." Ashvarok-Renn mengambil arang, tetapi menyerahkannya kembali. "Pasang lingkaran putus-putus di wilayah yang mungkin. Bukan titik. Kalau kita salah, peta harus mengaku salah sejak awal."
+
+Kovan membuat lima lingkaran lebar: utara jauh, timur, selatan, barat daya, dan tengah Karvess. Tangan terakhirnya berhenti di atas pusat peta. "Ini bukan pengetahuan."
+
+"Betul. Itu ketidaktahuan yang diberi tempat agar tidak menyamar sebagai pengetahuan."
+
+Maera mengamati lingkaran-lingkaran tersebut sambil mengikat kembali rambutnya. "Kalau salah satu jalur pos mulai membawa laporan angin seperti menara utara, aku bisa kabarkan. Namun aku tidak akan membuka surat orang lain."
+
+"Kami tidak memintamu melakukannya," kata Sela.
+
+"Bagus. Katakan lagi saat kalian lebih takut daripada hari ini."
+
+Maera mengambil semangkuk air dan pergi ke kandang. Ucapannya tertinggal di meja. Ashvarok-Renn meminta Sela menambahkan satu pasal di bawah peta: *Jaringan diam tidak mencuri suara orang lain.* Mata-mata akan memberi lebih banyak kabar, tetapi juga mengubah barak menjadi bentuk lain dari lembaga yang sedang mereka lawan.
 
 ---
 
-Malamnya, Ashvarok-Renn menulis satu baris di kain tenun tipis, dialamatkan ke Ossian lewat jalur Maera:
+Ibu Tamma menyajikan sup akar di meja yang sama. Sendok kayu membentur tepi mangkuk dengan bunyi pendek dan akrab. Harn hendak memindahkan peta agar tidak terkena kuah, tetapi Kovan menahan keempat sudutnya dengan cangkir kosong.
 
-*Jejak pertama terkonfirmasi: satu Throne di balik Choir memanen lewat celah menara dan pos utara. Kami tutup celah ini dengan angka, bukan cerita. Lima simpul seam lain belum bergetar. Kabar ini hanya untukmu, bukan untuk arsip.*
+"Laporan naik, pemeriksa pulang, dan kalian menggambar lima masalah baru sebelum makan," kata ibu Tamma. "Meja ini tetap punya urutan."
 
-Ia melipat kain itu, memberikannya ke Maera yang akan menyelipkannya ke koper pos biasa besok subuh. Ossian tidak akan membalas dengan nama. Ia hanya akan mengirim kalimat pendek lewat Thessa, seperti biasa: jaga iramanya.
+"Makan dulu sebelum menjawab," kata Ashvarok-Renn.
+
+"Pasal itu tidak perlu ditulis. Kalian hanya perlu patuh."
+
+Gella duduk dekat jendela dengan buku pemulihan terbuka. Ia tidak ikut tertawa. Tatapannya berpindah dari pergelangan Ashvarok-Renn yang makin kurus ke lima lingkaran pada peta. "Jangan sebut siklus biasa seolah beban kembali ke keadaan lama. Sembilan napas yang hilang delapan belas tahun silam belum pulang. Tarikan berhenti, tetapi tubuh yang memikul tidak langsung terisi."
+
+Ashvarok-Renn meraih mangkuk. Uap sup berbau pahit dan hangat. "Apa yang berubah sejak bulan lalu?"
+
+"Kau berhenti terbangun tiap dentum. Itu baik. Namun napasmu masih pendek setelah menaiki tiga anak tangga. Itu bukan baik." Gella menutup buku dengan satu jari terselip sebagai penanda. "Kalau simpul lain bergetar, jangan berangkat sendiri hanya karena kau mengenali rasa tarikannya."
+
+"Aku belum memutuskan berangkat."
+
+"Kau sudah menggambar jalan. Bagimu itu setengah keputusan."
+
+Kovan menunduk ke supnya. Sela tidak menulis apa pun. Ashvarok-Renn membiarkan panas mangkuk masuk ke telapak tangannya sebelum menjawab. "Kalau simpul lain bergetar, kita dengar dulu. Tidak ada kaki berangkat sampai Gella menghitung napas orang yang hendak dikirim."
+
+"Dan kalau hitungannya buruk?"
+
+"Orang itu tinggal. Termasuk aku."
+
+Gella menarik jarinya dari buku dan menutupnya rapat. Kesepakatan itu mengubah lima lingkaran dari panggilan menjadi peringatan. Sela baru kemudian menulis pada papan: *Dengar sebelum mendekat. Hitung napas sebelum mengirim kaki.*
+
+Ibu Tamma mendorong roti keras ke arah Ashvarok-Renn. "Sekarang makan sebelum pasal berikutnya membuat sup dingin."
 
 ---
 
-Ia menutup buku anomali dan menatap papan world-state barak. Di bawah semua catatan, satu baris terakhir kini tertulis rapi: *Benang diam resmi menjadi lembaga barak — dua belas anak, bel barak utara, ketukan tiga-satu. Kita tak bernama di arsip = tak bisa dipanggil. Lima simpul seam buta diawasi.*
+Sore itu Brannoc dan Harn menggantung pengait besi di dinding barak utara, tepat di samping bel kecil. Batu dinding melepaskan debu setiap kali palu menghantam. Dua belas anak the Listening School menunggu di halaman dengan sapu di tangan.
 
-Ashvarok-Renn membuka bible kecil di rak buku barak, halaman yang diperuntukkan bagi daftar chekhov yang belum ditembakkan. Ia menulis satu baris di bawah catatan lama:
+"Bel ini bukan telinga," kata Brannoc setelah kait terpasang. "Ia mulut. Telinganya tetap kalian."
 
-*Chekhov baru: lima simpul seam buta (dari tujuh seam pengikat the Threshold) tersebar di Karvess, belum dikenal — Kovan pasang penanda buta di peta. Bila salah satu bergetar (dentum jadi teratur), berarti institusi penghisap menyasar ke sana. Arc berikutnya akan menemukannya.*
+Harn menarik tali sekali. Bunyi bel tipis menyeberangi halaman. Beberapa anak langsung menoleh ke gerbang.
 
-Di menara, perawat tua kini tidak sendirian. Seorang anak muda dari desa tetangga duduk di kursi sebelah, memperhatikan cara Mira menulis angka.
+"Itu kesalahan pertama," kata Sela. "Kalian melihat sebelum menghitung. Sekali panjang berarti kurir utara. Tiga pendek berarti perubahan dentum. Jangan lari hanya karena logam berbunyi."
 
-"Kau tidak menulis mengapa?" tanya anak muda itu.
+Anak angkatan keempat di baris depan mengangkat tangan. "Kalau orang asing memukul tiga kali untuk memancing kami keluar?"
 
-"Mengapa bukan bagian laporan," jawab perawat tua sebelum Mira sempat bicara. "Kami hanya mencatat yang diukur. Angin masuk dari selatan saat dentum keras. Keluar ke selatan saat dentum pelan. Tiga napas antara keduanya. Itu semua."
+Brannoc menyodorkan tali kepadanya. "Coba."
 
-"Kalau suatu hari angin berbalik lebih lama?"
+Anak itu memukul tiga denting cepat. Kelompoknya tetap diam, tetapi dua anak termuda bergeser setapak.
 
-"Kau catat berapa napas. Bukan mengapa. Yang bertanya mengapa akan memutar ceritamu. Yang bertanya angka hanya bisa membandingkan."
+"Sekarang apa yang kalian tahu?" tanya Brannoc.
 
-Anak muda itu menulis angka pertamanya di buku latihan, gemetar di ujung pena. Mira mengetuk tiga kali ke lantai menara, diam satu hentakan, dan anak itu mengikutinya tanpa diminta. Benang itu kini punya satu suara lagi di ujung menara — belum tercatat di arsip Spire — dan itu tepat seperti yang dikehendaki barak.
+"Bahwa seseorang memukul bel tiga kali," jawab Harn. "Belum bahwa simpul bergetar."
 
-Di luar, angin selatan masuk pelan, dan di barak utara bel kecil berdenting tiga detik tanpa satu pun yang menyuruhnya. Benang pertama yang kita tarik dari barak ke Spire kini telah menjadi jalan dua arah yang kita jaga di kedua ujung: di menara oleh Mira dan perawat tua yang hanya mencatat, dan di barak oleh dua belas suara yang belum pernah menulis nama mereka di atas kertas mana pun. Ashvarok-Renn mengetuk tiga kali ke ubin serambi, lalu diam sehentakan. Di ruang bawah Spire, meja pemeriksa itu masih penuh dengan laporan yang hanya berisi angin — karena angin, tidak seperti besi, tidak memberi kunci bagi siapa pun yang tidak menyebut namanya.
+"Tepat. Kalian cocokkan dengan dentum di lantai, arah angin, atau pesan penjaga. Sistem peringatan bukan pengganti keputusan."
 
-Pagi berikutnya, sebelum kurir pos tiba, Mira duduk di bangku menara dan membuka buku catatan halaman kedua. Anak muda dari desa tetangga berdiri di ambang, mengamati bagaimana Mira tidak menulis apa pun saat dentum keras lewat — hanya menghitung napas di dalam kepala.
+Sela membagi mereka berpasangan untuk latihan ambang. Satu anak menjadi pemeriksa pertama dan meminta arah. Anak lain menyela dari samping, menuntut mekanisme celah. Suara mereka bertumpuk sampai saksi kehilangan hitungan.
 
-"Kau ajari aku mengapa?" tanya anak itu.
+"Berhenti," kata Sela. "Kalian tidak wajib menjawab menurut urutan pertanyaan mereka. Pilih yang bisa diukur."
 
-"Mengapa bukan milik kita," jawab Mira. "Kita hanya menjaga irama. Yang bertanya mengapa akan membangun cerita, dan cerita adalah pintu yang bisa dibuka siapa pun yang membawa cap."
+Latihan diulang.
 
-Anak itu menatap buku kosong di tangannya, lalu menulis angka pertama tanpa tanda tanya. Di barak utara, bel kecil berdenting tiga detik memanggil kurir yang belum datang; di menara, dentum kembali acak sepenuhnya. Dua tempat yang dipisahkan jarak berhari-hari kini mengetuk irama yang sama, tanpa satu pun yang pernah membaca laporan yang dikirim tempat lain.
+"Berapa arah angin?" tanya pemeriksa pertama.
 
-Sela datang ke serambi membawa papan world-state barak. "Kovan sudah pasang lima penanda buta di peta," katanya. "Bila salah satu simpul bergetar teratur, kita tahu ke mana mereka menyasar."
+"Siapa yang menggerakkan katup?" desak pemeriksa kedua.
 
-"Mereka akan menyasar," jawab Ashvarok-Renn. "Lima simpul lain dari tujuh seam pengikat the Threshold belum dikenal. Institusi yang memanen tidak berhenti hanya karena satu celah ditutup dengan angka."
+Saksi menghadap lurus. "Tiga napas, selatan ke utara saat dentum keras."
 
-"Namun kita siap."
+"Aku bertanya soal katup."
 
-"Kita siap karena kita tidak bernama," kata Ashvarok-Renn. "Di arsip Spire, benang ini milik menara utara. Di sini, ia milik dua belas anak dan bel barak utara. Tidak satu pun cap yang bisa memanggil kita, dan itu pelindungnya."
+"Katup bukan yang kami catat. Kami hanya merawat angin."
 
-Ia menutup bible kecil barak. Di bawah daftar chekhov yang belum ditembakkan, ia menulis satu baris: *Arc berikutnya akan menemukan lima simpul itu bila dentum di tempat lain berubah teratur.* Lalu ia bangkit, menyapu halaman bersama dua belas anak, dan membiarkan benang diam itu hidup tanpa namanya — seperti yang selalu dikatakannya sejak hari pertama mereka menarik benang pertama dari barak ke Spire.
+"Surat ini menyebut celah milik Koordinasi."
+
+"Celah berada di jalan raya. Kepemilikan bukan ukuran angin."
+
+Kali ini pasangannya tidak berhasil memotong irama jawaban. Ashvarok-Renn mendengar dari serambi. Sekolah itu tidak sedang mengajari anak-anak menolak semua wewenang. Mereka belajar memisahkan pertanyaan sah dari celah yang sengaja dibuka lewat bahasa.
+
+Setelah latihan, anak yang tadi membunyikan bel mendekatinya. "Kalau kami selalu menjawab dengan angka, apakah orang akan mengira kami menyembunyikan sesuatu?"
+
+"Mungkin."
+
+"Lalu diam tidak melindungi kami."
+
+"Diam bukan jubah agar tak terlihat." Ashvarok-Renn menunjuk bel. "Ia memberi waktu memilih apa yang tidak boleh dirampas. Kalau mereka curiga, biarkan kecurigaan itu menjadi milik mereka. Jangan membantu mereka mengubahnya menjadi bukti palsu."
+
+Anak itu menatap lima lingkaran putus-putus di peta yang tampak melalui pintu. "Dan kalau di sana ada orang yang belum belajar memilih?"
+
+"Kita ajari mendengar sebelum kita ajari diam. Kalau dibalik, kita hanya membesarkan orang takut."
+
+Anak itu kembali ke barisan. Ketika bel berbunyi sekali panjang pada latihan berikutnya, kedua belas kepala tetap menghadap Sela sampai denting habis.
+
+---
+
+Menjelang malam, Mira membuka halaman baru buku menara. Dentum pertama datang melalui telapak kakinya: keras, lalu jeda dua napas. Dentum berikutnya baru menyusul setelah lima. Pola acak itu membuat perawat tua menggeser cangkirnya dari bibir.
+
+"Mereka benar-benar melepas tarikan," katanya.
+
+Mira menunggu satu siklus lagi sebelum menulis. Empat napas kali ini. Angin tetap bergerak dari selatan ketika batu berdentum keras, tetapi jedanya tidak lagi tunduk pada tangan jauh yang sama.
+
+"Simpul kedua mati?" tanya Mira.
+
+"Jangan tulis mati. Batu ini masih bernapas."
+
+"Lepas, kalau begitu."
+
+"Itu pun dugaan. Tulis yang berubah."
+
+Mira menahan pena, lalu mencatat di tepi halaman: *Jarak dentum kembali acak: dua, lima, empat napas. Arah tetap.* Kalimat itu tidak ikut laporan bulanan. Ia milik menara, agar orang yang duduk di kursi ini kelak dapat membandingkan tanpa mewarisi kesimpulan mereka.
+
+Seorang anak muda dari desa tetangga tiba membawa roti dan minyak lampu. Perawat tua menyuruhnya duduk di kursi kosong. Anak itu telah beberapa kali membantu membersihkan tangga, tetapi belum pernah diizinkan memegang pena catatan.
+
+"Tulis siklus berikutnya," kata perawat tua.
+
+Anak muda itu menatap Mira. "Apa yang harus kutulis?"
+
+"Yang kaudengar di lantai dan kaurasakan dari angin."
+
+Dentum keras merayap melalui batu. Angin dingin menyentuh pipi kanan mereka. Anak itu menghitung dengan bibir tanpa suara sampai dentum pelan menyusul.
+
+"Tiga," katanya. "Angin selatan ke utara. Mengapa bukan dua seperti tadi?"
+
+"Mengapa bukan bagian baris," jawab Mira. "Tulis tiga. Besok, kalau menjadi dua lagi, tulis dua."
+
+"Kalau aku salah hitung?"
+
+"Perawat di sebelahmu mencatat terpisah. Dua suara, satu irama. Kalau berbeda, ulangi pada siklus berikut. Jangan samakan angka hanya supaya buku tampak rapi."
+
+Anak itu menulis angka pertamanya. Ujung pena menggores kertas karena ditekan terlalu kuat. Perawat tua tidak mengambil alih. Ia hanya memutar botol tinta menjauh dari siku anak itu.
+
+Mira mengetuk lantai tiga kali dan menyisakan satu hentakan diam. Anak muda tersebut mengikuti setelah ragu sesaat. Suaranya terlambat, belum menyatu, tetapi keterlambatan itu jujur.
+
+---
+
+Malamnya Ashvarok-Renn membuka the Anomaly Book. Ia tidak menulis bahwa ancaman telah lewat. Ia mencatat laporan kedua, penolakan Mira terhadap lampiran tanpa surat, dan pola dentum menara yang kembali acak. Di bawahnya ia menambahkan: *Celah menara aman sebagai laporan rutin, bukan sebagai simpul. Institusi penghisap kehilangan kaki di sini. Lima simpul seam lain belum dikenal.*
+
+Kovan duduk di seberang, mengeringkan lima lingkaran putus-putus pada salinan peta. "Besok pagi kita mulai dari mana?"
+
+"Dari mengakui kita belum punya arah. Kirim kabar kepada Ossian lewat kain Maera. Minta telinga, bukan jawaban."
+
+"Dan nama untuk kelima lingkaran?"
+
+Ashvarok-Renn menutup botol tinta. "Belum. Nama akan membuat dugaan terasa ditemukan. Tulis saja: simpul buta."
+
+Kovan menandai kelimanya tanpa angka urut, lalu meletakkan arang. Di halaman, bel utara berdenting sekali panjang ketika kereta pos terakhir melewati jalan. Tidak ada anak yang berlari ke gerbang. Mereka menunggu bunyi habis, memeriksa lantai di bawah kaki, kemudian kembali menyapu.
+
+Ashvarok-Renn menutup buku. Lima lingkaran putus-putus tetap terbuka di peta Ossian, cukup lebar untuk mengakui kesalahan dan cukup jelas untuk dijaga. Pagi nanti mereka akan mencari telinga bagi tempat-tempat itu—tanpa memberi satu pun nama yang bisa dipanggil the Throne.

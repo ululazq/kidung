@@ -15,7 +15,7 @@ Ashvarok-Renn meletakkan catatan. "Mema."
 
 "Ia yang mulai menyapa di kampung itu delapan belas tahun silam, waktu Mema masih muda dan kampung itu baru pulih dari perombakan Hegemony." Wida duduk di kursi sudut yang kosong. "Sekarang ia di rumah anaknya di utara. Tidak bisa kembali setiap pagi."
 
-Diam sejenak. Di bab-bab sebelumnya, adegan seperti ini berakhir dengan Ashvarok-Renn turun tangan — pergi ke tempat itu, berdiri di pintu, memulai menyapa sendiri sampai kebiasaan hidup kembali. Itu cara lama. Itu cara saat dunia masih menunggu satu raja yang tidak tidur.
+Diam sejenak. Dulu, adegan seperti ini berakhir dengan Ashvarok-Renn turun tangan — pergi ke tempat itu, berdiri di pintu, memulai menyapa sendiri sampai kebiasaan hidup kembali. Itu cara lama. Itu cara saat dunia masih menunggu satu raja yang tidak tidur.
 
 Namun hari ini Ashvarok-Renn hanya menatap catatan itu lebih lama.
 
@@ -101,7 +101,7 @@ Di kampung tiga jalur, seminggu berlalu. Penyapa pagi bergiliran — tidak lagi 
 
 Mema, di rumah anaknya di utara, menerima kabar itu lewat kurir pos yang dibaca cucunya. Ia tersenyum, lalu kembali ke kebunnya. Tidak ada rasa kehilangan. Ia tahu pintu kampungnya kini dijaga, bukan oleh namanya, tetapi oleh kebiasaan yang ia tanam delapan belas tahun silam.
 
-Yang Dulu Sunyi, di barak utara, mencatat distrik itu kembali ke lagu dengan satu detak hangat yang bisa didengar sampai ke lembah selatan. Bukan lagu nama. Hanya tanda bahwa sesuatu yang nyaris mati telah hidup kembali tanpa satu pun raja yang turun tangan.
+the Once-Silent, di barak utara, mencatat distrik itu kembali ke lagu dengan satu detak hangat yang bisa didengar sampai ke lembah selatan. Bukan lagu nama. Hanya tanda bahwa sesuatu yang nyaris mati telah hidup kembali tanpa satu pun raja yang turun tangan.
 
 Satu bulan setelah catatan itu dikirim, Berto di kampung tiga jalur menerima balasan. Bukan dari Ashvarok-Renn langsung, tetapi dari Wida yang meneruskan kabar pos: *Kampungmu tidak perlu balasan dariku. Kalian sudah menjawab sendiri dengan berdiri di pintu. Itu jawaban yang kucari.*
 
@@ -125,7 +125,7 @@ Sela menatap papan tulisnya. "Itu bedanya. Dulu kau datang sebagai raja yang tah
 
 "Dan cara itu," kata Ashvarok-Renn, "yang sebenarnya kutinggalkan sebagai warisan. Bukan namaku. Bukan kehadiranku. Cara."
 
-Ia berdiri, meninggalkan Sela dengan papan tulis yang mencatat kalimat terakhir: *Distrik Rerun bangkit tanpa raja. Pertama kalinya. Ini ujian arc warisan yang lulus.*
+Ia berdiri, meninggalkan Sela dengan papan tulis yang mencatat kalimat terakhir: *Distrik Rerun bangkit tanpa raja. Pertama kalinya. Ini ujian warisan yang lulus.*
 
 ---
 

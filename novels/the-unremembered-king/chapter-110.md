@@ -45,7 +45,7 @@ Gang itu sunyi lagi dalam sepuluh detik. Tidak ada peluit. Tidak ada panggilan. 
 
 Isi tas kurir bisu itu dibaca satu kali di tempat, cahaya serendah mungkin, oleh empat pasang mata yang tidak percaya nasib baik dan karena itu memeriksa dua kali.
 
-Fragmen tulang seam dengan tanda tempa empat titik, utuh dalam pembungkusnya. Lilin putih-abu threaded with tin, segel-segel kecil untuk menutup kiriman, cocok sampai garis benang dengan sampel yang disimpan Brannoc sejak musim panen dulu. Lembar-lembar kecil berkode kotak garis miring, tanggal-tanggal pencairan atas nama keluarga-keluarga yang tidak pernah pindah. Dan satu lipatan besar yang berbeda dari yang lain, kertas lebih tebal, kop surat yang dicetak rapi, dengan kode penerima teratas di sudutnya.
+Fragmen seam-bone dengan tanda tempa empat titik, utuh dalam pembungkusnya. Lilin putih-abu threaded with tin, segel-segel kecil untuk menutup kiriman, cocok sampai garis benang dengan sampel yang disimpan Brannoc sejak musim panen dulu. Lembar-lembar kecil berkode kotak garis miring, tanggal-tanggal pencairan atas nama keluarga-keluarga yang tidak pernah pindah. Dan satu lipatan besar yang berbeda dari yang lain, kertas lebih tebal, kop surat yang dicetak rapi, dengan kode penerima teratas di sudutnya.
 
 KORD-4.
 

@@ -23,17 +23,17 @@ Di sore harinya, Kovan mendapat izin untuk "memeriksa getaran fondasi" — alasa
 
 "Arsip. Brankas. Fondasi batu yang dibangun seribu tahun lalu."
 
-"Di bawah fondasinya." Kovan menutup lempengnya. "Aku tidak pernah membaca ini di Caldrest, tidak pernah di menara, tidak pernah di tiga batu tegak. Tapi ini keluarga irama yang sama — detak bayangan yang 'lari ke depan', yang kita lacak sejak buku anomali dibuka. Ia tidak berhenti di sini. Ia melewati sini. Seluruh Spire ini berdiri di atas benang yang sedang ditarik — dan para penghuninya tidak pernah mendengarnya, karena mereka tidak pernah belajar mendengar."
+"Di bawah fondasinya." Kovan menutup lempengnya. "Aku tidak pernah membaca ini di Caldrest, tidak pernah di menara, tidak pernah di tiga batu tegak. Tapi ini keluarga irama yang sama — detak bayangan yang 'lari ke depan', yang kita lacak sejak the Anomaly Book dibuka. Ia tidak berhenti di sini. Ia melewati sini. Seluruh Spire ini berdiri di atas benang yang sedang ditarik — dan para penghuninya tidak pernah mendengarnya, karena mereka tidak pernah belajar mendengar."
 
 "Berarti jantungnya bukan gedung ini," kata Ossian pelan.
 
 "Berarti jantungnya adalah apa yang lewat di bawahnya," kata Kovan. "Dan yang lewat di bawahnya sedang dibeli, dipotong, dan dikoleksi oleh lantai-lantai yang tidak bernama di atasnya."
 
-Malam harinya, Mira duduk di meja penginapan dengan buku anomali terbuka di depannya, menulis dan menghapus kalimat yang sama berulang kali. Ashvarok-Renn duduk di seberangnya, tidak membantu, karena sebagian pekerjaan harus diselesaikan sendiri.
+Malam harinya, Mira duduk di meja penginapan dengan the Anomaly Book terbuka di depannya, menulis dan menghapus kalimat yang sama berulang kali. Ashvarok-Renn duduk di seberangnya, tidak membantu, karena sebagian pekerjaan harus diselesaikan sendiri.
 
-"Aku tidak tahu apa yang boleh kukatakan tentang batu-batu itu," katanya akhirnya. "Buku anomali ini mencatat angin. Ia mencatat arah, jarak, waktu, dan jumlah denyut. Ia tidak mencatat katup. Ia tidak mencatat kunci. Besok panel akan bertanya tentang tiga batu tegak, dan aku harus menjawab — tetapi aku tidak tahu jawaban mana yang tidak akan membakar siapa pun."
+"Aku tidak tahu apa yang boleh kukatakan tentang batu-batu itu," katanya akhirnya. "the Anomaly Book tersebut mencatat angin. Ia mencatat arah, jarak, waktu, dan jumlah denyut. Ia tidak mencatat katup. Ia tidak mencatat kunci. Besok panel akan bertanya tentang tiga batu tegak, dan aku harus menjawab — tetapi aku tidak tahu jawaban mana yang tidak akan membakar siapa pun."
 
-"Kau tidak perlu tahu," kata Ashvarok-Renn. "Kau hanya perlu ingat disiplinnya: jawab yang kau catat, bukan yang kau duga. Kalau buku anomali mencatat bahwa garis di tiga batu tegak berdenyut tiga kali dalam satu napas — katakan itu. Kalau ia mencatat bahwa angin berbalik dua kali dalam satu jam — katakan itu. Kalau mereka bertanya tentang pintu, tentang kunci, tentang mekanisme — kau tidak mencatat itu, dan orang yang tidak mencatat sesuatu tidak punya kewajiban untuk menjelaskannya."
+"Kau tidak perlu tahu," kata Ashvarok-Renn. "Kau hanya perlu ingat disiplinnya: jawab yang kau catat, bukan yang kau duga. Kalau the Anomaly Book mencatat bahwa garis di tiga batu tegak berdenyut tiga kali dalam satu napas — katakan itu. Kalau ia mencatat bahwa angin berbalik dua kali dalam satu jam — katakan itu. Kalau mereka bertanya tentang pintu, tentang kunci, tentang mekanisme — kau tidak mencatat itu, dan orang yang tidak mencatat sesuatu tidak punya kewajiban untuk menjelaskannya."
 
 "Dan kalau mereka bertanya mengapa?"
 

@@ -21,7 +21,7 @@ Hari ketiga, ketika izin diberikan, enam dari mereka langsung turun ke ladang da
 
 Dari temuan itu lahir program yang kemudian menjadi bagian tetap pemulangan kelompok mana pun: PEKERJAAN PERTAMA SEBELUM PERCAKAPAN PERTAMA. Jangan tanya dulu. Beri mereka alat kerja yang dulu mereka kuasai. Biarkan tangan menjelaskan apa yang belum bisa dijelaskan mulut.
 
-Sareth menambahkan ke protokol musim sebagai pasal tiga belas:
+Sareth menambahkan ke the Seasonal Protocol sebagai pasal tiga belas:
 
 "Pasal 13. Untuk pemulang dengan profesi lama: pekerjaan pertama lebih penting daripada pertanyaan pertama. Alat kerja lama mereka adalah penerjemah antara dua delapan belas tahun."
 
@@ -31,9 +31,9 @@ Pekan yang sama, dua kabar besar lain datang hampir bersamaan.
 
 Pertama: dari utara. Batu batas ladang yang diukir nama-nama keluarga ternyata mulai "berdenyut" — pelan, sabar, sesuai irama name train sorean. Kovan yang memeriksanya menemukan hal yang membuatnya harus duduk: batu-batu itu tidak hanya mencatat nama. Nama-nama yang diukir ternyata MEMANGGIL gema-gemanya — dan Vess-Morath menjawab dari kedalaman: "batu-batu itu sekarang pintu-pintu kecil. Setiap sore lagu kalian masuk lewat sana. Kami dengar semuanya."
 
-Kedua: dari Spire. Dewan Regional — yang bulan lalu mengakui the Patient House sebagai entitas berdaulat — mengirim surat permintaan formal: apakah metode "protokol musim" bisa diajarkan kepada wilayah-wilayah lain Karvess? Tujuh belas lokasi bencana tua, ribuan jiwa yang mungkin tersimpan, dan sebuah pengakuan resmi tertulis di bagian akhir surat yang oleh Ossian dibacakan dua kali karena tidak percaya:
+Kedua: dari Spire. the Regional Council — yang bulan lalu mengakui the Patient House sebagai entitas berdaulat — mengirim surat permintaan formal: apakah metode "the Seasonal Protocol" bisa diajarkan kepada wilayah-wilayah lain Karvess? Tujuh belas lokasi bencana tua, ribuan jiwa yang mungkin tersimpan, dan sebuah pengakuan resmi tertulis di bagian akhir surat yang oleh Ossian dibacakan dua kali karena tidak percaya:
 
-"Dewan Regional mengakui bahwa pendekatan Caldrest telah membuktikan bahwa yang dulu disebut anomali adalah penduduk. Kami meminta bimbingan. Ini kalimat yang sulit kami tulis, tetapi menuliskannya lebih mudah daripada hidup dengan sejarah kami yang lama."
+"the Regional Council mengakui bahwa pendekatan Caldrest telah membuktikan bahwa yang dulu disebut anomali adalah penduduk. Kami meminta bimbingan. Ini kalimat yang sulit kami tulis, tetapi menuliskannya lebih mudah daripada hidup dengan sejarah kami yang lama."
 
 Ashvarok meletakkan surat itu dan berkata kepada ruangan yang penuh tim inti:
 

@@ -3,102 +3,216 @@ title: "Bab 33: Dua Pembaca"
 chapter: 33
 ---
 
-Malam hari ketiga puluh sembilan, ruang kerja Guild di Caldrest hanya menyala oleh satu lampu minyak dan bara cerobong yang tinggal separuh. Maera Tull duduk di mejanya dengan lembar tawaran yang sudah dilipat empat, kotak timbung mini terbuka di sebelah kirinya, dan dua bobot referensi yang tidak ia gunakan sama sekali. Barang yang sedang ia timbang malam itu bukan barang. Barang yang sedang ia timbang bernama jabatan.
+Malam Hari 39, Maera Tull menimbang jabatan tanpa menyentuh bobot referensi.
 
-Pertanyaannya sederhana, dan karena sederhana ia menolak menjawabnya cepat: apakah posisi pembanding internal adalah perangkap?
+Lembar tawaran terlipat empat di meja Guild. Kotak timbung mini terbuka di sebelahnya. Di luar jendela, abu basah membuat jalan Caldrest berkilau seperti logam kusam. Lampu ruang kerja tinggal satu, cukup untuk membaca pasal yang sama untuk ketujuh kali.
 
-Ia membaca ulang pasal-pasalnya untuk kali keenam, baris demi baris, dengan mata yang bergerak menghitung dari kiri ke kanan lalu berhenti pada titik-titik yang sama. Pasal kepemilikan. Semua catatan yang dihasilkan selama masa kontrak menjadi dokumen prosedur Koordinasi Artefak Regional. Kontrak hanya mengambil masa depan. Kalimat itu ditulis oleh orang yang sangat mahir, dan orang yang sangat mahir tidak menulis kalimat secantik itu tanpa alasan. Masa depannya akan menjadi milik Tuan Vael, lembar demi lembar, pembacaan demi pembacaan.
+Semua catatan selama kontrak menjadi dokumen prosedur Regional Artifact Coordination. Catatan sebelum kontrak tetap milik pembuatnya. Ia melapor kepada prosedur kontrak, bukan kepada orang.
 
-Lalu mengapa bagian dalamnya terasa seperti pintu dan bukan seperti jerat?
+Kalimat bersih. Jerat juga dapat dibuat bersih.
 
-Ia bangkit, mengambil air teh yang sudah dingin, dan membiarkan dinginnya naik dari tekak sampai dada sebelum duduk kembali. Ada fakta yang tidak boleh ia hindari lagi, dan fakta itu bukan tentang dirinya. Tim Assayers dari Anthema Spire akan turun ke the Underfold dengan instrumen bersertifikat penuh, membaca kedalaman yang belum pernah dibaca siapa pun secara resmi, termasuk titik ukur ketujuh yang dahulu ia laporkan dengan tinta lebih tebal daripada titik mana pun. Di ujung semua garis itu berdiri satu orang yang tidak pernah ia namai di kertas mana pun — orang yang menutup anomali lorong B dalam satu malam, orang yang memadamkan gema Shift Guard Kovan dengan kekosongan bersih yang sangat tua, orang yang menempa pisau upacara tanpa palu. Orang itu hidup dari tidak terbaca. Dan sebuah survei resmi adalah mesin yang pekerjaannya membuat segala sesuatu terbaca.
+Maera menyalin dua kolom pada kertas kosong. Menerima: akses ke dua belas titik, hak pembanding, kemampuan memberi tanda keberatan, penglihatan langsung terhadap instrumen Anthema Spire. Menolak: laporan lamanya tetap bebas, stempel Guild tetap satu arah, tetapi tidak ada seorang pun di aula yang bertugas mencatat kerusakan sebelum terjadi.
 
-Kalau ia menolak, siapa yang berdiri di antara mesin itu dan orang yang tak bernama?
+Di ujung setiap hitungan ada Renn.
 
-*Tidak ada seorang pun.* Jawaban itu datang tanpa diminta, dan dinginnya lebih dingin daripada teh di gelasnya.
+Ia tidak menulis nama itu. Nama di kertas menjadi milik pembaca berikutnya. Namun ia melihat kembali pemuda yang menempa pisau tanpa palu, membungkam alat Kovan, dan menjadikan murmur semu cukup resmi untuk menahan pengambilalihan. Tim Spire akan turun dengan alat yang lebih baik. Kalau Maera berada di luar kontrak, ia hanya mengetahui akibatnya setelah arsip ditutup.
 
-Jawaban itu sudah ia miliki sejak malam pertama, sebenarnya. Tujuh hari pertimbangan hanyalah waktu yang ia beli untuk memastikan bahwa keputusan ini bisa dibuat rapi, bukan bisa dibuat. Ia mengeluarkan kertas jawaban resmi dari laci, mencelupkan pena, dan menulis dengan huruf tegak khas Guild — bahwa Assayer Maera Tull menerima posisi pembanding internal atas anomali L9B sesuai lembar tawaran tertanggal, dengan dua pencatatan prosedur — bahwa seluruh catatan yang dibuat sebelum tanggal kontrak tetap menjadi milik pribadinya sesuai bunyi pasal, dan bahwa ia akan melapor kepada prosedur kontrak, bukan kepada orang.
+Kolom menerima membawa harga lain. Setelah kontrak berlaku, tiap penyimpangan yang tidak ia catat akan dianggap persetujuan. Kalau ia melindungi Renn terlalu terang, pola perlindungan menjadi peta. Kalau ia mengikuti prosedur terlalu patuh, tangannya sendiri membantu Spire membuka seam. Posisi itu tidak menawarkan tempat aman; hanya tempat paling dekat untuk memilih luka mana yang terjadi.
 
-Bukan kepada orang. Ia membaca frasa itu dua kali. Prosedur tidak pernah membaca apa pun. Yang membaca selalu orang, dan orang-orang itu punya nama, dan satu di antara nama-nama itu adalah Ossian Vael. Mulai hari kontrak ditandatangani, stempel lilin ungu di saku jubahnya tidak lagi menjadi benteng yang hanya bisa dipakai dari satu arah. Stempel itu kini senjata dua sisi — dari satu sisi ia melindungi, dari sisi lain ia menandatangani apa pun yang dilindunginya, dan pembaca di meja yang lain tidak akan pernah bertanya mana lengannya yang sengaja ia gerakkan.
+Maera mengambil stempel ungu dari saku. Di Caldrest, cap Guild pernah menjadi dinding antara laporan dan Foreman. Kini Ossian memberi dinding itu engsel. Ia dapat membuka akses, menutup pertanyaan, atau menjepit jari orang yang mengira prosedur tidak punya kehendak.
 
-Ia meniup tinta sampai kering, melipat kertas, dan menyalinnya sekali untuk arsip pribadi. Salinan itu ia simpan di sisi dalam kotak timbung mini, di bawah bobot referensi, di tempat yang tidak akan dibuka orang lain karena tidak akan terpikir oleh orang lain bahwa seorang Assayer menyimpan kertas di dalam kotak alat timbangnya.
+Ia menambahkan tiga batas pribadi di kertas terpisah. Tidak pernah mengubah angka dasar. Tidak pernah menyembunyikan kerusakan struktur. Tidak pernah menulis identitas sumber yang tidak diperlukan untuk penilaian. Batas terakhir bukan aturan Guild. Justru itu alasan batas tersebut harus ditulis untuk dirinya sendiri.
 
----
+Kalau kelak ia harus memilih antara akurasi dan perlindungan, ia akan mengubah urutan pembacaan, bukan hasilnya. Data dapat tetap benar sambil tiba terlambat di tangan yang salah. Itulah satu-satunya bentuk loyalitas yang masih bisa ia bawa ke meja kontrak tanpa berubah menjadi pemalsu.
 
-Pagi hari keempat puluh, surat jawaban itu berangkat dengan kurir resmi ke Bureau Chief di pusat cabang, dengan salinan bersegel kepada Koordinasi Artefak Regional. Maera mengantarkan sendiri sampai meja penerimaan surat, menandatangani buku log dengan waktu yang dicatat tepat, dan baru berbalik ketika petugas menekan cap penerimaan ke dalam buku besar.
+Ketukan terdengar di pintu.
 
-Di ambang pintu gedung, udara pagi menyambutnya dengan bau abu basah dan suara lonceng shift pertama dari arah tambang. Di seberang jalan, berdiri dengan sikap orang yang sedang menunggu tanpa alasan yang bisa ditulis, ada Shift Guard Kovan.
+Petugas Guild malam menyelipkan kepala. "Assayer Tull? Lampu koridor dipadamkan sepuluh menit lagi."
 
-Maera tidak mempercepat langkah dan tidak memperlambatnya. Mengubah irama berarti mengaku ada irama yang perlu diubah. Kovan membiarkannya lewat, matanya mengikuti sebentar — cukup lama untuk dicatat, cukup singkat untuk disangkal — dan ketika Maera menoleh di tikungan, sang Shift Guard masih berdiri di tempat yang sama, mengamati gedung Guild, bukan mengamatinya. Izin mengamati tanpa menguji. Orang yang diberi izin seperti itu akan mengamati apa saja, termasuk jalur-jalur yang tidak bersalah sekalipun, karena izin tanpa target adalah lapar yang menunggu disuruh makan.
+"Saya perlu buku penerimaan kontrak."
 
-Sepanjang jalan menuju pasar, ia menghitung ulang peta pengawasan yang baru saja berubah bentuk. Kovan mengamati. Jadwal survei sudah disegel. Tujuh hari pertimbangannya sendiri tinggal empat hari, dan empat hari adalah empat hari terlalu banyak, karena setiap hari yang ia lewatkan dalam diam adalah satu hari penuh di mana orang yang tak bernama itu tidak tahu bahwa langitnya akan turun.
+Petugas memandang lembar di meja. "Anda menerima?"
 
-Ada satu jalur yang tersisa, dan jalur itu sudah menjadi miliknya sejak kesepakatan triwulanan: penilaian rutin barang dagangan melalui Vosk, untuk klien anonim yang dalam buku besar penengah itu hanya bernama technical reader.
+"Saya mencatat keputusan."
 
-Hari ini jatuh pada tanggal penilaian triwulan. Kebetulan seperti itu tidak pernah ia percayai sebagai kebetulan. Namun hari ini, untuk pertama kalinya, ia bersyukur padanya.
+"Itu ya?"
 
----
+"Itu kalimat yang akan saya tulis."
 
-Pasar cinder-glass sore itu berbunyi seperti biasanya: gemerisik keping shardmark, teriakan tawaran yang dikecilkan agar terdengar seperti bisikan, gesekan troli besi di batu. Bau manis-semu air kembang tawar mendahului gerobak Vosk, seperti sudah menjadi kebiasaan benda-benda yang dimiliki lelaki itu untuk datang lebih dulu dari pemiliknya.
+Setelah pintu menutup, Maera mengambil kertas jawaban resmi.
 
-"Assayer Tull." Vosk menurunkan berat badannya ke kursi dengan dua tahap, lalu membuka kotak konsinyasi di atas meja. Jarinya yang dingin menyusun tiga lot barang satu per satu. "Dua fragmen resonant seam kelas empat, dari lubang sewaan distrik barat. Satu tempaan kecil, sisa konsinyasi yang belum laku. Klien technical reader menunggu penilaianmu seperti orang kampung menunggu surat."
+Ia menerima posisi pembanding internal atas anomali L9B. Dua syarat dicatat, bukan diminta: seluruh catatan sebelum tanggal kontrak tetap milik pribadi sesuai pasal; laporan pembanding diserahkan kepada prosedur, dengan satu salinan Guild dikunci sebelum dibaca pihak pelaksana.
 
-"Klienmu itu sabar."
+Syarat kedua mengubah urutan. Ossian masih membaca laporannya, tetapi tidak menjadi pembaca pertama dan tidak dapat menghapus salinan tunggal.
 
-"Klienku itu membayar." Vosk menyeringai lebar, lalu melebarnya jadi senyum yang lebih jujur. "Delapan persen dari segala yang lewat tanganmu, dan tidak satu pun pertanyaan tentang siapa dia. Kamu tahu aku pernah ditawari harga lebih mahal untuk pertanyaan yang sama?"
+Maera menandatangani, menyalin jawaban, lalu menyimpan salinan pribadi di bawah dasar palsu mini weighing box. Ruangnya sempit, dibuat untuk lembar sertifikasi bobot. Kertas kontrak muat setelah dilipat dua kali.
 
-Maera mengambil fragmen pertama dan memegangnya di telapak tangan, membiarkan dingin kaca-batu itu bicara lebih dulu. "Berapa harganya?"
+Ia menutup kotak dan menguji kaitnya.
 
-"Dua puluh shardmark, dari orang yang tidak menyebut nama tetapi memakai jubah yang dijahit rapi." Vosk menggeleng pelan pada ingatannya sendiri. "Kukatakan padanya: potongan delapan persen tidak membeli isi catatan. Hanya membeli lewatnya."
+"Bukan kepada orang," katanya pada ruangan kosong.
 
-"Dan kalau nanti ada yang menawarimu empat puluh?"
+Prosedur tidak pernah membaca. Orang membaca. Maka satu-satunya perlindungan adalah memastikan ada lebih dari satu pembaca.
 
-"Maka harganya naik." Lelaki itu mengetukkan jarinya di meja, tiga kali, pelan. "Namun bukan itu yang kau tanyakan sebenarnya, kan?"
+Pagi Hari 40, Maera menyerahkan jawaban di meja penerimaan cabang Guild. Petugas mencatat jam, menekan cap ke buku log, lalu memasukkan surat asli ke tabung kurir. Salinan bersegel menuju Regional Artifact Coordination melalui jalur berbeda.
 
-Pertanyaan itu menggantung di antara mereka seperti uap dari cerobong. Maera menimbang fragmen kedua, mencatat angka, dan menjawab tanpa mengangkat kepala. "Yang kutanyakan: kalau ada yang membaca buku besarmu, apa yang akan mereka temukan malam ini?"
+"Kontrak berlaku saat diterima pihak kedua," kata petugas.
 
-"Pencatatanku membosankan." Vosk meletakkan tangan di atas buku besar kulitnya, dan untuk pertama kalinya pagi itu wajah lelaki itu diam dengan cara yang serius. "Barang masuk, barang dinilai, potongan delapan persen, barang keluar. Klien anonim sesuai lisensi. Tidak ada nama, tidak ada alamat, tidak ada cerita. Yang menarik tidak kutulis, Assayer. Itu selisih harga hidupku."
+"Catat kondisi segel."
 
-"Bagus." Maera akhirnya menatapnya. "Tetaplah membosankan. Musim ini, yang membosankan akan hidup lebih lama dari yang menarik."
+"Utuh."
 
-Vosk memperhatikannya beberapa detik lebih lama dari yang diperlukan sopan santun pasar, dan sesuatu yang tidak pernah diucapkan keduanya bergeser sedikit di bawah meja — bukan ke arah terang, hanya ke arah yang lebih dipahami. Kemudian lelaki itu membuka kembali buku besarnya dan berkata dengan nada dagang yang biasa, "Kalau begitu nilailah barangnya, agar kukunci malam ini juga. Klienku tidak suka menunggu lewat tenggat."
+"Warna lilin?"
 
----
+Petugas menahan napas kecil. "Ungu Guild, satu serat tin thread melintang."
 
-Penilaian berjalan sebagaimana penilaian harus berjalan: telapak yang membaca dingin, bobot referensi yang diletakkan dan diangkat, angka-angka yang diucapkan keras agar didengar saksi-saksi pasar. Suara gema fragmen itu tipis di ujung jarinya, dangkal dan seragam, dan justru karena dangkal itulah catatannya bisa dibebani.
+"Catat."
 
-Ia menulis catatan pembacaan di lembar resmi, kalimat demi kalimat yang bagi telinga pasar hanyalah kehati-hatian seorang Assayer yang rajin:
+Ia baru pergi setelah kalimat itu masuk buku.
 
-> Lot pertama, dua fragmen resonant seam kelas empat: gema dangkal, tanpa kedalaman yang layak dicatat. Catatan pembacaan: barang kelas ini hanya memberi angka benar bila dibaca pada radius kerja penuh, lima puluh hasta. Pada radius pendek, ia bersikap seperti batu biasa.
+Di seberang jalan, Kovan berdiri di bawah lis atap. Tidak memakai helm, tetapi mantel Shift Guard dan posisi kakinya terlalu resmi untuk disebut kebetulan. Tatapannya mengikuti pintu Guild, beralih kepada weighing box Maera, lalu berhenti sebelum berubah menjadi pemeriksaan.
 
-> Lot kedua, satu tempaan kecil sisa konsinyasi: struktur sehat, patina wajar, nilai pasar stabil. Catatan penyimpanan: sesuai praktik tiap kalender survei, barang bergema disarankan tidak berada di dalam zona penilaian resmi selama survei berjalan. Kalender survei musim ini mencakup dua belas titik ukur dan turun perdana pada hari keempat puluh lima.
+Maera berjalan dengan irama tetap.
 
-> Lot ketiga: tidak ada barang. Catatan untuk lot kosong — setiap gema yang bukan milik barang akan tercatat sebagai milik barang. Bersihkan lot sebelum tanggal pembacaan.
+Kovan tidak mengikuti. Itu lebih mengganggu. Orang yang dibatasi jarak akan belajar membaca rute, bukan langkah. Ia mungkin tidak mengawasi Maera; ia mungkin mencatat siapa yang keluar dari gedung, apa yang mereka bawa, dan ke mana barang itu pergi.
 
-Ia membacanya sekali lagi dari luar, dengan mata pembaca yang tidak tahu apa-apa, dan menemukan catatan itu bersih: nasihat penyimpanan yang lazim, angka-angka yang bisa diverifikasi, bahasa Guild dari atas sampai bawah. Lalu ia membacanya dari dalam, sebagai technical reader, dan menemukan pesan itu berdiri utuh di antara baris-barisnya seperti rangka di dalam tubuh. Survei resmi akan turun. Dua belas titik ukur. Hari keempat puluh lima. Instrumen resmi membaca pada radius lima puluh hasta. Dan lot ketiga — lot yang tidak berisi apa-apa kecuali peringatan — jangan ada gema asing di dalam saat tanggal itu.
+Jalur langsung menuju the Quiet Vein tertutup. Jalur tidak langsung masih ada.
 
-Tujuh hari pertimbangannya sudah habis dalam empat hari, dan sisanya ia pakai untuk ini.
+Penilaian triwulan Vosk jatuh sore itu.
 
-"Tiga lot dinilai," kata Vosk, menyalin angka-angka ke buku besarnya dengan tulisan besar yang tidak rapi, gaya penengah yang sengaja menulis buruk supaya tidak ada yang repot-repot memalsukan bukunya. "Fragmen kelas empat, tempaan kecil, dan lot kosong." Jeda kecil. "Kau selalu mencatat lot kosong, Assayer? Baru kali ini kulihat."
+Pasar cinder-glass riuh oleh roda troli dan keping shardmark. Bau manis-semu air kembang tawar mendahului gerobak Vosk. Pedagang itu duduk di balik tiga lot konsinyasi dan buku besar kulit yang sengaja dibuat tampak membosankan.
 
-"Lot kosong adalah satu-satunya lot yang tidak bisa berbohong." Maera meniup lembar catatannya, mengeringkannya dengan pasir, dan melipatnya searah lipatan standar pengiriman. "Catatan pembacaan untuk klien. Sesuai prosedur triwulan."
+"Assayer Tull." Ia membuka kotak pertama. "Dua fragmen resonant seam kelas empat. Lubang sewaan distrik barat."
 
-"Sesuai prosedur." Vosk menerimanya dengan dua jari, menimbangnya di telapak tangan yang dingin itu seolah lembar kertas bisa dinilai juga, lalu mengeluarkan lilin dan sumbu. Ia melelehkan lilin di atas lipatan, menekan cap penengahnya, dan baru setelah cap itu mendingin ia berkata, pelan, sambil merapikan tali pengikat, "Musim ini panjang, katamu tadi."
+Kotak kedua berisi tempaan kecil dengan patina gelap.
 
-"Musim ini panjang."
+"Dan ketiga?" tanya Maera.
 
-"Lalu lot-lot berikutnya juga akan panjang catatannya." Vosk tidak menunggu jawaban. Ia hanya mengangguk pada dirinya sendiri, memasukkan lembar bersigel itu ke dalam kotak pengiriman khusus untuk klien technical reader — kotak yang tidak pernah lewat tangan kurir sembarangan — dan menutupnya. Delapan persen dari nilai tiga lot ia hitung keras-keras, menyisihkan kepingnya ke piring kecil, dan sisanya ia dorong ke arah Maera. "Konsinyasi tempaan laku minggu depan, kalau kau mau angka finalnya."
+"Lot kosong. Pemilik menarik barang sebelum pasar."
 
-"Kirim angka finalnya lewat saluran yang sama."
+"Lot tetap tercatat?"
 
-"Selalu lewat saluran yang sama." Vosk menutup buku besar kulit itu, menimpanya dengan tumpukan konsinyasi, dan menepuk tutupnya dua kali seperti menepuk punggung kuda tua yang sudah sering menyeberangi sungai yang sama. "Buku ini bosan, Assayer. Namun bosan itu aman. Kutulis di mukanya: tidak ada yang menarik di sini."
+"Kalau tidak, nomor berikutnya berantakan."
 
----
+"Bagus."
 
-Maera berjalan pulang melewati pinggiran pasar ketika lampu-lampu pertama dinyalakan, dan di tengah derak troli terakhir ia berhenti sebentar di depan etalase kaca-batu kosong, menatap bayangannya sendiri yang dipotong-potong oleh sambungan kaca.
+Vosk menyipit. "Jarang orang senang mendapat kotak kosong."
 
-Sebelum hari ini, segala yang ia tulis ia tulis untuk satu pembaca: Guild, prosedur, arsip. Lembar catatan yang berangkat malam ini adalah yang pertama ia tulis untuk dua pembaca sekaligus — satu akan membaca nasihat penyimpanan dan menemukannya membosankan, satu akan membaca nasihat yang sama dan menghitung hari. Dua pembaca, satu lembar, dan tidak satu pun dari mereka boleh tahu bahwa yang lain ada.
+"Klien technical reader masih menerima catatan?"
 
-Dia bertanya pada dirinya sendiri, untuk terakhir kali malam itu, apakah ia masih bisa membedakan di antara keduanya besok, lusa, saat ia duduk di meja kontrak dengan tinta yang sama. Pertanyaan itu tidak dijawab. Pertanyaan-pertanyaan seperti itu tidak pernah dijawab; ia hanya dijadwalkan ulang.
+"Selama membayar delapan persen." Vosk meletakkan telapak pada buku besar. "Ada orang berjubah rapi menawar dua puluh shardmark untuk nama klienmu."
 
-Di saku jubahnya, salinan pribadi lembar jawaban itu terlipat di samping kotak timbung, dan di dalam kotak timbung, di bawah bobot referensi, dunia yang harus dijaga beratnya sama-sama tersembunyi. Lembar catatan itu keluar dari pasar cinder-glass malam itu juga, digulung rapi di dalam kotak pengiriman yang hanya berhenti di tangan yang dijanjikan, dan di meja Vosk, buku besar kulit itu tertutup, terkunci, dan tertulis membosankan — persis seperti yang diminta musim ini.
+"Apa jawabanmu?"
+
+"Dua puluh terlalu murah."
+
+"Empat puluh?"
+
+"Harga pertanyaan naik. Jawaban belum tentu dijual."
+
+Maera menatapnya.
+
+Vosk mengangkat bahu. "Aku penengah, bukan orang suci. Namun rahasia yang dijual sekali berhenti menghasilkan. Rahasia yang lewat tiap musim membayar lebih lama."
+
+Alasan dagang lebih andal daripada sumpah. Maera membuka weighing box.
+
+"Kalau buku itu dibaca malam ini, apa yang ditemukan?"
+
+"Barang masuk, nilai, potongan, barang keluar. Klien anonim sesuai lisensi."
+
+"Tidak ada alamat?"
+
+"Alamat membuat kurir malas."
+
+"Tidak ada deskripsi penerima?"
+
+"Deskripsi membuat pejabat rajin."
+
+"Pertahankan kebosanan itu."
+
+Vosk memiringkan kepala. "Musim berubah?"
+
+"Mesin mulai berjalan."
+
+Ia menilai fragmen pertama. Gema dangkal, retak rambut pada sisi bawah, kelas empat tetap sah. Fragmen kedua serupa, tetapi arah pantulnya menyimpang dua derajat. Tempaan kecil sehat dan tidak menyimpan gema asing.
+
+Ia menguji pesan itu dengan menutup kolom nama klien. Tanpa konteks, ketiga catatan tetap membentuk urutan yang sah: jarak, tanggal, kebersihan ruang. Dengan pengetahuan Renn tentang aula, urutannya menjadi perintah operasional. Tidak ada kata penjaga, seam Testament, lorong B, atau Ash. Bahkan bila Kovan menyalin lembar seluruhnya, ia hanya mendapat prosedur penyimpanan yang cocok dengan jadwal resmi yang sudah diketahui kantor.
+
+Risiko berada pada lot kosong. Catatan untuk benda yang tidak ada mengundang perhatian pembaca rajin. Maera menambahkan alasan audit di margin: nomor lot dipertahankan demi kesinambungan konsinyasi. Vosk dapat membuktikannya dari buku besar. Kebenaran kecil menopang penyamaran lebih baik daripada alasan besar.
+
+"Saya perlu tanda terima untuk ketiga nomor," katanya.
+
+Vosk mengangkat alis. "Termasuk yang tidak membayar?"
+
+"Terutama yang tidak membayar. Pemeriksa menyukai lubang lebih daripada barang."
+
+"Pemeriksa dan tikus punya selera sama."
+
+"Tikus tidak meminta tiga salinan."
+
+Vosk merobek lembar tanda terima, memberi nomor berurutan, dan membiarkan nomor ketiga bernilai nol. Kini pesan memiliki rantai dokumen yang tidak perlu dibuat khusus. Jalur terbaik bukan jalur tersembunyi; jalur terbaik tampak terlalu biasa untuk dibuka.
+
+Maera mengucapkan setiap angka agar saksi meja sebelah mendengar. Setelah nilai pasar selesai, ia menulis catatan resmi untuk tiga lot.
+
+Lot pertama: dua fragmen resonant seam kelas empat. Pembacaan akurat memerlukan radius kerja lima puluh hasta; pada radius pendek, pantulan tampak seperti batu biasa.
+
+Lot kedua: tempaan kecil, struktur sehat. Barang bergema tidak disarankan berada dalam zona penilaian selama kalender survei aktif. Kalender musim ini memakai dua belas titik; turun perdana Hari 45.
+
+Lot ketiga: kosong. Setiap gema asing dalam lot kosong akan dicatat sebagai milik lot. Bersihkan ruang sebelum tanggal pembacaan.
+
+Semua kalimat benar. Bagi pemeriksa Guild, itu nasihat penyimpanan yang berlebihan tetapi sah. Bagi technical reader: survei datang Hari 45, dua belas titik, jangkauan lima puluh hasta, jangan tinggalkan gema yang dapat diklaim alat.
+
+Vosk membaca bagian nilai, tidak membaca catatan teknis. "Tiga lot. Dua fragmen, satu tempaan, satu kekosongan. Hitunganku menyebut empat benda."
+
+"Kekosongan bukan benda."
+
+"Namun dikenai potongan?"
+
+"Tidak ada nilai, tidak ada potongan."
+
+"Lot terbaik hari ini."
+
+Ia menyalin angka ke buku besar. Tulisan tangannya besar dan jelek, mustahil dibaca sekilas. Maera mengeringkan lembar, melipat sesuai pola kiriman, lalu menekan stempel Guild.
+
+Vosk menerima amplop dengan dua jari. "Catatan untuk technical reader?"
+
+"Sesuai penilaian triwulan."
+
+"Lewat jalur biasa?"
+
+"Jalur yang sama. Tidak dipercepat."
+
+"Kalau mendesak, kenapa tidak cepat?"
+
+"Perubahan kebiasaan dapat dibaca."
+
+Vosk menimbang amplop di telapak seolah kertas memiliki mutu logam. "Kurir berangkat setelah pasar tutup. Tiba sebelum dua malam."
+
+"Cukup."
+
+Ia melelehkan lilin, menekan cap penengah, lalu menaruh kiriman di kotak khusus. Kotak itu tidak memuat alamat; hanya tanda tiga garis yang sudah dipakai pada setiap penilaian sebelumnya.
+
+"Orang berjubah tadi kembali?" tanya Maera.
+
+"Belum."
+
+"Kalau kembali, buku tetap membosankan."
+
+"Buku selalu membosankan." Vosk mengetuk sampulnya. "Pemiliknya yang kadang takut."
+
+Maera menutup weighing box. "Takut membuat orang mengganti urutan."
+
+"Dan urutan dapat dibaca," kata Vosk, mengembalikan kalimatnya.
+
+Mereka saling memandang satu detik terlalu lama. Vosk tidak tahu isi pesan, tetapi kini tahu ada pesan. Harga loyalitasnya belum dibayar; hanya ditunda oleh kepentingan yang masih searah.
+
+Maera menyimpan fakta itu bersama semua angka lain yang tidak nyaman.
+
+Saat pasar tutup, Kovan terlihat di ujung jalan, membeli makanan dari kios yang menghadap gerobak Vosk. Ia tidak mendekat. Tidak menguji. Hanya melihat Vosk menutup kotak kiriman biasa pada jam biasa.
+
+Maera pergi tanpa membawa amplop. Itulah satu-satunya keunggulan jalur lama: benda penting bergerak di tangan orang yang tampak tidak penting.
+
+Di ruang Guild malam itu, ia menerima salinan cap kontrak. Posisi pembanding internal resmi berlaku. Kotak timbung mini kini menyimpan syarat penerimaannya; buku log menyimpan waktu; Vosk membawa peringatan menuju Renn.
+
+Satu lembar kontrak menjadikan Maera mata Ossian di dalam Guild. Satu lembar penilaian menjadikannya mata Guild yang memandang balik.
+
+Dua pembaca akan menerima tulisan Maera. Masing-masing mengira tulisan itu dibuat untuknya. Maera mengunci weighing box, lalu mencatat tanggal Hari 45 pada sisi bawah meja—tempat yang tidak dibaca siapa pun kecuali orang yang tahu harus membaliknya.

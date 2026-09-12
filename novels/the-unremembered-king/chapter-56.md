@@ -5,7 +5,7 @@ chapter: 56
 
 Parut di lengan kanannya berdenyut dua kali sebelum lampu-lampu barak mati, dan Ashvarok sudah berdiri pada denyut yang pertama.
 
-Setahun pengalaman telah membangun di dalamnya jam yang tidak dijual di pasar mana pun: irama antargejala yang dulu dihitung dengan bulan, kemudian dengan pekan, kini dengan hari. Malam sebelumnya sunyi datang dan pergi dalam beberapa detik, ditahan oleh empat puluh nama yang disebut ulang. Malam ini denyut di bawah sikunya berjalan lebih pendek dari semalam, seperti langkah orang yang tahu jalannya dan tidak lagi repot-repot menyembunyikan kegesitan.
+Dua bulan pengalaman telah membangun di dalamnya jam yang tidak dijual di pasar mana pun: irama antargejala yang dulu dihitung dengan bulan, kemudian dengan pekan, kini dengan hari. Dua malam sebelumnya sunyi datang dan pergi dalam beberapa detik, ditahan oleh empat puluh nama yang disebut ulang. Malam ini denyut di bawah sikunya berjalan lebih pendek dari kejadian terakhir, seperti langkah orang yang tahu jalannya dan tidak lagi repot-repot menyembunyikan kegesitan.
 
 Ia tidak membangunkan siapa pun. Ada urutan yang benar untuk menunggu bencana, dan urutan itu dimulai dengan berdiri dekat pintu, sepatu terpasang sepenuhnya, dan pikiran yang sudah menghitung dua ratus langkah ke arah yang paling aman bagi empat puluh orang yang tidur di sekelilingnya.
 
@@ -19,7 +19,7 @@ Dari blok timur terdengar bunyi yang lebih buruk daripada jeritan: bunyi dua pul
 
 Ia melangkah masuk ke gelap bersama napas kedua, bukan sebagai penyelamat, melainkan sebagai orang yang kebetulan paling dekat — karena begitulah cara bertindak yang tidak meninggalkan pertanyaan. Lampu satu sumbu diambil dari dinding. Barak sisi barat sudah bergolak. Ibu Tamma menyala lebih cepat daripada semua orang, dan Sela sudah berdiri dengan papan tulisnya disandarkan ke dada seperti perisai.
 
-"Blok timur," kata Ashvarok, keras, dengan suara Renn bocah tambang yang setahun dilatih untuk diperintahkan orang lain. "Jangan masuk satu-satu. Ibu Tamma, lampu besar. Brannoc akan mau tahu — panggil."
+"Blok timur," kata Ashvarok, keras, dengan suara Renn bocah tambang yang dua bulan dilatih untuk diperintahkan orang lain. "Jangan masuk satu-satu. Ibu Tamma, lampu besar. Brannoc akan mau tahu — panggil."
 
 Ia masuk lebih dulu, sendirian, ke tengah dua puluh orang yang berdiri seperti patung-patung yang belum selesai diberi isi.
 
@@ -37,31 +37,31 @@ Di ambang pintu, cahaya masuk. Ibu Tamma dengan lampu besar di atas kepala, dan 
 
 Maka evakuasi yang nanti akan masuk cerita-cerita barak sebagai keajaiban disiplin itu dimulai, dan Ashvarok bekerja di tengahnya dengan tangan terbuka untuk pertama kalinya sejak ia terbangun dalam tubuh ini. Bukan menyelinap. Bukan mengintip dari ventilasi. Ia berdiri di hadapan dua puluh orang yang hilang dan memanggil mereka satu per satu, nama demi nama yang dibaca Sela dari papan tulisnya dengan suara yang pecah di tengah tetapi tidak pernah berhenti, dan setiap nama harus dijawab — dan ketika jawaban tidak datang, ia berjalan sampai di depan orang itu, menatap matanya dari jarak satu hasta, dan mengucapkan namanya sekali lagi, pelan, seperti meletakkan barang ke tangan yang gemetar.
 
-"Laras, galeri sembilan."
+"Ondar."
 
-"...Laras." Lelaki itu menangkap namanya sendiri seperti orang menangkap tali di air. "Laras. Itu aku."
+"...Ondar." Pemuda itu menangkap namanya sendiri seperti orang menangkap tali di air. "Ondar. Itu aku."
 
 "Tovik."
 
-"Tovik. Tovik, iya—"
+Tidak ada jawaban. Lelaki tua di depannya tersenyum sopan, seakan nama itu ditujukan kepada orang lain.
 
-Sebelas nama kembali dalam sepersepuluh waktu yang dulu dibutuhkannya menutup satu retakan. Empat nama butuh dua kali panggilan. Tiga nama tidak datang sama sekali — dua perempuan dan seorang lelaki tua yang berdiri tenang, terlalu tenang, dengan keramahan orang yang sudah menyerahkan isi rumahnya kepada tamu. Mereka tidak rusak. Mata mereka hidup. Tetapi ketika dipanggil, wajah mereka menunjukkan bekerja keras orang mencoba mengingat apakah pernah mendengar bunyi itu sebelumnya.
+Tujuh belas nama kembali sebelum evakuasi selesai. Empat di antaranya memerlukan panggilan kedua. Tiga nama tidak datang sama sekali — dua perempuan dan Tovik, yang berdiri tenang, terlalu tenang, dengan keramahan orang yang sudah menyerahkan isi rumahnya kepada tamu. Mereka tidak rusak. Mata mereka hidup. Namun ketika dipanggil, wajah mereka menegang seperti orang yang mencoba mengingat apakah pernah mendengar bunyi itu sebelumnya.
 
-"Pindahkan ke sisi barat," kata Ashvarok kepada Brannoc, dan kalimatnya jatuh dengan bobot keputusan yang tidak ia sadari sedang ia berikan di depan empat puluh saksi. "Yang tiga itu jangan ditinggal sendirian. Udara dingin halaman membantu — bawa mereka keluar, jalan pelan, panggilan nama terus. Aku ikut."
+"Pindahkan ke sisi barat," kata Ashvarok kepada Brannoc, dan kalimatnya jatuh dengan bobot keputusan di depan empat puluh saksi. "Yang tiga itu jangan ditinggal sendirian. Udara dingin halaman membantu — bawa mereka keluar, jalan pelan, panggilan nama terus. Aku ikut."
 
-Ia berkata "aku ikut", dan tubuh bocah tambang itu bergerak keluar bersama rombongan, dan tanpa disadari oleh siapa pun — bahkan oleh dirinya, yang seharusnya paling waspada terhadap kebiasaan lama — ia telah berhenti menyembunyikan tangannya.
+Ia berkata "aku ikut", lalu tubuh bocah tambang itu bergerak keluar bersama rombongan. Tangannya sudah terbuka di depan semua orang, dan baru saat itu Ashvarok menyadari ia telah berhenti menyembunyikannya.
 
-Selama satu jam penuh di halaman gudang yang dingin, di bawah lampu stasiun angkut, Renn berdiri di antara tiga orang yang belum ingat siapa diri mereka dan mengulang-ulang nama mereka bersama Sela, bersama ibu Tamma, bersama Ondar yang akhirnya berhasil menjawab namanya sendiri tanpa ragu. Dua perempuan itu pulih sebelum lilin stasiun habis separuh — nama-nama mereka datang kembali seperti burung yang baru berani turun setelah suara meriam reda. Lelaki tuanya tidak. Ketika fajar menyingsing, lelaki itu tersenyum kepada semua orang, sopan, hangat, dan menanyakan dengan lembut apakah mereka tahu namanya, karena rasanya ia pernah punya satu, dan ia yakin sekali nama itu bagus.
+Selama satu jam penuh di halaman gudang yang dingin, di bawah lampu stasiun angkut, Renn berdiri di antara tiga orang yang belum ingat siapa diri mereka dan mengulang-ulang nama mereka bersama Sela, bersama ibu Tamma, bersama Ondar yang akhirnya berhasil menjawab namanya sendiri tanpa ragu. Dua perempuan itu pulih sebelum lilin stasiun habis separuh — nama-nama mereka datang kembali seperti burung yang baru berani turun setelah suara meriam reda. Tovik tidak. Ketika fajar menyingsing, lelaki tua itu tersenyum kepada semua orang, sopan, hangat, dan menanyakan dengan lembut apakah mereka tahu namanya, karena rasanya ia pernah punya satu, dan ia yakin sekali nama itu bagus.
 
 ---
 
 Cerita tentang malam itu, sebagaimana lazimnya di Caldrest, sudah selesai ditulis oleh orang-orang sebelum sarapan, dan Ashvarok mendengarkannya dirakit potong demi potong di antrean bubur pagi itu tanpa sanggup mengubah satu huruf pun.
 
-Versi yang beredar adalah versi yang benar secara fakta dan salah secara segala hal lainnya. Brannoc, Foreman the Quiet Vein, veteran yang bahunya turun karena bekas patah perang — dialah yang dikatakan mengatur semuanya. Dialah yang berlari, yang memerintah lampu, yang menahan kepanikan dengan suara mandor tua. Orang-orang mengangkat piring kepada namanya. Dua ibu galeri sembilan berjanji akan mendoakan anaknya yang jauh agar menjadi pria seperti Brannoc. Bahkan tiga orang yang lolos dari blok timur mengakui, dengan tawa lega, bahwa bocah lorong tujuh sempat ikut memanggil-memanggil — "yang katanya bisa bicara sama lubang itu, iya, dia ada di sana membantu" — sebuah keterangan sampingan, satu jari kaki dalam cerita milik orang lain.
+Versi yang beredar adalah versi yang benar secara fakta dan salah secara segala hal lainnya. Brannoc, Foreman the Quiet Vein, veteran yang bahunya turun karena bekas patah perang — dialah yang dikatakan mengatur semuanya. Dialah yang berlari, yang memerintah lampu, yang menahan kepanikan dengan suara veteran tua. Orang-orang mengangkat piring kepada namanya. Dua ibu galeri sembilan berjanji akan mendoakan anaknya yang jauh agar menjadi pria seperti Brannoc. Bahkan tiga orang yang lolos dari blok timur mengakui, dengan tawa lega, bahwa bocah lorong tujuh sempat ikut memanggil-manggil — "yang katanya bisa bicara sama lubang itu, iya, dia ada di sana membantu" — sebuah keterangan sampingan, satu jari kaki dalam cerita milik orang lain.
 
 Ashvarok memakan buburnya dan mengizinkan cerita itu hidup, karena cerita itu adalah tembok yang paling kokoh yang bisa dibangun untuknya dalam satu malam. Selama kehebatan itu milik Brannoc, tidak ada satu pun mata yang menempel terlalu lama pada bocah yang kebetulan tahu cara merebut nama dari pencuri tak kasatmata.
 
-Lie-nya bekerja, seperti selalu. Lie-nya menyelamatkan, seperti selalu.
+Kebohongannya bekerja, seperti selalu. Kebohongannya menyelamatkan, seperti selalu.
 
 Hanya saja pagi itu, untuk pertama kalinya sejak seribu tahun, ia menemukan harga yang tidak tercantum di perjanjian mana pun. Duduk di barak yang berutang nyawa kepadanya dan tidak boleh membiarkan satu pun dari mereka membayarnya, mendengar nama orang lain diangkat ke langit-langit atas pekerjaan tangannya, dan menelan kehangatan itu sendirian seperti batu yang menelan panas matahari tanpa boleh memancarkannya kepada siapa pun.
 
@@ -87,6 +87,6 @@ Sela diam lama. Kemudian ia mengeluarkan kapurnya dan menulis di kolom baru papa
 
 "Baik," katanya akhirnya, menutup kapurnya. "Kalau begitu aku juga mencatat satu hal lagi." Ia menatap ke arah kerumunan yang masih mengangkat piring untuk Brannoc, lalu kembali kepada kakaknya, dan di matanya ada sesuatu yang tua — sesuatu yang tidak layak untuk umur sebelas tahun dan tidak bisa ditolak oleh siapa pun. "Mereka semua salah alamat. Namun aku tidak. Selamat pagi, kak."
 
-Ia pergi ke antrean teh, dan Ashvarok duduk sendirian di tengah barak yang utangnya kepadanya, dengan kehangatan yang tidak bisa diteruskan ke mana-mana, dan membiarkan itu — membiarkan itulah yang membuat penjaga tetap berdiri di posnya meski tidak ada yang tahu ada pos di situ.
+Ia pergi ke antrean teh. Ashvarok tetap duduk di tengah barak yang berutang kepadanya, menyimpan kehangatan yang tak bisa diteruskan ke mana-mana. Begitulah penjaga tetap berdiri di posnya meski tak seorang pun tahu pos itu ada.
 
 Denyut di bawah sikunya berdetak pelan, sabar, seperti jam yang tahu ia punya waktu lebih banyak daripada semua orang di ruangan ini.

@@ -5,13 +5,13 @@ chapter: 321
 
 Pagi setelah laporan kedua dikirim, Kovan membuka peta Ossian di atas meja tengah barak. Lima lingkaran putus-putus berdiri di penjuru Karvess yang tidak ia kenal — utara jauh di balik danau garam, timur dekat perbatasan hutan payau, selatan di lembah tempat angin pertama kali mereka dengar berbalik, barat daya di bekas pos Hegemony yang telah lama mati, dan satu titik di tengah, di kota yang bahkan tidak punya nama di peta resmi.
 
-"Lima simpul buta," kata Kovan pada Ashvarok-Renn yang berdiri di serambi. "Kita tahu mereka ada karena buku anomali menyebut tujuh seam pengikat the Threshold, dan kita baru pegang dua: celah menara dan simpul pertama yang mati sebelum kita lahir. Lima ini tertinggal."
+"Lima simpul buta," kata Kovan pada Ashvarok-Renn yang berdiri di serambi. "Kita tahu mereka ada karena the Anomaly Book menyebut tujuh seam pengikat the Threshold, dan kita baru pegang dua: celah menara dan simpul pertama yang mati sebelum kita lahir. Lima ini tertinggal."
 
 Ashvarok-Renn mendekat, telunjuknya menyentuh titik tengah yang tak bernama. "Yang di tengah paling berbahaya. Ia dekat jantung Karvess tetapi tak tercatat di arsip mana pun. Bila sesuatu bergetar di sana, kita baru tahu setelah desa terdekat ikut berdenyut."
 
-"Kita tidak punya kaki untuk menjaga kelima sekaligus," kata Sela dari sudut ruangan, papan world-state di pangkuan. "Dua belas anak hanya cukup untuk serambi dan menara. Lima simpul tersebar berhari-hari jaraknya."
+"Kita tidak punya kaki untuk menjaga kelima sekaligus," kata Sela dari sudut ruangan, papan keadaan di pangkuan. "Dua belas anak hanya cukup untuk serambi dan menara. Lima simpul tersebar berhari-hari jaraknya."
 
-"Kita tidak jaga dengan kaki," jawab Ashvarok-Renn. "Kita jaga dengan telinga. Ossian punya jaringan di utara, Maera punya kaki ke desa tetangga, dan di setiap kota besar ada murid Sekolah Mendengar yang belum kita panggil. Kita pasang dentum pelopor, bukan penjaga."
+"Kita tidak jaga dengan kaki," jawab Ashvarok-Renn. "Kita jaga dengan telinga. Ossian punya jaringan di utara, Maera punya kaki ke desa tetangga, dan di setiap kota besar ada murid the Listening School yang belum kita panggil. Kita pasang dentum pelopor, bukan penjaga."
 
 ---
 
@@ -59,7 +59,7 @@ Keesokan fajarnya, Maera tiba membawa koper pos dari selatan. Di balik surat bia
 
 *Di desa selatan, dentum mulai beraturan setiap subuh. Penduduk kira itu biasa. Aku catat tiga puluh hari: pola sama persis dengan celah menara sebelum pemeriksa datang. Simpul ke-empat mungkin di sana.*
 
-Ashvarok-Renn menoleh pada Kovan. "Simpul selatan bergetar. Bukan teratur seperti tarikan penuh, tetapi cukup untuk dicatat. Kirim dua anak angkatan keempat ke sana bawah nama murid Sekolah Mendengar, bukan utusan barak. Mereka hitung napas, tidak tanya mengapa."
+Ashvarok-Renn menoleh pada Kovan. "Simpul selatan bergetar. Bukan teratur seperti tarikan penuh, tetapi cukup untuk dicatat. Kirim dua anak angkatan keempat ke sana bawah nama murid the Listening School, bukan utusan barak. Mereka hitung napas, tidak tanya mengapa."
 
 "Dan bila mereka temukan simpul itu?" tanya Kovan.
 
@@ -73,9 +73,9 @@ Mira kembali ke menara dan membuka buku catatan halaman ketiga. Di sisi kosong i
 
 "Angka tidak punya musim," jawab Mira. "Namun dentum yang berubah punya arah. Kita hanya catat arahnya."
 
-Di barak, Ashvarok-Renn menutup bible kecil dan menulis di bawah daftar chekhov yang belum ditembakkan: *Simpul selatan (ke-4 dari 7) bergetar teratur tiap subuh — bukan tarikan penuh, tetapi dipelajari. Kirim 2 pendengar bawah nama Sekolah Mendengar. Sisa: utara jauh, timur, barat daya, titik tengah tak bernama.*
+Di barak, Ashvarok-Renn menutup buku kecil dan menulis di bawah daftar simpul belum terjawab: *Simpul selatan (ke-4 dari 7) bergetar teratur tiap subuh — bukan tarikan penuh, tetapi dipelajari. Kirim 2 pendengar bawah nama the Listening School. Sisa: utara jauh, timur, barat daya, titik tengah tak bernama.*
 
-Sela memanggil dua anak angkatan keempat ke sudut serambi. "Kalian tidak pergi sebagai utusan barak," katanya. "Kalian pergi sebagai murid Sekolah Mendengar yang sedang belajar hitung napas. Bila ada yang bertanya, kalian hanya catat angin. Tidak sebut celah, tidak sebut simpul, tidak sebut barak."
+Sela memanggil dua anak angkatan keempat ke sudut serambi. "Kalian tidak pergi sebagai utusan barak," katanya. "Kalian pergi sebagai murid the Listening School yang sedang belajar hitung napas. Bila ada yang bertanya, kalian hanya catat angin. Tidak sebut celah, tidak sebut simpul, tidak sebut barak."
 
 "Kalau mereka tanya mengapa kami di sana?" tanya anak pertama.
 
@@ -91,7 +91,7 @@ Malamnya Ashvarok-Renn duduk di serambi, bible kecil di pangkuan. Ia membuka hal
 
 Ia ingat apa yang Gella katakan siang tadi: jika tujuh seam bertemu di sana, maka menutup celah di menara tidak cukup. Akar bisa tetap hidup di tengah. Namun akar butuh penjaga, dan penjaga butuh nama. Kota tak bernama itu tak punya arsip, tak punya cap, tak punya orang yang bisa dipanggil. Maka institusi penghisap pun mungkin belum menemukannya — atau justru karena itu mereka mencari lebih gesit.
 
-Delapan belas tahun silam, ibu Tamma pernah menyebut kota itu saat demam, sebelum sembilan napas hilang. Ashvarok-Renn tidak ingat kalimatnya utuh, hanya bahwa ibu Tamma menangis bukan karena sakit, melainkan karena tempat itu "punya tujuh pintu tetapi tidak satu pun kunci." Waktu itu ia mengira itu delirium. Sekarang, dengan buku anomali di tangan, ia mulai curiga itu adalah petunjuk.
+Delapan belas tahun silam, ibu Tamma pernah menyebut kota itu saat demam, sebelum sembilan napas hilang. Ashvarok-Renn tidak ingat kalimatnya utuh, hanya bahwa ibu Tamma menangis bukan karena sakit, melainkan karena tempat itu "punya tujuh pintu tetapi tidak satu pun kunci." Waktu itu ia mengira itu delirium. Sekarang, dengan the Anomaly Book di tangan, ia mulai curiga itu adalah petunjuk.
 
 ---
 
@@ -121,6 +121,6 @@ Mira menatap dari menara saat kurir selatan menjemput dua anak itu. Ia membuka b
 
 "Mereka akan tahu bila napas antara keras dan pelan berubah panjang," jawab Mira. "Itu yang kita ajarkan sejak hari pertama. Angka tidak bohong, hanya butuh yang sabar membacanya."
 
-Di barak, Ashvarok-Renn menutup bible kecil dan menulis di bawah daftar chekhov: *the Hollow (titik tengah, 7 seam bertemu) terlihat di peta Choir — status tidak dikenal. Utara diawasi Ossian. Selatan ada 2 pendengar. Sisa buta: timur, barat daya. Akar mungkin di tengah; jangan kirim kaki sebelum tahu penjaga.*
+Di barak, Ashvarok-Renn menutup buku kecil dan menulis di bawah daftar simpul belum terjawab: *the Hollow (titik tengah, 7 seam bertemu) terlihat di peta Choir — status tidak dikenal. Utara diawasi Ossian. Selatan ada 2 pendengar. Sisa buta: timur, barat daya. Akar mungkin di tengah; jangan kirim kaki sebelum tahu penjaga.*
 
 Ia bangkit, menyapu halaman bersama dua belas anak, dan membiarkan benang diam itu hidup tanpa namanya — tahu bahwa di selatan jauh, sebuah simpul telah mulai bernapas dengan irama yang bukan miliknya, dan di tengah Karvess, kota tak bernama itu menunggu siapa yang lebih dulu mencari pintunya.

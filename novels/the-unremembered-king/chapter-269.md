@@ -43,7 +43,7 @@ Anak itu mempertimbangkan jawaban itu dengan kesungguhan hakim.
 
 Malam sebelum pembacaan, rapat terakhir digelar di dapur aula — rapat teknis, singkat, daftar urutan acara final:
 
-Pembukaan oleh Wida (karena semua pintu harus dibuka oleh kakak pos). Pembacaan suara-suara wilayah oleh Ossian (kemarahan dulu, sesuai permintaan Penjaga Tua). Lagu utuh dimainkan kedalaman bersama seam saksi via jalur tanah. Cerita versi batu dibacakan Sela, lengkap, pelan. Surat Pembaca Tua. Terakhir — bab kosong: kalimat kepada malam, menunggu keputusan seribu murid.
+Pembukaan oleh Wida (karena semua pintu harus dibuka oleh kakak pos). Pembacaan suara-suara wilayah oleh Ossian (kemarahan dulu, sesuai permintaan the Old Warden). Lagu utuh dimainkan kedalaman bersama the Witness Seam via jalur tanah. Cerita versi batu dibacakan Sela, lengkap, pelan. Surat the Old Reader. Terakhir — bab kosong: kalimat kepada malam, menunggu keputusan seribu murid.
 
 Satu-satunya perdebatan malam itu soal posisi duduk Ashvarok-Renn.
 
@@ -78,7 +78,7 @@ Nat tua menyala pelan. Delapan ratus tahun, dan dua tahun terakhir ini ia jadi p
 
 Hari itu juga, dua kedatangan terakhir melengkapi daftar hadir.
 
-Yang pertama: Gorvel — murid tertua Sekolah Mendengar, penjaga catatan nat-gunung Vel-Morra — tiba membawa satu kain tenun tambahan yang tidak diminta siapa pun. Kain itu ditenun ibu-ibu Tanah Tinggi berdasarkan ingatan delapan puluh tahun: gambar lima orang muda makan di sekitar api kecil, di puncak menara jaga, dengan tulisan aksara tenun di bawahnya yang oleh Vessia Morra diterjemahkan bersama-sama:
+Yang pertama: Gorvel — murid tertua the Listening School, penjaga catatan nat-gunung Vel-Morra — tiba membawa satu kain tenun tambahan yang tidak diminta siapa pun. Kain itu ditenun ibu-ibu Tanah Tinggi berdasarkan ingatan delapan puluh tahun: gambar lima orang muda makan di sekitar api kecil, di puncak menara jaga, dengan tulisan aksara tenun di bawahnya yang oleh Vessia Morra diterjemahkan bersama-sama:
 
 *Kami mendengar dari gunung bahwa lagu sahabat kami sudah pulang. Ibu-ibu Vel-Morra menenun makan malam itu dari cerita ibu kami yang mendengar dari neneknya yang melihatnya sendiri. Satu-satunya makan malam dalam sejarah dunia yang digambar dua kali: sekali oleh saksi batu, sekali oleh saksi perempuan.*
 
@@ -103,7 +103,7 @@ Wida, kakak pos yang mengingat nama semua anak barak tanpa catatan, menjawab den
 Dan Anthema Spire — orang yang delapan tahun silam mengira dirinya sedang mengirim orang untuk menyelamatkan dunia dari monster — menganggukkan kepala kepada seorang penjaga pos, lalu masuk ke Caldrest sebagai pendengar ke-1002.
 ---
 
-Malam sebelum malam itu, buku seribu pertanyaan diletakkan kembali di posisinya di ruang arsip — sudah dibaca oleh lebih dari empat ratus tamu, halaman-halamannya mulai menguning di tepi karena disentuh terlalu banyak tangan yang berbeda.
+Malam sebelum malam itu, the Book of a Thousand Questions diletakkan kembali di posisinya di ruang arsip — sudah dibaca oleh lebih dari empat ratus tamu, halaman-halamannya mulai menguning di tepi karena disentuh terlalu banyak tangan yang berbeda.
 
 Dan di halaman terakhirnya, di bawah balasan Ashvarok-Renn, ada tambahan-tambahan yang muncul tanpa siapa pun mengumumkannya: murid-murid menulis jawaban untuk pertanyaan satu sama lain. Orang dewasa menulis pertanyaan baru untuk dirinya sendiri. Seseorang yang tidak diketahui menulis di margin, tulisan kecil: *pertanyaan nomor delapan ratus enam puluh empat juga untukku.*
 
@@ -114,7 +114,7 @@ Namun arsip terbaik memang selalu begini, kata Sela malam itu sambil menutupnya:
 
 Siang harinya, sebelum rombongan Vel-Morra tiba, satu urusan kecil membawa Ashvarok-Renn dan Sela ke kantor Dewan sementara Caldrest — ruangan sempit di lantai dua balai kota yang oleh pegawainya sendiri dijuluki "lorong tujuh versi administrasi".
 
-Urutannya sederhana: pengesahan resmi buku seribu pertanyaan sebagai dokumen arsip negara. Usulan itu datang bukan dari keluarga the Quiet Vein, tetapi dari Daven — koordinator Dewan Regional, kakak kelas Renn di Sekolah Mendengar — yang menyadari bahwa buku anak-anak itu berisi sesuatu yang tidak dimiliki seluruh arsip Hegemony: daftar hal yang dunia belum paham, ditulis tanpa rasa takut.
+Urutannya sederhana: pengesahan resmi the Book of a Thousand Questions sebagai dokumen arsip negara. Usulan itu datang bukan dari keluarga the Quiet Vein, tetapi dari Daven — koordinator the Regional Council, kakak kelas Renn di the Listening School — yang menyadari bahwa buku anak-anak itu berisi sesuatu yang tidak dimiliki seluruh arsip Hegemony: daftar hal yang dunia belum paham, ditulis tanpa rasa takut.
 
 Prosesnya yang tidak sederhana.
 
@@ -131,6 +131,6 @@ Notaris tua itu memandangi mereka — dua bocah tambang yang delapan tahun silam
 
 Di jalan pulang, Sela menghitung sesuatu di papan tulis kecilnya.
 
-"Tiga," katanya. "Tiga dokumen negara lahir dari dapur dan barak kita dalam tiga tahun: pengakuan kedaulatan the Patient House, protokol musim, dan sekarang status hukum pertanyaan." Papan tulis kecil itu ditutup dan dipeluk. "Kak, kalau ada sejarawan masa depan membaca daftar ini, mereka akan pikir Karvess diperintah dari dapur aula."
+"Tiga," katanya. "Tiga dokumen negara lahir dari dapur dan barak kita dalam tiga tahun: pengakuan kedaulatan the Patient House, the Seasonal Protocol, dan sekarang status hukum pertanyaan." Papan tulis kecil itu ditutup dan dipeluk. "Kak, kalau ada sejarawan masa depan membaca daftar ini, mereka akan pikir Karvess diperintah dari dapur aula."
 
 "Dunia sudah lama diperintah dari meja-meja besar," kata Ashvarok-Renn. "Dan lihatlah hasilnya. Mungkin waktunya dicoba dari tempat yang bau sup."

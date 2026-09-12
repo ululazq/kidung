@@ -5,15 +5,15 @@ chapter: 60
 
 Hari ketujuh puluh delapan terbuka tanpa angin, dan Caldrest menuruni tangga tambang dengan lilin-lilin stasiun yang menyala lebih tegak dari biasanya, seperti api pun tahu hari itu ada yang sedang dinilai.
 
-Prosesi bergerak pada jam ketujuh: enam penilai bersertifikat Spire dengan kotak-kotak bersegel, dua Shift Guard, Shift Guard Kovan dengan lempeng-lempeng cadangannya di punggung, Assayer Tull membawa kotak timbung mini di depan dada seperti orang membawa alibi, pejabat Ossian Vael berjalan sedikit di belakang barisan agar bisa membaca semua punggung sekaligus, dan di ujung formasi, di antara empat kuli regu ventilasi dengan peti-peti instrumen di pundak, seorang bocah lorong tujuh bernama Renn mengatur langkahnya menjadi persis seiring langkah kuli mana pun.
+Prosesi bergerak pada jam ketujuh: enam Assayer bersertifikat Spire dengan kotak-kotak bersegel, dua Shift Guard, Shift Guard Kovan dengan lempeng-lempeng cadangannya di punggung, Assayer Tull membawa mini weighing box di depan dada seperti orang membawa alibi, pejabat Ossian Vael berjalan sedikit di belakang barisan agar bisa membaca semua punggung sekaligus, dan di ujung formasi, di antara empat kuli regu ventilasi dengan peti-peti instrumen di pundak, seorang bocah lorong tujuh bernama Renn mengatur langkahnya menjadi persis seiring langkah kuli mana pun.
 
-Brannoc berjalan paling akhir, dengan hak Foreman dan penyelenggara inspeksi ventilasi: sampai pintu zona penilaian, tidak lebih, sesuai dokumen yang ditandatangani dirinya sendiri. Sepanjang turunan, mandor itu tidak sekali pun menoleh ke arah bocah yang membawa petinya — dua orang yang sudah setahun saling memercayai hidup mereka justru menjaga jarak sempurna di hadapan saksi, dan jarak itu adalah bentuk kepercayaan yang paling sulit dilatih.
+Brannoc berjalan paling akhir, dengan hak Foreman dan penyelenggara inspeksi ventilasi: sampai pintu zona penilaian, tidak lebih, sesuai dokumen yang ditandatangani dirinya sendiri. Sepanjang turunan, Foreman itu tidak sekali pun menoleh ke arah bocah yang membawa petinya — dua orang yang sudah dua bulan saling memercayai hidup mereka justru menjaga jarak sempurna di hadapan saksi, dan jarak itu adalah bentuk kepercayaan yang paling sulit dilatih.
 
 Pengikat senior tanpa nama berjalan paling depan, dan sejak tingkat kedua, Ashvarok mencatat hal yang membuat tulang punggungnya dingin pelan-pelan. Orang itu meletakkan telapak tangannya ke dinding tambang setiap lima puluh langkah. Tidak mengukur. Tidak membaca dengan alat. Hanya menyentuh, seperti pemilik rumah tua menyentuh dinding rumahnya sendiri untuk mendengar mana yang berubah.
 
-Di ujung lorong B, prosesi berhenti di hadapan dinding yang setahun lalu ia tenun menjadi kebohongan.
+Di ujung lorong B, prosesi berhenti di hadapan dinding yang dua bulan lalu ia tenun menjadi kebohongan.
 
-"Blind Door," kata Ossian Vael, suaranya sopan-prosedural seperti selalu, tetapi Ashvarok yang setahun mendengarnya dari celah ventilasi menangkap benang baru di dalamnya: nada orang yang datang menagih utang yang disimpan lama. "Klasifikasi lamanya buntu. Klasifikasi kita hari ini: tertunda. Buka."
+"Blind door," kata Ossian Vael, suaranya sopan-prosedural seperti selalu, tetapi Ashvarok yang berbulan-bulan mendengarnya dari celah ventilasi menangkap benang baru di dalamnya: nada orang yang datang menagih utang yang disimpan lama. "Klasifikasi lamanya buntu. Klasifikasi kita hari ini: tertunda. Buka."
 
 Pekerjaan pembukaan memakan satu jam penuh, dan Ashvarok bekerja di dalamnya seperti kuli sungguhan — memindahkan batu, mengangkat fragmen, memutar tuas besi — sementara bagian dalam kepalanya melakukan pekerjaan lain. Ia menghitung ulang apakah tenunan Forge tipisnya akan pecah dengan cara yang jujur. Tenunan itu pecah dengan cara yang jujur. Batu menua, mengelupas seperti retakan tua yang selalu ia janjikan, dan di baliknya terbuka ambang bersisi pendek dengan lambang ikatan yang setengah dimakan garam — pintu lama ke aula, tertutup dari dalam oleh masa yang lebih tua daripada semua klasifikasi di dunia ini.
 
@@ -27,9 +27,9 @@ Lalu pintu itu digerakkan — dengan pasak, dengan tuas, dengan kesabaran prosed
 
 ---
 
-Mereka bekerja empat jam, dan Ashvarok mengamatinya sambil mengangkat, memposisikan, dan diam — pekerjaan kuli memberi izin untuk berdiri di sudut ruangan mana pun tanpa alasan, dan ia memilih sudut yang paling dekat dengan dais tengah supaya tidak ada yang memperhatikan bahwa kuli itu tidak pernah membelakangi retakan di dasar ruangan.
+Mereka bekerja dua jam, dan Ashvarok mengamatinya sambil mengangkat, memposisikan, dan diam — pekerjaan kuli memberi izin untuk berdiri di sudut ruangan mana pun tanpa alasan, dan ia memilih sudut yang paling dekat dengan dais tengah supaya tidak ada yang memperhatikan bahwa kuli itu tidak pernah membelakangi retakan di dasar ruangan.
 
-Alat-alat Spire berjalan seperti yang telah dibayar: endapan garam tua di posisi-posisinya yang jujur, kelembapan yang konsisten, geometri yang menjawab setiap sonde dengan jawaban batu biasa. Dua penilai muda mengukur dais tengah dan menemukan panggung batu rendah dengan lambang yang sama seperti ambang, usia yang sama, kegunaan yang tidak bisa dipastikan — "mungkin altar," kata salah satu, dan yang lain mencatat "altar (kemungkinan)".
+Alat-alat Spire berjalan seperti yang telah dibayar: endapan garam tua di posisi-posisinya yang jujur, kelembapan yang konsisten, geometri yang menjawab setiap sonde dengan jawaban batu biasa. Dua Assayer muda mengukur dais tengah dan menemukan panggung batu rendah dengan lambang yang sama seperti ambang, usia yang sama, kegunaan yang tidak bisa dipastikan — "mungkin altar," kata salah satu, dan yang lain mencatat "altar (kemungkinan)".
 
 Pengikat senior itu berjongkok di sisi dais lebih lama daripada yang dibutuhkan penilaian mana pun, dan ketika ia bangkit, ia tidak menoleh kepada Ossian melainkan kepada Kovan — satu-satunya orang di ruangan ini yang pekerjaannya mengamati alih-alih mencatat.
 
@@ -39,7 +39,7 @@ Pengikat senior itu berjongkok di sisi dais lebih lama daripada yang dibutuhkan 
 
 "Bukan itu yang kutanya."
 
-Kovan diam sebentar, dan Ashvarok, dari sudutnya, menonton dua pembaca sunyi saling menakar. "Lorong ini sudah setahun membuat alatku membaca hal-hal yang tidak terjadi," kata Shift Guard itu akhirnya, dengan kehati-hatian orang yang memilih setiap kata seperti pijakan batu. "Kalau suatu saat ada yang terjadi dan alatku tidak membacanya, saya akan bilang. Tidak sebelum."
+Kovan diam sebentar, dan Ashvarok, dari sudutnya, menonton dua pembaca sunyi saling menakar. "Lorong ini sudah berbulan-bulan membuat alatku membaca hal-hal yang tidak terjadi," kata Shift Guard itu akhirnya, dengan kehati-hatian orang yang memilih setiap kata seperti pijakan batu. "Kalau suatu saat ada yang terjadi dan alatku tidak membacanya, saya akan bilang. Tidak sebelum."
 
 Orang tua itu mengangguk sekali, puas, seolah jawaban itu adalah jenis kejujuran yang paling langka dan paling mahal. Ia tidak menyentuh dais itu. Seperti tidak menyentuh dinding-dinding Caldrest kemarin, ia menyimpan sentuhannya — dan Ashvarok, menonton, merasa untuk kedua kalinya pagi itu bahwa hari ini tidak akan berakhir sebersih stempel lilin.
 
@@ -61,7 +61,7 @@ Ashvarok, memindahkan tali keranjang di sudut ruangan, merasakan kalimat itu bek
 
 "Dicatat," kata Maera, dan menulisnya.
 
-Dan Ossian Vael, yang mendapatkan semua yang dia inginkan, berdiri sedikit terlalu lama di tengah kemenangannya, dan Ashvarok — yang setahun belajar membaca punggung orang ini dari lubang ventilasi — melihat keraguan itu bekerja di bahu pejabat itu seperti air merembes di balik plester: terlalu mudah. Kata-kata itu bahkan tidak perlu diucapkan. Seorang Chorus-tier pengikat yang membeli kebenaran dengan harga politik selama setahun tidak pernah percaya kepada tagihan yang murah, dan ruangan ini baru menagihnya empat jam kerja dan satu stempel.
+Dan Ossian Vael, yang mendapatkan semua yang dia inginkan, berdiri sedikit terlalu lama di tengah kemenangannya, dan Ashvarok — yang berbulan-bulan belajar membaca punggung orang ini dari lubang ventilasi — melihat keraguan itu bekerja di bahu pejabat itu seperti air merembes di balik plester: terlalu mudah. Kata-kata itu bahkan tidak perlu diucapkan. Seorang Chorus-tier pengikat yang membeli kebenaran dengan harga politik selama berbulan-bulan tidak pernah percaya kepada tagihan yang murah, dan ruangan ini baru menagihnya dua jam kerja dan satu stempel.
 
 "Semuanya terbaca normal," kata Ossian akhirnya, pelan, hampir kepada dirinya sendiri. "Sampai detik ini, semuanya terbaca normal."
 
@@ -77,11 +77,11 @@ Vein-scar kanannya menyala panjang dari siku sampai pergelangan dalam satu detik
 
 Dan di tengah aula, di antara peti dan tripod instrumen, Shift Guard Kovan berhenti berjalan.
 
-Ashvarok melihatnya dari sudut mata yang menunduk: penjaga shift itu berhenti di tengah langkah, penuh, seperti orang yang menabrak dinding kaca, dan kepala Kovan berputar — pelan, kaku, bukan gerakan orang mendengar bunyi, melainkan gerakan orang yang telinganya baru saja dipanggil — menuju titik di dasar timur ruangan, menuju retakan formasi gagal yang terbaca mati di setiap instrumen, dan wajah Kovan yang setahun itu berhitung sedang melakukan ekspresi yang belum pernah Ashvarok lihat padanya bahkan pada saat alatnya rusak dua kali di tangannya:
+Ashvarok melihatnya dari sudut mata yang menunduk: Shift Guard itu berhenti di tengah langkah, penuh, seperti orang yang menabrak dinding kaca, dan kepala Kovan berputar — pelan, kaku, bukan gerakan orang mendengar bunyi, melainkan gerakan orang yang telinganya baru saja dipanggil — menuju titik di dasar timur ruangan, menuju retakan formasi gagal yang terbaca mati di setiap instrumen, dan wajah Kovan yang berbulan-bulan itu berhitung sedang melakukan ekspresi yang belum pernah Ashvarok lihat padanya bahkan pada saat alatnya rusak dua kali di tangannya:
 
 Ekspresi orang yang yakin sekali, tanpa bisa menjelaskan kepada siapa pun, bahwa baru saja ada yang berbicara.
 
-Ruangan itu hening. Penilai muda masih mencatat. Maera masih menimbang. Ossian masih berdiri di atas kemenangan lilinnya. Pengikat senior tanpa nama menoleh juga — tetapi ke arah Kovan, bukan ke arah retakan, membaca wajah penjaga shift itu dengan mata tua yang menghitung sesuatu.
+Ruangan itu hening. Assayer muda masih mencatat. Maera masih menimbang. Ossian masih berdiri di atas kemenangan lilinnya. Pengikat senior tanpa nama menoleh juga — tetapi ke arah Kovan, bukan ke arah retakan, membaca wajah Shift Guard itu dengan mata tua yang menghitung sesuatu.
 
 Hanya dua makhluk di seluruh aula yang tahu apa yang baru saja terjadi, dan salah satunya adalah retakan itu sendiri.
 

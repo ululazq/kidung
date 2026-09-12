@@ -7,7 +7,7 @@ Ibu Tamma mengumumkan kabarnya di dapur, sambil mengaduk sup — karena semua ka
 
 "Aku mau pilih penerus."
 
-Seluruh dapur hening. Kembar Tami-Tomi berhenti mencuci. Murid-murid Sekolah Mendengar yang sedang bantu potong sayur menoleh serempak.
+Seluruh dapur hening. Kembar Tami-Tomi berhenti mencuci. Murid-murid the Listening School yang sedang bantu potong sayur menoleh serempak.
 
 "Penerus?" tanya Renn. "Bu... ibu masih sehat."
 
@@ -29,13 +29,75 @@ Proses pemilihannya berjalan tiga bulan — dan tidak seperti pemilihan mana pun
 
 Ibu Tamma tidak memilih berdasarkan wawancara. Ia memasak BERSAMA setiap kandidat selama sepekan — dan mengamati bukan masakan mereka, melainkan cara mereka memandang orang yang datang lapar.
 
-Dua belas kandidat. Dari murid Sekolah Mendengar, keluarga pemulang, anak-anak barak yang sudah besar, bahkan satu utusan Vel-Morra.
+Dua belas kandidat. Dari murid the Listening School, keluarga pemulang, anak-anak barak yang sudah besar, bahkan satu utusan Vel-Morra.
+
+Pada pekan kesembilan, ketika giliran Tami-Tomi bekerja bersamanya, seorang lelaki dari rombongan pemulang masuk lewat pintu belakang. Mantelnya masih menyimpan debu jalan wilayah timur. Ia memilih bangku paling dekat pintu, tidak melepas tas, dan menolak mangkuk yang disodorkan salah satu murid.
+
+"Aku cuma menunggu hujan reda," katanya.
+
+Tami sudah hendak kembali ke panci ketika Tomi melihat tangan lelaki itu. Jemarinya mencengkeram tali tas, tetapi matanya mengikuti setiap potong roti yang berpindah dari keranjang ke meja.
+
+"Hujannya mungkin lama," kata Tomi. "Mangkuknya bisa menunggu di sini. Tidak perlu dibayar."
+
+"Aku bilang tidak lapar."
+
+Suara itu terlalu keras untuk dapur yang ramai. Beberapa kepala menoleh. Lelaki itu bangkit, menyenggol meja, lalu buru-buru menangkap keranjang roti sebelum jatuh. Ketika ia meletakkannya kembali, tiga potong roti lenyap ke balik mantelnya.
+
+Seorang kandidat lain melihat gerakan itu. "Bu Tamma, dia mencuri."
+
+Lelaki tersebut membeku. Kursinya terjungkal di belakang lututnya. Tami bergerak ke pintu, bukan untuk menutup jalan, melainkan menggeser diri agar tidak menghalangi. Tomi menaruh mangkuk di meja.
+
+"Rotinya untuk siapa?" tanya Tomi.
+
+"Bukan urusanmu."
+
+"Kalau untukmu, kuahnya ikut dibawa. Kalau untuk orang lain, kami perlu tahu berapa mangkuk."
+
+Kemarahan lelaki itu kehilangan tenaga. Ia memandang ibu Tamma, mungkin menunggu tuduhan. Ibu Tamma tetap mengiris umbi di ujung meja, pisaunya turun dengan irama tenang.
+
+"Dua anak," akhirnya ia menjawab. "Mereka di gudang gerobak. Anak bungsuku takut ruangan penuh. Kami belum mendapat tempat tidur. Aku tidak mau mereka dicatat berutang pada hari pertama pulang."
+
+Tami mengambil kain pembungkus. Ia mengisi bukan tiga, melainkan enam potong roti. Tomi menuang sup ke dua stoples bertutup dan memilih sendok kayu yang tidak akan pecah di jalan.
+
+Kandidat yang tadi menuduh berdiri di depan rak mangkuk. "Kalian membiarkan pencurian?"
+
+"Tidak," kata Tami. "Kami menghentikannya."
+
+"Lalu memberinya lebih banyak?"
+
+Tomi mengikat kedua stoples. "Ia mencuri tiga roti karena mengira meminta enam akan menambah utang. Masalahnya bukan jumlah roti."
+
+"Aturan dapur tetap aturan."
+
+Kali ini ibu Tamma meletakkan pisaunya. "Betul. Karena itu aturan harus menyelesaikan lapar, bukan memenangkan pertengkaran." Ia menunjuk lelaki di dekat pintu. "Kau tidak berutang. Namun besok kau kembali dan bilang langsung berapa orang yang perlu makan. Jangan paksa anak-anakmu hidup dari keberanian yang kau pakai untuk berbohong."
+
+Lelaki itu menerima bungkusan dari Tami tanpa menatap siapa pun. "Kalau mereka belum berani masuk?"
+
+"Kami antar kursi ke gudang," jawab Tami.
+
+"Bersama sup," tambah Tomi. "Sup dingin merusak nama baik dapur."
+
+Untuk pertama kalinya bahu lelaki itu turun. Ia mengangguk, lalu pergi membawa makanan dengan kedua tangan.
+
+Ibu Tamma menyuruh semua orang kembali bekerja. Baru setelah pintu belakang tertutup ia bertanya kepada Tami-Tomi, "Kenapa kalian tidak mengejarnya waktu melihat roti itu hilang?"
+
+"Karena dia menjaga pintu tetap dekat," kata Tami. "Orang yang mau lari tidak duduk begitu. Orang yang takut terjebak, iya."
+
+"Dan dia melihat roti, tetapi memegang tasnya," kata Tomi. "Kalau cuma lapar, tangannya lebih dulu bergerak ke perut. Ada orang lain di dalam pikirannya."
+
+Ibu Tamma mengambil kembali pisaunya. "Kalian bisa saja salah."
+
+"Makanya kami bertanya," jawab keduanya.
+
+Keesokan paginya, lelaki itu kembali bersama dua anak. Mereka makan di ambang pintu sampai keramaian tidak lagi membuat si bungsu menutup telinga. Tidak ada nama mereka di buku utang. Yang ada hanya catatan Tami-Tomi pada pinggir daftar bahan: *Dua stoples harus selalu bersih dan siap dibawa.*
+
+Ibu Tamma tidak memuji mereka. Ia hanya berhenti memasukkan kandidat baru ke jadwal setelah pekan itu.
 
 Dan pada akhirnya, ia memilih dua orang:
 
 Kembar Tami-Tomi.
 
-"Kenapa kami, Bu?" tanya kembar itu — untuk pertama kalinya kehilangan kata-kara bersamaan.
+"Kenapa kami, Bu?" tanya kembar itu—untuk pertama kalinya kehilangan kata-kata bersamaan.
 
 "Karena kalian yang pertama kali mengajari dunia bahwa batu pun perlu teman." Ibu Tamma menutup buku dapurnya. "Orang yang bisa lihat kesepian di tempat yang semua orang pikir hanya batu... itu orang dapur sejati."
 
@@ -61,318 +123,123 @@ bukan upacara — melainkan hari pertama kembar itu memasak sendiri seluruh menu
 
 Hasilnya: semua masakan jadi. Sedikit beda rasa. Dan satu murid Vel-Morra berkata sup Arunya "rasa seperti kampungku tetapi lebih hangat" — dan kembar itu tahu mereka tidak gagal.
 
-Di akhir hari, ibu Tamma bangun dari kursinya, mencicipi sup terakhir, dan memberi vonis:
+Di akhir hari, ibu Tamma bangun dari kursinya dan memeriksa panci, rak roti, serta lantai dapur. Tidak ada hidangan tersisa, tetapi tidak ada orang yang dipulangkan dengan tangan kosong.
 
-"...enak. Beda dari punyaku. Namun enak."
-
-Ia menatap kembar itu.
-
-"DAN ITU YANG KUMAU. Bukan salinan aku. Kalian."
+"Dapur tutup tanpa orang lapar," katanya. "Untuk hari pertama, itu cukup. Besok kita bicara soal rasa."
 
 
 ---
 
-Dan satu adegan penutup — malamnya, kembar Tami-Tomi menulis di buku dapur resmi, halaman pertama tangan mereka:
+Malamnya, kembar Tami-Tomi membuka buku dapur resmi pada halaman pertama yang menjadi bagian mereka. Keduanya memegang pena bersama, sebagaimana dahulu mereka mengangkat batu bersama.
 
-"Hari 1 kami sebagai penerus ibu Tamma.
+"Hari pertama sebagai penerus ibu Tamma," baca Tami ketika tulisan selesai. "Kami belajar: memasak untuk orang lapar itu mudah. Yang susah adalah tahu lapar mana yang tidak tinggal di perut."
 
-Kami belajar satu hal hari ini: memasak untuk orang lapar itu mudah.
+Tomi menambahkan, "Ibu Tamma bisa tahu sebelum orangnya bicara. Kami belum."
 
-Yang susah adalah memasak untuk orang yang laparnya BUKAN di perut.
+Ibu Tamma, yang mengaduk panci di belakang mereka, mendengus. "Koreksi. Bukan susah. Kalian hanya perlu melihat. Yang ini lapar makanan, yang itu lapar cerita, yang sana lapar dipeluk. Kalau mata kalian terbuka, tangan akan tahu harus mengambil mangkuk atau kursi."
 
-Ibu Tamma bisa itu selama puluhan tahun.
+"Kalau kami salah?"
 
-Kami akan belajar seumur hidup."
+"Tanya." Ibu Tamma mengetuk sendok ke bibir panci. "Dapur tidak perlu peramal. Dapur perlu orang yang tidak malu bertanya, 'Kau butuh apa?'"
 
-— Tami dan Tomi, penerus dapur
+Kembar itu saling pandang, lalu menulis kalimat tersebut di bawah catatan mereka.
 
----
+Ashvarok-Renn membaca dari belakang bahu mereka. "Jadi resep pertama kalian bukan sup."
 
-Dan satu balasan dari ibu Tamma — ditulis di bawahnya keesokan paginya:
+"Bukan," jawab keduanya. "Pertanyaan."
 
-"Anak-anakku.
-
-Kalian bilang yang susah itu memasak untuk laparnya bukan di perut.
-
-Aku mau koreksi: itu bukan susah. Itu SEKALI LIAHAT.
-
-Kalau kalian lihat orang dan langsung tahu 'yang ini lapar perut, yang ini lapar diceritakan, yang ini lapar dipeluk' — kalian sudah jadi ibu dapur.
-
-Sisanya hanya resep.
-
-Dan resep bisa diajarkan."
-
-— Ibu Tamma
+"Bagus," kata ibu Tamma. "Resep bisa diajarkan. Perhatian harus dilatih."
 
 ---
 
-Dan satu baris dari Ashvarok-Renn — yang membaca semuanya dan menutup:
+Subuh berikutnya, Tami-Tomi tiba sebelum matahari dan menemukan ibu Tamma sudah duduk di kursi sudut, seikat daun asam di pangkuannya. Panci pertama mendidih. Meja kerja bersih. Ia tidak membantu, tetapi matanya mengikuti setiap gerakan mereka.
 
-"Delapan bulan silam kami pikir ibu Tamma adalah kepala dapur.
+"Bu," kata Tomi, "kalau kami penerus, kenapa ibu tetap datang paling awal?"
 
-Tahun ini kami sadar: dia adalah guru yang mengajar dengan sup.
+"Karena penerus bukan pengganti." Ibu Tamma mengambil satu daun yang rusak dari ikatan. "Penerus adalah orang yang dilatih sambil bekerja bersama. Kalau aku tidur sampai siang, kalian tidak belajar. Kalian hanya kebagian kerja."
 
-Dan kembar Tami-Tomi... adalah murid pertama yang benar-benar paham pelajarannya."
+Tami meletakkan bawang ke talenan. "Sampai kapan ibu melatih kami?"
 
----
+"Sampai kalian bangun paling pagi dan tahu apa yang perlu dimasak tanpa menunggu suaraku."
 
-Dan satu kalimat dari Sela — untuk arsip:
+"Lalu kursi ibu kosong?"
 
-"Catatan resmi: dapur Caldrest kini memiliki TIGA generasi penjaga — ibu Tamma (pendiri), kembar Tami-Tomi (penerus), dan semua murid Sekolah Mendengar yang lewat (pembantu musiman).
+Ibu Tamma menatap kursi sudutnya. Permukaannya penuh goresan dari puluhan tahun mangkuk panas, pena arsip, dan anak-anak yang duduk sambil menangis.
 
-Status: dapur tidak pernah tutup.
+"Suatu hari. Namun kursi kosong bukan kesepian. Itu kepercayaan."
 
-Prediksi: tidak akan pernah."
+Kembar itu terdiam. Air dalam panci mulai bergolak terlalu keras.
 
----
+"Dan kepercayaan tidak membuat bawang memotong diri sendiri," lanjut ibu Tamma. "Tangan bergerak."
 
-Dan satu adegan terakhir — subuhnya, kembar Tami-Tomi tiba paling awal dan menemukan ibu Tamma sudah di sana, mengaduk sup:
+Mereka kembali bekerja. Bau bawang panggang dan asam memenuhi ruangan. Murid-murid the Listening School mulai datang, disusul pekerja malam dan satu keluarga pemulang yang baru tiba dari wilayah timur.
 
-"Bu... ibu bilang kami penerus. Kenapa ibu tetap bangun paling pagi?"
+Seorang anak dari keluarga itu berdiri dekat pintu, memeluk tasnya. Tami hendak mengambil mangkuk, tetapi Tomi melihat mata anak tersebut terus mencari orang tuanya di kerumunan.
 
-Ibu Tamma mencicipi sup, memperbaiki garamnya sedikit, dan menjawab:
+Tomi berjongkok. "Kau mau makan sekarang, atau duduk dekat ibumu dulu?"
 
-"Karena penerus bukan pengganti, Nak.
+"Dekat Ibu."
 
-Penerus itu orang yang kalian latih sambil tetap bekerja bersamanya.
+Tami membawa dua kursi ke meja terdekat. Baru setelah anak itu duduk di samping ibunya, ia menerima mangkuk sup.
 
-Kalau aku tidur sampai siang, kalian tidak belajar apa-apa — kalian hanya kerja.
+Dari kursi sudut, ibu Tamma tidak berkata apa-apa. Ia hanya mengangguk sekali.
 
-Aku mau kalian BELAJAR dan KERJA pada waktu yang sama.
+Anak itu baru menyentuh sendok setelah ibunya meraih tangannya. Tomi tidak mendesak. Ia menggeser keranjang roti lebih dekat, lalu kembali ke panci. Beberapa menit kemudian, mangkuk tersebut kosong.
 
-Sampai suatu hari kalian bangun paling pagi... dan menemukan kursiku kosong."
+"Kau melihat matanya," kata Tami ketika mereka berpapasan di meja kerja.
 
-"Terus?"
+"Kau yang membawa kursinya."
 
-"Terus kalian lanjutkan. Dan kalian akan paham kenapa kursi kosong itu bukan kesepian.
+"Berarti dua tangan memang berguna."
 
-Itu kepercayaan."
-
----
-
-Dan satu adegan penutup — bertahun-tahun kemudian:
-
-Kembar Tami-Tomi sudah dewasa. Dapur mereka tiga kali lebih besar. Murid-murid baru datang dari seluruh dunia.
-
-Dan setiap pagi, kursi sudut tempat ibu Tamma dulu duduk... tetap kosong.
-
-Bukan karena tidak ada yang boleh duduk.
-
-Karena kembar itu memutuskan: kursi itu adalah kursi guru. Dan setiap murid baru wajib duduk di sana sekali — untuk merasakan bagaimana rasanya menjadi orang yang menunggu sup matang dengan sabar.
-
-Di papan dapur, tertulis tulisan tangan ibu Tamma yang sudah tua:
-
-"KURSI INI MILIK GURU.
-
-DAN GURU ADALAH SIAPA PUN YANG PEDULI CUKUP LAMA UNTUK MENGADUK SUP TANPA MENDESAK."
+Dari sudut, ibu Tamma menyembunyikan senyum di balik mangkuknya. Penilaian tiga bulan telah selesai, tetapi pelajaran mereka baru dimulai.
 
 ---
 
-Dan satu baris terakhir dari kembar Tami-Tomi:
+Hari kedua berlalu tanpa masakan gosong, tanpa orang pulang lapar, dan tanpa ibu Tamma mengambil alih sendok. Menjelang malam, Tami-Tomi menyajikan mangkuk terakhir kepadanya.
 
-"Kami akan duduk di kursi itu suatu hari.
+Ia mencicipi pelan. Kembar itu berdiri kaku di depannya.
 
-Namun belum sekarang.
+"Enak. Beda dari punyaku, tetapi enak."
 
-Sekarang kami masih punya banyak sup untuk dipelajari."
+"Boleh kami perbaiki supaya sama?" tanya Tami.
 
----
+"Tidak." Ibu Tamma mendorong mangkuk kosong kembali. "Dapur tidak butuh salinan aku. Dapur butuh kalian. Kalau rasa kalian sama persis, berarti aku gagal mengajar kalian menemukan tangan sendiri."
 
-Dan satu baris dari ibu Tamma — yang membaca jurnal kembar itu dan menambahkan:
+Tomi tersenyum. "Kalau suatu hari sup kami lebih enak dari punya ibu?"
 
-"Benar. Belajarlah sebanyak mungkin.
+"Berarti pekerjaanku selesai."
 
-Karena suatu hari, saat kalian duduk di kursi ini dan menemukan bahwa sup kalian sudah lebih enak dari punyaku...
+Kedua kembar itu berpikir sesaat, lalu menjawab bersama, "Kalau begitu kami sengaja membuatnya tidak pernah lebih enak."
 
-itu bukan artinya aku gagal.
+Ibu Tamma tertawa begitu keras sampai nat kecil di rak ikut berpendar.
 
-Itu artinya pekerjaanku SELESAI."
+"Dasar anak nakal. Kalian memang ingin aku tidak pernah pensiun."
 
----
+"Itu syarat ibu sendiri."
 
-Dan satu baris dari kembar — yang menutup dengan cara tujuh tahun:
+"Benar." Ia menunjuk panci dengan sendok. "Dan syaratku berikutnya: dapur dibersihkan sebelum semua orang tidur."
 
-"Kalau pekerjaan ibu selesai saat sup kami lebih enak...
+Mereka bekerja bertiga. Tami mencuci, Tomi mengeringkan, ibu Tamma menyusun mangkuk tanpa diminta. Ketika lampu terakhir hendak dipadamkan, ia memanggil kedua kembar itu ke kursi sudut.
 
-maka kami akan SENGaja membuatnya tidak pernah lebih enak."
+"Aku bangga," katanya.
 
-Sunyi.
+Tami menunduk melihat tangannya yang masih basah. "Pada sup kami?"
 
-Lalu ibu Tamma tertawa — tertawa paling keras yang pernah didengar dapur itu:
+"Bukan. Pada kalian. Kalian datang sebagai dua anak yang menganggap batu perlu teman. Hari ini kalian melihat anak lapar dan tahu ia lebih dulu perlu ibunya. Mata sebelum perut. Kalian lulus pelajaran pertama."
 
-"DASAR ANAK NAKAL! KALAU BEGITU AKU TIDAK AKAN PERNAH PENSIUN!"
-
-Dan semua orang di dapur tertawa bersama — karena semua orang tahu:
-
-itu tepat rencananya.
-
----
-
-Dan satu baris dari Ashvarok-Renn — yang menutup dengan cara keluarga:
-
-"Kami akan pastikan keduanya kejadian, Bu.
-
-Kalian tidak pensiun DAN sup kalian tetap paling enak.
-
-Itu janji keluarga the Quiet Vein."
-
----
-
-Dan satu kalimat dari Sela — yang menutup bab:
-
-"Catatan arsip: dapur Caldrest resmi memiliki tiga penjaga abadi — ibu Tamma, kembar Tami-Tomi, dan sup yang tidak pernah dingin."
-
-— Bab 259 selesai.
-
----
-
-Dan satu baris dari ibu Tamma — yang menutup dengan cara ibu Tamma:
-
-"Sudah. Cukup menulis. Semua tangan ke dapur.
-
-SUP TIDAK MENUNGGU SEJARAH."
-
----
-
-Dan kalimat itu — "sup tidak menunggu sejarah" — oleh Sela dikutip di halaman terakhir arsip dapur:
-
-"Kalimat ibu Tamma mengingatkan kami semua:
-
-Sejarah itu penting. Namun sup lebih penting.
-
-Karena sejarah diberi tahu setelah terjadi.
-
-Sup harus disajikan SEBELUM dingin."
-
-— Bab 259. Selesai.
-
----
-
-Dan satu baris dari kembar Tami-Tomi — yang menutup dengan cara tujuh tahun:
-
-"Kalau begitu kami masak sup SEKARANG.
-
-Sejarah bisa menulis sendiri."
-
----
-
-Dan satu baris dari ibu Tamma — yang menutup dengan bangga:
-
-"NAH. SEPERTI ITU.
-
-Murid terbaikku."
-
----
-
-Dan satu adegan terakhir — malamnya, setelah dapur bersih:
-
-Ibu Tamma duduk di kursi sudutnya. Kembar duduk di sebelah. Semua nat kecil di dapur menyala hangat.
-
-Dan ibu Tamma berkata — pelan, untuk pertama kalinya:
-
-"Anak-anak. Aku mau bilang sesuatu yang belum pernah kubilang.
-
-Aku bangga.
-
-Bukan pada sup kalian. Bukan pada kerja kalian.
-
-Pada KALIAN."
-
-Kembar itu diam — tidak sanggup menjawab.
-
-"Kalian datang sebagai anak tujuh tahun yang menganggap batu teman. Sekarang kalian jadi orang yang membuat seluruh dunia berpikir ulang soal batu."
-
-Ia berdiri, mematikan lampu dapur terakhir.
-
-"Itu lebih dari cukup."
-
----
-
-Dan di kegelapan dapur yang hangat, suara kembar menjawab bersamaan — pelan:
+Kembar itu tidak menjawab beberapa saat. Lalu keduanya memeluknya dari sisi berbeda.
 
 "Terima kasih sudah memilih kami, Bu."
 
-Dan suara ibu Tamma, dari arah pintu:
+Ibu Tamma merangkul mereka. "Bukan aku yang memilih. Dunia yang memilih. Aku cuma menulisnya di buku."
 
-"Bukan aku yang memilih kalian.
+Ia melepaskan pelukan, mematikan lampu, lalu membuka pintu ke lorong.
 
-DUNIA YANG MEMILIH. AKU HANYA YANG MENULIS DI BUKU."
+"Sekarang tidur. Subuh kita masak lagi."
 
----
+Di meja, buku dapur tetap terbuka pada halaman pertama tulisan Tami-Tomi. Di bawah catatan mereka, ibu Tamma telah menambahkan satu baris:
 
-— BAB 259 SELESAI. —
+"PENERUS BUKAN TANGAN YANG MENGGANTIKAN. PENERUS ADALAH TANGAN YANG MENERUSKAN."
 
-Dapur Caldrest: tiga generasi penjaga.
-Sup: tidak pernah dingin.
-Kursi sudut: menunggu guru berikutnya.
-
----
-
-Dan satu baris terakhir dari Ashvarok-Renn — yang menutup dengan cara keluarga:
-
-"Dan kalau suatu hari kursi itu duduki orang lain lagi...
-
-kita semua akan tahu: dunia masih berjalan dengan benar."
-
----
-
-Dan satu kalimat dari Sela — yang menutup dengan cara arsiparis:
-
-"Dicatat resmi.
-
-Dan akan kubaca ulang setiap kali ada yang lupa kenapa dapur ini penting."
-
----
-
-Dan satu kalimat dari Renn — yang menutup dengan cara bocah tungku:
-
-"Dan aku akan ingat: dapur ini yang menyelamatkanku duluan sebelum semua nat di dunia."
-
-
----
-
-Dan satu kalimat dari Ashvarok — yang menutup dengan cara raja:
-
-"Dan aku akan ingat: dapur ini yang membuatku berhenti jadi raja...
-
-dan mulai jadi keluarga."
-
----
-
-Dan satu kalimat dari ibu Tamma — yang menutup dengan cara ibu:
-
-"Dan aku akan ingat: dapur ini tidak pernah butuh pidato.
-
-Cukup tangan yang kerja dan hati yang hangat.
-
-Sekarang SEMUA TIDUR. SUBUH MASAK LAGI."
-
----
-
-Dan semua tertawa — dan tidur — dan subuhnya masak lagi.
-
-Seperti yang selalu dilakukan dapur Caldrest.
-
-Selamanya.
-
----
-
-Dan satu adegan terakhir — bertahun-tahun kemudian:
-
-Ibu Tamma sudah sangat tua. Duduk di kursi sudutnya sepanjang hari, tidak bisa mengaduk lagi.
-
-Namun setiap sup yang keluar dari dapur itu... tetap dibawa ke mejanya untuk dicicipi.
-
-Dan vonisnya tetap ditunggu seluruh kota.
-
-Suatu sore, kembar Tami-Tomi (yang sudah dewasa) membawa sup baru — resep mereka sendiri yang sudah berkembang jauh dari asalnya.
-
-Ibu Tamma mencicipi. Lama.
-
-Lalu berkata — kalimat terakhirnya soal sup:
-
-"INI... LEBIH ENAK DARI PUNYAKU."
-
-Kembar menatapnya. "Bu—"
-
-"DAN ITU KABAR TERBAIK YANG PERNAH KUDENGAR." Ia tersenyum lebar. "SEKARANG DUNIA PUNYA DUA SUP TERENAK. BUKAN SATU."
+Kursi sudut masih terisi. Panci sudah bersih. Besok, tiga penjaga akan membukanya bersama lagi.

@@ -21,9 +21,9 @@ Kotak timah terbesar dari arsip Hegemony — yang sejak setahun diberi label Sel
 
 Isinya: gulungan perpajakan wilayah. Catatan gudang. Surat-menyurat birokrasi yang bahkan Ashvarok, yang hidup di era itu, menyebut "membosankan dengan cara yang sangat konsisten".
 
-Dan di dasar kotak, terbungkus kain lilin hitam bersegel ganda, ada sebuah penjepit nada.
+Dan di dasar kotak, terbungkus kain lilin hitam bersegel ganda, ada sebuah the Tone Clamp.
 
-Penjepit nada adalah barang yang dikenal semua penilai Guild: wadah Forge-era sebesar ibu jari untuk menyimpan satu irama utuh tanpa penurunan kualitas, biasa dipakai pedagang seni dan pengikat kontrak. Yang tidak biasa dari penjepit ini adalah usianya — sepuluh abad, tanpa satu gores pun — dan labelnya.
+the Tone Clamp adalah barang yang dikenal semua penilai Guild: wadah Forge-era sebesar ibu jari untuk menyimpan satu irama utuh tanpa penurunan kualitas, biasa dipakai pedagang seni dan pengikat kontrak. Yang tidak biasa dari penjepit ini adalah usianya — sepuluh abad, tanpa satu gores pun — dan labelnya.
 
 Label ditulis tangan, tinta hitam, tulisan tegas milik orang yang terbiasa menulis keputusan:
 
@@ -33,17 +33,17 @@ Di bawahnya, tanpa tanda tangan, satu inisial jabatan yang membuat ruangan arsip
 
 P.T.
 
-"Pembaca Tua," kata Sela.
+"the Old Reader," kata Sela.
 
 Ashvarok-Renn mengambil penjepit itu dari tangan Sela dengan hati-hati orang mengambil sesuatu yang sudah terlalu lama menunggu. Ia menutup matanya, mendengarkan isi penjepit lewat tubuhnya sendiri — the Walking Key bisa membaca wadah apa pun yang pernah ditenun Forge —
 
 Dan mendengarnya.
 
-Satu irama beku, sempurna, tersimpan tanpa kehilangan sedikit pun: lima nama yang disebut bersamaan oleh lima suara yang saling menyapa di tengah lagu. Nada yang dipotong pasukan pemenang dari malam itu — potongan persis dari detik ketika lagu malam Pembakaran Nama mencapai bagian yang oleh para penyanyi nat disebut bagian sahabat, karena di bagian itulah lima panglima bernyanyi bukan kepada raja mereka, tetapi kepada sahabat mereka sendiri.
+Satu irama beku, sempurna, tersimpan tanpa kehilangan sedikit pun: lima nama yang disebut bersamaan oleh lima suara yang saling menyapa di tengah lagu. Nada yang dipotong pasukan pemenang dari malam itu — potongan persis dari detik ketika lagu malam the Name-Burning mencapai bagian yang oleh para penyanyi nat disebut bagian sahabat, karena di bagian itulah lima panglima bernyanyi bukan kepada raja mereka, tetapi kepada sahabat mereka sendiri.
 
 "Kenapa Choir menyimpannya?" tanya Ondar, yang hadir membantu mengangkat gulungan pajak dan sejak tadi pura-pura sibuk dengan satu gulungan yang sama.
 
-"Karena Pembaca Tua tidak pernah percaya sejarah versi siapa pun," kata Ashvarok-Renn pelan. Ia masih memegang penjepit itu. "Termasuk versi Choir sendiri. Orang-orang seperti itu tidak menyimpan bukti untuk melindungi kebohongan. Mereka menyimpannya karena tahu suatu hari kebohongannya akan butuh dikoreksi... dan tidak mau koreksinya hilang."
+"Karena the Old Reader tidak pernah percaya sejarah versi siapa pun," kata Ashvarok-Renn pelan. Ia masih memegang penjepit itu. "Termasuk versi Choir sendiri. Orang-orang seperti itu tidak menyimpan bukti untuk melindungi kebohongan. Mereka menyimpannya karena tahu suatu hari kebohongannya akan butuh dikoreksi... dan tidak mau koreksinya hilang."
 
 Sela menulis di papan tulis kecilnya, lalu membacakan keras-keras:
 
@@ -55,7 +55,7 @@ Rencana disusun sore itu dan diselesaikan sebelum malam, karena kali ini tidak a
 
 Nada harus dikembalikan ke lagunya.
 
-Dan hanya ada satu cara: the Walking Key harus membuka penjepit itu di depan seam saksi, dengan Listen sebagai penerjemah, agar nada yang dicuri pulang ke tempatnya tanpa kehilangan bentuk.
+Dan hanya ada satu cara: the Walking Key harus membuka penjepit itu di depan the Witness Seam, dengan Listen sebagai penerjemah, agar nada yang dicuri pulang ke tempatnya tanpa kehilangan bentuk.
 
 "Ashvarok pergi sendirian," kata Kovan, bukan bertanya.
 
@@ -67,7 +67,7 @@ Dan hanya ada satu cara: the Walking Key harus membuka penjepit itu di depan sea
 
 Ada. Semua orang punya keberatan. Dan semua keberatan itu disampaikan, dihitung, ditimbang — dan tetap kalah oleh fakta bahwa tidak ada jalan lain yang tidak membuat lagu itu cacat selamanya.
 
-Subuhnya, Ashvarok-Renn berangkat dengan bekal ringan, satu kantong sup kering (sudah menjadi tradisi sejak kambing-kambing Vhal-Duren), dan penjepit nada yang dibawa menempel di dada seperti dulu pecahan kaca-batu perjanjian Brannoc pernah dibawa di saku yang sama.
+Subuhnya, Ashvarok-Renn berangkat dengan bekal ringan, satu kantong sup kering (sudah menjadi tradisi sejak kambing-kambing Vhal-Duren), dan the Tone Clamp yang dibawa menempel di dada seperti dulu pecahan cinder-glass perjanjian Brannoc pernah dibawa di saku yang sama.
 
 Brannoc, yang datang melihat berangkat, hanya berkata satu kalimat dari pintu barak:
 
@@ -78,7 +78,7 @@ Tiga hari Ashvarok-Renn tidak bisa didengar nat mana pun.
 
 Ketiga hari itu, menurut arsip Sela, adalah tiga hari paling pelan dalam sejarah barak the Quiet Vein era menyapa. Nat lorong menyala setengah — menahan diri dari memutar apa pun, seperti orang yang berbisik di rumah ada yang tidur. Kovan menghitung ulang persediaan musim hujan abu dua kali dan mendapat angka yang sama dua kali, yang olehnya dicatat sebagai "pertanda gugup". Barim duduk lebih lama dari biasanya di galeri sembilan, bersama nat favorit Pak Dekan, tidak bicara, hanya hadir.
 
-Sela mengerjakan hal yang satu-satunya pekerjaan arsiparis saat sumber utamanya sedang tidak bisa didengar: ia menata ulang arsip Hegemony seluruhnya. Semua gulungan dibaca sekali lagi, kali ini dengan mata baru. Karena kalimat Pembaca Tua itu — *kau menunggu saatnya* — berarti laki-laki itu tahu isi kotak pajaknya sendiri. Dan orang yang tahu isi satu kotak biasanya tahu isi kotak-kotak lain.
+Sela mengerjakan hal yang satu-satunya pekerjaan arsiparis saat sumber utamanya sedang tidak bisa didengar: ia menata ulang arsip Hegemony seluruhnya. Semua gulungan dibaca sekali lagi, kali ini dengan mata baru. Karena kalimat the Old Reader itu — *kau menunggu saatnya* — berarti laki-laki itu tahu isi kotak pajaknya sendiri. Dan orang yang tahu isi satu kotak biasanya tahu isi kotak-kotak lain.
 
 Di malam kedua, ia menemukan surat lain. Tersembunyi dengan cara yang sama, di balik sampul buku yang sama-sama membosankan: daftar inventaris gudang senjata wilayah timur.
 
@@ -86,7 +86,7 @@ Surat itu ditujukan tanpa nama penerima, dan dimulai tanpa basa-basi:
 
 *Kepada pemegang arsip ini pada masa ketika kebohongan sudah tua dan rapuh.*
 
-*Aku Pembaca Tua yang kesembilan belas. Jabatan ini memegang rekaman kematian api, dan karenanya aku memegang sesuatu yang lebih sulit: rekaman kematian cerita. Cerita tentang malam Pembakaran Nama adalah karya pemenang. Aku sudah membacanya berhadapan dengan rekaman asli milik jabatanku, dan aku menemukan perbedaan pada setiap garis pentingnya.*
+*Aku the Old Reader yang kesembilan belas. Jabatan ini memegang rekaman kematian api, dan karenanya aku memegang sesuatu yang lebih sulit: rekaman kematian cerita. Cerita tentang malam the Name-Burning adalah karya pemenang. Aku sudah membacanya berhadapan dengan rekaman asli milik jabatanku, dan aku menemukan perbedaan pada setiap garis pentingnya.*
 
 *Aku tidak bisa mengoreksinya. Jabatan ini hidup karena diam; itulah harganya, dan aku membayarnya.*
 
@@ -127,4 +127,4 @@ Sela menahan napasnya. "Dan harganya?"
 
 Dari ujung dapur, tanpa menoleh dari tunggunya, ibu Tamma berkata: "Bagus. Karena sup siap lima menit lagi dan kalau kau makan setengah porsi lagi seperti kemarin, aku yang menagih ke the Remainder."
 
-Maka pagi itu, untuk pertama kalinya setelah seribu tahun, lagu malam Pembakaran Nama utuh lagi — dan orang yang namanya hilang dari lagu itu sarapan dua porsi.
+Maka pagi itu, untuk pertama kalinya setelah seribu tahun, lagu malam the Name-Burning utuh lagi — dan orang yang namanya hilang dari lagu itu sarapan dua porsi.

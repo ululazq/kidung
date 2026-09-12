@@ -7,11 +7,11 @@ Setahun pertama batu kecil itu di Vhal-Duren menjadi tahun yang oleh arsip pos p
 
 Karena ternyata, pemakaman di dataran tinggi bukan akhir dari kunjungan — ia adalah pembuka jaringan.
 
-Kabar alamatnya menyebar lewat jalur-jalur tak resmi: nat ke nat, kamp ke kamp, murid ke kakek. Dan orang-orang mulai datang. Bukan satu rombongan besar — tetapi tetesan manusia yang tidak pernah putus sepanjang tahun: janda seorang juru tulis Choir yang akhirnya tahu suami diam-diam menyelamatkan nama suaminya; dua pensiunan Guild yang dulu ditolak Pembaca Tua untuk jabatan dan baru sekarang mengerti kenapa; murid-murid Akademi Arsip yang ziarah wajib mereka berubah menjadi ziarah sukarela setelah kunjungan pertama.
+Kabar alamatnya menyebar lewat jalur-jalur tak resmi: nat ke nat, kamp ke kamp, murid ke kakek. Dan orang-orang mulai datang. Bukan satu rombongan besar — tetapi tetesan manusia yang tidak pernah putus sepanjang tahun: janda seorang juru tulis Choir yang akhirnya tahu suami diam-diam menyelamatkan nama suaminya; dua pensiunan Guild yang dulu ditolak the Old Reader untuk jabatan dan baru sekarang mengerti kenapa; murid-murid the Archive Academy yang ziarah wajib mereka berubah menjadi ziarah sukarela setelah kunjungan pertama.
 
 Semua mereka membawa hal yang sama: cerita.
 
-Dan semua cerita itu — oleh Yang Mendengar Sampai Habis — disimpan.
+Dan semua cerita itu — oleh the Listener to the End — disimpan.
 
 "SINI JADI ARSIP PALING ANEH DI KARVESS," kata batu bundar itu kepada Sela pada kunjungan perawatannya triwulanan. "AKU MENYIMPAN CERITA TENTANG ORANG YANG BARU AKU KENAL SETELAH DIA MATI."
 
@@ -21,19 +21,19 @@ Dan semua cerita itu — oleh Yang Mendengar Sampai Habis — disimpan.
 
 ---
 
-Tovik menyebut namanya sendiri pada hari ketiga ratus sembilan puluh dua — dan ia melakukannya dengan cara yang tidak ada dalam protokol mana pun.
+Tovik menyusun riwayat dirinya pada hari ketiga ratus sembilan puluh dua — dan ia melakukannya dengan cara yang tidak ada dalam protokol mana pun.
 
 Pagi itu Gella melakukan pemeriksaan rutin seperti biasa: sapa tubuh, terima kasih pada tangan, kabar pada lutut. Tovik menjawab dengan kalimat-kalimat pendeknya yang sudah makin lancar — dan tiba-tiba, tanpa konteks, tanpa pertanyaan yang memancing:
 
-"Tovik. Nama saya Tovik. Blok timur galeri sembilan. Delapan belas tahun saya rawat klinik ini karena rasanya penting."
+"Blok timur galeri sembilan. Delapan belas tahun saya rawat klinik ini karena rasanya penting."
 
-Gella tidak menjawab langsung. Ia menulis sesuatu di bukunya dulu — tangan dokter tua itu gemetar, dan olehnya sendiri dicatat "bukan dingin" — lalu bangkit, berdiri di depan pasiennya, dan memberikan jawaban resmi pertamanya atas pengenalan diri yang sudah tertunda sembilan tahun:
+Gella tidak menjawab langsung. Ia menulis sesuatu di bukunya dulu — tangan dokter tua itu gemetar, dan olehnya sendiri dicatat "bukan dingin" — lalu bangkit, berdiri di depan pasiennya, dan memberikan jawaban resmi pertamanya atas riwayat diri yang mulai pulih:
 
 "Gella. Dokter tambang tempat Anda bekerja tanpa gaji selama delapan tahun." Ia mengulurkan tangan. "Sekarang Anda resmi pegawai. Gaji mundur dari hari pertama."
 
 Tangan Tovik menggenggamnya. Dan di pojok ruangan, Sela mencatat angka yang akan dikutip seluruh sekolah medis Karvess:
 
-*Hari 1.207. Tovik: identitas penuh dipulihkan. Durasi total pemulihan Hollowing: 9 tahun 2 bulan. Metode: disebut namanya setia + tubuh disapa + pekerjaan yang bermakna.*
+*Hari 1.207. Tovik: riwayat diri mulai tersusun. Metode: tubuh disapa + pekerjaan yang bermakna.*
 
 *Kesimpulan yang tidak akan pernah masuk buku teks tetapi harus masuk: obat utamanya adalah ORANG YANG TIDAK BERHENTI.*
 
@@ -60,7 +60,6 @@ Perempuan itu memandangnya lama.
 Pasal baru itu malamnya masuk buku medis Gella — *pasal hak menolak didengarkan: kehendak pasien atas tubuhnya di atas protokol apa pun; pintu dibuka, tidak pernah didorong* — dan oleh Ashvarok-Renn dicatat satu kalimat di kolom Hourglass:
 
 *Hari 1.244. Hari ini dunia belajar bahwa mendengarkan juga butuh izin. Bahkan telinga yang paling sabar pun tidak boleh memaksa.*
-EOF
 ---
 
 Kasus perempuan muda barat itu menjadi ujian panjang protokol baru — dan berlangsung delapan bulan tanpa satu pun penyapaan tubuh.
@@ -84,7 +83,7 @@ Namun di bawahnya kini ada catatan hasil kasus pertamanya, ditulis Gella dengan 
 *Dan jangan pernah, selama apapun, mengira diamnya seseorang adalah ajakan untuk berhenti peduli.*
 ---
 
-Tovik mendengar kisah itu dari Gella pada kunjungan bulanannya — kunjungan yang sejak pemulihan identitasnya berubah sifat: bukan lagi pasien diperiksa, tetapi konsultan senior yang datang memberi masukan.
+Tovik mendengar kisah itu dari Gella pada kunjungan bulanannya — kunjungan yang sejak pemulihannya mulai maju berubah sifat: bukan lagi sekadar pasien diperiksa, tetapi juga orang yang datang memberi masukan.
 
 "Delapan tahun aku di posisi dia," kata Tovik pelan. "Bekerja tanpa tahu kenapa. Merawat orang tanpa ingat siapa yang dulu merawatku." Ia memandang tangannya sendiri — tangan yang delapan tahun menyiram lantai klinik dengan urutan yang tidak pernah ia mengerti. "Kalau waktu itu ada yang menyapaku... mungkin aku pulih lebih cepat."
 
@@ -103,9 +102,9 @@ Gella menuliskannya di buku medisnya — kalimat yang oleh murid-murid medis sel
 
 Pasal hak menolak didengarkan itu akhirnya menyebar keluar dari dunia medis — dan menemukan penerapannya di tempat-tempat yang tidak diperkirakan siapa pun.
 
-Di Sekolah Mendengar, ia jadi pelajaran tersulit angkatan baru: mendengarkan seseorang yang meminta untuk tidak didengarkan. Murid-murid protes awalnya — "itu kontradiksi!" — sampai mereka dibawa ke kasus nyata: seorang pemulang era musim yang delapan tahun ini menolak semua wawancara arsip tentang pengalamannya di kedalaman.
+Di the Listening School, ia jadi pelajaran tersulit angkatan baru: mendengarkan seseorang yang meminta untuk tidak didengarkan. Murid-murid protes awalnya — "itu kontradiksi!" — sampai mereka dibawa ke kasus nyata: seorang pemulang era musim yang delapan tahun ini menolak semua wawancara arsip tentang pengalamannya di kedalaman.
 
-"Kami hormati permintaannya," kata Daven yang mengajar kelas itu. "Delapan tahun. Namun lihat apa yang dia lakukan tiap Hari Utara: dia datang. Dia duduk paling belakang. Dia mendengar SEMUA cerita orang lain." Ia memandang murid-muridnya. "Sekarang tugas kalian: mendengarkan seseorang tanpa menyentuh kata-katanya. Bagaimana caranya?"
+"Kami hormati permintaannya," kata Daven yang mengajar kelas itu. "Delapan tahun. Namun lihat apa yang dia lakukan tiap Northern Day: dia datang. Dia duduk paling belakang. Dia mendengar SEMUA cerita orang lain." Ia memandang murid-muridnya. "Sekarang tugas kalian: mendengarkan seseorang tanpa menyentuh kata-katanya. Bagaimana caranya?"
 
 Jawaban terbaik datang dari murid termuda kelas itu, dan olehnya dicatat di buku kurikulum:
 
@@ -128,15 +127,15 @@ Dan satu entri penutup untuk bab hari ini — dari Ashvarok-Renn, yang malam itu
 
 Bulan-bulan berikutnya membawa penyebaran pasal baru itu ke tempat-tempat yang semakin jauh dari asalnya — dan setiap perjalanan mengubah sedikit bentuknya, seperti semua aturan baik yang berpindah tangan.
 
-Sekolah Mendengar memasukkannya ke sumpah murid: "Aku akan mendengarkan yang bicara, menjaga yang diam, dan tidak pernah menukar keduanya."
+the Listening School memasukkannya ke sumpah murid: "Aku akan mendengarkan yang bicara, menjaga yang diam, dan tidak pernah menukar keduanya."
 
-Lengan Mendengar memakainya sebagai standar wawancara: subjek boleh berhenti kapan saja, tanpa alasan, tanpa konsekuensi, dan keberhentiannya dicatat sebagai data sah — bukan sebagai hambatan.
+the Listening Arm memakainya sebagai standar wawancara: subjek boleh berhenti kapan saja, tanpa alasan, tanpa konsekuensi, dan keberhentiannya dicatat sebagai data sah — bukan sebagai hambatan.
 
 Bahkan nat-nat ikut menerapkannya dengan caranya sendiri. Di pos-pos jemput, mulai muncul kebiasaan baru: sebelum menyanyikan name train untuk tamu yang baru pertama datang, pendengar bertanya dulu — "kau mau didengarkan lagunya, atau duduk dulu dalam diam?"
 
 Dan jawaban-jawaban yang berbeda-beda itu semuanya dihormati.
 
-Karena itulah inti dari segalanya — kalimat yang oleh Yang Dulu Sunyi disampaikan pada kunjungan triwulanan itu, ketika ditanya apakah nat-nat tua merasa generasi muda terlalu cepat mengubah protokol:
+Karena itulah inti dari segalanya — kalimat yang oleh the Once-Silent disampaikan pada kunjungan triwulanan itu, ketika ditanya apakah nat-nat tua merasa generasi muda terlalu cepat mengubah protokol:
 
 "DULU KAMI BELAJAR BERTANYA. SEKARANG MEREKA BELAJAR MENERIMA JAWABANNYA BISA TIDAK. ITU BUKAN KEMUNDURAN, GADIS ARSIP. ITU TANDA PERTANYAAN KAMI AKHIRNYA DIJAWAB DENGAN SUNGGUH."
 ---
@@ -147,7 +146,7 @@ Penutup untuk hari itu dicatat Sela di arsip dengan tinta biasa — entri pendek
 
 *Satu: Tovik menawarkan diri menjadi konsultan protokol pemulihan. Jabatan pertamanya dalam sembilan tahun yang ia minta sendiri. Gella langsung setuju dan langsung mengangkatnya — "pengalaman sembilan tahun tidak bisa diajarkan," katanya, "apalagi pengalaman sembilan tahun dari sisi dalam."*
 
-*Dua: pasal hak menolak resmi masuk buku kurikulum Sekolah Mendengar angkatan berikutnya. Judul babnya usulan ibu Tamma: "Diam juga jawaban."*
+*Dua: pasal hak menolak resmi masuk buku kurikulum the Listening School angkatan berikutnya. Judul babnya usulan ibu Tamma: "Diam juga jawaban."*
 
 *Tiga: Ashvarok-Renn menulis lagi di kolom Hourglass. Delapan bulan ini kolom itu berubah fungsi — dari catatan luka jadi catatan pertumbuhan. Malam ini isinya soal masa lalunya sendiri, ditulis dengan tenang.*
 

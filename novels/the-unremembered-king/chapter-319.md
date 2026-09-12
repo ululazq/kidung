@@ -71,7 +71,7 @@ Perawat tua menulis di buku catatan: *Pemeriksa lapangan datang. Hanya angka yan
 
 ---
 
-Malam itu Ashvarok-Renn kembali ke barak dan membuka buku anomali. Ia menulis satu baris di bawah catatan eskalasi:
+Malam itu Ashvarok-Renn kembali ke barak dan membuka the Anomaly Book. Ia menulis satu baris di bawah catatan eskalasi:
 
 *Pemeriksa lapangan datang ke menara. Dua suara (Mira + Ashvarok-Renn) hanya beri angka. Katup tidak disebut di kertas resmi. Institusi penghisap gagal dapat narasi/mekanisme lewat celah ini. Jejak mereka makin jelas: mereka memanen lewat tujuh seam, dan celah menara adalah simpul kedua yang kini mereka sentuh tetapi tidak kuasai. Kita tetap tak bernama di arsip mereka = tak bisa dipanggil.*
 
@@ -91,7 +91,7 @@ Kovan menarik peta Ossian dan menandai celah menara dengan angka dua. "Satu adal
 
 ---
 
-Di halaman barak, dua belas anak Sekolah Mendengar berlatih di bawah arahan Sela. Kali ini bukan hanya ketukan — melainkan cara berdiri di ambang saat orang asing datang.
+Di halaman barak, dua belas anak the Listening School berlatih di bawah arahan Sela. Kali ini bukan hanya ketukan — melainkan cara berdiri di ambang saat orang asing datang.
 
 "Kalian berdua di ambang," kata Sela pada dua anak angkatan keempat. "Satu sebagai saksi, satu sebagai penjaga irama. Kalau ditanya mengapa, jawab dengan angka."
 
@@ -105,7 +105,7 @@ Ashvarok-Renn mengamati dari serambi. Generasi berikutnya kini menghafal bukan h
 
 ---
 
-Malamnya ia membuka buku anomali dan menulis di bawah catatan tentang pemeriksa:
+Malamnya ia membuka the Anomaly Book dan menulis di bawah catatan tentang pemeriksa:
 
 *Hasil pemeriksa: laporan hanya angka, arsip curiga tetapi tanpa dasar resmi. Institusi penghisap gagal dapat narasi/mekanisme di celah menara (simpul ke-2 dari 7 seam). Mereka butuh orang di dalam yang mau buka katup — kita tidak beri. Jejak mereka: memanen artefak Hegemony + tarikan celah lewat pos utara, satu Throne di balik Choir. Kita tidak sebut nama. Simpul ke-1 (Testament) & ke-2 (menara) kini kita kenali. Lima lagi belum. Benang kita tetap tak bernama di arsip = tak bisa dipanggil.*
 
@@ -133,7 +133,7 @@ Brannoc mengunyah akar pahit di ambang. "Bel barak utara berdenting tiga detik s
 
 "Dan mereka pulang dengan tangan kosong," kata Sela. "Dua suara, satu irama, tanpa cerita."
 
-Ashvarok-Renn menatap papan world-state barak. Di bawah catatan tiga simpul, ia menulis baris baru: *Pemeriksa pulang tangan kosong. Simpul kedua Spire melepas tarikan. Lima simpul seam lagi belum dikenal. Kita tetap tak bernama.*
+Ashvarok-Renn menatap papan keadaan barak. Di bawah catatan tiga simpul, ia menulis baris baru: *Pemeriksa pulang tangan kosong. Simpul kedua Spire melepas tarikan. Lima simpul seam lagi belum dikenal. Kita tetap tak bernama.*
 
 Ia meletakkan kapur. Di halaman, dua belas anak masih menghafal ketukan, suara mereka belum satu pun tercatat di arsip mana pun. Benang yang kita tarik kini telah melewati ujian pertamanya, dan ujian itu membuktikan bahwa diam yang dijaga dengan angka lebih kuat daripada pertanyaan dari siapa pun yang memegang cap arsip. Ia mengetuk tiga kali ke serambi, berhenti sehentakan. Di ujung benang yang memanen, meja di ruang bawah Spire kini menyimpan laporan yang hanya berisi angin — dan angin, tidak seperti besi, tidak pernah memberi mereka kunci.
 

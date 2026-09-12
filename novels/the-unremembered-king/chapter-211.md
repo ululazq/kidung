@@ -25,70 +25,102 @@ Pemilik warung itu — perempuan paruh baya yang mendengar semua cerita jalan ra
 
 ---
 
-Nat lorong empat Karven ternyata memang menyimpan sesuatu — bukan jiwa, melainkan CATATAN: setiap kematian pekerja Karven selama tiga generasi tercatat getarnya, karena para janda dan keluarga secara tradisi datang "berpamitan" ke lorong itu tanpa tahu bahwa pamitan mereka benar-benar diterima dan disimpan.
+Nat lorong empat Karven memang menyimpan sesuatu—bukan jiwa, melainkan gema dari era api upacara. Denyut yang selama tiga generasi muncul setiap kali seorang pekerja meninggal ternyata bukan panggilan kematian. Kematian hanya membuat orang Karven menyalakan tungku lorong, membunyikan palu tiga kali, lalu mengucapkan pamit. Rangkaian itulah yang membangunkan lapisan gema jauh lebih tua di dalam nat.
 
-Pasangan hitung bekerja di lorong itu satu hari penuh sebelum menyampaikan temuannya, karena protokol yang mereka tulis bersama Sela mewajibkan pembacaan ganda untuk setiap kesimpulan yang akan mengubah hidup banyak orang. Hasil pembacaannya konsisten: dua puluh enam pamitan utuh, disimpan lengkap dengan suara aslinya.
+Pasangan hitung bekerja satu hari penuh tanpa saling menunjukkan kesimpulan. Protokol dua jalur yang mereka susun bersama Sela mewajibkan pembacaan terpisah: Kovan mengikuti jarak antar denyut dan pengulangan irama; anak Pak Dekan membaca arah hangat melalui telapaknya. Masing-masing menulis hasil di lembar berbeda, melipatnya, lalu menyerahkannya kepada kepala tambang sebelum dibandingkan.
 
-Ketika Kovan menjelaskan hal ini kepada kepala tambang Karven — bahwa nat itu bukan kutukan melainkan BUKU TAMU — orang tua itu harus duduk. Tiga generasi tambangnya melarang anak-anak mendekati lorong empat karena "nat yang berdenyut itu pertanda buruk"; papan larangan kayunya masih tergantung di mulut lorong, dan kepala tambang menatap papan itu lama setelah mendengar penjelasannya.
+Catatan Kovan berbunyi: "Empat rangkaian. Bukan hitungan korban. Pola arak-arakan."
 
-"Justru sebaliknya," kata Kovan, mengikuti arah pandang lelaki tua itu. "Itu pertanda bahwa tidak ada satu pun orang kalian yang mati tanpa disimak. Nat ini tidak menunggu kematian. Dia MENCATAT perpisahan — karena perpisahan adalah saat manusia bicara paling jujur."
+Catatan anak Pak Dekan berbunyi: "Hangat berpindah dari tangan ke tangan. Bukan orang mati. Api yang dibawa."
 
-Kepala tambang itu diam lama. Lalu bertanya pertanyaan yang membuat pasangan hitung saling pandang:
+Kesimpulan mereka sama. Nat itu merekam upacara lama ketika para pekerja Karven membawa nyala dari mulut lorong menuju tungku bawah tanah, satu orang ke orang berikutnya, sambil menyebut nama-nama yang tidak lagi dikenal bahasa Karvess sekarang. Denyut saat kematian hanyalah gema jawaban: palu, api, dan pamitan modern kebetulan mengulang susunan upacara lama cukup dekat untuk membangunkannya.
 
-"Nat-nat di kota kalian... semuanya begini?"
+Kepala tambang harus duduk setelah Kovan selesai menjelaskan. Papan larangan kayu masih tergantung di mulut lorong: JANGAN MASUK SAAT NAT BERDENYUT. Ia memandang tulisan itu lama.
 
-"Tidak," kata Kovan jujur. "Yang kami temukan kemarin, sebelas nat kecil di sepanjang jalan dari Caldrest — mungkin juga menyimpan sesuatu yang tidak kita duga. Kami baru belajar bahwa kita belum pernah benar-benar TANYA ke nat mana pun sebelum delapan bulan silam. Semua orang hanya takut, atau manfaat, atau abaikan." Buku hitungannya ditepuk pelan. "Tiga generasi kalian takut. Kami puluhan tahun memanfaatkan tanpa pamit. Bedanya tipis."
+"Jadi tiga generasi kami lari dari upacara penyambutan?"
 
-"Dan kalau semua nat di dunia ini seperti lorong empat kami?"
+"Dari gema upacara," kata Kovan. "Kami belum tahu siapa yang disambut. Kami juga belum tahu kenapa apinya dibawa ke bawah."
 
-"Maka dunia ini," kata anak Pak Dekan pelan — kalimat pertamanya dalam pembicaraan resmi dengan kepala tambang, "punya lebih banyak pendengar daripada yang pernah kita hitung."
+"Namun kalian tahu ini bukan kutukan."
 
-"Dan lebih sedikit monster," kata kepala tambang tua.
+Anak Pak Dekan mengangkat kedua lembar yang kini terbuka berdampingan. "Dua jalur membaca hal yang sama. Kalau salah satu dari kami keliru, hasilnya tidak akan bertemu setepat ini."
 
-Ia bangkit, menarik papan larangan itu dari pakunya sendiri, dan membawanya keluar lorong dengan dua tangan. "Bawa ini ke arsip kalian. Supaya generasi berikutnya tahu betapa pintarnya orang-orang dulu: menutup pintu yang ternyata telinga."
+Kepala tambang menyentuh papan larangan, tetapi belum menurunkannya. "Bacakan yang bisa kalian dengar. Jangan isi bagian kosong dengan tebakan."
 
-Hasil misi: Karven meminta dua hal — pelatihan pendengar untuk tambangnya (dua calon dikirim ke the Veyl Akademie bulan depan), dan satu permintaan pribadi dari kepala tambang yang membuat pasangan hitung diam: "Kalau nat itu bisa menyimpan pamitan... tolong bacakan isi simpanannya pada janda-janda yang masih hidup. Mereka sudah lama tidak yakin bahwa suami mereka mendengar."
+Mereka kembali ke nat. Kali ini kepala tambang ikut berdiri di batas aman, bersama enam pekerja tertua yang hafal bunyi lorong lebih baik daripada bunyi rumah sendiri. Kovan mengetuk batu dengan pola yang sudah dihitungnya. Anak Pak Dekan menempelkan telapak, lalu mengangkat satu jari setiap kali hangat berpindah arah.
 
-Sebelum permintaan itu disetujui, anak Pak Dekan bertanya satu pertanyaan protokol — pertanyaan yang menunjukkan betapa delapan belas tahun dalam penyimpanan telah mengajarinya sesuatu tentang kesabaran:
+Gema itu terbuka sedikit demi sedikit.
 
-"Kita harus tanya dulu ke mereka yang di dalam. Bukan semua gema suap didengarkan orang asing. Ada yang hanya mau didengar keluarganya."
+Mula-mula bunyi langkah banyak orang. Lalu gesek logam, desir nyala yang dijaga dari angin, dan suara kelompok mengulang satu frasa pada setiap perpindahan api. Sebagian besar suku katanya aus. Satu nama tetap utuh karena diucapkan pada awal dan akhir setiap rangkaian:
 
-Kepala tambang tua menatap anak muda itu lama — orang yang tidak tahu kisahnya pasti mengira ia sedang menatap pegawai muda yang sok bijak; orang yang tahu melihat sesuatu yang jauh lebih langka: seseorang yang pernah berada di sisi lain pintu itu dan ingat rasanya.
+"Kael-Uthar."
 
-"Kau benar," kata kepala tambang akhirnya. "Tanyakan. Dan kalau ada yang tidak mau... papan larangan lama masih bisa dipasang balik. Kali ini untuk alasan yang benar."
+Kovan menulisnya tiga kali, menyisakan ruang lebar di bawahnya. Anak Pak Dekan mendengarkan hangat yang bertahan di telapak dan memberi terjemahan sementara, dengan dua garis tanya seperti ajaran Sela untuk arti yang belum pasti.
+
+"Yang dititip api."
+
+"Orang?" tanya kepala tambang.
+
+"Bisa orang. Bisa gelar. Bisa tempat," jawab Kovan. "Kalau kami memilih sekarang, pilihan itu akan masuk arsip dan seratus orang sesudah kami akan mengira pilihan itu fakta. Jadi kami tidak memilih."
+
+Salah satu pekerja tua berdeham. "Kalian datang jauh-jauh untuk bilang belum tahu?"
+
+"Kami datang untuk memisahkan yang diketahui dari yang belum," kata anak Pak Dekan. "Lorong ini menyimpan gema api upacara. Itu diketahui. Kael-Uthar ada di dalamnya. Itu diketahui. Apa Kael-Uthar sebenarnya, belum."
+
+Pekerja tua itu mengangguk pelan. "Bagus. Tambang runtuh kalau orang mengaku tahu batu yang belum diketuk."
+
+Kepala tambang akhirnya mencabut papan larangan dari pakunya. Ia tidak mematahkannya. Ia membalik papan itu dan menyerahkannya kepada Kovan.
+
+"Tulis aturan baru."
+
+Kovan memberikan arang kepada anak Pak Dekan. Tulisan yang muncul di sisi belakang lebih pendek:
+
+DI SINI API LAMA MASIH BICARA. MASUK BERPASANGAN. CATAT SEBELUM MENAFSIRKAN.
 
 ---
 
-Pembacaan pamitan lorong empat dilakukan seminggu kemudian, dan menjadi peristiwa yang mengubah Karven selamanya: dua puluh enam janda dan keluarga duduk di lorong yang tiga generasi mereka takuti, mendengarkan nama-nama suami mereka dibacakan dari nat — lengkap dengan pamitan terakhir masing-masing yang ternyata disimpan utuh.
+Pembacaan kedua dilakukan keesokan paginya di hadapan pekerja Karven. Bukan pertunjukan, kata Kovan berkali-kali; pengujian. Para pekerja diminta membawa catatan bunyi yang pernah mereka dengar sendiri. Pasangan hitung tidak membaca catatan itu sampai setelah nat selesai diperiksa, lalu mencocokkan keduanya di meja kepala tambang.
 
-Protokol pembacaannya disusun pasangan hitung dengan bantuan Ossian, dan aturan pertamanya adalah aturan yang paling sering dikutip kemudian: urutan pembacaan bukan urutan kematian, tetapi urutan permintaan keluarga. Yang siap duluan didahulukan. Yang butuh waktu lebih lama, diberi waktu.
+Tiga pola yang dianggap para pekerja sebagai pertanda buruk ternyata bagian dari susunan upacara yang sama. Denyut pendek sebelum pergantian regu mengikuti irama langkah arak-arakan. Hangat di dinding timur muncul di tempat gema obor berpindah tangan. Bunyi panjang setelah palu pamitan adalah jawaban terakhir upacara, bukan ancaman.
 
-Yang tidak diantisipasi siapa pun: beberapa keluarga datang membawa balasan. Seorang janda tua membawa secangkir teh dan meletakkannya di depan nat sebelum pembacaan suami mulai — "dia suka minta teh tiap kali dia pulang bekerja; sekali ini aku yang bawa duluan". Seorang anak laki-laki dewasa, yang ayahnya mati saat ia masih kecil, membawa mainan kayu buatannya sendiri: "agar dia tahu akhirnya aku bisa membuat sesuatu."
+"Selama ini kami memberi makan gema tanpa tahu," kata kepala regu malam.
 
-Pasangan hitung mencatat semua itu tanpa perlu berdebat soal protokol: nat-nat menyimpan pemberian. Mereka sudah tahu itu dari teh Pak Dekan. Namun hari itu mereka belajar hal baru — pemberian untuk nat ternyata membuat SUARA pamitan lebih jelas saat dibacakan. Seolah barang yang dibawa dengan cinta membersihkan jalur antara dua dunia.
+"Dan gema menjawab tanpa tahu kalian sudah lupa bahasanya," kata Kovan.
 
-"Catat itu," kata Kovan kepada anak Pak Dekan. "Bukan sebagai teori. Sebagai pertanyaan pekan depan."
+"Kalau begitu siapa yang harus belajar dulu?"
 
-Salah satu pamitan itu, dari seorang pekerja tua kepada istrinya, membuat seluruh lorong menangis sekaligus:
+"Keduanya," jawab anak Pak Dekan. "Kita belajar mendengar. Nat belajar kebiasaan kita sekarang."
 
-"Bilang ke istriku, teh di meja kemarin enak. Aku lupa bilang pagi-pagi."
+Itu kalimat yang mengubah permintaan Karven. Semula kepala tambang hendak meminta pasangan hitung datang setiap kali lorong berdenyut. Setelah pembacaan kedua, ia meminta dua kursi murid di the Veyl Akademie.
 
-Istri pekerja itu — nenek delapan puluhan yang hadir digandeng cucunya — menjawab pamitan itu keras-keras kepada nat, tanpa diminta siapa pun dan tanpa tahu bahwa itulah hal yang paling benar yang bisa dilakukan:
+"Kami tidak mau menyewa telinga Caldrest selamanya," katanya. "Ajari dua orang kami sampai mereka bisa membedakan gema, peringatan, dan ketakutan sendiri."
 
-"Sama-sama. Teh besok juga aku membuat."
+"Akademi menerima murid luar," kata Kovan. "Namun mereka mulai dari dasar. Tidak ada jalan pintas karena tambang kalian sudah tua."
 
-Nat lorong empat menjawab dengan satu denyut panjang — denyut yang oleh pasangan hitung dicatat sebagai irama baru, belum pernah muncul dalam arsip mana pun, dan diterjemahkan Kovan seminggu kemudian setelah berkonsultasi dengan kedalaman Caldrest lewat surat:
+"Bagus. Tambang juga tidak memberi jalan pintas."
 
-"Pamitan itu bukan ucapkan selamat tinggal. Pamitan itu titipan. Dan titipan yang dijawab... bukan lagi titipan. Itu percakapan."
+Dua calon dipilih sebelum sore: satu pekerja regu malam yang hafal seluruh bunyi lorong, dan satu juru api yang selama dua puluh tahun menjaga tungku tanpa pernah membiarkannya padam. Mereka akan berangkat ke Caldrest bulan berikutnya, membawa salinan pola Kael-Uthar dan papan larangan lama untuk Arsip.
 
-Sejak hari itu, tradisi baru lahir di Karven: lorong empat dibuka tiap sore untuk siapa pun yang ingin "menyapa dan menunggu jawab". Papan kayunya tidak dipasang kembali. Di tempatnya, kepala tambang memasang papan baru dengan tulisan tangan yang goyah:
+Sebelum pasangan hitung pulang, kepala tambang meminta satu hal lagi. "Nama tadi—Kael-Uthar. Kalau arsip kalian menemukan jejak lain, kirim kabar."
 
-"DI SINI BOLEH BICARA. DI SINI SEMUA DENGAR."
+"Kami akan kirim pertanyaan lebih dulu," kata Kovan. "Kabar menyusul kalau jawabannya ada."
 
-Ketika pasangan hitung meninggalkan Karven pada pagi ketiga, setengah kota datang ke gerbang timur untuk mengantar mereka — bukan upacara resmi, hanya orang-orang yang ingin melihat dua pemuda yang datang menanyakan kabar nat mereka. Pemilik warung di tengah jalan menerima kabarnya lewat pedagang hari itu juga, dan sorenya ia melempar lilin ke sumur belakang warungnya seperti biasa — tetapi kali ini sambil berkata dengan keras-keras, untuk pertama kalinya dalam empat puluh tahun:
+---
 
-"Nenek, aku tidak tahu siapa yang kau menyapa di bawah sana. Namun mulai sekarang aku menyapa balik."
+Di jalan pulang, sebelas nat kecil yang mereka tandai dua hari sebelumnya tidak lagi terasa seperti gangguan di peta. Mereka menjadi sebelas pertanyaan dengan lokasi jelas. Pasangan hitung berhenti di sumur belakang warung peristirahatan, tempat pemiliknya menunggu kabar sambil menggenggam lilin sesuai pesan neneknya.
 
-Dan nat-nat kecil sepanjang jalan dagang Caldrest-Karven — sebelas titik yang ditemukan dua pemuda dalam dua hari — mulai mendapat pengunjung. Satu per satu. Pertama karena penasaran. Lalu karena kebiasaan. Lalu karena, kata anak Pak Dekan dalam laporannya yang ditulis di jalan pulang dengan huruf senang sekali, "orang-orang akhirnya tahu bahwa menyapa tidak perlu alasan".
+"Kutukan?" tanyanya.
 
-Di pos jemput ketujuh berdiri bangku kayu kecil buatan keluarga keturunannya, menghadap ladang — kursi untuk siapa pun yang ingin menemani gandum bergoyang, seperti pesan lama Vess-Morath. Jarang ada jam di mana bangku itu menganggur. Tanpa sengaja Caldrest mempelopori kesenangan menonton gandum bergoyang, jauh sebelum dunia punya kata untuknya.
+"Bukan," jawab anak Pak Dekan. "Gema api upacara. Kami belum tahu sisanya."
+
+Perempuan itu tampak lega, lalu kecewa, lalu lega lagi. "Belum tahu ternyata lebih enak daripada salah takut."
+
+Ia menjatuhkan lilin ke sumur dan berkata keras-keras, untuk pertama kalinya dalam empat puluh tahun, "Nenek, aku masih menjalankan pesanmu. Kalau ada alasan lain, bilang pelan-pelan. Sekarang ada sekolah untuk orang yang mau mendengar."
+
+Nat kecil di bawah sumur menjawab dengan hangat yang tipis. Kovan mencatatnya sebagai pengamatan, bukan kesimpulan.
+
+Laporan misi pertama pasangan hitung tiba di meja Sela dua hari kemudian: metode dua jalur terbukti; dua murid luar akan datang dari Karven; sebelas nat jalan dagang menunggu pemeriksaan; dan satu frasa era api upacara diberi halaman sendiri dalam indeks baru.
+
+KAEL-UTHAR—terjemahan sementara: YANG DITITIP API. JANGAN TETAPKAN MAKNA SEBELUM JEJAK KEDUA.
+
+Tiga hari kemudian, Sela menemukan jejak kedua. Mereka pulang dengan langkah terpisah, tetapi membawa keputusan yang sama.

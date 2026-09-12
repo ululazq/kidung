@@ -99,7 +99,7 @@ Pekan depan kita cari tahu.
 
 ---
 
-Namun sebelum itu, satu kabar kecil yang membuat seluruh tim tersenyum sepanjang hari: Lompa mendaftarkan dirinya sebagai siswa Sekolah Mendengar angkatan kedua.
+Namun sebelum itu, satu kabar kecil yang membuat seluruh tim tersenyum sepanjang hari: Lompa mendaftarkan dirinya sebagai siswa the Listening School angkatan kedua.
 
 "Guru menenun boleh belajar mendengar juga," katanya saat ditanya. "Delapan puluh tahun saya baca kain. Baru minggu ini saya dengar batu bicara. Itu artinya saya masih bisa belajar." Ia melipat selendangnya. "Dan kalau nenek tua saja masih daftar sekolah, anak-anak tidak punya alasan malas."
 
@@ -129,7 +129,7 @@ Bahkan persiapan pun sudah mulai bicara. Proyek ini tidak pernah berhenti mengaj
 
 Dan satu hal terakhir, yang membuatku menambahkan entri kedua di malam yang sama (kejadian langka):
 
-Ketika aku pulang melewati nat lorong barak utara — Yang Dulu Sunyi — ada suara dari dalam. Bukan gema keluarga, bukan pantun, bukan irama panen.
+Ketika aku pulang melewati nat lorong barak utara — the Once-Silent — ada suara dari dalam. Bukan gema keluarga, bukan pantun, bukan irama panen.
 
 Suara anak kecil.
 

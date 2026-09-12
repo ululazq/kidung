@@ -23,7 +23,7 @@ Sunyi gudang itu berubah kualitas. Brannoc berhenti mengunyah.
 
 Maera diam lama, dan ketika bicara suaranya lebih rendah dari biasanya. "Seberapa besar kemungkinan mereka menelusuri sampai ke manusianya?"
 
-"Kalau mereka datang dan menemukan retakan yang mati rapi, dais batu polos, dan geometri yang jujur — mungkin mereka pergi lagi. Mungkin." Ia meletakkan kata itu dengan jujur yang dingin. "Namun pengawas tetap yang ditempatkan pusat sudah membaca bahwa batu Caldrest pernah ditempa dengan teknik yang tidak diajarkan di mana pun. Satu pembaca sunyi yang cukup teliti sudah cukup membuat mereka tinggal lebih lama. Dan orang yang tinggal lama pada akhirnya menemukan apa pun. Itu bukan kemungkinan — itu jadwal."
+"Kalau mereka datang dan menemukan retakan yang mati rapi, dais batu polos, dan geometri yang jujur — mungkin mereka pergi lagi. Mungkin." Ia meletakkan kata itu dengan jujur yang dingin. "Namun Overseer tetap yang ditempatkan pusat sudah membaca bahwa batu Caldrest pernah ditempa dengan teknik yang tidak diajarkan di mana pun. Satu pembaca sunyi yang cukup teliti sudah cukup membuat mereka tinggal lebih lama. Dan orang yang tinggal lama pada akhirnya menemukan apa pun. Itu bukan kemungkinan — itu jadwal."
 
 "Jadi kita biarkan izinnya jalan?" Suara Brannoc datar, tetapi Ashvarok mendengar beban yang dipindahkan ke dalam kalimat itu. "Empat puluh hari. Barisan kita bubar dengan tertib, damai, dan diterima sebagai penempatan ulang yang menguntungkan."
 
@@ -47,7 +47,7 @@ Gudang itu sunyi dengan sunyi yang berbeda dari tadi. Maera menatapnya tanpa ber
 
 "Bukan, dia benar," kata Ashvarok. "Biarkan ia mengatakannya utuh. Itu harga masuk ruangan ini, dan ia sudah membayarnya lebih mahal daripada siapa pun. Ya. Itu rencananya. Forge bisa menempa stempel yang menua dengan benar — umurnya akan terbaca jujur oleh instrumen mana pun, karena umurnya nyata, dibayar dengan cara yang nyata. Aku yang menempanya, aku yang menanggung risikonya, dan kalau gagal, gagalnya jatuh kepadaku sebelum jatuh ke siapa pun."
 
-"Dan kalau yang datang bukan kegagalan," kata Maera pelan, "melainkan berhasil? Stempel itu lolos verifikasi, komisi membatalkan izin, distrik bertahan — lalu sepuluh tahun lagi seseorang bertanya siapa yang menyerahkan temuan ini, dan namaku yang ada di berita acara." Ia memandangi tangannya sendiri, lalu menegakkan kepala, dan keputusannya sudah selesai bahkan sebelum kalimatnya dimulai. "Aku ikut. Aku yang menyerahkannya ke komisi lewat jalur yang benar, bersama pasal yang benar. Kalau kebenaran ini mau dipakai, dipakai dengan tangan yang bersih pada bagian yang bisa bersih. Itu satu-satunya hal yang bisa kulindangi."
+"Dan kalau yang datang bukan kegagalan," kata Maera pelan, "melainkan berhasil? Stempel itu lolos verifikasi, komisi membatalkan izin, distrik bertahan — lalu sepuluh tahun lagi seseorang bertanya siapa yang menyerahkan temuan ini, dan namaku yang ada di berita acara." Ia memandangi tangannya sendiri, lalu menegakkan kepala, dan keputusannya sudah selesai bahkan sebelum kalimatnya dimulai. "Aku ikut. Aku yang menyerahkannya ke komisi lewat jalur yang benar, bersama pasal yang benar. Kalau kebenaran ini mau dipakai, dipakai dengan tangan yang bersih pada bagian yang bisa bersih. Itu satu-satunya hal yang bisa kulindungi."
 
 Brannoc memandang mereka bergantian, lalu tabung timah di pangkuan Maera, lalu kegelapan halaman tempat baraknya tidur. "Barisanku empat ratus keluarga," katanya akhirnya, kata kerjanya tetap di depan. "Mereka tidak tahu harga kertas ini dan tidak boleh tahu — orang yang membayar pajak perang tidak perlu tahu strateginya. Maka aku yang menjawab atas mereka: maju. Distrik ini bukan barang yang boleh dipindahkan." Ia berhenti, lalu jarinya menunjuk Ashvarok. "Namun satu syarat. Seni yang kau pakai untuk stempel itu — batasmu harus jelas sebelum kamu mulai, bukan sesudah. Aku pernah duduk di gudang ini mendengar kau bilang badanmu punya jam pasir. Jam itu habis kalau kamu boros."
 
@@ -59,7 +59,7 @@ Dari ambang pintu, Sela masih berdiri tegak, dan Ashvarok tahu anak itu belum se
 
 ---
 
-Rapat itu bubar dekat tengah malam dengan pembagian bekerja yang tidak ditulis di kertas mana pun — Maera menyusun jalur pengajuan klaim lewat komisi audit — komisi yang sama yang kini mengenal namanya sebagai pembaca yang teliti. Brannoc menyiapkan cerita temuan bersama keluarga tua galeri tujuh yang memang punya leluhur era awal tambang. Dan stempel itu sendiri harus lahir dalam sunyi, satu saja, tanpa saksi, dengan umur yang dibayar sungguhan.
+Rapat itu bubar dekat tengah malam dengan pembagian kerja yang tidak ditulis di kertas mana pun — Maera menyusun jalur pengajuan klaim lewat komisi audit — komisi yang sama yang kini mengenal namanya sebagai pembaca yang teliti. Brannoc menyiapkan cerita temuan bersama keluarga tua galeri tujuh yang memang punya leluhur era awal tambang. Dan stempel itu sendiri harus lahir dalam sunyi, satu saja, tanpa saksi, dengan umur yang dibayar sungguhan.
 
 Sela pulang paling awal, membawa papan tulisnya, dan di pintu ia berhenti sebentar tanpa menoleh. "Name-roll jam sembilan. Jangan terlambat. Pagar tidak tahu ada perang."
 
@@ -67,7 +67,7 @@ Ketika mereka berdua tersisa, Ashvarok memadamkan setengah lampu dan duduk seben
 
 Kebenaran, ternyata, juga punya harga beli dan harga jual. Malam ini barak distrik timur membelinya, dan yang menjualnya adalah satu-satunya orang yang selama seribu tahun tahu persis isi barang dagangan itu.
 
-Ia mengeluarkan potongan cinder-glass tua dari kotak alat — sebesar kepalan tangan, warnanya abu madu di tepi, dingin walaupun gudang hangat — dan memutarnya di bawah lampu. Bahan yang baik. Menua dengan indah. Ia memasukkannya ke saku dada, sebelah kanan, tempat dahulu pecahan kaca-batu bukti perjanjian dengan Brannoc pernah tidur, lalu memadamkan lampu.
+Ia mengeluarkan potongan cinder-glass tua dari kotak alat — sebesar kepalan tangan, warnanya abu madu di tepi, dingin walaupun gudang hangat — dan memutarnya di bawah lampu. Bahan yang baik. Menua dengan indah. Ia memasukkannya ke saku dada, sebelah kanan, tempat dahulu pecahan cinder-glass bukti perjanjian dengan Brannoc pernah tidur, lalu memadamkan lampu.
 
 Di papan dapur barak, kolom Hourglass menunggu kapurnya. Di arsip pusat biro provinsi, berkas yang hilang tetap hilang. Dan dalam sunyi gudang perkakas tingkat dua, rencana itu sudah berdiri sendiri seperti semua rencana yang cukup tua untuk mulai memilih nasibnya sendiri.
 

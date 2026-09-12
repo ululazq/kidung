@@ -35,7 +35,7 @@ Ashvarok menatap perempuan itu, dan di kepalanya dua hitungan lama mulai berjala
 
 "Kabar sampai ke Caldrest lebih cepat dari yang kau sangka." Ashvarok membiarkan kalimat itu berdiri sendiri, karena perjanjian gencatan senjatanya dengan perempuan ini tidak mengatur apa yang harus ia ungkap tentang Spire, dan ia memilih memberinya ini sebagai bayaran informasi. "Map riset lima panglima milik Vael terbuka lebih dulu di lantai yang tidak pernah dikunjunginya. Segelnya dipotong rapi, dan pemotongnya menandatangani pekerjaannya dengan stempel jabatan."
 
-Maera diam sebentar, dan matanya menghitung sesuatu yang tidak ia tulis. "Pembaca Tua," katanya akhirnya. "Nama jabatan itu muncul di arsip dua kali tahun ini, dan keduanya tentang Caldrest. Jabatan yang identitasnya dirahasiakan bahkan dari Dewan mereka sendiri. Kau tahu artinya apa."
+Maera diam sebentar, dan matanya menghitung sesuatu yang tidak ia tulis. "the Old Reader," katanya akhirnya. "Nama jabatan itu muncul di arsip dua kali tahun ini, dan keduanya tentang Caldrest. Jabatan yang identitasnya dirahasiakan bahkan dari Dewan mereka sendiri. Kau tahu artinya apa."
 
 "Faksi Spire yang selama ini hanya tebakan kini punya bentuk." Ashvarok menoleh ke arah gerbang gudang, memastikan jarak terdekatnya kosong. "Dewan bekerja lewat prosedur, auditor, dan berita acara. Garis yang satunya bekerja lewat arsip, membaca lebih dulu, dan tidak pernah muncul untuk bertanya. Vael sedang disidang oleh yang pertama dan dibaca oleh yang kedua, dan dia mungkin satu-satunya orang yang tidak sadar sedang diperebutkan dua kali."
 
@@ -79,12 +79,12 @@ Maera menyusun ulang tasnya dan berdiri juga. Untuk pertama kalinya sore itu sik
 
 "Kalau tidak, kau akan dengarnya dari lot, dan kau akan tahu artinya tanpa perlu aku jelaskan." Maera melangkah keluar dari bayangan gudang, menuju jalur pos dengan langkah pegawai tepat waktu, dan Ashvarok membiarkan jarak antara mereka melebar dulu sebelum ia bergerak ke arah yang berlawanan.
 
-Malam itu, di sudut gudang perkakas yang paling gelap, ia membuka lipatan kertas kecilnya dan membaca daftar tahu-tahuannya dari awal, tujuh nama yang sudah lama menetap di sana. Ia membacanya dua kali, mencari siapa di antara ketujuh nama itu yang bisa menjadi saluran kode menuju Spire, dan tidak menemukan satu pun yang cocok. Vael punya motif dan punya akses, tetapi memanggil perhatian Pembaca Tua ke arah dokumen yang menguburnya adalah gerakan orang putus asa, dan Vael banyak hal, tetapi tidak sedang putus asa. Pengikat senior menyimpan fakta dan tidak menjualnya. Kovan menulis sesuai kesepakatan, enam syarat, tanpa satu kata lebih. Sisanya keluarga sendiri.
+Malam itu, di sudut gudang perkakas yang paling gelap, ia membuka lipatan kertas kecilnya dan membaca daftar tahu-tahuannya dari awal, tujuh nama yang sudah lama menetap di sana. Ia membacanya dua kali, mencari siapa di antara ketujuh nama itu yang bisa menjadi saluran kode menuju Spire, dan tidak menemukan satu pun yang cocok. Vael punya motif dan punya akses, tetapi memanggil perhatian the Old Reader ke arah dokumen yang menguburnya adalah gerakan orang putus asa, dan Vael banyak hal, tetapi tidak sedang putus asa. Pengikat senior menyimpan fakta dan tidak menjualnya. Kovan menulis sesuai kesepakatan, enam syarat, tanpa satu kata lebih. Sisanya keluarga sendiri.
 
 Yang tersisa adalah tangan yang belum pernah masuk daftar — dan itulah sebabnya entri barunya bukan nama.
 
 Di bawah daftar itu, dengan kapur kecil yang ia potong sendiri, ia menambahkan satu entri baru. Bukan nama orang, karena nama orang tidak ia punya. Satu kata saja, jabatan yang dua bulan lalu belum berarti apa-apa dan malam ini menjadi baris terpenting di kertasnya.
 
-Pembaca Tua.
+the Old Reader.
 
 Ia melipat kertas itu kembali, menekan lipatannya dengan ibu jari sampai kertas mengingat bentuknya, dan menyimpannya ke saku dada kanan, di tempat semua barang yang tidak boleh hilang sudah bertahun-tahun tinggal bersama-sama.

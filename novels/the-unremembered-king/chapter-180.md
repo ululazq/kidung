@@ -5,7 +5,7 @@ chapter: 180
 
 Malam penenaian ulang datang pada hari kedua ratus tiga puluh enam, dan Caldrest bersiap dengan cara yang tidak akan dipahami sejarawan mana pun yang membacanya nanti.
 
-Panggung Dapur disiapkan bukan di dapur barak — melainkan di aula pengikat, delapan banding tiga, ruang terbesar di bawah kota, tempat segel seribu tahun berdenyut di pusatnya. Sela yang memutuskan lokasinya, dengan logika pencatat yang tidak bisa dibantah: "Kalau kita mau memanggil nama orang dari dalam penyimpanan kedalaman, panggilan itu harus sampai ke penjaganya juga. Aula adalah satu-satunya tempat yang didengar dua dunia."
+the Kitchen Stage disiapkan bukan di dapur barak — melainkan di aula pengikat, delapan banding tiga, ruang terbesar di bawah kota, tempat segel seribu tahun berdenyut di pusatnya. Sela yang memutuskan lokasinya, dengan logika pencatat yang tidak bisa dibantah: "Kalau kita mau memanggil nama orang dari dalam penyimpanan kedalaman, panggilan itu harus sampai ke penjaganya juga. Aula adalah satu-satunya tempat yang didengar dua dunia."
 
 Persiapannya tiga hari. Kursi-kursi dibawa turun lewat the Door of Four Returns — tiga puluh tujuh keluarga dan saksi tidak muat berdiri empat jam. Lilin-lilin ditempatkan mengelilingi dais tengah, jauh dari retakan. Dan batu asah tua — fragmen arsip utara, kunci semuanya — diletakkan di pusat lingkaran oleh Ashvarok sendiri, dengan pengikat senior dan Sareth Vayin berdiri di dua sisinya sebagai dua tradisi pembaca.
 
@@ -69,7 +69,7 @@ Kabar itu berjalan melalui Caldrest seperti air menemukan jalurnya: klinik dulu 
 
 Dan sore harinya, di ambang gudang perkakas, Sela datang kepada kakaknya dengan papannya dan permintaan formal terakhir pekan itu:
 
-"Neraca besar harus ditutup malam ini. Semua entri sejak bab 176." Ia menatap kakaknya. "Aku sudah tulis milikku. Sekarang tulis milikmu — versi lengkap, bukan ringkasan. Ini penutup era."
+"Neraca besar harus ditutup malam ini. Semua entri sejak pemulihan Tovik dimulai." Ia menatap kakaknya. "Aku sudah tulis milikku. Sekarang tulis milikmu — versi lengkap, bukan ringkasan. Ini penutup era."
 
 Ashvarok mengambil kapur. Membuka Hourglass pada halaman baru. Dan menulis neraca penutup era tengah itu dengan tenang, sementara Caldrest di luarnya menyala lilin demi lilin untuk Pak Barim:
 
@@ -77,7 +77,7 @@ Hari 339. Neraca penutup era tengah.
 
 Yang pulang: nama Barim (18 tahun hilang). Nama panggilan Ondar ("Pipit", 10 tahun tersimpan oleh Barim sendiri). Sembilan suara utara (terkonfirmasi hidup dalam batu). Vessia Vael (masih bersuara). Empat ratus jiwa utara (status berubah: dari hilang menjadi MENUNGGU DIPANGGIL).
 
-Yang dipelajari: Hollowing bisa dibalik lewat tubuh + cerita + kesabaran. Kedalaman adalah arsip, pendengar, keluarga kereta nama — dan selama ini salah dibaca karena semua orang terlalu takut untuk bertanya. Name bekerja pada manusia secara lambat dan sah. Dan aku, setelah seribu tahun, akhirnya tahu namaku sendiri masih utuh di tempat yang aman.
+Yang dipelajari: Hollowing bisa dibalik lewat tubuh + cerita + kesabaran. Kedalaman adalah arsip, pendengar, keluarga name train — dan selama ini salah dibaca karena semua orang terlalu takut untuk bertanya. Name bekerja pada manusia secara lambat dan sah. Dan aku, setelah seribu tahun, akhirnya tahu namaku sendiri masih utuh di tempat yang aman.
 
 Yang belum selesai: Tovik (proses jalan, butuh waktu), empat ratus panggilan utara (butuh armada pembaca dan tahun-tahun), untaian kelima seniku (hipotesis, belum dibuktikan), dan percakapan panjang dengan tamu tua tentang apa artinya semua ini.
 
@@ -89,7 +89,7 @@ Penutup dari raja-penjaga-bocah-tungku: seribu tahun aku pikir tugas terbesar pe
 
 ---
 
-Satu adegan terakhir malam itu, yang tidak masuk neraca karena terjadi di tempat yang tidak bisa dicatat siapa pun:
+Malam itu, Ashvarok turun ke tempat yang tidak bisa dicatat siapa pun:
 
 Ashvarok turun sendirian ke ambang aula — dengan izin pasal berdua, karena pengikat senior bersedia menunggu di node pertama, cukup dekat untuk datang tetapi cukup jauh untuk memberi privasi. Ia berlutut di nat barat. Meletakkan kedua telapak. Dan bicara kepada kedalaman untuk kedua kalinya dalam sejarah dunia — kali ini bukan satu kalimat.
 
@@ -111,4 +111,4 @@ Ashvarok bangkit, pamit, dan berjalan ke node pertama di mana pengikat senior me
 
 Pengikat senior mengangguk pelan, memandang ke arah aula, dan berkata kalimat yang akan Ashvarok simpan bersama nama-nama yang lain:
 
-"Empat puluh tahun aku mencari cara menambal retakan. Ternyata retakannya tidak perlu ditambal. Dia hanya butuh dikunjungi." Ia mulai berjalan naik. "Besok kita susun armada utara. Empat ratus panggilan itu pekerjaan sepuluh tahun, mungkin lebih. Untunglah," dan di suaranya ada senyum yang terdengar, "kita semua sudah terlanjur tinggal di kota yang sabarnya seribu tahun."
+"Empat puluh tahun aku mencari cara menambal retakan. Ternyata retakannya tidak perlu ditambal. Dia hanya butuh dikunjungi." Ia mulai berjalan naik. "Besok kita susun the Northern Reader Fleet. Empat ratus panggilan itu pekerjaan sepuluh tahun, mungkin lebih. Untunglah," dan di suaranya ada senyum yang terdengar, "kita semua sudah terlanjur tinggal di kota yang sabarnya seribu tahun."

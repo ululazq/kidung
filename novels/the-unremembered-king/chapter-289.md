@@ -47,7 +47,7 @@ Brannoc mengambil lembaran kontrak itu. Kertasnya sudah menguning, tanda tangan 
 
 Kepala sekolah menulis kalimat itu di bawah kontrak, lalu memakukan bingkai ke dinding di sebelah palu. Seketika dinding itu berubah dari sekadar alat menjadi sejarah: palu di kiri, kontrak di kanan, dan di tengah-tengahnya, satu bilah buatan Harn yang ia sumbangkan sebagai penanda.
 
-Sela, yang lewat membawa daftar murid Sekolah Mendengar, berhenti di depan dinding itu. Ia mencatat di papan kecilnya: *Dinding sekolah tambang: palu Brannoc + kontrak Harn-748. Satu alat, satu janji, satu tangan baru.*
+Sela, yang lewat membawa daftar murid the Listening School, berhenti di depan dinding itu. Ia mencatat di papan kecilnya: *Dinding sekolah tambang: palu Brannoc + kontrak Harn-748. Satu alat, satu janji, satu tangan baru.*
 
 "Kau bisa tulis lebih panjang, Nak," kata Brannoc.
 
@@ -65,7 +65,7 @@ Harn menurunkan palunya. "Berarti palu punya irama juga."
 
 "Semua yang dipegang orang punya irama." Brannoc menatap perapian yang mulai redup. "Palu yang kau warisi bukan benda. Ia adalah tempo ayahmu. Kau lanjutkan, ia tetap hidup."
 
-Mereka membiarkan bara padam pelan. Di luar, angin lembah utara membawa bau kapur dan rumput kering — sama seperti delapan belas tahun silam, waktu Brannoc pertama kali membawa Harn kecongga ini sebagai anak berusia sembilan tahun yang takut pada bunyi palu.
+Mereka membiarkan bara padam pelan. Di luar, angin lembah utara membawa bau kapur dan rumput kering — sama seperti delapan belas tahun silam, waktu Brannoc pertama kali membawa Harn ke bengkel ini sebagai anak berusia sembilan tahun yang takut pada bunyi palu.
 
 "Sekarang kau yang takut pada apa?" tanya Brannoc pelan.
 

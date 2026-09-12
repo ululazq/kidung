@@ -13,7 +13,7 @@ Bukan gema penuh seperti nat aula. Hanya satu kalimat, sangat pelan, seperti ora
 
 Ilo berlari turun ke kamp, bercerita sembarangan kepada semua orang, dan ceritanya sampai ke Kantor Penghubung Utara sebelum senja. Kovan datang memeriksa keesokan paginya dan pulang dengan laporan yang mengubah kalender proyek:
 
-"Nat timur sudah terbangun sebagian," katanya pada rapat darurat. "Tiga bulan lebih awal dari prediksi. Dan penyebabnya bukan kita." Ia meletakkan laporan itu, masih heran sendiri. "Penyebabnya lagu-lagu utara. Name train Caldrest tiap sore ternyata sampai ke nat-nat timur lewat jalur bawah tanah yang tidak ada di peta mana pun. Kedalaman saling bersahutan — dan Vess-Morath tanpa sadar sudah membangunkan tetangga mereka setahun penuh."
+"Nat timur sudah terbangun sebagian," katanya pada rapat darurat. "Tiga bulan lebih awal dari prediksi. Dan penyebabnya bukan kita." Ia meletakkan laporan itu, masih heran sendiri. "Penyebabnya lagu-lagu utara. Name train Caldrest tiap sore ternyata sampai ke nat-nat timur lewat jalur bawah tanah yang tidak ada di peta mana pun. Kedalaman saling bersahutan—dan Vess-Morath tanpa sadar sudah ikut membangunkan tetangga mereka."
 
 Ashvarok membaca laporan itu dua kali, lalu tertawa — tawa yang membuat rapat menoleh karena jarang.
 
@@ -23,7 +23,7 @@ Ashvarok membaca laporan itu dua kali, lalu tertawa — tawa yang membuat rapat 
 
 Jadwal dipercepat. Dan perubahan terpenting justru terjadi pada SIAPA yang mengerjakannya: untuk pertama kalinya, tim pelaksana pemulangan bukan tim inti Caldrest asli.
 
-Struktur barunya dirancang Sela dengan peta organisasi yang oleh Ashvarok disebut "pohon keluarga proyek": tim inti Caldrest berperan sebagai PEMBINA — tidak lagi melaksanakan, tetapi mendampingi. Pelaksana lapangan adalah warga wilayah timur sendiri (yang sudah mengikuti latihan singkat name train via nat aula selama tiga pekan), diperkuat murid akademi bergiliran. Dan ketiganya siswa Sekolah Mendengar angkatan pertama ditugaskan sebagai PENGAMAT PENUH: ikut bekerja, boleh bertanya, tidak boleh memutuskan.
+Struktur barunya dirancang Sela dengan peta organisasi yang oleh Ashvarok disebut "pohon keluarga proyek": tim inti Caldrest berperan sebagai PEMBINA — tidak lagi melaksanakan, tetapi mendampingi. Pelaksana lapangan adalah warga wilayah timur sendiri (yang sudah mengikuti latihan singkat name train via nat aula selama tiga pekan), diperkuat murid akademi bergiliran. Dan ketiganya siswa the Listening School angkatan pertama ditugaskan sebagai PENGAMAT PENUH: ikut bekerja, boleh bertanya, tidak boleh memutuskan.
 
 "Kalau metode ini hanya bisa dilakukan orang Caldrest," kata Sela saat menjelaskan, "maka tujuh belas wilayah akan butuh tujuh belas kali delapan bulan. Kalau metode ini bisa dipelajari — maka wilayah kedua belajar dari wilayah pertama, wilayah ketiga dari kedua, dan seterusnya. Itu satu-satunya cara menyelesaikan ini dalam hitungan tahun, bukan dekade."
 
@@ -41,7 +41,7 @@ Dan the Patient House melakukan hal yang belum pernah dilakukan: mengirim pesan 
 
 ---
 
-Tiga pekan persiapan itu juga menjadi pekan ujian sebenarnya bagi ketiga siswa Sekolah Mendengar — dan ketiganya gagal sukses dengan cara yang justru membuat mereka lulus.
+Tiga pekan persiapan itu juga menjadi pekan ujian sebenarnya bagi ketiga siswa the Listening School — dan ketiganya gagal sukses dengan cara yang justru membuat mereka lulus.
 
 Daven, bertugas mengkoordinasi logistik pos, membuat kesalahan hitung yang menyebabkan dua pos kekurangan kayu meja selama dua hari. Kesalahan klasik birokrat muda. Yang tidak klasik adalah responsnya: ia tidak menunggu instruksi, tidak menulis laporan permintaan arahan — ia menyewa gerobak sendiri, membayar dengan uangnya, dan mengantar kayunya sendiri sambil minta maaf kepada kedua keluarga pos satu per satu.
 
@@ -57,13 +57,13 @@ Barim tidak menegurnya. Ia duduk di sebelah Pellia dan ikut mendengar sampai sen
 
 Thessa gagal paling spektakuler: ia mencoba menerapkan sistem administrasi Spire pada daftar pos jemput timur (kode pos, formulir kunjungan keluarga, stempel) — dan sistem itu ditolak mentah-mentah oleh warga timur sendiri, yang berkata kalau "daftar tamu tidak pakai stempel; daftar tamu dipakai tulisan tangan supaya terasa seperti disambut". Thessa menerima penolakan itu, merapikan formulir-formulirnya ke tas kanvas segel jabatannya sendiri, lalu menggantinya dengan buku tamu tulisan tangan besar yang halaman-halamannya ia hias sendiri tiap malam.
 
-Buku tamu itu kemudian dikirim ke Spire sebagai contoh resmi "administrasi berperikemanusiaan" — dan dikutip angkatan kedua Sekolah Mendengar sebagai alasan mendaftar.
+Buku tamu itu kemudian dikirim ke Spire sebagai contoh resmi "administrasi berperikemanusiaan" — dan dikutip angkatan kedua the Listening School sebagai alasan mendaftar.
 
 ---
 
 Malam terakhir persiapan, semua tim berkumpul di aula untuk pembacaan protokol terakhir — dan di sinilah lembah timur memberikan kejutan penutupnya.
 
-Ketika Ashvarok selesai membaca dua belas pasal protokol musim yang disesuaikan, kepala kamp lembah timur — perempuan tua bernama Marn, yang tiga pekan ini hampir tidak bicara selain menanyakan jadwal — berdiri dan meminta giliran bicara.
+Ketika Ashvarok selesai membaca dua belas pasal the Seasonal Protocol yang disesuaikan, kepala kamp lembah timur — perempuan tua bernama Marn, yang tiga pekan ini hampir tidak bicara selain menanyakan jadwal — berdiri dan meminta giliran bicara.
 
 "Aku punya satu pasal tambahan," katanya. "Bukan untuk dokumen kalian. Untuk ingatan kami."
 

@@ -23,7 +23,7 @@ Di sudut, Brannoc mendengar dan mengangguk. "Anak-anak akan senang," katanya. "M
 
 ---
 
-Gella mendekat, buku pemulihan di tangan. "Aku bisa latif tiga anak tertua mengukur napas seperti aku," katanya. "Mereka akan jadi mata kedua setelah kau lelah."
+Gella mendekat, buku pemulihan di tangan. "Aku bisa latih tiga anak tertua mengukur napas seperti aku," katanya. "Mereka akan jadi mata kedua setelah kau lelah."
 
 "Kau percaya mereka?" tanya Ashvarok-Renn.
 
@@ -39,13 +39,13 @@ Kovan menatap peta tujuh simpul yang kini setengah menyala di benaknya. "Jika th
 
 "Dan bila the Wanes datang ke desa kita?" tanya Sela.
 
-"Mereka datang cari tanda lahir. Perawat tua dan aku bekas luka kami tertutup kulit tua. Mereka takkan kenali kami sebagai the Survivor." Ashvarok-Renn menatap peta. "Namun kita tetap siaga. Bila mereka mulai ukur napas, berarti mereka belajar cara kita — dan saat itu kita lari."
+"Mereka datang cari tanda lahir. Perawat tua dan aku punya bekas yang tertutup kulit tua. Mereka takkan menganggapnya bukti yang mereka cari." Ashvarok-Renn menatap peta. "Namun kita tetap siaga. Bila suatu hari mereka mulai mengukur napas, berarti mereka belajar cara kita — dan saat itu kita lari."
 
 Di sudut, Gella duduk memilin benang bersama perawat tua. "Mereka buru darah," katanya pelan. "Kita buru napas. Selama mereka salah sasar, kita punya waktu."
 
 "Namun bila mereka mulai ukur napas seperti kita?" bisik perawat tua. "Maka waktu itu habis."
 
-"Maka kita kejar lebih cepat," kata Ashvarok-Renn yang mendengar. "Tiga anak sudah latif. Seminggu lagi kita petakan desa ini."
+"Maka kita kejar lebih cepat," kata Ashvarok-Renn yang mendengar. "Tiga anak sudah dilatih. Seminggu lagi kita petakan desa ini."
 
 ---
 
@@ -55,7 +55,7 @@ Mira di menara membuka buku catatan halaman kesembilan. "Dentum berdenyut empat 
 
 "Maka simpul tidak merespons. Hanya the true Survivor yang dentumnya nyambung ke the Hollow." Mira menulis: *The Wanes tangkap orang bermuka tanda (bukan the Survivor) -> simpul tak merespons. Kriteria the Survivor: napas 0,5 hitungan lebih pendek subuh. Kita cari lewat napas, bukan tanda.* Ia mengetuk ubin tiga kali, diam sehentakan.
 
-Di barak, Ashvarok-Renn menulis di bible: *The Wanes salah sasar (cari 7 darah, tangkap tanda palsu). Kita cari 8 napas tersisa lewat pola napas the Survivor (0,5 hitungan lebih pendek subuh). Latif 3 anak ukur napas.*
+Di barak, Ashvarok-Renn menulis di bible: *The Wanes salah sasar: mencari 7 darah dan menangkap tanda palsu. Kita mencari para penyintas lewat pola napas, 0,5 hitungan lebih pendek saat subuh. Latih 3 anak mengukur napas.*
 
 ---
 
@@ -81,25 +81,25 @@ Ashvarok-Renn membacanya, lalu menulis balasan: *Istirahat seminggu. Lalu bantu 
 
 Ia menyerahkan kain ke Maera. "Generasi keempat kini punya tugas ganda," katanya pada Kovan. "Awasi simpul dan awasi napas. Jaringan diam kita bukan hanya telinga, tetapi alat ukur hidup."
 
-Sela menulis di papan: *The Wanes ukur napas = mereka pelajari cara kita. Bila itu terjadi, barak lari. 3 anak + Sela + Gella = alat deteksi napas hidup.*
+Sela menulis di papan: *Bila the Wanes mengukur napas, berarti mereka mempelajari cara kita. Jika itu terjadi, barak lari. 3 anak + Sela + Gella = alat deteksi napas hidup.*
 
-Di menara, Mira menutup buku catatan dan menulis di sisi: *Dua cara mencari: the Wanes via darah (salah), barak via napas (benar). Kita lambat tetapi tepat. 8 napas tersisa.* Perawat tua membubuhkan garis lurus di bawahnya, tiga.
+Di menara, Mira menutup buku catatan dan menulis di sisi: *Dua cara mencari: the Wanes via darah dan tanda lahir; barak via napas. Mereka cepat tetapi salah. Kita lambat tetapi tepat.* Perawat tua membubuhkan garis lurus di bawahnya, tiga.
 
-Ashvarok-Renn membuka bible kecil dan menulis: *The Wanes buru 7 darah (salah, tangkap tanda palsu). Barak buru 8 napas tersisa lewat pola napas the Survivor. Latif 3 anak ukur napas. the Escape Family = the Survivor barat daya (the Unclaimed Knot). Sisa: 7 keluarga.*
+Ashvarok-Renn membuka bible kecil dan menulis: *The Wanes buru 7 darah menurut teori mereka sendiri; orang bertanda palsu ikut ditangkap. Barak mencari jejak napas the Survivors. Calon the Escape berada di barat daya, dekat the Unclaimed Knot.*
 
 Di sudut, Gella duduk memilin benang bersama perawat tua di ambang menara. "Kau dengar kabar utara?" tanya Gella pelan.
 
 "Tentang orang yang dibawa pergi karena tanda lahir?" kata perawat tua. "Aku dengar dari Maera saat ia lewat. Napasku berdenyut pelan sejak itu — seperti tahu ada the Survivor lain yang tertangkap."
 
-"Mereka tangkap orang salah," bisik Gella. "Bukan the true Survivor. Namun bila the Wanes mulai belajar cara kita — ukur napas, bukan tanda — mereka akan temukan yang benar."
+"Mereka masih menangkap orang yang salah," bisik Gella. "Selama the Wanes terpaku pada tanda, mereka belum melihat cara kita. Namun kita harus menemukan para penyintas tanpa memperlihatkan pengukuran kita."
 
-"Maka kita harus lebih cepat," kata Ashvarok-Renn yang mendengar dari ambang. "Tiga anak sudah latif ukur napas. Bila mereka jago, kita petakan semua the Survivors di desa ini dalam seminggu."
+"Maka kita harus lebih cermat, bukan gegabah," kata Ashvarok-Renn yang mendengar dari ambang. "Tiga anak sudah dilatih mengukur napas. Bila mereka jago, kita bisa membaca pola desa tanpa satu pun penduduk sadar."
 
 Sela menulis di papan: *Target: petakan napas seluruh penduduk desa dalam 7 hari via 3 anak + Gella. The Wanes masih buta (cari darah). Waktu krusial.*
 
-Kovan menatap peta, benang merah ke utara kini bergetar pelan. "Murid kita di utara laporkan the Wanes mulai bertanya soal napas," katanya. "Bukan hanya tanda. Mereka belajar."
+Kovan menatap peta, benang merah ke utara kini bergetar pelan. "Murid kita di utara memastikan the Wanes masih bertanya soal tanda lahir dan silsilah," katanya. "Mereka bergerak cepat, tetapi tetap salah arah."
 
-"Maka jendela kita menutup," kata Gella. "Kita kejar the Remnant Survivor di danau garam sebelum mereka sampai sana."
+"Maka jendela kita masih terbuka," kata Gella. "Kita pakai untuk memperbaiki cara ukur, bukan berlari ke lokasi yang belum pasti. Danau garam utara mungkin menyimpan calon the Stillness, tetapi belum ada bukti napas."
 
 Malam itu, Ashvarok-Renn berdiri di ambang barak menatap ke utara di mana kabut mulai turun. "Dua cara mencari," bisiknya. "Mereka via darah, kita via napas. Satu salah, satu benar. Namun salah bisa lebih cepat dari benar bila kita lambat."
 
@@ -107,30 +107,30 @@ Sela mendekat membawa papan. "Besok kita mulai ukur napas di pasar," katanya. "T
 
 "Dan kita jaga mereka tanpa nama," kata Ashvarok-Renn. "Bila the Wanes bertanya, kita hanya desa biasa yang suka berdentum."
 
-Fajar menyingsing. Di halaman, Brannoc mengumpulkan dua belas anak untuk latihan pertama mengukur napas. "Kalian akan berpasangan," katanya. "Satu hitung napas yang lain saat tidur siang. Cari yang berdenyut setengah hitungan lebih pendek."
+Fajar menyingsing. Di halaman, tiga anak tertua meneruskan latihan mengukur napas yang dimulai hari sebelumnya. Brannoc menempatkan mereka berpasangan. "Satu hitung napas yang lain saat tidur siang," katanya. "Kali ini bedakan napas pendek karena takut dari pola yang tetap pendek saat tenang."
 
-"Dan bila kami temukan?" tanya anak angkatan ketiga.
+"Dan bila kami menemukan pola tetap?" tanya anak angkatan ketiga.
 
-"Catat di papan Sela. Jangan sebut nama. Jangan dekati." Brannoc menatap mereka. "Kita hanya mata. Kita tidak pegang kunci apa pun."
+"Catat di papan Sela. Jangan sebut nama. Jangan dekati." Brannoc menatap mereka. "Kita hanya mata. Satu pengukuran tidak cukup."
 
-Di sudut, Gella mengukur napas Ashvarok-Renn yang duduk memilin benang. "Empat hitungan," bisiknya pada Sela. "Stabil. Namun matanya masih merah."
+Di sudut, Gella memeriksa hasil hitungan mereka. "Ulangi setelah orangnya bangun," katanya pada Sela. "Penyintas punya pola yang menetap; orang yang bermimpi buruk akan berubah."
 
-"Catat di papan," kata Sela.
+"Catat dua keadaan," kata Sela.
 
-Sela menulis di papan: *3 anak + Gella + Sela = alat deteksi napas hidup. Hari ini latihan pertama. Musuh masih sibuk dengan tanda lahir, belum napas.*
+Sela menulis di papan: *3 anak + Gella + Sela meneruskan latihan. Ukur ulang saat tidur dan bangun. Musuh masih sibuk dengan tanda lahir, belum napas.*
 
-Mira di menara membuka buku catatan halaman kesepuluh. "Dentum utara makin cepat," katanya pada perawat tua. "Mereka mulai bertanya soal napas. Jendela menutup."
+Mira di menara membuka buku catatan halaman kesepuluh. "Dentum utara makin cepat," katanya pada perawat tua. "Bukan karena mereka memahami napas. Cap tujuh garis muncul di desa berikutnya."
 
-"Maka kita lebih cepat," kata perawat tua.
+"Mereka masih mencari tanda," kata perawat tua.
 
-Ashvarok-Renn berdiri di ambang menatap ke utara. "Ossian bilang mereka mulai bertanya soal napas di desa utara," katanya. "Bila satu murid kita di sana terdeteksi sedang mengukur napas, mereka akan tahu caranya."
+Ashvarok-Renn berdiri di ambang menatap ke utara. "Ossian bilang mereka memeriksa punggung dan silsilah di desa utara," katanya. "Mereka belum melihat pengukuran kita, tetapi satu murid ceroboh bisa mengubah itu."
 
-"Kita tarik murid utara ke hutan payau," kata Gella. "Seminggu. Biarkan desa utara tenang sampai the Wanes bosan."
+"Maka murid utara tetap menyamar sebagai pendengar cuaca," kata Gella. "Tidak ada pengukuran di depan umum."
 
-Kovan mencatat di peta: benang merah ke utara kini digaris putus. "Murid utara aman di hutan," katanya. "Namun the Remnant Survivor di danau garam tetap jadi target."
+Kovan mencatat di peta: benang merah ke utara tetap utuh. "Dan danau garam?"
 
-"Kirim dua belas anak ke danau garam besok," kata Ashvarok-Renn. "Bukan untuk mengukur — untuk berteman. Bila the Remnant Survivor butuh lari, anak-anak yang kabari barak lebih dulu dari the Wanes."
+"Awasi dari jauh," jawab Ashvarok-Renn. "Itu mungkin dekat jejak the Stillness, bukan the Remnant. Jangan kirim rombongan dan jangan beri nama pada siapa pun sebelum ada pola napas yang berulang."
 
-Sela menulis di papan: *Murid utara ditarik ke hutan payau (hindari deteksi). 12 anak ke danau garam berteman dengan the Remnant Survivor. Jangan ukur napas di depan umum.*
+Sela menulis di papan: *Murid utara tetap mengamati cuaca. Danau garam = calon jejak the Stillness, belum pasti. The Wanes masih mencari darah dan tanda lahir. Jangan buka cara ukur napas.*
 
-Ia menutup bible dan membiarkan benang diam hidup tanpa namanya — tahu bahwa di utara, orang tak bersalah kini dibawa pergi karena tanda lahir, sementara barak diam-diam mengukur napas untuk menemukan kunci yang sesungguhnya.
+Ia menutup bible dan membiarkan benang diam hidup tanpa namanya — tahu bahwa di utara, orang tak bersalah kini dibawa pergi karena tanda lahir. Musuh bergerak cepat tetapi salah lewat darah; barak bergerak lambat tetapi tepat lewat napas.

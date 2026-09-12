@@ -7,7 +7,7 @@ Mereka berkumpul dengan susunan yang belum pernah ada di Caldrest: meja panjang 
 
 "Aku mulai dari awal," kata orang tua itu. "Karena kalian sudah membayar hak untuk mendengar awal."
 
-Ordo itu bernama Penjaga Rekam — bukan nama megah, kata pengikat senior, karena penjaga rekaman memang pekerjaannya mencatat, dan mencatat tidak pernah glamor. Mereka lebih tua dari Hegemony; Hegemony justru belajar sistem arsip dari mereka. Tugas tunggalnya: menjaga rekaman tentang Vel-Ghora — bukan untuk dipelajari, tetapi supaya yang datang setelah tahu persis dengan apa yang dihadapi pendahulunya. "Sejarah adalah manual," katanya. "Hilangkan sejarah, dan setiap generasi harus menggali ulang semua kuburan."
+Ordo itu bernama the Record Wardens — bukan nama megah, kata pengikat senior, karena penjaga rekaman memang pekerjaannya mencatat, dan mencatat tidak pernah glamor. Mereka lebih tua dari Hegemony; Hegemony justru belajar sistem arsip dari mereka. Tugas tunggalnya: menjaga rekaman tentang Vel-Ghora — bukan untuk dipelajari, tetapi supaya yang datang setelah tahu persis dengan apa yang dihadapi pendahulunya. "Sejarah adalah manual," katanya. "Hilangkan sejarah, dan setiap generasi harus menggali ulang semua kuburan."
 
 Yang menghapus sejarah itu bukan Vel-Ghora. Yang menghapus adalah manusia: ordo yang datang setelahnya, yang menemukan bahwa rekaman tentang kedalaman bisa menjadi senjata bila jatuh ke tangan yang ingin menggunakan kedalaman — dan memilih membakar seluruh arsip demi keselamatan, lalu mendirikan the Resonant Choir di atas abunya dengan doktrin baru: jangan ingat, cukup takut.
 
@@ -29,7 +29,7 @@ Pengikat senior memandangnya lama. Lalu orang tua itu tertawa — pendek, kering
 
 Jabat tangan itu terjadi — tangan tua dan tangan bocah tambang, di atas meja rapat Caldrest, dengan teh ibu Tamma mengepul di sebelahnya dan enam saksi yang tidak satu pun pernah membayangkan akan melihat ordo dan Emberweave berjabatan.
 
-Yang terakhir bicara malam itu adalah Ossian Vael, dari kursi ujung, dengan suara pejabat yang sedang mengucapkan hal yang bukan pekerjaannya: "Aku punya satu kontribusi untuk kesepakatan ini. Koordinasi Artefak Regional — biroku — akan menerbitkan klasifikasi resmi baru pekan depan: status 'penambal tradisional terverifikasi', jalur pengakuan tradisi pra-Liberation yang selama ini tidak punya kotak hukum. Dokumen Caldrest akan jadi dokumen pertamanya." Ia memandang meja. "Kalian semua paham artinya. Seni raja yang disembunyikan selama seribu tahun akan punya nama hukum. Bukan nama Ashvarok — nama Caldrest. Grey Censure tidak bisa memburu apa yang sudah masuk register resmi dua institusi."
+Yang terakhir bicara malam itu adalah Ossian Vael, dari kursi ujung, dengan suara pejabat yang sedang mengucapkan hal yang bukan pekerjaannya: "Aku punya satu kontribusi untuk kesepakatan ini. Regional Artifact Coordination — biroku — akan menerbitkan klasifikasi resmi baru pekan depan: status 'penambal tradisional terverifikasi', jalur pengakuan tradisi pra-Liberation yang selama ini tidak punya kotak hukum. Dokumen Caldrest akan jadi dokumen pertamanya." Ia memandang meja. "Kalian semua paham artinya. Seni raja yang disembunyikan selama seribu tahun akan punya nama hukum. Bukan nama Ashvarok — nama Caldrest. Grey Censure tidak bisa memburu apa yang sudah masuk register resmi dua institusi."
 
 "Dan kalau mereka tetap datang?" tanya Brannoc.
 
@@ -51,7 +51,7 @@ Ia tidak akan menyebutnya apa-apa. Belum. Namun ia meletakkan tangan di atas bat
 
 "Datang lagi kalau mau. Pintunya sama."
 
-Di luar, jauh di kedalaman, sapuan malam itu datang pada waktunya — dan berhenti di batu asah lebih lama dari semalam lagi, dan kali ini, ketika pergi, iramanya membawa sesuatu yang baru: potongan melodi kecil, tiga nada, diulang dua kali. Bukan lagu Hegemony. Bukan bahasa penjaga. Sesuatu yang lebih sederhana, dari lapisan yang lebih dalam — dan Ashvarok yang mendengarnya lewat tulang di kejauhan patroli Brannoc mencatatnya di Hourglass dengan tangan yang tidak sepenuhnya stabil:
+Di luar, jauh di kedalaman, sapuan malam itu datang pada waktunya — dan berhenti di batu asah lebih lama dari semalam lagi, dan kali ini, ketika pergi, iramanya membawa sesuatu yang baru: potongan melodi kecil, tiga nada, diulang dua kali. Bukan the Hegemony song. Bukan bahasa penjaga. Sesuatu yang lebih sederhana, dari lapisan yang lebih dalam — dan Ashvarok yang mendengarnya lewat tulang di kejauhan patroli Brannoc mencatatnya di Hourglass dengan tangan yang tidak sepenuhnya stabil:
 
 Hari 297, tambahan. Dia menjawab. Tiga nada. Kovan harus menerjemahkan ini besok.
 
@@ -61,7 +61,7 @@ Aku mulai curiga bahwa hal yang selama ini kusegel itu tidak pernah ingin keluar
 
 Ia menutup papan itu dan tidak menunjukkannya kepada siapa pun malam itu — beberapa tulisan harus matang dulu di kegelapan sebelum layak dilihat orang — dan tidur dengan dingin biasa di tulang dan sesuatu yang tidak biasa di bawahnya, yang tidak punya nama dalam semua bahasa yang ia kuasai, termasuk bahasa penjaga.
 
-Esoknya, Kovan menerjemahkan tiga nada itu dalam empat jam kerja dan satu teko teh, dan hasilnya membuat rapat darurat dipanggil sebelum siang: tiga nada itu, dibaca dalam struktur keluarga bahasa penjaga yang telah ia rekonstruksi dari dua deret lamanya, membentuk SATU kata — kata yang sama dengan ganti-nama galeri bisu, kata yang pernah dipakai upacara Hegemony untuk menyapa tubuh-kunci.
+Esoknya, Kovan menerjemahkan tiga nada itu dalam empat jam kerja dan satu teko teh, dan hasilnya membuat rapat darurat dipanggil sebelum siang: tiga nada itu, dibaca dalam struktur keluarga bahasa penjaga yang telah ia rekonstruksi dari dua deret lamanya, membentuk SATU kata — kata yang sama dengan replacement-name galeri bisu, kata yang pernah dipakai upacara Hegemony untuk menyapa tubuh-kunci.
 
 Namun dengan akhiran berbeda. Akhiran yang belum pernah muncul di catatan mana pun.
 

@@ -3,285 +3,260 @@ title: "Bab 254: Anak Pertama yang Terbang"
 chapter: 254
 ---
 
-Surat penerimaan datang dari Akademi Arsip Tinggi Spire — dan oleh Ossian dibacakan di aula dengan suara yang mencoba tenang tetapi gagal:
+Surat penerimaan datang menjelang makan siang, dibawa nat pos yang mengetuk meja aula sampai tiga cangkir bergeser dari tatakannya.
 
-"Dengan hormat, berdasarkan rekomendasi langsung Ketua Majelis Dewan Regional, Saudari Sela diterima sebagai murid Akademi Arsip Tinggi — program arsiparis terbaik di dunia — tanpa tes masuk."
+Sela mengenali segel the High Archive Academy Spire sebelum Ossian memecah lapisan lilinnya. Ia langsung berdiri, lalu duduk lagi. Tangannya masuk ke bawah meja dan mencengkeram tepi bangku.
 
-"Tanpa tes?" Kovan menoleh. "Itu belum pernah terjadi dalam sejarah akademi."
+"Bacakan," katanya.
 
-"Baca lanjutannya." Ossian melipat surat itu. "'Kandidat telah membuktikan kemampuan arsip lewat pekerjaan nyata: registri mimpi, jaringan nat tiga generasi, arsip pemulangan 400 jiwa, dan sistem nat asuhan. Akademi tidak perlu menguji apa yang sudah terbukti.'"
+"Kamu yakin?"
 
-Aula hening.
+"Kalau aku yang baca, aku akan melewatkan setiap kata yang menakutkan."
 
-Lalu seluruh Sekolah Mendengar berdiri bertepuk tangan — dan Sela, gadis dua belas tahun yang delapan bulan silam hanya adik angkat bocah tambang, menangis di tempatnya.
+Ossian meratakan surat di antara buku pelajaran. Suaranya tenang pada kalimat pembuka, kemudian goyah ketika sampai pada keputusan.
 
----
+"Dengan hormat, berdasarkan rekomendasi Ketua Majelis the Regional Council, Saudari Sela diterima sebagai murid the High Archive Academy Spire untuk program satu tahun, tanpa tes masuk."
 
-Malam harinya, rapat keluarga the Quiet Vein digelar di barak.
+Kovan menoleh begitu cepat hingga ujung penanya menggores meja. "Tanpa tes? Akademi belum pernah membebaskan tes masuk."
 
-Bukan rapat sedih. Rapat PERSIAPAN — karena keluarga ini sudah belajar dari proyek pemulangan: hal besar harus disiapkan dengan protokol.
+"Ada penjelasannya." Ossian membaca bagian berikut: "Kandidat telah membuktikan kemampuan arsip melalui pekerjaan nyata: registri mimpi, jaringan nat tiga generasi, arsip pemulangan empat ratus jiwa, dan sistem nat asuhan. Akademi tidak perlu menguji apa yang sudah terbukti."
 
-Keputusan-keputusan yang keluar:
+Sela tidak bergerak. Aula menunggu reaksinya, dan penantian puluhan orang itu membuat napasnya semakin pendek.
 
-SATU: Sela berangkat ke Spire untuk program satu tahun.
-DUA: Kamar di barak TIDAK diubah — ibu Tamma memerintahkan; sama seperti kamar Renn dulu.
-TIGA: Surat-menyurat via nat pos (jaringan batu baru yang menghubungkan Caldrest-Spire sejak Pasal Menyapa).
-EMPAT: Ashvarok-Renn mengambil alih arsip resmi Caldrest sementara — dengan bantuan Daven dan murid akademi.
-LIMA: Sup Kamp Pertama dimasak pagi keberangkatan. Ibu Tamma: "anak pertama yang terbang harus terbang dengan sup."
+Renn keluar ke permukaan tubuh yang ia bagi dengan Ashvarok. Ia berlutut di samping bangku, cukup dekat untuk didengar Sela tanpa menjadikan suaranya milik seluruh aula.
 
----
+"Kamu mau pergi?"
 
-Dan pasal keenam — yang diajukan Renn, disetujui Ashvarok sebelum kalimatnya selesai:
+Sela memandang surat, bukan kakaknya. "Aku takut mau pergi."
 
-"Setiap surat Sela WAJIB dibalas dalam tiga hari. Dan setiap balasan wajib memuat: kabar keluarga, kabar nat-nat kecil, dan SATU cerita lucu. Karena rumah yang baik mengirim kabar gembira, bukan hanya laporan."
+"Bukan itu pertanyaanku."
 
----
+Ia akhirnya mengangkat wajah. Air mata sudah memenuhi matanya, tetapi jawabannya utuh. "Mau."
 
-Hari keberangkatan datang.
+Renn mengangguk. "Kalau begitu, kita boleh ikut gembira."
 
-Sela berdiri di gerbang Caldrest dengan satu tas, satu kotak arsip pribadi, dan satu tenunan kecil dari Lompa ("buat pengingat: kamu tidak pernah sepi").
-
-Ashvarok-Renn menemaninya sampai batas kota — sesuai kesepakatan: "sampai sini saja, sisanya jalanmu sendiri".
-
-Dan di titik itu, Sela berbalik. Menatap dua kakaknya (satu tubuh). Menatap nat lorong yang terlihat jauh di belakang. Menatap seluruh kota yang delapan bulan silam masih kacau dan sekarang punya dua sekolah.
-
-"Kak Raja. Kak Renn." Suaranya stabil. "Aku mau bilang sesuatu sebelum pergi."
-
-"Bilang."
-
-"Aku umur sebelas tahun ketika kak Renn bertanya 'mau jadi adikku?'. Aku umur dua belas sekarang — dan aku sudah masuk akademi arsip terbaik dunia." Ia tersenyum. "Semua itu karena kalian berdua bertanya padaku dulu. Orang lain menyuruh. Kalian bertanya."
-
-Ia membungkuk — hormat Caldrest untuk keluarga.
-
-"Sampai jumpa setahun. Jangan lupa balas surat tiga hari. Dan jangan lupa..."
-
-Suaranya pecah sedikit untuk pertama kali:
-
-"...aku pulang bawa ilmu arsip tingkat dewa. Supaya arsip keluarga kita jadi arsip paling rapi di dunia."
-
+Tepuk pertama datang dari Daven di belakang aula. Tepuk berikutnya menyusul dari Kovan, Ossian, para guru, lalu seluruh the Listening School berdiri. Nat-nat asuhan di ambang jendela menangkap iramanya dan menjawab dengan ketukan kecil yang tidak seragam. Sela menutupi wajah. Kali ini tak seorang pun menyuruhnya berhenti menangis.
 
 ---
 
-Dan Ashvarok menjawab — dua suara, satu kalimat, untuk terakhir kali sebelum adik mereka menghilang di tikungan jalan:
+Rapat keluarga the Quiet Vein dimulai malam itu dengan dua aturan dari ibu Tamma: semua orang harus makan, dan tidak ada keputusan yang boleh diambil hanya karena takut rindu.
 
-"Selamat terbang, anak pertama kami.
+Meja barak dipenuhi peta jalan ke Spire, daftar pakaian, jadwal nat pos, serta kotak arsip pribadi Sela yang ternyata terlalu berat untuk dibawa satu anak. Di tengah semua itu, ibu Tamma menaruh semangkuk sup dan mendorongnya ke depan Sela.
 
-Rumah tidak akan berpindah. Sup tetap hangat. Dan nat lorong akan menyimpan semua cerita sampai kau pulang."
+"Program satu tahun," kata Kovan sambil menyalin isi surat. "Keberangkatan dua belas hari lagi. Asrama sudah disediakan. Biaya belajar ditanggung akademi."
 
-Sela melambai tanpa menoleh — tangannya terangkat tinggi, melambai-melambai besar seperti anak kecil — dan hilang di tikungan.
+"Dua belas hari?" Renn mengambil surat untuk ketiga kalinya. "Mereka memberi tahu terlalu dekat."
 
-Ashvarok-Renn berdiri lama di batas kota itu.
+Ashvarok mengambil alih sebelum tangannya meremas kertas. "Jalannya aman. Nat pos Caldrest–Spire sudah aktif. Kita tidak perlu mengantar sampai gerbang akademi."
 
-Lalu Renn berkata dari dalam:
+"Aku tidak meminta diantar sampai sana," kata Sela.
 
-"Kak Raja. Kita baru saja melepas anak pertama kita terbang."
+"Kami tahu," jawab Ashvarok.
+
+"Kalian sedang bicara seperti aku belum ada di meja."
+
+Renn hendak menjawab, tetapi Sela lebih dulu membuka kotak arsipnya. Ia mengeluarkan tiga buku, dua bundel laporan, dan papan tulis kecil yang biasa dipakainya saat jaringan nat pertama dibentuk.
+
+"Aku sudah memilih yang dibawa. Sisanya tinggal di kamar. Aku perlu satu tas pakaian dan kotak ini. Kalau berat, aku kurangi buku, bukan minta kakak ikut sepanjang jalan."
+
+Ibu Tamma menunjuknya dengan sendok. "Bagus. Sekarang dua kakakmu dengar. Anak yang berangkat sudah punya rencana."
+
+Renn menunduk ke daftar. "Kami cuma ingin memastikan—"
+
+"Aku aman?"
 
 "Iya."
 
-"Dan dia akan pulang jadi arsiparis paling hebat dunia."
+"Kak Renn, aku membantu memulangkan empat ratus jiwa dari lorong yang mencoba menelan nama mereka." Sela menggeser peta mendekat. "Aku bisa naik kereta pos ke Spire."
 
-"Iya."
+Keberatan Renn gugur, tetapi kekhawatirannya tidak. Ashvarok membiarkannya diam sejenak sebelum berbicara dari mulut yang sama.
 
-Sunyi sebentar.
+"Sampai batas kota," katanya. "Sesudah itu jalanmu sendiri."
 
-"...kita orang tua yang baik, kan?"
+Sela mempertimbangkan usul itu, lalu mengulurkan tangan. "Sepakat."
 
-Ashvarok tersenyum — dan menjawab untuk keduanya:
+Mereka berjabat tangan di atas peta.
 
-"Kita keluarga yang bertanya dulu sebelum menyuruh. Itu lebih dari cukup."
+Keputusan lain menyusul. Kamar Sela tidak akan diubah. Surat dikirim lewat nat pos. Ashvarok-Renn mengambil alih arsip Caldrest dengan bantuan Daven dan murid akademi setempat. Ibu Tamma akan memasak First Camp Soup pada pagi keberangkatan karena, menurutnya, anak pertama yang terbang tidak boleh membawa perut kosong.
 
----
+Renn mengajukan pasal terakhir. "Setiap surat Sela wajib dibalas dalam tiga hari. Balasan memuat kabar keluarga, kabar nat-nat kecil, dan satu cerita lucu."
 
-Dan satu adegan penutup — tiga hari kemudian, sesuai pasal enam:
+"Kenapa cerita lucu harus jadi pasal?" tanya Kovan.
 
-Surat pertama dari Sela tiba lewat nat pos. Ashvarok-Renn membacanya bersama di barak:
+"Karena laporan membuat orang tahu rumah masih berdiri," jawab Renn. "Cerita lucu membuat orang tahu rumah masih hidup."
 
-"KAK!
+Sela mengangkat tangannya. "Aku setuju, dengan tambahan: kalian tidak boleh menyembunyikan kabar buruk supaya aku tenang."
 
-Spire sangat besar. Kamar aku kecil tetapi ada jendela menghadap menara arsip (KAK, MENARA ARSIPNYA SETINGGI LANGIT).
+Ashvarok memandangnya. "Kabar buruk disampaikan setelah ada tindakan yang sedang dilakukan. Bukan ditahan."
 
-Hari pertama: guru bertanya kenapa mau jadi arsiparis. Semua jawab panjang teori. Jawabanku hanya satu kalimat dan seluruh kelas diam:
+"Disetujui."
 
-'Karena keluargaku mengajari aku bahwa setiap nama layak disimpan.'
-
-Guru nangis, Kak. GURU NANGIS.
-
-Nanti kabar lagi. Jangan lupa cerita lucunya.
-
-— Sela, murid akademi (masih tidak percaya)"
-
-Dan di bawah surat itu, satu balasan ditulis malam harinya oleh dua tangan bergantian:
-
-"SELAA!
-
-Menara arsipnya memang setinggi langit. Namun ingat: yang membuat arsip hebat bukan tinggi gedungnya — isi hati penulisnya. Dan kamu punya lebih dari cukup.
-
-Cerita lucu minggu ini: ibu Tamma mencoba resep Vel-Morra dan hasilnya 'seperti sup yang ditenun' — kata dia sendiri. Kami belum yakin itu pujian atau keluhan.
-
-Nat lorong menyapa semua anak barak tiap sore. Kembar Tami-Tomi sekarang jadi ketua kelas nat asuhan (mereka angkat sendiri; tidak ada yang berani protes).
-
-Kami sehat. Sup enak. Rumah menunggu.
-
-— Kak Raja & Kak Renn (penghuni ganda yang rindu)"
+Kovan menulis pasal keenam sampai tintanya menembus halaman. Rapat berakhir bukan dengan tangis, melainkan pembagian tugas. Untuk pertama kalinya sejak surat tiba, dua belas hari terasa seperti waktu yang dapat dipakai, bukan sesuatu yang sedang dicuri.
 
 ---
 
-Dan satu penutup dari ibu Tamma — yang membaca surat balasan itu (arsip keluarga lewat dapurnya, katanya) dan menambahkan di buku dapur:
+Pada hari ketujuh, Sela menemukan Renn di kamarnya sedang membungkus papan tulis pertama dengan kain.
 
-"Anak pertama keluarga ini terbang hari ini.
+"Itu tidak ikut," katanya dari pintu.
 
-Dan dia terbang bukan karena kakak-kakaknya melepas.
+Renn berhenti. "Kamu tadi bilang papan ini perlu."
 
-Dia terbang karena kakak-kakaknya dulu bertanya 'mau jadi adik kami?' — dan sejak itu dia tahu bahwa dia layak punya sayap."
+"Lima hari lalu. Sekarang tidak. Di Spire ada papan."
 
----
+"Bukan papan ini."
 
-Dan satu baris terakhir dari Ashvarok-Renn — di jurnal bersama:
+Sela masuk dan duduk di lantai di antara tumpukan barang. Kamarnya berbau kertas kering dan sabun pakaian. Di dinding, bekas paku menunjukkan tempat peta jaringan nat pernah tergantung.
 
-"Hari 1.045.
+"Kak takut aku lupa?"
 
-Rumah terasa lebih sepi tanpa Sela. Namun tidak pernah sepi benar-benar — karena setiap sudut barak ini ada kenangannya: papan tulis pertamanya, kotak arsip pertamanya, kursi tempat dia menangis dan tertawa.
+"Tidak."
 
-Dan setiap malam, nat lorong mengetuk tiga kali.
+"Jawaban terlalu cepat. Ibu Tamma pasti curiga."
 
-Itu artinya: anak kalian aman di sana. Dan rumah ini masih rumah.
+Renn melepaskan kain pembungkus. "Aku takut kamu sampai di sana dan semua orang sudah lebih tahu. Lalu kamu mengira yang kamu kerjakan di sini kecil."
 
-Kami percaya batu."
+Sela mengambil papan itu. Goresan kapur lama masih terlihat pada sudutnya: gambar tiga nat dengan panah yang salah arah. "Kalau mereka lebih tahu, aku belajar. Kalau mereka meremehkan Caldrest, aku tunjukkan arsip pemulangan. Aku tidak perlu membawa seluruh kamar untuk ingat dari mana aku datang."
 
----
+Ashvarok mendengarkan dari dalam tanpa menyela. Renn mengusap bekas kapur dengan ibu jari.
 
-Pekan-pekan berikutnya, surat-menyurat berjalan sesuai pasal enam — dan setiap balasan tiga hari itu menjadi ritual keluarga:
+"Jadi apa yang boleh kami berikan?"
 
-Renn yang membaca dulu (cepat, karena rindu). Ashvarok yang membaca ulang (lambat, untuk menikmati). Lalu mereka menulis balasan bergantian — satu paragraf Renn, satu paragraf Ashvarok, tanpa tanda siapa mana.
+"Kepercayaan. Beratnya tidak memenuhi kotak."
 
-Ibu Tamma selalu menyisipkan catatan makanan. Brannoc menyisipkan laporan lorong ("tetap aman"). Kembar Tami-Tomi kadang menyelundupkan gambar nat "Teman".
+Papan itu kembali ke rak. Sebagai gantinya, Sela memasukkan tenunan kecil buatan Lompa: simpul tiga warna yang cukup kecil untuk digenggam. Tidak ada tulisan pada tenunan tersebut. Lompa hanya berkata, saat menyerahkannya, "Untuk pengingat bahwa sepi dan sendirian bukan hal yang sama."
 
-Dan sekali sepekan, nat pos mengirim kabar balasan lebih cepat dari biasanya — karena nat-nat di jalur Caldrest-Spire sudah saling kenal dan "kejar-kejaran" irama untuk mempercepat surat keluarga the Quiet Vein.
+Malam sebelum keberangkatan, kembar Tami-Tomi datang membawa tujuh jadwal penyapaan nat asuhan. Sela memeriksa semuanya, mencoret dua tugas ganda, lalu menyerahkan tanggung jawab ketua kelas kepada mereka.
 
-Kovan mencatat fenomena itu dengan kalimat yang dikutip seluruh jaringan batu:
+"Kalau satu nat tidak menjawab?" tanya Tami.
 
-"Batu-batu kita sekarang bersaing kecepatan mengantar surat cinta keluarga.
+"Kalian datang lagi besok."
 
-Delapan bulan silam mereka hanya peta lokasi.
+"Kalau tetap diam?" tanya Tomi.
 
-Sekarang mereka kurir yang bangga."
+"Duduk sebentar. Periksa retak dan suhu. Laporkan ke guru. Jangan pukul lebih keras hanya karena kalian ingin jawaban."
 
----
+Keduanya mengangguk bersamaan. Sela menahan jadwal terakhir sebelum diberikan.
 
-Dan satu surat dari Sela — yang isinya oleh Ashvarok-Renn dibaca berkali-kali dan disimpan di kotak arsip keluarga:
+"Dan jangan ubah penyapaan jadi perlombaan. Nat bukan tugas yang harus selesai cepat."
 
-"KAK.
+Tami mengambil lembar itu. "Kami akan menunggu."
 
-Hari ini di akademi kami belajar 'prinsip arsip purba' — cara Hegemony dulu menyimpan dokumen penting.
+"Lebih lama daripada orang dewasa," tambah Tomi.
 
-Guru bertanya: kenapa arsip penting harus disalin tiga kali di tiga tempat berbeda?
-
-Semua jawab teknis. Redundansi. Keamanan. Bencana.
-
-Aku angkat tangan dan bilang: 'Karena kalau satu salinan hilang, masih ada dua yang ingat isinya.'
-
-Guru diam lama. Lalu dia menulis prinsipku di papan:
-
-'ARSIP = INGATAN YANG DIBAGI.'
-
-Kak. Itu persis seperti keluarga kita, kan?
-
-Satu ingatan dibagi tiga orang (empat dengan penghuni dalam) — supaya tidak pernah benar-benar hilang.
-
-Aku kangen kalian. Namun aku juga bangga: kita sudah jadi prinsip akademi tanpa sadar.
-
-— Sela, dari menara langit"
+Sela tersenyum. Ia tidak lagi meninggalkan pekerjaan yang belum selesai. Ia menyerahkannya kepada dua anak yang tahu kapan harus datang kembali.
 
 ---
 
-Dan Ashvarok-Renn menulis balasan untuk surat itu — yang oleh Sela nanti disalin ke halaman pertama arsip pribadinya di Spire:
+First Camp Soup masih mengepul saat fajar mengusap atap Caldrest. Ibu Tamma memaksa Sela menghabiskan dua mangkuk, menyelipkan roti ke tasnya, lalu memeriksa tali kotak arsip sampai tiga kali.
 
-"Sela.
+Di gerbang, orang-orang yang berjanji tidak akan membuat arak-arakan sudah menunggu dalam jumlah yang cukup untuk disebut arak-arakan. Daven membawa paket pena. Kovan memberi buku kosong dengan nomor halaman terisi rapi. Brannoc memeriksa roda kereta pos tanpa diminta. Nat-nat lorong mengirim ketukan dari batu ke batu sampai bunyinya mengikuti langkah Sela menuju batas kota.
 
-Kamu benar. Keluarga kita adalah arsip yang dibagi tiga (empat).
+Ashvarok-Renn berjalan di sisinya. Mereka tidak menawarkan membawa kotaknya. Kesepakatan adalah kesepakatan.
 
-Dan sekarang kami tahu kenapa rasanya rumah lebih sepi tanpamu:
+Di penanda batas Caldrest, jalan menurun sebelum membelok ke jalur Spire. Kereta pos menunggu di bawah, kudanya mengembuskan napas putih ke udara pagi. Sela berhenti.
 
-karena satu salinan ingatan keluarga sedang belajar jadi arsiparis terbaik dunia.
+"Sampai sini," kata Ashvarok.
 
-Rumah tidak hilang ingatannya — hanya menunggu salinannya pulang membawa lebih banyak lagi.
+"Sampai sini," ulang Sela.
 
-Tiga hari. Satu cerita lucu. Kami janji.
+Ia memandang kota di belakang mereka: mulut lorong, atap sekolah, asap dapur barak, dan nat di sepanjang dinding yang delapan bulan lalu hanya dianggap batu penunjuk. Kemudian ia menghadap kedua kakaknya yang tinggal dalam satu tubuh.
 
-— Dua salinan yang menunggu"
+"Aku umur sebelas tahun ketika Kak Renn bertanya, 'Mau jadi adikku?'" katanya. "Aku dua belas sekarang, dan aku masuk akademi arsip terbaik di dunia. Orang lain menyuruhku mencatat. Kalian bertanya apa yang ingin kusimpan."
 
----
+Renn menggigit bagian dalam pipinya. Ashvarok menahan tubuh mereka tetap tegak.
 
-Dan satu penutup dari ibu Tamma — yang membaca semua surat itu dan menambahkan di buku dapur:
+Sela membungkuk, hormat Caldrest untuk keluarga. "Jangan balas surat lebih dari tiga hari. Jangan kirim laporan saja. Dan kalau ada masalah, bilang. Aku pergi belajar, bukan berhenti jadi bagian rumah."
 
-"Anak-anakku berkorespondensi soal arsip dan prinsip kehidupan.
+"Kami akan bilang," jawab Ashvarok.
 
-Bagus. Bagus semua.
+"Cerita lucu juga," tambah Renn.
 
-Namun aku tambahkan satu hal yang tidak diajarkan akademi mana pun:
+"Terutama cerita lucu."
 
-RUMAH BISA DIBAGI TIGA TEMPAT, NAMUN SUP HANYA ADA SATU TEMPAT.
+Suara Sela pecah pada kata terakhir. Ia menarik napas, mengangkat kotak arsip, lalu berjalan menuju kereta tanpa meminta mereka menyelamatkannya dari perpisahan.
 
-Dan sup itu di sini.
+"Selamat terbang, anak pertama kami," kata dua suara dari belakangnya. "Rumah tidak berpindah. Sup tetap hangat."
 
-Pulanglah sebelum dingin."
+Sela mengangkat tangan tinggi-tinggi. Ia tidak menoleh lagi sampai kereta bergerak, lalu wajahnya muncul sebentar di jendela. Tikungan menelan kereta, debu, dan lambaian itu sekaligus.
 
----
+Renn berdiri sampai ketukan roda tidak terdengar.
 
-Dan satu adegan terakhir — di nat lorong barak utara:
+"Kita baru saja melepas anak pertama kita terbang."
 
-Ashvarok-Renn datang malam itu dengan pertanyaan yang tidak pernah mereka ajukan sebelumnya:
+"Kita tidak melepasnya," kata Ashvarok. "Kita berhenti memegang ketika dia mulai berjalan."
 
-"Nat. Kita mau tanya satu hal.
+"Kak Raja. Itu kalimat orang tua."
 
-Kamu delapan ratus tahun jadi nat lorong. Pasti pernah melihat banyak orang berangkat ke tempat jauh — sekolah, pekerjaan, perang.
+"Jangan tulis di arsip resmi."
 
-Bagaimana cara keluarga bertahan saat anggotanya pergi?"
-
-Dan jawaban nat tua itu — oleh Sela nanti diterima lewat surat dan disalin di akademi — menjadi salah satu kalimat paling sering dikutip dalam sejarah Karvess:
-
-"KAU TANYA CARA KELUARGA BERTAHAN?
-
-JAWABANNYA BUKAN BERTAHAN, ANAK.
-
-JAWABANNYA: RUMAH YANG BAIK TIDAK MENAHAN ANAKNYA PERGI.
-
-RUMAH YANG BAIK MEMASTIKAN ANAK ITU TAHU — DIA BOLEH TERBANG SETINGGI APA PUN, DAN PINTUNYA TETAP TERBUKA KALAU MAU PULANG.
-
-SEPERTI NAT. AKU TIDAK PERNAH PERGI KE MANA-MANA.
-
-NAMUN DELAPAN RATUS TAHUN SEMUA ORANG DATANG KE PADAKU."
+Mereka pulang sambil membawa satu tas roti yang lupa diberikan ibu Tamma kepada Sela. Itu menjadi cerita lucu pertama untuk surat mereka.
 
 ---
 
-Dan Ashvarok-Renn mengetuk nat itu tiga kali — kode keluarga yang sekarang dipakai setiap malam:
+Tiga hari kemudian, nat pos di barak menyala sebelum sarapan. Surat Sela tiba sebagai rangkaian ketukan yang disalin Ashvarok, sementara Renn berulang kali memintanya menulis lebih cepat.
 
-kita masih di sini. semua.
+Spire sangat besar. Kamarnya kecil, tetapi jendelanya menghadap menara arsip yang begitu tinggi hingga puncaknya hilang di kabut pagi. Pada hari pertama, guru bertanya mengapa setiap murid ingin menjadi arsiparis. Murid lain menjawab dengan teori. Sela menjawab, "Karena keluargaku mengajari aku bahwa setiap nama layak disimpan."
 
-Dan nat tua menjawab dengan irama panjang yang artinya:
+Guru itu diam cukup lama, lalu memintanya mengulangi kalimat tersebut untuk dicatat kelas.
 
-aku juga. selalu.
+Di akhir surat, Sela menulis: "Aku aman. Aku makan. Aku rindu. Ketiganya bisa benar sekaligus. Sekarang kirim cerita lucu."
+
+Balasan ditulis malam itu oleh dua tangan bergantian.
+
+Mereka menceritakan tas roti yang ikut pulang, sup Vel-Morra ibu Tamma yang bentuknya seperti ditenun, dan kembar Tami-Tomi yang mengangkat diri sendiri menjadi ketua kelas nat asuhan karena tak ada orang lain cukup cepat mengajukan keberatan. Mereka juga menulis kabar serius: satu nat kecil di jalur utara retak dan sedang dirawat, tetapi masih menjawab sapaan.
+
+Tiga pekan kemudian, Sela membalas bahwa ia senang mereka tidak menyembunyikan retak itu. "Kalau kalian hanya mengirim yang lucu, surat rumah akan berubah jadi pertunjukan. Aku mau rumah yang sebenarnya."
+
+Sejak itu, pasal keenam berubah dalam praktik. Setiap balasan memuat satu hal yang membuat mereka tertawa, satu hal yang sedang mereka rawat, dan satu pertanyaan yang tak wajib segera dijawab.
+
+Pekan-pekan menata rindu menjadi kebiasaan. Renn membaca setiap surat cepat-cepat; Ashvarok mengulanginya pelan. Ibu Tamma menyisipkan catatan makanan. Brannoc mengirim keadaan lorong. Tami-Tomi menyelundupkan gambar nat Teman dengan mahkota terlalu besar. Surat-surat keluarga melaju melalui jaringan batu, kadang tiba lebih awal karena nat sepanjang Caldrest–Spire saling meneruskan irama sebelum jadwal resmi.
+
+Kovan mencatat gejala itu sebagai percepatan resonansi. Renn mencoret istilah tersebut dan menulis di pinggirnya: "Batu-batu berlomba mengantar surat rindu."
+
+Untuk sekali itu, Kovan membiarkan koreksi tidak resmi tetap ada.
 
 ---
 
-Dan penutup bab — dari ibu Tamma, di buku dapurnya:
+Pada bulan ketiga, surat Sela datang tanpa cerita tentang kamar, guru, atau makanan akademi.
 
-"Hari 1.045. Anak pertama keluarga the Quiet Vein terbang.
+Kelasnya mempelajari prinsip arsip purba: dokumen penting Hegemony disalin tiga kali di tiga tempat. Ketika guru bertanya alasannya, murid-murid menjawab redundansi, keamanan, dan bencana. Sela mengatakan, "Kalau satu salinan hilang, masih ada dua yang mengingat isinya."
 
-Sup malam ini dimasak porsi kecil — karena satu orang sedang makan sup enak di menara langit sana.
+Guru menulis jawabannya di papan: ARSIP ADALAH INGATAN YANG DIBAGI.
 
-Namun tungku tetap menyala. Karena dia akan pulang.
+"Kak," tulis Sela, "itu seperti keluarga kita. Ingatan dibagi tiga orang—dua di antaranya berbagi tubuh—supaya kehilangan satu jarak tidak berarti kehilangan rumah. Aku kangen. Aku juga ingin tetap di sini sampai selesai. Tolong jangan membuatku memilih salah satunya."
 
-Dan rumah ini tidak pernah biarkan sup dingin untuk anak yang pulang."
+Ashvarok-Renn tidak langsung membalas. Renn ingin menulis bahwa Sela tak pernah perlu memilih. Ashvarok mengingatkannya bahwa kalimat itu mudah ditulis oleh orang yang tinggal di rumah, lebih sulit dipercaya oleh anak yang tidur jauh dari semua bunyi yang dikenalnya.
+
+Akhirnya mereka menulis: "Rindu bukan perintah pulang. Bangga bukan perintah tinggal. Selesaikan jalan yang kamu pilih, lalu pilih lagi. Pintu tetap terbuka untuk kedua keputusan."
+
+Ibu Tamma menambahkan satu baris: "Rumah boleh dibagi beberapa tempat, tetapi sup di sini. Pulang sebelum dingin kalau sudah waktunya, bukan karena rasa bersalah."
+
+Jawaban Sela datang empat hari kemudian, melanggar jadwal untuk pertama kali.
+
+"Aku perlu membaca balasan kalian dua kali sebelum percaya. Sekarang percaya. Besok aku mengajukan prinsip Ingatan yang Dibagi sebagai tugas akhir."
+
+Keputusan itu mengubah surat keluarga menjadi bahan pelajaran the High Archive Academy. Sela mulai meminta salinan laporan nat tiga generasi. Daven mengirim catatan lapangan tanpa membersihkan kesalahan awal. Kovan menyertakan koreksi. Renn menambahkan kisah orang-orang di balik angka. Ashvarok memastikan tak ada nama yang dibagikan tanpa izin.
+
+Arsip Caldrest tiba di Spire bukan sebagai bukti bahwa keluarga mereka sempurna, melainkan sebagai catatan cara mereka salah, mendengar, lalu memperbaiki.
 
 ---
 
-Dan satu baris terakhir — dari nat aula, yang meneruskan ke seluruh jaringan batu Karvess pesan penutup hari keberangkatan itu:
+Malam setelah kiriman terakhir, Ashvarok-Renn mendatangi nat tua di lorong barak utara. Batu itu pernah melihat pekerja berangkat ke tambang, perang, sekolah, dan rumah baru. Permukaannya dingin di bawah telapak mereka.
 
-"HARI INI ANAK ARSIP PERTAMA KARVESS TERBANG KE MENARA LANGIT.
+"Bagaimana keluarga bertahan ketika anggotanya pergi?" tanya Renn.
 
-DIA DIBESARKAN OLEH: SATU RAJA, SATU BOCAH TUNGGU, SATU IBU DAPUR, DAN TUJUH PULUH TIGA NAT.
+Nat menjawab lewat irama berat yang diterjemahkan Ashvarok perlahan.
 
-DIA AKAN MENJADI ARSIPARIS TERBAIK DUNIA. KARENA DIA BELAJAR ARSIP DARI KELUARGA YANG MEMAHAMI: SETIAP NAMA LAYAK DISIMPAN.
+"Rumah yang baik tidak menahan anaknya pergi. Rumah yang baik memastikan anak itu tahu: dia boleh terbang setinggi apa pun, dan pintunya tetap terbuka kalau mau pulang."
 
-— CATATAN JARINGAN BATU KARVESS"
+Renn menunggu irama berikutnya.
+
+"Itu saja?"
+
+Batu mengetuk satu kali, tersinggung.
+
+"Katanya, nat tidak pernah pergi ke mana-mana selama delapan ratus tahun," ujar Ashvarok. "Namun semua orang selalu dapat datang kembali kepadanya. Ia menganggap itu cukup."
+
+Mereka mengetuk tiga kali, kode keluarga yang dikirim setiap malam ke Spire: kita masih di sini. Semua.
+
+Nat tua menjawab. Bukan janji bahwa tak ada yang akan berubah, melainkan bunyi pintu batu yang tetap mengenali tangan orang-orangnya: aku juga. Selalu.

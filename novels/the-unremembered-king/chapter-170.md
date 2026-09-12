@@ -3,13 +3,13 @@ title: "Bab 170: Yang Dilihat Sela"
 chapter: 170
 ---
 
-Sela menagih giliran berduanya dengan cara yang hanya bisa dilakukan pencatat keluarga: ia menuliskannya di daftar jatah, kolom kakak, baris pekan ini — "patroli buta: Renn + Sela" — lalu meletakkan papan itu di depan makan malam dan makan terus tanpa menoleh.
+Sela menagih giliran berduanya dengan cara yang hanya bisa dilakukan pencatat keluarga: ia menuliskannya di daftar jatah, kolom kakak, baris pekan ini — "blind patrol: Renn + Sela" — lalu meletakkan papan itu di depan makan malam dan makan terus tanpa menoleh.
 
 Brannoc yang membaca baris itu hampir tersedak. "Kamu tujuh tahun lalu—"
 
 "Sebelas. Dan aku sudah turun sampai galeri sembilan bawah bersama regu inspeksi dua kali lewat undian yang sah." Sela memandang kakaknya. "Aturan dapur: yang kuat bekerja banyak, yang belajar bekerja sambil ditonton. Aku sudah dua tahun jadi pencatat semua harga yang kamu bayar di atas kertas. Sekarang aku mau lihat satu kali langsung, supaya angkaku tidak bohong."
 
-Ashvarok membaca wajah adiknya — dan mendapati bahwa untuk pertama kalinya sejak bab-bab awal dunia ini, ia tidak punya alasan penolakan yang lebih kuat daripada takutnya sendiri. Takut itulah intinya, dan ia mengenalinya sebagai kebohongan lama dalam bentuk baru: selama ini ia bilang menjaga mereka DENGAN tidak melibatkan mereka. Namun Caldrest sudah memilih lain — kota ini melibatkan dirinya sendiri, lapis demi lapis, dapur dan pasar dan sekolah pendengar — dan satu-satunya orang yang masih diperlakukan seperti kaca adalah orang yang paling mengerti isinya.
+Ashvarok membaca wajah adiknya — dan mendapati bahwa untuk pertama kalinya sejak hari-hari awal dunia ini, ia tidak punya alasan penolakan yang lebih kuat daripada takutnya sendiri. Takut itulah intinya, dan ia mengenalinya sebagai kebohongan lama dalam bentuk baru: selama ini ia bilang menjaga mereka DENGAN tidak melibatkan mereka. Namun Caldrest sudah memilih lain — kota ini melibatkan dirinya sendiri, lapis demi lapis, dapur dan pasar dan sekolah pendengar — dan satu-satunya orang yang masih diperlakukan seperti kaca adalah orang yang paling mengerti isinya.
 
 "Jalur katup samping," kata Ashvarok akhirnya. "Kita masuk lewat pintu yang empat pulang, keluar lewat bahu timur. Kamu pegang lilin dan papan. Kamu catat apa yang kamu lihat dengan kata-katamu sendiri — bukan versiku, bukan versi Brannoc. Itu syaratku."
 
@@ -21,7 +21,7 @@ Mereka turun pada hari kedua ratus sembilan puluh lima, jam pertama pagi, dan lo
 
 Sela mencatat sambil jalan, seperti janjinya, dan Ashvarok menceritakan — juga seperti janji — bukan versi raja, bukan versi penjaga, tetapi versi pemandu: ini node pertama, rasakan beda suaranya saat telapakmu datang; ini nat tua yang usianya mustahil, jangan sentuh lama-lama; di tikungan ini dulu ada tirisan garam tempat aku menyembunyikan lagu dari seratus suara. Adiknya bertanya tiga kali, tentu saja — kenapa pintunya harus bernama supaya bekerja; kenapa harganya potongan diri bukan lemak seperti Cinder; dan pertanyaan ketiga, yang paling pelan dan paling dalam, diajukan tepat ketika mereka melangkah keluar dari kanal gesekan menuju bahu timur aula:
 
-"Kalau suatu hari hitungan habis dan kamu jadi seperti Tovik — hidup, ramah, tetapi tidak ingat siapa dirinya — boleh aku yang pegang panggung dapur buatmu? Supaya kota membacakanmu dirimu tiap minggu? Aku sudah cek aturanku sendiri: tidak ada pasal yang larang."
+"Kalau suatu hari hitungan habis dan kamu jadi seperti Tovik — hidup, ramah, tetapi tidak ingat siapa dirinya — boleh aku yang pegang the Kitchen Stage buatmu? Supaya kota membacakanmu dirimu tiap minggu? Aku sudah cek aturanku sendiri: tidak ada pasal yang larang."
 
 Langkah Ashvarok berhenti di tengah jalan. Mereka baru saja memasuki ambang aula — delapan banding tiga, kegelapan besar, lambang ikatan yang tertutup batu polos — dan pertanyaan itu menggantung di udara ruang raksasa yang telah menyaksikan sumpah, lagu, kematian lima panglima, dan tidurnya sendiri seribu tahun.
 
@@ -33,7 +33,7 @@ Sela menulis jawaban itu sambil berdiri, lilin di tangan kirinya bergoyang, dan 
 
 ---
 
-Yang membuat malam itu masuk world-state bukan percakapannya, melainkan penemuan Sela pada jam kelima patroli — di node keempat jalur katup, di nat tua yang oleh semua peta disebut mati.
+Yang paling menentukan malam itu bukan percakapannya, melainkan penemuan Sela pada jam kelima patroli — di node keempat jalur katup, di nat tua yang oleh semua peta disebut mati.
 
 Gadis itu berlutut karena melihat sesuatu, dan memanggil kakaknya dengan suara yang sudah berubah register: bukan adik, sudah juru ukur. Jejak sol. Baru. Belum dua hari. Dua pasang — satu besar, satu kecil, pola tapak sol-paku-silang yang sama dengan jejak penyedot era lama NAMUN arahnya terbalik: bukan dari tambang keluar ke kota, melainkan dari lereng timur — dari arah jalan raya Spire — MASUK, turun lewat jalur yang hanya bisa dibaca dari petunjuk batu, tanpa surat tanda, tanpa izin, tanpa satu pun cap lilin di titik-titik pemeriksaan.
 
@@ -59,7 +59,7 @@ Mereka menemukan jawaban sebagian pada jam ketujuh, saat keluar lewat bahu timur
 
 "Murid-muridmu baru enam orang dan salah satunya ibu dapur," kata Ashvarok.
 
-"Semua guru besar memulai dari bahan yang aneh." Pengikat senior bangkit pelan, dan di cahaya lilin Sela wajahnya terlihat lebih tua dari kunjungan mana pun — lelah jenis lain, lelah perjalanan sembilan hari lewat jalur yang tidak dipakai manusia selama seribu tahun. "Aku turun malam ini karena laporan resmi untuk kunjungan bekerja masih disusun di Spire, dan aku tidak mau menunggu kertas mengatur kapan aku bertemu penambal Caldrest." Ia menatap Ashvarok — langsung, lama, cara orang yang sudah membaca banyak hal akhirnya membaca hal yang dicarinya. "Empat puluh tahun. Tiga generasi ordo mati. Satu kabupaten utara yang dihapus. Dan semuanya bermuara ke bocah tungku di tambang kaca-batu."
+"Semua guru besar memulai dari bahan yang aneh." Pengikat senior bangkit pelan, dan di cahaya lilin Sela wajahnya terlihat lebih tua dari kunjungan mana pun — lelah jenis lain, lelah perjalanan sembilan hari lewat jalur yang tidak dipakai manusia selama seribu tahun. "Aku turun malam ini karena laporan resmi untuk kunjungan bekerja masih disusun di Spire, dan aku tidak mau menunggu kertas mengatur kapan aku bertemu penambal Caldrest." Ia menatap Ashvarok — langsung, lama, cara orang yang sudah membaca banyak hal akhirnya membaca hal yang dicarinya. "Empat puluh tahun. Tiga generasi ordo mati. Satu kabupaten utara yang dihapus. Dan semuanya bermuara ke bocah tungku di tambang cinder-glass."
 
 "Dan kau datang sendirian, malam-malam, lewat pintu belakang," kata Ashvarok, "untuk menyampaikan apa? Ancaman jabatan? Penawaran ordo?"
 

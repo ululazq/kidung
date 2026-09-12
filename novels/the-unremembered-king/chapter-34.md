@@ -3,118 +3,220 @@ title: "Bab 34: Peta Bohong"
 chapter: 34
 ---
 
-Malam hari keempat puluh satu membawa Ashvarok ke pinggiran pasar cinder-glass dengan alasan yang dapat dibaca siapa pun: menagih sisa pembayaran penilaian triwulan. Alasan yang baik selalu membosankan, dan yang membosankan jarang diikuti.
+Malam Hari 41, Ashvarok datang ke pasar cinder-glass untuk alasan yang dapat dibaca siapa pun: mengambil sisa pembayaran tempaan.
 
-Gerobak Vosk sudah berdiri di tempat biasanya, diterangi satu lampu minyak yang sumbunya terlalu panjang. Penengah itu sedang menghitung keping ke dalam piring timah, dan aroma tipis air kembang tawar sampai ke tengah jalan sebelum suaranya.
+Gerobak Vosk diterangi lampu bersumbu panjang. Pedagang itu menghitung keping ke piring timah tanpa mengangkat kepala.
 
-"Bocah lorong tujuh." Vosk tidak mengangkat kepala. "Sisa penjualan tempaan. Empat belas shardmark setelah potonganku. Kurang dari harapanmu?"
+"Empat belas shardmark setelah potongan," katanya. "Kurang?"
 
-"Aku tidak pernah berharap dari penengah."
+"Aku tidak berharap kemurahan dari penengah."
 
-"Pilihan yang sehat." Lelaki itu menyorongkan keping-keping itu ke dalam kain, kemudian kotak konsinyasi kecil di atasnya, dan baru sesudah kotak berpindah tangan ia berkata dengan nada yang turun satu tangga nada. "Satu lagi, gratis. Dua sore berturut-turut ada orang berdiri di ujung jalur ini. Tidak membeli apa-apa. Setiap kali aku pindah, dia pindah."
+"Pilihan sehat."
+
+Vosk membungkus keping, menaruh kotak konsinyasi kecil di atasnya, lalu menurunkan suara. "Dua sore ada orang di ujung jalur. Tidak membeli. Aku pindah, dia pindah."
 
 "Shift Guard?"
 
-"Kakinya berdiri seperti seragam, walau dadanya tidak." Vosk mengetuk tutup gerobaknya dua kali, pelan. "Aku hanya menjual barang, bocah. Namun kalau aku punya pelanggan yang jalan pulangnya lewat lorong sempit, aku menyarankannya ganti jalur sesekali."
+"Kakinya memakai seragam meski dadanya tidak." Vosk mengetuk tutup gerobak. "Kalau aku punya pelanggan yang pulang lewat lorong sempit, kusuruh ganti jalan."
 
-"Aku pulang lewat jalur yang membosankan."
+"Aku pulang lewat jalan membosankan."
 
-"Bagus." Vosk kembali kepada piring timahnya. "Orang yang membosankan hidup lama. Kata Assayer Tull, bukan kataku."
+"Orang membosankan hidup lama. Kata Assayer Tull."
 
-Ashvarok membawa kotak itu pulang melalui tiga belokan yang tidak perlu, dan membacanya sendirian di balik barak, dengan punggung menempel pada dinding batu yang masih menyimpan hangat siang. Di dalam kotak: keping, dan satu lipatan kertas bersegel cap penengah. Catatan penilaian lot kosong. Ia membacanya sekali, lalu sekali lagi, lebih lambat.
+Ashvarok membawa kotak itu melewati tiga belokan tambahan. Di balik barak, ia membuka segel penengah. Catatan tiga lot terlipat bersama uang: dua fragmen, satu tempaan, satu lot kosong.
 
-Turun perdana hari keempat puluh lima. Dua belas titik ukur. Instrumen resmi bekerja pada radius lima puluh hasta. Dan baris terakhir, ditulis dengan tinta yang sama jujurnya dengan nasihat penyimpanan mana pun: jangan ada gema asing di dalam saat tanggal itu.
+Ia membaca dari luar dahulu. Nasihat penyimpanan Guild. Radius kerja lima puluh hasta. Dua belas titik survei. Turun perdana Hari 45. Lot kosong harus bebas gema asing.
 
-Maera Tull telah membeli empat hari dengan karier yang dipertaruhkan di lembar kertas, dan empat hari itu sekarang menjadi miliknya. Ashvarok melipat kertas itu searah lipatan aslinya. Pertanyaan yang layak diajukan bukan apakah alat Guild akan mendengar sesuatu di dalam — alat yang baik selalu mendengar sesuatu di dalam. Pertanyaannya adalah bunyi mana yang akan dicatat, dan di titik ukur mana catatan itu jatuh.
+Dari dalam, pesan Maera berdiri utuh. Tim resmi datang empat hari lagi. Instrumen mendengar sejauh lima puluh hasta. Bersihkan ruang yang tidak boleh diakui.
 
-Jawabannya bisa dibangun. Tetapi bangunan membutuhkan bahan, dan bahan itu ada di bawah tanah, di lorong yang dahulu mengajari dunia arti sunyi.
+Sela muncul dari pintu belakang sambil membawa papan tulis. "Dari Assayer?"
 
----
+"Dari penilaian barang."
 
-Hari keempat puluh dua, shift malam, lorong tujuh bagian dalam. Brannoc memberinya dua jam sunyi dengan cara mandor. Regu digeser ke cabang barat dengan alasan penyokongan yang masuk akal, dan tidak ada yang bertanya mengapa bocah tungku berjalan sendiri ke timur dengan lampu yang sumbunya dipendekkan.
+"Itu jawaban Vosk."
 
-Udara makin dingin tiap puluhan hasta, dingin yang bukan suhu saja. Bau garam dan air batuan mengisi lorong, dan di kejauhan sebuah tetesan berdetak dengan irama yang tidak pernah sama dua kali — hampir sama, tetapi tidak pernah sama. Ashvarok menghitung langkahnya dan tidak menyanyikan apa pun.
+Ashvarok menyerahkan lembar tanpa kotaknya. Sela membaca lambat, bibir bergerak pada istilah teknis.
 
-Ceruk itu ada di lengkung keempat setelah titik di mana Ondar dahulu berhenti mengenali namanya sendiri. Lingkaran jelaga tua pada lantai. Bekas panggung api kecil, kayunya sudah lapuk menjadi serat. Batu penahan setinggi lutut yang disusun dengan kebiasaan tangan tambang, dan di belakangnya, terselip rapat, satu bungkusan kulit dijahit benang kasar dan dililin agar tidak basah.
+"Dua belas titik," katanya. "Kamu tahu semua tempatnya?"
 
-Tujuh tahun adalah waktu yang cukup untuk menguburkan sebagian besar manusia. Waktu itu tidak cukup untuk menguburkan pekerjaan yang rapi.
+"Belum."
 
-Ashvarok membuka lilinnya dengan kuku dan mengeluarkan buku catatan lapangan yang sampulnya sudah keras oleh usia. Halaman pertama bukan kalimat, melainkan kolom: tanggal, kedalaman, jumlah ketukan. Ketukan pengukuran era lama — dua pendek, jeda, satu panjang — irama yang sama yang direkam inti bor di lorong sembilan bawah, irama yang sama yang menyapa telinganya sendiri di bibir retakan. Para juru ukur zaman dahulu tidak menemukan irama itu dengan alat. Mereka menemukannya dengan palu dan telinga, dan menuliskannya sebagai angka rutin, seolah menyalakan lagu di kedalaman adalah pekerjaan yang dibayar per shift.
+"Lalu mana yang dibersihkan?"
 
-Di halaman kesepuluh, tulisan arang miring: hilang dua hari di timur. lagunya benar. di bawah galeri timur itu lebar. bukan lorong. aula?
+"Yang dekat aula lebih dulu."
 
-Rekonstruksinya sendiri, tertulis tujuh tahun lebih awal oleh tangan yang bukan tangannya. Ashvarok membaca baris itu dua kali dan membiarkan dirinya merasakan sesuatu yang jarang: ketinggalan oleh seorang rekan.
+"Empat hari cukup?"
 
-Halaman-halaman berikutnya berubah tangan. Tulisan makin besar, makin miring, seolah ditulis dengan mata yang tidak melihat jelas: tangan dingin terbakar tanpa api. tidak ada kapur yang cukup. jangan jawab pakai kapak. Dan di halaman terakhir, dengan huruf yang disengaja rapi, seolah ditulis untuk dibaca orang lain: kalau aku tidak naik, kirimi anakku. ia juru ukur di kota pelabuhan selatan. angka-angka ini lebih jujur daripada aku pernah menjadi.
+"Tidak."
 
-Pak Dekan. Penambang tua yang mati di lorong ini tujuh tahun silam, yang telapak tangannya membawa luka bakar dingin sampai matinya, yang kalimatnya kini berpindah dari ingatan Brannoc ke kertas di tangan Ashvarok. Bukan the Messenger, bukan penjaga yang disumpah — hanya pekerja yang mendengar terlalu banyak dan tetap turun. Ashvarok menutup buku itu dengan hati-hati orang menutup mata mayat.
+Sela menatapnya. "Jawaban jujur buruk."
 
-Menurut perjanjian di gudang mandor, semua temuan turun lewat tangan Brannoc lebih dulu. Ia menggulung buku itu ke dalam bungkus lilinnya, menyelipkannya ke dada, dan memanjat kembali ke udara yang masih bernama hangat.
+"Jawaban bohong tidak menambah waktu."
 
----
+Ia melipat kembali kertas. Maera telah mempertaruhkan jalur Vosk untuk memberi empat hari. Ashvarok tidak akan membalas dengan pekerjaan panik. Peta yang mampu menipu Assayer harus dibangun dari data benar, bukan kabut.
 
-Gudang perkakas tingkat dua, malam harinya, lampu ditutup keranjang terbalik sehingga cahayanya hanya milik dua orang. Brannoc membaca kolom-kolom itu dua kali dengan cara orang membaca angka: dengan jari yang menunjuk dan bibir yang diam.
+Hari 42, Brannoc menggeser regu malam ke cabang barat dengan alasan penyangga. Lorong tujuh bagian dalam menjadi sunyi selama dua jam. Ashvarok berjalan sendiri, lampu dipendekkan, mengikuti ingatan Brannoc tentang Pak Dekan.
 
-"Dia mendengarnya duluan," kata Brannoc akhirnya. "Tujuh tahun sebelum kita."
+Ceruk itu berada setelah lengkung keempat, dekat tempat Ondar dahulu kehilangan namanya. Jelaga tua membentuk lingkaran di lantai. Di belakang batu penahan setinggi lutut, bungkusan kulit dijahit benang kasar dan dilapisi lilin.
 
-"Orang-orang selalu mendengarnya lebih dulu. Yang berbeda hanya siapa yang menulis." Ashvarok meletakkan lembar jadwal curian dari memorinya di atas peti, di samping buku Pak Dekan. "Sekarang soal pekerjaan kita. Dua belas titik ukur. Mana yang kita biarkan benar?"
+Tujuh tahun tidak merusak kerja rapi.
 
-Kebiasaan lamanya bertanya dengan jawaban yang sudah ia pegang tidak pernah gagal memancing lawan bicara, dan Brannoc bukan lawan — tetapi mandor tetap berpikir lebih dulu, karena begitulah caranya menghargai pertanyaan.
+Ashvarok membuka jahitan. Buku lapangan di dalamnya keras oleh lembap dan usia. Halaman awal berisi kolom tanggal, kedalaman, jumlah ketukan. Polanya dua pendek, jeda, satu panjang—irama pengukuran Hegemony yang seam Testament masih kenali.
 
-"Galeri atas," kata Brannoc. "Persimpangan utama. Tempat-tempat yang kalau dibaca salah malah membuat— " ia mengoreksi diri dengan gerakan kepala, "—membuat tim penilai curiga. Data yang jujur di tempat yang tak penting."
+Pak Dekan tidak memiliki instrumen pra-Liberation. Ia memiliki palu, telinga, dan kebiasaan mencatat.
 
-"Tepat. Data jujur di tempat yang tak penting adalah madu di jebakan. Tim yang menemukan sepuluh angka benar akan memercayai angka kesebelas." Ashvarok mengetuk dua lokasi di lembar jadwal. "Yang harus salah: titik di lorong B. Titik kedalaman tujuh. Semua titik yang berjarak kurang dari lima puluh hasta dari retakan. Di sana alat akan mendengar napas, dan napas itu tidak boleh masuk laporan."
+Halaman kesepuluh memuat tulisan arang: *hilang dua hari di timur. lagunya benar. di bawah galeri timur itu lebar. bukan lorong. aula?*
 
-"Dan cara membuatnya salah?"
+Rekonstruksi yang sama, tujuh tahun lebih awal.
 
-"Dua. Garam lebih dulu, sebab murah. Endapan garam menelan pantulan. Pindahkan tirisan garam beberapa hasta ke arah tertentu, dan irama yang kembali ke alat bergeser tanpa jejak apa pun. Lalu Forge — lapisan tempaan setipis napas pada permukaan batu, di titik yang tepat. Batu yang pernah ditenun memantulkan gema dengan irama lain. Alat Guild akan membaca geometri yang jujur tentang lorong yang berbohong."
+Halaman berikut berubah kasar. *tangan dingin terbakar tanpa api.* Lalu: *jangan jawab pakai kapak.* Pada halaman terakhir, tulisan dipaksa rapi: *kalau aku tidak naik, kirimi anakku. ia juru ukur di kota pelabuhan selatan. angka-angka ini lebih jujur daripada aku pernah menjadi.*
 
-Brannoc mengunyah akar pahitnya, dan Ashvarok menunggu pertanyaan berikutnya karena tahu bentuknya.
+Ashvarok menutup buku.
 
-"Harga," kata Brannoc. "Selalu ada harga."
+Bukan utusan. Bukan penjaga bersumpah. Hanya penambang yang mendengar terlalu banyak, tetap turun, lalu meninggalkan ukuran bagi orang berikutnya.
 
-"Batu yang ditenun ikut menua. Retak halus. Dan retak halus itu sendiri bisa dibaca kalau pencarinya rajin — jadi lapisannya harus tipis dan tempatnya harus dipilih seperti memilih kata di surat resmi." Ashvarok menatap lengan kanannya sendiri sebentar, di mana parut vena berhenti tepat di bawah siku. "Per titik, satu pekerjaan malam. Per titik, satu hari makan yang dibakar dari tubuh ini. Empat titik yang harus dibohongi, ditambah cadangan untuk yang belum terdaftar. Pekan-pekan, bukan malam-malam."
+Ia membuka lagi halaman kolom dan membandingkan jarak antarketukan. Tiga baris awal mengikuti kemajuan tambang biasa: kedalaman bertambah, jeda pantul memanjang. Pada baris keempat belas, kedalaman hanya bertambah enam hasta tetapi pantulan terlambat hampir dua kali lipat. Ruang kosong di balik batu telah memperpanjang perjalanan suara. Pak Dekan menandai angka itu dengan noda ibu jari, lalu mengulang pengukuran pada tiga shift berbeda.
 
-"Hourglassmu menyentuh siku."
+Tidak ada satu angka pun yang cukup untuk membuktikan aula. Rangkaian pengulangan yang membuatnya bernilai. Ia menyimpan kesalahan alat, perubahan air, dan posisi palu dalam kolom terpisah. Orang tua itu telah melakukan pekerjaan Assayer tanpa gelar: menolak kesimpulan sampai variasi yang biasa disingkirkan.
 
-"Aku tahu. Adikku mencatatnya setiap malam dengan huruf besar."
+Di tepi halaman lain ada peta tanpa skala, hanya empat tikungan dan satu tanda silang. Ashvarok mengenali dua tikungan pertama. Dua berikutnya terkubur setelah kecelakaan Ondar. Peta lama tidak memberi jalan langsung, tetapi menunjukkan bagian tambang yang pernah terhubung sebelum penyangga dipindah.
 
-"Kalau begitu garam ambil aku." Brannoc meluruskan bahu kanannya yang turun, kebiasaan orang tua ketika memutuskan mengangkat sesuatu. "Garam tidak minta seni. Hanya punggung dan kesabaran. Kamu urus tempaan, dan semua hasil lewat gudang ini lebih dulu — perjanjian tetap berdiri."
+Ia tidak merobek halaman. Tidak menyalin di tempat. Cahaya arang pada kertas baru akan terlihat bila gudang diperiksa. Buku harus tetap menjadi satu benda tua yang terlupakan, bukan sumber banyak lembar baru yang bergerak tanpa alasan.
 
-"Perjanjian tetap berdiri." Ashvarok menggulung lembar jadwal. "Satu lagi. Buku ini — catatan Pak Dekan. Anaknya masih hidup, di kota pelabuhan selatan. Suatu hari peta tua mungkin datang dari arah itu. Simpan bukunya di tempat yang bahkan kamu sendiri lupa."
+Ia membawa buku ke gudang perkakas. Brannoc membaca tiap kolom dengan telunjuk mengikuti baris. Lampu ditutup keranjang terbalik; cahaya tidak lolos dari meja.
 
-Brannoc memasukkan bungkusan kulit itu ke balok kayu di bawah karung, di antara paku berkarat, dan menepuknya sekali seperti menepuk kuda. "Lupa itu keahlianku yang paling lama," katanya. "Baru sekarang keahliannya berguna."
+"Dia mendengar aula," kata Brannoc.
 
----
+"Dia mengukur jalan menuju aula."
 
-Hari keempat puluh tiga, Ashvarok melakukan pekerjaan yang paling ia kuasai sepanjang dua kehidupan: duduk diam dan menghitung.
+"Tujuh tahun lalu."
 
-Ruangan tungku ventilasi tingkat lima memberinya panas murah dan bau besi tua. Di lututnya, lembar jadwal. Dua belas titik ukur, dari galeri atas sampai lorong sembilan bawah. Turun perdana hari keempat puluh lima — lusa.
+"Batu tidak menunggu kita menyadarinya."
 
-Angka-angkanya tidak mau berbohong kepadanya, dan ia tidak mengharapkannya. Satu regu, satu hari, dua belas titik dari permukaan sampai kedalaman sembilan: penerangan untuk belasan jam, izin kedalaman, troli, waktu naik-turun, waktu pembacaan per titik. Bahkan tim yang kompeten — dan tim Spire memang kompeten, itu yang membuatnya berbahaya — tidak sanggup. Turun perdana hari keempat puluh lima hanya bisa berarti satu hal: permukaan atas. Beberapa titik galeri atas dan persimpangan utama, yang datanya memang boleh jujur. Kedalaman akan menyusul di tanggal-tanggal berikutnya, dan di sanalah pekerjaan sungguhan menunggu.
+Ashvarok menghamparkan salinan jadwal dari ingatan. Hanya sebagian titik yang diketahui: galeri atas, persimpangan utama, lorong B, titik tujuh di bawah batas peta.
 
-Kesimpulannya menenangkan dan menakutkan dalam porsi yang sama. Menenangkan, karena lusa bukanlah hari penghakiman. Menakutkan, karena survei ini bukan gelombang tunggal melainkan musim, dan musim tidak bisa dibohongi sekali — musim harus dibohongi terus, titik demi titik, dengan tubuh yang setiap pekerjaan memotongnya lebih pendek.
+"Mana yang boleh benar?" tanyanya.
 
-Maka pertanyaan yang tersisa bukan kapan, melainkan mana yang lebih dulu.
+Brannoc mengunyah akar pahit. "Galeri atas. Persimpangan. Tempat yang kalau dibaca aneh akan membuat mereka memeriksa ulang."
 
-Aula. Selalu aula. Delapan puluh kali tiga puluh hasta di bawah galeri timur, dengan lorong B sebagai pintu lamanya, dan retakan di dasarnya yang mengenal namanya. Setiap instrumen yang mendekati lorong B pada radius lima puluh hasta adalah telinga yang diturunkan ke tepi telinganya sendiri. Titik-titik dalam boleh menyusul minggu depan, tetapi aula tidak boleh kalah cepat dari jadwal siapa pun.
+"Data benar di tempat tak penting membangun kepercayaan."
 
-Dan mengerjakan aula berarti turun ke lorong B, berulang kali, sendirian, ke tempat seam menyapa dengan suara yang bukan suara manusia — dengan tubuh yang cadangannya tinggal seratus enam persen dan terus mencair. Tubuh ini memang pinjaman — ia sudah menghitung harganya sejak malam pertama. Aula berbeda. Kalau aula terbaca, segel terbaca, dan yang terbaca tidak bisa dibaca-salah oleh garam dan lapisan tipis mana pun.
+"Yang harus salah: lorong B dan semua yang dekat aula."
 
-Seorang raja pernah menukar nama demi segel, dan nama itu habis. Seorang bocah tungku hanya perlu menukar tidur, lemak, dan sisa waktu tubuh yang memang sudah dijual lebih dulu kepada tambang. Pergantian yang murah. Ashvarok hampir bisa menertawakannya.
+"Ya." Ashvarok mengetuk empat perkiraan lokasi. "Namun kita tidak memalsukan angka. Kita mengubah ruang yang dibaca."
 
-Ia melipat lembar jadwal, meniup bara tungku kedua sampai tinggal merah redup, dan turun.
+"Caranya?"
 
----
+"Garam memindahkan pantulan. Murah, lambat, dan tampak alami. Forge menenun lapisan tipis pada batu, membuat alat membaca geometri yang jujur tentang permukaan yang kita ubah."
 
-Malam hari keempat puluh tiga, lorong B. Sunyi di sini punya tekstur — bukan hening kosong, melainkan hening yang menahan napas, dan bulu tengkuknya mengenali tekstur itu sebagai kenalan lama yang tidak bisa dikatakan sahabat.
+"Harga."
 
-Dua puluh hasta dari pintu tua ia berhenti. Dari titik ini, lima puluh hasta radius alat mana pun sudah menggaruk bibir kedalaman. Ia meletakkan telapak kanan pada dinding, membiarkan dinginnya merambat ke pergelangan yang parutnya berdenyut pelan, dan mulai menempa.
+"Lapar, panas, dan tekanan pada vein-scar kalau terlalu tebal."
 
-Forge mengalir keluar dari nadinya setipis yang sanggup ia paksa: bukan api, bukan bentuk, hanya satu lapisan kepastian yang ditenunkan ke dalam batu sepanjang dua hasta, selebar dua jari, tepat pada ketinggian di mana kepala juru ukur akan berdiri. Batu di bawah telapaknya berubah dengan cara yang tidak bisa dilihat siapa pun — hanya bisa didengar alat, dan didengar tubuhnya sendiri sebagai irama pantulan baru yang kembali ke tulangnya. Panasnya ia tarik dari tubuhnya sendiri, karena menarik dari udara meninggalkan dingin yang salah jenis, dan dingin yang salah jenis bisa dibaca. Lapar datang seketika, besar dan spesifik, seperti biasanya.
+"Cadanganmu?"
 
-Selesai. Satu titik. Sebelas pekerjaan lagi di lorong-lorong lain, ditambah semua yang belum tercantum.
+"the Remainder sekitar enam persen. Forge tidak memakai harga yang sama, tetapi tubuh yang membayar tetap satu."
 
-Sebelum berbalik, Ashvarok mengeluarkan sepotong arang dan menggambar di dinding, satu inci di bawah garis tempaan: satu goresan pendek, miring dua puluh derajat, persis bentuk bekas gesekan roda troli yang sudah ribuan kali lewat di tambang mana pun. Tanda yang tidak berarti apa-apa bagi semua orang, dan berarti segalanya bagi satu orang.
+Brannoc menunjuk Hourglass yang tidak dibawa Ashvarok. "Garisnya?"
 
-Peta bohong memiliki garis pertamanya. Ia memadamkan lampu dan berjalan keluar dengan hitungan mundur di dalam kepala: dua hari sampai permukaan atas dibaca, dua pekan sampai kedalaman, dan di antara keduanya, satu lorong tua yang kini punya satu garis kecil yang berbohong dengan sangat, sangat jujur.
+"Belum lewat siku."
+
+"Belum bukan izin."
+
+Ashvarok tidak membantah.
+
+Brannoc menarik lembar mendekat. "Garam bagian saya. Regu bisa memindah tirisan saat memperbaiki saluran. Tidak ada satu orang mengangkat cukup banyak untuk terlihat."
+
+"Forge bagian saya."
+
+"Satu titik dahulu. Kita uji sebelum menambah."
+
+"Survei mulai dua hari lagi."
+
+"Permukaan mulai dua hari lagi. Dua belas titik tidak selesai dalam satu turun." Brannoc mengetuk peta. "Jarak naik-turun, alat, izin, pergantian lampu. Bahkan orang Spire harus berjalan."
+
+Ashvarok menghitung. Brannoc benar. Hari 45 membuka musim survei, bukan menyelesaikannya. Titik atas akan dibaca dahulu. Kedalaman memberi waktu, tetapi bukan keselamatan.
+
+"Buku Pak Dekan?" tanya Brannoc.
+
+"Disimpan. Jangan dipotong, disalin, atau dikirim."
+
+"Anaknya?"
+
+"Belum. Nama kota pelabuhan terlalu umum, dan pencarian meninggalkan jejak."
+
+Brannoc membungkus buku dengan kulit semula, lalu membuka balok kayu di bawah tumpukan paku. Rongga sempit di dalamnya kering.
+
+"Bahkan aku jarang ingat tempat ini," katanya.
+
+"Ingat sekarang."
+
+"Perjanjian gudang masih berlaku. Semua temuan lewat saya."
+
+"Dan semua temuan tetap utuh sampai kita tahu nilainya."
+
+Brannoc memasukkan buku, menutup balok, lalu menaruh paku berkarat di atasnya. "Utuh."
+
+Hari 43, Ashvarok memakai ruang ventilasi tingkat lima untuk menghitung. Panas tungku bekas mengurangi harga yang harus diambil Forge dari tubuh. Di lututnya, dua belas titik tanpa koordinat lengkap.
+
+Satu tim tidak dapat membaca semuanya pada Hari 45. Perjalanan ke kedalaman sembilan, pemasangan resonance standard, pencatatan, dan pemeriksaan ulang menuntut beberapa turun. Titik satu sampai tiga kemungkinan permukaan. Titik tujuh baru dibuka setelah pembanding cocok—kebiasaan Ossian, kalau Maera membaca orang itu dengan benar.
+
+Counter-map belum menjadi peta. Ia hanya punya radius alat, empat lokasi rawan, irama Pak Dekan, dan dugaan urutan. Menyelesaikannya sekarang berarti mengarang garis. Garis palsu yang dipercaya pembuatnya lebih berbahaya daripada peta musuh.
+
+Ashvarok menggambar lingkaran radius lima puluh hasta pada titik yang diketahui. Lingkaran lorong B memotong dua jalur kerja dan satu saluran air. Mengubah ketiganya akan menciptakan pola. Ia menghapus tanda saluran: air memang menggeser gema, tetapi perubahan aliran mendadak sebelum survei mengundang pemeriksaan fisik. Garam Brannoc harus mengikuti endapan lama, bukan membuat endapan baru.
+
+Titik galeri atas dibiarkan sepenuhnya benar. Titik persimpangan diberi satu variasi kecil dari troli kosong yang memang melintas tiap pergantian shift. Maera akan melihat gangguan itu dan menggolongkannya sebagai kerja tambang, asalkan jadwal troli tidak berubah. Kebohongan terbaik dihasilkan kegiatan yang sudah dibayar Quota Office.
+
+Untuk titik tujuh, ia belum memiliki posisi alat. Satu hasta perbedaan dapat menentukan apakah lapisan Forge menyembunyikan pintu atau malah mengarahkan pantulan kepadanya. Ruang itu tetap kosong. Sela membuat garis tebal di sekelilingnya agar tak seorang pun menganggap lupa sebagai keputusan.
+
+"Berapa banyak orang boleh melihat lembar ini?" tanya Sela.
+
+"Kamu, aku, Brannoc."
+
+"Maera?"
+
+"Dia membangun sisi lain tanpa melihat sisi ini. Kalau kedua peta ditemukan bersama, dua pembaca menjadi satu bukti."
+
+Sela menuliskan tiga titik kecil di sudut—jumlah penjaga peta, bukan nama mereka. Lalu ia menyimpan arang yang dipakai ke kantong terpisah untuk dibakar. Kebiasaan baru, dan kebiasaan baik.
+
+Sela duduk di lantai, menyalin angka tanpa nama tempat. "Kenapa titik kosong dibiarkan?"
+
+"Karena kita belum tahu."
+
+"Kamu biasanya mengisi yang belum tahu dengan kemungkinan."
+
+"Kali ini kemungkinan dapat membunuh orang yang bekerja mengikuti peta."
+
+Ia membuat tiga tanda: benar, dialihkan, belum diketahui. Tujuh dari dua belas tetap kosong.
+
+"Aula?" tanya Sela.
+
+"Dialihkan pertama."
+
+"Berapa pekerjaan?"
+
+"Satu malam untuk satu lapisan. Lalu uji."
+
+"Bukan sebelas?"
+
+"Bukan. Kita tidak menenun seluruh tambang hanya karena ada dua belas titik."
+
+Sela mengangguk puas. Pengurangan lebih meyakinkannya daripada janji.
+
+Malam Hari 43, Ashvarok turun ke lorong B. Dua puluh hasta dari pintu tua, radius lima puluh hasta mulai menyentuh jalur menuju aula. Ia membersihkan dinding selebar dua jari, menempelkan telapak kanan, lalu menarik panas dari ruang ventilasi yang masih mengalir lemah melalui batu.
+
+Forge masuk setipis napas.
+
+Bukan api, bukan bentuk baru. Satu kepastian ditenun pada permukaan sepanjang dua hasta: pantulan datang dari sudut berbeda, cukup untuk menggeser pusat gema menjauhi pintu. Batu tidak retak. Garam di kaki tidak mencair. Vein-scar menghangat sampai pergelangan, lalu berhenti.
+
+Harga tetap datang. Lapar menekuk perut. Tangan kanan gemetar. the Remainder tidak dipakai, tetapi tubuh Renn kehilangan satu malam pemulihan yang tidak dapat diganti sebelum survei.
+
+Ashvarok mengeluarkan garpu ukur sederhana. Ia mengetuk batu dari tiga jarak. Pantulan pertama bergeser. Kedua juga. Ketiga, dari sudut rendah, masih mengarah ke aula.
+
+Lapisan belum cukup. Menebalkannya malam ini akan memperbesar jejak Forge. Ia mencatat kegagalan itu pada counter-map sebagai garis putus, bukan memperbaikinya dengan paksa.
+
+Di bawah lapisan, ia membuat goresan miring seperti bekas roda troli. Tanda bagi Brannoc, tidak berarti bagi tim lain.
+
+Saat keluar, retakan di balik pintu tua tidak memanggil. Ashvarok tidak membuka pintu dan tidak menguji arsip. Pekerjaan malam ini hanya satu garis.
+
+Counter-map memiliki titik pertama, satu keberhasilan parsial, dan tujuh ruang kosong. Cukup untuk mulai berbohong kepada alat. Belum cukup untuk berbohong kepada dirinya sendiri.

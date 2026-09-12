@@ -45,7 +45,7 @@ Pegawai mencatatnya. Lalu masih menunggu.
 
 "Memeriksa, menagih data, menetapkan ulang prosedur pencatatan, Tuan."
 
-"Memeriksa." Ossian mengulang kata itu pelan, seperti orang menguji lantai sebelum melangkah. "Ada satu orang di kota ini yang membaca segmen itu lebih tua dan lebih teliti daripada seluruh instrumen Spire. Dia pengawas tetap atas nama biro ini. Jadwal pengikatan ulang mengikuti laporannya, kata perjanjiannya — maka pemeriksaan kondisi juga boleh mengikuti tangannya. Surat tugas. Pemeriksaan teknis kondisi segmen, atas nama supervisi Koordinasi Artefak Regional — bukan atas nama Guild, bukan atas nama saya — dan tidak meminta satu huruf dari Assayer mana pun."
+"Memeriksa." Ossian mengulang kata itu pelan, seperti orang menguji lantai sebelum melangkah. "Ada satu orang di kota ini yang membaca segmen itu lebih tua dan lebih teliti daripada seluruh instrumen Spire. Dia pengawas tetap atas nama biro ini. Jadwal pengikatan ulang mengikuti laporannya, kata perjanjiannya — maka pemeriksaan kondisi juga boleh mengikuti tangannya. Surat tugas. Pemeriksaan teknis kondisi segmen, atas nama supervisi Regional Artifact Coordination — bukan atas nama Guild, bukan atas nama saya — dan tidak meminta satu huruf dari Assayer mana pun."
 
 ---
 

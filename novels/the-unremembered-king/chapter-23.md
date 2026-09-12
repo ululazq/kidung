@@ -3,98 +3,176 @@ title: "Bab 23: Peta yang Tidak Ada"
 chapter: 23
 ---
 
-Ada dua cara memetakan tambang. Cara pertama: turun dengan lampu dan pita ukur, mencatat setiap belokan seperti juru tulis yang tidak percaya ingatan. Cara kedua... mengingat.
+Nyala tungku tingkat lima sudah diturunkan ketika Ashvarok mengunci pintu ruang furnace dari dalam. Bara yang tersisa memberi cukup cahaya untuk bekerja, tetapi tidak cukup terang untuk mengundang pertanyaan dari lorong. Ia memindahkan sebuah peti ke tengah lantai, membalik tiga lembar catatan kuota, lalu menahan sudut-sudutnya dengan mur besi.
 
-Malam itu, di ruang tungku tingkat lima yang sepi, Ashvarok memilih cara kedua. Bukan karena cara pertama buruk — cara pertama jujur, dan kejujuran punya tempatnya. Tetapi cara kedua adalah satu-satunya jalan untuk memetakan lorong-lorong yang tidak pernah ada di buku mana pun. Dan lorong seperti itu, ia sudah mengetahuinya sejak minggu pertama, selalu lebih banyak daripada yang tercatat.
+Selama dua minggu, tubuh Renn pulang dari tambang membawa debu, memar, dan ukuran-ukuran yang tak pernah diminta Guild. Jumlah langkah antara tikungan. Kemiringan saluran air. Jarak dari ketukan palu sampai gema kedua. Arah serat batu di bawah telapak. Letak penyangga yang menerima beban lebih besar daripada seharusnya.
 
-Dia menutup mata, dan membiarkan seribu tahun turun.
+Malam ini semua ukuran itu berhenti menjadi serpihan.
 
-Zaman Hegemony tidak menguburkan orang saja. Ia menguburkan geometri. Di bawah setiap kota besar pernah ada ruang-ruang pengikat — lantai batu yang dipotong rata oleh seni, bukan pahat; tangga-tangga yang anaknya selalu sama tingginya sampai ke abad; koridor-koridor lurus yang dibangun bukan untuk manusia, melainkan untuk pembawa bahan menuju pintu-pintu yang tidak boleh salah arah. Bau kemenyan pengawet dan lilin biru masih hidup di hidungnya meski berabad-abad telah lewat. Ashvarok pernah berjalan di koridor-koridor itu ketika masih putih dan baru — dia yang menyetujui denahnya, dia yang menolak tiga versi sebelumnya karena simetrinya bisa membocorkan arah pusat.
+Ashvarok menggambar garis pertama memakai arang. Lorong sembilan bawah turun dari utara, berbelok ke timur, lalu berakhir pada cabang-cabang pendek. Peta resmi menyebut batu padat di belakangnya. Namun gema tidak pernah mengakui kepadatan itu. Setiap ketukan di sisi timur pulang terlambat, dengan ruang kosong terselip di antara pukulan dan jawaban.
 
-Dan Caldrest, kini ia yakin, duduk persis di atas salah satunya.
+Ia menandai titik-titik pembacaan dari hari-hari sebelumnya. Bekas panen ilegal membentuk deret melengkung. Sayatannya berbeda umur, tetapi seluruhnya menghadap arah yang sama. Aliran yang pernah ia ikuti di Lorong B juga condong ke sana. Begitu pula tekanan yang membuat kayu-kayu penyangga timur melengkung meski lapisan batu di atasnya tidak cukup berat untuk menjelaskan beban itu.
 
-Ia mulai menggambar di punggung bersih selembar surat kuota bekas — kertas yang baunya masih seperti tinta murah dan debu loket. Bukan peta tambang; peta tambang sudah hidup di kepala Brannoc selama dua puluh tahun. Yang ia gambar adalah apa yang berada di bawah tambang. Pertama, sumbu timur — kemiringan formasi yang ia rasakan lewat telapak tangan selama dua minggu, batu yang berbisik lewat getaran sekop di atasnya. Kedua, titik-titik panen ilegal dari lorong sembilan bawah, semuanya terbaris pada satu lengkung seperti manik-manik pada tali yang sama. Ketiga, ceruk tempat ia menutup pintu kecil itu — empat puluh empat hasta lebih dalam dari titik ukur assayer, condong timur laut. Keempat, denyut utama — jauh lebih dalam lagi, di bawah semua yang pernah disentuh kakinya, di tempat retakan besar itu berdenyut sabar seperti jantung kedua.
+Peta Guild gagal karena peta itu hanya mengenal tambang.
 
-Ketika keempat kelompok titik itu diletakkan berdampingan, garis-garisnya tidak membentuk kebetulan.
+Ashvarok mengenal apa yang ada sebelum tambang.
 
-Mereka membentuk sisi-sisi sebuah aula memanjang yang condong dua puluh derajat ke timur laut. Delapan puluh hasta kali tiga puluh. Rasio 8:3 — dimensi yang membuat gigi Ashvarok bergemeretuk pelan, bunyi yang terdengar asing di ruangan yang selama ini hanya dihuni deru tungku. Dimensi standar aula pengikat kelas dua era Hegemony, jenis yang dibangun berpasangan dengan segel utamanya, dengan satu koridor masuk dan satu ruang mesin. Ia mengenal angka-angka itu seperti mengenali wajah sendiri di cermin berdebu.
+Ia menutup mata untuk membersihkan gangguan, tanpa memanggil kuasa. Tidak ada the Walking Key. Tidak ada pengeluaran dari the Remainder. Hanya ingatan yang berusia lebih dari seribu tahun: lorong batu pucat, hitungan kolom, dan ukuran yang dahulu harus ia setujui sebelum satu fondasi boleh dipasang.
 
-`*Aula pengikat,*` bisiknya dalam hati, dan kata itu terasa seperti nama yang sudah lama tidak diucapkan. `*Utuh. Masih di sini.*`
+Para pembangun Hegemony menyukai ketepatan karena ketepatan membuat pengikatan bertahan. Ruang kelas satu dibuat luas untuk upacara dan banyak penjaga. Kelas tiga dibuat sempit, murah, serta mudah dikorbankan. Kelas dua memakai bentuk yang tak boleh berubah: panjang delapan puluh hasta, lebar tiga puluh. Delapan banding tiga. Cukup besar untuk menampung mesin pengikat, cukup sempit agar tegangan tidak pecah ke sayap bangunan.
 
-Aula pengikat Caldrest masih utuh di bawah sana. Dan tambang the Quiet Vein, tanpa sadar, telah menggalinya selama empat puluh tahun — seperti orang menggali ke dalam bangkai paus yang tidur, tidak tahu bahwa di balik dinding terakhir ada jantung yang masih berdetak pelan.
+Arangnya bergerak lagi.
 
-"Delapan puluh kali tiga puluh," kata Ashvarok pada tungku, karena bicara pada barang membuat angka lebih jujur. "Dan penyangga-penyangga kayu yang menahan beban tak wajar di sisi timur... itu atapnya. Atap yang masih pegang."
+Dua garis panjang mengapit deret bekas panen. Garis pendek menutup ujungnya. Ia mengukur dengan ruas jari, mengoreksi sudut, lalu mengulang perbandingan. Hasilnya tetap sama.
 
-Tungku tidak menjawab. Tungku tidak perlu menjawab — ia hanya meradang kuning, setia, seperti lampu cinder-glass yang menjaga malam dari kehilangan bentuknya.
+Bukan kemiripan. Bukan dugaan yang lahir dari kurang tidur.
 
-Masalah lokasi: selesai. Selama dua pekan pertanyaan itu menggantung — di mana tepatnya pintu yang harus dijaga — dan malam ini jawabannya tertulis di punggung surat bekas dengan huruf-huruf yang hanya dibaca satu orang hidup.
+Sebuah aula pengikat kelas dua terbaring di bawah sisi timur tambang.
 
-Tetapi peta itu juga memaksa dua pertanyaan lain keluar dari persembunyiannya, dan keduanya tidak segera menjawab.
+Ashvarok membuka mata. Bara memantulkan merah pada peta kasar itu. Di luar, rantai ventilasi berderak dua kali, lalu diam.
 
-Pertama. Aula pengikat era Hegemony tidak pernah berdiri sendirian. Ia dibangun berpasangan dengan segel utamanya, dan segel utamanya adalah the Threshold — yang artinya ruang delapan puluh kali tiga puluh itu bukan sekadar bangkai bangunan. Itu ruang tunggu di depan pintu. Siapa pun yang berdiri di dalamnya berdiri seribu tahun lebih dekat ke Vel-Ghora daripada siapa pun yang pernah hidup di Caldrest. Seribu tahun lebih dekat ke hal yang namanya saja tidak boleh ditulis di dinding.
+Ia memutar lembaran agar sisi timur menghadap tungku. Penyangga-penyangga aneh berada tepat di atas batas panjang aula. Bukan batu alam yang membebani kayu itu. Atap bangunan lama menyalurkan berat ke lapisan yang kini dilubangi para penambang. Selama bertahun-tahun, orang-orang Caldrest memasang tiang untuk menyangga sesuatu yang tak mereka ketahui namanya.
 
-Kedua — dan inilah yang membuat jarinya berhenti di atas gambar — titik bocor kecil yang ia tutup minggu lalu, napas pendek, serak, pemakan nama di lorong B, ternyata bukan mulut utama. Posisinya terlalu tinggi, terlalu pinggir. Dari geometrinya, itu hanya rembesan samping — air yang merembes lewat sela dinding saat bak mandi utama sedang dipakai. Bak mandi utamanya sendiri — tarikan besar, sabar, bertahun-tahun, yang menyedot pengikat segel langsung dari dekatnya — pasti berada di dalam aula itu. Di ruang delapan puluh kali tiga puluh yang tidak tercatat siapa pun.
+Ujung arang menekan titik di bawah pusat aula.
 
-Artinya, selama berapa pun lamanya, ada yang punya akses rutin ke aula pengikat era Hegemony di bawah tambang aktif. Berjalan masuk lewat koridor yang tidak ada di peta Guild, bekerja dengan alat yang tidak dijual pasar Caldrest, dan pergi meninggalkan sayatan yang rapi. Tidak ada debu yang terganggu. Tidak ada langkah yang salah.
+Di sanalah the Threshold seharusnya berada.
 
-Bukan pencuri yang kebetulan menemukan lubang.
+Setiap aula kelas dua dibangun di atas pengikatan utama. Lantai, koridor, ruang pelayanan, dan saluran buang hanyalah perangkat di sekeliling pintu yang sebenarnya. Para penambang mengira mereka bekerja di dasar dunia. Kenyataannya, dasar tambang masih sebuah atap.
 
-Arsitek.
+Ashvarok menatap tanda kecil untuk Lorong B. Ia pernah mengira kebocoran yang ditutupnya di sana adalah sumber tarikan. Kini letaknya mempermalukan kesimpulan itu. Titik tersebut terlalu tinggi dan terlalu jauh dari sumbu aula. Aliran di sana hanya rembesan lateral—tekanan yang lolos melalui sambungan tua, kemudian menemukan retak menuju tambang.
 
-Ashvarok melipat surat bekas itu delapan kali, kecil-kecil sekali, sampai sebesar ibu jari, dan menyimpannya di tempat yang sama dengan pecahan kaca-batu bukti perjanjian Brannoc — saku dalam, dekat dada, di atas detak jantung tubuh pinjaman ini. Dua benda yang sama-sama menunggu. Dua janji yang sama-sama belum selesai.
+Mulut ekstraksi utama harus berada di dalam aula.
 
-Dua peta kini hidup di dalam kepalanya. Peta tambang milik Brannoc — peta orang-orang, peta upah dan shift dan anak-anak yang harus pulang utuh. Dan peta yang tidak dimiliki siapa pun — peta yang menunjukkan bahwa seluruh Caldrest, dengan pasar dan barak dan Quota Office dan empat ratus keluarganya, duduk di atap sebuah aula yang dibangun untuk menjaga pintu dunia tetap tertutup.
+Kesadaran itu mengubah seluruh ancaman. Penambang ceroboh dapat membelah lapisan tanpa mengetahui apa yang disentuhnya. Pencuri dapat menemukan celah, mengambil sedikit, lalu melarikan diri. Namun sayatan-sayatan di Lorong B dan tingkat sembilan terlalu rapi. Arah alirannya dipelihara. Tarikannya berirama. Seseorang telah memilih posisi di dalam bangunan tersembunyi, membuka jalur kecil untuk memanen daya pengikat, lalu menjaga agar kerusakan tidak segera meruntuhkan segel.
 
-Dan di bawah aula itu, sabar seperti utang, the Threshold terus menunggu — sementara seseorang, entah siapa, sedang meminum pengikatnya dari sisi dalam. Pelan. Teratur. Seperti orang yang sudah lama tinggal di rumah itu dan tahu persis di mana dapur berada.
+Bukan tangan yang tersesat.
 
----
+Seorang arsitek.
 
-Pagi harinya, dia membawa pertanyaan itu ke satu-satunya orang di Caldrest yang boleh tahu separuh darinya.
+Ashvarok meletakkan arang. Jari Renn menghitam sampai buku pertama, kecil dan kurus dibandingkan tangan yang pernah menandatangani perintah pembangunan ruang seperti ini. Namun garis di atas kertas tetap benar, siapa pun pemilik tangan itu.
 
-Brannoc mendengarkan sambil sarapan roti kerasnya di gudang perkakas — tidak semuanya, tentu. Tidak ada kata Hegemony. Tidak ada kata segel. Tidak ada kata raja. Yang diberikan hanya bagian yang bisa dipinjam: "Di bawah galeri timur ada ruang besar yang tidak tercatat. Seperti aula. Dan sayatan-sayatan panen kita, plus titik bocor lorong B, plus arah arus gema — semuanya bertemu di situ."
+Ia menyusun ulang urutan temuannya. Aula. Atap timur. the Threshold di bawah. Rembesan samping di Lorong B. Mulut utama di dalam. Seseorang masuk tanpa melewati jalur tercatat.
 
-Udara gudang berbau besi karat dan akar pahit; debu garam melayang pelan di antara dua orang yang saling menimbang.
+Pertanyaan tentang lokasi telah mati. Pertanyaan tentang jalan masuk kini jauh lebih berbahaya.
 
-"Ruang besar." Brannoc menaruh rotinya. "Aku mencari ruang itu sejak kau bilang penyangga timur mengeluh. Survei Guild sendiri tidak menunjukkan apa-apa."
+Ia menyalin peta pada satu lembar saja, tanpa label yang dapat dipahami orang lain. Setelah bara memakan dua lembar catatan pendukung, ia melipat lembar terakhir dan menyelipkannya ke balik lapisan baju. Abu menyusut di mulut tungku. Tidak ada yang tersisa untuk ditemukan, kecuali peta yang dibawanya dan bentuk yang sudah tertanam di kepalanya.
 
-"Karena mereka mengukur dari peta resmi. Peta resmi berhenti di batas lisensi." Ashvarok meletakkan potongan peta rekonstruksinya di peti — bagian atasnya saja, bagian yang bisa dijelaskan sebagai perkiraan dari bunyi ketukan. "Namun tambang ini digali di atas sesuatu yang lebih tua dari lisensi. Dinding-dinding rata. Koridor lurus. Kau prajurit — kau pernah lihat benteng lama? Bentuk begitu tidak diciptakan air dan waktu."
+Pagi berikutnya, gudang perkakas tingkat dua berbau minyak lampu, kulit basah, dan besi tua. Para pekerja sudah mengambil alat untuk shift pertama. Rak-rak dekat pintu kosong, sedangkan bagian belakang masih dipenuhi mata bor tumpul yang menunggu diasah.
 
-Gudang itu sunyi sebentar, kecuali gemuruh troli dari atas — deru roda yang lewat seperti napas panjang kota yang belum sadar apa yang ada di bawahnya.
+Brannoc berdiri di meja pencatatan, membandingkan dua gagang beliung. Ia tidak menoleh ketika Ashvarok masuk.
 
-"Dulu," kata Brannoc akhirnya, pelan, "waktu aku baru bekerja di sini, ada seorang tua bernama Pak Dekan — penambang pertama generasinya. Dia berkata suatu hari lorong timur masih punya tetangga. Kami tertawa. Dia marah, dan orang tua marah di tambang itu jarang soal takhayul." Foreman tua itu menatap peta potongan di atas peti, dan untuk sesaat matanya seperti sedang melihat ke tempat yang lebih dalam dari lantai gudang. "Dia mati di lorong tujuh, tujuh tahun sebelum runtuhan bulan ini. Sebelum mati dia sempat berkata kepadaku. Kalau suatu hari dinding timur mulai bicara, jangan jawab dengan kapak."
+"Kalau kau datang untuk meminta alat tanpa nomor kerja, pilih kebohongan yang pendek," katanya. "Aku belum sarapan cukup banyak untuk kebohongan panjang."
 
-"Apa yang harus dijawab?"
+Ashvarok menutup pintu gudang, tetapi tidak memasang palang. "Aku tidak butuh alat. Aku menemukan ruang yang membuat alat-alatmu patah."
 
-"Itu yang tidak sempat dia beri tahu." Brannoc mengunyah ulang akar pahit yang sudah habis rasanya — rahangnya bergerak pelan, seperti sedang mengunyah pertanyaan yang sama. "Namun dia satu-satunya orang yang pernah menyebut ada lorong di bawah lorong. Dan dia hilang dua hari di sana saat muda — balik membawa luka bakar dingin di kedua tangan, seperti menyentuh besi malam yang membeku. Setelah itu dia tidak pernah mau bekerja shift dasar lagi."
+Brannoc meletakkan kedua gagang. Wajahnya tetap datar, namun matanya pindah ke tangan kosong Ashvarok, lalu ke pintu.
 
-Luka bakar dingin. Ashvarok menyimpan frasa itu di samping yang lain — di rak yang sama dengan nama-nama yang belum boleh diucapkan. Orang tua yang pernah menyentuh sisa gema segel, atau sisa sesuatu yang lebih buruk, empat puluh tahun silam — jauh sebelum sayatan-sayatan rapi muncul. Orang yang melihat tetangga dan memilih diam selama empat puluh tahun. Diam, pikir Ashvarok, adalah bahasa yang paling sulit dipalsukan.
+"Tunjukkan."
 
-"Pak Dekan," ulang Ashvarok, dan nama itu masuk arsip bersama wajah-wajah lain yang mungkin akan dibutuhkan. "Dia punya keluarga?"
+Peta lipat terbuka di atas meja. Ashvarok hanya menjelaskan hal-hal yang dapat diterima seorang Foreman: pembacaan gema, deret sayatan, beban penyangga, dan perbandingan ukuran. Ia tidak menyebut Hegemony. Tidak menyebut pengikatan. Tidak menyebut pintu di bawah aula.
 
-"Anaknya menjadi juru ukur di kota pelabuhan selatan. Kenapa?"
+Brannoc menahan tepi kertas dengan ibu jari. "Delapan puluh hasta?"
 
-"Karena orang yang pernah melihat ruangan aneh biasanya menggambar ruangan aneh." Ashvarok menepuk peta potongan itu. "Kalau suatu hari kita butuh peta kedua untuk mencocokkan milikku... kita tahu harus minta kepada siapa."
+"Paling sedikit tujuh puluh delapan, paling banyak delapan puluh dua. Lebarnya tiga puluh. Kesalahan langkah dan kemiringan lantai menjelaskan selisihnya."
 
-Brannoc menatapnya sekali lagi dengan tatapan yang sudah menjadi rutinitas antara mereka — tatapan "kau tahu terlalu banyak untuk furnace boy" — dan kali ini menambahkan kalimat yang mengikutinya.
+"Tidak ada ruang sebesar itu di daftar penggalian."
 
-"Satu hal lagi. Kalau ruang itu ada, dan ada yang rutin masuk ke sana lewat jalur yang kita tidak lihat..." Ia berdiri, dan bahunya yang turun tampak lebih turun dari biasanya, seperti menahan sesuatu yang tidak bisa diangkat dengan sekop. "...berarti semua tahun-tahun aku menjaga anak-anak reguku, aku menjaga mereka di atas dapur orang lain."
+"Karena bukan penambang yang membuatnya. Penyangga timur berdiri di atas atapnya. Lorong-lorong kita mengelilingi bagian atas bangunan ini tanpa menembusnya."
 
-"Apa yang kamu lakukan waktu tahu?"
+Brannoc mengikuti batas aula dengan kuku. "Kau menyusun ini dari bunyi ketukan?"
 
-"Hari ini? Aku bekerja shift, gaji upah, jawab pertanyaan overseer." Brannoc melempar akar pahit kosongnya ke ember, dan bunyi jatuhnya terdengar seperti keputusan yang baru diambil. "Dan malam ini aku hitung ulang semua pintu tambang ini. Semua. Termasuk yang katanya bukan pintu."
+"Dari dua minggu ketukan, aliran, retak, dan kayu yang salah memikul beban." Ashvarok menatapnya. "Kalau hitunganku keliru, tunjukkan bagian yang keliru."
 
-"Satu pertanyaan terakhir, Brannoc." Ashvarok menunjuk titik kosong di peta potongan itu, tempat aula seharusnya berada jika rekonstruksinya benar. "Kalau aku butuh masuk ke ruang ini tanpa lewat daftar mana pun... jalur apa yang paling masuk akal?"
+"Aku sedang mencoba."
 
-Brannoc memandangi titik itu — titik kosong yang bagi Ashvarok berbunyi seperti nama yang belum ditemukan — dan pagi itu foreman tua itu tersenyum. Senyum tipis, pahit, milik prajurit yang baru sadar medannya familiar.
+Foreman itu mengambil kapur, menambahkan garis pendek di sisi utara, lalu menghapusnya dengan pangkal telapak. Ia menggumamkan nama lorong dan poros, menguji peta baru terhadap tambang yang disimpannya dalam ingatan. Ashvarok membiarkannya bekerja. Keraguan Brannoc berguna selama keraguan itu mencari bukti, bukan kenyamanan.
 
-"Jalurnya sudah kamu lewati tiap pekan," katanya. "Lorong sembilan bawah. Ujungnya yang buntu itu — lorong B — bukan buntu karena batunya habis. Buntu karena ujung aslinya ditutup. Dinding buntunya berbeda tekstur dari dinding sekitarnya, aku sudah merasakan dari dulu tetapi tidak ada alasan memikirkannya." Ia bangkit, membersihkan remah roti dari pangkuannya. "Seseorang yang mau masuk ruang tanpa dicatat tidak akan membuat pintu baru. Dia akan membuka tutup lama."
+Setelah beberapa lama, Brannoc mengetuk sisi timur gambar.
 
-"Dan siapa yang tahu tutup lamanya?"
+"Pak Dekan pernah bilang ada tetangga di balik dinding ini."
 
-"Hanya dua jenis orang." Brannoc menatapnya dengan mata yang sudah menghitung jawabannya sebelum mulut menyebutnya. "Orang yang dulu ditunjuk menjaga rahasianya... atau orang yang datang belakangan dan membaca semuanya lebih teliti dari kita."
+Nama itu tidak ada dalam daftar pekerja yang dikenal Renn. "Siapa dia?"
 
-"Kalau begitu kita berdua mendapat jenis kedua," kata Ashvarok. "Dan jenis pertama, kapan pun dia muncul, akan tahu satu hal yang kita tidak: kenapa dia masuk."
+"Penambang tua. Sudah mati tujuh tahun lalu di lorong tujuh." Brannoc menarik bangku, tetapi tetap berdiri di belakangnya. "Saat muda, dia hilang dua hari di terowongan timur. Regunya mencari sampai jatah lampu habis. Dia kembali sendiri dari jalur yang sudah mereka periksa. Kedua tangannya kena luka bakar dingin. Kulitnya pucat dan pecah sampai pergelangan."
 
-Di luar gudang, lonceng shift pagi berbunyi — dentang kuning yang menggantung sebentar di udara dingin — dan Caldrest hari kedua puluh delapan dimulai seperti biasa. Pasar membuka kiosnya. Anak-anak berangkat ke sekolah tambang. Empat ratus keluarga mulai menghitung hari yang sama.
+"Apa penjelasannya?"
 
-Padahal di bawah kota itu, dalam aula delapan puluh kali tiga puluh yang tidak ada di peta mana pun, seseorang atau sesuatu sedang minum dari pengikat dunia. Pelan. Sabar. Dan sudah sangat lama tidak pernah kenyang — seperti rumah yang kamarnya masih menyala, menunggu penghuni yang tahu pintu lamanya.
+"Tidak pernah ada." Brannoc mengusap bekas kapur di tangannya. "Pak Dekan berhenti mengambil shift bawah. Kalau mabuk, dia bicara soal lorong di bawah lorong dan pintu yang tidak boleh dipukul. Semua orang menganggap batu sudah mengunyah pikirannya. Aku juga."
+
+"Namun kau mengingatnya."
+
+"Orang yang takut pada cerita akan melupakannya. Prajurit mengingat hal yang belum punya tempat." Brannoc akhirnya duduk. "Sekarang kau memberinya tempat."
+
+Ashvarok menunjuk pusat aula. "Ada tarikan aktif di dalam ruang ini. Kebocoran Lorong B yang kita tutup hanya rembesan dari samping. Sumber utamanya lebih rendah dan berada di balik dinding asli."
+
+Brannoc mengangkat kepala. "Aktif berarti baru?"
+
+"Berarti bekerja sekarang. Umurnya belum bisa kutentukan. Polanya terlalu teratur untuk kecelakaan. Siapa pun yang membuka mulut utama memahami bangunan ini lebih baik daripada Guild."
+
+"Dan masih masuk ke sana."
+
+"Atau tidak pernah perlu keluar."
+
+Keheningan menekan gudang. Dari lorong terdengar roda troli menghantam sambungan rel. Brannoc menunggu sampai bunyinya menjauh.
+
+"Kau yakin Pak Dekan pernah masuk?" tanya Ashvarok.
+
+"Tidak. Tapi dua hari cukup untuk melihat sesuatu, dan luka di tangannya bukan akibat hawa tambang." Brannoc mengerutkan dahi. "Dia pernah punya buku. Bukan buku upah—penuh garis dan ukuran. Setelah dia mati, aku mencarinya untuk catatan lorong tujuh. Tidak ada di petinya."
+
+"Keluarga?"
+
+"Seorang anak. Menjadi juru ukur di kota pelabuhan selatan. Pergi bertahun-tahun sebelum ayahnya mati."
+
+Kemungkinan itu segera menemukan tempat dalam susunan Ashvarok. Seorang penambang kembali dari ruang tersembunyi, lalu menyimpan ukuran. Anaknya memilih pekerjaan yang membuat ukuran berarti. Kebetulan masih mungkin, tetapi kebetulan tidak layak dibuang sebelum diuji.
+
+"Kalau buku itu dikirim kepadanya," kata Ashvarok, "ada peta kedua di luar Caldrest."
+
+Brannoc menatap garis-garis arang. "Kau mau mencarinya?"
+
+"Belum. Perjalanan ke selatan memakan waktu yang tidak kita punya. Pertama kita cari bukti bahwa Pak Dekan menemukan jalan masuk, bukan sekadar rongga."
+
+"Jalan masuk." Brannoc berdiri lagi dan mengambil lampu dari kait. "Lorong B."
+
+"Mengapa?"
+
+"Karena ujungnya tidak terasa seperti ujung." Ia mengangkat lampu setinggi dada, seolah dinding buntu itu sudah berdiri di depannya. "Batu alami pecah mengikuti urat. Permukaan di ujung Lorong B memotong uratnya. Aku pernah melihat perbedaannya, tapi tambang penuh tambalan dan tak ada alasan untuk membongkar dinding mati."
+
+Ashvarok menarik peta lebih dekat. Garis Lorong B berakhir hampir tepat pada sumbu pendek aula. Posisi yang benar untuk koridor pelayanan. Posisi yang salah untuk kebetulan geologis.
+
+"Bukan dinding mati," katanya. "Pintu asli yang disegel."
+
+"Kalau begitu seseorang bisa membukanya dari sisi lain."
+
+"Atau memakai jalan berbeda yang belum tercatat. Mulut ekstraksi berada di dalam aula. Pelakunya tidak mungkin mengandalkan rembesan kecil yang kita temukan."
+
+Brannoc menggantungkan lampu kembali. "Selama ini aku menghitung pintu berdasarkan engsel."
+
+"Hitung berdasarkan tujuan. Sebuah pintu tetap pintu setelah gagangnya dicabut dan celahnya ditutup batu."
+
+"Kau bicara seperti pernah membangun tempat semacam itu."
+
+Ashvarok membiarkan tuduhan itu berdiri di antara mereka. Pakta tanpa kata yang mengikat mereka sejak lama tidak menuntut kebohongan setiap kali Brannoc mendekati kebenaran. Ia hanya menuntut agar keduanya tahu batas yang belum boleh dilewati.
+
+"Aku bicara seperti orang yang tidak ingin empat ratus keluarga tinggal di atas ruang milik musuh," katanya.
+
+Rahang Brannoc mengeras. Angka itu telah mengubah ancaman dari bentuk di atas kertas menjadi wajah-wajah di distrik timur.
+
+"Aku tidak bisa menutup Lorong B tanpa menarik perhatian Overseer," katanya. "Aku juga tidak bisa membawa regu ke sana hanya untuk menguji dinding."
+
+"Jangan lakukan keduanya. Orang yang memakai aula mungkin mengawasi perubahan jadwal. Kita tak memberi tahu bahwa petanya sudah ditemukan."
+
+"Lalu apa yang kita lakukan?"
+
+Ashvarok melipat kertas mengikuti bekas lipatan lama. "Cari semua jalan yang dianggap tidak ada."
+
+Brannoc diam sebentar. Kemudian ia menarik buku inventaris dari bawah meja, membukanya pada halaman kosong, dan membuat dua kolom. Pada kolom kiri ia menulis tingkat. Pada kolom kanan ia menulis pintu.
+
+"Mulai dari poros atas," katanya. "Aku akan menyebutkan semuanya. Gerbang, kisi, dinding tambalan, ujung runtuh. Kau hentikan kalau posisinya cocok dengan aula."
+
+"Termasuk jalan yang ditutup sebelum kau menjadi Foreman."
+
+"Termasuk jalan yang hanya pernah disebut orang mati."
+
+Lonceng shift pagi berbunyi sebelum daftar pertama selesai. Brannoc tidak menutup buku. Ia membalik halaman dan mulai lagi dari pintu-pintu tingkat dua, lalu tingkat tiga, menyebut usia kayu, arah bukaan, dan alasan setiap lorong dihentikan. Ketika sampai pada jalan buntu, ia tak lagi menyebutnya dinding.
+
+Ia menyebutnya pintu yang belum terbukti.

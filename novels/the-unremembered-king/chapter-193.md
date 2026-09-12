@@ -23,17 +23,17 @@ Dan di sana, dalam rekaman batu, ia menemukan resep sup ayam Vessia. Utuh. Ditul
 
 Ossian menyalin resep itu dengan tangannya sendiri ke kertas biasa, melipatnya, menyimpannya di saku dada kanan di samping salinan suara kakaknya, dan berkata kepada Maera yang menunggu di pintu menara:
 
-"Kalau nanti Caldrest punya dapur besar — akademi butuh dapur kan? — sup ayam ini masuk menuunya. Resep keluarga penjaga." Ia memandang menara yang menolak runtuh itu sekali lagi. "Utara tidak hilang, Nona Tull. Dia hanya menunggu orang membacanya."
+"Kalau nanti Caldrest punya dapur besar — akademi butuh dapur kan? — sup ayam ini masuk menunya. Resep keluarga penjaga." Ia memandang menara yang menolak runtuh itu sekali lagi. "Utara tidak hilang, Nona Tull. Dia hanya menunggu orang membacanya."
 
 ---
 
-Kabar kunjungan utara ketiga sampai ke Caldrest bersama kafilah pulang — dan bersama itu juga, untuk pertama kalinya, datang PERINTAH RESMI dari Spire yang ditandatangani dua jabatan sekaligus: Sareth Vayin (Penjaga Rekam) dan Dewan Regional, disetujui tanpa satu pun suara menentang:
+Kabar kunjungan utara ketiga sampai ke Caldrest bersama kafilah pulang — dan bersama itu juga, untuk pertama kalinya, datang PERINTAH RESMI dari Spire yang ditandatangani dua jabatan sekaligus: Sareth Vayin (the Record Wardens) dan the Regional Council, disetujui tanpa satu pun suara menentang:
 
-"Seluruh arsip menara utara ditempatkan di bawah pengelolaan gabungan Arsip Caldrest (Kepala Arsip Sela) dan Penjaga Rekam. Pemulihan empat ratus jiwa ditetapkan sebagai PROYEK DEKADE resmi Karvess, berjalan dengan ritme yang aman, didanai tiga institusi."
+"Seluruh arsip menara utara ditempatkan di bawah pengelolaan gabungan the Caldrest Archive (Chief Archivist Sela) dan the Record Wardens. Pemulihan empat ratus jiwa ditetapkan sebagai THE DECADE PROJECT resmi Karvess, berjalan dengan ritme yang aman, didanai tiga institusi."
 
 Sela menerima salinan perintah itu di pos Guild, membacanya, lalu menulis di papannya kalimat yang membuat seluruh ruangan tertawa setelah seminggu penuh kabar serius:
 
-"Catatan pencatat: proyek dekade pertama Caldrest, dan kepala arsipnya masih dua belas tahun. Kalau proyek ini butuh lima belas tahun... aku baru dua puluh tujuh saat selesai." Kapur berhenti. "Umur bagus untuk punya empat ratus teman baru."
+"Catatan pencatat: the Decade Project pertama Caldrest, dan kepala arsipnya masih dua belas tahun. Kalau proyek ini butuh lima belas tahun... aku baru dua puluh tujuh saat selesai." Kapur berhenti. "Umur bagus untuk punya empat ratus teman baru."
 
 ---
 
@@ -45,7 +45,7 @@ Nat sumur itu dibaca pasangan hitung yang mengikuti rombongan — dan isinya mem
 
 Dan kedalaman menyimpan semuanya. Delapan belas tahun cerita cucu: pertama sekolah, lalu menikah, lahir, sakit, sembuh — semua dibacakan perempuan tua itu ke air sumur setiap pagi seperti orang membaca surat kepada keluarga yang jauh.
 Ketika hal ini diceritakan kepada ibu dari keluarga itu — kini lanjut usia, masih hidup, tinggal di rumah tepi lembah — wanita itu diam lama, lalu bertanya satu hal: "Jadi... anak-anakku DENGAR?"
-Ashvarok yang menjawab dengan Listen penuh: "Semua. Tidak ada satu pagi pun yang terlewat."
+Ashvarok menjawab setelah Kovan menerjemahkan jawaban kedalaman: "Semua. Tidak ada satu pagi pun yang terlewat."
 
 "Kalau begitu," kata perempuan tua itu sambil bangkit pelan dari kursinya, "besok pagi kalian ikut aku ke sumur. Sudah delapan belas tahun aku berbicara sendirian. Sekarang giliran kalian jawab."
 
@@ -53,11 +53,11 @@ Ashvarok yang menjawab dengan Listen penuh: "Semua. Tidak ada satu pagi pun yang
 
 Pagi berikutnya, di sumur keluarga itu, terjadi upacara yang tidak ada dalam protokol mana pun: perempuan tua membaca daftar cucu-cucunya kepada kedalaman untuk terakhir kalinya — dan kali ini, di akhir setiap nama, empat pendengar Caldrest menjawab "ada" dari batu. Nama demi nama. Delapan belas tahun satu arah menjadi percakapan dua arah dalam satu pagi.
 Ketika selesai, wanita itu menutup buku catatan kecilnya — buku yang ternyata ia pakai selama ini sebagai pengingat urutan cerita — dan berkata kepada Ashvarok:
-"Delapan belas tahun aku kira aku gila. Ternyata aku korresponden." Ia tersenyum senyum ibu-ibu yang tidak pernah menyerah. "Tolong bilang ke semua ibu di dunia: tidak apa-apa berbicara sendirian ke sumur. Kadang-kadang ada yang mencatat."
+"Delapan belas tahun aku kira aku gila. Ternyata aku koresponden." Ia tersenyum senyum ibu-ibu yang tidak pernah menyerah. "Tolong bilang ke semua ibu di dunia: tidak apa-apa berbicara sendirian ke sumur. Kadang-kadang ada yang mencatat."
 
 ---
 
-Peristiwa sumur itu masuk Registri Mimpi sebagai entri khusus kategori baru yang dibuat Sela: KORESPONDENSI SATU ARAH — catatan tentang manusia-manusia yang telah berbicara kepada kedalaman tanpa tahu, selama bertahun-tahun, sebelum dunia belajar mendengarkan jawabannya.
+Peristiwa sumur itu masuk the Dream Registry sebagai entri khusus kategori baru yang dibuat Sela: KORESPONDENSI SATU ARAH — catatan tentang manusia-manusia yang telah berbicara kepada kedalaman tanpa tahu, selama bertahun-tahun, sebelum dunia belajar mendengarkan jawabannya.
 Entri pembuka kategori itu ditulis Sela dengan kalimat yang menjadi prinsip arsip:
 "Ada lebih banyak orang di Karvess ini yang sudah bersahabat dengan kedalaman daripada yang tahu namanya. Tugas arsip bukan mengajari mereka cara bicara — mereka sudah bisa. Tugas kami memberi tahu mereka bahwa selama ini ada yang menjawab."
 
@@ -71,24 +71,24 @@ Sisa pekan di menara diisi pekerjaan yang menentukan: Ossian dan Maera menyusun 
 Dan kedalaman menjawab pemilihan itu — dengan cara yang membuat Sareth Vayin menulis di margin arsip ordonya: "Dia memahami keadilan lebih baik dari institusi kami." Jawabannya, diterjemahkan Kovan:
 "Yang pertama: yang paling sering menyebut nama keluarganya dari dalam. Delapan belas tahun dia hitung sendiri. Dia sudah lama siap, dan keluarganya sudah surat-surat ke kalian tiga kali."
 
-Nama itu dicek ke arsip: cocok. Keluarganya memang sudah tiga kali menghubungi Kantor Penghubung — ayahnya, yang selama ini menolak berkabung dan tiap pekan mengirim daftar pertanyaan baru tentang anaknya.
+Nama itu dicek ke arsip: cocok. Keluarganya memang sudah tiga kali menghubungi the Liaison Office — ayahnya, yang selama ini menolak berkabung dan tiap pekan mengirim daftar pertanyaan baru tentang anaknya.
 
 ---
 
-Entri Hourglass penutup bab, ditulis Ashvarok dari menara utara:
+Ashvarok menulis entri Hourglass dari menara utara:
 Hari 396. Bulan di menara selesai. Temuan terbesar bukan arsipnya, bukan nat sumurnya, bukan daftar prioritasnya — melainkan keluarga petani tepi lembah yang menolak pindah delapan belas tahun.
 Setiap peradaban punya orang-orang seperti itu: yang tinggal di tempat yang dituduh sialan, berbicara kepada sumur yang dianggap kosong, memelihara kebiasaan yang tidak bisa dijelaskan. Dunia menyebut mereka keras kepala.
 Kedalaman menyebut mereka dengan istilah lain. Terjemahannya: penjaga-pintu-yang-tidak-tahu-ia-penjaga.
 
 ---
 
-Sisa bab diisi penutup perjalanan pulang — dan satu detail yang membuat seluruh Caldrest paham bahwa utara sudah benar-benar berubah: di pos perhentian terakhir sebelum lembah, keluarga petani itu memberi mereka bawaan: sekantong biji dari kebun ibu tua, dengan pesan untuk "ditanam di tepi aula".
+Di pos perhentian terakhir sebelum lembah, keluarga petani itu memberi mereka bawaan: sekantong biji dari kebun ibu tua, dengan pesan untuk "ditanam di tepi aula".
 Biji itu ditanam Sela dan murid-murid akademi pekan berikutnya, di sisi nat-nat lingkaran. Ibu Tamma menertawakannya — "siapa tanam bunga di tambang" — tetapi tetap menyiraminya tiap pagi, dan kalau ditanya kenapa, jawabannya sudah menjadi legenda dapur:
 "Karena sumurnya menyuruh."
 
 ---
 
-Dan baris-baris terakhir bab 193 — entri Hourglass Ashvarok yang menutup semuanya:
+Kemudian Ashvarok menulis neraca bulan utara di Hourglass:
 Hari 397. Neraca bulan utara: satu kategori arsip baru, satu daftar prioritas yang disusun kedalaman, satu keluarga penjaga-pintu ditemukan, dan sekantong biji bunga.
 Seribu tahun silam, wilayah ini ditutup dengan segel dan dikunci dengan takutan. Hari ini ia dibuka dengan sup, biji bunga, dan ibu tua yang delapan belas tahun menulis surat ke air.
 Sejarah akan mencatat bahwa utara dibuka oleh dua tradisi pendengar dan satu jabatan Spire. Namun aku catat yang benar di sini: utara dibuka oleh seorang ibu yang tidak pernah berhenti berbicara.

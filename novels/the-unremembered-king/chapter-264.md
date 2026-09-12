@@ -3,7 +3,7 @@ title: "Bab 264: Surat dari Dua Belas Kota"
 chapter: 264
 ---
 
-Di Caldrest, pada hari yang sama ketika empat orang pendengarnya jauh di dataran tinggi, surat-surat bulanan Sekolah Mendengar tiba di barak utara — dua belas bungkusan dari dua belas cabang, dibawa pos nat seperti biasa.
+Di Caldrest, pada hari yang sama ketika empat orang pendengarnya jauh di dataran tinggi, surat-surat bulanan the Listening School tiba di barak utara — dua belas bungkusan dari dua belas cabang, dibawa pos nat seperti biasa.
 
 Dan satu di antaranya bukan laporan.
 
@@ -13,13 +13,13 @@ Ia ditulis dengan aksara miring khas anak-anak yang baru belajar menulis cepat, 
 
 *Kami punya pertanyaan yang tidak bisa dijawab guru kami. Guru kami bilang pertanyaan ini harus dikirim ke sumbernya.*
 
-*Di setiap cabang, murid-murid selalu bertanya soal raja abu-abu. Ceritanya ada di semua lagu nat: dulu ada raja jahat yang membakar dunia, dan dia dikalahkan pahlawan. Namun nat-nat bilang lain. Nat tua kami pernah mendengar cerita dari nat lereng yang mendengar dari nat timur yang mendengar dari Yang Dulu Sunyi, dan versi nat berbunyi: "raja itu tidak jahat, raja itu sedih."*
+*Di setiap cabang, murid-murid selalu bertanya soal raja abu-abu. Ceritanya ada di semua lagu nat: dulu ada raja jahat yang membakar dunia, dan dia dikalahkan pahlawan. Namun nat-nat bilang lain. Nat tua kami pernah mendengar cerita dari nat lereng yang mendengar dari nat timur yang mendengar dari the Once-Silent, dan versi nat berbunyi: "raja itu tidak jahat, raja itu sedih."*
 
 *Kami sudah memutuskan (dengan suara terbanyak) untuk percaya nat.*
 
 *Namun kepercayaan butuh bahan. Kami minta: satu cerita asli tentang raja abu-abu, dari orang yang benar-benar tahu. Boleh panjang. Tolong jangan dipersingkat seperti buku sejarah.*
 
-*Dengan hormat, murid-murid Sekolah Mendengar cabang yang belum punya nama resmi karena kami masih sibuk belajar.*
+*Dengan hormat, murid-murid the Listening School cabang yang belum punya nama resmi karena kami masih sibuk belajar.*
 
 Ibu Tamma yang membacakannya keras-keras di dapur aula, karena aturan dapur: surat yang membuat dapur diam wajib dibacakan dua kali.
 
@@ -88,7 +88,7 @@ Kebetulan — atau bukan kebetulan, karena nat tidak mengenal kebetulan, hanya j
 
 Di Caldrest, ibu Tamma menulis di balik kertas resep:
 
-*Untuk anak-anak Sekolah Mendengar.*
+*Untuk anak-anak the Listening School.*
 
 *Kalian bertanya benar. Pertanyaan yang benar lebih berharga daripada jawaban yang cepat.*
 
@@ -148,4 +148,4 @@ Dan dari dalam batu, irama kecil naik — jenaka, ringan, sudah hampir bisa dise
 
 Sela menulis baris terakhir hari itu sambil tertawa, dan arsip perjalanan Vhal-Duren untuk pertama kalinya memuat goresan tinta yang miring karena tangan penulisnya gemetar bukan karena dingin:
 
-*Hari kelima. Langganan sup pertama seam saksi: tiga kambing gunung. Jumlah murid Sekolah Mendengar di dataran tinggi: bertambah tiga, status: belum resmi, niat: jelas.*
+*Hari kelima. Langganan sup pertama the Witness Seam: tiga kambing gunung. Jumlah murid the Listening School di dataran tinggi: bertambah tiga, status: belum resmi, niat: jelas.*
