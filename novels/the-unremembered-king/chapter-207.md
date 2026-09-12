@@ -3,7 +3,7 @@ title: "Bab 207: Yang Lebih Tua dari Bahasa Kita"
 chapter: 207
 ---
 
-Armada pembacaan dalam pertama berangkat ke menara utara dengan komposisi yang belum pernah ada: dua tradisi (Sareth dan Ashvarok), tiga murid terbaik tingkat lanjutan, Kovan sebagai pencatat, dan — atas desakan Barim — satu lilin saja untuk seluruh ruang bawah menara.
+Armada pembacaan dalam pertama berangkat ke menara utara dengan komposisi yang belum pernah ada: Sareth dan Ashvarok mewakili dua tradisi, tiga murid terbaik tingkat lanjutan, Kovan sebagai pencatat, serta Barim, didampingi Ondar, sebagai penjaga tata krama ruang tua — dengan satu lilin saja untuk seluruh lantai bawah menara.
 
 "Satu lilin," kata Barim ketika Ondar menyiapkan tiga. "Bukan soal hemat. Ruang semacam itu sudah lama tidak dikunjungi siapa pun. Datang dengan terlalu banyak cahaya itu seperti datang ke rumah orang dengan sepatu kotor."
 
@@ -17,7 +17,6 @@ Tiga murid tingkat lanjutan yang dipilih masing-masing diberi tugas berbeda: Har
 
 Perjalanan ke menara utara kini hanya dua hari — jalan yang delapan bulan silam butuh lima — karena jalannya diperlebar gotong royong tiga kota dan setiap pertigaan kini memiliki tanda batu dengan arah yang ditulis dalam dua bahasa: manusia dan penjaga. "Kalian lihat itu," kata Barim di jalan, menunjuk papan penunjuk arah berukir irama. "Delapan bulan silam tempat ini tidak ada peta yang menyebutnya. Sekarang nat-natnya mendapat bagian rambu jalan. Dunia bisa berubah cepat kalau dia mau."
 
-Yang mereka temukan mengubah pemahaman semua orang tentang apa yang disimpan kedalaman.
 
 Hal pertama yang ditemukan di bawah adalah sapuan: lorong menuju lantai dalam ternyata bersih. Bukan bersih kebetulan — bersih dirawat. Debu tidak ada, batu pijakan rata, dan di setiap dua puluh langkah ada goresan halus di dinding yang oleh Sareth dibaca sebagai penanda arah, diperbarui berkala, selama bertahun-tahun.
 
@@ -42,6 +41,11 @@ Murid termuda, yang bertugas mengingatkan semua orang bahwa mereka boleh pulang,
 "Ya," kata Ashvarok.
 
 "Nah." Murid itu mengangguk-angguk. "Itu sabarnya seperti apa."
+Murid itu berjongkok, mendekatkan telinga ke batu tanpa menyentuhnya. "Kalau kita belum tahu pertanyaan yang benar, apa kita tetap boleh datang?"
+
+"Boleh," kata Kovan. Ia mengendurkan untaian Listen agar suara bawah tidak tertutup suaranya sendiri. "Kita datang, memperkenalkan diri, lalu mengaku belum tahu. Mendengar bukan ujian kepintaran."
+
+Getar dari bawah menjawab sebelum murid itu sempat berdiri: pendek, hangat, setuju.
 
 "Dan itu juga," kata Sareth pelan, "artinya selama delapan bulan ini, setiap kali kita pikir kita sedang menemukan sesuatu... sebenarnya kita sedang mengerjakan ujian yang soalnya sudah disiapkan jawabannya." Ia memandang kedalaman bawah dengan ekspresi yang sulit dibaca. "Guru seperti apa kamu, ya."
 
@@ -91,4 +95,3 @@ Jawaban kedalaman malam itu pendek dan tidak butuh penerjemahan: satu getar hang
 
 Kovan menuliskannya di neraca dengan catatan pinggir: "Pertama kali kedalaman kami komplain soal tetangga."
 
-Ashvarok menerima kunjungan tak terjadwal: delegasi kecil dari Karven, tiga orang, datang jalan kaki dua hari hanya untuk bertanya satu hal — "bolehkah kami memasang name train kecil di pasar kami?" Ashvarok menjawab dengan pertanyaan balik: "kenapa harus izin?" Dan delegasi itu pulang dengan jawaban yang membuat mereka tertawa sepanjang jalan pulang.

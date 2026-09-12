@@ -3,32 +3,107 @@ title: "Bab 380: Tiga Puluh Tahun Penjagaan"
 chapter: 380
 ---
 
-Mereka duduk di dua sisi meja yang sama, di dua kursi yang sama yang selama tiga puluh tahun hanya ditempati oleh satu orang — dan murid kedua tidak menempati kursi Nilam. Ia menarik kursi kayu dari sudut, meletakkannya di samping meja, dan duduk di sana, menghadap meja dari samping, seperti orang yang terbiasa menjadi anak murid. Kursi Nilam tetap kosong, dan Ashvarok-Renn melihat itu dan tidak duduk di sana — ia duduk di kursi seberang, dan dua orang yang sedang belajar menatap satu sama lain di meja yang kursinya kosong di salah satu sisinya.
+Murid kedua menarik kursi kayu dari sudut dan menempatkannya di samping meja, membiarkan kursi Nilam kosong. Ashvarok-Renn mengambil tempat di seberangnya. Di antara mereka, ruang kosong itu tetap menjadi batas: keduanya datang untuk belajar, bukan untuk menduduki tempat guru.
 
-Di atas meja, di antara mereka, terbaring barang-barang yang tidak pernah mereka bicarakan sebagai barang: kikir serong yang tipis, buku besar yang berhenti di tengah kalimat, pelat empat titik yang masih bergetar pelan, dan — yang terakhir diletakkan murid kedua, yang terbaring di sisinya sendiri — bejana kecil dari bengkel utara, yang kini kosong, yang isinya mereka dengar kemarin di tempat yang sama. Ia menatap bejana itu cukup lama, lalu berkata: "Aku mengirimi murid pertama bejana ini dua puluh tahun lalu, ketika aku tahu ia tidak akan kembali dan aku tidak akan bisa menyampaikan pesan Nilam secara langsung. Aku mengirim suaranya — suara guru — melalui logam, karena suara adalah satu-satunya barang yang bisa dikirim tanpa dicurigai: barang yang tidak bisa dihitung, tidak bisa ditimbang, dan tidak bisa disita oleh siapa pun yang tidak bisa mendengar." Ia menghela napas. "Aku tidak tahu apakah dia pernah mendengarnya. Aku tidak tahu apakah dia masih hidup. Tapi aku tahu suara itu ada di dunia ini — dan sekarang kau yang mendengarnya, dan kau membawanya ke meja yang benar. Itu sudah lebih dari yang kutunggu."
+Di hadapan mereka terbaring barang-barang yang tidak pernah mereka bicarakan sebagai barang: kikir serong yang tipis, buku besar yang berhenti di tengah kalimat, pelat empat titik yang masih bergetar pelan, dan bejana kecil dari bengkel utara. Bejana itu kini kosong; isinya telah mereka dengar kemarin di meja bengkel utara. Murid kedua menatapnya cukup lama, lalu berkata: "Aku mengirimi murid pertama bejana ini dua puluh tahun lalu, ketika aku tahu ia tidak akan kembali dan aku tidak akan bisa menyampaikan pesan Nilam secara langsung. Aku mengirim suaranya — suara guru — melalui logam, karena suara adalah satu-satunya barang yang bisa dikirim tanpa dicurigai: barang yang tidak bisa dihitung, tidak bisa ditimbang, dan tidak bisa disita oleh siapa pun yang tidak bisa mendengar." Ia menghela napas. "Aku tidak tahu apakah dia pernah mendengarnya. Aku tidak tahu apakah dia masih hidup. Tapi aku tahu suara itu ada di dunia ini — dan sekarang kau yang mendengarnya, dan kau membawanya ke meja yang benar. Itu sudah lebih dari yang kutunggu."
 
-"Kisah ini," kata murid kedua, "panjang, dan aku sudah lama tidak punya siapa pun untuk menceritakannya. Kau akan mendengarnya sekali. Setelah itu kau boleh menanyakannya sampai kau bosan."
+"Mulai dari Nilam," kata Ashvarok-Renn. "Bukan dari Hegemony. Apa yang ia buat?"
 
-Ia mulai dari ujung yang paling tua, seperti semua cerita yang benar mulai: pekerjaan. Nilam adalah tukang kunci terakhir dari aliran yang tidak pernah tercatat di buku mana pun — aliran yang membuat kunci bukan untuk melindungi gudang, melainkan untuk melindungi nama; kunci yang dibuka oleh irama, bukan oleh gigi; kunci-kunci yang diajarkan dengan cara diwariskan, bukan dicetak. Hegemony tidak pernah tahu cara memandangnya — barang yang tidak bisa dicetak tidak bisa dikenakan pajak, dan pajak adalah bahasa Hegemony untuk segala sesuatu yang tidak bisa mereka miliki. Maka mereka melakukan hal yang tidak pernah mereka lakukan pada aliran mana pun: mereka tidak melarangnya, tidak membakarnya, tidak mencurinya. Mereka *menyewa* muridnya. Dan cara Hegemony menyewa adalah dengan menjajah urusan yang bukan urusannya — mengirim pejabat yang seakan datang untuk belajar, padahal datang untuk mencatat, dan meninggalkan pada sang guru satu instruksi yang di baliknya tersembunyi seluruh sejarah: ajar dia seluruh aturan, termasuk yang tidak penting.
+Murid kedua menggeser kikir serong ke tengah meja. "Kunci untuk melindungi nama. Alirannya tidak pernah tercatat. Gigi kunci biasa tidak berguna pada buatannya; irama yang membuka. Pengetahuan itu diwariskan dari tangan ke tangan, bukan disalin untuk dijual. Nilam tukang terakhirnya."
 
-"Aku murid itu," kata murid kedua. "Aku datang ke sini tiga puluh tahun lebih lalu sebagai pejabat Hegemony yang diutus untuk belajar dari tukang kunci tua yang tidak tercatat. Aku datang dengan surat tugas dan mata yang siap mencatat. Nilam tahu — ia selalu tahu, karena mata yang datang untuk mencatat berbeda dengan mata yang datang untuk belajar, dan ia melihat perbedaannya di lembarku sebelum aku sendiri memahaminya. Ia mengajariku seluruh aturan, termasuk yang tidak penting. Dan di akhir tahun pertamaku, ia berkata kepadaku, sambil menyelesaikan salah satu bejananya, dengan suara yang tidak bisa kulupakan sampai hari ini: 'kau datang untuk mencatat. itu bagus. catat semua, dan suatu hari kau akan menghadapi pilihan di mana catatanmu adalah satu-satunya senjatamu. Ingat satu hal: jangan pernah mencatat pembelian yang tidak terjadi.'"
+"Kalau tidak tercatat, bagaimana Hegemony menemukannya?"
 
-"Dan kau," kata Ashvarok-Renn, "melakukan kebalikannya. Kau mencatat pembelian yang tidak pernah terjadi, selama delapan belas tahun."
+"Mereka menemukan hasil kerjanya, lalu mengutusku." Murid kedua meluruskan surat tugas lama yang terlipat di bawah buku besar. "Mereka tidak melarang alirannya. Mereka menyewa seorang pejabat untuk menjadi murid, belajar, dan mencatat. Aku datang lebih dari tiga puluh tahun lalu dengan surat ini dan mata yang mengukur semua hal. Nilam mengenali maksudku sebelum aku membuka tinta."
 
-"Karena itulah yang ia maksudkan," kata murid kedua. "Ada dua cara untuk menyembunyikan barang: menyimpan di ruangan yang tidak diketahui, atau mencatatnya sebagai milik yang sudah berpindah tangan. Nilam mengajariku bahwa catatan yang salah bisa menjadi dinding yang lebih kuat dari batu — karena batu bisa dibongkar, tetapi catatan yang salah selalu dipercaya, karena orang lebih percaya pada kesalahan yang rapi daripada kebenaran yang berantakan." Ia menatap tangannya sendiri. "Delapan belas tahun aku menulis lembar uang yang tidak pernah keluar. Setiap tahun, aku menutupnya, memasukkannya ke arsip, dan tahu bahwa di suatu tempat di bawah gedung itu, bejana-bejana itu sedang menunggu dengan nama-namanya dalam keheningan. Bukan karena aku ingin menjualnya. Karena jika aku tidak mencatat pembelian, Hegemony akan mencurigai ada barang yang belum dimiliki — dan barang yang belum dimiliki harus dimiliki, dan jalan untuk memilikinya selalu lewat kertas. Satu-satunya cara menjaga barang tetap tidak dimiliki oleh siapa pun adalah mencatat bahwa ia sudah dimiliki oleh orang yang tidak pernah ada."
+"Namun ia menerimamu."
 
-Bejana-bejana itu, rupanya, tidak pernah hilang darinya: ketika ia keluar dari posisi itu, ia tidak meninggalkan apa-apa kecuali instruksi satu kalimat yang ia tulis untuk kurator — orang yang ia harapkan akan datang, orang yang ia harapkan akan lebih cerdas daripada yang memerintahnya: *simpan, jangan putar.* Kata-kata Nilam. Kata-kata yang ia ulangi sampai kurator memahaminya dengan caranya sendiri, sampai kurator menemukan bahwa uangnya tidak pernah keluar dan mulai bertanya, sampai kurator membawa pertanyaannya ke meja dapur, dan sampai pertanyaan itu menjadi sidang, dan sidang menjadi restorasi, dan restorasi menjadi sesuatu yang tidak ada dalam rencana siapa pun tetapi ada dalam rencana Nilam: kembali.
+"Dan mengajariku seluruh aturan, termasuk yang tampak tidak penting." Murid kedua menyentuh mata kikir dengan kuku. "Cara mengeringkan gagang. Urutan menyapu serbuk. Alasan lampu diletakkan di kiri meski tangan guru kanan. Pada akhir tahun pertama ia berkata, 'kau datang untuk mencatat. catat semua. suatu hari catatanmu akan menjadi satu-satunya senjatamu. jangan pernah mencatat pembelian yang tidak terjadi.'"
 
-"Nilam tidak pernah meninggalkan kebun ini untuk mencari murid pertamanya," kata murid kedua, dan Ashvarok-Renn mendengar suaranya berubah — tidak lebih keras, melainkan lebih pelan, seperti suara orang yang membuka pintu yang lama terkunci. "Ia pergi ke utara untuk menemuinya, untuk menyampaikan dua hal yang tadi kau dengar dalam bejana itu: bahwa kunci yang benar akan datang dari tambang di selatan, dan bahwa ia akan mencarinya di dalam barang yang dikembalikan. Ia pergi sebelum akun itu lahir, sebelum aku diutus, sebelum semua kebohongan yang kita warisi ini dimulai. Ia pergi, dan tidak kembali. Aku tidak tahu apakah ia pulang ke utara dan menemukan bengkel yang kosong itu — atau apakah ia pulang ke sesuatu yang lain. Aku tahu hanya satu hal: bejana asli Nilam tidak pernah meninggalkan ruangan ini."
+Ashvarok-Renn membuka buku besar pada baris-baris pembayaran palsu. "Lalu selama delapan belas tahun kau melakukan persis yang ia larang."
 
-Ia berhenti, dan ketika melanjutkan, suaranya menjadi suara orang yang mengingat dengan paksa — tidak menceritakan untuk pertama kalinya, melainkan menceritakan kembali untuk pertama kalinya: "Yang tidak pernah kuceritakan kepada siapa pun, bahkan kepada diri sendiri, adalah cara ia pergi. Aku satu-satunya yang melihatnya: Nilam berdiri di ambang katup ini pada pagi itu, diikat seperti semua orang yang berangkat untuk pekerjaan yang panjang, dan sebelum menuruni tangga ia berbalik dan berkata kepadaku, dengan suara yang sama dengan suara dalam bejana itu: 'kau menjaga meja ini sampai ada yang datang dengan kunci yang benar; dan kalau yang datang itu bukan murid-muridku, tapi orang yang membuat kunci mereka — terima dia juga, karena ia adalah kelanjutan yang tidak pernah kurencanakan.' Aku tidak mengerti kalimat itu selama tiga puluh tahun. Malam ini, di depanmu, aku mengerti: ia tidak meramal kedatanganmu. Ia meramal bahwa akan ada orang yang membuat kunci-kunci itu kembali — bukan meniru, bukan menyimpan, melainkan membuat yang baru dari aliran yang sama. Kau, Ashvarok-Renn, bukan muridnya. Kau kelanjutannya. Dan aku menjaga meja ini selama tiga puluh tahun untuk menyerahkannya kepada kelanjutan, bukan kepada murid."
+"Itu uji pertamanya." Murid kedua menunjuk jumlah uang pada satu lembar, kemudian kolom pengeluaran yang kosong. "Pembelian ini tidak pernah terjadi. Uangnya tidak pernah keluar. Aku membuat pembeli palsu agar Hegemony percaya setiap bejana telah berpindah kepada pemilik yang tidak ada. Barang yang belum dimiliki akan mereka buru. Barang yang tercatat sudah dimiliki akan mereka tinggalkan di arsip."
 
-Ia berdiri, dan berjalan ke dinding perpustakaan, dan berhenti di depan ceruk yang selama ini tidak diperhatikan Ashvarok-Renn — ceruk di titik terdalam, di ujung paling gelap deretan bejana bernama, yang tidak memiliki nama di bawahnya. Ia tidak menyentuhnya. Ia hanya berdiri di depannya, dan berkata: "Nama-nama di bawah ceruk-ceruk lain adalah nama para pemiliknya. Ceruk ini tidak bernama karena pemiliknya menamai dirinya sendiri dengan cara yang berbeda. Bejana ini dipegang oleh Nilam, dan ia tidak pernah mengisinya untuk orang lain. Ia mengisinya untuk dirinya sendiri — untuk saat ia pulang, dan untuk saat ia ingin mendengar suaranya sendiri dari luar, seperti semua orang yang menghabiskan hidupnya mendengarkan suara orang lain."
+"Kau tahu bejana-bejana bernama itu menunggu di bawah?"
 
-Ashvarok-Renn tidak bertanya banyak hal yang ingin ia tanyakan. Ia bertanya satu, yang paling berat, karena pertanyaan yang berat harus diajukan di meja yang benar dan tidak boleh ditunda: "Kau masih percaya ia hidup?"
+"Setiap tahun." Ia menutup buku besar. "Aku tidak bisa mengeluarkannya tanpa membuka ruangan kepada orang yang memburu mereka. Jadi aku membangun dinding dari pembukuan buruk yang tampak rapi. Delapan belas tahun, satu lembar palsu setiap kali daftar lama hampir diperiksa."
 
-Murid kedua memandangnya lama, dan jawabannya bukan langsung. Ia berjalan ke dinding, mengambil lampu minyak kecil di samping ceruk terdalam itu, menyalakan sumbunya yang sudah lama tidak menyala, dan meletakkannya di depan bejana yang tidak bernama itu — bukan untuk menerangi bejana, melainkan untuk uji yang lebih tua: lampu yang menyala di depan barang yang ditinggalkan adalah jendela yang dinyalakan untuk orang yang belum pulang. "Aku tidak tahu," katanya akhirnya. "Yang kutahu: aku menjaga api ini menyala setiap malam, dan setiap malam selama tiga puluh tahun api itu tidak pernah meminta maaf karena masih menyala. Itu satu-satunya bukti yang kumiliki. Aku tidak pernah menemukan tubuh, tidak pernah menemukan barang yang ditinggalkan, tidak pernah menemukan jejak yang berhenti. Nilam mengajariku bahwa seorang tukang yang pergi tidak pernah meninggalkan jejak yang benar-benar berhenti — ia meninggalkan jejak yang berubah menjadi sesuatu yang lain. Kalau begitu, jejaknya belum berhenti. Ia cuma menunggu ditemukan oleh orang yang tahu bagaimana jejak itu dibaca."
+Ashvarok-Renn memandang bejana kosong dari bengkel utara. "Lalu kau meninggalkan posisi itu dan menyerahkan bahaya kepada kurator."
 
-Ia menoleh kepada Ashvarok-Renn, dan matanya, yang sudah lama tidak melihat cahaya dari arah orang, untuk pertama kalinya terlihat seperti mata orang yang melihat ke depan: "Kau datang ke ruangan ini mencariku, tapi yang kau cari sebenarnya bukan aku. Kau mencari tahu apakah ruangan ini memiliki penjaga, atau apakah ia ditinggalkan. Sekarang kau tahu jawabannya: ia ditinggalkan oleh pemiliknya, dan dijaga oleh muridnya, dan muridnya menunggu selama tiga puluh tahun untuk menyerahkannya kepada orang yang datang dengan kunci yang benar. Kalau kau mau menerima, ruangan ini — dan segala isinya — bukan lagi milikku untuk kujaga. Ia milik kalian untuk dipulangkan. Dan aku tetap di sini, bukan sebagai penjaga, tetapi sebagai guru — karena ada satu hal yang tidak bisa dipulangkan, dan itu harus diajarkan: cara membuat kunci yang tidak perlu dikunci."
+Murid kedua menerima tuduhan itu tanpa menunduk. "Aku meninggalkan satu instruksi: *simpan, jangan putar.* Kata-kata Nilam. Kurator menaatinya, lalu menemukan uang yang tak pernah keluar. Pertanyaannya membawanya ke meja dapur, sidang, dan restorasi. Aku berharap ia lebih cerdas daripada para atasanku. Ternyata ia juga lebih berani dariku."
+Ashvarok-Renn menarik lembar paling atas mendekati lampu. Nama pembelinya tersusun dari dua kata biasa, tetapi tinta pada tanda tangan sama dengan tinta angka di kolom sebelah. "Kau menandatangani dari kedua sisi."
 
-Ia menatap bejana yang tidak bernama itu, dan menambahkan, pelan, seperti orang yang baru saja membuat keputusan yang sudah lama ia tunggu: "Kalau suatu hari bejana ini diputar — oleh siapa pun yang berhak, di meja yang benar, di kursi yang benar — kau akan mendengar Nilam mengajariku hal yang tidak penting. Dan kau akan mengerti kenapa hal yang tidak penting itu menyelamatkan kita semua."
+"Ya."
+
+"Berarti satu pemeriksa yang membandingkan tekanan pena akan menemukannya."
+
+Murid kedua membalik lembar itu. Bekas goresannya terlihat pada sisi belakang: tanda tangan pembeli lebih ringan, angka pembayaran ditekan sampai hampir menembus. "Karena itu tiap berkas hanya bertahan satu tahun. Sebelum pemeriksaan berikutnya, kubuat pemindahan baru dengan pembeli lain. Aku tidak membuat kebohongan yang sempurna. Aku membuat kebohongan yang selalu pindah sebelum disentuh."
+
+"Dan bila kau sakit?"
+
+"Dua kali berkasnya hampir menetap terlalu lama." Ia menunjuk noda bundar pada sudut lembar. "Tahun pertama, demam membuat tanganku gemetar. Tahun kedua, akses ke arsip ditutup tiga hari. Aku tidur di depan pintunya sampai dibuka."
+
+Ashvarok-Renn mengembalikan kertas. "Kau menjaga bejana dengan membuat dirimu satu titik kegagalan."
+
+"Aku tahu." Murid kedua tidak membela diri. "Nilam mengajariku menyebarkan keterampilan. Hegemony mengajariku memusatkan wewenang. Selama delapan belas tahun aku memakai pelajaran kedua untuk melindungi hasil pelajaran pertama. Itulah sebabnya pekerjaan ini tidak boleh tetap padaku."
+
+"Nilam pergi sebelum semua itu?"
+
+"Jauh sebelumnya. Ia pergi ke utara mencari murid pertama." Suara murid kedua merendah. "Ia hendak menyampaikan bahwa kunci yang benar akan datang dari tambang selatan, dan bahwa dirinya harus dicari di dalam barang yang dikembalikan. Ia tidak pulang. Aku tidak tahu apakah ia mencapai bengkel utara, tetapi bejana aslinya tidak pernah meninggalkan ruangan ini."
+
+Ashvarok-Renn menahan pertanyaan berikutnya sampai murid kedua menatapnya lagi. "Kau melihat keberangkatannya?"
+
+"Aku satu-satunya saksi." Murid kedua meletakkan kedua telapak di meja. "Di ambang katup, Nilam menyuruhku menjaga meja sampai kunci benar datang. Kalau yang datang bukan muridnya, melainkan orang yang membuat kunci mereka, aku harus menerima orang itu juga. Tiga puluh tahun aku mengira ia sedang meramal. Sekarang aku paham ia memberiku aturan penerimaan: pekerjaan boleh berlanjut melalui tangan yang bukan keluarganya."
+
+"Itu tidak menjadikanku pewarisnya."
+
+"Tidak." Murid kedua mengangguk. "Itu membuatmu pekerja yang memenuhi syarat. Lebih aman begitu."
+Murid kedua membuka laci sempit di bawah meja dan mengeluarkan sepotong kayu berbentuk kepala kunci. Salah satu sisinya penuh garis latihan yang terpotong; sisi lain licin karena bertahun-tahun disentuh.
+
+"Ini buatanku pada minggu pertama," katanya. "Nilam menyuruhku mengikir satu alur tanpa mengukur kedalaman. Aku gagal tujuh kali. Pada percobaan kedelapan aku bertanya kapan kami mulai membuat kunci sungguhan."
+
+"Apa jawabannya?"
+
+"Bahwa orang yang belum bisa merasakan kapan kayu hendak pecah tidak boleh dipercaya menjaga nama dalam logam." Ia menyerahkan potongan itu.
+
+Ashvarok-Renn menimbangnya. Garis terakhir berhenti setipis rambut sebelum serat pecah. "Hegemony pasti menganggap latihan ini membuang waktu."
+
+"Aku juga. Jadi kutulis sebagai pelajaran tidak penting." Murid kedua menerima kayu itu kembali dan memasukkannya ke laci. "Bertahun-tahun kemudian, ketika harus memalsukan perpindahan tanpa menghapus nama pemilik asli, aku berhenti sebelum garis catatan memecahkan riwayat barangnya. Tangan ini sudah belajar batas itu sebelum kepalaku mengerti."
+
+"Karena itu kau memilih menjadi guru."
+
+"Karena murid yang menyimpan pelajaran hanya di kepalanya akan mengulang tiga puluh tahun penjagaan ini."
+
+Ia membawa lampu minyak ke deretan terdalam. Satu ceruk di sana tidak memiliki nama. Di dalamnya terbaring sebuah bejana yang belum diputar.
+
+"Mengapa yang ini tanpa nama?" tanya Ashvarok-Renn.
+
+"Karena Nilam membuatnya untuk dirinya sendiri." Murid kedua tidak menyentuh bejana itu. "Ceruk lain menyebut orang yang akan menerima suara. Yang ini menunggu Nilam pulang dan mendengar suaranya sendiri dari luar."
+
+"Kau masih percaya ia hidup?"
+
+Murid kedua menyalakan lampu dan meletakkannya di depan ceruk. "Aku tidak tahu. Tidak ada tubuh, barang yang ditinggalkan, atau jejak yang terbukti berhenti. Itu tidak membuktikan ia hidup. Itu juga tidak memberiku hak menyatakan ia mati."
+
+"Lalu mengapa menjaga lampu?"
+
+"Karena ketidakpastian bukan izin untuk mengambil kursinya." Ia memandang kursi Nilam yang tetap kosong. "Tapi penjagaan selesai. Ruangan dan bejana bernama ini kuserahkan kepada rombonganmu untuk direstorasi. Aku tetap di sini sebagai guru. Cara membuat kunci dan cara melepas suara harus diajarkan; menyimpannya saja mengulang kesalahanku."
+"Kau menyerahkan ruangan, tapi tetap duduk di sebelah mejanya," kata Ashvarok-Renn. "Apa bedanya guru dengan penjaga yang memilih nama baru untuk pekerjaannya?"
+
+Murid kedua memandang kedua kursi itu sebelum menjawab. "Penjaga memutuskan siapa yang boleh mendekat. Guru harus menerima bahwa murid akan menyentuh alat, mengajukan pertanyaan yang salah, lalu mungkin menemukan jawaban yang tidak pernah diajarkan."
+
+"Kau mampu membiarkan itu?"
+
+Ia mengambil kikir serong dan meletakkannya di sisi Ashvarok-Renn, di luar jangkauannya sendiri. Setelah itu buku besar, pelat empat titik, dan potongan kayu latihan ikut berpindah. Hanya lampu minyak yang tetap di tangannya.
+
+"Belum tahu," katanya. "Selama tiga puluh tahun, tanganku bergerak lebih cepat daripada kepercayaan. Besok, orang pertama yang belajar dariku akan memegang alatnya. Aku hanya memegang lampu dan menjawab jika ditanya."
+
+Ashvarok-Renn menyentuh gagang kikir tanpa mengangkatnya. Kayunya kering, licin pada tempat jempol Nilam pernah menahan tekanan. "Dan jika murid itu membuat alur yang salah?"
+
+"Aku tidak mengambil alatnya. Aku tanyakan apa yang tangannya rasakan sebelum salah. Kalau aku langsung memperbaiki setiap goresan, pengetahuan berhenti lagi pada satu tangan." Ia menarik napas, lalu menambahkan, "Kau benar mempertanyakannya. Menyerahkan ruangan lebih mudah daripada menyerahkan kebiasaan menjaga."
+
+Untuk pertama kali malam itu, kursi kosong di ujung meja tidak tampak seperti larangan. Ia tampak seperti ruang yang sengaja belum diisi.
+
+Ashvarok-Renn menatap meja, kikir, dan ceruk tanpa nama. "Besok kau mulai dari aturan mana?"
+
+"Yang tampak tidak penting," jawab murid kedua.
+
+Ia memandang ceruk tanpa nama. "Besok pagi kita mulai dari aturan yang tampak tidak penting. Setelah itu kau bawa Kovan kemari. Aku akan menunjukkan seam hidup yang kujaga tiga puluh tahun, dan kalian akan menanam kembali bejana pertama dari enam yang dicabut. Bejana Nilam tetap di ceruk sampai tangan yang berhak tahu cara mendengarnya dua kali."

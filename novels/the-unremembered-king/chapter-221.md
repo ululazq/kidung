@@ -9,7 +9,7 @@ Anak perempuan delapan tahun, keturunan utara dari pos sembilan belas, datang ke
 
 Pertanyaan itu membuat Ashvarok diam sepanjang jalan pulang — dan keesokan paginya menjadi agenda pertama rapat darurat tim inti.
 
-"Kita menyiapkan pemulangan seratus jiwa," kata Ashvarok membuka rapat, "dan hampir lupa bertanya soal RUMAH yang mereka tinggalkan. Delapan belas tahun nat-nat ladang dijawab oleh Vess-Morath. Besok mereka pindah. Nat-nat itu akan sunyi lagi — dan anak-anak yang sudah terbiasa disapa akan merasa disakiti tanpa tahu kenapa."
+"Kita menyiapkan pemulangan seratus dua puluh empat jiwa," kata Ashvarok membuka rapat, "dan hampir lupa bertanya soal RUMAH yang mereka tinggalkan. Delapan belas tahun nat-nat ladang dijawab oleh Vess-Morath. Besok mereka pindah. Nat-nat itu akan sunyi lagi — dan anak-anak yang sudah terbiasa disapa akan merasa disakiti tanpa tahu kenapa."
 
 Maka dilakukanlah hal yang belum pernah dilakukan dalam sejarah pemulangan mana pun: bernegosiasi tentang jadwal penjagaan.
 
@@ -75,7 +75,7 @@ Jawaban the Patient House malam terakhir itu pendek — pendek sekali dibanding 
 
 Malam itu juga, seluruh Caldrest melakukan hal yang tidak pernah dilakukan kota mana pun: begadang bersama — bukan untuk merayakan, melainkan untuk MENEMANI malam terakhir.
 
-Karena semua orang sadar: besok seratus orang naik ke dunia. Namun malam ini adalah malam terakhir seratus suara itu berada di dalam kedalaman — dan tidak ada yang ingin melewatinya tanpa mengucapkan sesuatu.
+Karena semua orang sadar: besok seratus dua puluh empat orang naik ke dunia. Namun malam ini adalah malam terakhir seratus dua puluh empat suara itu berada di dalam kedalaman — dan tidak ada yang ingin melewatinya tanpa mengucapkan sesuatu.
 
 Orang-orang datang ke nat-nat satu per satu sepanjang malam. Ibu dengan bayi. Penjaga tua. Anak-anak yang dibangunkan sengaja supaya tidak ketinggalan. Setiap orang berkata sesuatu yang berbeda kepada nat — pamitan, terima kasih, cerita pendek, atau hanya "sampai besok". Dan setiap ucapan dijawab oleh Vess-Morath dengan irama panjangnya yang sabar.
 
@@ -89,13 +89,13 @@ Ashvarok menatap ladang utara yang jauh di cakrawala, tempat seratus lilin masih
 
 Hari 582. Malam terakhir Vess-Morath di dalam. Seluruh Caldrest ikut begadang. Aku tidak akan mencoba mendeskripsikan malam ini — karena beberapa malam tidak boleh dideskripsikan, hanya dijalani.
 
-Besok kita bekerja. Semua pos siap. Semua lagu siap. Seratus dua puluh porsi sup menunggu di atas meja.
+Besok kita bekerja. Semua pos siap. Semua lagu siap. Seratus dua puluh empat porsi sup menunggu di atas meja.
 
-Dan satu hal lagi yang membuatku bangga: dari seratus jiwa yang akan pulang besok, tidak ada satu pun yang pulang ke tempat kosong.
+Dan satu hal lagi yang membuatku bangga: dari seratus dua puluh empat jiwa yang akan pulang besok, tidak ada satu pun yang pulang ke tempat kosong.
 
 Satu catatan terakhir untuk halaman pribadi: tadi malam, di antara para pendatang ke nat-nat, ada wajah yang tidak kuduga — pemuda perkebunan Timur. Ia datang sendirian, duduk di depan nat ladang selama satu jam penuh, lalu berkata pelan sebelum pergi: "Sampai besok. Aku yang jaga tanah kalian selama ini." Delapan belas tahun keraguan keluarganya... dan malam ini ia memilih mengakhirinya dengan pamitan. Orang-orang lebih baik dari apa yang kutulis di buku sejarah Hegemony. Itu pelajaran yang terus berulang — dan aku tidak pernah bosan mempelajarinya lagi.
 
-Besok, saat seratus jiwa naik, aku akan mengingat malam ini sebagai bukti bahwa pemulangan tidak dimulai saat pintunya dibuka. Pemulangan dimulai dari malam-malam seperti ini — ketika orang-orang yang tadinya asing mulai datang sendirian ke nat, membawa lilin, membawa pamitan, membawa diri mereka.
+Besok, saat seratus dua puluh empat jiwa naik, aku akan mengingat malam ini sebagai bukti bahwa pemulangan tidak dimulai saat pintunya dibuka. Pemulangan dimulai dari malam-malam seperti ini — ketika orang-orang yang tadinya asing mulai datang sendirian ke nat, membawa lilin, membawa pamitan, membawa diri mereka.
 
 Dunia sudah siap. Karena dunia sudah berlatih menyayangi tanpa sadar — dan besok baru pertama kali latihannya diberi nama.
 
@@ -109,8 +109,7 @@ Ibu Tamma, yang mendengar terjemahan itu dari dapurnya, langsung menambahkan dua
 
 "Ha! Ternyata mereka juga ada selera. Besok tehnya aku buatkan paling manis di seantero Karvess."
 
-Dan begitulah, malam terakhir Vess-Morath di dalam kedalaman diakhiri bukan dengan tangis, melainkan dengan perdebatan manis-teh antara seorang ibu dapur dan seratus petani zaman purba — perdebatan yang diselesaikan kedalaman sendiri dengan satu kalimat penutup yang membuat Kovan menulisnya sambil tertawa:
+Dan begitulah, malam terakhir Vess-Morath di dalam kedalaman diakhiri bukan dengan tangis, melainkan dengan perdebatan manis-teh antara seorang ibu dapur dan seratus dua puluh empat petani zaman purba — perdebatan yang diselesaikan kedalaman sendiri dengan satu kalimat penutup yang membuat Kovan menulisnya sambil tertawa:
 
 "Kita putuskan besok: dua sendok untuk semua. Kalau ada yang kurang manis... tambah sendoknya sendiri. Itu hak setiap manusia yang sudah pulang."
 
-Ashvarok menemukan surat lama di antara dokumen Hegemony: permintaan maaf yang ditulis seribu tahun silam tetapi tidak pernah dikirim. Ia membacanya dua kali sebelum menyimpannya di Arsip. Label barunya: "penyesalan yang akhirnya diberi tempat. Yang ini tidak sempat. Yang kita pegang hari ini."

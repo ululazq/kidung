@@ -3,102 +3,200 @@ title: "Bab 335: Musuh Belajar Mendengar"
 chapter: 335
 ---
 
-Mira di menara membuka buku catatan halaman kelima belas dan terdiam. Dentum dua desa di utara berubah pola — bukan lagi acak, tetapi teratur seperti seseorang sedang mengukur. Ia panggil perawat tua yang sedang memilin benang di sudut.
+Brannoc menahan dua anak dengan bentangan lengan. Di persimpangan, seorang nelayan tua duduk di bangku rendah, dikelilingi orang-orang yang pura-pura menunggu giliran membeli garam. Satu the Wane memegang pergelangan si nelayan. Yang lain tidak melihat tangan itu. Matanya terpaku pada dada yang naik di balik baju kasar.
 
-"Lihat ini," kata Mira. "Dua desa utara berdenyut serentak tiap subuh, lalu jeda panjang. Bukan dentum alam. Seperti ada yang menghitung napas penduduk dan mencatatnya."
+"Jangan ketuk," bisik Brannoc.
 
-Ossian, yang kebetulan berada di menara utara, mengirim kain via the Northern Listener: *The Wanes di dua desa itu kini pegang pergelangan penduduk tiap fajar. Masih kasar, tetapi mereka hitung detak, bukan lagi cari tanda lahir. Arah mereka benar, menuju napas.*
+Anak di sebelahnya sudah menggenggam papan kecil di dalam kantong. "Kalau mereka membawanya?"
 
-Perawat tua meletakkan benangnya. "The Wanes belajar," katanya pelan. "Bukan lagi tangkap tanda lahir. Mereka mulai ukur napas."
+"Kita tetap tidak ketuk di sini."
 
-Di menara, perawat tua membuka buku halaman keenam belas. "Dentum utara makin teratur," katanya pada Mira. "Seperti the Wanes sedang menyinkronkan ukurannya dengan irama the Stillness Knot. Bila mereka temukan perempuan tua itu, simpul utara akan berdenyut liar."
+"Lalu bagaimana orang danau tahu?"
 
-"Maka kita pindahkan dia sebelum itu," kata Mira. "Namun pelan. Bila dia tahu ia kunci, napasnya berubah, dan mereka makin yakin."
+Brannoc menunjuk gang sempit di belakang tungku penggaram. "Pulang lewat kebun. Begitu atap ini tak terlihat, kirim satu anak. Dua pendek, satu panjang. Jangan lebih."
 
-Mira menulis di sisi: *The Wanes ubah taktik: ukur napas penduduk (bukan tangkap tanda). Dua desa utara berdenyut serentak = pola ukur terdeteksi. Jendela menutup.* Ia mengetuk ubin tiga kali, diam sehentakan, lalu mengirim kain tenun ke barak.
+Anak itu melepas papan dan mengangguk. Brannoc membiarkan lengannya turun, tetapi ia belum mengajak rombongan pergi. Asap tungku menusuk hidung. Di depan mereka, pembawa lembaran memberi tanda setiap kali nelayan tua menarik napas.
 
-Ashvarok-Renn membacanya di serambi. Wajahnya tidak berubah, tetapi jari telunjuknya menekan tepi bible kecil hingga putih. "Mereka belajar," katanya pada Kovan. "Tepat seperti yang kutakutkan. Bukan detak pergelangan lagi — napas sungguhan."
+"Sekali lagi," katanya.
 
-"Berapa lama sebelum mereka bedakan the Survivor?" tanya Kovan.
+The Wane yang memegang pergelangan mengguncang bahu nelayan. "Tarik dalam."
 
-"Pekan ini mungkin masih kasar," kata Ashvarok-Renn. "Namun bila satu dari mereka paham napas lebih pelan setengah hitungan, perempuan tua di danau garam tidak aman."
+"Katamu napas biasa."
 
-Gella mendekat membawa buku pemulihan. "Kau the Bearer," katanya. "Napas masih tiga. Namun bila kau turun ke utara sekarang, the Wanes akan ukur kau juga. Jangan."
+"Detaknya biasa. Napasnya belum tentu."
 
-"Tidak ke utara," kata Ashvarok-Renn. "Kita kerjakan dari sini. Suruh murid Ossian bawa perempuan tua itu ke rawa bila pola ukur mendekat danau garam."
+Nelayan itu menurut. Hitungan berikutnya lebih lambat karena ia sengaja memenuhi paru-parunya. Pembawa lembaran mencoret baris yang baru ditulis.
 
-Ossian mengirim kain tenun panjang lewat Maera: *The Wanes di utara kini pegang pergelangan dan hitung napas saat tidur. Kasar, tetapi mereka sudah tahu napas beda dari detak. Di desa kelima, mereka bawa pergi seorang tua karena 'napasnya aneh' — ternyata bukan the Survivor, hanya orang sesak napas. Namun arah mereka benar. Jendela tinggal hitungan hari.* 
+"Jangan suruh mereka menarik napas," katanya. "Kita ukur saat mereka tidak tahu."
 
-Ashvarok-Renn menunjukkan kain itu pada Sela. "Hitungan hari," katanya. "Kita harus pastikan the Stillness resmi terjaga sebelum mereka paham bedanya."
+Brannoc merasakan jari anak di sampingnya mencengkeram ujung bajunya. Kemarin orang berjubah abu masih membalik kerah, mencari tanda pada kulit. Hari ini mereka sudah tahu perintah dapat merusak ukuran.
 
-Sela mencatat di papan: *The Wanes ukur napas (bukan detak). Bawa pergi orang sesak napas = masih salah sasar, tetapi belajar cepat. Jendela: hari. Amankan the Stillness via murid Ossian sebelum mereka paham napas the Survivor.* 
+Seorang perempuan dari kerumunan protes ketika the Wane menyuruh nelayan tetap duduk. Ujung tongkat menghantam tanah di depan kakinya.
 
-Gella melatih tiga anak mengukur napas Ashvarok-Renn saat fajar. "Kalian lihat bedanya?" katanya. "Napas the Survivor pelan tetapi dalam. Orang biasa cepat tetapi dangkal. The Wanes sekarang tahu ada beda, tetapi belum tahu caranya. Itu keunggulan kita."
+"Dia sesak karena asap," kata perempuan itu.
 
-Satu anak menulis di papan: *The Wanes ukur napas kasar. Kita ukur tepat (0,5 hitungan). Jangan ukur di depan umum = jangan ajari musuh.* 
+"Kalau begitu kami ukur di luar desa."
 
-Di sudut serambi, Sela memilin benang abu-abu ke utara, matanya mengikuti benang yang menyambung danau garam. "Bila mereka paham napas," bisiknya, "apa yang kita lakukan?"
+"Kalian mau bawa dia ke mana?"
 
-"Kita sudah lebih dulu," kata Ashvarok-Renn. "Empat the Survivor di ambang kita. The Wanes baru belajar jari mereka. Selisih itu yang menyelamatkan dunia."
+"Ke tempat tanpa asap."
 
-Ossian mengirim kain tenun kedua: *Di desa kelima, the Wanes bawa pergi lagi seorang tua. Kali ini mereka catat napasnya di lembaran — masih salah, tetapi mereka mulai tulis angka. Bila angka itu sampai ke orang yang bisa baca napas, kita kehilangan segalanya.* 
+Jawaban itu menenangkan tak seorang pun. Nelayan tua dipaksa berdiri. Pembawa lembaran melipat catatannya, lalu berhenti di tengah gerak. Ia menoleh ke arah anak-anak.
 
-Ashvarok-Renn membacanya pada Kovan. "Mereka mulai mencatat," katanya. "Bukan lagi sekadar hitung jari. Ini percepatan."
+Brannoc menjatuhkan sekeping uang di meja penjual garam. "Dua bungkus. Cepat."
 
-"Berapa hari?" tanya Kovan.
+"Kalian dari danau?" tanya pembawa lembaran.
 
-"Tiga. Mungkin lima." Ashvarok-Renn menulis di bible kecil: *The Wanes ubah taktik: ukur napas (bukan tangkap tanda). Masih kasar, tetapi arah benar. Jendela tinggal hari. Amankan the Stillness via murid Ossian + 12 anak, jaga tanpa nama. Bila pola ukur dekat danau garam = pindah ke rawa.* 
+"Dari selatan."
 
-Di danau garam, murid Ossian melihat dua orang the Wanes berdiri di tepi desa, memegang pergelangan seorang nelayan tua. Mereka menghitung dengan jari, mengerutkan dahi. "Ini bukan," kata satu. "Napasnya biasa." Kawannya mencatat di lembaran kasar. Mereka belum tahu bahwa perempuan tua penjaga perahu bernapas setengah hitungan lebih pelan — mereka masih mencari tanda di punggung, bukan dengung di dada.
+"Kenapa membawa begitu banyak anak?"
 
-Murid Ossian tidak mendekat. Ia hanya duduk di atas papan perahu bersama anak perempuan penjaga perahu, memukul ketukan dua pendek satu panjang seolah main. Dari jauh, the Wanes melihat anak main. Tidak pernah tebersit bahwa anak itulah yang menjaga napas neneknya.
+Anak paling kecil mengangkat kantong kelerengnya. "Karena dia selalu kalah kalau main sendiri."
 
-Di barak, Ashvarok-Renn membaca laporan itu dua kali. "Mereka buta," katanya pada Kovan. "Masih melihat tanda di punggung, bukan dengung di dada. Itu keunggulan kita."
+Kawannya ikut tertawa, cukup sumbang untuk terdengar sungguhan. Penjual garam mendorong dua bungkus ke tangan Brannoc, dan ia menggerutu tentang harga sampai perhatian orang berjubah kembali kepada nelayan. Mereka berjalan tanpa mempercepat langkah. Mereka baru berlari setelah kebun berduri menutup pandangan dari persimpangan.
 
-"Berapa lama keunggulan itu bertahan?" tanya Kovan.
+Di balik dinding batu pertama, Brannoc membagi tugas mereka. Satu anak mendapat papan ketuk. Yang lain akan menemaninya sampai jalur danau bercabang.
 
-"Hingga satu dari mereka bertanya: kenapa napas perempuan tua itu lebih pelan? Maka kita harus pastikan the Stillness resmi terjaga sebelum pertanyaan itu muncul." Ashvarok-Renn menutup bible. "Suruh murid Ossian siap pindahkan dia ke rawa bila pola ukur the Wanes mendekat danau."
+"Pesannya apa?" tanya Brannoc.
 
-Brannoc datang membawa dua belas anak. "Mereka tahu harus apa," katanya. "Ketukan dua pendek satu panjang sudah di luar kepala. Bila perempuan tua itu perlu lari, mereka kabari murid Ossian, bukan berteriak."
+"Mereka mengukur napas."
 
-"Bagus," kata Ashvarok-Renn. "Anak-anak itu pagar kita. Namun jangan suruh mereka hadang the Wanes. Lari, bukan lawan."
+"Kurang."
 
-Gella mendekat dan meletakkan buku pemulihan di pangkuan Ashvarok-Renn. "Kau membawa sembilan napas di dada," katanya pelan. "Bila kau turun ke utara, the Wanes akan ukur kau juga. Mereka kasar, tetapi mereka sudah tahu ada beda napas."
+Anak itu memejamkan mata, mengulang apa yang baru dilihat. "Mereka tahu orang bisa mengubah napas kalau disuruh. Mereka akan mengukur diam-diam."
 
-"Maka aku tetap di sini," kata Ashvarok-Renn. "Menjaga dari serambi, bukan dari lapangan. Sembilan napas yang kubawa tidak boleh habis di tengah penjagaan."
+"Sampaikan itu. Jangan tambahkan dugaanmu."
 
-"Benar," kata Gella. "Kau adalah kunci yang berjalan. Bila kau lelah, dunia ikut lelah."
+"Bagaimana dengan nelayan tadi?"
 
-Mira di menara menutup buku dan menulis di sisi terakhir: *The Wanes ukur napas di 2 desa utara (kasar). Bawa pergi orang sesak = masih salah. Namun arah benar, jendela hari. Strategi: amankan the Stillness via persahabatan, pindah ke rawa bila pola ukur mendekat. Jangan ajari musuh cara ukur tepat.* Ia mengetuk ubin tiga kali, diam sehentakan.
+Brannoc memandang asap yang menggantung di atas atap. "Kita tidak bisa merebutnya tanpa menunjukkan mengapa kita takut. Ingat wajahnya. Itu yang bisa kita bawa pulang."
 
-Sela duduk di serambi memilin benang abu-abu ke utara. "Empat napas bila the Stillness resmi," bisiknya. "Namun musuh kini mendengar. Kita tidak lagi bergerak diam sepenuhnya."
+Anak itu tidak menyukai jawaban tersebut. Ia tetap berangkat.
 
-Di danau garam, the Wanes yang memegang pergelangan nelayan tua itu akhirnya menyadari sesuatu. "Napasnya biasa," kata satu. "Namun perempuan tua perahu itu tidak kami temukan. Mungkin dia yang kami cari." Kawannya menggeleng. "Kita cari darah, bukan perahu." Mereka masih terperangkap dalam keyakinan lama, buta bahwa napaslah kunci sebenarnya.
+Brannoc membawa anak yang lain ke lereng selatan. Baru setengah jalan, ketukan menjalar dari balik kebun: dua pendek, satu panjang. Jeda. Pola itu diulang dari arah yang lebih jauh, kemudian hilang ditelan angin. Kabar bergerak menuju danau tanpa satu teriakan pun.
 
-Mereka berjalan menyusuri tepi danau, menghitung detak setiap penduduk yang lewat. Satu dari mereka mulai mencatat angka di lembaran kasar — masih salah, tetapi pola mulai terlihat. "Ada yang berbeda," katanya pelan. "Namun aku tidak tahu bedanya." Kawannya menggeleng lagi. "Nanti kita tanya pusat. Mereka yang tahu darah mana yang kami cari."
+Mereka belum mencapai jembatan batu saat iring-iringan the Wanes menyusul di jalan bawah. Nelayan tua berjalan di tengah, kedua tangannya terikat longgar. Setiap beberapa puluh langkah, mereka berhenti dan menunggu dadanya tenang. Pembawa lembaran menulis lagi.
 
-Di barak, Ashvarok-Renn membaca laporan itu dan menghela napas lega. "Mereka masih menunggu perintah pusat," katanya pada Kovan. "Selama pusat itu the Throne yang buta, kita punya waktu."
+Mereka tidak lagi mencari orang yang tampak berbeda. Mereka sedang belajar menghilangkan hal-hal yang membuat hasil ukur keliru.
 
-Ashvarok-Renn membaca laporan itu dan tersenyum tipis. "Mereka butuh waktu berbulan-bulan untuk sadar," katanya pada Kovan. "Dan waktu itulah yang kita pakai."
+---
 
-"Kita masih lebih tenang," kata Ashvarok-Renn. "The Wanes ribut dengan hitungan kasar. Kita tenang dengan mata kecil. Itu bedanya."
+Ashvarok-Renn meletakkan kedua bungkus garam di sisi kain laporan, seakan beratnya dapat menahan kabar di atas meja. Brannoc berdiri di seberangnya. Debu jalan mengering sampai betis; anak yang kembali bersamanya sudah dibawa Gella untuk makan, sementara pengantar pesan belum kembali dari cabang danau.
 
-Malamnya, Ashvarok-Renn berdiri di ambang menatap ke utara. Benang abu-abu danau garam berdenyut pelan — seolah merasakan tangan the Wanes yang mulai menghitung di kejauhan. Di lima desa utara, cap tujuh garis masih terpasang, kini bukan lagi tanda buru darah, tetapi marka tempat mereka belajar mendengar.
+"Mereka mengambil nelayan itu?" tanya Kovan.
 
-"Mereka belajar mendengar," bisiknya pada malam. "Namun kita sudah mendengar delapan belas tahun lebih dulu. Selama kita lebih dulu mengenali yang hidup, pintu dunia takkan pernah dibuka oleh siapa pun."
+"Ya."
 
-Ashvarok-Renn menutup bible dan menulis baris terakhir: *The Wanes ukur napas (kasar). Jendela hari. Amankan the Stillness via persahabatan + 12 anak, pindah rawa bila perlu. Kita lebih dulu dengar = kita lebih dulu jaga.* 
+"Karena napasnya pelan?"
 
-Ia membiarkan benang diam hidup tanpa namanya, tahu bahwa di utara, musuh mulai mendengar, tetapi barak sudah delapan belas tahun lebih dulu tahu siapa yang bernapas pelan di dunia ini.
+"Karena mereka belum tahu kenapa napasnya berubah." Brannoc mendorong salah satu bungkus garam dengan satu jari. "Asap tungku membuatnya sesak. Mereka sadar tempat dan perintah memengaruhi hitungan, jadi mereka membawanya pergi untuk diukur lagi setelah tenang."
 
-Ossian menutup kainnya. "Mereka belajar," bisiknya pada the Northern Listener. "Namun kita sudah delapan belas tahun lebih dulu tahu."
+Gella masuk dari halaman. Ia tidak duduk. "Kemarin mereka memegang pergelangan."
 
-Di danau garam, the Wanes yang mencatat angka di lembaran kasar akhirnya menyadari perahu nenek perahu sudah tidak di sana. Mereka menatap danau kosong, lalu menulis: *Perempuan tua penjaga perahu hilang.* Mereka tidak tahu perahu itu berlayar fajar sebelum mereka tiba, dikawal mata-mata kecil yang mereka anggap anak main.
+"Hari ini mereka masih memegangnya," kata Brannoc, "tetapi orang yang menulis hanya melihat dada."
 
-Ashvarok-Renn menutup bible kecil dan menatap ke utara. "Mereka belajar mendengar," bisiknya. "Namun kita sudah delapan belas tahun lebih dulu tahu siapa yang bernapas pelan. Selama kita lebih dulu, pintu dunia tetap tertidur."
+Ashvarok-Renn membuka kain dari Mira. Garis tenunnya pendek-pendek, rapat di dua bagian utara. Laporan menara menyebut pengukuran serupa di desa kedua: orang-orang ditahan seusai makan, setelah berjalan, dan saat tertidur di serambi. The Wanes membandingkan hasilnya. Belum tepat, tetapi kesalahan mereka tidak lagi acak.
 
-Mira di menara menutup buku catatannya. "Mereka mencatat angka," katanya pada perawat tua. "Namun angka bukan napas. Selama mereka menghitung, kita mengenali. Itu bedanya."
+Kovan membaca sampai selesai. "Kita pindahkan perempuan tua itu malam ini."
 
-Ashvarok-Renn menoleh pada Gella. "Sembilan napas di dadaku," katanya pelan. "Empat sudah di ambang. Sisa the Silence dan the Ground yang menunggu. Kita lebih dulu dari mereka yang buta."
+"Tidak," kata Brannoc.
 
-Gella mengangguk pelan. "Maka kita kejar the Silence dan the Ground sebelum mereka paham napas," katanya. "Empat kini telah mencapai ambang. Sisa tiga simpul menunggu."
+Kovan menatapnya. "Mereka sudah membawa orang pergi. Kau mau menunggu sampai jubah abu berdiri di tambatannya?"
+
+"Kalau dua belas anak datang kemarin lalu perempuan tua menghilang malam ini, siapa yang pertama mereka cari?"
+
+"Kalau kita menunggu, yang mereka cari sudah ada di depan mereka."
+
+Brannoc menahan jawabannya sampai Ashvarok-Renn mengangkat kepala. Ia datang untuk membawa pengamatan, bukan memenangkan pertengkaran. Namun wajah nelayan dengan tangan terikat belum mau pergi dari ingatannya.
+
+"Dia sudah menyiapkan tali dan bekal," kata Brannoc. "Murid Ossian menunggu dekat perahunya. Buat semua siap, tetapi jangan gerakkan perahu sebelum kita tahu jalur mana yang bersih. Perpindahan tergesa akan menjadi penunjuk."
+
+Gella mendekati meja. "Dan perpindahan terlambat menjadi penyerahan. Berapa lama sebelum mereka dapat membedakan napas orang sakit dari napas yang mereka buru?"
+
+Ashvarok-Renn menyentuh tiga ruas jarinya, kemudian ruas keempat dan kelima. Ia tidak menghitung napas yang dicatat the Wanes; ia menghitung perubahan cara mereka bekerja. Tanda lahir. Pergelangan. Dada. Perintah yang dibatalkan. Pengukuran kedua di tempat lain. Lima langkah, dan dua langkah terakhir mereka pelajari sejak kemarin.
+
+"Tiga. Mungkin lima."
+
+"Hari?" Kovan memastikan.
+
+"Hari. Bukan pekan. Kalau laporan berikutnya menyebut mereka mengukur orang tidur, ambil batas tiga. Kalau mereka masih menyalahkan sesak dan asap, kita mungkin punya lima."
+
+Kovan berjalan ke ambang, lalu kembali. "Kita tak boleh mempertaruhkan the Stillness pada kata mungkin."
+
+"Kita juga tak boleh membawa pengejar ke tempat persembunyiannya," jawab Ashvarok-Renn. "Siapkan perpindahan untuk batas tiga. Jalankan hanya setelah jalur dibaca."
+
+"Siapa yang membaca?"
+
+"Anak-anak tidak," kata Brannoc cepat. "Mereka sudah cukup dekat dengan tongkat hari ini."
+
+Ashvarok-Renn setuju. Murid Ossian akan memeriksa cabang air menuju rawa sebelum fajar. Tidak ada rombongan dari barak, tidak ada orang bersenjata di tambatan. Dua anak desa tetap bermain di tepi agar kebiasaan tak berubah; yang lain menjauh. Bila the Wanes masuk ke jalan danau, ketukan dikirim satu kali. Bila jalan air bersih, kain dari murid Ossian akan tiba tanpa ketukan tambahan.
+
+Gella menatap tangan Ashvarok-Renn yang masih bertumpu pada meja. "Kau tidak ikut."
+
+"Aku tidak berniat ikut."
+
+"Kau baru saja menghitung dengan napasmu sendiri."
+
+"Dengan ruas jari."
+
+"Dadanya berbeda pendapat," kata Gella kepada Kovan, bukan kepadanya. "Pastikan ia tetap di serambi. The Wanes sedang belajar mengenali napas yang menyimpang. Kita tidak akan mengantar sembilan napas sekaligus ke alat ukur mereka."
+
+Ashvarok-Renn hendak membantah, tetapi rasa logam sudah menempel di pangkal lidahnya. Ia menutup mulut, menunggu sampai tarikan berikutnya tidak terdengar.
+
+"Aku tetap," katanya.
+
+Brannoc mengambil satu bungkus garam. "Aku kembali ke cabang jalan. Kalau dua anak tadi belum pulang sebelum gelap, aku cari mereka dari selatan."
+
+"Tidak mendekati danau," kata Kovan.
+
+"Tidak mendekati danau."
+
+"Dan kalau melihat the Wanes?"
+
+Brannoc menyelipkan garam ke sabuk. "Aku membawa belanjaan buruk dan terlalu banyak anak. Rupanya itu penyamaran terbaik kita."
+
+Ketegangan di wajah Kovan tidak hilang, tetapi ia membiarkan Brannoc pergi.
+
+---
+
+Murid Ossian menerima kabar menjelang matahari tenggelam. Ketukan terakhir datang dari lereng, begitu lemah hingga hampir menyatu dengan bunyi dayung membentur sisi perahu: dua pendek, satu panjang.
+
+Ia sedang menambal celah pada bangku buritan. Di pondok terapung, perempuan tua penjaga perahu menggulung jala. Cucunya memasukkan ikan kering ke kantong, lalu mengeluarkannya lagi ketika neneknya menganggap jumlahnya berlebihan.
+
+"Kalian orang selatan selalu mengira rawa tak punya makanan," kata perempuan tua itu.
+
+"Saya mengira ikan tidak peduli dari mana saya datang," jawab murid Ossian.
+
+"Ikan peduli pada semua hal yang tak dipahami manusia. Itu sebabnya mereka jarang tertangkap oleh orang pintar."
+
+Perempuan tua menarik simpul terakhir dengan gigi. Bekal tetap berada di kantong, meski separuh ikan dikembalikan ke para-para. Selimut sudah terlipat di bawah bangku. Dua gulung tali, kendi air, dan dayung cadangan tersusun tanpa menghalangi kaki. Dari luar, perahu itu masih tampak seperti perahu yang akan memeriksa jala.
+
+"Kita berangkat malam ini?" tanya cucunya.
+
+Perempuan tua melihat permukaan danau yang mulai gelap. "Belum. Orang berjubah suka jalan saat orang lain terburu-buru. Kita biarkan mereka lewat dulu."
+
+Murid Ossian tidak menyela. Keputusan itu sama dengan pesan dari barak: siap, belum bergerak. Ia turun ke air setinggi betis dan meraba tali tambatan. Seratnya kasar, mudah dilepas tanpa pisau. Ia membungkus bagian bawah kedua dayung dengan kain agar tidak mengetuk lambung. Setelah itu ia memindahkan perahu ke sisi pondok yang terlindung alang-alang, hanya sejauh panjang tali.
+
+Di jalan utara, dua sosok berjubah melintas sebelum cahaya habis. Mereka berhenti di tiang bercap tujuh garis. Salah satunya mengamati pondok, tetapi perempuan tua sedang duduk membelakangi jalan sambil memilah pelampung jala. Cucunya mengomel tentang ikan kering. Murid Ossian terus mengerjakan tambalan.
+
+Kedua sosok itu pergi ke desa berikutnya.
+
+Baru setelah bunyi langkah lenyap, perempuan tua bertanya, "Rawa timur atau rawa selatan?"
+
+"Timur punya jalur sempit," jawab murid Ossian. "Selatan lebih terbuka."
+
+"Jalur sempit susah dilalui."
+
+"Juga susah diikuti."
+
+Ia mendengus. "Besok sebelum fajar, kau baca arus timur. Jangan pindahkan perahuku sebelum kau kembali."
+
+"Saya tidak akan menyentuh talinya."
+
+"Kau sudah menyentuhnya."
+
+Murid Ossian menatap tangannya yang masih memegang simpul. Perempuan tua mengambil tali itu, mengendurkannya satu lilitan, lalu menyerahkan ujungnya kembali.
+
+"Sekarang kau boleh menyentuh," katanya.
+
+Malam menutup danau. Pondok tetap berpenghuni; asap tipis masih keluar dari lubang atap, dan perahu masih terikat pada tiangnya. Namun dayung telah dibungkus, bekal telah masuk, jalur timur tinggal dibaca. Murid Ossian duduk di buritan dengan ujung tali di telapak tangan, menunggu gelap paling pekat untuk berangkat sendiri memeriksa rawa.

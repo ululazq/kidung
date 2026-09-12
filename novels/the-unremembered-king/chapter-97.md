@@ -89,7 +89,7 @@ Ketukan kedua itu bohong. Empat puluh tahun silam ada orang lain yang mengatakan
 
 "Itu yang membuatku terus mencoba."
 
-Untuk pertama kalinya sore itu, dua pembaca saling menyeringai. Bukan tertawa — galeri ini tidak akan mengizinkan tawa sampai ke mana-mana, dan keduanya tahu. Hanya seringai kecil dua orang yang sama-sama membaca tulisan tangan yang sama di halaman yang sama, dan sama-sama tahu betapa mahal harganya kalau tulisan tangan itu jatuh ke tangan yang salah.
+Dua pembaca saling menyeringai, sama-sama tahu betapa mahal harga tulisan itu bila jatuh ke tangan yang salah.
 
 ---
 

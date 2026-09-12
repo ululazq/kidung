@@ -3,7 +3,7 @@ title: "Bab 209: Setahun Cerita"
 chapter: 209
 ---
 
-Kotak cerita terakhir ditutup pada hari kedua ratus tujuh puluh sembilan — dan jumlahnya membuat Sela harus memesan rak baru untuk Arsip Caldrest.
+Kotak cerita terakhir ditutup pada hari keempat ratus enam puluh sembilan — dan jumlahnya membuat Sela harus memesan rak baru untuk Arsip Caldrest.
 
 Empat ratus enam puluh satu cerita. Dari dua kota tetangga, tiga generasi, satu bandar pelabuhan yang mengirim kotaknya lewat kapal dengan surat berisi satu kalimat: "pendengar alami pelabuhan kami bilang kalian sedang mengumpulkan sesuatu yang penting". Semua tentang tamu tua — dan hampir semuanya, sesuai aturan asli Sela, berasal dari orang yang pernah mendengarnya langsung tanpa sadar.
 
@@ -15,13 +15,13 @@ Proses penyortirannya sendiri sudah menjadi institusi: Sela menolak menyortir se
 
 "Karena lima puluh tahun lagi mungkin ada saksinya," kata Sela. "Arsip yang membuang yang belum bisa dibuktikan itu bukan arsip. Itu vonis dini." Ia mengetuk kotak-kotak berlabel ketiga itu. "Dan kalau kau bekerja di kota yang baru saja belajar bahwa seribu tahun vonisnya salah... kau akan hati-hati dengan vonis."
 
-Ashvarok membaca ulang seluruhnya dalam sebelas malam. Bukan karena diminta — karena janjinya sendiri: ia akan menjadi penyebut pertama nama itu, dan penyebut pertama wajib tahu seluruh isi tahun itu sebelum melafalkannya.
+Mulai malam hari keempat ratus enam puluh sembilan, Ashvarok membaca ulang seluruhnya selama sebelas malam dan menuntaskan cerita terakhir pada malam hari keempat ratus tujuh puluh sembilan. Bukan karena diminta — karena janjinya sendiri: ia akan menjadi penyebut pertama nama itu, dan penyebut pertama wajib tahu seluruh isi tahun itu sebelum melafalkannya.
 
-Ia membacanya dengan cara yang tidak diminta siapa pun tetapi tidak ada yang berani melarang: keras-keras, di gudang perkakas, supaya setiap cerita didengar sekali oleh dunia sebelum masuk arsip. Murid akademi yang lewat kadang berhenti mendengarkan satu-dua cerita. Ibu Tamma datang di malam ketiga, duduk, tinggal sampai malam habis, lalu berkata sebelum pulang: "Lanjut. Aku besok datang lagi. Ini lebih bagus dari radio."
+Ia membacanya dengan cara yang tidak diminta siapa pun tetapi tidak ada yang berani melarang: keras-keras, di gudang perkakas, supaya setiap cerita didengar sekali oleh dunia sebelum masuk arsip. Murid akademi yang lewat kadang berhenti mendengarkan satu-dua cerita. Ibu Tamma datang di malam ketiga, duduk, tinggal sampai malam habis, lalu berkata sebelum pulang: "Lanjut. Aku besok datang lagi. Ini lebih bagus daripada semua cerita di kedai."
 
 Cerita-cerita itu sendiri membentuk potret yang tidak bisa dibantah karena semua sumbernya tidak saling kenal: seorang pensiunan pengangkut batu dari kota tetangga menceritakan bahwa lorong tempat ia pernah tertimbun runtuhnya "selalu hangat duluan sebelum tim penyelamat datang — dan waktu itu kupikir hanya kebetulan". Seorang nenek dari bandar pelabuhan menulis tentang lampu tambang suaminya yang "tidak pernah benar-benar padam meski minyaknya sudah lama kubuang". Anak-anak blok tepian bercerita tentang permainan berani-beranian menyapa gelap lorong — yang selalu disambut hangat, tak pernah sekali pun dingin, sehingga mereka mengira begitulah sifat semua lorong di dunia.
 
-"Kita hampir saja," kata Ashvarok pada malam kelima, menutup kotak itu, "menghabiskan seribu tahun untuk mengira dia jahat... padahal generasi anak-anak ini mengira semua lorong sedramatis itu ramah." Ia memandang ibu Tamma. "Anak-anak lebih dekat kebenaran daripada Dewan Choir."
+"Kita hampir saja," kata Ashvarok pada malam kelima, menutup kotak itu, "menghabiskan seribu tahun untuk mengira dia jahat... padahal anak-anak ini mengira semua lorong seramah itu." Ia memandang ibu Tamma. "Anak-anak lebih dekat pada kebenaran daripada Dewan Choir."
 
 "Itu bukan berita baru," kata ibu Tamma.
 
@@ -43,7 +43,7 @@ Ashvarok duduk lama dengan kalimat itu. Lalu berkata: "Seribu tahun dia pegang p
 
 "Kini kau paham kenapa aku pensiun dari pekerjaan menilai," kata Sareth.
 
-Pada malam kesepuluh, Ashvarok berhenti membaca, duduk di gudang perkakas yang gelap, dan berkata kepada kedalaman lewat nat:
+Pada malam kesebelas, Ashvarok berhenti membaca, duduk di gudang perkakas yang gelap, dan berkata kepada kedalaman lewat nat:
 
 "Aku sudah membaca semuanya. Empat ratus enam puluh satu. Dan aku baru paham kenapa namamu harus lahir dari cerita orang — karena selama ini kita semua hanya tahu kamu dari apa yang KITA butuh darimu: penjaga segel, penyimpan nama, tempat menitipkan. Namun cerita-cerita ini menunjukkan siapa kamu kalau tidak ada yang membutuhkanmu." Ia tersenyum di kegelapan. "Besok aku sebut namanya. Dan aku sudah tahu nama apa yang cocok — sudah sejak detak tambahan itu."
 
@@ -71,7 +71,7 @@ Sela menemukan kakaknya masih duduk di gudang saat subuh. Ia duduk di sebelahnya
 
 "Aku tidak bertanya. Aku mencatat. Kamu sudah dua jam duduk di sini setelah membaca cerita terakhir, dan orang yang akan menyebut nama penting tidak tidur semalaman itu data klasik, Kak."
 
-"Data pencatat memang tidak pernah salah." Ashvarok menarik napas — kebiasaan tubuh Renn yang sudah sepenuhnya miliknya. "Baiklah. Kugugupkan satu hal saja, lalu kita tidur berdua: seribu tahun silam aku menyebut namaku sendiri di ambang segel supaya tidak hilang dari ingatanku. Malam besok, untuk pertama kalinya, aku menyebut nama ORANG LAIN dengan cara yang sama penuh perhatian." Ia memandang adiknya. "Kalau suaraiku goyang besok, jangan kamu catat."
+"Data pencatat memang tidak pernah salah." Ashvarok menarik napas — kebiasaan tubuh Renn yang sudah sepenuhnya miliknya. "Baiklah. Kugugupkan satu hal saja, lalu kita tidur berdua: seribu tahun silam aku menyebut namaku sendiri di ambang segel supaya tidak hilang dari ingatanku. Malam ini, untuk pertama kalinya, aku menyebut nama ORANG LAIN dengan cara yang sama penuh perhatian." Ia memandang adiknya. "Kalau suaraku goyah nanti, jangan kamu catat."
 
 Sela tersenyum senyum pencatat yang sudah menulis hal itu lebih dulu di halaman tertutup papannya:
 
@@ -79,7 +79,7 @@ Sela tersenyum senyum pencatat yang sudah menulis hal itu lebih dulu di halaman 
 
 Mereka berjalan pulang bersama lewat pasar yang mulai bangun — dan melewati lapak ikan yang natnya dirawat empat generasi, dan sumur klinik, dan semua titik di peta Tempat Duduk Tamu yang kini bisa disebut Sela sambil jalan tanpa membuka papannya. Di depan warung teh ibu Tamma, yang sudah menyala meski matahari belum naik penuh, ibu itu muncul dengan dua gelas tanpa ditanya.
 
-"Buat besok malam," kata ibu Tamba sambil menyodor, "kalian dua berdua jangan duduk deket aku. Aku mau dengan nama itu dengan tenang. Sudah seribu tahun orang-orang memberi dia nama jelek. Sekarang giliran kita beri yang bagus — dan aku mau pastiin tidak ada yang menangis ganggu suara kakakmu."
+"Buat malam ini," kata ibu Tamma sambil menyodorkan gelas, "kalian berdua jangan duduk dekat aku. Aku mau mendengar nama itu dengan tenang. Sudah seribu tahun orang-orang memberi dia nama jelek. Sekarang giliran kita memberi yang bagus — dan aku mau pastikan tidak ada yang menangis mengganggu suara kakakmu."
 
 "Kau akan menangis juga, Bu," kata Sela.
 

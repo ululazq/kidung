@@ -23,7 +23,7 @@ Ia mengambil bejana itu dari kotak kainnya, mengangkatnya ke cahaya jendela yang
 
 Nilam.
 
-Tidak ada yang mengenal nama itu. Tidak ada yang bisa menempatkannya. Tetapi semua orang di ruangan itu merasakan hal yang sama pada detik yang sama: nama itu tidak dibaca seperti nama yang dihapus; ia dibaca seperti nama yang dibiarkan menunggu — dan bejana ini telah menunggu pemutaran lebih lama dari siapa pun di ruangan ini.
+Tidak ada yang mengenal nama itu. Resgar mengusap ibu jarinya pada tepi meja. Kurator membuka daftarnya, mencari sekali, lalu menutupnya tanpa menulis. Sela membiarkan ujung penanya menggantung di atas kertas. Nama itu tidak tercatat sebagai nama yang dihapus; di hadapan mereka hanya ada bejana yang telah menunggu pemutaran lebih lama dari siapa pun di ruangan itu.
 
 "Maka kita putar," kata Ashvarok-Renn, "di meja ini, untuk pemilik meja ini — yang tidak ada. Dan kita dengar apa yang isinya ingin katakan."
 
@@ -33,7 +33,7 @@ Ia memutar bejana itu pelan, searah putarannya, seperti ia memutar semua bejana 
 
 "Siapa dia?" bisik Sela, yang penanya berhenti di tengah kata.
 
-"Dengar dulu," kata kurator. "Orang yang bercerita tidak boleh dipotong, apa lagi orang yang bercerita dari dalam bejana."
+"Dengar dulu," kata kurator. "Orang yang bercerita tidak boleh dipotong, apalagi orang yang bercerita dari dalam bejana."
 
 Suara itu melanjutkan, pelan, dengan irama yang sama dengan tiga ketuk dan satu diam yang sudah menghitung seribu tahun di dinding-dinding selatan — irama yang kini baru mereka dengar dari mulut asalnya, bukan dari batu: "*Aku tidak menyalahkanmu karena pergi. Semua murid pergi pada waktunya sendiri; itu bukan kehilangan, itu kelulusan. Yang kusalahkan — tidak, aku tidak menyalahkan siapa pun. Aku hanya meninggalkan ini sebelum aku pergi ke utara, seperti yang kau tahu kau tidak akan kutemui, dan aku meninggalkannya di meja yang kau tinggalkan, supaya kalau kau pulang kau menemukan bukan hanya rumahmu, tetapi juga jawaban untuk pertanyaan yang kau tidak pernah ajukan: kenapa aku mengajarimu hal-hal yang tidak penting. Kau pikir itu cara agar kunci-kunci kita selamat. Bukan. Itu cara agar kau selamat — karena orang yang menguasai hal-hal yang tidak penting tidak akan pernah merasa dirinya cukup berharga untuk dijual, dan tidak ada yang bisa membeli tukang yang tidak merasa bisa dijual.*"
 

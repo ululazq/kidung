@@ -3,102 +3,198 @@ title: "Bab 336: Empat dari Tujuh Terjaga"
 chapter: 336
 ---
 
-Fajar di danau garam datang dengan kabut tipis di atas air. Dua belas anak barak sudah duduk di tepi bersama anak-anak desa, main kelereng dan memukul papan dengan ketukan kecil. Di pondok terapung, perempuan tua penjaga perahu menambal jala, tidak tahu ia diawasi oleh anak-anak yang tidak tahu mereka menjaga pintu.
+Murid Ossian melepas tali tambatan ketika malam mencapai bagian paling gelap. Kain pada kedua dayung menelan benturan kayu. Dari pondok terapung, perempuan tua penjaga perahu mengawasinya tanpa lampu; cucunya tidur di antara gulungan jala dan kantong bekal, masih mengenakan sandal.
 
-Brannoc berdiri di kejauhan mengamati dari balik pohon. "Mereka main seperti tidak terjadi apa-apa," bisiknya pada murid Ossian yang duduk di sebelahnya. "Itu yang kita butuhkan. The Wanes melihat anak, bukan pagar."
+“Saya akan membaca jalur timur,” katanya.
 
-Murid Ossian mengirim kain tenun: *Pola ukur the Wanes belum sampai danau garam. Namun dua desa ke selatan sudah mereka catat napasnya. Kami siap pindahkan nenek perahu ke rawa bila kain berikutnya bilang lari.* 
+“Kau mengulang kata-kataku.” Perempuan tua itu menguji simpul yang tadi ia longgarkan sendiri. “Apa yang kaulakukan bila menemukan perahu lain?”
 
-Ashvarok-Renn membacanya di serambi. "Belum terlambat," katanya pada Kovan. "Namun hari ini penentu. Bila the Wanes paham napas the Survivor, danau garam tidak aman."
+“Kembali tanpa terlihat.”
 
-Kovan menarik benang abu-abu ke utara, menyambung the Stillness Knot yang belum berdenyut ke pondok terapung. "Murid kita di sana tangguh," katanya. "Ia tidak ukur di depan, hanya hitung saat perempuan tua tidur siang."
+“Kalau mereka melihatmu?”
 
-"Begitu seharusnya," kata Gella dari sudut. "Yang kita jaga tidak boleh tahu ia kunci."
+“Saya mencari pelampung yang lepas.”
 
-Di menara, perawat tua — the Northern Tower Nurse — membuka buku catatan halaman ketujuh belas. Mira membacakan dentum utara. "Masih memanjang setengah hitungan," katanya. "Namun sejak 12 anak di danau garam, dentumnya lebih tenang — seperti the Stillness merasa aman dikelilingi anak main, bukan diawasi."
+“Dengan dayung dibungkus?”
 
-"Anak-anak itu pagar tanpa nama," kata perawat tua. "Mereka jaga tanpa tahu, dan itu yang menyelamatkan the Stillness."
+Murid Ossian tidak punya jawaban yang tidak terdengar bodoh. Perempuan tua mengambil segumpal rumput air dari bawah pondok, menggosokkannya pada kain pembungkus hingga serat itu basah dan berbau rawa.
 
-Gella mendekat membawa buku pemulihan dan meletakkannya di pangkuan Ashvarok-Renn. "Kau the Bearer," katanya. "Napas minggu ini tiga hitungan. Tidak memburuk. Namun jangan ke utara. Biarkan murid Ossian yang jaga dari jauh."
+“Sekarang kau mencari perangkap belut,” katanya. “Orang yang berbohong tanpa menyiapkan bau pantas tertangkap.”
 
-"Tidak ke utara," kata Ashvarok-Renn. "Kita selesaikan dari sini."
+Ia mendorong perahu ke antara alang-alang. Air yang dingin merembes melalui sol sepatunya sebelum ia sempat naik. Di belakangnya, pondok kembali gelap. Hanya garis asap terakhir dari lubang atap yang membedakannya dari bayangan danau.
 
-Ossian mengirim kain tenun kedua lewat Thessa: *The Wanes di desa kelima utara bawa pergi lagi seorang tua — kali ini napasnya benar-benar pelan. Mereka mulai curiga, tetapi masih campur aduk sesak napas dengan the Survivor. Satu dari mereka akan paham bedanya minggu ini. Pindahkan the Stillness sekarang, sebelum mereka sampai danau garam.* 
+Jalur timur bermula sebagai lorong air selebar dua dayung, lalu menyempit di antara rumpun umbi tebal. Murid Ossian membiarkan arus membawa perahu pada bagian terbuka. Ia mendayung hanya ketika buritan hampir menyentuh batang. Di tikungan pertama ia menemukan bekas lunas pada lumpur, tetapi tepinya sudah lunak. Perahu nelayan lewat siang tadi. Di tikungan kedua, dua burung air tidur dengan kepala terselip di bawah sayap. Keduanya tidak terbang saat ia melintas.
 
-Ashvarok-Renn menunjukkannya pada Sela. "Sekarang," katanya. "Suruh murid Ossian bawa perempuan tua itu ke rawa saat malam. Persahabatan dulu, lalu pindah saat dia sudah percaya."
+Pada tikungan ketiga, salah satu burung tiba-tiba mengangkat kepala.
 
-Sela mencatat di papan: *the Stillness (danau garam) pindah ke rawa malam ini via murid Ossian + anak desa (persahabatan dulu). The Wanes bawa pergi orang napas pelan = mulai paham, tetapi masih campur. Jendela: malam ini.* 
+Murid Ossian menahan dayung. Dari arah danau terdengar gesekan sepatu pada papan pondok, kemudian suara orang mencoba pintu yang tidak dikunci. Ia sudah terlalu jauh untuk melihat siapa yang datang, tetapi suara berikutnya tidak mungkin milik nelayan.
 
-Brannoc mengumpulkan dua belas anak di halaman. "Kalian sudah jaga dengan baik," katanya. "Malam ini teman kalian di danau garam pindah ke rawa. Jangan tunjuk, jangan tanya. Biarkan ia pergi sendiri."
+“Perahunya masih ada?”
 
-"Kita main di sini besok juga?" tanya satu anak.
+“Ada satu di sisi barat.”
 
-"Main di sini," kata Brannoc. "Biar the Wanes lihat anak main, bukan anak yang kehilangan nenek."
+“Periksa saat fajar. Jangan bangunkan mereka sekarang.”
 
-Mira di menara menutup buku dan menulis di sisi: *the Stillness (danau garam) pindah rawa malam ini via persahabatan. The Wanes bawa pergi napas pelan (masih campur sesak). Jendela: malam ini. Strategi: jaga tanpa nama, pindah sebelum musuh paham.* Ia mengetuk ubin tiga kali, diam sehentakan.
+Langkah itu pergi tanpa lampu. Murid Ossian menunggu sampai burung air kembali menyembunyikan kepala. Jalur di depannya bersih, tetapi jalan pulang telah disentuh the Wanes. Ia membalik perahu dengan satu sapuan panjang dan kembali melawan arus.
 
-Ashvarok-Renn menulis di bible kecil: *The Survivor the Stillness (danau garam) diamankan via murid Ossian + 12 anak, pindah rawa tanpa nama. Tersisa the Silence (celah menara?) dan the Ground di pusat the Hollow. Barak pegang four of the Seven napas, the Wanes pegang the Unclaimed Knot tanpa kunci.* 
+Perempuan tua sudah berdiri di luar ketika haluan muncul dari alang-alang. Cucunya terbangun dan memegang kantong ikan kering di dada. Tak seorang pun bertanya apakah rawa bisa dilalui. Mereka telah mendengar langkah di pondok.
 
-Di danau garam, murid Ossian dan anak-anak desa membantu perempuan tua itu memindahkan jala dan papan ke perahu kecil. Mereka bilang danau sedang sepi ikan di tepi, lebih baik ke rawa sebelah. Perempuan tua itu mengangguk, tidak tahu bahwa perpindahan itu penjagaan, bukan sekadar cari ikan.
+“Timur bersih sampai petak umbi kedua,” kata murid Ossian. “Mereka akan memeriksa lagi saat fajar.”
 
-"Nenek, ayo," kata anak perempuan penjaga perahu. "Kami jaga di sini."
+Perempuan tua mengikat selendang di bawah dagu. “Berapa lama sampai air dangkal?”
 
-Perempuan tua itu naik perahu, duduk di buritan memeluk jala. Murid Ossian mendayung pelan ke arah rawa yang tertutup umbi tebal. Dari jauh, the Wanes yang lewat di desa melihat perahu biasa berangkat fajar — tidak pernah tebersit bahwa di buritan itulah napas keempat yang mereka buru.
+“Kita sampai sebelum fajar bila berangkat sekarang.”
 
-Di barak, Ashvarok-Renn menerima kain itu dan menatap peta dinding. Benang abu-abu ke utara kini berdenyut pelan, seolah merasakan napas the Stillness yang sudah aman di rawa. Ia menulis di bible: *the Stillness resmi terjaga. Empat dari tujuh napas kini di tangan. Yang belum pasti: the Silence (celah?) serta the Ground yang tidur di kedalaman.*
+“Jawaban orang jalan. Dengan perahu penuh dan anak mengantuk?”
 
-Gella mendekat. " Empat napas," katanya. "Delapan belas tahun kita tunggu satu per satu muncul. Kini mereka di ambang masing-masing."
+“Lebih lambat, tetapi masih sebelum fajar bila arus tidak berbalik.”
 
-"Dan the Wanes pegang batu tanpa kunci," kata Ashvarok-Renn. "Selama napas lari, pintu dunia tetap tertidur."
+“Arus selalu berbalik saat orang berkata mungkin.” Ia menoleh kepada cucunya. “Bawa kendi. Tinggalkan keranjang ikan besar.”
 
-Malamnya, kabar tiba lewat kain tenun ketiga: *Nenek perahu sudah di rawa bersama muridku. Ia kira kami sekadar ajak pindah karena danau sedang sepi ikan. Anak desa yang lain main kelereng di tepi, the Wanes lihat anak main, tidak curiga.* 
+Anak itu menatap jala-jala yang masih tergantung. “Semua jala?”
 
-Ashvarok-Renn membacanya pada Gella. "Selamat," katanya. "Empat dari tujuh kini terjaga."
+“Dua gulung. Kalau kita membawa seluruh rumah, orang akan tahu kita tak berniat pulang.”
 
-Di danau garam, fajar berikutnya, the Wanes datang ke tepi desa dan mendapati perahu nenek perahu sudah tidak di sana. Mereka bertanya pada anak-anak desa, tetapi anak-anak hanya menggeleng dan main kelereng. "Mungkin pindah cari ikan," kata satu anak polos. The Wanes menatap danau kosong, lalu mencatat di lembaran kasar: *Perempuan tua penjaga perahu hilang.* Mereka tidak tahu bahwa perahu itu berlayar fajar sebelum mereka tiba, dikawal mata-mata kecil yang mereka anggap anak main.
+Murid Ossian meraih gulungan terdekat. Perempuan tua menahan lengannya.
 
-"Mereka butuh waktu untuk sadar," bisik Ashvarok-Renn pada malam. "Dan waktu itulah yang kita pakai untuk menjaga the Silence dan the Ground."
+“Kau belum bilang mengapa orang berjubah memeriksa perahuku.”
 
-Gella mengangguk. "Tiga sudah di tangan kita, satu di rawa. Sisa the Silence dan the Ground."
+Itulah pertanyaan yang selama tiga hari ia hindari. Ia tidak boleh menyebut napas, the Stillness, atau tujuh simpul. Namun kebohongan tentang ikan tak akan bertahan melewati langkah yang baru saja mereka dengar.
 
-"Jangan bilang di tangan," kata Ashvarok-Renn. "Kita jaga, tidak memegang. the Silence mungkin perawat tua sudah mewakili — kita harus pastikan. the Ground di the Hollow adalah pangkal sendiri, the Wanes mungkin sudah di sana tanpa tahu."
+“Mereka mengukur orang tua di desa-desa,” katanya. “Mereka belum tahu persis apa yang dicari. Mereka membawa pergi seorang nelayan kemarin supaya bisa mengukurnya jauh dari asap.”
 
-Di menara, perawat tua membuka buku halaman ketujuh belas. "Dentum utara kini tenang," katanya pada Mira. "Seperti the Stillness sudah di rawa dan merasa aman. Namun dentum the Hollow di tengah masih acak — seperti ada yang duduk di pangkal tanpa kunci."
+“Dan kau pikir mereka akan mengukurku.”
 
-"Mereka duduk di batu," kata Mira. "Batu berdenyut, tetapi pintu tidak terbuka."
+“Saya pikir menunggu untuk tahu akan memberi mereka kesempatan.”
 
-"Maka kita menang waktu," kata perawat tua. "Selama mereka tidak punya napas, mereka hanya penjaga batu, bukan pintu."
+Perempuan tua memandang perahu, cucunya, lalu bekas kapur tujuh garis pada tiang. “Rawa timur punya ikan buruk.”
 
-Sela duduk di serambi memilin benang biru ke utara. "Empat napas," bisiknya. "Satu, dua, tiga, empat. Tiga di barak dan sekitarnya, satu di rawa. Tiga simpul lagi menunggu."
+“Kita bisa kembali ketika jalannya aman.”
 
-"Dan satu pintu yang the Wanes duduki tanpa kunci," kata Ashvarok-Renn. "Selama napas berlari, dunia tetap tertidur."
+“Jangan menjanjikan air akan mengalir mundur.” Ia melepaskan lengan murid Ossian. “Angkat jala yang bawah. Yang atas masih basah dan akan menetes sepanjang jalan.”
 
-Di menara, perawat tua memilin benang dan menyanyikan setengah irama lama. Napasnya berdenyut pelan, dalam — the Gate Survivor yang delapan belas tahun menjaga celah, kini tahu ada tiga lainnya yang barak rawat di ambang masing-masing.
+Mereka bekerja tanpa menyalakan lampu. Cucunya memasukkan kendi di bawah bangku, mengikat selimut pada tiang haluan, lalu menyelipkan kantong kelereng di antara dua pelampung. Perempuan tua menutup pintu pondok, tetapi tidak memasang palang. Di bawah atap ia meninggalkan satu jala sobek, dua mangkuk, dan keranjang besar berisi ikan. Tempat itu tampak ditinggal untuk satu pagi.
 
-"Satu lagu," bisiknya pada Mira. "Irama ini diajarkan ibu Tamma padaku dulu. Katanya, lagu ini yang menjaga pintu saat semua orang lupa."
+Sebelum naik, ia menggores bagian bawah tiang dengan ujung pisau. Satu garis pendek, tersembunyi dari jalan.
 
-Mira mencatat di buku: *Perawat tua nyanyikan irama lama (warisan ibu Tamma). the Gate Breath berdenyut pelan dalam — kunci pertama yang delapan belas tahun di ambang.* 
+“Untuk apa?” tanya cucunya.
 
-Sela mengambil papan napas dan menulis di sisi: *Keadaan: Barak pegang four of the Seven napas (the Gate Survivor celah, the Escape barat daya lolos, the Remnant timur, the Stillness danau garam/rawa). The Wanes pegang the Unclaimed Knot tanpa kunci. Tinggal the Silence (celah?) dan the Ground di pangkal the Hollow. Pintu dunia tetap tertidur.* 
+“Supaya kalau ada yang memindahkan tiang, aku tahu.”
 
-Ashvarok-Renn menutup bible dan menulis baris terakhir: *Batch 3 selesai: the Stillness (danau garam) terjaga di rawa via persahabatan. Barak kini memegang empat dari tujuh napas. Sisa the Silence (celah?) & the Ground (the Hollow). the Wanes memegang batu the Unclaimed tanpa kunci. Pintu dunia tetap tertidur selama napas lari.* 
+“Kita akan pulang?”
 
-Ia membiarkan benang diam hidup tanpa namanya, tahu bahwa di rawa utara, seorang perempuan tua penjaga perahu tidur nyenyak tanpa tahu ia adalah napas keempat yang menjaga pintu dunia agar tak pernah dibuka.
+Perempuan tua menyerahkan ujung tali kepadanya. “Kita akan tahu kapan pertanyaan itu bisa dijawab.”
 
-Di barak, Ashvarok-Renn menutup buku keadaan dan menatap ke celah menara di mana perawat tua berdiri. "Satu lagi di sini," bisiknya. "Mungkin the Silence. Bila ya, kita pegang lima dari tujuh. The Wanes hanya batu."
+Perahu berangkat tanpa satu ketukan pada lambung. Murid Ossian mendayung di depan. Perempuan tua memegang kemudi di buritan, lebih hafal perubahan arus daripada dirinya. Cucu perempuan duduk di antara jala dan bekal. Sekali ia tertidur dan kepalanya jatuh ke gulungan tali; neneknya memindahkan simpul yang keras dari bawah pipi anak itu tanpa membangunkannya.
 
-Sela mencatat di papan: *Batch 3 selesai. four of the Seven napas terjaga. Belum: the Silence (celah?) dan the Ground di tengah cekungan. Arc berikut: pastikan the Silence, lalu hadapi the Ground di pangkal.* 
+Di belakang mereka, satu cahaya muncul dekat jalan danau. Cahaya itu berhenti di pondok, bergerak ke tiang, lalu padam. Tidak ada seruan. The Wanes masih mengira waktu berada di pihak mereka.
 
-Ashvarok-Renn mengetuk ubin tiga kali, diam sehentakan — gerakan yang perawat tua ajarkan sebagai tanda laporan selesai.
+Pada petak umbi kedua, air menjadi keruh dan dangkal. Murid Ossian turun untuk menarik haluan. Lumpur mencapai lututnya, dingin dan berbau akar busuk. Perempuan tua menyuruhnya bergeser dua langkah ke kanan. Di sana dasar mengeras. Mereka melewati punggung lumpur, lalu menemukan alur sempit yang mengarah ke kolam rawa di balik rumpun tinggi.
 
-Di menara, perawat tua mendengar ketukan itu dan tersenyum. Ia memilin benang terakhir di jarinya, lalu menyanyikan satu baris irama lama yang hanya ia ingat setengahnya. "Lagu ini," bisiknya pada Mira, "yang menjaga pintu saat semua orang lupa. Delapan belas tahun aku menyanyinya tanpa tahu aku adalah kuncinya."
+Tempat singgah itu hanya pondok penjala lama di atas empat tiang. Separuh atapnya bocor, tetapi lantainya kering dan perahu dapat disembunyikan di bawah naungan umbi. Murid Ossian memeriksa satu-satunya jalan papan. Tidak ada jejak baru. Perempuan tua memeriksa tungku, tempayan, dan kait jala sebelum menyatakan tempat itu layak dengan satu dengusan.
 
-Mira mencatat di buku: *Perawat tua (the Gate Survivor) nyanyikan irama warisan ibu Tamma. the Gate Breath berdenyut pelan dalam — kunci pertama di ambang celah.* 
+“Kau menyebut ini tempat singgah?” tanyanya.
 
-Ashvarok-Renn naik ke menara dan berdiri di ambangnya, menatap ke utara di mana rawa menyembunyikan napas keempat. "Empat dari tujuh," bisiknya. "Satu di sini, satu di barat daya yang lolos, satu di timur, satu di rawa. The Wanes pegang batu tanpa kunci. Selama napas menyimpan dunia, pintu takkan pernah terbuka."
+“Saya belum pernah melihatnya dari dekat.”
 
-Ia menutup bible kecil, lalu membiarkan benang diam hidup tanpa namanya — tahu bahwa di rawa utara, perempuan tua penjaga perahu tidur nyenyak, dan di celah menara, perawat tua menyanyi pelan menjaga dunia agar tak pernah dibuka.
+“Kalau begitu lain kali sebut dugaan.” Ia menyerahkan kain atap kepadanya. “Ikat kebocoran itu sebelum cucuku bangun penuh dan mulai mengeluh.”
 
-Brannoc menepuk bahu murid Ossian. "Jaga dia dari jauh," katanya. "Bila the Wanes datang, biarkan mereka lihat anak main, bukan pagar."
+“Aku sudah bangun,” kata anak itu. “Dan atapnya memang buruk.”
 
-Ashvarok-Renn menatap ke utara, tahu bahwa di rawa sana, seorang perempuan tua tidur nyenyak tidak tahu ia adalah kunci.
+Mereka menutup lubang terbesar dengan kain minyak. Saat langit di timur mulai memucat, perempuan tua menyalakan tungku memakai bara yang dibawa dalam wadah tanah. Asap pertama tertahan di bawah atap, tajam di mata, lalu menemukan celah keluar. Kehadiran mereka tidak dapat dilihat dari danau.
+
+Murid Ossian membuka kain tenun di atas lutut. Ia menulis hanya hal yang sudah dilihat: *Jalur timur bersih. Mereka tiba di pondok sebelum fajar dan bergerak ke rawa. Perempuan tua serta cucunya sampai. Perahu tersembunyi. Tidak ada yang mengikuti.*
+
+Perempuan tua menaruh cangkir air panas di sebelah kain. “Kau melapor kepada siapa?”
+
+“Orang yang akan memastikan jalan pulang tidak dipenuhi jubah abu.”
+
+“Jawabanmu membaik.”
+
+“Karena baunya sudah saya siapkan?”
+
+Ia mencium rumput rawa yang masih melekat pada pembungkus dayung. Sudut mulutnya bergerak, tetapi ia tidak memberi murid Ossian kemenangan berupa senyum. “Karena kali ini kau tidak mengaku tahu lebih banyak daripada yang kau tahu.”
+
+Kain itu mengencang saat pesan diterima. Murid Ossian melipatnya dan menyimpan botol di balik papan lantai. Ia tidak menamai perempuan tua itu. Ia juga tidak menulis bahwa napasnya berakhir setengah hitungan lebih cepat daripada uap yang keluar dari cangkir. Kepastian tersebut sudah dikirim. Tugas pagi ini adalah memastikan ia tetap menjadi perempuan dengan perahu, cucu, dan jala yang perlu diperbaiki.
+
+---
+
+The Wanes datang ke pondok ketika pasar danau mulai dibuka. Dua anak desa sedang bermain kelereng di tanah dekat tambatan. Brannoc mengawasi dari kios pengikis ikan, cukup jauh untuk tidak menjadi bagian dari permainan.
+
+Orang berjubah yang membawa lembaran kasar membuka pintu pondok. Ia melihat jala sobek, mangkuk, keranjang ikan, dan bekas bara semalam. Kawannya berjalan ke tiang tambatan lalu berjongkok di depan tali yang tak ada.
+
+“Perahu yang di sini pergi kapan?” tanyanya.
+
+Anak dengan sandal longgar mengangkat bahu. “Sebelum kami datang.”
+
+“Ke mana?”
+
+“Cari ikan.”
+
+“Di danau tidak ada perahunya.”
+
+Anak itu membidik kelereng, meleset, lalu memungutnya lagi. “Kalau ikannya ada di danau, ia tak perlu cari jauh.”
+
+Pembawa lembaran berjongkok agar sejajar dengannya. “Perempuan tua itu pergi sendiri?”
+
+Kawan anak itu menyapu garis permainan dengan telapak, kesal karena pertanyaan menghalangi giliran. “Bersama cucunya. Kadang ada orang selatan ikut angkat jala.”
+
+“Siapa namanya?”
+
+“Orang selatan.”
+
+The Wane berdiri. Ia menulis *perahu pergi sebelum fajar; tujuan tidak diketahui*, kemudian mencoret kata *hilang* yang sempat dibuatnya. Kawannya mengusap cap tujuh garis di tiang dan memandang dua jalan air yang bercabang di balik pondok.
+
+“Kita periksa jalur timur,” katanya.
+
+“Tanpa perahu?”
+
+“Tanya nelayan.”
+
+Mereka berjalan ke kios-kios. Kedua anak tidak mengetuk papan. Tidak ada gunanya mengirim bahaya yang sudah lewat. Brannoc menunggu sampai jubah abu menghilang di antara atap, lalu membeli pengikis ikan yang tidak dibutuhkannya dan meninggalkan pasar lewat jalan selatan.
+
+Ia membawa dua fakta: the Wanes tahu perempuan tua sudah berangkat, dan mereka belum tahu perpindahan itu lebih dari perjalanan mencari ikan.
+
+---
+
+Kain kepastian tiba di barak saat cahaya menyentuh serambi. Ashvarok-Renn membacanya bersama Kovan, Sela, dan Gella. Tak ada sorak ketika kalimat *perempuan tua serta cucunya sampai* muncul pada serat. Kovan hanya memindahkan pasak utara dari tepi danau ke rawa pada peta, tanpa menarik benangnya lebih dekat ke barak.
+
+“Empat,” kata Sela. “The Gate, the Escape, the Remnant, the Stillness.”
+
+“Empat yang terjaga,” koreksi Ashvarok-Renn. “Bukan empat yang kita miliki.”
+
+Kovan menguji tegang benang dengan punggung kuku. Denyut dari utara tetap pelan dan dalam. “Kabar bilang sampai. Benang bilang hubungan tidak putus.”
+
+“Itu cukup untuk pagi ini,” kata Gella. “Jangan minta pemindahan aman membuktikan seluruh dunia aman.”
+
+Brannoc tiba sebelum kain selesai dilipat. Ia menaruh pengikis ikan baru di meja dan menceritakan pertanyaan the Wanes kata demi kata. Ketika ia sampai pada keputusan mereka mencari perahu, Sela meraih papan, tetapi Ashvarok-Renn menahan arang di tangannya.
+
+“Jangan kirim anak menyusul,” katanya. “Murid Ossian sudah tahu jalan air. Tambahan mata hanya akan meninggalkan tambahan jejak.”
+
+“Kalau mereka mendapat perahu?” tanya Brannoc.
+
+“Kabar bergerak dari nelayan ke pasar, lalu ke benang. Orang rawa tidak bergerak kecuali murid Ossian menilai tempat singgah terbuka.”
+
+Brannoc menatap pengikis ikan yang ia beli sebagai penyamaran. “Jadi kita menunggu lagi.”
+
+“Kita menjaga keputusan yang sudah berjalan. Itu bukan diam.”
+
+Sela menulis satu tugas untuk utara: *Dengar perubahan jalur. Jangan dekati rawa.* Setelah itu ia berhenti. Tidak ada rangkuman empat simpul, tidak ada daftar kemenangan. Perempuan tua sudah tiba; penjagaan berikutnya adalah membiarkan tempat barunya tidak berubah menjadi alamat.
+
+Kovan mengikat benang pada pasak baru. Ketika simpul mengencang, bunyi kecil datang dari dinding menara di atas mereka: dua ketukan pendek, satu gesekan panjang. Perawat tua, yang sedang turun membawa buku catatan, berhenti di ambang.
+
+“Ulangi,” katanya.
+
+Ashvarok-Renn mengetuk tepi meja dua kali, lalu menahan ketukan ketiga. Jawaban datang dari bawah lantai, terlambat kurang dari satu tarikan napas: dua pendek, satu panjang.
+
+Sela menatap batu di bawah kakinya. “Ada orang di bawah ruang ini?”
+
+Perawat tua meraba jarum pemilin yang terselip di lengan bajunya. “Ada separuh lagu yang tidak pernah naik ke menara.”
+
+Ashvarok-Renn membiarkan ketukan terakhir habis. Mereka sudah memastikan the Stillness tanpa membawanya ke barak. Simpul berikutnya tidak meminta pencarian ke desa lain; jawabannya baru saja datang dari bawah kaki mereka.
+
+“Kita tidak membuka dinding malam ini,” katanya. “Tidak ada orang turun sebelum jalurnya diperlihatkan.”
+
+Perawat tua mengangguk. “Sebelum fajar besok, anak tangga terakhir. Bawa Mira dan lampu kecil.”
+
+Ia mengeluarkan jarum pemilin, menguji ujungnya pada kuku, lalu menyelipkannya kembali. Di bawah lantai, seseorang mulai menarik tali dengan gesekan pendek dan teratur—cukup pelan untuk disangka bunyi batu oleh siapa pun yang tidak menunggu jawaban.

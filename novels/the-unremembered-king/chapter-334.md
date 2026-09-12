@@ -3,116 +3,245 @@ title: "Bab 334: Mata Kecil di Pasar"
 chapter: 334
 ---
 
-Brannoc mengumpulkan dua belas anak di halaman barak saat fajar menyingsing merah. Mereka berbaris tidak rapi, beberapa menguap, satu memegang kelereng di saku. Di tangan Brannoc ada daftar ketukan darurat yang ia tulis sendiri dengan kapur di papan kayu.
+Brannoc meletakkan papan kayu di tanah sebelum cahaya menyentuh atap barak. Dua anak berdiri di depannya dengan kantuk yang belum tuntas: seorang anak dengan kelereng memenuhi kedua saku dan seorang lagi yang sandalnya selalu longgar. Mereka membawa bekal tipis serta papan-papan kecil yang sudutnya sudah tumpul oleh permainan. Tidak satu pun membawa pisau.
 
-Sela berdiri di serambi memegang papan napas, mencatat satu per satu nama anak yang hari itu akan ke danau garam. "Dua belas," bisiknya. "Mata kecil kita. Bila mereka main, the Wanes melihat anak. Bila mereka kabari, barak tahu."
+Ia mengetuk dua kali dengan buku jari, pendek dan rapat. Ketukan ketiga ditahannya sepanjang dua hitungan.
 
-"Dengar baik-baik," katanya. "Ketukan baru: dua pendek, satu panjang. Itu berarti lari ke benang. Bila kalian lihat seseorang di desa lain mengetuk itu, kabari barak tanpa nama. Jangan teriak. Jangan tunjuk. Bisik ke anak lain, dan biarkan kabar berjalan sendiri."
+Tok. Tok. Toook.
 
-Dua belas anak menirukan ketukan di atas papan: tok-tok... tok panjang. Sela berdiri di sudut memegang papan napas, mencatat kecepatan mereka. "Mereka makin lancar," bisiknya pada Gella. "Tiga hari lagi bisa utuh tanpa salah."
+"Sekali lagi," kata anak yang lebih kecil.
 
-Satu anak angkatan keempat maju. "Pak Brannoc," katanya. "Bila the Wanes datang, apa yang terjadi pada nenek perahu?"
+"Tidak." Brannoc menutup telapak di atas papan. "Kalian berdua cuma perlu belajar satu pola. Kalau kuulang sampai jadi lagu, kalian akan memainkannya saat tidak perlu."
 
-"Kalian kabari murid Ossian," kata Brannoc. "Murid Ossian yang bawa dia lari. Kalian hanya anak main."
+Anak yang menyimpan kelereng di kedua saku mengangkat tangan. "Dua pendek, satu panjang artinya lari ke benang."
 
-Anak itu mengangguk serius, lalu kembali ke barisan menirukan ketukan. Di sudut, Gella tersenyum tipis. "Mereka bertanya hal yang benar," katanya pada Sela. "Anak yang paham mengapa mereka main, adalah mata yang tidak akan panik."
+"Artinya satu orang lari ke benang dan kabari murid Ossian. Yang lain tetap bermain."
 
-Gella mendekat membawa buku pemulihan. Ia meletakkannya di pangkuan Ashvarok-Renn yang duduk di serambi. "Kau the Bearer," katanya. "Napas minggu ini tiga hitungan penuh. Tidak memburuk, tidak membaik. Namun kau tahu batasku: bila turun ke dua, kau tidak boleh lagi ke utara."
+"Kalau kami berdua melihat cap tujuh garis?"
 
-"Belum turun," kata Ashvarok-Renn. "Masih tiga. Cukup untuk mengawasi dari sini."
+"Tetap satu orang. Dua anak berlari sekaligus bukan kabar. Itu kepanikan yang bisa dilihat dari seberang danau."
 
-Kovan datang dari peta dinding. "Murid Ossian di danau garam bilang 12 anak kita sudah berteman dengan anak desa di sana," katanya. "Mereka main kelereng di tepi air tiap subuh. Perempuan tua penjaga perahu mulai biasa melihat mereka."
+Sela berdiri di ambang serambi, memeluk papan catatannya tanpa menulis. Brannoc sudah meminta hal itu. Tak ada daftar nama, tak ada urutan hafalan, tak ada tanda yang dapat tertinggal bila salah satu papan kecil dirampas. Kawan-kawan mereka akan menyusul sendiri-sendiri atau bersama teman dekat setelah pasar hidup. Hanya bunyi yang bisa menyaru sebagai permainan.
 
-"Bagus," kata Ashvarok-Renn. "Persahabatan, bukan pengawasan. Bila the Wanes datang, anak-anak itu hanya anak main, bukan mata musuh."
+Seorang anak paling kecil mencoba pola itu pada lututnya. Ketukan panjangnya terlalu singkat.
 
-Sela mencatat di papan: *12 anak di danau garam (berteman, bukan ukur). Ketukan darurat: 2 pendek 1 panjang = lari ke benang. Mata kecil di pasar, bukan perang.* 
+"Kau dengar bedanya?" tanya Brannoc.
 
-Di menara, perawat tua membuka buku catatan halaman keempat belas. Mira membacakan dentum utara. "Masih memanjang setengah hitungan," katanya. "Namun sejak 12 anak tiba di danau garam, dentumnya lebih teratur — seperti the Stillness Knot mengenali kehadiran yang ramah, bukan yang mencurigakan."
+Anak itu menggeleng.
 
-"Anak-anak itu ramah tanpa sadar," kata perawat tua. "Itu yang menyelamatkan the Stillness."
+Brannoc menunjuk pintu dapur. "Ketuk seolah kau minta dibukakan. Dua yang pertama supaya orang di dalam mendekat. Yang terakhir supaya dia tahu kau belum pergi."
 
-Gella melatih tiga anak angkatan keempat mengukur napas Ashvarok-Renn saat fajar. "Napas the Survivor berdenyut pelan tetapi dalam," katanya pada mereka. "Orang biasa lebih cepat tetapi dangkal. Bedanya setengah hitungan, cukup untuk memisahkan kunci dari kerumunan."
+Anak itu mencoba lagi. Tok. Tok. Toook. Kali ini panjangnya tepat.
 
-Satu anak menirukan di atas papan: *the Gate Breath (perawat tua) = 3 hitungan, dalam. Napas the Bearer = 3 hitungan, pelan. Kriteria the Survivor: 0,5 hitungan lebih pendek subuh.* 
+"Kalau the Wanes sudah dekat nenek perahu, kami tetap bermain?" tanyanya.
 
-"Betul," kata Gella. "Namun jangan ukur di depan umum. Bila the Wanes melihat kalian hitung napas orang, mereka belajar cara kita."
+Pertanyaan itu membuat kawannya berhenti menggeser kelereng dengan ujung sandal. Brannoc berjongkok agar wajah mereka sejajar.
 
-Di sudut halaman, Brannoc duduk bersila di antara dua belas anak, memukul papan kayu dengan ritme lambat. "Ingat," katanya. "Ketukan darurat bukan untuk main. Bila kalian lihat cap tujuh garis the Wanes dekat danau garam, lari ke benang. Jangan berteriak, jangan tunjuk."
+"Kalian tidak menjaga dia dengan berdiri di depannya," katanya. "Kalian menjaga jalan kabarnya. Murid Ossian yang membawa dia pergi bila harus. Kalau ada orang dewasa menyuruh kalian menghadang, jangan dengarkan—termasuk kalau orang dewasa itu aku."
 
-Anak-anak menirukan: tok-tok... tok panjang. Satu dari mereka tertawa. "Ini seperti lagu," katanya.
+"Kalau murid Ossian tidak dengar?"
 
-"Lagunya barak," kata Brannoc. "Lagu yang menjaga pintu."
+"Ketuk lagi dari tempat lain. Jangan mendekati the Wanes. Jangan mencoba jadi pahlawan. Pulang hidup-hidup adalah bagian tugas."
 
-Di pojok halaman, satu anak angkatan keempat duduk memegang kelereng, menirukan cara Gella mengukur napas pada boneka kain. "Napas pelan dalam," bisiknya pada kawannya. "Bukan cepat dangkal." Kawannya mengangguk serius — seolah itu pelajaran yang bisa membunuh bila salah.
+Sela akhirnya menggores satu baris di papannya, lalu membalik sisi bertulis itu ke dada. Ashvarok-Renn duduk di ujung serambi dengan buku tertutup di pangkuan. Wajahnya pucat oleh kurang tidur, tetapi ia tidak menyela sampai kedua anak kembali sibuk membagi kelereng.
 
-Gella melihat mereka dan tersenyum tipis. "Mereka belajar lebih cepat dari Ossian," katanya pada Ashvarok-Renn. "Anak tidak takut salah."
+"Kau memberi mereka perintah untuk membangkangimu," katanya.
 
-"Justru karena itu mereka berguna," kata Ashvarok-Renn. "The Wanes melihat anak main, bukan mata penjaga. Ketidaktahuan mereka adalah penyamaran."
+"Perintah terbaik yang bisa kuberi."
 
-Ossian mengirim kain tenun lewat Thessa: *The Wanes di utara mulai hitung orang. Bukan ukur napas — masih terlalu kasar — tetapi mereka pegang pergelangan tangan penduduk dan hitung detak dengan jari. Salah cara, tetapi arah mereka benar. Bila satu dari mereka paham napas lebih pelan dari detak, jendela kita tertutup.*
+"Pastikan mereka percaya bagian pulang itu. Anak-anak terbiasa mendengar orang dewasa memuji yang tinggal paling akhir."
 
-Ashvarok-Renn membacanya pada Kovan. "Mereka belajar," katanya. "Pelan, tetapi belajar. Kita harus lebih cepat mengamankan the Stillness sebelum mereka tahu bedanya napas dan detak."
+Brannoc menatap dua kepala di halaman. "Hari ini yang pulang paling dulu kalau bahaya justru melakukan pekerjaannya dengan benar."
 
-"Berapa lama?" tanya Kovan.
+Gella keluar membawa bungkusan kain berisi roti datar dan dua botol air. Ia menyerahkannya kepada anak yang lebih tua, lalu memeriksa tali sandal anak paling kecil tanpa meminta izin. Simpulnya longgar.
 
-"Mungkin dua minggu. Mungkin sebulan. Tergantung siapa di antara mereka yang pertama sadar." Ashvarok-Renn menulis di bible kecil: *The Wanes mulai hitung detak pergelangan (masih kasar, bukan napas). Arah benar = jendela menutup. Kejar the Stillness via persahabatan sebelum mereka paham napas.* 
+"Siapa yang lecet kakinya?" tanyanya.
 
-Brannoc kembali ke halaman. "Anak-anak siap," katanya. "Namun satu hal: jangan suruh mereka jaga malam. Mereka masih anak. Siang cukup untuk berteman."
+Tak ada yang menjawab.
 
-"Siang cukup," kata Ashvarok-Renn. "Malam biarkan perempuan tua itu tidur. Murid Ossian yang jaga dari jauh."
+"Bagus. Kalau nanti lecet, bicara sebelum darah masuk sandal. Penjagaan yang membuat kalian tak bisa berjalan pulang adalah penjagaan bodoh."
 
-Mira di menara menutup buku dan menulis di sisi: *12 anak + murid Ossian jaga the Stillness (danau garam) siang hari via persahabatan. The Wanes hitung detak pergelangan (kasar) = belajar cara kita. Jendela: sebelum paham napas. Strategi: aman-aman, jangan ukur di depan umum.* Ia mengetuk ubin tiga kali, diam sehentakan.
+Anak dengan dua saku kelereng berbisik kepada kawannya, "Orang dewasa hari ini banyak bicara soal pulang."
 
-Keesokan pagi, dua belas anak barak berangkat ke danau garam bersama Brannoc. Mereka tidak membawa senjata, hanya kelereng dan papan kecil. Di tepi air, mereka duduk memukul papan dengan ritme yang Brannoc ajarkan. Anak-anak desa mendekat, penasaran, lalu ikut main. Dalam satu jam, tepi danau penuh tawa anak-anak — dan di tengahnya, mata-mata kecil barak memantau napas perempuan tua penjaga perahu tanpa satu pun the Wanes curiga.
+"Karena orang dewasa sering terlambat belajar caranya," jawab Gella. Ia mengencangkan simpul terakhir dan berdiri. "Berangkat."
 
-Murid Ossian mengirim kain: *Anak-anak bermain seperti tidak terjadi apa-apa. The Wanes lewat desa, lihat anak main, meneruskan. Mereka tidak tahu bahwa di antara tawa itu, napas the Stillness sedang dijaga.* 
+Mereka bertiga meninggalkan barak ketika langit masih kelabu. Brannoc berjalan setengah langkah di belakang kedua anak, membiarkan mereka memilih sisi jalan masing-masing. Jalan utara turun melewati rumah-rumah yang pintunya belum dibuka, lalu mengikuti alur garam kering menuju danau. Udara menusuk hidung dengan bau asin dan tumbuhan rawa yang membusuk di tepian.
 
-Ashvarok-Renn membacanya dan mengangguk pada Gella. "Itulah cara kita menang," katanya. "Bukan dengan pedang, tetapi dengan anak yang main kelereng."
+Setelah setengah perjalanan, anak yang lebih tua mengangkat tangan. Sebatang gerobak rusak menutup sebagian jalan. Dua pengemudinya berdebat sambil mengangkat roda yang lepas. Kedua anak berhenti di belakang mereka.
 
-Sela duduk di serambi memilin benang biru ke utara. "Empat the Survivor bila the Stillness resmi," bisiknya. "Satu, dua, tiga, empat. Tiga sudah di tangan kita, satu di danau garam hampir terjaga."
+Brannoc mengetuk gagang kayu gerobak: dua pendek, satu panjang.
 
-"Jangan bilang di tangan," kata Ashvarok-Renn. "Kita tidak memegang mereka. Kita hanya menjaga agar mereka tetap di ambang sendiri."
+Anak dengan dua saku kelereng langsung berbalik ke selatan. Kawannya ikut memutar badan, lalu teringat tugasnya dan menjatuhkan diri. Kelereng berhamburan ke debu.
 
-Gella mengangguk. "Itu bedanya kita dengan the Wanes. Mereka mau mengumpulkan kunci ke satu pintu. Kita mau menyebar kunci ke tujuh ambang."
+"Bantu aku!" serunya.
 
-Di sudut lain, Gella memanggil tiga anak angkatan keempat yang paling presisi. "Kalian bertiga," katanya, "akan ukur napas dua belas anak lainnya tiap fajar. Bukan untuk mencurigai, tetapi untuk melatih mata. Bila salah satu dari kalian napasnya berubah tiba-tiba, itu tanda the Wanes mulai mengamati barak."
+Si pelari sudah mencapai tikungan. Ia menoleh, melihat kawannya jongkok mengumpulkan kelereng sambil mengomeli roda gerobak yang menghalangi jalan, lalu ragu.
 
-"Kami ukur kawan kami?" tanya satu anak.
+Brannoc mengangguk sekali. Anak itu meneruskan lari ke selatan.
 
-"Kalian jaga kawan kalian," kata Gella. "Sama seperti murid Ossian jaga perempuan tua di danau. Kita semua adalah benang, bukan satu utas."
+Lima puluh langkah kemudian Brannoc bersiul. Si pelari berhenti.
 
-Ashvarok-Renn mendengar dari serambi dan tersenyum tipis. "Gella membuat pasukan dari anak-anak," katanya pada perawat tua. "Namun pasukan yang tidak memegang senjata."
+"Ujian selesai," kata Brannoc ketika anak itu kembali. Ia menoleh kepada anak paling kecil. "Apa salahmu?"
 
-"Senjata paling tajam adalah yang tidak terlihat," kata perawat tua. "Napas tidak bisa diparang."
+"Hampir ikut lari."
 
-Malamnya, Brannoc duduk di serambi bersama dua belas anak yang baru pulang dari danau garam. Mereka menguap, beberapa sudah tertidur di bahu kawannya. "Kalian hari ini main apa?" tanya Brannoc pelan.
+"Apa yang menahanmu?"
 
-"Ketukan," jawab satu anak mengantuk. "Dan nenek perahu itu tersenyum pada kami."
+Anak itu memungut kelereng terakhir. "Aku ingat kami tidak boleh pergi berdua."
 
-"Bagus," kata Brannoc. "Tersenyum itu tanda dia merasa aman. Bila dia tak lagi tersenyum, kabari murid Ossian."
+Brannoc menghadap si pelari. "Apa salahmu?"
 
-Ia mengetuk papan dua pendek satu panjang pelan, lalu membiarkan anak-anak tidur. Di kejauhan, dentum utara berdenyut tenang — seperti the Stillness Knot yang akhirnya mengenali kehadiran ramah di sekitarnya.
+Anak itu mengusap hidung. "Aku menoleh."
 
-"Kita pegang empat napas bila the Stillness resmi," bisiknya. "The Wanes pegang batu tanpa kunci. Selama napas lari, pintu dunia tetap tertidur."
+"Menoleh boleh. Kembali yang tidak boleh. Kau harus tahu kawanmu tidak menyusul karena dia melakukan bagiannya, bukan karena meninggalkanmu."
 
-Di sudut lain, Kovan duduk memeluk lutut menyimak dentum barat daya yang ia catat sejak pos jatuh. "Masih berdenyut acak," katanya pada Sela. "Batu di sana hidup, tetapi pintu tidak terbuka. Seperti the Wanes duduk menunggu sesuatu yang tidak akan datang."
+Anak paling kecil memasukkan kelereng terakhir ke saku kawannya. "Kalau bahaya sungguhan, aku harus menjatuhkannya juga?"
 
-"Mereka menunggu kunci," kata Sela. "Namun kunci ada pada napas, dan napas ada pada kita."
+"Kalau tanganmu sempat. Kalau tidak, duduk saja dan mengeluh soal sandal. Kau pandai melakukan itu tanpa latihan."
 
-Kovan mengangguk. "Maka selama kita jaga napas, mereka hanya penjaga batu yang sia-sia."
+Tawa mereka membuat kedua pengemudi gerobak menengok. Brannoc menyuruh anak-anak lewat di celah roda. Tak ada ketukan kedua sepanjang perjalanan.
 
-Di menara, perawat tua membuka buku catatan halaman kelima belas. "Dentum utara memanjang setengah hitungan," katanya pada Mira. "Seperti the Stillness Knot mengenali kehadiran ramah di sekitarnya, bukan yang mencurigakan."
+Mereka mencapai danau saat fajar naik dari balik kabut garam. Permukaannya putih kusam, terpotong garis hitam perahu-perahu datar. Pondok terapung perempuan tua itu bergoyang kecil di ujung tambatan. Jala basah menggantung di sisi dinding, menebarkan bau ikan yang lebih tajam daripada udara danau.
 
-"Dan menyelamatkan kita," kata perawat tua. "Bila the Wanes lihat anak main, mereka tidak melihat pagar."
+Murid Ossian sudah menunggu di atas papan perahu bersama anak perempuan penjaga perahu. Keduanya menjahit sobekan jala dengan benang kasar. Saat Brannoc dan kedua anak turun ke tepian, anak perempuan itu meninggalkan jarumnya dan menunjuk kantong-kantong kelereng.
 
-Ashvarok-Renn menutup bible dan menulis baris terakhir: *Batch 2 berjalan: 12 anak + murid Ossian jaga the Stillness via persahabatan. The Wanes belajar hitung detak (kasar). Jendela menutup bila mereka paham napas. Kita kejar lebih cepat.* 
+"Kalian bawa yang tanah liat?"
 
-Ia membiarkan benang diam hidup tanpa namanya, tahu bahwa di utara danau garam, dua belas anak kecil kini menjadi pagar tak bernama bagi perempuan tua yang tidak tahu ia adalah kunci.
+"Yang batu juga," jawab anak yang lebih tua.
 
-Brannoc mengetuk papan dua pendek satu panjang, lalu membiarkan anak-anak kembali ke barisan. "Lagu itu," katanya pelan, "yang akan menjaga dunia saat kita sudah tua."
+Dalam beberapa tarikan napas, permainan bertiga dimulai. Anak-anak desa yang semula menonton dari kios ikan ikut berjongkok. Mereka membuat garis di tanah lembap dan memperdebatkan siapa yang boleh melempar lebih dulu. Brannoc duduk di dekat tiang tambatan, mengambil papan kecil yang dibawa anak paling kecil, lalu berpura-pura memperbaiki pinggirnya dengan batu gosok.
+Dua anak lain tiba ketika penjual ikan mulai membuka keranjangnya. Mereka datang dari jalan barat sambil memutar gasing dan langsung menantang anak desa, tanpa menyapa Brannoc. Tak lama kemudian, tiga kawan menyusul dari sela rumah penggaram. Seorang membawa tali lompat; dua lainnya berebut roti yang dibungkus daun. Mereka melebur ke permainan yang berbeda, seakan janji bermain telah dibuat berhari-hari lalu.
 
-Sela menutup papan napasnya. "Dua belas mata kecil," bisiknya. "Lebih tajam dari satu mata tua."
+Matahari sudah menyentuh atap kios saat dua anak berikutnya muncul; salah satunya anak pembuat dayung. Mereka berhenti untuk membantu mengangkat bilah kayu, baru kemudian mendekati tepian. Tiga yang terakhir datang sesudahnya dari arah tambak, kaki berlumpur dan suara mereka mendahului tubuh. Tidak pernah lebih dari tiga anak memasuki pasar pada waktu yang sama. Tak satu pun berbaris, mencari aba-aba, atau menunggu Brannoc memberi tempat.
 
-"Dan mata kecil yang tidak tahu mereka menjaga dunia," bisiknya lagi. "Pagar terbaik adalah yang tidak merasa dipagar."
+Perempuan tua penjaga perahu keluar dari pondok membawa jala gulung. Bekas luka yang dicari the Wanes tertutup pakaian tebal. Ia memandang kerumunan di tepian, kemudian mengusir dua anak dari jalur perahu dengan kibasan tangan.
 
-Malam turun, dan dua belas anak itu tertidur di barak dengan napas pelan yang tidak mereka tahu diawasi oleh seluruh pasukan barak.
+"Kalau mau menenggelamkan kelereng, jangan di depan rumahku," katanya.
+
+"Kami tidak akan menenggelamkan yang batu," sahut anak dengan dua saku. "Yang tanah liat mungkin."
+
+"Kalau begitu kalian yang menyelam mengambilnya."
+
+Anak-anak tertawa. Perempuan tua itu tidak. Namun ketika berbalik untuk duduk di bawah atap pendek, bahunya tidak lagi setegang saat keluar.
+
+Brannoc menangkap pandangan murid Ossian. Anak itu menyentuh jarum ke papan perahu dua kali, lalu menarik benang panjang melalui jala. Dua pendek, satu panjang. Ia sudah mengerti.
+
+"Nenek akan menyeberang ke petak jala setelah matahari naik," katanya sambil tetap bekerja. "Biasanya kembali sebelum pasar siang."
+
+"Hari ini jangan ubah kebiasaannya," jawab Brannoc.
+
+"Ada cap baru di rumah penggaram dekat jalan timur."
+
+"Kau lihat orangnya?"
+
+"Belum. Hanya tujuh garis di tiang."
+
+Brannoc menggosok papan lebih lambat. "Kalau orangnya datang, dua pendek, satu panjang. Anak-anak kirim kabar. Kau tetap dekat perahu."
+
+Murid Ossian menghentikan jarum. "Kalau mereka naik ke pondok, aku tak punya waktu menunggu kabar berjalan."
+
+"Maka bawa dia ke air. Jangan tunggu kami."
+
+"Dan anak-anak?"
+
+"Aku yang menghitung mereka."
+
+Murid itu menarik benang sampai simpulnya rapat. Kesepakatan mereka selesai tanpa menyebut perempuan tua sebagai the Stillness. Dari ambang pondok, ia bisa saja mendengar seluruh percakapan dan mengira mereka membicarakan hujan atau pedagang kasar.
+
+Pasar kecil di tepi danau hidup ketika matahari menghangatkan papan-papan basah. Keranjang ikan berpindah tangan. Garam ditakar dengan mangkuk kayu. Di sela teriakan harga, ketukan acak anak-anak tenggelam sebagai bunyi permainan: benturan kelereng pada papan, tepuk kemenangan, dan gesekan panjang untuk mengejek lemparan buruk. Pola darurat tidak terdengar.
+
+Brannoc menghitung kepala setiap kali perahu menepi. Dua yang datang bersamanya, lalu dua, tiga, dua, dan tiga yang menyusul sebagai kawan. Lima anak desa. Anak perempuan penjaga perahu berpindah antara lingkaran kelereng dan jala neneknya. Murid Ossian tetap di papan perahu. Susunannya tidak rapi, tetapi tidak ada satu anak pun sendirian.
+
+Menjelang tengah hari, perempuan tua itu berdiri dan mengangkat gulungan jala ke perahu. Anak perempuannya berlari membantu. Murid Ossian memegang buritan agar tidak menjauh dari papan pijak.
+
+Anak paling kecil mendekati Brannoc. "Kalau dia pergi ke petak jala, kami menjaga siapa?"
+
+"Jalan pulangnya."
+
+"Tapi dia ada di air."
+
+"Karena itu jangan ikuti. Mata yang terlalu dekat menutup pandangan orang lain. Kau tetap di pasar dan lihat jalan timur."
+
+"Aku tidak tahu wajah the Wanes."
+
+Brannoc memutar papan kecil di tangannya dan menunjukkan tujuh goresan yang ia buat berjajar. "Kau tidak perlu tahu wajah. Lihat cap. Lihat siapa yang menyuruh orang membuka baju atau memegang tangan mereka tanpa izin. Setelah itu ketuk dan kembali main. Jangan cari kepastian kedua."
+
+Anak itu menyusuri goresan dengan kuku. "Kalau aku salah?"
+
+"Murid Ossian kehilangan satu siang. Kalau kau menunggu dan benar, perempuan tua itu bisa kehilangan lebih banyak. Pilih salah yang bisa diperbaiki."
+
+Anak itu mengembalikan papan, lalu duduk menghadap jalan timur. Ia tetap bermain, meski lemparannya kini selalu melenceng ke sisi yang memberinya alasan untuk menoleh.
+
+Perahu perempuan tua lepas dari tambatan. Ia mengayuh berdiri, satu dorongan panjang di tiap sisi. Anak perempuannya duduk di haluan sambil memegang gulungan jala. Murid Ossian tetap di pondok, merapikan benang yang sengaja ia kusutkan agar punya alasan menunggu.
+
+Brannoc baru kehilangan perahu itu di balik kabut ketika ketukan datang dari lingkaran kelereng.
+
+Ketukannya jelas: dua pendek, satu panjang.
+
+Tidak keras. Bunyi panjangnya hampir tertutup benturan keranjang ikan di kios sebelah.
+
+Anak dengan dua saku kelereng bangkit. Kawannya menangkap ujung bajunya dan menunjuk sebutir kelereng yang belum dilempar.
+
+"Punyamu," katanya.
+
+Anak itu menggeleng. "Aku kalah. Ambil saja."
+
+Ia berjalan menjauh, tidak berlari sampai melewati kios garam. Sesudah itu tubuhnya hilang di sela dua rumah menuju jalur selatan. Sebelas anak lain terus bermain. Satu bahkan menuduh lawannya mencuri giliran dengan suara cukup keras untuk menarik omelan pedagang.
+
+Brannoc tidak menoleh ke jalan timur. Ia melihat bayangannya di permukaan bilah pengikis ikan yang tergantung di kios: dua orang berjubah abu melintas di belakangnya. Salah satu membawa tongkat pendek; yang lain menjepit lembaran kasar di bawah lengan. Cap tujuh garis tergambar pada kulit pembungkus tongkat.
+
+Mereka berhenti di depan pondok terapung.
+
+"Pemiliknya?" tanya pembawa lembaran.
+
+Murid Ossian menunjuk kabut danau dengan dagu. "Periksa jala. Pulang kalau selesai."
+
+"Kapan?"
+
+"Kalau ikan mau masuk. Coba tanya ikannya."
+
+Orang bertongkat memandangi anak-anak, lalu tiang tambatan yang kosong. Brannoc tetap menggosok papan. Serbuk kayu menempel pada keringat di jempolnya.
+
+"Banyak anak dari selatan," kata orang itu.
+
+"Pasar punya kelereng lebih rata," jawab murid Ossian. "Di selatan tanahnya miring."
+
+Seorang anak desa memprotes bahwa tanah mereka juga miring. Perdebatan pecah begitu alami hingga pembawa lembaran harus melangkah menghindari kelereng yang menggelinding ke sepatunya. Ia menendangnya ke samping dan menyuruh kawannya pergi.
+
+Keduanya meninggalkan cap tujuh garis baru di tiang pondok, lalu berjalan ke deretan kios. Tak seorang anak pun mengikuti. Brannoc menunggu sampai jubah abu itu hilang di tikungan utara sebelum menggeser papan ke murid Ossian.
+
+"Bawa perahu ke rawa kalau mereka kembali setelah pasar tutup," katanya.
+
+"Nenek itu tak akan pergi karena disuruh orang yang baru dikenalnya."
+
+"Jangan suruh. Katakan petak jala sebelah timur sudah disentuh orang berjubah. Dia akan memilih air yang lain."
+
+Murid Ossian mengangguk. "Kau percaya dua pendek, satu panjang cukup?"
+
+Brannoc menghitung sebelas anak di antara permainan yang tersebar. Yang kedua belas sedang membawa kabar ke benang, tepat seperti yang diajarkan. "Cukup kalau orang dewasa tidak merusaknya dengan ingin terlihat berguna."
+
+Perahu muncul lagi menjelang sore. Perempuan tua mengeluh hasilnya sedikit dan meminta cucunya mengambil keranjang. Ia melihat cap baru di tiang, mengusapnya sekali dengan ibu jari, lalu meludah ke air.
+
+"Mereka sampai sini juga," katanya.
+
+Murid Ossian menyebut petak jala timur. Perempuan tua tak bertanya dari mana ia tahu. Ia hanya memindahkan dua gulung tali ke perahu dan menyuruh cucunya membawa selimut saat pergi besok. Pilihan itu terdengar seperti urusan menangkap ikan, tetapi Brannoc melihat bekal kering ikut masuk ke bawah bangku buritan.
+
+Anak pembawa kabar kembali sebelum matahari turun, napasnya kasar dan debu menempel sampai lutut. Ia tidak mendekati Brannoc. Ia menjatuhkan diri di lingkaran, menerima kelereng pengganti, lalu berkata kepada kawannya bahwa jalan selatan buruk. Kabar sudah mencapai orang benang.
+
+Saat waktunya pulang, Brannoc menghitung dua belas anak dua kali. Perempuan tua dan cucunya tetap di pondok malam itu; murid Ossian mengambil tempat di perahu paling dekat tambatan. Tak ada pelukan, janji, atau pujian. Sepuluh anak yang datang belakangan pergi lagi lewat jalan berbeda, berdua atau bertiga, sambil berdebat tentang jumlah kemenangan. Dua anak pertama menunggu Brannoc di tanjakan selatan.
+
+Di tanjakan pertama, anak paling kecil berjalan di samping Brannoc. "Kami berhasil?"
+
+"Kalian pulang dua belas."
+
+"Tapi mereka tidak pulang bersama kita."
+
+"Aku melihat mereka mengambil jalan pulang masing-masing. Itu tetap dua belas."
+
+Anak itu memikirkan kalimat tersebut sampai tanjakan berakhir. Lalu ia berlari menyusul kawannya, sandal yang tadi dikencangkan Gella masih utuh.
+
+Jalan pulang melewati ujung pasar desa sebelah. Brannoc mencium asap tungku penggaram sebelum melihat atapnya. Kerumunan kecil menghalangi persimpangan. Dua jubah abu berdiri di tengah, tetapi kali ini mereka tidak mencari tanda di punggung siapa pun.
+
+Seorang nelayan tua didudukkan di bangku. Satu the Wane memegang pergelangan tangannya. Yang membawa lembaran mengamati dada si nelayan, mengangkat tangan pada tiap tarikan, lalu memberi tanda pertama di kertas.
+
+"Jangan ketuk," kata Brannoc ketika kedua anak meraih papan mereka. "Mereka sudah mulai mengukur."

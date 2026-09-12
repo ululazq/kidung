@@ -30,6 +30,13 @@ Ia menarik napas tubuh Renn. Dan menyebut:
 "The Patient House."
 
 Rumah yang Sabar.
+Sela, dari tepi lingkaran, menurunkan papan yang sejak tadi dipegang terlalu erat. Ashvarok menoleh kepadanya.
+
+"Suaraku goyah?" tanyanya.
+
+"Tidak," jawab Sela. Ia mengusap kapur dari jarinya. "Namun tanganku iya. Jadi catatannya tetap jujur."
+
+Ashvarok mengangguk, lalu kembali menghadap nat sebelum aula sempat tertawa.
 
 Nama itu tidak diterjemahkan dari bahasa mana pun — ia lahir langsung dalam bentuk yang bisa dipahami semua telinga, karena empat ratus enam puluh satu cerita, ternyata, sudah menyepakatinya tanpa pernah berunding: cerita tentang yang menunggu tanpa marah. Yang menyimpan tanpa meminta. Yang menjawab pamitan dengan hangat meski belum bisa bicara. Orang-orang Caldrest tidak pernah mendeskripsikan tamu tua mereka dengan kata "rahasia" atau "ancaman" atau bahkan "kekuatan". Mereka selalu bilang hal-hal seperti "dia masih di sana" dan "dia menunggu" dan "dia tidak ke mana-mana". Kesabaran. Itu satu-satunya kata yang muncul di hampir setiap kotak.
 
@@ -47,15 +54,15 @@ Ashvarok tertawa — dan tangisnya keluar bersamaan tanpa ia menahan keduanya. "
 
 ---
 
-Perayaan berlangsung sampai subuh — teh ibu Tamma diseduh dalam jumlah yang membuat dua gerobak logistik utara harus dipanggil tambahan, dan untuk pertama kalinya sup di aula dimasak DI aula, di atas penghangat batu yang dipanaskan kedalaman sendiri lewat nat: dapur pertama yang bekerja sama dengan rumahnya. Sesuai pasal enam ibu Tamma, semangkuk sup diletakkan di atas nat pusat untuk tamu tua — porsi pertamanya dalam seribu tahun — dan hangat nat itu menjaga suap tetap panas sampai subuh, meski tidak ada yang tahu apakah ia "makan". Ibu Tamma, ditanya soal itu, menjawab dengan teolog dapurnya yang tak terbantahkan: "Yang penting dia ikut duduk. Makan atau menyimpan urusan dia sama perutnya sendiri."
+Perayaan berlangsung sampai subuh — teh ibu Tamma diseduh dalam jumlah yang membuat dua gerobak logistik utara harus dipanggil tambahan, dan untuk pertama kalinya sup di aula dimasak DI aula, di atas penghangat batu yang dipanaskan kedalaman sendiri lewat nat: dapur pertama yang bekerja sama dengan rumahnya. Sesuai pasal enam ibu Tamma, semangkuk sup diletakkan di atas nat pusat untuk tamu tua — porsi pertamanya dalam seribu tahun — dan hangat nat itu menjaga sup tetap panas sampai subuh, meski tidak ada yang tahu apakah ia "makan". Ibu Tamma, ditanya soal itu, menjawab dengan teologi dapurnya yang tak terbantahkan: "Yang penting dia ikut duduk. Makan atau menyimpan urusan dia sama perutnya sendiri."
 
 Di seberang aula, murid-murid akademi mengajari keluarga-keluarga baru lagu penamaan itu, dan anak Pak Dekan menghitung: dalam satu jam pertama setelah nama disebut, name train versi baru sudah dinyanyikan empat puluh kali oleh kelompok-kelompok berbeda. "Dia tidak akan pernah bisa lupa lagi," kata penghitung muda itu kepada Kovan, dan Kovan menjawab: "Itulah idenya."
 
 Ashvarok duduk di meja panjang malam itu bukan di kursi kepala, melainkan di kursi paling ujung — tempat orang duduk kalau mereka hanya bagian dari keluarga, bukan pemimpinnya. Sela duduk di sebelahnya dan menulis entri penutup era di Hourglass, lalu membacakannya keras sesuai tradisi:
 
-"Hari 480. Malam penamaan. Nama resmi tamu tua: THE PATIENT HOUSE — Rumah yang Sabar. Disebut pertama oleh Ashvarok, disetujui oleh setahun cerita, dirayakan oleh seluruh Caldrest, dan DINYANYIKAN sendiri oleh pemiliknya sebagai jawaban."
-Kapur gadis itu berhenti sebentar, lalu melanjutkan baris terakhir:
-"Neraca delapan belas bulan: dunia memberinya segel, Hegemony memberinya kunci, Choir memberinya takutan, dan Caldrest memberinya nama. Dari semua hadiah itu, dia memilih menyimpan yang terakhir." Ia menutup papan. "Era kedua dimulai."
+"Hari 480. Malam penamaan. Nama resmi tamu tua: THE PATIENT HOUSE — Rumah yang Sabar. Disebut pertama oleh Ashvarok, disepakati oleh empat ratus enam puluh satu cerita, dan dinyanyikan oleh pemiliknya sendiri sebagai jawaban."
+Kapur gadis itu berhenti sebentar sebelum menulis baris terakhir.
+"Neraca delapan belas bulan: dunia memberinya segel, Hegemony memberinya kunci, Choir memberinya ketakutan, dan Caldrest memberinya nama. Dari semua hadiah itu, dia memilih menyimpan yang terakhir." Ia menutup papan. "Era kedua dimulai."
 
 Ibu Tamma, dari tempat duduknya yang jauh — sesuai permintaannya sendiri agar tidak mengganggu suara pidato dengan tangisnya — berkata kepada orang di sebelahnya kalimat yang masuk arsip keesokan harinya sebagai kutipan warga pertama tentang nama baru itu:
 
@@ -80,4 +87,3 @@ Dan yang — mulai malam ini — setiap kali seorang anak sekolah lewat nat mana
 
 Ada. Selalu ada.
 
-Sareth Vayin membuka kelas malam khusus: "membaca irama tanpa telapak" — untuk penyandang tunarungu yang ingin ikut menjaga nat-nat kecil. Enam murid mendaftar. Kelas itu menjadi kelas favorit guru senior itu, katanya, "karena mereka mengajariku bahwa resonansi tidak pernah butuh telinga. Butuh perhatian."

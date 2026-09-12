@@ -14,20 +14,35 @@ Malam itu, jalan raya utara terasa seperti jalan yang sedang menunggu mereka. Ko
 "Kau yakin?"
 
 "Seribu tahun aku menjaga pintu-pintu," kata Ashvarok-Renn. "Dan satu hal yang tidak pernah berubah: pintu selalu lebih sabar daripada orang yang mengetuknya. Ia bisa menunggu. Yang tidak bisa menunggu adalah tangan yang mengetuknya — karena tangan itu selalu punya alasan untuk terburu-buru, dan alasan adalah hal yang paling mudah dibaca dari semua hal."
+Kovan turun dari kudanya dan menempelkan lempeng itu pada tanah sekali lagi. Embun membasahi lutut celananya. Jarum kecil di muka alat bergerak ke utara, kembali ke tengah, lalu bergerak lagi dengan jarak lebih pendek.
+
+"Ia tidak sekadar mengetuk," katanya. "Ada jeda antara tiap dorongan. Tangan di sana sedang membaca tahanan pintu."
+
+Ashvarok-Renn ikut turun. Ia meletakkan telapak di tanah, tetapi yang terasa olehnya hanya dingin malam dan getaran langkah kuda. "Berapa lama sampai pola itu menemukan kelemahan?"
+
+"Aku tidak tahu. Bisa tiga hari. Bisa sebelum fajar kalau mereka sudah pernah menguji katup yang sama." Kovan menghapus embun dari alat dengan lengan. "Kita bisa mempercepat dan merusak kuda, atau menjaga laju lalu tiba dengan tenaga untuk bekerja."
+
+Ashvarok-Renn memeriksa busa di kekang kudanya. "Kita jaga laju sampai ladang garam. Setelah air berikutnya, kita ganti tunggangan kalau ada pos. Pintu membutuhkan kunci, tapi kunci yang tiba dengan tangan gemetar tetap bisa salah diputar."
+
+Kovan memasang kembali lempeng itu di pangkuannya. Mereka berkuda tanpa bicara sampai denyut berikutnya terasa melalui tapal kuda.
 
 Di fajar kedua, mereka berhenti di tepi ladang garam yang mengering — tempat yang sama tempat mereka beristirahat pada perjalanan pertama ke tiga batu tegak. Kovan menyalakan api kecil, dan untuk beberapa saat mereka minum teh dalam keheningan, dengan tiga batu tegak yang belum terlihat di cakrawala tetapi sudah terasa seperti kehadiran.
 
-"Aku tidak bisa berhenti memikirkan lantai itu," kata Kovan akhirnya. "Bukan kuncinya. Bukan bukunya. Tetapi bejana-bejana itu — bejana-bejana kecil yang menahan irama beku. Kau berkata mereka adalah panenan, bahwa setiap bejana adalah satu seam yang dicabut napasnya. Dan aku terus berpikir: kalau bejana itu bisa diisi, bisa juga dikosongkan. Kalau irama bisa diambil, bisa juga dikembalikan."
+"Kalau bejana itu bisa diisi," kata Kovan akhirnya, "ia bisa dikosongkan."
 
-"Kau sedang berpikir seperti orang yang ingin membuka penyimpanan," kata Ashvarok-Renn.
+Ashvarok-Renn menurunkan cangkirnya. "Ke mana?"
 
-"Aku sedang berpikir seperti orang yang baru saja melihat bahwa penyimpanan itu ada." Kovan menatap api itu. "Selama bertahun-tahun kita berpikir bahwa jaringan panen mencuri barang, bahwa ia mengambil artefak dan batu dan benda-benda yang bisa dijual. Kita salah. Ia mengambil suara. Dan suara, tidak seperti barang, tidak pernah benar-benar hilang — ia hanya menunggu di dalam bejana, menunggu seseorang yang tahu cara membukanya. Lantai tanpa nama itu bukan gudang barang curian. Ia adalah gudang napas yang sedang ditahan. Dan napas yang ditahan terlalu lama selalu berakhir dengan satu hal: ia harus keluar."
+"Ke tempat iramanya dicabut." Kovan menggeser sepotong kayu dari bara dengan ujung sepatu. "Kita selalu memperlakukan pengambilan sebagai akhir. Bejana-bejana itu membuktikan pengambilan punya arah balik."
 
-Ashvarok-Renn menatapnya lama. "Kau tahu," katanya, "selama seribu tahun aku berpikir bahwa Emberweave adalah seni yang kutinggalkan — seni yang kubawa ke dalam tubuh ini, seni yang dibakar bersama namaku. Lantai itu mengajariku sesuatu yang berbeda. Seni itu tidak pernah kutinggalkan. Ia ditinggalkan oleh dunia — dilarang, disembunyikan, dibeli, dan dikoleksi oleh orang-orang yang tidak berani mengakuinya. Dan malam ini, untuk pertama kalinya, aku mengerti apa artinya seni yang kembali: bukan bahwa seni itu kembali kepadaku. Tetapi bahwa seni itu tidak pernah berhenti menjadi milik dunia — dan bahwa dunia, yang mengira ia telah menguburnya, sebenarnya hanya menyimpannya di lantai yang tidak bernama, menunggu seseorang yang mengenalinya untuk datang mengambilnya."
+"Kau belum tahu cara membukanya."
 
-"Dan orang itu," kata Kovan pelan, "adalah orang yang membuatnya."
+"Belum." Kovan menatap api. "Tapi sekarang aku tahu pertanyaan yang harus dibawa ke tiga batu: apakah garis itu cuma jalan untuk menarik, atau juga jalan untuk memulangkan."
 
-"Orang yang membuatnya," kata Ashvarok-Renn, "adalah orang yang membawanya kembali."
+Ashvarok-Renn mengusap bekas jelaga pada jarinya. Tempaan di lantai tanpa nama telah bertahan tanpa pengakuan, menunggu tangan yang masih mampu mengenalinya. "Kalau jalan itu bisa dibalik, kita tidak membuka penyimpanan. Kita memulai pengembalian."
+
+"Kalau tidak?"
+
+"Kita berjaga sampai menemukan cara yang tidak merusak apa yang masih hidup di dalamnya."
 
 Mereka tiba di tiga batu tegak pada sore hari ketiga, dan hal pertama yang mereka lihat bukanlah batu-batu itu, melainkan lelaki berjubah abu-abu yang berdiri di tepi lingkaran dengan punggung menempel pada batu paling barat, seperti orang yang telah berdiri di tempat yang sama selama berhari-hari. Wajahnya lelah, tetapi matanya terbuka penuh, dan ketika ia melihat mereka, ia tidak tersenyum — ia hanya mengangguk, seperti orang yang akhirnya melihat hal yang ia tunggu.
 

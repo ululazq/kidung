@@ -28,6 +28,13 @@ Pagi harinya, ketika cahaya masuk dari retakan ventilasi dan katup ketiga itu te
 Ia memutar katup ketiga dengan urutan Kovan, dan batu itu memberi jalan seperti semua pintu yang dirawat dengan benar memberi jalan: tanpa gemuruh, tanpa protes, dengan bunyi kecil yang bisa diterjemahkan sebagai *sudah lama tidak ada yang datang* — atau sebagai *aku tahu kau akan datang pada pagi seperti ini*.
 
 Di baliknya bukan ruangan yang ditakuti siapa pun, dan bukan pula gudang. Yang di baliknya adalah tangga turun, lebar, terang dari cahaya yang tidak bisa dijelaskan oleh obor, dan dindingnya dipahat dengan barisan ceruk — ratusan ceruk kecil, sebesar genggaman, setiap ceruk berisi bejana kecil yang tersusun bukan seperti barang disimpan melainkan seperti buku disusun: berurutan, bertanda, dan di setiap ceruk, di pahatan kecil di bawahnya, satu nama.
+Udara dari tangga membawa bau minyak tua dan logam yang lama tertutup, tetapi tidak ada debu beterbangan. Seseorang pernah menyapu anak tangganya dari bawah ke atas; kotoran berkumpul tipis di sudut dekat katup, bukan menurun ke ruangan. Ashvarok-Renn berjongkok dan menyentuh bekas sapu itu. Masih kering, belum dilewati rembesan musim ini.
+
+Ia mengangkat pelat empat titik. Getarannya berubah ketika diarahkan ke ceruk: bukan dorongan lurus seperti benang jalur, melainkan banyak getar kecil yang berhenti pada tempat berbeda. Setiap bejana memberi jawaban sendiri.
+
+"Perpustakaan," katanya kepada pelat, mencoba kata itu sebelum mempercayainya. Ia tidak menuruni tangga sampai memeriksa ambang. Di bawah batu pertama ada alur kecil yang cukup lebar untuk menahan benang timah. Benangnya sudah tidak ada, tetapi lekuk aus menunjukkan katup ini dibuka berkali-kali dari sisi dalam.
+
+Ruangan itu bukan makam yang disegel. Seseorang pernah bekerja di sana.
 
 Ashvarok-Renn membaca nama-nama itu satu per satu, dan di ceruk keempat puluh tujuh, tangannya berhenti.
 
@@ -35,9 +42,9 @@ Namanya Harnah.
 
 Bejana di ceruk itu berisi desiran panci dan senandung yang dipotong tawa — salinan irama yang dirampokkan dari dapur batu tepi jalur utara, ditarik ke sini lewat jalur yang tidak pernah tercatat, dan disimpan di sini, di ceruk bernama, jauh sebelum akun memulai daftarnya, jauh sebelum panel, jauh sebelum restorasi.
 
-"Ada yang mengumpulkan mereka lebih dulu," bisik Ashvarok-Renn, dan memahami bersamaan dengan mengucapkannya: ini bukan gudang pencuri. Ini ruangan yang bekerja untuk tugas yang sama dengan akun — tapi bekerja lebih awal, lebih pelan, dan dengan penuh hormat: setiap bejana bernama. *Tidak ada satu pun yang diberi nomor.*
+"Ada yang mengumpulkan mereka lebih dulu," bisik Ashvarok-Renn. Nama di bawah setiap ceruk membedakan ruangan ini dari lantai tanpa nama, tetapi belum menjelaskan maksud penyimpannya. Ia menahan kesimpulannya.
 
-Di sini, pada akhirnya, dua sejarah yang sejajar itu bertemu di satu kertas: akun menyimpan tanpa memutar dan tanpa nama; ruangan ini menyimpan dengan nama dan — buku besar di meja itu akan segera menjelaskan — dengan rencana pemulangan yang ditulis ratusan tahun lebih awal daripada putusan panel. Yang satu menahan tanpa tahu kenapa. Yang satu menahan sambil menunggu hari boleh melepas. Dan di antara keduanya, barang-barang itu menunggu seperti benih menunggu di dua gudang yang berbeda: satu gudang lupa kenapa ia menyimpan, satu gudang tidak pernah lupa.
+Mungkin akun dan ruangan ini menjalankan pekerjaan yang sama dengan cara berbeda. Mungkin nama-nama itu menandai rencana pemulangan. Buku besar di meja bawah bisa membuktikannya atau membatalkannya; sebelum dibaca, keduanya hanya hipotesis.
 
 Ia menuruni tangga itu pelan, dengan pelat empat titik di satu tangan dan tangan lainnya menyentuh dinding, dan di dasar tangga, di ruangan yang isinya adalah perpustakaan gema yang disusun dengan cinta dan diserahkan kepada sunyi, sesuatu yang telah menunggu delapan belas tahun lebih lama dari akun menyalakan cahayanya sendiri — bukan cahaya yang menyilaukan, hanya cukup untuk membaca: satu lampu minyak kecil di meja kerja, di samping kursi yang masih menyimpan bentuk orang yang duduk di atasnya, di samping buku besar terbuka yang tulisan terakhirnya belum selesai kalimatnya.
 

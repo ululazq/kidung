@@ -7,7 +7,7 @@ Pembacaan itu selesai pada tarikan napas keseratus tiga puluh, dan Ashvarok meng
 
 Sapuan dari dasar aula bekerja dengan kesabaran yang tidak dimiliki manusia mana pun. Ia naik sepanjang tubuh Tovik dari tumit sampai ubun-ubun, berhenti di persimpangan-persimpangan tertentu yang membuat lelaki tua itu sedikit terkulai setiap kali dilewati, lalu turun lagi, lebih lambat, seperti juru tulis tua memeriksa ulang halaman yang sudah selesai ditulisnya. Ashvarok berdiri tiga langkah dari situ dengan kedua tangan kosong dan seluruh seninya terkunci rapat di dalam dada — sebab satu-satunya yang lebih buruk daripada malam ini adalah malam ini ditambah tenunan Emberweave yang menjawab pembacaan itu sebagai gema asing.
 
-Ketika sapuan terakhir turun melewati kedua kaki Tovik dan mencabut diri ke dalam nat, kejadian yang tidak masuk akal itupun terjadi.
+Ketika sapuan terakhir turun melewati kedua kaki Tovik dan mencabut diri ke dalam nat, kejadian yang tidak masuk akal itu pun terjadi.
 
 Retakan melepaskannya.
 
@@ -73,7 +73,7 @@ Sela mengerti lebih cepat daripada yang ia harapkan, dan Ashvarok melihat pukula
 
 "Name map," bisik Sela. "Kak. Name map itu. Baris-baris yang paling sering dicek."
 
-"Pagar kita bekerja dengan cara yang sama seperti pagar yang lain," kata Ashvarok pelan. "Ia melindungi, dan ia menampakkan. Nama yang paling rajin dipanggil adalah nama yang paling hidup, dan nama yang paling hidup adalah makanan yang paling layak saji bagi yang lapar. Anak-anak sekolah. Ibu Tamma. Kamu. Aku." Ia mengatakan bagian itu tanpa jeda, sebab jeda adalah bentuk kasihan, dan kasihan pada pagi seperti ini adalah pemborosan. "Kita tidak mengubah apa pun hari ini. Peta tetap dicentang, name-roll tetap dijalankan, sebab pagar yang membuat kita aman setahun ini tidak boleh dibongkar karena musuhnya belajar membacanya. Yang berubah hanya satu hal. Mulai hari ini, centang yang telat bukan sekadar kabar. Centang yang telat adalah alarm, dan alarnya bunyi lebih keras dari kemarin."
+"Pagar kita bekerja dengan cara yang sama seperti pagar yang lain," kata Ashvarok pelan. "Ia melindungi, dan ia menampakkan. Nama yang paling rajin dipanggil adalah nama yang paling hidup, dan nama yang paling hidup adalah makanan yang paling layak saji bagi yang lapar. Anak-anak sekolah. Ibu Tamma. Kamu. Aku." Ia mengatakan bagian itu tanpa jeda, sebab jeda adalah bentuk kasihan, dan kasihan pada pagi seperti ini adalah pemborosan. "Kita tidak mengubah apa pun hari ini. Peta tetap dicentang, name-roll tetap dijalankan, sebab pagar yang membuat kita aman setahun ini tidak boleh dibongkar karena musuhnya belajar membacanya. Yang berubah hanya satu hal. Mulai hari ini, centang yang telat bukan sekadar kabar. Centang yang telat adalah alarm, dan alarmnya berbunyi lebih keras daripada apa pun."
 
 ---
 

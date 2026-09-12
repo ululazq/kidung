@@ -13,46 +13,95 @@ Poros layanan itu naik seperti tenggorokan yang menelan — sempit, gelap, denga
 
 "Aku bekas arsitek." Ashvarok-Renn menyentuh dinding batu itu — dan berhenti. "Tunggu."
 
-Di bawah telapaknya, dinding itu terasa berbeda dari dinding-dinding di bawahnya: tidak dingin seperti batu biasa, tetapi hangat, dengan tekstur yang tidak bisa dijelaskan oleh orang yang tidak pernah menyentuhnya. Ia menutup matanya sebentar, dan ketika ia membukanya, sesuatu di wajahnya berubah.
+Ashvarok-Renn meraba natnya dengan ibu jari. Batu itu hangat hanya pada garis sambungan. Serbuk hitam tertinggal di kukunya, tetapi ketika ia mengikis permukaan, nat di bawahnya rapat tanpa kapur dan urat logamnya mengikuti lengkung telapak, bukan garis pahat tukang batu.
 
-"Batu ini pernah disentuh oleh tangan yang sama dengan tanganku," katanya pelan. "Bukan tangan yang sama secara harfiah. Tangan yang sama dalam arti seni — tempaan yang menua bersama batu, yang tidak bisa dibedakan dari batu kecuali oleh orang yang pernah membuatnya. Forge tipis. Tenunan halus yang membuat dinding ini lebih tua dari dirinya, supaya tidak ada yang bertanya kenapa ia tidak pernah runtuh." Ia menatap ke atas, ke arah gelap poros itu. "Lantai ini dibangun oleh orang-orang yang memakai seni yang dulu kumiliki. Dan seni itu — yang oleh dunia sekarang disebut Emberweave, yang dilarang sebagai bidah, yang dicatat sebagai kebohongan sejarah — telah hidup di tempat ini selama bertahun-tahun, dipakai oleh tangan-tangan yang tidak pernah tahu namanya."
+"Forge tipis," katanya. "Pembuatnya mengalirkan tempaan melalui nat, lalu menua-kannya bersama batu. Lihat urat yang berbalik di sudut? Tangan yang diajari aliranku selalu menutup tempaan begitu." Ia mengangkat jarinya yang berjelaga. "Dinding ini dikerjakan orang yang mengenal seni yang dulu kupakai."
 
 Poros itu berakhir di sebuah pintu besi tanpa gagang, disegel dengan lilin putih-abu berbenang timah. Kovan mengeluarkan alatnya, membaca getaran di balik pintu itu, dan mengangguk. "Tidak ada yang menunggu di baliknya," bisiknya. "Tidak ada getaran napas, tidak ada langkah. Hanya keheningan yang rapi — keheningan ruangan yang tidak pernah dikunjungi siapa pun pada jam ini."
 
 Ashvarok-Renn memecah segel itu dengan tangan kosong, pelan-pelan, seperti orang membuka luka yang sudah lama sembuh. Pintu itu terbuka tanpa suara, dan di baliknya — untuk pertama kalinya dalam hidup Kovan, dan untuk pertama kalinya sejak The Long Dusk dalam hidup Ashvarok-Renn — terbentang lantai yang tidak bernama.
 
-Itu bukan gudang. Itu bukan arsip. Itu adalah ruang pamer yang tidak pernah dibuka untuk umum: rak-rak setinggi dua orang, tersusun rapi seperti barisan makam, dan di setiap rak, benda-benda yang tidak pernah dilihat cahaya selama bertahun-tahun. Bejana tanah yang lebih tua dari Choir. Bilah-bilah yang logamnya tidak pernah berkarat. Gulungan-gulungan yang diikat benang timah. Dan di sudut, di atas meja batu, sebuah lemari besi kecil dengan segel yang lebih baru dari yang lain.
+Di balik pintu berdiri rak-rak setinggi dua orang. Bejana tanah lebih tua dari Choir, bilah tanpa karat, dan gulungan berikat benang timah memenuhi ruangan. Cap inventaris Hegemony tergantung pada tiap rak. Di sudut, sebuah lemari besi kecil duduk di atas meja batu; lilin segelnya jauh lebih baru daripada debu di sekitarnya.
 
-Ashvarok-Renn berjalan di antara rak-rak itu tanpa suara. Ia tidak menyentuh apa pun — tetapi Kovan melihat cara ia berjalan: seperti orang yang berjalan di antara makam-makam yang ia kenal, membaca nama-nama yang tidak tertulis. Ketika ia berhenti di depan sebuah bejana tanah liat kecil, ia berdiri lama sekali.
+Ashvarok-Renn berhenti di depan bejana tanah liat. Ia menunjuk garis sempit yang mengitari lehernya, lalu mengusap satu bagian yang menebal sebelum sambungan.
 
-"Bejana ini," katanya akhirnya, "aku yang membuatnya. Bukan aku secara pribadi — tetapi tangan-tangan yang kutempa, di era yang sama, dengan seni yang sama. Lihat garis di lehernya? Itu bukan hiasan. Itu tanda tempaan — tanda bahwa bejana ini menua dengan jujur, bahwa ia tidak akan pernah pecah kecuali dipukul dengan niat. Aku tidak pernah melihat bejana ini. Aku tidak pernah tahu ia ada. Tetapi aku tahu tangan yang membuatnya, karena tangan itu belajar dari tanganku."
+"Garis ini ditarik saat tanah masih lunak, lalu dikunci dengan panas dari dalam," katanya. "Aliran pembuatku selalu menyisakan tonjolan sebesar kuku di tempat tarikan bertemu."
 
-"Aku paham," kata Kovan pelan, "kenapa kau berkata seni yang kembali. Benda-benda ini bukan barang antik. Mereka adalah bukti bahwa sesuatu yang dilarang tidak pernah benar-benar mati — ia hanya disembunyikan, dibeli, dan dikoleksi oleh orang-orang yang tidak berani mengakuinya."
+Kovan membungkuk hingga matanya sejajar dengan leher bejana. "Jadi bukan kemiripan bentuk."
+
+"Bekas kerja." Ashvarok-Renn menarik tangannya. "Orang bisa meniru pola. Sulit meniru urutan tangan yang membuatnya."
+Kovan mengangkat lentera mati itu, tetapi tidak menyalakannya. Cahaya dari poros cukup untuk membuat gurat tipis pada bejana muncul dan tenggelam setiap kali ia mengubah sudut. Pada bagian yang tidak disentuh Ashvarok-Renn, gurat itu tampak lurus. Dekat tonjolan kecil tadi, guratnya menyempit, berputar sekali, lalu masuk ke badan bejana seperti benang yang ditarik ke balik kain.
+
+"Kalau aku melihatnya tanpa kau?" tanya Kovan.
+
+"Kau akan menyebutnya cacat pembakaran."
+
+"Dan kalau pembuat tiruan tahu tanda itu?"
+
+Ashvarok-Renn mengambil debu dari rak dan mengoleskannya melintang pada garis. Debu melekat di tanah liat biasa, tetapi jatuh dari bagian yang telah ditempa. "Ia bisa meniru tonjolannya. Aliran panas di bawahnya tetap harus berbalik tanpa memutus tanah. Itu gerak tangan, bukan gambar."
+
+Kovan membuka alatnya. Jarumnya tenang di atas badan bejana, lalu bergerak satu kali ketika melewati garis leher. Gerakannya sama dengan urat pada nat dinding: pendek, berbalik, berhenti. Ia menutup alat tanpa berkata bahwa ia percaya; pengulangan di depan matanya sudah cukup.
+
+Mereka melanjutkan menyusuri rak. Kartu-kartu Hegemony diikat dengan benang pada setiap benda, tetapi nama pembuat tidak pernah ditulis. Kolom asal berisi kode. Kolom pemilik berisi cap. Kolom kegunaan dibiarkan kosong atau diisi kata-kata umum yang tidak menerangkan apa pun: *wadah*, *alat*, *bahan lama*. Ashvarok-Renn berhenti pada bilah tanpa karat, melihat sisi tajamnya tanpa menyentuh, lalu berjalan lagi. Ia tidak membutuhkan kartu untuk mengenali umur benda-benda itu. Kartu hanya membuktikan siapa yang terakhir mengurungnya.
+
+"Mereka tahu cukup banyak untuk mengumpulkan semuanya," kata Kovan, "tapi tidak cukup untuk menamainya."
+
+"Nama membuat barang bisa ditagih kembali." Ashvarok-Renn memandang deretan kode itu. "Nomor membuatnya mudah dipindahkan."
+
+Di meja batu, debu terputus membentuk jalur dari tepi meja ke lemari besi. Seseorang telah membuka lemari itu belum lama berselang. Bekas ibu jari masih tampak pada lilin segar, dan sepotong benang timah terjepit di bawah engsel. Ashvarok-Renn mengikuti bekas itu dengan mata, lalu memeriksa ruangan sekali lagi. Tidak ada pintu kedua. Siapa pun yang menyentuh lemari terakhir kali datang melalui poros layanan yang sama dan yakin tidak perlu menyembunyikan jejaknya dari orang yang tak seharusnya menemukan lantai ini.
 
 Di atas meja batu, lemari besi kecil itu menunggu. Segelnya segar — sangat segar, seolah dicap beberapa jam yang lalu, sebelum panel bersidang, sebelum arsiparis itu membuka kabinet kosongnya di lantai empat puluh. Ashvarok-Renn membukanya dengan hati-hati, dan di dalamnya, di atas alas kain hitam, terbaring benda yang selama delapan belas tahun ia cari tanpa tahu bahwa ia mencari: benda bundar, logam tua, tiga lubang diatur dalam segitiga — sama dengan benda yang digali the Seeker di tiga batu tegak, sama dengan tiruan yang dipegang lelaki berjubah abu-abu, tetapi berbeda dalam satu hal yang hanya bisa dilihat oleh orang yang pernah memegang keduanya: benda ini dipahat, bukan dituang. Ia tumbuh dari logam, seperti batu yang tumbuh dari tanah.
 
 "Kunci yang asli," bisik Ashvarok-Renn.
 
-"Dan lihat ini." Kovan berdiri di sebelah meja, memegang sebuah buku besar bersampul kulit — buku yang terbuka di halaman terakhir, dengan tulisan yang rapi dan dingin. "Buku besar biro pengadaan. Halaman-halamannya penuh — tetapi bukan harga. Lihat: setiap barang dicatat dengan kode dua bagian, huruf dan angka, dan di ujung setiap baris, satu cap kecil: lingkaran utuh, tanpa putus." Ia menunjuk satu baris di bagian bawah. "Dan baris ini — kau lihat kodenya? Kode yang sama dengan KORD-4, dengan kotak bukti yang disita Maera di Caldrest. Barang dari tambang kita — dari seam Testament — dicatat di buku ini, dibeli oleh cap lingkaran utuh, dan disimpan di lantai yang tidak bernama."
+"Buku besar pengadaan." Kovan membuka sampul kulit di meja. Setiap baris berakhir pada cap lingkaran utuh. Ia menyusuri enam kelompok kode dengan ujung kuku, lalu berhenti pada satu baris: *Caldrest — KORD-4*. "Enam kelompok asal. Enam seam. Semua dibeli cap yang sama."
 
-Ashvarok-Renn membaca baris itu. Ia membaca beberapa baris di atasnya, lalu beberapa baris di bawahnya — dan untuk beberapa saat, ia tidak berbicara. Ketika ia berbicara, suaranya tidak berubah, tetapi sesuatu di dalamnya berubah: "Tahun demi tahun. Bukan hanya Caldrest. Bukan hanya seam Testament. Lihat kode-kode ini — enam rangkaian yang berbeda, enam asal yang berbeda, dan semuanya menuju ke arah yang sama: ke utara, ke tempat yang tidak tercatat. Enam seam. Enam sumber. Dan satu pembeli."
+Ashvarok-Renn membandingkan kode Caldrest dengan baris-baris di atasnya. Tanggal dan asal berganti; cap pembelinya tidak. "Enam sumber menuju satu tangan."
+Kovan membalik beberapa halaman. Enam kelompok kode itu tidak bercampur. Masing-masing berhenti pada tanggal berbeda, seolah tiap seam dipanen sampai tidak lagi menghasilkan sesuatu yang ingin dibeli. Di tepi halaman keenam, tinta lebih gelap menandai koreksi jumlah, tetapi cap lingkaran utuh menutup tulisan lama dan baru sekaligus.
+
+"Kalau kita mengambil halaman ini, mereka tahu baris mana yang kita baca," kata Kovan.
+
+"Kalau kita tinggalkan, kita pulang membawa tuduhan tanpa bukti."
+
+"Aku bisa menyalinnya."
+
+Ashvarok-Renn menggeleng. "Salinanmu membuktikan apa yang kau lihat. Lembar ini membuktikan apa yang mereka catat."
+
+Kovan menekan ujung halaman dengan telunjuk. Serat kertas meninggalkan debu putih pada kulitnya. "Mencabutnya akan membunyikan pemeriksaan."
+
+"Pemeriksaan sudah dimulai ketika kabinet kunci dibuka." Ashvarok-Renn memandang lilin segar pada lemari. "Kita memilih apakah loncengnya berbunyi saat kita punya bukti atau saat kita tak punya apa-apa."
+
+Mereka tidak langsung merobek lembar itu. Kovan mengukur letak jahitan pada punggung buku, sementara Ashvarok-Renn menahan halaman di kedua sisi agar baris sebelumnya tidak ikut lepas. Kertas tua itu melawan dengan bunyi halus seperti kain kering. Ketika akhirnya terpisah, satu serat panjang masih menggantung. Ashvarok-Renn memutuskannya dengan kuku, melipat lembar hanya pada ruang kosong antarkolom, lalu mengembalikan buku ke sudut semula.
+
+"Sekarang mereka tahu," kata Kovan.
+
+"Sekarang kita juga tahu apa yang dapat mereka buktikan tentang diri sendiri."
 
 Kovan, yang sejak tadi berjalan di antara rak-rak itu dengan alat terbuka di tangan, berhenti di depan sebuah peti kayu dengan segel timah yang lebih tua dari yang lain. Ia membukanya pelan-pelan — dan di dalamnya, di atas alas jerami yang sudah menguning, berbaris bejana-bejana kecil, masing-masing sebesar kepalan tangan, masing-masing disegel dengan lilin dan diikat benang timah. Ia mengangkat satu, mengguncangnya pelan, dan menempelkannya ke telinganya.
 
 "Kosong?" tanya Ashvarok-Renn.
 
-"Tidak kosong." Kovan menatap bejana itu. "Ia berat. Dan di dalamnya ada sesuatu yang tidak bisa kuguncang — sesuatu yang diam, tetapi hadir, seperti ruangan yang pintunya ditutup. Bejana ini menahan sesuatu di dalamnya." Ia menoleh ke Ashvarok-Renn. "Ini bukan koleksi. Ini penyimpanan. Setiap bejana ini menahan satu irama beku — satu suara yang diambil dari suatu tempat, dicabut, dan disimpan supaya tidak pernah kembali. Kau tahu apa artinya ini?"
+"Bukan kosong," kata Kovan. Ia menahan bejana itu di antara kedua telapak, lalu memutar alatnya. Jarum bergetar dalam pola pendek, berhenti, lalu mengulang pola yang sama tanpa suara. "Ada irama di dalamnya, tetapi tidak bergerak maju. Dibekukan pada satu ketukan."
 
-Ashvarok-Renn menatap barisan bejana itu lama. "Inilah panennya," katanya pelan. "Selama bertahun-tahun kita menyebut jaringan itu jaringan panen — kurir, slot serahan, kode kotak-garis-miring, lilin timah. Kita mengira yang dipanen adalah batu, atau artefak, atau barang yang bisa dijual. Kita salah. Yang dipanen adalah suara. Setiap bejana ini adalah satu seam yang dicabut napasnya — satu bagian dari pengikat yang ditarik, dibekukan, dan dikoleksi di lantai yang tidak bernama. Bukan demi nilainya. Demi apa yang tidak bisa dilakukannya lagi setelah diambil: bernapas."
+Ashvarok-Renn melihat kode seam pada leher bejana, lalu enam kelompok dalam buku. "Itulah panen mereka. Bukan batu dari seam, melainkan napas seam yang dicabut dan disimpan."
+Kovan mengambil bejana kedua dari baris lain. Lilinnya berbeda warna, benang timahnya lebih kasar, tetapi alat memberi pola yang sama: getar, diam, ulang. Ia mendekatkan keduanya sampai benang hampir bersentuhan. Irama pertama datang lebih cepat; irama kedua lebih berat. Keduanya berhenti tepat sebelum menjadi suara.
+
+"Kita bawa satu?" tanyanya.
+
+Ashvarok-Renn melihat enam baris itu. "Tidak. Lembar memberi jalan kembali ke pembeli. Kalau kita mengambil bejana, kita hanya membuktikan bahwa kita bisa mencuri hasil panen mereka."
+
+Kovan mengembalikan keduanya ke lekuk jerami semula. Bekas bundar di alas menunjukkan tiap bejana lama tidak bergeser. "Kalau mereka memindahkannya setelah kita pergi?"
+
+"Maka cap dan kode memberi tempat pertama untuk mencari."
 
 "Enam dari tujuh," kata Kovan pelan.
 
-"Enam dari tujuh." Ashvarok-Renn menutup buku itu, mengambil satu lembar — halaman terakhir, dengan baris Caldrest dan cap lingkaran utuh — dan menyimpannya di dalam jaket, di samping dua kain tenun. "Kita mengambil kunci ini. Kita mengambil bukti ini. Dan kita pergi dari lantai yang tidak bernama ini sebelum pemiliknya tahu bahwa barang yang paling berharga di antara semua koleksinya — bukan artefak, bukan bejana, bukan kunci — telah berjalan keluar dari pintunya dengan kakinya sendiri."
+"Enam dari tujuh." Ashvarok-Renn memasukkan kunci asli ke balik jaketnya. Ia melipat satu lembar buku besar yang memuat *Caldrest — KORD-4* dan cap lingkaran utuh, lalu menyelipkannya di samping kunci. "Kita bawa kunci dan satu bukti. Yang lain tetap di tempatnya."
 
-Di balik pintu besi itu, di dasar poros layanan, terdengar suara yang tidak seharusnya ada pada jam ini: langkah kaki yang naik — pelan, teratur, dua orang, tanpa cahaya, tanpa percakapan, seolah mereka tahu persis ke mana mereka pergi. Kovan mematikan alatnya. Ashvarok-Renn meletakkan tangan di atas kunci itu dan mendengar, dari bawah, suara yang dikenalnya: bukan langkah orang yang sedang mencari — tetapi langkah orang yang sedang mengantar, dengan sikap tidak mengancam tetapi juga tidak menawarkan pilihan, dan di antara kedua langkah itu, terdengar langkah ketiga yang lebih ringan, yang berhenti sejenak di setiap tingkat, seperti orang yang sedang diantar ke tempat yang tidak pernah ingin ia datangi.
+Langkah kaki terdengar dari poros: dua pasang berat, satu lebih ringan. Ketiganya berhenti sesaat pada setiap tingkat sebelum melanjutkan naik. Kovan mematikan alatnya.
 
-"Mereka membawa arsiparis itu ke atas," bisik Kovan.
+"Dua pengawal," bisiknya. Setelah jeda berikutnya, ia menambahkan, "Dan arsiparis."
 
-"Dan mereka membawanya ke lantai ini." Ashvarok-Renn menatap pintu besi itu. "Malam ini, garis arsip tidak hanya kehilangan kuncinya. Ia kehilangan salah satu pembacanya. Dan ia ingin tahu, di lantai yang tidak bernama ini, apakah pembaca yang tersisa masih bisa dipercaya — atau apakah ia juga harus disegel, seperti kabinet yang kosong itu."
+Ashvarok-Renn berdiri di sisi pintu besi, kunci tersimpan dan lembar bukti menempel di dadanya. "Mereka membawanya kemari."
 
-Di bawah, langkah-langkah itu terus naik. Di dalam lantai yang tidak bernama, di antara rak-rak artefak yang pernah dibuat oleh tangannya sendiri, Ashvarok-Renn berdiri dengan kunci asli di satu tangan dan bukti di tangan yang lain — dan untuk pertama kalinya sejak memasuki Spire, ia tidak tahu apakah ia harus turun untuk menjemput sekutu yang sedang dibawa naik, atau naik lebih tinggi, ke tempat yang bahkan lantai tanpa nama pun tidak pernah disebutkan namanya.
+Ia memberi Kovan isyarat untuk tetap di belakang meja. Langkah-langkah itu melewati tingkat terakhir. Ashvarok-Renn tidak turun atau mencari jalan lain; ia menunggu di lantai tanpa nama sampai bayangan pengawal pertama jatuh melintasi ambang.

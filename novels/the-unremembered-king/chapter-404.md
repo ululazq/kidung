@@ -3,26 +3,180 @@ title: "Bab 404: Yang Tertinggal oleh yang Lewat"
 chapter: 404
 ---
 
-Penyelidikan yang jujur tidak dimulai dengan pertanyaan. Ia dimulai dengan berjalan di jalur yang sama dan melihat apa yang tidak terlihat waktu pertama — karena jalan yang pernah dilewati tidak pernah sama dengan jalan yang baru, bukan karena jalan berubah, melainkan karena mata yang datang kedua kali datang membawa yang pertama. Rombongan tiga itu berjalan pelan — pelan yang disengaja, pelan sebagai metode — dan di nat percabangan tengah, di tempat kurator pernah meletakkan kotak bejana palu panggilan untuk penanaman ketiga, Kovan berlutut dan menemukan hal pertama: jejak telapak tua di debu nat, dua pasang, satu dari penanaman ketiga dan satu lebih baru — lebih baru dari penanaman keenam, lebih tua dari ketukan pintu — telapak yang ringan di kaki kanan dan berat di kiri, telapak yang berjalan dengan satu tangan yang menyentuh dinding di sisi kirinya.
+Rombongan tiga itu kembali menyusuri jalur dengan langkah lambat. Kali ini kelambatan mereka punya ukuran. Ashvarok-Renn memeriksa sambungan dinding. Kurator menghitung katup dan ceruk yang pernah mereka lewati. Kovan menjaga matanya tetap dekat lantai.
 
-"Tangan kiri yang menyentuh dinding," kata Kovan, mengukur jarak antar-langkah dengan rentang tangannya sendiri, tanpa menyentuh jejaknya. "Kanan bekerja, kiri diam — tapi diam bukan mati. Ia dibawa menyentuh dinding. Orang yang tangannya diam karena cacat tidak menyentuh dinding dengannya; ia melindunginya. Ini orang yang tangannya diam karena pilihan atau kebiasaan — dan dindingnya ia pakai sebagai alat ketiga." Ia mengangkat kepalanya, menatap kurator. "Tamu kalian tidak menunggu di pintu. Ia bekerja di sepanjang jalan menuju pintu. Dan pekerjaan yang dilakukan sambil berjalan hanya satu jenis: memeriksa."
+Di nat percabangan tengah, tempat kurator pernah meletakkan kotak bejana palu panggilan untuk penanaman ketiga, Kovan berhenti. Ia berlutut tanpa menyentuh debu.
 
-Mereka menemukan pekerjaan itu di katup ketiga — katup yang dulu menjawab pelat empat titik paling lama, katup yang ukirannya berdialek dua guru — dan pekerjaan itu kecil dan tidak berbahaya dan hanya bisa ditemukan oleh orang yang mencarinya: di baris ukiran terbawah, di samping tulisan *yang menjaga ini tidak pergi*, ada goresan baru yang bukan tulisan dan bukan kerusakan — satu tanda kecil yang dipahat dengan mata gigitan kikir, tarikan serong, sudut ketiga lubang, tanda yang sama dengan yang dipakai tukang-tukang aliran itu untuk menandai barang yang sudah diperiksa dan dinyatakan sehat. Katup itu diperiksa. Katup itu sehat. Katup itu sudah diperiksa oleh tangan yang sama yang memasang tanda pada kunci-kunci yang dibuatnya tiga puluh tahun lalu.
+Ada dua pasang jejak telapak tua. Pasangan pertama berasal dari penanaman ketiga. Pasangan kedua lebih baru dari penanaman keenam, tetapi lebih tua dari ketukan pintu. Debu yang mengisi tepi cetakannya memberi batas waktu itu.
 
-"Dan inilah yang mengubah pertanyaannya," kata kurator, pelan, dengan jari yang tidak menyentuh tanda itu. "Tiga puluh tahun lalu, tanda ini dipakai di kunci. Hari ini ia dipakai di katup. Orang yang sama, pekerjaan yang berbeda — dan pekerjaan yang berbeda dari orang yang sama artinya ia tidak sedang memeriksa barang-barangnya sendiri. Ia sedang memeriksa pintu-pintu jalur ini SEBAGAI jalan." Ia menoleh kepada Ashvarok-Renn, dan menyelesaikan kalimat yang Ashvarok-Renn mulai dulu di meja dapur: "Ia tidak sedang menunggu di depan pintu. Ia sedang memastikan pintu itu aman untuk seseorang yang akan lewat. Dan satu-satunya pertanyaan yang tersisa bukan siapa ia — melainkan siapa yang akan lewat."
+Kovan membuka rentang tangannya di atas jejak untuk mengukur jarak antarlangkah. Tekanan kaki kanan tampak ringan. Kaki kiri menekan lebih dalam. Pada dinding sebelah kiri, setinggi pinggang, debu terhapus dalam garis putus-putus yang mengikuti langkah.
 
-Di perpustakaan, murid kedua menunggu mereka dengan dua cangkir di meja dan satu cangkir ketiga yang air panasnya baru diganti — cangkir tamu, yang diperbarui setiap hari, yang permukaannya selalu selesai menguap pada waktu yang sama tiap pagi, dan murid kedua berkata tentang cangkir itu hanya satu kalimat yang bukan penjelasan: "Ia tidak pernah datang menerima cangkirnya. Tapi cangkir itu bukan pekerjaan sia-sia. Ada hal yang dilakukan bukan karena diterima — ia dilakukan karena rumah yang benar tidak mengenal pamrih pada tamunya." Ia menjawab pertanyaan pertama mereka sebelum ditanyakan — pertanyaan tentang ketukan yang dijawab saat tamu pergi — dengan kejujuran yang tidak ia pelajari dari siapa pun: "Aku tidak tahu siapa yang menjawab dari dalam malam itu. Aku ada di dalam, dan aku tidak mengetuk, dan aku tidak salah dengar — aku sudah tiga puluh tahun membedakan ketukan dari semua bunyi di rumah ini. Yang menjawab itu bukan aku, bukan gema, bukan getar nat. Aku juga tidak takut — dan itu yang paling menarik, kalau kalian mau menimbangnya: aku yang menjaga rumah ini tiga puluh tahun mendengar pintu yang tidak kukenal menjawab, dan yang muncul di dadaku bukan takut. Rasa aman. Seolah-olah penjagaan rumah ini tidak pernah jadi tanggung jawabku sendirian — seolah-olah ada yang sudah menjaga dari sisi yang tidak pernah kupikirkan bisa dijaga." Kemudian ia membawa mereka ke meja kerja, dan membuka laci yang tertutup tiga puluh tahun, dan mengeluarkan catatan penjagaan yang ia tulis diam-diam sepanjang tiga dekade — buku-buku kecil, ditulis tangan kiri yang diam, satu halaman per musim, dan halaman-halaman itu bukan diari melainkan DENYUT: denyut nat pada setiap fajar, dan satu kolom di setiap halaman yang tidak pernah terisi sampai tahun-tahun terakhir: kolom *ketukan dari dalam*. Kolom itu kosong selama dua puluh enam tahun. Di tahun kedua puluh tujuh, kolom itu terisi sekali. Di tahun kedua puluh delapan, dua kali. Dan sejak rombongan barak membuka katup ketiga tahun lalu — tiga kali, empat kali, lima kali, dan pada musim ini: setiap kali jalur itu dilalui oleh orang-orang yang membawa pekerjaan pengembalian.
+“Tangan kiri menyentuh dinding,” katanya. “Lihat jaraknya. Sentuhan jatuh setiap kali kaki kiri menahan berat.”
 
-"Bukan hantu," kata murid kedua, dan suaranya adalah suara orang yang baru selesai membaca angka yang tidak ia ingin baca dan tidak bisa ia bantah. "Bukan khayalan penjaga tua. Ketukan itu berubah frekuensinya mengikuti kegiatan kalian — makin sering jalur ini hidup, makin sering ia menjawab. Dan ia hanya menjawab setelah KALIAN bergerak, tidak pernah sebaliknya." Ia menutup buku terakhirnya, pelan. "Aku tiga puluh tahun mengira aku menjaga pintu ini. Angka-angkaku bilang lain: aku bukan penjaganya. Aku jawabannya. Setiap kali kalian datang membawa pekerjaan yang benar, pintu ini menjawab kalian lewat aku — dan aku tidak pernah sadar bahwa ketukan-ketukan yang kujawab balik selama ini bukan kebiasaanku. Ia percakapan. Dan aku baru membacanya sebagai percakapan setelah ada yang menuliskan angkanya."
+Ashvarok-Renn mendekat. “Cedera?”
 
-Kurator membaca kolom-kolom itu dua kali — kebiasaan yang tidak pernah ia lepaskan — dan di pembacaan kedua ia melihat yang tidak terlihat di yang pertama: di samping beberapa ketukan yang tercatat, di margin halaman, ada tanda kecil yang digambar murid kedua tanpa sadar, tanda yang ia pikir hanya coretan — tarikan serong, sudut ketiga lubang. "Kau sudah mengenalinya sebelum mengenalinya," kata kurator, dan suaranya turun. "Tanganmu menggambar tanda tangan pemeriksanya setiap kali ketukan itu datang — tiga puluh tahun lebih awal dari hari katup-katupmu diperiksa. Kau tidak sedang mencatat bunyi. Kau sedang menyalin tanda tangan." Ia menatap murid kedua. "Pertanyaannya berubah lagi. Bukan siapa yang menjawab dari dalam. Bukan siapa yang ia tunggu. Yang pertama sudah kau jawab dengan buku ini: yang di dalam mengenali pekerjaan, seperti kita. Yang kedualah yang masih terbuka — dan sekarang kita tahu ia tidak bisa dijawab dengan menunggu di depan pintu. Ia dijawab dengan membaca tanda tangan yang sudah lama ada di bukumu."
+“Belum tentu.” Kovan menunjuk tanpa menyentuh. “Orang yang melindungi tangan cedera biasanya menahannya dekat tubuh. Jejak ini menunjukkan tangan dibawa keluar dan ditempelkan ke dinding. Bisa kebiasaan. Bisa pilihan kerja.”
 
-Mereka melakukan percobaan pada malam itu — karena penyelidikan yang jujur menguji angkanya, bukan memeluknya. Ashvarok-Renn berjalan sendirian ke pintu kedua, pelan, tanpa membawa apa pun, dan berdiri di depannya tanpa mengetuk, dan menunggu selama satu jam penuh: tidak ada jawaban. Kovan melakukannya setelahnya, dengan lempeng kosong di tangannya: tidak ada jawaban. Kurator melakukannya dengan pelat empat titik yang tidak diketukkan: tidak ada jawaban. Dan ketika ketiganya berdiri bersama di depan pintu itu — tiga orang, tanpa alat, tanpa ketukan, hanya tiga diam yang berbeda — pintu itu menjawab sekali: satu ketukan dari dalam, kecil, pada jeda yang panjangnya persis jeda nat selatan.
+“Untuk menjaga keseimbangan?”
 
-Bukan jawaban untuk orang. Jawaban untuk diam yang selesai — untuk tiga pekerjaan yang berhenti bersama di depan pintu yang sama, seperti tiga shift yang menunggu di mulut tambang sebelum turun. Pintu itu tidak mengenali nama. Ia mengenali kerja.
+“Atau membaca permukaan sambil berjalan.”
 
-Kovan yang menemukan kesimpulan dari tiga percobaan itu, dan ia menemukannya dengan cara penghitung: bukan dari jawaban, melainkan dari ketiadaan jawaban. "Tiga percobaan tunggal, tiga kegagalan. Satu percobaan bersama, satu jawaban. Dan satu angka lagi yang tidak boleh dilewatkan: percobaan kita yang berhasil bukan yang paling lengkap — kita tidak membawa pelat, tidak membawa alat, tidak mengetuk. Yang kita bawa adalah TIGA JENIS diam yang berbeda: diam penjaga, diam penghitung, diam yang pernah turun lebih dalam dari peta. Pintu itu tidak menjawab salah satu dari kita. Ia menjawab bentuknya kerja kita kalau ketiganya berdiri di satu tempat." Ia menutup buku angkanya. "Itu bukan pintu yang menunggu orang tertentu. Itu pintu yang menunggu SHIFT — dan shift-nya tidak dipilih oleh pintu. Ia dipilih oleh pekerjaan yang sedang berjalan."
+Kurator memandang jalur menuju pintu. “Jadi tamu itu tidak tinggal di ambang.”
 
-Dan di catatan musim itu, di halaman terakhir buku terakhirnya, murid kedua menemukan baris yang ia tulis sendiri dan tidak pernah ia pahami sampai malam itu, baris yang ia tulis dengan tangan kiri yang diam di suatu fajar ketika ia mengira ia hanya mencatat denyut: *penunggu di dalam tidak pernah mengetuk untuk keluar. ia mengetuk untuk menyapa. selama ini aku mengira tugas menjaga ini berarti tidak pernah membuka. mungkin ada penjagaan jenis yang lain: membuka untuk yang sudah di dalam.*
+“Jejaknya mengatakan ia bergerak sepanjang jalur,” jawab Kovan. “Ia memeriksa sesuatu. Jejak tidak memberi tahu apa.”
 
-Dan di barak Caldrest, pada malam yang sama, dua hal kecil terjadi yang tidak diketahui penyelidik di selatan. Sela membuka bukunya di halaman lagu empat nada — halaman yang ia tulis malam penyelesaian lagu — dan menemukan satu baris yang ia tulis dan tidak ingat menulisnya, baris yang muncul dari tangan yang bekerja saat pemiliknya sedang mendengarkan: *nada keempat datang dari tangan yang mengetuk bejana kecil — dan ketukan itu bukan pertama kalinya aku mendengar irama itu. tiga ketuk satu diam. irama penunggu. kainku menyapanya dengan nada ketiga seperti menyapa kenalan yang sudah lama tidak bertemu.* Dan Kanta, di kursi penjaga, menerima denyut dari Ondar — kabar kecil dari jalur utara yang tidak berhubungan dengan apa pun dan karena itu penting: ibu Tamma jalur melaporkan, lewat pengendusnya, bahwa orang tua yang sama pernah lewat sekali lagi minggu lalu — bukan menuju selatan, melainkan MENUJU UTARA, ke arah yang tidak ada di peta jalur manapun kecuali satu: arah bengkel utara yang pintunya dikunci dari dalam. Kanta membaca denyut itu dua kali, menuliskannya di bukunya, dan menutupnya tanpa menambahkan apa pun — karena ada hal yang kursi hanya boleh mencatat dan tidak boleh menyimpulkan: *tamu tua lewat ke utara, minggu lalu. arah: tidak menuju selatan. dicatat. tidak disimpulkan. kursi ini mencatat, bukan menilai.*
+Mereka mengikuti cetakan sampai bentuknya hilang di lantai batu yang lebih bersih. Katup ketiga berdiri beberapa langkah kemudian, tertanam di dinding. Katup itu pernah menjawab pelat empat titik lebih lama daripada katup lain. Ukirannya memakai dialek dua guru.
+
+Kurator mengangkat lampu.
+
+Di baris ukiran terbawah, tepat di samping kalimat *yang menjaga ini tidak pergi*, tampak goresan baru. Bentuknya kecil: satu tarikan serong menuju sudut lubang ketiga. Tepi goresan menyimpan bekas gigitan kikir.
+
+Ashvarok-Renn mencondongkan kepala. “Kerusakan?”
+
+“Tidak acak,” kata Kovan. “Tarikannya berhenti sebelum menyentuh ukiran.”
+
+Kurator mengenali bentuk itu. Tukang-tukang aliran pernah memakainya pada barang yang selesai diperiksa dan dinyatakan sehat. Tanda serupa terdapat pada kunci-kunci buatan tiga puluh tahun lalu.
+
+“Katup ini diperiksa,” katanya. “Hasilnya sehat, jika pemakainya mengikuti arti tanda lama.”
+
+“Pemakainya orang yang membuat kunci?” tanya Ashvarok-Renn.
+
+Kurator menahan jarinya beberapa ruas dari goresan. “Kemungkinan. Bentuk dan alatnya cocok dengan kebiasaan lama. Itu belum membuktikan tangan yang sama. Orang lain bisa mempelajari tanda tersebut.”
+
+Kovan berdiri. “Yang pasti hanya pekerjaan di sini. Seseorang datang setelah penanaman keenam, menyentuh dinding dengan tangan kiri, lalu memeriksa katup.”
+
+Kurator mengangguk. “Dan katup diperlakukan sebagai bagian jalur. Kalau pemeriksaannya untuk perjalanan, mungkin ia sedang memastikan jalur aman bagi orang yang akan lewat.”
+
+“Siapa?”
+
+“Belum ada dasar untuk menjawab.”
+
+Mereka meninggalkan tanda tetap utuh dan melanjutkan perjalanan ke perpustakaan.
+
+Murid kedua sudah menunggu. Dua cangkir berada di meja. Cangkir ketiga berdiri di sisi yang biasa dibiarkan untuk tamu. Air panasnya baru diganti; uap tipis masih naik dari permukaan. Setiap hari ia memperbarui cangkir itu. Setiap pagi uapnya habis pada waktu yang sama.
+
+“Ia tidak pernah datang menerima cangkirnya,” kata murid kedua. “Tetap kuisi. Rumah yang benar tidak menghitung pamrih pada tamunya.”
+
+Kurator belum sempat bertanya ketika murid kedua melanjutkan.
+
+“Aku tidak tahu siapa yang menjawab dari dalam malam itu. Aku berada di dalam. Aku tidak mengetuk.”
+
+“Kau yakin bunyinya ketukan?” tanya Kovan.
+
+“Tiga puluh tahun aku membedakan ketukan dari bunyi rumah ini. Itu bukan gema atau getar nat.” Murid kedua memegang tepi meja. “Ada hal lain. Aku tidak takut.”
+
+Ashvarok-Renn menatapnya. “Apa yang kau rasakan?”
+
+“Aman.” Jawabannya keluar setelah jeda singkat. “Seolah penjagaan rumah ini tidak pernah berada di tanganku sendiri. Ada sisi lain yang ikut dijaga, meski aku tak pernah tahu sisi itu bisa dijaga.”
+
+Ia mengambil lampu, membawa mereka ke meja kerja, lalu membuka laci yang tertutup selama tiga puluh tahun. Dari dalamnya ia mengeluarkan tumpukan buku kecil.
+
+Catatan itu ditulis diam-diam sepanjang tiga dekade. Satu halaman untuk setiap musim. Tulisan tangan kiri yang diam memenuhi kertas dalam baris-baris pendek. Isinya tidak menyerupai diari. Setiap halaman mencatat denyut nat pada fajar, diikuti beberapa kolom pengamatan.
+
+Satu kolom berjudul *ketukan dari dalam*.
+
+Kolom itu kosong selama dua puluh enam tahun. Pada tahun kedua puluh tujuh, terdapat satu catatan. Tahun kedua puluh delapan memuat dua. Setelah rombongan barak membuka katup ketiga tahun lalu, jumlahnya naik: tiga kali, lalu empat, lalu lima. Pada musim ini, ketukan tercatat setiap kali jalur dilalui orang-orang yang membawa pekerjaan pengembalian.
+
+Murid kedua membuka buku terakhir di depan Kovan.
+
+“Bacalah angkanya.”
+
+Kovan mengikuti kolom dengan ujung pensil. “Frekuensinya bertambah saat kegiatan jalur bertambah.”
+
+“Lebih dari itu,” kata murid kedua. “Periksa waktunya.”
+
+Kovan membandingkan tanggal pada kolom ketukan dengan catatan perjalanan yang dibawa kurator. “Ketukan selalu datang setelah kami bergerak.”
+
+“Tak pernah mendahului?”
+
+“Tidak di buku ini.”
+
+Murid kedua menutup satu buku dan menarik buku berikutnya. “Selama tiga puluh tahun aku menganggap ketukan balasku sebagai kebiasaan penjaga. Catatan ini menunjukkan pola percakapan. Kalian datang membawa pekerjaan pengembalian. Sesudah itu, sesuatu di dalam menjawab. Aku membalas tanpa menyadari bahwa ada urutan.”
+
+“Angka menunjukkan hubungan waktu,” kata Kovan. “Penyebabnya masih perlu diuji.”
+
+“Itulah sebabnya laci ini kubuka.”
+
+Kurator membaca seluruh kolom dua kali. Pada pembacaan kedua, ia memperhatikan coretan kecil di margin beberapa halaman. Coretan itu muncul di samping catatan ketukan tertentu: tarikan serong, lalu sudut yang menyerupai sudut lubang ketiga.
+
+Ia mengambil salinan bentuk katup dan meletakkannya di samping halaman.
+
+“Kau ingat menggambar ini?” tanyanya.
+
+Murid kedua menggeleng. “Kupikir hanya gerak tangan saat mendengarkan.”
+
+“Bentuknya mirip tanda kikir pada katup.”
+
+“Kau bilang tanda yang sama?”
+
+“Mirip,” koreksi kurator. “Kecocokan ini hipotesis sementara. Coretan tinta dan pahatan kikir tidak bisa dibandingkan sebagai bukti identitas. Kita belum tahu apakah tanganmu menyalin bentuk yang pernah dilihat, merespons irama ketukan, atau mengulang kebiasaan lain.”
+
+Murid kedua menatap marginnya. “Coretan paling tua ada sebelum katup itu diperiksa?”
+
+Kurator membalik halaman sampai menemukan kemunculan awal. “Tiga puluh tahun lebih awal dari goresan yang kita temukan hari ini.”
+
+“Kalau aku menyalinnya dari ketukan,” kata murid kedua, “berarti bentuk itu hadir dalam irama.”
+
+“Kalau,” kata Kovan. “Kita uji bunyinya dulu.”
+
+Malam itu mereka kembali ke pintu kedua.
+
+Ashvarok-Renn menjalani percobaan pertama. Ia berjalan sendirian, tanpa membawa apa pun, lalu berdiri di depan pintu. Ia tidak mengetuk. Selama satu jam, pintu tetap diam.
+
+Kovan mengambil giliran kedua. Ia membawa lempeng kosong di tangannya dan menunggu sendiri. Tidak ada jawaban.
+
+Kurator datang terakhir dengan pelat empat titik. Pelat itu tetap berada di tangannya dan tidak diketukkan. Satu jam berlalu tanpa bunyi dari dalam.
+
+Mereka berkumpul untuk membandingkan hasil.
+
+“Tiga percobaan tunggal gagal,” kata Kovan. “Perbedaan alat tidak mengubah hasil.”
+
+“Berarti alatnya tak diperlukan?” tanya Ashvarok-Renn.
+
+“Belum. Kita hanya tahu tiga susunan tadi tidak dijawab.”
+
+Kurator memandang pintu. “Kita belum menguji keberadaan kita bersama.”
+
+Mereka berdiri sejajar di depan ambang. Tak ada alat di tangan mereka. Tak satu pun mengetuk. Ashvarok-Renn menahan tubuh dalam diam orang yang pernah turun lebih dalam dari peta. Kovan menunggu dengan diam seorang penghitung. Kurator menjaga diam yang telah ia pelihara selama bertahun-tahun.
+
+Setelah ketiganya berhenti bergerak, terdengar satu ketukan dari dalam.
+
+Bunyinya kecil dan tunggal. Jeda sebelum bunyi itu sama panjang dengan jeda nat selatan.
+
+Kovan segera mencatat waktu.
+
+“Apa yang berubah?” tanya kurator.
+
+“Jumlah orang. Susunan kerja. Mungkin cara diam kita bertemu.” Kovan memeriksa catatannya. “Percobaan berhasil justru saat pelat dan lempeng tidak dibawa. Kita juga tidak mengetuk.”
+
+“Pintu mengenali kita bertiga?” tanya Ashvarok-Renn.
+
+“Itu satu kemungkinan. Kemungkinan lain: pintu merespons pola yang hanya terbentuk saat tiga jenis diam hadir bersama.”
+
+Kurator menatap sambungan pintu. “Seperti pergantian regu di mulut tambang.”
+
+“Seperti shift,” kata Kovan. “Tetapi SHIFT masih hipotesis. Satu keberhasilan tidak cukup untuk menetapkan aturan. Data malam ini hanya memberi empat hasil: tiga percobaan tunggal gagal; satu percobaan bersama dijawab.”
+
+“Kalau diuji lagi?”
+
+“Kita perlu mengubah satu unsur setiap kali. Orang, urutan, alat, atau jenis pekerjaan. Malam ini kita berhenti sebelum pengulangan mengacaukan catatan.”
+
+Mereka kembali ke perpustakaan. Murid kedua membuka halaman terakhir buku terakhirnya. Di sana ada satu baris dari awal musim, ditulis saat fajar dengan tangan kiri yang diam. Ia membacanya perlahan:
+
+*penunggu di dalam tidak pernah mengetuk untuk keluar. ia mengetuk untuk menyapa. selama ini aku mengira tugas menjaga ini berarti tidak pernah membuka. mungkin ada penjagaan jenis yang lain: membuka untuk yang sudah di dalam.*
+
+Tak seorang pun menambah tafsir di bawah baris itu. Kovan hanya mencatat hasil empat percobaan pada halaman terpisah. Kurator menyimpan salinan bentuk coretan di antara catatan katup. Ashvarok-Renn mengembalikan cangkir ketiga ke tempatnya setelah airnya dingin.
+
+---
+
+Di barak Caldrest pada malam yang sama, Sela membuka bukunya pada halaman lagu empat nada. Halaman itu ditulis pada malam penyelesaian lagu. Di bawah notasi, ia menemukan satu baris dengan tulisan tangannya sendiri, meski ia tidak ingat pernah menulisnya:
+
+*nada keempat datang dari tangan yang mengetuk bejana kecil — dan ketukan itu bukan pertama kalinya aku mendengar irama itu. tiga ketuk satu diam. irama penunggu. kainku menyapanya dengan nada ketiga seperti menyapa kenalan yang sudah lama tidak bertemu.*
+
+Sela membaca kalimat itu sekali lagi, lalu membiarkan buku tetap terbuka.
+
+Di kursi penjaga, Kanta menerima denyut dari Ondar. Kabar itu berasal dari jalur utara. Ibu Tamma jalur telah mengirim laporan melalui pengendusnya: orang tua yang sama terlihat lewat lagi minggu lalu. Arahnya menuju utara, jauh dari jalur selatan. Hanya satu peta jalur yang memberi tujuan pada arah tersebut: bengkel utara dengan pintu terkunci dari dalam.
+
+Kanta membaca denyut itu dua kali. Ia membuka bukunya, menulis tanpa menambahkan penilaian, lalu menutup sampul:
+
+*tamu tua lewat ke utara, minggu lalu. arah: tidak menuju selatan. dicatat. tidak disimpulkan. kursi ini mencatat, bukan menilai.*

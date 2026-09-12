@@ -27,15 +27,35 @@ Keheningan yang mengikuti kalimat itu lebih dalam dari yang sebelumnya. Pembaca 
 
 "Kau membaca lebih dalam dari aku," katanya akhirnya. "Dan aku membaca selama empat puluh tahun."
 
-"Kau membaca dengan alat," kata Ashvarok-Renn. "Alat membaca permukaan. Tangan membaca riwayat. Tidak ada yang salah dengan alat — tetapi alat tidak pernah tinggal di dalam bejana ini, tidak pernah mendengar tanah tempat ia dibuat, tidak pernah mengenal tangan yang membentuknya. Kau tidak perlu belajar membaca lebih dalam. Kau hanya perlu belajar percaya pada apa yang sudah kau tahu tanpa alat."
 
+Ashvarok-Renn membalik telapak tangannya. Debu tanah liat dari garis leher bejana masih melekat pada kulit. "Kau sudah punya pembacaanmu sendiri."
+
+Pembaca itu memeriksa layar alatnya. Garis di sana tipis dan berulang, rapi sampai tidak menjelaskan apa pun selain usia dan kepadatan. Ia menempelkan alat itu sekali lagi ke bejana. Hasilnya sama.
+
+"Alatku tidak salah," katanya.
+
+"Tidak. Ia menjawab pertanyaan yang kau ajukan."
+
+"Dan pertanyaanmu?"
+
+Ashvarok-Renn menunjuk tonjolan kecil pada pertemuan garis leher. "Siapa yang menutup tarikan terakhir, dan apa yang tangannya lakukan sebelum tanah mengeras."
+
+Pembaca itu mengusap titik tersebut dengan ujung jari. Alatnya tetap diam. Namun jarinya berhenti saat merasakan perubahan yang terlalu kecil untuk angka di layar. Ia mencoba dari arah sebaliknya, lalu menurunkan alat tanpa mematikannya.
+
+"Aku tidak bisa menulis itu dalam laporan," katanya.
+
+"Aku tidak memintamu menulisnya."
+
+"Kalau aku mengaku ada pembacaan di luar alat, empat puluh tahun pekerjaanku dipertanyakan."
+
+Ashvarok-Renn melihat dua pengawal di belakangnya. Keduanya menunggu perintah yang belum diberikan. "Kalau kau menyangkal apa yang baru dirasakan tanganmu, malam ini saja yang akan dipertanyakan. Pilih beban yang sanggup kau bawa."
 Pembaca itu menunduk ke bejana yang kembali berada di tangannya, lalu mengangkat matanya. Di baliknya, arsiparis itu masih berdiri di antara kedua pengawalnya, dan untuk sesaat, sesuatu yang mirip senyum — sangat tipis, hampir tidak terlihat — melintas di wajahnya. Kemudian pembaca itu berkata: "Kau mengambil kunci. Kau mengambil halaman dari buku besar. Kau akan turun dari lantai ini, dan besok pagi, ketika biro pengadaan memeriksa koleksinya, ia akan menemukan dua hal yang hilang. Dan aku akan menjadi orang yang harus menjelaskannya."
 
-"Kau bisa menjelaskannya dengan jujur," kata Ashvarok-Renn. "Kau bisa berkata: malam ini, ada orang yang datang ke lantai tanpa nama, mengambil kembali apa yang bukan miliknya, dan pergi. Itu cerita yang benar — dan cerita yang benar tidak pernah bisa dibantah oleh siapa pun yang membacanya."
+"Katakan yang terjadi," kata Ashvarok-Renn. "Kami mengambil kembali benda yang bukan milik lantai ini, lalu pergi."
 
 "Dan kalau aku ditanya siapa orang itu?"
 
-"Kau bisa berkata kau tidak tahu." Ashvarok-Renn menatapnya. "Itu juga cerita yang benar — karena kau memang tidak pernah tahu namaku, dan aku tidak pernah memberikannya kepadamu. Dan orang yang tidak punya nama tidak bisa disebutkan namanya dalam laporan apa pun."
+"Katakan kau tidak tahu." Ashvarok-Renn menatapnya. "Aku tidak pernah memberimu nama."
 
 Pembaca itu diam untuk waktu yang lama. Kemudian ia melangkah ke samping — satu langkah, tidak lebih — dan membuka jalan ke pintu besi. "Turunlah," katanya. "Sebelum aku berubah pikiran, atau sebelum yang di atas menyadari bahwa lantai ini lebih sunyi dari biasanya."
 

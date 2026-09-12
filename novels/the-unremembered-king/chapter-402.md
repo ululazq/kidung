@@ -3,18 +3,216 @@ title: "Bab 402: Daftar yang Selesai, Daftar yang Dimulai"
 chapter: 402
 ---
 
-Yang dilakukan terhadap daftar kurator pada hari setelah penanaman keenam adalah hal yang tidak pernah dilakukan terhadap daftar mana pun di dunia yang dikenal rombongan barak: daftar itu dipindahkan. Bukan disalin — disalin adalah cara biro menyimpan; bukan digubal — digubal adalah cara biro mengubur — melainkan dipindahkan, utuh, dengan tulisan tangannya, dengan coretan tanggalnya, dengan baris kedua yang ditulis tangan yang menulis sambil berjalan — dari lemari kurator di lantai tak bernama ke meja panjang perpustakaan selatan, dan dari sana ke barak Caldrest, dan akhirnya ke pangkuan kursi penjaga, di mana ia diletakkan di samping buku kosong Kanta seperti dua alat yang saling menunggu dan baru dipertemukan.
+Pada malam setelah penanaman keenam, lampu-lampu ceruk perpustakaan selatan tinggal separuh. Daftar kurator terbungkus kain di tengah meja panjang, enam entrinya selesai, tetapi belum diserahkan ke tangan mana pun. Masih ada satu pekerjaan yang harus disaksikan sebelum perjalanan pulang.
 
-"Daftar yang selesai tidak boleh tinggal di lemari orang yang membuatnya," kata kurator, meletakkannya, dan ini bukan perpisahan melainkan pemindahan jabatan, dan kurator yang melakukannya melakukannya dengan kesadaran penuh akan itu: "Lemari adalah tempat hal yang selesai diarsipkan. Kursi penjaga adalah tempat hal yang selesai diingat. Perbedaannya kecil dan semuanya — arsip menunggu dibaca; ingatan menunggu diturunkan. Daftar ini sudah selesai bekerja sebagai daftar pencarian. Ia mulai bekerja sebagai daftar pengajaran — dan pengajaran hanya bekerja di tangan yang tidak pernah berhenti membagikan."
+Tamu tua datang ketika cahaya di ruangan merendah. Tangan kanannya bekerja. Tangan kirinya diam di sisi tubuh. Tas kecilnya lebih ringan satu bejana daripada saat ia tiba.
 
-Kanta menerima daftar itu dengan dua tangan — tangan kanan yang bekerja dan tangan kiri yang diam — dan meletakkannya di pangkuan, dan membuka halaman pertama bukunya, dan menulis baris kedua dari daftar penemuan jujur yang ia janjikan di malam kursinya diisi: *menerima daftar kurator dari tangannya sendiri. enam entri, semua selesai — lima oleh tangan kami, satu oleh tangan yang pulang. daftar ini dari hari ini bukan daftar yang menunggu. ia daftar yang mengajari: beginilah caranya menemukan, beginilah caranya mengembalikan, beginilah caranya tidak menyimpan. siapa pun yang duduk di kursi ini setelah aku akan membacanya lebih dulu, sebelum menulis apa pun.* Ia menutup bukunya, dan kursi penjaga itu — kursi yang lebih rendah dari semua kursi, dengan pasak yang longgar dan daftar yang tidak pernah ditahan — berdiri di sudut meja dapur dengan berat yang baru: bukan berat benda yang disimpan, melainkan berat benda yang dipercayakan.
+Ia tidak memberikan nama. Tidak seorang pun meminta. Kurator telah menuliskan sesuatu tentangnya pada halaman yang tidak dibacakan.
 
-Dan malam itu, di perpustakaan selatan, terjadi hal yang lebih kecil dari semua hal yang diceritakan di meja mana pun dan lebih penting dari semua laporan yang akan ditulis tentangnya: orang tua dengan tangan kanan yang bekerja dan tangan kiri yang diam — yang tidak memberikan namanya, yang tidak dimintai namanya, yang dituliskan kurator di halaman yang tidak dibacakan — mengetuk pintu kedua. Tiga pukulan dan satu diam, dengan telapak yang tahu irama itu bukan karena mempelajarinya, melainkan karena ia salah satu dari tangan yang menuliskannya ke dalam irama dunia.
+Tamu itu berjalan melewati meja panjang menuju pintu kedua. Batu di sekeliling pintu menyimpan dingin malam. Ia berdiri cukup dekat hingga napasnya menyentuh permukaan kusam.
 
-Dan pintu itu menjawab dari dalam.
+Tangan kanannya terangkat.
 
-Bukan dibuka — tidak ada kunci yang berputar, tidak ada gembok yang jatuh, tidak ada daun pintu yang bergerak — melainkan dijawab: satu ketukan yang kecil dari balik batu, ketukan yang panjangnya persis satu diam dari irama penunggu, ketukan yang artinya dalam bahasa yang lebih tua dari semua bahasa yang ditulis: *didengar. aku di sini. tunggu atau masuk, keduanya benar.* Dan orang tua itu mengetuk sekali lagi — satu ketukan, bukan tiga, ketukan yang artinya *aku tahu kau di sini; aku pulang bukan untuk masuk; aku pulang untuk memberi tahu bahwa pintu ini tidak pernah punya pintu* — dan berjalan pergi dari pintu itu tanpa menoleh, dengan tas kecilnya yang sudah lebih ringan satu bejana, dan di ujung jalur yang ditinggalkan ia berhenti sekali dan meletakkan tangan kanannya ke dinding, telapak penuh, dan dinding itu hangat, dan ia berkata kepada dinding, dengan suara yang tidak mendengar siapa pun kecuali tanah: "Kau menitipkan lagunya kepadaku empat puluh tahun. Ia sudah kuberikan kembali. Sekarang kau punya dua tempat untuk menyimpannya, dan tidak ada satu pun dari dua tempat itu yang bisa dibakar oleh orang yang tidak mengerti."
+Tiga ketukan terdengar.
 
-Berita itu berjalan ke utara lewat nat pada malam yang sama — kabar berjalan dengan denyut, seperti semua kabar penting — dan di barak Caldrest, di meja dapur yang lampunya menyala untuk malam biasa, meja itu menerima berita dengan cara meja: sup dulu, cerita kemudian. Ondar yang menerima denyutnya di tepi nat — karena Ondar yang menjaga nat barak sejak rombongan berangkat — dan ia membacakannya dua kali, dengan suara yang dijaga datar karena isinya tidak datar, dan Brannoc, yang mendengarkan dengan mangkuk di tangan dan tidak menyentuh supnya sampai kabar selesai, berkata kepada meja satu kalimat yang tidak ia beri penjelasan karena kalimat itu tidak butuh: "Enam dari enam. Dan yang keenam bukan kita yang mengembalikan — kita hanya cukup pandai untuk membawa telinga yang tepat ke tempat yang tepat pada waktu yang tepat. Itu bukan kebetulan. Itu pekerjaan — pekerjaan jenis yang tidak bisa dihitung angka, dan justru karena itu paling jarang berhasil, dan paling layak dipersekutui." Dan dari kursi penjaga di sudut meja, Kanta membuka bukunya dan menulis baris kedua daftar penemuan jujurnya — bukan penemuan, malam ini, melainkan kabar, dan kabar yang mengubah definisi pekerjaan pantas dicatat di daftar mana pun: *kabar dari selatan: nada keempat pulang bersama penanamnya. penanaman berpasangan dilakukan oleh dua tangan yang saling percaya. dicatat untuk kursi yang akan datang: pekerjaan yang butuh dua tangan tidak boleh pernah lagi ditunggu satu orang.* Dua fajar kemudian, rombongan itu berangkat pulang ke utara — tapi sebelum itu, di perpustakaan selatan, pada malam yang sama dengan ketukan pintu, murid kedua melakukan hal terakhir untuk tamunya yang sudah pergi: ia menggeser kursi baru — kursi bersaudara yang ia buat dari sisa papan yang sama dengan kursi barak — dari ujung meja ke sudut, tepat di samping kursi kosong Nilam, dan menyetel kakinya satu per satu dengan cara orang yang menyetel kaki kursi di rumah yang lantainya tidak rata, sampai kursi itu berdiri tanpa bunyi dan tidak bergoyang. Dua kursi itu — satu kosong tiga puluh tahun, satu kosong sejak dibuat — berdiri berdampingan di sudut perpustakaan seperti dua hal yang dibuat oleh dua tangan di dua tempat dan baru dipertemukan oleh satu pekerjaan yang butuh keduanya. Dan di depan keduanya, di meja, murid kedua meletakkan tiga cangkir: dua yang sudah lama dipakai, satu yang baru diambil dari rak — dan cangkir ketiga itu tidak ia pindahkan ke tempat penyimpanan, dan tidak ia cuci untuk disimpan; ia meninggalkannya di meja, terisi air panas yang akan ia ganti setiap hari, karena ada tamu yang pulang dan akan pulang lagi, dan rumah yang benar tidak pernah menyimpan cangkir tamu yang sudah pernah dipakai di rak yang jauh. Dan sebelum lampu-lampu ceruk dipadamkan, ia membuka buku besar yang kalimatnya berhenti di tengah — buku yang disepakati hanya boleh diselesaikan oleh satu tangan di dunia ini — dan menatap kata yang berhenti itu lama, dua kali seperti kebiasaan yang ia pinjam dari orang yang membaca segalanya dua kali, dan menutupnya lagi tanpa menyentuhnya. Ia tidak sedang menunggu lagi; ia sudah selesai menunggu. Ia sedang memelihara: kalimat itu, seperti kursi di sudut, adalah tempat yang disiapkan untuk tangan yang berhak — dan tangan yang berhak, malam ini, sudah duduk di dapurnya makan sup dari meja kalian, dan belum selesai memutuskan apakah ia akan menyelesaikan kalimat itu atau membiarkannya berhenti selamanya sebagai satu-satunya hal yang guru tidak selesaikan dengan sengaja. — dan jalan pulangnya berubah pikiran. Bukan karena tersesat: jalan yang ditinggalkan itu tidak pernah kehilangan siapa pun yang membaca nat-nya dengan telapak, dan tubuh Ashvarok-Renn mengenal jalur itu seperti lidah mengenali giginya sendiri. Ia berubah pikiran karena di percabangan yang tidak ada di peta Kovan dan tidak ada di ingatan kurator — percabangan yang natnya, sepanjang semua kunjungan sebelumnya, diam dengan diam yang tidak pernah dijangkau siapa pun — Kovan berhenti, menempelkan telapaknya, dan mendengar sesuatu yang membuatnya menoleh kepada rombongan dengan wajah penghitung yang baru menemukan angka di tempat yang ia kira kosong: "Di sini ada sesuatu. Bukan irama daftar. Bukan irama pintu. Sesuatu yang lebih kecil — seperti lagu kerja, seperti suara shift kecil yang menyanyikan dirinya sambil bekerja. Ia belum pernah didengar siapa pun." Mereka duduk di percabangan itu satu jam penuh — jadwal Brannoc mengizinkan satu-satunya keterlambatan yang diizinkan, dan inilah dia, datang tepat pada jalan pulang — dan mendengarkan lagu kecil yang belum pernah diberi pendengaran itu sampai habis, tiga kali, tanpa memutar apa pun, tanpa mengambil apa pun, tanpa mencatat satu pun angka tentangnya. Dan kemudian mereka berdiri, dan meninggalkannya di tempatnya — karena beberapa hal yang ditemukan dengan cara yang benar justru dikembalikan dengan cara ditinggalkan, dan ini penemuan jujur pertama musim: bukan benda yang dibawa pulang, melainkan keputusan yang dibawa pulang. Di percabangan itu, sebelum melanjutkan, Ashvarok-Renn mengeluarkan penanda kedua belas dari sakunya — penanda Resgar yang dibuat untuk jalan yang berubah pikiran — dan memasangkannya di dinding percabangan, dengan kapurnya menghadap ke arah lagu kecil itu, dan menuliskan dengan kapur yang sama satu kata yang akan dibaca oleh pengembara berikutnya yang cukup sabar untuk menempelkan telinga: *dengar.*
+Ia menunggu satu diam.
 
-Dan ketika rombongan itu akhirnya masuk ke barak Caldrest — pada sore hari, dengan tas-tas yang lebih ringan dari yang mereka bawa pergi, dengan kurator yang menyerahkan daftar kurator dari tangannya sendiri ke dua tangan yang satu bekerja dan satu diam — meja dapur menyambut mereka dengan cara yang sudah menjadi hukum tak tertulisnya: sup dulu, cerita kemudian, dan tidak ada yang bertanya apa pun sampai semua mangkuk kosong. Dan di sudut meja, ketika cerita sudah selesai dan malam sudah tua dan lampu-lampu dipadamkan satu per satu, Kanta duduk di kursi penjaga dengan dua daftar di pangkuannya — daftar yang selesai di kiri, daftar yang baru dimulai di kanan — dan kursi itu berbunyi kecil sekali ketika ia menggeser duduknya lebih dekat ke meja, bunyi pasak kayu yang menyesuaikan dirinya dengan berat yang bertambah, dan bunyi itu, yang tidak didengar oleh siapa pun kecuali oleh semua orang, adalah bunyi lembaga yang sedang menemukan ukurannya sendiri: lebih rendah dari semua kursi, lebih dekat ke meja dari kemarin, dan tidak selesai — tidak pernah selesai — dengan caranya menunggu yang berikutnya.
+Ketukan keempat menyusul.
+
+Irama itu tidak terdengar seperti sandi yang dihafal. Telapaknya mengenalnya tanpa ragu, seolah tangan tersebut pernah ikut menaruh irama itu ke dalam dunia.
+
+Semua orang di perpustakaan diam. Tidak ada kunci berputar. Tidak ada gembok jatuh. Daun pintu tetap rapat pada batu.
+
+Dari baliknya terdengar satu ketukan kecil.
+
+Panjangnya tepat satu diam.
+
+Tamu tua menurunkan kepala. Wajahnya tidak menunjukkan kejutan. Ketukan dari dalam telah mengatakan cukup: *didengar. aku di sini. tunggu atau masuk, keduanya benar.*
+
+Ia menjawab dengan satu ketukan.
+
+Jawaban itu membawa arti lain: *aku tahu kau di sini. aku pulang untuk memberi tahu bahwa pintu ini tidak pernah punya pintu.*
+
+Setelah itu ia berbalik dan berjalan pergi. Tidak ada ucapan perpisahan. Tas kecilnya bergeser ringan pada pinggul. Ia melewati meja, kurator, dan murid kedua tanpa menoleh.
+
+Di ujung jalur, sebelum dinding berbelok dan menyembunyikannya dari perpustakaan, ia berhenti. Tangan kanannya menempel penuh pada batu.
+
+Dinding itu hangat.
+
+“Kau menitipkan lagunya kepadaku empat puluh tahun,” katanya. “Ia sudah kuberikan kembali. Sekarang kau punya dua tempat untuk menyimpannya, dan tidak ada satu pun dari dua tempat itu yang bisa dibakar oleh orang yang tidak mengerti.”
+
+Telapaknya terangkat. Ia melanjutkan langkah dan lenyap di balik belokan.
+
+Murid kedua menunggu hingga bunyi langkah itu habis. Lalu ia pergi ke ujung meja dan menarik kursi baru ke sudut perpustakaan.
+
+Kursi itu dibuat dari sisa papan yang sama dengan kursi barak. Ia menempatkannya di samping kursi Nilam, yang telah kosong selama tiga puluh tahun. Kursi baru itu kosong sejak selesai dibuat. Ia menyetel setiap kaki dengan ujung jari, mengganjal satu sisi, lalu menekan dudukannya. Kayu berhenti bergoyang.
+
+Dua kursi berdiri berdampingan.
+
+Di meja depan keduanya, murid kedua menaruh tiga cangkir. Dua cangkir telah lama dipakai. Cangkir ketiga baru diambil dari rak. Ia mengisinya dengan air panas dan membiarkannya di sana. Air itu akan diganti setiap hari. Cangkir tersebut tidak akan kembali ke rak jauh.
+
+Sebelum memadamkan lampu terakhir, ia mengambil buku besar. Kalimat terakhir di dalamnya berhenti di tengah. Mereka telah sepakat bahwa hanya satu tangan di dunia yang boleh menyelesaikannya.
+
+Murid kedua membaca kata terakhir dua kali, mengikuti kebiasaan orang yang membaca segala sesuatu dua kali. Ia tidak menambahkan tinta. Buku itu ditutup dan dikembalikan ke meja, dekat tiga cangkir dan dua kursi.
+
+Tangan yang berhak atas kalimat itu telah duduk di dapur mereka dan makan sup. Keputusan untuk menyelesaikan kalimat atau membiarkannya terhenti tetap berada pada tangan tersebut.
+
+---
+
+Pada malam yang sama, kabar dari selatan mencapai barak Caldrest lewat nat.
+
+Ondar sedang berjaga di tepinya. Denyut pertama membuatnya menurunkan mangkuk. Ia menempelkan telapak pada nat dan menunggu rangkaian lengkap. Kabar datang dalam denyut teratur, berhenti, lalu mengulang.
+
+Ia membacanya dua kali sebelum kembali ke meja dapur.
+
+Lampu menyala untuk malam biasa. Sup telah dibagikan. Brannoc memegang mangkuk dengan kedua tangan, tetapi belum sempat minum saat Ondar berdiri di ujung meja.
+
+“Laporan dari selatan,” kata Ondar. “Penanaman keenam selesai. Nada keempat pulang bersama penanamnya. Penanaman berpasangan dilakukan oleh dua tangan yang saling percaya.”
+
+Brannoc meletakkan mangkuk.
+
+“Pintunya?”
+
+“Tamu tua mengetuk tiga kali, menunggu satu diam, lalu mengetuk sekali. Pintu kedua menjawab dari dalam dengan satu ketukan. Tamu membalas satu ketukan dan pergi.”
+
+“Jadi enam dari enam.”
+
+“Enam dari enam,” kata Ondar. “Entri terakhir tidak dikembalikan oleh rombongan.”
+
+Brannoc memandang Kanta di kursi penjaga. Kursi itu lebih rendah daripada kursi lain di meja. Satu pasaknya masih longgar.
+
+“Kita hanya membawa telinga yang tepat ke tempat yang tepat pada waktu yang tepat,” katanya. “Orang lain yang menyelesaikan pekerjaan.”
+
+Ondar tetap berdiri. “Apa yang harus dicatat sebagai hasil?”
+
+“Bahwa keberhasilan itu tetap pekerjaan,” jawab Brannoc. “Jenis yang sulit dihitung. Kita tidak mengambil nada dari penanamnya. Kita membuat dua tangan yang saling percaya bisa bertemu.”
+
+Kanta membuka buku kosong di pangkuannya, tetapi pena tetap di atas halaman.
+
+“Kalau pekerjaan membutuhkan dua tangan,” katanya, “kursi ini tidak akan lagi menunggu satu orang mengerjakannya.”
+
+Brannoc mengangguk. “Catat itu saat daftarnya tiba. Kabar memberi kita hasil. Daftar akan memberi orang berikutnya cara.”
+
+Ondar menempelkan telapak ke nat sekali lagi. Ia mengirim tanda bahwa laporan telah diterima. Setelah itu ia duduk dan mengambil mangkuk.
+
+Sup dimakan sebelum cerita lain dimulai.
+
+---
+
+Dua fajar kemudian, rombongan meninggalkan perpustakaan selatan menuju utara.
+
+Kurator membawa daftar enam entri di dalam tasnya. Kain pembungkus menjaga halaman tetap rata. Daftar itu telah berpindah dari lemari di lantai tak bernama ke meja panjang perpustakaan selatan. Kini ia ikut berjalan ke Caldrest.
+
+Jalur yang ditinggalkan membaca telapak dan berat langkah. Ashvarok-Renn mengenal belokannya seperti lidah mengenali susunan gigi. Kovan tetap memeriksa nat pada setiap perubahan dinding. Brannoc menjaga jadwal dan menghitung jarak tanpa mengucapkannya.
+
+Menjelang tengah hari, mereka mencapai percabangan yang tidak ada di peta Kovan. Kurator juga tidak mengenal bentuknya. Pada kunjungan-kunjungan sebelumnya, nat di tempat itu menyimpan diam yang tidak pernah dijangkau siapa pun.
+
+Kovan berhenti.
+
+Ia menempelkan telapak ke dinding. Bahunya menegang, lalu kepalanya berputar ke arah rombongan. Wajahnya tampak seperti wajah penghitung yang menemukan angka di ruang kosong.
+
+“Di sini ada sesuatu,” katanya.
+
+Brannoc mendekat. “Irama daftar?”
+
+“Tidak.”
+
+“Pintu?”
+
+“Tidak.” Kovan memindahkan telapak beberapa jari ke kanan. “Lebih kecil. Seperti lagu kerja. Seperti shift kecil yang menyanyikan dirinya saat bekerja.”
+
+“Pernah didengar?”
+
+“Belum pernah.”
+
+Brannoc melihat jalur di depan, lalu kembali menatap Kovan. Jadwalnya memiliki satu tempat untuk keterlambatan. Ia telah menyimpannya sepanjang perjalanan.
+
+“Berapa lama untuk mendengar sampai selesai?”
+
+“Kita baru tahu setelah mendengar.”
+
+“Kalau begitu kita duduk.”
+
+Mereka duduk di lantai percabangan selama satu jam. Tidak ada alat diputar. Tidak ada batu dibuka. Tidak seorang pun mengambil sampel atau menyalin angka.
+
+Lagu kecil itu mengalir melalui nat. Nadanya tipis, kadang tenggelam di bawah gesekan tanah, lalu kembali dengan pola yang utuh. Mereka mendengarnya sampai selesai sekali.
+
+Kovan tidak bergerak ketika lagu mengulang.
+
+Mereka mendengarnya untuk kedua kali.
+
+Pada pengulangan ketiga, Ashvarok-Renn menutup mata. Kurator membiarkan tangannya berada di atas tas yang menyimpan daftar. Brannoc tidak memeriksa waktu.
+
+Lagu itu selesai untuk ketiga kali.
+
+Kovan mengangkat telapak. “Kita bisa mengikuti sumbernya.”
+
+“Perlu?” tanya Brannoc.
+
+Kovan memandang nat, lalu menggeleng. “Tidak untuk mendengar.”
+
+“Perlu dibawa pulang?”
+
+“Tidak.”
+
+Keputusan itu mengubah perjalanan mereka. Mereka telah datang sebagai rombongan yang mencari dan mengembalikan. Di percabangan tersebut, mereka menemukan sesuatu dengan membiarkannya tetap bekerja di tempatnya.
+
+Ashvarok-Renn merogoh saku dan mengeluarkan penanda kedua belas. Penanda Resgar itu dibuat untuk jalan yang berubah pikiran. Ia memasangnya pada dinding percabangan, dengan bagian kapur menghadap ke arah lagu kecil.
+
+Dengan kapur yang sama, ia menulis satu kata:
+
+*dengar.*
+
+Mereka meninggalkan lagu itu di sana. Tidak ada benda tambahan di dalam tas. Keputusan untuk tidak mengambilnya ikut pulang bersama mereka.
+
+---
+
+Rombongan tiba di barak Caldrest pada sore hari.
+
+Tas-tas mereka lebih ringan daripada saat berangkat. Kurator membawa satu-satunya muatan yang belum diletakkan pada tempat akhirnya: daftar enam entri, terbungkus kain di dalam tas.
+
+Meja dapur menerima mereka menurut hukum yang tidak pernah ditulis. Sup lebih dahulu. Cerita sesudahnya.
+
+Tidak ada pertanyaan sampai semua mangkuk kosong.
+
+Ondar mendengar laporan perjalanan dari awal: perpustakaan selatan, pintu kedua, tamu tua, jawaban dari dalam, dua kursi, tiga cangkir, buku besar, lalu percabangan dan lagu kecil yang didengar tiga kali. Ketika Kovan menyebut penanda kedua belas dan kata *dengar*, Ondar mengulangi kata itu sekali untuk memastikan laporan nat berikutnya tidak mengubahnya.
+
+Setelah cerita selesai, kurator berdiri. Ia membuka tas, mengeluarkan bungkusan kain, lalu membawanya ke kursi penjaga.
+
+Kanta menaruh buku kosongnya di pangkuan. Tangan kanannya bergerak untuk menerima. Tangan kirinya tetap diam.
+
+Kurator membuka kain. Daftar itu tampak sebagaimana saat keluar dari lemari: tulisan tangan, coretan tanggal, enam entri, dan baris yang dibuat sambil berjalan. Ia menyerahkannya kepada Kanta.
+
+Kanta menerimanya dengan kedua tangan.
+
+“Daftar yang selesai tidak boleh tinggal di lemari orang yang membuatnya,” kata kurator.
+
+“Karena pekerjaannya selesai?”
+
+“Karena pekerjaannya berubah. Lemari menyimpan arsip sampai seseorang membacanya. Kursi penjaga menyimpan ingatan agar seseorang menurunkannya.”
+
+Kanta melihat halaman pertama. “Enam entri ini tidak lagi dipakai untuk mencari.”
+
+“Mulai malam ini, enam entri itu dipakai untuk mengajar. Lima diselesaikan oleh tangan kita. Satu diselesaikan oleh tangan yang pulang. Orang berikutnya perlu memahami keduanya.”
+
+“Kenapa diberikan kepadaku?”
+
+“Karena pengajaran harus berada di tangan yang terus membagikan. Kursi ini tidak menahan daftar.”
+
+Kanta menggeser buku kosong ke kanan dan menaruh daftar kurator di kiri.
+
+“Daftar ini tidak akan masuk lemari,” katanya. “Siapa pun yang duduk di kursi ini setelah aku akan membacanya sebelum menulis apa pun. Pekerjaan yang membutuhkan dua tangan juga tidak akan lagi ditunggu oleh satu orang.”
+
+Kurator melepaskan kain pembungkus dan kembali ke tempat duduknya. Penyerahan selesai.
+
+Kanta membuka halaman pertama bukunya. Ia menulis baris kedua dari daftar penemuan jujur yang dijanjikannya pada malam kursi itu diisi:
+
+*menerima daftar kurator dari tangannya sendiri. enam entri, semua selesai—lima oleh tangan kami, satu oleh tangan yang pulang. mulai hari ini daftar ini mengajari: beginilah caranya menemukan, beginilah caranya mengembalikan, beginilah caranya tidak menyimpan. pekerjaan yang membutuhkan dua tangan tidak boleh lagi ditunggu satu orang. siapa pun yang duduk di kursi ini setelah aku akan membacanya lebih dulu, sebelum menulis apa pun.*
+
+Ia menutup pena.
+
+Malam bertambah tua. Lampu dipadamkan satu per satu. Di pangkuan Kanta terletak dua daftar: daftar kurator yang selesai di kiri, daftar penemuan jujur yang baru dimulai di kanan.
+
+Kanta menggeser kursi penjaga lebih dekat ke meja.
+
+Pasak kayu yang longgar menanggung berat baru, menyesuaikan diri, lalu berbunyi kecil sekali.

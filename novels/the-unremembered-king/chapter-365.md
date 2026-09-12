@@ -21,7 +21,7 @@ Ondar menatap kain itu lama. Orang lain mendengar kabar; Ondar mendengar hal lai
 
 "Irama ini tidak berhenti di kain," katanya pelan. "Rasakan. Setiap gelombang setelah gelombang pertama lebih pelan. Kain ini sedang berhenti memberi tahu — bukan karena habis, tapi karena gelombangnya menyebar. Ke nat. Ke benang-benang timah di dinding-dinding tambang. Ke semua tempat yang pernah disentuh garis." Ia mengangkat wajah. "Kabar itu tidak sedang dijaga rahasia oleh siapa pun. Kabar itu sedang pulang dengan cara sendirinya, seperti air yang menemukan paritnya. Dan itu berarti semua orang yang selama ini memanen lewat garis itu juga sudah mendengarnya."
 
-Meja itu hening lagi, dan hening yang kedua ini lebih dingin dari yang pertama, karena semua orang di meja itu sampai di kesimpulan yang sama pada hitungan yang sama: kalau garis panen berhenti mengalir, maka gudang di ujung garis itu tahu. Dan gudang yang kehilangan aliran barangnya tidak pernah diam — ia mengirim orang untuk menanyakan kenapa.
+Brannoc berhenti mengetukkan pensil. Ondar menarik tangannya dari kain, lalu menoleh ke pintu barak yang tidak dikunci. Ibu Tamma mematikan api kecil di bawah panci sebelum berkata, "Gudang di ujung garis itu sudah tahu alirannya berhenti. Sekarang tunggu orang yang dikirimnya untuk bertanya kenapa."
 
 Surat Ossian tiba sore harinya, dan seperti semua suratnya, ia datang dalam bentuk yang sah dan isi yang tidak nyaman. Tiga lembar, cap biro masih basah, ditulis dengan tangan yang selama tiga puluh tahun menghitung barang milik orang lain:
 

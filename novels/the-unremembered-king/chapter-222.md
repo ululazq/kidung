@@ -89,7 +89,7 @@ Tidak melalui nat, tidak melalui irama — melalui TANGAN. Seorang petani tua me
 
 Ashvarok menutup neraca hari itu di nat pusat aula:
 
-Hari 584. PEMULANGAN KELOMPOK PERTAMA: VESS-MORATH. Seratus dua puluh empat jiwa. SEMUA NAIK. Tidak ada yang tersesat ke pos salah, tidak ada lagu yang tertukar, tidak ada yang menyerah di tengah jalan. the Seasonal Protocol: TERBUKTI.
+Hari 583. PEMULANGAN KELOMPOK PERTAMA: VESS-MORATH. Seratus dua puluh empat jiwa. SEMUA NAIK. Tidak ada yang tersesat ke pos salah, tidak ada lagu yang tertukar, tidak ada yang menyerah di tengah jalan. the Seasonal Protocol: TERBUKTI.
 
 Dari empat ratus jiwa utara, seratus dua puluh empat kini telah pulang. Sisa dua ratus tujuh puluh enam.
 

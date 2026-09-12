@@ -3,26 +3,206 @@ title: "Bab 394: Di Bawah Tempat Peta Berhenti"
 chapter: 394
 ---
 
-Turun itu tidak dimulai dengan turun. Ia dimulai dengan lorong-lorong yang sudah dipetakan — nat tua, percabangan yang namanya masih diingat peta, palung-palung yang dindingnya sudah pernah disentuh lentera — dan untuk beberapa jam yang pertama, perjalanan itu tidak lebih dari perjalanan: empat orang berjalan di dalam tambang yang sudah pernah dijelajahi orang-orang sebelum mereka, dan penanda Resgar masih diam di sakunya, karena jalan yang sudah dipetakan tidak butuh tanda; ia butuh kaki yang percaya pada peta. Barak turun berempat: Ashvarok-Renn di depan, karena tubuhnya mengenali nat-nat tua seperti lidah mengenali giginya sendiri; Brannoc dengan lentera dan angka tengah malam yang sudah ia taruh di kepalanya sejak semalam; Kovan dengan lempeng-lempengnya dan buku angkanya; dan kurator, paling belakang, dengan bejana entri terdalam di dalam kotak yang digendongnya seperti orang menggendong anak yang tidur — dan palu panggilan di saku jasnya, karena ada janji yang dibawa lebih baik di saku daripada di kotak.
+Turun itu tidak dimulai dengan turun. Selama beberapa jam pertama, mereka masih melewati lorong yang punya nama: nat tua yang sudah aus oleh telapak, percabangan yang garisnya masih utuh di peta, palung tempat jelaga lentera menempel pada langit-langit. Di wilayah semacam itu, tubuh tidak perlu bertanya kepada tanah. Kaki mengikuti hafalan banyak orang.
 
-Yang pertama memberi tahu mereka bahwa mereka mendekati ujung peta bukan mata, melainkan udara. Udara di tambang punya gramatika yang dipelajari semua penambang sebelum dipelajari peta mana pun: udara yang hidup bergerak, dan gerakannya bercerita — dari arah mana ia masuk, ke arah mana ia meloloskan diri, apakah ada pintu yang terbuka di suatu tempat jauh di atas atau lorong yang kolong di suatu tempat jauh di bawah. Udara di lorong-lorong yang dipetakan itu bergerak. Dan kemudian, pada satu nat percabangan yang tidak bernama di peta dan tidak bernama di kepala siapa pun, udara itu berhenti bergerak — bukan berhenti seperti angin reda, melainkan berhenti seperti orang yang berhenti berbicara di tengah kalimat — dan Ashvarok-Renn berhenti berjalan, dan mengangkat tangannya, dan berkata tanpa menoleh: "Kita sampai di tempat yang kalian bawa bejana itu untuk."
+Ashvarok-Renn berjalan paling depan. Di belakangnya, Brannoc membawa lentera dan jam tengah malam di kepalanya. Kovan memeluk buku angka serta lempeng baca dalam kantong kain. Kurator berjalan paling akhir dengan bejana di kotak punggung dan daftar terikat pada dadanya. Sebelas penanda Resgar tetap di saku Brannoc. Jalan yang tercatat belum membutuhkan kapur.
 
-Mereka membentangkan lentera di nat itu dan duduk — bukan karena lelah, melainkan karena ada aturan yang dipegang semua orang yang bekerja di bawah tanah: tempat pertama yang tidak dipetakan harus diduduki sebelum dilangkahi. Duduk itu adalah cara tubuh bertanya kepada tanah apakah tanah keberatan; berjalan langsung adalah cara tubuh menyatakan bahwa pertanyaan tidak perlu, dan tanah tidak pernah menerima penyataan itu dengan tenang. Maka mereka duduk di tepi nat itu, di dalam cahaya yang tidak lebih lebar dari dua lengan, dan mereka mendengarkan kesunyian di bawah sana — dan kesunyian itu, seperti yang ditakutkan Ashvarok-Renn dan seperti yang dituliskan Sela, tidak sedang menunggu. Ia tidak punya bentuk ketidak-sabaran seperti kesunyian lorong yang menunggu palu. Ia kesunyian yang sudah selesai dengan segala hal, kesunyian yang tidak lagi menghitung waktu sejak apa pun, dan mendengarnya adalah seperti mendengar ruangan yang semua penghuninya sudah pergi dan sudah tidak berniat kembali.
+Perubahan pertama datang lewat udara.
 
-"Tempat ini sudah pernah dijangkau," kata Kovan pelan, dan ia tidak sedang bertanya; ia sedang mengonfirmasi angka kepada dirinya sendiri. "Tangan yang menanamkan irama-irama itu dulu turun lewat sini. Ia duduk di nat yang sama dengan kita. Ia mendengar kesunyian yang sama." Ia membuka buku angkanya dan menulis satu baris: *nat tanpa nama di ujung peta. diduduki dua kali dalam sejarah dunia: oleh tangan yang menanam, dan oleh kami. yang pertama tidak meninggalkan tanda. yang kedua akan meninggalkan penanda kapur.*
+Di lorong atas, udara selalu bergerak, meski hanya cukup untuk mendinginkan keringat di bibir. Gerak itu memberi tahu penambang tentang pintu terbuka, rongga runtuh, atau poros jauh yang masih bernapas. Pada satu percabangan tanpa nama, aliran tersebut mendadak hilang. Nyala lentera berdiri lurus. Bau minyak panas mengendap di antara mereka, tak dibawa ke mana-mana.
 
-Mereka mulai turun dari nat itu dengan aturan yang disepakati di meja dapur: sepuluh langkah nat yang bisa dipercaya, satu penanda, kapur menghadap arah datang. Dan nat di bawah ujung peta itu bisa dipercaya — itu yang mengejutkan Kovan lebih dari segala hal yang lain pada jam-jam pertama: nat itu rata, kokoh, tidak bergerak di bawah telapak tangan, seperti nat-nat di lorong-lorong atas yang dibangun oleh orang-orang yang mengharapkan ribuan kaki setiap hari, dan tidak ada satu pun dari mereka yang bisa menjelaskan kenapa tanah yang tidak pernah dipetakan harus sebaik tanah yang setiap hari dipijak. "Karena dulu ia dipijak setiap hari," kata Ashvarok-Renn, dan kalimat itu jatuh di antara mereka seperti batu yang jatuh ke air tenang. "Peta yang berhenti bukan peta yang berhenti karena tanahnya berhenti dipakai. Ia berhenti karena orang yang memetakannya berhenti turun. Tanahnya tidak tahu bahwa ia sudah berhenti dipakai. Tanah masih menunggu shift berikutnya."
+Ashvarok-Renn mengangkat tangan.
 
-Penanda pertama diletakkan pada hitungan seratus langkah, di nat yang lekukannya sempit; penanda kedua pada dua ratus, di tempat nat itu bercabang dan mereka memilih cabang yang dindingnya lebih hangat, karena dinding yang lebih hangat adalah dinding yang lebih dekat dengan jantung tanah dan jantung tanah adalah arah yang benar untuk dicari ketika yang dicari adalah tempat di mana tanah menyimpan air. Dan di antara penanda kedua dan ketiga, di dalam gelap yang makin memadat seperti air yang makin dalam, Brannoc yang memberi tahu mereka jam — bukan dengan jam, karena jam tidak bisa dibaca di bawah sana, melainkan dengan suara: "Sudah jam sembilan di atas," katanya, "dan aku akan memberi tahu kalian jam lagi pada jam sebelas, dan pada jam dua belas kita mulai naik, apa pun yang sudah atau belum kita temukan. Angka itu tidak bisa ditawar, dan aku yang menetapkannya, dan aku yang tidak ikut menawarnya walaupun aku yang paling akan tergoda menawarnya." Dan Ashvarok-Renn menjawab dari depan, tanpa menoleh: "Kau ikut turun, Brannoc." "Aku ikut turun," kata Brannoc. "Dan justru karena itu angkanya tidak boleh kutawar. Orang yang di bawah sana selalu bisa menemukan alasan untuk turun sedikit lagi. Orang yang membawa jadwal harus membawanya seperti palu: dengan dua tangan, dan tidak pernah dipakai untuk hal lain." Dan di penanda ketiga — pada hitungan tiga ratus langkah, di dalam gelap yang lentera tidak lagi mampu tembusi lebih dari beberapa langkah — Kovan berhenti, dan mengangkat tangannya seperti Ashvarok-Renn mengangkat tangannya di nat atas, dan berkata satu kata yang membuat semua orang berhenti:
+Brannoc berhenti begitu dekat hingga ujung sepatu mereka hampir bersentuhan. "Ujung peta?"
 
-"Ada."
+Kovan membuka lembar salinan dan meraba garis terakhirnya. "Belum. Menurut ukuranku, ujungnya masih dua puluh tiga langkah."
 
-Ada apa — itu yang tidak bisa dijawab oleh mata, karena mata sudah selesai bekerja di bawah sana sejak penanda kedua; yang bisa bekerja di kedalaman itu hanya telapak tangan, tulang, dan telinga. Mereka berdiri diam, dan lentera itu dipadamkan — karena cahaya di tempat yang tidak pernah punya cahaya adalah kebisingan, dan mereka tidak mau menjadi orang pertama yang berisik di ruangan yang tidak pernah berisik — dan sebelum lentera itu padam sepenuhnya, Ashvarok-Renn menyentuh dinding di sisi kirinya, telapak penuh, tanpa menggesek, dan dinding itu menjawab sentuhannya dengan cara yang hanya bisa dibaca oleh tulang: hangat. Hangat yang kecil dan tidak berubah, hangat yang bukan sisa — sisa mendingin; yang ini tidak mendingin — dan di dalam gelap itu ia berkata kepada yang lain, dengan suara yang tidak lebih keras dari suara orang yang memberi tahu cuaca: "Tanah di sini tidak tidur. Ia bekerja. Ia menyimpan — dan penyimpanan adalah pekerjaan yang tidak berhenti ketika tidak ada yang melihat, seperti semua pekerjaan yang paling penting." Dan kemudian lentera itu padam, dan gelap yang total turun ke atas mereka seperti air yang sudah lama menunggu untuk dipercaya, dan di dalam gelap itu mereka mendengar apa yang didengar Kovan:
+"Menurut petamu," kata Brannoc. "Udara sudah berhenti di sini. Mana yang kita percaya?"
 
-Air. Bukan suara air yang mengalir — suara itu nyaring dan tidak butuh pendengaran yang terlatih — melainkan suara air yang diam: getar yang sangat pelan dari air yang berdiri di dalam batu, air yang tidak mengalir ke mana-mana dan tidak pernah mengalir ke mana-mana, air yang tinggal di tempatnya seperti orang yang tinggal di rumahnya bukan karena tidak bisa pergi melainkan karena tidak ada alasan untuk pergi. Air seam. Air yang disimpan tanah untuk tanah sendiri, di tempat yang tidak pernah dipetakan karena tidak ada yang perlu dipetakan: tidak ada jalur di sana, tidak ada hasil panen di sana, tidak ada apa-apa di sana kecuali tanah yang menyimpan dan air yang disimpan.
+Kovan tidak segera menjawab. Ia menempelkan punggung tangan ke batu kiri, lalu kanan. "Keduanya. Peta mencatat tempat orang terakhir menggambar. Udara mencatat tempat lorong berubah. Perubahan dimulai di sini; rute tak tercatat dimulai dua puluh tiga langkah lagi. Kalau kita menyamakan keduanya, laporan pulang akan bohong."
 
-"Di sini," kata kurator, dan suaranya di dalam gelap itu terdengar seperti suara orang yang membuka daftar di depan pintu rumahnya sebelum mengetuk — kebiasaan yang tidak pernah ia lepas sejak palu panggilan Lorong B. "Di sini tempatnya. Dan ia bukan keheningan. Ia menyimpan." Ia berlutut, dan mereka mendengar gesekan kotaknya terbuka, dan ketika bejana itu diangkat keluar, telapak tangannya yang membawanya terasa dingin dengan dingin yang tidak berasal dari bejana — dingin yang berasal dari udara di sekelilingnya, udara yang mulai bergerak untuk pertama kalinya sejak mereka melewati nat atas, pelan, sekali, seperti tarikan napas pertama orang yang tidur sangat lama dan baru saja mendengar namanya dipanggil dari jarak yang tidak dekat.
+Ashvarok-Renn memandang nyala yang tak bergoyang. "Tandai perubahan udara di peta. Penanda Resgar baru dipasang setelah garis tinta habis. Kita tidak mengubah fungsi alat karena tanah berubah lebih awal dari perkiraan."
 
-Dan di tempat itu, di bawah ujung peta, di dalam gelap yang tidak pernah diterangi apa pun sejak dunia berhenti turun ke sana, kurator membuka daftarnya — tanpa lentera, dengan jari yang membaca baris yang sudah ia hafal seperti semua orang menghafal hal yang akan mereka bacakan dengan suara keras di depan penerima yang sudah menunggu bertahun-tahun — dan ia membacakan entri itu dengan suara yang keras dan jujur, sesuai aturan meja dapur: nama irama yang dicabut, asal seamnya yang tidak pernah dipetakan, tanggal pencabutannya yang tidak pernah tercatat karena tidak ada yang mencatat, dan satu kalimat penutup yang ia tambahkan sendiri di bawah daftar resmi, dengan tangannya sendiri, pada malam ketika entri itu ditulis: *dicabut dari tempat yang tidak pernah disapa sejak. dikembalikan oleh orang-orang yang tidak pernah kenal pencabutnya. tidak ada yang menagih. tidak ada yang menunggu penggantian. hanya tanah yang harus menerima kembali apa yang pernah diambil darinya, dan tanah tidak pernah belajar menolak.*
+Brannoc mengangguk. "Bagus. Satu perubahan, dua catatan. Kalau orang sesudah kita turun, mereka tahu kapan harus waspada dan kapan harus mulai menghitung jalan pulang."
 
-Kemudian ia memutar bejana itu — satu putaran, penuh, tanpa tergesa — dan di bawah ujung peta, untuk pertama kalinya sejak dunia berhenti turun ke sana, ada suara.
+Kovan menulis sambil berdiri: *udara berhenti dua puluh tiga langkah sebelum tinta*. Kalimat itu menjadi batas pertama yang sungguh-sungguh mereka buat sendiri.
+
+Di ujung dua puluh tiga langkah, garis kapur lama pada dinding berakhir. Bukan terhapus. Seseorang dahulu sengaja menariknya makin tipis sampai goresan terakhir hanya sepanjang kuku, lalu berhenti. Di bawahnya, nat menurun ke gelap yang menelan cahaya lentera sebelum cahaya itu sempat menemukan dasar.
+
+Mereka duduk.
+
+Aturan itu lebih tua daripada barak: tempat pertama yang tidak dipetakan harus diduduki sebelum dilangkahi. Batu terasa dingin menembus kain. Dari bawah datang bau garam basah, logam lama, dan sesuatu yang bersih seperti air yang belum pernah menyentuh ember. Mereka membiarkan napas kembali teratur dan mendengarkan.
+
+Kesunyian di bawah sana tidak menunggu. Lorong biasa diam karena palu belum jatuh atau orang berikutnya belum berbicara. Diam ini tidak mengandung janji semacam itu. Ia utuh tanpa mereka.
+
+"Tempat ini sudah pernah dijangkau," kata Kovan. Ia mengusap tepi nat dengan ibu jari. Permukaannya rata, bukan pecahan runtuh. "Tangan yang menanam irama turun lewat sini. Mungkin duduk di batu yang sama."
+
+Kurator menyentuh simpul tali daftar di dadanya. "Kalau begitu kita bukan orang pertama yang datang. Kita orang pertama yang terlambat pulang."
+
+"Jangan tulis itu dulu," kata Brannoc.
+
+Kovan menahan pensil. "Kenapa?"
+
+"Karena itu kesimpulan, bukan rute. Tulis bahan yang kita pijak, kemiringan, dan udara. Kalau kita tidak kembali, orang di meja butuh jalan, bukan kalimat bagus."
+
+Kovan menggeser pensil ke baris baru. "Batu sambungan padat. Turun landai. Udara mati. Garam basah."
+
+"Dan aturan tanda?" tanya Brannoc.
+
+"Persis setiap sepuluh langkah," jawab Kovan. "Bukan sepuluh langkah nat yang kusukai, bukan setelah percabangan, bukan saat tanganku sempat. Langkah kesepuluh berhenti. Tanda dipasang pada bidang terdekat yang bisa menahan seam-bone. Jika bidangnya rapuh, orang kesepuluh tetap berdiri di tempat dan orang lain mencari bidang dalam jangkauan tangan. Hitungan berikutnya dimulai dari kaki yang berhenti, bukan dari penandanya."
+
+Brannoc mengeluarkan satu batang seam-bone berujung kapur. "Sekarang itu aturan yang bisa membawa orang naik."
+
+Mereka bangkit. Ashvarok-Renn melangkah lebih dulu melewati batas tinta.
+
+Kovan menghitung pelan agar semuanya mendengar. Pada langkah kesepuluh, Brannoc berkata, "Berhenti," tepat ketika angka terakhir keluar. Dinding kanan bersisik dan kapurnya runtuh saat disentuh. Kovan tetap menjaga ujung sepatunya pada tempat hitungan selesai, sementara Ashvarok-Renn meraba bidang di sebelah kiri.
+
+"Yang kiri menahan," katanya.
+
+Brannoc menyelipkan penanda pertama ke celah setinggi lutut. Ujung putihnya menghadap ke atas, arah datang mereka. Ia menggoyangnya sekali. Tidak lepas.
+
+"Kenapa seam-bone, bukan besi?" tanya kurator.
+
+Resgar sudah menjelaskannya di meja, tetapi Brannoc menjawab lagi karena alasan yang diucapkan di tempat pemakaian menjadi bagian dari pemakaian. "Besi bisa menyanyikan gema yang bukan milik lorong. Seam-bone diam sampai disentuh, kapur bisa dibaca jari kalau lentera mati. Bahan ini tidak memanggil apa pun dan tidak berpura-pura menjadi bagian dinding."
+
+Kovan menggores angka satu di bukunya. "Kalau air menjilat kapur?"
+
+"Kita baca ukirannya. Kalau ukirannya aus?"
+
+"Kita baca arah batangnya. Kalau batangnya hilang?"
+
+Ashvarok-Renn menjawab, "Kita balik pada hitungan terakhir yang masih jujur. Tidak menebak maju."
+
+Kurator merapatkan tali kotaknya. "Tiga cara membaca satu bahan. Cukup untuk jalan pulang."
+
+Mereka meneruskan turun.
+
+Setiap sepuluh langkah, hitungan berhenti. Setiap berhenti, satu penanda dipasang. Penanda kedua masuk ke sambungan datar yang berbau tanah liat. Penanda ketiga harus diletakkan lebih rendah karena dinding setinggi pinggang mengelupas seperti kulit lama. Pada penanda keempat, lorong menyempit dan kotak bejana menggesek batu; bunyinya pendek, kering, lalu mati tanpa gema.
+
+Kovan mengangkat kepala. "Bunyinya tidak kembali."
+
+"Dindingnya masih ada," kata Brannoc.
+
+"Tapi ruang di depan lebih besar daripada yang bisa dibaca lentera," jawab Kovan. "Atau bahannya menelan pantulan. Dua kemungkinan."
+
+Ashvarok-Renn menempelkan telapak ke lantai. Batu menyimpan dingin yang rata. "Bukan bahan penyerap. Lorong membuka."
+
+"Kiri atau lurus?" Brannoc bertanya.
+
+Di depan, nat terbelah. Cabang lurus menurun tajam dan mengembuskan bau mineral pahit. Cabang kiri hampir datar, namun batu di sisinya sedikit lebih hangat. Kovan mengangkat lempeng, lalu menurunkannya lagi; lempeng tidak menangkap gema yang bisa dipercaya.
+
+"Peta selesai," katanya. "Alatku juga. Kalau kita memilih kiri, dasarnya apa?"
+
+Ashvarok-Renn meletakkan satu tangan pada masing-masing dinding. "Yang lurus menuju rongga kering. Yang kiri mengikuti batu yang menyimpan air. Bejana ini membawa pulang irama air seam."
+
+Brannoc tidak bergerak. "Mengenali hangat tidak sama dengan mengenali jalan."
+
+"Benar."
+
+"Kalau kiri buntu, kita kehilangan waktu sebelum jam sebelas."
+
+"Benar juga."
+
+Kovan memandang kedua cabang, kemudian ujung kapur penanda keempat. "Kita tidak perlu menjadikan pilihan sebagai kebenaran. Catat percabangan sebagai perubahan rute. Letakkan tanda tambahan tanpa mengubah interval?"
+
+"Tidak," kata Brannoc. "Tanda tambahan akan membuat orang pulang menghitung sebelas tanda sebagai sebelas kali sepuluh langkah. Kita punya kapur di dinding untuk pilihan, seam-bone untuk jarak. Fungsi bahan jangan dicampur."
+
+Kurator mengeluarkan keping kapur biasa dari kotak depan. "Satu garis di mulut kiri, dua di cabang yang tidak dipilih. Daftar pemulangan memakai tanda serupa: satu untuk dibaca, dua untuk ditunda. Tidak ada makna baru."
+
+Ashvarok-Renn menatapnya. "Dan saat naik?"
+
+"Kita hapus garis satu setelah semua lewat. Garis dua tetap sebagai kesaksian bahwa rute itu belum dibaca, bukan bahwa ia berbahaya."
+
+Brannoc menerima kapur itu. "Lakukan. Kita ambil kiri sampai satu interval berikutnya. Kalau hangat hilang, kembali ke sini tanpa memperdebatkan harga waktu."
+
+Itu keputusan mereka: bukan percaya penuh pada tubuh Ashvarok-Renn, bukan menolak ingatannya, melainkan memberi ingatan itu sepuluh langkah untuk membuktikan arah.
+
+Di langkah ketujuh, lantai menjadi lebih hangat. Pada langkah kesepuluh, Kovan berlutut dan menempelkan buku jarinya ke batu. Ada denyut tipis, terlalu lambat untuk disebut getar alat.
+
+"Air di bawah," katanya.
+
+Brannoc memasang penanda kelima. "Maka rute kiri bertahan satu interval. Hitung lagi."
+
+Gelap makin tebal setelah itu. Lentera masih menyala, tetapi cahayanya tak lagi mencapai batas lorong. Batu hanya muncul dalam potongan kecil: permukaan pucat, garis garam, kilap basah, lalu lenyap di belakang. Keringat mendingin di punggung mereka, sementara telapak yang menyentuh dinding menangkap hangat samar dari dalam.
+
+Penanda keenam. Ketujuh. Kedelapan.
+
+Di antara kedelapan dan kesembilan, kurator meminta berhenti sebelum angka sepuluh.
+
+"Tali kotak berubah," katanya.
+
+Brannoc menoleh. "Putus?"
+
+"Tidak. Lebih longgar. Udara di dalam kotak menghangat, atau bejananya bergerak."
+
+Kovan baru sampai hitungan enam. Ia mempertahankan satu kaki di depan, satu di belakang. "Kita berhenti karena bahan berubah, bukan karena interval selesai. Hitungan tetap enam."
+
+Ashvarok-Renn meraba kotak tanpa membukanya. Dari balik kayu datang dingin yang tajam, bertentangan dengan hangat dinding. "Bejana tidak bergerak. Tali memanjang karena lembap. Kencangkan satu lubang. Jangan buka kotak di jalur."
+
+Kurator menarik gesper. "Kalau terlalu kencang, kayunya menekan bejana."
+
+"Satu lubang saja," kata Brannoc. "Lalu kau sebutkan perubahan saat kita pulang. Rute bahan juga rute keselamatan."
+
+"Satu lubang," ulang kurator. Setelah simpul terkunci, ia menepuk kotak sekali. "Beban tetap di tengah."
+
+Kovan mengangkat kakinya yang tertahan. "Hitungan lanjut dari enam. Tujuh."
+
+Pada sepuluh, penanda kesembilan ditanam. Tidak ada angka yang hilang hanya karena mereka berhenti untuk merawat benda yang dibawa.
+
+Beberapa saat kemudian Brannoc memberi tahu waktu. "Jam sembilan di atas. Jam sebelas aku bicara lagi. Tengah malam kita naik, dengan atau tanpa penanaman."
+
+Kovan menutup buku agar lembap tidak masuk ke punggung halamannya. "Kalau pada jam sebelas kita sudah mendengar tempatnya?"
+
+"Kita nilai berapa langkah tersisa dan berapa lama pekerjaan."
+
+"Kalau tanah mulai menjawab saat tengah malam?"
+
+Brannoc menatapnya dalam cahaya kecil. "Aku tidak menawar angka karena hal menarik terjadi. Kalau jawaban belum selesai, kita bawa bejana naik dan turun lagi dengan jadwal baru. Tanah menunggu lebih lama daripada kita hidup. Ia bisa menunggu satu hari tanpa menjadikan empat orang bagian dari simpanannya."
+
+Kurator berkata, "Dan kalau membuka bejana adalah hal yang membuat jawaban mulai?"
+
+"Kau tidak membukanya sebelum kita sepakat masih punya waktu untuk menutup pekerjaan. Daftar tidak memerintah jam."
+
+Kurator menahan pandangannya sesaat, lalu mengangguk. "Maka pada jam sebelas, keputusan milik empat orang. Bukan milik daftar, bukan milik orang yang paling ingin selesai."
+
+"Itu yang kubutuhkan," kata Brannoc.
+
+Penanda kesepuluh dipasang pada dinding yang licin oleh garam. Penanda kesebelas masih ada di saku Brannoc. Mereka belum menganggapnya kegagalan atau izin untuk terus turun; ia hanya sisa jarak yang belum diminta tanah.
+
+Pada langkah ketiga setelah penanda kesepuluh, Ashvarok-Renn berhenti.
+
+"Ada," katanya.
+
+Brannoc tidak bertanya apa. Ia memadamkan lentera.
+
+Gelap menutup mereka tanpa peralihan. Mata tak lagi berguna. Yang tersisa hanya telapak, tulang, telinga, bau minyak pada sumbu yang baru mati, dan rasa garam di bibir. Ashvarok-Renn menyentuh dinding kiri. Hangatnya kecil, mantap, bukan sisa panas lentera atau tubuh. Ia menunggu sampai denyut di tangannya sendiri terpisah dari apa yang ada di batu.
+
+Air.
+
+Bukan aliran. Air yang berdiri di dalam seam mengirim getar sangat pelan melalui batu, tiga denyut panjang yang hampir tenggelam oleh napas mereka sendiri. Tempat itu tidak kosong. Ia menyimpan.
+
+"Tiga langkah di luar tanda terakhir," kata Kovan dalam gelap. "Kucatat tanpa memasang bahan. Penanda tetap setiap sepuluh langkah."
+
+"Catat juga bidang hangat di kiri," kata Ashvarok-Renn. "Itu pusat terdekat."
+
+Kurator berlutut. Gespernya berbunyi sekali ketika kotak diturunkan. "Di sini tempatnya," katanya. "Bukan karena daftar menunjuk ke sini. Karena tanah masih membawa bentuk iramanya meski suaranya dicabut."
+
+"Berapa lama pembacaan dan putaran?" tanya Brannoc.
+
+"Pembacaan satu menit. Putaran tidak bisa kupastikan."
+
+"Jam kita?"
+
+"Masih sebelum sebelas," kata Kovan. "Cukup untuk memulai dan tetap mendengar perintah naik."
+
+Brannoc meletakkan telapak pada bahu kurator, lalu melepaskannya. "Baca. Kalau jam sebelas datang, aku bicara. Kalau suaranya sedang berjalan, kita dengar sampai ia memberi tempat untuk keputusan. Tidak lebih."
+
+Kurator membuka daftar. Tanpa cahaya, jarinya menemukan serat halaman dan baris yang sudah ia hafal. Ia membacakan entri itu dengan suara keras: irama air seam yang dicabut, asalnya di bawah ujung peta, tanggal yang tidak pernah dicatat, dan ketiadaan alamat yang membuatnya disimpan terlalu lama. Lalu ia membaca tambahan dengan tangannya sendiri: "Dicabut dari tempat yang tidak pernah diberi kesempatan mengatakan bahwa ia kehilangan. Dikembalikan bukan karena kami memilikinya, melainkan karena kami akhirnya menemukan jalan untuk tidak memilikinya."
+
+Tak seorang pun menyela.
+
+Palu panggilan dikeluarkan. Tiga ketukan, satu jeda. Bunyi itu tidak memantul. Ia pergi lurus ke depan dan habis di ruang yang tak bisa diukur lentera.
+
+Kurator membuka kotak. Dingin bejana menyentuh kulit mereka seperti udara dari sumur. Ia memegangnya dengan dua tangan, menunggu sampai tali, kayu, dan daftar berhenti berbunyi. Kemudian ia memutar bejana satu putaran penuh, pelan dan rata.
+
+Di bawah tempat peta berhenti, untuk pertama kalinya sejak dunia berhenti turun ke sana, ada suara.

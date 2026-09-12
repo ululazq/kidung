@@ -5,17 +5,17 @@ chapter: 208
 
 Anak Pak Dekan pulang ke Caldrest untuk pertama kalinya sejak pemulihannya — bukan sebagai tamu, tetapi sebagai PEGAWAI: jabatan baru yang diciptakan untuknya di the Veyl Akademie atas usulan Kovan dan disetujui balai kota dalam waktu rekor (tiga hari; catatan sebelumnya dua pekan, dan Hale menolak mencatat alasannya karena "alasannya akan membuat semua keputusan lama terlihat memalukan").
 
-Sebelum rapat pelantikan, ada satu hal yang harus dilakukan dulu, dan dilakukan Kovan sendirian: mengantar anak muda itu berjalan keliling akademi, memperkenalkan ruangan demi ruangan, jam kerja demi jam kerja — cara orang memperkenalkan seseorang pada dunia yang delapan belas tahun tidak ia temui. Anak itu bertanya satu pertanyaan di setiap ruangan, dan pertanyaannya selalu sama: "di sini... hitungannya bagaimana?"
+Sebelum rapat pelantikan, Kovan mengantar anak muda itu berkeliling akademi, memperkenalkan ruangan demi ruangan, jam kerja demi jam kerja. Anak itu berhenti di setiap ambang, memeriksa papan, meja, dan alat ukur, lalu mengajukan pertanyaan yang sama: "Di sini... hitungannya bagaimana?"
 
 "Pertanyaan bagus," kata Kovan tiap kali. "Itu pertanyaan pegawai."
 
-"Pasangan hitung," kata Kovan menjelaskan kepada rapat akademi, dengan anak muda itu berdiri di sisinya — masih pemalu, masih bicara pelan seperti orang yang delapan belas tahun hanya punya satu lawan bicara, tetapi matanya sudah lain: ada orang di dalam sana sekarang. "Delapan bulan terakhir aku belajar bahwa menghitung sendirian itu setengah pekerjaan. Nat-nat tua yang belum terbaca butuh DUA pendengar: satu dari jalur telapak, satu dari untaian Listen, saling memeriksa." Ia menepuk bahu anak itu. "Dia membaca telapak lebih baik dariku. Aku membaca Listen lebih baik darinya. Maka kita jadi satu alat ukur."
+"Pasangan hitung," kata Kovan kepada rapat akademi, dengan anak muda itu berdiri di sisinya — masih bicara pelan setelah delapan belas tahun hanya punya satu lawan bicara, tetapi kini ia menunggu Kovan selesai, lalu menyambung tanpa perlu diminta. "Delapan bulan terakhir aku belajar bahwa menghitung sendirian itu setengah pekerjaan. Nat-nat tua yang belum terbaca butuh DUA pendengar: satu dari jalur telapak, satu dari untaian Listen, saling memeriksa." Ia menepuk bahu anak itu. "Dia membaca telapak lebih baik dariku. Aku membaca Listen lebih baik darinya. Maka kita jadi satu alat ukur."
 
 "Kenapa harus dua?" tanya Harn dari barisan murid.
 
 "Karena satu pendengar bisa salah dan tidak pernah tahu dia salah," kata anak Pak Dekan — kalimat pertamanya di depan umum, dan seluruh ruangan diam mendengarnya. "Di dalam sana dulu... aku hitung sendirian. Angka-angkaku benar terus, delapan belas tahun. Namun tidak ada yang memeriksa. Berarti tidak ada yang bilang angkaku penting." Ia menoleh ke Kovan. "Sekarang ada yang memeriksa."
 
-Rapat itu setuju dengan jabatan itu dalam waktu yang dibutuhkan orang untuk mengusap mata.
+Ketika Sela meminta keputusan, tidak ada satu tangan pun yang menolak jabatan itu.
 
 Sela, yang hadir sebagai pencatat arsip, menambahkan satu catatan prosedural yang kelak menjadi bagian kontrak kerja pasangan hitung di seluruh Karvess: "Satu syarat dari arsip: hasil pembacaan pasangan hitung dicatat DUA kolom — apa yang kedua pembaca sepakati, dan apa yang mereka tidak. Kolom ketiga itu bukan kegagalan. Itu daftar pertanyaan pekan depan." Kovan menatap gadis dua belas tahun itu dan berkata pada ruangan: "Ini kenapa jabatan Kepala Arsip jangan direbut. Dia sudah lebih pintar dari sistemnya."
 
@@ -23,7 +23,18 @@ Sela, yang hadir sebagai pencatat arsip, menambahkan satu catatan prosedural yan
 
 Pasangan hitung pertama dalam sejarah akademi mulai bekerja pekan itu — dan metodenya sendiri sudah menjadi pelajaran: Kovan membuka untaian Listen seperlunya, anak Pak Dekan meletakkan telapaknya penuh, dan keduanya membaca nat yang sama secara serentak sambil bersuara — angka demi angka, kesan demi kesan — sampai kedua pembacaan bertemu atau bertabrakan. Bertemu berarti benar. Bertabrakan berarti ada sesuatu yang hanya bisa dilihat dari satu jalur, dan justru itulah yang paling berharga.
 
-Pekan pertama mereka dihabiskan untuk membaca ulang nat-nat yang sudah "selesai" — dan hasilnya memalukan sekaligus menggembirakan: tujuh dari dua puluh nat lama ternyata memiliki lapisan kedua yang terlewat pembaca tunggal. Satu nat pasar distrik tengah, yang selama ini dicatat sebagai "gema samar tak teridentifikasi", ternyata menyimpan suara pasar itu sendiri: ratusan tahun transaksi tawar-menawar, panggilan pedagang, tangis anak yang kehilangan ibunya di kerumunan lalu ditemukan lagi. Arsip keseharian sebuah pasar.
+Pekan pertama mereka dihabiskan untuk membaca ulang nat-nat yang sudah "selesai". Tujuh dari dua puluh nat lama ternyata memiliki lapisan kedua yang terlewat pembaca tunggal. Satu nat pasar distrik tengah, yang selama ini dicatat sebagai "gema samar tak teridentifikasi", ternyata menyimpan suara pasar itu sendiri: ratusan tahun transaksi tawar-menawar, panggilan pedagang, tangis anak yang kehilangan ibunya di kerumunan lalu ditemukan lagi. Arsip keseharian sebuah pasar.
+Perbedaan pertama muncul pada pembacaan pasar itu. Kovan mendengar panggilan pedagang terputus di tengah tawaran; anak Pak Dekan merasakan jejak langkah kecil berhenti pada titik yang sama.
+
+"Aku tidak dengar langkah," kata Kovan. "Hanya suara orang-orang mendadak menjauh."
+
+"Aku tidak dengar panggilan," jawab pasangannya. Telapaknya tetap di batu. "Namun semua telapak menghindari satu tempat. Ada sesuatu di tengahnya."
+
+Mereka tidak memilih salah satu. Kovan mengulang suara, anak Pak Dekan mengulang jarak, lalu keduanya menemukan bagian yang saling mengunci: kerumunan membuka jalan ketika anak yang tersesat itu ditemukan ibunya. Satu pembaca menangkap panggilan; satu lagi menangkap ruang yang memberi jalan.
+
+Sela menarik garis di antara dua kolom catatan mereka. "Ini bukan dua jawaban," katanya. "Ini satu kejadian yang terlalu besar untuk satu cara mendengar."
+
+Anak Pak Dekan membaca garis itu lama, lalu mengangguk. "Berarti kalau kami berbeda, jangan buru-buru cari siapa yang salah. Cari bagian yang belum dibawa pulang."
 
 "Peta Sela benar soal LOKASI semua," kata Kovan dalam rapat pekanannya, "tetapi kita salah soal ISI. Kami pikir nat itu botol berisi satu pesan. Ternyata dia buku tulis. Belum tentu sudah selesai ditulis."
 
@@ -60,7 +71,7 @@ Isi nat itu dibacakan untuk Barim selama dua malam berikutnya oleh pasangan hitu
 
 Kalimat keempat itu yang menghentikan pembacaan malam pertama selama waktu yang lama. Sela akhirnya menulis di kolom pertanyaan pekan depannya: "nat bisa MENOLAK pemberian? Atau nat menyimpan pemberian sebagai BENDA?" — dan tidak ada yang punya jawabannya sampai pekan berikutnya.
 
-Kalimat terakhir itu membuat Sareth Vayin — yang hadir sebagai pengawas protokol — menutup matanya. "Nat ini bukan hanya merekam," kata wanita tua itu. "Dia MEMAHAMI. Tiga ratus hari mengamati seorang penjaga tua sampai tahu kapan penjaga tua butuh tersesat." Ia membuka matanya lagi. "Kalian sadar tidak? Kedalaman belajar kasih sayang dari contoh manusia. Dan guru-gurunya adalah orang-orang biasa yang tidak pernah tahu mereka sedang mengajar."
+Kalimat terakhir itu membuat Sareth Vayin — yang hadir sebagai pengawas protokol — menutup matanya. "Nat ini bukan hanya merekam," kata wanita tua itu. "Ia tahu kapan penjaga tua itu butuh tersesat, lalu menyimpan jalannya sampai ia pulang." Ia membuka mata. "Tiga ratus hari memperhatikan satu orang. Itu bukan catatan kosong."
 
 Barim mendengarkan semuanya dengan tangan di mulut. Dan di akhir malam kedua ia berkata kepada pasangan hitung itu kalimat yang mereka tuliskan kata demi kata:
 
@@ -90,6 +101,3 @@ Satu hal lagi, yang kutulis di halaman terpisah supaya tidak tercampur catatan r
 
 Dua penghitung. Minum teh. Bercerita soal angka.
 
-Itulah gambaran dunia yang seribu tahun silam kuputuskan untuk dibakar namaku demi menjaganya. Ternyata bentuk aslinya sesederhana itu.
-
-Barim mulai proyek pribadinya: mendata semua bunyi malam Caldrest dan mengklasifikasikan mana yang perlu dicek dan mana yang boleh dibiarkan. Daftar itu tumbuh jadi empat halaman. Di bagian bawah ia menulis catatan kecil untuk penggantinya kelak: "pekerjaan ini tidak selesai. Itu bagian terbaiknya."

@@ -15,14 +15,58 @@ Ashvarok-Renn berlutut. Ia meletakkan kedua telapak tangannya di tanah — telap
 
 Dan putaran demi putaran, irama tanah itu memperbaiki dirinya sendiri. Salah di tempat yang sama sekali tidak lagi — dan pada putaran yang kesembilan, tanah mengucapkan irama itu utuh, dari awal sampai akhir, tanpa satu pun jeda yang salah, dan pada saat itu juga bejana di tangan kurator selesai putaran terakhirnya dengan sendirinya, seperti lonceng yang selesai dibunyikan, dan diam yang turun setelahnya bukan diam yang tidak menunggu lagi. Ia diam yang baru selesai disapa. Ia diam yang tahu bahwa ada suara di dunia, dan bahwa suara itu datang dari luar, dan bahwa tidak semua yang pergi tidak kembali.
 
-Mereka menanamkan bejana itu di tempat di mana ia dicabut — bukan dikubur: penanaman bukan penguburan, dan semua orang di barak itu sudah belajar bedanya dari bab-bab yang tidak mau diulang — melainkan diletakkan di lekukan tanah yang sudah menunggunya, di tempat yang telapak Ashvarok-Renn temukan hangat, dan tanah menutupinya bukan dengan tangan mereka melainkan dengan caranya sendiri: butiran-butiran kecil dari dinding seam yang longgar, jatuh pelan satu demi satu seperti orang yang menabur beras, sampai bejana itu tidak terlihat lagi dan hanya telapak yang masih bisa menemukannya, hangat, di balik tanah yang menyimpannya seperti tanah menyimpan air.
+Mereka menanamkan bejana itu di tempat ia dicabut, bukan menguburnya. Pada penanaman pertama, mereka telah menunggu napas seam naik sebelum memutar bejana; pada penanaman kedua, dua pembaca harus menyepakati detik yang sama; pada penanaman ketiga, suara dikembalikan dari dalam lorong yang dulu menahannya. Pengalaman itu mengajari mereka bahwa penanaman berarti mendengar cara tiap tanah menerima kepulangan. Kali ini bejana diletakkan di lekukan hangat yang ditemukan telapak Ashvarok-Renn. Tanah menutupinya dengan caranya sendiri: butiran kecil dari dinding seam yang longgar jatuh satu demi satu, sampai bejana tak terlihat dan hanya telapak masih dapat menemukan hangatnya di balik tanah yang menyimpan air.
 
 Sebelum menutup lekukan itu sepenuhnya, kurator melakukan satu hal terakhir yang tidak ada di daftar dan tidak ada di aturan meja dapur: ia mengeluarkan palu panggilan itu dari sakunya, dan mengetukkannya ke tanah di samping lekukan — tiga pukulan dan satu jeda, irama yang dulu artinya *saatnya bekerja* bagi ratusan telinga yang tidak ada lagi — dan ia berkata kepada tanah, dengan suara yang tidak diperuntukkan bagi siapa pun kecuali tanah itu sendiri: "Ini bukan panggilan shift. Ini panggilan yang lebih tua dari shift: kalau suatu hari ada yang turun kemari lagi — anak-anak kita, murid-murid sekolah, orang-orang yang belum lahir — maka palu ini akan terdengar oleh mereka dari ujung peta, dan mereka akan tahu bahwa tempat ini pernah didatangi orang, dan bahwa orang itu pulang dengan selamat, dan bahwa jalan pulangnya ditandai sebelas kali dengan kapur yang tidak luntur. Tidak ada yang terlalu dalam untuk disapa. Hanya ada tempat yang belum pernah diberi palu — dan tempat ini sudah diberi." Ia meletakkan palu itu kembali ke sakunya, dan menutup lekukan itu dengan telapak tangannya sampai tanah selesai menaburkan butiran-butirannya sendiri, dan tidak ada yang berkata apa-apa, karena yang selesai itu sudah selesai.
 
-Kovan membuka buku angkanya dan menulis di halaman penanaman, di dalam gelap, dengan jari yang menemukan garis-garis halamannya dari ingatan — karena penghitung yang baik bisa menulis tanpa cahaya, dan halaman-halaman penanaman adalah halaman yang paling perlu ditulis tanpa cahaya: *empat dari enam. suara keluar tanpa gema, karena tempat ini tidak punya dinding. tanah menjawab dengan getar, salah di tiga tempat pada putaran pertama, salah di satu tempat pada putaran ketiga, benar penuh pada putaran kesembilan. sembilan putaran untuk mengingat lagunya sendiri. aku tidak akan pernah menghitung waktu pemulihan dengan cara yang sama lagi. ada angka yang tidak mengukur kesabaran benda. ia mengukur kesabaran tanah — dan itu angka yang lebih besar dari semua angka yang pernah kutulis.*
+Kovan membuka buku angkanya di dalam gelap. Jarinya menemukan garis halaman penanaman dari ingatan, tetapi ujung penanya berhenti sebelum menyentuh kertas. "Tiga kesalahan pada jawaban pertama," katanya. "Satu pada putaran ketiga. Utuh pada putaran kesembilan. Aku bisa menulis itu."
 
-Dan ketika mereka akhirnya berbicara lagi — setelah tanah selesai, setelah bejana selesai, setelah diam yang baru itu diberi waktu yang pantas untuk menyelesaikan dirinya — yang bicara pertama bukan Ashvarok-Renn dan bukan kurator, melainkan Brannoc, dengan suara yang tidak naik dan tidak turun, suara mandor yang sudah menghitung ribuan orang dan tidak pernah salah menghitung: "Jam sebelas." Ia berhenti, dan menambahkan, dan kalimat tambahannya itu adalah kalimat yang akan dibaca ulang oleh semua orang yang kelak membaca laporan malam ini: "Aku sudah bilang angkanya tidak bisa ditawar. Aku tidak bilang angkanya tidak bisa ditunggu. Kita mulai naik sekarang — dan kita naik dengan cara yang sama seperti kita turun: sepuluh langkah, satu tanda, dan tidak ada yang menoleh ke belakang kecuali untuk membaca kapur penanda terakhir, yang menghadap ke dalam gelap, bukan ke arah kita, karena jalan pulang tidak perlu ditandai untuk pulang. Ia ditandai untuk orang yang akan datang kemari lain kali."
+"Tulis," kata kurator.
 
-Mereka mulai naik pada jam sebelas, dengan cara yang sama seperti mereka turun: sepuluh langkah, satu tanda, tidak ada yang menoleh kecuali untuk membaca kapur. Naik itu lebih berat daripada turun, dan bukan karena kaki — kaki tidak tahu bedanya naik dan turun di tangga yang sama; yang tahu bedanya adalah sesuatu yang lebih tua dari kaki, sesuatu yang menyadari bahwa ia sedang meninggalkan tempat yang baru saja selesai disapa, dan meninggalkan tempat yang sudah disapa adalah pekerjaan yang tidak ada di daftar keterampilan mana pun. Di penanda kelima, gelap mulai menipis di tepi-tepinya, seperti malam yang makin tua; di penanda ketujuh, udara mulai bergerak lagi, dan gerakannya bercerita tentang pintu-pintu yang terbuka di jauh di atas, dan Kovan menghitung langkah dari belakang, membaca jalan pulang dari jumlah langkahnya seperti orang membaca kalimat dari akhirnya; dan di penanda kesepuluh — penanda terakhir, di nat atas tempat mereka duduk sebelum turun — kapurnya menghadap ke dalam gelap, ke arah yang mereka tinggalkan, bukan ke arah yang mereka tuju, persis seperti janji tukangnya.
+"Kalau kutulis sembilan putaran untuk pulih, orang akan membacanya sebagai ukuran. Penanaman berikutnya akan ditunggu sembilan putaran, lalu dianggap gagal pada putaran kesepuluh."
+
+Kurator meraba tepi daftarnya. Kertas itu berdesir, kering dan kecil di tengah gelap yang luas. "Laporanku dulu mengubah suara menjadi barang karena hanya barang yang bisa masuk kolom. Jangan lakukan hal yang sama kepada kesabaran tanah."
+
+"Lalu apa yang masuk halaman?"
+
+"Yang kau saksikan. Bukan batas yang kau ciptakan dari kesaksian itu."
+
+Pena Kovan bergerak. Goresannya terdengar di antara getar terakhir yang masih tinggal di tulang kaki mereka. "Empat dari enam. Suara keluar tanpa gema karena tempat ini tidak punya dinding. Tanah menjawab dengan getar: salah di tiga tempat pada jawaban pertama, salah di satu tempat pada putaran ketiga, utuh pada putaran kesembilan." Ia berhenti. "Dan sisanya?"
+
+"Katakan kepadaku dulu. Kalau terdengar seperti perintah, jangan tulis."
+
+Kovan menahan buku dengan ibu jarinya. "Sembilan bukan waktu yang dibutuhkan semua tanah untuk mengingat. Sembilan adalah waktu yang dibutuhkan tanah ini, malam ini, untuk mengingat lagunya sendiri."
+
+"Itu laporan," kata kurator. "Sekarang tulis namamu sebagai saksi, bukan sebagai pemilik angka."
+
+Kovan menambahkan kalimat itu dan membubuhkan namanya di bawahnya. Angka sembilan tetap ada, tetapi tidak lagi berdiri seperti pagar.
+
+Setelah tanah selesai, setelah bejana selesai, setelah diam yang baru diberi waktu untuk menetap, Brannoc berkata, "Jam sebelas. Naik sekarang. Sepuluh langkah, satu tanda."
+
+Ashvarok-Renn belum mengangkat telapak dari tanah. "Beri satu putaran lagi."
+
+"Putaran bejana sudah habis."
+
+"Bukan untuk bejana." Getar terakhir bergerak di bawah tangan Ashvarok-Renn, lebih lemah daripada sebelumnya tetapi tetap utuh. "Tanah baru belajar jawaban ini. Langkah pertama kita akan menjadi suara pertama setelahnya."
+
+Brannoc mengunyah ujung akar pahitnya sekali. "Tengah malam batas atas. Jalan pulang punya sepuluh tanda."
+
+"Dan satu orang yang berjalan paling lambat," kata Ashvarok-Renn. "Kalau kita berangkat sekarang, kita sampai sebelum batas. Kalau kita menunggu satu putaran, kita juga sampai sebelum batas."
+
+"Kau menjamin hitungannya?"
+
+Ashvarok-Renn akhirnya mengangkat tangan. Tanah di bawah telapaknya masih hangat. "Aku menjamin langkahku. Hitungan tetap milik Kovan."
+
+"Sepuluh penanda sampai nat atas," kata Kovan. "Dengan laju turun dibaca dari belakang, kita punya satu putaran dan masih tiba sebelum jam dua belas. Tanpa berlari."
+
+Brannoc menunggu irama tanah mengulang dirinya sekali lagi. Tiga denyut panjang, jeda, dua pendek. Tidak ada kesalahan. Ketika diam berikutnya turun, bahu kanannya merendah sedikit, bekas patah yang selalu mendahului keputusan kerja. "Cukup. Naik. Tidak ada yang menoleh selain untuk membaca kapur. Penanda terakhir menghadap ke dalam gelap, bukan ke arah kita. Jalan pulang ditandai untuk orang yang datang berikutnya."
+
+Ashvarok-Renn berdiri. "Aku di belakang sampai nat pertama."
+
+"Di depan setelah nat pertama," kata Brannoc. "Orang yang bisa membaca tanah memimpin di lorong yang dipetakan. Mandor menutup barisan di tempat yang belum punya nama."
+
+Mereka bangkit pada jam sebelas lewat satu putaran, dan keputusan itu menjadi milik dua orang: satu menjaga batas, satu memastikan tempat yang ditinggalkan tidak diputus di tengah jawabannya.
+
+Mereka mulai naik pada jam sebelas lewat satu putaran, dengan cara yang sama seperti mereka turun: sepuluh langkah, satu tanda, tidak ada yang menoleh kecuali untuk membaca kapur. Naik itu lebih berat daripada turun, dan bukan karena kaki — kaki tidak tahu bedanya naik dan turun di tangga yang sama; yang tahu bedanya adalah sesuatu yang lebih tua dari kaki, sesuatu yang menyadari bahwa ia sedang meninggalkan tempat yang baru saja selesai disapa, dan meninggalkan tempat yang sudah disapa adalah pekerjaan yang tidak ada di daftar keterampilan mana pun. Di penanda kelima, gelap mulai menipis di tepi-tepinya, seperti malam yang makin tua; di penanda ketujuh, udara mulai bergerak lagi, dan gerakannya bercerita tentang pintu-pintu yang terbuka di jauh di atas, dan Kovan menghitung langkah dari belakang, membaca jalan pulang dari jumlah langkahnya seperti orang membaca kalimat dari akhirnya; dan di penanda kesepuluh — penanda terakhir, di nat atas tempat mereka duduk sebelum turun — kapurnya menghadap ke dalam gelap, ke arah yang mereka tinggalkan, bukan ke arah yang mereka tuju, persis seperti janji tukangnya.
 
 Di nat itu, sebelum melangkah kembali ke dalam lorong yang dipetakan, Brannoc menyalakan kembali lenteranya — dan cahaya yang kecil itu terlihat seperti kejutan, seperti suara yang terlalu keras, seperti kembalinya dunia yang sudah terlalu lama tidak dibutuhkan — dan empat orang itu duduk sebentar di tepi nat, tidak karena lelah, melainkan karena ada hal yang perlu diselesaikan sebelum kembali menjadi orang-orang yang punya nama: Kovan menutup halaman penanaman itu dan menahannya di pangkuannya tanpa menutup bukunya, karena halaman itu harus kering dari lembab kedalaman sebelum dipindahkan ke lemari; kurator meletakkan daftarnya di lutut dan tidak membacanya, karena daftar itu kini berisi satu entri yang sudah selesai dan entri selesai tidak dibaca ulang di tempatnya; dan Ashvarok-Renn meletakkan telapak tangannya sekali lagi ke tanah nat itu, telapak penuh, dan tanah itu diam — tetapi diamnya sekarang adalah diam yang lain dari diam yang mereka temui malam ini di nat yang sama. Ia diam yang menunggu. Bukan menunggu mereka — pekerjaan mereka di sini sudah selesai — melainkan menunggu shift berikutnya, dan sekarang ia tahu bahwa shift berikutnya akan datang, karena shift berikutnya selalu datang; itu yang dulu ia lupakan, dan itulah yang kini ia ingat lagi.

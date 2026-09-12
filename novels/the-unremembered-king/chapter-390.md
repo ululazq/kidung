@@ -3,40 +3,194 @@ title: "Bab 390: Palu yang Menyapa Lagi"
 chapter: 390
 ---
 
-Mereka turun pada jam dua belas, dan jam dua belas di bawah tanah tidak seperti jam dua belas di atas: di atas, jam itu adalah angka di dinding; di bawah, jam itu adalah warna gelap yang berbeda dari gelap yang lain — gelap yang tidak lagi berupa sisa, melainkan gelap yang sudah menyelesaikan dirinya, gelap yang tidak menunggu apa pun lagi. Barak turun berlima: Ashvarok-Renn di depan, karena tubuhnya mengenali lorong itu seperti lidah mengenali giginya sendiri; Brannoc dengan lentera dan daftar jadwal yang tidak pernah ia terlambatkan satu menit pun; Kovan dengan lempeng-lempengnya; kurator dengan bejana palu panggilan di dalam kotak yang digendongnya seperti orang menggendong anak yang tidur; dan di paling belakang, berjalan dengan langkah yang diukur seperti orang yang mengukur jalannya sendiri, Ossian Vael — tanpa pengawal, tanpa kertas, dengan gembok kecil di sakunya dan tidak ada hal lain yang ia bawa.
+Pada jam dua belas, Ossian Vael memasukkan kunci ke gembok Lorong B dan gagal memutarnya.
 
-Di pintu Lorong B, ia berhenti, dan tidak menoleh kepada siapa pun, dan mengeluarkan gembok itu dari sakunya dengan dua tangan — karena benda yang dulu dipasang dengan tangan yang salah harus dilepas dengan tangan yang sama, dan semua orang yang bekerja di bawah tanah tahu hukum itu tanpa perlu diajarkan. Kuncinya sudah lama ada di saku yang sama. Ia memasukkannya, memutarnya sekali — dan gembok itu terbuka dengan bunyi yang tidak nyaring dan tidak pelan, bunyi logam yang sudah lama menunggu untuk membuka dirinya dan akhirnya mendapat izin.
+Bukan karena kuncinya salah. Batang besi itu sudah masuk sampai bahu, gerigi terakhir tepat pada tempatnya. Namun karat dan debu batu telah mengeras di dalam rumah kunci selama bertahun-tahun. Ketika Ossian menambah tenaga, logamnya mengerang pendek. Bunyi itu berlari sejengkal ke dalam lorong lalu mati.
 
-Ia menggantungkan gembok yang sudah terbuka itu di paku yang sama tempat ia memasangnya dulu, dan meninggalkannya di sana — tidak dibawa, tidak dibuang — karena gembok yang sudah selesai bekerja harus tinggal di tempat kerjanya, seperti semua pekerja yang sudah tua: bukan sebagai penjaga lagi, melainkan sebagai peringatan bahwa ada masa ketika pintu ini ditutup oleh orang yang tidak bertanya, dan bahwa masa itu tidak akan diulang oleh orang yang sama dua kali.
+Brannoc mengangkat lentera. Cahaya minyak jatuh pada tiga lubang di muka gembok, bekas gores pada daun pintu, dan jari Ossian yang memutih di gagang kunci. Udara bawah tanah terasa lebih dingin daripada malam di atas. Bau timah basah menempel di langit-langit rendah.
 
-Lorong B menerima mereka dengan cara yang tidak diduga siapa pun: dengan diam yang tidak kosong. Diam itu punya bentuk — bentuk lorong yang sudah lama tidak didengar siapa pun membiarkannya sendirian, dan yang sekarang, ketika lima pasang kaki berjalan di nat-nya lagi, mulai mengingat bahwa ia pernah punya pekerjaan. Kovan membaca lempengnya sambil berjalan, dan membaca hal yang membuatnya menulis di halaman penanaman tanpa berhenti berjalan: *nat lorong ini tidak mati. ia menahan dirinya sendiri. ia tidak mau berbunyi sebelum bunyi yang benar datang — dan ia tahu bunyi yang benar itu bukan langkah kami.*
+"Jangan paksa," kata kurator. Ia berdiri di sisi kotak kayu yang memuat bejana palu panggilan. "Kita datang untuk mengembalikan suara, bukan menambah bekas congkel."
 
-Di nat percabangan tengah, kurator meletakkan kotak itu di tanah, membukanya, dan mengangkat bejana palu panggilan itu dengan dua tangan — bejana yang diambil dari lantai tak bernama, yang di dalamnya terdengar palu yang memanggil pekerja dari empat arah lorong, tiga pukulan dan satu jeda, suara yang dulu artinya *saatnya bekerja* bagi ratusan telinga yang kini tidak ada lagi di lorong ini. Sebelum meletakkannya, ia membuka daftarnya sekali dan membacakan entri itu di tempatnya, seperti orang membacakan nama di depan pintu rumahnya sebelum mengetuk: "Palu panggilan. Lorong B. Irama diambil dari seam di bawah nat percabangan tengah." Kemudian ia menutup daftarnya dan berkata kepada lorong, bukan kepada orang-orang: "Kami tidak datang membawa palu itu untuk kalian. Kami datang membawanya pulang." Ia tidak memutarnya. Ia meletakkannya di nat, di tempat irama itu dicabut, tepat di lekukan yang sudah menunggunya, dan melangkah mundur satu langkah — karena pekerjaan selanjutnya bukan pekerjaan kurator.
+Ossian melepaskan kunci. "Dulu gembok ini dibuka setiap pergantian shift."
 
-"Ashvarok-Renn," kata murid kedua — yang datang dari selatan tanpa diumumkan dan sudah berdiri di lorong itu sebelum mereka tiba, seperti orang tua yang tiba lebih dulu di rumah anaknya tanpa memberi tahu, "putarlah. Tapi dengarkan dulu apa yang ia mau. Bejana ini bukan bejana dapur yang isinya makan malam. Bejana ini isinya adalah jam kerja. Ia tidak akan menyapa kalian sebagai tamu. Ia akan menyapa kalian sebagai shift — dan shift tidak peduli siapa yang datang menonton. Shift hanya tahu satu hal: bahwa kerja menunggu."
+"Dulu ada tangan yang merawatnya setiap pekan. Tangan itu tidak termasuk barang yang kau sisakan."
 
-Ashvarok-Renn berlutut di nat itu, meletakkan telapak tangannya di batu di samping lekukan, dan mendengar — bukan dengan telinga, melainkan dengan cara yang diajarkan oleh semua tahun di bawah tanah: dengan tulang. Tanah di bawah nat itu diam, tetapi diamnya bukan diam mati; diamnya adalah diam orang yang menahan napas di dalam ruangan yang gelap, menunggu suara yang ia tahu akan datang tetapi tidak tahu kapan. Ia memutar bejana itu — satu putaran, penuh, tanpa tergesa — dan yang keluar bukan gema dan bukan gema yang dijawab: yang keluar adalah palu.
+Kalimat tersebut tidak dinaikkan seperti tuduhan. Kurator mengucapkannya dengan ketepatan yang sama saat membacakan ukuran bejana atau tanggal pengambilan. Karena itu Ossian tidak punya celah untuk membantah. Ia mengusap serbuk karat dari ujung kunci ke lengan bajunya.
 
-Tiga pukulan. Satu jeda.
+Ashvarok-Renn berjongkok di depan pintu. Bocah itu tidak menyentuh gembok. Ia menempelkan dua jari pada pelat besi di bawahnya, mendengarkan sesuatu melalui logam, lalu berkata, "Angkat berat pintunya saat memutar. Engsel bawah sudah turun setengah ruas. Gemboknya menahan beban yang bukan pekerjaannya."
 
-Dan suara itu tidak berhenti di udara lorong seperti suara bejana lain yang pernah diputar di tempat-tempat lain. Suara itu turun ke nat, masuk ke tubuh lorong seperti air masuk ke saluran yang sudah lama kering, dan berjalan — ke empat arah sekaligus, ke percabangan utara, ke percabangan selatan, ke cabang yang tidak pernah diberi nama dan cabang yang namanya sudah dihapus dari peta — dan di setiap ujungnya, di tempat-tempat yang tidak bisa dilihat oleh lima orang yang berdiri di nat tengah itu, lorong-lorong yang sudah bertahun-tahun tidak disapa itu menerima sapaannya satu per satu, seperti orang-orang tua di rumah yang akhirnya mendengar namanya dipanggil lagi oleh suara yang mereka kira sudah lupa mereka.
+Brannoc menyelipkan bahu ke tepi pintu. Ossian memasukkan kunci lagi. Kali ini ia mengangkat gagang, menunggu Brannoc mengambil berat daun pintu, lalu memutar.
 
-Ossian Vael mendengarnya dari dalam — seperti yang ia minta, seperti yang dijanjikannya. Ia berdiri di tengah nat, di tempat yang paling dalam, dengan kedua kakinya di atas batu yang menerima suara itu lebih dulu daripada telinganya, dan suara itu naik ke tubuhnya dari bawah — dari telapak kakinya, dari tulang kakinya, dari tempat yang tidak bisa ditutup oleh gembok mana pun — dan ia mengerti, pada saat itu, hal yang tidak akan pernah bisa ia mengerti dari laporan mana pun: bahwa suara ini bukan suara yang ditahan. Suara ini adalah suara yang diculik dari tempat kerjanya, dan tempat kerjanya masih ingat suara itu, dan tempat kerjanya masih menunggu suara itu kembali seperti shift menunggu shift berikutnya.
+Satu takik. Dua. Tiga.
 
-Ia tidak jatuh berlutut. Ia tidak menangis. Ia tidak melakukan hal-hal yang dilakukan oleh orang-orang di cerita-cerita ketika mereka mendengar suara yang mengubah hidupnya. Ia cuma berdiri di sana, di dalam suara itu, sampai suaranya habis — dan selama suara itu berjalan di lorong-lorong yang tidak terlihat itu, ia menghitung, seperti semua orang yang pernah menghitung menghitung: empat arah, empat denyutan yang berjalan, satu untuk setiap arah — dan di denyutan yang ketiga, di arah yang paling dalam, denyutan itu berhenti lebih lama di satu tempat, seperti orang yang berhenti di satu pintu lebih lama dari pintu-pintu yang lain karena pintu itu lebih berat dibuka. Ia tidak bertanya di mana. Ia tahu. Setiap orang yang pernah menutup pintu tahu pintu mana yang paling berat dibuka lagi: pintu yang ditutup tanpa dilihat wajah orang yang di baliknya.
+Gembok terbuka.
 
-Dan ketika suara itu habis, dan diam datang lagi ke lorong itu, diam yang kali ini bukan diam yang menahan napas melainkan diam yang sudah selesai menunggu, ia berkata kepada lorong itu, dengan suara yang tidak ia pakai untuk bicara dengan manusia selama bertahun-tahun:
+Tak ada sorak. Kovan hanya mencatat jam pada lempengnya. Murid kedua, yang telah menunggu di sisi dalam lengkung batu tanpa menjelaskan dari mana ia masuk, memandang gembok di tangan Ossian seperti tukang melihat pekerjaan tua yang akhirnya selesai.
 
-"Aku yang menutupmu dulu. Aku yang mengambil palunya. Tidak ada pasal yang membuatku melakukannya — cuma ketakutan, dan ketakutan tidak pernah butuh pasal." Ia berhenti, dan menambahkan, dengan suara yang lebih kecil: "Maaf."
+Ossian hendak memasukkannya ke saku.
 
-Dan lorong itu menjawab.
+"Tinggalkan di pintu," kata kurator.
 
-Bukan dengan suara. Lorong-lorong tidak bicara — semua orang yang bekerja di bawah tanah tahu itu, dan orang yang mengklaim mendengar lorong bicara akan dikirim ke atas untuk istirahat lama. Yang menjawab adalah nat: satu getar kecil, pelan, dari bawah — bukan getar yang menakutkan, bukan getar yang meminta, melainkan getar yang artinya semua orang yang pernah bekerja di bawah tanah tahu artinya tanpa perlu diterjemahkan: getar yang artinya *diterima*.
+Tangannya berhenti. "Surat kalian meminta gembok dibuka oleh pemiliknya. Sudah."
 
-Kovan merekam semuanya. Tiga pukulan dan satu jeda, dicatat; waktu antara pukulan dan jeda, dicatat; getar nat, dicatat; dan di bawah semua angka itu, di halaman yang sama, ia menulis baris yang tidak ada angkanya sama sekali: *gembok dibuka oleh pemiliknya pada jam dua belas. palu menyapa lagi pada jam dua belas. lorong menjawab dengan getar yang artinya diterima. dan orang yang dulu menutup pintu ini berdiri di dalam suara itu sampai habis — dan ia mengucapkan kata yang tidak pernah ia ucapkan di depan siapa pun selama aku menghitungnya. aku tidak akan menuliskan katanya di laporan mana pun. tapi aku akan menuliskannya di sini, di halaman penanaman, karena halaman ini bukan laporan: maaf.*
+"Surat kami meminta satu malam. Bukan penghapusan bukti." Kurator menunjuk paku besi di kusen. "Kalau kau membawanya pulang, besok pintu ini tampak seolah tak pernah dikunci."
 
-Mereka naik pada jam satu, dan tidak ada yang bicara di tangga — karena tangga adalah tempat yang salah untuk bicara tentang hal yang terjadi di bawah; hal yang terjadi di bawah harus dibicarakan di meja, dengan sup, dan sup sudah di atas api sejak jam sebelas, karena ibu Tamma tahu jam berapa mereka akan naik tanpa diberi tahu, seperti semua orang yang sudah lama memberi makan orang-orang yang turun ke bawah tanah tahu kapan mereka naik: sebelum mereka lapar, bukan setelah.
+"Dan kalau kutinggalkan terbuka, siapa pun bisa memakainya lagi."
 
-Sebelum naik, Ossian melakukan satu hal terakhir di nat percabangan: ia mengeluarkan gembok kecil yang sudah terbuka itu dari sakunya — gembok yang ia tunjukkan di meja dapur, gembok pintu darurat yang tidak pernah dipakai — dan menggantungkannya di paku yang sama dengan gembok Lorong B yang sudah ia buka tadi, berdampingan, dua logam yang dulu menutup dan kini tinggal mengingatkan. "Kalau suatu hari ada orang yang turun ke sini dan bertanya kenapa gembok-gembok ini tergantung terbuka," katanya kepada Ashvarok-Renn, tanpa menoleh, "jawab saja: karena pemiliknya belajar membuka. Itu jawaban yang cukup. Jawaban yang lebih panjang dari itu biasanya cuma alasan yang dibungkus kata-kata."
+"Tidak tanpa kunci."
 
-Di atas, di meja dapur, pada jam satu pagi, lima orang duduk dan satu orang sudah duduk lebih dulu, dan sup didepankan, dan baru setelah semua mangkuk kosong, kurator membuka daftarnya dan menulis di sebelah entri ketiga satu kata yang tidak akan pernah tertulis di berkas mana pun di Karvess ini: *pulang.*
+Ossian menatap lubang hitam pada tubuh gembok. Ia pernah menyebut benda-benda semacam itu pengamanan sementara, pembatasan akses, kebutuhan operasi. Kata-kata tersebut selalu pulang bersih ke berkas. Gemboknya yang menanggung karat.
+
+Ia menggantungkannya pada paku dengan rahang terbuka.
+
+"Begitu?"
+
+Kurator mengamati pintu, bukan dirinya. "Begitu orang berikutnya tahu ada yang pernah menutup jalan ini. Dan tahu seseorang kemudian memilih membukanya. Dua fakta. Jangan simpan salah satunya."
+
+Mereka melewati pintu.
+
+Lorong B tidak menyambut mereka dengan gema langkah. Batu di bawah sepatu menyerap bunyi seolah nat-natnya masih memegang kebiasaan lama: diam sampai palu memanggil. Brannoc berjalan paling depan membawa lentera rendah. Ashvarok-Renn mengikuti pola nat di dinding. Kovan menghitung persimpangan dengan ketukan kuku pada tepi lempeng. Kurator dan Ossian mengapit kotak bejana. Murid kedua berada di belakang; sesekali ujung tongkatnya menyentuh batu, selalu di antara langkah, tak pernah menimpanya.
+
+Ossian mengenali lorong itu tanpa mengenali perjalanannya. Ia tahu angka lebar, jumlah cabang, beban maksimum penyangga. Ia pernah menyetujui peta yang mengubah cabang-cabang tersebut menjadi garis hitam, lalu menyetujui garis silang di atasnya. Namun turun di dalamnya berbeda dari membaca tinta. Punggungnya harus membungkuk di bawah balok ketiga. Telapak sepatunya tergelincir pada endapan air di belokan timur. Di cabang selatan, udara membawa sisa bau minyak kerja yang mestinya sudah lenyap bertahun-tahun lalu.
+
+Nat percabangan tengah berbentuk lingkaran kasar, empat jalur bertemu di sekeliling lekukan batu. Satu jalur tertutup gelap. Satu lagi dipasangi penyangga tua. Cabang yang menuju pintu terdalam terasa lebih dingin; Ossian mengenalinya dari tekanan udara pada giginya.
+
+Kurator menurunkan kotak. Sebelum membuka pengait, ia berkata, "Kita selesaikan syaratmu sekarang. Kau meminta mendengar dari dalam. Tunjukkan tempat yang kau maksud."
+
+Ossian berdiri di lekukan nat. "Di sini."
+
+"Ini tengah percabangan. Belum tentu dalam."
+
+"Suara akan masuk ke empat arah dari sini. Aku ingin berdiri sebelum ia memilih jalan."
+
+Kurator membuka daftar, tetapi belum membacanya. "Kemarin kau menerima posisi sebagai orang yang dulu mengambil. Posisi itu menentukan cara mendengar. Kalau kau berdiri di atas lekukan, tubuhmu akan menerima pukulan pertama. Itu bisa disebut pusat."
+
+"Aku tidak meminta pusat."
+
+"Lalu apa?"
+
+Ossian memandang empat mulut lorong. Selama bertahun-tahun ia duduk di ruangan tempat semua laporan datang kepadanya. Dari kursi itu, pusat dan dalam tampak sama. Di sini perbedaannya berbau batu basah dan minyak tengik.
+
+"Tempat yang tak memberiku jalan mundur dari suara," katanya. "Kalau berdiri di luar lingkaran, aku bisa menyebut gema itu lemah karena jarak. Kalau berdiri di cabang, aku bisa menyalahkan arahnya. Di sini aku tak punya perantara dan tak punya alasan."
+
+Kurator akhirnya mengangguk. "Tetap di sana sampai seluruh jeda selesai. Mendengar dari dalam bukan mengambil tempat paling dekat. Artinya kau tidak keluar ketika yang kaudengar berhenti menguntungkanmu."
+
+"Aku mengerti."
+
+"Belum. Itu gunanya malam ini."
+
+Ia membuka kotak.
+
+Bejana palu panggilan terbaring dalam kain kusam, logamnya lebih gelap daripada saat Ossian melihatnya di lantai tanpa nama. Kurator mengangkatnya dengan kedua tangan. Ashvarok-Renn membersihkan lekukan nat memakai kain kering, lalu memasang bejana hingga bibir dasarnya bertemu batu tanpa celah.
+
+Kurator membuka daftar pada entri ketiga dan membacanya keras-keras.
+
+"Palu panggilan. Lorong B. Irama diambil dari seam di bawah nat percabangan tengah. Tiga pukulan, satu jeda. Disimpan sebagai milik akun. Asal tidak didatangi. Izin tidak diminta."
+
+Suaranya jatuh ke empat cabang dengan panjang yang berbeda. Cabang utara mengembalikannya tipis. Selatan menelan akhir kalimat. Jalur berpintu berat menyimpan kata terakhir lebih lama.
+
+Kurator menutup daftar. "Entri sudah dibacakan di tempatnya."
+
+"Belum semuanya," kata Ossian.
+
+Mata kurator terangkat.
+
+"Bacakan nama tangan yang mengambilnya. Kalau aku harus mendengar dari dalam, jangan sisakan perantara pada daftar."
+
+"Nama itu tidak ada di entri."
+
+"Ada pada mandat."
+
+"Mandat bukan daftar pengembalian."
+
+"Malam ini mandatnya berdiri di atas nat."
+
+Kovan berhenti menulis. Brannoc tidak bergerak, tetapi cahaya lenteranya turun sedikit, menjauh dari wajah Ossian dan menerangi kedua tangannya. Kurator menimbang kalimat yang tak tercatat itu cukup lama hingga air menetes dua kali dari langit-langit.
+
+"Ossian Vael," katanya akhirnya. "Pemegang mandat yang membuat pengambilan mungkin, dan tangan yang menutup Lorong B sesudahnya. Hadir tanpa perantara."
+
+Ossian menerima namanya tanpa menunduk. "Sekarang lengkap."
+
+Murid kedua mengetukkan tongkat sekali ke batu. "Putar. Jam kerja tidak suka pidato yang melewati belnya."
+
+Ashvarok-Renn meletakkan telapak kiri pada nat. Dengan tangan kanan ia memutar bejana satu lingkaran penuh.
+
+Pukulan pertama masuk melalui telapak kaki Ossian.
+
+Pukulan kedua menyentak tulang keringnya.
+
+Pukulan ketiga memenuhi rongga dadanya.
+
+Lalu jeda.
+
+Bukan ketiadaan bunyi. Jeda itu bekerja. Irama turun ke seam dan membelah ke empat arah, melewati lekukan, dinding, penyangga, dan pintu-pintu yang tak terlihat dari percabangan. Ossian menghitung tanpa angka. Utara menjawab lebih dulu dengan denyut cepat. Selatan menyusul, lebih lunak. Cabang tanpa nama membawa getar tipis yang hampir hilang di bawah tumit kirinya. Arah keempat bergerak lambat menuju pintu paling berat.
+
+Di sana denyut berhenti.
+
+Ossian menunggu. Naluri lamanya segera mencari alasan: pintu terlalu tebal, seam rusak, tekanan berbeda, pembacaan perlu diulang. Tak satu pun sempat menjadi kata. Denyut itu menekan pintu sekali, bertahan, lalu melewatinya dengan getar yang membuat debu turun dari balok.
+
+Empat arah. Satu suara. Bertahun-tahun tersimpan di tempat lain sementara lorong ini tetap mengingat pekerjaan yang terputus.
+
+Jeda selesai.
+
+Tak seorang pun meminta Ossian bicara. Itu membuat diam berikutnya lebih berat daripada pertanyaan.
+
+Ia menatap cabang yang dulu ditutup atas namanya. "Aku yang menutupmu. Aku yang membiarkan palumu diambil, lalu menyebut kehilangan itu pengamanan." Suaranya serak oleh debu. Ia tidak membersihkannya. "Tidak ada pasal yang membuatku melakukannya. Cuma ketakutan. Ketakutan tidak pernah butuh pasal."
+
+Kata terakhir tinggal satu.
+
+"Maaf."
+
+Nat di bawah bejana bergetar.
+
+Getarnya kecil, jauh lebih kecil daripada tiga pukulan tadi. Namun semua orang di lingkaran merasakannya. Kovan menahan ujung tulisnya di atas lempeng. Brannoc memindahkan lentera agar nyalanya tidak menyentuh bejana. Murid kedua menutup mata. Ashvarok-Renn tetap bertelapak pada batu sampai getar itu habis.
+
+"Diterima," kata Kovan pelan.
+
+"Itu ukuran?" tanya kurator.
+
+"Bukan."
+
+"Maka jangan masukkan ke laporan ukuran."
+
+Kovan membalik lempeng ke halaman penanaman. Di sana ia menulis lebih lama daripada angka memerlukan waktu.
+
+Saat mereka kembali ke pintu Lorong B, gembok terbuka masih bergantung pada paku. Ossian berhenti di depannya dan mengeluarkan gembok kecil dari saku—gembok pintu darurat yang tiga hari lalu ia letakkan di antara mangkuk-mangkuk. Permukaannya lebih bersih, tetapi rahangnya kaku karena belum pernah dibuka sejak dipasang.
+
+Kurator melihat benda kedua itu. "Yang ini tidak menjaga Lorong B."
+
+"Ia menjaga pintu darurat yang tak pernah dipakai."
+
+"Kalau begitu mengapa ditinggal di sini?"
+
+Ossian memasukkan kunci kecil dan memutarnya. Bunyi kliknya nyaris sopan. "Karena dua gembok ini melakukan kesalahan yang berbeda. Yang besar menutup jalan orang. Yang kecil membuatku bisa berkata jalan lain masih tersedia, padahal tak seorang pun pernah diberi kuncinya."
+
+"Dua gembok bukan satu pengakuan," kata kurator. "Kalau kau menggantungnya bersama, orang kelak bisa mengira keduanya membuka pintu yang sama."
+
+Ossian menahan gembok kecil di telapak. "Lalu catat bedanya."
+
+"Daftar mencatat barang, bukan alasan."
+
+"Bukan di daftar. Di pintu."
+
+Ia mengambil serpih kapur dari lantai dan menulis dua baris kecil pada kusen, tepat di bawah paku: *jalan yang ditutup* dan *jalan keluar yang tak pernah diberikan*. Setelah itu ia menggantungkan gembok kecil di samping yang besar. Keduanya terbuka, rahangnya menghadap lorong.
+
+Kurator membaca dua baris tersebut. "Sekarang orang yang turun harus melihat keduanya sebelum masuk."
+
+"Bagus."
+
+"Itu bukan pengampunan."
+
+"Aku tidak meminta pintu mengampuniku. Aku meminta diriku tak bisa lagi berpura-pura hanya ada satu gembok."
+
+Kurator menutup daftar di dadanya. "Maka biarkan keduanya tergantung."
+
+Mereka naik. Di tangga, panas permukaan datang pelan-pelan: mula-mula pada wajah, lalu di sela pakaian, kemudian sebagai bau kaldu yang turun dari barak. Tak ada yang bicara. Jam satu lewat sedikit ketika mereka tiba di meja dapur. Ibu Tamma sudah menaruh tujuh mangkuk, termasuk satu bagi murid kedua yang memilih berdiri sampai semua orang lain duduk.
+
+Sup dimakan sampai habis. Baru sesudah sendok terakhir diletakkan, kurator membuka daftar pada entri ketiga. Kovan menyerahkan halaman penanaman, bukan laporan ukur. Kurator membaca catatan tentang empat arah, pintu terberat, kata yang diucapkan Ossian, dan getar kecil yang datang sesudahnya.
+
+Kemudian ia mencoret penanda penyimpanan di sebelah *Palu panggilan*. Tinta lama tetap tampak di bawah garis baru. Di ruang kosong yang sempit, ia menulis satu kata.
+
+Ossian membacanya dari seberang meja.
+
+*Pulang.*

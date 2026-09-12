@@ -37,11 +37,11 @@ Jawaban Ashvarok dikutip kedua-duanya di arsip:
 
 Sementara di Caldrest, persiapan pemulangan ketiga memasuki fase yang belum pernah ada: PERJALANAN PANTUN BERSAMA — karena wilayah selatan menawarkan diri menjadi mentor dengan caranya sendiri.
 
-Nenek buta pemilik pantun Widur, ditemani Ilo dan Sovana dari timur, berangkat keliling sembilan kamp selatan untuk "sekolah pantun keliling" — mengajari keluarga-keluarga cara menyanyikan pantun milik mereka sendiri kepada nat masing-masing sebelum hari pemulangan. Metodenya sederhana dan tidak bisa disalin birokrasi mana pun:
+Nenek buta pemilik pantun Widur, ditemani Ilo dan Sovana dari timur, berangkat mengelilingi tiga kamp selatan untuk mendatangi sembilan nat dalam "sekolah pantun keliling" — mengajari keluarga-keluarga cara menyanyikan pantun milik mereka sendiri kepada nat masing-masing sebelum hari pemulangan. Metodenya sederhana dan tidak bisa disalin birokrasi mana pun:
 
-"Dia tidak mengajar," laporan Kovan, "dia mendengar dulu keluarga menyanyikan versi kasar mereka, lalu memperbaiki satu per satu suku katanya sambil bercerita soal nenek moyang yang membuatnya. Dua jam per kamp. Setelah dia pergi, nat-nya sudah hafal."
+"Dia tidak mengajar," laporan Kovan, "dia mendengar dulu keluarga menyanyikan versi kasar mereka, lalu memperbaiki satu per satu suku katanya sambil bercerita soal nenek moyang yang membuatnya. Dua jam per nat. Setelah dia pergi, nat-nya sudah hafal."
 
-Dua pekan: delapan dari sembilan nat selatan kini mengenal pantun keluarganya. Nat kesembilan — milik kamp terpencil di dasar lembah, penghuninya hanya enam orang dari satu rahim — masih diam total.
+Dua pekan: delapan dari sembilan nat selatan kini mengenal pantun keluarganya. Nat kesembilan — milik keluarga terpencil di dasar lembah, penghuninya hanya enam orang dari satu rahim — masih diam total.
 
 "Ninth silent," tulis Kovan di neraca dengan istilah barunya, "tetapi bukan mati. Iramanya ada, sangat pelan, seperti napas orang sakit yang membaik. Dia hanya butuh lebih lama. Mungkin pantun mereka belum bertemu bentuk akhirnya."
 
@@ -101,7 +101,7 @@ Yang lega: nat kesembilan, "ninth silent", bangun. Setelah enam pekan irama napa
 
 "Kalian masih di rumah yang sama? Bagus. Aku punya banyak cerita soal kalian. Mulai dari nenek kalian yang dulu suka mencuri jambu ke kebun kami."
 
-Kamp kesembilan menangis seisi rumah. Jadwal pemulangan ketiga tetap tidak dipatok tanggal — tetapi Kovan menulis estimasi barunya dengan angka yang membuat semua orang senyum: "kalau nat kesembilan sudah bercerita soal jambu... maksimal tiga pekan lagi."
+Kamp pemilik nat kesembilan menangis seisi rumah. Jadwal pemulangan ketiga tetap tidak dipatok tanggal — tetapi Kovan menulis estimasi barunya dengan angka yang membuat semua orang senyum: "kalau nat kesembilan sudah bercerita soal jambu... maksimal tiga pekan lagi."
 
 Dan tugas baru: pantun Widur ternyata bukan satu-satunya warisan lisan di Karvess. Kabar menyebarnya memicu surat-surat dari wilayah-wilayah lain (bahkan dari luar tujuh belas wilayah pemulangan): keluarga-keluarga di mana-mana mulai MEMERIKSA cerita lama keluarga mereka — dan beberapa menemukan hal yang sama: lagu-lagu aneh yang diturunkan turun-temurun tanpa tahu isinya.
 

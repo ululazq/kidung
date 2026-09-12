@@ -55,9 +55,9 @@ Di lantai tiga puluh satu, ia menemui Ossian, yang menerima tamu itu dengan cang
 
 "Aku cuma butuh tahu isi kabinet kunci," kata penilai itu akhirnya, lelah.
 
-"Kabinet kosong sejak bab yang kamu baca tadi pagi," kata Ossian ramah, dan menambahkan, sambil menuang teh lagi, "aku bisa bantu isi borang permintaan keterangan kehilangan. Formulirnya tiga lembar. Biasanya selesai dua belas hari kerja. Ada jalur cepat kalau pencuri ditemukan dulu — borangnya beda, cuma satu lembar, tapi harus dilampiri nama pencuri dan alamatnya. Kau mau yang mana?"
+"Kabinet kosong sejak laporan yang kamu baca tadi pagi," kata Ossian ramah, lalu menuang teh lagi. "Aku bisa bantu isi borang permintaan keterangan kehilangan. Formulirnya tiga lembar. Biasanya selesai dua belas hari kerja. Ada jalur cepat kalau pencuri ditemukan dulu — borangnya beda, cuma satu lembar, tapi harus dilampiri nama pencuri dan alamatnya. Kau mau yang mana?"
 
-Penilai itu pergi tanpa borang. Ossian mencatat kunjungan itu di log inventaris dengan kalimat yang akan dibaca semua orang yang perlu membacanya dan tidak akan dibaca siapa pun yang tidak perlu: *Tamu dari utara menghitung kabinet kita. Teh habis dua potong.*
+Penilai itu pergi tanpa borang. Ossian mencatat kunjungan itu di log inventaris dengan kalimat yang akan dibaca semua orang yang perlu membacanya dan tidak akan dibaca siapa pun yang tidak perlu: *Tamu dari utara menghitung kabinet kita. Teh habis dua teko.*
 
 Gerobak itu terus berjalan ke selatan, dan di dalam kotak kayunya, di atas bejana penimbang dan buku hitung, terbaring daftar kepemilikan dengan baris terakhirnya: *pintu. satuan: satu. status: dipinjam.* Penilai itu membacanya sekali lagi sebelum tidur, dan seperti semua orang yang hidup dari angka, ia tidak menyadari satu hal tentang baris itu — bahwa kata *dipinjam* mengandaikan peminjam, dan peminjam selalu punya alasan, dan alasan selalu punya mulut. Ia mengira ia sedang berangkat menagih barang.
 

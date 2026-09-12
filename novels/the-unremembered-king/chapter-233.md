@@ -5,7 +5,7 @@ chapter: 233
 
 Hari pemulangan wilayah ketiga tidak dibuka dengan lagu — melainkan dengan pembacaan silsilah.
 
-Karena lembah selatan jauh punya nat kesembilan yang hafal semuanya, tradisi pembukaannya berbeda dari utara dan timur: sebelum name train pertama, nat kesembilan membacakan seluruh silsilah delapan kamp — siapa lahir dari siapa, siapa menikah dengan siapa, siapa anak siapa yang hilang — tiga ratus tahun catatan, dibacakan irama demi irama, diterjemahkan Kovan sambil warga timur dan utara mencatat untuk arsip.
+Karena lembah selatan jauh punya nat kesembilan yang hafal semuanya, tradisi pembukaannya berbeda dari utara dan timur: sebelum name train pertama, nat kesembilan membacakan seluruh silsilah tiga kamp pemulangan — siapa lahir dari siapa, siapa menikah dengan siapa, siapa anak siapa yang hilang — tiga ratus tahun catatan, dibacakan irama demi irama, diterjemahkan Kovan sambil warga timur dan utara mencatat untuk arsip.
 
 Dua jam pembacaan. Tidak ada yang bergerak. Warga timur bilang setelahnya: "seperti mendengar lembah kami menceritakan dirinya sendiri kalau dia bisa bicara."
 
@@ -15,7 +15,7 @@ Dan setelah nama terakhir silsilah dibacakan, nat kesembilan mengirim kalimat pe
 
 Maka mulailah.
 
-Enam puluh satu pemanggilan keluarga dulu — yang punya pantun, punya kamp penunggu. Satu per satu, seperti dua pemulangan sebelumnya: name train keluarga, gema menjawab, jiwa naik, sup dalam dua menit, meja makan.
+Lima puluh sembilan pemanggilan keluarga lebih dulu — yang punya pantun, punya kamp penunggu. Satu per satu, seperti dua pemulangan sebelumnya: name train keluarga, gema menjawab, jiwa naik, sup dalam dua menit, meja makan.
 
 Lalu bagian yang dunia tunggu: DUA PULUH TUJUH JIWA TANPA PEMANGGIL.
 
@@ -59,29 +59,6 @@ Wilayah terjauh ternyata wilayah yang memberi kita pelajaran terbanyak: pantun (
 
 Terima kasih, selatan. Kalian datang terakhir tetapi memberi paling banyak.
 
----
-
-Malamnya, pertemuan pertama Widur dan istrinya akhirnya terjadi — di depan nat tua kamp pertama, tempat semua cerita ini bermula.
-
-Mereka dipisahkan tiga ratus tahun. Ketika bertemu, tidak ada yang bisa dilakukan tubuh mereka selain berdiri menghadap — karena Widur keluar dari nat dengan wajah laki-laki yang sakit saat perang dunia purba, dan istrinya adalah perempuan yang sudah menunggu melewati umur manusia.
-
-Namun pantun menyelesaikan apa yang tidak bisa diselesaikan waktu.
-
-Istrinya menyanyikan bagian pertanyaan — suara gemetar, tiga ratus tahun latihan.
-
-Widur menjawab bagian balasan — suara gemetar, delapan bulan latihan dari dalam batu.
-
-Lalu mereka menyanyikan sisa pantun itu BERSAMA-SAMA, dan oleh semua saksi dikatakan bahwa nada penutupnya persis sama dengan nada "pulanglah, makan malam siap" — kebetulan yang bukan kebetulan, karena lagu-lagu Karvess memang lahir dari satu akar yang sama.
-
-Sup ayam disodorkan sesudahnya. Mereka makan berdua di ujung meja panjang, pelan-pelan, dan tidak ada satu pun tamu yang mendekat sebelum piring kosong.
-
-Ketika selesai, Widur berkata kalimat yang oleh Ashvarok dicatat sebagai penutup resmi wilayah ketiga:
-
-"Tiga ratus tahun aku pikir dia menungguku."
-
-Ia memandang istrinya.
-
-"Ternyata kami dua-duanya menunggu hal yang sama: hari ketika menyebut nama bukan lagi doa, melainkan undangan."
 
 ---
 
@@ -95,7 +72,7 @@ Ketiga. Untuk wilayah-wilayah berikutnya (empat belas, masih banyak): pelajaran 
 
 Dan entri pribadi terakhir untuk batch ini:
 
-Sore tadi, setelah semua meja kosong, aku berdiri sebentar di tepi lereng selatan sendirian. Nat-nat sembilan kamp berirama pelan di bawah — irama kenyang, irama lega, irama seratus orang yang hari ini melakukan pekerjaan terbesar hidup mereka sambil menganggapnya biasa saja.
+Sore tadi, setelah semua meja kosong, aku berdiri sebentar di tepi lereng selatan sendirian. Nat-nat tiga kamp berirama pelan di bawah — irama kenyang, irama lega, irama delapan puluh enam orang yang hari ini melakukan pekerjaan terbesar hidup mereka sambil menganggapnya biasa saja.
 
 Delapan bulan silam aku pikir pekerjaan besar itu soal gestur besar: membuka segel seribu tahun, menghukum Hegemony, mengakui kerajaan.
 
@@ -144,3 +121,27 @@ Thessa mengangguk, mencatat, lalu berkata kalimat terakhirnya sebelum pulang ke 
 Ia melangkah ke pintu, berhenti, dan menoleh sekali:
 
 "Sampai jumpa di lembah selatan, Pak. Angkatan kedua jadwalnya di sana kan? Saya minta jadi bagian dari tim dapurnya."
+
+---
+
+Malamnya, pertemuan pertama Widur dan istrinya akhirnya terjadi — di depan nat tua kamp pertama, tempat semua cerita ini bermula.
+
+Mereka dipisahkan tiga ratus tahun. Ketika bertemu, tidak ada yang bisa dilakukan tubuh mereka selain berdiri menghadap — karena Widur keluar dari nat dengan wajah laki-laki yang sakit saat perang dunia purba, dan istrinya adalah perempuan yang sudah menunggu melewati umur manusia.
+
+Namun pantun menyelesaikan apa yang tidak bisa diselesaikan waktu.
+
+Istrinya menyanyikan bagian pertanyaan — suara gemetar, tiga ratus tahun latihan.
+
+Widur menjawab bagian balasan — suara gemetar, delapan bulan latihan dari dalam batu.
+
+Lalu mereka menyanyikan sisa pantun itu BERSAMA-SAMA, dan oleh semua saksi dikatakan bahwa nada penutupnya persis sama dengan nada "pulanglah, makan malam siap" — kebetulan yang bukan kebetulan, karena lagu-lagu Karvess memang lahir dari satu akar yang sama.
+
+Sup ayam disodorkan sesudahnya. Mereka makan berdua di ujung meja panjang, pelan-pelan, dan tidak ada satu pun tamu yang mendekat sebelum piring kosong.
+
+Ketika selesai, Widur berkata kalimat yang oleh Ashvarok dicatat sebagai penutup resmi wilayah ketiga:
+
+"Tiga ratus tahun aku pikir dia menungguku."
+
+Ia memandang istrinya.
+
+"Ternyata kami dua-duanya menunggu hal yang sama: hari ketika menyebut nama bukan lagi doa, melainkan undangan."

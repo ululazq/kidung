@@ -3,7 +3,7 @@ title: "Bab 126: Bunyi yang Menempel"
 chapter: 126
 ---
 
-Pagi hari keseratus delapan puluh, Ondar terbangun dengan kata itu sudah duduk di kepalanya seperti tamu yang menolak pulang. Ia mencuci muka di bak umum, dan di antara dua jembatan air, kata itu lewat lagi. Ia mengunyah roti paginya, dan di antara dua kunyahan, kata itu lewat lagi. Bukan karena ia ingin mengingatnya. Otaknya melakukan sendiri — seperti lidah yang terus menyentuh gigi bolong — seperti lagu iklan pasar yang pernah didengar sekali lalu menetap bertahun-tahun.
+Pagi hari keseratus delapan puluh, Ondar terbangun dengan kata itu sudah duduk di kepalanya seperti tamu yang menolak pulang. Ia mencuci muka di bak umum, dan di antara dua guyuran air, kata itu lewat lagi. Ia mengunyah roti paginya, dan di antara dua kunyahan, kata itu lewat lagi. Bukan karena ia ingin mengingatnya. Otaknya melakukan sendiri — seperti lidah yang terus menyentuh gigi bolong — seperti lagu iklan pasar yang pernah didengar sekali lalu menetap bertahun-tahun.
 
 Ia tidak melanggar aturan. Mulutnya tetap rapat. Tetapi di balik gerigi gigi yang tertutup itu, bibirnya bergulat dengan dua suku kata yang tidak pernah ia ucapkan, dan tubuhnya menghafal seperti ia biasa menghafal angka — yaitu sepenuhnya, sampai-sampai ia bisa merasakan bentuk bunyi itu di langit-langit mulut tanpa mengeluarkan satu udara pun.
 
@@ -49,7 +49,7 @@ Ruangan berubah suhu menurut perasaan Ondar, padahal udaranya sama saja. Brannoc
 
 Mata mandor tua itu bertahan di wajahnya lebih lama dari biasanya. Lengan kanannya yang bekas patah itu turun sedikit, kebiasaan ketika orang itu sedang berpikir berat.
 
-"Kamu hafal bentuk huruf yang tidak bisa kamu membaca."
+"Kamu hafal bentuk huruf yang tidak bisa kamu baca."
 
 "Aku hafal bentuk apa pun yang kulihat cukup lama. Itu kerjaanku. Aku ingat letak tiap braket di segmen sebelas, ingat wajah semua orang di baris absen, ingat—" Ondar menghentikan dirinya sendiri, menelan, lalu melanjutkan lebih pelan. "Ingat baris itu. Dari semua coretan di buku itu, baris itu satu-satunya yang ditulis seperti orang mengajar. Yang lain tulisan orang untuk dirinya sendiri. Baris itu ditulis untuk dibaca orang bodoh seperti aku."
 

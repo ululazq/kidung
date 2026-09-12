@@ -77,22 +77,6 @@ Mira mengetuk tiga kali ke bangku. "Di Spire, pria panitia bertanya jarak napas 
 
 Mira menyimpan buku kecilnya. Untuk pertama kalinya sejak di menara, ia merasa catatannya bukan beban — melainkan pegangan yang diakui orang lain.
 
-Pagi setelah kepulangan, Ibu Tamma menyajikan sup di meja barak dengan sendok kayu yang bunyinya sama tiap hari. Mira duduk di kursi ujung, tempat yang selalu kosong saat ia di menara.
-
-"Makan dulu," kata Ibu Tamma. "Sebelum apa pun. Pasal itu."
-
-"Pasal itu," ulang Mira, dan supnya hangat di tenggorokan.
-
-Gella datang membawa buku kecil berbeda — bukan buku catatan angin — melainkan daftar tangan yang pernah ia rawat. Ia membuka halaman kosong dan menulis nama Mira di bawah nama-nama penambang yang sudah pulih.
-
-"Tangan saksi masuk daftar pemulihan," kata Gella. "Bukan karena luka. Karena tangan itu menulis kebenaran yang orang lain baru mulai baca. Tangan yang menahan diam lebih baik daripada tangan yang menulis cerita."
-
-Mira menatap tulisan namanya di buku Gella. Di menara, namanya ada di buku catatan angin. Di barak, namanya ada di buku pemulihan. Dua buku, dua alamat, satu orang yang sama.
-
-"Kalau suatu hari aku lupa irama," kata Mira, "baca buku itu."
-
-"Kau tidak akan lupa," jawab Gella. "Kau mengetuk tiga kali sebelum masuk ruang panitia. Itu sudah di tubuhmu, bukan di kertas."
-
 Kafilah pulang tiba di Caldrest delapan hari setelah berangkat. Mira turun membawa koper dan botol sup yang tinggal separuh. Ibu Tamma menyambut di gerbang dengan pelukan singkat, lalu kembali ke dapur tanpa banyak kata. Gella memeriksa tangan Mira: masih kering, masih bisa menulis.
 
 "Beres?" tanya Gella.
@@ -114,6 +98,22 @@ Sela pergi ke dinding klinik, membuka name-map distrik yang digantung di sana. I
 "Peta ini daftar siapa yang masih ada," jawab Sela. "Kau pergi delapan hari dan kembali dengan nama di arsip. Itu berarti kau masih ada di dua tempat sekaligus. Aku catat kedua-duanya."
 
 Brannoc menatap baris baru itu lalu kembali mengunyah. "Bagus juga," katanya. "Sekarang kalau Spire bertanya, kita tahu ke mana menjawab."
+
+Pagi setelah kepulangan, Ibu Tamma menyajikan sup di meja barak dengan sendok kayu yang bunyinya sama tiap hari. Mira duduk di kursi ujung, tempat yang selalu kosong saat ia di menara.
+
+"Makan dulu," kata Ibu Tamma. "Sebelum apa pun. Pasal itu."
+
+"Pasal itu," ulang Mira, dan supnya hangat di tenggorokan.
+
+Gella datang membawa buku kecil berbeda — bukan buku catatan angin — melainkan daftar tangan yang pernah ia rawat. Ia membuka halaman kosong dan menulis nama Mira di bawah nama-nama penambang yang sudah pulih.
+
+"Tangan saksi masuk daftar pemulihan," kata Gella. "Bukan karena luka. Karena tangan itu menulis kebenaran yang orang lain baru mulai baca. Tangan yang menahan diam lebih baik daripada tangan yang menulis cerita."
+
+Mira menatap tulisan namanya di buku Gella. Di menara, namanya ada di buku catatan angin. Di barak, namanya ada di buku pemulihan. Dua buku, dua alamat, satu orang yang sama.
+
+"Kalau suatu hari aku lupa irama," kata Mira, "baca buku itu."
+
+"Kau tidak akan lupa," jawab Gella. "Kau mengetuk tiga kali sebelum masuk ruang panitia. Itu sudah di tubuhmu, bukan di kertas."
 
 ---
 

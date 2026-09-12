@@ -1,90 +1,168 @@
 ---
-title: "Bab 338: Napas yang Dipelajari Musuh"
+title: "Bab 338: Jalan Sembilan Fajar"
 chapter: 338
 ---
 
-Di desa ketiga dari utara, the Seeker membuka buku catatan kasar dan menulis satu baris yang tidak akan pernah ia tunjukkan kepada the Keeper: *Napas pendek di subuh = pola yang dicari. Tiga orang di desa ini napasnya setengah hitungan lebih pendek dari orang biasa.* Jari-jarinya berhenti di atas angka itu, dan untuk pertama kalinya ia membiarkan dirinya meragukan perintah yang ia terima. The Keeper masih berpegang pada cap tujuh garis, tanda lahir, darah. Namun the Seeker sudah melihat bahwa di menara selatan, penduduk mengukur napas, bukan mengukur kulit, dan mereka melakukannya dengan ketenangan orang yang tidak sedang mencari musuh. Ia menutup buku sebelum the Keeper melihat, karena ia belum siap menjelaskan perbedaan antara perintah dan kebenaran.
+Ossian membongkar kantong perjalanannya untuk ketiga kali, bukan karena ada yang kurang, melainkan karena setiap barang harus dapat diraih dalam gelap. Sembilan bungkus roti kering ia susun merapat ke punggung. Tabung garam masuk ke sela yang tidak akan tertekan saat ia berbaring. Botol penuh digantung di kanan, botol kosong beserta kain penyaring di kiri. Tali biru melingkari semuanya dua kali.
 
-Di menara, Mira membaca dentum yang dikirim the Northern Listener dan mencatat di the Anomaly Book: *Dua desa utara kini mengukur napas subuh, bukan tanda lahir. Metode masih kasar — mereka memegang pergelangan terlalu lama, menghitung napas dua kali, lalu menulis angka yang setengahnya salah — tetapi arah mulai benar. Jendela menyempit dari pekan ke hari.* Ia menyapu serambi, lalu menyapu lagi, kebiasaan lama yang membuat tangannya sibuk saat pikirannya tidak. Angin pagi bertiup dari selatan, dan ia menutup mata sejenak, merasakan irama yang tidak pernah berhenti.
+Di meja barak, peta ibunya terbuka di bawah lampu minyak. Garis ke selatan ditorehkan dengan tinta yang telah memucat menjadi cokelat. Pada bagian awal, garis itu mengikuti jalan kafilah. Setelah sumur terakhir, garis membelok ke timur dan melintasi ladang garam melalui tiga tanda yang tidak memiliki nama: batu pecah, dasar aliran kering, lalu punggung bukit berbentuk mata tertutup. Di balik tanda terakhir, tinta berhenti.
 
-Ashvarok-Renn membaca laporan itu dua kali di meja barak, jari telunjuknya menelusuri baris kedua sisi kiri. "Mereka belajar," katanya pada Kovan. "Namun belum paham bedanya antara tahu pola dan memahami arti. Mereka mengukur napas orang, padahal yang kita jaga bukan hanya napas orang."
+Sela mengambil botol kosong dari kantong dan mengguncangnya. Kain tenun di dalam berdesir.
 
-"Berapa lama selisih itu bertahan?" tanya Kovan. Ia membuka peta benang emas di depannya dan mulai menandai titik-titik baru.
+"Kalau kain ini tetap di botol, kau harus mengeluarkannya sebelum mengisi air," katanya.
 
-"Selama mereka yakin kunci berbentuk orang." Ashvarok-Renn menutup the Anomaly Book. "Dan selama kita menjaga agar mereka tidak pernah melihat bentuk sebenarnya. Kunci yang dicari di kulit tidak akan pernah ditemukan di udara."
+"Aku tahu cara memakai botol."
 
-Sela berdiri di serambi memegang papan napas. "Berarti kita ke the Ground sebelum mereka paham," katanya. "Lima sudah di tangan. Sisa satu di pangkal, dan itu yang paling sulit dicabut karena ia bukan orang."
+"Kau juga tahu cara menghitung bekal, tetapi sudah tiga kali menghitungnya."
 
-Gella mendekat membawa buku pemulihan. "Kau the Bearer," katanya pada Ashvarok-Renn. "Napas minggu ini masih tiga. Bila kau turun ke selatan sekarang, the Wanes akan mengukur kau juga, dan pola napasmu bukan pola orang biasa. Mereka akan sadar bahwa satu napas di desa ini berbeda dari semua napas lain."
+Ossian merebut botol itu terlalu cepat. Sela tidak melepaskannya.
 
-"Tidak ke selatan," kata Ashvarok-Renn. "Kita kirim Ossian. Aku menjaga dari sini, di mana benang emas bermula."
+"Yang perlu kau ingat bukan jumlah roti," lanjutnya. "Dua pendek, satu panjang. Jangan menambah ketukan hanya karena kau tidak mendapat jawaban."
 
-Ossian mengangguk dari kursi dekat jendela. "Aku tahu celah ke the Hollow. Ibuku pernah menjaga benang di sana sebelum dia hilang, delapan belas tahun silam. Ia meninggalkan peta di buku catatan yang kini kusimpan di saku." Ia mengambil benang abu-abu dari gulungan di pangkuannya dan memilinnya ke arah selatan di peta. "Namun the Hollow bukan lagi tempat kosong. The Wanes memasang cap di pangkal sejak pekan lalu. Mereka menggali bukit-bukit kecil di sekelilingnya, percaya kunci dikubur di bawah tanah."
+"Dan bila tanah menjawab pola lain?"
 
-"Berapa lama perjalananmu?" tanya Kovan.
+"Catat. Jangan paksa menjadi pola yang kita mau."
 
-"Sembilan fajar, lewat jalur ladang garam. Lebih cepat daripada jalan raya, tetapi tidak ada tempat berlindung di tengah. Kalau the Wanes melihatku, aku akan menjadi target yang mudah." Ossian menggulung benang itu kembali. "Aku berangkat besok subuh, sebelum fajar menyentuh lereng barat."
+Pegangan Sela mengendur. Ossian mengeluarkan kain tenun, meraba tiga bagian benang yang timbul, lalu mengembalikannya ke botol. Dua bagian pendek. Satu bagian panjang. Benda itu tidak memberi kepastian apa pun; justru itulah gunanya. Ia harus tiba sebagai pembaca, bukan sebagai orang yang sudah menyusun jawaban sebelum bertanya.
 
-Malam itu, Sela menyiapkan bekal perjalanan untuk Ossian: roti kering, garam, dan sebotol air. Ia meletakkannya di meja tanpa berkata apa-apa. Ossian menatapnya lama. "Kau tidak akan bertanya mengapa aku pergi sendiri?" katanya.
+"Kalau aku tidak kembali?" tanyanya.
 
-"Kau sudah memutuskan," jawab Sela. "Pertanyaanku tidak akan mengubah perjalananmu. Namun bawalah ini." Ia memberikan selembar kain tenun kecil berisi catatan napas perawat tua. "Bila kau menemukan the Ground, ketuk pola ini di tanah. Ia akan menjawab dengan irama yang sama."
+Sela mengancingkan penutup botol. "Kembali dulu. Baru ajukan pertanyaan bodoh itu lagi."
 
-Di menara, perawat tua menyanyikan irama lama, pelan, sambil memilin benang pertama yang delapan belas tahun tidak pernah putus. Pengrajin lonceng di celah bawah menyambung dengan ketukan ubin yang sama. Dua kunci di menara yang sama, menjaga ambang yang sama, tanpa pernah bertemu muka.
+Ia menyelipkan dua jarum dan segulung benang kasar ke kantong samping. Barang tambahan itu membuat jahitan menonjol, tetapi Ossian membiarkannya. Di ladang terbuka, sobekan selebar jari dapat menghabiskan air lebih cepat daripada haus.
 
-Kovan mencatat di peta: *The Wanes mengubah taktik di utara — mengukur napas, bukan tanda lahir. Barak masih unggul delapan belas tahun. Jendela: hari, bukan minggu. Kejar the Ground sekarang. Ossian berangkat subuh.*
+Ashvarok-Renn datang membawa selembar kulit tipis. Tidak ada peta baru di atasnya, hanya tiga garis jarak yang disalin dari buku ibu Ossian. Ia meletakkannya di samping lampu.
 
-Fajar berikutnya, sebelum matahari menyentuh puncak menara, Ossian berangkat ke selatan dengan kain tenun ibunya di saku kiri dan catatan napas perawat tua di saku kanan. Di pintu barak, ia berhenti sebentar dan menoleh ke Ashvarok-Renn. "Ada satu hal yang ingin kutanyakan sejak lama," katanya. "Di the Hollow, benang siapa yang lebih dulu? Ibuku, atau ibumu?"
+"Garis pertama sampai sumur terakhir," katanya. "Garis kedua melintasi garam. Garis ketiga berakhir sebelum punggung bukit. Setelah itu kau pakai peta asli."
 
-Ashvarok-Renn menatapnya. "Ibumu. Karena ia yang memilih tetap tinggal saat yang lain pergi." Ia tidak mengatakan bahwa ibunya meninggal di sana. Ossian sudah tahu.
+"Aku hafal peta asli."
 
-Di barak, Brannoc melatih tiga anak angkatan keempat di halaman, memukul papan kayu dengan ketukan dua pendek satu panjang. "Itu bukan lagu," katanya. "Itu bahasa. Bila the Silence butuh lari, kalian kabari barak lewat ketukan, bukan dengan suara. Kalian adalah mata, dan mata yang diajarkan ritme tidak akan panik saat dibutuhkan."
+"Maka kau tidak rugi bila salinannya hilang."
 
-"Bagaimana kalau musuh mendengar ketukan kami?" tanya anak paling kecil, yang baru berusia sembilan tahun.
+Ossian melipat kulit tipis itu dan menaruhnya di balik ikat pinggang. "Tidak ada pesan lain?"
 
-"Musuh mencari tanda di kulit," kata Brannoc. "Mereka belum belajar mencari irama di udara. Itu selisih yang membuat kalian selamat, dan itu yang membuat kita delapan belas tahun lebih dulu."
+"Ada. Jangan kirim burung hanya untuk mengatakan perjalananmu lancar. Kirim setelah kau punya sesuatu yang dapat dibedakan dari dugaan."
 
-Di danau garam, dua belas anak barak duduk di tepi, memutar papan kayu mengikuti ketukan dari kejauhan. Murid Ossian yang menjaga dari perahu melihat cap tujuh garis the Wanes lewat di seberang, menghitung napas nelayan yang tidak tahu apa-apa. "Mereka buta," bisik murid itu pada papan kayu. "Namun mata mereka mulai belajar, dan itu yang membuat jendela kita makin sempit."
+"Dan kalau aku melihat mereka lebih dulu?"
 
-Gella mengukur napas Ashvarok-Renn untuk kedua kalinya minggu itu. "Masih tiga," katanya. "Delapan belas tahun kau menjaga benang, dan kini lima sudah di ambang. Jangan gegabah mengejar yang ketujuh dengan tubuh yang tinggal tiga napas."
+"Hitung orangnya, alatnya, arah datangnya. Jangan mendekat untuk mendapatkan angka yang lebih bagus."
 
-Ashvarok-Renn menatap peta, pada benang abu-abu yang baru saja meninggalkan barak. "Ossian tahu celahnya," katanya. "Namun the Wanes sudah memasang cap di pangkal. Kita kawal dari jauh, bukan dengan kaki."
+Itu instruksi kerja, bukan pelepasan. Ossian lebih menyukainya demikian. Ia menggulung peta ibunya, memasukkannya ke saku kiri, lalu memadamkan lampu. Beberapa jam tersisa sebelum pintu barak dibuka. Ia tidur di bangku dengan sepatu masih terpasang dan kantong perjalanan menjadi bantal.
 
-Mira menutup buku catatannya. "Mereka belajar mendengar," katanya pelan. "Namun kita delapan belas tahun lebih dulu tahu siapa yang bernapas pelan, dan itu yang membuat mereka selalu selangkah di belakang."
+Ketika palang pintu terangkat, langit di timur masih hitam.
 
-Sela menulis di papan sisi: *The Wanes mengubah cara dari darah ke napas. Masih kasar, tetapi arah benar. Kita ke the Ground sebelum mereka paham napas pendek = kunci. Ossian di jalan.*
+Ossian melewati ambang tanpa rombongan. Sela berdiri dekat tungku, kedua tangannya memegang cangkir yang tidak ia minum. Ashvarok-Renn menjaga pintu sampai ia keluar, lalu menurunkan palang setelah langkahnya mencapai jalan. Bunyi kayu masuk ke kait terdengar sekali di belakangnya.
 
-Di celah bawah, pengrajin lonceng memilin benang terakhir di jarinya, tahu bahwa esok fajar, bila the Ground dipastikan aman, ia akan membunyikan lonceng sekali. Bukan untuk memanggil yang hilang, tetapi untuk menutup pintu dunia selamanya.
+Ia tidak menoleh.
 
-Tiga fajar perjalanan Ossian, di jalur ladang garam yang memutih oleh kristal, ia bertemu seorang perempuan tua yang menjemur garam di atas anyaman bambu. Perempuan itu menatap kain tenun di saku Ossian dan berhenti menjemur. "Kain itu dari menara utara," katanya. "Aku pernah melihat pola itu di tangan ibumu, sebelum perang cap tujuh garis datang."
+Pada fajar pertama, jalan masih keras oleh roda kafilah. Bekas tapak hewan memenuhi lumpur beku di sisi parit, dan atap-atap barak mengecil setiap kali jalur menanjak. Ossian mempertahankan langkah yang bisa ditempuh sambil bernapas melalui hidung. Kecepatan lebih tinggi akan membeli satu jam dengan harga satu hari kaki bengkak.
 
-Ossian berhenti. "Kau mengenal ibuku?"
+Menjelang siang, ia berhenti di bawah dinding batu penahan angin. Ia makan separuh bungkus roti, menandai sisanya dengan simpul, lalu memeriksa telapak kaki. Kulitnya masih utuh. Air tinggal sedikit di bawah leher botol. Ia minum dua teguk dan berangkat sebelum tubuhnya meminta yang ketiga.
 
-"Dia singgah di sini delapan belas tahun silam, dalam perjalanan terakhirnya ke selatan. Ia bilang satu hal yang tidak pernah kulupakan: 'Bila kunci tidak berbentuk orang, jangan cari orang.'" Perempuan itu menunjuk ke arah cekungan di kejauhan. "Di sana, tujuh bukit mengelilingi tanah datar. Orang-orang menyebutnya the Hollow. Mereka yang menggali bukit mencari benda yang dikubur, tetapi ibumu tahu benda itu tidak pernah dikubur — ia menunggu, di tempat yang tidak pernah digali siapa pun."
+Fajar kedua membawanya keluar dari tanah pertanian. Rumput pendek memucat, lalu lenyap di antara hamparan kerikil putih. Jalan kafilah bergerak ke barat menuju penginapan dan sumur-sumur yang lebih ramai. Garis pada salinan justru turun ke tenggara.
 
-Ossian menatap arah yang ditunjuk. "Dan kau tidak pernah memberi tahu orang asing yang datang menggali?"
+Di percabangan, tiga batu ditumpuk sebagai penunjuk. Batu paling atas telah diputar sehingga sisinya yang bercap menghadap selatan. Ossian berjongkok tanpa menyentuhnya. Debu di kaki tumpukan menyimpan bekas sepatu yang lebih baru daripada jejak roda: dua orang, mungkin tiga, lewat menuju jalan kafilah. Tidak ada jejak yang mengambil cabang sempit pilihannya.
 
-"Mereka tidak bertanya padaku," kata perempuan itu. "Mereka datang dengan sekop, bukan dengan pertanyaan. Orang yang datang dengan sekop tidak ingin mendengar jawaban." Ia kembali menjemur garam. "Kau datang dengan kain tenun. Kau boleh bertanya."
+Ia menunggu sampai matahari menghangatkan tengkuk. Tak ada suara langkah. Setelah menghapus bekas lututnya dengan ranting, ia menyusuri cabang tenggara.
 
-"Bila kunci itu menunggu di tanah," kata Ossian, "bagaimana ia dipanggil?"
+Angin datang pada fajar ketiga. Garam halus melayang setinggi mata kaki, mengikis kulit sepatu dan masuk ke jahitan celana. Ossian membungkus mulut dengan ujung jubah. Setiap tarikan napas meninggalkan rasa logam di lidah. Batu pecah pada peta muncul menjelang petang: bongkah hitam yang terbelah lurus dari puncak sampai dasar.
 
-"Dengan napas," jawab perempuan itu. "Itu sebabnya mereka yang menggali tidak akan pernah menemukannya. Sekop tidak bisa menggali napas."
+Di sisi terlindung batu, seseorang pernah membuat lingkar api. Abunya dingin dan tertutup kerak. Ossian menemukan pecahan tali, tulang kecil, serta bekas dasar periuk, tetapi tidak menemukan cap atau kain. Ia tidak menyalakan api. Cahaya dapat dilihat lebih jauh daripada asap dalam udara sekering ini.
 
-Di kaki menara, penduduk desa mulai menghitung napas tetangganya sendiri, karena orang asing berbayar melakukannya. Seorang anak kecil bertanya pada ibunya mengapa orang asing itu memegang pergelangan. Ibunya menutup mulut anak itu. "Main saja. Jangan lihat."
+Malamnya, ia berbaring dengan punggung menempel batu. Angin menggedor sisi lain seperti telapak tangan pada pintu. Ia menghitung pukulan yang tidak teratur sampai tidur datang, berhati-hati agar pikirannya tidak memaksa bunyi acak menjadi pesan.
 
-Pengrajin lonceng menyambung ketukan ubin dari celah bawah. Dua kunci berdenyut pelan di menara yang sama. Di atas, Ashvarok-Renn mendengar dan tersenyum tipis; pintu dunia tetap tertidur.
+Pada fajar keempat, tali bahu kantong putus.
 
-Malam itu, Kovan meletakkan gulungan peta di meja dan menunjuk titik-titik cap tujuh garis yang ia gambar sejak pekan lalu. "Enam desa," katanya. "Pekan lalu empat. Mereka menyebar lebih cepat daripada dugaan kita."
+Kantong jatuh dan botol penuh membentur batu. Ossian menangkapnya sebelum menggelinding ke lereng. Tidak ada retak, tetapi satu ruas tali terburai akibat garam. Ia berlindung di ceruk dangkal, mengeluarkan jarum pemberian Sela, dan menjahit tali langsung ke lipatan kulit kantong. Tusukan pertama bengkok. Tusukan kedua menembus ibu jarinya.
 
-"Bukan mereka yang menyebar cepat," kata Ashvarok-Renn. "Informasi yang menyebar cepat. Satu desa memberi tahu desa lain bahwa ada orang asing membayar untuk mengukur napas. Itu kabar yang mudah diulang."
+Darah yang keluar hanya setitik. Ia menutup luka dengan garam, menahan perih, kemudian menjahit dua baris sampai tali mampu menanggung beban. Pekerjaan itu memakan waktu hampir satu jam. Untuk menggantinya, ia berjalan setelah matahari turun dan berhenti ketika garis cakrawala tak lagi dapat dibedakan dari tanah.
 
-"Kalau begitu, bagaimana kita menghentikannya?"
+Fajar kelima terbit di atas sebuah bangunan rendah beratap anyaman. Di depannya, seorang perempuan tua menyebarkan garam basah pada nampan-nampan lebar. Tidak ada rumah lain di sekitarnya. Sebuah sumur dangkal berdinding kayu berdiri di belakang bangunan, ditutup batu datar.
 
-"Kita tidak menghentikannya." Ashvarok-Renn menatap peta. "Kita membuat kabar itu tidak berguna. Bila mereka mengukur seratus pergelangan dan tidak pernah menemukan satu napas pendek yang penting, kabar itu akan mati sendiri. Orang tidak membayar dua kali untuk alat yang tidak menemukan apa-apa."
+Perempuan itu mengamati botol kosong di sisi kiri kantong Ossian.
 
-Kovan diam sejenak. "Kau yakin?"
+"Air sumur ini pahit," katanya. "Kalau kau menuju barat, tunggu sumur jalan besar."
 
-"Aku tidak yakin," jawab Ashvarok-Renn. "Namun itu satu-satunya cara yang tidak membuat kita meninggalkan rumah. Semua cara lain membutuhkan kita bergerak, dan gerakan selalu meninggalkan jejak."
+"Aku tidak menuju barat."
 
-Fajar kelima setelah Ossian berangkat, kabar pertama tiba lewat the Northern Listener: *Ossian tiba di lereng the Hollow. The Wanes menggali bukit keempat, percaya kunci dikubur. Batu di tengah berdenyut tanpa napas.* Ashvarok-Renn membaca dan mengangguk. "Mereka menggali tanah," katanya pada Sela. "Mereka tidak pernah belajar bahwa kunci bisa tinggal di tempat yang tidak pernah digali siapa pun."
+"Kalau begitu air pahit lebih baik daripada botol kosong."
 
-Sela memegang papan napas dan menatap benang abu-abu di peta. "Kalau begitu," katanya, "kita hanya perlu memastikan satu hal: bahwa yang mereka gali, tidak pernah menjadi kunci, dan bahwa yang mereka cari, tidak pernah mereka temukan."
+Ossian meletakkan dua keping kecil di tepi nampan. Perempuan itu mengambil satu dan mendorong satu lagi kembali.
+
+"Satu untuk air," katanya. "Yang lain untuk jawaban, kalau pertanyaanmu layak."
+
+Ossian membuka penutup sumur. Bau mineral naik bersama hawa dingin. "Jalur menuju dasar aliran kering masih bisa dilewati?"
+
+"Bisa, kalau kakimu tahu kapan harus berhenti. Angin selatan menutup jejak pada tengah hari dan membuka kerak tua menjelang malam. Injak bagian gelap. Bagian putih berongga."
+
+"Berapa lama sampai punggung bukit berbentuk mata?"
+
+Perempuan itu berhenti meratakan garam. Pandangannya jatuh pada gulungan peta yang menyembul dari saku kiri Ossian.
+
+"Dua fajar bagi orang yang tidak membawa beban. Tiga bagimu."
+
+"Kau pernah melihat peta ini?"
+
+"Aku pernah melihat tangan yang menggambarnya." Ia kembali bekerja. "Perempuan itu datang dari utara. Membawa terlalu sedikit air dan menolak menjual jarumnya."
+
+Ossian menyentuh jahitan baru pada tali kantong. "Apa yang ia tanyakan?"
+
+"Arah. Bukan isi tempat yang ditujunya. Orang yang bertanya tentang isi biasanya sudah membawa jawaban sendiri."
+
+"Apakah dia kembali lewat sini?"
+
+Sendok kayu di tangan perempuan itu bergerak sekali lagi sebelum berhenti. "Tidak."
+
+Kata tersebut jatuh tanpa penghiburan. Ossian menunggu tambahan yang tidak datang.
+
+"Keping kedua," katanya. "Untuk satu jawaban lagi."
+
+"Simpan."
+
+"Mengapa?"
+
+"Karena pertanyaan berikutmu akan sama, hanya dipakaikan kata lain. Jawabannya tetap tidak."
+
+Ossian memasukkan keping itu ke kantong. Ia menyaring air sumur dengan kain biasa, bukan kain berpola napas, lalu mengisi kedua botol. Sebelum pergi, perempuan tua itu memberinya segenggam kerak garam kelabu.
+
+"Kunyah sedikit sebelum haus," katanya. "Dan jangan ikuti tiang-tiang pendek setelah dasar aliran. Tiang itu menunjukkan jalan mudah, bukan jalan sepi."
+
+"Siapa yang memasangnya?"
+
+"Pertanyaan ketiga." Perempuan itu mengangkat keping pembayaran. "Kau hanya membeli satu."
+
+Ossian menerima batas itu. Ia mengucapkan terima kasih, menyampirkan kantong, dan berjalan ke selatan sementara bunyi sendok kayu kembali menggaruk nampan di belakangnya.
+
+Pada fajar keenam, ia mencapai dasar aliran kering. Dindingnya hanya setinggi dada, tetapi cukup untuk menahan angin. Kerak putih menutupi dasar seperti permukaan air beku. Ossian menguji bagian gelap dengan ujung tongkat. Padat. Pada bagian putih, tongkat menembus sampai separuh panjangnya dan mengeluarkan bau lumpur busuk.
+
+Ia bergerak dari noda gelap ke noda gelap. Menjelang siang, jalur aman menyempit. Sekali kakinya memecahkan pinggir kerak dan amblas sampai betis. Lumpur dingin menggigit kulit melalui kain. Ia menjatuhkan kantong ke tempat kering, bertumpu pada tongkat, lalu menarik kaki perlahan agar sepatu tidak tertinggal.
+
+Di ujung aliran, tiang-tiang pendek muncul tepat seperti peringatan perempuan tua. Masing-masing dibungkus secarik kain pucat. Tiang itu membentuk garis lurus ke selatan, melewati tanah datar tanpa perlindungan. Di sisi timur terdapat celah sempit di antara punggung-punggung kapur. Peta ibunya memilih celah itu.
+
+Ossian mengikuti peta.
+
+Di dalam celah, bekas roda terputus-putus tampak pada tanah keras. Umurnya sulit dibaca karena angin tidak mencapai dasar. Ia menemukan satu lekuk tapal yang terisi debu baru dan sepotong kayu dengan ujung aus. Seseorang telah membawa beban berat melalui jalur ini. Ia tidak tahu kapan, berapa banyak, atau ke mana tepatnya. Ia mencatat tiga fakta itu pada kulit tipis dan menolak menambahkan kesimpulan.
+
+Fajar ketujuh tidak terlihat. Awan garam menutup timur, membuat pagi datang sebagai perubahan warna dari hitam menjadi kelabu. Ossian bertahan di celah sampai angin mereda. Waktu yang hilang tidak mungkin dikejar tanpa berjalan malam di tanah yang tidak dikenalnya, maka ia memotong jatah makan, bukan jam tidur.
+
+Ketika keluar menjelang tengah hari, ia melihat dua garis jejak melintas dari timur ke barat. Jejak itu tidak menuju jalurnya, tetapi salah satu berhenti sejenak di dekat mulut celah. Garam di sana tergores membentuk setengah lingkaran, bekas seseorang memutar tubuh sambil mengamati utara.
+
+Ossian mundur ke balik kapur. Selama satu jam ia tidak bergerak. Panas berkumpul di bawah jubah, dan lalat garam mengerumuni lumpur kering pada sepatunya. Tak ada sosok muncul. Tak ada suara roda atau logam. Setelah bayangan dinding bergeser sepanjang satu telapak, ia keluar dan menyeberangi jejak tanpa menginjaknya.
+
+Sore itu, punggung bukit pada peta mulai tampak sebagai garis rendah di selatan. Dari jarak tersebut bentuknya belum menyerupai mata; hanya dua tonjolan kapur dengan lekukan di tengah. Ossian menahan keinginan mempercepat langkah. Peta menyimpan satu tanda lagi sebelum bukit: tiga batu tegak yang menunjukkan batas perjalanan hari kedelapan.
+
+Ia bermalam di lubang angin tanpa api. Sebelum tidur, ia meraba kain dalam botol kosong. Dua pendek, satu panjang. Ia tidak mengetukkannya pada tanah. Di sini, pola itu hanya petunjuk yang belum diuji.
+
+Fajar kedelapan memerah di balik awan tipis. Ossian berjalan sebelum dingin lepas dari batu. Bekalnya tinggal dua bungkus roti utuh, sepotong dari hari pertama, dan air untuk dua hari bila diminum ketat. Tali bahu hasil jahitannya kaku, tetapi tidak kembali terburai.
+
+Tiga batu tegak muncul saat matahari setinggi tombak. Batu tengah lebih pendek, kepalanya patah dan mengarah ke timur. Di sisinya terdapat guratan tua yang cocok dengan tanda terakhir pada peta ibunya. Ossian menempelkan kulit salinan pada permukaan batu. Garis ketiga berakhir tepat di sana.
+
+Ia membakar salinan itu di lekuk terlindung, sedikit demi sedikit, lalu meremas abunya bersama garam sampai tak ada potongan bertinta. Mulai titik tersebut, hanya peta asli yang boleh menuntunnya.
+
+Jalur menanjak sepanjang sisa hari. Punggung bukit berbentuk mata semakin tinggi dan menutup seluruh pandangan ke selatan. Ossian memilih ceruk di sisi utara, satu belokan sebelum puncak. Dari sana ia tidak dapat melihat apa yang berada di balik bukit, dan siapa pun di baliknya tidak dapat melihat api karena ia tidak menyalakan satu pun.
+
+Saat matahari tenggelam, ia mengeluarkan peta ibunya. Tinta berhenti pada garis puncak. Ruang setelahnya dibiarkan kosong.
+
+Ossian menaruh delapan butir garam di lekuk batu, satu untuk setiap fajar yang telah lewat. Butir kesembilan tetap di telapak tangannya. Ia membungkusnya dengan kain berpola, memasukkan bungkusan itu ke saku kanan, lalu berbaring menghadap tanjakan terakhir.
+
+Besok, pada fajar kesembilan, ia akan melewati punggung bukit dan melihat apa yang selama delapan hari hanya ditunjukkan oleh garis yang berakhir.

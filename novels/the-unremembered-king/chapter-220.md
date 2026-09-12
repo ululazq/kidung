@@ -3,7 +3,7 @@ title: "Bab 220: Uji Pos Jemput"
 chapter: 220
 ---
 
-Sepuluh hari sebelum pemulangan, Caldrest melakukan hal yang belum pernah dilakukan dunia: gladi bersih untuk seratus jiwa.
+Sepuluh hari sebelum pemulangan, Caldrest melakukan hal yang belum pernah dilakukan dunia: gladi bersih untuk seratus dua puluh empat jiwa melalui seratus pos jemput.
 
 Idenya datang dari kegagalan yang tidak terjadi — tetapi hampir. Saat latihan "jam surat-menyurat" di ladang, Harn menyadari bahwa murid-muridnya hafal lagunya, tetapi tidak hafal JARAK: pos jemput satu dan dua ternyata berjarak terlalu dekat, sehingga name train keduanya bisa tertukar di telinga gema yang naik dari tanah.
 
@@ -13,22 +13,41 @@ Ashvarok menyetujui dalam sepuluh detik. "Protokol apa pun yang belum diuji adal
 
 ---
 
-Gladi besar dilakukan pada sore keempat — seratus orang (warga mengisi pos kosong sebagai pemeran) berdiri di pos masing-masing, tiga puluh penyanyi di atas gerobak, Kovan dan anak Pak Dekan membaca arus dari nat-nat ladang.
+Gladi besar dilakukan pada sore keempat — setiap pos diisi warga sebagai pemeran, tiga puluh penyanyi berdiri di atas gerobak, sementara Kovan dan anak Pak Dekan membaca arus dari nat-nat ladang.
 
-Hasil gladi menemukan enam masalah yang tidak akan pernah terlihat di atas kertas:
+Hasil gladi menemukan empat masalah yang tidak akan pernah terlihat di atas kertas:
 
 Pos tujuh dan dua belas: tertukar lagunya — diperbaiki dengan memindahkan penanda batu.
 Pos tiga puluh satu: terlalu dekat dengan nat Karveth-Ulm jalur panas, suara tenggelam — dibuat penghalang batu pendam.
 Tiga keluarga keturunan: ternyata tidak sanggup menyanyi sendiri karena tangis — digabungkan ke pos tetangga dengan aturan "pos kembar".
-Dan temuan kelima, yang membuat Sela harus menambah pasal: beberapa pos ternyata berdiri di atas akar pohon-pohon tua — dan akar itu MENJAWAB name train juga, ikut menyanyi pelan, sampai-sampai lagu bercampur.
+Dan temuan keempat, yang membuat Sela harus menambah pasal: beberapa pos ternyata berdiri di atas akar pohon-pohon tua — dan akar itu MENJAWAB name train juga, ikut menyanyi pelan, sampai-sampai lagu bercampur.
 
 "Akar tidak boleh disuruh diam," kata Barim setelah memeriksanya. "Maka solusinya bukan menggeser akar. Ganti urutan lagu: pos-pos dekat pohon menyanyikan lagunya lebih awal, sebelum akar ikut ramai."
 
 Pasal gladi: "Urutan lagu mengikuti akar." Ditulis Sela dengan catatan pinggir: "Hari ini arsip belajar dari pohon."
+Perbaikan akar diuji saat itu juga. Harn memindahkan kelompok penyanyi dua puluh langkah, tetapi Barim menyuruh mereka kembali.
+
+"Kalau hari-H kalian bernyanyi dari tempat berbeda, jiwa yang menunggu akan mencari suara di arah yang salah," katanya. "Kita tidak memperbaiki kekacauan dengan membuat petunjuk baru."
+
+"Jadi tetap di bawah pohon?" tanya Harn.
+
+"Tetap. Ubah waktunya, bukan tempatnya."
+
+Harn mengangkat tangan kepada tiga puluh penyanyi. Pos dekat akar menyanyikan bait pertama sendirian. Akar-akar menjawab pada bait kedua, lembut tetapi jelas; ketika pos lain masuk sesudahnya, lagu utama sudah punya arah dan tidak lagi bercampur.
+
+Anak Pak Dekan berlutut pada nat terdekat, menghitung jeda dengan ujung jari. "Akar terlambat tiga ketukan," katanya. "Mereka bukan mendahului. Mereka mengikuti."
+
+"Bagus," kata Kovan. "Berarti kita tidak perlu membungkam siapa pun. Kita hanya memberi mereka tempat dalam urutan."
+
+Uji berikutnya menyasar pos kembar. Dua keluarga yang pada percobaan awal kehilangan suara karena tangis berdiri berdampingan dengan keluarga tetangga. Bait pertama pecah; bait kedua ditopang suara sebelah; pada bait ketiga, keluarga yang menangis itu sudah bisa masuk kembali dengan suaranya sendiri.
+
+"Jangan tutupi mereka," kata Sela kepada penyanyi pendamping. "Pegang lagunya sampai mereka sanggup mengambilnya lagi. Yang harus didengar dari bawah tetap keluarga mereka."
+
+Gladi diulang. Kali ini kedua lagu sampai ke nat masing-masing tanpa tertukar, dan jawaban dari bawah datang dalam dua irama terpisah. Harn mencoret tanda gagal di papannya, lalu menulis di sampingnya: bantuan bukan pengganti.
 
 ---
 
-Temuan keenam justru yang paling menggembirakan, dan datang dari arah yang tidak disiapkan: saat gladi mencapai separuhnya, anak-anak Caldrest yang ikut menonton mulai ikut menyanyikan lagu-lagu yang mereka pelajari di akademi — dan irama dari bawah tanah berubah: Vess-Morath menjawab anak-anak dengan nada yang lebih tinggi, lebih ringan, seperti orang yang tersenyum mendengar suara kecil-kecil ikut memanggil.
+Temuan di luar daftar masalah justru yang paling menggembirakan, dan datang dari arah yang tidak disiapkan: saat gladi mencapai separuhnya, anak-anak Caldrest yang ikut menonton mulai ikut menyanyikan lagu-lagu yang mereka pelajari di akademi — dan irama dari bawah tanah berubah: Vess-Morath menjawab anak-anak dengan nada yang lebih tinggi, lebih ringan, seperti orang yang tersenyum mendengar suara kecil-kecil ikut memanggil.
 
 Kovan menerjemahkan potongan jawaban itu:
 
@@ -48,9 +67,17 @@ Dari bawah ladang, irama panjang naik — dan Kovan butuh waktu sampai malam men
 
 ---
 
-Gladi kedua dilakukan lima hari kemudian, setelah semua perbaikan. Kali ini hasilnya hampir sempurna: satu pos masih tertukar (ditemukan Harn dalam empat menit), dan satu keluarga keturunan datang terlambat karena kelahiran — bayi baru lahir, dan mereka meminta izin membawa bayinya ke pos jemput saat pemulangan sungguhan.
+Gladi kedua dilakukan lima hari kemudian, setelah empat perbaikan awal. Masalah kelima muncul di pos enam puluh empat: dari jalur masuk, penanda kayunya terbaca sebagai empat puluh enam karena angka di sisi belakang dicat terbalik saat papan dipasang ulang. Pelari membawa daftar keluarga dan name train pos empat puluh enam ke sana; jawaban dari bawah pun datang untuk nama yang salah.
 
-"Bayi itu akan jadi generasi pertama yang menyambut leluhurnya," kata Ossian, mencatat pengecualian itu ke protokol. "Dan catat juga: dia hadir di pemulangan pertamanya pada umur tiga hari. Arsip harus mulai dari sekarang mengenalinya."
+Harn tidak sekadar membalik papan. Dalam empat menit ia mengikis angka belakang, memberi dua takik pada penanda enam puluh empat dan satu takik pada penanda empat puluh enam, lalu mencocokkan keduanya dengan nama keluarga di daftar. Kedua rute dijalankan ulang dua kali. Setiap pelari tiba di pos yang benar; setiap name train mendapat jawaban keluarga yang berbeda. Masalah kelima lulus uji.
+
+Masalah keenam datang bersama satu keluarga keturunan yang terlambat karena kelahiran. Ibu yang baru melahirkan tidak dapat menempuh jalur ladang atau berdiri sepanjang lagu, sedangkan daftar menganggap semua keluarga masuk dari gerbang barat dan bernyanyi tanpa pengganti. Mereka meminta izin membawa bayi berumur tiga hari itu pada pemulangan sungguhan.
+
+"Kalau aksesnya tidak bisa dipakai satu keluarga, protokolnya yang salah, bukan keluarganya," kata Ossian.
+
+Ia memindahkan nama mereka ke pos duduk di tepi jalan, membuka lorong masuk tanpa tangga, menugaskan penyanyi pengganti untuk jeda napas, serta satu pelari air dan sup. Uji ulang dilakukan saat gladi masih berjalan: keluarga masuk lewat jalan, duduk, menyerahkan bait ketika perlu, lalu menyelesaikan name train tanpa menutup lintasan pos sebelah. Jawaban dari bawah datang tepat pada nama terakhir.
+
+"Bayi itu akan jadi generasi pertama yang menyambut leluhurnya," kata Ossian setelah uji dinyatakan lulus. "Dan catat juga: dia hadir di pemulangan pertamanya pada umur tiga hari. Arsip harus mulai dari sekarang mengenalinya."
 
 Sela mencatat nama bayi itu dengan huruf besar: generasi penghubung.
 
@@ -88,7 +115,7 @@ Pada tengah malam, seratus pos jemput menyala di sepanjang ladang utara — sera
 
 Dua sisi pintu, saling menyalakan lampu.
 
-Ashvarok berdiri di tepi ladang sampai subuh, tidak menyalakan lilin apa pun — karena posnya bukan di ladang. Posnya ada di nat pusat aula, tempat semua pemulangan dimulai dan tempat ia akan berdiri besok dengan tangan di batu, membuka jalur untuk seratus jiwa sekaligus.
+Ashvarok berdiri di tepi ladang sampai subuh, tidak menyalakan lilin apa pun — karena posnya bukan di ladang. Posnya ada di nat pusat aula, tempat semua pemulangan dimulai dan tempat ia akan berdiri besok dengan tangan di batu, membuka jalur untuk seratus dua puluh empat jiwa sekaligus.
 
 Ia hanya menonton seratus lilin itu, dan berkata pada Sela yang datang membawa teh:
 
@@ -103,24 +130,15 @@ Ashvarok mengangguk. Mereka duduk bersama sampai subuh, menonton seratus lilin d
 
 Ashvarok membacanya di jalan pulang:
 
-"Kutulis juga akhirnya: malam sebelum seratus orang pulang, seluruh ladang menyala lilin, dan raja kurus kita bilang dia hanya penjaga pintunya. Detail ini terlalu bagus untuk dilupakan."
+"Kutulis juga akhirnya: malam sebelum seratus dua puluh empat orang pulang, seluruh ladang menyala lilin, dan raja kurus kita bilang dia hanya penjaga pintunya. Detail ini terlalu bagus untuk dilupakan."
 
 Ia membaca catatan itu dua kali, melipatnya, menyelipkannya ke saku dada kanan — arsip keluarga — sambil berkata pada dirinya sendiri dengan senyum yang tidak ada yang lihat:
 
 "Tidak akan kubuat kau menulis sendirian, Nak. Namun terima kasih sudah selalu menulis lebih dulu."
 
-Malam itu, sebelum tidur, ia menambahkan satu baris terakhir di Hourglass-nya:
+Menjelang tidur, Ashvarok menambahkan satu baris terakhir di Hourglass-nya:
 
-Hari 581. Gladi selesai. Semua siap. Dan aku baru sadar malam ini: dari semua pekerjaan yang pernah kulakukan selama seribu tahun, tidak ada satu pun yang membuatku ingin pagi datang lebih cepat seperti hari ini. Ini yang namanya tidak sabar — perasaan yang dulu kupandang kelemahan manusia. Ternyata itu tandanya seseorang sudah benar-benar pulang ke dunia.
+Hari 581. Besok, ketika seratus dua puluh empat jiwa naik, pekerjaanku bukan menahan sesuatu agar tetap di bawah. Pekerjaanku membuka pintunya selebar-lebarnya.
 
-Dan satu hal lagi: besok, ketika seratus jiwa naik dan aula penuh tangis bahagia — aku akan berdiri di nat pusat dengan tangan di batu, dan untuk pertama kalinya dalam seribu tahun, pekerjaanku bukan menahan sesuatu agar tetap di bawah.
+Seratus lilin menyala di ladang. Seratus pos menunggu. Selamat jaga, Rumah. Besok kita kerja sama.
 
-Pekerjaanku membuka pintunya selebar-lebarnya. Dan entri ini kutulis supaya esok malam, kalau aku terlalu lelah untuk menulis panjang, aku ingat bagaimana perasaan menanti pagi pertama yang benar-benar kita tunggu bersama — manusia dan kedalaman, sama-sama tidak sabar, sama-sama sudah siap.
-
-Seratus lilin menyala di ladang. Seratus pos menunggu. Satu pintu akan terbuka.
-
-Selamat jaga, Rumah. Besok kita kerja sama.
-
-Dan dari bawah, hangat menjawab — irama yang sudah dikenal semua orang Caldrest, irama yang artinya tidak perlu diterjemahkan lagi: selamat jaga juga. Sampai besok. Sampai seratus hari setelahnya. Sampai selamanya.
-
-Malam itu Harn menemukan kebiasaan barunya: menggambar peta nat-nat kecil yang tersebar di Caldrest — yang mana sudah bersahutan, yang mana belum. Peta itu ia tempel di dinding kamarnya dan diperbarui tiap pekan. "Ini bukan hobi," katanya ketika ditangkap basah Sela. "Ini pemetaan strategis." Sela meminjamnya untuk arsip dan tidak pernah mengembalikannya.

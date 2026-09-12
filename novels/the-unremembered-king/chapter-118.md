@@ -23,7 +23,7 @@ Ashvarok melapor dulu, sesuai tata urutan yang sudah menjadi hukum ruangan ini. 
 
 "Lalu putuskan. Dia tulis atau tidak?"
 
-"Aku sedang memutuskan, dan jawaban sementarakah ya." Ashvarok berjalan ke balok kayu tempat tiga simbol paku terukir, legenda kosong, cerita jujur, sunyi datar, dan menyandarkan punggung ke sana. "Dengar hitunganku sampai habis. Ada satu jaringan yang masih hidup di luar sana, jaringan yang memotong seam dan menumbangkan pasak. Kurirnya dan petugas slotnya sudah kita tangkap, tetapi kepala jaringannya tidak, dan mata internal yang memberi kabar barang juga tidak. Orang-orang itu kelaparan. Jalur panen diam-diam mereka mati, izin penutupan batal, kanal mereka kita sempitkan, dan mereka jelas sedang mencari cara masuk yang baru."
+"Aku sedang memutuskan, dan jawaban sementaranya ya." Ashvarok berjalan ke balok kayu tempat tiga simbol paku terukir, legenda kosong, cerita jujur, sunyi datar, dan menyandarkan punggung ke sana. "Dengar hitunganku sampai habis. Ada satu jaringan yang masih hidup di luar sana, jaringan yang memotong seam dan menumbangkan pasak. Kurirnya dan petugas slotnya sudah kita tangkap, tetapi kepala jaringannya tidak, dan mata internal yang memberi kabar barang juga tidak. Orang-orang itu kelaparan. Jalur panen diam-diam mereka mati, izin penutupan batal, kanal mereka kita sempitkan, dan mereka jelas sedang mencari cara masuk yang baru."
 
 "Dan kau mau memberi mereka kabar," kata Brannoc.
 
@@ -31,7 +31,7 @@ Ashvarok melapor dulu, sesuai tata urutan yang sudah menjadi hukum ruangan ini. 
 
 Brannoc mengunyah sebentar. "Aku mundur dulu. Barang yang tidak dikenal dan tidak bisa diukur itu lebih bahaya daripada penjaga yang bisa dibeli."
 
-"Itulah jawabannya. Senjata gema tak terklasifikasi." Kalimat itu keluar dari mulut Ashvarok dengan rasa aneh, seperti memegang alat tua yang engselnya ternyata masih hidup. "Jaringan itu tidak akan berhenti kelaparan, tetapi mereka akan berhenti menyentuh pasak, kanal, dan segala tempat yang mungkin menyimpan barang yang tidak bisa mereka membaca. Mereka akan mengira ada penjaga lain di tambang ini, penjaga yang bersenjata dengan sesuatu yang tidak dimiliki zaman ini, dan menghindarinya. Membingungkan musuh lebih murah daripada melawannya. Aku sudah membuktikan kebalikannya setahun penuh, dan tagihannya melewati setengah lengan ini."
+"Itulah jawabannya. Senjata gema tak terklasifikasi." Kalimat itu keluar dari mulut Ashvarok dengan rasa aneh, seperti memegang alat tua yang engselnya ternyata masih hidup. "Jaringan itu tidak akan berhenti kelaparan, tetapi mereka akan berhenti menyentuh pasak, kanal, dan segala tempat yang mungkin menyimpan barang yang tidak bisa mereka baca. Mereka akan mengira ada penjaga lain di tambang ini, penjaga yang bersenjata dengan sesuatu yang tidak dimiliki zaman ini, dan menghindarinya. Membingungkan musuh lebih murah daripada melawannya. Aku sudah membuktikan kebalikannya setahun penuh, dan tagihannya melewati setengah lengan ini."
 
 "Kalau yang mundur justru datang mencari seninya?" Sela mengajukan pertanyaan itu dari bangkunya, tanpa mengangkat kapurnya. "Kau bilang sendiri ada orang yang mencari tradisi tua. Pengikat senior cari empat puluh tahun. Kalau laporan itu jatuh ke orang seperti dia, dia tidak mundur. Dia datang."
 
@@ -73,7 +73,7 @@ Ia menyebutkan keenam syarat itu satu per satu, dengan irama orang membacakan da
 
 "Tanpa nama bocah lorong tujuh. Bukan hanya tidak ditulis. Tidak dipikirkan ketika menulis." Ashvarok memandanginya lurus. "Kertas yang ditulis oleh tangan yang sedang berpikir tentang seseorang meninggalkan bentuk orang itu, dan ada pembaca yang sanggup membaca bentuk."
 
-Kovan memutar keping cinder-glass itu di telapak tangannya sekali, lalu menyelipkannya ke dalam jaket di tempatan lempeng cadangannya tinggal.
+Kovan memutar keping cinder-glass itu di telapak tangannya sekali, lalu menyelipkannya ke dalam jaket di tempat lempeng cadangannya disimpan.
 
 "Keping ini untuk apa?"
 

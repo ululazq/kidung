@@ -5,7 +5,7 @@ chapter: 232
 
 Nat kesembilan benar-benar bangun tiga pekan kemudian — dan bangunnya mengubah pemahaman semua orang tentang apa yang sebenarnya tersimpan di lembah selatan jauh.
 
-Karena nat kesembilan ternyata bukan penyimpan enam jiwa satu rahim, seperti dikira keluarganya. Ia adalah PENJAGA CATATAN lembah selatan: selama tiga ratus tahun ia menyimpan bukan hanya jiwa-jiwa titipan, tetapi juga CERITA — setiap pantun yang pernah dibuat, setiap nama yang pernah disebut di tepi lereng, seluruh silsilah sembilan kamp yang tidak pernah ditulis di kertas mana pun.
+Karena nat kesembilan ternyata bukan penyimpan enam jiwa satu rahim, seperti dikira keluarganya. Ia adalah PENJAGA CATATAN lembah selatan: selama tiga ratus tahun ia menyimpan bukan hanya jiwa-jiwa titipan, tetapi juga CERITA — setiap pantun yang pernah dibuat, setiap nama yang pernah disebut di tepi lereng, seluruh silsilah tiga kamp yang tidak pernah ditulis di kertas mana pun.
 
 "Kalian bertanya kenapa saya lama bangun," iramanya diterjemahkan Kovan di rapat aula, "karena saya penuh. Delapan nat saudara saya menyimpan orang. Saya menyimpan DUNIA mereka. Membangunkan diri dari seribu cerita lebih butuh waktu daripada membangunkan diri dari satu tidur."
 
@@ -13,7 +13,7 @@ Dan dunia yang disimpannya itu ternyata menjawab pertanyaan-pertanyaan yang tida
 
 Berapa banyak jiwa SEBENARNYA yang dititipkan.
 
-"Enam puluh tujuh adalah hitungan pantun," kata Kovan membaca terjemahan akhirnya. "Hitungan nat kesembilan: SEMBILAN PULUH EMPAT."
+"Lima puluh sembilan adalah hitungan pantun," kata Kovan membaca terjemahan akhirnya. "Hitungan nat kesembilan: DELAPAN PULUH ENAM."
 
 Aula hening. Angka itu berarti dua puluh tujuh jiwa tambahan yang tidak punya pantun, tidak punya catatan keluarga, tidak punya satu pun yang menunggu mereka di atas — karena keluarga yang menitipkan mereka sudah punah sebelum bisa menurunkan ceritanya.
 
@@ -33,7 +33,7 @@ Dan Vess-Morath menambahkan hal yang tidak diminta siapa pun tetapi semua orang 
 
 ---
 
-Persiapan wilayah ketiga berjalan dengan struktur terbesar sepanjang proyek: sembilan kamp, sembilan nat, delapan puluh enam jiwa — dan untuk pertama kalinya, tiga kedalaman bekerja bersama dalam satu pemulangan: utara sebagai mentor senior (pengalaman), timur sebagai mentor muda (energi dan pantun), nat kesembilan sebagai PENCATAT (dia hafal seluruh silsilah dan bisa membacakan siapa harus disambut siapa).
+Persiapan wilayah ketiga berjalan dengan struktur terbesar sepanjang proyek: tiga kamp, sembilan nat, delapan puluh enam jiwa — dan untuk pertama kalinya, tiga kedalaman bekerja bersama dalam satu pemulangan: utara sebagai mentor senior (pengalaman), timur sebagai mentor muda (energi dan pantun), nat kesembilan sebagai PENCATAT (dia hafal seluruh silsilah dan bisa membacakan siapa harus disambut siapa).
 
 Latihan gabungan name train dilakukan di aula Caldrest — tiga puluh penyanyi utara, tiga puluh warga timur, tiga puluh warga selatan yang baru belajar, plus murid akademi — seratus orang lebih, latihan pertama mereka nyaris kacau total karena setiap lembah punya tradisi nada berbeda.
 
@@ -109,6 +109,18 @@ Sekarang pergilah kerja. Sup ini untuk wilayah timur latihan sore. Dan jangan lu
 
 — Ibu Tamma, kepala dapur (dan sesuai arsipmu: alasan), Caldrest"
 
+Sela membawa balasan itu ke aula menjelang tengah malam. Di meja nat pusat masih terbuka peta tiga kamp dengan delapan puluh enam tanda: lima puluh sembilan diberi nama pemanggil, dua puluh tujuh dilingkari tanpa nama. Ashvarok menyentuh lingkaran-lingkaran itu satu per satu sebelum membuka surat.
+
+"Besok mereka tetap mendapat tempat di gladi?" tanya Sela.
+
+"Tempat pertama," jawab Ashvarok. "Bukan di belakang keluarga lain. Kita yang memanggil mereka bersama-sama."
+
+"Dengan pantun siapa?"
+
+Ashvarok memandang nat pusat yang berdenyut di bawah peta. "Dengan cerita yang disimpan nat kesembilan. Kalau keluarga mereka sudah tidak ada untuk mengingat, tugas kita bukan mengarang keluarga baru. Tugas kita memastikan nama mereka terdengar ketika jalan pulang dibuka."
+
+Sela mencatat keputusan itu di samping dua puluh tujuh lingkaran, lalu menyerahkan surat ibu Tamma.
+
 Surat balasan itu Ashvarok baca di nat pusat aula, diam lama, lalu menambahkan satu kalimat terakhir ke entri neracanya — kalimat yang oleh Sela dicetak miring karena dianggap paling jujur dari semua yang pernah ditulis raja itu:
 
 Koreksi ibu Tamma diterima. Gelar saya perbaiki: bukan "raja kurus", bukan "penjaga segel seribu tahun".
@@ -117,4 +129,3 @@ Saya: anak dapur yang mendapat bagian hidup di era ketiga — dan beruntung.
 
 P.S. untuk ibu Tamma: besok pagi saya datang tepat waktu. Bukan karena takut sup habis. Karena sudah lama tidak jadi anak yang datang ke dapur hanya untuk lihat orang masak.
 
-Di margin neraca bab 232 itu, Sela menambahkan catatan kecil yang khas arsipnya: "hal-hal kecil hari ini yang layak diingat: teh habis dua teko lebih banyak dari kemarin; nat sudut pasar disapa tujuh orang (rekor baru); dan satu anak kecil berhenti di depan nat lorong barak untuk bilang 'malam, batu' sebelum pulang." Ashvarok selesai membaca, mengangguk sekali, dan menandai halamannya dengan garis. Begitulah dunia yang baik melangkah: dari sapaan kecil ke sapaan kecil, tanpa pernah berhenti.

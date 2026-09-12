@@ -28,6 +28,19 @@ Pencatat itu ditahan di bawah pohon garam di tepi lingkaran, dengan dua orang ya
 "Apa yang ia tahu?" tanya Ashvarok-Renn.
 
 "Bahwa pintu ini lebih penting daripada kunci apa pun." Lelaki itu menatap celah selebar satu jari itu. "Dan bahwa suatu hari, akan ada orang yang datang membawa kunci yang benar — dan orang itu bukan aku. Ia menyuruhku menjaga pintu itu sampai orang itu datang." Ia berhenti. "Aku pikir orang itu kau. Sekarang aku tidak yakin. Mungkin orang itu belum datang. Mungkin kau baru saja memulai perjalanan untuk menjemputnya."
+Ashvarok-Renn memandang celah satu jari itu. Udara yang keluar membawa rasa logam tipis pada lidah. "Kalau orang yang benar belum datang, apa yang kaulakukan saat tangan dari utara mencoba lagi?"
+
+Lelaki berjubah abu-abu menunjukkan kunci palsu yang tergores oleh putaran gagal. "Aku menjaga celah ini dan menahan siapa pun yang ingin memperlebarnya dengan alat."
+
+"Termasuk orangmu sendiri?" tanya Kovan.
+
+Ia melirik pencatat di bawah pohon garam. "Mulai hari ini aku tidak tahu siapa orangku."
+
+Mira mengikat surat panggilannya lebih rapat. "Kalau kami tidak kembali sebelum denyut berubah?"
+
+"Aku kirim tanda ke barak, bukan ke Spire. Kunci palsu tetap di sini; kalau orang utara melihatnya hilang, mereka tahu kalian membawa sesuatu yang lain."
+
+Ashvarok-Renn mengangguk. Keputusan itu lebih berguna daripada sumpah.
 
 Mereka berangkat sebelum tengah hari: empat orang ke utara, dan yang lain ke selatan. The Seeker dan the Keeper berjalan pulang ke barak dengan langkah yang sudah tidak lagi membawa beban, karena beban yang selama delapan belas tahun mereka pikul ternyata bukan batu — melainkan ketidaktahuan, dan ketidaktahuan itu kini diletakkan di tempatnya. Sela, Gella, dan Brannoc ikut ke selatan, membawa buku-buku, papan napas, dan laporan yang harus sampai ke meja Maera di Caldrest: laporan tentang kunci palsu, tentang benang timah, tentang garis arsip yang ternyata satu tubuh dengan jaringan panen. Ke utara hanya empat orang: Mira, yang dipanggil; Ossian, yang tahu jalan dan tahu pintu; Kovan, yang membawa alat ukurnya dan alasan resmi untuk berada di sana; dan Ashvarok-Renn, yang tidak punya nama di Spire dan karena itu tidak bisa dipanggil — yang berjalan sebagai pendamping saksi, dengan benda palsu di saku dada dan dua kain tenun di dalam jaket.
 
@@ -43,7 +56,7 @@ Malam itu, di ruangan atas menara, mereka membaca surat yang dikirim Thessa — 
 
 "Seminggu sebelum surat panggilan dikirim," ulang Kovan pelan. "Berarti garis arsip tahu tentang tiga batu tegak sebelum kita bertemu lelaki berjubah abu-abu. Sebelum kita memutuskan berangkat. Sebelum—"
 
-"Sebelum kita sendiri tahu," kata Ossian. "Mereka membaca tanah. Atau mereka membaca orang yang membaca tanah. Either way, mereka tidak menunggu kita. Mereka menunggu kita untuk datang."
+"Sebelum kita sendiri tahu," kata Ossian. "Mereka membaca tanah. Atau mereka membaca orang yang membaca tanah. Bagaimanapun, mereka tidak menunggu kita. Mereka menunggu kita datang."
 
 Mereka berangkat dari menara pada fajar berikutnya, dan pada sore hari itu, Anthema Spire muncul di cakrawala — bukan sebagai bangunan, tetapi sebagai kehadiran: sebatang jarum batu abu-abu yang menusuk langit, dikelilingi kota yang tumbuh di bawahnya seperti akar yang tidak berani menjauh dari batangnya. Dari kejauhan, Spire tidak terlihat seperti tempat tinggal. Ia terlihat seperti pertanyaan yang didirikan tegak, menunggu jawaban yang tidak pernah datang.
 
@@ -55,10 +68,10 @@ Mereka memasuki kota Anthema Spire menjelang malam, dan kota itu menelan mereka 
 
 Di ambang gerbang itu, Ashvarok-Renn berhenti sebentar. Ia menatap menara batu abu-abu itu, yang kini menjulang di atas mereka, dan merasakan sesuatu yang tidak ia rasakan selama seribu tahun: bukan takut, bukan waspada — tetapi rasa ingin tahu yang tenang, seperti penjaga yang akhirnya berdiri di depan pintu yang selama ini hanya ia dengar namanya. Ia tidak datang untuk menyerang. Ia datang karena dipanggil — panggilan ketiga, panggilan yang tidak pernah ia rencanakan, panggilan yang oleh dunia disebut undangan.
 
-Dan ia tahu, dengan kepastian yang tidak bisa dijelaskan kepada siapa pun, bahwa di suatu tempat di lantai empat puluh, di ruangan yang menyimpan surat-surat penggambar peta selama delapan belas tahun, ada sesuatu yang menunggu untuk dijawab — dan bahwa sesuatu itu, entah kunci, entah nama, entah pertanyaan, akan menentukan apakah pintu di tiga batu tegak itu akan menutup, atau terbuka, atau menunggu seribu tahun lagi.
+Di suatu tempat di lantai empat puluh, di antara surat-surat penggambar peta yang disimpan delapan belas tahun, sebuah jawaban mungkin sudah menunggu. Ashvarok-Renn menggeser tali barang di bahunya dan mengikuti tiga orang di depannya.
 
 "Kita sudah sampai," kata Mira pelan, menatap gerbang itu.
 
 "Kita sudah dipanggil," kata Ossian. "Itu lebih penting."
 
-Dan empat orang itu melangkah masuk ke dalam Anthema Spire — ke dalam panggilan yang memberi nama pada arc ini, ke dalam jantung jaringan yang selama bertahun-tahun menarik benang dari bawah dunia, ke dalam tempat di mana garis yang membaca lebih dulu sedang menunggu untuk bertemu dengan orang yang akhirnya membawa pertanyaan yang tidak bisa dibaca lebih dulu.
+Empat orang itu melewati gerbang dalam Anthema Spire. Di belakang mereka, pegawai menurunkan stempel pada surat panggilan Mira dan memanggil rombongan berikutnya.

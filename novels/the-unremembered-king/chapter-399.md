@@ -3,26 +3,168 @@ title: "Bab 399: Jalan yang Berubah Pikiran"
 chapter: 399
 ---
 
-Mereka berangkat pada fajar yang dijanjikan — bukan fajar setelah dua fajar, melainkan fajar sebelumnya, karena di tengah jalan mereka menemukan hal yang harus didengar dulu, dan hal itu mengubah jadwal, dan jadwal yang berubah oleh hal yang harus didengar adalah jadwal yang berubah dengan benar. Tapi cerita tentang hal itu datang kemudian. Cerita tentang jalan datang lebih dulu, karena jalan ke selatan lewat nat tua bukan perjalanan yang bisa diceritakan dengan satu kata, dan rombongan itu — Ashvarok-Renn, kurator, Kovan, Sela, dan Ondar yang menemani sampai percabangan pertama sebelum kembali menjaga nat barak — tidak pernah sekali pun berjalan dengan cara yang bisa disebut cepat.
+Mereka berangkat pada fajar yang dijanjikan—bukan fajar sebelumnya, melainkan tepat pada fajar setelah dua fajar. Cahaya baru menyentuh bubungan barak ketika Ashvarok-Renn memasuki jalur selatan bersama kurator, Kovan, Sela, dan Ondar. Tidak ada penundaan untuk bekal tambahan atau pemeriksaan terakhir. Undangan sudah menetapkan waktunya, dan waktu itu mereka patuhi.
 
-Jalur selatan yang ditinggalkan itu punya cara menyapa penghuninya, dan cara itu tidak berubah sejak kurator datang pertama kali: katup-katup tua yang ukirannya berdialek dua guru, nat yang berdenyut pelan di bawah tanah seperti urat yang tidak pernah tahu bahwa ia sudah berhenti dibutuhkan, dan air yang berhenti menghormati di tempat-tempat yang sama. Yang berubah adalah denyutnya. Kovan yang menyadarinya lebih dulu, di percabangan pertama, dengan telapak yang menempel ke nat seperti orang yang menempelkan telinga ke pintu: "Nat ini berdenyut lebih... lengkap. Tahun lalu, waktu kurator lewat pertama kali, denyutnya seperti orang bicara dengan jarak — setiap denyut ada sesudahnya yang menghitung. Sekarang tidak ada hitungannya. Denyut begitu saja, terus-menerus, seperti napas orang yang sudah lupa bahwa ia pernah menahan napas." Ia mengangkat telapaknya dan menatapnya, dan menambahkan, dengan suara yang lebih kecil: "Dua pintu satu irama. Aku menghitung kalimat itu sejak ditulis. Baru sekarang aku mengerti bahwa kalimat itu bukan tentang dua pintu. Ia tentang satu tanah yang berhenti membelah dirinya menjadi dua."
+Ondar menemani sampai percabangan pertama. Setelah itu ia harus kembali menjaga nat barak. Selama bagian jalan yang pendek itu pun mereka bergerak lambat. Jalur selatan lewat nat tua menolak langkah tergesa: batu-batunya miring, beberapa cekungan menyimpan air, dan dinding di kedua sisi penuh katup yang perlu diperhatikan sebelum dilewati.
 
-Mereka tidak berjalan sepanjang jalan itu tanpa memberi apa pun. Itu kebiasaan barak yang tidak pernah ditulis di mana pun dan tidak pernah dilanggar oleh siapa pun: pengembalian yang melewati tanah yang menunggu harus meninggalkan sesuatu yang bisa diberi, dan yang mereka tinggalkan bukan uang dan bukan barang, melainkan pekerjaan — di setiap katup yang mereka lewati, Ashvarok-Renn berhenti, menempelkan telapaknya ke dinding, dan mendengarkan satu denyut penuh tanpa memutar apa pun; dan di setiap nat yang berpapasan dengan jalur mereka, Kovan menghitung denyutnya sekali dan mencatatnya dengan angka yang kecil di buku angkanya, angka-angka yang tidak ada gunanya bagi siapa pun dan karena itu paling berharga: catatan bahwa tanah yang lama ditinggalkan sedang didengar lagi, kali ini bukan oleh yang lewat, melainkan oleh yang peduli. Dan di katup pertama, kurator mengeluarkan sikat kawat kecil yang ia bawa khusus untuk itu, dan membersihkan lumut dari tepi ukiran dialék dua guru — pelan, dengan kesabaran tukang, tanpa mengubah satu goresan pun — karena ada perawatan yang bukan pemulihan, dan perawatan adalah cara orang menyatakan bahwa ia akan datang lagi.
+Sela mengenali cara jalur itu menyapa. Katup-katup tua masih membawa ukiran berdialek dua guru. Nat di bawah tanah berdenyut seperti urat yang terus bekerja sesudah tubuhnya dilupakan. Air berhenti menghormati batas di tempat-tempat lama, merembes dari sambungan, lalu mengumpul di lekukan batu.
 
-Di katup kedua — katup yang ukirannya paling dalam, yang dulu menjawab pelat empat titik paling lama — mereka berhenti sesuai kebiasaan, dan kurator membaca ukirannya sekali lagi, dan ukiran itu memberi mereka hal yang tidak pernah ia berikan sebelumnya: pada baris yang paling bawah, di tempat yang dulu terbaca sebagai goresan kerja, kini terbaca jelas sebagai tulisan — karena tulisan yang tidak dipahami pembacanya memang terlihat seperti goresan, dan pembaca yang sudah mengerti membaca yang lain, bukan yang diukir. Kurator membaca kalimat itu pelan, dua kali seperti kebiasaan semua orang yang belajar dari orang yang membaca segalanya dua kali, dan kalimat itu lima kata: *yang menjaga ini tidak pergi.*
+Di percabangan pertama, Kovan berhenti begitu mendadak hingga kotak angka di pinggangnya membentur dinding. Ia berjongkok dan menempelkan telapak ke nat.
 
-"Tulisan ini tidak diukir oleh tangan yang mengukir katupnya," kata kurator, dan jarinya menyentuh baris itu tanpa menggesek. "Ukirannya tua. Tulisannya lebih tua lagi — ditulis sebelum katup ini selesai, oleh tangan yang tahu bahwa katup ini akan jadi katup, dan bahwa katup akan jadi tempat menunggu, dan bahwa yang menunggu butuh satu kalimat untuk dibaca orang yang datang." Ia menarik tangannya, dan berkata kepada katup itu, bukan kepada rombongan: "Kami sudah membaca. Terima kasih sudah menunggu orang yang bisa membaca."
+Ondar menunggu di sisi jalur pulang. Ashvarok-Renn tidak menyuruh siapa pun bergerak.
 
-Dan hal yang harus didengar dulu itu datang di antara katup kedua dan pintu kedua — di tempat yang kurator kenal, di tumpukan sembilan batu: delapan di bawah, satu di atas, tiga ketuk satu diam yang ditulis oleh tangan yang menghitung hari dengan cara barak. Kovan yang berhenti, karena Kovan yang menghitung batu, dan yang ia hitung malam itu bukan sembilan lagi: di samping tumpukan itu, ditata dengan tangan yang teliti, ada tumpukan kedua — empat batu, ditata seperti pelat empat titik, dengan batu kecil di pusatnya — dan di batu pusat itu ada goresan yang baru, goresan yang ditulis tangan yang sama dengan tulisan di bawah katup kedua, goresan yang tidak mungkin ditulis tangan yang berjalan tiga puluh tahun lalu.
+Kovan memejamkan mata. Jari-jarinya merenggang di atas sambungan. Setelah satu denyut panjang, ia membuka mata dan memindahkan telapak beberapa jari ke kiri.
 
-Kurator berlutut di tumpukan itu dan membacanya dengan telapak, dan wajahnya berubah dengan cara yang tidak pernah Ashvarok-Renn lihat berubah sejak mereka bekerja bersama: bukan kaget, bukan takut — melainkan seperti orang yang baru sadar bahwa ia sedang dibaca balik oleh daftar yang ia tulis. "Tulisan ini bilang: *kalian memakai pelatku di nat-nat kalian. Bagus. Pelat itu memang untuk dipakai, bukan disimpan. Aku melihat kalian lewat denyut — kalian mengetuk pelat empat titik di katup ketiga, dan di meja yang menunggu, dan di mana-mana. Pelat itu kenal tangan kalian sekarang. Ia tidak lagi hanya milikku.*" Ia berhenti, dan membaca bagian terakhirnya, dan suaranya mengecil: "Dan di bawahnya: *empat batu ini kalian punya. Batu pusatnya jangan dipindah. Ia menunggu hal yang sama seperti kalian: fajar setelah dua fajar.*"
+“Nat ini berdenyut lebih lengkap,” katanya.
 
-"Tangan itu di sini," kata Ashvarok-Renn, dan itu bukan kesimpulan; itu peringatan, dan peringatan dari Ashvarok-Renn adalah barang yang tidak pernah dibawa pulang tanpa ditimbang. "Baru. Batu pusatnya digores hari ini — goresannya masih menahan lembab malam. Ada orang yang lewat sini hari ini, atau malam tadi, dan orang itu tahu jadwal kita — tidak kira-kira, ia tahu." Ia menatap kurator. "Dan ia tidak menyembunyikan dirinya. Orang yang mau menyembunyikan diri tidak menulis di batu. Orang ini mau ditemukan — tapi bukan hari ini. Ia menetapkan jadwalnya sendiri, seperti semua orang yang kita hormati di pekerjaan ini."
+“Lengkap bagaimana?” tanya Sela.
 
-Mereka memutuskan dengan cara barak: cepat, dengan suara, tanpa rapat. Kovan mencatat posisi tumpukan kedua dan empat detik troli dan semua angka yang bisa diselamatkan dari keanehan hari itu; kurator meninggalkan balasan di batu pusat — satu kalimat, ditulis dengan kapur penanda Resgar: *kami membaca. kami akan datang fajar setelah dua fajar. sup itu bisa dari meja kami.* — dan mereka berjalan lagi, lebih cepat dari sebelumnya, bukan karena takut, melainkan karena ada meja di selatan yang tidak boleh menunggu, dan sekarang ada dua meja yang tidak boleh menunggu, dan perbedaan antara satu dan dua adalah perbedaan yang membuat kaki bekerja. Hanya Sela yang menoleh sekali ke belakang, di tikungan pertama — dan tikungan itu menutup tumpukan batu itu dari pandangan seperti halaman yang dibalik — dan yang ia pikirkan, dan tidak akan ia tulis sampai malam nanti, di buku yang diamnya selesai, adalah hal ini: *tulisan tangan yang sama. tulisan di bawah katup kedua, tiga puluh tahun lalu; tulisan di batu pusat, hari ini. satu tangan, dua waktu. aku tidak tahu siapa dia. tapi aku tahu jenisnya: ia bukan penunggu yang lupa kenapa ia menunggu. ia penunggu yang ingat — dan penunggu yang ingat adalah penunggu yang menunggu sesuatu yang akan datang, bukan sesuatu yang sudah pergi.*
+“Tahun lalu, saat kurator lewat pertama kali, tiap denyut punya jarak sesudahnya. Seperti orang bicara, lalu ada orang lain yang menghitung sebelum jawaban datang.” Kovan menunggu denyut berikut. “Sekarang hitungannya hilang. Denyut berjalan terus seperti napas orang yang sudah lupa pernah menahannya.”
 
-Perpustakaan gema menyala lampu minyaknya ketika mereka tiba — bukan lampu kerja yang terang, melainkan lampu-lampu kecil di ceruk-ceruk, ratusan titik cahaya rendah yang membuat ruangan itu terlihat seperti langit yang disimpan di dalam tanah — dan murid kedua berdiri di ambang, dan di belakangnya meja panjang itu sudah disiapkan seperti meja yang menunggu keluarga: pelat empat titik di satu sisi, kikir serong di sisi yang lain, bejana kosong bengkel utara di tengah, dan di depan kursi kosong — kursi Nilam, yang tidak pernah diduduki — bejana yang tidak bernama itu berdiri di tempatnya, hangat, dengan dua cangkir di sampingnya yang isinya uap panas yang tidak pernah habis.
+Kurator berjongkok di sampingnya, tetapi tidak menyentuh nat. “Perubahannya ada di sini atau datang dari pintu?”
 
-"Kalian datang dengan telinga," kata murid kedua, dan matanya berhenti di Sela lebih lama dari yang sopan, dan tidak ada yang menganggapnya tidak sopan, karena mata yang berhenti seperti itu adalah cara selatan menyapa orang yang paling dekat dengan diam. "Bagus. Karena malam ini kita tidak menanam. Malam ini kita mendengarkan satu kali — pendengaran pertama untuk kalian semua, telinga kalian, bukan telingaku. Besok fajarnya penanaman. Dan malam ini, sebelum kalian tidur, ada satu hal yang harus kalian tahu tentang bejana ini, dan hal itu tidak tertulis di entri mana pun: tiga puluh tahun ia diam, dan selama tiga puluh tahun itu aku mengira ia menunggu diputar. Aku salah. Ia tidak menunggu diputar." Ia menatap bejana itu, dan suaranya turun sampai hampir tak terdengar: "Ia menunggu didengarkan. Dan bedanya, setelah tiga puluh tahun, baru malam ini aku mengerti."
+Kovan menghitung lagi. Bibirnya bergerak empat kali sebelum ia mengangkat tangan.
 
-Mereka makan malam itu di meja panjang yang menunggu keluarga — sup dari meja dapur barak, yang dibawa kurator dalam bekas kotak bejana, ditaruh di tengah meja dengan kainnya masih terlipat; roti akademi yang kering sedikit oleh jalan dan tidak ada yang menyebutnya kering; dan air panas yang dituang murid kedua ke dua cangkir yang tidak pernah kosong, dan malam itu, untuk pertama kalinya, dituang juga ke cangkir ketiga yang ia ambil dari rak, baru, yang tidak dipakai siapa pun selama tiga puluh tahun — dan cangkir ketiga itu ia letakkan di tempat yang selalu kosong, dan tidak ada yang bertanya untuk siapa, karena untuk siapa sudah jelas dan sudah tidak jelas pada saat yang sama, dan pertanyaan seperti itu dibiarkan tidur sampai paginya sendiri yang menjawab. Sela duduk di sebelah bejana yang tidak bernama, tidak mendekat lebih dari yang diperlukan, tidak menjauh lebih dari yang sopan, dan menemukan — dan menuliskannya malam itu di bukunya, sebelum tidur — bahwa diam bejana itu dan diam bukunya berbicara bahasa yang sama: *dua benda yang berhenti di tengah, bukan karena selesai, melainkan karena menunggu pembaca yang cukup jujur. aku bekerja tiga puluh tahun lebih dekat dengan diam daripada dengan orang. malam ini aku duduk di sebelah diam yang bekerja sama lamanya. dan diam itu, seperti diamku, tidak pernah selesai dengan dirinya sendiri.*
+“Tidak bisa dipisahkan lagi.” Ia mengambil buku angkanya. “Dua pintu satu irama. Aku menghitung kalimat itu sejak ditulis. Baru sekarang aku paham. Kalimat itu tidak bicara tentang dua pintu. Satu tanah sudah berhenti membelah dirinya menjadi dua.”
+
+Ondar memandang jalur selatan, lalu jalur pulang. “Perlu orang tambahan dari barak?”
+
+Ashvarok-Renn menempelkan telapak ke nat dan mendengarkan. “Tidak. Denyutnya utuh dan tidak mendesak. Jaga nat barak seperti rencana.”
+
+“Kalau iramanya berubah lagi?”
+
+“Kirim hitungan, jangan orang. Kami perlu tahu bentuk perubahannya sebelum mengganggu pintu.”
+
+Keputusan itu membuat Ondar berdiri. Ia menyentuh bahu Kovan sekali, mengangguk kepada yang lain, lalu kembali ke arah barak. Mereka menunggu sampai bunyi langkahnya hilang. Baru setelah itu rombongan melanjutkan perjalanan.
+
+Mereka meninggalkan pekerjaan di sepanjang jalur. Kebiasaan itu tidak tercatat dalam aturan barak, tetapi tidak pernah dilanggar: pengembalian yang melewati tanah menunggu harus memberi sesuatu yang masih berguna. Tidak ada uang atau barang yang ditaruh. Mereka memberi perhatian dan waktu.
+
+Pada setiap katup, Ashvarok-Renn berhenti. Ia menempelkan telapak ke dinding dan mendengarkan satu denyut penuh tanpa memutar apa pun. Di setiap nat yang memotong jalur, Kovan menghitung sekali, lalu menulis angka kecil di bukunya. Angka-angka itu tidak membuka pintu dan tidak menggerakkan katup. Angka itu mencatat bahwa tanah lama sedang didengar lagi oleh orang yang berniat kembali.
+
+Di katup pertama, kurator mengeluarkan sikat kawat kecil yang dibawanya untuk pekerjaan itu. Lumut memenuhi tepi ukiran dialek dua guru. Ia membersihkannya pelan, mengikuti lekuk tanpa mengubah satu goresan. Serbuk hijau jatuh ke kain yang dibentangkan Sela di bawah tangannya. Setelah selesai, kurator melipat kain dan menyimpan lumutnya jauh dari sambungan.
+
+Katup kedua berdiri lebih dalam di dinding. Ukirannya paling tajam, dan dahulu katup itu menjawab pelat empat titik lebih lama daripada katup lain. Kurator membaca dari baris atas, dua kali, mengikuti kebiasaan orang yang belajar dari pembaca yang selalu mengulang bacaan.
+
+Pada baris bawah ia berhenti.
+
+Sela melihat ujung jarinya menggantung di atas lima lekuk pendek. Dahulu mereka menganggapnya bekas alat kerja. Lumut yang hilang dan pengetahuan yang bertambah membuat bentuknya terbaca sekarang.
+
+Kurator mengucapkan lima kata itu.
+
+“Yang menjaga ini tidak pergi.”
+
+Tidak ada yang bergerak. Denyut nat merambat melalui telapak kaki Sela.
+
+“Tulisan atau kerusakan?” tanya Ashvarok-Renn.
+
+“Tulisan.” Kurator menelusuri udara di atas baris itu tanpa menyentuh batu. “Tangan yang membuatnya berbeda dari tangan pengukir katup.”
+
+“Lebih baru?”
+
+“Lebih tua.” Kurator membaca ulang baris tersebut. “Kalimat ini ditulis sebelum katup selesai. Penulisnya tahu batu ini akan menjadi katup. Ia juga tahu katup akan menjadi tempat menunggu.”
+
+Kovan mendekat satu langkah. “Kalau yang menjaga tidak pergi, apakah kalimat ini peringatan agar katup jangan disentuh?”
+
+Kurator menggeleng. “Susunan katanya tidak melarang. Ia memberi tahu pembaca bahwa penantian masih dijaga.”
+
+“Lalu kita jawab atau mencatat saja?” tanya Sela.
+
+Ashvarok-Renn memandang ukiran yang baru terbaca. “Jawaban yang digores akan mengubah benda.”
+
+“Dan diam akan mengulang tiga puluh tahun tanpa pembaca,” kata kurator.
+
+Ia menurunkan tangannya. “Kita jawab dengan suara. Tidak meninggalkan goresan baru. Katup ini sudah membawa kalimatnya sendiri.”
+
+Ashvarok-Renn mengangguk. Keputusan itu menahan sikat, kapur, dan buku dari permukaan batu.
+
+Kurator menghadap katup. “Kami sudah membaca. Terima kasih sudah menunggu orang yang bisa membaca.”
+
+Mereka mendengarkan satu denyut lagi. Tidak ada katup yang bergerak. Namun lima kata itu sekarang menjadi informasi, bukan bekas kerja, dan mereka membawa informasi tersebut ke jalan berikutnya.
+
+Di antara katup kedua dan pintu kedua berdiri tumpukan yang dikenali Sela: sembilan batu, delapan di bawah dan satu di atas. Susunannya menyimpan tiga ketuk, satu diam, tulisan tangan orang yang menghitung hari dengan cara barak.
+
+Kovan berhenti lebih dahulu. Matanya tidak tertuju pada sembilan batu.
+
+Di sampingnya ada tumpukan kedua.
+
+Empat batu ditata mengikuti pelat empat titik. Sebuah batu kecil berada di pusatnya. Goresan pada batu pusat masih gelap oleh lembap malam.
+
+Kurator berlutut. Ia tidak langsung membaca. Telapaknya menyentuh tanah di sebelah tumpukan, lalu sisi tiap batu, baru batu pusat. Sela melihat bahunya menegang. Wajahnya tampak seperti wajah seseorang yang menemukan balasan di dalam daftar yang ia kira hanya bisa ditulis dari satu arah.
+
+“Apa katanya?” tanya Kovan.
+
+Kurator membaca dengan telapak sekali lagi.
+
+“‘Kalian memakai pelatku di nat-nat kalian. Bagus. Pelat itu memang untuk dipakai, tidak untuk disimpan. Aku melihat kalian lewat denyut. Kalian mengetuk pelat empat titik di katup ketiga, di meja yang menunggu, dan di mana-mana. Pelat itu kenal tangan kalian sekarang. Ia tidak lagi hanya milikku.’”
+
+Ia berhenti pada goresan bawah. Suaranya mengecil ketika melanjutkan.
+
+“‘Empat batu ini kalian punya. Batu pusatnya jangan dipindah. Ia menunggu hal yang sama seperti kalian: fajar setelah dua fajar.’”
+
+Sela memandang cahaya yang sudah naik di mulut jalur. Fajar setelah dua fajar adalah waktu keberangkatan mereka hari itu. Tumpukan ini tidak mungkin mengubah waktu yang telah mereka patuhi. Pesan baru itu menetapkan hitungan berikutnya.
+
+“Tangan itu ada di sini,” kata Ashvarok-Renn.
+
+Ia jongkok tanpa menyentuh batu. Ujung kukunya mendekati goresan pusat.
+
+“Goresannya dibuat hari ini atau malam tadi. Lembap masih tertahan di dalamnya. Penulis tahu jadwal kita dengan tepat.”
+
+“Kalau ia ingin ditemui sekarang, ia bisa menunggu di jalan,” kata Kovan.
+
+“Ia tidak meminta hari ini,” jawab Ashvarok-Renn. “Ia menentukan waktu sendiri. Kita menghormatinya.”
+
+Kurator membuka kotak kapur penanda Resgar, tetapi belum mengambil kapurnya. “Kita harus membalas.”
+
+“Kita harus tiba di perpustakaan,” kata Ashvarok-Renn. “Penanaman sudah punya waktunya.”
+
+“Balasan tidak mengubah keberangkatan atau penanaman.” Kurator menunjuk ruang kosong di sisi batu pusat. “Tujuannya dua: memastikan penulis tahu pesannya diterima, lalu menetapkan waktu kita kembali tanpa mengganggu penanaman.”
+
+Kovan membuka buku angka. “Hitung dari fajar mana?”
+
+“Besok fajar dipakai untuk penanaman,” kata Sela. “Jangan jadikan fajar itu waktu perjalanan.”
+
+“Berarti fajar setelah dua fajar dari hari ini,” kata Kovan. “Penanaman besok tetap pada waktunya. Kita kembali pada fajar berikutnya.”
+
+Ashvarok-Renn memandang kurator. “Tulis dua hal itu. Jangan biarkan penulis mengira kita menunda penanaman.”
+
+Kurator mengambil kapur. “Dan sup?”
+
+“Masukkan,” kata Sela. “Ia sudah tahu pelat dan meja kita. Balasan harus memberi tahu meja mana yang akan menyambutnya.”
+
+Kurator menulis pada sisi batu pusat tanpa memindahkannya:
+
+*kami membaca. besok fajar kami menanam. fajar setelah dua fajar dari hari ini, kami kembali. sup itu bisa dari meja kami.*
+
+Kovan membaca balasan itu keras-keras, lalu menuliskan posisi tumpukan kedua, empat detik troli, dan semua angka yang dapat diselamatkan dari keanehan tersebut. Ashvarok-Renn memeriksa bahwa tak satu batu pun bergeser.
+
+Mereka berjalan lagi. Langkah mereka lebih cepat karena perpustakaan di selatan tetap menunggu pada jadwalnya, sementara tumpukan batu kini memiliki jadwal sendiri. Kedua janji tidak saling mengambil waktu.
+
+Di tikungan pertama, Sela menoleh. Jalur menutup tumpukan batu seperti halaman yang dibalik. Ia menyimpan satu kalimat untuk bukunya malam nanti: tangan yang sama menulis di bawah katup tiga puluh tahun lalu dan pada batu pusat hari ini. Ia belum tahu siapa pemilik tangan itu. Ia tahu penunggu tersebut masih mengingat tujuan penantiannya.
+
+Lampu minyak perpustakaan gema sudah menyala ketika mereka tiba. Lampu-lampu kecil memenuhi ceruk, ratusan titik rendah di dalam batu. Cahaya itu membuat langit tersimpan jauh di bawah tanah.
+
+Murid kedua berdiri di ambang.
+
+Di belakangnya, meja panjang telah disiapkan seperti meja yang menunggu keluarga. Pelat empat titik berada di satu sisi. Kikir serong terletak di sisi lain. Bejana kosong bengkel utara menempati bagian tengah. Di depan kursi Nilam, kursi kosong yang tidak pernah diduduki, bejana tanpa nama berdiri hangat dengan dua cangkir di sampingnya. Uap dari keduanya terus naik.
+
+“Kalian datang dengan telinga,” kata murid kedua.
+
+Tatapannya berhenti pada Sela lebih lama dari batas sopan. Tidak seorang pun menegurnya. Di selatan, tatapan semacam itu menyapa orang yang paling dekat dengan diam.
+
+“Bagus,” lanjutnya. “Malam ini kita mendengarkan satu kali. Pendengaran pertama memakai telinga kalian, tidak memakai telingaku.”
+
+“Penanaman?” tanya Ashvarok-Renn.
+
+“Besok fajar.”
+
+Murid kedua berpaling ke bejana tanpa nama.
+
+“Sebelum tidur, kalian perlu tahu satu hal yang tidak tertulis dalam entri mana pun. Selama tiga puluh tahun bejana ini diam. Selama itu aku mengira ia menunggu diputar.” Ia meletakkan telapak di meja, dekat bejana. “Aku salah. Ia menunggu didengarkan. Perbedaannya baru kupahami malam ini.”
+
+Mereka makan di meja panjang. Kurator membuka bekas kotak bejana dan mengeluarkan sup dari meja dapur barak, masih terbungkus kain terlipat. Roti akademi telah sedikit kering selama perjalanan. Tidak ada yang mengatakannya. Murid kedua menuangkan air panas ke dua cangkir yang tidak pernah kosong.
+
+Lalu ia mengambil cangkir ketiga dari rak.
+
+Cangkir itu baru dan tidak pernah dipakai selama tiga puluh tahun. Ia mengisinya, lalu meletakkannya di tempat yang selalu kosong. Tidak ada yang bertanya untuk siapa. Pertanyaan itu dibiarkan menunggu fajar.
+
+Sela duduk di sebelah bejana tanpa nama, cukup dekat untuk mendengar dan cukup jauh untuk tidak mengganggu. Seusai makan, sebelum tidur, ia membuka bukunya dan menulis bahwa diam bejana itu berbicara dalam bahasa yang sama dengan diam bukunya: dua benda berhenti di tengah karena menunggu pembaca yang cukup jujur. Selama tiga puluh tahun ia bekerja lebih dekat dengan diam daripada dengan orang. Malam itu, dengan cangkir ketiga mengepulkan uap di kursi kosong, ia duduk di samping diam yang telah bekerja sama lamanya.

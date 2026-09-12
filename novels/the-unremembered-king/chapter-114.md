@@ -51,11 +51,11 @@ Ia menghabiskan sisa jam itu untuk hal yang paling tidak heroik dalam seluruh ka
 
 Patroli cover inspeksi ventilasi turun ke kedalaman pada jam terakhir sebelum pergantian jaga, dengan Brannoc di persimpangan utama menjaga daftar hadir palsu yang isinya benar dan Ondar memutar rute sebelas barat agar jalur troli timur kosong.
 
-Lorong troli timur masih menyimpan bekas runtunan itu sebagai lanskap. Dinding-dindingnya baru secara geologi dan tua secara luka, dan di tengah lorong, di tempatan empat regu terkurap setahun silam, berdiri tunggul penyangga yang tidak seharusnya ada. Batu cinder-glass setinggi lutut orang dewasa, permukaannya mengkilap di tempat panas pernah melewatinya, dan alat-alat resmi membacanya sebagai formasi batu berumur mustahil, karena umurnya sungguhan, hanya saja umurnya dimiliki malam lain.
+Lorong troli timur masih menyimpan bekas runtunan itu sebagai lanskap. Dinding-dindingnya baru secara geologi dan tua secara luka, dan di tengah lorong, di tempat empat regu terkurung setahun silam, berdiri tunggul penyangga yang tidak seharusnya ada. Batu cinder-glass setinggi lutut orang dewasa, permukaannya mengkilap di tempat panas pernah melewatinya, dan alat-alat resmi membacanya sebagai formasi batu berumur mustahil, karena umurnya sungguhan, hanya saja umurnya dimiliki malam lain.
 
 Ashvarok berlutut di depannya sendirian. Brannoc berdiri empat puluh langkah di belakang, di titik yang disepakati, dengan punggung ke arah persimpangan dan telinga ke arah lorong.
 
-Ia meletakkan kedua telapaknya pada tunggul, dan membaca batu itu lebih dulu, seperti diajarkan era yang sudah matian. Batu ditanya lebih dulu. Yang menjawab bukan gema — melainkan sesuatu yang lebih pendek dari gema, semacam perhatian. Tunggul ini pernah menjadi pecahan yang jatuh, lalu menjadi penahan yang berdiri, dan ia mengingat kedua statusnya dengan cara batu mengingat — yaitu tanpa kata.
+Ia meletakkan kedua telapaknya pada tunggul, dan membaca batu itu lebih dulu, seperti diajarkan era yang sudah mati. Batu ditanya lebih dulu. Yang menjawab bukan gema — melainkan sesuatu yang lebih pendek dari gema, semacam perhatian. Tunggul ini pernah menjadi pecahan yang jatuh, lalu menjadi penahan yang berdiri, dan ia mengingat kedua statusnya dengan cara batu mengingat — yaitu tanpa kata.
 
 Lalu Ashvarok membuka pintu ruangan itu di dalam dirinya, mengambil tenunan Name, dan menenun dua suku kata dari bahasa yang sudah tidak dimiliki siapa pun lagi. Formula penyangga era Hegemony, kata teknis untuk batu yang diperintahkan berdiri, nama yang dulu diucapkan ribuan kali oleh ribuan tukang kunci di seribu aula, nama yang terbukti selama zaman karena semua aula yang memakainya masih berdiri sampai hari ini.
 

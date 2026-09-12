@@ -3,82 +3,178 @@ title: "Bab 337: Celah yang Menyimpan Lain"
 chapter: 337
 ---
 
-Fajar ketiga sejak batch ketiga selesai, Ashvarok-Renn turun ke celah menara tempat perawat tua berdiri menjaga benang pertama. Kabut tipis menyelimuti lorong batu itu, dan di kegelapan bawahnya, ia ingat ada sosok lain yang delapan belas tahun tak pernah ia panggil namanya. Cahaya pertama menyusup pelan, menerangi wajah pengrajin lonceng yang delapan belas tahun tak pernah keluar ke atas — sama seperti perawat tua yang menjaga ambang di atas, lelaki itu telah menjadi bagian dari batu itu sendiri.
+Fajar belum mencapai jendela the Northern Tower ketika perawat tua membawa Ashvarok-Renn ke anak tangga terakhir. Di sana, lorong berakhir pada dinding batu yang lembap. Udara berbau jelaga lama dan minyak tali. Dari balik dinding terdengar gesekan pendek, teratur, lalu diam.
 
-"Kau bilang dulu ada penjaga kedua," kata Ashvarok-Renn pada perawat tua. "Seorang pengrajin lonceng."
+"Kau yakin ada ruang di belakangnya?" tanya Mira. Ia mengangkat lampu lebih tinggi. Cahaya hanya menemukan sambungan batu yang rapat.
 
-Perawat tua mengangguk pelan, tangannya masih memilin benang pertama yang delapan belas tahun tak putus. "Ia ada. Sejak cap tujuh garis mulai muncul di desa kaki menara, ia sembunyi di ruang bawah. Katanya lebih baik satu kunci yang kelihatan daripada dua yang dicari. Dan ia benar — the Wanes hanya mencari yang di atas, tak pernah menyelami kegelapan di bawah."
+Perawat tua menyelipkan jarum pemilin ke sebuah lubang selebar kuku. "Aku yakin ada orang di belakangnya. Ruangnya urusan batu."
 
-Ashvarok-Renn mengetuk ubin tiga kali, diam sehentakan — tanda laporan selesai yang hanya mereka berdua pahami. Dari kegelapan, sebuah sosok kurus muncul: seorang lelaki tua dengan tangan kasar penuh bekas tali lonceng, mata tenang seperti danau sebelum angin. Ia berdiri tegak meski punggungnya membungkuk, seolah delapan belas tahun duduk di ruang bawah telah menanamnya ke dalam batu.
+Ia memutar jarum setengah lingkaran. Sebongkah dinding bergeser ke dalam tanpa bunyi engsel. Celah sempit terbuka, cukup bagi satu tubuh untuk lewat menyamping. Hawa dingin menyentuh wajah Ashvarok-Renn. Di bawahnya, tangga lain turun ke gelap.
 
-"Pengrajin lonceng," kata Ashvarok-Renn. "Berapa napasmu subuh ini?"
+"Delapan belas tahun kau tidak pernah menyebut jalan ini," katanya.
 
-Lelaki tua itu tidak menjawab dengan angka. Ia menarik napas panjang pelan, lalu membiarkannya keluar setengah hitungan lebih cepat dari orang biasa. Ashvarok-Renn menghitung di jarinya: satu, dua, tiga, empat, lima — dan napas itu berhenti di hitungan kelima, setengah lebih pendek dari napas perawat tua di sebelahnya. Sela, yang berdiri di serambi membawa papan napas, mencatat dengan suara pelan. "Napas subuh: lima hitungan setengah. Sama polanya dengan perawat tua, tetapi setengah hitungan lebih pendek. Ini the Silence Survivor."
+"Delapan belas tahun tidak ada yang bertanya tentang separuh lagu yang hilang." Perawat tua melepas jarumnya. "Kemarin kau mengetuk dua pendek, satu panjang. Dia menjawab dari bawah."
 
-Ashvarok-Renn menatap lelaki tua itu lama, memperhatikan tangan kasar yang delapan belas tahun memilin tali lonceng tanpa pernah membunyikannya. "Delapan belas tahun kau di sini, membuat lonceng yang tak pernah dibunyikan."
+Ashvarok-Renn masuk lebih dulu. Kakinya mengenali kedalaman lewat getaran di batu: dua belas anak tangga, sebuah pelataran, lalu tujuh lagi. Dinding makin dingin. Tidak ada gema langkah mereka. Seseorang telah menutup rongga-rongga kecil dengan gulungan serat dan kain, pekerjaan sabar yang dilakukan sedikit demi sedikit.
 
-"Lonceng untuk memanggil yang hilang," kata pengrajin lonceng akhirnya. "Namun yang hilang sudah jadi kunci. Aku hanya jaga agar benangnya tak putus saat kunci tidur. Ibu Tamma bilang suatu hari lonceng itu akan dibutuhkan, tetapi ia tidak bilang untuk apa."
+Di dasar tangga, lampu Mira menerangi sebuah bengkel yang tak lebih luas dari ruang jaga. Tali lonceng tergantung dari palang rendah. Potongan logam memenuhi rak. Sebuah lonceng setinggi lutut berdiri di tengah ruangan dengan mulut terbungkus kain tebal. Lelaki tua duduk di sampingnya, memilin ujung tali dengan jari yang menebal oleh kapalan.
 
-Di menara, Mira membuka buku catatan dan menulis: *Celah menara menyimpan dua kunci: the Gate (perawat tua) dan the Silence (pengrajin lonceng). Keduanya napas pendek pola the Remainder. Barak kini pegang five of the Seven napas.*
+Ia tidak bangkit ketika mereka masuk. "Dua pendek, satu panjang," katanya. Suaranya serak karena lama jarang dipakai. "Tamma mengajarkan tanda itu untuk laporan selesai. Kalian memakainya sebagai pertanyaan."
 
-Kovan menatap peta di dinding barak. Benang emas kini menyambung ke dua titik di celah yang sama — the Gate dan the Silence berdampingan, berdenyut beriringan. "Dua kunci di satu menara," bisiknya pada Sela. "Itu yang selama ini kita lewatkan. Kita pikir celah ini hanya menyimpan satu, padahal sejak delapan belas tahun lalu ia menyimpan dua, berjaga dalam diam."
+"Karena laporan kami belum selesai," jawab Ashvarok-Renn.
 
-Di rawa utara, murid Ossian mengirim kain via the Northern Listener: *Dua belas anak masih main di tepi danau. the Stillness Breath (perempuan tua perahu) tidur nyenyak di pondok terapung. The Wanes lewat tadi pagi menghitung napas nelayan, buta bahwa kunci keempat bersembunyi sejauh itu.* Ashvarok-Renn mengangguk membaca kain itu. "Empat sudah aman. Tinggal pastikan the Silence dan the Ground."
+Lelaki itu memandang perawat tua, bukan dirinya. "Kau membawa pembaca batu."
 
-Sela menulis di papan sisi dengan tulisan rapi: *Strategi tetap: jaga di ambang, bukan kumpul. the Silence di celah (tersembunyi dalam lorong bawah), the Ground di tanah (tak bisa dicabut tangan). The Wanes mencari orang, kita menjaga napas. Selama napas berjalan, pintu dunia tertidur.*
+"Aku membawa orang yang tahu apa yang diburu the Wanes," kata perawat tua. "Mereka sudah mulai mengukur napas di desa-desa utara. Kalau kita tetap menyimpan separuh rahasia dari satu sama lain, mereka akan menyusun keseluruhannya lebih dulu."
 
-Gella mendekat membawa buku pemulihan dan meletakkannya di pangkuan Ashvarok-Renn. "Kau the Bearer," katanya. "Napas minggu ini masih tiga. Delapan belas tahun kau jaga benang, dan kini lima sudah di ambang. Jangan gegabah turun ke utara atau selatan."
+Pengrajin lonceng menaruh tali di pangkuan. "Mereka mencari tujuh tanda di kulit."
 
-"Tidak ke utara," kata Ashvarok-Renn. "Kita kerjakan dari sini. the Silence sudah di tangan. Tinggal the Ground."
+"Kemarin begitu," kata Mira. "Hari ini mereka membawa pergi orang yang napasnya pendek."
 
-Ossian, yang baru tiba dari utara, menyerahkan kain tenun pendek. *Cap tujuh garis the Wanes kini di enam desa utara. Mereka ukur napas dua orang tiap fajar. Masih kasar, tetapi pola napas pendek mulai mereka catat dalam buku kasar. Jendela kita mengecil hari demi hari.*
+Untuk pertama kalinya tangan lelaki itu berhenti. Ujung tali terlepas dari jarinya, tetapi tidak jatuh; simpulnya masih terkait pada pergelangan.
 
-Ashvarok-Renn menatap ke utara di mana rawa menyembunyikan napas keempat, lalu ke selatan di mana the Hollow menunggu. "Maka kita ke the Ground sebelum mereka paham bedanya," katanya pada Kovan. "Lima sudah di ambang. Sisa satu. Kita lebih dulu dari mereka yang buta mencari darah."
+Ashvarok-Renn berjongkok di seberangnya. "Berapa lama kau tinggal di bawah menara?"
 
-Perawat tua menyanyikan satu baris irama lama, pelan, seolah menutup hari. Pengrajin lonceng di celah bawah menyambung dengan ketukan ubin yang sama — dua kunci di menara yang sama, berdenyut beriringan menjaga ambang agar tak pernah terbuka oleh siapa pun yang salah sasar. Di atas, Ashvarok-Renn mendengar dan tersenyum tipis; pintu dunia tetap tertidur, dijaga oleh napas yang tak pernah mereka pahami sendiri.
+"Sejak malam orang-orang bercap datang ke celah."
 
-Di barak, Brannoc melatih tiga anak angkatan keempat cara memukul papan dengan ketukan darurat: dua pendek satu panjang berarti lari ke benang. "Kalian bukan prajurit," katanya. "Kalian mata. Dan mata yang diajarkan ketukan tidak akan panik saat dibutuhkan. Kalian kabari barak, bukan hadapi musuh."
+"Delapan belas tahun."
 
-Kovan mencatat di peta: benang abu-abu ke utara kini dikelilingi enam cap tujuh garis, tetapi di celah menara, dua benang emas menyala pelan — the Gate dan the Silence, berdampingan, menjaga ambang yang sama. "Dua kunci dalam satu menara," katanya pelan. "Mungkin itulah alasan celah ini tak pernah jatuh — ia dijaga dari dalam, oleh mereka yang tak tahu mereka adalah kunci."
+"Kalau kau sudah tahu, jangan minta aku menghitungnya lagi."
 
-Ashvarok-Renn naik ke menara dan berdiri di ambangnya menatap ke utara lalu selatan. "Lima dari tujuh," bisiknya pada malam. "Satu di sini bersama kuncinya yang kedua, satu di barat daya yang lolos, satu di timur, satu di rawa, satu di celah. The Wanes pegang batu tanpa kunci. Selama napas menyimpan dunia, pintu takkan pernah terbuka."
+Nada itu bukan penolakan. Ada lelah yang telah mengeras menjadi tata tertib: jawab yang perlu, simpan sisanya. Ashvarok-Renn mengenal disiplin semacam itu. Penjaga yang bertahan lama tidak hidup dari keberanian. Mereka hidup dari kebiasaan yang tak boleh gagal.
 
-Mira menutup buku catatannya. "Lima napas kecil yang tidak tahu mereka menjaga dunia," bisiknya. "Pagar terbaik adalah yang tidak merasa dipagar."
+Ia menunjuk lonceng terbungkus. "Mengapa tidak pernah dibunyikan?"
 
-Sela berdiri di serambi memegang papan napas, menatap ke celah di mana pengrajin lonceng baru saja dikonfirmasi sebagai kunci kelima. "Lima napas kecil yang tidak tahu mereka menjaga dunia," bisiknya lagi pelan. "Pagar terbaik adalah yang tidak merasa dipagar, karena mereka yang merasa dipagar akan bergerak, dan gerakanlah yang the Wanes lihat."
+"Karena pekerjaanku membuatnya siap, bukan memakainya." Pengrajin itu meraba ikatan kain pada mulut lonceng. "Tamma menyuruhku membuat satu lonceng yang tidak memanggil orang. Ia bilang bunyinya harus disimpan sampai tanah perlu diingatkan untuk tetap menjadi tanah. Setelah itu dia pergi."
 
-Dan di celah bawah, pengrajin lonceng duduk memilin benang terakhir di jarinya, tahu bahwa esok fajar napasnya akan diukur lagi oleh Sela — bukan untuk mencurigai, melainkan untuk memastikan kunci kelima tetap hidup di ambang yang sama dengan kunci pertamanya. Di atas, perawat tua menyanyi dalam irama yang delapan belas tahun mereka pelihara tanpa tahu maknanya, dan di menara, Ashvarok-Renn mendengar serta tersenyum tipis, karena untuk pertama kalinya dalam delapan belas tahun, celah itu tak lagi menyimpan rahasia yang sendirian.
+"Ke the Hollow?"
 
-Sela menghampiri pengrajin lonceng untuk kedua kalinya, memegang pergelangannya, menghitung napas di jari. "Lima hitungan setengah," katanya. "Sama polanya dengan perawat tua." Ia mencatat di papan: *the Silence = pengrajin lonceng, napas 5.5. Kunci kelima di celah.*
+"Ia tidak memberiku nama tempat. Hanya arah selatan dan pesan agar aku tidak naik sampai orang di atas menyelesaikan lagunya."
 
-Di kaki menara, cap tujuh garis the Wanes terpasang di tiang pertama. Mereka menghitung napas tetangga, kasar, tetapi arah mulai benar. Pengrajin lonceng menggeleng pelan dari celah. "Mereka belajar," bisiknya. "Namun kita delapan belas tahun lebih dulu."
+Perawat tua merapatkan selendang. "Aku tidak pernah menyelesaikannya. Aku hanya ingat baris pertama."
 
-Brannoc melatih tiga anak di halaman: ketukan darurat dua pendek satu panjang. "Kalian mata, bukan prajurit," katanya. "Bila the Silence butuh lari, kabari via ketukan."
+"Kau ingat bagianmu." Pengrajin itu memandangnya. "Bagian kedua bukan untuk dinyanyikan."
 
-Gella membuka buku pemulihan dan mengukur napas Ashvarok-Renn di pelupuk mata. "Masih tiga," katanya. "Delapan belas tahun kau jaga benang ini, dan kini lima sudah di ambang."
+Ia mengangkat tangan dan mengetuk lantai dengan buku jarinya: dua ketuk pendek, lalu satu ketuk panjang. Perawat tua menarik napas pada ketukan pertama, mengembuskannya pada ketukan kedua, lalu menahan sela hingga ketukan panjang selesai.
 
-Ossian mengirim kain dari utara via the Northern Listener: *Cap tujuh garis kini di enam desa. Masih kasar.* Ashvarok-Renn membacanya dan mengangguk pelan.
+Pengrajin lonceng menunggu kedua ketukan pendek berlalu. Napasnya masuk bersama ketukan panjang, lalu terputus setengah hitungan sebelum bunyi berakhir.
 
-Mira di menara mencatat dentum utara yang memanjang setengah hitungan. "The Northern Listener kirim laporan," katanya. "The Wanes mulai hitung napas, bukan tanda lahir."
+Ashvarok-Renn tidak perlu meminta Mira menghitung. Napas keduanya berakhir dengan kekurangan setengah hitungan yang sama, tetapi iramanya berlawanan. Perawat tua menahan sela pada akhir. Pengrajin itu menyimpan sela di tengah, tempat bunyi seharusnya muncul. Benang yang selama ini terasa tunggal di celah menara terpisah di bawah telapak kaki Ashvarok-Renn: satu bertahan pada ambang, satu lagi turun melewati batu dan mengarah jauh ke selatan.
 
-Kovan menatap peta benang emas yang kini memiliki dua titik di celah yang sama. "Dua kunci dalam satu menara," katanya. "Mungkin itulah alasan celah ini tak pernah jatuh — dijaga dari dalam."
+Mira berlutut, menaruh dua jari pada lantai. "Ada dua."
 
-Ashvarok-Renn menutup bible kecilnya dan menulis baris baru: *Batch 4: the Silence (celah) dikonfirmasi. five of the Seven napas di tangan. The Wanes belajar ukur napas (kasar). Sisa the Ground (the Hollow).*
+Perawat tua menatap pengrajin lonceng. "Selama ini kupikir jawabanmu hanya gema laguku."
 
-Di celah bawah, pengrajin lonceng memilin benang terakhir di jarinya, tahu bahwa esok fajar ia akan dibangunkan oleh Sela yang akan mengukur napasnya — bukan untuk mencurigai, melainkan untuk memastikan kunci kelima tetap hidup di ambangnya.
+"Gema datang terlambat," katanya. "Aku selalu mengetuk lebih dulu."
 
-Ashvarok-Renn menatap peta benang emas yang kini memiliki dua titik di celah yang sama. "Mungkin itulah alasan celah ini tak pernah jatuh — dijaga dari dalam, oleh mereka yang tak tahu mereka adalah kunci."
+Ashvarok-Renn meletakkan telapak tangannya di lantai, tetapi tidak membuka Listen sepenuhnya. Batu sudah memberi cukup jawaban. Napas perawat tua menjaga celah sebagai the Gate. Napas lelaki di hadapannya tidak mengisi bunyi; ia menjaga ruang tempat bunyi tidak dibuat. The Silence bukan nama bagi persembunyian. Ia adalah cara pengrajin itu bertahan.
 
-Malam turun, dan di menara, perawat tua serta pengrajin lonceng menyanyi bersama dalam irama yang delapan belas tahun mereka pelihara tanpa tahu maknanya. Di atas, Ashvarok-Renn mendengar dan tersenyum tipis — pintu dunia tetap tertidur, dijaga oleh napas yang tak pernah mereka pahami sendiri.
+"The Wanes mengira tujuh kunci akan ditemukan pada tujuh tubuh yang terpisah," kata Ashvarok-Renn. "Mereka tidak akan mencari dua di menara yang sama."
 
+"Kau memberi kami nama?" tanya pengrajin.
 
-Ashvarok-Renn menutup bible dan menulis baris terakhir: *Batch 4: the Silence (celah) dikonfirmasi. Yang tersisa hanyalah the Ground (the Hollow). Kirim Ossian ke pangkal sebelum mereka paham bedanya.*
+"Bukan namamu. Nama pekerjaanmu. Perawat menjaga the Gate. Kau menjaga the Silence."
 
+Lelaki tua itu menguji sebutan tersebut dengan mengetuk sekali pada sisi bangku. "Nama pekerjaan bisa berubah menjadi alamat."
 
-Sela berdiri di serambi memegang papan napas.
+"Karena itu hanya orang di ruangan ini yang akan mengucapkannya." Ashvarok-Renn menatap Mira. "Di buku, tulis dua napas di celah. Jangan tulis siapa, jangan tulis ruang bawah."
 
-Kovan menatap peta benang emas. "Lima napas di tangan," bisiknya. "Satu lagi di pangkal.
+Mira tidak segera menurut. "Arsip menara meminta nama saksi. Bila aku meninggalkan bagian itu kosong, mereka akan bertanya."
 
-Di menara, perawat tua menyanyikan irama lama, dan pengrajin lonceng di celah bawah menyambung dengan ketukan ubin. Dua kunci di menara yang sama berdenyut pelan, mengunci ambang agar tak terbuka.
+"Biarkan mereka bertanya padamu."
 
-Ashvarok-Renn naik ke menara menatap ke utara lalu selatan. "Lima dari tujuh," bisiknya. "The Wanes pegang batu tanpa kunci. Kita pegang napas. Selama napas-napas itu berjalan, tidak ada tangan yang bisa membuka pintu."
+"Dan bila mereka memanggilku ke Spire lagi?"
+
+"Jawab yang kau catat," kata perawat tua. "Jangan berikan yang tidak mereka tanyakan."
+
+Mira menurunkan lampu. "Dua napas di celah. Satu di atas, satu di bawah. Tanpa nama." Ia mengulanginya sekali lagi, kali ini sebagai keputusan. "Itu yang akan kutulis."
+
+Pengrajin lonceng membuka salah satu lilitan kain. Logam kusam muncul selebar dua jari. Tidak ada hiasan pada permukaannya, hanya tujuh lekukan dangkal di dekat bibir. Lima telah diisi simpul tali kecil. Lekukan keenam kosong. Lekukan ketujuh dilintasi seutas benang yang ujungnya menjulur ke selatan.
+
+"Empat simpul sudah mengencang sebelum subuh kemarin," katanya. "Yang kelima baru mengencang saat perempuan tua di rawa berhenti bergerak."
+
+Ashvarok-Renn menyentuh simpul kelima. Seratnya dingin dan tegang. Perpindahan the Stillness telah sampai ke sini tanpa laporan, dibawa pengikat yang menghubungkan napas-napas itu. Lonceng tersebut bukan alat untuk mencari mereka. Ia menunggu mereka berada di tempatnya.
+
+"Lekukan kosong ini?" tanya Mira.
+
+"Batu yang dibawa pemburu," jawab pengrajin. "Ia tidak pernah punya napas. Karena itu talinya tidak bisa kuikat."
+
+"The Unclaimed," kata Ashvarok-Renn. "Mereka memegangnya dan mengira mereka memegang kunci."
+
+Jari pengrajin berpindah ke benang terakhir. "Yang ini tidak pernah putus, tetapi selalu longgar. Berakhir di tanah yang tidak pernah menjawabku."
+
+"The Ground," kata perawat tua.
+
+Lelaki itu mengangguk. "Kalau tanah menjawab, lonceng ini akan tahu. Jangan suruh aku membunyikannya sebelum itu."
+
+Ashvarok-Renn berdiri. Lima napas telah terjaga pada ambangnya masing-masing. The Unclaimed tetap berada bersama the Wanes, benda tanpa napas yang tidak dapat membuka apa pun. Hanya benang the Ground yang belum tegang. Musuh duduk di pangkal the Hollow tanpa memahami bahwa tanah di bawah mereka, bukan batu di tangan mereka, menyimpan napas terakhir.
+
+"Tetap di sini," katanya kepada pengrajin. "Jangan ubah ketukanmu. Jangan naik bila mendengar langkah yang tidak memakai dua pendek dan satu panjang."
+
+"Aku bertahan delapan belas tahun tanpa perintahmu."
+
+"Benar. Itu sebabnya aku memintamu melanjutkan, bukan memulai."
+
+Pengrajin itu mengambil kembali talinya. "Bawa seseorang ke selatan yang tahu cara mendengar tanah tanpa mencoba memilikinya. Orang yang datang membawa sekop akan membangunkan hal yang salah."
+
+Ketika mereka naik, matahari telah menyentuh dinding barat menara. Perawat tua menutup pintu batu dan memutar jarum pemilin. Gesekan dari bawah kembali terdengar: tali ditarik, simpul dikencangkan. Kini Ashvarok-Renn dapat membedakannya dari bunyi menara. Selama ini the Silence tidak pernah diam. Mereka saja yang salah mengira bunyi kecil itu bagian dari batu.
+
+---
+
+Ossian menunggu di barak saat Ashvarok-Renn kembali. Debu jalan utara melekat pada ujung jubahnya. Di meja, ia telah membuka kain tenun dari muridnya: enam cap tujuh garis tersebar di desa-desa antara danau garam dan menara. Di sampingnya terletak buku kecil bersampul pudar yang selalu ia simpan dekat tubuh.
+
+"Kau menemukan orang kedua di celah," katanya. Bukan pertanyaan.
+
+"Pengrajin lonceng," jawab Ashvarok-Renn. "Ia the Silence. Loncengnya menunggu benang the Ground mengencang."
+
+Kovan menggeser peta mendekat. "Berarti lima napas terjaga. The Wanes membawa the Unclaimed, dan satu-satunya tempat yang belum kita pastikan adalah pangkal."
+
+"Mereka sudah bergerak ke sana." Ossian membuka buku kecilnya pada halaman yang dilipat. Garis tipis turun dari menara menuju cekungan di selatan. "Cap pertama muncul di jalur the Hollow sepekan lalu. Mereka menggali bukit-bukit di sekelilingnya. Mereka masih mencari benda, tetapi laporan hari ini bilang mereka mulai mengukur napas orang tua di desa utara. Waktu kita bukan lagi hitungan pekan."
+
+Ashvarok-Renn menahan peta dengan dua jari. Garis menuju cekungan itu tampak sederhana di atas kertas. Yang menunggunya di ujung bukan. The Wanes telah salah mencari darah, salah membaca batu, lalu mulai belajar mengukur napas. Satu kesalahan lagi dari pihak barak dapat memberi mereka jawaban yang selama ini tidak mereka pahami.
+
+"Aku pergi," katanya.
+
+"Tidak." Gella menutup buku pemulihan di meja dengan bunyi keras. "Napasmu tiga. Kalau tubuhmu jatuh di the Hollow, kita kehilangan the Bearer sekaligus orang yang paling mampu menjaga lima napas lain dari sini."
+
+"Tanah itu mengenal pekerjaanku."
+
+"Tubuhmu tidak mengenal belas kasihan tanah." Telunjuk Gella tetap di atas angka terakhir hasil pemeriksaannya. "Kau tidak boleh menukar seluruh jaringan dengan satu kepastian."
+
+Kovan memandang Ashvarok-Renn, lalu peta. "Dia benar. Kalau kau pergi, siapa yang membaca perubahan pada benang the Gate, the Escape, the Remnant, the Stillness, dan the Silence? Kita mungkin memastikan the Ground sambil membiarkan lima lainnya terbuka."
+
+"Kita juga tidak bisa mengirim orang yang mengira tugasnya mengambil sesuatu," kata Ashvarok-Renn. "Pengrajin lonceng sudah memperingatkan kita. Yang datang untuk memiliki akan membangunkan hal yang salah."
+
+Ossian memutar buku kecilnya agar menghadap mereka. "Ibuku pernah menjaga benang di the Hollow. Ini petanya. Ia menandai celah yang tidak dipakai para penggali."
+
+Kovan menahan sudut halaman sebelum buku itu bergeser. "The Wanes mengenal wajah pejabat Choir."
+
+Ossian melepas pengait perak pada kerahnya dan meletakkannya di meja. "Mereka mengenal jabatan. Itu bisa kutinggalkan."
+
+"Jabatan bukan satu-satunya yang kau bawa," kata Gella. "The Hollow mengambil keluargamu. Orang yang kembali ke tempat semacam itu jarang mendengar hanya apa yang ada di depannya."
+
+Tangan Ossian diam di sisi buku. "Karena itu aku tidak akan menafsirkan. Aku akan memastikan tanah bernapas, mencatat jawabannya, lalu mengirimkannya. Tidak lebih."
+
+"Dan bila tanah tidak menjawab?" tanya Mira.
+
+"Aku tidak memaksanya."
+
+"Bila the Wanes menemukanmu?" Kovan mendesak.
+
+"Aku melepaskan pengamatan. Tidak ada pembuktian yang sepadan dengan memberi mereka petunjuk."
+
+Ashvarok-Renn mengamati peta yang diwariskan ibu Ossian. Delapan belas tahun lalu, the Hollow mengambil keluarganya; luka itu dapat menyeretnya lebih jauh daripada perintah mana pun. Namun jawaban-jawabannya tidak menjanjikan penebusan. Ia menawarkan batas: melihat tanpa mengambil, mendengar tanpa menuntut jawaban.
+
+Itulah yang diminta pengrajin lonceng.
+
+"Kau tidak membuka apa pun," kata Ashvarok-Renn. "Kau tidak menggali, tidak membawa pulang batu, dan tidak mencoba mengikat tanah. Kau memastikan apakah the Ground masih bernapas. Bila ada bahaya bahwa pengamatanmu membantu the Wanes, kau hentikan."
+
+Ossian menatapnya lurus. "Aku menerima batas itu."
+
+Gella belum mengangkat tangannya dari buku pemulihan. "Dan kau?" tanyanya kepada Ashvarok-Renn. "Kau menerima bahwa menjaga kadang berarti tidak hadir di tempat jawaban ditemukan?"
+
+Pertanyaan itu lebih berat daripada penolakan. Ashvarok-Renn memandang benang terakhir pada peta, garis longgar yang berakhir di pangkal the Hollow. Ia dapat membacanya dari barak jika seseorang di ujung lain membuat tanah menjawab. Tempatnya bukan di cekungan. Tempatnya di sini, menjaga agar lima napas yang sudah ditemukan tidak berubah menjadi milik siapa pun.
+
+Ia mengambil pengait perak Ossian dari atas peta dan menutupnya dalam telapak tangan.
+
+"Aku tetap di sini," katanya. "Yang pergi ke the Hollow adalah Ossian."

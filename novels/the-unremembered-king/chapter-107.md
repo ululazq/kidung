@@ -53,11 +53,11 @@ Kovan mendekat. "Pasak. Enam lubang, arsip menyebut katup samping. Ada catatan i
 
 "Serat apa saja bisa jatuh ke tambang," kata pengikat senior. "Itu bukan pelajaran hari ini."
 
-Mereka bergerak menuju sisi timur, tempat retakan besar tidur di balik lapisan yang terbaca mati. Di ambang aula, pada saat mereka masuk, Kovan merasakannya lagi, hal yang sama yang pernah membuatnya berhenti di tengah langkah tahun lalu — yaitu tidak ada apa-apa, dan ketiadaan itu punya arah. Galeri sembilan sudah bisu sejak jauh sebelum mereka mencapainya. Roda troli mati di garis tertentu seperti dipotong pisau, dan Kovan mencatat batas potongan itu dalam bukunya tanpa menulis kata sunyi, karena angka saja sudah cukup bicara.
+Di ambang aula, pada saat mereka masuk, Kovan berhenti di tengah langkah. Galeri sembilan sudah bisu sejak jauh sebelum mereka mencapainya. Roda troli mati di garis tertentu seperti dipotong pisau, dan Kovan mencatat batas potongan itu dalam bukunya tanpa menulis kata sunyi, karena angka saja sudah cukup bicara. Pengikat senior mengenali apa yang menahan Kovan di garis itu: tidak ada apa-apa, dan ketiadaan itu punya arah.
 
 Pengikat senior berlutut di hadapan retakan, seperti dulu, dan tidak menyentuhnya dua kali. Satu telapak rata di batu sebelahnya. Napasnya diperlambat sampai lebih lambat dari batu, dan ia menunggu, karena batu adalah orang tua dan bercerita kalau yang mendengarkan duduk cukup lama.
 
-Kovan menghitung waktu dalam kepalaannya, kebiasaan yang tidak bisa dilepaskannya lagi. Pada hitungan enam puluh, orang tua itu menegakkan kepala sedikit. Pada hitungan sembilan puluh, bahunya turun, seperti orang yang mendengar kalimat yang sudah ia duga tetapi tetap berat didengar.
+Ujung pensil Kovan mengetuk buku catatannya sekali setiap hitungan. Pada ketukan keenam puluh, pengikat senior menegakkan kepala sedikit. Pada ketukan kesembilan puluh, bahunya turun, seperti orang yang mendengar kalimat yang sudah ia duga tetapi tetap berat didengar.
 
 "Alatmu membaca apa?" tanyanya tanpa menoleh.
 
