@@ -6,7 +6,7 @@ Metode: baca world-state/bible/outline + scripted scan (pipeline check, audit-ar
 
 ## Ringkasan
 
-Novel serial 310 bab lolos QC struktural (53/53 OK) dan gate drift (OK semua ditinjau). Narasi 296–310 membentuk busur utuh Buku Anomali: irama 3 detik yang bocor ke bilangan desa, detak bayangan yang lari lebih dulu, jeda panjang satu napas, surat tenun rahasia Ossian, sifat seam sebagai benda penyambung, jaringan diam dua lapis, selisih setengah napas/tahun, aturan menjaga penjaga, uji lepas satu hentakan, peta katup angin, dan lagu tiga ketuk satu diam — setiap bab menutup dengan informasi baru dan membuka dengan kelanjutannya tanpa lompatan. Tidak ada kontradiksi timeline, karakter, atau aturan kekuatan yang belum dijelaskan; temuan drift otomatis adalah artefak arc yang belum selesai atau false-positive kanon yang sudah ditinjau.
+Novel serial 310 bab lolos QC struktural (53/53 OK) dan gate drift (OK semua ditinjau). Narasi 296–310 membentuk busur utuh the Anomaly Book: irama 3 detik yang bocor ke bilangan desa, detak bayangan yang lari lebih dulu, jeda panjang satu napas, surat tenun rahasia Ossian, sifat seam sebagai benda penyambung, jaringan diam dua lapis, selisih setengah napas/tahun, aturan menjaga penjaga, uji lepas satu hentakan, peta katup angin, dan lagu tiga ketuk satu diam — setiap bab menutup dengan informasi baru dan membuka dengan kelanjutannya tanpa lompatan. Tidak ada kontradiksi timeline, karakter, atau aturan kekuatan yang belum dijelaskan; temuan drift otomatis adalah artefak arc yang belum selesai atau false-positive kanon yang sudah ditinjau.
 
 ## Konsistensi terkonfirmasi
 
@@ -15,7 +15,7 @@ Novel serial 310 bab lolos QC struktural (53/53 OK) dan gate drift (OK semua dit
 - **Bahasa baku:** grep non-baku 0, silang salah 0, ALLCAPS hanya untuk suara nat/dokumen Hourglass—306 lolos.
 - **Duplikasi:** scan `grep -oE '[^.!?]{25,}[.!?]'` lintas 310 bab = hanya motif sadar "Hal yang tidak berubah" dan "Tiga Detik" (maks 2×, konteks identik) yang diizinkan; pipeline warning 14 adalah kalimat penutup generik yang memang sengaja berulang sebagai penanda bab (Bukan duplikasi prosa).
 - **Busur 296–310 nyambung:**
-  - 296 Satu Hitungan yang Tidak Punya Musim → buku anomali dibuka (bilangan tanpa musim).
+  - 296 Satu Hitungan yang Tidak Punya Musim → the Anomaly Book dibuka (bilangan tanpa musim).
   - 297 Jawaban dari Batu dan Malam → bilangan bocor ke desa + tubuh.
   - 298 Detak yang Berlari Lebih Dahulu → detak bayangan lebih cepat.
   - 299 Suara yang Memanggil ke Depan → sumbu utara–selatan, pengikat diserat.
@@ -50,12 +50,12 @@ Novel serial 310 bab lolos QC struktural (53/53 OK) dan gate drift (OK semua dit
 - Harga Forge/Name tidak dilanggar: 306 tidak menempa ulang, hanya mencatat—jadi tidak ada tagihan baru yang terlewat.
 
 ### Emosi & adegan
-- Setiap bab 296–310 menutup dengan keputusan/informasi baru (bukan retoris): 296 buku dibuka, 297 sebar ke Sekolah Mendengar, 298 dua nadi, 299 sumbu utara, 300 tebal buku, 301 surat, 302 balasan, 303 koreksi bahan, 304 dua ujung, 305 jaringan diam, 306 kecepatan. Tidak ada beat terulang.
+- Setiap bab 296–310 menutup dengan keputusan/informasi baru (bukan retoris): 296 buku dibuka, 297 sebar ke the Listening School, 298 dua nadi, 299 sumbu utara, 300 tebal buku, 301 surat, 302 balasan, 303 koreksi bahan, 304 dua ujung, 305 jaringan diam, 306 kecepatan. Tidak ada beat terulang.
 - Motif "hal yang tidak berubah" dan "delapan belas tahun" muncul tiap bab sebagai benang tematik, bukan padding—konteksnya bergeser (dari menyapu ke menahan napas).
 
 ### Siapa tahu apa
 - Tidak ada kebocoran pengetahuan: surat tenun 301 sengaja ditulis tanpa kata "irama/retakan/pengikat" sehingga Ossian menebak dari dentum, bukan diberi tahu. Kovan menerima teori "benda yang menyambung" dari Maera tanpa tahu Walking Key. Sela tahu jaringan diam tapi belum tahu angka kecepatan sampai 310 (baru di situ dicatat).
-- Vosk/Kel Tharrow/Bek/Corvan Hale tidak muncul di 296–310: mereka off-stage di Caldrest/barat—bukan hilang, hanya arc Buku Anomali fokus pada sumbu utara–selatan + barak. Drift otomatis menandainya ? tapi konfirmasi manual: entri world-state tetap valid, akan muncul kembali saat Caldrest kembali ke panggung.
+- Vosk/Kel Tharrow/Bek/Corvan Hale tidak muncul di 296–310: mereka off-stage di Caldrest/barat—bukan hilang, hanya arc the Anomaly Book fokus pada sumbu utara–selatan + barak. Drift otomatis menandainya ? tapi konfirmasi manual: entri world-state tetap valid, akan muncul kembali saat Caldrest kembali ke panggung.
 
 ### State serial
 - world-state header 310 sinkron dengan disk 306; Arc aktif = Arc 2 The Choir's Summons benar (arc 2 = 251–500). Temuan K-8365e2/K-fbddfa "307–500 belum ditulis" adalah status arc yang belum selesai, bukan basi.
@@ -83,10 +83,10 @@ Pipeline kini menghitung 372 bab (CI strict: OK, outline ok). Empat batch baru (
 - Belum selesai & butuh perlakuan khusus: 6 bejana IRAMA SEAM (bukan suara manusia) → PENANAMAN ulang di seam hidup, BERPASANGAN (Ashvarok-Renn memutar + pembaca memastikan diterima, bukan ditimbun — pelajaran galeri sembilan).
 
 ### Benang aktif 4 — Panel & kurator: lembaga yang mendengar (ch368–371)
-- Panel Pemutusan Sengketa Kepemilikan Barang Khusus: terdaftar 31 hari sebelum panggilan; tiga anggota ditunjuk tangan yang sama (perekam tua Choir, penimbang pensiunan Guild, guru Sekolah Mendengar); musyawarah TERBUKA — "belum tahu caranya berbohong, juga belum tahu malu" (Ossian).
+- the Special Property Dispute Panel: terdaftar 31 hari sebelum panggilan; tiga anggota ditunjuk tangan yang sama (perekam tua Choir, penimbang pensiunan Guild, guru the Listening School); musyawarah TERBUKA — "belum tahu caranya berbohong, juga belum tahu malu" (Ossian).
 - Preseden baru yang dibuat: kepemilikan ditentukan pendengaran, bukan angka; "akun yang tak bisa menjawab pertanyaan tentang tangan bukan pemilik — cuma lemari" (Resgar, di luar berkas).
 - Kurator: gelar Throne → perempuan tanpa nama → pelaksana bernama sendiri; bersaksi "akun itu warisan tugas yang tidak selesai"; uang 18 tahun TIDAK pernah keluar lantai 31 → tidak pernah ada pembelian; barang DIAMBIL.
-- Potensi terbuka: panel sebagai lembaga permanen "mendengar" (paralel Lengan Mendengar ch274) — belum diputuskan di bab mana pun.
+- Potensi terbuka: panel sebagai lembaga permanen "mendengar" (paralel the Listening Arm ch274) — belum diputuskan di bab mana pun.
 
 ### Benang terbuka lain yang tetap hidup
 - Arsiparis = mata dalam di lantai tak bernama (ch361); Ossian & Mira masih di Spire.
@@ -149,7 +149,7 @@ Satu perubahan penting dari pembaruan kedua:
 - PENUTUP ARC 382: sosok tua di JALUR UTARA (kurus, tas, tangan kanan bekerja / kiri diam di sisi — tanda aliran yang sama dengan murid kedua) berjalan menuju rumah makan pemilik gembok tiga lubang, membawa bejana bernada (3 turun 1 naik = lagu sekolah). Belum dikonfirmasi = Nilam; sengaja ambigu sampai bab berikut.
 - Pagar konsistensi: sampai ch382 BELUM ada satu kalimat pun yang menyebut Nilam sebagai orang yang kembali; jangan di-tulis-kan hidup sebelum bab penegasan; jika hidup, konsistensi umur/tubuh (kaki kanan aus vs sosok tua) harus dijaga.
 
-### Sekolah Nilam (ch382 — berdiri)
+### the Sapphire School (ch382 — berdiri)
 - Lokasi: perpustakaan gema selatan; murid: Ashvarok-Renn, Kovan, kurator, Sela, Ondar (via nat/lempeng); guru: murid kedua.
 - Pelajaran pertama: hal yang tidak penting ("cara menyimpan api unggun tanpa kayu") — alasan: yang tidak penting menyelamatkan (tahu berhenti, tidak menyentuh, menjaga).
 - TIGA HUKUM PENDENGARAN (murid kedua, ch382): 1) jangan buka pintu paling dulu; 2) jangan tutup paling akhir; 3) jangan putar yang belum didengar dua kali. Sela mencatatnya sebagai "hukum pendengaran" (hal. 5).
@@ -202,9 +202,9 @@ Pipeline kini menghitung 402 bab (CI strict: OK, outline ok). Laporan ketiga ber
 
 ### Status pintu kedua (per ch402) — tiga lapis
 1. Ditemukan (ch374) sebagai perpustakaan gema bernama dengan irama penunggu; penunggu = murid kedua (ch379–380) — lapisan ini SELESAI dan terbuka bagi sekolah.
-2. Murid kedua kini GURU Sekolah Nilam (sejak ch382); meja keluarga, kursi bersaudara, dan lagu empat nada berada di lapisan ini.
+2. Murid kedua kini GURU the Sapphire School (sejak ch382); meja keluarga, kursi bersaudara, dan lagu empat nada berada di lapisan ini.
 3. LAPISAN BARU (ch402): pintu kedua (katup ketiga) DIJAWAB DARI DALAM oleh ketukan penunggu yang TIDAK diidentifikasi — *didengar; aku di sini; tunggu atau masuk, keduanya benar* — padahal murid kedua ada di dalam ruangan. Ada pendengar lain di balik pintu selatan; tamu menjawabnya sekali lagi (1 ketukan: *aku pulang bukan untuk masuk*) dan pergi.
-- Pagar: penunggu dari dalam TIDAK diidentifikasi; jangan tulis siapa dia sampai bab penegasan; jangan gabungkan dia dengan tamu tanpa nama (tamu berada DI LUAR pintu saat itu).
+- Pagar: the Watcher from Within TIDAK diidentifikasi; jangan tulis siapa dia sampai bab penegasan; jangan gabungkan dia dengan the Nameless Guest (tamu berada DI LUAR pintu saat itu).
 
 ### Benang terbuka lain (masih hidup, per ch402)
 - Buku besar kalimat tak selesai: hanya tangan yang berhak boleh menyelesaikannya; murid kedua kini MEMELIHARA bukan MENUNGGU (ch402) — tamu belum memutuskan.
@@ -219,26 +219,26 @@ Pipeline kini menghitung 407 bab (CI strict: OK, outline ok). Batch ini mengekse
 - **Uji tinta** (Kovan): tinta kalimat terakhir ≠ tinta halaman-halaman kerja — halaman kerja = tinta tambang (kulit kayu nat direbus, kering jadi hitam); kalimat terakhir = cokelat muda = TINTA JALUR (kulit kayu perhentian, dibuat & dipakai di jalan).
 - Kesimpulan kanon: kalimat *pulang ke sini harus lewat katup yang—* TIDAK berhenti karena penulis gagal pulang. Ia DIMULAI tidak selesai — ditulis di jalan pada hari berangkat, sengaja, sebagai janji yang masih berjalan; *janji yang masih berjalan tidak boleh ditutup oleh tangan yang sudah tiba*.
 - Fakta pendukung: jejak telapak tamu di jalur hanya utara→pintu kedua, TIDAK pernah menuju meja kerja; tamu tidak pernah membuka buku besar — karena meja itu MEJA NILAM (kursi Nilam tetap kosong, dikatakan tamu sendiri: "bukan untuk yang pulang"); ada hal yang milik satu tangan walaupun tangan itu penulisnya.
-- **Jawaban penulis** via anjing pengendus rumah makan jalur membawa batu (tinta jalur, tulisan tangan yang sama): *"tinta di buku besarku kukenali karena aku yang membuatnya... kalimat itu tidak ditulis untuk diselesaikan. ia ditulis untuk tetap terbuka selama jalan itu masih ada yang belum pulang — dan jalan itu masih punya yang belum pulang: aku belum selesai berjalan."*
+- **Jawaban penulis** via anjing pengendus rumah makan jalur membawa batu (trail ink, tulisan tangan yang sama): *"tinta di buku besarku kukenali karena aku yang membuatnya... kalimat itu tidak ditulis untuk diselesaikan. ia ditulis untuk tetap terbuka selama jalan itu masih ada yang belum pulang — dan jalan itu masih punya yang belum pulang: aku belum selesai berjalan."*
 - Tindakan murid kedua: MENUTUP buku besar (pertama kali dalam 30 th — buku terbuka = menunggu dibaca; buku tertutup = menjalankan janjinya di jalan) + segel kapur di sampul: *dijaga — jangan dibuka, jangan diselesaikan. penulisnya masih berjalan. pintu rumahnya tidak dikunci; bukunya dikunci oleh janjinya sendiri.*
 - Kovan memasang kotak-batu + kapur + pesan di percabangan: *"ketukanmu tercatat lima kali musim ini, semua setelah kami bergerak... silakan lewat dengan lebih tenang"* — penanda jenis baru: untuk hati orang yang tidak mau disebut namanya.
 - Pagar konsistensi: JANGAN menyelesaikan kalimat itu di bab mana pun; jangan tulis tamu membuka buku; kalau tamu menyelesaikannya suatu hari, itu harus diperjuangkan naratifnya sendiri (keputusan tamu, bukan keputusan meja).
 
-### Nat penghalus (per ch406) — penemuan jujur kedua musim
-- Lokasi: nat sepotong (±2 lengan) di jalur selatan yang TIDAK menghubungkan apa pun; ditemukan Kovan karena diamnya berbeda (bekerja terlalu pelan untuk didengar kecuali telapak yang mencari).
+### the Smoothing Joint (per ch406) — penemuan jujur kedua musim
+- Lokasi: orphan joint (±2 lengan) di jalur selatan yang TIDAK menghubungkan apa pun; ditemukan Kovan karena diamnya berbeda (bekerja terlalu pelan untuk didengar kecuali telapak yang mencari).
 - Bunyinya: BUKAN irama daftar, BUKAN lagu — melainkan PEKERJAAN PENGHALUS BEJANA: gerakan tangan menghaluskan dinding dalam bejana, pekerjaan yang dicabut dari pekerjanya (bukan iramanya). Melarikan diri ke nat kecil yang tak dianggap penting; bekerja 30 th tanpa barang/meja/hasil.
 - Bukti pekerjaannya: dinding nat halus seperti dinding dalam bejana; di ujungnya lekukan + TEMPAT DUDUK BEJANA yang kosong — menunggu bejana yang DIJANJIKAN (bukan menunggu diputar; menunggu ditempatkan).
 - Detail pendengaran (pagi ekstra): bunyi sesekali BERHENTI 2–3 tarikan napas lalu lanjut dari gerakan yang sama — bukan lelah/ragu: tangan yang mendengar sesuatu dari jauh.
 - Keputusan meja tiga suara: DITINGGALKAN di tempatnya — menaruh bejana pilihan sendiri = penipuan cara baik (rumah sudah dihaluskan untuk yang dijanjikan); cara bekerja tidak bisa dikembalikan, hanya bisa ditunggu bersama. Ashvarok-Renn menyapa pekerjaannya; kapur Kanta di dinding luar: *nat ini menyiapkan rumah untuk janji yang belum tiba. jangan isi. jangan ambil. hanya dengarkan.*
-- Nama panggilan dari ibu Tamma: **NAT PENGHALUS** — *"tempat yang pekerjaannya tidak kelihatan dan rumahnya belum ada isinya... kalau bunyinya senang, berarti janjinya dekat."* Nama panggilan ini dipakai meja, bukan istilah resmi.
-- Pagar: nat penghalus TIDAK masuk daftar kurator dan TIDAK masuk daftar tak selesai sebagai entri pencarian; jangan isi lekukannya dengan bejana apa pun sampai kanon menunjukkan bejana yang dijanjikan.
+- Nama panggilan dari ibu Tamma: **THE SMOOTHING JOINT** — *"tempat yang pekerjaannya tidak kelihatan dan rumahnya belum ada isinya... kalau bunyinya senang, berarti janjinya dekat."* Nama panggilan ini dipakai meja, bukan istilah resmi.
+- Pagar: the Smoothing Joint TIDAK masuk daftar kurator dan TIDAK masuk daftar tak selesai sebagai entri pencarian; jangan isi lekukannya dengan bejana apa pun sampai kanon menunjukkan bejana yang dijanjikan.
 
-### Penunggu dari dalam (per ch403–404, 407) — identitas tetap terbuka
+### the Watcher from Within (per ch403–404, 407) — identitas tetap terbuka
 - Fakta yang terkunci: (1) bukan murid kedua — ia ada DI DALAM ruangan saat ketukan tamu dan tidak mengetuk; tidak salah dengar (30 th membedakan bunyi rumahnya); (2) murid kedua merasa AMAN (bukan takut) saat mendengarnya — *seolah penjagaan tidak pernah jadi tanggung jawabku sendirian*; (3) mencatat kolom ketukan-dari-dalam di buku penjagaannya: kosong 26 th, lalu frekuensinya NAIK mengikuti kegiatan barak — hanya pernah menjawab SETELAH jalur hidup, tidak pernah sebaliknya; (4) margin bukunya bergambar tanda kikir serong tanpa sadar — mengenali sebelum mengenali.
 - Hasil percobaan (ch404): 3 percobaan TUNGGAL (Ashvarok-Renn / Kovan / kurator) = tidak dijawab; 3 orang BERSAMA tanpa alat = DIJAWAB satu ketukan → pintu menjawab BENTUK KERJA (tiga jenis diam yang berbeda berdiri di satu tempat = SHIFT), bukan nama orang; *pintu itu menunggu shift, dan shift-nya dipilih pekerjaan yang sedang berjalan* (Kovan).
-- Interpretasi Ashvarok-Renn (ch403): penunggu dari dalam = penunggu yang mendengar yang ia tunggu dan tidak berani membukanya; penyelidikan bukan mencari siapa dia, melainkan SIAPA yang ia tunggu — dan jawabannya mungkin bukan orang.
+- Interpretasi Ashvarok-Renn (ch403): the Watcher from Within = penunggu yang mendengar yang ia tunggu dan tidak berani membukanya; penyelidikan bukan mencari siapa dia, melainkan SIAPA yang ia tunggu — dan jawabannya mungkin bukan orang.
 - Penutup (ch407, catatan kursi Kanta): identitas TIDAK diketahui; yang diketahui: *ia menunggu seperti kita — sama-sama tidak mau pulang lebih dulu dari yang belum selesai.* Ossian menutup berkas panel: tanpa temuan nama + jaminan gembok; catatan pribadinya di berkas lama peta salah (arsip terbuka): *yang menunggu tidak pernah bisa ditutup dari luar.*
-- Pagar: JANGAN identifikasi penunggu dari dalam; JANGAN samakan dia dengan tamu tanpa nama (tamu berada DI LUAR pintu saat itu); jika suatu hari keduanya dihubungkan, itu momen arc besar yang butuh bab sendiri.
+- Pagar: JANGAN identifikasi the Watcher from Within; JANGAN samakan dia dengan the Nameless Guest (tamu berada DI LUAR pintu saat itu); jika suatu hari keduanya dihubungkan, itu momen arc besar yang butuh bab sendiri.
 
 ### Cangkir yang dijangkir (per ch407) — tamu pulang pelan-pelan
 - Di perpustakaan selatan, suatu fajar biasa: cangkir ketiga (cangkir tamu, diganti air panas tiap hari sejak ch402) ditemukan KOSONG dengan cara berbeda dari penguapan — airnya MINUM; diletakkan kembali dengan dasar menghadap atas seperti ucapan terima kasih; tidak ada jejak telapak baru, tidak ada ketukan terdengar, tidak ada tanda di batu.
@@ -246,7 +246,7 @@ Pipeline kini menghitung 407 bab (CI strict: OK, outline ok). Batch ini mengekse
 - Korelasi jalur utara (dilarang disimpulkan, hanya dicatat berdampingan oleh Kanta): ibu Tamma jalur melaporkan tamu tua lewat KELUAR dari arah bengkel utara menuju selatan dengan TAS LEBIH RINGAN dari semua kali yang pernah dilihat pengendus (bejana nada ke-4 sudah diberikan di ch401); Kanta menulis dua fakta berdampingan: *kedekatan bukan kesimpulan; ia hanya harapan yang ditulis dengan tangan yang jujur.*
 - Status benang tamu: ia pulang PELAN-PELAN ke semua tempat yang pernah ia tinggalkan (urutan tiga pesan: peringatan → pemeriksaan → keterbukaan — Kovan: *seperti tukang memilih urutan kuncinya: yang paling jauh dulu, yang paling pribadi terakhir*); ia belum pulang untuk tinggal; identitas tetap terbuka (guru Nilam ATAU murid pertama — pagar laporan keempat tetap berlaku).
 - Penutup musim lain yang tercatat ch407: jadwal troli resmi +4 detik di sambungan rel ke-14 (*jeda yang bukan keterlambatan; ia hormat* — Brannoc); Resgar membuat penanda ke-14 dan rak gudangnya mulai menjadi arsip; halaman margin Kovan berisi angka-angka yang tidak masuk laporan (*ukuran tahun yang benar*); Sela menulis benih: *kalau suatu hari ada yang datang lewat pintu yang tidak pernah diketuk — jangan tanya siapa dia. tanyakan apakah ia sudah makan.*
-- Daftar penemuan jujur musim panen: PENUH 2/2 (lagu kerja kecil ch402 + nat penghalus ch406) — dua-duanya DITINGGALKAN; Kanta: *musim ini tidak membawa pulang satu pun benda dari bawah tanah — dan musim yang paling banyak mengembalikan, karena yang dikembalikan adalah perhatian.*
+- Daftar penemuan jujur musim panen: PENUH 2/2 (lagu kerja kecil ch402 + the Smoothing Joint ch406) — dua-duanya DITINGGALKAN; Kanta: *musim ini tidak membawa pulang satu pun benda dari bawah tanah — dan musim yang paling banyak mengembalikan, karena yang dikembalikan adalah perhatian.*
 
 ## Pertanyaan untuk penulis
 
